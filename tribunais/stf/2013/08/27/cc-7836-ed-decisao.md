@@ -1,0 +1,26 @@
+Decisão: 1. Trata-se de embargos de declaração opostos pela autora (fls. 696/700), contra decisão monocrática que resolveu conflito de competência, nos seguintes termos:
+    “(...) 4. A competência da Justiça do Trabalho foi ampliada pela Emenda Constitucional 45/2004, que, entre outras mudanças, estabeleceu no art. 114, I, da Constituição:
+    (…)
+    Esse dispositivo é objeto de questionamento na Ação Direta de Inconstitucionalidade 3395, que teve o pedido liminar deferido, para conferir a interpretação de que o art. 114, I, não compreende as causas propostas por servidor estatutário contra a Administração Pública, excluindo qualquer outra interpretação:
+    INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária (ADI 3395 MC/DF, Pleno, rel. Min. Cezar Peluso, j. 05/04/2006, DJ de 10/11/2006, p. 49).
+    Em suma, decidiu-se que a competência da Justiça do Trabalho fixada pelo art. 114, I, da Constituição não abrange o julgamento de processos envolvendo a Administração Pública e servidor a ela vinculado pelo regime jurídico estatutário, sobre obrigações decorrentes do vínculo.
+    Neste conflito de competência, a petição inicial busca desconstituir o vínculo temporário que a autora manteve com o réu, com o consequente reconhecimento de subordinação não eventual, regido pela CLT. Junta como prova: recibos de pagamento (fls. 24/29), relação de salários-de-contribuição e vínculos no CNIS (fls. 30/31) e termo de rescisão contratual de prestação de serviços (fl. 33).
+    Portanto, trata-se de questionamento da legalidade do ato administrativo de contratação temporária para prestação de serviços, e não se discute o pagamento de verbas trabalhistas ou relacionadas com o novo regime funcional, o que não se insere na competência da Justiça do Trabalho, independentemente de o ato ter ocorrido em momento anterior ou posterior à EC 45/2004.
+    Especificamente sobre o afastamento da competência da Justiça do Trabalho para processar e julgar controvérsias envolvendo contratos de prestação de serviços firmados com a Administração Pública:
+    COMPETÊNCIA - PRESTAÇÃO DE SERVIÇOS - REGÊNCIA. Assentada a premissa de não se ter o envolvimento de relação de trabalho, mas de liame disciplinado pelo Direito Administrativo, descabe cogitar da competência da Justiça do Trabalho e, portanto, de violação ao artigo 114 da Constituição Federal, no que julgada a lide pela Justiça comum.
+    PRESCRIÇÃO - RELAÇÃO JURÍDICO-ADMINISTRATIVA - REGÊNCIA. Em se tratando de relação jurídica de cunho administrativo, impossível é assentar a aplicabilidade do disposto na letra a do inciso XXIX do artigo 7.º da Constituição Federal (RE 181287/SP, 2ª Turma, Rel. Min. Marco Aurélio, j. 22/04/1997, DJ de 27/06/1997, p. 30246).
+    Em suma, na esteira do quanto decidido pelo STF no julgamento do citado RE 573.202/AM, não compete à Justiça do Trabalho processar e julgar as causas fundadas em relação de trabalho com a Administração, inclusive as derivadas de contrato temporário fundado no art. 37, IX, da CF e em legislação local, ainda que a contratação seja irregular em face da ausência de prévio concurso público ou da prorrogação indevida do vínculo. No caso, a Lei 8.745/93 dispõe sobre a contratação de pessoas por tempo determinado pelos órgãos da Administração Federal direta, com a incidência subsidiária de regras da Lei 8.112/90 e filiação ao Regime Geral de Previdência Social (art. 8º da Lei 8.745/93 e art. 1º da Lei 8.647/93).
+    5. Diante do exposto, com base no art. 120, parágrafo único do CPC, conheço do conflito, declarando a competência da Justiça Federal, e determino a remessa dos autos para a 15ª Vara da Subseção Judiciária do Distrito Federal.
+    Publique-se. Intimem-se.
+    Brasília, 27 de agosto de 2013.
+    Ministro Teori Zavascki
+    Relator”.
+    Em suma, alega a embargante que seu pedido tem como causa de pedir a contratação sem fundamento legal e prequestiona a ocorrência de violação ao art. 5º, XXXV e LV., da Constituição, e aos arts. 128, 245 e 460, do Código de Processo Civil.
+    2. Os embargos declaratórios não apresentam nenhuma alegação da ocorrência de omissão, contradição ou obscuridade na decisão impugnada, mas se limitam a acrescentar novos argumentos e a prequestionar a violação a dispositivos da Constituição e do CPC.
+    A decisão embargada observa a jurisprudência do Supremo Tribunal Federal sobre o assunto e, não havendo qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 535 do CPC, impõe-se a rejeição dos presentes embargos declaratórios.
+    3. Diante do exposto, rejeito os embargos de declaração.
+    Publique-se. Intimem-se.
+    Brasília, 26 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
