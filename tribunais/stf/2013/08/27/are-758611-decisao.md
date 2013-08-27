@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 173):
+    “DIREITO ADMINISTRATIVO. APELAÇÕES CÍVEIS. LEI ESTADUAL N° 12.582/96. REESTRUTURAÇÃO DO PLANO DE CARGOS E CARREIRA. VIOLAÇÃO AO DIREITO ADQUIRIDO. INEXISTÊNCIA. MANUTENÇÃO DO QUANTUM REMUNERATÓRIO. REFORMA DA SENTENÇA. INVERSÃO DOS HONORÁRIOS SUCUMBENCIAIS.
+    1. O Estado do Ceará baliza sua conduta no princípio da legalidade, seguindo estritamente o disposto na Lei Estadual n° 12.582/96 quando operou a requalificação das classes e referências do Grupo Operacional de Tributação, Arrecadação e Fiscalização – TAF.
+    2. Não existe direito adquirido a regime jurídico por servidor público, muito menos à fórmula de remuneração de vantagens, de vencimentos ou de proventos, desde que resguardada a irredutibilidade de ganhos. Preserva-se, pois, o direito à manutenção dos mesmos vencimentos, não havendo que se falar na preservação dos critérios legais com base nos quais o valor foi estabelecido. Precedentes do Superior Tribunal de Justiça (RMS 13.526/CE, RMS 18.956/CE, RMS 9955/SC).
+    3. Inversão dos honorários sucumbenciais, arbitrados estes em R$ 500,00 (quinhentos reais).
+    4. Apelação Cível do Estado do Ceará conhecida e provida. Sentença reformada.
+    5. Apelação Cível de Clodoveu Abílio Nunes e João Batista Terceiro conhecida e não provida.”
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a, da Constituição Federal. Os recorrentes sustentam violação aos arts. 5º, II e XXXVI; 37, caput; e 40, § 8º, todos da Carta. Alegam, em síntese, que a alteração do plano de carreira implicou decesso funcional, pois à época da aposentadoria estavam no último nível da carreira. Afirmam, ainda, que o entendimento de que não há direito adquirido a regime jurídico aplica-se apenas aos servidores em atividade.
+    A decisão agravada negou seguimento ao recurso sob o argumento de que “o decisum invectivado escorou-se nas provas produzidas e nas disposições da Lei Estadual nº 12.582/96, instituidora de novo plano de cargos e carreiras (…). Ressai-se, no mais, que a decisão recorrida guarda total sintonia com a copiosa jurisprudência desta Corte, no sentido ‘de que não há direito adquirido a regime jurídico (...)’.” (fl. 254)
+    No entanto, o recurso deve ser admitido. Com efeito, a questão constitucional debatida nos autos já teve sua repercussão geral reconhecida pelo Supremo Tribunal Federal no RE 606.199-RG, da relatoria do Ministro Ayres Britto. O tema ficou assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. REESTRUTURAÇÃO DE PLANO DE CARGOS E SALÁRIOS. SERVIDOR APOSENTADO NO ÚLTIMO NÍVEL DA CARREIRA, REENQUADRADO EM PADRÃO INFERIOR. PRESENÇA DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL DEBATIDA. Possui repercussão geral a questão constitucional atinente ao direito de servidores inativos a continuar situados no último nível da carreira (nível no qual foram aposentados), mesmo diante da reestruturação do plano de cargos e salários.”
+    Diante do exposto, dou provimento ao agravo para admitir o recurso extraordinário, e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 27 de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
