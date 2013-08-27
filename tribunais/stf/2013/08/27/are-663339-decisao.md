@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS PÚBLICOS. PROFESSOR E AGENTE PRISIONAL. CARGO TÉCNICO-CIENTÍFICO. COMPATIBILIDADE DE HORÁRIOS. POSSIBILIDADE.
+    I – Não merece prosperar a preliminar arguida quanto a ausência de prova pré-constituída sobre a incompatibilidade de horários para exercício das duas funções pleiteadas pelo impetrante, vez que as provas nos autos demonstram o contrário.
+    II – Conforme dispõe o artigo 37, XVI, “b” da CF é vedada a cumulação remunerada de cargos públicos, exceto quando houver compatibilidade de horários, ou seja, de um cargo de professor com outro técnico ou científico.
+    III – A Lei Estadual nº 14.237/02, em seu artigo 5º, inciso VIII, disciplina que o Agente de Segurança Prisional para exercer suas funções, deve ter aproveitamento em curso de formação específica para o exercício da função, tratando-se portanto de atividade técnica, pois exige conhecimentos específicos para área prisional.
+    IV – Tem direito líquido e certo o impetrante de exercer os dois cargos públicos para os quais fora aprovado em concurso, desde que respeitado, por óbvio, a compatibilidade de horários e o teto remuneratório previsto na nossa Carta Magna Republicana.
+    SEGURANÇA CONCEDIDA”.
+    Alega-se, no apelo extremo, a existência de violação do artigo 37, inciso XVI, alínea ‘b’, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Na espécie, o Tribunal de origem entendeu que o cargo de agente prisional é de natureza técnico-científica com base na legislação infraconstitucional pertinente (Lei nº 14.237/2002). Assim, a alegada ofensa constitucional, se existente, seria reflexa ou indireta, o que inviabilizaria o processamento do recurso extraordinário. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. ACUMULAÇÃO DE CARGOS PÚBLICOS. CONCEITO DE CARGO TÉCNICO. NECESSIDADE DE PRÉVIA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. O Tribunal a quo tratou apenas de matéria infraconstitucional referente ao conceito legal de cargo técnico para fins de acumulação de cargos públicos. O exame da alegada ofensa a dispositivo constitucional dependeria de prévia análise da legislação infraconstitucional que disciplina a matéria. Precedentes. Agravo regimental conhecido e não provido” (RE nº 602.454/RS-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 8/5/12).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. ACUMULAÇÃO DE CARGOS. DECISÃO FUNDAMENTADA EM LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO” (AI nº 855.866/CE-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 21/8/12).
+    "AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ACUMULAÇÃO DE CARGOS PÚBLICOS. CARÁTER TÉCNICO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 279 DO STF. A discussão sobre o caráter técnico do cargo que se pretende acumular com o de professor, nos termos da norma da alínea b do inciso XVI do art. 37 da Constituição Federal, exige o exame das provas constantes dos autos e da legislação infraconstitucional pertinente, o que é inviável nesta esfera. Agravo regimental a que se nega provimento" (AI nº 512.663/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 19/12/11).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 27 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
