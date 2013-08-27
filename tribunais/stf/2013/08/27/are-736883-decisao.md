@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Pernambuco cuja ementa transcrevo, a seguir, no que interessa:
+    “ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DA EXCLUSÃO DA AUTORA DE CONCURSO PÚBLICO PROMOVIDO PARA O CARGO DE JUIZ ESTADUAL. MANDADO DE SEGURANÇA IMPETRADO CONTRA O ATO DE EXCLUSÃO. SEGURANÇA CONCEDIDA EM SEDE DE RECURSO EXTRAORDINÁRIO. A PRESCRIÇÃO DA PRETENSÃO INDENIZATÓRIA DÁ-SE APÓS CINCO ANOS DO TRÂNSITO EM JULGADO DA DECISÃO CONCESSIVA DA SEGURANÇA PLEITEADA NO MANDAMUS. DANOS MATERIAIS E MORAIS DEVE SER MINORADA PARA ADEQUAR-SE ÀS PECULIARIDADES DO CASO CONCRETO. SENTENÇA REFORMADA EM PARTE. REEXAME PROVIDO PARCIALMENTE. PREJUDICADO O RECURSO DE APELAÇÃO. DECISÃO UNÂNIME”. (eDOC 8, p. 51)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 37, § 6º, do texto constitucional.
+    Alega-se, em síntese, a impossibilidade do TJ do Estado de Pernambuco de investir a recorrida no cargo de Juíza substituta, tendo em vista a ocorrência de fato impeditivo à sua nomeação, qual seja, trâmite de ação judicial a confirmar sua participação definitiva no certame.
+    Decido.
+    O recurso não merece prosperar.
+    Com efeito, o acórdão recorrido, acerca dos fatos alegados pelo agravante, assentou o seguinte:
+    “O Estado do Pernambuco aduz, em sede meritória, inexistir conduta ilícita de sua parte, uma vez que a nomeação da autora não poderia ser levada a cabo antes do término do mandado de segurança por ela impetrado.
+    Tal argumento, contudo, afigura-se insustentável, porquanto a ilegalidade da conduta da Administração já foi objeto de análise judicial, ocasião em que o Superior Tribunal de Justiça consignou a ilegitimidade do ato administrativo que excluiu a autora/apelada do concurso. Segue a ementa:
+    ‘CONCURSO PÚBLICO. MAGISTRATURA. EXAME PSICOTÉCNICO. - Fere direito líquido e certo da candidata a decisão que afasta do concurso tão só porque o laudo do exame psicotécnico, nada obstante haver concluído por sua indicação, registrara insuficiente em dois itens do tópico Aspectos da Personalidade’.
+    (…)
+    Os prejuízos materiais são evidentes, na medida que a autora/apelada deixou de perceber o subsídio próprio da magistratura durante todo o período de preterição(...)”. (eDOC 1, p. 56)
+    Assim, para se entender de forma diversa e superar o entendimento adotado pelo Tribunal de origem, seria necessário o revolvimento do acervo fático-probatório, providência esta vedada em sede de recurso extraordinário por óbice do Enunciado 279 da Súmula desta Corte.
+    Confira-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE DO ESTADO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE NOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – A apreciação do recurso extraordinário, no que concerne à alegada ofensa ao art. 37, §6º, da Constituição, encontra óbice na Súmula 279 do STF. Precedentes. II – Agravo Regimental improvido.” (AI-AgR 829.974, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 6.9.2011).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INDENIZAÇÃO POR DANOS MORAIS. CONCURSO PÚBLICO. DESCLASSIFICAÇÃO. AVALIAÇÃO MÉDICA. MATÉRIA INFRACONSTITUCIONAL. REEXAMES DE FATOS E PROVAS. 1. É inadmissível recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se a análise de legislação infraconstitucional. Hipótese de contrariedade indireta à Constituição Federal. 2. Tribunal de origem, a partir do exame dos fatos e das provas a ser reparado em razão de desclassificação da parte agravada do concurso público com base em avaliação médica. 3. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 37, §6º, da Constituição Federal. Precedentes. 4. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada. 5. Agravo regimental a que se nega provimento”. (RE Nº 609.588/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 10/5/11).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. ORDEM DE CLASSIFICAÇÃO. PRETERIÇÃO. REEXAME DOS FATOS QUE DERAM ENSEJO À CAUSA. IMPOSSIBILIDADE.
+    Concurso público. Nomeação de candidato. Inobservância da ordem de classificação. Preterição. Reexame dos documentos e fatos que deram ensejo à causa. Impossibilidade. Súmula 279/STF. Agravo regimental não provido” (RE nº 377.291/DF-AgR, Primeira Turma, Relator o Ministro Eros Grau, DJe 7/10/05).
+    Não há, pois, o que prover quanto às alegações do agravante.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (Art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 27 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
