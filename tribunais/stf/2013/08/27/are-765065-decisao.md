@@ -1,0 +1,23 @@
+Trata-se de recurso extraordinário interposto de acórdão cuja ementa segue transcrita, no que interessa:
+    “Direito administrativo. Mandado de segurança. Curso de formação de soldado combatente da polícia militar/es. Edital nº 021/2008 – PM/ES. Candidata com tatuagem na nuca. Inaptidão na fase do exame de saúde. I) preliminarmente. I. I) ausência de decadência do direito à impetração do mandamus. I. II) adequação da via mandamental eleita. II) mérito. II. I) ato coator. Eliminação da candidata. Critério estigmatizante e preconceituoso. Conduta irrazoável da administração pública. (...)” (e-STJ fl. 203 – Vol. 5) .
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 2º e 37, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem dirimiu a controvérsia relativa à eliminação da candidata do concurso para provimento do cargo de soldado da Polícia Militar do Estado do Espírito Santo, em fase de investigação social, nos seguintes termos:
+    “II. I. A reprovação da Recorrida, em razão de pequena tatuagem em sua nuca, em razão da regra editalícia contida no art. 3º, § 7º, do Anexo II, do Edital nº 021/2008, apresenta-se como critério estigmatizante e preconceituoso criado pela Administração Pública, exorbitando os limites da razoabilidade que orientam os atos administrativos e o próprio caminhar dos Entes Federados que compõem o Estado Democrático de Direito.
+    No caso em foco, sobreleva notar que, a ausência de proporcionalidade do requisito em debate, acarretou na ilegalidade do ato que inadmitiu a Recorrida para a continuação do certame, afastando, por conseguinte, a aplicação do princípio da vinculação ao instrumento convocatório.
+    A simples existência de pequena tatuagem na nuca da Recorrida de longe consubstancia anomalia física, cujo critério desclassificatório do Concurso Público para Admissão ao Curso de Formação de Soldado Combatente da Polícia Militar do Estado do Espírito Santo se mostra, evidentemente, desigualitário e preconceituoso, não guardando compatibilidade com o cargo a ser exercido, consoante os princípios da razoabilidade e da proporcionalidade” (e-STJ fl. 204 – Vol. 5).
+    Desse modo, para dissentir do Tribunal a quo quanto a esse entendimento, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas do edital, o que inviabiliza o recurso extraordinário nos termos das Súmulas 279 e 454 do STF. No mesmo sentido, menciono o RE 632.859-AgR/RJ, Rel. Min. Gilmar Mendes:
+    “Agravo regimental em recurso extraordinário 2. Concurso público. Soldado da polícia militar. 3. Candidato reprovado no exame médico por apresentar tatuagens em contrariedade às regras editalícias. Controvérsia que depende do exame prévio de normas editalícias e da revisão do conjunto fático-probatório dos autos. Incidência das súmulas 279 e 454. 4. Ausência de argumentos suficientes para infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento”.
+    Ademais, a jurisprudência desta Corte firmou-se no sentido de que não caracteriza violação ao princípio da separação dos poderes a possibilidade de controle judicial dos atos administrativos ilegais ou abusivos. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Negativa de prestação jurisdicional. Não ocorrência. Princípios da ampla defesa e do contraditório. Ofensa reflexa. Prequestionamento. Ausência. Controle judicial. Ato administrativo. Possibilidade. Precedentes.
+    1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente fundamentada.
+    2. A afronta aos princípios da ampla defesa e do contraditório, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República.
+    3. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF.
+    4. Não viola o princípio da separação dos poderes o controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos.
+    5. Agravo regimental não provido” (AI 596.830-AgR-SP, Rel. Min. Dias Toffoli, Primeira Turma).
+    Com esse raciocínio, menciono, ainda, as seguintes decisões: ARE 642.044/GO e AI 463.646-AgR/BA, Rel. Min. Ayres Britto; RE 259.335-AgR/RJ, Rel. Min. Maurício Corrêa; AI 777.502-AgR/RS, Rel. Min. Ellen Gracie.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
