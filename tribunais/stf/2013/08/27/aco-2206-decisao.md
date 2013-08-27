@@ -1,0 +1,14 @@
+DECISÃO:
+    A Procuradoria Geral da República requer a instauração de Conflito Negativo de Atribuição entre o Ministério Público Federal e o Ministério Público do Estado de Goiás, nas Peças de Informação (PI) autuadas sob no. 1.18.000.000906/2013-67, em que se apura prática de suposta contratação fraudulenta realizada através de licitação, além de formação de “caixa 2” para futura campanha eleitoral de prefeito, a partir de verba obtida por empréstimo junto ao Banco Andino Organismo Internacional, para construção de polo tecnológico na região de Aparecida de Goiânia/GO.
+    Inicialmente, tratando-se de conflito de atribuição entre órgãos do Ministério Público Federal e do Ministério Público Federal, fixa-se a competência do Supremo Tribunal Federal para dirimi-lo, nos termos do art. 102, I, f, da Constituição da República. Isto porque, não havendo ainda pronunciamento judicial sobre a competência para julgar eventual ação penal a ser proposta e estando o feito em fase investigatória, a discordância sobre a atribuição para atuar, entre órgãos do Ministério Público, configura conflito federativo a ser decidido por esta Corte, conforme ficou consignado em diversos precedentes do Pleno.
+    No mérito, a competência da Justiça Federal, no que se refere à solução da questão, é fixada para apurar as infrações praticadas em detrimento de bens, serviços e interesse da União, de suas autarquias e empresas públicas (art. 109, IV, da Constituição da República) grifei.
+    No presente caso, não há interesse da União evidente, bem como não foram atingidos seus bens ou serviços. O fato de ser necessária autorização do Senado Federal para a realização de operação externa de natureza financeira de interesse de Município (art. 52, IV, da Constituição da República), não significa que o mau uso do dinheiro obtido em empréstimo internacional atraia o interesse da União na repressão do delito.
+    Como destacado pela Procuradoria Geral da República, a partir do momento em que o montante obtido por empréstimo passa a integrar o patrimônio do Município, eventual desvio ou destinação fraudulenta agride o interesse da referida entidade federativa.
+    Pode-se, por analogia, aplicar o verbete no. 209 de Súmula do Superior Tribunal de Justiça:
+    “Compete à Justiça Estadual processar e julgar prefeito por desvio de verba transferida e incorporada ao patrimônio municipal.”
+    Ficando afastada a competência da Justiça Federal para julgamento futuro dos fatos, não há atribuição do Ministério Público Federal.
+    Sendo assim, conheço do conflito para fixar a atribuição do órgão suscitado.
+    Dê-se vista à Procuradoria Geral da República. Publique-se. Após, remetam-se os autos ao Ministério Público do Estado de Goiás.
+    Brasília, 27 de agosto de 2013.
+    Ministro LUÍS ROBERTO BARROSO.
+     Relator
