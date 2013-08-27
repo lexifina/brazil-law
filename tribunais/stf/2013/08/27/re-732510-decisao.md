@@ -1,0 +1,23 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto em mandado de segurança impugnando ato que não permitiu a inscrição do recorrido em curso supletivo, com o fim de obter certificado de conclusão do ensino médio, diante de sua aprovação em concurso vestibular.
+    O impetrante, aprovado em engenharia ambiental, menor de dezoito anos, teve negado seu pedido negado para se inscrever no Centro Estadual Supletivo de Educação Continuada – CESEC, a fim de realizar prova supletiva.
+    O acórdão recorrido, apreciando a Lei 9.394/96 – Lei de Diretrizes e Bases da Educação Nacional – LNDB, em cotejo com o art. 208 da Constituição Federal, manteve a sentença concessiva da ordem.
+    Opostos embargos declaratórios, foram rejeitados (fls. 99).
+    No recurso extraordinário, a parte recorrente aponta, com base no art. 102, III, a, da Constituição, violação ao art. 97 da Carta Magna e à Súmula Vinculante 10, uma vez que o Tribunal a quo deixou de aplicar o art. 38, §1º, II da LNDB, que determina a idade mínima de dezoito anos para os exames supletivos, sem observar a cláusula de reserva de plenário.
+    2. Esta Corte, ao interpretar a norma prevista no art. 97 da CF/88, firmou entendimento no sentido de que a inconstitucionalidade de leis ou de outros atos estatais somente pode ser declarada, quer em sede de fiscalização abstrata (método concentrado), quer em sede de controle incidental (método difuso), pelo voto da maioria absoluta dos membros integrantes do Tribunal, reunidos em sessão plenária ou, onde houver, no respectivo órgão especial (AI 591.373-AgR, Rel. Min. Celso de Mello, Segunda Turma, Dje de 11/10/2007; no mesmo sentido: RE 482.090, Rel. Min. Joaquim Barbosa, Pleno, DJe de 13/03/2009; AI 577.771-AgR, Rel. Min. Celso de Mello, 2ª Turma, Dje de 16/05/2008 e RE 240.096, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ de 21/05/1999). Tal entendimento, na sessão plenária realizada em 18/06/2008, foi sintetizado no enunciado da Súmula Vinculante 10, que assim preceitua:
+    Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.
+    O incidente de inconstitucionalidade é dispensado, contudo, quando houver pronunciamento do STF ou do plenário, ou órgão especial, do Tribunal de origem a respeito da questão constitucional (art. 481, parágrafo único, do CPC).
+    No caso, o órgão fracionário do Tribunal de Justiça de Minas Gerais assim se pronunciou sobre o art. 38 da LNDB (fls.90):
+    “De fato, o artigo 38, §1º, inciso II da Lei n. 9.394/96, Lei de Diretrizes e Bases da Educação, dispõe que:
+Art. 38 - Os sistemas de ensino manterão cursos e exames supletivos, que compreenderão a base nacional comum do currículo, habilitando ao prosseguimento de estudos em caráter regular.
+    §1º omissis
+    II - No nível de conclusão do ensino médio, para os maiores de dezoito anos.
+    Todavia, a meu aviso, impedir que o impetrante ingresse e conclua o curso supletivo com base no dispositivo supramencionado seria admitir uma exegese puramente literal e abstrata da norma jurídica, com inteiro desprezo aos princípios da razoabilidade e da concretização da Justiça, e em afronta ao dever básico do Estado para com a educação, qual seja, o de garantir o "acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística, segundo a capacidade de cada um" (Constituição da República de 1988, art. 208, inciso V)
+O Estado não deve criar entraves à progressão intelectual dos cidadãos em formação, devendo, ao contrário, incentivar e proporcionar meios efetivos para concretizar os avanços realizados pelos alunos, valorando mais seu aproveitamento do que sua idade.”
+    Evidencia-se, na espécie, que a Câmara Cível do TJ-MG, embora não tenha declarado expressamente a inconstitucionalidade do mencionado artigo, deixou de aplicá-lo ao caso concreto, prescindindo da reserva de plenário inscrita no art. 97 da CF/88, em afronta direta ao enunciado da Súmula Vinculante 10.
+    Ademais, ante a inexistência de pronunciamento do STF ou do plenário ou do Órgão especial do TJ-MG sobre a específica questão constitucional, não se aplica ao caso o disposto no art. 481, parágrafo único, do CPC.
+    3. Isto posto, dou provimento ao recurso extraordinário (CPC, art. 557, § 1º-A), para determinar que o Tribunal de origem proceda a novo julgamento, com observância do art. 97 da Constituição Federal.
+    Publique-se. Intime-se.
+    Brasília, 27 de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
