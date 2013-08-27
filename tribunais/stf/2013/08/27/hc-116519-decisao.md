@@ -1,0 +1,25 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por LUIZ OZILAK NUNES DA SILVA, em nome próprio, contra decisão do Ministro Gilson Dipp, que indeferiu medida liminar no HC 209.748/SP, no Superior Tribunal de Justiça.
+    Extrai-se dos autos que o impetrante/paciente foi condenado à pena de 13 anos de reclusão, em regime inicial fechado, pela prática dos crimes previstos no art. 1º, I, VII, e § 2º, I, combinado com o art. 1º, § 4º, todos da Lei 9.613/1998; no art. 14 da Lei 6.368/1976; e no art. 288 do Código Penal.
+    Neste habeas corpus, o impetrante/paciente sustenta, de início, violação ao princípio da celeridade processual em razão da demora no julgamento de mérito do writ manejado no STJ.
+    Diz, também, que possui o direito de aguardar em liberdade o processamento e o julgamento do seu recurso de apelação e que, com a entrada em vigor da Lei 12.403/2011, deve lhe ser aplicada uma das medidas cautelares previstas em substituição à custódia cautelar.
+    Afirma, então, que a prisão preventiva deve ser substituída por custódia domiciliar, nos termos do art. 318, III, do Código de Processo Penal (com redação dada pela Lei 12.403/2011), uma vez que possui um filho de 2 anos e 7 meses que necessita de seus cuidados para sobreviver.
+    Alega, ainda, a nulidade da sentença quanto à condenação pela prática do crime de lavagem de dinheiro, em razão da ausência de indicação de crimes antecedentes e da não tipificação, no ordenamento jurídico, do delito de organização criminosa.
+    Ressalta, por fim, que está custodiado em um presídio comum e que, pelo fato de ser ex-ocupante do cargo de Delegado da Polícia Civil, sua integridade física está em risco. Pede, desse modo, que seja transferido para um presídio especial da Polícia Civil do Estado de São Paulo.
+    Requer, ao final, o deferimento da medida liminar para expedição de alvará de soltura, a fim de que possa aguardar em liberdade o julgamento do recurso de apelação.
+    No mérito, pede a ratificação da liminar requerida e a concessão da ordem para a substituição da prisão preventiva por domiciliar ou por uma das medidas cautelares estabelecidas na Lei 12.403/2011. Postula, ainda, a anulação da sentença condenatória.
+    A medida liminar foi indeferida.
+    O Presidente do Tribunal de Justiça do Estado de São Paulo prestou esclarecimentos por meio do Ofício 1.861/13, in verbis:
+    “Por fatos ocorridos no período compreendido entre os anos de 1999 e 2006, o ora paciente foi processado, juntamente com mais oito corréus, e condenado nos autos da Ação Penal nº 0058336-08.2004.8.26.0050 (antigo nº 050.04.058336-8), Controle nº 884/06, da Décima Vara Criminal da Comarca de São Paulo, às penas de 13 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, e 100 dias-multa, por infringência ao art. 1º, I e VII, e ao art. 1º, § 2º, I, de forma continuada, c.c. o art. 1º, § 4º, todos da Lei 9.613/98, e ainda ao art. 14 da Lei 6.368/76 e ao art. 288, caput, do Código Penal, observado o concurso material entre os delitos, vedado o recurso em liberdade.
+    Contra a sentença recorreu a Defesa.
+    Os autos deram entrada neste Tribunal em 05 de março de 2012, sendo a apelação registrada sob o número 0058336-08.2004.8.26.0050. Presentemente, o feito está em fase de remessa à Procuradoria Geral de Justiça para oferecimento das contrarrazões ao recurso do corréu César Augusto Cirota, processado nos termos do art. 600, § 4º, do Codigo de Processo Penal”.
+    É o relatório. Decido.
+    Preliminarmente, anoto que em consulta ao site do Superior Tribunal de Justiça na internet obtém-se a notícia de decisão daquela Corte no sentido da prejudicialidade do HC 209.748/SP, em virtude da superveniente prolação de sentença condenatória. Assim, não mais subsiste a alegação de demora no julgamento da referida impetração.
+    Por outro lado, verifico das alegações do paciente/impetrante, bem assim da leitura dos documentos juntados com a inicial deste writ, que a controvérsia submetida à apreciação do Superior Tribunal de Justiça no Habeas Corpus 209.748/SP – distribuído ao Ministro Gilson Dipp e, agora, redistribuído à Ministra Marilza Maynard (Desembargadora convocada do TJSE) – estava circunscrita à alegação de suposta ilegalidade do ato por meio do qual foi decretada a prisão preventiva.
+    Assim, a superveniente prolação de sentença penal condenatória é prejudicial ao exame do writ, pois a prisão do agente está fundada em novo título judicial, que se encontra em grau de apelação no Tribunal de Justiça do Estado de São Paulo.
+    De igual modo verifica-se o prejuízo desta impetração, em que formalizados a mesma causa de pedir e pedido do HC 209.748/SP protocolado no Superior Tribunal de Justiça.
+    Isso posto, com base no art. 21, IX, do Regimento Interno do Supremo Tribunal Federal, julgo prejudicado este writ, por perda superveniente do seu objeto.
+    Comunique-se o teor desta decisão ao paciente/impetrante.
+    Publique-se.
+    Brasília, 27 de agosto de 2013.
+Ministro Ricardo Lewandowski
+Relator
