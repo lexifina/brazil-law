@@ -1,0 +1,11 @@
+Solução de Consulta Disit/SRRF08 nº 167, de 26 de julho de 2013
+Assunto: Imposto sobre a Renda Retido na Fonte – IRRF REFORMA PARCIALMENTE A SOLUÇÃO DE CONSULTA SRRF DISIT 8ª RF Nº 433, DE 06.09.2007, EM RAZÃO DA SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 6, DE 3.05.2013. CONSÓRCIOS PÚBLICOS. CONSÓRCIO PÚBLICO INTERMUNICIPAL. ASSOCIAÇÃO PÚBLICA. NATUREZA AUTÁRQUICA. PESSOA JURÍDICA DE DIREITO PRIVADO. REPARTIÇÃO DE RECEITAS. Assunto: Contribuições Sociais Previdenciárias PRINCÍPIO DA IMUNIDADE TRIBUTÁRIA RECÍPROCA. APLICABILIDADE INEQUÍVOCA AOS IMPOSTOS. PRINCÍPIO NÃO APLICÁVEL ÀS CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS.
+Assunto: Imposto sobre a Renda Retido na Fonte - IRRF
+REFORMA PARCIALMENTE A SOLUÇÃO DE CONSULTA SRRF DISIT 8ª RF Nº 433, DE 06.09.2007, EM RAZÃO DA SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 6, DE 3.05.2013. CONSÓRCIOS PÚBLICOS. CONSÓRCIO PÚBLICO INTERMUNICIPAL.
+ASSOCIAÇÃO PÚBLICA. NATUREZA AUTÁRQUICA. PESSOA JURÍDICA DE DIREITO PRIVADO. REPARTIÇÃO DE RECEITAS.
+O produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, pelos consórcios intermunicipais constituídos sob a forma de associação pública com personalidade jurídica de direito público e natureza autárquica pertence aos municípios, aplicando-se as disposições acerca de repartição de receitas. O produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, pelos consórcios intermunicipais constituídos sob a forma de pessoa jurídica de direito privado devem ser recolhidos ao Tesouro Nacional.
+Dispositivos Legais: Constituição Federal, art. 158, inciso I; Código Civil (Lei n° 10.406, de 2002), art. 41, inciso IV; Lei n° 11.107, de 2005, art. 1° , § 1° e art. 16 e Decreto n° 6.017, de 2007, art. 2°, inciso I.
+Assunto: Contribuições Sociais Previdenciárias
+PRINCÍPIO DA IMUNIDADE TRIBUTÁRIA RECÍPROCA. APLICABILIDADE INEQUÍVOCA AOS IMPOSTOS. PRINCÍPIO NÃO APLICÁVEL ÀS CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS.
+A isenção alcança somente as entidades beneficentes de assistência social que atendam, de forma cumulativa, os requisitos constantes do artigo 55 da Lei nº 8.212/91.
+Dispositivos Legais: CF, art. 150, Inciso VI, alíneas “a” e “c”, art. 195, § 7º, e art. 55 da Lei nº 8.212/91.
