@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF08 nº 165, de 22 de julho de 2013
+Assunto: Contribuições Sociais Previdenciárias CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. BASE DE CÁLCULO. EMPRESA DE TRANSPORTE AÉREO.
+Assunto: Contribuições Sociais Previdenciárias
+CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. BASE DE CÁLCULO. EMPRESA DE TRANSPORTE AÉREO. Incluem-se no conceito de receita bruta, para fins de determinação da base de cálculo da contribuição substitutiva a que se referem os arts. 7º a 9º da Lei nº 12.546, de 2011, as receitas auferidas por pessoa jurídica que explore serviço de transporte aéreo de passageiros regular com:(i) taxa de remarcação ou cancelamento de passagem aérea adquirida; (ii) taxa de no show, em decorrência do não comparecimento do passageiro ao embarque; (iii) passagens e créditos expirados, em virtude de sua não utilização no prazo previsto em contrato.
+Por outro lado, não fazem parte da base de cálculo da contribuição mencionada os valores recebidos de instituição financeira como forma de contrapartida pela exclusividade na administração das contas bancárias dos funcionários da pessoa jurídica por intermédio das quais estes recebem seus salários.
+Dispositivos Legais: Lei nº 12.546, de 2011, art. 8º, caput e § 3º, III, art. 9º, I e § 7º; Parecer Normativo RFB nº 3, de 2012.
