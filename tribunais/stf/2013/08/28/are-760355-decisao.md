@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário, interposto contra acórdão da Turma Recursal do Juizado Especial da Comarca de Belo Horizonte, do qual transcrevo os seguintes trechos esclarecedores:
+    “Ocorre que, no presente feito, a pretensão veiculada na presente ação é de declaração de nulidade de cláusulas contratuais e não de revisão contratual, como alegado pela recorrente, não se sujeitando ao prazo prescricional.”
+    ”É indiscutível a incidência das disposições do Código de Defesa do Consumidor nas relações contratuais mantidas junto a empresas operadoras de planos de saúde.”
+    “Sem razão a recorrente ao negar à parte autora o procedimento cirúrgico. Sendo os contratos de plano de saúde de adesão, haja vista que suas cláusulas já vem para serem aderidas, as mesmas só prevalecem enquanto não se detecta qualquer tipo de abusividade que pressuponha a vantagem exagerada a uma das partes e o desequilíbrio da relação contratual. Hoje, as normas prevalecentes são as que visem a proteção dos direitos da pessoa humana, não permitindo que cláusulas abusivas prejudiquem o consumidor. Não há que se falar, como quer a recorrente, em despesa expressamente excluída.”
+    “Quanto aos danos morais, ficou comprovado nos autos o sofrimento que a autora se sujeitou até a realização do procedimento cirúrgico, estando o valor arbitrado na sentença compatível com a lesão ocorrida.”
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a, da Constituição. A parte recorrente alega ofensa ao art. 5º, V, X, XXXVI, LIV e LV; ao art. 196 e ao art. 199, da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que “não cabe Recurso Extraordinário contra as decisões das Turmas Recursais dos Juizados Especiais”. Entendeu ainda que “o art. 102, III, da CF prescreve que compete ao STF, dentre outras, julgar, em recurso extraordinário, as causas decididas em única ou última instância, quando ocorrentes as hipóteses enunciadas naquela Carta Magna.”. Por fim, fundamentou que “a súmula 640 do STF não tem efeito vinculante.”
+    O recurso extraordinário não pode ser conhecido, tendo em vista que não discute matéria constitucional. Com efeito, o Supremo Tribunal Federal, ao decidir o ARE 697.312, julgado sob a relatoria do Ministro Ayres Britto, assentou a ausência de repercussão geral da questão relativa à responsabilidade civil por danos morais e materiais decorrentes da negativa de cobertura por operadora de plano de saúde, haja vista que sua análise não prescindiria da análise da legislação infraconstitucional, e do reexame das cláusulas contratuais e do conjunto fático-probatório dos autos (Súmulas 636, 454 e 279/STF).
+    Diante do exposto, com base no art. 543-A, § 5° do CPC, e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 28 de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
