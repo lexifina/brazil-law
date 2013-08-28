@@ -1,0 +1,19 @@
+Despacho: O ministro Teori Zavascki remeteu os autos à Presidência, nos seguintes termos:
+    “Trata-se de reclamação contra decisão proferida pelo juízo da 2ª Vara do Trabalho de Bento Gonçalves/RS, que condenou o Município ao pagamento subsidiário de verbas trabalhistas não adimplidas. Consta dos autos certidão da Coordenadoria de Processamento Inicial desta Corte, no sentido de que “(...) o presente feito foi distribuído por prevenção ao(a) Exmo(a) Sr(a) Ministro(a) Teori Zavascki, tendo em vista a vinculação com o(a) Rcl nº 14.403.”
+    A petição inicial demonstra em diversos trechos, entretanto, que o reclamante alega desrespeito à ADC 16 e à súmula vinculante 10, mas não à decisão proferida na Rcl 14403, conforme consta, por exemplo, da parte final (págs. 8-9):
+    ‘Requer, a V. Exa., digne-se em receber e julgar procedente a presente RECLAMAÇÃO PARA PRESERVAR SUA COMPETÊNCIA E GARANTIR A AUTORIDADE DE SUAS DECISÕES art. 156 do RISTF, para CASSAR a decisão proferida pela Justiça do Trabalho sem a observância da Súmula Vinculante nº 10/STF, art. 71, § 1º, da Lei nº 8.666/93, e em face ao desrespeito ao que ficou decidido pelo Supremo Tribunal Federal no julgamento na Ação Direta de Constitucionalidade nº 16/DF, determinando-se seja proferida nova decisão que leve em conta os dispositivos legais acima referidos, ou que exclua o Município da responsabilidade subsidiária, ou do processo.’ (grifo nosso)
+    Nos termos do Regimento Interno do STF, quando a causa de pedir for descumprimento de súmula vinculante ou de decisão dotada de efeito erga omnes – exatamente o caso dos autos – será livre a distribuição. A hipótese de prevenção incide apenas quando a causa de pedir seja descumprimento de decisão cujos efeitos sejam restritos às partes:
+    ‘Art. 70. Será distribuída ao Relator do feito principal a reclamação que tenha como causa de pedir o descumprimento de decisão cujos efeitos sejam restritos às partes.
+    § 1º Será objeto de livre distribuição a reclamação que tenha como causa de pedir o descumprimento de súmula vinculante ou de decisão dotada de efeito erga omnes.’
+    Em conclusão, o fato de uma reclamação com as mesmas partes já ter sido submetida a determinada relatoria somente implicaria prevenção se a causa de pedir do novo incidente fosse alegação de descumprimento da primeira, o que, repita-se, não se encontra na petição inicial.
+    Ante o exposto, submeto o caso à Presidência do Supremo Tribunal Federal, para análise da hipótese de livre redistribuição, nos termos regimentais.”
+    Não é caso de redistribuição. Verifico que esta reclamação guarda estreita relação com a Rcl 14.403, uma vez que ambas possuem a mesma origem, qual seja, a Ação Trabalhista 0143200-36.2009.5.04.0512, da 2ª Vara do Trabalho de Bento Gonçalves/RS.
+    Com efeito, na Rcl 14.403, o ministro Teori Zavascki julgou procedente o pedido “para cassar a sentença reclamada, no ponto em que condena automaticamente o ente público ao pagamento subsidiário da condenação”. Esta Rcl 16.085, por sua vez, decorre do novo julgamento realizado, naqueles mesmos autos (Ação Trabalhista 0143200-36.2009.5.04.0512), em substituição à sentença anteriormente cassada pela decisão proferida nos autos da Rcl 14.403.
+    Em razão da peculiaridade acima constatada, em que a decisão objeto da presente reclamação decorreu do provimento jurisdicional exarado na Rcl 16.085, incide, no caso, o disposto no art. 69, caput, do RISTF, verbis :
+    Art. 69 . A distribuição da ação ou do recurso gera prevenção para todos os processos a eles vinculados por conexão ou continência.
+    Do exposto, determino o retorno dos autos ao gabinete do ministro Teori Zavascki.
+    Publique-se.
+    Brasília, 28 de agosto de 2013.
+Ministro Joaquim Barbosa
+Presidente
+Documento assinado digitalmente
