@@ -1,0 +1,23 @@
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. CONCESSÃO ANTES DA MP 1523/97. DECADÊNCIA. REPERCUSSÃO GERAL RECONHECIDA RE Nº 626.489-RG PELO PLENO DO STF.  RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO ADMITIDO. DEVOLUÇÃO DOS AUTOS À ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Trata-se de agravo regimental interposto pelo INSS em face da decisão de fl. 182 da relatoria do Ministro Luiz Fux, por meio da qual julgou prejudicado o recurso extraordinário ante a perda superveniente do objeto.
+    Da análise dos autos, verifica-se que o STJ afastou a preliminar de decadência do direito do recorrido a revisão do benefício, em decisão que restou assim assentada:
+    “Decido.
+    Inicialmente, cumpre esclarecer que no tocante à ocorrência da decadência, não assiste razão ao ora recorrente. Com efeito, a Autarquia alega que o direito à revisão da renda mensal inicial pleiteado pela parte autora estaria abarcado pela ocorrência do instituto da decadência.
+    O art. 103, caput da Lei 8.213/91, em sua redação original dispunha que, in verbis:
+    "Sem prejuízo do direito ao benefício, prescreve em 5 (cinco) anos o direito às prestações não pagas nem reclamadas na época própria,resguardados os direitos dos menores dependentes, dos incapazes ou dos ausentes."
+    Todavia, a Medida Provisória 1.523, de 27 de junho de 1997, posteriormente convertida na Lei 9.528/97, alterou a redação do artigo 103, caput da Lei 8.213/91, instituindo, desse modo, um prazo decadencial para o ato de revisão da renda mensal inicial dos benefícios previdenciários, conforme se vê:
+    "Art. 103. É de dez anos o prazo de decadência de todo e qualquer direito ou ação do segurado ou beneficiário para a revisão do ato de concessão de benefício, a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo." (Redação dada pela Lei 9.528/97).
+    Registre-se, por oportuno, que o prazo decadencial de revisão ainda sofreu duas outras alterações legislativas, quais sejam, a da Lei 9.711, de 20 de novembro de 1998, que fixou o referido prazo de 5 (cinco) anos, bem como a da Lei 10.839, de 5 de fevereiro de 2004, que novamente o retornou para o de 10 (dez) anos.
+    Neste contexto, é consabido que a decadência é instituto de direito material e, sendo certo que a Medida Provisória 1.523/97 não previu a retroação de seus efeitos, esta Corte Superior firmou entendimento no sentido de que o prazo decadencial somente deve atingir os benefícios previdenciários concedidos após o advento da referida Medida Provisória. (...) No entanto, o recurso merece prosperar no que diz respeito à revisão da renda mensal inicial do segurado.”
+    Inconformado com a decisão agravada, o INSS interpôs o agravo regimental alegando que o recurso especial não foi provido pelo STJ, em relação à insurgência referente ao instituto da decadência, o que resultaria na permanência do interesse recursal, não havendo, por conseguinte, prejudicialidade do apelo extremo.
+    Pelo exposto, requer o provimento do recurso, para que se declare a aplicabilidade da decadência do direito de revisão da renda mensal inicial do benefício pelo recorrido.
+    É o relatório. DECIDO.
+    Assiste razão ao recorrente.
+    Verifica-se que o Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia sub examine, em que se discute a aplicação do prazo decadencial previsto na Medida Provisória nº 1.523/97 a benefícios concedidos antes da sua edição, nos autos do RE nº. 626.489-RG, de Relatoria do Ministro Ayres Britto, DJE 30/4/2012, assim ementado:
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIOS. FIXAÇÃO DE PRAZO DECADENCIAL. MEDIDA PROVISÓRIA 1.523, DE 27/06/1997. BENEFÍCIOS CONCEDIDOS ANTERIORMENTE À RESPECTIVA VIGÊNCIA. DIREITO ADQUIRIDO. SEGURANÇA JURÍDICA. PRESENÇA DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL DISCUTIDA. Possui repercussão geral a questão constitucional alusiva à possibilidade de aplicação do prazo decadencial estabelecido pela Medida Provisória 1.523/1997 aos benefícios previdenciários concedidos antes da respectiva vigência.”
+    Destarte, reconsidero a decisão de fl. 182/186, e, desde logo, DOU PROVIMENTO ao agravo de instrumento para ADMITIR o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO dos presentes autos ao Tribunal a quo, para que seja observado o disposto no artigo 543-B e parágrafos do Código de Processo Civil.
+    Publique-se.
+    Brasília, 29 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
