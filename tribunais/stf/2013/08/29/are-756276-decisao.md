@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de dois agravos (fls. 395 e 413) cujo objeto é decisão que negou seguimento a recursos extraordinários interpostos contra acórdão da Primeira Turma Cível e Criminal do Colégio Recursal de São Paulo, assim ementado (fl. 314):
+    “Plano de saúde coletivo – Lei garante aos empregados dispensados o direito à manutenção do contrato, desde que assuma o pagamento integral – Falta de clareza da exceção do parágrafo sexto do artigo 30 da Lei 9.656/98 deve beneficiar o consumidor, sob pena de esvaziamento da aplicação do dispositivo – Recorrida foi beneficiária do convênio médico por 24 anos, não tendo relevância prática, no caso, quem arcava com os pagamentos – Sentença mantida.”
+    O primeiro recurso extraordinário, apresentado por Adenisa Angélica Costa, busca fundamento no art. 102, III, a e d, da Constituição, sob alegação de ofensa aos arts. 5°, XXXII, XXXVIII, e 6º, todos da Constituição. Já o segundo recurso, apresentado por Plascar Indústria de Componentes Plásticos Ltda, busca fundamento no art. 102, III, a, da Constituição, sustentando violação ao art. 114, I, da Constituição.
+    A decisão agravada negou seguimento aos recursos, sob os seguintes fundamentos: (i) não houve “violação a dispositivo constitucional; (ii) “a matéria sequer fora objeto de prequestionamento, tendo em vista a ausência de apreciação de matéria que contrarie texto constitucional”; e (iii) “não restou evidenciada qualquer repercussão geral acerca da matéria ventilada”.
+    Decido.
+    O recurso de Adenisa Angélica Costa é inadmissível, tendo em vista a jurisprudência do Supremo Tribunal Federal que, quanto ao tema, assentou tratar-se de matéria infraconstitucional, além de incidir as Súmulas 279 e 454/STF. Nessa linha, veja-se o ARE 734806-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. PLANO DE SAÚDE. COBERTURA CONTRATUAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. NECESSIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Outros precedentes: ARE 701.343-AgR, Rel. Min. Ricardo Lewandowski; ARE 703.175-AgR, Rel.Min. Teori Zavascki; ARE 710.923-AgR, Rel. Min. Rosa Weber; RE 725.094-AgR, Rel. Min. Dias Toffoli.
+    Ademais, a parte recorrente não indicou as razões pelas quais caberia o recurso extraordinário pela alínea d do dispositivo constitucional autorizador. Assim, aplica-se a Súmula 284/STF.
+    O recurso de Plascar Indústria de Componentes Plásticos Ltda. também não deve ser provido. Com efeito, o Tribunal de origem, com fundamento no Código de Defesa do Consumidor e no contrato celebrado, entendeu que a relação jurídica existente entre as parte é manifestamente de natureza natureza civil, e consequentemente, reconheceu que a competência, na hipótese, é da Justiça comum. Portanto, para dissentir do acórdão recorrido, também seriam necessários o reexame de cláusulas contratuais (Súmula 454/STF) e a análise da legislação infraconstitucional pertinente, procedimentos inviáveis em sede de recurso extraordinário. Nesse sentido, veja-se a ementa do RE 725.094-AgR, Rel. Min. Dias Toffoli,:
+    “Agravo regimental no recurso extraordinário. Plano de saúde mantido pela Petrobras. Natureza da relação jurídica. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. As instâncias de origem concluíram, com fundamento no Código de Defesa do Consumidor e nos fatos e nas provas dos autos, que a relação existente entre a ora agravada e o plano de saúde mantido pela agravante tem natureza consumerista, razão pela qual afastou a competência da Justiça do Trabalho para o julgamento do feito.
+    2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    3. Discussão, ademais, que não prescinde do exame de cláusulas contratuais. Incidência da súmula nº 454/STF.
+    4. Agravo regimental não provido.”
+    Outros precedentes: RE 723.210-AgR, Rel. Min. Ricardo Lewandowski, e ARE 675.920-AgR, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço dos agravos para negar seguimento aos recursos extraordinários.
+    Publique-se.
+          Brasília, 29 de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
