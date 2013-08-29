@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. FAZENDA PÚBLICA. ADVOCATÍCIOS. OFENSA REFLEXA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. FAZENDA PÚBLICA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. Os honorários advocatícios fixados pelo Tribunal de origem, quando sub judice a controvérsia, encerram a análise de norma infraconstitucional. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: ARE 740.552, Rel, Min. Cármen Lúcia, DJe 13/6/2013, RE 676.727-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 20/3/2013, RE 600.629-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 24/9/2012.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “ADMINISTRATIVO. MEDICAMENTO. LEGITIMIDADE PASSIVA. PERÍCIA MÉDICA. HONORÁRIOS ADVOCATÍCIOS. HONORÁRIOS PERICIAIS. 1.[...]. 4. Mantida a sentença relativamente aos honorários advocatícios e honorários periciais. 5. Mantida integralmente a sentença.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por MARILENE DE VILA BAUER, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão assim ementado:
+    “ADMINISTRATIVO. MEDICAMENTO. LEGITIMIDADE PASSIVA. PERÍCIA MÉDICA. HONORÁRIOS ADVOCATÍCIOS. HONORÁRIOS PERICIAIS.
+    1. Com relação à legitimidade passiva da UNIÃO, municípios e estados, a jurisprudência do STJ e desta Corte é no sentido de que, sendo o Sistema Único de Saúde - SUS composto pela União, Estados-Membros, Distrito Federal e Municípios, impõe-se o reconhecimento da responsabilidade solidária dos aludidos entes federativos em demandas que objetivam assegurar o acesso à medicação para pessoas desprovidas de recursos financeiros.
+    2. As decisões em ações da natureza da presente produzem seus efeitos sobre a esfera jurídica dos três entes federados, os quais, na qualidade de integrantes e gestores do SUS, têm o dever jurídico de lhe dar efetivo cumprimento.
+      3. Houve a realização de perícia médica, antes do deferimento da antecipação dos efeitos da tutela, conforme determinação do Juízo de origem, em que constatado estar a parte autora acometida pela moléstia que noticia na inicial. Ainda, o expert informou que a utilização do medicamento é necessária, inexistindo no mercado medicação similar que contenha o anticorpo monoclonal Trastuzumabe que seria 'produzido especificamente para agir sobre células tumorais que hiperexpressam o gene Her-2, o que acontece em aproximadamente 20% dos casos de câncer de mama'. Informa, ainda, que o 'SUS não prevê pelo sistema APAC o valor do Trastuzumabe. Pelo que relata a paciente, seu tratamento vem sendo realizado pelo SUS'.
+    4. Mantida a sentença relativamente aos honorários advocatícios e honorários periciais.
+    5. Mantida integralmente a sentença.”
+    Os embargos de declaração opostos foram parcialmente providos.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo derradeiro, pelo fato do pedido do embargante acarretar em reexame do conjunto fático-probatório, o que não é pertinente ao Supremo Tribunal Federal.
+    É o breve relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente agravo.
+    Os honorários advocatícios fixados pelo Tribunal de origem, quando sub judice a controvérsia, encerram a análise de norma infraconstitucional. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Nesse sentido, RE 676.727-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 20/3/2013, RE 600.629-AgR, Rel. Min. Luiz Fux, Primeira e ARE 740.552, Rel, Min. Cármen Lúcia, DJe 13/6/2013, que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA ORIGEM: DISCUSSÃO SOBRE O PERCENTUAL E A FORMA DE INCIDÊNCIA. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de agosto de 2013.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
