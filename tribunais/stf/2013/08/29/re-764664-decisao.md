@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto contra acórdão que julgou improcedente o pedido de pensão por morte, tendo em vista que o falecido não possuía a qualidade de segurado na data do óbito.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 6º e 201, V, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 8.212/1991). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Prequestionamento. Ausência. Previdenciário. Pensão por morte. Condição de segurado do 'de cujus' não comprovada na origem. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Embargos de declaração recebidos como agravo regimental.
+    2. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF.
+    3. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido” (ARE 672.951-ED/SC, Rel. Min. Dias Toffoli).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO POR MORTE. PERDA DA QUALIDADE DE SEGURADO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, §3º, DA CONSTITUIÇÃO FEDERAL. REQUISITOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 279 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O entendimento diverso do adotado pelo Tribunal a quo, concluindo que na data do óbito o ‘de cujus’ não possuía a qualidade de segurado, ensejaria o reexame do contexto fático-probatório engendrado nos autos, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula n. 279 do Supremo Tribunal Federal, verbis: ‘para simples reexame de prova não cabe recurso extraordinário’. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 3. Agravo regimental a que se nega provimento”. (RE 695.265-AgR/SP, Rel. Min. Luiz Fux)
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
