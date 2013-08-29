@@ -1,0 +1,33 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. ARTIGO 168-A, §1º, I, DO CÓDIGO PENAL. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 105, III, DA CONSTITUIÇÃO FEDERAL. REEXAME DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA.
+1. A inadmissibilidade do recurso especial não encerra controvérsia de natureza constitucional. Precedentes: AI 754.296-AgR, Relator o Ministro Ricardo Lewandowski, 1ª Turma, DJe de 16/6/2011, e AI 510.944-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJ de 18/11/2005.
+2. A decisão judicial tem de ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+3. In casu, o acórdão recorrido assentou: “AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. PROCESSUAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ART. 255, § 2º, DO RISTJ. AUSÊNCIA DE DEMONSTRAÇÃO DA DIVERGÊNCIA SUSCITADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. PRECEDENTES. 1. Na via especial, é vedada a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido. 2. A pretensão de simples reexame de prova não enseja recurso especial. Súmula 7-STJ. Precedentes. 3. A teor da farta jurisprudência desta Corte, não se conhece de recurso especial, pela alínea "c" do permissivo constitucional, se o dissídio jurisprudencial não estiver comprovado, nos moldes exigidos pelo art. 255, parágrafos 1º e 2º do RISTJ. 4. Agravo regimental a que se nega provimento.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por Osmar Tomio, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão prolatado pelo Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. PROCESSUAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ART. 255, § 2º, DO RISTJ. AUSÊNCIA DE DEMONSTRAÇÃO DA DIVERGÊNCIA SUSCITADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. PRECEDENTES.
+    1. Na via especial, é vedada a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido.
+    2. A pretensão de simples reexame de prova não enseja recurso especial. Súmula 7-STJ. Precedentes.
+    3. A teor da farta jurisprudência desta Corte, não se conhece de recurso especial, pela alínea "c" do permissivo constitucional, se o dissídio jurisprudencial não estiver comprovado, nos moldes exigidos pelo art. 255, parágrafos 1º e 2º do RISTJ.
+    4. Agravo regimental a que se nega provimento.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões de apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 105, III, c, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que não houve negativa de prestação jurisdicional, restando suficientemente motivado o acórdão.
+    É o relatório. DECIDO.
+    Não merece prosperar o presente agravo.
+    O Supremo Tribunal Federal pacificou entendimento de que não cabe recurso extraordinário fundado em violação ao artigo 105, III, da Constituição Federal, para rever a correção, no caso concreto, da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado deste Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto no referido art. 105, III, o que não ocorre no caso dos autos. Confiram-se, à guisa de exemplo, os seguintes precedentes, verbis:
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. OFENSA À CONSTITUIÇÃO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 105 DA CONSTITUIÇÃO. REEXAME DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. OFENSA REFLEXA. IMPOSSIBILIDADE.
+    I. - A ofensa indireta ao texto constitucional não constitui contencioso constitucional capaz de admitir o prosseguimento do recurso extraordinário.
+    II. - A jurisprudência desta Corte Suprema é no sentido de que não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção, no caso concreto, da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado deste Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto no referido art. 105, III, o que não ocorre no caso dos autos. Precedentes.
+    III. - Agravo não provido.” (AI 510.944-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJ de 18/11/2005).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE DE REEXAME EM SEDE EXTRAORDINÁRIA. ALEGADA VIOLAÇÃO AOS ARTS. 5º, XXXV, LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. ART. 93, IX, DA CF. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. AGRAVO IMPROVIDO.
+    I – Não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção, no caso concreto, da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado deste Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto no referido art. 105, III, o que não ocorre no presente caso. Precedentes.
+    II - A alegada violação ao art. 5º, XXXV e LV, da Constituição pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária.
+    III – Não há contrariedade ao art. 93, IX, da Constituição, quando o acórdão recorrido encontra-se suficientemente fundamentado.
+    IV - Agravo regimental improvido.” (AI 754.296-AgR, Relator o Ministro Ricardo Lewandowski, 1ª Turma, DJe de 16/6/2011)
+    Relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem de ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte, nesse sentido, AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
