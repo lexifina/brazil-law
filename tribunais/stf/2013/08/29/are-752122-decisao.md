@@ -1,0 +1,27 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “REEXAME NECESSÁRIO // APELAÇÃO CÍVEL – DIREITO ADMINISTRATIVO – SERVIDOR PÚBLICO – MUNICÍPIO DE BELO HORIZONTE – PROGRESSÃO NA CARREIRA – CONCLUSÃO DE CURSO DE PÓS-GRADUAÇÃO – NEGATIVA DO MUNICÍPIO DIANTE DA AUSÊNCIA DE CREDENCIAMENTO JUNTO À CAPES DA FACULDADE QUE CONCEDEU O TÍTULO – REQUISITO PRESCINDÍVEL – COMPROVAÇÃO DO PREENCHIMENTO DAS CONDIÇÕES LEGAIS – BENEFÍCIO DEVIDO – SENTENÇA CONFIRMADA, NO REEXAME NECESSÁRIO.
+    1. Comprovando, a servidora, o cumprimento de todos os requisitos previstos na legislação municipal para fins de obtenção de progressão funcional por escolaridade, faz jus à ascensão na carreira.
+    2. A suposta ausência de credenciamento da instituição de ensino superior junto à CAPES não afasta o direito da autora, vez que, nos termos do art. 2º, inciso III, do Decreto municipal n. 10.239/2000 – vigente ao tempo do requerimento administrativo -, para ter direito ao benefício basta a a comprovação do preenchimento de três das cinco condições descritas naquele dispositivo.
+    3. Em reexame necessário, confirmar a sentença. Prejudicado o recurso voluntário”.
+    No recurso extraordinário sustenta-se violação dos artigos 1º, caput, 18, caput, 39, caput, e 97, caput, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que os artigos apontados como violados carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, extrai-se do voto condutor do acórdão vergastado:
+    “Não obstante, o preenchimento de tal requisito não era imprescindível àquele tempo para a obtenção do benefício, bastando, para tanto, que o servidor comprovasse o preenchimento de apenas três das cinco condições descritas no art. 5º, inciso III, do Decreto n. 10.239/2000, que dispunha:
+    (…)
+    O diploma concedido pela Universidade do Grande Rio “Prof. José de Souza Herdy” - UNIGRANRIO (f.12/12v) demonstra que a carga horária exigida foi devidamente cumprida pela apelada, assim como a qualificação profissional do corpo docente, que detinha o título de Mestre.
+     A declaração de f.13, fornecida pela referida instituição, demonstra, por sua vez, que a monografia de conclusão de curso foi apreciada por banca composta por dois mestres e um doutor.
+          Assim, verifica-se que a autora, de fato, preencheu todos os requisitos para a concessão da progressão, afigurando-se irrelevante o fato – não comprovado – de que a referida instituição de ensino superior não é credenciada pela CAPES”.
+    Desta forma, é certo que o Tribunal de origem decidiu a controvérsia sobre a possibilidade de progressão funcional da servidora com fundamento na legislação infraconstitucional pertinente e nas provas dos autos. Assim, eventual ofensa à Constituição Federal, se ocorresse, seria indireta ou reflexa, o que inviabiliza a interposição do recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Sobre o tema, anote-se:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Servidora pública municipal. Progressão funcional. Dilação probatória. Alegação de cerceamento de defesa em razão de indeferimento do pedido de produção de provas. 4. Análise da legislação local. Lei 7.969/2000. Incidência da Súmula 280. 5. Reexame do conteúdo fático-probatório. Impossibilidade. Enunciado 279 da Súmula do STF. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento” (ARE nº 715.440/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 28/5/13).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. LEI MUNICIPAL N. 7.169/1996. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENRAL AO QUAL SE NEGA PROVIMENTO” (RE nº 394.415/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 23/10/09).
+    No mesmo sentido, as seguintes decisões monocráticas: RE nº 427.323/MG, Relator o Ministro Ayres Britto, DJ de 15/5/06; AI nº 783.076, Relator o Ministro Ricardo Lewandowski, Dje de 17/12/10; RE nº 627.731/MG, de minha relatoria, Dje de 10/11/10).
+    Pelo exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 29 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
