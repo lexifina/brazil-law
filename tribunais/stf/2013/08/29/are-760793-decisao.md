@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “AGRAVO. ARTIGO 557, § 1º, DO CPC. EXECUÇÃO FISCAL. OBRIGAÇÕES AO PORTADOR DA ELETROBRÁS. PENHORA. ARTIGO 11, DA LEI Nº 6.830/80.
+    I. A própria LEF, no inciso II, do seu artigo 15, assegura à Fazenda Pública a prerrogativa da substituição dos bens penhorados por outros, independentemente da ordem enumerada no Art. 11, bem como o reforço da penhora insuficiente, podendo, inclusive, rejeitar os bens ofertados pela executada.
+    II. Havendo possível dificuldade para a arrematação do bem penhorado, não está a exeqüente obrigada a aceitar a nomeação feita pelo devedor, principalmente quando constatada a existência de outros bens de maior liquidez.
+    III. Resta duvidosa a liquidez dos referidos títulos, bem como se afigura temerário acolher o valor atribuído, unicamente, por meio de laudo de atualização monetária produzido unilateralmente pela executada.
+    IV - Agravo improvido” (fl. 617).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 3º, 5º, XXXVI, 148, 150, 153, IV, e 173 da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 6.830/80). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono os seguintes precedentes de ambas as Turmas:
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. DEBÊNTURES DA ELETROBRÁS. RECUSA DO CREDOR. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 26.8.2011. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido” (ARE 667.152-AgR/DF, Rel. Min. Rosa Weber, Primeira Turma).
+    “Agravo regimental em agravo de instrumento. 2. Recusa de bem indicado à penhora. Debêntures da Eletrobrás. Execução fiscal. 3. Solução da controvérsia demanda rever a interpretação conferida pela origem à legislação infraconstitucional (Lei 6.830/80). Ofensa reflexa à Constituição Federal. Precedentes do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (AI 805.819-AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
