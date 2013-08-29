@@ -1,0 +1,18 @@
+DECISÃO
+    Vistos
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma Recursal dos Juizados Especiais do Estado da Bahia, assim ementado:
+    “REVISÃO CONTRATUAL. COMPETÊNCIA DOS JUIZADOS. AFASTADA A COMPLEXIDADE DA CAUSA. ENUNCIADO Nº 70 DO FONAJE. CONTRATO DE EMPRÉSTIMO COM CLÁUSULA EXPRESSA DE TAXA DE JUROS PRÉ-FIXADA. LIMITAÇÃO DE JUROS QUE NÃO SE APLICA A INSTITUIÇÃO FINANCEIRA NA ESTEIRA DO ENTENDIMENTO DO STJ. A NORMA LEGAL PREVISTA NO ART. 192, § 3º, DA CF, REVOGADA PELA EMENDA CONSTITUCIONAL Nº 40/2003, TINHA SUA APLICABILIDADE CONDICIONADA Á EDIÇÃO DE LEI COMPLEMENTAR. SÚMULAS 596 E 648 DO STF. SÚMULA VINCULANTE Nº 7 DO STF. ABUSIVIDADE NÃO DEMONSTRADA DE ACORDO COM OS ÍNDICES APLICADOS NO MERCADO. IMPOSSIBILIDADE DE CAPITALIZAÇÃO MENSAL DE JUROS. CAPITALIZAÇÃO ANUAL, CONSOANTE DETERMINA O ART. 591 DO CÓDIGO CIVIL. RECURSO CONHECIDO E PROVIDO PARCIALMENTE, REFORMANDO A SENTENÇA PARA, TÃO SOMENTE, EXCLUIR A CAPITALIZAÇÃO INFERIOR A UM ANO, MANTENDO A TAXA DE JUROS MENSAL PACTUADA” (fl. 56).
+    Sustenta o agravante, nas razões do recurso extraordinário, violação dos artigos 5º, inciso XXXII, e 170, inciso V, da Constituição Federal. Pleiteia a reforma do acórdão recorrido para “DECLARANDO-SE A ABUSIVIDADE CONTRATUAL PROCEDIDA ANTE A APLICAÇÃO ILEGAL DE JUROS E CAPITALIZAÇÃO SEJA JULGADO PROCEDENTE O PRESENTE RECURSO A FIM DE QUE EM SENDO DETERMINADA A REVISÃO CONTRATUAL JULGE-SE O PRESENTE RECURSO PROVIDO” (fl. 75).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do AI nº 804.209/MS, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da matéria referente à limitação dos juros remuneratórios nos contratos celebrados posteriormente à Emenda Constitucional nº 40/03. A decisão do Pleno está assim ementada:
+    “Juros. Limitação em 12% ao ano. Contratos celebrados após o advento da Emenda Constitucional n. 40/2003. Legislação Infraconstitucional. Inexistência de repercussão geral”.
+    Ressalte-se, por fim, que o Tribunal de origem decidiu a controvérsia amparado em legislação infraconstitucional e nos fatos e provas que compõem a lide, cujo reexame é vedado em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 29 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
