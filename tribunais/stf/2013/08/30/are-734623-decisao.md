@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Fundação Universidade Federal de Rondônia – UNIR interpõe agravo contra decisão que inadmitiu recurso extraordinário interposto contra acórdão da Quinta Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “AGRAVO REGIMENTAL. ENSINO SUPERIOR. APROVEITAMENTO DE DISCIPLINA CURSADA EM OUTRA INSTITUIÇÃO. REGIMENTO INTERNO DA UNIR.
+    1 – O art. 113 do Regimento Geral da UNIR dispõe que “as matérias estudadas com aproveitamento em instituição autorizada podem ser aproveitadas desde que haja compatibilização de conteúdos em, no mínimo, 75%”.
+    2 – Havendo, nos autos, comprovação da compatibilidade de conteúdos e da realização do curso com sucesso, há direto ao aproveitamento da disciplina.
+    3 – Agravo regimental da UNIR desprovido”.
+    Alega a recorrente violação dos artigos 2º e 207 da Constituição Federal.
+    O Superior Tribunal de Justiça, em decisão transitada em julgado, negou provimento ao recurso especial interposto paralelamente ao extraordinário.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, haja vista que esta Corte já assentou que a discussão travada nestes autos demanda o reexame da legislação infraconstitucional pertinente dos fatos e provas que compõem a lide, procedimentos vedados em sede extraordinária. Incidência, na espécie, das Súmulas nº 280 e 279 do STF. Destaco, nessa direção, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUTONOMIA UNIVERSITÁRIA. VIOLAÇÃO AO ART. 207, CF/88. APROVEITAMENTO DOS CRÉDITOS DE MATÉRIAS CURSADAS. SÚMULA STF 279. OFENSA REFLEXA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA STF 284.
+    1. O acórdão recorrido reconheceu o direito da impetrante com fundamento no conjunto fático-probatório delineado nos presentes autos (Súmula STF 279) e na legislação infraconstitucional .
+    2. As razões do agravo regimental não atacam com a objetividade necessária os fundamentos da decisão monocrática, limitando-se a repisar razões de recurso anteriormente interposto. Súmula STF 284.
+    3. Agravo regimental a que se nega provimento” (RE nº 571.282/RJ, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 22/2/11).
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUTONOMIA UNIVERSITÁRIA. VIOLAÇÃO AO ART. 207, CF/88. APROVEITAMENTO DOS CRÉDITOS DE MATÉRIAS CURSADAS. SÚMULA STF 279. OFENSA REFLEXA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA STF 284. 1. O acórdão recorrido reconheceu o direito da impetrante com fundamento no conjunto fático-probatório delineado nos presentes autos (Súmula STF 279) e na legislação infraconstitucional. 2. As razões do agravo regimental não atacam com a objetividade necessária os fundamentos da decisão monocrática, limitando-se a repisar razões de recurso anteriormente interposto. Súmula STF 284. 3. Agravo regimental a que se nega provimento” (RE nº 571.282/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 22/2/11).
+    No mesmo sentido, ainda, as recentes decisões monocráticas: AI nº 845.173/PR, Relator o Ministro Luiz Fux, DJe de 22/8/11; AI nº 845.316/PR, Relator o Ministro Ricardo Lewandowski, DJe de 2/6/11; AI nº 844.796/MG, Relator o Ministro Gilmar Mendes, DJe de 18/5/11 e AI nº 793.388/RS, Relatora a Ministra Cármen Lúcia, DJe de 3/2/11.
+    Por fim, ressalte-se que esta Corte já assentou em diversas oportunidades que o princípio da autonomia universitária não se confunde com soberania, devendo estas se submeterem às leis e demais atos normativos. A propósito:
+    “AGRAVO REGIMENTAL. INSTITUIÇÃO DE ENSINO SUPERIOR. COBRANÇA ABUSIVA. CÓDIGO DE DEFESA DO CONSUMIDOR. AUTONOMIA UNIVERSITÁRIA. ALEGAÇÃO DE OFENSA AOS ARTIGOS 207 E 209 DA CONSTITUIÇÃO FEDERAL. DISCUSSÃO INFRACONSTITUCIONAL. Nos termos da jurisprudência deste Tribunal, o princípio da autonomia universitária não significa soberania das universidades, devendo estas se submeter às leis e demais atos normativos. Controvérsia decidida à luz da legislação infraconstitucional. A alegada ofensa à Constituição, se existente, seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Agravo regimental a que se nega provimento” (AI nº 647.482/RJ-AgR, Primeira Turma, Relator o Ministro Joaquim Barbosa, DJe de 31/3/11).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 30 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
