@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “ISS. Franquia. Com a entrada em vigor da Lei Complementar 116/03 e da Lei Municipal 3691/03, a franquia restou definida como serviço, figurando, expressamente, no item 17.08 da Lista Anexa à LC 116/03, e no item 17.07 da Lista Anexa da Lei Municipal referida, atendendo, assim, o disposto no inciso III do artigo 156 da Constituição da República. Competência tributária do Município com relação aos fatos ocorrentes em seu território. Lei Complementar 116/03 artigo 4º. Provimento parcial do apelo apenas para declarar a não incidência do ISS sobre serviço de franquia relativo a fatos geradores ocorridos antes de 29/fevereiro/2004, data do início da eficácia da Lei Complementar 116/03, segundo a Resolução SMF 1910/04” (fl.14).
+    No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se, em suma, a inconstitucionalidade da referida incidência por ofensa ao art. 156, III, da mesma Carta.
+    Ressalto, preliminarmente, que não se encontra nos autos o inteiro teor do acórdão recorrido, entretanto, em razão dos princípios da celeridade e da economia processual, e estando presente o inteiro teor do acórdão no sítio eletrônico do Tribunal de Justiça do Rio de Janeiro, passo a analisar o presente recurso.
+    No caso, o recurso extraordinário versa sobre matéria – incidência do ISS sobre contrato de franquia com base na lista de serviços anexa à Lei Complementar 116/2003 – cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 603.136-RG/RJ, Rel. Min. Gilmar Mendes).
+    Assim, uma vez que preenchidos os requisitos de admissibilidade, dou provimento ao agravo para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no apelo extremo discute-se questão que será apreciada no RE 603.136-RG/RJ.
+    Publique-se.
+    Brasília, 30 de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
