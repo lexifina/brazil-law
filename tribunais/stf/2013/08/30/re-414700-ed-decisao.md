@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de embargos de declaração contra decisão que deu parcial provimento a recurso extraordinário ao fundamento de que “o Supremo Tribunal Federal já assentou que é constitucional a cobrança de contribuição previdenciária incidente sobre proventos da inatividade e pensões de servidores públicos estaduais, no período que antecedeu a Emenda Constitucional nº 20/98, devendo a restituição dos valores restringir-se ao período posterior a essa emenda” (fl. 140).
+    Sustenta a embargante, em suma, que (a) apesar do parcial provimento do recurso extraordinário, não foram fixados os ônus sucumbenciais a serem arcados pelo agravado; (b) deve incidir o art. 21, parágrafo único, do CPC, visto que a autora sucumbiu em parte mínima do pedido. Ao final, requer a fixação dos honorários advocatícios em 10% do valor da condenação
+    Instado a se manifestar, alegou o embargado que não há omissão no julgado, já que “o período de incidência da correção monetária e dos juros moratórios está previsto e decorre, no caso, de norma legal” (fl. 151).
+    2. Com razão a embargante. De fato, apesar de ter dado parcial provimento ao recurso extraordinário, a decisão embargada deixou de se manifestar acerca da distribuição dos ônus sucumbenciais, o que configura omissão sanável por meio de embargos de declaração.
+    3. Na petição inicial, a parte autora pede a restituição das contribuições descontadas indevidamente relativas aos cinco anos anteriores ao ajuizamento da ação. Tendo a causa sido proposta em 23/10/2002, o período abrangido pelo pedido começaria a partir de 23/10/1997. A decisão embargada aplicou entendimento firmado pelo STF no sentido de que só a partir da vigência da EC 20/98 a cobrança de tais contribuições se tornou inconstitucional. Assim, houve sucumbência mínima da embargante, devendo o embargado arcar com os ônus sucumbenciais.
+    4. Diante do exposto, acolho os embargos de declaração, com efeitos infringentes, para determinar a condenação do embargado a arcar com as custas processuais e com os honorários advocatícios, os quais fixo em 10% do valor da condenação.
+    Publique-se. Intime-se.
+    Brasília, 30 de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
