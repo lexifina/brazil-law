@@ -1,0 +1,35 @@
+DECISÃO
+RECLAMAÇÃO. INQUÉRITO POLICIAL. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 14 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PLAUSIBILIDADE JURÍDICA. DEFICIÊNCIA DE INSTRUÇÃO. MEDIDA LIMINAR INDEFERIDA. INFORMAÇÕES. VISTA AO PROCURADOR-GERAL DA REPÚBLICA.
+Relatório
+    1. Reclamação, com requerimento de medida liminar, ajuizada por JOSÉ BATISTA DA CRUZ contra ato do Juízo da 2ª Vara Criminal da Circunscrição Especial Judiciária de Brasília.
+    2. O Reclamante alega contrariedade à Súmula Vinculante n. 14 deste Supremo Tribunal e argumenta que “foi constituído advogado pelo Sr. GIOVANI ALMEIDA OLIVEIRA, investigado pela Delegacia de Polícia do Senado Federal, no inquérito policial número 32011, distribuído ao Juízo Reclamado sob o número 2011.01.1.101938-7, na data de 06/06/2011” (Evento 2, fl. 1).
+    Afirma que “[n]o dia 30/04/2013 o advogado do investigado, ora reclamante, requereu a juntada de procuração nos autos do inquérito, distribuído ao Juízo reclamado sob o n° 2011.01.1.101938-7, requerendo vistas dos autos com a finalidade de obter cópias do inquérito, para analisá-lo e informar ao seu cliente e posteriormente proceder a defesa caso viesse a ser denunciado pelo Ministério Público do Distrito Federal” (Evento 2, fl. 2).
+    Assevera que “[n]o dia 07 de maio, o douto Magistrado, ora reclamado, despachou no processo por volta das 17h37min e às 18h28min baixando-se o feito à Delegacia de Origem” (Evento 2, fl. 2), tendo o Reclamante ido “à Delegacia do Senado Federal e lá chegando solicitou à autoridade policial cópia do inquérito, ocasião em que foi informado pelo policial encarregado da investigação que não lhe poderia dar vistas dos autos e nem fornecer copia, eis que o Magistrado reclamado havia proibido” (Evento 2, fl. 2).
+    Conclui que a “decisão douto Magistrado, ora reclamado, vai de encontro às prerrogativas do advogado Reclamante, garantida no Artigo 7°, XIII e XIV da Lei 8.906/94” (Evento 2, fl. 3).
+    Este o teor dos pedidos:
+    “Ante exposto, requer:
+    a) seja recebida e processada a presente reclamação e deferida medida liminar para cassar a decisão reclamada de fls. 217, para que o reclamante tenha acesso aos autos do inquérito, inclusive para tirar cópia integral do feito, processo nº 2011.01.1.101938-7 em curso na Segunda Vara Criminal de Brasília, intimando-se a autoridade reclamada, o Juiz de Direito da Segunda Vara Criminal de Brasília, bem como a Delegacia do Senado Federal, onde atualmente encontra-se o processo;
+    b) ao final, seja julgado procedente o pedido, cassando o r. despacho/decisão de fls. 217 do processo n° 2011.01.1.101938-7 da Segunda Vara Criminal de Brasília bem como a decisão de fls. 202/207 do referido processo mencionada no Despacho do Magistrado reclamado, proferindo-se outra decisão que garanta ao Reclamante todas suas prerrogativas previstas no Estatuto da Advocacia e na Súmula Vinculante n° 14 do Excelso Pretório, dando-se livre acesso ao reclamante inclusive na obtenção de cópias dos autos do inquérito n° 32011 da Delegacia do Senado Federal, Processo n°2011.01.1.101938-7, da Segunda Vara Criminal de Brasília, até o desfecho final;
+    c) sejam requisitadas da Autoridade Reclamada as informações necessárias e/ou avocado o feito para instruir a presente reclamação, posto que o Reclamante, neste ato, deixa de juntá-los devido à restrição imposta pelo Reclamado;
+    d) seja intimado o Ministério Público;
+    e) seja o douto Magistrado condenado ao pagamento das custas processuais e de honorários de sucumbência a serem fixados por essa Suprema Corte” (Evento 2, fls. 5-6, destaques do original).
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. O advento do instituto da súmula vinculante inaugurou nova hipótese de cabimento de reclamação para o Supremo Tribunal Federal, conforme disposto no art. 103-A, § 3º, da Constituição da República.
+    Assim, a contrariedade a determinada súmula ou a sua aplicação indevida por ato administrativo ou decisão judicial possibilita a atuação do Supremo Tribunal Federal, que, ao julgar a reclamação procedente, pode anular o ato ou cassar a decisão e determinar que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Na espécie vertente, o Reclamante alega contrariedade à Súmula Vinculante n. 14:
+    “É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa”.
+    4. Entretanto, neste exame preambular, a exposição dos fatos e a verificação das circunstâncias presentes e comprovadas na ação conduzem ao indeferimento da medida liminar requerida.
+    A decisão reclamada (Evento 5) não indica, de forma clara, possível descumprimento ao disposto na Súmula Vinculante n. 14, deste Supremo Tribunal. Nela se faz referência expressa, como razão de decidir, à decisão de fls. 202/207 dos autos originários, que, todavia, não foi juntada, pelo Reclamante, ao presente feito.
+    Dessa forma, a deficiência da instrução e a ausência de plausibilidade jurídica não demonstram que o direito de defesa tenha sido cerceado pela alegada vedação aos autos do inquérito policial nº 2011.01.1.101938-7, instaurado em desfavor do Giovani Almeida Oliveira e outro investigado.
+    5. Ademais, a liminar é medida inicial e precária, que não completa a jurisdição antes do exame de todos os elementos necessários ao convencimento do julgador e à conclusão do julgado, não sendo possível, portanto, na análise desse pedido, antecipar o que se pede no mérito.
+    Daí a necessidade de se analisar a questão de forma mais detida, após a complementação da instrução do pedido com as informações a serem prestadas pelo Juízo da 2ª Vara Criminal da Circunscrição Especial Judiciária de Brasília e pelo delegado da Delegacia do Senado Federal e com o parecer do Procurador-Geral da República.
+    6. Pelo exposto, sem prejuízo de análise mais detida no julgamento do mérito da presente reclamação, indefiro o requerimento de medida liminar.
+    Oficie-se:
+    a) ao Juízo da 2ª Vara Criminal da Circunscrição Especial Judiciária de Brasília para, com urgência e por fax, prestar informações pormenorizadas quanto ao alegado na presente ação, fornecer cópia da decisão de fls. 202/207 dos autos do inquérito policial nº 2011.01.1.101938-7, além dos demais documentos pertinentes ;
+    b) ao delegado da Delegacia do Senado Federal, para, com urgência e por fax, prestar informações pormenorizadas quanto ao alegado na presente ação e fornecer cópia dos documentos pertinentes.
+    Com os ofícios, a serem enviados com urgência e por fax, encaminhe-se cópia da inicial e da presente decisão.
+    7. Prestadas as informações, vista ao Procurador-Geral da República (art. 16 da Lei n. 8.038/1990 e art. 160 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de setembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
