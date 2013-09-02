@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por Paulo Sérgio Barbosa dos Santos em face do Juiz de Direito da Vara da Fazenda Pública da Comarca de Paulo Afonso/BA, cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e o que decidido HC nº 109.709/BA.
+    Neguei seguimento a presente reclamação por inexistir, na espécie, afronta à autoridade do Supremo Tribunal Federal e ao que decidido no paradigma apontado.
+    A decisão restou assim fundamentada, na parte que interessa:
+    “(...)
+    Examinados os autos, decido.
+    Inicialmente, consigno que, nos termos do art. 102, inc. I, alínea ‘l’, da Constituição Federal, bem como nos arts. 156 do Regimento Interno desta Corte e 13 da Lei nº 8.038/90, a reclamação só é admissível em duas hipóteses: para a preservação da esfera de competência da Corte e para garantir a autoridade das suas decisões. Também, de acordo com a jurisprudência, pode ser acionada para infirmar decisões que desrespeitem súmula vinculante editada por este Supremo Tribunal.
+    No caso em exame, a decisão desta Suprema Corte, cuja autoridade o reclamante sustenta estar comprometida com a manutenção do ato impugnado, consiste no julgamento do HC nº 109.709/BA, no qual figurou como paciente.
+    Portanto, é assente a sua legitimidade ativa na presente reclamação.
+    Feito esse registro, destaco que o caso não merece seguimento.
+    A Primeira Turma ao julgar o HC 109.709/BA, à unanimidade, concedeu parcialmente a ordem para que o juízo de piso substituísse a segregação cautelar do ora reclamante por aquelas medidas cautelares previstas nos incisos I, II, III e VI do art. 319 do Código de Processo Penal, nos termos da ementa seguinte:
+    ‘Habeas corpus. Corrução passiva e formação de quadrilha. Fraudes em benefícios previdenciários. Condenação. Manutenção da custódia cautelar. Pressupostos do art. 312 do Código de Processo Penal. Demonstração. Gravidade em abstrato insuficiente para justificá-la. Precedentes da Corte. Ordem parcialmente concedida. 1. Segundo a jurisprudência consolidada do Supremo Tribunal Federal, para que o decreto de custódia cautelar seja idôneo, é necessário que o ato judicial constritivo da liberdade traga, fundamentadamente, elementos concretos aptos a justificar tal medida. 2. Está sedimentado na Corte o entendimento de que a gravidade em abstrato do delito não basta para justificar, por si só, a privação cautelar da liberdade individual do agente. 3. As recentes alterações promovidas pela Lei nº 12.403/11 no Código de Processo Penal trouxeram alterações que aditaram uma exceção à regra da prisão. 4. Não mais subsistente a situação fática que ensejou a decretação da prisão preventiva, é o caso de concessão parcial da ordem de habeas corpus, para que o Juiz de piso substitua a segregação cautelar pelas medidas cautelares diversas da prisão elencadas no art. 319, incisos I, II III e VI, do Código de Processo Penal’ (DJe de 20/4/12).
+    Conforme noticiado pelo próprio reclamante em sua exordial o juízo de origem implementou aquelas medidas cautelares do art. 319 do Código de Processo Penal, nos termos em que determinado por esta Suprema Corte.
+    Asseverou, ainda, ‘que o juízo monocrático para viabilizar a substituição da segregação prisional do paciente, não se alocou qualquer vedação ao paciente em relação a retomada do uso pleno e liberto (de qualquer amarra limitante) de seu mandato eletivo de vereador municipal em Paulo Afonso/BA’.
+    Em razão desses elementos, não vislumbro qualquer afronta à autoridade do Supremo Tribunal Federal e ao que decidido HC nº 109.709/BA. Com efeito, a decisão oriunda do juízo reclamado, que denegou a segurança no MS nº 0003928-70.2011.805.0191, pelo qual o reclamante buscava a sua a reassunção ao cargo de vereador na Câmara Municipal de Paulo Afonso/BA, não guarda qualquer relação como o que decidido no julgamento da ação paradigma.
+    Conforme, notadamente, consolidado no repertório jurisprudencial da Corte ‘o remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal’ (RCL nº 4.381/RJ-AgR, Tribunal Pleno, Relator o Ministro Celso de Mello, DJe de 5/8/11).
+    No mesmo sentido: Rcl nº 11.022/DF-ED, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJe de 7/4/11; Rcl nº 4.803/SP, Tribunal Pleno, de minha relatoria, DJe de 22/10/10; Rcl nº 9.127/RJ-AgR, Relator Ministro Ayres Britto, Tribunal Pleno, DJe de 20/8/10; e Rcl nº 6.078/SC-AgR, Relator o Ministro Joaquim Barbosa, Tribunal Pleno, DJe de 30/4/10, entre outros.
+    Por essa razão, nos termos do art. 38 da Lei nº 8.038/90 e do art. 21, § 1º do Regimento Interno deste Supremo Tribunal, nego seguimento a presente reclamação, ficando, por consequência, prejudicado o pedido de liminar. ”
+    Contra essa decisão, interpõe o reclamante tempestivo agravo regimental, no qual, em linhas gerais, reitera os argumentos trazidos anteriormente e sua inicial.
+    Instado a se manifestar, o Ministério Público Federal, em parecer da lavra da ilustre Subprocuradora-Geral da República Dra. Cláudia Sampaio Marques, aprovado pelo então Procurador-Geral da República Dr. Roberto Monteiro Gurgel Santos, opinou pela extinção do feio sem julgamento de mérito, em razão da perda superveniente de objeto.
+    Examinados os autos, decido.
+    Com razão o Parquet Federal
+    De fato, em consulta ao sítio da Câmara Municipal de Paulo Afonso/BA na internet, constata-se que o mandato eletivo do reclamante, relativo ao cargo de Vereador na 13ª Legislatura encerrou-se em dezembro de 2012.
+    Diante desse quadro, tem-se que a pretensão do reclamante encontra-se superada, razão pela qual, nos termos do art. 21, inciso IX, do Regimento Interno da Corte, julgo prejudicado o regimental interposto por perda superveniente de objeto.
+    Publique-se.
+    Brasília, 2 de setembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
