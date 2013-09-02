@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina:
+    “APELAÇÃO CRIMINAL. ROUBO DUPLAMENTE CIRCUNSTANCIADO (ART. 157, § 2º, I E II) RECURSO DEFENSIVO. PRELIMINAR DE NULIDADE PELA FALTA DE PERÍCIA PARA AFERIÇÃO DA POTENCIALIDADE LESIVA DA ARMA. AUSÊNCIA DE PROVA DO PREJUÍZO. PRELIMINAR AFASTADA. ALEGAÇÃO DE FALTA DE PROVAS E NEGATIVA DE AUTORIA. NEGATIVA DISSOCIADA DO CONJUNTO PROBATÓRIO. PALAVRA DA VÍTIMA E DOS POLICIAIS QUE CONFIRMAM A CONFISSÃO EFETUADA POR UM DOS RÉUS NA FASE POLICIAL. MATERIALIDADE A AUTORIA DEVIDAMENTE VERIFICADAS. PEDIDO DE AFASTAMENTO DA CAUSA DE AUMENTO DO EMPREGO DE ARMA. AUSÊNCIA DE EXAME DE POTENCIALIDADE LESIVA DA ARMA. PRESCINDIBILIDADE DO EXAME QUANDO PRESENTES OUTRAS PROVAS FIRMES E COERENTES. DOSIMETRIA DA PENA. TERCEIRA FASE. TABELA PROGRESSIVA EMPREGADA PARA A MAJORAÇÃO DA REPRIMENDA. FALTA DE FUNDAMENTAÇÃO. DICÇÃO DA SÚMULA 443 DO STJ. EXASPERAÇÃO LIMITADA AO MÍNIMO LEGAL (UM TERÇO). RECURSOS CONHECIDOS, SENDO UM NEGADO E OUTRO PARCIALMENTE PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Constituição. Afirma que “o Acórdão do Tribunal de Justiça de Santa Catarina contrariou o princípio da ampla defesa e do contraditório (art. 5º, inciso LV da CF/88), ao manter o decreto condenatório de primeiro grau com aplicação da causa especial de aumento de pena de utilização de arma de fogo, perante ausência de exame pericial atestando o potencial lesivo do artefato.”
+    A decisão agravada não admitiu o recurso extraordinário sob os seguintes fundamentos: (i) “quanto à suposta ofensa ao referido inciso do art. 5º da Constituição da República, cabe salientar que esta configura, quando muito, ofensa apenas reflexa à Carta Superior”; (ii) incidem, no caso, as Súmulas 279, 282 e 356/STF.
+    O recurso está prejudicado, tendo em vista que o Superior Tribunal de Justiça acolheu a pretensão da parte agravante, ao dar provimento ao agravo em recurso especial simultaneamente interposto ao recurso extraordinário (AREsp 326.087), do qual se extrai a seguinte ementa:
+    “PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. INCIDÊNCIA DE MAJORANTE. USO DE ARMA DE FOGO. OCORRÊNCIA DE APREENSÃO DE ARMA. PERÍCIA NÃO REALIZADA.
+    1. Não se mostra razoável a incidência da majorante prevista no inciso I, § 2º do art. 157 do Código Penal, uso de arma de fogo, quando, sendo feita a apreensão da arma, esta não é periciada.
+    2. Agravo conhecido para dar provimento ao recurso especial.”
+    Dessa forma, o recurso extraordinário e, consequentemente, o agravo contra a decisão que negou trânsito ao recurso extraordinário perderam os respectivos objetos.
+    Diante do exposto, base no art. 38 da Lei nº 8.038/1990 e no art. 21, IX, do RI/STF, julgo prejudicado o presente recurso.
+    Publique-se.
+          Brasília, 02 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
