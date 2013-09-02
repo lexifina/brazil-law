@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão da 2ª Câmara Especial do Tribunal de Justiça do Estado de Rondônia de inadmissibilidade do recurso extraordinário que impugna acórdão assim ementado:
+    “Apelação cível. Adicional de férias. Base de cálculo. Remuneração do servidor. Limite remuneratório previsto no art. 37, XI, da Constituição Federal.
+    O adicional de 1/3 de férias deve ser calculado com base na remuneração do servidor, e não com base no valor excedente ao teto remuneratório previsto para o executivo estadual.” (fl. 207).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, sustenta-se, em síntese, que o acórdão recorrido teria violado os artigos 7º, inciso XVII; 37, inciso XI e § 11º; e 39, § 3º, todos da Constituição Federal.
+    Alega-se, em síntese, que:
+    “(...) deveria ser considerada como base de cálculo sua remuneração total para o pagamento do 1/3 de férias, e que há muito, é feito em valor menor razão pela qual pleiteiam receber o valor retroativo aos últimos cinco anos.” (fl. 222).
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, verifico que o Tribunal a quo firmou entendimento no sentido de que o adicional de 1/3 de férias possui natureza jurídica de verba salarial. Destaco que este entendimento não se coaduna com a jurisprudência do Supremo Tribunal Federal, que entende possuir tal adicional a natureza jurídica de verba indenizatória:
+    “O abono de férias é parcela acessória que, evidentemente, deve ser paga quando o trabalhador goza o seu pedido de descanso anual, permitindo-lhe um reforço financeiro neste período. Por isso, suprimidas as férias desaparece o dever de pagar o abono correspondente a um terço dos vencimentos do servidor público.”(RE 345.458, Rel. Min. Ellen Gracie, DJ 11.3.2006).
+    O acórdão recorrido consignou que:
+    “Deve-se ressaltar que o estatuto dos servidores públicos deste Estado, norma que rege o funcionalismo público, determina que o adicional seja calculado com base na remuneração do servidor, e, de fato, a remuneração dos apelantes é o valor que consta como efetivamente recebido.
+    Sabe-se que a atividade do administrador público deve pautar-se pelo princípio da legalidade o qual, em direito administrativo, significa que o agente somente pode praticar os atos efetivamente descritos em lei.
+    Verifica-se que a lei ao tratar sobre o assunto determina o cálculo do adicional com base no valor da remuneração, portanto, o administrador não pode aumentar esse valor para aplicar ao cálculo o que não é pago ao servidor a título de remuneração.” (fl. 212).
+    Sustenta o recorrente, contudo, que o adicional de 1/3 de férias deve ser computado tendo por base de cálculo os proventos percebidos anteriormente à Emenda Constitucional 41/2003, que teria reduzido seus vencimentos por força do teto remuneratório.
+    É pacífico o entendimento desta Corte no sentido de ser inconstitucional o recebimento de proventos, por servidores públicos, acima do teto remuneratório. Nesse sentido:
+    “Agravo Regimental em Suspensão de Segurança. 2. Observância do limite remuneratório dos Servidores Públicos estabelecido pelo art. 37, XI, da Constituição de República, com redação dada pela Emenda Constitucional 41/2003. 3. O Supremo Tribunal Federal pacificou o entendimento de que a percepção de proventos ou remuneração por servidores públicos acima do limite estabelecido no art. 37, XI, da Constituição da República, enseja lesão à ordem pública. 4. Impõe-se a suspensão das decisões como forma de evitar o efeito multiplicador, que se consubstancia no aforamento, nos diversos tribunais, de processos visando ao mesmo escopo dos mandados de segurança objeto da presente discussão. Precedentes. 5. A decisão do Plenário no MS 24.875 (rel. Sepúlveda Pertence, DJ 06.10.06) refere-se apenas à concessão da segurança para que os impetrantes recebam o acréscimo previsto no art. 184, III, da Lei 1.711/52, de 20% sobre os proventos da aposentadoria, até sua ulterior absorção pelo subsídio dos Ministros do Supremo Tribunal Federal, determinado em lei. Tal questão não se confunde com a controvérsia versada no caso. 6. Agravos Regimentais conhecidos e improvidos.” (SS-AgR 2.522, de minha relatoria, DJe 29.8.2008).
+    Desta forma, não se coaduna com a ordem constitucional o percebimento de adicionais por servidores públicos tendo por base de cálculo proventos excedentes ao teto remuneratório previsto na Constituição de 1988.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 2 de setembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
