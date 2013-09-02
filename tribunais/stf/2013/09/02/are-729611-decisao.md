@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra decisão denegatória de seguimento a recurso extraordinário interposto contra acórdão da Terceira Turma do Tribunal Regional Federal da 4º Região, assim ementado:
+    “APELAÇÃO CÍVEL. UFSM. COTAS. SISTEMA CIDADÃO PRESENTE. IRREGULARIDADE DO PROCEDIMENTO ADOTADO PELA UNIVERSIDADE.
+    1. A decisão administrativa que entendeu pelo cancelamento da matrícula do autor no curso superior, pelo seu não enquadramento no sistema de ingresso ‘Cidadão Presente A’ carece de fundamentação, pois não está baseada em qualquer critério objetivo.
+    2. O que se exige do candidato é a condição de afrodescendente e não a vivência anterior de situações que possam caracterizar racismo”.
+    Alega-se, no apelo extremo, a existência de violação aos artigos 5º, caput, 37, caput, 207 e 208 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    Colho do voto condutor do acórdão recorrido a seguinte fundamentação:
+    “ De acordo com o Edital nº 009/2008 - COPERVES foram reservados aos candidatos afro-brasileiros 11% das vagas em cada curso de graduação, sendo obrigação do candidato entregar uma autodeclaração, devidamente assinada, como comprovação de que é afro-brasileiro, sob pena de perda do direito à vaga na Universidade.
+    O item 9.19 do Edital nº 009/2008 prevê que os casos omissos serão resolvidos pela Comissão Permanente de Vestibular (COPERVES) da UFSM. Cumprindo este desiderato, foi instaurado pela COPERVES procedimento administrativo com o objetivo de realizar o controle da legalidade do ato administrativo em discussão, na presença inclusive de membros do Movimento Negro, procedimento este que culminou com o cancelamento da matrícula do autor
+    Não há, pois, ilegalidade na realização da entrevista. Contudo, o que se exige do candidato é a condição de afrodescendente e não a vivência anterior de situações que possam caracterizar racismo.
+    Portanto, entendo que a decisão administrativa carece de fundamentação, pois não está baseada em qualquer critério objetivo. Como bem destacado pela sentença, ‘A ocorrência ou não da discriminação, que representa toda distinção, exclusão ou preferência que tenha por fim alterar a igualdade de oportunidade ou tratamento, não me parece constituir único ou principal elemento de convicção acerca da condição racial do candidato.
+    (…)
+    Considero que o fato de alguém 'se sentir' ou não discriminado em função de sua raça é critério de caráter muito subjetivo, que depende da experiência de toda uma vida e até de características próprias da personalidade de cada um, bem como do meio social em que vive. Por isso, não reconheço tal aspecto como elemento apto a comprovar a raça de qualquer pessoa.
+    Enfim, considerando o ferimento do direito da ampla defesa no procedimento administrativo e que a ocorrência de ‘discriminação racial’ não é requisito constante no edital para inserir o candidato no Sistema Cidadão Presente A, impõe-se o reconhecimento da verossimilhança nas alegações do Autor’”.
+    Concluir de modo diverso do acórdão recorrido demandaria o reexame das cláusulas editalícias que regem o certame e do conjunto fático-probatório dos autos, procedimentos vedados em sede extraordinária. Incidência, na espécie, das Súmulas 279 e 454 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXAME PSICOTÉCNICO. CONCURSO PÚBLICO. NECESSIDADE DE CRITÉRIOS OBJETIVOS. REEXAME DE PROVAS E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que o exame psicotécnico pode ser estabelecido para concurso público desde que por lei, tendo por base critérios objetivos de reconhecido caráter científico, devendo existir, inclusive, a possibilidade de reexame. Precedentes. 2. Reexame de fatos e provas e de clausulas editalícias. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE nº 473.719/AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 1º/8/2008).
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. VESTIBULAR. REALIZAÇÃO DE MATRÍCULA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E DE ANÁLISE DE NORMAS EDITALÍCIAS. SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO” (ARE nº 708.484/RS, Relatora a Ministra Cármen Lúcia, DJe de 25/9/2012).
+    Nesse mesmo sentido, a seguinte decisão monocrática: ARE nº 708.484/RS, Relatora a Ministra Cármen Lúcia, DJe de 25/9/12.
+    Por fim, ressalte-se que esta Corte já assentou em diversas oportunidades que o princípio da autonomia universitária não se confunde com soberania, devendo estas se submeterem às leis e demais atos normativos. A propósito:
+    “AGRAVO REGIMENTAL. INSTITUIÇÃO DE ENSINO SUPERIOR. COBRANÇA ABUSIVA. CÓDIGO DE DEFESA DO CONSUMIDOR. AUTONOMIA UNIVERSITÁRIA. ALEGAÇÃO DE OFENSA AOS ARTIGOS 207 E 209 DA CONSTITUIÇÃO FEDERAL. DISCUSSÃO INFRACONSTITUCIONAL. Nos termos da jurisprudência deste Tribunal, o princípio da autonomia universitária não significa soberania das universidades, devendo estas se submeter às leis e demais atos normativos. Controvérsia decidida à luz da legislação infraconstitucional. A alegada ofensa à Constituição, se existente, seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Agravo regimental a que se nega provimento” (AI nº 647.482/RJ-AgR, Primeira Turma, Relator o Ministro Joaquim Barbosa, DJe de 31/3/11).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 2 de setembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
