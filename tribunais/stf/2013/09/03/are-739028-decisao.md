@@ -1,0 +1,16 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal Superior do Trabalho que, em dissídio coletivo, no que importa ao presente recurso, negou provimento a recurso ordinário, mantendo o reajuste salarial de 6% concedido pelo TRT, ainda que por razões diversas, salientando não estar vinculado o percentual a qualquer índice de preços.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos artigos art. 5º, II, e 114 da Constituição Federal, asseverando, em suma, que o TST extrapolou as competências constitucionais que lhe foram atribuídas, uma vez que (a) a Lei 10.192/2001 veda “a indexação de salários e a estipulação de reajustes salariais por quaisquer índices de preços”(fl. 2.324) e (b) inexiste qualquer suporte legal para o aumento determinado pelo Tribunal de origem.
+    2. No que toca à suposta ofensa ao art. 114 da Constituição Federal, o acórdão recorrido asseverou que:
+    (...) com o reajuste dos salários, na data-base da categoria, busca-se restituir aos trabalhadores parte das perdas sofridas pelo aumento do custo de vida, além de lhes preservar um pouco do poder aquisitivo que detinham na data-base anterior.
+    O TRT deferiu 6% de correção salarial, desvinculado de qualquer índice inflacionário, o que se encontra de acordo com a jurisprudência desta Corte. (fl. 2.309)
+    A ora agravante, por sua vez, alega que o mencionado reajuste implicaria ofensa à competência da justiça trabalhista, uma vez que vinculado a índices de preços. Assim, refutar essas afirmações demanda a reapreciação de aspectos de fato, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a súmula 279 do STF.
+    3. Por outro lado, não houve emissão, pelo acórdão recorrido, de juízo acerca da matéria de que trata a norma inserta no art. 5º, II, da Constituição Federal, tampouco a questão foi suscitada no momento oportuno, em sede dos embargos de declaração, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido, incidindo o óbice das súmulas 282 e 356 do STF.
+    Ainda que superado esse óbice, deve-se observar, no caso, o disposto na Súmula 636/STF: "Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida".
+    4. Por fim, a concessão do reajuste pelo Tribunal Superior do Trabalho amparou-se na interpretação e na aplicação de normas infraconstitucionais (Lei 10.192/2001 e art. 766 da CLT), fundamento suficiente, por si só, para manter o acórdão recorrido. Deste modo, conforme reiterada jurisprudência desta Corte, é inviável a apreciação, em sede de recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa.
+    5. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 03 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
