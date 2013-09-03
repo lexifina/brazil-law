@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto de acórdão da Primeira Turma Recursal Cível e Criminal de Salvador-BA, que manteve sentença de improcedência de pedido de reconhecimento de abusividade de cláusula de contrato de plano de saúde.
+    Os embargos de declaração foram desprovidos.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos artigos 6º, 196, 226, § 7º da Constituição, asseverando, em síntese, estar incluído no direito à saúde o de utilizar os meios de reprodução assistida, o que torna abusiva a cláusula do contrato de plano de saúde que proíbe a cobertura de tais procedimentos.
+    2. A Turma Recursal decidiu a controvérsia tão somente a partir de interpretação e aplicação das normas infraconstitucionais pertinentes (Leis Federais 9.263/96, 9.656/98 e 8.078/90). Conforme reiterada jurisprudência desta Corte, é inviável a apreciação, em sede de recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa.
+    3. Por fim, o acórdão confirmou a sentença segundo a qual:
+    Conforme se observa da cláusula das Condições Gerais do Contrato firmado entre os autores e a ré, resta evidente e de nítida transparência a hipótese de riscos e procedimentos excluídos da cobertura do plano de assistência à saúde, com compreensão clara de seu conteúdo, de sua cobertura e de suas restrições e, no caso está a inseminação artificial, razão pela qual a inseminação in vitro, reclamada pela autora não se encontra dentre os procedimentos a serem cobertos pelo plano acionado.
+    Portanto, da análise do caso em cotejo com a legislação em vigor, inclusive sob a luz dos preceitos que resguardam a relação consumerista como à aquela que aqui se apresenta, não vislumbro o aventado direito de alteração contratual visando afastar ofensa a direito do consumidor, já que além de se tratar de cláusula expressa e clara prevista no contrato entabulado entre as partes, a fertilização in vitro, que constitui forma de inseminação artificial, não se apresenta como procedimento indispensável para garantir a assistência à saúde ao usuário do plano, não restando evidenciado, por outro lado, ofensa ao princípio da boa-fé objetiva do usuário do plano, o qual tinha pleno conhecimento de que dito procedimento não era coberto pelo plano de saúde, não tendo ocorrido, igualmente, ofensa ao direito da informação, daí porque não se configura como cláusula abusiva que enseje a declaração de sua nulidade.
+    Assim, analisar a existência de suposta violação aos dispositivos constitucionais apontados também demandaria a reapreciação de cláusulas contratuais, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a Súmula 454 do STF.
+    4. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 3 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
