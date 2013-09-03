@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto pelo Ministério Público contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que, em sede de apelação, deu parcial provimento ao recurso da defesa, para (a) descaracterizar o caráter hediondo do crime de tráfico privilegiado; e (b) fixar o regime inicial aberto para o cumprimento da reprimenda.
+    No recurso, alega-se violação a dispositivos constitucionais, sustentando, em síntese, a impossibilidade de fixação do regime inicial aberto para o crime de tráfico privilegiado, já que, nos termos do art. 5º, XLIII, da Constituição Federal, trata-se de delito equiparado a hediondo.
+    2. O Superior Tribunal de Justiça deu provimento parcial ao recurso especial da parte recorrente (RESP 1.337.665/RS, Rel. Min. Maria Thereza de Assis Moura, DJe 04.03.2013, e-STJ, fls. 496/503), tendo ocorrido o trânsito em julgado em 10.04.2013 (e-STJ, fl. 513). Como o especial tem o mesmo escopo do presente recurso extraordinário, há a perda de objeto deste apelo na parte em que se postula o reconhecimento da hediondez do crime de tráfico privilegiado, eis que o STJ concluiu “que a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 não afasta o caráter hediondo do crime de tráfico ilícito de entorpecentes”.
+    3. Quanto à suposta inconstitucionalidade na fixação de regime aberto para o crime de tráfico de drogas, esta Corte, ao julgar o HC n.º 111.840/ES, Pleno, Min. Dias Toffoli, por maioria, declarou incidentalmente a inconstitucionalidade do § 1.º do art. 2.º da Lei 8.072/90, com a redação que lhe foi dada pela Lei 11.464/07, afastando a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados. Logo, o acórdão impugnado está em consonância com o entendimento jurisprudencial desta Corte, razão pela qual não merece reparos.
+    4. Diante do exposto, conheço do agravo para, desde logo, negar seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 3 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
