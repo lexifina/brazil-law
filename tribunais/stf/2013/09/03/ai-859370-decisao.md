@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário de acórdão do Tribunal Regional Federal da 1º Região que extinguiu, sem julgamento de mérito, ação rescisória de decisão que homologou pedidos de desistência e renúncia ao direito em que se funda a ação original.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos arts. 5º, II, XXXV, LV, da Constituição Federal asseverando, em suma, ofensa às garantias do contraditório, da ampla defesa e do acesso ao judiciário em razão da extinção da ação rescisória, já que não haveria outra forma de impugnar a decisão proferida.
+    2. Quanto à alegação de ofensa aos limites da coisa julgada e aos princípios do devido processo legal, do contraditório e da ampla defesa, diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta Corte na análise do ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660), por se tratar de questão infraconstitucional. Registre-se que a decisão de inexistência de repercussão geral tem eficácia em relação a todos os recursos sobre matéria idêntica (art. 543-A, § 5º, do CPC c/c art. 327, § 1º, do RISTF).
+    3. Ademais, conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação ao direito adquirido, ao ato jurídico perfeito, e aos princípios da inafastabilidade da jurisdição e da motivação das decisões, que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011. De fato, a questão do cabimento da ação rescisória resolve-se exclusivamente com base nas normas pertinentes do Código de Processo Civil.
+    4. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 03 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
