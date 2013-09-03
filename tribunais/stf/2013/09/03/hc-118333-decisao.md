@@ -1,0 +1,20 @@
+Decisão: 1. Trata-se de habeas corpus impetrado por Sérgio Sorgi Filho, em causa própria, no qual requer seja determinado ao STJ que se proceda ao exame dos habeas corpus 167.171/SP, 212.804/SP e 212.085/SP.
+    Por não estar adequadamente instruído, o pedido foi remetido à Defensoria Pública da União que, além de colacionar documentos, renovou o pedido, no sentido de determinar “ao Superior Tribunal de Justiça a apreciação do mérito do HC 167.171/SP”.
+    2. As premissas postas na impetração são logicamente dissociadas dos fundamentos do ato impugnado, isso porque, ao contrário do alegado, o acórdão contra qual se insurge a impetração, embora tenha tecido considerações acerca do não cabimento de habeas corpus em substituição do recurso cabível, procedeu ao exame das questões suscitadas pelo impetrante. Veja-se, a propósito, excerto do voto condutor:
+    (...) No entanto, considerando que este remédio constitucional foi impetrado antes da alteração do entendimento jurisprudencial, a fim de evitar prejuízos à ampla defesa e ao devido processo legal, o alegado constrangimento ilegal será enfrentado para que se examine a possibilidade de eventual concessão de habeas corpus de ofício.
+    O pedido, em suma, aduz constrangimento ilegal consubstanciado na condenação do paciente-impetrante, pela prática da conduta prevista no art. 157, § 2º, incisos I e II, do Código Penal, sob a alegação de invalidade das provas colhidas aos autos, a saber: análise dos depoimentos produzidos na instrução criminal, avaliação do auto de reconhecimento, negativa de oitiva das testemunhas arroladas pela defesa e alegada injustiça da decisão da causa.
+    Não há ilegalidade a ser afastada.
+    A desconstituição do decreto condenatório, chancelado pelas instâncias ordinárias -- e atualmente já transitado em julgado --, foi apreciada pelo Tribunal a quo, oportunidade em que foi afastado o argumento de cerceamento de defesa, face à deficiência da instrução do pedido e ausência de comprovado prejuízo na espécie (aresto às fls. 40/46).
+    Tal qual caracterizado na instância ordinária, não trouxe a inicial prova pré-constituída que demonstre, de forma patente o vício à ampla defesa do paciente, sobretudo em relação ao indeferimento da oitiva das testemunhas arroladas pelo outrora acusado, não havendo que se falar em cerceamento de defesa.
+    Verifica-se, na espécie, ao revés, a inexistência de qualquer pecha de malferimento ao aludido princípio constitucional, porquanto foi a condenação respaldada na palavra da vítima e de testemunha presencial dos fatos (fls. 32/39).
+    Infirmar tal conclusão, pois, somente poderia possível mediante o reexame do conjunto das provas colacionadas ao feito, providência, como se sabe, incompatível com a via estreita do writ, consoante assenta a reiterada jurisprudência desta Corte Nacional.
+    O próprio Supremo Tribunal Federal, releva notar, entende que o habeas corpus é instrumento que se notabiliza pela celeridade e, consequentemente, pela insuscetibilidade de exame aprofundado de provas, devendo-se reconhecer, portanto, a necessidade do desenvolvimento do processo penal para melhor esclarecimento dos pontos controvertidos.
+    (…) Quanto à cogitada ilegalidade na dosimetria da pena, deduzida em petição apartada pela Defensoria Pública de São Paulo, constata-se a impossibilidade de conhecimento do pedido, à vista da ausência de debates na origem sobre o assunto, sob pena de indevida supressão de um dos graus de jurisdição.
+    Assim, verifica-se que o processo-crime não padece da ilegalidade ora apontada, desmerecendo censura a condenação do paciente, ante a inexistência de ofensa às garantias constitucionais inerentes ao processo penal hígido.
+    Assim, carece de interesse de agir o impetrante ao pretender a concessão da ordem para que o STJ conheça do habeas corpus.
+    3. Com essas considerações, nego seguimento ao pedido de habeas corpus (RISTF, art. 21, IX). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 3 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
