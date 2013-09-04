@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto contra acórdão proferido em ação visando ao restabelecimento do pagamento de gratificações. O Tribunal de Justiça do Distrito Federal e Territórios decidiu, em suma, que “a Lei 4.075/2007 estendeu o pagamento das gratificações aos servidores aposentados, tendo o DF considerado como base para cálculo os percentuais previstos de 0,6% por ano para a GAA e para a GAEE e de 1,2% ao ano para a GARC” (e-STJ fl. 159).
+    Os embargos de declaração opostos foram rejeitados.
+    No recurso extraordinário, a parte recorrente aponta, com base no art. 102, III, a, da Constituição, violação aos seguintes dispositivos constitucionais: (a) art. 5º, LV, pois houve grave ofensa à ampla defesa e ao contraditório, já que “o recorrido sequer comunicou à recorrente a redução de seus proventos” (e-STJ fl. 186); e (b) art. 1º, III, porque “a redução perpetrada pelo recorrido, sem qualquer chance de defesa, prejudica sobremaneira o sustento da recorrente, sem que se possa garantir, minimamente, seus direitos” (e-STJ fl. 189).
+    Em contra-razões, a parte recorrida postula, preliminarmente, o não-conhecimento do recurso, em razão da (a) ausência de (i) preliminar de repercussão geral, (ii) prequestionamento e (iii) ataque aos fundamentos da decisão agravada; e (b) necessidade de apreciação de (i) legislação local e (ii) matéria fático-probatória. No mérito, pede o desprovimento do recurso.
+    2. Quanto à alegação de ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta Corte na análise do ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660), por se tratar de questão infraconstitucional. Registre-se que a decisão de inexistência de repercussão geral tem eficácia em relação a todos os recursos sobre matéria idêntica (art. 543-A, § 5º, do CPC c/c art. 327, § 1º, do RISTF).
+    3. Não houve emissão, pelo acórdão recorrido, de juízo acerca da matéria contida no art. 1º, III, da Constituição Federal, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido no ponto.
+    Adite-se que se trata de norma que define os princípios fundamentais da República Federativa do Brasil. Como se vê, o apelo apóia-se em norma incapaz de infirmar o juízo formulado pelo acórdão recorrido, por trazer disposição demasiado genérica, o que atrai a aplicação analógica da Súmula 284 do STF.
+    4. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 4 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
