@@ -1,0 +1,16 @@
+DECISÃO
+EXIGIBILIDADE DE TÍTULO JUDICIAL FORMALIZADO EM JUIZADO ESPECIAL – INTANGIBILIDADE DA COISA JULGADA – ERRO MATERIAL – PROVIMENTO DOS DECLARATÓRIOS – DESPROVIMENTO DO AGRAVO DE INSTRUMENTO.
+    1. O embargante insurge-se contra a seguinte decisão (folha 53):
+RECURSO EXTRAORDINÁRIO – PRECEDENTES DO PLENÁRIO – BENEFÍCIO PREVIDENCIÁRIO – MAJORAÇÃO – INEXISTÊNCIA DE NORMA RETROATIVA – SEGURANÇA JURÍDICA E PRINCÍPIO ATUARIAL – CONHECIMENTO E PROVIMENTO.
+    1. O tema versado nas razões recursais foi objeto de exame na sessão do Plenário de 8 de fevereiro de 2007 – Recursos Extraordinários nos 415.454–4/SC e 416.827–8/SC. Na assentada seguinte, ocorreu o julgamento em massa de milhares de recursos, restando confirmada, com ressalva de entendimento dos vencidos na apreciação primeira, a óptica prevalecente. Em síntese, veio a ser reconhecida a impossibilidade de emprestar–se às Leis nos 8.213/91 e 9.032/95, no que implicaram majoração de benefícios, interpretação a alcançar situações jurídicas formalizadas e aperfeiçoadas anteriormente. Levaram–se em conta a segurança jurídica e o princípio atuarial regedor do sistema previdenciário. Na oportunidade, os sucumbentes ficaram desobrigados da satisfação dos honorários advocatícios.
+    2. Cumpre observar o que decidido pelo Plenário. Conheço deste agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Ante os precedentes, aciono o disposto nos artigos 544, § 3º e § 4º, e 557, § 1º–A, do Código de Processo Civil e aprecio, desde logo, o extraordinário, conhecendo–o e provendo–o para julgar improcedente o pedido de majoração do benefício.
+    3. Publiquem.
+    Alega a existência de contradição. Aduz que o pronunciamento atacado mediante o extraordinário não versa sobre a majoração do benefício, mas sobre questões processuais relativas à inexigibilidade de título executivo judicial.
+    2. Inicialmente, é de salientar que os embargos declaratórios são cabíveis contra qualquer pronunciamento com carga decisória, pouco importando a natureza do processo, do procedimento, ou a circunstância de se tratar de ato de Colegiado ou individual. Impugnada decisão monocrática, compete ao órgão julgador apreciar os embargos declaratórios.
+    Salta aos olhos o erro material, a revelar a contradição apontada pelo embargante. É que, na decisão, partiu-se de premissa a esta altura preclusa. A controvérsia trazida no extraordinário cujo trânsito se busca, a referir-se a incidente na execução de título judicial, diz respeito à formalização da coisa julgada e não guarda pertinência com o entendimento adotado nos precedentes mencionados no ato ora impugnado.
+    Em jogo está discussão interpretativa concernente aos preceitos dos artigos 475-L e 741, § 1º, do Código de Processo Civil, ante a não aplicação analógica desses dispositivos no procedimento dos juizados especiais. Portanto, tal como dirimida na origem, a questão se coloca no plano estritamente legal.
+    3. Ante o quadro, dou provimento aos declaratórios para, corrigindo erro material, sanar a omissão apontada e, diante do fundamento retificado, emprestar-lhes eficácia modificativa, desprovendo o agravo de instrumento.
+    4. Publiquem.
+Brasília, 4 de setembro de 2013.
+Ministro MARCO AURÉLIO
+Relator
