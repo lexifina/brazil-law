@@ -1,0 +1,24 @@
+DECISÃO
+    Vistos.
+    Município de Niterói interpõe agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Quinta Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Mandado de Segurança. Ao prestar informações a autoridade apontada como coatora afirma que a ação perdera objeto por ter sido implantado o benefício pretendido.
+    Sentença de procedência. Determinação para que o município efetue o pagamento a contar da propositura da ação.
+    Recurso do município a fim de que a sentença seja reformada. O § 40 do art. 14 lei 12.016/2009 fixou o dies a quo dos vencimentos e vantagens pecuniárias assegurados em sentença concessiva de mandado de segura, vale dizer, do ajuizamento da inicial.
+    Interesse de agir do impetrante que permanece integro.
+    Recurso que se conhece, mas se nega provimento, a fim de manter a sentença na forma como foi lançada”.
+    Opostos embargos de declaração, foram rejeitados.
+    Sustenta o agravante, nas razões do recurso extraordinário, violação do artigo 5º, inciso XXXV, da Constituição Federal. Aduz que “a ausência de pedido administrativo não tem o condão de impedir o recorrido de acionar o Judiciário, mas tem sim o condão de autorizar a extinção do processo sem resolução de mérito, eis que ausente a correta e verdadeira demonstração do legítimo interesse, isto é da pretensão resistida”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ademais, o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do Agravo de Instrumento nº 800.074/SP, Pleno, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da matéria relativa aos pressupostos de cabimento de mandado de segurança, dada a natureza infraconstitucional do tema. O referido julgado restou assim ementado:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral” (DJe de 6/12/10).
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 4 de setembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
