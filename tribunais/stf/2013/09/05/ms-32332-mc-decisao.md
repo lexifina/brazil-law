@@ -1,0 +1,31 @@
+DECISÃO:
+    Trata-se de mandado de segurança, com pedido liminar, que tem por objeto o Acórdão 3.707/2013, da 2ª Câmara do Tribunal de Contas da União. O ato impugnado, ao analisar o registro da pensão civil percebida pela impetrante e outros, determinou, entre outras providências, a cessação do “pagamento decorrente dos atos ora impugnados, alusivo ao percentual de 84,32% (Plano Collor), nos proventos de pensão dos beneficiários, sob pena de responsabilidade solidária da autoridade administrativa omissa”.
+    Sustenta a impetrante que o direito à percepção do referido percentual lhe foi garantido por sentença judicial transitada em julgado há 17 (dezessete) anos. Afirma ainda que não lhe foi garantido o exercício do contraditório em sede administrativa. Diz que há tempo para este Tribunal corrigir a situação, pois o comando do Tribunal de Contas da União ainda não teria sido levado a efeito. Requer a concessão da ordem para que seja mantida a parcela excluída pelo ato questionado.
+    É o relatório. Decido o pedido liminar.
+    Defiro o pedido de gratuidade de justiça (art. 62 do RI/STF).
+    Quanto ao argumento de violação ao princípio do contraditório, a jurisprudência atualmente adotada por este Tribunal exige o transcurso de mais de cinco anos entre a chegada do processo no TCU e a decisão da Corte de Contas (neste sentido, e.g., MS 31342, Rel. Min. Dias Toffoli). No caso, não há elementos suficientes para aferir a data de início do processo administrativo, razão pela qual não pode ser acolhida tal alegação.
+    No que diz respeito à alegação de afronta à coisa julgada, constata-se que o acórdão transitado em julgado em favor do instituidor da pensão (servidor da FUNAI), proferido pelo Tribunal Regional Federal da 5ª Região no processo 93.05.37031-4, possui a seguinte ementa:
+    “CONSTITUCIONAL. FUNCIONÁRIO PÚBLICO FEDERAL. REPOSIÇÃO SALARIAL REFERENTE AO PERÍODO DE 16.02.90 A 15.03.90. ÍNDICE DE 84,32%. DIREITO ADQUIRIDO.
+    - Funcionários que efetivamente trabalharam no período de 16.02.90 a 15.03.90, sob a égide da Lei 7830/89, fazem jus ao percentual determinado pelo IPC, que à época era de 84,32%.
+    2- A Medida Provisória 154/90 foi editada em 16.03.90 não podendo retornar ao tempo para alcançar direitos constitucionalmente adquiridos.
+    3- Inteligência do art. 6º, da L.I.C.C.
+    4- Não há se falar em expectativa de direito, quando é manifesto o ato jurídico perfeito.
+    5- Apelação e remessa oficial improvidas.”
+    A jurisprudência pacífica do Supremo Tribunal Federal orienta-se no sentido de que a irredutibilidade de vencimentos garante apenas a manutenção do seu valor nominal total, não impedindo a incorporação de parcelas ou a modificação na composição dos pagamentos, por inexistência de direito adquirido a regime jurídico. Assim se manifestou esta Corte em julgamento de RE sujeito ao regime de repercussão geral:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE. 1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico. 2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, conseqüentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração. 3. Recurso extraordinário ao qual se nega provimento” (RE 563965, Rel. Min. Cármen Lúcia).
+    Assentadas estas premissas, constata-se que o Acórdão 3.707/2013, da 2ª Câmara do TCU, ora impugnado, determinou o seguinte:
+    “1.7. Dispensar a reposição das importâncias indevidamente recebidas de boa fé pela interessada a teor da Súmula TCU nº 106;
+    1.8. Determinar à Fundação Nacional do Índio que:
+    (...)
+    1.8.2. faça cessar, nos termos do art. 262 do Regimento Interno, no prazo de 15 (quinze) dias, contados da ciência da decisão do Tribunal, o pagamento decorrente dos atos ora impugnados, alusivo ao percentual de 84,32% (Plano Collor), nos proventos de pensão dos beneficiários, sob pena de responsabilidade solidária da autoridade administrativa omissa;
+    (...)
+    1.8.4. aplique à VPNI decorrente de vantagem referente ao percentual de 84,32% (Plano Collor) o entendimento consignado no Acórdão 2.161/2005 - Plenário, no prazo de 15 (quinze) dias contado da ciência desta deliberação, segundo o qual as novas estruturas remuneratórias criadas por lei deverão necessariamente absorver a mencionada vantagem;”
+    Ao que parece, o ato questionado apenas determinou a adequação dos proventos da impetrante à sistemática da VPNI, o que, como visto, se harmoniza com o entendimento desta Corte, mesmo quando se trata de vantagem referente a regime pretérito reconhecida por sentença definitiva (MS 31002 MC, Rel. Min. Luiz Fux).
+    No entanto, diante dos termos peremptórios do item 1.8.2 do ato impugnado, e da ressalva apenas quanto aos valores já percebidos de boa fé (item 1.7), considero necessária a concessão parcial da medida liminar, apenas para obstar que as determinações da autoridade impetrada impliquem redução no valor nominal total dos proventos da impetrante.
+    A plausibilidade das alegações da inicial, ainda que parcial, decorre do entendimento pacífico deste Tribunal sobre a questão. Por sua vez, o perigo na demora é evidente, haja vista estar configurado risco de redução ilegítima de verba de caráter alimentar.
+    Diante do exposto, defiro parcialmente a medida liminar, apenas para impedir que o ato impugnado implique redução no valor nominal total dos proventos da impetrante.
+    Notifique-se a autoridade impetrada para que preste as informações, e dê-se ciência ao respectivo órgão de representação judicial para, querendo, ingressar no feito (art. 7º, I e II, da Lei nº 12.016/09).
+    Em seguida, ouça-se a Procuradoria-Geral da República.
+          Brasília, 05 de setembro de 2013.
+Ministro LUÍS ROBERTO BARROSO
+Relator
