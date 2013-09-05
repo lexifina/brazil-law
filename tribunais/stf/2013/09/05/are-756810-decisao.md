@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDÊNCIA COMPLEMENTAR. RESSARCIMENTO DE VALORES RECOLHIDOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, al. ‘a’, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado do Tribunal de Justiça de Goiás:
+    “EMENTA: AGRAVO REGIMENTAL NA APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DOS EXPURGOS INFLACIONÁRIOS. RESERVA DE POUPANÇA DE PREVIDÊNCIA PRIVADA. PRESCRIÇÃO QUINQUENAL. AFASTADA. CORREÇÃO MONETÁRIA CALCULADA PELOS ÓRGÃOS OFICIAIS. DEVIDA. 1 – O STJ já sumulou (Súmula n. 291) que o prazo prescricional para a cobrança dos expurgos inflacionários oriundos da reserva de poupança de previdência privada é de cinco anos, a contar da data de recebimento a menor das parcelas restituídas. 2 – Considerando que o lapso temporal decorrido entre a data em que o contribuinte previdenciário resgatou o valor a menor e a data do ajuizamento da Ação de Cobrança é inferior a cinco anos, afastada está a hipótese de prescrição. 3 – A correção monetária deve ser apurada de acordo com os índices ditados pelos órgãos oficiais, pois estes refletem a real variação monetária ocorrida no período. Agravo Regimental conhecido e desprovido”.
+    2. O Agravante afirma ter o Tribunal de origem contrariado os arts 5º, caput, 195, § 5º e 202, caput, Constituição da República.
+    Sustenta que o julgado recorrido “deu tratamento próprio a questão, ignorando também os dispositivos contratuais havido entre as partes, embasados na Lei e na Constituição, o que redundou numa violação ao ato jurídico perfeito, ao direito adquirido e ao princípio da isonomia”.
+    3. O recurso extraordinário foi inadmitido ao fundamento da incidência da súmula 282 do Supremo Tribunal.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos desse recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Os arts. 5º, caput, 195, § 5º e 202, caput, da Constituição da República, suscitados no recurso extraordinário, não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal:
+    EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE prequestionamento. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostosembargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. Ademais, concluir de forma diversa do Tribunal de origem demandaria a interpretação e aplicação de normas infraconstitucionais (Lei Complementar 109/2001) e do Regulamento da ora Agravante, procedimento que não pode ser adotado validamente nessa via processual. Nesse caso, eventual ofensa constitucional, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PREVIDÊNCIA COMPLEMENTAR. REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. JULGADO RECORRIDO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 704.956 AgR, de minha relatoria, Segunda Turma, DJ 5.12.2012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a , do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de setembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
