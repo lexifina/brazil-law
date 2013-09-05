@@ -1,0 +1,5 @@
+# Lei nº 7.537, de 4 de setembro de 2013, do Estado de Alagoas
+
+ALTERA A LEI ESTADUAL Nº 7.424, DE 22 DE NOVEMBRO DE 2012, QUE AUTORIZA O PODER EXECUTIVO ESTADUAL A CONTRATAR OPERAÇÃO DE CRÉDITO COM O BANCO INTERAMERICANO DE DESENVOLVIMENTO &#8211; BID PARA FINANCIAMENTO DO PROGRAMA DE CONSOLIDAÇÃO DO EQUILÍBRIO FISCAL PARA O DESENVOLVIMENTO ECONÔMICO E SOCIAL DO ESTADO DE ALAGOAS &#8211; PROCONFIS/AL.
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/647>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2013/647/647_texto_integral.pdf>
