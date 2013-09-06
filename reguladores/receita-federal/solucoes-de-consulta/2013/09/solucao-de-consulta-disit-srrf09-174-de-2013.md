@@ -1,0 +1,11 @@
+Solução de Consulta Disit/SRRF09 nº 174, de 28 de agosto de 2013
+Assunto: Outros Tributos ou Contribuições SOCIEDADE SIMPLES. prestação de serviços profissionais relativos ao exercício de profissões legalmente regulamentadas CONTRIBUINTE INDIVIDUAL (SÓCIO). PRO-LABORE.
+Assunto: Outros Tributos ou Contribuições
+SOCIEDADE SIMPLES. prestação de serviços profissionais relativos ao exercício de profissões legalmente regulamentadas CONTRIBUINTE INDIVIDUAL (SÓCIO). PRO-LABORE.
+O sócio de sociedade simples cuja contribuição para a sociedade consista em serviços (= sócio de indústria) é segurado obrigatório do Regime Geral de Previdência Social (RGPS), enquadrado genericamente na categoria de sócio que presta serviço à sociedade, e, portanto, como segurado contribuinte individual, conforme o art. 12, V, “f”, da Lei nº 8.212/91.
+Incide a contribuição previdenciária prevista no art. 21 e no inciso III do art. 22, na forma do §4º do art. 30, todos da Lei nº 8.212/91, e art. 4º da Lei nº 10.666/2003, sobre os rendimentos do trabalho prestado pelo sócio de sociedade simples cuja contribuição consista em serviços.
+Parte dos valores pagos pela sociedade ao sócio de serviço terá necessariamente natureza jurídica de retribuição pelo trabalho, sujeita à incidência do IR e da contribuição previdenciária, o que implica as respectivas retenções na fonte.
+Não incide contribuição previdenciária sobre valores pagos a título de lucro, desde que este seja distribuído na exata proporção do contrato social, ou, no seu silêncio, na proporção estabelecida pela lei.
+Os valores pagos pela sociedade, excedentes do montante previsto no contrato social ou na lei, como devidos ao sócio de serviço, a título de lucro, devem ser considerados retribuição pelo trabalho, sujeitos à incidência de contribuição previdenciária.
+Não há falar em sócio de serviço “associado”. Sócio é quem integra o quadro societário, cuja comprovação se dá por estipulação no contrato social.
+Dispositivos Legais: Código Civil, arts. 981, 983, 997 e seguintes; CTN, arts. 108, § 1º, e 109; Lei nº 8.212/91, art. 12, V, “f”; Lei nº 8.036/90, art. 15, § 4º; IN SRP nº 3/2005, arts. 3º, caput e § 4º, III, 9º, XII, “b” e 71, §§ 5º e 6º; Decreto nº 3.048/99, arts. 12, I, e 201, § 5º, II.
