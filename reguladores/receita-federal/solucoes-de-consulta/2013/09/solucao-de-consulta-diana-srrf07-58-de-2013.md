@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF07 nº 58, de 5 de agosto de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: CÓDIGO NCM: 4011.92.90
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM: 4011.92.90 Pneumático novo, de borracha, com banda de rodagem em forma diferente de “espinha de peixe” ou semelhante, utilizado em veículo agrícola, marca Michelin CARGOXBIB, especificação 500/60 R22 155D.
+DISPOSITIVOS LEGAIS: RGI 1(Texto da posição 40.11), RGI 6 (Texto das subposições 4011.9 e 4011.92) e RGC-1 (Texto do item 4011.92.90), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC) aprovada pela Resolução Camex nº 99, de 29 de dezembro de 2011, e da Tabela de Incidência do Imposto Sobre Produtos Industrializados (TIPI), aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, com subsídio das Notas Explicativas do Sistema Harmonizado (NESH), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992 (versão atual aprovada pela IN RFB no 807, de 11 de janeiro de 2008, atualizada pelas IN RFB no 1.072, de 30 de setembro de 2010 e no 1.260, de 20 de março de 2012).
