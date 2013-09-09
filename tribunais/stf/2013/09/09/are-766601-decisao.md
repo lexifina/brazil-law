@@ -1,0 +1,10 @@
+DECISÃO : Examinando os autos, verifico que, em 31.07.2012, a Turma recursal dos Juizados Especiais do Rio de Janeiro rejeitou os embargos de declaração opostos pelo ora recorrente. Dessa decisão foi interposto recurso extraordinário (fls. 70-72), cujo seguimento foi negado em virtude da ausência da preliminar formal de repercussão geral e pela ocorrência do óbice apontado pela súmula 284 do Supremo Tribunal Federal (fls. 79-81). Em face dessa decisão, foi interposto novo recurso extraordinário (fls. 83) que, tido por incabível pelo Vice-Presidente do Tribunal de origem, teve negado seu seguimento (fls. 86). Somente desta decisão a parte interpôs o presente agravo.
+    Observo que o agravo é intempestivo, porquanto a interposição do incabível recurso extraordinário de fls. 83 não têm o condão de interromper ou suspender o curso do prazo recursal.
+    A jurisprudência desta Corte firmou-se no sentido de que recurso incabível não interrompe nem suspende o prazo para a interposição de outros recursos. Confira-se:
+    EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA JULGADOS INCABÍVEIS PELO SUPERIOR TRIBUNAL DE JUSTIÇA. SUSPENSÃO DO PRAZO RECURSAL NÃO CONFIGURADA. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o ajuizamento de recurso manifestamente incabível não suspende o prazo para a interposição do recurso extraordinário. Precedentes. (AI 749.031-AgR, rel. min. Cármen Lúcia , Primeira Turma, DJe de 29.10.2009)
+    Nesse sentido: AI 689.164-AgR (rel. min. Ricardo Lewandowski , Primeira Turma, DJe de 22.05.2009), RE 601.061-AgR-AgR-ED (rel. min. Eros Grau , Segunda Turma, DJe de 21.05.2010), AI 688.561-AgR (rel. min. Ellen Gracie , Plenário, DJe de 11.04.2008) e AI 606.085-AgR (de minha relatoria , Segunda Turma, DJe de 31.10.2007).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 9 de setembro de 2013.
+Ministro JOAQUIM BARBOSA
+Presidente
