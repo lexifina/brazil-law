@@ -1,0 +1,44 @@
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. AVISO PRÉVIO PROPORCIONAL AO TEMPO DE SERVIÇO. ART. 7º, XXI, DA CONSTITUIÇÃO FEDERAL. CONTRADIÇÃO E OBSCURIDADE INEXISTENTES. POSSIBILIDADE DE A PARTE EMBARGANTE EXERCER A TEMPO E MODO, EM AÇÃO PRÓPRIA, O DIREITO AO AVISO PRÉVIO PROPORCIONAL ANALISADO NOS TERMOS DOS PARÂMETROS PREVISTOS NA LEI 12.506/2011. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.
+1. “A pessoa jurídica de direito privado, sem poderes para elaborar ou aprovar a norma regulamentadora do direito constitucional, não é legitimada passiva no mandado de injunção. Ilegitimidade do empregador do impetrante”: MI 1.008-AgR-Segundo/DF, Rel. Min. Teori Zavascki, DJe de 31/5/2013.
+2. In casu, a decisão embargada entendeu pela exclusão, do polo passivo deste mandado de injunção, da ex-empregadora Vale S/A, nos termos da jurisprudência do Plenário do Supremo Tribunal Federal: MI 1.008-AgR-Segundo/ DF, Rel. Min. Teori Zavascki, DJe de 31/5/2013; MI 1.231 AgR/DF, Rel. Min. Ricardo Lewandowski, DJe 1º/12/2011, inter plures.
+3. O mandado de injunção não tem o condão de impedir que o recorrente possa exercer, a tempo e modo, em ação própria, “o direito ao aviso prévio proporcional analisado nos termos dos parâmetros previstos na Lei 12.506/2011”.
+4. Ausência de contradição e obscuridade. Embargos de declaração desprovidos.
+    Decisão: Trata-se de embargos de declaração opostos à decisão monocrática (eDoc. 26), mediante a qual reconsiderei, em parte, decisum anterior (eDoc. 22), para conceder o mandado de injunção, possibilitando ao impetrante ter o direito ao aviso prévio proporcional analisado nos termos dos parâmetros previstos na Lei 12.506/2011.
+    A decisão embargada está assim ementada:
+    “CONSTITUCIONAL E TRABALHO. AVISO PRÉVIO PROPORCIONAL AO TEMPO DE SERVIÇO. ART. 7º, XXI, DA CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. ILEGITIMIDADE AD CAUSAM DA EX-EMPREGADORA VALE S/A. APLICAÇÃO JUDICIAL DOS PARÂMETROS DA LEI Nº 12.506/2011 AOS MANDADOS DE INJUNÇÃO IMPETRADOS NESTA CORTE ANTERIORMENTE À SUA EDIÇÃO.
+    1. O Plenário do Supremo Tribunal Federal, em 16/5/2013, mantendo seu iterativo posicionamento especificamente para a preliminar de ilegitimidade ad causam, decidiu que a ‘pessoa jurídica de direito privado, sem poderes para elaborar ou aprovar a norma regulamentadora do direito constitucional, não é legitimada passiva no mandado de injunção. Ilegitimidade do empregador do impetrante’: MI 1.008-AgRSegundo/ DF, Rel. Min. Teori Zavascki, Dje de 31/5/2013.
+    2. Na sessão plenária de 6/2/2013, o Supremo Tribunal Federal, dando continuidade ao julgamento dos Mandados de Injunção 943/DF, 1.010/DF, 1.074/DF e 1.090/DF, Rel. Min. Gilmar Mendes, DJe de 2/5/2013, decidiu que, embora não mais subsista a lacuna legislativa na regulamentação objeto do art. 7º, XXI, da Constituição Federal, persiste o prejuízo ao direito constitucionalmente consagrado aos trabalhadores que tiveram o contrato de trabalho rescindido antes da implementação da norma, no caso, a Lei nº 12.506/2011, tendo em vista a sua irretroatividade. Asseverou-se, também, a aplicação judicial dos parâmetros da Lei nº 12.506/2011 aos mandados de injunção impetrados nesta Corte antes da edição da citada lei, bem como a autorização aos Ministros deste Supremo Tribunal que apliquem monocraticamente esse entendimento aos casos pendentes de julgamento.
+    3. Reconsideração, em parte, da decisão agravada para conceder a ordem, possibilitando ao impetrante ter o direito ao aviso prévio proporcional analisado nos termos dos parâmetros previstos na Lei nº 12.506/2011. ”
+    A parte embargante sustenta, em síntese, a ocorrência de contradição e obscuridade, uma vez que o deferimento do aviso prévio proporcional em apreço, nos parâmetros previstos na Lei 12.506/2011, deverá ser suportado pela Vale S/A, todavia, referida empresa fora excluída do polo passivo.
+     Pede, ao final, que sejam sanadas a contradição e obscuridade apontadas, bem como declarado “que a exclusão da VALE S/A do polo passivo não prejudica o exercício, na ação própria, do ‘direito ao aviso prévio proporcional analisado nos termos dos parâmetros previstos na Lei 12.506/2011’, deferido ao Embargante pela r. Decisão Embargada”.
+    É o relatório. Decido.
+    Os presentes embargos preenchem os requisitos de admissibilidade, tendo sido opostos dentro do quinquídio legal e assinados por advogado regularmente credenciado nos autos.
+    Conheço, pois, dos presentes embargos de declaração. Passo ao mérito.
+    A pretensão da parte embargante não prospera, porquanto não existem as alegadas contradição e obscuridade.
+    Para tanto, destaco da decisão ora impugnada, in verbis:
+    “Preliminarmente, aprecio a questão da ilegitimidade ad causam da ex-empregadora Vale S/A.
+    Para tanto, assevero que o Plenário do Supremo Tribunal Federal, mantendo seu iterativo posicionamento especificamente para a preliminar em questão, em 16/5/2013, ao julgar o MI 1.008-AgRSegundo/DF, Rel. Min. Teori Zavascki, DJe de 31/5/2013, decidiu, verbis:
+    ‘3. Ainda segundo a jurisprudência do STF, as pessoas jurídicas de direito privado não têm legitimidade passiva no mandado de njunção, por não deter o poder de elaborar ou de aprovar a lei regulamentadora da norma constitucional:
+    AGRAVO REGIMENTAL. MANDADO DE INJUNÇÃO.
+    APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO.
+    ARTIGO 40, § 4º, III, DA CONSTITUIÇÃO DA REPÚBLICA.
+    APLICAÇÃO DO ART. 57 DA LEI 8.213/1991. PRECEDENTES.
+    LEGITIMIDADE PASSIVA. AGRAVO IMPROVIDO.
+    I - A orientação do Supremo Tribunal Federal firmou-se no sentido de que apenas a autoridade, órgão ou entidade que tenha o dever de regulamentar a norma constitucional dispõe de legitimidade passiva ad causam no mandado de injunção. Precedentes. (...) (MI 1231 AgR/DF, Pleno, rel. Min. Ricardo Lewandowski, j. 16/11/2011, DJe 01/12/2011).
+    Mandado de Injunção. Aviso prévio proporcional.
+    Constituição, art. 7º, inciso XXI. Mandado de injunção ajuizado por empregado despedido, exclusivamente, contra a exempregadora. Natureza do mandado de injunção. Firmou-se, no STF, o entendimento segundo o qual o mandado de injunção há de dirigir-se contra o Poder, órgão, entidade ou autoridade que tem o dever de regulamentar a norma constitucional, não se legitimando "ad causam", passivamente, em princípio, quem não estiver obrigado a editar a regulamentação respectiva. Não é viável dar curso a mandado de injunção, por ilegitimidade passiva ‘ad causam’, da ex-empregadora do requerente, única que se indica como demandada, na inicial. Mandado de injunção não conhecido (MI 352 QO/RS, Pleno, rel. Min. Néri da Silveira, j. 04/09/1991, DJ 12/12/1997, p. 65569).
+    No mesmo sentido: MI 1525 AgR/DF, Pleno, rel. Min. Cármen Lúcia, j. 24/03/2011, DJe 12/04/2011; MI 1463 AgR/DF, Pleno, rel. Min. Cármen Lúcia, j. 02/03/2011, DJe 13/05/2011.
+    Logo, estando tal pretensão recursal em consonância com a jurisprudência desta Corte, a Vale S/A, empregadora do impetrante, deve ser afastada do polo passivo da demanda.
+    O acórdão do referido MI 1.008-AgR-Segundo/DF porta a seguinte ementa:
+    ‘EMENTA: MANDADO DE INJUNÇÃO. CONSTITUCIONAL. AVISO-PRÉVIO PROPORCIONAL AO TEMPO DE SERVIÇO. ART. 7º, XXI, DA CONSTITUIÇÃO FEDERAL, INTERESSE PROCESSUAL. AUSÊNCIA DE LITISCONSÓRCIO PASSIVO COM PESSOA JURÍDICA DE DIREITO PRIVADO. AGRAVO PARCIALMENTE PROVIDO.
+    1. O direito ao aviso-prévio proporcional é assegurado a todos aqueles que impetraram mandado de injunção em data anterior à entrada em vigor da Lei 12.506/2011, em 13/10/2011, de acordo com os critérios legais. Jurisprudência do Plenário: Mandados de Injunção 943, 1010, 1074 e 1090.
+    2. O pagamento do aviso prévio em valor inferior ao que seria devido com a regulamentação do art. 7o, XXI, da Constituição, caracteriza a pretensão resistida.
+    3. Pessoa jurídica de direito privado, sem poderes para elaborar ou aprovar a norma regulamentadora do direito constitucional, não é legitimada passiva no mandado de injunção. Ilegitimidade do empregador do impetrante.
+    4. Agravo regimental parcialmente provido, para excluir a agravante do polo passivo.”
+    Depreende-se, portanto, que a decisão embargada, em face da via estreita e específica do mandado de injunção, não tem o condão de impedir que o recorrente possa exercer, a tempo e modo, em ação própria, “o direito ao aviso prévio proporcional analisado nos termos dos parâmetros previstos na Lei 12.506/2011”. No mesmo sentido, aliás, foram as decisões proferidas no MI 1.008-AgR-Segundo-ED/DF, mantida no MI 1.008-AgR-Segundo-ED-ED/DF, Rel. Min. Teori Zavascki, DJe de 14/6/2013 e 26/8/2013, respectivamente.
+    Com tais considerações, desprovejo os presentes embargos de declaração.
+    Publique-se.
+    Brasília, 9 de setembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
