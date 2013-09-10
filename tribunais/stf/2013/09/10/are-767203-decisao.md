@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª região, assim ementado:
+    “PREVIDENCIÁRIO. AGRAVO PREVISTO NO ART. 557, § 1º, DO CPC. REVISÃO DE BENEFÍCIO. PROCESSUAL CIVIL. NULIDADE. AUSÊNCIA. EMENDAS CONSTITUCIONAIS 20/98 E 41/2003. ARTIGOS 20, § 1º, E 28, § 5º, DA LEI Nº 8.212/91 - PROPORCIONALIDADE NOS REAJUSTES DOS BENEFÍCIOS EM MANUTENÇÃO.
+    1 - A r. decisão agravada asseverou que a edição das Portarias nºs 4.883/98 e 12/2004 teve por objetivo regularizar as disposições insertas nas Emendas Constitucionais nºs 20/98 e 41/2003, relativamente aos tetos dos salários-de-contribuição, com o fito de garantir a concessão dos futuros benefícios com base nos novos limites, não se dirigindo aos reajustes daqueles já em manutenção.
+    2 - Não há que se falar em nulidade da decisão agravada, haja vista que não houve discussão acerca da aplicabilidade dos índices de 10,96%, 0,91% e 27,23%, de dezembro/98, dezembro/2003 e dezembro/2004, respectivamente, relativos à alteração das faixas de salário-de-contribuição para fins de arrecadação como conseqüência do disposto nas emendas constitucionais e portarias acima mencionadas, embora seja matéria correlata à ora discutida.
+    3 - Agravo previsto no artigo 557, § 1º, do CPC, interposto pela parte autora improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 3º, I; 195, caput e §§ 4º e 5º; 201, § 4º, bem como à EC nº 20/1998. A decisão agravada negou seguimento ao recurso, sob o fundamento de que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal.
+    O recurso não pode ser provido, tendo em vista que as alegações de afronta aos dispositivos constitucionais não foram apreciadas pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão quanto a esses temas. O recurso extraordinário carece, portanto, de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto à alegada violação à EC nº 20/1998, tal como constatou a decisão agravada, a decisão recorrida está alinhada com o entendimento desta Corte no sentido de que somente é “possível a aplicação imediata do art. 14 da Emenda Constitucional n. 20/98 e do art. 5º da Emenda Constitucional n. 41/2003 àqueles que percebem seus benefícios com base em limitador anterior, levando-se em conta os salários de contribuição previdenciária que foram utilizados para os cálculos iniciais“. Nessa linha, veja-se o RE 564.354-RG, Rel. Min. Carmem Lúcia.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
