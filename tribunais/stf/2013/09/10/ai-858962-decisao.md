@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 5º, inciso XXXVI, da Constituição Federal e ao artigo 53, caput, inciso III e parágrafo único, do Ato das Disposições Constitucionais Transitórias da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    Colho do acórdão recorrido a seguinte fundamentação:
+    “Ocorre que as referidas leis já estavam revogadas por ocasião do óbito do instituidor, vigendo a Lei nº 7.424/85, que não contemplou a pretensão da requerente (…)
+    Dessa forma, não tem direito a agravante ao benefício pleiteado, conforme amplamente explanado na Apelação Cível nº 2007.33.00.013917/4/BA, titularizada pela demandante.” (fl. 258)
+    Vê-se, portanto, que o acórdão recorrido está em sintonia com a jurisprudência desta Corte, que assentou que a pensão de ex-combatente rege-se pelas normas vigentes à época do óbito do instituidor do benefício. Nesse sentido:
+    “PENSÃO DE EX-COMBATENTE. SEGUNDO-SARGENTO. REGÊNCIA PELA LEGISLAÇÃO EM VIGOR NA DATA DO ÓBITO DO INSTITUIDOR. DEPENDENTES. MATÉRIA INFRACONSTITUCIONAL. 1. A pensão deixada por ex-combatente é regida pelas normas vigentes na data do óbito de seu instituidor. 2. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (AI nº 537.651/RJ-AgR, Primeira Turma, Relator o Ministro Eros Grau , DJ de 11/11/05).
+    “AGRAVO DE INSTRUMENTO - EX-COMBATENTE - PENSÃO - REVERSÃO DO BENEFÍCIO À FILHA - NECESSÁRIA OBSERVÂNCIA DA LEI VIGENTE À ÉPOCA DO ÓBITO DO EX-COMBATENTE - RECURSO DE AGRAVO IMPROVIDO” (AI nº 438.772/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello , DJ de 30/11/07).
+    Aplicando essa orientação, destaca-se a seguinte decisão monocrática:
+    “Trata-se de recurso extraordinário contra acórdão que possui a seguinte ementa:
+    “PENSÃO DE MILITAR EX-COMBATENTE. INSTITUÍDA PELA LEI Nº 6.592/78, POSTERIORMENTE ALTERADA PELA LEI Nº 7.424/85. PERCEPÇÃO PELA VIÚVA. FALECIMENTO DA PENSIONISTA. PEDIDO DE TRANSFERÊNCIA DO BENEFÍCIO PARA AS FILHAS MAIORES. IMPOSSIBILIDADE.
+    1. A concessão de pensão de ex-combatente de que trata a Lei nº 6.592/78, com a alteração posterior pela Lei nº 7.424/85, somente se transfere, por morte da mãe, então pensionista, às filhas, quando estas ostentam a condição de menores ou interditas ou inválidas.
+    2. Apelação improvida.
+    3. Precedente: TRF5, AC 241840 PB, Rel. Desembargador Federal Nereu Santos, DJU 27.03.2003, p. 383” (fl. 75).
+    Neste RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, em suma, ofensa ao art. 5º, XXXVI, da mesma Carta, bem como ao art. 53, II e III, do ADCT.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada ofensa ao art. 5º, XXXVI, da Constituição, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+    Além disso, o acórdão recorrido está em consonância com a jurisprudência desta Corte, que possui o entendimento no sentido de que o direito à pensão deve ser regido pela lei em vigor na data do óbito do ex-combatente, conforme se observa do julgamento do MS 21.707/DF, Relator para o acórdão Min. Marco Aurélio, cuja ementa transcrevo a seguir:
+    “PENSÃO - EX-COMBATENTE - REGÊNCIA. O direito a pensão de ex-combatente é regido pelas normas legais em vigor à data do evento morte. Tratando-se de reversão do benefício a filha mulher, em razão do falecimento da própria mãe que a vinha recebendo, consideram-se não os preceitos em vigor quando do óbito desta última, mas do primeiro, ou seja, do ex-combatente”.
+    Por oportuno, destaco, ainda, do mesmo julgamento, trecho do voto do Min. Néri da Silveira:
+    “Parece-me que, efetivamente, a norma do art. 53, inciso III, do ADCT, dispõe sobre uma situação nova, uma pensão nova. O regime jurídico da Lei nº 3.765 está revogado, não tendo sido recebido em o novo ordenamento. Não sendo recebida essa Lei e ocorrendo o óbito da viúva na vigência da Constituição, pergunta-se se a descendente do ex-combatente, titular de uma cota-parte integrada à pensão da viúva, perdeu, em conseqüência, o direito a auferir tal cota-parte. Penso que a situação realmente é diferente, sendo o título de direito da descendente emanado da Lei. No caso concreto, o que se há de entender é que a revogação da Lei nº 3.765 pelo inciso III do art. 53 do ADCT, ao dispor sobre um regime novo, não prejudica o título de direito já constituído na vigência da lei anterior. Para todo ex-combatente que morrer no sistema da nova Constituição, o regime de pensão será o do art. 53 do ADCT, mas as pensões constituídas anteriormente subsistem, só que nos limites da legislação. A descendente não terá direito, agora, à pensão correspondente a Segundo Tenente, mas sim à pensão prevista na Lei nº 4.242/63, que era a correspondente a Segundo Sargento”.
+    No mesmo sentido, menciono, ainda, as seguintes decisões: RE 569.440-AgR/SC e AI 557.684-AgR/RJ, Rel. Min. Gilmar Mendes; AI 438.772-AgR/RJ, Rel. Min. Celso de Mello; AI 554.287-AgR/RJ, Rel. Min. Cezar Peluso; RE 458.804-AgR/RJ, Rel. Min. Carlos Velloso; AI 537.651-AgR/RJ, Rel. Min. Eros Grau.
+    Por fim, o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição Federal. Nesse sentido, cito, entre outras, as seguintes decisões: AI 599.602-AgR, Rel. Min. Eros Grau; AI 436.004-ED/RS, Rel. Min. Sepúlveda Pertence; AI 481.886-AgR/SP, Rel. Min. Carlos Velloso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput)” (RE nº 574.969/PE, Relator o Ministro Ricardo Lewandowski, DJe de 5/4/11).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 10 de setembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
