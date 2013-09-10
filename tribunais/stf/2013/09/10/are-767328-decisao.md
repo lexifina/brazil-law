@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXECUÇÃO FISCAL. CONSTITUCIONALIDADE DA TAXA DE COLETA DE RESÍDUOS SÓLIDOS URBANOS. PRECEDENTES. SÚMULA VINCULANTE N. 19. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INCS. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “TRIBUTÁRIO - EMBARGOS À EXECUÇÃO FISCAL - MUNICÍPIO DE BELO HORIZONTE - LANÇAMENTO - NOTIFICAÇÃO - PRESUNÇÃO DE REGULARIDADE- TAXA DE COLETA DE RESÍDUOS SÓLIDOS URBANOS- LEI MUNICIPAL DE BELO HORIZONTE N. 8.147, DE 2000 - CONSTITUCIONALIDADE - ART. 145, INC. II, E § 2º, DA CONSTITUIÇÃO FEDERAL - ARTS. 77 E 79 DO CÓDIGO TRIBUTÁRIO NACIONAL - ESPECIFICIDADE- DIVISIBILIDADE - BASE DE CÁLCULO - REQUISITOS PRESENTES. 1. A presunção em embargos à execução fiscal é a de que a Administração Tributária esteja dando regular cumprimento aos ditames legais, regularmente notificando o contribuinte dos lançamentos mediante publicação de edital e envio das guias ao seu endereço, cabendo ao embargante elidir a presunção de liquidez e certeza de que se revestem as certidões de dívida ativa. 2. É constitucional a Taxa de Coleta de Resíduos Sólidos Urbanos instituída pela Lei n. 8.147 de 2000 do Município de Belo Horizonte, presentes os requisitos de especificidade e divisibilidade, não havendo ofensa ao 2° do art. 145 da CR/88. 3. Recurso não provido”.
+    2. O Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, inc. LIV e LV, e 145, inc. II, da Constituição da República.
+    Argumenta que
+    “o caso dos autos, convém sublinhar, deve ser distinguido de outras hipóteses (nas quais o STF tem afirmado a legitimidade do tributo) em que não há previsão, como fato gerador, do transporte e tratamento do lixo resultante da varrição de ruas. No caso de Belo Horizonte, o fato gerador não é apenas a coleta de resíduos sólidos nos imóveis residenciais, mas a coleta e tratamento de quaisquer resíduos sólidos, inclusive o resultante de varrições, repetindo-se, pois, velhos vícios que levaram o STF a afirmar a inconstitucionalidade de taxa de limpeza pública.
+    Logo não se tratando de serviço público específico e divisível, não estão presentes os pressupostos aptos a ensejarem a instituição da taxa em discussão, violando o acórdão, literal e expressamente, o art.145, II, da Constituição Federal de 1988”.
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem ao fundamento de inexistir ofensa constitucional direta e de harmonia do acórdão recorrido com a jurisprudência do Supremo Tribunal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, aplicável ao processo penal nos termos da Resolução n. 451/2010 do Supremo Tribunal Federal, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Não assiste razão jurídica ao Agravante.
+    6. O Supremo Tribunal Federal, reafirmando sua jurisprudência, editou a Súmula vinculante n. 19:
+    “A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal” (DJ 29.10.2009).
+    Afirmou-se a constitucionalidade da taxa de coleta de resíduos sólidos urbanos instituída pela Lei municipal n. 8.147/2000:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TAXA DE COLETA DE RESÍDUOS SÓLIDOS URBANOS. 1. É legítima a taxa de coleta de resíduos sólidos urbanos. Tributo cobrado pelo exercício de serviço divisível e específico. Precedentes. 2. Agravo regimental a que se nega provimento” (RE 411.251-AgR/MG, Rel. Min. Eros Grau, Segunda Turma, DJ 28.9.2007).
+    Nesse sentido: RE 457.355/MG, Rel. Min. Ayres Britto, decisão monocrática, DJ 3.10.2011, AI 675.401/MG, Rel. Min. Dias Toffoli, decisão monocrática, DJ 13.6.2011 e ARE 715.583/MG, de minha relatoria, decisão monocrática, DJe 25.10.2012.
+    7. Ademais, no julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, o Supremo Tribunal Federal assentou a inexistência de repercussão geral nos casos em que se tem alegação de contrariedade aos princípios do contraditório, da ampla defesa e do devido processo legal, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de setembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
