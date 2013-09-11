@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário contra acórdão do Tribunal de Justiça do Estado São Paulo que, em sede de apelação, negou provimento ao recurso e manteve a condenação do recorrente pela prática do crime previsto no art. 89 da Lei 8.666/93. Os embargos de declaração foram rejeitados (e-STJ, fls. 1658/1662).
+    No recurso extraordinário, a parte recorrente alega, em suma, violação ao art. 5º, XXXIX, LIV LV, eis que ofende o princípio do devido processo legal a condenação do recorrente, na modalidade culposa, pela prática do crime descrito no art. 89 da Lei 8.666/93. Alega, ademais, que o acórdão impugnado baseou-se em interceptação telefônica nula (e-STJ, fls. 1737/1749).
+    2. Quanto à alegação de ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta Corte na análise do ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660), por se tratar de questão infraconstitucional. Registre-se que a decisão de inexistência de repercussão geral tem eficácia em relação a todos os recursos sobre matéria idêntica (art. 543-A, § 5º, do CPC c/c art. 327, § 1º, do RISTF).
+    Ademais, o acolhimento do recurso depende da incursão nas provas dos autos, diante da afirmação do acórdão recorrido de que as circunstâncias em que se deram os fatos rechaçam “qualquer alegação de ausência de dolo” por parte do réu (e-STJ, fls. 1638), o que esbarra no óbice da Súmula 279 desta Corte.
+    3. Adite-se, por outro lado, que não houve emissão, pelo acórdão recorrido, de juízo acerca da suposta ilegalidade da interceptação telefônica, tampouco a questão foi suscitada no momento oportuno, em sede dos embargos de declaração, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido, incidindo o óbice das súmulas 282 e 356 do STF.
+     Aliás, também não poderia ser conhecido o recurso extraordinário neste ponto, uma vez que não há, na fundamentação do recurso, a indicação adequada da questão constitucional controvertida, tendo deixado a recorrente de informar de que modo a Constituição foi violada, incidindo, na espécie, o óbice da súmula 284 do STF.
+    4. Ante o exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 11 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
