@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. PRESCRIÇÃO. LEI N. 4.156/1962. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUINTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte do Tribunal Regional Federal da 1ª Região:
+    “TRIBUTÁRIO. PROCESSUAL CIVIL. EMPRÉSTIMO COMPULSÓRIO. CONSUMO DE ENERGIA ELÉTRICA. TÍTULO AO PORTADOR. PRAZO DECADENCIAL. CINCO ANOS. INÍCIO. VENCIMENTO DAS OBRIGAÇÕES. COMPENSAÇÃO. IMPOSSIBILIDADE.
+    1. A verificação da legalidade da compensação pretendida passa pela análise da liquidez, certeza e exigibilidade do suposto crédito que possui o contribuinte em relação à Fazenda Pública.
+    2. O art. 4º, § 11, da Lei 4.156/1962 (acrescido pelo Decreto-Lei 644/1969) determina o prazo potestativo (decadencial) de cinco anos para o resgate das obrigações ao portador emitidas pela Eletrobras, contados da data do vencimento das obrigações. Precedente do STJ (Recurso repetitivo no REsp 1.050.199/RJ).
+    3. As obrigações ao portador emitidas pela Eletrobras em razão do empréstimo compulsório não configuram debêntures ou qualquer outro título de crédito oriundo de relação comercial, mas decorrem de relação entre o poder público e o particular. Atingido o crédito do particular pela decadência, inviável a compensação com débitos tributários.
+    4. Apelação da impetrante a que se nega provimento” (grifos nossos).
+    Os embargos de declaração opostos pela Agravante foram rejeitados.
+    2. A Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, inc. XXXVI, 150, inc. IV, 146, inc. III, alínea b, e 173, §§ 1º e 2º, da Constituição da República.
+    Assevera que “se uma empresa qualquer do setor privado é responsável pelo resgate de suas debêntures pelo prazo de 20 ou 10 anos de acordo com a legislação civil (art. 2.028 - CCB), não há como admitir um prazo menor exclusivamente à Eletrobrás. Inclusive outras empresas do setor elétrico vêm sendo condenadas pelo c. Superior Tribunal de Justiça a responsabilizarem-se pelos seus atos dentro do prazo prescricional vintenário e não qüinqüenal”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a ofensa constitucional, se existente, seria indireta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Lei n. 4.156/1962). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário:
+    “Empréstimo compulsório sobre energia elétrica. Eletrobras. Prazo prescricional. Ofensa constitucional indireta. Afastada a infringência ao art. 93, inciso IX, da Constituição. Precedentes. 1. Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido (AI nº 653.010/DF-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 29/8/08; e RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06). 2. A matéria relativa ao prazo de prescrição dos créditos referentes ao empréstimo compulsório sobre a energia elétrica é de índole infraconstitucional. Eventuais ofensas à Constituição seriam indiretas ou reflexas, pois ensejariam o reexame de normas infraconstitucionais. 3. Os fundamentos do agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 4. Agravo regimental não provido” (AI 848.362-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 1º.8.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA – LEI N. 4.156/1962. DEVOLUÇÃO. PRAZO PRESCRICIONAL. NECESSÁRIO EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 701.799-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2012).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Tributário. Empréstimo compulsório sobre energia elétrica. Prazo prescricional. Matéria infraconstitucional. Precedentes. 3. Direito administrativo. Alegação de violação aos princípios do contraditório, da ampla defesa e do devido processo legal. Controvérsia que depende do exame prévio de normas infraconstitucionais. Ofensa reflexa à Constituição Federal. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE 645.279-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 18.12.2012).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de setembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
