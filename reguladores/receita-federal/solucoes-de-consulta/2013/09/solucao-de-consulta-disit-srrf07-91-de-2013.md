@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF07 nº 91, de 27 de agosto de 2013
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: LUCRO PRESUMIDO. ATIVIDADE MÉDICA. RECEITA DA ATIVIDADE. PERCENTUAL. A pessoa jurídica devotada às atividades médicas que não sejam as de prestação de serviços hospitalares ou de auxílio a diagnóstico e terapia, patologia clínica, imagenologia, anatomia patológica e citopatologia, medicina nuclear e análises e patologias clínicas deve determinar o lucro presumido delas decorrentes mediante a aplicação do percentual de 32% (trinta e dois por cento) sobre as respectivas receitas.
+DISPOSITIVOS LEGAIS: Lei nº 9.249, de 1995, art. 15, caput e § 1º, inciso III, alínea “a”; Instrução Normativa RFB nº 1.234, de 2012.
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: LUCRO PRESUMIDO. ATIVIDADE MÉDICA. RECEITA DA ATIVIDADE. PERCENTUAL. A pessoa jurídica devotada às atividades médicas que não sejam as de prestação de serviços hospitalares ou de auxílio a diagnóstico e terapia, patologia clínica, imagenologia, anatomia patológica e citopatologia, medicina nuclear e análises e patologias clínicas deve determinar o lucro presumido delas decorrentes mediante a aplicação do percentual de 32% (trinta e dois por cento) sobre as respectivas receitas.
+DISPOSITIVOS LEGAIS: Lei nº 9.249, de 1995, art. 15, caput e § 1º, inciso III, alínea “a”; Instrução Normativa RFB nº 1.234, de 2012.
