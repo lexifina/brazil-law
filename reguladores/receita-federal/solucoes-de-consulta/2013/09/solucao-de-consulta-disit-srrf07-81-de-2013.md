@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF07 nº 81, de 7 de agosto de 2013
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. PRODUTOS DE PROCEDÊNCIA ESTRANGEIRA. COMERCIALIZADOS PELO IMPORTADOR.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. PRODUTOS DE PROCEDÊNCIA ESTRANGEIRA. COMERCIALIZADOS PELO IMPORTADOR. O estabelecimento que comercializa produtos de procedência estrangeira, por ele importados, classificados na Tipi, aprovada pelo Decreto nº 7.660, de 2011, nos códigos referidos no Anexo I da Lei nº 12.546, de 2011, está sujeito ao recolhimento das contribuições previdenciárias nos moldes previstos pelo art. 22 da Lei nº 8.212, de 1991.
+DISPOSITIVOS LEGAIS: art. 22, I e III, da Lei nº 8.212, de 24 de julho de1991; art. 8º, §§ 1º, I, e II, da Lei nº 12.546, de 2011; art. 55 da Lei nº 12.715, de 2012; art. 13 da Lei nº 12.844, de 2013; e arts. 4º e 8º do Decreto nº 7.212, de 2010 (RIPI/2010).
