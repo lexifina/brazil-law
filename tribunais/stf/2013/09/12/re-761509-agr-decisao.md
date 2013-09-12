@@ -1,0 +1,24 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, ficando prejudicado, em consequência, o exame do recurso de agravo contra ela interposto.
+    Passo, desse modo, a apreciar o presente apelo extremo.
+    Trata-se de recurso extraordinário interposto contra acórdão que, confirmado pelo E. Tribunal de Justiça do Distrito Federal e dos Territórios, em sede de embargos de declaração, está assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. POSSE EM CARGO DIVERSO DO CONCORRIDO. INCONSTITUCIONALIDADE.
+    I - Revela-se inválido o aproveitamento, ou a transposição, de candidato aprovado para cargo diverso daquele para o qual foi aprovado em concurso público. Inteligência do art. 37, II, da CF/88 e da Súmula nº 685 do STF, além do que essa pretensão apoia-se em lei declarada inconstitucional.
+    II - Deu-se provimento ao recurso.”
+    O Distrito Federal, parte ora recorrente, ao deduzir este apelo extremo, sustenta que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 5º, inciso XXXVI, e no art. 37, inciso IV, ambos da Constituição da República.
+    A pretensão recursal deduzida na presente causa apoia-se, em síntese, nos seguintes fundamentos:
+    “(...) a posse do recorrido tinha respaldo legal no art. 6º do Decreto 21.688/2000 e por isso era considerada legal até a declaração de inconstitucionalidade com efeitos ‘EX NUNC’ do referido artigo do Decreto na ADI TJDFT 2007.002.006740-7 em 15/05/2009.”
+    Sendo esse o contexto, passo a apreciar o presente recurso extraordinário. E, ao fazê-lo, reconheço que o exame desta causa evidencia achar-se o acórdão ora impugnado em divergência com a diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Com efeito, a controvérsia jurídica objeto deste processo já foi dirimida pelo Plenário do Supremo Tribunal Federal, que, ao julgar a ADI 3.601-ED/DF, Rel. Min. DIAS TOFFOLI (RTJ 217/230), fixou entendimento consubstanciado em decisão cuja ementa possui o seguinte teor:
+    “EMBARGOS DE DECLARAÇÃO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI DISTRITAL Nº 3.642/05, QUE ‘DISPÕE SOBRE A COMISSÃO PERMANENTE DE DISCIPLINA DA POLÍCIA CIVIL DO DISTRITO FEDERAL’. AUSÊNCIA DE PEDIDO ANTERIOR. NECESSIDADE DE MODULAÇÃO DOS EFEITOS.
+    1. O art. 27 da Lei nº 9.868/99 tem fundamento na própria Carta Magna e em princípios constitucionais, de modo que sua efetiva aplicação, quando presentes os seus requisitos, garante a supremacia da Lei Maior. Presentes as condições necessárias à modulação dos efeitos da decisão que proclama a inconstitucionalidade de determinado ato normativo, esta Suprema Corte tem o dever constitucional de, independentemente de pedido das partes, aplicar o art. 27 da Lei nº 9.868/99.
+    2. Continua a dominar no Brasil a doutrina do princípio da nulidade da lei inconstitucional. Caso o Tribunal não faça nenhuma ressalva na decisão, reputa-se aplicado o efeito retroativo. Entretanto, podem as partes trazer o tema em sede de embargos de declaração.
+    3. Necessidade de preservação dos atos praticados pela Comissão Permanente de Disciplina da Polícia Civil do Distrito Federal durante os quatro anos de aplicação da lei declarada inconstitucional.
+    4. Aplicabilidade, ao caso, da excepcional restrição dos efeitos prevista no art. 27 da Lei 9.868/99. Presentes não só razões de segurança jurídica, mas também de excepcional interesse social (preservação da ordem pública e da incolumidade das pessoas e do patrimônio – primado da segurança pública), capazes de prevalecer sobre o postulado da nulidade da lei inconstitucional.
+    5. Embargos declaratórios conhecidos e providos para esclarecer que a decisão de declaração de inconstitucionalidade da Lei distrital nº 3.642/05 tem eficácia a partir da data da publicação do acórdão embargado.”
+    Impende assinalar, por oportuno, em face de sua extrema pertinência e ante a inquestionável procedência de suas observações, a seguinte passagem da decisão proferida pelo eminente Ministro GILMAR MENDES no AI 830.401/DF:
+    “Como sabido, a declaração de inconstitucionalidade de ato normativo opera, via de regra, efeitos ‘ex tunc’. Contudo, ao contrário do afirmado pelo recorrente, tendo em vista razões de segurança jurídica ou de excepcional interesse social, é permitido ao órgão julgador a modulação dos efeitos da decisão (art. 27 da Lei 9.868/99), sendo esta a hipótese adotada no caso dos autos.”
+    Sendo assim, pelas razões expostas, e considerando, ainda, precedentes específicos sobre a matéria em análise (RE 718.452/DF, Rel. Min. CELSO DE MELLO – RE 738.374/DF, Rel. Min. GILMAR MENDES), conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º-A).
+    Publique-se.
+    Brasília, 12 de setembro de 2013.
+Ministro CELSO DE MELLO
+Relator
