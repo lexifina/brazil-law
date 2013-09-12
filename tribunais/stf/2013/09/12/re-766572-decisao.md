@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Presidente da Câmara Municipal de Americana. Aparelhado o recurso na violação dos arts. 29, caput, e 30, I e II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de ser inconstitucional a lei resultante de iniciativa parlamentar que disponha sobre atribuições de órgãos da Administração Pública, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: Nesse sentido: RE 508.827/SP, Rel. Min. Cármen Lúcia, DJe 13.02.2012; RE 626.946/SP, Rel. Min. Marco Aurélio, DJe 06.02.2012; RE 503.846/SP, Rel. Min. Ayres Britto, DJe 1º.02.2012; RE 505.476/SP, rel. Min. Dias Toffoli, DJe 12.9.2011; ADI 2.800/RS, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJe 15.5.2011; e ADI 2.329/AL, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 25.6.2010, os dois últimos assim ementados:
+    “EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. SISTEMA DE CARGA E DESCARGA FECHADO PARA COMBUSTÍVEIS AUTOMOTIVOS. INCONSTITUCIONALIDADE DO ART. 4º DA LEI GAÚCHA N. 11.591/2001. NORMA QUE ESTABELECEU NOVA ATRIBUIÇÃO A ÓRGÃO DO PODER EXECUTIVO ESTADUAL E DEFINIU PRAZO PARA O CUMPRIMENTO DA DETERMINAÇÃO LEGAL. AFRONTA AOS ARTS. 2º E 61, § 1º, INC. II, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. AÇÃO JULGADA PARCIALMENTE PROCEDENTE”.
+    “EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ALAGONA N. 6.153, DE 11 DE MAIO DE 2000, QUE CRIA O PROGRAMA DE LEITURA DE JORNAIS E PERIÓDICOS EM SALA DE AULA, A SER CUMPRIDO PELAS ESCOLAS DA REDE OFICIAL E PARTICULAR DO ESTADO DE ALAGOAS. 1. Iniciativa privativa do Chefe do Poder Executivo Estadual para legislar sobre organização administrativa no âmbito do Estado. 2. Lei de iniciativa parlamentar que afronta o art. 61, § 1º, inc. II, alínea e, da Constituição da República, ao alterar a atribuição da Secretaria de Educação do Estado de Alagoas. Princípio da simetria federativa de competências. 3. Iniciativa louvável do legislador alagoano que não retira o vício formal de iniciativa legislativa. Precedentes. 4. Ação direta de inconstitucionalidade julgada procedente”.
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de setembro de 2013.
+Ministra Rosa Weber
+Relatora
