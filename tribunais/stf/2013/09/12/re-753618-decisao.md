@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário contra acórdão assim ementado, no que interessa:
+    “TRIBUTÁRIO. CRÉDITO-PRÊMIO DE IPI. RECONHECIMENTO PELO STJ. APROVEITAMENTO NA FORMA DO DECRETO-LEI Nº 491/69. CORREÇÃO MONETÁRIA. JUROS DE MORA. ÔNUS SUCUMBENCIAIS (...)”. (eDOC 2, p. 69)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 2º; 5º, II, XXXIV, “a”, XXXV e LV; 37; e 150, § 6º, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que é indevida a incidência de correção monetária por falta de previsão legal.
+    Decido.
+    Razão não assiste à agravante.
+    O subjacente recurso extraordinário veicula pretensão contrária à jurisprudência predominante do Supremo Tribunal Federal sobre o tema.
+    Com efeito, este Tribunal firmou entendimento no sentido de que é devida a correção monetária de crédito tributário originariamente escritural, quando reconhecido pela autoridade fiscal e a partir de ilegítimo óbice ao seu respectivo aproveitamento.
+    Nesse contexto, o registro desse crédito se desloca da esfera jurídica meramente privada da contabilidade empresarial e passa a contar com o respaldo normativo de uma típica relação tributária, aproximada à figura do indébito tributário.
+    Logo, nessas circunstâncias, impõe-se reconhecer tratamento isonômico entre os sujeitos dessa relação, de ordem a conferir, ao titular do crédito não aproveitado por injusta resistência do Fisco, direito à correção monetária de seu crédito, a bem da preservação efetiva do poder liberatório deste.
+    Cito, a propósito, os seguintes julgados:
+    “Agravo regimental e embargos de declaração no recurso extraordinário. Aclaratórios recebidos como agravo regimental, nos termos da jurisprudência do Tribunal. Aquisição de matérias-primas, insumos e produtos intermediários sob regime de isenção, de não tributação ou de alíquota zero. Devolutividade restrita. Reconhecimento do direito ao crédito quanto aos insumos isentos. Possibilidade de correção monetária pela oposição injustificada quanto à referida hipótese. Precedentes. 1. O acórdão objeto do recurso extraordinário, na parte referente aos insumos isentos, transitou em julgado, eis que a União Federal, ao deduzir o apelo extremo em questão, insurgiu-se apenas quanto às hipóteses de não tributação e de alíquota zero. 2. Não há qualquer esclarecimento a ser realizado quanto ao entendimento firmado pelo juízo monocrático, na medida em que a decisão foi reformada quanto às hipóteses de alíquota zero e de não incidência, ressaltando-se que essa última espécie de desoneração é sinônimo de não tributação. 3. O precedente invocado pela União externa entendimento juridicamente adequado, porém inaplicável ao caso, haja vista a ocorrência da ilegitimidade da oposição do Fisco no presente feito. Diante da recusa injustificada do aproveitamento dos créditos escriturais, a jurisprudência da Suprema Corte é firme em reconhecer a possibilidade de proceder à correção dos valores que serão compensados por força do princípio da não cumulatividade. Precedentes. 4. Agravos regimentais não providos”. (STF, RE452.274, Rel. Ministro Dias Toffoli, DJe 12.4.2013, Primeira Turma).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. CRÉDITOS ESCRITURAIS. INJUSTIFICADA OPOSIÇÃO DO FISCO. CABIMENTO DA CORREÇÃO MONETÁRIA SOBRE CRÉDITOS ESCRITURAIS DE IPI. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 795.981, Relatora Ministra Cármem Lúcia, DJe 4.10.2012)
+    Na mesma linha, confiram-se os seguintes precedentes: AI-AgR 696.825, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 17.11.2010; RE-AgR 538.621, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1º.10.2010; AI-AgR 783.603, Rel. Min. Eros Grau, Segunda Turma, DJe 14.5.2010; e AI-AgR 619.664, Rel. Min. Marco Aurélio, Primeira Turma, DJe 20.2.2009.
+    Ante o exposto, nego provimento ao recurso (arts. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de setembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
