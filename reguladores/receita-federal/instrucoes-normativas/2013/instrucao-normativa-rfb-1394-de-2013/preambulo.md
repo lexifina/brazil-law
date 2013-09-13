@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1394, de 12 de setembro de 2013
+Dispõe sobre a isenção do Imposto sobre a Renda e de contribuições aplicável às instituições que aderirem ao Programa Universidade para Todos.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 32 da Lei nº 9.430, de 27 de dezembro de 1996, na Lei nº 11.096, de 13 de janeiro de 2005, na Lei nº 11.128, de 28 de junho de 2005, e no art. 26 da Lei nº 12.431, de 24 de junho de 2011, resolve:
