@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 91):
+    “CONSTITUCIONAL E ADMINISTRATIVO – APELAÇÃO CÍVEL – ADMINISTRATIVO – REVISÃO DE PROVENTOS – POLICIAL MILITAR REFORMADO – GRADUAÇÃO IMEDIATAMENTE SUPERIOR AQUELE MILITAR QUE COMPROVAR HAVER PASSADO PARA RESERVA COM MAIS DE 30 ANOS DE SERVIÇO – APELO CONHECIDO E IMPROVIDO – SENTENÇA MANTIDA.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 5°, XXXVI, e 40, § 2°, da Constituição.
+    O recurso extraordinário é inadmissível. O acordão recorrido confirmou a sentença para assentar o direito do autor, servidor público militar, à revisão de seus proventos, com fundamento na legislação local pertinente (Leis estaduais nºs 2.066/1976 e 2.590/1986), por se tratar de “verba oriunda e vinculada à inatividade” (fl. 96). De modo que, dissentir de tal conclusão, exigiria a análise das normas mencionadas, o que atrai a incidência da Súmula 280/STF. Nesse sentido, veja-se a ementa do RE 535.729-AgR, julgado sob a relatoria do Ministro Eros Grau:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MILITAR. PROVENTOS. CÁLCULO COM ESTEIO NA REMUNERAÇÃO DE PATENTE HIERARQUICAMENTE SUPERIOR. LEIS NS. 2.066/76 E 2.590/86, DO ESTADO DE SERGIPE. MATÉRIA INFRACONSTITUCIONAL. 1. A matéria referente à extensão aos inativos de promoção automática, que lhes permite ter seus proventos calculados com base na remuneração da patente hierarquicamente superior, está restrita ao âmbito infraconstitucional. Agravo regimental a que se nega provimento.”
+    No mesmo sentido: AI 674.274-AgR, Rel.ª Min.ª Cármen Lúcia; RE 703.578, Rel.ª Min.ª Cármen Lúcia; ARE 731.129, Rel. Min. Luiz Fux; RE 563.229-AgR, Rel. Min. Ayres Britto.
+    Por fim, observa-se que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do art. 102, III, da Carta. Na hipótese, o acordão recorrido apenas aplicou o direito local pertinente ao caso concreto, sem analisar a lei à luz das normas constitucionais. Veja-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.“
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 13 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
