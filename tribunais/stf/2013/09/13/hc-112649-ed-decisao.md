@@ -1,0 +1,20 @@
+Penal e processual penal. Habeas corpus. homicídio qualificado, nas formas tentada e consumada, bando ou quadrilha e comércio ilegal de arma de fogo - artigos 121, § 2º, I e IV, 121, I e IV, c/c os arts. 14, II, e 29 (duas vezes), 288, parágrafo único, do Código Penal, e 17 da Lei n. 10826/2003. Pedido de extensão da liminar concedida no HC n. 112.649. Apensamento. HC principal julgado, com a mudança do redator para o acórdão. Ordem denegada. Liminar e extensões cassadas. Pedido prejudicado.
+- Pedido de extensão prejudicado e determinação de arquivamento.
+    Decisão: O Ministério Público Federal manifestou-se nestes termos:
+    “1. Trata-se de pedido de extensão dos efeitos da liminar deferida no Habeas Corpus nº 112.649, em favor de HELENO JOSÉ DO NASCIMENTO.
+    2. Em 16 de agosto de 2012, o Ministro Marco Aurélio determinou o apensamento deste processo ao habeas antes nº 112649 e a reautuação como pedido de extensão.
+    3. O Habeas Corpus nº 112.649/PE foi julgado em 26 de fevereiro de 2013, tendo a Primeira Turma reconhecido a validade da decisão que decretou a preventiva do requerente e dos demais corréus. Por tal razão foi cassada a medida liminar anteriormente deferida e indeferido os pedidos de extensão dos efeitos da liminar aos corréus.
+    4. Assim, ante a prejudicialidade do pedido, opina o Ministério pelo arquivamento destes autos.
+    Deveras, o Ministro Marco Aurélio ficou vencido no julgamento do HC 112.649/PE, ao qual o presente writ foi apensado, e fiquei como Redator p/ acórdão ao votar no sentido da denegação da ordem, cassando, em consequência a liminar deferida e a extensão de seus efeitos aos corréus, consoante se vê da ementa do julgado:
+    Ementa: Constitucional e processual penal. Habeas corpus substitutivo de recurso ordinário. Competência do Supremo Tribunal Federal. Matéria de direito estrito. Interpretação extensiva. Paradoxo. Homicídios qualificados consumados e tentados, em concurso de pessoas, Quadrilha ou bando e Comércio ilegal de armas. Prisão preventiva para garantia da ordem pública e conveniência da instrução criminal. Fundamentação idônea: grupo de extermínio e intimidação a testemunhas.
+    1. A competência do Supremo Tribunal Federal é tema de direito estrito e, por isso, não deve ser elastecida para abranger hipóteses não previstas na Constituição Federal.
+    2. A integração a grupo de extermínio, somada ao modus operandi na prática reiterada dos crimes de homicídio qualificado, nas formas tentada e consumada, bando ou quadrilha e comércio ilegal de arma de fogo - artigos 121, § 2º, I e IV, 121, I e IV, c/c os arts. 14, II, e 29 (duas vezes), 288, parágrafo único, do Código Penal, e 17 da Lei n. 10826/2003 - constitui base empírica idônea à decretação da prisão preventiva para garantia da ordem pública, na linha da pacífica jurisprudência do Supremo Tribunal Federal (HCs 95.024, 1ª Turma, Relª. Min. Cármen Lúcia, DJe 20/02/09; 98.290, 1ª Turma, Rel. Min. Marco Aurélio, Rel. p/ o acórdão Min. Luiz Fux, DJe de 21/06/11; e 101.854, 2ª Turma, Rel. Min. Eros Grau, DJe de 30/04/10, entre outros).
+    3. A necessidade da custódia cautelar por conveniência da instrução criminal no caso sub judice restou demonstrada, não sendo suficiente para elidi-la a prolação da sentença de pronúncia, sabido que o procedimento do júri é bipartido em iudicium accusationis e iudicium causae, a evidenciar a permanência da intimidação às testemunhas que serão inquiridas na segunda fase do procedimento.
+    4. In casu, o paciente foi beneficiado com a concessão de liminar cujos efeitos foram estendidos aos corréus, sendo a posteriori absolvido, circunstância essa que não implica desnecessidade da prisão cautelar em relação aos demais membros da organização criminosa.
+    5. Habeas corpus julgado extinto, por ser substitutivo de recurso ordinário, restando cassados os efeitos da liminar estendidos aos corréus.
+    Ex positis, julgo prejudicado o pedido de extensão, com fundamento no art. 21, IV, do RISTF, e determino o arquivamento do feito.
+    Publique-se.
+    Brasília, 13 de setembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
