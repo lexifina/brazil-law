@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto contra acórdão da 2ª Turma Recursal do Colégio Recursal do Estado de São Paulo que julgou improcedente pedido de recálculo da gratificação do recorrente, policial militar.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos arts. 5º, II, XXXV, 37, caput, XV da Constituição Federal, asseverando, em suma, que a Administração Pública operou ilegalidade ao não observar os critérios prescritos para o cálculo da sua gratificação, agindo, ainda, de forma abusiva ao reduzir seus vencimentos.
+    2. Em relação à alegada violação dos artigos 5º, II, e 37 da Constituição Federal, incide o óbice da Súmula 636/STF: " Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida ".
+    3. Ademais, conforme reiterada jurisprudência desta Corte, é inviável a apreciação, em recurso extraordinário, de alegada violação ao direito adquirido, ao ato jurídico perfeito, e aos princípios da inafastabilidade da jurisdição e da motivação das decisões, que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    4. Adite-se que a Turma Recursal decidiu a controvérsia tão somente a partir de interpretação e aplicação das normas infraconstitucionais pertinentes (Lei Complementar 745/93 do Estado de São Paulo). A apreciação dos aspectos concernentes à referida norma demanda análise de direito local, o que faz incidir o óbice constante da Súmula 280 do Supremo Tribunal Federal (" por ofensa a direito local não cabe recurso extraordinário ").
+    Conforme reiterada jurisprudência desta Corte, é inviável a apreciação, em sede de recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa.
+    5. Saliente-se que esta Corte vem repelindo, com os mesmos argumentos supra, recursos idênticos: ARE 738.443-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 09/08/2013; ARE 695.334-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 17/08/2012.
+    6. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 16 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
