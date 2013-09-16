@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Colégio Recursal da 3ª Circunscrição Judiciária do Estado de São Paulo (Comarca de Santo André), assim ementado:
+    “POSTE DE SUSTENTAÇÃO DE ENERGIA ELÉTRICA SITUADO EM LOCAL QUE CAUSA TRANSTORNOS A PROPRIETÁRIO DE IMÓVEL – REMOÇÃO SEM CUSTO PARA O CONSUMIDOR – CF. ART. 2° DA LEI ESTADUAL 12.635/2007 – SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS – ART. 46 DA LEI 9.099/95.” (fl. 62).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alíneas “a” e “c”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 22, incisos I e IV, do texto constitucional.
+    Alega-se, em síntese, que a Lei Estadual, 12.635/2007 (embasadora do acórdão recorrido) seria inconstitucional, uma vez que conteria vício de iniciativa, pois legislar sobre energia elétrica seria de competência privativa da União.
+    Decido.
+    A irresignação não merece prosperar.
+    O acórdão recorrido manteve a decisão de primeiro grau pelos seus próprios fundamentos, a qual decidiu a controvérsia com base no acervo probatório dos autos. Assim, para se chegar a entendimento diverso do consignado, far-se-ia imprescindível a revisão dos fatos e provas constantes dos autos, bem como a análise e interpretação da legislação local aplicada ao caso (Lei Estadual, 12.635/2007), providências vedadas, no âmbito do apelo extremo, pelas súmulas 279 e 280 do STF, respectivamente.
+    Nesse mesmo sentido:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. CONSUMIDOR. FORNECIMENTO DE ENERGIA ELÉTRICA. NECESSIDADE DE REEXAME DO CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS E DA ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL: IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.” (ARE 648.467, Rel. Min. Cármen Lúcia, Dje 4.8.2011)
+     “AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL OBJETIVA. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.” (ARE 713.815, Rel. Min. Cármen Lúcia, Dje 4.2.2013).
+    Quanto à alegada inconstitucionalidade da Lei Estadual 12.635/2007, com base na qual o Tribunal a quo, ao manter o decidido em primeiro grau, fundamentou sua decisão, verifico que se trata de mera inovação recursal que não tem o condão de alterar o consignado no acórdão recorrido. Sobre o tema, há de se lembrar do enunciado da Súmula 282 desta Corte, verbis: é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+    Ainda que assim não fosse, verifico que o entendimento do STF é na seguinte direção:
+    “Também é incabível o recurso extraordinário fundado na alínea c do inc. III do art. 102 da Constituição. Para a interposição de recurso extraordinário com respaldo nessa alínea não basta que o acórdão recorrido tenha aplicado a lei estadual vigente contestada “em face desta Constituição”. É preciso que o acórdão recorrido faça prevalecer a lei local em detrimento da Constituição, o que não se deu no presente caso.” (ARE 715.040, Rel. Min. Cármen Lúcia, DJe 16.11.2012).
+     “RECURSO EXTRAORDINÁRIO – ALÍNEA 'C' DO INCISO III DO ARTIGO 102 DA CONSTITUIÇÃO FEDERAL. A conclusão sobre o cabimento do recurso extraordinário pela alínea 'c' do inciso III do artigo 102 da Constituição Federal pressupõe haja a Corte de origem homenageado a lei estadual em detrimento da Carta. Inexistente tal fato, impossível é entender pelo trânsito do extraordinário.” (AI-AgR 138.298, Rel. Min. Marco Aurélio, Segunda Turma, DJ 30.4.1992).
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 16 de setembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
