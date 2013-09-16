@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto contra acórdão que, em sede de execução de sentença, decidiu que, embora não haja previsão de prazo prescricional específico para a propositura de ação civil pública, aplica-se o prazo de 5 (cinco) anos previsto para as ações populares.
+    Opostos embargos de declaração foram rejeitados.
+    No recurso extraordinário, a parte agravante aponta ofensa aos seguintes dispositivos constitucionais: (I) art. 1º, III e art. 5º, caput, alegando que o acórdão recorrido ofendeu o princípio da segurança jurídica; (II) art. 5º, XXXVI, ao argumento de que na ação coletiva ora executada já havia sido definido que o prazo prescricional seria vintenário; (III) art. 5º, XXXVI, aduzindo a impossibilidade de retroatividade do direito judicial; (IV) art. 5º, XXXV, sob o fundamento de que a redução do prazo prescricional para cinco anos impede o acesso dos jurisdicionados à justiça.
+    2. Não prospera a irresignação dos agravantes. É que não há matéria constitucional a ser analisada, uma vez que o Tribunal de origem decidiu a controvérsia tão somente a partir de interpretação e aplicação da norma infraconstitucional pertinente (4.717/1965).
+    3. Quanto à alegação de ofensa aos limites da coisa julgada e aos princípios do devido processo legal, do contraditório e da ampla defesa, diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta Corte na análise do ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660), por se tratar de questão infraconstitucional. Registre-se que a decisão de inexistência de repercussão geral tem eficácia em relação a todos os recursos sobre matéria idêntica (art. 543-A, § 5º, do CPC c/c art. 327, § 1º, do RISTF).
+    4. Ademais, conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação ao direito adquirido, ao ato jurídico perfeito, e aos princípios da inafastabilidade da jurisdição e da motivação das decisões, que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    5. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 16 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
