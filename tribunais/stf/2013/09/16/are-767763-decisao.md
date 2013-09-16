@@ -1,0 +1,16 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão da Segunda Turma Recursal dos Juizados Especiais da Bahia que negou o pedido de recorrente para a cobertura, pelo plano de saúde, de tratamento não autorizado.
+    Os sucessivos embargos de declaração foram rejeitados.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos arts. 1º, III, 5º, 6º, 170, V, da Constituição Federal, alegando, em suma, que a negativa de cobertura vai contra o direito à saúde preconizado pela Constituição.
+    2. O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto nos artigos 102, § 3º, da CF e 543-A, § 2º, do CPC, alegações genéricas a respeito do instituto, como a mera afirmação de que: (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação de dispositivo constitucional; ou, ainda, (e) a existência de jurisprudência pacífica desta Corte quanto ao tema discutido. Nesse sentido: ARE 691.595 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/02/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14.2.2013; ARE 696.263-AgR/MG, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19.02.2013; AI 717.821 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/08/2012.
+    3. Ora, no caso, a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nesses moldes exigidos pela jurisprudência do STF.
+    4. Não houve emissão, pelo acórdão recorrido, de juízo acerca da matéria de que tratam as normas insertas nos artigos 1º, III, e 170, V, da Constituição Federal, tampouco a questão foi suscitada no momento oportuno, em sede de embargos de declaração, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido quanto à suposta ofensa a tais dispositivos, incidindo o óbice das súmulas 282 e 356 do STF.
+    5. Ademais, no caso, o acórdão confirmou a sentença que consignou:
+    Os princípios do equilíbrio contratual e razoabilidade devem reger as relações de consumo. A autora, no seu pleito, requer tratamento em uma clínica determinada com o custeio integral pela ré, o que não tem amparo legal ou contratual, ressalvado o sistema de reembolso.
+    Assim, analisar a existência de suposta violação aos dispositivos constitucionais apontados demandaria a reapreciação de cláusulas contratuais, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a Súmula 454 do STF.
+    6. Diante do exposto, nego provimento ao agravo .
+    Publique-se. Intime-se.
+    Brasília, 16 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
