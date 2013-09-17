@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 3ª Turma Recursal da Seção do Estado do Rio Grande do Sul, que manteve sentença, da qual se extrai o seguinte trecho:
+    “A irresignação posta, nos presentes autos, consiste no fato de que o percentual de aumento referido não foi integralmente repassado à renda mensal dos benefícios em manutenção, no que haveria, segundo a inicial, manifesta violação a preceitos da Constituição Federal.
+    Ocorre que os dispositivos constitucionais invocados para fundamentar o pedido nada dispuseram acerca da conces s ão de reajuste aos benefícios previdenciários em manutenção, que segue sendo disciplinado pela Lei nº 8.213/91.
+    Ademais, compulsando-se as disposições dessa Lei, nota-se que o único reajuste/limite/ aumento que repercute sobre a renda mensal dos benefícios previdenciários é o que incide sobre os salários de contribuição, e mesmo assim, somente até a data da concessão e desde que verificado dentro do período básico de cálculo.
+    Como se não bastas se, nenhuma relação de paridade existe entre os limites máximos dos salários de contribuição, salário de benefício e renda mensal, salvo no que diz respeito à impossibilidade de a renda mensal ser (...) superior ao do limite máximo do salário de contribuição (artigo 33), o que, em absoluto, não implica reajuste de benefício, como pretendido, mas uma limitação, mesmo, imposta ao legislador.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 84, IV e 87, II, ambos da Constituição, além do art. 5º da Emenda Constitucional 41/03. Sustenta que “A REAL PROBLEMÁTICA que envolve a presente demanda está direta e precisamente ligada ao reajuste concedido especificamente em maio de 2004 (primeiro reajuste após a Emenda Constitucional no. 41/03, através do Decreto 5.061/04)”.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a controvérsia cinge-se ao âmbito infraconstitucional, sendo a violação alegada, caso existente, reflexa ou indireta.”
+    O recurso não deve ser provido, haja vista que incide a jurisprudência do Supremo Tribunal Federal que assentou a inexistência de repercussão geral da questão ora discutida, alusiva à revisão de renda mensal de benefício previdenciário, em que a parte pleiteia a aplicação dos mesmos índices utilizados para reajuste do teto do salário-de-contribuição, relativamente aos meses de junho de 1999 e maio de 2004 (ARE 685.029 RG, Rel. Min. Cezar Peluso).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+       Brasília, 17 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
