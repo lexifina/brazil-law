@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “ADMINISTRATIVO E PREVIDENCIÁRIO – SERVIDOR PÚBLICO MUNICIPAL INATIVO – FALECIMENTO – DEPENDENTE – COMPLEMENTAÇÃO DE PENSÃO.
+    Servidor do quadro de pessoal variável do Município de Jundiaí que contribuiu com o regime municipal de previdência complementar por cerca de uma década. Lei Municipal nº 3.956/92. Aposentadoria anterior à entrada em vigor da EC nº 20/98 e da Lei 9.717/98. Direito adquirido à complementação de aposentadoria e à pensão por morte a ser paga aos dependentes. Sentença reformada. Recurso provido” (fl. 257).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos artigos 5º, II, e 37, caput e XI, da mesma Carta.
+    A pretensão recursal não merece acolhida. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, anote-se:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido” (RE 363.743AgR/DF, Rel. Min. Ellen Gracie).
+    Ainda que superado esse óbice, o recurso não prosperaria. Isso porque para se chegar à conclusão contrária à adotada pelo Juízo a quo, necessário seria a análise de normas infraconstitucionais aplicáveis à espécie (Lei Federal 9.717/1998 e Lei Municipal 3.956/1992). Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, por oportuno, trago à colação o AI 565.223-AgR/SC, Rel. Min. Cezar Peluso; ARE 742.119/SP, Rel. Min. Gilmar Mendes; e RE 660.022/SP, Rel. Min. Teori Zavascki.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de setembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
