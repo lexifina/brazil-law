@@ -1,0 +1,17 @@
+Trata-se de inquérito policial instaurado para apurar-se a suposta prática, por Weverton Rocha Marques de Sousa, dos crimes previstos nos arts. 312, 317 e 333, todos do Código Penal, relativos a desvio de verbas, por meio da contratação irregular de organizações não-governamentais, pelo Ministério do Trabalho e Emprego, entre 2007 e 2011.
+    Determinei, a pedido do Procurador-Geral da República, a remessa dos autos ao Tribunal Regional Federal da 1ª Região, tendo em vista o termo do período de suplência do investigado na Câmara dos Deputados (fl. 497).
+    Contudo, o Parquet requer, à fl. 499, o prosseguimento do inquérito nesta Corte, “com a realização das diligências constantes da manifestação de fls. 382/385, tendo em vista que no dia 02/01/2013 Weverton Rocha foi efetivado no mandato de Deputado Federal”.
+    Na manifestação anterior, o Ministério Público Federal informou que o procedimento investigativo foi instaurado a partir de reportagens que noticiam o suposto envolvimento do parlamentar, então assessor especial do Ministro do Trabalho, como sendo “um dos responsáveis por fixar o preço para a manutenção dos contratos e o restabelecimento dos repasses de recursos”, requerendo:
+    “a) expedição de novo ofício ao Ministério do Trabalho e Emprego para que encaminhe cópia integral – preferencialmente, digitalizada – dos contratos e/ou convênios tendo por objeto o oferecimento de cursos de capacitação profissional, por ele firmados e/ou mantidos, no período de 2007/2011, com organizações não governamentais, em especial, com o Instituto Êpa (Rio Grande do Norte), a ONG Oxigênio (São Paulo), a Confederação Nacional dos Trabalhadores Metalúrgicos – CNTM (Distrito Federal), o Instituto de Pesquisa, Desenvolvimento e Educação – IPDE (Distrito Federal) e Renapsi (Distrito Federal), bem como de eventuais contratos e/ou convênios firmados com instituições dessa natureza que não foram prorrogados ou foram rescindidos no lapso temporal em questão;
+    b) expedição de ofício à Controladoria-Geral da União para que informe se existem procedimentos administrativos instaurados para a apuração de possíveis irregularidades em contratos e/ou convênios tendo por objeto o oferecimento de cursos de capacitação profissional, firmados e/ou mantidos pelo Ministério do Trabalho e Emprego, no período de 2007/2011, com organizações não governamentais, em especial, com o Instituto Êpa, a ONG Oxigênio, a Confederação Nacional dos Trabalhadores Metalúrgicos – CNTM, o Instituto de Pesquisa, Desenvolvimento e Educação – IPDE e a ONG Renapsi, encaminhando, em caso positivo, cópia integral dos autos, preferencialmente, em meio digital;
+    c) identificação e oitiva dos representantes legais das organizações não-governamentais Instituto Êpa, Oxigênio, Confederação Nacional dos Trabalhadores Metalúrgicos – CNTM, Instituto de Pesquisa, Desenvolvimento e Educação – IPDE e Renapsi;
+    d) oitiva de Anderson Alexandre dos Santos, Marcello Panella e do Deputado Federal Weverton Rocha”.
+    Decido.
+    O documento juntado à fl. 500 comprova o fato superveniente noticiado pelo Procurador-Geral da República, motivo pelo qual torno sem efeito a decisão de fl. 497.
+    Defiro a realização das diligências requeridas pelo Parquet, uma vez que se mostram adequadas e necessárias à elucidação dos fatos.
+    Encaminhem-se os autos ao Departamento de Polícia Federal para que proceda conforme o requerido.
+    Ciência à Procuradoria Geral da República.
+    Publique-se.
+    Brasília, 17 de setembro de 2013.
+Ministro Ricardo Lewandowski
+Relator
