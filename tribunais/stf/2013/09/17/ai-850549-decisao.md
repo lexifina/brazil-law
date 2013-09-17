@@ -1,0 +1,34 @@
+DECISÃO
+    Vistos.
+    Município de Montes Claros interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 1º, 5º, caput, e 29, § 1º, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Sétima Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “DIREITO ADMINISTRATIVO - PENSÃO - EX-SERVIDOR PÚBLICO MUNICIPAL - BENEFICIÁRIA INCAPAZ, REPRESENTADA POR CURADOR - ADICIONAL POR TEMPO DE SERVIÇO - QÜINQÜÊNIO - INCORPORAÇÃO AO BENEFÍCIO.
+    - Nos termos do art. 198, I, do Código Civil, não corre a prescrição contra os incapazes de que trata o art. 3º.
+    - O direito ao adicional por tempo de serviço público é de natureza eminentemente administrativa. Se o único requisito previsto em lei é o implemento do tempo de serviço público municipal, o beneficio é devido ao ex-servidor, relativamente ao período pelo qual prestou serviços como contratado e, também, quanto àquele posterior, em que passou ao regime estatutário”.
+    Opostos embargos de declaração, foram rejeitados.
+    Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Paulo Rocha Campos, pelo “não provimento do recurso”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o acórdão recorrido dirimiu a controvérsia amparado em legislação infraconstitucional e no conjunto fático-probatório constante dos autos. Colhe-se de seu voto condutor:
+    “(...)
+    Do exame das provas de fls. 18/23, vê-se que o servidor foi contratado para o cargo de Vigia, sob o regime celetista, em 22 de março de 1996, que perdurou até 05/02/92, passando ao regime estatutário em 06/02/1992, até a data de sua aposentadoria. E, tal como evidenciam os demonstrativos de pagamento, não percebia nenhum adicional por tempo de serviço - (fls. 22).
+    Consoante previsto na Lei Municipal nº 1.602, de 21 de maio de 1986, que ‘dispõe sobre o enquadramento dos funcionários estatutários no plano de classificação de cargos, funções e vencimentos e modifica dispositivos da Lei Municipal nº 1.035 de 25 de março de 1.974’:
+    …...................................................................................................
+    Por sua vez, a Lei nº 1.988, de 02 de dezembro de 1991, que criou o regime único para os servidores do Município, não revogou a regra supra citada. Aliás, a Lei Orgânica do Município de Montes Claros, datada de 1999, é expressa no sentido de que:
+    …...................................................................................................
+    O adicional por tempo de serviço é benefício de natureza administrativa, e sua concessão subordina-se à existência de previsão legal. No caso, a vantagem foi concedida a TODOS os servidores públicos municipais em 21 de maio de 1986, no percentual de 8% a cada cinco anos.
+    Não se cuida, aqui, de majoração de benefício, mas de mero cumprimento da lei municipal e da Constituição Federal, não se justificando o procedimento da Administração em não reconhecer o direito do ex-servidor que a ele teria direito quando ainda em atividade, negando o pagamento de vantagens por ela mesma concedidas.
+    O único requisito exigido para a concessão do adicional por tempo de serviço é o implemento de tempo no serviço público municipal, sem qualquer distinção, se efetivo ou a título precário. O direito ao adicional, portanto, não está restrito ao servidor público efetivo e não pode ser restringido por ato discricionário da administração, a quem cabe observar fielmente as leis municipais, estaduais e federais em vigor, em razão do princípio da legalidade, basilar do regime jurídico-administrativo e específico do Estado de Direito, através do qual seus atos somente podem ser praticados se estiverem de acordo com a previsão legal.
+    …...................................................................................................
+    Em síntese: o direito ao adicional por tempo de serviço público - qüinqüênio - é de natureza eminentemente administrativa. Se o único requisito previsto em lei é o implemento do tempo de prestação de serviço público municipal, o beneficio é devido ao ex-servidor que prestou serviços ao Município, independentemente de trabalhar ou de ter trabalhado sob o regime celetista ou estatutário.”
+    Verifica-se, assim, que para acolher a pretensão do agravante e ultrapassar o entendimento firmado pelo Tribunal de origem, seria necessário interpretar a legislação local pertinente (Leis Municipais nºs 1.602/86 e 1.988/91) e reexaminar os fatos e provas que compõem a lide, operações vedadas em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE VENCIMENTOS. DECRETO N. 36.829/95. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 729.137/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/6/09).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. PERCEPÇÃO DE QÜINQÜÊNIOS. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO MUNICIPAL. 1. Entendimento diverso do adotado pela Instância Judicante de origem exigiria o reexame da legislação local aplicada à espécie (Leis 494/1974 e 1.578/1998), providência vedada neste momento processual, conforme a Súmula 280/STF. 2. Agravo regimental desprovido” (RE nº 596.095/MG-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 22/10/10).
+    Especificamente sobre o tema ora em análise, destaco, ainda, as seguintes decisões monocráticas: ARE nº 687.391/MG, de minha relatoria, DJe de 26/4/13, e AI nº 813.314/MG, Relatora a Ministra Cármen Lúcia, DJe de 18/11/10.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 17 de setembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
