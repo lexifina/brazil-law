@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça, que, nos autos do HC 169.730/RS, concedeu parcialmente a ordem. Eis a ementa do julgado:
+    (…)
+    3. O objeto deste mandamus, com relação à ausência dos requisitos autorizadores da prisão preventiva não é capaz de superar o óbice da ausência de debates na origem, sob pena de indevida supressão de um dos graus de jurisdição.
+    4. Constatado que os embargos declaratórios, opostos pela defesa do paciente, aguarda sua análise desde 20/01/2009, sem qualquer contribuição da defesa para a injustificada demora, resta configurado o constrangimento ilegal.
+    5. Habeas corpus parcialmente provido apenas para determinar, no prazo de 15 (quinze) dias, o julgamento dos Embargos Declaratórios n.º 70028351716 pela Segunda Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul.
+    Sustenta o recorrente, em síntese, o seguinte: (a) o paciente foi condenado em primeira instância pela prática dos crimes de receptação, quadrilha armada, adulteração de sinal identificador de veículo automotor e porte ilegal de arma de fogo com sinal de identificação adulterado (artigos 180, caput, 288, parágrafo único, 311, c/c o 29, todos do CP e art. 16, parágrafo único, IV, da Lei 10.826/2003); (b) interposta apelação, o Tribunal local deu parcial provimento ao recurso e absolveu o paciente do delito de falsificação de documento público, bem como reconheceu a continuidade delitiva para os crimes de adulteração de sinal; (c) contra essa decisão, foram opostos embargos de declaração; (d) está caracterizado excesso de prazo para o julgamento dos aclaratórios, já que decorridos mais de quatro anos e ainda não foram julgados. Requer a concessão de medida liminar para que seja posto em liberdade.
+    2.Na hipótese, a causa de pedir da impetração está fundamentada na demora para o julgamento dos embargos de declaração opostos perante o Tribunal de Justiça do Estado do Rio Grande do Sul. Ocorre que, em consulta ao sítio eletrônico daquele Tribunal, tem-se que os referidos aclaratórios já foram julgados (Dje de 08/07/2013). Desse modo, não subsiste o alegado constrangimento ilegal.
+    3. Por outro lado, não é demais acentuar que o pedido de revogação da prisão preventiva não foi objeto de apreciação pelo STJ, tendo em vista que a matéria não foi submetida ao crivo do Tribunal de origem. Desse modo, qualquer conclusão desta Corte a respeito implicaria dupla supressão de instância, o que não é admitido.
+    4. Com essas considerações, nego seguimento ao recurso (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 17 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
