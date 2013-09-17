@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça assim ementado, no que interessa:
+    “AGRAVO REGIMENTAL EM RECURSO ESPECIAL - CONTRATO DE MÚTUO IMOBILIÁRIO - QUITAÇÃO DO SALDO DEVEDOR RESIDUAL - CONTRATO NÃO COBERTO PELA CLÁUSULA DO FCVS - RESPONSABILIDADE DOS MUTUÁRIOS – DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL DA CASA BANCÁRIA. IRRESIGNAÇÃO DOS AUTORES. (...)”. (eDOC 3, p. 17)
+    Opostos os embargos declaratórios, estes foram rejeitados (eDOC 4, p. 11-16).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação dos artigos 1º, III; 5º, caput e XXXII; e 6º, caput e I, do texto constitucional.
+    O recorrente sustenta que a determinação do pagamento do saldo devedor existente no contrato de financiamento habitacional ofende, em especial, o direito à moradia.
+    Decido.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação infraconstitucional e com interpretação de cláusulas contratuais. Para se concluir de forma diversa, seria necessária a análise das mencionadas cláusulas, o que não enseja a abertura da via extraordinária. Incide, portanto, o Enunciado 454 da Súmula do STF.
+    Sobre o tema, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO CIVIL. CONTRATO. SISTEMA FINANCEIRO DE HABITAÇÃO. SALDO DEVEDOR. REAJUSTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NECESSIDADE DE ANÁLISE DAS CLÁUSULAS CONTRATUAIS CONSTANTES DO ATO CELEBRADO ENTRE AS PARTES. SÚMULA 454 DO STF. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. ALEGAÇÃO DE PRÁTICA DE ANATOCISMO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido (Súmulas 282 e 356 do STF). II - A discussão acerca da suposta violação ao ato jurídico perfeito não dispensa a interpretação das cláusulas contratuais constantes do ato celebrado entre as partes, o que inviabiliza o extraordinário, a teor da Súmula 454 do STF. III – Esta Corte reafirmou a sua jurisprudência no sentido de que a controvérsia relativa a critério de reajuste de saldo devedor em contrato de mútuo pelo sistema financeiro de habitação encontra-se no âmbito infraconstitucional. IV – A verificação da ocorrência do prática de anatocismo encontra óbice na Súmula 279 do STF. V - Agravo regimental improvido”. (RE 568.692-AgR/DF, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 03.3.2011)
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO DE CONTRATO. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 576.744-AgR/GO, Rel. Min. Cármen Lúcia, DJe 13.3.2009)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 17 de setembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
