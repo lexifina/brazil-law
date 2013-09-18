@@ -10,4 +10,5 @@ VIII - fomento ao desenvolvimento científico e tecnológico, à adoção de tec
 IX - adoção de critérios objetivos de elegibilidade e prioridade, levando em consideração fatores como nível de renda e cobertura, grau de urbanização, concentração populacional, disponibilidade hídrica, riscos sanitários, epidemiológicos e ambientais;
 X - adoção da bacia hidrográfica como unidade de referência para o planejamento de suas ações;
 XI - estímulo à implementação de infra-estruturas e serviços comuns a Municípios, mediante mecanismos de cooperação entre entes federados.
+XII - estímulo ao desenvolvimento e aperfeiçoamento de equipamentos e métodos economizadores de água.
 Parágrafo único. As políticas e ações da União de desenvolvimento urbano e regional, de habitação, de combate e erradicação da pobreza, de proteção ambiental, de promoção da saúde e outras de relevante interesse social voltadas para a melhoria da qualidade de vida devem considerar a necessária articulação, inclusive no que se refere ao financiamento, com o saneamento básico.
