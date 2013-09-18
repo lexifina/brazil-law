@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF08 nº 35, de 21 de maio de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: CÓDIGO TIPI: Mercadoria 9503.00.99 Brinquedo em formato de luva, confeccionada em tecido estampado em quatro cores com velcro, apresentando dispositivo eletrônico de gravação e reprodução de voz, com distorcedor que simula voz de personagem de desenho animado Ben 10. Fabricante The Marketing Store Worldwide Consumer Products Ltda.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO TIPI: Mercadoria 9503.00.99 Brinquedo em formato de luva, confeccionada em tecido estampado em quatro cores com velcro, apresentando dispositivo eletrônico de gravação e reprodução de voz, com distorcedor que simula voz de personagem de desenho animado Ben 10. Fabricante The Marketing Store Worldwide Consumer Products Ltda.
+DISPOSITIVOS LEGAIS: RGIs 1.ª e 6.ª (texto da posição 95.03), c/c RGC-1, todas da TIPI (Decreto nº 7.660, de 2011), com os esclarecimentos das Notas Explicativas do Sistema Harmonizado (Decreto nº 435, de 1992 - alterado pela IN RFB nº 807, de 2008, IN RFB nº 1.072, de 2010 e IN RFB nº 1.260, de 2012).
