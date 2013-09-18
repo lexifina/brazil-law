@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF08 nº 54, de 9 de agosto de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: CÓDIGO TIPI: Mercadoria: 1901.90.90 Preparação alimentícia à base de leite integral fermentado, adoçada, adicionada de suco de uva e aromatizantes, acondicionada em copo plástico de 200g, denominada leite fermentado integral com suco de uva e sabor sálvia. Fabricante: Dairy Partners Americas Brasil Ltda.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO TIPI: Mercadoria: 1901.90.90 Preparação alimentícia à base de leite integral fermentado, adoçada, adicionada de suco de uva e aromatizantes, acondicionada em copo plástico de 200g, denominada leite fermentado integral com suco de uva e sabor sálvia. Fabricante: Dairy Partners Americas Brasil Ltda.
+DISPOSITIVOS LEGAIS: RGIs 1.ª e 6.ª (textos da posição 19.01 e da subposição 1901.90), todas da TIPI (Decreto nº 7.660, de 2011), com os esclarecimentos das Notas Explicativas do Sistema Harmonizado (Decreto nº 435, de 1992 - alterado pela IN RFB nº 807, de 2008, IN RFB nº 1.072, de 2010 e IN RFB nº 1.260, de 2012).
