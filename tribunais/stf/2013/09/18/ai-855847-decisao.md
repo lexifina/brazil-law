@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto contra decisão proferida pelo Presidente da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado de Goiás que inadmitiu Incidente Nacional de Uniformização de Jurisprudência.
+    Opostos embargos de declaração, foram rejeitados (fl. 122).
+    Alega a recorrente violação aos artigos 2º, 5º, caput e incisos II e LV, 37, caput, 61, §1º e inciso II, e 97 da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação, haja vista que, nos termos do artigo 102, inciso III, alínea “a”, da Constituição Federal, o recurso extraordinário é cabível apenas de decisão proferida em última ou única instância, o que não é o caso dos autos. Incidência, na espécie, da Súmula nº 281 desta Corte, que assim dispõe, in verbis: “É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada”. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO DE ÚLTIMA OU ÚNICA INSTÂNCIA. INEXISTÊNCIA. SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL. 1. A decisão capaz de viabilizar o recurso extraordinário é aquela proferida em única ou última instância. Incidência da Súmula n. 281 deste Tribunal. 2. Agravo regimental a que se nega provimento” (AI nº 657.528/RJ–AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 28/9/07).
+    “MATÉRIA TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ACÓRDÃO PROFERIDO POR TRIBUNAL REGIONAL DO TRABALHO. RECURSO EXTRAORDINÁRIO. DESCABIMENTO. SÚMULA 281 DO STF. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. AGRAVO IMPROVIDO. I - Não cabe recurso extraordinário para o Supremo Tribunal Federal contra quaisquer decisões proferidas por Tribunais Regionais do Trabalho. II - O acesso a esta Corte, pela via recursal extraordinária, nos processos trabalhistas, só será possível quando se tratar de decisões proferidas pelo Tribunal Superior do Trabalho. III - A Corte tem se orientado no sentido de que, em regra, a alegação de violação aos princípios do devido processo legal, contraditório e ampla defesa caracteriza ofensa reflexa à Constituição Federal, o que inviabiliza o recurso extraordinário. IV- Agravo regimental improvido” (AI nº 650.164/SP-AgR, Primeira Turma, Relator Ministro Ricardo Lewandowski, DJ de 7/12/07).
+    Ainda que assim não fosse, melhor sorte não assistiria à recorrente uma vez que o Plenário desta Corte já reconheceu a repercussão geral do tema suscitado no recurso extraordinário da ora agravante ao examinar o RE nº 648.629/RJ, da relatoria do Ministro Luiz Fux, e, no julgamento do mérito desse recurso, este Supremo Tribunal Federal concluiu que “A regra prevista no art. 17 da Lei 10.910/2004 (‘Nos processos em que atuem em razão das atribuições de seus cargos, os ocupantes dos cargos das carreiras de Procurador Federal e de Procurador do Banco Central do Brasil serão intimados e notificados pessoalmente’) não se aplica a procuradores federais que atuam no âmbito dos Juizados Especiais Federais” (Informativo STF nº 703).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 18 de setembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
