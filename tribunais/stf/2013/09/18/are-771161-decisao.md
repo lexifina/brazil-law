@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AGRAVO DE INSTRUMENTO. Irresignação contra decisão que concedeu antecipação de tutela para a suspensão da exigibilidade dos créditos de ICMS. Inexistência da prova inequívoca. Ação anulatória que não inibe a inscrição da dívida, nem de eventual execução. Tutela antecipada para impedir a exigibilidade de crédito tributário que possível somente nos casos em que há depósito judicial do valor integral do tributo ou da penalidade. Aplicação do artigo 151, II, do CTN e da Súmula 112 do STJ. Questão controversa que será dirimida nos autos principais, após contraditório. Decisão reformada. Recurso provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. Alega violação ao art. 5º, XXXV e XXXVII, ao art. 150, I, ao art. 152, e ao art. 155, § 2º, I e IV, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento genérico de que não se teria evidenciado “qualquer maltrato a normas constitucionais, não sendo atendida qualquer das hipóteses das alíneas ‘a’, ‘b’, ‘c’ e ‘d’ do permissivo constitucional. Assentou, ainda, que “a análise demandaria o exame de matéria infraconstitucional”.
+    O recurso extraordinário é inadmissível, tendo em vista que decorre de processo no qual se questiona decisão de natureza precária, que concedeu antecipação de tutela. Assim, não preenche o requisito do art. 102, III, da Constituição Federal, que prevê a competência do Supremo Tribunal Federal para julgar “mediante recurso extraordinário, as causas decididas em única ou última instância”. Veja-se, a propósito, a ementa do AI 597.618-AgR, Rel. Min. Celso de Mello, DJ 29/06/2007, in verbis:
+    “AGRAVO DE INSTRUMENTO – ACÓRDÃO QUE CONFIRMA DEFERIMENTO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA – ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE – MERA ANÁLISE DOS PRESSUPOSTOS DO “FUMUS BONI JURIS” E DO “PERICULUM IN MORA” – INVIABILIDADE DO APELO EXTREMO – RECURSO DE AGRAVO IMPROVIDO.
+    - Não cabe recurso extraordinário contra decisões que concedem ou que denegam a antecipação dos efeitos da tutela jurisdicional ou provimentos liminares, pelo fato de que tais atos decisórios - precisamente porque fundados em mera verificação não conclusiva da ocorrência do ‘periculum in mora’ e da relevância jurídica da pretensão deduzida pela parte interessada - não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se, em conseqüência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes.”
+    Nessas condições, incide, igualmente, a Súmula 735/STF:
+    “NÃO CABE RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO QUE DEFERE MEDIDA LIMINAR.”
+    Confira-se, ainda, alguns precedentes sobre a matéria: ARE 711.605-AgR, Rel. Min. Gilmar Mendes; RE 613.182-AgR, Rel. Min. Ricardo Lewandowski; AI 635.237-AgR, Rel. Min. Menezes Direito.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília-DF, 18 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
