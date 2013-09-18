@@ -11,3 +11,4 @@ IX - transparência das ações, baseada em sistemas de informações e processo
 X - controle social;
 XI - segurança, qualidade e regularidade;
 XII - integração das infra-estruturas e serviços com a gestão eficiente dos recursos hídricos.
+XIII - adoção de medidas de fomento à moderação do consumo de água.
