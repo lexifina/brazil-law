@@ -1,0 +1,1 @@
+Art. 9º Se a ação controlada envolver transposição de fronteiras, o retardamento da intervenção policial ou administrativa somente poderá ocorrer com a cooperação das autoridades dos países que figurem como provável itinerário ou destino do investigado, de modo a reduzir os riscos de fuga e extravio do produto, objeto, instrumento ou proveito do crime.
