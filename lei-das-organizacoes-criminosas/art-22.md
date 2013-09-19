@@ -1,0 +1,2 @@
+Art. 22. Os crimes previstos nesta Lei e as infrações penais conexas serão apurados mediante procedimento ordinário previsto no Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), observado o disposto no parágrafo único deste artigo.
+Parágrafo único. A instrução criminal deverá ser encerrada em prazo razoável, o qual não poderá exceder a 120 (cento e vinte) dias quando o réu estiver preso, prorrogáveis em até igual período, por decisão fundamentada, devidamente motivada pela complexidade da causa ou por fato procrastinatório atribuível ao réu.
