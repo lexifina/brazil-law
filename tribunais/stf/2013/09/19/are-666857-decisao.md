@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 37, XV, 40, caput e § 3º, 97, 149, § 1º, 150, IV, e 195, § 5º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 763.348/PR, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 07.4.2006; e RE 467.624-AgR/RO, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 1º.7.2009 este assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PARCELA NÃO INCORPORÁVEL À REMUNERAÇÃO: NÃO-INCIDÊNCIA DA CONTRIBUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Divergir da posição adotada pela Corte de origem, para aferir a natureza genérica, ou não, da gratificação em questão demandaria a análise da legislação infraconstitucional local que fundamentou o acórdão da origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 650.574-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.9.2011; e RE 601.572-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 12.3.2013, cuja ementa transcrevo:
+    “Agravo regimental no recurso extraordinário. Gratificação Especial para Especialistas. Lei nº 14.244/06 do Município de São Paulo. Incorporação. Ofensa a direito local. Incidência da Súmula nº 280/STF. Precedentes. 1. Não se abre a via do recurso extraordinário para o reexame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280 desta Corte. 2. Agravo regimental não provido”.
+    Havendo pronunciamento do Supremo Tribunal Federal sobre a matéria não há falar em ofensa ao art. 97 da Carta Magna. Nesse sentido: RE 593.948-AgR/RJ, Rel. Min. Luiz Fux, 1ª Turma, DJe 09.5.2011; RE 440.458-AgR/RS, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 06.5.2005; e RE 594.515-AgR/RN, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 22.5.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL. CONTROLE DE CONSTITUCIONALIDADE. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE. EXISTÊNCIA DE PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. RESERVA DE PLENÁRIO. DESNECESSIDADE. TRIBUTÁRIO. MULTA. DESPROPORCIONALIDADE. GRAVIDADE OU POTENCIAL OFENSIVO DO ATO PUNIDO. ART. 97 DA CONSTITUIÇÃO. Como o acórdão recorrido está em conformidade com os precedentes da Corte sobre a matéria de fundo (desproporcionalidade de multa tributária), é inexigível a submissão da controvérsia ao Plenário (art. 481, par. ún., do CPC). Agravo regimental ao qual se nega provimento.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 19 de setembro de 2013.
+Ministra Rosa Weber
+Relatora
