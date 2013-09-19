@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado de Minas Gerais que negou seguimento ao recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO – CONTRIBUIÇÃO PREVIDENCIÁRIA – CUSTEIO SAÚDE – COMPULSORIEDADE – INCONSTITUCIONALIDADE RECONHECIDA PELA CORTE SUPERIOR DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA – SERVIDORA TITULAR DE DOIS CARGOS – DUPLICIDADE DE DESCONTOS INDEVIDA – RESTITUIÇÃO DOS VALORES DESCONTADOS – POSSIBILIDADE EXCEPCIONAL – HONORÁRIOS ADVOCATÍCIOS – APLICABILIDADE DO DISPOSTO NO ART. 20, §§ 3º E 4º, DO CPC – PRECEDENTES. A duplicidade de descontos relativos à contribuição previdenciária destinada ao custeio da assistência saúde (LC nº 64/02) caracteriza ‘bis in idem’, sendo cabível a suspensão do desconto incidente sobre o vencimento de um dos cargos, mantido o benefício previdenciário.” (eDOC 2, p. 92)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se violação ao artigo 3º do texto constitucional.
+    Defende-se, em síntese, que a devolução dos valores arrecadados ao longo do tempo à recorrida, viola o princípio da segurança jurídica e a teoria do fato consumado.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Nos termos do art. 102, III, da Constituição Federal, admite-se o recurso extraordinário contra decisão de única ou última instância, o que não ocorre neste caso. Constata-se que os recorrentes não esgotaram as vias recursais ordinárias, uma vez que era cabível o recurso de embargos infringentes previsto no art. 530 do Código de Processo Civil. Portanto, incide, no caso, a Súmula 281 desta Corte. Nesse sentido, transcrevo a ementa do AI-AgR 626.371, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 13.3.2009:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE ESGOTAMENTO DA VIA RECURSAL ORDINÁRIA. SÚMULA 281 DO STF. DISPOSITIVO AUTORIZADOR DO RECURSO EXTRAORDINÁRIO. INDICAÇÃO. AUSÊNCIA. AGRAVO IMPROVIDO. I - A recorrente não esgotou a via recursal ordinária (Súmula 281 do STF), visto que a medida cabível seria a oposição de embargos infringentes. II - A indicação correta do dispositivo constitucional autorizador do recurso extraordinário - artigo, inciso e alínea - é requisito indispensável ao seu conhecimento, a teor do art. 321 do RISTF e da pacífica jurisprudência do Tribunal. III - Agravo regimental improvido.”
+    No mesmo sentido, cito, ainda, os seguintes julgados: RE 488.827-AgR/RN, de minha relatoria, AI 686.751-AgR/SC, Rel. Min. Ayres Britto; RE 399.785-AgR/PB, Rel. Min. Joaquim Barbosa; AI 670.775-AgR/SP, Rel. Min. Cármen Lúcia; AI 633.044-AgR/PI, Rel.Min. Eros Grau; AI 531.419/MG, Rel. Min. Celso de Mello; RE 592.615/RS, Rel. Min. Cezar Peluso.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 19 de setembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
