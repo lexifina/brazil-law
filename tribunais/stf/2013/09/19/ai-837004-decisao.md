@@ -1,0 +1,30 @@
+DECISÃO
+    Vistos.
+    Município de Teófilo Otoni interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 2º da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “EMBARGOS À EXECUÇÃO - OBRIGAÇÃO DE FAZER - TERMO DE AJUSTAMENTO DE CONDUTA - TÍTULO EXECUTIVO EXTRAJUDICIAL - VIOLAÇÃO DO PRINCÍPIO DA SEPARAÇÃO DOS PODERES - AUSÊNCIA - DESCUMPRIMENTO DAS OBRIGAÇÕES ASSUMIDAS - NATUREZA DISCRICIONÁRIA - PRÉVIA AVALIAÇÃO DA CONVENIÊNCIA E OPORTUNIDADE - SENTENÇA MANTIDA. O Termo de Ajustamento de Conduta consubstancia título executivo extrajudicial previsto no art. 585, VIII, do CPC, c/c § 6º do art. 5º da Lei 7.347/85. Não há que se falar em nulidade de TAC que tem por objeto obrigação de fazer, ao argumento de que violaria o princípio da separação dos poderes, pois, se o Município firmou o acordo com o Ministério Público, de forma livre, com prévia avaliação da conveniência e oportunidade, é porque entendeu necessária a implantação das medidas nele previstas. Não logrando o embargante comprovar o cumprimento das cláusulas avençadas, deve prosseguir a execução”.
+    Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Wagner de Castro Mathias Netto, pelo “desprovimento do agravo”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, uma vez que o Tribunal de origem reconheceu a legalidade do Termo de Conduta em questão, sob o seguinte fundamento:
+    “(...)
+    Na hipótese dos autos, não obstante o compromisso assumido em 31/10/2006 - há quase 03 anos -, o Município deixou de cumprir algumas obrigações, o que levou o Ministério Público a ajuizar ação de execução.
+    Alega o Município embargante que ao se obrigar ao TAC, utilizou-se da conveniência e oportunidade, mas alterações financeiras e administrativas mitigaram a possibilidade de cumprimento da totalidade das cláusulas assumidas.
+    Da leitura do TAC, acostado às ff.02/11 dos autos nº 1.0686.07.206365-0/001 (em apenso), verifica-se que o Município aderiu de forma livre às suas cláusulas, não logrando êxito em comprovar o seu cumprimento total até o momento.
+    Não obstante a natureza discricionária de algumas medidas, no presente caso, o embargante (através da atual Prefeita Municipal e do Secretário Municipal de Saúde), após avaliar a conveniência e oportunidade de tais obrigações, optou livremente por assinar o TAC, comprometendo-se a realizá-las.
+    As obrigações foram assumidas por quem tinha poderes, de forma consensual, com a fixação de prazos e condições para a sua consecução, e sem qualquer objeção.
+    Cumpre destacar que o TAC foi firmado pela Municipalidade, voluntariamente e no exercício de sua autonomia constitucional, não existindo comando legal impondo às autoridades públicas a celebração de tal acordo.
+    Portanto, não há que se falar em nulidade do TAC, ao argumento de que violaria o princípio da separação dos poderes, pois, se o Município firmou o acordo com o Ministério Público, de forma livre, com prévia avaliação da conveniência e oportunidade das cláusulas, é porque entendeu necessária a implantação das medidas nele previstas”.
+    Como visto, não há falar em violação ao princípio da separação dos poderes em face da discricionariedade da administração pública, uma vez que o acórdão recorrido baseou seu entendimento amparado no fundamento de que o agravante aderiu livremente às cláusulas do acordo firmado com o agravado.
+    Especificamente sobre o tema em questão, transcrevo o seguinte trecho da fundamentação da decisão proferida pela Ministra Cármen Lúcia, em caso análogo ao presente, nos autos do AI nº 857.072/MG (DJe de 6/2/13):
+    “(...)
+    5. A alegação de desrespeito à discricionariedade do administrador público não guarda relação com o fundamento do julgado recorrido (exigibilidade de obrigação voluntariamente assumida pelo administrador), pelo que incide na espécie vertente a Súmula n. 284 do Supremo Tribunal:
+    ‘AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO’ (AI 740.817-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009 - grifos nossos).
+    ‘1. RECURSO. Embargos de declaração. Deficiência na fundamentação do recurso. Súmula 284. Embargos rejeitados. Há fundamentação deficiente de recurso, quando não revele correlação entre as suas razões e os fundamentos da decisão recorrida. 2. RECURSO. Embargos de declaração. Caráter meramente protelatório. Litigância de má-fé. Imposição de multa. Aplicação do art. 538, § único, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a oposição de embargos de declaração manifestamente protelatórios, deve o Tribunal condenar o embargante a pagar multa ao embargado’ (RE 511.693-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 19.12.2008 - grifos nossos).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 19 de setembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
