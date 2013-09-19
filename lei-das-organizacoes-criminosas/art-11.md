@@ -1,0 +1,1 @@
+Art. 11. O requerimento do Ministério Público ou a representação do delegado de polícia para a infiltração de agentes conterão a demonstração da necessidade da medida, o alcance das tarefas dos agentes e, quando possível, os nomes ou apelidos das pessoas investigadas e o local da infiltração.
