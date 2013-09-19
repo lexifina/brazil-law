@@ -1,0 +1,14 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 150, inciso VI, alínea “c”, e § 4º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que para ultrapassar o entendimento do Tribunal de origem acerca da análise da utilização da renda de locação do bem imóvel nas finalidades essenciais da ora recorrida e acerca da verificação do preenchimento dos requisitos disciplinados na norma infraconstitucional para fins de configuração da imunidade tributária seria necessário o reexame do conjunto fático-probatório dos autos, o que é inviável em sede de apelo extremo, a teor do enunciado da Súmula n° 279 desta Corte. Nesse sentido:
+    “EMENTA Agravo regimental no agravo de instrumento. Tributário. IPTU. Imunidade. Finalidade do imóvel. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A Corte de origem, com fundamento nos fatos e nas provas dos autos, concluiu não ser possível conceder a imunidade tributária pleiteada pela ora agravante. 2. Não se presta o recurso extraordinário ao reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido” (AI n° 742.339/PR-AgR, Primeira Turma, de minha relatoria, DJe de 20/9/12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMUNIDADE RECÍPROCA. AUTARQUIA. IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - IPTU. VINCULAÇÃO DO IMÓVEL ÀS FINALIDADES ESSENCIAIS. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n° 378.136/AgR-DF, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 5/2/10).
+    “TRIBUTÁRIO. IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU. IMUNIDADE TRIBUTÁRIA RECÍPROCA. DESTINAÇÃO ÀS FINALIDADES ESSENCIAIS. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 279-STF. TAXA DE LIMPEZA E ILUMINAÇÃO PÚBLICA DO MUNICÍPIO DE BELO HORIZONTE. LEI MUNICIPAL 5.641/89. INCONSTITUCIONALIDADE. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos e provas da causa, procedimento vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. A decisão agravada está em conformidade com o entendimento firmado por ambas as Turmas desta Corte de que a cobrança da Taxa de Limpeza Pública, instituída pela Lei 5.641/89 do Município de Belo Horizonte, é inviável. Agravo regimental a que se nega provimento” (AI n° 478.499/MG, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 7/5/10).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
