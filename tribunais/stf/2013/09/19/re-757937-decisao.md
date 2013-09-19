@@ -1,0 +1,17 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. ADICIONAL DE HORAS EXTRAS.
+    É legítima a incidência de contribuição previdenciária sobre o adicional de horas extras diante do caráter remuneratório de tal verba.”
+    A parte recorrente, ao deduzir este apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República Dr. WAGNER DE CASTRO MATHIAS NETTO, ao opinar pelo provimento do recurso extraordinário em questão, formulou parecer assim ementado:
+    “Recurso extraordinário. Arts. 7º, XVI e 195, I, ‘a’, da CRFB/88. Horas extras. Inviabilidade de incidência de contribuição previdenciária patronal. Pelo provimento da iniciativa.”
+    Entendo assistir razão ao parecer da douta Procuradoria-Geral da República, no ponto em que opina pelo provimento do presente recurso extraordinário, cujos termos adoto como fundamento desta decisão, valendo-me, para tanto, da técnica da motivação “per relationem”, reconhecida como plenamente compatível com o texto da Constituição (AI 738.982/PR, Rel. Min. JOAQUIM BARBOSA – AI 809.147/ES, Rel. Min. CÁRMEN LÚCIA – AI 814.640/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 662.029/SE, Rel. Min. CELSO DE MELLO – HC 54.513/DF, Rel. Min. MOREIRA ALVES – MS 28.989-MC/PR, Rel. Min. CELSO DE MELLO – RE 37.879/MG, Rel. Min. LUIZ GALLOTTI – RE 49.074/MA, Rel. Min. LUIZ GALLOTTI, v.g.):
+    “Reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação ‘per relationem’, que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado – referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir. Precedentes.”
+    (AI 825.520-AgR-ED/SP, Rel. Min. CELSO DE MELLO)
+    Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 545.317-AgR/DF, Rel. Min. GILMAR MENDES, fixou entendimento que torna plenamente acolhível a pretensão de direito material deduzida pela parte ora recorrente:
+    “Agravo regimental em recurso extraordinário. 2. Prequestionamento. Ocorrência. 3. Servidores públicos federais. Incidência de contribuição previdenciária. Férias e horas extras. Verbas indenizatórias. Impossibilidade. 4. Agravo regimental a que se nega provimento.”
+    O exame da presente causa evidencia que o acórdão ora questionado diverge, frontalmente, da orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, pelas razões expostas, conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º-A), em ordem a conceder o mandado de segurança impetrado pela parte ora recorrente. No que concerne à verba honorária, revela-se aplicável o enunciado constante da Súmula 512/STF, reafirmada, agora, pelo art. 25 da Lei nº 12.016/2009.
+    Publique-se.
+    Brasília, 19 de setembro de 2013.
+Ministro CELSO DE MELLO
+Relator
