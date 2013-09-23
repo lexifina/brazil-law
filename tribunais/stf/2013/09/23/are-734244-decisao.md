@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDÊNCIA PRIVADA. RESGATE DAS CONTRIBUIÇÕES. RECURSO CONTRA ACÓRDÃO DO STJ. CONTROVÉRSIA CONSTITUCIONAL SURGIDA NA INSTÂNCIA ORDINÁRIA. INADMISSIBILIDADE DO RE. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA.
+1.  O recurso extraordinário contra acórdão do Superior Tribunal de Justiça proferido em recurso especial só é cabível quando a questão constitucional objeto da controvérsia for diversa da decidida pela instância ordinária. Assim, o apelo extremo só será legítimo quando a suposta violação constitucional tiver sido, originariamente, apreciada pela Corte Especial. Precedentes: RE 750.300-ED, Rel. Min. Celso de Mello, DJe de 6/9/2013, ARE 644.906-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 12/4/2012.
+2. A decisão judicial tem de ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+3. In casu, o acórdão recorrido assentou: “AGRAVO REGIMENTAL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. PROPÓSITO INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Os embargos interpostos pela Embargante tem nítido propósito infringente, assim, admite-se esse recurso como Agravo Regimental, em nome dos princípios da economia processual e da fungibilidade, e com amparo na jurisprudência assente desta Corte. 2.- A reposição da correção monetária, quando devida nas relações jurídicas relacionadas à previdência privada, deve ser plena, nos termos da Súmula 289/STJ. 3.- Estando o acórdão de origem em sintonia com o entendimento jurisprudencial deste Tribunal, incide a Súmula 83/STJ. 4.- O Código de Defesa do Consumidor é aplicável à relação jurídica entre a entidade de previdência privada e seus participantes (Súmula 321/STJ). 5.- Agravo Regimental improvido.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pela FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. PROPÓSITO INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+    1.- Os embargos interpostos pela Embargante tem nítido propósito infringente, assim, admite-se esse recurso como Agravo Regimental, em nome dos princípios da economia processual e da fungibilidade, e com amparo na jurisprudência assente desta Corte.
+    2.- A reposição da correção monetária, quando devida nas relações jurídicas relacionadas à previdência privada, deve ser plena, nos termos da Súmula 289/STJ.
+    3.- Estando o acórdão de origem em sintonia com o entendimento jurisprudencial deste Tribunal, incide a Súmula 83/STJ.
+    4.- O Código de Defesa do Consumidor é aplicável à relação jurídica entre a entidade de previdência privada e seus participantes (Súmula 321/STJ).
+    5.- Agravo Regimental improvido.”
+    Opostos embargos de declaração, foram eles rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXV e LV, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo derradeiro, por não vislumbrar ofensa direta à Constituição Federal.
+    É o breve relatório. DECIDO.
+    Não merece prosperar o presente agravo.
+    Esta Corte já firmou entendimento no sentido de que só cabe recurso extraordinário contra acórdão do Superior Tribunal de Justiça, proferido no julgamento do recurso especial, quando a questão constitucional objeto da controvérsia for diversa da decidida pela instância ordinária. Assim, o apelo extremo só será cabível quando a suposta violação constitucional tiver sido, originariamente, apreciada pela Corte Especial. Nesse sentido, menciono as seguintes decisões, entre outras: RE 750.300-ED, Rel. Min. Celso de Mello, DJe de 6/9/2013, ARE 644.906-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 12/4/2012, que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE ACÓRDÃO DO STJ. INVIABILIDADE. AUSÊNCIA DE QUESTÃO DIVERSA DA DECIDIDA PELA INSTÂNCIA ORDINÁRIA. AGRAVO IMPROVIDO. I – Somente se admite recurso extraordinário de decisão do Superior Tribunal de Justiça se a questão constitucional impugnada for nova. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial. II – Agravo regimental improvido.”
+    Relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem de ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte, nesse sentido, AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 23 de setembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
