@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO QUE NÃO INFIRMA FUNDAMENTO DA DECISÃO AGRAVADA: INVIABILIDADE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Quinta Turma do Tribunal Regional Federal da 4ª Região decidiu:
+    “PREVIDENCIÁRIO. REVISÃO. ATUALIZAÇÃO DO MAIOR E MENOR VALOR TETO DO SALÁRIO-DE-CONTRIBUIÇÃO. INPC. LEI N. 6.708/1979. DIB POSTERIOR À PORTARIA MPAS N. 2.840/1982. REAJUSTE DA RENDA MENSAL. LIMITAÇÃO AO TETO. CONSTITUCIONALIDADE. 1. A partir de maio de 1979, por força do artigo 1º, § 3º, da lei n. 6.205/1975, na redação dada pela Lei n. 6.708/1979, a atualização do menor e maior valor teto passa a ser realizada com base na variação do INPC. 2. Com a edição da Portaria MPAS n. 2.840, de 30.4.82 (DO de 4.5.82, p. 7949-50), quando estabelecido o teto máximo em Cr$ 282.900,00, verifica-se que o INSS recompõe os valores-teto pela variação acumulada do INPC desde maio/1979, segundo índices vigentes à época. 3. A existência de prejuízo no cálculo da renda mensal inicial é limitada àqueles benefícios cujas datas de início estão compreendidas entre novembro de 1979 e abril de 1982, quando editada a Portaria MPAS n. 2.840/1982, que estabelece os valores-teto em conformidade com o disposto na Lei n. 6.708/1979. 4. Não há qualquer inconstitucionalidade ou ilegalidade, por ocasião do cálculo do benefício, na aplicação dos tetos sobre o salário-de-contribuição (§ 5º do art. 28 da Lei n. 8.212/1991), salário-de-benefício (§ 2º do art. 29 da Lei n. 8.213/1991) e renda mensal inicial (art. 33 da atual Lei de Benefícios). Precedentes do STJ e STF. 5. O Supremo Tribunal Federal já decidiu que os critérios estabelecidos na Lei n. 8.213/1991 e na legislação previdenciária correlata cumprem as disposições constitucionais que asseguram a irredutibilidade e a preservação do valor real dos benefícios. Precedentes: RE n. 203.867-9, RE n. 313.382-9, RE n. 376.846-8. 6. Apelação da parte autora improvida” (fl. 122).
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal e a ausência de contrariedade direta à Constituição da República.
+    4. O Agravante argumenta que
+    “a não admissão do recurso extraordinário interposto foi fundamentado no não prequestionamento da matéria ora versada.
+    Ocorre que, conforme exposto na petição inicial, em anexo, bem como em sentença e acórdão, a decisão recorrida entendeu pela impossibilidade de aproveitamento do excedente ao teto do reajuste subsequente, mesmo em razão das ECs 20/98 e 41/03, senão vejamos: (...).
+    Diante do exposto, flagrante a ofensa às Emendas Constitucionais 20/98 e 41/03, haja visa que alteração do teto do salário-de-contribuição dever repercutir na aposentadoria do recorrente, isto porque, não fosse o teto, perceberia quantia superior. Uma vez majorado o patamar máximo, o valor retido em razão do quantitativo anterior observado sob o mesmo título há de ser recalculado” (fls. 167-168).
+    No recurso extraordinário, alega-se que o Tribunal a quo teria contrariado as Emendas Constitucionais ns. 20/1998 e 41/2003.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Os argumentos expostos neste agravo não infirmam os fundamentos da decisão agravada, pois o Agravante não se manifestou quanto à ausência de contrariedade direta à Constituição da República, fundamento autônomo e suficiente para sustentar a inviabilidade do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. É INCABÍVEL O AGRAVO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 739.989-AgR, de minha relatoria, Segunda Turma, DJe 30.8.2013).
+    Nada há a prover quanto às alegações do Agravante, mantendo-se a decisão agravada por subsistir fundamento não infirmado.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de setembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
