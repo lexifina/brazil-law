@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. Quanto à questão relacionada ao prazo prescricional da pretensão de repetição de indébito, não merece qualquer reparo o acórdão recorrido, pois decidiu nos termos do entendimento firmado pelo Plenário desta Corte no julgamento do Tema 4 da Repercussão Geral (RE 566.621, Rel. Min. ELLEN GRACIE, DJe de 11.10.11). Considerada a especial eficácia vinculativa desse julgado (CPC, art. 543-B, § 3º), impõe-se sua aplicação, nos mesmos termos, aos casos análogos, como o dos autos.
+    3. No mais, a alegação de ofensa aos limites da coisa julgada e aos princípios do devido processo legal, do contraditório e da ampla defesa, diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta Corte na análise do ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660), por se tratar de questão infraconstitucional. Registre-se que a decisão de inexistência de repercussão geral tem eficácia em relação a todos os recursos sobre matéria idêntica (art. 543-A, § 5º, do CPC c/c art. 327, § 1º, do RISTF).
+    Quanto à alegação de ofensa ao art. 5º, II, da Constituição Federal, em relação ao princípio da legalidade, incide o óbice da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida. De fato, a argumentação recursal gira basicamente em torno de normas infraconstitucionais (Lei 8.212/91, arts. 22, I e II, 22B e 25; CTN, arts. 119, 142 e 146; LINDB, art. 2º, § 3º), de modo que eventual ofensa constitucional, se houvesse, seria meramente reflexa.
+    4. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 23 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
