@@ -1,0 +1,39 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO OU DE OUTRA AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o julgado da Turma Recursal de Santa Catarina que confirmou a seguinte sentença de Primeiro Grau:
+    “A controvérsia abrange: a) o reconhecimento e o cômputo do tempo de atividade rural, em regime de economia familiar, nos períodos de 27/01/1967 a 03/06/1977 e de 01/01/1989 a 07/05/1989; b) o reconhecimento dos períodos de 31/07/2003 a 10/11/2005 e de 27/07/2006 a 01/11/2006, em que a autora esteve em gozo de auxílio-doença, para efeito de tempo de serviço e carência, respectivamente; e c) a concessão do benefício de aposentadoria por tempo de contribuição, requerido administrativamente em 26/04/2010 e indeferido.
+    (...)
+    Quanto ao cômputo dos períodos em que a autora esteve em gozo de auxílio-doença, de 31/07/2003 a 10/11/2005 e de 27/07/2006 a 01/11/2006, para efeito de carência, tenho que tal pleito deve ser julgado procedente.
+    Ocorre que, nos termos do art. 55, II, da Lei nº 8.213/91 deve ser computado como tempo de serviço, o tempo intercalado em que o segurado esteve em gozo de auxílio-doença ou aposentadoria por invalidez.
+    No mesmo sentido, o art. 60, inciso III, do Regulamento da Previdência Social, Decreto nº 3.048/99, dispondo sobre a contagem de tempo de contribuição, prevê "o período em que o segurado esteve recebendo auxílio-doença ou aposentadoria por invalidez, entre períodos de atividade".
+    Nesse contexto, conforme se extrai do demonstrativo de tempo de serviço/contribuição das fls. 34/35 do PROCADM7, a autora exerceu atividade laborativa em momento anterior e posterior aos referidos lapsos em que esteve em benefício por incapacidade, fazendo jus, portanto, ao cômputo de tais intervalos para fins de carência, uma vez que intercalados entre períodos de atividade.
+    Destaque-se que o TRF da 4ª Região já solidificou entendimento nesse sentido, interpretando que o período em que houve percepção de benefício por incapacidade deve ser computado para efeito de carência, ante a ausência de vedação legal:
+    APOSENTADORIA POR IDADE. ART. 48 DA LEI 8.213, de 1991. É devida a aposentadoria por idade ao segurado urbano que tenha preenchido a carência mínima e implementado o requisito etário, nos termos dos arts. 48 e 142 da Lei nº 8.213, de 1991. PERÍODO EM GOZO DE AUXÍLIO-DOENÇA. CARÊNCIA. Deve ser computado, para todos os fins, inclusive carência, o período em que o segurado recebe auxílio-doença. (TRF4, 5ª Turma, APELREEX 200871990005358, Rel. Des. Federal Rômulo Pizzolatti, publicado no D.E. de 13/04/2009)
+    Há, ainda, súmula da Turma Regional de Uniformização no mesmo sentido:
+    Súmula 7: Computa-se para efeitos de carência o período em que o segurado usufruiu benefício previdenciário por incapacidade.
+    E também é o entendimento da Turma Nacional de Uniformização:
+    "PEDIDO DE UNIFORMIZAÇÃO. CONHECIMENTO. APOSENTADORIA POR IDADE. CÔMPUTO, COMO PERÍODO DE CARÊNCIA, DO PERÍODO DURANTE O QUAL O SEGURADO PERCEBEU AUXÍLIO-DOENÇA.
+    Comprovado o dissenso jurisprudencial entre Turmas Recursais de diferentes regiões, sobre tema de direito material, deve ser conhecido o pedido de uniformização nele secundado.
+    O tempo durante o qual o segurado esteve em gozo de auxílio-doença deve ser computado como período de carência, para fins de concessão de aposentadoria por idade". (TNU, Proc. nº 2007.63.06.00.1016-2, Rel. Juiz Federal Sebastião Ogê Muniz, DJU 07.07.2008)
+    Destarte, os períodos em que a autora esteve em gozo do benefício de auxílio-doença, de 31/07/2003 a 10/11/2005 e de 27/07/2006 a 01/11/2006, intercalados entre períodos de atividade, deverão ser computados integralmente para efeito de carência pelo INSS.
+    Assim, às 154 contribuições já computadas, deverão ser acrescidas outras 31 contribuições, referentes aos lapsos de 31/07/2003 a 10/11/2005 e de 27/07/2006 a 01/11/2006” (grifos nossos).
+    2. O Recorrente alega que a Turma Recursal teria contrariado os arts. 5º, caput, 195, § 5º e 201, caput, e § 1º da Constituição da República.
+    Assevera que “o presente recurso é dirigido contra acórdão da Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul que acolheu a pretensão da parte autora no sentido de considerar como carência o período em que recebeu auxílio-doença, para fins de concessão de benefício de aposentadoria por idade ou por tempo de contribuição” (grifos no original).
+    Argumenta que “recentemente, o e. Supremo Tribunal confirmou essa orientação no julgamento do RE 583.834/SC, Rel. Min. Ayres Britto, 21-09-2011 (DJe 30- 09-2011) e repudiou quaisquer interpretações que resultassem em tempo ficto de contribuição” (grifos no original).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de estar a decisão recorrida em consonância com a jurisprudência do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao Agravante, que não trouxe argumentos capazes de afastar o fundamento do juízo negativo de admissibilidade, exercido pelo Presidente da Turma Recursal.
+    O caso trata da mesma matéria analisada no recurso extraordinário n. 583.834. E a decisão de inadmissão atende ao que decidiu este Supremo Tribunal no agravo interposto pelo Instituto Nacional do Seguro Social - INSS, também contra Turma Recursal da Seção Judiciária do Rio Grande do Sul, no ARE n. 761.261, Relator o Ministro Teori Zavascki, com trânsito em julgado (DJe 4.9.2013).
+    Confira-se:
+    “DECISÃO: 1. Trata-se de agravo de decisão que, aplicando entendimento firmado por este Supremo Tribunal Federal em sede de recurso extraordinário submetido à sistemática da repercussão geral, não admitiu recurso extraordinário.
+    2. O Plenário desta Corte firmou o entendimento de que não cabe recurso ou reclamação ao Supremo Tribunal Federal para rever decisão do Tribunal de origem que aplica a sistemática da repercussão geral, a menos que haja negativa motivada do juiz em se retratar para seguir a decisão da Suprema Corte (AI 760.358 QO, Rel. Min. GILMAR MENDES; Rcl 7.569 e Rcl 7.547, Rel. Min. ELLEN GRACIE, DJe de 11.12.2009; AI 783.839 ED, Rel. Min. CEZAR PELUSO (Presidente), Tribunal Pleno, DJe 01/02/2011; ARE 682753 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 01/08/2012).
+    3. Ademais, há divergência entre o juízo de origem e o recorrente no que toca à aplicação e à extensão do que foi decidido por esta Corte no RE 583.834-RG (Rel. Min. AYRES BRITTO, DJe de 01/08/2008) - TEMA 88, quanto ao ajuste do acórdão recorrido à orientação firmada no julgamento do recurso paradigma.
+    Deste modo, à luz da jurisprudência pacífica do Supremo Tribunal Federal, uma vez aplicada a sistemática da repercussão geral na origem, eventual reexame da adequação entre o presente caso e o  leading case é de competência do juízo a quo, mediante interposição de agravo regimental.”Grifos nossos.
+    A jurisprudência citada nesse precedente, no sentido de não caber agravo para o Supremo contra decisão que aplica a sistemática da repercussão geral na origem, amolda-se à espécie, assim como o ARE 685.011 e ARE 709.415, ambos de minha relatoria, com trânsito em julgado, respectivamente, em 26.4.2013 e 12.3.2013.
+    5. Pelo exposto, não conheço deste agravo (art. 544, § 4º, inc. II, alínea a , do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de setembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
