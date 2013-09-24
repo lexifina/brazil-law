@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF08 nº 172, de 1º de agosto de 2013
+Assunto: Regimes Aduaneiros REPORTO. É permitida a transferência de bens adquiridos no mercado interno ou importados ao amparo do Reporto por um estabelecimento habilitado a esse Regime a outro estabelecimento da mesma pessoa jurídica também habilitado, desde que o bem seja utilizado na mesma finalidade que motivou a suspensão de que trata o caput do art. 14 da Lei nº 11.033, de 2004. Dispositivos Legais: Lei nº 11.033, de 2004, art. 14, caput e §§ 5º e 6º; Instrução Normativa RFB nº 879, de 2008, arts. 1º e 2º.
+Assunto: Regimes Aduaneiros
+REPORTO. É permitida a transferência de bens adquiridos no mercado interno ou importados ao amparo do Reporto por um estabelecimento habilitado a esse Regime a outro estabelecimento da mesma pessoa jurídica também habilitado, desde que o bem seja utilizado na mesma finalidade que motivou a suspensão de que trata o caput do art. 14 da Lei nº 11.033, de 2004.
+Dispositivos Legais: Lei nº 11.033, de 2004, art. 14, caput e §§ 5º e 6º; Instrução Normativa RFB nº 879, de 2008, arts. 1º e 2º.
