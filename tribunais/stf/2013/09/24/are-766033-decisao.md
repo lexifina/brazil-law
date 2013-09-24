@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de São Paulo em demanda visando ao reconhecimento de imunidade tributária quanto ao IPTU cobrado em razão da propriedade de bens imóveis de entidade de assistência social. O Tribunal de origem manteve a sentença de improcedência ao argumento de que a demandante não comprovou o atendimento aos requisitos do art. 14 do CTN.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos artigos 150, VI, “c” da Constituição Federal e à Súmula 724 do STF, asseverando, em síntese, que preenche os requisitos e faz jus à imunidade pleiteada para isentar-se do pagamento do IPTU, mesmo em se tratando dos imóveis alugados.
+    2. O Tribunal de origem decidiu a controvérsia tão somente a partir de interpretação e aplicação das normas infraconstitucionais pertinentes (art. 14 do Código Tributário Nacional). Conforme reiterada jurisprudência desta Corte, é inviável a apreciação, em sede de recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: ARE 728.634 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 28/05/2013; RE 570902 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe 01-08-2012.
+    3. Ademais, o acórdão recorrido concluiu pela ausência de provas para o reconhecimento da imunidade tributária quanto ao IPTU (fls. 236), exigidas expressamente pela parte final da Súmula 724/STF (Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel pertencente a qualquer das entidades referidas pelo art. 150, VI, c, da Constituição, desde que o valor dos aluguéis seja aplicado nas atividades essenciais de tais entidades). Assim, refutar essas afirmações demanda a reapreciação do conjunto fático-probatório dos autos, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a Súmula 279 do STF.
+    4. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 24 de setembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
