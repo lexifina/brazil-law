@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário criminal interposto pelo Ministério Público de Sergipe contra acórdão da Câmara Criminal do Tribunal de Justiça do Estado de Sergipe, que deu parcial provimento ao recurso de apelação, para reduzir a pena-base aquém do mínimo legal diante do reconhecimento das circunstâncias atenuantes da confissão espontânea e da menoridade (art. 65, I e III, d, do Código Penal).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação ao art. 5º, inciso XLVI, da mesma Carta.
+    O recurso merce acolhida. Isso porque o acórdão recorrido divergiu da orientação jurisprudencial assentada nesta Corte no sentido da impossibilidade da fixação da pena aquém do mínimo legal, por força de atenuante genérica.
+    O tema foi submetido ao Plenário Virtual para análise da existência de repercussão geral no RE 597.270 QO-RG/RS, Rel. Min. Cezar Peluso, DJe 4/6/2009. Naquela oportunidade, esta Corte, além de reconhecer a existência de repercussão geral da questão suscitada, reafirmou a jurisprudência dominante sobre a matéria no sentido da impossibilidade de fixação da pena abaixo do mínimo legal por força de circunstância atenuante genérica. O acórdão recebeu a seguinte ementa:
+    “AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal”.
+    No mesmo sentido, enumero os seguintes precedentes: AI 819.339 AgR/SP e ARE 643.603 AgR/DF, ambos de relatoria do Ministro Ayres Britto; HC 93.141/RS, Rel. Min. Ellen Gracie; HC 94.365/RS, Rel. Min. Menezes Direito; HC 92.203/RS, Rel. Min. Eros Grau; HC 93.821/RS, Rel. Min. Cármen Lúcia; HC 74.048/SP, Rel. Min. Néri da Silveira.
+    Isso posto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do CPC), para cassar o acórdão recorrido e restabelecer a sentença.
+    Publique-se.
+    Brasília, 24 de setembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
