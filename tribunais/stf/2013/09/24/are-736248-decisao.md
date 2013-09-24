@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça Militar do Estado do Rio Grande do Sul de inadmissibilidade ao recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+          “EMBARGOS INFRINGENTES. PROCESSUAL CIVIL. (APELAÇÃO CÍVEL). ADMINISTRATIVO. MILITAR ESTADUAL. CONSELHO DE DISCIPLINA. DELITO PRATICADO QUANDO AINDA NA ATIVA. CONDENAÇÃO PELA JUSTIÇA COMUM A PENA SUPERIOR A 4 ANOS DE RECLUSÃO. EXCLUSÃO DA BRIGADA MILITAR A BEM DA DISCIPLINA. PRESCRIÇÃO. INOCORRÊNCIA. AÇÃO ORDINÁRIA. SENTENÇA DE IMPROCEDÊNCIA.
+    1. A Lei Complementar nº 10.990/97 (Estatuto dos Servidores Militares da Brigada Militar do Estado do Rio Grande do Sul) é a legislação que regula os militares estaduais, sendo-lhe aplicado as disposições contidas no Decreto Federal nº 71.500/72, que dispõe sobre o Conselho de Disciplina. 2. Na hipótese de condenação pela Justiça Comum à pena restritiva de liberdade superior a dois anos, sem que o juízo determine a perda da função pública, como in casu, o Conselho de Disciplina, com fulcro em uma ou mais alíneas do inc. I do art. 2º do Decreto nº 71.500/72, deve ser instaurado a qualquer tempo, ou mesmo após o trânsito em julgado da sentença criminal condenatória. 3. O parágrafo único do artigo 17, do Decreto nº 71.500/72 prevê que os casos também previstos no Código Penal Militar como crime prescrevem nos prazos nele estabelecidos. 4. Tendo sido condenado o embargado à pena de 4 anos e 8 meses de reclusão, analisando-se o art. 125, IV, do CP Militar, que trata da prescrição, essa ocorrerá em 12 anos, a contar da data do julgamento. Ter entendimento contrário, é dar maior rigor às penas aplicadas não superiores a dois anos.
+    EMBARGOS ACOLHIDOS POR MAIORIA.” (eDOC 7, p. 56)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se violação ao artigo 37 do texto constitucional.
+    Na espécie, argumenta-se, em síntese, que o Tribunal de origem violou o artigo 37, da Constituição Federal, em razão de não ter aplicado o prazo prescricional previsto no artigo 17, do Decreto nº 71.500/72.
+    Aduz-se, ainda, que o acórdão recorrido afrontou o princípio do não bis in idem, em virtude do recorrente já ter sido submetido a punição administrativa quando instaurado o processo administrativo disciplinar perante o Conselho de Disciplina.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Na espécie, verifico que o Tribunal Local dirimiu a controvérsia dos autos a respeito do prazo prescricional, com fundamento na análise da legislação infraconstitucional pertinente (Código Penal Militar).
+    A jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que a questão relativa à incidência da prescrição está restrita à interpretação da legislação infraconstitucional e ao reexame do conjunto fático-probatório dos autos, o que inviabiliza a interposição do recurso extraordinário. Incidência da Súmula 279 desta Corte.
+    Nesse sentido, anotem-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO E PROCESSUAL CIVIL. DEMISSÃO DE POLICIAL MILITAR. PRESCRIÇÃO. DECRETO N. 20.910/1932. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 830.273, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 26.9.2012).
+    “AGRAVO REGIMENTAL. AÇÃO DE COBRANÇA. PRESCRIÇÃO RECONHECIDA PELO TRIBUNAL A QUO. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXV, DA CONSTITUIÇÃO FEDERAL. IMPROCEDÊNCIA. CONTROVÉRSIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento” (AI-AgR 847.196, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 22.6.2012).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 24 de setembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
