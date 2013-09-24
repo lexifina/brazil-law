@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão que indeferiu a liminar requerida no HC 277.416, em tramitação no Superior Tribunal de Justiça.
+    Extrai-se dos autos que o paciente foi condenado pelo delito de tráfico de drogas (Lei nº 11.343/2006, art. 33, § 4º) porque teria sido surpreendido na posse de 5 pedras de haxixe e 6,7 g de maconha. O Juízo de origem reconheceu a presença dos requisitos do art. 44 do Código Penal e substituiu a pena privativa de liberdade por duas penas restritivas de direitos.
+    Contra a sentença penal condenatória foram interpostos recursos de apelação pela defesa e pelo órgão acusatório. O Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento ao apelo do Ministério Público para afastar a substituição da pena privativa por duas penas restritivas de direito.
+    Transitada em julgado a condenação, o Juízo da Execução Criminal expediu mandado de prisão para o início do cumprimento da pena em regime fechado. Do que se seguiu pedido de revisão criminal, com requerimento de liminar, ao Tribunal Estadual para a alteração do regime prisional e o restabelecimento da substituição da pena deferida na origem.
+    Indeferida a liminar pela Corte estadual, impetrou-se habeas corpus no Superior Tribunal de Justiça, cuja cautelar foi denegada pelo Relator do HC 277.416, Ministro Rogério Schietti Cruz, pelo fundamento de que “substituição da pena com base na ausência de preenchimento dos requisitos subjetivos previstos no inciso III do artigo 44 do Código Penal, o que, primo oculi, afasta a plausibilidade jurídica do direito tido como violado” (eDoc 8, p. 2).
+    Neste habeas corpus, o impetrante reitera a alegação de que ”foram considerados preceitos genéricos para determinar a impossibilidade da substituição da reprimenda por duas penas restritivas de direitos.” Além disso, o impetrante afirma que o paciente é usuário de drogas e que o conjunto probatório da ação penal é insuficiente para a condenação pelo delito de tráfico.
+    Com base nesse arrazoado, requer-se, em sede liminar, a suspensão da Execução Penal nº 101087-5/RS até o julgamento do presente habeas corpus. No mérito, o pedido é de restabelecimento da substituição da pena privativa de liberdade por penas restritivas de direito realizada na sentença penal condenatória.
+    Decido.
+    Inicialmente ressalto que o Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões carentes de fundamentação.
+    No caso dos autos, observo que as decisões das instâncias precedentes não são teratológicas ou carentes de fundamentação. Além disso, o Tribunal de Justiça do Estado do Rio Grande do Sul e o Superior Tribunal de Justiça ainda não se pronunciaram sobre o mérito da pretensão do impetrante, de modo que considero inviável proceder-se a uma dupla supressão de instância
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990, c/c art. 21, § 1º, do RI/STF, não conheço do presente habeas corpus e determino o arquivamento dos autos.
+    Publique-se.
+     Brasília, 24 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
