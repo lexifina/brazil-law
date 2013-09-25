@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL - INDENIZAÇÃO - DANOS MATERIAIS E MORAIS - POLICIAL MILITAR DISPENSADO DE SERVIÇO EXTERNO POR MOTIVO DE SAÚDE - DESIGNAÇÃO IRREGULAR - AGENTE ATINGIDO POR DISPAROS DE ARMA DE FOGO - DANO MORAL CONFIGURADO - LIDE SECUNDÁRIA - DIREITO DE REGRESSO - ART. 37, §6º, DA CF/88 - SUPERIOR HIERÁRQUICO - AUSÊNCIA DE DEMONSTRAÇÃO DE CULPA - SENTENÇA MANTIDA.
+    Em face da aplicação da teoria do risco administrativo, pela qual o dano decorrente de situação de risco criado pela atividade administrativa, deve o Estado de Minas Gerais indenizar policial militar atingido por disparos de arma de fogo ao ser irregularmente designado para o policiamento externo, não obstante a expressa dispensa deste tipo de serviço.
+    Ausente a comprovação de que o superior hierárquico que designou policial para policiamento externo agiu com culpa, por não existir restrição à sua convocação na escala de serviço, não há se falar em dever de ressarcir o ente público (art. 37, §6º da CF/88)” (fl. 278).
+    No Re fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, § 6º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque para se chegar a conclusão contrária à adotada pelo Tribunal de origem acerca do cabimento ou não do instituto de intervenção de terceiro denominado denunciação da lide, bem como no concernente à existência de culpa ensejadora da ação regressiva, necessário seria a análise de normas infraconstitucionais aplicáveis à espécie, além do reexame do conjunto fático probatório constante dos autos, o que inviabiliza o extraordinário a teor da Súmula 279 do STF. Assim, a ofensa à Constituição, se ocorrente, seria indireta. Inviável, portanto, o extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. DENUNCIAÇÃO DA LIDE. MATÉRIA INFRACONSTITUCIONAL. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO IMPROVIDO.
+    I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. Precedentes
+    II – A exigência do art. 93, IX, da Constituição não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento.
+    III - Agravo regimental improvido” (AI 738.306-AgR/SP, de minha relatoria, Segunda Turma).
+     “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE OBJETIVA DO ESTADO. LEGITIMIDADE PASSIVA E DENUNCIAÇÃO DA LIDE. MATÉRIA DE ORDEM PROCESSUAL. E PROBATÓRIA.AGRAVO IMPROVIDO. 1. Necessidade de verificação de responsabilidade por dano causado por terceiros a imóvel sob guarda judicial do Estado. Matéria de ordem processual referente à legitimidade de parte e intervenção de terceiros. 2. Reexame de fatos e provas para eventual desconstituição do acórdão recorrido. Impossibilidade decorrente da incidência da Súmula/STF 279. 3. Precedentes. 4. Agravo regimental improvido” (RE 387.729-AgR/PR, Rel. Min. Ellen Gracie, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de setembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
