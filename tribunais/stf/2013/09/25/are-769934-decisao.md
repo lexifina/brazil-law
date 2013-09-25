@@ -1,0 +1,12 @@
+DECISÃO: A parte ora recorrente, ao deduzir o recurso extraordinário a que se refere o presente agravo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe referir, desde logo, que – com a exceção do tema concernente à alegada transgressão ao preceito inscrito no art. 5º, LIV, da Constituição – os demais temas não se acham devidamente prequestionados.
+    E, como se sabe, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 – RTJ 131/1391 – RTJ 144/300 – RTJ 153/989), incidem as Súmulas 282 e 356 desta Corte (RTJ 159/977).
+    A configuração jurídica do prequestionamento decorre de sua oportuna formulação em momento procedimentalmente adequado. Não basta, no entanto, só arguir, previamente, o tema de direito federal para legitimar o uso da via do recurso extraordinário. Mais do que a satisfação dessa exigência, impõe-se que a matéria constitucional questionada tenha sido efetivamente apreciada na decisão recorrida (RTJ 98/754 – RTJ 116/451).
+    De outro lado, o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 25 de setembro de 2013.
+Ministro CELSO DE MELLO
+Relator
