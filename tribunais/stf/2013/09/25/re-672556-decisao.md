@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário interposto contra acórdão que condenou o Município de Ipatinga ao pagamento do adicional de insalubridade com base no vencimento básico do recorrido, ante a omissão legislativa.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2º, 5º, II, e 37, caput, da mesma Carta, bem como à Súmula Vinculante 4.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+    Cumpre assinalar, ainda, que esta Corte, ao apreciar outros feitos relativos à base de cálculo do adicional de insalubridade dos servidores do Município de Ipatinga, assentou que não contraria a Constituição a decisão de tribunal que, em razão de omissão legislativa e da impossibilidade de vinculação ao salário mínimo, supre lacuna existente na legislação e fixa o vencimento básico do servidor como base de cálculo do adicional de insalubridade. Nesse sentido, cito o RE 635.669-AgR/MG, Rel. Min. Gilmar Mendes:
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Base de cálculo do adicional de insalubridade. 4. Ausência de legislação local que discipline o tema. 5. Vedação de vinculação da base de cálculo do referido adicional ao salário mínimo. Jurisprudência do STF. 6. Acórdão do Tribunal de origem que, ante a omissão legislativa e a impossibilidade de vinculação ao salário minimo, fixa a base de cálculo do adicional de insalubridade de acordo com os vencimentos básicos do servidor. Não há contrariedade à orientação fixada pelo STF, que apenas veda ao Poder Judiciário a alteração do indexador legalmente estabelecido, o que não ocorreu no caso dos autos. 7. Ausência de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental a que se nega provimento”.
+    Com o mesmo entendimento, indico os seguintes precedentes, entre outros: RE 637.335-AgR/MG e RE 635.126-AgR/DF, Rel. Min. Cármen Lúcia; RE 672.565/MG, Rel. Min. Dias Toffoli.
+    Isso posto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de setembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
