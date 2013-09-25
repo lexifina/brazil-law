@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “ADMINISTRATIVO - CONCURSO PÚBLICO - QUESTÕES DE PROVA - REEXAME DOS CRITÉRIOS DE CORREÇÃO PELO JUDICIÁRIO - INCURSÃO NA DISCRICIONARIEDADE ADMINISTRATIVA - IMPOSSIBILIDADE.
+    I - É vedado ao Poder Judiciário o reexame dos critérios usados pela Banca Examinadora na elaboração, correção e atribuição de notas em provas de concurso público, o qual deve limitar-se ao exame da legalidade do procedimento administrativo e da observância das regras contidas no respectivo edital. Entendimento diverso implicaria clara incursão do Judiciário na discricionariedade administrativa e, ainda, violação ao princípio da isonomia entre os candidatos que participaram do concurso.
+    II - Ao Judiciário cabe apenas perquirir a legalidade e constitucionalidade dos atos praticados pela Administração, sem, contudo, adentrar o juízo da oportunidade e conveniência, a fim de que seja preservada a autonomia administrativa dos órgãos públicos. Não se permite ao Poder Judiciário pronunciar-se sobre a eficiência ou justiça do ato administrativo, porque, se assim agisse, estaria a emitir pronunciamento de administração e não jurisdicional.
+    III - Apelação improvida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, caput (princípio da isonomia) e XXXV, e 37, caput, da Constituição. Sustenta, em síntese, que “a recorrida inseriu na prova do Concurso Público do Ministério da Saúde 2 (duas) questões cujos temas não estavam previstos no edital” e, ainda, que admitiria mais de uma opção correta.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que a hipótese atrairia a incidência das Súmulas 279 e 636/STF.
+    O recurso deve ser conhecido, tendo em conta que o Supremo Tribunal Federal, na análise do RE 632.853-RG, sob a relatoria do Ministro Gilmar Mendes, reconheceu a existência de repercussão geral da discussão acerca da possibilidade do controle jurisdicional do ato administrativo que avalia questões em concurso público. O tema ficou assim ementado (Tema 485):
+    “REPERCUSSÃO GERAL EM RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. CONTROLE JUDICIAL DE QUESTÕES E CRITÉRIOS DE CORREÇÃO DE PROVAS. A questão referente à possibilidade de o Poder Judiciário realizar o controle jurisdicional sobre o mérito das questões em concurso público possui relevância social e jurídica, ultrapassando os interesses subjetivos das partes. Repercussão geral reconhecida.”
+    Diante do exposto, dou parcial provimento ao agravo para admitir o recurso extraordinário e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 25 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
