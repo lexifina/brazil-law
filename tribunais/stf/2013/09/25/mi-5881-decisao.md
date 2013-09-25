@@ -1,0 +1,17 @@
+Vistos etc.
+    Por meio de despacho publicado em 03.09.2013, determinei que o impetrante emendasse a petição inicial, nos seguintes termos:
+    “A jurisprudência do Supremo Tribunal Federal se construiu no sentido de subordinar o juízo de mérito à comprovação, pela parte impetrante, de que efetivamente inviabilizado o exercício do direito com base na lacuna normativa apontada. É o que decidiu o Plenário desta Corte na sessão realizada em 06.02.2013, ao exame de embargos de declaração no mandado de injunção nº 5061 (Relatora Ministra Cármen Lúcia, DJe 28.02.2013), consoante exsurge da leitura do voto condutor do acórdão:
+    ‘EMENTA: EMBARGOS DE DECLARAÇÃO NO MANDADO DE INJUNÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. APOSENTADORIA ESPECIAL. ART. 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. PRESSUPOSTOS DE CABIMENTO.
+    1. Constituem pressupostos de cabimento do mandado de injunção a demonstração pela Impetrante de que preenche os requisitos para a aposentadoria especial e a impossibilidade de usufruí-la pela ausência da norma regulamentadora do art. 40, § 4º, da Constituição da República. Precedentes.
+    2. Agravo regimental ao qual se nega provimento. ‘
+    Na espécie, a petição inicial não atende os requisitos exigidos por esta Corte para obtenção de pronunciamento sobre o mérito.
+    Em primeiro lugar, afigura-se necessário que o impetrante emende a inicial para esclarecer o que efetivamente pretende, se a colmatação de lacuna regulamentadora para a obtenção de contagem diferenciada, com a conversão de tempo especial em comum, como se extrai da causa de pedir, se a superação de omissão legislativa que obsta o próprio exercício do direito à jubilação especial, como é possível inferir do pedido, ou se ambas.
+    Em segundo lugar, caso o impetrante queira obter ordem injuncional para viabilizar o exercício do direito de aposentadoria especial, faz-se mister que comprove, por meio de documentos, que requereu jubilação perante a autoridade administrativa competente, tendo esta negado o pedido com base na lacuna regulamentadora do art. 40, § 4º, III, da Magna Carta.
+    Diante do exposto, fixo o prazo de dez dias para o autor emendar a inicial e juntar os documentos indispensáveis à propositura da ação, suprindo a deficiência apontada, nos termos do art. 284 do CPC.
+    Recebidas as peças ou findo o prazo, voltem os autos conclusos para decisão.” (Doc. 11, e-STF – destaques no original)
+    Por meio da Petição nº 44271/2013 (Doc. 13 do e-STF), o impetrante, a par de não esclarecer o alcance da pretensão formulada na petição inicial - se a colmatação de lacuna regulamentadora para a obtenção de contagem diferenciada, com a conversão de tempo especial em comum, como se extrai da causa de pedir, se a superação de omissão legislativa que obsta o próprio exercício do direito à jubilação especial, como é possível inferir do pedido, ou se ambas -, cingiu-se a coligir aos autos as mesmas peças que já havia juntado com a inaugural, dentre as quais não se encontra prova de requerimento de jubilação especial e respectivo indeferimento, com base na lacuna regulamentadora do art. 40, § 4º, III, da Magna Carta, pela autoridade administrativa competente.
+    Ante o exposto, não observados os requisitos para a obtenção de juízo de mérito, e com apoio nos arts. 267, I, e 284, parágrafo único, do CPC, 38 da Lei 8.038/1990 e 21, § 1º, do RISTF, nego seguimento ao presente mandado de injunção, extinguindo o processo sem resolução do mérito.
+    Publique-se.
+    Brasília, 25 de setembro de 2013.
+Ministra Rosa Weber
+Relatora
