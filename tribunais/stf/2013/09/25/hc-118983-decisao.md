@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão que indeferiu a cautelar requerida no HC 274.692, em tramitação no Superior Tribunal de Justiça.
+    Extrai-se dos autos que o paciente, preso em flagrante em janeiro de 2012, foi condenado à pena de 1 ano, 11 meses e 10 dias de reclusão pelo delito de tráfico de drogas, na forma do art. 33, § 4º, da Lei nº 11.343/2006. Apesar do reconhecimento da condição de traficante eventual do ora paciente, o magistrado negou-lhe a substituição da pena privativa de liberdade por penas restritivas de direitos e fixou o regime fechado para o início do cumprimento da pena privativa de liberdade e manteve a custódia cautelar para a garantia da ordem pública.
+    A impetrante alega que o Juízo da Execução Criminal da Comarca de Avaré/SP ainda não se manifestou a respeito do pedido de progressão de regime, formulado em 4 de abril de 2013. Segundo a impetrante, apesar da recomendação expedida pelo Tribunal de Justiça do Estado de São Paulo nos autos do HC 0055888-03.2013.8.26.0000, ainda não há pronunciamento sobre o pleito de promoção prisional. Ademais, considerando o lapso temporal transcorrido, a impetrante sustenta o atendimento dos requisitos para do livramento condicional (CP, art. 83). Nesse sentido, em sede liminar, requer-se a concessão da liberdade condicional ao paciente. Alternativamente, pleiteia-se a transferência de Carlos Henrique Russo da Cruz para regime prisional menos gravoso.
+    Em 19.08.2013, solicitei informações prévias ao Juízo das Execuções Criminais da Comarca de Avaré/SP quanto à situação atual do paciente, inclusive e sobretudo no tocante à análise dos pedidos de progressão e livramento condicional formulados pela defesa.
+    Decido.
+    As informações prestadas pelo Juízo de origem esclarecem que, ao contrário do afirmado na inicial deste habeas corpus, o pedido de progressão de regime foi deferido e o paciente transferido para o regime prisional semiaberto em 21.06.2013, antes mesmo, portanto, da data de distribuição desta impetração.
+    Quanto à alegação de que o paciente preenche os requisitos do livramento condicional (CP, art. 83), nada nos autos indica que a defesa tenha requerido tal benefício prisional ao Juízo das Execuções Criminais de Avaré/SP. Além disso, o pedido de concessão, per saltum, de livramento condicional contraria a pacifica orientação jurisprudencial do Tribunal no sentido de que “a análise dos requisitos para concessão do benefício de livramento condicional ultrapassa os limites estreitos do procedimento sumário e documental do habeas corpus” (HC 99400, Relª. Minª. Cármen Lúcia).
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990, c/c art. 21, § 1º, do RI/STF, não conheço do presente habeas corpus e determino o arquivamento dos autos.
+    Publique-se.
+     Brasília, 25 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
