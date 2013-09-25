@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário, interposto contra decisão monocrática da Turma Recursal do Estado de Sergipe, assim ementado:
+    “DECISÃO MONOCRÁTICA. CONSUMIDOR. DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO. FRAUDE. DOCUMENTOS DO CONTRATANTE COM DADOS DE FILIAÇÃO DIVERGENTES DOS CONSTANTES NOS DOCUMENTOS AUTOR. NÃO DESINCUMBIMENTO DO ÔNUS DA PROVA, NOS TERMOS DO ART. 333, INCISO II, DO CPC. AUSÊNCIA DE TOMADA DAS CAUTELAS NECESSÁRIAS NO ATO DA CONTRATAÇÃO.FALHA NA PRESTAÇÃO DO SERVIÇO. INCIDÊNCIA DO ART. 14, DO CDC. RESPONSABILIDADE OBJETIVA. TEORIA DO RISCO DA ATIVIDADE ECÔNOMICA QUE DEVE SER SUPORTADO PELA EMPRESA E NÃO PELO CONSUMIDOR. DEVOLUÇÃO EM DOBRO QUE SE IMPÕE. AUSÊNCIA DE NECESSIDADE DE COMPROVAÇÃO DE MÁ-FÉ. PRECEDENTES DO STJ. DANO MORAL IN RE IPSA SOBEJAMENTE CONFIGURADO. DEVER DE INDENIZAR. QUANTUM EQUANIMAMENTE ARBITRADO. .PRECEDENTES DESTA TURMA RECURSAL. SENTENÇA MANTIDA NA ÍNTEGRA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E IMPROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega que violação ao art. 93, IX, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “quanto ao prequestionamento, de ofensa ao artigos 5º, V , X e 93 inciso IX, ambos da Constituição Federal, os citados dispositivos não foram objeto de discussão desta turma recursal, se restringindo o colegiado a decidir a questão a luz da legislação infraconstitucional”. Assim, constatou que “não houve ofensa direta ao texto Constitucional, acarretando portanto o descabimento do recurso extraordinário”. Entendeu-se, ainda, pela incidência da Súmula 279/STF.
+    O recurso não pode ser conhecido, tendo em vista que não foram exauridas as vias recursais nas instâncias ordinárias. Com efeito, a parte deixou de interpor agravo contra a decisão monocrática que negou provimento ao seu recurso inominado. Incide no caso, portanto, a Súmula 281/STF, in verbis:
+    “É INADMISSÍVEL O RECURSO EXTRAORDINÁRIO, QUANDO COUBER NA JUSTIÇA DE ORIGEM, RECURSO ORDINÁRIO DA DECISÃO IMPUGNADA.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 25 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
