@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSO CIVIL. AGRAVO REGIMENTAL. PRAZO PRESCRICIONAL PARA O AJUIZAMENTO DE AÇÃO DE INDENIZAÇÃO CONTRA A FAZENDA PÚBLICA. O prazo prescricional aplicável às ações de indenização contra a Fazenda Pública é de cinco anos (Decreto nº 20.910, de 1932). Agravo Regimental não provido”. (eDOC 6, p. 78)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alíneas a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 5º, caput, e 93, IX, ambos insertos no texto constitucional.
+    Defende-se, em síntese, a nulidade do acórdão recorrido por ausência de fundamentação. Ademais, alega-se violação ao princípio da isonomia.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, com relação à alegada ofensa ao art. 93, inciso IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010.
+    Nessa oportunidade, o STF reconheceu a existência de repercussão geral do tema e reafirmou sua jurisprudência no sentido de que os referidos artigos exigem que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas. Eis a ementa do citado precedente da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010)”.
+    Na espécie, o tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador.
+    Dessa forma, verifico que a prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão.
+    Ademais, ressalta-se que a jurisprudência desta Corte se firmou no sentido de que a discussão acerca do prazo prescricional não possui índole constitucional a dar ensejo ao prosseguimento de recurso extraordinário, conforme pacífica jurisprudência desta Corte.
+    Nesses sentido, confira-se:
+    “Agravo regimental no agravo de instrumento. Policial Militar. Princípios do devido processo legal, do contraditório e da ampla defesa. Prescrição. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Para ultrapassar o entendimento firmado pelo Tribunal de origem quanto à ocorrência da prescrição, seria necessário interpretar a legislação infraconstitucional pertinente - Decreto nº 20.910/32 - e reexaminar as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 636 e 279 desta Corte. 3. Agravo regimental não provido”. (AI-AgR 745.285, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 1º.2.2012) (grifo nosso)
+    Destacam-se, ainda, os seguintes precedentes das duas Turmas desta Corte: AI-AgR 764.126, Rel. Min. Ricardo Lewndowski, Primeira Turma, DJe 1º.2.2011; RE-AgR 586.977, Rel. Min. Eros Grau, Segunda Turma, DJe 27.3.2009.
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 26 de setembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
