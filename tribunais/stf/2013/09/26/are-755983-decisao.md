@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 134):
+    “AGRAVO INTERNO NA APELAÇÃO CÍVEL CONSTITUCIONAL - SAÚDE PÚBLICA - PLEITO DE FORNECIMENTO DE MEDICAMENTOS PARA TRATAMENTO DE INSUFICIÊNCIA RENAL CRÔNICA TERMINAL - FORNECIMENTO DE MEDICAMENTOS - SOLIDARIEDADE DOS ENTES FEDERATIVOS NO DEVER DE ASSEGURAR O DIREITO À SAÚDE - INTELIGÊNCIA DA SÚMULA Nº 115 DESTA CORTE ALEGAÇÃO DE QUE O MEDICAMENTO NÃO CONSTA NA LISTA ELABORADA PELO PODER PÚBLICO - PRETENSÃO NÃO OBSTADA - ESSENCIALIDADE DO DIREITO À VIDA - SÚMULA 180 TJRJ - CONDENAÇÃO DOS RÉUS QUE NÃO CONTEMPLOU O FORNECIMENTO DE MEDICAMENTOS DE QUE O AUTOR VENHA A NECESSITAR NO CURSO DO TRATAMENTO - RECURSO DESPROVIDO - DECISÃO MANTIDA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, caput, LIV e LV; 167 e 196, todos da Constituição.
+    A decisão agravada não admitiu o recurso extraordinário, sob o fundamento de que: (i) “a questão em que se apoia o recurso não foi expressamente enfrentada pelo órgão julgador, (…) pelo que não se tem por configurado o necessário prequestionamento”; e (ii) “a alegada violação ao disposto no artigo 196, CF, tal tema já foi reiteradas vezes apreciado e julgado pelo Supremo Tribunal Federal, encontrando-se o v. acórdão recorrido em perfeita harmonia com os pronunciamentos da Corte Constitucional” (fls. 182 e 184).
+    O recurso deve ser conhecido, tendo em vista que o Supremo Tribunal Federal reconheceu a presença de repercussão geral na matéria em exame, relativa à obrigatoriedade de o Poder Público fornecer medicamento de alto custo a portador de doença grave que não possui condições financeiras para obtê-lo (RE 566.471, Rel. Min. Marco Aurélio).
+    Diante do exposto, dou provimento ao agravo para admitir o recurso extraordinário e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil.
+    Publique-se.
+          Brasília, 26 de setembro de 2013.
+Ministro luís roberto barroso
+Relator
