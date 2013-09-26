@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve o reconhecimento da decadência do direito de revisão do ato de concessão de benefício previdenciário.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI, e 201, § 1º e § 3º, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque as razões recursais estão dissociadas dos fundamentos da decisão recorrida. Com efeito, o tribunal a quo discorreu tão somente acerca da aplicação do instituto da decadência aplicável ao pedido de revisão pleiteado pelo autor. No entanto, o recorrente, no apelo extremo limitou-se a discutir o mérito da demanda – revisão da renda mensal inicial decorrente da conversão do benefício de auxílio-doença em aposentadoria por invalidez. Inadmissível, portanto, o recurso, nos termos da Súmula 284 do STF.
+    Ademais, ainda que superado tal óbice, melhor sorte não ocorreria ao agravante, haja vista que para dissentir da conclusão adotada pelo acórdão recorrido, a respeito da ocorrência ou não da decadência, necessária seria a análise da legislação infraconstitucional aplicável à espécie. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL. DECADÊNCIA. ALEGADA CONTRARIEDADE AO ART. 5º, INC. XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 693.541-ED/RS, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REVISÃO DE BENEFÍCIOS PREVIDENCIÁRIOS CONCEDIDOS APÓS A ENTRADA EM VIGOR DA MEDIDA PROVISÓRIA 1.523-9/1997. DECADÊNCIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE 730.395-AgR/RS, Rel. Min. Teori Zavascki, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de setembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
