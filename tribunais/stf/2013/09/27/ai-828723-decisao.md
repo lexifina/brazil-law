@@ -1,0 +1,10 @@
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ARRENDAMENTO MERCANTIL. ISS. INCIDÊNCIA. RECURSO ESPECIAL PENDENTE DE JULGAMENTO. AGRAVO PROVIDO. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM (ART. 543, § 1º, DO CPC).
+    Decisão: Trata-se de agravo de instrumento interposto pelo BANCO GENERAL MOTORS S/A, com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão assim ementado:
+    “APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA DE DÉBITO FISCAL - ISS - CONTRATOS DE ARRENDAMENTO MERCANTIL - INCIDÊNCIA - DICÇÃO DO VERBETE N. 18 DA SÚMULA DO TJSC E DO N. 218 DA SÚMULA DO STJ - DECADÊNCIA NÃO CONFIGURADA - EXEGESE DO ART. 173, I, DO CTN - NULIDADE DO AUTO AFASTADA - DESCRIÇÃO PRECISA DA INFRAÇÃO - VIABILIZADO O DIREITO DE DEFESA - BASE DE CÁLCULO - PREÇO DO CONTRATO - ENTENDIMENTO PLANIFICADO - ARBITRAMENTO DE ENCARGOS PRESUMIVELMENTE CONTRATADOS, NA ORDEM DE 50% - ILEGALIDADE DETECTADA - COMPETÊNCIA TRIBUTÁRIA DO MUNICÍPIO EM QUE O SERVIÇO É EFETIVAMENTE PRESTADO - MULTA FISCAL DE 500% SOBRE O DÉBITO ATUALIZADO - INEXISTÊNCIA DE CONFISCO - PERCENTUAL EXACERBADO, ENTRETANTO - MINORAÇÃO QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE - CORREÇÃO MONETÁRIA - IGP-M - PREVISÃO EM LEI MUNICIPAL - POSSIBILIDADE - ADEQUAÇÃO DOS ÔNUS DE SUCUMBÊNCIA - RECURSO PARCIALMENTE PROVIDO” (fl. 1.494).
+    Em pesquisa ao sítio eletrônico do Superior Tribunal de Justiça, constatei a existência de recurso especial interposto pela parte recorrente (REsp 1.240.431/SC, Rel. Min. Eliana Calmon), ainda pendente de julgamento.
+    Ex positis, PROVEJO o agravo, para desde logo, ADMITIR o recurso extraordinário e, com fundamento no artigo 543, § 1º, do CPC, determino a devolução do feito ao Tribunal de origem, para que se aguarde o final do julgamento do referido recurso pelo Superior Tribunal de Justiça.
+    Publique-se.
+    Brasília, 27 de setembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
