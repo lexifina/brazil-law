@@ -1,0 +1,21 @@
+O Estado de São Paulo, com base no art. 15, caput, da Lei 12.016/2009, requer a suspensão da execução de medida liminar proferida, em 12/4/2013, pelo Juízo da 11ª Vara de Fazenda Pública da Comarca de São Paulo/SP nos autos do Mandado de Segurança 0014185-30.2013.8.26.0053.
+    A decisão ora impugnada afastou a incidência do teto remuneratório previsto na Emenda Constitucional 41/2003 sobre os valores relativos à soma dos proventos percebidos por servidora pública estadual aposentada juntamente com a pensão por morte de que faz jus.
+    O Estado-membro requerente demonstra que buscou a suspensão dos efeitos do provimento cautelar ora combatido perante a Presidência do Tribunal de Justiça do Estado de São Paulo, pleito que foi indeferido, em 12/6/2013, por decisão posteriormente mantida pelo Órgão Especial daquela Corte em acórdão prolatado em 14/8/2013 (Agravo Regimental 0114522-89.2013.8.26.0000).
+    Aduzindo a ocorrência de grave lesão à ordem administrativa e à economia pública, ante a impossibilidade de aplicação do redutor salarial estabelecido pela EC 41/2003 e considerando, ademais, o risco de adoção do mesmo entendimento judicial por outras decisões, requer a suspensão dos efeitos da decisão liminar ora impugnada “até o trânsito em julgado da respectiva decisão final”.
+    É o relatório necessário. Decido.
+    Compete à Presidência desta Corte, nos termos dos arts. 15 da Lei 12.016/2009, 25 da Lei 8.038/1990 e 297 do RISTF, suspender a execução de decisões concessivas de segurança proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+    Examinados os autos, verifico, preliminarmente, que se encontra bem demonstrada a natureza constitucional da controvérsia, uma vez que discutida na origem a alteração promovida pela Emenda Constitucional 41/2003, que incluiu as verbas de natureza pessoal para aferição do teto remuneratório previsto no art. 37, XI, da Carta Maior.
+    Tenho que é caso de deferimento do pedido de suspensão.
+    Com efeito, a Presidência deste Tribunal, em casos análogos ao presente, reiteradamente já se pronunciou no sentido de que o afastamento das disposições contidas na EC 41/2003 importa em ofensa à ordem pública.
+    No caso ora em exame, discute-se, especificamente, a respeito da incidência do teto sobre o valor resultante da soma de proventos com pensão por morte.
+    Há precedentes desta Presidência, inclusive confirmados pelo Plenário da Corte. Veja-se, entre outros, a SS 3.364-AgR, Rel. Min. Ellen Gracie; a STA 371-AgR, Rel. Min. Gilmar Mendes; e a STA 508, Rel. Min. Cezar Peluso.
+    Cito, no mesmo sentido, as decisões recentemente proferidas pelo Ministro Joaquim Barbosa nos autos da STA 702/SP e da SS 4.812/SP.
+    Assevere-se, ademais, que o Plenário desta Casa, ao apreciar o RE 602.584/DF, Rel. Min. Marco Aurélio, reconheceu, em 16/12/2010, a existência de repercussão geral da questão relativa à incidência do teto remuneratório sobre os valores resultantes da soma de aposentadoria e pensão. Esta é a ementa do acórdão:
+    “TETO REMUNERATÓRIO – INCIDÊNCIA SOBRE O MONTANTE DECORRENTE DA ACUMULAÇÃO DE PROVENTOS DE APOSENTADORIA E PENSÃO – ARTIGO 37, INCISO XI, DA CARTA FEDERAL E ARTIGOS 8º E 9º DA EMENDA CONSTITUCIONAL Nº 41/2003. Possui repercussão geral a controvérsia sobre a possibilidade de, ante o mesmo credor, existir a distinção do que recebido, para efeito do teto remuneratório, presentes as rubricas proventos e pensão, a teor do artigo 37, inciso XI, da Carta da República e dos artigos 8º e 9º da Emenda Constitucional nº 41/2003”.
+    A possibilidade de execução imediata da liminar ora atacada e o potencial efeito multiplicador da decisão são elementos que confirmam a presença dos requisitos autorizadores da medida pleiteada.
+    Isso posto, defiro o pedido para suspender a execução da medida liminar proferida pelo Juízo da 11ª Vara de Fazenda Pública da Comarca de São Paulo/SP nos autos do Mandado de Segurança 0014185-30.2013.8.26.0053 até o trânsito em julgado do processo.
+    Comunique-se.
+    Publique-se.
+    Brasília, 27 de setembro de 2013.
+Ministro Ricardo lewandowski
+Presidente em exercício
