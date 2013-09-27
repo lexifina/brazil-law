@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 244):
+    “APELAÇÃO CRIMINAL – CRIME DE EXPOSIÇÃO PARA VENDA DE PRODUTOS COM PRAZO DE VALIDADE VENCIDO (ARTIGO 7º, INCISO IX, DA LEI Nº 8137/90) – NEGATIVA DE AUTORIA QUE NÃO SE SUSTENTA – PROPRIETÁRIO DO ESTABELECIMENTO QUE, MESMO NÃO ESTANDO NA ADMINISTRAÇÃO DIRETA, COMPARECIA REGULARMENTE À LOJA PARA PASSAR ORIENTAÇÕES QUANTO À ADMINISTRAÇÃO – CONDENAÇÃO QUE RECONHECEU QUE O DELITO FOI CULPOSO – ALEGAÇÃO DE ATIPICIDADE DE CONDUTA DESCABIDA – AO CONTRÁRIO DO AFIRMADO PELOS APELANTES, A PROVA DOS AUTOS DEIXA EVIDENTE QUE AS MERCADORIAS ESTAVAM EXPOSTAS PARA A VENDA – PENA CORRETAMENTE APLICADA – PRECEDENTES.
+    RECURSO DESPROVIDO – CASO, TODAVIA, DE EXCLUSÃO, ‘DE OFÍCIO’, DA PRESTAÇÃO DE SERVIÇOS À COMUNIDADE IMPOSTA COMO CONDIÇÃO PARA O CUMPRIMENTO DA PENA EM REGIME ABERTO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 5º, XLV, da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos: (i) “infere-se da decisão hostilizada que o colegiado não examinou a questão à luz dos princípios invocados pelos Recorrentes – os quais sequer foram objeto de embargos declaratórios -, razão pela qual incidem as Súmulas 282 e 356 do Supremo Tribunal Federal, pela evidente falta do requisito do prequestionamento”; (ii) o acórdão recorrido decidiu os pontos controvertidos “com base em interpretação e aplicação de dispositivos de ordem meramente legal. Dessa forma, não se tratando de conflito direto e frontal com o texto da Constituição Federal, consoante exigido pela jurisprudência da Suprema Corte, revela-se inviável o trânsito do recurso extraordinário”; (iii) “eventual análise da pretensão recursal esbarra, de forma cumulada, no óbice da Súmula 279 do Supremo Tribunal Federal, por demandar, inexoravelmente, o reexame do suporte do suporte fático-probatório constante do caderno processual” (fl. 548).
+    O agravo não deve ser conhecido, tendo em vista que a parte recorrente atacou somente o primeiro fundamento da decisão agravada, que decidiu pela incidência das Súmulas 282 e 356/STF. A jurisprudência do Supremo Tribunal Federal entende ser inadmissível o agravo que não infirma todos os fundamentos da decisão atacada. Nessa linha, veja-se a ementa do ARE 711.585-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário. Decisão de inadmissibilidade. Fundamentos não impugnados. Precedentes.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que devem ser impugnados, na petição de agravo, todos os fundamentos da decisão com que não se admitiu o apelo extremo.
+    2. Agravo regimental não provido.”
+    De qualquer modo, o recurso extraordinário não pode ser provido, uma vez que não discute matéria constitucional. Com efeito, o recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constantes dos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF, in verbis:
+    “Para simples reexame de prova não cabe recurso extraordinário”.
+    Diante do exposto, com base na art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
