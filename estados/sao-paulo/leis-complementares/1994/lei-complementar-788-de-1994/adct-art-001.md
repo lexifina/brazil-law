@@ -1,0 +1,6 @@
+## Disposições Transitórias
+Artigo 1° - No primeiro processo seletivo especial para fins de promoção dos integrantes das classes abrangidas pela Lei n° 7.951, de 16 de julho de 1992, a ser realizado pelo critério de antigüidade, poderão ser beneficiados com a promoção até 20% (vinte por cento) do contingente global de cada classe.
+§ 1° - A antigüidade será determinada pelo tempo de efetivo exercício na respectiva classe, apurado até o primeiro dia do mês anterior ao da data da abertura do processo seletivo especial.
+§ 2° - Observado o limite a que alude o "caput" deste artigo e obedecida a ordem de classificação, o servidor poderá ser promovido para qualquer nível superior àquele em que se encontrar enquadrado desde o tempo de efetivo exercício na respectiva classe, apurado até o dia da publicação desta lei complementar, seja igual ou superior à soma dos interstícios previstos para os níveis que antecedem aquele ao qual poderá concorrer.
+§ 3° - Será considerado para fins de determinação da antigüidade e do interstício o tempo de efetivo exercício prestado pelo servidor em cargos ou funções-atividades classificados na Coordenadoria de Assistência Técnica Integral da Secretaria da Agricultura e Abastecimento.
+§ 4° - A promoção a que se refere este artigo surtirá efeitos a partir da data da publicação desta lei complementar.
