@@ -1,0 +1,20 @@
+DECISÃO
+RECLAMAÇÃO – ENTENDIMENTO DO SUPREMO – § 3º DO ARTIGO 20 DA LEI Nº 8.742/93 – INCONSTITUCIONALIDADE DECLARADA – REVOGAÇÃO DA LIMINAR IMPLEMENTADA – NEGATIVA DE SEGUIMENTO AO PEDIDO.
+    1. Ao deferir o pedido de liminar, assim me pronunciei:
+RECLAMAÇÃO – AUTORIDADE DO QUE DECIDIDO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 1.232-1/DF – RESSALVA DE ENTENDIMENTO PESSOAL – LIMINAR – DEFERIMENTO.
+    1. Na inicial de folha 2 a 15, acompanhada dos documentos de folha 16 a 129, afirma-se que o Juízo, na prolação de sentença, decidiu fosse implantado o benefício assistencial previsto na Lei Fundamental. Diz-se que a renda familiar por cabeça é superior a um quarto do salário mínimo, incidindo, assim, o disposto no artigo 20, § 3º, da Lei nº 8.742/93, considerado pela Corte como constitucional. Requer-se a concessão de medida acauteladora no sentido de se suspender a execução da medida.
+    À folha 132, determinei fosse procedida à juntada à inicial do acórdão desta Corte que se alegou inobservado, dada ciência da reclamação à interessada e solicitadas informações.
+    2. Conforme extrato de ata alusivo à Ação Direta de Inconstitucionalidade nº 1.232-1/DF, na sessão em que ocorreu o julgamento, não estive presente. Se estivesse, formaria na corrente minoritária, integrada pelo relator de sorteio, ministro Ilmar Galvão, e pelo ministro Néri da Silveira. A óptica do Juízo é merecedora de endosso, sob o ângulo da assistência versada no artigo 203, inciso V, da Constituição Federal. A pedra de toque do mandamento constitucional, a revelar-lhe o alcance, é a inexistência de meios para custear a própria manutenção ou de tê-la provida pela família, isso relativamente à pessoa portadora de deficiência e ao idoso. O critério estabelecido em lei é objetivo e, de início, não afasta demonstração de insuficiência econômico-financeira capaz de gerar o direito à prestação estampada no salário mínimo. Entretanto, assim não concluiu a Corte. Atuando como porta-voz do Colegiado, não posso deixar de observar o que assentado.
+    3. Defiro a medida acauteladora e suspendo a eficácia da determinação sobre a implantação imediata do que decidido pelo Juízo reclamado.
+    4. Com o recebimento das informações, colham o parecer do Procurador-Geral da República.
+    5. Publiquem.
+    Colhidas as informações e intimada a parte interessada, o Ministério Público Federal opina pela procedência do pedido.
+    Determinei o sobrestamento do processo em razão de, no Recurso Extraordinário nº 567.985/MT, haver sido reconhecida a repercussão geral do tema veiculado.
+    2. Ressalvando o entendimento sobre a matéria, deferi a medida acauteladora à luz do que decidido pelo Supremo na Ação Direta de Inconstitucionalidade nº 1.232-1/DF. Naquela oportunidade, foi declarada a harmonia do § 3º do artigo 20 da Lei nº 8.742/93 com a Carta Federal. Ocorre que o parâmetro vigente é outro.
+    No julgamento dos Recursos Extraordinários nº 567.985/MT e 580.963/PR, concluído em 18 de abril de 2013, o Plenário proclamou, incidentalmente, a inconstitucionalidade do § 3º do artigo 20 da Lei nº 8.742/93. Assentou, por maioria de votos, que a aferição objetiva da miserabilidade, tal como prevista na lei de assistência social, não se amoldaria à realidade social brasileira. O critério estático de renda familiar definido pelo legislador teria se revelado insuficiente para a concretização do preceito constitucional garantidor da assistência social ao idoso e ao portador de deficiência menos favorecidos, de modo a ensejar quadro discrepante dos fins buscados pela Constituição. Cogitada a modulação dos efeitos do pronunciamento, não foi alcançado o quórum qualificado.
+    Dessa forma, a óptica prevalecente do Supremo quanto à questão infirma a base da medida acauteladora e desautoriza o acolhimento do pleito formulado.
+    3. Ante o quadro, revogo a liminar implementada às folhas 177 e 178 e nego seguimento ao pedido.
+    4. Publiquem.
+Brasília – residência –, 28 de setembro de 2013, às 17h10.
+Ministro MARCO AURÉLIO
+Relator
