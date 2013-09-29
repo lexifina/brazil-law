@@ -1,0 +1,36 @@
+DECISÃO
+PROCESSO – SANEAMENTO – RECLAMAÇÃO – PEDIDO – NEGATIVA DE SEQUÊNCIA – AGRAVOS PREJUDICADOS.
+    1. O Gabinete prestou as seguintes informações:
+    A Fundação Nacional de Saúde – FUNASA articula com a inobservância ao Verbete Vinculante nº 17 da Súmula do Supremo. Visa cassar ato mediante o qual o Presidente do Tribunal Regional do Trabalho da 7ª Região determinou a expedição do Precatório Complementar nº 323/2007, na Reclamação Trabalhista nº 0184900-07.1991.5.07.0005, abrangendo juros da mora e correção monetária, decorrentes do atraso no pagamento do precatório principal, efetivado após o período de dezoito meses.
+    Segundo narra, o Precatório original nº 2/1999, formalizado em 1º de julho de 1999, deveria ser pago até dezembro de 2000, a teor do artigo 100, § 1º, da Carta da República, na redação conferida pela Emenda Constitucional nº 20/2000 – atualmente equivalente ao § 5º do citado artigo, conforme a Emenda Constitucional nº 62/2009. Informa a quitação extemporânea ocorrida em maio de 2001, ou seja, cinco meses depois do termo constitucional. Indica haver a Presidência do Regional, após parecer do setor de cálculos, assentado que o atraso corresponderia ao período de 39 meses. Consoante assevera, o reclamado fez incidir juros da mora retroativos à data da última atualização, havendo determinado a expedição do precatório complementar no valor de R$ 9.821.054,81 (nove milhões, oitocentos e vinte e um mil e cinquenta e quatro reais e oitenta e um centavos).
+    Alude ao teor do Verbete Vinculante nº 17 da Súmula do Tribunal e ao § 1º – atualmente § 5º – do artigo 100 do Diploma Maior. Sustenta a não incidência dos juros da mora no período compreendido da expedição até dezembro de 2000, considerada a data da requisição. Entende configurada a mora apenas no tocante aos cinco meses que excederam o prazo constitucional.
+    Sob o ângulo do risco, aponta estar na iminência de ser compelida ao pagamento indevido de R$ 5.998.452,43 (cinco milhões, novecentos e noventa e oito mil, quatrocentos e cinquenta e dois reais e quarenta e três centavos), segundo apurado pelo órgão de cálculos da Procuradoria da União.
+    Requereu, em sede liminar, a suspensão do ato reclamado e, alfim, a cassação desse, assentando-se a não incidência dos juros da mora no período de graça versado no § 1º – hoje § 5º – do artigo 100 da Carta de 1988.
+    Em 2 de dezembro de 2011, foi publicada decisão deferindo a medida acauteladora para suspender o pronunciamento impugnado.
+    O interessado, Sindicato dos Trabalhadores do Serviço Público Federal no Estado do Ceará SINTSEF/CE, interpôs agravo. Consoante alega, o pagamento do precatório após o lapso temporal indicado no § 1º do artigo 100 da Constituição Federal importa a incidência de juros da mora não apenas a partir do término do referido período, mas desde a última atualização do cálculo. Diz da violação à coisa julgada e ao direito adquirido, além da ocorrência de enriquecimento ilícito do ente público. Frisa ser fato incontroverso a não realização do pagamento do precatório no prazo constitucional.
+    A Funasa, em contraminuta, reitera os argumentos expendidos na petição inicial. Defende a incidência dos juros da mora apenas sobre os meses em atraso, a partir do fim do termo previsto no Diploma Maior.
+    O Ministério Público Federal opina pela improcedência do pedido. Conforme articula, o pagamento extemporâneo do precatório e a definição do prazo inicial para a incidência de juros da mora são questões não abordadas no mencionado verbete e, portanto, afetas à via recursal própria.
+    Em 22 de setembro de 2012, foi indeferido pedido de ingresso formulado pelo Conselho Federal da Ordem dos Advogados do Brasil. Contra o pronunciamento, a entidade apresentou regimental. Em contraminuta, a Funasa destacou o acerto do ato impugnado.
+    Anoto que, segundo a anexa manifestação do Oficial deste Gabinete, de 3 de setembro de 2013, foi detectado equívoco relativo à publicação da decisão liminar. Relata o Oficial:
+    “[...]
+    Após levantamento documental, verificamos que, em outubro de 2011, a Assessoria remeteu a Vossa Excelência proposta de decisão no sentido do deferimento da liminar (cópia anexa). Vossa Excelência não aprovou a proposta e gravou decisão que implicaria a negativa de seguimento ao pedido.
+    No entanto, ao encaminhar o processo para a secretaria do Gabinete, o procedimento-padrão não foi observado. A proposta recusada não foi desprezada e correu junto ao restante das peças, o que levou a Secretaria a liberar a decisão errada. [...]”
+    Consulta ao sistema do Tribunal revela a degravação, à época da apreciação da proposta de medida acauteladora, de ato formalizado por Vossa Excelência nos seguintes termos:
+RECLAMAÇÃO – VERBETE Nº 17 DA SÚMULA VINCULANTE DO SUPREMO TRIBUNAL FEDERAL – DESCOMPASSO – NEGATIVA DE SEGUIMENTO AO PEDIDO.
+    1. A Assessoria prestou as seguintes informações:
+    A Fundação Nacional de Saúde – FUNASA articula com a inobservância do Verbete nº 17 da Súmula Vinculante. Visa cassar decisão mediante a qual o Presidente do Tribunal Regional do Trabalho da 7ª Região determinou a expedição de precatório complementar, abrangendo juros e correção monetária, decorrente de suposto atraso no pagamento do precatório principal, efetivado após o período previsto na Constituição Federal.
+    Na Petição/STF nº 37.229/2011, assinada digitalmente por procuradora federal, a reclamante requer preferência no julgamento deste processo, tendo em vista o precatório objeto da decisão reclamada envolver a importância de R$ 9.821.054,81 (nove milhões, oitocentos e vinte e um mil, cinquenta e quatro reais e oitenta e um centavos). Segundo aduz, somente é devida, conforme Parecer Técnico nº 794/2007-C, exarado pelo NECAP/PU/CE, constante dos autos do precatório, a quantia de 2.929.627,00 (dois milhões, novecentos e vinte e nove mil e seiscentos e vinte e sete reais).
+    O verbete citado tem o seguinte teor:
+    Súmula Vinculante 17
+    Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.
+    O processo encontra-se concluso para apreciação do pedido de concessão de medida acauteladora.
+    2. Atentem para as peculiaridades do caso tal como admitidas pela reclamante. Não houve satisfação do precatório no período assinado na Constituição Federal. Ora, o Verbete nº 17 da Súmula Vinculante pressupõe a liquidação do débito no período de dezoito meses previsto no artigo 100 da Carta da República. A pretexto de ter-se a inobservância ao citado Verbete, o que não ocorre na espécie, pretende-se, com queima de etapas, discutir erronia considerados os cálculos elaborados pelo Tribunal Regional do Trabalho da 7ª Região.
+    3. Ante o quadro, nego seguimento ao pedido formulado.
+    4. Publiquem.
+    O processo está concluso para exame dos agravos regimentais.
+    2. Chamo o processo à ordem para tornar prevalecente o que consignei obstando o seguimento do pedido. O equívoco retratado nas informações é de total procedência.
+    3. Com esta decisão, negando sequência ao pleito formulado, ficam prejudicados os agravos.
+    4. Publiquem.
+Brasília – residência –, 29 de setembro de 2013, às 18h50.
+Ministro MARCO AURÉLIO
+Relator
