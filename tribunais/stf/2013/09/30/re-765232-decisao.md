@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MILITAR. REMOÇÃO. LEI N. 9.784/1999. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+    “AÇÃO ORDINÁRIA. MILITAR. TRANSFERÊNCIA POR INTERESSE DO SERVIÇO. CÔNJUGE E FILHA. PROBLEMAS DE SAÚDE. PRINCÍPIOS DA PROTEÇÃO À VIDA E À SAÚDE E DA UNIDADE FAMILIAR. PERMANÊNCIA. IMPOSSIBILIDADE. JUÍZO DISCRICIONÁRIO DA ADMINISTRAÇÃO. SUPREMACIA DO INTERESSE PÚBLICO SOBRE O PARTICULAR. APELO PROVIDO.
+    Apelação interposta pela UNIÃO em face de sentença que, em ação ordinária, julgou procedente o pedido deduzido na Inicial, anulando o ato administrativo que determinou a movimentação de ERALDO SILVA SOBRINHO desta capital (14º Batalhão/LOG) para a cidade de Brasília, assegurando-lhe a permanência em Recife-PE.
+    A cidade de Brasília DF, capital do país, possui grande centro urbano e pólo médico adequado para tratamento das doenças de que é portadora a companheira do Autor. Com efeito, não haveria nenhuma razão objetiva para o agravamento do estado de saúde de sua companheira pela simples mudança para tal localidade. Muito pelo contrário. Portanto, o estado de saúde de dependente não é fator suficiente para impedir a movimentação do militar para Brasília.
+    Não se pode admitir que militares se aproveitem da proteção garantida constitucionalmente à unidade familiar para permanecerem definitivamente onde em entenderem, fazendo prevalecer o interesse particular sobre a necessidade do serviço, o que acarretaria sérios prejuízos à Administração Militar.
+    A movimentação de militares é uma característica bastante evidente, conhecida por todos, tendo em vista a necessidade de atendimento do interesse público em primeiro lugar. A movimentação faz parte da essência da atividade militar, não podendo este ser comparado com situações de proteção familiar dos civis.
+    Ao ingressar no Exército, o Apelado tinha plena ciência da possibilidade de ser movimentado/deslocado no interesse da Administração Pública.
+    Apelação da União provida” (grifos nossos).
+    Os embargos de declaração opostos pelo Recorrente foram rejeitados.
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 37, caput, e 226, § 8º, inc. I, da Constituição da República.
+    Argumenta
+    “A pretensão do recorrente versa sobre ato administrativo que determinou a sua remoção do 14° batalhão Logístico, situado na cidade de Recife-PE, para o 16° Batalhão Logístico, situado na cidade de Brasília- DF. Ocorre que o ato administrativo culminou por violar o princípio da impessoalidade, previsto no art. 37, caput, da Constituição Federal, haja vista a ausência de fundamentação quanto à disponibilidade do Sr. Leonardo Domingo dos Santos - voluntário de mesma patente e experiência - substituir o recorrido na movimentação/remoção militar.
+    (...)
+    Conjugada, pois, a voluntariedade do Sr. Leonardo Domingo dos Santos em ser removido para Brasília em lugar do recorrente, às outras razões de ordem pessoal, relativas à necessidade de manutenção da unidade familiar, justifica-se a manutenção do recorrente em Recife”.
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório e a análise da legislação infraconstitucional aplicável à espécie (Lei n. 9.784/1999). A alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. REMOÇÃO DE MILITAR. IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 533.865-AgR, de minha relatoria, Primeira Turma, DJe 15.5.2009)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. ALEGAÇÃO DE AFRONTA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. OFENSA REFLEXA. SUPOSTA VIOLAÇÃO AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. INCIDÊNCIA DA SÚMULA 636/STF. 1. Caso em que entendimento diverso do adotado pelo Tribunal de origem demandaria a análise da legislação ordinária pertinente e o revolvimento dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. Violação às garantias constitucionais do processo, se existente, apenas ocorreria de modo reflexo ou indireto. Precedentes. 3. O aresto impugnado, em que pese haver dissentido dos interesses da parte agravante, está devidamente fundamentado. Logo, não cabe falar em ofensa ao inciso IX do art. 93 da Magna Carta de 1988. 4. Incide, de mais a mais, a Súmula 636/STF. 5. Agravo regimental desprovido” (RE 576.063-AgR , Relator o Ministro Ayres Britto, Segunda Turma, DJe 26.9.2011).
+     Nada há, pois, a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput , do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de setembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
