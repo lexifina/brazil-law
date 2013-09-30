@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (fl. 145):
+    “PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. ASSISTÊNCIA MÉDICO- HOSPITALAR GRATUITA A DEPENDENTES DE EX-COMBATENTES. PRECEDENTES DESTA CORTE E DEMAIS TRIBUNAIS REGIONAIS FEDERAIS. ART 557, CAPUT, DO CPC. MATÉRIA APRECIADA. REDISCUSSÃO. IMPOSSIBILIDADE. RECURSO IMPROVIDO. -Não cabe, em sede de agravo interno, rediscutir matéria já decidida (assistência médico-hospitalar a dependentes de ex-combatentes), a qual se encontra sedimentada em nosso Tribunal e demais Tribunais Regionais Federais, consoante precedentes nela transcritos e que serviu de utilização do art. 557, caput, do CPC. -Neste sentido, a jurisprudência de nosso Tribunal: "O ex-combatente e seus dependentes têm direito à assistência médica gratuita, através do serviço de saúde do Ministério da Marinha. Garantia do art. 53, IV, do ADCT" (TRF-2ª Região, 3ª Turma, AG 99.02.027261/ES, Rel. Juiz Federal Convocado RICARDO PERLINGEIRO, v.un.,DJ 28/06/2001). -Inexistindo qualquer novidade nas razões agravadas que ensejasse modificação nos fundamentos constantes da decisão ora impugnada, impõe-se sua manutenção.-Recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 53, IV, do ADCT. Sustenta, em síntese, que “ainda que os impetrantes sejam dependentes, vale lembrar que as Forças Armadas só devem prestar assistência médica aos militares de carreira e a seus dependentes legais, inexistindo qualquer norma que lhes imponha o encargo do tratamento do ex-combatente ou de seus dependentes”.
+    O recurso extraordinário não pode ser provido, tendo em vista que o acórdão recorrido alinha-se à jurisprudência do Supremo Tribunal Federal. Com efeito, esta Corte já assentou que os ex-combatentes e seus dependentes têm direito à assistência médico-hospitalar gratuita, independente de contribuições ao Fusex. Nesse sentido, é o entendimento de ambas as Turmas deste Tribunal:
+    “Agravo regimental no recurso extraordinário. Ex-combatentes. Direito a assistência médica e hospitalar privada. Possibilidade. Precedentes.
+    1. A jurisprudência da Corte está pacificada no sentido de se reconhecer aos ex-combatentes o direito a assistência médico-hospitalar gratuita.
+    2. Interpretação extensiva do art. 53, inciso IV, do Ato das Disposições Constitucionais Transitórias, para impondo-se à União o dever de custear eventual tratamento em hospital da rede privada em situações de emergência.
+    3. Agravo regimental não provido. (Primeira Turma, RE 598.408-AgR, Rel. Min. Dias Toffoli)”
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR. ART. 53, IV, DO ADCT. EX-COMBATENTE. DEPENDENTES. ASSISTÊNCIA MÉDICO-HOSPITALAR GRATUITA. ORGANIZAÇÕES MILITARES DE SAÚDE. POSSIBILIDADE. AGRAVO IMPROVIDO.
+    I O art. 53, IV, do ADCT garante aos ex-combatentes e seus dependentes o direito à assistência médico-hospitalar gratuita prestada nas organizações militares de saúde. Precedentes.
+    II Agravo regimental improvido.” (Segunda Turma, ARE 687.116-AgR, Rel. Min. Ricardo Lewandowski).
+    Ademais, dissentir da conclusão do Tribunal de origem acerca da condição de dependentes dos recorridos, demandaria uma nova apreciação dos fatos e do material probatório constante dos autos. Nesse caso, a hipótese atrai a incidência da Súmula 279/STF, in verbis:
+    PARA SIMPLES REEXAME DE PROVA NÃO CABE RECURSO EXTRAORDINÁRIO.
+    Diante do exposto, com base no art. 557, do CPC, e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 30 de setembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
