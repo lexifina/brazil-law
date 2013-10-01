@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da 4ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado: (fl. 212)
+    “CONSTITUCIONAL – DIREITO TRIBUTÁRIO – DIREITO PROCESSUAL CIVIL – SENTENÇA – NULIDADE – INOCORRÊNCIA – IMPOSTO DE RENDA – INCIDÊNCIA SOBRE PROVENTOS DE APOSENTADORIA - LEI 7.713/88 – POSSIBILIDADE – QUESTÃO ENFRENTADA PELO SUPREMO TRIBUNAL FEDERAL – RECURSO DESPROVIDO.
+    - Quando a sentença preenche os requisitos mencionados no artigo 458 do Código de Processo Civil, estando presentes, de forma clara e objetiva, as razões de convencimento, não há como falar em nulidade por falta de fundamentação.
+    - Ante o definitivo posicionamento da Suprema Corte sobre a constitucionalidade da lei 7.713/88 e de que a norma contida no artigo 153, parágrafo 2º, II, da Constituição Federal não é auto-aplicável, resta claro que o apelante não tem direito à restituição de valores descontados de seus proventos de aposentadoria, a título de imposto de renda, no período de junho a dezembro de 1998.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, e 153, § 2º, II, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que a jurisprudência do Supremo se firmou em sentido contrário à pretensão deduzida. O agravante insiste na alegação de ofensa aos dispositivos constitucionais destacados no recurso extraordinário.
+    De início, cumpre salientar que o Supremo Tribunal Federal pacificou seu entendimento no sentido de que não era de aplicabilidade imediata a imunidade prevista pelo artigo 153, § 2º, II, da Carta. De toda forma, ficou reconhecida a validade dos limites estabelecidos pela Lei nº 7.713/88 até que a matéria fosse objeto de regulamentação por lei complementar (RE 520.821-AgR, Rel. Min. Gilmar Mendes). Assim, não prospera a alegação de inconstitucionalidade formal.
+    Ademais, não procede a alegação de que a parte detém direito adquirido à imunidade prevista no art. 153, § 2º, II, da Carta, em face da posterior promulgação da Lei nº 7.713/88 e da EC nº 20/98. A jurisprudência desta Corte não admite a existência de um direito adquirido à imunidade de tributação. Nessa linha, veja-se ementa do RE 352.292-AgR, julgado sob relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA SOBRE PROVENTOS DE APOSENTADORIA. INEXISTÊNCIA DE DIREITO ADQUIRIDO À NÃO TRIBUTAÇÃO. POSSIBILIDADE DE REVOGAÇÃO DO ART. 153, §2º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA PELA EMENDA CONSTITUCIONAL N. 20/98. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 1º de outubro de 2013.
+Ministro Luís Roberto Barroso
+Relator
