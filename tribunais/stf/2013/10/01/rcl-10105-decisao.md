@@ -1,0 +1,33 @@
+Trata-se de reclamação, com pedido de medida liminar, proposta por FÁBIO MIRANDA LOPES, representado pela Defensoria Pública do Estado de São Paulo, contra acórdão do Tribunal de Justiça daquele Estado proferido no Agravo em Execução 990.09.203469-3.
+    Extrai-se dos autos que o reeducando foi condenado, definitivamente, a uma pena total de 10 anos, 6 meses e 20 dias de reclusão, em regime fechado, pelos crimes de tráfico ilícito de entorpecentes, praticado antes da vigência da Lei 11.464/2007, roubo e porte ilegal de arma de fogo.
+    O reclamante afirma que teve o pedido de progressão de regime prisional deferido pelo Juízo de Direito das Execuções Criminais da Comarca de Assis/SP, que considerou como requisito temporal o cumprimento de 1/6 da sanção imposta, nos termos do art. 112 da Lei de Execuções Penais.
+    Aduz, em seguida, que, contra essa decisão o Ministério Público do Estado de São Paulo ajuizou agravo em execução, sustentando que, para fazer jus ao benefício, o reclamante deveria cumprir 3/5 da pena, em observância ao que dispõe o art. 2º, § 2º, da Lei 8.072/1990, com a redação dada pela Lei 11.464/2006.
+    Relata, em seguida, que o recurso ministerial foi provido pelo Tribunal de Justiça local para determinar que o reclamante retorne ao regime fechado, e, por ser reincidente, cumpra 3/5 da pena para, somente depois, obter o regime semiaberto.
+    Assevera, assim, que a Corte bandeirante, com essa decisão, afrontou o enunciado de Súmula Vinculante 26, sendo essa, portanto, a razão desta reclamação.
+    Alega, inicialmente, que o TJSP, ao prover o recurso ministerial, aplicou retroativamente a Lei 11.464/2007, a qual, no caso, por se tratar de lex gravior, não poderia retroagir para alcançar o apenado. Entende, desse modo, que estaria configurada a afronta à autoridade do referido enunciado sumular vinculante.
+    Argumenta, ademais, que, “em razão da inconstitucionalidade do § 1º da Lei nº 8.072/90 e ante a proibição da retroatividade in pejus, o tempo de cumprimento de pena para a progressão de regime nos crimes praticados antes da Lei nº 11.464/07 é aquele estabelecido no art. 112 da Lei de Execuções Penais”.
+    Insiste, portanto, no argumento de que a aplicação retroativa da Lei 11.464/2007 afronta de forma flagrante a autoridade da Súmula Vinculante 26.
+    Requer, ao final, liminarmente, a suspensão do ato impugnado e, no mérito, a cassação do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, para que seja restabelecido o regime semiaberto.
+    Em 6/5/2010, indeferi o pedido de liminar, solicitei informações ao Juízo de Execução Criminais da Comarca de Assis/SP e ao TJSP, bem como determinei, na sequência, fosse ouvido o Procurador-Geral da República.
+    O Juízo de primeiro grau prestou informações em 31/5/2010, encaminhando o inteiro teor da decisão que deferiu o regime semiaberto. O magistrado da 2ª Vara de Execuções Criminais e Corregedoria dos Presídios da Comarca de Bauru/SP, por sua vez, acrescentou alguns esclarecimentos e apresentou outros documentos.
+    O Tribunal de Justiça estadual, depois de reiterado o pedido, prestou informações em 29/7/2010.
+    O Ministério Público Federal, em parecer da lavra do Procurador-Geral da República, Roberto Monteiro Gurgel Santos, manifestou-se pela negativa de seguimento da reclamação.
+    É o breve relatório. Decido.
+    Não obstante os argumentos expendidos na inicial, entendo que a pretensão não merece acolhida. Isso porque o pedido ora formulado pelo reclamante não se enquadra em nenhuma das duas hipóteses autorizadoras referidas no art. 102, I, l, da Constituição Federal, seja para preservar a competência desta Suprema Corte, seja para garantir a autoridade de suas decisões.
+    Nesta reclamação, alega-se como violado o verbete da Súmula Vinculante 26, cuja redação é a seguinte:
+    “PARA EFEITO DE PROGRESSÃO DE REGIME NO CUMPRIMENTO DE PENA POR CRIME HEDIONDO, OU EQUIPARADO, O JUÍZO DA EXECUÇÃO OBSERVARÁ A INCONSTITUCIONALIDADE DO ART. 2º DA LEI N. 8.072, DE 25 DE JULHO DE 1990, SEM PREJUÍZO DE AVALIAR SE O CONDENADO PREENCHE, OU NÃO, OS REQUISITOS OBJETIVOS E SUBJETIVOS DO BENEFÍCIO, PODENDO DETERMINAR, PARA TAL FIM, DE MODO FUNDAMENTADO, A REALIZAÇÃO DE EXAME CRIMINOLÓGICO”.
+    O acórdão reclamado, por sua vez, consignou:
+    “Note-se que o § 1º do artigo 2º da Lei 8.072/90 foi alterado pela Lei 11.464/07, o que permitiu a progressão de regime aos sentenciados por crimes hediondos ou assemelhados. Portanto, tal dispositivo é benéfico ao agravado, devendo ser aplicado aos crimes cometidos antes da vigência da lei nova. Contudo, obedecendo-se aos percentuais nela estabelecidos.
+    (...)
+    Sendo reincidente e condenado por crime hediondo, o recorrido deverá cumprir o disposto na Lei nº 11.464/07, qual seja, liquidar ao menos mais 3/5 (três quintos) de sua pena, o que ocorrerá somente em 11/03/2012 (...).
+    Diante do exposto, DOU PROVIMENTO ao agravo ministerial para cassar a r. Sentença, devendo o agravado retornar ao estabelecimento prisional de regime fechado para cumprir o restante da pena fixada até, no mínimo, completar o período de 3/5 (três quintos) da reprimenda em análise”.
+    Observo, por outro lado, que os precedentes citados para justificar a edição da Súmula Vinculante 26 não trataram do tema sob a ótica ora apresentada pelo reclamante, bem como são anteriores à edição da Lei 11.464/2007, não fazendo, portanto, qualquer alusão a ela.
+    Assim, diante da ausência de identidade material entre os fundamentos do ato reclamado e aqueles emanados da súmula vinculante ora invocada, não merece seguimento a pretensão do reclamante.
+    Ressalto, ainda, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal.
+    Nesse sentido, nos termos do art. 21, § 1º, do Regimento Interno do STF, poderá o Relator
+    “negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil”.
+    Isso posto, nego seguimento a esta reclamação (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 1º de outubro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
