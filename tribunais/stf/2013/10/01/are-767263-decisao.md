@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. SERVIDOR PÚBLICO CELETISTA. PENSÃO POR MORTE. RECÁLCULO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Sexta Câmara de Direito Público do Tribunal de Justiça de São Paulo decidiu:
+    “Complementação de pensão Funcionários celetistas do Banco Nossa Caixa Recálculo dos benefícios com base em 100% da totalidade dos proventos dos ex-contribuintes e não 75% - Sentença de procedência - Recurso voluntário da Fazenda Preliminar de ilegitimidade passiva - Acolhimento Ação extinta com relação à Fazenda do Estado, com a condenação das autoras ao pagamento de honorários advocatícios - Recursos voluntários das demais rés - Preliminar de prescrição afastada - Obrigação de trato sucessivo - Prescrição das prestações anteriores a cinco anos da propositura da ação, e não do fundo de direito Súmula n. 85 do C. Superior Tribunal de Justiça - Quanto ao mérito, impõe-se a Improcedência da ação Pretensão fundada em regras inerentes à previdência dos servidores públicos estatutários - Descabimento - As autoras não são pensionistas de servidores públicos estatutários, mas sim de ex-empregados regidos pela CLT - Sentença reformada - Recurso da Fazenda provido para excluí-la do pólo passivo da ação - Recursos das demais rés providos, repelidas as preliminares, para o fim de julgar improcedente a ação - Recurso adesivo da autora desprovido” (fl. 1266).
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário: a) insuficiência de argumentos para infirmar a fundamentação do acórdão recorrido; b) ausência de contrariedade às normas constitucionais, não sendo atendida qualquer das hipóteses das alíneas a , b , c e d do inc. III do art. 102 da Constituição da República; e c) ofensa constitucional indireta.
+    4. As Agravantes argumentam que
+    “o apelo extremo em tela atende à hipótese constitucional de cabimento, uma vez que configurada a violação à dispositivos de lei federal e dissídio pretoriano, e, da mesma forma, foram obedecidos todos os requisitos legais de admissibilidade, não havendo, desta forma, motivo plausível para a não admissão do mesmo.
+    (…)
+    Inicialmente cumpre afirmar que existe previsão legal expressa determinando a observância das normas pertinentes aos funcionários públicos do Estado de São Paulo nas pensões das Recorrentes, sendo certo que não são servidores celetistas (grupo ‘C’), mas sim servidores públicos protegidos pela Lei estadual n. 10.430/71 e Decreto [estadual] n. 7.711 (grupo ‘A’) e pelas Leis estaduais ns. 386/51 e 4819/58 (grupo ‘B’), todos regidas pela Lei Complementar estadual n. 180/78” (fls. 1350-1351).
+    No recurso extraordinário, alegam que o Tribunal a quo teria contrariado os arts. 39, § 2º, e 40 §§ 4º, 5º e 7º, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste às Agravantes.
+    O Desembargador Relator do caso na Sexta Câmara de Direito Público do Tribunal de Justiça de São Paulo afirmou:
+    “Cuida-se de ação ordinária ajuizada por pensionistas de ex-funcionários celetistas da Nossa Caixa, objetivando o recálculo da complementação de suas pensões, sob o argumento de que recebem o benefício correspondente a 75% dos proventos dos contribuintes falecidos, quando deveriam receber 100% desse valor, nos termos do art. 40 e parágrafos, da CF/88.
+    Contudo, em que pesem os argumentos das autoras, tem-se que a improcedência da ação é medida que se impõe no caso.
+    Como sabido, são diferentes os regimes aplicados aos empregados celetistas e aos servidores estatutários.
+    Enganam-se as autoras quando afirmam que se equiparam estas duas categorias para todos os efeitos legais. Na verdade, assiste razão a elas no tocante à tese de aplicação do artigo 40 e parágrafos da Carta Magna aos pensionistas de servidores celetistas.
+    A própria redação do artigo 40 deixa claro que o sistema de previdência somente é aplicado aos ‘servidores titulares de cargos efetivos’, não inserindo, portanto, os empregados celetistas, inexistindo lei que determine a aplicação do mesmo tratamento a eles.
+    (…)
+    A Constituição Federal foi clara em criar um regime jurídico único para seus servidores. Quando determinou a unicidade desse regime excluiu a possibilidade de aplicação das regras trabalhistas aos servidores estatutários.
+    Embora em seu artigo 39, § 2º, tenha estendido alguns direitos do trabalhador celetista aos servidores públicos, em verdade, os regimes são completamente distintos” (fls. 1270-1273, grifos nossos).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame de prova, inviável em recurso extraordinário, nos termos do que dispõe a Súmula n. 279 deste Supremo Tribunal.
+    O novo exame do julgado impugnado exigiria, ainda a análise prévia de legislação infraconstitucional aplicada à espécie (Lei Complementar estadual n. 180/1978, Leis estaduais ns. 386/1951, 4.819/1958 e 10.430/1971, e Decreto estadual n. 7.711/1976). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário:
+    “Agravo regimental no recurso extraordinário. Servidor celetista. Pensão. Lei Complementar n. 180/78 do Estado de São Paulo. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário ao reexame de legislação local e de fatos e provas. Incidência das Súmulas nºs 280 e 279 desta Corte. 2. Agravo regimental não provido” (RE 417.045-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 10.11.2011, grifos nossos).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações das Agravantes.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de outubro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
