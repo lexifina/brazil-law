@@ -1,0 +1,13 @@
+Preliminarmente, afasto o sobrestamento de fl. 417 e passo a examinar o apelo extremo.
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, que se declarou incompetente para julgar demanda envolvendo cobrança de contribuição sindical rural e determinou a remessa dos autos ao Tribunal Superior do Trabalho, sob o fundamento de que é de aplicação imediata as alterações promovidas pela EC 45/2004 quanto ao art. 114 da CF, que dispõem sobre a competência da Justiça do Trabalho.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 114, III, da mesma Carta. Para tanto, sustentou-se a incompetência da Justiça Laboral para julgar a questão versada no presente processo.
+    A pretensão recursal merece acolhida.
+    É certo que o Plenário do Supremo Tribunal Federal, ao julgar o CC 7.456/RS, Rel. Min. Menezes Direito, sufragou entendimento no sentido de que, após a promulgação da Emenda Constitucional 45/2004, compete à Justiça do Trabalho o julgamento das ações que discutem sobre contribuição sindical.
+    Todavia, em caso anterior, no julgamento do CC 7.204/MG, Rel. Min. Ayres Britto, esta Corte decidindo que, como imperativo de política judiciária, as alterações levadas a efeito pela EC 45/2004, quanto à competência da Justiça do Trabalho definida no art. 114 da CF, só alcançam os processos em trâmite na Justiça Comum pendentes de julgamento de mérito. Assim, os processos que tramitam ou tramitaram na Justiça Comum, com sentença de mérito anterior à EC 45/2004, lá permanecem até o trânsito em julgado e correspondente execução.
+    Com essa mesma orientação, destaco os seguintes precedentes, entre outros: RE 491.723-AgR/PR, Rel. Min. Cezar Peluso; CC 7.430/SP e RE 491.667/PR, Rel. Min. Cármen Lúcia; CC 7.221/RS e RE 476.893-AgR/PR, Rel. Min. Marco Aurélio; RE 502.072/PR, Rel. Min. Teori Zavascki; RE 488.873/MG, Rel. Min. Dias Toffoli; RE 502.577/PR e RE 578.003/PR, de minha relatoria.
+    No caso concreto, foi proferida, por magistrado estadual de primeira instância, sentença de mérito em 24/9/2002 (fls. 160-175), data anterior à promulgação da EC 45/2004. Ante o quadro, deve ser mantida a competência da Justiça Comum para julgar o presente processo.
+    Isso posto, conheço do recurso e dou-lhe provimento (CPC, art. 557, § 1º-A) para reconhecer a competência da Justiça comum, determinando, em consequência, que o Superior Tribunal de Justiça prossiga no julgamento do recurso especial interposto.
+    Publique-se.
+    Brasília, 1º de outubro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
