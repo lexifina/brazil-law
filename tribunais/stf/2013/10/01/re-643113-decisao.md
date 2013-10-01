@@ -1,0 +1,22 @@
+DECISÃO
+    Vistos.
+    Estado do Rio Grande do Norte interpõe recurso extraordinário, com fundamento na línea “a” do permissivo constitucional, contra acórdão da Terceira Câmara do Tribunal de Justiça daquele Estado, assim ementado:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. SERVIDOR PUBLICO ESTADUAL. VENCIMENTO-BASE INFERIOR AO SALÁRIO MÍNIMO. COMPLEMENTAÇÃO POR MEIO DE ABONO. PRELIMINAR DE PRESCRIÇÃO DO FUNDO DO DIREITO. REJEIÇÃO. PRECEDENTES DO STF E DESTA CORTE. VANTAGENS PESSOAIS INCIDENTES SOBRE O TOTAL DOS VENCIMENTOS. RECURSO CONHECIDO E PROVIDO.
+    - O abono possui a mesma natureza jurídica do vencimento-base, por consistir em contraprestação pelo exercício do cargo, de modo que devem incidir também sobre ele as vantagens de caráter pessoal do servidor”.
+    Opostos embargos de declaração, foram rejeitados.
+    Alega o recorrente violação dos artigos 5º, inciso II, 7º, inciso IV, 37, caput e inciso XIII, 39, § 3º, e 93, inciso IX, da Constituição Federal.
+    Apresentadas contrarrazões, o recurso extraordinário foi admitido.
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 4/8/06, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Merece prosperar a irresignação.
+    Na sessão de 13 de novembro de 2008, o Plenário do Supremo Tribunal Federal, ao apreciar os Recursos Extraordinários nºs 572.921/RN e 582.019/SP, ambos da relatoria do Ministro Ricardo Lewandowski, reconheceu a existência da repercussão geral das matérias constitucionais versadas nestes feitos e reafirmou a jurisprudência dominante nesta Corte no sentido de que o salário mínimo previsto nos artigos 7º, inciso IV, e 39, § 3º, da Constituição Federal, corresponde à remuneração total do servidor e não apenas ao vencimento básico e, também, que as gratificações e demais vantagens não incidem sobre o abono pago para atingir o salário-mínimo, por contrariar o artigo 7º, inciso IV, da Constituição Federal. Nesse sentido:
+    “I. Servidor público: salário mínimo. 1. É da jurisprudência do STF que a remuneração total do servidor é que não pode ser inferior ao salário mínimo (CF, art. 7º, IV). 2. Ainda que os vencimentos sejam inferiores ao mínimo, se tal montante é acrescido de abono para atingir tal limite, não há falar em violação dos artigos 7º, IV, e 39, § 2º, da Constituição. 3. Inviável, ademais, a pretensão de reflexos do referido abono no cálculo de vantagens, que implicaria vinculação constitucionalmente vedada (CF, art. 7º, IV, parte final). II. Agravo regimental: desprovimento: discussão acerca do valor relativo aos honorários advocatícios, tendo em vista a inversão dos ônus da sucumbência, que implicaria análise dos limites em que a lide foi decidida” (RE nº 511.986/RN-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE. VENCIMENTOS. SALÁRIO MÍNIMO. COMPLEMENTAÇÃO POR ABONO. VANTAGENS PESSOAIS. INCIDÊNCIA SOBRE O VALOR DO ABONO. IMPOSSIBILIDADE. HONORÁRIOS DE ADVOGADO. FIXAÇÃO. § 4º, ART. 20, CPC. A decisão agravada está em conformidade com o entendimento firmado por ambas as Turmas desta Corte. A verba honorária foi fixada levando-se em consideração o § 4º do art. 20 do Código de Processo Civil. Agravos regimentais a que se nega provimento” (RE nº 527.898/RN-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/8/07).
+    Em arremate, ressalte-se que o Supremo Tribunal Federal editou a Súmula Vinculante n° 16, que assim dispõe:
+    “Os artigos 7º, IV, e 39, § 3º (redação da EC 19/98), da Constituição, referem-se ao total da remuneração percebida pelo servidor público”.
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para reformar o acórdão recorrido e julgar improcedente o pedido formulado na petição inicial. Custas e honorários advocatícios fixados em R$ 1.000,00 pelas autoras, vencidas, observada a regra do artigo 12 da Lei nº 1.060/50.
+    Publique-se.
+    Brasília, 1º de outubro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
