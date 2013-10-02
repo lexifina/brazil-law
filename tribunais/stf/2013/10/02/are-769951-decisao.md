@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DAS PROVAS. SÚMULA N. 279 DO SUPREMO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “PENAL E PROCESSUAL PENAL. PRELIMINAR QUEIXA-CRIME - DIFAMAÇAO/INJÚRIA. AUSÊNCIA DE PROVAS. JUSTA CAUSA. RECURSO DESPROVIDO.
+      Conforme reiterada jurisprudência do Eg. TJDFT, que segue a jurisprudência do Superior Tribunal de Justiça, o juiz que colheu a prova em audiência, caso se afaste do juízo por motivo legal (nova designação para juízo diverso, férias, licença, remoção, promoção, convocação etc.), desvincula-se, devendo a sentença ser proferida pelo juiz (titular ou substituto) que o suceda temporalmente no juízo, podendo repetir ou não as provas produzidas, tudo de acordo com o art. 132 do Código de Processo Civil, analogicamente aplicável. (Acórdão n. 559342, 20100110007256APR, Relator MARIO MACHADO, 1ª Turma Criminal, julgado em 15/12/2011, DJ 20/01/2012 p. 181).
+      É necessário que a insurgência contra a decisão proferida em audiência seja verbalizada pelo ofendido/querelante, sob pena de preclusão.
+      Mérito. As provas existentes se mostram insuficientes para ensejar a prolação da sentença, pois não se formou certeza do ocorrência do delito.
+      As testemunhas ouvidas, embora comprovem que houve discussão, não foram capazes de narrar com o necessário detalhamento para corroborar a versão do ofendido/recorrente. Diante da falta de elementos que comprovem os fatos alegados configura-se a dúvida que autoriza o decreto de absolvição.
+      Recurso conhecido e desprovido. Dispensado voto e relatório na forma do art. 82, § 5º, da LJE”.
+    2. A Agravante alega que o Tribunal de origem teria contrariado os arts. 5º, incs. II, LIV e 93, inc. IX, da Constituição da República.
+    Afirma que “ao impor essa delimitação do objeto da prova, não apreciando os fatos ofensivos imputados dolosamente pelo Recorrida contra a dignidade e a honra da Recorrente, descritos na Queixa-Crime (fls. 14/19), o Juiz a quo agiu com arbitrariedade, afrontando diretamente e frontalmente a jurisprudência desta Corte” (fl. 460).
+    Sustenta que “a Excelsa Corte entende que o artigo 144 do CP concede à vítima de crime contra a honra a faculdade de pedir explicações ao ofensor, em juízo, antes ou no lugar de pedir instauração de inquérito ou de oferecer a queixa”.
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) a ofensa constitucional, se tivesse ocorrido, seria indireta e dependeria de análise de legislação infraconstitucional; b) necessidade de análise das provas (Súmula n. 279 do Supremo Tribunal Federal).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, incs. II e LIV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, Código Penal, Código de Processo Penal), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional, se tivesse ocorrido, seria indireta:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. 1. Inexistência de contrariedade ao art. 93, inc. IX, da Constituição da República. 2. Admissibilidade de recurso de competência de tribunal diverso: inexistência de repercussão geral. Matéria infraconstitucional. 3. Alegada contrariedade aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal. Necessidade de análise de matéria infraconstitucional: ofensa constitucional indireta. 4. Agravo regimental ao qual se nega provimento” (ARE 754.373-AgR, de minha relatoria, Segunda Turma, DJe 24.9.2013).
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    7. Ademais, no voto condutor do acórdão recorrido, o Relator Juiz João Fischer, do Tribunal de Justiça do Distrito Federal e dos Territórios afirmou:
+    “As provas existentes se mostram insuficientes para ensejar a prolação da sentença, pois não se formou certeza do ocorrência do delito.
+      As testemunhas ouvidas, embora comprovem que houve discussão, não foram capazes de narrar com o necessário detalhamento para corroborar a versão do ofendido/recorrente. Diante da falta de elementos que comprovem os fatos alegados configura-se a dúvida que autoriza o decreto de absolvição”.
+    O Tribunal de origem apreciou a matéria à luz dos fatos e das provas constantes dos autos.
+    Concluir de forma diversa do que decidido demandaria o reexame do conjunto fático-probatório, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido: AI-AgR 761.897/RS, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 30.4.2010; AI-AgR 541.381/GO, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 17.4.2009; e o ED-ARE 707.672/SP, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 19.2.2013.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de outubro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
