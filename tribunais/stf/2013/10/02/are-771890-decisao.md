@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região que, em sede de ação ordinária, decidiu, no que importa ao presente apelo, que (I) não há que se falar em julgamento ultra petita; (II) a UFPR está legitimada a responder a ação, pois é autarquia federal, dotada de autonomia administrativa e financeira; (III) “(...) não poderia a administração pública alterar os critérios de cálculo da vantagem ora discutida, uma vez que decorrido prazo superior a 05 (cinco) anos contados da vigência da Lei n. 9.874/99 (...)” (e-STJ fl. 463); e (IV) como a sentença reconheceu a decadência apenas do direito de repetição de parcelas recebidas há mais de cinco anos e não houve recurso do Sindicato-autor no ponto, deve ser mantida em sua integridade, sob pena de reformatio in pejus.
+    Opostos embargos de declaração foram acolhidos.
+    No recurso extraordinário, a parte recorrente aponta ofensa aos seguintes dispositivos constitucionais: (a) art. 5º, LIV, ao argumento de que a União deve figurar no pólo passivo da demanda; (b) art. 5º, II, aduzindo que o entendimento da CGU encontra-se correto; e (c) art. 5º, LIV, alegando que houve sentença ultra petita.
+    2. Quanto à alegação de ofensa aos limites da coisa julgada e aos princípios do devido processo legal, do contraditório e da ampla defesa, diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta Corte na análise do ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660), por se tratar de questão infraconstitucional. Registre-se que a decisão de inexistência de repercussão geral tem eficácia em relação a todos os recursos sobre matéria idêntica (art. 543-A, § 5º, do CPC c/c art. 327, § 1º, do RISTF).
+    3. Por fim, o Tribunal de origem decidiu a controvérsia tão somente a partir de interpretação e aplicação da legislação infraconstitucional. É inviável a apreciação, em sede de recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa.
+    4. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 2 de outubro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
