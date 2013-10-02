@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Gustavo Francisco Amaral contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça nos autos do HC 274.079/SP. Eis a ementa do julgado:
+    (...)
+    2. Não há como atender o pedido formulado, uma vez que o indeferimento do livramento condicional pelas instâncias ordinárias foi com com base na ausência do preenchimento de requisito subjetivo, qual seja a fuga durante a execução das penas, o que é suficiente para fundamentar a decisão denegatória, na forma da jurisprudência dominante neste Tribunal Superior.
+    3. In casu, em relação à necessidade de exame criminológico a Corte estadual amparou-se, para justificar o decisum, no histórico carcerário do paciente, que cometeu 04 (quatro) faltas disciplinares de natureza grave – burla à vigilância e desrespeito a funcionário, fuga, posse de celular e de entorpecente e dificultar a vigilância. Desse modo, devidamente justificada, a determinação encontra amparo na Súmula nº 439 desta Corte.
+    Sustenta o impetrante, em síntese, que: (a) o paciente cumpre pena de 8 (oito) anos, 5 (cinco) meses e 18 (dezoito) dias de reclusão pela prática do crime de roubo (art. 157, § 2º , II, do CP); (b) o cometimento de faltas graves anteriores ao fato pelo qual se encontra preso não é fundamento idôneo para negar o benefício do livramento condicional; (c) o pressuposto subjetivo exigido pelo art. 83 do Código Penal está preenchido, já que não existe qualquer notícia de que o paciente tenha praticado outros crimes. Requer a concessão de medida liminar, “a fim de que reste restabelecido o livramento condicional”.
+    2. Não estão presentes os requisitos autorizadores da concessão da medida liminar. Isso porque, em juízo de cognição sumária, não se evidencia flagrante ilegalidade na decisão que considerou a prática de falta grave como circunstância apta a macular o requisito subjetivo exigido no artigo 83, III, do Código Penal. Ademais, o exame acerca do preenchimento, ou não, desse requisito subjetivo demandaria, em princípio, o reexame de fatos e provas, o que não é admitido em sede de habeas corpus (v.g., HC 103733, Relator(a): Min. RICARDO LEWANDOWSKI, Primeira Turma, Dje de 19-11-2010; HC 96189, Relator(a): Min. ELLEN GRACIE, Segunda Turma, Dje de 03-04-2009).
+    3. Com essas considerações, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 02 de outubro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
