@@ -1,0 +1,11 @@
+Solução de Consulta Disit/SRRF09 nº 180, de 10 de setembro de 2013
+Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins
+MUDANÇA DE REGIME DE TRIBUTAÇÃO. CRÉDITO. ESTOQUE. COFINS-IMPORTAÇÃO.
+A pessoa jurídica que alterar a forma de tributação do IRPJ, de lucro presumido para lucro real, terá direito a desconto na determinação da Cofins, correspondente ao estoque de abertura dos bens adquiridos de pessoa jurídica domiciliada no país para revenda ou para utilização como insumo na fabricação de produtos destinados à venda ou na prestação de serviços, desde que atendidos todos os requisitos normativos e legais atinentes à espécie. A importação de bens para a revenda ou para uso como insumo não gera direito a crédito de abertura de estoques para ser utilizado na determinação da Cofins quando da mudança do regime de tributação do lucro presumido para o lucro real, por ausência de previsão legal.
+Dispositivos Legais: Lei nº 10.833, de 2003, art. 3º, I, e § 3º, I, art. 10, II, e art. 12, caput e § 5º; Lei nº 10.865, de 2004, art. 15, I, e § 3º, e art. 16.
+Assunto: Contribuição para o PIS/Pasep
+MUDANÇA DE REGIME DE TRIBUTAÇÃO. CRÉDITO. ESTOQUE. PIS/PASEP-IMPORTAÇÃO.
+A pessoa jurídica que alterar a forma de tributação do IRPJ, de lucro presumido para lucro real, terá direito a desconto na determinação da Contribuição ao PIS/Pasep, correspondente ao estoque de abertura dos bens adquiridos de pessoa jurídica domiciliada no país para revenda ou para utilização como insumo na fabricação de produtos destinados à venda ou na prestação de serviços, desde que atendidos todos os requisitos normativos e legais atinentes à espécie. A importação de bens para a revenda ou para uso como insumo não gera direito a crédito de abertura de estoques para ser utilizado na determinação da Contribuição ao PIS/Pasep quando da mudança do regime de tributação do lucro presumido para o lucro real, por ausência de previsão legal.
+Dispositivos Legais: Lei nº 10.637, de 2002, art. 3º, I, e § 3º, I, art. 8º, II, e art. 11, caput e § 3º; Lei nº 10.833, de 2003, art. 12, § 5º, c/c art. 16, Parágrafo único: Lei nº 10.865, de 2004, art. 15, I, e § 3º, e art. 16.
+Novo segmento
+[arquivo anexo: SC SRRF09-Disit nº 180-2013.pdf]
