@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Adalberto Vieira da Silva e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, caput, 7°, incisos VI e X, e 37, caput, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão da Quarta Turma do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORES DA CARREIRA ASSISTENCIA À EDUCAÇÃO. GRATIFICAÇÃO DE APOIO TÉCNICO ADMINISTRATIVO (GATA). LEI DISTRITAL N° 3.319/2004. INCONSTITUCIONALIDADE MATERIAL DECLARADA PELO CONSELHO ESPECIAL DO TJDFT (ADI 2006.00.2.011856-7). EFEITOS EX NUNC. APELO NÃO PROVIDO.
+    1 - O inciso VI do artigo 19 da Lei Distrital nº 3.319/2004, que cria a Gratificação de Apoio Técnico-Administrativo para servidor da carreira Assistência à Educação do Distrito Federal admitido até 29 de fevereiro de 2004, foi declarado inconstitucional pelo egrégio Conselho Especial desta Corte de Justiça, pois a restrição temporal atribui tratamento desigual entre. os servidores da mesma carreira, afrontando o princípio da isonomia.
+    2 - Tendo a Corte Especial deste Tribunal reconhecido à inconstitucionalidade integral do dispositivo, torna-se indevido· o direito à percepção da gratificação em comento.
+    3 - Apelação não provida”.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se, por fim, que o Tribunal de origem dirimiu a controvérsia com base na legislação infraconstitucional pertinente (Lei Distrital 3.319/04), e provas que compõem a lide, cujo reexame é vedado em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. REESTRUTURAÇÃO DE CARREIRA. EXTENSÃO AOS INATIVOS. LEI 3.319/2004 DO DISTRITO FEDERAL. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - A apreciação do tema constitucional, no caso, depende do prévio exame de norma infraconstitucional local (Lei Distrital 3.319/2004) aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. II - A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, XXXV, da Constituição pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. III - Não há contrariedade ao art. 93, IX, da Constituição quando o acórdão recorrido encontra-se suficientemente fundamentado. IV - Agravo regimental improvido” (AI 726.906/DF-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 27/3/09).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REENQUADRAMENTO. SERVIDORES APOSENTADOS. REESTRUTURAÇÃO DA CARREIRA. LEI DISTRITAL N. 3.319/04. REEXAME DE PROVAS E DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A controvérsia dos autos --- reenquadramento de servidor inativo a partir de legislação posterior à aposentadoria, que altera a estrutura da carreira --- depende da análise da legislação local pertinente, e do revolvimento de matéria fático-probatória, providências vedadas nesta instância, em face da incidência das Súmulas ns. 279 e 280 do STF. 2. Agravo regimental a que se nega provimento” (AI 668.552/DF-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 7/12/07).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 3 de outubro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
