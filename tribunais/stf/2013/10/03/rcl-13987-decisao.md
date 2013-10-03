@@ -1,0 +1,18 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada por PEDRO DE CAMARGO NETO, contra decisão do Juízo de Direito da 2ª Vara Criminal da Comarca de Campinas/SP, que teria contrariado decisão do Plenário desta Corte.
+    O reclamante narra, de início, que foi condenado à pena de 1 ano e 8 meses de reclusão, em regime inicial fechado, e ao pagamento de 166 dias- multa pela prática do delito previsto no art. 33 da Lei 11.343/2006.
+    Aduz, mais, que o juízo sentenciante fixou a pena-base no mínimo legal e aplicou a minorante prevista no § 4º do art. 33 da Lei de Drogas no grau máximo permitido (2/3), negando, contudo, a possibilidade de substituição da pena privativa de liberdade por uma pena restritiva de direitos.
+    Daí porque entende que a sentença proferida pela autoridade reclamada contraria o que decidido pelo Plenário deste Tribunal no julgamento do HC 97.256/RS, Rel. Min. Ayres Britto, oportunidade em que foi declarada a inconstitucionalidade das expressões “vedada a conversão em penas restritivas de direito” e “vedada a conversão de suas penas em restritivas de direito”, contidas, respectivamente, no § 4º do art. 33 e no art. 44, ambos da Lei 11.343/2006.
+    Argumenta, para tanto, que, naquele julgado, esta Corte determinou que “ficaria a cargo do Juízo das Execuções Criminais o exame dos requisitos necessários para conversão da pena”.
+    Requer, ao final, a concessão de medida liminar para que sejam suspensos os efeitos da sentença condenatória proferida pelo Juízo da 2ª Vara Criminal da Comarca de Campinas/SP.
+    Em 27/6/2012, indeferi a liminar requerida e, estando os autos bem instruídos, determinei a remessa ao Procurador-Geral da República, que, por sua vez, manifestou-se pela improcedência do pedido.
+    É o relatório necessário. Decido.
+    Bem reexaminados os autos, tenho que o caso é de improcedência do pedido.
+    Conforme bem destacado no parecer ministerial, a reclamação não procede. Por oportuno, transcrevo trecho da manifestação do Parquet:
+    “8. Apesar do afastamento da vedação constante do § 4º do art. 33 da Lei nº 11.343/06, verifica-se que o magistrado optou por critério de ordem subjetiva para decidir sobre a conversão da pena. Isto é possível, pois mesmo em se tratando de tráfico de entorpecentes, há possibilidade de incidência do artigo 44 do Código Penal, no sentido de que as penas restritivas de direito substituem as privativas de liberdade somente quando as circunstâncias do delito indicarem que a substituição é suficiente para prevenção e repressão do crime.
+    9. Na hipótese, a autoridade reclamada deixou de substituir a pena privativa de liberdade em razão da ausência de requisito subjetivo e não pela vedação então prevista no art. 33, § 4º, da Lei nº 11.343/06 (objeto do Habeas Corpus nº 97.256/RS), pelo que se conclui pela ausência de pertinência entre o caso e o acórdão paradigma” (página 3 do documento eletrônico 10).
+    Percebe-se, pois, que o ato reclamado não guarda identidade material com a decisão paradigma desta Corte. Por outro lado, o instrumento da reclamação, conforme pacífica jurisprudência do Supremo Tribunal Federal, não pode ser utilizada como sucedâneo recursal, tal como pretende o reclamante. Nesse sentido cito os seguintes precedentes: Rcl 9.823-AgR/RO, Rel. Min. Dias Toffoli; Rcl 8.176-AgR/RN, Rel. Min. Teori Zavascki; Rcl. 10.098-AgR/SP, Rel. Min. Cármen Lúcia; Rcl 10.690-AgR/RS, Rel. Min. Celso de Mello, entre outras.
+    Isso posto, julgo improcedente esta reclamação.
+    Publique-se.
+    Brasília, 3 de outubro de 2013.
+Ministro Ricardo Lewandowski
+Relator
