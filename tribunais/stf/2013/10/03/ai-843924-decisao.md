@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Alexandre Antônio Saad Gebran Neto e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 37, inciso XVI, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL. IMPROBIDADE ADMINISTRATIVA. CUMULAÇÃO DE CARGOS. PROIBIÇÃO CONSTITUCIONAL. AÇÃO DIRIGIDA SOMENTE CONTRA OS SERVIDORES BENEFICIADOS. INCLUSÃO DA AUTORIDADE QUE OS NOMEOU LITISCONSÓRCIO PASSIVO NECESSÁRIO.
+    1. O agente político, Chefe de um Poder, deve responder pelo ato de empossar servidos públicos, em acumulo de cargos/funções, ao arrepio de vedação expressa da Constituição Federal.
+    2. Se a natureza da demanda é coletiva, importa aos interessados que todos os responsáveis pela improbidade se submetam à jurisdição, para ver a eles aplicadas as penas da LIA.
+    3. Apelação Cível provida.”
+    Opostos embargos de declaração, foram rejeitados.
+    Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Paulo Gustavo Gonet Branco, pelo desprovimento do agravo de instrumento.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que as instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente e em detida análise dos fatos narrados nos autos; assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que torna tal matéria igualmente insuscetível de revisão nesta via extraordinária.
+    Bem por isso, o acolhimento da pretensão recursal demandaria o reexame desse conjunto fático-probatório, algo que tampouco seria possível em um apelo extremo, como o presente. Incidência da Súmula nº 279 desta Corte. Sobre o tema:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CUMULAÇÃO DE CARGOS OCORRIDA EM 1990. PROFISSIONAL DA SAÚDE. ART. 17, § 2º, DO ADCT E ART. 37, XVI, C, DA CONSTITUIÇÃO. IMPOSSIBILIDADE. VERIFICAÇÃO DE COMPATIBILIDADE DE HORÁRIOS. EXAME DE MATÉRIA FÁTICA. SÚMULA 279. AGRAVO IMPROVIDO. I – A regra prevista no art. 17, § 2º, do ADCT assegura a acumulação de dois cargos privativos de profissionais de saúde àqueles que, à época da promulgação da Carta de 1988, estavam exercendo os cargos. II – A redação original do art. 37, XVI, c, da Constituição autorizava apenas a acumulação de dois cargos privativos de médico, não abrangendo os cargos privativos de profissionais de saúde contemplados posteriormente pela Emenda Constitucional 34/2001. III – A verificação da compatibilidade de horários dos cargos exercidos pelo agravante demandaria o reexame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, nos termos da Súmula 279 desta Corte. IV – Agravo regimental improvido” (RE nº 570.213/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 10/5/11).
+    “DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ALEGAÇÃO DE PROMOÇÃO PESSOAL. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AO PRECEITO CONSTITUCIONAL INVOCADO NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. REEXAME INCABÍVEL NO ÂMBITO DO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 20.8.2008. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 279 do STF, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido” (AI nº 799.546/MG-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 17/9/13).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de outubro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
