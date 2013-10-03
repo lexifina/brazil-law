@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra sentença em execução fiscal da Vara Federal de Execução Fiscal, da qual se extrai o seguinte trecho conclusivo (fl. 23):
+    “A execução fiscal foi extinta em razão da falta de interesse de agir do exequente face à desproporção entre a relação custo da execução e benefício dela decorrente, ao mesmo tempo que exemplificou formas alternativas de cobranças de seu crédito de forma a não inviabilizar sua existência e igualmente não sobrecarregar a máquina judiciária.
+    Tomando-se como paradigma o art. 20 da Lei nº 10.522 e Provimento nº 109/1999 da Presidência do E. TRF da 4ª Região, restou ponderado que o Executivo tem autorizado a não-propositura de ações, arquivamento e a extinção de execuções em andamento quando os valores não ultrapassam determinada quantia. Nesta perspectiva, é inevitável qie a edição dessas normas repercuta na esfera Judiciária, a qual compete a análise das condições da ação que estabelecem requisitos para obtenção de provimento judicial ou execução de título executivo extrajudicial.
+    Bem por isso, o Supremo Tribunal Federal vem pacificando seu entendimento de que as decisões que extinguem a execução fiscal em razão do seu diminuto valor não violam os princípios da inafastabilidade do controle judicial, igualdade e do livre acesso ao Poder Judiciário.
+    (…)
+    Resulta, pois, absolutamente correta e necessária a extinção da execução fiscal.”
+    O recurso busca fundamento no art. 102, III, a da Constituição. Alega violação aos arts. 5º, II e XXXV, 34, VII, 37, 70, 74 e 100, todos da Constituição.
+    O recurso extraordinário não deve ser provido, uma vez que o Supremo Tribunal Federal assentou tratar-se de matéria infraconstitucional a questão ora discutida. Nessa linha, veja-se as seguintes ementas:
+    “AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - INSIGNIFICÂNCIA DA DÍVIDA ATIVA EM COBRANÇA - AUSÊNCIA DO INTERESSE DE AGIR - EXTINÇÃO DO PROCESSO - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - O Supremo Tribunal Federal firmou orientação no sentido de que as decisões, que, em sede de execução fiscal, julgam extinto o respectivo processo, por ausência do interesse de agir, revelada pela insignificância ou pela pequena expressão econômica do valor da dívida ativa em cobrança, não transgridem os postulados da igualdade (CF, art. 5º, "caput") e da inafastabilidade do controle jurisdicional (CF, art. 5º, XXXV). Precedentes.” (AI 451.096 AgR, Rel. Min. Celso de Mello, Segunda Turma.)
+    “EXECUÇÃO FISCAL - VALOR MÍNIMO – EXTINÇÃO DO PROCESSO - MATÉRIA LEGAL. Na dicção da ilustrada maioria, entendimento em relação ao qual guardo reservas, o tema referente ao valor mínimo para efeito de execução é disciplinado por normas estritamente legais. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (RE 539.500-AgR, Rel. Min. Marco Aurélio, Primeira Turma).
+    “Agravo regimental em recurso extraordinário. 2. Extinção da execução fiscal. Falta de interesse de agir. Pequeno valor. Matéria infraconstitucional. 3. Agravo regimental a que se nega provimento” (RE 524.251-AgR, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Outros precedentes: RE 741.081, Rel.ª Min.ª Cármen Lúcia; ARE 740.903, Rel. Min. Gilmar Mendes.
+    Diante do exposto, com base no art. 577, caput, do CPC e no art. 21, §1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 03 de outubro de 2013.
+Ministro Luís Roberto Barroso
+Relator
