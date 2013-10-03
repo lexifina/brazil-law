@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise de matéria infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido: ARE 715.522-AgR/BA, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 04.12.2012; e ARE 691.292-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 26.10.2012, cujas ementas transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. 1. AUSÊNCIA DE PREPARO. DESERÇÃO. 2. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Negativa de prestação jurisdicional. Não ocorrência. Preparo recursal realizado a menor. Juizados especiais. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Pressupostos recursais. Repercussão geral. Ausência. Questão infraconstitucional. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356 desta Corte. 2. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 3. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência da Súmula nº 279, desta Corte. 4. O Plenário do Supremo Tribunal Federal, no exame do RE nº 598.365/MG, Relator o Ministro Ayres Britto, entendeu pela ausência de repercussão geral do tema relativo a pressupostos de admissibilidade de recursos da competência de outras Cortes, dado o caráter infraconstitucional da matéria. 5. Agravo regimental não provido”
+    Por seu turno, na esteira da Súmula 636/STF, “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida“.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 03 de outubro de 2013.
+Ministra Rosa Weber
+Relatora
