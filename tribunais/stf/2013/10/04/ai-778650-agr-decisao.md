@@ -1,0 +1,79 @@
+DECISÃO
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. NECESSIDADE DE PREVISÃO LEGAL DO EXAME PSICOTÉCNICO. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO RECORRIDO CONTRÁRIO À JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. AGRAVO E RECURSO PROVIDOS.
+Relatório
+    1. Em 4 de fevereiro de 2013, neguei seguimento ao agravo de instrumento interposto por Clayton Cassius da Silveira Pereira contra julgado do Tribunal Regional Federal da 2ª Região, que considerou válido exame psicotécnico aplicado em concurso público para a formação dos Sargentos Aeronáutica.
+    A decisão agravada fundamentou-se na incidência das Súmulas n. 282 e 356 deste Supremo Tribunal e na ausência de contrariedade direta à Constituição da República (fls. 551-557).
+    2. Publicada essa decisão no DJe de 15.2.2013, interpõe Clayton Cassius da Silveira Pereira, em 22.2.2013, tempestivamente, agravo regimental.
+    3. Sustenta o Agravante que “o exame psicológico em questão não possuía qualquer previsão legal” (fl. 584). Argumenta que os dispositivos constitucionais tidos por contrariados teriam sido devidamente prequestionados, razão pela qual não incidiriam na espécie as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+    Requer a reconsideração da decisão agravada ou o provimento do presente recurso.
+    4. Houve erro material na apreciação do mérito recursal, pois a matéria constitucional suscitada pelo Recorrente foi devidamente provocada nos momentos processuais oportunos, tendo sido objeto de decisão prévia nas instâncias originárias. Por essa razão, reconsidero a decisão agravada, ficando prejudicadas as razões do agravo regimental.
+    Passo ao exame do recurso extraordinário.
+    5. Na origem, em 20.6.2003 se deferiu, nos autos da ação ordinária interposta por Clayton Cassius da Silveira Pereira, antecipação dos efeitos da tutela pretendida para que fosse “garantida a participação do autor na Concentração Final, em 23 de junho de 2003, com o consequente ingresso no curso de formação de Curso de Formação de Sargentos da Aeronáutica ´Turma B da Escola de Especialistas de Aeronáutica, na qualidade de aluno, em igualdade de condições com os demais aprovados, até decisão final de mérito acerca do Exame de Aptidão Psicológica” (fl. 148, grifei).
+    O Tribunal Regional Federal da 2ª Região manteve a tutela deferida e negou provimento ao agravo de instrumento interposto pela União:
+    “Por outro lado, conquanto constem no anexo 7 (fl. 25/verso) as informações sobre a realização do exame de aptidão psicológica, onde são estabelecidos os critérios, a agravante deixou de indicar no edital e nas razões do agravo a lei na qual fundamenta a exigência daquela avaliação.
+    A respeito da matéria, reiterada jurisprudência cumulou na edição do verbete da Súmula n. 686 do Supremo Tribunal Federal: Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público .
+    Assim, entendo irretocável a decisão atacada por presentes os requisitos autorizadores da antecipação da tutela concedida, mesmo porque não está afastada a possibilidade de, na sentença, ser considerado correto o procedimento da administração” (fl. 373, grifei).
+    O juiz de primeira instância, Eugênio Rosa de Araújo, julgou improcedente a ação e cassou a liminar concedida, pelas seguintes razões:
+    “No caso em comento, o item II do edital (recursos) e o anexo 7, dão conta de que o certame não sofreu qualquer irregularidade, bem como, mesmo que tal ocorresse, não seria legítima sua inclusão no curso como consequência necessária do reconhecimento de eventual ilegalidade.
+    No caso, o autor realizou o curso sem preencher os requisitos legais, [pois] não foi aprovado no exame psicotécnico.
+    Se correu o risco de realizar o curso sob o pálio de medida judicial precária, não se há de lhe reconhecer direito não formado de acordo com a lei, principalmente se não preenche o perfil psicológico para o cargo” (fls. 376-378).
+    Na apelação, o candidato informou que:
+    “concluiu com excelente aproveitamento o Curso de Formação de Sargentos (CFS) na especialidade de Comunicações (BCO), conforme fazem certo os documentos acostados às fls. 262/264, tendo sido, após o curso, promovido à graduação de terceiro sargento, encontrando-se plenamente adaptado à vida militar e exercendo a contento a função de Operador de Estação Aeronáutica” (fl. 393) .
+    O Tribunal a quo negou provimento à apelação à fl. 421.
+    Instado a se manifestar em embargos de declaração sobre a ausência de previsão legal do exame psicotécnico, o Tribunal decidiu:
+    “É de se apontar que a permissão de elaboração das normas dos concursos para ingresso nos quadros das Forças Armadas encontra respaldo na própria Lei Maior da República Federativa do Brasil, que prevê em seu artigo 87:
+    (...)
+    A previsão constitucional autoriza o Comandante da Aeronáutica a selecionar, por meio da expedição de normas que se fizerem necessárias, dentre os diversos candidatos que se interessam pela carreira militar, aqueles que satisfaçam os requisitos mínimos exigidos para integrar o Corpo de Pessoal Graduado da Aeronáutica, conforme disposto no Estatuto dos Militares (Lei nº 6.880/80) que dispõe, no artigo 10 :
+    Art. 10 O ingresso nas Forças Armadas é facultado, mediante incorporação, matrícula ou nomeação, a todos os brasileiros que preencham os requisitos estabelecidos em lei e nos regulamentos da Marinha, do Exército e da Aeronáutica.
+    A Portaria nº 128/GC3, de 1º de março de 2001 , posteriormente alterada pela Portaria nº 205/GC3, de 22 de março de 2001 , previu a edição de normas complementares às Instruções Gerais para os Concursos de Admissão Atribuídos ao Departamento de Ensino da Aeronáutica e a adoção de medidas necessárias à realização dos concursos de admissão atribuídos àquele Departamento de Ensino. Ainda por força da Portaria nº 049/GM3, de 22 de janeiro de 1996 , o Comandante da Aeronáutica dispôs sobre a seleção de candidatos ao Curso de Formação de Suboficiais , nos termos seguintes:
+    Art. 15 A seleção dos candidatos ao CFS é realizada por Concurso de Admissão que se compõe de:
+    I exame de escolaridade,
+    II Exame médico,
+    III Exame de aptidão física, ...
+    IV exame psicológico, de acordo com os padrões estabelecidos pelo Instituto de Psicologia da Aeronáutica IPA.
+    Assim, as funções atribuídas aos diversos Órgãos da Aeronáutica, regulamentadas pelos atos baixados pelo Exmo. Sr. Comandante da Aeronáutica, encontram previsão não só na Lei 6.880/80, como também na Lei Maior da República, que lhe confere o necessário poder, sobretudo por se tratar de exigência legal que tem como escopo apreciar, no candidato, a existência de temperamento adequado ao relevante exercício da função que irá exercer.
+    (…)
+    Isso posto, dou provimento aos embargos de declaração, para reconhecer a apontada omissão e integrar o acórdão a quo, conforme fundamentação, mantendo, entretanto, os demais termos, que negaram provimento à apelação interposta” (fls. 434-436, grifos nossos).
+    6. O Agravante interpôs recurso extraordinário alegando ofensa ao art. 37, caput , inc. II, da Constituição da República.
+    Sustenta que “não há dúvida de que a exigência do exame psicológico ao qual foi submetido é inconstitucional, pois carente de previsão legal, sendo prevista somente em portarias expedidas pelo Comandante da Aeronáutica, em clara afronta ao art. 37, caput , inc. II, da Carta Magna e também à Súmula n. 686 desse STF” (fl. 485).
+    Requer o conhecimento e o provimento do recurso extraordinário, “para que seja reconhecida a ofensa pelo v. acórdão recorrido ao art. 37, inc. II, da Constituição Federal e, em decorrência, seja o mesmo reformado, de modo a mantê-lo no cargo que ocupa atualmente” (fl. 485).
+    7. Os autos ficaram sobrestados na origem até “pronunciamento definitivo do Pretório Excelso no AI 758.533-RG”.
+    Em 7.12.2011, após julgamento do mérito da repercussão geral e do pedido de retratação, o Vice-Presidente do Tribunal de origem determinou a remessa dos presentes autos ao Supremo Tribunal Federal, sem, todavia, retratar-se nos termos do com base no art. 543-B, § 3º, do Código de Processo Civil.
+    8. Os autos vieram-me conclusos em 22.1.2013 (fl. 550).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    9. Razão jurídica assiste ao Agravante.
+    10. As instâncias originárias contrariaram jurisprudência pacífica do Supremo Tribunal Federal no sentido da necessidade de previsão legal do exame psicotécnico em concurso público. Esse entendimento foi confirmado no julgamento no Agravo de Instrumento n. 758.533-QO-RG, Relator o Ministro Gilmar Mendes, Plenário Virtual, DJe 13.8.2010. Em sua manifestação, o Relator assentou:
+    “Antiga é a jurisprudência desta Corte no sentido de que a exigência de avaliação psicológica ou teste psicotécnico, como requisito ou condição necessária ao acesso a determinados cargos públicos de carreira, somente é possível , nos termos da Constituição Federal, se houver lei em sentido material (ato emanado do Poder Legislativo) que expressamente a autorize, além de previsão no edital do certame .
+    Ademais, o exame psicotécnico necessita de um grau mínimo de objetividade e de publicidade dos atos em que se procede. A inexistência desses requisitos torna o ato ilegítimo, por não possibilitar o acesso à tutela jurisdicional para a verificação de lesão de direito individual pelo uso desses critérios.
+    Nesse sentido, há reiterados julgados do Tribunal Pleno, entre os quais a ADI-MC 1.188, Rel. Min. Marco Aurélio, DJ 20.4.1995; O SS-AgR 2.210, Rel. Min. Maurício Corrêa, DJ 26.11.2003; O RE 125.556, Rel. Min. Carlos Velloso, DJ 15.5.1992; e o MS 20.973, Rel. Min. Paulo Brossard, DJ 24.4.1992.
+    (…)
+    Na Súmula 686, o STF consolidou a seguinte orientação: Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público.
+    (…)
+    Assim, a presente questão de ordem visa a reafirmar a jurisprudência pacificada neste Tribunal segundo a qual a exigência do exame psicotécnico em concurso depende de previsão legal e deve seguir critérios objetivos”.
+    Em caso análogo à situação do ora Agravante, Relator o Ministro Gilmar Mendes, julgado na Segunda Turma do Supremo Tribunal Federal:
+    “No caso dos autos, apesar do edital do concurso descrever os critérios da avaliação psicológica, não há previsão legal para a realização do exame psicotécnico. A Lei nº 6.880, de 1980, Estatuto dos Militares, aplicável à espécie, não exige expressamente o exame psicotécnico, somente constando esta exigência de Portarias expedidas pelo Comandante da Aeronáutica contendo instruções para os concursos de admissão na Aeronáutica. Logo, não havendo previsão legal quanto à condição exigida, não há como proibir a matrícula do agravante no curso de formação.
+    Na hipótese, o agravante, por meio de liminar, ingressou no curso de formação, foi aprovado e empossado, estando no exercício de suas funções.
+    Assim, conheço do agravo e converto-o em recurso extraordinário (art. 544, §§ 3º e 4º, do CPC) para dar-lhe provimento (art. 557, § 1º-A, do CPC) e determinar que a posse do candidato seja efetivada , sendo mantido no cargo.
+    (...)
+    Primeiramente, a agravante alega a ausência de prequestionamento quanto ao art. 37, I, da Constituição Federal. Incabível tal argumentação tendo em vista que desde a sentença (fls. 155-156) a legalidade do exame psicotécnico vem sendo debatida, sendo questionada no recurso inominado (fls. 165-166), inclusive nas contrarrazões ao recurso inominado (fls. 170-171).
+    A agravante também sustenta que a discussão quanto à previsão legal para realização do exame psicotécnico ensejaria a análise de diploma infraconstitucional, configurando, se existente, apenas ofensa indireta à Constituição. Da mesma forma, não assiste razão à agravante. A União não cita a lei de referência autorizadora do exame. Ademais, cabe ressaltar que esta Corte firmou entendimento segundo o qual não se pode afastar a exigência de exame psicotécnico quando previsto em lei. Nesse sentido, o RE-AgR 294.633, 2 a T., Rel. Carlos Velloso, DJ 22.10.2002, com a seguinte ementa:
+    (...)
+    Desse modo, não havendo indicação nos autos da previsão legal para realização do exame psicotécnico, ilegítima a exigência do teste” (DJe 28.9.2007, grifos nossos).
+    E ainda: ARE 663.173, Relator o Ministro Ricardo Lewandowski, decisão monocrática, Dje 2.4.2013, trânsito em julgado em 16.4.2013.
+    11. O Tribunal de origem utilizou como principal fundamento em sua decisão a aplicabilidade do art. 10 da Lei n. 6.880/1980.
+    Desse modo, cumpre esclarecer que, no julgamento do Recurso Extraordinário n. 600.885, de minha relatoria, tema com repercussão geral reconhecida, o Plenário do Supremo Tribunal Federal decidiu que o art. 10 da Lei n. 6.880/1980 não foi recepcionado pela Constituição da República (DJe 1º.7.2011).
+    Naquele julgamento, ressaltei que a Lei n. 6.880/1980, elaborada sob a égide da Emenda Constitucional n. 1/1969, remeteu à lei, até aquele momento inexistente no ordenamento jurídico vigente, e aos regulamentos da Marinha, do Exército e da Aeronáutica a definição dos requisitos a serem preenchidos pelos candidatos a ingressar nas Forças Armadas.
+    Acompanhada pelos meus pares, decidi que a definição dos requisitos a serem preenchidos pelos candidatos a ingressar nas Forças Armadas deveriam ser determinados por lei, cujo conteúdo mínimo já vem determinado constitucionalmente. Por essa razão, conclui não ter sido recepcionada a expressão nos regulamentos da Marinha, do Exército e da Aeronáutica contida no art. 10 da Lei n. 6.880/1980.
+    Naquela assentada, anotei que, passados mais de vinte e dois anos da vigência da Constituição brasileira de 1988, dezenas de seleções públicas foram realizadas com observância daquele dispositivo legal, como é o caso presente.
+    Com base no princípio da segurança jurídica, o Supremo Tribunal Federal determinou a modulação dos efeitos para preservar a validade dos certames realizados pelas Forças Armadas até 31 de dezembro de 2011.
+    Nos embargos declaratórios opostos pela União, quando se prorrogou o prazo de modulação dos efeitos da declaração de não recepção do art. 10 da Lei n 6.880/1980 até 31 de dezembro de 2012, ficou esclarecido que:
+    “a modulação da declaração de não recepção da expressão nos regulamentos da Marinha, do Exército e da Aeronáutica do art. 10 da Lei n. 6.880/1980 não alcança os candidatos com ações ajuizadas nas quais se discute o mesmo objeto deste recurso extraordinário” (grifos nossos).
+    Esse é o caso dos autos, pois a ação foi ajuizada em 20.6.2003.
+    12. Ademais, o Agravante traz a informação de que faz parte dos Quadros das Forças Armadas, pois fora aprovado no curso de formação e empossado. Em momento algum a União refuta essa informação nos autos.
+    13. Ressalte-se que, quando noticiado o reconhecimento da repercussão geral do tema em debate, o Tribunal de origem sobrestou o presente processo. Todavia, julgado o mérito por este Supremo Tribunal, não procedeu ao juízo de retratação que lhe é facultado pelo § 4º do art. 543-B do Código de Processo Civil.
+    14. Pelo exposto, dou provimento a este agravo (art. 544, §§ 3º e 4º, do Código de Processo Civil, antes das alterações da Lei n. 12.322/2010), e, desde logo, ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil), para cassar o acórdão contrário à orientação firmada pelo Supremo Tribunal Federal no Agravo de Instrumento 758.533-QO-RG (art. 543-B, § 4º, do Código de Processo Civil).
+    Invertidos os ônus de sucumbência fixados na origem, ressalvada eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 4 de outubro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
