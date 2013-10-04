@@ -1,0 +1,23 @@
+Decisão (pet. 39.302/2013): Trata-se de pedido de extensão em suspensão de segurança formulado pelo Estado do Pará contra decisão liminar proferida pelo Tribunal de Justiça daquela unidade da Federação no mandado de segurança 2011.3.017058-7.
+    A liminar impugnada determinou pagamento de gratificação especial de 50% a servidoras estaduais da secretaria de educação que atendem alunos portadores de necessidades especiais, com fundamento na lei estadual 5.810/1994.
+    No presente pedido, o Estado do Pará sustenta a existência de risco à ordem e à economia pública. Salienta que o provimento liminar contraria a orientação que pode ser extraída da decisão anteriormente proferida nestes autos, a qual deferiu o pedido de suspensão de acórdãos do Tribunal de Justiça do Estado do Pará que haviam determinado pagamento da gratificação mencionada.
+    É o relatório.
+    Decido.
+    A jurisprudência deste Supremo Tribunal Federal tem-se orientado em sentido contrário à pretensão deduzida pelo Estado do Pará.
+    Conforme demonstram as ementas transcritas abaixo, esta Corte entendeu pela inviabilidade de recursos extraordinários interpostos contra acórdãos do Tribunal de Justiça do Estado do Pará que reconheceram o direito à gratificação especial. Prevaleceu, para o desprovimento dos recursos, a conclusão pelo caráter infraconstitucional da controvérsia, fundado, desde a impetração, em discussão da legislação local aplicável à espécie:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. GRATIFICAÇÃO PELO EXERCÍCIO DE ATIVIDADE NA ÁREA DE EDUCAÇÃO ESPECIAL. BENEFÍCIO PREVISTO EM LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    2. O direito local acaso violado por decisão judicial não autoriza a interposição de recurso extraordinário nos termos do enunciado da Súmula 280 do STF, verbis: “Por ofensa a direito local não cabe recurso extraordinário”. Precedentes: RE 545.661-AgR, Relator o Min. DIAS TOFFOLI, Primeira Turma, DJe de 06.06.2011; RE 591.455-AgR, Relator o Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 10.09.2010; RE 529.378-AgR, Relatora a Min. ELLEN GRACIE, Segunda Turma, DJe de 28.08.2009.
+    3. In casu, o acórdão recorrido assentou: “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. SERVIDOR PÚBLICO ESTADUAL. PEDIDO DE GRATIFICAÇÃO PELO EXERCÍCIO DE ATIVIDADE NA ÁREA DE EDUCAÇÃO ESPECIAL. PREJUDICIAL DE MÉRITO. INCONSTITUCIONALIDADE DO ARTIGO 246 DO RJU. AFASTADA. MÉRITO. GRATIFICAÇÃO. 'PROPTER LABOREM FACIENDO'. PREVISÃO NA CONSTITUIÇÃO ESTADUAL (ART. 31, XIX) E LEI ESTADUAL Nº. 5.810/94 RJU (ARTS. 132 E 246). VANTAGEM EXCLUSIVAMENTE PARA OS SERVIDORES QUE ATUAM NO MAGISTÉRIO VOLTADO PARA A ÁREA DA EDUCAÇÃO ESPECIAL. IMPOSSIBILIDADE DE INCORPORAÇÃO AOS VENCIMENTOS DAS AUTORAS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+    4. Agravo regimental a que se nega provimento. (ARE 642.182-AgR, rel. min. Luiz Fux, Primeira Turma, DJe 24.10.2012)
+    ADMINISTRATIVO. GRATIFICAÇÃO PELO EXERCÍCIO DE ATIVIDADE NA ÁREA DE EDUCAÇÃO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DA LEGISLAÇÃO LOCAL: IMPOSSIBILIDADE. SÚMULA STF 280.
+    1. Ausência de prequestionamento dos dispositivos constitucionais alegados como violados, pois não discutidos no acórdão recorrido, ao qual não foram opostos embargos de declaração (Súmulas STF 282 e 356).
+    2. Matéria restrita a normas locais. Inviabilidade do recurso extraordinário. Incidência da Súmula STF 280. 3. Agravo regimental a que se nega provimento. (RE 633.066-AgR, rel. min. Ellen Gracie, Segunda Turma, DJe 27.04.2011)
+    Vale ressaltar que o recurso extraordinário interposto contra um dos acórdãos impugnados na petição originária do pedido de suspensão (mandado de segurança 2010.3.0039643) já foi improvido por este Supremo Tribunal Federal, na linha da jurisprudência mencionada (ARE 703.031, rel. min. Celso de Mello, decisão monocrática, DJe 17.08.2012).
+    Com fundamento na jurisprudência mencionada, não se justifica a suspensão da decisão liminar por esta Presidência, uma vez que o direito à gratificação especial da lei estadual 5.810/1994 não será reapreciado pelo Supremo Tribunal Federal em recurso extraordinário.
+    Ante o exposto, indefiro o pedido de extensão.
+    Publique-se.
+    Brasília, 4 de outubro de 2013
+Ministro Joaquim Barbosa
+Presidente
+Documento assinado digitalmente
