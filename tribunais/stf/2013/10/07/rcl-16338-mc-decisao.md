@@ -1,0 +1,14 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, apresentada pela Defensoria Pública do Estado de São Paulo em favor do Silvio Pereira da Silva, que cumpre pena em regime fechado na Penitenciária II de Itapetininga/SP, na qual se alega que a 3ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJ/SP) afrontou a autoridade desta Suprema Corte, ao descumprir o acórdão proferido no HC 97256/RS e revestido de efeitos erga omnes pela Resolução 5/12 do Senado.
+    Pleiteia-se, liminarmente, que se coloque o requerente em liberdade até o julgamento final desta reclamação. No mérito, requer-se a cassação do acórdão impugnado e que o Supremo Tribunal Federal (STF) determine ao TJ/SP que analise se o requerente preenche os requisitos objetivos e subjetivos para a substituição da pena privativa de liberdade por restritiva de direitos. Alternativamente, requer-se que o STF determine outra medida que entender adequada à preservação de sua competência, conforme art. 17 da Lei 8.038/90.
+    É o relatório.
+    Decido
+    Da leitura do acórdão proferido pela 3ª Câmara de Direito Criminal na Apelação nº 24375-94.2012.8.26.0309, extrai-se que a autoridade reclamada obstou a substituição da pena privativa de liberdade por restritiva de direitos apresentando extensa fundamentação que se pauta, contudo, exclusivamente na natureza hedionda do delito de tráfico de drogas.
+    Frise-se que, além de a vigência do § 4º do artigo 33 da Lei 11.343/06 ter sido suspensa, a reiterada jurisprudência do STF sobre a inconstitucionalidade desse dispositivo culminou, inclusive, no reconhecimento da repercussão geral da matéria (Tema 626). A propósito, confira-se o julgamento do ARE-RG 663261/SP, Rel. Min. Luiz Fux, DJe 6.2.2013, com efeito erga omnes ,cuja ementa se transcreve, in verbis:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ENTENDIMENTO CONSOLIDADO NO HABEAS CORPUS 97.256. INCONSTITUCIONALIDADE DA VEDAÇÃO. CONTROVÉRSIA CONSTITUCIONAL COM REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.”
+    A concessão da medida de urgência, nos moldes pleiteados, revela-se temerária, levando-se em consideração que, na singularidade do caso em análise, o TJ/SP pode vir a identificar, na espécie, elementos concretos idôneos para obstar a benesse almejada pelo reclamante. De todo modo, no particular, tal decisão pode ser impugnada pela via própria.
+    Ante o exposto, indefiro a medida liminar requerida.
+    Solicitem-se informações à autoridade reclamada, nos termos do art. 14, I, da Lei n° 8.038/90. Decorrido o prazo de dez dias, dê-se vista à Procuradoria-Geral da República.
+    Publique-se e intime-se o reclamante.
+    Brasília, 07 de outubro de 2013
+Ministro LUÍS ROBERTO BARROSO
+Relator
