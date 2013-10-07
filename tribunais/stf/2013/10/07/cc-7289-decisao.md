@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de conflito negativo de competência suscitado pelo E. Tribunal Superior do Trabalho em face do E. Tribunal Regional Federal da 1ª Região.
+    A Corte Regional Federal, nos autos da Remessa “Ex Officio” em Mandado de Segurança nº 96.01.28427-3/RO, entendeu falecer-lhe competência para apreciar a causa, determinando, em consequência, a remessa dos autos à Justiça do Trabalho (fls. 148/153).
+    A Alta Corte trabalhista, por sua vez, reconheceu a incompetência da Justiça do Trabalho para processar e julgar causas referentes a servidores públicos federais, suscitando o presente conflito negativo de competência, em acórdão que se acha assim ementado (fls. 273):
+    “MANDADO DE SEGURANÇA. CAUSA ENVOLVENDO SERVIDORES PÚBLICOS FEDERAIS E A ADMINISTRAÇÃO DIRETA, INDIRETA E FUNDACIONAL. COMPETÊNCIA MATERIAL DA JUSTIÇA FEDERAL. Mesmo com o advento da Emenda Constitucional nº 45/2004, não houve o deslocamento da competência da Justiça Federal para apreciar as causas que envolvam servidores federais e a Administração Direta, Indireta e Fundacional. Inteligência da liminar concedida pelo Ministro Nelson Jobim nos autos da Ação Direta de Inconstitucionalidade proposta pela Associação dos Juízes Federais do Brasil – AJUFE, de nº 3395-DF. Conflito negativo de competência suscitado.” (grifei)
+    Conheço, preliminarmente, do presente conflito de competência, em face do que dispõe o art. 102, I, “o”, da Constituição da República.
+    No caso, o conflito de competência ora em exame instaurou-se entre o E. Tribunal Regional Federal da 1ª Região e o E. Tribunal Superior do Trabalho, órgão judiciário a que não se acha vinculada a Corte Regional em questão.
+    Reconhecida, desse modo, a competência originária do Supremo Tribunal Federal para dirimir a controvérsia em exame, passo a apreciar, desde logo, o presente conflito de competência.
+    E, ao fazê-lo, assinalo que a jurisprudência desta Corte Suprema firmou-se no sentido de reconhecer a competência da Justiça Federal para apreciar mandado de segurança quando deduzido em face de atos emanados de autoridade federal, independentemente da questão de fundo versada no “writ” mandamental:
+    “Conflito de Jurisdição. Competência. Mandado de Segurança. Impetração contra Titular de Registro de Imóveis do DF. Autoridade sujeita a hierarquia da Justiça Comum.
+    - No mandado de segurança, a competência funcional do Juiz se mede pela natureza e hierarquia da autoridade contra a qual e requerida a garantia constitucional, sendo irrelevante a matéria nele discutida. Precedentes do STF.
+    CJ conhecido para julgar-se competente o Tribunal suscitado.”
+    (CJ 6.664/DF, Rel. Min. CÉLIO BORJA – grifei)
+    Esse entendimento, além de encontrar apoio em expressivo magistério doutrinário (HELY LOPES MEIRELLES, ARNOLDO WALD e GILMAR FERREIRA MENDES, “Mandado de Segurança e Ações Constitucionais”, p. 78, item nº 10, 32ª ed., 2009, Malheiros – EDUARDO ARRUDA ALVIM, “Mandado de Segurança”, p. 84, item nº 4.8, 2ª ed., 2010, GZ – MAURO LUÍS ROCHA LOPES, “Comentários à Nova Lei do Mandado de Segurança”, p. 69, 2009, Impetus, v.g.), tem sido observado pela jurisprudência dos Tribunais em geral, especialmente por aquela emanada do E. Superior Tribunal de Justiça (CC 2.377/DF, Rel. Min. JOSÉ DE JESUS FILHO – CC 18.888/SP, Rel. Min. ADHEMAR MACIEL – CC 103.883/PB, Rel. Min. JORGE MUSSI):
+    “CONFLITO DE COMPETÊNCIA. VANTAGENS ESTATUTÁRIAS. MANDADO DE SEGURANÇA. AUTORIDADE COATORA.
+    1. Se o ato combatido foi praticado em período no qual o impetrante já possuía a qualidade de estatutário, não importa o fato de as parcelas suprimidas terem sido concedidas por sentença proferida pela Justiça do Trabalho.
+    2. Em sede de mandado de segurança a competência é fixada em função da qualificação da autoridade coatora, sendo irrelevante a matéria.
+    3. Conflito conhecido para declarar a competência do Juízo Federal da 2ª Vara da Seção Judiciária do Estado do Maranhão.”
+    (CC 19.475/MA, Rel. Min. FERNANDO GONÇALVES – grifei)
+    Cabe ter presente, quanto a esse aspecto, a manifestação produzida pelo Ministério Público Federal que, ao opinar, nestes autos, pelo reconhecimento da competência da Justiça Federal, formulou parecer que está assim ementado (fls. 291):
+    “CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE O TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO E O TRIBUNAL SUPERIOR DO TRABALHO. MANDADO DE SEGURANÇA. RECOMPOSIÇÃO DA REMUNERAÇÃO DE SERVIDORES PÚBLICOS FEDERAIS. COMPETÊNCIA DELIMITADA EM RAZÃO DA HIERARQUIA DA AUTORIDADE COATORA. PARECER PELO RECONHECIMENTO DA COMPETÊNCIA DA JUSTIÇA COMUM FEDERAL.” (grifei)
+    Entendo assistir plena razão ao Ministério Público Federal, eis que os fundamentos em que se apoia referida manifestação ajustam-se, integralmente, à orientação jurisprudencial que esta Suprema Corte firmou a propósito da matéria ora em exame.
+    Sendo assim, pelas razões expostas e acolhendo, ainda, o parecer da douta Procuradoria-Geral da República, conheço do presente conflito para, dirimindo-o, reconhecer a competência do E. Tribunal Regional Federal da 1ª Região, a quem os presentes autos deverão ser encaminhados, para que prossiga no julgamento da causa.
+    Comunique-se, com urgência, transmitindo-se cópia da presente decisão ao E. Tribunal Superior do Trabalho (RXOF e ROMS nº 12977/1998-000-14-00.6).
+    Publique-se.
+    Brasília, 07 de outubro de 2013.
+Ministro CELSO DE MELLO
+Relator
