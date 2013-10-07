@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra decisões proferidas pelo Tribunal Regional do Trabalho da 5ª Região, no sentido de reconhecer a competência da Justiça Trabalhista para julgamento de processos que seriam de competência da Justiça Comum.
+    Sustenta o reclamante, em síntese, que as ações ajuizadas na origem dizem respeito a direitos constantes de regime jurídico-administrativo, e, ao fixarem a competência da Justiça do Trabalho, as decisões proferidas nesses processos teriam desrespeitado a autoridade da ADI 3.395-MC.
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, de modo a garantir a efetividade do resultado do futuro e provável juízo de procedência. Na hipótese, ambos os requisitos estão presentes. É que neste juízo sumário, ínsito às medidas de urgência, há indícios de desrespeito à autoridade do acórdão proferido no julgamento da ADI 3.395-MC, no sentido de que “O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária.” No caso, há controvérsia sobre a legislação de regência do vínculo entre os trabalhadores e a municipalidade (lei local que dispôs sobre o regime jurídico dos servidores públicos municipais ou legislação que impôs o regime celetista aos agentes comunitários de saúde). Ademais, há iminência da exigibilidade da condenação já imposta pelos acórdãos reclamados.
+    Verifico, entretanto, ser inadmissível o pedido, por óbice da Súmula 734 desta Corte, quanto aos Processos 0102500-22.2009.5.05.0631, 0113400-64.2009.5.05.0631, 0114000-85.2009.631.05.00.9 e 0113900-33.2009.631.05.00.9, uma vez que estes transitaram em julgado antes da propositura da presente reclamação.
+    3. Ante o exposto, defiro a liminar, para suspender o trâmite dos Processos 0113200-57.2009.5.05.0631 e 0101100-70.2009.5.05.0631, até o julgamento final da presente reclamação ou ulterior deliberação.
+    Solicitem-se informações à autoridade reclamada. Após, remetam-se os autos à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 7 de outubro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
