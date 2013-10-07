@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 11, de 29 de agosto de 2013
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: Contribuição Previdenciária incidente sobre a receita bruta. Lei nº 12.546, de 2011. Empresas prestadoras de serviços de Tecnologia da Informação (TI) e Tecnologia da Informação e Comunicação (TIC). Não incidência da contribuição substitutiva sobre as receitas decorrentes das atividades de representação, distribuição ou revenda de programas de computador. DISPOSITIVOS LEGAIS: Lei nº 11.774, de 17 de setembro de 2008, art. 14, §§ 4º e 5º; Lei nº 12.546, de 14 de dezembro de 2011, art. 7º, I e § 2º e art. 9º, §§ 1º, 5º e 6º; Decreto nº 7.828, de 16 de outubro de 2012, art. 2º, § 3º, II.
+[arquivo anexo: SC Cosit 11-2013.pdf]
