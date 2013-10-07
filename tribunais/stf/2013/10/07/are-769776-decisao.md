@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ADICIONAL DE PLANTÃO HOSPITALAR. INEXISTÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE DE TRATADO OU LEI FEDERAL. DESCABIMENTO DO RECURSO EXTRAORDINÁRIO COM BASE NA ALÍNEA B DO INC. III DO ART. 102 DA CONSTITUIÇÃO. AGRAVO AO QUAL SE NEGA SEGUINTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea b, da Constituição da República.
+    O recurso extraordinário foi interposto contra o julgado da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária da Paraíba que manteve a seguinte sentença:
+    “Cuida-se de ação de pagamento do adicional de plantão hospitalar.
+    A lei 11.907/2009 criou o adicional de plantão hospitalar nos seguintes termos:
+    (...)
+    Analisando a lei e o decreto acima citados, percebe-se que o adicional de plantão hospitalar é devido aos ocupantes de cargo de provimento efetivo vinculados ao Ministério da Saúde que estejam em exercício nos hospitais universitários vinculados ao Ministério da Educação, do Hospital das Forças Armadas, vinculado ao Ministério da Defesa, e do Hospital Geral de Bonsucesso - HGB, do Instituto Nacional de TraumatoOrtopedia - INTO, do Instituto Nacional de Cardiologia de Laranjeiras - INCL, do Hospital dos Servidores do Estado - HSE, do Hospital Geral de Jacarepaguá - HGJ, do Hospital do Andaraí - HGA, do Hospital de Ipanema - HGI, do Hospital da Lagoa - HGL e do Instituto Nacional de Câncer - INCA, vinculados ao Ministério da Saúde.
+    Este é exatamente o caso da autora, que é servidora estatutária do Ministério da Saúde, cedida ao Hospital Universitário Alcides Carneiro. Dessa forma, resta reconhecida a possibilidade do servidor do Ministério da Saúde, desde que exerça suas funções em Hospital Universitário e atenda aos outros requisitos da Lei 11.907/09, ser escalado para trabalhar em regime de plantão e fazer jus ao recebimento do adicional de plantão hospitalar.
+    Ademais, referido adicional é devido em razão do efetivo exercício do trabalho e não, em razão da lotação originária da servidora. Até porque seria esdrúxula a situação de servidores exercendo a mesma função e trabalhando no mesmo local, mas, em face de pertencerem a órgãos diferentes, não poderem receber o adicional”.
+    2. A Agravante afirma que, ao aplicar a Lei n. 11.907/2009 ao caso concreto, o Tribunal de origem declarou a inconstitucionalidade de lei federal.
+    Assevera que,
+    “no caso em tela, a recorrida é servidora pública federal vinculada ao Ministério da Saúde, estando à cedida ao Hospital Alcides Carneiro da Universidade Federal de Campina Grande.
+    Inicialmente, faz-se mister destacar que o art. 298 da Lei n. 11.907/09 especificou quais são os servidores e em que situações eles farão jus ao adicional em comento, nos seguintes termos:
+    (...)
+    Nesse espeque, um servidor quando vinculado ao Ministério da Educação, ao Ministério da Defesa ou ao Ministério da Saúde só terão direito ao Adicional de Plantão Hospitalar, quando ocupantes de cargo de provimento efetivo nos hospitais vinculados ao referido Ministério.
+    Assim sendo, um servidor efetivo do Ministério da Saúde ou do Ministério da Defesa, quando cedido para ocupar cargo ou função de comissão em hospital universitário, não preencherá as condições exigidas em lei para perceber o APH”.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de incidência da Súmula n. 279 do Supremo Tribunal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Para a interposição do recurso extraordinário com fundamento na alínea b do inc. III do art. 102 da Constituição da República, é imprescindível a declaração formal de inconstitucionalidade de tratado ou lei federal pelo plenário ou órgão especial do tribunal de origem, o que não se deu na espécie:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DISPOSITIVO AUTORIZADOR DO RECURSO EXTRAORDINÁRIO. INDICAÇÃO. AUSÊNCIA. CONSTITUCIONAL. RECURSO INTERPOSTO COM BASE NO ART. 102, III, B. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - A indicação correta do dispositivo constitucional autorizador do recurso extraordinário - artigo, inciso e alínea - é requisito indispensável ao seu conhecimento, a teor do art. 321 do RISTF e da pacífica jurisprudência do Tribunal. II - O Tribunal a quo não declarou inconstitucional lei federal ou tratado, incabível a interposição de recurso extraordinário com base na alínea b do art. 102, III, da Constituição. III - Agravo regimental improvido” (AI 687.167-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 6.3.2009, grifos nossos).
+    “1. Salário-maternidade. Requerimento extemporâneo. Correção monetária desde a data do parto até a da apuração do valor devido. Matéria infraconstitucional. Ofensa constitucional indireta. Precedentes. Recurso extraordinário não admitido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de direito local, seria apenas indireta à Constituição da República. 2. RECURSO. Extraordinário. Inadmissibilidade. Interposição com base na alínea "b". Acórdão impugnado que não declarou a inconstitucionalidade de tratado ou lei federal, na forma do art. 97 da Constituição Federal. Não cabimento. Não se admite recurso extraordinário interposto com base na alínea "b" contra acórdão que não contém declaração de inconstitucionalidade de tratado ou lei federal” (RE 565.643, Relator o Ministro Cezar Peluso, Segunda Turma, DJe 1º.8.2008, grifos nossos).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de outubro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
