@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “RECURSO EM ‘HABEAS CORPUS’. CRIME CONTRA O PATRIMÔNIO. ROUBO CIRCUNSTANCIADO. PLEITO PELA REVOGAÇÃO DA PRISÃO PREVENTIVA. EXCESSO DE PRAZO. INOCORRÊNCIA. PRECEDENTES.
+    1. Improcede a alegação de delonga excessiva para o encerramento da instrução criminal, quando a eventual demora foi ocasionada pela quantidade de acusados e complexidade do feito como motivos determinantes do atraso na instrução, estando demonstrado que o curso processual, dentro do possível, segue sua normalidade, sendo por isso mesmo, plausível o não reconhecimento da ilegalidade aduzida.
+    2. Recurso em ‘habeas corpus’ a que se nega provimento, observando que o Juízo processante deverá dar celeridade no julgamento da ação penal.”
+    (RHC 39.029/SP, Rel. Min. MOURA RIBEIRO – grifei)
+    O exame dos presentes autos parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida nesta sede processual.
+    Com efeito, no que concerne ao alegado excesso de prazo na prisão cautelar do paciente, há a considerar que o Supremo Tribunal Federal, em situações assemelhadas à descrita nesta impetração, tem entendido que a complexidade da causa penal – notadamente daquelas de caráter multitudinário – pode justificar eventual retardamento na solução jurisdicional do litígio.
+    Cumpre assinalar, neste ponto, por necessário, que a alegação de excesso de prazo – considerado o contexto da causa penal em análise – parece não encontrar apoio no magistério jurisprudencial desta Suprema Corte, que tem reconhecido caracterizar-se “Ausência de constrangimento ilegal, quando tal excesso deriva das circunstâncias e da complexidade do processo, não sendo eventual retardamento fruto de inércia e desídia do Poder Judiciário” (HC 81.957/MA, Rel. Min. ELLEN GRACIE – grifei).
+    Impende ressaltar, por relevante, que essa mesma orientação vem de ser reafirmada pela colenda Segunda Turma desta Suprema Corte, em julgamento que restou consubstanciado em acórdão assim ementado:
+    “‘HABEAS CORPUS’. PENAL. PROCESSUAL PENAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO CARACTERIZAÇÃO. COMPLEXIDADE DA AÇÃO PENAL. INEXISTÊNCIA DE INÉRCIA OU DESÍDIA DO PODER JUDICIÁRIO. RÉU ACUSADO DE AMEAÇAR TESTEMUNHA. NECESSIDADE DA CUSTÓDIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+    I – O prazo para julgamento da ação penal mostra-se dilatado em decorrência da complexidade do caso, uma vez que o réu e mais quatro corréus foram denunciados pela prática do crime de homicídio qualificado em concurso material com o de ocultação de cadáver.
+    II – A jurisprudência desta Corte é firme no sentido de que não procede a alegação de excesso de prazo quando a complexidade do feito, as peculiaridades da causa ou a defesa contribuem para eventual dilação do prazo. Precedentes.
+    .......................................................................................................
+    IV – Ordem denegada.”
+    (HC 115.873/RS, Rel. Min. RICARDO LEWANDOWSKI – grifei)
+    Esse entendimento, na realidade, nada mais reflete senão a própria orientação resultante de diretriz jurisprudencial que esta Corte Suprema firmou na matéria, notadamente em situações como a ora exposta nesta impetração, em que a complexidade dos fatos torna justificável eventual retardamento na conclusão do procedimento penal, desde que a demora registrada observe padrões de estrita razoabilidade (RTJ 93/1021 – RTJ 110/573 – RTJ 123/545 – RTJ 124/1087 – RTJ 128/652 – RTJ 128/681 – RTJ 129/746 – RTJ 135/554 – RTJ 136/604 – RTJ 178/276 – RTJ 196/306 – HC 81.905/PE – HC 85.611/DF – HC 85.679/PE – HC 85.733/PB – HC 86.103/RS – HC 86.329/PA – HC 89.168/RO – HC 90.085/AM – HC 101.447/CE, v.g.):
+    “‘HABEAS CORPUS’ – PRISÃO PREVENTIVA – NECESSIDADE COMPROVADA DE SUA DECRETAÇÃO – DECISÃO FUNDAMENTADA – MOTIVAÇÃO IDÔNEA QUE ENCONTRA APOIO EM FATOS CONCRETOS – POSSÍVEL INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA – LEGALIDADE DA DECISÃO QUE DECRETOU A PRISÃO CAUTELAR – ALEGADO EXCESSO DE PRAZO NA CUSTÓDIA PROCESSUAL – CAUSA PENAL COMPLEXA – EXISTÊNCIA DE VÁRIOS LITISCONSORTES PENAIS PASSIVOS – INOCORRÊNCIA DE EXCESSO IRRAZOÁVEL – PEDIDO INDEFERIDO.
+    .......................................................................................................
+    ALEGADO EXCESSO DE PRAZO NA CUSTÓDIA CAUTELAR DO PACIENTE. CAUSA PENAL COMPLEXA. EXCESSO DE PRAZO NÃO CARACTERIZADO.
+    - O Supremo Tribunal Federal reconhece que a complexidade da causa penal, de um lado, e o número de litisconsortes penais passivos, de outro, podem justificar eventual retardamento na conclusão do procedimento penal ou na solução jurisdicional do litígio, desde que a demora registrada seja compatível com padrões de estrita razoabilidade. Precedentes.”
+    (HC 97.378/SE, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e sem prejuízo de ulterior reapreciação da matéria, quando do julgamento final do presente “writ” constitucional, indefiro o pedido de medida cautelar.
+    Publique-se.
+    Brasília, 08 de outubro de 2013.
+Ministro CELSO DE MELLO
+Relator
