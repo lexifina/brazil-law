@@ -1,0 +1,30 @@
+Trata-se de agravo regimental interposto contra a decisão em que concedi parcialmente a ordem neste mandado de injunção impetrado contra a omissão na elaboração da norma regulamentadora prevista no art. 40, § 4º, III, da Constituição Federal.
+    A impetração fundamentou-se na premissa de que, durante todo o período trabalhado pelos servidores filiados à entidade sindical ora impetrante, foi exercida atividade em contato com agentes nocivos à saúde e à integridade física.
+    Com fundamento em inúmeros precedentes do Plenário desta Corte, e considerada a falta do diploma regulamentador a que se refere o art. 40, § 4º, III, da Constituição Federal, concedi a ordem em parte para que os pleitos de aposentadoria especial dos servidores substituídos pelo sindicato impetrante pudessem ser analisados pela autoridade administrativa a quem compete a verificação do preenchimento ou não dos requisitos legais, em especial os do art. 57 da Lei 8.213/1991.
+    O Município de Belo Horizonte/MG interpõe este agravo regimental, sustentando, em suma, sua ilegitimidade passiva para figurar no polo passivo da ação injuncional, visto que não lhe incumbiria editar a legislação pertinente à aposentadoria especial.
+    Alega, ainda, a inexistência de prévia dotação orçamentária, de autorização da Lei de Diretrizes Orçamentárias e de observância aos limites para gastos com pessoal previstos na Lei de Responsabilidade Fiscal.
+    Requer sua exclusão da relação processual, bem como a denegação da ordem.
+    É o relatório necessário.
+    Decido.
+    Reexaminados os autos, entendo que assiste parcial razão ao agravante.
+    Com efeito, há reiterada jurisprudência desta Casa no sentido da ilegitimidade passiva de Estados e Municípios para intervir processualmente em mandados de injunção que buscam o reconhecimento de mora legislativa exclusivamente atribuída a órgãos e autoridades integrantes da esfera federal.
+    Nesse sentido, confira-se o julgamento do MI 1.525-AgR/DF, Rel. Min. Cármen Lúcia, cujo acórdão foi assim ementado:
+    “AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO ESTADUAL. LEGITIMIDADE PASSIVA.
+    1. Apenas a autoridade, órgão ou entidade que tenha o dever de regulamentar a norma constitucional dispõe de legitimidade passiva 'ad causam' no mandado de injunção.
+    2. Agravo regimental ao qual se nega provimento” (grifei).
+    Além disso, vale mencionar os MIs 352-QO, Rel. Min. Néri da Silveira; 1.231-AgR/DF, de minha relatoria; e 3.341/DF, Rel. Min. Celso de Mello.
+    Ressalto, contudo, que o fato de o Prefeito do Município de Belo Horizonte ser excluído da condição de impetrado, por ser autoridade alheia à mora legislativa federal sustentada (CF, art. 40, § 4º), não afasta essa mora ou, ainda, que essa autoridade, que já se manifestou regularmente nos autos, conste da autuação, exclusivamente, como interessado, uma vez que os servidores municipais atingidos pela decisão agravada são vinculados àquele Município.
+    Por fim, no que tange à vedação à concessão de benefício previdenciário sem a indicação de fonte de custeio, saliento que esta Corte já se manifestou sobre esse ponto no julgamento do MI 1.169-AgR/DF, oportunidade em que a Ministra Cármen Lúcia assim consignou em seu voto condutor:
+    “Da determinação contida na decisão de fls. 57-72 não decorre a criação, majoração ou extensão de benefício previdenciário a exigir a indicação da fonte de custeio correspondente, nos termos do art. 195, § 5º, da Constituição da República. Ela limita-se a integrar a norma constitucional para viabilizar a adoção de requisitos e critérios diferenciados para o exercício do direito à aposentadoria especial prevista no art. 40, § 4º, da Constituição da República.
+    Portanto, não se criou novo benefício previdenciário, apenas se removeu, mediante a aplicação das regras estabelecidas no art. 57 da Lei n. 8.213/1991, o óbice ao exercício do direito à aposentadoria especial pela Impetrante, razão pela qual não se há falar em contrariedade ao art. 195, § 5º, da Constituição da República.
+    5. Não procede, igualmente, o alegado desrespeito ao art. 5º, § 5º, da Lei n. 9.717/1998. A vedação contida nesse dispositivo ratifica a subordinação da Administração ao princípio da legalidade, materializando a noção segundo a qual a atuação administrativa está condicionada àquilo que a lei determina ou autoriza.
+    Nesses termos, o Administrador estaria impedido de deferir requerimento de aposentadoria especial fundamentado no art. 40, § 4º, da Constituição da República, pois a omissão legislativa na regulamentação desse dispositivo constitucional revelaria a indefinição dos critérios e dos requisitos legais a serem observados no exame do pedido formulado por servidor público.
+    Isso não impede, em razão do princípio da inafastabilidade da jurisdição, que a lacuna legislativa que obsta o pleno exercício de direito constitucionalmente assegurado seja suprida judicialmente.
+    Entendimento diverso imporia severa restrição à atuação do Poder Judiciário e teria a potencialidade de inviabilizar esta ação constitucional, o que não se pode sequer cogitar.
+    (…)
+    A integração normativa realizada por meio da decisão recorrida, que determinou a aplicação das regras previstas em sistema de previdência correlato, aliada ao exame do conjunto de regras que regem a aposentadoria dos servidores públicos, basta para que o Administrador examine o pedido de aposentadoria especial a ele submetido e, preenchidos os requisitos legais, conceda a aposentadoria especial à postulante” (grifos meus).
+    Isso posto, acolho em parte a pretensão recursal, a fim de excluir da condição de impetrado o Prefeito do Município de Belo Horizonte, autoridade alheia à mora legislativa federal sustentada (CF, art. 40, § 4º). O Município de Belo Horizonte, contudo, deverá constar da autuação, exclusivamente, como interessado. Mantidas as demais disposições da decisão agravada.
+    Publique-se.
+    Brasília, 9 de outubro de 2013.
+Ministro Ricardo Lewandowski
+Relator
