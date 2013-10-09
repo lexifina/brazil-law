@@ -1,0 +1,16 @@
+DECISÃO
+    EMENTA: DIREITO PROCESSUAL PENAL. PERDA SUPERVENIENTE DE FORO POR PRERROGATIVA DE FUNÇÃO. DECLÍNIO DE COMPETÊNCIA.
+    1. A perda superveniente do foro por prerrogativa de função por pessoa que deixa de exercer mandato como parlamentar federal implica o encaminhamento dos autos ao órgão que tenha competência ou atribuição para prosseguimento no feito, mediante declínio de competência do Supremo Tribunal Federal.
+    Trata-se de Inquérito instaurado para apurar suposta prática de crime contra a Administração pelo ex-Deputado Federal Rogério Simonetti Marinho.
+    O feito veio ao Gabinete em 23.07.2013,
+    Em 02.08.2013, ao verificar que o investigado, de acordo com pesquisa realizada nos sites da Câmara de Deputados e do Governo do Estado do Rio Grande do Norte, teria deixado de exercer o mandato de Deputado Federal como suplente e assumido a Secretaria de Estado de Desenvolvimento Econômico/RN, determinei que fosse oficiada à Diretoria-Geral da Câmara para certificar a situação atual do agente público.
+    Às fls. 282, consta certidão expedida pelo Secretário-Geral daquela Casa, confirmando que Rogério Simonetti Marinho não exerce mandato de Deputado Federal desde 07.11.2012. Dada vista ao Ministério Público, foi requerida a remessa dos autos ao juízo natural.
+    Decido
+    A perda superveniente de prerrogativa de foro por pessoa que deixa de exercer mandato como Deputado Federal impõe o declínio de competência do Supremo Tribunal Federal para o órgão que tenha competência ou atribuição para prosseguimento, conforme reiterada jurisprudência da Corte. Destaco, como exemplo o julgamento do Inquérito 2415 AgR/MT pelo Pleno, Rel. Min. Gilmar Mendes, Julgamento em 25.06.2009:
+    EMENTA: 1. Agravo regimental em Inquérito. 2. Recurso interposto contra decisão monocrática que, em face da perda do mandato de Deputado Federal, reconheceu a incompetência superveniente do STF para processar e julgar o investigado nos termos do art. 102 da CF, determinando a baixa dos autos ao Juízo da 2ª Vara Federal de Mato Grosso. 3. O agravante sustenta que os atos investigados neste inquérito teriam ocorrido no Distrito Federal, o que atrairia a competência para esta Seção Judiciária. 4. Com a perda do mandato eletivo pelo investigado, querelado ou denunciado, cessa a competência penal originária do STF para apreciar e julgar autoridades dotadas de prerrogativa de foro ou de função. Precedentes do STF. 5. Considerada a perda do mandato do Deputado Federal investigado, nos termos do art. 76, inciso III, do CPP, o juízo competente para apreciar a matéria é, em princípio, o da 2ª Vara da Seção Judiciária de Mato Grosso, sem prejuízo de entendimento diverso daquele juízo, a quem caberá decidir a respeito, com sujeição aos recursos cabíveis. 6. Agravo regimental desprovido.
+    (grifei)
+    Sendo assim, deve ser declinada a competência do Supremo Tribunal Federal e, tratado-se de Inquérito, os autos devem ser encaminhados à Procuradoria-Geral do Ministério Público do Estado do Rio Grande do Norte, tendo em vista que o art. 71, I, “c”, da Constituição Estadual, prevê o foro por prerrogativa de função para Secretário de Estado no Tribunal de Justiça.
+    Dê-se vista à Procuradoria-Geral da República. Publique-se. Após, cumpra-se.
+     Brasília, 9 de outubro de 2013.
+     Ministro LUÍS ROBERTO BARROSO
+     Relator
