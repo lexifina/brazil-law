@@ -1,0 +1,39 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA RETIDO NA FONTE. FÉRIAS E LICENÇA-PRÊMIO. INCIDÊNCIA. IMPOSSIBILIDADE DE ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Paraná:
+    “APELAÇÃO CÍVEL - AÇÃO DE REPETIÇÃO DE INDÉBITO - SERVIDOR PÚBLICO MUNICIPAL- IMPOSTO DE RENDA - RETENÇÃO SOBRE LICENÇA-PRÊMIO E FÉRIAS NÃO GOZADAS - LEGITIMIDADE PASSIVA DA UNIÃO - AFASTADA - SÚMULA 447 DO STJ - APLICAÇÃO - PRINCÍPIO DA SIMETRIA - INCIDÊNCIA DO REFERIDO IMPOSTO - IMPOSSIBILIDADE -VERBAS DE NATUREZA INDENIZATÓRIA PRECEDENTES INÉPCIA DA EXORDIAL - NÃO CONFIGURADA - PRESCRIÇÃO - MATÉRIA DE ORDEM PÚBLICA REFORMA PRESCRIÇÃO DECENAL - APLICAÇÃO - TÃO SÓ PARA FATOS ANTERIORES A ENTRADA EM VIGOR DA LEI COMPLEMENTAR 118/2005 - JUROS DE MORA -CONTAGEM A PARTIR DO TRÂNSITO EM JULGADO - POSSIBILIDADE - SÚMULA 188, DO STJ - ÔNUS DE SUCUMBÊNCIA REDISTRIBUIÇÃO RECURSO CONHECIDO E NÃO PROVIDO.
+    Súmula 447 - Os Estados e o Distrito Federal são partes legítimas na ação de restituição de imposto de renda retido na fonte proposta por seus servidores.” (grifos nossos).
+    Os embargos de declaração opostos pelo Agravante foram rejeitados.
+    2. O Agravante afirma que o Tribunal de origem teria contrariado o arts. 84, inc. IV, 109, 153, inc. III, 156 e 158, inc. I, da Constituição da República.
+    Argumenta que
+    “O Executivo Federal, utilizando de sua competência para regulamentação de leis da União, expediu o Decreto 3.000/99 que regula o Imposto de Renda. Nele se verifica que há a determinação de incidência do imposto de renda sobre diversas espécies de verbas, inclusive sobre a licença-prêmio e férias pagas em pecúnia:
+    O Município de Londrina, como fonte pagadora de rendimentos a pessoas físicas, está obrigado a reter o valor devido a título de Imposto sobre a renda, nos termos do art. 7° da Lei Federal 7.713/88, sob pena de sanções previstas no Decreto-Lei 5.844/43 e no art. 44 da Lei 9.430/96”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta e ausência de prequestionamento.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Quanto à alegação de contrariedade ao art. 84, inc. IV, da Constituição da República, verifica-se que o dispositivo não foi objeto de debate e decisão prévios pelo Tribunal de origem, tampouco os embargos de declaração opostos o foram com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal:
+    “A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2008).
+    7. No julgamento do Recurso Extraordinário n. 684.169, Relator o Ministro Luiz Fux, o Supremo Tribunal Federal reafirmou sua jurisprudência, decidindo:
+    “DIREITO CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA RETIDO NA FONTE. ILEGITIMIDADE DA UNIÃO PARA CONFIGURAR NO POLO PASSIVO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DA CORTE” (DJe 23.10.2012).
+    8. Ademais, no voto condutor do acórdão recorrido o Desembargador Relator afirmou:
+    “Sobre a alegação de que o Município de Londrina está obrigado a reter o valor devido a título de Imposto de Renda, sob pena de sanção prevista no Decreto-Lei 5.844/43 e no art. 44 da Lei 9430/96, eque os rendimentos pugnados não se encontram no rol dos rendimentos isentos, também não merece prosperar.
+    Dispõe o artigo 43 do CTN:
+    (...)
+    Destarte, o posicionamento pacífico que vigora nos Tribunais é o de que o provento de licença-prêmio e de férias não gozadas, constitui natureza indenizatória, portanto não incidindo sobre ele o Imposto sobre a Renda.
+    Sobre o assunto já foi editada Súmula pelo Superior Tribunal de Justiça:
+    Súmula 136 - O pagamento de licença-prêmio não gozada por necessidade do serviço não esta sujeito ao imposto de renda.
+    Súmula 125 - O pagamento de ferias não gozadas por necessidade do serviço não esta sujeito a incidência do imposto de renda” (grifos nossos).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Decreto-Lei n. 5.844/1943, Leis n. 9.430/1996, e 7.713/1988 e Código Tributário Nacional). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO DE REPETIÇÃO DE INDÉBITO DE IMPOSTO DE RENDA RETIDO NA FONTE POR ESTADO FEDERADO, INCIDENTE SOBRE LICENÇA-PRÊMIO NÃO GOZADA. QUESTÕES RELATIVAS À LEGITIMIDADE PASSIVA DO ESTADO E À COMPETÊNCIA DA JUSTIÇA ESTADUAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 557.990-AgR, de minha relatoria, Primeira Turma, DJe 7.8.2009).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. REPETIÇÃO DE INDÉBIDO. RETENÇÃO DE IMPOSTO DE RENDA. PRÊMIO-DESLIGAMENTO, LICENÇA-PRÊMIO E FÉRIAS INDENIZADAS. PLANO DE DEMISSÃO VOLUNTÁRIA. INCURSIONAMENTO NO CONTEXTO PROBATÓRIO DOS AUTOS. SÚMULA 279 DESTA CORTE. 1. A Súmula 279/STF dispõe: “Para simples reexame de prova não cabe recurso extraordinário.” 2. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 3. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, dos limites da coisa julgada e da prestação jurisdicional, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária” (ARE 701.377-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 3.12.2012).
+    “Agravo regimental em agravo de instrumento. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Servidor Público estadual. Licença-prêmio não gozada. Pagamento em pecúnia. Retenção de imposto de renda sobre o valor pago. Controvérsia infraconstitucional. Ofensa indireta à Constituição Federal. 4. Competência da Justiça estadual para julgar a ação de repetição de indébito. Precedentes. 5. Agravo regimental a que se nega provimento” (AI 488.425-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 25.4.2008).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de setembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
