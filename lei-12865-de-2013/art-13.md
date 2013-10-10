@@ -1,0 +1,1 @@
+Art. 13. As instituições de pagamento sujeitam-se ao regime de administração especial temporária, à intervenção e à liquidação extrajudicial, nas condições e forma previstas na legislação aplicável às instituições financeiras.

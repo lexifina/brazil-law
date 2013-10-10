@@ -1,0 +1,1 @@
+Art. 4º Fica reduzida a 0 (zero) a alíquota da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins) incidentes sobre os valores efetivamente recebidos exclusivamente a título da subvenção de que tratam os arts. 1º e 2º.
