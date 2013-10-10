@@ -1,0 +1,3 @@
+Art. 10. O Banco Central do Brasil poderá, respeitadas as diretrizes estabelecidas pelo Conselho Monetário Nacional, estabelecer requisitos para a terceirização de atividades conexas às atividades fins pelos participantes dos arranjos de pagamento e para a atuação de terceiros como agentes de instituições de pagamento.
+§ 1º O instituidor do arranjo de pagamento e a instituição de pagamento respondem administrativamente pela atuação dos terceiros que contratarem na forma do caput.
+§ 2º Não se aplica o disposto no caput caso a entidade não participe de nenhuma atividade do arranjo de pagamento e atue exclusivamente no fornecimento de infraestrutura, como os serviços de telecomunicações.

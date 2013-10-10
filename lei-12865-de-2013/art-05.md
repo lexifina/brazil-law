@@ -1,0 +1,4 @@
+Art. 5º A Lei nº 12.666, de 14 de junho de 2012, passa a vigorar com as seguintes alterações:
+" Art. 2º É a União autorizada a conceder subvenção econômica às instituições financeiras oficiais federais, sob a forma de equalização de taxas de juros, nas operações de financiamento para a estocagem de álcool combustível e para renovação e implantação de canaviais, com os objetivos de reduzir a volatilidade de preço e de contribuir para a estabilidade da oferta de álcool.
+§ 4º A autorização para a concessão de subvenção e para a contratação das operações de financiamento para estocagem de álcool combustível e para renovação e implantação de canaviais é limitada a 5 (cinco) anos, contados da publicação oficial desta Lei.
+..................................................................................." (NR)
