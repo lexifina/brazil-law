@@ -1,0 +1,1 @@
+Art. 21. O prazo de 48 (quarenta e oito) meses previsto no inciso I do § 4º do art. 2º da Lei nº 11.508, de 20 de julho de 2007, com a redação dada por esta Lei, aplica-se às Zonas de Processamento de Exportação (ZPE) criadas a partir de 23 de julho de 2007, desde que não tenha sido declarada a sua caducidade até a publicação desta Lei.

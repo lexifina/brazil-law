@@ -1,0 +1,1 @@
+Art. 38. São extintas todas as obrigações, inclusive as anteriores à data de publicação desta Lei, exigidas de pessoas físicas ou jurídicas de direito privado com fundamento nas alíneas "a" e "c" do caput do art. 36 da Lei nº 4.870, de 1º de dezembro de 1965, preservadas aquelas já adimplidas.

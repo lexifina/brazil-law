@@ -1,0 +1,7 @@
+Art. 17. Fica reaberto, até 31 de dezembro de 2013, o prazo previsto no § 12 do art. 1º e no art. 7º da Lei nº 11.941, de 27 de maio de 2009, bem como o prazo previsto no § 18 do art. 65 da Lei nº 12.249, de 11 de junho de 2010, atendidas as condições estabelecidas neste artigo.
+§ 1º A opção de pagamento ou parcelamento de que trata este artigo não se aplica aos débitos que já tenham sido parcelados nos termos dos arts. 1º a 13 da Lei nº 11.941, de 27 de maio de 2009, e nos termos do art. 65 da Lei nº 12.249, de 11 de junho de 2010.
+§ 2º Enquanto não consolidada a dívida, o contribuinte deve calcular e recolher mensalmente parcela equivalente ao maior valor entre:
+I - o montante dos débitos objeto do parcelamento dividido pelo número de prestações pretendidas; e
+II - os valores constantes no § 6º do art. 1º ou no inciso I do § 1º do art. 3º da Lei nº 11.941, de 27 de maio de 2009, conforme o caso, ou os valores constantes do § 6º do art. 65 da Lei nº 12.249, de 11 de junho de 2010, quando aplicável esta Lei.
+§ 3º Por ocasião da consolidação, será exigida a regularidade de todas as prestações devidas desde o mês de adesão até o mês anterior ao da conclusão da consolidação dos débitos parcelados pelo disposto neste artigo.
+§ 4º Aplica-se a restrição prevista no § 32 do art. 65 da Lei nº 12.249, de 11 de junho de 2010, aos débitos para com a Anatel, que não terão o prazo reaberto nos moldes do caput deste artigo.

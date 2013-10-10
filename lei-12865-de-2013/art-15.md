@@ -1,0 +1,3 @@
+Art. 15. É o Banco Central do Brasil autorizado a baixar as normas e instruções necessárias ao seu cumprimento.
+§ 1º No prazo de 180 (cento e oitenta) dias, o Banco Central do Brasil, tendo em vista diretrizes estabelecidas pelo Conselho Monetário Nacional, definirá as condições mínimas para prestação dos serviços de que trata esta Lei.
+§ 2º É o Banco Central do Brasil autorizado a estabelecer, para os arranjos de pagamento, os instituidores de arranjo de pagamento e as instituições de pagamento já em funcionamento, prazos para adequação às disposições desta Lei, às normas por ele estabelecidas e às diretrizes do Conselho Monetário Nacional.
