@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF08 nº 199, de 3 de setembro de 2013
+Assunto: Contribuições Sociais Previdenciárias CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. INDUSTRIALIZAÇÃO POR ENCOMENDA. Nos casos em que a empresa terceiriza integralmente a industrialização das mercadorias por ela vendidas, caracterizando-se como estabelecimento equiparado a industrial, não se aplica a disciplina estabelecida no art. 8º da Lei nº 12.546, de 2011, devendo recolher as contribuições previdenciárias previstas no art. 22, incisos I e III, da Lei nº 8.212, de 1991. Dispositivos Legais: Medida Provisória nº 540, de 2011, art. 8º; Lei nº 12.546, de 2011, art. 8º; Medida Provisória nº 563, de 2012, arts. 45 e 46; Lei nº 12.715, de 2012, arts. 55 e 56; Ripi/2010, arts. 4º, 8º, 9º e 609.
+Assunto: Contribuições Sociais Previdenciárias
+CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. INDUSTRIALIZAÇÃO POR ENCOMENDA.
+Nos casos em que a empresa terceiriza integralmente a industrialização das mercadorias por ela vendidas, caracterizando-se como estabelecimento equiparado a industrial, não se aplica a disciplina estabelecida no art. 8º da Lei nº 12.546, de 2011, devendo recolher as contribuições previdenciárias previstas no art. 22, incisos I e III, da Lei nº 8.212, de 1991.
+Dispositivos Legais: Medida Provisória nº 540, de 2011, art. 8º; Lei nº 12.546, de 2011, art. 8º; Medida Provisória nº 563, de 2012, arts. 45 e 46; Lei nº 12.715, de 2012, arts. 55 e 56; Ripi/2010, arts. 4º, 8º, 9º e 609.
+EDUARDO NEWMAN DE MATTERA GOMES Chefe
