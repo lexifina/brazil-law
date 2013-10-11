@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na alegação de afronta aos arts. 5º, § 1º, 7º, XVIII, 37, caput e inciso II, 226 e 227 da Lei Maior
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O exame de eventual ofensa aos preceitos constitucionais indicados nas razões recursais demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, verbis:
+    “Agravo regimental no recurso extraordinário com agravo. Servidora pública estadual. Licença maternidade. Prorrogação. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. O recurso extraordinário não se presta à analise de legislação infraconstitucional. Incidência das Súmulas nºs 280 e 636/STF. 3. Agravo regimental não provido.” (ARE 738.391-AgR/BA, Rel. Min. Dias Toffoli, 1ª Turma, DJe 27.6.2013.)
+    “DIREITO ADMINISTRATIVO. SERVIDORA PÚBLICA ESTADUAL. LICENÇA MATERNIDADE. PRORROGAÇÃO. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA STF 282. INAPTIDÃO DO PREQUESTIONAMENTO IMPLÍCITO OU FICTO PARA ENSEJAR O CONHECIMENTO DO APELO EXTREMO. INTERPRETAÇÃO DA SÚMULA STF 356. ACÓRDÃO RECORRIDO PUBLICADO EM 30.11.2010. A jurisprudência desta Corte é firme no sentido de que a discussão referente à prorrogação de licença maternidade de servidora pública estadual é de natureza infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto de viabilizar o conhecimento do recurso extraordinário. Precedentes. (...) Agravo regimental conhecido e não provido.” (ARE 707.221-AgR/BA, de minha relatoria, Primeira Turma, DJe 04.9.2013).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de outubro de 2013.
+Ministra Rosa Weber
+Relatora
