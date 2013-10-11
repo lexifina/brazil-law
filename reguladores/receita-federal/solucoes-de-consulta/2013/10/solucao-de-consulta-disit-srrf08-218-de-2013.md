@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF08 nº 218, de 12 de setembro de 2013
+Assunto: Contribuições Sociais Previdenciárias CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. FABRICAÇÃO DE PRODUTOS CLASSIFICADOS NA NCM 3923.30.00. A fabricação de produtos enquadrados no código 39.23.30.00 da Tipi (com exceção do código 39.23.30.00 Ex. 01) está sujeita ao regime da contribuição previdenciária substitutiva prevista no art. 8º da Lei nº 12.546, de 2011, nos períodos de 01/08/2012 a 31/12/2012, de 01/04/2013 a 03/06/2013 e de 01/11/2013 a 31/12/2014. No período de 04/06/2013 a 31/10/2013, é faculdade da empresa submeter-se ao regime previsto na Lei nº 12.546, de 2011. Dispositivos Legais: Lei nº 12.546/2011, arts. 8º, 46 e 54, II, §2º, e Anexo; MP nº 582/2012, arts. 2º, II, e 20, I; art. 14, I, §§ 1º e 2º, art. 49, II, "b", e Anexo I da Lei nº 12.844.
+Assunto: Contribuições Sociais Previdenciárias
+CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. FABRICAÇÃO DE PRODUTOS CLASSIFICADOS NA NCM 3923.30.00.
+A fabricação de produtos enquadrados no código 39.23.30.00 da Tipi (com exceção do código 39.23.30.00 Ex. 01) está sujeita ao regime da contribuição previdenciária substitutiva prevista no art. 8º da Lei nº 12.546, de 2011, nos períodos de 01/08/2012 a 31/12/2012, de 01/04/2013 a 03/06/2013 e de 01/11/2013 a 31/12/2014.
+No período de 04/06/2013 a 31/10/2013, é faculdade da empresa submeter-se ao regime previsto na Lei nº 12.546, de 2011.
+Dispositivos Legais: Lei nº 12.546/2011, arts. 8º, 46 e 54, II, §2º, e Anexo; MP nº 582/2012, arts. 2º, II, e 20, I; art. 14, I, §§ 1º e 2º, art. 49, II, "b", e Anexo I da Lei nº 12.844.
+EDUARDO NEWMAN DE MATTERA GOMES Chefe
