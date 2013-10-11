@@ -1,0 +1,37 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Francisco Ivo Sobrinho Júnior contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp 311.259/AC.
+    O Juízo de Direito da Vara Criminal da Comarca de Plácido de Castro/AC condenou o paciente às penas de 2 (dois) anos de reclusão, em regime inicial fechado, e de 180 (cento e oitenta) dias-multa, pela prática do delito de tráfico de drogas, tipificado no art. 33 da Lei 11.343/2006.
+    Em sede de apelação, o Tribunal de Justiça do Estado do Acre deu provimento parcial ao recurso ministerial para redimensionar a pena para 6 (seis) anos de reclusão.
+    A Defesa interpôs recurso especial, que, inadmitido na origem, ensejou o manejo de agravo perante o Superior Tribunal de Justiça. A Ministra Marilza Maynard (Desembargadora convocada do TJSE), por decisão monocrática, negou provimento ao recurso. Posteriormente, a Corte Especial negou provimento ao agravo regimental, em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL DESPROVIDO. – A Corte de origem, após a análise do conjunto probatório concluiu que o agravante se dedicava à atividades criminosas, circunstância que afasta a aplicação da causa de diminuição da pena prevista no § 4º da Lei n. 11.343/2006, cabendo ressaltar que rever essa premissa importa em incursão no conteúdo fático-probatório carreado aos autos, tarefa inviável em recurso especial, ex vi do verbete n. 7 da Súmula deste Tribunal. Agravo regimental desprovido”.
+    Neste writ, a Impetrante insurge-se contra a decisão que afastou a causa de diminuição de pena, prevista no art. 33, § 4º, da Lei 11.343/2006.
+    Requer, em medida liminar, a suspensão dos efeitos do acórdão do Tribunal de Justiça do Estado do Acre até o julgamento final do presente writ. No mérito, o restabelecimento da sentença condenatória ou o julgamento da matéria de fundo no recurso especial pelo Superior Tribunal de Justiça.
+    É o relatório.
+    Decido.
+    O Superior Tribunal de Justiça, no julgamento do AREsp 311.259/AC, consignou que uma análise quanto ao reconhecimento da minorante de que trata o art. 33, § 4º, da Lei 11.343/2006 demandaria necessariamente o reexame do conjunto fático-probatório, vedado em recurso especial.
+    Portanto, a questão debatida nesses autos não foi objeto de apreciação pelo Superior Tribunal de Justiça. Inviabilizada, pois, a análise do pedido, neste momento, pelo Supremo Tribunal Federal, sob pena de supressão de instância.
+    Quanto à questão de mérito, o magistrado de primeiro grau aplicou a causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/06, em patamar de 2/3 (dois terços), tornando a pena definitiva em 2 (dois) anos, aos seguintes fundamentos:
+    “Isto posto, e pelo que mais consta dos autos, julgo procedente a pretensão punitiva para condenar Francisco Ivo Sobrinho Júnior, já qualificado, nas sanções do art. 33, caput, da Lei 11.343/06, (...)
+    Passo, sem delongas, à dosimetria da pena de Franciso Sobrinho Júnior:
+    (...)
+    Portanto, sendo desfavoráveis as circunstâncias judiciais (se analisadas como um todo), e ainda considerando-se a quantidade da droga apreendida, fixo a pena base um pouco acima no mínimo legal, em 06 (seis) anos de reclusão.
+    Não há atenuantes ou agravantes a serem reconhecidas, nem causas de aumento de pena. Reconheço, por sua vez, a causa de redução de pena do art. 33, § 4º, da Lei 11.343/06, razão pela qual reduzo a pena no patamar de 2/3 (dois terços), resultando em 2 (dois) anos de reclusão”.
+    Ao julgar apelação ministerial, o Tribunal de Justiça do Estado do Acre afastou a causa de redução de pena, redimensionando a pena para 6 (seis) anos de reclusão. Transcrevo, por oportuno, excertos do voto condutor do acórdão estadual:
+    “Na hipótese sub examine vê-se que direito assiste ao apelante, na proporção em que o apelado não preencheu os requisitos estabelecidos para redução dos dois terços, pois contra ele pesa uma série de outras acusações, todas envolvendo tráfico de substância entorpecente (fls. 16 e 46/47), do que se conclui ser useiro e vezeiro na prática da criminalidade.
+    Assim sendo, merece provimento o apelo neste particular, afastando-se do apenamento a redução operada em face do reconhecimento da minorante em referência.
+    A respeito disso, o entendimento desta egrégia Câmara Criminal preleciona que:
+    “APELAÇÃO CRIMINAL – TÓXICO. PEDIDO DE DESCLASSIFICAÇÃO DA CONDUTA PARA A PREVISTA NO ART. 33, § 2º, DA LEI Nº 11.343/06. NÃO CABIMENTO. PALICAÇÃO DA REDUÇÃO DE PENA PREVISTA NO § 4º, DO ART. 33, DA LEI ANTIDROGAS. IMPOSSIBILIDADE.
+    1. Omissis...
+    2. Comprovado que o apelante não preenche os requisitos exigidos, fica inviável a aplicação da causa de diminuição de pena prevista no § 4º , do art. 33, da Lei 11.343/2006.
+    3. Apelo improvido. Unânime” (Apelação Criminal nº 0015786-34.2010. Julgada em 08.09.2011. Rel. Des. Feliciano Vasconcelos)
+    Desse modo, conclui-se que a pena fica redimensionada em 06 (seis) anos de reclusão, sendo definitiva nesse patamar, diante da ausência de causas de aumento e redução”.
+    O envolvimento do paciente com prática de atividades criminosas foi determinante para que a Corte Estadual, em sede de apelação criminal, afastasse a aplicação do art. 33, § 4º, da Lei nº 11.343/2006, o qual dispõe:
+    “§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa”.
+    Portanto, o afastamento do benefício do art. 33, § 4º, da Lei nº 11.343/2006, por dedicação do paciente às atividades criminosas, se mostra adequada e em consonância com as circunstâncias objetivas que ladearam a infração penal.
+    A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal e as leis extravagantes não estabelecem rígidos esquemas matemáticos ou regras absolutamente objetivas para tanto. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes e arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores.
+    Para verificar a aplicabilidade da causa de diminuição da pena do § 4º do art. 33 da Lei 11.343/06, deve o juiz considerar todos os elementos constantes dos autos. Reputando-a pertinente, cabe-lhe definir o grau de redução apropriado para a pena, sopesadas as circunstâncias do caso concreto e conforme necessário e suficiente para reprovação e prevenção do crime.
+    Na espécie, para a Corte Estadual inaplicável o § 4º do art. 33 da Lei 11.343/06, uma vez constatadas várias acusações, todas envolvendo tráfico de drogas, a denotar a prática reiterada ou a dedicação habitual do paciente a esse espécie de crime.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de outubro de 2013.
+Ministra Rosa Weber
+Relatora
