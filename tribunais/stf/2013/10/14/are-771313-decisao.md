@@ -1,0 +1,11 @@
+DECISÃO: O acórdão recorrido foi publicado em 05.04.2011(terça-feira), conforme certidão de publicação de fls. 251, tendo-se esgotado o prazo para a interposição de recurso extraordinário em 20.04.2011 (quarta-feira). Sendo assim, o recurso é intempestivo, porquanto interposto em 19.08.2011.
+    Observo que o recurso é intempestivo, porquanto a interposição do incabível agravo interno de fls. 252-256 não têm o condão de interromper ou suspender o curso do prazo recursal.
+    A jurisprudência desta Corte firmou-se no sentido de que recurso incabível não interrompe nem suspende o prazo para a interposição de outros recursos. Confira-se:
+    “EMENTA: 1. RECURSO. Embargos de declaração. Decisão que não conhece de embargos anteriores. Suspensão ou interrupção do prazo para interposição de outro recurso. Não ocorrência. Trânsito em julgado da decisão embargada. Embargos não conhecidos. Não se conhece dos embargos de declaração, quando já transitada em julgado a decisão embargada. 2. RECURSO. Agravo regimental. Inadmissibilidade. Acórdão de Turma ou do Plenário. Agravo regimental não conhecido. Precedentes. Cabe agravo regimental contra decisão do Presidente do Tribunal, de Presidente de Turma ou do Relator. Não, porém, contra acórdão de Turma ou do Plenário. 3. RECURSO. Multa aplicada em agravo regimental. Depósito não efetuado. Não satisfação da condição para interposição de recurso. Recurso não conhecido. Aplicação do art. 557, § 2º, do CPC. Não se conhece do recurso, quando não satisfeita uma das condições para sua interposição, como o depósito de multa por litigância de má fé.” (RE 569.719-AgR-AgR-ED, rel. min. Cezar Peluso, Segunda Turma, DJe de 09.10.2009)
+    Nesse sentido: AI 689.164-AgR (rel. min. Ricardo Lewandowski, Primeira Turma, DJe de 22.05.2009), RE 601.061-AgR-AgR-ED (rel. min. Eros Grau, Segunda Turma, DJe de 21.05.2010), AI 688.561-AgR (rel. min. Ellen Gracie, Plenário, DJe de 11.04.2008) e AI 606.085-AgR (de minha relatoria, Segunda Turma, DJe de 31.10.2007).
+    Verifico, ainda, a intempestividade do presente agravo, porquanto interposto em 29.07.2013, ao passo que a intimação da decisão que inadmitiu o apelo extraordinário ocorreu em 16.07.2013 (fls. 280v).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 14 de outubro de 2013.
+Ministro JOAQUIM BARBOSA
+Presidente
