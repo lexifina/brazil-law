@@ -1,0 +1,12 @@
+Decisão: 1. O objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG (Rel. Min. AYRES BRITTO, Tema 181), por se tratar de questão infraconstitucional. É o que a recorrente pretende debater no presente caso, pois, negado seguimento ao recurso de revista pelo TRT, entendimento este confirmado em sede de agravo no Tribunal Superior do Trabalho, insurge-se quanto aos fundamentos do acórdão, ao argumento de que não se encontra devidamente fundamentado e, portanto, implicou negativa de prestação jurisdicional e violação a outros dispositivos constitucionais, insistindo, ainda, na rediscussão das questões de mérito não apreciadas pelo TST.
+    2. Ademais, conforme reiterada jurisprudência desta Corte, é inviável o exame da alegada violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa (ARE 748.371-RG/MG, Min. Gilmar Mendes, TEMA 660).
+    De fato, não há como conhecer das alegações de impenhorabilidade centradas na Lei 8.009/90.
+    3. No que toca à alegada ofensa ao artigo 93, IX, da Constituição Federal, o recurso diz respeito à tema cuja repercussão geral foi reconhecida, e já julgado no mérito, na análise do AI 791.292 RG (Rel. Min. GILMAR MENDES, DJe de - TEMA 339). O entendimento do Tribunal a quo se ajusta a esse precedente.
+    4. Quanto aos artigos 1º, III, e 226 da Constituição, não houve emissão, pelo acórdão recorrido, de juízo acerca das matérias de que tratam essas normas, e tampouco a questão foi suscitada no momento oportuno, em sede dos embargos de declaração, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido, incidindo os óbices das Súmulas 282 e 356 do STF.
+    5. Por fim, o acolhimento do recurso dependeria do exame de fatos da causa, sendo necessário analisar se a alegada pequena propriedade rural era trabalhada pela família, conforme exige o artigo 5º, XXVI, da Constituição Federal. Tal juízo é inviável em recurso extraordinário, nos termos da Súmula 279/STF.
+    6. Ante o exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 14 de outubro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
