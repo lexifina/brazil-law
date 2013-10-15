@@ -1,0 +1,6 @@
+Solução de Consulta Diana/SRRF09 nº 51, de 14 de agosto de 2013
+Assunto: Classificação de Mercadorias Código TIPI: 8202.40.00 Mercadoria: Correntes de corte para motosserras, modelos 3/8” e .404”, compostas por elos de ação, união, cortador e rebite, constituídos por liga metálica, com, em média, 88% de aço em tiras, utilizado para os componentes estampados da corrente (elo de ligação, elo de união e cortador) e 12% de arame, utilizado na composição e instalação dos rebites que unem cada um dos elos. Dispositivos Legais: RGI/SH 1 (texto da posição 82.02 e Nota 1 da Seção XVI) e 6 (texto da subposição 8202.40.00), da TIPI, aprovada pelo Decreto 7.660/2011.
+Assunto: Classificação de Mercadorias
+Código TIPI: 8202.40.00
+Mercadoria: Correntes de corte para motosserras, modelos 3/8” e .404”, compostas por elos de ação, união, cortador e rebite, constituídos por liga metálica, com, em média, 88% de aço em tiras, utilizado para os componentes estampados da corrente (elo de ligação, elo de união e cortador) e 12% de arame, utilizado na composição e instalação dos rebites que unem cada um dos elos.
+Dispositivos Legais: RGI/SH 1 (texto da posição 82.02 e Nota 1 da Seção XVI) e 6 (texto da subposição 8202.40.00), da TIPI, aprovada pelo Decreto 7.660/2011.
