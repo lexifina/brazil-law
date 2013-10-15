@@ -1,0 +1,16 @@
+DECISÃO
+COMPETÊNCIA – AÇÃO DE PARTICULAR CONTRA COMPANHIA ESTADUAL DE ENERGIA ELÉTRICA – RESTABELECIMENTO DO FORNECIMENTO DE ENERGIA ELÉTRICA – JUSTIÇA FEDERAL – DECLARAÇÃO NA ORIGEM – RECURSO EXTRAORDINÁRIO – PROVIMENTO.
+    1. A decisão formalizada pelo Tribunal de Justiça do Estado do Rio Grande do Sul implicou o afastamento da respectiva competência para julgar a apelação, revelando o entendimento de que a sentença impugnada fora proferida em causa alcançada pela exceção prevista no artigo 109, § 3º, da Carta da República. Eis a síntese do acórdão (folha 208):
+    APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO DE AUTORIDADE DIRIGENTE DE EMPRESA CONCESSIONÁRIA DE SERVIÇO PÚBLICO FEDERAL. FUNÇÃO DELEGADA. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTES DO STJ.
+    - É da Justiça Federal a competência para apreciar mandado de segurança interposto contra ato de autoridade dirigente de empresa concessionária de serviços de energia elétrica, por se tratar de serviço de função federal delegada. Artigo 109, VIII da CF.
+    - Se o mandado de segurança foi ajuizado em Comarca que não é Sede de Vara de Justiça Federal, exercendo o juiz estadual a competência federal, o recurso deve ser endereçado ao Tribunal Regional Federal. Inteligência do artigo 108, II, da CF.
+    - Remessa do processo ao Tribunal Regional Federal da 4a Região.
+    No recurso extraordinário, a Companhia Estadual de Energia Elétrica – CEEE argui a ofensa aos artigos 108, inciso II, alínea “a”, e 109, parágrafos 2º, 3º e 4º, da Constituição Federal. Afirma tratar-se de mandado de segurança, impetrado perante a Justiça estadual em Tramandaí, visando obter o restabelecimento do fornecimento de energia elétrica, interrompido em virtude de inadimplência. Sustenta que a sentença não foi proferida com fundamento no artigo 109, parágrafos 2º, 3º ou 4º, da Carta da República, mas decorreu de ato de jurisdição própria e não delegada, não estando em jogo causa em que envolvida instituição de previdência e segurado. Aponta a competência do Tribunal de Justiça local para o exame da apelação ou, caso assim não se entenda, concluindo-se que o julgamento cabe à Justiça Federal, pretende, com base no artigo 113, § 2º, do Código de Processo Civil, o reconhecimento da incompetência do Juízo e a consequente anulação de todos os atos decisórios.
+    2. Observem ser a competência da Justiça Federal de direito estrito. É o que se contém no Diploma Maior ou em lei, tal como previsto nos artigos 108 e 109 da Constituição.
+    No caso, consumidor de energia elétrica ajuizou ação contra a companhia estadual fornecedora, objetivando a restauração dos serviços. O Juízo Cível proferiu sentença, vindo o Tribunal de Justiça a declinar da competência para o Tribunal Regional Federal.
+    Não existe essa situação jurídica contemplada na Carta Federal nem na lei nela referida. A atuação cumpre ao Tribunal de Justiça.
+    3. Conheço e provejo este extraordinário para, afastando a declinação da competência, determinar ao Tribunal de Justiça do Estado do Rio Grande do Sul que prossiga na apreciação do recurso com o qual se defrontou.
+    4. Publiquem.
+Brasília – residência –, 15 de outubro de 2013, às 10h45.
+Ministro MARCO AURÉLIO
+Relator
