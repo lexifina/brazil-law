@@ -1,0 +1,7 @@
+Solução de Consulta Diana/SRRF09 nº 50, de 14 de agosto de 2013
+Assunto: Classificação de Mercadorias Código TIPI: 8504.40.10 Mercadoria: Carregador de acumuladores, com capacidade de carga de 20-250Ah, que funciona ligado à rede elétrica, com função principal de carregador de baterias de 12V/24V e função secundária de auxiliar de partida para veículos com a bateria totalmente descarregada. Retifica e transforma a tensão alternada de entrada de 220V para contínua de 12V/24V. É composto essencialmente por ponte retificadora, transformador, chaves duplas e simples e fusíveis. Dispositivos Legais: RGI/SH 1 (Nota 3 da Seção XVI e texto da posição 85.04) e 6 (texto da subposição 8504.40) e RGC/NCM 1 (texto do item 8504.40.10) da TIPI, aprovada pelo Decreto 7.660/2011.
+Assunto: Classificação de Mercadorias
+Código TIPI: 8504.40.10
+Mercadoria: Carregador de acumuladores, com capacidade de carga de 20-250Ah, que funciona ligado à rede elétrica, com função principal de carregador de baterias de 12V/24V e função secundária de auxiliar de partida para veículos com a bateria totalmente descarregada. Retifica e transforma a tensão alternada de entrada de 220V para contínua de 12V/24V. É composto essencialmente por ponte retificadora, transformador, chaves duplas e simples e fusíveis.
+Dispositivos Legais: RGI/SH 1 (Nota 3 da Seção XVI e texto da posição 85.04) e 6 (texto da subposição 8504.40) e RGC/NCM 1 (texto do item 8504.40.10) da TIPI, aprovada pelo Decreto 7.660/2011.
+Chefe
