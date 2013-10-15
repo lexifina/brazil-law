@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto de acórdão da 11ª Câmara de Direito Público do Estado de São Paulo, assim ementado (fl. 256):
+    “MANDADO DE SEGURANÇA – Imunidade tributária – Art. 150, VI, ‘d’, da CF – CD-ROMs e Áudio-books – Impossibilidade de acrescentar ao tecto constitucional termos não utilizados pelo legislador - Reexame necessário, considerado interposto, e recursos providos – Ordem denegada.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, caput, I, e 150, VI, d, da Constituição. Alega-se, em síntese, que a imunidade deve acobertar as operações que envolvem a circulação de obras literárias independente do suporte físico empregado, não havendo motivo para afastar a tributação somente com relação ao papel.
+    A decisão agravada negou seguimento ao recurso sob o argumento de que “ a análise demandaria o exame de matéria infraconstitucional, quando é sabido que a ofensa à Constituição Federal deve ser direta e frontal, e não por via reflexa” (fl. 411).
+    A contribuinte interpôs agravo de instrumento destacando o caráter constitucional da controvérsia, razão pela qual postula o provimento do recurso e a análise das questões trazidas no recurso extraordinário.
+    O Ministro Joaquim Barbosa negou seguimento ao recurso. Destacou que o suporte físico em mídia (cd-rom) não poderia ser contemplado pela norma imunizante, na medida em que o constituinte originário teria restringido o alcance da imunidade ao papel. A referida decisão foi objeto de agravo regimental. Na ocasião, a parte recorrente alegou que a matéria controvertida nestes autos foi submetida à sistemática da repercussão geral.
+    De início, reconsidero a decisão de fls. 439/440. Com efeito, a questão constitucional ora controvertida teve sua repercussão geral reconhecida pelo Supremo Tribunal Federal no RE 330.817-RG, Rel. Min. Dias Toffoli. O acórdão firmado no âmbito do Plenário Virtual ficou assim ementado:
+     “DIREITO CONSTITUCIONAL E TRIBUTÁRIO. MANDADO DE SEGURANÇA COLETIVO. PRETENDIDA IMUNIDADE TRIBUTÁRIA A RECAIR SOBRE LIVRO ELETRÔNICO. NECESSIDADE DE CORRETA INTERPRETAÇÃO DA NORMA CONSTITUCIONAL QUE CUIDA DO TEMA (ART. 150, INCISO IV, ALÍNEA D). MATÉRIA PASSÍVEL DE REPETIÇÃO EM INÚMEROS PROCESSOS, A REPERCUTIR NA ESFERA DE INTERESSE DE TODA A SOCIEDADE. TEMA COM REPERCUSSÃO GERAL.”
+    Diante do exposto, dou provimento ao agravo para admitir o recurso extraordinário, e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil. Julgo prejudicado o agravo regimental.
+     Publique-se.
+     Brasília, 15 de outubro de 2013.
+Ministro LUÍS ROBERTO BARROSO
+Relator
