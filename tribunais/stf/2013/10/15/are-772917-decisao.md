@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. CARREIRA ATIVIDADES DE TRÂNSITO, POLICIAMENTO E FISCALIZAÇÃO DE TRÂNSITO. PROMOÇÃO FUNCIONAL. REQUESITOS. EFEITOS FINANCEIROS RETROATIVOS. DESCABIMENTO.
+    1.Acórdão elaborado de conformidade com o dispositivo no art. 46, da Lei 9.099/1995. e art. 12, inciso IX, 98 e 99 do Regimento Interno das Turmas Recursais. Recurso próprio, regular e tempestivo.
+    2. Na forma do art. 6°, da Lei Distrital 2.990/92, e dos artigos 4°, 5° e 11 do Decreto 14.647/93, a progressão funcional dos servidores se dá na forma dos critérios estabelecidos em norma específica.
+    3. A legislação de regência somente autoriza o servidor a obter progressão funcional após a aprovação no estágio probatório, embora lhe seja assegurado a concessão dos padrões referentes ao tempo do estágio probatório, não há autorização legal para a concessão de efeitos financeiros retroativos a esta promoção (art. 2°, Do Decreto n° 14.647/1993). Sentença que se confirma pelos seus próprios fundamentos. Precedentes na 1ª Turma Recursal dos Juizados Especiais do Distrito Federal, julgado em 24/4;2012, DJ 3/5/2012, p. 236) e na 3ª. Turma (Acórdão n° 607720, 20110111440626ACJ, Relatora LEILA CURY, 3ª Turma Recursal dos Juizados Especiais do Distrito Federal, julgado em 31/7/2012, DJ 6/8/2012, p. 207).
+    4. Recurso conhecido e não provido. Arcará o recorrente com as custas processuais e os honorários advocatícios, fixados em R$500,00.” (págs. 2/3 do doc. 10).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, e 37, V, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque os dispositivos constitucionais apontados como violados não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+    Ainda que superado o mencionado óbice, melhor sorte não assiste ao recorrente. É que, para divergir do entendimento firmado pelo juízo a quo, necessário seria a análise de normas infraconstitucionais locais (Decreto 14.647/1993 e Lei distrital 2.990/2002), o que atrai a incidência da Súmula 280 do STF. Nesse sentido, registre-se as seguintes decisões proferidas em casos análogos: ARE 767.161/DF e ARE 768.257/DF, ambos de minha relatoria; e ARE 769.251/DF, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 15 de outubro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
