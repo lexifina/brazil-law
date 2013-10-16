@@ -1,0 +1,18 @@
+DECISÃO:
+Ementa: RECLAMAÇÃO. PROCESSO SOBRESTADO COM BASE EM REPERCUSSÃO GERAL. 1. Decisão que determina o sobrestamento de ação cível originária, para aguardar o julgamento de caso sob repercussão geral, aparentemente extrapola a decisão proferida por esta Corte no RE 705.423. 2. Medida liminar deferida.
+    Trata-se de reclamação, com pedido liminar, contra decisão proferida pelo Tribunal de Justiça do Estado do Rio Grande do Norte, que teria violado a autoridade da decisão tomada por este Tribunal no RE 572.762.
+    O reclamante ajuizou ação de competência originária do Tribunal reclamado, em que postula diferenças de repasses de ICMS decorrentes de isenções fiscais concedidas pelo Estado do Rio Grande do Norte, matéria já decidida no RE 572.762, sujeito a regime de repercussão geral.
+    Ocorre que o Tribunal de origem determinou o sobrestamento do feito para aguardar decisão a ser proferida por esta Corte no RE 705.423, com repercussão geral reconhecida recentemente, cujo objeto refere-se a diferenças de repasses da União ao Fundo de Participação dos Municípios, decorrentes de isenções de IR e IPI. Segundo a Corte a quo, o reconhecimento da repercussão geral no RE 705.423 denota que há possibilidade de o STF vir a rever o tema, razão pela qual seria prudente aguardar o julgamento, aplicando-se, por analogia, o art. 543-B do CPC.
+    É o relatório. Decido o pedido liminar.
+    Embora o paradigma invocado pela parte reclamante seja a decisão proferida no RE 572.672, não cabe reclamação por violação ao referido acórdão, em razão da ausência de efeitos vinculantes de tal decisão.
+    Não obstante, a situação narrada nos autos revela, à primeira vista, extrapolação da decisão proferida no RE 705.423, o que também torna cabível a reclamação (art. 17 da Lei nº 8.038/90 e art. 161, III, do RI/STF).
+    O mero reconhecimento da repercussão geral de um determinado tema não autoriza todos os juízes do País a suspenderem todas as ações sobre o assunto no estado em que se encontram, salvo se houver determinação do relator do recurso extraordinário em sentido diverso, com base no art. 328, caput, in fine, do RI/STF, o que não ocorreu no caso.
+    Em linha de princípio, o sobrestamento que decorre do reconhecimento da repercussão geral deve ficar restrito aos recursos extraordinários (CPC, art. 543-B, § 1º), o que pressupõe a efetiva prestação jurisdicional – inclusive de urgência – pela última instância ordinária. Embora não se negue a possibilidade, em tese, de suspender o andamento de um processo desde que haja motivo razoável ou o caso se enquadre em uma das hipóteses legais (e.g., art. 265 do CPC), tal providência deve ser adotada de modo excepcional, sob pena de negativa de acesso à Justiça. O uso indiscriminado desta faculdade, aliado ao amplo espectro de temas submetidos à repercussão geral e ainda não julgados, poderia conduzir a uma virtual paralisia do Poder Judiciário em escala nacional.
+    Por fim, não há indicativo de que o Tribunal pretenda rediscutir no RE 705.423 o julgamento ocorrido no RE 572.672. Colhe-se apenas da manifestação do Min. Ricardo Lewandowski, relator de ambos os recursos, que a matéria do primeiro é mais abrangente que a do segundo.
+    Diante do exposto, defiro o pedido liminar, para sustar os efeitos da decisão ora impugnada e determinar que a autoridade reclamada prossiga no exame da ação proposta na origem pelo reclamante.
+    Solicitem-se informações da autoridade reclamada.
+    Após, remetam-se os autos à Procuradoria-Geral da República.
+    Publique-se.
+          Brasília, 16 de outubro de 2013.
+Ministro LUÍS ROBERTO BARROSO
+Relator
