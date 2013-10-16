@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    "INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - Empréstimo - Apresentação da documentação solicitada e adiantamento de parcelas – Negócio posteriormente recusado - Danos caracterizados – Indenizações devidas - Valores arbitrados conforme os parâmetros desta Corte e entendimento desta Câmara - Fundamentos da r. sentença adotados como razão de decidir, para se evitar desnecessária repetição – Artigo 252 do Regimento Interno do TJSP - Aplicabilidade - Sentença mantida - Recursos improvidos”. ( eDOC 2, p. 78)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XXXV e LV; e 93, IX, do texto constitucional.
+    Nas razões recursais, sustenta-se ofensa aos princípios do devido processo legal, da isonomia, do contraditório, da ampla defesa, do juiz natural, da inafastabilidade da jurisdição, da publicidade dos atos processuais, da motivação das decisões, do duplo grau de jurisdição e da proibição da prova ilícita.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque a orientação sumulada desta Corte é no sentido de que é inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    No caso, verifica-se que o recorrente não demonstrou de que forma o acórdão recorrido teria afrontado a Constituição Federal, cingindo-se apenas a suscitar os princípios constitucionais acima mencionados.
+    Registre-se que é necessária, para a admissão do recurso extraordinário, a demonstração efetiva de ofensa à Constituição Federal, o que não ocorreu no caso dos autos, motivo pelo qual incide, na hipótese, o Enunciado 284 da Súmula do STF. Nesse sentido, cito o seguinte precedente:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULAS STF 284 E 287. 1. Razões do agravo regimental que não atacam o fundamento da decisão impugnada. 2. É imprescindível para a admissão do apelo extremo previsto no art. 102, III, da Constituição Federal que a demonstração de ofensa à norma constitucional seja posta com clareza, o que não foi suficientemente feito pela parte recorrente. Súmulas STF 284 e 287. Precedentes. 3. Recurso Extraordinário interposto com base no art. 102, III, a e c, da Constituição Federal, sem indicação de dispositivos constitucionais na petição do recurso. 4. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos. 5. Agravo regimental a que se nega provimento”. (grifei) (AI-AgR 786.680, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 30.6.2011)
+    Ainda que assim não fosse, a pretensão do recorrente não merece acolhida, uma vez que, para se entender de forma diversa do que estabelecido nas instâncias originárias, faz-se imprescindível a análise dos fatos e provas constantes dos autos, o que não enseja a abertura da via extraordinária, nos termos do Enunciado 279 da Súmula do STF.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 16 de outubro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
