@@ -10,3 +10,10 @@ f) recolher os tributos retidos sobre os rendimentos por elas pagos ou creditado
 g) assegurar a destinação de seu patrimônio a outra instituição que atenda às condições para gozo da imunidade, no caso de incorporação, fusão, cisão ou de encerramento de suas atividades, ou a órgão público;
 h) outros requisitos, estabelecidos em lei específica, relacionados com o funcionamento das entidades a que se refere este artigo.
 § 3º Considera-se entidade sem fins lucrativos a que não apresente superávit em suas contas ou, caso o apresente em determinado exercício, destine referido resultado, integralmente, à manutenção e ao desenvolvimento dos seus objetivos sociais.
+§ 4º A exigência a que se refere a alínea "a" do § 2º não impede:
+I - a remuneração aos diretores não estatutários que tenham vínculo empregatício; e
+II - a remuneração aos dirigentes estatutários, desde que recebam remuneração inferior, em seu valor bruto, a 70% (setenta por cento) do limite estabelecido para a remuneração de servidores do Poder Executivo federal.
+§ 5º A remuneração dos dirigentes estatutários referidos no inciso II do § 4º deverá obedecer às seguintes condições:
+I - nenhum dirigente remunerado poderá ser cônjuge ou parente até 3º (terceiro) grau, inclusive afim, de instituidores, sócios, diretores, conselheiros, benfeitores ou equivalentes da instituição de que trata o caput deste artigo; e
+II - o total pago a título de remuneração para dirigentes, pelo exercício das atribuições estatutárias, deve ser inferior a 5 (cinco) vezes o valor correspondente ao limite individual estabelecido neste parágrafo.
+§ 6º O disposto nos §§ 4º e 5º não impede a remuneração da pessoa do dirigente estatutário ou diretor que, cumulativamente, tenha vínculo estatutário e empregatício, exceto se houver incompatibilidade de jornadas de trabalho.
