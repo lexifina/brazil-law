@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que afastou a cobrança de IPTU de pessoa jurídica sob o fundamento de que foram atendidos os requisitos necessários para reconhecimento da imunidade tributária estabelecida no art. 150, VI, c, da Lei Maior, previstos no art. 14 do CTN. Ressaltou-se, na espécie, que o ato que reconhece a entidade como de fins filantrópicos possui natureza declaratória e retroage à data de criação da instituição.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 150, VI, c, e § 4º, da mesma Carta, ao argumento de que, para o período em que se pretende ver aplicada a imunidade, a contribuinte não teria comprovado o preenchimento de todos os pressupostos legais exigidos, uma vez que os efeitos do reconhecimento desse benefício constitucional deveriam retroagir apenas até o momento em que observados esses requisitos.
+    A pretensão recursal não merece acolhida.
+    Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, quanto ao preenchimento dos requisitos legais necessários ao reconhecimento da imunidade no período em questão, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF, e, ainda, a interpretação da legislação infraconstitucional, o que, eventualmente, ensejaria ofensa reflexa. Incabível, portanto, o recurso extraordinário.
+    Nesse sentido, menciono as seguintes decisões, dentre outras: AI 512.985-AgR/RJ, Rel. Min. Gilmar Mendes; RE 577.241-AgR/SP e AI 673.173-AgR/MG, Rel. Min. Eros Grau; AI 461.817-AgR/MG, Rel. Min. Joaquim Barbosa; RE 423.464-AgR/DF; Rel. Min. Cezar Peluso; AI 523.208-AgR/MT, Rel. Min. Ellen Gracie; RE 492.362-ED/PR e AI 559.488-AgR/DF, Rel. Min. Cármen Lúcia; AI 395.614-AgR/PA, Rel. Min. Ilmar Galvão; AI 466.540-AgR/MG, Rel. Min. Carlos Velloso; AI 706.254-AgR/SP, de minha relatoria
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de outubro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
