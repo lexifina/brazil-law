@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “ADMINISTRATIVO. JUIZ DO TRABALHO. CARGO VAGO. REMOÇÃO A PEDIDO. INTERESSE DA ADMINISTRAÇÃO. AJUDA DE CUSTO. CABIMENTO.
+    1. Não desfigura o interesse administrativo na remoção de magistrado para cargo apontado como vago a existência de pedido do interessado, que deriva da garantia de inamovibilidade.
+    2. O magistrado removido faz jus à ajuda de custo prevista no artigo 65, I, da LOMAN.
+    3. Apelo e remessa oficial improvidos” (fl. 112).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV, LIV e LV, 93, VIII e IX, e 95, II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei Complementar 35/1979 e Lei 8.112/1990). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 802.384/SC e RE 551.940/SC, Rel. Min. Dias Toffoli; RE 754.334/SC e RE 727.109/SC, Rel. Min. Cármen Lúcia; RE 603.092/SC e RE 724.338/MG, Rel. Min. Rosa Weber; AI 715.226/DF e ARE 645.496-ED/SC, Rel. Min. Gilmar Mendes; RE 740.681/SC, Rel. Min. Teori Zavascki; ARE 704.424/CE, Rel. Min. Luiz Fux; RE 725.091/RN e RE 542.717/RJ, de minha relatoria; e AI 392.137-AgR/PA, Rel. Min. Sepúlveda Pertence.
+    Ressalte-se, inclusive, que os Ministros desta Corte, no RE 742.578-RG/MA, de minha relatoria, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca do direito ao pagamento de ajuda de custo na hipótese de remoção a pedido, por não se tratar de matéria constitucional.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 17 de outubro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
