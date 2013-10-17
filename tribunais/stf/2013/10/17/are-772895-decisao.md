@@ -1,0 +1,18 @@
+Trata-se de agravo (doc. 50) contra decisão (doc. 47) que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “AÇÃO RESCISÓRIA. DOLO. VIOLAÇÃO LITERAL A DISPOSIÇÃO DE LEI. ERRO DE FATO. DOCUMENTO NOVO.
+    1 - Ação rescisória não é via recursal, mas ação autônoma de impugnação. Não se presta para corrigir eventual injustiça da decisão rescindenda, e sim para, excepcionalmente, anulá-la ou desconstituí-la.
+    2 - O dolo, como fundamento para a ação rescisória, pressupõe efetiva demonstração de má-fé ou deslealdade processual, consistentes na conduta deliberadamente voltada a impedir a atuação processual da parte contrária ou afastar o juiz da verdade dos fatos.
+    3 - A violação que justifica a rescisão somente ocorre quando o dispositivo legal, que se tem por violado, o foi em sua literalidade, importando em interpretação desarrazoada, inapropriada ou absurda, que tenha desprezado por completo a letra da lei.
+    4 - Erro de fato ocorre quando a sentença admite fato inexistente ou considera inexistente fato efetivamente ocorrido. Decorre de desatenção ou omissão do julgador quanto à prova, não se confundindo com o acerto ou desacerto do julgado na apreciação dessa. E pressupõe a inexistência de controvérsia ou pronunciamento judicial sobre o fato.
+    5 - O documento, para ser considerado novo, exige ignorância do autor quanto à sua existência ou impossibilidade de seu uso. Deve, ademais, ser capaz, por si só, de assegurar ao autor pronunciamento favorável.
+    6 - Ação julgada improcedente” (pág. 2 do doc. 38).
+    No RE (doc. 44), fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LIV, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque a jurisprudência desta Corte firmou-se no sentido de que a discussão acerca dos requisitos de admissibilidade da ação rescisória situa-se no âmbito infraconstitucional, o que inviabiliza o extraordinário. Nesse sentido:
+    “1. RECURSO. Extraordinário. Inadmissibilidade. Ação rescisória. Requisito de admissibilidade. Questão infraconstitucional. Precedentes. Agravo regimental improvido. É infraconstitucional a questão referente a requisitos de admissibilidade de ação rescisória. 2. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte” (AI 853.113-AgR/SP , Rel. Min. Cezar Peluso, Segunda Turma).
+    Ressalte-se, por fim, que o recurso extraordinário interposto em processo de ação rescisória deve impugnar a fundamentação do acórdão nela proferido e não os fundamentos da decisão rescindenda. Inviável, portanto, o recurso extraordinário. Nesse sentido:
+    “Correção monetária de contas do FGTS. Ação rescisória: aplicação da Súmula 343. Recurso extraordinário: descabimento: incidência das Súmulas 282 e 356. 1. Firme a jurisprudência do STF no sentido de que o recurso extraordinário interposto em processo de ação rescisória há de voltar-se contra fundamentação do acórdão nela proferido e não a da decisão rescindenda. No caso, o acórdão recorrido decidiu questão prejudicial de inadmissibilidade da ação rescisória, enquanto o RE fundou-se em violação de dispositivo constitucional atinente só mérito da decisão rescindenda. 2. Agravo regimental: motivação da decisão agravada: necessidade de impugnação” (RE 408.409-AgR/PB, Rel. Min. Sepúlveda Pertence, Primeira Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de outubro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
