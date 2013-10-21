@@ -1,0 +1,21 @@
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO INTEMPESTIVO.
+1. A tempestividade constitui requisito recursal de admissibilidade indispensável, razão pela qual o recorrente deve obedecer aos prazos previstos no Código de Processo Civil.
+2. In casu, o acórdão recorrido originariamente assentou: “RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. PROCESSO PENAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO ANTES DA PUBLICAÇÃO DO ACÓRDÃO. INTIMAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. OFENSA REFLEXA. RECURSO EXTRAORDINÁRIO DEFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DA CORTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DO ENUNCIADO 284 DA SÚMULA DO STF.”
+3. Agravo Regimental NÃO CONHECIDO.
+    Decisão: Trata-se de agravo regimental interposto por VALDIR DA SILVA SOUSA, em face da decisão que prolatei, assim ementada, no que interessa, in verbis:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. PROCESSO PENAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO ANTES DA PUBLICAÇÃO DO ACÓRDÃO. INTIMAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. OFENSA REFLEXA. RECURSO EXTRAORDINÁRIO DEFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DA CORTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DO ENUNCIADO 284 DA SÚMULA DO STF.
+    1. O recurso extraordinário é inadmissível quando a sua fundamentação não impugna especificamente as razões que constam no acórdão recorrido. Inteligência da Súmula 283 do STF, verbis: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.” Precedentes: RE 505.028-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma DJe de 12/09/2008, RE 452.272-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 16/02/2007, AI 489.247-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ 16/02/2007.
+    2. O recurso extraordinário é inadmissível quando suas razões apresentarem-se dissociadas dos fundamentos do acórdão recorrido, pois tal circunstância impede a exata compreensão da lide. Incidência do Enunciado 284, da Súmula do STF, verbis: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    3. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes
+    4. In casu, o acórdão recorrido assim assentou, in verbis: “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENAL E PROCESSUAL PENAL. INTERPOSIÇÃO DO RECURSO ESPECIAL ANTES DA PUBLICAÇÃO DO JULGAMENTO DE AGRAVO REGIMENTAL. NECESSIDADE DE POSTERIOR RATIFICAÇÃO NO PRAZO RECURSAL. SÚMULA N.º 418/STJ. AGRAVO DESPROVIDO.
+    1. O recurso especial interposto antes da publicação do agravo regimental julgado pelo Tribunal a quo deve ser considerado intempestivo, se não há posterior ratificação do apelo no prazo recursal. Na hipótese, adequada a
+    aplicação, por analogia, da Súmula n.º 418 do Superior Tribunal de Justiça, uma vez que contempla, implicitamente, orientação jurisprudencial adotada por esta Corte Superior de Justiça, no sentido de que o recurso especial deve ser interposto no momento certo, nem de forma tardia, nem de forma prematura, sob pena de incorrer em intempestividade. 2. Agravo regimental desprovido.”
+    5. Agravo de instrumento a que se nega seguimento.”
+    Os recorrentes interpuseram agravo regimental contra a decisão monocrática, tendo sido a petição apresentada em 29 de maio de 2013.
+    A decisão agravada foi publicada em 23/05/2013 (quinta-feira). O agravo regimental, no entanto, foi interposto apenas em 29/05/2013 (quarta-feira), por conseguinte, fora do prazo regimental de 5 (cinco) dias (art. 317, caput, RISTF), consoante certidão de fls. 151.
+    Ex positis, NÃO CONHEÇO do recurso.
+    Publique-se.
+    Brasília, 21 de outubro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
