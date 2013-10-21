@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PORTE DE REMESSA E RETORNO. DESERÇÃO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Segunda Turma Recursal Cível do Conselho Recursal dos Juizados Especiais Cíveis e Criminais do Rio de Janeiro manteve sentença por seus próprios fundamentos, nos termos do art. 46 da Lei n. 9.099/1995.
+    Na sentença mantida, o juiz assim decidiu:
+    “Pretende a parte autora a restituição em dobro de valores cobrados a título de tarifas (cadastro, registro de contrato em cartório e emissão de boleto bancário) inseridos em contrato de financiamento celebrado para aquisição de veículo, além da indenização por danos morais. Incontroversas a causa de pedir próxima e remota: a celebração do negócio e a cobrança do (s) valor (es) reclamados pela parte autora. (…). A questão se subsume aos princípios e normas de ordem pública insertas na Lei n. 8.078/90, dentre as quais avulta, no caso vertente, o reconhecimento da vulnerabilidade do consumidor no mercado de consumo (artigo 4º, I). A cobrança das tarifas reclamadas pela parte autora enfeixa verdadeiro repasse ao financiado de encargo inerente à própria atividade financeira do reclamado, inexistindo qualquer serviço autônomo que justifique a cobrança, cuidando-se desse modo, de cobrança indevida e violadora do sistema de proteção do consumidor. (…). Nesta perspectiva, tenho que a ilegalidade na cobrança de tarifas é inequívoca e amplamente reconhecida na jurisprudência, por ofender os princípios fundamentais do sistema jurídico consumerista, notadamente o disposto no artigo 51, IV [do Código de Defesa do Consumidor]” (fl. 38).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência do preparo recursal.
+    4. A Agravante argumenta que “o recurso está corretamente preparado e obedece estritamente os pressupostos de admissibilidade. Denota-se que, não fora acostado aos autos o documento que o douto juiz queria, no entanto, poderia ele ter agido com menos rigor, e em atenção ao princípio da economia processual, ter intimado novamente o agravante para que juntasse então a correta documentação” (fl. 121).
+    No recurso extraordinário, alega-se que a Turma Recursal teria contrariado os incs. II e V do art. 5º da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    As Guias de Recolhimento da União – GRUs de fls. 10-11 não estão autenticadas.
+    A certidão de fl. 114 informa que o recolhimento do preparo recursal além de não estar autenticado apresenta valor inferior àquele exigido.
+    Apesar de afirmar que “não fora acostado aos autos o documento que o douto juiz queria, no entanto, poderia ele ter agido com menos rigor, e em atenção ao princípio da economia processual, ter intimado novamente o agravante para que juntasse então a correta documentação”, nem mesmo com a interposição do presente Agravo em Recurso Extraordinário o Agravante fez juntar o comprovante de recolhimento do preparo no valor correto e autenticado.
+    Assim, conforme observado na decisão agravada, o recurso extraordinário é deserto, pois a Agravante não comprovou o pagamento correto do porte de remessa e retorno no momento da interposição do recurso, nos termos do art. 59 do Regimento Interno do Supremo Tribunal Federal e do art. 511, caput, do Código de Processo Civil. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. DESERÇÃO: AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO DO PREPARO. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. É pacífica a jurisprudência do Supremo Tribunal Federal no sentido de que compete à parte recorrente comprovar o recolhimento do preparo no ato da interposição do recurso. Precedentes. 2. Determinação de baixa imediata dos autos à origem” (AI 754.794 AgR-ED-EDv-ED/PA, de minha relatoria, Plenário, DJ 20.8.2010, grifos nossos).
+    E:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. DESERÇÃO. É inviável o trâmite do recurso extraordinário se foi adotado, quanto ao preparo, procedimento que não se harmoniza com o estabelecido pelo Tribunal. Agravo regimental a que se nega provimento” (AI 719.226-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJ 1º.12.2011, grifos nossos).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, pelo que nada há prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de outubro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
