@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL – DANO MORAL – PROFISSIONAL LIBERAL (PSICÓLOGA) – ELABORAÇÃO DE RELATÓRIO – INEXISTÊNCIA DE NEXO CAUSAL. Ausente a causalidade imediata entre a conduta (elaboração de relatório psicológico) e o alegado dano moral sofrido (suspensão judicial do direito de visitas ao neto), revela-se inviável a pretensão indenizatória dos avós em face da psicóloga”. (eDOC 4, p. 47)
+    Opostos os embargos declaratórios, estes foram rejeitados (eDOC 4, p. 69-74)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação do artigo 5º, II, XXXV, XXXVII, LIII, LIV e LV, do texto constitucional.
+    Aponta-se, em especial, ofensa aos princípios da ampla defesa, do contraditório e do devido processo legal, em razão do indeferimento de realização de perícia-técnica, bem como da ausência de audiência entre as partes e da oitiva de testemunhas.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, com relação à alegada ofensa ao artigo 5º, XXXV, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Verifico que divergir do entendimento adotado pelo Tribunal a quo demandaria o reexame do conjunto fático-probatório dos autos (Enunciado 279 da Súmula do STF), bem como da legislação infraconstitucional aplicável à espécie, providências vedadas em sede extraordinária. Confira-se, a propósito, o seguinte julgado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. INDENIZAÇÃO. DANO MORAL E DANO MATERIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. JUIZADOS ESPECIAIS CÍVEIS. COMPETÊNCIA. MATÉRIA INFRACONSTITUCIONAL. DILIGÊNCIA PROBATÓRIA TIDA POR DESNECESSÁRIA PELO TRIBUNAL DE ORIGEM. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido – ocorrência, na espécie, de dano moral e material indenizável -, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. II - A controvérsia acerca da complexidade da causa para efeito de competência do juizado especial depende do prévio exame de normas infraconstitucionais. III – O indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. Precedentes. IV – Agravo regimental improvido”. (AI 834.144-AgR/ES, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 08.4.2011)
+    No tocante à suposta violação à ampla defesa e ao contraditório, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão.
+    Por fim, ressalto que o Supremo Tribunal Federal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Enunciado 636 da Súmula do STF).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 21 de outubro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
