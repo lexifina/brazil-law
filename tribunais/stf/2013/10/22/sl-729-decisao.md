@@ -1,0 +1,16 @@
+Decisão: Trata-se de pedido de suspensão de liminar formulado pela FUNAPE – Fundação de Aposentadorias e Pensões dos Servidores do Estado de Pernambuco contra acórdão proferido pelo Tribunal de Justiça daquela unidade da Federação no agravo de instrumento 0021132-51.2012.8.17.0000.
+    O acórdão mencionado deu provimento ao recurso interposto por policiais militares inativos contra decisão da 8ª Vara de Fazenda Pública da Comarca de Recife que indeferiu a antecipação da tutela requerida na inicial da ação ordinária 0171909-45.2012.8.17.0001.
+    O acórdão que se pretende suspender reconheceu, portanto, a plausibilidade do direito sustentado naquela demanda, cujo objetivo é assegurar aos autores Gratificação de Risco de Policiamento Ostensivo, vantagem prevista na lei complementar estadual 59/2004.
+    Nesta suspensão de liminar, a FUNAPE sustenta que a matéria possui envergadura constitucional e que, por essa razão, deve ser submetida a este Supremo Tribunal Federal.
+    A FUNAPE também aponta para a multiplicação de demandas de conteúdo análogo à ação ordinária neste pedido, circunstância que lhe autoriza falar na presença de grave lesão à economia pública, consistente na obrigação de pagar a militares inativos gratificação que se destina, segundo lei específica, a servidores em atividade.
+    É o relatório. Decido.
+    O argumento central desta suspensão de liminar reproduz a tese adotada pela FUNAPE em recursos interpostos contra acórdãos do Tribunal de Justiça do Estado de Pernambuco que consagraram o caráter geral da Gratificação de Risco de Policiamento Ostensivo prevista na lei complementar 59/2004 daquela unidade da Federação.
+    Em julgamentos realizados nas Turmas, este Supremo Tribunal Federal concluiu que a questão da natureza da gratificação mencionada pressupõe a análise da legislação estadual e, por essa razão, negou provimento aos recursos interpostos pela FUNAPE, de maneira a preservar a conclusão adotada pelo tribunal de origem. Menciono, nesse sentido, os acórdãos AI 795.765-AgR, rel. min. Cármen Lúcia, Primeira Turma, DJe 03.09.2010; AI 831.281-AgR, rel. min. Ayres Britto, Segunda Turma, DJe 01.06.2011; ARE 666.877-AgR, rel. min. Ricardo Lewandowski, Segunda Turma, DJe 14.05.2012; ARE 686.995-AgR, rel. min. Luiz Fux, Primeira Turma; DJe 13.09.2012; AI 836.453-AgR, rel. min. Rosa Weber, Primeira Turma, DJe 26.04.2013.
+    Considerando que, no mérito, este Supremo Tribunal Federal não proferirá julgamento diverso a respeito da questão jurídica, o deferimento da suspensão resultaria na dilatação, com fundamento exclusivo em conveniência administrativa, do prazo temporal para cumprimento da solução definitiva do processo.
+    Ocorre, entretanto, que não verifico, do contexto fático descrito na inicial, qualquer fundamento ou elemento que deva ser considerado como impeditivo ao cumprimento da liminar, ainda mais quando se leva em consideração que a jurisprudência mencionada acima também é de pleno conhecimento do órgão requerente, sendo impossível a alegação de surpresa ou de impossibilidade de preparação financeira da sua execução.
+    Ante o exposto, indefiro o pedido.
+    Publique-se.
+    Brasília, 22 de outubro de 2013
+Ministro Joaquim Barbosa
+Presidente
+Documento assinado digitalmente
