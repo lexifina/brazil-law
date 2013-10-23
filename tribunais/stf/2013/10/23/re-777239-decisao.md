@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de Minas Gerais. Aparelhado o recurso na afronta aos arts. 5º, caput, e 37, II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental no recurso extraordinário. Administrativo. Servidor público do Estado de Minas Gerais. Necessidade de reexame de norma infraconstitucional local e de matéria de fato. Impossibilidade. Súmulas nºs 279 e 280/STF. 1. O recurso extraordinário não se presta ao reexame dos fatos e provas dos autos e da legislação infraconstitucional local. Incidência das Súmulas nºs 279 e 280/STF. 2. O Supremo fixou entendimento no sentido de que a promoção dentro da mesma carreira não contraria o artigo 37, II, da CF/88. 3. Agravo regimental não provido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil”. (RE 486.681-AgR/MG, Rel. Min. Dias Toffoli, 1ª Turma, DJe 23.11.2010; destaquei.)
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+     Nesse contexto, o entendimento firmado no acórdão recorrido não diverge da jurisprudência firmada no âmbito desta Suprema Corte. Nesse sentido: AI 715.389-AgR/MG, Rel. Min. Cármen Lúcia, 1ª Turma, DJE 08.5.2009; RE 596.617-AgR/MG, Rel. Min. Carlos Britto, 1ª Turma, DJe 29-10-2009; e RE 446.077-AgR/MG, Rel. Min. Carlos Velloso, 2ª Turma, DJ 14.10.2005, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO DO ESTADO DE MINAS GERAIS: LEI 7.109/77. NECESSIDADE DE REEXAME DE NORMA INFRACONSTITUCIONAL LOCAL E DE MATÉRIA DE FATO. IMPOSSIBILIDADE: SÚMULAS 280 E 279/STF. I. - O Tribunal do Estado-membro, interpretando norma local, entendeu que o acesso é uma promoção dentro da mesma carreira, não se tratando de ascensão à carreira diversa daquela para a qual o servidor ingressou no serviço público. A interpretação de normas locais, pelo Tribunal local, é feita de forma soberana (Súmula 280-STF). II. - Hipótese em que a apreciação do recurso extraordinário não prescinde do reexame da prova, o que não é possível. Súmula 279-STF. III. - Agravo não provido.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 23 de outubro de 2013.
+Ministra Rosa Weber
+Relatora
