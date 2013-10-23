@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CORREÇÃO MONETÁRIA. PRESCRIÇÃO: DECRETO N. 20.910/1932. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “EMBARGOS INFRINGENTES. TRIBUTÁRIO. IPI. PRINCÍPIO DA NÃO-CUMULATIVIDADE. PRESCRIÇÃO. DECRETO N. 20.910/32. CORREÇÃO MONETÁRIA. 1. Não sendo o caso de repetição ou compensação de indébito tributário, de forma a ensejar a incidência das regras previstas no CTN, mas de ação diversa contra a União, torna-se aplicável a regra geral do Decreto n. 20.910/32 (prescrição quinquenal), ante a ausência de norma específica, conforme precedente da 1ª Seção desta Corte. 2. O STF vem reiteradamente decidindo que não incide correção monetária sobre créditos escriturais. A situação aqui, porém, é diversa. Trata de corrigir valores que não foram aproveitados porquanto o Fisco não admitia que o fossem quanto à aquisição de insumos tributados empregados na industrialização de produtos isentos, não-tributados ou sujeitos à alíquota zero (até o advento da Lei n. 9.779/99), necessitando o contribuinte de decisão judicial. A correção monetária é devida somente até o trânsito em julgado da sentença, quando as importâncias são devidas somente até o trânsito em julgado da sentença, quando as importâncias são transportadas e lançadas na escrituração, sendo aproveitados nos termos da legislação.3. Embargos infringentes parcialmente providos” (fl. 141).
+    2. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta (fl. 266).
+    3. Os Agravantes afirmam que o Tribunal de origem teria contrariado o art. 153, § 3º, inc. II, da Constituição da República.
+    Sustentam que “o prazo de aproveitamento de créditos de IPI decorrentes da ampla interpretação do art. 153, parágrafo 3º, II, da CRFB/88 deve guardar compatibilidade com o próprio dispositivo constitucional, razão pela qual para que não ocorra a violação a integridade do comando constitucional, deve o mesmo guardar paridade com o prazo aplicado aos tributos por homologação de forma geral pelo Judiciário” (fl. 4).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste aos Agravantes.
+    5. O Tribunal de origem assentou:
+    “No tocante à prescrição, o pedido da Recorrente é no sentido de que seja reconhecido o direito aos créditos relativo aos dez anos que antecederam o ajuizamento da ação. Contudo, tratando-se de ação em que se pleiteia o reconhecimento do direito ao aproveitamento de crédito decorrente da regra constitucional da não-cumulatividade, aplicável o prazo previsto no Decreto n. 20.910/32. Não se trata, no caso, de repetição ou compensação de indébito tributário, de forma a ensejar a incidência das regras previstas no CTN, mas de ação diversa contra a União que, ante a ausência de norma específica, torna aplicável a regra geral do Decreto n. 20.910/32 (prescrição quinquenal)” (fl. 136).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional aplicável à espécie (Decreto n. 20.910/1932). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    Confiram-se:
+    “Tendo a Corte Regional reconhecido a prescrição com fundamento no Decreto 20.910/32, o exame da alegada ofensa constitucional dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal” (AI 850.212-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 25.6.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PRESCRIÇÃO. DECRETO N. 20.910/1932. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 727.220-AgR, de minha relatoria, Segunda Turma, DJe 13.6.2013).
+    Nada há, pois, a prover quanto às alegações dos Agravantes.
+    6. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de outubro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
