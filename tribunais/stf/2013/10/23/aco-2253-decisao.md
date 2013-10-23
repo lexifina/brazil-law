@@ -1,0 +1,20 @@
+DECISÃO:
+    EMENTA: CONFLITO NEGATIVO DE ATRIBUIÇÕES. AUSÊNCIA DE INTERESSE DA UNIÃO. ATRIBUIÇÃO DO MINISTÉRIO PÚBLICO ESTADUAL.
+    1. A vinculação de entidade privada de saúde ao SUS não conduz ao entendimento automático de que haja interesse da União. 2. Havendo manifestação técnica de que o hospital recebe recursos transferidos de fundo estadual/municipal, deve ser fixada a atribuição do Ministério Público estadual para apuração de supostos atos ilícitos.
+    1. Trata-se de conflito negativo de atribuição suscitado pelo Ministério Público Federal, afirmando caber ao Ministério Público do Estado de Pernambuco atuar no Procedimento Administrativo (PA) 1.26.000.001719/2012-48, instaurado para apurar supostas irregularidades na administração do Hospital Tricentenário em Olinda/PE. Segundo a notícia que acompanha a representação, “há favorecimento no pagamento de salários e gratificações a profissionais com relação de amizade com a esposa do diretor do hospital, os quais teriam feito, inclusive, na última eleição, campanha eleitoral dentro do hospital em questão” (fls. 09).
+    2 . A 4ª Promotoria de Justiça de Defesa da Cidadania de Olinda remeteu os autos à Procuradoria da República, por entender que “sendo o Hospital Tricentenário conveniado com o SUS, os profissionais de saúde que exercem as atividades conveniadas são, portanto, equiparados a servidores públicos federais, como já demonstrado, pelo que devem ser investigados pelo MINISTÉRIO PÚBLICO FEDERAL” (fls. 13).
+    3. Por sua vez, a Procuradoria da República em Pernambuco remeteu o feito ao Procurador-Geral da República, por entender não ter atribuição para atuar, pois “O fato do HTRI receber recursos do SUS não legitima, per si, a atuação do Ministério Público Federal. O referido hospital é gerido pelo Município de Olinda e, portanto, os seus funcionários não podem ser equiparados a servidores federais” (fls. 34).
+    4. A Procuradoria-Geral da República requer a instauração do presente conflito e opina pelo reconhecimento da atribuição do Ministério Público do Estado de Pernambuco.
+    Decido
+    5. Tem razão o órgão do Ministério Público Federal.
+    6. Conforme consta do Parecer Técnico elaborado pelo Departamento nacional de Auditoria do SUS (fls. 26/30):
+    “O Hospital Tricentenário é prestador de serviços complementares ao SUS, realizou o seu cadastro no CNES em 10/2001, tendo sua última atualização em 24/08/2012. A sua natureza organizacional é entidade beneficente sem fins lucrativos, pertencendo à esfera administrativa privada e encontra-se sob gestão municipal.
+    …
+    Os recursos referentes aos financiamentos do Bloco de Média e Alta Complexidade/MAC são transferidos aos fundos de saúde (estadual/municipal) para o pagamento dos procedimentos após apuração de sua realização (produção de serviços), pelo gestor da esfera correspondente.”
+    Com efeito, não há qualquer elemento indicativo de interesse da União ou que eventual infração tenha sido praticada em detrimento de bens ou de serviços da União (art. 109, I e IV, da Constituição da República), a ensejar futura fixação da competência da Justiça Federal para julgamento de processos e, por consequência, do Ministério Público Federal para atuar na fase de investigação.
+    7. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que a atribuição do Ministério Público Federal somente deve ser fixada nos casos em que fique demonstrado o interesse da União, de autarquias federais ou de empresas públicas federais, ou em caso de eventual prejuízo a seus bens ou serviços. Nesse sentido, por exemplo, o julgamento da ACO 1058, pelo Pleno, Rel. Min. Cezar Peluso, em 14.04.08, e a decisão proferida pela Min. Cármen Lúcia, em 21.02.13, na ACO 1595.
+    7. Sendo assim, conheço o conflito e fixo a atribuição do Ministério Público do Estado de Pernambuco para atuar no feito.
+    Remetam-se os autos à 4ª Promotoria de Justiça de Defesa da Cidadania de Olinda/PE, após vista da Procuradoria-Geral da República. Publique-se.
+Brasília, 23 de outubro de 2013.
+Ministro LUÍS ROBERTO BARROSO
+Relator
