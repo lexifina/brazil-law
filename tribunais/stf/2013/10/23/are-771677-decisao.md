@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “CONSTITUCIONAL, PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO. EXCLUSÃO DO FATOR PREVIDENCIÁRIO. LEI 8.213/91, ARTS. 29, I E § 7º. LEI 9.876/99. AUSÊNCIA DA ALEGADA INCONSTITUCIONALIDADE. RECURSO IMPROVIDO. SENTENÇA MANTIDA” (fl. 78 – grifos no original).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 201, § 1º, § 3º e § 7º, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque quando do julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade 2.111/DF, Rel. Min. Sydney Sanches, este Supremo Tribunal assentou a constitucionalidade do fator previdenciário e afirmou a ausência de ofensa constitucional nas alterações promovidas pela Lei n. 9.876/1999 ao art. 29, da Lei 8.213/1991. Desse entendimento não divergiu o Tribunal de origem.
+    Por oportuno, com o mesmo entendimento, trago à colação recentes julgados proferidos por esta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. ART. 5º, I, DA CF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. FATOR PREVIDENCIÁRIO. CONSTITUCIONALIDADE. ADI 2.111-MC/DF. AGRAVO IMPROVIDO. I - Ausência de prequestionamento do art. 5º, I, da Constituição Federal. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. II - O Plenário desta Corte, no julgamento da ADI 2.111-MC/DF, Rel. Min. Sydney Sanches, entendeu constitucional o fator previdenciário previsto no art. 29, caput, incisos e parágrafos, da Lei 8.213/1991, com redação dada pelo art. 2º da Lei 9.876/1999. III - Agravo regimental improvido”(ARE 648.195 -AgR/RJ, de minha relatoria, Segunda Turma).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL INICIAL. APOSENTADORIA PROPORCIONAL. FATOR PREVIDENCIÁRIO. ART. 29, INCISOS E PARÁGRAFOS, DA LEI N. 8.213/1991, COM ALTERAÇÃO DA LEI N. 9.876/1999: CONSTITUCIONALIDADE. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 689.017-ED/RS, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 23 de outubro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
