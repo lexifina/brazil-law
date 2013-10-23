@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado por Maria Joana Roma Franco em favor de Maycon de Souza Belchior, apontando como autoridade coatora o Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça, que julgou prejudicado o HC nº 274.981/SP.
+    Sustenta a impetrante, em linhas gerais, o constrangimento ilegal imposto ao paciente, tendo em vista a ausência de fundamentação justificadora da custódia preventiva.
+    Assevera, ainda, o excesso de prazo na formação da culpa.
+    Requer, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva do paciente.
+    Examinados os autos, decido.
+    Há óbice jurídico-processual para o conhecimento do habeas corpus, uma vez que a inicial não está assinada pela impetrante.
+    Ocorre que a petição de habeas corpus deverá conter: 1) o nome de quem sofre ou está ameaçado de sofrer violência ou coação e o de quem exerce a violência, coação ou ameaça; 2) a declaração da espécie de constrangimento, ou, em caso de simples ameaça de coação, as razões em que funda o seu temor; 3) a assinatura do impetrante, ou de alguém a seu rogo, quando não souber ou não puder escrever, e a designação das respectivas residências. É o que dispõe o art. 654, § 1º, do Código de Processo Penal, reproduzido nos incisos do art. 190 do RISTF.
+    Destarte, o feito é considerado inexistente. Sobre o tema, destaco precedentes:
+    “DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PETIÇÃO INICIAL SEM ASSINATURA. DECISÃO MONOCRÁTICA DO RELATOR. SUPERAÇÃO DAS ALEGAÇÕES. LIBERDADE PROVISÓRIA NO CRIME DE TRÁFICO DE ENTORPECENTES. IMPOSSIBILIDADE. NÃO CONHECIMENTO. 1. Há obstáculos intransponíveis ao conhecimento do habeas corpus: a) a ausência de assinatura da impetrante na petição inicial deste writ, a caracterizar ato inexistente; b) a orientação contida na Súmula n° 691, do STF, eis que se trata de impetração de habeas corpus contra decisão monocrática que indeferiu pedido de liminar requerida em outro writ anteriormente aforado perante o STJ. 2. Ainda que se admita a impetração do habeas corpus pelo próprio paciente e por pessoa que não possua capacidade postulatória em juízo, no caso concreto não se observa a assinatura da impetrante na petição inicial, a caracterizar ato inexistente e, por isso, insuscetível de propiciar qualquer apreciação acerca do mérito. 3. Houve mera decisão monocrática do relator do STJ no sentido do indeferimento do pedido de liminar, incidindo o óbice representado pela orientação acolhida na Súmula 691, desta Corte. 4. Esta Corte tem adotado orientação segundo a qual há proibição legal para a concessão da liberdade provisória em favor dos sujeitos ativos do crime de tráfico ilícito de drogas (art. 44, da Lei n 11.343/06), o que, por si só, é fundamento para o indeferimento do requerimento de liberdade provisória. 5. HC não conhecido” (HC nº 90.937/GO, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 26/9/08);
+    “DIREITO PROCESSUAL PENAL. ‘HABEAS CORPUS’. FALTA DE ASSINATURA. INEPCIA DO PEDIDO. 1. Não estando assinada pelo Impetrante e Paciente a petição inicial, mas, sim, apenas por terceiros, que não são impetrantes e não assinam a rogo daquele (pois não há informação sobre tratar-se de analfabeto); não oferecendo a impetração condições para uma perfeita compreensão do pleito; e podendo eventual indeferimento, por ma compreensão, causar-lhe prejuízo maior, opta-se pelo não conhecimento do pedido, com ressalva de sua adequada renovação. 2. ‘H.C.’ não conhecido” (HC nº 73.748/MG, Primeira Turma, Relator o Ministro Sydney Sanches, DJ de 17/5/96).
+    Ainda, que assim não fosse, registro que a impetração não está acompanhada de nenhum documento para comprovar o quanto alegado na inicial, o que inviabiliza a análise de eventual situação de flagrante ilegalidade.
+    Ante o exposto, não conheço do presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Comunique-se a impetrante o inteiro teor desta decisão.
+    Publique-se.
+    Brasília, 23 de outubro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
