@@ -1,0 +1,7 @@
+Despacho: Em relação ao que postulado às fls. 1.361-1.362, cumpre esclarecer que o acordo firmado nos autos teve como um dos seus propósitos nucleares viabilizar a cessação do vínculo laboral de inúmeros trabalhadores terceirizados de FURNAS por intermédio de incentivos capazes de incrementar o interesse por uma adesão ao desligamento. Sendo assim, a pretensão de inclusão do incentivo referente à manutenção do plano de saúde até 2018 aos que se desligarem até dezembro de 2013 é medida legítima e plenamente consentânea com os propósitos do acordo firmado nos autos, porquanto preserva a dignidade dos trabalhadores que aderirem ao desligamento do vínculo, em particular porque muitos se encontram em idade avançada, bem como propicia um incremento no número das aludidas adesões, o que amplia sobremaneira a eficácia do pacto.
+    No que tange à petição acostada aos autos e datada de 09 de outubro de 2013, dê-se vista a FURNAS para que, diante das razões nela apresentadas e dos documentos acostados, informe, no prazo de 15 (quinze) dias, se, ainda, existem obstáculos à reintegração dos trabalhadores que foram desligados e que estão arrolados às fls. 1.196-1.197, devendo FURNAS desfazer o referido desligamento, caso não estejam presentes razões para a sua manutenção, mormente porquanto os referidos trabalhadores teriam sido, ao que tudo indica, abrangidos pelo acordo firmado nos autos.
+    Publique-se.
+    Brasília, 23 de outubro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
