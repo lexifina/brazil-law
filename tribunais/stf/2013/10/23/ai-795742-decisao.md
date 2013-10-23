@@ -1,0 +1,29 @@
+DECISÃO
+    Vistos.
+    Município do Rio de Janeiro interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso XXXVI, e 93, inciso IX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Nona Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “MANDADO DE SEGURANÇA. TAXISTAS AUXILIARES. LEI 3123/2000. TRANSFORMAÇÃO EM PERMISSIONÁRIO. ARTIGO 1º DAQUELE DIPLOMA LEGAL NÃO REVOGADO PELA LEI 4000/2005. SUSTENTAÇÃO DA ILEGITIMIDADE PASSIVA; DA DECADÊNCIA E DA AUSÊNCIA DE DIREITO LÍQUIDO E CERTO ANTE A REVOGAÇÃO DO ART. 4º DA LEI 3123/2000 PELA LEI 4000/2005. CONSTITUCIONALIDADE A AUTO APLICABILIDADE DO DIPLOMA LEGAL. EXISTÊNCIA DO DIREITO LÍQUIDO E CERTO. PRECEDENTES DO COLENDO S.T.J.. CONCESSÃO DA ORDEM” (fl. 45).
+    Opostos embargos de declaração (fls. 58 a 69), foram rejeitados (fls. 66 a 68).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, ressalte-se que o acórdão recorrido está em conformidade com a orientação jurisprudencial desta Suprema Corte que, no julgamento do RE nº 359.444/RJ, Tribunal Pleno, Redator para o acórdão o Ministro Marco Aurélio (DJ de 28/5/04), reconheceu a constitucionalidade do art. 1º da Lei nº 3.123/00.
+    Especificamente sobre o tema em questão, transcrevo o seguinte trecho da fundamentação da decisão proferida pelo Ministro Gilmar Mendes, em caso idêntico ao presente, nos autos do RE nº 721.942/RJ (DJe de 13/12/12), que bem aborda a questão:
+    “(...)
+    Quanto ao mérito, o Tribunal de origem adotou os seguintes fundamentos para o deslinde da controvérsia ora suscitada:
+    ‘Não merece prosperar a interpretação que a Municipalidade pretende dar ao caso, ao entender que também devem ser preenchidos os requisitos do artigo 4º da Lei 3123/00, pois, em se tratando de transformação dos motoristas auxiliares em permissionários, é de ser aplicado o § 1º, do artigo 1º, da Lei 3123/00, tendo em vista a ratio essendi da norma em reconhecer a situação jurídica dos motoristas já cadastrados evitando-se, assim, a exploração de seu trabalho pelos detentores de autonomia.
+    (…)
+    Destarte, pelo teor dos documentos de folhas 14, 30 e 37, verifica-se que os autores Francisco de Assis de Mesquita, Marcos Paulo Abreu Oliveira e Marcos Antônio Alves Martins preenchem os requisitos previstos em lei’. (fls. 270-271-273)
+    Assim, verifico que a interpretação adotada encontra consonância com a jurisprudência desta Corte que, no julgamento do RE 359.444, Relator Min. Carlos Velloso (e Redator para Acórdão o Min. Marco Aurélio de Mello,), Tribunal Pleno, DJ 28.5.2004, manifestou-se pela constitucionalidade da Lei 3.123/2000, do Município do Rio de Janeiro, tendo em vista o princípio da dignidade da pessoa humana.
+    Eis a ementa do referido julgado:
+    ‘ADMINISTRAÇÃO PÚBLICA – PRÁTICA DE ATOS – REGÊNCIA. A Administração Pública submete-se, nos atos praticados, e pouco importando a natureza destes, ao princípio da legalidade. TAXISTA – AUTONOMIA – DIARISTA – DIGNIDADE DA PESSOA HUMANA – TRANSFORMAÇÃO – LEI MUNICIPAL DO RIO DE JANEIRO Nº 3.123/2000 – CONSTITUCIONALIDADE. Sendo fundamento da República Federativa do Brasil a dignidade da pessoa humana, o exame da constitucionalidade de ato normativo faz-se considerada a impossibilidade de o Diploma Maior permitir a exploração do homem pelo homem. O credenciamento de profissionais do volante para atuar na praça implica ato do administrador que atende às exigências próprias à permissão e que objetiva, em verdadeiro saneamento social, o endosso de lei viabilizadora da transformação, balizada no tempo, de taxistas auxiliares em permissionários’.
+    Ademais, para dissentir do acórdão recorrido, e consignar que os recorridos não preenchem os requisitos previstos na Lei 3.123/2000, far-se-ia imprescindível o reexame dos fatos e provas analisados, o que inviabiliza o prosseguimento do recurso extraordinário, a teor do Enunciado 279/STF”.
+    Nesse mesmo sentido, anotem-se as seguintes decisões monocráticas: AI nº 795.745/RJ, Relatora a Ministra Rosa Weber, DJe de 8/4/13, e RE nº 564.000/RJ, Relator o Ministro Marco Aurélio, DJe de 28/11/08.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 23 de outubro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
