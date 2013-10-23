@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita, no que importa:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PRESO POLÍTICO DURANTE O REGIME MILITAR.
+    RESPONSABILIDADE OBJETIVA DO ESTADO. ATO COMISSIVO DE SEUS AGENTES. Cediço que a responsabilidade da administração pública, em se tratando de ato comissivo imputado aos seus agentes, é objetiva, bastando à vítima a comprovação do evento lesivo e do nexo etiológico entre este e a conduta do agente estatal, independentemente de culpa, nos termos do art. 37, § 6º, da CF.
+    PERSEGUIÇÃO, PRISÃO E MAUS TRATOS. DEVER DE INDENIZAR. CONFIGURAÇÃO.
+    (...)” (fl. 118-118v – grifos no original).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37 da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque para divergir do entendimento proferido pelo Juízo de origem no concernente ao dever de indenizar, necessário seria o reexame do conjunto fático probatório constante dos autos, o que inviabiliza o extraordinário a teor da Súmula 279 do STF. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E PENAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACÓRDÃO RECORRIDO COM DUPLO FUNDAMENTO – LEGAL E CONSTITUCIONAL. SÚMULA N. 283/STF. RESPONSABILIDADE CIVIL DO ESTADO. ATO ILÍCITO PRATICADO POR AGENTES PÚBLICOS. PRISÃO ILEGAL. ART. 302 DO CPP. MATÉRIA FÁTICA. SÚMULA N. 279/STF. 1. Acórdão impugnado mediante recurso extraordinário consta duplo fundamento - legal e constitucional - e a não-interposição do recurso especial tornou definitivo o fundamento infraconstitucional que amparou o acórdão recorrido (Súmula n. 283/STF). 2. Súmula n. 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. 3. Precedentes: RE 539.915-AgR, Rel. Min. CÁRMEN LÚCIA, 1ª Turma, DJ 5.2.2009; RE 596.414-AgR, Rel. Min. EROS GRAU, 2ª Turma, DJ 24.4.2009; RE 524863-AgR, Rel. Min. MARCO AURÉLIO, 1ª Turma, DJ 7.11.2008. 4. Súmula n. 279/STF dispõe verbis: 'Para simples reexame de prova não cabe recurso extraordinário'. 5. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 6. Agravo regimental a que se nega provimento” (AI 804.596-AgR, Rel. Min. Luiz Fux, Primeira Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 23 de outubro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
