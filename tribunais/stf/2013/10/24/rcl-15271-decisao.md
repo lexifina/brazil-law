@@ -1,0 +1,12 @@
+Decisão:
+    Ementa: RECLAMAÇÃO. ATO SEM CONTEÚDO DECISÓRIO. DESCABIMENTO. 1. A reclamação só é cabível quando se alegue que uma “decisão” deste Tribunal tenha sido descumprida. 2. O despacho de Ministro desta Corte, que determina a devolução de feito à origem para aplicação do art. 543-B do CPC, não tem conteúdo decisório. 3. Reclamação a que se nega seguimento.
+    Trata-se de reclamação, com pedido de medida liminar, proposta contra a alegada omissão da autoridade reclamada em dar cumprimento a uma decisão do Ministro Joaquim Barbosa, proferida no RE 414.502/MT.
+    Em síntese, alega o reclamante que impetrou mandado de segurança contra ato que o afastou de concurso público promovido pela Polícia Civil do Estado de Mato Grosso. A ordem teria sido denegada em primeira instância, mas concedida pelo Tribunal de Justiça, motivando a interposição de recurso extraordinário pelo Estado. Nesse feito, considerando que a repercussão geral da matéria já havia sido afirmada pelo Supremo Tribunal Federal, o Ministro Joaquim Barbosa determinou a devolução dos autos à origem para aplicação do art. 543-B do CPC. Segundo o reclamante, a baixa ocorreu, mas “mesmo tendo sido transcorrido mais de três anos daquela decisão desta Corte, até esta data absolutamente nada foi determinado para que ela seja cumprida.”
+    É o relatório. Decido.
+    Dispenso as informações e a oitiva da Procuradoria-Geral da República (RI/STF, art. 52, § 2º), porque a matéria versada, além de exclusivamente jurídica, é iterativa neste Tribunal.
+    O pronunciamento que se alega ter sido violado apenas determinou a baixa dos autos à origem para que se aplicasse o procedimento previsto no art. 543-B do CPC. Segundo a jurisprudência desta Corte, “[a] decisão monocrática que submete o recurso extraordinário ao regime da repercussão geral e remete o feito à origem por aplicação do artigo 543-B do CPC não tem cunho decisório e, portanto, é irrecorrível” (RE 629.675 AgR/SP, Rel. Min. Luiz Fux). No mesmo sentido: AI 816.099 ED-ED/MG, Rel. Min. Ricardo Lewandowski; AI 584.400 AgR-ED-ED/RJ, Rel. Min. Ellen Gracie; RE 635.086 AgR/MT, Rel. Min. Celso de Mello. Dessa forma, não havendo uma decisão a ser cumprida, mas simples despacho, sem conteúdo decisório, é incabível a reclamação.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/90 e no art. 161, parágrafo único, do RI/STF, nego seguimento à reclamação. Fica prejudicado o pedido de medida liminar.
+    Publique-se.
+          Brasília, 24 de outubro de 2013.
+Ministro Luís Roberto Barroso
+Relator
