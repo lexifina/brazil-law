@@ -1,0 +1,13 @@
+Decisão:
+    Ementa: ALEGADA OMISSÃO DO EXECUTIVO. PROJETO DE LEI ORÇAMENTÁRIA PARA O EXERCÍCIO DE 2012. PERDA DE OBJETO. 1. Ação em que se pede a declaração de suposta omissão inválida do Executivo em incorporar a proposta do MPF no projeto de lei orçamentária de 2012 (PL nº 28/2011), determinando-se a apresentação de emenda modificativa ao projeto, e o exame e a aprovação, pelo Congresso, da proposta do MPF. 2. Aprovado e sancionado o PL nº 28/2011, concluiu-se o processo legislativo, não havendo utilidade no prosseguimento da ação. 3. Processo extinto sem exame de mérito.
+    Trata-se de ação direta de inconstitucionalidade por omissão, proposta para impugnar alegada omissão da Exma. Sra. Presidenta da República, que não teria incorporado devidamente a proposta enviada pelo Ministério Público Federal ao projeto de lei orçamentária anual de 2012 (PL nº 28/2011). Em síntese, pede a requerente:
+    “c) o julgamento de procedência dos pedidos para com base na violação aos artigos 127, § § 2° e 3°; 84, XXIII; 165, III, § § 5° e 6°; 166, § 2°, da Constituição da República:
+    c.1) declarar a inconstitucionalidade por omissão da Presidência da República, em decorrência da ausência, no PL n°. 28/2011-CN e no Anexo V, da proposta orçamentária original do Ministério Público Federal, para o exercício de 2012, contendo os recursos para o Projeto de Lei n°. 6.697/2009;
+    c.2) determinar à Presidência da República que apresente emenda modificativa ao Anexo V do PL n°. 28/2011-CN (PLOA 2012), contendo o orçamento original elaborado e encaminhado pelo Ministério Público em sua integralidade, para o exercício de 2012, com a inclusão dos recursos necessários para a 22 implementação financeira do Projeto de Lei n°. 6.697/2009;
+    c.3) determinar ao Congresso Nacional que – na análise do PL n. 28/2011-CN – considere e aprove o orçamento do Ministério Público e de seus respectivos Ramos na formatação original encaminhada à Presidência da República, com a inclusão dos recursos necessários para a implementação do Projeto de Lei n°. 6.697/2009;”
+    O PL nº 28/2011 já foi aprovado e sancionado, transformando-se na Lei nº 12.595/2012. Esse fato torna prejudicados os pedidos formulados na presente ação , uma vez que as providências requeridas só poderiam ser atendidas no curso do processo legislativo, e este já se encerrou.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/90 e no art. 21, § 1º, do RI/STF, julgo prejudicados os pedidos, extinguindo o processo sem exame de mérito (CPC, art. 267, VI).
+    Publique-se.
+          Brasília, 24 de outubro de 2013.
+Ministro Luís Roberto Barroso
+Relator
