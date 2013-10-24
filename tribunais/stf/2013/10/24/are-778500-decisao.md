@@ -1,0 +1,23 @@
+Trata-se de recurso extraordinário com agravo interposto contra acórdão proferido pelo Tribunal de Justiça Militar do Estado de Minas Gerais que negou provimento à apelação interposta pelo recorrente.
+    No recurso extraordinário, fundamentado no art. 102, III, a e c, da Constituição Federal, alega-se violação ao disposto no art. 5º, XII, da Constituição Federal.
+    Consta dos autos que o recorrente, policial militar, foi denunciado por infração aos arts. 308, § 1º (corrupção passiva), por duas vezes, e 326 (violação de sigilo funcional), por cinco vezes, ambos do Código Penal Militar.
+    O Conselho Permanente de Justiça da Primeira Auditoria Militar condenou o acusado pela prática do crime previsto no art. 326, por quatro vezes, impondo-lhe pena de 1 (um) ano de detenção, aumentando-a da metade em relação à continuidade delitiva. A pena definitiva restou estabelecida em 1 (um) ano e 6 (seis) meses de detenção, com direito a sursis. O recorrente foi absolvido da imputação do crime de corrupção passiva e de uma das infrações do art. 326 (violação do sigilo funcional) do CPM.
+    O Ministério Público Militar e a defesa interpuseram recursos de apelação, que não foram providos pelo Tribunal a quo. A ementa do acórdão tem o seguinte teor:
+    “Apelação Ministerial. Pedido de condenação pela prática do delito de corrupção passiva. Conjunto probatório insuficiente para uma convicção da prática do delito. Absolvição mantida.
+    Apelação da defesa. Preliminar. Alegação de nulidade da prova de interceptação telefônica. Inocorrência. Medida cautelar autorizada a partir de suspeita de ocorrência de crimes, um punido com reclusão e outro com detenção. Mérito. Policial escalado no dia da operação policial contra casas de jogos irregulares ('Bingo'), ciente da atuação da PMMG, revela, previamente, a pessoas ligadas àquela atividade ilícita, a existência da operação. Violação de sigilo funcional (art. 326 do CPM). Configuração. Condenação mantida. Recursos improvidos”.
+    As razões do recurso extraordinário voltam-se contra o referido acórdão. O recorrente sustenta a ilicitude da prova produzida mediante interceptação telefônica, ainda que autorizada judicialmente, uma vez que investigação foi instaurada para apuração de suposta prática de crime punível com pena de detenção, situação que se mostra incabível em face da Lei 9.296/96, que regulamentou o inc. XII do art. 5º da Constituição Federal.
+    É o relatório. Decido.
+    Bem examinados os autos, verifico não assistir razão ao recorrente, consoante revela a leitura do que se contém no voto condutor do julgamento da apelação, in verbis:
+    “Na origem, a prova não possui qualquer mácula ou eiva, uma vez que o procedimento cautelar preparatório de interceptação telefônica foi instaurado a partir de suspeitas de cometimento de crime de corrupção passiva (art. 308 do CPM) e de Violação de Sigilo Profissional (art. 326 do CPM), sendo que aos primeiro delito é prevista uma pena mínima de 2 (dois) anos de reclusão, satisfazendo, portanto, o requisito legal para a sua validade” (fl. 567v).
+    O entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte:
+    “Agravo regimental em agravo de instrumento. Interceptação telefônica licitamente conduzida. Encontro fortuito de prova da prática de crime punido com detenção. Legitimidade do uso como justa causa para oferecimento de denúncia. Agravo regimental desprovido.
+    1. O Supremo Tribunal Federal, com intérprete maior da Constituição da República, considerou compatível com o art. 5º, XII e LVI, o uso de prova obtida fortuitamente através de interceptação telefônica licitamente conduzida, ainda que o crime descoberto, conexo ao que foi objeto da interceptação, seja punido com detenção.
+    2. Agravo Regimental desprovido”.
+    (AI 626.214-AgR/MG, Rel. Min. Joaquim Barbosa)
+    “Uma vez realizada a interceptação telefônica de forma fundamentada, legal e legítima, as informações e provas coletadas dessa diligência podem subsidiar denúncia com base em crimes puníveis com pena de detenção, desde que conexos aos primeiros tipos penais que justificaram a interceptação. Do contrário, a interpretação do art. 2º, III, da L. 9.296/96 levaria ao absurdo de concluir pela impossibilidade de interceptação para investigar crimes apenados com reclusão quando forem estes conexos com crimes punidos com detenção. Habeas corpus indeferido”.
+    (HC 83.515, Rel. Min. Nelson Jobim).
+    Isso posto, com base no art. 21, § 1º, do RISTF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de outubro de 2013.
+Ministro Ricardo Lewandowski
+- Relator -
