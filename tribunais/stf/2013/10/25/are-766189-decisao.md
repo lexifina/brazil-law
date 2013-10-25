@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE DE ENSINO ESPECIAL – GATE. REQUISITOS. IMPLEMENTAÇÃO. INTERPRETAÇÃO DE NORMA DE CARÁTER INRACONSTITUCIONAL. OFENSA REFLEXA.
+1. A Gratificação de Atividade de Ensino Especial – GATE, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie, o que encontra óbice na Súmula 280/STF. Precedente: AI 805.729-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 25/6/2013.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assim assentou, in verbis: “GRATIFICAÇÃO DE ENSINO ESPECIAL – GATE – LEI DISTRITAL 540/93 – ALTERAÇÃO PELA LEI 4.075/07 – GAEE – INCIDENTE DE CONSTITUCIONALIDADE – INCONSTITUCIONALIDADE DECLARADA – INOBSERVÂNCIA DA LEI ORGÂNICA DO DISTRITO FEDERAL E DA CONSTITUIÇÃO FEDERAL – SENTENÇA MANTIDA.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por DISTRITO FEDERAL, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão que assim consignou:
+    “GRATIFICAÇÃO DE ENSINO ESPECIAL – GATE – LEI DISTRITAL 540/93 – ALTERAÇÃO PELA LEI 4.075/07 – GAEE – INCIDENTE DE CONSTITUCIONALIDADE – INCONSTITUCIONALIDADE DECLARADA – INOBSERVÂNCIA DA LEI ORGÂNICA DO DISTRITO FEDERAL E DA CONSTITUIÇÃO FEDERAL – SENTENÇA MANTIDA.”
+    Foram opostos embargos de declaração, os quais restaram rejeitados.
+    Nas razões do apelo extremo, a recorrente sustenta a preliminar de repercussão geral e, no mérito, alega violação dos artigos 2º, 5º, I, LIV, 37, caput, 39, § 1º, I e III, 61, § 1º, “a” e “c” c/c 25 e 97, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo sob fundamento de que houve ausência de prequestionamento das matéria constitucional arguida como ofendida, bem como pelo fato da questão de fundo versar sobre sobre norma de caráter local e, ainda, que não houve declaração de inconstitucionalidade do dispositivo infraconstitucional.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    A controvérsia posta nos autos trata-se de direito a percepção da Gratificação de Atividade de Ensino Especial , instituída pela Lei Distrital nº 540/93 e Lei n.º 4.075/07.
+    Insta salientar que, a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário, diante do teor da súmula STF nº 280.
+    Verifica-se, in casu, que a controvérsia foi dirimida na origem com amparo na interpretação da legislação infraconstitucional aplicável à espécie.
+    A Gratificação de Atividade de Ensino Especial – GATE, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie, o que encontra óbice na Súmula 280/STF. Nesse sentido, AI 828.671, Rel. Min. Ayres Britto, DJe 9/12/2010, AI 733.948-AgR, Rel. Min. Marco Aurélio, DJe 18/6/2009, e AI 805.729-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 25/6/2013, que possui a seguinte ementa:
+    EMENTA DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO POR DESEMPENHO DE ATIVIDADE EM EDUCAÇÃO ESPECIAL. DIREITO PREVISTO NA LEGISLAÇÃO ESTADUAL. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA 280/STF. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 15.10.2009. O exame da alegada ofensa aos dispositivos constitucionais indicados dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Tendo a Corte Regional dirimido a lide com espeque em interpretação de legislação local, incide, na espécie, o óbice da Súmula 280/STF: ‘por ofensa a direito local não cabe recurso extraordinário’. Agravo regimental conhecido e não provido.”
+     Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 25 de outubro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
