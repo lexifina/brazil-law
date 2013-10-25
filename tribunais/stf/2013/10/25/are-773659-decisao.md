@@ -1,0 +1,35 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região ementado nos seguintes termos:
+    “PREVIDENCIÁRIO. AGRAVO LEGAL. BENEFÍCIO ASSISTENCIAL. PREENCHIDOS OS REQUISITOS LEGAIS. DECISÃO FUNDAMENTADA. TERMO INICIAL MANTIDA NA DATA DA CITAÇÃO.
+    I – É pacífico o entendimento nesta E. Corte, segundo o qual não cabe alterar decisões proferidas pelo relator, desde que bem fundamentadas e quando não se verificar qualquer ilegalidade ou abuso de poder que possa gerar dano irreparável ou de difícil reparação.
+    II – Preenchidos os requisitos necessários para concessão do benefício assistencial, à luz do inciso V, do art. 203 da Constituição Federal, c.c. o art. 20 da Lei n. 8.742/93, quais sejam: 1) ser pessoa portadora de deficiência que a incapacite para o trabalho, ou idoso com 65 (sessenta e cinco) anos ou mais, conforme o artigo 34, do Estatuto do Idoso (Lei n. 10.471/2003) e 2) não possuir meios de subsistência próprios ou de seus familiares, cuja renda mensal per capita deve ser inferior a ¼ do salário mínimo.
+    III – Demanda proposta em 16.09.2005, quando o autor possuía 25 anos (nascido: 14.02.1980).
+    IV – Documentos indicam tratar-se de pessoa não alfabetizada. Termo de compromisso de curador provisório e perícia médica, datada de 08.08.2005, extraída dos autos de interdição, concluído que o autor está incapacitado permanentemente para gerir os atos da vida civil, bem como para exercer atividade laborativa. Declaração da APAE apontando que frequentou a instituição de 1994 a 2000.
+    V – Perícia médica, datada de 30.01.2007, conclui que o periciado é portador de retardo mental leve a moderado e não encontra-se incapacitado para o trabalho, eis que pode laborar em ambiente protegido com treinamento de habilidades básicas.
+    VI – Incapacidade demonstrada. Decisão enfatiza meu entendimento, de que pessoa portadora de deficiência é aquela que está incapacitada para a vida independente e para o trabalho, em razão dos males que a cometem, como é o caso dos autos. O rol previsto no artigo 4º, do Decreto n. 3.298 não é exaustivo.
+    VII – Vigora no processo civil brasileiro o princípio do livre convencimento motivado: de acordo com o artigo 131 do CPC, o magistrado apreciará livremente a prova, indicando na sentença os motivos que lhe formaram o convencimento.
+    VIII – O artigo 436 do CPC estabelece que o juiz não está adstrito ao laudo pericial, podendo formar sua convicção com outros elementos ou fatos provados nos autos.
+    IX – Diante dos elementos dos autos deve-se ter sua incapacidade como total e permanente para o trabalho.
+    X – Termo inicial mantido na data da citação (08.03.2004), momento que a Autarquia tomou ciência da pretensão da autora, conforme entendimento firmado por esta E. Turma.
+    XI – O benefício requerido nesta demanda é diverso dos previdenciários de natureza contributiva, tais como auxílio-doença e aposentadoria por invalidez, em que a jurisprudência unificou entendimento de que o termo inicial deve ser fixado na data do laudo que constate a enfermidade. Cuida-se de prestação de natureza assistencial, em que o estudo social e laudo atestam situação já existente de deficiência e penúria, que deve ser amparada.
+    IX – [sic] Agravo não provido”. (eDOC 1, p. 159)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 97 e 203, inciso V, do texto constitucional.
+    Alega-se, em síntese, que o agravado não “provou sua condição de incapaz para o trabalho e para a vida independente, não preencheu todos os requisitos legais exigidos, especialmente aquele contido [sic] nos § 1º e 6º do artigo 20, da Lei n. 8.742/93”(eDOC 1, p. 167).
+    Sustenta-se, também, que a “Lei n. 8.742/93, ao regulamentar o artigo 203, inciso V, da Constituição Federal, não altera a definição de deficiente, pois deficiência é a incapacidade para a vida independente e para o trabalho, o que pode ser entendido como incapacidade total e permanente” (eDOC 1, p. 167), razão pela qual o acórdão recorrido teria violado o art. 203, V, da CF, ao deferir – segundo afirma – benefício assistencial a pessoa cuja incapacidade é parcial e temporária.
+    Decido.
+    A irresignação não merece prosperar.
+    Isso porque a controvérsia foi decidida pelo Tribunal de origem à luz, exclusivamente, do acervo fático-probatório dos autos. A partir do cotejo das provas analisadas, firmou-se no acórdão recorrido que a parte agravada possui direito a perceber o benefício assistencial previsto na Lei 8.742/1993 – e no art. 203, V, da CF - com base nos seguintes termos:
+    “Junta documentos dos quais destaco: RG, indicando tratar-se de pessoa não alfabetizada; termo de compromisso de curador provisório e perícia médica, datada de 08.08.2005, extraída dos autos de interdição, concluindo que o autor está incapacitado permanentemente para gerir os atos da vida civil, bem como para exercer atividade laborativa e declaração da APAE, de que frequentou a instituição de 1994 a 2000.
+    A perícia médica (fls. 75/83), datada de 30.01.2007, conclui que o periciado é portador de retardo mental leve a moderado e não encontra-se incapacitado para o trabalho, eis que pode laborar em ambiente protegido com treinamento de habilidades básicas.
+    Diante de tais fatos, resta claro que demonstrada a incapacidade.
+    Entendo, que pessoa portadora de deficiência é aquela que está incapacitada para a vida independente e para o trabalho, em razão dos males que a cometem, como é o caso dos autos”. (eDOC 1, p. 156)
+    Dessa forma, para dissentir do acórdão recorrido, faz-se imprescindível a revisão dos fatos e provas analisados, o que obsta o prosseguimento do recurso extraordinário, nos termos do Enunciado 279 da Súmula do Supremo Tribunal Federal.
+    Nesse sentido, confira-se:
+    “RECURSO. Extraordinário. Inadmissibilidade. Benefício de prestação continuada. Inexistência de comprovação de que a renda do requerente é superior ao limite estabelecido no art. 20, § 3º, da Lei nº 8.742/93. Reexame de fatos e provas. Súmula 279. Recurso extraordinário não conhecido. Não cabe, em recurso extraordinário, rever questão pontual de inexistência de prova de que o autor tenha renda de valor superior ao limite previsto no art. 20, § 3º, da Lei nº 8.742/93”.
+    (RE 544.182, Rel. Min. Cezar Peluso, Segunda Turma, DJe 9.5.2008)
+    Por fim, quanto à suposta violação à regra da reserva de plenário, verifico que o tribunal de origem não declarou a inconstitucionalidade de norma nem afastou sua aplicabilidade com apoio em fundamentos extraídos da Constituição, logo não é pertinente a alegação de violação ao art. 97 da Constituição Federal.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 25 de outubro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
