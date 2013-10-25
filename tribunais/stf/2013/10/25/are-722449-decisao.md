@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - TERMO DE AJUSTAMENTO DE CONDUTA - TÍTULO EXECUTIVO EXTRAJUDICIAL - FALTA DE INTERESSE DE AGIR NÃO CONFIGURADA - OBJETOS DIFERENTES. - Há interesse processual do Ministério Público em Ação Civil Pública que possui objeto mais abrangente do contido em Termo de Ajustamento de Conduta (TAC).”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LXXVIII, ao art. 30, I e II, e ao art. 37, IX, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) incide na hipótese a Súmula 279/STF; (ii) “malgrado tenha o recorrente manejado os aclaratórios com o fito de obter o prequestionamento dos temas veiculados em seu inconformismo, não alcançou a controvérsia estatura constitucional, haja vista que a Turma julgadora prescindiu da análise dos dispositivos constitucionais indicados como ofendidos, carecendo o extraordinário portanto desse requisito indispensável”.
+    O recurso extraordinário não pode ser conhecido, tendo em vista que não discute matéria constitucional. Com efeito, o Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão discutida, relativa à desconstituição de acórdão que decreta anulação de sentença, por se tratar de matéria infraconstitucional. Veja-se a ementa do AI 836.810-RG, julgado sob a relatoria do Ministro Cezar Peluso:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Sentença. Anulação. Contradição e incoerência. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a desconstituição de acórdão que decreta a anulação de sentença, por entendê-la contraditória e incoerente, versa sobre tema infraconstitucional.”
+    Ainda que assim não fosse, o Tribunal de origem decidiu pela existência do direito de agir do parquet na ação civil pública, cujo objeto seria mais abrangente que o Termo de Ajustamento de Conduta – TAC, invocado no caso. Dissentir dessa conclusão demandaria análise da legislação infraconstitucional pertinente e do acervo probatório constante dos autos.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 25 de outubro de 2013.
+Ministro Luís Roberto Barroso
+Relator
