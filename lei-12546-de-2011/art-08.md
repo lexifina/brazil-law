@@ -34,3 +34,6 @@ II - (VETADO)
 § 7º A antecipação de que trata o § 6º será exercida de forma irretratável mediante o recolhimento, até o prazo de vencimento, da contribuição previdenciária prevista nos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991, relativa a junho de 2013.
 § 8º As empresas relacionadas nos incisos XI e XII do § 3º poderão antecipar para 4 de junho de 2013 sua inclusão na tributação substitutiva prevista neste artigo.
 § 9º A antecipação de que trata o § 8º será exercida de forma irretratável mediante o recolhimento, até o prazo de vencimento, da contribuição substitutiva prevista no caput, relativa a junho de 2013.
+§ 11. O disposto no inciso XII do § 3º do caput deste artigo e no Anexo II desta Lei não se aplica:
+I - às empresas de varejo dedicadas exclusivamente ao comércio fora de lojas físicas, realizado via internet, telefone, catálogo ou outro meio similar; e
+II - às lojas ou rede de lojas com características similares a supermercados, que comercializam brinquedos, vestuário e outros produtos, além de produtos alimentícios cuja participação, no ano calendário anterior, seja superior a 10% (dez por cento) da receita total.
