@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PROVA EMPRESTADA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA: NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Direito de vizinhança. Medida cautelar de produção antecipada de provas - Constatação de ruídos causados pelos trens da agravante no local do imóvel da agravada - Não realização da prova, diante de negativa do Instituto de Criminalística - Prova pericial emprestada de outro processo que trata da mesma questão, contra a mesma agravante e em trâmite pela mesma Vara - Observância de regular contraditório - Hipótese amparada no art. 332 do CPC - Ressalva à agravante do direito de tecer críticas e requerer segunda perícia - Recurso não provido”.
+    Os embargos de declaração opostos pela Agravante foram rejeitados.
+    2. A Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. LV, da Constituição da República.
+    Argumenta que “o juízo a quo, mesmo diante da grave violação perpetrada em desfavor da recorrente houve por bem manter a decisão de 1° grau, deixando de reconhecer a patente nulidade do ato judicial de empréstimo da prova. Isso porque, o laudo de fls. 152/192, oriundo do processo n. 583.00.2009.167743-1 FOI PRODUZIDO SEM A PARTICIPAÇÃO DA RECORRENTE, ou seja, COM VIOLAÇÃO AO PRINCÍPIO DO CONTRADITÓRIO, que apenas tomou ciência da realização da prova pericial após sua consumação, materializando nulidade insanável não sujeita a remediação”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Concluir de modo diverso do que decidido nas instâncias ordinária demandaria o reexame do conjunto fático-probatório constante do processo e da legislação infraconstitucional aplicável à espécie (no caso, o Código de Processo Civil), procedimento inviável de ser validamente adotado nessa via recursal. Incide a Súmula n. 279 do Supremo Tribunal Federal:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO PENAL. PROVA EMPRESTADA. PRELIMINAR FORMAL DE REPERCUSSÃO GERAL. AUSÊNCIA DE FUNDAMENTAÇÃO. ARTIGO 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL C.C. ART. 327, § 1º, DO RISTF. AUTORIA E MATERIALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF (...) 7. Agravo regimental desprovido” (ARE 731.306-AgR/PR, Relator o Ministro Luiz Fux, Primeira Turma, DJ 21.8.2013).
+    7. Ademais, o Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (no caso, o Código de Processo Civil), pode configurar, se for o caso, ofensa constitucional indireta:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. PRODUÇÃO DE PROVA PERICIAL. REEXAME DE FATOS E PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 858.326-AgR/MA, de minha relatoria, Segunda Turma, DJ 14.6.2013).
+    “EMENTA: EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL PENAL. NOMEAÇÃO E INTIMAÇÃO DE CURADOR: ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXVI E LV, DA CONSTITUIÇÃO DA REPÚBLICA. LAUDO PERICIAL. VALORAÇÃO DAS PROVAS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 785.809-ED/ES, de minha relatoria, Primeira Turma, DJ 24.9.2010).
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de outubro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
