@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (fl. 137):
+    “PREVIDENCIÁRIO. ALUNO-APRENDIZ. FUNDAÇÃO DARCY VARGAS – CASA DO PEQUENO JORNALEIRO. ESTUDO PROFISSIONALIZANTE. LABOR HABITUAL COM REMUNERAÇÃO INDIRETA. DIREITO À CONTAGEM DO RESPECTIVO PERÍODO COMO TEMPO DE SERVIÇO PARA FINS PREVIDENCIÁRIOS. ENUNCIADO Nº 18 DA TURMA NACIONAL DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA DOS JUIZADOS ESPECIAIS FEDERAIS. RECURSO DESPROVIDO.
+    I – A jurisprudência já se encontra amplamente pacificada, tendo sido, inclusive, sumulado pela Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais, através do enunciado nº 18, no sentido de que é possível a contagem como tempo de serviço efetivo, para fins previdenciários, do período de estudos como aluno-aprendiz junto a escolas técnicas e profissionalizantes, mesmo sob a vigência da Lei nº 3.552/59, desde que comprovada a contraprestação pecuniária à conta do orçamento da União;
+    II – Reputa-se cumprida essa exigência ainda que mediante remuneração indireta, compreendendo-se como tal o recebimento de alimentação, moradia, assistência médico-odontológica, material escolar, etc., exatamente da forma comprovada pelo autor por meio da certidão de fl. 08 e da declaração de fl. 09, ambas emitidas pela Fundação Darcy Vargas – Casa do Pequeno Jornaleiro, bem como através da oitiva de testemunhas (fls. 65/70);
+    III – Agravo interno desprovido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 201, § 1º, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário, sob os seguintes fundamentos: (i) “o exame dos autos evidencia que o acórdão não tratou da matéria concernente ao dispositivo constitucional apontado como violado, faltando-lhe, assim, o indispensável prequestionamento viabilizador da instância extraordinária, incidindo os enunciados das Súmulas 282/STF e 356/STF” (fl. 186); (ii) “o v. Acórdão recorrido decidiu a vexata quaestio baseado, tão somente, na legislação infraconstitucional pertinente ao caso” (fl. 186).
+    O recurso extraordinário é inadmissível, tendo em vista que a jurisprudência do Supremo Tribunal Federal é firme quanto a legalidade do cômputo, para fins previdenciários, do tempo prestado como aluno-aprendiz. Nessa linha, veja-se o MS 27.185, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. ACÓRDÃO N. 188/2008. DETERMINAÇÃO DE RETORNO DO IMPETRANTE À ATIVIDADE PARA COMPLETAR O TEMPO NECESSÁRIO PARA APOSENTADORIA COM PROVENTOS INTEGRAIS, OU SUA PERMANÊNCIA, NA CONDIÇÃO DE APOSENTADO, COM PROVENTOS PROPORCIONAIS. LEGALIDADE DO CÔMPUTO DO PRAZO DE ALUNO-APRENDIZ EM ESCOLA TÉCNICA PARA APOSENTADORIA DO IMPETRANTE: PRECEDENTES. SEGURANÇA CONCEDIDA.”
+    Ademais, para dissentir da conclusão do TRF/2ª Região faz-se necessário nova apreciação dos fatos e do material probatório constantes dos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF, in verbis:
+    “Para simples reexame de prova não cabe recurso extraordinário”.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 28 de outubro de 2013.
+Ministro Luís Roberto Barroso
+Relator
