@@ -1,0 +1,18 @@
+Decisão:
+    Vistos
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão que, em síntese, julgou improcedente o pedido de inclusão do décimo-terceiro salário no cálculo da Renda Mensal Inicial de benefício previdenciário.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso XXXVI, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, para superar o entendimento firmado pelo órgão julgador de origem seria necessário o reexame da legislação infraconstitucional pertinente, o que é incabível na via extraordinária. Nesse sentido, anote-se:
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CÔMPUTO DO DÉCIMO TERCEIRO NO SALÁRIO DE BENEFÍCIO. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 676.724/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 16/5/12).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. REVISÃO DO CÁLCULO DA RENDA MENSAL INICIAL - RMI. ÍNDICE DE CORREÇÃO MONETÁRIA. 1. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. 2. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 638.905/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 4/6/10).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. CÁLCULO DA RENDA MENSAL INICIAL. CORREÇÃO MONETÁRIA. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada neste momento processual. 2. Incide, à derradeira, a Súmula 283/ STF. 3. Agravo regimental desprovido” (RE nº 593.286/MG-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 26/9/11).
+    Seguindo essa orientação, destacam-se as seguintes decisões monocráticas: ARE nº 706.622/RS, Relator o Ministro Luiz Fux, DJe de 2/9/13; ARE nº 701.797/SP, Relator o Ministro Teori Zavascki, DJe de 30/9/13; ARE nº 757.593/SP, Relator o Ministro Roberto Barroso, DJe de 2/9/13; e ARE nº 757.652/SP, Relator a Ministra Rosa Weber, DJe de 2/8/13.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 28 de outubro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
