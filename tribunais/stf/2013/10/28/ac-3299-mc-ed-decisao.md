@@ -1,0 +1,15 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NA AÇÃO CAUTELAR. ADITAMENTO À INICIAL. EMBARGOS ACOLHIDOS PARA SANAR OMISSÃO.
+Relatório
+    1. Ação cautelar com pedido de medida liminar, ajuizada pelo Estado do Amapá, em 23.1.2013, contra a União com o objetivo de suspender os efeitos da inscrição desse Estado como inadimplente no Sistema Integrado de Administração Financeira – SIAFI, Cadastro Informativo de Créditos não Quitados do Setor Público Federal - CADIN e no Cadastro Único de Convênios – CAUC.
+    2. Em 25.3.2013, deferi a medida liminar requerida apenas para suspender a inscrição de inadimplência do Estado do Amapá no Sistema Integrado de Administração Financeira – SIAFI, no Cadastro Único de Convênios – CAUC e Cadastro Informativo de Créditos não Quitados do Setor Público Federal – CADIN relativamente aos Convênios listados às fls. 3-15 da petição inicial.
+    3. Em 27.3.2013, o Estado do Amapá opôs embargos de declaração salientando que não teria havido, na decisão liminar, “qualquer inferência à petição de aditamento juntada aos autos, mediante a qual requereu-se a inclusão no objeto da ação cautelar de seis outros convênios, notadamente: Convênio nº 108/2001 (SIAFI 423835), Convênio nº 109/2001 (SIAFI 423836), Convênio nº 114/2001 (SIAFI 423838), Convênio nº 115/2001 (SIAFI 423839), Convênio nº 113/2007 (SIAFI 601729), Convênio 100/2009 (SIAFI 722348), os quais, também, se encontram submetidos ao procedimento de Termo de Ajustamento de Conduta a ser firmado com a Advocacia-Geral da União”.
+    Examinados os elementos havidos nos autos, DECIDO .
+    4. Cumpre ressaltar que, por terem sido opostos os embargos de declaração contra decisão monocrática e conterem apenas alegação dos vícios do art. 535 do Código de Processo Civil, fica dispensada a sua conversão em agravo regimental para julgamento do Colegiado. Nesse sentido, RE 476.109-ED, Relator o Ministro Cezar Peluso, DJe 8.10.2007; RE 411.024-ED, Relator o Ministro Sepúlveda Pertence, DJ 11.5.2004; e RE 277.612, Relator o Ministro Carlos Velloso, DJ 12.11.2001.
+    5. Com razão o Embargante. A decisão liminar contemplou apenas os convênios listados às fls. 3-15 da petição inicial.
+    No entanto, o Embargante protocolou aditamento à inicial em 28.2.2013, no qual noticiou a existência de 6 outros convênios dos quais teria prestado contas relativamente a quatro e representado no Tribunal de Contas da União e no Ministério Público com relação a outros dois, sinalizando, assim, sua intenção em dar cumprimento à Lei de Responsabilidade Fiscal.
+    6. Pelo exposto, acolho os embargos de declaração para sanar a omissão e suspender a inscrição de inadimplência do Estado do Amapá no Sistema Integrado de Administração Financeira – SIAFI, no Cadastro Único de Convênios – CAUC e Cadastro Informativo de Créditos não Quitados do Setor Público Federal – CADIN relativamente, também, aos Convênios n. 108/2001 (SIAFI 423835), 109/2001 (SIAFI 423836), 114/2001 (SIAFI 423838), 115/2001 (SIAFI 423839), 113/2007 (SIAFI 601729) e 100/2009 (SIAFI 722348).
+    Publique-se.
+    Brasília, 28 de outubro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
