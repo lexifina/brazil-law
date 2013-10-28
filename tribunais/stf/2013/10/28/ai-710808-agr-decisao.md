@@ -1,0 +1,31 @@
+DECISÃO:
+    Trata-se de agravo regimental cujo objeto é decisão monocrática do Ministro Joaquim Barbosa, relator originário do feito, que negou seguimento ao agravo de instrumento, pelos seguintes fundamentos (fl. 215):
+    “Falta ao instrumento cópia da decisão agravada, peça de traslado obrigatório, cuja ausência acarreta o não-conhecimento do agravo (Súmula 288/STF e art. 544, § 1º, do Código de Processo Civil).
+    Do exposto, nego seguimento ao presente agravo.”
+     A parte agravante sustenta que a decisão merece reforma, “pois a decisão agravada encontra-se à fl. 177 do caderno processual” (fl. 221-v).
+    Decido.
+    Reconsidero a decisão agravada.
+    Passo à análise do agravo de instrumento.
+    O acórdão proferido pela Turma Recursal dos Juizados Especiais Federais da Seção Judiciária de Sergipe consignou (fl. 183):
+    “ […]
+    2) Mérito em si: No caso dos autos, a decisão de 1ª Instância encontra-se em perfeita conformidade com a jurisprudência predominante dos tribunais pátrios, inclusive a proveniente do Supremo Tribunal Federal.
+    […] ”
+    A decisão de 1ª Instância, no que diz respeito à GDATA, julgou procedente a pretensão, consignando:
+    “PROCEDENTE a pretensão à percepção pelo servidor inativo da GDATA nos valores correspondentes a 37,5 (trinta e sete e meio) pontos, no período de fevereiro a maio de 2002, e nos termos do art. 5º , parágrafo único, da Lei 10.404/2002, para o período de julho de 2002 até a ‘conclusão dos efeitos do último ciclo de avaliação’, conforme disposto no art. 1º da Medida Provisória nº 198, de 15/07/2004 (DOU de 16/07/2004), convertida na Lei nº 10.971, de 25/11/2004, a partir da qual passa a ser de 60 (sessenta) pontos” (fl. 81).
+    Quanto à GDPGTAS, a sentença monocrática também julgou procedente a pretensão, nos seguintes termos:
+    “PROCEDENTE a pretensão à percepção pelo servidor inativo da GDPGTAS, a partir de 30 de junho de 2006, no percentual de 80%, até a data em que tal gratificação seja regulamentada, momento a partir do qual deve ser aplicado o disposto no art. 77, da Lei nº 11.357/06, determinando sua inclusão no contracheque do autor” (fl. 81).
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, § 8º, da Constituição, bem como à Súmula 339/STF.
+    A questão debatida nos autos, relativa à GDATA, já teve sua repercussão geral reconhecida pelo Supremo Tribunal Federal no RE 597.154-RG, da relatoria do Ministro Gilmar Mendes. O tema ficou assim ementado:
+    “1. Questão de ordem. Repercussão Geral. Recurso Extraordinário. 2. GDATA e GDASST. 3. Servidores inativos. Critérios de cálculo. Aplicação aos servidores inativos dos critérios estabelecidos aos ativos, de acordo com a sucessão de leis de regência. 4. Jurisprudência pacificada na Corte. 5. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do tribunal, desprover o recurso, autorizar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema e autorizar as instâncias de origem à adoção dos procedimentos do art. 543-B, § 3º, do Código de Processo Civil.”
+    Na ocasião, concluiu-se que, uma vez configurado o caráter genérico da gratificação, devem ser aplicados aos servidores inativos os mesmos critérios de cálculo estabelecidos para os servidores em atividade, “de acordo com a sucessão de leis de regência”; editando, assim, a Súmula Vinculante 20, nos seguintes termos:
+    “A Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória no 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos”.
+    O acórdão recorrido não dissentiu desse entendimento.
+    Com relação à GDPGTAS, a decisão recorrida também está alinhada com a jurisprudência do Supremo Tribunal Federal que, em diversas oportunidades, se manifestou pela da extensão aos servidores inativos da referida gratificação. Nesse sentido, confira-se a ementa do RE 633.933-RG, julgado sob a relatoria do Ministro Cezar Peluso:
+    “RECURSO. Extraordinário. Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte – GDPGTAS. Critérios de cálculo. Extensão. Servidores públicos inativos. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso improvido. É compatível com a Constituição a extensão, aos servidores públicos inativos, dos critérios de cálculo da Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte – GDPGTAS estabelecidos para os servidores públicos em atividade.”
+    No mesmo julgamento, a Corte reafirmou sua jurisprudência sobre a matéria (RE 476.279/DF, Rel. Min. Sepúlveda Pertence e RE 476.390/DF, Rel. Min. Gilmar Mendes), no sentido de que uma gratificação inicialmente concedida aos servidores ativos com base em pontuação fixa, sem a correspondente extensão dessa regra transitória aos servidores inativos, violaria o disposto no art. 40, § 8º, da Constituição, na redação anterior à EC 41/2003, in verbis:
+    “§ 8º - Observado o disposto no art. 37, XI, os proventos de aposentadoria e as pensões serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados e aos pensionistas quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão, na forma da lei”.
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de outubro de 2013.
+Ministro Luís Roberto Barroso
+Relator
