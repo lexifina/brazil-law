@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, contra acórdão da 3ª Turma Recursal de Santa Catarina que, reconhecendo sua competência para julgamento de habeas corpus contra ato de Juiz Federal do Juizado Especial Criminal Federal, concedeu a ordem para determinar o trancamento da ação penal.
+    Nas razões recursais, o Ministério Público Federal aponta violação ao art. 108, I, “a” e “d”, da Constituição Federal, ao argumento de que o órgão jurisdicional competente para julgamento de habeas corpus contra ato do Juizado Especial Criminal Federal é o Tribunal Regional Federal.
+    O recorrido não apresentou contrarrazões (fl. 210-verso).
+    É o relatório.
+    Decido.
+    Não assiste razão ao recorrente.
+    Com efeito, o acórdão recorrido está em consonância com o entendimento desta Corte, que se firmou no sentido de que a competência para julgar habeas corpus contra Juiz Federal investido das funções nos Juizados Especiais Federais é da Turma Recursal respectiva.
+    Nesse sentido, confira-se:
+    “RECURSO EXTRAORDINÁRIO. ALEGADA VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. INOCORRÊNCIA. JULGAMENTO DE HABEAS CORPUS IMPETRADO CONTRA DECISÃO DE JUIZADO ESPECIAL. COMPETÊNCIA DA TURMA RECURSAL. LEGITIMIDADE CONSTITUCIONAL E LEGAL. RECURSO CONHECIDO E DESPROVIDO.
+    1. Os Juizados Especiais e as Turmas Recursais foram instituídos, no Estado de Santa Catarina, por Lei Complementar Estadual, anteriormente à edição da Lei n. 9.099/95. Assim, a posterior exigência, por este último diploma legal, de lei estadual para a criação de juizados e turmas recursais nos Estados, já estava atendida no Estado de Santa Catarina.
+    2. O fato de a Lei Complementar Estadual prever apenas competência cível para as Turmas de Recursos não torna ilegítima a Resolução do Tribunal de Justiça que declara a existência da competência também em matéria criminal. Observância dos princípios norteadores da Lei dos Juizados e da Constituição.
+    3. O princípio do juiz natural veda a instituição de tribunais e juízos de exceção e impõe que as causas sejam julgadas pelo órgão jurisdicional previamente determinado, a partir de critérios constitucionais de repartição da competência. Caso em que o habeas corpus de origem foi impetrado, perante a Turma de Recursos, dez anos depois da declaração da sua competência em matéria criminal pela Resolução do Tribunal de Justiça considerada ilegítima pelo Recorrente.
+    4. O fato de a Resolução prever a competência em matéria recursal das Turmas de Recursos não exclui sua competência para o julgamento de habeas corpus impetrado contra decisões dos juizados especiais criminais, como conseqüência lógica. Precedente.
+    5. Ademais, no caso em análise, o writ é claro substitutivo do recurso de apelação, não havendo razoabilidade em excluí-lo do alcance do art. 82 da Lei n. 9.099/95.
+    6. Recurso conhecido e desprovido”. (RE 463.560/SC, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 20.6.2008)
+    “HABEAS CORPUS. DIREITO CONSTITUCIONAL. PROCESSO PENAL. INCOMPETÊNCIA DO STF PARA PROCESSAR E JULGAR HC DE DECISÃO ORIUNDA DE JUIZADO ESPECIAL CRIMINAL. O HABEAS foi impetrado perante o TJ/MG, contra decisão de Juiz de Direito com jurisdição no Juizado Especial de Guapé/MG. O Desembargador-Relator no TJ/MG declinou da competência para a Turma Recursal de Passos/MG. Essa declinou da competência para este Tribunal, porque o seu Regimento Interno não prevê a competência para julgar HABEAS CORPUS. Compete a este Tribunal, originariamente, processar e julgar HABEAS CORPUS contra decisão denegatória de similar, proferida por Turmas Recursais de Juizados Especiais Criminais (CF, 102, I, i). Precedentes. O fato do Regimento Interno da Turma Recursal de Passos/MG não incluir o HABEAS CORPUS em sua competência, não faz com que a mesma se desloque para este Tribunal. Há previsão constitucional no sentido de que a competência para examinar os recursos das decisões emanadas pelos Juizados Especiais é das Turmas Recursais (CF, art. 98, I). A Lei que instituiu os Juizados Especiais Criminais, regulamentou a competência das Turmas Criminais para julgar os recursos interpostos de decisões proferidas pelos Juizados Especiais (L. 9.099/95, art. 41, §§ 1º e 2º). Reconhecida a incompetência deste Tribunal para conhecer e examinar o presente WRIT. Habeas não conhecido”.
+(HC 82.718/MG, Rel. Min. Nelson Jobim, Segunda Turma, DJ 27.6.2003)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 29 de outubro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
