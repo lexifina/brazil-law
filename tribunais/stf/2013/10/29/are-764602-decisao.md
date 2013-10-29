@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Segunda Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, assim ementado:
+    “PROCESSO CIVIL. PREVIDENCIÁRIO. ALTERAÇÃO DE CRITÉRIO DE CÁLCULO ADMINISTRATIVO. AÇÃO REVISIONAL. FALTA DE PEDIDO EXPRESSO. SENTENÇA ULTRA PETITA.
+    1. A sentença que determina a alteração de critério de cálculo administrativo sem pedido expresso da parte autora na inicial nem sempre se reveste das características de uma sentença ultra petita.
+    2. Em se tratando de ações concessivas de benefícios previdenciários, quando o benefício está sendo concedido originariamente na via judicial, ao proferir a sentença o Juizado de origem pode, excepcionalmente, alterar algum critério de cálculo administrativo que reputar ilegal ou inconstitucional, desde que o faça expressamente fundamentando a alteração do critério na sentença e/ou proferindo sentença líquida com base em cálculo do qual conste a alteração do critério.
+    3. Porém, em se tratando de ações revisionais de benefícios previdenciários já concedidos na via administrativa, ao proferir a sentença o Juizado de origem deve se ater aos limites objetivos traçados na inicial, não podendo alterar critérios de cálculo administrativos cuja alteração não tenha sido expressamente postulada na inicial e discutida no processo, sob pena de prolação de uma sentença ultra petita, que será nula naquilo em que extrapolar os limites do pedido.
+    4. No caso, a parte autora ajuizou uma ação revisional postulando apenas a revisão do art. 29, § 5º, da Lei nº 8.213/91, sem pleitear a revisão do critério de cálculo administrativo de que trata o art. 29, inc. II, da Lei nº 8.213/91, motivo pelo qual, embora não tenha expressamente fundamentado a alteração do critério na sentença, o Juizado de origem incorreu em uma decisão ultra petita ao proferir sentença líquida com base em cálculo do qual constou a alteração do referido critério (art. 29, inc. II, da Lei nº 8.213/91).
+    5. Recurso do INSS provido.”
+    O recurso busca fundamento no art. 102, III, da Constituição Federal. A parte recorrente pleiteia revisão do valor da RMI ,“realizando o cálculo do salário-de-benefício na forma do que estabelece o artigo 29, inciso II, da Lei nº 8.213/91, culminando no pagamento dos atrasados desde a DIB, acrescidos de juros e correção monetária de lei”.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que “a controvérsia cinge-se ao âmbito infraconstitucional, sendo a violação alegada, caso existente, reflexa ou indireta”.
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente: (i) não indicou o dispositivo constitucional autorizador do apelo; (ii) não apontou dispositivo da Constituição que eventualmente teria sido violado; (iii) não atacou os fundamentos utilizados pela Turma de origem para dar provimento ao recurso inominado do Instituto Nacional do Seguro Social – INSS. Nessas condições, aplica-se a Súmula 284/STF, in verbis:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso ao recurso extraordinário.
+    Publique-se.
+          Brasília, 29 de outubro de 2013.
+Ministro Luís Roberto Barroso
+Relator
