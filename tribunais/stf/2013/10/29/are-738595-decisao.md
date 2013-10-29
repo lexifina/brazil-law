@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. INTERESSE PATRIMONIAL-ECONÔMICO. NÃO INTERVENÇÃO DO MINISTÉRIO PÚBLICO.
+    1. O bem da vida almejado neste processo gravita em torno da responsabilização dos réus ao ressarcimento do prejuízo ocasionado em virtude da compra viciada de algodão. Logo, infere-se que o interesse é meramente patrimonial-econômico de empresa pública, a evidenciar a não obrigatoriedade de intervenção do Parquet neste feito. Precedentes: REsp 1.199.244/PI, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/10/2011; AgRg no REsp 1.147.550/GO, Relator Ministro Hamilton Carvalhido, Primeira Turma, DJe 19/10/2010; e REsp 1.191.269/AM, Relatora Ministra Eliana Calmon, Segunda Turma, DJe 1/7/2010.
+    2. Agravo regimental não provido” (fl. 24 do documento eletrônico 7 – grifos no original).
+    No RE fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 129, II, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o Tribunal de origem decidiu a causa nos seguintes termos:
+    “ O decisum agravado ostenta o seguinte, litteratim:
+    (…) o bem da vida almejado neste processo gravita em torno da responsabilização dos réus ao ressarcimento do prejuízo ocasionado em virtude da compra viciada de algodão. Logo, infere-se que o interesse é meramente patrimonial-econômico de empresa pública, a evidenciar a não obrigatoriedade de intervenção do Parquet neste feito (…).
+    O agravante não logrou infirmar os fundamentos da decisão agravada, que merece ser mantida por seus próprios fundamentos. Isso posto, nego provimento ao agravo regimental” (págs. 26-27 e 29 do doc. 7).
+     Nesse contexto, resta claro que para divergir do entendimento firmado pelo juízo a quo, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 desta Corte, bem como seria imprescindível a análise das normas infraconstitucionais aplicáveis à espécie (Código de Processo Civil). Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, trago à colação julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTERVENÇÃO DO MINISTÉRIO PÚBLICO. MATÉRIA INFRACONSTITUCIONAL PROCESSUAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Agravo regimental improvido” (AI 708.049-AgR/DF, de minha relatoria, Primeira Turma).
+    “Agravo regimental em agravo de instrumento. 2. Direito Processual Civil e do Trabalho. Intervenção do Ministério Público em demanda que envolve interesse de menor assistido por representante legal. Matéria infraconstitucional. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento” (AI 761.084-AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma – grifos meus).
+    Indico, no mesmo sentido, as seguintes decisões proferidas em casos análogos: RE 602.263/GO, Rel. Min. Dias Toffoli; e ARE 651.938/GO, Rel. Min. Rosa Weber.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de outubro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
