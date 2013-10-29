@@ -1,0 +1,25 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu pela legitimidade do Ministério Público do Trabalho para o ajuizamento de ação civil pública que vise assegurar a contratação de empregados portadores de deficiência física ou mental, nos termos do art. 93 da Lei 8.213/1991 e do artigo 83, III, da Lei Complementar 75/1993.
+    Neste RE, fundado no art. 102, III, a da Constituição, alegou-se, em suma, violação aos arts. 5º, XIII, XXII e XXXV, 93, IX, 114, caput e incisos, 129, III e IX, 174 e 203, IV, todos da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Quanto ao art. 5º, XXXV, da Constituição, ressalto que o julgamento contrário aos interesses da parte não basta à configuração da negativa de prestação jurisdicional. Nesse sentido, cito os seguintes precedentes, entre outros: AI 747.611-AgR/SP, Rel. Min. Cármen Lúcia; AI 657.164-AgR/AM, Rel. Min. Menezes Direito; AI 648.551-AgR/RS, Rel. Min. Sepúlveda Pertence; AI 469.341-AgR/SP, Rel. Min. Ayres Britto; AI 690.551-AgR/RJ, de minha relatoria.
+    É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado, como é o caso. Nesse sentido, transcrevo ementa do AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (grifos meus).
+    No mesmo sentido, menciono, ainda, as seguintes decisões, entre outras: AI 747.611-AgR/SP, Rel. Min. Cármen Lúcia; AI 712.035-AgR/RJ, Rel. Min. Ellen Gracie; AI 529.105-AgR/CE, Rel. Min. Joaquim Barbosa; AI 743.094-AgR/RJ, Rel. Min. Eros Grau; AI 590.140-AgR/SP, Rel. Min. Sepúlveda Pertence; RE 414.618-AgR/RN, Rel. Min. Ayres Britto; RE 520.187-AgR/MG, de minha relatoria.
+    No que tange à competência da Justiça do Trabalho, o Tribunal de origem assentou que a questão ora em exame relaciona-se ao “cumprimento de lei que garante o trabalho ao portador de deficiência” (fl. 403). Processar e julgar pedido de obrigação de fazer consistente nessa imposição não caracteriza violação ao disposto no art. 114 da Constituição.
+    Por fim, cabe esclarecer que o acórdão recorrido está em consonância com a jurisprudência do Supremo Tribunal Federal no sentido de que o Ministério Público do Trabalho possui legitimidade para atuar na defesa dos interesses difusos e coletivos de natureza trabalhista. Com esse entendimento destaco as seguintes ementas:
+    “Recurso extraordinário. Trabalhista. Ação civil pública.
+    2. Acórdão que rejeitou embargos infringentes, assentando que ação civil pública trabalhista não é o meio adequado para a defesa de interesses que não possuem natureza coletiva.
+    3. Alegação de ofensa ao disposto no art. 129, III, da Carta Magna. Postulação de comando sentencial que vedasse a exigência de jornada de trabalho superior a 6 horas diárias.
+    4. A Lei Complementar n.º 75/93 conferiu ao Ministério Público do Trabalho legitimidade ativa, no campo da defesa dos interesses difusos e coletivos, no âmbito trabalhista.
+    5.Independentemente de a própria lei fixar o conceito de interesse coletivo, é conceito de Direito Constitucional, na medida em que a Carta Política dele faz uso para especificar as espécies de interesses que compete ao Ministério Público defender (CF, art. 129, III).
+    6. Recurso conhecido e provido para afastar a ilegitimidade ativa do Ministério Público do Trabalho” (RE 213.015/DF, Rel. Min. Néri da Silveira).
+    “AGRAVO REGIMENTAL. AÇÃO CIVIL PÚBLICA. CONDIÇÕES DE TRABALHO. LEGITIMIDADE DO MINISTÉRIO PÚBLICO DO TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ARTS. 114 E 129, DA CONSTITUIÇÃO.  ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+    O acórdão recorrido prestou, inequivocamente, jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões que lhe foram postas.
+    Legitimidade do Ministério Público do Trabalho para ajuizar ação civil pública em defesa de interesses difusos e coletivos no âmbito trabalhista.
+    Questões referentes ao ambiente, às condições e à organização do trabalho. Competência da Justiça do Trabalho. Súmula 736/STF.
+    Agravo regimental a que se nega provimento” (AI 416.463-AgR/MG, Rel. Min. Joaquim Barbosa).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 29 de outubro de 2013.
+Ministro Ricardo Lewandowski
+- Relator -
