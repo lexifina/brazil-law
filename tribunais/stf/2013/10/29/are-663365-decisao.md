@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Ceará, assim ementado:
+    “REMESSA OBRIGATÓRIA E APELAÇÃO CÍVEL. ADMINISTRATIVO. PREVIDENCIÁRIO. POLICIAL MILITAR. LEI ESTADUAL Nº. 13.035/2000. REESTRUTURAÇÃO DAS CARREIRAS MILITARES ESTADUAIS. PREVISÃO DE EXTINÇÃO DA GRADUAÇÃO DE 3º. SARGENTO, A MEDIDA QUE OS CARGOS FOREM VAGANDO. PERMANÊNCIA DOS PROVENTOS PERCEBIDOS PELOS INATIVOS NO VALOR IGUAL A GRADUAÇÃO EXTINTA. IMPOSSIBILIDADE. AFRONTA A ANTIGA REDAÇÃO DO ART. 40, § 8º, DA CF, ANTES DA REFORMA CONSTITUCIONAL DETERMINADA PELA EC 41/2003. REAJUSTE DO SOLDO E DOS PROVENTOS ASSEGURADO CONSTITUCIONALMENTE. REMESSA E APELAÇÃO CÍVEL CONHECIDAS, MAS NÃO PROVIDA.”
+    Opostos embargos declaratórios (fls. 183 a 189), foram rejeitados (fls. 198 a 200).
+    No recurso extraordinário, sustenta-se violação do artigo 40, §§ 2º e 8º, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    Colhe-se do acórdão recorrido, a seguinte fundamentação:
+    “De fato, fazendo uso de sua competência constitucionalmente assegurada, o Estado do Ceará produziu a Lei nº 13.035/2000, através da qual reestruturou a carreira da Polícia Militar do Estado do Ceará. Conforme disposto no citado diploma legal, as graduações de 2º Tenente, 2º. e 3º. Sargento e aspirantes, previstas no regime jurídico anterior, deverão ser extintas, à medida que os atuais cargos foram se tornando vagos, o que ocorrerá com a promoção ou aposentadoria de seus ocupantes. Atente-se para o fato de que novel legislação não reclassificou os militares da ativa, ocupantes das graduações a serem extintas, para a graduação de Sargento, permanecendo inalterada a situação destes, quanto a tal matéria.” (fl. 177/178).
+    Portanto, no presente caso, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem, seria necessária a interpretação da legislação infraconstitucional pertinente (Lei Estadual n° 13.035/2000) e o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MILITAR. REQUISITOS PARA PROMOÇÃO. NORMAS INFRACONSTITUCIONAIS. SÚMULA 280 DO STF. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO IMPROVIDO. I – A jurisprudência de ambas as Turmas do STF é pacífica no sentido de que, no caso dos autos, o exame do preenchimento dos requisitos para a promoção do militar demanda a análise de legislação infraconstitucional (Leis 10.072/76 e 13.035/00 e a Lei estadual 226/48), e também do conjunto fático-probatório dos autos. Incidem, no caso, as Súmulas 279 e 280 do STF. II – Agravo regimental improvido” (RE nº 610.217/CE–AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 11/11/10).
+    E, também, as seguintes decisões monocráticas: RE nº 633.089/CE, Relatora a Ministra Cármen Lúcia, DJe de 15/12/10; RE nº 630.816/CE, Relator o Ministro Ayres Britto, DJe de 6/12/10; e AI nº 805.494/CE, Relator o Ministro Marco Aurélio, DJe de 6/10/10.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 29 de outubro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
