@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pelos advogados Régis Galino e Maria Cláudia Seixas em favor de Edmundo Rocha Gorini e Mauro Sponchiado, buscando, liminarmente, o sobrestamento da ação penal à qual respondem os pacientes.
+    Apontam como autoridade coatora o Ministro Felix Fischer, do Superior Tribunal de Justiça, que deu por competente o Juízo Federal da 6ª Vara Criminal de São Paulo, no Conflito de Competência nº 98.846/SP.
+    Alegam os impetrantes, em síntese, que “a normativa processual prevista expressamente no art. 70 do CPP, não dá margem à aplicação de entendimento diverso, tem-se que observar a primeira regra de fixação da competência: o lugar da infração (teoria do resultado) – local onde se consumou o crime ou deveria ter se consumado” (fl. 11).
+    Em 9/12/09, ausentes os pressupostos legais, indeferi a medida liminar pleiteada.
+    Requer a impetrante Maria Cláudia de Seixas, agora, em caráter incidental, diante da iminência da realização da audiência de interrogatório dos pacientes, designada para 30/10/13, seja concedida a medida liminar anteriormente postulada, suspendendo-se o curso da ação penal até final decisão do presente writ, com a fixação do juízo competente para o processamento da causa.
+    Aduz, para tanto, que:
+    “(...)
+    O pedido liminar, em dezembro do mesmo ano, foi indeferido. Após Vossa Excelência afirmar não estar presente, a princípio, nenhuma teratologia ou flagrante ilegalidade na decisão combatida apta a justificar o deferimento da liminar, disse que "em exame preliminar, verifico não estar presente o periculum in mora, pois não há qualquer indicação de que os pacientes estejam na iminência de sofrer restrição à liberdade de ir e vir, ou qualquer outro ato processual potencial de constrangimento ilegal. Os pacientes estão soltos e não há ordem de prisão contra eles. Com essas considerações, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro o pedido de liminar".
+    Tal histórico é realizado tão somente para deixar claro que a impetrante em nenhum momento deixou de buscar sanar o constrangimento ilegal imposto aos pacientes, e mais, para demonstrar que se quando da apreciação do pedido liminar, o periculum in mora não existia, agora ele é patente.
+    Sim, pois após quatro anos da impetração do presente remédio heróico a ação penal na qual se aponta o constrangimento ilegal bate as portas do seu encerramento, está prestes a chegar ao seu fim em primeira instância com a audiência para o interrogatório dos Pacientes, debates e julgamento designada para o próximo dia 30 de outubro.
+    Eminente Ministro: os pacientes têm o direito constitucional a ter este habeas corpus cuja matéria é de grande relevância, julgado antes do desfecho da ação penal em primeiro grau. Até porque, pode-se até mesmo chegar à conclusão proposta na impetração de que o Juízo de São Paulo não é competente para julgar os pacientes e daí estaríamos diante de um processo manifestamente nulo.
+    Como se vê, o prejuízo aos pacientes é indiscutível. Já para a ação penal, o deferimento da liminar não trará qualquer prejuízo e caso esta ordem seja negada, a ação penal, que já se encontra instruída, poderá ser julgada a qualquer hora.
+    O que se pede, eminente Ministro, é exatamente o direito de os pacientes verem este exame da impetração acontecer antes de serem sentenciados.
+    (…)
+    Assim, considerando que a prolação de sentença pela Seção Judiciária de São Paulo pode ocorrer a qualquer momento e, que não se sabe se será possível Vossa Excelência neste exíguo espaço de tempo levar o habeas corpus a julgamento (até ao menos o dia 30 de outubro, dia em que está designada a audiência final da ação penal na qual se aponta o constrangimento ilegal - doe. anexo), o que demonstra o periculum in mora necessário à concessão da medida, bem como o fiumus boni iuris, demonstrado na impetração, requer-se, em caráter excepcional a concessão da pleiteada Medida Cautelar Inominada Incidental para determinar o sobrestamento da ação penal que sofrem os pacientes.”
+    Examinados, decido.
+    Como já anteriormente mencionado, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, justificada apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação apresentada nos autos representar flagrante constrangimento ilegal.
+    No caso em análise, a princípio, não se vislumbraria flagrante constrangimento que justificasse o pretendido sobrestamento da ação penal, e o consequente periculum in mora, máxime quando os pacientes responderam à demanda em liberdade, de modo que, a princípio, salvo alterações fáticas no quadro individual dos acusados, não se tem notícia de qualquer alteração dessa condição.
+    Saliento, contudo, que em precedente análogo julgado perante esta Primeira Turma em sessão de 8/10/13 (HC nº 106.074/PR, Relator para acórdão o Ministro Luiz Fux), reconheceu-se a competência da 3ª Vara Federal Criminal da Seção Judiciária do Paraná, o que, em um juízo de cognição sumária, justifica, agora, a concessão da liminar pleiteada em menor extensão, para sustar, tão somente, a prolação da sentença de mérito pelo Juízo da 6ª Vara Federal Criminal de São Paulo, até final decisão deste writ.
+    Com essas considerações, sem prejuízo de reexame posterior da matéria, defiro a medida liminar pleiteada, em menor extensão, apenas para que se abstenha o juízo da 6ª Vara Federal Criminal de São Paulo de prolatar a decisão de mérito, até final julgamento do presente writ.
+    Comunique-se.
+    Publique-se.
+    Brasília, 29 de outubro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
