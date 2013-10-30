@@ -1,0 +1,18 @@
+AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. RESERVA DE VAGA EM CONCURSO PÚBLICO. DEFICIENTE FÍSICO. IMPOSSIBILIDADE DE ARREDONDAMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL.
+1. O percentual de vagas destinadas a portadores de deficiência deve ater-se aos limites estabelecidos em lei, de acordo com a quantia de vagas disponibilizadas no caso concreto, não sendo viável o arredondamento na hipótese de majoração das porcentagens mínima e máxima previstas. Precedentes: RE 227.299, Rel. Min. Ilmar Galvão, DJe 14/6/2000 e RE 440.988-AgR, Min. Rel. Dias Toffoli, DJe 30/3/2012
+2. In casu, o acórdão recorrido assentou: “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. DEFICIENTE FÍSICO. RESERVA DE VAGA EM CONCURSO PÚBLICO. PERCENTUAL INFERIOR A 0,5 EM FACE DO REDUZIDO NÚMERO DE VAGAS OFERECIDO. ARREDONDAMENTO PARA UM INTEIRO. NOMEAÇÃO CONDICIONADA À EXISTÊNCIA OU AO SURGIMENTO DE VAGAS NO CARGO CONCORRIDO. ARTIGO 37, INCISO VIII, DA CONSTITUIÇÃO FEDERAL. ART. 5º, §2º DA LEI N. 8.112/90. ART. 37, 2º DO DECRETO N. 3298/99.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por MARCOS ANTÔNIO DE ARAÚJO SILVA, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional contra acórdão assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. DEFICIENTE FÍSICO. RESERVA DE VAGA EM CONCURSO PÚBLICO. PERCENTUAL INFERIOR A 0,5 EM FACE DO REDUZIDO NÚMERO DE VAGAS OFERECIDO. ARREDONDAMENTO PARA UM INTEIRO. NOMEAÇÃO CONDICIONADA À EXISTÊNCIA OU AO SURGIMENTO DE VAGAS NO CARGO CONCORRIDO. ARTIGO 37, INCISO VIII, DA CONSTITUIÇÃO FEDERAL. ART. 5º, §2º DA LEI N. 8.112/90. ART. 37, 2º DO DECRETO N. 3298/99.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, XXXV, 37, II, VIII, e 93, IX, da Constituição da República.
+    O Tribunal a quo negou seguimento ao apelo derradeiro, por não explicitar objetivamente em que consiste a contrariedade a dispositivo constitucional, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+    É o Relatório. DECIDO.
+    Não merece prosperar o presente agravo.
+    O acórdão recorrido mostra-se em consonância com a jurisprudência desta Corte, no sentido de que o percentual de vagas destinadas a portadores de deficiência deve ater-se aos limites estabelecidos em lei, de acordo com a quantia de vagas disponibilizadas no caso concreto, não sendo viável o arredondamento na hipótese de majoração das porcentagens mínima e máxima previstas. Nesse sentido, RE 227.299, Rel. Min. Ilmar Galvão, DJe 14/6/2000 e RE 440.988-AgR, Min. Rel. Dias Toffoli, DJe de 30/3/2012, assim ementado:
+    “Agravo regimental no recurso extraordinário. Concurso público. Reserva de vagas para portadores de deficiência. Arredondamento do coeficiente fracionário para o primeiro número inteiro subsequente. Impossibilidade. Precedentes. 1. A jurisprudência desta Corte fixou entendimento no sentido de que a reserva de vagas para portadores de deficiência deve ater-se aos limites da lei, na medida da viabilidade das vagas oferecidas, não sendo possível seu arredondamento no caso de majoração das porcentagens mínima e máxima previstas. 2. Agravo regimental não provido. ”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de outubro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
