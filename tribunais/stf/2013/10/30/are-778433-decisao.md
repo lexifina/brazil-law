@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “Agravo de instrumento - Lesão grave ou de difícil reparação ausentes - Falta de explicitação do periculum in mora no recurso - Decisão impugnada, ademais, escorada em comunicado da lavra do Conselho Superior da Magistratura - Agravo improvido” (fl. 110).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LV, da mesma Carta.
+    A pretensão recursal não merece acolhida. Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AO ART. 5º, LV, DA CONSTITUIÇÃO FEDERAL. NULIDADE DA INTIMAÇÃO. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. AS RAZÕES DO AGRAVO REGIMENTAL NÃO SÃO APTAS A INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. ACÓRDÃO RECORRIDO PUBLICADO EM 13.9.2011. O exame da alegada ofensa ao art. 5º, LV, da Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Agravo regimental conhecido e não provido” (ARE 707.016-AgR/CE, Rel. Min. Rosa Weber, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E PROCESSUAL CIVIL. PROCEDIMENTO ADMINISTRATIVO. VALIDADE DA INTIMAÇÃO. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 733.906-AgR/PR, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 30 de outubro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
