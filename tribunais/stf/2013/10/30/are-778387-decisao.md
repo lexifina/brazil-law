@@ -1,0 +1,10 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o ARE 758.166-AgR/AP, Rel. Min. CÁRMEN LÚCIA, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora agravante:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. 1. Inexistência de direito adquirido a regime jurídico. Precedentes. 2. Alegada redução de vencimentos. Reexame de fatos e provas. Súmula n. 279 do Supremo Tribunal Federal. 3. Inviabilidade do recurso extraordinário interposto com fundamento na alínea c do inc. III do art. 102 da Constituição da República. 4. Agravo regimental ao qual se nega provimento.”
+    Cumpre destacar, por oportuno, no tema ora em exame, ante a inquestionável procedência de suas observações, a decisão proferida pela eminente Ministra CÁRMEN LÚCIA (AI 763.899/SP), no sentido de que “A questão relativa à preservação do valor nominal da remuneração, por outro lado, foi julgada pelo Tribunal de origem em conformidade com os elementos probatórios constantes nos autos. Assim, para se concluir de forma diversa, seria necessário o reexame de tudo quanto posto e apreciado nas instâncias originárias, procedimento incompatível com a natureza do recurso extraordinário. Incide, na espécie, a Súmula 279 do Supremo Tribunal Federal”.
+    O exame da causa em que interposto o recurso extraordinário em questão evidencia que o acórdão impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 30 de outubro de 2013.
+Ministro CELSO DE MELLO
+Relator
