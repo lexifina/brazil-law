@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Declaratória de desoneração de hipoteca. Imóvel quitado. Procedência. Apelação. Legitimidade passiva configurada. Omissão do banco. Débito a ser pleiteado junto à construtora. Penhora obstada. Lei 8.009/90. Precedentes jurisprudenciais. Honorários advocatícios. Majoração. Recurso do autor provido e desprovido o do réu, com observação.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que, “quanto à alegada vulneração ao dispositivo arrolado, observe-se não ter sido demonstrada sua ocorrência, eis que as exigências constitucionais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão ao declinar as premissas nas quais assentada a decisão”.
+    O recurso extraordinário não pode ser conhecido, tendo em vista que, no tocante à alegada violação ao art. 5º, XXXVI, da Constituição, a questão só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. No presente recurso, a parte recorrente não cogita de retroação de lei superveniente, limita-se a questionar alegado erro no enquadramento do caso à legislação infraconstitucional pertinente, procedimento inviável em sede de recurso extraordinário.
+    Confiram-se os seguintes julgados deste Tribunal, em que se discute reconhecimento de eficácia de hipoteca constituída em favor de instituição financeira: ARE 725.063, Rel.ª Min.ª Cármen Lúcia, o AI 793.206, Rel. Min. Luiz Fu, o AI 793.143, Rel. Min. Ricardo Lewandowski, o AI 426.381-AgR, Rel. Min. Joaquim Barbosa, e a ementa do RE 354.257-AgR, julgado sob a relatoria do Ministro Ilmar Galvão:
+    “DIREITO CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. INCORPORAÇÃO E CONSTRUÇÃO DE PRÉDIO RESIDENCIAL MEDIANTE FINANCIAMENTO GARANTIDO POR HIPOTECA. ACÓRDÃO QUE CONSIDEROU AS RESPECTIVAS UNIDADES HABITACIONAIS IMUNES AOS EFEITOS DA GARANTIA, EM FACE DO DISPOSTO NAS LEIS N.°S 8.009/90 E 4.864/64 E DO PRINCÍPIO DA BOA-FÉ. ALEGADA OFENSA AOS PRINCÍPIOS DA LEGALIDADE E DO ATO JURÍDICO PERFEITO.
+    O recurso, pela alegação de ofensa ao princípio da legalidade, seria de ser provido, em face do último fundamento do acórdão que, no ponto, estaria a impor ao credor hipotecário obrigação não prevista em lei, ou seja, a de abster-se de exercitar o direito de seqüela que constitui o principal atributo da hipoteca.
+    Irresignação, todavia, insuscetível de ser apreciada, quanto ao mais, pelo STF, na via do recurso extraordinário, tendo em vista não apenas o óbice da Súmula 454, mas também a circunstância de que eventual contrariedade à Constituição teria ocorrido, no caso, de forma reflexa e indireta, não ensejando o apelo extremo.
+    Recurso não conhecido.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 30 de outubro de 2013.
+Ministro Luís Roberto Barroso
+Relator
