@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de liminar, contra decisão proferida pelo Juízo da Vara Federal Criminal de Joinville/SC, nos autos da ação penal 500328890.2013.404.7201, que teria desrespeitado a orientação jurisprudencial desta Corte firmada nos autos dos habeas corpus 84078, 98217, 83868, entre outros.
+    A reclamante alega, em síntese, que “a execução provisória da pena, ausente a justificativa da segregação cautelar, fere o princípio da presunção de inocência”.
+    2. Segundo a jurisprudência da Corte, não se admite reclamação constitucional fundada em suposto desrespeito a autoridade de súmulas e decisões, proferidas pelo STF, destituídas de eficácia vinculante. Nesse sentido:
+    “(...) Não cabe reclamação quando utilizada com o objetivo de fazer prevalecer a jurisprudência desta Suprema Corte, em situações nas quais os julgamentos do Supremo Tribunal Federal não se revistam de eficácia vinculante, exceto se se tratar de decisão que o STF tenha proferido em processo subjetivo no qual haja intervindo, como sujeito processual, a própria parte reclamante. - O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. - A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, “l”, da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedentes” (Rcl 4.381-AgR, Rel. Min. Celso de Mello, Pleno, DJe de 05/08/2011).
+    3. Com essas considerações, nego seguimento ao pedido (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 30 de outubro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
