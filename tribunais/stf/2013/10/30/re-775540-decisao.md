@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA – ISSQN. DEDUÇÃO DA BASE DE CÁLCULO DOS VALORES DOS MATERIAIS UTILIZADOS NA CONSTRUÇÃO CIVIL. PRECEDENTES. RECURSO PARCIALMENTE PROVIDO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República, contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “APELAÇÃO CÍVEL. TRIBUTÁRIO. ISSQN. EMPRESA DEDICADA À ATIVIDADE DE CONCRETAGEM. PRETENSÃO DE EXCLUIR, DA BASE DE CÁLCULO DO ISSQN, O VALOR DOS MATERIAIS UTILIZADOS NA PRESTAÇÃO DO SERVIÇO. SÚMULA 167 DO STJ. IMPOSSIBILIDADE. SENTENÇA REFORMADA PARA JULGAR IMPROCEDENTE O PEDIDO. No caso da prestação de serviços de concretagem, da base de cálculo do ISSQN não deve ser deduzido o valor dos materiais de construção utilizados pela prestadora de serviço, porque esses materiais e insumos fazem parte da própria essência do serviço. O simples fato de o concreto ser preparado no trajeto até a obra, em betoneiras acopladas a caminhões, não elide a incidência do ISSQN” (fl. 188).
+    Os embargos de declaração opostos foram acolhidos para esclarecimentos, sem efeitos modificativos (fls. 218-221).
+    2. A Recorrente alega que o Tribunal de origem teria contrariado os arts. 146, inc. II e III, alínea a, e 156, inc. IV, da Constituição da República.
+    Sustenta que “a cobrança do ISS, pelo Recorrido, deve pautar-se pelo disposto no DL 406/68 e LC 116/03, já que esses dispositivos legais são taxativas em estabelecer a plena dedutibilidade do valor dos materiais fornecidos na prestação de serviços de concretagem na base de cálculo do” (fl. 234).
+    Requer seja “admitido, conhecido e provido o recurso, para o fim de, reconhecida a vulneração aos dispositivos constitucionais, ser determinada a reforma do v. acórdão recorrido, e, consequentemente, a manutenção da r. sentença de 1ª instância” (fl. 237, grifos nossos).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica assiste, em parte, à Recorrente.
+    4. Este Supremo Tribunal assentou a possibilidade de dedução dos valores referentes aos materiais empregados na construção civil da base de cálculo do Imposto Sobre Serviços - ISS. Confiram-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ISS. CONSTRUÇÃO CIVIL. BASE DE CÁLCULO. ABATIMENTO DOS MATERIAIS E SUBEMPREITADAS. POSSIBILIDADE. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o art. 9º do Decreto-Lei 406/1968 foi recepcionado pela Constituição Federal de 1988. Pelo que é possível a dedução da base de cálculo do ISS dos valores dos materiais utilizados em construção civil e das subempreitadas. 2. Agravo regimental desprovido” (RE 599.582-AgR, Relator o Ministro Ayres Britto, Segunda Turma, DJe 29.6.2011, grifos nossos).
+    “TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. DEFINIÇÃO DA BASE DE CÁLCULO. DEDUÇÃO DOS GASTOS COM MATERIAIS EMPREGADOS NA CONSTRUÇÃO CIVIL. RECEPÇÃO DO ART. 9º, § 2º, b, DO DECRETO-LEI 406/1968 PELA CONSTITUIÇÃO DE 1988. RATIFICAÇÃO DA JURISPRUDÊNCIA FIRMADA POR ESTA CORTE. EXISTÊNCIA DE REPERCUSSÃO GERAL” (RE 603.497-RG, Relatora a Ministra Ellen Gracie, Plenário Virtual, DJe 7.5.2010, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS – ISS. MATERIAIS EMPREGADOS NA CONSTRUÇÃO CIVIL. DEDUÇÃO DA BASE DE CÁLCULO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 757.079-AgR, de minha relatoria, Segunda Turma, DJe 28.10.2013).
+    Dessa orientação jurisprudencial divergiu, em parte, o acórdão recorrido.
+    5. Nesta via recursal extraordinária apenas se reconhece a possibilidade de dedução dos valores referentes aos materiais empregados na construção civil da base de cálculo do Imposto Sobre Serviços. Pela sentença, o Juízo da 1ª Vara Cível da Comarca de Cataguases/MG declarou a inexistência de relação jurídica tributária válida entre as partes, condenou o Município a restituir os valores recebidos e declarou correta a emissão dos documentos fiscais e contábeis da Recorrente.
+    6. Pelo exposto, dou parcial provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), para cassar o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem para que decida como direito. Invertidos, neste ponto, os ônus da sucumbência.
+    Publique-se.
+    Brasília, 30 de outubro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
