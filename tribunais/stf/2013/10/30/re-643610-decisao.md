@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário contra acórdão assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI DISTRITAL N.º 4.257, DE 2.12.2008. ART. 28 E PARÁGRAFO ÚNICO. OCUPAÇÃO DE ESPAÇOS PÚBLICOS. QUIOSQUES E TRAILERS. DISPENSA DE LICITAÇÃO AOS QUE JÁ OCUPAVAM E FORAM REMOVIDOS. VÍCIO DE INCONSTITUCIONALIDADE MATERIAL. PROCEDÊNCIA. RELEVANTE INTERESSE SOCIAL. MODULAÇÃO DOS EFEITOS.
+    1. O parágrafo único do artigo 28 da Lei Distrital nº 4.257, de 2 de dezembro de 2008, vola a Lei Orgânica do Distrito Federal e os princípios constitucionais da legalidade, da isonomia, da impessoalidade, da moralidade, da razoabilidade, da motivação e do interesse público.
+    2. O dispositivo apontado ao assegurar, sem licitação, aos antigos ocupantes de espaços públicos que já exerciam as atividades e foram removidos,o direito a novas áreas em condições semelhantes àquelas objeto da remoção encerra vício de inconstitucionalidade material.
+    3. Deve ser considerado o relevante interesse social que a questão encerra, uma vez que o dispositivo legal em comento assegura àqueles que já ocupam as áreas por longos anos, a permanecer no exercício da atividade econômica da qual retiram o seu lucro e, quiçá, sua própria subsistência.
+    4. Hipótese que enseja a aplicação da técnica da modulação dos efeitos da declaração de inconstitucionalidade, a fim de preservar situações consolidadas, sob pena de violação ao princípio da dignidade da pessoa humana e em homenagem ao postulado da segurança jurídica.
+    5. Ação direta de inconstitucionalidade com pedido julgado procedente, com modulação dos efeitos, em relação ao art. 28 e seu parágrafo único da Lei nº 4.257/2008, com eficácia erga omnes e efeitos ex nunc” (fls. 71-72).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 175 da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque, o acórdão recorrido apreciou a questão com base em normas de direito local (Lei Orgânica do Distrito Federal e Lei Distrital 4.257/2008). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. A afronta à Constituição, se ocorrente, seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PERMISSÃO DE USO DE ESPAÇO PÚBLICO. CASSAÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+    1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. A controvérsia foi decidida com fundamento na legislação local, incidência da Súmula n. 280 deste Tribunal. 3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 766.514-AgR/SP, Rel. Min. Eros Grau).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PERMISSÃO PARA USO DE ESPAÇO PÚBLICO. CONFLITO ENTRE NORMAS LOCAIS. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO” (ARE 724.748-AgR/MG, Rel. Min. Cármen Lúcia).
+    Isso posto, nego seguimento ao recurso ( CPC, art. 557, caput)
+    Publique-se.
+    Brasília, 30 de outubro de 2013.
+Ministro Ricardo Lewandowski
+- Relator -
