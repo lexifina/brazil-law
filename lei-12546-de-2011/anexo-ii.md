@@ -12,10 +12,9 @@ Comércio varejista de livros, jornais, revistas e papelaria, enquadrado na Clas
 Comércio varejista de discos, CDs, DVDs e fitas, enquadrado na Classe CNAE 4762-8
 Comércio varejista de brinquedos e artigos recreativos, enquadrado na Subclasse CNAE 4763-6/01
 Comércio varejista de artigos esportivos, enquadrado na Subclasse CNAE 4763-6/02
-Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas, enquadrado na Subclasse CNAE 4771-7/01
 Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal, enquadrado na Classe CNAE 4772-5
 Comércio varejista de artigos do vestuário e acessórios, enquadrado na Classe CNAE 4781-4
 Comércio varejista de calçados e artigos de viagem, enquadrado na Classe CNAE 4782-2
 Comércio varejista de produtos saneantes domissanitários, enquadrado na Subclasse CNAE 4789-0/05
 Comércio varejista de artigos fotográficos e para filmagem, enquadrado na Subclasse CNAE 4789-0/08
-Observação: As Classes e Subclasses CNAE referidas neste Anexos correspondem àquelas relacionadas na Classificação Nacional de Atividades Econômicas - CNAE 2.0.
+Observação: As Classes e Subclasses CNAE referidas neste Anexo correspondem àquelas relacionadas na Classificação Nacional de Atividades Econômicas - CNAE 2.0.
