@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de mandado de segurança, com pedido liminar, em que se questiona a aplicação de penalidade pelo Tribunal de Contas da União, consistente na declaração de inidoneidade da impetrante para participar de licitações na Administração Pública Federal por seis meses.
+    Sustenta que, por equívoco de uma ex-funcionária, apresentou declaração inverídica de que atendia aos requisitos previstos na LC nº 123/06, a fim de usufruir do tratamento diferenciado reservado a empresas de micro e pequeno porte. Afirma não ter havido dolo ou má-fé, e que o pequeno proveito auferido (R$ 7.250,00) não justificaria a conduta por parte de uma empresa que trabalha há 15 (quinze) anos quase exclusivamente com licitações. Defende que, em caso semelhante, o TCU limitou-se a advertir o infrator, reservando a aplicação da pena de inidoneidade para licitar a casos de futura e eventual reincidência. Deste modo, a sanção aplicada à impetrante seria desproporcional.
+    Por fim, embora tenha interposto recurso com efeito suspensivo, alega que a penalidade estaria, de fato, produzindo efeitos.
+    É o relatório. Decido.
+    Prevê o art. 5º, I, da Lei nº 12.016/09: “Não se concederá mandado de segurança quando se tratar: I - de ato do qual caiba recurso administrativo com efeito suspensivo, independentemente de caução”.
+    Este é precisamente o caso dos autos, pois a impetrante alega e comprova ter interposto recurso denominado “pedido de reexame”, que, nos termos do art. 48 da Lei nº 8.443/92, é dotado de efeito suspensivo.
+    Embora a impetrante alegue que o ato impugnado estaria, de fato, produzindo efeitos, em razão da suposta existência de anotação no SICAF, os documentos anexados à inicial provam o contrário. Isto porque o TCU, depois de informar ao Ministério do Planejamento que o recurso foi recebido com efeito suspensivo, recebeu a resposta de que “a Secretaria de Logística e Tecnologia da Informação retirou a ocorrência do Sistema de Cadastramento Unificado de Fornecedores – SICAF, em 10/09/2013” (doc. 09). Não há provas pré-constituídas em sentido diverso.
+    Assim, a hipótese é de aplicação da jurisprudência tranquila do Tribunal quanto à incidência do art. 5º, I, da Lei nº 12.016/09:
+    “AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. 1. IMPETRAÇÃO CONTRA ACÓRDÃO DO TRIBUNAL DE CONTAS DA UNIÃO COM EFEITOS SUSPENSOS. FALTA DE INTERESSE DE AGIR: ART. 5º, INC. I, DA LEI N. 12.016/2009. 2. POSSIBILIDADE DE O RELATOR NEGAR SEGUIMENTO A MANDADO DE SEGURANÇA QUANDO A MATÉRIA FOR OBJETO DE JURISPRUDÊNCIA CONSOLIDADA DO SUPREMO TRIBUNAL FEDERAL OU A AÇÃO FOR DE IMPROCEDÊNCIA MANIFESTA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (MS 28855, Rel. Min. Cármen Lúcia)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao pedido. Publique-se.
+    Brasília, 04 de novembro de 2013.
+Ministro LUÍS ROBERTO BARROSO
+Relator
