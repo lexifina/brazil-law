@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita, no que importa:
+    “APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO.
+    (...)” (pág. 75 do vol. 6).
+    No RE (), fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 5º, II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o dispositivo constitucional apontado como violado não foi prequestionado. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, confira-se o seguinte julgado:
+    “TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CONTRIBUIÇÕES SOCIAIS. EMPRESÁRIOS. AUTÔNOMOS E AVULSOS. LC 84/96. CONSTITUCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - A Contribuição social instituída pela Lei Complementar n. 84/96 teve sua constitucionalidade declarada pelo Plenário do STF, no julgamento do RE 228.321/RS. III - As razões do recurso não infirmam o fundamento da decisão agravada, o que atrai a incidência da Súmula 287 do STF. IV - Recurso protelatório. Aplicação de multa. V - Agravo regimental improvido” (AI 700.144-AgR/RJ, de minha relatoria – grifos meus).
+    Ainda que superado tal óbice, melhor sorte não ocorreria ao agravante. Este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando o exame da ofensa envolva a reanálise de interpretação dada à norma infraconstitucional pelo juízo a quo (Súmula 636 do STF). Cito, a propósito, as seguintes decisões, entre outras: AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de novembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
