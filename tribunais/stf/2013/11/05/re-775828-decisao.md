@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO EXTEMPORÂNEO: INTERPOSIÇÃO ANTERIOR À PUBLICAÇÃO DO ACÓRDÃO DOS EMBARGOS. AUSÊNCIA DE RATIFICAÇÃO POSTERIOR. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recursos extraordinários interpostos com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Piauí:
+    “AMBIENTAL. PROCESSO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCEDIMENTO ADMINISTRATIVO PARA LICENCIAMENTO AMBIENTAL. AUDIÊNCIA PÚBLICA E LICENÇA PRÉVIA. REALIZAÇÃO. NECESSIDADE DE REUNIÃO DE DOCUMENTOS EXIGIDOS EM LEI PARA SEGUIMENTO NO PROCEDIMENTO. 1. Licença Prévia é a referente à fase preliminar do planejamento do empreendimento e contém os requisitos básicos a serem atendidos nas fases de localização, instalação e operação, observados os planos municipais, estaduais ou federais de utilização do solo. 2. A Licença Prévia apenas serve para apreciar características pertinentes á localização do Aterro Sanitário. Totalmente diferente da Licença de Instalação e da Licença de Operação. E a realização da Audiência Pública e a concessão de eficácia à Licença Prévia não ensejaram prejuízos ao meio ambiente. 3. Realização da Audiência Pública e Licença Prévia com a apresentação dos documentos especialmente EIA/RIMA para permitir melhor análise mais apurada dos impactos. 4. Agravo Regimental provido. contribuição. EMBARGOS PARCIALMENTE ACOLHIDOS”.
+    2.  O Recorrente afirma que o Tribunal de origem teria contrariado os arts. 5º, inc. LIV e LV, e 225, caput, , § 1º, inc. IV, e § 4º, da Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. O Recuso Extraordinário foi interposto em 9.8.2012, antes do julgamento dos embargos de declaração (DJ 3.10.2012), sem ratificação posterior. Assim, o recurso extraordinário é extemporâneo:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. INTEMPESTIVIDADE. O recurso extraordinário é intempestivo, porquanto interposto antes da publicação do acórdão prolatado nos embargos de declaração, sem que se tenha notícia nos autos de sua posterior ratificação. O entendimento desta Corte é no sentido de que o prazo para interposição de recurso se inicia com a publicação, no órgão oficial, do acórdão que julgou os embargos declaratórios. Agravo regimental a que se nega provimento”(AI 697.840-ED, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 30.3.2011).
+    “Recurso extraordinário. Interposição extemporânea. Ausência de ratificação. Posterior oposição de embargos declaratórios contra a decisão recorrida. Precedentes do Plenário. 1. A decisão recorrida está em consonância com a jurisprudência do Plenário desta Corte (RE 346.566/RJ-AgR-AgR-EDv-AgR), no sentido de ser extemporâneo o recurso interposto antes da publicação do julgado recorrido não ratificado posteriormente no novo prazo recursal. 2. Agravo regimental não provido (RE 461.505-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 10.5.2011).
+    5. Pelo exposto, nego seguimento ao recurso (art. 557, § 1º, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
