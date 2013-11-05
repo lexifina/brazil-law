@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1407, de 4 de novembro de 2013
+Altera a Instrução Normativa SRF nº 28, de 27 de abril de 1994, que disciplina o despacho aduaneiro de mercadorias destinadas à exportação.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no parágrafo único do art. 588, no parágrafo único do art. 589 e nos arts. 595 e 596 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
