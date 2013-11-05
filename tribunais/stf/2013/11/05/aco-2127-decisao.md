@@ -1,0 +1,15 @@
+Trata-se de ação ordinária, com pedido de tutela antecipada, ajuizada pelo Estado de Roraima na 1ª instância da Justiça Federal com o fim de que a União, após a invalidação de inscrições realizadas no Sistema CAUC, seja compelida a dar a anuência necessária à transferência de recursos, no valor de R$ 365.496.000,00 (trezentos e sessenta e cinco milhões quatrocentos e noventa e seis mil reais), provenientes da celebração, com o Banco do Brasil, de contrato de financiamento mediante abertura de crédito ligado ao Programa de Apoio ao Investimento dos Estados e do Distrito Federal – PROINVESTE.
+    A juíza federal plantonista da Seção Judiciária do Distrito Federal deferiu, em 28/12/2012, o pedido de antecipação de tutela formulado “para determinar à parte ré que proceda imediata anuência ao Contrato de Financiamento em referência, adotando todas as providências necessárias à transferência dos recursos ao Autor” (fls. 82-84).
+    Em seguida, os autos foram distribuídos ao Juízo da 2ª Vara Federal da referida Seção Judiciária, que, em 14/1/2013, com fundamento no art. 102, I, f, da Constituição Federal, revogou a decisão liminar anteriormente concedida, declinou da competência e remeteu os autos ao Supremo Tribunal Federal (fls. 91-92).
+    Os autos foram recebidos nesta Corte em 25/3/2013 e a mim distribuídos e conclusos em 26/3/2013 (fl. 95).
+    Em 2/4/2013, determinei a intimação do autor para que se manifestasse quanto ao interesse na continuidade deste processo, oportunidade em que deveria trazer informações atualizadas sobre a situação fática narrada na peça inicial, em especial sobre a efetiva realização ou não da transferência de recursos especificamente almejada nesta ação ordinária.
+    No entanto, a parte autora manteve-se inerte, conforme certidão de fl. 102.
+    É o relatório necessário.
+    Tendo em vista que a tutela antecipada concedida pela Justiça Federal de 1º Grau em período de plantão subsistiu por quase vinte dias, até ser revogada pela decisão de 14/1/2013 - contra a qual, inclusive, o Estado de Roraima peticionou nos autos declarando expressamente que não interporia recurso (fl. 94) -, e diante da inércia referida acima, entendo ausente o interesse do requerente no prosseguimento do feito.
+    Nesse sentido, percebe-se pela postura processual da parte que o caráter satisfativo da tutela anteriormente concedida e o decurso do tempo fizeram desaparecer o interesse de agir na modalidade necessidade, tudo a recomendar a extinção prematura do feito.
+    Isso posto, julgo extinto o feito, sem análise de mérito, ante a carência da ação decorrente da ausência do interesse processual na modalidade necessidade, nos exatos termos disciplinados pelo art. 267, VI, do Código de Processo Civil.
+    Sem condenação do requerente a custas e honorários advocatícios, tendo em vista a natureza terminativa do julgado e a fase precoce em que o feito se encontra.
+    Publique-se. Intime-se.
+    Brasília, 5 de novembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
