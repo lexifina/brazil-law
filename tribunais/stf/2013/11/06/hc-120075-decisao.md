@@ -1,0 +1,66 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL. PROCESSO PENAL. LIMINAR EM HABEAS CORPUS NEGADA NO SUPERIOR TRIBUNAL DE JUSTIÇA. PEDIDO DE RECONSIDERAÇÃO INDEFERIDO: SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. FUNDAMENTOS DE MÉRITO NÃO ANALISADOS NA INSTÂNCIA PRECEDENTE. INVIABILIDADE JURÍDICA. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por André Luiz de Medeiros Justo, advogado, em favor de William Fernandes Cirilo, contra decisão do Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça, que, em 18.10.2013, indeferiu pedido de reconsideração no Recurso em Habeas Corpus n. 40.171.
+    2. Narra-se na inicial:
+    “Nos autos de processo-crime, em trâmite perante a Vara Criminal da Comarca de Nísia Floresta/RN, o paciente está sendo processado, sob a imputação de ter cometido o crime de furto, por duas vezes.
+    Segundo consta dos autos, na data de 10 de agosto de 2012, o paciente juntamente com as pessoas de FABIO AUGUSTO TEIXEIRA FURTADO SILVA e MATHEUS SILVA DOS SANTOS, teria sido autuado em flagrante delito como incurso no crime previsto no art. 155, § 4°, I e IV, do CP.
+    Sua prisão em flagrante foi convertida em preventiva, por entender a MM Juíza Plantonista estarem presentes os requisitos da prisão preventiva, momento em que concedeu a liberdade provisória ao co-réu Matheus Silva dos Santos.
+    Oferecida à denúncia no dia 29 de agosto de 2012, foi recepcionada na data de 06 de setembro de 2012.
+    Após as citações, foram apresentadas as respectivas defesas prévias, momento em que foi designada audiência de instrução e julgamento para o dia 23 de janeiro de 2013, não sendo possível conclui-la pelo fato de ser necessário a expedição de cartas precatórias para a oitiva de testemunhas arroladas na inicial acusatória.
+    Diante disso, no termo de audiência, foi reiterado pedido de revogação da prisão preventiva e relaxamento de prisão por excesso de prazo.
+    Somente no dia 23 de abril de 2013 o MM Juiz decidiu acerca do relaxamento de prisão, indeferindo o pleito por entender que o excesso de prazo era justificado, bem como por encontrar-se dentro do razoável.” (Evento 2, fl. 1/2)
+    3. Impetrado habeas corpus no Tribunal de Justiça do Rio Grande do Norte, a ordem foi denegada em 28.5.2013:
+    “CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO E CONCURSO DE AGENTES (ART. 155, § 4º, I E IV, DO CP). EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INEXISTÊNCIA. FEITO COMPLEXO. NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS, SENDO UMA DELAS PARA A OITIVA DE TESTEMUNHA ARROLADA PELA DEFESA. INCIDÊNCIA, NA ESPÉCIE, DA SÚMULA Nº 64 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES DESTA CORTE. ORDEM CONHECIDA E DENEGADA.” (Evento 10, fl. 1)
+    4. Interposto contra essa decisão o Recurso em Habeas Corpus n. 40.171 no Superior Tribunal de Justiça, foi a liminar assim indeferida em 9.8.2013:
+    “Busca o recorrente a revogação da prisão cautelar imposta a ele na ação penal que lhe imputa o crime de furto triplamente qualificado, ao argumento de excesso de prazo para o término da instrução criminal.
+    A concessão de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, principalmente, como no caso, em se tratando de recurso ordinário constitucional.
+    E, em juízo de cognição sumária, afigura-se inviável acolher-se a pretensão, pois, em consulta à página eletrônica do Tribunal de Justiça do Rio Grande do Norte, obtive a informação de que a instrução criminal já foi encerrada, tendo sido determinado o encaminhamento dos autos para alegações finais da acusação.
+    Com essas considerações, não tendo, por ora, como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar ora pretendida, indefiro-a.
+    Solicitem-se informações ao Juízo de Direito da Vara Única da comarca de Nísia Floresta/RN, que deverá informar o atual andamento da ação penal, bem como se persiste a segregação cautelar imposta ao recorrente.
+    Após, ao Ministério Público Federal para parecer.
+    Publique-se.” (Evento 12, fls. 2/3)
+    5. O requerimento de reconsideração foi indeferido:
+    “Trata-se de pedido de reconsideração ajuizado por William Fernandes Cirilo, contra decisão de minha lavra, em que indeferi o pedido liminar formulado no recurso ordinário interposto em seu favor, por entender ausente constrangimento ilegal apto a justificar a tutela de urgência.
+    O requerente reitera os argumentos da impetração e alega, em síntese, estar configurado constrangimento ilegal por excesso de prazo, tendo em vista que o magistrado singular, ao proferir sentença, converteu o julgamento em diligência, designando nova audiência de instrução, apenas para o dia 20/11/2013.
+    Postula, então, a reconsideração da decisão hostilizada, a fim de que seja deferido o pedido liminar para relaxar a prisão cautelar imposta ao recorrente.
+    É o relatório.
+    Em que pese a demonstração de elemento novo, por parte do requerente, observa-se que este não é capaz de modificar meu entendimento a respeito da inexistência, por ora, de constrangimento ilegal por excesso de prazo.
+    É que da atenta análise do andamento processual constante da página eletrônica do Tribunal de Justiça do Rio Grande do Norte, não se vislumbra desídia do Judiciário na condução do feito, que conta com três denunciados e diversas circunstâncias a apurar, devendo ser observado, nesta ocasião, o princípio da razoabilidade, uma vez que os prazos processuais não são absolutos.
+    Em face do exposto, indefiro o pedido de reconsideração.
+    Encaminhe-se os autos ao Ministério Público para parecer.
+    Após, conclusos.
+    Publique-se.” (Evento 16, fls. 1/2)
+    6. Daí a presente impetração, na qual se alega configurado o excesso de prazo da prisão do Paciente:
+    “Desde a injusta prisão do Paciente, datada de 10.08.2012, até o presente momento completam-se 01 (um) ano, 02 (dois) meses e 20 (vinte) dias, sem que a instrução tenha sido concluída, haja vista que até a presente data não foram cumpridas todas as precatórias, estando o feito no aguardo das mencionadas cartas para se designar os interrogatórios dos réus.
+    Assim Excelências, tem-se que o prazo legal e regulamentar para a formalização da culpa do Paciente, há muito se extrapolou, sendo certo que encontra-se preso há mais de 400 (quatrocentos) dias, estando sofrendo, portanto, claro e inegável constrangimento ilegal desnecessário!” (Evento 2, fl. 4)
+    Sustenta o Impetrante que “o paciente em nenhum momento contribuiu para o mencionado atraso no feito, sendo que tal constrangimento ilegal ocorrido no caso em tela dera-se única e exclusivamente por culpa do poder judicante” (Evento 2, fl. 5).
+    Requer liminar para a expedição de alvará de soltura em favor do Paciente, pedindo o Impetrante ao final:
+    “Diante de todo o exposto e pelo mais que dos autos consta, aguarda-se de Vossas Excelências após as informações a serem prestadas pelo Juízo “a quo” e parecer ministerial, a manutenção da LIMINAR requerida com a concessão do “mandamus” mantendo-se a ordem no julgamento do mérito do presente “HABEAS CORPUS”, determinando o relaxamento da prisão preventiva do paciente, consequentemente expedindo-se o competente Alvará de Soltura, fazendo assim, esse Egrégio Tribunal a costumeira e tão esperada distribuição de Justiça.” (Evento 2, fl. 8)
+    Examinada a matéria posta à apreciação, DECIDO.
+    7. Os elementos fáticos e jurídicos apresentados não autorizam o prosseguimento da ação neste Supremo Tribunal.
+    8. O exame dos pedidos formulados pelo Impetrante, neste momento, traduziria supressão de instância, pois o Superior Tribunal de Justiça não apreciou o mérito da impetração.
+    9. O Supremo Tribunal não admite o conhecimento de habeas corpus, cujos fundamentos não tenham sido apreciados, de forma definitiva, pelo órgão judiciário apontado como coator, por incabível o exame per saltum do mérito da impetração, especialmente quando não se comprovam requisitos para o seu acolhimento, como o flagrante constrangimento, a manifesta ilegalidade ou o abuso de poder:
+    “Habeas corpus. Questão de ordem. Inadmissibilidade de habeas corpus em que se pretende seja concedida liminar por esta Corte substitutiva de duas denegações sucessivas dessa liminar pelos relatores de dois tribunais inferiores a ela, mas dos quais um é superior hierarquicamente ao outro.
+    A admitir-se essa sucessividade de habeas corpus, sem que o anterior tenha sido julgado definitivamente para a concessão de liminar per saltum, ter-se-ão de admitir consequências que ferem princípios processuais fundamentais, como o da hierarquia dos graus de jurisdição e o da competência deles.
+    Habeas corpus não conhecido.” (HC 76.347-QO, Relator o Ministro Moreira Alves, DJ 8.5.1998)
+    “HABEAS CORPUS. Impetração contra ato de ministro do Superior Tribunal de Justiça. Indeferimento de medida liminar em habeas corpus. Caso de legalidade aparente. Cognição que implicaria, ademais, dupla supressão de instância. Não conhecimento. Denegação ulterior de HC de corréu, pelo STJ. Irrelevância. HC indeferido. Agravo improvido. Aplicação da Súmula 691. Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere, com legalidade aparente, a liminar, sobretudo quando o conhecimento implicaria dupla supressão de instância.” (HC 86.552-AgR, Relator o Ministro Cezar Peluso, DJ 17.2.2006)
+    Também nesse sentido, a decisão da Primeira Turma do Supremo Tribunal Federal no Agravo Regimental no Habeas Corpus n. 90.209, Relator o Ministro Ricardo Lewandowski:
+    “PENAL. PROCESSO PENAL. HABEAS CORPUS. AGRAVO REGIMENTAL. NEGATIVA DE SEGUIMENTO. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+    I - A decisão atacada indeferiu liminarmente a inicial sob o fundamento da inexistência de flagrante ilegalidade da decisão proferida em sede liminar.
+    II - O não-conhecimento da matéria objeto daquela impetração impede a sua análise por esta Corte, sob pena de supressão de instância.
+    III - Agravo Regimental desprovido.” (DJ 16.3.2007 – grifos nossos)
+    10. Sem adentrar no mérito, mas apenas para afastar a possibilidade de concessão da ordem de ofício, é de se observar que, conforme a jurisprudência deste Supremo Tribunal Federal, “a demora no processamento da ação penal provocada pela complexidade e peculiaridades do feito não configura constrangimento ilegal” (HC 101.242, Relator o Ministro Ricardo Lewandowski, DJ 21.5.2010).
+    Na mesma linha, HC 89.761, Relator o Ministro Cezar Peluso, DJ 8.6.2007; HC 88.905, Relator o Ministro Gilmar Mendes, DJ 13.10.2006; HC 88.740, Relator o Ministro Cezar Peluso, DJ 1º.12.2006; HC 88.952, Relator o Ministro Ayres Britto, DJ 8.6.2007; HC 90.540, Relator o Ministro Cezar Peluso, DJ 8.6.2007; e HC 81.819, Relator o Ministro Nelson Jobim, DJ 14.2.2003.
+    11. No caso, o processo envolve três réus, que teriam praticado, em concurso de pessoas, dois crimes de furto qualificado (Evento 3).
+    Conforme consignado no acórdão proferido pelo Tribunal de Justiça do Rio Grande do Norte, houve necessidade, durante a instrução do feito, de expedição de cartas precatórias, sendo uma delas destinada a inquirição de testemunha arrolada pela defesa (Evento 10).
+    Daí se infere aparente complexidade da ação penal a que o Paciente responde, justificando eventual demora em seu trâmite.
+    12. Não se verifica, de plano, no caso, ilegalidade ou abuso de poder, não se tendo demonstrado desídia do juízo de 1ª instância quanto à tramitação da ação penal na qual o Paciente figura como réu.
+    13. Em situação como a descrita nos autos, o sistema jurídico impõe o prosseguimento da ação em instância própria, para que, pelos elementos apresentados, delibere o Superior Tribunal de Justiça com segurança quanto aos pedidos formulados pela defesa, pronunciando-se, na forma legal, quanto ao mérito do habeas corpus lá impetrado.
+    14. As circunstâncias expostas e os documentos juntados demonstram ser necessária especial cautela na análise do caso, não se podendo suprimir a instância antecedente, porque a decisão impetrada não exaure o quanto posto a exame no Superior Tribunal de Justiça, estando a ação em curso a aguardar julgamento definitivo.
+    15. Aplicável, aqui, a jurisprudência do Supremo Tribunal Federal, que, como antes demonstrado, não admite o conhecimento de habeas corpus, por incabível o exame per saltum de fundamentos não apreciados pelo órgão judiciário apontado como coator, máxime em se cuidando de casos como o presente, no qual não se comprovam os requisitos para o seu acolhimento, como o flagrante constrangimento e a manifesta ilegalidade ou abuso de poder.
+    16. Pelo exposto, sob pena de supressão de instância e afronta às regras constitucionais e legais de competência, nego seguimento ao presente habeas corpus (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
