@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 17, de 4 de novembro de 2013
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: FABRICANTE DE TRATORES E COLHEITADEIRAS AGRÍCOLAS. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. INAPLICABILIDADE. À empresa fabricante de tratores e colheitadeiras agrícolas autopropelidos não se aplica a contribuição previdenciária sobre a receita bruta, em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei no 8.212, de 24 de julho de 1991. DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, art. 8º, §1º, inciso II, alínea “b”; Decreto nº 7.828, de 2012.
+[arquivo anexo: SC Cosit 17-2013.pdf]
