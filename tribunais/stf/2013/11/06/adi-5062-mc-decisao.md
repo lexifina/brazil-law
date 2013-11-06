@@ -1,0 +1,8 @@
+Despacho: Cuida-se de Ação Direta de Inconstitucionalidade, com pedido de medida cautelar, proposta pela Associação Brasileira de Música e Artes – ABRAMUS, pela Associação de Músicos, Arranjadores e Regente AMAR – SOMBRÁS – Sociedade Musical Brasileira, pela Associação de Intérpretes e Músicos – ASSIM, pela Sociedade Brasileira de Autores, Compositores e Escritores de Música – SBACEM, pela Sociedade Independente de Compositores e Autores Musicais – SICAM, pela Sociedade Brasileira de Administração e Proteção de Direitos Intelectuais – SOCINPRO, e pelo Escritório Central de Arrecadação e Distribuição – ECAD, objetivando a declaração de inconstitucionalidade do disposto na Lei Federal nº 12.853/2013, que alterou os artigos 5º, 68, 97, 98, 99 e 100, acrescentou os artigos 98-A, 98-B, 98-C, 99-A, 99-B, 100-A, 100-B e 109-A e revogou o artigo 94, todos da da Lei nº 9.610, de 19 de fevereiro de 1998, que dispõe sobre a gestão coletiva de direitos autorais.
+    A hipótese reveste-se de indiscutível relevância. Entendo deva ser aplicado o preceito veiculado pelo artigo 12 da Lei n. 9.868, de 10 de novembro de 1999, a fim de que a decisão venha a ser tomada em caráter definitivo e não nesta fase de análise cautelar.
+    Colham-se informações das autoridades requeridas, no prazo máximo de 10 [dez] dias. Imediatamente, após este prazo, dê-se vista ao Advogado-Geral da União e ao Procurador-Geral da República, sucessivamente, no prazo de 5 [cinco] dias, para que cada qual se manifeste na forma da legislação vigente.
+    Publique-se.
+    Brasília, 6 de novembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
