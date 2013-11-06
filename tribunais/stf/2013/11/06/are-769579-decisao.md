@@ -1,0 +1,16 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 4ª Região em demanda visando ao reconhecimento de danos materiais e morais oriundos de ação policial.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa ao artigo 37, §6º, da Constituição, asseverando, em síntese, a ocorrência do dano moral causado pelos policiais militares durante a abordagem, que resultou na perseguição e tiros disparados contra os autores, além de reiterar a ocorrência de responsabilização objetiva do Estado.
+    2. O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto nos artigos 102, § 3º, da CF e 543-A, § 2º, do CPC, alegações genéricas a respeito do instituto, como a mera afirmação de que: (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação de dispositivo constitucional; ou, ainda, (e) a existência de jurisprudência pacífica desta Corte quanto ao tema discutido. Nesse sentido: ARE 691.595 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/02/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14.2.2013; ARE 696.263-AgR/MG, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19.02.2013; AI 717.821 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/08/2012.
+    Ora, no caso, a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nesses moldes exigidos pela jurisprudência do STF.
+    3. Ademais, o acórdão recorrido, analisando os fatos e provas contidos nos autos, está sintetizado na seguinte ementa:
+    RESPONSABILIDADE CIVIL. PERSEGUIÇÃO POLICIAL. DISPAROS DE ARMA DE FOGO CONTRA OS PNEUS DO VEÍCULO. RESPONSABILIDADE OBJETIVA. ART. 37, PAR. 6 DA CF/88. AUSÊNCIA DE COMPROVAÇÃO DE ABUSO DE PODER.
+    Inexiste dever de indenizar quando não demonstrada a conduta ilegal da administração na perseguição policial. Hipótese em que restou demonstrado que os autores, ao serem abordados, empreenderam fuga, o que justifica os disparos contra os pneus do veículo.
+    Apelação desprovida.
+    Assim, refutar as conclusões do aresto impugnado, concluindo-se pela ocorrência dos danos morais pleiteados, demanda a reapreciação do conjunto fático-probatório dos autos, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a Súmula 279 do STF.
+    4. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 06 de novembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
