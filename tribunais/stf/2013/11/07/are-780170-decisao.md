@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA. CÁLCULO DE LIQUIDAÇÃO. DEFLAÇÃO. APLICAÇÃO DE ÍNDICES DE CORREÇÃO MONETÁRIA NEGATIVOS.
+          É devida a incidência de índices de correção monetária negativos (deflação) na apuração de débito judicial, porque a desconsideração de tais percentuais significaria a reposição do valor da moeda em patamar superior ao devido, implicando enriquecimento injustificado do credor. Com efeito, sendo a correção monetária mero instrumento de recomposição do poder aquisitivo da moeda em face do fenômeno inflacionário, os percentuais negativos devem ser computados na variação global do indexador a ser adotado, sem que isso importe em ofensa aos princípios constitucionais da irredutibilidade e da preservação do valor real dos benefícios, garantias de conteúdo jurídico, e não econômico” (pág. 18 do vol. 2).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 194, IV, e 201, § 4º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    A jurisprudência desta Corte firmou-se no sentido de que a questão referente aos critérios de atualização monetária do débito judicial possui natureza infraconstitucional. Desse modo, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “Agravo regimental em agravo de instrumento. 2. Discussão acerca de índice de atualização de débito judicial. Deflação. Matéria infraconstitucional. Ofensa reflexa ao texto constitucional. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento” (AI 857.551-AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma).
+    “Agravo regimental no recurso extraordinário. Previdenciário. Execução. Atualização do débito. Índices de correção monetária. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. A orientação adotada nesta Corte é a de que, embora o segurado tenha direito ao reajuste dos benefícios, esse se dará nos moldes e critérios previstos em lei, que definirá, inclusive, os índices de correção monetária aplicáveis e os períodos de sua incidência. 2. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional e a análise de ofensa reflexa à Constituição Federal. Incidência da Súmula nº 636/STF. 3. Agravo regimental não provido” (RE 607.686-AgR/RS, Rel. Min. Dias Toffoli, Primeira Turma).
+    Indico, ainda, os seguintes julgados proferidos em casos análogos: ARE 681.596-AgR/PE, Rel. Min. Marco Aurélio; ARE 768.738/RS, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 7 de novembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
