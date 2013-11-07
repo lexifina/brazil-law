@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo de instrumento interposto contra a decisão que não admitiu recurso extraordinário interposto contra acórdão do Órgão Especial do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Mandado de segurança. Ato administrativo. Impetração visando ao restabelecimento de gratificação incorporada, no valor de R$ 961,35, suprimida com base na L.C. N° 1.026/2007, que instituiu o ‘Plano de Cargos, Carreiras e Vencimentos dos Servidores do Tribunal de Contas do Estado de São Paulo’. Ilegitimidade passiva do Diretor Geral de Administração reconhecida, prosseguindo com o Presidente do Tribunal. Liquidez e certeza do direito invocado. Verba incorporada ao patrimônio remuneratório da impetrante e ilegalmente subtraída, porquanto não absorvida pelo plano de estruturação de cargos e salários. Restabelecimento ordenado, com pagamento das parcelas vencidas antes e depois da impetração, mais correção monetária e juros de mora. Ordem concedida” (fl. 56).
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso XXXVI, 7º, inciso VI, e 37 da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os artigos 7º, inciso VI, e 37 da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos declaratórios para sanar eventual omissão no acórdão atacado.
+    Ademais, o Tribunal de origem limitou-se à interpretação e aplicação da Lei Complementar n. 1.026/07 do Estado de São Paulo e concluiu que a gratificação incorporada não foi absorvida pelo salário base da recorrida. Essa circunstância atrai a incidência da Súmula 280 do Supremo Tribunal Federal e não enseja o recurso extraordinário. Sobre o tema:
+    “CONSTITUCIONAL. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. II - Agravo regimental improvido” (AI n° 710.491/MG-AgR, Primeira turma, Relator o Ministro Ricardo Lewandowski, DJe de 17/4/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 594.028/RS-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 27/2/09)
+    No mesmo sentido dessa decisão, destacam-se: RE nº 631.768./SP, Relator o Ministro Ayres Britto, DJe de 10/10/11; AI nº 788.405/SP, Relatora a Ministra Cármen Lúcia, DJe de 22/11/10; e RE nº 631.373/SP, Relator o Ministro Joaquim Barbosa, DJe de 5/3/12.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 7 de novembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
