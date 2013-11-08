@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DIFERENÇAS SALARIAIS. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “SERVIDOR PÚBLICO MUNICIPAL Diferenças salariais - JPC de março de 1990 - Lei Municipal nº 5.695/90 e Lei Complementar Municipal nº 1.636/04 - Autor que ingressou no serviço público após março de 1990 - Sentença de parcial procedência reformada para julgar improcedente a ação - Recurso da ré e reexame necessário providos- Recurso adesivo do autor, que pleiteava a majoração dos honorários advocatícios, prejudicado em razão da inversão do julgado”.
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, caput, 7º, inc. XXX, e 39, § 3º, da Constituição da República.
+    Sustenta que “em Ribeirão Preto foi estabelecida uma Tabela Única de Vencimentos composta por níveis (para os cargos efetivos) e por símbolos (para os cargos de provimento em comissão), de forma igualitária para todos os servidores. Foi promulgada a Lei 5.373/88 em fevereiro de 1989 regulando tais vencimentos, de modo que os reajustes salariais inerentes aos cargos alcançassem todos os servidores, incidindo sobre a parte fixa dos vencimentos, consagrando, desta forma, o princípio da isonomia, insculpido na Constituição Federal de 1988, art. 39, § 3° c.c. art. 7°, XXX, e art. 5°, caput”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional aplicável à espécie (no caso, as Lei municipal n. 5.695/1990 e a Lei Complementar municipal n. 1.636/2004), o que inviabiliza o processamento regular do presente recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal:
+    “SERVIDOR PÚBLICO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. Precedentes. II - Agravo regimental improvido” (AI 689.921-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 20.2.2009).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 594.028-AgR, Relator o Ministro Eros Grau, Segunda Turma, DJe 27.2.2009).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. 1. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. INCORPORAÇÃO DE DIFERENÇAS SALARIAIS. CONTROVÉRSIA DECIDIDA COM FUNDAMENTO EM LEGISLAÇÃO MUNICIPAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. 2. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO INVIÁVEL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 809.655-AgR/SP, de minha relatoria, Primeira Turma, DJ 5.5.2011).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDORES DO MUNICÍPIO DE SÃO PAULO. DIFERENÇAS SALARIAIS DE OUTUBRO DE 1994 A MARÇO DE 1998. PORTARIAS INTERSECRETARIAIS NS. 256/94 E 261/94. LEIS MUNICIPAIS NS. 11.722/95 E 12.397/97. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 280 DESTE SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 604.455-AgR/SP, de minha relatoria, Primeira Turma, DJ 30.11.2007).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
