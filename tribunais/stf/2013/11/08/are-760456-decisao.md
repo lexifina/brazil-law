@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. TAXA DE EMISSÃO DE BOLETO BANCÁRIO. PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO QUE NÃO INFIRMA FUNDAMENTO DA DECISÃO AGRAVADA: INVIABILIDADE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Primeira Turma Recursal dos Juizados Especiais Cíveis de Anápolis/GO decidiu:
+    “RECURSO INOMINADO. TAXA DE EMISSÃO DE BOLETO BANCÁRIO. DANO MORAL CONFIGURADO. SENTENÇA MANTIDA. 1. Ainda que pactuada, afigura-se abusiva, nos termos dos artigos 51, IV e § 1º, I, do CDC [Código de Defesa do Consumidor], a cobrança de taxa para emissão de boleto bancário, devendo, portanto, ser declarada nula. 2. O dano moral, a seu turno, ressaiu do desgaste emocional e do tempo, eis que exigiu do consumidor, uma peregrinação em busca da solução do impasse. 3. O arbitramento dos danos morais em R$ 3.000,00 (três mil reais), adequa-se aos princípios da razoabilidade e proporcionalidade. Recurso conhecido e improvido, mantendo-se a sentença objurgada, para condenar a recorrente ao pagamento das custas e honorários advocatícios fixados em 20% (vinte por cento) sobre o valor da condenação, nos termos do artigo 55 da Lei n. 9.099/95” (fl. 142).
+    Não foram opostos embargos de declaração.
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas ns. 279, 282 e 356 do Supremo Tribunal Federal.
+    4. A Agravante argumenta que “ao contrário do que fundamenta [a decisão agravada] trata principalmente de matéria constitucional, visto que decide a respeito de cobrança por emissão de boleto bancário, matéria que envolve princípios constitucionais como o da livre iniciativa, bem como ao princípio da legalidade, o que ficou expresso durante toda a instrução processual e recursal (…) As decisões proferidas nos presentes autos feriram de forma direta artigos da Constituição Federal, cabendo ao Supremo Tribunal Federal manifestar-se acerca do presente caso”(fls. 212-213).
+    No recurso extraordinário, alega-se que a Turma Recursal teria contrariado o inc. II do art. 5º da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5 . O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    O Juiz Relator do caso na 1ª Turma Recursal do 4º Juizado Especial Cível de Anápolis/GO afirmou:
+    “1. Ainda que pactuada, afigura-se abusiva, nos termos dos artigos 51, IV e § 1º, I, do CDC [Código de Defesa do Consumidor], a cobrança de taxa para emissão de boleto bancário, devendo, portanto, ser declarada nula. 2. O dano moral, a seu turno, ressaiu do desgaste emocional e do tempo, eis que exigiu do consumidor, uma peregrinação em busca da solução do impasse” (fl. 142, grifos nossos).
+    O acórdão recorrido decidiu a lide com base no Código de Defesa do Consumidor, nas cláusulas contratuais e no conjunto fático-probatório constante do processo.
+    O inc. II do art. 5º da Constituição da República, suscitado no recurso extraordinário, não foi objeto de decisão e debate prévios pela Turma Recursal, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal ‘a quo’. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009, grifos nossos).
+    7. Ademais, o agravo não pode ter seguimento, pois a Agravante não infirmou o fundamento da decisão agravada, quanto à incidência da Súmula n. 279 do Supremo Tribunal Federal, o qual, por ser autônomo e suficiente e não questionado, subsiste:
+    “AGRAVO REGIMENTAL QUE NÃO ATACA O FUNDAMENTO EM QUE SE ASSENTOU A DECISÃO AGRAVADA. Caso em que o recurso manejado se revela insuscetível de atingir seu objetivo. Agravo regimental desprovido” (AI 545.590-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe 14.11.2008).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
