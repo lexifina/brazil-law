@@ -1,0 +1,18 @@
+DECISÃO
+AGRAVO REGIMENTAL – JUÍZO DE RETRATAÇÃO – JUROS DA MORA – ARTIGO 1º-F DA LEI Nº 9.494/97 – LIMITAÇÃO A 6% AO ANO – APLICAÇÃO IMEDIATA – RECURSO EXTRAORINÁRIO – PROVIMENTO PARCIAL.
+    1. Às folhas 252 e 253 proferi a seguinte decisão:
+PENSÃO ESPECIAL DE EX-COMBATENTE ACUMULADA COM BENEFÍCIO PREVIDENCIÁRIO - CONSTITUCIONALIDADE - INCISO II DO ARTIGO 53 DO ADCT – AGRAVO DESPROVIDO.
+    1.Na interposição deste agravo, foram observados os pressupostos de recorribilidade.
+    Quanto à violência ao artigo 53, inciso II, do Ato das Disposições Constitucionais Transitórias, atentem para o fato de que este preceito não contém a definição, em si, dos requisitos legais para a concretização do direito à pensão. Pois bem, o Tribunal Regional Federal da 5ª Região, interpretando o pedido, consignou que a agravada, na qualidade de filha inválida de ex-combatente, tem direito à pensão nos termos da Lei de nº 1.756/52. Assim, além de estar-se diante de hipótese que tem desfecho a partir de interpretação conferida não a dispositivo constitucional, mas a diploma legal ordinário, não há margem, em sede excepcional, para concluir-se pela ausência de prova da condição de ex-combatente. Confiram com o teor do Verbete nº 279 da Súmula desta Corte.
+    No mais, é incompreensível a obstinação da União em hipótese como a dos autos. A recorrente insiste em olvidar a ressalva contida no inciso II do artigo 53 do Ato das Disposições Constitucionais Transitórias, quanto à possibilidade de cumulação do pagamento de pensão especial com benefício previdenciário. Eis um caso em que, no mínimo, nota-se a falta total de independência de profissional da advocacia a atuar na defesa dos interesses da União.
+    Este recurso somente serve à sobrecarga da máquina judiciária, deixando, assim, a União de adotar a posição exemplar que lhe incumbe.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+    No agravo de folha 258 a 261, a União sustenta o desacordo da decisão atacada com o entendimento firmado no julgamento do Agravo de Instrumento nº 842.063/RS, em que se reconheceu a existência de repercussão geral do tema e se reafirmou a jurisprudência do Supremo em torno da imediata aplicação do artigo 1º-F da Lei nº 9.494/97, com redação dada pela Medida Provisória nº 2.180/01, independentemente da data do ajuizamento da ação.
+    A parte agravada, instada a se manifestar, não apresentou contraminuta (certidão de folha 266).
+    2. Na interposição deste agravo, observaram-se os pressupostos de recorribilidade. A peça está subscrita por Advogado da União e foi protocolada no prazo legal.
+    Razão assiste à agravante. O Plenário Virtual, reconhecendo a repercussão geral da matéria, no Agravo de Instrumento nº 842.063/RS, reafirmou jurisprudência no sentido de entender em harmonia com a Carta da República a aplicação imediata do artigo 1º-F da Lei nº 9.494/97, incluído pela Medida Provisória nº 2.180-35/2001, mesmo às ações ajuizadas em período anterior à vigência do dispositivo. Fiquei vencido quanto ao julgamento, em sede virtual, do mérito do extraordinário, sem a devida reunião do Colegiado. Não posso, contudo, ignorar o precedente. Ante o quadro, reconsidero parcialmente o ato impugnado, e ressalvando a convicção pessoal, dou provimento ao agravo para prover parcialmente o extraordinário e assentar que a limitação dos juros de mora deve ser aplicada desde o início da vigência do artigo 1º-F da Lei nº 9.494/97, com redação dada pela Medida Provisória nº 2.180/2001, independentemente da data do ajuizamento da ação.
+    3. Publiquem.
+Brasília, 8 de novembro de 2013.
+Ministro MARCO AURÉLIO
+Relator
