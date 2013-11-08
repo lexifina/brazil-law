@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Cleyton Lourenço da Fonseca contra decisão do Superior Tribunal de Justiça no REsp 1.233.838/MG. Eis a ementa do julgado:
+    RESP. INDIVIDUALIZAÇÃO DA PENA. NULIDADE DA SENTENÇA. VÍCIO QUE NÃO AFETA O NÚCLEO DA CONDENAÇÃO. VIOLAÇÃO E DISSENSO DEMONSTRADOS. POSSIBILIDADE DE CORREÇÃO PELA CORTE ORDINÁRIA. CONTINUIDADE DA APELAÇÃO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+    Na inicial, alega-se o seguinte: (a) o paciente foi condenado, em primeira instância, à pena de três anos de reclusão pela prática do crime de receptação qualificada (CP, art. 180, § 6º); (b) o Tribunal de Justiça estadual decretou a nulidade da sentença condenatória e, por não considerá-la marco interruptivo, reconheceu de ofício a prescrição punitiva; (c) por entender que, mesmo havendo vício na individualização da pena, a sentença permanece incólume como ato condenatório, o STJ deu provimento ao recurso do órgão ministerial, para determinar que o Tribunal local prossiga no julgamento da apelação e, se o caso, promova a correção da individualização da pena; (d) “nem sempre foi o entendimento do STJ considerar a dosimetria uma parte independente da sentença (…), o que demonstra a necessidade de adoção de pensamento similar em benefício do réu”. Requer, assim, o deferimento do pedido de liminar, a fim de que seja determinado o sobrestamento da ação penal.
+    2. A concessão liminar da ordem supõe, além da comprovação da urgência da medida, a demonstração inequívoca da plausibilidade do direito invocado. A hipótese dos autos, entretanto, não revela situação de manifesta ilegalidade a justificar a concessão da medida de urgência postulada (cf. HC 117001, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 08-10-2013).
+    3. Convém ressaltar, ainda, que a impetrante sequer interpôs agravo interno contra a decisão impugnada. Ora, nestas circunstâncias, não se pode admitir o uso do habeas corpus como substitutivo de recurso interno, apto a exaurir o exame da causa pelo competente órgão colegiado do STJ.
+    4. Com essas considerações, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 08 de novembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
