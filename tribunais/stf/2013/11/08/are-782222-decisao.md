@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado da Bahia de inadmissibilidade de recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA ESTADUAL. LICENÇA-MATERNIDADE. PRETENSÃO A PRORROGAÇÃO. LEI FEDERAL Nº 11.770/2008. NORMA AUTO-APLICÁVEL. OBSERVÂNCIA DO ART. 7º, INCISO XVIII, DA CONSTITUIÇÃO FEDERAL. DIREITO LÍQUIDO E CERTO.
+    1. Tem-se a possibilidade da impetração de mandado de segurança preventivo, inclusive quando o impetrante, por exemplo, encontrar-se diante de ameaça de indeferimento de pedido administrativo de licença maternidade, ainda mais em razão do princípio da inafastabilidade do Poder Judiciário insculpido no inc. XXXV, do art. 5º, da Lei Maior. Dessa forma, rejeito as preliminares de inadequação da via eleita e não comprovação do interesse de agir.
+    2. O Presidente do Tribunal de Contas dos Municípios do Estado da Bahia é autoridade responsável pelo ato inquinado de ilegal, que consiste na ameaça de indeferimento do gozo da licença maternidade por mais de 180 dias. Preliminar de ilegitimidade passiva superada.
+    3. Consabido que a Lei nº 11.770, de 09 de setembro de 2008, criou o Programa Empresa Cidadã destinado à prorrogação da licença-maternidade de 120 (cento e vinte) para 180 (cento e oitenta) dias, estendeu o benefício às servidoras vinculadas à Administração direta, indireta e fundacional, observados determinados requisitos legais.
+    4. O legislador ordinário aspirou a ampliação da proteção à entidade familiar, em especial à gestante e ao recém-nascido, ao estender o prazo de licença maternidade por mais 60 (sessenta) dias. Ainda, ao acrescentar ao Projeto de Lei nº. 281/05 o atual art. 2º da Lei nº 11.770/08 que prevê o direito do benefício em tela às servidoras públicas, pretendeu o legislador conferir tal prerrogativa não apenas às trabalhadoras da iniciativa privada, mas também àquelas pertencentes aos quadros do serviço público.
+    5. Por oportuno, vale registrar que a Administração Federal, por meio do Decreto nº 6.990, de 11 de dezembro de 2008, cuidou de instituir o programa de prorrogação da licença à gestante e à adotante no âmbito de sua competência.
+    6. Da mesma forma, tem-se notícia que o Supremo Tribunal Federal (Resolução nº. 383/2008), o Conselho da Justiça Federal (Resolução nº. 30/2008), o Tribunal Regional Eleitoral da Bahia (Instrução Normativa da Presidência nº 1/2008) e esta Corte de Justiça (Resolução nº 04/2009) deliberaram no sentido de instituir o programa que garanta a prorrogação da licença maternidade para suas servidoras.
+    7. Ressalta-se que, de fato, o melhor entendimento repousa no sentido de que o deferimento da prorrogação de tal benefício independe norma regulamentadora, tendo em vista se tratar de norma auto-aplicável, em observância ao direito inserto no art. 7º, inciso XVIII, da Constituição Federal.
+    Segurança concedida para, confirmando a liminar anteriormente deferida, assegurar o direito da impetrante de usufruir da licença maternidade nos termos da regra inserta na Lei nº 11.780/08, e, logo, de ter prorrogada a licença maternidade de 120 para 180 dias.” (eDOC 1, p. 113-114)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se violação aos artigos 7º, XVIII; 25, caput; 39, caput, § 3º; e 61, § 1º, II, “c”, do texto constitucional.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Na espécie, o Tribunal de origem, em síntese, assentou que:
+    “(...) a Lei nº 11.770, de 09 de setembro de 2008, criou o Programa Empresa Cidadã, destinado à prorrogação da licença-maternidade de 120 (cento e vinte) para 180 (cento e oitenta) dias e estendeu o referido benefício às servidoras vinculadas à Administração direta, indireta e fundacional...”(eDOC 1, p. 116)
+    O acórdão recorrido consignou, ainda, que a proteção à entidade familiar, em especial à mãe e ao recém-nascido, é uma garantia constitucional e que ampliar o período de contato entre mãe e filho significa consagrar o direito à proteção à família, nos termos dos artigos 226 e 227 do texto constitucional.
+    A Lei 11.770/2008 independe de norma regulamentadora para ser aplicada, tendo, portanto, aplicabilidade imediata, conforme imposição do art. 7º, XVIII, da Constituição Federal.
+    Dessa forma, verifico que a controvérsia referente à prorrogação de licença maternidade de servidora pública estadual envolve a análise da legislação infraconstitucional, o que não enseja, por conseguinte, a abertura da via extraordinária.
+    Assim, qualquer ofensa à Constituição Federal dar-se-ia de forma indireta ou reflexa. Inviável, portanto, o prosseguimento do presente recurso extraordinário.
+    Nesse sentido cito os seguintes julgados: ARE 689.626, Rel. Min. Cármen Lúcia, DJe 15.6.2012; AI 807.932, de minha relatoria, DJe 15.10.2010 e RE 600.253, Rel. Min. Cézar Peluso, DJe 17.11.2009.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 8 de novembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
