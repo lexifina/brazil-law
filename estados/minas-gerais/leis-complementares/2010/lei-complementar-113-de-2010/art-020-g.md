@@ -1,0 +1,7 @@
+Art. 20-G. (VETADO).""
+"Art. 13 (Revogado pelo inciso III do art. 123 da Lei Complementar nº 129, de 8/11/2013.)
+Dispositivo revogado:
+"Art. 13. O art. 54 e os incisos II, VI e IX do art. 80 da Lei nº 5.406, de 16 de dezembro de 1969, passam a vigorar com a seguinte redação:
+"Art. 54. As Delegacias de Polícia Civil de âmbito territorial e de atuação especializada são dirigidas por Delegados de Polícia de carreira, e as Delegacias Regionais de Polícia Civil e as Divisões de Polícia Especializada, por Delegado de Polícia de, no mínimo, nível Especial.
+§ 1º A direção das Superintendências, dos Departamentos de Polícia Civil de âmbito territorial e atuação especializada, da Academia de Polícia Civil, do Departamento de Trânsito de Minas Gerais, da Corregedoria-Geral de Polícia Civil, do Instituto de Identificação, a Chefia de Gabinete da Polícia Civil e o cargo de Delegado Assistente do Chefe da Polícia Civil serão exercidos exclusivamente por Delegados-Gerais de Polícia, ressalvada a Superintendência de Polícia Técnico-Científica, cuja direção compete a ocupante de cargo de Médico-Legista ou de Perito Criminal que esteja em efetivo exercício e no último nível da carreira.
+§ 2º A direção do Instituto de Medicina Legal e do Instituto de Criminalística serão exercidos, respectivamente, por Médico-Legista e por Perito Criminal que estejam em efetivo exercício e no último nível da carreira.
