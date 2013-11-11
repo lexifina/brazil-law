@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão proferido pela Segunda Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “ADMINISTRATIVO. PENSÃO DE SERVIDOR PÚBLICO CELETISTA. REGIME GERAL DE PREVIDÊNCIA SOCIAL. ÓBITO ANTERIOR À LEI Nº 8.112/90. IMPOSSIBILIDADE DE CONVERSÃO AO REGIME ESTATUTÁRIO E PARIDADE COM REMUNERAÇÃO DE SERVIDORES DA ATIVA.
+    1. Nas relações de trato sucessivo, em que não houve a negativa expressa do direito pleiteado pela parte, prescrevem apenas as parcelas anteriores ao quinquênio que antecede o ajuizamento da ação, nos termos da Súmula 85/STJ.
+    2. A Lei nº 8.112/90, ao transformar os empregos públicos em cargos públicos com a transposição dos servidores celetistas para o regime estatutário, não se aplica aos servidores contratados sob a égide da Consolidação das Leis do Trabalho que faleceram antes do advento do Regime Jurídico Único.
+    3. De igual maneira, o art. 40, §4º, Constituição de 1988, que previu a revisão dos proventos da aposentadoria e pensão sempre que se modificasse a remuneração dos servidores correspondentes em atividade, já que tal equiparação não alcança os servidores regidos pelo regime geral da previdência social.
+    4. Apelação improvida” (fl. 100).
+    Opostos embargos de declaração (fls. 102 a 105) , foram rejeitados (fls. 110 a 113).
+    Alega a recorrente violação dos artigos 40, parágrafos 4° e 5° (redação original), da Constituição Federal e 20 do Ato das Disposições Constitucionais Transitórias.
+    Contraarrazoado (fls. 131 a 142), o recurso extraordinário (fls. 115 a 127) foi admitido na origem (fls. 144 a 146).
+    Decido.
+    A irresignação não merece prosperar.
+    O acórdão recorrido está em sintonia com a jurisprudência desta Corte pacificada no sentido de que as regras dos parágrafos 4º e 5º do artigo 40 da Constituição Federal (redação originária) não se aplicam ao servidor submetido ao regime da Consolidação das Leis do Trabalho, segurado da Previdência Social, que se aposentou ou faleceu antes do advento da Lei nº 8.112/90. Nesse sentido, anote-se:
+    “Constitucional. Administrativo. Servidor celetista. Aposentadoria previdenciária anterior à Lei 8.112/90. Revisão de proventos. Vedada a equiparação com os vencimentos dos servidores públicos da ativa conforme precedentes do STF. Regimental não provido” (RE nº 327.320/RS-AgR, Segunda Turma, Relator o Ministro Nelson Jobim, DJ de 4/10/02).
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR CELETISTA. APOSENTADORIA PREVIDENCIÁRIA ANTERIOR À LEI N.º 8.112/90. REVISÃO DE PROVENTOS. EQUIPARAÇÃO COM OS VENCIMENTOS DOS SERVIDORES PÚBLICOS DA ATIVA. CONSTITUIÇÃO FEDERAL, ART. 40, § 4.º, NA REDAÇÃO ANTERIOR À EC 20/98. Ao servidor submetido ao regime da Consolidação das Leis do Trabalho, segurado da Previdência Social, que se aposentou antes do advento da Lei n.º 8 .112, de 11 de dezembro de 1990, não se aplica a norma do art. 40, § 4.º, da Carta da República, na redação anterior à EC 20/98, que é destinada apenas ao servidor público estatutário, assegurando-lhe a revisão dos proventos na mesma proporção e na mesma data em que se modificar a remuneração dos servidores em atividade. Recurso conhecido e provido” (RE nº 241.372/SC, Primeira Turma, Relator o Ministro Ilmar Galvão, DJ de 5/10/01).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. PENSIONISTA DE SERVIDOR PÚBLICO VINCULADO AO ESTADO PELO REGIME DA CLT. FALECIMENTO APÓS A PROMULGAÇÃO DA CARTA DE OUTUBRO, MAS ANTES DA EDIÇÃO DA LEI Nº 8.112/90. NÃO-APLICABILIDADE DO § 5° do ART. 40 DO MAGNO TEXTO (REDAÇÃO ANTERIOR À EC 20/98).
+    É pacífica a jurisprudência desta Casa de Justiça de que as regras dos §§ 4º e 5º do art. 40 da Constituição Republicana (redação originária) não se aplicam ao servidor submetido ao regime da Consolidação das Leis do Trabalho, segurado da Previdência Social, que se aposentou ou faleceu antes do advento da Lei nº 8.112/90. Tais normas são destinadas apenas ao servidor público estatutário. Precedentes de ambas as Turmas desta colenda Corte: RE 197.793, Relator Ministro Moreira Alves; RE 241.372, Relator Ministro Ilmar Galvão; RE 223.732, Relator Ministro Sepúlveda Pertence; RE 325.588-AgR, Relator Ministro Gilmar Mendes; RE 370.571, Relatora Ministra Ellen Gracie; e RE 237.762-AgR e AI 501.560-AgR, Relator Ministro Carlos Veloso. Agravo regimental desprovido” (RE n° 399.648/PE-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 10/3/06).
+    Nesse sentido, as seguintes decisões monocráticas: RE nº 288.525/SP, Relator o Ministro Marco Aurélio, DJe de 8/3/10, RE nº 344.398/SC, Relator o Ministro Joaquim Barbosa, DJe de 8/2/10 e RE nº 552.789/RS, Relator o Ministro Ayres Britto, DJe de 12/5/09.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 11 de novembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
