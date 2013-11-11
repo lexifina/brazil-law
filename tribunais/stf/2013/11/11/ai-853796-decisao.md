@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 60):
+    “APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. INCIDÊNCIA DO IMPOSTO DE RENDA RETIDO, NA FONTE SOBRE VERBA PAGA EM CUMPRIMENTO DE DECISÃO JUDICIAL DEFERIDORA DE RESSARCIMENTO DE DANOS MATERIAIS E IMATERIAIS. IMPOSSIBILIDADE FACE À NATUREZA DA VERBA QUE NÃO É RENDA, ASSIM ENTENDIDO O PRODUTO DO CAPITAL, DO TRABALHO, OU COMBINAÇÃO DE AMBOS, E NEM PROVENTOS DE QUALQUER NATUREZA, ASSIM ENTENDIDOS OS ACRÉSCIMOS PATRIMONIAIS (ART. 43, INCISOS I e II DO C.T.N.).
+    A retenção de Imposto de Renda na Fonte pela entidade pagadora não é possível, por força da sua natureza indenizatória, que tem finalidade exclusiva de recomposição do patrimônio lesado.
+    Sentença que se reforma para afastar a causa impeditiva da obrigação, diante da ilegalidade da retenção de valores a título de Imposto de Renda sobre a verba devida, com a inversão dos ônus sucumbenciais.
+    Provimento do Recurso.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 153, III, c/c o art. 109, I, da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que “a matéria de que trata o(s) dispositivo(s) dito(s) violado(s) não foi prequestionada, tendo os embargos de declaração sido interpostos com a finalidade de suscitá-la como questão nova, até então não debatida no processo, circunstância que impunha sua rejeição. Aplica-se a Súmula 282 do Supremo Tribunal Federal”.
+    O recurso é inadmissível, tendo em vista que a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Com efeito, não há matéria constitucional a ser dirimida na controvérsia sob exame, em que se discute o caráter indenizatório de determinada verba, para fins de incidência do imposto de renda (no caso, com base no art. 43 do CTN). Nesse sentido, vejam-se os seguintes precedentes: ARE 691.857-AgR, Rel.ª Min.ª Cármen Lúcia; ARE 662.017-AgR, Rel. Min. Dias Toffoli; AI 733.908-AgR, Rel. Min. Marco Aurélio; ARE 703.044-AgR, Rel. Min. Ricardo Lewandowski; e RE 637.171-ED, Rel.ª Min.ª Rosa Weber, assim ementado:
+    “DIREITO TRIBUTÁRIO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. NATUREZA DE VERBA INDENIZATÓRIA OU REMUNERATÓRIA PARA INCIDÊNCIA DE IMPOSTO DE RENDA. NÃO VIOLAÇÃO DO 93, IX, DA CONSTITUIÇÃO FEDERAL. FUNDAMENTAÇÃO SUFICIENTE DO ACÓRDÃO RECORRIDO PUBLICADO EM 01.12.2010.
+    Não há falar em ofensa do art. 93, IX, da CF, quando o acórdão impugnado tenha dado razões suficientes, embora contrárias à tese da recorrente.
+    A discussão travada nos autos não alcança status constitucional, porquanto solvida à luz da interpretação da legislação infraconstitucional aplicável à espécie.
+    Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.”
+    Quanto ao art. 109, I, da Constituição, verifica-se a ausência de interesse processual da parte recorrente em pleitear em juízo interesse de terceiro, no caso, da União. Seja como for, o Superior Tribunal de Justiça julgou o recurso especial simultaneamente interposto e assentou em definitivo, com base na legislação infraconstitucional pertinente, a natureza indenizatória da parcela controvertida. Assim, presente esse fundamento suficiente, já transitado em julgado, incide na hipótese a Súmula 283/STF.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º , do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 11 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
