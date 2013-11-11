@@ -1,0 +1,14 @@
+Vistos, etc.
+    Trata-se de reclamação constitucional, com pedido de medida liminar, proposta pelo MUNICÍPIO DE TAUBATÉ em face do TRIBUNAL SUPERIOR DO TRABALHO, cuja decisão, nos autos do Agravo de Instrumento em Recurso de Revista AIRR-80600-27.2009.5.15.0009, teria afrontado a decisão proferida por esta Corte no julgamento da ADC 16.
+    É o relatório.
+    Decido.
+    A reclamação é instituto processual previsto no texto original da Carta de 1988, destinado à preservação da competência e à garantia da autoridade das decisões do Supremo Tribunal Federal (art. 102, “l”, da Lei Maior). Com o advento da EC nº 45/2004, o texto constitucional passou a contemplar a possibilidade de reclamação em face de ato administrativo ou decisão judicial contrária a súmula vinculante, aprovada, de ofício ou mediante provocação, por decisão de dois terços dos membros desta Suprema Corte, após reiteradas decisões sobre a matéria (art. 103-A, § 3º, da Magna Carta).
+    Dentro dessa moldura, verifico que a presente reclamação não merece prosperar, uma vez que a decisão reclamada cingiu-se a negar conhecimento ao agravo de instrumento em recurso de revista, sob o fundamento de que o agravante deixou de impugnar especificadamente os fundamentos insertos na decisão agravada. Eis a ementa do acórdão reclamado:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESFUNDAMENTADO. Não se conhece de recurso para o Tribunal Superior do Trabalho, pela ausência do requisito de admissibilidade inscrito no art. 514, II, do CPC, quando as razões do agravante não impugnam os fundamentos da decisão agravada (Súmula nº 422 do Tribunal Superior do Trabalho). Agravo de instrumento de que não se conhece.”
+    De outro lado, no julgamento da ADC 16, ocorrido em 24.11.2010, ao concluir pela constitucionalidade do art. 71, § 1º, da Lei 8.666/93, o Pleno desta Corte abraçou a tese da inviabilidade da aplicação da responsabilidade objetiva à Administração Pública pelas verbas trabalhistas decorrentes de contrato de prestação de serviços firmado na forma da Lei 8.666/93. Também resultou destacado que aludido dispositivo não impede o reconhecimento da responsabilidade do ente público ante ação culposa da Administração Pública como no caso de omissão na obrigação de fiscalizar as obrigações do contratado-, consideradas as peculiaridades fáticas do caso concreto, com espeque em outras normas, regras e princípios do ordenamento jurídico.
+    Evidencia-se, portanto, a ausência da necessária similitude de objetos – identidade material – entre as decisões desta Corte e o ato impugnado.
+    Ante o exposto, forte nos arts. 38 da Lei 8.038/1990 e 21, § 1º, do RISTF, nego seguimento à presente reclamação, restando prejudicado o exame do pedido liminar.
+    Publique-se.
+    Brasília, 11 de novembro de 2013.
+     Ministra Rosa Weber
+     Relatora
