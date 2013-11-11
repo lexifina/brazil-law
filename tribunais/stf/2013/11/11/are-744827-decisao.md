@@ -1,0 +1,33 @@
+DECISÃO
+    Vistos.
+    Município de São Paulo e Mario Pereira Franco e outros interpuseram agravos contra as decisões que negaram seguimento aos recursos extraordinários interpostos, com fundamento na alínea “a” do permissivo constitucional, contra acórdão proferido pela Terceira Turma – Fazenda Pública do Colégio Recursal Central do Estado de São Paulo, assim ementado:
+    “Gratificação de Atividade – Servidoras aposentadas – Gratificação que em princípio não tem caráter geral, dependendo do efetivo exercício do cargo – Todavia, é prevista sua incorporação aos proventos dos servidores atualmente em atividade, o que lhe retira a característica de vantagem eventual, devendo ser incluída nos proventos dos já aposentados – Sentença de improcedência reformada”.
+    Mario Pereira Franco e outros aduzem, em síntese, que “o v. acórdão recorrido não deu correta interpretação à lei municipal, divergindo da linha de entendimento que este Supremo Tribunal Federal vêm conferindo à garantia constitucional da paridade em sua integralidade e sua aplicação aos aposentados e pensionistas que dela desfrutam” (fl. 210).
+    Pleiteiam a reforma do acórdão atacado para “efeito de determinar que a gratificação de atividade seja paga aos recorrentes, pelo critério da média mensal do valor pago aos servidores ativos da respectiva carreira, observada a proporcionalidade de seus proventos, quando for o caso” (fl. 210).
+    O Município de São Paulo, por sua vez, alega violação dos artigos 2º, 30, inciso I, 37, caput, 39, § 1º, 40 e 169 da Constituição Federal.
+    Aduz que “a Gratificação de Atividade não foi criada de forma indistinta a todos os servidores municipais integrantes das carreiras dos níveis básico e médio do Quadro de Pessoal” (fl. 222).
+    Assevera que “a Gratificação, ao contrário do alegado pelo autor – não se trata de reajuste de vencimentos que tenha alcançado todos os servidores da ativa, mas sim de efetiva gratificação que, por sua natureza jurídica, não se incorpora aos proventos e nem deve ser estendida aos servidores aposentados” (fl. 232).
+     Afirma, ainda, que “a procedência da pretensão dos autores implica iminente afronta à diretriz do exercício pleno da autonomia municipal, notadamente quanto às atribuições relativas à remuneração de seus servidores” (fl. 234).
+    Opostos embargos de declaração, foram rejeitados (fls. 188/189).
+    Decido.
+    Anote-se, inicialmente, que os recursos extraordinários foram interpostos contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar das petições recursais haverem trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignações não merecem prosperar, haja vista que as instâncias de origem decidiram a lide amparadas na legislação local pertinente (Lei Municipal nº 15.364/11). Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Incidência da Súmula nº 280 desta Corte.
+    Especificamente sobre o tema em questão, transcrevo o teor da decisão proferida pelo Ministro Ricardo Lewandowski, em caso análogo ao presente, nos autos do ARE nº 751.284/SP (DJe de 6/8/13):
+    “Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que julgou improcedente o pedido de extensão a servidores inativos da Gratificação de Atividade instituída pela Lei Complementar Municipal 15.364/2011.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 7º da EC 41/03, bem como ao art. 2º da EC 47/05.
+    A pretensão recursal não merece acolhida. Isso porque para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessária seria a análise de normas infraconstitucionais locais (Lei Complementar Municipal 15.364/2011), o que atrai a incidência da Súmula 280 do STF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    ‘Agravo regimental em agravo de instrumento. Servidor público. Gratificações. Extensão a inativos. Natureza jurídica da verba. Ofensa a direito local. Reexame de fatos e provas. Precedentes. 1. Não se abre a via do recurso extraordinário para o reexame de matéria ínsita ao plano normativo local ou de fatos e provas dos autos. Incidência das Súmulas nºs 279 e 280 desta Corte. 2. Agravo regimental não provido’ (AI 742.842-AgR/PR, Rel. Min. Dias Toffoli, Primeira Turma).
+    ‘Agravo regimental em recurso extraordinário. 2. Gratificação. Discussão acerca da natureza. Geral ou propter laborem. 3. Extensão ao inativos. 4. Impossibilidade de análise de legislação infraconstitucional. Súmula 280. Precedentes. 5. Ausência de argumentos suficientes para infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento’ (RE 554.672-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput)”.
+    Registre-se que essa decisão foi recentemente confirmada pela Segunda Turma desta Corte, no julgamento do ARE nº 751.284/SP-AgR (DJe de 17/10/13). O acórdão desse referido julgado restou assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXTENSÃO DE GRATIFICAÇÃO A SERVIDORES INATIVOS. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO.
+    I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar norma infraconstitucional local (Lei Complementar municipal 15.364/2011), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes.
+    II - Agravo regimental improvido”.
+    Nesse mesmo sentido, anote-se, ainda, as seguintes decisões monocráticas: ARE nº 743.960/SP, Relator o Ministro Marco Aurélio, DJe de 2/8/13, e ARE nº 724.094/SP, Relatora a Ministra Rosa Weber, DJe de 7/2/13.
+    Ante o exposto, conheço dos agravos para negar seguimento aos recursos extraordinários.
+    Publique-se.
+    Brasília, 11 de novembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
