@@ -1,0 +1,22 @@
+Ementa: 1. Extinção da execução fiscal municipal com base em valor reduzido. Ausência de lei específica do ente federativo. Recurso provido para anular a sentença.
+    DECISÃO:
+    Trata-se de recurso extraordinário interposto contra sentença proferida em embargos infringentes de alçada, da qual transcrevo o seguinte trecho conclusivo:
+    “Ademais, valor executado é irrisório e mal pagam as diligências de oficiais de justiça, publicações de editais e ainda todo o custo do aparato do Judiciário e os meios necessários para o processamento de uma ação judicial.
+    Ante o exposto, com fincas no § 2º do artigo 34 da Lei nº 6.830/80, RECEBO OS EMBARGOS INFRINGENTES E OS REJEITO, ficando mantida a decisão hostilizada por seus próprios fundamentos.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º, caput, 5°, XXXV, e 37 da Constituição, sustentando, essencialmente, que o magistrado não poderia extinguir a execução fiscal baseado em um juízo de razoabilidade.
+    A pretensão recursal merece acolhida. No julgamento do RE 591.033/SP, julgado sob a relatoria da Ministra Ellen Gracie e submetido à sistemática da repercussão geral, o Plenário desta Corte decidiu que não se pode negar ao Município a possibilidade de executar seus créditos de pequeno valor sob o fundamento da falta de interesse econômico.
+    É importante frisar que o Município detém competência legislativa plena para fixar parâmetros que delimitem o valor mínimo passível de ser executado pelo rito da Lei nº 6.830/80. Observo, contudo, que a execução não foi extinta com base em legislação local. O julgador extinguiu o feito com base “nos princípios da razoabilidade e da economia processual”.
+    Mediante a falta de disposição legal que delimite critérios para o prosseguimento da execução, não está ao arbítrio do julgador eleger o valor que lhe pareça razoável. A despeito de algumas execuções representarem valores diminutos, ainda assim consubstanciam o meio mais eficaz para que o contribuinte seja compelido à regularizar sua situação fiscal. Obstar o exercício de tal faculdade configura ato contrário à exegese que se deve extrair do art. 5º, XXXV, da CF. Nesse sentido, veja-se a ementa do RE 591.033, julgado sob a relatoria da Ministra Ellen Gracie:
+    “TRIBUTÁRIO. PROCESSO CIVIL. EXECUÇÃO FISCAL. MUNICÍPIO. VALOR DIMINUTO. INTERESSE DE AGIR. SENTENÇA DE EXTINÇÃO ANULADA. APLICAÇÃO DA ORIENTAÇÃO AOS DEMAIS RECURSOS FUNDADOS EM IDÊNTICA CONTROVÉRSIA.
+     1.O Município é ente federado detentor de autonomia tributária, com competência legislativa plena tanto para a instituição do tributo, observado o art. 150, I, da Constituição, como para eventuais desonerações, nos termos do art. 150, § 6º, da Constituição.
+     2.As normas comuns a todas as esferas restringem-se aos princípios constitucionais tributários, às limitações ao poder de tributar e às normas gerais de direito tributário estabelecidas por lei complementar.
+     3.A Lei nº 4.468/84 do Estado de São Paulo - que autoriza a não-inscrição em dívida ativa e o não-ajuizamento de débitos de pequeno valor - não pode ser aplicada a Município, não servindo de fundamento para a extinção das execuções fiscais que promova, sob pena de violação à sua competência tributária.
+     4. Não é dado aos entes políticos valerem-se de sanções políticas contra os contribuintes inadimplentes, cabendo-lhes, isto sim, proceder ao lançamento, inscrição e cobrança judicial de seus créditos, de modo que o interesse processual para o ajuizamento de execução está presente.
+    5.Negar ao Município a possibilidade de executar seus créditos de pequeno valor sob o fundamento da falta de interesse econômico viola o direito de acesso à justiça.
+     6.Sentença de extinção anulada.
+     7.Orientação a ser aplicada aos recursos idênticos, conforme o disposto no art. 543-B, § 3º, do CPC .” (grifei)
+    Diante do exposto, com base no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário para anular a sentença e determinar o prosseguimento da execução fiscal. Nos termos do art. 20, § 4º, do CPC, tendo em vista o tempo e o zelo necessários à efetivação do direito do recorrente, fixo os honorários advocatícios em 10% (dez por cento) do valor exequendo corrigido monetariamente.
+     Publique-se.
+          Brasília, 11 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
