@@ -1,0 +1,25 @@
+Decisão: Trata-se de pedido de reconsideração da decisão em que neguei seguimento ao habeas corpus, com fundamento na Súmula 691/STF, que possui a seguinte ementa:
+    “Habeas corpus. Penal e Processual penal. Roubo qualificado. Prisão em flagrante convertida em prisão preventiva. Garantia da ordem pública, conveniência da instrução criminal e aplicação da lei penal. Habeas corpus impetrado contra decisão monocrática que indeferiu liminar em idêntica sede processual. Súmula 691/STF. Não cabimento. Ausência de teratologia no ato impugnado.
+    1. A custódia preventiva visando à garantia da ordem pública legitima-se quando presente a necessidade de acautelar-se o meio social ante a concreta possibilidade de reiteração criminosa. Precedentes: HC 109.723, Primeira Turma, de minha relatoria, DJe de 27/06/2012; HC 106.816, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 20/06/2011; HC 104.608, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º/09/2011; HC 106.702, Primeira Turma, Relatora a Min. Cármen Lúcia, DJe de 27/05/2011.
+    2. In casu, o paciente foi preso em flagrante em 30/03/2013, pela suposta prática do crime de roubo qualificado por ter, juntamente com outros dois indivíduos, mediante grave ameaça, subtraído a carteira e o celular de um adolescente. A prisão em flagrante foi convertida em preventiva, uma vez que presentes os requisitos da prisão preventiva, em especial, a garantia da ordem pública, em razão da gravidade em concreto do delito e para evitar a reiteração criminosa.
+    3. O Supremo Tribunal Federal não é competente para conhecer de habeas corpus impetrado contra decisão de Relator que, em HC requerido a Tribunal Superior, indefere a liminar, sob pena de supressão de instância (art. 5º, XXXVII e LIII, CRFB). Aplicação do verbete nº 691 da Súmula da Jurisprudência dominante no Supremo Tribunal Federal. Precedentes (HC 103446/MT, rel. Min. Cezar Peluso, 13/04/2010; HC 107053 AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, julgado em 29/03/2011).
+    4. A relativização do entendimento sumulado só é admitida por este Tribunal em casos de flagrante ilegalidade ou abuso de poder, o que não se verifica nos autos. Jurisprudência (HC 102668/PA, Rel. Min. Dias Toffoli, Dje 05/10/2010; HC 84.014/MG, 1ª Turma, Rel. Min. Marco Aurélio, DJ 25/06/2004; HC 85.185/SP, Pleno, Rel. Min. Cezar Peluso, DJ 01/09/2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, 10/10/2006).
+    5. Habeas corpus a que se nega seguimento, com fundamento na Súmula 691/STF”.
+    O impetrante reitera as alegações trazidas no writ no sentido da ausência de fundamentação idônea para manutenção da prisão preventiva do paciente e na necessidade de superar a Súmula 691/STF.
+    Requer, assim, “o afastamento da Súmula n. 691/STF, a fim de que seja concedida medida liminar para determinar a revogação da prisão decretada em desfavor do paciente ou, sucessivamente, seja apreciada a possibilidade de adoção de uma medida cautelar diversa da prisão, determinado o prosseguimento do feito”.
+    É o relatório suficiente. Decido.
+    O pedido deve ser indeferido. O impetrante não trouxe nenhuma questão nova a ensejar a mudança do decisum que negou seguimento ao writ.
+    Conforme destacado na decisão que se pretende reconsiderar:
+    “O Supremo Tribunal Federal segue, de forma pacífica, a orientação de que não lhe cabe julgar habeas corpus impetrado em face de decisão de órgão de outro Tribunal que indefere pedido de liminar, no bojo de idêntico remédio apreciado na instância inferior.
+    Tal entendimento está encartado no verbete da Súmula 691 do Supremo Tribunal Federal, verbis : Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    O conhecimento do writ por este Pretório Excelso, enquanto em curso remédio constitucional com a mesma fundamentação na Corte inferior, implicaria ostensiva supressão de instância, a malferir o princípio do Juiz natural (art. 5º, XXXVII e LIII, CRFB)
+    (…)
+    Malgrado o enunciado da Súmula 691 desta Corte tenha sido superado nos casos de patente ilegalidade ou abuso de poder na denegação da tutela liminar, não há, na espécie, qualquer teratologia que autorize o conhecimento deste habeas corpus per saltum.
+    In casu, a autoridade apontada como coatora, ao indeferir a medida liminar, apreciou tão somente os requisitos autorizadores da concessão daquela excepcional medida e concluiu pela inexistência deles, assentou ainda, que a referida medida se confunde com o mérito da impetração.
+    Não há, nesse ato, nenhuma ilegalidade flagrante ou abuso de poder. É certo que caberá ao Colegiado competente do Superior Tribunal de Justiça, analisar em maior profundidade as questões levantadas no writ lá impetrado”.
+    Ex positis, indefiro o pedido de reconsideração.
+    Publique-se.
+    Brasília, 11 de novembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
