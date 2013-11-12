@@ -1,0 +1,21 @@
+Trata-se de demanda proposta por Liane Casarin Schramm contra a UNIÃO FEDERAL, com pedido de antecipação dos efeitos da tutela, cujo objeto é o direito dos juízes da União ao abono variável, nos termos do art. 6º da Lei 9.655/98, com a observância do subsídio estabelecido na Lei 11.143/2005, deduzindo-se as antecipações da Lei 10.474/2002.
+    Citada, a União contestou (fls. 51-88). Aduziu, preliminarmente, a incompetência absoluta do juízo, ante a competência originária do Supremo Tribunal Federal, e, no mérito, requereu a improcedência do pedido.
+    A requerente apresentou réplica às fls. 93-102.
+    Às fls. 111-116, a Juíza Federal acolheu a preliminar e declinou da competência para processar e julgar o presente deslinde. Determinou que os autos fossem remetidos ao Supremo Tribunal Federal, uma vez que se cuida de demanda em que todos os membros da magistratura estão direta ou indiretamente interessados (art. 102, I, n, da CF), pois verificou ser de interesse de toda a magistratura da União a questão de saber se os juízes da União têm direito ao abono variável, nos termos do art. 6º da Lei 9.655/98, com a observância do valor do subsídio estabelecido na Lei 11.143/2005.
+    Às fls. 123/124, indeferi o pedido de antecipação dos efeitos da tutela jurisdicional.
+    As razões finais foram regularmente apresentadas às fls. 142-145 e 151, assim como o parecer do Ministério Público Federal (fls. 132-137).
+    É o relatório. Passo a decidir.
+    Inicialmente, reconheço a competência desta Corte, nos termos do art. 102, I, n, primeira parte, da Constituição, uma vez que a questão interessa, direta ou indiretamente, a todos os membros da magistratura, conforme assentou esta Corte por ocasião do julgamento da AO 1.292-AgR/MG, Rel. Min. Carlos Velloso, cujo acórdão foi assim ementado:
+    “CONSTITUCIONAL. SUPREMO TRIBUNAL: COMPETÊNCIA ORIGINÁRIA: CF, art. 102, I, n . I. - Correção monetária do abono da Lei 10.474/2002 c/c a Resolução 245/2002 do Supremo Tribunal. Questão específica da magistratura. Competência originária do Supremo Tribunal configurada. CF, art. 102, I, n, II. - Agravo não provido.”
+    Quanto à matéria de fundo, assento que o Plenário deste Supremo Tribunal julgou improcedentes as Ações Originárias 1522/SP, 1524/SP, 1563/PA e 1541/DF, todas de relatoria da Ministra Carmén Lúcia, nas quais foram apresentados pedidos idênticos ao ora formulado.
+    Transcrevo, para elucidar o tema, a ementa da AO 1.524/SP:
+    “1. AÇÃO ORIGINÁRIA. ABONO VARIÁVEL. INTERESSE DE TODA A MAGISTRATURA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ART. 102, INC. I, ALÍNEA N , DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. 2. DIFERENÇAS SALARIAIS. BASE DE CÁLCULO. LEI Nº 9.655/1998. COBRANÇA DE DIFERENÇAS COM BASE NO VALOR ESTABELECIDO PELA LEI N. 11.143/2005. A FIXAÇÃO DO SUBSÍDIO FOI DETERMINADA PELA LEI N. 10.474/2002, E NÃO PELA LEI Nº 11.143/2005. PRECEDENTES: AO 1.157/PI E AO 1.412/SP. AÇÃO JULGADA IMPROCEDENTE. 3. EM QUESTÃO DE ORDEM, O PLENÁRIO RESOLVEU, POR UNANIMIDADE, AUTORIZAR O RELATOR A DECIDIR MONOCRATICAMENTE PEDIDOS QUE POSTULEM O RECEBIMENTO DE ABONO VARIÁVEL, COM EFEITOS RETROATIVOS A 1º.1.1998, ATÉ A DATA EM QUE FOI FIXADO O VALOR DOS SUBSÍDIOS DOS MINISTROS DO SUPREMO TRIBUNAL FEDERAL, PELA LEI N. 11.143/2005.”
+    Ressalto – como, aliás, já está explicitado na ementa – que, na mesma ocasião, o Plenário também autorizou, em questão de ordem, os Ministros desta Corte a julgarem monocraticamente casos idênticos, nos quais se postule a diferença do abono variável instituído pela Lei 9.655/1998.
+    Nessa linha, foram julgadas improcedentes, por decisões monocráticas, as seguintes ações originárias, que também cuidavam de abono variável de magistrado: AO 1.561/SP, Rel. Min. Cármen Lúcia; e AO 1.506, Rel. Min Menezes Direito.
+    Na mesma direção, AO 1.616/PA, de minha relatoria.
+    Isso posto, julgo improcedente o pedido, com fundamento no disposto no art. 269, I, do Código de Processo Civil, combinado com o art. 21, § 1º, do RISTF.
+    Condeno a autora nas custas e em honorários advocatícios, que fixo em 10% (dez por cento) do valor da causa.
+    Publique-se. Intime-se.
+    Brasília, 12 de novembro de 2013.
+Ministro Ricardo Lewandowski
+Relator
