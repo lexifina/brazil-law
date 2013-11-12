@@ -1,0 +1,7 @@
+Decisão: 1. Vários óbices se apresentam ao conhecimento do agravo e do próprio recurso extraordinário: (a) o agravo é manifestamente intempestivo, visto que a decisão impugnada foi publicada no dia 20/05/2013 (segunda-feira), de modo que o prazo do art. 544 do CPC encerrou-se em 30/05/2013 (quinta-feira). Como o recurso foi protocolizado via fax no dia 31/05/2013 (sexta-feira), revela-se extemporâneo; (b) as peças originais do agravo não foram apresentadas, em desacordo com o art. 2º da Lei 9.800/99; (c) a preliminar de repercussão geral no recurso extraordinário é deficiente, não correspondendo aos moldes exigidos pela jurisprudência do Supremo Tribunal Federal e (d) o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (fls. 199/206), está em perfeita consonância com o entendimento desta Corte, conforme o precedente do RE 613.033 (Rel. Min. DIAS TOFFOLI, DJe de 09/06/2011) - tema 388, que teve repercussão geral reconhecida e no julgamento do mérito, este Supremo Tribunal Federal reafirmou a jurisprudência, no sentido da impossibilidade de aplicação retroativa da lei 9.032/95 aos benefícios de auxílio-acidente concedidos anteriormente à vigência do referido diploma legal e (e) as demais matérias trazidas no recurso extraordinário atraem o óbice da Súmula 279/STF.
+    2. Diante do exposto, não conheço o agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 12 de novembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
