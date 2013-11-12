@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “SALDO REMANESCENTE. PRECATÓRIO COMPLEMENTAR. CORREÇÃO MONETÁRIA. JUROS DE MORA. ÍNDICE OFICIAL DE REMUNERAÇÃO BÁSICA E JUROS APLICADOS À CADERNETA DE POUPANÇA.
+    Para a atualização monetária dos valores requisitados será utilizado o índice oficial de remuneração básica da caderneta de poupança, divulgado pelo Banco Central do Brasil (TR – Taxa Referencial), ou aquele a que vier substituí-lo.
+    É de conhecimento que a alteração trazida pela Emenda Constitucional nº 62/2009, ao artigo 100, da Constituição Federal, está sendo objeto de ações diretas de inconstitucionalidades (nº 4357, 4372, 4400 e 4425), encontrando-se todas com julgamento conjunto e suspenso em face de pedido de vista do Ministro Luiz Fux (16-10-2011).” (fl. 122).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, caput, XXII, XXIV, LIV, 7º, IV, 37, caput, 150, IV, 201, §§ 3º e 4º, da mesma Carta. Sustentou-se a inconstitucionalidade da “expressão ‘índice oficial de remuneração básica da caderneta de poupança’ constante do § 12 do artigo 100 da Constituição Federal ” (fl. 128) .
+    A pretensão recursal merece acolhida. Isso porque o Plenário do Supremo Tribunal Federal, no julgamento das ADIs 4.425/DF e 4.357/DF, Redator para o acórdão o Min. Luiz Fux, declarou a inconstitucionalidade das expressões “índice oficial de remuneração básica da caderneta de poupança” e “independentemente de sua natureza”, constantes do § 12 do art. 100 da CF, com a redação dada pela EC 62/2009.
+    No mesmo sentido, cito as seguintes decisões, entre outras: RE 747.733/SC, Rel. Min. Teori Zavascki; RE 747.692/SC, Rel. Min. Marco Aurélio; RE 747.742/SC, Rel. Min. Cármen Lúcia; e RE 7474.727-AgR/SC, Rel. Min. Celso de Mello, cuja ementa segue transcrita:
+    “RECURSO EXTRAORDINÁRIO – IMPOSSIBILIDADE DE UTILIZAÇÃO DO ÍNDICE OFICIAL DE REMUNERAÇÃO BÁSICA DA CADERNETA DE POUPANÇA COMO CRITÉRIO DE CORREÇÃO MONETÁRIA DOS DÉBITOS FAZENDÁRIOS SUJEITOS AO REGIME DE EXECUÇÃO INSCRITO NO ART. 100 DA CF/88 – DECLARAÇÃO DE INCONSTITUCIONALIDADE PARCIAL DO § 12 DO ART. 100 DA CONSTITUIÇÃO DA REPÚBLICA, NA REDAÇÃO DADA PELA EC Nº 62/2009 – DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL – RECURSO DE AGRAVO IMPROVIDO” (grifos no original).
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento (CPC, art. 557, §1º-A), prejudicado, por consequência, o exame do pedido de sobrestamento apresentado na petição 24568/2013-STF (fls. 155-156).
+    Publique-se.
+    Brasília, 12 de novembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
