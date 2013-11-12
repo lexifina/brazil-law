@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Flávio Lourival Lemes de Arruda contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça no HC 278676/MS, com a seguinte ementa:
+    (…)
+    2. Concluído pelo Tribunal de origem, com arrimo nos fatos da causa, que o paciente se dedicava às atividades criminosas e integrava organização criminosa, tendo em vista a quantidade da droga apreendida - 49,7 kg de maconha -, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n.º 11.343/06. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+    (...)
+    4. A substituição da pena privativa de liberdade por restritivas de direitos submete-se à regência do art. 44 do Código Penal, segundo o qual só faz jus ao benefício legal o condenado a pena inferior a 4 anos. Na espécie, tendo a reprimenda final alcançado 5 anos de reclusão, não é possível a pretendida substituição.
+    5. É imperioso ter em linha de consideração os ditames norteadores do art. 42 da Lei n.º 11.343/06, no sentido de que o juiz "na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+    6. Devidamente fundamentada a negativa de abrandamento do regime inicial de cumprimento de pena, em razão da quantidade da substância entorpecente apreendida - 49,7 kg de maconha - (art. 42 da Lei n.º 11.343/2006), não há constrangimento ilegal a ser sanado.
+    Sustenta a impetrante, em síntese, que: (a) o paciente foi condenado à pena de cinco anos de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/2006); (b) não há fato concreto apto a justificar a não incidência da causa de diminuição prevista no § 4º do art. 33 da Lei de Drogas; (c) é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do crime; (d) com o devido redimensionamento da pena, impõe-se a conversão da pena privativa de liberdade, já que preenchidos os requisitos descritos no art. 44 do Código Penal. Requer, assim, a concessão de medida cautelar, com vistas a determinar a aplicação do “redutor da pena do § 4º art. 33 da Lei 11.343/2006 em seu patamar máximo de 2/3, adequando-se o regime inicial para diverso do fechado”.
+    2. No caso, o deferimento do pedido de medida cautelar, nos termos em que requerido, implicaria tutela satisfativa, o que de certo modo esgotaria o objeto da impetração e, por consequência, usurparia ao órgão competente, a Turma, a apreciação do presente habeas corpus.
+    3. Com essas considerações, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 12 de novembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
