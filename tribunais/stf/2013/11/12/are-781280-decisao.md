@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “APELAÇÃO. Ação ordinária abono permanência concedido a partir da edição da Emenda Constitucional nº 41/03 recebimento a partir do momento em que foram preenchidos os requisitos para a aposentadoria e o servidor permaneceu em atividade desnecessário o pedido administrativo direito constitucional, de eficácia imediata, auto-aplicável, não necessitando de regulamentação para sua concessão recurso “ex officio” não conhecido Recurso Voluntário da Fazenda Estadual desprovido.” (Relator(a): Franco Cocuzza Comarca : Bananal órgão julgador: 5ª Câmara de Direito Público Data do julgamento : 26/09/2011 data de registro Outros números: 14617820108260059”. (fl. 47)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 40, § 19, do texto constitucional.
+    Defende-se, em síntese, que não há previsão constitucional do abono de permanência para os militares.
+    Decido.
+    A irresignação não merece prosperar.
+    Observo que, para se aferir a alegada violação ao dispositivo constitucional apontados, seria necessária a análise e a interpretação da legislação infraconstitucional aplicável à hipótese (Leis complementares estaduais n. 1.012/07 e n. 1.013/07), providência vedada no âmbito do recurso extraordinário, o teor do disposto na Súmula 636 do STF.
+    Nesse sentido, confiram-se os seguintes julgados:
+     “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. APOSENTADORIA VOLUNTÁRIA. OPÇÃO POR CONTINUAR EM ATIVIDADE. ABONO DE PERMANÊNCIA. REQUISITOS. LEI ESTADUAL 6.513/95 E LEI COMPLEMENTAR ESTADUAL 73/2004. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA 280/STF. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 19.5.2010. A suposta ofensa aos postulados constitucionais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Incide, na espécie, o óbice da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Agravo regimental conhecido e não provido.(AI-AgR 845.645 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 25.6.2013)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Abono de permanência. Servidor público militar. Lei Complementar estadual n. 73/2004. Necessidade de análise e interpretação de legislação local. Verbete n. 280. 3. Possibilidade de legislação infraconstitucional dispor sobre vantagem ou garantia não vedada pela Constituição Federal. Precedente. 4. Agravo regimental a que se nega provimento”.
+(ARE-AgR 698.716, de minha relatoria,DJe 27.9.2012)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. ABONO DE PERMANÊNCIA: LEI ESTADUAL N. 6.513/1995 E LEI COMPLEMENTAR ESTADUAL N. 73/2004. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (AI-AgR 811.602, Rel. Min. Cármen Lúcia, DJe 12.4.2011)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se. Int..
+    Brasília, 12 de novembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
