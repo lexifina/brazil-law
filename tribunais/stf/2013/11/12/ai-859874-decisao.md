@@ -1,0 +1,12 @@
+Decisão: O protocolo de interposição do recurso extraordinário está ilegível, tornando inviável a verificação da tempestividade do recurso.
+    Falta, portanto, peça de traslado obrigatório, indispensável à aferição da tempestividade d recurso e cuja ausência acarreta o não conhecimento do agravo (Súmula 288/STF e art. 544, § 1º, do Código de Processo Civil - redação anterior à Lei 12.322/2010).
+    É firme o entendimento desta Corte no sentido de que cabe ao agravante a fiscalização da correta formação do instrumento.
+    Nesse sentido: AI 854.894-AgR (relator-presidente min. Ayres Britto, Plenário, DJe de 16.08.2012); AI 848.023-AgR (relator-presidente min. Cezar Peluso, Plenário, DJe de 18.04.2012), AI 846.191-AgR (rel. min. Celso de Mello, Segunda Turma, DJe de 13.06.2012), AI 558.977-AgR (rel. min. Marco Aurélio, Primeira Turma, DJ de 23.02.2007), AI 418.285-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 15.04.2005), AI 781.729-AgR (de minha relatoria, Segunda Turma, DJe de 04.06.2012), AI 696.740-AgR (rel. min. Ricardo Lewandowski, Primeira Turma, DJe de 22.05.2009), AI 751.036-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 18.09.2009), AI 715.337 AgR (rel. min. Dias Toffoli, Primeira Turma, DJe de 09.03.2011); AI 792.910-AgR, (rel. min. Luiz Fux, Primeira Turma, DJe de 08.03.2012); AI 765.393 (rel. min. Rosa Weber, DJe de 24.10.2012).
+    Ademais, o presente agravo não merece prosperar, visto que a petição recursal foi subscrita por advogado que não possui poderes para representar a parte recorrente.
+    Nos termos da orientação firmada nesta Corte, é inexistente a impugnação recursal deduzida por advogado que não disponha de procuração nos autos.
+    Nesse sentido: ARE 647.762-AgR (relator-presidente, min. Cezar Peluso, Plenário, DJe de 17.04.2012), RE 179.717-AgR (rel. min. Celso de Mello, Primeira Turma, DJ de 25.08.1995), RE 606.117-AgR (rel. min. Marco Aurélio, Primeira Turma, DJe de 09.10.2012), AI 531.599-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJe de 24.02.2006), ARE 689.051 (de minha relatoria, DJe de 16.11.2012), AI 776.736-AgR (rel. min. Ricardo Lewandowski, Primeira Turma, DJe de 01.07.2011), AI 818.208-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 24.02.2011), AI 640.855-AgR-ED (rel. min. Dias Toffoli, Primeira Turma, DJe de 13.06.2012), ARE 709.899 (rel. min. Luiz Fux, DJe de 31.10.2012), ARE 644.474 (rel. min. Rosa Weber, DJe de 08.08.2012).
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 12 de novembro de 2013.
+Ministro JOAQUIM BARBOSA
+Presidente
