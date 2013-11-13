@@ -1,0 +1,27 @@
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. PIS. MP 1.212/95 E REEDIÇÕES. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA ANTERIORIDADE. INOCORRÊNCIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O PIS e sua exigibilidade é constitucional à luz da MP nº 1.212/95 e suas reedições (posteriormente convertida na Lei nº 9.715/98), conforme entendimento assinalado pelo Plenário desta Corte quando do julgamento da ADI nº 1.417, Rel. Min. Octavio Gallotti, Plenário, DJ de 23/3/01.
+2. A contagem da noventena constitucional (art. 195, §6º, CF) para a exigência da alteração no PIS pela MP nº 1.212/1995 e suas reedições é a publicação da primeira medida da série. Precedentes: AI 455.374-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 25/10/2010 e RE 577.923-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 20/3/2009.
+3. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+4. In casu, o acórdão recorrido assentou: “CONSTITUCIONAL E TRIBUTÁRIO - PIS - MP Nº 1.212/95 E REEDIÇÕES - LEI Nº 9.715/98 - CONSTITUCIONALIDADE”.
+5. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo de instrumento interposto pela LATICÍNIOS MORRINHOS INDUSTRIA E COMÉRCIO LTDA, com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão assim ementado:
+    “CONSTITUCIONAL E TRIBUTÁRIO - PIS - MP Nº 1.212/95 E REEDIÇÕES - LEI Nº 9.715/98 - CONSTITUCIONALIDADE.
+    1. O STF firmou o entendimento de que as contribuições previstas no art. 195, I, da CF88, não reclamam lei complementar para a sua instituição ou alteração (RE nº 150.755/PE; RE nº 138.284-8). De consequência, a LC nº 07/70 (PIS), segundo o mesmo STF, pode ser alterada até por medida provisória, como a MP nº 1.212, de 29 NOV 95 (e sucessivas reedições, até conversão na Lei nº 9.715/98) sem qualquer eiva de inconstitucionalidade (RE nº 239.280/RS, AGRE nº 242.230/RS etc).
+    2. Precedentes também do TRF1.
+    3. Apelação não provida” (fl. 155).
+    Os embargos de declaração foram rejeitados.
+    Nas razões do apelo extremo sustenta preliminar de repercussão geral e, no mérito, alega violação aos arts. 62, parágrafo único, 150, III, e 195, § 6º, da Constituição da República.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece provimento o agravo.
+    Ressalte-se, quanto a essa matéria, que o Plenário do Supremo Tribunal Federal, no julgamento da ADI 1.417, Rel. Min. Octavio Gallotti, DJ 23/3/2001, limitou-se a declarar a inconstitucionalidade do artigo 18 da Lei nº 9.7.15/1998. Nesse contexto, as inovações trazidas pela MP 1.212/1995 e reedições não tiveram sua validade afetada, uma vez que o referido julgado tão somente invalidou a eficácia retroativa da norma tributária veiculada na primeira edição da medida provisória.
+    Demais disso, a jurisprudência desta Corte firmou-se no sentido de que a contagem da noventena constitucional (art. 195, §6º, CF) para a exigência da alteração no PIS pela MP nº 1.212/1995 e suas reedições é a publicação da primeira medida da série. Confira-se, à guisa de exemplo, os seguintes precedentes:
+    “CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS. MEDIDA PROVISÓRIA 1.212/1995 E SUAS REEDIÇÕES. 1. A jurisprudência do Supremo Tribunal Federal é firme em reconhecer o não-engessamento da contribuição ao PIS pelo art. 239 do Magno Texto e a constitucionalidade da mencionada exação, notadamente com as alterações introduzidas pela Lei 9.715/1998 para os fatos geradores ocorridos a partir da contagem do prazo nonagesimal da MP 1.212/1995. 2. Agravo regimental desprovido” (AI 455.374-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 25/10/2010).
+    “AGRAVO REGIMENTAL. TRIBUTÁRIO. PIS. MEDIDA PROVISÓRIA 1.212/95. REEDIÇÕES. ART. 62, P. ÚNICO, DA CF/1988. CONSTITUCIONALIDADE. O Pleno do Supremo Tribunal Federal, por ocasião do julgamento do RE 232.896 (rel. min. Carlos Velloso, DJ de 01.10.1999), entendeu que medida provisória reeditada dentro de seu prazo de validade não perde sua eficácia em função de sua não-apreciação pelo Congresso Nacional. Decidiu-se, também, que o prazo nonagesimal a que se refere o art. 195, § 6º, nos casos de reedição de medida provisória, conta-se a partir da veiculação da primeira medida provisória. Agravo regimental de que se conhece, mas a que se nega provimento” (RE 577.923-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 20/3/2009).
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 13 de novembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
