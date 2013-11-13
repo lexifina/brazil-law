@@ -1,0 +1,32 @@
+Trata-se de recurso extraordinário interposto contra o acórdão proferido pelo Tribunal Regional Federal da 4ª Região que declarou a competência da Justiça estadual para conhecer da ação penal e julgá-la. Ação Penal foi ajuizada para apurar a suposta prática de falsidade ideológica e de omissão de registro de dados relativos a vínculo empregatício na CTPS e no Livro de Registro de Empregados. A decisão está assim ementada:
+    “Penal e Processual. Art. 297, § 3º, inciso II, do CP. Inserção de dados falsos e omissão de vínculo. CTPS e Livro de Registro de Empregados. Ausência de prejuízo a bens, serviços ou interesses da União ou de suas autarquias. Competência da Justiça Estadual.
+    1. Consoante reiterados precedentes do STJ, compete à Justiça Estadual processar e julgar crimes de falsidade relacionados a anotação na Carteira de Trabalho e Previdência Social.
+    2. O objeto visado era o de frustrar os direitos trabalhistas decorrentes do vínculo laboral, e não propriamente o de fraudar a Previdência Social” (fl. 320).
+    No recurso extraordinário, fundamentado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 109, IV, da mesma Carta.
+    O recorrente sustenta que a omissão de anotação de contrato de trabalho na CTPS atenta contra a fé pública do órgão emissor do documento -- Ministério do Trabalho e Emprego -- e também contra o interesse da Autarquia Previdenciária, razão pela qual, em face da evidente ofensa a bens, serviços e interesse da União, a competência para conhecer do processo-crime seria da Justiça Federal.
+    A Procuradoria Geral da República opina no sentido do provimento do recurso extraordinário, conforme expresso na ementa a seguir transcrita:
+    “Recurso extraordinário. Falsificação de documento público. Inserção de informações inverídicas em CTPS. Crime contra a fé pública. Ofensa direta a serviços e interesses do Instituto Nacional de Seguridade Social. Competência da Justiça Federal. Art. 109, IV, da CF/88. Parecer pelo provimento do recurso”.
+    É o relatório. Decido.
+    O Código Penal, no art. 297, § 3º, II, e § 4º, prescreve:
+    Art. 297. Falsificar, no todo ou em parte, documento público, ou alterar documento público verdadeiro.
+    Pena – reclusão, de 2 (dois) a 6 (seis) anos, e multa.
+    (…)
+    § 3º. Nas mesmas penas incorre quem insere ou faz inserir:
+    (…)
+    II – na Carteira de Trabalho e Previdência Social do empregado ou em documento que deva produzir efeito perante a previdência social, declaração falsa ou diversa da que deveria ter sido escrita (acrescentado pela Lei 9.983, de 14/7/2000).
+    (…)
+    § 4º. Nas mesmas penas incorre quem omite, nos documentos mencionados no § 3º, nome de segurado e seus dados pessoais, a remuneração, a vigência do contrato de trabalho ou de prestação de serviços” (parágrafo acrescentado pela Lei 9.983, de 14/7/2000).
+    Diante dessas disposições legais, o Ministério Público Federal anotou ter o legislador vislumbrado a necessidade de lisura na relação estabelecida entre o empregador e o órgão da Previdência Social, pois os assentamentos da CTPS constituem os parâmetros legítimos para os cálculos contributivos.
+    Assim, em se tratando de anotação ideologicamente falsa em Carteira de Trabalho e Previdência Social – CTPS (quanto ao tempo de serviço, jornada, salários etc.), não obstante haja repercussão da conduta na esfera privada do trabalhador, há também, primariamente, ofensa direta a serviços e interesses do Instituto Nacional do Seguro Social, haja vista ter a anotação valor probante não apenas para a obtenção de benefícios previdenciários, mas, também, para fins de cálculo de obrigações de natureza tributária relacionadas com bens e serviços da Previdência Social.
+    Com efeito, nos termos peremptórios do art. 297 do Código Penal, incorre nas penas nele estabelecidas quem insere ou faz inserir na Carteira de Trabalho e Previdência Social do empregado ou em documento que deva produzir efeito perante a Previdência Social, declaração falsa ou diversa da que deveria ter sido escrita. É o que se verifica da documentação coligida para os autos, in verbis:
+    “Alceu Antônio Zanotto teria omitido na Carteira de Trabalho e Previdência Social do empregado (…) período que teve início, aproximadamente, no ano de 2003, até a data de 01/01/2007. Efetuando falsamente o registro do contrato de trabalho somente a partir de 02/01/2007, o acusado teria causado prejuízos aos cofres da Previdência Social, uma vez que suprimiu contribuições previdenciárias correspondentes a cerca de quatro anos. Também teria causado prejuízos à viúva (…) que teve o benefício de pensão por morte negado administrativamente, tendo sido necessário pleiteá-lo na via judicial” (fl. 16).
+    Esses fatos jurídicos estão expressos, de igual modo, na fundamentação e motivação da sentença penal condenatória proferida pelo Juízo Federal da Subseção Judiciária de Caxias do Sul/RS (fls. 254-260).
+    Ora, a Lei 9.983/2000, ao acrescentar o § 3º e o § 4º ao art. 297 do Código Penal, teve com escopo incriminar condutas de falsidade ideológica em documentos e papéis relacionados com a Previdência Social, em substituição ao art. 95, g, h e i, da Lei 8.213/91, e, como objeto jurídico, proteger a fé pública de documentos relacionados à Previdência Social. Assim, o sujeito passivo primário é o Estado e, em caráter subsidiário, o segurado e os dependentes que vierem a ser prejudicados.
+    Evidencia-se, então, a existência de interesse específico da União, à vista do dano potencial que a prática da conduta penalmente tipificada poderá causar ao patrimônio e aos serviços de seguridade social prestados pelo INSS, autarquia federal. Inegável, portanto, a aplicação do art. 109, IV, da Constituição Federal.
+    Nesse sentido são os seguintes precedentes: ACO 1.479/PR, Rel. Min. Dias Toffoi; ACO 1.440/PR e 1851/SP, Rel. Min. Celso de Mello; ACOs 1.316/SP, 1.310/SP, Rel. Min. Cármen Lúcia; e ACO 1.262/SP, Rel. Min. Joaquim Barbosa.
+    Isso posto, com base no art. 557, § 1º-A, do CPC, aplicável ao processo penal ex vi do disposto no art. 3º do CPP, conheço do recurso extraordinário e lhe dou provimento, declarando a competência da Justiça Federal para conhecer da ação penal.
+    Determino, em consequência, a remessa do processo ao Tribunal Regional Federal da 4ª Região, para apreciar, como entender de direito, o mérito do recurso de apelação interposto pelo sentenciado.
+    Publique-se.
+    Brasília, 13 de novembro de 2013.
+Ministro Ricardo Lewandowski
+- Relator -
