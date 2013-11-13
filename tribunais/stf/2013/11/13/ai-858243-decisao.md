@@ -1,0 +1,23 @@
+AGRAVO DE INSTRUMENTO. FUNDAMENTO CONSTITUCIONAL AUTÔNOMO INATACADO E SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. PRECEDENTES. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O fundamento constitucional autônomo e suficiente à manutenção do julgado, quando não atacado nas razões recursais, atrai a súmula STF nº 283: “é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Precedentes: ARE 696.178-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 17.9.2012; AI 769.637-AgR-ED, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 18.9.2012; ARE 665.283-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 14.6.2012, e RE 234951-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJ de 18.11.2005.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA. EXECUÇÃO DE HONORÁRIOS DE ADVOGADO. MEDIDA PROVISÓRIA N.º 38, DE 14 DE MAIO DE 2002. INAPLICABILIDADE.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo de instrumento interposto por Weg Motores Ltda., com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão assim ementado:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA. EXECUÇÃO DE HONORÁRIOS DE ADVOGADO. MEDIDA PROVISÓRIA N.º 38, DE 14 DE MAIO DE 2002. INAPLICABILIDADE.
+    1. Há coisa julgada quanto aos valores devidos a título de honorários advocatícios aos três embargados, não podendo a recorrente, nesta quadra processual, pretender alterar tais importâncias a pretexto de que teria direito aos benefícios da Medida Provisória nº 38/2002, porque, à toda evidência, sequer se qualificava para a obtenção daqueles benefícios à época.
+    2. A Medida Provisória n.º 38, de 14 de maio de 2002, perdeu sua eficácia porque não foi convertida em lei, consoante Ato Declaratório do Presidente da Mesa do Congresso Nacional publicado no D.O.U de 11.10.2002. Desse modo, não é possível, neste momento, a embargante pretender aplicar diploma legal que já não mais existe, porquanto declarada a perda de sua eficácia” (fls. 207-211).
+    Os embargos de declaração foram rejeitados.
+    Nas razões do apelo extremo alega violação ao artigo 5º, caput e LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa ao texto constitucional, acaso existente, seria indireta e reflexa.
+    É o Relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    O agravo não merece provimento.
+    A leitura do acórdão recorrido revela a existência de fundamento autônomo não atacado, pois na petição recursal não há impugnação específica quanto ao limite da coisa julgada utilizado como razão de decidir. Incide, portanto, a súmula STF nº 283, in verbis: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.  Nesse sentido: ARE 696.178-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 17.9.2012; AI 769.637-AgR-ED, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 18.9.2012; ARE 665.283-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 14.6.2012, e RE 234951-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJ de 18.11.2005, este último assim ementado:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA. PESSOA JURÍDICA. ART. 35 DA LEI Nº 7.713/88. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO SUFICIENTE. SÚMULA 283 DO STF. Há fundamento autônomo inatacado pela parte recorrente, o que faz incidir o óbice da Súmula 283 deste excelso Tribunal. Agravo regimental a que se nega provimento.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 13 de novembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
