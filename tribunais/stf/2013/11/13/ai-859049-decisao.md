@@ -1,0 +1,21 @@
+AGRAVO DE INSTRUMENTO. CIVIL E ADMINISTRATIVO. REVISÃO DE CONTRATO. FIES. INTERPRETAÇÃO DE NORMAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. A revisão contratual do contrato de financiamento estudantil, quando sub judice a controvérsia, demanda análise das cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte, as quais dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Precedente: AI 829893-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 11/4/2011.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “APELAÇÃO CÍVEL. REVISIONAL. CONTRATOS BANCÁRIOS. FIES. ART. 285-A DO CPC. INEXISTÊNCIA DE NULIDADE DA SENTENÇA. CARÁTER SOCIAL DO CONTRATO. CAPITALIZAÇÃO MENSAL DE JUROS NO FIES. RESOLUÇÃO CMN Nº 2.647/99. POSSIBILIDADE. APLICAÇÃO RETROATIVA DA RESOLUÇÃO CMN Nº 3.415/06. ISONOMIA. IMPOSSIBILIDADE. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS A 2% A.A. IMPOSSIBILIDADE. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS NO PERÍODO DE UTILIZAÇÃO."
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo interposto por Dinora Pfeifer Dias e Outro(a/s), com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão assim ementado:
+    “APELAÇÃO CÍVEL. REVISIONAL. CONTRATOS BANCÁRIOS. FIES. ART. 285-A DO CPC. INEXISTÊNCIA DE NULIDADE DA SENTENÇA. CARÁTER SOCIAL DO CONTRATO. CAPITALIZAÇÃO MENSAL DE JUROS NO FIES. RESOLUÇÃO CMN Nº 2.647/99. POSSIBILIDADE. APLICAÇÃO RETROATIVA DA RESOLUÇÃO CMN Nº 3.415/06. ISONOMIA. IMPOSSIBILIDADE. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS A 2% A.A. IMPOSSIBILIDADE. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS NO PERÍODO DE UTILIZAÇÃO."
+    Os embargos de declaração foram rejeitados.
+    Nas razões do apelo extremo sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 6º, 205 e 206, I e IV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a controvérsia está adstrita ao âmbito da legislação infraconstitucional.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Quanto ao mérito, não assiste razão ao agravante.
+    A revisão contratual do contrato de financiamento estudantil, quando sub judice a controvérsia, demanda análise das cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte, as quais dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido, trago o seguinte julgado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. CRÉDITO EDUCATIVO. JUROS PACTUADOS EM CONTRATO. IMPOSSIBILIDADE DO REEXAME DE LEGISLAÇÃO INFRACONTRATUAL E DE NORMAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS N. 279 E N. 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 829893-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 11/4/2011)
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 13 de novembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
