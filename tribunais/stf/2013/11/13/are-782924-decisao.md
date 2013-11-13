@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado, no que interessa:
+    “APELAÇÃO CÍVEL. PRESTAÇÃO DE CONTAS. ADVOGADO. HONORÁRIOS. PRESTAÇÕES MENSAIS VICENDAS. PERCENTUAL E LAPSO TEMPORAL. AUSÊNCIA DE PREVISÃO CONTRATUAL. RESOLUÇÃO OAB. LIMITE. APLICAÇÃO. Não havendo cláusula contratual expressa sobre a incidência de honorários advocatícios em relação a parcelas indenizatórias vincendas, deve-se aplicar a limitação de 12 (doze) meses estabelecida pela Tabela de Custas da OAB”. (eDOC 1, p. 121)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação do artigo 5º, XXXVI, do texto constitucional.
+    Aponta-se ofensa ao ato jurídico perfeito, ao fundamento de que o acórdão recorrido substituiu os honorários advocatícios contratados pelas partes, pelos fixados na Tabala da OAB.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que divergir do entendimento adotado pelo Tribunal a quo demandaria o reexame do conjunto fático-probatório dos autos (Enunciado 279 da Súmula do STF), bem como a análise da legislação infraconstitucional aplicável à espécie, providências vedadas em sede extraordinária. Confiram-se, a propósito, os seguintes julgados:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. RAZÕES DO AGRAVO REGIMENTAL DISSOCIADAS DO QUE DELIBERADO NA DECISÃO MONOCRÁTICA. INCIDÊNCIA DA SÚMULA 284 DESTA CORTE. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO IMPROVIDO. I – Deficiente a fundamentação do agravo regimental cujas razões estão dissociadas do que decidido na decisão monocrática. Incide, na hipótese, a Súmula 284 desta Corte. II – É pacifico o entendimento deste Tribunal, no sentido de que a discussão acerca da fixação de verba honorária é de índole eminentemente infraconstitucional. III – Agravo regimental improvido”. (AI 831.849-ED/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 22.5.2013)
+    “DIREITO PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS PELO TRIBUNAL A QUO. SUPOSTA AFRONTA AO ART. 133 DA CONSTITUIÇÃO DA REPÚBLICA E ART. 20 DO CÓDIGO DE PROCESSO CIVIL. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 14.10.2010. A suposta afronta aos preceitos constitucionais indicados nas razões recursais dependeria da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, ‘a’, da Lei Maior. Agravo regimental conhecido e não provido”. (ARE 717.020-AgR/PE, Rel. Min. Rosa Weber, Primeira Turma, DJe 25.10.2013)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 13 de novembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
