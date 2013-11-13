@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu pela impossibilidade de homologar acordo judicial para parcelamento de dívida de município com concessionária de energia elétrica, em que se previa a retenção, pelo banco estadual, dos valores de participação do município na arrecadação do ICMS no caso de inadimplemento.
+    Para tanto, concluiu-se na decisão atacada pela impossibilidade de o credor particular e o próprio Poder Judiciário se imiscuirem na função orçamentária exercida pelo Poder Executivo.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2º, 5º, XXXV, e 167, IV, da mesma Carta. Sustentou-se que a CF não veda a execução direta, pela retenção e transferência de receita proveniente de ICMS, ao pagamento de contas de energia elétrica caso não adimplidas, conforme acordado em contrato de parcelamento de débito firmado entre a concessionária de energia elétrica e a municipalidade.
+    A pretensão recursal merece acolhida. Isso porque o acórdão recorrido está em dissonância à jurisprudência do Supremo Tribunal Federal firmada no sentido de que inexiste proibição constitucional de que os municípios vinculem verbas decorrentes de sua participação no Imposto sobre Circulação de Mercadorias e Serviços – ICMS ao pagamento de débitos com energia elétrica. A questão já foi objeto de análise pela Segunda Turma deste Tribunal no julgamento do RE 184.116/MS, Rel. Min. Marco Aurélio, de cuja ementa destaco o seguinte trecho:
+    "CONDENAÇÃO JUDICIAL - ACORDO - PARCELAMENTO. Em se tratando de acordo relativo a parcelamento de débito previsto em sentença judicial, possível é a dispensa do precatório uma vez não ocorrida a preterição.
+    ACORDO - DÉBITO - ICMS - PARTICIPAÇÃO DO MUNICÍPIO. Inexiste ofensa ao inciso IV do artigo 167 da Constituição Federal, no que utilizado o produto da participação do município no ICMS para liquidação de débito. A vinculação vedada pelo Texto Constitucional está ligada a tributos próprios” (grifos meus).
+    Na mesma linha, cito os seguintes precedentes: AC 421-MC/RS, Rel. Min. Celso de Mello e RE 460.345/RS, Rel. Min. Cármen Lúcia.
+    Isso posto, conheço do recurso e dou-lhe provimento (CPC, art. 557, § 1º-A). Honorários a serem fixados pelo juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 13 de novembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
