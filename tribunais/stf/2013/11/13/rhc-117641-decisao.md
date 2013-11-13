@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus interposto em favor de Antonio Nicacio de Freitas contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental interposto nos autos do HC 192.111/AC. Eis a ementa do julgado:
+    “(...)
+    1. A impetração de habeas corpus com objeto idêntico ao apreciado nos autos de agravo em recurso especial, interposto perante este Sodalício, obstaculiza o seu conhecimento, dada a prejudicialidade nesses pontos.
+    2. Ausente ilegalidade na reprimenda imposta ao paciente no patamar fixado pelas instâncias ordinárias, superior a 4 (quatro) anos de reclusão, restou prejudicado o habeas corpus quanto ao pleito de substituição da pena reclusiva por medidas alternativas, pois objetivamente inviável na hipótese, de acordo com o art. 44, I, do CP.
+    3. É inadmissível a apreciação, em sede de agravo regimental, de tese que não foi alegada na inicial do remédio constitucional, pois à parte é vedado inovar pedidos quando da interposição do regimental.
+    4. Agravo regimental improvido.”
+    O recorrente sustenta, em síntese, que: (a) foi condenado, em primeira instância, à pena de 6 anos e 8 meses de reclusão de reclusão, em regime inicial fechado, pela prática do crime de tráfico internacional de drogas (art. 33, caput, c/c o art. 40, I, da Lei 11.343/2006); (b) o TRF 1ª Região deu parcial provimento à apelação defensiva, para reajustar a pena-base e reconhecer a atenuante da confissão espontânea, fixando a reprimenda definitiva em 5 anos e 6 meses de reclusão.
+    Requer, assim, o provimento do recurso para: (a) redimensionar a pena-base; (b) fixar a causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, na fração máxima de 2/3; (c) decotar a majorante prevista no art. 40, I, da Lei de Drogas; (d) estabelecer regime inicial mais brando, bem como proceder à conversão da pena privativa de liberdade.
+    Em parecer, a Procuradoria-Geral da República manifesta-se pelo não conhecimento do recurso e, se conhecido, pelo seu improvimento.
+    2. Com relação ao pedido de imposição do regime inicial mais brando, o STJ não conheceu do pleito, sob o fundamento de que é “inadmissível a apreciação, em sede de agravo regimental, de tese que não foi alegada na inicial do remédio constitucional, pois à parte é vedado inovar pedidos quando da interposição do regimental”. Desse modo, qualquer juízo desta Corte acerca dessas matérias implicaria indevida supressão de instância e contrariedade à repartição constitucional de competências (v.g., HC 112.100/DF, 2ª T., Min. Cezar Peluso, DJe de 24/08/2012 e HC 113.490/RS, 1ª T., Min. Luiz Fux, DJe de 06/09/2012).
+    3. Quanto ao mais, o acórdão impugnado também não conheceu do pedido, na consideração de que a pretensão veiculada constitui mera reiteração de outro pleito já julgado por aquela Corte Superior (AREp 11.547/AC). Assim, não há nenhuma ilegalidade da decisão aqui atacada, pois é inadmissível a repetição de pedidos, sem inovação (v.g., entre outros, HC 108568 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 08/05/2012, DJe 22-06-2012; HC 113537 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 11/09/2012, DJe 16-10-2012).
+    Ademais, qualquer conclusão desta Corte acerca das questões aqui suscitadas demandaria o exame de julgado que sequer foi objeto de impugnação no presente recurso (= decisão no AREsp 11.547).
+    4. Pelo exposto, nego seguimento ao recurso. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 13 de novembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
