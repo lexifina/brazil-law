@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PREVIDENCIÁRIO. PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA. RECURSO ESPECIAL PARCIALMENTE PROVIDO. RECURSO EXTRAORDINÁRIO PREJUDICADO. SALÁRIO MATERNIDADE. REPERCUSSÃO GERAL. QUESTÃO SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “Tributário. Contribuição Previdenciária sobre salário maternidade. Afastamento do emprego por doença.
+    O salário maternidade, não obstante seja custeado pela Previdência Social mediante reembolso ao empregador, se inclui no salário de contribuição por expressa disposição de lei (Lei 8.212/91, art. 28, § 2º, o mesmo ocorrendo como o pagamento dos primeiros quinze dias em que o empregado estiver afastado por motivo de doença” (fl. 201).
+    2. A Recorrente afirma que o Tribunal de origem teria contrariado os arts. 7º, inc. XVII, e 195, inc. I, da Constituição da República.
+    Argumenta que “o auxílio-doença, ainda que pago pela empresa nos primeiros quinze dias do afastamento, não pode servir de base de cálculo para o salário de contribuição, uma vez que durante o gozo deste benefício, não há efetivamente, a prestação de trabalho.”
+     Assevera que, “se o salário de contribuição deve ser a remuneração paga ou creditada que representar uma retribuição de trabalho prestado, o que indiscutivelmente não há no caso em tela, um dos requisitos fundamentais a incidência tributária não está presente, sendo, portanto, ilegal a exigência previdenciária.”
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Quanto à incidência de contribuição previdenciária sobre o valor pago pelo empregador nos quinze primeiros dias do auxílio-doença, o recurso extraordinário está prejudicado, por perda superveniente do objeto.
+    O Superior Tribunal de Justiça deu parcial provimento ao Recurso Especial n. 839.608 para afastar a limitação dos juros remuneratórios, nos termos seguintes:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. REMUNERAÇÃO PAGA PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DO AUXÍLIO-DOENÇA. NÃO-INCIDÊNCIA. PRECEDENTES. SALÁRIO MATERNIDADE. INCIDÊNCIA. PRECEDENTES. COMPENSAÇÃO. TRIBUTOS DE MESMA ESPÉCIE. ART. 66 DA LEI 8.383/91. CORREÇÃO MONETÁRIA. TAXA SELIC. JUROS.
+    1. É dominante no STJ o entendimento segundo o qual não é devida a contribuição previdenciária sobre a remuneração paga pelo empregador ao empregado, durante os primeiros dias do auxílio-doença, à consideração de que tal verba, por não consubstanciar contraprestação a trabalho, não tem natureza salarial. Precedentes: REsp 720817/SC, 2ª Turma, Min. Franciulli Netto, DJ de 05/09/2005.
+    (…)
+    Diante do exposto, dou parcial provimento ao recurso especial, para reconhecer a inexigibilidade da contribuição social do empregador incidente sobre os valores pagos a título de auxílio-doença, concernentes aos quinze primeiros dias de afastamento laboral, autorizando a compensação dos valores indevidamente recolhidos, nos termos da fundamentação” (fls. 269-272).
+    Essa decisão transitou em julgado em 1º.7.2009 (após o trânsito em julgado do Agravo de Instrumento n. 658.155, de minha relatoria), operando a substituição expressa do título judicial, conforme o art. 512 do Código de Processo Civil.
+    Destarte, atendida a pretensão da Recorrente pela decisão prolatada no recurso especial pelo Superior Tribunal de Justiça, é de se ter por prejudicado, em parte, o recurso extraordinário. Nesse sentido: AI 669.344-AgR, de minha relatoria, Primeira Turma, DJe 26.6.2009.
+    4. Quanto ao ponto no qual se discute a inclusão do salário maternidade na base de cálculo da contribuição previdenciária incidente sobre a remuneração, este Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão constitucional suscitada no julgamento eletrônico do Recurso Extraordinário n. 576.967, Relator o Ministro Roberto Barroso.
+    Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar o julgamento do mérito e, após a decisão, observar o disposto no art. 543-B do Código de Processo Civil.
+    5. Pelo exposto, julgo prejudicado o recurso extraordinário, na parte relativa a incidência de contribuição previdenciária sobre o valor pago pelo empregador nos quinze primeiros dias do auxílio-doença, por perda superveniente de objeto (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal) e determino, após o trânsito em julgado dessa decisão, a devolução destes autos ao Tribunal a quo para que, quanto à inclusão do salário maternidade na base de cálculo da contribuição previdenciária incidente sobre a remuneração, seja observado o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 13 de novembro de 2013.
+Ministro CÁRMEN LÚCIA
+Relatora
