@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. DECISÃO SUPERVENIENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGADA INEXIGIBILIDADE DO TÍTULO JUDICIAL. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado da Turma Recursal dos Juizados Especiais da Bahia:
+    “RECURSO INOMINADO EM SEDE DE EMBARGOS/IMPUGNAÇÃO À EXECUÇÃO. DECISÃO QUE DETERMINOU A LIBERAÇÃO DO VALOR PENHORADO FACE AO TRÂNSITO EM JULGADO DA AÇÃO MOVIDA PELO CONSUMIDOR TENDO POR OBJETO A DEVOLUÇÃO DOS VALORES PAGOS A TÍTULO DE ‘PULSOS ALÉM FRANQUIA E ASSINATURA RESIDENCIAL’. PEDIDO DE SOBRESTAMENTO DO FEITO FACE A RECLAMAÇÃO CONSTITUCIONAL PERANTE O STJ. INADMISSIBILIDADE. A SUSPENSÃO DOS PROCESSOS QUE DISCUTEM TAL MATÉRIA SE LIMITA EXCLUSIVAMENTE A PROCESSOS AINDA EM FASE DE CONHECIMENTO, NÃO INCIDINDO QUALQUER ÓBICE NAQUELES MAIS ADIANTADOS E JÁ EM FASE DE EXECUÇÃO. INEXISTÊNCIA DE QUALQUER ERRO DE CÁLCULO A ENSEJAR EXCESSO DE EXECUÇÃO, UMA VEZ QUE OS MESMOS FORAM EFETUADOS COM BASE NAS FATURAS TELEFÔNICAS JUNTADAS AOS AUTOS PELA EXEQUENTE. RECURSO IMPROVIDO. SENTENÇA MANTIDA. CONDENAÇÃO EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS À RAZÃO DE 20% SOBRE O VALOR DA CONDENAÇÃO” (fl. 349).
+    Os embargos de declaração opostos foram rejeitados (fls. 365-367).
+    2. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta (fls. 387-389).
+    3. A Agravante afirma que a Turma Recursal teria contrariado os arts. 5º, caput, inc. LIV, e 105, inc. III, da Constituição da República.
+    Sustenta que “o presente agravo visa exatamente, em prol da economia processual, isonomia e segurança jurídica, resolver o litígio pela utilização dos meios processuais hoje existentes sem que seja necessária a utilização da reclamação constitucional apontada pelo Supremo Tribunal Federal como remédio último a garantir a declarada soberania e autoridade da decisão do Superior Tribunal de Justiça na aplicação da legislação federal pertinente a controvérsias como esta” (fl. 408).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. No julgamento do Recurso Extraordinário n. 638.706, Relator o Ministro Cezar Peluso, este Supremo Tribunal Federal assentou a inexistência de repercussão geral da questão discutida nestes autos:
+    “RECURSO. Extraordinário. Inadmissibilidade. Inexigibilidade de título judicial. Decisão superveniente do STJ. Tema infraconstitucional. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a inexigibilidade de título judicial cujo fundamento contraria decisão superveniente do Superior Tribunal de Justiça sobre tema declarado de natureza infraconstitucional pelo Supremo Tribunal Federal, versa sobre tema infraconstitucional” (DJe 31.8.2011).
+    “DIREITO PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. EXECUÇÃO DE SENTENÇA. INEXIGIBILIDADE DE TÍTULO JUDICIAL. DECISÃO SUPERVENIENTE DO STJ. AGRAVO REGIMENTAL. INSURGÊNCIA VEICULADA CONTRA A APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL (ARTS. 543-B DO CPC E 328 RISTF). ACÓRDÃO RECORRIDO PUBLICADO EM 29.8.2011. Adequada à espécie, merece manutenção a sistemática da repercussão geral aplicada (arts. 543-B do CPC e 328 do RISTF). Agravo regimental conhecido e não provido” (ARE 669.426-AgR- segundo, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 13.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
