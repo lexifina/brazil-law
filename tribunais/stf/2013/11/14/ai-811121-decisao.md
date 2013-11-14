@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 55, II, 81 e 153, § 3°, da Constituição Federal de 1967.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que os artigos 81 e 153, § 3° da Constituição de 67, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objeto dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Mesmo que assim não fosse, o Tribunal de origem consignou que:
+    “O DL n° 491/69 não fixou lapso temporal para a vigência do crédito-prêmio de IPI, conduto o artigo 1°, § 2°, do DL n° 1.658/79, tanto na sua redação original como na dada pelo artigo 3° do DL n° 1.722/79, determinou, expressamente, a extinção desse benefício em 30 junho de 1983, sem a necessidade da edição de qualquer ato suplementar nesse sentido.
+    (…)
+    A validade do art. 1°, § 2°, do Decreto-Lei 1.658/79 não foi abalada pela declaração de inconstitucionalidade de partes dos Decretos-lei 1.724/79 e 1.894/81, julgada pelo STF no RE n° 186.623-3/RS. Foram afastadas apenas a normas que delegavam ao Executivo poderes para aumentar, reduzir, suspender ou extinguir os estímulos fiscais instituídos pelo Decreto-lei 491/69, por ofensa ao princípio da legalidade tributária. Desta forma, prepondera o entendimento de que a partir de 1° de julho de 1983 o crédito-prêmio do IPI restou extinto. Dessarte, aceitando-se extinção do benefício em 1983, resta impertinente a discussão sobre o alcance da regra do art. 41, § 1°, do ADCT/88, pois sua aplicação seria aceita no que pertine a incentivos ainda em vigor. Ainda neste entendimento, a Lei 8.402/92 não restabeleceu o crédito-prêmio, pois ele não consta no rol de benefícios expressamente indicados no texto legal”.
+    A discussão sobre a extinção do crédito-prêmio de IPI por norma infraconstitucional em data anterior à Constituição de 1988, bem como sobre seu eventual restabelecimento pelo Decreto-Lei 1.894/1981, se insere no campo da legalidade sendo certo que a afronta à Constituição, se ocorresse, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 376.628/RS - AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ 16/12/05; AI 520.648-AgR/DF, Primeira Turma, Rel. Min. Cezar Peluso, DJ 3/12/04; RE 629.606/PR, Segunda Turma, Rel. Min. Ricardo Lewandowski, Dje 13/6/12; ARE n° 668.479/DF, Relatora a Ministra Cármen Lúcia, DJe de 1°/8/13.
+    Ressalto que no RE nº 577.348/RS, o Ministro Relator Ricardo Lewandowiski, após externar a sua posição pessoal sobre a questão relativa ao não restabelecimento do benefício fiscal em questão, pela Lei nº 8.402/92, fez questão de esclarecer que tal argumento foi trazido tão somente a título de retórica e que não importa em vinculação para os casos subsequentes, pois a matéria é de índole infraconstitucional.  É o que se observa do trecho do voto a seguir transcrito:
+    Com essa argumentação, eminentes Pares, estou afastando a possível alegação – e alguns a fazem - no sentido de que esta Lei 8.402 teria, de alguma forma, restabelecido o crédito-prêmio. Porém, de forma nenhuma, seja porque não fez alusão ao artigo 1º do Decreto-Lei 491, seja porque, à luz da Lei de Introdução do Código Civil, não houve expressa repristinação desse texto. Enfim, essa é uma matéria infraconstitucional e que trago aqui apenas à guisa de obiter dictum e como uma consideração a latere.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 14 de novembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
