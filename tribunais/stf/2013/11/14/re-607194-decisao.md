@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário contra acórdão do Tribunal Regional Federal da 5ª Região que possui a seguinte ementa:
+    “CONSTITUCIONAL. ADMINISTRATIVO E PROCESSUAL CIVIL. REQUERIMENTO DE QUEBRA DO SIGILO BANCÁRIO. PROCEDIMENTO DE JURISDIÇÃO NÃO CONTENCIOSA. FISCALIZAÇÃO TRIBUTÁRIA PARA VERIFICAÇÃO DOS REQUISITOS PARA O GOZO DA IMUNIDADE. INSTITUIÇÃO DE ENSINO. LIVRO CAIXA. INDÍCIOS DE IRREGULARIDADES. NATUREZA NÃO ABSOLUTA DO DIREITO AO SIGILO BANCÁRIO.
+    1. O colendo Superior Tribunal de Justiça já reconheceu a natureza não contenciosa do procedimento através do qual se busca autorização judicial para a quebra do sigilo bancário.
+    2. Desnecessária a indicação de ação principal, porquanto a pretensão da Administração Fazendária tem origem em fiscalização tributária e se destina à verificação dos requisitos para a imunidade postulada pela instituição de ensino.
+    3. É assente o entendimento jurisprudencial no sentido de que o sigilo bancário não é um direito de natureza absoluta, devendo ceder diante do interesse público, do interesse da justiça, do interesse social, e podendo ser desvendado diante de fundadas razões, ou da excepcionalidade do motivo, em medidas e procedimentos administrativos, pautados no princípio da razoabilidade.
+    4. Mostrando-se insuficiente a escrituração contábil e fiscal para aferição dos requisitos ao gozo da imunidade (CF/88, art. 150, VI, “c”, c/c CTN, art. 9º, IV, “c” e art. 14), não sendo atendida a reiterada intimação para apresentação de documentos exigidos pelo Fisco para tanto, reconhece-se a presença de relevante interesse público para a quebra do sigilo bancário (Lei 4595/64, art. 38, § 1º).
+    5. Apelação improvida” (fl. 334).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, II, XXXV, LIV e LV da mesma Carta. O recorrente entende que a questão é “saber qual procedimento deve ser adotado, e se se deve respeitar, ou não, o contraditório e a ampla defesa, quando da apreciação de pedidos de quebra de sigilo bancário” (fl. 423).
+    O Ministério Público Federal opinou pelo não conhecimento do recurso e, no mérito, pelo desprovimento.
+    A pretensão recursal não merece acolhida. A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios da prestação jurisdicional e do devido processo legal, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Ademais, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, no que diz respeito à quebra do sigilo pela autoridade judiciária, após providências tomadas com base na legislação infraconstitucional, faz-se necessário o exame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, transcrevo ementa do RE 230.581-AgR/MG, Rel. Min. Eros Grau:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TAXA DE FISCALIZAÇÃO. REEXAME DE provas. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+    1. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF.
+    2. Agravo regimental a que se nega provimento”.
+    No mesmo sentido, as seguintes decisões entre outras: RE 555.882/MG, Rel. Min. Ellen Gracie; RE 457.640/MG, Rel. Min. Celso de Mello; AI 825.537/MG, Rel. Min. Joaquim Barbosa.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de novembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
