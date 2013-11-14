@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 22, de 6 de novembro de 2013
+ASSUNTO: Normas de Administração Tributária EMENTA: RETENÇÃO INDEVIDA DE TRIBUTOS NA FONTE. PESSOA LEGITIMADA A PLEITEAR A RESTITUIÇÃO. Na hipótese de retenção indevida de tributos na fonte, cabe ao beneficiário do pagamento ou crédito o direito de pleitear a restituição do indébito. Pode a fonte pagadora pedir a restituição, desde que comprove a devolução da quantia retida ao beneficiário, observada a disciplina própria. DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 (Código Tributário Nacional - CTN), arts. 121 e 165, I; Instrução Normativa RFB nº 1.234, de 2012, arts. 3º, § 12, e 8º; Pareceres Normativos SRF nº 313, de 1971, e nº 258, de 1974.
+[arquivo anexo: SC Cosit 22-2013.pdf]
