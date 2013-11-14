@@ -1,0 +1,14 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Paraná. Acórdão do qual se extrai a seguinte ementa:
+    “AÇÃO DECLARATÓRIA CUMULADA COM REPARAÇÃO DE DANOS – UNIMED – APROVAÇÃO EM ASSEMBLEIA DE PLANO DE AUTO GERADOS – IMPROCEDÊNCIA – APELAÇÃO – INDEFERIMENTO DE PERGUNTAS FORMULADAS À TESTEMUNHA – CERCEAMENTO DE DEFESA NÃO CARACTERIZADO – AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO NO MOMENTO PROCESSUAL ADEQUADO – PRECLUSÃO – NO MÉRITO, AS ALEGAÇÕES NÃO ENCONTRAM EMBASAMENTO PROBATÓRIO – AUTONOMIA DA COOPERATIVA PARA CRIAR PROJETOS COM O OBJETIVO DE VIABILIZAR O EXERCÍCIO DE SUA ATIVIDADE ECONÔMICA – ASSEMBLEIA QUE ATENDE AO DISPOSTO NO ESTATUTO DA UNIMED – DESPROVIMENTO DO RECURSO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, V, X, XIII, XXXVI e LV da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que incide, no caso, a Súmula 282 /STF.
+    O recurso extraordinário é inadmissível. Incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “(...) II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Ademais, no tocante à alegada violação ao art. 5º, XXXVI, da Constituição, a questão só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. No presente recurso, a parte recorrente não cogita de retroação de lei superveniente, somente postula uma nova apreciação das cláusulas constantes do contrato celebrado entre as partes, não ensejando a abertura da via extraordinária. Nessas condições, a hipótese atrai a incidência da Súmula 454/STF.
+    Por fim, para se chegar a conclusão diversa do acórdão recorrido seria imprescindível uma nova apreciação dos fatos e do material probatório constante nos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Nessa linha, veja-se o AI 738.172, Rel. Min. Gilmar Mendes.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 14 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
