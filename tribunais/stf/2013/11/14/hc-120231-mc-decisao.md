@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão do Ministro Marco Aurélio Bellizze, do Superior Tribunal de Justiça, que, nos autos do HC 278.657, negou pedido de relaxamento da prisão preventiva.
+    Sustenta a impetrante, em síntese, que o paciente aguarda o julgamento de sua apelação perante o TRF da 3ª Região desde abril de 2012, o que revela inegável excesso de prazo. Alega, ainda, constrangimento ilegal decorrente da manutenção do regime prisional fechado. Requer, assim, o deferimento do pedido de liminar, para que (a) o paciente seja posto em liberdade; e (b) subsidiariamente, seja determinada a progressão do regime de cumprimento da pena.
+    2. O acórdão impugnado não apreciou o pedido referente à possibilidade de progressão do regime prisional. Desse modo, qualquer juízo desta Corte acerca da matéria implicaria indevida supressão de instância e contrariedade à repartição constitucional de competências (v.g., entre outros, HC 112.100/DF, 2ª T., Min. Cezar Peluso, DJe de 24/08/2012 e HC 113.490/RS, 1ª T., Min. Luiz Fux, DJe de 06/09/2012).
+    3. De resto, não estão presentes os requisitos autorizadores da concessão da liminar. A jurisprudência do STF é no sentido de que o excesso de prazo, como circunstância apta a ensejar o constrangimento ilegal, somente se dá nos casos de evidente desídia do órgão julgador, ou nos que a demora seja incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da CF (cf.: HC 108.514/MT, 1ª Turma, Min. Rosa Weber, DJe 21/06/2012; HC 110.030/ES, 2ª Turma, Min Ayres Britto, DJe 21/03/2012; HC 110.729/SP, 2ª Turma, Min. Ricardo Lewandowski, DJe 26/03/2012). Na espécie, não se evidencia, desde logo, qualquer dessas hipóteses.
+    4. Convém ressaltar, por fim, que a impetrante sequer interpôs agravo interno contra a decisão impugnada. Ora, nestas circunstâncias, não se pode admitir o uso do habeas corpus como substitutivo de recurso interno, apto a exaurir o exame da causa pelo competente órgão colegiado do STJ.
+    5. Com essas considerações, indefiro o pedido de liminar. Solicitem-se informações ao TRF da 3ª Região. Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 14 de novembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
