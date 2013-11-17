@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Gabinete prestou as seguintes informações:
+    Suely Vallim, servidora pública estadual, afirma haver a Segunda Turma Recursal do Juizado Especial da Fazenda Pública do Estado de São Paulo, no julgamento do Processo nº 1001137-84.2013.8.26.0053, olvidado o teor do Verbete Vinculante nº 16 da Súmula do Supremo.
+    Informa o ajuizamento de ação contra o Estado de São Paulo visando a inclusão do prêmio de incentivo, instituído pela Lei estadual nº 8.975/94, na base de cálculo do décimo terceiro salário e do terço constitucional de férias, além do pagamento de diferenças. Esclarece haver sido julgado procedente, em parte, o pedido em primeira instância, para determinar o recálculo das mencionadas verbas na forma postulada, inclusive mediante a quitação de parcelas atrasadas. Aponta o provimento de recurso inominado pelo Órgão reclamado, para assentar a insubsistência do pleito, ao fundamento de que o prêmio de incentivo ostentaria natureza de gratificação, sem implicar reajuste de vencimentos. Assevera a interposição de declaratórios, os quais foram desprovidos.
+    Diz da adequação do Verbete Vinculante nº 16 da Súmula do Supremo relativamente aos servidores públicos, considerado o disposto no artigo 39, § 3º, da Carta da República. Evocando o artigo 7º, incisos VIII e XVII, do Diploma Maior, argumenta que o décimo terceiro salário deveria ser pago sobre a “remuneração integral”, enquanto o terço de férias incidiria sobre o “salário normal”.
+    Consoante articula, presente o mencionado verbete, o artigo 39, § 3º, da Constituição Federal remete ao total da remuneração percebida pelo servidor, na qual estariam incluídos os vencimentos e as vantagens pecuniárias, abrangidos, nestas, os adicionais e as gratificações. Afirma, então, a irrelevância da natureza jurídica do prêmio de incentivo, se gratificação ou aumento disfarçado de vencimentos, uma vez que ambos consistiriam em remuneração. Reitera o equívoco do Órgão reclamado ao tomar, como base de incidência do décimo terceiro e do terço de férias, apenas os vencimentos do servidor e não o total da remuneração.
+    Não faz referência ao requisito do risco e tampouco formula pedido de concessão de medida acauteladora.
+    Requer a cassação do ato impugnado.
+    2. Não concorre a pertinência do pedido. O Verbete Vinculante nº 16 da Súmula do Supremo revela, com eficácia maior, que a garantia do salário mínimo, prevista no artigo 7º, inciso IV, da Carta Federal, refere-se à totalidade da remuneração do servidor, não se restringindo ao vencimento básico. Diferentemente, na espécie, há discussão alusiva à inclusão, ou não, da parcela denominada prêmio de incentivo na base de incidência do décimo terceiro salário e do terço de férias devidos a servidor estadual. O caso não se faz voltado à garantia da remuneração mínima, mas diz respeito apenas à forma de cálculo de certas rubricas, no que não se verifica a mencionada inobservância.
+    Atentem para a organicidade e a instrumentalidade do Direito. Parte-se, na espécie, de exercício interpretativo para, com isso, guindar, com queima de etapas, a controvérsia ao Supremo.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 17 de novembro de 2013.
+Ministro MARCO AURÉLIO
+Relator
