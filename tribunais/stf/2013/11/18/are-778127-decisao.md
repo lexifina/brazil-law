@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 68):
+    “MANDADO DE INJUNÇÃO. OMISSÃO LEGISLATIVA. MAGISTÉRIO PÚBLICO ESTADUAL. ADICIONAL NOTURNO. ARTIGOS 7º, IX, E 39, § 3º, DA CONSTITUIÇÃO FEDERAL E ARTIGO 29, IV, DA CONSTITUIÇÃO ESTADUAL. PRELIMINAR DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO. REJEIÇÃO. INEXISTENTE REGRAMENTO ESPECÍFICO EM RELAÇÃO AO TRABALHO NOTURNO DESEMPENHADO PELA IMPETRANTE, CABÍVEL A CONCESSÃO DA ORDEM PARA LHE CONCEDER TAL DIREITO, SUPRINDO A OMISSÃO LEGISLATIVA, POR APLICAÇÃO DOS ARTIGOS 7º, IX, E 39, § 3º, DA CONSTITUIÇÃO FEDERAL E 29, IV DA CONSTITUIÇÃO ESTADUAL E ARTIGOS 34 E 113, "CAPUT" E PARÁGRAFO ÚNICO, DA LEI ESTADUAL Nº 10.098/94. PRECEDENTES DO ÓRGÃO ESPECIAL.
+    REJEITARAM A PRELIMINAR E, NO MÉRITO CONCEDERAM A ORDEM. UNÂNIME.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LXXI; 7º, IX; e 39, § 3º, da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que, “em verdade, o que se observa é a adequação do ordenamento jurídico ao caso concreto, prática que, evidentemente, não ofende os regramentos constitucionais tidos como contrariados" (fl. 101).
+    O recurso não deve ser provido. Note-se que o Tribunal de origem, visando a atender ao comando constitucional que estende a servidores o direito à “remuneração do trabalho noturno superior à do diurno”, concedeu mandado de injunção para determinar que o Estado aplique à hipótese o disposto nos arts. 34 e 113, caput, da Lei Complementar Estadual nº 10.098/1994. Com efeito, dissentir do entendimento fixado pelo Tribunal de origem, acerca do enquadramento normativo do adicional devido à recorrida, exigiria o reexame das referidas legislações locais. Nessas condições, aplica-se a Súmula 280/STF. Nesse sentido, vejam-se julgados das duas Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MAGISTÉRIO. ADICIONAL NOTURNO. LEI COMPLEMENTAR ESTADUAL N. 10.098/1994 E LEI ESTADUAL N. 6.672/1974. MATÉRIA INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 764.519 AgR, Rel.ª Min.ª Cármen Lúcia, Segunda Turma)
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. HORAS EXTRAS E ADICIONAL NOTURNO. REGIME DE COMPENSAÇÃO. LEIS ESTADUAIS 2.148/77 E 2.270/80 E DECRETO 11.711/90. MATÉRIA INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF.
+    I – O acórdão recorrido dirimiu a questão dos autos com base no conjunto fático-probatório dos autos e na legislação infraconstitucional local aplicável à espécie, o que inviabiliza o recurso extraordinário, nos termos das Súmulas 279 e 280 do STF.
+    II - Agravo regimental improvido.” (RE 529.464 AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
