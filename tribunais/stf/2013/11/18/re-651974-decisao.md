@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, VALE S/A. Aparelhado o recurso na afronta ao art. 114, IX, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta ao preceito constitucional indicado nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da matéria infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Comodato. Natureza. Reintegração de posse. Competência. Reexame de fatos e provas. Impossibilidade Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame das provas dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido” (AI 819.439-AgR/DF, Rel. Min Dias Toffoli, 1ª Turma DJe 07.5.2013)
+    “Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário (art. 102, III, a , da Constituição). O acórdão recorrido, em reintegratória, rejeitou exceção de incompetência da Justiça estadual e determinou prosseguimento da reintegração de posse de imóvel cedido em comodato à parte ora agravante. Alega o recorrente vulneração do art. 114, I, VI, IX, da Constituição federal. Afirma a existência de vínculo trabalhista com os sócios da parte agravada a configurar competência absoluta da Justiça do Trabalho para apreciação da controvérsia sobre a natureza da ocupação do imóvel objeto da lide. Não prospera o recurso. Observo que o acórdão recorrido, com fundamento na prova dos autos, reconheceu que a ocupação do imóvel não decorrera do vínculo trabalhista, mas de contrato de comodato. A ausência de relação entre referido comodato e o contrato de emprego afastaria a competência da justiça especializada. Aferir a suposta inconstitucionalidade dessas conclusões exigiria reexame do contexto fático-probatório que orientou a decisão impugnada, circunstância que inviabiliza o recurso nos termos do enunciado da Súmula 279 desta Corte. Do exposto, nego seguimento ao agravo de instrumento” (AI 762.373/SP, Rel. Min. Joaquim Barbosa, DJe 23.02.2011)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de novembro de 2013.
+Ministra Rosa Weber
+Relatora
