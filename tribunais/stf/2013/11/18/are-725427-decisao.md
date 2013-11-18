@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. ESTADO DO RIOGRANDE DO SUL E SUPERINTENDÊNCIA DE PORTOS E HIDROVIAS. AÇÃO ORDINÁRIA. SERVIDOR TEMPORÁRIO. SERVENTE. RELAÇÃO DE EMPREGO INEXISTENTE. VERBAS TRABALHISTAS INADMISSÍVEIS.
+    Os servidores temporários, que são contratados em caráter emergencial, sujeitam-se ao regime jurídico estatutário, porque o vínculo formado com a Administração Pública é de natureza administrativa, não se lhes aplicando as normas previstas na Consolidação das Leis do Trabalho – CLT. Dessa forma, inviável a condenação do poder público estadual ao pagamento de verbas rescisórias em decorrência da extinção do contrato de trabalho.
+    APELAÇÃO DESPROVIDA” (fl. 279).
+    Constou no voto condutor que “a relação empregatícia estabelecida entre as partes deu-se mediante contrato temporário de trabalho, sob regime da Lei Estadual nº 10.376/1995 e suas prorrogações, a qual autorizou, em conformidade com o inciso IX, artigo 37, CF, a contratação em caráter excepcional para atender a necessidade temporária do ensino”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 7º, caput e incisos, e art. 37, II, da mesma Carta.
+    O agravo não merece acolhida. Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Estadual nº 10.376/1995). Dessa forma, o exame da alegada ofensa ao texto constitucional envolveria a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Servidor público municipal. Complementação de proventos. Reexame de legislação local. Ofensa reflexa. Impossibilidade. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. O recurso extraordinário não se presta ao reexame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 3. Agravo regimental não provido” (AI 796.875- AgR/SP, Rel. Min. Dias Toffoli).
+    Seguindo essa mesma orientação, menciono outras decisões: AI 715.626/SP, Rel. Min. Joaquim Barbosa; ARE 684.299/SP, Rel. Min. Cármen Lúcia; e AI 782.466/SP, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de novembro de 2013.
+Ministro Ricardo Lewandowski
+- Relator -
