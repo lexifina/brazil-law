@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 2ª Turma Recursal dos Juizados Especiais de Pernambuco, assim ementado:
+    “PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. NULIDADE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. INCAPACIDADE LABORATIVA. LAUDO PERICIAL. REQUISITOS LEGAIS NÃO ATENDIDOS. RECURSO IMPROVIDO.
+    - O art. 59 da Lei 8.213/91 estabelece que o auxílio-doença será devido ao segurado que, havendo cumprido, quando for o caso, o período de carência exigido nesta Lei, ficar incapacitado para o seu trabalho ou para a sua atividade habitual por mais de 15 (quinze) dias consecutivos.
+    - O insigne perito judicial atestou, em laudo médico, que a parte autora possui capacidade para o labor. Assim, considerando o teor do referido laudo médico-pericial, entendo que a improcedência da pretensão deduzida é manifesta, dispensando a produção de prova testemunhal que, qualquer que seja o resultado, será sempre insuficiente para afastar essa conclusão.
+    - Em realidade, compete ao douto magistrado julgador o exercício do livre convencimento motivado, não estando, desse modo, obrigado a realização de audiência de instrução. Outrossim, a ausência desta não fulmina de nulidade o feito, nem acarreta cerceamento de defesa por parte do douto magistrado, tendo em vista que, conforme laudo médico anexado aos autos, o requisito incapacidade não foi preenchido e a prova testemunhal, considerando a sua carga subjetiva, não teria o condão de reverter o entendimento do juiz a quo.
+    - Não é peremptória a exigência de especialização pelo perito judicial em área da medicina relativa a todas as enfermidades enfrentada pelo periciando, pois a função do expert não é prestar assistência médica voltada à recuperação do paciente, mas de examinar eventuais limitações decorrentes e avaliar possíveis repercussões em sua capacidade laborativa.
+    - Destarte, não preenchido o requisito legal da incapacidade, resta improcedente o pleito de concessão de benefício previdenciário.
+    - Na hipótese em exame, verifico que a sentença recorrida analisou perfeitamente a lide, sendo desnecessárias novas considerações além das já lançadas. Neste aspecto, a sentença que se mantém pelos próprios fundamentos, por força do art. 46 da Lei n. 9.099/95, norma legal de acordo com os princípios que regem os juizados especiais federais e declarada constitucional pelo STF em diversas ocasiões.
+    - Recurso inominado improvido.
+    - Sem condenação em honorários advocatícios, em virtude do disposto no art. 55 da Lei nº 9.099/95, aplicável aos JEFs devido ao comando do art. 1º da Lei nº. 10.259/20001”.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que “a alegada ofensa à Constituição é reflexa, indireta, o que também inviabiliza a admissibilidade do mesmo”.
+    O recurso extraordinário é inadmissível, tendo em vista que a jurisprudência do Supremo Tribunal Federal é no sentido de que a matéria relativa ao cumprimento dos requisitos para concessão de benefícios previdenciários não tem natureza constitucional, justamente por tratar-se de matéria infraconstitucional e demandar o reexame do acervo probatório dos autos. Nessa linha, vejam-se o RE 229.571-AgR, Rel. Min. Ilmar Galvão, o AI 806.029-AgR, Rel.ª Min.ª Cármen Lúcia, e o ARE 674.431-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria de trabalhador rural. Requisitos para concessão do benefício não demonstrados na origem. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    2. Agravo regimental não provido”.
+    Quanto a alegação de violação ao art. 5º, LV, da Constituição, observo que para dissentir do acórdão recorrido seria necessária a análise da legislação infraconstitucional pertinente, procedimento inviável em sede de recurso extraordinário. Nessa linha, veja-se a seguinte passagem da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “(...)
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes”.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
