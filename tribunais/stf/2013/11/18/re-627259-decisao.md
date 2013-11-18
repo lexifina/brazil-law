@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Francisca Francinete Pereira. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, LIV e LV, e 37, XV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: AI 850.534-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 16.11.2011; RE 562.757-ED, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 05.9.2012; e RE 430.842-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.5.2012, com a seguinte ementa:
+    “Agravo regimental no recurso extraordinário. Transposição do regime celetista para o estatutário. Negativa de prestação jurisdicional. Não ocorrência. Prequestionamento. Ausência. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Sentença proferida pela Justiça do Trabalho. Efeitos. Direito adquirido. Inexistência. Reexame de provas. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente fundamentada. 2. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alegam violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 3. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 4. O entendimento desta Corte é no sentido de que os efeitos da sentença condenatória proferida na Justiça do Trabalho limita-se à data da instituição do regime jurídico único. 5. Não há direito adquirido às diferenças remuneratórias reconhecidas em sentença trabalhista. 6. Inadmissível, em recurso extraordinário, o reexame das provas dos autos. Incidência da Súmula nº 279/STF. 7. Agravo regimental não provido” (destaquei).
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de novembro de 2013.
+Ministra Rosa Weber
+Relatora
