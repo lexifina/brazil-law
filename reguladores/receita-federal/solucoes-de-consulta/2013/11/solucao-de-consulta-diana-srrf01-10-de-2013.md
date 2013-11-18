@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF01 nº 10, de 13 de novembro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Mercadoria denominada comercialmente Sistema de tratamento e manuseio de bagagens, fabricada pela Vanderlande Industries España, classifica-se no código 8428.33.00 da NCM. DISPOSITIVOS LEGAIS: Regras Gerais para Interpretação do Sistema Harmonizado RGI/SH-1 (texto da Nota 4 da seção XVI), RGI/SH-2 a) (produto inacabado/desmontado) e RGI/SH-6 (texto da subposição 8428.33), estrutura basilar da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex nº 43, de 22 de dezembro de 2006.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Mercadoria denominada comercialmente Sistema de tratamento e manuseio de bagagens, fabricada pela Vanderlande Industries España, classifica-se no código 8428.33.00 da NCM.
+DISPOSITIVOS LEGAIS: Regras Gerais para Interpretação do Sistema Harmonizado RGI/SH-1 (texto da Nota 4 da seção XVI), RGI/SH-2 a) (produto inacabado/desmontado) e RGI/SH-6 (texto da subposição 8428.33), estrutura basilar da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex nº 43, de 22 de dezembro de 2006.
