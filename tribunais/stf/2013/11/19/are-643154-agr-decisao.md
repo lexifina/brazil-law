@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo regimental interposto de decisão por mim proferida, mediante a qual conheci do agravo para dar provimento ao recurso extraordinário. Na ocasião apliquei a jurisprudência pacífica da Corte no sentido de que o art. 9º do Decreto-Lei 406/1968 foi recepcionado pela Constituição Federal de 1988, pelo que seria possível a dedução da base de cálculo do ISS dos valores dos materiais utilizados em construção civil e das subempreitadas.
+    O Município agravante alerta para o fato de que a tributação que está sendo objeto do mandado de segurança (impetrado em 2003) diz respeito à cobrança do ISSQN com fulcro na Lei Complementar nº 116/2003”, e que todas as decisões citadas como paradigmas “dizem respeito a legislação anterior, Decreto-lei 406/68”.
+    Decido.
+    Assiste razão a agravante. Reexaminando os autos observo que os precedentes utilizados como razão de decidir não aproveitam ao caso dos autos, motivo pelo qual reconsidero a decisão agravada e passo a fazer nova análise do recurso extraordinário.
+    Inicialmente, observo que o Município do Rio de Janeiro interpôs recurso especial, alegando negativa de vigência aos arts. 7º e aos itens 7.02 e 7.05 da Lei Complementar nº 116/03. Nesses exatos termos é que a matéria foi devolvida à Corte Superior.
+    Apreciando o recurso especial, o Superior Tribunal de Justiça deu provimento ao recurso especial para aplicar a jurisprudência uniforme da quela Corte no sentido de que a base de cálculo do ISS é o custo integral do serviço, não sendo admitida a subtração dos valores correspondentes às subempreitadas, nos termos do art. 7º da Lei Complementar nº 116/03.
+    Do acórdão do Superior Tribunal de Justiça o ora agravante não opôs embargos de declaração, insurgindo-se diretamente para esta Corte por meio do apelo extremo. No seu recurso extraordinário aduziu com afronta ao art. 156, III da Constituição que define a hipótese de incidência do ISS, bem como, por entender, que o acórdão recorrido teria violado o Princípio da Vedação a Dupla Tributação.
+    Dessa forma, o recurso não merece prosperar pela total ausência de prequestionamento da matéria constitucional suscitada. O próprio recorrente reconhece que não opôs, oportunamente, embargos de declaração, com o fim de suscitar a matéria constitucional. Apenas argumenta que a não aceitação do recurso extraordinário constituiria “um rigorismo exacerbado”. Incide, portanto, a Súmula 282 da Corte, pois o Superior Tribunal de Justiça apreciou a matéria nos exatos limites da sua competência, restringindo-se a analisar a contenda à luz da Lei Complementar nº 116/03.
+    De mais a mais, a discussão envolvendo a revogação tácita (ou não) do Decreto-lei nº 406/68, pela Lei Complementar nº 116/03, é matéria de índole infraconstitucional. Com efeito, infirmar a revogação do art. 9º, § 3º, do Decreto-Lei 406/68, pelo art. 7º, da Lei Complementar 116/03, demanda necessariamente a análise e interpretação dessa legislação infraconstitucional. Nesse contexto, eventual ofensa ao texto constitucional seria indireta ou reflexa, descabendo a interposição de recurso extraordinário.
+    Diante do exposto, reconsidero a decisão agravada, para, conhecendo do agravo, negar seguimento ao recurso extraordinário. Fica prejudicado o agravo regimental.
+     Publique-se.
+    Brasília, 19 de novembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
