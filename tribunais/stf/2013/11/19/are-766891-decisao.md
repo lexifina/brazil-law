@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Segunda Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul. A decisão manteve sentença que julgou improcedentes pedidos de revisão da renda mensal inicial de benefício concedido com base na redação original do art. 29 da Lei nº 8.213/91, mediante cômputo do salário-de-benefício fixado a partir da média dos 36 melhores salários-de-contribuição entre os integrantes do período básico de cálculo de 48 meses.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 201, §§ 3º, 4º e 11, da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que “a controvérsia cinge-se ao âmbito infraconstitucional, sendo a violação alegada, caso existente, reflexa ou indireta”.
+    O recurso extraordinário é inadmissível, tendo em vista que o Supremo Tribunal Federal, ao apreciar o AI 843.287, Rel. Min. Presidente, decidiu pela ausência de repercussão geral, por se tratar de matéria infraconstitucional, a controvérsia sobre direito de renúncia aos salários-de-contribuição de menor expressão econômica para compor a média aritmética que servirá de base de cálculo para a renda mensal inicial de benefício previdenciário (Tema 406). Confira-se a ementa do julgado:
+    “Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Benefício previdenciário. Renda mensal inicial. Critérios de cálculo. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o direito de se renunciar aos salários-de-contribuição de menor expressão econômica para compor a média aritmética que servirá de base de cálculo para a renda mensal inicial de benefício previdenciário, versa sobre tema infraconstitucional.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 19 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
