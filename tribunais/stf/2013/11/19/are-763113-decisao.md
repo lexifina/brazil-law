@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Primeira Turma Recursal dos Juizados Especiais Federais do Paraná, do qual se extraem os seguintes trechos:
+    “Trata-se de recurso interposto pela parte autora contra sentença que reconheceu a existência de coisa julgada material em relação à ação nº 2006.70.02.004140-1.
+    Aduz o recorrente que apresentou documentos novos que demonstram o exercício de labor rural no período pleiteado, motivo pelo qual faz jus ao seu reconhecimento. Para tanto, requer a reforma da sentença proferida pelo juízo a quo.
+    Realmente, foram apresentados outros documentos que podem servir de início de prova material da atividade rural exercida pelo autor, no período pleiteado. E o recorrente comprovou que não tinha acesso a eles, à época do ajuizamento da primeira demanda, o quê possibilita a relativização da coisa julgada.
+    Entendo que o direito previdenciário é guiado por um princípio fundamental de que o indivíduo não pode ser separado de seu direito de sobreviver pela solidariedade social por uma questão formal. Não é adequado que se sepulte, de uma vez por todas, o direito de receber proteção social em função da certeza assegurada pela coisa julgada, quando a pessoa, na realidade, faz jus à prestação previdenciária que lhe foi negada judicialmente.
+    Enquanto o processo civil clássico aponta para o fechamento preponderantemente indiscutível da coisa julgada, o processo previdenciário busca apoiar-se no princípio constitucional do devido processo legal com as cores específicas da não-preclusão do direito previdenciário.
+    O princípio da não-preclusão do direito à previdência social com a conseqüente desconsideração da eficácia plena da coisa julgada foi objeto de louvável posicionamento assumido pela 5ª Turma do TRF da 4ª Região, ainda no ano de 2002:
+    (...)
+    Diante da fundamentação acima, entendo que a análise da pretensão do recorrente não encontra óbice na coisa julgada previdenciária, o que permite o regular processamento do feito para verificação do exercício de atividade rural no período pleiteado.
+    Desta forma, a sentença deve ser anulada, não sendo possível prosseguir na análise do mérito, nos termos do art. 515, § 3º, do Código de Processo Civil, pois não se trata de matéria exclusivamente de direito.
+    Ante o exposto, voto por ANULAR A SENTENÇA, determinando o retorno dos autos à origem para o regular processamento do feito.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, II e XXXVI, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que “o recurso extraordinário interposto pelo INSS, cuja análise fora postergada, não logra receber juízo de admissibilidade positivo, tendo em vista que eventual contrariedade a dispositivo constitucional seria meramente reflexa, via interpretação de questão infraconstitucional (coisa julgada), o que não autoriza a interposição de recurso extraordinário”. Entendeu-se, ainda, que “em razão da determinação de novo julgamento o recurso extraordinário fica prejudicado”.
+    O recurso extraordinário é inadmissível, tendo em vista que não se enquadra na regra do art. 102, III, da Constituição. Com efeito, nos termos da jurisprudência do Supremo Tribunal, possui natureza interlocutória acórdão que anula sentença e determina o retorno do processo à origem para o regular processamento. Precedente: AI 562.712, Rel. Min. Marco Aurélio.
+    De qualquer forma, não há questão de direito intertemporal a ser decidida quanto à alegada ofensa à coisa julgada, de modo que o exame da matéria pressuporia uma nova apreciação dos fatos e do seu enquadramento à legislação processual que disciplina, de forma específica, o instituto da coisa julgada e seus limites objetivos, o que não enseja a abertura da via extraordinária.
+    Nesse sentido, confiram-se os seguintes precedentes: AIs 587.396-AgR, Rel. Min. Sepúlveda Pertence, 710.529-AgR, Rel. Min. Ricardo Lewandowski, 754.994-AgR, Rel. Min. Ayres Britto, 765.612-AgR, da Rel.ª Min.ª Cármen Lúcia, 767.968-AgR, Rel. Min. Joaquim Barbosa, e 733.272-AgR, Rel. Min. Celso de Mello.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 19 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
