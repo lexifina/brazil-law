@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. GARANTIA DO JUÍZO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra julgado da Primeira Turma do Tribunal Regional Federal da 5ª Região, que decidiu:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. GARANTIA DO JUÍZO. NECESSIDADE. PREVALÊNCIA DA LEF SOBRE O CPC. EXTINÇÃO DO FEITO. 1. O art. 16, § 1º, da LEF dispõe que ‘não são admissíveis embargos do executado antes de garantida a execução’. Por outro lado, o art. 736 do CPC, com a alteração promovida pela Lei n. 11.382/2006, assevera que ‘o executado, independente de penhora, depósito ou caução, poderá opor-se à execução por meio de embargos’. 2. Em face do princípio da especialidade, no caso de conflito aparente de normas, leis especiais sobrepõem-se às gerais. Desta forma, tratando-se a LEF de uma norma especial, deve prevalecer sobre o disposto no CPC, de modo que a admissão de embargos do executado somente seria viável após garantida a execução, por qualquer meio em direito admitido. 3. É de se observar que, caso o devedor não possua patrimônio suficiente para garantia do crédito exequendo, não se pode negar-lhe a única oportunidade de defesa, cabendo-lhe comprovar inequivocamente tal situação. Entender de forma diversa iria de encontro aos princípios constitucionais da inafastabilidade da jurisdição (art. 5º, inc. XXXV) e do contraditório (art. 5º, inc. LV). 4. ‘In casu’, não consta nos autos qualquer informação acerca de efetivação de garantia na execução embargada, ou de comprovação de insuficiência de patrimônio penhorável. 5. Apelação improvida” (fl. 42).
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os incs. XXXV e LV do art. 5º da Constituição da República.
+    Argumenta que “os embargos declaratórios opostos pela Defensoria Pública prescindem de garantia do crédito exequendo” (fl. 49 v.).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    O Desembargador Relator do caso no Tribunal Regional Federal da 5ª Região afirmou:
+    “O art. 16, § 1º, da Lei de Execuções Fiscais – LEF (Lei n. 6.830/1980) dispõe que ‘não são admissíveis embargos do executado antes de garantida a execução’. Por outro lado, o art. 736 do Código de Processo Civil – CPC, com a alteração promovida pela Lei n. 11.382/2006, assevera que ‘o executado, independente de penhora, depósito ou caução, poderá opor-se à execução por meio de embargos’.
+    Em face do princípio da especialidade, no caso de conflito aparente de normas, leis especiais sobrepõem-se às gerais. Desta forma, tratando-se a LEF de uma norma especial, deve prevalecer sobre o disposto no CPC, de modo que a admissão de embargos do executado somente seria viável após garantida a execução, por qualquer meio em direito admitido.
+    (…)
+    A despeito do entendimento supra, é de se observar que, caso o devedor não possua patrimônio suficiente para garantia do crédito exequendo, não se pode negar-lhe a única oportunidade de defesa, cabendo-lhe comprovar inequivocamente tal situação. Entender de forma diversa iria de encontro aos princípios constitucionais da inafastabilidade da jurisdição (art. 5º, inc. XXXV) e do contraditório (art. 5º, inc. LV).
+    ‘In casu’, não consta nos autos qualquer informação acerca de efetivação de garantia na execução embargada, ou de comprovação de insuficiência de patrimônio penhorável” (fls. 43-44 – grifos nossos).
+    Decidir de modo diverso do que assentado nas instâncias precedentes dependeria do reexame de provas, o que não pode ser adotado em recurso extraordinário, nos termos da Súmula n. 279 deste Supremo Tribunal.
+    O novo exame do julgado impugnado exigiria, ainda, a análise prévia de legislação infraconstitucional aplicada à espécie (Lei de Execuções Fiscais e Código de Processo Civil). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL. EXECUÇÃO CIVIL. EMBARGOS DO EXECUTADO. GARANTIA DE JUÍZO. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO. QUESTÕES CONSTITUCIONAIS. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE FATOS E PROVAS. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento” (AI 692.326-AgR, Relator o Ministro Jaoquim Barbosa, Segunda Turma, DJe 15.2.2011).
+    Nada há a prover quanto às alegações da Recorrente.
+    4. Pelo exposto, nego seguimento ao recurso extraordinário (caput do art. 557 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
