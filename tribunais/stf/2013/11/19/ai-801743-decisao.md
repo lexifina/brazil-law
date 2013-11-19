@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO DESERTO. ENTE NÃO BENEFICIADO PELA PRERROGATIVA DO § 1º DO ART. 511 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal de Justiça do Amazonas:
+    “Constitucional. Administrativo. Mandado de Segurança. Servidor aposentado. Proventos incorretos. Relação de trato sucessivo. Direito líquido e certo. Concessão da Segurança.
+    1. O Mandado de Segurança é o instituto constitucional para defesa de direito líquido e certo ameaçado ou violado, por ato manifestamente ilegal ou por abuso de poder, de qualquer Autoridade Pública.
+    2. No caso de pagamento de proventos ou vencimentos, a matéria trata de atos sucessivos, cuja pretensão renova a cada mês o direito do Impetrante.
+    3. Conforme determinado em seu decreto aposentatório resta configurado o direito líquido e certo do Impetrante para receber os seus proventos com base nos valores pagos à de sua aposentadoria.
+    4. Segurança concedida” (fl. 180).
+    2. O recurso extraordinário foi inadmitido sob o fundamento de deserção (fls. 542-547).
+    3. A Agravante afirma que o Tribunal de origem teria contrariado os arts. 2º, 5º, inc. XXXVI, 37, inc. XIII, 40, § 8º, 61, § 1º, da Constituição da República.
+    Argumenta ser “inegável que a atividade desenvolvida pela Amazonprev gestão de Fundos Previdenciários e concessão de benefícios é atividade típica de estado, unindo-o com o ente mantenedor do Regime Próprio de Previdência Estadual, o Estado do Amazonas” (fl. 7).
+    Assevera estar “demonstrada a vinculação litisconsorcial necessária existente entre o Estado do Amazonas e o Fundo Previdenciário do Estado do Amazonas – Amazonprev a exigir a decisão da lide de modo uniforme para as partes em virtude da natureza da relação jurídica da presente ação, pugna a Amazonprev pela admissão do Recurso Extraordinário com base no § 1º do art. 58 do Regimento Interno do Supremo Tribunal Federal” (fls. 8-9).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. O § 1º do art. 511 do Código de Processo Civil dispensa do recolhimento do preparo somente os entes de direito público (União, Estados, Municípios e respectivas autarquias), o que não se dá na espécie, não importando a circunstância de a Amazonprev (pessoa jurídica de direito privado) integrar a Administração Indireta.
+    Além disso, não merece prosperar a invocação do § 1º do art. 58 do Regimento Interno do Supremo Tribunal Federal na espécie, pois incide o dispositivo quando todos os litisconsortes se sujeitam ao recolhimento do preparo recursal.
+    Portanto, há de se manter a decisão do Tribunal a quo quanto à deserção do recurso interposto:
+    “Na espécie vertente, trata-se de instituição sem fins lucrativos, com natureza de serviço social autônoma e personalidade jurídica de direito privado e que não está dispensada, portanto, da exigência e do recolhimento do preparo do recurso extraordinário, conforme o art. 511, § 1º, do Código de Processo Civil. Nesse sentido, o Agravo de Instrumento n. 713.760, de relatoria do Ministro Ricardo Lewandowski, com trânsito em julgado em 16.6.2008. 5. A jurisprudência predominante do Supremo Tribunal Federal firmou-se no sentido de que cabe ao Agravante, no momento da interposição do recurso, a comprovação do preparo do recurso extraordinário, nos termos da exigência legal inscrita nos arts. 59 do Regimento Interno do Supremo Tribunal Federal e 511, caput, do Código de Processo Civil. No mesmo sentido, os seguintes precedentes de minha relatoria: AI 744.514/AM, DJe 1º.4.2009, AI 730.292/AM, DJe 27.3.2009, AI 718.610/AM, DJe 27.3.2009; e AI 726.819, DJe 2.3.2009. 6. Ademais, não merece prosperar a invocação do § 1º do art. 58 do Regimento Interno do Supremo Tribunal Federal na espécie, pois o dispositivo será aplicável quando todos os litisconsortes se sujeitarem ao recolhimento do preparo recursal. No caso vertente, o litisconsorte, Estado do Amazonas, está dispensado do preparo recursal, nos termos do § 1º do art. 511 do Código de Processo Civil. Nada há, pois, a prover quanto às alegações da parte agravante. 7. Pelo exposto, nego seguimento a este agravo (art. 557, ‘caput’, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal)” (AI 751.141, de minha relatoria, decisão monocrática, DJe 29.6.2009, transitada em julgado em 6.8.2009).
+    No mesmo sentido as seguintes decisões monocráticas transitadas em julgado: AI 810.413/AM, Relatora a Ministra Rosa Weber, DJe 28.3.2013; RE 633.391/AM, Relator o Ministro Ricardo Lewandowski, DJe 20.11.2012; AI 843.861/AM, Relator o Ministro Gilmar Mendes, DJe 8.10.2012; e AI 788.200/AM, Relator o Ministro Dias Toffoli, DJe 8.10.2012.
+    A decisão agravada harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da Agravante.
+    6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
