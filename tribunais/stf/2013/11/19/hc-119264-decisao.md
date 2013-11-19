@@ -1,0 +1,30 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Cláudio Gomes da Silva, Iuri Andrade de Lima e César Augusto Farias de Paula Filho contra acórdão do Superior Tribunal Militar que deu provimento parcial à Apelação 11-18.2009.7.10.0010/CE.
+    O Ministério Público Militar denunciou os pacientes pela suposta prática dos delitos de organização de grupo para a prática de violência e abandono de posto, descritos no art. 150 e art. 195, na forma do art. 70, II, l, todos do Código Penal Militar.
+    Em 16.7.2009, a denúncia foi recebida.
+    Encerrada a instrução criminal, o Juiz-Auditor da 10ª Circunscrição Judiciária Militar condenou os pacientes às penas de 04 (quatro) anos, 01 (um) mês e 15 (quinze) dias de reclusão, em regime inicial aberto, com aplicação da pena acessória de exclusão das Forças Armadas. Naquela oportunidade, o magistrado de primeiro grau concedeu o direito de recorrerem em liberdade.
+    Em sede de apelação, o Superior Tribunal Militar deu parcial provimento ao recurso defensivo .
+    Opostos embargos infringentes, não foram conhecidos.
+    Neste writ, a Impetrante alega que o Superior Tribunal Militar não se manifestou acerca da prescrição da pretensão punitiva do paciente Iuri Andrade de Lima, com relação ao crime previsto no art. 150 do Código Penal Militar.
+    Argumenta que o paciente Iuri Andrade de Lima, à época dos fatos descritos na exordial, contava com 20 (vinte) anos de idade, razão pela qual deve ser aplicada a redução pela metade do lapso prescricional.
+    Aduz, por fim, a nulidade da sentença, tendo em vista a divergência existente entre as alegações escritas (art. 223 do CPM - ameaça) e as manifestadas em audiência (art. 150 do CPM - organização de grupo para a prática de violência), de modo a cercear a defesa dos pacientes.
+    Requer, em medida liminar, a extinção da punibilidade de Iuri Andrade de Lima, pela ocorrência da prescrição, com relação à conduta tipificada no art. 150 do CPM e a suspensão do processo nº 11-18.2009.7.10.0010/CE, para obstar a audiência admonitória perante o Juiz-Auditor da 10ª CJM, até o julgamento final desta impetração. No mérito, pugna pela declaração de nulidade absoluta do feito.
+    É o relatório.
+    Decido.
+    Insurge-se a Impetrante contra acórdão do Superior Tribunal Militar que deu provimento parcial à Apelação 11-18.2009.7.10.0010/CE. Eis o teor da ementa:
+    “Apelação. Delitos tipificados no art. 150 e no art. 195, ambos do CPM. Prescrição do delito de abandono de posto. Parcial provimento do recurso defensivo. Aplicação de cânones constitucionais com vistas à redução de pena aquém do mínimo legal.
+    Três militares abandonam o lugar de serviço e, nas imediações da Organização Militar, adentram festa infantil, uniformizados e armados, procurando por mulheres. Civis abeiram-se a um dos soldados, que se apartara dos demais, para alertar de sua inconveniente presença; entretanto, os civis são surpreendidos com agressões dos outros dois soldados que repentinamente se aproximaram. Agrega-se aos atos violentos perpetrados a utilização das armas que, segundo testemunhas, foram utilizadas com veemência para intimidar os civis. Condutas delitivas que se subsumem à tipificação do art. 195 e do art. 150, ambos do CPM, em concurso.
+    Recurso interposto abordando a inexistência do fato e a insuficiência probatória (in dubio pro reo) e, mais especificamente, direcionado à inexistência de exame de corpo de delito, à insuficiência do reconhecimento de pessoas como prova absoluta de imputação de responsabilidade penal e à prejudicialidade dos depoimentos dos ofendidos por ausência de isenção. Teses defensivas restaram rechaçadas.
+    Sobressai do feito demonstração da necessidade de um especial equacionamento, na sistemática penal militar, dos pressupostos atinentes ao princípio constitucional da proporcionalidade.
+    O preceito secundário do art. 150 do CPM está preso a passado específico e, sob esse contexto, algumas circunstâncias sobressaem como destoantes à dosimetria de pena imposta aos Acusados, implicando adoção de critério especial para aplicação ao caso específico. Exsurge, pois, o princípio da proporcionalidade ajustado ao da individualização da pena como consectários de critérios de política criminal. Na espécie, ressalta-se o uso do princípio da proporcionalidade para, in casu, diminuir significativamente a pena mínima imposta aos Réus, a fim de aplicá-la em correspondência aos fatos concretos dentro do contexto social da atualidade.
+    Declaração da extinção da punibilidade pela ocorrência da prescrição da pretensão punitiva, na forma intercorrente, em favor de todos os Recorrentes, no tocante à pena imposta acerca do delito de abandono de posto.
+    Provimento parcial do Recurso Defensivo para reduzir a pena imposta pelo Juízo a quo aquém do mínimo legal, atendendo preceitos de ordem constitucional, ajustados à contextualização dos fatos, aos resultados do delito e aos aspectos históricos que repercutem no tipo penal, com vistas à efetivação de uma política criminal de vanguarda.
+    Decisão majoritária. Aplicação do art. 80, § 1º, inciso II, do RISTM”.
+    Da leitura do ato coator, observo que, em um primeiro exame, foram apresentadas as razões de convencimento da Corte a sustentar o provimento parcial do recurso defensivo para somente reduzir a pena imposta, permanecendo inalteradas as questões referentes à prescrição da pretensão punitiva estatal e a alegada nulidade processual da sentença condenatória.
+    Entendimento diverso necessitaria de exame aprofundado da impetração, inviável nessa fase preliminar.
+    Ademais, a liminar pleiteada de cognição sumária, confunde-se com o próprio mérito da matéria suscitada, cujo exame mais detido será realizado na oportunidade do julgamento da impetração pelo Colegiado.
+    Ante o exposto, indefiro o pedido de liminar.
+    Vista ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 19 de novembro de 2013.
+Ministra Rosa Weber
+Relatora
