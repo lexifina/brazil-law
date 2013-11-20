@@ -1,0 +1,35 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Turma Recursal dos Juizados Especiais Federais da Bahia, assim ementado:
+    “CIVIL. CONTRATO DE FINANCIAMENTO ESTUDANTIL ESTUDANTIL (FIES). AFASTADAS PRELIMINARES DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO. ILEGITIMIDADE DA CEF E LITISCONSÓRCIO PASSIVO NECESSÁRIO DA UNIÃO. NECESSIDADE DE FIADOR PARA O ADITAMENTO CONTRATUAL. EXIGÊNCIA QUE NÃO SE COADUNA COM O OBJETIVO DO PROGRAMA. FUNÇÃO SOCIAL DO CONTRATO E ACESSO À EDUCAÇÃO. IRRAZOABILIDADE. RECURSO DESPROVIDO.
+    1. Não há falar em possibilidade jurídica do pedido por inconstitucionalidade do pleito, haja vista que é exatamente com fulcro em matéria constitucional – qual seja a do acesso ao direito à educação – que respalda a parte requerente sua peça vestibular. Preliminar rejeitada.
+    2. Sendo a CEF a responsável pela implementação dos contratos em questão, bem assim de seu gerenciamento e cobrança (art. 3º, Lei 10.260/01), é ela parte legítima na lide que discute a exigência contratual de fiador, sob pena de não renovação do ajuste. Preliminar rejeitada.
+    3. A União e a Instituição de Ensino Superior não fazem parte da relação contratual questionada, que se efetua apenas entre a CEF e a parte autora, não cabendo cogitar, portanto, de litisconsórcio passivo necessário nesse aspecto. Preliminar rejeitada.
+    4. Sendo o FIES um programa de financiamento destinado a beneficiar as pessoas que não têm poder aquisitivo para enfrentar os custos de uma formação superior em instituições não gratuitas, a exigência da garantia fidejussória desponta como elemento irrazoável, fugindo ao princípio da função social do contrato e criando obstáculo muitas vezes intransponível para o estudante pobre, que se vê obrigado a indicar como fiador alguém que disponha de uma renda mínima equivalente a duas vezes o valor da mensalidade do curso, subvertendo-se, ademais, a presunção de adimplência do contratante, que, em não se verificando, comportará a adoção das medidas judicialmente cabíveis, em ressarcimento da instituição financeira, a despeito da existência de fiador.
+    5. Recurso a que se nega provimento.
+    6. Sem honorários advocatícios, vez que não houve atuação advocatícia em favor doa parte recorrida.” (fls. 190-191).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 205, 206, inciso I e 208, inciso V, todos do texto constitucional.
+    Alega-se, em síntese, que:
+    “Como todo e qualquer contrato de mútuo celebrado entre as partes, a parte cedente do crédito assegura-se nas garantias propostas pelos adquirentes. Não obstante o FIES, como fundamentalmente é contrato de financiamento, deve ser revestido de garantias, a fim de que seja possibilitada a permanência do Fundo, vez que os valores despendidos são revestidos, para que sejam custeados outros financiamentos. (fls. 100-101).
+    (…)
+    A Lei do Fies, ao instituí-lo, buscou formas para evitar a inadimplência, sendo a exigência de fiador razoável. Decidir pela desnecessidade de fiança no contrato de financiamento em questão é encaminhar o FIES à falência e ao total desvanecimento. (fls. 103-104).
+    (…)
+    Isto posto, entende-se que o fiador é necessário, primeiramente, como proteção não só aos credores, mas também a todos os estudantes que precisam do fundo para cursar em instituições particulares. Desconsiderar sua exigibilidade é por em risco parte de sua receita, prejudicando sua manutenção e, por conseguinte, sua finalidade social.” (fl. 107).
+    Decido.
+    A irresignação não merece prosperar.
+    Decidiu o Tribunal de origem que:
+    “(...) a exigência da garantia fidejussória – requisito apontado pela CEF como hábil a garantir o retorno do capital empatado – é elemento dissonante e irrazoável, sobretudo no momento da renovação do contrato, criando obstáculo muitas vezes intransponível para o estudante pobre, que se vê obrigado a indicar como fiador alguém que disponha de uma renda mínima equivalente a duas vezes o valor da mensalidade do curso. Como cediço, é difícil encontrar, dentro do seu círculo social, uma pessoa que se enquadre nesse perfil e que se proponha a tal mister.
+    Assim, tal medida restritiva acaba por negar ao estudante carente o pleno acesso à Educação, um direito sediado na Constituição e superior às normas mencionadas pelo recorrente (CF, arts. 205 e 206).
+    Veja-se tratar de contrato a ser interpretado à luz de sua finalidade social. Atualmente, inclusive, resta indubitavelmente consagrado princípio da função social do contrato (art. 421, da Lei 10.406/2002), a par com o princípio da função social da propriedade. Neste caso, em especial, a função social é qualificada, devendo suas cláusulas ser interpretadas de forma ainda mais criteriosa. A cláusula em questão, ao exigir a presença de fiador em contratos que tais, exorbita o princípio da função social do contrato em comento, desnaturando-o. Acentue-se que não se pode presumir a inadimplência, havendo, ademais, outras formas de cobrar o seu cumprimento.
+    A exigência de fiador no contrato em exame traduz, então, cláusula excessivamente onerosa ao contratante, que desnatura a finalidade primordial da função do contrato de servir de instrumento apto a tornar efetivo o direito à educação, enquanto direito universal assim consagrado no ordenamento jurídico brasileiro, quanto ao quê, no entanto, o Estado tem falhado em efetivar.” (fl. 89).
+    Dessa forma, para dissentir do acórdão recorrido e chegar ao entendimento de que é possível a exigência de garantia fidejussória ulteriormente à assinatura do contrato, far-se-ia imprescindível o reexame de cláusulas contratuais, o que é vedado em sede de apelo extremo por força da Súmula 454 do STF.
+    Ainda que assim não fosse, para se chegar a entendimento diverso do consignado pelo Tribunal a quo, far-se-ia imprescindível a análise da legislação infraconstitucional aplicável (Lei 10.260/2001). Ofensa à Constituição, se existente, dar-se-ia de maneira meramente reflexa e indireta.
+    Nesse mesmo sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRATO DE FINANCIAMENTO ESTUDANTIL. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+    1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil.
+    2. Reexame de matéria fático-probatória e análise de cláusulas contratuais. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal.
+    Agravo regimental a que se nega provimento.” (RE-AgR 598.513, Rel. Min. Eros Grau, Segunda Turma, DJe 17.4.2009).
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 20 de novembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
