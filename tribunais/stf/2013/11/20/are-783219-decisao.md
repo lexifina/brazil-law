@@ -1,0 +1,39 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PISO SALARIAL DE PROFESSORES. AÇÃO COLETIVA. SUSPENSÃO DA AÇÃO INDIVIDUAL: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. MAGISTÉRIO PÚBLICO ESTADUAL. PISO SALARIAL NACIONAL PARA OS PROFESSORES DA EDUCAÇÃO BÁSICA. SUSPENSÃO DE TRAMITAÇÃO DE AÇÃO INDIVIDUAL.
+    Suspensão Tramitação Ação Individual - Em razão da decisão proferida pelo Supremo Tribunal Federal na Ação Direta de Inconstitucionalidade n° 4.167, que reconheceu a constitucionalidade da Lei n° 11.738/08, o Ministério Público ajuizou ação civil pública visando à implementação do piso salarial profissional nacional para os profissionais do magistério público da educação básica. As circunstâncias que envolvem o caso demonstram a conveniência da suspensão dos processos individuais multitudinários, que contêm idêntica e única lide, em razão da macro-lide trazida na ação coletiva. A possibilidade de sobrestamento manifesta-se através do Interesse público de preservação da celeridade e efetividade da Justiça, além da segurança jurídica.
+    Precedente - Superior Tribunal de Justiça no Recurso Especial n° 1.110.549/RS.
+    AGRAVO DE INSTRUMENTO DESPROVIDO”.
+    Os embargos de declaração opostos pela Agravante foram rejeitados.
+    2. A Agravante alega que teriam sido contrariados os arts. 1º, inc. II, 5º, incs. II e XXXV, da Constituição da República.
+    Argumenta que
+    “A parte recorrente é profissional do magistério público da educação básica, integrante do quadro de servidores públicos do recorrido.
+    Em 17 de julho de 2008 foi publicada a Lei n°. 11.738/08 que Regulamenta a alínea "e" do inciso III do caput do art. 60 do Ato das Disposições Constitucionais Transitórias, para instituir o piso salarial profissional nacional para os profissionais do magistério público da educação básica.
+    A Lei 11.738/2008 tem como propósito dar cumprimento ao objetivo constitucional de valorização do magistério (art. 206, incisos V e VIII da CF), assegurando-se com isso igualdade de condições para o acesso e permanência na escola e a garantia de um padrão de qualidade (art. 206, incisos I e VII da CF). Por isso, além de definir um piso para o vencimento inicial da carreira, relacionada a uma determinada carga-horária e formação (Nível e classe), a Lei reconhece que a valorização almejada passa também pela garantia de condições mínimas de trabalho docente.
+    Declarada a constitucionalidade da Lei 11.738/08, a mesma passou a ter efeito vinculante, erga omnes e retroativo.
+    Entretanto, como o recorrido ainda não a cumpre, milhares de educadores gaúchos, a exemplo da parte recorrente, ingressaram com ações individuais almejando o cumprimento da Lei através da implantação do índice por ela estabelecido e com efeito retroativo diante da declaração de constitucionalidade da mesma.
+    Entretanto, o Ministério Público do Estado do Rio Grande do Sul ajuizou ação civil pública que também possui como objeto central a Lei 11.738/08, mas não pretende o pagamento dos retroativos e não lança pretensão aos índices a serem implantados.
+    Frente a essa ação coletiva, todas as ações individuais estão sendo suspensas e a parte recorrente, a exemplo de milhares de educadores do Estado do Rio Grande do Sul, está sendo submetida a uma imposição do Poder Judiciário, pois não há disposição legal que dê guarida a suspensão.
+    Porém, o problema central não reside nessa imposição, mas no efeito dela, tendo em vista que ficarão os educadores gaúchos a mercê do resultado da ação coletiva que foi mal manejada, o que implicará em prejuízos de caráter alimentar”.
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão de direito não assiste à Agravante.
+    6. No julgamento do Agravo em Recurso Extraordinário n. 738.109, Relator o Ministro Teori Zavascki, o Supremo Tribunal Federal reconheceu a inexistência de repercussão geral da questão referente à suspensão da ação individual em decorrência do ajuizamento de ação civil pública com a mesma finalidade e assentou a natureza infraconstitucional dessa matéria:
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. SUSPENSÃO DE AÇÃO INDIVIDUAL EM RAZÃO DE AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA COM A MESMA FINALIDADE. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL (ART. 543-A DO CPC).
+    1. A controvérsia a respeito da viabilidade da suspensão de ação individual, por força de propositura de ação coletiva é de natureza infraconstitucional não havendo, portanto, matéria constitucional a ser analisada (AI 830.805-AgR/DF, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 23.5.2012; ARE 642.119-AgR/DF, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 15.3.2012; AI 807.715-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 25.11.2010; AI 789.312-AgR/MG, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 25.10.2010).
+    2. Não há violação ao art. 5º, inciso XXXV, da Constituição Federal, por suposta omissão não sanada pelo acórdão recorrido ante o entendimento da Corte que exige, tão somente, sua fundamentação, ainda que sucinta (AI 791.292 QO-RG/PE, Rel. Min. GILMAR MENDES, DJe de 13.8.2010), nem ao seus incisos II, XXXVI, LIV e LV, em razão de necessidade de revisão de interpretação de norma infraconstitucional (AI 796.905-AgR/PE, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19.8.2011).
+    3. A matéria infraconstitucional utilizada como razão de decidir pelo acórdão recorrido tendo sido confirmada, definitivamente, pelo Superior Tribunal de Justiça, torna-se imutável e, sendo suficiente para sua manutenção, faz incidir o óbice da Súmula/STF 283.
+    4. Norma definidora de princípios fundantes da República, por ser disposição demasiado genérica, é insuficiente para infirmar o juízo formulado pelo acórdão recorrido.
+    5. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608-RG/SP, Rel. Min. ELLEN GRACIE, Pleno, DJe de 13.3.2009).
+    6. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e arts. 21, § 1º, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
