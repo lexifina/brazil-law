@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 3ª Turma Recursal dos Juizados Especiais do Distrito Federal e Territórios, assim ementado (fl. 82):
+    “JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. ADMINISTRATIVO. CAESB. FORNECIMENTO DE ÁGUA. AUTOR É INVASOR CONFESSO DE IMÓVEL PÚBLICO. DESCABIMENTO. ART. 6º DO DECRETO Nº 32.898/2011. NEGADO PROVIMENTO AO RECURSO. SENTENÇA MANTIDA.
+    O autor, invasor confesso de imóvel público, pleiteia que a empresa ré forneça água ao seu imóvel, eis que seus vizinhos já foram contemplados.
+    O recorrente se insurge contra a r. sentença, às f. 68-70. Aduz que tem o direito à moradia e o acesso a água e saneamento básico. Por fim, requer a reforma da sentença.
+    Não merece acolhimento a pretensão do recorrente, eis que confessadamente ocupa irregularmente imóvel público. Encontra óbice nos ditames do art. 6º do Decreto nº. 32.898/2011, que disciplina as ações de prevenção, controle e erradicação das ocupações irregulares do solo e das áreas de proteção ambiental no Distrito Federal e proíbe novas instalações de redes e ligações de energia e água em novas áreas de parcelamento irregular do solo no Distrito Federal.
+    Ante o exposto, NEGO PROVIMENTO ao recurso e mantenho a r. sentença recorrida. Condeno o recorrente ao pagamento das custas processuais e honorários advocatícios, os quais fixo em R$ 200,00 (duzentos reais), cuja exigibilidade fica suspensa, nos termos do art. 12 da lei 1.060/1950.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente lega violação aos arts. 1º; 3º, incisos I e III; 6º; 185; e 225 da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos: (i) “apesar do recorrente ter afirmado a existência de repercussão geral da matéria discutida na causa, a mesma não restou configurada, tendo em vista que a simples alegação de repercussão geral não é capaz de ensejar o processamento do recurso extraordinário”; (ii) incide, no caso, a Súmula 279/STF; e (iii) eventual ofensa à Constituição, se existente, seria indireta, o que impede o acesso à via extraordinária.
+    O recurso não deve ser provido, tendo em vista que não se discute questão constitucional.
+    Com efeito, o Tribunal de origem, com fundamento na interpretação dada ao Decreto nº 32.898/2011, concluiu que não houve configuração de ato ilícito a ensejar direito à indenização, pois há vedação legal para a instalação do fornecimento de água em domicílio situado em áreas irregulares. Para divergir desse entendimento seria necessário reexaminar os fatos e o material probatório constante dos autos, bem como rever a interpretação dada pelo Tribunal de origem à legislação infraconstitucional pertinente. Hipótese que atrai a incidência das Súmulas 279 e 280/STF. Nessa linha, veja-se os seguintes precedentes: ARE 765.269-AgR, Rel.ª Min.ª Cármen Lúcia; e ARE 763.824-AgR, Rel. Min. Gilmar Mendes.
+    Diante do exposto, com base no art. 544, § 4º, II, a , do CPC, e no art. 21, § 1º, do RI/STF, conheço do agravo, mas nego-lhe provimento.
+    Publique-se.
+          Brasília, 21 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
