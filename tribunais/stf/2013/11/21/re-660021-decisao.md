@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão da Oitava Turma Especializada do Tribunal Regional Federal da 2ª Região, que deu provimento ao recurso de apelação da ora recorrida, assim ementado, no que importa:
+    “MANDADO DE SEGURANÇA. FGTS. AUSÊNCIA DE DEPÓSITO. INADIMPLÊNCIA DO EMPREGADOR. PARCELAMENTO DA DÍVIDA. MOVIMENTAÇÃO DA CONTA VINCULADA. IMPOSSIBILIDADE DE SE ATRIBUIR À CEF O ÔNUS DE GARANTIA DOS RECURSOS. AÇÃO JUNTO À JUSTIÇA DO TRABALHO PARA DIRIMIR LITÍGIO RELATIVO A DESCUMPRIMENTO DE OBRIGAÇÃO DO EMPREGADOR.(...)” (fl. 519).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXII, e 7º, inciso III, da Constituição.
+    A pretensão recursal não merece acolhida.
+    Isso porque não ocorreu o prequestionamento dos dispositivos constitucionais arguidos. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+    A propósito, menciono o seguinte julgado:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ARTIGOS 5º, LIV E LV; 6º; E 93, IX, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE prequestionamento. SÚMULAS STF 282 E 356. 1. O artigo 6º da Constituição Federal não se encontra prequestionado, porque, embora suscitado nos embargos de declaração opostos, não foi argüido nas razões do recurso interposto perante o Tribunal a quo. 2. Os artigos 5º, LIV e LV, e 93, IX, sequer foram suscitados nos embargos de declaração. Se a alegada ofensa à Constituição surge com a prolação do acórdão proferido em embargos de declaração, impõe-se a oposição de novos embargos declaratórios, a fim de que seja suprido o requisito do prequestionamento. 3. Agravo regimental improvido” (AI 696.326-AgR/DF, Rel. Min. Ellen Gracie).
+     É certo, ainda, que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 4.380/1964) e do contexto fático-probatório. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo, bem como uma reavaliação dos fatos e provas constantes nos autos (Súmula 279). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de novembro de 2013.
+Ministro Ricardo Lewandowski
+Relator
