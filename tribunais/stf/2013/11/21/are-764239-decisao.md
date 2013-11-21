@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 2ª Turma Recursal dos Juizados Especiais da Seção do Estado do Rio Grande do Sul, do qual se extraem os seguintes trechos:
+    “(...)
+    Em que pesem as alegações do recorrente, no tocante aos aspectos impugnados, a sentença recorrida merece ser confirmada, pois, consoante entendimento desta Turma Recursal, afigura-se cabível o cômputo de período em gozo de auxílio-doença para fins de carência.
+    Isso porque, embora o inciso II do art. 64 da Instrução Normativa INSS/PR n. 11/2006, que tem a mesma redação do inciso II do art. 64 da Instrução Normativa INSS/PRES n. 20/2007, estabeleça que não será computado como período de carência o período em que o segurado está ou esteve em gozo de auxílio-doença ou aposentadoria por invalidez, a legislação previdenciária nunca contemplou esta vedação expressamente, tampouco houve disciplina especial permitindo expressamente o respectivo cômputo como carência.
+    (…)
+    Outrossim, de acordo com a legislação previdenciária, os períodos gozo de auxílio-doença e de aposentadoria por invalidez, ainda que despidos de recolhimento de contribuições previdenciárias, exigência do art. 24 da Lei n. 8.213/91, são expressamente computados como tempo de serviço e como tempo de contribuição, inclusive sendo computados na fixação do coeficiente de cálculo das aposentadorias, caracterizando verdadeiro contra-senso não admitir o seu cômputo para fins de carência se a própria legislação previdenciária não veda este cômputo.
+    (…)”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 5º; 195, § 5º; e 201, § 1º, todos da Constituição Federal.
+    A decisão agravada, aplicando a sistemática da repercussão geral, na forma do art. 543-B do CPC, inadmitiu o recurso sob o fundamento de que o acórdão recorrido se alinha ao decidido no julgamento do RE 583.834-RG, Rel. Min. Ayres Britto, no sentido de que é possível se “considerar para fins de carência o período que o segurado recebeu benefício por incapacidade quando intercalado com períodos de contribuição”.
+    O recurso não deve ser conhecido, tendo em vista que o Supremo Tribunal Federal assentou não caber agravo contra decisão que aplica a sistemática da repercussão geral na origem, nos termos dos arts. 543-A e 543-B do Código de Processo Civil, bem como a impossibilidade de conversão em agravo regimental quanto aos recursos interpostos após 19.11.2009. Nessa linha, vejam-se Rcl 11.633 AgR, Pleno, Rel. Min. Gilmar Mendes, Rcl 9.471, Rel. Min. Gilmar Mendes, ARE 713.609, Rel. Min. Celso de Mello, ARE 720.845, Rel. Min. Ricardo Lewandowski, ARE 703.326, Rel. Min. Joaquim Barbosa, ARE 654.045, Rel. Min. Luiz Fux, ARE 646.211, Rel.ª Min.ª Cármen Lúcia, e o ARE 698.063 AgR, julgado sob a relatoria do Ministro Gilmar Mendes, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Agravo nos próprios autos que impugna decisão que aplicou a sistemática da repercussão geral. Recurso não conhecido. Precedente: Questão de Ordem no Agravo de Instrumento 760.358, DJe 19.11.2009. 3. Ausência de repercussão geral. 4. Agravo regimental a que se nega provimento”.
+    Diante do exposto, com base no art. 544, § 4º, I, do CPC e no art. 21, § 1º, do RI/STF, não conheço do recurso.
+    Publique-se.
+          Brasília, 21 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
