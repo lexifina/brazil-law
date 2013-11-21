@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de recurso ordinário em mandado de segurança interposto contra decisão que, emanada do E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. PENALIDADE DE SUSPENSÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. NÃO-OCORRÊNCIA. PROCESSO ADMINISTRATIVO DISCIPLINAR. OBSERVÂNCIA DO PRAZO DE 140 DIAS PARA CONCLUSÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL.
+    1. De acordo com jurisprudência consolidada deste Superior Tribunal de Justiça, o prazo legal para término do processo administrativo disciplinar é de 140 (cento e quarenta) dias.
+    2. A contagem do prazo prescricional, após a interrupção prevista no art. 142, § 3º, da Lei nº 8.112/90, deve ser retomada, por inteiro, a partir do término do prazo de interrupção, e não a partir da ciência do fato pela Administração, conforme pretende o impetrante.
+    3. Afasta-se a ocorrência de prescrição da pretensão punitiva estatal se, no momento da aplicação da pena de suspensão, ainda não tiverem transcorridos dois anos, contados a partir do fim do prazo de interrupção previsto no 142, § 3º, da Lei nº 8.112/90.
+    3. Segurança denegada.”
+    (MS 12.767/DF, Rel. Min. MARIA THEREZA DE ASSIS MOURA – grifei)
+    Busca-se, em síntese, a declaração de nulidade do Procedimento Disciplinar SR/DPF/AM nº 018/2005 (08.200.021.433/05-77), em cujo âmbito aplicou-se, ao ora recorrente, pena de suspensão funcional pelo prazo de 60 (sessenta) dias, sustentando-se, na presente sede recursal, que “já se encontrava prescrito o ‘jus puniendi’ administrativo do Estado” (fls. 156 – grifei).
+    O Ministério Público Federal, em promoção da lavra do eminente Dr. RODRIGO JANOT MONTEIRO DE BARROS, à época, Subprocurador-Geral da República, opinou pelo improvimento do presente recurso ordinário, fazendo-o em parecer assim ementado  (fls. 178):
+    “RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO FEDERAL. PENALIDADE DE SUSPENSÃO. PRESCRIÇÃO. INTERRUPÇÃO: LEI Nº 8.112/1990, ART. 142, § 3º. CONTAGEM DO TRANSCURSO DO PRAZO DE 140 DA NÃO CONCLUSÃO PROCESSO ADMINISTRATIVO DISCIPLINAR.
+    1. O Supremo Tribunal Federal firmou jurisprudência no sentido de que ’a instauração do processo disciplinar interrompe o fluxo da prescrição, que volta a correr por inteiro se não decidido no prazo legal de 140 dias, a partir do termo final desse último’. Precedentes.
+    2. A infração disciplinar que deflagrou o PAD foi levada ao conhecimento da Administração em 08.09.2004. Em 18.11.2005 foi baixada a Portaria de instauração do processo, interrompendo o fluxo da prescrição, que voltou a correr às inteiras a partir de 07.04.2006 pela não observância do prazo de 140 dias para o término do PAD. Inocorrente a prescrição da pretensão punitiva do Estado.
+    3. Parecer pelo desprovimento do recurso ordinário.” (grifei)
+    Passo a examinar o pleito em causa. E, ao fazê-lo, entendo não assistir razão à parte recorrente.
+    É que a análise das datas juridicamente relevantes evidencia não estar prescrita, no caso, em relação ao ora recorrente, a pretensão punitiva do Estado no âmbito disciplinar.
+    Com efeito, a Superintendente Regional do Departamento de Polícia Federal no Estado do Amazonas somente teve ciência inequívoca dos fatos, tal como reconhecido pelo próprio recorrente, em 08/09/2004, momento em que se iniciou o prazo prescricional a que alude o inciso II do art. 142 da Lei nº 8.112/90 (dois anos), sendo certo que o concernente processo disciplinar veio a ser instaurado, em 18/11/2005, por meio da Portaria SR/DPF/AM nº 82/2005.
+    Cabe ter presente, no ponto, que a instauração do processo disciplinar qualifica-se como marco interruptivo da prescrição (Lei nº 8.112, art. 142, § 3º), cujo prazo recomeça a contar por inteiro após o transcurso do lapso temporal de cento e quarenta (140) dias que a Administração Pública tem para concluir o inquérito administrativo, tal como já assinalado por esta Suprema Corte:
+    “(...). III. Punição disciplinar: prescrição: a instauração do processo disciplinar interrompe o fluxo da prescrição, que volta a correr por inteiro se não decidido no prazo legal de 140 dias, a partir do termo final desse último.”
+    (MS 23.299/SP, Rel. Min. SEPÚLVEDA PERTENCE – grifei)
+    Verifica-se, desse modo, na espécie, que, findo o prazo de encerramento de mencionado procedimento disciplinar, em 07/04/2006, recomeçou imediatamente a correr, por inteiro, a contagem do prazo prescricional, de modo que a Portaria nº 0157, de 30/01/2007, que aplicou a pena de suspensão funcional pelo prazo de 60 (sessenta) dias ao ora recorrente, veio a ser publicada dentro do biênio legal.
+    Entendo, pois, que não se registrou, no caso, o decurso do lapso temporal necessário ao reconhecimento da prescrição da pretensão punitiva da Administração Pública, eis que, no procedimento administrativo em questão, não transcorreu, em momento algum, o período de 02 (dois) anos, a que se refere o art. 142, II, da Lei nº 8.112/90.
+    Sendo assim, pelas razões expostas e acolhendo, ainda, o parecer da douta Procuradoria-Geral da República, nego provimento ao presente recurso ordinário.
+    Publique-se.
+    Brasília, 21 de novembro de 2013.
+Ministro CELSO DE MELLO
+Relator
