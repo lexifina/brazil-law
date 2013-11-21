@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 32, de 18 de novembro de 2013
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: A parcela paga a servidor público vinculado a Regime Próprio de Previdência Social, indicado para integrar conselho ou órgão deliberativo, na condição de representante do governo, de órgão ou de entidade da administração pública do qual é servidor, não se encontra sujeita à incidência da contribuição para o Regime Geral de Previdência Social. DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 12; Decreto nº 3.048, de 1999, art. 9º; IN RFB nº 971, de 2009, art. 9º.
+[arquivo anexo: SC Cosit 32-2013.pdf]
