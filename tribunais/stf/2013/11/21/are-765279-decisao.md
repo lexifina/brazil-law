@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu, em parte, o recurso extraordinário interposto contra acórdão da 1ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária de Pernambuco. O acórdão recorrido confirmou sentença reconhecendo à servidora inativa o direito de receber a Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo – GDPGPE no mesmo patamar dos servidores ativos.
+    O recurso extraordinário busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação ao arts. 2º; 5º, XXXV, LIV e LV; 37; 40, § 1º, I e III (aplicação da proporcionalidade) e §§ 3º, 7º e 8º; e 97, todos da Constituição, bem como à Súmula 339/STF.
+    O Presidente da 1ª Turma Recursal, quanto ao mérito, determinou o sobrestamento do feito até a conclusão do julgamento, pelo Supremo Tribunal Federal, do RE 631.389-RG, Rel. Min. Marco Aurélio, o qual trata da extensão aos inativos da gratificação mencionada (aplicou o art. 543-B, do CPC). No entanto, sobre a aplicação da proporcionalidade ao caso ora em análise, negou seguimento ao recurso extraordinário, sob o fundamento de que esta questão foi decidida com base na legislação infraconstitucional.
+    A parte agravante interpôs agravo nos próprios autos apenas quanto à aplicação da proporcionalidade, alegando afronta ao art. 40, § 1º, I e III, da Constituição Federal.
+    O agravo não deve ser provido. Com efeito, a instância judicante de origem, ao analisar a gratificação em debate, entendeu que esta não foi fixada em função do tempo de serviço do servidor, descabendo a aplicação da proporcionalidade no caso. Desse modo, dissentir de tal conclusão exigiria a análise de normas infraconstitucionais que tratam sobre o benefício, o que afasta o cabimento do recurso extraordinário. Nesse sentido, vejam-se os seguintes precedentes: ARE 741.814, Rel. Min. Ricardo Lewandowski, ARE 751.676, Rel.ª Min.ª Cármen Lúcia, ARE 761.834, Rel. Min. Luiz Fux, ARE 715.334, Rel. Min. Dias Toffoli, e RE 744.894, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas nego-lhe provimento.
+    Publique-se.
+          Brasília, 21 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
