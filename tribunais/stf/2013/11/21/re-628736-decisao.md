@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto em mandado de segurança. O Tribunal de Justiça do Estado do Rio de Janeiro decidiu, em suma, que, apesar de a Constituição atribuir expressamente aos municípios a competência para legislar sobre assuntos de interesse local e, especificamente, para regular o horário do comércio local, tal competência não é absoluta, devendo ser exercida de forma a respeitar a livre iniciativa, a livre concorrência e os direitos do consumidor.
+    Os embargos de declaração opostos foram rejeitados.
+    No recurso extraordinário, a parte recorrente aponta, com base no art. 102, III, a, da Constituição Federal violação aos seguintes dispositivos constitucionais: (a) art. 93, IX, pois o Tribunal de origem “escusou-se de pronunciamento sobre relevantes questões para a solução da lide, configurando-se pois em negativa de prestação jurisdicional” (v. 16, fl. 2); (b) art. 97, porque “órgão fracionário (12ª Câmara Cível) do C. Tribunal de Justiça do Estado do Rio de Janeiro, sem declarar expressamente a inconstitucionalidade da Lei n. 911/05 do município de Barra do Piraí – RJ, afastou sua incidência (...)” (v. 16, fl. 3); (c) art. 30, I, ao argumento de que o município possui “integral e exclusiva competência para regular o horário de funcionamento dos estabelecimentos comerciais” (v. 16, fl. 3).
+    Em contrarrazões, a parte recorrida postula o desprovimento do recurso.
+    2. O Superior Tribunal de Justiça deu provimento ao recurso especial da recorrente (RESP 1.129.386/RJ, rel. Min. Benedito Gonçalves, DJe 06/10/2010, com trânsito em julgado em 14/10/2010), por ofensa ao art. 535 do CPC, anulando o acórdão proferido nos Embargos de Declaração para que o Tribunal a quo se pronuncie de forma expressa sobre a inconstitucionalidade da Lei Municipal 911/05.
+     Anulado julgamento que integra o acórdão atacado pelo presente recurso extraordinário, com a conseqüente determinação de retorno dos autos ao Tribunal de origem para novo julgamento dos declaratórios, cumpre reconhecer a perda de objeto do presente apelo. Nesse sentido: RE 628820 AgR, Relator(a): Min. ELLEN GRACIE, Segunda Turma, DJe de 07-02-2011; RE 595277 AgR, Relator(a): Min. GILMAR MENDES (Presidente), Tribunal Pleno, DJe de 07-08-2009.
+    3. Diante do exposto, julgo prejudicado o presente recurso.
+    Publique-se. Intime-se.
+    Brasília, 21 de novembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
