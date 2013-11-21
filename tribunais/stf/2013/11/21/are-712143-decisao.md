@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto de acórdão da Terceira Turma Recursal do Juizado Especial Federal do Rio Grande do Sul que manteve sentença que negou pedido de revisão de benefício previdenciário mediante a aplicação dos índices de 2,28% e 1,75% respectivamente nos meses de junho de 1999 e de maio de 2004.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 84, IV, e 87, II, da Constituição, bem como ao art. 14 da Emenda Constitucional nº 20/1998 e ao art. 5º da Emenda Constitucional nº 41/2003. Sustenta que “A REAL PROBLEMÁTICA que envolve a presente demanda está direta e precisamente ligada aos reajustes concedidos especificamente em junho de 1999 (primeiro reajuste após a Emenda Constitucional no. 20/98, através da Portaria 5.188/99) e em maio de 2004 (primeiro reajuste após a Emenda Constitucional no. 41/03, através do Decreto 5.061/04)”.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a controvérsia cinge-se ao âmbito infraconstitucional, sendo a violação alegada, caso existente, reflexa ou indireta”.
+    O recurso é inadmissível, tendo em vista que o Supremo Tribunal Federal, ao apreciar o ARE 685.029, atualmente sob a relatoria do Ministro Teori Zavascki, decidiu pela ausência de repercussão geral da questão alusiva à revisão de renda mensal de benefício previdenciário, em que a parte pleiteia a aplicação dos mesmos índices utilizados para reajuste do teto do salário-de-contribuição, relativamente aos meses de junho de 1999 e maio de 2004 (Tema 589). Confira-se a redação conferida ao título-tema:
+    “Revisão de renda mensal de benefício previdenciário mediante aplicação dos mesmos índices utilizados para reajuste do teto do salário-de-contribuição, relativamente aos meses de junho de 1999 e maio de 2004.”
+    Diante do exposto, com base no art. 543-A, § 5º, e no art. 544, § 4º, II, a, ambos do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+       Brasília, 21 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
