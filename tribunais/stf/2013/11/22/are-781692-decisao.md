@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária da Paraíba, que estendeu aos servidores inativos e pensionistas o pagamento da Gratificação de Estimulo à Docência (GED) no mesmo patamar recebido pelos servidores em atividade, em razão de seu caráter genérico, durante determinado período.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 40, § 8º, da Constituição, bem como à Súmula 339/STF.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que “é inadmissível o RE quando sua análise implica rever a interpretação, aplicação ou inobservância das normas infraconstitucionais que fundamentam a decisão ‘a quo’”.
+    A decisão deve ser mantida. Com efeito, dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica das vantagens concedidas aos servidores, se genéricas ou pro labore faciendo, exigiria o exame da legislação infraconstitucional, providência inviável nesta sede. Nessa linha, é o entendimento de ambas as turmas:
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA - GED. EXTENSÃO A INATIVOS. LEI 9.678/1998. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. Precedentes. II – Agravo regimental improvido.” (Segunda Turma, RE 582273 AgR, Rel. Min. RICARDO LEWANDOWSKI)
+    “Agravo regimental no agravo de instrumento. Servidor público. Gratificação de Estímulo à Docência (GED). Extensão aos inativos. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido. (Primeira Turma, AI 735629 AgR, Rel. Min. DIAS TOFFOLI)
+    Diante do exposto, com base no art. 544, § 4º, II, a , do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas nego-lhe provimento.
+    Publique-se.
+          Brasília, 22 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
