@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR. REGIME ESPECIAL DE TRABALHO POLICIAL – RETP. FORMA DE CÁLCULO. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. PRECEDENTES. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF.
+1. A gratificação de Regime Especial de Trabalho Policial – RETP, quando sub judice a controvérsia sobre a forma de cálculo, implica a análise da legislação infraconstitucional local aplicável à espécie, o que encontra óbice na Súmula 280/STF. Precedente: ARE 730.723 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 18/6/2013.
+2. O princípio constitucional da legalidade, quando debatido sob a ótica infraconstitucional, revela uma violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional, o que torna inadmissível o recurso extraordinário, a teor da Súmula 636 do STF.
+3. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+4. In casu, o acórdão recorrido manteve a sentença por seus próprios fundamentos, a qual afirmou que “o regime especial de trabalho policial RETP consiste em verdadeira gratificação de caráter geral, ou seja, elevação indireta de remuneração para os servidores em atividades, por isso com reflexo nos vencimentos.”
+5. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo ESTADO DE SÃO PAULO, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional contra acórdão que manteve a sentença por seus próprios fundamentos, a qual afirmou que “o regime especial de trabalho policial RETP consiste em verdadeira gratificação de caráter geral, ou seja, elevação indireta de remuneração para os servidores em atividades, por isso com reflexo nos vencimentos.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos arts. 2º, 5º, caput, II e XXXVI, e 37, caput e XV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por não vislumbrar que as razões recursais estão dissociadas do acórdão recorrido, incidindo a Súmula 283 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Não merece prosperar o agravo.
+    A gratificação de Regime Especial de Trabalho Policial – RETP, quando sub judice a controvérsia sobre a forma de cálculo, implica a análise da legislação infraconstitucional local aplicável à espécie, o que encontra óbice na Súmula 280/STF. Nesse sentido, ARE 730.723 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 18/6/2013, com a seguinte ementa:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Polícia Militar do Estado de São Paulo. Fórmula de cálculo da RETP (Regime Especial de Trabalho Policial). Controvérsia decidida com base na legislação local (Portaria PM1 04/02/2011 e LC 745/1993 do Estado de São Paulo). Óbice do Enunciado 280 da Súmula do STF. 3. Alegação de ofensa ao princípio da legalidade. Enunciado 636. 4. Ausência de argumentos suficientes para infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento.”
+    Ademais, o apelo não merece seguimento, uma vez que no que diz respeito à violação ao princípio constitucional da legalidade, aplica-se o teor da Súmula n.º 636 desta Corte: “ não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de novembro de 2013.
+Ministro Luiz Fux
+Relator
+documento assinado digitalmente
