@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Superior Eleitoral, assim ementado (fl.149):
+    “Agravo regimental. Ilegitimidade. 1. Nos termos da Súmula-TSE nº 11, a parte que não impugnou o pedido de registro de candidatura, seja ela candidato, partido político, coligação ou o Ministério Público Eleitoral, não tem legitimidade para recorrer da decisão que o deferiu, salvo se se cuidar de matéria constitucional. 2. Infere-se a ilegitimidade do Ministério Público Eleitoral - ante a ausência de impugnação - para interpor agravo regimental contra decisão deferitória de pedido de registro que versou sobre questão referente ao atendimento da exigência de apresentação de certidão criminal a que se referem os arts. 27, II, da Res.-TSE nº 23.373 e 11, § 1º, VII, da Lei nº 9.504/97. Agravo regimental não conhecido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 127 da Constituição.
+    A decisão agravada negou seguimento ao recurso, em síntese, sob o fundamento de que “o Tribunal Superior Eleitoral não negou vigência ao art. 127 da Constituição da República (...) aplicou sua jurisprudência sumulada sobre a matéria, consolidada a partir da exclusiva interpretação da legislação infraconstitucional pertinente (Lei Complementar n. 64/90 e Código Eleitoral), no sentido de que o Ministério Público Eleitoral não pode recorrer de decisão que deferiu registro de candidato quando não o impugnou, diante da ocorrência de preclusão, salvo se envolver matéria constitucional.”(fls. 209-212).
+    O recurso deve ser admitido. O Supremo Tribunal Federal, no ARE 728.188-RG, sob a relatoria do Ministro Ricardo Lewandowski, reconheceu a existência de repercussão geral da questão relativa à legitimidade do Ministério Público para recorrer de decisão que defere registro de candidatura. O tema ficou assim ementado:
+    “RECURSO EXTRAORDINÁRIO. ELEITORAL. LEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA RECORRER DE DECISÃO QUE DEFERE REGISTRO DE CANDIDATURA, AINDA QUE NÃO HAJA APRESENTADO IMPUGNAÇÃO AO PEDIDO INICIAL. REPERCUSSÃO GERAL. EXISTÊNCIA.”
+    Diante do exposto, dou provimento ao agravo para admitir o recurso extraordinário. Com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 22 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
