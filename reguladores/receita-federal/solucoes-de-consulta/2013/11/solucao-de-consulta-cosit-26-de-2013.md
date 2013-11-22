@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 26, de 13 de novembro de 2013
+ASSUNTO: Normas Gerais de Direito Tributário EMENTA: SERVIÇO SOCIAL AUTÔNOMO. FPAS. ENQUADRAMENTO. A pessoa jurídica de direito privado constituída sob a forma de serviço social autônomo deve se enquadrar no código FPAS 523. ISPOSITIVOS LEGAIS: Instrução Normativa RFB n.º 971, de 13 de novembro de 2009 (na redação atualizada até a Instrução Normativa RFB n.º 1.307, de 27 de dezembro de 2012), artigos 109, caput e parágrafos 1º, inciso I, e 5º, inciso I, 109-A, inciso VII, 109-B, caput, 109-C, caput e parágrafos 1º a 3º, 111-F, inciso III, 111-G, 111-H, parágrafo 2º, e Anexo I.
+[arquivo anexo: SC Cosit 26-2013.pdf]
