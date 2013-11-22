@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PENSÃO ESPECIAL. QUALIDADE DE EX-COBATENTE. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO AI Nº 738.444. OFENSA INDIRETA.
+1. A pensão especial, quando sub judice a controvérsia sobre a caracterização de ex-combatente, não possui repercussão geral apta a tornar o apelo extremo admissível, por está adstrita ao exame de fatos e provas e ao exame da Lei nº 5.315/67, consoante decidido pelo Plenário Virtual do STF, na análise do AI n. 738.444–RG, da Relatoria do Min. Dias Toffoli, DJe 23/11/2010.
+2. In casu, o acórdão recorrido assentou: “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO PRINCIPAL. TEMPESTIVIDADE. EX-COMBATENTE. COMPROVAÇÃO. VIÚVA. PENSÃO ESPECIAL. ART. 53, II E III, DO ADCT, DA CF/88. APLICABILIDADE. AUSÊNCIA DE REQUERIMENTO ADMINISTRATIVO. AJUIZAMENTO DA AÇÃO CAUTELAR PREPARATÓRIA. TERMO A QUO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pela UNIÃO, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO PRINCIPAL. TEMPESTIVIDADE. EX-COMBATENTE. COMPROVAÇÃO. VIÚVA. PENSÃO ESPECIAL. ART. 53, II E III, DO ADCT, DA CF/88. APLICABILIDADE. AUSÊNCIA DE REQUERIMENTO ADMINISTRATIVO. AJUIZAMENTO DA AÇÃO CAUTELAR PREPARATÓRIA. TERMO A QUO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 53 do ADCT.
+    O Tribunal a quo negou seguimento ao apelo extremo por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Não merece provimento o agravo.
+    A pensão especial, quando sub judice a controvérsia sobre a caracterização de ex-combatente, não possui repercussão geral apta a tornar o apelo extremo admissível, por está adstrita ao exame de fatos e provas e ao exame da Lei nº 5.315/67, consoante decidido pelo Plenário Virtual do STF, na análise do AI n. 738.444–RG, da Relatoria do Min. Dias Toffoli, DJe 23/11/2010. Destaco esse passo da manifestação proferida naquela assentada:
+    “Está pacificada na jurisprudência desta Corte a orientação de que a verificação da qualidade de ex-combatente, para fins de concessão do benefício de pensão especial, está adstrita ao exame de fatos e provas à luz da Lei nº 5.315/67. Nesse caso, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Incidência, ademais, da Súmula nº 279/STF. Sobre o tema, anotem-se os seguintes acórdãos: AI nº 565.169/RJ-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 11/11/05; RE nº 566.996/PE-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/3/09; RE nº 540.298/PE-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 12/12/08; AI nº 722.373/RS-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 14/11/08; e AI nº 478.472/SC-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/12/04.
+    Aplicando essa orientação, destacam-se, igualmente, essas recentes decisões monocráticas: RE nº 480.383/RJ, de minha relatoria, DJe de 30/7/10; AI nº 809.858/PE, Relator o Ministro Ricardo Lewandowski, DJe de 24/8/10; AI nº 802.258/SC, Relator o Ministro Celso de Mello, DJe de 25/6/10; RE nº 592.445/PE, Relator o Ministro Cezar Peluso, DJe de 23/4/10; e RE nº 569.960/MG, Relator o Ministro Marco Aurélio, DJe de 2/8/10.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de novembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
