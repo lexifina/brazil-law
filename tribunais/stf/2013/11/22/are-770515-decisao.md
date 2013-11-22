@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de São Paulo. Aparelhado o recurso na afronta aos arts. 2º, 24, 37, e 155, II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O acórdão recorrido não divergiu da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, cristalizada nas Súmulas 70, 323 e 547/STF, verbis:
+    “Súmula 70: É inadmissível a interdição de estabelecimento como meio coercitivo para cobrança de tributo.
+    Súmula 323: É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos.
+    Súmula 547: Não é lícito à autoridade proibir que o contribuinte em débito adquira estampilhas, despache mercadorias nas alfândegas e exerça suas atividades profissionais”.
+    Na esteira da jurisprudência desta Corte, é vedada a a utilização de expedientes oblíquos para cobrança de tributos, notadamente quando implica restrição ao exercício de profissão ou atividade econômica. Nesse sentido, cito os seguintes precedentes:
+    “CONSTITUCIONAL. TRIBUTÁRIO. ICM: REGIME ESPECIAL. RESTRIÇÕES DE CARÁTER PUNITIVO. LIBERDADE DE TRABALHO. CF/67, ART.153, § 23; CF/88, ART. 5º, XIII. I. - O ‘regime especial do ‘ICM’, autorizado em lei estadual, porque impõe restrições e limitações à atividade comercial do contribuinte, viola a garantia constitucional da liberdade de trabalho (CF/67, ART.153, § 23; CF/88, ART. 5º, XIII), constituindo forma oblíqua de cobrança do tributo, assim execução política, que a jurisprudência do Supremo Tribunal sempre repeliu (Súmulas nºs 70, 323 e 547). II. - No caso, os acórdãos indicados como divergentes cuidaram do tema sob o ponto de vista legal, enquanto que o acórdão embargado decidiu a questão tendo em vista a Constituição. Inocorrência, por isso, de divergência capaz de autorizar os embargos. III. - Embargos não conhecidos”. (RE 115.452-ED-EDv, Rel. Min. Carlos Velloso, Tribunal Pleno, DJ 6.11.1990)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. INSCRIÇÃO NO CADASTRO NACIONAL DE PESSOA JURÍDICA. IMPOSSIBILIDADE DE APLICAÇÃO DE RESTRIÇÕES PARA COMPELIR O CONTRIBUINTE INADIMPLENTE A PAGAR O TRIBUTO DEVIDO. PRECEDENTES. INSCRIÇÃO INAPTA: NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 677.242-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.11.2009)
+    Quanto à alegada violação do art. 2º da Lei Fundamental, o Supremo Tribunal Federal entende que o exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Nesse sentido: RE 417.408-AgR/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 26.4.2012; ARE 655.080-AgR/DF, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 09.9.2012, este assim ementado:
+    "Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. 4. Controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de poder. Possibilidade. Ausência de violação ao Princípio da separação de Poderes. Precedentes do STF. 5. Discussão acerca da existência de ilegalidade e quanto à apreciação do preenchimento dos requisitos legais, pela agravada, para investidura no cargo público de magistério estadual. Necessário reexame do conjunto fático-probatório da legislação infraconstitucional e do edital que rege o certame. Providências vedadas pelas súmulas 279, 280 e 454. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento".
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de novembro de 2013.
+Ministra Rosa Weber
+Relatora
