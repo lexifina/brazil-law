@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto em ação declaratória. O Tribunal de Justiça do Estado de Minas Gerais decidiu, em suma, que “somente a lei estadual pode autorizar a incidência de correção monetária sobre os créditos extemporâneos relativos ao ICMS” (fl. 392).
+    Os embargos de declaração opostos foram rejeitados.
+    No recurso extraordinário, a parte recorrente aponta, com base no art. 102, III, a, da Constituição Federal violação aos arts. 5º, caput e XXII, 150, II, e 170, II, da CF, pois (a) a correção monetária é direito adquirido do contribuinte; (b) o Supremo Tribunal Federal reconhece o direito à correção monetária dos créditos de ICMS quando há oposição do fisco.
+    Em contrarrazões, a parte recorrida postula, preliminarmente, o não-conhecimento do recurso, em razão da ausência de prequestionamento. No mérito, pede o desprovimento do recurso.
+    2. Não houve, pelo acórdão recorrido, emissão de juízo acerca da alegação de que há direito à correção monetária dos créditos extemporaneamente escriturados quando ocorre oposição injustificada do Fisco. Ressalte-se que a recorrente sequer suscitou tal tese nos embargos de declaração opostos, para que o Tribunal a quo se pronunciasse sobre a alegação. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o recurso extraordinário no ponto.
+    3. De qualquer forma, o Supremo Tribunal Federal possui o entendimento consolidado no sentido de não reconhecer ao contribuinte o direito à correção monetária dos créditos escriturais de ICMS quando inexistir autorização legislativa para tanto. Nesse sentido: RE 329527 AgR-segundo, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, DJe de 22-08-2013; AI 426283 AgR-ED-ED, Relator(a): Min. CELSO DE MELLO, Segunda Turma, DJe de 16-08-2013 RE 634468 ED, Relator(a): Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 09-04-2012; RE 423091 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, DJe de 15-03-2012; RE 275507 ED, Relator(a): Min. ELLEN GRACIE, Segunda Turma, DJe de 29-06-2011; RE 449106 AgR, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, DJe de 06-05-2011.
+    4. Diante do exposto, conheço do agravo para, desde logo, negar seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 22 de novembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
