@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo regimental cujo objeto é decisão monocrática do Ministro Joaquim Barbosa, relator originário do feito, que negou seguimento ao recurso, pelos seguintes fundamentos (fls. 222/223):
+    “Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Tribunal Regional Federal cuja ementa tem o seguinte teor:
+    ‘CONSTITUCIONAL. ADMINISTRATIVO. MEMBROS INATIVOS DO MINISTÉRIO PÚBLICO DO TRABALHO. TETO REMUNERATÓRIO PREVISTO NO ART. 37, XI DA CF/88. ADICIONAL POR TEMPO DE SERVIÇO E ACRÉSCIMO EM RAZÃO DE APOSENTADORIA NOS TERMOS DO ART, 184, I E II DA LEI COMPLEMENTAR 75/1993. NATUREZA DE VANTAGEM PESSOAL. NÃO INCIDÊNCIA DO REFERIDO LIMITE. APELAÇÃO DESPROVIDA.
+    1. Firmou-se o entendimento jurisprudencial nos Tribunais Superiores de que a matéria prevista no art. 37, XI da CF/88 não é auto-aplicável, estando sujeita à reserva constitucional de lei em sentido formal. A Suprema Corte entendeu que, até a edição de lei definidora do subsídio mensal a ser pago a Ministro do STF, prevaleceria a dicção original do dispositivo, não se incluindo as vantagens pessoais no referido limite remuneratório.
+    2. De acordo com posicionamento firmado pelo STF, o adicional por tempo de serviço e os acréscimos em razão da aposentadoria possuem natureza de vantagem pessoal, não sendo considerados no cômputo do teto remuneratório.
+    3. Honorários reduzidos para 5% sobre o valor da condenação.
+    4. Apelo desprovido e remessa parcialmente provida.’ (Fls. 203)
+    Alega o recorrente que o acórdão recorrido está em desconformidade com o que o dispõe o art. 37, XI, da CF/88 (na redação conferida pela Emenda Constitucional 19/1998) art. 17 do ADCT e no art. 8º da Emenda Constitucional 41/03, visto que as vantagens de cunho pessoal, expressamente excluídas pelo acórdão, deveriam ser incluídas para efeito de fixação do teto.
+    Lembro, inicialmente, que a controvérsia é anterior à Emenda Constitucional 41, de 19.12.2003, de modo que não cabe falar na aplicação de seu art. 8º.
+    Como se sabe, esta Corte, em sessão administrativa de 24.06.1998, entendeu que as normas da EC 19/1998 referentes a teto remuneratório não possuíam auto-aplicabilidade. Assim, a regulamentação anterior à emenda seria válida até que lei fixando o subsídio dos ministros desta Corte fosse editada, conforme estabelece o art. 48, XV, da Constituição federal.
+    Neste contexto, o Supremo Tribunal Federal já reconheceu a exclusão, mesmo após o advento da EC 19/1998, das parcelas de cunho pessoal para efeito de fixação de teto remuneratório dos servidores públicos. Confira-se, nesse sentido, o RE 362.211-AgR (rel. min. Cezar Peluso, DJ 04.03.2005), cuja ementa, na parte que interessa, transcrevo:
+    ‘1. Servidor Público. Vencimentos. Teto. Vantagens pessoais percebidas pelo servidor público inativo. Exclusão. Art. 37, XI, da Constituição Federal, anterior à EC nº 19/98. Ainda após o advento da EC nº 19/98, continua vigente o sistema anterior excluindo-se do limite do teto as vantagens de caráter pessoal, por não editada a lei a que se refere o art. 48, XV, da Constituição.’
+    Na mesma esteira, o AI 396.750 (rel. min. Sepúlveda Pertence, DJ 03.11.2004).
+    Do exposto, nego seguimento ao recurso.”
+    A União alega que, “mesmo sendo a controvérsia anterior à EC nº 41/2003, o que afastaria, conforme ponderou o Ministro relator, a aplicabilidade do art. 8º da referida modificação constitucional, tem-se um dado que não pode ser desconsiderado. É que o acórdão recorrido não determinou a limitação temporal da inclusão das vantagens pessoais no teto remuneratório ao advento da EC nº 41, conforme determina a jurisprudência desse Supremo Tribunal” (fl. 231).
+    A controvérsia relativa à exclusão das parcelas de cunho pessoal para efeito de fixação de teto remuneratório dos servidores públicos mesmo após o advento da EC nº 19/1998 foi equacionada na decisão ora agravada, proferida pelo meu antecessor.
+    Quanto à questão da inclusão das vantagens pessoais incorporadas anteriormente à modificação do artigo 37, XI, da Constituição Federal pela EC 41/2003, também objeto do recurso extraordinário, o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do RE 606.358-RG (Tema 257), julgado sob a relatoria da Ministra Ellen Gracie, reconheceu a existência de repercussão geral da questão constitucional.
+    Diante do exposto, mantenho a decisão agravada e, quanto ao tema submetido à repercussão geral, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B, do CPC.
+    Publique-se.
+          Brasília, 23 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
