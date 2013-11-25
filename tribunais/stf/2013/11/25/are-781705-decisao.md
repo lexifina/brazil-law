@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 208):
+    “SERVIDORES PÚBLICOS ESTADUAIS - POLICIAIS MILITARES E PENSIONISTAS - VENCIMENTOS E PROVENTOS - ADICIONAL POR TEMPO DE SERVIÇO (SEXTA-PARTE E QUINQUÊNIO) - CONTAGEM DE TEMPO DE SERVIÇO POR ATIVIDADES REALIZADAS NA INICIATIVA PRIVADA – DESCABIMENTO - LEI ESTADUAL Nº 6.043/61 E LEI COMPLEMENTAR Nº 269/81 QUE NADA DISPÕEM SOBRE A CONCESSÃO DO ADICIONAL PLEITEADO - SENTENÇA MANTIDA.
+    RECURSO AO QUAL SE NEGA PROVIMENTO. SENTENÇA MANTIDA.”
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação ao art. 201, § 9º; da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário, sob os seguintes fundamentos: (i) Tampouco restou evidenciado qualquer maltrato a normas constitucionais, não sendo atendida qualquer das hipóteses das alíneas 'a', 'b', 'c' e 'd' do permissivo constitucional ; (ii) a análise demandaria o exame de matéria infraconstitucional (fl. 242/243).
+    O recurso extraordinário não pode ser provido. Nota-se que o Tribunal de origem, com base no art. 132 da Constituição do Estado de São Paulo, concluiu que “o tempo de serviço prestado em entidade privada, urbana e rural, tão somente para efeitos de aposentadoria e disponibilidade, nada se referindo aos adicionais temporais.” (fl. 119). Com efeito, dissentir do entendimento assentado no acórdão recorrido, acerca da impossibilidade da contagem de tempo de serviço na iniciativa privada para efeito de aferição da base de cálculo do adicional por tempo de serviço (quinquênios), demandaria uma nova análise da referida legislação local, providência vedada no âmbito do recurso extraordinário, nos termos da Súmula 280/STF. Nessa linha, confira-se a ementa do RE 593.098-AgR, julgado sob a relatoria do Ministro Eros Grau:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES.
+    As normas contidas no artigo 129 da Constituição do Estado de São Paulo dizem respeito tão-somente ao direito local. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local, circunstância que impede a admissão do recurso extraordinário ante o óbice da Súmula n. 280 do Supremo Tribunal Federal.
+    Agravo regimental a que se nega provimento”.
+    Outros precedentes: ARE 681.902, Rel. Min. Gilmar Mendes; ARE 682.548, Rel. Min. Cezar Peluso; e RE 576.197, Rel. Min. Ayres Britto.
+    Por fim, observa-se que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do art. 102, III, da Carta. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 25 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
