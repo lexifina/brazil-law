@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF07 nº 85, de 21 de outubro de 2013
+ASUNTO: Classificação de Mercadorias EMENTA: CÓDIGO NCM: 9018.32.20 Agulha para sutura, utilizada em cirurgias artroscópicas. DISPOSITIVOS LEGAIS: RGI 1(Texto da posição 90.18), RGI 6 (Textos das subposições 9018.3 e 9018.32) e RGC-1 (Texto do item 9018.32.20), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC) aprovada pela Resolução Camex nº 99, de 29 de dezembro de 2011, e da Tabela de Incidência do Imposto Sobre Produtos Industrializados (TIPI), aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.
+ASUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM: 9018.32.20 Agulha para sutura, utilizada em cirurgias artroscópicas.
+DISPOSITIVOS LEGAIS: RGI 1(Texto da posição 90.18), RGI 6 (Textos das subposições 9018.3 e 9018.32) e RGC-1 (Texto do item 9018.32.20), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC) aprovada pela Resolução Camex nº 99, de 29 de dezembro de 2011, e da Tabela de Incidência do Imposto Sobre Produtos Industrializados (TIPI), aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.
