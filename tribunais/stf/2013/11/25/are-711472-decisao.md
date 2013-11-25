@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto de acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. ADMISSIBILIDADE. RECURSO DE REVISTA. RECURSO DE REVISTA. JUROS DE MORA. UNIÃO. LIMITAÇÃO À DATA DA SUCESSÃO DA RFFSA. HORAS SUPLEMENTARES. BASE DE CÁLCULO. COISA JULGADA.
+    Nega-se provimento ao agravo de instrumento quando o agravante não desconstitui os fundamentos contidos no despacho denegatório do recurso de revista.
+    Agravo de instrumento a que se nega provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, II e XXXVI, e 97 da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a controvérsia não extrapola o âmbito da legislação infraconstitucional”.
+    O recurso é inadmissível, tendo em vista que o Supremo Tribunal Federal, ao apreciar o ARE 734.169, Rel. Min. Ricardo Lewandowski, decidiu pela ausência de repercussão geral da questão relativa ao momento da incidência dos juros de mora previstos no art. 1º-F da Lei nº 9.494/1997, nas execuções em que consta a União como sucessora da Rede Ferroviária Federal S.A (Tema 640). Veja-se a ementa do julgado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. RFFSA. SUCESSÃO PELA UNIÃO. MOMENTO DE INCIDÊNCIA DOS JUROS DE MORA PREVISTOS NO ART. 1º-F DA LEI 9.494/1997. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Quanto à alegação de violação ao art. 97, da Constituição, a jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Nessa linha, veja-se a ementa do ARE 723.052/RS, julgado sob a relatoria do Ministro Marco Aurélio:
+    “RECURSO EXTRAORDINÁRIO RESERVA DE PLENÁRIO. Descabe confundir reserva de Plenário– artigo 97 da Constituição Federal – com interpretação de normas legais. RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.”
+    No caso, o Tribunal de origem, ao decidir o momento da incidência dos juros de mora previsto no art. 1º-F da Lei nº 9.494/97, apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse qualquer declaração de sua incompatibilidade com a Constituição Federal. Assim, não há que se fala em ofensa ao art. 97 da Constituição ou à Súmula Vinculante 10. Nessa linha, vejam-se os seguintes precedentes: ARE 728.705, Rel.ª Min.ª Rosa Weber, ARE 736.219, Rel.ª Min.ª Cármen Lúcia, ARE 725.801-AgR, Rel. Min. Ricardo Lewandowski, e ARE 682.475, Rel. Min. Luiz Fux;
+    No tocante à alegação de violação à coisa julgada, o Tribunal Superior do Trabalho assentou os seguintes fundamentos:
+    “[...]
+    No tocante ao tema ‘HORAS SUPLEMENTARES – BASE DE CÁLCULO - COISA JULGADA’, impende transcrever a decisão proferida pelo Regional:
+    ‘Observa-se que a agravante não apontou quais as parcelas que foram incluídas na base de cálculo das horas suplementares.
+    Ainda que se entenda que tenham sido as parcelas indicadas pelo perito como ‘passivo "trabalhista’ e ‘passivo trabalhista sobre vantagens’, constata-se que o perito obedeceu, estritamente, ao comando exequendo, pois estes valores eram considerados para o cálculo de pagamento das horas suplementares.
+    Da mesma forma, foi obedecido o que estabelece a r. decisão quanto às horas noturnas deferidas.
+    Portanto, não houve excesso de execução, pois não há montante que excede a própria parcela deferida em sentença.’ (fl. 94v).
+    Nesse contexto, não há falar em excesso de execução, sequer violação aos dispositivos indicados, pois, segundo o Regional, os comandos contidos na decisão exequenda foram estritamente observados pelo perito quando do cálculo do quantum devido.
+    Observa-se, pois, que os argumentos expostos na minuta não logram êxito em demonstrar o desacerto do despacho de admissibilidade, especialmente ante a correta aplicação do entendimento pacificado nesta Corte, e pelos demais fundamentos adotados no despacho trancatório, que passam a fazer parte integrante das motivações deste agravo de instrumento.”
+    Nessas circunstâncias, não há questão de direito intertemporal a ser decidida quanto à alegada ofensa à coisa julgada, de modo que o exame da matéria pressuporia uma nova apreciação dos fatos e do seu enquadramento à legislação processual que disciplina, de forma específica, o instituto da coisa julgada e seus limites objetivos, o que não enseja a abertura da via extraordinária.
+    Nesse sentido, confiram-se os AIs 587.396-AgR, Rel. Min. Sepúlveda Pertence, 710.529-AgR, Rel. Min. Ricardo Lewandowski, 754.994-AgR, Rel. Min. Ayres Britto, 765.612-AgR, da Rel.ª Min.ª Cármen Lúcia, 767.968-AgR, Rel. Min. Joaquim Barbosa, e 733.272-AgR, Rel. Min. Celso de Mello.
+    Diante do exposto, com base nos arts. 543-A, § 5º, e 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+       Brasília, 25 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
