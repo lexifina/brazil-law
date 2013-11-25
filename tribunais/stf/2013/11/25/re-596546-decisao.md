@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEIS Nº 7.730/89, ARTIGO 30, § 1º, E Nº 7.799/89, ARTIGO 30 – PLANO VERÃO – CORREÇÃO MONETÁRIA DAS DEMONSTRAÇÕES FINANCEIRAS – IMPOSTO DE RENDA – CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO – PRECEDENTES DO PLENÁRIO – PROVIMENTO.
+    1. Afasto o sobrestamento.
+    2. Em 20 de novembro de 2013, o Supremo, apreciando os Recursos Extraordinários nº 208.526/RS, 256.304/RS, 221.142/RS e 215.811/SC, de minha relatoria, decidiu o tema versado neste processo. Na oportunidade, envolvidos efeitos para cálculo do Imposto de Renda Pessoa Jurídica – IRPJ e da Contribuição Social sobre o Lucro – CSL, proclamou a inconstitucionalidade dos artigos 30, § 1º, da Lei nº 7.730/89 e 30 da Lei nº 7.799/89, que estabeleceram a Obrigação do Tesouro Nacional – OTN no valor de NCz$ 6,92, para o ano-base de 1989, como balizador da correção monetária das demonstrações financeiras de pessoas jurídicas daquele ano e dos subsequentes, consignando o reestabelecimento da disciplina legal revogada pelo chamado Plano Verão.
+    Resolvendo questão de ordem, o Plenário submeteu o julgamento dos processos ao regime da repercussão geral, porque anteriormente admitida, quanto à matéria, no Recurso Extraordinário nº 242.689/PR, relator ministro Gilmar Mendes. Nesse ponto, fiquei vencido em virtude de os acórdãos recorridos terem sido publicados em datas anteriores à regulamentação do instituto mediante o Regimento Interno – 3 de maio de 2007.
+    3. Ante o quadro, conheço do recurso e o provejo para, reformando o acórdão formalizado na origem, assentar o direito da parte recorrente à correção monetária considerada a inflação do período nos termos da legislação revogada pelo denominado Plano Verão, afastadas as regras do § 1º do artigo 30 da Lei nº 7.730/89, de 31 de janeiro de 1989, e do artigo 30 da Lei nº 7.799, de 10 de julho de 1989, tidas por inconstitucionais nos precedentes. Ficam invertidos os ônus da sucumbência.
+    4. Publiquem.
+Brasília, 25 de novembro de 2013.
+Ministro MARCO AURÉLIO
+Relator
