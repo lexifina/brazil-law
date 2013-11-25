@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1410, de 13 de novembro de 2013
+Altera a Instrução Normativa SRF nº 513, de 17 de fevereiro de 2005, que dispõe sobre a aplicação do regime aduaneiro especial de entreposto aduaneiro em plataformas destinadas à pesquisa e lavra de jazidas de petróleo e gás natural em construção ou conversão no País, contratadas por empresas sediadas no exterior.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 62 da Lei nº 10.833, de 29 de dezembro de 2003, resolve:
