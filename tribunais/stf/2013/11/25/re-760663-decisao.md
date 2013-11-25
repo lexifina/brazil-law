@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+    “DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. RECURSO ADESIVO. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. PRELIMINAR DE FALTA DE INTERESSE DE AGIR SUSCITADA PELA PROCURADORIA DE JUSTIÇA. ACOLHIMENTO. EXCLUSÃO DE DENUNCIAÇÃO À LIDE EFETUADA PELA TELOS COM RELAÇÃO À EMBRATEL. MÉRITO. CONSTATAÇÃO DE OBRIGATORIEDADE DE COMPLEMENTAÇÃO DE APOSENTADORIA. ALEGAÇÃO DE DANOS MORAIS. INEXISTÊNCIA. PLEITO DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. INEXISTÊNCIA SUCUMBÊNCIA RECÍPROCA. RECURSOS CONHECIDOS E IMPROVIDOS”.
+    Alega-se, no apelo extremo, violação do artigo 202 da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado em 13/12/06, conforme expresso na certidão de folha 277, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJe de 6/9/07.
+    Colho do acórdão recorrido a seguinte fundamentação:
+    “(...)
+    Ora, diante do constante no artigo supra, percebe-se que em sendo concedida a aposentadoria especial pelo INSS, e tendo o contribuinte pelo menos 10 (dez) anos de contribuição a TELOS, tem esta a obrigação de conceder a complementação da aposentadoria por tempo de serviço.
+    Com efeito, à fl. 26 dos autos, consta Carta de Concessão/Memória de Cálculo, na qual o INSS concede aposentadoria por tempo de serviço ao Sr. Valdir Francisco, reconhecendo este no total de 35 anos, 05 meses e 2 dias.
+    Como pode-se observar, está bastante claro o direito do apelado Valdir em perceber a complementação da aposentadoria, uma vez que tal direito encontra-se respaldado no próprio Regulamento Básico da apelante TELOS, não havendo margem para controvérsias, pois o referido Regulamento é patente ao assegurar que a complementação da aposentadoria será devia quando concedida pelo INSS”.
+    Nota-se, portanto, que o Tribunal a quo lastreou-se no conjunto fático-probatório dos autos e nas cláusulas do regulamento da entidade de previdência privada para firmar seu entendimento. Decidir de forma divergente demandaria, induvidosamente, o reexame dessas cláusulas e das provas dos autos, procedimentos vedados em sede extraordinária. Incidência, na espécie, das Súmulas 279 e 454 do STF. Sobre o tema:
+    “AGRAVO DE INSTRUMENTO - COMPLEMENTAÇÃO DE APOSENTADORIA E/OU PENSÃO - ENTIDADE DE PREVIDÊNCIA PRIVADA - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL - SÚMULA 454/STF - RECURSO DE AGRAVO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. - A análise de pretensão jurídica, quando dependente de interpretação de cláusulas inscritas em contrato de previdência privada (Súmula 454/STF), revela-se processualmente inviável em sede de recurso extraordinário, pois, em referido tema, a decisão emanada do Tribunal recorrido reveste-se de inteira soberania. Precedentes” (AI nº 671.660/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 24/4/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REVISÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. ESTATUTO E REGULAMENTOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO.
+    I - A apreciação dos temas constitucionais, no caso, depende do reexame dos fatos e provas constantes dos autos e a interpretação de cláusulas contratuais da entidade de previdência privada, o que encontra óbice nas Súmulas 279 e 454 do STF. Precedentes. II - Agravo regimental improvido” (ARE nº 644.881/DF-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 20/9/11).
+          “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. REVISÃO DO BENEFÍCIO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DAS CLÁUSULAS CONTRATUAIS. (SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”(AI nº 836.845/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 25/4/11).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário,.
+    Publique-se.
+    Brasília, 25 de novembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
