@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado por Izaias Paulo dos Santos, por intermédio do advogado Antônio Carlos Franca Vieira, apontando como autoridade coatora a Corte Especial do Superior Tribunal de Justiça, que rejeitou os embargos de declaração no agravo regimental no agravo interposto contra decisão que não admitiu o recurso extraordinário no AREsp nº 149.312/SP, Relator o Ministro Gilson Dipp.
+    Sustentam o impetrante/paciente, em petição inicial extremamente confusa, que o constrangimento ilegal a ele imposto decorre do cerceamento de defesa existente no processo crime ao qual responde.
+    Assevera, ainda, que “a manutenção da reprimenda que lhe foi imposta no processo crime com trâmite perante esse Superior Tribunal de Justiça, o que poderá gerar a prisão iminente (…) ensejará constrangimento ilegal a sua liberdade, locomoção”, tendo em vista que tramita junto ao Juízo da 12ª Vara da Fazenda Pública da Comarca da Capital/SP, pedido de reintegração aos quadros da Polícia Civil do Estado de São Paulo (fls. 11 da inicial).
+    Requer o deferimento da liminar para suspender os efeitos da decisão proferida no AREsp nº 149.312/SP, permitindo-lhe o direito de aguardar em liberdade o desfecho do processo que tramita na 12ª Vara da Fazenda Pública da Comarca da Capital/SP e, no mérito, pede concessão da ordem a fim de que seja confirmado o pedido de liminar.
+    Examinados os autos, decido.
+    A impetração não merece seguimento, pois, no caso, volta-se contra decisão do Superior Tribunal de Justiça que, ao rejeitar aqueles embargos, assentou os seguintes fundamentos:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. RECURSO EXTRAORDINÁRIO INDEFERIDO LIMINARMENTE. DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. DESCABIMENTO DE AGRAVO DE INSTRUMENTO, AGRAVO NOS PRÓPRIOS AUTOS OU RECLAMAÇÃO. FUNGIBILIDADE INAPLICÁVEL. EMBARGOS REJEITADOS.
+    I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, rejeita-se o recurso integrativo.
+    II - Consoante entendimento do Supremo Tribunal Federal, contra decisão que aplica a sistemática da repercussão geral é possível apenas a interposição de agravo regimental. Eventual agravo de instrumento ou reclamação, propostos nesses casos, somente seriam convertidos em agravo regimental se anteriores a 19/11/2009.
+    III - Embargos de declaração rejeitados” (www.stj.jus.br).
+    Com efeito, não há constrangimento ilegal flagrante emanado do julgado impugnado que, ao rejeitar o recurso declaratório, encampou a orientação desta Suprema Corte, segundo a qual “a jurisdição do Supremo Tribunal Federal somente se inicia com a manutenção, pelo Tribunal de origem, de decisão contrária ao entendimento firmado no julgamento da repercussão geral, nos termos do § 4º do art. 543-B do Código de Processo Civil. Fora dessa específica hipótese não há previsão legal de cabimento de recurso ou de outro remédio processual para o Supremo Tribunal Federal” (RCL nº 7.569/SP, Tribunal Pleno, Relatora a Ministra Ellen Gracie, DJe de 10/12/09).
+    Nesse contexto, as teses trazidas pelo impetrante, por razões óbvias, não foram analisadas pelo Superior Tribunal de Justiça. Portanto, sua análise, de forma originária, neste ensejo, configuraria verdadeira supressão de instância, que não se admite.
+    Perfilhando esse entendimento: HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07; HC nº 90.162/RJ, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 29/6/07; HC nº 90.312/PR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/4/07; e HC nº 86.997/DF, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/2/06.
+    No mesmo sentido, as seguintes decisões monocráticas: HC nº 118.066/MS, Relatora a Ministra Rosa Weber, DJe de 21/6/13; HC nº 118.292/SP, Relator o Ministro Luiz Fux, DJe de 20/6/13; e HC nº 118.288/RJ, Relator o Ministro Teori Zavascki, DJe de 20/6/13, entre outros
+    Ante o exposto, nos termos dos arts. 38 da Lei nº 8.038/90 e 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 26 de novembro 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
