@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Pernambuco:
+    “PROCESSUAL CIVIL - COMPETÊNCIA REGIMENTAL CORTE ESPECIAL - INVASÃO ÓRGÃO FRACIONÁRIO - SÉTIMA CÂMARA CÍVEL - REEXAME ACÓRDÃO - EVENTUAL AFRONTA SÚMULA VINCULANTE STF AO MESMO DEVE SER RECLAMADA. NÃO CONHECIMENTO” (fl. 97).
+    Os embargos de declaração opostos foram rejeitados (fls. 14-20).
+    2. O recurso extraordinário foi inadmitido sob o fundamento de incidência das Súmulas ns. 279, 280 e 284 do Supremo Tribunal Federal (fls. 56-57).
+    3. O Agravante afirma que o Tribunal de origem teria contrariado o art. 97 da Constituição da República.
+    Sustenta que “a controvérsia foi enfrentada pela Corte recorrida à luz da Carta Magna e do Regimento Interno daquele Corte; sendo atacada no recurso a decisão final e consequentemente seus fundamentos, não tendo na fundamentação do recurso sido invocado, data venia, qualquer elemento probatório contido nos autos, mas apenas os fundamentos do v. acórdão recorrido, em face do que, data venia, a decisão recorrida aqui recorrida apresenta-se como peça contestatória do mérito recursal, emitindo juízo de valor objetivando defender o posicionamento contido no v. acórdão recorrido, e ainda por cima julgando preliminar de nulidade arguida” (fl. 63).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. No caso em exame, o Tribunal de Justiça não conheceu da reclamação ajuizada pelo Agravante, porque “eventual afronta às Súmulas Vinculantes do Supremo Tribunal Federal deve ser reclamada perante o mesmo, conforme previsto no § 3º do art. 103-A da Constituição da República. Ou seja, essa questão há de ser discutida através de recurso próprio” (fl. 143).
+    O recurso extraordinário interposto contra essa decisão não foi admitido com base nas Súmulas ns. 279, 280 e 284 deste Supremo Tribunal, ao fundamento de que: a) “a pretensão do recorrente depende do conjunto fático-probatório constante dos autos”; b) a “controvérsia foi enfrentada, no acórdão recorrido, sob a ótica do direito local (sobretudo quanto ao cabimento da reclamação perante este TJPE, vide art. 256-A do RITJPE)”; e c) o Agravante não infirmou “os fundamentos específicos da decisão recorrida, que se limitou a reputar incabível a reclamação” (fl. 56).
+    Nas razões do agravo, o Agravante defende que não pretendia o reexame do conjunto probatório constante dos autos. Todavia, não impugnou todos os fundamentos da decisão agravada (Súmulas ns. 280 e 284 deste Supremo Tribunal) nem demonstrou, de forma específica e objetiva, os motivos pelos quais eles deveriam ser superados. Incide na espécie a Súmula n. 287 do Supremo Tribunal Federal:
+    “AGRAVO - OBJETO. Visando o agravo a fulminar a decisão que se ataca, as razões devem estar direcionadas de modo a infirmá-la. O silêncio em torno dos fundamentos consignados é de molde, por si só, a levar à manutenção do que assentado. Frente ao descompasso entre a decisão impugnada e as razões do agravo, este transparece como sendo meramente protelatório. AGRAVO - CARÁTER INFUNDADO - MULTA. Surgindo do exame do agravo a convicção sobre o caráter manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil” (AI 567.171-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJ 27.10.2006).
+    “Agravo regimental em recurso extraordinário. 2. Razões do agravo regimental não atacam os fundamentos da decisão agravada. Aplicação da Súmula 287. Precedentes. 3. Atraso no pagamento de precatório. Fixação de multa contra a Fazenda Pública. Discussão de índole infraconstitucional. RE-RG 608.852, rel. Min. Ellen Gracie, DJe 4.6.2010. 4. Agravo regimental a que se nega provimento” (RE 584.485-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 12.4.2013).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
