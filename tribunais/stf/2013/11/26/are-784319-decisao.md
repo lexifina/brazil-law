@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5°, V, e 37, X, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “EMENTA: SERVIDOR PÚBLICO. REVISÃO GERAL DE VENCIMENTO. COMPORTAMENTO OMISSIVO DO CHEFE DO EXECUTIVO. DIREITO À INDENIZAÇÃO POR PERDAS E DANOS. IMPOSSIBILIDADE. Esta Corte firmou o entendimento de que, embora reconhecida a mora legislativa, não pode o Judiciário deflagrar o processo legislativo, nem fixar prazo para que o chefe do Poder Executivo o faça. Além disso, esta Turma entendeu que o comportamento omissivo do chefe do Poder Executivo não gera direito à indenização por perdas e danos. Recurso extraordinário desprovido.
+(RE 424584, Relator(a): Min. CARLOS VELLOSO, Relator(a) p/ Acórdão: Min. JOAQUIM BARBOSA, Segunda Turma, julgado em 17/11/2009, DJe-081 DIVULG 06-05-2010 PUBLIC 07-05-2010 EMENT VOL-02400-05 PP-01040).
+    “EMENTA: PROCESSUAL CIVIL. CONSTITUCIONAL. SERVIDOR PÚBLICO. REVISÃO GERAL ANUAL. COMPETÊNCIA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. INDENIZAÇÃO. DESCABIMENTO. FIXAÇÃO DOS ÔNUS DA SUCUMBÊNCIA. DECISÃO QUE OBSERVA O DISPOSTO NO ART. 20, § 4º, DO CPC. PRECLUSÃO CONSUMATIVA. PRIMEIRO AGRAVO IMPROVIDO E SEGUNDO AGRAVO NÃO CONHECIDO. I - A iniciativa para desencadear o procedimento legislativo para a concessão da revisão geral anual aos servidores públicos é ato discricionário do Chefe do Poder Executivo, não cabendo ao Judiciário suprir sua omissão. II - Incabível indenização por representar a própria concessão de reajuste sem previsão legal. III - Decisão que, ao fixar a verba honorária, observou o art. 20, § 4º, do CPC, aplicável à espécie. IV - O princípio da unirrecorribilidade dispõe que contra uma decisão apenas é cabível a interposição de um recurso pela parte, e, em assim fazendo, tornam-se preclusas as matérias não aduzidas naquela oportunidade. Agravo não conhecido. V - Agravo regimental improvido”. (RE 557945 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Primeira Turma, julgado em 13/11/2007, DJe-162 DIVULG 13-12-2007 PUBLIC 14-12-2007 DJ 14-12-2007 PP-00074 EMENT VOL-02303-06 PP-01270)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de novembro de 2013.
+Ministra Rosa Weber
+Relatora
