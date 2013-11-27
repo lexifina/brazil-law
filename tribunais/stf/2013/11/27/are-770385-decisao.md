@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Superior Tribunal Militar, assim ementado (fl. 548):
+    “APELAÇÃO. ESTELIONATO PREVIDENCIÁRIO. PRELIMINAR. INCOMPETÊNCIA DA JUSTIÇA MILITAR. JULGAMENTO DE CIVIL EM TEMPO DE PAZ. REJEIÇÃO. FALECIMENTO. GENITORA. NÃO COMUNIÇÃO DO ÓBITO. CIÊNCIA DO DEVER DE INFORMAR O OCORRIDO. DOLO. SUFICIÊNCIA PROBATÓRIA.
+    A Justiça Militar não tem por escopo julgar militares ou definir crimes não previstos pelo direito penal comum. Sua finalidade é resguardar as Forças Armadas e, por consequência, a soberania estatal, a lei e a ordem, independentemente da qualidade do réu. Por essa razão, o critério adotado pela Carta da República foi o ratione legis, e não o ratione personae.
+    O Supremo Tribunal Federal é uníssono em capitular como estelionato previdenciário hipótese em que o beneficiário deixa de comunicar a Administração do falecimento de pensionista, passando, assim, a perceber a pensão.
+    De modo a subsumir a conduta ao tipo penal, a ré, procuradora da ex-pensionista, continuou agindo como se viva ela estivesse, utilizando o cartão bancário e a senha para locupletar-se das quantias inidôneas.
+    RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega: (i) violação aos arts. 5º, LIII, 95, I e III e 109, IV, todos da Constituição; (ii) ofensa ao art. 8º, item 1, do Pacto de São José da Costa Rica; e (iii) que “a competência para processar e julgar os fatos versados na ação penal em referência não pertence à Justiça Militar da União, mas, sim, à Justiça Federal comum”.
+    A decisão agravada negou seguimento ao recurso sob os fundamentos de ausência de ofensa direta à Constituição Federal e inexistência de repercussão geral da matéria.
+    O recurso não pode ser provido, tendo em vista que a decisão recorrida está alinhada com a jurisprudência do Supremo Tribunal Federal no sentido de que o saque indevido de benefício de pensão militar afeta, em princípio, bens e serviços das instituições militares, estando justificada a competência da Justiça Militar. Nesse sentido, vejam-se o HC 115.966, Rel.ª Min.ª Cármen Lúcia; o HC 114.327, Rel. Min. Luiz Fux; e o HC 113.423, julgado sob a relatoria da Ministra Rosa Weber, assim ementado:
+    “HABEAS CORPUS . PENAL MILITAR E PROCESSUAL PENAL MILITAR. ESTELIONATO. SAQUE INDEVIDO DE PENSÃO MILITAR. JUSTA CAUSA PARA A DENÚNCIA. TRANCAMENTO DE AÇÃO PENAL. COMPETÊNCIA DA JUSTIÇA MILITAR.
+    1. Paciente denunciada pelo Ministério Público Militar pelo crime de estelionato (art. 251, caput, do Código Penal Militar), praticado em detrimento do Fundo de Pensionistas do Exército Brasileiro.
+    2. Não se exigem, quando do recebimento da denúncia, a cognição e a avaliação exaustiva da prova ou a apreciação exauriente dos argumentos das partes, bastando o exame da validade formal da peça e a verificação da presença de indícios suficientes de autoria e de materialidade.
+    3. Pode-se confiar no devido processo legal, com o trâmite natural da ação penal militar, para prevenir de forma suficiente eventuais ilegalidades, abusos ou injustiças no processo penal, não se justificando o trancamento da ação, salvo diante situações excepcionalíssimas. Deve-se dar ao processo uma chance, sem o seu prematuro encerramento.
+    4. A competência da Justiça Militar, embora não se restrinja aos integrantes das Forças Armadas, deve ser interpretada restritivamente quanto ao julgamento de civil em tempos de paz por seu caráter anômalo. Precedente: HC 81.963/RS, rel. Min. Celso de Mello, 2ª Turma, unânime, DJe 18.6.2002. Apesar da tendência de limitar a atuação da Justiça Castrense em tempos de paz, o saque indevido por civil de benefício de pensão militar afeta bens e serviços das instituições militares, estando justificada a competência da Justiça militar. Precedentes.
+    5. Ordem denegada.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º , do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
