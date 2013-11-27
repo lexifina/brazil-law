@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. CONVOCAÇÃO. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça da Bahia:
+    “Mandado de Segurança. Preliminar de carência da ação. Rejeitada. Preliminar de decadência. Rejeitada.. mérito. Concurso público para Agente de Polícia Civil. Ato que excluiu o impetrante do certame em virtude de não ter este se apresentado de imediato após convocação. Chamamento publicado exclusivamente no Diário Oficial do Estado mais de dez anos após a publicação do resultado da primeira etapa. Ausência de previsão no edital. Ilegalidade. Afronta aos princípios da publicidade e razoabilidade. Precedentes. Rejeitadas as preliminares. Segurança concedida”.
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, caput, e 37, caput, e incs. I e II, da Constituição da República.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. O Tribunal de origem assentou:
+    “Cumpre ressaltar que o resultado da 1ª etapa do Concurso Público para Provimento do Cargo de Agente de Polícia Civil, regido pelo Edital SAEB/001-97, foi publicado no Diário Oficial do Estado do dia 1º de maio de 1997, restando o Impetrante classificado na 1500ª colocação (região de Salvador).
+    Por outro lado, somente no dia 10 de outubro de 2007, mais de dez anos após a publicação do resultado referente À primeira etapa do certame, foi publicada exclusivamente no Diário Oficial do Estado a convocação de determinados candidatos para a realização da segunda etapa, dentre os quais se inclui o Impetrante.
+    Nesse sentido, verifica-se que a exclusão do Impetrante do certame exclusivamente em virtude do não comparecimento a segunda etapa termina por violar os princípios da razoabilidade e da publicidade, norteadores de toda a Administração Pública.
+    (…)
+    In casu, verifica-se que o Edital SAEB/001-97 não estabeleceu qualquer disposição no que tange à forma de veiculação da convocação dos candidatos classificados para as etapas seguintes, limitando-se a prever, no item 7.3, a publicação do resultado final do certame pela SAEB no Diário Oficial.
+    Estabeleceu, outrossim, no item 9.1, que após a homologação do resultado os candidatos habilitados seriam convocados para nomeação pela SAEB e pela Secretaria de Segurança Pública, levando-se em consideração a ordem geral de classificação e a região pretendida.
+    Destarte, silente o instrumento convocatório em relação ao meio de convocação dos candidatos para participação nas etapas seguintes do certame, tem-se que chamamento jamais poderia se dar exclusivamente pelo Diário Oficial do Estado, sob pena de violação ao princípio da publicidade”.
+    O Tribunal a quo apreciou a matéria à luz dos fatos e das provas constantes dos autos, do edital do certame e da Constituição Estadual, não ocorrendo ofensa constitucional direta, única a permitir o processamento do recurso extraordinário, nos termos do art. 102, inc. III, alínea a, da Constituição da República. Incidem na espécie as Súmulas ns. 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. CONVOCAÇÃO. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 761.134-AgR, de minha relatoria, Segunda Turma, DJe 23.9.2013).
+    “Agravo regimental no recurso extraordinário. Concurso público. Nomeação. Preterição na ordem de classificação. Reexame de fatos e provas. Impossibilidade. Forma de convocação. Normas do edital. Ofensa reflexa. Precedentes. 1. O Tribunal de origem concluiu, com base no conjunto fático-probatório dos autos e nas normas editalícias, que não houve preterição na ordem de classificação dos aprovados no certame, bem como não foi desrespeitada a forma de convocação prevista no edital. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise de ofensa reflexa à Constituição Federal. Incidência das Súmulas ns. 636 e 279/STF. 3. Agravo regimental não provido” (RE 579.360-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 1º.12.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. NOMEAÇÃO DE CANDIDATA APROVADA. IMPRESCINDIBILIDADE DA ANÁLISE DE PROVAS E CLÁUSULAS DO EDITAL. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I – Para dissentir do acórdão recorrido quanto à aludida questão, seria necessário o reexame do conjunto fático-probatório constante dos autos e das cláusulas do edital do certame, o que atrai a incidência das Súmulas 279 e 454 do STF, o que inviabiliza o extraordinário. Precedentes. II – Agravo regimental improvido” (ARE 749.072-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 11.10.2013).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
