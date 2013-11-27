@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão que condenou o recorrente, servidor público federal, a restituir ao erário os valores recebidos indevidamente, sob o entendimento de que não ficou configurada a boa-fé do servidor.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 37, caput, da mesma Carta, ao argumento de que os valores em discussão foram recebidos de boa-fé pelo recorrente, o que implica a nulidade do ato administrativo que determinou a reposição ao erário.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o Juízo de origem, ao determinar a reposição ao erário dos valores indevidamente recebidos, apoiou-se nos seguintes fundamentos:
+    “(...)
+    10. Este processo, portanto, não envolve servidores que desconheciam seus direitos e que nada fizeram para beneficiar-se indevidamente com verbas públicas. Pelo contrário, considerando os elementos do caso concreto, os servidores daquela IFES, e neles se inclui a parte autora, tinham todas as condições de estarem plenamente cientes quanto à ilegalidade da concessão do percentual, pois estavam devidamente representados por entidades dotadas, inclusive, de profissionais da área jurídica, requerendo a concessão de vantagem manifestamente ilegal, concedida em procedimento que destoou muito da prática administrativa, por deferir o pedido após trâmite sumaríssimo.
+    11. Nesse cenário, não resta caracterizada a alegada boa-fé, mostrando-se pertinente a restituição ao erário, tal qual apurado pelo TCU e determinado pela UFAC após procedimento administrativo em relação ao qual não há arguição de nulidade”
+    Desse modo, para divergir do acórdão recorrido e constatar a boa-fé do servidor, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 desta Corte. Nesse sentido, cito o RE 472.208-AgR/DF, Rel. Min. Teori Zavascki, cuja ementa segue transcrita:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. PROVENTOS. GRATIFICAÇÃO. CONCESSÃO IRREGULAR. DEVOLUÇÃO AO ERÁRIO. VALOR PERCEBIDO DE BOA-FÉ. RECURSO EXTRAORDINÁRIO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. VEDAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”.
+    Por fim, saliento que esta Corte, ao julgar caso análogo – AI 841.473-RG/RS, Rel. Min. Cezar Peluso –, concluiu que a controvérsia em questão não possui repercussão geral, nos seguintes termos:
+    “Ementa: RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de novembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
