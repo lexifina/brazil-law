@@ -1,0 +1,20 @@
+DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECLAMAÇÃO. PEDIDO DE RECONSIDERAÇÃO DA DECISÃO QUE INDEFERIU A MEDIDA LIMINAR. AUSÊNCIA DE ALEGAÇÕES NOVAS A ENSEJAR A REFORMA DO DECISUM. INDEFERIMENTO DO PEDIDO.
+    Decisão: Trata-se de pedido de reconsideração da decisão na qual indeferi a medida liminar, que possui a seguinte ementa:
+    “DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECLAMAÇÃO. PEDIDO DE VISTA DOS AUTOS DE INQUÉRITO POLICIAL. INDEFERIMENTO. ALEGAÇÃO DE OFENSA À SÚMULA VINCULANTE N. 14. NÃO OCORRÊNCIA. AUSÊNCIA DE ELEMENTOS DE PROVA DEVIDAMENTE DOCUMENTADOS E ENCARTADOS NOS AUTOS DO PROCEDIMENTO INVESTIGATÓRIO. MOTIVAÇÃO IDÔNEA À NEGATIVA DE AMPLO ACESSO ÀS INFORMAÇÕES CONSTANTES DO INQUÉRITO POLICIAL. INDEFERIMENTO DO PEDIDO LIMINAR.”
+    O reclamante reitera as alegações trazidas na petição inicial no sentido da ausência de base concreta para o indeferimento do pedido de vista dos autos do inquérito policial, sob o argumento de que, ao contrário do que afirmou a autoridade reclamada, não existiriam “investigações pendentes” a inviabilizar o acesso aos autos.
+    Ademais, junta aos autos cópia do depoimento por ele prestado perante a autoridade policial a fim de comprovar que todos os atos praticados na fase inquisitorial já estariam devidamente documentados.
+    Requer, ao final, a concessão da medida liminar a fim de assegurar aos patronos do Reclamante o direito ao acesso aos autos.
+    É o relatório suficiente. Decido.
+    O pedido deve ser indeferido. O reclamante não trouxe nenhuma questão nova a ensejar a mudança do decisum que indeferiu a medida liminar.
+    Conforme destacado na decisão que se pretende reconsiderar:
+    “(...)
+    Com efeito, o verbete da Súmula Vinculante nº 14 assegura ao defensor, no interesse do representado, o direito de amplo acesso aos elementos de prova constantes da persecução penal realizada por órgão com competência de polícia judiciária. Ocorre que tal prerrogativa encontra-se condicionada, e isso consta expressamente do enunciado sumular, ao fornecimento de informações já documentadas nos autos do inquérito, e que digam respeito ao exercício do direito de defesa. Vale dizer, há dois requisitos cumulativos ao acesso de tais elementos ao patrono dos interessados: o primeiro, de natureza objetiva, que autoriza a divulgação, ao patrono do indiciado, dos elementos de prova já reduzidos a termo nos autos do inquérito, e, o segunda, de cariz subjetivo, que exige um nexo causal entre as informações documentadas e o exercício do direito de defesa dos interessados. Daí por que a conclusão inelutável é que ausente qualquer dos condicionantes não se afigura legítimo o acesso a estes dados.
+    Ao examinar a decisão impugnada, constata-se que uma das razões que motivou o indeferimento da pretensão dos patronos dos Reclamantes foi o fato de que os elementos de prova ainda não estavam documentados nos autos do Inquérito Policial nº 0344.11.005309-9. Justamente porque não incorporados no procedimento investigatório, mostra-se inviável, nos termos do enunciado da Súmula Vinculante nº 4, o amplo acesso ao conteúdo do procedimento investigatório ao Reclamante e a seus defensores. Disso resulta que não se vislumbra in casu cerceamento da ampla defesa do Reclamante, uma vez que, repisa-se, existem elementos ainda formalizados ou encartados nos autos do Inquérito Policial em que figurava como investigado.
+    Destarte, neste juízo de prelibação, as particularidades do caso em tela conduzem ao indeferimento do pedido de medida liminar, porquanto não se verifica verossimilhança das alegações contidas na exordial, encontrando-se o ato reclamado em perfeita consonância com o enunciado da Súmula Vinculante nº 4 desta Suprema Corte.
+    (…).”
+    Ex positis, indefiro o pedido de reconsideração e determino seja dada vista dos autos à Procuradoria Geral da República para emissão de parecer (art. 160 do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
