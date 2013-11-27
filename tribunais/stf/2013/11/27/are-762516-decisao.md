@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário, interposto contra acórdão da 4ª Câmara Cível do Tribunal de Justiça do Estado do Espírito Santo, assim ementado (fl. 116):
+    “GRUPO TAF. PRODUTIVIDADE. GRATIFICAÇÃO.
+    I. ‘A gratificação de produtividade, a que fazem jus os servidores públicos estaduais integrantes do grupo TAF, tem caráter nitidamente salarial, sobre a mesma devendo incidir, por conseguinte, eventuais vantagens de caráter pessoal Destarte, deve ser incluída nas pensões percebidas pelas viúvas a gratificação de produtividade enquanto parcela variável da remuneração, uma vez que devem corresponder à totalidade dos proventos do servidor falecido’ (TJES, Agravo Interno na Rem Ex-ofício nº 24010172773, Relator Des. Carlos Roberto Mignone, publicado em 03/10/2008).
+    II. Recurso desprovido”.
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação ao art. 37, XIV, da Constituição. Sustenta, em síntese, que a incidência da “Gratificação de Produtividade ao vencimento base dos proventos da recorrida constitui verdadeira incidência de vantagem sobre vantagem, que é vedado pelo ordenamento e pela jurisprudência uníssona deste Colendo Supremo Tribunal Federal” (fl. 147).
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que o acórdão impugnado está em consonância com o entendimento do Supremo Tribunal Federal.
+    O recurso não deve ser provido. A decisão recorrida está alinhada com a jurisprudência do Supremo Tribunal Federal. Com efeito, em situação idêntica à que se discute nestes autos, esta Corte assentou que não viola a regra constitucional inserta no art. 37, XIV, a incidência da gratificação de produtividade concedida aos agentes do grupo TAF na base de cálculo de outras vantagens pessoais. Nesse sentido, veja-se a ementa do RE 262.398-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Servidor público. Gratificação de Produtividade. Grupo TAF do Estado do Espírito Santo. Natureza de vencimento. Cálculo de outras vantagens incidentes sobre a mencionada gratificação. Possibilidade. Violação do art. 37, inciso XIV, da CF. Não ocorrência. Precedentes. 1. É firme a jurisprudência desta Corte no sentido de que não viola o art. 37, inciso XIV, da Constituição Federal o cálculo de vantagens pecuniárias incidentes sobre a denominada gratificação de produtividade concedida aos agentes de tributos estaduais pela legislação do Estado do Espírito Santo, pois referida gratificação corresponde à parcela variável dos vencimentos do servidor. 2. Agravo regimental não provido”.
+    Por fim, observo que a parte recorrente não indicou as razões pelas quais caberia o recurso extraordinário pela alínea c do dispositivo constitucional autorizador. Nessas condições, aplica-se a Súmula 284/STF, in verbis:
+    É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC, e no art. 21, § 1º, do RI/STF, conheço do agravo e nego provimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 27 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
