@@ -1,0 +1,25 @@
+PROCESSUAL PENAL. HABEAS CORPUS. ESTELIONATO PREVIDENCIÁRIO. MATÉRIAS ARGUÍDAS EM IMPETRAÇÃO ANTERIOR. MERA REITERAÇÃO. INADMISSIBILIDADE DE NOVO WRIT. PRECEDENTES. NEGATIVA DE SEGUIMENTO.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado pela DEFENSORIA PÚBLICA DA UNIÃO, em benefício de JONAS PIRES DE ALMEIDA, contra acórdão do Superior Tribunal Militar, sintetizado na seguinte ementa, verbis:
+    “EMENTA: Habeas Corpus. Estelionato. Julgamento de civil. Competência.
+    A Carta Magna de 1988, no seu artigo 124, reafirmou o postulado do Juízo Natural da Justiça Militar da União também para julgar civis responsáveis pela prática de crimes militares na órbita federal, revigorando, no plano constitucional, a preexistente dicção do artigo 9º, inciso III, e sua alíneas, do Código Penal Militar de 1969.
+    Competência firmemente embasada na Constituição da República, sendo aferível, em cada caso concreto, pela subsunção da conduta do agente aos preceitos primários que consubstanciam os delitos elencados no Código Penal Militar.
+    Na hipótese, descabe falar que a submissão do Paciente ao Processo a que responde por incursão no art. 251 do Código Penal Militar constituiria qualquer violação a preceito constitucional ou a qualquer dispositivo de acordo ou pacto de que o Brasil seja signatário, dentre desses, inclusive, o Pacto de São José da Costa Rica.
+    Denegação da Ordem.”
+    Colhe-se dos autos que o paciente – civil – foi denunciado perante a Auditoria da 10ª Circunscrição Judiciária Militar, como incurso nas sanções do artigo 251 do Código Penal Militar (estelionato), por ter deixado de comunicar o óbito de sua genitora à Administração Pública, a fim de apropriar-se indevidamente da pensão militar por ela recebida.
+    A defesa impetrou habeas corpus no Superior Tribunal Militar, sustentando, em síntese, a incompetência da justiça castrense para processar e julgar o feito.
+    Denegada a ordem, sobreveio este recurso ordinário, no qual a defesa reitera a tese de incompetência da justiça militar, sob o argumento de que o paciente é civil e não praticou conduta que tenha violado função típica das forças armadas.
+    Requer, ao final, a concessão de medida liminar a fim de sobrestar o andamento da ação penal. No mérito, pleiteia a concessão definitiva da ordem a fim de declarar a nulidade da ação penal, declinando-se, por conseguinte, da competência para a Justiça Federal comum.
+    O Ministério Público Federal manifesta-se pelo provimento do recurso. Transcrevo a ementa do parecer ministerial.
+    É o relatório. DECIDO.
+    A jurisprudência do Supremo Tribunal Federal fixou-se no sentido da inviabilidade do habeas corpus quando se trata de mera reiteração de medida anteriormente impetrada nesta Corte. Nesse sentido, confiram-se os seguintes precedentes:
+    EMENTA Agravo regimental em habeas corpus. Reiteração de pedido anterior já apreciado nesta Suprema Corte. Inadmissibilidade. Precedentes. Regimental não provido. 1. A questão tratada neste habeas corpus constitui mera reiteração de pedido já apreciado por esta Suprema Corte. 2. Agravo regimental não provido. (HC 103693-AGR, rel. min. Dias Toffoli, 1ªTurma, DJ de 2/12/2010)
+     EMENTA: HABEAS CORPUS. Reiteração de pedido anterior. Inexistência de fundamento novo. Inadmissibilidade. Indeferimento liminar. Possibilidade. Inteligência do art. 38 da Lei nº 8.038/90, art. 557 do CPC e art. 21 do RISTF. Decisão mantida. Agravo regimental improvido. Não se admite pedido de habeas corpus idêntico a outro julgado manifestamente improcedente, por decisão monocrática fundada em jurisprudência assente da Corte. (HC 100279-AGR, rel. min. Cezar Peluso, 2ª Turma, DJ de 27/11/2009)
+    EMENTA: AÇÃO PENAL. Condenação. Atentado violento ao pudor. Art. 214 do CP. Reexame da prova. Inadmissibilidade em habeas corpus. Reiteração, ademais, do pedido sob mesmo fundamento. Perícia desnecessária indeferida. HC denegado. Concessão de ordem de ofício para fins de progressão de regime. Não se admite pedido de habeas corpus que, sobre ser mera repetição doutro já indeferido, impugna o alcance das provas em que se fundou a sentença condenatória. (HC 82587/RJ, rel. min. Cezar Peluso, 2ªTurma, DJ de 7/8/2009)
+    EMENTA: HABEAS CORPUS. Reiteração de pedido anterior. Inexistência de fundamento novo. Indeferimento liminar. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente da Corte. (HC 97475-AGR/MG, rel. min. Cezar Peluso, 2ªTurma, DJ de 3/2/2009.
+    In casu, não há inovação objetiva relevante a ponto de justificar outra impetração, sendo certo que o constrangimento ilegal atacado mediante este recurso ordinário já foi submetido a esta Corte no HC 118.160.
+    Ex positis, nego seguimento ao habeas corpus, com fundamento no art. 38 da Lei 8.038/90.
+    Publique-se.
+    Brasília, 27 de novembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
