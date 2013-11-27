@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que julgou prejudicado o recurso extraordinário interposto contra acórdão da 2ª Turma Recursal dos Juizados Especiais Federais de Pernambuco, assim ementada:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PRESCRIÇÃO. NÃO OCORRÊNCIA. PRESTAÇÃO DE TRATO SUCESSIVO. SERVIDOR PÚBLICO. INATIVOS E PENSIONISTAS. PARIDADE DE VENCIMENTOS. GRATIFICAÇÃO DE CARÁTER GERAL. GDPGE. LEI Nº 11.357/06. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. RECURSO IMPROVIDO.”
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, caput, II, XXXVI; 37,X; 40, §§ 1º, III, b, e 8º; 61, § 1º, II, a; todos da Constituição, bem como à Súmula 339/STF.
+    A decisão agravada, quanto à controvérsia acerca da extensão da gratificação (GDPGE) aos inativos, determinou o sobrestamento do recurso extraordinário, com fundamento no art. 543-B, do CPC, tendo em conta o reconhecimento da existência de repercussão geral da matéria nos autos do RE 631.389. Em relação à discussão sobre o pagamento da gratificação de modo proporcional, ou não, negou seguimento ao recurso, sob o fundamento de que o STF já se pronunciou sobre a questão no RE nº 693553-RS, onde decidiu que a discussão sobre o pagamento integral de gratificação aos que percebem proventos proporcionais é matéria infraconstitucional.
+    A decisão deve ser mantida. Nota-se que, no tocante à observância da proporcionalidade no cálculo da gratificação dos aposentados com proventos proporcionais, inviável é o provimento do recurso, tendo em vista que não discute matéria constitucional. Com efeito, a jurisprudência do Supremo Tribunal Federal se orienta no sentido que esta controvérsia está restrita ao âmbito infraconstitucional, o que afasta o cabimento do recurso extraordinário. Nesse sentido, vejam-se os seguintes precedentes: ARE 741.814, Rel. Min. Ricardo Lewandowski, ARE 751.676, Rel.ª Min.ª Cármen Lúcia, ARE 761.834, Rel. Min. Luiz Fux, ARE 715.334, Rel. Min. Dias Toffoli, e RE 744.894, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 544, § 4º, II, a , do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas nego-lhe provimento.
+    Publique-se.
+          Brasília, 27 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
