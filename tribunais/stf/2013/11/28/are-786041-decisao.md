@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. RECURSO ESPECIAL NÃO ADMITIDO. AGRAVO DE INSTRUMENTO NÃO CONHECIDO EM FACE DA APLICAÇÃO DA SÚMULA 182/STJ. DECISÃO MANTIDA PELO ÓRGÃO COLEGIADO. INCIDÊNCIA DA ORIENTAÇÃO CONTIDA NA SÚMULA SÚMULA 315/STJ. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. PECULIARIDADES DOS CASOS EM CONFRONTO. INEXISTÊNCIA DE DISSÍDIO. PRECEDENTES.
+    1. Nos termos da Súmula 315 deste STJ, 'não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial'.
+    2. No caso dos autos, a Quarta Turma do STJ, ao negar provimento ao agravo regimental, manteve a decisão monocrática que não conhecera do agravo de instrumento interposto, tendo em vista a aplicação analógica da Súmula 182/STJ. Assim, não tendo sido admitido o recurso especial interposto pelo embargante, os embargos de divergência são manifestamente inadmissíveis.
+    3. Segundo orientação da Corte Especial do STJ, são 'descabidos os embargos de divergência que questionam a aplicação da multa prevista no art. 538, parágrafo único, do CPC, visto ser inviável a caracterização do dissídio em face das peculiaridades das hipóteses cotejadas' (AgRg nos EAg 1.180.539/SP, Min. Eliana Calmon, Dje de 22/11/2012).
+    4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (pág. 10 do vol. 9).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, LIV e LV, e 6º da mesma Carta.
+    A pretensão não merece acolhida. Registre-se que os Ministros desta corte, no RE 598.365/MG, Rel. Min. Ayres Britto, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca dos pressupostos de admissibilidade de recursos de competência de cortes diversas, por não se tratar de matéria constitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, transcrevo a ementa do referido julgado:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso 'elemento de configuração da própria repercussão geral', conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608”.
+    Ademais, quanto ao mérito do recurso, a jurisprudência desta Corte firmou-se no sentido de que o acórdão do Superior Tribunal de Justiça, proferido no julgamento de recurso especial, somente legitimará o uso da via recursal extraordinária se a questão constitucional nele versada for diversa daquela decidida pela instância ordinária. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial, o que não é o caso dos autos. Nesse sentido, menciono as seguintes decisões, entre outras: RE 409.973-AgR/SP, Rel. Min. Celso de Mello; AI 302.930-AgR-ED/SP, Rel. Min. Ellen Gracie; AI 787.991-AgR/DF, de minha relatoria; AI 641.299-AgR/PR, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de novembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
