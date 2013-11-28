@@ -1,0 +1,33 @@
+DECISÃO
+MANDADO DE SEGURANÇA. CONSELHO NACIONAL DE JUSTIÇA. SINDICÂNCIA. SESSÃO DE JULGAMENTO. ALEGADA AFRONTA AO CONTRADITÓRIO E AMPLA DEFESA. PEDIDO DE LIMINAR. AUSÊNCIA DOS REQUISITOS. LIMINAR INDEFERIDA. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Mandado de segurança, com requerimento de liminar, impetrado em 26.11.2013 por Dagoberto Pinheiro Andrade Filho contra ato do Conselho Nacional de Justiça, da Corregedoria Nacional de Justiça e do Corregedor Nacional de Justiça na Sindicância n. 0003402-36.2011.2.00.0000.
+O caso
+    2. O Impetrante relata figurar como sindicado, juntamente com Desembargador do Tribunal de Justiça do Tocantins e outro advogado, em procedimento incluído na pauta de julgamentos da 180ª sessão ordinária do Conselho Nacional de Justiça, a ser realizada em 2.12.2013, para submissão de relatório conclusivo visando a deliberação a respeito da instauração de processo administrativo disciplinar ou de arquivamento do feito (Sindicância n. 0003402-36.2011.2.00.0000).
+    Alega ter tomado conhecimento da inclusão do procedimento administrativo na pauta de julgamento pelo site do Conselho Nacional de Justiça na internet.
+    Sustenta, em resumo, a necessidade de sua intimação sobre a inclusão do processo na pauta de julgamento, não tendo ainda sido ouvido ou realizadas as provas requeridas, havendo, assim, ofensa ao disposto no parágrafo único do art. 63 do Regimento Interno do Conselho Nacional de Justiça, que dispõe:
+    “Art. 63. O Corregedor Nacional de Justiça ou o sindicante por ele regularmente designado determinará a oitiva do investigado, que poderá apresentar defesa e requerer a produção de prova no prazo de 10 (dez) dias a contar da ciência da instauração da sindicância.
+    Parágrafo único. Encerrada a investigação, o sindicante elaborará o relatório, cabendo ao Corregedor Nacional de Justiça, se convencido da existência de infração, propor ao Plenário do CNJ a instauração de processo disciplinar, o que será precedido da intimação para apresentar defesa prévia em 15 (quinze) dias, devendo constar da intimação a descrição do fato e a sua tipificação legal, bem como cópia do teor da acusação.”
+    Informa que essa mesma sindicância teve seu julgamento postergado anteriormente por ordem do Ministro Joaquim Barbosa, ao deferir a liminar no Mandado de Segurança n. 31.201, por ter sido pautada para julgamento no decorrer do prazo estipulado para o Desembargador investigado apresentar sua defesa (DJe 13.3.2012).
+    Noticia que, pela suspeição suscitada em relação à então Corregedora Nacional de Justiça, o processo administrativo ficou sobrestado até o término do seu mandato.
+    Afirma que, com a retomada no processamento, repete-se o vício impugnado na impetração anterior: “o CNJ incluiu na Pauta do dia 02/2/2013 e nas subsequentes, caso não realizada esta, a Sindicância n. 0003402-36.2011.2.00.0000, sem intimar nenhum dos sindicados para serem ouvidos e, também, sem ouvir as testemunhas arroladas, o que evidencia autêntico cerceamento de defesa” (fl. 7).
+    Daí o presente mandado de segurança.
+    Requer liminar para que seja “determinada (...) a retirada de pauta da Sindicância n. 0003402-36.2011.2.00.0000, até que o Impetrante seja notificado pessoalmente, com a antecedência de 15 (quinze) dias, para ser ouvido, bem seja as testemunhas arroladas inquiridas, como determina a lei (art. 63, § único, do Regimento Interno desse Conselho...)” (fl. 7).
+    No mérito, pede seja confirmada a liminar.
+    3. Distribuído, o processo veio-me em conclusão em 26.11.2013.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. Para deferir a medida liminar em mandado de segurança, o art. 7º, inc. III, da Lei n. 12.016/2009 e o art. 203, § 1º, do Regimento Interno do Supremo Tribunal exigem a conjugação de relevante fundamento e a circunstância de que do ato impugnado possa resultar a ineficácia da medida se essa vier a ser deferida somente ao final.
+    Nesse exame preliminar e precário, próprio dessa fase processual, não estão presentes os requisitos justificadores do deferimento da medida liminar.
+    É que, inobstante afirme na petição inicial não ter sido “intimado para ser ouvido”, o Impetrante assume que as provas por ele requeridas no processo administrativo não foram produzidas, “tendo o Relator da Sindicância feito ‘ouvidos de mercador’ ao pedido de produção de provas, em especial as testemunhais regularmente arroladas” (fl. 2).
+    O relato afigura-se contraditório com a alegação de afronta aos princípios da ampla defesa, sendo certo que este Supremo Tribunal assentou entendimento no sentido de que o indeferimento motivado do pedido de produção de provas periciais e testemunhais reputadas impertinentes ou desnecessárias não consubstancia cerceamento de defesa e está respaldada no § 2º do art. 38 da Lei n. 9.784/1999 e no art. 130 do Código de Processo Civil (v.g., Mandado de Segurança n. 29.137/DF, por mim relatado, 2ª Turma, DJe 27.2.2013), aplicáveis, subsidiariamente, aos processos em curso no Conselho Nacional de Justiça (parágrafo único do art. 107 do Regimento Interno do Conselho Nacional de Justiça).
+    A contradição observada torna imprescindível a manifestação da autoridade indigitada coatora sobre a questão.
+    5. Quanto à alegada inobservância do prazo de quinze (15) dias para a apresentação da defesa prévia, o andamento processual da sindicância juntado pelo Impetrante demonstra que, em 26.7.2013, houve despacho do Conselheiro Relator, do qual intimados os Requeridos em 30.7.2013 e 9.8.2013 (fl. 3 do evento 3).
+    Transcorridos mais de quinze (15), ocorreu despacho em 6.11.2013, seguido da expedição de carta de ordem em 11.11.2013, da qual advinda a informação mencionada no despacho de 22.11.2013, no sentido da dificuldade na intimação do Desembargador Liberato Póvoa para a 180ª sessão ordinária do Conselho Nacional de Justiça (fl. 1 do evento 4), sendo o último andamento sobre intimação do Requerido em 25.11.2013.
+    Tem-se, portanto, evidenciada a realização de atos processuais em observância ao procedimento especificado no art. 63 do Regimento Interno do Conselho Nacional de Justiça, fazendo-se imprescindível a manifestação da autoridade indigitada coatora para conhecer o teor desses despachos e a eventual afronta ao direito vindicado.
+    6. Pelo exposto, indefiro a liminar.
+    7. Notifique-se, com urgência, a autoridade Impetrada para prestar informações no prazo de dez dias (art. 7º, inc. I, da Lei n. 12.016/2009 c/c art. 203 do Regimento Interno do Supremo Tribunal Federal).
+    8. Intime-se a Advocacia-Geral da União, nos termos do art. 7º, inc. II, da Lei n. 12.016/2009.
+    Publique-se.
+    Brasília, 28 de novembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
