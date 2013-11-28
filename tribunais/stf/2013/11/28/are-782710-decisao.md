@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RESTITUIÇÃO DE VALORES DE BENEFÍCIO PREVIDENCIÁRIO RECEBIDO DE BOA-FÉ. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL NO AI Nº 841. 473. OFENSA INDIRETA.
+1. O benefício previdenciário recebido de boa-fé pelo segurado, e sua aferição para efeitos de restituição, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do AI nº 841.473–RG, Rel. Min. Cezar Peluso, DJe 1º/9/2011.
+2. In casu, o acórdão recorrido assentou: “PREVIDENCIÁRIO. AUXÍLIO–DOENÇA. AUSÊNCIA DE INCAPACIDADE LABORATIVA. DEVOLUÇÃO DE VALORES RECEBIDOS LIMINARMENTE. CARÁTER ALIMENTAR. IMPOSSIBILIDADE. RECURSOS DESPROVIDOS. SENTENÇA MANTIDA.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo nas alíneas a e b do permissivo Constitucional, contra acórdão assim ementado:
+    “PREVIDENCIÁRIO. AUXÍLIO–DOENÇA. AUSÊNCIA DE INCAPACIDADE LABORATIVA. DEVOLUÇÃO DE VALORES RECEBIDOS LIMINARMENTE. CARÁTER ALIMENTAR. IMPOSSIBILIDADE. RECURSOS DESPROVIDOS. SENTENÇA MANTIDA.
+    1. O benefício previdenciário de auxílio-doença, na linha do quanto prevê o artigo 59 da Lei n. 8.213/91, será devido ao segurado que, atendida, conforme o caso, a carência de doze contribuições mensais, ficar incapacitado para o seu trabalho ou para a sua atividade habitual por mais de quinze dias consecutivos. Entretanto, uma vez demonstrada a incapacidade definitiva do segurado e a impossibilidade de reabilitação para o exercício de atividade que lhe garanta a subsistência, é cabível a concessão de aposentadoria por invalidez, de acordo com o artigo 42 da Lei n. 8.213/91.
+    2. Na hipótese em apreço, tendo o Perito do Juízo afastado a incapacidade laborativa, descabe a concessão do benefício pretendido. Com efeito, o expert atestou que a autora é portadora de espondilartrose lombar, discopatia degenerativa difusa, protusão póstero mediana do disco de L5-S1.04.11.2011, discreta redução de L5-S1, espondiose cervical, protusão discal de base larga de C4-C5 à C6-C7, não existindo, contudo, patologia incapacitante. Ademais, salientou a ausência de calosidade nas mãos, a presença de movimentos cervicais normais, ausência de cicatrizes, deformidades ou atrofias nos segmentos examinados e o sinal de lasegue negativo bilateralmente.
+    3. Deve ser salientado que nem toda patologia ou grau da moléstia é suficiente para dar ensejo a um diagnóstico de incapacidade laborativa. Vale ressaltar que a autora possui 47 anos de idade e cursou o 2º grau incompleto, sendo possível a realização de atividades que não exijam esforço físico repetitivo. Em sendo assim, não há razão para divergir do Juízo sentenciante, que indeferiu o pleito de concessão do auxílio-doença.
+    4. Registre-se, por oportuno, que a perícia foi empreendida por profissional imparcial, equidistante das partes e idôneo, devidamente nomeado pelo Juízo, sem que se possa nela reconhecer a existência de qualquer vício.
+    5. Vale salientar que, em face da natureza do benefício pleiteado, nada impede nova postulação, uma vez alterado o quadro fático acima delineado.
+    6. No tocante às razões recursais apresentadas pelo INSS, verifica-se que também não merece guarida. Com efeito, agiu com acerto o magistrado sentenciante ao determinar a não restituição dos valores pagos em sede de liminar. Isto porque o princípio da irrepetibilidade dos alimentos impossibilita a devolução de quantia que possua caráter alimentar, mormente quando percebida de boa fé, sem intenção de locupletamento ilícito e em decorrência de ordem judicial, como é o caso dos autos.
+    7. Recursos desprovidos. Sentença mantida por seus próprios fundamentos.
+    8. Acórdão integrativo proferido nos termos do artigo 46 da Lei n. 9.099/95, de aplicação subsidiária.
+    9. Sem honorários advocatícios, face à sucumbência recíproca.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXVI, e 195, § 5º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo derradeiro por não vislumbrar ofensa direta à Constituição Federal.
+    É o breve relatório. DECIDO.
+    Não merece provimento o agravo.
+    A restituição do benefício previdenciário recebido de boa-fé pelo segurado não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do AI nº 841.473–RG, da Relatoria do Min. Cezar Peluso, DJe 1º/9/2011, que possui a seguinte ementa:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de novembro de 2013.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
