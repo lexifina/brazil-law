@@ -1,0 +1,26 @@
+Decisão:
+    Cuida-se de embargos de declaração em face de decisão monocrática proferida nos autos da ação cautelar preparatória em epígrafe.
+    Aponta o recorrente que consta, dos autos, pedido de aditamento à inicial e que a decisão monocrática sobre ele não se pronunciou, sendo nesse ponto, omissa.
+    Em síntese, afirma:
+    “(...) muito embora constante da narrativa dos fatos e do direito o redirecionamento ao Estado de Goiás (f.7, petição inicial) nos autos n.950002142-0, 19983500015547-2, 20013500005754-3, quando da formulação e apreciação do pedido constou exclusivamente os autos n.960005008-2 que, inclusive, foram lançados por equivoco considerando que se referem à empresa em liquidação CERNE (AC3476); não objeto dos presentes autos.
+    A fim de bem delimitar o pedido, justamente com vistas a afastar a caracterização de uma pretensão genérica em função dos demais débitos das empresas em liquidação, o autor promoveu, em 11/11/2013 aditamento do pedido assim procedendo de modo pormenorizado indicando, nos termos das respectivas certidões narrativas, cada uma das execuções fiscais e apensos para, ao final, aditar o pedido, nos seguintes termos:
+    ‘Conforme consta em Certidão da 12ª Vara da Justiça Federal Seção Judiciária do Estado de Goiás os créditos têm a natureza de imposto, multa e contribuição social sendo objeto de execução fiscal nos autos n. 2001.35.00.005754-3 (DOC.05) e apensos 2001.35.00.013298-6, 2001.35.00.007976-4, 2005.35.00.007791-9 e 2001.3500.00.007976-4.
+    Tramitam ainda em face do Estado de Goiás, também decorrentes de débito da sociedade empresária em liquidação, perante a 10ª Vara da Justiça Federal Seção Judiciária do Estado de Goiás, em apenso aos autos n. 95.00.02142-0, conforme consta em Certidão, os executivos fiscais de autos n. 2003.35.00.004368-9, 96.0012246-6, 960012728-0, 2004.35.00.006550-6 e 2003.35.00.019011-8 (DOC.06), ora acostado aos autos (DOC.06).
+    Nesta mesma 10ª vara tramita execução fiscal de autos n. 1998.35.00.015547-2 e processados em conjunto, conforme consta em Certidão, os autos n. 1998.35.00.015531-4 e 2007.35.00.008381-7 (DOC.07), ora acostado aos autos.
+    Em sede da inicial restou consignado tão apenas o n. dos autos principais 1998.35.00.015547-2, 95.00.02142-0 e 2001.35.00.005754-3 (DOC.5) restando omisso no pedido para suspensão das inscrições no CADIN as Execuções Fiscais constantes das Certidões ora juntadas (DOC.06 e 7).
+    Dada identidade dos fatos e causas de pedir próxima e remota o Estado de Goiás vem, respeitosamente, nos termos do art.294, do CPC, aditar o pedido de modo que seja determinada a suspensão da inscrição CADIN também daqueles créditos em execução nos autos apensos quais sejam: 1998.35.00.015547-2, n. 1998.35.00.015531-4, 2007.35.00.008381-7, 95.00.02142-0, 2003.35.00.004368-9, 96.0012246-6, 960012728-0, 2004.35.00.006550-6, 2003.35.00.019011-8, n. 2001.35.00.005754-3,2001.35.00.013298-6,2001.35.00.007976-4 2005.35.00.007791-9 e 2001.3500.00.007976-4; todos constantes das certidões.’
+    Assiste razão ao embargante.
+    A decisão foi omissa quanto ao pedido de aditamento, devendo a liminar anteriormente deferida ser estendida às execuções fiscais apontadas na referida petição.
+    Reconheço, ademais, que o erro material constante da exordial (consistente na indicação, em narrativa dos fatos, dos autos nº 950002142-0, nº 19983500015547-2 e nº 20013500005754-3 como sendo as execuções fiscais em que o Estado de Goiás respondia como sucessor processual; e, na formulação do pedido, a indicação dos autos nº 960005008-2) repercutiu na decisão, que em seu dispositivo ateve-se ao requerimento, e não ao relato, constante da inicial.
+    Ante o exposto, acolho e provejo os embargos de declaração, para deferir o pedido de aditamento e suprir a omissão apontada, concedendo parcialmente a liminar, para determinar à União que:
+    a) se abstenha de inscrever o Estado de Goiás no CADIN e em qualquer órgão de restrição ao crédito ou de inadimplentes – ou caso já tenha inscrito, promova a exclusão do Estado de Goiás do CADIN e dos demais órgãos correlatos – relativamente ao crédito originado das execuções fiscais nº 2001.35.00.005754-3 (e apensos requeridos no aditamento: 2001.35.00.013298-6, 2001.35.00.007976-4 e 2005.35.00.007791-9), em trâmite perante a 12ª Vara da JFGO, nº 1998.35.00.015547-2 (e seus apensos 1998.35.00.015531-4 e 2007.35.00.008381-7), em trâmite perante a 10ª Vara, e nº 95.00.02142-0 (e seus apensos 2003.35.00.004368-9, 96.0012246-6, 96.0012728-0, 2004.35.00.006550-6 e 2003.35.00.019011-8), em trâmite perante a 10ª Vara da JFGO;
+    b) emita, acaso não pendentes outros débitos que impeçam tal ato, certidão positiva com efeito de negativa de débitos fiscais e/ou de inscrição em dívida ativa;
+    c) se abstenha de reter quaisquer transferências voluntárias ao Estado de Goiás ou de obstaculizar quaisquer operações de crédito, com fundamento nos processos de execução fiscal supra mencionados.
+    Comunique-se.
+    Renove-se a citação, na forma da lei.
+    Após, com ou sem resposta, remetam-se os autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 28 de novembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
