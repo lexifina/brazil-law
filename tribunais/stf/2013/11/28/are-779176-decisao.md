@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão da Oitava Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER'. FUNDAÇÃO PARA A INFÂNCIA E ADOLESCÊNCIA' - FIA/RJ. PRETENSÃO DE RECEBIMENTO DE GRATIFICAÇÃO ENCARGOS ESPECIAIS INSTITUÍDO PELO DECRETO N. 020152/94 E SUSPENSO PELO -DE N.021813/95. SEN-TENÇA DE IMPROCEDÊNCIA. NÃO .TENDO O DEMANDANTE SE DESINCUMBIDO DO ÔNUS QUE LHE COMPETIA, NA FORMA DO ARTIGO 333, I, DO CÓDIGO DE PROCESSO CIVIL, NÃO RESTOU ALTERNATIVA AO MAGISTRADO SENÃO JULGAR IMPROCEDENTES OS PEDIDOS. RECURSO A QUE SE- NEGA SEGUIMENTO, NOS TERMOS DO ART. 557, CAPUT, DO CPC.” (eDOC 1, pg. 134).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 5º, inciso LV; e 93, inciso IX, ambos da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    Constato que o recorrente não logrou demonstrar com exatidão os dispositivos constitucionais supostamente violados pelo acórdão recorrido. Dessa forma, o prosseguimento do recurso extraordinário encontra óbice na Súmula 284 do STF, que assim dispõe: é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    Nesse mesmo sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO PRÊMIO DE PRODUTIVIDADE. EXTENSÃO AOS SERVIDORES APOSENTADOS. INCIDÊNCIA DA SÚMULA 280 DO STF. INTERPOSIÇÃO DO APELO EXTREMO COM BASE NA ALÍNEA C DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. IMPROCEDÊNCIA. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Quanto à alínea c, é de se aplicar a Súmula 284 do Supremo Tribunal Federal. 3. Agravo regimental desprovido.”(RE-AgR 566.273, Rel. Min. Ayres Britto, Segunda Turma, DJe 13.12.2010).
+    Ainda que assim não fosse, verifico que o Tribunal a quo solucionou a controvérsia em questão com base em interpretação de legislação local (Decretos 20.152/1994 e 21.813/1995). Dessa forma, para se dissentir do acórdão recorrido e se entender que a parte recorrente tem direito ao percebimento da Gratificação de Encargos Especias objeto da lide, far-se-ia imprescindível a análise da referida legislação estadual, providência que encontra óbice, em sede de apelo extremo, por força da Súmula 280 do STF.
+    Nesse mesmo sentido:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORA PÚBLICA. RECEBIMENTO DE GRATIFICAÇÃO DE PRODUTIVIDADE. LEI ESTADUAL N. 13.761/2006. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE-AgR 722.722, Rel. Min. Cármen Lúcia, DJe 18.4.2013).
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE PRODUTIVIDADE. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. Controvérsia relativa à gratificação de produtividade apreciada à luz de legislação de direito local, circunstância impeditiva à apreciação do extraordinário. Súmula 280-STF. Agravo regimental a que se nega provimento.” (AI-AgR 598.600, Rel. Min. Eros Grau, DJ 6.11.2006).
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 28 de novembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
