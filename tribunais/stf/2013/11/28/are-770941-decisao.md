@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO. COMPROVAÇÃO DE VIOLAÇÃO DIRETA DE PRECEITO DE NATUREZA CONSTITUCIONAL NÃO SATISFEITA. NÃO PROVIMENTO. Nega-se provimento ao Agravo de Instrumento em processo de execução, quando não é demonstrada violação direta de dispositivo de natureza constitucional. Aplicação do disposto no artigo 896, § 2º, da CLT e da Súmula nº 266 do TST. Agravo de Instrumento não provido.”
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II e 97, ambos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “não se divisa violação direta à Constituição, porque a controvérsia reside na interpretação do art. 1º-F da Lei nº 9.494/97, matéria de natureza infraconstitucional”.
+    A decisão agravada alinha-se com a jurisprudência do Supremo Tribunal Federal no sentido de tratar-se de matéria infraconstitucional a discussão acerca da aplicabilidade ou não dos juros de mora previstos no art. 1º-F da Lei 9.494/1997, quando a Fazenda Pública for condenada subsidiariamente pelas obrigações trabalhistas inadimplidas pelo empregador principal. Nesse linha, veja-se o ARE 679.984, Rel. Min. Ricardo Lewandowski, onde esta Corte afastou a pretensão deduzida com fundamento expresso na ausência de repercussão geral da matéria:
+    “JUROS DE MORA. ART. 1º-F DA LEI 9.494/1997. APLICABILIDADE À FAZENDA PÚBLICA QUANDO CONDENADA SUBSIDIARIAMENTE PELAS OBRIGAÇÕES INADIMPLIDAS PELO EMPREGADOR PRINCIPAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Ademais, a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. Nessa linha, veja-se a seguinte passagem da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “(...)
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Por fim, a jurisprudência desta Corte é firme no sentido de que não se aplica a restrição do art. 97 da Constituição Federal quando o acórdão recorrido apenas interpreta legislação infraconstitucional, sem declarar sua inconstitucionalidade. Nessa linha, veja-se o RE 757.746 AgR, Rel. Min. Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PERDA SUPERVENIENTE DE OBJETO. RECURSO EXTRAORDINÁRIO PREJUDICADO. ART. 97 DA CONSTITUIÇÃO. AUSÊNCIA DE VIOLAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+    I Resta prejudicado o recurso extraordinário nas hipóteses em que a controvérsia cingir-se sobre a possibilidade de menor de 18 anos frequentar curso supletivo de nível médio, se alcançada a maioridade. Precedentes.
+    II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior
+    III Agravo regimental improvido.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e o art. 21, § 1º , do RI/STF, conheço do agravo e nego provimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 28 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
