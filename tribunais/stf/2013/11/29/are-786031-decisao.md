@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado, no que interessa:
+    “APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. FUNDAÇÃO BANRISUL. DIFERENÇAS SALARIAIS. REPASSE DOS REAJUSTES DE 5,5% E 7,2%. POSSIBILIDADE. COMPETÊNCIA DA JUSTIÇA ESTADUAL (...)”. (eDOC 5, p. 107)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 5º, II, LV; 7º, XXVI; 93, IX; e 202, caput e § 2º, do texto constitucional.
+    Aponta-se que o acórdão impugnado negou o reconhecimento das convenções coletivas de trabalho, bem como concedeu os benefícios pleiteados sem a prévia fonte de custeio.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, esta Corte reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o referido artigo exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Verifico que divergir do entendimento adotado pelo Tribunal de origem demandaria a prévia análise de cláusulas firmadas em normas coletivas de trabalho, de modo que eventual ofensa à Constituição Federal, caso existente, dar-se-ia de maneira indireta, o que inviabiliza o processamento do recurso extraordinário. Incide, portanto, o Enunciado 454 da Súmula do STF. Confira-se o seguinte julgado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA E PREVIDENCIÁRIO. PROMOÇÃO DE EMPREGADOS EM ATIVIDADE: NATUREZA GERAL. EXTENSÃO AOS INATIVOS. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL (SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL). IMPOSSIBILIDADE DA ANÁLISE DO REGULAMENTO DA ENTIDADE DE PREVIDÊNCIA PRIVADA E DO ACORDO COLETIVO. INCIDÊNCIA DA SÚMULA 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 761.593-AgR/BA, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 30.4.2010)
+    Ressalto que o Supremo Tribunal Federal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Enunciado 636 da Súmula do STF).
+    Por fim, saliento que o Plenário desta Corte apreciou a matéria relativa à extensão de vantagem outorgada a trabalhadores da ativa a beneficiários de plano de previdência complementar privada no julgamento do RE-RG 590.005, Rel. Min. Cezar Peluso, DJe 18.12.2009, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta, nos seguintes termos:
+    “RECURSO. Extraordinário. Incognoscibilidade. Previdência privada. Complementação de aposentadoria. Extensão, a aposentados, de benefício concedido a trabalhadores em atividade. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à concessão, a beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados ativos, versa sobre matéria infraconstitucional”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de novembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
