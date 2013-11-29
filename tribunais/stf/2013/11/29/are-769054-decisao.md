@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO-CRIME. TRÁFICO DE DROGAS. LEI 11.343/06. PROVA. CONDENAÇÃO MANTIDA. Incriminada a acusada pelos policiais que a prenderam em flagrante delito, após venda de cocaína a terceira pessoa, a mando dos policiais, bem como pela apreensão de papelotes de cocaína com seu marido, no bar de ambos, tendo esse também vendido a um dos policiais, impositiva a manutenção do juízo condenatório.
+    VALIDADE DOS DEPOIMENTOS DOS POLICIAIS. Os depoimentos dos policiais são elementos de convicção válidos, mormente quando não resta evidenciado que tivessem motivos escusos para imputar um crime tão grave a um inocente. Precedentes. Além disso, estavam a investigar denúncia de tráfico que restou confirmada.
+    APENAMENTO. REDUÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI 11.343/06. IMPOSSIBILIDADE, NO CASO. A ré possui bons antecedentes. Embora presentes circunstâncias judiciais negativas, como a pena-base foi fixada no mínimo legal, presentes os requisitos da minorante, a redução máxima aplicada na sentença não se mostra desarrazoada.
+    SUBSTITUIÇÃO DA PENA CORPORAL. Diante do precedente do STF, concedo o benefício à apelante, devendo as penas serem estabelecidas pelo Juízo a quo, pena de supressão de instância.
+    Apelo defensivo e ministerial desprovidos. De ofício, reduzida a pena de multa.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XLVI, da Constituição. Pede a reforma do acórdão recorrido para “afastar a substituição da pena privativa de liberdade por prestação de serviços à comunidade”.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que, “pelo que se depreende das próprias razões, se ofensa houvesse a dispositivo constitucional, não seria de forma frontal e direta, como exige o recurso extraordinário, mas de forma reflexa, intermediada pela legislação infraconstitucional, o que inviabiliza o acesso à via recursal extraordinária”.
+    O recurso extraordinário é inadmissível, tendo em vista que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal. Com efeito, o Plenário Virtual reconheceu a existência de repercussão geral da questão constitucional e reafirmou a jurisprudência dominante no sentido da inconstitucionalidade da vedação à substituição da pena privativa de liberdade por restritiva de direitos, prevista no art. 33, § 4º, caput, da Lei nº 11.343/2006. Nesse sentido, veja-se a ementa do ARE 663.261, julgado sob a relatoria do Ministro Luiz Fux:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ENTENDIMENTO CONSOLIDADO NO HABEAS CORPUS 97.256. INCONSTITUCIONALIDADE DA VEDAÇÃO. CONTROVÉRSIA CONSTITUCIONAL COM REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.”
+    Diante do exposto, com base no art. 38 da nº Lei 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de novembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
