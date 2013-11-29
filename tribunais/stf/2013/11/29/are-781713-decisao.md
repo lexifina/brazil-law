@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - PROFESSORA TEMPORÁRIA - PEDIDO PARA SER ENQUADRADA NA CATEGORIA 'F' DOS PROFESSORES TEMPORÁRIOS (ACT LEI N.º 500/74) - INADMISSIBILIDADE - A APELANTE NÃO ERA PROFESSORA TEMPORÁRIA NA DATA DA PUBLICAÇÃO DA LEI COMPLEMENTAR N.º 1.010/07 - RECURSO DESPROVIDO” (fl. 129 – grifos no original).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao princípio da isonomia.
+    A pretensão recursal não merece acolhida. Isso porque para se chegar à conclusão contrária à adotada pelo Juízo a quo, no concernente à possibilidade de enquadramento da ora recorrente na categoria pleiteada, imprescindível seria a análise de normas infraconstitucionais locais, bem como o reexame das provas constantes dos autos, o que inviabiliza o RE nos termos das Súmulas 279 e 280 desta Corte. Com o mesmo entendimento:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. ENQUADRAMENTO. LEI MUNICIPAL N. 13.637/03. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 631.444-AgR/SP, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356. PREQUESTIONAMENTO IMPLÍCITO: IMPOSSIBILIDADE. OFENSA REFLEXA. INTERPRETAÇÃO DE NORMA LOCAL. SÚMULA STF 280. 1. O dispositivo constitucional em que se apóia o extraordinário não foi prequestionado, porque não abordado pelo acórdão recorrido, nem mencionado nos embargos de declaração opostos. Incidência das Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o "prequestionamento implícito" da questão constitucional. Precedentes. 3. A questão pertinente ao enquadramento de servidor no cargo de motorista auxiliar, nos termos da Lei Municipal 719/69, não prescinde da interpretação de norma local. Incidência da Súmula STF 280. 4. Agravo regimental improvido” (AI 723.047-AgR/RS, Rel. Min. Ellen Gracie, Segunda Turma – grifos meus).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de novembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
