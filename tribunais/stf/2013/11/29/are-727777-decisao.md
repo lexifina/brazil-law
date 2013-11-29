@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão, cujo trecho da ementa transcrevo abaixo:
+          “ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE PLAUSIBILIDADE DE SE CONTINUAR PROCEDENDO DURANTE PERÍODO DE APURAÇÃO ADMINISTRATIVA NO ÂMBITO DO INSS A DESCONTOS DE EMPRÉSTIMOS CONSIGNADOS EM BENEFÍCIO PREVIDENCIÁRIO DE SEGURADO QUE AFIRMA NÃO TER AUTORIZADO A CONSIGNAÇÃO. LEGITIMIDADE ATIVA DO MPF”. (eDOC 8, p. 146)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa ao artigo 5º, inciso LIV e LV, do texto constitucional.
+    Nas razões recursais, sustenta-se que o Ministério Público Federal não possui legitimidade para propor ações que versem sobre questões previdenciárias, sob o fundamento de se tratar de direitos individuais.
+    Decido.
+    A jurisprudência do Supremo Tribunal Federal entende que o Ministério Público detém legitimidade para propor ação civil pública em defesa de interesses individuais homogêneos, quando presente evidente relevo social.
+    Conforme apontado na decisão ora agravada, ao julgar o RE 163.231, Rel. Min. Maurício Corrêa, DJ 29.6.2001, o Plenário do Supremo Tribunal Federal assumiu essa mesma compreensão. Nesse ponto, destaco trecho da ementa do acórdão:
+    “(…) 4.1. Quer se afirme interesses coletivos ou particularmente interesses homogêneos, stricto sensu , ambos estão cingidos a uma mesma base jurídica, sendo coletivos, explicitamente dizendo, porque são relativos a grupos, categorias ou classes de pessoas, que conquanto digam respeito às pessoas isoladamente, não se classificam como direitos individuais para o fim de ser vedada a sua defesa em ação civil pública, porque sua concepção finalística destina-se à proteção desses grupos, categorias ou classe de pessoas”.
+    Com efeito, esse aresto vem subsidiando os pronunciamentos da Corte em circunstâncias análogas à dos autos. A propósito, entre outros, confiram-se: a preliminar do RE 511.961, de minha relatoria, Tribunal Pleno, DJe 13.11.2009; o RE-AgR 472.489, Rel. Min. Celso de Mello, Segunda Turma, DJe 29.8.2008; o AI-AgR 722.896, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 14.8.2009; e o RE-AgR 514.023, Rel. Min. Ellen Gracie, Segunda Turma, DJe 5.2.2010. Este último assim ementado:
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE ATIVA. MINISTÉRIO PÚBLICO. DEFESA DE DIREITOS INDIVIDUAIS HOMOGÊNEOS. SÚMULA STF 286: INAPLICABILIDADE. 1. Desde o advento da Constituição Federal de 1988, não há mais falar em 'recurso extraordinário fundado em divergência jurisprudencial', tendo em vista o contido no art. 102, III, e alíneas, da mesma Carta. Improcedência de aplicação da Súmula STF 286. 2. O Ministério Público detém legitimidade para propor ação civil pública na defesa de interesses individuais homogêneos (CF/88, arts. 127, § 1º, e 129, II e III). Precedente do Plenário: RE 163.231/SP, rel. Min. Carlos Velloso, DJ 29.06.2001. 3. Agravo regimental improvido”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de novembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
