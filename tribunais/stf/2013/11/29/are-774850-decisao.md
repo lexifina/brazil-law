@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. ARTIGO 110 E 112 DO CÓDIGO PENAL. MARCO INICIAL. TRÂNSITO EM JULGADO PARA ACUSAÇÃO.
+1. A prescrição regula-se pela pena aplicada depois de proferida a sentença condenatória, sendo que, cuidando-se de execução da pena, o lapso prescricional flui do dia em que transitado em julgado para a acusação, conforme previsto no artigo 112, combinado com o artigo 110 do Código Penal. Precedentes: HC 110.133, Rel. Min. Luiz Fux, Primeira Turma, DJe 19/4/2012, ARE 758.903, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 24/9/2013.
+2. In casu, o acórdão recorrido assentou: “AGRAVO EM EXECUÇÃO - PRESCRIÇÃO EXECUTÓRIA TERMO INICIAL - TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. I. O termo inicial da prescrição da pretensão executória é o trânsito em julgado para a acusação. Carecedor de lógica, este foi, no entanto, o critério do legislador, que deve ser aplicado em beneficio do acusado. O entendimento decorre do principio da legalidade, ao qual adstrito o aplicador penal. II. Recurso improvido.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo Ministério Público do Distrito Federal e Territórios com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado, in verbis:
+    “AGRAVO EM EXECUÇÃO - PRESCRIÇÃO EXECUTÓRIA TERMO INICIAL - TRÂNSITO EM JULGADO PARA A ACUSAÇÃO.
+    I. O termo inicial da prescrição da pretensão executória é o trânsito em julgado para a acusação. Carecedor de lógica, este foi, no entanto, o critério do legislador, que deve ser aplicado em beneficio do acusado. O entendimento decorre do principio da legalidade, ao qual adstrito o aplicador penal.
+    II. Recurso improvido.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões do apelo extremo, no mérito, alega violação ao artigo 5º, II, XXXIX e LVII, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que, além de não ter cumprido o requisito do prequestionamento, seria necessário o reexame do conjunto fático-probatório.
+    É o relatório. DECIDO.
+    Não merece prosperar o presente agravo.
+    A jurisprudência do Supremo Tribunal assentou entendimento de que a prescrição regula-se pela pena aplicada depois de proferida a sentença condenatória, sendo que, cuidando-se de execução da pena, o lapso prescricional flui do dia em que transitado em julgado para a acusação, conforme previsto no artigo 112, combinado com o artigo 110 do Código Penal. Nesse sentido, HC 110.133, Rel. Min. Luiz Fux, Primeira Turma, DJe 19/4/2012, ARE 758.903, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 24/9/2013, com as respectivas ementas:
+    “PENAL. PROCESSUAL PENAL. CRIME DE TRÂNSITO. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. CUMPRIMENTO DA PENA NÃO INICIADO E AUSÊNCIA DE NOVOS MARCOS INTERRUPTIVOS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA DA PENA. EXTINÇÃO DA PUNIBILIDADE. 1. A prescrição regula-se pela pena aplicada depois de proferida a sentença condenatória, sendo que, cuidando-se de execução da pena, o lapso prescricional flui do dia em que transita em julgado para a acusação, conforme previsto no artigo 112, combinado com o artigo 110 do Código Penal. 2. In casu, o agente foi condenado à pena de sete meses de detenção e, decorridos mais de dois anos do trânsito em julgado da sentença para a acusação e defesa, não se deu início à execução da pena nem se apontou a existência de causa interruptiva da prescrição executória da pena. Extinção da punibilidade em virtude da superveniente prescrição da pretensão executória do Estado, nos termos do artigo 112, inciso I, do Código Penal. 3. Ordem de habeas corpus concedida.”
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. A jurisprudência do Supremo Tribunal Federal sedimentou-se no sentido de que o prazo prescricional da pretensão executória começa a fluir da data do trânsito em julgado para a acusação. Precedentes. Agravo regimental ao qual se nega provimento.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de novembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
