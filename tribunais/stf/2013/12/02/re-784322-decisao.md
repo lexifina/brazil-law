@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS. TRIBUTAÇÃO MONOFÁSICA. IMPORTAÇÃO DE VEÍCULOS AUTOMOTORES E DE AUTOPEÇAS. REVENDA. LEIS NS. 10.485/2002, 10.637/2002, 10.833/2003, 10.865/2004 E 11.033/2004. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “TRIBUTÁRIO. AGRAVO LEGAL. PIS E COFINS. ALÍQUOTA ZERO.
+    I. Está pacificado o entendimento nas duas Turmas de Direito Tributário que o vendedor varejista de automóveis e autopeças não faz jus ao creditamento de PIS e COFINS incidente na aquisição desses produtos para fins de revenda:
+    2. A Lei 10.485/2002 instituiu regime de incidência monofásica do PIS e da COFINS nas atividades atinentes à comercialização de veículos automotores e autopeças, tributando unicamente a receita obtida pelos produtores e importadores pela venda desses produtos, e aplicando a alíquota zero sobre a receita auferida pelos vendedores varejistas”.
+    2. A Recorrente afirma que o Tribunal de origem teria contrariado o art. 195, § 12, da Constituição da República.
+    Argumenta que “constitucionalmente não há possibilidade alguma de estabelecer-se qualquer limitação à apropriação e aproveitamento dos créditos relativos às aquisições de produtos sujeitos à incidência monofásica do PIS e da COFINS, tendo sido inconstitucionais (enquanto vigeram) as limitações trazidas nos artigos 3º, I, "b" das Leis ns. 10.637/02 e 10.833/03 e sendo inconstitucional, hoje, a limitação pretendida”.
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Leis ns. 10.485/2002, 10.637/2002, 10.833/2003, 10.865/2004 e 11.033/2004). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. PIS. COFINS. Creditamento. Tributação monofásica. Matéria infraconstitucional. Ofensa reflexa. Precedentes. 1. A matéria aqui em discussão é dotada de cunho eminentemente infraconstitucional. Assim, eventual ofensa à Constituição Federal se daria de forma indireta ou reflexa, o que inviabiliza o apelo extremo. 2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 3. Agravo regimental não provido” (ARE 646.173-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 22.8.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÕES PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS E PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL – PIS. DIREITO AO CRÉDITO. TRIBUTAÇÃO MONOFÁSICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 648.586-AgR, de minha relatoria, DJe 11.10.2011).
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PARA A INTEGRAÇÃO SOCIAL - PIS E CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS. DIREITO AO CRÉDITO. TRIBUTAÇÃO MONOFÁSICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. DECISÃO SUFICIENTEMENTE MOTIVADA. ACÓRDÃO RECORRIDO PUBLICADO EM 18.06.2009. Suficientemente explicitados os motivos de decidir, inexistente o vício de nulidade por negativa de prestação jurisdicional. A discussão travada nos autos não alcança status constitucional, porquanto solvida à luz da interpretação da legislação infraconstitucional aplicável à espécie. Agravo regimental conhecido e não provido” (RE 760.122-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 21.11.2013).
+    Nada há, pois, a prover quanto às alegações da Recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno).
+    Publique-se.
+    Brasília, 2 de dezembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
