@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. O ATO DE HOMOLOGAÇÃO DO AUTO DE INFRAÇÃO E LANÇAMENTO, ASSIM COMO DE INDEFERIMENTO DO RECURSO ADMINISTRATIVO, ENCONTRAM-SE FUNDAMENTADOS NOS RESPECTIVOS PARECERES DA PROCURADORIA DA FAZENDA MUNICIPAL. APELO DESPROVIDO” (fl. 405).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LV, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque para se chegar a conclusão contrária à adotada pelo Tribunal de origem, no concernente à observância do contraditório e da ampla defesa no processo administrativo, necessário seria o reexame do conjunto fático probatório constante dos autos, bem como a análise de normas infraconstitucionais aplicáveis à espécie, o que inviabiliza o extraordinário a teor da Súmula 279 do STF. Nesse sentido, trago à colação recentes julgados proferidos por esta Corte:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. DIREITO À AMPLA DEFESA E AO CONTRADITÓRIO. OFENSA REFLEXA À CONSTITUIÇÃO. PRESTAÇÃO DE SERVIÇO DE ESGOTAMENTO SANITÁRIO.  REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE 701.072-Agr/RJ, Rel. Min. Teori Zavascki, Segunda Turma).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCEDIMENTO ADMINISTRATIVO FISCAL. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DA AMPLA DEFESA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – Para dissentir da conclusão adotada pelo acórdão recorrido quanto à ausência de violação à ampla defesa e ao contraditório no procedimento administrativo fiscal ao qual foi submetida a ora agravante, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – Agravo regimental improvido” (ARE 802.858-AgR/PR, de minha relatoria, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de dezembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
