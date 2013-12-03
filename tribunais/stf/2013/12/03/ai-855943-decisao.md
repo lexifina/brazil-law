@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 26):
+    “AÇÃO ORDINÁRIA REVISONAL DE APOSENTADORIA. SERVIDOR DO FORO EXTRAJUDICIAL. EQUIPARAÇÃO AOS VENCIMENTOS DE ESCRIVÃO DO JUDICIAL. DECRETO Nº 21.204/81. IMPOSSIBILIDADE. O Decreto nº 21.204/81 trata apenas de contribuição previdenciária devida ao Instituto dos Servidores do Estado de Minas Gerais, pelos servidores não remunerados diretamente pelo Estado, como é o do Impetrante. Tal decreto não estipulou o valor dos proventos. Estabeleceu, apenas, a base (estipêndio de contribuição) e o percentual de contribuição a ser recolhido perante o Instituto dos Servidores do Estado de Minas Gerais, para que os servidores abrangidos no citado Decreto fizessem jus aos benefícios concedidos por aquela Instituto.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação ao arts. 37, XV; 40, §§ 7º e 8º; e 201, V, § 3º, da Constituição. Sustenta que “o acórdão não apreciou bem o Decreto 21.204/81 dando-lhe errônea interpretação e ferindo diretamente a integralidade e a irredutibilidade de proventos guardados pela Constituição” (fls. 74).
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos: (i) “A matéria ventilada no apelo não propicia o trânsito pretendido porquanto regida por norma de direito local, e eventual vulneração ao Texto Maior dar-se-ia, quando muito, de maneira reflexa”; e (ii) o acórdão recorrido não julgou válida lei ou ato de governo local em detrimento da Constituição Federal.
+    O agravo não deve ser provido. O Tribunal de origem, com fundamento no Decreto nº 21.204/1981, entendeu que a norma infraconstitucional mencionada não tratou do valor de remuneração de servidores, apenas regulamentou contribuição previdenciária. Assim, para divergir deste entendimento, seria necessário rever a interpretação dada à legislação local acima mencionada, o que, nessas condições, atrai a incidência da Súmula 280/STF:
+    “Por ofensa a direito local não cabe recurso extraordinário”.
+    Nesse mesmo sentido, confiram-se os seguintes precedentes: AIs 601.973, Rel. Min. Joaquim Barbosa, AI 603.268-AgR, Rel. Min. Sepúlveda Pertence, AI 719.672, Rel. Min. Dias Toffoli, e AI 555.886-AgR, Rel.ª Min.ª Ellen Gracie.
+    Ademais, a interposição do recurso extraordinário pelo art. 102, III, c , da Carta Magna pressupõe que o aresto impugnado tenha julgado válida lei ou ato de governo local contestado ante à Constituição, o que não ocorreu no caso.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 03 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
