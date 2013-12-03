@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão cujo trecho da ementa transcrevo:
+    “PREVIDENCIÁRIO. AUXÍLIO-DOENÇA E/OU APOSENTADORIA POR INVALIDEZ. QUALIDADE DE SEGURADO ESPECIAL (RURAL) NÃO DEMONSTRADA. INDEFERIMENTO. SENTENÇA. MANUTENÇÃO PELOS SEUS FUNDAMENTOS JÁ COLACIONADOS. QUESTÕES DECIDIDAS. ART. 46 DA LEI 9.099/95. APLICAÇÃO SUBSIDIÁRIA, POR FORÇA DO ART. 1º DA LEI Nº 10.259/2001. NECESSIDADE DE EXPLICITAÇÃO DE OUTROS FUNDAMENTOS, ORA DECLINADOS, NESTE VOTO. IMPROVIMENTO DO(S) RECURSO(S).
+    (…)
+    III – No caso dos autos, confirma-se a sentença recorrida pelos seus fundamentos, eis que as questões fático-jurídicas debatidas nos autos obtiveram decisão que se coaduna com o entendimento deste relator.
+    IV – Demais disso, além dos fundamentos colacionados no decisório recorrido, há de se firmar que não restou comprovada a qualidade de segurado especial do demandante. O autor é dono de terreno com 21 hectares de extensão, confessou cuidar de 17 cabeças de gado e contratar diaristas para auxiliá-lo. No processo administrativo, há informação, trazida por uma testemunha, a indicar a contratação de ao menos 4 trabalhadores mediante do pagamento de diárias.
+    V – É cediço que a para caracterização da qualidade de segurado especial não pode haver exploração de empregados e a renda advinda da atividade rural deve ser indispensável ao sustento da família. Uma vez demonstrada tal condição, é de rigor o indeferimento da pretensão. VI – Improvimento do(s) recurso(s)”. (eDOC 41, p. 1)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se ofensa ao artigo 5º, XXXVI e LV; e 84, IV, do texto constitucional.
+     Nas razões recursais, sustenta-se afronta ao princípio do devido processo legal. Argumenta-se que as lesões da parte recorrente e sua aptidão ao percebimento do benefício previdenciário foram amplamente comprovados nos autos (eDOC 48, p. 6).
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o acórdão recorrido decidiu a controvérsia com fundamento na análise dos elementos fático-probatórios constantes dos autos e na interpretação da legislação infraconstitucional aplicável ao caso (Lei nº 8.213/91). A ofensa à Constituição, caso existente, dar-se-ia de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária. Incidem, portanto, os Enunciados 279 e 636 da Súmula do STF. Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. REQUISITOS. 1. INSUFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. INVIABILIDADE DA ANÁLISE DO RECURSO EXTRAORDINÁRIO. 2. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE-AgR 662.120, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.2.2012).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional (L. 8.213/91): alegação de ofensa indireta a dispositivo constitucional (CF, art. 201, § 1º) que, ademais, não foi prequestionado, nem objeto de embargos de declaração (Súmulas 282 e 356)” (RE-AgR 324.039, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 30.4.2004).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 806.029, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.11.2010).
+    Por fim, no tocante à suposta violação ao devido processo legal, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução da controvérsia depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 3 de dezembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
