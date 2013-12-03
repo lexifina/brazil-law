@@ -1,0 +1,17 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 4º Região Tribunal em demanda visando ao creditamento do PIS e da COFINS incidentes sobre a venda de mercadorias para a Zona Franca de Manaus.
+    Os embargos de declaração foram acolhidos para corrigir erro material (fls. 269).
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa ao artigo 149, §2º, I, da Constituição Federal e ao artigo 40 do ADCT, alegando, em suma, que (a) as disposições do Decreto-Lei 288/67 não podem isentar os tributos discutidos e (b) inaplicável ao caso a imunidade do art. 149 da Constituição.
+    O recurso também foi interposto com base na hipótese prevista na alínea “b” do art. 102, III, da Constituição Federal, abordando-se a prescrição da pretensão de repetição de indébito e a aplicação imediata das disposições da LC 118/2005.
+    2. Conforme registrado pelo Tribunal de origem, a questão da prescrição está superada pelo precedente formado no julgamento do RE 566.621 (v. 81, fl. 2). O acórdão recorrido aplicou entendimento fiel a esse julgado (v. 54, fl. 03; v. 65).
+    3. No mais, a irresignação também não merece prosperar. A jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que a controvérsia acerca da isenção concedida na venda de mercadorias destinadas à Zona Franca de Manaus, de acordo com o Decreto-Lei 288/97, é de natureza infraconstitucional e não pode ser analisada em sede de recurso extraordinário. Nesse sentido, confiram-se os seguintes julgados:
+    EMENTA Agravo regimental no recurso extraordinário. PIS e COFINS. Produtos destinados à Zona Franca de Manaus. DL n.º 288/67. Natureza infraconstitucional da controvérsia. Ofensa reflexa. Discussão sob o enfoque do art. 40, parágrafo único, do ADCT. Entendimento do STF na ADI 2.348-MC. MP nº 2.037-24/00. Suspensão da eficácia. 1. As discussões relativas à isenção concedida na venda de produtos destinados à Zona Franca de Manaus, à luz do Decreto-lei nº 288/97, ensejam reinterpretação de normas infraconstitucionais, sendo que a suposta afronta à Constituição, se ocorresse, seria indireta. Precedentes. 2. O Supremo Tribunal Federal, no julgamento da ADI 2.348-MC, Relator o Ministro Marco Aurélio, DJ de 7/11/03, apreciando a questão, afastou a eficácia de dispositivos da MP nº 2.037-24/2000, à luz do art. 40 do ADCT, no intuito de preservar a imunidade tributária constitucionalmente deferida à Zona Franca de Manaus. Precedentes. 3. Agravo regimental não provido.
+(RE 568417 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, DJe de 15-03-2012).
+    Agravo interno em recurso extraordinário. 2. Tributário. COFINS e Contribuição ao PIS. Receitas decorrentes de vendas de mercadorias destinadas à Zona Franca de Manaus. 3. Isenção. Aspecto do execício de competência tributária inserido na liberdade de conformação do legislador infraconstitucional. Ausência de contencioso constitucional in concreto. Inviabilidade de acesso da controvérsia à via extraordinária. Precedentes. 4. Agravo interno a que se nega provimento.
+(RE 640653 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, DJe de 30-09-2011).
+    4. Diante do exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 03 de dezembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
