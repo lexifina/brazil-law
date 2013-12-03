@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 29, de 13 de novembro de 2013
+ASSUNTO: Simples Nacional EMENTA: REVENDA DE PROGRAMAS NÃO CUSTOMIZÁVEIS PARA COMPUTADOR, COM AS CORRESPONDENTES LICENÇAS DEFINITIVAS. TRIBUTAÇÃO NA FORMA DO ANEXO I. A receita decorrente da revenda de programas não customizáveis para computador (“software de prateleira”), com as correspondentes licenças definitivas, tem natureza comercial e, conseqüentemente, no Simples Nacional, deve ser tributada na forma do Anexo I da Lei Complementar nº 123, de 2006. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 18.
+[arquivo anexo: SC Cosit 29-2013.pdf]
