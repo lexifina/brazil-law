@@ -1,0 +1,16 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. MUNICÍPIO DE GOIÂNIA. OMISSÃO NA REGULARIZAÇÃO DE LOTEAMENTO. I - REALIZAÇÃO DE LOTEAMENTO EM DESACORDO COM AS LEIS QUE REGEM O PARCELAMENTO DO SOLO CONSTITUI-SE EM ATO DANOSO CAPAZ DE GERAR SITUAÇÃO PREJUDICIAL PARA OS ADQUIRENTES DESAVISADOS E DE UM MODO GERAL PARA TODOS OS MUNÍCIPES. II - NECESSÁRIO SE APRESENTA O CONTROLE JURISDICIONAL PARA AFASTAR A OMISSÃO DO MUNICÍPIO REFERENTE AO SEU DEVER - PODER DE FISCALIZAR E REGULAR, SENDO QUE A REFERIDA INTERVENÇÃO E IMPOSITIVA E NÃO CONTRARIA PRINCÍPIO CONSTITUCIONAL E NEM QUEBRA A HARMONIA E INDEPENDÊNCIA DOS PODERES. (TJGO, APELAÇÃO CÍVEL 133958-6/188, Rel. DR(A). DONIZETE MARTINS DE OLIVEIRA, 3A CÂMARA CÍVEL, julgado em 07/07/2009, DJe 397 de 13/08/2009)”
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. O recorrente alega violação ao art. 2º da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a alegação de ofensa ao referido preceito constitucional, se ele ocorreu, terá se verificado por via reflexa, uma vez que seria necessário examinar, antes, a contrariedade à legislação ordinária, sendo pacífico o entendimento jurisprudencial de que a ofensa à Constituição, para ensejar o recurso extraordinário, deve ser direto e não reflexa”.
+    O recurso não deve ser provido, tendo em conta que o entendimento adotado pelo acórdão recorrido alinha-se à jurisprudência do Supremo Tribunal Federal. Com efeito, esta Corte já se manifestou no sentido de que não afronta a harmonia e independência dos poderes o controle judicial de ato administrativo se a atuação do Poder Judiciário tem por finalidade efetivar as garantias e direitos assegurados pela Constituição Federal. Nessa linha, vejam-se os seguintes julgados:
+    “DIREITO ADMINISTRATIVO. TRANSPORTE COLETIVO. GRATUIDADE PARA O IDOSO. MANDADO DE SEGURANÇA CONCEDIDO NA ORIGEM. DEVER DE FISCALIZAÇÃO E DE EXPEDIÇÃO DE NORMA PELO ESTADO. OFENSA À CONSTITUIÇÃO FEDERAL NÃO CONFIGURADA.
+    Eficácia plena e aplicabilidade imediata do art. 230, § 2º, da Constituição Federal, que assegurou a gratuidade nos transportes coletivos urbanos aos maiores de 65 anos, reconhecida em precedente desta Corte (ADI 3.768/DF, rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 26.10.2007).
+    Possibilidade de o Poder Judiciário determinar, em casos excepcionais, que o Poder Executivo adote medidas que viabilizem o exercício de direitos constitucionalmente assegurados. Ofensa ao princípio da separação de poderes não configurada. Precedentes.
+    Agravo regimental conhecido e não provido.” (AI 707.810-AgR, Rel. Min. Rosa Weber)
+    “É possível ao Poder Judiciário determinar a implementação pelo Estado, quando inadimplente, de políticas públicas constitucionalmente previstas, sem que haja ingerência em questão que envolve o poder discricionário do Poder Executivo.” (AI 734.487-AgR, Rel. Min. Ellen Gracie)
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 03 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
