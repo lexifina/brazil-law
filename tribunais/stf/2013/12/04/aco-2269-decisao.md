@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Cuida-se de conflito negativo de atribuições entre o Ministério Público do Estado do Rio de Janeiro e o Ministério Público Federal, autuado nesta Corte como ação cível originária.
+    O suscitante (Promotoria de Justiça de Tutela Coletiva de Defesa da Cidadania - MPE-RJ) encaminha os autos do procedimento ICM 86/2012 – MPRJ 2012.01163604, instaurado, a princípio, para apurar irregularidades na realização da entrega de notebooks aos alunos da rede de ensino do Município de Maricá, no âmbito do Programa “Um Computador por Aluno”, posteriormente encaminhado ao Ministério Público Federal, para apuração da regularidade do procedimento licitatório realizado, pelo Fundo Nacional de Desenvolvimento da Educação (FNDE), para aquisição dos notebooks.
+    A manifestação do MPF, em que declina da atribuição para apuração dos fatos, dá-se, em resumo, sob a seguinte fundamentação:
+    “(...), os autos originais tinham por objeto apurar ilegalidade no momento posterior à aquisição [dos notebooks], tendo por cerne a alegação de que o Prefeito de Maricá estaria utilizando a doação de notebooks como meio de garantir sua reeleição.
+    (…)
+    A ideia de analisar a forma e a regularidade do processo de aquisição dos notebook surgiu no decorrer do processo eleitoral e mesmo assim porque as autoridades desconheciam que a licitação em questão não teria sido conduzida pela Prefeitura de Maricá, que apenas realizou a adesão a ata de registros de preços feita pela Fundação Nacional de Desenvolvimento da Educação. De mais a mais, os notebooks foram adquiridos com verba do próprio ente municipal.
+    Significa que o Prefeito de Maricá não tem qualquer responsabilidade pelo processo de licitação e pelo preço declarado vencedor, e que inexiste nos autos quaisquer indícios de ilegalidade do referido certame, tornando assim desnecessário a instauração de qualquer expediente no âmbito da Procuradoria da República em Niterói”.
+    A seu turno, o suscitante, MPRJ, aponta que:
+    “Tramitado o feito no Juízo Eleitoral, restou demonstrado que a irregularidade inicialmente apontada não se provou, mas a sentença taxativamente destaca a necessidade de apurar a legalidade do processo de aquisição dos equipamentos, determinando a extração de cópias a esta Promotoria de Tutela Coletiva.
+    Diante disso, verificou-se que a licitação para aquisição dos notebooks foi realizada por adesão à Ata de Registro de Preços feita pela Fundação Nacional de Desenvolvimento da Educação (FNDE), conforme consta às fls. 05/14.
+    (…)
+    Ainda que da ementa da portaria conste tão somente a questão da investigação da forma de distribuição, que já se verificou não ter se dado de maneira (Juízo Eleitoral), hodiernamente a investigação se volta ao tema da forma de aquisição, decorrente do processo licitatório prévio, que neste caso, foi a adesão a ata de registro de preços, realizada por ente federal.
+    Os indícios de improbidade na esfera tão somente da distribuição não se dissociam da forma de aquisição e do momento em que estes foram disponibilizados. Com isso, inegável que se trata de investigar ato no qual há interesse expresso da União, pois se terá que investigar a ata de registro de preços do FNDE.”
+    É o relatório. Decido.
+    Inicialmente aponto que deixo de ouvir o suscitado por entender que não há conflito de atribuição no presente caso.
+    De fato, e como evidenciado no relato dos fatos, a investigação teve início para apuração de conduta delituosa por parte do prefeito de Maricá, que estaria se utilizando de notebooks doados no âmbito de programa de governo, para assegurar sua reeleição. Esta conduta foi objeto de apuração pelo Ministério Público do Estado do Rio de Janeiro, que concluiu (fls. 240/241), após diligências diversas, que “o objeto da questão versa única e exclusivamente sobre as eventuais irregularidades na Ata de Registro de Preços realizada pela Fundação Nacional de Desenvolvimento da Educação (FNDE)”, razão pela qual declinou de sua atribuição em favor do Ministério Público Federal.
+    Noto, desse modo, que o MPE-RJ não negou sua atribuição para apuração de ilegalidades na doação de notebooks por prefeito no Estado do Rio de Janeiro, mas entende que, no caso concreto em questão, deve ser objeto de apuração a licitação realizada para aquisição daqueles bens.
+    O MPF, por sua vez, posiciona-se no sentido de reconhecer sua atribuição para apuração de irregularidade em procedimento licitatório instaurado em âmbito federal; porém, relativamente ao caso sob análise, entende ser descabida a instauração da investigação, por ausência de indícios de ilegalidades no curso da licitação realizada pelo órgão federal (FNDE). Entende, lado outro, que o fato a ser apurado é a alegada má utilização de notebooks como meio de obtenção de reeleição pelo prefeito de Maricá, declinando, então da atribuição em favor do MPE-RJ.
+    Não vislumbro, desse modo, que haja conflito de atribuição.
+    Em verdade, o suscitante e o suscitado reconhecem as suas respectivas atribuições (e nisso não há divergência); entretanto, de igual modo, entendem, cada qual, que a apuração que se faz necessária é a que respeita à esfera de atuação do outro.
+    Ora, compete aos órgãos do parquet, no âmbito de suas respectivas atribuições, exercer o juízo valorativo acerca da existência ou não de irregularidade nos fatos sob suas apreciações, não constituindo a discordância quanto à conclusão adotada por cada um premissa suficiente à propositura de conflito negativo de atribuições, já que, em termos de definição de responsabilidades, não se vislumbra controvérsia entre os órgãos do parquet.
+    Por todo exposto, não conheço do conflito suscitado. Remetam-se os autos ao suscitante.
+    Publique-se. Intime-se.
+    Brasília, 4 de dezembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
