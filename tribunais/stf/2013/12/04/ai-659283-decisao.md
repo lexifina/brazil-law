@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, que decidiu controvérsia relativa (i) a juros remuneratórios em contrato bancário, firmado após a EC nº 40/2003, e (ii) à capitalização mensal de juros prevista no art. 5º da MP nº 2.170-36/2001.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte agravante alega violação ao art. 62 da Constituição. Pede a declaração de constitucionalidade da referida medida provisória, bem como da validade do contrato que prevê cobrança de juros acima de 12% ao ano.
+    De início, quanto à limitação dos juros remuneratórios, o recurso não deve ser provido. Com efeito, para dissentir do acórdão recorrido, seria necessário o reexame da legislação infraconstitucional pertinente (Código de Defesa do Consumidor e Decreto-Lei nº 22.626/1933), o que é vedado em recurso extraordinário. Nessa linha, vejam-se o AI 855.377, Rel.ª Min.ª Cármen Lúcia, e o RE 650.473-AgR, Rel. Min. Dias Toffoli, assim ementado:
+    “Agravo regimental no recurso extraordinário. Negativa de prestação jurisdicional. Não ocorrência. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Juros remuneratórios limitados a 12% ao ano. Norma do art. 192, § 3º, da Constituição Federal impertinente à espécie.
+    1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente fundamentada.
+    2. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República.
+    3. O acórdão recorrido não utilizou como fundamento da decisão a autoaplicabilidade do art. 192, § 3º, da Constituição Federal para limitar a taxa dos juros remuneratórios a 12% ao ano.
+    4. Agravo regimental não provido.”
+    Ademais, o Supremo Tribunal Federal já reconheceu inexistir repercussão geral da controvérsia envolvendo alteração judicial, ao patamar de 12% ao ano, de juros contratados após a Emenda Constitucional nº 40/2003, por não se tratar de matéria constitucional. Nesse sentido, veja-se a ementa do AI 804.209-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Juros. Limitação em 12% ao ano. Contratos celebrados após o advento da Emenda Constitucional n. 40/2003. Legislação Infraconstitucional. Inexistência de repercussão geral. “
+    Por outro lado, nota-se que esta Corte, ao julgar o RE 592.377-RG, sob a relatoria do Ministro Marco Aurélio, reconheceu a existência de repercussão geral da discussão acerca da constitucionalidade do art. 5º da Medida Provisória nº 2.170-36/2001, no que autorizou a capitalização de juros com periodicidade inferior a um ano.
+    Diante do exposto, dou parcial provimento ao agravo para admitir o recurso extraordinário apenas no tocante à capitalização mensal de juros, e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC. Quanto ao restante, nego seguimento ao recurso, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF.
+    Publique-se.
+          Brasília, 04 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
