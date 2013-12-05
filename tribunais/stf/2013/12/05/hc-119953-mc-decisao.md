@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de José Júnior Cordeiro dos Santos contra acórdão proferido pela Quinta do Superior Tribunal de Justiça nos autos do HC 270.282/SP. Decidiu-se, em suma, que não há ilegalidade da decisão que manteve a prisão preventiva do paciente.
+    Alega o impetrante que: (a) o paciente foi denunciado e pronunciado pela suposta prática do crime de homicídio qualificado (CP, art. 121, § 2º, I e IV); (b) a decisão que decretou a prisão preventiva carece de fundamentação idônea; (c) o paciente encontra-se preso desde agosto de 2011; (d) são favoráveis as condições pessoais do paciente. Requer, assim, o deferimento do pedido, para que seja posto em liberdade.
+    2. Em juízo de cognição sumária, constata-se que a ordem de prisão preventiva está devidamente fundamentada, de acordo com os pressupostos do art. 312 do CPP, como já assinalado pelas instâncias antecedentes. Eis, a propósito, excerto do acórdão impugnado:
+    (...)
+    Constata-se, dessa forma, que a prisão cautelar do paciente foi mantida com base em dados concretos, relativos à dinâmica delitiva e à periculosidade do paciente, considerando que este, após a prática delitiva, permaneceu foragido por quase 3 (três) anos, a demonstrar a necessidade da prisão para aplicação da lei penal (sic).
+    Verifica-se, portanto, que a prisão foi mantida com fundamento em elementos concretos dos autos. Dessarte, não se está diante de situação a revelar capacidade intuitiva, mas sim de dados que evidenciam o preenchimento dos requisitos constantes do art. 312 do Código de Processo Penal.
+    3. Por outro lado, é da jurisprudência do STF o entendimento de que o excesso de prazo, como circunstância apta a ensejar o constrangimento ilegal, somente se dá nos casos de evidente desídia do órgão julgador, ou nos que a demora seja incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da CF (v.g., entre outros, HC 108514, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 15/05/2012, DJe 21-06-2012; HC 110030, Relator(a): Min. AYRES BRITTO, Segunda Turma, julgado em 29/11/2011, DJe 21-03-2012; HC 110729, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 13/03/2012, DJe 26-03-2012). Na espécie, não se evidencia, desde logo, qualquer dessas hipóteses.
+    4. Com essas considerações, indefiro o pedido de liminar. Solicitem-se informações ao Juízo da Terceira Vara do Júri da Comarca de São Paulo/SP. Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 05 de dezembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
