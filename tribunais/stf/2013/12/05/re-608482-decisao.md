@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de petição apresentada por FELIPE AFONSO FERREIRA, que, dizendo-se parte em processo sobrestado no Superior Tribunal de Justiça que tem por base a mesma questão constitucional enfocada nestes autos, pede sua habilitação no processo, para ser intimado das decisões nele proferidas.
+    2. O requerimento é manifestamente incabível. A simples invocação de interesse no deslinde do debate constitucional travado no julgamento de casos com repercussão geral não é fundamento apto a ensejar, sem qualquer comprovação de representatividade, a habilitação automática de pessoas físicas ou jurídicas nos processos afetados como paradigmas. Fosse isso possível, ficaria inviabilizado o processamento racional desses casos, ante a proliferação de pedidos de habilitação dessa natureza. Essa é a compreensão que ficou consagrada nas seguintes decisões monocráticas: RE 566349, Minª. Cármen Lúcia, DJe de 07/06/2013; RE 590415, Min. Joaquim Barbosa, DJe de 04/10/2012; RE 591797 ED, Min. Dias Toffoli, DJe de 08/04/2011; e RE 576155, Min. Ricardo Lewandowski, DJe de 12/03/2009.
+    3. Ainda que a providência requerida fosse cabível, ela não poderia ser acolhida em concreto, uma vez que pleiteada de maneira tardia. Quando do julgamento de agravo regimental na ADI 4.071 (Rel. Min. MENEZES DIREITO, DJe de 16/10/2009), esta Corte pacificou o entendimento de que a admissão da intervenção de terceiros na qualidade de amicus curiae teria por limite a data em que o processo fosse liberado para a pauta pelo Relator. No caso, isso se deu em 15/02/2013, o que também obsta o deferimento do presente pedido de intervenção.
+    4. Ante o exposto, indefiro o pedido do requerente.
+    Publique-se. Intime-se.
+    Brasília, 5 de dezembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
