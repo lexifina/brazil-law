@@ -1,0 +1,16 @@
+Os réus, acima nominados, foram denunciados por diversos fatos que teriam sido praticados entre 1993 a 2000 na gestão da União Municipal de Estudantes Secundaristas UMES, em São Luís-MA.
+          Os presentes autos foram remetidos a esta Suprema Corte porque o o denunciado Weverton Rocha Marques de Sousa novamente assumiu o mandato de Deputado Federal.
+          O Procurador-Geral da República, nas fls. 2.919-2.921, requereu a declaração de extinção da punibilidade pela prescrição, em relação aos delitos imputados ao Deputado Federal Weverton Rocha Marques de Sousa, com a devolução dos autos à 5ª Vara Criminal da Comarca de São Luís-MA para o prosseguimento do feito em relação aos demais denunciados.
+          É o relatório.
+          Decido.
+          Inicialmente consigno que se tem admitido nesta Suprema Corte a declaração de extinção da punibilidade por decisão monocrática, quando requerida pelo Ministério Público Federal.
+          Nessa linha, cito as decisões do Min. Celso de Mello na AP 673, DJE nº 187, divulgado em 23.09.2013; Min. Roberto Barroso na AP 415, DJE nº 171, divulgado em 30.08.2013; Min. Dias Toffoli na AP 571, DJE nº 230, divulgado em 02.12.2011; Min. Teori Zavascki na AP 471, DJE nº 81, divulgado em 30.04.2013; Min. Joaquim Barbosa na AP 419, DJE nº 112, divulgado em 18.06.2010; e Min. Cármen Lúcia na AP 377, DJE nº 227, divulgado em 25.11.2010.
+          No caso concreto, verifica-se que o acusado Weverton Rocha Marques de Sousa está sendo processado porque teria praticado os crimes previstos nos arts. 168, § 1º, inciso III e art. 171, ambos do Código Penal, quando no exercício da presidência da União Municipal dos Estudantes Secundaristas – UMES, em São Luís – MA durante o período compreendido entre 28.11.1998 e 21.06.2000.
+          Nessa época, o parlamentar acusado, que nasceu em 08.10.1979, não havia ainda completado 21 (vinte e um) anos de idade, o que faz incidir a regra do art. 115, do Código Penal, a qual dispõe que “são reduzidos de metade os prazos de prescrição quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos, ou, na data da sentença, maior de 70 (setenta) anos”.
+          Tendo em vista que, desde a data do recebimento da denúncia, em 12.09.2002, até a presente data já se passaram mais de 11 (onze) anos, mesmo que o réu fosse condenado à pena máxima cominada para os crimes a ele imputados, ainda assim incide a prescrição, eis que o prazo de 16 (dezesseis) anos previsto no art. 109, II, do Código Penal deve ser computado pela metade.
+          Posto isso, nos termos do que dispõe o inciso IV do art. 107, combinado com o inciso II do art. 109 e os arts. 111 e 115, todos do Código Penal, declaro extinta a punibilidade do acusado Weverton Rocha Marques de Sousa pelos crimes dos artigos 168, § 2º, III e 171, ambos do Código Penal.
+          Tendo em vista que falece competência a este Supremo Tribunal Federal para conhecer originariamente da ação penal quanto aos demais réus, determino, após o trânsito em julgado da presente decisão, a remessa dos autos à 5ª Vara Criminal da Comarca de São Luís-MA para prosseguimento do feito.
+          Publique-se. Intimem-se.
+          Brasília, 05 de dezembro de 2013
+          Ministra Rosa Weber
+          Relatora
