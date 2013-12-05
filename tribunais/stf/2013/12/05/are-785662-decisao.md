@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. NÃO RECOLHIMENTO DAS CUSTAS: DESERÇÃO. REQUISITOS PARA CONCESSÃO DA GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE REPERCUSSÃO GERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “ADMINISTRATIVO - EXECUÇÃO FISCAL - NULIDADE DA CDA - INOCORRÊNCIA - PREENCHIMENTO DOS REQUISITOS - DESCONSTITUIÇÃO DA PRESUNÇÃO DE CERTEZA E LIQUIDEZ - ÔNUS DO EXECUTADO - IMPROCEDÊNCIA DO PEDIDO - HONORÁRIOS SUCUMBENCIAIS - DESPROVIMENTO DO RECURSO” (fl. 129, doc. 1).
+    Os embargos de declaração opostos foram rejeitados (fls. 144-152, doc. 1).
+    2. O recurso extraordinário foi inadmitido por não ter a Agravante recolhido as custas processuais:
+    “O recurso não reúne condições de prosseguir porque se apresenta deserto, haja vista que a petição recursal está desacompanhada do comprovante de pagamento das custas recursais e das despesas de remessa e retorno dos autos.
+      Cumpre registrar que, consoante orientação do Tribunal ad quem, o pagamento do preparo deve ser comprovado no ato de interposição do recurso extraordinário, não tendo o pedido de assistência judiciária formulado nesse momento processual o condão de eximir a recorrente dessa obrigação, uma vez que a eventual concessão dos benefícios pleiteados terá efeitos apenas prospectivos.
+      Destaque-se, ainda, que ‘a regra do artigo 511, § 2º, do Código de Processo Civil, que determina a intimação do recorrente para complementação do preparo, somente se aplica quando o preparo foi efetuado em valor insuficiente, sendo certo que no caso dos autos o agravante não comprova a existência de prévio recolhimento de valores’ (AI 763.834/SP, Rel. Min. Dias Toffoli, DJe de 24/11/2011).
+      Confiram-se, a propósito, os seguintes julgados:
+    ‘Correto, destarte, o entendimento expresso pela decisão agravada, no sentido de que a apresentação de pedido de justiça gratuita no momento da interposição de recurso extraordinário não isenta a parte recorrente do dever de recolher as custas do preparo, pois a eventual concessão da pretendida gratuidade judiciária apenas terá efeitos prospectivos, não a isentando do recolhimento do preparo que deveria ter ocorrido de forma concomitante à apresentação do recurso; por conseguinte, era mesmo de ser denegado seguimento ao referido apelo, porque deserto’(AgR no AI 720.404/RS, Rel. Min. Dias Toffoli, DJe de 09/04/2012)
+      (...)
+    ‘Situação diferente da ausência de preparo é a de sua insuficiência. Neste caso, a lei e a jurisprudência autorizam a concessão do prazo de cinco dias para que a parte efetue a complementação das custas recolhidas a menor’ (AI 811.185/SP, Rel. Min. Joaquim Barbosa, DJe de 1º/12/2011).
+    Nego seguimento ao recurso” (fls. 198-199, doc. 1, grifos nossos).
+    3. A Agravante afirma que o Tribunal de origem teria contrariado o art. 150, inc. VI, da Constituição da República.
+    Sustenta ser necessária “a modificação da r. decisão que deixou de acolher o pedido de assistência judiciária gratuita, vez que a Agravante não possui condições de arcar com tais custas, mas almeja exercer o seu direito de defesa” (fl. 218, doc. 1).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Este Supremo Tribunal assentou que a comprovação do preparo deve ser realizada no momento da interposição do recurso extraordinário, nos termos da exigência prevista no art. 59 do Regimento Interno do Supremo Tribunal Federal e no art. 511, caput, do Código de Processo Civil.
+    Cabia à Agravante comprovar o preparo do recurso extraordinário ou demonstrar ser beneficiária da assistência judiciária gratuita no momento da interposição do recurso, pois eventual “deferimento do benefício da gratuidade da justiça só produz efeitos futuros, assim, julgado deserto o recurso, de nada adiantaria a concessão posterior do benefício” (AI 744.487-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 16.10.2009).
+    Confiram-se:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. PORTE DE REMESSA E RETORNO DOS AUTOS. AUSÊNCIA DE PAGAMENTO. DESERÇÃO. I - O recorrente deve comprovar o pagamento do preparo no momento da interposição do recurso. Precedentes. II - Intimado a regularizar o preparo, o agravante não o fez no prazo fixado, o que resultou na deserção do recurso. III - Agravo regimental improvido” (AI 642.626-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJ 22.6.2007).
+    “Embargos de declaração. - A falta de preparo no prazo implica a deserção do recurso extraordinário, matéria essa que é de ordem pública, porquanto com a deserção do recurso se da o trânsito em julgado da decisão recorrida, razão por que, ainda quando não alegada, deve ela ser decretada de oficio por esta Corte, quando do julgamento do recurso extraordinário. - Procedência da alegação de que o acórdão embargado foi omisso ao deixar de declarar, de ofício, a deserção do recurso extraordinário. Embargos declaratórios que são recebidos, para, reformando-se o acórdão a fls. 198/199, julgar-se deserto, por falta de preparo, o recurso extraordinário interposto pela ora embargada” (RE 169.347-ED, Relator o Ministro Moreira Alves, Primeira Turma, DJ 19.4.1996).
+    7. Ademais, no julgamento do Recurso Extraordinário n. 589.490, Relator o Ministro Menezes Direito, este Supremo Tribunal assentou a inexistência de repercussão geral da questão discutida neste processo:
+    “PROCESSUAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOAS JURÍDICAS. REQUISITOS PARA CONCESSÃO DO BENEFÍCIO. AUSÊNCIA DE REPERCUSSÃO GERAL” (DJe 26.9.2008).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e os agravos que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de dezembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
