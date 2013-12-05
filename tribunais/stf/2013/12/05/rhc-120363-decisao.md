@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão da Presidência do Tribunal Superior Eleitoral que, nos autos do Recurso em Habeas Corpus n. 744-75.2011.6.19.0000, negou seguimento a recurso ordinário.
+    A agravante invoca a aplicação do princípio da fungibilidade, de modo que seja a decisão agravada reconsiderada e o recurso ordinário recebido como extraordinário. (fl. 129 - 133)
+    Decido.
+    O agravo de instrumento é manifestamente incabível.
+    Com efeito, a decisão da Presidência do TSE corretamente atestou que “o art. 102, inc. II, alínea ‘a’ da Constituição da República dispõe que o recurso ordinário deve ser interposto apenas contra decisão denegatória em mandado de segurança, habeas corpus, mandado de injunção e habeas data, quando decididos em única instância pelos Tribunais Superiores”. (fl. 125)
+    Nesse sentido, constitui erro grosseiro a interposição de recurso ordinário contra decisão proferida já em sede de recurso ordinário. Por consequência, tampouco cabe agravo contra sua respectiva inadmissibilidade.
+    Na espécie, tratando-se de erro grosseiro, é inaplicável o princípio da fungibilidade recursal, consoante reiterada jurisprudência desta Corte. A propósito, cito os seguintes precedentes: AI 504598 AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 17.12.2004 e RMS 32273 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, Dje 27.9.2013, assim ementados:
+    “RECURSO - PRINCÍPIO DA FUNGIBILIDADE. O princípio da fungibilidade consta implicitamente do Código de Processo Civil - artigo 250 - e expressamente do Código de Processo Penal - artigo 579. Descabe empolgá-lo quando o caso é de erro grosseiro, e isso ocorre em se tratando de decisão do Tribunal Superior Eleitoral prolatada em agravo interposto contra pronunciamento do relator que implicou negativa de seqüência a recurso especial. Na hipótese, em vez de ser protocolado o extraordinário, foi apresentado o recurso ordinário previsto no artigo 102, inciso II, da Constituição Federal e na parte final do artigo 281 do Código Eleitoral em relação às decisões denegatórias de ordem em habeas corpus ou mandado de segurança. PRESCRIÇÃO - PRETENSÃO PUNITIVA - EXAME. O exame da prescrição da pretensão punitiva há de se fazer a partir de elementos próprios revelados no processo a que responde o acusado, e não em autos formados, objetivando o processamento de extraordinário. “
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Interposição de recurso ordinário contra decisão monocrática que indefere a inicial do mandado de segurança. Ausência de esgotamento da via originária. Cabimento de agravo regimental. Erro grosseiro. Inaplicabilidade do princípio da fungibilidade. 2. Agravo regimental ao qual se nega provimento.”
+    Além disso, ressalte-se que a petição de recurso ordinário não preenche os mínimos requisitos de admissibilidade pertinentes ao recurso extraordinário, razão pela qual tampouco ampararia a recorrente a pedida fungibilidade recursal.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, RI-STF).
+    Publique-se. Int..
+    Brasília, 5 de dezembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
