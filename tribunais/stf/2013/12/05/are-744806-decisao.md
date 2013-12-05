@@ -1,0 +1,18 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Turma Julgadora da Sexta Câmara Cível do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. CONCURSO PÚBLICO. SENTENÇA CITRA PETITA. INOCORRÊNCIA. NULIDADE DO CERTAME. IMPOSSIBILIDADE. MANUTENÇÃO DA SENTENÇA. I– Não se mostra citra petita a sentença que aprecia todos os pedidos formulados, tecendo toda a fundamentação pertinente à matéria posta em apreço. II- Não demonstrada a fundada alegação de nulidade do certame, que extrapola os limites da discricionariedade administrativa, o Poder Judiciário não poderá adentrar no mérito e anular o concurso, sem que isso infrinja a tripartição harmônica e independente dos poderes. APELAÇÃO COHECIDA E DESPROVIDA”.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do artigo 2º, caput, da Constituição Federal.
+    Opina o Ministério Público Federal, no parece de folhas 406 a 409, pelo desprovimento do agravo.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, uma vez que o acolhimento da pretensão recursal para ultrapassar o entendimento do Tribunal de origem acerca da ausência de comprovação das alegadas nulidades no concurso público realizado pelo município de Santa Cruz de Goiás demandaria, induvidosamente, o reexame do conjunto fático-probatório dos autos, o se que mostra incabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Nesse sentido, mencione-se o seguinte julgado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXIGÊNCIA EDITALÍCIA. NÃO ATENDIMENTO. ANÁLISE DE CONJUNTO FÁTICO-PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULAS EDITALÍCIAS. SÚMULAS 279 E 454 DO SFT. AGRAVO IMPROVIDO. I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos e a interpretação de cláusulas editalícias. Súmulas 279 e 454 do STF. Precedentes. II – A alegada inconstitucionalidade da regra de edital que exige experiência profissional sem prévia previsão legal traduz inovação recursal, posto que a alegada afronta à Constituição não foi mencionada nas razões do apelo extremo. III - Agravo regimental improvido” (AI nº 807362/RN-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1/2/11).
+    Mencionem-se, ainda, as seguintes decisões monocráticas: AI nº 836.822/SE, Relator o Ministro Luiz Fux, DJe de 2/8/11; e AI nº 825.037/RJ, Relatora a Ministra Ellen Gracie, DJe de 21/10/11.
+    Pelo exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 5 de dezembro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
