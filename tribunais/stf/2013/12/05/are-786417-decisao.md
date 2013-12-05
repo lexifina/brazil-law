@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. MINUTOS QUE ANTECEDEM À JORNADA DE TRABALHO. TROCA DE UNIFORME. APLICAÇÃO DA SÚMULA N. 366 DO TST. ‘Não serão descontadas nem computadas como jornada extraordinária as variações de horário do registro de ponto não excedentes de cinco minutos, observado o limite máximo de dez minutos diários. Se ultrapassado esse limite, será considerada como extra a totalidade do tempo que exceder a jornada normal’. Hipótese em que a decisão regional encontra-se em consonância com a Súmula n.º 366 desta Corte. Agravo de Instrumento conhecido e desprovido”. (eDOC. 10, p. 1)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, II e LIV; e 7º, XIII e XXVI, do texto constitucional.
+    Nas razões recursais, sustenta-se ofensa aos princípios da legalidade, do devido processo legal e da flexibilização do direito do trabalho (eDOC 16, p. 9).
+    Argumenta-se que o acórdão impugnado, ao manter a condenação ao pagamento das horas extraordinárias referentes aos minutos que antecederam a jornada de trabalho, condenou a parte agravante em obrigação não prevista em lei (eDOC 16, p. 17).
+    Alega-se ainda que o TST negou vigência ao art. 7º, inciso XXVI, da CF/88, ao não reconhecer a validade do acordo coletivo firmado entre a parte recorrente e o sindicato dos trabalhadores.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Isso porque o acórdão recorrido decidiu a controvérsia relativa ao pagamento das horas extras, com base no acervo fático-probatório dos autos, na legislação infraconstitucional aplicável ao caso (CLT) e no acordo coletivo ajustado entre as partes. Incide, na espécie, os Enunciados 279 e 454 da Súmula do Supremo Tribunal Federal.
+    Nesse sentido, cito o ARE-AgR 695.926, Rel. Min. Dias Toffoli, DJe 18.2.2013, cuja ementa dispõe:
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Trabalho. Horas extras. Prequestionamento. Ausência. Ofensa reflexa. Reexame de provas e de cláusulas contratuais. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível, em recurso extraordinário, o reexame de fatos e provas dos autos e a interpretação de cláusulas contratuais. Incidência das Súmulas nºs 279 e 454/STF. 4. Agravo regimental não provido”.
+    Ressalto ainda que esta Corte entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Enunciado 636 da Súmula do STF).
+    Por fim, no tocante à suposta violação ao devido processo legal, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução da controvérsia depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 5 de dezembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
