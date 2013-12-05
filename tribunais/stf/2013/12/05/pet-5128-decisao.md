@@ -1,0 +1,52 @@
+DECISÃO: O ora requerente interpôs recurso ordinário (fls. 1.048/1.063) contra decisão que, emanada do E. Tribunal Superior Eleitoral, está assim ementada (fls. 974/975):
+    “AGRAVO REGIMENTAL. RECURSO ESPECIAL. ELEIÇÕES 2012. REGISTRO DE CANDIDATURA. PREFEITO. REJEIÇÃO DE CONTAS PÚBLICAS. PARECER PRÉVIO. TCM. JULGAMENTO. CÂMARA MUNICIPAL. OBRIGATORIEDADE. ÓRGÃO COMPETENTE. CONTAS DE CONVÊNIO. TCU. RECURSO DE RECONSIDERAÇÃO. OPOSIÇÃO DE EMBARGOS. EFEITO SUSPENSIVO. NOME DO CANDIDATO. INCLUSÃO INDEVIDA. RELAÇÃO DE RESPONSÁVEIS POR CONTAS IRREGULARES. INELEGIBILIDADE AFASTADA. DEFERIMENTO DO REGISTRO. MANUTENÇÃO. DESPROVIMENTO.
+    1. A despeito da ressalva final contida na alínea ‘g’ do inciso I do art. 1º da LC nº 64/90, alterada pela LC nº 135/10, é da competência da Câmara Municipal o julgamento das contas de prefeito que atue na qualidade de gestor ou ordenador de despesas. Precedentes. Ressalva de entendimento do relator.
+    2. Segundo a jurisprudência do TSE, não há falar em rejeição de contas de prefeito em decorrência do decurso de prazo conferido à Câmara Municipal para julgar o parecer prévio emitido pelo Tribunal de Contas. Ressalva de entendimento do relator.
+    3. Os embargos opostos em sede de recurso de reconsideração são dotados de efeito suspensivo, nos termos do art. 34, § 2º, da Lei nº 8.443/92, o que afasta o caráter de definitividade do julgado que rejeita as contas e, por consequência, a inelegibilidade prevista no art. 1º, Inciso I, alínea ‘g’, da LC 64/90. Precedentes.
+    4. Agravo regimental desprovido.”
+    (REspe 44-74.2012.6.09.0087-ED-AgR/GO, Rel. Min. DIAS TOFFOLI – grifei)
+    A eminente Senhora Presidente daquele Tribunal, Ministra CÁRMEN LÚCIA, ao efetuar o controle prévio de admissibilidade do recurso em questão, negou-lhe trânsito com apoio nos seguintes fundamentos (fls. 1.074):
+    “O presente recurso ordinário não pode ser admitido.
+    O artigo 102, inc. II, alínea ‘a’, da Constituição da República dispõe que o recurso ordinário deve ser interposto apenas contra decisão denegatória em mandado de segurança, ‘habeas corpus’, mandado de injunção e ‘habeas data’, quando decididos em única instância pelos Tribunais Superiores.
+    Na espécie, o recurso ordinário foi interposto contra decisão deste Tribunal que negou provimento a agravo regimental em recurso especial eleitoral que manteve a improcedência da impugnação ao registro de candidatura do Recorrido.
+    Diverge, pois, do dispositivo constitucional que admite a interposição de recurso ordinário, sendo incabível para impugnar o acórdão proferido nestes autos.
+    A jurisprudência do Supremo Tribunal Federal considera erro grosseiro a interposição de recurso ordinário quando o recurso cabível é o extraordinário, o que impossibilita a aplicação do princípio da fungibilidade.
+    …...................................................................................................
+    Pelo exposto, inadmito o recurso.” (grifei)
+    A parte requerente, inconformada com esse ato decisório, deduziu “agravo de instrumento” dirigido a esta Suprema Corte, no qual alega, em síntese, o que se segue (fls. 1.078/1.080):
+    “Observa-se dos autos, que o embasamento legal para a interposição do Recurso ao Supremo Tribunal Federal, acompanhou a nomenclatura estabelecida no Código Eleitoral, no artigo 280 e seguintes, bem nítido do preâmbulo da peça recursal.
+    O Tribunal Superior Eleitoral, mantem em seu site, uma área destinada a legislação, e nela, encontra-se o Código Eleitoral em dois formatos, uma versão denominada ‘PDF’ já em sua 10º Edição, com o seguinte esclarecimento: ‘Disponibilizada em 30.7.2012, em substituição ao arquivo divulgado no dia 21.4.2012, em virtude de modificações materiais’, e uma versão eletrônica, de idêntica forma como o seguinte esclarecimento: ‘Prevista para ser a mais completa do Código Eleitoral, esta versão passa por atualizações regularmente’.
+    Em ambas o artigo 280 e seguintes que tratam do Recurso a ser apreciado pelo Supremo Tribunal Federal, apresentam, ainda a seguinte redação:
+    Todos os demais Códigos ou Legislação que relatam a existência de Recursos para o Excelso Pretório mencionam a redação já nos termos constitucionais, bem como, a forma processual.
+    Contudo, o Código Eleitoral, ainda mantêm a redação com a nomenclatura de Recurso Ordinário, bem como, estabelece a forma procedimental e os prazos estabelecidos.
+    A redação no formato pdf, é:
+    ‘Art. 281. São irrecorríveis as decisões do Tribunal Superior, salvo as que declararem a invalidade de lei ou ato contrário à Constituição Federal e as denegatórias de ‘habeas corpus’ ou mandado de segurança, das quais caberá recurso ordinário para o Supremo Tribunal Federal, interposto no prazo de 3 (três) dias’.
+    A redação na versão eletrônica, reza, que:
+    ‘Art. 281. São irrecorríveis as decisões do Tribunal Superior, salvo as que declararem a invalidade de lei ou ato contrário à Constituição Federal e as denegatórias de habeas corpus ou mandado de segurança, das quais caberá recurso ordinário para o Supremo Tribunal Federal, interposto no prazo de 3 (três) dias’.
+    Portanto, idênticas.
+    Desta forma não se trata de erro grosseiro, mais de posição de exegese, induzindo à dúvida entre a nomenclatura do recurso.
+    Ora, a petição recursal não apresentasse qualquer nomenclatura, a mesma teria seguimento normal.
+    Assim, o recurso independente de sua nomenclatura, seguiu os ditames do Código Eleitoral, foi apresentado tempestivamente, e apresenta todos os requisitos necessários ao recebimento, processamento, conhecimento e provimento.
+    Presente nos autos a dúvida objetiva.
+    Devendo, assim, o recurso ser recebido independente de sua nomenclatura em homenagem ao princípio da fungibilidade recursal, sendo irrelevante o nome dado ao Recurso, tendo sido observado o prazo e os demais requisitos de admissibilidade recursal.
+    O erro grosseiro contraria previsão expressa em lei, no presente caso, a nomenclatura, a previsão legal e a forma procedimental, estão estampados no Código de Eleitoral, e ocorreu alguma mudança, a mesma somente ser resumiu na nomenclatura, estando plenamente em vigor a forma recursal preconizada nos artigos 280 e seguintes do Código Eleitoral. (…).”
+    Cabe examinar, preliminarmente, se se mostra adequado, em face do princípio da tipicidade recursal, o “recurso ordinário”, cujo fundamento – expressamente invocado pelo ora requerente – apoia-se no art. 102, II, “a”, da Constituição.
+    Entendo que o recurso ordinário em questão é insuscetível de conhecimento, eis que, em situação como a que se registra neste processo, a parte ora requerente valeu-se de recurso inadmissível.
+    Com efeito, tal recurso, para o Supremo Tribunal Federal, somente  tem pertinência quando interposto contra decisão denegatória de “habeas corpus”, mandado de segurança, “habeas data” e mandado de injunção proferida, “em única instância, pelos Tribunais Superiores...” (CF, art. 102, II, “a”), o que não se verifica na espécie ora em exame.
+    Isso significa que não se revela cabível o “recurso ordinário” que a parte requerente deduziu contra a decisão proferida pelo E. Tribunal Superior Eleitoral em sede de recurso especial.
+    Impende assinalar, no ponto, que o exame do sistema recursal prevalecente no âmbito do Supremo Tribunal Federal evidencia que o recurso pertinente no caso (e, portanto, cabível) seria o “apelo extremo” (RISTF, art. 321; e CF, art. 121, § 3º), e não o recurso ordinário a que alude o art. 310 do RISTF.
+    Vê-se, daí, considerado o princípio da tipicidade recursal, que não se mostra suscetível de conhecimento o recurso em questão (o recurso ordinário em recurso especial), que foi erroneamente interposto, no caso, em indevida substituição à espécie recursal legalmente adequada (o recurso extraordinário), como resulta claro de explícita disposição normativa constante do ordenamento positivo (Lei nº 8.038/90, art. 26; RISTF, art. 321).
+    Na realidade, o requerente, ao interpor recurso evidentemente incabível, incidiu em erro grosseiro, circunstância esta que sequer permite a útil invocação do princípio da fungibilidade recursal (RTJ 132/1374, Rel. Min. CELSO DE MELLO – Pet 2.223-QO/MA, Rel. Min. ILMAR GALVÃO – Pet 2.285/SP, Rel. Min. CELSO DE MELLO – Pet 3.324/DF, Rel. Min. NELSON JOBIM – Pet 3.824/SP, Rel. Min. MARCO AURÉLIO – RE 96.393/PI, Rel. Min. FRANCISCO REZEK).
+    A jurisprudência do Supremo Tribunal Federal, bem por isso, tem negado aplicabilidade ao postulado da fungibilidade recursal, sempre que a errônea interposição de um recurso por outro – tal como ocorre no caso – revelar desconhecimento inescusável, por parte do recorrente, quanto à existência de norma legal expressa, indicativa da espécie recursal cabível e adequada (RTJ 105/792 – RTJ 105/1275 – RTJ 120/458 – RTJ 132/194 – RTJ 142/472):
+    “Não se deve aplicar o princípio da fungibilidade recursal (artigo 579 e parágrafo do CPP), quando evidenciado erro grosseiro na substituição de um recurso por outro.
+    ‘Habeas corpus’ indeferido.”
+    (HC 72.039/ES, Rel. Min. FRANCISCO REZEK – grifei)
+    Vale registrar, finalmente, que a colenda Primeira Turma do Supremo Tribunal Federal, ao apreciar questão processual similar à que ora se examina nestes autos, firmou orientação jurisprudencial que conduz à incognoscibilidade da postulação deduzida na presente petição:
+    “RECURSO – PRINCÍPIO DA FUNGIBILIDADE. O princípio da fungibilidade consta implicitamente do Código de Processo Civil – artigo 250 – e expressamente do Código de Processo Penal – artigo 579. Descabe empolgá-lo quando o caso é de erro grosseiro, e isso ocorre em se tratando de decisão do Tribunal Superior Eleitoral prolatada em agravo interposto contra pronunciamento do relator que implicou negativa de sequência a recurso especial. Na hipótese, em vez de ser protocolado o extraordinário, foi apresentado o recurso ordinário previsto no artigo 102, inciso II, da Constituição Federal e na parte final do artigo 281 do Código Eleitoral em relação às  decisões denegatórias de ordem em ‘habeas corpus’ ou mandado de segurança.
+    (AI 504.598-AgR/SP, Rel. Min. MARCO AURÉLIO – grifei)
+    Sendo assim, em face das razões expostas e por considerar inaplicável, ao caso, o princípio da fungibilidade recursal, não conheço do “agravo de instrumento” em referência.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 05 de dezembro de 2013.
+Ministro CELSO DE MELLO
+Relator
