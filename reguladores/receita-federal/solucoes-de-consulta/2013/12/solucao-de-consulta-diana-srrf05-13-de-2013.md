@@ -1,0 +1,6 @@
+Solução de Consulta Diana/SRRF05 nº 13, de 5 de dezembro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 8504.40.10. Mercadoria: Carregador de acumulador para alimentação de energia dos circuitos eletrônicos e carga da bateria interna de um computador portátil (notebook), denominado comercialmente como “carregador e adaptador de corrente para Notebook”. Fabricante: COMTAC BAHIA. Dispositivos Legais: RGI nº 1 (texto da posição 8504) e nº 6 (texto da subposição 8504.40) e RGC nº 1 (texto do item e subitem 8504.40.10) da TEC (Tarifa Externa Comum do Mercosul), atualizada até a Resolução CAMEX nº 01, de 17/01/2013, e da TIPI, aprovada pelo Decreto nº 7.660, de 26 de dezembro de 2011.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 8504.40.10.
+Mercadoria: Carregador de acumulador para alimentação de energia dos circuitos eletrônicos e carga da bateria interna de um computador portátil (notebook), denominado comercialmente como “carregador e adaptador de corrente para Notebook”. Fabricante: COMTAC BAHIA.
+Dispositivos Legais: RGI nº 1 (texto da posição 8504) e nº 6 (texto da subposição 8504.40) e RGC nº 1 (texto do item e subitem 8504.40.10) da TEC (Tarifa Externa Comum do Mercosul), atualizada até a Resolução CAMEX nº 01, de 17/01/2013, e da TIPI, aprovada pelo Decreto nº 7.660, de 26 de dezembro de 2011.
