@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CONSUMIDOR. MULTA ADMINISTRATIVA APLICADA PELO PROCON. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado do Tribunal de Justiça de Santa Catarina:
+    “ADMINISTRATIVO. ANULAÇÃO DE MULTA APLICADA PELO PROCON. CONTROVÉRSIA RESOLVIDA ENTRE O CONSUMIDOR E O FORNECEDOR. FATO EXTINTIVO DA RECLAMAÇÃO ADMINISTRATIVA. MULTA DESCABIDA. RECURSO PROVIDO.
+    (...)
+    Havendo rápida solução administrativa da controvérsia entre o consumidor e o fornecedor, não há razão, salvo circunstâncias excepcionais, para ulterior aplicação de multa por parte do PROCON.
+    Ora, se a própria consumidora restou satisfeita com o desfecho dado, tendo sido integralmente acolhida a sua solicitação, colocando fim à controvérsia, não há razoabilidade na manutenção da multa, que estaria sendo aplicada por fato já solucionado. Sua manutenção somente se justificaria se a conduta do prestador de serviços fosse excepcionalmente grave ou representasse um procedimento infracional recorrente, o que, no entanto, não é o caso.
+    Por estas razões, dou provimento ao recurso para, reformando a sentença, julgar procedente o pedido, com a consequente declaração de nulidade do Auto de Infração n. 637/06, expedido pelo Procon de Balneário Camboriú.”
+    2. O Agravante alega que o Tribunal a quo teria contrariado os arts. 2º, e 5º, inc. II, da Constituição da República.
+    Argumenta que “a decisão nesta oportunidade atacada, ao concluir pela anulação da multa aplicada pelo PROCON, visto que a controvérsia foi resolvida entre consumidor e fornecedor, contrariou matéria constitucional mais precisamente os princípios de independência e harmonia dos Poderes, o da legalidade e do razoabilidade.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório e a análise da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor). A alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONDUTA ABUSIVA. IMPOSIÇÃO DE MULTA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 756.730-AgR, de minha relatoria, Primeira Turma, DJe 14.8.2012, grifos nossos).
+    “Agravo regimental em agravo de instrumento. 2. Direito Administrativo. 3. Alegação de negativa de prestação jurisdicional. Decisão fundamentada, apesar de contrária aos interesses da parte. AI-QO-RG 791.292. 4. Aplicação de multa. PROCON. Necessidade de rever a interpretação conferida na origem à legislação infraconstitucional e de proceder ao reexame do conjunto fático-probatório. Impossibilidade. Incidência dos enunciados 279, 280 e 636 da Súmula desta Corte. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (AI 786.646-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 17.9.2012, grifos nossos).
+    6. Este Supremo Tribunal assentou, ainda, que as alegações de contrariedade aos princípios da legalidade, do contraditório e da ampla defesa, quando dependentes de exame de legislação infraconstitucional (Código de Defesa do Consumidor), podem configurar apenas ofensa constitucional indireta:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de dezembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
