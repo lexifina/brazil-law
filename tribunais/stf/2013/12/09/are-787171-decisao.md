@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que, em apelação cível, decidiu relação jurídica acerca da legalidade (ou não) da cobrança de tarifa de cadastro, registro de contrato e pagamentos autorizados, em razão da celebração de contrato do Código de Defesa do Consumidor para aquisição de veículo automotor.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos artigos 21, VIII; 22, VII; e 192 da Constituição Federal, asseverando, em suma, que “há nítida previsão constitucional de que o Conselho Monetário Nacional é legítimo para atos normativos inerentes à atividade bancária.” (fl. 7 do recurso extraordinário).
+    2. Não pode ser conhecido o recurso extraordinário quanto à alegada ofensa aos arts. 21, VIII; 22, VII; e 192 da Constituição Federal. Isto porque, (I) não há, na fundamentação do recurso, a indicação adequada da questão constitucional controvertida, tendo deixado a recorrente de informar de que modo a Constituição foi violada; e (II) em momento algum o acórdão recorrido discutiu a questão da legitimidade do Conselho Monetário Nacional para regulamentar o Sistema Financeiro Nacional. O Tribunal a quo limitou-se a discutir a legitimidade das cobranças tarifárias supostamente não previstas em contrato. Desse modo, por apresentar razões recursais logicamente dissociadas do julgado recorrido e pela ausência de indicação adequada da questão constitucional controvertida, incide, na espécie, o óbice da Súmula 284 do STF.
+    3. Ademais, não houve emissão, pelo acórdão recorrido, de juízo acerca dos dispositivos supostamente violados, tampouco a questão foi suscitada no momento oportuno, em sede dos embargos de declaração, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido, incidindo o óbice das súmulas 282 e 356 do STF.
+    4. Por fim, a fundamentação recursal notoriamente não abarca todos os aspectos do acórdão, impondo-se ao conhecimento do recurso o óbice da Súmula 283/STF, haja vista que o acórdão se baseou em dispositivos infraconstitucionais, e o recorrente sequer interpôs Recurso Especial.
+    5. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 09 de dezembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
