@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Ministério Público do Estado de Minas Gerais. Aparelhado o recurso na afronta ao art. 129, III, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Registrado pela Corte de origem: “A poluição sonora, como dano ao meio ambiente, haveria, pois, de ser aquela que atingiria a uma massa indefinida de indivíduos, das mais variadas situações, sem um vínculo jurídico ou fático preciso. Na espécie, sequer há prova de que o barulho esteja incomodando outros habitantes daquela região. Identifica-se, aqui, um desvio no que diz respeito às finalidades da ação civil pública, delimitadas pelas leis nº 7347/85 e nº 8.078/90” (fls. 62-6). A suposta ofensa ao preceito constitucional indicado nas razões recursais somente poderia ser constatada a partir da análise da legislação infraconstitucional aplicável à espécie e do revolvimento do quadro fático delineado, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido: RE 609.727-AgR/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 25.9.2012; e AI 856.568-AgR/MG, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 04.10.2012, verbis:
+    “Agravo regimental no recurso extraordinário. Negativa de prestação jurisdicional. Não ocorrência. Princípio do devido processo legal. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido.”
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DANO AMBIENTAL. AÇÃO CIVIL PÚBLICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO“.
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 09 de dezembro de 2013.
+Ministra Rosa Weber
+Relatora
