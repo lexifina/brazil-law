@@ -1,0 +1,16 @@
+DECISÃO:
+    Após detida análise dos autos, observo que o recurso extraordinário sustentou a autoaplicabilidade do art. 37, XI, da Constituição Federal, para afastar o entendimento do acórdão recorrido de que seria necessária a observância do devido processo legal para supressão de vantagens dos proventos do ora agravado. Desse modo, é de ser afastada a incidência da Súmula 284/STF, com a reconsideração da decisão de fls. 269/270.
+    Passo à analise do recurso extraordinário.
+    Trata-se de processo em que se discute a possibilidade de supressão de vantagem pessoal com o objetivo de adequar remuneração/proventos aos limites impostos pelo texto constitucional.
+    Na hipótese, o Governador do Estado do Amazonas, com base no Decreto estadual n° 24.022/2004, que reproduziu os limites fixados pela Constituição, suprimiu dos proventos do ora agravado a vantagem denominada Prêmio Anual de Produtividade, sob o fundamento de que a percepção do mencionado benefício estava ultrapassando o teto constitucional fixado pelo art. 37, XI, da Constituição.
+    De início, cumpre registrar que o art. 37, XI, da Constituição, com redação dada pela Emenda Constitucional nº 41/2003, é norma autoaplicável. Nesse sentido já se pronunciou o Supremo Tribunal Federal no RE 372.369-AgR, julgado sob a relatoria do Ministro Gilmar Mendes.
+    Assim sendo, é possível que ato normativo diverso de lei, no caso o Decreto estadual nº 24.022/2004, estabeleça o teto salarial dos servidores públicos locais, desde que a norma apenas reproduza fielmente os limites fixados pelo art. 37, XI, da Constituição, com redação dada pela Emenda Constituição nº 41/2003. Veja-se trecho de decisão proferida pela Ministra Cármen Lúcia, no RE 594.574, exatamente sobre a questão ora em análise, julgando válido o mencionado decreto:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a estipulação de teto remuneratório por meio de decreto do Poder Executivo fere a garantia constitucional da reserva de lei, prevista no art. 37, inc. X, da Constituição da República (RE 339.342-AgR, Rel. Min. Carlos Velloso, Segunda Turma, DJ 24.2.2006).
+    No presente recurso extraordinário, a controvérsia é distinta, pois o Decreto não estabeleceu teto local de remuneração, mas tão-somente determinou a aplicação do art. 37, inc. XI, da Constituição da República aos servidores da Administração”.
+    No entanto, o argumento exposto quanto à aplicabilidade do art. 37 não é suficiente para alcançar o deslinde da controvérsia diante da matéria de fundo envolvida. Isso porque o Supremo Tribunal Federal reconheceu a repercussão geral alusiva à aplicação do limite remuneratório de que trata a Emenda Constitucional nº 41/2003 no RE 609.381-RG, Relator originário Ministro Ayres Britto, ainda pendente do julgamento de mérito. Assim, prudente é aguardar o posicionamento desta Corte sobre a questão.
+    Diante do exposto, reconsidero a decisão agravada de fls. 269/270 e, com base no art. 21, I, do RI/STF, determino o sobrestamento do presente recurso até que seja concluído o julgamento do RE 609.381-RG.
+    Aguarde-se o julgamento na Secretaria.
+    Publique-se.
+          Brasília, 09 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
