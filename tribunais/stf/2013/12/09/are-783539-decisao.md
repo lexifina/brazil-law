@@ -1,0 +1,20 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER PROPOSTA POR SERVIDOR ATIVO, EM FACE DO PRODERJ, OBJETIVANDO A MAJORAÇÃO DO VALOR RECEBIDO A TÍTULO DE GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DO RÉU, ALEGANDO, EM PRELIMINAR, OCORRÊNCIA DA PRESCRIÇÃO DE FUNDO DO DIREITO. INOCORRÊNCIA, ENTRETANTO, UMA VEZ QUE A PRETENSÃO DO RECORRIDO DE RECEBER A GRATIFICAÇÃO DE ENCARGOS ESPECIAIS SE RENOVA A CADA VEZ QUE DEIXA DE RECEBÊ-LA, O QUE CONFIGURA UMA OBRIGAÇÃO DE TRATO SUCESSIVO, CUJA PRESCRIÇÃO NÃO ALCANÇA O FUNDO DO DIREITO, POR NÃO TER HAVIDO NEGATIVA EXPRESSA DA ADMINISTRAÇÃO, NOS TERMOS DA SÚMULA N° 85 DO STJ. PRESCRIÇÃO DAS PRESTAÇÕES QUE SE VENCERAM ANTES DOS 05 (CINCO) ANOS DO AJUIZAMENTO DA AÇÃO. RECURSO DESPROVIDO, NA FORMA DO ARTIGO 557, CAPUT, DO CPC.”
+    2. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 281 do Supremo Tribunal Federal.
+    3. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 18, 37, inc. X, e 40, § 8º, da Constituição da República.
+    Sustenta não se tratar “de ‘ofensa reflexa’ a dispositivo constitucional, pois não se está alegando ofensa a lei infraconstitucional, mas ofensa ao princípio constitucional da legalidade em razão da inexistência de lei infraconstitucional.”
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. O recurso extraordinário interposto contra essa decisão foi inadmitido com base na Súmula n. 281 deste Supremo Tribunal, ao fundamento de que “contra a r. decisão monocrática de fls. 146/149 foram opostos pelo ora recorrente embargos de declaração, que foram rejeitados pelo órgão colegiado, cf. se verifica a fls. 155/157. Competiria, pois, ao recorrente a interposição do agravo de que trata o § 1°, do artigo 557, do Código de Processo Civil, para efeito de esgotamento da instância ordinária.”
+    Nas razões do agravo, o Agravante defende ser a matéria de natureza constitucional. Assim, não impugnou o fundamento da decisão agravada (Súmula n. 281 deste Supremo Tribunal) nem demonstrou, de forma específica e objetiva, os motivos pelos quais ele deveria ser superado. Incide na espécie a Súmula n. 287 do Supremo Tribunal Federal:
+    “AGRAVO - OBJETO. Visando o agravo a fulminar a decisão que se ataca, as razões devem estar direcionadas de modo a infirmá-la. O silêncio em torno dos fundamentos consignados é de molde, por si só, a levar à manutenção do que assentado. Frente ao descompasso entre a decisão impugnada e as razões do agravo, este transparece como sendo meramente protelatório. AGRAVO - CARÁTER INFUNDADO - MULTA. Surgindo do exame do agravo a convicção sobre o caráter manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil” (AI 567.171-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJ 27.10.2006).
+    “Agravo regimental em recurso extraordinário. 2. Razões do agravo regimental não atacam os fundamentos da decisão agravada. Aplicação da Súmula 287. Precedentes. 3. Atraso no pagamento de precatório. Fixação de multa contra a Fazenda Pública. Discussão de índole infraconstitucional. RE-RG 608.852, rel. Min. Ellen Gracie, DJe 4.6.2010. 4. Agravo regimental a que se nega provimento” (RE 584.485-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 12.4.2013).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de dezembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
