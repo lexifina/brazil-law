@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 455):
+    “Apelação Cível. Responsabilidade Civil. Dentista. Cirurgia de emergência para tratamento de abcesso periodontal. Alegação de erro nesse procedimento, que teria ocasionado uma recessão gengival. Laudo da expert do juízo que concluiu inexistir culpa e nexo de causalidade entre a conduta do apelante e a recessão; que a técnica odontológica foi a correta para o caso; e, que, a inversão da papila interdental resultou de um defeito ósseo preexistente. Sentença que, exclusivamente com amparo em uma presunção de que o apelante não teria prestado as informações necessárias a manutenção da saúde bucal da apelada, desprezou o resultado final dessa Perícia, e condenou o apelante em danos morais fixados em R$ 50.000,00. Todavia, deixou a douta Julgadora de indicar os elementos ou fatos provados nos autos, de formar segura e coesa, que justifiquem a adoção de entendimento distinto daquele constante no Laudo do Juízo. Prevalência, então, das conclusões do Estudo Oficial, eis que possui presunção juris tantun, e que é taxativo ao excluir qualquer responsabilidade do apelante no caso em tela. Dá-se provimento ao presente Recurso para reformar integralmente a Sentença guerreada; julgando-se improcedente o pleito indenizatório da apelada; e invertendo-se, por consequência, os ônus sucumbenciais.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “o recorrente ao agitar o seu apelo extremo, com fulcro na alínea a do permissivo constitucional, absteve-se de demonstrar nas razões recursais, de que forma o acórdão recorrido violou os supostos dispositivos constitucionais” (fl. 581). Daí, concluir-se que “o conhecimento do apelo extremo neste aspecto, encontra óbice na Súmula 284 do Supremo Tribunal Federal” (fl. 581).
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente não indicou qual dispositivo da Constituição que eventualmente teria sido violado pelo Tribunal de origem. Nessas condições, aplica-se a Súmula 284/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    De qualquer forma, para dissentir da conclusão do TJ/BA, seria necessário nova apreciação dos fatos e do material probatório constante dos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF:
+    “Para simples reexame de prova não cabe recurso extraordinário.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
