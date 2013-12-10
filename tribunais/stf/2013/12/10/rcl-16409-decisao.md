@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra decisão do Superior Tribunal de Justiça que negou provimento a agravo em recurso especial, para manter condenação da União ao pagamento de ajuda de custo a Juiz do Trabalho removido a pedido.
+    Na origem, a administração do Tribunal Regional do Trabalho da 12ª Região negou pedido de pagamento da ajuda, em razão de a remoção ter ocorrido em função de pedido do magistrado. A sentença de procedência do pedido foi mantida pelo acórdão da apelação e pelo ato ora impugnado, no sentido de que, nos termos do art. 65, I, da Lei Orgânica da Magistratura Nacional, não há restrições ao pagamento da vantagem.
+    Na reclamação, a União sustenta ter havido usurpação da competência do Supremo Tribunal Federal, porquanto a causa seria de interesse de toda a magistratura. Assim, nos termos do disposto no art. 102, I, n, da Constituição da República, a causa deveria ser processada e julgada originariamente no STF. Aduz, por fim, que esta Corte, no julgamento da AO 1.569-QO (Rel. Min. Marco Aurélio, Pleno, DJe de 27/08/2010), decidiu haver interesse de toda a magistratura, confirmando a competência originária da Suprema Corte.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88).
+    O caso revela usurpação de competência do Supremo Tribunal Federal, conforme já decidido pelo Plenário desta Corte no julgamento da AO 1.69-QO (Rel. Min. Marco Aurélio, DJe de 27/08/2010), porquanto a pretensão formulada na origem revela identidade com a questão decidida no precedente. Ademais, em reclamações da mesma natureza julgadas recentemente foi reconhecida a competência originária do STF:
+    Agravo regimental em reclamação. 2. Magistrado. Remoção a pedido. Ajuda de custo. Matéria de interesse de toda a magistratura nacional. Artigo 102, I, “n”, da Constituição Federal. Competência do Supremo Tribunal Federal para apreciação da controvérsia. AO-QO 1.569, rel. Min. Marco Aurélio, Tribunal Pleno, DJe 27.8.2010. 3. Agravo regimental a que se nega provimento. (Rcl 15.858-AgR, Rel. Min. Gilmar Mendes, DJe de 03/12/2013)
+    3. Ante o exposto, julgo procedente a reclamação, determinando a remessa dos autos a esta Corte.
+    Comuniquem-se o Superior Tribunal de Justiça e o Juízo Federal de Lages/SC.
+    Publique-se. Intime-se.
+    Brasília, 10 de dezembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
