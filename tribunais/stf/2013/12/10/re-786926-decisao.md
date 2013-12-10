@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO POR ACÚMULO DE TITULARIDADE – GAT. LEI COMPLEMENTAR ESTADUAL N. 1.020/2007. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra a seguinte decisão da Turma Recursal do Colégio Recursal da Circunscrição Judiciária de Assis/SP:
+    “(...) Demonstrou o autor que durante o período compreendido entre 1º.9.2007 e 7.10.2008 estava lotado para atuar na Delegacia de Investigações Gerais de Assis/SP e acumulou a titularidade da Delegacia de Polícia de Tarumã/SP, em razão de tal unidade encontrar-se vaga. Noticia que durante o período não recebeu a GAT [Gratificação por Acúmulo de Titularidade] devida, nos termos da Lei Complementar n. 1.020/2007.
+    Dispõe a Lei Complementar n. 1.020/2007 acerca do benefício em apreço: (...).
+    Sendo assim, percebe-se que o autor cumpriu todos os requisitos impostos pela Lei Complementar n. 1.020/2007, em estrita observância ao princípio da legalidade, sendo vedado ao Decreto n. 53.317/2008 estabelecer restrições não previstas na norma hierarquicamente superior” (fls. 129-130).
+    2. O Recorrente alega que a Turma Recursal teria contrariado os arts. 2º, 5º, inc. II, 37, inc. XVI, e 61, § 1º, inc. II, alínea a, da Constituição da República.
+    Argumenta que
+    “A solução preconizada no v. acórdão, ‘data venia’, não tem qualquer respaldo na LC n. 1.020/2007, vez que a pretensão, ‘data máxima venia’, delineia período (pelo menos na maior parte) anterior ao Decreto n. 53.317, de 11.8.2008, que a regulamenta – e a partir do qual é que a gratificação torna-se devida.
+    Ora, a extensão da gratificação, com a aplicação imediata a partir da LC n. 1.020/2007, afronta a própria norma instituidora, que em seu art. 4º estipula que a sua efetivação dependeria de decreto do Executivo” (fls. 136-137).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    A Juíza Relatora do caso na Turma Recursal observou:
+    “Demonstrou o autor que durante o período compreendido entre 1º.9.2007 e 7.10.2008 estava lotado para atuar na Delegacia de Investigações Gerais de Assis/SP e acumulou a titularidade da Delegacia de Polícia de Tarumã/SP, em razão de tal unidade encontrar-se vaga. Noticia que durante o período não recebeu a GAT [Gratificação por Acúmulo de Titularidade] devida, nos termos da Lei Complementar n. 1.020/2007.
+    Dispõe a Lei Complementar n. 1.020/2007 acerca do benefício em apreço: (...).
+    Sendo assim, percebe-se que o autor cumpriu todos os requisitos impostos pela Lei Complementar n. 1.020/2007, em estrita observância ao princípio da legalidade, sendo vedado ao Decreto n. 53.317/2008 estabelecer restrições não previstas na norma hierarquicamente superior” (fls. 129-130 – grifos nossos).
+    Decidir de modo diverso do que assentado nas instâncias precedentes dependeria da necessária análise prévia da legislação infraconstitucional aplicada à espécie (Lei estadual n. 1.020/2007 e Decreto estadual n. 53.317/2008). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que impede o processamento válido do recurso extraordinário:
+    “Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que determinou a incorporação do Adicional de Local de Exercício – ALE, ao vencimento padrão do recorrido. No RE, fundado no art. 102, III, ‘a’, da Constituição, alegou-se violação aos arts. 37, inc. X, 61, inc. II, alínea ‘a’, e 169, § 1º, incs. I e II, da mesma Carta. A pretensão recursal não merece acolhida. Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Leis Complementares Estaduais ns. 689/1992, 994/1996 e 1.020/2007). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo ‘a quo’, o que inviabiliza o extraordinário, nos termos da Súmula n. 280 do STF. Nesse sentido: ‘Agravo regimental no recurso extraordinário com agravo. Servidor público. Militar. Gratificação. Incorporação. Reajuste previsto em norma local. Reexame de legislação estadual. Ofensa reflexa. Precedentes. 1. O recurso extraordinário não se presta ao reexame de matéria ínsita ao plano normativo local. Incidência da Súmula n. 280/STF. 2. Agravo regimental não provido’ (ARE 662.313-AgR/SP, Relator o Ministro Dias Toffoli). Isso posto, nego seguimento ao recurso” (ARE 756.677-AgR, Relator o Ministro Ricardo Lewandowski, decisão monocrática, DJe 5.8.2013, transitada em julgado em 20.8.2013 – grifos nossos).
+    Nada há a prover quanto às alegações do Recorrente.
+    4. Pelo exposto, nego seguimento ao recurso extraordinário (caput do art. 557 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de dezembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
