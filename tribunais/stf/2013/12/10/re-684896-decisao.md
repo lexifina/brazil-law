@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto em ação ordinária. O Tribunal de Justiça do Estado do Piauí manteve sentença que condenara o Estado recorrente a pagar o salário-base dos recorridos igual ao salário mínimo.
+    No recurso extraordinário, a parte recorrente aponta, com base no art. 102, III, da Constituição, violação ao art. 7º, IV, da CF, pois (a) a garantia de percepção do salário mínimo se refere à totalidade da remuneração e, não, ao salário-base; (b) não deve prevalecer a vinculação do salário-base ao salário mínimo.
+    Em contra-razões, o recorrido pede, preliminarmente, o não-conhecimento do recurso, uma vez que a recorrente suscita argumentos confusos insuficientes para a reforma do acórdão recorrido, incidindo o óbice da Súmula 284/STF. No mais, pede o desprovimento do recurso (fls. 180/185.
+    2. Não merece prosperar a preliminar de não-conhecimento do apelo, pois o recurso extraordinário aborda a questão constitucional controvertida de forma adequada, não se cogitando do óbice da Súmula 284/STF.
+    3. O Plenário do Supremo Tribunal Federal, ao julgar o RE 582.019-QO-RG, rel. Min. RICARDO LEWANDOWSKI, DJe de 13/02/2009, Tema 142, sob o regime do art. 543-B do CPC (repercussão geral), assentou entendimento no sentido de que a garantia prevista nos artigos 7º, IV, e 39, §3º, da CF, se refere à totalidade da remuneração do servidor público e não ao salário-base. Esse acórdão restou assim ementado:
+    CONSTITUCIONAL. SERVIDOR PÚBLICO. SALÁRIO-BASE INFERIOR AO SALÁRIO MÍNIMO. POSSIBILIDADE. ARTS. 7º, IV, E 39, § 3º (redação dada pela EC 19/98), DA CONSTITUIÇÃO. I - Questão de ordem. Matéria de mérito pacificada no STF. Repercussão geral reconhecida. Confirmação da jurisprudência. Denegação da distribuição dos recursos que versem sobre o mesmo tema. Devolução desses RE à origem para adoção dos procedimentos previstos no art. 543-B, § 3º, do CPC. Precedentes: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, Rel. Min. Ellen Gracie; RE 591.068-QO/PR, Rel. Min. Gilmar Mendes; RE 585.235-QO/MG, Rel. Min. Cezar Peluso. II – Julgamento de mérito conforme precedentes. III – Recurso provido.
+    No mesmo sentido: AI 659.048 AgR-AgR, Relator(a): Min. AYRES BRITTO, Segunda Turma, DJe de 20-09-2011.
+    Registre-se que com base nessa compreensão, editou-se a Súmula Vinculante 16, nos seguintes termos: “Os artigos 7º, IV, e 39, §3º (redação da EC 19/98), da Constituição, referem-se ao total da remuneração percebida pelo servidor público”.
+    No casos dos autos, o Tribunal de origem condenou o recorrente a pagar o salário-base igual ao salário mínimo. Por estar em desacordo com a jurisprudência do STF, merece reparos o acórdão recorrido.
+    4. Diante do exposto, dou provimento ao recurso extraordinário para julgar improcedente o pedido inicial. Ficam invertidos os ônus sucumbenciais impostos na sentença.
+    Publique-se. Intime-se.
+    Brasília, 10 de dezembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
