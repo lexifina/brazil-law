@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DESVIO DE FUNÇÃO. INCORPORAÇÃO DAS DIFERENÇAS DE REMUNERAÇÃO. TEMA SEM REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “AGRAVO INTERNO. ADMINISTRATIVO. Gratificação de desempenho fazendário. Desvio de função reconhecido em outra demanda com o pagamento de diferença estipendial. Pretensão de incorporação da gratificação. Impossibilidade. Inexistência de reconhecimento administrativo do direito à incorporação. Hipótese diversa de ocorrência de prescrição administrativa. Decisão monocrática do relator mantida. Recurso desprovido” (fl. 225).
+    2. Os Recorrentes afirmam que “após um determinado lapso temporal, de recebimento continuado e ininterrupto de determinada gratificação, o servidor passa a ter o direito à sua incorporação definitiva à seus vencimentos. Assim, após um lapso temporal mínimo exercendo, de forma continuada, determinada função, é garantido aos servidores que incorporem à sua remuneração a integralidade da gratificação percebida em razão do exercício da função que gera o adicional” (fl. 232).
+    Asseveram que como “permaneceram por mais de cinco anos ininterruptos na mesma atividade, em desvio de função, com direito à percepção da garantia pleiteada, não pode agora a Administração rever seus atos e, em decorrência, retirar uma gratificação que foi reconhecida judicialmente, devendo, portanto, a mesma ser incorporada aos ganhos dos Recorrentes. Neste sentido, como se sabe, a segurança jurídica é o princípio da proteção à confiança, levando-se em consideração a boa-fé do cidadão, que acredita e espera que os atos praticados pelo Poder Público sejam lícitos e, nessa qualidade, serão mantidos e respeitados pela própria Administração e por terceiros” (fl. 235).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de os Recorrentes não terem indicado “com precisão, o dispositivo constitucional considerado violado. Tal deficiência atrai a incidência da Súmula 284, do STF” (fls. 270-272).
+    No agravo interposto, os Agravantes reiteram as razões do recurso extraordinário.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, afasto o fundamento da decisão agravada. Apesar da ausência de indicação expressa do dispositivo constitucional alegadamente contrariado, é possível compreender o recurso interposto. Todavia, a superação desse óbice não permite acolher a pretensão dos Agravantes, pois a eles não assiste razão jurídica.
+    6. O Tribunal de origem decidiu a controvérsia nos termos seguintes:
+    “No julgamento da apelação cível nº 11198/09, não foi reconhecido aos autores o pagamento da gratificação de desempenho fazendário (e nem poderia), mas a percepção da ‘diferença existente entre o vencimento dos autores e os dos agentes fazendários, considerado o valor da Gratificação de Desempenho Fazendário desde quando e enquanto durar o desvio de função’. (…) Na petição inicial os autores informam que o desvio de função, cessou em julho de 2010, a partir de quando aqueles valores deixaram de ser pagos. Não podem incorporá-la aos seus vencimentos, sob pena de violação à regra que impõe o concurso público” (fls. 213-214).
+    No julgamento do Recurso Extraordinário n. 578.657, Relator o Ministro Menezes Direito, este Supremo Tribunal assentou a ausência de repercussão geral do tema em debate:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. DISCUSSÃO ACERCA DO DIREITO À DIFERENÇA DE REMUNERAÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL” (DJe 6.6.2008).
+    No mesmo sentido:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DE SERVIDOR À DIFERENÇA DE REMUNERAÇÃO EM VIRTUDE DE DESVIO DE FUNÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL. RE 578.657-RG (REL. MIN. MENEZES DIREITO - TEMA 073). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE 63.435-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 21.8.2013).
+    7. Carente de repercussão geral a questão posta à apreciação, os recursos extraordinários e agravos que a suscitarem serão recusados pelos respectivos relatores, nos termos do § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    8. Pelo exposto, nego seguimento ao agravo (art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de dezembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
