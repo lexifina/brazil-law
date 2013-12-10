@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “PROCESSO PENAL. APELAÇÃO CRIMINAL. CRIMO DE CONTRABANDO. MÁQUINAS CAÇA-NÍQUES. MATERIALIDADE E AUTORIA COMPROVADAS. SETENÇA ABSOLUTÓRIA REFORMADA
+    I- Restando demonstrada a autoria e a materialidade do crime de contrabando, em razão de o réu ter utilizado em proveito próprio ou alheio, no exercício de atividade comercial, mercadoria de precedência estrangeira que sabe ser produto de introdução clandestina no território nacional ou de importação fraudulenta por parte de outrem e, não se vislumbrando qualquer causa excludente de ilicitude ou culpabilidade, impõe-se a condenação do apelado, responsável por estabelecimento comercial onde explorava máquinas caça-níqueis, cujos componentes são de origem estrangeira e importação proibida no Brasil.
+    II- Não há como afastar o dolo quanto ao tipo descrito no art. 334, §1º, c, do Código Penal, eis que não se pode supor que o homem médio, quanto mais na condição de comerciante, aceite em estabelecimento sob sua responsabilidade máquinas de origem desconhecida, com o fito de explorar atividade ilícita (jogos de azar).
+    III- Recurso parcialmente provido para reformar a sentença absolutória e condenar o réu pela prática do crime do art. 334, §1º, c, do Código Penal” (pág. 78 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVII, LIII, LIV e LV, e 109, IV, da mesma Carta.
+    O agravo não merece acolhida. É que, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 634.072-AgR/RJ, de minha relatoria; AI 642.351-AgR/SP, Rel. Min. Eros Grau; RE 516.836/DF, Rel. Min. Menezes Direito; AI 766.051-AgR/SP, Rel. Min. Gilmar Mendes, cuja ementa segue transcrita:
+    “Agravo regimental em agravo de instrumento. 2. Responsabilidade objetiva prevista no art. 37, § 6º, da Constituição Federal abrange também os atos omissivos do Poder Público. 3. Impossibilidade de reexame do conjunto fático-probatório. Súmula 279. 4. Ausência de argumentos suficientes para infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento”.
+    Ademais, o Tribunal entende seu inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 10 de dezembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
