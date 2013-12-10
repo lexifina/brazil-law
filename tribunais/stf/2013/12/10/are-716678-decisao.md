@@ -1,0 +1,16 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado (fl. 2.089):
+    “RECURSO INOMINADO. CONSUMIDOR. PLANO DE SAÚDE. CIRURGIA CARDÍACA. COBRANÇA DE MATERIAL UTILIZADO NA INTERVENÇÃO CIRÚRGICA. CONTRATO FIRMADO SOB A ÉGIDE DO CDC E ANTERIOR À LEI 9.656/98. INTERPRETAÇÃO DA CLÁUSULA DE MANEIRA MAIS FAVORÁVEL AO CONSUMIDOR (ART. 47, DO CDC). NEGATIVA QUE NÃO SUBSISTE, ANTE A IMPOSIÇÃO LEGAL DE COBERTURA DE ACESSÓRIOS E INSTRUMENTOS, QUANDO NECESSÁRIAS AO ATO CIRÚRGICO. LEGITIMIDADE PASSIVA DO HOSPITAL FUNDADA NA TEORIA DA APARÊNCIA.
+    1. Em que pese as condições gerais do seguro aludam, efetivamente, à exclusão da cobertura de quaisquer despesas relacionadas a implante de próteses, órteses ou acessórios, o contrato celebrado entre as partes é anterior à edição da Lei n. 9.656/98, que alterou as diretrizes gerais dos planos de saúde. A partir da vigência da referida Lei, cumpria à seguradora adaptar os contratos firmados sob a égide da lei antiga. Dessa feita, não há como se negar o reembolso das despesas.
+    2. Ainda que interpretação diversa comportasse a cláusula, há de se conferir a mais benéfica ao consumidor. Tendo o termo de credenciamento sido firmado em 1993, por certo que se submete ao subsistema do Código de Defesa do Consumidor (Lei nº 8.078/90).
+    PRELIMINAR DESACOLHIDA. RECURSOS DESPROVIDOS. UNÂNIME.”
+    O recurso busca fundamento no art. 102, III, a da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “a presente impugnação não se revela merecedora de conhecimento tendo em vista que as questões constitucionais deduzidas não foram prequestionadas, porque não debatidas no acórdão recorrido, não havendo ofensa direta à Constituição Federal”; (ii) “a pretensão foi solvida com fundamento no conjunto fático probatório dos autos, bem como na legislação infraconstitucional que rege a matéria”.
+    O Supremo Tribunal Federal reconheceu a repercussão geral da questão relativa a aplicação retroativa de lei nova sobre planos de saúde aos contratos firmados antes da sua vigência, a luz do art. 5º, XXXVI, da Constituição Federal (RE 578.801, Rel. Min. Carmen Lúcia, substituído pelo ARE 652.492, da mesma relatoria).
+    Contudo, cabe ressaltar que, no presente caso, o Tribunal de origem decidiu pela ilegalidade da recusa de cobertura do tratamento em razão também do Código de Defesa do Consumidor (fl. 170). Esse é um fundamento autônomo e suficiente para a manutenção do julgado, que não foi impugnado pela parte recorrente. Não houve, igualmente, a interposição de recurso especial quanto ao ponto. Nessas condições, aplica-se a Súmula 283/STF, in verbis:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
