@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. DEFERIMENTO DE ANTECIPAÇÃO DE TUTELA. RECURSO EXTRAORDINÁRIO INCABÍVEL: SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “Não se justifica o entendimento de que a penalidade de multa cominatória prevista no art. 461, § 4º, CPC, somente possa ser aplicada ao agente público, de forma pessoal, sendo descabida em se tratando de ente público a pessoa obrigada ao cumprimento da obrigação determinada: primeiro porque o legislador não fez qualquer distinção quanto à figura do ‘réu’ a quem pode ser aplicada a dita penalidade; segundo porque, o que importa é se assegurar o efetivo cumprimento da decisão judicial, como forma de se garantir a eficácia do processo àquele que tem o direito por ela reconhecido, pouco ou nada importando quem é que vai arcar, a um primeiro momento, com a penalidade, até porque, como é óbvio, caso o erário venha a ser desfalcado pela atuação desidiosa de qualquer dos seus agente, caber-lhe-á o direito de, em ação própria, postular o seu ressarcimento, bem como a própria responsabilização penal do desidioso” (fl. 163).
+    Os embargos de declaração opostos foram rejeitados.
+    3. O Recorrente alega que o Tribunal de origem teria contrariado os arts. 2º e 194, parágrafo único, inc. III, da Constituição da República.
+    Afirma que “o voto está errado porque, ao contrário do que alegado, não restaram demonstrados os requisitos para a concessão da antecipação da tutela, quais sejam: verossimilhança das alegações, prova inequívoca dos fatos, fundado receio de dano irreparável ou abuso de direito ou defesa” (fl. 201).
+    4. O recurso extraordinário foi inadmitido com base na jurisprudência do Supremo Tribunal Federal no sentido do descabimento de recurso extraordinário contra decisões concessivas, ou não, de liminares ou tutelas antecipadas (fls. 221-225).
+    No agravo interposto o Agravante reitera as razões do recurso extraordinário.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    7.  A Desembargadora Relatora do recurso no Tribunal de origem afirmou:
+    “Consoante vem reiteradamente reconhecendo a jurisprudência pátria, a antecipação da tutela configura hipótese a ser encarada sob o enfoque dos princípios constitucionais da inafastabilidade do controle jurisdicional e da eficácia das decisões judiciais, porquanto conta com o principal escopo de evitar dano irreparável ao litigante, que possa advir no curso da demanda. (…) Ora, o caso em tela trata de fornecimento de medicação gratuita a pessoa maior de 60 (sessenta) anos, que, conforme parecer médico sofre de patologia grave, sendo, pois, patente a urgência da concessão de tutela antecipada” (fls. 164-165).
+    As medidas antecipatórias e cautelares, por não representarem pronunciamento definitivo, mas provisório, sobre a controvérsia, devem ser confirmadas (ou, se for o caso, cassadas) pela sentença que julgar o mérito da causa, podendo, ademais, ser modificadas ou revogadas a qualquer tempo, até mesmo pelo órgão que as deferiu.
+    Assim, a natureza precária e provisória do juízo desenvolvido em liminar ou tutela antecipada não viabiliza o recurso extraordinário, pois com a sentença é que se terá o pronunciamento definitivo, na instância específica, sobre as questões jurídicas apreciadas nas liminares. Incide na espécie a Súmula n. 735 do Supremo Tribunal Federal, que dispõe: “Não cabe recurso extraordinário contra acórdão que defere medida liminar”.
+    Confiram-se, ainda, os seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. LIMINAR OU TUTELA ANTECIPADA: ATO DECISÓRIO NÃO DEFINITIVO. SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 859.263-AgR, de minha relatoria, Segunda Turma, DJe 4.11.2013).
+    “DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. DECISÃO REGIONAL QUE MANTEVE O DEFERIMENTO PARCIAL DE ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DE JUÍZO DEFINITIVO DE CONSTITUCIONALIDADE. SÚMULA 735/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 19.6.2012. A jurisprudência desta Corte é firme no sentido de que incabível recurso extraordinário da decisão que aprecia medida cautelar, antecipação de tutela ou provimento liminar, porque, em casos tais, não são proferidos juízos definitivos de constitucionalidade, podendo as decisões ser modificadas ou revogadas a qualquer tempo pela instância a quo. Aplicação da Súmula 735/STF. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento” (ARE 725.927-ED, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 16.4.2013).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de dezembro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
