@@ -1,0 +1,20 @@
+Contra o juízo negativo de admissibilidade da Terceira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais (fls. 251-2), maneja agravo Helio Leandro Brum (fls. 257-60), com vista a assegurar o trânsito do recurso extraordinário que interpôs. Oposto na origem o óbice da falta de prequestionamento.
+    O Recorrente, denunciado pela prática dos crimes de ameaça e furto (arts. 147 e 155 do Código Penal), foi absolvido pelo magistrado de primeiro grau.
+    Posteriormente, o Tribunal de Justiça do Estado de Minas Gerais deu parcial provimento ao recurso ministerial e condenou Helio Leandro Brum às penas de 01 (um) ano e 09 (nove) meses de reclusão pela prática do crime de furto e de 01 (um) mês e 05 (cinco) dias de detenção pela prática do crime de ameça, no regime inicial semiaberto. Naquela ocasião, a Corte Estadual condenou o Recorrente ao pagamento das custas processuais.
+    Opostos embargos infringentes, não foram acolhidos.
+    Nas razões do recurso extraordinário, A Defesa alega violação do art. 5º, LXXIV, da Constituição Federal, dada a condenação às custas processuais de assistido pela Defensoria Pública.
+    É o relatório.
+    Decido.
+    Ao rejeitar os embargos de declaração, o Tribunal de Justiça do Estado de Minas Gerais afastou a suscitada omissão no que tange à condenação ao pagamento das custas processuais, aos seguintes fundamentos:
+    “Não há qualquer omissão na decisão embargada, que determinou fossem as custas cobradas na forma da lei, ou seja, nos termos do art. 804 do CPP.
+    Ademais, não padece de ausência de fundamentação o decisum, de sorte que o pagamento das custas processuais decorre da própria condenação, ou seja, este é seu fundamento legal. Em verdade, a exceção à regra, isto é, a isenção do pagamento das custas é que deve ser fundamentado.
+    Ademais, cumpre registrar que a defesa, no recurso de apelação, não requereu fosse o apelante, ora embargante, isentado do pagamento das custas processuais”.
+    Do excerto transcrito, único que elucida a matéria no Tribunal de origem, verifico que a alegada violação do art. 5º, LXXIV, da Constituição Federal não se encontra prequestionada, porquanto não abordada pelo acórdão recorrido. Aplicável, pois, o óbice da Súmula 282/STF.
+    A jurisprudência sedimentada desta Corte não admite o prequestionamento implícito. Nesse sentido, colaciono, dentre outros, os seguintes julgados, que, por si sós, demonstram a inviabilidade da pretensão recursal do Recorrente: AI 508.555-AgR/MG, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 14.10.2005; RE 217.849-AgR/ES, Rel. Min. Eros Grau, 1ª Turma, DJ 05.8.2005; AI 413.963-AgR/SC, Rel. Min. Celso de Mello, 2ª Turma, DJ 1º.4.2005; e AI 253.566-AgR/RS, 1ª Turma, Rel. Min. Sepúlveda Pertence, DJ 03.3.2000.
+    Além disso, para dissentir do entendimento do Tribunal de Justiça, seria necessário o exame de legislação infraconstitucional, de todo inviável em sede extraordinária.
+    Ademais, a indigitada ofensa a esse dispositivo constitucional, se existente, seria meramente reflexa ou indireta, pois exigiria a análise de legislação infraconstitucional inserta no art. 12 da Lei 1.060/50, não viabilizando, em decorrência, o extraordinário, conforme jurisprudência uníssona deste Supremo Tribunal Federal (v.g.: Inviável em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional - RE 660.186 AgR/RS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 14.02.2012; Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária - RE 642.408 AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 14.02.2012).
+    Ante o exposto, nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de dezembro de 2013.
+Ministra Rosa Weber
+Relatora
