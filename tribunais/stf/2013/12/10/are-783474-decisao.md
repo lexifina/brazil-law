@@ -1,0 +1,18 @@
+Trata-se de agravo interposto de decisão que não admitiu o recurso extraordinário manejado contra acórdão do Tribunal Regional Federal da 5ª Região cuja ementa tem o seguinte teor:
+    “EMENTA: TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. RENDIMENTOS A DESCOBERTO. FATO GERADOR DE IMPOSTO DE RENDA. DECADÊNCIA. LANÇAMENTO DE OFÍCIO. ART. 173, I, DO CTN. AUSÊNCIA DE COMPROVAÇÃO DA ORIGEM DE RECURSOS FINANCEIROS. PROVIMENTO PARCIAL.
+    1. Não há o que se falar em nulidade da decisão administrativa, que mantece o lançamento fiscal, por suposta violação aos princípios do contraditório e da ampla defesa, quando, ao contribuinte, foram conferidas todas as oportunidades de manifestação, nas diversas fases do processo administrativo.
+    2. Não tendo sido efetuado ou sendo efetuado com inexatidão o pagamento ou recolhimento do imposto devido pelo sujeito passivo, o lançamento passa a ser efetuado de ofício, aplicando-se a regra geral de decadência prevista no art. 173, I, do Código Tributário Nacional, segundo a qual o prazo decadencial tem início no primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.
+    3. O acréscimo patrimonial a descoberto é fato gerador do imposto de renda como proventos de qualquer natureza, nos termos do inciso II do art. 43 do CTN, devendo haver comprovação da origem do acréscimo patrimonial, sem o que se torna legítima a ação fiscal na autuação do contribuinte, exigindo o imposto de renda correspondente.
+    4. Apelação parcialmente provida” (página 223 do volume eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suam, violação aos arts. 5º, II, LV, LVII, e 150, I, todos da mesma Carta Magna.
+    Decido.
+    Bem examinados os autos, verifico que a pretensão recursal não merece acolhida.
+    Isso porque o Tribunal a quo, no deslinde da controvérsia posta nos autos, decidiu a causa com base em normas infraconstitucionais aplicáveis à espécie. A eventual afronta ao texto constitucional, se ocorrente, se daria de modo indireto, o que não abre acesso à via extraordinária.
+    É cediço, ainda, que a jurisprudência do Supremo Tribunal Federal é firme no sentido de que a ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Por fim, ressalte-se que este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando, do mesmo modo, a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Nessa mesma linha, cito os seguintes precedentes: AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de dezembro de 2013.
+Ministro Ricardo Lewandowski
+Relator
+Documento assinado digitalmente
