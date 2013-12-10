@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Brasil Telecom S/A. Aparelhado o recurso na afronta aos arts. 150, II, e 153, V, e § 1º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da constitucionalidade da incidência do IOF sobre transmissão de debêntures, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 567.707-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 02.3.2011; e RE 287.628-AgR, Rel Min. Ayres Britto, 2ª Turma, DJe 19.3.2012, cuja ementa transcrevo:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IOF. INCISO I DO ART. 1º DA LEI 8.033/1990. CONSTITUCIONALIDDADE. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido da constitucionalidade do inciso I do art. 1º da Lei 8.033/1990, que trata da incidência do IOF sobre transmissão ou resgate de títulos mobiliários, públicos e privados, inclusive de aplicações de curto prazo, tais como letras de câmbio, depósitos a prazo com ou sem emissão de certificado, letras imobiliárias, debêntures e cédulas hipotecárias. 2. Agravo desprovido” (destaquei).
+    Também não diverge quanto à constitucionalidade da delegação a Ministro de Estado de competência para alterar as alíquotas dos impostos enumerados no art. 153, § 1º, da Constituição Federal. Veja-se o RE 570.680, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 04.12.2009, verbis:
+     “TRIBUTÁRIO. IMPOSTO DE EXPORTAÇÃO. ALTERAÇÃO DE ALÍQUOTA. ART. 153, § 1º, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA PRIVATIVA DO PRESIDENTRE DA REPÚBLICA NÃO CONFIGURADA. ATRIBUIÇÃO DEFERIDA À CAMEX. CONSTITUCIONALIDADE. FACULDADE DISCRICIONÁRIA CUJOS LIMITES ENCONTRAM-SE ESTABELECIDOS EM LEI. RECURSO EXTRAORDINÁRIO DESPROVIDO. I - É compatível com a Carta Magna a norma infraconstitucional que atribui a órgão integrante do Poder Executivo da União a faculdade de estabelecer as alíquotas do Imposto de Exportação. II - Competência que não é privativa do Presidente da República. III - Inocorrência de ofensa aos arts. 84, caput, IV e parágrafo único, e 153, § 1º, da Constituição Federal ou ao princípio de reserva legal. Precedentes. IV - Faculdade discricionária atribuída à Câmara de Comércio Exterior - CAMEX, que se circunscreve ao disposto no Decreto-Lei 1.578/1977 e às demais normas regulamentares. V - Recurso extraordinário conhecido e desprovido”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de dezembro de 2013.
+Ministra Rosa Weber
+Relatora
