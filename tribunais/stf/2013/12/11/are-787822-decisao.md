@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Colégio Recursal da Comarca de São José do Rio Preto/SP, assim ementado (fl. 118):
+    “PLANO DE SAÚDE – NEGATIVO DE COBERTURA – REPRESENTAÇÃO IRREGULAR EM AUDIÊNCIA – REVELIA RECONHECIDA – SENTENÇA DE PROCEDÊNCIA MANTIDA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5°, II, LIV e LV, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a suposta ofensa ao texto constitucional, acaso existente, apresentar-se-ia por via reflexa” (fl. 164).
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto – o que, por evidente, não atende ao disposto no art. 543-A, § 2º, do CPC. Como já registrado por este Tribunal, a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579 AgR/MG, Rel. Min. Ricardo Lewandowski).
+    De qualquer forma, a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Em se tratando especificamente de suposta ofensa ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. Nessa linha, veja-se a seguinte passagem da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “(...)
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 11 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
