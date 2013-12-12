@@ -1,0 +1,2 @@
+Art. 36-B. Será considerada propaganda eleitoral antecipada a convocação, por parte do Presidente da República, dos Presidentes da Câmara dos Deputados, do Senado Federal e do Supremo Tribunal Federal, de redes de radiodifusão para divulgação de atos que denotem propaganda política ou ataques a partidos políticos e seus filiados ou instituições.
+Parágrafo único. Nos casos permitidos de convocação das redes de radiodifusão, é vedada a utilização de símbolos ou imagens, exceto aqueles previstos no § 1º do art. 13 da Constituição Federal.
