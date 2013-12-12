@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Vanilce Aparecida Barbosa. Aparelhado o recurso na afronta aos arts. 5º, XXII, XXIII e LIV, e 216, § 1º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido: AI 495.657-AgR/SP, Rel. Min. Marco Aurélio, 1ª Turma, DJ 26.8.2005; e AI 494.060-AgR/SP, Rel. Min. Ayres Britto, 2ª Turma, DJe 18.8.2011, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. TOMBAMENTO DE BENS IMÓVEIS. TRANSFERÊNCIA DE DOMÍNIO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas neste momento processual. 2. De mais a mais, incidem as Súmulas 282 e 356/STF. 3. Agravo regimental desprovido”.
+    Outrossim, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento acerca ”do caráter agressor das obras realizadas”, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Colho precedente:
+    "RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXII, XXIII, XXIV, LIV e LV, da Constituição Federal. Violações dependentes de reexame prévio de normas inferiores. Ofensa constitucional indireta. Matéria fática. Súmula 279. Agravo regimental não provido. É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, de reexame de provas" (STF-AI-AgR-495.880/SP, Relator Ministro Cezar Peluso, 1ª Turma, DJ 05.8.2005).
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de dezembro de 2013.
+Ministra Rosa Weber
+Relatora
