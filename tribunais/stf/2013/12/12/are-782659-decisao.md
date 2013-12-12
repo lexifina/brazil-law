@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “Ferroviários – Complementação de aposentadoria e pensões – Pedido de extensão dos benefícios concedidos aos empregados da FERROBAN – Prescrição – Inocorrência – Art. 4º do Decreto n. 20.910/32 – Decreto de prescrição afastado – Aplicação analógica do art. 515, § 3º do CPC – Ação improcedente – Ausência de definição na esfera administrativa quanto ao paradigma aplicável – Entendimento jurisprudencial firme no sentido de se reconhecer o mesmo direito concedido aos empregados da CPTM – Precedente – Sentença reformada – Recurso parcialmente provido, apenas para afastar a prescrição”.
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se violação ao art. 40, § 8º (na redação anterior à EC 41/2003), da mesma Carta.
+    A pretensão recursal não merece acolhida. Registre-se que os Ministros desta corte, no RE 610.223-RG/SP, Rel. Min. Ellen Gracie, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca da extensão aos inativos e pensionistas da antiga FEPASA de vantagens salariais concedidas aos ferroviários com base em acordo coletivo, por se tratar de matéria infraconstitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, transcrevo a ementa do referido julgado:
+    “EXTENSÃO AOS APOSENTADOS E PENSIONISTAS DA ANTIGA FEPASA DE VANTAGENS SALARIAIS CONCEDIDAS AOS FERROVIÁRIOS EM ATIVIDADE COM BASE EM ACORDO COLETIVO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de dezembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
