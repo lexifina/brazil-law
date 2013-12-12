@@ -1,1 +1,2 @@
 Art. 15-A. A responsabilidade, inclusive civil e trabalhista, cabe exclusivamente ao órgão partidário municipal, estadual ou nacional que tiver dado causa ao não cumprimento da obrigação, à violação de direito, a dano a outrem ou a qualquer ato ilícito, excluída a solidariedade de outros órgãos de direção partidária.
+Parágrafo único. O órgão nacional do partido político, quando responsável, somente poderá ser demandado judicialmente na circunscrição especial judiciária da sua sede, inclusive nas ações de natureza cível ou trabalhista.
