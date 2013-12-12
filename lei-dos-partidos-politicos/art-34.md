@@ -4,4 +4,5 @@ II - caracterização da responsabilidade dos dirigentes do partido e comitês, 
 III - escrituração contábil, com documentação que comprove a entrada e saída de dinheiro ou de bens recebidos e aplicados;
 IV - obrigatoriedade de ser conservada pelo partido a documentação comprobatória de suas prestações de contas, por prazo não inferior a cinco anos;
 V - obrigatoriedade de prestação de contas, pelo partido político, seus comitês e candidatos, no encerramento da campanha eleitoral, com o recolhimento imediato à tesouraria do partido dos saldos financeiros eventualmente apurados.
-Parágrafo único. Para efetuar os exames necessários ao atendimento do disposto no caput, a Justiça Eleitoral pode requisitar técnicos do Tribunal de Contas da União ou dos Estados, pelo tempo que for necessário.
+§ 1º A fiscalização de que trata o caput tem por escopo identificar a origem das receitas e a destinação das despesas com as atividades partidárias e eleitorais, mediante o exame formal dos documentos contábeis e fiscais apresentados pelos partidos políticos, comitês e candidatos, sendo vedada a análise das atividades político-partidárias ou qualquer interferência em sua autonomia.
+§ 2º Para efetuar os exames necessários ao atendimento do disposto no caput, a Justiça Eleitoral pode requisitar técnicos do Tribunal de Contas da União ou dos Estados, pelo tempo que for necessário.

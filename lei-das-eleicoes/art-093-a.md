@@ -1,0 +1,1 @@
+Art. 93-A. O Tribunal Superior Eleitoral (TSE), no período compreendido entre 1º de março e 30 de junho dos anos eleitorais, em tempo igual ao disposto no art. 93 desta Lei, poderá promover propaganda institucional, em rádio e televisão, destinada a incentivar a igualdade de gênero e a participação feminina na política.
