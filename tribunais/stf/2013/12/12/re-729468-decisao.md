@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 4ª Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “CONSTITUCIONAL E TRIBUTÁRIO. CPMF. CONVERSÃO DE EMPRÉSTIMO EXTERNO EM INVESTIMENTO.
+    1. A operação de compra e venda de câmbio, relativa à conversão de empréstimo externo em investimento, ainda que realizada de forma escritural, constitui fato gerador da CPMF, nos termos da Lei nº 9.311/1996.
+    2. Legalidade da regulamentação do Banco Central do Brasil que exige uma prévia operação de câmbio registrada em conta corrente para implementação da conversão do crédito em investimento.
+    3. Apelação improvida.”
+    Foram opostos embargos de declaração, os quais foram rejeitados. O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega ofensa aos arts. 5°, II, XXXV, LIV e LV; 93, IX; 150, I e II, todos da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que: “as ofensas às normas constitucionais apontadas não seriam diretas”.  O Ministro Joaquim Barbosa, relator originário do feito, deu provimento ao agravo de instrumento para determinar a subida dos autos principais ao Supremo Tribunal Federal para melhor exame do recurso extraordinário.
+    A pretensão relativa à nulidade do acórdão recorrido não merece acolhida. A jurisprudência da Corte é pacífica ao reconhecer o caráter infraconstitucional das questões afetas aos dispositivos impugnados pela recorrente. Veja-se, a propósito, a ementa do AI 812.463-AgR, julgado sob a relatoria do Ministro Teori Zavascki:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO DA INADMISSÃO DE RECURSO EXTRAORDINÁRIO. ENTIDADE SINDICAL. SUBSTITUIÇÃO PROCESSUAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 284/STF. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO AO ART. 5º, II, XXXV, LIV E LV, DA CONSTITUIÇÃO FEDERAL. OFENSA CONSTITUCIONAL REFLEXA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO. (negrito acrescentado)
+    Quanto à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido,veja-se a ementa do ARE 764.846-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. LEIS ESTADUAIS 3.375/75 e 4.694/87. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO IMPROVIDO.
+     I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+     II - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais locais que fundamentam a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes.
+     III – A exigência do art. 93, IX, da Constituição não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento.
+     IV – Agravo regimental a que se nega provimento.” (Negrito acrescentado)
+    O acórdão recorrido reconheceu que a subscrição das quotas adquiridas como forma de pagamento pelo mútuo celebrado entre a recorrente e a empresa estrangeira acarretou em movimentação financeira escritural, o que já seria suficiente para configurar a incidência da contribuição.
+    O recorrente sustenta que não houve circulação de moeda para quitação do empréstimo. Observo que o acolhimento da pretensão recursal importaria em desautorizar as conclusões assentadas pela instância ordinária com base em premissas fáticas e probatórias, o que não é possível na hipótese, por força da vedação constante da Súmula 279/STF.
+    Não obstante, nota-se que o acórdão regional não decidiu a questão com base em fundamentos constitucionais. A controvérsia foi solucionada à luz da legislação de regência, com especial destaque para a Lei nº 9.311/1996, que prevê como materialidade da contribuição a circulação de crédito sob a forma escritural. Confirmando o caráter infraconstitucional do tema em debate, confira-se a ementa do RE 612836 AgR, julgado sob a relatoria do Ministro Ayres Britto:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CPMF. CONTRATO DE CÂMBIO SIMBÓLICO. LEI 9.311/1996. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL.
+    1. A instância judicante de origem decidiu a controvérsia centralmente à luz de norma infraconstitucional (Lei 9.311/1996). Desse modo, eventual ofensa ao Magno Texto, se existente, ocorreria de forma indireta ou reflexa, o que não autoriza a abertura da via recursal extraordinária.
+    2. Incidência da Súmula 283/STF, ante o trânsito em julgado da matéria infraconstitucional de que se valeu o Tribunal recorrido para a solução da causa. Matéria que é suficiente para a manutenção da decisão recorrida.
+     3. Agravo regimental desprovido.”
+     No mesmo sentido, confiram-se os seguintes julgados: AI 783.390-AgR, Rel. Min. Gilmar Mendes, AI 739.858-AgR, Rel. Min. Celso de Mello, ARE 662.114-ED, Rel.ª Min.ª Cármen Lúcia, e AI 845.518-AgR, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º do do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
