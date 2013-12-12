@@ -3,4 +3,5 @@ I - morte;
 II - perda dos direitos políticos;
 III - expulsão;
 IV - outras formas previstas no estatuto, com comunicação obrigatória ao atingido no prazo de quarenta e oito horas da decisão.
-Parágrafo único. Quem se filia a outro partido deve fazer comunicação ao partido e ao juiz de sua respectiva Zona Eleitoral, para cancelar sua filiação; se não o fizer no dia imediato ao da nova filiação, fica configurada dupla filiação, sendo ambas consideradas nulas para todos os efeitos.
+V - filiação a outro partido, desde que a pessoa comunique o fato ao juiz da respectiva Zona Eleitoral.
+Parágrafo único. Havendo coexistência de filiações partidárias, prevalecerá a mais recente, devendo a Justiça Eleitoral determinar o cancelamento das demais.
