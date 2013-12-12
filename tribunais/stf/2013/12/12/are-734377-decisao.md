@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. PREVIDÊNCIA PRIVADA. DIREITO ADQUIRIDO ÀS REGRAS VIGENTES NO PERÍODO DE ADESÃO AO PLANO DE PREVIDÊNCIA PRIVADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 742.083. OFENSA INDIRETA. VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 748.371. ALEGADA OFENSA AO ART. 93, IX, DA CF/88. INEXISTÊNCIA.
+1. A complementação de benefício previdenciário, quando sub judice a controvérsia sobre a aplicação das regras vigentes na época da adesão ao plano de previdência privada, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE n. 742.083–RG, Rel. Min. Ricardo Lewandowski, DJe 1/7/2013.
+2. Os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 748.371, da Relatoria do Min. Gilmar Mendes.
+3. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+4. In casu, o acórdão recorrido assentou: “APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. FUNDAÇÃO BANRISUL. SALÁRIO-REAL-DE-BENEFÍCIO-ATUALIZADO (SRBA). FATOR PREVIDENCIÁRIO. PAGAMENTO DA DIFERENÇA PELA ENTIDADE PREVIDENCIÁRIA. MANUTENÇÃO DO CONTRATO FIRMADO ENTRE AS PARTES”.
+5. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pela FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. FUNDAÇÃO BANRISUL. SALÁRIO-REAL-DE-BENEFÍCIO-ATUALIZADO (SRBA). FATOR PREVIDENCIÁRIO. PAGAMENTO DA DIFERENÇA PELA ENTIDADE PREVIDENCIÁRIA. MANUTENÇÃO DO CONTRATO FIRMADO ENTRE AS PARTES. [...] Preliminares rejeitadas. Apelação provida em parte” (fl. 40 do volume 6 dos autos eletrônicos).
+    Nas razões do apelo extremo sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, LV, 93, IX, e 202, caput e § 2º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição.
+    É o relatório. DECIDO.
+    Não merece prosperar o agravo.
+    Os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 748.371, da Relatoria do Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Demais disso, a complementação de benefício previdenciário, quando sub judice a controvérsia sobre a aplicação das regras vigentes na época da adesão ao plano de previdência privada, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE n. 742.083–RG, Rel. Min. Ricardo Lewandowski, DJe 1/7/2013, que possui a seguinte ementa:
+    “PREVIDENCIÁRIO. DIREITO ADQUIRIDO AO RECEBIMENTO DE COMPLEMENTAÇÃO DE BENEFÍCIO DE ACORDO COM AS REGRAS VIGENTES NO PERÍODO DE ADESÃO AO PLANO DE PREVIDÊNCIA PRIVADA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Por fim, quanto à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte, nesse sentido, AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 12 de dezembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
