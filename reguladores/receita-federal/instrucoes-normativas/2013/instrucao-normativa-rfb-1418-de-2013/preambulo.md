@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1418, de 10 de dezembro de 2013
+Extingue a obrigatoriedade de apresentação da Declaração de Dedução de Parcela da Contribuição de Intervenção no Domínio Econômico Incidente sobre a Importação e a Comercialização de Combustíveis das Contribuições para o PIS/Pasep e Cofins (DCide-Combustíveis).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Lei nº 10.336, de 19 de dezembro de 2001, no Decreto nº 5.060, de 30 de abril de 2004, e no Decreto nº 7.764, de 22 de junho de 2012, resolve:
