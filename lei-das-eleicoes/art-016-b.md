@@ -1,0 +1,1 @@
+Art. 16-B. O disposto no art. 16-A quanto ao direito de participar da campanha eleitoral, inclusive utilizar o horário eleitoral gratuito, aplica-se igualmente ao candidato cujo pedido de registro tenha sido protocolado no prazo legal e ainda não tenha sido apreciado pela Justiça Eleitoral.
