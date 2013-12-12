@@ -1,0 +1,13 @@
+Petições/STF nº 51.568/2013 e nº 61.635/2013
+DECISÃO
+MANDADO DE SEGURANÇA – TERCEIRO INTERESSADO – INADEQUAÇÃO.
+    1. O Gabinete prestou as seguintes informações:
+    A Associação dos Juízes Federais do Brasil – AJUFE, entidade de classe de âmbito nacional, busca ingressar no processo, na qualidade de assistente litisconsorcial ou terceira interessada. Informa congregar os magistrados da Justiça Federal de primeiro e segundo graus, assim como os ministros do Superior Tribunal de Justiça e do Supremo Tribunal Federal, tendo entre as finalidades institucionais a representação judicial e extrajudicial dos interesses da classe. Anota atuar na defesa das prerrogativas da categoria e não de pretensões individuais. Argumenta que a figura do terceiro interessado é admitida pelo Tribunal inclusive em processos de índole subjetiva, nos casos em que a questão debatida revela transcendência, evocando, em abono da tese, decisão proferida no Mandado de Segurança nº 32.033, da relatoria do ministro Gilmar Mendes. Aponta os vícios no ato impugnado na ação mandamental, pleiteando o deferimento da ordem.
+    Em novas razões, salienta tratar-se de controvérsia de interesse institucional, por alcançar prerrogativas constitucionais invioláveis da magistratura. Pede a extensão dos efeitos do pronunciamento liminar ao associado Gilberto Rodrigues Jordan, não integrado à relação processual, salientando estar este em situação idêntica à do impetrante, pois investigados pelos mesmos fatos em processo administrativo disciplinar em curso. Esclarece ter apresentado o requerimento ao Conselho Nacional de Justiça, que não foi conhecido.
+    O processo encontra-se concluso para apreciação do pleito.
+    2. Observem a regência do mandado de segurança, a direcionar à excepcionalidade da intervenção de terceiros. Consoante disposto no artigo 24 da Lei nº 12.016/09, são aplicáveis ao processo alusivo à impetração os artigos 46 a 49 do Código de Processo Civil. A falta de referência ao artigo 50, no que versa a participação de terceiro juridicamente interessado, é eloquente. Admite-se o litisconsórcio, mas exclui-se a participação de terceiro na relação jurídica processual subjetiva, ainda que tenha interesse jurídico. Entender pertinente a integração é assentar que, toda vez que estiver em discussão tema ligado à investigação ou punição de magistrados, caberá a intervenção.
+    3. Indefiro o pedido de ingresso formalizado e, por consequência, declaro prejudicado o pleito de extensão. Devolvam à requerente as peças apresentadas.
+    4. Publiquem.
+Brasília, 12 de dezembro de 2013.
+Ministro MARCO AURÉLIO
+Relator
