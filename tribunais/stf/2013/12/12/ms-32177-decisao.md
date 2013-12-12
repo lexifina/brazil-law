@@ -1,0 +1,20 @@
+Decisão:
+    Ementa: MANDADO DE SEGURANÇA. IMPUGNAÇÃO DE ATO JURISDICIONAL DESTA CORTE.
+    1. Não se admite a impetração de mandado de segurança contra ato de natureza jurisdicional proferido por este Tribunal, salvo em situação de grave teratologia, não sendo esse o caso dos autos.
+    2. Mandado de segurança a que se nega seguimento.
+    1. Trata-se de mandado de segurança impetrado contra acórdão da Segunda Turma deste Tribunal, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO CONTRA DECISÃO PROFERIDA POR TRIBUNAL REGIONAL DO TRABALHO. DESCABIMENTO. APLICAÇÃO DA SÚMULA 281 DO STF. AGRAVO IMPROVIDO.
+    I - A jurisprudência desta Corte é firme no sentido de que não cabe recurso extraordinário para o Supremo Tribunal Federal contra qualquer decisão proferida por Tribunais Regionais do Trabalho, tendo em vista que o acesso a esta Corte pela via recursal extraordinária, nos processos trabalhistas, só será possível quando se tratar de decisões proferidas pelo Tribunal Superior do Trabalho. Precedentes.
+    II – Agravo regimental improvido. ”
+    2. Em síntese, a parte impetrante alega que a aplicação, ao caso, da Súmula 281/STF (“É inadmissível o recurso extraordinário, quando couber, na justiça de origem, recurso ordinário da decisão impugnada.”) violaria o art. 5º, XXXV, da Constituição Federal.
+    3. É o relatório. DECIDO.
+    4. A jurisprudência desta Corte se firmou no sentido de que é incabível a impetração de mandado de segurança contra ato jurisdicional proferido por seus órgãos (Plenário, Turmas e Ministros). De fato, o sistema processual seria desfuncional se, esgotados os recursos cabíveis, os acórdãos do órgão máximo da jurisdição nacional ainda pudessem ser continuamente impugnados pela via do mandado de segurança. De duas, uma: ou cabem recursos e estes devem ser interpostos, ou bem não há mais recursos viáveis e a decisão transitou em julgado. Em qualquer dos casos, não há espaço para o writ. Confiram-se os precedentes:
+    “Não cabe mandado de segurança contra julgamentos impregnados de conteúdo jurisdicional, não importando se monocráticos ou colegiados, proferidos no âmbito do Supremo Tribunal Federal. É que tais decisões, ainda quando emanadas de Ministro-Relator, somente serão suscetíveis de desconstituição mediante utilização dos recursos pertinentes, ou, tratando-se de pronunciamentos de mérito já transitados em julgado, mediante ajuizamento originário da pertinente ação rescisória. Precedentes.” (MS 28.097 AgR/DF, Rel. Min. Celso de Mello)
+    “Agravo Regimental em Mandado de Segurança. 2. Decisão que negou seguimento ao mandado de segurança, julgando prejudicado o pedido de medida liminar. 3. Cabimento de mandado de segurança contra ato jurisdicional deste Supremo Tribunal Federal passível de recurso. Aplicação da Súmula 267/STF. 4. Agravo Regimental improvido.” (MS 25.413 AgR/DF, Rel. Min. Gilmar Mendes)
+    “A jurisprudência do Supremo Tribunal Federal orienta-se no sentido da inadmissibilidade de mandado de segurança contra ato jurisdicional da Corte.” (MS 21.734 AgR/DF, Rel. Min. Ilmar Galvão)
+    5. Note-se que não há, no caso, sequer uma sombra de teralogia, capaz de justificar um abrandamento da orientação acima. Isso porque, além de basear-se em precedentes desta Corte, o acórdão impugnado ainda registrou – em sentido inverso ao afirmado pela parte impetrante – “que não se aplicaria ao caso a Súmula 218 do TST, visto que o recurso extraordinário foi interposto contra acórdão do Tribunal Regional do Trabalho da 3ª Região que julgou recurso ordinário.” Sendo inaplicável o enunciado do TST, a impetrante deveria ter esgotado a competência da Justiça do Trabalho antes de interpor o recurso extraordinário (Súmula 281/STF).
+    6. Diante do exposto, com base no art. 10 da Lei nº 12.016/2009 e no art. 21, § 1º, do RI/STF, nego seguimento ao presente mandado de segurança.
+    Publique-se.
+          Brasília, 12 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
