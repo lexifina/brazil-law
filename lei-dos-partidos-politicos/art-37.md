@@ -5,3 +5,5 @@ Art. 37. A falta de prestação de contas ou sua desaprovação total ou parcial
 § 4º Da decisão que desaprovar total ou parcialmente a prestação de contas dos órgãos partidários caberá recurso para os Tribunais Regionais Eleitorais ou para o Tribunal Superior Eleitoral, conforme o caso, o qual deverá ser recebido com efeito suspensivo.
 § 5º As prestações de contas desaprovadas pelos Tribunais Regionais e pelo Tribunal Superior poderão ser revistas para fins de aplicação proporcional da sanção aplicada, mediante requerimento ofertado nos autos da prestação de contas.
 § 6º O exame da prestação de contas dos órgãos partidários tem caráter jurisdicional.
+§ 7º (VETADO).
+§ 8º (VETADO).
