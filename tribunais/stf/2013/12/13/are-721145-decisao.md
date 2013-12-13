@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal de Justiça de Minas Gerais, por meio da decisão monocrática de fl. 252, que determinou a devolução dos autos para que se cumprisse o disposto no art. 543-B do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral no tema 4, no RE-RG 566.621.
+    Chegando ao tribunal de origem, os autos foram reenviados ao STF, com a alegação de que a matéria tratada no paradigma da repercussão geral indicado não foi apreciada no âmbito do Tribunal de origem.
+    Decido.
+    Verifico, após detida análise, que a vinculação ao precedente indicado está equivocada, tendo em vista que a matéria debatida nos autos é diversa do paradigma vinculado por esta Corte, motivo pelo qual reconsidero a decisão e passo ao julgamento do recurso.
+    Trata-se de agravo contra decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Minas Gerais ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. RECURSO MANIFESTAMENTE CONTRÁRIO A ENTENDIMENTO PACIFICADO NOS TRIBUNAIS SUPERIORES. O recurso fundado em matéria já pacificada pelos Tribunais Superiores e que não traz qualquer novação quanto a tese albergada pela súmula editada apresenta manifesta improcedência e não deve ser conhecido. Preliminar acolhida. Recurso não conhecido”. (fl. 167)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a” e “b”, da Constituição Federal, aponta-se violação ao art. 5º, XXXVI, do texto constitucional.
+    Nas razões recursais, sustenta-se afronta aos princípios do direito adquirido, do ato jurídico e da coisa julgada. Argumenta-se que o prazo prescricional para a propositura da ação de repetição de indébito é de cinco anos, com base na Lei Complementar 118/2005.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, saliente-se que o tema referente ao termo a quo do prazo prescricional da ação de repetição de indébito relativa a tributos sujeitos a lançamento por homologação e pagos antecipadamente não foi objeto de apreciação na decisão recorrida, faltando-lhe, portanto, o requisito do prequestionamento (Enunciados 282 e 356 da Súmula do STF).
+    Além disso, no tocante ao mérito, o entendimento desta Corte é no sentido de que a questão concernente à devolução de valores retidos a título de imposto de renda incidente sobre férias e licença-prêmio pagos em pecúnia é de índole infraconstitucional. Desse modo, a ofensa ao texto constitucional, caso existente, seria indireta ou reflexa, o que torna inviável o recurso extraordinário. Nesse sentido, confiram-se os seguintes julgados:
+    “RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA ACÓRDÃO QUE DEFERIU PRETENSÃO DE DEVOLUÇÃO DE VALORES RETIDOS A TÍTULO DE IMPOSTO DE RENDA INCIDENTE SOBRE FÉRIAS E LICENÇA-PRÊMIO PAGOS EM PECÚNIA. ALEGAÇÃO DE AFRONTA AOS ARTS. 150, I; 153, III, e § 2º, II, DA CONSTITUIÇÃO FEDERAL. Questão insuscetível de ser apreciada senão por via da legislação infraconstitucional reguladora da matéria, procedimento inviável em sede de recurso extraordinário, onde não tem guarida alegação de afronta reflexa e indireta à Constituição Federal. Inexistência, ademais, de ofensa ao princípio relativo à competência tributária da União, em face da norma inserta no art. 157, I, da CF. Recurso extraordinário não conhecido”. (RE 229.461, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 16.4.1999)
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA. FÉRIAS E LICENÇA PRÊMIO PAGOS EM PECÚNIA. I. - Férias e licença-prêmio em pecúnia: não-incidência do imposto de renda, dado o seu caráter indenizatório. Matéria infraconstitucional: não-cabimento do RE. II. - Negativa de trânsito ao RE. Agravo não provido”. (RE-AgR 380.022, Rel. Min. Carlos Velloso, Segunda Turma, DJ 27.8.2004)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 13 de dezembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
