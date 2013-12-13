@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recursos extraordinários interpostos contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 462):
+    “MANDADO DE SEGURANÇA – SERVIDORES PÚBLICOS ESTADUAIS EM ATIVIDADE – SISTEMA DE SEGURIDADE FUNCIONAL – OBJETIVO – DESOBRIGAÇÃO DA CONTRIBUIÇÃO COMPULSÓRIA DE 14% (QUATORZE POR CENTO) SOBRE A PARCELA DOS VENCIMENTOS SUPERIOR A R$ 1.200,00 (HUM MIL E DUZENTOS REAIS), PARA O CUSTEIO DO FUNDO DE PREVIDÊNCIA E DE 2% (DOIS POR CENTO) PARA O FUNDO DE ASSISTÊNCIA MÉDICO-HOSPITALAR, ESTABELECIDAS PELOS ARTS. 78, INCISO II E 79, DA LEI N° 12.398/98 E PELOS ARTS. 4°, INCISO II E 12, DO DECRETO N° 721/99. CONCESSÃO”.
+    Os recursos foram interpostos com fundamento no art. 102, III, a, da Constituição Federal. Os recorrentes alegam violação aos arts. 5º, XX; 149; 150, I e IV; 170, IV; 194, parágrafo único e V; 195, § 9°; e 220, todos da Constituição.
+    A Procuradoria-Geral da República, em parecer, opina pelo conhecimento do recurso e seu não provimento.
+    Os recursos extraordinários não devem ser providos, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada à jurisprudência do Supremo Tribunal Federal. Com efeito, o Plenário desta Corte, no julgamento do RE 573.540-RG, julgado sob a relatoria do Ministro Gilmar Mendes, reconheceu a existência de repercussão geral da matéria ora discutida e firmou o entendimento de que os Estados-membros não podem instituir contribuição compulsória para custeio da saúde de seus servidores. Vejam-se a ementa do referido julgado:
+    “CONTRIBUIÇÃO PARA O CUSTEIO DOS SERVIÇOS DE ASSISTÊNCIA MÉDICA, HOSPITALAR, ODONTOLÓGICA E FARMACEÚTICA. ART. 85 DA LEI COMPLEMENTAR Nº 62/2002, DO ESTADO DE MINAS GERAIS. NATUREZA TRIBUTÁRIA. COMPULSORIEDADE. DISTRIBUIÇÃO DE COMPETÊNCIAS TRIBUTÁRIAS. ROL TAXATIVO. INCOMPETÊNCIA DO ESTADO-MEMBRO. INCONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO NÃO PROVIDO.
+    I – É nítida a natureza tributária da contribuição instituída pelo art. 85 da Lei Complementar nº 64/2002, do Estado de Minas Gerais, haja vista a compulsoriedade de sua cobrança.
+    II – O art. 149, caput , da Constituição atribui à União a competência exclusiva para a instituição de contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais e econômicas. Essa regra contempla duas exceções, contidas no arts. 149, § 1º, e 149-A da Constituição. À exceção desses dois casos, aos Estados-membros não foi atribuída competência para a instituição de contribuição, seja qual for a sua finalidade.
+    III – A competência, privativa ou concorrente, para legislar sobre determinada matéria não implica automaticamente a competência para a instituição de tributos. Os entes federativos somente podem instituir os impostos e as contribuições que lhes foram expressamente outorgados pela Constituição.
+    IV – Os Estados-membros podem instituir apenas contribuição que tenha por finalidade o custeio do regime de previdência de seus servidores. A expressão regime previdenciário não abrange a prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos.”
+    Diante do exposto, com base no art. 557, caput, o CPC e no art. 21, §1º do RI/STF, nego seguimento aos recursos extraordinários.
+    Publique-se.
+          Brasília, 13 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
