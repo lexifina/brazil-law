@@ -1,0 +1,9 @@
+Art. 98-B. As associações de gestão coletiva de direitos autorais, no desempenho de suas funções, deverão:
+I - dar publicidade e transparência, por meio de sítios eletrônicos próprios, às formas de cálculo e critérios de cobrança, discriminando, dentre outras informações, o tipo de usuário, tempo e lugar de utilização, bem como os critérios de distribuição dos valores dos direitos autorais arrecadados, incluídas as planilhas e demais registros de utilização das obras e fonogramas fornecidas pelos usuários, excetuando os valores distribuídos aos titulares individualmente;
+II - dar publicidade e transparência, por meio de sítios eletrônicos próprios, aos estatutos, aos regulamentos de arrecadação e distribuição, às atas de suas reuniões deliberativas e aos cadastros das obras e titulares que representam, bem como ao montante arrecadado e distribuído e aos créditos eventualmente arrecadados e não distribuídos, sua origem e o motivo da sua retenção;
+III - buscar eficiência operacional, dentre outros meios, pela redução de seus custos administrativos e dos prazos de distribuição dos valores aos titulares de direitos;
+IV - oferecer aos titulares de direitos os meios técnicos para que possam acessar o balanço dos seus créditos da forma mais eficiente dentro do estado da técnica;
+V - aperfeiçoar seus sistemas para apuração cada vez mais acurada das execuções públicas realizadas e publicar anualmente seus métodos de verificação, amostragem e aferição;
+VI - garantir aos associados o acesso às informações referentes às obras sobre as quais sejam titulares de direitos e às execuções aferidas para cada uma delas, abstendo-se de firmar contratos, convênios ou pactos com cláusula de confidencialidade;
+VII - garantir ao usuário o acesso às informações referentes às utilizações por ele realizadas.
+Parágrafo único. As informações contidas nos incisos I e II devem ser atualizadas periodicamente, em intervalo nunca superior a 6 (seis) meses.
