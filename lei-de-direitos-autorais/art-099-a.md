@@ -1,0 +1,2 @@
+Art. 99-A. O ente arrecadador de que trata o caput do art. 99 deverá admitir em seus quadros, além das associações que o constituíram, as associações de titulares de direitos autorais que tenham pertinência com sua área de atuação e estejam habilitadas em órgão da Administração Pública Federal na forma do art. 98-A.
+Parágrafo único. As deliberações quanto aos critérios de distribuição dos recursos arrecadados serão tomadas por meio do voto unitário de cada associação que integre o ente arrecadador.
