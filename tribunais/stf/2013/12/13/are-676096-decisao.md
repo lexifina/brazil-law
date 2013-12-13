@@ -1,0 +1,21 @@
+Contra o juízo negativo de admissibilidade da Presidência da Terceira Turma de Recursos do Tribunal de Justiça do Estado de Santa Catarina, maneja agravo Ademir Pedro Nicolini com vista a assegurar o trânsito do recurso extraordinário que interpôs. Oposto na origem o óbice da inviabilidade do reexame de fatos e provas.
+    O Juízo de Direito da 3ª Vara Criminal da Comarca de Chapecó/SC condenou o Recorrente ao pagamento de 10 (dez) dias-multa e à prestação de serviços à comunidade, por 3 (três) meses e 10 (dez) dias, pela prática da contravenção penal prevista no art. 50 do Decreto-Lei 3.688/41, c/c art. 65, III, d, do Código Penal.
+    Em sede de apelação, o Tribunal de Justiça do Estado de Santa Catarina negou provimento ao recurso defensivo em acórdão assim ementado:
+    “CONTRAVENÇÃO PENAL. EXPLORAÇÃO DE MÁQUINAS CAÇA-NÍQUEIS. JOGO DE AZAR. APLICAÇÃO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE.
+    “[...] Tampouco os argumentos de ordem sociológica permitem, ao meu sentir, o afastamento da ilicitude da conduta, notadamente porque não podem ser objeto de comparação, considerada a legislação atual, a exploração de loterias pela CEF, mediante atividade regulamentada, fiscalizada e com destinação para fins sociais de parte da arrecadação, com a atividade desenvolvida pelo particular, ao desamparo de regulamentação e fiscalização e sem qualquer destinação social de parte dos valores arrecadados. [...]” (TR-RS, RCri. nº 71002767697, de Osório, Juiz Luiz Antônio Alves Capra, j. 08/11/2010)
+    FATOS E AUTORIA DEVIDAMENTE COMPROVADOS. DESNECESSIDADE DE PERÍCIA. FATO TÍPICO E ANTIJURÍDICO.
+    “[...] 2. Tipicidade da conduta. A apreensão da máquina caça-níquel, que se encontrava ligada e com dinheiro em seu interior, se presta para satisfazer aos verbos nucleares do tipo “estabelecer” e “explorar” jogo de azar. Traço marcante, em relação ao jogo de azar, nos moldes em que definido na alínea “a” do parágrafo 3º do artigo 50 da Lei de Contravenções Penais, é que o seu resultado não depende da inteligência e habilidade do jogador, mas tão somente da sorte deste, tornando desnecessária, assim, a realização de perícia nos equipamentos. Tese de descriminalização da conduta que não merece guarida. [...]” (TR-RS. RCri. nº 71002767697, de Osório, Juiz Luiz Antônio Alves Capra, j. 08.11.2010)”.
+    Opostos embargos de declaração, foram rejeitados.
+    Inconformado, Ademir Pedro Nicolini manejou recurso extraordinário ao argumento da violação dos arts. 1º, III, e 5º, XXXIX, LIV e LV, da Constituição Federal, reputando atípica a conduta que lhe foi imputada.
+    A inadmissão do apelo extremo pela Corte de origem resultou na interposição do presente agravo.
+    É o relatório.
+    Decido.
+    Verifico que a alegada violação dos arts. 1º, III, e 5º, XXXIX, LIV e LV, da Constituição Federal não se encontra prequestionada, porque não abordada pelo acórdão recorrido, tampouco nos embargos de declaração para satisfazer o requisito do prequestionamento. Constato, pois, o óbice das Súmulas STF 282 e 356.
+    A jurisprudência sedimentada desta Corte não admite o chamado prequestionamento implícito. Nesse sentido, colaciono, dentre outros, os seguintes julgados, que, por si sós, demonstram a inviabilidade da pretensão recursal do recorrente: AI 508.555-AgR/MG, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 14.10.2005; RE 217.849-AgR/ES, Rel. Min. Eros Grau, 1ª Turma, DJ 05.8.2005; AI 413.963-AgR/SC, Rel. Min. Celso de Mello, 2ª Turma, DJ 1º.4.2005; e AI 253.566-AgR/RS, 1ª Turma, Rel. Min. Sepúlveda Pertence, DJ 03.3.2000.
+    Além disso, este Tribunal entendeu que, em regra, a alegação de desrespeito aos postulados do devido processo legal, do contraditório e da ampla defesa, se existentes, seria meramente reflexa ou indireta, cujo exame se mostra inviável nesta sede recursal. Nesse sentido, o AI 372.358-AgR, Rel. Min. Celso de Mello, 2ª Turma, DJ 28.6.2002.
+    Ainda que superado tais óbices, melhor sorte não teria o Recorrente, pois a apreciação da questão da materialidade delitiva demandaria o revolvimento de fatos e provas da causa, inviável em sede extraordinária (Súmula 279/STF).
+    Ante o exposto, nego seguimento ao agravo, forte no art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 13 de dezembro de 2013.
+Ministra Rosa Weber
+Relatora
