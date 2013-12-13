@@ -1,0 +1,1 @@
+Art. 100-A. Os dirigentes das associações de gestão coletiva de direitos autorais respondem solidariamente, com seus bens particulares, por desvio de finalidade ou quanto ao inadimplemento das obrigações para com os associados, por dolo ou culpa.
