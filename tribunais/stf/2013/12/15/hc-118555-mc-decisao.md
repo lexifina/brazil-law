@@ -1,0 +1,17 @@
+DECISÃO
+BUSCA E APREENSÃO – SECRETARIA DE ESTADO DA FAZENDA – IMPLEMENTO – LIMINAR DEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente foi condenado pelo Juízo da 7ª Vara da Circunscrição Judiciária de Brasília a cumprir pena de quatro anos, três meses e vinte dias de detenção, ante o cometimento dos crimes previstos no artigo 1º, incisos II e V, da Lei nº 8.131/1990, na forma do artigo 71 do Código Penal. O recurso de apelação não frutificou, havendo sido formalizada impetração no Superior Tribunal de Justiça – nº 242.750/DF –, que não admitiu a ordem, consignando:
+    1 Os documentos e livros que se relacionam com a contabilidade de empresa não estão protegidos por nenhum tipo de sigilo e são, inclusive, de apresentação obrigatória por ocasião das atividades fiscais;
+    2 A apreensão de documentos pela administração fazendária tem respaldo legal e na jurisprudência;
+    3 O habeas corpus não comporta o exame de questões que, para seu deslinde, demandem aprofundado exame do conjunto fático-probatório, peculiar ao processo de conhecimento.
+    O impetrante insiste na assertiva de ser absolutamente nula a prova que teria embasado a condenação do paciente, porquanto ilícita. Afirma que agentes da Secretaria de Estado de Fazenda do Distrito Federal efetivaram, sem ordem judicial, busca e apreensões no escritório da empresa do paciente, concluindo pela prática de sonegação. Alega, com base em parecer da lavra do professor doutor Antonio Scarance Fernandes, titular da Faculdade de Direito da Universidade de São Paulo, que os espaços privados não abertos ao público estão inseridos no conceito de “casa” para os fins dos artigos 150, § 4º, do Código Penal e 246 do Código de Processo Penal. Assevera que a fiscalização tributária sujeita-se às limitações impostas no texto constitucional, em particular aos direitos e garantias fundamentais. Sustenta a necessidade de ordem judicial para a apreensão de documentos particulares por agentes fiscais tributários. Aduz que a apreensão de documentos, no escritório da empresa, sem mandado judicial, por fiscais tributários implica violação aos artigos 5º, incisos X, XI e XII, 145, § 1º, da Carta Federal e 195, cabeça, do Código Tributário Nacional, bem como contamina a prova constituída nessas peças, tornando-a ilícita. Diz que a condenação respaldada em prova imprestável acarreta afronta ao postulado do devido processo legal. Informa ainda não haver sido expedido o mandado de prisão. Ressalta a iminência da custódia ante o trânsito em julgado do acórdão condenatório.
+    Requer, em âmbito liminar, seja recolhido, até o julgamento final deste habeas, o mandado de prisão expedido contra o paciente. No mérito, pugna pela confirmação da providência, anulando-se todo o processo desde o oferecimento da denúncia.
+    O processo encontra-se concluso para apreciação do pedido de concessão de medida acauteladora.
+    2. O tema versado neste habeas possui importância maior presente a privacidade e o afastamento apenas mediante ordem judicial. O Colegiado há de definir se órgão administrativo da Fazenda Pública pode implementar busca e apreensão sem estar formalmente autorizado pela Justiça.
+    3. Defiro a liminar pleiteada. Procedam ao recolhimento do mandado de prisão expedido contra o paciente.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 15 de dezembro de 2013, às 11h50.
+Ministro MARCO AURÉLIO
+Relator
