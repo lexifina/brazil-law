@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto contra acórdão proferido em apelação cível. O Tribunal de Justiça do Estado do Rio Grande do Norte decidiu que o ora recorrente é responsável pela obrigação de fazer consistente em providenciar a realização de cirurgia de revascularização pleiteada pela ora recorrida.
+    Nas razões do extraordinário, o recorrente aponta ofensa aos seguintes dispositivos: artigos 2º; 5º; II; 6º; 7º; 150, I; 167, VII; 195; 196; 198, º 1º, 2º e 3º; e 200, I, todos da Constituição Federal.
+    2. Não pode ser conhecido o recurso extraordinário quanto à alegada ofensa aos dispositivos apontados como violados porque as razões recursais apresentadas não guardam pertinência com os fatos tratados no acórdão recorrido. De um lado, o aresto trata da obrigação de realização de procedimento cirúrgico; de outro, a peça recursal discute a obrigação de fornecimento de medicamento não discriminado na lista do Programa de Dispensação de Medicamentos.
+    Conforme consta do acórdão recorrido:
+    “A questão posta na presente Apelação cinge-se na possibilidade de se reformar a sentença vergastada para afastar a obrigação de fazer imposta pelo juiz a quo, em sede de ação de obrigação de fazer, objetivando a realização de cirurgia de revascularização.
+    (...)
+    Dessa forma, constatado que a apelante necessita do procedimento cirúrgico devidamente prescrito, indispensável a minimizar seu sofrimento e que não pode fazê-lo por falta de condições financeira, abe ao Estado, em qualquer de suas esferas, propiciar o tratamento de saúde recomendado.” (e-STJ fl. 130).
+    O recorrente, a seu turno, alega que:
+    (a) “(...)não cabe ao Judiciário, sob pena de violação ao art. 2º da Lex Mater, imiscuir-se na escolha legitimamente feita pelo Executivo para direcionar as verbas orçamentárias – que são finitas – para a compra deste ou daquele medicamento. E, nesse diapasão, ressalte-se que, em caso de medicamento o medicamento requerido não estar previsto na relação adjacente ao Programa de Dispensação de Medicamentos em caráter excepcional, o ônus financeiro recairá unicamente sobre o ente da federação demandado (...)” (e-STJ fl 164);
+    (b) “se a União, Estados e Municípios optaram por estabelecer Programa de Dispensação de medicamentos em caráter excepcional, o fizeram enquanto programa social criado por liberdade do Estado, pois não eram obrigados a fornecer quaisquer fármacos demandados pela população. Assim, não fosse, o outro programa do Governo Federal, o da Farmácia Popular, seria inconstitucional, pois não se poderia exigir do cidadão o pagamento por medicamentos fornecidos pelo Estado, já que seria este obrigado a prestá-los em quantidade e qualidade demandados pela população.” (e-STJ fl. 167);
+    (c) “Em face das considerações expostas, deve ser reformado integralmente o v. Acórdão proferido pelo eg. Tribunal de Justiça potiguar, para se reconhecer a impossibilidade do Estado fornecer o medicamento eleito pela recorrida para tratar a sua doença, uma vez que não está inserida no âmbito do Programa de Dispensação de Medicamentos em caráter excepcional, legitimamente fixado pelo Estado, pois o mesmo viola todos os dispositivos constitucionais acima discriminados.” (e-STJ fl. 168).
+    Desse modo, por apresentar razões recursais dissociadas do julgado recorrido, invocando teses referentes a objeto diverso do postulado na inicial, impõe-se a aplicação da Súmula 284 do STF.
+    3. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 16 de dezembro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
