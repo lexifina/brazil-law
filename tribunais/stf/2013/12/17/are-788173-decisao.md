@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita, no que importa:
+    “RECURSO DE REVISTA. FÉRIAS REMUNERADAS FORA DO PRAZO PREVISTO NO ART. 145 DA CLT - PAGAMENTO EM DOBRO. A gênese do instituto das férias está vinculada à necessidade de eliminar a fadiga ocasionada pelo trabalho, possibilitando a recuperação da integridade física, mental e emocional do trabalhador e a sua inserção nos ambientes familiar e social. Para tanto, o art. 145 da CLT determina o pagamento da remuneração das férias com antecedência mínima de dois dias de seu início. A quitação antecipada das férias, em verdade, propicia condições para a prática de atividades (culturais, recreativas, religiosas etc.) que restabeleçam tal equilíbrio e possibilitem um maior convívio familiar e comunitário. O pagamento a destempo desvirtua o objetivo do instituto. Assim, a inobservância do prazo a que alude o art. 145 da CLT enseja a dobra das férias, na forma do art. 137 daquele Texto, aplicado analogicamente. Precedentes. Recurso de revista conhecido e provido” (doc. 8 – grifos no original).
+    No RE (doc. 22), fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º , 5º, II, 7º, XVII, e 59 da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o Tribunal de origem decidiu a causa nos seguintes termos:
+    “A CLT, ao disciplinar o instituto, estabeleceu prazos para a concessão e pagamento do benefício. A obrigação do empregador, portanto, não reside, apenas, na concessão das férias no período a que alude o art. 134 consolidado, mas, também, na remuneração tempestiva, na forma do art. 145 do mesmo diploma legal.
+    Assim dispõe o art. 137 da CLT:
+    'Sempre que as férias forem concedidas após o prazo de que trata o art. 134, o empregador pagará em dobro a respectiva remuneração'.
+    Dessa forma, tendo em vista a dupla obrigação do empregador - conceder e pagar -, com prazos legalmente estipulados, conclui-se que não apenas a concessão fora do prazo enseja o pagamento em dobro das férias, mas também a remuneração a destempo, aplicando-se, analogicamente, o disposto no art. 137 da CLT” (pág. 5 do doc. 8).
+     Nesse contexto, resta claro que para se chegar à conclusão contrária à adotada pelo Tribunal Superior do Trabalho, necessário seria o reexame de normas infraconstitucionais aplicáveis a espécie (arts. 137 e 145 da CLT), o que inviabiliza o extraordinário. Nesse sentido:
+    “1. Tratou o recurso extraordinário de matéria processual referente ao reexame do julgamento dos embargos de declaração opostos na instância de origem.
+    2. A discussão em torno do pagamento em dobro das férias não concedidas ao agravado também reside no âmbito infraconstitucional, o que veda a admissão do extraordinário.
+    3. Agravo regimental a que se nega provimento” (AI 322.067-AgR/SP, Rel. Min. Ellen Gracie – grifos meus).
+    Indico, no mesmo sentido, as seguintes decisões proferidas em casos análogos: ARE 697.204/DF, Rel. Min. Cármen Lúcia; ARE 697.241/DF, de minha relatoria; ARE 687.520/DF, Rel. Min. Gilmar Mendes; ARE 675.315/SC, Rel. Min. Luiz Fux.
+    Ademais, este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Nesse sentido, cito as seguintes decisões: AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de dezembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
