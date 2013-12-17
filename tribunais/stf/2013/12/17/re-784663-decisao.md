@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto contra acórdão que negou provimento ao recurso inominado, por entender que o Estado de São Paulo possui legislação específica acerca da aposentadoria especial dos policiais militares.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 1º, caput e parágrafo único, 5º, caput, II, XXXV e LXXI, 40, § 4º, II e III, e 42, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, observo que, à exceção do art. 40, § 4º, da Lei Maior, os demais dispositivos constitucionais suscitados não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional local aplicável à espécie (Decreto-lei 260/1970). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, transcrevo as ementas dos seguintes julgados desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. MILITAR. APOSENTADORIA ESPECIAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 750.721-AgR/SP, Rel. Min. Cármen Lúcia).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR. APOSENTADORIA ESPECIAL. DECRETO-LEI 260/1970. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. ALEGADA CONTRARIEDADE AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. AGRAVO IMPROVIDO.
+    I - Inviável o recurso extraordinário quando sua apreciação demanda reexame, por esta Corte, da legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 do STF.
+    II - O Tribunal, por meio de remansosa jurisprudência, entende que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes.
+    III - Não há contrariedade ao art. 93, IX, da Constituição quando o acórdão recorrido encontra-se suficientemente fundamentado. Precedentes.
+    IV - Agravo regimental improvido” (ARE 721.229-AgR/SP, de minha relatoria)
+    Com esse mesmo raciocínio, destaco as seguintes decisões: ARE 701.344/SP, Rel. Min. Marco Aurélio; ARE 721.232/SP, Rel. Min. Cármen Lúcia; ARE 682.591/SP, Rel. Min. Joaquim Barbosa; ARE 721.236/SP, de minha relatoria.
+    Por fim, não prospera a alegação do agravante no sentido da aplicabilidade do entendimento firmado no julgamento do MI 721/DF, tendo em vista que o acórdão recorrido afastou a alegação de omissão legislativa, reconhecendo o Decreto-Lei 260/1970 como a norma disciplinadora das aposentadorias de policiais militares do Estado de São Paulo.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de dezembro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
