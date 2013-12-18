@@ -1,0 +1,36 @@
+AÇÃO CAUTELAR. PROCESSO DE INVENTÁRIO. COISA JULGADA. LIMITES OBJETIVOS. OFENSA REFLEXA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE VIABILIDADE PROCESSUAL DO RECURSO. AÇÃO CAUTELAR À QUAL SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de ação cautelar, com pedido de medida liminar, ajuizada pelo Espólio de José Alan Alves Cezimbra, em que se postula a concessão de efeito suspensivo a recurso extraordinário com agravo, que foi interposto contra decisão que inadmitiu o apelo extremo por ofensa indireta à Constituição. Na referida decisão restou assentado:
+    “Trata-se de recurso extraordinário interposto por JOSÉ ALAN ALVES CEZIMBRA - ESPÓLIO E OUTROS, com fundamento na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+    ‘AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. LITISCONSORTE NECESSÁRIO. CITAÇÃO. DESÍDIA DOS IMPETRANTES. EXTINÇÃO DO PROCESSO.
+    1. Reconhecida a existência de litisconsórcio necessário pela Corte de origem em decisão que não fora objeto de impugnação, e não providenciado o ato citatório pelos impetrantes, é de rigor a extinção do processo sem resolução do mérito com supedâneo no art. 47 do CPC.
+    2. Precedentes da Excelsa Corte e deste Egrégio Superior Tribunal de Justiça acerca da desnecessidade de intimação pessoal da parte para que se proceda à extinção do feito.
+    3. AGRAVO REGIMENTAL DESPROVIDO.’
+    Sustenta a parte recorrente, além da existência de repercussão geral, contrariedade ao art. 5º, caput da Constituição Federal, que trata dos princípios da segurança jurídica e coisa julgada.
+    Sem contrarrazões (fl. 805).
+    Decido.
+    O presente recurso extraordinário não deve ser admitido, porquanto o STF já decidiu reiteradas vezes que a verificação, em cada caso concreto, da ocorrência ou não de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada não desafia a instância extraordinária, visto situar-se no âmbito infraconstitucional.
+    Desse modo, a análise da suposta violação ao art. 5º, caput da Constituição Federal demandaria, necessariamente, o exame de normas infraconstitucionais aplicáveis ao caso, configurando, quando muito, situação de ofensa meramente reflexa à Constituição Federal.
+    A este respeito, confiram-se os precedentes colacionados:
+    ‘Agravo regimental no recurso extraordinário. Servidor público. Leis municipais nºs 10.688/88, 10.722/89, 11.722/95 e 12.397/97. Ausência de repercussão geral. Coisa julgada. Limites objetivos. Ofensa reflexa. Precedentes.
+    1. Ausência de repercussão geral do tema relativo à aplicação dos índices de reajustes remuneratórios previstos nas Leis municipais nºs 10.688/88, 10.722/89, 11.722/95 e 12.397/97.
+    2. É firme a jurisprudência desta Corte de que não se presta o recurso extraordinário à verificação dos limites objetivos da coisa julgada, pois trata-se de controvérsia de índole eminentemente infraconstitucional.
+    3. Agravo regimental não provido.’ (RE 598.045 AgR/SP, Primeira Turma, Rel. Min. Dias Toffoli, DJe 10/11/2011)
+    ‘DIREITO PROCESSUAL CIVIL E PROCESSUAL DO TRABALHO. ART. 557, DO CPC. JULGAMENTO MONOCRÁTICO: POSSIBILIDADE. ALEGAÇÃO DE VIOLAÇÃO AO ART. 5º, XXXV, XXXVI E LIV, DA CF/88. OFENSA REFLEXA. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+    1. O art. 557 do CPC autoriza o relator a negar seguimento a recurso que esteja em confronto com súmulas ou jurisprudência do tribunal onde é julgado. Precedentes.
+    2. A jurisprudência dessa Corte está sedimentada no sentido de que as alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório, ampla defesa e juiz natural –, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+    3. O Supremo Tribunal Federal manifestou-se pela inexistência de repercussão geral da matéria no RE 751.478-RG/SP, rel. Min. Dias Toffoli, Plenário Virtual, DJe 20.8.2010. 4. Agravo regimental a que se nega seguimento.’ (RE 583857 AgR, Segunda Turma, Rel. Min. Ellen Gracie, Dje de 16/08/2011).
+    Ante o exposto, não admito o recurso extraordinário.”
+    Nesta ação, a parte autora sustenta a necessidade de atribuição de efeito suspensivo ao recurso para “expedição de ofício ao Senhor Oficial de Registro de Imóveis de Palmas/TO, determinando o retorno da situação anterior à expedição do Oficio nº 508/11 – 1CCIV, datado de 30 de março de 2012, por ordem do Excelentíssimo Senhor Desembargador Bernardino Luz, presidente da 1ª. Câmara Cível do Egrégio Tribunal de Justiça de Tocantins”.
+    É o relatório. Decido.
+    A outorga de efeito suspensivo ao recurso extraordinário reveste-se de caráter excepcional em face do que dispõe o art. 542, § 2º, do CPC, na redação da Lei nº 8.950/94, in verbis:
+    “§ 2º Os recursos extraordinário e especial serão recebidos no efeito devolutivo.”
+    O Supremo Tribunal Federal somente tem admitido essa possibilidade processual quando satisfeitas determinadas condições que a jurisprudência desta Corte assim define:
+    “O recurso extraordinário somente dispõe de efeito devolutivo ( CPC , art. 542, § 2º, na redação dada pela Lei nº 8.950/94). Por isso mesmo, a outorga de efeito suspensivo ao recurso extraordinário - embora processualmente viável em sede cautelar - reveste-se de excepcionalidade absoluta.
+    A concessão de eficácia suspensiva ao apelo extremo, para legitimar-se, supõe a conjugação necessária dos seguintes requisitos: (a) que tenha sido instaurada a jurisdição cautelar do Supremo Tribunal Federal (existência de juízo positivo de admissibilidade do recurso extraordinário, consubstanciado em decisão proferida pelo Presidente do Tribunal de origem), (b) que o recurso extraordinário interposto possua viabilidade processual, caracterizada, dentre outras, pelas notas da tempestividade, do prequestionamento explícito da matéria constitucional e da ocorrência de ofensa direta e imediata ao texto da Constituição, (c) que a postulação de direito material deduzida pela parte recorrente tenha plausibilidade jurídica e (d) que se demonstre , objetivamente, a ocorrência de situação configuradora do periculum in mora . Precedentes” (AC nº 254-QO, Rel. Ministro Celso de Mello).
+    In casu, não vislumbro a viabilidade processual do recurso extraordinário com agravo. Isso porque a decisão recorrida está em harmonia com a jurisprudência desta Suprema Corte, firmada no sentido de que os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 748.371, da Relatoria do Min. Gilmar Mendes.
+    Pelo exposto, nego seguimento à presente ação cautelar, ficando prejudicado o pedido de medida liminar (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de dezembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
