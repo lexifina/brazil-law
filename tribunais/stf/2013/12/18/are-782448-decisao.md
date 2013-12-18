@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 107):
+    “Ação de cobrança. Gratificação de redução de criminalidade instituída pelos Decretos nº 41.931/2009 e 42.243/2010. Sentença de procedência parcial, condenando o Estado à obrigação de incluir o autor nas futuras listas de bonificação, mas entendendo o pedido de pagamento das gratificações como ilíquido. Gratificação que não é destinada tão somente aos policiais que atuam diretamente ao combate da criminalidade, como defendido pelo ente público, mas a todo o regimento que cumpriu as metas estipuladas pela norma instituidora da vantagem. Impossibilidade da autoridade administrativa estabelecer critério não previsto na norma instituidora da vantagem. Inteligência do art. 6º, § 1º do Decreto nº 41.931/2009. Precedentes desta Turma Recursal. Pedido líquido. Boletins internos da PMERJ que consignavam valor nominal do benefício. Conhecimento de ambos os recursos, provimento do recurso do Autor e desprovimento ao reclamo do Estado do Rio de Janeiro.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º e 37 da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que incide, no caso, o óbice da Súmula 280/STF.
+    O recurso extraordinário não deve ser provido. O Tribunal de origem, com fundamento nos Decretos 41.931/2009 e 42.243/2010, entendeu que a Gratificação de Redução de Criminalidade estipuladas pelas normas ordinárias mencionadas não se restringe, apenas, aos policiais que atuam diretamente na redução da criminalidade, mas a todos os policiais que cumprirem metas. Assim, para divergir deste entendimento, seria necessário rever a interpretação dada à legislação infraconstitucional acima mencionada, o que, nessas condições, atrai a incidência da Súmula 280/STF, in verbis:
+    “Por ofensa a direito local não cabe recurso extraordinário”.
+    Nesse mesmo sentido, veja-se o ARE 777.822; Rel.ª Min.ª Cármen Lúcia.
+    Ademais, em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF, in verbis:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
