@@ -1,0 +1,12 @@
+DECISÃO: A jurisprudência do Supremo Tribunal Federal firmou orientação no sentido de que não há direito adquirido do servidor público estatutário à inalterabilidade do regime jurídico pertinente à composição dos vencimentos, desde que – tal como ocorrido na espécie ora em exame – a modificação introduzida por ato legislativo superveniente haja preservado o montante global da remuneração e, em consequência, não tenha provocado decesso de caráter pecuniário.
+    É que, em tal situação, e por se achar assegurada, em sua dimensão financeira global, a percepção do “quantum” nominal até então percebido pelo servidor público, não se revela oponível, ao Estado, por incabível, a garantia constitucional da irredutibilidade de vencimentos:
+    “Não há direito adquirido do servidor público estatutário à inalterabilidade do regime jurídico pertinente à composição dos vencimentos, desde que a eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração e, em conseqüência, não provoque decesso de caráter pecuniário. Em tal situação, e por se achar assegurada a percepção do quantum nominal até então percebido pelo servidor público, não se revela oponível ao Estado, por incabível, a garantia constitucional da irredutibilidade de vencimentos. Precedentes.”
+    (RE 247.013-AgR/SC, Rel. p/ o acórdão Min. CELSO DE MELLO)
+    E é, precisamente, o que ocorre no caso ora em exame, eis que não se registrou, na espécie, redução do valor global pertinente à remuneração até então percebida pela parte ora agravante.
+    Isso significa, portanto, considerados os elementos da presente causa, que o acórdão impugnado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que o Supremo Tribunal Federal firmou na análise da matéria em referência.
+    Cabe enfatizar, de outro lado, que a questão ora em exame foi decidida com base no direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 18 de dezembro de 2013.
+Ministro CELSO DE MELLO
+Relator
