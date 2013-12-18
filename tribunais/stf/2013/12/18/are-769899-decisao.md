@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de dois agravos, um interposto por Francisco Alberto Furtado e outro por Gustavo Lorenzetti Menin, cujos objetos são decisões que negaram seguimento a recursos extraordinários contra acórdão do Tribunal Regional Federal da 3ª Região. Veja-se o seguinte trecho da ementa:
+    “PENAL PROCESSUAL PENAL CRIME DE SONEGAÇÃO FISCAL ART. I, INC. I E IV DA LEI Nº 8.137/90 E ART. 337-A, INC. I E III PRELIMINARES REJEITADAS MATERIALIDADE E AUTORIA DELITIVA SOBEJAMENTE COMPROVADAS RECONHECIMENTO DO ELEMENTO SUBJETIVO (DOLO) POR PARTE DOS APELANTES EXISTÊNCIA DE FARTA PROVA DOCUMENTAL E TESTEMUNHAL CONDENAÇÃO MANTIDA MAJORAÇÃO DA PENA PELA CONTINUIDADE DELITIVA MANTIDA RECURSOS DOS RÉUS IMPROVIDOS CONDENAÇÃO MANTIDA ABSOLVIÇÃO DO CO-RÉU JOÃO YOSHIO MANTIDA NÃO COMPROVADO O DOLO (ELEMENTO SUBJETIVO) EM RELAÇÃO A ESSE ACUSADO RESPONSABILIDADE DO CONTADOR DA EMPRESA NÃO COMPROVADA PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL DEVIDAMENTE FUNDAMENTADA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL CONSEQÜÊNCIAS DOS CRIMES DEVIDAMENTE SOPESADAS NA SENTENÇA RECURSO MINISTERIAL PARCIALMENTE PROVIDO APENAS PARA MAJORAR A PRESTAÇÃO PECUNIÁRIA IMPOSTA EM PRIMEIRO GRAU.
+    (...)”
+    Os recursos buscam fundamento no art. 102, III, a, da Constituição Federal. As partes recorrentes alegam violação ao art. 1º, IIII, e ao art. 5º, XXXV, LIV, LV, LVI, LVII e XLVI, da Constituição.
+    As decisões agravadas negaram seguimento aos recursos, sob os seguintes fundamentos: (i) “o que se pretende discutir é a observância ou não de regras de natureza infraconstitucional”; (ii) incide, nos casos, a Súmula 279/STF.
+    Os recursos estão prejudicados, tendo em vista que o Superior Tribunal de Justiça julgou extinta a punibilidade dos agravantes. Veja-se trecho da decisão proferida nos Embargos de Declaração nos Embargos de Declaração em AREsp 11.284, Rel.ª Min.ª Maria Thereza de Assis Moura:
+    “Nos termos do disposto no art. 69 da Lei nº 11.941/09, o pagamento integral dos débitos oriundos de lançamento tributário que constitui crédito referente a contribuições sociais ou tributos suprimidos, inclusive acessórios, é causa extintiva da punibilidade dos ilícitos tipificados nos artigos 1º e 2º da Lei 8.137/90, 168-A e 337-A do Código Penal.
+    Confirmado à fl.4.803/05 o pagamento integral do débito remanescente objeto da representação fiscal para fins penais, encontra-se extinta a punibilidade dos fatos discutidos nesta ação penal.
+    Isso posto, julgo extinta a punibilidade em relação aos acusados GUSTAVO LORENZETTI MENIN e FRANCISCO ALBERTO FURTADO, pela prática dos delitos previstos nos artigos 1º, incisos I e IV, da Lei nº 8.137/90 e 337-A, inciso III do Código Penal, tendo em vista a quitação da obrigação tributária, com fundamento no artigo 69 da Lei n.º 11.941/09.”
+    Dessa forma, os recurso extraordinários e, consequentemente, os agravos contra as decisões que negaram trânsito aos recursos extraordinários perderam os respectivos objetos.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, IX, do RI/STF, julgo prejudicados os presentes recursos.
+    Publique-se.
+          Brasília, 18 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
