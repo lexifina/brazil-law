@@ -1,0 +1,11 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 385.398-AgR/MG, Rel. Min. CELSO DE MELLO, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora recorrente:
+    “ESTABELECIMENTOS BANCÁRIOS – COMPETÊNCIA DO MUNICÍPIO PARA, MEDIANTE LEI, OBRIGAR AS INSTITUIÇÕES FINANCEIRAS A INSTALAR, EM SUAS AGÊNCIAS, DISPOSITIVOS DE SEGURANÇA – INOCORRÊNCIA DE USURPAÇÃO DA COMPETÊNCIA LEGISLATIVA FEDERAL – RECURSO IMPROVIDO.
+    - O Município dispõe de competência, para, com apoio no poder autônomo que lhe confere a Constituição da República, exigir, mediante lei formal, a instalação, em estabelecimentos bancários, dos pertinentes equipamentos de segurança, tais como portas eletrônicas ou câmaras filmadoras, sem que o exercício dessa atribuição institucional, fundada em título constitucional específico (CF, art. 30, I), importe em conflito com as prerrogativas fiscalizadoras do Banco Central do Brasil. Precedentes.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questão essencialmente idêntica que ora se examina nesta sede recursal (AI 482.212-AgR/SP, Rel. Min. TEORI ZAVASCKI – AI 574.296-AgR/RS, Rel. Min. GILMAR MENDES – RE 681.307-AgR/SP, Rel. Min. CELSO DE MELLO – RE 694.298-AgR/SP, Rel. Min. LUIZ FUX – RE 707.312/SP, Rel. Min. ROSA WEBER, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 18 de dezembro de 2013.
+Ministro CELSO DE MELLO
+Relator
