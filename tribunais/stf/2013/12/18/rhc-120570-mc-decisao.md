@@ -1,0 +1,26 @@
+Penal. Recurso ordinário em habeas corpus. Tráfico de entorpecentes – art. 33 da Lei n. 11.343/2006. Absolvição em primeiro grau e condenação no acórdão da apelação. Não aplicação da minorante do art. 33, § 4º, da Lei de Drogas. Organização criminosa e envolvimento no crime. Apreensão de crack, cocaína e maconha, além de apetrechos para armazenamento e distribuição. Ausência, prima facie, do fumus boni iuris.
+- Liminar indeferida.
+    Decisão: Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto de acórdão do Superior Tribunal de Justiça cuja ementa possui o seguinte teor:
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. 1. TRÁFICO DE ENTORPECENTES. CAUSA DE REDUÇÃO DE PENA E REGIME FECHADO. 2. ENTENDIMENTO DO TRIBUNAL A QUO NO SENTIDO DE SE DEDICAR O AGRAVANTE À PRÁTICA CRIMINOSA, BEM COMO DE INTEGRAR ORGANIZAÇÃO CRIMINOSA. 3. AGRAVO IMPROVIDO.
+    1. Na hipótese, as instâncias ordinárias apresentaram fundamentação idônea para a não aplicação da causa de redução de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006, além da fixação do regime fechado para o cumprimento de pena.
+    2. Foi identificado, nos autos, que o agravante portava 30 (trinta) dispositivos plásticos contendo cocaína. Além disso, afirma o julgado que o agravante e o corréu conduziram a polícia a um apartamento próximo de onde realizavam o tráfico, em que foi descoberta grande quantidade de droga (270 porções de cocaína, 50 de crack, e 170 de maconha). Assim, concluiu o acórdão pela dedicação do agravante às práticas delituosas e pela sua integração em organização criminosa. A desconstituição desse entendimento demandaria incursão no material fático-probatório, inviável na via estreita do habeas corpus.
+    3. Agravo regimental a que se nega provimento.
+    Colhe-se dos autos que o paciente e outro “foram denunciados como incursos no artigo 33, caput, da Lei 11343/06, porque em 30 de março de 2010, por volta das 16:45h, […], traziam consigo e guardavam, para fim de entrega a terceiros, 30 dosadores plásticos contendo cocaína, sem autorização e em desacordo com determinação legal. Segundo a denúncia, os réus teriam apontado aos policiais o local onde compraram as drogas para revendo e no apartamento em questão foram localizados 270 dosadores plásticos contendo cocaína, 50 papelotes de ‘crack’, 170 papelotes de ‘maconha’ e documentos pessoais de Sueli da Silva Nogueira”.
+    Absolvidos, sobreveio recurso de apelação do Ministério Público que restou provido para condená-los à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, como incursos no art. 33 da Lei n. 11.343/2006.
+    Irresignada com a não aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, a defesa impetrou habeas corpus Superior Tribunal de Justiça, ao qual o Relator negou seguimento, tendo o Colegiado confirmado a decisão no julgamento do agravo regimental, conforme ementa supratranscrita.
+    O recorrente alega, em síntese, que “A respeitável decisão do venerando Acórdão recorrido da 5ª Turma do Superior Tribunal de Justiça […], não deve prevalecer, devendo ser reformada, possibilitando que seja o paciente, primário, tenha aplicação o redutor do art. 33, § 4º da Lei 11343/2006”.
+    Sustenta, para tanto, que “Ao contrário do entendimento firmado na Segunda Instância pelo Tribunal Regional do Estado de São Paulo e pelo colendo Superior Tribunal de Justiça, o paciente NÃO faz parte de nenhuma organização criminosa, NÃO tem condenação criminal anterior e EM JUÍZO, o policial disse que a droga e o numerário foi encontrada com o co-réu ALEX SANDRO e NÃO com o paciente”.
+    Argumenta que o acórdão do TJ/SP não se referiu ao paciente como integrante de organização criminosa e dedicado ao crime, mas apenas ao corréu, que ostenta situação processual diversa, porquanto, ao contrário do paciente, é reincidente e cumpria pena em livramento condicional à época da prisão.
+    Requer “... seja concedida, liminarmente, a presente ordem de habeas corpus, para, caso não seja absolvido, seja a final concedida a redução da pena prevista no art. 33, § 4º, da Lei 11343/06” e, via de consequência, concedido o redutor máximo, que se fixe o regime inicial de cumprimento compatível com a pena privativa de liberdade redimensionada, bem como a substituição por restritivas de direitos.
+    O Ministério Público Federal apresentou contrarrazões sustentando, em síntese, a inviabilidade do habeas corpus para o reexame de provas e ausência de eiva a macular o acórdão recorrido.
+    É o relatório.
+    DECIDO.
+    A pretensão cautelar de reconhecimento e aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 e dos consectários de eventual redução da pena é manifestamente satisfativa.
+    Outrossim, as drogas apreendidas (crack, cocaína e maconha) e os apetrechos para armazenamento e distribuição são indicativos, prima facie, da existência de organização criminosa voltada ao tráfico ilícito de entorpecentes.
+    Ex positis, INDEFIRO a liminar, por não visualizar, primo oculi, o fumus boni iuris.
+    Dê-se vista ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 18 de dezembro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
