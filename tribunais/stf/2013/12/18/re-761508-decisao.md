@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de dois recursos extraordinários, um interposto pelo Instituto Nacional do Seguro Social – INSS e outro, por Jomar Santos Avila, este adesivamente, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PREVIDENCIÁRIO. PROCESSO CIVIL. DESAPOSENTAÇÃO PARA RECEBIMENTO DE NOVA APOSENTADORIA. POSSIBILIDADE. AUSÊNCIA DE NORMA IMPEDITIVA. NECESSIDADE DE DEVOLUÇÃO DO MONTANTE RECEBIDO NA VIGÊNCIA DO BENEFÍCIO ANTERIOR.
+    1. Tratando-se a aposentadoria de um direito patrimonial, de caráter disponível, é passível de renúncia.
+    2. Pretendendo o segurado renunciar à aposentadoria por tempo de serviço para postular novo jubilamento, com a contagem do tempo de serviço em que esteve exercendo atividade vinculada ao RGPS e concomitantemente à percepção dos proventos de aposentadoria, os valores recebidos da autarquia previdenciária a título de amparo deverão ser integralmente restituídos. Precedente da Terceira Seção desta Corte.
+    3. O art. 181-B do Dec. n. 3.048/99, acrescentado pelo Decreto n.º 3.265/99, que previu a irrenunciabilidade e a irreversibilidade das aposentadorias por idade, tempo de contribuição/serviço e especial, como norma regulamentadora que é, acabou por extrapolar os limites a que está sujeita, porquanto somente a lei pode criar, modificar ou restringir direitos (inciso II do art. 5º da CRFB).
+    4. Impossibilidade de compensação dos valores a serem devolvidos ao INSS com os proventos do novo benefício a ser concedido, sob pena de burla ao § 2º do art. 18, uma vez que as partes já não mais seriam transportadas ao status jurídico anterior à inativação (por força da necessidade de integral recomposição dos fundos previdenciários usufruídos pelo aposentado).
+    5. O provimento concedido tem natureza e eficácia meramente declaratórias, uma vez que, mesmo entendendo-se viável a nova concessão, o fato de ser necessária a condição de devolver impede o provimento de cunho condenatório sujeito a qualquer condição.
+    6. Configurada a sucumbência recíproca, restam compensados os honorários advocatícios.
+    Os recursos buscam fundamento no art. 102, III, a, da Constituição Federal. O INSS alega violação aos arts. 5º, caput e XXXVI; 40; 194; 195 e 201, § 1º, todos da Constituição. Por sua vez, Jomar Santos Avila alega violação aos arts. 1º, III; 5º, II e XXXVI; 195, § 5º, da Constituição Federal.
+    O Plenário Virtual do Supremo Tribunal Federal, ao examinar o RE 661.256, à época sob a relatoria do Min. Ayres Britto, reconheceu a existência de repercussão geral da questão constitucional ora discutida (Tema 503). Veja-se a ementa do julgado:
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. § 2º DO ART. 18 DA LEI 8.213/91. DESAPOSENTAÇÃO. RENÚNCIA A BENEFÍCIO DE APOSENTADORIA. UTILIZAÇÃO DO TEMPO DE SERVIÇO/CONTRIBUIÇÃO QUE FUNDAMENTOU A PRESTAÇÃO PREVIDENCIÁRIA ORIGINÁRIA. OBTENÇÃO DE BENEFÍCIO MAIS VANTAJOSO. MATÉRIA EM DISCUSSÃO NO RE 381.367, DA RELATORIA DO MINISTRO MARCO AURÉLIO. PRESENÇA DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL DISCUTIDA.
+    Possui repercussão geral a questão constitucional alusiva à possibilidade de renúncia a benefício de aposentadoria, com a utilização do tempo se serviço/contribuição que fundamentou a prestação previdenciária originária para a obtenção de benefício mais vantajoso.”
+    Diante do exposto, admito o recurso extraordinário. Com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil.
+    Publique-se.
+          Brasília, 18 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
