@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 1ª Turma Recursal de Natal do Tribunal de Justiça do Estado do Rio Grande do Norte, que manteve a sentença por seus próprios fundamentos, da qual se extrai o seguinte trecho (fl. 194):
+    “(...)
+    Reconhecida a abusividade do reajuste, há que se devolver o que foi pago indevidamente, na forma do art. 42, parágrafo único do Código de Defesa do Consumidor, que prevê a devolução em dobro, no entanto faz ressalva ao que define como engano justificável, onde a devolução será feita de forma simples.
+    No caso em tela entendo que, diante do contrato celebrado, da controvérsia judicial estabelecida e das circunstâncias que cercam o caso, restou configurada a ressalva do mencionado artigo devendo ser devolvido o valor pago na forma simples, ou seja R$ 1.164,23.
+    (...)”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 197 da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a matéria em pauta não enseja ofensa direta ao texto constitucional, mas, no máximo, ofensa meramente reflexa, o que é inadmitido pela Corte Maior como permissiva do cabimento de Recurso Extraordinário” (fl. 280).
+    O recurso extraordinário não pode ser conhecido, tendo em vista que não discute matéria constitucional. Com efeito, a parte recorrente limita-se a postular uma nova apreciação do material probatório constante dos autos e das cláusulas do contrato firmado entre as partes, bem como a questionar alegado erro no enquadramento do caso à legislação infraconstitucional pertinente. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 454/STF. Vejam-se o ARE 709.840, Rel. Min. Gilmar Mende,s e o AI 766.043 AgR, Rel. Min. Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. MAJORAÇÃO DE CONTRAPRESTAÇÃO POR MUDANÇA DE FAIXA ETÁRIA. ESTATUDO DO IDOSO. ALEGADA VIOLAÇÃO AO ART. 5º, II, E XXXVI, DA CF. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I A apreciação dos temas constitucionais, no caso, depende do prévio exame da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor e Estatuto do Idoso). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II A apreciação do recurso extraordinário demanda o exame de matéria de fato e a interpretação de cláusulas contratuais, o que atrai a incidência das Súmulas 279 e 454 do STF. Precedentes. III - Agravo regimental improvido.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço o agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
