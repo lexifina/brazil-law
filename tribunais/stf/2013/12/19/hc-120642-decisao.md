@@ -1,0 +1,44 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Renato Losinkas Hachul e outros em favor de Sérgio França Sayão, contra decisão da Relatora do HC 281.392/SP, Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que indeferiu a liminar.
+    O paciente foi condenado às penas de 3 (três) anos de reclusão, em regime inicial semiaberto, e de 10 (dez) dias-multa pelo crime de fraude a credores (art. 168 da Lei 11.101/2005; de 1 (um) ano de detenção e 10 (dez) dias-multa pelo delito de omissão dos documentos contábeis obrigatórios (art. 178 da Lei 11.101/2005); e de 15 (quinze) dias de detenção e de 10 (dez) dias-multa pelo crime de desobediência (art. 330 do Código Penal).
+    Consta dos autos que Sérgio França Sayão, representante da sociedade empresária Brasil Laser Color Serviços de Cópias Especiais Ltda., após a decretação de falência da empresa, teria induzido em erro o magistrado, o Ministério Público, os credores e o administrador da massa falida ao omitir lista nominativa dos credores; deixado de elaborar os documentos de escrituração contábil obrigatória; transferido ativos financeiros com custo zero para seu patrimônio, criando ativos financeiros dissonantes da realidade na escrituração contábil.
+    Da sentença, interpostas apelações pela Defesa e pelo Parquet. O Tribunal de Justiça negou provimento à primeira e proveu parcialmente o recurso ministerial, majorando a pena do crime previsto no art. 168, caput, da Lei de Falências para 3 (três) anos e 6 (seis) meses de reclusão e 11 (onze) dias-multa, além de declarar a extinção da punibilidade do delito de desobediência pela prescrição da pretensão punitiva estatal.
+    O decreto condenatório transitou em julgado, ensejando a impetração ao Superior Tribunal de Justiça do mencionado HC 281.392/SP ao argumento de nulidade processual por cerceamento de defesa.
+    No presente writ, pugna a Defesa pelo afastamento da Súmula 691/STF.
+    Assevera que o cerceamento de defesa está consubstanciado no fato de “ter o Juízo de primeiro grau, após a apresentação das alegações finais, e já sob a égide da Lei nº 11.719/2008, convertido o julgamento em diligência para determinar a juntada de novas peças aos autos, sem, contudo, facultar ao paciente a oportunidade de ser novamente interrogado”. Nessa linha, registra a “falta de intimação do paciente para manifestar sua vontade, ou não, de constituir novo advogado ante a inércia de seus então defensores para contra-arrazoar o apelo do Ministério Público, o qual, inclusive, foi provido para aumentar-lhe a pena sem que lhe tenha sido nomeado advogado dativo ou defensor público”. Além disso, sustenta que a intimação para a sessão de julgamento da apelação criminal, bem como a publicação do acórdão, foi direcionada a patrono não mais inscrito nos quadros da Ordem dos Advogados do Brasil.
+    Requer, em medida liminar e no mérito, a suspensão da execução da pena para evitar o recolhimento do paciente ao cárcere até o julgamento do writ impetrado perante o Superior Tribunal de Justiça.
+    É o relatório.
+    Decido.
+    Pretende a Defesa, no presente writ, a suspensão da execução da pena até o exame do mérito do HC 281.392/SP pelo Superior Tribunal de Justiça.
+    A decisão indeferitória do pedido de liminar está assim fundamentada:
+    “O presente remédio heroico cuida-se, em verdade, de habeas corpus substitutivo de recurso especial que, a rigor de técnica, e, em prestígio à lógica do sistema recursal, não deveria ser processado.
+    Todavia, tendo em vista o teor das alegações constantes da impetração,entendo prudente, excepcionalmente, dar seguimento ao presente writ.
+    Passo, pois, ao exame do pleito preambular.
+    Dúvidas não há sobre o caráter excepcional do deferimento de liminar em habeas corpus. Assim, há necessidade de se comprovar, de plano, patente ilegalidade a fim de se atender ao requerimento de urgência. Não me parece ser a hipótese dos autos.
+    Ressalte-se que as alegações defensivas sequer foram ventiladas perante o Colegiado estadual, o que, à primeira vista, impediria o conhecimento da matéria por esta Corte, sob pena de supressão de instância.
+    Ademais, em um juízo de cognição sumária, apura-se que as questões aqui vertidas merecem uma reflexão mais profunda, devendo, pois, serem destinadas à egrégia Sexta Turma desta Corte.
+    Com efeito, a liminar pleiteada, nos termos em que deduzida, imbrica-se com o mérito da impetração, sendo prudente, portanto, reservar o exame da quaestio ao órgão colegiado, conforme entendimento já exarado por este Sodalício:
+    (...)
+    Ante o exposto, indefiro a liminar.”
+    Posteriormente, o indeferido o pedido de reconsideração. Confira-se:
+    “Conquanto se reconheça o esforço do impetrante, é de se reafirmar que a concessão de medida liminar em habeas corpus é provimento excepcional que se sujeita ao exame dos requisitos do fumus boni juris e do periculum in mora.
+    Nesse âmbito, a fumaça do bom direito não foi comprovada na espécie para efeito de fomentar a pretensão de urgência.
+    Conforme foi destacado na decisão liminar, ‘as questões aqui vertidas merecem uma reflexão mais profunda, devendo, pois, serem destinadas à egrégia Sexta Turma desta Corte’, e que ‘a liminar pleiteada, nos termos em que deduzida, imbrica-se com o mérito da impetração, sendo prudente, portanto, reservar o exame da quaestio ao órgão colegiado’ (fls. 266/267).
+    Ademais, ‘as alegações defensivas sequer foram ventiladas perante o Colegiado estadual’ (fl. 266), inexistindo, na petição, menção da defesa acerca do empecilho, primo oculi, para a apreciação da tese, qual seja, a supressão de instância.
+    Além disso, a mera insatisfação defensiva não subjuga o fundamento da decisão, havendo de, por certo, ser mantido o indeferimento da liminar.
+    Nessa esteira de intelecção, as questões discutidas já em sede de delibação preambular se confundem com o pedido final, na medida em que a averiguação sobre a nulidade do julgamento dos recursos de apelação, a ensejar o sobrestamento da execução da pena, somente se viabilizaria com o exame antecipado do writ, mediante um estudo detalhado dos autos, o que não se permite nesta fase.
+    Não há dúvida, pois, de que o caso necessita de uma análise minuciosa.
+    Cumpre enfatizar, portanto, que a pretensão liminar se sujeita aos requisitos autônomos da plausibilidade jurídica do direito subjetivo invocado e do perigo da demora na prestação da cautela requerida, o que não restou configurado, mormente quando se percebe que a liminar visa a antecipação de mérito, o que estará a cargo da Turma Julgadora, a qual procederá uma reflexão mais profunda sobre o caso.
+    De fato, o pleito preambular almejado, nos termos em que deduzido, se confunde com o próprio mérito do presente mandamus, cuja resolução demanda análise pormenorizada dos autos e julgamento pelo Órgão Colegiado, juiz natural da causa. Nesse sentido:
+    (...)
+    Ante o exposto, indefiro o pedido de reconsideração.”
+    Registro, desde logo, que, à falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    É verdade que, a compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 104.855/CE, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011 e HC 96.539/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.5.2010 .
+    Todavia, nesta análise de cognição sumária não vislumbro teratologia ou ilegalidade na decisão atacada apta a ensejar a superação do mencionado verbete sumular, porquanto devidamente fundamentado o ato apontado como coator, que também está em conformidade com decisões deste Supremo Tribunal Federal quanto à impossibilidade de concessão da liminar quando a tutela emergencial se confunde com o mérito da controvérsia. Nesse sentido: HC 120.050 MC/DF, Rel. Min. Luiz Fux, DJe 10.12.2013; HC 120.430 MC/GO, Rel. Min. Luiz Fux, DJe 06.12.2013; e HC 119.485/RS, Rel. Min. Dias Toffoli, DJe 27.9.2013.
+    Por derradeiro, não instruído o presente writ com a prova das alegadas intimações indevidas, da sessão de julgamento e do respectivo acórdão, a inviabilizar o confronto entre a tese defensiva e o ato apontado como coator.
+    Assim, indefiro o pedido de liminar.
+    Intime-se os Impetrantes para juntar cópia dos documentos necessários ao exame da controvérsia.
+    Após, ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 19 de dezembro de 2013.
+Ministra Rosa Weber
+Relatora
