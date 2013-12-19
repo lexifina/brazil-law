@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+    “ADMINISTRATIVO E CONSTITUCIONAL - APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – FUNÇÃO GRATIFICADA – GRATIFICAÇÃO DE FUNÇÃO DE CHEFIA (RUBRICA 23) – DELEGADO DE POLÍCIA DO ESTADO DO ESPÍRITO SANTO – ESTATUTO DOS POLICIAIS CIVIS DO ESTADO DO ESPÍRITO SANTO (LEI ESTADUAL N°. 3.400, DO ESTADO DO ESPÍRITO SANTO) – LEI COMPLEMENTAR ESTADUAL N°. 04, LEI COMPLEMENTAR ESTADUAL N°. 57, LEI COMPLEMENTAR ESTADUAL N°. 412 E LEI COMPLEMENTAR ESTADUAL N°. 422, TODAS DO ESTADO DO ESPÍRITO SANTO) – INCORPORAÇÃO AOS VENCIMENTOS – CARÁTER DEFINITIVO – GENERALIDADE – INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA – CARÁTER VENCIMENTAL.
+    1. A natureza jurídica de determinado instituto não se encontra atrelada ao nome a ele dado pelo legislador, mas, sim, a sua própria essência.
+    2. De fato, não se permite a incorporação aos vencimentos de servidor público de vantagens funcionais de natureza pro labore faciendo; todavia, a denominada ‘gratificação de função de chefia’ (também chamada de ‘rubrica 23’), relativamente aos Delegados de Polícia Civil do Estado do Espírito Santo, constituiu vantagem de caráter nitidamente vencimental pois (1) concedida a todos os Delegados de Polícia Civil do Estado do Espírito Santo e (b) sobre tal gratificação incide contribuição previdenciária.” (eDOC 10, pgs. 56-58).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 2º da Constituição Federal.
+    Alega-se, em síntese, que “O Tribunal capixaba violou o Princípio da Separação de Poderes – art. 2º da CR, pois deu à rubrica 23 natureza diversa da prevista na legislação capixaba.” (eDOC 11, pg. 41).
+    Decido.
+    A irresignação não merece prosperar.
+    Consignou o Tribunal de origem que a parte recorrida tem direito à incorporação da gratificação pleiteada.
+    Verifico que o Tribunal a quo solucionou a controvérsia em questão com base em interpretação de legislação local (Leis Complementares Estaduais 4; 52; 412; 422 e 3.400). Dessa forma, para se dissentir do acórdão recorrido e se entender que a parte recorrida não tem direito à incorporação da gratificação pleiteada, far-se-ia imprescindível a análise da referida legislação estadual, providência que encontra óbice, em sede de apelo extremo, na Súmula 280 do STF.
+    Nesse mesmo sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. INCORPORAÇÃO DE GRATIFICAÇÃO DE HABILITAÇÃO PROFISSIONAL. LEI ESTADUAL 3.586/2001. REAPRECIAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I. É inadmissível o recurso extraordinário com agravo quando sua análise implica rever a interpretação de normas infraconstitucionais locais que fundamentam a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes. II. Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. Precedentes. III. Agravo regimental improvido.” (ARE 665.256, Rel. Min. Ricardo Lewandowski, DJe 13.8.2012).
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 19 de dezembro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
