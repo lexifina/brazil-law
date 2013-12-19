@@ -1,0 +1,15 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto cujo objeto é decisão que negou seguimento a recurso extraordinário, interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 144):
+    “AÇÃO ORDINÁRIA DE COBRANÇA - SERVIDOR PÚBLICO - CONTRATAÇÃO TEMPORÁRIA - CARÁTER ADMINISTRATIVO - VERBAS PREVISTAS NO ARTIGO 39, §3º, C/C ARTIGO 7º DA CONSTITUIÇÃO DA REPÚBLICA - FÉRIAS INTEGRAIS E PROPORCIONAIS ACRESCIDAS DO TERÇO CONSTITUCIONAL - COMPROVAÇÃO DE PAGAMENTO OU GOZO - AUSÊNCIA - 13º SALÁRIO - ADIMPLEMENTO - DEMONSTRAÇÃO - IMPROCEDÊNCIA DO PEDIDO - CORREÇÃO MONETÁRIA E JUROS DE MORA - ÍNDICE ÚNICO - LEI Nº 9.494/1997 COM A REDAÇÃO DADA PELA LEI Nº 11.960/2009 - ADEQUAÇÃO - SUCUMBÊNCIA RECÍPROCA - OCORRÊNCIA - ARTIGO 21, CAPUT, DO CÓDIGO DE PROCESSO CIVIL - SENTENÇA REFORMADA, EM PARTE, NO REEXAME NECESSÁRIO - PREJUDICIALIDADE DOS RECURSOS VOLUNTÁRIOS.
+    (...)
+    2. A relação de ex-servidor contratado por tempo determinado para prestar serviços ao Estado é regida pelo regime estatutário e não pelo celetista, tendo direito, portanto, em tese, com base no inciso IX do artigo 37 da Constituição Federal, à percepção de remuneração pelo tempo efetivamente trabalhado, com todos os reflexos legais, ex vi do artigo 39, §3º, c/c o artigo 7º, incisos IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX, da Lei Maior.
+    3. As alterações introduzidas no artigo 1º-F da Lei nº 9.494/1997, pela Lei nº 11.960/2009, se aplicam às ações ajuizadas após a sua vigência, nos termos do precedente instaurado no STJ, pelo Recurso Especial nº 706.287-MG.
+    4. ‘Se cada litigante for em parte vencedor e vencido, serão recíproca e proporcionalmente distribuídos e compensados entre eles os honorários e as despesas’. (artigo 21, caput, do CPC).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 39, § 7º da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário com o seguinte trecho conclusivo: “o recurso não merece prosseguir, na medida em que o entendimento adotado no acórdão recorrido encontra ressonância na orientação do Tribunal ad quem , circunstância que retira razoabilidade à pretensão recursal, inviabilizando o trânsito do recurso.”
+    O Supremo Tribunal Federal, nos autos do RE 646.000, sob a relatoria do Ministro Marco Aurélio, reconheceu a existência de repercussão geral da controvérsia relativa à extensão de direitos concedidos aos servidores públicos efetivos aos servidores e empregados contratados para atender necessidade temporária e excepcional do setor público (Tema 551) .
+    Diante do exposto, dou parcial provimento ao agravo para admitir o recurso extraordinário e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 19 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
