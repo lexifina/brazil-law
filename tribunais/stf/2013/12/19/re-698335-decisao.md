@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 8ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado (fl. 215):
+    “EMBARGOS DE DECLARAÇÃO. TRIBUTÁRIO. REFIS. EXCLUSÃO DO REFIS. NECESSIDADE DE INTIMAÇÃO PRÉVIA. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO PLENÁRIO DO TRF – 1ª REGIÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. EFEITOS INFRINGENTES.
+    1. É mister para a oposição de embargos de declaração que a parte demonstre a existência na decisão embargada de um dos vícios de que cuida a legislação de regência (CPC art. 545, incisos I e II).
+    2. Excepcionalmente empresta-se aos embargos de declaração efeitos infringentes, em prol da celeridade e economia processuais.
+    3. A Corte Especial deste Tribunal, por unanimidade, declarou a inconstitucionalidade do art. 1º da Resolução CG/REFIS/20/2001, por entender que deu nova redação ao art. 5º e parágrafos 1º a 4º da Resolução CG/REFIS/09/2001, por entender que a não intimação prévia do participante acerca de sua exclusão do REFIS, viola os princípio do contraditório e da ampla defesa, inerentes ao processo judicial ou administrativo. (INAC 2007.34.00.022211-3/DF, Rel. Desembargadora Federal Maria do Carmo Cardoso, Corte Especial, e-DJF1 de 16/11/2009, p.100).
+    4. Em virtude do efeito expansivo do julgado da Corte Especial deste Tribunal, atribuído pelo parágrafo único do art. 481 do CPC combinado com o art. 354 do Regimento Interno deste Tribunal, obedecendo ao disposto no art. 97 da CF, deve ser dado provimento à apelação da autora para que seja mantida no Programa REFIS até que devidamente cientificada do ato de sua exclusão.
+    5. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento à apelação para anular a intimação e determinar a reinclusão da empresa no REFIS.”
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV; 97; e 102, todos da Constituição. Sustenta, em síntese, que o procedimento de exclusão do REFIS não padece de inconstitucionalidade, tampouco viola o direito da recorrida. Afirma ainda que a adesão ao programa implica a aceitação plena de todas as condições nele estabelecidas.
+    Os embargos de declaração posteriormente opostos foram rejeitados ante a ausência de omissão, obscuridade ou contradição justificadora de eventual acolhimento.
+    Verifico, portanto, que o debate contempla um juízo sobre a constitucionalidade da Resolução CG/REFIS nº 09, de 12.01.2001, com a redação conferida pela Resolução CG/REFIS nº 20, de 27.09.2001, ato normativo que restringe a manifestação da pessoa jurídica a momento posterior ao da exclusão formal do programa.
+    O Plenário Virtual do Supremo Tribunal Federal, ao examinar o RE 669.196-RG, relatado pelo Ministro Dias Toffoli, reconheceu a existência de repercussão geral da questão constitucional ora discutida (Tema 668). Confira-se a ementa do julgado:
+    “Recurso extraordinário. Repercussão geral. Programa de Recuperação Fiscal (REFIS) Exclusão - Resolução GF/REFIS nº 20/01, na parte em que deu nova redação ao art. 5º, caput e §§ 1º a 4º Declaração de inconstitucionalidade pela corte de origem Recurso interposto com fundamento nas letras a e b do permissivo constitucional. Relevância jurídica da questão. Princípios do contraditório e da ampla defesa. Repercussão geral reconhecida.”
+     Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil.
+    Publique-se.
+          Brasília, 19 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
