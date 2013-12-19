@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 1ª Turma Criminal do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “PENAL E PROCESSUAL PENAL. ROUBO SIMPLES E ROUBO COM CONCURSO DE PESSOAS. CONTINUIDADE DELITIVA. PROVA SATISFATÓRIA DA MATERIALIDADE E AUTORIA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA NO MÍNIMO LEGAL. IMPOSSIBILIDADE DE REDUÇÃO ABAIXO DO MÍNIMO LEGAL. SÚMULA 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PARCIAL PROVIMENTO.
+    1 Réu condenado por infringir os artigos 157, caput, e 157, § 2º, inciso II, do Código Penal, em continuidade delitiva, por assaltar uma mesma padaria duas vezes no mesmo dia, em circunstâncias semelhantes, mas agindo sozinho na primeira incursão e ajudado por um comparsa na segunda. A materialidade e a autoria são incontestes, conforme provas coligidas.
+    2 Não se pode afirmar os maus antecedentes do réu com base em inquéritos ou ações penais ainda em curso, consoante a Súmula 444, do Superior Tribunal de Justiça. A valoração incorreta das circunstâncias judiciais implica a readequação da dosimetria para fixar a pena-base no mínimo legal, à falta de razões razoáveis e proporcionais para a exasperação, sendo, contudo, inviável sua redução abaixo do mínimo legal em razão das atenuantes. Súmula 231 do Superior Tribunal de Justiça.
+    3 Apelação parcialmente provida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XLVI, da Constituição. Afirma que “a proibição de aplicação das atenuantes para levar a pena abaixo do mínimo, vai de encontro frontal com o proposto pela ordem constitucional”.
+    A decisão agravada não admitiu o recurso extraordinário sob o fundamento de que “o entendimento sufragado pela Turma Julgadora no acórdão objeto de impugnação pelo presente recurso excepcional se coaduna com aquele esposado pelo Supremo Tribunal Federal, razão pela qual, revela-se descabido o processamento do presente apelo”.
+    O recurso não pode ser provido. Isso porque o Plenário Virtual do Supremo Tribunal Federal, após reconhecer a repercussão geral da matéria, reafirmou a jurisprudência no sentido da impossibilidade de fixação da pena abaixo do mínimo legal pelo reconhecimento de circunstância atenuante genérica. Veja-se a ementa do RE 597.270, Rel. Min. Cezar Peluso:
+    “AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 19 de dezembro de 2013.
+Ministro Luís Roberto Barroso
+Relator
