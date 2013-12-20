@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – IMPOSTO DE RENDA – ISENÇÃO – MOLESTIA GRAVE – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE –  REPETIÇÃO DE INDÉBITO – TRIBUTOS SUJEITOS A LANÇAMENTO POR HOMOLOGAÇÃO – ARTIGOS 3º E 4º, SEGUNDA PARTE, DA LEI COMPLEMENTAR Nº 118/05 – PROVIMENTO PARCIAL NOS AUTOS DE AGRAVO PROVIDO.
+    1. No tocante ao reconhecimento, pelo Tribunal de origem, do direito à isenção do imposto de renda sobre proventos em razão de moléstia grave, a decisão impugnada foi assentada em bases fáticas e legais.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    Quanto ao tema da prescrição, o recurso deve ser provido.
+    O Supremo, no julgamento do Recurso Extraordinário nº 566.621/RS, da relatoria da ministra Ellen Gracie, assentou ser incompatível com a Carta da República aplicar os artigos 3º e 4º, segunda parte, da Lei Complementar nº 118/2005 a situações a ela anteriores, considerada a data de propositura da ação, isto é, 9 de junho de 2005.
+    Tendo a presente sido formalizada em 1º de dezembro de 2009, a norma complementar deve ser planamente aplicada.
+    2. Diante da sedimentação do entendimento, conheço do agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Ante o precedente, julgo, desde logo, o recurso, nos termos do artigo 544, § 4º, inciso II, alínea “c”, do Código de Processo Civil. Dele conheço parcialmente e o provejo para, reformando a decisão impugnada, determinar a observância do prazo prescricional previsto no artigo 3º da Lei Complementar nº 118/2005. Custas e honorários advocatícios, na forma do artigo 21 do Código de Processo Civil, recíproca e proporcionalmente distribuídos e compensados.
+    3. Publiquem.
+Brasília, 20 de dezembro de 2013.
+Ministro MARCO AURÉLIO
+Relator
