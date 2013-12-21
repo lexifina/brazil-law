@@ -1,0 +1,19 @@
+DECISÃO
+PRONUNCIAMENTO JUDICIAL – NULIDADE – MEDIDA ACAUTELADORA – INADEQUAÇÃO.
+    1. O Gabinete prestou as seguintes informações:
+    A paciente foi condenada à pena de oito anos de reclusão, em regime fechado, e ao pagamento de um mil e duzentos dias-multa, pela prática dos crimes previstos nos artigos 121, § 2º, inciso IV, do Código Penal, 33 e 35 da Lei nº 11.343/2006. O Juízo da Vara Única da Comarca de Ribas do Rio Pardo/MS (Processo nº 041.08.000288-0) indeferiu o direito de recorrer em liberdade.
+    A defesa interpôs apelação no Tribunal de Justiça do Estado de Mato Grosso do Sul, pleiteando a diminuição, ao mínimo legal, da pena-base aplicada pelo crime de tráfico de drogas, bem como a causa de diminuição do artigo 33, § 4º, da Lei de Drogas. Buscou, ainda, a absolvição quanto ao delito de associação para o tráfico. A Primeira Turma Criminal negou provimento ao recurso. Eis o resumo das premissas lançadas:
+    Mantém-se a pena acima do mínimo legal, se o juiz bem pondera e fundamenta a sua aplicação, de maneira a adequar as circunstâncias judiciais ao quantitativo das penas suficiente a repressão e prevenção ao crime.
+    Comprovado que a apelante exercia o comércio ilegal de drogas em sua residência, onde funcionava um ponto de venda de drogas, circunstância confirmada em sua confissão extrajudicial, pelos depoimentos dos policiais em ambas as fases da persecução penal, e demais provas acostadas ao processo, a condenação pelo crime de associação para o tráfico é medida que se impõe.
+    O reconhecimento do vínculo associativo impede a aplicação da causa de diminuição do § 4° do art. 33 da Lei n. 11.343/06.
+    No habeas corpus – de nº 237.047/MS – formalizado no Superior Tribunal de Justiça, pretendeu-se o estabelecimento do regime prisional inicial semiaberto. O ministro Sebastião Reis Júnior, relator, não conheceu do pedido. Consignou tratar-se de impetração substitutiva de recurso ordinário. Assentou que a fixação de regime mais gravoso foi fundamentada de forma concreta e adequada, com base na quantidade e natureza das drogas apreendidas, circunstâncias que estariam a revelar a elevada reprovabilidade da ação, bem como a periculosidade acentuada da paciente.
+    É esse o ato impugnado. A impetrante sustenta a inconstitucionalidade do artigo 34, inciso XVIII, do Regimento Interno do Superior Tribunal de Justiça, que possibilita ao relator, monocraticamente, negar seguimento aos pedidos ou recursos evidentemente intempestivos, incabíveis, improcedentes, contrários à Súmula, ou quando o Tribunal for manifestamente incompetente para apreciar o pleito formulado. Alega que os direitos fundamentais são de eficácia plena, não admitindo qualquer tipo de contenção ou limitação pela lei ordinária, muito menos por regra regimental. Aponta que o Tribunal teria, com isso, usurpado competência do Poder Legislativo, nos termos do artigo 22, inciso I, da Constituição Federal. Argui a violação ao direito de defesa, porquanto não há publicação de pauta de julgamento, inviabilizando o direito de sustentação oral pela defesa.
+    Requer, em âmbito liminar, seja declarada a nulidade da decisão atacada, determinando-se ao Superior Tribunal de Justiça que analise o tema de fundo do Habeas Corpus nº 237.047/MS. No mérito, busca a confirmação da providência.
+    O habeas encontra-se concluso para exame do pleito de concessão de medida acauteladora.
+      2. Atentem para a circunstância de o pleito de declaração de nulidade do que decidido pelo Superior Tribunal de Justiça no Habeas Corpus 237.047/MS não ser próprio ao âmbito das medidas liminares.
+    3. Indefiro o pedido dito acautelador.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 21 de dezembro de 2013, às 12h40.
+Ministro MARCO AURÉLIO
+Relator
