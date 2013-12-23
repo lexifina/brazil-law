@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1427, de 20 de dezembro de 2013
+Aprova alteração à V Emenda à Nomenclatura do Sistema Harmonizado de Designação e de Codificação de Mercadorias, aprovada pela Instrução Normativa RFB nº 1.202, de 19 de outubro de 2011.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF no 203, de 14 de maio de 2012, em face da competência que lhe foi delegada pelo art. 2º do Decreto nº 766, de 3 de março de 1993, e tendo em vista a Recomendação do Conselho de Cooperação Aduaneira de 26 de junho de 2009, resolve:
