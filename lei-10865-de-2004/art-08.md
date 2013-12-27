@@ -62,7 +62,8 @@ XXXIV - próteses oculares classificadas no código 9021.39.80 da Tipi;
 XXXV - programas - softwares - de leitores de tela que convertem texto em voz sintetizada para auxílio de pessoas com deficiência visual;
 XXXVI - aparelhos contendo programas - softwares - de leitores de tela que convertem texto em caracteres braile, para utilização de surdos-cegos;
 XXXVII - (VETADO); e
-XXXVIII - neuroestimuladores para tremor essencial/Parkinson, classificados no código 9021.90.19, e seus acessórios, classificados nos códigos 9018.90.99, 9021.90.91 e 9021.90.99, todos da Tipi.
+XXXVIII - neuroestimuladores para tremor essencial/Parkinson, classificados no código 9021.90.19, e seus acessórios, classificados nos códigos 9018.90.99, 9021.90.91 e 9021.90.99, todos da Tipi; e
+XXXIX - álcool, inclusive para fins carburantes, durante o prazo de que trata o § 1º do art. 1º da Lei nº 12.859, de 10 de setembro de 2013.
 § 13. O Poder Executivo poderá regulamentar:
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota zero de que tratam os incisos I a VII, XVIII a XXI e XXIV a XXXVIII do § 12.
@@ -75,7 +76,7 @@ IV - 1% (um por cento) e 4,6% (quatro inteiros e seis décimos por cento), para 
 § 16. Na hipótese da importação de etano, propano e butano de que trata o § 15 deste artigo, não se aplica o disposto no § 8º deste artigo.
 § 17. O disposto no § 14 deste artigo não se aplica aos valores pagos, creditados, entregues, empregados ou remetidos, por fonte situada no País, à pessoa física ou jurídica residente ou domiciliada no exterior, em decorrência da prestação de serviços de frete, afretamento, arrendamento ou aluguel de embarcações marítimas ou fluviais destinadas ao transporte de pessoas para fins turísticos.
 § 18. O disposto no § 17 deste artigo aplicar-se-á também à hipótese de contratação ou utilização da embarcação em atividade mista de transporte de cargas e de pessoas para fins turísticos, independentemente da preponderância da atividade.
-§ 19. A importação de álcool, inclusive para fins carburantes, fica sujeita à incidência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação, fixadas por unidade de volume do produto, às alíquotas de que trata o § 4º do art. 5º da Lei nº 9.718, de 27 de novembro de 1998, independentemente de o importador haver optado pelo regime especial de apuração e pagamento ali referido.
+§ 19. Decorrido o prazo de que trata o inciso XXXIX do § 12, a importação de álcool, inclusive para fins carburantes, fica sujeita à incidência da Contribuição para o PIS/PASEP-Importação e da COFINS-Importação, fixadas por unidade de volume do produto, às alíquotas de que trata o § 4º do art. 5º da Lei nº 9.718, de 27 de novembro de 1998, independentemente de o importador haver optado pelo regime especial de apuração e pagamento ali referido.
 § 21. As alíquotas da Cofins-Importação de que trata este artigo ficam acrescidas de um ponto percentual na hipótese de importação dos bens classificados na Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, relacionados no Anexo I da Lei nº 12.546, de 14 de dezembro de 2011.
 § 22. A utilização do benefício de alíquota zero de que tratam os incisos XIX a XXXVIII do § 12 deste artigo cessará quando houver oferta de mercadorias produzidas no Brasil em condições similares às das importadas quanto ao padrão de qualidade, conteúdo técnico, preço ou capacidade produtiva, conforme regulamentação editada pelo Poder Executivo.
 § 23. Aplica-se ao condensado destinado a centrais petroquímicas o disposto nos arts. 56 e 57 da Lei nº 11.196, de 21 de novembro de 2005.
