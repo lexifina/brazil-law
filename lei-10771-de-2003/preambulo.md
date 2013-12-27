@@ -1,0 +1,2 @@
+Dispõe sobre a criação de cargos de Membro, criação de Cargos Efetivos, criação e transformação de Funções Comissionadas no âmbito do Ministério Público da União, e a criação e transformação de Procuradorias da República em Municípios no âmbito do Ministério Público Federal, e criação de Ofícios no âmbito do Ministério Público do Trabalho, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
