@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 53, de 16 de dezembro de 2013
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF EMENTA: PARTICIPAÇÃO DOS TRABALHADORES NO LUCRO DAS EMPRESAS. - TRIBUTAÇÃO EXCLUSIVA NA FONTE DEDUÇÃO Os valores correspondentes a dependentes não são passíveis de dedução na determinação da base de cálculo do imposto de renda incidente exclusivamente na fonte sobre os rendimentos relativos à participação dos trabalhadores nos lucros ou resultados da empresa. DISPOSITIVOS LEGAIS: Lei nº 10.101, de 2000, art. 3º parágrafos 5º, 6º, 10º e 11º; Decreto 3000, de 1999, artigos 620, 641, 642 e 646, inc.I e II
+[arquivo anexo: SC Cosit 53-2013.pdf]
