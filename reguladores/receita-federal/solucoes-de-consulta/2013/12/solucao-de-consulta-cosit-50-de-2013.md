@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 50, de 11 de dezembro de 2013
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF EMENTA: A utilização de colaboradores pelo prestador de serviços, para operação de máquina e/ou equipamento alugados pelo prestador, nas dependências da contratante, não prestando nenhum outro tipo de atividade laborativa ao contratante, não configura locação de mão-de-obra nos termos do art. 649 do Decreto n° 3.000, de 1999, e portanto, não está sujeito a retenção do imposto sobre a renda na fonte. DISPOSITIVOS LEGAIS: arts. 647 e 649 do Decreto n° 3.000 de 26.03.1999.
+[arquivo anexo: SC Cosit 50-2013.pdf]
