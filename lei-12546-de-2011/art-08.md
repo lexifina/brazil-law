@@ -1,10 +1,6 @@
 Art. 8º Até 31 de dezembro de 2014, contribuirão sobre o valor da receita bruta, excluídas as vendas canceladas e os descontos incondicionais concedidos, à alíquota de 1% (um por cento), em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei no 8.212, de 24 de julho de 1991, as empresas que fabricam os produtos classificados na Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, nos códigos referidos no Anexo I.
 II - de transporte aéreo de carga;
 III - de transporte aéreo de passageiros regular;
-XIII - (VETADO);
-XIV - (VETADO);
-XV - (VETADO);
-XVI - (VETADO);
 I - (revogado);
 II - (revogado);
 III - (revogado);
@@ -28,6 +24,10 @@ IX - de transporte por navegação interior de passageiros em linhas regulares; 
 X - de navegação de apoio marítimo e de apoio portuário.
 XI - de manutenção e reparação de embarcações;
 XII - de varejo que exercem as atividades listadas no Anexo II desta Lei;
+XIII - que realizam operações de carga, descarga e armazenagem de contêineres em portos organizados, enquadradas nas classes 5212-5 e 5231-1 da CNAE 2.0;
+XIV - de transporte rodoviário de cargas, enquadradas na classe 4930-2 da CNAE 2.0;
+XV - de transporte ferroviário de cargas, enquadradas na classe 4911-6 da CNAE 2.0; e
+XVI - jornalísticas e de radiodifusão sonora e de sons e imagens de que trata a Lei nº 10.610, de 20 de dezembro de 2002, enquadradas nas classes 1811-3, 5811-5, 5812-3, 5813-1, 5822-1, 5823-9, 6010-1, 6021-7 e 6319-4 da CNAE 2.0.
 § 4º A partir de 1º de janeiro de 2013, ficam incluídos no Anexo I referido no caput os produtos classificados nos seguintes códigos da Tipi:
 I - 9503.00.10, 9503.00.21, 9503.00.22, 9503.00.29, 9503.00.31, 9503.00.39, 9503.00.40, 9503.00.50, 9503.00.60, 9503.00.70, 9503.00.80, 9503.00.91, 9503.00.97, 9503.00.98, 9503.00.99;
 II - (VETADO)
@@ -36,6 +36,7 @@ II - (VETADO)
 § 7º A antecipação de que trata o § 6º será exercida de forma irretratável mediante o recolhimento, até o prazo de vencimento, da contribuição previdenciária prevista nos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991, relativa a junho de 2013.
 § 8º As empresas relacionadas nos incisos XI e XII do § 3º poderão antecipar para 4 de junho de 2013 sua inclusão na tributação substitutiva prevista neste artigo.
 § 9º A antecipação de que trata o § 8º será exercida de forma irretratável mediante o recolhimento, até o prazo de vencimento, da contribuição substitutiva prevista no caput, relativa a junho de 2013.
+§ 10. (VETADO).
 § 11. O disposto no inciso XII do § 3º do caput deste artigo e no Anexo II desta Lei não se aplica:
 I - às empresas de varejo dedicadas exclusivamente ao comércio fora de lojas físicas, realizado via internet, telefone, catálogo ou outro meio similar; e
 II - às lojas ou rede de lojas com características similares a supermercados, que comercializam brinquedos, vestuário e outros produtos, além de produtos alimentícios cuja participação, no ano calendário anterior, seja superior a 10% (dez por cento) da receita total.
