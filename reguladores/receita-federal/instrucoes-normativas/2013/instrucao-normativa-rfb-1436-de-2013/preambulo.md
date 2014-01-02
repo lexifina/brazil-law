@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1436, de 30 de dezembro de 2013
+Dispõe sobre a Contribuição Previdenciária sobre a Receita Bruta (CPRB), destinada ao Regime Geral de Previdência Social (RGPS), devida pelas empresas referidas nos arts. 7º e 8º da Lei nº 12.546, de 14 de dezembro de 2011.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 7º a 9º da Lei nº 12.546, de 14 de dezembro de 2011, e no Decreto nº 7.828, de 16 de outubro de 2012, resolve:
