@@ -1,0 +1,2 @@
+[arquivo anexo: tab.htm]
+Art. 3º Esta Instrução Normativa entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2014.

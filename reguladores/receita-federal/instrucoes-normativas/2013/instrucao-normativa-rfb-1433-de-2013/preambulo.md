@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1433, de 30 de dezembro de 2013
+Dispõe sobre a tabela progressiva anual relativa à tributação do imposto sobre a renda incidente sobre o valor da participação dos trabalhadores nos lucros ou resultados da empresa (PLR) a partir do ano-calendário de 2014.
+O SECRETÁRIO-ADJUNTO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe conferem os incisos III do art. 280 e inciso I do art. 281 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no § 11 do art. 3º da Lei nº 10.101, de 19 de dezembro de 2000, resolve:
