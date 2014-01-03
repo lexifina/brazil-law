@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1439, de 2 de janeiro de 2014
+Revoga a Instrução Normativa RFB nº 1.349, de 25 de abril de 2013, que estabelece normas para emissão e envio de arquivo em meio magnético contendo dados relativos a operações em bolsas de valores, de mercadorias e de futuros, e em mercados de balcão organizado para fins de apuração do IR e institui o Informe de Operações em Mercados Organizados de Valores Mobiliários.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
