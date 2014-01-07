@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF09 nº 82, de 16 de outubro de 2013
+Assunto: Classificação de Mercadorias Código Tipi 2005.99.00 Mercadoria: Pasta de cebola obtida com cebolas frescas descascadas e esmagadas com adição de sal, não congelada, pronta para uso na elaboração de outros alimentos. Dispositivos Legais: RGI/SH 1 (textos da Nota 3 do Capítulo 20 e da posição 20.05) e 6 (textos das subposições 2005.9 e 2005.99) da Tipi, aprovada pelo Decreto nº 7.660, de 2011, subsídios Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
+Assunto: Classificação de Mercadorias Código Tipi 2005.99.00
+Mercadoria: Pasta de cebola obtida com cebolas frescas descascadas e esmagadas com adição de sal, não congelada, pronta para uso na elaboração de outros alimentos.
+Dispositivos Legais: RGI/SH 1 (textos da Nota 3 do Capítulo 20 e da posição 20.05) e 6 (textos das subposições 2005.9 e 2005.99) da Tipi, aprovada pelo Decreto nº 7.660, de 2011, subsídios Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
