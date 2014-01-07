@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF09 nº 86, de 18 de outubro de 2013
+Assunto: Classificação de Mercadorias Código TEC: 8543.70.99 Ementa: Equipamento conversor de frequências e amplificador de sinais, com alimentador, próprio para ser montado em antena de sistema de recepção de sinais de satélite, comercialmente denominado LNBF (Low Noise Blockconverter Feedhorn). Dispositivos Legais: RGI 1 (texto da posição 85.43), RGI 6 (texto da subposição 8543.70), e RGC-1(RGI 3 “c”; textos do item 8543.70.9 e do subitem 8543.70.99), da TEC, aprovada pela Resolução Camex nº 94, de 2011.
+Assunto: Classificação de Mercadorias Código TEC: 8543.70.99
+Ementa: Equipamento conversor de frequências e amplificador de sinais, com alimentador, próprio para ser montado em antena de sistema de recepção de sinais de satélite, comercialmente denominado LNBF (Low Noise Blockconverter Feedhorn).
+Dispositivos Legais: RGI 1 (texto da posição 85.43), RGI 6 (texto da subposição 8543.70), e RGC-1(RGI 3 “c”; textos do item 8543.70.9 e do subitem 8543.70.99), da TEC, aprovada pela Resolução Camex nº 94, de 2011.
