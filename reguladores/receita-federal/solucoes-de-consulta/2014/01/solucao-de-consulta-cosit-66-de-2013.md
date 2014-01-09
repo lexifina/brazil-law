@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 66, de 30 de dezembro de 2013
+Assunto: Simples Nacional Ementa: Opção Pelo Simples Nacional. Agência de Viagens e Turismo. Prestação de Serviço de Transporte Turístico. Não Vedação. Pode optar pelo Simples Nacional a ME ou EPP que exerça as atividades inerentes a agência de viagens e turismo, nas quais se inclui a prestação de serviço de transporte turístico com frota própria, nos termos da Lei nº 11.771, de 2008, independentemente de esse transporte ocorrer dentro de um município, entre municípios ou entre estados. Dispositivos Legais: Lei Complementar nº 123, de 2006, art. 17, II, III, V, VI, XII e § 1º, art. 18, § 5º-B, III, § 5º-C e § 5º-H; Lei nº 11.771, de 2008, art. 22 e art. 27, § 4º, II, e § 7º.
+[arquivo anexo: SC Cosit 66-2013.pdf]
