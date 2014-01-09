@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 4, de 6 de janeiro de 2014
+Assunto: Imposto sobre a Renda de Pessoa Física – IRPF Ementa: Pessoa Física. Residente no Brasil. Investimento no Exterior. Mercado Futuro. Perdas. Indedutibilidade. A pessoa física residente no Brasil que incorrer em perdas relacionadas a investimentos de renda variável no exterior, inclusive em mercados futuros, não pode compensar tais perdas com eventuais ganhos de capital auferidos nessas ou em outras aplicações, em momento anterior ou posterior, seja para fins de apuração da base de cálculo ou como fator de redução do tributo devido. Dispositivos Legais: Art. 24 da Medida Provisória nº 2.158- 35/2001; e IN SRF nº 118/2000.
+[arquivo anexo: SC Cosit nº 04-2014.pdf]
