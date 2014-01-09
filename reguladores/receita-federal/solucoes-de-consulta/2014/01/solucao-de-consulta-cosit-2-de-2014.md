@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 2, de 6 de janeiro de 2014
+Assunto: Imposto sobre a Renda de Pessoa Física – IRPF Ementa: Rendimentos de Pensão Alimentícia. São rendimentos tributáveis os valores percebidos, em dinheiro, a título de alimentos ou pensões, em cumprimento de decisão judicial ou acordo homologado judicialmente, inclusive a prestação de alimentos provisionais, estando sujeitos ao recolhimento mensal obrigatório do imposto (carnê-leão) e devem integrar a base de cálculo do imposto na Declaração de Ajuste Anual. Dispositivos Legais: Lei nº 7.713, de 22 de dezembro de 1988, art. 3º, §1º; Decreto nº 3.000, de 26 de março de 1999, arts. 54, 106, inciso II e 109.
+[arquivo anexo: SC Cosit nº 02-2014.pdf]
