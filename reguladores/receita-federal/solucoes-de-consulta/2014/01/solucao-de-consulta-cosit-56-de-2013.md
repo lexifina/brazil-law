@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 56, de 30 de dezembro de 2013
+Assunto: Imposto sobre a Renda de Pessoa Física – IRPF Ementa: Rendimentos de Aluguel. Comunhão Parcial. Bens Particulares. Os rendimentos de aluguel no regime de comunhão parcial de bens, referentes a imóvel adquirido por sucessão, pertencente somente a um dos cônjuges, devem ser tributados em sua totalidade por aquele a quem pertence o bem. Dispositivos Legais: Regulamento do Imposto de Renda aprovado pelo Decreto n.º 3.000, de 26 de março de 1999, artigos 6º, inciso I, e 7º, caput; e Instrução Normativa SRF n.º 15, de 6 de fevereiro de 2001, artigo 4º, inciso II.
+[arquivo anexo: SC Cosit 56-2013.pdf]
