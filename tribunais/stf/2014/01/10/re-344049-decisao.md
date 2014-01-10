@@ -1,0 +1,20 @@
+DECISÃO:
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão que “reconheceu a necessidade de correção das demonstrações financeiras por índice que reflita a efetiva inflação, sob pena de elevação do resultado financeiro, com repercussão na carga tributária da empresa, entendendo aplicáveis, contudo, os índices de 42,72%, para janeiro/89 e 10,14%, para fevereiro/89”.
+    A recorrente aduz com violação ao art. 150, II da Constituição, sob o argumento de que o “próprio Poder Público teria previsto a utilização do índice de 70,28% para fins de imposto de renda de pessoas jurídicas em outras ocasiões, estando vedado assim que não o admita para os demais contribuintes, promovendo tratamento desigual na mesma situação”.
+    Decido.
+    O Plenário desta Corte, no julgamento do Recurso Extraordinário nº 208.526/RS, Rel. Min. Marco Aurélio, no dia 20.11.2013, por maioria, deu provimento ao recurso extraordinário para declarar a inconstitucionalidade do artigo 30, § 1º, da Lei nº 7.730/89, e do artigo 30, caput, da Lei nº 7.799/89, bem como determinou a aplicação do resultado do julgamento ao regime da repercussão geral reconhecida no RE nº 242.689, Relator o Ministro Gilmar Mendes.
+    Na ocasião, a Corte decidiu no sentido de reconhecer o direito à parte recorrente à correção monetária nos termos da legislação revogada, sob o fundamento de que o distanciamento entre o índice fixado em lei e aquele que efetivamente refletiu a inflação do período causou uma disparidade muito grande quando da atualização das demonstrações financeiras com reflexos na apuração do lucro e consequentemente no valor do tributo a pagar, ocasionando a tributação de um lucro fictício. Consequentemente, declarou a inconstitucionalidade das referidas normas legais, sob o fundamento de que elas não resistiriam a um juízo de razoabilidade e de proporcionalidade, considerando o distanciamento muito grande entre o BTN e o IPC, do período discutido.
+    Todavia, a Corte entendeu não ser o caso de avançar para definir o percentual a ser utilizado, deixando a discussão para o juízo da execução.
+    Com efeito, quando do julgamento do RE 208.526, o Ministro Relator Marco Aurélio acabou por aderir à colocação do Ministro Roberto Barroso, no sentido de não caber a esta Corte a definição do percentual do IPC que seria o correto, como se vê dos trechos que seguem:
+    “Adiro à colocação. Quem sou eu para imaginar e pinçar índice? De início, tomei o índice do IBGE como oficial, mas não tenho dificuldade em marchar no sentido de deixar para a liquidação, se for o caso, a apuração do índice oficial, e que, portanto, tenha refletido a inflação do período.”
+    Em seguida, o Ministro Roberto Barroso afirmou:
+    “É que o Ministro Lewandowski observou, no voto dele, que os 70,28% apurados pelo IBGE corresponderiam a um período superior a um mês, corresponderiam a cinquenta e um dias. De modo que eu acho que não cabe a nós, nesta altura, enveredarmos por esse caminho, e ainda mais com o reajuste do Ministro Marco Aurélio, para a minha honra. Eu acompanho o Ministro Lewandowski.”
+    No caso dos autos, ao que consta, o acórdão recorrido não divergiu da orientação da corte ao concluir pela impossibilidade de utilização de índice que não reflete a inflação do ano base de 1989. Todavia, à luz da jurisprudência pacífica dos Tribunais do País, notadamente do Superior Tribunal de Justiça, competente para analisar questões de natureza infraconstitucional, entendeu como razoável o índice de 42,72% para o mês de janeiro/89, repercutindo para fevereiro/89 em 10,14%.
+    Dessa forma, na esteira do que decidido por esta Corte, não cabe imiscuir-se nas razões pelas quais se entendeu como razoável o índice de 42,72% para o mês de janeiro/89, sendo que, para divergir do que decidido pelo Tribunal de origem, necessário seria o revolvimento de todo o arcabouço normativo infraconstitucional, o que é vedado em sede extraordinária.
+    Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 10 de janeiro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
