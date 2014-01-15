@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA. ERRO MÉDICO. INDENIZAÇÃO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Câmara Única da Turma Cível do Tribunal de Justiça de Roraima decidiu:
+    “APELAÇÃO CÍVEL - DANOS MORAIS E ESTÉTICOS - NEGLIGÊNCIA NO ATENDIMENTO MÉDICO - INFECÇÃO HOSPITALAR - RESPONSABLIDADE OBJETIVA DO ESTADO - COMPROVAÇÃO DO NEXO DE CAUSALIDADE - DANO MORAL FIXADO EM PATAMAR RAZOÁVEL - DANOS ESTÉTICOS AFASTADOS - AUSÊNCIA DE PROVA - RECURSO DO ESTADO PARCIALMENTE PROVIDO - RECURSO ADESIVO DESPROVIDO EM RAZÃO DA RAZOABILIDADE DO VALOR FIXADO PELOS DANOS MORAIS” (fl. 186).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    4. O Agravante argumenta que
+     “não houve discussão sobre a ocorrência dos fatos, mas sim, sobre qual evento foi o gerador do dano e sobre a correta aplicação dos dispositivos ditos violados” (fl. 212).
+    No recurso extraordinário, alega-se que o Tribunal a quo teria contrariado o § 6º do art. 37 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    O Desembargador Relator do caso no Tribunal de Justiça de Roraima observou:
+    “O paciente que é submetido a intervenção cirúrgica em hospital da rede pública não pode ser considerado um contratante com o Estado, de modo a se imputar aos atos lesivos por este praticados uma responsabilidade subjetiva. Não há contrato administrativo. A atividade desenvolvida pelo Estado envolve os riscos inerentes e é oferecida em prol da coletividade. A atividade geradora dos riscos é o oferecimento aos administrados em geral de serviços médico-hospitalares, não devendo ser excluídas tais atividades da responsabilização objetiva do Estado. Assim, em se tratando de responsabilidade objetiva, não há que se falar em culpa do agente, mas tão somente na ocorrência do dano e na configuração do nexo de causalidade entre a atuação do agente e os danos verificados. O dano restou devidamente comprovado mediante a documentação trazida pela autora, ora apelada. Desta forma, havendo laudo médico atestando a ocorrência da infecção e, considerando a responsabilidade objetiva do ente público, bem como a ausência de prova de que a infecção que acometeu a paciente foi decorrente de bactéria de sua própria pele, não há como afastar a responsabilidade do Estado. Verificado o dano, bem como o nexo de causalidade entre este e a conduta do ente estatal, correta a sentença em condenar o Estado em danos morais” (fls. 182-183).
+    Decidir de modo diverso do que assentado nas instâncias precedentes dependeria do reexame de provas, o que não pode ser adotado em recurso extraordinário, nos termos da Súmula n. 279 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. RESPONSABILIDADE OBJETIVA. ALEGAÇÃO DE ERRO MÉDICO. IMPOSSIBILIDADE DO REEXAME DE FATOS E PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 616.955-AgR, de minha relatoria, Primeira Turma, DJ 30.11.2007, grifos nossos).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. ERRO MÉDICO. DANO CAUSADO POR PESSOA JURÍDICA DE DIREITO PRIVADO PRESTADORA DE SERVIÇO PÚBLICO. RESPONSABILIDADE CIVIL OBJETIVA. EXISTÊNCIA DE NEXO DE CAUSALIDADE ENTRE A CONDUTA E O EVENTO DANOSO. EXAME DE MATÉRIA FÁTICA. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – O Tribunal de origem constatou a existência do nexo de causalidade entre a conduta e o evento danoso, concluindo pela responsabilidade civil objetiva do Estado. Assim, a apreciação do RE demandaria o reexame de provas, o que atrai a incidência da Súmula 279 do STF. II – Agravo regimental improvido” (RE 578.326-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 20.8.2013, grifos nossos).
+    E
+    “ADMINISTRATIVO. SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 37, § 6º, DA CF. OFENSA CONSTITUCIONAL REFLEXA. ANÁLISE DOS ASPECTOS FÁTICOS DO NEXO DE CAUSALIDADE ENTRE A CONDUTA DO ESTADO E O DANO. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE 399.284-AgR-segundo, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 22.8.2013, grifos nossos).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, pelo que nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de janeiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
