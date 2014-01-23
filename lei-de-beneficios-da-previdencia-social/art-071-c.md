@@ -1,0 +1,1 @@
+Art. 71-C. A percepção do salário-maternidade, inclusive o previsto no art. 71-B, está condicionada ao afastamento do segurado do trabalho ou da atividade desempenhada, sob pena de suspensão do benefício.
