@@ -1,0 +1,23 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de José Simão e Souza contra ato coator que implicou afastamento do paciente do cargo Prefeito do Município de Manaíra/PB.
+    Na origem, José Simão e Souza foi preventivamente afastado do cargo de Prefeito do Município de Manaíra, em 23/12/2013, por decisão do Tribunal de Justiça do Estado da Paraíba que recebeu denúncia do Ministério Público local com base no art. 90 da Lei 8.666/93.
+    Alega o impetrante, em síntese, que
+    “admitir o não cabimento do habeas corpus em favor daquele que se encontre submetido ou na iminência de ser submetido a uma medida cautelar diversa da prisão, seria tolher de forma definitiva, qualquer possibilidade de o acautelado atacar a medida de restrição que lhe é imposta, tornando-a ‘eterna’ durante todo o curso da ação penal”.
+    Afirma que a motivação ofertada pelo Relator do HC 285.524/PB, perante o Superior Tribunal de Justiça, teria gerado inegável constrangimento ilegal ao paciente e também à população do Município de Manaíra-PB, eis que aquele se encontra fora do cargo para o qual foi legitimamente eleito.
+    Sustenta que o Tribunal local reconheceu o descabimento de decretar-se a prisão preventiva do paciente, mas, paradoxalmente, afastou-o do cargo de maneira ilegal.
+    Sobre o periculum in mora, argumenta ser
+    “evidente o fato de que a demora no provimento jurisdicional causa elevação do constrangimento ilegal ao qual o paciente está submetido, uma vez que foi ilegalmente afastado do cargo para o qual foi eleito e a cada dia que se passa, aumenta a intranquilidade e o risco do dano de difícil reparação, sem nenhuma motivação que justifique, sofrendo prejuízo tanto ele quanto a população da edilidade”.
+    Pede o deferimento da medida liminar para suspender o trâmite da ação penal “até julgamento final deste writ, com a consequente suspensão da execução da medida cautelar imposta, por ser flagrante a coação ilegal efetivada contra o paciente, determinando-se seu retorno ao cargo de Prefeito do Município de Manaíra-PB”.
+    No mérito, pugna pela concessão da ordem.
+    É o breve relatório. Decido o pedido liminar.
+    Examinados os autos verifico que o pedido liminar comporta parcial deferimento, tendo em conta a presença do fumus boni iuris e do periculum in mora.
+    Conforme tenho reiteradamente decidido, a superação da Súmula 691 do STF constitui medida excepcional, que somente de legitima quando a decisão se mostra teratológica, flagrantemente ilegal ou abusiva. Nesse sentido, cito entre outros, a medidas cautelares nos Habeas Corpus 117.761, 118.188 e 118.684, todos de minha relatoria.
+    A plausibilidade do direito invocado, indispensável ao deferimento da medida liminar revela-se presente, uma vez que o paciente foi afastado da chefia do Executivo local por mero recebimento da denúncia e não por decisão judicial condenatória. Em outras palavras, o paciente foi retirado do cargo para o qual foi eleito, sem decisão condenatória no âmbito do Tribunal de Justiça local.
+    De outro lado, salta aos olhos o periculum in mora uma vez que o requerente, prefeito eleito em 2008 e reeleito em 2012, foi afastado do exercício do seu mandato, em 23/12/2013, ensejando indesejável alternância no comando do Município de Manaíra/PB, ante o deficit de legitimidade democrática daquele assume a chefia do Executivo local interinamente.
+    O Plenário do Supremo Tribunal Federal, ao julgar a ADI 644-MC/AP, assentou que “a subtração do titular, ainda que parcial, do conteúdo do exercício de um mandato político é, por si mesma, um dano irreparável”. Na ocasião, o Relator, Min. Sepúlveda Pertence, entendeu que “os mandatos republicanos são essencialmente limitados no tempo e improrrogáveis: por isso, a indevida privação, embora temporária, do seu exercício é irremediável, por definição”.
+    Isso posto, defiro em parte o pedido liminar para manter JOSÉ SIMÃO E SOUZA no cargo de Prefeito do Município de Manaíra/PB, a fim de resguardar a soberania popular sufragada no pleito de 2012, até decisão definitiva na referida ação penal, salvo se novos fatos autorizarem a medida cautelar ora impugnada, observado o melhor exame da questão pelo Relator sorteado.
+    Quanto ao o pedido de suspensão da ação penal, o indefiro pois verifico que tal medida violaria o art. 5º, LXXVII, da Constituição, in verbis: “a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação”.
+    Comunique-se, com urgência.
+    Publique-se.
+    Brasília, 24 de janeiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+Presidente em exercício
