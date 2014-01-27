@@ -1,0 +1,23 @@
+DECISÃO
+AÇÃO CAUTELAR INCIDENTAL À AÇÃO DIRETA DE INCONSTITUCIONALIDADE. INVIABILIDADE DO AJUIZAMENTO. PEDIDO INCOMPATÍVEL COM O PROCESSO CAUTELAR. AÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Ação cautelar incidental à Ação Direta de Inconstitucionalidade n. 2.914, de minha relatoria, ajuizada pela Confederação Brasileira de Trabalhadores Policiais Civis – COBRAPOL contra o Procurador-Geral da República, buscando-se seja reconhecida perda de objeto da ação principal.
+    2. A Autora relata que a Lei n. 4.997/1994, objeto da Ação Direta de Inconstitucionalidade n. 2.914, de minha relatoria, “institui a escolaridade de nível superior para ingresso nos cargos de perito papiloscópico e de investigador de polícia civil, tendo alterado também a nomenclatura do cargo de papiloscopista para perito papiloscópico” (fl. 2).
+    Afirma que “a adoção do nível de escolaridade de terceiro grau é vital para o engrandecimento dos policiais civis e para o aprimoramento dos relevantes erviços por eles prestados ao povo brasileiro, pelo que interpõe (sic) a presente medida cautelar para levar ao conhecimento a perda de objeto da ADI por ter sido a Lei n. 4.997/94 (Lei Complementar n. 57/94) revogada pelas Leis Complementares n. 118/98 e 422/2007, ambas de iniciativa do Exmo. Sr. Governador do Estado do Espírito Santo” (fl. 4).
+    Pede seja “declarada a perda de objeto da ADI 2.914, em face da revogação da Lei do Estado do Espírito Santo n. 4.997/94 (Lei Complementar n. 57/94) pela Lei Complementar n. 118/98 e pela Lei Complementar n. 422/07 (ambas do Estado do Espírito Santo), determinando-se seu arquivamento definitivo” (fl. 68).
+    Examinados os elementos havidos nos autos, DECIDO.
+    3. Este Supremo Tribunal assentou a inviabilidade do ajuizamento de ação cautelar incidental à ação direta de inconstitucionalidade, pela sua natureza de ação de controle concentrado de constitucionalidade. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL. MEDIDA CAUTELAR INCIDENTAL À AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 2.415. CONCURSO PÚBLICO PARA OUTORGA DE DELEGAÇÕES DE NOTAS E DE REGISTRO. EXCLUSÃO DE SERVENTIA. DECISÃO QUE NEGOU SEGUIMENTO AO PEDIDO.
+    Descabimento da medida cautelar, regulada pelo Código de Processo Civil, porque se trata de processo subjetivo, que não se aplica às ações diretas de inconstitucionalidade, pela natureza objetiva destas últimas. Ademais, a cautelar inerente à ADI 2.415 já foi examinada e indeferida nos autos próprios, não sendo admissível o seu rejulgamento para surtir efeitos concretos com relação ao autor, titular de serventia desmembrada. Agravo regimental desprovido” (AC 688-AgR/SP, Relator o Ministro Ayres Britto, Plenário, DJ 25.8.2006, grifos nossos).
+    E
+    “EMENTA Agravo regimental. Ação cautelar incidental na ADI nº 2.650. Frente Suprapartidária da Sociedade Civil “O PARÁ POR INTEIRO”. Resolução-TSE nº 23.347, de 2011. Impugnação autônoma. Não cabimento. Agravo não provido. 1. Diante da natureza da ação direta de inconstitucionalidade e da natureza objetiva do controle concentrado de constitucionalidade, é inviável o ajuizamento de cautelar inominada atrelada a ação direta de constitucionalidade. Precedentes. 2. Ausência de identidade entre o objeto da ação cautelar e o objeto da ADI 2.650, além de não haver nenhuma relação de incidentalidade entre ambas. 3. Evidente ilegitimidade da requerente, seja para a ação direta, seja para o pedido cautelar (art. 103 da Constituição Federal). 4. Agravo regimental a que se nega provimento” (AC 2.961-AgR/DF, Relator o Ministro Dias Toffoli, Plenário, DJ 6.12.2011, grifos nossos).
+    Não bastasse o descabimento de ação cautelar em ação de controle concentrado de constitucionalidade, o pedido apresentado não busca assegurar o direito objeto da lide principal, o que caracteriza o processo cautelar, respeitando o próprio objeto da ação direta, pelo que qualquer manifestação da Autora, como interessada, se legitimada, teria de se dar naquela ação.
+    4. Na inicial, a Autora afirma que “toda a defesa dos interesses das categorias envolvidas na ADI 2.914 foi feita oportunamente, relatando-se principalmente as graves consequências advindas de um julgamento favorável” (fl.3).
+    Consta do andamento da Ação Direta de Inconstitucionalidade n. 2.914, a juntada das informações apresentadas pela Autora em 29.3.2004.
+    E, em 2.5.2008, aquela ação direta foi incluída na pauta do Plenário deste Supremo Tribunal.
+    5. Pelo exposto, nego seguimento à presente ação cautelar (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Arquive-se.
+    Brasília, 27 de janeiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
