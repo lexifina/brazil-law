@@ -1,0 +1,16 @@
+Trata-se de habeas corpus impetrado contra decisão do Ministro Campos Marques, Desembargador convocado do TJPR, que negou seguimento ao HC 276.583/PR porque, uma vez transitada em julgado a sentença penal condenatória, o consectário lógico é a expedição de mandado de prisão, a fim de que se inicie a execução da sanção penal. Quanto à alteração do regime para o cumprimento da pena, Sua Excelência anotou que a controvérsia há de ser discutida em procedimento de revisão criminal.
+    Consta dos autos que o paciente foi condenado, por infração do disposto no artigo 157, § 2º, I e II, do Código Penal, à pena de 4 (quatro) anos, 4 (quatro) meses e 8 (oito) dias de reclusão, em regime inicial fechado.
+    O Tribunal de Justiça do Estado de São Paulo, por sua vez, deu provimento parcial ao recurso de apelação interposto pela defesa e reduziu a pena para 3 (três) anos e 8 (oito) meses de reclusão. Contudo, manteve o regime prisional estabelecido na sentença.
+    Na inicial desta impetração, reiteram-se as causas de pedir e os pedidos formalizados no writ formalizado no Superior Tribunal de Justiça.
+    Os impetrantes ressaltam que o paciente é primário, possui bons antecedentes e residência fixa, razão por que, nos termos do artigo 33, § 2º, alínea d, do Código Penal, impõe-se o cumprimento da pena no regime inicial aberto.
+    Pedem, por isso, a concessão de liminar, determinando-se a expedição de contramandado de prisão. No mérito, pugnam pela fixação do regime prisional aberto, por ser consentâneo com a legislação penal e mais favorável ao paciente.
+    É o breve relatório. Decido.
+    O Tribunal de Justiça do Estado de São Paulo, no que concerne ao estabelecimento do regime para o cumprimento da pena, assentou:
+    “O regime prisional é mesmo o inicialmente fechado, pois é o que mais se coaduna à espécie, na medida em que 'tratando-se de crime de roubo qualificado, é correta a fixação do regime inicial fechado, mesmo se os réus forem primários e não houver prova da existência de maus antecedentes, pois devem-se levar em conta as circunstâncias do delito que, no caso, vem causando grande comoção social' (Júlio Fabbrini Mirabete, in 'Execução Penal', Ed. Atlas, 11ª edição, 2008, pág. 326).
+    Importante consignar, a propósito, que não há qualquer ilegalidade na fixação do regime inicial como fechado, e nem ofensa às Súmulas 718 e 719, do Excelso Supremo Tribunal Federal, pois os fatos concretos e as circunstâncias judiciais concretamente aferidas, devidamente extraídas dos autos, demonstram não ser recomendável a adoção de regime prisional mais brando, sobretudo para não se provocar afrouxamento excessivo e intolerável estímulo ao criminoso, forjando, em seu espírito, a sensação de uma ilusória impunidade”.
+    Ora, o pleito cautelar, no sentido da expedição de contramandado de prisão, está imbricado com o de alteração do regime prisional, do fechado para o aberto. Assim, a pretensão tem caráter satisfativo, por implicar antecipação do mérito da controvérsia, que deverá ser apreciado pelo Colegiado.
+    Isso posto, indefiro a medida cautelar, sem prejuízo do reexame do pedido pelo Ministro relator.
+    Publique-se.
+    Brasília, 28 de janeiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+Presidente em exercício
