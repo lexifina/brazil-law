@@ -1,0 +1,18 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PENAL. INTEMPESTIVIDADE DO RECURSO EXTRAORDINÁRIO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de admissão de recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “EMENTA: APELAÇÃO CRIMINAL. ROUBO CIRCUNSTANCIADO E QUADRILHA ARMADA. BIS IN IDEM ENTRE OS DELITOS DE QUADRILHA ARMADA E ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E USO DE ARMA DE FOGO. INOCORRÊNCIA. AUTONOMIA DOS DELITOS. PENAS EXACERBADAS. REDUÇÃO. EXASPERAÇÃO DA PENA EM 3/8 (TRÊS OITAVOS) COM FUNDAMENTO EXCLUSIVO NO NÚMERO DE MAJORANTES. IMPOSSIBILIDADE. SÚMULA 443/STJ. 1- Restando comprovada a materialidade e autoria do delito de roubo circunstanciado, sobretudo pelas interceptações telefônicas e a confissão espontânea de um dos corréus na fase policial, não há se falar em absolvição sob alegação ide ausência de provas. 2- Verificando-se a existência vínculo associativo permanente com a finalidade de cometer crimes, formando uma verdadeira societas sceteris para essa finalidade, configurado está o delito de quadrilha, como ocorre na espécie. 3- Não enseja o defeso bis in idem a condenação simultânea pelos crimes de quadrilha armada e roubo circunstanciado pelo concurso de pessoas e uso de armas, uma vez que cada um dos destes delitos são autônomos. 4- Verificando-se que as penas foram aplicadas com certa exacerbação, Impõe-se a sua redução, atento ao princípio constitucional da individualização das penas, de acordo com os contornos da prática ilícita. 5- Na conformidade do previsto na Súmula 443/STJ, ainda que no roubo ocorram duas ou mais majorantes obrigatórias, o aumento deve limitar-se à fração mínima de 1/3 {um terço), já,que as frações superiores exigem concreta fundamentação, não sendo suficiente para a sua exasperação a mera indicação ao número de majorantes. 6- Preliminares rejeitadas. Recursos parcialmente providos”.
+    2. A Agravante afirma que o Tribunal de origem teria contrariado “as disposições constitucionais da ampla defesa e do contraditório, além da ofensa ao princípio do ne bis in idem, e ainda por se basear a condenação do Recorrente fundamentalmente em provas ilícitas, como aduzido nas razões em dissertação, o que deixou de ser observado pelo julgador de Primeiro Grau”.
+    3. O recurso extraordinário foi inadmitido sob fundamento de intempestividade (fl. 758).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão de direito não assiste ao Agravante.
+    6. O recurso extraordinário é intempestivo.
+    7. O acórdão recorrido foi publicado no Diário de Justiça em 3.6.2013, segunda-feira. Entretanto, o Agravante não observou o prazo legal de quinze dias e interpôs o recurso extraordinário em 20.6.2013, quinta-feira, após o término do prazo legal, que se deu em 18.6.2013, terça-feira.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de janeiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
