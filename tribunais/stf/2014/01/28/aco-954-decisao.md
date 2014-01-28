@@ -1,0 +1,22 @@
+DESPACHO
+    1. Ação Civil Pública por ato de improbidade administrativa, com requerimento de medida liminar, ajuizada pelo Ministério Público Federal contra o Estado de Mato Grosso do Sul, Agamenon Rodrigues do Prado, José Luiz dos Reis, Dagoberto Neri Lima, Neriberto Herradon Pamplona, Rubens Alvarenga, Edson José dos Santos, Luzia Cristina Herradon Pamplona, Maria Madalena Frozino Ribeiro, Ana Maria Chaves Faustino Tieti, Sonia Savi, Marci Maria das Graças Vieira Melo e Jane Aparecida da Silva, em 3.4.2006, na Justiça Federal da 3ª Região.
+    2. Em 16.10.2006, a Ação Civil Pública n. 2643-41.2006.4.03.6000 foi autuada neste Supremo Tribunal Federal como Ação Cível Originária, nos termos do art. 102, inc. I, alínea f , da Constituição da República.
+    3. Em 27.11.2006, ratifiquei a medida liminar deferida pelo juízo da 4ª Vara da Seção Judiciária do Estado de Mato Grosso do Sul e determinei a citação do Estado de Mato Grosso do Sul e dos demais Réus para apresentação de contestação (fls. 897-902).
+    4. Em 26.11.2007, determinei a intimação das partes para manifestação, no prazo máximo de dez dias, sobre provas que pretendessem produzir.
+    5. Em 13.8.2013, Augusto Cesar dos Santos, terceiro interessado na presente ação cível originária, protocolou a Petição n. 38.479/2013 (fls. 1466-1470).
+    Relatou que, pelo que determinado na presente ação cível originária e em outras cinco ações civis públicas ajuizadas contra Dagoberto Neri Lima e outros, o Cartório do 1º Ofício de Campo Grande/MS teria averbado a indisponibilidade do imóvel residencial matriculado sob o n. 74.735, situado na Rua Caburé n. 69, conjunto residencial Otávio Pécora, Campo Grande/MS, registrado em nome de Dagoberto Neri Lima e sua esposa.
+    Augusto Cesar dos Santos explicou que, apesar de o referido imóvel estar registrado em nome de Dagoberto Neri Lima e sua esposa, o imóvel lhe pertenceria, pois, em 2.5.1992, o imóvel teria sido vendido por Dagoberto a Antônio Santa Lúcia, de quem teria adquirido o imóvel em 17.10.1994.
+    Noticiou ter oposto embargos de terceiro nas ações civis públicas, nas quais teria sido determinada a indisponibilidade do imóvel, e que, “em três dessas seis ações, nas de n. 2006.60.00.006610-3, 2006.60.00.002683-0 e 2006.60.00.002642-7 todas em trâmite na 4ª Vara Federal da seção judiciária do Estado de Mato Grosso do Sul, [teria havido] manifestação do Ministério Público Federal concordando com a exclusão da indisponibilidade do imóvel” (fl. 1468).
+    Alegou que “diante de tais pareceres, o juízo de trâmite das citadas ações, [teria] exar [ado] sentenças extinguindo os citados processos, com resolução de mérito determinando a exclusão das ordens de indisponibilidade que recaiam sob o registro do imóvel do Embargante” (fl. 1469).
+    Sustentou, ainda, haver “sentença [julgando] procedente com resolução do mérito nos Embargos de Terceiro n. 0003698-80.2013.4.03.6000 em trâmite pela 1ª Vara Federal da Seção de Mato Grosso do Sul” (fl. 1469).
+    Pediu “a exclusão da indisponibilidade averbada na matrícula do imóvel n. 74.735, situado na Rua Caburé n. 69, conjunto residencial Otávio Pécora, Campo Grande/MS, referente, especificamente à ordem emanada da Ação Civil Pública n. 0002643-41.2006.4.03.6000, que tramitava pela 4ª Vara Federal da seção judiciária de Mato Grosso do Sul e [se] transformou na presente ação cível originária” (fl. 1469).
+    6. Em 3.12.2013, determinei a manifestação do Ministério Público Federal sobre a petição de Augusto Cesar dos Santos.
+    7. Em 14.1.2014, o Procurador-Geral da República manifestou-se no seguinte sentido:
+    “verifica-se que, embora comprovada a transferência do imóvel do réu Dagoberto Neri Lima a Antonio Santa Lucia, o peticionante não traz prova contundente da transferência do imóvel do primeiro adquirente para ele próprio, o que tem inevitáveis reflexos na própria legitimidade do requerente para formular pedido de liberação do bem.
+    (…)
+    Por precaução, assim, ainda que se mostre possível o abrandamento da constrição judicial, parece prudente que seja o peticionante intimado a apresentar prova mais concreta dessa segunda transferência do bem, para que, após, seja examinada de modo definitivo a viabilidade da exclusão do gravame” (fl. 1536-1537).
+    8. Intime-se o interessado Augusto Cesar dos Santos para trazer a prova solicitada pelo Procurador-Geral da República.
+    Publique-se.
+    Brasília, 28 de janeiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
