@@ -1,0 +1,1 @@
+Art. 29. O disposto nesta Lei não exclui as competências do Conselho Administrativo de Defesa Econômica, do Ministério da Justiça e do Ministério da Fazenda para processar e julgar fato que constitua infração à ordem econômica.
