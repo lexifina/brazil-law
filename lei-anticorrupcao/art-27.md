@@ -1,0 +1,1 @@
+Art. 27. A autoridade competente que, tendo conhecimento das infrações previstas nesta Lei, não adotar providências para a apuração dos fatos será responsabilizada penal, civil e administrativamente nos termos da legislação específica aplicável.

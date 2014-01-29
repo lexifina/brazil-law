@@ -1,0 +1,1 @@
+Art. 17. A administração pública poderá também celebrar acordo de leniência com a pessoa jurídica responsável pela prática de ilícitos previstos na Lei nº 8.666, de 21 de junho de 1993, com vistas à isenção ou atenuação das sanções administrativas estabelecidas em seus arts. 86 a 88.
