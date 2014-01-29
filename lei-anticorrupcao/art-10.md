@@ -1,0 +1,5 @@
+Art. 10. O processo administrativo para apuração da responsabilidade de pessoa jurídica será conduzido por comissão designada pela autoridade instauradora e composta por 2 (dois) ou mais servidores estáveis.
+§ 1º O ente público, por meio do seu órgão de representação judicial, ou equivalente, a pedido da comissão a que se refere o caput, poderá requerer as medidas judiciais necessárias para a investigação e o processamento das infrações, inclusive de busca e apreensão.
+§ 2º A comissão poderá, cautelarmente, propor à autoridade instauradora que suspenda os efeitos do ato ou processo objeto da investigação.
+§ 3º A comissão deverá concluir o processo no prazo de 180 (cento e oitenta) dias contados da data da publicação do ato que a instituir e, ao final, apresentar relatórios sobre os fatos apurados e eventual responsabilidade da pessoa jurídica, sugerindo de forma motivada as sanções a serem aplicadas.
+§ 4º O prazo previsto no § 3º poderá ser prorrogado, mediante ato fundamentado da autoridade instauradora.
