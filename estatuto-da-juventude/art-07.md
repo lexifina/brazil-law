@@ -1,0 +1,6 @@
+Art. 7º O jovem tem direito à educação de qualidade, com a garantia de educação básica, obrigatória e gratuita, inclusive para os que a ela não tiveram acesso na idade adequada.
+§ 1º A educação básica será ministrada em língua portuguesa, assegurada aos jovens indígenas e de povos e comunidades tradicionais a utilização de suas línguas maternas e de processos próprios de aprendizagem.
+§ 2º É dever do Estado oferecer aos jovens que não concluíram a educação básica programas na modalidade da educação de jovens e adultos, adaptados às necessidades e especificidades da juventude, inclusive no período noturno, ressalvada a legislação educacional específica.
+§ 3º São assegurados aos jovens com surdez o uso e o ensino da Língua Brasileira de Sinais - LIBRAS, em todas as etapas e modalidades educacionais.
+§ 4º É assegurada aos jovens com deficiência a inclusão no ensino regular em todos os níveis e modalidades educacionais, incluindo o atendimento educacional especializado, observada a acessibilidade a edificações, transportes, espaços, mobiliários, equipamentos, sistemas e meios de comunicação e assegurados os recursos de tecnologia assistiva e adaptações necessárias a cada pessoa.
+§ 5º A Política Nacional de Educação no Campo contemplará a ampliação da oferta de educação para os jovens do campo, em todos os níveis e modalidades educacionais.
