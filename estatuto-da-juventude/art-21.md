@@ -1,0 +1,1 @@
+Art. 21. O jovem tem direito à cultura, incluindo a livre criação, o acesso aos bens e serviços culturais e a participação nas decisões de política cultural, à identidade e diversidade cultural e à memória social.
