@@ -1,0 +1,1 @@
+Art. 34. O jovem tem direito à sustentabilidade e ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo, essencial à sadia qualidade de vida, e o dever de defendê-lo e preservá-lo para a presente e as futuras gerações.

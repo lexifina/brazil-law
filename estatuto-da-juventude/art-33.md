@@ -1,0 +1,1 @@
+Art. 33. A União envidará esforços, em articulação com os Estados, o Distrito Federal e os Municípios, para promover a oferta de transporte público subsidiado para os jovens, com prioridade para os jovens em situação de pobreza e vulnerabilidade, na forma do regulamento.

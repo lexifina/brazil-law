@@ -1,0 +1,1 @@
+Art. 16. O direito à profissionalização e à proteção no trabalho dos adolescentes com idade entre 15 (quinze) e 18 (dezoito) anos de idade será regido pelo disposto na Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, e em leis específicas, não se aplicando o previsto nesta Seção.

@@ -1,0 +1,1 @@
+Art. 37. Todos os jovens têm direito de viver em um ambiente seguro, sem violência, com garantia da sua incolumidade física e mental, sendo-lhes asseguradas a igualdade de oportunidades e facilidades para seu aperfeiçoamento intelectual, cultural e social.

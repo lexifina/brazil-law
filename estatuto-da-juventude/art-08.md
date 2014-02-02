@@ -1,0 +1,3 @@
+Art. 8º O jovem tem direito à educação superior, em instituições públicas ou privadas, com variados graus de abrangência do saber ou especialização do conhecimento, observadas as regras de acesso de cada instituição.
+§ 1º É assegurado aos jovens negros, indígenas e alunos oriundos da escola pública o acesso ao ensino superior nas instituições públicas por meio de políticas afirmativas, nos termos da lei.
+§ 2º O poder público promoverá programas de expansão da oferta de educação superior nas instituições públicas, de financiamento estudantil e de bolsas de estudos nas instituições privadas, em especial para jovens com deficiência, negros, indígenas e alunos oriundos da escola pública.
