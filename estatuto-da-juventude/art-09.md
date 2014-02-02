@@ -1,0 +1,1 @@
+Art. 9º O jovem tem direito à educação profissional e tecnológica, articulada com os diferentes níveis e modalidades de educação, ao trabalho, à ciência e à tecnologia, observada a legislação vigente.
