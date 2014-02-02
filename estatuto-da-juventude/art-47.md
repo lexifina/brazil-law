@@ -1,0 +1,1 @@
+Art. 47. Sem prejuízo das atribuições dos conselhos de juventude com relação aos direitos previstos neste Estatuto, cabe aos conselhos de direitos da criança e do adolescente deliberar e controlar as ações em todos os níveis relativas aos adolescentes com idade entre 15 (quinze) e 18 (dezoito) anos.
