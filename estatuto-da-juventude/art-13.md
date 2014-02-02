@@ -1,0 +1,1 @@
+Art. 13. As escolas e as universidades deverão formular e implantar medidas de democratização do acesso e permanência, inclusive programas de assistência estudantil, ação afirmativa e inclusão social para os jovens estudantes.
