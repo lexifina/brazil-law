@@ -1,0 +1,13 @@
+Trata-se de agravo (pág. 78, vol. 9) contra decisão que negou seguimento ao recurso extraordinário. O acórdão impugnado possui a seguinte ementa:
+    “Direito administrativo – Plano de Atendimento à Saúde (PAS) – Convênio entre a Municipalidade de São Paulo e cooperativas de prestação de serviços médicos – Pagamento de serviços de informática feitos à conveniada – Responsabilidade exclusiva da contratante – Municipalidade excluída do efeito por legitimidade passiva ad causam.” (pág. 82, vol. 7).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação aos artigos 37, XXI e § 6º e 197, ambos da mesma Carta.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Wagner de Castro Mathias Netto, opinou pelo desprovimento do recurso (vol. 11).
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, observe-se que somente o artigo 37, XXI, foi prequestionado. Como tem consignado este Tribunal por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, confira-se o seguinte julgado:
+    “TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CONTRIBUIÇÕES SOCIAIS. EMPRESÁRIOS. AUTÔNOMOS E AVULSOS. LC 84/96. CONSTITUCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - A Contribuição social instituída pela Lei Complementar n. 84/96 teve sua constitucionalidade declarada pelo Plenário do STF, no julgamento do RE 228.321/RS. III - As razões do recurso não infirmam o fundamento da decisão agravada, o que atrai a incidência da Súmula 287 do STF. IV - Recurso protelatório. Aplicação de multa. V - Agravo regimental improvido” (AI 700.144-AgR/RJ, de minha relatoria, Primeira Turma).
+    Ademais, o Tribunal de origem amparou sua convicção em interpretação da legislação local e no contrato celebrado pela agravante, sendo o reexame incabível em sede de recurso extraordinário. Incidência das Súmulas 280 e 454 desta Corte.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
