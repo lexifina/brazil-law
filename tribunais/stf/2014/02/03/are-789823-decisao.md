@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “Principio da vedação do comportamento contraditório modificação de condições sem a devida comunicação alteração abrupta de postura irrelevância da autorização para psicultura culpa pelos prejuízos dano comprovado dever de indenizar prejuízo material demonstrado mortandade de peixes por ato da recorrente evidente dano moral - recurso conhecido e improvido” (fl. 213).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 170, II e III, e 225, § 1º, I e IV, da mesma Carta.
+    A pretensão recursal não merece acolhida. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, confira-se o seguinte julgado:
+    “TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CONTRIBUIÇÕES SOCIAIS. EMPRESÁRIOS. AUTÔNOMOS E AVULSOS. LC 84/96. CONSTITUCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - A Contribuição social instituída pela Lei Complementar n. 84/96 teve sua constitucionalidade declarada pelo Plenário do STF, no julgamento do RE 228.321/RS. III - As razões do recurso não infirmam o fundamento da decisão agravada, o que atrai a incidência da Súmula 287 do STF. IV - Recurso protelatório. Aplicação de multa. V - Agravo regimental improvido” (AI 700.144-AgR/RJ, de minha relatoria, Primeira Turma).
+    Além disso, a violação ao texto constitucional apontada pela recorrente, se ocorrente, se daria de modo reflexo, o que não abre a via do recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
