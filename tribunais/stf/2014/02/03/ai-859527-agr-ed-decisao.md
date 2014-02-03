@@ -1,0 +1,11 @@
+DESPACHO: A petição de fls. 2.713/2.719 evidencia que a parte ora embargada teria falecido.
+    Como se sabe, a morte de qualquer das partes gera conseqüências de natureza jurídica, com imediato reflexo, tanto na ordem processual quanto na esfera material: (a) extingue o mandato judicial outorgado pelo falecido ao mandatário (Código Civil, art. 682, II), pois, extinto o mandato pela morte do mandante, o antigo procurador já não mais ostenta qualidade para intervir no processo (AI 24.862, Rel. Min. PEDRO CHAVES), (b) provoca a suspensão do processo (CPC, art. 265, I), (c) torna inexistentes os atos praticados durante esse período de suspensão processual, (d) legitima a sucessão processual da parte falecida (CPC, art. 43) e (e) viabiliza, para este último efeito, a habilitação dos terceiros interessados (CPC, art. 1055).
+    Vê-se, portanto, que um dos efeitos jurídicos mais expressivos resultantes da morte da parte consiste na extinção, de pleno direito, do mandato que outorgou ao seu procurador.
+    Isso significa que, extinto o mandato judicial, não pode, o mandatário, após o falecimento do outorgante, exercer a prerrogativa da representação processual, nem substabelecer os poderes decorrentes desse mesmo mandato, cuja eficácia jurídica cessou com o óbito do mandante.
+    Assim, determino a intimação do ilustre Advogado da parte ora embargada, para que se manifeste sobre a mencionada notícia de falecimento de Dorival Guimarães Pereira.
+    2. O espólio do de cujos deverá (a) comprovar, mediante certidão específica, o óbito de Dorival Guimarães Pereira, (b) proceder à habilitação dos herdeiros do de cujus (CPC, arts. 1055/1062), (c) inventariante, mediante certidão do termo de inventariança (CPC, art. 990, parágrafo único), deverá comprovar a sua condição de representante do espólio (CPC, art. 12, V, c/c o art. 991, I), desde que os bens da herança ainda não tenham sido partilhados e (d) que venha aos autos procuração outorgada, pelo inventariante, em nome do espólio de Dorival Guimarães Pereira.
+    Para cumprimento deste despacho, assino, à parte interessada, o prazo de trinta (30) dias.
+    Publique-se.
+    Brasília, 03 de fevereiro de 2014.
+Ministro CELSO DE MELLO
+Relator
