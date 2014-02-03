@@ -1,0 +1,13 @@
+Trata-se de agravo (doc. 18) contra decisão que negou seguimento a recurso extraordinário (doc. 16) interposto de acórdão do Tribunal Superior do Trabalho que manteve condenação por danos materiais e morais decorrentes de doença profissional.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 7º, XXVIII, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o Tribunal de origem decidiu a causa consoante a seguinte ementa:
+    “RECURSO DE EMBARGOS REGIDO PELA LEI 11.496/2007. INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DE LEI E DIVERGÊNCIA JURISPRUDENCIAL NÃO CARACTERIZADAS.
+    (…)
+    Quanto à pretensão calcada em divergência jurisprudencial, nas ementas dos arestos que observam requisitos de ordem formal há tese aplicando a teoria da responsabilidade subjetiva para fins de indenização por danos materiais e morais decorrente de acidente de trabalho, o que de certa forma está em consonância com o acórdão recorrido, o qual manteve o direito a indenização por danos materiais e morais com fundamento tanto na teoria da responsabilidade civil objetiva, como na teoria da responsabilidade civil subjetiva. Entendeu a Turma que, além da exposição do reclamante a pó de sílica constituir risco inerente ao trabalho, a empresa foi negligente na fiscalização do uso de EPIs por seus empregados, deixando de adotar as 'medidas de segurança necessárias à manutenção dos níveis de pó de sílica dentro dos limites estabelecidos pela NR-15 do Ministério do Trabalho, o que justifica, ainda, a incidência do sistema de responsabilidade civil subjetiva prevista no caput do dispositivo citado, por manifesta violação do dever previsto no art. 157 da CLT'” (p. 26 do volume 8).
+    Nesse contexto, resta claro que para divergir do entendimento firmado pelo juízo a quo, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 desta Corte.
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Consolidação das Leis Trabalhistas e Código Civil). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: ARE 660.071-AgR/RJ, Rel. Min. Dias Toffoli; ARE 657.397/PR, Rel. Min. Cármen Lúcia; ARE 683.432/DF e AI 653.338-AgR/MS, ambos de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+Relator
