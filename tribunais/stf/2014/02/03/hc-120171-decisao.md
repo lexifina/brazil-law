@@ -1,0 +1,13 @@
+Decisão:
+    Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão que indeferiu a cautelar requerida no HC 276.420, em tramitação no Superior Tribunal de Justiça.
+    Afirma-se neste habeas corpus que a prisão preventiva do paciente, denunciado pelo crime de roubo circunstanciado pelo emprego de arma de fogo e concurso de pessoas, estaria embasada em fundamentos genéricos e na gravidade abstrata do delito que lhe é imputado. Além disso, alega-se a ausência de substrato fático para a acusação. Nesse sentido, requer-se, liminarmente, a concessão de liberdade provisória para que revogação da custódia cautelar para que o paciente aguarde em liberdade o julgamento definitivo do mérito da ação penal.
+    Decido.
+    Inicialmente ressalto que o Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, a aplicação do enunciado sumular vem sendo atenuada nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    No caso dos autos, a decisão impugnada não é teratológica ou carente de fundamentação. Além disso, o exame da documentação que acompanha a inicial evidencia a deficiência na instrução do pedido, tendo em vista que não há nos autos informações consistentes a respeito do substrato fático da causa. Na verdade, sequer o decreto de prisão foi aportado aos autos, não sendo possível examinar as razões da custódia cautelar.
+    Nessas condições, considero inviável a superação do entendimento da súmula 691/STF, notadamente se se observar a orientação jurisprudencial do Tribunal no sentido de que " a ação de habeas corpus - que possui rito sumaríssimo - não comporta, em função de sua própria natureza processual, maior dilação probatória, eis que ao impetrante compete, na realidade - sem prejuízo da complementação instrutória ministrada pelo órgão coator -, subsidiar, com elementos documentais pré-constituídos, o conhecimento da causa pelo Poder Judiciário. A utilização adequada do remédio constitucional do habeas corpus impõe, em conseqüência, seja o writ instruído, ordinariamente, com documentos suficientes e necessários à analise da pretensão de direito material nele deduzida " (HC 68.698/SP, Rel. Min. Celso de Mello).
+    Pelo exposto, com base no art. 38 da Lei nº 8.038/1990, c/c art. 21, § 1º, do RI/STF, não conheço do presente habeas corpus e determino o arquivamento dos autos.
+    Publique-se.
+     Brasília, 03 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
