@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. CURSO DE FORMAÇÃO DE CABO DO CORPO DE BOMBEIRO MILITAR DO DISTRITO FEDERAL. INAPTIDÃO NO TESTE DE AVALIAÇÃO FÍSICA. ENFERMIDADE TEMPORÁRIA. LIMINAR. CONCLUSÃO DO CURSO COM ÊXITO E APROVEITAMENTO. OMISSÃO DE PROMOVER O IMPETRANTE À PATENTE DE CABO. RAZOABILIDADE E PROPORCIONALIDADE. TEORIA DO FATO CONSUMADO.
+1. Os atos praticados pela Administração Pública estão vinculados à ordem legal, sob pena deles serem considerados nulos, defeituosos, eivados de ilegalidades. Dessa forma, o motivo, a forma e a finalidade dos atos sempre devem respaldar-se no princípio da legalidade, para então sim, em não havendo óbice legal, serem considerados legítimos. Em após, tem-se a atuação livre da Administração Pública, podendo, então, utilizar-se de sua oportunidade e conveniência administrativa.
+2. No vertente caso, a omissão do Comandante Geral do Corpo de Bombeiros do Distrito Federal em graduar o Impetrante à patente de Cabo da referida Corporação é medida que ofende os princípios da proporcionalidade e da razoabilidade, mormente por esse último haver concluído com êxito e aproveitamento o Curso de Formação - CFC/2005, além de estar plenamente apto a exercer as suas funções, uma vez que não mais possui a enfermidade que o acometia à época que realizou a etapa consistente no teste de barra fixa, ultrapassada por meio de medida liminar.
+3. Outrossim, trata a hipótese de aplicação da teoria do fato consumado, que resguarda a proteção do interesse público e, em conseqüência, vem por prestigiar as situações já consolidadas em benefício do interesse coletivo, como no caso, em que o Impetrante é reconhecido pela própria Corporação como bombeiro de excepcional comportamento.
+4. Apelação e remessa necessária não providas. Sentença mantida” (fl. 232 do e-STJ).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, caput e II, e 37, I e II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem embasou sua decisão na aplicação da teoria do fato consumado e na ausência, na espécie, de procedimento administrativo específico que ensejasse ao ora recorrido o exercício do contraditório e da ampla defesa. Esse último fundamento, todavia, não foi impugnado no apelo extremo, o que atrai a incidência da Súmula 283 desta Corte. Nesse sentido, cito o RE 492.426-AgR/RJ, cuja ementa segue transcrita:
+    “RECURSO EXTRAORDINÁRIO – PRONUNCIAMENTO JUDICIAL COM DUPLO FUNDAMENTO – AUSÊNCIA DE ARTICULAÇÃO SOBRE AMBOS. Constando do acórdão impugnado mediante o extraordinário duplo fundamento constitucional, cada qual suficiente à manutenção, incumbe à parte impugnar ambos - Verbete nº 283 da Súmula”.
+    Com igual entendimento, menciono os seguintes precedentes, entre outros: AI 829.244-AgR/PE, Rel. Min. Joaquim Barbosa; RE 653.613-AgR/DF, de minha relatoria; RE 450.315-AgR/RS, Rel. Min. Dias Toffoli; ARE 750.123-AgR/MA, Rel. Min. Teori Zavascki; ARE 715.401-AgR/SP, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
