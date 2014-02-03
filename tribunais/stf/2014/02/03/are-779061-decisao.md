@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “DECISÃO MONOCRÁTICA. APELAÇÃO CÍVEL. PRELIMINAR. ILEGITIMIDADE PASSIVA DO SÓCIO. POSSIBILIDADE. AÇÃO DE COBRANÇA. DIREITO DE REGRESSO. SOLIDARIEDADE. LIMITAÇÃO.
+    1 – O pagamento da dívida de pessoa jurídica por um dos fiadores não permite a cobrança dos valores diretamente em relação aos sócios, mormente daqueles que ingressaram na sociedade após o contrato de fiança. Precedentes do STJ. Ilegitimidade passiva do segundo réu, sócio da locatária devedora.
+    2 – Na ação de cobrança promovida por um dos fiadores que pagou a integralidade da divida, deve ser observada a regra do art. 831, do Código Civil, que autoriza á cobrança dos demais fiadores, em razão da solidariedade, no limite de suas quota-parte. Precedentes. Impossibilidade de cobrança da integralidade da dívida de outro fiador. Dívida total, de R$ 24.000,00 (vinte e quatro mil reais) paga pelo apelado, um dos fiadores, que enseja o pagamento, pela apelante, também fiadora, da sua quota-parte, no valor de R$ 6.000,00 (seis mil reais).
+    3 – Reforma da sentença. Provimento do recurso, na forma do art. 557, §1º A do CPC” (pág. 100 do documento eletrônico 3 – grifos no original).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXV, da Carta Magna.
+    Bem examinados os autos, verifico que a pretensão recursal não merece acolhida.
+    Isso porque o Juízo de origem decidiu a controvérsia nos seguintes termos:
+    “Ante o exposto, conheço e DOU PROVIMENTO ao recurso, na fôrma do art. 557, § 1 0-A, do CPC, para acolher a preliminar de ilegitimidade passiva em relação ao Segundo Apelante e JULGAR EXTINTO o feito sem resolução dó mérito, na forma do art. 267, VI, do CPC e CONDENAR O AUTOR APELADO no pagamento das custas processuais despendidas pelo Segundo Apelado, bem - como no pagamento dos honorários dos seus patronos que fixo em R$ 700,00 (setecentos reais), considerando que não há valor de condenação, com fulcro no § 4° do C.P.C.” (pág. 108 do documento eletrônico 3 – grifos no original).
+    Verifica-se, portanto, que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional (Código de Processo Civil). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido: ARE 736.343/SP, Rel. Min. Dias Toffoli, e ARE 710.679/RO, Rel. Min. Gilmar Mendes.
+    Ademais, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário.
+    Nessa mesma linha, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
