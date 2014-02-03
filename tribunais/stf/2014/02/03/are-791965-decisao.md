@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário, interposto de acórdão confirmatório de sentença que determinou a retroação dos efeitos financeiros do benefício de aposentadoria por tempo de contribuição do recorrido à data de seu início.
+    No RE, fundado no art. 102, III, a e b da Constituição, alegou-se violação aos arts. 5º, XXXVI, LIV e LV; 195, § 5º; 201, caput e § 3º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Observe-se que, como tem consignado este Tribunal por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, confira-se o seguinte julgado:
+    “TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CONTRIBUIÇÕES SOCIAIS. EMPRESÁRIOS. AUTÔNOMOS E AVULSOS. LC 84/96. CONSTITUCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - A Contribuição social instituída pela Lei Complementar n. 84/96 teve sua constitucionalidade declarada pelo Plenário do STF, no julgamento do RE 228.321/RS. III - As razões do recurso não infirmam o fundamento da decisão agravada, o que atrai a incidência da Súmula 287 do STF. IV - Recurso protelatório. Aplicação de multa. V - Agravo regimental improvido” (AI 700.144-AgR/RJ, de minha relatoria, Primeira Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
