@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que entendeu pela exigibilidade das contribuições instituídas pela Lei Complementar 110/2001, respeitado o princípio da anterioridade, nos termos do art. 150, III, b, da CF.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXV e LV, 93, IX e 149, da mesma Carta, bem como a inconstitucionalidade daquelas exações.
+    O agravo não merece acolhida.
+    Preliminarmente, observe-se que à exceção do art. 149 da CF/88, os demais dispositivos suscitados não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Ademais, mesmo que fosse possível superar tal óbice, verifico que o Supremo Tribunal Federal, no julgamento da ADI 2.556-MC/DF, Rel. Min. Moreira Alves, reconheceu a constitucionalidade e a natureza tributária das contribuições sociais instituídas pela LC 110/2001, uma vez que se caracterizam como “contribuições sociais gerais”, do que decorre a aplicação do princípio da anterioridade, nos termos do art. 150, III, b, da Constituição. Nesse sentido, transcrevo a ementa do julgado:
+    “Ação direta de inconstitucionalidade. Impugnação de artigos e de expressões contidas na Lei Complementar federal nº 110, de 29 de junho de 2001. Pedido de liminar.
+    - A natureza jurídica das duas exações criadas pela lei em causa, neste exame sumário, é a de que são elas tributárias, caracterizando-se como contribuições sociais que se enquadram na sub-espécie 'contribuições sociais gerais' que se submetem à regência do artigo 149 da Constituição, e não à do artigo 195 da Carta Magna.
+    - Não-ocorrência de plausibilidade jurídica quanto às alegadas ofensas aos artigos 145, § 1º, 154, I, 157, II, e 167, IV, da Constituição.
+    - Também não apresentam plausibilidade jurídica suficiente para a concessão de medida excepcional como é a liminar as alegações de infringência ao artigo 5º, LIV, da Carta Magna e ao artigo 10, I, de seu ADCT.
+    - Há, porém, plausibilidade jurídica no tocante à argüição de inconstitucionalidade do artigo 14, 'caput', quanto à expressão 'produzindo efeitos', e seus incisos I e II da Lei Complementar objeto desta ação direta, sendo conveniente, dada a sua relevância, a concessão da liminar nesse ponto.
+    Liminar deferida em parte, para suspender, 'ex tunc' e até final julgamento, a expressão 'produzindo efeitos' do 'caput' do artigo 14, bem como seus incisos I e II, todos da Lei Complementar federal nº 110, de 29 de junho de 2001”.
+    No mesmo sentido, menciono as seguintes decisões, entre outras: AI 518.825-AgR/RS, Rel. Min. Cezar Peluso; RE 442.638-AgR/MG, Rel. Min. Carlos Velloso; AI 592.316-AgR/SP, Rel. Min. Celso de Mello; RE 396.412-AgR/DF, Rel. Min. Eros Grau; AI 606.109-AgR/SP, Rel. Min. Gilmar Mendes; RE 437.158-AgR/RS, Rel. Min. Ayres Britto; RE 431.687-AgR/PE, Rel. Min. Marco Aurélio; RE 423.309-AgR/RJ, Rel. Min. Cármen Lúcia; RE 632.365-AgR/RJ, Rel. Min. Menezes Direito; RE 485.555-AgR/DF e RE 591.287-AgR/SP, de minha relatoria.
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
