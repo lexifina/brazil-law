@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de embargos de declaração tempestivamente opostos à decisão monocrática proferida a fls. 123.
+    Cumpre acentuar, preliminarmente, que o Supremo Tribunal Federal tem reconhecido a competência do Relator para examinar a própria admissibilidade dos embargos de declaração, mesmo que opostos a decisão monocrática (AI 417.329-AgR/SP, Rel. Min. EROS GRAU – AI 429.233-ED/SP, Rel. Min. CEZAR PELUSO – AI 444.959-ED/SP, Rel. Min. NELSON JOBIM – RE 229.792-ED/SP, Rel. Min. SEPÚLVEDA PERTENCE – RE 416.813-ED/SP, Rel. Min. EROS GRAU – RE 462.436- -ED/SP, Rel. Min. SEPÚLVEDA PERTENCE, v.g.).
+    Sendo assim, e considerando a jurisprudência desta Suprema Corte, passo a apreciar os presentes embargos de declaração. E, ao fazê-lo, verifico que a decisão ora embargada não teve presente a questão relativa à discussão em torno da “incompetência absoluta da Justiça Estadual” (fls. 128).
+    Impõe-se, em consequência, para os fins especificamente visados pela parte ora embargante, a complementação da decisão proferida a fls. 123.
+    A controvérsia jurídica em questão já foi dirimida pelo Plenário do Supremo Tribunal Federal, que, ao julgar o RE 146.942-EDv/SP, Rel. Min. MARCO AURÉLIO (RTJ 185/680), fixou entendimento consubstanciado em acórdão assim ementado:
+    “COMPETÊNCIA – LEI Nº 180/78 DO ESTADO DE SÃO PAULO – VÍNCULO EMPREGATÍCIO. Versando a controvérsia sobre direito integrado a contrato de trabalho, embora em decorrência de lei local, a competência para processar e julgar a ação é da Justiça do Trabalho.”
+    Esse entendimento tem sido observado em sucessivos julgamentos proferidos por ambas as Turmas desta Suprema Corte, e, também, em decisões singulares emanadas de seus ilustres Juízes (RTJ 164/737, Rel. Min. NÉRI DA SILVEIRA – RTJ 177/1398, Rel. Min. MARCO AURÉLIO – AI 527.520-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI – AI 559.998/SP, Rel. Min. JOAQUIM BARBOSA – RE 141.862/SP, Rel. Min. MOREIRA ALVES – RE 267.902/SP, Rel. Min. AYRES BRITTO – RE 386.584- -AgR/SP, Rel. Min. CEZAR PELUSO, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge, nesse específico ponto, da diretriz jurisprudencial que o Supremo Tribunal Federal firmou na análise da matéria em referência.
+    Sendo assim, recebo os presentes embargos de declaração, para conhecer do presente agravo, e dar parcial provimento ao recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “c”, na redação dada pela Lei nº 12.322/2010), em ordem a fixar a competência da Justiça do Trabalho para processar e julgar a presente causa.
+    Publique-se.
+    Brasília, 03 de fevereiro de 2014.
+Ministro CELSO DE MELLO
+Relator
