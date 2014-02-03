@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado, em sede de embargos de declaração, pelo E. Tribunal de Justiça do Estado de Mato Grosso do Sul, está assim ementado:
+    “MANDADO DE INJUNÇÃO – MÉRITO – APOSENTADORIA ESPECIAL – APLICAÇÃO DA LEI N. 8.213/91 – INEXISTÊNCIA – LEI COMPLEMENTAR – EM PARTE COM O PARECER – CONCESSÃO PARCIAL DA INJUNÇÃO.
+    Diante da inexistência da Lei Complementar disciplinadora dos casos insertos nos três incisos do § 4º do art. 40 da CF, deve ser garantido ao impetrante a análise de seu pedido de aposentadoria especial, pela autoridade administrativa competente, tendo como aplicação as normas correlatas previstas no art. 57 da Lei nº 8.213/91, em sede de processo administrativo, oportunidade em que se averiguará a satisfação dos requisitos autorizadores para a sua concessão.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustenta que o acórdão impugnado teria transgredido preceitos inscritos na Constituição da República.
+    O Ministério Público Federal, em manifestação da lavra do ilustre Subprocurador-Geral da República Dr. WAGNER DE CASTRO MATHIAS NETTO, ao opinar pelo improvimento do recurso extraordinário, formulou parecer assim ementado:
+    “Agravo de instrumento em recurso extraordinário. Aposentadoria especial. Art. 40º, § 4º, da CF/88. Mora legislativa. Aplicação do art. 57 da Lei 8.213/91, no que couber. Competência concorrente dos Estados. Legitimidade do governador estadual para figurar no polo passivo de mandado de injunção. Precedente da Corte Suprema. Pelo desprovimento do agravo.”
+    Entendo assistir plena razão à douta Procuradoria-Geral da República.
+    Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o ARE 720.544-AgR/MS, Rel. Min. GILMAR MENDES, fixou entendimento que desautoriza a pretensão recursal deduzida pela parte ora agravante:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Aposentadoria especial. Critérios de aferição de condições especiais de trabalho. Inexistência de norma estadual. Omissão legislativa. Precedentes. 3. Aplicabilidade do art. 57 da Lei 8.213/1991. Precedentes. 4. Exame dos critérios e requisitos para concessão de aposentadoria especial. Competência da autoridade administrativa encarregada de analisar o pleito de aposentação. Precedentes. 5. Agravo regimental a que se nega provimento.”
+    Cumpre destacar, por oportuno, ante a inquestionável procedência de suas observações, a seguinte passagem do voto do eminente Ministro GILMAR MENDES, produzido por ocasião do mencionado julgamento, no sentido de que:
+    “(...) a jurisprudência desta Corte se firmou no sentido de que a inexistência de norma estadual que estabeleça critérios para aferição de condições especiais de trabalho não impede o julgamento do mandado de injunção, uma vez que a indefinição decorre de omissão legislativa objeto do referido ‘writ’.
+    …...................................................................................................
+    Ainda sobre a matéria, esta Corte tem entendimento pacificado no sentido de que é aplicável ao caso, no que couber, o art. 57 da Lei 8.213/91, caso reconhecida omissão legislativa referente às condições para implemento de aposentadoria especial.
+    Além disso, a jurisprudência do Supremo Tribunal Federal consolidou-se no sentido de que a autoridade administrativa responsável pelo exame de pedido de aposentadoria é competente para analisar o preenchimento dos critérios e requisitos previstos para este fim.”
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em análise.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 03 de fevereiro de 2014.
+Ministro CELSO DE MELLO
+Relator
