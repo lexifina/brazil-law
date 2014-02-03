@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 18ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado:
+    “APELAÇÃO - ANULATÓRIA DE LANÇAMENTO FISCAL C.C. REPETIÇÃO DE INDÉBITO - IMPOSTO PREDIAL E IMPOSTO TERRITORIAL URBANO - ADOÇÃO DE DUAS ALÍQUOTAS PARA O MESMO IMÓVEL Inadmissibilidade: Não é admissível a adoção duas alíquotas, uma para o imposto predial e outra para o imposto urbano, já que há apenas um único fato gerador - a propriedade de todo o imóvel. Recursos não providos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. O recorrente alega ofensa aos arts. 30, I e III; 145, I e 156, I e § 1º, I, todos da Carta.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “os argumentos expendidos não são suficientes para infirmar as conclusões do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada”. A agravante reitera os argumentos deduzidos no recurso extraordinário, ao tempo em que afirma o regular cabimento do recurso.
+    A pretensão não merece prosperar. Embora a norma impositiva do IPTU comporte alíquotas diferenciadas com relação a localização ou destinação econômica conferida ao bem, não há margem para a adoção de alíquotas diversas sobre uma mesma base econômica.
+    Verifica-se no caso concreto a existência de duas alíquotas incidindo sobre o mesmo bem, sendo uma incidente sobre a parcela edificada do imóvel e outra para aquela designada como Imposto Territorial, a qual tem aplicação sobre a área não edificada superior a cinco vezes a área construída.
+    O Município de Santos criou duas novas exações ao seccionar a base econômica constitucionalmente prevista para o imposto, o que se verifica pela aplicação de alíquotas diversas para cada parcela apurada. A propriedade sobre um bem é fato gerador único, de modo que o evento revelador da riqueza não pode jamais ser fragmentado para ter suas parcelas tratadas como bases autônomas.
+     A instituição de alíquotas diferenciadas só pode ser admitida quando sua aplicação relacionar-se a imóveis diversos, ou seja, bases econômicas distintas, não sendo legitimada cobrança dúplice sobre a mesma dimensão quantitativa. Neste sentido, o acórdão recorrido foi preciso em suas razões de decidir:
+     “[...] é certo que existe a possibilidade de tributação com alíquotas diferenciadas entre imóveis edificados e não edificados, mas não é admissível que, para o mesmo imóvel, sejam aplicadas tais distinções, já que o fato gerados do tributo é o mesmo, ou seja, a propriedade de todo o bem”
+    Diante do exposto, com base no art. 544, §4º, II, b, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 3 de fevereiro de 2013.
+Ministro Luís Roberto Barroso
+Relator
