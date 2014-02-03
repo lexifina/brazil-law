@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “AGRAVOS INOMINADOS. § 1º DO ART. 557 DO CPC.
+    RECURSO DA BRASIL TELECOM S/A. DECISÃO MONOCRÁTICA CONFORME JURISPRUDÊNCIA DOMINANTE DESTA CORTE E DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO. ART. 557, § 2º, DO CPC. MULTA. APLICAÇÃO.
+    RECURSO DO AUTOR. RESURSO INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. NÃO CONHECIMENTO” (fls. 331).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, caput e I, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque este Tribunal fixou o entendimento no sentido de que a discussão relativa à prescrição situa-se no campo infraconstitucional. Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, trago à colação julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PRESCRIÇÃO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. OFENSA REFLEXA. 1. Caso em que entendimento diverso do adotado pela Instância Judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie. Logo, afronta à Carta Magna de 1988, se existente, ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. 2. Agravo regimental desprovido.” (AI 663.944-AgR/SP, Rel. Min. Ayres Britto, Primeira Turma).
+    “Agravo regimental em agravo de instrumento. 2. Admissibilidade de recurso trabalhista. 3. Ofensa reflexa à CF/88. Precedentes. 4. Dicotomia entre espécies de prescrição - parcial ou total. Controvérsia infraconstitucional. Precedentes. 5. Decisão devidamente fundamentada. 6. Agravo regimental a que se nega provimento” (AI 617.001-AgR/AM, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Nesse mesmo sentido: ARE 735.491/RS, Rel. Min. Dias Toffoli; ARE 737.928/SC, Rel. Min. Cármen Lúcia; e ARE 729.556/SC, de minha relatoria.
+    Ademais, observe-se que a controvérsia, diferentemente do que alegado pela recorrente, é sim, análoga à questão tratada no AI 729.263-RG/RS, Rel. Min. Cezar Peluso, em que os ministros desta Corte, manifestaram-se pela inexistência de repercussão geral da controvérsia atinente aos contratos de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, por se tratar de matéria infraconstitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação a ementa do referido julgado:
+    “RECURSO. Extraordinário. Incognoscibilidade. Telefonia. Contrato de participação financeira. Subscrição de ações. Matéria infraconstitucional. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, versa sobre matéria infraconstitucional”.
+    Por fim, no que toca ao pedido de fls. 471-418, não há que se falar em litispendência, uma vez que o processo aludido na petição, qual seja, ARE 675471, já transitou em julgado em 27/03/2012. Eventuais reflexos dessa decisão transitada em julgado devem ser arguido oportunamente nas vias ordinárias.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
