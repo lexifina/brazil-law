@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de embargos de declaração tempestivamente opostos à decisão monocrática proferida nestes autos.
+    Cumpre acentuar, preliminarmente, que o Supremo Tribunal Federal tem reconhecido a competência do Relator para examinar a própria admissibilidade dos embargos de declaração, mesmo que opostos a decisão monocrática (AI 417.329-AgR/SP, Rel. Min. EROS GRAU – AI 429.233-ED/SP, Rel. Min. CEZAR PELUSO – AI 444.959-ED/SP, Rel. Min. NELSON JOBIM – RE 229.792-ED/SP, Rel. Min. SEPÚLVEDA PERTENCE – RE 416.813-ED/SP, Rel. Min. EROS GRAU – RE 462.436- -ED/SP, Rel. Min. SEPÚLVEDA PERTENCE, v.g.).
+    Sendo assim, e considerando a jurisprudência desta Suprema Corte, passo a apreciar os presentes embargos de declaração. E, ao fazê-lo, verifico que a decisão ora embargada não teve presente a questão relativa à decadência do direito de a Administração Pública praticar o ato questionado nestes autos.
+    Impõe-se, em consequência, para os fins especificamente visados pela parte ora embargante, a complementação da decisão anteriormente proferida.
+    E, ao fazê-lo, entendo não assistir razão à parte recorrente.
+    Com efeito, no que se refere à pretendida ocorrência, no caso, da alegada decadência do direito de a Administração Pública rever os seus próprios atos, vale referir fragmento do parecer oferecido, nestes autos, pela douta Procuradoria-Geral da República:
+    “A jurisprudência do Supremo Tribunal Federal, assim como a do E. Superior Tribunal de Justiça, é no sentido de que para os atos anteriores ao advento da Lei nº 9.784/99, o prazo decadencial de cinco anos a que alude tem como termo ‘a quo’ a entrada em vigor do referido diploma (29.01.1999) – RMS 27.022, 1ª T., Rel. Min. Ricardo Lewandowski, DJe de 30.05.2011;  RMS 28.856, 2ª T., Rel. Min. Eros Grau, DJe de 14.05.2010, ‘inter plures’.
+    O art. 54 da Lei nº 9.784/99 contém prazo decadencial, que fulmina o direito da Administração Pública de anular os atos administrativos dos quais decorram efeitos favoráveis para os destinatários. A decadência, nos termos do art. 207 do CC/2002, não sofre interrupção ou suspensão, salvo disposição legal em sentido contrário. O § 2º do art. 54 da Lei nº 9.784/99 dispõe ser causa interruptiva da decadência administrativa a prática de ‘qualquer medida de autoridade administrativa que importe impugnação à validade do ato.’
+    No caso, não se consumou a decadência administrativa, pois entre a edição da Lei nº 9.784/99 (29.01.1999) e o início do procedimento de revisão (10.09.2003) não transcorreu o lustro previsto no art. 54 da Lei nº 9.784/99.” (grifei)
+    Entendo, pois, que não se registrou, no caso, o decurso do lapso temporal necessário ao reconhecimento da decadência do direito de a Administração Pública rever seus próprios atos, eis que, no procedimento administrativo em questão, não transcorreu, em momento algum, o período de 05 (cinco) anos, a que se refere o art. 54, da Lei nº 9.784/99.
+    Desse modo, recebo os presentes embargos de declaração, para manter o improvimento do recurso ordinário.
+    Publique-se.
+    Brasília, 03 de fevereiro de 2014.
+Ministro CELSO DE MELLO
+Relator
