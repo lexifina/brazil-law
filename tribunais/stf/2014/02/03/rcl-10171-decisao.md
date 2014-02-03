@@ -1,0 +1,39 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional ajuizada por Miriam Bittencourt Melo em face do Juiz Presidente da Primeira Turma de Recursos de Florianópolis, o qual, ao impedir o destrancamento de recurso extraordinário submetido à sistemática da repercussão geral, nos autos da Ação Ordinária de Indenização por Danos Morais e Materiais nº 062.08.003097-3, teria usurpado a competência do Supremo Tribunal Federal.
+    Na peça vestibular, a reclamante defende que, ao julgar prejudicado o agravo de instrumento interposto contra a decisão que negou seguimento ao recurso extraordinário, a autoridade reclamada teria usurpado a competência do Supremo para examinar a existência de repercussão geral.
+    Argumenta que, nos termos do delimitado na Súmula STF nº 727, a autoridade reclamada não tem competência para negar seguimento a agravo interposto contra a inadmissibilidade do recurso extraordinário.
+    Requer que seja julgada procedente a reclamação para determinar “o normal processamento do agravo de instrumento interposto”.
+    Indeferido o pedido liminar.
+    A autoridade reclamada apresentou informações.
+    A Procuradoria-Geral da República opina pela não conhecimento da reclamação, em parecer assim ementado:
+    “Reclamação. Não admissão de agravo interposto da negativa de seguimento a recurso extraordinário. Submissão ao regime de repercussão geral da matéria. Não configurada usurpação da competência do Supremo Tribunal Federal. Parecer pelo não conhecimento da reclamação.”
+    É o relatório.
+    A competência originária desta Corte submete-se a regime de direito estrito, estando fixada, em numerus clausus, no rol do art. 102, inciso I, da Constituição Federal.
+    No tocante à reclamação, deve ser ajuizada para preservar a competência do STF e garantir a autoridade das decisões deste Tribunal (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+    O reclamante alega que o Juiz Presidente da Primeira Turma de Recursos de Florianópolis violou a Súmula STF nº 727 ao julgar prejudicado agravo interposto contra decisão que negou seguimento ao recurso extraordinário.
+    A decisão impugnada está assim redigida:
+          “A partir da Emenda Constitucional n. 45/2004, que acrescentou ao artigo 102 da Constituição da República Federativa do Brasil o parágrafo 3º, a demonstração da repercussão geral das questões constitucionais discutidas passou a se constituir um dos requisitos da admissibilidade do recurso, a ser demonstrado pelo recorrente quando da interposição do apelo extremo.
+    O art. 543-A do Código de Processo Civil disciplinou que ‘O Supremo Tribunal Federal, em decisão irrecorrível, não conhecerá do recurso extraordinário, quando a questão constitucional nele versada não oferecer repercussão geral’.
+    A decisão que negou seguimento ao recurso observou que referido requisito não foi cumprido pelo recorrente (fls. 306-308).
+    A ausência de preliminar formal e fundamentada de repercussão geral acarreta a manifesta inadmissibilidade do recurso, haja vista a falta de um dos requisitos para a interposição do apelo extremo.
+    Neste aspecto, o art. 327 do Regimento Interno do STF disciplinou que ‘A Presidência do Tribunal recusará recursos que não apresentem preliminar formal e fundamentada de repercussão geral, bem como aqueles cuja matéria carecer de repercussão geral, segundo precedente do Tribunal, salvo se a tese tiver sido revista ou estiver em procedimento de revisão’.
+    Ante o exposto, impõe-se reconhecer que o Agravo de Instrumento em face da negativa de seguimento do RE se encontra prejudicado, a teor do disposto no art. 543-B, § 2º, do CPC c/c § 1º, do art. 328-A, do Regimento Interno do STF.
+    Assim sendo, arquive-se o Agravo de Instrumento em Recurso Extraordinário e devolvam-se os autos principais à origem, para os devidos fins”.
+    A matéria versada na presente reclamação diz respeito à possibilidade de que seja obstada a subida a esta Suprema Corte agravo interposto contra decisão que inadmitiu recurso extraordinário na origem.
+    Matéria essa, ademais, reiteradamente reafirmada pelo Pleno desta Corte, como se colhe dos seguintes precedentes: Rcl nº 2.826/RS, Plenário, Relator o Ministro Marco Aurélio, DJ de 14/11/07; Rcl nº 4.484/SP, Plenário, Relator o Ministro Marco Aurélio, DJ de 23/11/07; Rcl nº 2.453/MG, Plenário, Relator o Ministro Carlos Britto, DJ de 11/2/05; Rcl nº 1.574/ES, Plenário, Relator o Ministro Nelson Jobim, DJ de 13/6/03.
+    Tal entendimento restou superado com o advento da legislação editada com o escopo de disciplinar a exigência de repercussão geral da matéria constitucional suscitada no âmbito do recurso extraordinário, decorrente da promulgação da EC nº 45/04, especialmente o disposto nos artigos 543-A e 543-B do CPC, com a redação que lhes foi dada pela Lei nº 11.418/06.
+    Na espécie, entretanto, o processamento do agravo não foi negado com fundamento em decisão do STF a que se tenha aplicado a sistemática da repercussão geral.
+    Com efeito, a atuação da autoridade reclamada limitou-se a não conhecer dos recursos por questões que esbarram nos critérios de admissibilidade dos apelos da competência desta Suprema Corte. O agravo foi tido por prejudicado, sob o fundamento de ausência de preliminar formal de repercussão geral.
+    Nessa conformidade, entendo que a autoridade reclamada usurpou a competência do Supremo Tribunal Federal, uma vez que a competência para analisar o agravo interposto pela negativa de seguimento de recurso extraordinário é desta Suprema Corte, conforme prescrito no artigo 544, § 2°, do Código de Processo Civil, salvo nos casos de aplicação do instituto da repercussão geral. Nesse sentido, cito decisão monocrática nos autos do ARE nº 725.656/SP, de minha relatoria:
+    “De início, verifico que o inconformismo manifestado no segundo recurso extraordinário merece prosperar, uma vez que a competência para analisar o agravo de instrumento interposto pela negativa de seguimento de recurso extraordinário é desta Suprema Corte, conforme prescrito no artigo 544, parágrafo 2°, do Código de Processo Civil. Corroborando este entendimento, o Supremo Tribunal Federal editou a Súmula nº 727, que assim dispõe:
+    ‘Não pode o magistrado deixar de encaminhar ao Supremo Tribunal Federal o agravo de instrumento interposto de decisão que não admite recurso extraordinário, ainda que referente a causa instaurada no âmbito dos Juizados Especiais’.
+    Ressalte-se que a orientação da Súmula nº 727 deste Supremo Tribunal foi flexibilizada pelo instituto da repercussão geral, conforme estabelece o art. 328-A, § 1º, do Regimento Interno desta Corte, o que, entretanto, não se aplica ao caso em tela, haja vista que a decisão que negou seguimento ao primeiro recurso extraordinário não o fez com base na aplicação do instituto da repercussão geral.
+    Destarte, anulo o acórdão de folhas 71 a 73, que negou provimento ao agravo de instrumento de folhas 2 a 5 e condenou a autora, ora recorrente, nas penas por litigância de má-fé.” (DJe de 5/4/13).
+    Ademais, o art. 327 do Regimento Interno do STF, ao disciplinar que “a Presidência do Tribunal recusará recursos que não apresentem preliminar formal e fundamentada de repercussão geral” está direcionada à Presidência deste Supremo Tribunal Federal e não aos presidentes dos Tribunais estaduais.
+    Ante o exposto, julgo procedente a presente reclamação para reconhecer a usurpação da competência desta Suprema Corte para julgar o agravo de instrumento em recurso extraordinário, nos autos do Processo nº 062.08.003097-3. Em consequência, determino à autoridade reclamada que proceda ao processamento do recurso, conforme art. 544, § 2º, do CPC.
+    Publique-se. Int..
+    Brasília, 3 de fevereiro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
