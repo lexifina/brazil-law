@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Pernambuco. Extrai-se da ementa o seguinte trecho conclusivo (fl. 279):
+    “AÇÃO ORDINÁRIA. INTEGRALIDADE DE PENSÃO. PARCELA VARIÁVEL DE REMUNERAÇÃO – PVR-IR. EXTENSÃO ÀS PENSIONISTAS. PROCEDÊNCIA DO PEDIDO. REEXAME NECESSÁRIO. APELO VOLUNTÁRIO. PRELIMINARES REJEITADAS. MÉRITO. NÃO PROVIMENTO DO REEXAME NECESSÁRIO, PREJUDICADO O APELO VOLUNTÁRIO. SENTENÇA MANTIDA.
+    (…)
+    3) A Parcela Variável de Remuneração (PVR), por ser vantagem que integra os ganhos mensais do servidor em atividade, deve ser estendida aos inativos e pensionistas a teor dos disposto nos §§ 4° e 5° do art. 40 da Constituição Federal (redação anterior à Emenda 41/03). Reexame necessário a que se nega provimento, prejudicado o apelo voluntário. Decisão unânime.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, §§ 7º e 8º da Constituição. Sustenta que a Parcela Variável de Remuneração (PVR), pleiteada pela pensionista, ora agravada, “não existia à época do falecimento, não necessariamente seria percebida e não correspondeu a qualquer contribuição previdenciária. O não pagamento, portanto, não implica em qualquer desrespeito ao princípio da integralidade e, ao contrário, o seu pagamento importaria em desfalque da previdência estadual sem contrapartida” (fl. 319).
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que “a alegação genérica de ofensa à Constituição Federal, sem indicação do artigo, parágrafo ou alínea eventualmente contrariada, torna insuficiente a fundamentação do recurso, o que atrai a incidência da Súmula n° 284 do Supremo Tribunal Federal” (fl. 320).
+    O agravo não deve ser provido, tendo em conta que a decisão agravada se alinha à jurisprudência do Supremo Tribunal Federal no sentido de que as vantagens de caráter geral, concedidas aos servidores da ativa, são extensíveis aos inativos, conforme o disposto no art. 40, § 8º, da Constituição. Nesse sentido: AI 581.571-ED, Rel. Min. Gilmar Mendes, e RE 408.186-AgR, Rel. Min. Ayres Britto.
+    Ademais, para dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica da vantagem, seria necessário o exame de lei local (Lei Estadual nº 11.333/1996), além de uma nova apreciação dos fatos e do material probatório constantes dos autos, o que é inviável em recurso extraordinário (Súmulas 279 e 280/STF). Nessa sentido e sobre a mesma controvérsia ora em análise, veja-se os precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PARCELA VARIÁVEL DE REMUNERAÇÃO – PVR: NATUREZA DA GRATIFICAÇÃO. QUESTÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 749.436-AgR, Primeira Turma, Relª Minª Cármen Lúcia, DJe 15.08.2012).
+    “AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. PARCELA DE REMUNERAÇÃO VARIÁVEL – PVR. LEI 11.333/1996, DO ESTADO DE PERNAMBUCO. REEXAME DE MATÉRIA FÁTICA E DE LEGISLAÇÃO LOCAL. ÓBICE DAS SÚMULAS 279 E 280 DO STF.
+    Agravo regimental a que se nega provimento.” (RE 541.033-AgR, Segunda Turma, Rel. Min. Joaquim Barbosa, DJe 24.10.2011).
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 03 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
