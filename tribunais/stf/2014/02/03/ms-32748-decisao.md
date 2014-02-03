@@ -1,0 +1,26 @@
+DECISÃO
+MANDADO DE SEGURANÇA. TRIBUNAL SUPERIOR ELEITORAL. ART. 102, INC. I, ALÍNEA D, DA CONSTITUIÇÃO DA REPÚBLICA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA CONHECER DO MANDADO DE SEGURANÇA. COMPETÊNCIA DECLINADA.
+Relatório
+    1. Mandado de segurança, com requerimento de liminar, impetrado por Manoel José Alves Pereira, em 30.1.2014, contra ato omissivo de Ministro do Tribunal Superior Eleitoral, consubstanciado na postergação da análise do requerimento de liminar feito em mandado de segurança eleitoral (n. 100597.2013.600.0000), impetrado contra acórdão do Tribunal Regional Eleitoral do Amapá, no qual julgada improcedente ação cautelar que suspendera os efeitos de sentença condenatória e declaratória de nulidade da diplomação do Impetrante como Prefeito do Município de Laranjal do Jari/AP.
+    2. O Impetrante requer liminar “para determinar o retorno do impetrante até que o Ministro Relator do Mandado de Segurança n°100597.2013.600.0000 aprecie o mérito da demanda, resguardando-se a vontade popular livremente manifestada nas urnas” (fl. 37 da petição inicial).
+    No mérito, pede a concessão da ordem “para resguardar o direito liquido e certo de ver resguardado o exercício do mandato enquanto houver pendente o julgamento dos Recursos perante as Cortes de Justiça” (fl. 38).
+    Pleiteia, ainda, o benefício da assistência gratuita “considerada a natureza eleitoral da causa” (fl. 38).
+    3. O processo veio-me em conclusão em 3.2.2014.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 102, inc. I, alínea d, da Constituição da República estabelece as competências do Supremo Tribunal Federal para conhecer de mandado de segurança:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    d) (...) o mandado de segurança e o ‘habeas-data’ contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal”.
+    No rol dos casos subsumidos constitucionalmente à competência originária do Supremo Tribunal, não se inclui a atribuição para processar e julgar, originariamente, mandado de segurança em que figure como autoridade coatora Tribunal Superior ou um de seus integrantes.
+    A matéria não admite discussão mínima, por se cuidar de regra de competência constitucional expressa, que não possibilita interpretação extensiva.
+    Nesse sentido:
+    “E M E N T A: MANDADO DE SEGURANÇA IMPETRADO CONTRA O TRIBUNAL SUPERIOR ELEITORAL - INCOMPETÊNCIA ABSOLUTA DO SUPREMO TRIBUNAL FEDERAL - APLICABILIDADE DO ART. 21, VI, DA LOMAN - RECEPÇÃO DESSA REGRA LEGAL PELA CONSTITUIÇÃO DE 1988 – MANDADO DE SEGURANÇA NÃO CONHECIDO – SÚMULA 624/STF – RECURSO DE AGRAVO IMPROVIDO.
+    - O Supremo Tribunal Federal não dispõe de competência originária para processar e julgar mandado de segurança impetrado contra outros Tribunais judiciários, mesmo que se trate dos Tribunais Superiores da União, como o Tribunal Superior Eleitoral, ou, ainda, contra Ministro desta Suprema Corte, desde que, em tal hipótese, a impetração mandamental objetive invalidar ato por ele praticado na condição de integrante do TSE (CF, art. 119, I, “a”) e no regular exercício da jurisdição eleitoral. Precedentes. Súmula 624/STF.” (Agravo Regimental no Mandado de Segurança n. 30.193/DF, Relator o Ministro Celso de Mello, Plenário, DJe 11.5.2011, grifos no original);
+    “EMENTA: MANDADO DE SEGURANÇA. Ato judicial. Impetração contra as Resoluções nº 21.702 e nº 21.803 do Tribunal Superior Eleitoral. Causa de competência desse Tribunal. Incompetência do Supremo. Pedido, ademais, contra normas em abstrato. Inadmissibilidade. Seguimento negado. Remessa dos autos ao Tribunal Superior Eleitoral. Provimento parcial ao agravo para esse fim. Aplicação da súmula 624. Não compete ao Supremo Tribunal Federal conhecer, originariamente, de mandado de segurança contra ato do Tribunal Superior Eleitoral” (Agravo Regimental no Mandado de Segurança n. 25.170/DF, Relator o Ministro Cezar Peluso, Plenário, DJ 19.8.2005, grifos no original).
+    Na mesma linha: Agravo Regimental no Mandado de Segurança n. 22.041/BA, Relator o Ministro Celso de Mello; Agravo Regimental no Mandado de Segurança n. 21.559/DF, Relator o Ministro Moreira Alves; Mandado de Segurança n. 21.250/DF, Relator o Ministro Néri da Silveira.
+    5. Cumpre registrar que, no julgamento dos Embargos de Declaração no Mandado de Segurança n. 25.087/SP, Relator o Ministro Ayres Britto, DJ 11.5.2007, o Plenário deste Supremo Tribunal decidiu que, em caso de não conhecimento do mandado de segurança por incompetência manifesta e existindo risco de perecimento do direito, há de se encaminharem os autos ao Tribunal competente.
+    6. Pelo exposto, não conheço do mandado de segurança e determino a imediata remessa dos autos, com urgência e prioridade, ao Tribunal Superior Eleitoral (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal), a fim de que seja apreciado o pedido como de direito.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
