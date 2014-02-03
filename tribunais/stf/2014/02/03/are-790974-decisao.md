@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. PROCESSO ELETRÔNICO – EFICÁCIA LIBERATÓRIA GERAL DO TERMO DE ACORDO FIRMADO PERANTE COMISSÃO DE CONCILIAÇÃO PRÉVIA. SÚMULA 333 DO TST E ART. 896, § 4º, CLT. Não merece reparos a decisão monocrática por meio da qual foi negado seguimento ao Agravo de Instrumento. Agravo a que se nega provimento.” (documento eletrônico 18).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 5º, XXXV, XXXVI, LIV, LV, da mesma Carta.
+    A pretensão recursal não merece acolhida. A recorrente, apesar de afirmar a existência de repercussão geral no extraordinário, não demonstrou as razões pelas quais entende que a questão constitucional nele versada seria relevante do ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa. A mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF. Nesse sentido, transcrevo ementa do AI 730.333-AgR/SE, de minha relatoria:
+    “PROCESSUAL CIVIL. AUSÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS DISCUTIDAS NO CASO. ALEGADA OFENSA AO ART. 5º, LIV e LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - O agravante, nas razões do recurso extraordinário, não demonstrou, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso. A simples alegação, destituída de argumentos convincentes, não satisfaz tal exigência.
+    II - A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária.
+    III - Agravo regimental improvido”.
+    Ademais, os Ministros desta Corte, no ARE 748.371-RG/RJ, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca da violação dos limites da coisa julgada e dos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, por se tratar de ofensa meramente reflexa ao texto constitucional.
+    Impende registrar que essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. A propósito, transcrevo trecho do voto do referido julgado:
+    “manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais”.
+    Por fim, para divergir do Juízo a quo, necessário seria o reexame do conjunto fático-probatório constante dos autos e da legislação infraconstitucional aplicável à espécie, inviabilizando, portanto, o extraordinário.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
