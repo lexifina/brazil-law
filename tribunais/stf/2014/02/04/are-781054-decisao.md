@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. AUSÊNCIA DAS CONDIÇÕES DA AÇÃO. VALOR COBRADO INFERIOR AO MÍNIMO PREVISTO NO ART. 8º DA LEI Nº 12.514/2011. EXTINÇÃO. POSSIBILIDADE. PRECEDENTES DESTA CORTE.
+    1. A sentença extinguiu, sem resolução do mérito, a execução fiscal.
+    2. O art. 8º da Lei nº 12.514/2011 estatui que ‘os Conselhos não executarão judicialmente dívidas referentes a anuidades inferiores a 4 (quatro) vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente.’
+    3. Criou-se uma nova condição para o ajuizamento das ações executivas fiscais de dívidas oriundas do não pagamento de anuidades dos Conselhos Profissionais.
+    4. Pela citada Lei, o interesse de agir, em causas dessa natureza, somente estará presente quando o valor executado não for inferior a quatro vezes o valor devido a título de anuidade pelo contribuinte.
+    5. A aludida Lei tem força de lei processual, que, em face do princípio do tempus regit actum, pode e deve ser aplicada imediatamente aos casos concretos submetidos ao crivo do Poder Judiciário (…)” (fl. 46).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “b”, da Constituição Federal, aponta-se violação ao artigo 5º, XXXVI, do texto constitucional.
+    Nas razões recursais, sustenta-se que o art. 8º da Lei 12.514/2011 é totalmente incompatível com o art. 5º, XXXV, da CF/88, em razão de impedir o acesso ao Judiciário (fl. 77).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Isso porque o Supremo Tribunal Federal concluiu ser infraconstitucional a questão relativa à possibilidade de extinção de execução fiscal por falta de interesse de agir, o que inviabiliza o recurso extraordinário. Nesse sentido, confiram-se os seguintes precedentes:
+    “TRIBUTÁRIO. EXTINÇÃO DA EXECUÇÃO FISCAL. FALTA DE INTERESSE DE AGIR. VALOR IRRISÓRIO DO DÉBITO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL” (RE 611.231-RG, Rel. Min. Ellen Gracie, Plenário Virtual, DJe 27.8.2010).
+    “AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - INSIGNIFICÂNCIA DA DÍVIDA ATIVA EM COBRANÇA - AUSÊNCIA DO INTERESSE DE AGIR - EXTINÇÃO DO PROCESSO - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - O Supremo Tribunal Federal firmou orientação no sentido de que as decisões, que, em sede de execução fiscal, julgam extinto o respectivo processo, por ausência do interesse de agir, revelada pela insignificância ou pela pequena expressão econômica do valor da dívida ativa em cobrança, não transgridem os postulados da igualdade (CF, art. 5º, "caput") e da inafastabilidade do controle jurisdicional (CF, art. 5º, XXXV)”. (AI-AgR 451.096, Rel. Min. Celso de Mello, Segunda Turma, DJ 1º.4.2005)
+    Ressalte-se ainda que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie. Dessa forma, o exame da alegada afronta constitucional demandaria a interpretação da mencionada lei. A ofensa à Constituição, se ocorresse, seria indireta, o que não enseja a abertura da via extraordinária. Nesse sentido, em casos semelhantes ao dos autos, cito as seguintes decisões monocráticas: RE 733.587, Rel. Min. Ricardo Lewandowski, DJe 27.2.2013; e ARE 740.903, de minha relatoria, DJe 23.4.2013.
+    Além disso, com relação à citada ofensa ao artigo 5º, XXXV, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas
+    Por fim, o acórdão impugnado não declarou a inconstitucionalidade de lei federal ou tratado, o que afasta o cabimento de recurso extraordinário com base na alínea “b” do art. 102, III, da Constituição.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
