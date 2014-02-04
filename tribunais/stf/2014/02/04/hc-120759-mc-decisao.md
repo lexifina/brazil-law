@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Edmacy Cruz Ubirajara contra acórdão da Quinta Turma do Superior Tribunal de Justiça, proferido nos autos do HC 236.202/SE. Eis a ementa do julgado:
+    “HABEAS CORPUS. HOMICÍDIO QUALIFICADO. AUDIÊNCIAS DE INSTRUÇÃO REALIZADAS SEM A PRESENÇA DO PACIENTE. DISPENSA EM AUDIÊNCIA PELO DEFENSOR CONSTITUÍDO. IMPOSSIBILIDADE DE RECONHECIMENTO DE EIVA PARA A QUAL CONCORREU A PARTE. ARTIGO 565 DO CÓDIGO DE PROCESSO PENAL. PREJUÍZO NÃO DEMONSTRADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+    1. No caso em apreço, tendo a defesa dispensado expressamente a presença do paciente nas audiências em que foram inquiridas as testemunhas arroladas pelas partes, não pode ela, agora, pretender a anulação da ação penal, uma vez que, de acordo com o artigo 565 do Código de Processo Penal, não possui interesse no reconhecimento da nulidade para a qual concorreu.
+    2. É imperioso assinalar que o defensor do paciente esteve presente em todas as audiências de instrução do processo, consoante os termos de fls. 35/48, circunstância que afasta, por completo, a arguição de nulidade do feito.
+    3. Ademais, nos termos do artigo 563 do Código de Processo Penal, nenhuma nulidade será declarada se não demonstrado o prejuízo dela decorrente.
+    4. Ordem denegada”.
+    Sustenta o impetrante, em síntese, que: (a) o paciente foi denunciado e, posteriormente, pronunciado pela suposta prática do crime de homicídio qualificado (art. 121, § 2º, I e IV, do CP); (b) violação dos princípios da ampla defesa e do contraditório, pois, no período em que esteve preso preventivamente, as audiências de oitiva das testemunhas foram realizadas sem presença do paciente; (c) a dispensa manifestada pelo defensor nas referidas assentadas não teve a expressa anuência do paciente; (d) as diversas audiências foram acompanhadas por diferentes advogados, sendo que o primeiro, sem procuração nos autos, substabeleceu para os demais, os quais nunca tiveram contato com o paciente. Requer, liminarmente, a suspensão da ação penal, até o julgamento definitivo do presente habeas corpus.
+    2. A concessão liminar da ordem supõe, além da comprovação da urgência da medida, a demonstração inequívoca da plausibilidade do direito invocado. No caso, entretanto, conforme se depreende da própria ementa do julgado impugnado, não se constata flagrante ilegalidade a justificar a concessão da medida cautelar. Convém aguardar, portanto, a apreciação da matéria pelo órgão colegiado.
+    3. Com essas considerações, indefiro o pedido de liminar. Solicitem-se informações ao Juízo do Primeiro Tribunal do Júri da Comarca de Aracaju/SE. Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 04 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
