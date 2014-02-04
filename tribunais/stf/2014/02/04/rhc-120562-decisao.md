@@ -1,0 +1,16 @@
+Trata-se de recurso ordinário interposto contra decisão que negou seguimento ao Habeas Corpus 221.452/SP, mediante o qual se pretendeu o reconhecimento da suspeição do magistrado de primeiro grau – que decretou a prisão preventiva do agente –, a declaração de nulidade do processo e, alternativamente, a determinação ao Tribunal de Justiça do Estado de São Paulo para nova análise do pleito de suspeição.
+    Essa decisão foi objeto de impugnação via agravo regimental, ao qual a Quinta Turma do Superior Tribunal de Justiça negou provimento, em acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. JULGAMENTO POR DECISÃO MONOCRÁTICA DE RELATOR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ART. 557 DO CPC E ART. 34, XVIII, DO RISTJ. RECONHECIMENTO DE SUSPEIÇÃO DE JUIZ. MATÉRIA NÃO CONHECIDA NA INSTÂNCIA ORDINÁRIA. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. AGRAVO REGIMENTAL IMPROVIDO.
+    1. Nos termos do art. 557, caput, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e do art. 34, XVIII, do RISTJ, é possível, em matéria criminal, que o relator negue seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante, sem que, em tese, se configure ofensa ao princípio da colegialidade, o qual sempre estará preservado, diante da possibilidade de interposição de agravo regimental. Precedentes.
+    2. Não viola o princípio da colegialidade a apreciação unipessoal pelo relator do mérito do recurso especial, quando obedecidos todos os requisitos para a sua admissibilidade, bem como observada a jurisprudência dominante desta Corte Superior e do Supremo Tribunal Federal.
+    3. Com a interposição do agravo regimental fica superada eventual violação ao princípio da colegialidade, em razão da reapreaciação da matéria pelo órgão colegiado.
+    4. Afastar as conclusões do acórdão quanto à imparcialidade do juízo demandaria o reexame do conjunto fático-probatório dos autos, providência sabidamente incompatível com a via estreita do habeas corpus.
+    5. Agravo regimental a que se nega provimento”.
+    O acórdão foi publicado no DJe de 17 de setembro de 2013 e o recurso ordinário foi protocolado em 30 de outubro de 2013, não sendo observado pelo recorrente o prazo de 5 (cinco) dias para a interposição, previsto no artigo 30 da Lei 8.038/90.
+    É certo que, nos termos do precedente RE 228.685/ES, Rel. Min. Marco Aurélio, a ausência de conhecimento do recurso não obstaculiza a concessão de habeas corpus de ofício, pois o móvel do procedimento é a constatação de ter-se alguém a sofrer ou estar ameaçado de vir a sofrer coação ilegal.
+    Essa, contudo, não é a situação processual nestes autos, pois não se debate tema relacionado com a restrição ao direito de liberdade do paciente, mas tão somente matéria pertinente à regularidade do processo-crime em curso e à imparcialidade do juiz criminal que o preside.
+    Isso posto, com base no artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso ordinário, por ser intempestivo.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
