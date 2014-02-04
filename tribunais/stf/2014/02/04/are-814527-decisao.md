@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto contra acórdão que julgou ter ocorrido a decadência do direito do autor de revisão do ato de concessão de seu benefício previdenciário, com apoio no art. 103 da Lei 8.213/1991, com as alterações dadas pelas Medidas Provisórias 1.523-9/1997.
+    No RE fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, 37, 194, IV e 201, § 4º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, verifico que os dispositivos constitucionais apontados como violados não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, anote-se:
+    CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE prequestionamento. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX; e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido (RE 363.743-AgR/DF, Rel. Min. Ellen Gracie).
+    Com relação à questão de fundo debatida no apelo extremo, melhor sorte não assiste o recorrente. Isso porque, na sessão de 16 de outubro de 2013, o Plenário do Supremo Tribunal Federal, ao julgar o RE 626.489, Rel. Min. Luiz Barroso, reconheceu a existência de repercussão geral da questão constitucional, e, no mérito, assim decidiu:
+    “Recurso Extraordinário. Direito Previdenciário. Regime geral de Previdência Social (RGPS). Revisão do ato de concessão de benefício. Decadência.
+    1. O direito à previdência social constitui direito fundamental e, uma vez implementado os pressupostos de sua aquisição, não deve ser afetado pelo decurso de tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário.
+    2. É legítima, todavia, a instituição de prazo decadencial de dez anos para a revisão de benefício já concedido, com fundamento no princípio da segurança jurídica, no interesse em evitar a eternização dos litígios e na busca de equilíbrio financeiro e atuarial para o sistema previdenciário.
+    3. O prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição.
+    4. Inexiste direito adquirido a regime jurídico não sujeito a decadência.
+    5. Recurso extraordinário conhecido e provido” (grifos meus).
+    Além disso, a verificação, no caso concreto, da ocorrência de violação ao direito adquirido demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, e das normas infraconstitucionais pertinentes. A afronta à Constituição, se ocorrente, seria reflexa. Incabível, portanto, o recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
