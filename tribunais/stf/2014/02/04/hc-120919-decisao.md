@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de habeas corpus impetrado em favor de Antônio Javorski contra acórdão da Quinta Turma do Superior Tribunal de Justiça proferido nos autos dos AgRg no Recurso Especial 9.558/AC, com a seguinte ementa:
+    “CRIMINAL. PRAZO PARA INTERPOSIÇÃO DO ARESP. VALIDADE DA SÚMULA Nº 699/STF. AGRAVO DESPROVIDO.
+    I – O Supremo Tribunal Federal, em sessão plenária ocorrida em 13/10/2011 reconheceu falha na redação da Resolução 451, reforçando a validade da Súmula 699/STF, que fixa o prazo para interposição do agravo em recurso especial, em matéria criminal, em cinco dias, de acordo com o artigo 28 da Lei 8.038/1990.
+    II – Agravo Regimental desprovido”.
+    Sustenta a impetrante, em síntese, que: (a) o recurso interposto no STJ preenche os pressupostos de admissibilidade, pois a decisão do Supremo Tribunal Federal que reconheceu a validade da Súmula 699/STF é posterior à publicação da decisão que negou seguimento ao agravo em recurso especial em face da sua intempestividade, sendo certo que a questão do prazo era controversa à época da interposição do recurso; (b) “diante do princípio da norma mais benéfica, as Leis 8.038/1990 e 8.950/1994 são da mesma hierarquia, devendo aplicar-se aquela que for mais benéfica ao réu, pois aqui se trata de processo penal cujas garantias são de fundo constitucional”. Requer, assim, o deferimento do pedido, para “anular a certidão de trânsito em julgado e colocar em liberdade o paciente”.
+    2. Não cabe ao Supremo Tribunal Federal, em sede de habeas corpus, rever o preenchimento ou não dos pressupostos de admissibilidade de recursos de competência exclusiva do Superior Tribunal de Justiça (CF, art. 105, III), salvo em hipótese de flagrante ilegalidade, o que não se verifica na espécie. Nesse sentido: HC 94236, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, DJe 19-09-2013; HC 113.407, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 15/02/2013; HC 112323, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe de 25-09-2012; HC 85195, Relator(a): Min. CARLOS BRITTO, Primeira Turma, DJ 07-10-2005, este assim ementado:
+    “HABEAS CORPUS. ALEGADO CONSTRANGIMENTO ILEGAL, CONSISTENTE EM ACÓRDÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL, AO FUNDAMENTO DE IMPUGNAÇÃO GENÉRICA E DE IMPRESCINDIBILIDADE DE REEXAME PROBATÓRIO.
+    O Superior Tribunal de Justiça é a jurisdição final sobre os pressupostos de admissibilidade do recurso especial, motivo pelo qual não pode o Supremo Tribunal Federal reapreciar tais requisitos e o rejulgar do recurso, salvo, por se tratar de habeas corpus, na hipótese de flagrante ilegalidade. Caso em que a Corte Superior de Justiça deu adequada solução ao recurso interposto. Inexistência, portanto, do alegado constrangimento ilegal”.
+    4. Pelo exposto, nego seguimento ao pedido. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 04 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
