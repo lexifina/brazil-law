@@ -1,0 +1,9 @@
+DECISÃO
+FINSOCIAL – EMPRESA PRESTADORA DE SERVIÇO – MAJORAÇÃO DE ALÍQUOTA – LEIS NºS 7.689/88, 7.787/89, 7.894/89 E 8.147/90 – RECURSO EXTRAORDINÁRIO – CONHECIMENTO E PROVIMENTO PARCIAL NOS AUTOS DO AGRAVO PROVIDO.
+    1. Firmou-se neste Tribunal, após o julgamento, no âmbito do Plenário, do Recurso Extraordinário nº 187.436-8/RS, entendimento de que o artigo 56 do Ato das Disposições Constitucionais Transitórias não alberga a situação das prestadoras de serviço. Assim, tal como o artigo 28 da Lei nº 7.738/89, as Leis de nºs 7.689/88, 7.787/89, 7.894/89 e 8.147/90 são constitucionais, no que implicaram o aumento da contribuição, porque enquadrável esta última no inciso I do artigo 195 do Diploma Maior.
+    Todavia, na espécie, a leitura do acórdão de folha 126 a 139 e da declaração de voto vencido de folha 160 a 165 revela que o Tribunal de origem apenas examinou a matéria à luz da natureza jurídica da contribuinte, se comercial ou prestador de serviço, quanto à recorrida Larry Propaganda e Publicidade Ltda., tendo concluído tratar-se da segunda espécie, fato confirmado nas contrarrazões de folha 233 a 238. Assim, não há margem a concluir-se pela legitimidade da majoração pretendida pela União em relação às demais agravadas.
+    2. Conheço deste agravo e o provejo, assentando o enquadramento do extraordinário no permissivo da alínea “b” do inciso III do artigo 102 da Constituição Federal. Ante o precedente do Plenário, aciono o disposto nos artigos 544, §§ 3º e 4º, e 557, § 1º- A, do Código de Processo Civil e aprecio, desde logo, o extraordinário, conhecendo-o e provendo-o parcialmente para reformar o acórdão recorrido apenas em relação à empresa Larry Propaganda e Publicidade Ltda, invertidos os ônus quanto à mesma.
+    3. Publiquem.
+Brasília, 4 de fevereiro de 2014.
+Ministro MARCO AURÉLIO
+Relator
