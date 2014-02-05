@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 20, de 20 de janeiro de 2014
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: RETENÇÃO PREVIDENCIÁRIA. DISPENSA. Não se sujeita à retenção de 11% de que trata o art. 31 da Lei nº 8.212, de 1991, a prestação de serviços profissionais relativos ao exercício de profissão regulamentada por legislação federal, desde que os serviços sejam executados pessoalmente pelos sócios, sem o concurso de empregados ou outros contribuintes individuais. DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 31; Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 1999, art. 219, § 2º, XXIV; Instrução Normativa RFB nº 971, de 2009, arts. 117, 118 e 120.
+[arquivo anexo: SC Cosit nº 20 2014.pdf]
