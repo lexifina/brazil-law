@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de reclamação contra decisão proferida em mandado de segurança impetrado junto ao Tribunal de Justiça do Piauí, no sentido de determinar “(...) as medidas cabíveis para nomeação, posse e o pleno exercício do cargo ou função para a qual foi aprovada e classificada a impetrante.”
+    Sustenta o reclamante que o ato teria desrespeitado a autoridade da decisão desta Corte proferida no julgamento da ADC 4-MC (Rel. Min. Sydney Sanches, Pleno, DJ de 21/05/1999), porquanto a medida prática decorrente da ordem concedida implicaria pagamento de vencimentos, incidindo nas proibições ao deferimento de provimentos antecipatórios previstos pela Lei 9.494/1997.
+    O Ministro Ayres Britto indeferiu a liminar e a Procuradoria-Geral da República opinou no sentido da improcedência da reclamação.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88).
+    A questão ora em análise resume-se a verificar se a ordem para nomeação e posse de aprovado em concurso público ofenderia o conteúdo decisório constante do acórdão da ADC 4-MC. Não se verifica, entretanto, nenhum desrespeito à autoridade do paradigma, porquanto, conforme voto que proferi como relator da Rcl 5.982-AgR, o pagamento de vencimentos consiste apenas em efeito secundário da ordem mandamental, tanto nos casos de continuidade de participação em concursos nos quais há curso remunerado de formação quanto nos de nomeação e posse definitiva, também nos termos da jurisprudência do STF:
+    CONSTITUCIONAL. ANTECIPAÇÃO DE TUTELA PARA GARANTIA DE PARTICIPAÇÃO EM CONCURSO. PAGAMENTO DE VENCIMENTOS. ALEGAÇÃO DE DESRESPEITO À ADC 4. INOCORRÊNCIA. EFEITO SECUNDÁRIO DA DECISÃO. PRECEDENTES.
+    1. Não desrespeita a autoridade da ADC 4 decisão que garante a continuidade de candidato em concurso público, mesmo que a participação no certame implique direito a percepção de vencimentos.
+    2. Agravo regimental a que se nega provimento. (Rcl 5.982-AgR, de minha relatoria, Pleno, DJe de 01/07/2013).
+    SERVIDOR PÚBLICO. Cargo. Concurso público. Candidato aprovado. Nomeação e posse. Antecipação de tutela contra a Fazenda Pública para estes fins. Admissibilidade. Pagamento consequente de vencimentos. Irrelevância. Efeito secundário da decisão. Inaplicabilidade do acórdão da ADC nº 4. Reclamação indeferida liminarmente. Agravo improvido. Precedentes. Não ofende a autoridade do acórdão proferido na ADC nº 4, a decisão que, a título de antecipação de tutela, assegura a candidato aprovado em concurso a nomeação e posse em cargo público. (Rcl 5983-AgR, Rel. Min. Cezar Peluso, Pleno, DJe de 06/02/2009).
+    3. Ante o exposto, nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 05 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
