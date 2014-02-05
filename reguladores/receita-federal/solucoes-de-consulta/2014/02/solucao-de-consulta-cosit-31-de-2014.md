@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 31, de 30 de janeiro de 2014
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF EMENTA: ALIENAÇÃO DE IMÓVEIS RESIDENCIAIS. GANHO DE CAPITAL. ISENÇÃO. ART. 39 DA LEI Nº 11.196, DE 2005. Para fins da isenção prevista no art. 39 da Lei nº 11.196, de 2005, integram o valor de aquisição do novo imóvel as despesas de corretagem pagas a profissionais ou empresas habilitados, cujo ônus tenha sido do adquirente, desde que necessárias e comprovadas com documentação hábil e idônea. DISPOSITIVOS LEGAIS: Lei nº 11.196, de 2005, art. 39; Instrução Normativa SRF nº 84, de 2001, art. 17, I; Instrução Normativa SRF nº 599, de 2005, arts. 2.º, § 8.º e 4º.
+[arquivo anexo: SC Cosit nº 31-2014.pdf]
