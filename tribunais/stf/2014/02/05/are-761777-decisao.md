@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO.  PROCESSUAL CIVIL. EXECUÇÃO. RECURSO CONTRA ACÓRDÃO DO STJ. CONTROVÉRSIA CONSTITUCIONAL SURGIDA NA INSTÂNCIA ORDINÁRIA. INADMISSIBILIDADE DO RE.
+1. O recurso extraordinário contra acórdão do Superior Tribunal de Justiça proferido em recurso especial só é cabível quando a questão constitucional objeto da controvérsia for diversa da decidida pela instância ordinária. Nesses casos, só é admissível o apelo extremo que a suposta violação constitucional tiver sido, originariamente, apreciada pela Corte Especial. Precedentes: RE 750.300-ED, Rel. Min. Celso de Mello, DJe de 6/9/2013, ARE 644.906-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 12/4/2012.
+2. In casu, o acórdão recorrido assentou: “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA A MANUTENÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO REGIMENTAL DESPROVIDO”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por ZAID ARBID, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA A MANUTENÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO REGIMENTAL DESPROVIDO.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões de apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Não merece prosperar o presente agravo.
+    Esta Corte já firmou entendimento no sentido de que só cabe recurso extraordinário contra acórdão do Superior Tribunal de Justiça, proferido no julgamento do recurso especial, quando a questão constitucional objeto da controvérsia for diversa da decidida pela instância ordinária. Assim, o apelo extremo só será cabível quando a suposta violação constitucional tiver sido, originariamente, apreciada pela Corte Especial. Nesse sentido, menciono as seguintes decisões, entre outras: RE 750.300-ED, Rel. Min. Celso de Mello, DJe de 6/9/2013, ARE 644.906-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 12/4/2012, que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE ACÓRDÃO DO STJ. INVIABILIDADE. AUSÊNCIA DE QUESTÃO DIVERSA DA DECIDIDA PELA INSTÂNCIA ORDINÁRIA. AGRAVO IMPROVIDO. I – Somente se admite recurso extraordinário de decisão do Superior Tribunal de Justiça se a questão constitucional impugnada for nova. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial. II – Agravo regimental improvido.”
+    Ademais, os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 748.371, da Relatoria do Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 5 de fevereiro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
