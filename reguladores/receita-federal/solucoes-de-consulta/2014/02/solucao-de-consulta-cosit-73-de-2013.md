@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 73, de 31 de dezembro de 2013
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF EMENTA: DIÁRIAS. ISENÇÃO. As diárias pagas exclusivamente para custear as despesas de alimentação e pousada do empregado por serviço eventual realizado em município diferente do da sede de trabalho, até mesmo no exterior, são isentas do imposto de renda, desde que atendidas as condições prescritas nas normas de regência da matéria. DISPOSITIVOS LEGAIS: Lei nº 7.713, de 1998, art. 6º, inc. II? Decreto nº 3000, de 1999, art. 39, inc. XIII? IN SRF nº 15, de 2001, art. 5º, inc. II? Parecer Normativo CST nº 10, de 1992.
+[arquivo anexo: SC Cosit 73-2013.pdf]
