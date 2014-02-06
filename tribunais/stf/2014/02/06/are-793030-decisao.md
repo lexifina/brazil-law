@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal Regional Federal da 4ª Região que, em ação ordinária, no que importa ao presente recurso, manteve os termos da sentença, que jugou extinto o processo com resolução de mérito em razão do reconhecimento da prescrição quinquenal das parcelas anteriores aos cinco anos do ajuizamento da demanda.
+    Na petição inicial (protocolada em 10.06.2010) postulou-se a declaração de inexigibilidade da contribuição previdenciária incidente sobre o resultado da comercialização da produção dos produtores rurais empregadores pessoas físicas (FUNRURAL) com a consequente repetição do indébito dos valores recolhidos no período de 1º.1.2000 a 3.2.2002 (Vols. 121 e 122).
+    No recurso extraordinário (Vol. 15), a parte recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC, sem apontar, contudo, os dispositivos da Constituição Federal que foram violados.
+    2. A parte recorrente não demonstrou adequadamente as razões pelas quais entende violados, pelo acórdão recorrido, os preceitos constitucionais suscitados. Na verdade, limitou-se a manifestar, genericamente, sua irresignação contra o julgado, o que caracteriza a deficiência na fundamentação do apelo extremo. Inadmissível o extraordinário, nos termos da Súmula 284 deste Tribunal: é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Não atacados suficientemente os fundamentos da decisão agravada, torna-se inviável o recurso.
+    3. Ainda que superado este grave óbice, quanto à questão relacionada ao prazo prescricional da pretensão de repetição de indébito, não merece qualquer reparo o acórdão recorrido, pois decidiu nos termos do entendimento firmado pelo Plenário desta Corte no julgamento do Tema 4 da Repercussão Geral (RE 566.621, Rel. Min. ELLEN GRACIE, DJe de 11.10.11). Considerada a especial eficácia vinculativa desse julgado (CPC, art. 543-B, § 3º), impõe-se sua aplicação, nos mesmos termos, aos casos análogos, como o dos autos.
+    4. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 06 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
