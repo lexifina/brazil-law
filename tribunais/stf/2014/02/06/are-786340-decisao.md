@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça da Bahia que deu provimento à apelação para anular a exclusão dos recorridos do concurso para o provimento de cargos da polícia militar do Estado.
+    Os embargos de declaração opostos foram rejeitados.
+    No recurso extraordinário, a parte recorrente aponta, com base no art. 102, III, a, da Constituição Federal, em síntese, violação aos seguintes dispositivos constitucionais: (a) arts. 5º, XXXV e 93, IX, em razão do desacolhimento dos embargos de declaração, negando prequestionamento da matéria constitucional e (b) arts. 5º, LIV, 37, I e II, em razão da impossibilidade de previsão no edital do concurso de todas as normas atinentes ao ingresso na carreira policial militar.
+    2. No que toca à alegação de ofensa ao art. 93, IX, da Constituição Federal, relativa à suposta negativa de prestação jurisdicional, deve ser observado entendimento assentado por esta Corte, do qual não divergiu o acórdão recorrido, no julgamento do AI 791.292 QO - RG (Min. Rel. GILMAR MENDES, DJe de 13/8/2010), cuja repercussão geral foi reconhecida, para reafirmar jurisprudência do Supremo Tribunal Federal no sentido de que:
+    (…) o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    3. Quanto à alegação de ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta Corte na análise do ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660), por se tratar de questão infraconstitucional. Registre-se que a decisão de inexistência de repercussão geral tem eficácia em relação a todos os recursos sobre matéria idêntica (art. 543-A, § 5º, do CPC c/c art. 327, § 1º, do RISTF).
+    4. Por fim, o acórdão recorrido assentou que “Eliminação dos Apelantes na Etapa Relativa do Exame Médico. Critérios Fixados em Portaria Não Publicada no Edital e de Circulação Interna da Corporação Militar.” (e-STJ Fl.136). Assim, a análise do recurso extraordinário demanda a incursão em aspectos fáticos da causa e em cláusulas desse processo seletivo, inviável a teor das súmulas 279 ( Para simples reexame de prova não cabe recurso extraordinário ) e 454 ( Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário ), todas do STF.
+    5. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 06 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
