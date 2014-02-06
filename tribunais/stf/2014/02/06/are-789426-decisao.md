@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “1. AGRAVO DE INSTRUMENTO. Em face da plausibilidade da indicada divergência jurisprudencial, dá-se provimento ao Agravo de Instrumento para o amplo julgamento do Recurso de Revista. Agravo de Instrumento a que se dá provimento.
+    2. RECURSO DE REVISTA AÇÃO CIVIL PÚBLICA. CONDENAÇÃO EM DINHEIRO E EM OBRIGAÇÃO DE FAZER OU NÃO FAZER. CUMULAÇÃO. POSSIBILIDADE. A partícula “ou” constante do texto do art. 3º da Lei 7.347/1985 (Lei da ACP) não estabelece uma alternativa excludente, mas equivale à expressão “também”, porquanto a lei teve em vista expressar que o objeto da Ação Civil Pública não é apenas a condenação em dinheiro, mas também a obrigação de fazer e/ou a obrigação de não fazer. Assim, ao verificar que a aplicação de apenas uma das espécies de sanção previstas na lei não enseja tutela jurisdicional integral ao bem tutelado, é permitido ao juízo cumular a condenação de obrigação de fazer ou de não fazer com a de indenizar. Recurso de Revista de que se conhece e a que se dá provimento” (vol. 17, grifos no original).
+     No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, II e LV, 127 e 133, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu a questão relativa à prescrição com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 7.347/85, Código de Processo Civil e Código de Defesa do Consumidor). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Ademais, este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Nesse sentido, cito as seguintes decisões: AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
