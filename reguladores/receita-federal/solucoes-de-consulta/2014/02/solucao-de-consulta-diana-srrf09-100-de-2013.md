@@ -1,0 +1,6 @@
+Solução de Consulta Diana/SRRF09 nº 100, de 22 de novembro de 2013
+Assunto: Classificação de Mercadorias Código TEC 2106.90.10 Mercadoria: Composto de folhas secas, trituradas e colocadas em saquinhos para preparação de bebidas quentes por infusão (vulgarmente chamadas de “chá”), das plantas Cassia angustifolia (sene) e Peumus boldus (boldo), apresentando-se em caixa com 60 saquinhos de 3g. Dispositivos Legais: RGI/SH 1 (texto da posição 21.06) e 6 (texto da subposição 2106.90) e RGC/NCM 1 (texto do item 2106.90.10) da TEC, aprovada pela Res. Camex n.º 94, de 2011; subsídios NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
+Assunto: Classificação de Mercadorias
+Código TEC 2106.90.10
+Mercadoria: Composto de folhas secas, trituradas e colocadas em saquinhos para preparação de bebidas quentes por infusão (vulgarmente chamadas de “chá”), das plantas Cassia angustifolia (sene) e Peumus boldus (boldo), apresentando-se em caixa com 60 saquinhos de 3g.
+Dispositivos Legais: RGI/SH 1 (texto da posição 21.06) e 6 (texto da subposição 2106.90) e RGC/NCM 1 (texto do item 2106.90.10) da TEC, aprovada pela Res. Camex n.º 94, de 2011; subsídios NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
