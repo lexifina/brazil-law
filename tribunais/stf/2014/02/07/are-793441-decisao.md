@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. INSTALAÇÃO DE PORTA ELETRÔNICA DE SEGURANÇA. LEI N. 7.494/1994. MUNICÍPIO DE PORTO ALEGRE. POSTOS DE AUTO-ATENDIMENTO BANCÁRIO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “ADMINISTRATIVO. POSTOS DE AUTO-ATENDIMENTO BANCÁRIO. INSTALAÇÃO DE PORTA ELETRÔNICA DE SEGURANÇA INDIVIDUALIZADA. LEI MUNICIPAL Nº 7.494/94. MUNICÍPIO DE PORTO ALEGRE.
+    A exigência legal de instalação de porta eletrônica de segurança, com detector de metais, restringe-se às agências e postos de serviços, assim entendidos os postos que realizam as mesmas atividades das agências, com atendimento ao público, mas com menor número de funcionários, não se estendendo aos meros terminais de auto-atendimento” (grifos nossos).
+    2. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado os arts. 2º, e 93, inc. IX, da Constituição da República.
+    Argumenta ser “... descabida a diferenciação entre postos de serviços bancários e postos de auto-atendimento. O que deve ser considerado é o tipo de atividade que é executada no posto de serviço bancário e no posto de auto-atendimento”.
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de incidência da Súmula n. 284 do Supremo Tribunal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois não é deficiente a fundamentação do recurso extraordinária.
+    Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão do Agravante.
+    6 . Razão jurídica não assiste ao Agravante.
+    7. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, RTJ 150/269).
+    8. O Tribunal de origem decidiu que a exigência de instalação de porta de segurança, prevista na legislação municipal, não se aplicaria aos postos de auto-atendimento.
+    A apreciação do pleito recursal demandaria a análise da legislação local aplicável ao caso concreto (Lei Municipal n. 7.494/1994). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide a Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. LEI MUNICIPAL. PORTA ELETRÔNICA EM TERMINAIS DE AUTOATENDIMENTO BANCÁRIO. COMPETÊNCIA MUNICIPAL PARA LEGISLAR SOBRE QUESTÕES DE SEGURANÇA NOS LOCAIS DE ATENDIMENTO AO PÚBLICO. INTERESSE LOCAL. INOCORRÊNCIA DE USURPAÇÃO DA COMPETÊNCIA LEGISLATIVA FEDERAL. REEXAME DA LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS” (ARE 691.591-AgR/RS, Relator o Ministro Luiz Fux, Primeira Turma, DJe 27.2.2013, grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. COLOCAÇÃO DE ASSENTOS EM FILA DE BANCO. 1. Lei municipal n. 3.259/1995. Impossibilidade de exame de norma local. Súmula n. 280 do Supremo Tribunal Federal. 2. Valor da multa cobrada. Inviabilidade de reexame de fatos e provas. Incidência da Súmula n. 279 do Supremo Tribunal. 3. Agravo regimental ao qual se nega provimento” (AI 813.536-AgR, de minha relatoria, Primeira Turma, DJe 14.6.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE PERANTE O TRIBUNAL DE JUSTIÇA LOCAL. LEI MUNICIPAL. ESTABELECIMENTOS PORTADORES DE SERVIÇOS BANCÁRIOS. INSTALAÇÃO DE PAINEL OPACO ENTRE OS CAIXAS E OS CLIENTES EM ESPERA. PREQUESTIONAMENTO. INEXISTÊNCIA. COMPETÊNCIA DO MUNICÍPIO PARA LEGISLAR SOBRE ATIVIDADE BANCÁRIA. INTERESSE LOCAL. POSSIBILIDADE. INOCORRÊNCIA DE USURPAÇÃO DA COMPETÊNCIA LEGISLATIVA FEDERAL. VÍCIO DE INICIATIVA. REEXAME DA LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO” (RE 694.298-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 21.9.2012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2014.
+ Ministra CÁRMEN LÚCIA
+Relatora
