@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “Apelação. Ação de Repetição de Indébito Tributário. Imposto Predial e Territorial Urbano. Exercícios de 1995 a 1998. Alegação de excesso de cobrança porque incorreta a base de cálculo do tributo. Improcedência. Perícia a demonstrar que a área do imóvel é superior à indicada na notificação dos lançamentos fiscais. Recurso denegado”. (eDOC 7, p. 23)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação do artigo 5º, XXXVI, do texto constitucional.
+    Alega-se ofensa ao direito adquirido, ao fundamento de que área edificada era permitida em legislação anterior. Aponta-se ainda que não houve construção de obra nova, mas sim mudança na metodologia de apuração do terreno.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que divergir do entendimento adotado pelo Tribunal a quo demandaria o reexame do conjunto fático-probatório dos autos, bem como a análise da legislação local aplicável à espécie, providências vedadas em sede extraordinária. Incidem, portanto, os Enunciados 279 e 280 da Súmula do STF. Confiram-se, a propósito, os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IPTU. VALOR VENAL. CÁLCULO POR LAUDO PERICIAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. DESRESPEITO AO ART. 5, LV, DA CONSTITUIÇÃO DA REPÚBLICA. INVIABILIDADE. OFENSA REFLEXA. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO. 1. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes. 2. A Súmula 279/STF dispõe verbis: ‘Para simples reexame de prova não cabe recurso extraordinário’. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. Agravo regimental desprovido”. (ARE 719.367-AgR/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 01.7.2013)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IPTU. ISENÇÃO. LEI MUNICIPAL 5.839/90, COM A REDAÇÃO DADA PELA LEI 6.815/1994. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 280/STF. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria a análise da legislação ordinária aplicada à espécie. Providência vedada na instância recursal extraordinária. 2. Agravo regimental desprovido” (RE 522.204-AgR/MG, Rel. Min. Ayres Britto, Segunda Turma, DJe 01.02.2012)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
