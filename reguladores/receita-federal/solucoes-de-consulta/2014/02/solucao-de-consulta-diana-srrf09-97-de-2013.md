@@ -1,0 +1,6 @@
+Solução de Consulta Diana/SRRF09 nº 97, de 14 de novembro de 2013
+Assunto: Classificação de Mercadorias Código TEC: 8414.90.39 Mercadoria: Parte de compressor de ar condicionado veicular, com alma constituída por uma folha de aço SAE1010, revestida de borracha, apresentada isoladamente, própria para vedação, evitando vazamento de óleo ou gás, entre o bloco e a tampa frontal do compressor. Denominação comercial: Gaxeta BC047291-0180. Dispositivos Legais: RGI/SH 1 (texto da posição 84.14, Nota 2 da Seção XVI), RGI/SH 6 (texto da subposição 8414.90) e RGC/NCM 1 (textos do item 8414.90.3 e do subitem 8414.90.39) da TEC, aprovada pela Res. Camex nº 94, de 2011.
+Assunto: Classificação de Mercadorias
+Código TEC: 8414.90.39
+Mercadoria: Parte de compressor de ar condicionado veicular, com alma constituída por uma folha de aço SAE1010, revestida de borracha, apresentada isoladamente, própria para vedação, evitando vazamento de óleo ou gás, entre o bloco e a tampa frontal do compressor. Denominação comercial: Gaxeta BC047291-0180.
+Dispositivos Legais: RGI/SH 1 (texto da posição 84.14, Nota 2 da Seção XVI), RGI/SH 6 (texto da subposição 8414.90) e RGC/NCM 1 (textos do item 8414.90.3 e do subitem 8414.90.39) da TEC, aprovada pela Res. Camex nº 94, de 2011.
