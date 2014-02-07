@@ -1,0 +1,6 @@
+Solução de Consulta Diana/SRRF09 nº 101, de 22 de novembro de 2013
+Assunto: Classificação de Mercadorias Código TIPI 8432.29.00 Mercadoria: Escarificador para descompactar e preparar o solo para agricultura, constituído de uma armação horizontal sobre rodas para ser rebocada por trator ou motocultor provida de discos de corte e hastes sulcadoras que revolvem o solo em camadas mais profundas, comercialmente denominado “subsolador”. Dispositivos Legais: RGI/SH 1 (texto da posição 84.32) e 6 (textos das subposições 8432.2 e 8432.29) da TIPI, aprovada pelo Decreto nº 7.660, de 2011, subsídios NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
+Assunto: Classificação de Mercadorias
+Código TIPI 8432.29.00
+Mercadoria: Escarificador para descompactar e preparar o solo para agricultura, constituído de uma armação horizontal sobre rodas para ser rebocada por trator ou motocultor provida de discos de corte e hastes sulcadoras que revolvem o solo em camadas mais profundas, comercialmente denominado “subsolador”.
+Dispositivos Legais: RGI/SH 1 (texto da posição 84.32) e 6 (textos das subposições 8432.2 e 8432.29) da TIPI, aprovada pelo Decreto nº 7.660, de 2011, subsídios NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
