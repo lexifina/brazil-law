@@ -1,0 +1,31 @@
+RECLAMAÇÃO. ALEGADO DESRESPEITO À DECISÃO PROFERIDA NO JULGAMENTO DA MEDIDA CAUTELAR NA ADC 18. PERDA DA EFICÁCIA DO PROVIMENTO CAUTELAR. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de reclamação, com pedido liminar, ajuizada pela União contra decisão do Tribunal Regional Federal da 1ª Região proferida nos autos da Apelação Cível nº 2007.38.14.004993-6/MG, que teria afrontado a autoridade do que foi decidido na ADC 18-MC por esta Corte.
+    A reclamante sustenta que o TRF/1ª Região deu provimento à apelação para excluir o ICMS da base de cálculo do PIS e da COFINS. A decisão restou assim ementada:
+    “TRIBUTÁRIO. COFINS E PIS. BASE DE CÁLCULO. EXCLUSÃO DO ICMS.
+    I. O PIS e a COFINS têm como base de cálculo o faturamento ou as receitas auferidas pela pessoa jurídica (art. 195, I, "b", CF).
+    II. “A base de cálculo do PIS e da Cofins não pode extravasar, sob o ângulo do faturamento, o valor do negócio, ou seja, a parcela recebida com a operação mercantil ou similar. O conceito de faturamento diz com riqueza própria, quantia que tem ingresso nos cofres de quem procede à venda de mercadorias ou a prestação dos serviços, implicando, por isso mesmo, o envolvimento de noções próprias ao que se entende como receita bruta. Descabe assentar que os contribuintes da COFINS faturam, em si, o ICMS. O valor deste revela, isto sim, um desembolso à entidade de direito público que tem a competência para cobrá-lo” (RE 240.785/MG, Rel. Min. Marco Aurélio, em julgamento ainda pendente por força de pedido de vista do Min. Gilmar Mendes).
+    III. Se o ICMS é despesa do sujeito passivo das contribuições sociais previstas no art. 195, I, CF e receita do Erário Estadual, é injurídico tentar englobá-lo na hipótese de incidência destas exações, posto que configuraria a tributação de riqueza que não pertence ao contribuinte.
+    IV. Apelação provida.”
+    Alega que este Tribunal, ao julgar a ADC 18, decidiu, em medida cautelar, suspender o julgamento de todas as demandas que envolvessem a aplicação do art. 3º, § 2º, I, da Lei 9.718/1998, exatamente a matéria analisada na decisão reclamada (inclusão do ICMS na base de cálculo do PIS e da COFINS). Eis a ementa do julgado paradigma:
+    “Medida cautelar. Ação declaratória de constitucionalidade. Art. 3º, § 2º, inciso I, da Lei nº 9.718/98. COFINS e PIS/PASEP. Base de cálculo. Faturamento (art. 195, inciso I, alínea “b”, da CF). Exclusão do valor relativo ao ICMS.
+    1. O controle direto de constitucionalidade precede o controle difuso, não obstando o ajuizamento da ação direta o curso do julgamento do recurso extraordinário.
+    2. Comprovada a divergência jurisprudencial entre Juízes e Tribunais pátrios relativamente à possibilidade de incluir o valor do ICMS na base de cálculo da COFINS e do PIS/PASEP, cabe deferir a medida cautelar para suspender o julgamento das demandas que envolvam a aplicação do art. 3º, § 2º, inciso I, da Lei nº 9.718/98.
+    3. Medida cautelar deferida, excluídos desta os processos em andamentos no Supremo Tribunal Federal.”
+    Aduz que a decisão concessiva de liminar em ADC gera efeito vinculante e eficácia erga omnes. Dessa forma, não poderia o TRF ter proferido acórdão sobre a matéria com cautelar vigente deferida pelo STF.
+    Requer a concessão de medida liminar para suspender os efeitos do acórdão do TRF e, no mérito, a procedência do pleito reclamatório, com a cassação do referido acórdão.
+    As informações foram prestadas às fls. 24-26.
+    O Ministério Público Federal opinou pela procedência da reclamação nos seguintes termos:
+    “Reclamação. Tributário. Inclusão do ICMS na base de cálculo do PIS e da COFINS. Medida cautelar concedida para suspender as ações sobre o tema até o julgamento da ADC nº 18. Acórdão proferido durante a vigência da suspensão. Parecer pela procedência da reclamação.”
+    É o relatório. Decido.
+    Não fosse pelo decurso do tempo, teria razão a reclamante. Conforme asseverou o Ministério Público Federal, o acórdão do TRF foi proferido durante a vigência da suspensão promovida pela ADC 18-MC. Contudo, apesar da eficácia da cautelar da ADC ter sido prorrogada diversas vezes, em 21/9/2010, tal eficácia cessou (conforme despacho do Relator da ADC 18-MC), sem o julgamento definitivo do mérito. Diante da perda da eficácia da decisão posta como paradigma, não se justifica mais a reclamação proposta. Destaco a decisão do Ministro Marco Aurélio na Rcl 10.441, em caso análogo ao presente:
+    “[...] No aspecto, confiram o teor do artigo 21, parágrafo único, da Lei nº 9.868/99, atentando-se para a parte final:
+    Art. 21. […]
+    Parágrafo único. Concedida a medida cautela, o Supremo Tribunal Federal fará publicar em seção especial do Diário Oficial da União a parte dispositiva da decisão, no prazo de dez dias, devendo o Tribunal proceder ao julgamento da ação no prazo de cento e oitenta dias, sob pena de perda de sua eficácia.
+    O legislador estipulou limite temporal estrito no tocante à eficácia da liminar em ação declaratória de constitucionalidade, presente a excepcionalidade da suspensão, no que manieta o Poder Judiciário em relação ao controle difuso de validade das normas. Estando há muito extrapolado o prazo de vigência da medida acauteladora implementada no paradigma, o quadro revela a ineficácia atual daquele pronunciamento.”
+    Ademais, cabe ressaltar que o tema relativo à possibilidade de inclusão do ICMS na base de cálculo da contribuição para a COFINS e da contribuição ao PIS está submetido à sistemática da repercussão geral, no RE nº 574.706. Assim, tendo sido reconhecida a existência de repercussão geral da questão constitucional suscitada, o TRF determinou o sobrestamento do recurso extraordinário (originário da Apelação Cível nº 2007.38.14.004993-6/MG) até o julgamento de mérito pelo Supremo Tribunal Federal (em 26/10/2009). Dessa forma, fica preservado o interesse da reclamante.
+    Ex positis, nego seguimento à presente Reclamação, com base no art. 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, ficando prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
