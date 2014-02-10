@@ -1,0 +1,31 @@
+MANDADO DE SEGURANÇA. ATO DO TRIBUNAL DE CONTAS DA UNIÃO. DECADÊNCIA. DECURSO DE MAIS DE 120 DIAS PARA O AJUIZAMENTO DO WRIT. MANDADO DE SEGURANÇA A QUE SE NEGA SEGUIMENTO.
+    Decisão: Cuidam os autos de mandado de segurança, com pedido de medida liminar, impetrado por Francisco Yran Farias de Souza e outros contra ato praticado pelo Tribunal de Contas da União.
+    Os impetrantes narram que, em 1993, foi prolatada sentença judicial que determinou a incorporação aos seus vencimentos do percentual de 84,32%, e que este provimento transitou em julgado. Informam, ainda, que a ação rescisória proposta com o fito de desconstituir essa sentença foi julgada improcedente.
+    Aduzem que, no entanto, a Segunda Câmara do TCU, em Sessão realizada em 20/9/2011, determinou a exclusão da parcela referente ao reajuste obtido por ordem judicial transitada em julgado.
+    Alegam, nesse contexto,
+    “que, ao assim proceder findou a indigitada autoridade coatora por violar a coisa julgada surgida há mais de 17 anos e, por consectário, diversos dispositivos legais do ordenamento em vigor e que implicam na atenção à segurança jurídica e boa-fé, além da definição do feixe de atribuições impostas pela Constituição da República aos mais variados órgãos, tendo como expressão máxima a separação de poderes”.
+    Requerem, ao final, a concessão de medida liminar para determinar
+    “a suspensão do ato impugnado que determinou a exclusão das parcelas relativas ao reajuste de 84,32%, obtido por decisão judicial transitada em julgado desde 13.03.1996, impedindo, por conseguinte, sua supressão ou, acaso já tenha sido suprimida, que seja imediatamente restabelecida sob pena de multa diária”.
+    No mérito, pugnam pela anulação do ato que determinou a exclusão da parcela referente ao reajuste de 84,32% de seus contracheques, “impondo à autoridade coatora que se abstenha de praticar qualquer ato que importe em desconstituição ou subtração da coisa julgada”.
+    É o relatório. Decido.
+    Sobre o prazo decadencial para a impetração do mandado de segurança, a Lei nº 12.016/09 preceitua o que segue em seu art. 23:
+    “O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado.”
+    Os impetrantes sustentam que o prazo para impetração do mandado de segurança renova-se no tempo, por se tratar de relação de trato sucessivo, de modo que, a cada lesão sofrida, têm restituído seu direito à impetração. Afirmam, dessa forma, que este writ é tempestivo.
+    Razão não lhes assiste, todavia.
+    Isso porque se operou, na hipótese, a decadência do direito de impetrar o mandamus. O acórdão do TCU, que deve ser considerado como ato coator, foi prolatado em sessão de 20/9/2011 e encaminhado ao Coordenador-Geral de Recursos Humanos do Departamento de Polícia Rodoviária Federal para que desse ciência de seu teor aos ora impetrantes em 23/9/2011. Em consulta ao sítio eletrônico do TCU, verifica-se que, em 31/10/2011, foi juntado aos autos do TC 003.725/2011-1 documento atestando a ciência dos impetrantes. Desse modo, ainda que se considere que os impetrantes tomaram ciência da decisão questionada somente em 31/10/2011, de há muito já se operou a decadência do direito à impetração.
+    Esta Corte já se pronunciou neste sentido:
+    “IMPETRAÇÃO. PRAZO. TERMO INICIAL. DECADÊNCIA. PRECEDENTES. 1. O termo inicial do prazo decadencial de 120 dias começa a fluir, para efeito de impetração do mandado de segurança, a partir da data em que o ato do Poder Público, formalmente divulgado no Diário Oficial, revela-se apto a gerar efeitos lesivos à esfera jurídica do interessado . 2. Precedentes. 3. Agravo regimental improvido.” (MS 23528 AgR, Relator(a): Min. ELLEN GRACIE, Tribunal Pleno, julgado em 04/08/2011, DJe-160 DIVULG 19-08-2011 PUBLIC 22-08-2011 EMENT VOL-02570-01 PP-00148) (Grifamos)
+     “MANDADO DE SEGURANÇA - DECADÊNCIA - ATO DO TRIBUNAL DE CONTAS DA UNIÃO. O prazo decadencial alusivo à impetração começa a correr a partir da ciência do ato atacado e não da primeira supressão da parcela glosada pelo Tribunal de Contas da União” (MS 25.985-AgR/DF, Rel. Min. Marco Aurélio, Plenário, DJ 21.8.2009).
+    Nesse contexto, vale ainda ressaltar a lição de Hely Lopes Meirelles, Arnoldo Wald e Gilmar Ferreira Mendes:
+    “A fluência do prazo só se inicia na data em que o ato a ser impugnado se torna operante ou exequível – vale dizer, capaz de produzir lesão ao direito do impetrante. Até então, se é insuscetível de causar dano ao destinatário, é inatacável por mandado de segurança, porque este visa, precipuamente, a impedir ou fazer cessar os efeitos do ato lesivo a direito individual ou coletivo. Ora, enquanto o ato não estiver apto a produzir seus efeitos, não pode ser impugnado judicialmente.” (in, Mandado de Segurança e Ações Constitucionais, Malheiros Editores: São Paulo, 35ª edição, 2013, pg. 64)
+    Ademais, não merece acolhida a alegação de que se trata de prestação de trato sucessivo, e que o direito ao mandado de segurança se renova, portanto, no tempo. Essa renovação somente ocorreria se não houvesse um ato concreto violador do direito alegado.
+    A corroborar essa assertiva, transcrevo o que consignou o Ministro Marco Aurélio no voto que proferiu no MS 25.136/PB:
+    “Não basta para se alijar a decadência o envolvimento de prestações sucessivas. Indispensável é que não haja, no cenário, ato positivo que possa ser tido como violador de direito. O instituto visa à segurança jurídica, considerada a impetração”.
+    Entretanto, in casu, tem-se o ato concreto – o acórdão do TCU – e a prova de que os impetrantes tomaram conhecimento desse decisum.
+    Assim, sendo o acórdão do TCU (Acórdão nº 8.202/2011) apto a produzir lesão ao direito dos impetrantes, é a data da ciência desta decisão o termo inicial para impetração do mandado de segurança. Tendo sido ultrapassado o prazo decadencial de 120 dias, configura-se a decadência do direito à impetração.
+    Ex positis, nego seguimento a este mandado de segurança, nos termos do artigo 21, § 1º, do RISTF, ficando prejudicada a análise do pedido de liminar.
+    Publique-se. Intimem-se.
+    Brasília, 10 de fevereiro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
