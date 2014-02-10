@@ -1,0 +1,38 @@
+RECLAMAÇÃO. PRECATÓRIO. FORMA DE PAGAMENTO. VINCULAÇÃO DO DEPÓSITO A VALORES ESTABELECIDOS EM ORÇAMENTOS MUNICIPAIS. ALEGAÇÃO DE AFRONTA À DECISÃO DO SUPREMO TRIBUNAL FEDERAL. ADI 4.465. INEXISTÊNCIA. AUSÊNCIA DE IDENTIDADE DE TEMAS ENTRE O ATO RECLAMADO E O PARADIGMA DESTA CORTE. NEGATIVA DE SEGUIMENTO.
+    Decisão: Cuida-se de reclamação, com pedido de medida liminar, ajuizada pelo MUNICÍPIO DE MONTE APRAZÍVEL, em que se alega descumprimento da orientação fixada pelo Pretório Excelso na Ação Direta de Inconstitucionalidade 4.465-MC.
+    O Município de Monte Aprazível alega que o Tribunal de Justiça do Estado de São Paulo através do Ofício EP nº 01291 determinou a intimação do município reclamante para complementar depósitos do Regime Especial Anual de pagamento de Precatórios, referentes aos anos de 2010, 2011 e 2012.
+    Sustenta que o TJSP vem utilizando-se da determinação contida no art. 22 da Resolução nº 115 do CNJ para exigir do reclamante o pagamento das parcelas, vinculando-as a valores provisionados em Leis Orçamentárias pretéritas e estabelecendo novos critérios para pagamento de precatórios, distintos daqueles entabulados no artigo 97 do ADCT.
+    Aduz que:
+    “O reclamante sempre cumpriu as disposições do artigo 97 do ADCT, apurando o total de débitos judiciais e dividindo-os pelo número de anos faltantes (15 anos), disponibilizando, anualmente, ao Tribunal de Justiça, o resultado desta divisão.
+    O reclamado, ao exigir o pagamento em 3 anos, vinculando os depósitos anuais a valores estabelecidos em Orçamentos Municipais pretéritos, alicerçou sua decisão no dispositivo do artigo 22 da Resolução 115 do CNJ, suprimido do sistema normativo pela decisão liminar exarada na ADI 4465/DF.”
+    É o relatório. Decido.
+    O reclamante alega que o Tribunal de Justiça do Estado de São Paulo ao exigir o pagamento de precatórios em três anos, vinculando os depósitos anuais a valores estabelecidos em orçamentos municipais pretéritos, alicerçou sua decisão no que disposto no artigo 22 da Resolução 115 do CNJ, afrontando a autoridade da decisão proferida na ADI 4.465, Relator o Ministro Marco Aurélio.
+    A Ação Direta de Inconstitucionalidade nº 4.465/DF foi proposta pela então Governadora do Estado do Pará contra o § 1º do art. 22 da Resolução CNJ 115/2010, que dispõe:
+    “Artigo 22. A entidade devedora que optar pelo regime especial anual, promoverá o depósito até dezembro de 2010, correspondente ao total da mora atualizada, dividido pelo número de anos necessários à liquidação, que poderá ser de até 15 anos.
+    § 1º O montante de cada parcela não poderá ser inferior ao valor provisionado na lei orçamentária promulgada em 2008, em atenção ao sistema do art. 100 da Constituição Federal.”
+    O Ministro Marco Aurélio, na decisão-paradigma, entendeu que o Conselho Nacional de Justiça não tem competência para regulamentar a Constituição Federal, e por isso não poderia definir as implicações referentes à observância da Emenda Constitucional 62/2009.
+    O Relator, Ministro Marco Aurélio, ao deferir o pedido de medida cautelar, suspendendo a eficácia do art. 22 da Resolução CNJ 115/2010, expressamente consignou:
+    “(...)
+    O processo veio-me concluso para exame em 7 de dezembro de 2010. Nele lancei visto, declarando-me habilitado a votar, ante o pedido de concessão de medida acauteladora, em 13 de dezembro de 2010, expedida a papeleta ao Plenário na mesma data. Não ocorreu, nem mesmo na última Sessão do Ano Judiciário, ante o acúmulo de processos, o pregão.
+    A impossibilidade de exame pelo Plenário deságua na incidência do artigo 21, incisos IV e V, do Regimento Interno e artigo 5º, § 1º, da Lei nº 9.882/99, diante do risco de grave lesão, ensejando a atuação do relator.
+    Ao Conselho Nacional de Justiça compete o controle da atuação administrativa e financeira do Poder Judiciário. Não tem ele poder normativo. Não tem ele a incumbência de regular texto constitucional, como fez relativamente à Emenda nº 62/09 , lançando, até mesmo, como premissa do ato atacado, como premissa da Resolução nº 115/2010, a necessidade 'de regulamentar aspectos procedimentais referentes à Emenda Constitucional nº 62/09' (folha 17).
+    Em síntese, o Conselho adentrou campo próprio à execução de débito da Fazenda retratado em título judicial, olvidando a área que lhe está reservada constitucionalmente . Com isso, atropelou mecanismo que já vinha sendo observado nos Estados, dispondo sobre a obrigatoriedade de depósito, até dezembro de 2010, a corresponder ao total da mora atualizada, dividida pelo número de anos necessários à liquidação, revelando-a passível de ocorrer em quinze anos. Previu, mais, no § 1º do artigo 22 da citada Resolução também atacado nesta ação , que o montante de cada parcela não poderá ser inferior ao valor provisionado na lei orçamentária promulgada em 2008, em atenção ao sistema do artigo 100 da Carta Federal.
+    O que contido no mencionado artigo 22 ganha contornos normativos impróprios porque emanado de atuação dita administrativa do Conselho, tumultuando, inclusive, o sistema adotado em várias unidades da Federação. Implicações referentes à observância da Emenda Constitucional nº 62/09 não podem ser definidas, em tese, pelo Conselho .
+    3. Defiro a medida acauteladora para suspender, até o julgamento final desta ação direta de inconstitucionalidade, a eficácia do artigo 22 da Resolução nº 115/2010 do Conselho Nacional de Justiça. Ao referendo do Plenário.
+    (...)” (DJe 02.02.2011, destaquei).
+    A autoridade reclamada não praticou ato nenhum que tenha sido objeto de discussão no julgamento da ADI 4.465.
+    Não há pertinência na invocação da decisão proferida na ADI 4.465. Não se depreende da leitura do despacho que determinou o pagamento a submissão ao critério introduzido pelo artigo 22 da Resolução 115, verbis:
+    “Vistos.
+    Havendo mora, o Município de Monte Aprazível deverá se adequar às novas regras estabelecidas pela Emenda Constitucional n. 62, de 09/12/09.
+    Submetida ao regime especial de cumprimento anual, e observado o exposto no § 5º, do artigo 100, da Constituição Federal, a Municipalidade deverá depositar, no prazo de 15 dias, o saldo remanescente das parcelas
+    de 2010, 2011 e 2012 atualizado até a data do efetivo depósito, respeitando a média dos Orçamentos de 2009 e 2010, encerrando assim a dívida em 3 anos, ou justifique.
+    No silêncio, conforme disposto no § 10º, artigo 97 do ADCT e nos artigos 33 e 34 da Resolução nº 115, complementada pela Resolução 123 do CNJ, será procedido o pedido de sequestro do valor de R$ 477.792,86 (fls. 180), junto à E. Presidência do TJSP, a instauração de processo por improbidade pelo Ministério Público, as proibições para contrair empréstimos, receber transferências voluntárias e os repasses do FPM através do Tesouro Nacional, informando ao Tribunal de Contas e a inclusão do Município no cadastro de inadimplentes do CNJ.
+    Oficie-se a municipalidade de Monte Aprazível para conhecimento e providências cabíveis.”
+    A reclamação não pode ser conhecida. Não há identidade ou similitude de objeto entre o ato impugnado e a decisão tida por desrespeitada.
+    Neste sentido, cito os seguintes julgados: Rcl 15.650, Rel. Min. Ricardo Lewandowski, DJe 16/5/2013; Rcl 14.437, Rel. Min. Rosa Weber, DJe 4/9/2012; e Rcl 11.801, Rel. Min. Ellen Gracie, DJe 7/6/2011.
+    Ex positis, nego seguimento à presente reclamação, nos termos do artigo 21, § 1º, do RISTF, restando prejudicado o exame do pedido liminar.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
