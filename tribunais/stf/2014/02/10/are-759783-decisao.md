@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 209/210):
+    “DUPLO GRAU DE JURISDIÇÃO E APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CONCURSO PÚBLICO DE SOLDADOS DA POLÍCIA MILITAR. LIMITE DE IDADE PARA INGRESSO. POSSIBILIDADE. Havendo previsão de requisito etário tanto no edital do certame, quanto em legislação estadual, deve ser observados os princípios da vinculação ao instrumento convocatório e da legalidade. Não se mostra, portanto, desproporcional, tampouco desrazoável a limitação de idade para o início da carreira policial militar, considerando a natureza das funções que exige capacidade e alto vigor físico, não havendo, pois, inconstitucionalidade na discriminação etária segundo os critérios observados (inteligência da Súmula nº 03 e Corte Especial, ambos do TJGO).
+    REMESSA E APELO CONHECIDOS E PROVIDOS.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega ofensa ao art. 7º, XXX, da Constituição, bem como aos princípios da razoabilidade e da isonomia.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que não houve o necessário prequestionamento (incidência da Súmula 282/STF).
+    O recurso não deve ser provido, tendo em vista que o acórdão recorrido está alinhado ao entendimento do Supremo Tribunal Federal no sentido de que é possível a imposição de limite de idade para inscrição em concurso público, desde que haja anterior previsão legal e a exigência seja razoável diante das atribuições do cargo público. Nessa linha, no julgamento do RE 678.112-RG, sob a relatoria do Ministro Luiz Fux, foi reconhecida a repercussão geral da matéria e reafirmada a jurisprudência no sentido de que “o estabelecimento de limite de idade para inscrição em concurso público apenas é legítimo quando justificado pela natureza das atribuições do cargo a ser preenchido”. Veja-se, ainda, a ementa do ARE 696.304-AgR, julgado sob relatoria da Ministra Rosa Weber:
+    “DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL CIVIL. LIMITE DE IDADE.PREVISÃO EM LEI ESPECÍFICA. LEGITIMIDADE. APLICAÇÃO DA SÚMULA 683/STF. INCIDÊNCIA DA LEI COMPLEMENTAR ESTADUAL 113/2010. SUPRESSÃO DA EXIGÊNCIA. EFEITOS RETROATIVOS: IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO PUBLICADO EM 16.3.2012.
+    A jurisprudência desta Corte firmou-se no sentido da legitimidade da imposição de limite de idade para inscrição em concurso público, quando previsto em lei, tendo em vista a natureza das atribuições do cargo a ser preenchido. Aplicação da Súmula 683/STF.
+    A Lei Complementar Estadual 113/2010 não pode retroagir para ser aplicada a concurso público realizado antes de sua vigência.
+    Agravo regimental conhecido e não provido.”
+    Ademais, o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do art. 102, III, da Carta. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
