@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AÇÃO DE RESSARCIMENTO AO ERÁRIO: IMPRESCRITIBILIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+    “AGRAVO REGIMENTAL. ADMINISTRATIVO. PRETENSÃO DE RESSARCIMENTO DE DANOS CAUSADOS AO ERÁRIO POR ATOS DE IMPROBIDADE ADMINISTRATIVA. IMPRESCRITIBILIDADE. 1 - A jurisprudência das Turmas que compõem a Primeira Seção do STJ é no sentido da imprescritibilidade da pretensão de ressarcimento de danos causados ao erário por atos de improbidade administrativa. Precedentes. 2 - Agravo regimental improvido”.
+    2. O Agravante afirma que o Tribunal de origem teria contrariado o art. 37, § 5º, da Constituição da República.
+    Argumenta que “conforme se depreende da leitura do V. Acórdão prolatado, entendeu o E. STJ pela imprescritibilidade da ação de ressarcimento ao dano ao erário. Indissociável referida discussão da compreensão teleológica do artigo 37, § 5.º da Constituição Federal, implicitamente prequestionado quando da discussão do tema por aquele Superior Tribunal”.
+    Alega que “embora haja notória divergência doutrinária e jurisprudencial, é certo que o direito do erário em se ressarcir de eventuais prejuízos causados por agentes políticos e administrativos é prescritível, cumprindo tão somente se verificar qual o prazo prescricional aplicável”.
+    E conclui: “não há que se falar em imprescritibilidade de ações de ressarcimento de danos ao erário, o que viola o artigo 37, § 5.º da Constituição Federal, razão pela qual são os teremos da presente para requerer se dignem Vv.Exas. darem provimento ao presente Recurso, entendendo pela prescritibilidade e determinando que seja aplicado no presente caso os prazos prescricionais aplicáveis na legislação infraconstitucional, tal seja, Art. 23. , inciso I da Lei n.º 8.429/92, o que se traduz na PRESCRIÇÃO DA AÇÃO PROPOSTA CONTRA O RECORRENTE., eis que proposta mais de cinco anos após o término do mandato do mesmo”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de o acórdão recorrido estar em harmonia com a jurisprudência do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Como assentado na decisão agravada, o acórdão recorrido está em consonância com a jurisprudência deste Supremo Tribunal:
+    “MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. BOLSISTA DO CNPq. DESCUMPRIMENTO DA OBRIGAÇÃO DE RETORNAR AO PAÍS APÓS TÉRMINO DA CONCESSÃO DE BOLSA PARA ESTUDO NO EXTERIOR. RESSARCIMENTO AO ERÁRIO. INOCORRÊNCIA DE PRESCRIÇÃO. DENEGAÇÃO DA SEGURANÇA. I – O beneficiário de bolsa de estudos no exterior patrocinada pelo Poder Público, não pode alegar desconhecimento de obrigação constante no contrato por ele subscrito e nas normas do órgão provedor. II – Precedente: MS 24.519, Rel. Min. Eros Grau. III – Incidência, na espécie, do disposto no art. 37, § 5º, da Constituição Federal, no tocante à alegada prescrição. IV – Segurança denegada” (MS 26.210/DF, Relator o Ministro Ricardo Lewandowski, Plenário, DJ 10.10.2008).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E CONSTITUCIONAL. 1) AÇÃO DE RESSARCIMENTO AO ERÁRIO: IMPRESCRITIBILIDADE. PRECEDENTES. 2) OCORRÊNCIA DE DANO: NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 598.493-AgR/SP, de minha relatoria, Segunda Turma, DJe 13.5.2013).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. IMPRESCRITIBILIDADE DAS AÇÕES DE RESSARCIMENTO AO ERÁRIO. ART. 37, § 5º, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 606.224-AgR/SE, de minha relatoria, Segunda Turma, DJe 17.4.2013).
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relator
