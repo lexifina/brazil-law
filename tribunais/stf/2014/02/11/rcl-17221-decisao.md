@@ -1,0 +1,35 @@
+DECISÃO
+RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DA DECISÃO PROFERIDA NO RECURSO EXTRAORDINÁRIO N. 701.562/AM. JULGAMENTO DE EMBARGOS DE DECLARAÇÃO DETERMINADO PELO STJ. DECISÃO INSUBSISTENTE. ACÓRDÃO EMBARGADO REFORMADO NO JULGAMENTO DO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INTERESSE DE AGIR. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Reclamação, com requerimento de medida liminar, ajuizada pelo Estado do Amazonas, em 10.2.2014, contra acórdão proferido no Mandado de Segurança n. 2006.001038-4/0001.00 pelas Câmaras Reunidas do Tribunal de Justiça do Amazonas, que teria descumprido a decisão proferida no Recurso Extraordinário n. 701.562.
+O caso
+    2. Relata o Reclamante que Edith Rosa Crispim Queiroz impetrou o Mandado de Segurança n. 2006.001038-4/0001.00 contra ato do Secretário Estadual de Educação Estado da Educação, no qual sustentou dispor de direito líquido e certo à incorporação de quintos referentes ao exercício de funções gratificadas.
+    Narra que a ordem de segurança fora concedida pelas Câmaras Reunidas do Egrégio Tribunal de Justiça do Estado do Amazonas, em decisão assim ementada:
+    “MANDADO DE SEGURANÇA – FUNCIONÁRIA PÚBLICA – VANTAGENS CONCEDIDAS AOS SERVIDORES EM ATIVIDADE – DIREITO LÍQUIDO E CERTO DA IMPETRANTE – SEGURANÇA CONCEDIDA”.
+    Informa ter oposto embargos de declaração, rejeitados (doc. 4, fl. 268), e interposto recurso especial e recurso extraordinário (doc. 4, fls. 283-322).
+    O recurso especial foi provido para determinar a realização de novo julgamento dos embargos de declaração pelo Tribunal de Justiça do Amazonas (doc. 5, fl. 20), o que ocorreu em 24.8.2011, com o acolhimento dos embargos apenas para sanar as omissões apontadas, sem modificação do resultado do julgamento (doc. 5, fls. 39-45).
+    Foram interpostos, então, novos recurso especial e recurso extraordinário, nos quais o Estado do Amazonas sustentou, respectivamente, contrariedade ao art. 535, inc. II, do Código de Processo Civil e ofensa ao art. 5º, inc. XXXVI, e 40, § 8º, da Constituição da República (doc. 5, fls. 52-87).
+    Em 8.8.2012, dei provimento ao Recurso Extraordinário n. 701.562/AM para denegar a ordem de segurança vindicada por Edith Rosa Crispim Queiroz, decisão cujo trânsito em julgado ocorreu em 24.8.2012.
+    Em 12.8.2013, passado um ano da decisão pela qual deneguei a ordem de segurança, sobreveio o julgamento dos Embargos de Declaração no Recurso Especial n. 1.329.654, pelo qual foi determinada a renovação do julgamento dos embargos de declaração opostos pelo Estado do Amazonas.
+    Não obstante tenha a decisão proferida no julgamento do Recurso Extraordinário n. 701.562/AM precedido o julgamento do recurso especial e reformado o acórdão proferido no julgamento do mandado de segurança em foco, o Tribunal de Justiça do Amazonas deu cumprimento à determinação emanada do Superior Tribunal de Justiça, integrando julgado não mais subsistia.
+    É contra essa decisão que se ajuíza a presente reclamação.
+    3. O Reclamante sustenta, em síntese, que a decisão proferida no julgamento dos embargos de declaração no mandado de segurança descumpriria a decisão proferida no Recurso Extraordinário n. 701.562/AM.
+    Pede a “cassação definitiva do acórdão proferido pelas Câmaras Reunidas do TJAM, nos autos do MS 2006.001038-4/0001.00” (fl. 15).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. A presente Reclamação não pode prosseguir, por carência de condições da ação.
+    O Estado do Amazonas não dispõe de interesse jurídico, pois não se faz presente o binômio utilidade e necessidade da demanda.
+    Consta do voto condutor da decisão reclamada:
+    “Importante destacar que a reapreciação deste recurso ocorre por determinação do Superior Tribunal de Justiça, ao reconhecer omissão no acórdão impugnado, ordenando, por oportuno, a manifestação deste Tribunal. Assim, atenta ao comando superior, renovo a apreciação dos presentes embargos de declaração. (…)
+    Posto isso, não antevejo motivo para modificar o entendimento antes consignado por esta Corte, razão porque acolho os embargos de declaração apenas para suprimir as omissões apontadas pelo Superior Tribunal de Justiça. Contudo mantenho a decisão concessiva da ordem.
+    Por fim, esclareço que trago este recurso à apreciação do colegiado apenas em atenção à ordem superior, haja vista que tenho notícias de que o acórdão concessivo da ordem foi integralmente reformado por decisão do Supremo Tribunal Federal no recurso extraordinário n. 701.562/AM” (doc. 6, fl. 7, grifos nossos)
+    Curiosamente, mesmo tendo conhecimento de que a decisão que se busca integrar com o julgamento dos embargos de declaração havia sido reformada por este Supremo Tribunal, o Tribunal de Justiça amazonense optou por cumprir o comando do Superior Tribunal de Justiça.
+    Esse procedimento, notadamente inócuo, não tem, por óbvio, o condão de restabelecer a eficácia do acórdão reformado, tampouco é suficiente para provocar novo debate sobre o mérito da ação mandamental, definitivamente solucionado no julgamento do Recurso Extraordinário n. 701.562/AM.
+    É de primário entendimento que a integração de julgado que não mais subsistia – fato reconhecido expressamente pela autoridade Reclamada e também pelo ora Reclamante – produz nenhum efeito sobre a decisão de mérito transitada em julgado, que somente pode ser desconstituída pela via rescisória. Disso decorre a manifesta ausência de interesse jurídico por parte do Reclamante.
+    5. Deve-se registrar que a confusão processual foi desencadeada pelo próprio Estado do Amazonas, agora Reclamante. Tivesse ele cumprido seu dever processual de lealdade, imposto pelo art. 14, inc. II, III e IV, do Código de Processo Civil, advertindo o Relator do recurso especial que sua pretensão jurídica havia sido integralmente satisfeita há mais de um ano (RE 701.562/AM) ou, simplesmente, requerido a desistência de seu recurso, por perda superveniente de objeto, ter-se-ia impedido dispêndio de recursos públicos no processamento de seu recurso e poupado o tempo dos julgadores, a ser dedicado apenas à solução de controvérsias ainda não dirimidas.
+    A desistência dos embargos de declaração, poderia, ou mesmo deveria, ter sido adotada pelo Reclamante para desobrigar os Desembargadores do Tribunal de Justiça amazonense a solucionar a aparente dicotomia entre o cumprimento da ordem emanada pelo Superior Tribunal de Justiça e a impossibilidade de fazê-lo pelo estado atual da causa.
+    Não fosse tanto bastante a evidenciar desapreço pelo Poder Judiciário, tem-se que, novamente, o Estado do Amazonas movimenta a aparato estatal com o ajuizamento de ação destituída de finalidade ou de possibilidade de eficácia prática, pois, como realçado, a decisão reclamada não impõe risco à eficácia da decisão cujo descumprimento se alega.
+    6. Pelo exposto, nego seguimento à presente reclamação, ficando, por óbvio, prejudicado o exame da medida liminar requerida (art. 38 da Lei n. 8.038/1990 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de fevereiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
