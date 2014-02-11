@@ -1,0 +1,20 @@
+Trata-se de conflito de atribuição suscitado pelo Ministério Público do Estado do Rio Grande do Sul para a apuração da suposta atuação de Fernando Guerreiro Lemos, Juiz do Tribunal de Justiça Militar daquele Estado, na prática de crimes decorrentes de irregularidades em contrato de prestação de serviços de consultoria firmado entre o Banrisul, então presidido pelo representado, e a Fundação de Apoio da Universidade do Rio Grande do Sul (fls. 02-10).
+    No caso, entendeu o Ministério Público estadual que seria competente o Superior Tribunal de Justiça para processar e julgar o referido juiz, nos termos do disposto no art. 104, § 5°, da Constituição do Estado do Rio Grande do Sul, que reproduzo abaixo:
+    “Artigo 104. A Justiça Militar, organizada com observância dos preceitos da Constituição Federal, terá como órgãos de primeiro grau os Conselhos de Justiça e como órgão de segundo grau o Tribunal Militar do Estado.
+    (…) § 5° - Os Juízes do Tribunal Militar do Estado terão vencimento, vantagens, direitos, garantias, prerrogativas e impedimentos iguais aos dos Desembargadores do Tribunal de Justiça.”
+    Por outro lado, o Ministério Público Federal aduz que a constitucionalidade do citado dispositivo é objeto de questionamento na Ação Direta de Inconstitucionalidade 4.360, a mim distribuída.
+    Nesse sentido, ressalta que:
+    “É manifesto o vício de inconstitucionalidade formal, ante o desrespeito à norma inscrita no art. 125, § 3°, da Constituição Federal, segundo o qual cabe à lei ordinária estadual, de iniciativa do Tribunal de Justiça, a criação da Justiça Militar, não se admitindo que a própria Constituição estadual o faça” (fl. 7.719).
+    Afirma, finalmente, que a competência originária dos Tribunais Superiores prevista na Constituição Federal não pode ser ampliada por normas outras que não a emenda constitucional, - conforme já decidiu o Supremo Tribunal Federal no julgamento da Ação Direta de Inconstitucionalidade 2.797 - e que é exaustivo o rol previsto no artigo 105, I, a, da Constituição, não podendo ser dilatado por norma estadual que estenda aos juízes do Tribunal de Justiça Militar as mesmas prerrogativas dos desembargadores do Tribunal de Justiça.
+    Assim, requer a devolução dos autos à 4ª Promotoria de Justiça Especializada Criminal do Ministério Público do Estado do Rio Grande do Sul para adoção das providências que entender cabíveis.
+    É o relatório. Decido.
+    Bem examinados os autos, pondero inicialmente que ainda está sub judice a alegada inconstitucionalidade do art. 104, § 5°, da Constituição do Estado do Rio Grande do Sul.
+    Com efeito, embora plausível a tese defendida pelo Procurador-Geral da República, tanto no que se refere ao vício formal quanto propriamente na questão envolvendo a competência originária dos Tribunais Superiores, é fato que o referido artigo continua a produzir efeitos até que seja declarada a sua incompatibilidade com a Carta da República.
+    A propósito, a via eleita pelo constituinte para despejar do ordenamento jurídico normas que não se harmonizem com a Constituição é justamente a ação direta de inconstitucionalidade – ADI, da qual se valeu o Procurador-Geral da República.
+    Contudo, não cabe aqui adiantar o julgamento da questão de fundo dessa ADI. Da mesma maneira, não seria pertinente sobrestar o andamento do feito até que se resolva a querela, tendo em vista o interesse público no prosseguimento das investigações levadas até agora a efeito pelo parquet estadual.
+    Ademais, o fenômeno da prescrição e a necessária maturação da questão constitucional proposta em sede controle concentrado recomendam que se resolva o presente conflito imediatamente, de acordo com as normas atualmente inseridas no ordenamento jurídico, que se presumem constitucionais, não havendo prejuízo imediato para as partes no deslocamento das investigações para a Procuradoria-Geral da República.
+    Isso posto, conheço deste conflito negativo e declaro a atribuição do Procurador-Geral da República para oficiar no feito.
+    Publique-se.
+    Brasília, 11 de fevereiro de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
