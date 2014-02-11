@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 67, de 30 de dezembro de 2013
+Assunto: Contribuições Sociais Previdenciárias Ementa: Contribuição Previdenciária sobre a Receita Bruta (CPRB). Base de Cálculo. As empresas que possuem como atividades a manutenção e reparação de aeronaves e respectivos motores, componentes e equipamentos contribuirão sobre o valor da receita bruta, à alíquota de 1%, em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei n.º 8.212, de 1991. DISPOSITIVOS LEGAIS: Lei n.º 12.715, de 2012, art. 78, e Lei n.º 12.546, de 2011, art. 8.º, § 3.º, inciso I.
+[arquivo anexo: SC Cosit 67-2013.pdf]
