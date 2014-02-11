@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita, no que importa:
+    “RECURSO DE REVISTA. AÇÃO CIVIL PÚBLICA. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. ASSOCIAÇÃO DE CATADORES DE LIXO. PEDIDO E CAUSA DE PEDIR. RELAÇÃO DE TRABALHO. INEXISTÊNCIA. (...)” (fl. 1 do doc. 9).
+    No Re, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 1º, III e IV, 6º, 7º, XXXIII, e 114, I e IX, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o Tribunal Superior do Trabalho decidiu a causa nos seguintes termos:
+    “Ocorre que não existe vínculo jurídico de qualquer natureza entre a Ré e os membros das associações de catadores que possibilite a apreciação da lide pela Justiça do Trabalho.
+    No presente caso, não se discute pedido decorrente de relação de trabalho, mas de implantação e aplicação de políticas públicas pela Ré, no tocante ao processamento e destinação do material reciclável produzido em suas dependências, em benefício de associações de catadores de lixo, a fim de melhorar e possibilitar melhores condições de labor aos referidos trabalhadores.
+    Não consta do acórdão recorrido que as associações de catadores tenham prestado serviços à Ré. Esta não utilizou os referidos serviços para a consecução de sua finalidade social e não explorou sua força de trabalho para o alcance do seu fim institucional. Logo, a Ré não assumiu a posição de tomadora de serviços ou de usuária final, estando ausente o elemento definidor da competência Justiça do Trabalho, a 'relação de trabalho'” (fl. 7 do doc. 9).
+    Nesse contexto, resta claro que para divergir do entendimento firmado pelo TST, necessário seria o reexame de normas infraconstitucionais aplicáveis à espécie, bem como o reexame do conjunto fático probatório constante dos autos, o que inviabiliza o extraordinário a teor da Súmula 279 do STF. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. CONTROVÉRSIA SOBRE A EXISTÊNCIA, OU NÃO, DE RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (RE 598.654-ED/ES, Rel. Min. Cármen Lúcia).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 11 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
