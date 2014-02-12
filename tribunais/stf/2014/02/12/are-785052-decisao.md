@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Claudiane Silva Marques interpõe agravo contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 7º, inciso XVI, e 39, § 3º, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado do Maranhão, assim ementado, na parte que interessa:
+    “PROCESSUAL CIVIL – AÇÃO DE COBRANÇA - SERVIDOR PÚBLICO – PROFESSOR ESTADUAL - HORAS EXTRAS – INCABIMENTO – APLICAÇÃO DO ESTATUTO DOS SERVIDORES PÚBLICOS CIVIS DO ESTADO” (fl. 151).
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá quando não for o caso de inadmissibilidade do recurso por outra razão .
+    O inconformismo não merece prosperar, uma vez que o acórdão recorrido solucionou a lide com base nos fatos e provas dos autos, e mediante interpretação da legislação local aplicável à espécie (Leis estaduais nºs 6.107/94 e 6.107/94 e Decreto 20.829/04).
+    Assim, para alcançar conclusão diversa e conceder à parte a tutela pleiteada, seria necessária a análise prévia da legislação local pertinente, de modo que, a alegada contrariedade à Constituição Federal, se tivesse ocorrido, seria indireta ou reflexa, o que não viabiliza o processamento do recurso extraordinário. Incidência, no caso, das Súmulas nºs 279 e 280 deste Supremo Tribunal Federal. Nesse sentido, mencionem-se os seguintes precedentes:
+    “ADMINISTRATIVO. ESTADO DO MARANHÃO. GRATIFICAÇÃO ESPECIAL DE SERVIÇO EXTRAORDINÁRIO. EXTENSÃO A SERVIDOR PÚBLICO INATIVO. LEIS 6.107/94 E 7.356/98. RESOLUÇÃO 001/99. ENUNCIADOS 279 E 280 DA SÚMULA/STF. O exame da controvérsia dependeria do reexame de fatos e da apreciação de direito local, o que é inviável em recurso extraordinário, conforme os enunciados 279 e 280 da Súmula/STF. Agravo regimental a que se nega provimento” (RE nº 410.427/MA-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 1/10/10).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. NATUREZA DAS GRATIFICAÇÕES DE RISCO DE VIDA E DE TEMPO INTEGRAL. IRREDUTIBILIDADE DE VENCIMENTOS. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DA LEGISLAÇÃO LOCAL. SÚMULAS N. 279 E N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 637.858/PI-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 27/6/11).
+    “EMENTA: SERVIDOR PÚBLICO DO ESTADO DA BAHIA. GRATIFICAÇÃO POR CONDIÇÕES ESPECIAIS DE TRABALHO. LEI 6.677/1994. REEXAME DE LEGISLAÇÃO LOCAL. ÓBICE DA SÚMULA 280/STF. Para se chegar a conclusão diversa daquela a que se chegou no acórdão recorrido, seria necessário o reexame das provas dos autos e da legislação local pertinente, o que encontra óbice nas Súmulas 279 e 280 do STF. Esta Corte firmou o entendimento de que a aposentadoria regula-se pela lei vigente à época da reunião dos requisitos. Agravo regimental a que se nega provimento” (AI 834.478-AgR/BA, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 25/10/12) .
+    Mencionem-se, ainda, em casos similares, as seguintes decisões monocráticas, RE nº 687.589/MA, Relatora a Ministra Cármen Lúcia, DJe de 15/8/12, e RE nº 634.821/MA, Relator o Ministro Joaquim Barbosa, DJe de 17/5/12.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 12 de fevereiro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
