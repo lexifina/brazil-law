@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NA ALÍNEA “A” DO INCISO III DO ARTIGO 102 DA CONSTITUIÇÃO FEDERAL – AGRAVO DESPROVIDO.
+    1. O Tribunal Regional Federal da 5ª Região negou provimento a apelação, ante fundamentos assim resumidos:
+    ADMINISTRATIVO E CONSTITUCIONAL. ENSINO TÉCNICO. SISTEMA DE COTAS. ALUNA QUE CURSOU A 6a. SÉRIE DO ENSINO FUNDAMENTAL EM ESCOLA PARTICULAR COMO BOLSISTA. PREVISÃO EDITALÍCIA DESPROPORCIONALIDADE. MATRÍCULA ASSEGURADA.
+    1. Trata-se de remessa oficial e apelação interposta pelo IFPE (Instituto Federal de Educação, Ciência e Tecnologia) em face de sentença prolatada pelo ilustre Juízo Federal da 1a. Vara da SJ/PE que julgou procedente o pedido desafiado na exordial para determinar que o ora apelante efetue a matrícula da ora apelada no curso de Técnico de Saneamento no Campus de Recife/PE, mesmo tendo angariado aprovação em decorrência dos benefícios garantidos pelo sistema de cotas e cursado a 6a. série do ensino fundamental em colégio particular, mas com bolsa integral.
+    2. Para tanto, entendeu o eminente Magistrado a quo que a regra prevista no edital demonstrava-se desproporcional, pois é demasiadamente genérica e não considera aspectos como a hipossuficiência de certos candidatos, critério que alicerça o sistema de cotas.
+    3. A política de cotas para ingresso nas instituições de ensino públicas busca dar efetividade à isonomia, mediante a adoção de medidas discriminatórias em favor das minorias e dos socialmente desfavorecidos, atendendo à exigência constitucional de ações positivas do Estado e da sociedade em direção à igualdade efetiva. Desse modo, a fixação de critérios para esse acesso diferenciado deverá ser estabelecida observando-se os preceitos constitucionais, de forma a permitir o acesso ao ensino superior/técnico de estudantes integrantes de minorias sociais.
+    4. O fato da apelada haver cursado a 6a. série do ensino fundamental em escola privada, com total isenção das mensalidades escolares (bolsista integral), não descaracteriza a sua condição social precária nem pode constituir óbice para disputar uma das vagas no IFPE pelo sistema de cotas.
+    5. Tal circunstância não tem o condão de afastar o seu direito de buscar o acesso ao ensino público técnico pelo sistema de cotas. Ao contrário, atesta, em tese, a sua condição de menos favorecida economicamente, haja vista que é do conhecimento geral que a concessão de bolsas de estudo, seja no ensino público, seja no particular, em regra, é dirigida àqueles cuja economia não é bastante para custear os próprios estudos.
+    6. Além disso, as normas que estabelecem o sistema de cotas devem ser interpretadas de forma sistêmica, tentando proteger os socialmente desfavorecidos, e, consequentemente, atender ao espírito que norteou a instituição do sistema.
+    7. Precedentes jurisprudenciais: TRF5, AG 00047360220114050000, Rel. Des. Federal FRANCISCO BARROS DIAS, DJU 09/06/2011; TRF4, APELREEX 200870100002378, Rel. Des. Federal VALDEMAR CAPELETTI, DJU 27.10.08 e TRF1, AC 200739000038279, Rel. Des. Federal SELENE MARIA DE ALMEIDA, DJU 28.10.10.
+    8.Remessa oficial e apelação improvidas.
+    2. Na interposição deste recurso, foram observados os pressupostos gerais de recorribilidade. A peça, subscrita por procurador federal, restou protocolada no prazo em dobro a que tem jus o recorrente.
+    Nem com um grande empenho, envolvido interesse próprio, é dado assentar a infringência à Constituição Federal. Ao contrário, o que decidido pela Corte de origem presta homenagem ao Diploma Maior. Coaduna-se com a isonomia o afastamento da distinção imposta pelo edital do vestibular. Além dos princípios explícitos, a Carta da República abrange também os implícitos, entre os quais estão o da isonomia e o da razoabilidade, aplicáveis ao caso concreto.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 12 de fevereiro de 2014.
+Ministro MARCO AURÉLIO
+Relator
