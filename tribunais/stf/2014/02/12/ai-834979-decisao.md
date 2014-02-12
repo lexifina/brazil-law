@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Ministério Público do Estado do Rio Grande do Sul interpõe agravo visando impugnar decisão (fls. 10 a 15) que não admitiu recurso extraordinário, assentado em contrariedade ao art. 5º, inciso LV da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça Estadual no julgamento da Apelação Criminal nº 70032313801, assim ementado:
+    “DIREITO PENITENCIÁRIO. NULIDADE DO PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. REFORMATIO IN MELLIUS. HABEAS DE OFICIO PARA AFASTAR A FALTA DISCIPLINAR GRAVE.
+    O espaço do procedimento administrativo disciplinar é o momento privilegiado tanto para a produção de provas acerca do efetivo cometimento da falta disciplinar imputada ao apenado, como para o exercício do contraditório e da ampla defesa e, como a definição da respectiva sanção disciplinar. Logo, imprescindível à observância estrita das normas dispostas no RDP, sob pena de violação das garantias de ampla defesa e contraditório, as quais invariavelmente afetam o status libertatis do cidadão-réu.
+    Reformatio in mellius. Habeas corpus de ofício, para afastar a falta disciplinar grave, bem como todos os efeitos negativos ao curso da execução da pena.
+    Prejudicada a pretensão ministerial” (fl. 17).
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que o agravante foi intimado do acórdão atacado após 3/5/07 (fl. 21), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    O recurso não merece prosperar.
+    Correta a decisão agravada ao assentar que eventual transgressão ao art. 5º inciso LV, da Constituição Federal, se ocorresse, seria indireta ou reflexa.
+    Anote-se que a jurisprudência desta Suprema Corte é assente no sentido de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República, o que não enseja reexame em recurso extraordinário.
+          Nesses termos, anote-se:
+    “Agravo regimental. Processual penal. Prequestionamento. Ofensa reflexa. Reapreciação de fatos e provas. Precedentes da Corte. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. Nos termos da jurisprudência deste Supremo Tribunal Federal, as alegações de afronta aos princípios da ampla defesa e do contraditório, entre outros, configuram ofensa indireta ou reflexa à Constituição Federal e, por isso, não abrem passagem ao recurso extraordinário. 3. Não é possível, em sede de recurso extraordinário, reexaminar fatos e provas a teor do que dispõe a Súmula nº 279/STF. 4. Agravo a que se nega provimento” (AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08);
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL: OFENSA INDIRETA À CONSTITUIÇÃO. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. Apesar dos argumentos do Agravante, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, entre outros, configuram ofensa reflexa à Constituição da República. 2. Agravo Regimental ao qual se nega provimento” (AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/6/07).
+    E, ainda: AI nº 622.527/AP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 18/5/07; AI nº 562.809/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 18/5/07; e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07, entre outros.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 12 de fevereiro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
