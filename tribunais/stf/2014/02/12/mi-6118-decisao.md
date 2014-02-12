@@ -1,0 +1,22 @@
+DECISÃO: (Petição STF n. 4.129/2014)
+MANDADO DE INJUNÇÃO. IMPOSSIBILIDADE DE DILIGÊNCIAS APÓS O TRÂNSITO EM JULGADO DA DECISÃO QUE NEGOU SEGUIMENTO À AÇÃO. PRECEDENTES. ARQUIVAMENTO.
+Relatório
+    1. Em 16.9.2013, julguei extinto, sem resolução do mérito, o Mandado de Injunção n. 5.194, porque, intimada para suprir a falha e emendar a petição inicial nos termos do art. 284 do Código de Processo Civil, a Impetrante não juntou, no prazo estipulado, a resposta da Administração ao seu requerimento de aposentadoria.
+    2. Em 24.12.2013, a Seção de Recebimento e Distribuição de Originários deste Supremo Tribunal certificou que “o presente feito foi distribuído por prevenção a Exma. Sra. Ministra Cármen Lúcia, tendo em vista a vinculação com ao MI n. 5194” (doc. 7).
+    Em 22.1.2014, julguei extinto, sem resolução de mérito, o presente mandado de injunção porque a Impetrante não fez nova impetração de mandado de injunção, apenas copiou e protocolizou a mesma ação antes ajuizada (doc. 8).
+    Essa decisão foi publicada no DJe de 5.2.2014.
+    3. Em 11.2.2014, pela Petição STF n. 4.129/2014, a Impetrante informou que “está sendo tolhida em deu direito de obter a aposentadoria especial por inércia/omissão do Município de Juiz de Fora que se nega (por omissão) em fornecer informação ao requerimento administrativo protocolizado” (fl. 2, doc. 10).
+    Requer “a reconsideração da r. decisão retro que negou seguimento ao mandado de injunção, para o seu regular prosseguimento com as novas informações agora apresentadas; caso não seja oportuno o seu prosseguimento, a suspensão do processo por mais 30 dias para que seja oportunizada à Autora uma nova possibilidade judiciosa de realizar outras diligências em busca de tal documentação preconizada pelo Pretório Excelso” (fl. 2, doc. 10).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. A petição apresentada não é o instrumento processual adequado para impugnar a decisão proferida. Na espécie vertente, o recurso cabível teria sido, se fosse o caso, agravo regimental, cujo prazo para interposição válida é de cinco dias, nos termos do art. 317, § 1º, do Regimento Interno do Supremo Tribunal Federal, que dispõe:
+    “Art. 317. Ressalvadas as exceções previstas neste Regimento, caberá agravo regimental, no prazo de cinco dias de decisão do Presidente do Tribunal, de Presidente de Turma ou do Relator, que causar prejuízo ao direito da parte.
+    § 1º A petição conterá, sob pena de rejeição liminar, as razões do pedido de reforma da decisão agravada”.
+    A Impetrante não interpôs o recurso adequado à espécie e a decisão que negou seguimento a este mandado de injunção transitou em julgado em 10.2.2014. Dessa forma, não é juridicamente possível suspender processo findo para diligências ou prosseguir em causa finda, sob pena de contrariedade à eficácia da coisa julgada, conforme dispõem os arts. 473 e 474 do Código de Processo Civil. Assim, por exemplo:
+    “Incabível a apresentação de 'petição inominada incidental' que não ataca os fundamentos do acórdão recorrido, além de transcorrido o prazo recursal. Não há se falar em direito de petição, tendo em vista ser claro o objetivo do recorrente em reabrir discussão tomada em acórdão já transitado em julgado. Esgotada a jurisdição da Suprema Corte no presente feito” (AI 522.066-AgR-ED-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 17.4.2009).
+    “A norma inscrita no art. 474 do CPC impossibilita a instauração de nova demanda para rediscutir a controvérsia, mesmo que com fundamento em novas alegações, pois o instituto da coisa julgada material - considerada a finalidade prática que o informa - absorve, necessariamente, 'tanto as questões que foram discutidas como as que o poderiam ser' (LIEBMAN), mas não o foram. A autoridade da coisa julgada em sentido material estende-se, por isso mesmo, tanto ao que foi efetivamente arguído pelas partes quanto ao que poderia ter sido alegado, mas não o foi, desde que tais alegações e defesas se contenham no objeto do processo ('tantum judicatum quantum disputatum vel disputari debebat'). Aplicação, ao caso, do art. 474 do CPC. Doutrina. Precedentes” (AI 334.292-AgR, Relator o Ministro Celso de Mello, Segunda Turma , DJ 3.2.2006).
+    5. Pelo exposto, em decorrência do trânsito em julgado da decisão que negou seguimento a este mandado de injunção, indefiro o pedido do Impetrante.
+    Publique-se.
+    Arquive-se.
+    Brasília, 12 de fevereiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
