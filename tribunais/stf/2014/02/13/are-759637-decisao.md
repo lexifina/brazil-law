@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário, interposto contra acórdão da 2ª Turma do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSO CIVIL - TRIBUTÁRIO - ICMS - AÇÃO DECLARATÓRIA - PRETENSÃO DE CREDITAMENTO - AUSÊNCIA DE INDICAÇÃO PRECISA DAS CARACTERÍSTICAS DOS INSUMOS, BENS E PRODUTOS ADQUIRIDOS - IMPOSSIBILIDADE.
+    1. Para a conformação de qualquer relação jurídica faz-se necessário averiguar a situação fática e sua adequação jurídica, o que resta inviável se o autor não indica com precisão os fundamentos fáticos de sua pretensão.
+    2. A legislação do ICMS condiciona o creditamento do imposto na aquisição de insumos, mercadorias, bens e produtos à sua integração no objeto social da empresa, de modo que a ausência de indicação dos referidos bens na petição inicial impossibilita o provimento declaratório por inviabilizar sua conformação jurídica.
+    3. Recurso especial provido para extinguir o processo, nos termos do art. 267, VI
+    do CPC.”
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a e b, da Constituição. A parte recorrente alega ofensa ao art. 5°, LIV e LV, da Constituição. Além de afronta às Súmulas 7 e 211/STJ, bem como às Súmulas 279/STF e 282/STF.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que: “O Supremo Tribunal Federal, em diversas oportunidades, já reconheceu que o produto intermediário aplicado ao processo produtivo, sem que integrasse fisicamente o produto final, não gerava direito ao creditamento do ICMS, antes da LC nº 87/96”.
+    O agravo não merece prosperar na medida em que a decisão recorrida está em conformidade com a jurisprudência do Supremo Tribunal Federal que firmou-se no sentido de reconhecer o direito ao crédito escritural apenas com relação aos produtos intermediários que passem a integrar fisicamente o bem. Neste sentido, confira-se a ementa do RE 540588 AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Creditamento. Não ocorrência. Aquisição de produtos intermediários. Consumidor final. Direito ao crédito. Impossibilidade. Aquisição de bens destinados ao ativo fixo ou de materiais de uso e consumo. Ausência de ofensa ao princípio da não cumulatividade. Agravo não provido. 1. É pacífica a jurisprudência desta Corte no sentido de não reconhecer o direito de creditamento do valor do ICMS, no período anterior à vigência da Lei Complementar nº 87/96, quando pago em razão da aquisição de bens para o ativo fixo do contribuinte. 2. A aquisição de produtos intermediários aplicados no processo produtivo que não integram fisicamente o produto final não gera direito ao crédito de ICMS, uma vez que a adquirente, nesse caso, mostra-se como consumidora final. Precedentes. 3. Agravo regimental não provido.”( negrito acrescentado)
+    Não obstante o acerto da decisão agravada, cabe destacar que o acórdão recorrido foi categórico ao afirmar que o contribuinte não indicou os bens cuja aquisição seria suficiente para lhe garantir o direito ao crédito do imposto. Desta forma, torna-se imprescindível revolver o acervo fático e probatório dos autos para só então enfrentar a pretensão deduzida. Deve incidir ao caso a vedação constante da Súmula 279/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º , do RI/STF, conheço do agravo para negar-lhe provimento
+    Publique-se.
+          Brasília, 13 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
