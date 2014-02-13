@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, que declarou a não incidência de ICMS na hipótese de aquisição de livro, ainda que confeccionado em material plástico. A decisão está assim ementada (fl. 342):
+    “Execução fiscal. ICMS. Executada autuada por deixar de recolher o tributo estadual incidente na operação de recebimento de mercadoria importada. Infração não caracterizada. Produto que se enquadra no conceito de livro, imune à incidência do ICMS, ainda que confeccionado em material plástico – Artigo 150, VI, d, da Constituição Federal que deverá ser interpretado em seu sentido finalístico, impedindo que o tributo funcione como instrumento contrário à liberdade de expressão e de comunicação, e o acesso à educação, à informação e à cultura. Sentença de procedência dos embargos mantida. Remessa oficial e apelo voluntário da Fazenda do Estado improvidos”.
+    No recurso extraordinário, fundamentado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 150, VI, d, da mesma Carta.
+    O recorrente argumenta que o Tribunal a quo entendeu abrangidas pela imunidade tributária as operações mercantis realizadas pela recorrida que são relativas à importação de ”ilustrações infantis confeccionadas em material plástico, caracterizadas como brinquedos com formato de livro, assemelhando tais mercadorias à espécie de livro infantil”.
+    Aduz que, sob pretexto de interpretação extensiva e analógica, o Juízo de origem estendeu a imunidade prevista na norma constitucional acima mencionada à hipótese por ela não abrangida, olvidando que a obrigação fiscal é ex lege, de natureza pública, não se permitindo os processos de integração para ampliar ou reduzir o campo de incidência tributária.
+    Destacou que a norma constitucional se limita a estabelecer a imunidade para os livros, jornais, periódicos e o papel destinado à sua impressão, não se verificando a intenção de ampliar o rol, para alcançar “brinquedos de plásticos em formato de livro”, razão pela qual pede o conhecimento do recurso e seu provimento.
+    O recurso, contudo, não tem condições de êxito.
+    Controverte-se nestes autos a respeito da natureza jurídica da mercadoria importada. A Fazenda Pública acentua não se tratar de importação de livro, mas de “brinquedos de plásticos em formato de livro de banho, com finalidade lúdica”, enquanto o acórdão recorrido expressamente afirma que as mercadorias se assemelham à espécie livro infantil, embora se apresentem como ”ilustrações infantis confeccionadas em material plástico, caracterizadas como brinquedos com formato de livro”.
+    Assim, somente a partir da revolvimento da matéria fático-probatória poder-se-ia dissentir da conclusão assentada pelo Tribunal estadual e acolher as razões do apelo extraordinário. Incide, portanto, o óbice da Súmula 279/STF.
+    Anoto que, em caso análogo, esta Corte assim decidiu a controvérsia, in verbis:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE. ART. 150, VI, D, DA CF/88. 'ÁLBUM DE FIGURINHAS'. ADMISSIBILIDADE.
+    1. A imunidade tributária sobre livros, jornais, periódicos e o papel destinado à sua impressão tem por escopo evitar embaraços ao exercício da liberdade de expressão intelectual, artística, científica e de comunicação, bem como facilitar o acesso da população à cultura, à informação e à educação.
+    2. O Constituinte, ao instituir esta benesse, não fez ressalvas quanto ao valor artístico ou didático, à relevância das informações divulgadas ou à qualidade cultural de uma publicação.
+    3. Não cabe ao aplicador da norma constitucional em tela afastar este benefício fiscal instituído para proteger direito tão importante ao exercício da democracia, por força de um juízo subjetivo acerca da qualidade cultural ou do valor pedagógico de uma publicação destinada ao público infanto-juvenil.
+    4. Recurso extraordinário conhecido e provido” (RE 221.239-6/SP, Rel. Min. Ellen Gracie).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 13 de março de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
