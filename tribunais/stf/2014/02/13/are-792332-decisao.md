@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que manteve sentença, da qual se extrai o seguinte trecho conclusivo (fls. 141/142):
+    “Efetivamente como alegado pela requerida houve necessidade de alteração do sistema tecnológico adotado para o serviço de telefonia (TDMA X GSM), que em tese trariam diversas vantagens para a própria atividade e para o consumidor.
+    Contudo, o Poder Concedente impôs a providência ainda em 2008, assinalando prazo para a adequação.
+    Com isso, passou a ser responsabilidade da requerida a adequada informação ao consumidor quando as intercorrências propiciadas pela alteração em tela, isto é, a necessidade de estruturação de novo mecanismo de recepção por antenas, para viabilizar o serviço segundo o novo molde.
+    Não consta dos autos que a parte requerida tenha cientificado ao consumidor quando ao acontecimento restritivo da utilização do serviço, quando os deveres de transparência, informação e lealdade são ínsitos à atividade consumerista, possibilitando a aferição adequada pelo consumidor quanto ao seu interesse.
+    Assim, como a contratação sucedeu sem tal cautela, a ruptura imediata sem qualquer aviso ao consumidor, mesmo que para a satisfação do comando da ANATEL não elimina ou suprime o dever de bem e escorreitamente informar ao consumidor.
+    Creio que tal falha no serviço, repercute na esfera subjetiva e honra do consumidor, pois resulta em surpresa não vislumbrada com qualquer objetividade, capaz de abalar atributos da personalidade como o conforto, segurança, consideração e autoestima, proveniente da possibilidade de acesso a meio de comunicação relevante para a satisfação de diversas necessidades cotidianas.
+    Diante desse panorama, apresenta-se como de rigor a fixação dos danos morais.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 21; 109, I; e 175, todos da Constituição.
+     A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “a matéria discutida nos autos foi decidida pelo acórdão recorrido à luz da legislação infraconstitucional, a cujo exame não se presta o recurso extraordinário”; (ii) “as matérias veiculadas no recurso são estranhas ao objeto do que ficou decido e a recorrente em momento algum demonstrou qualquer afronta à norma constitucional” (fls. 286).
+    O recurso é inadmissível. Isso porque, como constatou a decisão agravada, incide a jurisprudência do Supremo Tribunal Federal que entende tratar-se de matéria infraconstitucional a questão sobre danos morais e materiais devidos aos consumidores por ineficiência de prestação de serviços. Nessa linha, veja-se a ementa AI 765.567, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Direito do Consumidor. Responsabilidade do Fornecedor. Indenização por danos morais e materiais. Prestação de serviço. Ineficiência. Matéria infraconstitucional. Repercussão geral rejeitada.”
+    Ademais, não merece acolhida a pretensão de nulidade do julgado recorrido por incompetência absoluta da Justiça estadual, por eventual necessidade de intervenção da ANATEL na espécie. Cuida-se, no caso, de relação de consumo entre pessoa física e prestadora de serviço de telefonia, e eventual interesse da ANATEL na lide deveria ser por ela manifestado. Do que consta deste recurso extraordinário, não há como extrair ter havido contrariedade direta à Constituição da República. Veja-se, a propósito, a ementa do RE 567.454, julgado sob a relatoria do Ministro Ayres Britto:
+    “TELEFONIA. COBRANÇA DE ASSINATURA BÁSICA. DECISÃO RECORRIDA QUE SE LIMITOU A EXAMINAR O CONTRATO ENTRE A CONCESSIONÁRIA DE SERVIÇO PÚBLICO E O CONSUMIDOR. AUSÊNCIA DE INTERESSE DA ANATEL. MATÉRIA EXCLUSIVAMENTE DE DIREITO. CAUSA DECIDIDA, TÃO-SOMENTE, COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE.
+    1. Caso em que não se está a discutir o contrato de concessão entre a agência reguladora e a concessionária de serviço público. A controvérsia não vincula senão o consumidor e a concessionária de serviço de telefonia. De mais a mais, a agência reguladora a ANATEL não manifestou, expressamente, interesse na solução da controvérsia. Pelo que não há falar de interesse, jurídico ou econômico, da ANATEL.
+    2. A questão alusiva à cobrança da assinatura básica é unicamente de direito e não apresenta complexidade apta a afastar o seu processamento pelo Juizado Especial.
+    3. O mérito da causa está circunscrito à legislação infraconstitucional, notadamente o Código de Defesa do Consumidor.
+    4. Recurso conhecido em parte e, nesta parte, desprovido. Fica mantido o acórdão impugnado, que deu pela ilegalidade da cobrança da assinatura básica.”
+    Quanto à suposta violação ao art. 2º da Constituição, é firme no Supremo Tribunal Federal o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação dos poderes” (MS 23.452, Rel. Min. Celso de Mello). Nesse sentido, confira-se a ementa do AI 732.188-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no agravo de instrumento. Processual civil e constitucional. Multa. Imposição contra o Poder Público. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Precedentes.
+    (...)
+    2. Não há falar em ofensa ao princípio da separação dos poderes quando o Poder Judiciário desempenha regularmente a função jurisdicional.
+    3. Agravo regimental não provido.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 13 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
