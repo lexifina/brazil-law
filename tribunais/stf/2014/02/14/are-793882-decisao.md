@@ -1,0 +1,35 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 2º, 5º, 7º, inciso XXX, 37, caput e incisos I e II, e 39, § 3º, da Constituição Federal.
+    Decido.
+    Essa Corte já se posicionou sobre a matéria aqui em disputa, referente à exigência de altura mínima, para fins de ingresso na carreira militar, igualmente em cargo relacionado à área da saúde. Sobre o tema:
+    “DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que entendeu constitucionalmente inviável a exigência de altura mínima (1,65m), prevista em edital de concurso para o ingresso na carreira de Oficial Bombeiro Militar de Saúde do Distrito Federal.
+    O E. Tribunal de Justiça do Distrito Federal e dos Territórios, ao apreciar essa controvérsia constitucional, proferiu decisão consubstanciada em acórdão assim ementado:
+    “APELAÇÃO. ADMINISTRATIVO. PRELIMINAR DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO. CONCURSO PÚBLICO. MÉDICO DO CORPO DE BOMBEIROS DO DISTRITO FEDERAL. EXIGÊNCIA DE ESTATURA MÍNIMA. AUSÊNCIA DE RAZOABILIDADE.
+    1 – Não há impossibilidade jurídica do pedido quando o objeto da demanda é edital de concurso público supostamente eivado de ilegalidade e inconstitucionalidade, vez que tais vícios podem ser examinados pelo Poder Judiciário porque não se confundem com o mérito administrativo.
+    2 – Não há impedimento para que a lei formal estabeleça requisitos e condições específicos que devem apresentar os candidatos a determinados cargos públicos, desde que estejam de acordo com a natureza do cargo, resguardando-se, com isso, os princípios e normas constitucionais relativos à acessibilidade aos cargos e empregos públicos.
+    3 – Os requisitos diferenciados de admissão, portanto, devem revestir-se de razoabilidade, o que não se verifica na exigência de que o candidato a médico otorrinolaringologista do Corpo de Bombeiros do Distrito Federal tenha estatura mínima.
+    4 – Apelação conhecida e não provida.”
+    A parte recorrente, ao deduzir o apelo extremo ora em exame, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, “caput”, 37, “caput” e inciso II, 42, § 1º, e 142, § 3º, inciso X, todos da Constituição da República.
+    O Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República, Dr. RODRIGO JANOT MONTEIRO DE BARROS, ao opinar pelo improvimento do recurso extraordinário em questão, formulou parecer assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. MÉDICO DO CORPO DE BOMBEIROS. EXIGÊNCIA DE ALTURA MÍNIMA. DESARRAZOABILIDADE DO CRITÉRIO RESTRITIVO DE ACESSO A CARGO PÚBLICO. EXIGÊNCIA QUE NÃO SE COADUNA COM A NATUREZA E ATRIBUIÇÕES DO CARGO. SÚMULA N° 683/STF.
+    1. Somente lei formal pode estabelecer requisitos para o ingresso em cargos públicos. A estipulação legal de critérios de acesso a cargo público, todavia, não dispensa a observância ao princípio da razoabilidade, razão pela qual se tem afirmado a legitimidade do critério restritivo de acesso a cargo público, desde que adequado à natureza e às atribuições do cargo. Precedentes.
+    2. A exigência de altura mínima para o cargo de médico do Corpo de Bombeiros se mostra desarrazoada.
+    3. Não implica exame do mérito administrativo a apreciação judicial da legalidade e razoabilidade de critério de eliminação em concurso público. Precedente.
+    4. Parecer pelo desprovimento do recurso extraordinário.”
+    Entendo assistir plena razão à douta Procuradoria-Geral da República, cujo parecer evidencia que o acórdão ora questionado ajusta-se ao entendimento que o Supremo Tribunal Federal firmou na matéria em referência.
+    Na realidade, a jurisprudência desta Suprema Corte, ao examinar a questão concernente à estipulação legal de altura mínima para efeito de inscrição em concurso público e preenchimento de cargos públicos, passou a analisá-la em função e na perspectiva do critério da razoabilidade (RTJ 169/1039, Rel. Min. MARCO AURÉLIO – RE 194.952/MS, Rel. Min. ELLEN GRACIE), de tal modo que o desatendimento, pelo legislador, desse critério de ordem material poderá traduzir situação configuradora de ofensa ao princípio da proporcionalidade.
+    Impende considerar, neste ponto, que se impõe, ao legislador, no processo de produção normativa, formular regras cujo conteúdo material revele-se impregnado do necessário coeficiente de razoabilidade.
+    É que - não custa acentuar - todas as normas emanadas do Poder Público devem ajustar-se à cláusula que consagra, em sua dimensão material, o princípio do “substantive due process of law” (CF, art. 5º, LIV), eis que, no tema em questão, o postulado da proporcionalidade qualifica-se como parâmetro de aferição da própria constitucionalidade material dos atos estatais (RTJ 160/140-145 – RTJ 178/22-24, v.g.), consoante tem proclamado a jurisprudência do Supremo Tribunal Federal:
+    “O Estado não pode legislar abusivamente. A atividade legislativa está necessariamente sujeita à rígida observância de diretriz fundamental, que, encontrando suporte teórico no princípio da proporcionalidade, veda os excessos normativos e as prescrições irrazoáveis do Poder Público.
+    O princípio da proporcionalidade - que extrai a sua justificação dogmática de diversas cláusulas constitucionais, notadamente daquela que veicula a garantia do substantive due process of law - acha-se vocacionado a inibir e a neutralizar os abusos do Poder Público no exercício de suas funções, qualificando-se como parâmetro de aferição da própria constitucionalidade material dos atos estatais.
+    A norma estatal, que não veicula qualquer conteúdo de irrazoabilidade, presta obséquio ao postulado da proporcionalidade, ajustando-se à cláusula que consagra, em sua dimensão material, o princípio do substantive due process of law (CF, art. 5º, LIV).
+    Essa cláusula tutelar, ao inibir os efeitos prejudiciais decorrentes do abuso de poder legislativo, enfatiza a noção de que a prerrogativa de legislar outorgada ao Estado constitui atribuição jurídica essencialmente limitada, ainda que o momento de abstrata instauração normativa possa repousar em juízo meramente político ou discricionário do legislador.”(RTJ 176/578-580, Rel. Min. CELSO DE MELLO, Pleno)
+    Sendo assim, pelas razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento. (RE nº 653.115, Relator o Ministro Celso de Mello, DJe de 06/3/2012)
+    No mesmo sentido, ainda, as seguintes decisões monocráticas: ARE nº 748.670/RJ, de minha relatoria, DJe de 2/11/13; ARE nº 677.526/RJ, Relatora a Ministra Rosa Weber, DJe de 8/4/13; AI nº 833.379/DF, Relatora a Ministra Rosa Weber, DJe de 7/5/13; ARE nº 764.453/RJ, Relatora a Ministra Cármen Lúcia, DJe de 28/8/13; e ARE nº 759.816/RJ, Relator o Ministro Gilmar Mendes, DJe de 5/8/13.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
