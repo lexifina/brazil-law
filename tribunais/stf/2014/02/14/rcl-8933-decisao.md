@@ -1,0 +1,57 @@
+Decisão:
+    Ementa: RECLAMAÇAO. ANTECIPAÇÃO DE TUTELA CONTRA A FAZENDA PÚBLICA. ADC 4 MC/DF.
+    1. A jurisprudência do Supremo Tribunal Federal se firmou no sentido de que a antecipação de tutela contra a Fazenda Pública, quando proferida em sede de sentença de mérito, não afronta a decisão da ADC 4 MC/DF.
+    2. Segundo precedentes da Corte, não ofende a autoridade do acórdão da ADC 4 MC/DF a decisão que determina a nomeação e a posse de candidato aprovado em concurso público. Nessas hipóteses, os efeitos remuneratórios são apenas consequências da admissão do interessado.
+    3. Reclamação a que se nega seguimento.
+    1. A matéria foi assim resumida na decisão em que o Ministro Joaquim Barbosa deferiu o pedido de medida liminar (fls. 93-6):
+    “Trata-se de reclamação (art. 102, I, l da Constituição), com pedido de medida liminar, ajuizada pela União contra decisão prolatada pelo Juízo da 3ª Vara Federal da Seção Judiciária do Estado de Sergipe, nos autos da Ação Ordinária 2009.95.00.002493-0.
+    Narra a reclamante ter o interessado Leonardo Araújo Zoehler Brum ajuizado ação ordinária com o objetivo de assegurar a nomeação para o cargo de Técnico em Informática do Ministério Público Federal no Estado de Sergipe (Edital PGR/MPU 18/2006 e Edital PGR/MPU 34/2008).
+    O pedido foi julgado procedente e, na própria sentença, a autoridade reclamada antecipou os efeitos da tutela para “determinar que a União, no prazo de 30 dias, nomeie e emposse o autor no cargo anteriormente referido” (Fls. 04).
+    Segundo argumenta a reclamante, ao deferir a antecipação dos efeitos da tutela pretendida, ainda que na sentença, violou a autoridade da ADC 04.
+    Ante o exposto, pede-se a concessão de medida liminar, para suspender os efeitos da decisão reclamada. No mérito, pede-se a cassação da decisão que antecipou os efeitos da tutela.
+    É o relatório.
+    Decido o pedido de medida liminar.
+    Sem prejuízo de novo exame por ocasião do julgamento de mérito, considero presentes os requisitos que ensejam a concessão da medida liminar pleiteada.
+    De fato, por ocasião do julgamento da na ADC 4 (rel. min. Sydney Sanches, j. 1º.10.2008), o Tribunal, por maioria de votos, julgou procedente o pedido, para declarar a constitucionalidade do art. 1º da lei 9.494/1997.
+    Este dispositivo determina que se aplica à tutela antecipada prevista nos arts. 273 e 461 do Código de Processo Civil o disposto nos arts. 5º e seu parágrafo único e 7º da Lei 4.348, de 26 de junho de 1964, no art. 1º e seu § 4º da Lei 5.021, de 9 de junho de 1966, e nos arts. 1º, 3º e 4º da Lei 8.437, de 30 de junho de 1992. Dentre as restrições elencadas, está a proibição de que seja concedida a antecipação de tutela visando à reclassificação ou equiparação de servidores públicos, ou à concessão de aumento ou extensão de vantagens (art. 5º da Lei 4.348/1964).
+    A decisão desta Corte no julgamento da ADC 4, portanto, examinou a constitucionalidade da restrição legal à concessão de tutela antecipada em causas que se referem, fundamentalmente, à remuneração de servidores públicos.
+    Nesse sentido, destaco a precisa síntese do eminente ministro Celso de Mello, em decisão na Rcl 3.886-MC (DJ 06.02.2006):
+    ‘... O exame do preceito legal em questão, objeto de apreciação quando do julgamento da ADC 4-MC/DF, evidencia que o Judiciário, em tema de concessão de provimentos cautelares e de antecipação de tutela contra o Poder Público, somente não pode deferir tais medidas nas estritas hipóteses que importem em:
+    (a) reclassificação ou equiparação de servidores públicos;
+    (b) concessão de aumento ou extensão de vantagens pecuniárias;
+    (c) outorga ou acréscimo de vencimentos;
+    (d) pagamento de vencimentos e vantagens pecuniárias a servidor público ou
+    (e) esgotamento, total ou parcial, do objeto da ação, desde que, neste caso, tal ação diga respeito, exclusivamente, a qualquer das matérias acima referidas’.  [grifei]
+    Neste momento de juízo inicial, considero que a decisão reclamada contraria a orientação firmada no julgamento da ADC 04, na medida em que implica o pagamento de vencimentos ou de outras vantagens pecuniária a servidor público, por meio de antecipação dos efeitos da tutela.
+    Por seu turno, o periculum in mora se justifica com o risco de consolidação de circunstâncias de difícil reversão, marcadas pelo eventual exercício de cargo público.
+     Ante o exposto, defiro a medida liminar pleiteada, tão-somente para suspender os efeitos da tutela que foi antecipada nos autos do Processo 2009.85.00.002493-0, no que determinam à União a nomeação e a posse do interessado em cargo público. A decisão que ora se prolatada não impede a prática dos demais atos processuais inerentes à prestação jurisdicional e, consequentemente, a regular marcha processual.”
+    2. Em suas informações (fl. 119-30), a autoridade reclamada afirmou não haver afronta à ADC 4 MC/DF.
+    3. Em seu parecer, a Procuradoria-Geral da República opinou pela improcedência do pedido (fls. 135-8).
+    4. É o relatório. DECIDO.
+    5. Confira-se a ementa da ADC 4 MC/DF, julgada sob a relatoria do Ministro Sydney Sanches:
+    AÇÃO DIRETA DE CONSTITUCIONALIDADE DO ART. 1º DA LEI N 9.494, DE 10.09.1997, QUE DISCIPLINA A APLICAÇÃO DA TUTELA ANTECIPADA CONTRA A FAZENDA PÚBLICA. MEDIDA CAUTELAR: CABIMENTO E ESPÉCIE, NA A.D.C. REQUISITOS PARA SUA CONCESSÃO.
+    1. Dispõe o art. 1º da Lei nº 9.494, da 10.09.1997: ‘Art. 1º . Aplica-se à tutela antecipada prevista nos arts. 273 e 461 do Código de Processo Civil, o disposto nos arts 5º e seu parágrafo único e art. 7º da Lei nº 4.348, de 26 de junho de 1964, no art. 1º e seu § 4º da Lei nº 5.021, de 09 de junho de 1966, e nos arts. 1º , 3º e 4º da Lei nº 8.437, de 30 de junho de 1992.’
+    2. Algumas instâncias ordinárias da Justiça Federal têm deferido tutela antecipada contra a Fazenda Pública, argumentando com a inconstitucionalidade de tal norma. Outras instâncias igualmente ordinárias e até uma Superior - o S.T.J. - a têm indeferido, reputando constitucional o dispositivo em questão.
+    3. Diante desse quadro, é admissível Ação Direta de Constitucionalidade, de que trata a 2ª parte do inciso I do art. 102 da C.F., para que o Supremo Tribunal Federal dirima a controvérsia sobre a questão prejudicial constitucional. Precedente: A.D.C. n 1. Art. 265, IV, do Código de Processo Civil.
+    4. As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas Ações Declaratórias de Constitucionalidade de lei ou ato normativo federal, produzem eficácia contra todos e até efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e ao Poder Executivo, nos termos do art. 102, § 2º , da C.F.
+    5. Em Ação dessa natureza, pode a Corte conceder medida cautelar que assegure, temporariamente, tal força e eficácia à futura decisão de mérito. E assim é, mesmo sem expressa previsão constitucional de medida cautelar na A.D.C., pois o poder de acautelar é imanente ao de julgar. Precedente do S.T.F.: RTJ-76/342.
+    6. Há plausibilidade jurídica na argüição de constitucionalidade, constante da inicial (‘fumus boni iuris’). Precedente: ADIMC - 1.576-1.
+    7. Está igualmente atendido o requisito do ‘periculum in mora’, em face da alta conveniência da Administração Pública, pressionada por liminares que, apesar do disposto na norma impugnada, determinam a incorporação imediata de acréscimos de vencimentos, na folha de pagamento de grande número de servidores e até o pagamento imediato de diferenças atrasadas. E tudo sem o precatório exigido pelo art. 100 da Constituição Federal, e, ainda, sob as ameaças noticiadas na inicial e demonstradas com os documentos que a instruíram.
+    8. Medida cautelar deferida, em parte, por maioria de votos, para se suspender, ‘ex nunc’, e com efeito vinculante, até o julgamento final da ação, a concessão de tutela antecipada contra a Fazenda Pública, que tenha por pressuposto a constitucionalidade ou inconstitucionalidade do art. 1º da Lei nº 9.494, de 10.09.97, sustando-se, igualmente ‘ex nunc’, os efeitos futuros das decisões já proferidas, nesse sentido.”
+    6. Na hipótese dos autos, a antecipação de tutela não foi concedida liminarmente, mas em sede de sentença definitiva. Segundo a jurisprudência da Corte, em situações como essa, não há afronta ao que se decidiu na ADC 4 MC/DF. Nesse sentido, confiram-se os precedentes:
+    “RECLAMAÇÃO. ALEGAÇÃO DE CONTRARIEDADE AO QUE DECIDIDO NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE N. 4. ANTECIPAÇÃO DOS EFEITOS DA TUTELA DEFERIDA NA SENTENÇA DE MÉRITO. RECLAMAÇÃO IMPROCEDENTE. PREJUDICADO O AGRAVO REGIMENTAL.” (Rcl 8.894/DF, Rel. p/ acórdão Min. Cármen Lúcia)
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. AFRONTA AO QUANTO DECIDIDO POR ESTA CORTE NOS AUTOS DA ADC 4/DF. DECISÃO DE MÉRITO. AUSÊNCIA DE IDENTIDADE MATERIAL. AGRAVO DESPROVIDO.
+    I – Esta Corte, na ADC 4/DF, Rel. para o acórdão Min. Celso de Mello, declarou a constitucionalidade do art. 1º da Lei 9.494/1997, que trata de restrições à concessão de tutelas antecipadas contra a Fazenda Pública.
+    II – Os atos reclamados por consubstanciarem sentença de mérito, não guardam identidade material com a decisão tida como afrontada.
+    III - A reclamação não é sucedâneo ou substitutivo de recurso próprio.
+    IV – Agravo regimental a que se nega provimento.” (Rcl 7.620 AgR/AL, Rel. Min. Ricardo Lewandowski)
+    “A Ação Declaratória de Constitucionalidade 4 examinou hipótese de tutela antecipada: se há sentença de mérito – contra ou a favor da Fazenda Pública – não há o que preservar pela via da reclamação. A sentença de mérito prejudica a reclamação que se fundamenta na afronta à decisão da ADC 4.” (Rcl 1.459/RS, Rel. Min. Sepúlveda Pertence)
+    7. Ademais, a orientação deste Tribunal se firmou no sentido de que não afronta o acórdão da ADC 4 MC/DF a decisão que determina a nomeação e a posse de candidato aprovado em concurso público. Exemplificativamente, vejam-se os precedentes abaixo:
+    “Agravo regimental em reclamação. 2. Não fere a ADC 4 decisão que determina a lotação e a posse de candidato aprovado em concurso público dentro do número de vagas, por ser o pagamento de verbas remuneratórias mero consectário lógico do ato de investidura. Precedentes. 3. Suposto juízo de conveniência da Fazenda Pública na nomeação. Impossibilidade de apreciação. Juízo estreito de cognição da reclamação. 4. Agravo regimental a que se nega provimento.” (Rcl 7.583 AgR/PI, Rel. Min. Gilmar Mendes)
+    “I - A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido de que não está abrangida pela ADC 4/DF decisão que, ao conceder antecipação dos efeitos da tutela, limita-se a assegurar a nomeação a candidato aprovado em concurso público, sem concessão de efeito financeiro pretérito. II – Agravo regimental improvido.” (Rcl 7.402 AgR/CE, Rel. Min. Ricardo Lewandowski)
+    “A jurisprudência do STF encontra-se consolidada no sentido da não aderência da ADC nº 4/DF aos casos em que se discute eventual afronta à autoridade do Tribunal por efeito de ordens liminares de nomeação de candidatos aprovados em concursos públicos” (Rcl 5.672 AgR/CE, Rel. Min. Dias Toffoli)
+    8. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 161, parágrafo único, do RI/STF, nego seguimento à presente reclamação. Fica sem efeito a liminar anteriormente deferida.
+    Publique-se.
+          Brasília, 14 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
