@@ -1,0 +1,27 @@
+DECISÃO:
+    Vistos.
+    Estado do Rio de Janeiro interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º, 5º, inciso LV, 37, inciso XIII, 61, § 1º, inciso II, alínea “a”, 63, inciso I, e 93, inciso IX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “ADMINISTRATIVO. PENSÃO ESPECIAL. VIÚVA E FILHA DE FISCAL DE RENDAS DO ESTADO.
+    Inconstitucionalidades declaradas pelo Órgão Especial de dispositivos da Lei Complementar Estadual n° 69/90, que estenderam aos fiscais de rendas a pensão especial estabelecida pelas Leis nºs 7.301/99 e 7.602/74 do antigo Estado do Rio de Janeiro. Lei Estadual n° 3.189/99, que, no entanto, os revogo expressamente, mas ressalvou os pensionamentos já devidos aos beneficiários dos referidos servidores. Manutenção do direito daqueles que já haviam contribuído para tanto. Precedentes deste Tribunal. Provimento parcial do apelo apenas para excluir da incidência da verba honorária as prestações vincendas, na forma do verbete n° 111 da Súmula do STJ e do parecer ministerial".
+    Opostos embargos de declaração, foram desprovidos.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 2º, 5º, inciso LV, e 37, inciso XIII, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem, portanto, na espécie, as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se que não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+    Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+    Por outro lado, colhe-se do voto condutor do acórdão os seguintes fundamentos:
+    “Com efeito, os artigos 118 e 119, da Lei Complementar estadual n° 69/90, que estenderam aos fiscais de rendas a pensão especial instituída pelas Leis nºs 7.301199 e 7.602/74 do antigo Estado do Rio de Janeiro e permitiu que contribuíssem para o fundo de reserva por elas criado, foram declarados inconstitucionais pelo Egrégio Órgão Especial nas argüições de inconstitucionalidades nº 07/98 e nº 01199.
+    De seu turno, a Lei Estadual n° 3.189/99, que instituiu o Fundo Único de Previdência Social do Estado do Rio de Janeiro (Rio Previdência), extinguiu, em seu artigo 36, o pensionamento aos dependentes de servidores do Poder Executivo derivados do regime especial da Lei 7.301/73, ao revogar expressamente os artigos 118, caput, e 119, da citada Lei Complementar n° 69/90.
+    Porém, a própria Lei Estadual nº 3.189/99, no parágrafo único do art. 36, ressalvou os pensionamentos já devidos aos beneficiários dos referidos servidores.
+    Com isso, restou superada a questão constitucional, além de garantir-se o direito daqueles que já haviam contribuído para o fundo”.
+    Com efeito, vê-se que o exame da possibilidade de restabelecimento do pagamento de pensão às dependentes de falecidos Fiscais de Rendas do Estado do Rio de Janeiro é matéria de âmbito infraconstitucional local, reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 280/STF. Anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENSÃO ESPECIAL. LEI COMPLEMENTAR 69/90. LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280-STF. Questão apreciada à luz de legislação de direito local, circunstância impeditiva a apreciação do extraordinário. Súmula 280-STF. Precedentes. Agravo regimental a que se nega provimento.” (AI nº 446.553/RJ-AgR, Primeira Turma, Relator o Ministro Eros Grau, DJ de 15/10/04).
+    No mesmo sentido, as seguintes decisões monocráticas: AI nº 746.433/RJ, Relator o Ministro Marco Aurélio, DJe de 22/9/09; e AI nº 744.289/RS, Relatora a Ministra Cármen Lúcia, DJe de 13/5/09.
+    Nego provimento ao agravo.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
