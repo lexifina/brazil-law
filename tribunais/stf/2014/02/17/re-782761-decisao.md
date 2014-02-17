@@ -1,0 +1,35 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão da Terceira Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONSELHO REGIONAL DE MEDICINA-CE. TÍTULO DE ESPECIALISTA EM MEDICINA DO TRABALHO. CURSO DE PÓS-GRADUAÇÃO LATO SENSU EM UNIVERSIDADE ESTRANGEIRA NÃO FILIADA OU CONVENIADA. IMPOSSIBILIDADE. ARTS. 1º, § 1º E 6º, DA LEI Nº 6.932/81. RESOLUÇÕES. NºS 1.634/02 E 1.845/08-CFM.
+    1. Os Conselhos Regionais de Medicina têm a prerrogativa de normatizarem os assuntos pertinentes aos registros dos profissionais filiados, tendo em vista as Resoluções nºs 1.286/89 e 1.288/89-CFM, as quais estatuem que somente poderão ser registrados os profissionais que tiverem títulos expedidos por sociedades de especialistas filiados as entidades consignadas.
+    2. Por sua vez, as Resoluções nºs 1.634/02 e 1.845/08-CFM, estabelecem às situações em que se permite a certificação de título de especialista em medicina, a teor da regra estampada no art. 6º, da Lei nº 6.932/81 que, por sua vez, estabelece que os programas de residência médica credenciados na forma da referida lei, conferirão títulos de especialistas em favor dos médicos residentes nele habilitados, os quais constituirão comprovante hábil para fins legais junto ao Sistema Federal de Ensino e ao Conselho Federal de Medicina.
+    3. In casu, somente os títulos concedidos por sociedades cientificas quer nacionais ou estrangeiras, desde que filiadas à AMB ou que venham a firmar convênio em conjunto com o CFM – CONSELHO FEDERAL DE MEDICINA e AMB –ASSOCIAÇÃO MÉDICA BRASILEIRA, poderiam ser registrados nos Conselhos Regionais de Medicina, não sendo o caso do apelante, porquanto, embora portador de curso de pós-graduação lato sensu em universidade estrangeira, esta não é filiada ou mesmo conveniada com os mencionados órgãos. Precedentes das 1ª e 3ª Turmas desta Corte.
+    4. Apelação improvida” (fl. 237).
+    Houve embargos declaratórios, desprovidos.
+    No recurso extraordinário sustenta-se contrariedade aos artigos 5º, incisos II, XIII, LIV, LXIX, 37, caput, e 84, inciso IV, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No que se refere ao inciso LXIX do artigo 5º da Constituição, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pela origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    No tocante à alegada violação ao princípio da legalidade seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que assim dispõe, in verbis :
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Ademais, colho do acórdão recorrido a seguinte fundamentação:
+    “Não se pode perder de vista, como bem alude o parecer ministerial a Lei nº 3.268/57, que, é certo, não traz em seu bojo expressamente disposições atinentes ao registro de especialidades médicas, vez que apenas discorre (art. 17), no prévio registro de títulos, diplomas e certificados para o exercício legal da medicina.
+    Todavia, comungo com o entendimento do Ministério Público, na medida em que a matéria está regulada pela Lei nº 6.932/81, vez que esta prevê textualmente a obrigatoriedade da residência médica para obtenção do título de especialista, haja vista o disposto nos arts. 1º, § 1º, e 6º, adiante descritos:
+    (…)
+    Por sua vez, estatui a Resolução n º 1.634/02, impugnada pelo apelante, ao tratar de convênio sobre reconhecimento de especialidades médicas firmado entre o CFM, AMB e CNRM, preceitua, em suas cláusulas sétima e oitavas:
+    (…)
+    Daí que, nenhuma mácula existe na Resolução hostilizada, vez que materializa a execução dos comandos insertos nos arts. 1º e 6º, da Lei nº. 6.932/81.
+    Em nenhum momento, trouxe o apelante prova do atendimento às exigências da Lei nº 6.932/91, corroborando com a regulamentação apresentada pela Resolução nº 1.634/02, do Conselho Federal de Medicina.
+    (…)
+    Com essas considerações, nego provimento à apelação” (fls. 231/235).
+    Nesse caso, para ultrapassar o entendimento firmado pelo Tribunal de origem e acolher a pretensão do recorrente seria necessário, induvidosamente, o reexame da legislação infraconstitucional pertinente e dos fatos e provas dos autos, operações vedadas em sede de recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SOLUÇÃO DA CONTROVÉRSIA DEMANDA O REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação infraconstitucional pertinente (cotejo entre a Resolução 19/2001 e a Lei 9.964/2000). Providência vedada neste momento processual. 2. Incidência das Súmulas 283 e 636/STF. 3. Agravo regimental desprovido” (AI nº 721.055/SC-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 22/9/11).
+    “Agravo interno em agravo de instrumento. 2. Concurso público. Critérios de pontuação de títulos. Limites. Regência normativa disposta no Edital do certame e em lei local. 3. Questão que, tal como posta, não traduz litígio constitucional capaz de viabilizar acesso à via recursal extraordinária. Enunciados 280 e 454 da Súmula da Jurisprudência predominante do Supremo Tribunal Federal. Precedentes. 4. Agravo interno a que se nega provimento” (AI nº 854.353/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes , DJe de 1º/8/12).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONVERSÃO EM AGRAVO REGIMENTAL. NORMA REGULAMENTADORA QUE EXTRAPOLA A NORMA REGULAMENTADA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 774.681/SE-ED, Primeira Turma, Relatora a Ministra Cármen Lúcia , DJe de 25/4/12).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
