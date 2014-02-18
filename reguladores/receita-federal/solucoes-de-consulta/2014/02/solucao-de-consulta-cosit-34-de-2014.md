@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 34, de 3 de fevereiro de 2014
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: Sobre a folha de salários das obras de construção civil matriculadas no Cadastro Específico do INSS até 31 de março de 2013 não se aplica a substituição (desoneração) prevista nos artigos 7º a 9º da Lei nº 12.546, de 2001. Consequentemente, a receita proveniente dessas obras não integra a base de cálculo da contribuição substitutiva prevista no art. 7º dessa Lei. DISPOSITIVOS LEGAIS: Lei nº 12.546, de 14/12/2011, art. 7º, § 9º, I e V, na redação dada pela Lei nº 12.844, de 19/07/2013.
+[arquivo anexo: SC Cosit nº 34-2014.pdf]
