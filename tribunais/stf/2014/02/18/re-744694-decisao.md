@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. IMPORTAÇÃO DE BENS. NÃO CONTRIBUINTE. INCIDÊNCIA. CONSTITUCIONALIDADE DA EC 33/2001. REPERCUSSÃO GERAL RECONHECIDA. MÉRITO JULGADO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE.
+1. O ICMS incidente sobre operações de importação por contribuinte não habitual após a EC 33/2001, é constitucional, desde que prevista em legislação local, editada posteriormente à LC federal nº 114/2002. Precedentes: RE nºs 439.796 e 474.267, Rel. Min. Joaquim Barbosa, Plenário.
+2. In casu, o acórdão recorrido assentou: “TRIBUTÁRIO. APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. INCIDÊNCIA DE ICMS NA IMPORTAÇÃO DE VEÍCULO, POR PESSOA FÍSICA, PARA USO PRÓPRIO. RECOLHIMENTO OBRIGATÓRIO DO IMPOSTO. INTELIGÊNCIA DA ALÍNEA "A" DO INCISO IX DO § 2º ART. 155 DA CONSTITUIÇÃO FEDERAL DE 1988, COM ALTERAÇÃO DA EMENDA CONSTITUCIONAL N. 33/2001. INOCORRÊNCIA DE OFENSA AO PRINCÍPIO DA NÃO CUMULATIVIDADE. ORDEM NEGADA. RECURSO NÃO PROVIDO”.
+3. Recurso DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário interposto por Eduardo Gomes da Silva Salles, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão assim ementado:
+    “TRIBUTÁRIO. APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. INCIDÊNCIA DE ICMS NA IMPORTAÇÃO DE VEÍCULO, POR PESSOA FÍSICA, PARA USO PRÓPRIO. RECOLHIMENTO OBRIGATÓRIO DO IMPOSTO. INTELIGÊNCIA DA ALÍNEA "A" DO INCISO IX DO § 2º ART. 155 DA CONSTITUIÇÃO FEDERAL DE 1988, COM ALTERAÇÃO DA EMENDA CONSTITUCIONAL N. 33/2001. INOCORRÊNCIA DE OFENSA AO PRINCÍPIO DA NÃO CUMULATIVIDADE. ORDEM NEGADA. RECURSO NÃO PROVIDO.
+     ‘Após a Emenda Constitucional n. 33/2001, a alínea "a" do inciso IX do § 2º do art. 155 da Constituição Federal de 1988 passou a estabelecer que incide ICMS ‘sobre a entrada de bem ou mercadoria importados do exterior por pessoa física ou jurídica, ainda que não seja contribuinte habitual do imposto, qualquer que seja a sua finalidade, assim como sobre o serviço prestado no exterior, cabendo o imposto ao Estado onde estiver situado o domicílio ou o estabelecimento do destinatário da mercadoria, bem ou serviço’. Essa norma não viola o princípio da não-cumulatividade do ICMS a que se refere o art. 155, § 2º, inciso I, da Carta Magna, até porque a pessoa física, contribuinte eventual, é o consumidor final do bem, ou seja, não existe uma cadeia de circulação da mercadoria a impor sucessivos recolhimentos do tributo e, por conseguinte, o exercício do direito a compensações.
+    A Súmula n. 660, do Supremo Tribunal Federal, segundo a qual ‘não incide ICMS na importação de bens por pessoa física ou jurídica que não seja contribuinte do imposto’, de acordo com o entendimento exarado pelo Pretório Excelso, deve ser considerada para eventos ocorridos antes da entrada em vigor da Emenda Constitucional n. 33/2001, justamente em face da alteração trazida por ela”.
+    O recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 150, IV, 154, I, e 155, § 2º, a, da Constituição Federal.
+    É o Relatório. DECIDO.
+    O recurso não prospera.
+    A questão constitucional teve repercussão geral reconhecida no RE nº 594.996, Rel. Min. Luiz Fux.
+    Posteriormente, o Plenário desta Corte, na Sessão de 6/11/2013, ao analisar os RE 439.796 e 474.267, Rel. Min. Joaquim Barbosa, cujo acórdão encontra-se pendente de publicação, apreciou o mérito da questão e afirmou que, após a EC 33/2001, é constitucional a incidência de ICMS sobre operações de importação por não contribuinte habitual. Entretanto, ressaltou que “para ser constitucionalmente válida a incidência do ICMS sobre operações de importação de bens, as modificações no critério material na base de cálculo e no sujeito passivo da regra-matriz deveriam ter sido realizadas em lei posterior à EC 33/2001 e à LC 114/2002” (Informativo STF nº 727).
+    O acórdão recorrido não divergiu deste entendimento.
+    Ex positis, DESPROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
