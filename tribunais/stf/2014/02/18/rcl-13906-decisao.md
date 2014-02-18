@@ -1,0 +1,17 @@
+DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECLAMAÇÃO. PEDIDO DE ACESSO AOS AUTOS DE INTERCEPTAÇÃO TELEFÔNICA. INDEFERIMENTO. ALEGAÇÃO DE OFENSA À SÚMULA VINCULANTE N. 14. SUPERVENIÊNCIA DE CONDENAÇÃO NA AÇÃO PRINCIPAL. PERDA DE OBJETO. RECLAMAÇÃO JULGADA PREJUDICADA.
+    Decisão: Trata-se de reclamação, aparelhada com pedido de liminar, ajuizada por WAGNER MARTINS DA SILVA em face de decisão do Juízo de Direito da 1ª Vara da Comarca de Anápolis/GO que teria negado amplo acesso à Medida Cautelar de Interceptação Telefônica nº 201104705065, apensa à Ação Penal nº 20120052998.
+    A autoridade apontada como coatora prestou informações no sentido de que, “na data de 12 de setembro de 2012, foi prolatada sentença de mérito (…), condenando o suplicante nas sanções descritas no artigo 33, caput, (manter em depósito, vender e guardar), e 35, caput, da Lei Federal nº 11.343/2006, ambos na forma do disposto no artigo 69 do Diploma repressivo nacional, bem como na conduta descrita no artigo 12, da Lei Federal nº 10826/2003 e a denunciada Poliane Gomes Batista nas iras do artigo 33, caput (manter em depósito, vender e guardar), e 35, caput, da Lei Federal nº 11.343/2006, ambos na forma do esculpido no artigo 69 da Lex repressiva nacional, aplicando a resposta penal no importe de 13 (treze) anos e 06 (seis) meses de reclusão, bem como 02 (dois) anos de detenção e a imputada 10 (dez) anos e 08 (oito) meses de reclusão, fixando o regime inicial fechado para o cumprimento das penas”.
+    A medida liminar foi indeferida.
+    O Ministério Público Federal manifestou-se pela prejudicialidade da reclamação. Transcrevo a ementa do parecer ministerial, verbis:
+    “RECLAMAÇÃO. RESTRIÇÃO DE ACESSO INTEGRAL AOS AUTOS DE INTERCEPTAÇÃO TELEFÔNICA. SUPOSTA AFRONTA AO ENUNCIADO DA SÚMULA VINCULANTE Nº 14. PARECER PELA EXTINÇÃO DA RECLAMAÇÃO SEM JULGAMENTO DE MÉRITO.
+    1. Réu processado e condenado, após interposição dos recursos cabíveis, pelo Tribunal de Justiça.
+    2. Uma vez deferida juntada aos autos da ação penal dos excertos necessários ao embasamento da denúncia, não há que se falar em cerceamento ao amplo acesso aos elementos de prova documentados em procedimento investigatório, mormente aquelas que não podiam ser objeto de conhecimento na época e aquelas relacionadas a terceiros estranhos.
+    3. Manifestação pela extinção do feito sem julgamento do mérito em decorrência da perda superveniente do objeto ou, ultrapassada a preliminar, pela improcedência.”
+    É o relatório. DECIDO.
+    Consoante destacou o Ministério Público Federal, “em consulta ao sítio eletrônico do Tribunal do Estado de Goiás foi verificado que o réu, ora reclamante, interpôs recurso de apelação e, ante o desprovimento por maioria, foram manejados embargos infringentes. Esta peça recursal foi jugada em 05/02/2014, sendo que ‘o Tribunal, por sua egrégia seção criminal, a unanimidade de votos, acolhendo o parecer ministerial, conheceu dos presentes embargos, a fim de desprovê-los nos termos do voto do Relator. Dessa forma, verifica-se que a reclamação está prejudicada, uma vez que o reclamante já foi processado e condenado conforme os trâmites processuais legalmente previstos”.
+    Ex positis, acolho o perecer ministerial e julgo prejudicada esta reclamação pela perda de seu objeto, com fundamento no artigo 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
