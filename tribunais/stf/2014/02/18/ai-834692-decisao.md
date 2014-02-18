@@ -1,0 +1,27 @@
+DECISÃO
+    Vistos.
+    Paes Mendonça S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos II e LV, e 93, inciso IX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quinta Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. AUTO DE INFRAÇÃO FUNDAMENTADO EM PORTARIA DO INMETRO. BASE LEGAL LEGÍTIMA. LEI 5.966/73. ALEGAÇÃO DE NULIDADE DO AUTO DE INFRAÇÃO E DE OFENSA A PRINCÍPIOS CONSTITUCIONAIS. INOCORRÊNCIA. EMBARGOS DO DEVEDOR FUNDADOS EM MERAS ALEGAÇÕES, NÃO PROVADAS.
+    I - O auto de infração é ato administrativo e, como tal, está dotado da presunção relativa de legalidade e veracidade, somente elididas por prova em contrário, inexistente no caso.
+    II - Encontrando-se a Portaria que embasou o auto de infração dentro do campo de atribuições do INMETRO, que foi instituído por lei, tendo por conseqüência a aplicação da multa, com fundamento na própria Lei nº 5.966/73, há que se reconhecer como legalmente fundamentado o ato impugnado.
+    III - Não há que se falar em nulidade do auto de infração lavrado pelo INMETRO, no qual está caracterizada a conduta do apelante como violadora da legislação, estando descrito o fato e o motivo ensejador da autuação. Outrossim, não há desrespeito aos princípios da ampla defesa e do contraditório, visto que o executado teve oportunidade, no processo administrativo, de afastar os fundamentos do auto de infração, não o fazendo.
+    IV - As meras alegações do apelante não têm o condão de desconstituir a presunção de liquidez e certeza da CDA, uma vez que ele não fez prova de fato extintivo ou modificativo do débito fiscal.
+    V - Apelação improvida”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Por outro lado, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ressalte-se, também, que a alegada afronta ao princípio constitucional da legalidade seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que assim dispõe, in verbis:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Registre-se, por fim, que o Tribunal de origem decidiu a controvérsia amparado na legislação infraconstitucional pertinente (Lei nº 5.966/73) e nos fatos e provas que compõem a lide, cujo reexame é vedado em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
