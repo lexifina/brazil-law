@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. REVISÃO CONTRATUAL. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Turma Recursal do Juizado Especial da Bahia:
+    “RECURSO INOMINADO. CARTÃO DE CRÉDITO. AUTORA QUE ALEGA TER SALDO DEVEDOR DE R$ 1.679,84, TENDO PASSADO NO MÊS SUBSEQUENTE PARA O VALOR DE R$ 9.297,77. SENTENÇA QUE DECLAROU IMPROCEDENTE A AÇÃO EM FACE DE ACORDO EXTRAJUDICIAL FIRMADO LIVREMENTE COM A RÉ. SENTENÇA MANTIDA EM SUA ÍNTEGRA. RECURSO CONHECIDO E IMPROVIDO.
+    (...)
+    Em sede de Recurso, alega inicialmente que o Juiz sentenciante não decretou a revelia da Empresa MASTERCARD ADMINISTRADORA DE CARTOES DE CREDITO. De fato, embora tenha sido devidamente citada, a mesma não compareceu à Audiência de Conciliação e Instrução. Entretanto, em que pese a aplicação da revelia, esta tem presunção relativa, e para que seja reconhecido o direito pleiteado pela Autora, esta tem que trazer aos autos elementos suficientes a fim de demonstrar a verossimilhança dos fatos narrados na inicial, o que não ocorreu no caso em tela.
+    Das faturas e demais documentos acostados no evento nº 01, doc. 05 a 09, percebe-se que a Autora empreendeu diversas renegociações acerca dos débitos efetuados via cartão de crédito, inclusive débito parcelado em 22 vezes presente nas faturas, razão pela qual o débito chegou ao montante de R$ 9.297,77. Note-se que a fatura passou de R$ 1.679,84 ao valor de R$ 9.297,77 em virtude do não cumprimento da última renegociação feita pela Autora, razão pela qual o débito restante passou a ser cobrado novamente de forma total e não parcelada.
+    O "aviso de pagamento", portanto, diz respeito aos valores devidos pela Autora pelo uso do cartão e as sucessivas renegociações empreendidas com a empresa Ré.
+    Cabe ressaltar que se o acordo mostra-se lesivo ou abusivo à consumidora ou foi assinado sob erro, vício ou coação, deve este ser analisado verificando-se tais circunstâncias diante dos fatos e provas trazidas, o que não ocorreu. Entretanto, a presente ação diz respeito somente ao fato de que a fatura, de um mês para o outro, passou de 1.679,84 para R$ 9.297,77, em razão da renegociação efetuada e descumprida pela Autora.
+    Assim sendo, não houve nos autos prova do direito constitutivo do Autor.
+    Com essas considerações, e por tudo mais constante dos autos, voto no sentido negar provimento ao recurso mantendo a sentença como posta.”
+    2. A Agravante alega contrariados o art. 5º, inc. II e XXXVI, da Constituição da República.
+    Argumenta haver “revelia se o réu não contesta a ação, caso em que se reputam verdadeiros os fatos afirmados pelo autor, o que pode conduzir ao julgamento antecipado da lide (art. 330, II). No caso presente, a empresa Mastercard Administradora de Cartões de Crédito, citada, não apresentou defesa, porém, embora requerida a sua revelia, isso sequer foi objeto de análise do Judiciário, gerando grande repercussão, haja vista a impossibilidade de ser ilidida a situação fática então consolidada.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento de demonstração insuficiente, em preliminar, de repercussão geral da questão constitucional, nos termos do § 2º do art. 543-A do Código de Processo Civil.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. Inicialmente, cumpre afastar o primeiro óbice imposto pela decisão agravada, pois a preliminar de repercussão geral da questão constitucional apresentada é suficiente para se ter por atendido esse requisito formal.
+    Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão da Agravante.
+    6. O novo exame da decisão impugnada exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Código de Processo Civil) e do conjunto fático-probatório do processo. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal.
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL CIVIL. LEGITIMIDADE PARA A CAUSA E CESSÃO DE CRÉDITO. JULGADO RECORRIDO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL, NAS PROVAS DOS AUTOS E NO CONTRATO FIRMADO. OFENSA CONSTITUCIONAL INDIRETA. SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 704301-AgR, de minha relatoria, Segunda Turma, DJe 26.9.2012).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Não esgotamento de instâncias ordinárias. Enunciado 281 da Súmula do STF. 3. Revisão contratual. Matéria infraconstitucional. Incidência dos Enunciados 279 e 454 da Súmula do STF. Precedentes. 4. Agravo regimental a que se nega provimento” (ARE 687.158-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 11.3.2013, grifos nossos).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. I, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de fevereiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
