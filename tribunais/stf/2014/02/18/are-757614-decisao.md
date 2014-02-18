@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal de Justiça do Estado do São Paulo assim ementado:
+    Apelação – servidores públicos municipais – aposentados – supressão dos ticketes de alimentação após aposentadoria – inviabilidade, pois ostentam a natureza de vencimento, dada a forma genérica e incondicional de seu pagamento – decisão mantida.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC. Aponta ofensa ao art. 40, § 8º, da Constituição Federal, sustentando que o aresto recorrido, “ao estender aos Recorridos, servidores inativos (aposentados pelo INSS), a ‘ajuda de custo para alimentação’, verba de caráter eminentemente indenizatória, contrariou o disposto no art. 40, § 8º, da Carta da República, porquanto não existe mais paridade entre servidores ativos e inativos.” (e-STJ Fls. 203/204).
+    Em contrarrazões, requer-se, em suma, o não provimento do recurso em homenagem à isonomia prevista na Constituição Federal (e-STJ Fl. 252).
+    2. A jurisprudência desta Corte é no sentido de que não é possível a extensão de auxílio-alimentação aos servidores inativos, em razão da natureza indenizatória desta verba. Nesse sentido, cito precedentes das duas Turmas desta Corte: o AI 668.391 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 26.6.2009; AI 586.615 AgR, Rel. Min. EROS GRAU, Segunda Turma, DJ de 1.9.2006, este último assim ementado:
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. ADMINISTRATIVO. VALE-REFEIÇÃO E AUXÍLIO-ALIMENTAÇÃO. BENEFÍCIO CONCEDIDO AOS SERVIDORES EM ATIVIDADE. NATUREZA INDENIZATÓRIA. EXTENSÃO AOS INATIVOS E PENSIONISTAS. IMPOSSIBILIDADE. O direito ao vale-refeição e ao auxílio-alimentação não se estende aos inativos e pensionistas, vez que se trata de verba indenizatória destinada a cobrir os custos de refeição devida exclusivamente ao servidor que se encontrar no exercício de suas funções, não se incorporando à remuneração nem aos proventos de aposentadoria. Precedentes. Agravo regimental a que se nega provimento.
+    Da mesma forma, é o teor da Súmula 680 deste Supremo Tribunal ao estabelecer que “O direito ao auxílio-alimentação não se estende aos servidores inativos”.
+    3. Diante do exposto, conheço do agravo e, desde logo, dou provimento ao recurso extraordinário para julgar improcedente o pedido inicial. Ficam invertidos os ônus sucumbenciais impostos na sentença.
+    Publique-se. Intime-se.
+    Brasília, 18 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
