@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV e LV, 37, XIII e 93, IX, todos da mesma Carta.
+    Preliminarmente, após bem examinar os autos, observo que, como aduzido pelos agravantes, o apelo extremo preenche o requisito extrínseco da tempestividade. Isso porque à época da publicação do acórdão recorrido e interposição do recurso extraordinário (junho/julho de 2002), vigorava no poder judiciário as férias coletivas, recesso que se aplicava aos Tribunais Regionais Federais, em que era suspensa a contagem dos prazos forenses, e que só veio a ser revogado com o advento da Emenda Constitucional 45/2004.
+    Contudo, ainda que afastada a discussão acerca da tempestividade, melhor sorte não assiste aos agravantes. Verifico que após o julgamento dos embargos infringentes, não houve ratificação do recurso extraordinário, tornando este, portanto, extemporâneo. É pacífica a jurisprudência desta Corte no sentido de que a impugnação prematura deverá ser reiterada posteriormente, após a publicação do acórdão dos referidos embargos, sob pena dos efeitos da preclusão temporal, como ocorreu na espécie. Por oportuno, trago à colação trecho da recente decisão no ARE 786777/MG, Rel Min. Celso de Mello, que bem elucida a questão:
+    “Impende assinalar, por necessário, que a intempestividade dos recursos tanto pode derivar de impugnações prematuras (que se antecipam à publicação dos acórdãos) quanto resultar de oposições tardias (que se registram após o decurso dos prazos recursais). Em qualquer das duas situações – impugnação prematura (como na espécie) ou oposição tardia –, a consequência de ordem processual é uma só: o não conhecimento do recurso, por efeito de sua extemporânea interposição
+    (...)
+    Os fundamentos que dão suporte a essa orientação jurisprudencial põem em evidência a circunstância de que a publicação do acórdão gera efeitos processuais específicos, pois, além de formalizar a integração dessa peça essencial ao processo, confere-lhe existência jurídica e fixa-lhe o próprio conteúdo material. É mediante a efetiva ocorrência dessa publicação formal que se viabiliza, processualmente, a intimação das partes, inclusive para efeito de interposição dos recursos pertinentes” (grifos no original).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 19 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
