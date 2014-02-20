@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de reclamação contra acórdão do Tribunal Superior do Trabalho que, com fundamento na impossibilidade de adoção de outra base de cálculo para o adicional de insalubridade mediante decisão judicial, determinou a manutenção do salário-mínimo “(...) até que a incompatibilidade seja suprida por lei ou norma coletiva.”
+    Alega o reclamante, em síntese, que a decisão teria desrespeitado a autoridade da Súmula Vinculante 4, porquanto o STF sempre teria proclamado, “(...) por intermédio de ambas as Turmas julgadoras, que as instâncias ordinárias fixassem outro parâmetro de cálculo, que não o salário mínimo, tudo em observância ao disposto no inciso IV do artigo 7º da Constituição.” Aduz que, ainda conforme alegada jurisprudência desta Corte, seria competência da Justiça do Trabalho definir a base de cálculo do adicional devido nas relações regidas pela CLT, “(...) levando em consideração não só essa legislação, como também os acordos e convenções coletivas de trabalho.”
+    A Procuradoria-Geral da República opinou pela improcedência da reclamação.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88).
+    Não se verifica, no caso, desrespeito à autoridade da Súmula Vinculante 4. Ao contrário, o acórdão do Tribunal Superior do Trabalho fez restabelecer o comando normativo do enunciado, ao constatar que, nas instâncias ordinárias da Justiça Trabalhista, a base de cálculo do adicional não constava como cláusula dos acordos coletivos, mas apenas a previsão de um piso para o salário profissional. Foi a partir da sentença que o salário-mínimo constante do art. 192 da CLT foi substituído pelo piso da categoria:
+    Entrementes, é verdade, por fim, que o legislador, ao estabelecer que os percentuais pelo trabalho insalubre incidem sobre o salário mínimo nacional, pretendeu adotar um parâmetro mínimo. Nada impede, contudo, que o intérprete lance mão de critérios abalizados de hermenêutica e conclua que o adicional incide, havendo, sobre o salário profissional, assim entendido como o salário mínimo de determinada categoria de trabalhadores.
+    (…)
+    Então, se as partes integrantes das categorias profissional e econômica livremente estipulam salário mínimo superior ao legal, é este que conta para os efeitos de cálculo do adicional de insalubridade.
+    3. Ante o exposto, nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 20 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
