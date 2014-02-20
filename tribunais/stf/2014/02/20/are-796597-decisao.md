@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO INDENIZATÓRIA CONTRA A FAZENDA PÚBLICA. PRAZO DE PRESCRIÇÃO QUINQUENAL. ART. 1º DO DECRETO 20.910/1932. 1. A Primeira Seção do STJ, por ocasião do julgamento do REsp 1.251.993/PR, submetido à sistemática do art. 543-C do CPC, assentou a orientação de que o prazo prescricional nas ações indenizatórias contra a Fazenda Pública é quinquenal, conforme previsto no art. 1º do Decreto-Lei 20.910/1932, e não trienal, nos termos do art. 206, § 3º, inciso V, do CC/2002. 2. Agravo Regimental não provido”. (eDOC 2, p. 68)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 5º, XXXV, LIV e LV; e 93, IX, do texto constitucional.
+    Aponta-se negativa de prestação jurisdicional, ao argumento de que o Superior Tribunal de Justiça não se pronunciou acerca da tese defendida no recurso.
+    Alega-se ainda ofensa ao princípio da isonomia, ao fundamento de que o Tribunal de origem aplicou o prazo prescricional de cinco anos na ação de reparação de danos promovida pela Fazenda Pública, sendo que, nas ações ajuizadas pelo particular, o prazo prescricional aplicável é de três anos.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, com relação à alegada ofensa aos artigos 93, IX, e 5º, XXXV, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Verifico que divergir do entendimento adotado pelo Tribunal de origem demandaria a prévia análise de legislação infraconstitucional aplicável à espécie, de modo que eventual ofensa à Constituição Federal, se ocorrente, seria indireta ou reflexa, o que não enseja a abertura da via extraordinária:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ART. 5º, CAPUT, DA CONSTITUIÇÃO FEDERAL. DISPOSITIVO INCAPAZ DE INFIRMAR O JUÍZO FORMULADO PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. AÇÃO AJUIZADA CONTRA A FAZENDA PÚBLICA. PRAZO PRESCRICIONAL. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE, OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (ARE 772.157-AgR/RS, Rel. Min. Teori Zavascki, Segunda Turma, DJe 14.11.2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO CONTRA A FAZENDA PÚBLICA. PRAZO PRESCRICIONAL. ACÓRDÃO FUNDAMENTADO NO DECRETO N. 20.910/1932. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 776.908-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 10.02.2014)
+    No tocante à suposta ofensa ao princípio da ampla defesa e do contraditório, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 20 de fevereiro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
