@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “Apelação - Mandado de segurança - Programa de Demissão Voluntária - Admissível o retorno ao serviço de servidor beneficiado por aludido programa que se submete posteriormente a concurso público no qual vem a ser aprovado - Inteligência dos incisos I e II do art. 37 da Constituição Federal - Segurança concedida - Recursos improvidos, rejeitada a preliminar” (fl. 222).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, I, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o Tribunal de origem decidiu a controvérsia nos seguintes termos:
+    “(...) embora tenha o impetrante trabalhado na FEBEM, como Psicólogo, de maio de 1981 a junho de 1996 e tenha sido demitido, não o foi por justa causa mas por ter participado de Programa de Incentivo à Demissão Voluntária, o que é incontroverso, e, em tal circunstância, não obstante o disposto na segunda parte do item 16.7 do edital, podia voltar ao serviço público por meio de concurso a que se submeteu. A circunstância não o impedia de prestar concurso, presentes os requisitos estabelecidos em lei, e, tendo sido aprovado, de ser admitido, máxime não tendo, como observou o juiz na sentença, antecedente desabonador. (…)” (fl. 225).
+    Nesse contexto, resta claro que para divergir do Juízo a quo, necessário seria o reexame do conjunto fático probatório constante dos autos, bem como a análise de cláusulas editalícias e de ato normativo infralegal (portaria 238/96, que instituiu o programa de demissão voluntária), o que atrai a incidência das Súmulas 279 e 454 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. NOMEAÇÃO DE CANDIDATA APROVADA. IMPRESCINDIBILIDADE DA ANÁLISE DE PROVAS E CLÁUSULAS DO EDITAL. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I – Para dissentir do acórdão recorrido quanto à aludida questão, seria necessário o reexame do conjunto fático-probatório constante dos autos e das cláusulas do edital do certame, o que atrai a incidência das Súmulas 279 e 454 do STF, o que inviabiliza o extraordinário. Precedentes. II – Agravo regimental improvido” (ARE 749.072-AgR/RO, de minha relatoria, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 20 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
