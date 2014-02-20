@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REAJUSTES DE VENCIMENTOS. ÍNDICES APLICÁVEIS. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RE Nº 632.767. QUESTÃO DE ÍNDOLE INFRACONSTITUCIONAL.
+1. Os índices aplicáveis aos reajustes dos vencimentos do servidor público municipal, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do RE n. 632.767-RG, Rel. Min. Ricardo Lewandowski, DJe 6/4/2011
+2. In casu, o acórdão recorrido assentou: “Embargos Infringentes. Servidores públicos municipais. Reajustes quadrimestrais de março a junho e de julho a outubro de 1995. Inteligência da Lei Municipal nº 11.722/95 Emprego diferenciado de critérios: violência na relação de adequação entre receita e despesa que refletiu nos vencimentos dos acionantes. Ofensa ao princípio da isonomia. Aplicação das disposições da Lei Municipal nº 12.397/97. Possibilidade. Legislação que concedeu direitos aos autores que não podem ser desprezados na apuração do índice correto de reajuste para o mês de fevereiro de 1.995. Utilização de critério previsto em lei superveniente que não ofende o princípio da irredutibilidade dos vencimentos. Embargos acolhidos”.
+3. Recurso extraordinário DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário interposto pelo MUNICÍPIO DE SÃO PAULO, com fulcro no art. 102, III, a, da Constituição Federal de 1988, em face de acórdão assim ementado:
+    “Embargos Infringentes. Servidores públicos municipais. Reajustes quadrimestrais de março a junho e de julho a outubro de 1995. Inteligência da Lei Municipal nº 11.722/95 Emprego diferenciado de critérios: violência na relação de adequação entre receita e despesa que refletiu nos vencimentos dos acionantes. Ofensa ao princípio da isonomia. Aplicação das disposições da Lei Municipal nº 12.397/97. Possibilidade. Legislação que concedeu direitos aos autores que não podem ser desprezados na apuração do índice correto de reajuste para o mês de fevereiro de 1.995. Utilização de critério previsto em lei superveniente que não ofende o princípio da irredutibilidade dos vencimentos. Embargos acolhidos” (fl. 52 do volume 4 dos autos eletrônicos).
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 37, caput, e 169 da Constituição Federal.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Os índices aplicáveis aos reajustes dos vencimentos do servidor público municipal, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do RE nº 632.767, Rel. Min. Ricardo Lewandowski, DJe 6/4/2011, que possui a seguinte ementa:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REAJUSTES DE VENCIMENTOS. ÍNDICES APLICÁVEIS. COMPENSAÇÕES E COMPLEMENTAÇÕES DE REAJUSTES. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. LEIS 10.688/1988, 10.722/1989, 11.722/1995 E 12.397/1997. PORTARIAS 256/1994 E 261/1994. DECRETOS 35.932/1996, 36.249/1996, 36.559/1996 E 36.769/1997. SÚMULA 280 DO STF. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 20 de fevereiro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
