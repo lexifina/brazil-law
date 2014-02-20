@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Câmara Municipal de Guarulhos. Aparelhado o recurso na violação dos arts. 30, I, e 24, XV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    A matéria veiculada no recurso extraordinário já foi objeto de exame por esta Suprema Corte, a denotar a desnecessidade de reparos na decisão prolatada pelo Tribunal de origem. Colho precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMERCIALIZAÇÃO DE ÁGUA MINERAL. LEI MUNICIPAL. PROTEÇÃO E DEFESA DA SAÚDE. COMPETÊNCIA CONCORRENTE. INTERESSE LOCAL. EXISTÊNCIA DE LEI DE ÂMBITO NACIONAL SOBRE O MESMO TEMA. CONTRARIEDADE. INCONSTITUCIONALIDADE. 1. A Lei Municipal n. 8.640/00, ao proibir a circulação de água mineral com teor de flúor acima de 0, 9 mg/l, pretendeu disciplinar sobre a proteção e defesa da saúde pública, competência legislativa concorrente, nos termos do disposto no art. 24, XII, da Constituição do Brasil. 2. É inconstitucional lei municipal que, na competência legislativa concorrente, utilize-se do argumento do interesse local para restringir ou ampliar as determinações contidas em texto normativo de âmbito nacional. Agravo regimental a que se nega provimento” (RE 596489 AgR, Relator(a): Min. EROS GRAU, Segunda Turma, julgado em 27/10/2009, DJe-218 DIVULG 19-11-2009 PUBLIC 20-11-2009 EMENT VOL-02383-06 PP-01244 RT v. 99, n. 892, 2010, p. 119-123)
+    “CONSTITUCIONAL E ADMINISTRATIVO. LEI MUNICIPAL. COMERCIALIZAÇÃO DE ÁGUA MINERAL. TEOR DE FLÚOR. RESTRIÇÃO À SUA COMPOSIÇÃO: IMPOSSIBILIDADE. MATÉRIA DISCIPLINADA POR LEI FEDERAL. 1. A decisão agravada aplicou entendimento fixado pela 2ª Turma desta Corte no julgamento do RE 596.489-AgR/RS, rel. Min. Eros Grau, DJe 20.11.2009, o qual declarou a inconstitucionalidade da Lei Municipal 8.640/2000. 2. No caso, padece de inconstitucionalidade a lei municipal que, na competência legislativa concorrente, utilize-se do argumento do interesse local para restringir ou ampliar as determinações contidas em regramento de âmbito nacional. 3. Agravo regimental a que se nega provimento” (RE 477508 AgR, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em 03/05/2011, DJe-092 DIVULG 16-05-2011 PUBLIC 17-05-2011 EMENT VOL-02523-01 PP-00141)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 20 de fevereiro de 2014.
+Ministra Rosa Weber
+Relatora
