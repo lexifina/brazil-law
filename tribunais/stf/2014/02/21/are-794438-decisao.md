@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu recurso extraordinário interposto em face de acórdão ementado nos seguintes termos:
+    “MANDADO DE INJUNÇÃO. MAGISTÉRIO E GRATIFICAÇÃO NOTURNA. ARTIGOS 7º, IX, E 39, § 3º, CF/88 E ARTIGO 29, IV, CE/89. LEI ESTADUAL Nº 6.672/74. REDUÇÃO DE CARGA HORÁRIA E ACRÉSCIMO REMUNERATÓRIO. DIFERENÇA. OMISSÃO LEGISLATIVA. WRIT E EFICÁCIA NORMATIVA.
+    Não há maior dúvida quanto à previsão constitucional, seja na Carta Federal, artigos 7º, IX, e 39, § 3º, seja na Carta Estadual, artigo 29, IV, relativamente à incidência de plus remuneratório quanto ao trabalho noturno, que não se há de confundir com a redução da carga horária, com o que se afigura omissão legislativa relativamente ao magistério público estadual, uma vez prever seu estatuto, Lei Estadual nº 6.672/74, no artigo 117, § 1º, apenas o benefício de cunho físico e não o de natureza pecuniária.
+    Sob pena de absoluta inutilidade, há de se conferir eficácia normativa ao mandado de injunção, regrando-se, desde logo, direitos não contemplados pelo legislador infraconstitucional há muito tempo, enquanto não houver edição de comandos legais pelo Poder Legislativo”. (fl. 71)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 5º, LXXI; 7º, IX; e 39, § 3º, do texto constitucional.
+    Nas razões recursais, alega-se que a falta de previsão legal a respeito de determinado adicional ou benefício não significa ausência de regulação. Argumenta-se que a Constituição não prevê exatamente um adicional, mas, sim, que a remuneração do trabalho noturno seja superior ao diurno (fl. 109).
+    Decido.
+    As razões recursais não merecem prosperar.
+    Isso porque verifica-se que o Tribunal a quo consignou a existência de direito ao percebimento do adicional noturno pela parte recorrida com base na legislação local aplicável – Leis Estaduais 6.672/74 e 10.098/94.
+    Assim, dissentir do acórdão recorrido demandaria a prévia análise e interpretação da referida legislação local, o que inviabiliza o prosseguimento do recurso extraordinário, a teor do Enunciado 280 da Súmula desta Corte, uma vez que eventual ofensa à Constituição Federal, se existente, dar-se-ia de maneira reflexa ou indireta. Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MAGISTÉRIO. ADICIONAL NOTURNO. LEI COMPLEMENTAR ESTADUAL N. 10.098/1994 E LEI ESTADUAL N. 6.672/1974. MATÉRIA INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 737.733, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 30.8.2013)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. MAGISTÉRIO ESTADUAL. ADICIONAL NOTURNO. LEIS ESTADUAIS 6.672/1974 E 10.098/1994 DO RIO GRANDE DO SUL. REAPRECIAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. SÚMULA 280/STF. AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais locais que fundamentam a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes. II - Agravo regimental improvido”. (ARE-AgR 741.570, Re. Min. Ricardo Lewandowski, Segunda Turma, DJe 20.11.2013)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
