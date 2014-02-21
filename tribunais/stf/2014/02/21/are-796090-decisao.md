@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. DANO MORAL. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Rio de Janeiro:
+    “Consumidor. Responsabilidade Civil. Publicidade divulgada pela parte ré que não guarda clareza e nem precisão quanto ao serviço ofertado. Preliminar de legitimidade passiva afastada. Curso de Educação Física que não confere o diploma de bacharelado. Publicidade enganosa por omissão (artigo 37, § 3º, do CDC). Violação dos deveres anexos de transparência e lealdade. Dano moral configurado. O valor indenizatório fixado pelo julgador não merece revisão, porque convergente com os parâmetros usualmente adotados por esta Vigésima Câmara cível, em casos como o dos autos. Sentença mantida. Recursos desprovidos.”
+    2. A Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, inc. II, X, XIII e XXXII, 93, inc. IX, 206, inc, VII, 207 e 209, inc. I, da Constituição da República.
+    Argumenta que, “em momento algum se desincumbiu de cumprir com as Diretrizes e Bases da Educação Nacional, inclusive tal feito foi devidamente reconhecido pelo Recorrido, uma vez que., seu pleito exordial em momento algum ataca a estrutura curricular ou método pedagógico do curso, consagrando a inexistência de defeito no serviço prestado.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. A alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República não subsiste, pois, embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    6. No voto condutor do acórdão recorrido, o Desembargador Marco Antonio Ibrahim afirmou:
+    “Assim, o painel probatório produzido nos autos aponta que a parte ré faltou com os deveres anexos de transparência e lealdade, que devem permear toda relação de consumo, já que ao término do curso a parte ré expediu certidão e diploma, qualificando o curso como sendo de Licenciatura Plena em Educação Física (fls. 31/32), que tem campo de atuação restrita às escolas de ensino médio e fundamental.
+    Ademais, o artigo 38 do Código de Defesa do Consumidor alude que o ônus da prova, em hipóteses de propaganda enganosa, cabe a quem os patrocina, sendo a inversão obrigatória, ou seja, ope legis, decorrente da lei, independentemente de prévia declaração judicial, diferentemente daquela regida pelo artigo 6º, VIII, do mesmo diploma, que é ope judicis.”
+    7. Novo exame da decisão impugnada exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Código de Defesa do Consumidor) e do conjunto fático-probatório do processo. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. 1. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 721.162-AgR, de minha relatoria, Segunda Turma, DJe 1º.2.2013).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (AI 679.343-AgR, Relator o Ministro Teori Zavacki, Segunda Turma, DJe 1º.2.2013).
+    Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
