@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça de Goiás, assim ementado:
+    “AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO A QUE SE NEGA SEGUIMENTO. RECURSO IMPROCEDENTE. DECISÃO ISOLADA DO RELATOR. AUSÊNCIA DE FATO NOVO. 1- Não há que se falar em reforma de decisão monocrática que negou seguimento a agravo de instrumento, nos termos do artigo 557, caput do Código Processual, ante a inexistência de qualquer fato novo capaz de elidir os fundamentos pelos quais foi negado seguimento ao recurso interposto. Ao contrário, clarificado está que busca o agravante a reapreciação da matéria, limitando-se a repetir os argumentos expendidos por ocasião da interposição do recurso originário. 3- AGRAVO REGIMENTAL CONHECIDO E IMPROVIDO. DECISÃO MANTIDA.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIV e LV, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “o preceito constitucional apontado pelo recorrente não foi objeto de enfrentamento explícito pelo acórdão atacado, deixando de ocorrer o prequestionamento imprescindível à admissibilidade do recurso extraordinário”.
+    O recurso é inadmissível, tendo em vista que o Plenário Virtual do Supremo Tribunal Federal assentou a ausência de repercussão geral da questão relativa à obrigatoriedade de observância das garantias constitucionais do processo ante o indeferimento, pelo juiz, de determinada diligência probatória. Nessa linha, veja-se a ementa do ARE 639.228 RG, julgado sob a relatoria do Ministro Cezar Peluso:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
