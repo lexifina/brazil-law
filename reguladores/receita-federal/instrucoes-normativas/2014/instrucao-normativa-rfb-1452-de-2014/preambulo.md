@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1452, de 21 de fevereiro de 2014
+Dispõe sobre a apresentação de informações pelas entidades de previdência complementar, sociedades seguradoras e administradoras de Fundos de Aposentadoria Programada Individual.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 11 do Decreto-Lei nº 1.968, de 23 de novembro de 1982, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e no art. 57 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, resolve:
