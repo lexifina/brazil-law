@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1451, de 21 de fevereiro de 2014
+Aprova, para o exercício de 2014, o programa multiplataforma da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física, da Declaração Final de Espólio e da Declaração de Saída Definitiva do País.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Instrução Normativa RFB nº 1.445, de 17 de fevereiro de 2014, resolve:
