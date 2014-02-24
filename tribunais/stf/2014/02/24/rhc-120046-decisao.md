@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus interposto por José Antônio Martins contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao Agravo Regimental no HC 259.722/SP. Eis a ementa do julgado:
+    “(...)
+    CONTRABANDO OU DESCAMINHO E USO DE DOCUMENTO FALSO. PRINCÍPIO DA CONSUNÇÃO. MATÉRIA JÁ APRECIADA POR ESTA CORTE SUPERIOR DE JUSTIÇA EM RECURSO ESPECIAL. REITERAÇÃO DE PEDIDO. NEGATIVA DE SEGUIMENTO DA IMPETRAÇÃO. PRECEDENTES.
+    1. Nos termos da jurisprudência desta Corte Superior de Justiça, a impetração de habeas corpus com objeto idêntico ao de recurso especial anteriormente interposto caracteriza indevida reiteração de pedido, o que obstaculiza o conhecimento do writ.
+    ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO.
+    1. Os artigos 34, inciso XVIII, e 210, ambos do Regimento Interno deste Sodalício, autorizam o relator a negar seguimento ou indeferir liminarmente o habeas corpus quando o pedido for manifestamente incabível, como ocorre na hipótese dos autos, não se configurando, portanto, ofensa ao princípio da colegialidade.
+    2. Agravo regimental improvido.”
+    A recorrente sustenta, em síntese, que: (a) “o artigo 105 da CF, autoriza o julgamento do writ perante o col. STJ, pois ele é expresso ao afirmar que compete ao STJ julgar originariamente as ordens de habeas corpus quando o coator ‘for tribunal sujeito à sua jurisdição’”; (b) cerceamento de defesa, eis que a prolação de decisão monocrática impediu o exame da matéria pelo órgão colegiado do STJ; (c) a questão referente à absorção do crime de uso de documento falso pelo de descaminho não foi analisada no recurso especial, o que não impediria, entretanto, a sua apreciação no presente habeas corpus. Requer o provimento do recurso, para que seja determinado o processamento do habeas corpus impetrado no Superior Tribunal de Justiça.
+    Em parecer, a Procuradoria-Geral da República manifesta-se pelo desprovimento do recurso.
+    2. O acórdão impugnado não conheceu dos pedidos, na consideração de que a pretensão veiculada constituía mera reiteração de outro pleito já julgado por aquela Corte Superior (REsp 1.224.320/SP), oportunidade em que foi dado parcial provimento ao recurso para redimensionar a pena aplicada ao paciente para 5 anos de reclusão, em regime inicial semiaberto. Assim, não há nenhuma ilegalidade da decisão ora atacada, pois é inadmissível a repetição de pedidos, sem inovação (v.g., entre outros, HC 108568 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, DJe de 22-06-2012; HC 113537 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, DJe de 16-10-2012).
+    Registre-se, ademais, que qualquer conclusão desta Corte acerca das questões aqui suscitadas demandaria o exame de julgado que sequer foi objeto de impugnação no presente recurso (= REsp 1.224.320/SP).
+    3. Por fim, que não há falar em ofensa ao princípio da colegialidade, já que, além de viável o julgamento por decisão monocrática do relator quando se tratar de pedido manifestamente improcedente (art. 38 da Lei 8.038/90), eventual nulidade da decisão monocrática fica superada com a reapreciação do recurso pelo órgão colegiado, na via de agravo interno (cf.: HC 114174, Relator(a): Min. LUIZ FUX, Primeira Turma, Dje de 21-11-2013; AI 806848 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, Dje de 01-08-2013; HC 102966 AgR, Relator(a): Min. CELSO DE MELLO, Segunda Turma, Dje de 21-03-2012; AI 742738 AgR, Relator(a): Min. ELLEN GRACIE, Segunda Turma, Dje de 19-03-2010).
+    4. Pelo exposto, nego seguimento ao recurso. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 24 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
