@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. AUXÍLIO ALIMENTAÇÃO. PRESCRIÇÃO. NATUREZA JURÍDICA. INTEGRAÇÃO NO SALÁRIO E NA COMPLEMENTAÇÃO DE APOSENTADORIA. RESERVA ATUARIAL. DESPROVIMENTO. Não merece provimento o agravo de instrumento que tem por objeto o processamento do recurso de revista, quando não demonstrado violação literal de dispositivo constitucional ou legal, em divergência jurisprudencial apta ao confronto de tese. Art. 896, e alíneas, da CLT” (fl. 867).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos art. 5º, XXXVI, e 7º XXIX, da Carta Magna.
+    A pretensão recursal não merece acolhida.
+    Isso porque os Ministros desta corte, no RE 598.365/MG, Rel. Min. Ayres Britto, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca dos pressupostos de admissibilidade de recursos de competência de Cortes diversas, por não se tratar de matéria constitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, transcrevo a ementa do referido julgado:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso 'elemento de configuração da própria repercussão geral', conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608”.
+    Ainda que superado o referido óbice, quanto à alegada ofensa ao art. 5º, XXXVI, da Constituição, observo que o Tribunal de origem consignou:
+     “(...) rejeito a indigitada ofensa ao art. 5º, inciso XXXVI, da Constituição Federal, ante a manifesta ausência de prequestionamento, porquanto a Eg. Turma do TST não teceu nenhuma consideração a respeito da matéria nela contida. Incide, pois, a diretriz perfilhada nas Súmulas nºs 282 e 356 do Supremo Tribunal Federal” (fl. 897 e 897v. - grifos no original).
+    Assim, como tem consignado este Tribunal, de acordo com a Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Senão, vejamos:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido” (RE 363.743AgR/DF, Rel. Min. Ellen Gracie).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
