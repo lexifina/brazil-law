@@ -1,0 +1,20 @@
+Trata-se de agravo de decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, que entendeu ser aplicável o princípio nonagesimal previsto no art. 150, III, c, da Constituição Federal às hipóteses em que se estabelece prazo exíguo para as empresas contribuintes se adequarem à sistemática de recolhimento do tributo por substituição tributária.
+    No recurso extraordinário, fundamentado no art. 102, III, a, da Constituição Federal, alegou-se violação aos arts. 5º, caput, II, e 150, III, c, da mesma Carta.
+    O recurso, contudo, não tem condições de êxito.
+    Os fundamentos do acórdão proferido pelo Tribunal estadual no julgamento do recurso de apelação protocolado pela Fazenda Pública estão sintetizados na ementa de fl. 266, a seguir transcrita:
+    “APELAÇÃO CÍVEL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. EXIGÊNCIA DE SUBSTITUIÇÃO TRIBUTÁRIA. PRAZO EXÍGUO. VIOLAÇÃO À RAZOABILIDADE. NOVENTENA. ANALOGIA.
+    Independente da inexistência de regra expressa que garanta uma anterioridade para a hipótese de exigência da sistemática da substituição tributária, deve um prazo mínimo ser respeitado, sob pena de violação da razoabilidade, da não surpresa e da segurança jurídica.
+    Não pode o sujeito passivo ser surpreendido com a nova sistemática de recolhimento do tributo por substituição tributária sem um prazo razoável para adaptação ao novo regime de recolhimento.
+    Violação da razoabilidade e da segurança jurídica. Proteção do núcleo essencial dos princípios constitucionalmente assegurados.
+    Daí a possibilidade de aplicação, por analogia, permitida pelo art. 108, IV, do CTN, do prazo constitucional de noventa dias previsto para a hipótese de aumento de tributo (art. 150, III, c, da CF), mormente à ausência de prejuízo para o sujeito ativo.
+    Apelo desprovido. Sentença confirmada em reexame necessário. Voto vencido”.
+    Portanto, o Tribunal estadual, valendo-se dos meios de integração da norma, deu aplicação analógica ao disposto no art. 105, III, c, da Constituição Federal para assegurar ao contribuinte do ICMS o direito à observância do princípio da noventena na aplicação dos Decretos estaduais 46.626/09 e 46.675/09, que implementaram o sistema de recolhimento do tributo por substituição tributária, mas não previram prazo razoável de adaptação em favor das substituídas.
+    Ora, “quando se aplica analogicamente uma lei a determinado fato, faz-se resultar dele [fato] – que não se encontra previsto na hipótese nela [lei] contida – o mesmo efeito que a lei atribui ao fato que lhe é análogo e que, abstratamente, configura a hipótese nela descrita” (RE 89.243/SP, Rel. Min. Moreira Alves).
+    Assim, somente a partir da resposta à indagação acerca da boa ou da má aplicação do disposto no art. 4º da Lei de Introdução ao Código Civil poder-se-ia chegar à conclusão a respeito da ofensa aos preceitos constitucionais ventilados nas razões do extraordinário.
+    Desse modo, a violação à Constituição, se houvesse, seria indireta, o que não autoriza a admissão do recurso, conforme entendimento assente no Supremo Tribunal Federal, in verbis:
+    “Na admissibilidade do recurso extraordinário, exige-se, também, haja ofensa direta, pela decisão recorrida, à norma constitucional, não podendo essa vulneração verificar-se, por via oblíqua, ou em decorrência de violação a norma infraconstitucional. Não é bastante fundamentar o apelo extremo em alegação de ofensa a preceito constitucional, como consequência de contrariedade à lei ordinária. Se para demonstrar violência à Constituição é mister, por primeiro, ver reconhecida violação a norma ordinária, é esta última o que conta, não se cuidando, pois, de contrariedade direta e imediata à Lei Magna, qual deve ocorrer com vistas a admitir recurso extraordinário, ut art. 102, III, do Estatuto Supremo” (AI 203.077/SP, Rel. Min. Néri da Silveira).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
