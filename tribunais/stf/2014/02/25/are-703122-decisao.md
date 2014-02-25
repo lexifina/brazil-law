@@ -1,0 +1,12 @@
+Trata-se de agravo interposto de decisão que negou seguimento a recurso extraordinário protocolado contra acórdão proferido em agravo regimental formalizado contra ato de integrante do Tribunal de Justiça do Estado do Rio Grande do Sul que, monocraticamente, apreciou os recursos de apelação formalizados pelos litigantes.
+    No recurso extraordinário, fundamentado no art. 102, III, a, da Constituição Federal, alegou-se violação aos arts. 5º, XXII, XXXV e LIV; 93, IX; 150, IV; e 155, II, da mesma Carta.
+    Os recorrentes argumentam que não apenas a imputação de responsabilidade pelo encargo tributário ao agente transportador da mercadoria desacompanhada de documentação idônea, mas também a aplicação da multa fiscal em montante que consideram excessivamente superior ao valor da mercadoria transportada infringem os princípios do devido processo legal, da proporcionalidade e da razoabilidade e as garantias do direito de propriedade e da não imposição de sanção a terceiros que não sejam autores de suposto delito -- como ocorre na hipótese do transportador, que não pode ser responsabilizado pela emissão supostamente irregular de nota fiscal.
+    O recurso não tem condições de êxito.
+    Preliminarmente, anoto que a matéria constitucional não foi suscitada nas razões dos recursos de apelação (fls. 122-128, autos principais; fls. 129-141, autos em apenso). O tema somente foi arguido na minuta do agravo regimental interposto contra o ato monocrático do relator, que deu provimento ao apelo do Fisco e negou provimento aos recursos dos contribuintes. Assim, ausente o requisito do prequestionamento, incide a Súmula 282 desta Corte.
+    Acrescente-se que o Tribunal de origem dirimiu a controvérsia a partir da interpretação da legislação ordinária estadual que disciplina a cobrança do ICMS (Leis estaduais 6.537/73 e 8.820/89 e Decreto regulamentar 37.699/97) – o que encontra óbice da Súmula 280/STF – e do disposto no art. 148 do Código Tributário Nacional, tendo em consideração, ainda, as provas coligidas nos autos. É o que se infere da leitura do acórdão de fls. 232-238.
+    Assim, a violação a preceito constitucional, se houvesse, seria indireta e o revolvimento do conjunto fático-probatório seria necessário (Súmula 279/STF). Essas situações não viabilizam o conhecimento do extraordinário (Súmula 279/STF).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
