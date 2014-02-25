@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de embargos de declaração de decisão que determinou a devolução dos autos ao Tribunal de origem com fundamento no art. 543-B do CPC.
+    Sustenta a parte agravante, em síntese, ausência de identidade entre o tema objeto do processo indicado como paradigma para a devolução e a matéria discutida nos presentes autos, pois a matéria discutida no recurso extraordinário já fora apreciada no julgamento do RE 631.389.
+    2. Não prospera a irresignação da embargante. De acordo com o estatuído no art. 535 do Código de Processo Civil, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada já havia enfrentado e decidido, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso. Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 535 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+    Ademais, (a) no precedente a ser formado no RE 662.406 RG, de minha relatoria, o Plenário desta Corte tratará especificamente do termo final para o pagamento da gratificação em relação ao que definido na Súmula Vinculante 20/STF ; (b) tendo em vista o enfoque próprio a ser dado nesse precedente – que, seguramente, levará em conta outros pronunciamentos da Corte sobre a questão -, recomenda-se o sobrestamento da discussão e (c) o julgamento do RE 631.389 sequer tem acórdão publicado, sendo mais conveniente a definição do termo final do pagamento no precedente indicado para tratar exclusivamente desse ponto.
+    3. Diante do exposto, rejeito os embargos de declaração.
+    Publique-se. Intime-se.
+    Brasília, 25 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
