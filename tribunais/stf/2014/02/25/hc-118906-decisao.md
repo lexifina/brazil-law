@@ -1,0 +1,27 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de IVAN SOARES DE SOUZA contra acórdão do Superior Tribunal de Justiça sintetizado na seguinte ementa:
+    “HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. EXAME EXCEPCIONAL QUE VISA PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. 2. ESTELIONATO E FALSIFICAÇÃO DE DOCUMENTOS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. REITERAÇÃO DELITIVA. MODUS OPERANDI DA AÇÃO DELITUOSA. NECESSIDADE DA MEDIDA EXTREMA EVIDENCIADA. 3. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. 4. ORDEM NÃO CONHECIDA.
+    1. A jurisprudência do Superior Tribunal de Justiça, buscando a racionalidade do ordenamento jurídico e a funcionalidade do sistema recursal, vinha se firmando, mais recentemente, no sentido de ser imperiosa a restrição do cabimento do remédio constitucional às hipóteses previstas na Constituição Federal e no Código de Processo Penal. Atento a essa evolução hermenêutica, o Supremo Tribunal Federal passou a não mais admitir habeas corpus que tenha por objetivo substituir o recurso ordinariamente cabível para a espécie. Precedentes. Contudo, devem ser analisadas as questões suscitadas na inicial, no afã de verificar a existência de constrangimento ilegal evidente, a ser sanado mediante a concessão de habeas corpus de ofício, evitando-se prejuízos à ampla defesa e ao devido processo legal.
+    2. Não se pode olvidar que a regra em nosso ordenamento jurídico é a liberdade, de forma que toda prisão antes do trânsito em julgado de sentença penal condenatória reveste-se de excepcionalidade, assumindo natureza exclusivamente cautelar. Assim, a segregação preventiva só pode ser decretada e mantida em razão de decisão escrita e fundamentada de autoridade judiciária competente, quando preenchidos os pressupostos necessários insculpidos no art. 312 do Código de Processo Penal e demonstrada concretamente e objetivamente sua real necessidade.
+    3. A custódia foi mantida considerando-se a acentuada periculosidade social do paciente, a reiteração criminosa e o modus operandi da ação delituosa, mormente porque, em tese, o paciente integra uma possível organização especializada na prática de diversas modalidades criminosas, dentre elas os delitos de estelionato, falsidade documental, além de receptação e furto de veículos, os quais praticados de forma continuada, em diversos estados da federação, fazem de vítimas um ‘sem-número de pessoas’.
+    4. Essa conjuntura torna patente a necessidade de preservação da prisão preventiva para a garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal.
+    5. As condições pessoais favoráveis do agente, tais como primariedade, residência fixa e exercício de atividade lícita não são suficientes para garantir à paciente a revogação da custódia cautelar, se há nos autos elementos que recomendam a sua manutenção.
+    6. Habeas corpus não conhecido.”
+    Colhe-se dos autos que o paciente e demais corréus foram presos em flagrante delito no dia 02/07/2012, ao adquirirem, “mediante ardil, financiamento para aquisição do veículo Hyndai/Veloster, ano/modelo 2012/2013”.
+    A defesa requereu o relaxamento da custódia do paciente em razão de ilegalidade no auto de prisão em flagrante. O pedido foi deferido.
+    Em seguida, o paciente foi denunciado como incurso nas sanções dos artigos 171, caput, 288, 297 e 299, na forma do artigo 69, todos do Código Penal.
+    O magistrado singular, no ato do recebimento da peça acusatória, decretou a prisão preventiva para garantia da ordem pública, em razão da periculosidade do paciente e da reiteração na prática criminosa. O mandado de prisão foi cumprido em 14/09/2012.
+    Irresignada, a defesa impetrou, sucessivamente, habeas corpus no Tribunal de Justiça do Estado de Santa Catarina e no Superior Tribunal de Justiça, sustentando, em síntese, ausência de base concreta para a segregação cautelar. Ambos os writs foram indeferidos.
+    Nesta impetração, a defesa reitera a tese de ausência de base concreta para a prisão preventiva. Alega, ainda, que: (i) os crimes foram cometidos por apenas 3 (três) comparsas, razão pela qual não se poderia imputar ao paciente a prática do crime de quadrilha ou bando, que, nos termos do artigo 288 do CP, exige a associação de mais de três pessoas; (ii) não há nos autos provas de falsificação ou adulteração de documentos; (iii) excesso de prazo da custódia.
+    Requer, ao final, a concessão de medida liminar a fim de que seja revogada a prisão preventiva. No mérito, pleiteia a confirmação da cautelar.
+    O pedido liminar foi indeferido.
+    A Procuradoria Geral da República manifestou-se pela prejudicialidade do writ.
+    É o relatório.
+    DECIDO.
+    O writ perdeu o objeto.
+    Conforme destacado no parecer da Procuradoria Geral da República, verifica-se que, em 16/12/2013, foi proferida sentença pelo Juízo da 1ª Vara Criminal da Comarca de São José/SC, condenando o paciente à pena de 3 (três) anos e 4 (quatro) meses de reclusão, em regime aberto, tendo sido substituída a pena privativa de liberdade por restritivas de direito e concedido o direito de apelar em liberdade.
+    Ex positis, julgo prejudicado este habeas corpus, pela perda superveniente de objeto, com fundamento no art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 25 de fevereiro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
