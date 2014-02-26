@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 104):
+    “REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. FILHA SOLTEIRA MAIOR. APLICAÇÃO DA LEGISLAÇÃO EM VIGOR AO TEMPO DO FALECIMENTO DO EX-SERVIDOR. SÚMULA 340 DO STJ. PENSÃO QUE DEVE CORRESPONDER A 100% DOS PROVENTOS DO SERVIDOR FALECIDO, OBSERVADA A COTA PARTE DA AUTORA. APLICAÇÃO DO ART. 40, §7º, DA CF, NA REDAÇÃO ANTERIOR À EMENDA CONSTITUCIONAL N° 41/2003. ADICIONAL POR TEMPO DE SERVIÇO. GRATIFICAÇÃO DEVIDA NO PERCENTUAL RECEBIDO NA DATA DO ÓBITO. APLICAÇÃO DA LEI 9494/97, COM A REDAÇÃO DADA PELA LEI 11.960/09. PARCIAL PROVIMENTO DO RECURSO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, I (princípio da isonomia), e 201, V, da Constituição. Sustenta a inconstitucionalidade das leis estaduais que autorizavam a concessão de pensão por morte à filha maior de 21 anos.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que as alegadas violações constitucionais não foram apreciadas no acórdão recorrido.
+    O recurso extraordinário não deve ser provido, tendo em conta que o acórdão recorrido se alinha com a jurisprudência do Supremo Tribunal Federal. Com efeito, em situação idêntica à dos autos, esta Corte assentou o entendimento de que a concessão de pensão por morte deve observar as leis vigentes à época do óbito do segurado (tempus regit actum). Nessa linha, veja-se a ementa do ARE 693.243-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PENSÃO POR MORTE.
+    1. A pensão por morte rege-se pela legislação em vigor na data do falecimento do segurado. Princípio da lei do tempo rege o ato (tempus regit actum). Precedentes.
+    2. Alegada ofensa ao princípio constitucional da isonomia. Benefício concedido com base em lei local. Análise de norma infraconstitucional. Tema sem repercussão geral.
+    3. Agravo regimental ao qual se nega provimento.”
+    Ademais, o Plenário do Supremo Tribunal Federal, no julgamento do RE 610.220-RG, sob a relatoria da Ministra Ellen Gracie, concluiu pela ausência da repercussão geral da matéria constitucional tratada nos autos. A decisão do Plenário está assim ementada:
+    “Administrativo. Servidor público. Direito à pensão para filha solteira maior de 21 anos. Lei estadual 7.672/82 do Rio Grande do Sul. Aplicação dos efeitos da ausência de repercussão geral tendo em vista tratar-se de divergência solucionável pela aplicação da legislação estadual. Inexistência de repercussão geral (DJE nº 100, publicado em 04/06/2010).”
+    Cabe registrar, por fim, que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do art. 102, III, da Constituição. Na hipótese, o acórdão recorrido apenas aplicou o direito local pertinente ao caso concreto, sem analisar a lei à luz da norma constitucional. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.“
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 26 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
