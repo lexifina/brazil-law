@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de mandado de segurança, com pedido de liminar, impetrado por Antônio Sérgio Martins e Silva contra ato do Corregedor Nacional de Justiça, que incluiu na relação de serventias extrajudiciais vagas o Cartório do 1º Oficio de Registro Civil da Comarca de Pentecoste/CE. Sustenta que o ato coator violou a segurança jurídica e a boa-fé.
+    A liminar foi indeferida. A União ingressou na ação. O Ministério Público Federal apresentou parecer, opinando pela denegação da segurança.
+    2. Não merece seguimento o mandado de segurança. É que o art. 23 da Lei 12.016/2009 dispõe que “o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado”. O art. 8º, § 5º, do Regimento Interno do CNJ impõe a intimação pessoal do interessado para a contagem do prazo para eventual impugnação do ato, o que, por conseguinte, demarca o termo inicial do prazo decadencial da ação mandamental.
+    No caso, não está demonstrada a data em que foi efetivada a intimação pessoal do impetrante. No entanto, é inequívoca a ciência do impetrante na interposição do recurso administrativo, em 23 de julho de 2010, o que já demonstra prazo superior a 120 dias da data da autuação deste mandado de segurança, em 22 de janeiro de 2011. Por fim, registre-se que a interposição de recurso administrativo desprovido de efeito suspensivo não interrompe o prazo para a impetração de mandado de segurança.
+    3. De outra parte, não se tem presente a alegada ilegitimidade da decisão que negou seguimento ao recurso administrativo. O Corregedor Nacional apreciou o cabimento do recurso no uso das atribuições conferidas ao relator, previstas nos art. 25, IX e art. 115, § 4º, do RICNJ. O item 3 da decisão impugnada explicita que os processos relacionados ao tema da Resolução 80 do CNJ foram distribuídos à relatoria da Corregedor Nacional, por deliberação do Plenário do CNJ nas sessões realizadas de 08.08.2008 à 15.12.2009.
+    4. Diante do exposto, nego seguimento ao pedido, ficando prejudicado o recurso pendente (art. 21, § 1º do RISTF). Custas pelo impetrante. Sem honorários advocatícios (Lei 12.016/09, art. 25).
+    Publique-se. Intimem-se.
+    Brasília, 26 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
