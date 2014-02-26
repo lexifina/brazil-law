@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de recurso ordinário em habeas corpus interposto de decisão monocrática que negou seguimento ao HC 279.019, do Superior Tribunal de Justiça.
+    O recorrente narra que foi condenado, na forma do art. 69 do Código Penal, à pena de 10 (dez) anos de reclusão, pela prática de tráfico e associação para o tráfico de drogas (Lei nº 6.368/1976, arts. 12, 14 e 18, incisos II e IV). Em grau de apelação, ainda segundo o recorrente, o Tribunal de Justiça do Estado de São Paulo acolheu o pedido do Ministério Público e aumentou a pena para 16 (dezesseis) anos e 8 (oito) meses de reclusão.
+    Desse acórdão foi impetrado o HC 212.333, havendo a Quinta Turma do Superior Tribunal de Justiça, em abril de 2013, concedido parcialmente a ordem para reduzir a pena ao patamar de 13 (treze) anos e 4 (quatro) meses de reclusão.
+    Após o trânsito em julgado da decisão, o ora recorrente deduziu novo pedido de habeas corpus ao Superior Tribunal de Justiça, alegando “omissão” da Turma julgadora quanto à derrogação do preceito secundário do art. 14 da Lei n º 6.368/1976. A relatora do HC 279.019, Ministra Laurita Vaz, negou seguimento à impetração por entender que a Quinta Turma do Superior Tribunal de Justiça figuraria, na verdade, como autoridade impetrada.
+    Neste recurso ordinário, o recorrente afirma que a pena imposta pelo delito de associação para o tráfico de drogas deixou de observar o limite de 6 (anos), definido pelo art. 8º da Lei nº 8.072/1990. Ainda segundo o recorrente, a jurisprudência do Superior Tribunal de Justiça sobre a matéria é pacífica, de modo que a relatora do HC 279.019 poderia ter concedido a ordem de ofício. Requer, assim, o realinhamento da pena e a expedição de alvará de soltura.
+    Decido.
+    A orientação da Primeira Turma do Supremo Tribunal Federal é no sentido de que não se conhece de recurso ordinário em habeas corpus interposto de decisão monocrática proferida por Ministro do Superior Tribunal de Justiça (v.g RHC 115.492, Rel. Min. Dias Toffoli, RHC 108.807, Rel.ª Min.ª Cármen Lúcia, e RHC 111.935, Rel. Min. Luiz Fux).
+    Ademais, apesar de o Supremo Tribunal Federal entender que o art. 8º, caput, da Lei nº 8.072/1990 derrogou a pena cominada ao delito de associação para o tráfico pelo art. 14 da Lei 6.368/1976 (HC 68.793, Rel. Min. Sepúlveda Pertence, HC 72.862, Rel. Min. Néri da Silveira, e HC 83.017, Rel. Min. Ayres Britto), não há nos autos documentos capazes de demonstrar que essa orientação não foi observada pelas instâncias precedentes. A ausência da sentença, do acórdão estadual e de outras peças relevantes da ação penal inviabiliza até mesmo eventual concessão da ordem de ofício.
+    A afirmação de que a pena definitiva ultrapassa 6 (seis) anos não é suficiente para comprovar a inobservância da pena prevista no art. 8º da Lei nº 8.072/1990, tendo em vista que as causas de aumento de pena (no caso, duas) podem ensejar a fixação da sanção acima do máximo abstratamente cominado.
+    Assim, considero que a questão deve ser submetida ao exame do Tribunal estadual pela via de revisão criminal ou mesmo do Supremo Tribunal Federal, em processo devidamente instruído.
+    Nessas condições, com base no art. 38 da Lei n º 8.038/1990, c/c o art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
