@@ -1,0 +1,27 @@
+Decisão: Trata-se de pedido de suspensão de liminar formulado pelo Estado do Piauí contra acórdão proferido pelo Tribunal de Justiça daquela unidade da Federação no mandado de segurança 2012.0001.002673-8.
+    O acórdão que o requerente pretende suspender deferiu parcialmente a segurança para que seja paga pensão por morte à impetrante.
+    Neste pedido, o Estado do Piauí argumenta que o instituidor da pensão, marido da impetrante, jamais chegou a ocupar o cargo de analista judicial, razão pela qual seria indevida a utilização da remuneração daquele cargo como parâmetro para a fixação da pensão.
+    Para o requerente, o acórdão realizou equiparação indevida entre cargo público e atividade privada de notário, exercida pelo instituidor quando em vida.
+    Como fundamento para a concessão da suspensão pleiteada, o Estado do Piauí sustenta que o acórdão impugnado provoca grave lesão à ordem administrativa.
+    Devidamente intimada, a impetrante não apresentou manifestação nestes autos.
+    O Procurador-Geral da República opinou pelo não conhecimento da medida ante a sua utilização como sucedâneo recursal.
+    É o relatório.
+    Decido.
+    O pedido contém matéria constitucional – arts. 37, XIII; 40, caput e § 7º; 149; 201 e 236 –, razão pela qual dele conheço.
+    Estão presentes os requisitos autorizadores da medida de contracautela.
+    Com efeito, o acórdão que se pretende suspender não conseguiu demonstrar o regime público da atividade desempenhada pelo instituidor da pensão. Colho do voto do relator do writ:
+    “Na folha 32 dos autos há ato do Governador do Estado, nomeando, em caráter efetivo, o falecido marido da impetrante para o cargo de Tabelião de Notas, Escrivão do Cível e Comércio, Crime e Júri e Oficial do Registro Civil de Nascimento e Óbito do Cartório do 2º Ofício da Comarca de Castelo do Piauí, em virtude da aprovação em concurso público. Na folha seguinte, consta a publicação desse ato no Diário Oficial do Estado. Não fora investido nas suas funções, portanto, em virtude de herança ou compra, como ocorria em muitos casos.
+    Da própria nomenclatura de seu cargo, percebe-se que cumulava o falecido não somente as funções hoje realizadas nas serventias cartorárias particulares, mas também aquelas que, atualmente, são de competência das Secretarias de Varas, chefiadas pelos escrivães judiciais, dado que estava investido nas funções de escrivão do cível, (…) Crime e Júri. Nesta condição, contribuiu durante 34 (trinta e quatro) anos para a previdência estadual. Sua condição de servidor público estadual, ainda que lato sensu, é, portanto, a meu ver, indiscutível.”
+    Os fatores preponderantes para a concessão da segurança – circunstância de que o marido da impetrante acumulava o desempenho das funções relativas a serventia judicial e o fato de supostamente ter sido aprovado por concurso público – não são suficientes para legitimar a equiparação pretendida, uma vez que tais argumentos cedem diante da não demonstração da efetiva estatização, à época, da serventia judicial ocupada.
+    A ausência dessa comprovação deixa nítida, por sua vez, a divergência entre a conclusão do acórdão impugnado e o teor do art. 236 da Constituição, que reconhece a natureza privada da atividade desempenhada pelo instituidor da pensão.
+    Veja-se, a respeito, as seguintes ementas de acórdãos proferidos por este Supremo Tribunal Federal:
+    SERVENTIAS JUDICIAIS E EXTRAJUDICIAIS - TITULARES - APOSENTADORIA - INSTITUIÇÃO - ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS DE CONSTITUIÇÃO ESTADUAL - CONFLITO COM A LEI BÁSICA FEDERAL. (…) Ao discrepar desse contexto, mostra-se inconstitucional o artigo 82 do Ato das Disposições Constitucionais Transitórias do Estado do Rio de Janeiro, no que contemplou com aposentadoria, considerados proventos iguais a sessenta por cento dos vencimentos dos juízes de direito, aqueles que fossem, a época, os titulares das Serventias. Artigos 11 do Ato das Disposições Constitucionais Transitórias, 25 e 61, inciso II, alínea "c" da Constituição Federal de 1988.(ADI 139, rel. p. acórdão min. Marco Aurélio, Pleno, DJ 05.06.1992)
+    V. Tabeliães e oficiais de registros públicos: aposentadoria: inconstitucionalidade da norma da Constituição local que - além de conceder-lhes aposentadoria de servidor público - que, para esse efeito, não são - vincula os respectivos proventos às alterações dos vencimentos da magistratura: precedente (ADIn 139, RTJ 138/14) (ADI 575, rel. min. Sepúlveda Pertence, Pleno, DJ 25.06.1999)
+    Serviços notariais e de registro: regime jurídico: exercício em caráter privado, por delegação do poder público: lei estadual que estende aos delegatários (tabeliães e registradores) o regime do quadro único de servidores do Poder Judiciário local: plausibilidade da argüição de sua inconstitucionalidade, por contrariedade ao art. 236 e §§ e, no que diz com a aposentadoria, ao art. 40 e §§, da Constituição da República: medida cautelar deferida. (ADI 2.891-MC, rel. min. Sepúlveda Pertence, Pleno, DJ 27.06.2003)
+    Ante o exposto, defiro o pedido e determino a suspensão da execução do acórdão proferido pelo Tribunal de Justiça do Estado do Piauí no julgamento do mandado de segurança 2012.0001.002673-8 até o trânsito em julgado daquela decisão.
+    Comunique-se.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2014
+Ministro Joaquim Barbosa
+Presidente
+Documento assinado digitalmente
