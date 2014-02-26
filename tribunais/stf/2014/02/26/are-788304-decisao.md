@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 4ª Turma Recursal dos Juizados Especiais da Seção Judiciária do Estado do Rio Grande do Sul (eDOC 11).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a” e “b”, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, aponta-se ofensa aos artigos 5º caput, II, XXXVI, LIX e LXIX, 37, caput, 40, §1º, III, “b” e § 8º, e 71, III e IX, da Constituição Federal.
+    Defende-se, em síntese, que a Gratificação de Desempenho de Atividade Técnico-Administrativo e de Suporte - GDPGTAS deve ser paga à recorrida de forma proporcional, visto que é esse o regime em que sua aposentadoria foi concedida.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque a Turma Recursal dos Juizados Especiais Federais da Seção do Estado do Rio Grande do Sul decidiu a causa com fundamento na legislação infraconstitucional aplicável ao caso e consignou que a gratificação de produtividade deve ser paga sem qualquer redução pelo fato de a aposentadoria ter sido proporcional.
+    Assim, para se entender de forma diversa, seria necessário interpretar a legislação infraconstitucional. É certo, no entanto, que o julgamento do recurso extraordinário não comporta esse procedimento, visto que eventual ofensa à Constituição seria apenas reflexa ou indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE FAZENDÁRIA – GDAFAZ. 1. EXTENSÃO AOS INATIVOS. PRECEDENTES. 2. APOSENTADORIA PROPORCIONAL. PROPORCIONALIDADE DA GRATIFICAÇÃO. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE-AgR 770.561, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 7.2.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA PROPORCIONAL. CÁLCULO DA GRATIFICAÇÃO. MATÉRIA DE ORDEM INFRACONSTITUCIONAL. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO. 1. O cálculo da gratificação, observando-se a proporcionalidade dos proventos de aposentadoria, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie. Precedente: ARE 763.540-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4/11/2013. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 3. In casu, o acórdão recorrido assentou: “CONSTITUCIONAL. ADMINISTRATIVO. PRESCRIÇÃO. NÃO OCORRÊNCIA. PRESTAÇÃO DE TRATO SUCESSIVO. SERVIDOR PÚBLICO. INATIVOS E PENSIONISTAS. PARIDADE DE VENCIMENTOS. GRATIFICAÇÃO DE CARÁTER GERAL. GDPGE. LEI Nº 11.357/06. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. RECURSO INOMINADO IMPROVIDO”. 4. Agravo regimental DESPROVIDO.” (ARE-AgR 761.960, Rel. Min. Luiz Fux, Primeira Turma, DJe 4.12.2013)
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 26 de fevereiro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
