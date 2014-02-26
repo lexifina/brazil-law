@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA NULA. FGTS. INCIDÊNCIA DO ART. 19-A DA LEI N. 8.036/1990. JULGADO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL. RECURSO PROVIDO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “EMENTA: APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - DEPÓSITOS DO FGTS - CONTRATADO TEMPORÁRIO - VÍNCULO DE NATUREZA CONTRATUAL ADMINISTRATIVA - INEXISTÊNCIA DE RELAÇÃO CELETISTA - INAPLICABILIDADE DO ART. 19-A DA LEI Nº. 8.036/90 - RECURSO NÃO PROVIDO. O art. 19-A da Lei n.º 8.036/90 assegura o depósito do FGTS na conta vinculada apenas ao trabalhador que teve o contrato de trabalho declarado nulo por não haver ingressado no emprego por aprovação em concurso público. Assim, a obtenção do benefício pressupõe a existência de relação celetista entre o ente público e o trabalhador, o que, segundo a jurisprudência do Supremo Tribunal Federal, não é o caso do contratado temporário do inc. IX do art. 37 da Constituição da República, motivo pelo qual ele não se enquadra no preceito do dispositivo daquela Lei Federal, ainda que a contratação venha a ser considerada nula.
+    V.V.
+    CONSTITUCIONAL - ADMINISTRATIVO - SERVIDOR PÚBLICO - CONTRATAÇÃO TEMPORÁRIA -- NULIDADE - CARACTERIZAÇÃO. REMUNERATÓRIAS/INDENIZATÓRIAS -FGTS - PREVISÃO LEGAL - O contrato de trabalho celebrado pela Administração Pública para prestação de serviço em vulneração ao art. 37, II e IX, da CF enseja a sua nulidade, com o reconhecimento do direito ao depósito das parcelas relativas do Fundo de Garantia por Tempo de Serviço, em virtude de expressa disposição contida na Lei nº 8036/1990” (fl. 127).
+    2. A Recorrente afirma que o Tribunal de origem teria contrariado os arts. 37, incs. II, IX, § 2º, da Constituição da República.
+    Sustenta que “o acórdão deve ser reformado em face da notória prática da inconstitucionalidade de contratos administrativos em situações claras de abuso dos incs. II e IX do art. 37 da CRFB, bem como a desumanidade praticada pela Administração recorrida, vez que admitiram a protagonização de contratos múltiplos e sucessivos ao longo dos tempos e a demissão absurda sem o dever de indenizar os contratos nulos e inconstitucionais pelo FGTS devidos nestes casos por força do art. 19-A da Lei n. 8.036/90” (fl. 159).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica assiste à Recorrente.
+    4. Reconhecida a nulidade da contratação temporária da Recorrente, na linha da jurisprudência deste Supremo Tribunal é de ser aplicado o art. 19-A da Lei n. 8.036/1990 e assegurado o pagamento do fundo de garantia por tempo de serviço.
+    No julgamento do Recurso Extraordinário n. 596.478/RR, Relator a Ministra Ellen Gracie, Redator para o acórdão Dias Toffoli, o Plenário do Supremo Tribunal Federal decidiu:
+    “EMENTA Recurso extraordinário. Direito Administrativo. Contrato nulo. Efeitos. Recolhimento do FGTS. Artigo 19-A da Lei nº 8.036/90. Constitucionalidade. 1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário. 2. Mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados. 3. Recurso extraordinário ao qual se nega provimento” (DJ 1º.3.2013, grifos nossos).
+    Dessa orientação jurisprudencial divergiu o julgado recorrido.
+    5. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), invertidos os ônus sucumbenciais.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
