@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. TRIBUTÁRIO. AÇÃO DE COBRANÇA. TAXA DE COLETA DE LIXO. POSSIBILIDADE DE COBRANÇA. REPERCUSSÃO GERAL RECONHECIDA NO RE Nº 576.321-RG. CONFIRMAÇÃO DA JURISPRUDÊNCIA DESTA CORTE. MATÉRIA INFRACONSTITUCIONAL
+1. As taxas de coleta de lixo domiciliar são espécies de tributo idôneas quando dissociadas do serviço de limpeza e conservação de vias e logradouros públicos, conforme reafirmação da jurisprudência desta Corte feita pelo Plenário nos autos do RE nº 576.321-RG-QO, Rel. Min. Ricardo Lewandowski, DJe de 13/2/2009.
+2. In casu, o acórdão recorrido assentou: “APELAÇOES CÍVEIS. EMBARGOS À EXECUÇÃO FISCAL MUNICÍPIO DE CANOS. TAXA DE COLETA DE LIXO. LEGALIDADE DA COBRANÇA, POR SE TRATAR DE CONTRAPRESTAÇÃO À SERVIÇO PÚBLICO ESPECÍFICO E DIVISÍVEL. JUROS DE MORA E MULTA INCIDENTES SOBRE A TOTALIDADE DO DÉBITO REMANESCENTE. DESCABIMENTO.”
+3. Agravo DESPROVIDO.
+    DECISÃO: Trata-se de agravo interposto nos próprios autos por SUCESSÃO DE ABRELINO LUIZ GALLINA, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão assim ementado:
+    “APELAÇOES CÍVEIS. EMBARGOS À EXECUÇÃO FISCAL MUNICÍPIO DE CANOS. TAXA DE COLETA DE LIXO. LEGALIDADE DA COBRANÇA, POR SE TRATAR DE CONTRAPRESTAÇÃO À SERVIÇO PÚBLICO ESPECÍFICO E DIVISÍVEL. JUROS DE MORA E MULTA INCIDENTES SOBRE A TOTALIDADE DO DÉBITO REMANESCENTE. DESCABIMENTO.
+    I) Ainda que seja indevida a cobrança da Taxa de Limpeza Pública prevista na Lei Municipal n. 1.783 até o exercício de 2009, a partir de 2010, o Município de Canoas passou a cobrar dos contribuintes apenas a Taxa de Coleta de Lixo, de modo individualizado, sem abranger limpeza de logradouros públicos, como estava previsto na legislação anterior, o que torna a sua cobrança plenamente legal e constitucional. A taxa somente pode ser imposta quando presentes os requisitos da especificidade e divisibilidade, como efetivamente ocorre na espécie, pois o serviço de coleta do lixo é prestado “uti singuli”.
+    II) – Sendo considerado ilegal a cobrança da Taxa de Limpeza pública dos exercícios de 2007 a 2009, não há como pretender-se cobrar os juros de mora e multa relativos ao IPTU vinculado à mesma CDA, pois não haveria como separar as parcelas para fins de pagamento. Todavia, no tocante ao exercício de 2010, a cobrança se mantém hígida em relação à totalidade do débito, motivo pelo qual incidentes os juros de mora e multa decorrentes de Lei.
+    APELO DO MUNICÍPIO PROVIDO. APLEO DA EMPARGANTE PARCIALMENTE PROVIDO.”
+    Opostos embargos de declaração, restaram rejeitados.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral, e alega violação ao artigo 145, II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por entender que o acórdão recorrido está de acordo com a jurisprudência desta Corte.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    As taxas de coleta de lixo domiciliar são espécies de tributo idôneas quando dissociadas do serviço de limpeza e conservação de vias e logradouros públicos, conforme reafirmação da jurisprudência desta Corte feita pelo Plenário nos autos do RE nº 576.321-RG-QO, Rel. Min. Ricardo Lewandowski, DJe de 13/2/2009, do qual podemos destacar a seguinte passagem ilustrativa do voto:
+    “Com efeito, a Corte entende como específicos e divisíveis os serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, desde que essas atividades sejam completamente dissociadas de outros serviços públicos de limpeza realizados em benefício da população em geral ( uti universi ) e de forma indivisível, tais como os de conservação e limpeza de logradouros e bens públicos (praças, calçadas, vias, ruas, bueiros).
+    Decorre daí que as taxas cobradas em razão exclusivamente dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis são constitucionais, ao passo que é inconstitucional a cobrança de valores tidos como taxa em razão de serviços de conservação e limpeza de logradouros e bens públicos.”
+    Ressalte-se que o acórdão do Tribunal a quo baseou-se nos mesmos termos e fundamentos do julgado que uniformizou a interpretação constitucional no sentido de que as taxas cobradas em razão exclusivamente dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis são constitucionais, ao passo que é inconstitucional a cobrança de valores tidos como taxa em razão de serviços de conservação e limpeza de logradouros públicos.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2014.
+Ministro LUIZ FUX
+Relator
+documento assinado digitalmente
