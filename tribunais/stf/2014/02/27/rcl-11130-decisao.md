@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de reclamação contra sentença proferida pelo Juízo da 72ª Vara do Trabalho de São Paulo. Alega a empresa reclamante, em síntese, que o ato impugnado implicou substituição do salário-mínimo pelo salário contratual do autor da ação trabalhista, para efeito de base de cálculo de adicional de insalubridade. Assim, teria havido ofensa aos termos da Súmula Vinculante 4. O Ministro Ayres Britto deferiu a liminar, para suspender os efeitos do acórdão reclamado. A Procuradoria-Geral da República opinou pela procedência da reclamação.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l , CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88).
+    No caso, há desrespeito à Súmula Vinculante 4, conforme se depreende de trecho do ato impugnado, que não revela existência de convenção coletiva fixando base distinta do salário-mínimo, mas acolhe alegação do autor da ação trabalhista, que apenas sustenta ser vedada a adoção do salário-mínimo:
+    Sendo assim, verifica-se que a parte autora esteve exposta ao contato com agentes insalubres ao longo de seu contrato de trabalho, não prevalecendo as impugnações da ré. Portanto, condena-se a ré no pagamento de adicional de insalubridade em grau médio (20%), calculado sobre o salário contratual básico (respeitada a sua evolução, na forma da S. 228 do E. TST e S. 4 do E. STF), com reflexos em aviso prévio, 13º salário, férias acrescidas de 1/3 e FGTS a 11,2%. (fl. 96 do arquivo eletrônico ‘Documento comprobatório’)
+    Assim, verifica-se que o ato impugnado incorreu na proibição constante da parte final da Súmula Vinculante 4, porquanto substituiu, por decisão judicial, o salário mínimo pelo salário contratual.
+    3. Ante o exposto, julgo procedente a reclamação, para cassar o acórdão reclamado no ponto em que fixa o salário contratual como base de cálculo do adicional de insalubridade, a fim de que, em novo julgamento, seja observada, se for o caso, a Súmula Vinculante 4/STF.
+    Publique-se. Intime-se.
+    Brasília, 27 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
