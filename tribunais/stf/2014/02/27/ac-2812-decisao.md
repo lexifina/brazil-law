@@ -1,0 +1,13 @@
+DECISÃO:
+Ementa: AÇÃO CAUTELAR. PRETENSÃO DE DAR EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO. REVOGAÇÃO DA LIMINAR. 1. O desprovimento superveniente do recurso extraordinário descaracteriza a plausibilidade das alegações necessárias à manutenção da tutela cautelar. 2. Liminar revogada. 3. Pedido julgado improcedente.
+    1. Trata-se de ação cautelar, com pedido liminar, em que se pretende dar efeito suspensivo ao RE 519.778. Naquele recurso, impugna-se acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, que julgou improcedente ação direta de inconstitucionalidade estadual e declarou a validade da Lei nº 228/2004, do Município de Natal.
+    2. O Min. Joaquim Barbosa, relator originário do feito, deferiu a medida liminar, em razão dos possíveis impactos ambientais que decorreriam da aplicação da lei declarada constitucional.
+    3. É o relatório. Decido.
+    4. Na data de hoje, neguei provimento monocraticamente ao RE 519.778, em decisão que recebeu a seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE ESTADUAL. LEI MUNICIPAL QUE ALTERA REGIME DE OCUPAÇÃO DO SOLO DE ZONA DE PROTEÇÃO AMBIENTAL. 1. O art. 225, § 1º, III, da Constituição prevê a necessidade de lei para redução ou supressão de espaços territoriais especialmente protegidos, como forma de reforçar a proteção institucional do meio ambiente, direito fundamental de caráter intergeracional e essencial à sadia qualidade de vida. 2. Todavia, a validade abstrata de leis dessa espécie não depende da elaboração de prévio estudo técnico. 3. O mero risco potencial de danos ambientais, em regra, não serve, por si só, para impedir completamente o desempenho de atividades econômicas. A defesa do meio ambiente não é o único princípio da ordem econômica (art. 170 da Constituição). 4. O princípio da precaução pode ser satisfeito com o controle concreto dos licenciamentos ambientais, não impedindo a alteração de regime de ocupação do solo por lei. 5. As complexidades técnicas relativas à análise ambiental da área, aliadas à presunção de constitucionalidade das leis, recomendam postura de autocontenção judicial. 6. Ausência de vícios formais no acórdão. 7. Recurso a que se nega seguimento.”
+    5. Não sendo, portanto, procedentes as razões invocadas pelo recorrente, descaracteriza-se a plausibilidade necessária para sustentar a manutenção da medida liminar inicialmente deferida nestes autos.
+    6. Diante do exposto, com base no art. 21, § 1º, do RI/STF, revogo a medida liminar e nego seguimento ao pedido.
+    Publique-se. Intimem-se.
+    Brasília, 27 de fevereiro de 2014.
+Ministro LUÍS ROBERTO BARROSO
+Relator
