@@ -1,0 +1,43 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pelo advogado Marco Wadhy Rebehy em favor de Luiz Carlos Seller, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC nº 42.049/SP, Relatora a Ministra Maria Thereza de Assis Moura.
+    Sustenta o impetrante, em linhas gerais, o constrangimento ilegal imposto ao paciente, tendo em vista que as medidas cautelares diversas da prisão, previstas nos incisos II, VI e VIII do art. 319 do Código de Processo Penal teriam sido aplicadas sem motivação idônea que as justificasse.
+    Aduz, ainda, que afastada a custódia cautelar do paciente “as outras medidas cautelares diversas da prisão deveriam ser regularmente motivadas, à luz dos critérios de necessidade e adequação, bem como respeitar a proporcionalidade, tendo em vista o princípio da presunção de inocência (art. 5º, LVII, da CF)”.
+    Requer, liminarmente, a concessão da ordem para que sejam revogadas as medidas cautelares em questão.
+    Examinados os autos, decido.
+    O julgado impugnado está assim ementado:
+    “PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. FRAUDE À LICITAÇÃO, FALSIDADE IDEOLÓGICA E QUADRILHA. OPERAÇÃO FRATELLI. PRISÃO PREVENTIVA CONVERTIDA EM MEDIDAS CAUTELARES. FIANÇA. SUSPENSÃO DE ATIVIDADE ECONÔMICA. POSSIBILIDADE DE REITERAÇÃO DELITIVA. CABIMENTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO DESPROVIDO.
+    1. O Estatuto Processual Penal admite a adoção de medidas cautelares diversas da prisão, observando-se a adequação e necessidade de tais imposições. É de ver que, no processo penal de cariz democrático, a liberdade é a regra, a qual deve ser prestigiada diuturnamente.
+    2. O instituto da fiança tem por finalidade a garantia do juízo, assegurando a presença do acusado durante a persecução criminal e o bom andamento do feito. Interpretando sistematicamente a lei, identifica-se uma finalidade secundária na medida, que consiste em assegurar o juízo também para o cumprimento de futuras obrigações financeiras.
+    3. No caso concreto, o Tribunal a quo justificou seu posicionamento considerando ‘a existência de indícios razoáveis da imputação contida na denúncia, que é de conduta criminosa da qual resulta proveito econômico para os denunciados, em detrimento do erário’ (fl. 290). Tal posicionamento não destoa do que dispõe o Código de Processo Penal.
+    4. A suspensão do exercício de atividade de natureza econômica ou financeira está intimamente ligada à possibilidade de reiteração delitiva, e mais, a crimes de natureza financeira.
+    5. Hipótese em que a prática imputada ao recorrente diz respeito a condutas fraudulentas cometidas contra a Administração Pública, com a finalidade de obter vantagem decorrente da adjudicação do objeto da licitação, havendo notícias de que mesmo após a decretação da prisão temporária de alguns envolvidos o grupo continuou a delinquir, perpetrando as fraudes já mencionadas (fl. 283).
+    6. Diante da possibilidade de que o delito volte a ser perpetrado, quando ainda em curso a apuração dos fatos anteriores, plenamente justificada a suspensão do exercício das atividades do recorrente dentro do grupo empresarial.
+    7. Recurso a que se nega provimento” (fl. 41 do anexo 7).
+    Há óbice jurídico-processual para o conhecimento do habeas corpus.
+    No caso, a impetração foi manejada em substituição ao recurso extraordinário, o que esbarra em decisão da Primeira Turma.
+    Confira-se a ementa do julgado paradigma:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS – PRONUNCIAMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA – NOVA IMPETRAÇÃO – IMPROPRIEDADE. Uma vez julgado pelo Superior Tribunal de Justiça o recurso ordinário formalizado em processo revelador de impetração, o acesso ao Supremo faz-se em via das mais afuniladas – mediante recurso extraordinário e não nova impetração” (HC nº 110.055/MG, Relator o Ministro Marco Aurélio, DJe de 9/11/12).
+    Conforme explicitado por sua Excelência, o eminente Ministro Marco Aurélio, “essa óptica há de ser observada, também, no que o acórdão impugnado foi formalizado pelo Superior Tribunal de Justiça em recurso ordinário constitucional em habeas corpus. De duas, uma: ou há, no acórdão proferido, quadro a ensejar a interposição de recurso extraordinário, ou não há. Descabe a volta a estágio anterior, que é o do ajuizamento originário do habeas corpus. No mais, ante os parâmetros fáticos e legais, não existe campo para a concessão da ordem de ofício. Extingo o processo sem o julgamento do mérito”.
+    Entretanto, ressalvo meu entendimento pessoal, já consignado em sentido contrário por ocasião daquele julgamento. Todavia, adoto o entendimento do colegiado e o aplico à espécie.
+    Cabe ressaltar, entretanto, inexistir impedimento para que esta Suprema Corte, quando do manejo inadequado do habeas corpus como substitutivo, analise a questão de ofício nas hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, o que não é o caso dos autos.
+    Apenas para registro, ressalto não haver nenhum ato configurador de flagrante constrangimento ilegal praticado contra o paciente, advindo do julgado que substituiu a sua custódia por medidas cautelares diversas (CP, art. 319), uma vez que se encontra calcado em elementos idôneos, aptos a justificar a sua necessidade, além de se mostrarem razoáveis à luz das circunstâncias do caso concreto.
+    Aliás, esses aspectos foram ressaltados pela Ministra Maria Thereza ao destacar em seu voto que, verbis:
+    “Ainda que de forma sucinta, ao impor a prestação de fiança, o Tribunal a quo justificou seu posicionamento considerando ‘a existência de indícios razoáveis da imputação contida na denúncia, que é de conduta criminosa da qual resulta proveito econômico para os denunciados, em detrimento do erário’ (fl. 290).
+    Como exposto alhures, verifica-se que tal posicionamento não destoa do que dispõe o próprio Código de Processo Penal.
+    De mais a mais, não está demonstrada a existência de prejuízo ao acusado com o recolhimento do valor; mesmo porque o alto numerário estabelecido inicialmente já foi revisto pelo Tribunal a quo, considerando inclusive a situação financeira dos acusados, não podendo tal conclusão ser submetida a este Superior Tribunal de Justiça na angusta via eleita.
+    No que se refere à suspensão do exercício de atividade de administração ou gerência, o recorrente alega que é empresário de ilibada reputação, atuando na área há mais de 35 anos, e que sua subsistência e de seus familiares depende de sua atividade profissional. Assere que a medida foi imposta com base em juízo de probabilidades.
+    Depreende-se do próprio texto legal que a suspensão do exercício de atividade de natureza econômica ou financeira está intimamente ligada à possibilidade de reiteração delitiva, e mais, a crimes de natureza financeira.
+    (…)
+    No caso concreto, a prática imputada ao ora recorrente diz respeito a condutas fraudulentas cometidas contra a administração pública, com a finalidade de obter vantagem decorrente da adjudicação do objeto da licitação.
+    Consoante extrai-se dos autos, mesmo após a decretação da prisão temporária de alguns envolvidos o grupo teria em tese continuado a delinquir, perpetrando as fraudes já mencionadas (fl. 283). Tanto é assim que o Tribunal de origem afirmou que a prisão preventiva dos gerentes, dentre os quais o Sr. Luis Carlos Seller, não estaria evitando o prosseguimento das práticas delitivas.
+    (…)
+    Como visto, o afastamento do Recorrente e dos demais corréus de suas atividades laborais não denota qualquer ato de ilegalidade ou abuso de poder, pois a motivação encontra lastro em fundamentação concreta, constante nos autos da ação penal originária.
+    Em verdade, fica evidente que a permanência do ora recorrente e outros acusados na direção do grupo Scamatti poderia, em tese, permitir que a organização continuasse atuando na esfera administrativa e valendo-se do arranjo preexistente para obter as mesmas vantagens.
+    Diante da possibilidade, em tese, de que o delito volte a ser perpetrado, quando ainda em curso a apuração dos fatos anteriores, plenamente justificada a suspensão do exercício das atividades do recorrente dentro do referido grupo” (fls. 53/54 do anexo 7).
+    Ante o exposto, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
