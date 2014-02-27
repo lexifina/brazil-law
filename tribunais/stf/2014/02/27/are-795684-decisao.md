@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da Turma Recursal da 43º Circunscrição Judiciária do Estado de São Paulo – Casa Branca/SP (fl. 95-96).
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se afronta aos arts. 5º, II e LV; e 93, IX, do texto constitucional.
+    Nas razões recursais, sustenta-se violação aos princípios da isonomia, da legalidade, do contraditório e da ampla defesa, bem como ausência de prestação jurisdicional. Argumenta-se que a parte recorrente agiu de acordo com a legislação vigente à época (Portaria 1.606/2005), que não obrigava a transferência dos veículos para seu nome antes da revenda (fl. 115).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, no tocante à ofensa ao art. 93, IX, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas
+    Além disso, ressalto que esta Corte entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Enunciado 636 da Súmula do STF). Nesse sentido, confira-se o seguinte precedente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. CONTRATO DE COMPRA E VENDA DE VEÍCULO. AUSÊNCIA DE TRANSFERÊNCIA. RESPONSABILIDADE CIVIL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. ALEGADA OFENSA AO ART. 5º, II, DA CONSTITUIÇÃO. SÚMULA 636 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. Precedentes. II - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Precedentes. III - Agravo regimental improvido”. (ARE-AgR 759.711, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 15.10.2013) (Grifo nosso)
+    Por fim, no tocante à suposta violação aos princípios do contraditório e da ampla defesa, verifico que o Supremo Tribunal Federal já apreciou a matéria dos autos no julgamento do ARE-RG 748.371 (Tema 660), oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta.
+     Ante o exposto, nego provimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 27 de fevereiro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
