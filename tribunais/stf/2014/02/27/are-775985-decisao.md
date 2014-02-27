@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da Turma Recursal do Juizado Especial Federal Cível da Seção Judiciária do Estado da Bahia, assim ementado (fls. 87):
+    “FUNDO DE GARANTIA DO TEMPO DE SERVIÇO (FGTS). EXPURGOS INFLACIONÁRIOS. CORREÇÃO DA MULTA RESCISÓRIA DE 40%. ILEGITIMIDADE PASSIVA DA CEF. RECURSO NÃO PROVIDO.
+    1. Ação objetivando condenar a CEF em indenização por perdas e danos, no valor correspondente aos expurgos inflacionários sobre a multa rescisória de 40% sobre o valor devido a título de FGTS.
+    2. Ilegitimidade da CEF para responder por complementação da multa rescisória de 40%, em virtude de sua natureza trabalhista, sendo a empresa pública, apenas, a operadora do fundo.
+    3. Cabe ao empregador, na hipótese de despedida sem justa causa, arcar com a multa rescisória, cabendo-lhe, também, arcar com eventual diferença devida ao empregado.
+    4. Acórdão integrativo proferido nos termos do artigo 46, da Lei nº. 9.099/95, e artigo 40, da Resolução nº. 10/2002, da Presidência do TRF/1ª Região.
+    5. Recurso a que se nega provimento. Sentença mantida por seus próprios fundamentos.
+    6. Sem honorários advocatícios, por força do art. 29-C da Lei nº 8.036/90, incluído pela Medida Provisória nº 2.164/40, de 27 de julho de 2001.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV e LIV, e 37, § 6º, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “com exceção da apontada violação ao art. 5º, XXXV, da CF, objeto de embargos de declaração opostos pela parte recorrente, não foi prequestionada a matéria constitucional trazida nas razões recursais, carecendo o recurso deste requisito de admissibilidade”; (ii) “tal ofensa, se existente, apenas ocorreria de modo indireto ou reflexo”; e (iii) “a despeito de o recurso em tela ter sido interposto com fundamento também na alínea c, do artigo 102, inciso III, da Carta Magna – que trata da situação em que julgada válida lei ou ato de governo local contestado em face da Constituição – não se observa em suas respectivas razões a indicação de quaisquer das hipóteses insertas no referido dispositivo constitucional, legitimadoras do seu manejo, tampouco sendo este o conteúdo do acórdão recorrido” (fls. 126).
+    O recurso não deve ser provido. De início, tal como constatou a decisão agravada, no que diz respeito aos arts. 5º, LIV, e 37, § 6º, da Constituição, nota-se que as alegações de ofensa à Constituição não foram apreciadas pelo acórdão impugnado. Tampouco foram suscitadas nos embargos declaratórios opostos. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, incide a jurisprudência do Supremo Tribunal Federal no sentido de que a diferença decorrente da incidência dos expurgos inflacionários pela LC nº 110/2001 na multa de 40% sobre os depósitos do FGTS é de responsabilidade do empregador. Nessa linha, veja-se a ementa do RE 584.608 RG, julgado sob a relatoria da Ministra Ellen Gracie:
+    “Rescisão do contrato de trabalho. Diferença decorrente da incidência dos expurgos inflacionários reconhecidos pela LC 110/2001 na multa de 40% sobre os depósitos do FGTS. Responsabilidade do empregador. Prescrição. Matéria infraconstitucional. Precedentes. Inexistência de repercussão geral em face da impossibilidade de exame de alegação de ofensa indireta à Constituição Federal em recurso extraordinário.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 27 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
