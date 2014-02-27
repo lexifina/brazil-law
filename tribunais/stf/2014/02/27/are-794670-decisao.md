@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio de Janeiro ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. CONCURSO PÚBLICO DE ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADO DA POLÍCIA MILITAR. CANDIDATO ELIMINADO NA ETAPA DE EXAME SOCIAL POR NÃO POSSUIR CONDUTA SOCIAL ADEQUADA AO EXERCÍCIO DA FUNÇÃO. PREVISÃO DE ELIMINAÇÃO PREVISTA NO EDITAL. CONTEXTO FÁTICO-PROBATÓRIO QUE DÁ CONTA DA EXISTÊNCIA DO DIVERSOS REGISTROS DE OCORRÊNCIA E DE ILÍCITOS CIVIS QUE JUSTIFICAM A ELIMINAÇÃO DO CANDIDATO. AUSÊNCIA DE VIOLAÇÃO AO POSTULADO DA PRESUNÇÃO DE INOCÊNCIA, UMA VEZ QUE A EXCLUSÃO NÃO SE DEU PELA SUPOSTA PRÁTICA DE CRIMES, MAS PELA PESQUISA SOCIAL DO CANDIDATO, QUE APRESENTA COMPORTAMENTO INCOMPATÍVEL COM A FUNÇÃO PRETENDIDA. PRECEDENTES JURISPRUDENCIAIS. DESPROVIMENTO”. (eDOC 8, p. 2)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 5º, LIV e LVII; e 37, I, II e IX, do texto constitucional.
+    Nas razões recursais, alega-se que o Tribunal de origem afrontou os princípios constitucionais da presunção da inocência, da razoabilidade e do livre acesso a cargo público, ao considerar válido o ato administrativo de reprovação do ora recorrente, na etapa de exame social no concurso de policial militar do Estado do Rio de Janeiro.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o acórdão recorrido decidiu a controvérsia acerca da eliminação do candidato no exame social, em razão de ter sido a ele imputado comportamento incompatível com a função pretendida, com base nos elementos fático-probatórios dos autos e no edital que rege o certame.
+    Dessa forma, para se entender de forma diversa, far-se-ia imprescindível a revisão dos fatos e provas analisados, bem como das regras do edital do concurso, providência vedada em sede de recurso extraordinário, nos termos dos Enunciados 279 e 454 da Súmula desta Corte. Confira-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. EXCLUSÃO DE CANDIDATO EM INVESTIGAÇÃO SOCIAL. 1. CONTROLE JUDICIAL DA DISCRICIONARIEDADE ADMINISTRATIVA: INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. 2. CONTROVÉRSIA SOBRE OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE, DA PROPORCIONALIDADE E DA ISONOMIA: SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 699.911, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 26.9.2012)
+    Cito ainda as seguintes decisões monocráticas, que tratam de controvérsia análoga à destes autos, ARE 729.188, Rel. Min. Ricardo Lewandowski, DJe 27.2.2013; ARE 715.387, Rel. Min. Dias Toffoli, DJe 13.11.2012, e ARE 715.044, Rel. Min. Cármen Lúcia, DJe 8.11.2012.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 27 de fevereiro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
