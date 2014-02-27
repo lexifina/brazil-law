@@ -1,0 +1,21 @@
+DECISÃO:
+Ementa: RECLAMAÇÃO. LIMINAR. EMPREGADO DE SOCIEDADE DE ECONOMIA MISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. 1. Em sede de cognição sumária, não ofende a autoridade do acórdão proferido na ADI 3.395-MC decisão que considera a Justiça do Trabalho competente para julgar disputa entre empregado público celetista não concursado e sociedade de economia mista. 2. Medida liminar indeferida.
+    1. Trata-se de reclamação, com pedido liminar, na qual se questiona decisão monocrática proferida por Desembargador do Tribunal Regional do Trabalho da 2ª Região, que teria violado a autoridade do acórdão proferido por este Tribunal na ADI 3.395-MC.
+    2. Narra a parte reclamante que responde a ação movida na Justiça do Trabalho por empregado que, depois de ter sido admitido em “cargo de confiança”, sem concurso público, foi exonerado e pretende ser reintegrado, alegando ser detentor de estabilidade sindical. O Tribunal reclamado, em decisão liminar, determinou a reintegração pretendida.
+    3. Durante o recesso forense, a Presidência solicitou informações ao Tribunal reclamado, as quais foram prestadas.
+    4. É o relatório. Decido.
+    5. Depreende-se dos autos que a ora reclamante, sociedade de economia mista, contratou o interessado para exercer “cargo de confiança” de “Assistente Técnico Executivo I”, sujeito ao regime da CLT. Irresignado com sua dispensa, o empregado ajuizou reclamação na Justiça do Trabalho, em que pede reintegração por estabilidade sindical.
+    6. Ao julgar a ADI 3.395-MC, este Tribunal deferiu a medida cautelar para suspender toda e qualquer interpretação dada ao inciso I do art. 114 da CF, na redação dada pela EC nº 45/2004, que inclua, na competência da Justiça do Trabalho, a apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+    7. As sociedades de economia mista estão sujeitas ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações trabalhistas (CRFB/1988, art. 173, § 1º, II). Independentemente de saber se o interessado deveria ou não ter sido submetido a concurso público, conclui-se que a relação ora discutida não é de ordem estatutária ou de caráter jurídico-administrativo, mas de natureza trabalhista.
+    8. Por esta razão, a decisão firmada na ADI 3.395-MC não afasta a competência da Justiça do Trabalho no caso. Nem se aplicam os precedentes citados na inicial, já que não se está diante de cargo em comissão (CRFB/1988, art. 37, II, in fine), mas de emprego. Nesse sentido:
+    “4. Não se cuida do exercício de cargos em comissão ou de funções gratificadas, stricto sensu, especialmente porque se cogita, aí, de pessoas jurídicas de direito privado.” (ADI 1.485-MC, Rel. Min. Néri da Silveira)
+    9. Ainda que assim não fosse, não há nos autos prova de que o interessado ocupe “cargo em comissão declarado em lei de livre nomeação e exoneração” (CRFB/1988, art. 37, II, in fine), já que não há menção na inicial à suposta lei que teria instituído o cargo em questão.
+    10. Além disso, a acolher-se a tese da reclamante, haveria um paradoxo: de um lado, as causas referentes a empregados públicos contratados sem concurso – situação mais próxima do regime trabalhista – seriam julgadas pela Justiça Comum; de outro, as disputas envolvendo empregados públicos concursados – figura mais próxima do regime estatutário comum – seriam decididas pela Justiça do Trabalho.
+    11. A meu ver, o fator determinante para a competência não é a realização ou não de concurso público, mas sim o regime jurídico que disciplina as relações entre as partes: celetista ou estatutário.
+    12. Assim, embora haja decisões monocráticas em sentido diverso (Rcl 16.400-MC, Rel. Min. Celso de Mello), não noto plausibilidade nas alegações da inicial. Vejo ainda que há caso semelhante sem decisão definitiva deste Tribunal (Rcl 9.135, Rel. Min. Cezar Peluso).
+    13. Diante do exposto, indefiro a medida liminar.
+    14. Colha-se o parecer do Procurador-Geral da República.
+    Publique-se. Intimem-se. Comunique-se.
+          Brasília, 27 de fevereiro de 2014
+Ministro LUÍS ROBERTO BARROSO
+Relator
