@@ -1,0 +1,11 @@
+DECISÃO :
+    Trata-se de recurso extraordinário, interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. APELAÇÃO CÍVEL. SOLUÇÃO IMEDIATA. AGRAVO LEGAL. DECISÃO AGRAVADA. POSSIBILIDADE. CONTRIBUIÇÃO AO SAT. PEDIDO DE SUSPENSÃO DE EXIGIBILIDADE DO FAP. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA LEGALIDADE. 1- Viável solver o apelo por meio de decisão terminativa quando o seu objeto confronta jurisprudência dominante ou está em sintonia com precedentes dos tribunais superiores. Inteligência dos artigos 557 - caput e §1º -A -, do CPC e 5º , inciso LXXVIII, da CF. 2- A regulamentação da metodologia do FAP através dos Decretos nº s 6.042/07 e 6.957/09 não implica afronta ao princípio da legalidade insculpido no artigo 150, inciso I, da CF, já que as disposições essenciais à cobrança da contribuição se encontram delineadas nas Leis nº s 8.212/91 e 10.666/03. 3- A disposição acerca da flexibilização das alíquotas, que garante a aplicação prática dos fatores de redução (50%) e de majoração (100%) não implica extrapolamento das disposições legais contidas na Lei nº 10.666/03.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, I; 154, I; 195, § 4º; 146, II e 201, I, todos da Carta. Sustenta que a contribuição social em comento não figura dentre as exceções que permitem mitigar a exigência de lei para a definição da alíquota.
+    O Supremo Tribunal Federal reconheceu a repercussão geral da questão ora discutida. Nessa linha, veja-se a ementa RE 684.261-RG, Rel. Min. Luiz Fux:
+    “RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. CONTRIBUIÇÃO. SEGURO ACIDENTE DE TRABALHO. RISCOS ACIDENTAIS DO TRABALHO. FATOR ACIDENTÁRIO DE PREVENÇÃO. LEGALIDADE TRIBUTÁRIA. DISCUSSÃO SOBRE A FIXAÇÃO DE ALÍQUOTA. DELEGAÇÃO PARA REGULAMENTAÇÃO. RESOLUÇÃO DO CONSELHO NACIONAL DE PREVIDÊNCIA SOCIAL. PRECEDENTE DO SUPREMO NO RE 343.446-2, RELATOR MINISTRO CARLOS VELLOSO. REPERCUSSÃO GERAL RECONHECIDA..”
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 27 de fevereiro de 2014.
+Ministro Luís Roberto Barroso
+Relator
