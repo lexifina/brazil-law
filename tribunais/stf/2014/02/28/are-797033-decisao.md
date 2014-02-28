@@ -1,0 +1,20 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário criminal.
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação ao art. 5º, LV, da mesma Carta.
+     O agravo não merece acolhida. É que o recorrente deixou de atacar os fundamentos da decisão agravada, limitando-se a repetir as razões do extraordinário. Incumbe ao agravante o dever de impugnar, de forma específica, os fundamentos da decisão recorrida, sob pena de não seguimento do recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO. SÚMULA 287 DO STF. NORMAS INFRACONSTITUCIONAIS LOCAIS. SÚMULA 280 DO STF. INCIDÊNCIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO.
+    I - A agravante não atacou todos os fundamentos da decisão que inadmitiu o recurso extraordinário. Inviável, portanto, o presente recurso, a teor da Súmula 287 do STF.
+    (...)
+    IV - Agravo regimental improvido” (AI 598.574-AgR/MG, de minha relatoria, Primeira Turma).
+    “AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO A AGRAVO DE INSTRUMENTO INTERPOSTO DE DESPACHO QUE INADMITIRA RECURSO EXTRAORDINÁRIO. ART. 557 DO CÓDIGO DE PROCESSO CIVIL.
+    (...)
+    O agravo de instrumento que visava destrancar o recurso extraordinário inadmitido não abordou as questões que fundamentaram a decisão agravada, fato impeditivo de sua análise, conforme disposto na Súmula 287 desta Corte.
+    Agravo regimental a que se nega provimento” (AI 546.729-AgR/BA, Rel. Min. Joaquim Barbosa, Segunda Turma).
+    Além disso, mesmo que superado tal óbice, melhor sorte não teria o recorrente, tendo em vista que o entendimento deste Tribunal é assente no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa.
+    Por oportuno, transcrevo, respectivamente, as ementas do AI 580.465-AgR/SP, Rel. Min. Cármen Lúcia, e do AI 757.450-AgR/MT, Rel. Min. Eros Grau:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DESTE SUPREMO TRIBUNAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (...). 2. O Supremo Tribunal Federal firmou jurisprudência no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República. Precedentes. 3. Agravo regimental desprovido” (grifos meus).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRIMINAL. HOMICÍDIO. NULIDADE DO JULGAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. (...) 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de violação meramente reflexa do texto da Constituição. Agravo regimental a que se nega provimento” (grifos meus).
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
