@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de processo em que se discute a constitucionalidade do sistema de alíquotas empregado pelo Município do Rio de Janeiro na Lei nº 2.955/1999. Controverte-se, inicialmente, sobre a possibilidade de utilização do sistema de alíquotas seletivas antes da Emenda Constitucional nº 29/2000. Não obstante, busca-se definir se o mecanismo empregado equivaleria ao regime de progressividade.
+    Em que pese a jurisprudência do Supremo Tribunal Federal estar sedimentada no sentido da inadmissibilidade do emprego de alíquotas progressivas para o IPTU antes da Emenda Constitucional nº 29/00, é certo que a Lei Municipal em questão envolve a seletividade de alíquotas com base na destinação do imóvel. É preciso investigar se tal técnica, que busca a realização da capacidade contributiva e o estímulo ao cumprimento da função social da propriedade, poderia ser utilizada na conformação constitucional contemplada pelo constituinte originário.
+    O Supremo Tribunal Federal concluiu pela presença de repercussão geral na matéria em exame, tratando especificamente da mesma norma objeto de discussão nestes autos (RE 666.156, Rel. Min. Roberto Barroso, Tema 523). Confira-se a ementa da decisão:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA IPTU. ALÍQUOTAS DIFERENCIADAS. IMÓVEIS RESIDENCIAIS, NÃO RESIDENCIAIS, EDIFICADOS E NÃO EDIFICADOS. PERÍODO ANTERIOR À EMENDA CONSTITUCIONAL 29/2000.
+    Possui repercussão geral a questão constitucional atinente à possibilidade de instituir alíquotas de IPTU distintas para imóveis residenciais, não residenciais, edificados e não edificados, no período anterior à Emenda Constitucional 29/2000.”
+    No que tange aos agravos regimentais que impugnam decisões monocráticas proferidas em processos que versem sobre tema cuja repercussão geral foi reconhecida, a Segunda Turma desta Corte, ao apreciar o RE 565.153-AgR-QO (Rel. Min. Ellen Gracie, DJe de 21/11/2008), decidiu reconsiderar as decisões agravadas para determinar a devolução dos autos ao Tribunal de origem (art. 543-B, CPC), ficando prejudicados os recursos interpostos.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, reconsidero a decisão agravada e determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B, do CPC, julgando prejudicado o agravo regimental.
+    Publique-se
+          Brasília, 28 de fevereiro de 2014.
+Ministro LUÍS ROBERTO BARROSO
+Relator
