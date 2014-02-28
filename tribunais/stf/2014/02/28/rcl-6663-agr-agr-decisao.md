@@ -1,0 +1,17 @@
+000    DECISÃO: Trata-se de reclamação, ajuizada pela União, por suposta ofensa à autoridade do quanto assentado na Ação Declaratória de Constitucionalidade nº 4/DF, contra decisão de antecipação de tutela proferida nos autos da Ação Ordinária nº 2008.34.00.022230-9, que determinou pronto pagamento de indenização de ajuda de custo e transporte.
+    Em 24 de setembro de 2008, o então relator, Min. Cezar Peluso, julgou procedente a reclamação para suspender os efeitos da decisão impugnada, inclusive a prática de todo ato processual relacionado à tutela inibida (fl. 39-40).
+    No entanto, interposto agravo regimental pelo Sindicato Nacional dos Procuradores da Fazenda Nacional (SINPROFAZ), o Ministro Cezar Peluso reconsiderou a decisão de fl. 39-40, ao fundamento de cuidar de antecipação de tutela de verba indenizatória (f. 60-63).
+    Irresignada, a União interpôs agravo regimental (fls. 272-281) insistindo na afronta à ADC nº 4, uma vez que o acórdão-paradigma não fizera nenhuma distinção entre tipos de vantagens pecuniárias que caracterizariam hipóteses de vedação de tutela provisória contra atos do Poder Público.
+    Passo a decidir.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República por entender que o processo reúne condições de julgamento (art. 52, parágrafo único, RISTF).
+    Assiste razão à agravante. Verificam-se os pressupostos indispensáveis da reclamação, uma vez que o acórdão reclamado versa objeto semelhante ao quadro normativo apreciado no acórdão-paradigma.
+    Com efeito, o julgamento da Ação Declaratória de Constitucionalidade nº 4, Rel. Min. Menezes Direito, Pleno, DJe 15.10.2008, assentou a constitucionalidade do art. 1º da Lei nº 9.494/1997, que não faz qualquer distinção entre as verbas indenizatórias e remuneratórias. Nessa linha, a jurisprudência desta Corte tem se orientado no sentido de que o deferimento de liminar ou tutela antecipada que conceda vantagem pecuniária, ainda que a título de indenização ou ajuda de custo, ofende a autoridade da ADC 4:
+    “CONSTITUCIONAL. TUTELA ANTECIPADA: SERVIDOR PÚBLICO: VANTAGEM PECUNIÁRIA. Lei 9.494/97, art. 1º. Lei 4.348/64, art. 5º, parágrafo único, art. 7º. Lei 5.021/66, art. 1º, § 4º; Lei 8.437/92, artigos 1º e 3º. I. - Tutela antecipada para o fim de serem pagos, sob color de indenização, vencimentos e vantagens pecuniárias a servidores públicos, sem observância de precatório: violação ao disposto na Lei 4.348/64, art. 5º, parágrafo único, art. 7º; Lei 5.021/66, art. 1º, § 4º; Lei 8.437/92, arts. 1º e 3º, aplicáveis ex vi do disposto no art. 1º da Lei 9.494/97, que o Supremo Tribunal Federal entendeu constitucional: ADC 4-MC/DF, RTJ 169/383. II. - Agravo não provido.” (Rcl-Agr 1996/RS, Rel. Min. Carlos Velloso, Pleno, DJ 7.3.2003)
+    A propósito, confiram-se os seguintes precedentes: Rcl 5044/SP, de minha relatoria, Pleno, DJe 11.4.2008; e Rcl-AgR 5013/SP, Rel. Min. Menezes Direito, Pleno, DJe 18.4.2008.
+    Ante o exposto, reconsidero a decisão de fls. 60-63 para julgar procedente a reclamação, de forma a cassar a liminar concedida nos autos da Ação Ordinária nº 2008.34.00.022230-9, em curso no Juízo da 20ª Vara Federal da Seção Judiciária do Distrito Federal, restando prejudicado o agravo regimental de fls. 272-281 (arts. 21, § 1º, e 161, parágrafo único, RISTF).
+    Comunique-se.
+    Publique-se.
+Brasília, 28 de fevereiro de 2014.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
