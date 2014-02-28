@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado da Bahia de inadmissibilidade ao recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “CONCURSO PÚBLICO. IMPUGNAÇÃO DO CÁLCULO DA NOTA DO CANDIDATO. PRELIMINAR DE PRESCRIÇÃO SUSCITADA PELO ESTADO DA BAHIA. PRAZO QUE DEVE SER COMPUTADO DA DATA DE PUBLICAÇÃO DO DESVIO PADRÃO. DATA NAO IMPUGNADA PELO ESTADO. PRELIMINAR REJEITADA. PREVISÃO EDITALÍCIA NÃO OBSERVADA. CÁLCULO EQUIVOCADO. PROCEDÊNCIA DO PEDIDO.
+    1. Inicialmente, convém rechaçar a preliminar de prescrição suscitada pelo Estado da Bahia, porquanto conste dos autos que a Apelante tomou ciência das notas do grupo e do desvio padrão de sua Região em 2005, devendo este ser o termo para contagem do prazo prescricional, por se referir a ação à impugnação do método de cálculo.
+    2. O item 6.6 do edital (fl. 20) estabelece que a aprovação na prova objetiva estaria condicionada à obtenção de nota igual ou superior a 50 pelo candidato, calculada pela fórmula constante do item 6.5, que estabelece a obrigatoriedade do uso do desvio padrão relativo ao grupo, neste considerada a região escolhida pelo candidato, que no caso dos autos se inscreveu para as vagas da região de Salvador.
+    3. O cotejo da lista divulgada pela SAEB demonstra que o apelado utilizou desvio padrão de distribuição 5,6097, usado para os candidatos de Salvador (fl. 26), ao invés de usar o desvio-padrão 10, previsto no item 6.2 do edital, que é o instrumento convocatório do concurso.
+    4. Como é consabido, o concurso público é regido pelo princípio da vinculação ao Edital, o qual, por consagrar de modo pontual as normas que regerão ao certame, deve ser fielmente seguido pela Administração.
+    5. Assim, o item do edital que previa o desvio-padrão a ser utilizado na contagem dos pontos vincula a Administração, que calculou fórmula equivocada, em violação ao art. 41 da Lei n. 8.666/93.
+    6. Impõe-se, assim, a observância das normas editalícias, com a aplicação do item 6.2 deste instrumento convocatório, circunstância que impõe o provimento do Apelo.
+    7. Em razão da reforma que ora se opera, revela-se imperativa a reversão do ônus da sucumbência, devendo o Estado da Bahia ser condenado ao pagamento de honorários advocatícios, que fixo em R$ 2.000,00 (dois mil reais).
+    RECURSO PROVIDO” (eDOC 1, p. 175 e 176)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se violação aos artigos 37, caput, II e IV; 25; 84, II e XXV; 2º; 5º, XXXV; e 93, IX, do texto constitucional.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, com relação à alegada ofensa aos artigos 93, IX, e 5º, XXXV, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010.
+    Nessa oportunidade, o STF reconheceu a existência de repercussão geral do tema e reafirmou sua jurisprudência no sentido de que os referidos artigos exigem que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas. Eis a ementa do citado precedente da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010)”.
+    Na espécie, o tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador.
+    Dessa forma, verifico que a prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses dos recorrentes. Portanto, não prospera a alegação de reforma do acórdão impugnado.
+    Ademais, observo, ainda, que é firme a jurisprudência desta Corte no sentido de que a controvérsia a respeito dos requisitos estabelecidos em edital de concurso público constituem matéria de índole infraconstitucional, o que inviabiliza a interposição do apelo extremo, visto que não há ofensa direta ao texto constitucional.
+    Nesse sentido, cito o RE-AgR 524.547, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 4.6.2012:
+    “AGRAVO REGIMENTAL. CONCURSO PÚBLICO. PROVA DE TÍTULOS. ATRIBUIÇÃO DE PONTOS. SEPARAÇÃO DE PODERES. AUSÊNCIA DE PREQUESTIONAMENTO. REQUISITOS DO EDITAL. MATÉRIA INFRACONSTITUCIONAL E REEXAME DE PROVA. PRECEDENTES. Agravo regimental a que se nega provimento.”
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 28 de fevereiro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
