@@ -1,0 +1,38 @@
+DECISÃO: Trata-se de reclamação na qual se sustenta que os atos ora reclamados teriam desrespeitado a autoridade de decisões que esta Suprema Corte proferiu, com efeito vinculante, nos julgamentos da  ADI 849/MT, Rel. Min. SEPÚLVEDA PERTENCE, da ADI 1.779/PE, Rel. Min. ILMAR GALVÃO, e da ADI 3.715/TO, Rel. Min. GILMAR MENDES.
+    Busca-se, nesta sede processual, a declaração de nulidade dos atos ora impugnados, resultantes de deliberações emanadas de Tribunal de Contas estadual.
+    Por entender ocorrentes os requisitos concernentes à plausibilidade jurídica e ao “periculum in mora”, concedi provimento cautelar suspensivo da eficácia dos atos ora questionados.
+    Em razão desse ato decisório, foi interposto o pertinente recurso de agravo.
+    Sendo esse o contexto, cabe verificar, preliminarmente, se se revela admissível, ou não, no caso em exame, a utilização do instrumento constitucional da reclamação, no que se refere ao alegado desrespeito à autoridade das decisões proferidas por esta Suprema Corte nos autos da  ADI 849/MT, Rel. Min. SEPÚLVEDA PERTENCE, da ADI 1.779/PE, Rel. Min. ILMAR GALVÃO, e da ADI 3.715/TO, Rel. Min. GILMAR MENDES.
+    Entendo que não, a despeito de minha posição pessoal que reconhece admissível o instrumento da reclamação em situações como a destes autos.
+    Não se desconhece que há aqueles que sustentam a possibilidade de invocar-se, para fins de reclamação, o denominado efeito transcendente da fundamentação que deu suporte ao julgamento proferido em sede de fiscalização abstrata (RTJ 193/513, Rel. Min. GILMAR MENDES – Rcl 1.987/DF, Rel. Min. MAURÍCIO CORRÊA), em ordem a reconhecer que o alcance da eficácia vinculante pode estender-se para além da parte dispositiva do acórdão, abrangendo, também, os próprios fundamentos subjacentes à decisão emanada do Supremo Tribunal Federal.
+    Também partilho desse mesmo entendimento (Rcl 2.986-MC/SE, Rel. Min. CELSO DE MELLO), vale dizer, o de que é possível reconhecer, em nosso sistema jurídico, a existência do fenômeno da “transcendência dos motivos que embasaram a decisão” emanada desta Suprema Corte em processo de fiscalização abstrata, para que se torne viável proclamar, em decorrência dessa orientação, que o efeito vinculante refere-se, igualmente, à própria “ratio decidendi”, projetando-se, em consequência, para além da parte dispositiva do julgamento que se proferiu em sede de controle normativo abstrato.
+    Ocorre, no entanto, que o Plenário do Supremo Tribunal Federal tem reiteradamente rejeitado essa tese (Rcl 2.475-AgR/MG, Rel. p/ o acórdão Min. MARCO AURÉLIO – Rcl 3.014/SP, Rel. Min. AYRES BRITTO – Rcl 3.249-AgR/RN, Rel. Min. DIAS TOFFOLI – Rcl 6.204-AgR/AL, Rel. Min. EROS GRAU – Rcl 6.319-AgR/SC, Rel. Min. EROS GRAU – Rcl 9.778-AgR/RJ, Rel. Min. RICARDO LEWANDOWSKI – Rcl 11.831- -AgR/CE, Rel. Min. CÁRMEN LÚCIA – Rcl 14.098/TO, Rel. Min. ROBERTO BARROSO – Rcl 14.111/DF, Rel. Min. TEORI ZAVASCKI – Rcl 14.391/MT, Rel. Min. ROSA WEBER – Rcl 15.225/SP, Rel. Min. MARCO AURÉLIO, v.g.), o que me impõe, por efeito do princípio da colegialidade, a observância do que prevaleceu em tais julgamentos, ainda que contra o meu próprio voto:
+    “(...) II. Agravo regimental. Desprovimento. Em recente julgamento, o Plenário do Supremo Tribunal Federal rejeitou a tese da eficácia vinculante dos motivos determinantes das decisões de ações de controle abstrato de constitucionalidade (RCL 2475-AgR, j. 2.8.07).”
+    (Rcl 2.990-AgR/RN, Rel. Min. SEPÚLVEDA PERTENCE – grifei)
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE DESCUMPRIMENTO DO QUE DECIDIDO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 2.229/ES.
+    1. Inexistência de identidade material entre a decisão reclamada e o julgado tido como paradigma.
+    2. Inaplicabilidade da teoria dos motivos determinantes. Precedentes.
+    3. Agravo regimental ao qual se nega provimento.”
+    (Rcl 5.216-AgR/PA, Rel. Min. CÁRMEN LÚCIA – grifei)
+    Vale registrar, ainda, que essa mesma orientação tem sido perfilhada em diversos outros julgamentos, inclusive versando o mesmo tema destes autos (Rcl 14.266/RJ, Rel. Min. LUIZ FUX), todos no sentido da rejeição da tese do efeito vinculante dos motivos determinantes das decisões proferidas em sede de fiscalização concentrada de constitucionalidade (Rcl 5.087- -MC/SE, Rel. Min. AYRES BRITTO – Rcl 5.365-MC/SC, Rel. Min. AYRES BRITTO – Rcl 13.185/DF, Rel. Min. ROSA WEBER – Rcl 14.101/RN, Rel. Min. CÁRMEN LÚCIA – Rcl 14.258/SP, Rel. Min. RICARDO LEWANDOWSKI – Rcl 14.425/RS, Rel. Min. ROSA WEBER, v.g.):
+    “RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À DECISÃO DO SUPREMO TRIBUNAL FEDERAL. ADI 3.768. INEXISTÊNCIA. TEORIA DA TRANSCENDÊNCIA DOS MOTIVOS DETERMINANTES. INAPLICABILIDADE. AUSÊNCIA DE IDENTIDADE DE TEMAS ENTRE O ATO RECLAMADO E O PARADIGMA DESTA CORTE. NEGATIVA DE SEGUIMENTO.
+    1. A ausência de identidade entre o ato impugnado e a decisão apontada como violada é circunstância que inviabiliza o conhecimento da reclamação. Precedentes.
+    2. A eficácia vinculante dos motivos determinantes de ações de controle abstrato de constitucionalidade restou rejeitada pelo Supremo Tribunal Federal. Precedentes:  Rcl 3.294-AgR, Rel. Min. Dias Toffoli, Pleno, Dje de 29/11/2011; Rcl 9.778-AgR, Rel. Min. Ricardo Lewandowski, Pleno, Dje de 11/11/2011; Rcl 3.014, Rel. Min. Ayres Britto, Pleno, Dje de 21/05/2010.
+    …...................................................................................................
+    5. Reclamação a que se nega seguimento.”
+    (Rcl 11.555/MG, Rel. Min. LUIZ FUX – grifei)
+    É por tal razão que esta Suprema Corte, apreciando controvérsia jurídica idêntica à versada nesta reclamação, entendeu inocorrente situação de desrespeito à autoridade das decisões invocadas como referências paradigmáticas pela parte reclamante, ora agravada:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. PRESTAÇÃO DE CONTAS POR PREFEITO AO TRIBUNAL DE CONTAS DOS MUNICÍPIOS. INAPLICABILIDADE  DA TRANSCENDÊNCIA DOS FUNDAMENTOS DETERMINANTES ADOTADOS NO JULGAMENTO DAS AÇÕES DIRETAS DE INCONSTITUCIONALIDADE N. 3.715/TO, 1.779/PE  E 849/MT. PRECEDENTES. AGRAVO REGIMENTAL  AO QUAL SE NEGA PROVIMENTO.”
+    (Rcl 11.479-AgR/CE, Rel. Min. CÁRMEN LÚCIA, Pleno – grifei)
+    “RECLAMAÇÃO. TRIBUNAL DE CONTAS. JULGAMENTO DE PREFEITO.
+    1. A jurisprudência do Supremo Tribunal Federal se firmou no sentido de que, em sede de controle abstrato de constitucionalidade, a eficácia vinculante dos acórdãos abrange apenas o objeto examinado pela Corte.
+    2. Negado seguimento.”
+    (Rcl 14.079/DF, Rel. Min. ROBERTO BARROSO – grifei)
+    Não obstante a minha pessoal convicção em sentido contrário, devo ajustar o meu entendimento à diretriz jurisprudencial prevalecente no Supremo Tribunal Federal, em respeito e em atenção ao princípio da colegialidade, o que afasta a possibilidade de reconhecer, com apoio no argumento da eficácia vinculante dos motivos determinantes, ofensa às decisões que esta Corte proferiu nos autos dos julgamentos invocados como padrão de confronto.
+    Sendo assim, e em face das razões expostas, nego seguimento à presente reclamação, tornando sem efeito o provimento cautelar anteriormente deferido, restando prejudicada, em consequência, a análise do recurso de agravo interposto nesta sede processual.
+    Comunique-se, com urgência, transmitindo-se cópia da presente decisão ao E. Tribunal de Contas dos Municípios do Estado do Ceará, ao eminente Procurador-Geral do Estado do Ceará e à E. Câmara Municipal de Milagres/CE.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2014.
+Ministro CELSO DE MELLO
+Relator
