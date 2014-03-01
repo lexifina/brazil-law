@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 195, § 5º, 201, 202, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise de matéria infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido: ARE 727.211-AgR/DF, Rel. Min. Marco Aurélio, 1ª Turma, DJe 15.4.2013; ARE 683.890-AgR/PR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.8.2012; e AI 789.854-AgR/SC, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 23.02.2011, verbis:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. RESTITUIÇÃO DE VALORES. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REGULAMENTO DA ENTIDADE DE PREVIDÊNCIA PRIVADA. INCIDÊNCIA DA SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Por seu turno, a verificação da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demanda prévio reexame da interpretação conferida pelo Tribunal de origem a cláusulas do regulamento de entidade de previdência privada, o que é vedado a esta instância extraordinária, a teor da Súmula 454/STF: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.”
+    Além disso, na esteira da Jurisprudência deste Supremo Tribunal Federal, o art. 195, § 5°, da Constituição da República diz respeito à seguridade social financiada por toda a sociedade, não se aplicando às entidades de previdência privada, razão pela qual não se divisa a alegada ofensa ao dispositivo constitucional suscitado. Nesse sentido: RE 583.687-AgR/RS, Rel. Min. Ellen Gracie, 2ª Turma, DJe 26.4.2011; e AI 700.930-ED/PR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 20.11.2009, este assim ementado:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PREVIDÊNCIA PRIVADA. CORREÇÃO MONETÁRIA DAS PARCELAS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A matéria constitucional do recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Também não foram opostos embargos de declaração de modo a se ter por provocado o prequestionamento da matéria constitucional. 2. O art. 195, § 5°, da Constituição da República diz respeito à seguridade social financiada por toda a sociedade, sendo alheio às entidades de previdência privada.” (destaquei).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de março de 2014.
+Ministra Rosa Weber
+Relatora
