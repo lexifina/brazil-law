@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado do Amazonas. Aparelhado o recurso na violação dos arts. 5º, XXXVI, e 37, XIII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido de que, em respeito aos princípios da boa-fé e da segurança jurídica, incorporar a gratificação instituída pela Lei Estadual 1.762/86 ao patrimônio dos servidores, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 342.222-AgR/AM, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 06.02.2009; e RE 338.431-AgR/AM, Rel. Min. Dias Toffoli, 1ª Turma, DJe 06.9.2012, verbis:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO DO ESTADO DO AMAZONAS. GRATIFICAÇÃO INSTITUÍDA PELA LEI ESTADUAL N. 1.762/86. LEGITIMIDADE DA MANUTENÇÃO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    “Agravo regimental no recurso extraordinário. Gratificação concedida com base na Lei nº 1.762/86, art. 139, inciso II, do Estado do Amazonas. Inconstitucionalidade material. Norma anterior à vigente Constituição Federal. Princípio da boa-fé e da segurança jurídica. Precedentes. 1. A jurisprudência desta Corte firmou entendimento de que, em respeito aos princípios da boa-fé e da segurança jurídica, os efeitos da gratificação concedida pelo art. 139, inciso II, da Lei estadual nº 1.672/86 devem ser convalidados pela Carta de 1988. 2. Agravo regimental não provido.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 04 de março de 2014.
+Ministra Rosa Weber
+Relatora
