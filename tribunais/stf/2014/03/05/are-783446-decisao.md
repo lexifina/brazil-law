@@ -1,0 +1,18 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário amparada na seguinte fundamentação:
+    “Bem se sabe que a recorribilidade excepcional é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se, em sede excepcional, à luz da moldura fática delineada soberanamente pelo órgão julgador, considerando-se as premissas constantes do v. acórdão vergastado. A jurisprudência sedimentada nas Cortes Superiores é pacífica a respeito, impondo-se observar os verbetes n° 279 e 07, das Súmulas do STF e STJ, respectivamente, que vedam o reexame de fatos e/ou de provas.
+    O inconformismo sistemático, manifestado em recurso carente de fundamentos relevantes, que não demonstre como o v. acórdão recorrido teria ofendido o dispositivo alegadamente violado e que nada acrescente à compreensão e ao desate da quaestio iuris - posto que indique corretamente o permissivo constitucional sobre o qual se sustenta -, não atende aos pressupostos de regularidade formal dos recursos de natureza excepcional e impede a exata compreensão da controvérsia, circunstâncias que atraem a incidência da Súmula 284, STF.
+    (…)
+    Além disso, a simples leitura do v. acórdão impugnado revela que o entendimento adotado encontra-se em perfeita harmonia com a orientação pacificada das instâncias superiores, não ensejando campo ao acesso às vias excepcionais. Nesse Sentido:
+    Concurso público. Altura mínima. Requisito. Tratando-se de concurso para o cargo de escrivão de polícia, mostra-se desarrazoada a exigência de altura mínima, dadas as atribuições do cargo, para as quais o fator altura é irrelevante. Precedente (RE 150.455, Rel. Min. Marco Aurélio, DJ 07.05.99). (RE194952/MS, Relatora Ministra ELLEN GRACIE, PRIMEIRA TURMA, DJ 11/09/2001, DJe 11/10/2001 pp.00018)
+    Ademais, percebe-se, sem maior esforço, que o v. Acórdão recorrido está assentado em mais de um fundamento suficiente para a manutenção do julgado, sendo certo, ademais, que o recurso interposto não se insurge contra todos eles, circunstâncias que conduzem a sua inadmissão, por incidência do verbete n. 283, da Súmula do Supremo Tribunal Federal”.
+    Decido.
+    O entendimento da Corte é no sentido de que deve a parte impugnar todos os fundamentos da decisão que não admitiu o apelo extremo, o que não ocorreu na espécie, uma vez que mantida incólume a motivação acima reproduzida. A jurisprudência de ambas as Turmas deste Tribunal é no sentido de negar provimento ao agravo quando, como no caso, não são atacados os fundamentos da decisão que obsta o processamento do apelo extraordinário. Nesse sentido: AI nº 488.369/RSAgR, 4/5/04, Primeira Turma, Relator Ministro Sepúlveda Pertence, DJ de 28/5/04, e AI nº 330.535/SP-AgR, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 21/9/01, e ARE nº 637.373/MS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/6/11, esse último assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RAZÕES DO RECURSO NÃO ATACAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 287 DO STF. ARTIGO 543 DO CPC. REMESSA DO FEITO AO STJ. DESNECESSIDADE. AGRAVO IMPROVIDO. I O agravo não atacou os fundamentos da decisão que negou seguimento ao recurso extraordinário, o que o torna inviável, conforme a Súmula 287 do STF. Precedentes. II É desnecessário aguardar o julgamento do recurso especial pelo STJ quando o extraordinário não possuir condições de admissibilidade. Precedentes. III Agravo regimental improvido.”
+    Ante o exposto, não conheço do agravo.
+    Publique-se.
+    Brasília, 5 de março de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
