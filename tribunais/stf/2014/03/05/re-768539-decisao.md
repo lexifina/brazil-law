@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, manejam recurso extraordinário, com base no art. 102, III, da Lei Maior, Irmãos Trevisan S/A Indústria, Comércio e Agricultura. Aparelhado o recurso na violação do art. 5º, II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Na esteira da súmula 636/STF, “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Nesse sentido:
+    “ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. LEI 9.933/99. MATÉRIA INFRACONSTITUCIONAL. ALEGADA OFENSA AO ART. 5º, caput, II, LIV e LV, DA CF. OFENSA REFLEXA. SÚMULA 636 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO - SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais (Lei 9.933/99) e ato normativo do INMETRO. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. II - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III - A alegada violação ao art. 5º, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. IV - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. V - Agravo regimental improvido” (AI 726.085-AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.3.2009) .
+    “Agravo regimental em agravo de instrumento. 2. Portaria e poder regulamentar. Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 745.965-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 29.6.2011) .
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 05 de março de 2014.
+Ministra Rosa Weber
+Relatora
