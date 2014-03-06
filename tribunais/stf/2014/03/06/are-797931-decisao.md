@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. LAUDO DESFAVORÁVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LIV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado da Turma Recursal dos Juizados Especiais Federais da Paraíba:
+    “PREVIDENCIÁRIO – AUXÍLIO - DOENÇA/APOSENTADORIA POR INVALIDEZ – SENTENÇA IMPROCENTE - LAUDO DESFAVORÁVEL – AUSÊNCIA DE INCAPACIDADE - RECURSO DA PARTE AUTORA - SENTENÇA MANTIDA
+    1. No caso dos autos, restou constatada a ausência de incapacidade para as atividades laborativas habituais.
+    2. Juizado especial. Parágrafo 5º do art. 82 da Lei nº 9.099/95. Ausência de fundamentação. Artigo 93, inciso IX, da Constituição Federal. Não ocorrência. Possibilidade de o colégio recursal fazer remissão aos fundamentos adotados na sentença. Jurisprudência pacificada na Corte. Matéria com repercussão geral. Reafirmação da jurisprudência do Supremo Tribunal Federal. (RE 635729 RG, Relator Min. Dias Toffoli, julgado em 30/06/2011, DJe 24.08.2011).
+    3. Recurso a que se nega provimento, com a manutenção da sentença por seus próprios fundamentos, nos termos do art. 82, § 5º, da Lei n. 9.099/95.
+    4. Condenação em honorários advocatícios fixados em R$ 500,00 (quinhentos reais) e custas processuais, ressalvando a hipótese de assistência judiciária gratuita” (grifos nossos).
+    2. O Agravante alega que a Turma Recursal a quo teria contrariado os arts. 5º, inc. LIV, e 93, inc. IX, da Constituição da República.
+    Aduz que “o acórdão impugnado ser destituído de fundamentação, o mesmo não trouxe a lume os magistrados que participaram do respectivo julgamento. Tal informação também não é possível de ser visualizada nos demais ícones do processo virtual”.
+    Sustenta que
+    “analisando o v. acórdão vergastado, a referida Turma de Recursos se resumiu apenas a afirmar que “restou constatada a ausência de incapacidade para as atividades laborativas habituais.”;
+    Como se percebe, a E. Turma não trouxe à lume os motivos pelos quais entendeu pela inexistência de incapacidade do RECORRENTE, resumindo-se apenas em fazer uma assertiva genérica”.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, RTJ 150/269).
+    7. A apreciação do pleito recursal demandaria o reexame do conjunto fático-probatório constante do processo e da legislação infraconstitucional aplicável à espécie vertente (Leis n. 8.213/1991, 9.032/1995 e 9.528/1997), o que inviabiliza o recurso extraordinário. Incide a Súmula n. 279 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CONCESSÃO DE AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF” (ARE 754.992-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 14.11.2013).
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria integral. Trabalhador rural. Requisitos para concessão do benefício não demonstrados na origem. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência da Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (ARE 648.437-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 16.12.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. RECEPÇÃO DA LEI COMPLEMENTAR N. 51/1985. REQUISITOS. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 775.155-AgR, de minha relatoria, Segunda Turma, DJe 20.11.2013).
+    8. Ademais, no julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, o Supremo Tribunal Federal assentou a ausência de repercussão geral quanto à alegação de contrariedade ao princípio do devido processo legal, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de março de 2014.
+ Ministra CÁRMEN LÚCIA
+Relatora
