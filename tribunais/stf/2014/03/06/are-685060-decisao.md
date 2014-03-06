@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – ARTIGOS 132, INCISO XI, E 246 – LEI 5.810/94 – ESTADO DO PARÁ – PRECEDENTE DO PLENÁRIO –PROVIMENTO.
+    1. O Tribunal, ao julgar o mérito do Recurso Extraordinário nº 745.811/PA, com repercussão geral admitida, assentou as inconstitucionalidade dos artigos 132, inciso XI, e 246 da Lei nº 5.810/94 do Estado do Pará. Confiram-se com a ementa:
+    Recurso extraordinário. Repercussão geral da questão constitucional reconhecida. 2. Direito Administrativo. Servidor público. 3. Extensão, por meio de emenda parlamentar, de gratificação ou vantagem prevista pelo projeto do Chefe do Poder Executivo. Inconstitucionalidade. Vício formal. Reserva de iniciativa do Chefe do Poder Executivo para edição de normas que alterem o padrão remuneratório dos servidores públicos. Art. 61, § 1º, II, “a”, da Constituição Federal. 4. Regime Jurídico Único dos Servidores Públicos Civis da Administração Direta, das Autarquias e das Fundações Públicas do Estado do Pará (Lei 5.810/1994). Artigos 132, inciso XI, e 246. Dispositivos resultantes de emenda parlamentar que estenderam gratificação, inicialmente prevista apenas para os professores, a todos os servidores que atuem na área de educação especial. Inconstitucionalidade formal. Artigos 2º e 63, I, da Constituição Federal. 5. Recurso extraordinário provido para declarar a inconstitucionalidade dos artigos 132, XI, e 246 da Lei 5.810/1994, do Estado do Pará. Reafirmação de jurisprudência.
+    2. Ante o quadro, ressalvando o entendimento pessoal, conheço do agravo e o provejo, consignando o enquadramento do recurso no permissivo evocado. Diante da sedimentação de entendimento, julgo, desde logo, o extraordinário, nos termos do artigo 544, § 4º, inciso II, alínea “c”, do Código de Processo Civil. Dele conheço e provejo para denegar a segurança.
+    3. Publiquem.
+Brasília, 6 de março de 2014.
+Ministro MARCO AURÉLIO
+Relator
