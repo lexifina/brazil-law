@@ -1,0 +1,44 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por José Roberto Nunes Júnior em favor de Éder Renato Gomes da Silva contra decisão monocrática do Ministro Rogério Schietti Cruz, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 288.975/SP.
+    Em 15.12.2013, o paciente foi preso em flagrante pela suposta prática dos crimes de tráfico de drogas, de utilização de maquinário destinado à preparação das drogas e de associação para o tráfico, tipificados nos arts. 33, 34 e 35 da Lei 11.343/2006, e, ainda, de porte ilegal de arma de fogo de uso permitido, descrito no art. 14 da Lei 10.826/2003.
+    Segundo a petição inicial, o paciente “associado ao corréu Ronaldo Lucas Bento, mantinha em depósito, para fins de tráfico e entrega a terceiros, a quantia de 9.705kg (nove quilogramas, setecentos e cinco gramas) do entorpecente denominado cocaína, sem autorização e em desacordo com determinação legal e regulamentar. Consta, ainda, que o paciente em epígrafe mantinha em depósito acessório de arma de fogo de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar”.
+    O Juízo de Direito da 3ª Vara Criminal da Comarca de Araraquara-SP converteu a prisão em flagrante em prisão preventiva.
+    Contra essa decisão, impetrado pela Defesa habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar.
+    Irresignada, a Defesa impetrou habeas corpus ao Superior Tribunal de Justiça, que foi indeferido liminarmente, em decisão da lavra do Ministro Rogério Schietti Cruz.
+     No presente writ, o Impetrante sustenta a possibilidade de afastamento da Súmula 691/STF. Para tanto, aponta a inidoneidade dos fundamentos da decretação da prisão preventiva do paciente. Assevera a possibilidade, acaso haja condenação do paciente, da substituição da pena privativa de liberdade por restritiva de direitos.
+    Requer, em medida liminar e no mérito, a revogação da prisão preventiva ou, sucessivamente, a imposição de medida cautelar diversa da prisão nos termos do art. 319 do Código de Processo Penal.
+    É o relatório.
+    Decido.
+    Pretende o Impetrante a revogação da prisão preventiva decretada contra o paciente.
+    O ato apontado como coator, que indeferiu liminarmente o HC 288.975/SP, foi exarado aos seguintes fundamentos:
+    “Inicialmente, destaco que a matéria aventada nesta ordem de habeas corpus não foi submetida à análise pelo colegiado do Tribunal a quo, circunstância que impede seu conhecimento por esta Corte, sob pena de indevida supressão de instância.
+    Nesse contexto, cumpre esclarecer que a espécie esbarra, por analogia, nos termos do enunciado da Súmula n.º 691 do Supremo Tribunal Federal, segundo a qual "não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do relator que, em 'habeas corpus' requerido a Tribunal Superior, indefere a liminar" , sob pena de supressão de instância. Nesse sentido: AgRg no HC 282.276/RJ, Relator Ministro Moura Ribeiro, 5º.T., DJe 12.2.2014; HC 258.820/SP, Relatora Ministra Maria Isabel Gallotti, 4ª.T., DJe 28.11.2013; AgRG no HC 246.871/SP, Relatora Ministra Regina Helena Costa, 5ª.T., DJe 9.10.2013; AgRg no HC 265.938/SP, Relatora Ministra Assusete Magalhães, 6ª.T., 11.10.2013.
+    O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador, o que não ocorre in casu.
+    Observo que, na espécie, o Juízo originário converteu a prisão em flagrante em preventiva sob os seguintes termos, verbis:
+    Há nos autos indícios suficientes de autoria e prova da materialidade, e o crime em tela tem pena máxima superior a 04 (quatro) anos.
+    Os depoimentos colhidos e as provas angariadas apontam para a possível prática do crime de tráfico de entorpecentes.
+    Ademais, a quantidade de drogas apreendida é expressiva.
+    Vale ressaltar que o tráfico de entorpecentes é considerado crime grave, equiparado aos crimes hediondos, colocando em constante desassossego a sociedade, estando, pois, presente o fundamento da garantia da ordem pública, autorizador da decretação da prisão cautelar.
+    Outrossim, presente o requisito da convivência da instrução criminal, considerando a possibilidade de interferência na produção da prova caso respondam a eventual processo em liberdade . (Fls. 29/30).
+    O Tribunal de Justiça do Estado de São Paulo, por seu turno, indeferiu o pedido liminar, por entender "que não há elementos de convicção suficientes para albergar o pleito, que somente é cabível quando o constrangimento ilegal é manifesto e detectado de imediato pelo exame sumário da inicial e dos docs. e papéis que a instruem" (fl. 83).
+    Na hipótese, o Juiz de 1º grau indicou, de modo satisfatório, a necessidade de manutenção da prisão cautelar do ora paciente, ao apontar a expressividade da quantidade do entorpecente, e a possibilidade do paciente interferir na produção de provas.
+    Dessa forma, não vislumbro flagrante ilegalidade ou qualquer mácula no decisum monocrático que justifique a intervenção imediata e prematura deste Superior Tribunal.
+    À vista do exposto, nos termos do artigo 210 do RISTJ, indefiro liminarmente este habeas corpus” .
+     Como se observa, a impetração foi liminarmente indeferida com fundamento no entendimento desta Suprema Corte consagrado na Súmula 691/STF: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    Em simetria ao entendimento deste Supremo Tribunal, aquela Corte Superior também admite o abrandando do rigor da Súmula apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata, o que não se verificou no caso em apreço.
+    No caso, a prisão preventiva encontrou fundamento na garantia da ordem pública, na conveniência da instrução criminal e na aplicação da lei penal, verbis:
+    “Mantenho a prisão cautelar.
+    Há nos autos indícios suficientes de autoria e prova da materialidade, e o crime em tela tem pena máxima superior a 04 (quatro) anos.
+    Os depoimentos colhidos e as provas angariadas apontam para a possível prática do crime de tráfico de entorpecentes. Ademais, a quantidade de drogas apreendida é expressiva.
+    Vale ressaltar que o tráfico de entorpecentes é considerado crime grave, equiparado aos crimes hediondos, colocando em constante desassossego a sociedade, estando, pois, presente o fundamento da garantia da ordem pública, autorizador da decretação da prisão cautelar.
+    Outrossim, presente o requisito da conveniência da instrução criminal, considerando a possibilidade de interferência na produção da prova caso respondam a eventual processo em liberdade”.
+    Ao indeferir a liminar, o Tribunal de Justiça do Estado de São Paulo asseverou: “vê-se, no presente caso, que não há elementos de convicção suficientes para albergar o pleito, que somente é cabível quando o constrangimento ilegal é manifesto e detectado de imediato pelo exame sumário da inicial e dos docs. e papéis que a instruem, o que não ocorre no presente caso”.
+    Nesse contexto, em que presente avaliação sumária da Corte ordinária, mais próxima dos fatos e das provas, sobre a inocorrência de flagrante ilegalidade ensejadora da imediata soltura do paciente, não vislumbro constrangimento ilegal no ato dito coator.
+     Conforme nele se destaca, na avaliação sumária da legalidade da segregação cautelar, “a expressividade da quantidade do entorpecente, e a possibilidade do paciente interferir na produção de provas” justificam, a priori, a necessidade da medida.
+    Nessa linha, esta Suprema Corte assentou que “Não traduz manifesta arbitrariedade a decretação de prisão cautelar de acusado com quem foi apreendida expressiva quantidade de drogas, a revelar profundo envolvimento na atividade de tráfico de drogas, com risco de reiteração delitiva e à ordem pública” (HC 109.111/ES, Rel. Min. Marco Aurélio, em que fui redatora para o acórdão, 1ª Turma, DJe 06.3.2013).
+    À míngua de pronunciamento judicial por quaisquer das Cortes anteriores sobre o cerne da controvérsia, não há como prosseguir a impetração, com a apreciação precipitada da legalidade da prisão preventiva ou da possibilidade de substituição da prisão por outra medida cautelar diversa da prisão.
+    Em síntese, não vislumbro flagrante ilegalidade ou abuso de poder no indeferimento liminar do HC 288.975/SP, embasado na inviabilidade de superação do entendimento desta Suprema Corte consagrado na Súmula 691.
+    Ante todo o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de março de 2014.
+Ministra Rosa Weber
+Relatora
