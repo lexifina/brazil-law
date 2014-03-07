@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de Inquérito Penal instaurado para apurar a suposta prática da conduta tipificada no art. 1º, X, do Decreto-Lei 201/1967 por Nilmar Gavino Ruiz, Prefeita do Município de Palmas/TO à época dos fatos, que no dia 13.12.2004 teria alienado imóvel público sem autorização da Câmara de Vereadores e em desacordo com a Lei 8.666/1993.
+    2. Em março de 2011, o então Relator determinou a remessa dos autos a uma das varas criminais da comarca de Palmas/TO por verificar que a investigada não mais exercia o mandato de Deputada Federal (fl. 492). Remetidos os autos, o juízo da 3ª Vara Criminal da Comarca de Palmas/TO, reconhecendo que a investigada fora novamente diplomada como Deputada Federal em abril de 2013 e, por consequência, voltara a ter prerrogativa de foro perante o Supremo Tribunal Federal, encaminhou os autos de volta a esta Corte (fl. 503).
+    3. Processados os autos, foram remetidos ao Ministério Público, que requereu o retorno do inquérito ao juízo criminal da comarca de Palmas/TO, após certificar que o mandato da investigada como suplente de Deputada Federal cessara em 14.10.2013.
+    4. A jurisprudência dominante desta Corte é no sentido de que não se estende ao suplente a prerrogativa de foro conferida no art. 53, § 1º, da Constituição da República aos congressistas, ressalvada naturalmente a hipótese de o suplente estar no efetivo exercício das funções parlamentares correspondentes (AP 637, Relator(a): Min. CELSO DE MELLO, DJe de 09/09/2013; Inq 3342, Relator(a): Min. CELSO DE MELLO, DJe de 09/11/2012; Inq 2933, Relator(a): Min. JOAQUIM BARBOSA, julgado em 28/03/2011, publicado em DJe de 04/04/2011; Inq 2453 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Tribunal Pleno, DJe de 29-06-2007).
+    5. No caso, como visto, a investigada ostentava condição de suplente de Deputado Federal, o que, por si só, já não atraía a competência penal originária desta Corte. Aliás, há nos autos informação concreta de que o exercício precário do mandato havia se encerrado em 14.10.2013.
+    6. Ante o exposto, acolho a promoção do Ministério Público e determino o retorno dos autos à 3ª Vara Criminal da comarca de Palmas/TO, para as providências cabíveis.
+    Publique-se. Intime-se.
+    Brasília, 7 de março de 2014
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
