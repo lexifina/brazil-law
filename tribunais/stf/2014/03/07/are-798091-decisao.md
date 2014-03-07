@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. LIMITE DE IDADE EXIGÍVEL NO MOMENTO DA INSCRIÇÃO NO CURSO DE FORMAÇÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO, DO EDITAL E DA LEGISLAÇÃO ESTADUAL: SÚMULAS NS. 279, 280 E 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra julgado do Tribunal de Justiça de Minas Gerais:
+    “REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. CONCURSO POLÍCIA CIVIL. CARGO AGENTE DE POLÍCIA. LIMITE DE IDADE. CONFORMIDADE COM A LEI 5.406/69. RECURSO PROVIDO. É dado à Administração Pública instituir os requisitos que entende necessários para o provimento de seus cargos, desde que a natureza do cargo e suas atribuições justificam a imposição de tais limitações. Tendo o item do Edital, que dispõe sobre os requisitos para o Curso de Formação, previsto expressamente que o candidato na data da matricula deve possuir no mínimo 18 anos e no máximo 32 anos de idade e em conformidade com o disposto no art. 80, II da Lei 5.406/69, é medida que se Impõe o provimento deste recurso.”
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 7º, incs. XXX, 37, inc. I, e 39, § 3º, da Constituição da República.
+    Argumenta ser “desarrazoada a fixação de limite de idade para o cargo de Agente de Polícia Civil, visto que este não exige vigor físico diferenciado, ou outro aspecto que justifique a limitação (extirpada do mundo jurídico) de 32 anos para ingresso na carreira de agente da policia civil.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência das Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A apreciação do pleito recursal demandaria o reexame do conjunto fático-probatório constante do processo, das cláusulas editalícias e da interpretação conferida à Lei mineira n. 5.406/1969, procedimento inviável de ser adotado validamente nessa via processual. Incidem as Súmulas ns. 279, 280 e 454 deste Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. LIMITE DE IDADE EXIGÍVEL NO MOMENTO DA INSCRIÇÃO. SÚMULA N. 683 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 704.575-AgR, de minha relatoria, Segunda Turma, DJ 14.12.2012).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRETERIÇÃO NA NOMEAÇÃO E POSSE DOS INTEGRANTES. QUEBRA DA ORDEM DE CLASSIFICAÇÃO. ADMINISTRATIVO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. DEMANDA QUE NECESSITA DA ANÁLISE DO EDITAL DE CONCURSO PÚBLICO. ÓBICE DA SÚMULA 454 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF” (AI 847.826-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJ 4.10.2011).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Agravo regimental que não impugna fundamentos da decisão agravada. Incidência do Enunciado 284 da Súmula desta Corte. 4. Concurso público. Regras editalícias. Limite de idade. A comprovação do requisito etário deve ocorrer no momento da inscrição do certame. Precedentes. 5. Alegada violação ao art. 93, IX, da Constituição Federal. Não ocorrência. AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento” (ARE 730.935-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJ 15.4.2013).
+    Não há, pois, o que prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de março de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
