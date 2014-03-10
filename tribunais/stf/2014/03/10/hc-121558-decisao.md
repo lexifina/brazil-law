@@ -1,0 +1,35 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Mohamad Ismail Diab, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp nº 357.051/PR, Relator o Ministro Sebastião Reis Júnior.
+     Sustenta a impetrante, em síntese, a aplicação do princípio da insignificância ao delito tipificado no art. 334, caput, do Código Penal, supostamente praticado pelo paciente, uma vez que o débito tributário relacionado seria inferior ao patamar de R$ 20.000,00 (vinte mil reais), estipulados pelo art. 20 da Lei nº 10.522/02, atualizado pelas Portarias nºs 75 e 130/12 do Ministério da Fazenda.
+    Requer o deferimento da liminar para suspender os efeitos do AREsp nº 357.051/PR e, no mérito, pede a concessão da ordem para que seja aplicado o Princípio da Insignificância para reconhecer a atipicidade da conduta do paciente, “obstando-se o prosseguimento da ação penal, em face da atipicidade material da conduta imputada (...)” (fl. 14 da inicial – grifos da autora).
+    Examinados os autos, decido.
+    Narra a impetrante, na inicial, que:
+    “O paciente foi denunciado pelo Ministério Público pela suposta prática da conduta delituosa prevista no art. 334, do Código Penal, por terem sido apreendidas mercadorias estrangeiras, supostamente introduzidas em território nacional sem o recolhimento dos tributos devidos. A denúncia foi recebida.
+    Ao receber a peça acusatória, tendo em conta a pena mínima cominada ao delito imputado, neste feito, o Ministério Público Federal foi intimado para que se manifestasse quanto à possibilidade de suspensão do processo (artigo 89 da Lei n. 9.099/95). O MP não acolheu a proposta de suspensão e, solicitou o seu regular trâmite.
+    Por considerar atípica a conduta imputada ao paciente, por preencher os requisitos necessários para o reconhecimento da insignificância, o juízo a quo o absolveu sumariamente.
+    O Ministério Público interpôs recurso de apelação, sendo o mesmo negado provimento pela Douta 7° Turma do TRF da 4° Região, sendo mantida a absolvição do paciente (e-STJ fl.202).
+    O Ministério Público Federal, inconformado com a decisão, interpôs Recurso Especial, sendo este inadmitido (e-STJ fl. 261) sendo ofertado agravo em recurso especial.
+    Por decisão monocrática da Douta Ministra Relatora, foi o agravo provido e julgado, monocraticamente, o mérito do apelo especial (...) ” ...).
+    Transcrevo a síntese da decisão em questão:
+    “PENAL. AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. DÉBITO TRIBUTÁRIO SUPERIOR A DEZ MIL REAIS. PORTARIA MF N. 75/2012. INAPLICABILIDADE.
+    Agravo conhecido para dar provimento ao recurso especial” (fl. 361 – anexo 4).
+    Contra essa decisão, a defesa do paciente interpôs agravo regimental não provido pela Sexta Turma, em julgado assim ementado:
+    “PROBATÓRIA. NÃO OCORRÊNCIA. VALORAÇÃO DA PROVA. PRINCÍPIO DA INSIGNIFICÂNCIA. DÉBITO TRIBUTÁRIO SUPERIOR A DEZ MIL REAIS. PORTARIA MF N. 75/2012. INAPLICABILIDADE.
+    1. Se a decisão monocrática é proferida nas hipóteses previstas no art. 557 do Código de Processo Civil, repetidas no art. 34, XVIII, do RISTJ, não há nenhuma ofensa ao princípio da colegialidade, mormente porque facultada à parte a interposição de agravo regimental, como se fez no caso.
+    2. As instâncias ordinárias são soberanas na análise fática e probatória inerente ao caso concreto. Contudo, esta Corte não é impedida, a partir da realidade fática assentada pelo Juízo a quo, de proceder à adequada qualificação jurídica do fato, em razão da valoração, e não do reexame, da prova produzida.
+    3. Afirmou-se, na decisão agravada, que, sendo de R$ 11.618,05 o valor total de tributos iludidos, o que é incontroverso, não é aplicável o princípio da insignificância, por ultrapassar o limite de R$ 10.000,00, previsto no art. 20 da Lei n. 10.522/2002. E, para se atingir tal conclusão, não é necessário o reexame do contexto fático-probatório dos autos, razão pela qual inexiste ofensa ao entendimento firmado por meio da Súmula 7/STJ.
+    4. A tese de ampliação, por meio da Portaria MF n. 75/2012, do limite para incidência do princípio da insignificância no crime de descaminho não foi acolhida pelo Superior Tribunal de Justiça, conforme precedentes oriundos de ambas as Turmas que têm competência para análise do tema.
+    5. Agravo regimental improvido” (fl. 361 – anexo 4).
+    Essa é a razão pela qual se insurge a impetrante neste writ.
+    No caso, o entendimento preconizado pelo Superior Tribunal de Justiça está em confronto com a jurisprudência contemporânea da Corte a respeito do tema agitado na impetração. Entretanto, as circunstâncias do caso concreto não evidenciam ilegalidade flagrante, abuso de poder ou teratologia.
+    Isso porque, não obstante a expressividade financeira do tributo, em tese sonegado pelo paciente em decorrência da prática delituosa seja inferior ao patamar estipulado pelo art. 20 da Lei nº 10.522/02 - atualizado pelas Portarias nºs 75 e 130/12 do Ministério da Fazenda -, entendo não ser possível acatar a tese de irrelevância material da conduta praticada, tendo em vista a notícia constante dos autos de que ele seria um infrator contumaz na modalidade delituosa (fl. 18 - anexo 3).
+    Assim, o caso não escapa à jurisprudência da Corte no sentido de que, “embora seja reduzida a expressividade financeira do tributo omitido ou sonegado pelo paciente, não é possível acatar a tese de irrelevância material da conduta por ele praticada, tendo em vista ser ela uma prática habitual na sua vida pregressa, o que demonstra ser ele um infrator contumaz e com personalidade voltada à prática delitiva, ainda que, formalmente, não se possa reconhecer, na espécie, a existência da reincidência” (HC nº 115.869/PR, Primeira Turma, de minha relatoria, DJe de 7/5/13).
+    Perfilhando esse entendimento, destaco precedentes de ambas as Turmas: HC nº 120.069/RS, Primeira Turma DJe de 31/1/1 e HC nº 118.686/PR, Primeira Turma, DJe de 4/12/13, ambos de relatoria do Ministro Luiz Fux; HC nº 110.841/PR, Segunda Turma, DJe de 14/12/12 e HC nº 112.597/PR, Segunda Turma, DJe de 7/12/12, ambos de relatoria da Ministra Cármen Lúcia.
+    Aliás, conforme bem pontuado pela Ministra Cármen Lúcia ao analisar o HC nº 110.481/PR, “o criminoso contumaz, mesmo que pratique crimes de pequena monta, não pode ser tratado pelo sistema penal como se tivesse praticado condutas irrelevantes, pois crimes considerados ínfimos, quando analisados isoladamente, mas relevantes quando em conjunto, seriam transformados pelo infrator em verdadeiro meio de vida”.
+    Conclui-se, portanto, que o tema trazido à balha é objeto de jurisprudência consolidada desta Suprema Corte, razão pela qual, nos termos do art. 192, caput, do Regimento Interno - atualizado pela Emenda Regimental nº 30/09, denego a ordem de habeas corpus.
+    Publique-se.
+    Brasília, 10 de março de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
