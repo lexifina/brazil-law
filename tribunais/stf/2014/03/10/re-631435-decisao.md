@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. ISENÇÃO DAS CONTRIBUIÇÕES PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS E PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS. RECEITA DECORRENTE DE VENDAS A EMPRESAS DA ZONA FRANCA DE MANAUS. EXTENSÃO DO BENEFÍCIO FISCAL AOS ESTABELECIMENTOS SITUADOS NA AMAZÔNIA OCIDENTAL OU ÁREA DE LIVRE COMÉRCIO: IMPOSSIBILIDADE. JULGADO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra julgado do Tribunal Regional Federal da 2ª Região:
+    “TRIBUTÁRIO CONSTITUCIONAL MANDADO DE SEGURANÇA PIS/COFINS ISENÇÃO ART. 40 DO ADCT, E ART. 4º DO DECRETO-LEI N. 288/67. ESTENDE-SE AOS PRODUTOS DESTINADOS À ZONA FRANCA DE MANAUS. PRECEDENTES STJ.
+    1. Os arts. 4º do DL 288/67 e 40 do ADCT preservam a Zona Franca de Manaus, enquanto área de livre comércio, o que se aplica às exportações destinadas a estabelecimentos situados naquela região, cujos benefícios fiscais compreendem as exportações ao estrangeiro. Desse modo, para efeitos fiscais, a exportações de mercadorias destinadas à Zona Franca de Manaus equivale à exportação de produto brasileiro para o estrangeiro.
+    2. O art. 5º da Lei 7.714/88, com redação que lhe foi dada pela Lei 9.004/95, bem como o art. 7º da Lei Complementar 70/91, autorizam a exclusão, da base de cálculo do PIS e da COFINS, respectivamente, dos valores referentes às receitas oriundas de exportação de produtos nacionais para o estrangeiro.
+    3. Equiparando-se os produtos destinados à Zona Franca de Manaus com aqueles exportados para o exterior, infere-se que a isenção relativa à COFINS e ao PIS é extensiva à mercadoria destinada à Zona Franca. Precedentes do STJ (RESP 223.405-MT, DJ de 1º.9.2003, Relator Min. Humberto Gomes de Barros; RESP 144.785-PR, DJ de 16.12.2002, Relator Min. Paulo Medina).
+    4. Em sede de atualização do indébito, na correção monetária incidem os expurgos inflacionários, desde o recolhimento até dezembro/95 e, a partir de 1º.1.1996, exclusivamente, a taxa SELIC).
+    5. Quanto à aplicação do prazo prescricional previsto na Lei Complementar n. 118/2005, o Superior Tribunal de Justiça assim se manifestou: Assim, na hipótese em exame, com o advento da LC 118/2005, a prescrição, do ponto de vista prático, deve ser contada da seguinte forma: relativamente aos pagamentos efetuados a partir da sua vigência (que ocorreu em 9.6.2005), o prazo para a ação de repetição do indébito é de cinco a contar da data do pagamento; e relativamente aos pagamentos anteriores, a prescrição obedece ao regime previsto no sistema anterior, limitada, porém, ao prazo máximo de cinco anos a contar da vigência da lei nova (AI nos EREsp 644.736-PE, Relator Min. Teori Albino Zavascki, Corte Especial, julgado em 6.6.2007, DJ 27.8.2007 p. 170).
+    6. Apelação parcialmente provida” (fls. 323-324).
+    Os embargos de declaração opostos foram rejeitados (fl. 394).
+    2. A Recorrente alega que o Tribunal de origem teria contrariado o art. 40 dos Atos das Disposições Constitucionais Transitórias.
+    Argumenta que, “quando o legislador constitucional tratou da Zona Franca de Manaus, por óbvio, quis dizer também a Amazônia Ocidental e demais áreas de livre comércio” (fl. 409).
+    Sustenta que “o simples fato de não ter constado do artigo 40 do ADCT a expressão Amazônia Ocidental e áreas de livre comércio, por si só não significa que o Decreto-Lei n. 356/68 não foi recepcionado pela Constituição Federal. Deveras, o Decreto-Lei n. 356/68 estendeu à Amazônia Ocidental todos os benefícios fiscais constantes do Decreto-Lei 288/67, concedidos à Zona Franca de Manaus” (fl. 409).
+    Apreciada a matéria trazida nos autos, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. No julgamento da Ação Direta de Inconstitucionalidade n. 2.348-MC, Relator o Ministro Marco Aurélio, em 7.12.2000, o Supremo Tribunal Federal suspendeu a eficácia do inc. I do § 2º do art. 14 da Medida Provisória n. 2.037-24/2000, por concluir contrária ao art. 40 dos Atos das Disposições Constitucionais Transitórias a exclusão da isenção do PIS e da Cofins quanto aos produtos destinados à Zona Franca de Manaus.
+    Naquela assentada, o Ministro Relator reajustou seu voto, para acompanhar o voto do Ministro Nelson Jobim e deixar expresso que, embora o inciso impugnado também trate de supressão de benefícios fiscais a empresas estabelecidas na Amazônia Ocidental ou em área de livre comércio, a suspensão da eficácia limita-se à “Zona Franca de Manaus”, porque apenas esta mereceu tratamento e proteção constitucionais.
+    Dessa orientação não divergiu o julgado recorrido.
+    5. Pelo exposto, nego seguimento a este recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de março de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
