@@ -1,0 +1,16 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a jurisprudência do Supremo Tribunal Federal tem reiteradamente enfatizado que, em princípio, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição (RTJ 147/251 – RTJ 159/328 – RTJ 161/284 – RTJ 170/627-628 – AI 126.187-AgR/ES, Rel. Min. CELSO DE MELLO – AI 153.310-AgR/RS, Rel. Min. SYDNEY SANCHES – AI 185.669-AgR/RJ, Rel. Min. SYDNEY SANCHES – AI 192.995-AgR/PE, Rel. Min. CARLOS VELLOSO – AI 257.310-AgR/DF, Rel. Min. CELSO DE MELLO – RE 254.948/BA, Rel. Min. SEPÚLVEDA PERTENCE, v.g.), o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária.
+    A espécie ora em exame não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede – como precedentemente já enfatizado – o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO).
+    Cabe registrar, de outro lado, no que concerne à alegada ofensa ao art. 100, “caput”, e § 1º, da Constituição da República, que o recurso extraordinário em questão não se mostra processualmente viável.
+    Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 574.573-AgR/AC, Rel. Min. AYRES BRITTO, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora agravante:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. TÍTULO EXTRAJUDICIAL. OFENSA AO ART. 100 DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA.
+    1. Nos termos da jurisprudência do Supremo Tribunal Federal, não ofende o art. 100 da Constituição Federal a execução contra a Fazenda Pública com base em título executivo extrajudicial. Precedentes.
+    2. Questão infraconstitucional alusiva à caracterização de documento como título executivo extrajudicial não enseja a abertura da via recursal extraordinária.
+    3. Agravo regimental desprovido. ”
+    Impende assinalar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questão assemelhada à que ora se examina nesta sede recursal (AI 504.771-AgR/AL, Rel. Min. ELLEN GRACIE – ARE 776.560/SP, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 10 de março de 2014.
+Ministro CELSO DE MELLO
+Relator
