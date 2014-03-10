@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 53, de 20 de fevereiro de 2014
+ASSUNTO: Obrigações Acessórias EMENTA: SISCOSERV. ESTABELECIMENTO DE EMPRESA ESTRANGEIRA DOMICILIADO NO BRASIL. OBRIGATORIEDADE. O estabelecimento, domiciliado no Brasil, de sociedade estrangeira, fica obrigado a prestar as informações no Siscoserv relativas às transações que estabelecer com residentes ou domiciliados no exterior, que compreendam serviços, intangíveis e outras operações que produzam variações no seu patrimônio. DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 1.277, de 2012, art. 1º, § 4º, I; Portaria Conjunta RFB/SCS nº 1.908, de 2012; Portaria Conjunta RFB/SCS nº 1.895, de 2013.
+[arquivo anexo: SC Cosit nº 53-2014.pdf]
