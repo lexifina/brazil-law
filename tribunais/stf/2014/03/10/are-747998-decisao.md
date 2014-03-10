@@ -1,0 +1,14 @@
+DECISÃO: De acordo com a orientação firmada no Supremo Tribunal Federal, não cabe o agravo previsto no art. 544 do Código de Processo Civil da decisão que aplica o entendimento firmado nesta Corte em leading case de repercussão geral, nos termos do art. 543-B do CPC. Nesse sentido, confira-se a ementa do acórdão proferido pelo Plenário no AI 760.358-QO (relator-presidente min. Gilmar Mendes, DJe de 19.02.2010):
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental.
+    1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral.
+    2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação.
+    3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida.
+    4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.”
+    Nesse sentido, confiram-se: Rcl 7.569 (rel. min. Ellen Gracie, Plenário, DJe de 11.12.2009), ARE 694.491 (relator-presidente min. Ayres Britto, DJe de 19.12.2012), ARE 674.019 (relator-presidente min. Cezar Peluso, DJe de 20.04.2012), ARE 763.484 (rel. min. Celso de Mello, DJe de 21.08.2013), ARE 739.022 (rel. min. Luiz Fux, DJe de 22.08.2013), AI 820.365 (rel. min. Cármen Lúcia, DJe de 05.05.2011), ARE 641.914 (rel. min. Marco Aurélio, DJe de 25.08.2011), ARE 760.390 (rel. min. Ricardo Lewandowski, DJe de 06.08.2013), ARE 760.564 (rel. min. Teori Zavascki, DJe de 07.08.2013) e ARE 734.010 (rel. min. Dias Toffoli, DJe de 01.08.2013).
+    Assim, compete aos tribunais e turmas recursais de origem, em exercício de atribuição própria conferida pela lei, a adequação do acórdão recorrido ao entendimento firmado por esta Corte. Apenas nos casos em que o Tribunal a quo, motivadamente, não se retratar, caberá recurso para o Supremo Tribunal Federal, nos termos do art. 543-B, § 4º, do Código de Processo Civil.
+    Do exposto, não conheço do presente agravo.
+    Publique-se.
+    Brasília, 10 de março de 2014.
+Ministro Joaquim Barbosa
+Presidente
+Documento assinado digitalmente
