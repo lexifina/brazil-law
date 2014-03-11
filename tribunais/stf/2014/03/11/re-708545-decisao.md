@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “TRIBUTÁRIO. CRÉDITO PRESUMIDO DE IPI. LEI Nº 9.393/1996. EXPORTAÇÃO DE PRODUTO FINAL NÃO TRIBUTADO. AQUISIÇÕES DE PESSOAS FÍSICAS E COOPERATIVAS. CORREÇÃO MONETÁRIA.
+    1. Os arts. 21, § 1º, II, das IN SRF 69/2001, 315/2003 e 420/2004 e art. 17, § 1º, da IN SRF 419/2004, que afastam o direito ao aproveitamento do crédito presumido de IPI em relação às exportações de produtos não-tributados e às aquisições de pessoas físicas e cooperativas, não tem amparo em qualquer norma legal e, por sua natureza infralegal, não podem inovar no mundo jurídico.
+    2. Cabível a incidência de correção monetária sobre os créditos se o direito ao creditamento não foi exercido pelo contribuinte em razão de óbice criado pelo Fisco.
+    3. Aplica-se a Taxa SELIC para correção de créditos de IPI, por extensão das regras atinentes à repetição de indébito” (e-STJ, fl. 854).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, ofensa aos arts. 150, §6º, e 153, §3º, II, da Lei Maior.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, cumpre observar que o presente recurso perdeu o objeto, em parte.
+    Com efeito, o Superior Tribunal de Justiça deu parcial provimento ao Recurso Especial 1.227.615/SC, interposto pela ora recorrente, para reconhecer a “legalidade da limitação imposta pelas IN SRF 313/2003 e 419/2004, de cômputo dos valores referentes a exportação de produtos não tributados na base de cálculo do crédito presumido do IPI” (e-STJ, fl. 1.051)(decisão com trânsito em julgado certificado à fl. 1.088 do e-STJ).
+    No que se refere à parte não prejudicada do recurso, a jurisprudência desta Corte firmou-se no sentido de que a questão referente à eventual extrapolação das disposições da Lei 9.363/1996 por instruções normativas que lhes são pertinentes possui natureza infraconstitucional. Desse modo, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: RE 542.106-AgR/CE, Rel. Min. Eros Grau; AI 800.061-AgR/PI, Rel. Min. Marco Aurélio; AI 794.678/CE, Rel. Min. Gilmar Mendes; RE 653.342/SC, Rel. Min. Cármen Lúcia; RE 635.511/DF, Rel. Min. Dias Toffoli; RE 512.654/PE, Rel. Min. Joaquim Barbosa.
+    Quanto à possibilidade de correção monetária, na espécie, melhor sorte não assiste à recorrente. O caso dos autos não versa sobre a incidência de correção sobre créditos escriturais decorrentes diretamente do princípio da não-cumulatividade previsto nos arts. 153, §3º, II, e 155, §2º, I, da Constituição, hipótese em que, em alguns casos, este Tribunal tem admitido o debate do tema em recurso extraordinário.
+    Diversamente, o crédito em questão possui natureza de benefício fiscal, instrumento de política tributária, cuja alteração está vinculada aos juízos de oportunidade e conveniência do Poder Público, que deverá estabelecê-la de forma legítima e de acordo com seus objetivos estatais, os quais, em regra, estão ligados à política econômica.
+    Com efeito, a concessão desse favor fiscal não decorre de qualquer regra constitucional. Assim, a disciplina da correção monetária que eventualmente possa sobre eles incidir está restrita ao âmbito infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. O que inviabilizaria o conhecimento do recurso extraordinário.
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 11 de março de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
