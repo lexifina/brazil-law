@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO INTER VIVOS DE BENS IMÓVEIS – ITBI. FATO GERADOR. PROMESSA DE COMPRA E VENDA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “AGRAVO INOMINADO. APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE LANÇAMENTO. FATO GERADOR DO IMPOSTO ITBI. A transferência da propriedade somente ocorre com o registro do título no serviço registral da circunscrição do imóvel. De acordo com o art. 35 do Código Tributário Nacional, interpretado com base no art. 156, II, da Constituição Federal, o fato gerador do ITBI é a ‘transmissão inter vivos, a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física de direitos a sua aquisição’.” DECISÃO PROFERIDA PELO RELATOR QUE SE MANTÉM. AGRAVO DESPROVIDO”.
+    Os embargos de declaração opostos pelo Agravante foram rejeitados.
+    2. O Agravante alega que o Tribunal a quo teria contrariado o art. 150, § 7º, da Constituição da República.
+    Argumenta que
+    “se está diante de uma hipótese legal que busca alcançar determinados FINS EXTERNOS DA AÇÃO ESTATAL. Um destes fins é a PRATICABILIDADE ou PRATIC1DADE ADMINISTRATIVA, expressa num princípio difuso que permeia a atividade da Administração Pública, inclusive no seu quadrante tributário. A eficiência na arrecadação, o combate à sonegação, dentre outros, são objetivos que devem ser perseguidos e que se expressam legislativamente pela figura de presunções ou ficções.
+    Esse é o caso do § 7° do art. 150 da Constituição da República, cuia dimensão normativa comporta perfeitamente o princípio da PRATICABILIDADE NA SEARA TRIBUTÁRIA. Sendo assim, é perfeitamente jurídica a exigência do ITBI trinta dias após a data da lavratura da promessa de compra e venda, conforme dispõe a legislação tributária municipal.
+    E curial que se afirme, Excelências, que em nenhum momento o Ente Municipal se compromete, nesta sede, com a tese de que a justificativa do art. 20, inciso, VII, da Lei municipal n° 1.364/88, tributa o negócio jurídico de transmissão, consoante entendimento de alguns renomados autores (p. ex. Ricardo Lobo Torres em seu "Curso de Direito Financeiro e Tributário). O ente municipal investe firme suas baterias no entendimento de que sua legislação de regência, nos termos da Lei municipal n° 2.277/94, de 28/12/94, que modificou o texto original da Lei n° 1.364/88, cumpre os ditames da PRATICIDADE ou PRATICABILIDADE ADMINISTRATIVA na relação tributária, configurando um fim externo da ação estatal a ser perseguido, cujo maior paradigma é o art. 150, § 7°, da Constituição da República” .
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de prequestionamento.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois a matéria está prequestionada.
+     Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão do Agravante, não lhe assistindo razão jurídica.
+    6. O acórdão recorrido harmoniza-se com a jurisprudência do Supremo Tribunal Federal, que assentou que a transmissão do imóvel, para fins de fato gerador do ITBI, somente ocorre com o registro da transferência efetiva da propriedade no cartório de registro de imóveis:
+    “Agravo regimental no agravo de instrumento. Imposto de transmissão intervivos de bens imóveis. ITBI. Momento da ocorrência do fato gerador. Compromisso de compra e venda. Registro do imóvel. 1. Está assente na Corte o entendimento de que o fato gerador do ITBI somente ocorre com a transferência efetiva da propriedade imobiliária, ou seja, mediante o registro no cartório competente. Precedentes. 2. Agravo regimental não provido” (AI 764.432-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 25.11.2013, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSSIBILIDADE DE INCIDÊNCIA DO IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS (ITBI) SOBRE CONTRATOS DE PROMESSA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 666.096-AgR, de minha relatoria, Segunda Turma, DJe 21.11.2012, grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. CONTRATO DE COMPROMISSO DE COMPRA E VENDA. NÃO-INCIDÊNCIA DO ITBI. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. A celebração de contrato de compromisso de compra e venda não gera obrigação ao pagamento do ITBI. Agravo regimental a que se nega provimento” (AI 603.309-AgR, Relator o Ministro Eros Grau, Segunda Turma, Dj 23.2.2007, grifos nossos).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de março de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
