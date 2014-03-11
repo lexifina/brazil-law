@@ -1,0 +1,19 @@
+DECISÃO: A parte reclamante impugna decisão concessiva de tutela antecipatória, sustentando que esta desrespeitou a eficácia vinculante de que se reveste o julgamento proferido pelo Supremo Tribunal Federal no exame da ADC 4/DF, Rel. p/ o acórdão Min. CELSO DE MELLO.
+    Cumpre salientar, no entanto, que as informações prestadas pelo E. Tribunal Regional Federal da 4ª Região (fls. 99/108) revelam que sobreveio julgamento final de mérito nos autos do processo em que praticado o ato de que se reclama.
+    Isso significa, considerado o contexto em exame, que não mais subsiste, autonomamente, a decisão interlocutória ora questionada nesta sede reclamatória.
+    Com efeito, em caso de procedência, a antecipação de tutela incorporar-se-á à sentença, ou ao acórdão, registrando-se, em tal situação, novação de título jurídico. É que a simples provisoriedade resultante da decisão interlocutória que ensejou a reclamação ter-se-á convertido, por efeito do julgamento da causa, em ato revestido de definitividade, fundado em sentença que julgou o processo.
+    De outro lado, em ocorrendo hipótese de improcedência, ter-se-á por revogado o provimento antecipatório, porque descaracterizado, em tal situação, o juízo de verossimilhança, que constitui pressuposto essencial da antecipação dos efeitos da tutela jurisdicional.
+    Cabe ter presente, no ponto, a autorizada lição de ATHOS GUSMÃO CARNEIRO (“Da Antecipação de Tutela no Processo Civil”, p. 79, item n. 58, 1998, Forense), que, ao analisar as relações entre a decisão interlocutória que veicula a antecipação de tutela (AT) e a sentença que julga a causa, expende precisas considerações sobre a matéria:
+    “Uma vez proferida a sentença, cumpre distinguir.
+    No caso de sentença de procedência, a ‘satisfação’ já efetivada pela AT incorpora-se à eficácia de declaração (com capacidade de gerar coisa julgada material) contida na sentença; assim, a ‘provisoriedade’ é sucedida pela ‘definitividade’. Caso a ‘satisfação’ haja sido ‘incompleta’ (pelas limitações previstas no art. 588), a ‘execução provisória’ irá convolar-se em execução definitiva.
+    No caso de sentença de improcedência, terá desaparecido o ‘juízo de verossimilhança’, e destarte a AT considerar-se-á automaticamente revogada, devendo as coisas retornarem ao estado anterior (art. 588, III e parágrafo único).” (grifei)
+    Cumpre ressaltar que esse entendimento encontra apoio no magistério jurisprudencial desta Suprema Corte (Rcl 805/RJ, Rel. Min. CELSO DE MELLO – Rcl 1.272/RJ, Rel. Min. CELSO DE MELLO – Rcl 1.483/RJ, Rel. Min. CARLOS VELLOSO – Rcl 2.023/CE, Rel. Min. JOAQUIM BARBOSA – Rcl 2.497/PE, Rel. Min. SEPÚLVEDA PERTENCE – Rcl 3.459/PB, Rel. Min. GILMAR MENDES – Rcl 4.182/PA, Rel. Min. SEPÚLVEDA PERTENCE, v.g.), valendo referir, ante a sua extrema pertinência, decisão plenária proferida no julgamento da Rcl 1.459/RS, Rel. p/ o acórdão Min. SEPÚLVEDA PERTENCE, que restou consubstanciada em acórdão assim ementado:
+    “A Ação Declaratória de Constitucionalidade 4 examinou hipótese de tutela antecipada: se há sentença de mérito - contra ou a favor da Fazenda Pública - não há o que preservar pela via da reclamação.
+    A sentença de mérito prejudica a reclamação que se fundamenta na afronta à decisão da ADC 4.” (grifei)
+    O exame destes autos evidencia a ocorrência, na espécie, de típica hipótese de prejudicialidade, eis que já proferida decisão de mérito na causa em que praticado o ato de que se reclama.
+    Sendo assim, em face da superveniência de fato jurídico processualmente relevante e tendo em consideração, ainda, os precedentes acima referidos, julgo extinta a presente reclamação, restando prejudicado, em consequência, o exame do recurso de agravo interposto pela União Federal.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 11 de março de 2014.
+Ministro CELSO DE MELLO
+Relator
