@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de São Paulo. Aparelhado o recurso na violação dos arts. 18, 150, § 6º, e 155, § 2º, XII, “g”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Consta do acórdão recorrido:
+    “APELAÇÃO CÍVEL EMBARGOS À EXECUÇÃO FISCAL ICMS declarado e não pago Inscrição da dívida ativa estadual e imposição de multa, juros e correção Fornecimento de alimentos Remissão de ICMS trazida pela Lei Estadual nº 8.198/92 Assiste razão à embargante, porque com o advento da Lei nº 8.198/92 ficou dispensado o pagamento de tributo relativo ao fornecimento de alimentos até a data da sua publicação (15.12.1992), permanecendo, apenas, a obrigação quanto ao fornecimento de bebidas No caso em tela, a dívida inscrita tem por lançamento do título exequendo os anos de 1988 e 1989 (fl. 03 do apenso) Evidenciamento de perda de liquidez da certidão de dívida por ausência de especificação da parte referente ao fornecimento de bebidas Reforma da r. Sentença recorrida Honorários advocatícios de quinze por cento do valor do débito atualizado _ Provimento do recurso.” (fl. 176)
+    Nesse sentir, observo que as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional local aplicável à espécie (Lei estadual 8.198/92), concluindo pela ausência de liquidez e certeza da certidão da dívida ativa que fundamenta a execução fiscal. Ademais, a aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação dos arts. 18, 150, § 6º, e 155, § 2º, XII, “g”, da Constituição da República.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: AI 328.808-AgR/SP, Rel. Min. Carlos Velloso, 2ª Turma, DJ 1º.3.2002; e AI 630.838-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 18.9.2009, assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. LEI ESTADUAL N. 8.198/92: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Outrossim, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 11 de março de 2014.
+Ministra Rosa Weber
+Relatora
