@@ -1,0 +1,16 @@
+Decisão:
+Ementa: Habeas corpus. Tráfico de drogas. Dosimetria da pena. Regime inicial de cumprimento da pena. Jurisprudência consolidada do Supremo Tribunal Federal. Concessão parcial da ordem.
+    Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão que não conheceu do Aresp 312.824, do Superior Tribunal de Justiça.
+    Extrai-se dos autos que o paciente foi condenado a 3 anos de reclusão em regime inicial fechado pelo delito de tráfico de entorpecentes (art. 12 da Lei nº 6.368/1976). Após a sentença condenatória, sobreveio a vigência da Lei nº 11.343/2006, tendo o Tribunal de Justiça de São Paulo, em grau de apelação, desprovido o pedido de aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei de drogas. Segundo o voto condutor do acórdão estadual, “se comparada com a Lei 6.368/1976, a lei mencionada é mais severa quanto ao crime de tráfico ilícito de entorpecentes, na medida em que a pena corporal foi majorada, o mesmo ocorrendo com a pena pecuniária”.
+    O recurso especial apresentado pela defesa não foi admitido na origem. Da mesma forma, o agravo em recurso especial interposto para a abertura da instância extraordinária não foi conhecido pelo Superior Tribunal de Justiça.
+    Neste habeas corpus, o impetrante afirma que o paciente preenche os requisitos do redutor do art. 33, § 4º, da Lei nº 11.343/2006, não sendo correta a conclusão de que, mesmo nessas condições, a legislação em vigor seria mais gravosa do que a vigente na data dos fatos. Requer, assim, seja reconhecido o direito do paciente à redução da pena.
+    Decido.
+    No julgamento do RE 600.817, Rel. Min. Ricardo Lewandowski, o Plenário do Supremo Tribunal Federal decidiu pela impossibilidade de combinação das leis nº 6.368/1976 e nº 11.343/2006. Na oportunidade, no entanto, o Tribunal fixou a orientação de que o magistrado deve, no caso concreto, avaliar se é mais favorável ao réu a aplicação da lei antiga ou da lei nova, uma ou outra, considerada integralmente.
+    Nessas condições, ao contrário do que estabelecido no acórdão estadual, a causa de diminuição de pena definida no art. 33, § 4º, da Lei de Drogas pode ser aplicada a fatos ocorridos antes de sua vigência, desde que aplicada à pena-base prevista no caput do mesmo artigo e, claro, se o resultado for mais benéfico do que a pena determinada com base no art. 12 da Lei nº 6.368/76.
+    Assim, nos termos do art. 192 do RI/STF, concedo parcialmente a ordem para determinar ao Juízo de Direito da 8ª Vara Criminal de São Paulo/SP que examine, com a urgência que o caso exige, se estão presentes os requisitos para a aplicação do redutor legal e avalie qual a lei mais benigna em concreto. Além disso, independentemente do redimensionamento da reprimenda, determino que o Juízo aprecie, fundamentadamente, as condicionantes para a fixação do regime inicial de cumprimento de pena e de eventual substituição da pena privativa de liberdade por penas restritivas de direitos, conforme decidido pelo Supremo Tribunal Federal no julgamento do HC 97.256, da relatoria do Ministro Ayres Britto, e do HC 111.840, Rel. Min. Dias Toffoli.
+    Publique-se.
+    Comunique-se, com urgência.
+          Brasília, 11 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
