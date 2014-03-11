@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que inadmitiu recurso extraordinário.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 1º, IV; 2º, I, II, XXII e XXXVI; 170, II; 195, § 5º; 201; e 202 da mesma Carta.
+    A pretensão recursal não merece acolhida. Preliminarmente, observa-se que os dispositivos apontados como violados não foram prequestionados. Como tem consignado este Tribunal, conforme a Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. AGRAVO IMPROVIDO. I - Falta de prequestionamento da questão constitucional suscitada, e não oposição dos embargos declaratórios com a finalidade de suprir essa omissão. Incidência das Súmulas 282 e 356 do STF. II - A alegada violação ao art. 5º, LIV, da CF, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. III - Ausência de novos argumentos. IV - Agravo regimental improvido” (AI 811.303-AgR/RS, de minha relatoria, Primeira Turma).
+    Além disso, mesmo que superado tal óbice, melhor sorte não teria a recorrente, tendo em vista que o entendimento deste Tribunal é assente no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa.
+    Do mesmo modo, depreende-se do acórdão recorrido que a questão foi solucionada com base em normas infraconstitucionais aplicáveis à espécie (Lei 8.078/1990 e Lei Complementar 109/2001), situação que não viabiliza a abertura da via extraordinária.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 11 de março de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
