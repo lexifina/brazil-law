@@ -1,0 +1,47 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. RODOVIA. ACIDENTE. NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra julgado do Colégio Recursal da 23ª Circunscrição Judiciária da Comarca de Botucatu/SP que manteve a seguinte sentença:
+    “É fato incontroverso nos autos o acidente de trânsito envolvendo um animal eqüino e o veículo da requerida que, na ocasião, era conduzido pelo coautor. Resta, portanto, analisar a responsabilidade da concessionária de serviço público pelo ocorrido.
+    (…)
+    Nesse passo, a concessionária é responsável pela via deve arcar com os riscos inerentes a sua conduta, seja ela comissiva, seja omissiva. Os cidadãos que transitam pelas estradas públicas pedagiadas, em razão de sua presumida vulnerabilidade, não têm o ônus de provar a culpa ou o dolo do agente público.
+    Para que haja o dever de indenizar, suficiente que nada exclua, no curso do processo, a formação do nexo causai direto entre a inatividade e o evento| danoso.
+    Portanto, cabia à concessionária ré, frente aos danos,-causados por sua omissão, comprovar o rompimento do nexo causai, o que inocorreu.
+    Quando à pretensão de inaplicabilidade do CDC em virtude do requerente não haver pagado tarifa de pedágio, é gritante a insubsistência da alegação da contestante.
+    (…)
+    A concessionária é responsável por todo o trecho objeto do contrato de concessão, independentemente se o usuário pagou a tarifa ou não.
+    E mesmo que assim não fosse, o que se faz apenas a título de argumentação, o usuário que sofreu danos na rodovia seria consumidor por equiparação, nos moldes do artigo 17 do CDC.
+    Desta forma, para o fim deste feito, é crível sustentar que o serviço público prestado pela concessionária requerida deve ser eficiente e seguro sendo que na hipótese de descumprimento destas obrigações deverá reparar os danos causados, na forma prevista no CDC. Assim, a questão da responsabilidade pelos danos que a parte autora aponta na sua petição inicial deve ser compreendida à luz do Código de Defesa do Consumidor e, também, de outras legislações aplicáveis, mas desde que não afastem os elementos principiológicos do Direito do Consumidor, cujo objetivo é a proteção do consumidor, aliás, diretriz constitucional da ordem econômica (artigo 170, inciso V, CF).
+    (…)
+    Além disso, a mesma Lei n° 8.987/95 dispõe, no art. 25, que incumbe à concessionária a execução do serviço concedido e, via de conseqüência, a responsabilidade por todos os prejuízos dali advindos, aos usuários ou a terceiros.
+    (…)
+    A alegação de que foram feitas todas as inspeções previstas não implica necessariamente no reconhecimento da inexistência de falha ou defeito na execução do serviço. Trata-se de risco inerente à atividade e que deve ser suportado pelo prestador de serviços (artigo 927, § único do Código Civil).
+    Desta feita, não prospera o argumento de ausência de nexo de causalidade diante da existência de caso fortuito.
+    Diante do todo exposto, prescinde de análise o depoimento da testemunha arrolada pelo requerido (mídia de fls. 23-A), pois, como dito, sendo incontroverso o acidente, logo, a presença de animais na pista, surge a responsabilidade da requerida.
+    Assim, havendo comprovação da ocorrência do dano e do nexo causal (avarias no veículo do autor, em virtude do acidente de trânsito originado na presença de animal na pista pedagiada), deve ser responsabilizada a concessionária pelos danos advindos do choque.
+    (…)
+    De acordo com o exposto e o mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTE O PEDIDO para o fim de condenar a requerida a pagar: a) à requerente Isabel Cristina de Souza Bernardino indenização por dano material no valor de 9.911,00 (nove mil novecentos e onze reais) e por dano moral no importe de R$ 3.000,00 (três mil e reais); b) ao requerente Júnior César Bernardino indenização por danos morais no valor de R$ 6.000.00 (seis mil reais). Dano material com juros de mora de 1% ao mês a contar do evento danoso (Súmula 54 do STJ) e atualizado monetariamente nos termos da tabela prática do TJSP a partir de 25.11.2012 (fls. 47). Dano moral com juros de mora de 1% a contar do evento danoso (Súmula 54 do STJ) e atualizado monetariamente nos termos da tabela prática do TJSP, a contar desta sentença (Súmula 362 do STJ)” (grifos nossos).
+    2. A Agravante alega que a Turma Recursal a quo teria contrariado os arts. 2º, 5º, inc. XXXV e LV, e 37, § 6º, da Constituição da República.
+    Argumenta que
+    “não se pode atribuir qualquer parcela de culpa a Recorrente posto que todos os deveres inerentes a sua atividade foram integralmente cumpridos, fornecendo uma via de tráfego em perfeitas condições de uso e segurança.
+    (...)
+    Conclui-se portanto, que a Concessionária não tem o dever de oferecer segurança total e absoluta, como se fosse uma seguradora universal.
+    (...)
+    Por conseguinte, a Recorrente cumpriu a sua obrigação de conservação da rodovia. O serviço foi adequado e seguro, de forma que foram adotadas todas as medidas capazes e necessárias para evitar qualquer condição desfavorável, caracterizando-se seu comportamento como perfeitamente lícita diante da norma jurídica que regula as obrigações da Recorrente perante o Poder Concedente e seus usuários.
+    (...)
+    Assim, não existe nenhuma circunstância que pudesse caracterizar a responsabilidade da Recorrente. Ademais, obrigar a concessionária além dos limites das obrigações contratualmente assumidas implica em patente quebra do equilíbrio econômico financeiro do negócio, a ensejar revisão de tarifa em prejuízo dos usuários cumpridores de suas obrigações como condutores de veículos”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa direta à Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Código Civil, Código de Defesa do Consumidor e Lei n. 8.987/1995) e do conjunto fático-probatório do processo. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Falha na segurança da rodovia. Responsabilidade civil objetiva do Estado. 4. Consumidor. Indenização por danos morais. Necessidade de revolvimento da matéria fático-probatória. Impossibilidade. Incidência do Enunciado 279 da Súmula do STF. 5.A agravante não trouxe argumentos suficientes para infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE 748.106-AgR/SP, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 24.9.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA DE CONCESSIONÁRIA PRESTADORA DE SERVIÇO PÚBLICO. FALHA DE SEGURANÇA EM RODOVIA. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. ALEGADA CONTRARIEDADE AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - A apreciação do recurso extraordinário, na espécie, encontra óbice na Súmula 279 do STF. Precedentes. II - Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Precedentes. III - Agravo regimental improvido” (ARE 722.714-AgR/SP, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 17.6.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL OBJETIVA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CONDUTA OMISSIVA. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 711.342-AgR, de minha relatoria, Segunda Turma, DJe 7.12.2012).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de março de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
