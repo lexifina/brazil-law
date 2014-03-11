@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de recurso extraordinário de acórdão da Segunda Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Paraná que, em sede recursal, manteve sentença que julgara improcedente o pleito de revisão de benefício previdenciário.
+    Os embargos de declaração foram acolhidos para sanar omissão.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 195, §4º, da CF/88, sob a alegação de que o benefício previdenciário já concedido deveria ser reajustado pelos mesmo índices de correção previstos nas Portarias 4.883/1998-MPAS e 12/2004-MPS.
+    2. O Juízo de origem decidiu a controvérsia tão somente a partir de interpretação e aplicação da norma infraconstitucional pertinente (Lei 8.213/1991 e Portarias 4.883/1998-MPAS e 12/2004-MPS). Conforme reiterada jurisprudência desta Corte, é inviável a apreciação, em sede de recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido, em caso idêntico:
+    Agravo regimental no recurso extraordinário. Benefício. Índice de reajuste. Salário de contribuição. Equiparação. Ausência de repercussão geral. Precedentes. 1. O Plenário desta Corte, no exame do RE nº 686.143/PR, Relator o Ministro Cezar Peluso, entendeu pela ausência de repercussão geral do tema relativo “à possibilidade, ou não, de ser determinada em juízo a equivalência entre o limite máximo do salário-de-contribuição e a renda mensal dos benefícios previdenciários”, dado o caráter infraconstitucional do tema. 2. Agravo regimental não provido. (RE 626.710 AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe de 12/03/2013).
+    Não foi por outro motivo que o Plenário virtual, em situação idêntica, na análise do RE 686.143 RG (rel. Min. CEZAR PELUSO, DJe 11/09/2012 - TEMA 568), decidiu pela inexistência de repercussão geral da questão objeto deste recurso, em acórdão assim ementado:
+    PREVIDÊNCIA SOCIAL. BENEFÍCIO. Índice de reajuste. Equiparação ao limite do salário de contribuição. Questão infraconstitucional. Precedentes da Corte. Ausência de repercussão geral. Recurso extraordinário recusado. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto o índice para reajuste de benefício pago pelo regime geral de previdência, versa sobre matéria infraconstitucional.
+    3. Diante do exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 11 de março de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
