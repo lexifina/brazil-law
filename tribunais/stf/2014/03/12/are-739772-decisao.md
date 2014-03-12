@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – IMPOSSIBILIDADE – AGRAVO DESPROVIDO.
+    1. A pretensão do recorrente não merece prosperar. A conclusão adotada pelo Tribunal de Justiça do Estado do Ceará está em consonância com o entendimento do Supremo, no sentido de que, a partir da Constituição de 1988, nenhum servidor público, ativo ou inativo, pode receber remuneração inferior ao salário mínimo. Confiram com os seguintes precedentes:
+    EMENTA: - DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. VENCIMENTOS MÍNIMOS: SALÁRIO MÍNIMO. ARTIGOS 39, § 2º, E 7º, IV, DA CONSTITUIÇÃO FEDERAL. AUTO- APLICABILIDADE. O § 2º do art. 39 da Constituição Federal manda aplicar, aos servidores públicos federais, estaduais e municipais, o disposto no artigo 7º, inc. IV, que assegura salário mínimo aos trabalhadores urbanos e rurais. 2. Tais normas constitucionais, atribuindo, a tais servidores, vencimentos não inferiores a um salário-mínimo, são auto-aplicáveis, independendo, pois, da Lei a que se refere o art. 61, § 1º, II, "a", da Carta Magna. 3. Não há nesse entendimento qualquer conflito com a Súmula 339 do S.T.F. 4. Precedentes da Corte. 5. R.E. conhecido e provido, para o deferimento do Mandado de Segurança, ficando assegurado, aos servidores do Município recorrido, vencimentos não inferiores a um salário-mínimo, sucessivamente vigorante, desde a impetração.
+    (RE 195315, Relator(a): Min. SYDNEY SANCHES, Primeira Turma, julgado em 24/03/1998, DJ 07-08-1998 PP-00042 EMENT VOL-01917-04 PP-00847)
+    EMENTA: 1.Servidor público aposentado por invalidez, com proventos proporcionais: direito a que estes não sejam inferiores ao mínimo legal: acórdão recorrido que decidiu em consonância com a orientação da Corte, no sentido de que, a partir da Constituição de 1988 (art. 7º, IV, c/c 39, § 2º - atual § 3º), nenhum servidor - ativo ou inativo - poderá perceber remuneração (vencimentos ou proventos) inferior ao salário mínimo, mesmo quando se tratar de aposentadoria com proventos proporcionais : precedentes. 2. Recurso extraordinário: descabimento: falta de prequestionamento: dispositivos constitucionais suscitados no RE (CF, arts. 5º, XXXVI e 37, caput) não cogitados pelo acórdão recorrido, ao qual não se opuseram embargos de declaração: Súmulas 282 e 356.
+ (RE 340599, Relator(a): Min. SEPÚLVEDA PERTENCE, Primeira Turma, julgado em 28/10/2003, DJ 28-11-2003 PP-00015 EMENT VOL-02134-03 PP-00466)
+    EMENTA: Administrativo. Proventos proporcionais. Inferioridade ao salário mínimo. Impossibilidade. Precedentes do Tribunal. Fundamentos não afastados pela agravante. Regimental não provido.
+    (RE 215527 AgR, Relator(a): Min. NELSON JOBIM, Segunda Turma, julgado em 09/04/2002, DJ 27-09-2002 PP-00134 EMENT VOL-02084-02 PP-00301)
+    2. Ante o quadro, conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 12 de março de 2014.
+Ministro MARCO AURÉLIO
+Relator
