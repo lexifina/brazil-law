@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. SERVIDOR PÚBLICO. ÍNDICES DE 26,06% E 26,05%. MULTA DIÁRIA CONTRA A FAZENDA PÚBLICA. OBIGAÇÃO DE FAZER. CABIMENTO. PROPORCIONALIDADE DA SANÇÃO. RECURSO DESPROVIDO. 1. - Cabe a fixação de astreinte contra a Fazenda Pública como meio coercitivo para o cumprimento de obrigação de fazer/não fazer. 2. - No caso concreto, a penalidade arbitrada pelo magistrado – R$ 300,00 – sopesa corretamente a urgência do direito vindicado pela parte, de caráter alimentar, bem como o aquilatado prazo já conferido à Administração Pública, haja vista que a agravante foi devidamente intimada para cumprir a determinação judicial em 08.04.2011, havendo, desde então, a concessão de inúmeras dilações de prazo, inobstante a ausência de elementos concretos indicativos de óbices reais ao cumprimento de obrigação de fazer. Agravo de instrumento desprovido”. (eDOC 3, p. 177)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 37, caput, do texto constitucional.
+    Alega-se, em síntese, que, devido aos princípios da legalidade e da impessoalidade, não é possível a aplicação de multa cominatória contra a Fazenda Pública.
+    Decido.
+    O acórdão recorrido não merece reforma, uma vez que está em consonância com o entendimento desta Corte no sentido de que não há obstáculo jurídico-processual à utilização, contra entidades de direito público, da multa cominatória. Nesse sentido, cito o ARE-RG 639.337, Rel. Min. Celso de Mello, Segunda Turma, DJe 15.9.2011:
+    “CRIANÇA DE ATÉ CINCO ANOS DE IDADE - ATENDIMENTO EM CRECHE E EM PRÉ-ESCOLA - SENTENÇA QUE OBRIGA O MUNICÍPIO DE SÃO PAULO A MATRICULAR CRIANÇAS EM UNIDADES DE ENSINO INFANTIL PRÓXIMAS DE SUA RESIDÊNCIA OU DO ENDEREÇO DE TRABALHO DE SEUS RESPONSÁVEIS LEGAIS, SOB PENA DE MULTA DIÁRIA POR CRIANÇA NÃO ATENDIDA - LEGITIMIDADE JURÍDICA DA UTILIZAÇÃO DAS “ASTREINTES” CONTRA O PODER PÚBLICO - DOUTRINA - JURISPRUDÊNCIA - OBRIGAÇÃO ESTATAL DE RESPEITAR OS DIREITOS DAS CRIANÇAS - EDUCAÇÃO INFANTIL - DIREITO ASSEGURADO PELO PRÓPRIO TEXTO CONSTITUCIONAL (CF, ART. 208, IV, NA REDAÇÃO DADA PELA EC Nº 53/2006)
+    (...)
+    LEGITIMIDADE JURÍDICA DA IMPOSIÇÃO, AO PODER PÚBLICO, DAS “ASTREINTES”. - Inexiste obstáculo jurídico-processual à utilização, contra entidades de direito público, da multa cominatória prevista no § 5º do art. 461 do CPC. A “astreinte” - que se reveste de função coercitiva - tem por finalidade específica compelir, legitimamente, o devedor, mesmo que se cuide do Poder Público, a cumprir o preceito, tal como definido no ato sentencial. Doutrina. Jurisprudência”. (grifou-se)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 12 de março de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
