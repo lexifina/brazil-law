@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravos do Instituto Nacional do Seguro Social - INSS (peça 123) e da Fundação Universidade Federal do Rio Grande - FURG (peça 125) atacando decisão que inadmitiu seus respectivos recursos extraordinários interpostos em face de acórdão da 2ª Turma Recursal da Seção Judiciária do Rio Grande do Sul que, em recurso inominado, manteve a sentença que reconhecera o exercício de labor especial no interregno de 01/08/1979 a 30/06/1981.
+    Os embargos de declaração opostos foram rejeitados.
+    O INSS aponta ofensa aos arts. 2º, 5º, 44, 58, 59, II, 194, parágrafo único, III, e 201, caput, §§ 1º e 8º, 9, todos da CF, e art. 9º, § 2º, da EC 20/98, pois o tempo de serviço diferenciado para aposentadoria de professor só tem efeito se for integralmente prestado nesta condição, não sendo possível sua conversão para tempo de serviço comum.
+    Por sua vez, a FURG aduz a violação dos arts. 2°, 44, 48, 59, II, 194 e 201, § § 1º e 8°, todos da Constituição, e art. 9º, § 2°, da EC 20/98, sustentando, em síntese, violação ao regime constitucional excepcional de aposentadoria por tempo de contribuição para professor.
+    Em contrarrazões, a parte recorrida postula o desprovimento do recurso.
+    2. É pacífico na jurisprudência do Supremo Tribunal Federal o entendimento de que “o direito a aposentadoria especial dos professores só se aperfeiçoa quando cumprido totalmente este especial requisito temporal no exercício das especificas funções de magistério, excluída qualquer outra” (ADI 178, rel. Min. MAURÍCIO CORRÊA, Tribunal Pleno, DJ de 26-04-1996). Assim, não é cabível, para fins de aposentadoria, a conversão de tempo de serviço especial prestado em função de magistério em tempo de serviço comum. Nesse sentido: RE 719.936-AgR, rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 11-04-2013; ARE 703.551-AgR, rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 06-12-2012; RE 288.640-AgR, rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 01-02-2012; RE 528.343-AgR, rel. Min. GILMAR MENDES, Segunda Turma, DJe de 30-11-2010; e ADI 755, Tribunal Pleno, rel. Min. MARCO AURÉLIO, DJ de 06/12/96.
+    3. Diante do exposto, conheço dos agravos para, desde logo, dar provimento aos recursos extraordinários e julgar improcedente o pedido inicial. Ônus sucumbenciais pela parte recorrida, observada eventual concessão de assistência judiciária gratuita.
+    Publique-se. Intime-se.
+    Brasília, 12 de março de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
