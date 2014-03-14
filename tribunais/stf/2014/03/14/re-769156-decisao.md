@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “CONSTITUCIONAL. TRIBUTÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. APELAÇÃO DA UNIÃO FEDERAL. AUSÊNCIA DE INTERESSE RECURSAL. INSTITUIÇÃO FINANCEIRA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. NATUREZA JURIDICA. LEI Nº 7.689/88. PARCIAL DESISTÊNCIA DA APELAÇÃO. PRINCÍPIOS DA ISONOMIA E DA CAPACIDADE CONTRIBUTIVA. AUSÊNCIA DE INCONSTITUCIONALIDADE. CONVERSÃO DOS DEPÓSITOS EFETIVADOS NOS AUTOS DA MEDIDA CAUTELAR. APELAÇÃO DA UNIÃO FEDERAL NÃO CONHECIDA E APELO DA IMPETRANTE DESPROVIDO.
+    I - Não se conhece da apelação da União Federal, por falta de interesse recursal, posto que a sentença foi taxativa quanto à improcedência do pedido de inexigibilidade da CSSL no período de janeiro e fevereiro de 1993, conforme pleiteado na exordial. O fato de ter ressalvado o ano-base de 1988, conforme decidido pela Suprema Corte, não lhe traz qualquer prejuízo, posto tratar-se de mero esclarecimento quanto à situação jurídica da exação discutida.
+    II – As instituições financeiras e aquelas que lhe estão equiparadas, descritas no § 1º do art. 22 da Lei nº 8.212/91, sendo notório que, pelo sistema econômico brasileiro e pelas condições de sua atuação no mercado, são as que percebem os maiores lucros e detém maior capacidade econômica, assim analisando num aspecto puramente objetivo e genérico, sendo irrelevante a sua condição no aspecto individual, por isso justificando-se o tratamento diferenciado a elas dispensado pela legislação da CSSL, desde a sua criação pela Lei nº 7.689/88 até as regras trazidas pela legislação posterior, não havendo ofensa aos princípios constitucionais da isonomia e da capacidade contributiva. Precedentes dos TRF`s das 2ª, 3ª, 4ª, e 5ª Regiões.
+    III – Tratando-se de contribuições sociais afetas ao sistema da seguridade social, como é o caso da CSSL, regem-se pelo princípio da solidariedade social (art. 195, caput), sem necessidade de algum especial benefício recebido pelos contribuintes ou pelos seus empregados como uma contrapartida da contribuição mais gravosa, ou que deveria haver maior encargo para a Seguridade Social.
+    IV – Os depósitos judiciais remanescentes, efetivados nos autos da medida cautelar em apenso (Proc. nº 95.03.085300-1), deverão ser convertidos em renda da União.
+    V – Apelação da União Federal não conhecida e apelação da impetrante desprovida.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput; 150, II; 145, § 1º; e 195, caput, do texto constitucional.
+    Alega-se, em síntese, que a previsão de alíquota diferenciada prevista no art. 11 da Lei Complementar n. 70/91 para a contribuição sobre o lucro líquido afronta a norma constitucional.
+    Decido.
+    O acórdão recorrido não merece reforma.
+    Verifico que a decisão está em consonância com a jurisprudência do Supremo Tribunal Federal, no sentido de que a lei impugnada, no que se refere ao estabelecimento de alíquota diferenciada para a contribuição em questão, não viola o princípio da isonomia tributária.
+    Nesse sentido, cito os seguintes precedentes:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO DESTINADA AO CUSTEIO DA SEGURIDADE SOCIAL. INSTITUIÇÕES FINANCEIRAS. CARGA TRIBUTÁRIA MAIOR. VIOLAÇÃO DO PRINCÍPIO DA ISONOMIA NÃO DEMONSTRADA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. CSLL. ART. 11 DA LC 70/1991. ECR 01/1994. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. 1. Segundo precedentes da Segunda Turma desta Corte, não pode o Judiciário substituir-se ao legislador positivo para reduzir a carga tributária das instituições financeiras, por alegada ofensa ao princípio da isonomia. 2. As razões recursais não afastam dúvida determinante, relativa à possibilidade de as instituições financeiras sofrerem sacrifícios marginais proporcionalmente maiores, nos termos do princípio da solidariedade no custeio da seguridade social. Agravo regimental ao qual se nega provimento.”
+    (RE-AgR 490.576, Rel. Min. Joaquim Barbosa, DJe 30.3.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL. ALÍQUOTA DIFERENCIADA. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA ISONOMIA TRIBUTÁRIA. IMPOSSIBILIDADE DE ATUAR O PODER JUDICIÁRIO COMO LEGISLADOR POSITIVO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE-AgR 552.118, Rel. Min. Cármen Lúcia, DJe 26.4.2011)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 14 de março de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
