@@ -1,0 +1,11 @@
+Decisão: Cuida-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, com a seguinte ementa:
+    “Administrativo. Servidor Municipal. Adicional por tempo de serviço. Abono salarial. Estabilidade financeira. Princípio da segurança das relações jurídicas. A legislação do Município de Uberaba, ao dispor sobre os direitos ao adicional por tempo de serviço, ao abono salarial e à estabilidade financeira, decorrente do exercício do cargo de chefia ou de assessoramento, não os restringe aos titulares de cargos públicos de carreira, mas os estende aos detentores de funções públicas. O princípio da segurança das relações jurídicas não pode ser anulado por norma superveniente à incorporação de bens e direitos ao patrimônio do servidor. Rejeita-se a preliminar e confirma-se a sentença, prejudicado o recurso voluntário.” (fl. 1203).
+    Sustentam os recorrentes, em síntese, que apenas os servidores efetivos encontram-se entre os destinatários das normas locais que estabelecem o direito à percepção do adicional por tempo de serviço, do abono salarial.
+    A tese articulada no recurso extraordinário, como se percebe, assenta-se na interpretação de norma jurídica municipal. Todavia, nos termos da Súmula 280 do STF, “por ofensa a legislação local não cabe recurso extraordinário”. Nesse sentido, em caso no qual também se discutia o pagamento de adicional por tempo de serviço e de abono salarial em relação a cargos em comissão, assim decidiu a 2ª Turma desta Corte, conforme ementa a seguir transcrita:
+    “Agravo regimental em agravo de instrumento 2. Servidor público. Adicional de tempo de serviço. Previsão de gratificação de 1/3 incidente sobre cargo em comissão e abono salarial em legislação municipal (LC 302/1998 e Lei 1.867/2000, do Município de Santos e Lei Orgânica do Município de Santos). 3. Impossibilidade de reexame da legislação local. Ofensa reflexa à Constituição Federal. Verbete 280 da Súmula do STF. 4. Ausência de argumentos suficientes para infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (STF, AI 802183 AgR / SP, 2ª Turma, Rel. Min. Gilmar Mendes, 29.9.2011).
+    Pelo exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Pulique-se.
+    Brasília, 14 de março de 201.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
