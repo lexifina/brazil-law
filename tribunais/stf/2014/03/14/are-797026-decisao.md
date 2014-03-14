@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. BIBLIOTECÁRIA. MUNICÍPIO DE RIO GRANDE. DIVISOR DE HORAS PARA CÁLCULO DE VANTAGENS. - Considerando a jornada semanal de trinta horas, bem como o repouso remunerado equivalente a um dia de trabalho como dispõe o art. 51, § 1º, da Lei Municipal nº 5.819/03, o divisor correto para o cálculo das vantagens incidentes sobre a remuneração é de 5 horas (30 horas : 6 dias), que multiplicados pelos trinta dias do mês (civil) totaliza 150 horas mensais, e não as 180 utilizadas como base para o cálculo pelo Município. Precedente desta Câmara Cível. - Minoração da verba honorária que se apresenta necessária a fim de obedecer à equidade imposta no artigo 20, §§ 3º e 4º, do Código de Processo Civil, bem como ao princípio da moderação. DERAM PARCIAL PROVIMENTO À APELAÇÃO” (fl. 277).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 37, caput, e 39, § 3º, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o Juízo de origem decidiu a causa nos seguintes termos:
+    “A servidora pública municipal labora efetivamente 120 horas por mês, em face da jornada semanal de 30 horas (fl. 71), de segunda a sexta-feira, devendo considerar-se incluído em sua remuneração, para fins de cálculo de horas extras, o valor atinente ao repouso remunerado, que consoante o art. 51, § 1º, da Lei Municipal nº 5.819/03 1, corresponde a um dia de trabalho (fl. 155).
+      Lógico, pois a hora normal de trabalho, como dispõe o art. 88 2 da mesma Lei (fl. 163), deve ser calculada levando em conta também o repouso remunerado, já que compõe a remuneração do servidor.
+      Entretanto, levando-se em conta uma jornada semanal de trinta horas, excluindo apenas o dia correspondente ao repouso remunerado, chega-se a um divisor de 5 horas (30 horas : 6 dias), que multiplicados pelos trinta dias do mês (civil) totaliza 150 horas, e não as 180 utilizadas como base para o cálculo das horas extras” (fl. 278v).
+    Nesse contexto, resta claro que para divergir do Tribunal a quo, no concernente à forma de cálculo das horas extras, necessário seria o reexame de normas infraconstitucionais locais aplicáveis à espécie (Lei Municipal 5.819/03), o que inviabiliza o extraordinário a teor da Súmula 280 do STF. Nesse sentido:
+    “RECURSO. Extraordinário. Inadmissibilidade. Hora-extra. Fórmula de cálculo. Servidor público municipal. Questão infraconstitucional. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte”
+(AI 823.320-AgR/RS, Rel. Min. Cezar Peluso, Segunda Turma).
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 14 de março de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
