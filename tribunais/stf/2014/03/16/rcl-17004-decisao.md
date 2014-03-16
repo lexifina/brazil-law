@@ -1,0 +1,27 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. A Assessoria prestou as seguintes informações:
+    O Estado do Rio Grande do Sul afirma haver a Vigésima Quinta Câmara Cível do Tribunal de Justiça local, no julgamento do Agravo de Instrumento nº 70054352257, desrespeitado a liminar formalizada na Ação Direta de Inconstitucionalidade nº 4.668 e o teor do Verbete Vinculante nº 10 da Súmula do Supremo.
+    Segundo argumenta, foi indeferido, em primeira instância, pedido de sequestro de numerário visando a quitação de determinada requisição de pequeno valor. Contra o pronunciamento, a ora interessada interpôs agravo de instrumento, o qual veio a ser provido pelo Órgão reclamado. Eis a ementa confeccionada:
+    AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA POR REQUISIÇÃO DE PEQUENO VALOR. AUSÊNCIA DE PAGAMENTO DENTRO DO PRAZO LEGAL. SEQUESTRO DE VALORES. POSSIBILIDADE.
+    Sequestro - Nos casos de pagamento mediante Requisição de Pequeno Valor, cabe ao juízo em que tramita a execução contra a Fazenda Pública determinar a sua expedição para adimplemento no prazo de 180 dias se o crédito ultrapassa a monta de sete salários mínimos. Não atendido o comando judicial, é possível o bloqueio de valores nas contas do Estado, como forma de garantir o cumprimento de decisão judicial.
+    DERAM PROVIMENTO AO RECURSO DE AGRAVO DE INSTRUMENTO. UNÂNIME.
+    (Tribunal de Justiça do Estado do Rio Grande do Sul, Vigésima Quinta Câmara Cível, Agravo de Instrumento nº 70054352257, relatora desembargadora Helena Marta Suarez Maciel)
+    Aponta a interposição de declaratórios, os quais foram desprovidos. Sobrevieram recursos especial e extraordinário, pendentes de juízo de admissibilidade. Sustenta o afastamento do § 3º do artigo 5º da Lei estadual nº 13.756/2011 sem observância ao artigo 97 da Carta de 1988 e ao Verbete Vinculante nº 10 da Súmula do Tribunal. Esse é o teor do dispositivo da lei local:
+    Art. 5º Para saldar as requisições de pequeno valor, o Estado, suas Autarquias e Fundações depositarão, mensalmente, em conta especialmente criada para tal fim, 1/12 (um doze avos) do valor correspondente a 1,5% (um inteiro e cinco décimos por cento) da receita corrente líquida anual, nos termos do art. 97, § 3.º, do Ato das Disposições Constitucionais Transitórias, da Constituição Federal, apurada no segundo mês anterior ao do pagamento.
+    [...]
+    § 3º Com exceção dos casos de preterição do direito de precedência disposto no § 6.º do art. 100 da Constituição Federal, somente poderá haver sequestro de quantia nas contas do Estado, suas Autarquias e Fundações, em caso de não liberação tempestiva dos recursos de que trata o “caput” deste artigo, até o limite do valor não depositado.
+    Segundo informa, a íntegra da mencionada lei é objeto da Ação Direta de Inconstitucionalidade nº 4.668. Noticia o indeferimento da medida acauteladora postulada no processo objetivo, mantendo-se em plena vigência o mencionado dispositivo da lei local.
+    Sob o ângulo do risco, alude aos prejuízos concernentes à implementação das políticas públicas no Estado em razão do bloqueio de verbas.
+    Requer, em sede liminar, a suspensão do ato reclamado e, alfim, a cassação do pronunciamento.
+    2. Percebam os parâmetros da espécie. Ultrapassado o prazo para satisfação de determinada requisição de pequeno valor, a ora interessada postulou o sequestro de verbas públicas visando o adimplemento da ordem de pagamento, tendo sido deferido o pleito, em sede recursal, pelo Órgão reclamado. Confiram o seguinte trecho do acórdão:
+    No caso em tela, a Fazenda Pública deixou de proceder ao pagamento da RPV dentro do prazo legal de 180 dias. Assim sendo, cabível a constrição de valores em conta de titularidade do ente público executado do numerário necessário ao pagamento da RPV expedida.
+    Nesse sentido:
+    “AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. EXECUÇÃO DE SENTENÇA. RPV. ATRASO NO PAGAMENTO. SEQÜESTRO. CABIMENTO. Viável o sequestro de valores da conta do Estado no Banrisul pela ausência de pagamento da RPV no prazo legal. Aplicação do artigo 100, § 3º da CF e analógica da regra contida no artigo 17, §2º, da Lei nº. 10.259/01. Além disso, decorrido o prazo de cento e oitenta dias desde o recebimento da RPV, não pode ser negado o imediato pagamento, com amparo na recente Lei nº 13.756/2011. AGRAVO DE INSTRUMENTO PROVIDO.” (Agravo de Instrumento Nº 70047382445, Vigésima Quinta Câmara Cível, Tribunal de Justiça do RS, Relator: Laís Ethel Corrêa Pias, Julgado em 28/08/2012)
+    Não se afastou, por inconstitucional, o § 3º do artigo 5º da Lei estadual nº 13.756/2011. O Órgão reclamado decidiu – certo ou errado, não cabe perquirir – a partir da interpretação da legislação aplicável ao caso, considerado o disposto no artigo 100, § 3º, da Carta Federal e, por analogia, o que preconizado no artigo 17, § 2º, da Lei nº 10.259/01. No mais, tendo o ministro Dias Toffoli tão somente imprimido o rito abreviado à Ação Direta de Inconstitucionalidade nº 4.668, é impróprio articular com o desrespeito a pronunciamento ainda não formalizado.
+    Observem a organicidade e a instrumentalidade do Direito. A reclamação pressupõe a usurpação da competência do Supremo ou o desrespeito a decisão por ele proferida. Descabe utilizar a medida como sucedâneo recursal.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 16 de março de 2014.
+Ministro MARCO AURÉLIO
+Relator
