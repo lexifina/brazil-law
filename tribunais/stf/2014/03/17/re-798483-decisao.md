@@ -1,0 +1,34 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Tribunal Regional da 2ª Região, assim ementado:
+    “ADMINISTRATIVO. DIREITO DE PROPRIEDADE. TERRENO DE MARINHA. DEVIDO PROCESSO LEGAL. TAXA DE OCUPAÇÃO.
+    Não pode o poder público, apenas através de procedimento administrativo demarcatório, com citação por edital, considerar que o imóvel regularmente registrado como alodial, e há muito negociado como livre e desembargado, seja imediatamente havido como terreno de marinha, com a cobrança da chamada "taxa de ocupação". O devido processo legal, para o caso, exige quando menos a intimação pessoal. Expressiva linha sustenta, inclusive, ser exigível a via judiciária, de modo a resguardar os direitos do beneficiário da presunção de veracidade do registro, até contra terceiros, diante da potencial evicção. Inteligência dos artigos 9o e seguintes do Decreto-lei n° 9.760/1946, 1245, §2°, do CC e artigo 5º, LIV, da Lei Maior.
+    Remessa e apelação desprovidas.” (eDOC 3, p. 7
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, aponta-se ofensa ao artigo 20, VII, da Constituição.
+    Defende-se, em síntese, que a inscrição do imóvel como terreno acrescido da marinha é válida, assim como as cobranças efetuadas pela GRPU.
+    Decido.
+    O recurso não merece prosperar.
+    O acórdão impugnado assentou o seguinte:
+    “O autor é proprietário e possuidor do imóvel descrito na inicial desde 1994. Adquiriu imóvel alodial, sem quaisquer ônus, inexistente referência de cuidar-se de terreno de marinha, existindo anotação de cadeia dominial regular, e isso é tema incontroverso.
+    Posteriormente, a União realizou procedimento administrativo nº 10768-007612/97-20, através de seu órgão de patrimônio, nos termos dos artigos 9º e seguintes do Decreto-Lei nº 9760/46, e, aferindo cuidar-se a área constante do título do autor terreno de marinha, internamente demarcou-o assim, pretendendo cobrar, de tal arte, a chamada “taxa de ocupação”.
+    (…)
+    Assim, a legítima e correta interpretação do artigo 11 do DL de 1946 é aquela que atende aos princípio da ampla defesa e contraditório, segundo a qual os interessados certos devem ser intimados pessoalmente para a defesa de sua propriedade. Mais ainda quando o registro indica, antes, imóvel alodial e, aplicada outra regra, qual a do artigo 1.245, §2º, do CC, nem se poderia trilhar a mera via administrativa.
+    Não se negue que a Lei nº 11.481/07 alterou a redação do citado artigo 11, excluindo a intimação pessoal. A exclusão foi feita, provavelmente para conferir maior celeridade aos trâmites administrativos, conforme aduzido pela União. Mas a eficiência não pode atropelar o contraditório e o direito à defesa do administrado, mormente em casos nos quais o registro imobiliário indicava ser o imóvel alodial e, assim, outras regras afastariam até a via administrativa. Ainda que, para argumentar, se admita tal via, ela deve prestigiar a efetiva ampla defesa e contraditório.
+    No caso, a União tinha ciência do nome e residência dos proprietários interessados no processo administrativo impugnado e, a despeito de tal fato, estes não foram intimados pessoalmente, mas por edital, genericamente. E ninguém soube, de verdade, do procedimento, tanto que nem oposição houve. Tudo em flagrante ofensa aos princípios da ampla defesa e contraditório.
+    A atual jurisprudência do Superior Tribunal de Justiça é pacífica sobre esse ponto, como se verifica a seguir:
+    (…)
+    Não é outro o entendimento desta Turma Especializada, in verbis:
+    (…)
+    No caso, nem o procedimento administrativo previsto nos artigos 9º e seguintes do DL nº 9.760/46 observou os princípios do contraditório e da ampla defesa, pois os interessados certos, à época, não foram intimados pessoalmente.
+    Mas o fato é que seria possível argumentar que até processo administrativo adequado não poderia prevalecer, por si, sobre o título registrado, até então regular, de quem de direito.
+    Nos casos em que exista bem havido regularmente como livre do ônus, assim transcrito, assim há muito negociado, não havendo concordância do proprietário aparente, é razoável entender existir necessidade de uso da via judicial, com retificação do registro imobiliário, para que, finalmente, o terreno seja considerado de marinha. Esta linha tem aparo em preceitos claros (artigos 32 e seguintes do mesmo Decreto-lei nº 9.760 e, hoje, o artigo 1.245, §2º, do CC).
+    No caso, este debate é desnecessário, pois a sentença já fixou aspecto sobre o procedimento administrativo, e a parte não recorreu.” (grifei) (eDOC 2, p. 82-83 e DOC 3, p. 1-3)
+    Assim, o Tribunal de origem decidiu com base na legislação de regência (Decreto-Lei 7.760/1946) e nos elementos probatórios dos autos.
+    Para se entender de forma diversa, seria imprescindível interpretar a legislação infraconstitucional, assim como revolver o conjunto fático-probatório dos autos, procedimentos vedados no âmbito do julgamento do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TERRENOS DE MARINHA. TITULARIDADE. DEMARCAÇÃO. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. IMPRESCINDIBILIDADE DE EXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, acerca da titularidade do imóvel, seria necessária a análise das normas infraconstitucionais aplicáveis à especie, bem como o reexame do conjunto fático probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – Agravo regimental improvido.” (ARE-AgR 757.502, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 24.9.2013)
+    “Agravo regimental em agravo de instrumento. 2 Direito Administrativo. 3. Terreno de marinha. Discussão acerca da titularidade do imóvel. Necessidade de reexame do conjunto fático-probatório. Impossibilidade. Súmula 279. 4. Agravo regimental a que se nega provimento.” (AI-AgR 801.728, de minha relatoria, Segunda Turma, DJe 19.4.2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TERRENOS DE MARINHA. TITULARIDADE DOMINIAL. DEMARCAÇÃO. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE-AgR 550.347, Rel. Min. Cármen Lúcia, Primeira Turma, DJ 7.4.2011)
+    Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, §1º, do RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 17 de março de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
