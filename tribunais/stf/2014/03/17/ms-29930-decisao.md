@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de mandado de segurança contra ato do Procurador-Geral da República consubstanciado na exigência de teste de aptidão física para concurso público para o cargo de Técnico de Apoio Especializado/Trasporte, conforme Edital nº 1 – PGR/MPU. Narra o impetrante, em síntese, ser ilegal a exigência do referido teste, porquanto o ordenamento jurídico não exigiria, como requisito para investidura no cargo, a obrigatoriedade de submissão ao exame.
+    O Ministro Ayres Britto deferiu liminar, para garantir a participação do impetrante no certame, sem submissão ao teste físico. Foram prestadas as informações. A União interpôs agravo regimental contra o deferimento da liminar.
+    2. Verifica-se que após o deferimento da liminar esta Corte enfrentou a questão, tendo em vista as diversas impugnações de mesmo teor que chegaram ao Supremo Tribunal Federal. A Segunda Turma, no julgamento do MS 29.947 (Rel. Min. Gilmar Mendes), em sessão realizada em 06/09/2011, cassou liminar deferida naquela impetração e denegou a ordem, sob fundamento de que a interpretação da Lei 11.415/2006, que “Dispõe sobre as Carreiras dos Servidores do Ministério Público da União”, permite a conclusão de que as provas para ingresso na carreira podem ser elaboradas de acordo com a natureza e complexidade dos cargos. E, no caso do cargo de Técnico de Apoio Especializado/Trasporte, o exame físico seria compatível com as respectivas atribuições.
+    Após esse precedente, a Primeira Turma passou a decidir no mesmo sentido, conforme revela mandado de segurança relatado pela Ministra Cármen Lúcia, assim ementado:
+    MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO DO MINISTÉRIO PÚBLICO DA UNIÃO PARA O CARGO DE TÉCNICO DE APOIO ESPECIALIZADO SEGURANÇA. LEGALIDADE DA EXIGÊNCIA DE TESTE DE APTIDÃO FÍSICA. PRECEDENTES. SEGURANÇA DENEGADA. (MS 29.845, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 09/11/2011).
+    3. Ante o exposto, nego seguimento ao pedido, cassada a liminar deferida pelo Ministro Ayres Britto e prejudicado o agravo regimental interposto pela União (Petição STF 19217/2011).
+    Publique-se. Intime-se.
+    Brasília, 17 de março de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
