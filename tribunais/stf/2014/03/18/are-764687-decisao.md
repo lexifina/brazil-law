@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve sentença, a qual condenou o ora agravante ao pagamento de indenização a título de danos morais.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 1º, III, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Verifico que a petição de recurso extraordinário encontra-se sem a assinatura do advogado subscritor da peça, o que inviabiliza o prosseguimento do recurso. Com efeito, a jurisprudência da Suprema Corte é no sentido de que não se conhece de recurso sem a assinatura do advogado, posto ser formalidade essencial e inerente à existência do recurso. Nesse sentido:
+    “1. RECURSO. Agravo regimental. Inadmissibilidade. Assinatura do advogado. Falta. Recurso inexistente. Agravo regimental não provido. A falta de assinatura do advogado na petição de recurso não é mera irregularidade sanável, mas defeito que lhe acarreta inexistência. 2. RECURSO. Agravo regimental. Inadmissibilidade. Recurso interposto por fac-símile. Não correspondência com o original. Não conhecimento. Aplicação do art. 4º, caput, da Lei nº 9.800/99. Não se conhece de agravo regimental interposto por fac-símile, cujo teor não coincida com o da petição original” (RE 587.932-AgR/SP, Rel. Min. Cezar Peluso, Segunda Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO SEM ASSINATURA. INADMISSIBILIDADE. APRESENTAÇÃO DE RECURSO ASSINADO APÓS O PRAZO RECURSAL. INTEMPESTIVIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – É inadmissível a interposição de recurso por meio de petição sem a assinatura original do procurador da parte recorrente, à exceção da hipótese versada na Lei 9.800/1999, que não se amolda ao caso dos autos. II – Novo recurso com a assinatura do procurador apresentado após o prazo recursal é considerando intempestivo. III – Agravo regimental a que se nega provimento” (ARE 746.714-AgR/RJ, de minha relatoria, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de março de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
