@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 133, DE 11.03.14 (D.O. 18.03.14)
+CRIA O FUNDO DE INCENTIVO AO CUMPRIMENTO DE METAS - FUMECE, NA ÁREA DE SEGURANÇA PÚBLICA DO ESTADO DO CEARÁ.
+O GOVRNADOR DO ESTADO DO CEARÁ
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei Complementar:
