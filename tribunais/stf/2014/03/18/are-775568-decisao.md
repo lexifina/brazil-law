@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Primeira Turma Recursal dos Juizados Especiais Federais da Bahia, assim ementado (fls. 106):
+    “PREVIDENCIÁRIO. REVISÃO DO BENEFÍCIO. MAJORAÇÃO DO TETO PROMOVIDA PELAS EMENDAS CONSTITUCIONAIS N°S. 20/98 E 41/2003. APLICAÇÃO IMEDIATA DO NOVO TETO. DECISÃO DO STF. NÃO APLICABILIDADE AO CASO CONCRETO. CÁLCULO DA SECAL CONTRÁRIO À PRETENSÃO DA PARTE RECORRENTE. RECURSO DESPROVIDO.
+    1. É possível a aplicação imediata do novo teto previdenciário trazido pela EC 20/98 e 41/03 aos benefícios concedidos em data anterior, desde que considerados os salários-de-contribuição utilizados no momento do cálculo do benefício. Este entendimento restou corroborado pelo julgamento proferido pelo Supremo Tribunal Federal, em caso semelhante, quando da apreciação do RE 564354/SE em 08/09/2010, tendo como Relatora a Ministra Cármen Lúcia.
+    2. Tratando-se de questão de direito intertemporal, é imperioso salientar que a imediata aplicação de teto para benefícios previdenciários anteriormente concedidos, com fundamento agora constitucional, não implica em retroação da lei nem desconstituição do ato jurídico perfeito (CF, art. 5°, XXXVI), na medida em que não determina o pagamento de novo valor aos beneficiários, mas sim permite a incidência do novo teto para fins de cálculos da renda mensal de benefício.
+    3. Entretanto, no caso sob análise, o Setor de Cálculo foi taxativo ao afirmar que não foram encontradas diferenças a serem apuradas por conta do novo limite de teto estabelecido pela EC 20 de 1998 e EC 41 de 2003, de acordo com a planilha demonstrativa apresentada.
+    4. Recurso da parte autora desprovido. Sentença mantida.
+    6. Acórdão integrativo proferido nos termos do art. 46 da Lei 9.099/45, e art. 40 da Resolução n° 10/2002, da Presidência do TRF/1ª Região.
+    7. Honorários advocatícios no montante de 10% (dez por cento) sobre o valor da condenação, os quais ficam suspensos por ser a parte autora beneficiária da assistência judiciária gratuita.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 3º, I; ao art. 5°, caput, I, II, VI, XIV, XXIII, XXX, XXXII, LIV, LXXIV, LXIX, LXXI, LXXVIII, § 1º e 2º, XXIX; ao art. 21, XI; ao art. 37; ao art. 93, IX; ao art. 131; ao art. 170, III e V; ao art. 175; e ao art. 332, todos da Constituição Federal, bem como às Emendas Constitucionais nºs 20/1998 e 41/2003.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que se aplica a Súmula 279/STF.
+    O recurso extraordinário é inadmissível, tendo em vista que o Supremo Tribunal Federal entende “ser possível a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 àqueles que percebem seus benefícios com base em limitador anterior, levando-se em conta os salários de contribuição que foram utilizados para os cálculos iniciais” (passagem do voto condutor do acórdão, proferido pela Ministra Cármen Lúcia no RE 564.354, Pleno).
+    O mencionado entendimento, contudo, não aproveita à pretensão, dado que o benefício em análise não foi limitado ao teto no momento de sua concessão. Leia-se trecho da sentença, integralmente mantida pela Turma Recursal de origem (fls. 84): “No caso dos autos, entretanto, o Setor de Cálculos deste Juízo, ao analisar os cálculos da parte requerente, verificou que não há diferença a ser recebida”.
+    A recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante nos autos, bem como a alegar erro na aplicação da lei ao caso. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF:
+    “Para simples reexame de prova não cabe recurso extraordinário.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de marco de 2014.
+Ministro Luís Roberto Barroso
+Relator
