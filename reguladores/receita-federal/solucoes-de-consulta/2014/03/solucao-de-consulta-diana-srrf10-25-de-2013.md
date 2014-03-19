@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 25, de 16 de maio de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 9403.20.00 Mercadoria: Mesa para passar roupa combinada com escada de abrir de três degraus, com tampo de aço acolchoado e recoberto com tecido de poléster aluminizado, pés de aço em forma aproximada de “X”, dobráveis, própria para ser assentada no solo, de uso doméstico, comercialmente denominada “Mesa de passar e Escada Ideal” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.03), 3 “b” e 6 (texto da subposição 9403.20), da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 9403.20.00 Mercadoria: Mesa para passar roupa combinada com escada de abrir de três degraus, com tampo de aço acolchoado e recoberto com tecido de poléster aluminizado, pés de aço em forma aproximada de “X”, dobráveis, própria para ser assentada no solo, de uso doméstico, comercialmente denominada “Mesa de passar e Escada Ideal”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.03), 3 “b” e 6 (texto da subposição 9403.20), da TEC aprovada pela Resolução Camex nº 94, de 2011
