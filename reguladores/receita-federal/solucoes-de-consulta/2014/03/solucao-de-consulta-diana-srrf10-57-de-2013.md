@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 57, de 10 de dezembro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 8716.10.00 Mercadoria: Reboque do tipo trailer, de perfil triangular, com engate para ser transportado por outros veículos, constituído por uma construção compacta, com teto dobrável, facilitando seu transporte e guarda, utilizado para acampamento ou habitação denominado “Reboque Aliner” ou “Camper Aliner”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.16) e 6 (texto da subposição 8716.10) da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 8716.10.00 Mercadoria: Reboque do tipo trailer, de perfil triangular, com engate para ser transportado por outros veículos, constituído por uma construção compacta, com teto dobrável, facilitando seu transporte e guarda, utilizado para acampamento ou habitação denominado “Reboque Aliner” ou “Camper Aliner”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.16) e 6 (texto da subposição 8716.10) da TEC aprovada pela Resolução Camex nº 94, de 2011
