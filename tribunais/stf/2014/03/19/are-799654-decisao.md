@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO NÃO-EVIDENCIADO. TÍTULO EXECUTIVO QUE REPRESENTA QUANTIA LÍQUIDA E CERTA. ATUALIZAÇÃO DE ACORDO COM OS CRITÉRIOS ESTIPULADOS PELO ACÓRDÃO QUE FIXOU OS DANOS MORAIS. EMBARGANTE QUE NÃO SE DESINCUMBIU DO ÔNUS PROBATÓRIO. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E IMPROVIDO”.(eDOC 6)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 5º, incisos II, do texto constitucional.
+    Discute-se, no caso, a possibilidade de atribuição de efeito suspensivo à sentença de primeiro grau, sob a alegação de periculum in mora e fumus boni iuris.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Com efeito, para acolher a pretensão da recorrente e ultrapassar o entendimento firmado no acórdão recorrido acerca da validade do título executivo objeto da lide seria necessário o reexame dos fatos e provas (Enunciado 279 da Súmula desta Corte), o que é inadmissível em sede de recurso extraordinário.
+    Ademais, para se aferir a alegada violação ao princípio da legalidade, seria necessária a análise e a interpretação da legislação infraconstitucional aplicável à hipótese, providência vedada no âmbito do recurso extraordinário, o teor do disposto na Súmula 636 do STF, a saber:
+    “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” .
+    A esse propósito confira-se o seguinte precedente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. DIVULGAÇÃO DE ATOS OFENSIVOS EM PÁGINA DE RELACIONAMENTO NA INTERNET. IDENTIFICAÇÃO DO CAUSADOR DO DANO. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL . OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II - O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código Civil). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo a quo. Precedentes. III - Este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal de origem (Súmula 636 do STF). IV Agravo regimental improvido. (grifei) (ARE-AgR, 655606 Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 18.3.2013)
+    No mesmo sentido, cito os seguintes julgados: RE-AgR 555.373, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1º.2.2011; AI-AgR 695.954, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 12.11.2010; AI-AgR 696.428, Rel. Min. Ayres Britto, Primeira Turma, DJe 6.8.2010; AI-AgR 750.679, Rel. Min. Dias Toffoli, Primeira Turma, DJe 6.8.2010; RE-AgR 602.740, Rel. Min. Eros Grau, Segunda Turma, DJe 18.12.2009
+     Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 19 de março de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
