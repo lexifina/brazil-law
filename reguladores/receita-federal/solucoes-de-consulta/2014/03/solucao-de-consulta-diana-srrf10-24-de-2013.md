@@ -1,0 +1,3 @@
+Solução de Consulta Diana/SRRF10 nº 24, de 16 de maio de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 9403.70.00 Mercadoria: Móvel de prateleiras concebido para assentar no solo, constituído de duas colunas laterais (formato de treliça) de plástico e de sete prateleiras formadas cada uma por um par de varetas de aço revestidas de resina epóxi, próprio para guarda ou exposição de calçados, comercialmente denominado “Sapateira 7 Andares”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.03) e 6 c/c 3 “c” (texto da subposição 9403.70), da TEC aprovada pela Resolução Camex nº 94, de 2011
