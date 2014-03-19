@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    José Cezário da Rocha Junior e outros interpõem recurso extraordinário, com fundamento no artigo 102, inciso III, alínea “a”, do permissivo constitucional, contra decisão do Tribunal de Justiça do Estado do Paraná, assim ementada:
+    “AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DA OBRIGAÇÃO DE ADQUIRIR SELO DE AUTENTICIDADE COM DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE – LEI ESTADUAL Nº 13.228/01 – FUNARPEN – CONSTITUCIONALIDADE – PRETENSÃO DA APLICAÇÃO DO ART. 102, § 2º, DA CONSTITUIÇÃO FEDERAL – INAPLICABILIDADE – COMPETÊNCIA COMPLEMENTAR DO ESTADO – NORMA NECESSÁRIA PARA IMPLEMENTAR A REGRA DO ART. 5º, LXXVI, “A” e “B”, EM RAZÃO DA LEI FEDERAL Nº 10.169/00 – NATUREZA PRIVADA DA RELAÇÃO JURÍDICA ENTRE OS OFÍCIOS E O FUNARPEN – COMPRA E VENDA – UTILIZAÇÃO DOS SELOS DE FISCALIZAÇÃO QUE É COMPULSÓRIA – PRECEDENTE: APELAÇÃO CÍVEL Nº 235.493-8.
+    RECURSO CONHECIDO E PROVIDO”.
+    Sustenta e inconstitucionalidade dos arts. 3º, VIII, 7º e 11 da Lei nº 13.228/01, do Estado do Paraná, a qual, a pretexto de regulamentar a Lei nº 10.169/2000 instituiu o selo de autenticidade - de natureza tributária no entendimento do recorrente – acabando por usurpar a competência da União, conformada no art. 22, XXV; 150, I e 167, V, todos da Constituição Federal.
+    Aduz, no apelo extremo, que “o selo de autenticidade notarial tem natureza tributária; não é preço” (fl. 392).
+    Decido.
+    O cerne da controvérsia, pois, implica em analisar se a instituição do selo de autenticidade pela Lei Estadual nº 13.228/01 (art. 9º) se insere na competência complementar do Estado, com autorização da Lei 10.169/2000, como concluiu o v. acórdão recorrido, ou, ao revés, importa em adicional à taxa de emolumentos, de modo a atrair a competência legislativa da União, a teor do art. 22, XXI da Constituição.
+    Com essas observações, tenho que o recurso merece provimento, pois o acórdão recorrido está em desacordo com a orientação da Corte consubstanciada nos julgamentos da ADI nº 3.151/MT e da ADI nº 1.752/RJ-MC.
+    Com efeito, na ocasião do ADI nº 3.151/MT, Relator o Ministro Carlos Britto, esta Corte entendeu que as atividades notariais e de registro não se inscrevem no âmbito das remuneráveis por tarifa ou preço público, mas no círculo das que se pautam por uma tabela de emolumentos, jungidos estes a normas gerais que se editam por lei necessariamente federal. Ademais, afirmou-se que configura usurpação de competência legislativa da União a exigência, instituída por lei estadual, de selos de autenticidade como requisito de validade dos atos notariais.
+    Ao julgar a ADI nº 1.752/RJ-MC, Tribunal Pleno, Relator o Ministro Marco Aurélio, DJ de 13/3/98, consignou-se, no voto condutor, que a instituição do selo de autenticidade é uma despesa que, em última análise, resulta em acréscimo de emolumentos. Daí a impropriedade de sua “natureza privada” e de sua instituição de forma setorizada por cada Estado. Portanto a plausibilidade da medida cautelar teve como foco não só o princípio da legalidade estrita. Embora na hipótese estivesse também em questão o princípio da legalidade – que não ocorre no caso em tela – o Ilustre Relator ressaltou
+    “a relevância das razões expendidas na inicial, a partir, inclusive, de precedentes desta Corte, fazendo-se presente o risco de manter-se com plena eficácia o preceito em face do implemento da nova modalidade de controle dos atos notariais, no que conduz ao acréscimo dos emolumentos” (grifo nosso).
+    No mesmo sentido e versando sobre a mesma Lei nº 13.228/01, as seguintes decisões monocráticas: RE nº 601.320/PR, Relator o Ministro Ricardo Lewandowski, DJe de 1/2/11 e RE 573.576/PR, Relator Ministro Ayres Britto, Dje 29/11/11.
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento, ficando invertidos os ônus da sucumbência, fixados na sentença de primeiro grau.
+     Publique-se.
+    Brasília, 19 de março de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
