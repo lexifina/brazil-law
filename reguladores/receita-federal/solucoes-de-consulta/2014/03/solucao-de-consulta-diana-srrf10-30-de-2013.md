@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 30, de 7 de junho de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TIPI: 7323.93.00 Mercadoria: Sortido apresentado em embalagem única para venda a retalho, constituído pela reunião de quatro espetos, uma faca e um garfo trinchante, todos de aço inoxidável e cabos de madeira, e de um suporte de madeira para pendurar o conjunto numa parede, comercialmente denominado “Conjunto Espetos” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 73.23), 3 “b” e 6 (texto da subposição 7323.93), da TIPI aprovada pelo Decreto nº 7.660, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TIPI: 7323.93.00 Mercadoria: Sortido apresentado em embalagem única para venda a retalho, constituído pela reunião de quatro espetos, uma faca e um garfo trinchante, todos de aço inoxidável e cabos de madeira, e de um suporte de madeira para pendurar o conjunto numa parede, comercialmente denominado “Conjunto Espetos”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 73.23), 3 “b” e 6 (texto da subposição 7323.93), da TIPI aprovada pelo Decreto nº 7.660, de 2011
