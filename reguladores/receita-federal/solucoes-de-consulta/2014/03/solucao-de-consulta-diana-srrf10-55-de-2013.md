@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 55, de 25 de novembro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 2007.10.00 Mercadoria: Preparação alimentícia homogeneizada de frutas, dietética, de consistência pastosa (purê) pronta para consumo, contendo maçã e abacaxi, sem adição de açúcar, apresentada em pote rígido de alumínio hermeticamente fechado com capacidade de 100 g, comercialmente denominada “Purê de maçã e abacaxi” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 20.07) e 6 (Nota 2 subposição do Capítulo 20 e texto da subposição 2007.10), da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 2007.10.00 Mercadoria: Preparação alimentícia homogeneizada de frutas, dietética, de consistência pastosa (purê) pronta para consumo, contendo maçã e abacaxi, sem adição de açúcar, apresentada em pote rígido de alumínio hermeticamente fechado com capacidade de 100 g, comercialmente denominada “Purê de maçã e abacaxi”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 20.07) e 6 (Nota 2 subposição do Capítulo 20 e texto da subposição 2007.10), da TEC aprovada pela Resolução Camex nº 94, de 2011
