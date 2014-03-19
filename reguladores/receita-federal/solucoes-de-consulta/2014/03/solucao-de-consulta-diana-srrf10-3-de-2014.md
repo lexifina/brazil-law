@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 3, de 17 de janeiro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 3921.12.00 Mercadoria: Laminado de plástico PVC microalveolar com reforço de tecido de malha de poliéster em uma das faces, de espessura de 1,05 mm, apresentado em rolos com 1,40 m de largura, utilizado em impressão (comunicação visual), comercialmente denominado “Napaprint” DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 “a)” “5)” do Capítulo 59 e texto da posição 39.21) e 6 (texto da subposição 3921.12) da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 3921.12.00 Mercadoria: Laminado de plástico PVC microalveolar com reforço de tecido de malha de poliéster em uma das faces, de espessura de 1,05 mm, apresentado em rolos com 1,40 m de largura, utilizado em impressão (comunicação visual), comercialmente denominado “Napaprint”
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 “a)” “5)” do Capítulo 59 e texto da posição 39.21) e 6 (texto da subposição 3921.12) da TEC aprovada pela Resolução Camex nº 94, de 2011
