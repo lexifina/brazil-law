@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 1, de 2 de janeiro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TIPI: 8547.20.90 Mercadoria: Isolador de plástico (poliamida-6,6) (dimensões aproximadas de 90 mm x 35 mm x 8 mm) para uso em vias férreas, próprio para o isolamento elétrico lateral do trilho com a placa de apoio, bem como a manutenção da bitola da via férrea DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 “f” da Seção XVII e texto da posição 85.47) e 6 (texto da subposição 8547.20) e Regra Geral Complementar da NCM (RGC) 1 (texto do item 8547.20.90), da Tipi aprovada pelo Decreto nº 7.660, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TIPI: 8547.20.90 Mercadoria: Isolador de plástico (poliamida-6,6) (dimensões aproximadas de 90 mm x 35 mm x 8 mm) para uso em vias férreas, próprio para o isolamento elétrico lateral do trilho com a placa de apoio, bem como a manutenção da bitola da via férrea
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 “f” da Seção XVII e texto da posição 85.47) e 6 (texto da subposição 8547.20) e Regra Geral Complementar da NCM (RGC) 1 (texto do item 8547.20.90), da Tipi aprovada pelo Decreto nº 7.660, de 2011
