@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 50, de 1º de novembro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 8509.80.90 Mercadoria: Escova elétrica constituída por um equipamento à prova de água, com fonte própria de energia, utilizada para remover maquiagem do rosto e realizar limpeza da pele, denominada comercialmente “Escova elétrica facial”, marca D-Clean DISPOSITIVOS LEGAIS: RGI 1 (Nota 3 do capítulo 85 e texto da posição 85.09) e 6 (texto da subposição 8509.80), e RGC 1 (texto do item 8509.80.90) da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 8509.80.90 Mercadoria: Escova elétrica constituída por um equipamento à prova de água, com fonte própria de energia, utilizada para remover maquiagem do rosto e realizar limpeza da pele, denominada comercialmente “Escova elétrica facial”, marca D-Clean
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 3 do capítulo 85 e texto da posição 85.09) e 6 (texto da subposição 8509.80), e RGC 1 (texto do item 8509.80.90) da TEC aprovada pela Resolução Camex nº 94, de 2011
