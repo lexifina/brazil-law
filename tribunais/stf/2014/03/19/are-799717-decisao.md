@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “TRANSPORTE. ANIMAL NA PISTA. LUCROS CESSANTES.
+    Um dos coletivos da autora trafegava pela BR-116, quando um animal solto na rodovia colidiu com o veículo, causando danos. A concessionária de serviço público responde pelos danos provocados em face da ausência de fiscalização da rodovia, o que permitiu a presença de animal na pista de rolamento. Tratando-se de veículo destinado a transporte coletivo público intermunicipal de passageiros, a paralisação faz presumir os lucros cessantes (art. 402 do Código Civil). Liquidação por arbitramento (art. 475-C, II, do CPC). APELAÇÃO PARCIALMENTE PROVIDA”.(eDOC 4,p. 93)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito alega que houve ofensa ao artigo 37, § 6º, do Texto Constitucional.
+    O agravante argumenta que restou cabalmente demonstrado nos autos que a recorrente efetua fiscalização da pista, cumprindo com todas as obrigações que lhe foram impostas pelo contrato de concessão.
+    Alega ainda ausência de nexo causal a imputar responsabilidade ao Poder Público.
+    Decido.
+    Não assiste razão ao recorrente.
+    Na espécie, o acórdão recorrido está em sintonia com a jurisprudência do Supremo Tribunal Federal, que firmou o entendimento no sentindo de que concessionárias de serviço público respondem objetivamente pelos danos causados, na forma do art. 37, § 6º, da Constituição Federal.
+    No tocante à alegada ausência de nexo de causalidade, o acórdão recorrido consignou que:
+    “(...) o acidente ocorreu em trecho da estrada concedido e explorado pela ré, via cobrança de pedágio. Portanto, deve responder pelos danos provocados em face da ausência de fiscalização da rodovia, o que permitiu a presença de animais nos arredores (...)”. (eDOC 4, p. 95)
+    Posta a questão nesses termos, tem-se que, para se concluir de forma diversa, imprescindível o reexame do conjunto fático-probatório constante dos autos, providência vedada em sede de recurso extraordinário, nos termos da Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido destaco o seguintes julgamentos de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO DE REPARAÇÃO DE DANOS. RESPONSABILIDADE OBJETIVA DO ESTADO: § 6º DO ART. 37 DA CONSTITUIÇÃO DO BRASIL. AGENTE PÚBLICO. ILEGITIMIDADE PASSIVA AD CAUSAM. O Supremo Tribunal Federal, por ocasião do julgamento da RE n. 327.904, Relator o Ministro Carlos Britto, DJ de 8.9.06, fixou entendimento no sentido de que 'somente as pessoas jurídicas de direito público, ou as pessoas jurídicas de direito privado que prestem serviços públicos, é que poderão responder, objetivamente, pela reparação de danos a terceiros. Isto por ato ou omissão dos respectivos agentes, agindo estes na qualidade de agentes públicos, e não como pessoas comuns'. Precedentes. Agravo regimental a que se nega provimento”. (RE 470.996-AgR, Rel. Min. Eros Graus, Segunda Turma, Dje 11.9.2009 ).
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE OBJETIVA DE CONCESSIONÁRIA PRESTADORA DE SERVIÇO PÚBLICO. FALHA DE SEGURANÇA EM RODOVIA. REPARAÇÃO DE DANOS. ART. 37, § 6º, DA CF/88. FATOS E PROVAS. SÚMULA STF 279. 1. O Tribunal a quo , diante da análise do conjunto fático-probatório da causa, concluiu pela responsabilidade objetiva, porquanto comprovadas a falha na segurança da pista e a causação de prejuízos ao autor, evidenciando, portanto, o nexo causal a ensejar o direito à reparação. Precedentes. 2. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 37, § 6º, da Constituição Federal - responsabilidade objetiva da concessionário de serviço público. 3. Pedido recursal contido no agravo regimental não pode, por si só, alterar aquele originariamente deduzido no recurso extraordinário. 4. Agravo regimental improvido”. (RE 557.935-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 5.2.2010 ).
+    “RESPONSABILIDADE OBJETIVA DO ESTADO. ALEGADA FALTA DE COMPROVAÇÃO DE NEXO CAUSAL, EM VIOLAÇÃO AO § 6º DO ART. 37 DA CARTA DA REPÚBLICA. MATÉRIA PROBATÓRIA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. O recurso, ao sustentar a ausência de provas hábeis a caracterizar o liame entre os danos causados à recorrida e a ação ou omissão da União, como exigido pelo dispositivo constitucional sob enfoque, pretende o reexame do conjunto probatório dos autos, o que é inviável ante o preceituado na mencionada súmula desta Corte. Recurso extraordinário não conhecido”. (RE 346.978, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 7.3.2003 ).
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE OBJETIVA DO ESTADO. OMISSÃO. ACIDENTE DE TRÂNSITO EM RODOVIA FEDERAL. FALTA DE SINALIZAÇÃO. ART. 37, § 6º, CF/88. NEXO CAUSAL. FATOS E PROVAS. SÚMULA STF 279.
+    1. Existência de nexo causal entre a omissão da autarquia e acidente que causou morte do marido e filhos da autora. Precedentes.
+    2. Incidência da Súmula STF 279 para afastar a alegada ofensa ao artigo 37, § 6º, da Constituição Federal responsabilidade objetiva do Estado.
+    3. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada.
+    4. Agravo regimental improvido”.
+    (AI-AgR 693.628, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.12.2009).
+    Não há, pois, o que prover quanto às alegações do agravante.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 19 de março de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
