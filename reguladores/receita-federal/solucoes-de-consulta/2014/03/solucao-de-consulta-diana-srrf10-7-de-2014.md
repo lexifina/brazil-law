@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 7, de 17 de janeiro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 5903.90.00 Mercadoria: Tecido de fios de poliéster (53%) uniformemente impregnado com resina acrílica (plástico) (47%), de gramatura aproximada de 275 g/m², próprio para impressão (comunicação visual), comercialmente denominado “Polycril 275 FR” DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 do Capítulo 59 e texto da posição 59.03) e 6 (texto da subposição 5903.90), da TEC aprovada pela Resolução Camex nº 43, de 2006 e, a partir de 01/01/2012, da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 5903.90.00 Mercadoria: Tecido de fios de poliéster (53%) uniformemente impregnado com resina acrílica (plástico) (47%), de gramatura aproximada de 275 g/m², próprio para impressão (comunicação visual), comercialmente denominado “Polycril 275 FR”
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 do Capítulo 59 e texto da posição 59.03) e 6 (texto da subposição 5903.90), da TEC aprovada pela Resolução Camex nº 43, de 2006 e, a partir de 01/01/2012, da TEC aprovada pela Resolução Camex nº 94, de 2011
