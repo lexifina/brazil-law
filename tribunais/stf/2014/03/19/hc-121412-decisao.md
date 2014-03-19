@@ -1,0 +1,23 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Paulo Roberto Franco, em favor de JOÃO CLÁUDIO AMARO, em que se aponta como autoridade coatora a Ministra Regina Helena Costa, do Superior Tribunal de Justiça, relatora do RHC 44.578/SP.
+    Consta dos autos que o paciente, em 12/7/2013, foi preso em flagrante pela suposta prática do crime previsto no art. 33, caput, da Lei 11.343/2006. A prisão em flagrante foi convertida em preventiva sob o fundamento da garantia da ordem pública.
+    Irresignada com o decreto prisional, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo alegando ausência de fundamentação idônea para a manutenção da custódia cautelar. A ordem foi denegada.
+    Ainda inconformada, interpôs o RHC 44.578/SP no Superior Tribunal de Justiça, que ainda não foi apreciado.
+    É contra a suposta demora no julgamento do recurso ordinário interposto no STJ que se insurge o impetrante.
+    Alega, inicialmente, que a decisão que converteu a prisão em flagrante em preventiva carece de fundamentação idônea, pois estaria fundamentada especialmente na gravidade abstrata do delito e na vedação genérica de concessão de liberdade provisória ao acusado por crime de tráfico de drogas.
+    Sustenta, ademais, que o paciente foi apreendido com apenas 6,45 gramas de substância entorpecente, razão por que a conduta deveria ser classificada na figura do art. 28 da Lei 11.343/2006.
+    Aduz, em seguida, excesso de prazo na formação da culpa do paciente, preso preventivamente desde 12/7/2013:
+    “O Paciente se encontra encarcerado já há mais de 7 meses, infelizmente esperando que o seu caso seja enfim apreciado pelo Poder Judiciário, tanto em 1ª Instância (conforme andamento processual datado de 20/02/2014, o Acusado sequer foi citado), quanto em Instância Extraordinária, (conforme andamento processual datado de 20/02/2014, o Recurso Ordinário em Habeas Corpus n.º 44578/SP se encontra com vista para o Ministério Público desde 27/01/2014” (pág. 10 do documento eletrônico 2).
+    Requer, ao final, a concessão de medida liminar:
+    “Para a finalidade de se determinar ao Colendo Superior Tribunal de Justiça – STJ, que tão logo julgue o Recurso em Habeas Corpus n.º 44578/SP, já que o Paciente se encontra preso há mais de 210 dias e sequer há data marcada para o início da instrução, sem prejuízo da revogação de sua prisão preventiva ou concessão do pleno gozo do direito constitucional de responder ao processo em liberdade, ou ainda, substituí-la pelas medidas cautelares previstas no artigo 319, incisos I e IV, do Código de Processo Penal, além do reconhecimento da ocorrência de excesso de prazo na formação da culpa, se possível, LIMINARMENTE, determinando-se que em seu favor seja expedido o competente alvará de soltura”(págs. 21 e 22 do documento eletrônico 2).
+    No mérito, pleiteia a confirmação da ordem.
+    É o relatório. Decido.
+    Registro, inicialmente, que, embora se alegue demora no julgamento do referido recurso ordinário, o impetrante busca, na verdade, que esta Corte conceda a ordem para colocar o paciente em liberdade, seja em razão do alegado excesso de prazo na formação da culpa, seja pela suposta inidoneidade na fundamentação da prisão preventiva.
+    Contudo, tal pedido não pode ser conhecido, sob pena de indevida supressão de instância e extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, o qual pressupõe seja a coação praticada por Tribunal Superior.
+    Ademais, quanto à alegada demora no julgamento do RHC 44.578/SP no STJ, verifico, em consulta ao sítio eletrônico daquela Corte Superior, que o processo foi distribuído em 27/1/2014. A presente impetração, por sua vez, foi protocolada em 21/2/2014, menos de um mês após a distribuição.
+    Diante de tais fatos, percebe-se que o feito segue seu curso normal, de modo que não há falar em demasiada demora na apreciação do pedido, tampouco em negativa de prestação jurisdicional.
+    Anoto, ainda, que a concessão da ordem para determinar o julgamento do recurso ordinário na Corte a quo, poderia redundar na injustiça de se determinar que o pleito manejado em favor do paciente seja colocado em posição privilegiada com relação a de outros tantos jurisdicionados, que também se consideram titulares de direito líquido e certo à apreciação dos seus pleitos.
+    Isso posto, com base no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do RISTF, nego seguimento a este writ. Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 19 de março de 2014.
+Ministro Ricardo Lewandowski
+Relator
