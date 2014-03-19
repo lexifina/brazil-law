@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 38, de 15 de julho de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TIPI: 9403.70.00 Mercadoria: Sortido composto de uma mesa quadrada (50 cm x 50 cm) de polipropileno (plástico), apresentada desmontada, e uma cadeira de abrir com estrutura de aço e assento e encosto de tecido, de uso infantil, acondicionado em uma única embalagem para venda a retalho, comercialmente denominado “Conjunto Ecológico Infantil” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.03), 3 “c” e 6 (texto da subposição 9403.70), da Tipi aprovada pelo Decreto nº 7.660, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TIPI: 9403.70.00 Mercadoria: Sortido composto de uma mesa quadrada (50 cm x 50 cm) de polipropileno (plástico), apresentada desmontada, e uma cadeira de abrir com estrutura de aço e assento e encosto de tecido, de uso infantil, acondicionado em uma única embalagem para venda a retalho, comercialmente denominado “Conjunto Ecológico Infantil”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.03), 3 “c” e 6 (texto da subposição 9403.70), da Tipi aprovada pelo Decreto nº 7.660, de 2011
