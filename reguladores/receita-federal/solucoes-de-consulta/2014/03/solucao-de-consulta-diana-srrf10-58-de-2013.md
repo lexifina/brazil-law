@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 58, de 10 de dezembro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 8716.10.00 Mercadoria: Reboque para habitação, do tipo trailer, com aparência de uma casa, com uma estrutura de aço e 3 conjuntos de rodas, podendo se deslocar, por meio de engate em caminhão, a qualquer momento (sem necessidade de montagem ou desmontagem), denominado comercialmente de “Casa móvel” ou “Móbil home” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.16) e 6 (texto da subposição 8716.10) da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 8716.10.00 Mercadoria: Reboque para habitação, do tipo trailer, com aparência de uma casa, com uma estrutura de aço e 3 conjuntos de rodas, podendo se deslocar, por meio de engate em caminhão, a qualquer momento (sem necessidade de montagem ou desmontagem), denominado comercialmente de “Casa móvel” ou “Móbil home”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.16) e 6 (texto da subposição 8716.10) da TEC aprovada pela Resolução Camex nº 94, de 2011
