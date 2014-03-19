@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 48, de 25 de outubro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TIPI: 9023.00.00 Mercadoria: Equipamento destinado à demonstração da funcionalidade de um conversor de freqüência sobre um motor elétrico trifásico, não suscetível a outro uso, composto por uma base de alumínio, onde são montados o conversor, a caixa de comando e o motor, denominado “Kit de demonstração de inversor de freqüência com motor de indução trifásico” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 90.23) da Tipi aprovada pelo Decreto nº 7.660, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TIPI: 9023.00.00 Mercadoria: Equipamento destinado à demonstração da funcionalidade de um conversor de freqüência sobre um motor elétrico trifásico, não suscetível a outro uso, composto por uma base de alumínio, onde são montados o conversor, a caixa de comando e o motor, denominado “Kit de demonstração de inversor de freqüência com motor de indução trifásico”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 90.23) da Tipi aprovada pelo Decreto nº 7.660, de 2011
