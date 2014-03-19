@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 40, de 5 de setembro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TIPI: 7323.93.00 Mercadoria: Cubas de aço inoxidável, de dimensões padronizadas (de 176 x 108 mm até 650 x 530 mm) e próprias para encaixe em balcões de buffet, utilizadas na armazenagem, preparação e distribuição de alimentos, bem como para servi-los em balcões aquecidos ou refrigerados, comercialmente denominadas “Cubas Gastronômicas” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 73.23) e 6 (texto da subposição 7323.93), da Tipi aprovada pelo Decreto nº 7.660, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TIPI: 7323.93.00 Mercadoria: Cubas de aço inoxidável, de dimensões padronizadas (de 176 x 108 mm até 650 x 530 mm) e próprias para encaixe em balcões de buffet, utilizadas na armazenagem, preparação e distribuição de alimentos, bem como para servi-los em balcões aquecidos ou refrigerados, comercialmente denominadas “Cubas Gastronômicas”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 73.23) e 6 (texto da subposição 7323.93), da Tipi aprovada pelo Decreto nº 7.660, de 2011
