@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de Turma Recursal do Juizado Especial Federal do Rio Grande do Sul que negou seguimento ao recurso extraordinário em face de acórdão que manteve o direito do ora recorrido de receber a parcela de adicional por tempo de serviço (anuênio) com incidência sobre o seu vencimento básico de 40 horas semanais. (eDOC 43)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se violação aos artigos 2º; 37, caput; e 169 do texto constitucional.
+    Sustenta-se, em síntese, que o recorrente apenas agiu em obediência ao Princípio Constitucional da Legalidade, ao qual deve estar submetida toda a Administração Pública.
+    Afirma-se, ainda, que não existe amparo legal para que o recorrente proceda de maneira diferente do que estabelecido na lei de regência (Lei 9.436/97).
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, ressalta-se que, conforme a jurisprudência pacífica desta Corte, não é cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal de origem (Enunciado da Súmula 636 do STF).
+    Nesse sentido, cito, entre outros, o AI 813.287, Rel. Min. Ellen Gracie, Segunda Turma, DJe 11.10.2010; AI-AgR 681.515, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 20.6.2008 e o AI-AgR 263.664, Rel. Min. Celso de Mello, Segunda Turma, DJe 9.2.2001, cuja ementa assim dispõe, no que interessa:
+    “(…) PRINCÍPIO DA LEGALIDADE - OFENSA REFLEXA - INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. - A alegação de ofensa ao princípio da legalidade não basta, só por si, para viabilizar o acesso à via recursal extraordinária. É que a interpretação judicial de normas legais - por situar-se e projetar-se no âmbito infraconstitucional - culmina por exaurir-se no plano estrito do contencioso de mera legalidade, desautorizando, em conseqüência, a utilização do apelo extremo. Precedentes. O Supremo Tribunal Federal tem acentuado que o procedimento hermenêutico do Tribunal inferior - que, ao examinar o quadro normativo positivado pelo Estado, dele extrai a interpretação dos diversos diplomas legais que o compõem, para, em razão da inteligência e do sentido exegético que lhes der, obter os elementos necessários à exata composição da lide - não transgride, diretamente, o princípio da legalidade (...)”.
+    Ademais, observo que a controvérsia dos autos, a respeito do direito do autor, ora recorrido, a receber a parcela de adicional por tempo de serviço (anuênio), com incidência sobre o seu vencimento básico de 40 horas, foi decidida com base na interpretação e aplicação de legislação infraconstitucional (Lei 9.436/1997). Portanto, as supostas violações ao texto constitucional, se tivessem ocorrido, seriam indiretas ou reflexas, tornando inviável o processamento regular do recurso extraordinário.
+    Nesse sentido, confira-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. EXTENSÃO DE VANTAGEM PECUNIÁRIA INDIVIDUAL. LEI N. 10.698/03. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 807.066, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 25.11.2010)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 19 de março de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
