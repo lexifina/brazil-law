@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1458, de 18 de março de 2014
+Altera a Instrução Normativa RFB nº 1.312, de 28 de dezembro de 2012, que dispõe sobre os preços a serem praticados nas operações de compra e de venda de bens, serviços ou direitos efetuadas por pessoa física ou jurídica residente ou domiciliada no Brasil, com pessoa física ou jurídica residente ou domiciliada no exterior, consideradas vinculadas.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 18 a 24-A da Lei nº 9.430, de 27 de dezembro de 1996, resolve:
