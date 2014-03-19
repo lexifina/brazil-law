@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra acórdão proferido pelo Colégio Recursal de São João da Boa Vista/SP, nos autos do Recurso Inominado 1324, que, ao afastar a aplicação, ao caso, do disposto no art. 1º do Decreto 20.910/32, teria desrespeitado o comando normativo da Súmula Vinculante 10.
+    Narra o reclamante, em síntese, que “diante desse quadro de divergência entre a decisão impugnada e a Súmula Vinculante nº 10 deste Supremo Tribunal Federal, se torna imperioso o conhecimento e julgamento desta Reclamação, julgando procedentes todos os pedidos contidos na exordial” (p. 39 da petição inicial eletrônica).
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88).
+    O caso, contudo, não revela ofensa à Súmula Vinculante 10. É que, conforme jurisprudência pacífica da Corte, não se exige a observância da cláusula de reserva de plenário na declaração de incompatibilidade entre textos normativos editados sob a égide de constituições anteriores e a Constituição Federal de 1988. Nesse sentido:
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. ALEGADO DESRESPEITO À CLÁUSULA DE RESERVA DE PLENÁRIO. VIOLAÇÃO DA SÚMULA VINCULANTE 10. NÃO OCORRÊNCIA. NORMA PRÉ-CONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A norma cuja incidência teria sido afastada possui natureza pré-constitucional, a exigir, como se sabe, um eventual juízo negativo de recepção (por incompatibilidade com as normas constitucionais supervenientes), e não um juízo declaratório de inconstitucionalidade, para o qual se imporia, certamente, a observância da cláusula de reserva de plenário. II – Agravo regimental a que se nega provimento” (Rcl 15.786-AgR-PE, Rel. Min. Ricardo Lewandowski, Pleno, DJe de 19/02/2014).
+    3. Ante o exposto, nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 19 de março de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
