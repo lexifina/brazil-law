@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 5ª Turma do Colégio Recursal da Comarca de Sorocaba/SP, assim ementado, no que interessa:
+    “Relação de consumo. Contrato de compromisso de compra e venda (imóvel novo). Pedido de rescisão de contrato não acolhido pelo compromissário vendedor. Requeridos negaram a devolução dos valores. Manutenção de cobrança. Inclusão dos autores entre os inadimplentes. Negativação indevida reconhecida. Dano moral fixado em 5.000,00. Reconhece a rescisão do contrato com a devolução da importância paga (...)”. (fl. 465).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 5º, incisos XXXV, XXXVI, LIV e LV, do texto constitucional.
+    Nas razões recursais, alega-se, preliminarmente, ausência de prestação jurisdicional. No mérito, sustenta-se violação ao princípio da legalidade e ao ato jurídico perfeito.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, verifico que o acórdão recorrido está devidamente fundamentado, sendo pacífico o entendimento do Supremo Tribunal Federal no sentido de que, se a decisão estiver apropriadamente fundamentada, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelo recorrente, não há que se falar em violação aos artigos 5º, XXXV; e 93, IX, da Constituição Federal.
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente.
+    Constata-se dos autos que o acórdão recorrido reformou a sentença para que a comissão de corretagem passasse a ser obrigação exclusiva do vendedor, não podendo ser repassada ao comprador, com base na responsabilidade solidária prevista no artigo 18 do CDC.
+    Com efeito, a alegada ofensa à Constituição Federal busca, na verdade, o revolvimento de fatos e provas, providências essas vedadas no âmbito do recurso extraordinário, a teor do Enunciado n. 279 da Súmula do STF.
+    Além disso, para se entender de forma diversa, faz-se imprescindível a interpretação de cláusulas contratuais e da legislação infraconstitucional aplicável (Código Civil e Código de Defesa do Consumidor), o que não se admite na via do apelo extremo, nos termos dos Enunciados 454 e 636 desta Corte. A propósito, confira-se o ARE 677.531-AgR, Rel. Ministro Dias Toffoli, DJe 10.9.2012:
+    “Agravo regimental no recurso extraordinário com agravo. Comissão de corretagem. Consumidor. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional e das provas dos autos. Incidência das Súmulas n. 636 e 279/STF. 2. Agravo regimental não provido”.
+    Também, nesse mesmo sentido: AI-AgR 397.415, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 26.3.2004, com acórdão assim ementado:
+    “Recurso extraordinário: descabimento: acórdão recorrido que, ao decidir questão relativa a contrato de corretagem, restringiu-se a aplicar a legislação infraconstitucional pertinente ao caso; a alegada violação a dispositivos constitucionais, se ocorrente, seria indireta ou reflexa, que não enseja reexame na via extraordinária”.
+    Cito, ainda, as seguintes decisões monocráticas proferidas em casos análogos ao dos autos: ARE 675.508, Rel. Min. Joaquim Barbosa, DJe 28.3.2012; AI 851.596, Rel. Min. Ricardo Lewandowski, DJe 20.9.2011; AI 842.003, Rel. Min. Ricardo Lewandowski, DJe 3.8.2011; e AI 776.388, Rel. Min. Marco Aurélio, DJe 9.6.2010.
+    Por fim, ressalto que a jurisprudência desta Corte firmou-se no sentido de que a afronta aos princípios constitucionais do contraditório, da ampla defesa, do devido processo legal, da legalidade e do ato jurídico perfeito, se dependente de reexame prévio de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional, o que inviabiliza o prosseguimento do recurso extraordinário. Confiram-se os seguintes precedentes: AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011; RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011; e o AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1.4.2011.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 19 de março de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
