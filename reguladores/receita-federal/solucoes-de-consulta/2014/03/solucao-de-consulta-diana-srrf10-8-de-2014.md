@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 8, de 20 de janeiro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 5903.90.00 Mercadoria: Tecido de fios de poliéster impregnado com resina acrílica, de espessura de 0,22 mm, de cor uniforme e idêntica em ambas as faces, apresentado em rolos com largura entre 1,10 m e 3,20 m, utilizado em impressão (comunicação visual), comercialmente denominado “Terra Banner 200 FR” DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 do Capítulo 59 e texto da posição 59.03) e 6 (texto da subposição 5903.90) da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 5903.90.00 Mercadoria: Tecido de fios de poliéster impregnado com resina acrílica, de espessura de 0,22 mm, de cor uniforme e idêntica em ambas as faces, apresentado em rolos com largura entre 1,10 m e 3,20 m, utilizado em impressão (comunicação visual), comercialmente denominado “Terra Banner 200 FR”
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 do Capítulo 59 e texto da posição 59.03) e 6 (texto da subposição 5903.90) da TEC aprovada pela Resolução Camex nº 94, de 2011
