@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 256):
+    “Direito civil. Direito administrativo. Servidor público. Município de Petrópolis. Incorporação de função gratificada aos vencimentos. Admissibilidade. Julgamento “extra petita”. Anulação parcial da sentença, no tocante à consideração referente à incorporação da gratificação aos proventos da autora, quando esta passar à inatividade, bem como sobre a não incidência da contribuição previdenciária sobre os valores referentes à função gratificada. Aplicação do prazo prescricional previsto no Decreto nº 30.910/32. No mérito, não houve revogação tácita do artigo 106, § 3º da Lei Municipal nº 3.884/77 pelo artigo 52 da Lei nº 4.692/90. Dispositivos que tratam de matérias diversas, o primeiro estabelecendo o direito à incorporação de gratificações aos vencimentos dos servidores na ativa, enquanto o segundo regula matéria afeita aos proventos de inatividade. Rejeição do argumento de que o artigo 106, § 3º da Lei nº 3.884/77 não foi recepcionado pela Constituição Federal de 1988, sobretudo após a edição da Emenda nº 20/98, dês que a nova redação conferida ao artigo 40, § 2º refere-se, expressamente, aos proventos de aposentadoria, e não a vencimentos. Precedentes deste TJRJ. Provimento parcial do recurso. ”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, XIV, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que o caso atrai a incidência da Súmula 280/STF.
+    A decisão deve ser mantida. Nota-se que o Tribunal de origem entendeu que a recorrida fazia jus à incorporação da gratificação aos seus vencimentos com fundamento tão somente na legislação local aplicável ao caso, o que atrai a incidência da Súmula 280/STF. Nessa linha, confira-se a ementa do RE 301.065-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INCORPORAÇÃO DE GRATIFICAÇÃO DE FUNÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    No mesmo sentido e em casos análogos ao dos autos, vejam-se: AREs 671.783 e 669.899, Rel. Min. Gilmar Mendes
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas nego-lhe provimento.
+    Publique-se.
+          Brasília, 20 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
