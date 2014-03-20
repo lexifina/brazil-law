@@ -1,0 +1,8 @@
+DECISÃO: Trata-se de agravo de decisão que não admitiu recurso extraordinário contra ato decisório que não conheceu do agravo regimental interposto contra acórdão proferido pelo Tribunal de Justiça do estado de São Paulo, por considerá-lo manifestamente incabível.
+    Compulsando os autos, verifico a intempestividade do recurso extraordinário ao qual se vincula o presente agravo, porquanto interposto em 28.11.2011, ao passo que a intimação da decisão que negou provimento ao agravo de instrumento ocorreu em 06.10.2011.
+    Cumpre ressaltar que, nos termos da jurisprudência desta Corte, recursos manifestamente incabíveis não suspendem ou interrompem o prazo para a interposição de outro recurso. Nesse sentido: RE 427.221-AgR (rel. min. Dias Toffoli, Primeira Turma, DJe de 14.08.2012), AI 710.051-AgR-AgR (rel. min Ayres Britto, Segunda Turma, DJe de 17.09.2010), AI 749.031-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 29.10.2009), AI 602.116-AgR (de minha relatoria, Segunda Turma, DJe de 26.10.2007), AI 733.719-AgR (rel. min. Ellen Gracie, Segunda Turma, DJe de 11.12.2009), AI 552.307-AgR-AgR (relator min. Gilmar Mendes, Segunda Turma, DJ de 15.09.2006), AI 546.148-AgR (rel. min. Eros Grau, Primeira Turma, DJ 31.03.2006), AI 779.295-AgR-ED-ED-EDv (rel. min. Rosa Weber, DJe de 06.03.2012) AI 839.995 (rel. min. Dias Toffoli, DJe de 04.06.2012), AI 761.303-AgR-AgR (rel. min. Ricardo Lewandowski, DJe de 22.10.2010), ARE 686.112-ED (rel. min. Cármen Lúcia, Primeira Turma, DJe de 14.09.2012), ARE 688.273 (rel. min. Luiz Fux, Dje de 28.09.2012) e ARE 704.027 (rel. min. Celso de Mello, DJe de 21.08.2012).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 20 de março de 2014.
+Ministro Joaquim Barbosa
+Presidente
