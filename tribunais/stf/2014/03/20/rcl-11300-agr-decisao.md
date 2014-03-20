@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo regimental contra decisão proferida pelo Ministro Ayres Britto, no sentido de negar seguimento à reclamação, por não ter verificado, no caso, desrespeito à autoridade da ADI 3.395-MC. Insiste o agravante, em síntese, na tese de que a relação jurídica mantida entre as partes seria de natureza estatutária, o que determinaria a competência da Justiça Comum para julgamento da causa. Assim, a decisão da Justiça Trabalhista de Rondônia, que foi mantida até o Tribunal Superior do Trabalho, estaria em confronto com a ADI 3.395-MC.
+    2. É caso de reconsideração do ato impugnado. Consta da decisão proferida pelo Ministro Ayres Britto que (a) o empregado fora contratado pelo regime celetista antes da Constituição Federal de 1988, medida permitida à época; e (b) ante a ausência de demonstração, por parte do Estado de Rondônia, de ter havido alteração no regime de contratação, a competência seria mesmo da Justiça do Trabalho.
+    Verifica-se, entretanto, não terem sido consideradas as alegações do próprio autor da ação trabalhista proposta na origem, conforme revela a sentença condenatória proferida pelo Juízo de primeiro grau: “Na inicial, alega o Reclamante foi contratado pelo Estado de Rondônia antes da promulgação da Constituição de 1988, laborando até janeiro de 2000, quando foi demitido e depois reintegrado em junho de 2003.”
+    Nos termos da jurisprudência desta Corte, uma vez estabelecida relação entre o ente público e o particular, a competência é da Justiça Comum, porquanto, “Antes de se tratar de um problema de direito trabalhista, a questão deve ser resolvida no âmbito do direito administrativo, pois para o reconhecimento da relação trabalhista terá o juiz que decidir se teria havido vício na relação administrativa a descaracterizá-la.” (Rcl 8.110-AgR, Rel. p/ acórdão Min. Cármen Lúcia, Pleno, DJe de 12/02/2010).
+    3. Ante o exposto, reconsidero a decisão agravada, para julgar procedente a reclamação, fixando a competência da Justiça Comum para julgamento da causa.
+    Publique-se. Intime-se.
+    Brasília, 20 de março de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
