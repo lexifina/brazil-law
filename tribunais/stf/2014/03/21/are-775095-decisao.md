@@ -1,0 +1,24 @@
+Trata-se de agravo de decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça, que entendeu indevida a cobrança do IPTU na forma progressiva. A ementa do aresto recorrido, no ponto, está assim redigida (fl. 205):
+    “APELAÇÃO. Ação anulatória de lançamento fiscal. IPTU. Progressividade extrafiscal. Inadmissibilidade. Cobrança que depende de lei específica para área incluída no plano diretor do município. Inteligência do artigo 182, § 4º, da CF
+    (…)
+    Recurso improvido”.
+    No recurso extraordinário, fundamentado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 182, § 4º, II, da mesma Carta.
+    O recurso não tem condições de êxito. No acórdão recorrido está expressa a inexigibilidade do ITPU, porque, nos termos da Lei Federal 10.257/01 (Estatuto da Cidade), é imprescindível a edição de plano diretor do município e de lei específica que imponha o aproveitamento do solo, como se infere às fls. 206-208, in verbis:
+    “No caso, não é possível a aplicação do IPTU progressivo no tempo, como forma coercitiva de observância da política urbana, na medida e que não foram observadas as regras estabelecidas na Lei nº 10.257/01.
+    Com efeito, a apelante instituiu IPTU progressivo em áreas não edificadas por meio da Lei Complementar Municipal nº 113/01.
+    Ocorre que, nos termos do artigo 182, § 4º, II, da Constituição Federal, é facultado ao Poder Público municipal, mediante lei específica para área incluída no plano diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado, subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob pena de cobrança do ITPU progressivo no tempo. Esta progressividade tem função extrafiscal e decorre da política de desenvolvimento urbano.
+    Os artigos 182 e 183 da Constituição Federal são regulamentados pela Lei Federal nº 10.257/01, denominado Estatuto da Cidade. O procedimento de imposição do aproveitamento do solo, que deve anteceder a cobrança do IPTU progressivo no tempo, está previsto no art. 5º, in verbis:
+    'Art. 5º. Lei municipal específica para área incluída no plano diretor poderá determinar o parcelamento, a edificação ou a utilização compulsórias do solo urbano não edificado, subutilizado ou não utilizado, devendo fixar as condições e os prazos para implementação da referida obrigação.
+    (…)
+    § 2º. O proprietário será notificado pelo Poder Executivo municipal para o cumprimento da obrigação, devendo a notificação ser averbada no cartório de registro de imóveis'.
+    Exige-se, portanto, lei específica que imponha o aproveitamento do solo, elaborada segundo parâmetros estipulados por lei federal.
+    Além disso, é imprescindível que a área do imóvel não edificado, subutilizado ou não utilizado esteja incluída no plano diretor municipal e que o proprietário seja notificado para cumprir a obrigação, uma vez que, se esta for cumprida no prazo legal não haverá possibilidade de incidência do IPTU progressivo, nos termos do caput do artigo 7º do mesmo diploma legal [Estatuto da Cidade].
+    No caso dos autos, a Fazenda Pública do Município de Presidente Prudente não demonstrou que tenha elaborado Plano Diretor, que é uma das condições para a cobrança do IPTU com alíquotas progressivas, e nem que tenha editado lei específica impondo ao autor o aproveitamento do solo urbano não edificado”.
+    Dessume-se, por isso, que a solução da lide se deu a partir da interpretação da Lei Federal 10.257/01 (Estatuto da Cidade) que, dispondo sobre a cobrança do referido tributo com alíquotas progressivas, assentou ser imprescindível para a cobrança do IPTU na forma progressiva a prévia edição de plano diretor municipal e de lei específica que imponha aos munícipes o aproveitamento do solo.
+     Desse modo, a violação à Constituição, se houvesse, seria indireta, o que não autoriza a admissão do recurso, conforme entendimento assente no Supremo Tribunal Federal, in verbis:
+    “Na admissibilidade do recurso extraordinário, exige-se, também, haja ofensa direta, pela decisão recorrida, à norma constitucional, não podendo essa vulneração verificar-se, por via oblíqua, ou em decorrência de violação a norma infraconstitucional. Não é bastante fundamentar o apelo extremo em alegação de ofensa a preceito constitucional, como consequência de contrariedade à lei ordinária. Se para demonstrar violência à Constituição é mister, por primeiro, ver reconhecida violação a norma ordinária, é esta última o que conta, não se cuidando, pois, de contrariedade direta e imediata à Lei Magna, qual deve ocorrer com vistas a admitir recurso extraordinário, ut art. 102, III, do Estatuto Supremo” (AI 203.077/SP, Rel. Min. Néri da Silveira).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de março de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
