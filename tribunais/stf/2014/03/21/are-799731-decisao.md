@@ -1,0 +1,22 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO INOMINADO EM APELAÇÃO CÍVEL AÇÃO INDENIZATÓRIA. DIREITO DO CONSUMIDOR. PROMESSA DE FORMAÇÃO NO CURSO DE GRADUAÇÃO EM EDUCAÇÃO FÍSICA, COM CONCLUSÃO EM TRÊS ANOS E MEIO. RATIFICAÇÃO DA DECISÃO MONOCRÁTICA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO A QUE SE NEGA PROVIMENTO.
+    I. PRELIMINARES DE INCONSTITUCIONALIDADE DA RESTRIÇÃO IMPOSTA PELO CONFEF E CREF/RJ E ILEGITIMIDADE PASSIVA REJEITADAS.
+    2. INCONSTITUCIONALIDADE SUSCITADA DAS RESOLUÇÕES EDITADAS PELO CONFEF E CREF SE TRATA DE MATÉRIA NÃO AFETA A PRESENTE LIDE.
+    3. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO DE ENSINO SUPERIOR. TEORIA DA ASSERÇÃO. AUTORA QUE IMPUTA À INSTITUIÇÃO PROPAGANDA ENGANOSA E DEFEITO NA PRESTAÇÃO DO SERVIÇO, BEM COMO PLEITEIA DANOS DECORRENTES DE TAIS VÍCIOS.
+    4. CONSUMIDOR QUE DURANTE TODO O SEU CURSO NUTRIA A EXPECTATIVA DE QUE AO FINAL ESTARIA APTO A SE LANÇAR NO MERCADO DE TRABALHO, EM PLENO GOZO DOS DIREITOS INERENTES AO FORMANDO DO CURSO DE BACHAREL EM EDUCAÇÃO FÍSICA.
+    5. CONCLUSÃO DO CURSO DE LICENCIATURA EM EDUCAÇÃO FÍSICA. DIPLOMA QUE RESTRINGE A EXPECTATIVA DO AUTOR.
+    6. INSTITUIÇÃO DE ENSINO QUE, AO OFERECER UM CURSO DE GRADUAÇÃO, TEM COMO OBRIGAÇÃO INFORMAR DE MANEIRA PRECISA O CONSUMIDOR, COM O FIM DE EVITAR A CONFIGURAÇÃO DA FALHA NA PRESTAÇÃO DO SERVIÇO.
+    7. PARTE RÉ QUE, NA CONDIÇÃO DE EDUCADORA, DEVERIA FORMULAR CONTRATO, CONTENDO TODO O CONTEÚDO INFORMATIVO DA CADEIRA ESCOLHIDA, INCLUINDO O CAMPO DE ABRANGÊNCIA PROFISSIONAL E AS POSSÍVEIS ALTERNATIVAS DE ESCOLHA PARA UMA FORMAÇÃO MAIS COMPLEXA E HÁBIL A PREENCHER AS EXPECTATIVAS DO CONSUMIDOR, O QUE NÃO RESTOU DEMONSTRADO.
+    8. DANO MORAL. IN RE IPSA. VALOR A SER FIXADO QUE DEVE ATENDER AOS PRINCIPIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+    9. RATIFICAÇÃO DA DECISÃO MONOCRÁTICA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO A QUE SE NEGA PROVIMENTO” (pág. 126 do documento eletrônico 6).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, caput, II, X, XIII e XXXII; 22, XVI e XXIV; 93, IX; 206, VII; 207, caput; e 209, I e II, da mesma Carta.
+    A pretensão recursal não merece acolhida. Inicialmente, observe-se que a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Nesse sentido, transcrevo a ementa do AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (grifos meus).
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação das normas infraconstitucionais aplicáveis à espécie. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Além disso, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, nos termos da Súmula 279 do STF.
+    Por fim, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (AREsp 426.431/RJ, com trânsito em julgado certificado em 25/2/2014), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão impugnado, o que atrai a incidência da Súmula 283 do STF. Nesse sentido: AI 785.229/PR, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de março de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
