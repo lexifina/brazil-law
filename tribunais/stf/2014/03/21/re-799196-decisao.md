@@ -1,0 +1,19 @@
+DECISÃO
+IMPOSTO SOBRE A CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – CONCESSÃO DE BENEFÍCIO FISCAL – MINISTÉRIO PÚBLICO – LEGITIMIDADE – AUSÊNCIA DE PREJUÍZO AO ERÁRIO – MATÉRIA FÁTICA E LEGAL – “GUERRA FISCAL” – INCONSTITUCIONALIDADE – PRECEDENTES.
+    1. O Ministério Público do Distrito Federal e Territórios – MPDFT propôs ação civil pública contra o Distrito Federal, Banco de Brasília e Vitral Vidros Planos Ltda., pretendendo a declaração de nulidade da Portaria nº 201, de 2001, expedida pela Secretaria de Fazenda e Planejamento do Distrito Federal. Por meio desse ato, foi permitida a concessão de empréstimo pela aludida instituição financeira à mencionada empresa no percentual de 70% do valor devido, a título de Imposto sobre a Circulação de Mercadorias e Serviços, pela contribuinte ao Distrito Federal.
+    O Tribunal de Justiça, reformando a sentença, consignou a legitimidade do Ministério Público e a adequação da ação civil pública, por versar ato administrativo lesivo ao patrimônio público. Determinou o retorno do processo ao Juízo para apreciação dos pedidos formulados.
+    O Distrito Federal, no extraordinário, alega ofensa aos artigos 5º, incisos XXV e LIV, 102, inciso I, alíneas “a” e “f”, e 129, inciso III, da Carta Federal. Sustenta a ilegitimidade do recorrido e a inadequação do instrumento.
+    2. Na interposição deste recurso, atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por Procurador do Distrito Federal, foi protocolada no prazo assinado em lei. Conheço.
+    O Supremo, no julgamento do Recurso Extraordinário nº 576.155/DF, relator ministro Ricardo Lewandowski, ocorrido em 12 de agosto de 2010, sob o ângulo da repercussão geral, assentou o cabimento, na espécie, de ação civil pública e a legitimidade do Ministério Público para buscar anulação de Termo de Acordo de Regime Especial – TARE formalizado pelo ente federativo e o contribuinte, presente violação ao patrimônio público. O acórdão ficou assim ementado:
+    AÇÃO CIVIL PÚBLICA. LEGITIMIDADE ATIVA. MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS. TERMO DE ACORDO DE REGIME ESPECIAL - TARE. POSSÍVEL LESÃO AO PATRIMÔNIO PÚBLICO. LIMITAÇÃO À ATUAÇÃO DO PARQUET. INADMISSIBILIDADE. AFRONTA AO ART. 129, III, DA CF. REPERCUSSÃO GERAL RECONHECIDA. RECURSO EXTRAORDINÁRIO PROVIDO.
+    I - O TARE não diz respeito apenas a interesses individuais, mas alcança interesses metaindividuais, pois o ajuste pode, em tese, ser lesivo ao patrimônio público.
+    II – A Constituição Federal estabeleceu, no art. 129, III, que é função institucional do Ministério Público, dentre outras, “promover o inquérito e a ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos”. Precedentes.
+    III - O Parquet tem legitimidade para propor ação civil pública com o objetivo de anular Termo de Acordo de Regime Especial - TARE, em face da legitimação ad causam que o texto constitucional lhe confere para defender o erário.
+    IV - Não se aplica à hipótese o parágrafo único do artigo 1º da Lei 7.347/1985.
+    V - Recurso extraordinário provido para que o TJ/DF decida a questão de fundo proposta na ação civil pública conforme entender.
+    No tocante à alegação de ofensa ao contraditório e à ampla defesa, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução final na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. O Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 21 de março de 2014.
+Ministro MARCO AURÉLIO
+Relator
