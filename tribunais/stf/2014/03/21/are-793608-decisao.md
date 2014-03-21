@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Colégio Recursal dos Juizados Especiais da Fazenda Pública do Estado de São Paulo, assim ementado (fls. 408):
+    “1. Constitucional. Administrativo. Pretensão de inclusão de prêmio de incentivo (PIQ) na forma da Lei n. 8.957/94, no cálculo do adicional por tempo de serviço (quinquênio).
+    2. Natureza de acréscimo salarial do benefício em sua metade.
+    3. Recurso parcialmente provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 37, XIV, da Constituição. Aduz “a aplicação do art. 543-B, §3º do CPC, requerendo o retorno dos autos à Turma Recursal para retratação e adequação do julgamento, tendo em vista que o acórdão recorrido está em absoluta oposição ao contido no julgamento do RE nº 563.708-MS” (fls. 432).
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos: (i) aplicação da Súmula 283/STF; (ii) as supostas violações ao texto constitucional teriam ocorrido de maneira indireta; (iii) ausência de prequestionamento dos dispositivos constitucionais tidos por violados; e (iv) não demonstrou “de forma clara e insofismável” a existência de repercussão geral do caso em análise.
+    O recurso extraordinário não deve ser admitido. Isso porque, para dissentir da solução conferida pelo Tribunal de origem à controvérsia, relativa à incidência, ou não, da vantagem denominada “Prêmio de Incentivo”, sobre a base de cálculo do 13º salário e do terço constitucional, seria necessária a análise da legislação local pertinente (Leis estaduais nºs 8.975/1994, 9.185/1995 e 9.463/1996), o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 280/STF. Nesse sentido e sobre a mesma questão, vejam-se precedentes das duas Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRÊMIO DE INCENTIVO. INCLUSÃO NO CÁLCULO DO DÉCIMO TERCEIRO SALÁRIO E DAS FÉRIAS. LEI ESTADUAL N. 8.975/94. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL (SÚMULA 280). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 674.810-AgR, Relª. Minª. Cármen Lúcia, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRÊMIO DE INCENTIVO. INCLUSÃO NO CÁLCULO DO DÉCIMO TERCEIRO SALÁRIO E DO TERÇO DE FÉRIAS. NATUREZA DA VERBA. LEI ESTADUAL 8.975/1994. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO IMPROVIDO.
+    I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional local que fundamenta a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes.
+    II – Agravo regimental improvido.” (ARE 765.773-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma).
+    Ademais, a controvérsia debatida nestes autos em nada se assemelha ao que foi decidido, por esta Corte, no julgamento do RE 563.708-RG. No julgado, o que se discutia era a incidência de efeito cascata na base de cálculo das vantagens pessoais de servidor público, muito diferente da controvérsia aqui discutida que se refere à natureza jurídica do prêmio de incentivo (PIQ) estabelecido pela Lei nº 8.975/1994.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 21 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
