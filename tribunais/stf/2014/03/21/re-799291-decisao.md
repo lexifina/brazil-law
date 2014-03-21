@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que o ora recorrente, investigador de polícia, não faz jus à aposentadoria especial integral, ao fundamento de que, a despeito da recepção da Lei Complementar 51/1985 pela Constituição, não houve o cumprimento dos demais requisitos necessários à concessão do benefício previdenciário.
+    Neste RE, fundado no art. 102, III, a e b, da Constituição, alegou-se violação ao art. 40, § 4º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o aresto impugnado está em consonância com o entendimento firmado pelo Plenário desta Corte e ratificado em sede de repercussão geral, conforme se observa do RE 567.110-RG/AC, Rel. Min. Cármen Lúcia, cuja ementa transcrevo a seguir:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. RECEPÇÃO CONSTITUCIONAL DO ART. 1º, INC. I, DA LEI COMPLEMENTAR N. 51/1985. ADOÇÃO DE REQUISITOS E CRITÉRIOS DIFERENCIADOS PARA A CONCESSÃO DE APOSENTADORIA A SERVIDORES CUJAS ATIVIDADES NÃO SÃO EXERCIDAS EXCLUSIVAMENTE SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA. 1. Reiteração do posicionamento assentado no julgamento da Ação Direta de Inconstitucionalidade n. 3.817, Relatora a Ministra Cármen Lúcia, da recepção do inc. I do art. 1º da Lei Complementar n. 51/1985 pela Constituição. 2. O Tribunal a quo reconheceu, corretamente, o direito do Recorrido de se aposentar na forma especial prevista na Lei Complementar 51/1985, por terem sido cumpridos todos os requisitos exigidos pela lei. 3. Recurso extraordinário ao qual se nega provimento”.
+    Ademais, para dissentir da conclusão adotada pelo acórdão recorrido no tocante à ausência de preenchimento de todos os requisitos necessários à concessão da aposentadoria especial, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 do STF. Nesse sentido, transcrevo a ementa do RE 775.155-AgR/SP, Rel. Min. Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. RECEPÇÃO DA LEI COMPLEMENTAR N. 51/1985. REQUISITOS. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Destaco, ainda, os seguintes precedentes deste Tribunal: AI 736.970-AgR/SP, Rel. Min. Marco Aurélio; RE 774.766/SP, Rel. Min. Roberto Barroso.
+    Por fim, o presente caso não trata de acórdão que tenha declarado a inconstitucionalidade de lei federal ou tratado, o que afasta o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da Constituição.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de março de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
