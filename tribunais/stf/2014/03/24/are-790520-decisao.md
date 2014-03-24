@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 684):
+    “Ação declaratória de inexigibilidade de débitos c/c indenização por danos materiais e morais – Irresignação do cliente com débitos e lançamentos havidos em sua conta corrente – Questão já especificamente discutida e decidida em anterior demanda (autos nº 0033256-82.2010, também do JEC) – Incorporação do ABN pelo Santander (ou mesmo alteração do número originário da conta) que não afasta a identidade das partes, pedido e causa de pedir – Impossibilidade de rediscussão de questão já operada pela coisa julgada – Extinção do processo sem resolução de mérito, com manutenção da penalidade ao litigante de má-fé processual – Recurso prejudicado”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37 e 170, ambos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “embora tenha o Recorrente atribuído a determinado tópico de ser recurso a designação “do cabimento do recurso extraordinário”, deixou ele, porém, de efetivamente apontar as razões pelas quais o recurso extraordinário teria cabimento, limitando-se, ao revés, a tecer considerações ligadas ao mérito da sua insurgência”; (ii) “torna-se inadmissível o extraordinário se os reais fundamentos sobre os quais se alicerça a decisão recorrida não foram impugnados”; (iii) “as supostas violações dos preceitos declinados, então, teriam ocorrido de maneira indireta, oblíqua ou reflexa, quando segundo posição assente na doutrina e na jurisprudência, a violação deve ser direta e frontal”; e (iv) “ainda é inadmissível por falta de prequestionamento” (fls. 726-731).
+    O recurso é inadmissível, tendo em vista que a peça recursal não aponta, de forma clara e concreta, de que forma o acórdão recorrido teria violado os arts. 37 e 170 da Constituição. Nessas condições, a hipótese atrai a incidência da súmula 284/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Ademais, o recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constantes dos autos, bem como a interpretação de cláusulas contratuais, o que atrai a incidência das Súmulas 279 e 454/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de março de 2014.
+Ministro Roberto Barroso
+Relator
