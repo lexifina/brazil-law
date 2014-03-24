@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de embargos de declaração cujo objeto é decisão monocrática do Ministro Joaquim Barbosa, relator originário do feito, que não conheceu do recurso extraordinário com agravo, pelos seguintes fundamentos:
+    “Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho.
+    É o breve relatório. Decido.
+    A interposição do agravo se deu por ‘fax’, sendo que se afigura ausente a concordância entre o expediente remetido por fac-símile e o original entregue em juízo, o que acarreta em deficiência na fundamentação. Incide, portanto, na Súmula 284/STF.
+    Ademais, o art. 4º da Lei 9.800/99 assevera que aquele que fizer uso de sistema de transmissão de dados (tipo fac-símile ou similar) torna-se responsável pela qualidade e fidelidade do material transmitido. No caso em análise, o agravante faltou com esse cuidado visto que, consoante ressaltado acima, a petição do agravo foi recebida pelo Tribunal de origem, de forma incompleta.
+    Nesse sentido: RE 300.939-AgR (rel. min. Sepúlveda Pertence, DJ de 04.06.2004), AI 531.866-AgR (rel. min. Gilmar Mendes, DJ de 01.07.2005), AI 537.934-AgR (rel. min. Cezar Peluso, DJ de 19.08.2005), AI 403.731-AgR (rel. min. Joaquim Barbosa, DJ de 28.04.2006), AI 409.860 (rel. min. Gilmar Mendes, DJ de 22.04.2003) e AI 490.561 (rel. min. Gilmar Mendes, DJ de 13.09.2005).
+    Do exposto, não conheço do agravo.”
+    A parte embargante sustenta que “a petição que foi entregue ao Tribunal de origem, em original é exatamente a mesma, idêntica, a que foi enviada por fac-simile.”
+     Em preliminar, recebo os presentes embargos de declaração como agravo regimental, tendo em vista a pretensão da parte recorrente em ver reformada a decisão ora impugnada (MI 823-ED-segundos, Rel. Min. Celso de Mello, Rcl 11.022-ED, Rel.ª Min.ª Cármen Lúcia, ARE 680.718-ED, Rel. Min. Luiz Fux).
+    Assiste razão à agravante, uma vez que as petições são realmente idênticas.
+    Reconsidero a decisão agravada e passo à análise do recurso extraordinário com agravo.
+    O recurso extraordinário, fundamentado no art. 102, III, a, da Constituição Federal, cujo objeto é acórdão proferido pelo Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. EMPREGADA ADVOGADA. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INCONSTITUCIONALIDADE DO ART. 4º DA LEI 9.527/97. HORAS EXTRAORDINÁRIAS EXCEDENTES DA 4ª DIÁRIA. REGIME DE DEDICAÇÃO EXCLUSIVA. PREVISÃO NO EDITAL DO CONCURSO. PLANO DE CARGOS E SALÁRIOS - APLICAÇÃO. HONORÁRIOS ADVOCATÍCIOS. DESPROVIMENTO. Ante o óbice da Súmula 297 do TST e por não ter sido demonstrada violação direta e literal de dispositivo legal ou constitucional nem divergência jurisprudencial, não há como se admitir o recurso de revista interposto. Agravo de instrumento desprovido.”
+    A recorrente alega que a decisão teria violado os arts. 5º, XXXV, e 93, IX, da Constituição.
+    O recurso não merece provimento. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa ao cabimento de recursos da competência de outros Tribunais, por restringir-se a tema infraconstitucional (RE 598.365-RG, Rel. Min. Ayres Britto). Confira-se a ementa do acordão:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. “
+    Ademais, quanto à alegação de ofensa ao art. 5º, XXXV, da Constituição Federal, incide a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “(...)
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. “
+    Quanto à alegação de afronta ao disposto no art. 93, IX, da Constituição Federal, o Supremo Tribunal Federal fixou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. “
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
