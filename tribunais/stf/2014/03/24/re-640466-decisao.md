@@ -1,0 +1,26 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+    Opostos embargos declaratórios, o Tribunal de origem, acolhendo matéria de ordem pública, modificou o acórdão recorrido apenas no tocante à sanção de ressarcimento ao erário, a fim de que o montante respectivo seja “corrigido, desde a data do evento danoso, pelo INPC, acrescido de juros de mora de 0,5% ao mês, a contar de cada pagamento indevido, passando, a partir da vigência do Código Civil de 2002, a incidir tão somente a taxa SELIC”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação aos arts. 5°, LVI; 54, I, a; 55, IV; e 102, I, b, da Constituição.
+    O Tribunal de origem admitiu o presente recurso extraordinário tão somente quanto à alegação de ofensa ao art. 55, IV, da Constituição.
+    O recurso não deve ser conhecido, tendo em vista que é intempestivo.
+    De início, nota-se que o acórdão recorrido foi publicado na vigência da EC 45/2004, que acrescentou o inciso XII do art. 93 da Constituição Federal:
+    "a atividade jurisdicional será ininterrupta, sendo vedado férias coletivas nos juízos e tribunais de segundo grau, funcionando, nos dias em que não houver expediente forense normal, juízes em plantão permanente".
+    No caso, o acórdão recorrido foi publicado em 17.12.2007 e o recurso extraordinário foi protocolado no Tribunal de origem somente em 1º.02.2008, quando já transcorrido o prazo de 15 (quinze) dias previsto no art. 508 do Código de Processo Civil.
+    Cabe ressaltar que, apesar de parcialmente admitido o recurso extraordinário pelo Tribunal de origem, não consta da decisão de admissibilidade qualquer julgamento acerca da tempestividade do recurso. Também não foi apontado pela parte nenhum fato suspensivo ou impeditivo para o cumprimento do referido prazo legal.
+    De qualquer modo, o juízo de admissibilidade realizado pela instância a quo não desobriga a aferição por esta Corte dos requisitos de admissibilidade de recurso cujo julgamento lhe compete. Nessa linha, confira-se a ementa do AI 636.765-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. INTEMPESTIDADE. SUSPENSÃO DE PRAZO. FÉRIAS COLETIVAS. I - A EC 45/04 acrescentou o parágrafo XII ao art. 93 da Constituição Federal, que diz: "a atividade jurisdicional será ininterrupta, sendo vedado férias coletivas nos juízos e tribunais de segundo grau, funcionando, nos dias em que não houver expediente forense normal, juízes em plantão permanente". Assim, observa-se da redação do mencionado artigo que tal regra não se estende aos Tribunais Superiores. Precedente. II - A jurisprudência desta Corte tem se orientado no sentido de que compete ao Tribunal ad quem a verificação da tempestividade do recurso que há de julgar, pois a interposição do agravo devolve à esta Casa o exame irrestrito dos requisitos de admissibilidade do recurso extraordinário, dentre os quais, o da sua tempestividade. Precedentes. III - Agravo regimental improvido. ”
+    A propósito, registre-se que o Superior Tribunal de Justiça, no exame dos recursos especiais interpostos concomitantemente a este extraordinário, não conheceu deles, porquanto intempestivos. Veja-se a ementa do acórdão:
+    “PROCESSUAL CIVIL. RECURSO ESPECIAL. INTEMPESTIVIDADE.
+    1. Tempestividade dos recursos especiais.
+    2. O acórdão dos embargos de declaração foi publicado no Diário de Justiça em 17.12.07 (segunda-feira), conforme certificado à e-STJ fl. 2894. 3. O prazo para eventual recurso iniciou-se, portanto, no dia 18.12.07 (terça-feira) e encerrou-se em 16.01.08 (quarta-feira), levando-se em consideração o prazo em dobro, por se tratar de litisconsortes com procuradores distintos.
+    4. Verifica-se que o apelo de Henrique Drews Filho somente foi protocolado em 18.01.08 (e-STJ fl. 2.897), o de João Alberto Pizzolatti e outros em 1º.02.08 (e-STJ fl. 2.922) e o de Reimund Viebrantz em 30.01.08 (e-STJ fl. 2.963), todos fora do prazo legal, nos termos dos artigos 508 c/c 191, do Código de Processo Civil.
+    5. O recorrente Reimund Viebrantz, somente após a manifestação do Ministério Público Federal nesta Superior Instância, trouxe aos autos cópia da Portaria expedida pelo Tribunal de Justiça de Santa Catarina – que suspendeu o expediente e os prazos judiciais no Poder Judiciário desse Estado no período de 20 de dezembro de 2007 a 6 de janeiro de 2008.
+    6. No momento da interposição do apelo nobre, o recorrente deve comprovar a existência de feriado local, paralisação ou interrupção do expediente forense, sob pena de não conhecimento por intempestividade, mostrando-se inadmissível a posterior juntada aos autos do documento.
+    7. Precedentes da Corte Especial: EREsp 299.177/MG, Rel. Min. Eliana Calmon, DJe 29.5.2008; AgEREsp 732.042/RS, Rel. Min. Gilson Dipp, DJU 26.3.2007; AgA 708.460/SP, Rel. Min. Castro Filho, DJU 2.10.2006.
+    8. Recursos especiais não conhecidos.”
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, não conheço do recurso.
+    Publique-se.
+          Brasília, 24 de março de 2014.
+     Ministro Luís Roberto Barroso
+Relator
