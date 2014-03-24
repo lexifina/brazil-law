@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 139):
+    “SERVIDOR PÚBLICO. MUNICIPAL. MAGISTÉRIO. PROGRESSÃO DE CARREIRA AUTOMÁTICA. LEI MUNICIPAL 7.169/96. PRESCRIÇÃO DO FUNDO DE DIREITO. INEXISTÊNCIA. INCONSTITUCIONALIDADE AFASTADA. TERMO INICIAL. DATA DA ADMISSÃO NO SERVIÇO PÚBLICO.
+    Decorrendo o direito de obter progressão horizontal na carreira previsto na Lei Municipal 7.169/96 do Município de Belo Horizonte de obrigação de trata sucessivo e não havendo manifestação expressa da Administração Pública sobre a questão, negando o direito pleiteado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas devidas nos últimos cinco anos anteriores ao ajuizamento da ação.
+    A omissão da Administração Pública em realizar a avaliação de desempenho leva à promoção automática do servidor, nos termos do artigo 96, da Lei 7.169/96, motivo pelo qual se o servidor preencheu os requisitos exigidos para a progressão na carreira, deve o benefício lhe ser concedido, bem como o pagamento das diferenças apuradas nas parcelas pretéritas, devendo ser contado o tempo de serviço para fins de progressão a partir da data da admissão no serviço público e não da publicação da Lei 7.169/96.
+    Descabida a tese de inconstitucionalidade do artigo 96 da Lei Municipal nº 7.169/96, pois inexiste identidade de fundamentos entre a progressão horizontal automática e o adicional por tempo de serviço.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, XIV, da Constituição. Sustenta a “impossibilidade de coexistência da progressão horizontal, nos moldes em que foi requerida e deferida, com o quinquênio, eis que têm ambos, o mesmo fundamento” (fls. 166).
+    A decisão agravada negou seguimento ao recurso por entender que a hipótese atrai a incidência da Súmula 280/STF.
+    A decisão deve ser mantida. Isso porque o Tribunal de origem reconheceu o direito da recorrida à progressão funcional tendo em vista que preencheu os requisitos previstos na Lei Municipal 7.169/96. Igualmente amparado na legislação local, o acórdão recorrido assentou ser legítima a cumulatividade da progressão e do quinquênio, uma vez que devidos por fundamentos diversos. Com efeito, a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação local, sem que se discuta o seu sentido à luz da Constituição (Súmula 280/STF). Nessa linha, veja-se a ementa do AI 793.978-AgR, julgado sob a relatoria da Ministra Rosa Weber:
+    “DIREITO PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. MUNICÍPIO DE BELO HORIZONTE. LEI MUNICIPAL Nº 7.169/1996. PROGRESSÃO FUNCIONAL. SUPOSTA VIOLAÇÃO DO ART. 37, XIV, DA CARTA MAIOR. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA 280/STF. PRECEDENTES.
+    A decisão agravada está em harmonia com a jurisprudência desta Casa acerca do caráter infraconstitucional do debate atinente à interpretação dada pelo Tribunal de Justiça mineiro à progressão funcional prevista no art. 96 da Lei 7.169/96 do Município de Belo Horizonte.
+    A suposta ofensa aos postulados constitucionais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo. Eventual violação oblíqua ou reflexa não viabiliza trânsito a recurso extraordinário.
+    Agravo regimental conhecido e não provido.”
+    Outros precedentes: AI 821.118-AgR, Rel. Min. Gilmar Mendes; ARE 677.023-AgR, Rel. Min. Dias Toffoli; ARE 649.610-AgR, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 544, § 4º, II, a , do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 24 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
