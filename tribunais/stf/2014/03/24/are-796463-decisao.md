@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de processo em que se discute a base de cálculo para o pagamento de adicional de tempo de serviço (quinquênios) à servidora pública estadual.
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, XIV e 98, I, ambos da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que não há violação direta ao texto constitucional.
+    O recurso extraordinário não pode ser provido. De início, com relação à alegada violação ao art. 98, I, nota-se que o Plenário do Supremo Tribunal Federal, no julgamento do ARE 640.671-RG, julgado sob a relatoria do Ministro Presidente, assentou a ausência de repercussão geral da questão relativa à competência dos juizados especiais em razão da complexidade da matéria, por se tratar de tema infraconstitucional. Veja-se a ementa do referido julgado:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.”
+     Ademais, diversamente do que fora alegado pela parte recorrente, o caso dos autos não trata da matéria versada no RE 563.708-RG, julgado sob a relatoria da Ministra Cármen Lúcia. No referido paradigma de repercussão geral discutia-se a aplicação imediata da Emenda Constitucional 19/1998, na parte que alterou o inciso XIV do art. 37, e sua possível afronta ao princípio da irredutibilidade remuneratória. Não é esse o caso dos autos.
+    Na hipótese, discute-se a questão relativa à base de cálculo para o pagamento de quinquênios. Com efeito, o Plenário Virtual do Supremo Tribunal Federal, no julgamento do RE 764.332-RG, sob a relatoria do Ministro Presidente, assentou a ausência de repercussão geral da matéria, por se tratar de discussão de índole infraconstitucional. Veja-se a ementa do referido julgado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. QUINQUÊNIO. INCIDÊNCIA SOBRE OS VENCIMENTOS INTEGRAIS, INCLUINDO OS ADICIONAIS E AS GRATIFICAÇÕES REPUTADOS COMO DE NATUREZA PERMANENTE. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ATRIBUIÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
