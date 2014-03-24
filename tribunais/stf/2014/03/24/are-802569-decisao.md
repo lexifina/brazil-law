@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo em face de decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “CONSTITUCIONAL – USUCAPIÃO EXTRAORDINÁRIO – POSSE ‘AD USUCAPIONEM’ - PRAZO SUPERIOR A 20 (VINTE) ANOS – OCORRÊNCIA – PROCEDÊNCIA DO PEDIDO – MANUTENÇÃO DA SENTENÇA. 1. Se o autor comprova possuir o imóvel por prazo contínuo e superior a vinte anos – nos termos do art. 1.238 do Código Civil -, com ‘animus domini’ e pacificamente, faz ele jus à aquisição prescritiva. 2- A existência de área ‘non aedificandi’ correspondente à parte da faixa de domínio de rodovia estadual não impede a prescrição aquisitiva do bem, por não se tratar de bem público, mas de bem particular sujeito, mas de bem particular sujeito à limitação administrativa. 3- Recurso não provido”. (eDOC 1, p. 161)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa aos artigos 191, do texto constitucional.
+    Nas razões recursais, alega-se que não é possível usucapir área incluída na faixa de domínio público e área non eaedificandi, em razão de vedação expressa na Constituição Federal.
+    Aduz que houve invasão de imóveis públicos insuscetíveis de apropriação por usucapião.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Isso porque a comprovação dos requisitos da usucapião extraordinária resultou do exame dos elementos fático-probatórios constantes dos autos pelas instâncias originárias, que não podem ser revistos em sede de recurso extraordinário, nos termos do Enunciado 279 da Súmula do STF.
+    Destaco, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “DIREITO CONSTITUCIONAL E DIREITO CIVIL. AÇÃO DE USUCAPIÃO URBANO. AQUISIÇÃO DO DOMÍNIO. REQUISITOS. ART. 183 DA COSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DO ANIMUS DOMINI. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AO PRECEITO CONSTITUCIONAL INVOCADO NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. AS RAZÕES DO AGRAVO REGIMENTAL NÃO SÃO APTAS A INFIRMAR OS FUNDAMENTOS QUE LASTREARAM A DECISÃO AGRAVADA. ACÓRDÃO RECORRIDO PUBLICADO EM 16.02.2008. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido”. (AI-AgR 805.378, Rel. Min. ROSA WEBER, Primeira Turma, DJe 12.6.2013)
+    “Agravo regimental em agravo de instrumento. 2. Usucapião. Bem público. O Tribunal de origem consignou que os requisitos para aquisição do domínio foram reunidos antes da edição do Código Civil de 1916 e da posterior vedação constitucional. Conclusão insuscetível de reexame por força da Súmula 279. Necessidade de interpretação da legislação infraconstitucional. Impossibilidade na via extraordinária. Precedente. 5. Questão fora do âmbito de incidência dos preceitos dos artigos 183, § 3°, e 191, parágrafo único, da Constituição Federal. Deficiência do fundamento recursal. Incidência da Súmula 284. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento”. (AI-AgR 606.103, de minha relatoria, Segunda Turma, DJe 11.9.2013)
+    Ademais, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional (Código Civil), de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 24 de março de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
