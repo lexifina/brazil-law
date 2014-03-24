@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de Santa Catarina. Aparelhado o recurso na violação do art. 37, XVI, “a” e b” e § 10, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 589.905/RS, Rel. Min. Dias Toffoli, DJe 16.11.2012; RE 638.141/RO, Rel. Min. Luiz Fux, DJe 02.10.2012; e RE 701.999-AgR/SC, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 22.10.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PERCEPÇÃO SIMULTÂNEA DE UM PROVENTO DE APOSENTADORIA COM A REMUNARAÇÃO DE UM CARGO PÚBLICO. DOIS CARGOS DE PROFESSOR. COMPATIBILIDADE DE HORÁRIOS. IMPERTINÊNCIA DO REQUISITO NO CASO. AGRAVO IMPROVIDO. I – É impertinente a exigência de compatibilidade de horários como requisito para a percepção simultânea de um provento de aposentadoria no cargo de professor com a remuneração pelo exercício efetivo de outro cargo de magistério. II – Agravo regimental improvido.”
+    Por seu turno, na esteira da jurisprudência desta Corte, a discussão acerca da natureza do cargo para efeito de acumulação não alcança estatura constitucional, razão pela qual não se vislumbra a apontada violação do art. 37, inciso XVI, da Constituição Federal. Colho precedentes:
+    “Embargos de declaração no recurso extraordinário. Conversão dos embargos declaratórios em agravo regimental. Prequestionamento. Ausência. Administrativo. Natureza dos cargos acumulados. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 3. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 4. Agravo regimental não provido.” (RE 632.277-ED, Rel. Min. Dias Toffoli, 1ª Turma, DJe 25.9.2012)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ACUMULAÇÃO DE CARGOS PÚBLICOS. CARÁTER TÉCNICO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 279 DO STF. A discussão sobre o caráter técnico do cargo que se pretende acumular com o de professor, nos termos da norma da alínea b do inciso XVI do art. 37 da Constituição Federal, exige o exame das provas constantes dos autos e da legislação infraconstitucional pertinente, o que é inviável nesta esfera. Agravo regimental a que se nega provimento.” (AI 512.663-AgR, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 19.12.2011)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 24 de março de 2014.
+Ministra Rosa Weber
+Relatora
