@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Turma Julgadora da Terceira Câmara Cível do Tribunal de Justiça da Bahia.
+    Decido.
+    Vê-se, porém, que não se observou o prazo de 10 (dez) dias para a interposição do agravo em recurso extraordinário, conforme estabelece o caput do artigo 544 do Código de Processo Civil, com a alteração da Lei nº 12.322, de 9/9/10. Com efeito, a decisão que negou seguimento ao recurso extraordinário foi publicada em 5 de junho de 2013 e a petição do agravo, por sua vez, foi protocolada somente em 8 de julho de 2013.
+    Ressalte-se, por oportuno, que ambas as Turmas desta Corte firmaram entendimento no sentido de que os embargos de declaração opostos contra a decisão da instância de origem que não admitiu o recurso extraordinário, por serem incabíveis, não suspendem ou interrompem o prazo para interposição do agravo. Sobre o tema, anote-se:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO INCABÍVEIS, NO CASO. IMPOSSIBILIDADE DE SUSPENSÃO OU INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. PRECEDENTES. 1. São incabíveis, no caso, embargos de declaração opostos contra decisão que inadmite recurso extraordinário. 2. É pacífica a jurisprudência desta Suprema Corte no sentido de que recurso incabível não suspende ou interrompe o prazo recursal. 3. Intempestividade reconhecida do agravo de instrumento. Precedentes. 4. Agravo regimental improvido” (AI nº 733.719/AM-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 11/12/09).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INTRUMENTO. AGRAVO DE INSTRUMENTO. EXTEMPORANEIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I - Os embargos de declaração opostos à decisão monocrática que inadmitiu o extraordinário não suspendem ou interrompem o prazo para interposição de outro recurso. II - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. III - A apreciação do recurso extraordinário demanda o exame de matéria de fato e a interpretação de cláusulas contratuais, o que atrai a incidência das Súmulas 279 e 454 do STF. IV - Agravo regimental improvido” (AI nº 685.665/RS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 20/5/08).
+    “Agravo regimental em agravo de instrumento. 2. Embargos de declaração interposto da decisão de inadmissibilidade do recurso extraordinário. Recurso incabível. 3. Intempestividade do agravo. Precedentes. 4. Agravo regimental a que se nega provimento” (AI nº 550.025/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 6/11/07).
+    “DECISÃO DE INADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE EMBARGOS DECLARATÓRIOS INCABÍVEIS. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. O agravo de instrumento é intempestivo, porquanto prevalece nesta Corte o entendimento de que os embargos de declaração opostos da decisão do Presidente do Tribunal de Origem que nega seguimento a recurso extraordinário, por serem manifestamente incabíveis, não suspendem ou interrompem o prazo para a interposição de recurso. Agravo Regimental a que se nega provimento” (AI nº 602.116/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 26/6/07).
+    Nesse mesmo sentido, destaco recente precedente da Primeira Turma desta Corte: ARE nº 686.392/RS-ED, de minha relatoria, que recebeu a seguinte ementa:
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Intempestividade. Embargos declaratórios incabíveis. Não suspensão ou interrupção do prazo recursal. Precedentes.
+    1. Embargos de declaração recebidos como agravo regimental.
+    2. Os embargos de declaração opostos contra a decisão do Presidente do Tribunal de origem que não admite o recurso extraordinário, por serem incabíveis, não suspendem ou interrompem o prazo para a interposição do agravo.
+    3. Agravo regimental não provido” (DJe de 13/12/13).
+    Ante o exposto, não conheço do agravo.
+    Publique-se.
+    Brasília, 24 de março de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
