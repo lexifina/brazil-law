@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu provimento, em parte, ao recurso inominado, nos termos do Voto Relator. Acórdão do qual se extrai o seguinte trecho conclusivo (fls. 79/80):
+    “No que se refere ao dano material, na forma de restituição do valor pago, a r. Sentença desmerece qualquer modificação. Afinal, paira inequívoco que a ora recorrente demorou no atendimento da reclamação de vício no fornecimento dos móveis. Daí a faculdade, exercida pelo consumidor, de postular, ao invés da execução específica mediante substituição do produto, a devolução do valor pago.
+    Porém, quanto ao dano moral e respeitado o entendimento do digno sentenciante, penso que os fatos não ultrapassaram aquele limite entre os dissabores do cotidiano e os eventos que realmente maculam direitos da personalidade.
+    “In casu”, apesar da postura burocrática do fornecedor, o fato é que o descumprimento do contrato, por si só, desautoriza a postulada indenização por dano moral, em que pese o evento ter acontecido durante as festas de final de ano.
+    Posto isso, pelo meu voto, DOU PARCIAL PROVIMENTO ao recurso, para o fim de ser excluída unicamente a condenação ao pagamento de indenização por dano moral.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, X, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “inviável a abertura da instância excepcional quando, para se chegar à alegada ofensa à Constituição, tem-se antes que adentrar no exame de norma infraconstitucional no caso”; (ii) “a viabilidade do recurso demanda a indicação do inciso do dispositivo constitucional autorizador do acesso à via excepcional, não sendo possível o processamento do recurso extraordinário que não é corretamente formulado, com a precisa indicação do dispositivo ou alínea que o autorize, bem como exposição dos fatos e menção dos dispositivos legais ou constitucionais que teriam sido violados, ou aos quais teria sido negada vigência”; (iii) “o recurso pretende seja dada nova valoração à prova colhida tanto pelo juízo singular, como pela turma”; e (iv) “a decisão recorrida não se pronunciou sobre nenhuma matéria constitucional” (fls. 105/106).
+    O recurso é inadmissível, tendo em vista que a alegação de ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, a parte recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante dos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
