@@ -1,0 +1,25 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Oitava Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “ADMINISTRATIVO. INSCRIÇÃO PROVISÓRIA NO REGISTRO DE DESPACHANTES ADUANEIROS ATÉ DECISÃO FINAL NA LIDE PRINCIPAL. CARÁTER SATISFATIVO. INADEQUAÇÃO DA VIA ELEITA.
+    I – A ação cautelar é instrumental e serve ao processo principal, sendo que jamais poderia substituí-lo.
+    II – No caso sob exame, em que a parte autora postulava, através da medida cautelar, a inscrição provisória no Registro de Despachantes Aduaneiros até o julgamento final da lide principal, constata-se que a pretensa tutela cautelar postulada não passa de antecipação dos efeitos da tutela principal, que deveria ter sido requerida em sede de ação de conhecimento.
+    II – Remessa necessária e apelação providas”
+    Opostos dois embargos de declaração, ambos não foram providos.
+    Sustenta o agravante, nas razões do recurso extraordinário, violação dos artigos 5º, inciso XXXV, 93, inciso IX, 102, inciso III, alínea “a”, e 105, inciso III, alíneas “a” e “c”, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 102, inciso III, alínea “a”, e 105, inciso III, alíneas “a” e “c”, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Também não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Por outro lado, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ademais, ressalte-se que o acórdão recorrido abordou apenas matéria eminentemente processual, referente aos pressupostos de cabimento de ação cautelar. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Sobre o tema, anote-se:
+    “1. O processamento do extraordinário é inviável para debater matéria processual relativa a pressupostos de cabimento de ação cautelar. 2. Agravo regimental improvido” (AI nº 483.87/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 7/10/05).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 25 de março de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
