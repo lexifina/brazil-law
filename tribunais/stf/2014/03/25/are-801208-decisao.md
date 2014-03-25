@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 4ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul (eDOC 67).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, aponta-se ofensa aos artigos 5º, caput e inc. II; 37; 40, § 1º, II, “b”, e § 8º; 61, § 1º, II, “a”; e 71, III e IX, do texto constitucional, bem como o art. 7º da EC 41/2003 e o 2º da EC 47/2005.
+    Nas razões recursais, argumenta-se que as gratificações devem ser pagas de acordo com os proventos da aposentadoria, se integrais ou proporcionais.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque o acórdão recorrido, ao examinar a legislação infraconstitucional, entendeu que não deve haver nenhuma redução no pagamento da gratificação, em razão de a aposentadoria ter sido proporcional.
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesse sentido, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE FAZENDÁRIA – GDAFAZ. 1. EXTENSÃO AOS INATIVOS. PRECEDENTES. 2. APOSENTADORIA PROPORCIONAL. PROPORCIONALIDADE DA GRATIFICAÇÃO. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 770.561, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 7.2.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA PROPORCIONAL. CÁLCULO DA GRATIFICAÇÃO. MATÉRIA DE ORDEM INFRACONSTITUCIONAL. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO. 1. O cálculo da gratificação, observando-se a proporcionalidade dos proventos de aposentadoria, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie. Precedente: ARE 763.540-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4/11/2013. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 3. In casu, o acórdão recorrido assentou: ‘CONSTITUCIONAL. ADMINISTRATIVO. PRESCRIÇÃO. NÃO OCORRÊNCIA. PRESTAÇÃO DE TRATO SUCESSIVO. SERVIDOR PÚBLICO. INATIVOS E PENSIONISTAS. PARIDADE DE VENCIMENTOS. GRATIFICAÇÃO DE CARÁTER GERAL. GDPGE. LEI Nº 11.357/06. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. RECURSO INOMINADO IMPROVIDO’. 4. Agravo regimental DESPROVIDO”. (ARE-AgR 761.960, Rel. Min. Luiz Fux, Primeira Turma, DJe 4.12.2013)
+    Ante o exposto, conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, "a", do CPC).
+    Publique-se.
+    Brasília, 25 de março de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
