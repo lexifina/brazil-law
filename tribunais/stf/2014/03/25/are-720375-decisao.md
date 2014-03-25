@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Colégio Recursal dos Juizados Especiais Cíveis e Criminais do Estado de São Paulo, assim ementado (fls. 223):
+    “Extinção – Autores residentes fora da Comarca – Ação deve ser ajuizada no foro do domicílio da parte a fim de evitar o entrave dos processos dado o volume imenso de demandas que poderiam ser ajuizadas na Capital – Afronta aos Princípios básicos que regem as Leis 9.099/95 e 12.153/10, principalmente o da celeridade e também ao disposto no artigo 5°, inciso LXXVIII da Constituição Federal. Sentença integralmente mantida. Recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação ao art. 5º, XXXV e XXXVI, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) o recorrente não indicou as razões pelas quais caberia o recurso; (ii) incidência da Súmula 283/STF; (iii) a violação ao texto constitucional seria indireta; (iv) falta de prequestionamento; e (v) ausência da preliminar formal e fundamentada de repercussão geral.
+    O recurso não deve ser provido, tendo em vista que a alegada violação ao art. 5º, XXXVI, não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos declaratórios para sanar eventual omissão. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto às demais alegações, nota-se que o Tribunal de origem assentou a incompetência da Vara da Comarca de São Paulo com fundamento exclusivamente na análise da legislação ordinária aplicável ao caso (Lei nº 12.153/2009 e Provimento nº 1.768/2010, do Conselho Superior da Magistratura). Com efeito, a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nesse sentido, veja-se a ementa do ARE 735.862-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes.
+    II - Agravo regimental improvido.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 25 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
