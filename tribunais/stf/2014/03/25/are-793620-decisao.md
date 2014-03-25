@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Goiás, assim ementado (fls. 98):
+    “AÇÃO DE COBRANÇA. HONORÁRIOS. ILEGITIMIDADE PASSIVA AFASTADA. CONFIGURADA A RESPONSABILIDADE DA SEGURADORA PELA QUITAÇÃO DOS HONORÁRIOS DEVIDOS. CREDOR PUTATIVO. Impossibilidade de inovação em grau recursal.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV, e 93, IX, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de “o recurso extraordinário é cabível apenas de decisão proferida em última e única instância, o que não é o caso dos autos, uma vez que o recurso inominado interposto contra sentença de primeiro grau fora julgado por decisão monocrática do Relator. Assim, este julgado dava margem à interposição do agravo interno” (fls. 134)
+    O agravo não deve ser provido, tendo em vista que não cabe recurso extraordinário contra acórdão de decisão monocrática de Relator, por não se tratar de decisão proferida em última instância. Com efeito, o Supremo Tribunal Federal, ao analisar o paradigma RE 612.359-RG, julgado sob a relatoria da Ministra Ellen Gracie, reconheceu a repercussão geral da matéria e ratificou a jurisprudência nesse sentido. Veja-se a ementa do julgado:
+    “PROCESSUAL CIVIL. CABIMENTO DO AGRAVO INTERNO NO ÂMBITO DOS JUIZADOS ESPECIAIS. CONSTITUCIONALIDADE DO JULGAMENTO MONOCRÁTICO DO RECURSO DESDE QUE HAJA POSSIBILIDADE DE REVISÃO PELO ÓRGÃO COLEGIADO. RATIFICAÇÃO DA JURISPRUDÊNCIA FIRMADA POR ESTA SUPREMA CORTE. EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Nessas condições, a hipótese atrai a incidência da Súmula 281/STF:
+    “É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.”
+    Ainda que ultrapassado o mencionado óbice, a parte recorrente limita-se a postular nova apreciação dos fatos e do material probatório constante dos autos e a interpretação de cláusulas contratuais. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 454/STF. Nesse sentido, veja-se a ementa do ARE 741.640-ED, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Civil. Contrato de honorários. Legislação infraconstitucional. Fatos e provas. Cláusulas contratuais. Reexame. Impossibilidade. Precedentes.
+    1. Embargos de declaração recebidos como agravo regimental.
+    2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos, bem como de cláusulas contratuais. Incidência das Súmulas nºs 636, 279 e 454/STF.
+    3. Agravo regimental não provido.”
+    Quanto à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 25 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
