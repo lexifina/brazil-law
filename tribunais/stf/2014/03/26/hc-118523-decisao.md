@@ -1,0 +1,21 @@
+Despacho: O Ministro Marco Aurélio encaminhou este habeas corpus à Presidência com o seguinte despacho:
+    “1. Em 1º de julho de 2013, este processo foi-me distribuído por prevenção, considerado o fato de ter funcionado como relator no Habeas Corpus nº 116.899/PR, no qual também se impugnou ato formalizado pelo Juízo da 3ª Vara Federal Criminal da Seção Judiciária de Curitiba/PR no processo revelador da Ação Penal nº 5027397-63.2011.404.7000. Acontece que, na sessão de 11 de fevereiro de 2014, a Turma assentou a extinção do processo, sem julgamento do mérito, cassando, assim, a liminar anteriormente deferida. Na oportunidade, fiquei vencido. Veio a ser designado para redigir o acórdão o ministro Luís Roberto Barroso. Então, há a incidência do disposto no § 2º do artigo 69 do Regimento Interno do Supremo:
+    Art. 69. O conhecimento do mandado de segurança, do habeas corpus e do recurso civil ou criminal torna preventa a competência do Relator, para todos os recursos posteriores, tanto na ação quanto na execução, referentes ao mesmo processo.
+    [...]
+    § 2º Vencido o Relator, a prevenção referir-se-á ao Ministro designado para lavrar o acórdão.
+    2. Ao Presidente, ministro Joaquim Barbosa, que melhor dirá”.
+    Não é caso de redistribuição.
+    De saída, destaco que a redação atual do art. 69 do RISTF é a seguinte:
+    “Art. 69. A distribuição da ação ou do recurso gera prevenção para todos os processos a eles vinculados por conexão ou continência. (Atualizado com a introdução da Emenda Regimental 34/2009)
+    § 1º O conhecimento excepcional de processo por outro Ministro que não o prevento prorroga-lhe a competência nos termos do § 6º do art. 67. (Atualizado com a introdução da Emenda Regimental 34/2009).
+    § 2º Não se caracterizará prevenção, se o Relator, sem ter apreciado liminar, nem o mérito da causa, não conhecer do pedido, declinar da competência, ou homologar pedido de desistência por decisão transitada em julgado. (Atualizado com a introdução da Emenda Regimental 34/2009)”.
+    Pois bem. Quando da distribuição do presente feito por prevenção, em 1º.07.2013, ainda não havia sido proferido, nos autos do HC 116.899, o acórdão cujo então relator, Ministro Marco Aurélio, ficou vencido (o que somente veio a ocorrer em 11.02.2014), contexto fático este que, por si só, é suficiente à justificação da distribuição deste habeas corpus tal como realizada.
+    Além disso, reafirmo o entendimento de que “o critério de fixação de competência por prevenção no âmbito processual do habeas corpus: (a) decorre da preferência da sujeição de um ato a um determinado juiz quando, pelas regras gerais, existem outros julgadores igualmente competentes para dada causa; (b) possui como escopo concentrar a relatoria de todas as impetrações oriundas de um mesmo inquérito ou ação penal (RISTF, art. 77-D) àquele que primeiro conheceu do pleito e que tem, portanto, apurado conhecimento global da causa em questão; e (c) tem como elemento temporal o momento da distribuição ou do conhecimento do feito - conforme se infere da leitura do caput e do § 2º do art. 69 do Regimento Interno deste Supremo Tribunal -, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando resultarem na supressão de órgão judiciário ou na alteração da competência em razão da matéria ou da hierarquia, o que não se verifica no caso em análise” (HC 116.415, DJe nº 52, divulgado em 18.03.2013; e HC 118.749, DJe nº 189, divulgado em 25.09.2013).
+    Por fim, apenas como reforço argumentativo, caso o Ministro Marco Aurélio não fosse o relator prevento para o feito, o fato de ter proferido decisão que deferiu a medida liminar pleiteada neste habeas corpus caracterizaria a hipótese de conhecimento excepcional do feito e implicaria a prorrogação de sua competência, conforme dispõe o art. 69, § 1º, do RISTF, verbis:
+    “O conhecimento excepcional de processo por outro Ministro que não o prevento prorroga-lhe a competência nos termos do § 6º do art. 67”.
+    Assim, determino a devolução dos autos ao eminente Min. Marco Aurélio.
+    Publique-se.
+    Brasília, 26 de março de 2014.
+Ministro Joaquim Barbosa
+Presidente
+Documento assinado digitalmente
