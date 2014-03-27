@@ -1,0 +1,29 @@
+Decisão: Trata-se de pedido de suspensão de liminar formulado pelo Município de São Luís/MA contra decisão proferida pelo Tribunal de Justiça do Estado do Maranhão nos autos do Processo 12140.62.2013.8.10.0000, que, por sua vez, manteve decisão liminar concedida nos autos do MS 4450512-2013.8.10.0001.
+    Narra o município-requerente que a empresa-interessada, Oaxaca Incorporadora Ltda., obteve decisão liminar proferida pelo Juízo da Segunda Vara da Fazenda Pública e cujo dispositivo teria o seguinte teor:
+    “Pelas razões acima expostas, concedo a liminar pretendida, e suspendo os efeitos do Auto de Embargo nº. 2392, como também o Auto de Infração nº. 4242, e determino que a autoridade coatora, Secretário de Habitação e Urbanismo do Município de São Luís, abstenha-se de aplicar qualquer penalidade administrativa à impetrante, Oaxaca Incorporadora Ltda., relativamente ao projeto para construção do empreendimento objeto do Alvará de Construção nº. 498/12-61 (exclusivamente o prédio em questão - Torre B do Loteamento Jardins), sem que seja instaurado o regular procedimento administrativo, com o respeito ao contraditório e ampla defesa, capaz de cassar, anular ou revogar a licença concedida, sob pena de multa diária de R$ 1.000,00 (um mil reais) a favor do FERJ. Cientifique-se a impetrante desta decisão. Notifique-se o Secretário de Habitação e Urbanismo do Município de São Luís, para prestar informações no prazo de 10 (dez) dias. Outrossim, nos termos do art. 7º, II da Lei 12016/2009, dê-se ciência do feito Procurador Geral do Município, enviando-lhe cópia da inicial sem documentos, para que, querendo, ingresse no feito. Uma via desta decisão servirá como MANDADO, devendo ser cumprido por Oficial de Justiça. São Luís/MA, 31 de outubro de 2013”.
+    Referida decisão foi mantida em acórdão assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL. SUSPENSÃO DE LIMINAR.
+    VIOLAÇÃO À ORDEM PÚBLICA NÃO DEMONSTRADA. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+    I - Ausência de demonstração inequívoca da potencialidade lesiva à ordem pública.
+    II - Inexistência de argumentos novos capazes de infirmar a decisão guerreada.
+    Regimental que se nega provimento à unanimidade”.
+    Em síntese, o requerente argumenta que a suspensão do auto de infração e de embargo à obra causa ruptura institucional, na medida em que o Município detém competência exclusiva para dispor sobre questões de interesse local.
+    Em especial, o Município de São Luís entende que o ato administrativo em questão é discricionário, por inferência da seguinte citação:
+    “O Supremo, manifestando-se sobre o controle do mérito administrativo (em hipótese na qual se discutia expulsão de estrangeiro), decidiu que: ´... disse a Corte que se trata de ato discricionário de defesa do Estado, sendo de competência do Presidente da República, a quem incumbe julgar a conveniência ou oportunidade da decretação da medida e que ao Judiciário compete tão somente à apreciação formal e a constatação da existência ou não de vícios de nulidade do ato expulsório, não o mérito da decisão presidencial´”.
+    Do mesmo modo, o requerente entende que a decisão viola o Princípio da Separação dos Poderes, bem como a supremacia do interesse público sobre a vontade dos cidadãos.
+    É o relatório.
+    Decido.
+    Estão ausentes os requisitos que ensejariam a concessão da medida liminar pleiteada.
+    A suspensão de liminar é medida profundamente invasiva do devido processo legal judicial, na medida em que satisfeita com cognição sumaríssima, de paupérrimo contraditório e por iniciativa monopolizada pelo Estado, em desfavor de demandas apresentadas pelo cidadão.
+    Por atravessar o curso normal do processo perante os demais órgãos jurisdicionais, dotados de extensa competência e legitimidade para conhecer com amplitude os fatos e os direitos alegados, o uso indiscriminado das contracautelas excepcionalíssimas leva ao desprestígio da função jurisdicional.
+    Para evitar a violação dos princípios do contraditório , da ampla defesa, da eficácia da jurisdição e da responsabilidade do Estado por danos advindos de atos lícitos ou ilícitos, a interpretação dos requisitos de cabimento da suspensão de liminar deve ser rigorosa, com a demonstração imediata e inequívoca de risco de ruptura social ou de ruína institucional .
+    Conforme decidido por esta Suprema Corte, o risco hipotético ou potencial de grave lesão aos interesses públicos não é suficiente para deferimento do pedido de suspensão (SS 4.242-AgR, rel. min. Cezar Peluso, Pleno, DJ e de 02.06.2011).
+    Nada na narrativa exposta na petição inicial sugere risco iminente aos bens tutelados pelas contracautelas excepcionais. Não há menção a risco ao erário, à saúde, à educação, à Justiça etc.
+    Por outro lado, a Constituição não imuniza o ato administrativo ao controle jurisdicional, especialmente na hipótese em que tal ato é plenamente vinculado. Evidentemente, a autorização para obras particulares não está sujeita à discricionariedade do Estado, tal como interpretada pelos agentes públicos (trata-se do império das leis, não de pessoas).
+    Dessa forma, em regra, o jurisdicionado, cidadão que não se reduz a súdito, tem plena legitimidade para questionar a validade dos atos administrativos, quer em razão de vícios formais (enunciação ou produção), quer em razão de vícios materiais (incompatibilidade semântica da norma produzida).
+    Em especial, as supostas violações registradas pelo Juízo da Segunda Vara da Fazenda são especialmente graves, sem prejuízo da eventual reversão da liminar no curso do devido processo legal (desprezo do contraditório e da ampla defesa pelas autoridades administrativas municipais).
+    Ante o exposto, nego seguimento ao pedido para suspensão de liminar (art. 38 da Lei 8.038/1990 e art. 21, § 1º do RISTF).
+    Publique-se.
+    Brasília, 27 de março de 2014.
+    Ministro Joaquim Barbosa
+    Presidente
