@@ -1,0 +1,36 @@
+MANDADO DE SEGURANÇA. CONSELHO NACIONAL E JUSTIÇA. RESOLUÇÃO 81/2009. EXIGÊNCIA DE CONCURSO PÚBLICO DE PROVAS E TÍTULOS PARA INGRESSO NA ATIVIDADE NOTARIAL E DE REGISTRO NAS MODALIDADES DE PROVIMENTO E DE REMOÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO NA PETIÇÃO DO WRIT DOS REQUISITOS JUSTIFICADORES DO PEDIDO LIMINAR. MEDIDA LIMINAR INDEFERIDA.
+    Decisão: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Jorge Gongora Villela, contra ato do Conselho Nacional de Justiça, consubstanciado na determinação, ao Tribunal de Justiça do Estado do Paraná, que alinhasse o edital do concurso para outorga de delegações às disposições da Resolução 81/2009, daquele órgão.
+    O impetrante narra que ingressou, mediante concurso público, no cargo de titular do Ofício Notarial da Comarca de Ubiratã.
+    Afirma, adiante, que se inscreveu no concurso público para outorga de Delegações de Notas e de Registro do Estado do Paraná, regulado pelo Edital nº 01/2014.
+    Assevera, em seguida, que o item 5.1 do referido edital é claramente ilegal, uma vez que exige provas para o concurso de remoção, contrariando o que dispõe o art. 16 da Lei 8.935/1994, com a redação conferida pela Lei 10.506/2002, que estabelece, relativamente ao concurso de remoção, a submissão, apenas, a avaliação de títulos.
+    Salienta que essa exigência decorre de imposição do Conselho Nacional de Justiça no sentido de que o Tribunal de Justiça do Estado do Paraná deveria adequar o edital do concurso ao disposto na Resolução 81, de 9 de junho de 2009, do CNJ.
+    Sustenta, no mérito, que o ato praticado pelo CNJ, ora questionado, feriu seu direito líquido e certo de participar do concurso de remoção, sem que “esteja submetido ao exame de provas e títulos”.
+    Afirma, nesse contexto, que o Edital 01/2014, ao aplicar o disposto na Resolução 81/2009 do CNJ, e determinar a submissão do impetrante a exame de provas e títulos em concurso de remoção “vulnera excessivamente o princípio da legalidade, pois nega a aplicação da Lei estadual nº 14.594/04, bem como a Lei Federal nº 8.935/94”.
+    Assevera, adiante, que
+    “no concurso de remoção concorrem somente candidatos que já provaram sua qualificação e capacitação anteriormente, não tendo a necessidade assim de corroborarem algo para exercerem a função que já estão em exercício ou que vão continuar a exercer pela remoção.
+    Já foram feitas provas anteriormente, para tanto, provaram que detêm a qualificação e capacitação para o exercício da função pública em serventia notarial/registral, pelo já titular”.
+    Pugna, ao final, pelo deferimento de medida liminar
+    “afim de que seja determinada a suspensão do concurso público do Edital 01/2014 de abertura do Concurso Público de Provas e Títulos para outorga de delegações de Notas e de Registro do Estado do Paraná que segue imposição expressa do Conselho Nacional de Justiça, no que tange somente as remoções, até ulterior decisão deste E. Supremo Tribunal Federal, ante aos argumentos amplamente expostos”.
+    No mérito, requer a concessão da segurança para
+    “RECONHECER e DECLARAR o direito líquido e certo do Impetrante a participar do Concurso Público de Provas e Títulos para outorga de delegações de Notas e de Registro do Estado do Paraná (Edital nº 01/2014 – TJ/PR), na modalidade de remoção, sem que seja submetido ao concurso de provas, ante a exigência inconstitucional e ilegal do item 5.1 do Edital, nos termos do art. 236, §3º, CF/88, art. 16 da Lei Federal 8.935/94 e art. 3º da Lei Estadual 14.594/04, submetendo-se ora Impetrante somente ao concurso de títulos.
+    Sucessivamente, requer:
+    Que seja suspenso o Edital nº 01/2014 até o julgamento da Ação Direta de Inconstitucionalidade 4140 que julga a constitucionalidade da resolução em comento.
+    III. Acaso não seja este o entendimento de Vossa Excelência, alternativamente, em atenção ao princípio da eventualidade, que seja então RECONHECIDA e DECLARADA a nulidade do Edital nº 01/2014 – TJ/PR de Abertura do Concurso Público de Provas e Títulos para outorga de delegações de Notas e de Registro do Estado do Paraná, nas disposições que tratam do concurso pelo critério de remoção – item 5.1 – ante a exigência inconstitucional e ilegal do concurso de provas, nos termos do art. 236, §3º, CF/88, art. 16 da Lei Federal 8.935/94 e art. 3º da Lei Estadual 14.594/04;
+    IV. Em consequência, seja determinado a RETIFICAÇÃO do Edital nº 01/2014 de Abertura do Concurso Público de Provas e Títulos para outorga de delegações de Notas e de Registro do Estado do Paraná, para que o concurso pelo critério de REMOÇÃO dê-se somente pelo concurso/exame de títulos dos candidatos”.
+    É o relatório suficiente. Decido.
+    A concessão de medida liminar em mandado de segurança reclama, nos termos dos artigos 7º, III, da Lei nº 12.016/2009 e art. 203, § 1º, do Regimento Interno do Supremo Tribunal Federal, a conjugação de dois requisitos, a saber: a existência de fundamento relevante e a possibilidade de ineficácia da medida que vier a ser deferida ao final, caso mantido o ato questionado.
+    Nesse primeiro exame dos fundamentos que dão suporte à pretensão do impetrante, não vislumbro a presença dos requisitos que autorizam o deferimento da providência cautelar.
+    Isso porque a pretensão do impetrante parece-me contrária ao que dispõe o art. 236, § 3º, da Constituição Federal, que impõe a submissão a concurso público de provas e títulos para o ingresso na atividade notarial e de registro, sem fazer qualquer distinção entre provimento ou remoção. Em outras palavras, o espírito da mencionada disposição constitucional é o de estabelecer que o ingresso na titularidade de uma serventia, seja por provimento, seja por remoção, depende de aprovação em concurso público de provas e títulos, senão vejamos:
+    “Art. 236 - Os serviços notariais e de registro são exercidos em caráter privado, por delegação do Poder Público.
+    (...)
+    §3º - O ingresso na atividade notarial e de registro depende de concurso público de provas e títulos, não se permitindo que qualquer serventia fique vaga, sem abertura de concurso de provimento ou de remoção, por mais de seis meses” (grifos meus).
+    Saliento, nessa esteira, que, embora o art. 16 da Lei 8.935/1994, com a redação que lhe conferiu a Lei 10.506/2002, estabeleça somente a submissão a concurso de títulos com vistas à remoção, esse dispositivo é objeto da Ação Declaratória de Constitucionalidade 14. Nos autos dessa ação já há manifestação do Ministério Público Federal pela sua improcedência, ou seja, pela inconstitucionalidade do art. 16 do referido diploma legal.
+    Diante do exposto, indefiro a liminar, sem prejuízo de futuro reexame da questão por ocasião do julgamento do mérito deste writ.
+    Notifique-se a autoridade coatora, para que preste informações no prazo legal (art. 7º, I, da Lei 12.016/2009).
+    Intime-se a Advocacia-Geral da União, nos termos do art. 7º, II, da Lei 12.016/2009.
+    Após, abra-se vista ao Ministério Público Federal para que se manifeste dentro do prazo improrrogável de 10 (dez) dias, na forma do art. 12, caput, da Lei nº 12.016/09.
+    Publique-se.
+    Brasília, 27 de março de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
