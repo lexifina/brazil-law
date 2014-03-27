@@ -1,0 +1,23 @@
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. USO DE DOCUMENTO FALSO. PRODUÇÃO DE PROVA TÉCNICA DETERMINADA DE OFÍCIO PELO JUIZ. ALEGAÇÃO DE NULIDADE DO ATO. PEDIDO DE CONCESSÃO DE LIMINAR QUE SE CONFUNDE COM O MÉRITO DA IMPETRAÇÃO. NATUREZA SATISFATIVA DA PROVIDÊNCIA CAUTELAR REQUERIDA. LIMINAR INDEFERIDA.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado pela DEFENSORIA PÚBLICA DA UNIÃO, em benefício de EDILANE MARIA NOGUEIRA, contra acórdão do Superior Tribunal de Justiça, sintetizado na seguinte ementa, verbis:
+    “HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO. IMPOSSIBILIDADE. RESPEITO AO SISTEMA RECURSAL PREVISTO NA CARTA MAGNA. NÃO CONHECIMENTO. 1. A Primeira Turma do Supremo Tribunal Federal, buscando dar efetividade às normas previstas na Constituição Federal e na Lei 8.038/90, passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que deve ser adotado por este Superior Tribunal de Justiça, a fim de que seja restabelecida a organicidade da prestação jurisdicional que envolve a tutela do direito de locomoção.
+    2. Tratando-se de writ impetrado antes da alteração do entendimento jurisprudencial, o alegado constrangimento ilegal será enfrentado para que se analise a possibilidade de eventual concessão de habeas corpus de ofício.
+    USO DE DOCUMENTO FALSO. DETERMINAÇÃO DE REALIZAÇÃO DE PERÍCIA GRAFOTÉCNICA DE OFÍCIO PELO JUIZ. ALEGADA VIOLAÇÃO AO PRINCÍPIO ACUSATÓRIO. POSSIBILIDADE DE O MAGISTRADO DETERMINAR A PRODUÇÃO DE PROVAS NECESSÁRIAS À FORMAÇÃO DO SEU LIVRE CONVENCIMENTO. ILEGALIDADE NÃO CARACTERIZADA.
+    1. Embora o juiz seja um órgão do Estado que deve atuar com imparcialidade, acima dos interesses das partes, o certo é que o próprio ordenamento jurídico vigente permite que, na busca da verdade real, ordene a produção de provas necessárias para a formação do seu livre convencimento, sem que tal procedimento implique qualquer ilegalidade.
+    2. Nesse sentido é o inciso II do artigo 156 do Código de Processo Penal, que faculta ao magistrado, de ofício, ‘determinar, no curso da instrução, ou antes de proferir sentença, a realização de diligências para dirimir dúvida sobre ponto relevante.’
+    3. Assim, a determinação de realização de prova pericial de ofício pelo togado singular, ao contrário do que sustentado na inicial do writ, não caracterizou ofensa ao princípio acusatório, pois conquanto a mencionada prova tenha sido utilizada para corroborar a tese da acusação, foi considerada indispensável pelo Juízo para analisar o mérito da causa, estando a atuação jurisdicional, no caso em apreço, em consonância com as regras constitucionais e processuais penais pertinentes.
+    4. Habeas corpus não conhecido.”
+    Colhe-se dos autos que a paciente foi denunciada como incursa nas sanções do artigo 304 do Código Penal, por ter, em tese, utilizado “documento público (Histórico Escolar) e documento particular (Diploma de Qualificação Técnica em Auxiliar de Enfermagem), materialmente e ideologicamente falsos, como se verdadeiros fossem, com intuito de alterar verdade sobre fato juridicamente relevante, bem como criar para si direitos que não possuía”.
+    Encerrada a instrução criminal, o juiz singular converteu o julgamento em diligência a fim de determinar a realização de exame grafotécnico.
+    Irresignada, a defesa impetrou habeas corpus no Tribunal Regional Federal da 1ª Região.
+    Denegada a ordem, sobreveio nova impetração no Superior Tribunal de Justiça, não conhecida.
+    Neste writ, sustenta, em síntese, a nulidade do ato do juiz singular que determinou a produção de prova técnica não requerida pelo Ministério Público.
+    Requer, ao final, a concessão de medida liminar “para reconhecer a nulidade absoluta da perícia determinada pelo magistrado de primeiro grau e, assim, determinar que se desentranhe o laudo acostado aos autos do processo Ap nº 0005049-40.2008.4.01.3601, em trâmite no TRF da 1ª Região, anular todo o processo até conversão do julgamento em diligência e determinar que o magistrado de primeiro grau dê regular prosseguimento ao feito, com a prolação da sentença”. No mérito, pleiteia a confirmação da cautelar.
+    É o relatório. DECIDO.
+    A providência cautelar requerida confunde-se com o mérito da impetração e, portanto, tem natureza satisfativa, razão pela qual indefiro o pedido de liminar.
+    Estando os autos suficientemente instruídos, dê-se vista ao Ministério Público Federal para emissão de parecer.
+    Publique-se.
+    Brasília, 27 de março de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
