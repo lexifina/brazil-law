@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “Roubo. 1. Existência e autoria do fato denunciado comprovadas. Confissão corroborada pelo restante probatório. 2. Cabo de vassoura não se presta para configurar a majorante do emprego de arma. 3. Pena aquém do mínimo em virtude da presença de atenuante. Impossibilidade. 4. Tentativa admitida, por ausente posse tranquila do objeto subtraído. Pena reajustada. 5. Cassada, por ultra petita, a reparação mínima prevista no art. 387, IV, do CPP.
+    De ofício, determinaram que enquanto não houver estabelecimento que atenda todos os requisitos da LEP ao regime aberto, a privativa de liberdade do apelante seja cumprida em regime de prisão domiciliar.
+    Apelo defensivo provido, em parte. Unânime.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, III, 5°, II, XLVI, LIV e LV, da Constituição. Afirma que “a fixação do valor mínimo para reparação civil, previsto no artigo 387, inciso IV, do CPP, com a redação da Lei nº. 11.719/08, não padece de inconstitucionalidade.” Aduz, ainda, que “inexistindo previsão legal de cumprimento de pena privativa de liberdade em regime domiciliar devido à ausência de presídio que atenda a todos os requisitos da LEP, a concessão deste benefício, por si só, já viola o princípio da individualização da pena.”
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos: (i) “se ofensa houvesse a dispositivo constitucional, não seria de forma frontal e direta, como exige o recurso extraordinário, mas de forma reflexa, intermediada pela legislação infraconstitucional”; (ii) incide, no caso, a Súmula 279/STF.
+    O Plenário Virtual do Supremo Tribunal Federal, no julgamento do RE 641.320-RG, Rel. Min. Gilmar Mendes, reconheceu a existência de repercussão geral da discussão acerca do cumprimento de pena em regime menos gravoso ante a falta de vagas em estabelecimento penitenciário adequado.
+    Por outro lado, o Supremo Tribunal Federal tem entendimento no sentido de que a controvérsia relativa à fixação do valor mínimo para reparação, previsto no artigo 387, inciso IV, do CPP, passa necessariamente pela análise prévia da legislação infraconstitucional. Nessa linha, vejam-se o ARE 667.899, Relª. Minª. Rosa Weber; o ARE 677.271, Rel. Min. Dias Toffoli; e o RE 724.454, Relª. Minª. Cármen Lúcia, do qual se extrai a seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. INTERPRETAÇÃO E APLICAÇÃO DO ART. 387, INC. IV, DO CÓDIGO DE PROCESSO PENAL: QUESTÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO AO QUAL SE NEGA SEGUIMENTO.”
+    Diante do exposto, conheço do agravo, na forma do art. 544, § 4º, do CPC, para:
+    (i) admitir o recurso extraordinário apenas quanto à questão relativa ao cumprimento de pena em regime menos gravoso ante a falta de vagas em estabelecimento penitenciário adequado e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-b do CPC;
+    (ii) negar seguimento ao recurso quanto às questões remanescentes, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF.
+    Publique-se.
+          Brasília, 27 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
