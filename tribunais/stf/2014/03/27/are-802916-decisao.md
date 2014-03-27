@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Agravo Retido Litisconsórcio passivo necessário. Inocorrência. O pedido deduzido nestes autos em nada afeta a antiga empregadora (CPFL), uma vez que não se trata de suplementação de beneficio Agravo conhecido e improvido
+    Apelação Cível Preliminar de não conhecimento do recurso afastada. Razões de apelo condizentes com o fundamento da sentença. Previdência privada. Limite de idade. Legalidade. Norma vigente à época da contratação. Decreto 81240/78, que complementou os dispositivos da Lei n 6435/77. Ausência de afronta a direito adquirido Improcedência mantida. Recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 84, IV, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que “a análise demandaria o exame de matéria infraconstitucional”.
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que não atende ao disposto no art. 543-A, § 2º, do CPC. Como já decidido por este Tribunal, a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579 AgR, Rel. Min. Ricardo Lewandowski).
+    A alegada violação ao dispositivo constitucional tido por violado não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos declaratórios para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, necessária seria a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), bem como a análise das cláusulas contratuais, procedimento inviável em sede de recurso extraordinário, nos termos da Súmula 454/STF. Nessa linha, vejam-se o AI 765.897, Rel. Min. Ricardo Lewandowski, e o RE 612.792 AgR, Rel. Min. Ayres Britto, assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. LIMITE ETÁRIO INSTITUÍDO PELO DECRETO 81.240/1978. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 454/STF.
+    1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação infraconstitucional pertinente e de cláusulas contratuais. Providências vedadas neste momento processual.
+    2. Agravo regimental desprovido.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 27 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
