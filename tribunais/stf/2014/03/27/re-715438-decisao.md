@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATA APROVADA FORA DO NÚMERO DE VAGAS. SURGIMENTO DE NOVAS VAGAS. DIREITO À NOMEAÇÃO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTE TRIBUNAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O candidato aprovado no concurso, mesmo que em número excedente, no caso de surgimento de novas vagas durante a validade do certame, tem direito subjetivo à nomeação. Precedentes: RE nº 227.480, Relatora para o acórdão Min. Cármen Lúcia, Primeira Turma, DJe de 21/8/2009, AI 820.065-AgR, Rel. Min. Rosa Weber, AI 776.070-AgR, Rel. Min. Gilmar Mendes.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “CONCURSO PÚBLICO. PRELIMINAR DE DECADÊNCIA AFASTADA. CANDIDATA APROVADA. EXISTÊNCIA DE VAGA DISPONIBILIZADA EM EDITAL. ATO VINCULADO. SUBMISSÃO ÀS REGRAS DO EDITAL. PREVALÊNCIA DOS PRINCÍPIOS DA LEGALILDADE, MORALIDADE ADMINISTRATIVA E IMPESSOABILIDADE. SEGURANÇA CONCEDIDA.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário interposto pelo ESTADO DA BAHIA manejado com arrimo na alínea a do permissivo Constitucional, contra acordão prolatado pelo Tribunal de Justiça da Bahia, assim ementado, in verbis:
+    “CONCURSO PÚBLICO. PRELIMINAR DE DECADÊNCIA AFASTADA. CANDIDATA APROVADA. EXISTÊNCIA DE VAGA DISPONIBILIZADA EM EDITAL. ATO VINCULADO. SUBMISSÃO ÀS REGRAS DO EDITAL. PREVALÊNCIA DOS PRINCÍPIOS DA LEGALILDADE, MORALIDADE ADMINISTRATIVA E IMPESSOABILIDADE. SEGURANÇA CONCEDIDA.”
+    Os embargos de declaração foram rejeitados.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 37, caput, da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso não prospera.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Vê-se que a solução dada pela instância de origem não destoa da jurisprudência desta Corte segundo a qual, o candidato aprovado no concurso, mesmo que em número excedente, no caso de surgimento de novas vagas durante a validade do certame, tem direito subjetivo à nomeação. Nesse sentido:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. NOMEAÇÃO DE APROVADOS EM CONCURSO PÚBLICO. EXISTÊNCIA DE VAGAS PARA CARGO PÚBLICO COM LISTA DE APROVADOS EM CONCURSO VIGENTE: DIREITO ADQUIRIDO E EXPECTATIVA DE DIREITO. DIREITO SUBJETIVO À NOMEAÇÃO. RECUSA DA ADMINISTRAÇÃO EM PROVER CARGOS VAGOS: NECESSIDADE DE MOTIVAÇÃO. ARTIGOS 37, INCISOS II E IV, DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO. 1. Os candidatos aprovados em concurso público têm direito subjetivo à nomeação para a posse que vier a ser dada nos cargos vagos existentes ou nos que vierem a vagar no prazo de validade do concurso. 2. A recusa da Administração Pública em prover cargos vagos quando existentes candidatos aprovados em concurso público deve ser motivada, e esta motivação é suscetível de apreciação pelo Poder Judiciário. 3. Recurso extraordinário ao qual se nega provimento” (RE nº 227.480, Relatora para o acórdão Min. Cármen Lúcia, Primeira Turma, DJe de 21/8/2009).
+    Cite-se, também, RE nº 227.480, Relatora para o acórdão Min. Cármen Lúcia, Primeira Turma, DJe de 21/8/2009, AI 820.065-AgR, Rel. Min. Rosa Weber, AI 776.070-AgR, Rel. Min. Gilmar Mendes.
+    Por fim, ressalto, que para dissentir do acórdão recorrido no que concerne à existência da vaga, necessário seria o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 279/STF, que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário.”
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de março de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
