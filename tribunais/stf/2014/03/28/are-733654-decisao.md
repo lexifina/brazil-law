@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Sétima Turma Suplementar do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PROPRIEDADE DA VIA ELEITA. SOCIEDADE COOPERATIVA. PAGAMENTO FEITO A MEMBROS DE CONSELHOS DE ADMINISTRAÇÃO E FISCAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA.
+    1. Pretendendo a Impetrante afasta a incidência da Contribuição Previdenciária sobre as remunerações pagas a título de cédula de presença aos membros dos seus conselhos de administração e fiscal, é inequívoco o direito a partir de simples interpretação do texto da lei o que carece de prova pré-constituída ou definição do montante do débito em discussão. Cabimento da via eleita (mandado de segurança).
+    2. O pagamento feito a membros dos conselhos de administração e fiscal de sociedade cooperativa se sujeita à incidência da Contribuição Previdenciária, já que possui natureza remuneratória (TRF – 1ª Região, AMS 0005114-27.2007.4.01.3809/MG, Relator Juiz Federal Cleberson José Rocha, Oitava Turma, e-DJF1 de 11/6/2010, pág. 270).
+    3. Apelação do INSS e Remessa Oficial providas.
+    4. Apelo da Impetrante desprovido.
+    5. Sentença reformada.
+    6. Segurança denegada.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV; 93, IX; 150, I; e 195, I, a , todos da Carta. Sustenta, em síntese, que não deve incidir contribuição previdenciária sobre cédulas de presença pagas aos membros de Conselho de Administração e Fiscal da cooperativa, uma vez a verba em questão teria natureza meramente indenizatória.
+    A decisão agravada negou seguimento ao recurso, sob o seguinte fundamento:
+    “O acórdão ora recorrido não decidiu a questão sob o prisma do preceito constitucional. Assim, o inconformismo deveria voltar-se, em verdade, contra interpretação da lei federal, que serviu de base à decisão. O que legitima a interposição do recurso extraordinário é a lesão direta e frontal a artigo da Constituição Federal, não a indireta ou reflexa.”
+    No agravo, a parte reitera os argumentos aduzidos na peça do recurso extraordinário. Com efeito, note-se que o acórdão recorrido considerou legítima a cobrança da contribuição previdenciária, nos seguintes termos:
+    “Com efeito, o entendimento deste Tribunal firma-se no sentido de que, tendo natureza remuneratória, o pagamento feito a membros dos conselhos de administração e fiscal de sociedade cooperativa sujeita-se à incidência da Contribuição Previdenciária.”
+    O litígio em apreço fora dirimido tão somente com base na legislação infraconstitucional pertinente à hipótese (Lei nº 8.212/1991). Contato que somente por intermédio de uma nova análise das atividades desenvolvidas pelos membros dos conselhos, à luz da legislação de regência, seria possível redefinir a natureza jurídica da verba por eles percebida. Neste sentido, destaco a ementa da decisão monocrática lançada no ARE 775616, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE LOCOMOÇÃO: NATUREZA JURÍDICA. CONTRIBUIÇÃO PREVIDENCIÁRIA: NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    Por fim, quanto à alegação de ofensa aos arts. 5º, XXXV, e 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 28 de março de 2014.
+Ministro LUÍS ROBERTO BARROSO
+Relator
