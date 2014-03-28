@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONTRIBUIÇÃO SOCIAL – INCIDÊNCIA SOBRE A RECEITA BRUTA – LEI Nº 8.540/92 – PRODUTOR RURAL SEM EMPREGADOS – MATÉRIA FÁTICA – NEGATIVA DE SEGUIMENTO.
+    1. Discute-se a constitucionalidade do artigo 1º da Lei nº 8.540/92 – que modificou os artigos 12, incisos V e VII, 25, incisos I e II, e 30, inciso IV, da Lei nº 8.212/91, com redação atualizada até a Lei nº 9.528/97 –, por ter instituído hipótese de contribuição social sobre a receita bruta proveniente da comercialização da produção rural de empregadores pessoas naturais.
+    O Plenário, ao apreciar o Recurso Extraordinário nº 363.852/MG, de minha relatoria, proclamou a insubsistência da cobrança da referida contribuição. Eis a síntese do julgado:
+    RECURSO EXTRAORDINÁRIO - PRESSUPOSTO ESPECÍFICO - VIOLÊNCIA À CONSTITUIÇÃO - ANÁLISE - CONCLUSÃO. Porque o Supremo, na análise da violência à Constituição, adota entendimento quanto à matéria de fundo do extraordinário, a conclusão a que chega deságua, conforme sempre sustentou a melhor doutrina - José Carlos Barbosa Moreira -, em provimento ou desprovimento do recurso, sendo impróprias as nomenclaturas conhecimento e não conhecimento.
+    CONTRIBUIÇÃO SOCIAL - COMERCIALIZAÇÃO DE BOVINOS - PRODUTORES RURAIS PESSOAS NATURAIS - SUB-ROGAÇÃO - LEI Nº 8.212/91 - ARTIGO 195, INCISO I, DA CARTA FEDERAL - PERÍODO ANTERIOR À EMENDA CONSTITUCIONAL Nº 20/98 - UNICIDADE DE INCIDÊNCIA - EXCEÇÕES - COFINS E CONTRIBUIÇÃO SOCIAL - PRECEDENTE - INEXISTÊNCIA DE LEI COMPLEMENTAR. Ante o texto constitucional, não subsiste a obrigação tributária sub-rogada do adquirente, presente a venda de bovinos por produtores rurais, pessoas naturais, prevista nos artigos 12, incisos V e VII, 25, incisos I e II, e 30, inciso IV, da Lei nº 8.212/91, com as redações decorrentes das Leis nº 8.540/92 e nº 9.528/97. Aplicação de leis no tempo – considerações.
+    Consoante assentou o Tribunal de origem, o precedente não alcança os recorrentes, produtores rurais autônomos sem empregados, mencionados no § 8º do artigo 195 da Constituição Federal. Concluir por qualificação diversa importará em reexame de provas.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    2. Nego seguimento a este extraordinário.
+    3. Publiquem.
+Brasília, 28 de março de 2014.
+Ministro MARCO AURÉLIO
+Relator
