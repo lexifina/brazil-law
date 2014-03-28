@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA. ACUMULAÇÃO COM AUXÍLIO-DOENÇA PREVISTO NA LEI MUNICIPAL 4.801/95. OFENSA REFLEXA. SUM. 280/STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O benefício previdenciário do servidor público municipal, quando sub judice a controvérsia sobre a possibilidade de cumulação com auxílio-doença, demanda a análise da legislação infraconstitucional aplicável à espécie. Precedentes: ARE 715.721, Rel. Min. Luiz Fux, DJe de 14/5/2013, e AI 592.954-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe de 4/3/2010.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “ADMINISTRATIVO. REDUÇÃO DE PROVENTOS DE APOSENTADORIA DE SERVIDORA PÚBLICA DO MUNICÍPIO DE FLORIANÓPOLIS. “AUXÍLIO-DOENÇA” DA LEI MUNICIPAL N. 4.801/1995. BENEFÍCIO DIVERSO DO HOMÔNIMO PREVISTO NOS ARTS. 59 A 64 DA LEI FEDERAL N. 8.213/1991. CONCESSÃO DECORRENTE DE APOSENTADORIA POR INVALIDEZ PERMANENTE. CUMULAÇÃO INDEVIDA DE BENEFÍCIOS. INOCORRÊNCIA. SEGURANÇA CONCEDIDA.”
+4. Agravo DESPROVIDO .
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo MUNICIPÍO DE FLORIANÓPOLIS com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado in verbis :
+    “ADMINISTRATIVO. REDUÇÃO DE PROVENTOS DE APOSENTADORIA DE SERVIDORA PÚBLICA DO MUNICÍPIO DE FLORIANÓPOLIS. “AUXÍLIO-DOENÇA” DA LEI MUNICIPAL N. 4.801/1995. BENEFÍCIO DIVERSO DO HOMÔNIMO PREVISTO NOS ARTS. 59 A 64 DA LEI FEDERAL N. 8.213/1991. CONCESSÃO DECORRENTE DE APOSENTADORIA POR INVALIDEZ PERMANENTE. CUMULAÇÃO INDEVIDA DE BENEFÍCIOS. INOCORRÊNCIA. SEGURANÇA CONCEDIDA.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao artigo 40, §2º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO .
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Não merece provimento o agravo.
+    O benefício previdenciário do servidor público municipal, quando sub judice a controvérsia sobre a possibilidade de cumulação com auxílio-doença, demanda a análise da legislação infraconstitucional aplicável à espécie. Nesse sentido, ARE 715.721, Rel. Min. Luiz Fux, DJe de 14/5/2013, e AI 592.954-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe de 4/3/10, com a seguinte ementa
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. APOSENTADORIA E AUXÍLIO-ACIDENTE. CUMULAÇÃO. QUESTÃO DE ÍNDOLE INFRACONSTITUCIONAL. PRECEDENTES. RAZÕES DO AGRAVO REGIMENTAL QUE SE ENCONTRAM DISSOCIADAS DO APELO EXTREMO. SÚMULA 284 DO STF. 1. A possibilidade de cumulação de benefício acidentário com aposentadoria é restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Inovação em sede de agravo regimental, caso em que não há como afastar o óbice da Súmula 284 desta nossa Corte. 3. Agravo regimental desprovido.”
+    Ex positis , DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de março de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
