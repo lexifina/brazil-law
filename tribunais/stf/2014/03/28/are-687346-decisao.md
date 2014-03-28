@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PENSÃO POR MORTE. INTEGRALIDADE. PRECEDENTES. PENSÃO. FILHA SOLTEIRA MAIOR DE VINTE E UM ANOS. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO VIRTUAL DO STF. NO RE Nº 610.220. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. O valor da pensão por morte deve corresponder à totalidade dos vencimentos ou proventos do servidor falecido. Precedente: ARE nº. 651.456-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 14/12/2011.
+2. A pensão da filha solteira maior de 21 anos, quando sub judice a controvérsia, não possui repercussão geral apta à tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF nos auto do RE n. 610.220-RG/RS, da Relatoria da Ministra Ellen Gracie.
+3. In casu, o acórdão recorrido assentou: “Agravo interno em apelação. Previdenciário. Ação revisional de pensão por morte. Equiparação dos valores atuais a 100% dos proventos do servidor falecido como se vivo fosse. [...] Desprovimento do agravo interno.”
+4. Agravo DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos interposto pelo FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO – RIOPREVIDÊNCIA, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão assim ementado:
+    “Agravo interno em apelação. Previdenciário. Ação revisional de pensão por morte. Equiparação dos valores atuais a 100% dos proventos do servidor falecido como se vivo fosse. Decisão do relator que deu parcial provimento ao recurso e, em reexame necessário, manteve a sentença quanto aos demais termos, fundada em jurisprudência dominante do STJ e desta Corte. Aplicação do art. 557, caput e §1°-A do CPC. Impossibilidade de apreciação pelo Judiciário em sede de ação revisional, salvo em reconvenção, de pretensão de exclusão do direito da 2ª autora, filha maior do falecido segurado, à pensão. Descabimento de suspensão do processo para que se aguarde julgamento de arguição de inconstitucionalidade de diploma legal que garante o pensionamento às filhas maiores. Tese recursal, neste agravo interno, que extrapola seu estreito limite, qual seja, a comprovação de divergência entre a jurisprudência e a decisão monocrática do Relator. Inteligência do parágrafo 1º do art. 557 do CPC. Desprovimento do agravo interno” (fl. 71 do volume 1).
+    Nas razões do apelo extremo, o recorrente sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, I e XXXVI, 40, § 12, e 201, V, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição Federal e por entender que o conhecimento do recurso encontra óbice na Súmula 279 do STF.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    O acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal no sentido de que o valor da pensão por morte deve corresponder à totalidade dos vencimentos ou proventos do servidor falecido. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. VALOR DA PENSÃO. CORRESPONDÊNCIA COM A TOTALIDADE DOS PROVENTOS QUE O SERVIDOR RECEBIA EM VIDA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº. 651.456-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 14/12/2011).
+    Ademais, o direito da filha solteira maior de 21 anos à percepção de pensão não possui repercussão geral apta à tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF nos auto do RE n. 610.220-RG/RS, da Relatoria da Ministra Ellen Gracie, que possui a seguinte ementa:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO À PENSÃO PARA FILHA SOLTEIRA MAIOR DE 21 ANOS. LEI ESTADUAL 7.672/82 DO RIO GRANDE DO SUL. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO ESTADUAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de março de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
