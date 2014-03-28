@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA ANULATÓRIA DE ATO JURÍDICO. OBRIGAÇÃO DE FAZER. DANO MORAL. INATACADOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 182/STJ. APLICAÇÃO DE MULTA NO JULGAMENTO DOS EMBARGOS. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO AI Nº 752.633-RG. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. A multa prevista no artigo 538, parágrafo único, do CPC, quando aplicada pelas instâncias ordinárias, posto controvérsia infraconstitucional, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do AI nº 752.633-RG, da Relatoria do Min. Cezar Peluso.
+2. In casu, o acórdão recorrido assentou: “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O RECURSO ESPECIAL. APLICAÇÃO DO ART. 544, § 4º, I, DO CPC. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. PRECEDENTES. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO MANIFESTAMENTE INFUNDADO E PROCRASTINATÓRIO. APLICAÇÃO DE MULTA. ART. 557, § 2º, CPC.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por JCR Participações e Construções Ltda. com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O RECURSO ESPECIAL. APLICAÇÃO DO ART. 544, § 4º, I, DO CPC. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. PRECEDENTES. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO MANIFESTAMENTE INFUNDADO E PROCRASTINATÓRIO. APLICAÇÃO DE MULTA. ART. 557, § 2º, CPC.”
+    Nas razões do apelo extremo alega violação aos artigos 5º, LV, e 105, III, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário em razão da ausência do recolhimento da multa aplicada no julgamento dos embargos de declaração.
+    É o relatório. DECIDO.
+    Não merece provimento o agravo.
+    A multa prevista no artigo 538, parágrafo único, do CPC, quando aplicada pelas instâncias ordinárias, posto controvérsia infraconstitucional, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do AI nº 752.633-RG, da Relatoria do Min. Cezar Peluso, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Outrossim, não alcança estatura constitucional a questão relativa à aplicação de multa em julgamento de embargos de declaração tidos por protelatórios, que se restringe ao plano processual.”
+    Demais disso, a admissibilidade dos recursos da competência de cortes diversas, quando controversa, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário virtual do STF, na análise do RE nº 598.365, da Relatoria do Min. Ayres Britto, DJe de 26/3/2010, o qual possui a seguinte ementa:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de março de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
