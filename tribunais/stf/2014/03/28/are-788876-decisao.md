@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. COOPERATIVA. PRESTAÇÃO DE SERVIÇOS POR PROFISSIONAL LIBERAL. DIVERGÊNCIA QUANTO À RETENÇÃO DA ALÍQUOTA DE CONTRIBUIÇÃO PREVIDENCIÁRIA ESTIPULADA EM CONTRATO. EXAME DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 454/STF. ALEGADA OFENSA AO DIREITO ADQUIRIDO E ATO JURÍDICO PERFEITO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO
+1. A restituição de valores indevidamente descontados a título de contribuição previdenciária de profissionais liberais prestadores de serviço em Cooperativas, quando sub judice a controvérsia, implica análise de normas infraconstitucionais e de cláusulas contratuais.
+2 A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário.
+3. A interpretação de cláusulas contratuais não viabiliza o recurso extraordinário, a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal, verbis: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.
+4. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+5. O direito adquirido e o ato jurídico perfeito, quando sub judice a controvérsia no caso concreto acerca da ocorrência ou não da violação, não desafia a instância extraordinária, posto implicarem análise de matéria infraconstitucional. Precedentes: AI 699.726-AgR, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 16/11/2010; ARE 676.446-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe 2/10/2013.
+6. In casu, o acórdão recorrido assentou: “Prestação de serviços – Fisioterapeuta – Contrato celebrado pelas partes estipulando que a prestadora de serviço contribuiria com 50% da contribuição previdenciária devida sobre a remuneração dos serviços prestados – Estipulação válida, que deve ser observada, ante a ausência de modificação consensual – Parcial procedência do recurso.”
+7.  Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo UNIMED DE BIRIGUI COOPERATIVA DE TRABALHO MÉDICO com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário, manejado com arrimo na alínea a do permissivo Constitucional, contra acordão prolatado pelo Tribunal de Justiça do Estado E São Paulo, assim ementado:
+    “Prestação de serviços – Fisioterapeuta – Contrato celebrado pelas partes estipulando que a prestadora de serviço contribuiria com 50% da contribuição previdenciária devida sobre a remuneração dos serviços prestados – Estipulação válida, que deve ser observada, ante a ausência de modificação consensual – Parcial procedência do recurso.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 5º, XXXVI da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário pela aplicação da Súmula 279 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    O recurso não prospera.
+    Verifica-se, que para se chegar à conclusão contrária à adotada pelo acórdão recorrido seria necessário o reexame de cláusulas contratuais, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.
+    Ademais, a jurisprudência desta Corte se orienta no sentido de que o direito adquirido e o ato jurídico perfeito, quando objeto de verificação de cada caso concreto acerca da ocorrência ou não de violação, não desafiam a instância extraordinária, posto implicarem análise de matéria infraconstitucional. Neste sentido, o AI 699.726-AgR, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 16/11/2010, assim ementado, no que interessa:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO AMBIENTAL. MATÉRIA INFRACONSTITUCIONAL. LIMITES DA COISA JULGADA. ALEGADA OFENSA AO ART. 5º, II, XXXVI E LV, DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I – O acórdão recorrido dirimiu a matéria com base na interpretação de legislação infraconstitucional aplicável à espécie. Ofensa reflexa.
+    II – A Corte tem se orientado no sentido de que a verificação, no caso concreto, da ocorrência ou não de violação ao direito adquirido e ao ato jurídico perfeito situa-se no campo infraconstitucional. Precedentes.[...]”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de março de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
