@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR FUNÇÃO. ADICIONAL POR TEMPO DE SERVIÇO. LEI MUNICIPAL 1.375/90. DIREITO ADQUIRIDO À REGIME JURÍDICO. INEXISTÊNCIA. IRREDUTIBILIDADE DE VENCIMENTOS. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O servidor público não possui direito adquirido à regime jurídico, desde que preservado o montante global dos vencimentos em atenção ao princípio constitucional da irredutibilidade salarial. Precedentes: RE 597.838-AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe de 24/2/2011, RE 601.985-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 1º/10/2010, e RE 375.936-AgR, Rel. Min.Carlos Britto, 1ª Turma, DJ de 25/8/2006.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MUNICÍPIO DE SANTO CRISTO. DIFERENÇAS SALARIAIS. SUPERVENIÊNCIA DE NOVO REGRAMENTO ACERCA DO ADICIONAL POR TEMPO DE SERVIÇO. AUSÊNCIA DE DIREITO ADQUIRIDO.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário com agravo interposto por JOÃO MARCELO KLEIN, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional contra acórdão, assim ementado:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MUNICÍPIO DE SANTO CRISTO. DIFERENÇAS SALARIAIS. SUPERVENIÊNCIA DE NOVO REGRAMENTO ACERCA DO ADICIONAL POR TEMPO DE SERVIÇO. AUSÊNCIA DE DIREITO ADQUIRIDO.
+    A lei nova pode regular relações jurídicas com a Administração Pública, extinguindo, reduzindo ou criando vantagens, assim como determinando reenquadramentos, transformações ou reclassificações, não havendo falar em direito adquirido a regime jurídico, desde que observada a proteção constitucional à irredutibilidade de vencimentos, com a preservação do valor global da remuneração do servidor.
+    Caso concreto onde norma superveniente veio a instituir novo regime jurídico único aos servidores públicos municipais, consistente na Lei Municipal n. 3.601/08, e expressamente revogou a Lei Municipal n. 1.375/90 por força do seu art. 207, alterando o regramento acerca do adicional por tempo de serviço.
+    Ausência de ofensa ao art. 37, XV, da Constituição Federal ou de existência de direito adquirido à incorporação dos adicionais no percentual de 15% e 25%, porquanto não alcançado o requisito temporal previsto na lei de regência anterior. APELAÇÃO DESPROVIDA.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37, XV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por entender que a questão é de ordem infraconstitucional.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Não merece prosperar o agravo.
+    O acórdão recorrido não divergiu do entendimento firmado por esta Corte, no sentido de que o servidor público não possui direito adquirido à regime jurídico, desde que preservado o montante global dos vencimentos em atenção ao princípio constitucional da irredutibilidade salarial. Nesse sentido, RE 601.985-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 1º/10/2010, RE 375.936-AgR, Rel. Min.Carlos Britto, 1ª Turma, DJ de 25/8/2006, e RE 597.838-AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe de 24/2/2011, com a seguinte ementa:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. FIXAÇÃO DE SUBSÍDIOS. MANUTENÇÃO DA REMUNERAÇÃO TOTAL. DIREITO ADQUIRIDO A REGIME JURÍDICO. INEXISTÊNCIA. AGRAVO REGIMENTAL IMPROVIDO. I – A jurisprudência desta Corte firmou-se no sentido de que, ante a ausência de direito adquirido a regime jurídico, é legítimo que lei superveniente modifique a composição dos vencimentos dos servidores públicos, desde que não haja decesso remuneratório. II – Agravo regimental improvido.”
+    No mesmo sentido, em casos análogos, ARE 776.963, Rel. Min. Cármen Lúcia, DJe de 21/10/2013, e ARE 790.019, Rel. Min. Teori Zavask, DJe de 24/2/2014.
+    Ex positis, DESPROVEJO o agravo, com fundamento no art. 21, § 1º, do RISTF.
+    Brasília, 31 de março de 2014.
+Ministro Luiz Fux
+Relator
+documento assinado digitalmente
