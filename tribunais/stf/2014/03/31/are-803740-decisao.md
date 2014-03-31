@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO CONTRATUAL C/C REPARAÇÃO DE DANOS. EXCEÇÃO DE INCOMPETÊNCIA JULGADA IMPROCEDENTE. INSURGÊNCIA. PACTO DE FRANQUIA DE MARCA E PRODUTOS. DISTRIBUIÇÃO DE GÁS LIQUEFEITO DE PETRÓLEO. AVENÇA COM MANIFESTO CARÁTER DE ADESÃO. INVALIDADE DA CLÁUSULA DE ELEIÇÃO DE FORO. INCIDÊNCIA DA REGRA DE COMPETÊNCIA PREVISTA NO ART. 100, IV, “D” DO CPC. RECURSO CONHECIDO E DESPROVIDO.
+    Exsurgindo-se do instrumento particular que o seu conteúdo adveio exclusivamente da vontade e mediante técnica da franqueadora (cláusulas predispostas), restando à empresa franqueada tão somente aceitar indistintivamente o teor dos termos contratuais lhes dispostos, ou rejeitar a concretização da avença por completo, tornando-se evidente o caráter adesivo do pacto.
+    Sendo manifesta a vulnerabilidade da empresa agravada em relação à empresa agravante – financeiramente, tendo-se em vista o porte econômico de uma em comparação com o da outra, bem como jurídica e tecnicamente – resta cristalino que a prevalência do foro de eleição estipulado no contrato de adesão resultaria ao aderente óbice ao acesso à justiça, revelando-se, assim, abusiva a aludida cláusula, devendo ser declarada sem efeito, a fim de restabelecer a igualdade entre os contratantes”(pág. 24 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 5º, I e XXXV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para julgar a demanda, o Tribunal de origem assim se pronunciou:
+    “Da leitura do pacto em tela, colacionado à fl. 102-111, intitulado ’Contrato de Franquia Local de Marcas e Produtos’, percebe-se nitidamente que não foi possibilitado à franqueada Pró Gás Comércio de Gás Ltda. a discussão das cláusulas previamente estabelecidas pela Franqueadora Petrogás Distribuidora de Gás S/A, detentora, por licenciamento, do uso dos produtos na marca SHELL.
+    (…)
+    Dessarte, revela-se manifestamente abusiva a cláusula de eleição de foro, devendo ser considerada nula de pleno direito, a fim de reestabelecer a igualdade entre os contratantes.
+    Destaca-se, ademais, que prevalece no caso concreto a aplicação da regra de competência prevista na alínea ‘d’ do inciso IV do art. 100 do Código de Processo Civil, de caráter especial, em detrimento da norma estampada na alínea ‘a’ do mesmo dispositivo legal (...)”(págs. 27-28 do documento eletrônico 3).
+    Nesse contexto, para dissentir da conclusão adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos e do contrato firmado entre as partes, o que atrai a incidência das Súmulas 279 e 454 do STF. Ademais, o Tribunal a quo julgou a questão com apoio na legislação infraconstitucional aplicável à espécie, sendo certo que eventual ofensa à Lei Maior seria meramente indireta. Inviável, portanto, o extraordinário.
+    Além disso, quanto ao art. 5º, XXXV, da Constituição, observe-se que o julgamento contrário aos interesses da parte não basta à configuração da negativa de prestação jurisdicional. Nesse sentido, cito os seguintes precedentes, entre outros: AI 747.611-AgR/SP, Rel. Min. Cármen Lúcia; AI 657.164-AgR/AM, Rel. Min. Menezes Direito; AI 648.551-AgR/RS, Rel. Min. Sepúlveda Pertence; AI 469.341-AgR/SP, Rel. Min. Ayres Britto; AI 690.551-AgR/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 31 de março de 2014
+Ministro RICARDO LEWANDOWSKI
+- Relator -
