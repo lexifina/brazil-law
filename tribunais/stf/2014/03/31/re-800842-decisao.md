@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na violação dos arts. 150, § 6º, da Lei Maior, e 8º do ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Na hipótese, verifica-se de plano que, impugnada, mediante o recurso extraordinário, decisão proferida em sede de agravo de instrumento interposto contra decisão concessiva de antecipação de tutela, emerge como óbice ao seu processamento a Súmula nº 735 desta Casa, segundo a qual não cabe recurso extraordinário contra acórdão que defere medida liminar.
+    Ainda que superado esse óbice nada colheria, porquanto, na esteira da jurisprudência desta Corte, a discussão acerca da natureza jurídica de determinada verba para fins de incidência do imposto de renda não alcança estatura constitucional. Nesse sentido:
+    “RECURSO. Extraordinário. Incognoscibilidade. Rescisão de contrato de trabalho. Verbas rescisórias. Natureza jurídica. Definição para fins de incidência de Imposto de Renda. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a definição da natureza jurídica de verbas rescisórias (salarial ou indenizatória), para fins de incidência de Imposto de Renda, versa sobre matéria infraconstitucional.” (AI 705.941-RG, Rel. Min. Cezar Peluso, DJe 23.4.2010)
+    “TRIBUTÁRIO E CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DE IMPOSTO DE RENDA SOBRE O ABONO DE PERMANÊNCIA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL (ART. 543-A DO CPC). 1. A controvérsia a respeito da incidência do imposto de renda sobre as verbas percebidas a título de abono de permanência é de natureza infraconstitucional, não havendo, portanto, matéria constitucional a ser analisada (ARE 665800 AgR, de minha relatoria, Segunda Turma, DJe de 20/08/2013; ARE 691857 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 19/09/2012; ARE 662017 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 03/08/2012; ARE 646358 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 15/05/2012). 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.” (RE 688.001-RG, Rel. Min. Teori Zavascki, DJe 18.11.2013 )
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 31 de março de 2014.
+Ministra Rosa Weber
+Relatora
