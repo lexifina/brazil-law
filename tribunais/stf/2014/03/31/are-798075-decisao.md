@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR. PRÊMIO INCENTIVO. INCORPORAÇÃO AOS VENCIMENTOS. LEI ESTADUAL N. 8.975/1994. PAGAMENTO INDEVIDO. OFENSA INDIRETA. PRECEDENTE. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 748.371. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. O prêmio de incentivo, quando sub judice a controvérsia sobre sua extensão a servidores de outras categorias, não viabiliza o acesso à via recursal extraordinária, por envolver discussão de caráter infraconstitucional. Precedente: RE 572.026-AgR/SP, Rel. Ministro Ayres Britto, Segunda Turma, DJe de 17/12/2010.
+2. Os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 748.371, da Relatoria do Min. Gilmar Mendes.
+3. In casu, o acórdão recorrido assentou: “PRÊMIO DE INCENTIVO - Servidoras Estaduais (Secretaria de Administração Penitenciária), que exercem suas atividades em unidades de saúde -Prêmio de Incentivo - Lei Estadual n° 8.975/94 - Pretensão ao reconhecimento do direito ao prêmio de incentivo e inclusão na base de cálculo do 13° salário e 1/3 de férias - Inadmissibilidade - A verba em questão é prevista para servidores da Secretaria da Saúde, condicionada à avaliação feita por seus próprios órgãos, na forma do Decreto Executivo n° 41.794/97, não podendo ser estendida a servidores vinculados a outras secretarias - R. Sentença de procedência reformada. Recurso da Ré provido. Recurso das Autoras prejudicado.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por Lucinéia Maestá de Lima e Outros com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão assim ementado:
+    “PRÊMIO DE INCENTIVO - Servidoras Estaduais (Secretaria de Administração Penitenciária), que exercem suas atividades em unidades de saúde -Prêmio de Incentivo - Lei Estadual n° 8.975/94 -Pretensão ao reconhecimento do direito ao prêmio de incentivo e inclusão na base de cálculo do 13° salário e 1/3 de férias - Inadmissibilidade - A verba em questão é prevista para servidores da Secretaria da Saúde, condicionada à avaliação feita por seus próprios órgãos, na forma do Decreto Executivo n° 41.794/97, não podendo ser estendida a servidores vinculados a outras secretarias - R. Sentença de procedência reformada. Recurso da Ré provido. Recurso das Autoras prejudicado.”
+    Opostos embargos de declaração, restaram rejeitados.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, LV, e 37, caput, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa, se existente, seria reflexa.
+    É o Relatório. DECIDO.
+    Não merece provimento o agravo.
+    Os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 748.371, da Relatoria do Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Demais disso, O prêmio de incentivo, quando sub judice a controvérsia sobre sua extensão a servidores de outras categorias, não viabiliza o acesso à via recursal extraordinária, por envolver discussão de caráter infraconstitucional. Nesse sentido, o RE 572.026-AgR/SP, Rel. Ministro Ayres Britto, Segunda Turma, DJe de 17/12/2010, que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. PRÊMIO DE INCENTIVO. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF.
+    1. Entendimento diverso do adotado pela Instância Judicante de origem demandaria a análise da legislação estadual pertinente, providência vedada neste momento processual, nos termos da Súmula 280/STF. Precedentes.
+    2. Agravo regimental desprovido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de março de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
