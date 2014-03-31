@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. SISTEMA FINANCEIRO DE HABITAÇÃO. DIREITO DE PREFERÊNCIA DE IMÓVEL LEVADO À VENDA OU LEILÃO. AUSÊNCIA DE PREVISÃO LEGAL. PRINCÍPIO DA ANALOGIA. INAPLICABILIDADE.
+    A alegação de que o mutuário que não efetuou o pagamento das prestações do financiamento habitacional tem direito de preferência na aquisição do imóvel levado à venda ou leilão, por aplicação analógica da Lei de Inquilinato, não tem respaldo na legislação de regência, pois a ausência de previsão legal não constitui lacuna a ser suprida. Com efeito, lacuna legal não é simplesmente a ausência de um determinado direito, nem a analogia significa a possibilidade de extensão de determinados direitos para todos os casos semelhantes.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXV e 6º, caput, ambos da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) incidem, no caso, as Súmulas 282, 283 e 356/STF e (ii) “se afronta à Carta Magna há, se dá de maneira indireta ou oblíqua, o que inviabiliza também o apelo extremo.”
+    O recurso é inadmissível, tendo em vista que os dispositivos constitucionais tidos por violados não foram objeto de apreciação pelo Tribunal de origem. Tampouco foram opostos embargos de declaração para suprimir eventual omissão, de modo que o recurso extraordinário carece do necessário prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    De qualquer forma, para chegar à conclusão diversa do acórdão recorrido, necessária seria a análise da legislação infraconstitucional pertinente, procedimento inviável em sede de recurso extraordinário. Nessa linha, veja-se trecho da ementa do ARE 709.366, Rel. Min. Luiz Fux:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. CONTRATO DE LOCAÇÃO NÃO RESIDENCIAL. AÇÃO DE DESPEJO POR DENÚNCIA VAZIA. DIREITO DE PREFERÊNCIA NÃO EXERCIDO. VENDA DO IMÓVEL A TERCEIRO. BENFEITORIAS. APELAÇÃO RECEBIDA APENAS NO EFEITO DEVOLUTIVO. LEI Nº 8.245/91. AGRAVO PARA EMPRESTAR EFEITO SUSPENSIVO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA E AUSÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. REPERCUSSÃO GERAL NÃO CONFIGURADA. OFENSA REFLEXA AO TEXTO DA CARTA MAGNA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. DESPROVIMENTO.
+    (...)”
+    Ademais, cabe ressaltar que não foram ofendidas as garantias da inafastabilidade do controle jurisdicional, do devido processo legal, do contraditório e da ampla defesa, pois a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e motivado suas conclusões de forma satisfatória.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 31 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
