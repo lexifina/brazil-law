@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 1ª Câmara Cível do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+    “CIVIL E PROCESSUAL CIVIL – AGRAVO INOMINADO – ART. 557, §1°, DO CÓDIGO DE PROCESSO CIVIL – MANDADO DE SEGURANÇA – ABONO DE NATUREZA INDENIZATÓRIA - IMPOSTO DE RENDA – DESCONTO – NÃO INCIDÊNCIA – HONORÁRIOS EM SEDE DE MANDADO DE SEGURANÇA – SÚMULA N° 512, DO EXCELSO SUPREMO TRIBUNAL FEDERAL.
+    1. Os abonos de natureza indenizatória não configuram acréscimo patrimonial de qualquer natureza ou renda e, portanto, não constituem fatos imponíveis à hipótese de incidência de imposto de renda.
+    2. Nos termos do Enunciado n° 512, da Súmula do Excelso Supremo Tribunal Federal, não cabe condenação de verba honorária em sede de mandado de segurança.
+    3. Nega-se provimento a agravo interposto com fundamento no art. 557, § 1°, do Código de Processo Civil, quando a decisão monocrática hostilizada tiver sido prolatada nos termos do mesmo art. 557, caput, do Estatuto Processual Civil.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, X, da Carta.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) “a questão constitucional suscitada não foi objeto de análise, em específico, na decisão recorrida, não se encontrando, pois, devidamente prequestionada.” e (ii) “não fosse o óbice já apontado, não se vislumbra ofensa direta ao texto constitucional”.
+    Inicialmente, ressalto que o acórdão recorrido não enfrentou a questão sob o prisma formal pretendido pelo recorrente, ou seja, não debateu sobre a fixação de remuneração por via diversa da lei formal e específica (art. 37, X). O acórdão abordou a natureza jurídica do abono para concluir pela não incidência do Imposto de Renda no caso concreto. Aplica-se ao caso, portanto, a Súmula nº 282/STF.
+     Ademais, ainda que superado o entrave sumular apontado, a pretensão não seria acolhida. A parte recorrente afirma reconhecer a legalidade do abono com relação aos membros do Ministério Público da União e da Magistratura Federal. Afirma, contudo, ser indevida a extensão aos Magistrados dos Estados. Neste sentido, consignou:
+    “Como já dito, o pleito das recorridas só poderia ser agasalhado, desde que essa vantagem fosse instituída em lei formal estadual, nos mesmos moldes das leis federais nºs 10.474/02 e 10.477/02 e desde que a Magistratura do Estado do Espírito Santo edite ato normativo interno nos mesmos moldes da resolução nº 245/2002 do Supremo Tribunal Federal.”
+    Verifico que o entendimento adotado pela instância ordinária foi lançado à luz da interpretação da legislação infraconstitucional aplicável ao caso, não havendo repercussão constitucional imediata no debate acerca da extensão de abono conferido por lei a outra categoria. Neste sentido, destaco a ementa do AI 87218 AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. EXTENSÃO DE ABONO VARIÁVEL AOS CONSELHEIROS E AUDITORES DE TRIBUNAL DE CONTAS ESTADUAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 31 de março de 2014.
+Ministro Luís Roberto Barroso
+Relator
