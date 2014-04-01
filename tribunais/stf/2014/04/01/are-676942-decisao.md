@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto de acórdão assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. REMUNERAÇÃO. VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA – VPNI. INCORPORAÇÃO DE QUINTOS. PROCURADOR FEDERAL. POSSIBILIDADE ATÉ O ADVENTO DA MP 305/2006 QUE IMPLANTOU O SUBSÍDIO REMUNERATÓRIO DOS PROCURADORES FEDERAIS.
+    1. Os valores incorporados aos vencimentos do autor a título de frações de quintos, posteriormente transformados em VPNI, devem acompanhá-lo na nova carreira de procurador federal, sob pena de afronta ao direito adquirido, eis que é de natureza da incorporação que as rubricas agregadas ao vencimento do beneficiário permaneçam sendo pagas enquanto ele ostentar a condição de servidor público, e até mesmo após sua aposentadoria, respeitados os critérios legais.
+    2. Ao entender indevida a vantagem, a Administração deveria ter atacado o ato judicial que reconheceu sua incorporação ao autor, e não simplesmente deixar de pagá-la sob alegação de falta de previsão legal ou de aplicação do princípio da autotutela, mesmo porque não há falar em autotutela administrativa de atos jurisdicionais.
+    3. Considerando que a Medida Provisória nº 305/2006 implantou o subsídio como forma de remuneração dos Procuradores Federais, sendo este incompatível com o recebimento de qualquer gratificação, adicional, abono, prêmio, verba ou representação ou outra espécie remuneratória, nos termos do art. 39, parágrafos 4º e 8º, da Constituição, e tendo em vista o entendimento firmado pelo Supremo Tribunal Federal no sentido de que os servidores públicos têm direito à irredutibilidade dos vencimentos, mas não à forma de seu cálculo (Precedente do STF), o pagamento dos quintos/VPNI em atraso deve ser feito até a data em que a remuneração do autor passou a ser feita por meio de subsídio” (página 89 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2º, 5º, XXXVI, 37, X, e 61, § 1º, I, a, da mesma Carta.
+    Tendo em vista o julgamento de mérito do RE 587.371-RG/DF, de relatoria do Ministro Teori Zavascki, afasto o sobrestamento destes autos e passo a examinar o apelo extremo.
+    A pretensão recursal merece prosperar.
+    Isso porque o acórdão recorrido está em dissonância com a jurisprudência desta Corte firmada no julgamento do RE 587.371/DF, Rel. Min. Teori Zavascki, com repercussão geral reconhecida, no sentido de que não há direito adquirido ao recebimento de quintos incorporados após a mudança de regime jurídico. No referido julgamento, destacou-se que:
+    “É vedada a incorporação de quintos, aos vencimentos de magistrados, decorrente de exercício de função comissionada em cargo público, ocorrido em data anterior ao ingresso na magistratura. Com base nessa orientação, o Tribunal, por maioria, deu parcial provimento a recurso extraordinário em que se discutia, à luz dos artigos 2º, 5º, XXXVI, e 93 da CF, a ocorrência de direito adquirido à incorporação da mencionada vantagem.
+    (…)
+    O direito pleiteado não estaria revestido de portabilidade a permitir que os recorridos pudessem exercê-lo fora da relação jurídica de onde se originaram, ainda mais quando não subsistente essa vinculação. Observou que, inexistente o vínculo funcional, não haveria sentido em afirmar a sobrevivência de certa parcela remuneratória dessa relação jurídica desfeita. Lembrou que, considerada a vedação constitucional de se acumular cargos remunerados, não seria legítimo possuir, em um dos cargos, vantagem devida pelo exercício de outro.
+    (…)
+    A garantia de preservação de direito adquirido não serviria para sustentar a criação e o exercício de um direito de tertium genus, composto de vantagens de dois regimes diferentes, cujo exercício cumulativo não teria amparo na lei ou na Constituição.
+    (…)
+    Preservou, no entanto, os valores da incorporação já percebidos em respeito ao princípio da boa-fé” (Informativo 728/STF).
+    Isso posto, com base no art. 557, § 1º-A, do CPC, conheço do recurso extraordinário e lhe dou provimento. Honorários a serem fixados pelo Juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 1º de abril de 2014.
+Ministro Ricardo Lewandowski
+Relator
