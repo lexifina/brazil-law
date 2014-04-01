@@ -1,0 +1,5 @@
+# Lei Complementar nº 763, de 1º de abril de 2014, do Estado de Rondônia
+
+INSTITUI A AVALIAÇÃO PERÍODICA DE DESEMPENHO INDIVIDUAL, DISCIPLINA A PERDA DE CARGO PÚBLICO POR INSUFIÊNCIA DE DESEMPENHO DO SERVIDOR PÚBLICO ESTÁVEL E DO DETENTOR DE FUNÇÃO PÚBLICA, E DISPÕE SOBRE ESTÁGIO PROBATÓRIO E AVALIAÇÃO ESPECIAL DE DESEMPENHO PARA FINS DE AQUISIÇÃO DE ESTABILIDADE, NO ÂMBITO DO TRIBUNAL DE CONTAS DO ESTADO DE RONDÔNIA E DÁ OUTRAS PROVIDÊNCIAS.
+
+Fonte: Assembleia Legislativa (sapl.al.ro.leg.br), <https://sapl.al.ro.leg.br/norma/6664>; texto: <http://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2014/6664/6664_texto_integral.pdf>
