@@ -1,0 +1,7 @@
+ESTADO DE ALAGOAS
+
+GABINETE DO GOVERNADOR
+
+LEI Nº 7.595, DE 2 DE ABRIL DE 2014.
+
+ALTERA A REDAÇÃO DO ART. 182 DA LEI Nº 6.564, DE 05 DE JANEIRO DE 2005. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
