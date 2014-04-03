@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se agravo regimental em recurso extraordinário cuja devolução ao Juízo de origem foi determinada com fundamento no art. 543-B do CPC.
+    A parte agravante sustenta, em síntese, que (a) o Tema 6 diz respeito somente aos casos envolvendo medicamento de alto custo, e a hipótese dos autos não se refere a esse tipo de medicamento; (b) essa alegação não foi apreciada pela Turma Recursal, nem foram opostos embargos de declaração, inexistindo o prequestionamento; (c) admitir o argumento de que se trata de medicamento de alto custo demanda o reexame de fatos e provas, inviável no âmbito do recurso extraordinário.
+    2. A jurisprudência do Supremo Tribunal Federal tem entendimento pacificado no sentido de que o despacho que determina a devolução dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral é ato de mero expediente e, portanto, não permite impugnação mediante recurso ou qualquer outro meio. Nesse sentido, confira-se:
+    RECURSO. Agravo Regimental. Despacho que determina devolução dos autos ao tribunal a quo para aplicação da sistemática da repercussão geral. Ato de mero expediente. Incidência do art. 504 do CPC. Agravo não conhecido. É inadmissível agravo regimental contra ato de mero expediente que determina a devolução do feito ao tribunal de origem para aplicação da sistemática da repercussão geral (AI 778643 AgR, Rel. Min. CEZAR PELUSO (Presidente), Tribunal Pleno, DJe de 07/12/2011)
+    3. Ademais, a matéria discutida no recurso extraordinário, devidamente prequestionada, trata (a) dos princípios da reserva do possível e da legalidade orçamentária; (b) da discricionariedade administrativa na escolha do tratamento de saúde; (c) da implementação de políticas públicas pelo Poder Judiciário e as “escolhas trágicas”; ou seja, os mesmos debates travados no RE 566.471 RG (Rel. Min. MARCO AURÉLIO, DJe de 7/12/2007) - Tema 6. Por fim, não há qualquer necessidade de discussão de fato.
+    4. Diante do exposto, não conheço do pedido e determino a devolução dos autos ao Juízo de origem, para os fins do art. 543-B do CPC.
+    Publique-se. Intime-se.
+    Brasília, 03 de abril de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
