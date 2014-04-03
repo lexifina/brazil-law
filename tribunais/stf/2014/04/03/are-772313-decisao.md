@@ -1,0 +1,36 @@
+DECISÃO:
+    Trata-se de dois agravos interpostos por Wilmar Ferreira da Luz Júnior.
+    O primeiro agravo tem por objeto decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “APELAÇÃO CRIMINAL. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE AGENTES. RECURSO DEFENSIVO. PRELIMINAR DE INÉPCIA DA DENÚNCIA. REQUISITOS DO ART. 41 DO CPP OBSERVADOS. EIVA INEXISTENTE.
+    MÉRITO. PRETENDIDA ABSOLVIÇÃO. ALEGADA FRAGILIDADE PROBATÓRIA. SUBTRAÇÃO DE DINHEIRO E ROUPAS DAS VÍTIMAS. RECONHECIMENTO PESSOAL REALIZADO NA FASE EXTRAJUDICIAL. APREENSÃO DE PARTE DA RES FURTIVA EM PODER DO RECORRENTE. INVERSÃO DO ÔNUS DA PROVA. MATERIALIDADE E AUTORIA DEMONSTRADAS. DESCLASSIFICAÇÃO PARA O DELITO DE FURTO INVIÁVEL. EMPREGO DE GRAVE AMEAÇA DEVIDAMENTE CARACTERIZADO. RECURSO DESPROVIDO.”
+    O recurso extraordinário objeto do primeiro agravo busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 5º, LV, da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária”.
+    O segundo agravo tem por objeto decisão que inadmitiu recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    "PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO OPOSTOS FORA DO PRAZO. NÃO INTERRUPÇÃO. RECURSO ESPECIAL INTEMPESTIVO. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+    – Nos termos da jurisprudência desta Corte, os embargos de declaração, quando não conhecidos por intempestividade, não interrompem o prazo para a interposição de qualquer outro recurso.
+    Agravo regimental desprovido."
+    O recurso extraordinário objeto do segundo agravo busca fundamento também no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 5º, LV e LX, e ao art. 102, III, a, da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que é ele extemporâneo.
+    O primeiro recurso extraordinário é manifestamente inadmissível, por intempestivo. Com efeito, publicado em 16.01.2012 o acórdão em que o Tribunal de Justiça do Estado de Santa Catarina negou provimento à apelação, o ora recorrente protocolou o recurso extraordinário somente em 14.06.2012, quando já transcorrido o prazo legal de 15 (quinze) dias.
+    Cabe ressaltar a jurisprudência do Supremo Tribunal Federal no sentido de que a interposição de recurso extemporâneo não interrompe o prazo para a interposição do recurso extraordinário. Nessa linha, veja-se a ementa do AI 799.543-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    "PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA O ACÓRDÃO RECORRIDO EXTEMPORANEAMENTE. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE. HABEAS CORPUS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS. AGRAVO IMPROVIDO.
+     I – A interposição de recurso extemporâneo ou incabível não suspende ou interrompe o prazo recursal. Precedentes. II – A recorrente deixou de atacar todos os fundamentos da decisão agravada. Inviável, portanto, o presente recurso, a teor da Súmula 287 do STF. Precedentes.
+     III - É pacífico o entendimento nesta Corte de que não cabe rever, em recurso extraordinário, decisão do Superior Tribunal de Justiça que inadmitiu recurso especial.
+     IV - Inexistência de novos argumentos capazes de afastar as razões expendidas na decisão ora atacada, que deve ser mantida.
+    V – Não é possível a concessão da ordem de habeas corpus quando o exame do pedido demandar a apreciação do conjunto fático-probatório da causa.
+     VI - Agravo regimental improvido."
+    Ademais, o Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “(...)
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    O segundo recurso extraordinário também é manifestamente inadmissível, tendo em vista a sua intempestividade. Publicado em 08.05.2013 o acórdão em que o Superior Tribunal de Justiça rejeitou os embargos de declaração, o ora recorrente protocolou o recurso extraordinário somente em 24.06.2013, quando já transcorrido o prazo legal.
+    O Supremo Tribunal Federal tem entendimento de que a interposição de recurso incabível, no caso o agravo regimental, não interrompe o prazo para a interposição do recurso extraordinário. Nessa linha, veja-se o AI 744.297 AgR, Rel. Min. Ricardo Lewandowski, Assim ementado:
+    "AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. AGRAVO REGIMENTAL INTERPOSTO CONTRA DECISÃO DE ÓRGÃO COLEGIADO. RECURSO INCABÍVEL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - A jurisprudência desta Corte é no sentido de que são incabíveis agravos regimentais contra decisão de Órgão Colegiado. Precedentes. II - A interposição de recurso incabível não suspende ou interrompe o prazo recursal. Precedentes. III - É pacífico o entendimento nesta Corte de que não cabe rever, em recurso extraordinário, decisão do Superior Tribunal de Justiça que inadmitiu recurso especial. IV - Agravo regimental improvido."
+    Por fim, o Superior Tribunal de Justiça apenas decidiu sobre os pressupostos de admissibilidade do recurso especial, matéria de sua competência exclusiva. Ademais, o Plenário do Supremo Tribunal Federal já assentou que, em casos tais, não há questão constitucional a ser examinada e, portanto, ausente também o requisito da repercussão geral. Nessa linha, veja-se a ementa do RE 598.365-RG, julgado sob a relatoria do Ministro Ayres Britto:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso elemento de configuração da própria repercussão geral , conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+          Brasília, 03 de abril de 2014.
+Ministro Luís Roberto Barroso
+Relator
