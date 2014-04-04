@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+    “APELAÇÃO – REVISÃO CONTRATUAL – CONTRATO DE FINANCIAMENTO DO SISTEMA FINANCEIRO DA HABITAÇÃO – PRELIMINAR DE NULIDADE POR OFENSA AO ART. 535, I, DO CPC – JULGAMENTO EXTRA PETITA – TABELA PRICE – ANATOCISMOS – REPETIÇÃO DO INDÉBITO – RECURSO CONHECIDO E PROVIDO PARCIALMENTE.
+    1. Admite-se a flexibilização do pacta sunt servanda, em contrato de adesão, uma vez que o aderente não tem poder para discutir as cláusulas contratuais, não implicando violação à autonomia de vontade das partes.
+    2. No entanto, a rejeição genérica de embargos de declaração não poderá resultar em nulidade do decisório, dado que o recurso de apelação, por seu caráter translativo, poderá sanar a omissão.
+    3. Deferido em favor do autor requesto não postulado com a peça exordial, apresenta-se o decisório com excesso, sob o rótulo de extra petita, cuja porção desbordante será excluída do julgamento.
+    4. Em contrato de financiamento para aquisição de imóvel, pelo Sistema Financeiro da Habitação, é vedada a capitalização. Precedentes do Excelso Superior Tribunal de Justiça.
+    5. Seguindo orientação doutrinária e jurisprudencial, não se admite em sinalagmáticos da espécie a incidência da Tabela Price, por representar anatocismo não explícito.
+    6. A partir de decisórios do Excelso Pretório – STJ, deve ser deferida a repetição do indébito em favor do devedor, em se tratando de cobrança com esteio em mútuo bancário, independentemente da prova do erro.
+    7. Recurso de apelação conhecido e parcialmente provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição. Defende a inaplicabilidade do Código de Defesa do Consumidor às relações jurídicas formalizadas antes de sua vigência.
+    A decisão agravada negou seguimento ao recurso, ao fundamento de que “a discussão acerca da suposta violação ao ato jurídico perfeito não dispensa a interpretação das cláusulas contratuais constantes do ato celebrado entre as partes, o que inviabiliza o extraordinário, a teor da Súmula 454 do STF”.
+    O recurso extraordinário é inadmissível. Inicialmente, cumpre ressaltar que a jurisprudência do Supremo Tribunal Federal não admite a incidência do CDC em contratos firmados anteriormente à sua vigência. Vejam-se, nesse sentido, os seguintes precedentes: RE 425.758-AgR, Rel. Min. Ricardo Lewandowski, e RE 395.384-ED, julgado sob a relatoria do Ministro Sepúlveda Pertence, assim ementado:
+    “I. Embargos de declaração convertidos em agravo regimental.
+    II. Recurso extraordinário: descabimento: questão relativa ao preenchimento dos requisitos para a propositura de ação civil pública, de reexame inviável no RE: incidência da Súmula 636.
+    III. Recurso extraordinário: cabimento: tema de direito intertemporal devidamente prequestionado.
+    IV. Código de Defesa do Consumidor: contrato firmado entre instituição financeira e seus clientes referente à caderneta de poupança: não obstante as normas veiculadas pelo Código de Defesa do Consumidor alcancem as instituições financeiras (cf. ADIn 2.591, 7.6.2006, Pleno, Eros Grau), não é possível a sua aplicação retroativa, sob pena de violação do art. 5º, XXXVI, da Constituição Federal. Precedente (RE 205.999, 16.11.99, Moreira, RTJ 173/263).”
+    No caso em exame, entretanto, Tribunal de origem não decidiu a causa aplicando exclusivamente o referido diploma consumerista, mas, também, outras normas infraconstitucionais, conforme se vê do seguinte trecho conclusivo do voto condutor do acórdão proferido em embargos de declaração:
+    “(...) a decisão colegiada ora revisitada, com apoio em entendimento do Excelso Supremo Tribunal Federal, proferido na ADI 2.591/DF, da Relatoria do Min. Eros Grau, pontificou que as instituições financeiras e seus contratos estão alcançados pelo Código Consumerista.
+    Contudo, esta simples declaração de incidência das normas do CODECON ao pacto, a meu ver, em nada modifica os direitos apreciados, uma vez que o julgamento se fez pela incidência do anatocismo, a partir da tabela price e, ainda, da ocorrência de direito a repetição do indébito, as quais foram julgadas com a sentença. No caso, a não aplicação do Diploma Consumerista em nada altera o resultado da decisão, porquanto a proibição ao anatocismo para a espécie e a vedação a tabela price, por fim, a repetição do indébito não resultam apenas de aplicação do CDC. Lembro, por primeiro que o julgamento se faz a partir de princípios de direito, com uma interpretação sistemática do sistema. Tanto é assim que a repetição do indébito é prevista desde o Código Civil de 1916.”
+    Desse modo, considerando que a parte recorrente não interpôs recurso especial, está preclusa a matéria. Permanecendo hígidos tais fundamentos infraconstitucionais, autônomos e suficientes para a manutenção do acórdão recorrido, aplica-se a Súmula 283/STF:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 04 de abril de 2014.
+Ministro Luís Roberto Barroso
+Relator
