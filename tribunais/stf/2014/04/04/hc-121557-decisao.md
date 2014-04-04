@@ -1,0 +1,45 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Tairone Zubiaurre Demtzuk e outro em favor de Everson da Silva Rodrigues contra decisão monocrática, da lavra do Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça, que indeferiu a liminar no HC 288.747/RS.
+    Em 15.01.2014, o paciente foi preso em flagrante delito, pela suposta prática do crime de tráfico de drogas, tipificado no art. 33 da Lei 11.343/06.
+    O Juízo de Direito 1ª Vara Criminal da Comarca de Gravataí/RS converteu o flagrante em prisão preventiva, aos fundamentos da garantia da ordem pública, da conveniência da instrução criminal e para assegurar a aplicação penal.
+    Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Rio Grande do Sul, que indeferiu o pleito emergencial.
+    Submetida a questão à apreciação do Superior Tribunal de Justiça, o Ministro Sebastião Reis Júnior, Relator do HC 288.747/RS, indeferiu a liminar.
+    Neste writ, a Defesa, preliminarmente, pugna pelo afastamento da Súmula 691/STF. Para tanto, alega a falta de fundamentação idônea do decreto preventiva. Argumenta a existência de circunstâncias favoráveis ao paciente, como primariedade, ocupação lícita e residência fixa.
+    Requer, em medida liminar e no mérito, a concessão de liberdade provisória em favor do paciente ou a imposição de medida cautelar diversa da prisão (art. 319 do Código de Processo Penal).
+    É o relatório.
+    Decido.
+    O presente habeas corpus foi impetrado contra decisão monocrática, da lavra do Ministro Ministro Sebastião Reis Júnior, que indeferiu a liminar no HC 288.747/RS aos seguintes fundamentos:
+    “A concessão de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, principalmente quando se impetra o writ contra decisão do relator que indefere medida liminar em habeas corpus originário.
+    O magistrado converteu o flagrante em prisão preventiva amparada nos seguintes fundamentos (fls. 107/108 – grifo nosso):
+    ‘[...]
+    Por ocasião da revista, localizaram no bolso do condutor do automóvel - o flagrado Marcelo Guessi - um saco contendo cerca de 175 g de maconha. Com o indivíduo que estava na carona – identificado como sendo Everson da Silva Rodrigues - os policiais encontraram 18 tabletes de maconha, já embaladas de forma individual e prontas para a venda. No porta-luvas do automóvel, os policiais apreenderam ainda um tijolo com 775 g de maconha.
+    [...]
+    Com efeito, as particularidades dos autos afastam qualquer alegação de consumo próprio, face a expressiva quantidade de droga apreendida com os conduzidos.
+    Insta registrar a natureza do delito que lhe é imputado, que em muito tumultua a ordem pública, sendo de grande reprovabilidade social, pois sabidamente representa a substrato para outros tantos delitos, causando prejuízo e ameaçando a coletividade e a paz familiar.
+    Não bastasse, analisando o disposto no art. 319 do CPP, não é cabível e conveniente a substituição da prisão cautelar por outra medida alternativa, vez que tais medidas não se mostram eficazes para a garantia da ordem pública, conveniência da instrução criminal e para assegurar a aplicação penal, no caso em tela.
+    Por derradeiro, não há nos autos elementos de que revelem que os acusados possuam vínculo empregatício honesto e endereço certo, tornando-se provável o envolvimento com a delinquência, caso inserido novamente na comunidade’.
+    O Tribunal a quo, por sua vez, manteve a decisão de primeira instância consignando que (fls. 35/40 – grifo nosso):
+    ‘[...]
+    Por outro lado, não podemos olvidar que presentes estavam seus pressupostos (art. 313, inc I), pois as espécies (tráfico e associação para o tráfico) tratam-se de crimes dolosos, punidos com penas privativa de liberdade máximas superiores a 4 anos. Anoto, também, que há prova da existência do fato, conforme anteriormente apontado, e indícios suficientes de autoria. [...]
+    Além disso, na espécie, a quantidade da substância entorpecente apreendida foi vultosa (ao total, 1.005 gramas de maconha) - no caso sub judice poderiam ser confeccionadas: 1005 cigarros, podendo chegar a 2010 cigarros de maconha ("cigarros de maconha: média de 0,5 gramas a 1,0 grama") - e também está a indicar a configuração do injusto previsto no art. 33, caput, da Lei n. 11.343/2006.
+    O fato retratado põe em risco a ordem pública, envolvendo perigo concreto. [...]
+    Por fim, devemos lembrar que a presença de condições pessoais favoráveis (primariedade, bons antecedentes, ocupação lícita e residência fixa) não desautorizam, por si só, a segregação cautelar.
+    [...]’
+    Assim, apesar dos argumentos expendidos no presente habeas corpus, verifica-se que a decisão está fundamentada, principalmente, na quantidade de substância apreendida, mostrando-se necessária, então, a custódia cautelar.
+    Com essas considerações, não tendo, por ora, como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar ora pretendida, com manifesto caráter satisfativo, indefiro-a.
+    Solicitem-se informações à autoridade coatora e ao Juízo de Direito da 1ª Vara Criminal da comarca de Gravataí/RS acerca da atual situação do paciente, encaminhando-se cópia das principais peças do processo.
+    Após, dê-se vista ao Ministério Público Federal”.
+    Registro, desde logo, que, à falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    Todavia, a compreensão expressa em tal verbete sumular tem sido abrandado por julgados desta Suprema Corte apenas em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 104.855/CE, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011 e HC 96.539/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.5.2010.
+    Não vislumbro, na espécie, situação autorizadora do afastamento do mencionado verbete.
+    O Juízo de Direito 1ª Vara Criminal da Comarca de Gravataí/RS converteu a prisão em flagrante em preventiva ao fundamento da garantia da ordem pública, da conveniência da instrução criminal e para assegurar a aplicação penal.
+    O Tribunal de Justiça do Estado do Rio Grande do Sul, ao indeferir a liminar, considerou adequada e suficientemente fundamentada a decretação da prisão cautelar, consignando que “a quantidade da substância entorpecente apreendida foi vultosa (ao total, 1005g de maconha) – no caso sub judice poderiam ser confeccionadas 1005 cigarros, podendo chegar a 2010 cigarros de maconha (“Cigarro de maconha: média de 0,5 gramas a 1,0 grama”) – e também está a indicar a configuração do injusto previsto no artigo 33, caput, da Lei nº 11.343/06”.
+    O caso envolve a apreensão de 1050g (mil e cinquenta gramas) de maconha, além de 18 (dezoito) tabletes da mesma substância, já embaladas de forma individual e prontas para a venda, que são indicativos do maior envolvimento do agente no mundo das drogas.
+    Nesse contexto, se as circunstâncias concretas da prática do crime indicam a periculosidade do paciente, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria (v.g. HC 105.585/SP, HC 112.763/MG e HC 112.364 AgR/DF, precedentes da minha lavra). Dentre eles, destaco o seguinte:
+    “Quando da maneira de execução do delito sobressair a extrema periculosidade do agente, abre-se ao decreto de prisão a possibilidade de estabelecer um vínculo funcional entre o modus operandi do suposto crime e a garantia da ordem pública”. (HC 97.688/MG, Rel. Min. Ayres Britto, 1ª Turma, DJe de 27/11/2009).
+    Além disso, a alegada circunstância de o paciente ser primário, ter ocupação lícita e não ter antecedentes criminais não constitui óbice à decretação ou manutenção da prisão preventiva, desde que preenchidos os pressupostos e requisitos do art. 312 do CPP (HC 108.314/MA, rel. Min. Luiz Fux, 1ª Turma, DJe 5.10.2011; HC 106.816/PE, rel. Min. Ellen Gracie, 2ª Turma, DJe 20.6.2011).
+    Portanto, não vislumbro ilegalidade ou abuso de direito na manutenção da prisão preventiva, conforme fundamentado pelas instâncias anteriores no art. 312 do Código de Processo Penal. Nessa linha, inviável a substituição da constrição cautelar pelas medidas previstas no art. 319 do mesmo diploma legal, que, por si sós, mostram-se insuficientes para garantir a ordem pública, assegurar a aplicação da lei penal e para conveniência da instrução criminal, consoante consignado pelas instâncias anteriores.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de abril de 2014.
+Ministra Rosa Weber
+Relatora
