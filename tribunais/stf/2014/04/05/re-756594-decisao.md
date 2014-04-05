@@ -1,0 +1,40 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE PENSÃO. LEI ESTADUAL N. 15.150/2005: SÚMULA N. 280 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Goiás:
+    “MANDADO DE SEGURANÇA. FALTA DE INTERESSE DE AGIR. DECADÊNCIA. ATO OMISSIVO. INOCORRÊNCIA. PRESCRIÇÃO. INAPLICABILIDADE DO ART. 206, § 2º, DO CÓDIGO CIVIL. PRESTAÇÕES ALIMENTARES. REAJUSTE DE PROVENTOS. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). ART. 15 DA LEI Nº 15.150/2005. CONSTITUCIONALIDADE DECLARADA PELA CORTE ESPECIAL. DIREITO LÍQUIDO E CERTO EVIDENCIADO.
+    I - Não versando a demanda sobre o recebimento de valores pretéritos, uma vez que a importância supostamente devida à impetrante decorre não de cobrança específica e sim de mera consequência patrimonial de eventual concessão da segurança, patente o preenchimento do interesse processual na modalidade adequação.
+    II - Em se tratando de ato omissivo continuado, consistente no não pagamento de reajuste, benefício ou vantagem que o servidor entende devido, o prazo decadencial para impetrar o mandado de segurança se renova mês a mês (continuamente), por envolver obrigação de trato sucessivo.
+    III - O lapso prescricional de dois anos previsto no art. 206, parágrafo 2º, do CC/2002, não se aplica à pretensão de reajuste de pensão por morte, já que o aludido dispositivo versa sobre prestação alimentar, devida em razão da relação de parentesco, o que se amolda ao caso em comento.
+    IV- Não há falar em prescrição do direito às vantagens pleiteadas no writ, pois se está diante de prestações de trato sucessivo, hipótese em que é contínuo o fundo de direito, renovando-se ao longo do tempo, ficando excluídas tão-somente as parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, por incidência do disposto na Súmula 85 do STJ.
+    V- Uma vez reconhecida a constitucionalidade do art. 15 da Lei nº 15.150/2005 pela Corte Especial, em sede de controle difuso, é de ser reconhecido o direito líquido e certo da impetrante, para determinar o reajustamento do seu benefício mesmos percentuais do Regime Geral Previdência Social.
+    VI- A cobrança de verbas retroativas deve ser postulada por meio de ação própria, já que o mandado de segurança não se presta ao alcance deste desiderato, nos termos do disposto nas Súmulas 269 e 271 do STF.
+    SEGURANÇA PARCIALMENTE CONCEDIDA” (grifos nossos).
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 18 e 40 da Constituição da República.
+    Argumenta que
+    “Foi manifestamente equivocado o entendimento sufragado no v. acórdão (feito por remissão ao julgado proferido na arguição de inconstitucionalidade n. 25931770.2010.8.09.0000), de que o art. 15 da Lei Estadual n. 15.150/2005 não padece do vício da inconstitucionalidade; haja vista que não implicou em qualquer forma de ofensa à autonomia do ente federado goiano, tão somente pela singela constatação de que a propositura de lei foi de iniciativa do Governador do Estado.
+    Ora, este fato, por si só, não é capaz de outorgar validade, de modo absoluto, a qualquer lei que o seja, devendo o confronto ser efetivado sob o prisma material, ou seja, o dispositivo estadual combatido geraria confronto direto e imediato com algum normativo previsto na Constituição Federal?
+    A resposta a indagação retro somente pode ser positiva, e isso porque o art. 15 da Lei Estadual n. 15.150/2005 legislou em dessintonia com o que reza o caput do art. 18 da Constituição Federal, violando de maneira inconteste a autonomia do ente federado.
+    (...)
+    A Lei n. 10.887/2004, que regulamentou as alterações constitucionais introduzidas pela EC 41/2003, previu em seu art. 15 que os reajustes dos benefícios dos diversos regimes próprios de previdência social deverão ser concedidos na mesma data em que se der o reajuste dos benefícios do RGPS. Contudo, não diz, em momento algum, que devem ser utilizados os mesmos índices de reajustamento praticados no RGPS, sendo esta justamente a falha contida no art. 15 da Lei Estadual n. 15.150/2005.
+    (...)
+    Portanto, sem sombra de maiores indagações, percebe-se à saciedade que o art. 15 da Lei Estadual n° 15.150/2005 é inconstitucional, por ferir os arts. 18, caput e 40 caput c/c S 8°, violando a cláusula constitucional da isonomia, pois os pensionistas de outras categorias teriam seus reajustes submetidos aos critérios da norma estadual, daí a inconstitucionalidade”.
+    Examinados os elementos havidos no processo, DECIDO.
+    3.  Razão jurídica não assiste ao Recorrente.
+    4. O Tribunal goiano solucionou a lide com base na interpretação e na aplicação da Lei goiana n. 15.150/2005 e do Código Civil, insuscetíveis de reapreciação em recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. LEI MUNICIPAL N. 7.169/1996. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 394.415-AgR, de minha relatoria, Primeira Turma, Dje 23.10.2009, grifos nossos).
+    “Agravo regimental em recurso extraordinário. 2. Progressão funcional dos servidores públicos da Prefeitura Municipal de Belo Horizonte, nos termos da Lei n. 7.169/96 . Matéria infraconstitucional. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 821.118-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 8.2.2011, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PENSÃO. CRITÉRIOS DE REAJUSTE. NECESSIDADE DO EXAME PRÉVIO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 702.230-AgR/GO, de minha relatoria, Segunda Turma, DJe 17.2.2014).
+    Nesse julgado afirmei:
+    “Em 1º de agosto de 2012, neguei seguimento ao agravo nos autos do recurso extraordinário interposto pelo Estado de Goiás contra julgado do Tribunal de Justiça daquele Estado, que determinara o reajuste da pensão em conformidade com o art. 15 da Lei n. 15.150/2005. A decisão agravada teve a seguinte fundamentação:
+    “6. O Tribunal goiano solucionou a lide com base na interpretação e aplicação da Lei goiana n. 15.150/2005, insuscetível de reapreciação em recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. LEI MUNICIPAL N. 7.169/1996. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 394.415-AgR, de minha relatoria, Primeira Turma, Dje 23.10.2009 – grifos nossos).
+    “Agravo regimental em recurso extraordinário. 2. Progressão funcional dos servidores públicos da Prefeitura Municipal de Belo Horizonte, nos termos da Lei n. 7.169/96 . Matéria Supremo Tribunal Federal infraconstitucional. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 821.118-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, Dje 8.2.2011 – grifos nossos).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal)”.
+    Não há, pois, o que prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento a este recurso extraordinário (art. 557, caput , do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de abril de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
