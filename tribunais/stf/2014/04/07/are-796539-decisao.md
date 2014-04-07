@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, a, da Constituição da República.
+    2. A Quarta Turma Recursal Cível da Comarca de Uberlândia/MG decidiu:
+    “Nas ações para o recebimento de seguro obrigatório é incontroverso que não incide o prazo de 01 (um) ano previsto no art. 206, § 1º, II, do Código Civil em vigor, ou no art. 178, § 6º, II, do Código Civil revogado, mas sim os prazos prescricionais de 20 (vinte) anos (CC/1916, art. 177) ou de 03 (três) anos (CC/2002, art. 206, § 3º, IX), conforme a regra de transição contida no art. 2.028 do atual Código Civil em vigor (art. 189), segundo a qual a prescrição começa o seu curso no momento em que o direito de ação nasce, no caso a partir do efetivo conhecimento da invalides permanente.
+    Pelo que decorre dos autos, a autora tomou conhecimento efetivo de sua invalidez desde o próprio acidente (14 de novembro de 1998), embora tenha sido o laudo elaborado em 20 julho de 2011, sem comprovação, entretanto, da continuidade do tratamento até então, não havendo nenhum elemento que induza a ocorrência de interrupção do prazo prescricional.
+    Segundo a regra transitória ditada pelo art. 2.028 do CC/2002, pois não havia transcorrido mais da metade do prazo previsto na lei anterior na data da entrada em vigor do referido Código, que agora, repetindo, prevê expressamente prazo prescricional diminuto para pleitear indenização de seguro obrigatório.
+    Destarte, considerando-se como termo inicial o lapso prescricional a data da entrada em vigor do novo Código Civil, 11 de janeiro de 2003, e data da distribuição desta ação, 03 de agosto de 2011, concluiu-se que o direito de ação da autora realmente está prescrito.
+    Com estes fundamentos, nego provimento ao recurso (…)” (fls. 135-136).
+    Os embargos de declaração opostos pela Agravante foram rejeitados.
+    3. No recurso extraordinário, o Agravante afirma que a Turma Recursal teria contrariado o art. 5º, incs. XXXV e LV, da Constituição da República.
+    Sustenta que “quanto ao contraditório e ampla defesa, nela incluído o direito assegurado à parte de ver seus argumentos considerados, já esta pacificamente posicionado no STF que tem a parte direito a ter sua tutela jurídica aplicada de forma efetiva” (fl. 181).
+    4. O fundamento adotado, na decisão agravada, para a inadmissibilidade do recurso extraordinário foi a sua intempestividade.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Inicialmente, cumpre afastar o fundamento da decisão agravada, por ser o recurso tempestivo.
+    Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão da Agravante.
+    7. Razão jurídica não assiste à Agravante.
+    8. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Código de Processo Civil e Código Civil). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR E PROCESSUAL CIVIL. CADERNETA DE POUPANÇA. EXIBIÇÃO DE EXTRATOS E DANOS MORAIS. PRESCRIÇÃO. 1. Inexistência de contrariedade ao art. 93, inc. IX, da Constituição da República. 2. Alegada contrariedade aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal. Necessidade de análise de matéria infraconstitucional: ofensa constitucional indireta. Precedentes. 3. Agravo regimental ao qual se nega provimento.” (ARE 727.227-AgR, de minha relatoria, Segunda Turma, DJe 2.4.2013, grifos nossos).
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009, grifos nossos).
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Negativa de prestação jurisdicional. Não ocorrência. Recurso Extraordinário contra acórdão do STJ. Análise de questão decidida em segundo grau. Impossibilidade. Prescrição. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 2. Não se admite recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça no qual se suscite questão resolvida na decisão de segundo grau. 3. Inadmissível, em recurso extraordinário, a análise de suposta violação da Constituição Federal quando, para sua verificação, for necessária anterior interpretação da legislação infraconstitucional. 4. Agravo regimental não provido.” (ARE 771.092-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 26.11.2013, grifos nossos).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de abril de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
