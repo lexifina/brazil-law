@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. INSTITUIÇÕES FINANCEIRAS. CAPITALIZAÇÃO. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE: SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INCS. II, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+    “PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO EXTRAJUDICIAL. INEXISTÊNCIA DE VÍCIO DE CONSENTIMENTO. FORÇA OBRIGATÓRIA DO CONTRATO. ANATOCISMO. APELAÇÃO NÃO PROVIDA.
+    1. Apelação interposta em desfavor de sentença que acolheu parcialmente os embargos à execução extrajudicial e os julgou procedente em parte constatando excesso de execução relacionado aos valores relativos aos honorários advocatícios fixados pela parte.
+    2. No tocante à alegação de vício de consentimento, por ter obrigada pelo gerente da instituição bancária a assinar o contrato de empréstimo, sob pena de ter o nome incluído no Serasa, verifica-se que os Apelantes não comprovam tal situação, limitando-se a alegá-la.
+    3. Constata-se que o contrato foi assinado pelas partes, sem violação à liberdade de contratar ou qualquer outra pecha que possa invalidar o negócio jurídico. Sendo assim, deve ser reconhecido o ato jurídico perfeito e a força obrigacional do contrato.
+    4. No tocante à alegação de anatocismo, destaco que a limitação da cobrança de taxa de juros não se aplica às instituições financeiras, a teor da Súmula nº 596, do Supremo Tribunal Federal, razão pela qual não vislumbro qualquer ilegalidade nas taxas aplicadas. Inexiste pecha a ser apontada na cláusula 9ª do contrato, que estipulou a taxa de rentabilidade de 5,32%, [pois pactuada entre as partes].
+    5. Apelação não provida.”
+    2. A Agravante alega que o Tribunal a quo teria contrariado o art. 5º, incs. II, LIV e LV, da Constituição da República.
+    Sustenta que “a suplicada, de forma abusiva, na cláusula 9 do contrato de empréstimo, estipulou taxa de rentabilidade de 5,3200000% ao mês, obtendo-se a taxa final calculada de forma capitalizada, ou seja, anatocismo, capitalização de juros que é prática vedada na legislação pátria, conforme o enunciado da Súmula 121 do STF.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. O Tribunal de origem decidiu com base em dois fundamentos, um infraconstitucional (Código Civil, previsão contratual) e outro constitucional (Súmula n. 596 do Supremo Tribunal Federal).
+    O fundamento infraconstitucional persiste. O Superior Tribunal de Justiça negou seguimento ao agravo em recurso especial, o que atrai a incidência da Súmula n. 283 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PRECLUSÃO DO FUNDAMENTO INFRACONSTITUCIONAL AUTÔNOMO DO JULGADO RECORRIDO (LEI N. 8.112/1990): INCIDÊNCIA DA SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 664.681-AgR, de minha relatoria, Primeira Turma, DJe de 15.6.2012).
+    “RECURSO EXTRAORDINÁRIO ACÓRDÃO DUPLO FUNDAMENTO SUBSISTÊNCIA DE FUNDAMENTO AUTÔNOMO. Se o acórdão prolatado e impugnado mediante o extraordinário estiver assentado em duplo fundamento, sendo um deles ligado a interpretação de normas estritamente legais e locais, descabe ter o extraordinário como enquadrado no permissivo que lhe é próprio” (RE 383.622-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 16.5.2011).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. 1. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 2. EXISTÊNCIA, NO ACÓRDÃO RECORRIDO, DE FUNDAMENTO AUTÔNOMO QUE NÃO FOI AFASTADO NAS RAZÕES DO RECURSO EXTRAORDINÁRIO. 1. Na esteira da pacífica jurisprudência do Supremo Tribunal Federal, o reexame de legislação infraconstitucional é providência que não tem lugar na via recursal extraordinária. 2. É inadmissível o recurso extraordinário, quando a decisão recorrida está calcada em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF). Agravo regimental desprovido (RE 466.814-AgR, Relator Ministro Ayres Britto, Segunda Turma, DJe 19.3.2012).
+    6. Ademais, este Supremo Tribunal assentou que as alegações de contrariedade aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, poderiam configurar, se fosse o caso, ofensa constitucional indireta:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 806.616-AgR, de minha relatoria, Primeira Turma, DJe 24.11.2010).
+     Nada há a prover quanto à alegação da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de abril de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
