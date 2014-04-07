@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 60, de 20 de fevereiro de 2014
+ASSUNTO: Imposto sobre a Renda de Pessoa Física – IRPF EMENTA: ALIENAÇÃO DE IMÓVEIS RESIDENCIAIS. GANHO DE CAPITAL. ISENÇÃO. ART. 39 DA LEI N.º 11.196, DE 2005. Para fins da isenção prevista no art. 39 da Lei n.º 11.196/2005, integram o valor de aquisição do novo imóvel o valor do imposto de transmissão (ITBI) e as despesas com a escritura e o registro do imóvel, cujo ônus tenha sido do adquirente, desde que comprovados com documentação hábil e idônea. DISPOSITIVOS LEGAIS: Lei n.º 11.196, de 2005, art. 39; Instrução Normativa SRF n.º 84, de 2001, art. 17, I; Instrução Normativa SRF n.º 599, de 2005, art. 4º.
+[arquivo anexo: SC Cosit nº 60-2014.pdf]
