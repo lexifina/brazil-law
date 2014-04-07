@@ -1,0 +1,7 @@
+Decisão: 1. Trata-se de mandado de segurança contra decisão proferida pelo Conselho Nacional de Justiça, nos autos do Procedimento de Controle Administrativo 200810000033473, que manteve decisão do Presidente do TJ-MG, no sentido da dispensa do impetrante da função de Oficial de Justiça. Aduz o impetrante, em síntese, que o CNJ, ao não conhecer do pedido formulado no referido procedimento administrativo, por entender que a questão se restringiria a interesse individual, não possuindo repercussão nacional, teria desrespeitado o disposto nos arts. 5º, XXXIV, e 103-B, § 4º, II, da CF/88. A liminar foi indeferida (fl. 84). A autoridade impetrada prestou informações (fls. 89-91). o Procurador-Geral da República, em parecer de fls. 94-96, manifestou-se pela denegação da segurança.
+    2. A jurisprudência do Plenário desta Corte não admite a impetração de mandado de segurança contra deliberação negativa do Conselho Nacional de Justiça, ou seja, em face de ato que não modificou decisão de outro órgão do Judiciário: MS 27763-AgR/DF, Pleno, Rel. Min. Dias Toffoli, DJe de 22/02/2013; MS 31896-AgR/DF, Pleno, Rel. Min. Cármen Lúcia, DJe de 25/10/2013; MS 28549-AgR-ED/DF, Pleno, Rel. Min. Dias Toffoli, DJe de 29/10/2013; MS 27764-AgR/DF, Pleno, Rel. Min. Ricardo Lewandowski, DJe de 21/02/2013; MS 27712-AgR/DF, Pleno, Rel. Min. Celso de Mello, DJe de 01/09/2011.
+    3. Diante do exposto, nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 07 de abril de 2014.
+Ministro Teori Zavascki
+Relator
