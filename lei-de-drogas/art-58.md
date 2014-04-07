@@ -1,3 +1,1 @@
 Art. 58. Encerrados os debates, proferirá o juiz sentença de imediato, ou o fará em 10 (dez) dias, ordenando que os autos para isso lhe sejam conclusos.
-§ 1º Ao proferir sentença, o juiz, não tendo havido controvérsia, no curso do processo, sobre a natureza ou quantidade da substância ou do produto, ou sobre a regularidade do respectivo laudo, determinará que se proceda na forma do art. 32, § 1º, desta Lei, preservando-se, para eventual contraprova, a fração que fixar.
-§ 2º Igual procedimento poderá adotar o juiz, em decisão motivada e, ouvido o Ministério Público, quando a quantidade ou valor da substância ou do produto o indicar, precedendo a medida a elaboração e juntada aos autos do laudo toxicológico.
