@@ -1,5 +1,5 @@
-Art. 32. As plantações ilícitas serão imediatamente destruídas pelas autoridades de polícia judiciária, que recolherão quantidade suficiente para exame pericial, de tudo lavrando auto de levantamento das condições encontradas, com a delimitação do local, asseguradas as medidas necessárias para a preservação da prova.
-§ 1º A destruição de drogas far-se-á por incineração, no prazo máximo de 30 (trinta) dias, guardando-se as amostras necessárias à preservação da prova.
-§ 2º A incineração prevista no § 1º deste artigo será precedida de autorização judicial, ouvido o Ministério Público, e executada pela autoridade de polícia judiciária competente, na presença de representante do Ministério Público e da autoridade sanitária competente, mediante auto circunstanciado e após a perícia realizada no local da incineração.
+Art. 32. As plantações ilícitas serão imediatamente destruídas pelo delegado de polícia na forma do art. 50-A, que recolherá quantidade suficiente para exame pericial, de tudo lavrando auto de levantamento das condições encontradas, com a delimitação do local, asseguradas as medidas necessárias para a preservação da prova.
+§ 1º (Revogado).
+§ 2º (Revogado).
 § 3º Em caso de ser utilizada a queimada para destruir a plantação, observar-se-á, além das cautelas necessárias à proteção ao meio ambiente, o disposto no Decreto nº 2.661, de 8 de julho de 1998, no que couber, dispensada a autorização prévia do órgão próprio do Sistema Nacional do Meio Ambiente - Sisnama.
 § 4º As glebas cultivadas com plantações ilícitas serão expropriadas, conforme o disposto no art. 243 da Constituição Federal, de acordo com a legislação em vigor.
