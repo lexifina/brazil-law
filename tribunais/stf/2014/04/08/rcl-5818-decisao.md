@@ -1,0 +1,26 @@
+Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pelo Município de Volta Redonda/RJ contra ato praticado pelo Presidente do Tribunal de Justiça do Estado do Rio de Janeiro, que supostamente teria violado a decisão desta Corte na ADI 1.662/SP.
+    O município reclamante alega, em suma, que a autoridade reclamada determinou, à margem das disposições constitucionais a respeito do regime de precatórios, o sequestro de parcelas de precatório oriundo de pagamento de valor indenizatório por desapropriação de imóvel destinado a construção de “Centro Integrado de Educação Pública” (CIEP).
+    Sustenta que o ato reclamado descumpriu a decisão proferida na ADI 1.662/SP, razão pela qual é cabível a reclamação.
+    O Ministro Menezes Direito, em minha ausência, indeferiu a liminar (fls. 148-151).
+    A autoridade reclamada prestou informações às fls. 184-186.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Francisco de Assis Vieira Sanseverino, opinou pela improcedência do pedido (fls. 268-271).
+    É o breve relatório. Decido.
+    Bem examinados os autos, verifico que o pedido não merece prosperar.
+    O acórdão proferido na ADI 1.662/SP possui a seguinte ementa:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. INSTRUÇÃO NORMATIVA 11/97, APROVADA PELA RESOLUÇÃO 67, DE 10.04.97, DO ÓRGÃO ESPECIAL DO TRIBUNAL SUPERIOR DO TRABALHO, QUE UNIFORMIZA PROCEDIMENTOS PARA A EXPEDIÇÃO DE PRECATÓRIOS E OFÍCIOS REQUISITÓRIOS REFERENTES ÀS CONDENAÇÕES DECORRENTES DE DECISÕES TRANSITADAS EM JULGADO.
+    1. Prejudicialidade da ação em face da superveniência da Emenda Constitucional 30, de 13 de setembro de 2000. Alegação improcedente. A referida Emenda não introduziu nova modalidade de seqüestro de verbas públicas para a satisfação de precatórios concernentes a débitos alimentares, permanecendo inalterada a regra imposta pelo artigo 100, § 2º, da Carta Federal, que o autoriza somente para o caso de preterição do direito de precedência do credor. Preliminar rejeitada.
+    2. Inconstitucionalidade dos itens III e XII do ato impugnado, que equiparam a não-inclusão no orçamento da verba necessária à satisfação de precatórios judiciais e o pagamento a menor, sem a devida atualização ou fora do prazo legal, à preterição do direito de precedência, dado que somente no caso de inobservância da ordem cronológica de apresentação do ofício requisitório é possível a decretação do seqüestro, após a oitiva do Ministério Público.
+    3. A autorização contida na alínea b do item VIII da IN 11/97 diz respeito a erros materiais ou inexatidões nos cálculos dos valores dos precatórios, não alcançando, porém, o critério adotado para a sua elaboração nem os índices de correção monetária utilizados na sentença exeqüenda. Declaração de inconstitucionalidade parcial do dispositivo, apenas para lhe dar interpretação conforme precedente julgado pelo Pleno do Tribunal.
+    4. Créditos de natureza alimentícia, cujo pagamento far-se-á de uma só vez, devidamente atualizados até a data da sua efetivação, na forma do artigo 57, § 3º, da Constituição paulista. Preceito discriminatório de que cuida o item XI da Instrução. Alegação improcedente, visto que esta Corte, ao julgar a ADIMC 446, manteve a eficácia da norma.
+    5. Declaração de inconstitucionalidade dos itens III, IV e, por arrastamento, da expressão "bem assim a informação da pessoa jurídica de direito público referida no inciso IV desta Resolução", contida na parte final da alínea c do item VIII, e, ainda, do item XII, da IN/TST 11/97, por afronta ao artigo 100, §§ 1º e 2º, da Carta da República.
+    6. Inconstitucionalidade parcial do item IV, cujo alcance não encerra obrigação para a pessoa jurídica de direito público.
+    Ação direta de inconstitucionalidade julgada procedente em parte”.
+    Com efeito, a ação direta de inconstitucionalidade apontada como paradigma nesta reclamação buscava a declaração de inconstitucionalidade da Instrução Normativa 11/97, aprovada pelo Órgão Especial do Tribunal Superior do Trabalho, cujo objetivo era a uniformização dos procedimentos relativos às execuções contra a Fazenda Pública.
+    Como bem observado no parecer ministerial, a referida IN 11/97 não produzia efeitos além da Justiça do Trabalho, não alcançando, portanto, ato praticado pelo Tribunal de Justiça carioca.
+    Assim, diante da ausência de identidade material entre os fundamentos do ato reclamado e o que foi efetivamente decidido na ação direta de inconstitucionalidade apontada como paradigma, não merece prosperar a pretensão do reclamante.
+    Vale o registro de que o instrumento da reclamação, conforme pacífica jurisprudência do Supremo Tribunal Federal, não pode ser utilizado como sucedâneo recursal ou ação rescisória. Nesse sentido cito os seguintes precedentes: Rcl 9.823-AgR/RO, Rel. Min. Dias Toffoli; Rcl 8.176-AgR/RN, Rel. Min. Teori Zavascki; Rcl. 10.098-AgR/SP, Rel. Min. Cármen Lúcia; Rcl 10.690-AgR/RS, Rel. Min. Celso de Mello, entre outras.
+    Isso posto, julgo improcedente esta reclamação, ficando prejudicado o exame dos embargos de declaração opostos às fls. 153-163.
+    Publique-se.
+    Brasília, 8 de abril de 2014.
+Ministro Ricardo Lewandowski
+Relator
