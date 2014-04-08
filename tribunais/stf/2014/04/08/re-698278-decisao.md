@@ -1,0 +1,16 @@
+Inicialmente, cumpre registrar que não consta dos autos a petição do recurso extraordinário interposto pela União. Por este motivo, em 4/4/2013, determinei que a Secretaria do Supremo Tribunal oficiasse o Tribunal de origem para envio dos autos físicos do Agravo de Instrumento 2008.04.00.000176-3/RS (fl. 565).
+    Em resposta, a Secretaria de Recursos do Tribunal Regional Federal da 4ª Região informou que os referidos autos não haviam sido localizados (fls. 570-571).
+    Os autos foram conclusos ao meu gabinete em 1º/7/2013 (fl. 572). Desde então, as partes quedaram silentes. Todavia, a jurisdição deve ser prestada.
+    Consequentemente, e com base principalmente nos princípios da celeridade e economia processuais, analisarei o recurso com os dados constantes dos autos, os quais são suficientes para julgá-lo, de maneira prudente.
+    Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “AGRAVO DE INSTRUMENTO. CONVERSÃO EM RENDA DA UNIÃO DOS DEPÓSITOS JUDICIAIS. IMPOSSIBILIDADE EM FACE DO TRIBUTO A QUE SE REFEREM TER SIDO DECLARADO INCONSTITUCIONAL PELO STF. É indevida conversão em renda da União dos depósitos judiciais pertinentes a contribuições incidentes sobre pagamentos feitos a autônomos e administradores, sob a égide do art. 3º, inc. I, da Lei nº 7.787/89, cuja inconstitucionalidade foi reconhecida pelo STF em controle difuso de constitucionalidade -, mas que tenha sido objeto de Resolução pelo Senado Federal (nº 14/95), de forma a atribuir-lhe efeito ‘erga omnes’, editada anteriormente ao trânsito em julgado da decisão judicial desfavorável ao contribuinte”(fl. 452).
+    Neste RE, ao que se depreende, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 5º, inc. XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    A verificação, no caso concreto, da ocorrência de violação à coisa julgada demandaria o reexame das normas infraconstitucionais pertinentes, sendo certo que eventual ofensa à Constituição seria meramente indireta. Nesse sentido, cito o AI 733.272-AgR/SP, Rel. Min. Celso de Mello, cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. (...). - A discussão em torno da integridade da coisa julgada, por reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da ‘res judicata’, torna incabível o recurso extraordinário. É que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição - por supor o exame, ‘in concreto’, dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada - traduz matéria revestida de índole infraconstitucional, podendo caracterizar situação de eventual conflito indireto com o texto da Carta Política (RTJ 182/746), circunstância que pré-exclui a possibilidade de adequada utilização do recurso extraordinário. Precedentes”.
+    Cito, ainda, a seguinte decisão: AI 841.984/RJ Rel. Min. Luiz Fux.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 8 de abril de 2014.
+Ministro RICARDO LEWANDOWSKI
+Relator
