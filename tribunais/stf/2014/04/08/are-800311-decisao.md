@@ -1,0 +1,41 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INEXISTÊNCIA DE SEDE DE VARA FEDERAL NO MUNICÍPIO DE DOMICÍLIO DO RÉU. COMPETÊNCIA DEFERIDA À JUSTIÇA ESTADUAL. RECONHECIMENTO DE OFÍCIO. LEGALIDADE. PRECEDENTES. RECURSO IMPROVIDO.
+    1 - Cuida-se de agravo de instrumento interposto contra decisão que declinou da competência para processar e julgar o feito em favor do Juízo de Direito da Comarca de Araruama.
+    2 - O artigo 578, V, do CPC dispõe que a execução fiscal será proposta no foro do domicílio do réu, e que, se não o tiver, no de sua residência ou no lugar onde for encontrado, inexistindo óbice ao reconhecimento de ofício pelo juiz da incompetência que deriva da não observância do mencionado dispositivo legal.
+    3 - Não se trata de competência territorial, mas de competência funcional, sendo, portanto, absoluta e declinável de ofício. Se ambas as varas encontram-se localizadas na mesma Seção Judiciária, o aspecto que define a competência não será outro que não o funcional.
+    4 - O processamento da execução fiscal em local diverso do foro do domicílio do réu, além de contrariar dispositivo de lei, impõe desnecessária onerosidade e morosidade aos atos processuais praticados, tendo em vista a necessidade de expedição de cartas precatórias, por exemplo.
+    5 - Agravo de instrumento improvido”.
+    Opostos embargos de declaração, não foram providos.
+    Sustenta a agravante, nas razões do recurso extraordinário, violação dos artigos 5º, caput e inciso LXXVIII, 37, 109, inciso I e § 3º, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar das petições recursais terem trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o acórdão recorrido não se afastou da orientação jurisprudencial desta Suprema Corte que, nas comarcas do interior onde não haja o devido funcionamento de Vara da Justiça Federal, reconhece a competência dos Juízes Estaduais para o processamento de execuções fiscais da União e de suas autarquias, ajuizadas contra devedores domiciliados em suas respectivas comarcas, conforme disposto no artigo 15, inciso I, da Lei nº 5.010/66.
+    Especificamente sobre o tema, transcrevo o teor da recentíssima decisão proferida pelo Ministro Gilmar Mendes, em caso idêntico ao presente, nos autos do ARE nº 800.456/RJ (DJe de 21/3/14), que bem aborda a questão:
+    “Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 2ª Região ementado nos seguintes termos:
+    ‘COMPETÊNCIA FUNCIONAL. DOMICÍLIO DO DEVEDOR.
+    1. Nas comarcas do interior onde não funcionar Vara da Justiça Federal, os Juízes Estaduais são competentes para processar e julgar os executivos fiscais da União e de suas autarquias, ajuizados contra devedores domiciliados nas respectivas comarcas. Inteligência dos artigos art. 109, §3º, da Constituição da República, 15, I da Lei nº 5.010/ 1966, e 578, do Código de Processo Civil.
+    2. A chamada competência federal delegada, em que o Juízo Estadual está investido na jurisdição federal, visa facilitar o acesso à Justiça nas comarcas do interior, facilitando o exercício da defesa pelos devedores tios executivos fiscais.
+    3. A hipótese não é de competência territorial, mas funcional, cognoscível de oficio. Precedentes desta Corte.
+    4. Acertada a decisão do Juízo da 2' Vara Federal de São Pedro da Aldeia/RJ que remeteu a execução fiscal ao Juízo de Direito de Cabo Frio/RJ, município de domicílio do devedor.
+    5. Agravo de instrumento improvido’. (eDOC 1, p. 47)
+    Opostos embargos de declaração, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 109, § 3º, do texto constitucional.
+    Nas razões recursais, argumenta-se, em síntese, que a delegação de competência da justiça federal para a justiça estadual deve ser interpretada de forma restritiva. Ademais, sustenta-se que ao presente caso deve ser aplicada a competência territorial.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque o acórdão recorrido está em sintonia com a jurisprudência desta Corte, que se firmou no sentido de que, nas comarcas do interior onde não funcione Vara da Justiça Federal, os Juízes Estaduais serão competentes para apreciar os executivos fiscais da União e de suas autarquias, ajuizados contra devedores domiciliados nas respectivas comarcas nos termos do artigo 15, I, da Lei n. 5.010/1966.
+    ‘CONSTITUCIONAL. PROCESSO CIVIL. COMPETÊNCIA. EXECUÇÃO FISCAL. JUSTIÇA FEDERAL. ART. 109, I E § 3º. EMPRESA PÚBLICA FEDERAL CONTRA INSS. 1. Embora o presente processo envolva duas entidades federais: uma autarquia, na condição de autora, e uma empresa pública, na posição de ré, a recorrente é domiciliada em cidade onde existe apenas vara estadual, o que atrai a exceção criada no § 3º do art. 109 da CF/88. 2. A regra do inciso I do art. 15 da Lei 5.010/66, ao mesmo tempo que buscou facilitar a defesa do contribuinte, procurou garantir a própria eficácia da execução fiscal. 3. É evidente que atos como citação e penhora tornam-se mais fáceis e geram menos custos se o processo tramitar na mesma cidade da sede do devedor do tributo. A tramitação do feito perante uma das Varas Federais da Subseção Judiciária de São José dos Campos acarretaria desarrazoada demora na resolução do processo e inegável prejuízo à própria prestação jurisdicional. 4. Recurso extraordinário conhecido e improvido’ (RE 390.664, Rel. Min. Ellen Gracie, Segunda Turma, DJ 16.9.2005).
+    ‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXECUÇÃO FISCAL. EMPRESA PÚBLICA FEDERAL. COMPETÊNCIA. ARTIGO 109, I E § 3º DA CB/88. 1. Nas comarcas do interior onde não funcione Vara da Justiça Federal, os Juízes Estaduais serão competentes para apreciar os executivos fiscais da União e de suas autarquias, ajuizados contra devedores domiciliados nas respectivas comarcas. 2. Incide aqui o disposto no artigo 15, I, da Lei n. 5.010/66. Agravo regimental a que se nega provimento.’ (RE-AgR 232.472, Rel. Min. Eros Grau, Segunda Turma, DJe 15.8.2008).
+    Dessa forma, não há que prover quanto às alegações recursais.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (arts. 21, §1º, RISTF e 544, §4º, II, “b”, do CPC)”.
+    Nesse mesmo sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT. IMPENHORABILIDADE DOS BENS. EXECUÇÃO FISCAL. OBSERVÂNCIA DO REGIME DE PRECATÓRIOS. COMPETÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Os bens, as rendas e os serviços da Empresa Brasileira de Correios e Telégrafos são impenhoráveis, e a execução deve observar o regime de precatórios. 2. Nas comarcas onde não há Vara da Justiça Federal, os Juízes Estaduais são competentes para apreciar a execução fiscal” (RE nº 393.032/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 18/12/09)..
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 08 de abril de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
