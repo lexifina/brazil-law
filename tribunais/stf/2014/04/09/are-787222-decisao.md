@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “FURTO QUALIFICADO – Autoria e materialidade delitivas perfeitamente demonstradas – Prova robusta a admitir a condenação dos réus – Suficiência da fixação da pena-base, com o acréscimo de um sexto, pela reincidência, para o corréu Rogério e manutenção da reprimenda para o corréu Ivanildo – Regimes prisionais fixados corretamente – Recurso parcialmente provido para o corréu Rogério e não provido para o corréu Ivanildo”. (fl. 279)
+    Narra a denúncia que, no dia 3 de janeiro, na cidade de Dois Córregos/SP, a vítima efetuou uma corrida de mototáxi com o recorrente. “Ao chegar em seu domicílio percebeu que tinha perdido sua carteira, no qual possuía seu cartão de crédito e a senha sob respectivo objeto. Após o fato, a vítima informou à polícia a perda de sua carteira e que havia sido avisado pelo Banco que haviam sacado dinheiro de sua conta (através do cartão perdido).
+    A Polícia de posse das informações acolhidas, em diligência, obteve acesso à filmagem das câmara de segurança do Banco do Brasil, no qual reconheceu os indivíduos, tratando-se dos denunciados acima citados (laudo fls. 20/24)”.
+    Após o regular trâmite da instrução processual, o Juízo da Vara Única da Comarca de Dois Córregos/SP condenou o réu à pena de 2 anos, 8 meses de reclusão e mais 20 dias-multa, pela prática do delito descrito no art. 155, § 4º, inciso IV, c/c art. 29, todos do Código Penal, a ser cumprida no regime inicial fechado.
+    Irresignada, a defesa interpôs recurso de apelação perante o Tribunal Paulista, postulando, em suma, a absolvição em razão da insuficiência probatória. Pleiteou, também, o não reconhecimento da qualificadora do concurso de pessoas, reduzindo-se, assim, a pena-base ao seu patamar mínimo. E, por fim, sustentou a possibilidade da imposição da pena no regime menos gravoso e de substituição da pena.
+    A 7ª Câmara de Direito Criminal do TJ/SP julgou parcialmente procedente o recurso para reduzir a pena-base para o seu mínimo legal, totalizando a pena definitiva em 2 anos e 4 meses de reclusão, além de 11 dias-multa, mantendo-se, no mais, no termos em que proferida, a sentença de primeiro grau.
+    Daí a interposição do recurso extraordinário, que se fundamenta no art. 102, III, “a” , do texto constitucional, sustentando a repercussão geral da matéria tratada nos autos.
+    O recorrente reitera os pedidos pretéritos.
+    O Tribunal a quo negou trânsito ao recurso por óbice dos Enunciados 279, 282 e 284 da Súmula desta Corte.
+    É o relatório.
+    Decido.
+    O recorrente pleiteia a possibilidade de aplicação da pena-base em seu mínimo legal e, consequentemente, a redução de sua reprimenda, bem como a conversão da pena privativa de liberdade em restritivas de direitos. Contudo, o recurso não merece acolhimento.
+    Conforme se extrai do conteúdo probatório constante dos autos, o Tribunal a quo já redimensionou a pena-base do acusado ao mínimo legal, realizando nova dosimetria mais adequada às características do delito. Para tanto fundamentou:
+    “Com efeito, quanto ao corréu Rogério, apesar das circunstâncias em que ocorreram os fatos, mostrou-se exagerado o aumento da pena-base, pelo que se fixa, agora, no seu mínimo legal, ou seja 02 (dois) anos de reclusão e pagamento de 10 (dez) dias-multa, acrescida, agora, de 1/6 pela reincidência, totalizando, definitivamente, em 02 (dois) anos e 04 (quatro) meses de reclusão, regime inicial fechado e pagamento de 11 (onze) dias-multa, valor mínimo legal, permanecendo neste patamar, na ausência de outras circunstâncias que possam modificá-la”. (fl. 281)
+    Portanto, não procede a alegação de equívoco suscitada pela parte.
+    Conforme jurisprudência desta Suprema Corte, a dosimetria da pena submete-se a certa discricionariedade judicial. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+    Desse modo, o acórdão impugnado atende aos princípios da proporcionalidade e individualização da pena e o recurso extraordinário decorre de mero inconformismo da parte, que não aceita seus fundamentos. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente.
+    Quanto à conversão da reprimenda em penas restritivas de direitos, também não merece prosperar.
+    O Magistrado de 1º grau, ao dispor sobre a reincidência do apenado afirmou o seguinte:
+    “No mais, tendo em vista os maus antecedentes do réu e bem assim, sua reincidência, deve ser reconhecida a aplicabilidade do regime fechado para o início do desconto da reprimenda, nos termos do art. 33, § 3º, do Código penal. O regime mais severo justifica-se porque o acusado tem se revelado criminoso contumaz e, desse modo, regime mais brando será insuficiente para se atingir os fins da pena.
+    Incabível qualquer benefício legal ao acusado, uma vez que ele não atende aos requisitos de ordem subjetiva”. (fl. 201)
+    Assim, não vislumbro ilegalidade manifesta a ser sanada por esta Corte, tendo em vista que o juízo sentenciante fundamentou seu convencimento baseado na legislação penal vigente, qual seja, arts. 33, §§ 2º e 3º e 44, § 3º, ambos do Código Penal.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, b, do CPC).
+    Publique-se.
+    Brasília, 9 de abril de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
