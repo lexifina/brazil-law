@@ -1,0 +1,26 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 1º e 5º, incisos LIV e LV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão do Grupo II da Segunda Câmara Cível do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “Apelação Cível. Servidores Públicos Estaduais. A Administração Pública é regida pelo Princípio da legalidade estrita, só estando autorizada a agir quando houver previsão legal. Os autores não se desincumbiram de comprovar a legalidade da complementação salarial pleiteada. Não ficou evidenciada nos autos a ilegalidade do Decreto nº 15.260/95 para justificar sua nulidade. Sentença mantida. Recurso improvido.”
+    Opostos embargos de declaração, foram desprovidos.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que os dispositivos apontados como violados carecem do necessário prequestionamento, sendo certo que essas normas não foram objetos dos acórdãos recorridos. Incidência da Súmula n° 282 desta Corte. Anote-se que o fato do recorrente ter trazido as questões constitucionais no bojo dos embargos de declaração não é bastante para suprir o requisito do prequestionamento, a teor da Súmula nº 356/STF. Ocorre que, não obstante a oposição dos embargos, o recurso de apelação não suscitou as referidas questões, hipótese em que já não se prestam os embargos declaratórios opostos contra o acórdão de segundo grau a suscitá-las pela primeira vez. Nesse sentido:
+    “1. Recurso extraordinário: descabimento: dispositivo constitucional dado por violado (CF, art. 5º, II) não analisado pelo acórdão recorrido: incidência das Súmulas 282 e 356.
+    2. Embargos de declaração, prequestionamento e Súmula 356. Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada.
+    3. Recurso extraordinário: inadmissibilidade: alegada violação a dispositivo constitucional que, se ocorresse, seria reflexa ou indireta, que não enseja exame no recurso extraordinário: incidência, mutatis mutandis, da Súmula 636” (AI nº 596.757/RS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 10/11/06).
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL.
+    1. Ao contrário do que sustenta o agravante, os embargos de declaração, para fins de prequestionamento, servem para suprir omissão do acórdão recorrido em relação à matéria suscitada no recurso cabível ou nas contra-razões e não para inovar matéria constitucional não debatida nos autos.
+    2. Ausente o prequestionamento do art. 129, III, da Constituição, dado como contrariado. Não prescinde desse requisito, inerente ao cabimento do recurso de natureza extraordinária, a circunstância de poder a ilegitimidade ativa ad causam ser analisada em qualquer grau de jurisdição.
+    3. Agravo regimental improvido”   (RE nº 434.420/DF-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 14/6/05).
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente (decretos e resoluções). Assim, o acolhimento da pretensão recursal demandaria o reexame da referida legislação e do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280/STF. Sobre o tema:
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 15/4/05).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. CRÉDITO EDUCATIVO. JUROS PACTUADOS EM CONTRATO. IMPOSSIBILIDADE DO REEXAME DE LEGISLAÇÃO INFRACONTRATUAL E DE NORMAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS N. 279 E N. 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 829.893/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 11/4/11).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de abril de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
