@@ -1,0 +1,32 @@
+DECISÃO
+    Universidade Federal do Rio Grande do Sul – UFRGS interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Terceira Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PREVIDENCIÁRIO. PROFESSOR UNIVERSITÁRIO. APOSENTADORIA COMPULSÓRIA. PROPORCIONALIDADE. REDAÇÃO VIGENTE À ÉPOCA DA APOSENTAÇÃO. ART. 40, III, B, DA CF/88.
+    1. Autor que objetivou a revisão do ato de aposentadoria do seu falecido genitor, docente da UFRN por 12 (doze) anos, por entender que nos critérios utilizados pela Apelante para os cálculos da aposentadoria proporcional não foi observado o preceituado na redação original da Constituição Federal, anterior à Emenda Constitucional nº 20, vigente à época da aposentadoria.
+    2. ‘Se o servidor faz jus a se aposentar com proventos proporcionais ao seu tempo de serviço, a proporcionalidade no cálculo de seus proventos só pode ser obtida mediante a consideração, como um dos termos da equação, do tempo de serviço exigido para a aposentadoria com proventos integrais (...), sendo o outro termo da equação, necessariamente, o tempo de efetivo exercício em funções de magistério’ (RE 214.852, STF, Relator Min. Ilmar Galvão, DJ 26.5.2000).
+    3. Aposentadoria proporcional que deve ser calculada à razão de 12/30 avos, em razão do tempo especial de aposentadoria de professor, prevista na redação original da Carta Magna, vigente à época do ato, que estabelecia 30 (trinta) anos para o professor e 25 (vinte e cinco) anos para a professora.
+    4. Manutenção dos honorários advocatícios em 10% (dez por cento) sobre o valor da condenação. Apelação improvida e Remessa Oficial, tida por interposta, improvidas”.
+    Opostos embargos de declaração (fls. 285 a 290), foram rejeitados (fls. 294 a 299).
+    Alega a parte recorrente violação dos artigos 40, incisos II, III, alínea “b”, e 202 da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, uma vez que o acórdão recorrido está em conformidade com a jurisprudência desta Corte, firmada no sentido de que, em se tratando de aposentadoria proporcional de professor público em funções exclusivas de magistério, os proventos deverão ser calculados considerando o tempo exigido para a aposentadoria com proventos integrais dos professores.
+    Especificamente sobre o tema em questão, transcrevo o seguinte trecho da fundamentação da decisão proferida pelo Ministro Ricardo Lewandowski, em caso análogo ao presente, nos autos do RE nº 717.701/PR (DJe de 13/11/12), também interposto pelo ora recorrente:
+    “(...)
+    Além disso, verifica-se que o acórdão recorrido está em consonância com o entendimento firmado por este Tribunal no sentido de que, na aposentadoria proporcional de professores públicos que exerçam função exclusiva de magistério, os proventos deverão ser calculados com base no tempo exigido para a aposentadoria com proventos integrais dos professores. Nesse sentido transcrevo a ementa dos seguintes julgados:
+    ‘Professor do Estado de São Paulo: aposentadoria proporcional especial. Proventos. Art. 40, III, b, da CF/88 (redação original). 'Se o servidor faz jus a se aposentar com proventos proporcionais ao seu tempo de serviço, a proporcionalidade no cálculo de seus proventos só pode ser obtida mediante a consideração, como um dos termos da equação, do tempo de serviço exigido para a aposentadoria com proventos integrais (...), sendo o outro termo da equação, necessariamente, o tempo de efetivo exercício em funções de magistério' (cf. RE 214.852, 28.03.00, Ilmar Galvão, DJ 26.5.2000)’ (RE 459.188/SP, Rel. Min. Sepúlveda Pertence).
+    ‘ADMINISTRATIVO. PROFESSORA PÚBLICA. APOSENTADORIA AOS SESSENTA ANOS DE IDADE, COM PROVENTOS PROPORCIONAIS. ART. 40, III, D, DA CONSTITUIÇÃO FEDERAL (REDAÇÃO ORIGINAL).
+    Proventos que deverão ser calculados com base nos 25 anos de serviço em funções de magistério, exigidos dos membros do magistério público, do sexo feminino, pela alínea b do dispositivo constitucional sob enfoque.
+    Recurso não conhecido’ (RE 214.852/SP, Rel. Min. Ilmar Galvão).
+    Nesse mesmo sentido, cito os seguintes precedentes, entre outros: AI 732.600/SP, Rel. Min. Marco Aurélio; RE 594.486/SP, Rel. Min. Ayres Britto; RE 249.829-AgR/SP, Rel. Min. Celso de Mello; RE 562.034, Rel. Min. Cármen Lúcia; AI 736.345/SP, Rel. Min. Dias Toffoli; AI 732.031/SP, Rel. Min. Gilmar Mendes; AI 692.213/SP, Rel. Min. Menezes Direito”.
+    Registre-se que essa decisão foi confirmada pela Segunda Turma desta Corte, no julgamento do RE nº 717.701/PR-ED (DJe de 11/3/13). O acórdão desse referido julgado restou assim ementado:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. APOSENTADORIA PROPORCIONAL DE PROFESSORES PÚBLICOS. FUNÇÃO EXCLUSIVA DE MAGISTÉRIO. CONSIDERAÇÃO DO TEMPO EXIGIDO PARA A APOSENTADORIA COM PROVENTOS INTEGRAIS DOS PROFESSORES. AGRAVO IMPROVIDO.
+    I - A jurisprudência desta Corte é pacífica no sentido de que, na aposentadoria proporcional de professores públicos que exerçam função exclusiva de magistério, os proventos deverão ser calculados com base no tempo exigido para a aposentadoria com proventos integrais dos professores. Precedentes.
+    II – Agravo regimental improvido”.
+    O acórdão recorrido não se afastou dessa orientação.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 09 de abril de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
