@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. INDENIZAÇÃO: DANOS MORAIS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DESTE SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Segunda Turma Recursal dos Juizados Especiais Cíveis do Rio Grande do Sul decidiu:
+    “CONSUMIDOR. ENERGIA ELÉTRICA. DEMORA NA TROCA DO MEDIDOR. DANO MORAL CONFIGURADO. 1. COMPROVADA A DEMORA NA TROCA DO MEDIDOR DE ENERGIA ELÉTRICA, SOLICITADA PELA AUTORA, MERECEM REPARAÇÃO OS DANOS CAUSADOS EM DECORRÊNCIA DA DEMORA. REFORMA DO IMÓVEL PARADA POR 20 DIAS. 2. Decisão recorrida MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO IMPROVIDO” (fl. 65).
+    3. Na decisão agravada se adotou como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas n. 279, 282 e 356 do Supremo Tribunal Federal.
+    4. A Agravante argumenta que
+     “é preciso ter em mente que o prequestionamento (...) pode ser tanto explícito quanto implícito. (…) a questão constitucional subjacente aos dispositivos mencionados no Recurso extraordinário foi analisada e valorada pelo órgão jurisdicional ‘a quo’ na discussão da causa, não se podendo falar em ausência de prequestionamento.
+    (…) a análise da violação das normas mencionadas no recurso extraordinário não passa pela realização de qualquer reexame das provas, mas tão somente pela análise dos dispositivos constitucionais invocados” (fls, 105-107).
+    No recurso extraordinário, alega-se que a Turma Recursal teria contrariado os arts. 2º, 5º, incs. II e X, 22, inc. IV, e 175 parágrafo único, incs. I e II, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    Quanto à alegação de contrariedade aos arts. 2º, 22, inc. IV, e 175, parágrafo único, incs. I e II, da Constituição da República, verifica-se que os dispositivos suscitados não foram objeto de debate e decisão prévios pela Turma Recursal, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal, como acertadamente anotado na decisão agravada:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal ‘a quo’. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009, grifos nossos).
+    7. A Juíza relatora do caso na Turma Recursal observou:
+    “o pedido principal da autora é quanto à troca de lugar do medidor. E, ocorrendo a demora na prestação do serviço, merece reparação o abalo moral sofrido. (…). O testemunho demonstra que a parte recorrente gerou prejuízos à parte adversa por ter-se abstido de praticar ato de sua inteira responsabilidade” (fl. 65-66, grifos nossos).
+    A apreciação do pleito recursal dependeria do reexame de provas, o que não pode ser adotado validamente em recurso extraordinário, nos termos da Súmula n. 279 deste Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 802.403-AgR/SC, de minha relatoria, Primeira Turma, DJ 25.11.2010, grifos nossos).
+    “AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANO MORAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. INEXISTÊNCIA DE OFENSA AO ART. 5º, II, XXXV E LIV, DA CF/88. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279/STF. Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade ao Texto Maior. Caracterização de ofensa reflexa ou indireta. Agravo regimental a que se nega provimento” (AI 546.092-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJ 19.5.2006, grifos nossos).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de abril de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
