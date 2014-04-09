@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 42, de 19 de fevereiro de 2014
+ASSUNTO: Contribuição Social sobre o Lucro Líquido – CSLL EMENTA: BÔNUS DE ADIMPLÊNCIA FISCAL. REQUISITOS. CONTRIBUIÇÕES PREVIDENCIÁRIAS. A partir do momento em que as contribuições previdenciárias passaram a ser administradas pela RFB, a verificação de sua adimplência nos últimos 5 (cinco) anos-calendário passou a constituir requisito para a obtenção do direito ao bônus de adimplência fiscal de que trata o art. 38 da Lei nº 10.637, de 2002. DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 38; Lei nº 11.457, de 2007, art. 2º; CTN, art. 111.
+[arquivo anexo: SC Cosit nº 42-2014.pdf]
