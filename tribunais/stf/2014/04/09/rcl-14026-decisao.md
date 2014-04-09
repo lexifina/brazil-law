@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de liminar, interposta pelo Serviço Municipal de Saneamento Ambiental de Santo André (SEMASA) contra decisão proferida pela 14ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, no autos do processo 0002105-54.2011.8.26.0554, na qual se alega violação às Súmulas Vinculantes 19 e 29 do STF.
+    Nas razões recursais, o reclamante argumenta que o acórdão impugnado proibiu o reclamante de cobrar taxas de limpeza pública e drenagem, referentes a serviços específicos e divisíveis.
+    Em relação à taxa de limpeza pública, alega o reclamante que já houve declaração de inconstitucionalidade quanto aos serviços de varrição, lavagem e capinação, tendo subsistido a cobrança apenas quanto à coleta de lixo domiciliar, como permitido pela Súmula Vinculante 19. No que diz respeito à taxa de drenagem, sustenta que sua fórmula de cobrança ajusta-se à previsão da Súmula Vinculante 29.
+    Ao final, requer a concessão de medida liminar para que sejam suspensos os efeitos do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, a fim de que se permita a cobrança da taxa impugnada, julgando-se ao final procedente a presente reclamação e cassando-se, em definitivo, as decisões.
+    É o relatório.
+    Decido.
+    Inicialmente, cito o teor das duas Súmulas tidas por violadas pelo acórdão reclamado:
+    “Súmula Vinculante 19/STF: A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal”.
+    “Súmula Vinculante 29/STF: É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra”.
+    Os presentes enunciados limitam-se a afirmar a validade de taxas cobradas exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis (Súmula Vinculante 19), bem como da utilização de elementos da base de cálculo de impostos, desde que não haja integral identidade com a base da taxa (Súmula Vinculante 29).
+    Conforme se verifica o Tribunal de origem afastou a cobrança de ambas as taxas por entender que eles não corresponderiam a serviços específicos e divisíveis. Transcrevo:
+    “Com relação à taxa de coleta e remoção de lixo, registre-se que o serviço atinge a população como um todo; não é possível a sua divisão entre os contribuintes individualmente considerados. Não há como atribuir o respectivo custeio somente a proprietário de imóveis.
+    (….)
+    No que se refere à cobrança de taxa de limpeza pública, ela também atinge a população em sua integralidade, não sendo passível de divisão do serviço prestado entre os contribuintes. (eDOC 13, p. 3/8)
+    Verifica-se, portanto, que a cobrança de ambas as taxas foi afastada por não estas corresponderem a serviços específicos e divisíveis, não havendo qualquer violação aos enunciados das Súmulas Vinculantes 19 e 29 do STF.
+    A propósito, cito trecho da decisão proferida pela Ministra Rosa Weber, na Reclamação 15.919-MC/SP, na qual o Serviço Municipal de Saneamento Ambiental de Santo André (SEMASA), também sustentou afronta às Súmulas Vinculantes 19 e 29, ante o reconhecimento, pelo mesmo Tribunal reclamado, da ilegitimidade da cobrança das taxas de limpeza pública e drenagem de águas pluviais, in verbis:
+    “Na decisão proferida pela Corte de origem, verificou-se que: a taxa de limpeza tem por hipótese de incidência a prestação dos serviços públicos de coleta e disposição final de resíduos sólidos e de varrição de vias públicas (art. 2º da Lei 8.151/2000); e a taxa de drenagem, a utilização efetiva ou potencial dos serviços públicos de drenagem de águas pluviais. Daí a conclusão de tratar-se de cobrança de serviços de limpeza de logradouros e vias públicas sem individualização, de natureza uti universi, cuja remuneração por taxa é inconstitucional. Consoante emerge da questão posta, não identifico, no caso dos autos, ofensa às aludidas Súmulas Vinculantes 19 e 29”.
+    Nesse mesmo sentido, diversas decisões monocráticas proferidas por esta Corte, em casos análogos ao dos autos: Rcl 13.349/SP, Rel. Min. Cármen Lúcia, DJe 12.3.2012; Rcl 13.333/SP, Rel. Min. Celso de Mello, DJe 3.4.2014; Rcl 13.209/SP, Rel. Min. Dias Toffoli, DJe 14.2.2014; Rcl 14.274/SP, Rel. Min. Roberto Barroso, DJe 10.12.2013 e Rcl 15.919/SP, Rel. Min. Rosa Weber, DJe 1.8.2013.
+    Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF, prejudicada a análise do pedido liminar.
+    Publique-se.
+    Brasília, 9 de abril de 2014.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
