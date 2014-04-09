@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 81, de 31 de março de 2014
+ASSUNTO: Imposto sobre a Renda Retido na Fonte – IRRF EMENTA: BOLSA DE PESQUISA. TRIBUTAÇÃO. RETENÇÃO NA FONTE. São tributáveis, e sujeitos à incidência do imposto sobre a renda na fonte, os rendimentos pagos por associação sem fins lucrativos a pesquisador visitante a título de bolsa de pesquisa, quando, em contrapartida ao custeio, esteja previsto o aproveitamento econômico do resultado dessa atividade pela fonte pagadora. DISPOSITIVOS LEGAIS: Decreto nº 3.000, de 1999 (RIR/99), arts. 39, VII, 43, I, 620, 624, 628 e 639.
+[arquivo anexo: SC Cosit nº 81-2014.pdf]
