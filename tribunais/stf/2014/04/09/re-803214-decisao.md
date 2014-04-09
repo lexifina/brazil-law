@@ -1,0 +1,12 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que, com relação à alegada ofensa à norma inscrita no art. 5º, inciso XXXV, da Constituição, foi assegurado, no caso ora em exame, à parte agravante, o direito de acesso à jurisdição estatal, não se podendo inferir, do insucesso processual que experimentou, o reconhecimento de que lhe teria sido denegada a concernente prestação jurisdicional.
+    Com efeito, não se negou, à parte recorrente, o direito à prestação jurisdicional do Estado. Este, bem ou mal, apreciou, por intermédio de órgãos judiciários competentes, o litígio que lhe foi submetido.
+    É preciso ter presente que a prestação jurisdicional, ainda que errônea, incompleta ou insatisfatória, não deixa de configurar-se como resposta efetiva do Estado-Juiz à invocação, pela parte interessada, da tutela jurisdicional do Poder Público, circunstância que afasta a alegada ofensa a quanto prescreve o art. 5º, inciso XXXV, da Carta Política, consoante tem enfatizado o magistério jurisprudencial do Supremo Tribunal Federal (RTJ 132/455, Rel. Min. CELSO DE MELLO – RTJ 141/980, Rel. Min. CARLOS VELLOSO – AI 120.933-AgR/RS, Rel. Min. NÉRI DA SILVEIRA – AI l25.492-AgR/SP, Rel. Min. CARLOS MADEIRA).
+    A prestação jurisdicional que se revela contrária ao interesse de quem a postula não se identifica, não se equipara nem se confunde, para efeito de acesso à via recursal extraordinária, com a ausência de prestação jurisdicional.
+    De outro lado, cabe enfatizar, que a questão ora em exame foi decidida com base no direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impõe-se registrar, finalmente, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veiculada no caso em exame (ARE 799.879/SC, Rel. Min. CÁRMEN LÚCIA – RE 771.926/SC, Rel. Min. DIAS TOFFOLI – RE 794.224/SC, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e pelas razões expostas, não conheço do presente recurso extraordinário.
+    Publique-se.
+    Brasília, 09 de abril de 2014.
+Ministro CELSO DE MELLO
+Relator
