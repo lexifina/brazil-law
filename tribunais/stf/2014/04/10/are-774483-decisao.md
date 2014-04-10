@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais ementado nos seguintes termos:
+    “APELAÇÃO CRIMINAL – TRÁFICO DE DROGAS – TRAZER CONSIGO ENTORPECENTES VARIADOS – ABSOLVIÇÃO INVIÁVEL – CIRCUNSTÂNCIAS DO FLAGRANTE - ATOS DE COMÉRCIO – DESNECESSIDADE – DEPOIMENTO POLICIAL – VALIDADE – DELITO CARACTERIZADO – SENTENÇA REFORMADA – SUBSTITUIÇÃO DE PENA E REGIME DIVERSO DO FECHADO – POSSIBILIDADE – TRÁFICO COM A MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/06 – ENTENDIMENTO DA CORTE SUPERIOR DESTE TJMG E DO EXCELSO STF – RECURSO PROVIDO.
+    I – Caracterizado o crime do art. 33 da Lei n. 11.343/06 se o agente é preso em flagrante, em frente a um colégio, com substâncias entorpecentes (maconha e crack), camufladas na cueca e em recipiente, além de material próprio para a traficância. Como se sabe, para a caracterização do tráfico de entorpecente, irrelevante se torna o fato de o infrator não ter sido colhido no próprio ato de venda da mercadoria proibida.
+    II – Os policiais, civis ou militares, mormente os que se encontravam no momento e no lugar do crime, não estão impedido de depor, pois não podem ser considerados inidôneos ou suspeitos pela simples condição funcional. Os depoimentos dos policiais que atuaram na diligência merecem a mesma credibilidade dos testemunhos em geral. Somente podem ser desprezados se demonstrado, de modo concreto, que agiram sob suspeição. Enquanto isso não ocorra, se não defendem interesse próprio ou escuso, mas, ao contrário, agem em defesa da sociedade, a sua palavra serve como prova suficiente pra informar o convencimento do julgador.
+    III – Conforme precedentes do STF e da Corte Superior deste TJMG, é possível a fixação de regime prisional diverso daquele previsto no art. 2º, § 1º, da Lei n. 8.072/90, ao delito de tráfico de drogas, com a incidência da minorante do art. 33, § 4º, da Lei n. 11.343/06.
+    IV – Não havendo vedação quanto a isto nos Tribunais Superiores, deve-se deferir a substituição da pena corporal por restritivas de direitos se preenchidos os requisitos do art. 44 do Código Penal.
+    V – Recurso provido”.
+    Na ocasião, ao dar provimento à apelação interposta pelo Ministério Público estadual, o relator consignou a descaracterização da natureza hedionda do crime previsto no art. 33, § 4º, da Lei 11.343/06, ponto em que ficou vencido pelos demais membros do colegiado, os quais, apesar de manterem os mesmos termos do provimento do apelo, assentaram que a aplicação da causa especial de redução de pena prevista no referido dispositivo não altera a natureza hedionda do delito.
+    A defesa então interpôs recurso extraordinário, com fundamento no art. 102, III, “a” da Constituição Federal, no qual aponta violação ao art. 5º, inciso LVII, do texto constitucional.
+    O recorrente aduz a ocorrência de dissídio jurisprudencial quanto à possibilidade da substituição da pena privativa de liberdade por restritiva de direitos. Afirma que o STF já declarou a inconstitucionalidade do art. 44 da Lei 11.343/06 (HC 97.256), motivo pelo qual faria jus à mencionada substituição, o que não teria sido reconhecido pelo Tribunal de origem.
+    Sustenta ainda que, tendo em vista o princípio constitucional da presunção de inocência, teria direito de recorrer em liberdade.
+    Decido.
+     A irresignação não merece prosperar.
+    No presente caso, o Tribunal a quo deu provimento ao recurso de apelação para condenar o réu à pena de 2 anos e 11 meses de reclusão, em regime inicial aberto, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/06). Na ocasião, a Corte também procedeu à substituição da pena privativa de liberdade por duas restritivas de direitos (uma de prestação de serviços à comunidade e outra de prestação pecuniária).
+    Registre-se que o relator ficou vencido apenas no que concerne à natureza hedionda do delito, o que em nada alterou os termos da decisão.
+    Por sua vez, o recorrente, não se atentando para o que já decidido pelo acórdão recorrido, pleiteia a substituição da pena privativa de liberdade por restritivas de direitos, apesar de o Tribunal a quo já tê-lo determinado (eDOC 1, p. 321).
+    Extrai-se ainda das confusas razões do recurso extraordinário, que o recorrente pleiteia o direito de recorrer em liberdade. Contudo, segundo consta do acórdão recorrido, em momento algum foi determinado seu recolhimento à prisão.
+    Assim, vislumbra-se a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão completamente dissociadas do decido pela origem, o que não permite a exata compreensão da controvérsia.
+    Incide, portanto, o Enunciado 284 da Súmula do STF, in verbis:
+    “É INADMISSÍVEL O RECURSO EXTRAORDINÁRIO, QUANDO A DEFICIÊNCIA NA SUA FUNDAMENTAÇÃO NÃO PERMITIR A EXATA COMPREENSÃO DA CONTROVÉRSIA”.
+    Nesse sentido, cito os seguintes julgados desta Corte: RE-AgR 575.933, Rel. Min. Teori Zavascki, Segunda Turma, DJe 13.2.2014; ARE-AgR 777.775, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 13.2.2014 e AI-AgR 793.282, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1º.8.2012.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 10 de abril de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
