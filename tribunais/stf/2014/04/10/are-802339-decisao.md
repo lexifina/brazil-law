@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Colégio Recursal da 22ª Circunscrição Judiciária do Tribunal de Justiça do Estado de São Paulo. Veja-se trecho conclusivo do voto condutor do acórdão (fls. 150):
+    “Aplica-se no caso, portanto, a Lei Municipal 4.497/01 e a Lei Complementar 26/2008, que atendendo ao artigo 108 da Lei Orgânica, enquanto vigente, contêm regramento próprio para o pagamento dos adicionais por tempo de serviço, conceituando-os como promoção horizontal (artigo 22 da Lei 4.497/01 e artigos 192 à 195 da Lei Complementar 26/08). Deve, ainda, ser observado o conceito de vencimento contido no artigo 4º, inciso VII da Lei 4.497/01 e artigo 155, caput, da Lei Complementar 26/08, com a limitação imposta pelo artigo 164 do mesmo ordenamento jurídico.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 5º, XXXVI, e 37, caput e XV, da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os fundamentos de que: (i) estaria ausente o prequestionamento dos dispositivos apontados; (ii) a alegada violação apenas ocorreria de modo reflexo.
+    O recurso extraordinário não deve ser provido, tendo em vista que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa à incidência do quinquênio sobre os vencimentos integrais do servidor, justamente por tratar-se de matéria infraconstitucional (RE 764.332-RG, Rel. Min. Joaquim Barbosa).
+    Quanto à suposta ofensa ao art. 5º, XXXVI, da Constituição, incide a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de violação aos limites da coisa julgada, uma vez que se trata de tema cujo âmbito é estritamente infraconstitucional. Nesse sentido, veja-se a ementa do ARE 756.177-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGADA VIOLAÇÃO AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO. LITIGÂNCIA DE MÁ-FÉ. MULTA. QUESTÕES INFRACONSTITUCIONAIS. AGRAVO IMPROVIDO.
+    I Os Ministros desta Corte, no ARE 748.371-RG/RJ, Rel. Min. Gilmar Mendes, e no RE 633.360-RG/SP, Rel. Min. Cezar Peluso, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca, respectivamente, da violação dos limites da coisa julgada e dos princípios do devido processo legal, da ampla defesa e do contraditório, e da aplicação de multa por litigância de má-fé, por entenderem que a discussão em torno desses temas possui natureza infraconstitucional, decisão que vale para todos os recursos sobre matéria idêntica.
+    II Agravo regimental improvido.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de abril de 2014.
+Ministro Luís Roberto Barroso
+Relator
