@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    O Ministério Público do Distrito Federal e Territórios interpõe agravo contra a decisão (fls. 254 a 256) que não admitiu recurso extraordinário assentado em contrariedade ao art. 5º, incisos XXXV, XL e LV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pela Primeira Turma Criminal do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “PENAL. PROCESSO PENAL. FURTO QUALIFICADO. MATERIALIDADE E AUTORIA COMPROVADAS. CONDENAÇÃO MANTIDA. PENA EXACERBADA. REDUÇÃO. EXCLUSÃO DA VERBA INDENIZATÓRIA. IRETROATIVIDADE DA NORMA MAIS GRAVOSA. PROVIMENTO PARCIAL. 1. Não prevalece a tese de absolvição por insuficiência de provas, quando o conjunto probatório reunido nos autos é conclusivo pela autoria e materialidade, notadamente pelo depoimento das testemunhas e declarações da vítima colhidas em juízo. 2. Mostrando-se exacerbada a pena, eis que desproporcional às circunstâncias do caso concreto, é de ser dado provimento parcial ao recurso, para reduzi-la. 3. A indenização à vítima, prevista no inciso IV, do artigo 387, do Código de Processo Penal, é norma que por ser mais gravosa ao réu não pode retroagir, para alcançar fatos anteriores à sua vigência. 4. Recurso conhecido e parcialmente provido” (fl. 220).
+    O agravante, nas razões do extraordinário, aduz que acórdão recorrido teria afrontado aos preceitos constitucionais suscitados ao deixar de aplicar o art. 387, inciso IV, do Código de Processo Penal no caso concreto.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador- Geral da República, Dr. Edson Oliveira de Almeida, opinou pelo provimento do recurso.
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que o Parquet foi intimado do acórdão recorrido após 3/5/07 (fl. 235), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for caso de inadmissibilidade do recurso por outra razão”.
+    No caso, a irresignação não merece prosperar.
+    Isto porque, sobre eventual transgressão ao art. 5º, incisos XXXV, XL e LV, da Constituição Federal, forçoso concluir que o Tribunal a quo ao decidir a questão se ateve ao exame da legislação infraconstitucional. Portanto, a violação, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Anote-se que a jurisprudência desta Corte é assente sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, não podem configurar ofensa direta e frontal à Constituição Federal.
+    Perfilhando esse entendimento, destaco: Nesse sentido: RE nº 597.180/SC-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 21/2/11; AI nº 813.850/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 29/11/10.
+    Aliás, conforme bem observado pelo eminente Ministro Ayres Britto, “violação às garantias constitucionais do processo, se existente, apenas ocorreria de modo reflexo ou indireto” (ARE nº 667.902/DF-AgR, Segunda Turma, DJe de 13/4/12).
+    Em casos análogos, destaco as seguintes decisões monocráticas: ARE nº 801.146/DF, DJe de 1º/4/14, ARE nº 775.431/DF, DJe de 5/2/14, e ARE nº 697.664/DF, DJe de 3/8/12, todos da relatoria da Ministra Cármen Lúcia; ARE nº 699.453/DF, Relator o Ministro Gilmar Mendes, DJe de 22/10/13; ARE nº 677.265/DF, Relator a Ministra Rosa Weber, DJe de 11/12/13; e ARE nº 677.271/DF, de minha relatoria, DJe de 5/3/13.
+    Diante desse quadro, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 10 de abril de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
