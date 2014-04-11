@@ -1,0 +1,72 @@
+Decisão:
+    Vistos.
+    Trata-se de ação direta de inconstitucionalidade por omissão, com pedido de medida cautelar, ajuizada pelos Governadores dos Estados da Bahia, do Maranhão, de Minas Gerais e de Pernambuco, em face de suposta omissão legislativa do Congresso Nacional quanto ao dever de legislar previsto no inciso II do art. 161 da Constituição Federal, cujo teor é o seguinte:
+    “Art. 161. Cabe à lei complementar:
+    (...)
+    II - estabelecer normas sobre a entrega dos recursos de que trata o art. 159, especialmente sobre os critérios de rateio dos fundos previstos em seu inciso I, objetivando promover o equilíbrio sócio-econômico entre Estados e entre Municípios;”
+    Os requerentes informam que a Lei Complementar nº 62, de 28 de dezembro de 1989, dispunha sobre a forma de distribuição dos recursos do Fundo de Participação dos Estados e do Distrito Federal – FPE, no art. 2º, incisos I e II, e §§ 1º, 2º, 3º, cuja redação era a seguinte:
+    “Art. 2° Os recursos do Fundo de Participação dos Estados e do Distrito Federal - FPE serão distribuídos da seguinte forma:
+    I - 85% (oitenta e cinco por cento) às Unidades da Federação integrantes das regiões Norte, Nordeste e Centro-Oeste;
+    II - 15% (quinze por cento) às Unidades da Federação integrantes das regiões Sul e Sudeste.
+    § 1° Os coeficientes individuais de participação dos Estados e do Distrito Federal no Fundo de Participação dos Estados e do Distrito Federal - FPE a serem aplicados até o exercício de 1991, inclusive, são os constantes do Anexo Único, que é parte integrante desta Lei Complementar.
+    § 2° Os critérios de rateio do Fundo de Participação dos Estados e do Distrito Federal, a vigorarem a partir de 1992, serão fixados em lei específica , com base na apuração do censo de 1990.
+    § 3° Até que sejam definidos os critérios a que se refere o parágrafo anterior, continuarão em vigor os coeficientes estabelecidos nesta Lei Complementar.”
+    No entanto, tais dispositivos, juntamente com o Anexo Único à Lei Complementar nº 62/1989, foram declarados inconstitucionais por este Supremo Tribunal Federal no julgamento das Ações Direta de Inconstitucionalidade nº 875, 1.987, 2.727 e 3.2431, ocorrido em 24 de fevereiro 2010.
+    Naquela assentada, este Tribunal decidiu, com fundamento no princípio da segurança jurídica (art. 27 da Lei nº 9.868/1999), atribuir efeitos prospectivos à decisão, mantendo vigentes as normas impugnadas até o dia 31 de dezembro de 2012, período dentro do qual o legislador ordinário deveria editar lei complementar relativa à distribuição dos recursos do FPE.
+    Ocorre que, transcorrido o período fixado pelo Tribunal, não havia sido editada nova lei complementar sobre o tema, razão pela qual os requerentes aduziram a existência de omissão inconstitucional relativa ao dever imposto pelo inc. II do art. 161 da Constituição Federal.
+     Nesse contexto, requereram, liminarmente
+    “a concessão de medida cautelar por decisão monocrática do Ministro Presidente ad referendum do Plenário dessa Suprema Corte, com fundamento no artigo 13, inciso VIII, do RISTF16, que determine solução provisória para a omissão legislativa verificada, mediante a manutenção da vigência do artigo 2º, incisos I e II, §§ 1º, 2º e 3º, e do Anexo Único da Lei Complementar nº 62/89, até que o órgão omisso adote as providências necessárias para disciplinar a matéria” (fl. 13).
+    No mérito, pugnaram pela declaração de inconstitucionalidade da omissão legislativa do Congresso Nacional quanto ao dever de legislar previsto no artigo 161, inciso II, da Constituição Federal e pela confirmação da decisão adotada em sede cautelar.
+    Com fundamento no art. 12-F, caput, da Lei 9.868/1999, o Ministro Ricardo Lewandowski, no exercício da Presidência, solicitou informações ao Presidente do Congresso Nacional.
+    As informações foram apresentadas pelo então Presidente do Senado, Senador José Sarney, defendendo, em síntese, inexistência de omissão do Congresso Nacional, visto que tramitavam regularmente em ambas Casas Legislativas diversos Projetos de Lei Complementar destinados a disciplinar a forma de distribuição dos recursos do Fundo de Participação dos Estados.
+    Em 24 de janeiro de 2013, o Ministro Ricardo Lewandowski deferiu em parte a medida cautelar pleiteada, ad referendum do Plenário,
+    “para garantir aos Estados e ao Distrito Federal o repasse, pela União, das verbas do fundo a que alude o art. 159, I, a, da Constituição da República, no percentual nele estabelecido, em conformidade com os critérios anteriormente vigentes, por mais 150 (cento e cinquenta dias), a contar da intimação desta medida cautelar, desde que não sobrevenha nova disciplina jurídica, sem prejuízo de eventuais compensações financeiras, entre os entes federados, a serem eventualmente definidas em lei complementar”.
+    Deferi os pedido de ingresso no feito, como amici curiae, dos Estados do Ceará, de Goiás, da Paraíba, de Alagoas, de Sergipe, de São Paulo e do Tocantins. No mesmo ato, solicitei novas informações ao Congresso Nacional (art. 12-G da Lei nº 9.868/1999) e abri vista, sucessivamente, ao Advogado-Geral da União e ao Procurador-Geral da República (art. 12-E, §§ 2º e 3º, da Lei 9.868/99).
+    O Advogado-Geral da União manifestou-se pela procedência do pedido. No mesmo sentido foi o parecer do Procurador-Geral da República.
+    É o breve relato.
+    Decido.
+    Em 18 de julho de 2013, foi publicada, na Seção 1 do Diário Oficial da União, a Lei Complementar nº 143, que dispõe sobre os critérios de rateio do Fundo de Participação dos Estados e do Distrito Federal (FPE).
+    O novo diploma alterou diversos dispositivos de lei, dentre eles o art. 2º da Lei Complementar nº 62, de 28 de dezembro de 1989, o qual fora declarado inconstitucional por este Supremo Tribunal Federal, ocasionando, com o advento do termo fixado pelo Tribunal, em 31 de dezembro de 2012, a alegada situação de omissão que motivou o ajuizamento da presente ação direta.
+    Examinando a lei, conclui-se que ela atende a determinação contida no art. 161, inc. II, da Constituição Federal. Eis o teor da nova lei complementar:
+          “Art. 1º O art. 2º da Lei Complementar nº 62, de 28 de dezembro de 1989, passa a vigorar com a seguinte redação:
+    ‘Art. 2º Os recursos do Fundo de Participação dos Estados e do Distrito Federal (FPE), observado o disposto no art. 4º, serão entregues da seguinte forma:
+    I - os coeficientes individuais de participação dos Estados e do Distrito Federal no FPE a serem aplicados até 31 de dezembro de 2015 são os constantes do Anexo Único desta Lei Complementar;
+    II - a partir de 1º de janeiro de 2016, cada entidade beneficiária receberá valor igual ao que foi distribuído no correspondente decêndio do exercício de 2015, corrigido pela variação acumulada do Índice Nacional de Preços ao Consumidor Amplo (IPCA) ou outro que vier a substituí-lo e pelo percentual equivalente a 75% (setenta e cinco por cento) da variação real do Produto Interno Bruto nacional do ano anterior ao ano considerado para base de cálculo;
+    III - também a partir de 1º de janeiro de 2016, a parcela que superar o montante especificado no inciso II será distribuída proporcionalmente a coeficientes individuais de participação obtidos a partir da combinação de fatores representativos da população e do inverso da renda domiciliar per capita da entidade beneficiária, assim definidos:
+    a) o fator representativo da população corresponderá à participação relativa da população da entidade beneficiária na população do País, observados os limites superior e inferior de, respectivamente, 0,07 (sete centésimos) e 0,012 (doze milésimos), que incidirão uma única vez nos cálculos requeridos;
+     b) o fator representativo do inverso da renda domiciliar per capita corresponderá à participação relativa do inverso da renda domiciliar per capita da entidade beneficiária na soma dos inversos da renda domiciliar per capita de todas as entidades.
+    § 1º Em relação à parcela de que trata o inciso III do caput, serão observados os seguintes procedimentos:
+    I - a soma dos fatores representativos da população e a dos fatores representativos do inverso da renda domiciliar per capita deverão ser ambas iguais a 0,5 (cinco décimos), ajustando-se proporcionalmente, para esse efeito, os fatores das entidades beneficiárias;
+    II - o coeficiente individual de participação será a soma dos fatores representativos da população e do inverso da renda domiciliar per capita da entidade beneficiária, observados os ajustes previstos nos incisos III e IV deste parágrafo;
+    III - os coeficientes individuais de participação das entidades beneficiárias cujas rendas domiciliares per capita excederem valor de referência correspondente a 72% (setenta e dois por cento) da renda domiciliar per capita nacional serão reduzidos proporcionalmente à razão entre o excesso da renda domiciliar per capita da entidade beneficiária e o valor de referência, observado que nenhuma entidade beneficiária poderá ter coeficiente individual de participação inferior a 0,005 (cinco milésimos);
+    IV - em virtude da aplicação do disposto no inciso III deste parágrafo, os coeficientes individuais de participação de todas as entidades beneficiárias deverão ser ajustados proporcionalmente, de modo que resultem em soma igual a 1 (um).
+    § 2º Caso a soma dos valores a serem distribuídos, nos termos do inciso II do caput, seja igual ou superior ao montante a ser distribuído, a partilha dos recursos será feita exclusivamente de acordo com o referido inciso, ajustando-se proporcionalmente os valores.
+    § 3º Para efeito do disposto neste artigo, serão considerados os valores censitários ou as estimativas mais recentes da população e da renda domiciliar per capita publicados pela entidade federal competente.’ (NR)
+    Art. 2º O art. 92 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), passa a vigorar com a seguinte redação:
+    ‘Art. 92. O Tribunal de Contas da União comunicará ao Banco do Brasil S.A., conforme os prazos a seguir especificados, os coeficientes individuais de participação nos fundos previstos no art. 159, inciso I, alíneas "a", "b" e "d", da Constituição Federal que prevalecerão no exercício subsequente:
+          I - até o último dia útil do mês de março de cada exercício financeiro, para cada Estado e para o Distrito Federal;
+          II - até o último dia útil de cada exercício financeiro, para cada Município.
+          Parágrafo único. Far-se-á nova comunicação sempre que houver, transcorrido o prazo fixado no inciso I do caput, a criação de novo Estado a ser implantado no exercício subsequente.’ (NR)
+    Art. 3º Para os coeficientes dos Estados e do Distrito Federal que vigorarão no exercício de 2013, a comunicação referida no caput do art. 92 da Lei nº 5.172, de 1966, será feita até 30 (trinta) dias após a publicação desta Lei Complementar.
+     Art. 4º O art. 102 da Lei nº 8.443, de 16 de julho de 1992 (Lei Orgânica do Tribunal de Contas da União), passa a vigorar com a seguinte redação:
+    ‘Art. 102. Entidade competente do Poder Executivo federal fará publicar no Diário Oficial da União, para os fins previstos no inciso VI do art. 1º desta Lei, a relação das populações:
+          I - até 31 de dezembro de cada ano, no caso dos Estados e do Distrito Federal;
+          II - até 31 de agosto de cada ano, no caso dos Municípios.
+          § 1º (Revogado)
+          § 2º (Revogado)
+          § 3º Far-se-á nova comunicação sempre que houver, transcorrido o prazo fixado nos incisos I e II do caput, a criação de novo Estado ou Município a ser implantado no exercício subsequente.’ (NR)
+          Art. 5º ( VETADO).
+          Art. 6º Revogam-se os arts. 86 a 89 e 93 a 95 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e os §§ 1º e 2º do art. 102 da Lei nº 8.443, de 16 de julho de 1992 (Lei Orgânica do Tribunal de Contas da União).
+          Art. 7º Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos financeiros no primeiro mês que se iniciar após 60 (sessenta) dias dessa data”.
+    Ao editar a Lei Complementar nº 143/2013, o Congresso Nacional atendeu ao dever de legislar imposto pelo art. 161, inc. II, da Constituição Federal, não remanescendo omissão inconstitucional a ser sanada, na presente ação. Sendo assim, forçoso reconhecer a perda de objeto da presente ação direta de inconstitucionalidade por omissão.
+    É pacífica a jurisprudência deste Supremo Tribunal Federal quanto à perda de objeto da ação, quando suprida, no decorrer do processo, a omissão apontada pelo autor. Confira-se:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO. CUMULAÇÃO DE PEDIDO: DECLARAÇÃO DE AUTO-APLICABILIDADE DE NORMA CONSTITUCIONAL. (...) 2. A ação direta foi ajuizada em 05.04.91, para tornar efetiva a norma do art. 59 do A.D.C.T., que trata da organização da seguridade social e dos planos de custeio e benefício da Previdência Social; as leis reclamadas foram promulgadas em 25.07.91 sob os n.s. 8.212 e 8.213, ficando prejudicado o pedido por perda de objeto. (...) 4. Ação direta conhecida em parte, e nesta parte julgada prejudicada por perda superveniente do objeto” (ADI nº 480/DF, Pleno, Relator o Ministro Paulo Brossard, DJ de 25/11/94, grifou-se).
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO. ARTS. 203, V, E 204, DA CF/88. Dispositivos que já se acham regulamentados pela superveniente Lei n. 8.745/93. Pedido prejudicado” (ADI nº 877/DF, Pleno, Relator o Ministro Ilmar Galvão, DJ de 27/10/95).
+    “(...) SUPERVENIÊNCIA DA LEI RECLAMADA E PREJUDICIALIDADE DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO PARCIAL. - O estado de incompleta regulamentação legislativa de determinada prescrição constitucional, quando resulte suprido por efeito de ulterior complementação normativa, importa em prejudicialidade da ação direta, em virtude da perda superveniente de seu objeto.” (ADI nº 1.484/DF, decisão monocrática, Relator o Ministro Celso de Mello, DJ de 28/8/01).
+    Assim sendo, conclui-se pela prejudicialidade desta ação direta de inconstitucionalidade por omissão em virtude da perda superveniente do seu objeto.
+    Do exposto, julgo extinto o processo, sem julgamento de mérito, nos termos do artigo 267, inciso VI, do CPC e do artigo 21, inciso IX, do RISTF.
+    Publique-se.
+    Brasília, 11 de abril de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
