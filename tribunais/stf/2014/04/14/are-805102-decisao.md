@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cujo trecho da ementa transcrevo:
+    “CONSUMIDOR. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. OCORRÊNCIA DE FORTE TEMPORAL NA REGIÃO. FLUÊNCIA DE LAPSO TEMPORAL ACENTAUDO DESDE A DATA DO FATO ATÉ O AJUIZAMENTO DA DEMANDA. DANOS MORAIS INOCORRENTES (…)”. (fl. 113).
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação ao artigo 37, § 6º, do texto constitucional.
+    Nas razões recursais, argumenta-se que a concessionária de serviço público de energia elétrica possui responsabilidade civil objetiva e, por esse motivo, independe de prova de culpa para fins de indenização (fl. 120). Afirma-se ainda que, no caso, a parte recorrente causou tanto danos morais quanto materiais (fl. 124).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Isso porque o Tribunal de origem decidiu a controvérsia acerca da responsabilidade da concessionária com fundamento nos fatos e provas dos autos. Nesse sentido, o Tribunal de origem consignou o seguinte:
+    “Os autos demonstram que, à época dos fatos, ocorreu um forte temporal na região, consistente em atípica intempérie da natureza. Tal veio admitido expressamente pela ré, pelo que não se controverte esta asserção, inclusive acostando a demandada documentos a corroborar a ocorrência de temporal atípico e avassalador na região. Esta excepcionalidade climática impõe seja aquilatada a situação dentro de um contexto igualmente extraordinário, se enfocado sob a ótica da resolução do impasse. E aqui se tem que a conduta da ré não se revestiu de ilicitude porquanto envidou esforços no sentido de bem atender os consumidores, justificando-se a fluência de lapso temporal não exíguo para que restabelecida fosse a normalidade do abastecimento de energia elétrica pela proporção de seus efeitos e bem assim pelo fato de haver atingido toda uma coletividade, a justificar o não cumprimento do prazo previsto no art. 107 da Resolução nº 456 da Aneel.
+    (…)
+    Neste norte, descabe indenização extrapatrimonial quando não configurado o alegado prejuízo moral, vez que a autora, - ao mínimo isso demonstram nos autos -, não foi submetida a constrangimento que atentasse contra a sua imagem ou honra pessoal, situação que possibilitaria a reparação de dano imaterial. Somente os fatos e acontecimentos capazes de romper com o equilíbrio psicológico do indivíduo, violando direitos da personalidade, com desconsideração da pessoa ou ofensa à sua dignidade devem ser considerados, sob pena de banalização e desvirtuamento deste instituto”. (fls. 113V/115)
+    Desse modo, para se entender de forma diversa, faz-se imprescindível a análise dos elementos fático-probatórios constantes dos autos, providência vedada na via do apelo extremo, nos termos do Enunciado 279 da Súmula do STF.
+    Nesse sentido, a jurisprudência de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL. RESPONSABILIDADE CIVIL. FORÇA MAIOR. QUEBRA DO NEXO DE CAUSALIDADE. IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICA. ENUNCIADO 279 DA SÚMULA/STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA. Agravo regimental a que se nega provimento” (AI-AgR 831.124, Rel. Joaquim Barbosa, Segunda Turma, DJe 7.6.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE OBJETIVA. ATROPELAMENTO. INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS. NEXO DE CAUSALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 836.286, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.4.2011).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 14 de abril de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
