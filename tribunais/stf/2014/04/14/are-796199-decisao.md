@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 88):
+    “I- O preparo do recurso deveria ser recolhido como determina o §1º, do art. 42, da Lei nº 9.099/95, sob pena de deserção.
+    II – Assim, à vista diferença devida conforme certidão supra, julgo deserto o recurso interposto pela ré LIFE SPA & FITNESS, às fls. 47/60.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Constituição.
+    A decisão agravada negou seguimento ao recurso por intempestivo (fls. 113).
+    De início, cabe destacar a jurisprudência deste Tribunal contrária à tese da decisão ora agravada, no sentido de que se aplica a interrupção, e a não suspensão do prazo, para a interposição de outros recursos com a apresentação de embargos de declaração, nos termos do art. 538 do CPC, mesmo nos juizados especiais. Nesse sentido, veja-se a ementa do AI 451.078-AgR, julgado sob a relatoria do Ministro Eros Grau:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. JUIZADO ESPECIAL. EMBARGOS DE DECLARAÇÃO CONTRA ACÓRDÃO DA TURMA RECURSAL. EFEITOS. RECURSO PROVIDO. 1. Lei 9.099/95, artigos 48 e 50. Cabimento de embargos de declaração contra sentença. Suspensão do prazo recursal. Norma restritiva aplicável a sentenças, que não pode ser estendida à hipótese de embargos declaratórios opostos contra acórdão de turma recursal, apesar de os juizados especiais estarem alicerçados sobre o princípio da celeridade processual, cuja observância não deve implicar redução do prazo recursal. 2. Embargos declaratórios opostos contra acórdão de turma recursal. Efeito. Interrupção do prazo estabelecido para eventual recurso. Aplicação da regra prevista no Código de Processo Civil. Norma restritiva. Interpretação. As normas restritivas interpretam-se restritivamente. 3. Agravo regimental provido, para afastar a intempestividade prematuramente declarada pelo juízo "a quo", determinando-se a subida do recurso extraordinário, que somente deverá ocorrer após o transcurso do prazo concedido ao recorrido para apresentar contra-razões.”
+    Conheço, portanto, do agravo e passo à análise do mérito do recurso extraordinário.
+    O recurso não deve ser provido. É que, para dissentir do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente, procedimento inviável em recurso extraordinário. Nessa linha, veja-se a ementa do ARE 751.556-AgR, julgado sob a relatoria da Ministra Rosa Weber:
+    “DIREITO PROCESSUAL CIVIL. JUIZADOS ESPECIAIS CÍVEIS. DESERÇÃO DO RECURSO RECONHECIDA POR TURMA RECURSAL. DEFICIENTE COMPROVAÇÃO DO PREPARO. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 24.01.2013.
+    As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate atinente à deserção do recurso manejado contra acórdão de Turma Recursal, em razão da deficiente comprovação do preparo.
+    A suposta afronta aos preceitos constitucionais indicados nas razões recursais dependeria da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, a, da Lei Maior.
+    Agravo regimental conhecido e não provido.”
+    Outros julgados nesse mesmo sentido: ARE 681.939-AgR, Rel.ª Min.ª Rosa Weber, ARE 691.292-AgR, Rel. Min. Dias Toffoli, e RE 666.418-AgR, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 14 de abril de 2014.
+Ministro Luís Roberto Barroso
+Relator
