@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. BENEFÍCIO CONCEDIDO APÓS PREVISÃO LEGAL DE DECADÊNCIA. MEDIDA PROVISÓRIA N. 1.523/1997, CONVERTIDA NA LEI N. 9.528/1997. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “PREVIDENCIÁRIO. PROCESSUAL CIVIL. DECADÊNCIA DO DIREITO DO SEGURADO À REVISÃO DO BENEFÍCIO.
+    1. Para os benefícios concedidos a partir da vigência da MP nº 1.523-9, de 27/06/1997, o prazo decadencial é de dez anos, contado do dia primeiro do mês seguinte ao do recebimento da primeira prestação, ou do dia do conhecimento da decisão indeferitória definitiva no âmbito administrativo.
+    2. Transcorrido o lapso decadencial, impõe-se a extinção da ação, com julgamento do mérito, nos termos do artigo 269, inciso IV, do CPC.
+    (…) No caso dos autos, sendo o requerimento administrativo posterior à vigência da MP nº 1.523-9, e tendo transcorrido período superior a 10 anos entre o primeiro dia do mês seguinte ao recebimento da primeira prestação (01-12-1997, tendo em vista a DIP em 14-11-1997) e o ajuizamento da ação (12-11-2009), deve ser reconhecida a decadência do direito do segurado à revisão do benefício” (grifos nossos).
+    2. O Agravante afirma que o Tribunal de origem teria contrariado o art. 5°, inc. XXXVI, da Constituição da República, por ofensa ao direito adquirido.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. Inicialmente, cumpre ressaltar que a presente controvérsia não guarda pertinência com a questão constitucional trazida no Recurso Extraordinário n. 626.489, Relator o Ministro Ayres Britto, cuja repercussão geral foi reconhecida por este Supremo Tribunal.
+    Naquele processo, o objeto da querela é a aplicação do prazo decadencial previsto na Medida Provisória n. 1.523/1997 a benefícios concedidos antes da sua edição; neste, especificamente, sobre a incidência ou não da decadência do direito de revisão de benefício previdenciário concedido após a edição da Medida Provisória n. 1.523/1997.
+    6. Como anotado, acertadamente, na decisão agravada, a apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Medida Provisória n. 1.523/1997, convertida na Lei n. 9.528/1997). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. BENEFÍCIO CONCEDIDO APÓS PREVISÃO LEGAL DA DECADÊNCIA. MEDIDA PROVISÓRIA N. 1.523/1997, CONVERTIDA NA LEI N. 9.528/1997. DISCUSSÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 689.729-AgR, de minha relatoria, Segunda Turma, DJe 3.6.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO CONCEDIDO APÓS A EDIÇÃO DA MEDIDA PROVISÓRIA 1.523/1997. DECADÊNCIA. REEXAME DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação das normas infraconstitucionais que fundamentam o acórdão a quo. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Agravo regimental improvido” (ARE 738.168- AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 28.5.2013).
+    “DIREITO PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. REVISÃO DE BENEFÍCIO CONCEDIDO APÓS A EDIÇÃO DA MEDIDA PROVISÓRIA 1.523/1997. DECADÊNCIA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO PUBLICADO EM 12.5.2011. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento” (ARE 690.967-ED, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 11.4.2013).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de abril de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
