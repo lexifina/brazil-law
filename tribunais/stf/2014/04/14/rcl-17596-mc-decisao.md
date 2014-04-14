@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, que confirmou sentença de parcial procedência de ação civil pública, no sentido de determinar a obrigação de não fazer, consistente na proibição de contratação de parentes de autoridades empregadas nas pessoas jurídicas que figuram como partes na referida ação.
+    Sustenta a reclamante, em síntese, que o ato impugnado teria ampliado indevidamente o alcance do conteúdo normativo da Súmula Vinculante 13. Aduz que, nos termos da decisão reclamada, estariam proibidas até mesmo as contratações quando o vínculo entre agentes públicos ocorre entre funcionários lotados em pessoas jurídicas distintas, sem comprovação de “ajuste mediante designações recíprocas”. Alega que o verbete vinculante não alcançaria referida situação, citando como base para tal raciocínio a inclusão no texto da Súmula da expressão “da mesma pessoa jurídica”.
+    Requer o deferimento de medida liminar, uma vez que, “A prevalecer a decisão de Origem, a Reclamante deverá exonerar de seus quadros a atual Diretora de Gestão Educacional que, embora não faça parte da ação civil pública, será injustamente atingida pelos efeitos da decisão por ser esposa de vereador.”
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, de modo a garantir a efetividade do resultado futuro e provável juízo de procedência. No caso, não foi demonstrada a iminência de ato que caracterize a indispensabilidade de urgente tutela jurisdicional, porquanto, como revela a própria reclamante, a servidora que seria alcançada pela decisão na origem sequer fez parte da ação civil pública. Assim, o risco a que estaria exposta a reclamante, pelo menos nesse juízo sumário, ínsito ao exame das medidas urgentes, revela-se apenas hipotético, sem conteúdo persuasivo suficiente para demandar urgente intervenção desta Suprema Corte.
+    3. Ante o exposto, indefiro a liminar. Solicitem-se informações à autoridade reclamada.
+    Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 14 de abril de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
