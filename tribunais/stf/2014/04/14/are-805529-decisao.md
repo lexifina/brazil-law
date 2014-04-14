@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado, no que interessa:
+    “ADMINISTRATIVO – AGENTE PENITENCIÁRIO ESTADUAL – CONTRATAÇÃO POR TEMPO DETERMINADO – PRORROGAÇÃO – NULIDADE - O contratado pela Administração Pública por tempo determinado para atender a necessidade temporária de excepcional interesse público faz jus ao recebimento das verbas contratuais e daquelas estabelecidas pela legislação aplicável. Constatada a ilegalidade da contratação temporária, são devidas ao contratado as verbas previstas no art. 39, § 3º, da CR, sob pena de enriquecimento sem causa da Administração Pública. (Des. Alyrio Ramos) (...)”. (fl. 242)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, sustenta-se ofensa aos artigos 7º, VIII, c/c 39, § 3º; e 37, caput, do texto constitucional.
+    Nas razões recursais, sustenta-se o direito ao recebimento do 13º salário, pois não houve comprovação de quitação da referida parcela.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Com efeito, o Plenário Virtual desta Corte admitiu a repercussão geral da questão relativa à extensão de direitos decorrentes da ocupação de cargo público no exercício de função temporária, no julgamento do ARE-RG 646.000, Rel. Min. Marco Aurélio, DJe 29.6.2012.
+    No entanto, verifica-se que, no caso dos autos, o que está em questão é a prova de quitação do 13º salário, o qual a parte pretende receber.
+    Observo que divergir do entendimento do acórdão recorrido com relação à prova de quitação da referida verba trabalhista demandaria o reexame do conjunto fático-probatório constante dos autos, providência vedada na via extraordinária, nos termos do Enunciado 279 da Súmula do STF.
+    Confiram-se, a propósito, o seguinte precedente:
+    “DIREITO DO TRABALHO. CONTRATO DE TRABALHO TEMPORÁRIO. CARACTERIZAÇÃO. FISCALIZAÇÃO. APLICAÇÃO DE MULTA. ARTS. 5º, II, 37, CAPUT, E 114, I E VI, DA CF/88. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356. OFENSA REFLEXA. ANÁLISE DE FATOS E PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS STF 279 E 454. TRASLADO INCOMPLETO: FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA STF 283. 1. Ausência de prequestionamento dos dispositivos constitucionais tidos como violados, porque não abordados pelo acórdão recorrido, e, embora suscitados nos embargos de declaração a ele opostos, não foram apontados oportunamente na ocasião em que foram apresentadas as razões de apelação. Súmulas STF 282 e 356. Precedentes. 2. Controvérsia decidida com fundamento no conjunto fático probatório dos autos e na legislação infraconstitucional que disciplina a matéria. Incide, na espécie, o óbice das Súmulas STF 279 e 454. 3. Permanece inatacado o fundamento da decisão agravada referente à falta, no traslado, do inteiro teor do acórdão recorrido, o que atrai a incidência da Súmula STF 283. 4. A jurisprudência desta Corte está sedimentada no sentido de que as alegações de violação a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa –, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. 5. Agravo regimental a que se nega provimento”. (AI-AgR 822.570 Rel. Min. ELLEN GRACIE, DJe 29.6.2011)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 14 de abril de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
