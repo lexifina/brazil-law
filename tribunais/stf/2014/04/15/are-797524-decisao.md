@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 62):
+    “ENERGIA ELÉTRICA. AÇÃO DE INDENIZAÇÃO DE DANOS MORAIS. DEMORA INJUSTIFICADA DO RESTABELECIMENTO DE ENERGIA ELÉTRICA. AGIR IRREGULAR DA CONCESSIONÁRIA. DANOS MORAIS CONFIGURADOS.
+    1. Sustentou a autora que, em razão da construção de uma nova residência, em outubro de 2011 solicitou o desligamento dos cabos de energia, continuando a pagar sua fatura a título de “disponibilidade do sistema elétrico” tendo em vista que não desejava o cancelamento dos serviços. Em 23 de julho solicitou a religação da energia, o que somente foi cumprido em 01-08-2012, por determinação judicial e após vários protocolos. Postulou indenização pelos danos morais enfrentados.
+    2. Houve, de fato, demora injustificada do restabelecimento do serviço de fornecimento de energia elétrica. Conforme tela acostada pela própria ré, em 26-07-2012 foi solicitada a troca do medidor, o que foi feito somente em 01-08-2012, por ordem judicial (fl. 17/17v). Destaca-se que há prazo legal de 48 horas para o restabelecimento da energia elétrica que deve ser cumprido e a ré trouxe aos autos somente tela parcial referente a UC da autora (fl. 27), dando conta da ordem judicial atendida.
+    3. A situação enfrentada pela autora, que não pode ingressar na nova residência pelo fato da privação do fornecimento de energia, pois o funcionamento de todos os aparelhos eletrodomésticos depende do fornecimento desse serviço essencial, autoriza a fixação de danos morais, que transborda o mero dissabor cotidiano. Conforme os atuais parâmetros adotados pelas Turmas Recursais em casos análogos o quantum indenizatório vai fixado em R$ 2.000,00(dois mil reais).
+    4. A correção monetária dar-se-á pelo IGP-M a contar desta data, acrescido de juros moratórios de 1% ao mês a contar da citação.
+    RECURSO PARCIALMENTE PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, II; 22, IV; e 175 parágrafo único, I e II, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o seguintes fundamentos: (i) “os dispositivos legais invocados não foram ventilados pelo Órgão Julgador, tampouco manejados embargos de declaração para que suprida fosse eventual omissão”; e (ii) “para se averiguar a existência da responsabilidade objetiva da recorrente, acerca dos danos morais ocorridos, se faz necessária a incursão nos elementos fático-probatórios existentes nos autos”.
+    O recurso não deve ser provido. De início, nota-se que as alegadas violações aos dispositivos constitucionais não foram apreciadas pelo acórdão recorrido. Tampouco foram opostos embargos de declaração para sanar eventual omissão. O recurso extraordinário carece, portanto, de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, tal como constatou a decisão agravada, a solução da controvérsia pressupõe, necessariamente, o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF. Nessa linha, veja-se a ementa do AI 801.186-AgR, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Agravo regimental em agravo de instrumento. 2. Inadimplemento por fraude do medidor: pagamento a menor. 3. Suspensão do serviço de energia elétrica: impossibilidade. 4. Súmulas STF 636 e 279: incidência. Precedentes. 5. Agravo regimental a que se nega provimento.”
+    Outros precedentes no mesmo sentido: ARE 666.423, Rel. Min. Luiz Fux, e ARE 657.244, Rel. Min. Ricardo Lewandowski.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço o agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 15 de abril de 2014.
+Ministro Luís Roberto Barroso
+Relator
