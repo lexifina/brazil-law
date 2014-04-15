@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. No que tange à prescrição, o acórdão recorrido está em consonância com a jurisprudência do Supremo Tribunal Federal firmada no julgamento do TEMA 4 da Repercussão Geral (RE 566.621, Rel. Min. ELLEN GRACIE).
+    3. Quanto à alegação de ofensa aos arts. 5º, II, e 150, I, da Constituição Federal, em relação ao princípio da legalidade, incide o óbice da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    4. Por fim, as questões relativas à ilegitimidade das regras de imputação proporcional impostas pelo Fisco no procedimento de compensação tributária (Vol. 3, fl. 611) restringem-se à análise de normas infraconstitucionais (Código Tributário Nacional; Leis federais 10.637/02, 9.430/96 e 4.414/64) e de norma infralegal (IN/SRF 600/05). Com efeito, eventual ofensa à Constituição seria meramente indireta ou reflexa. Nesse sentido, em caso análogo:
+    EMENTA: Agravo regimental no agravo de instrumento. Correção monetária de indébito tributário. Questão infraconstitucional. Ofensa reflexa ou indireta. 1. As questões relativas à compensação tributária, correção monetária e incidência de juros em eventual crédito do contribuinte para com a Fazenda Pública não transbordam os limites do âmbito infraconstitucional, sendo que eventual incompatibilidade com a Constituição Federal, caso ocorresse, dar-se-ia de forma meramente reflexa ou indireta. Precedentes. 2. Os fundamentos do agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 3. Agravo regimental não provido. (AI 637.541-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 7.2.12)
+    5. Diante do exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 15 de abril de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
