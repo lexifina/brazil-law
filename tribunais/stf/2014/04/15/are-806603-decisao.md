@@ -1,0 +1,20 @@
+Decisão: 1. Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto em execução fiscal. O Tribunal Regional Federal da 2ª Região decidiu, em suma, que “a justiça estadual possui competência delegada para processar e julgar as execuções fiscais promovidas pela União e suas autarquias contra devedores domiciliados em comarca que não é sede de vara federal” (e-STJ fl. 68)
+    Os embargos de declaração opostos foram rejeitados.
+    No recurso extraordinário, a parte recorrente aponta, com base no art. 102, III, a, da Constituição Federal violação ao art. 109, § 3º, da CF, pois (a) “a delegação da jurisdição federal para a justiça estadual deve ser interpretada de forma restrita, eis que trata de verdadeira exceção à regra geral de competência da justiça federal” (e-STJ fl. 135); (b) “somente a primeira parte do art. 109, § 3º da CRFB/88 possui natureza de competência absoluta” (e-STJ fl. 135); (c) “a norma constitucional não cria critérios absolutos de competência em relação às execuções fiscais” (e-STJ fl. 136), visto tratar-se “de regra de competência territorial, diante da ausência de um juízo certo e único, já que existe mais de um órgão julgador com competência para apreciar a matéria” (e-STJ fl. 137).
+    2. O acórdão recorrido está em conformidade com a jurisprudência do Supremo Tribunal Federal, segundo a qual a Justiça Estadual é competente para processar e julgar as execuções fiscais ajuizadas nas comarcas em que não haja Vara da Justiça Federal. Nesse sentido, citem-se os seguintes precedentes:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXECUÇÃO FISCAL. EMPRESA PÚBLICA FEDERAL. COMPETÊNCIA. ARTIGO 109, I E § 3º DA CB/88.
+    1. Nas comarcas do interior onde não funcione Vara da Justiça Federal, os Juízes Estaduais serão competentes para apreciar os executivos fiscais da União e de suas autarquias, ajuizados contra devedores domiciliados nas respectivas comarcas.
+    2. Incide aqui o disposto no artigo 15, I, da Lei n. 5.010/66.
+    Agravo regimental a que se nega provimento. (RE 232.472-AgR, rel. Min. EROS GRAU, Segunda Turma, DJe de 15-08-2008)
+    CONSTITUCIONAL. PROCESSO CIVIL. COMPETÊNCIA. EXECUÇÃO FISCAL. JUSTIÇA FEDERAL. ART. 109, I E § 3º. EMPRESA PÚBLICA FEDERAL CONTRA INSS.
+    1. Embora o presente processo envolva duas entidades federais: uma autarquia, na condição de autora, e uma empresa pública, na posição de ré, a recorrente é domiciliada em cidade onde existe apenas vara estadual, o que atrai a exceção criada no § 3º do art. 109 da CF/88.
+    2. A regra do inciso I do art. 15 da Lei 5.010/66, ao mesmo tempo que buscou facilitar a defesa do contribuinte, procurou garantir a própria eficácia da execução fiscal.
+    3. É evidente que atos como citação e penhora tornam-se mais fáceis e geram menos custos se o processo tramitar na mesma cidade da sede do devedor do tributo. A tramitação do feito perante uma das Varas Federais da Subseção Judiciária de São José dos Campos acarretaria desarrazoada demora na resolução do processo e inegável prejuízo à própria prestação jurisdicional.
+    4. Recurso extraordinário conhecido e improvido. (RE 390.664, rel. Min. ELLEN GRACIE, Segunda Turma, DJ de 16-09-2005)
+    3. Quanto à natureza da competência delegada da Justiça Estadual, se absoluta ou relativa, o Tribunal de origem decidiu a controvérsia tão somente a partir de interpretação e aplicação das normas infraconstitucionais pertinentes (Código de Processo Civil e Lei 5.010/66). Conforme reiterada jurisprudência desta Corte, é inviável a apreciação, em sede de recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: ARE 670.626-AgR, Primeira Turma, rel. Min. ROSA WEBER, DJe de 06/02/2013; ARE 746.649-AgR, Segunda Turma, rel. Min GILMAR MENDES, DJe de 24/6/2013.
+    4. Diante do exposto, conheço do agravo para, desde logo, negar seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 15 de abril de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
