@@ -1,0 +1,6 @@
+Solução de Consulta Diana/SRRF09 nº 6, de 11 de fevereiro de 2014
+Assunto: Classificação de Mercadorias Código TIPI: 7304.31.90 Mercadoria: Tubo oco, sem costura, de seção circular constante, de aço carbono, produzido por laminação a frio e galvanizado por eletrodeposição, com diâmetro externo de 19mm e comprimento de 25mm, denominado comercialmente “prolongador para chumbador”. Dispositivos Legais: RGI/SH 1 (texto da posição 73.04) e 6 (texto das subposições 7304.3 e 7304.31) e RGC/NCM 1 (texto do item 7304.31.90) da TIPI, aprovada pelo Decreto 7.660, de 2011; subsídios Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
+Assunto: Classificação de Mercadorias
+Código TIPI: 7304.31.90
+Mercadoria: Tubo oco, sem costura, de seção circular constante, de aço carbono, produzido por laminação a frio e galvanizado por eletrodeposição, com diâmetro externo de 19mm e comprimento de 25mm, denominado comercialmente “prolongador para chumbador”.
+Dispositivos Legais: RGI/SH 1 (texto da posição 73.04) e 6 (texto das subposições 7304.3 e 7304.31) e RGC/NCM 1 (texto do item 7304.31.90) da TIPI, aprovada pelo Decreto 7.660, de 2011; subsídios Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
