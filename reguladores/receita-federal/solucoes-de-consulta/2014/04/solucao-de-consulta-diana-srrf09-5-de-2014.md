@@ -1,0 +1,6 @@
+Solução de Consulta Diana/SRRF09 nº 5, de 5 de fevereiro de 2014
+Assunto: Classificação de Mercadorias Código TIPI: 8483.90.00 Mercadoria: Coroa de transmissão, modelo .404", apresentada isoladamente, com 9 a 16 dentes, utilizada em cabeçotes florestais para transmitir o torque do motor para a corrente, fazendo com que esta gire sobre a barra para, ao entrar em contato com o tronco, efetuar o corte da árvore. Dispositivos Legais: RGI/SH 1 (texto da posição 84.83 e Nota 2 da Seção XVI) e 6 (texto da subposição 8483.90.00) da TIPI, aprovada pelo Decreto 7.660, de 2011; subsídios Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
+Assunto: Classificação de Mercadorias
+Código TIPI: 8483.90.00
+Mercadoria: Coroa de transmissão, modelo .404", apresentada isoladamente, com 9 a 16 dentes, utilizada em cabeçotes florestais para transmitir o torque do motor para a corrente, fazendo com que esta gire sobre a barra para, ao entrar em contato com o tronco, efetuar o corte da árvore.
+Dispositivos Legais: RGI/SH 1 (texto da posição 84.83 e Nota 2 da Seção XVI) e 6 (texto da subposição 8483.90.00) da TIPI, aprovada pelo Decreto 7.660, de 2011; subsídios Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
