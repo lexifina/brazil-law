@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 71, de 28 de março de 2014
+ASSUNTO: Contribuições Sociais Previdenciárias.
+EMENTA: GILRAT. PERCENTUAL. GRAU DE RISCO. EMPRESA. ESTABELECIMENTO. OPÇÃO.
+Com o advento do Ato Declaratório PGFN nº 11, de 2011, e do Parecer PGFN/CRJ nº 2.120, de 2011, e tendo em vista o § 3º do art. 202 do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 1999, é facultado à pessoa jurídica, para fins de cálculo do percentual referente à contribuição previdenciária destinada ao financiamento dos benefícios concedidos em razão do grau de incidência de incapacidade laborativa decorrente dos riscos ambientais do trabalho, aferir o grau de risco de forma individual, por estabelecimento inscrito no Cadastro Nacional da Pessoa Jurídica, ou unificada, pela empresa como um todo.
+TERCEIROS. FPAS. INDÚSTRIA. COMÉRCIO.
+A pessoa jurídica cujo ramo de atividade consista em indústria e comércio, sem caráter de preponderância entre si, nos termos da Instrução Normativa RFB nº 971, de 2009, deve aplicar o código FPAS 507 em relação à folha de salários dos empregados que atuam na indústria, e o código FPAS 515, quanto à folha de salários dos empregados que atuam no comércio.
+DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 22, II; Lei nº 10.522, de 2002, art. 19, II, §§ 4º, 5 e 7º; Regulamento da Previdência Social (RPS), aprovado pelo Decreto nº 3.048, de 1999, art. 202, § 3º; IN RFB nº 971, de 2009, arts. 72, II, § 1º, I e II, 109, 109-B, 109-C e 110; IN RFB nº 1.453, de 2014, art. 1º; Ato Declaratório PGFN nº 11, de 2011; e Parecer PGFN/CRJ nº 2.120, de 2011.
+[arquivo anexo: SC Cosit nº 71-2014.pdf]
