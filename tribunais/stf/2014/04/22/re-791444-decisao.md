@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que determinou o cálculo dos quinquênios adquiridos antes da EC 19/1998 com base na remuneração integral da servidora.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 37, XIV, da mesma Carta, sob o argumento de que os adicionais por tempo de serviço devem ser calculados sobre o vencimento básico.
+    O recurso merece acolhida.
+    Do exame dos autos, verifica-se que a autora, ora recorrida, pretende manter, mesmo após a vigência da EC 19/1998, o cálculo de seus quinquênios – adquiridos antes da referida emenda constitucional – com base na remuneração integral recebida.
+    Essa pretensão, todavia, esbarra na jurisprudência desta Corte firmada no julgamento do RE 563.708/MS, Rel. Min. Cármen Lúcia, com repercussão geral reconhecida, em que se assentou a impossibilidade de cômputo de acréscimos pecuniários na base de cálculo de acréscimos ulteriores, nos termos do art. 37, XIV, da Constituição. Concluiu-se, desse modo, que a base de incidência da gratificação por tempo de serviço é o vencimento, e não a remuneração.
+    Ressaltou-se ainda no referido julgamento, com apoio na inexistência de direito adquirido a regime jurídico, que esse entendimento é aplicável às vantagens obtidas antes da EC 19/1998, consoante se constata no seguinte trecho do voto condutor:
+    “Tendo aplicabilidade imediata, a conclusão a que se pode chegar é a de que o art. 37, inc. XIV, da Constituição da República, nos termos definidos pela Emenda Constitucional 19/1998, não recepcionou o § 3º do art. 73 da Lei Estadual 1.102/1990, pois, conforme assentado no acórdão recorrido, este dispositivo permitia a utilização da remuneração como base de cálculo do adicional por tempo de serviço, aí incluídas qualquer acréscimo ulterior.
+    Além de não ter sido recepcionado o § 3º do art. 73 da Lei Estadual 1.102/1990, é importante realçar que nenhuma legislação posterior à Emenda Constitucional 19/1998 poderia incluir na base de cálculo de qualquer acréscimo pecuniário à remuneração de servidor acréscimos ulteriores, daí porque o Tribunal a quo limitou a condenação do Recorrente à vigência da Lei Estadual 2.157/2000, que adequou a base de cálculo do adicional por tempo de serviço aos termos da Emenda Constitucional 19/1998”.
+    Isso posto, com base no art. 557, § 1º-A, do CPC, conheço do recurso extraordinário e lhe dou provimento. Honorários a serem fixados pelo Juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 22 de abril de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
