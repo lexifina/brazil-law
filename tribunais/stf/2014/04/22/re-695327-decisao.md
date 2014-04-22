@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão assim ementado:
+    “TRIBUTÁRIO. AGRAVO LEGAL. ESCRITURAÇÃO. PIS/COFINS. BENS PARA REVENDA. ALÍQUOTA ZERO. 1. Está pacificado o entendimento nas duas Turmas de Direito Tributário deste Tribunal que o vendedor varejista de automóveis e autopeças não faz jus ao creditamento de PIS e COFINS incidente na aquisição desses produtos para fins de revenda. 2. A Lei 10.485/02 institui o regime de incidência monofásica do PIS e da COFINS nas atividades atinentes à comercialização de veículos automotores e autopeças, tributando unicamente a receita obtida pelos produtores e importadores pela venda desses produtos, e aplicando a alíquota zero sobre a receita auferida”.(eDOC 1, p. 269)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação do artigo 149, § 4º, do texto constitucional.
+    Afirma-se que deve ser reconhecido o direito ao aproveitamento dos créditos escriturais de PIS/COFINS por meio da compensação, independentemente de autorização ou requerimento administrativo.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O acórdão recorrido, ao examinar as Leis 10.485/2002, 10.865/2002, 11.033/2004, entre outras, entendeu que, uma vez concentrada a incidência tributária em uma das operações, não faz sentido o creditamento nas etapas seguintes. Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Sobre o tema, confiram-se os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. PIS. COFINS. Creditamento. Tributação monofásica. Matéria infraconstitucional. Ofensa reflexa. Precedentes. 1. A matéria aqui em discussão é dotada de cunho eminentemente infraconstitucional. Assim, eventual ofensa à Constituição Federal se daria de forma indireta ou reflexa, o que inviabiliza o apelo extremo. 2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 3. Agravo regimental não provido”. (ARE 646.173-AgR/PE, Rel. Min. Dias Toffoli, Primeira Turma, DJe 22.8.2012)
+    “TRIBUTÁRIO. ICMS. APURAÇÃO DE CRÉDITOS. TRANSFERÊNCIA. ESTOQUE. INSTRUÇÃO NORMATIVA 05/1992. ILEGALIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. O Tribunal de origem concluiu que a Instrução Normativa SAT 05/92 seria ilegal porque estabeleceu um critério de apuração do crédito de ICMS não previsto em lei. Assim, eventual ofensa à Constituição Federal seria indireta e reflexa, o que elide o processamento do recurso extraordinário. 2. Agravo regimental a que se nega provimento”. (RE 412.577-AgR/RS, Rel. Min. Ellen Gracie, Segunda Turma, DJe 22.8.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÕES PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS E PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL – PIS. DIREITO AO CRÉDITO. TRIBUTAÇÃO MONOFÁSICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 648.586-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 11.10.2011)
+    Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+    Publique-se.
+    Brasília, 22 de abril de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
