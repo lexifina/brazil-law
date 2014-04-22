@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 43, de 19 de fevereiro de 2014
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: Contribuição Previdenciária sobre a Receita Bruta (CPRB). EXCLUSÃO DA BASE DE CÁLCULO. A receita bruta decorrente das atividades de construção, conservação, modernização e reparo de embarcações pré-registradas ou registradas no Registro Especial Brasileiro (REB), realizadas por estaleiro naval brasileiro - por serem tais atividades equiparadas à operação de exportação para todos os efeitos legais e fiscais - pode ser excluída da base de cálculo da Contribuição Previdenciária sobre a Receita Bruta (CPRB). DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, arts. 7º a 9º e Lei nº 9.432, de 1997, art. 11, § 9.
+[arquivo anexo: SC Cosit nº 43-2014.pdf]
