@@ -1,0 +1,20 @@
+DECISÃO
+EXTRADIÇÃO. PRISÃO PREVENTIVA DECRETADA. DECISÃO NEGATÓRIA DE SEGUIMENTO. POSTERIOR COMUNICAÇÃO DE PRISÃO DO EXTRADITANDO. NÃO MANIFESTAÇÃO DO ESTADO REQUERENTE. DETERMINAÇÃO DE EXPEDIÇÃO DO ALVARÁ DE SOLTURA. ARQUIVAMENTO DOS AUTOS.
+Relatório
+    1. Pelo Aviso n. 1785-MJ, com base em promessa de reciprocidade, o Ministro da Justiça encaminhou a este Supremo Tribunal Federal “pedido de extradição formulado pelo Governo da Alemanha em desfavor do nacional alemão PAUL LANGE, por meio da Nota Verbal nº 365, de 27 de agosto de 2012, anexa, regularmente apresentada via diplomática” (fl. 2).
+    2. Em 7.3.2014, neguei seguimento à presente extradição, determinei a revogação da prisão preventiva e recolhimento do mandado de prisão expedido em desfavor de Paul Lange nos termos seguintes:
+    “EXTRADIÇÃO. PRISÃO PREVENTIVA DECRETADA. NÃO-CUMPRIMENTO DO MANDADO DE PRISÃO. OMISSÃO DO ESTADO-REQUERENTE EM COMPLEMENTAR A INSTRUÇÃO DO PEDIDO. ARQUIVAMENTO DA PRESENTE EXTRADIÇÃO. PEDIDO DE EXTRADIÇÃO AO QUAL SE NEGA SEGUIMENTO” (fl. 113).
+    3. Os ofícios ns. 7184/2014, 7185/2014 e 7186/2014, para a intimação dessa decisão, foram expedidos em 17.3.2014 (fls. 141-143) e encaminhados, em 19.03.2014, ao Ministério de Estado da Justiça, Ministério das Relações Exteriores e Polícia Federal.
+    4. Em 19.3.2014, antes de se comprovar ter sido devidamente cientificada daquela decisão, a Polícia Federal comunicou que, no dia imediatamente anterior, vale dizer, em 18.03.2014, após a decisão indeferitória da extradição requerida, foi dado cumprimento ao mandado de prisão expedido em desfavor do Extraditando (fl. 118).
+    5. Em 26.3.2014, o Ministério das Relações Exteriores comunicou o “recebimento do Ofício nº 7185/2014, de 17 de março de 2014, relativo ao pedido de extradição do nacional alemão PAUL LANGE (Extradição nº 1291) e inform[ou], a respeito, que por Nota Verbal de 25 de março de 2014, foi transmitida à Embaixada da Alemanha a decisão dessa Egrégia Corte sobre o caso em apreço” (fl. 131, grifos nossos).
+    6. Em 22.4.2014, o Ministério de Estado da Justiça informou “que não recebeu mensagem oficial sobre o recolhimento do mandado de prisão em questão, tendo, inclusive, encaminhado a essa Suprema Corte o Aviso nº 316, de 28.3.2014, no qual informa sobre o cumprimento do mandado de prisão, realizado pela Interpol, em 18.3.2014, no estado de Pernambuco”, pelo que “solicito a gentileza de enviar a documentação oficial sobre o assunto, assim como a ordem de recolhimento do mandado de prisão para que este Ministério notifique a Interpol e o Governo da Alemanha” (fl. 145).
+    Examinada a matéria posta à apreciação, DECIDO.
+    7. Com a decisão pela qual se negou seguimento à presente extradição e contra a qual não houve, até a presente data, interposição de recurso ou renovação do pedido de extradição pelo Estado Requerente, o qual continua silente apesar de devidamente intimado tanto da decisão de indeferimento da extradição quanto da prisão em 25.3.2014 (f. 131), a manutenção da prisão do Extraditando não tem embasamento jurídico.
+    8. Pelo exposto, expeça-se imediato alvará de soltura em favor de PAUL LANGE, colocando-o em liberdade, se por outro fato não estiver o Extraditando preso.
+    9. Na sequência, cumpra-se a parte final da decisão de 7.3.2014, arquivando-se os presentes autos e os da Prisão Preventiva para Extradição n. 680 em apenso.
+    Oficie-se à representação diplomática do Estado Requerente, pelo Ministro das Relações Exteriores e ao Ministério de Estado da Justiça, os termos desta decisão; comunique-se, com urgência, via telex, ao Superintendente da Polícia Federal em Pernambuco (fl. 118).
+    Remeta-se, com o ofício a ser encaminhado ao Ministro de Estado da Justiça, com urgência e por fax, cópias da decisão de 7.3.2014 (fls. 113-116), do ofício de fl. 141 e da presente decisão, solicitando àquela autoridade que informe a este Supremo Tribunal a data que a representação diplomática do Estado requerente receber a comunicação.
+    Publique-se.
+     Brasília, 22 de abril de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
