@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que a parte recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. O Plenário do Supremo Tribunal Federal, ao julgar o RE 596.478 RG, rel. Min. ELLEN GRACIE, rel. p/ acórdão Min. DIAS TOFFOLI, DJe de 01/03/2013, Tema 191, sob o regime do art. 543-B do CPC (repercussão geral), consolidou entendimento em relação à matéria versada no presente recurso extraordinário. Esse acórdão restou assim ementado:
+    EMENTA Recurso extraordinário. Direito Administrativo. Contrato nulo. Efeitos. Recolhimento do FGTS. Artigo 19-A da Lei nº 8.036/90. Constitucionalidade. 1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário. 2. Mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados. 3. Recurso extraordinário ao qual se nega provimento.
+    Considerada a especial eficácia vinculativa desse julgado (CPC, art. 543-B, § 3º), impõe-se sua aplicação, nos mesmos termos, aos casos análogos, como o dos autos.
+    Assim, por estar em consonância com o entendimento jurisprudencial acima demonstrado, não merece reparos, nesse ponto, o acórdão recorrido.
+    3. Em relação à anotação do período trabalhado na CTPS e ao índice de juros aplicável à condenação, o Tribunal Superior do Trabalho limitou-se a não conhecer do recurso de revista. O presente recurso, a seu turno, discute questões de mérito, as quais somente poderiam ser analisadas caso houvesse a reversão do juízo de não conhecimento do recurso de revista. Nessa perspectiva, o objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG (Rel. Min. AYRES BRITTO, Tema 181), por se tratar de questão infraconstitucional.
+    Por fim, quanto à incidência de juros, não cabe recurso extraordinário por ofensa a matéria infraconstitucional, a teor da literalidade do art. 102, III, a, da Constituição.
+    4. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 22 de abril de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
