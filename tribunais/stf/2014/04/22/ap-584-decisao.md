@@ -1,0 +1,25 @@
+Decisão:
+    Cuida-se de Queixa-Crime ofertada por Paulo Bernardo Silva contra o Senador da República Roberto Requião de Mello e Silva, em razão de suposta prática de crimes de calúnia (CP, art. 138) e injúria (CP, art. 140).
+    Destaco que se cuida de ação penal em trâmite desde abril de 2010, com recebimento da queixa recebida pela Justiça Federal de primeira instância aos 16/4/2010 (fls. 93/94), ante expressa menção por parte do querelante em seu desinteresse na reconciliação.
+    Sobrevindo a eleição do réu para mandato eletivo ao Senado da República, vieram os autos a este Supremo Tribunal, por força do que dispõem os arts. 53, § 1º e 102, inciso I, “b”, da Constituição Federal, tendo os autos aportado neste gabinete aos 16/3/2011, com determinação para seu regular prosseguimento na data de 17/3/2011 (fls. 172 a 174).
+    Em 13/10/11 declarei extinta a punibilidade do querelado pela imputação de violação ao disposto no art. 140 do Código Penal (injúria), prosseguindo-se a ação apenas em relação ao delito previsto no art. 138 do Código Penal (calúnia).
+    O querelado foi devidamente interrogado (fls. 363/367), confirmando a autoria das expressões acima transcritas, negando, todavia, a intenção de caluniar o querelante.
+    Na fase do art. 10 da Lei n° 8.038/90 as partes requereram a juntada de novos documentos (fls. 402 a 471, 425 a 428) e expedição de ofícios, o que foi deferido (fls. 435/436).
+    Paulo Bernardo Silva manifestou-se nos termos do art. 11 da Lei n° 8.038/90 às fls. 513/572, pugnando pela condenação do querelado nos termos da inicial.
+    O querelado, às fls. 575/641, pugnou pela sua absolvição, nos termos do art. 386, III, do CP, pelas seguintes razões: a) o reconhecimento da atipicidade da conduta, à míngua do elemento anímico específico do tipo penal, a saber: o propósito puro e simples de ofender (ausência de dolo/tipo subjetivo). É que as manifestações do querelado sobre o tema político foram revestidas de animus defendendi ou criticandi, já que impulsionadas pelo interesse público e pelos deveres éticos inerentes ao mandato de Governador de Estado; b) o reconhecimento da atipicidade do comportamento imputado, pois restaram suficientemente comprovadas as bases empíricas mediante as quais o querelado representou mentalmente que o querelante PAULO BERNARDO e o ex-preposto da iniciativa privada, o Sr. BERNARDO FIGUEIREDO, propuseram-lhe a construção de obra ferroviária superfaturada e com benefícios esdrúxulos em favor da ALL (perdão do valor arrendado, amortização do financiamento do BNDES e pedágio). Houve, assim, defeito cognitivo do querelado quanto à presença da elementar normativa falsidade inerente ao delito do art. 138, do CP (erro de tipo - CP, art. 20): o Senador ROBERTO REQUIÃO acreditava - como ainda acredita - estar falando a verdade, do que resulta a ausência de calúnia.
+    O Ministério Público Federal ofereceu sua manifestação pugnando pela absolvição do querelado quanto ao delito descrito no art. 138 do Código Penal (fls. 645 a 653).
+    O feito foi por mim encaminhado ao eminente Ministro Luiz Fux, revisor, na data de 1º/2/13 (fls. 655/663), e que, na sequência, o liberou para julgamento aos 22/4/13 (fl. 665).
+    Pautado para julgamento pelo Plenário maior da Corte aos 10/4/14, diante de pedido de adiamento para realização de sustentação por parte do querelante, com o que anuiu a defesa do querelado, o Tribunal, por maioria, deferiu o pedido de adiamento (fl. 677).
+    É o relatório.
+    Examinados, decido.
+    O fato imputado ao querelado deu-se aos 23/2/2010. A queixa foi recebida em 16/4/2010.
+     Verifico, assim, que se consumou a prescrição da pretensão punitiva estatal contra o querelado em relação ao crime capitulado no art. 138 do Código Penal (calúnia), mesmo presente a causa de aumento prevista nos incisos II e III do art. 141 do mesmo codex, devendo ser declarada, in limine, a extinção da punibilidade do agente por essa infração.
+    Isso porque o querelado, atualmente, conta com mais de 70 (setenta) anos de idade (nascido que é, em conformidade com o documento de fl. 341, aos 5/3/1941), o que faz incidir a regra do art. 115 do Código Penal, reduzindo-se à metade o prazo prescricional para o delito cometido.
+    Como se vê, tem-se que da data do recebimento da denúncia (em 16/4/2010 – fls. 93/94) até a presente, já transcorreu mais de 4 (quatro) anos, encontrando-se prescrito o crime previsto no art. 138 do CP, que tem sanção estabelecida de no máximo dois (2) anos de detenção, acrescida de 1/3 (um terço) em razão da causa especial de aumento prevista nos incisos II e III do art. 141 do mesmo diploma legal, totalizando pena máxima de dois (2) anos e 8 (oito) meses de detenção.
+    Nessa conformidade, nos termos do que dispõe o inciso IV do art. 107, c.c. o inciso IV do art. 109 e os artigos 111 e 115, todos do Código Penal, DECLARO EXTINTA A PUNIBILIDADE do querelado pelo citado delito de calúnia.
+    Transitada em julgado, arquivem-se.
+    Publique-se.
+    Brasília, 22 de abril de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
