@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Fernando Guilherme Ferreira Leite e Brenner Guilherme Luciano Martins contra acórdão da Quinta Turma do Superior Tribunal de Justiça proferido nos autos do HC 262.401/MG, com a seguinte ementa:
+    “(...)
+     1. A colidência de defesas só se configura quando um réu atribui a outro a prática criminosa que só pode ser imputada a um único acusado, de modo que a condenação de um ensejará a absolvição do outro; ou quando o delito tenha sido praticado de maneira que a culpa de um réu exclua a do outro. Precedentes do STJ e do STF.
+    2. No caso dos autos, do teor dos interrogatórios judiciais dos acusados, observa-se que ambos negam a prática criminosa, atribuindo-a a um terceiro, sendo que em momento algum imputaram um ao outro o homicídio em apuração.
+    3. Pequena divergência entre as versões apresentadas pelos réus em juízo não enseja o reconhecimento da nulidade em questão.
+    4. Habeas corpus não conhecido.”
+    Sustenta o impetrante, em síntese, que (a) os pacientes foram pronunciados pela suposta prática do crime de homicídio qualificado (art. 121, § 2º, II, do CP); (b) o Tribunal de Justiça local negou provimento ao recurso em sentido estrito interposto pela defesa; (c) nulidade da ação penal em face da colidência de defesas, “eis que a defesa de um deles compromete a plenitude da do outro”; (d) excesso de prazo na instrução criminal, já que os pacientes estão presos cautelarmente a quase 1 ano e meio. Requer, assim, o deferimento do pedido de liminar, para que os pacientes aguardem em liberdade o julgamento da presente impetração. No mérito, postula a nulidade da ação penal.
+    2. Com relação ao excesso de prazo, a jurisprudência do STF é no sentido de que a demora para conclusão da instrução criminal, como circunstância apta a ensejar constrangimento ilegal, somente se dá em hipóteses excepcionais, nas quais a mora seja decorrência de (a) evidente desídia do órgão judicial; (b) exclusiva atuação da parte acusadora; ou (c) outra situação incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da CF/88. Ilustrativo, a esse respeito, entre outros, os seguintes precedentes: HC 113357, Relator(a): Min. GILMAR MENDES, Segunda Turma, DJe de 06-05-2013; HC 86850, Relator(a): Min. JOAQUIM BARBOSA, Segunda Turma, DJ 06-11-2006; HC 87913, Relator(a): Min. CÁRMEN LÚCIA, Primeira Turma, DJ 07-12-2006. No caso, não há nos autos elementos concretos aptos a evidenciar, desde logo, manifesta situação de constrangimento ilegal. Assim, convém aguardar as informações.
+    3. Com essas considerações, indefiro o pedido de liminar. Solicitem-se informações ao Segundo Tribunal do Júri de Belo Horizonte/MG. Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 22 de abril de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
