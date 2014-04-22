@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 104, de 7 de abril de 2014
+ASSUNTO: Contribuição de Intervenção no Domínio Econômico – CIDE. EMENTA: PARTICIPAÇÃO EM EVENTO “STARTUP” NO EXTERIOR. INCIDÊNCIA SOBRE REMESSAS. Estão sujeitos ao pagamento da Contribuição de Intervenção no Domínio Econômico – CIDE, a partir de 1.º de janeiro de 2002, os valores pagos, creditados, entregues, empregados ou remetidos a beneficiário residente ou domiciliado no exterior em decorrência da participação de empregados e/ou diretores em eventos “StartUp”. DISPOSITIVOS LEGAIS: Lei n.º 10.168, de 2000, e alterações posteriores, art. 2. º e §§ 1.º e 2.º; Decreto n.º 4.195, de 2002, art. 10; IN RFB n.º 1.455, de 2014, art. 17, II, “a”.
+[arquivo anexo: SC Cosit nº 104-2014.pdf]
