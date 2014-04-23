@@ -1,0 +1,28 @@
+Decisão: Trata-se de mandado de segurança, com pedido liminar, impetrado por Gelsion Costa Paniago em face do Procurador-Geral da República, em razão de sua eliminação do concurso público para provimento de cargos do Ministério Público da União.
+    Em síntese, o impetrante alega que se inscreveu para concorrer a uma das vagas destinadas ao cargo de Técnico de Apoio Especializado/Transporte do Ministério Público da União, sendo classificado na prova objetiva e convocado para a de aptidão física, conforme o Edital n. 20 da PGR/MPU, de 18 de outubro de 2010.
+    Argumenta que, apesar de convocado para o teste de aptidão física, não poderia realizar o exame, visto que adoeceu (dengue), tendo que permanecer internado. Nesse sentido, ressalta que o edital de abertura declarava o seguinte:
+    “9.9.2 Os casos de alteração psicológica e/ou fisiológica temporários (estados menstruais, gravidez, indisposições, cãibras, contusões, luxações, fraturas etc.) que impossibilitem a realização do teste ou diminuam a capacidade física dos candidatos não serão levados em consideração, não sendo concedido qualquer tratamento privilegiado”.
+    Afirma assim que não foi classificado para a prova prática de direção veicular, em razão de ato do Procurador-Geral da República, ao argumento de abuso na previsão dos casos de reprovação no primeiro edital, que estabelecia, no item 15.18, a eliminação automática do candidato, em caso de não comparecimento para a realização das provas práticas, uma vez que não haveria segunda chamada.
+    Questiona, desse modo, a legalidade dessa previsão editalícia de eliminação automática do certame, pelo não comparecimento para a realização da prova de aptidão física.
+    Sustenta seu direito líquido e certo de realizar a prova prática, visto que o não comparecimento se deu por motivo de força maior.
+    Requer a concessão da medida liminar para determinar a sua dispensa da realização do TAF – Teste de Aptidão Física, por não ser razoável e proporcional que se exija tal habilidade para o cargo de Técnico de Apoio Especializado/Transporte e, consequentemente, seja autorizada a realização da 3ª etapa do certame, a prova de direção veicular, com designação de nova data. Alternativamente, a determinação para que o impetrante possa realizar o exame físico – TAF, em data a ser designada pela Comissão.
+    No mérito, pugna pela confirmação da liminar, em todos os seus termos, e concessão definitiva da segurança.
+    O pedido liminar foi indeferido (eDOC 24).
+    Devidamente intimado, o Procurador-Geral da República, ora autoridade coatora, prestou suas informações (eDOC 29), pugnando pela improcedência do pedido.
+    Decido.
+    A questão central do mandado de segurança refere-se à possível ilegalidade da autoridade coatora ao não permitir que o impetrante participasse da prova de direção veicular.
+    No caso, verifico que o edital de abertura do concurso determinava que o não comparecimento do candidato para a realização da prova prática implicaria a sua eliminação do certame, conforme abaixo transcrito:
+    “15.18 Não haverá segunda chamada para a realização das provas. O não comparecimento a estas implicará a eliminação automática do candidato”.
+    Observo que o tema constante do presente mandado de segurança foi objeto de discussão com repercussão geral reconhecida no RE-RG 630.733, de minha relatoria, DJe 7.4.2011.
+     Em 15.5.2013, o Plenário do Supremo Tribunal Federal julgou o mérito desse processo-paradigma. Eis a ementa desse julgamento:
+    “Recurso extraordinário. 2. Remarcação de teste de aptidão física em concurso público em razão de problema temporário de saúde. 3. Vedação expressa em edital. Constitucionalidade. 4. Violação ao princípio da isonomia. Não ocorrência. Postulado do qual não decorre, de plano, a possibilidade de realização de segunda chamada em etapa de concurso público em virtude de situações pessoais do candidato. Cláusula editalícia que confere eficácia ao princípio da isonomia à luz dos postulados da impessoalidade e da supremacia do interesse público. 5. Inexistência de direito constitucional à remarcação de provas em razão de circunstâncias pessoais dos candidatos. 6. Segurança jurídica. Validade das provas de segunda chamada realizadas até a data da conclusão do julgamento. 7. Recurso extraordinário a que se nega provimento” (Plenário, DJe 20.11.2013).
+     Nessa oportunidade, este Tribunal assentou que, embora se tenha reconhecido em outros precedentes a possibilidade de se remarcar teste físico em razão de ocorrência de casos fortuitos, não viola o princípio da isonomia a previsão no edital de que alterações corriqueiras de saúde não são aptas a ensejar a remarcação do teste físico.
+     Desse modo, diante dos termos do item 15.18 acima transcrito, não se vislumbra direito líquido e certo na espécie.
+     Registro que, com a edição da Emenda Regimental n. 28, de 18.2.2009, o Supremo Tribunal delegou expressa competência ao Relator da causa para, em julgamento monocrático, denegar-se ou conceder-se mandado de segurança, desde que a matéria versada na impetração constitua objeto de jurisprudência consolidada do Tribunal (art. 205 do RI STF).
+    Desse modo, a manifestação pacífica do Plenário do Supremo Tribunal Federal acerca da matéria discutida nos autos autoriza a aplicação do dispositivo regimental mencionado.
+    Ante o exposto, na linha da jurisprudência desta Corte e nos termos do art. 10 da Lei 12.016/2009, nego seguimento ao presente mandado de segurança (arts. 21, § 1º, e 205 do RISTF).
+    Publique-se.
+    Brasília, 23 de abril de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
