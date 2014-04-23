@@ -1,0 +1,19 @@
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO CONTRA ATO DE MINISTRO DE TRIBUNAL SUPERIOR. HOMICÍDIO QUALIFICIADO E TENTATIVA DE HOMICÍDIO QUALIFICADO. INIMPUTABILIDADE PENAL RECONHECIDA NA SENTENÇA. APLICAÇÃO, CONTUDO, DE MEDIDA DE INTERNAÇÃO. REQUERIMENTO DE SUBSTITUIÇÃO DA MEDIDA DE SEGURANÇA APLICADA PELO TRATAMENTO AMBULATORIAL. PEDIDO DE CONCESSÃO DE LIMINAR QUE SE CONFUNDE COM O MÉRITO DA IMPETRAÇÃO. NATUREZA SATISFATIVA DA PROVIDÊNCIA CAUTELAR REQUERIDA. LIMINAR INDEFERIDA.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de SEBASTIÃO BUENO contra ato do Ministro Campos Marques, Desembargador Convocado do TJ/PR, que deu provimento ao recurso especial interposto pelo Ministério Público.
+    Colhe-se dos autos que o paciente foi denunciado como incurso nas sanções dos artigos 121, incisos I e IV, e 121, § 2°, incisos I e V, c/c o artigo 14, inciso II, todos do Código Penal, por ter, em tese, matado sua esposa e tentado matar seu vizinho, com golpes de marreta, por acreditar que ambos mantinham um relacionamento extraconjugal.
+    O juiz singular absolveu sumariamente o paciente, “por ser absolutamente inimputável, nos termos do artigo 415, inciso IV, do Cód. de Proc. Penal”, impondo-lhe, contudo, medida de internação, pelo prazo mínimo de 3 (três) anos, em hospital de custódia, e tratamento psiquiátrico.
+    A defesa apelou e o Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso “para, mantida a medida de segurança e seu prazo, determinar que seja ela de tratamento ambulatorial, em princípio e salvo caso de necessidade de aplicação do art. 97, § 4º, do Código Penal”. Transcrevo a ementa do acórdão, verbis:
+    “Medida de segurança. Crime apenado com reclusão. Sentença que, após absolver, determina a internação em hospital de custódia e tratamento. Laudos bem fundamentados, todavia, que indicam a desnecessidade da medida, preconizando o simples tratamento ambulatorial. Possibilidade, nos termos do art. 167 da Lei de Execução Penal, de transformar a internação em tragamento ambulatorial antes do prazo mínimo fixado na sentença. Evidente cabimento, portanto, de já o fazer na própria sentença. Recurso provido, para, mantida a medida de segurança e seu prazo, determinar seja ela de tratamento ambulatorial.”
+    Irresignado, o Ministério Público interpôs recurso especial, sustentando, em síntese, que a medida de segurança cabível na hipótese de crime punido com reclusão é a medida de internação e não o tratamento ambulatorial, nos termos dos artigos 97 e 98 do Código Penal.
+    O Ministro Campos Marques, Desembargador Convocado do TJ/PR, deu provimento ao recurso especial “para, reformando o acórdão recorrido, restabelecer a medida de segurança de internação imposta na sentença”.
+    Nesta impetração, a defesa sustenta ausência de base concreta para a aplicação da medida de internação, tendo em vista que o paciente, pessoa idosa, não representaria qualquer risco para a sociedade.
+    Destaca, ainda, que o paciente, recolhido em “cadeia pública comum”, estaria sendo privado de receber o tratamento médico adequado.
+    Requer, ao final, a concessão de medida liminar “para conceder a manutenção da medida de segurança para tratamento ambulatorial, como já vinha sendo realizado, expedindo do competente alvará de soltura em favor do Paciente”. No mérito, pleiteia a confirmação da cautelar.
+    É o relatório. DECIDO.
+    A providência cautelar requerida confunde-se com o mérito da impetração e, portanto, tem natureza satisfativa, razão pela qual indefiro o pedido de liminar.
+    Estando os autos suficientemente instruídos, dê-se vista ao Ministério Público Federal para emissão de parecer.
+    Publique-se.
+    Brasília, 23 de abril de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
