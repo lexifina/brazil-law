@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto contra acórdão cuja ementa segue transcrita:
+    “ADMINISTRATIVO. PENSÃO POR MORTE DE EX-MILITAR. ÓBITO OCORRIDO ANTES DA LEI 8.059/90. ÓBITO DE UMA DAS FILHAS PENSIONISTAS. REVERSÃO ÀS DEMAIS FILHAS MAIORES DE 21 ANOS. APLICAÇÃO DA LEI 3.765/60, VIGENTE AO TEMPO DO ÓBITO (1983). POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. JUROS DE MORA. PRECEDENTES.
+    1. O direito à percepção de pensão por morte de ex-militar nasce a partir do óbito do instituidor do beneficio. In casu, ocorreu em 30.10.83, devendo se aplicar a Lei 3.765/60.
+    2. Consoante o art. 28 da Lei 3.765/60 a pensão militar pode ser requerida a qualquer tempo, só restando prescritas as parcelas anteriores ao ajuizamento da ação.
+    3. Nos termos do art. 7°, II, da Lei 3.765/60 faz jus à pensão especial deixada por ex-militar os filhos de qualquer condição, exclusive os maiores do sexo masculino, que não sejam interditos ou inválidos.
+    4. Inexistência de qualquer restrição legal, à época, para a concessão da pensão especial às filhas de ex-militar, que fazem jus ao beneficio independentemente da sua idade ou condição civil.
+    5. O art. 24 da Lei 3.765/60 expressamente permitia a transferência do benefício recebido pela irmã (filha do de cujus), após sua morte, para as demais filhas.
+    (...)” (pág. 133 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 5º, caput, 37, XI, 196 e 198 da mesma Carta, bem como aos arts. 17 e 53 do ADCT.
+    A pretensão recursal não merece acolhida.
+    Isso porque os dispositivos constitucionais arguidos não foram prequestionados. Com efeito, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o Tribunal de origem dirimiu a questão em tela tão somente com apoio no conjunto fático-probatório dos autos – cujo reexame é vedado pela Súmula 279 desta Corte – e na interpretação das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria meramente indireta. Nesse sentido, cito o AI 839.916-AgR/RJ, Rel. Min. Rosa Weber, cuja ementa segue transcrita:
+    “DIREITO ADMINISTRATIVO. MILITAR. PENSÃO POR MORTE. FILHAS MAIORES. ALEGADO DIREITO À REVERSÃO DE PENSÃO PERCEBIDA PELA GENITORA. IMPOSSIBILIDADE. TEMPUS REGIT ACTUM. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 21.5.2010. Emerge do acórdão recorrido que à época do óbito, em virtude da alteração do estado civil das agravantes, não houve o preenchimento dos requisitos legais a alçar-lhes à condição de beneficiárias. Entender de modo diverso, de qualquer sorte, exigiria ingressar o julgador no exame da legislação infraconstitucional, procedimento vedado na instância extraordinária. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 23 de abril de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
