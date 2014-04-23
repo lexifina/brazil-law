@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto em face de acórdão que restou assim ementado:
+    “AÇÃO CIVIL PÚBLICA. LEI N. 3508/94 QUE DISCIPLINA O TRANSPORTE COLETIVO GRATUITO AOS DEFICIENTES, DO MUNICÍPIO DE MARINGÁ. VIOLAÇÃO À LEI MAIOR. RECONHECIMENTO PELA SENTENÇA. OFENSA ÀS LEIS ESTADUAL E FEDERAL.
+    1. A sentença, que confirmou a liminar, condenou as rés em obrigação de fazer, mais de uma, tudo para dar fiel efetividade às normas constitucionais que garantem à pessoa portadora de necessidades especiais uma série de medidas estatais, todas voltadas à sua concreta inclusão na vida social.
+    2. O que se viu na legislação municipal sabatinada, defendida com veemência pela transportadora apelante – que, obviamente, defende-a apenas e tão somente com os olhos voltados aos seus cofres, sem qualquer preocupação com a inclusão das pessoas deficientes, em arrepio ao art. 227, §1º, II, que direcionou não só ao Estado, mas a toda sociedade, o dever de promover a integração social das pessoas portadoras de necessidades especiais – é uma velada tentativa de, sob falsário manto de legalidade, inviabilizar por completo a garantia constitucional fundamental. Apelações providas parcialmente” (pp. 97-98, documento eletrônico 6).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos artigos 1º; 18; 30, I, II e V; 196 e 198, todos da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local e infraconstitucional aplicável à espécie (Constituição estadual, Lei Municipal 3.508/1994, Decreto federal 3.289/99 e Lei federal 7.853/89). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. Nesse sentido, em caso análogo, AI 847.845-AgR/RJ, Rel. Min. Luiz Fux, DJe 11/12/2012, com a seguinte ementa :
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. GRATUIDADE DE TRANSPORTE PARA PESSOAS COM DEFICIÊNCIA MENTAL. JULGAMENTO ANTECIPADO DA LIDE (ART. 330, I, DO CPC). ALEGADO CERCEAMENTO DE DEFESA. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL”.
+    Assim, o entendimento pacificado nesta Corte é de que nestes casos, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Com esse raciocínio, destaco, ainda, outros precedentes desta Corte: RE 632.782/MG, Rel. Min. Dias Toffoli, DJe 26/6/2013; ARE 741.911/MG, Rel. Min. Teori Zavaski, DJe 14/6/2013; ARE 685.726/MG, Rel. Min. Roberto Barroso, DJe 6/3/2014 e AI 439.261, Rel. Min. Joaquim Barbosa, DJe 15/12/2004.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 23 de abril de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
