@@ -1,0 +1,30 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. PACIENTES HIPOSSUFICIENTES. DEVER DO PODER PÚBLICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. ART. 196 DA CONSTITUIÇÃO FEDERAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O fornecimento de medicamentos a pacientes hipossuficientes é dever solidário dos entes federados de qualquer esfera, União, Estados e Municípios. Precedentes: ARE 744.170-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 3/2/2014, e RE 716.777-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 16/5/2013.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “EMENTA MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO COMPROVADO. FORNECIMENTO DE MEDICAMENTO. DIREITO FUNDAMENTAL. APRESENTAÇÃO DE RECEITUÁRIO MÉDICO. ADVOGADO DATIVO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. [...] V.V MANDADO DE SEGURANÇA. FORNECIMENTO DE MEDICAMENTO. DIREITO À SAÚDE. DEVER DO ESTADO. IDOSO. NECESSIDADE COMPROVADA. HONORÁRIOS. DESCABIMENTO.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo MUNICIPIO DE SANTOS DUMONT, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado, verbis:
+    “A EMENTA MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO COMPROVADO. FORNECIMENTO DE MEDICAMENTO. DIREITO FUNDAMENTAL. APRESENTAÇÃO DE RECEITUÁRIO MÉDICO. ADVOGADO DATIVO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+    O mandado de Segurança é cabível para a proteção de direito líquido e certo não protegido por Habeas Corpus nem por Habeas Data, em sendo o responsável pelo abuso de poder ou ilegalidade autoridade pública ou agente de pessoa jurídica no exercício de atribuições do poder público, nos termos do art.5º, inc. LXIX da CR/88.
+    A saúde não é um conceito matemático, não havendo como se prever, entre casos graves, aqueles em que um medicamento pode representar a salvação da vida do paciente, ou aqueles em que o paciente sobreviverá de forma saudável, mesmo sem a utilização daquele tratamento indicado.
+    O direito à saúde engloba toda uma trama de direitos fundamentais cuja proteção é priorizada pela Carta Magna de 1988, não sendo razoável preterir o administrado de seu pleno gozo sob qualquer argumento.
+    A apresentação de receituário médico possibilita a utilização correta dos medicamentos, tendo em vista que o tratamento indicado ao paciente poderá sofrer alterações durante o seu curso, além de evitar gastos desnecessários de recursos públicos.
+    Os honorários advocatícios fixados em favor de advogado dativo, mesmo quando a Administração Pública não disponibiliza Defensoria Pública ou se ela existe, mas inoperante, têm natureza alimentícia e não sucumbencial, o que é vedado pela Súmula 512 do STF e Súmula 105 do STJ.
+    V.V MANDADO DE SEGURANÇA. FORNECIMENTO DE MEDICAMENTO. DIREITO À SAÚDE. DEVER DO ESTADO. IDOSO. NECESSIDADE COMPROVADA. HONORÁRIOS. DESCABIMENTO.
+    -A Constituição Federal impõe ao Poder Público o dever de oferecer atendimento integral à saúde, devendo responder às necessidades individuais do cidadão de acordo com as peculiaridades de cada caso.
+    Em mandado de segurança não cabe condenação em honorários advocatícios, sequer em favor de advogado que patrocina a causa de beneficiário da justiça gratuita.
+    Sentença reformada, em parte, no reexame necessário, prejudicado o recurso voluntário.”
+    Não foram opostos embargos de declaração.
+    Em suas razões recursais, sustenta a violação aos artigos 196 e 198 da Constituição Federal, ao argumento de que há solidariedade entre os entes públicos quanto ao dever de assegurar o direito à saúde.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente agravo.
+    O acórdão recorrido não destoa da jurisprudência da Corte que já se firmou no sentido de que o fornecimento de medicamentos a pacientes hipossuficientes é dever solidário dos entes federados, podendo ser requeridos em qualquer esfera, Federal, Estadual ou Municipal. Nesse sentido, invoco os seguintes julgados:
+    “SAÚDE FORNECIMENTO DE REMÉDIOS. O preceito do artigo 196 da Constituição Federal assegura aos necessitados o fornecimento, pelo Estado, dos medicamentos indispensáveis ao restabelecimento da saúde. (ARE 744.170-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 3/2/2014)
+    PACIENTE PORTADORA DE DOENÇA ONCOLÓGICA NEOPLASIA MALIGNA DE BAÇO PESSOA DESTITUÍDA DE RECURSOS FINANCEIROS DIREITO À VIDA E À SAÚDE NECESSIDADE IMPERIOSA DE SE PRESERVAR, POR RAZÕES DE CARÁTER ÉTICO-JURÍDICO, A INTEGRIDADE DESSE DIREITO ESSENCIAL fornecimento GRATUITO DE MEIOS INDISPENSÁVEIS AO TRATAMENTO E À PRESERVAÇÃO DA SAÚDE DE PESSOAS CARENTES DEVER CONSTITUCIONAL DO ESTADO (CF, ARTS. 5º, CAPUT, E 196) PRECEDENTES (STF) RESPONSABILIDADE SOLIDÁRIA DAS PESSOAS POLÍTICAS QUE INTEGRAM O ESTADO FEDERAL BRASILEIRO CONSEQUENTE POSSIBILIDADE DE AJUIZAMENTO DA AÇÃO CONTRA UM, ALGUNS OU TODOS OS entes ESTATAIS RECURSO DE AGRAVO IMPROVIDO. (RE 716.777-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 16/5/2013) .”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 24 de abril de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
