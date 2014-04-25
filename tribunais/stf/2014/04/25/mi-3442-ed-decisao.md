@@ -1,0 +1,17 @@
+Vistos etc.
+    Em face da decisão monocrática publicada em 13.03.2014, opôs, em 14.03.2014, tempestivamente, embargos de declaração o Sindicato dos Servidores de Palotina.
+    Sustenta, em síntese, que houve “omissão na apreciação da petição de fls., datada de 28.02.2014, pois quando proferida a sentença extintiva objeto dos presentes embargos nada se mencionou sobre a referida petição” (Doc. 38, fl. 3, e-STF).
+    Pugna pelo saneamento do vício apontado, reconsiderando-se a decisão que extinguiu o processo sem julgamento do mérito.
+    É o relatório. Decido.
+    De início, enfatizo que, por se tratarem de embargos de declaração opostos contra decisão monocrática e com alegação dos vícios do art. 535 do CPC, não há necessidade de conversão em agravo regimental para julgamento pelo Colegiado (RE 476.109-ED, Rel. Min. Cezar Peluso, DJe 8.10.2007; RE 411.024-ED, Rel. Min. Sepúlveda Pertence, DJ 11.5.2004; e RE 277.612, Rel. Min. Carlos Velloso, DJ 12.11.2001).
+    Não vislumbro a omissão indicada, uma vez que a embargante ficou inerte durante o prazo que lhe foi concedido para emendar a peça inicial, conforme certificado nos autos, só tendo protocolado petição requerendo dilação de prazo em 28.02.2013.
+    De todo modo, o caso é de perda de objeto do mandado de injunção e, por conseguinte, dos presentes embargos de declaração.
+    É que foi publicada, no DOU de 24.4.2014, a Súmula Vinculante nº 33 desta Excelsa Corte, cujo teor é o seguinte: “aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica”.
+    Nos termos do art. 103-A, caput, da Constituição da República, “o Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei” (destaquei).
+    Assim, publicada a Súmula Vinculante nº 33, a administração direta e indireta, nas esferas federal, estadual e municipal, deve aplicar a seus servidores, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o art. 40, § 4º, III, da Magna Carta.
+    Nesse contexto, não só os servidores substituídos pelo impetrante, como, na realidade, todos os servidores públicos cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física devem, a partir da publicação da súmula vinculante, ter seus pedidos de aposentadoria especial apreciados à luz, no que couber, das regras do regime geral da previdência social, sendo eventual recalcitrância das autoridades administrativas em assim proceder passível de reclamação (art. 103-A, § 3º, da Carta da República), podendo inclusive ensejar responsabilização pessoal nas esferas cível, administrativa e penal (art. 64-B da Lei 9.784/99).
+    Ante o exposto, considerada a publicação da Súmula Vinculante nº 33, julgo prejudicados os embargos de declaração (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 25 de abril de 2014.
+Ministra Rosa Weber
+Relatora
