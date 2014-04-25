@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto contra acórdão cuja ementa segue transcrita:
+    “Agravo de instrumento. Ação de retificação da área. Interesse da União. Área inserida dentro do ‘Núcleo Colonial São Caetano’, de propriedade da União. Alegação concretamente calcada em documento apresentado pela agravante. Competência da Justiça Federal. Aplicação do disposto no artigo 109, inciso I, da Constituição Federal. Competência, ademais, da Justiça Federal para a verificação do interesse da União do feito. Súmula 150 do Superior Tribunal de Justiça. Remessa dos autos à Justiça Federal. Agravo provido” (fl. 65 do apenso).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 109, I, da mesma Carta. Sustenta o recorrente que “a área que pretende seja retificada não se confronta com a área Federal, razão pela qual inexiste interesse da Recorrida nestes autos (...)” (fl. 88 do apenso).
+    A pretensão recursal não merece acolhida.
+    A jurisprudência do Supremo Tribunal Federal, consolidou-se no sentido de que a mera alegação de interesse da União ou de autarquia é insuficiente para justificar o deslocamento da causa para a esfera de competência da justiça federal.
+    Entretanto, no presente caso, a União apresentou contestação à ação de retificação de área, demonstrando seu interesse na causa (fls. 304-318). Naquela oportunidade aduziu que:
+    “No caso em tela, trata-se de bens públicos dominiais, portanto remanescendo em poder da União. Não se confunda com as terras devolutas que passaram ao domínio dos Estados-membros da federação quando da Constituição da República, em 1891. Assim, em que pese o Decreto 225-A declarar emancipado o Núcleo Colonial, o declara nos lotes que foram transferidos aos particulares. Os lotes não vendidos não poderiam ser emancipados. Emancipar é acabar com a tutela do poder público que a detinha até a quitação do imóvel. O remanescente permanece em poder do Estado (União)” (fls. 313-314 dos autos principais, com grifos no original).
+    E o entendimento desta Corte é pacífico no sentido de que se há manifesto interesse da União, a competência para julgar a causa é da Justiça Federal. Nesse sentido:
+    “Embargos de declaração no recurso extraordinário recebidos como agravo regimental. Competência da Justiça Federal. Interesse da União. Artigo 109, inciso I, da Constituição Federal. Precedentes. 1. A jurisprudência da Corte é firme no sentido de ser competente a Justiça Federal para processar as causas em que a União tenha interesse na lide e, no caso dos autos, houve manifestação expressa desse ente federativo sobre seu interesse. 2. Agravo regimental não provido” (RE 627.852-ED/RS, Rel. Min. Dias Toffoli, Primeira Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de abril de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
