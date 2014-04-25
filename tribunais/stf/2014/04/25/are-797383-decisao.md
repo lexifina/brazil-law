@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. CONTADORIA JUDICIAL. PLANILHA DE CÁLCULO EM CONFORMIDADE COM TÍTULO EXECUTIVO. COMPENSAÇÃO DE HONORÁRIOS ADVOCATÍCIOS FIXADOS NA AÇÃO PRINCIPAL E NA EXECUÇÃO. AJG. IMPOSSIBILIDADE.
+    1. Considerando que a sentença está de acordo com o título executivo judicial, bem como o embargado se limitou a dizer que foi aplicada incorretamente a Renda Mensal Inicial na planilha de cálculo elaborada pela Contadoria Judicial (adotada pelo juízo), não apontando onde estão os erros, sequer apontou qual a RMI que entende como correta, deve prosseguir a execução nos valores apontados pela sentença.
+    (...)”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que ocorreu violação ao art. 5º, XXXV, da Constituição, tendo em vista que o Tribunal de origem não apreciou pedido consignado na impugnação aos embargos, notadamente quanto à “correta renda a que fazia jus o autor”. Afirma que, “ao se afastar o direito do autor à implantação da renda mensal inicial baseada nos ditames legais e sua inclusão correta no cálculo das parcelas vencidas, quando comprovadamente preencheu todos os requisitos legais para a implantação de renda no valor de R$ 975,00 e não em R$ 739,76, materializa-se nova afronta à norma constitucional, qual seja, o art. 5º, inc. XXXVI, da CF/88”.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que “a alegada ofensa a preceitos constitucionais somente se verificaria de modo indireto e reflexo, ao que não se presta o recurso extraordinário”.
+    O recurso extraordinário é inadmissível, tendo em vista que a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se a seguinte passagem do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “(...)
+     II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Quanto à alegada violação ao art. 5º, XXXVI, da Constituição, não há questão de direito intertemporal a ser decidida, de modo que o exame da matéria pressuporia uma nova apreciação dos fatos e do seu enquadramento à legislação processual que disciplina, de forma específica, o instituto da coisa julgada e seus limites objetivos, o que não enseja a abertura da via extraordinária.
+    Nesse sentido, confiram-se os AIs 587.396-AgR, Rel. Min. Sepúlveda Pertence, 710.529-AgR, Rel. Min. Ricardo Lewandowski, 754.994-AgR, Rel. Min. Ayres Britto, 765.612-AgR, da Rel.ª Min.ª Cármen Lúcia, 767.968-AgR, Rel. Min. Joaquim Barbosa, e 733.272-AgR, Rel. Min. Celso de Mello.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 25 de abril de 2014.
+Ministro Luís Roberto Barroso
+Relator
