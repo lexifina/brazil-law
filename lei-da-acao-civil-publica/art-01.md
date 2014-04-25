@@ -5,4 +5,5 @@ III - a bens e direitos de valor artístico, estético, histórico, turístico e
 IV - a qualquer outro interesse difuso ou coletivo.
 V - por infração da ordem econômica;.
 VI - à ordem urbanística.
+VII - à honra e à dignidade de grupos raciais, étnicos ou religiosos.
 Parágrafo único. Não será cabível ação civil pública para veicular pretensões que envolvam tributos, contribuições previdenciárias, o Fundo de Garantia do Tempo de Serviço - FGTS ou outros fundos de natureza institucional cujos beneficiários podem ser individualmente determinados.
