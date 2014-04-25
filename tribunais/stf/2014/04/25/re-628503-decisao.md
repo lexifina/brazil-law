@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “Ação Rescisória – Violação a literal disposição de lei. Não identificada. Militares reformados. Soldo calculado com base em posto de grau imediatamente superior. Art. 20 da Lei nº 2.590/86 e art. 49 da Lei nº 2.066/76. Análise em face da Constituição de 1967. Impossibilidade. Apreciação sob o enfoque da recepção. Cabível diante do texto originário da Constituição de 1988. Emenda Constitucional nº 20/98 não modifica aposentadoria consolidada em período anterior. Súmula nº 359, STF. Pedido rescindendo improcedente.
+    - A redação originária da Constituição Federal não causou embaraços à recepção das aludidas normas, já que a reforma dos militares se dera antes da Emenda Constitucional nº 20/98. Ressalte-se, até mesmo, antes da implantação da nova ordem constitucional, portanto obediente à segurança jurídica e ao direito adquirido.
+    - Pedido rescisório improcedente” (fl. 504).
+    Neste RE, fundado no art. 102, III, a e c, da Constituição, alegou-se ofensa aos arts. 5º, XXXVI, e 40, § 2º, da mesma Carta, bem como ao art. 102, § 2º, da Constituição Federal de 1967.
+    A Procuradoria-Geral da República opinou pelo não conhecimento do recurso.
+    A pretensão recursal não merece acolhida.
+    É que o Tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Leis 2.590/1986 e 2.066/1976). Dessa forma, a verificação da alegada ofensa ao texto constitucional envolve a reapreciação da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Por oportuno, destaco os seguintes julgados desta Corte sobre o tema em análise:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POLICIAL MILITAR DO ESTADO DE SERGIPE. PROVENTOS POR INATIVIDADE CALCULADOS SOBRE O SOLDO ATRIBUÍDO À GRADUAÇÃO IMEDIATAMENTE SUPERIOR. LEIS ESTADUAIS NºS 2.066/1976 E 2.590/1986. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. O exame do recurso extraordinário permite constatar que a hipótese envolve alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Precedentes. Agravo regimental a que se nega provimento” (RE 732.146-AgR/SE, Rel. Min. Roberto Barroso).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MILITAR. PROVENTOS. CÁLCULO COM ESTEIO NA REMUNERAÇÃO DE PATENTE HIERARQUICAMENTE SUPERIOR. LEIS NS. 2.066/76 E 2.590/86, DO ESTADO DE SERGIPE. MATÉRIA INFRACONSTITUCIONAL. 1. A matéria referente à extensão aos inativos de promoção automática, que lhes permite ter seus proventos calculados com base na remuneração da patente hierarquicamente superior, está restrita ao âmbito infraconstitucional. Agravo regimental a que se nega provimento ” (RE 535.729-AgR/SE, Rel. Min. Eros Grau).
+    No mesmo sentido, menciono as seguintes decisões, entre outras: AI 742.851-AgR/SE, Rel. Min. Marco Aurélio; RE 703.758/SE e AI 634.249-AgR/SE, Rel. Min. Cármen Lúcia; RE 563.229-AgR/SE, Rel. Min. Ayres Britto; ARE 731.129/RS, Rel. Min. Luiz Fux; AI 780.243/SE, de minha relatoria.
+    Isso posto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de abril de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
