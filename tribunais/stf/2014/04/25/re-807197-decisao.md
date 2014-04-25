@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Ministério Público Federal. Aparelhado o recurso na violação do art. 129, III, da Lei Fundamental.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    A Corte de origem assim se pronunciou sobre a legitimidade do Ministério Público (fls. 176-7):
+    “2. Por outro lado, o caso concreto reúne pormenores que desautorizam a legitimidade do Ministério Público para propor a presente ação civil pública. Em primeiro lugar, a declaração administrativa de nulidade do certame foi decretada mediante audiência prévia do Ministério Público Federal. Em nenhum momento, na peça inaugural, questiona-se a ilegitimidade da anulação administrativa do concurso público em referência. Em consequência, não se está discutindo, no caso sob exame, a violação de princípios aplicáveis à Administração Pública e, em particular, aos postulados que regem o instituto do concurso público.
+    3. Em face de tais diretrizes jurídicas, o Ministério Público não ostenta legitimidade para ingressar com ação civil pública para que a Administração Pública "promova o ressarcimento de todas as despesas de transporte e hospedagem aos candidatos que as comprovarem, devendo para tanto ser publicado Edital a fim de que os candidatos interessados possam intervir no processo como litisconsortes, na forma do art. 94 da Lei 8.078/90". Ora, em se tratando de pedido de cunho exclusivamente patrimonial, concreto e individualizável, não se vislumbra, mesmo considerando a sua natureza de direitos individuais homogêneos, a sua relevância social em ordem a justificar a intervenção do Ministério Público.”
+    Nesse sentir, verifico que o Tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos, a qual restou definitiva em virtude da negativa de seguimento do recurso especial destinado a impugná-la pelo Superior Tribunal de Justiça.
+    Aplicação da Súmula 283/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido: AI 825.511-AgR/MA, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 03.3.2011; e AI 689.266-AgR/PR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 28.02.2012, cujas ementas transcrevo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA DEFESA DE INTERESSE PATRIMONIAL PRIVADO. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO."
+    “Agravo regimental no agravo de instrumento. Ministério Público do Trabalho. Legitimidade. Legislação infraconstitucional. Orientação da Súmula nº 283/STF. Precedentes. 1. É pacífica a jurisprudência desta Corte no sentido de não admitir recurso extraordinário contra acórdão que contém fundamento infraconstitucional suficiente para manutenção do julgado e não houve a interposição de recurso especial. Orientação da Súmula nº 283/STF. 2. Agravo regimental não provido.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de abril de 2014.
+Ministra Rosa Weber
+Relatora
