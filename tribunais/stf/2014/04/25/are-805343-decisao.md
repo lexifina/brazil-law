@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “PROCESSO CIVIL E CONSUMIDOR. AÇÃO REDIBITÓRIA C/C DANOS MORAIS. PROCEDÊNCIA EM PARTE. APELAÇÃO CÍVEL. COMPRA E VENDA DE VEÍCULO USADO. VÍCIO REDIBITÓRIO. APLICABILIDADE DO CDC. REVENDEDOR RESPONSÁVEL POR VÍCIO OU DEFEITO NO PRODUTO. POSSIBILIDADE. RESCISÃO DO CONTRATO DE COMPRA E VENDA E DO FINANCIAMENTO. DEVOLUÇÃO DOS VALORES PAGOS PELA FINANCEIRA. ENTREGA DO VEÍCULO À REVENDEDORA. DANO MORAL NÃO DEMONSTRADO. ABORRECIMENTO QUOTIDIANO. CONHECIMENTO E DESPROVIMENTO DOS RECURSOS.” (pág. 89 do volume 2 do documento eletrônico)
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria imprescindível a interpretação da legislação infraconstitucional aplicável à espécie. Desse modo, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO  CONSUMIDOR. COBRANÇA INDEVIDA. DEVOLUÇÃO. ALEGADA CONTRARIEDADE AO ART. 5º, INC. XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 744.886-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. NULIDADE DE CLÁUSULA CONTRATUAL. SEGURO DE VIDA. CARÁTER ABUSIVO. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 769.830-AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Ademais, com o não conhecimento do agravo em recurso especial pelo Superior Tribunal de Justiça (AREsp 331.815/RN, com trânsito em julgado certificado em 31/03/2014), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão impugnado, o que atrai a incidência da Súmula 283 do STF. Nesse sentido: AI 785.229/PR, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de abril de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
