@@ -5,7 +5,7 @@ III - a União, os Estados, o Distrito Federal e os Municípios;.
 IV - a autarquia, empresa pública, fundação ou sociedade de economia mista;.
 V - a associação que, concomitantemente:.
 a) esteja constituída há pelo menos 1 (um) ano nos termos da lei civil;.
-b) inclua, entre suas finalidades institucionais, a proteção ao meio ambiente, ao consumidor, à ordem econômica, à livre concorrência ou ao patrimônio artístico, estético, histórico, turístico e paisagístico.
+b) inclua, entre as suas finalidades institucionais, a proteção ao meio ambiente, ao consumidor, à ordem econômica, à livre concorrência, aos direitos de grupos raciais, étnicos ou religiosos ou ao patrimônio artístico, estético, histórico, turístico e paisagístico.
 § 1º O Ministério Público, se não intervier no processo como parte, atuará obrigatoriamente como fiscal da lei.
 § 2º Fica facultado ao Poder Público e a outras associações legitimadas nos termos deste artigo habilitar-se como litisconsortes de qualquer das partes.
 § 3º Em caso de desistência infundada ou abandono da ação por associação legitimada, o Ministério Público ou outro legitimado assumirá a titularidade ativa.
