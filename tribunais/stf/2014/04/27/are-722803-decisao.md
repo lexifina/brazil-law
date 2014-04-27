@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO – AÇÃO DE DESAPROPRIAÇÃO DIRETA – EXPEDIÇÃO DE PRECATÓRIO COMPLEMENTAR PARA PAGAMENTO DE DÉBITO EM ABERTO – VALOR INCONTROVERSO – INADMISSIBILIDADE DO PEDIDO DE EXPEDIÇÃO DE NOVO PRECATÓRIO, REVOGADA A ORDEM ORIGINAL – HIPÓTESE EM QUE NÃO INCIDE O DISPOSTO NO ART. 100, § 4º, DA CF/88 – PRECEDENTES JURISPRUDENCIAIS – AGRAVO DESPROVIDO” (pág. 132 do volume 0).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI e 100, ambos da mesma Carta da República.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Paulo Gustavo Gonet Branco, opinou pelo provimento do agravo (documento eletrônico 2).
+    Preliminarmente, observo que o juízo sentenciante decidiu a causa nos seguintes termos:
+    “Posto isso, JULGO PARCIALMENTE PROCEDENTES os presentes embargos a fim de determinar a exclusão os juros moratórios e compensatórios incidentes sobre as parcelas pagas, devendo ser requisitado novo precatório para pagamento das atualizações em complementação, feita a exclusão retro. Ante a sucumbência recíproca, cada parte arcará com as custas a que deu causa e honorários do respectivo patrono” (pág 44 do volume 0).
+    Após compulsar os autos, verificados os pressupostos de admissibilidade, entendo ser o caso de prover o agravo, e, sequencialmente, o recurso extraordinário.
+    Isso porque, como decidido na ADI 2.024/SP, Rel. Min. Carlos Velloso, esta Corte concluiu que a complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa.
+    No presente feito, constato que após expedido precatório oriundo de ação de desapropriação, iniciou-se seu pagamento parcelado, com arrimo no art. 33 do ADCT. Posteriormente, com base em novo cálculo, os agravados pleitearam o recebimento de valor complementar devido, não se enquadrando, assim, nos cenários que possibilitam a complementação originária.
+    Tal acréscimo, se concedido, vulneraria o disposto no art. 100, § 8º da Constituição Federal, cuja redação determina que “é vedada a expedição de precatórios complementares ou suplementares de valor pago, bem como o fracionamento, repartição ou quebra do valor da execução para fins de enquadramento de parcela do total ao que dispõe o § 3º deste artigo”. Nesse sentido, destaco a IF 762-AgR/SP, Rel. Min Cezar Peluso:
+    “INTERVENÇÃO FEDERAL. Pagamento de precatório judicial alimentar. Pagamento não-integral. Vedação de expedição de precatório complementar e suplementar. Agravo improvido. Precedentes. É vedada a expedição de precatórios complementares e suplementares de valores já pagos pelo Poder Público, pois a EC nº 37/2002 adicionou o § 4º ao art. 100 da Constituição Federal (atual § 8º, na redação dada pela EC nº 62/2009)”
+    Ademais, uma vez ocorrido o trânsito em julgado da decisão que pôs termo aos embargos à execução, a emissão de novo precatório, destoante do que fora decidido, feriria também o princípio constitucional da coisa julgada, presente no art. 5º, XXXVI da CF/88.
+    Isso posto, com base no art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso, determinando à vara de execuções que proceda a expedição de novo precatório.
+    Publique-se.
+    Brasília, 27 de abril de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
