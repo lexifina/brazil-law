@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – IMPOSTO DE RENDA – PESSOA JURÍDICA – LUCRO REAL – INDEDUTIBILIDADE DE VALORES DEPOSITADOS JUDICIALMENTE – ARTIGOS 7º E 8º DA LEI Nº 8.541/92 – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Ambas as Turmas do Supremo, em reiterados pronunciamentos, têm assentado envolver matéria eminentemente infraconstitucional a controvérsia relativa à aplicação dos artigos 7º e 8º da Lei nº 8.541, de 1992:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA. CRÉDITOS TRIBUTÁRIOS CUJA EXIGIBILIDADE ESTEJA SUSPENSA. DEDUÇÃO DA BASE DE CÁLCULO. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário a análise da legislação infraconstitucional aplicável à espécie. Assim, a afronta à Constituição, se ocorrente, seria apenas indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Agravo regimental improvido. (Agravo Regimental no Recurso Extraordinário nº 595.211/RJ, relator ministro Ricardo Lewandowski, Primeira Turma, julgado em 21 de junho de 2011).
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA. CRÉDITOS TRIBUTÁRIOS COM A EXIGIBILIDADE SUSPENSA. DEDUÇÃO DA BASE DE CÁLCULO. ARTS. 7º E 8º DA LEI 8.541/1992. MATÉRIA INFRACONSTITUCIONAL. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada neste momento processual. 2. Agravo regimental desprovido. (Agravo Regimental no Recurso Extraordinário nº 568.572/PR, relator ministro Ayres Britto, Segunda Turma, julgado em 7 de fevereiro de 2012).
+    2. Ante o exposto, conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 28 de abril de 2014.
+Ministro MARCO AURÉLIO
+Relator
