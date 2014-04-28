@@ -1,0 +1,17 @@
+Vistos etc.
+    1. O Estado de Roraima ajuizou a presente ação ordinária contra União Federal buscando, em suma, a suspensão de sua inscrição nos assentamentos do SIAFI/CAUC, com relação às contas referentes ao Convênio nº 408169 (número original 262/2000) (evento 1).
+    2. A União Federal contestou e se manifestou quanto ao pedido de tutela antecipada (evento 06), e a Procuradoria-Geral da República firmou parecer pela improcedência da demanda (evento 14).
+    3. Tutela antecipada deferida (evento 17).
+    4. Manifestação da União Federal noticiando a aprovação das contas referentes à execução financeira do ajuste administrativo debatido nos autos (Convênio nº 408169, original nº 262/2000) e pugnando pela extinção do feito sem resolução do mérito, mercê da ausência de interesse de agir superveniente (evento 25). Juntou documentos (eventos 26 e 27).
+    5. Vista ao Estado de Roraima para, diante da informação da União Federal, dizer se persistia o interesse em prosseguir com o feito (evento 28) e subsequente manifestação do referido ente político requerendo a desistência da demanda em face da conclusão do Convênio nº 408169.
+    6. Breve relatório. Passo a decidir.
+    7. Constatada a aprovação das contas relativas ao Convênio nº 408169, original nº 262/2000, o caso revela perda de objeto da ação. De fato, a presente demanda visou a justamente, suspender/evitar a inscrição da autora no CAUC/SIAFI com relação ao referido ajuste administrativo, pretensão esta que se esvaziou diante do acertamento da execução financeira dele. As partes, aliás, convergiram nesse sentido (eventos 25 e 30).
+    8. Com efeito, nos termos do art. 462 do CPC, “se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento da lide, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a sentença”. Dessa forma, a subsequente declaração de regularidade da execução financeira do ajuste administrativo debatido nestes autos configura fato superveniente que esvazia o objeto da ação.
+    9. Posto isso, julgo prejudicada a presente demanda, por perda de objeto, e extingo o processo sem resolução de mérito (art. 267, inc. VI, do Código de Processo Civil e art. 21, inc. IX, do RISTF), tornando sem efeito a tutela antecipada anteriormente deferida (evento 17).
+    10. Não há condenação em honorários, pois nenhuma das partes pode ser responsabilizada processualmente pela instauração indevida da demanda (princípio da causalidade): sem avançar na análise do mérito do pedido – cognição vedada, aliás, já que a demanda perdeu seu objeto -, o autor e o réu tiveram respectivamente ação e resistência processuais legítimas, cabendo enfatizar que a causa que ensejou a perda de objeto da demanda (julgamento administrativo das contas do convênio) foi superveniente ao ajuizamento, ou seja, não havia se perfectibilizado à época da distribuição da ação. Ademais, assinale-se que a conclusão administrativa do convênio se deu por cooperação entre as partes, resultando um ressarcimento do autor ao réu que não se podia prever no momento da instauração do feito (evento 27).
+    11. Sem custas processuais, pois litigante a Fazenda Pública.
+    12. Após o trânsito em julgado, dê-se baixa e arquive-se o feito.
+    Publique-se. Intimem-se.
+    Brasília, 28 de abril de 2014
+Ministra Rosa Weber
+Relatora
