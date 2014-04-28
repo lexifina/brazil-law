@@ -1,0 +1,21 @@
+Decisão: 1. Trata-se de embargos de declaração opostos a acórdão cuja ementa é a seguinte:
+    CONSTITUCIONAL E ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA NO RECURSO EXTRAORDINÁRIO. ART. 8º DO ADCT. ANISTIA. PROMOÇÃO A CARREIRA DIVERSA DAQUELA INTEGRADA PELO ANISTIADO. IMPOSSIBILIDADE.
+    1. Segundo a jurisprudência do STF, a promoção de militar anistiado nos termos do art. 8º do ADCT depende da observância, apenas, dos prazos de permanência em atividade inscritos nas leis e regulamentos vigentes, inclusive, em consequência, do requisito de idade-limite para ingresso em graduações ou postos, que constem de leis e regulamentos vigentes na ocasião em que o servidor, civil ou militar, seria promovido (RE 165.438/DF, rel. Min. CARLOS VELLOSO, Plenário, DJ de 05.5.2006).
+    2. Todavia, permanece firme a jurisprudência do STF no sentido de que a referida promoção somente pode ocorrer dentro do mesmo quadro da carreira militar integrado originalmente pelo servidor. Precedentes: RE 610.191-AgR/RJ e ARE 777.600-AgR/RJ, rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, unânime, DJe de 07.11.2011 e 18.3.2013, respectivamente; e RE 645.084-AgR/DF, rel. Min. LUIZ FUX, Primeira Turma, unânime, DJe de 04.9.2012.
+    3. A verificação do posto, respectivos proventos e quadro de carreira originalmente integrada pelo servidor militar, por demandar reexame da legislação infraconstitucional, é incabível em recurso extraordinário. Precedentes: RE 630.868-AgR/RJ, rel. Min. JOAQUIM BARBOSA , Segunda Turma, unânime, DJe de 18.9.2012 e ARE 710.379-AgR/RJ, rel. Min. RICARDO LEWANDOWSKI , Segunda Turma, unânime, DJe de 1º.4.2013.
+    4. Agravo regimental a que se nega provimento.
+    2. Os embargos de declaração não merecem ser conhecidos por serem extemporâneos. A parte embargante opôs o recurso no dia 24.3.2014, na pendência, portanto, da publicação do acórdão embargado, que somente ocorreu no dia 28.3.2014. Não houve, em momento algum, ratificação dos embargos de declaração opostos prematuramente a fim de viabilizar a via eleita, de modo que a extemporaneidade impede o seu conhecimento. Neste sentido, citem-se os seguintes precedentes desta Corte:
+    Embargos de declaração em embargos de declaração em agravo regimental no recurso extraordinário. Recurso extemporâneo. Segundos embargos. Reexame. Impossibilidade. Precedentes.
+    1. A Jurisprudência desta Corte é pacífica no sentido de ser extemporâneo o recurso interposto antes da publicação do julgado recorrido sem a posterior ratificação no prazo recursal.
+    2. Não se conhece de segundos embargos de declaração com o objetivo de rediscussão da causa.
+    3. Embargos de declaração não conhecidos. (RE 539.676 AgR-ED-ED, rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 11.4.2012)
+    AGRAVO REGIMENTAL. INTERPOSIÇÃO ANTES DO PRAZO. AUSÊNCIA DE RATIFICAÇÃO. INTEMPESTIVIDADE.
+    1. É de se considerar extemporâneo o agravo regimental protocolado antes de publicada a decisão recorrida, tendo em vista que não se abriu o prazo para sua impugnação. Necessidade de ratificação do ato de interposição do recurso, após a publicação do despacho atacado no órgão oficial.
+    2. Agravo regimental improvido. (RE 450.443 AgR-AgR, rel. Min. ELLEN GRACIE, Segunda Turma, DJ de 03.02.2006)
+    A 2ª Turma do STF, ao apreciar a Questão de Ordem suscitada nos autos do RHC 104.270/DF (Min. Celso de Mello, DJe de 07/12/2011), esclareceu que "A intempestividade dos recursos tanto pode derivar de impugnações prematuras (que se antecipam à publicação dos acórdãos) quanto resultar de oposições tardias (que se registram após o decurso dos prazos recursais). Em qualquer das duas situações (impugnação prematura ou oposição tardia), a consequência de ordem processual é uma só: o não conhecimento do recurso, por efeito de sua extemporânea interposição. A jurisprudência do Supremo Tribunal Federal tem advertido que a simples notícia do julgamento, além de não dar início à fluência do prazo recursal, também não legitima a prematura interposição de recurso, por absoluta falta de objeto, ainda que se cuide de matéria criminal".
+    3. Ante o exposto, não conheço dos embargos de declaração.
+    Publique-se. Intime-se.
+    Brasília, 28 de abril de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
