@@ -1,0 +1,20 @@
+DECISÃO:
+     Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado (fls. 447):
+    “Civil e Processo Civil – Ação Cominatória – Interposição de apelação antes do julgamento dos embargos de declaração – Lei Estadual n° 4.866/2003 – Reajuste Setorial – Inocorrência de ofensa aos princípios da isonomia e ao reajuste geral de vencimentos – Súmula 339 do STF.
+    I – Interposta apelação enquanto pendente julgamento de embargos de declaração enseja o não conhecimento daquela, pois extemporânea, exceto nos casos em que no prazo regular para apresentação do apelo, após o julgamento dos aclaratórios, a parte reiterar as razões do recurso prematuro, uma vez que o julgamento dos embargos de declaração, independentemente do seu acolhimento passam a fazer parte do decisum a quo. Súmula n° 418 do STJ;
+    II – Forçoso admitir que não se trata a Lei Estadual n° 4.866/2003 de norma de revisão geral de vencimentos dos servidores, mormente porque o diploma em epígrafe altera normas que definem o regime jurídico remuneratório de uma categoria específica de servidores públicos, qual seja, a Polícia Militar e o Corpo de Bombeiros.
+    III – De acordo com entendimento jurisprudencial da Suprema Corte, reajustes setoriais de vencimentos de servidores públicos com a finalidade de corrigir distorções, não ofendem os postulados da isonomia e o do reajuste geral dos vencimentos;
+    IV – Registre-se que não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia, porquanto o § 1° do artigo 39 da Carta Magna é preceito dirigido ao legislador, a quem compete concretizar o princípio da isonomia, considerando especificamente os casos de atribuições iguais ou assemelhadas, não cabendo ao Poder Judiciário substituir-se ao legislador;
+    V – Não conheço do apelo dos autores, face sua extemporaneidade, conhecendo apenas do recurso do ente estatal para lhe dar provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 1°, IV; 34, § 1°; e 39, I, II, III e parágrafo único, todos da Constituição.
+    O recurso extraordinário não pode ser admitido, tendo em vista que as alegadas violações aos dispositivos constitucionais, à exceção do art. 37, X, não foram apreciadas pelo acórdão impugnado. Tampouco foram opostos embargos declaratórios para sanar eventual omissão. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto à suposta ofensa ao art. 37, X, o acórdão recorrido está alinhado à jurisprudência desta Corte no sentido da constitucionalidade da concessão de reajustes setoriais para corrigir eventuais distorções remuneratórias, sem que isso implique violação ao princípio constitucional da isonomia ou ao princípio da revisão geral. Nesse sentido, veja-se a ementa do RE 307.302-ED, julgado sob a relatoria do Ministro Carlos Velloso:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: REAJUSTE DE VENCIMENTOS: REAJUSTES SETORIAIS.
+    I. - Reajustes setoriais de vencimentos de servidores públicos com a finalidade de corrigir distorções: legitimidade. Inocorrência de ofensa ao princípio da isonomia e ao princípio da revisão geral inscrita no art. 37, X, da C.F.
+     II. - Embargos de declaração conhecidos como agravo. Não provimento deste.”
+    Ademais, concluir de modo diverso demandaria o reexame da legislação local aplicável à espécie, o que atrai a incidência da Súmula 280/STF. Nessa linha, vejam-se os seguintes precedentes: ARE 765.335-AgR, Rel.ª Min.ª Cármen Lúcia; AI 612.460-AgR, Rel. Min. Gilmar Mendes; ARE 672.416-AgR, Rel. Min. Luiz Fux; ARE 672.424-AgR, Rel. Min. Ricardo Lewandowski.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de abril de 2014.
+Ministro Luís Roberto Barroso
+Relator
