@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de recurso extraordinário de acórdão do Tribunal Superior do Trabalho que deu parcial provimento a recurso de revista para limitar a incidência do adicional de produtividade ao período de vigência da sentença normativa proferida no Dissídio Coletivo 6/79.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos seguintes dispositivos constitucionais: (a) arts. 5º, XXXV, e 93, IX, pois o Tribunal de origem rejeitou os embargos de declaração de forma indevida, e (b) arts. 5º, XXXVI, e 7º, VI e XXVI, uma vez que esta Corte, ao julgar recurso no DC 6/79, não limitou a sua incidência.
+    2. No que toca à alegação de ofensa ao art. 93, IX, da Constituição Federal, relativa à suposta negativa de prestação jurisdicional, deve ser observado entendimento assentado por esta Corte, do qual não divergiu o acórdão recorrido, no julgamento do AI 791.292 QO - RG (Min. Rel. GILMAR MENDES, DJe de 13/8/2010), cuja repercussão geral foi reconhecida, para reafirmar jurisprudência do Supremo Tribunal Federal no sentido de que:
+    (…) o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ademais, conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação ao direito adquirido, ao ato jurídico perfeito, e aos princípios da inafastabilidade da jurisdição e da motivação das decisões, que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    3. Quanto à limitação da incidência do DC 6/79, o deslinde da controvérsia demandaria a análise das cláusulas da sentença normativa, medida incabível no âmbito do recurso extraordinário. Nesse sentido, confira-se o seguinte julgado, proferido em caso idêntico:
+    Ementa: DIREITO DO TRABALHO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTO INATACADO. SÚMULA 284/STF. DISSÍDIO COLETIVO 6/79. ADICIONAL DE PRODUTIVIDADE. INCORPORAÇÃO. MATÉRIA INFRACONSTITUCIONAL. ANÁLISE DAS CLÁUSULAS DE SENTENÇA NORMATIVA. INCIDÊNCIA DA SÚMULA 454/STF.
+    AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO. (RE 346.483 AgR, Segunda Turma, de minha relatoria, DJe de 14/05/2013)
+    4. Diante do exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 28 de abril de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
