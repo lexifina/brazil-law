@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que rejeitou pedido de reparação econômica à anistiado político que exerceu o mandato de vereador gratuitamente por força do Ato Institucional 2.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 8º, caput e § 4º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem concluiu que o anistiado político que exerceu a vereança gratuitamente em decorrência de ato de exceção não faz jus à indenização, sob os seguintes fundamentos:
+    “(...) em interpretação sistemática da matéria, vê-se que aos anistiados políticos previstos no inciso XIII, do art. 2º, da Lei 10.559/2002, não foi assegurado o direito à obtenção da indenização prevista no art. 4º da mesma lei.
+    Com efeito, o parágrafo primeiro do art. 2º da Lei 10.559/2002 diz, literalmente, que no caso previsto no inciso XIII, o período de mandato exercido gratuitamente conta-se apenas para efeito de aposentadoria no serviço público e de previdência social” (fl. 80)
+    Desse modo, verifica-se que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie. O exame da alegada ofensa ao texto constitucional, portanto, envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Nesse sentido, cito o ARE 647.499-AgR/DF, Rel. Min. Luiz Fux, cuja ementa segue transcrita:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. ANISTIA. EFEITOS FINANCEIROS. LEI Nº. 8.878/94. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: ARE n. 656.411-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 07.12.2011, e ARE n. 649.750-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 12.09.2011. 2. In casu, o acórdão recorrido assentou: 'AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA - DESCABIMENTO. ANISTIA. PROMOÇÕES FUNCIONAIS. DECISÃO MOLDADA À JURISPRUDÊNCIA UNIFORMIZADA PELO TST. Estando a decisão moldada à jurisprudência uniformizada desta Corte (OJ Transitória 56 da SBDI-1), não prospera o apelo (art. 896, § 4º, da CLT). Agravo de instrumento conhecido e desprovido.' 3. Agravo regimental a que se nega provimento”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de abril de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
