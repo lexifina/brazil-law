@@ -1,0 +1,20 @@
+DECISÃO:
+Ementa: MANDADO DE SEGURANÇA. DECISÃO NEGATIVA DO CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO. INCOMPETÊNCIA DESTA CORTE. 1. A orientação deste Tribunal se pacificou no sentido de que não lhe compete julgar, em caráter originário, as ações que impugnem “decisões negativas” do CNJ e do CNMP – i.e., aquelas que não agravam a situação dos interessados. 2. Negado seguimento.
+    1. Trata-se de mandado de segurança impetrado contra ato do Conselho Nacional do Ministério Público, que manteve decisão administrativa do Ministério Público do Estado do Amazonas sobre a absorção do “adicional de fim de carreira” pelo subsídio.
+    2. O CNMP apresentou informações, nas quais sustentou a legalidade do ato impugnado.
+    3. A Procuradoria-Geral da República opinou pelo não-conhecimento do writ, por se tratar de deliberação negativa do CNMP.
+    4. É o relatório. Decido.
+    5. A jurisprudência se firmou no sentido de que não compete ao Supremo Tribunal Federal julgar, em caráter originário, as ações que questionem “decisões negativas” do Conselho Nacional de Justiça. Consideram-se assim aqueles pronunciamentos que, por não interferirem em relações jurídicas, não agravam a situação dos interessados. Foi o que registrou o Ministro Sepúlveda Pertence no MS 26.710 MC/DF:
+    “Estou em que é de proceder a uma redução teleológica da letra dessa nova cláusula de competência do Supremo Tribunal, de modo a não convertê-lo, mediante o mandado de segurança, em verdadeira instância ordinária de revisão de toda e qualquer decisão do Conselho Nacional de Justiça.
+    É preciso distinguir entre as deliberações do CNJ que impliquem intervenção na órbita da competência ordinária confiada, em princípio, aos juízos ou tribunais submetidos ao seu controle daquelas que, pelo contrário, traduzam a recusa de intervir.
+    Quanto às primeiras, as positivas, não há dúvida de que o CNJ se torna responsável pela eventual lesão ou ameaça de lesão a direito consequentes, submetidas ao controle jurisdicional do Supremo Tribunal Federal: assim, por exemplo, as que avoquem processos disciplinares em curso nos tribunais, apliquem sanções administrativas, desconstituam ou revejam decisões deles ou lhes ordene providências.
+    Diversamente, com as da segunda categoria, as negativas, o Conselho não substitui por ato seu o ato ou omissão dos tribunais, objeto da reclamação, que, por conseguinte, remanescem na esfera de competência ordinária destes”.
+    6. A mesma lógica vale para decisões do CNMP. Confira-se:
+    “AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. PROMOTOR DE JUSTIÇA. PROMOÇÃO POR MERECIMENTO. ALEGADA ADOÇÃO DE CRITÉRIOS SUBJETIVOS PELO CONSELHO ESPECIAL DO MINISTÉRIO PÚBLICO DE RORAIMA. PROCEDIMENTO DE CONTROLE ADMINISTRATIVO. IMPROCEDÊNCIA. DELIBERAÇÃO NEGATIVA DO CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO - CNMP. NÃO CABIMENTO DE MANDADO DE SEGURANÇA PARA O SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (MS 32.316 AgR, Rel. Min. Cármen Lúcia – destaques acrescentados)
+    7. Nesse sentido, confiram-se, dentre outros: MS 27.764 AgR/DF, Rel. Min. Ricardo Lewandowski; MS 28.345 AgR/DF, Rel. Min. Cármen Lúcia; MS 27.763 AgR/DF, Rel. Min. Dias Toffoli; MS 27.712 AgR/DF, Rel. Min. Celso de Mello. Especificamente em caso de arquivamento de feito, vejam-se as seguintes decisões monocráticas: MS 28.847/DF, Rel. Min. Teori Zavascki; MS 32.717/DF, Rel. Min. Rosa Weber; MS 32.431/MG, Rel. Min. Luiz Fux.
+    8. Como “não cabe ao órgão julgador fazer a substituição da autoridade indicada como coatora pelo impetrante” (RMS 24.552/DF, Rel. Min. Gilmar Mendes), é inviável remeter os autos a outro órgão (MS 22.970 QO/DF, Rel. Min. Moreira Alves; MS 21.384/DF, Rel. Min. Marco Aurélio). A extinção é medida que se impõe.
+    9. Diante do exposto, com base no art. 10 da Lei nº 12.016/2009 e no art. 21, § 1º, do RI/STF, nego seguimento ao mandado de segurança.
+    Publique-se. Intimem-se.
+          Brasília, 28 de abril de 2014
+Ministro LUÍS ROBERTO BARROSO
+Relator
