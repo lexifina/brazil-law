@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. CONTRATO DE PREVIDÊNCIA PRIVADA. DECADÊNCIA. ALEGADA OFENSA AO DIREITO ADQUIRIDO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. VIOLAÇÃO AO ART. 93 DA CF/88. INEXISTÊNCIA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O direito adquirido, quando sub judice a controvérsia no caso concreto acerca da ocorrência ou não da violação, não desafia a instância extraordinária, posto implicar análise de matéria infraconstitucional. Precedentes: AI 699.726-AgR, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 16/11/2010, e ARE 676.446-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe 2/10/2013.
+2. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+3. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+4. In casu, o acórdão recorrido assentou: “DIREITO CIVIL. PREVIDÊNCIA PRIVADA. PREVI- BANES. ANULABILIDADE DO ATO DE ADESÃO. DECADÊNCIA”.
+5. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pela EUNICE FERREIRA DO NASCIMENTO, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “DIREITO CIVIL. PREVIDÊNCIA PRIVADA. PREVI- BANES. ANULABILIDADE DO ATO DE ADESÃO. DECADÊNCIA. Agravo interno contra decisão monocrática que negou seguimento a recurso de apelação na forma do art. 557, caput, do CPC, confirmando a sentença que pronunciara liminarmente a decadência. Repetição da tese expendida quando do recurso precedente. 1. O prazo decadencial para propositura de ação de anulação de negócio jurídico (no caso, o de adesão do empregado à PREVI-BANERJ) é de quatro anos, ex vi do art. 178, § 9º, V, do Código Civil de 1916, vigente à época da celebração. Precedentes deste tribunal. 2. A Portaria RIOPREVIDÊNCIA nº 89/04 é dirigida expressamente a quem se aposentou por invalidez com início da licença médica após a liquidação da PREVI-BANERJ.  3. Recurso ao qual se nega provimento” (fl. 59 do volume 2).
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, XXXVI, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a alegada ofensa à Constituição, se existente, seria reflexa e que o acórdão encontra-se devidamente fundamentado.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    O recurso não merece prosperar.
+    A jurisprudência desta Corte se orienta no sentido de que o direito adquirido e o ato jurídico perfeito, quando objeto de verificação de cada caso concreto acerca da ocorrência ou não de violação, não desafiam a instância extraordinária, posto implicarem análise de matéria infraconstitucional. Neste sentido, o AI 699.726-AgR, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 16/11/2010, assim ementado, no que interessa:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO AMBIENTAL. MATÉRIA INFRACONSTITUCIONAL. LIMITES DA COISA JULGADA. ALEGADA OFENSA AO ART. 5º, II, XXXVI E LV, DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I – O acórdão recorrido dirimiu a matéria com base na interpretação de legislação infraconstitucional aplicável à espécie. Ofensa reflexa.
+    II – A Corte tem se orientado no sentido de que a verificação, no caso concreto, da ocorrência ou não de violação ao direito adquirido e ao ato jurídico perfeito situa-se no campo infraconstitucional. Precedentes.
+    [...]”
+    Sobre a matéria, citem-se, ainda, os seguintes precedentes: ARE 676.446-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe 2/10/2013; AI 730.015-AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe 14/12/2012; ARE 735.091-AgR, Segunda Turma, Rel. Min. Teori Zavascki, DJe 11/9/2013; e AI 599.146-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe 11/9/2013.
+    Por fim, quanto à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte, nesse sentido, AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de abril de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
