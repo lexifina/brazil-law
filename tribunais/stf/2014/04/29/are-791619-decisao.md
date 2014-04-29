@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AÇÃO MONITÓRIA. CONTRATO BANCÁRIO. TAXA DE JUROS. SÚMULAS 121; 596; 648 DO SUPREMO TRIBUNAL FEDERAL E SÚMULAS 30; 294; 296 E 297 DO STJ: CAPITALIZAÇÃO DE JUROS. MORA. PRECEDENTES.
+    1. Pelo entendimento 296 do STJ, no período de inadimplência somente incide a comissão de permanência quando praticada pela taxa média do mercado.
+    2. O entendimento combinado da Súmula 121 do STF e do Decreto 22.626/33, art. 4º, admitindo a capitalização anual de juros, afasta a prática em período inferior. Não se enquadrando a hipótese nas exceções legais: Decreto-lei nº 167, de 14/02/67, no Decreto-lei 413, de 09/01/69 e na Lei 6.840, de 03/11/80, que dispõe sobre títulos de crédito rural, título de crédito industrial e títulos de crédito comercial, respectivamente, aplica-se a norma geral válida. Precedentes: IAIN nº 2001.71.00.004856-0/RS; Data da decisão: 02/08/2004 Documento: TRF400099138. DJU: 08/09/2004 PÁGINA: 350. Relator(a) Juiz Luiz Carlos de Castro Lugon; Recurso Especial nº 602.068-RS (2003/0191967-5) Segunda Seção do Superior Tribunal de Justiça, Relator: Ministro Antônio de Pádua Ribeiro. Data da decisão: 22.09.2004. DJ: 21.03.2005.
+    3. Prevalecem as cláusulas do contrato, aparando-se cobranças abusivas. Durante o prazo do contrato incidem os juros remuneratórios previstos no pacto. Após o inadimplemento cabe a atualização do capital pelo indexador contratado, excluindo-se a taxa de rentabilidade de 10% ao mês, com fundamento nas regras de Proteção ao Consumidor.
+    4. Recurso parcialmente provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente requer a reforma do acórdão recorrido para “reconhecer a ofensa ao artigo 62 da Carta Republicana, e, conseqüentemente, afastar o fundamento de inconstitucionalidade do artigo 5º da Medida Provisória nº 2.170-36/2001, de modo a reconhecer a possibilidade de capitalização mensal dos juros contratados”.
+    O Supremo Tribunal Federal, na análise do RE 568.396, substituído pelo RE 592.377-RG, Rel. Min. Marco Aurélio, reconheceu a existência de repercussão geral da discussão acerca da constitucionalidade do art. 5º da Medida Provisória nº 2.170-36/2001, no que autorizou a capitalização de juros com periodicidade inferior a um ano (Tema 33).
+    Diante do exposto, dou provimento ao agravo para admitir o recurso extraordinário e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 29 de abril de 2014.
+Ministro Luís Roberto Barroso
+Relator
