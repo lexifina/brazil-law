@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “APELAÇÃO CIVEL. AÇÃO REVISIONAL DE CONTRATO. FINANCIAMENTO HABITACIONAL. PRELIMINAR DE NÃO CONHECIMENTO DO APELO REJEITADA. JUROS REMUNERATÓRIOS. Lícita a previsão contratual que prevê a possibilidade de elevação da taxa de juros em caso de desvinculação do mutuário da PREVI. CAPITALIZAÇÃO DE JUROS. No caso é vedada a capitalização de juros. No caso é vedada a capitalização mensal. CORREÇÃO MONETÁRIA. Inexiste abusividade na adoção da TR. SISTEMA DE AMORTIZAÇÃO. Não há ilegalidade no sistema de amortização adotado, que é aceito pelo STJ inclusive nos contratos vinculados ao SFH. COEFICIENTES DE EQUALIZAÇÃO DE TAXAS. Lícita a previsão contratual que prevê a aplicação dos CET’s. SEGUROS. Não há ilegalidade na exigência do seguro para o caso de morte. REPETIÇÃO DE INDÉBITO. Admitida nos termos da Súmula nº 322 do STJ, de forma simples. GRATUIDADE. A autora faz jus ao benefício da gratuidade. Apelo parcialmente provido”. (eDOC 5, p. 27)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 5º, XXXVI; e 202 do texto constitucional.
+    Aponta-se que o acórdão recorrido, ao vedar a capitalização de juros, não observou o contrato firmado entre as partes, em desrespeito ao ato jurídico perfeito e ao equilíbrio atuarial do plano de entidade de previdência privada.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o Tribunal de origem decidiu a controvérsia com base nas cláusulas firmadas entre as partes, bem como no acervo fático-probatório dos autos. Assim, incidem no caso, os Enunciados 279 e 454 da Súmula do STF. Confiram-se, a propósito, os seguintes julgados:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL, DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 454/STF. DIREITO À AMPLA DEFESA E AO CONTRADITÓRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (ARE 764.316-AgR/ES, Rel. Min. Teori Zavascki, Segunda Turma, DJe 1.10.2013)
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OFENSA AOS ARTIGOS 5º, XXXVI, LIV E LV, 195, §5º E 202, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. PROVA E INTERPRETAÇÃO DE REGRA CONTRATUAL. SÚMULAS STF 279 E 454. 1. A discussão atinente à ocorrência ou não de capitalização anual de juros é matéria que demanda revolvimento de material fático-probatório e interpretação de norma contratual, ao que se aplicam as Súmulas STF 279 e 454. 2. A possível violação aos postulados do ato jurídico perfeito, do devido processo legal, do contraditório, da ampla defesa configura ofensa reflexa à CF. 3. Agravo regimental improvido”. (AI 733.225-AgR/RS, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24.09.2010)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de abril de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
