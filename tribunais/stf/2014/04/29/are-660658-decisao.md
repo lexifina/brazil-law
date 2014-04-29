@@ -1,0 +1,25 @@
+DECISÃO
+    Município de Lagoa de Velhos interpõe agravo contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 29-A, inciso I, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+    “AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. DUODÉCIMO. REPASSE DE NUMERÁRIO AO PODER LEGISLATIVO. PREVISÃO ORÇAMENTÁRIA. LEGISLAÇÃO INSTITUÍDA SOB A FORMA DO REGIME CONSTITUCIONAL ANTERIOR. LEGALIDADE EVIDENCIADA. IMPOSSIBILIDADE DE REDUÇÃO NO VALOR DO DUODÉCIMO. PRESERVAÇÃO DA SITUAÇÃO CONSTITUÍDA SOB O SISTEMA ANTERIOR. PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA DE URGÊNCIA. REFORMA DA DECISÃO QUE SE IMPÕE. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.” (fl. 224).
+    Opostos embargos de declaração (fls. 232 a 234), foram desprovidos (fls. 243 a 247).
+    Após as contrarrazões, o recurso extraordinário (fls. 249 a 257) não foi admitido na origem (fls. 273 a 276).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    O presente recurso extraordinário resta prejudicado, por perda superveniente do objeto.
+    A questão em tela cinge-se a discutir acerca da constitucionalidade da Lei Orçamentária Anual nº 292/2009 (fls. 35 a 38) e da Lei de Diretrizes Orçamentárias nº 290/2009 (fls. 164 a 177), ambas do município agravante. As referidas leis foram publicadas, respectivamente, em 29/09/2010 e em 21/12/2009, para o exercício financeiro de 2010.
+    Entretanto, as leis foram editadas em contrariedade à Emenda Constitucional nº 58, que entrou em vigor na data de sua publicação (24/09/2009). Com a alteração do artigo 29-A, da Constituição Federal, o percentual de duodécimos repassados pelo Município ao Poder Legislativo Municipal passou de 8% (oito por cento) para 7% (sete por cento), para os Municípios com população de até 100.000 (cem mil) habitantes.
+    Não obstante a contrariedade ao art. 29-A, alterado pela Emenda Constitucional nº. 58/2009, o orçamento do exercício de 2010 esgotou-se, encerrando sua eficácia naquele mesmo ano, pelo que o pleito formulado originariamente no mandado de segurança está prejudicado, por perda de seu objeto.
+    No mesmo sentido, colaciono a decisão proferida pelo Ministro Gilmar Mendes, nos autos do ARE nº 753.573/PE, publicado em 27/06/2013, in verbis:
+    “Na espécie, é clara a revogação da lei orçamentária municipal, no ponto em que cuida do percentual da despesa devido ao Poder Legislativo Municipal, operada pela publicação da EC 58/2009, que reduziu de 8% (oito por cento) para 7% (sete por cento) o valor devido alusivo àqueles municípios com população de até 100.000 (cem mil) habitantes.  Isso porque a referida emenda, promulgada em 23 de setembro de 2009, em seu artigo 3º, prevê que a mencionada redução somente valerá “a partir de 1º de janeiro do ano subsequente ao da promulgação desta emenda”.
+    Da análise dos autos, tem-se que a legislação de diretrizes orçamentárias municipal foi publicada em 8 de dezembro de 2009 (eDOC 3, p. 40) e que a lei orçamentária municipal foi publicada em 27 de outubro do mesmo ano (eDOC 3, p. 70), ambas previstas para viger durante o exercício financeiro de 2010.
+    Logo, as referidas leis orçamentárias foram elaboradas posteriormente à data de promulgação da Emenda Constitucional 58/2009 e em desacordo com as diretrizes estabelecidas por ela, em contrariedade ao decidido pelo Tribunal a quo.
+    No entanto, repita-se que a presente demanda versa a constitucionalidade de orçamento do exercício de 2010, elaborado em 2009. Nada obstante a consistente ofensa ao art. 29-A, com a redação dada pela Emenda Constitucional 58/2009, é certo que o orçamento do exercício de 2010 já foi plenamente esgotado, encerrando sua eficácia no mesmo ano, de forma que o pleito formulado originariamente em sede de mandado de segurança resta prejudicado, ante a ausência de seu objeto.
+    Ante o exposto, julgo prejudicado o presente processo, por perda superveniente do objeto, nos termos do art. 21, IX, do RISTF.”
+    Ante o exposto, julgo prejudicado o recurso extraordinário, por perda superveniente do objeto, nos termos do artigo 21, inciso IX, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 29 de abril de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
