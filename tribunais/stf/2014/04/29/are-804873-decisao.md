@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. MATÉRIA INFRACONSTITUCIONAL. VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 748.371.
+1. A exceção de pré-executividade, quando sub judice a controvérsia sobre os seus requisitos de admissibilidade, demanda a análise da legislação infraconstitucional. Precedentes: ARE 666.361-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 16/5/2012, e ARE 688.936-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 24/9/2012.
+2. Os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE nº 748.371, da Relatoria do Min. Gilmar Mendes.
+3. In casu, o acórdão assentou: “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. INADMISSIBILIDADE”.
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por LEOCADIO VALENTIM e LUIZ ANTÔNIO DE OLIVEIRA, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    "PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. INADMISSIBILIDADE. 1. Os vícios increpados à legitimidade do título exequendo devem ser comprovados de plano. As demais questões aventadas pela agravante devem ser analisadas em sede de embargos à execução, via processual adequada à dilação probatória. Precedentes (STJ: RESP 929559/RJ, Rel. Min. Teori Albino Zavascki, j. 05.06.2007, DJ de 21.06.2007; e AGRESP 910733/MG, Rel. Min. Francisco Falcão, j. 17.04.2007, DJ de 10.05.2007). 2. Agravo de instrumento a que se nega provimento” (fl. 169 do volume 4).
+    Nas razões do apelo extremo, os recorrentes sustentam a preliminar de repercussão geral e, no mérito, alegam violação ao artigo 5º, LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o conhecimento do recurso encontra óbice na Súmula 279.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE nº 748.371, da Relatoria do Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Demais disso, a controvérsia atinente ao cabimento e aos pressupostos de admissibilidade da exceção de pré-executividade, cinge-se ao âmbito infraconstitucional. Ora, a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CABIMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 666.361-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 16/05/2012).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Processual Civil. 3. Execução. Exceção de pré-executividade. 4. Ofensa reflexa. 5. Alegação de violação aos princípios da ampla defesa e do contraditório. Insubsistência. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento” (ARE 688.936-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 24/09/2012).
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de abril de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
