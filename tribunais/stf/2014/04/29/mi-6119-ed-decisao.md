@@ -1,0 +1,19 @@
+Decisão: 1. Trata-se de embargos de declaração opostos pelo Estado de Sergipe, contra decisão monocrática que concedeu a ordem pleiteada, nos seguintes termos:
+    “(...) 3. É também da jurisprudência assentada no Tribunal que, a lacuna normativa em relação ao art. 40, § 4º da Constituição deverá ser preenchida por lei complementar de iniciativa privativa do Presidente da República (art. 61, § 1º, II, ‘c’, da Constituição), a significar que é ele a autoridade que deve necessariamente figurar como impetrada, independentemente da inclusão no polo passivo da demanda também dos Presidentes da Câmara dos Deputados e do Senado Federal. A propósito, ficou decidido no MI 1893:
+    (…)
+    Considera-se, também, inexistir, em casos tais, litisconsórcio passivo necessário entre as autoridades federais e as de Estado, Distrito Federal ou Município ou Instituto de Previdência. Nesse sentido:
+    (...)
+    5. Em suma, a jurisprudência do STF está assentada nas seguintes diretrizes: (a) enquanto não editada a lei complementar de que trata o § 4º do art. 40 da Constituição, os servidores públicos têm direito à aposentadoria especial de acordo com as normas do Regime Geral de Previdência Social (atualmente os arts. 57/58 da Lei 8.213/91 e arts. 64/70 do Decreto 3.048/99, ou as normas vigentes no momento da prestação da atividade em condições especiais); (b) o mandado de injunção é instrumento apto a afirmar e suprir a referida lacuna normativa, mas não para assegurar, desde logo, a própria concessão do benefício de aposentadoria especial, que deve ser requerido administrativamente; (c) o juízo de mérito, nesses casos, supõe que o impetrante comprove a existência do requerimento e do indeferimento administrativo do benefício, bem como identifique os nomes, cargos e funções dos servidores a serem beneficiados.
+    Ainda, devem ser observadas as seguintes situações específicas: (a) o STF é competente para processar e julgar mandados de injunção impetrados por servidores públicos municipais, estaduais, distritais e federais, (c) a Presidente da República deve obrigatoriamente figurar como autoridade impetrada, (c) o instituto de previdência, entre outras pessoas, não é litisconsorte passivo necessário ao lado da autoridade competente para a elaboração da norma reguladora.
+    Acrescenta-se, por fim, que o Plenário do STF dispensa a remessa prévia dos autos à Procuradoria-Geral da República quando se tratar de processo com matéria similar à discutida em processos anteriores:
+    (...)
+    6. No caso concreto, a impetrante enquadra-se nas regras gerais (comprovou o requerimento administrativo na inicial) e não há nenhuma exceção ou impedimento específico ao seu pedido.
+    7. Diante do exposto, concedo a ordem, para determinar que a autoridade administrativa competente proceda à análise do pedido de aposentadoria especial da impetrante, nos termos do disposto nos arts. 57/58 da Lei 8.213/91 e arts. 64/70 do Decreto 3.048/99, ou as normas vigentes no momento da prestação da atividade em condições especiais”.
+    Em suma, alega o embargante a existência de omissão acerca de sua ilegitimidade passiva ad causam.
+    2. A decisão embargada, conforme os trechos acima transcritos, não foi omissa sobre a indicação necessária da Presidente da República como autoridade impetrada e a ausência de litisconsórcio passivo com o Governador do Estado ou o Prefeito do Município. Contudo, isso não afasta a possibilidade de litisconsórcio facultativo com tais autoridades, a critério do impetrante. Assim, não havendo qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 535 do CPC, impõe-se a rejeição dos presentes embargos declaratórios.
+    3. Diante do exposto, rejeito os embargos de declaração.
+    Publique-se. Intimem-se.
+    Brasília, 29 de abril de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
