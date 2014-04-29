@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. EXCEÇÃO DE INCOMPETÊNCIA. DECISÃO AGRAVADA NÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA 287/STF. PRECEDENTES. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. A impugnação específica da decisão agravada, quando ausente, conduz à inadmissão do recurso extraordinário. Súmula 287 do STF. Precedentes: ARE 665.255-AgR/PR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 22/5/2013, e AI 763.915-AgR/RJ, Rel. Min. Dias Toffoli, Primeira Turma, DJe 7/5/2013.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “AGRAVO REGIMENTAL – EXCEÇÃO DE INCOMPETÊNCIA – ARGUIÇÃO CONTRA MEMBRO DA CORTE – SUSPEIÇÃO DECLARADA PELO PRESIDENTE – DECISÃO PROFERIDA PELO VICE-PRESIDENTE – ALEGAÇÃO DE INCOMPETÊNCIA POR ESTE REJEITADA – DECISÃO ESCORREITA – RECURSO IMPROVIDO.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário com agravo interposto por JOSÉ GERALDO RIVA, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional contra acórdão assim ementado:
+    “AGRAVO REGIMENTAL – EXCEÇÃO DE INCOMPETÊNCIA – ARGUIÇÃO CONTRA MEMBRO DA CORTE – SUSPEIÇÃO DECLARADA PELO PRESIDENTE – DECISÃO PROFERIDA PELO VICE-PRESIDENTE – ALEGAÇÃO DE INCOMPETÊNCIA POR ESTE REJEITADA – DECISÃO ESCORREITA – RECURSO IMPROVIDO.”
+    Nas razões do apelo extremo, alega violação ao artigo 5º, caput, II, XXXV, XXXVII e LIII, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por entender pela ausência do devido prequestionamento da matéria em discussão, bem como, por não ter atacado todos os fundamentos do acórdão combatido, o que atrairia a incidência da Súmula 284 desta Corte.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    O agravo não merece provimento.
+    O agravante não atacou todos os fundamentos da decisão agravada. Esta Suprema Corte firmou jurisprudência no sentido de que a parte tem o dever de impugnar os fundamentos da decisão agravada, sob pena de não ter sua pretensão acolhida, por vedação expressa do enunciado da Súmula 287 deste Supremo Tribunal Federal, de seguinte teor: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido, colacionam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - O agravo não atacou os fundamentos da decisão que inadmitiu o recurso extraordinário, o que torna inviável o recurso, conforme a Súmula 287 do STF. Precedentes. II - O argumento expendido no presente recurso referente à suposta admissibilidade recursal com base no art. 102, III, c, da Constituição traduz inovação recursal, haja vista não ter sido mencionada nas razões do apelo extremo. III - Agravo regimental improvido.” (ARE 665.255-AgR/PR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 22/5/2013)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de abril de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
