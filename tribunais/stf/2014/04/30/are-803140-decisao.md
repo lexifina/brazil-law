@@ -1,0 +1,13 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no ARE 802.082-RG/SC, Rel. Min. TEORI ZAVASCKI, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. ESTADO DE SANTA CATARINA. SERVIDORES PÚBLICOS. HORAS DE SOBREAVISO. INCIDÊNCIA DE IMPOSTO DE RENDA. NATUREZA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia relativa à incidência do Imposto de Renda sobre a importância paga a título de horas de sobreaviso é de natureza infraconstitucional, já que o caráter indenizatório da verba foi decidido pelo Tribunal de origem à luz da legislação estadual pertinente, não havendo, portanto, matéria constitucional a ser analisada.
+    2. O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. No presente caso, a alegação de repercussão geral não está acompanhada de fundamentação nos moldes exigidos pela jurisprudência desta Corte.
+    3. A teor do art. 102, III, ‘a’, da Constituição, fundamento da interposição do presente recurso extraordinário, não cabe invocar nesse apelo a violação a norma infraconstitucional, razão pela qual não se conhece a alegada violação aos arts. 43, I e II, do CTN, 45, II, e 638, do Decreto 3.000/99.
+    4. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009).
+    5. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC. ”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 30 de abril de 2014.
+Ministro CELSO DE MELLO
+Relator
