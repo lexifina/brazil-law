@@ -1,0 +1,22 @@
+Decisão:
+Ementa: Habeas corpus. Requisitos de admissibilidade de recurso especial. Tráfico de drogas. Dosimetria da pena. Impossibilidade de revolver o material probatório da causa. Writ não conhecido.
+    1. Trata-se de habeas corpus originário impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da relatoria da Ministra Marilza Maynard, assim ementado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE ILEGALIDADE. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. IMPOSSIBILIDADE. PROVAS DE QUE O RÉU SE DEDIQUE A ATIVIDADES CRIMINOSAS. ALTERAÇÃO DE ENTENDIMENTO. REEXAME DE PROVAS. VERBETE N. 7 DA SÚMULA DO STJ. AGRAVO DESPROVIDO.
+    – Não há ofensa ao princípio da colegialidade quando a decisão monocrática é proferida em obediência aos arts. 557, caput e § 1º-A, do Código de Processo Civil e 3º do Código de Processo Penal, que permite ao relator dar provimento, negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior. Precedentes.
+    – A Corte de origem afastou a incidência da causa especial de diminuição de pena, prevista no art. 33, § 4º, da Lei n. 11.343/2006, à conclusão de que o réu integra organização criminosa. Entender de forma diversa demandaria o reexame das circunstâncias fáticas-probatórias da causa, o que é defeso em recurso especial, a teor do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+    Agravo regimental desprovido.”
+    2. Neste habeas corpus, a Defensoria Pública da União afirma que o paciente, condenado a 6 (seis) anos, 7 (sete) meses e 10 (dez) dias de reclusão pelo delito de tráfico de drogas, tem direito à redução da pena prevista no art. 33, § 4º da Lei nº 11.3434/2006. Requer, assim, a aplicação do redutor no percentual máximo e a fixação de regime inicial menos gravoso.
+    3. A Procuradoria-Geral da República opinou pela denegação da ordem.
+    Decido.
+    4. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a via do habeas corpus não se presta para o reexame dos pressupostos de admissibilidade de recurso especial (v.g HC 99.174 AgR, Rel. Min. Ayres Britto, HC 112.756, Rel.ª Min.ª Rosa Weber, e HC 112.422, Rel. Min. Luiz Fux).
+    5. Da mesma forma, não compete ao Supremo Tribunal Federal reexaminar as condições de cabimento de recurso especial para julgar novamente a causa, ou determinar ao Superior Tribunal de Justiça que aprecie o mérito da insurgência (v.g HC 111.159, Rel. Min. Teori Zavascki, e HC 113.407, Rel. Min. Ricardo Lewandowski). Confira-se, a propósito, a ementa do HC 85.195, Rel. Min. Ayres Britto:
+    “HABEAS CORPUS. ALEGADO CONSTRANGIMENTO ILEGAL, CONSISTENTE EM ACÓRDÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL, AO FUNDAMENTO DE IMPUGNAÇÃO GENÉRICA E DE IMPRESCINDIBILIDADE DE REEXAME PROBATÓRIO. O Superior Tribunal de Justiça é a jurisdição final sobre os pressupostos de admissibilidade do recurso especial, motivo pelo qual não pode o Supremo Tribunal Federal reapreciar tais requisitos e rejulgar do recurso, salvo, por se tratar de habeas corpus, na hipótese de flagrante ilegalidade. Caso em que a Corte Superior de Justiça deu adequada solução ao recurso interposto. Inexistência, portanto, do alegado constrangimento ilegal.”
+    6. No caso, o recurso especial não foi admitido pelo fundamento de que o redimensionamento da pena dependeria do revolvimento do material probatório, tendo em vista que as instâncias precedentes assentaram que o paciente, responsável pelo aliciamento de “mulas” para transporte de drogas, não teria participação meramente eventual no delito de tráfico de drogas.
+    7. Nessas condições, o acórdão impugnado está alinhado com a orientação do Tribunal no sentido de que a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias analisar os dados fáticos da causa para redimensionar a pena finalmente aplicada. Não sendo o caso, portanto, da concessão da ordem de ofício.
+    8. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990, nego seguimento ao habeas corpus e determino o arquivamento dos autos.
+    Publique-se.
+    Intime-se.
+          Brasília, 30 de abril de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
