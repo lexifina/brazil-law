@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da Turma Recursal do Estado de Sergipe, cujo trecho da ementa transcrevo a seguir:
+    “PLANO DE SAÚDE. REEMBOLSO DE DESPESAS MÉDICAS. SITUAÇÃO DE EMERGÊNCIA PREVISTA PELO ART. 35-C, LEI 9656/98, QUE OBRIGA A COBERTURA. INAPLICABILIDADE DA RESOLUÇÃO 13 DO CONSELHO DA SAÚDE SUPLEMENTAR, TENDO EM VISTA QUE A LEI 9656/98 NÃO FAZ RESSALVAS QUANTO À COBERTURA AMBULATORIAL OU INTERNAÇÃO NOS CASOS DE URGÊNCIA/EMERGÊNCIA. NULIDADE DA CLÁUSULA QUE LIMITA ÀS PRIMEIRAS DOZE HORAS DO ATENDIMENTO DE URGÊNCIA, REVELANDO-SE ABUSIVA. DANOS MATERIAIS DEVIDAMENTE COMPROVADOS. DANOS MORAIS CONFIGURADOS. QUANTUM ARBITRADO EM R$ 5.000,00 (CINCO MIL REAIS). RECURSO CONHECIDO E PARCIALMENTE PROVIDO”.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, entretanto não se aponta ofensa a dispositivo do texto constitucional.
+    Verifico que a parte recorrente não indicou, nas razões do recurso extraordinário, o dispositivo constitucional supostamente violado. Incide na espécie, portanto, o Enunciado 284 da Súmula do STF. Nesse sentido, confira-se o seguinte julgado:
+    “Agravo regimental no agravo de instrumento. Não indicação dos dispositivos constitucionais tidos por violados. Incidência da Súmula nº 284 da Corte. Precedentes. 1. A recorrente não indicou, nas suas razões recursais, os dispositivos constitucionais que alegadamente teriam sido violados no acórdão recorrido. Incidência, no caso, da Súmula nº 284 do Supremo Tribunal Federal. 2. O fato de cuidar-se de recurso interposto contra acórdão proferido em ação declaratória de inconstitucionalidade de lei estadual não altera essa necessidade. 3. Agravo regimental não provido”. (AI 614.211-AgR/MT, Rel. Min. Dias Toffoli, Primeira Turma, DJe 24.10.2013)
+    Ainda que assim não fosse, verifico que o Tribunal de origem decidiu a controvérsia com base no reexame do conjunto fático-probatório dos autos (Enunciado 279 da Súmula do STF), bem como na análise da legislação infraconstitucional aplicável à espécie, hipóteses que não ensejam a abertura da via extraordinária.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a’, do CPC).
+    Publique-se.
+    Brasília, 30 de abril de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
