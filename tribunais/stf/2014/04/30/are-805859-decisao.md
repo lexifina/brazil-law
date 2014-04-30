@@ -1,0 +1,22 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Décima Sétima Câmara Cível do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+    “AGRAVO LEGAL - TRIBUTÁRIO - ITBI – FATO GERADOR - REGISTRO NO CARTÓRIO IMOBILIÁRIO DA TRANSMISSÃO DO BEM – PROMESSA DE COMPRA E VENDA - AUSÊNCIA DE MORA DO APELADO - O ITBI tem como fato gerador a transmissão entre vivos, a qualquer título, por ato oneroso da propriedade ou do domínio útil de bens imóveis por natureza ou por acessão física, como definidos na lei civil; de direitos reais sobre bens imóveis, exceto os direitos reais de garantia e cessão de direitos relativos às referidas transmissões. O fato gerador do referido imposto ocorre com o registro imobiliário da transmissão do bem imóvel e não com lavratura do contrato de compra e venda ou sua quitação, porquanto este ajuste não transmite direitos reais nem configura cessão de direitos à aquisição deles, tão-somente confere direito real de aquisição de bem. Ausência de mora do apelado. Negado provimento ao recurso.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, §7º, da Constituição Federal. Sustenta, em síntese, que não há inconstitucionalidade na fixação de data antecipada para o pagamento do ITBI, ainda que em momento prévio ao do registro da escritura de compra e venda do bem imóvel.
+    A decisão agravada negou seguimento ao recurso sob o seguinte fundamento:
+    “O inconformismo sistemático, manifestado em recurso carente de fundamentos relevantes, que não demonstre como o v. acórdão recorrido teria ofendido os dispositivos alegadamente violados e que nada acrescente à compreensão e ao desate da quaestio iuris - posto que indique corretamente o permissivo constitucional sobre o qual se sustenta -, não atende aos pressupostos de regularidade formal dos recursos de natureza excepcional e impede a exata compreensão da controvérsia, circunstâncias que atraem a incidência da Súmula 284, STF.”
+    No agravo, a parte reitera os argumentos aduzidos na peça do recurso extraordinário.
+    O recurso não merece ser provido, tendo em vista que as disposições do acórdão recorrido estão alinhadas à jurisprudência deste Supremo Tribunal Federal.
+    Com efeito, é firme o entendimento desta Corte no sentido de que a transmissão do imóvel, para fins de caracterização do fato gerador do Imposto sobre a Transmissão de Bens Móveis – ITBI, somente ocorre com a transferência efetiva da propriedade no cartório de registro de imóveis. No mesmo sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE A TRANSMISSÃO DE BENS IMÓVEIS –ITBI. FATO GERADOR: REGISTRO DA TRANSFERÊNCIA EFETIVA DA PROPRIEDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 798.241-AgR, Relª Minª Cármen Lúcia, Segunda Turma, DJe 14.04.2014)
+    “Agravo regimental no recurso extraordinário com agravo. ITBI. Alcance do art. 150, § 7º, CF. Matéria não decidida nas instâncias ordinárias. Impossibilidade de apreciação.
+    1. A matéria atinente ao alcance do art. 150, § 7º, da CF não foi objeto de decisão nas instâncias ordinárias. Normas da legislação municipal que não foram analisadas no acórdão recorrido. Impossibilidade de análise, em sede de recurso extraordinário, de questões não decididas na origem, sob pena de supressão de instância.
+    2. O entendimento da jurisprudência desta Corte é de que o fato gerador do ITBI somente ocorre com a transferência efetiva da propriedade imobiliária, mediante o registro competente.
+    3. Agravo regimental não provido.” (ARE 765.899-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 18.03.2014)
+    Dessa orientação não divergiu o acórdão recorrido, uma vez ter consignado que:
+    “Assim, observa-se que a incidência do ITBI, pela lei municipal, somente será possível nas hipóteses encimadas de transmissão da propriedade imobiliária e não sobre a promessa de compra e venda ou sobre a quitação do imóvel.
+    Ademais, a transmissão de bens imóveis somente se opera com o registro do título de transferência no registro de imóveis, conforme disposto no art. 1.245 do Código Civil.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 30 de abril de 2014.
+Ministro Luís Roberto Barroso
+Relator
