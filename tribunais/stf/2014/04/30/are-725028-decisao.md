@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AGRAVO EM EXECUÇÃO. NULIDADE DO PAD. NULIDADE DA NOTIFICAÇÃO PRÉVIA. Inobservância do prazo de cinco dias previsto no art. 23, inciso I, do RDP. Nulidade do PAD decretada de ofício. Falta grave afastada. Recurso prejudicado. Nulidade declarada”. (eDOC 1, p. 92)
+    Na espécie, o Juízo da Vara das Execuções Criminais da Comarca de Encruzilhada do Sul/RS, reconhecendo a falta grave cometida pelo apenado, homologou o Procedimento Administrativo Disciplinar, determinando a regressão do regime, a perda dos dias remidos e a alteração da data-base para a concessão de novos benefícios.
+    Irresignada, a defesa interpôs o recurso de agravo em execução perante o TJ/RS, o qual reconheceu de ofício a nulidade do PAD e afastou a falta grave apurada e as consequências desta, tendo em vista a ofensa aos princípios do contraditório e da ampla defesa, ante a inobservância do prazo de cinco dias para a ciência do acusado para a data da audiência.
+    O Ministério Público então opôs embargos de declaração, os quais foram rejeitados em razão da ausência de omissão, contradição ou obscuridade. Eis a ementa:
+    “EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. Inexistindo omissão, obscuridade ou contradição no aresto embargado, não merecem acolhimento os embargos declaratórios. Rediscussão de mérito que é incabível em sede de embargos. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS”. (eDOC 2, p. 1)
+    Daí a interposição do presente recurso extraordinário, que se fundamenta no art. 102, III, “a”, do texto constitucional, sustentando a repercussão geral da matéria tratada nos autos.
+    No mérito, postula, em suma, pelo restabelecimento da sentença que julgou procedente o pedido de reconhecimento de falta grave, uma vez que a nulidade apontada não trouxe qualquer prejuízo ao réu. Para tanto afirma:
+    “Com efeito, embora se possa vislumbrar irregularidade, uma vez que a notificação da audiência e interrogatório foram realizados no mesmo dia, certo é que a decretação da nulidade depende da ocorrência de prejuízo à defesa, conforme disposto no artigo 563 do Código de Processo Penal (…) e na Súmula 523 do Supremo Tribunal Federal (…).
+    Advém daí que, em matéria processual penal, prevalece o princípio pás de nullité sans grief, pelo qual não se declara nulidade sem a efetiva ocorrência de prejuízo, ou, ainda, quando o ato processual não houver influído na apuração da verdade substancial, ou na decisão da causa, nos termos do dispositivo aludido”. (eDOC 2, p. 17)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Da análise dos autos, extrai-se que o acórdão recorrido baseou-se na análise da legislação infraconstitucional e dos fatos e provas constantes dos autos para formar a sua convicção. Assim restou assentado:
+    “Atente-se, inicialmente, que no documento de fl. 22 (fl. 1244 do processo original), consta que o apenado foi cientificado no dia 26/04/2010 da audiência designada para a mesma data (fl. 23), ou seja, percebe-se que restou desrespeitado o prazo de cinco dias previsto pelo Regimento Disciplinar Previdenciário, a contar entre a notificação e o interrogatório (art. 23, inciso I)
+    Como já afirmado pelo eminente Desembargador Amilton Bueno de Carvalho, ao proferir seu voto por ocasião do julgamento do agravo em execução nº 70032134660, não se trata de mero formalismo, mas sim de exigir que o Estado cumpra os prazos que ele mesmo (Estado) estabeleceu ao seu proceder. Aliás, os integrantes do Conselho Disciplinar têm o dever funcional de fazer constar do PAD esta informação”. (eDOC 1, p. 95)
+    Desse modo, para se entender de forma diversa e superar o entendimento acima adotado, seria necessário o revolvimento do acervo fático-probatório, providência vedada em sede de recurso extraordinário, por óbice do Enunciado 279 da Súmula desta Corte.
+    Verifico, ainda, que ofensa ao texto constitucional, caso existente, dar-se-ia apenas de maneira indireta ou reflexa, o que inviabiliza o seguimento do recurso em apreço.
+    Nesse sentido:
+    “PROCESSUAL PENAL. EXECUÇÃO PENAL. CRIME DOLOSO. AUSÊNCIA DE SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. INOCORRÊNCIA DE FALTA GRAVE. LEI DE EXECUÇÕES PENAIS, ART. 52. IMPOSSIBILIDADE DE REGRESSÃO DE REGIME. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE AFRONTA AO ART. 5º, LVII, DA CONSTITUIÇÃO FEDERAL. OFENSA INDIRETA. MATÉRIA INFRACONSTITUCIONAL. 1. A violação constitucional dependente da análise do malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, não ensejando recurso extraordinário. Precedentes: AI n. 738.145 - AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Ministra CÁRMEM LÚCIA, 1ª Turma, DJ 18.03.11. 2. Agravo regimental desprovido”. (AI-AgR 801.325, Rel. Min. Luiz Fux, Primeira Turma, DJe 17.6.2011)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, "a", do CPC).
+    Intime-se.
+    Brasília, 30 de abril de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
