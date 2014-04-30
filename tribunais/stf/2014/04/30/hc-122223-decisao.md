@@ -1,0 +1,32 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União (DPU), em favor de Gladys Mabel Rios Cabrera, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao Agravo Regimental no Recurso Especial n. 1.300.708/PR.
+    Na espécie, a paciente foi condenada à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e mais o pagamento de 583 dias-multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, inciso I, da Lei 11.343/2006 (tráfico internacional de entorpecentes).
+    A defesa e o Ministério Público Federal interpuseram apelação. O Tribunal Regional Federal da 4ª Região (TRF da 4ª Região) deu parcial provimento ao apelo defensivo para aplicar a minorante prevista no art. 33, § 4º, da Lei 11.343/06, fixando a pena em 2 anos e 11 meses de reclusão, em regime inicial fechado, e mais 291 dias-multa, mantido o regime inicial fechado. Confira-se a ementa:
+    “PENAL. TRÁFICO DE ENTORPECENTES. LEI Nº 11.343/06. MATERIALIDADE E AUTORIA DELITIVAS. COMPROVAÇÃO. CAUSA DE DIMINUIÇÃO DO ARTIGO 33, § 4º, DA LEI 11.343, DE 2006. APLICABILIDADE. SUBSTITUIÇÃO. DIREITO DE RECORRER EM LIBERDADE. INAPLICABILIDADE.
+Materialidade e autoria comprovadas pela prisão em flagrante, laudo de exame em substância entorpecente e demais elementos probatórios constantes do caderno processual, os quais revelam, também, o dolo do agente, consubstanciado na vontade livre e consciente de praticar o delito previsto no artigo 33, caput, c/c artigo 40, I, da Lei 11.343/2006, na modalidade ‘transportar’.
+Atendidos os requisitos previstos no artigo 33, § 4º, da Lei nº 11.343/2006 - ser primário, ter bons antecedentes, não se dedicar habitualmente a atividades criminosas e não integrar organização criminosa - o réu tem direito à aplicação da causa de redução da pena. Para fixação do quantum de diminuição, já que a lei estabelece apenas os limites mínimo (um sexto) e máximo (dois terços), deve ser considerada a regra do artigo 42 da Lei nº 11.343/2006, com preponderância sobre o previsto no art. 59 do Código Penal, em razão da natureza e da quantidade da substância tóxica e da personalidade e da conduta social do agente.
+Descabida a substituição da pena privativa de liberdade por restritivas de direitos quando o réu é estrangeiro, sem vínculo laboral e familiar no país.
+O grau de envolvimento do réu com o crime, além da inexistência de vínculos no País e de ocupação lícita, que justificaram o decreto de prisão, não possibilitam o apelo em liberdade.”
+    A defesa, então, interpôs recurso especial perante o STJ, o qual foi parcialmente provido para afastar o óbice da vedação legal e determinar ao Tribunal de origem que, analisando o caso concreto, avalie a possibilidade de modificação do regime inicial de cumprimento de pena.
+    Foi interposto ainda agravo regimental, que restou não provido pela Sexta Turma desse Tribunal Superior. Eis a ementa desse julgado:
+    “AGRAVO REGIMENTAL. RECURSO ESPECIAL. AUMENTO DA FRAÇÃO DE REDUÇÃO PELA INCIDÊNCIA DA MINORANTE DO ART. 33, § 4º, DA LEI N.º 11.343/06. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULA 283/STF. IMPUGNAÇÃO ESPECÍFICA EM AGRAVO REGIMENTAL. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. PEDIDO SUBSIDIÁRIO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. A ausência de impugnação dos fundamentos do acórdão recorrido constitui deficiência na fundamentação recursal que impede o conhecimento do recurso especial. Incidência da Súmula 283/STF.
+    2. A impugnação específica da ratio decidendi do acórdão proferido pela Corte local apenas no agravo regimental, implica inovação de fundamento, de modo que não é possível sua análise na presente via recursal, em face da preclusão consumativa.
+    3. Inviável o conhecimento do recurso como habeas corpus, pois o recurso especial é via recursal de fundamentação vinculada e, como tal, exige que o recorrente impugne especificamente todos os fundamentos do acórdão recorrido sob pena de não admissão.
+    4. Agravo regimental a que se nega provimento.”
+    No presente habeas corpus, a DPU afirma a “ocorrência de bis in idem ao se levar em consideração a natureza e a quantidade de droga para majorar a pena-base e também para aplicar a causa de diminuição em percentual menor”.
+    Assevera que a Corte Federal, na determinação do quantum da causa especial de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, levou em consideração a quantidade e a natureza da droga apreendida, circunstâncias já utilizadas para majorar a pena-base.
+    Prossegue, ressaltando que esse não é o entendimento das Turmas do STF, que reconhecem a existência de bis in idem.
+    Ao final, requer a fixação da minorante prevista no art. 33, § 4º, da Lei de Drogas no patamar máximo de 2/3.
+    É o relatório.
+    Decido.
+    Registro que, em sessão realizada no dia 19.12.2013, o Pleno do STF, ao julgar os HCs 112.776 e 109.193, ambos da relatoria do Min. Teori Zavascki, firmou orientação no sentido de que, em caso de condenação por tráfico ilícito de entorpecentes, a natureza e a quantidade da droga apreendida apenas podem ser levadas em consideração em uma das fases da dosimetria da pena, sendo vedada sua apreciação cumulativa.
+    Na ocasião, ficou consignado que cabe ao juiz escolher em qual momento da dosimetria essa circunstância vai ser levada em conta, seja na primeira, seja na terceira, observando sempre a vedação ao bis in idem.
+    Com a pacificação da matéria, o plenário autorizou os ministros a analisar monocraticamente os pedidos de habeas corpus que versem sobre o tema.
+    Assiste razão à defesa ao afirmar que a quantidade e a natureza da droga foram invocadas tanto na primeira quanto na terceira fase da dosimetria, o que é vedado nos termos da jurisprudência desta Corte.
+    Ante o exposto, concedo a ordem de habeas corpus, com base no art. 192, caput, do RI/STF, para, mantidas a condenação e seus efeitos, determinar que o Juízo da 2ª Vara Federal da Subseção Judiciária de Umuarama/PR (Ação Penal n. 5000783-43.2010.404.7004) proceda a nova dosimetria, analisando as circunstâncias da natureza e quantidade da droga apreendida apenas em uma das fases do cálculo da pena.
+    Comunique-se ao Juízo da 2ª Vara Federal da Subseção Judiciária de Umuarama/PR (Ação Penal n. 5000783-43.2010.404.7004).
+    Publique-se.
+    Brasília, 30 de abril de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
