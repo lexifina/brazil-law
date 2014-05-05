@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra ato da Prefeitura de São Bernardo/SP. Narra o reclamante que, após o recebimento de denúncia, instaurou procedimento preparatório de Inquérito Civil, para apurar a ocorrência de nepotismo no Executivo Municipal. Após a instrução, foi instaurado o respectivo Inquérito, que concluiu pela prática de nepotismo consistente na nomeação de Marcos Dias Neves, irmão do Vereador Paulo Dias Neves, para o cargo de Assistente Técnico de Programação Tributária da Prefeitura.
+    Alega o reclamante, em síntese, que, após regular ciência sobre as conclusões do Inquérito Civil, a Municipalidade, “(...) demonstrando indisposição para modificação da situação atual, configuradora do nepotismo, asseverou que a nomeação do servidor não se vinculou a nenhum ajuste de reciprocidade.” (pág. 2 da inicial). Aduz que, assim, foi desrespeitado o conteúdo normativo da Súmula Vinculante 13. Requer o deferimento de medida liminar, “(...) para suspensão da eficácia da nomeação de Marcos Dias Neves” (pág. 4 da inicial).
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, de modo a garantir a efetividade do resultado de futuro e provável juízo de procedência. O requisito da urgência, entretanto, não se encontra presente. É que não há nos autos nenhuma demonstração de risco de dano irreparável, a justificar a indispensabilidade da medida liminar pleiteada. Ademais, não consta da petição inicial nenhum capítulo específico que justifique a necessidade de medida urgente, com o necessário detalhamento da situação fática que implique perigo de dano, mas apenas pedido formal de liminar ao fim da peça processual. De todo oportuno, portanto, que se ouça a autoridade reclamada sobre a situação fática questionada nos autos.
+    3. Ante o exposto, indefiro a liminar. Solicitem-se informações à autoridade reclamada.
+    Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 05 de maio de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
