@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de mandado de segurança, com pedido de liminar, impetrado contra ato praticado pelo Plenário do Tribunal de Contas da União (TCU), consubstanciado no Acórdão 1.404/20013 (Processo 028.835/2012-3), que, em razão de indícios de fraude, declarou, com fundamento no art. 46 da Lei 8.443/92, a inidoneidade da impetrante para participar de licitações no âmbito da Administração Pública Federal pelo período de 6 (seis) meses. O pedido de liminar foi indeferido (DJe de 06/11/2013). A autoridade impetrada prestou informações. O Procurador-Geral da República opinou no sentido da improcedência do pedido.
+    2. O Acórdão 1.404/20013 (Processo 028.835/2012-3) foi objeto de pedido de reexame, recebido pelo TCU com efeito suspensivo, com a devida ocorrência anotada no Sistema de Cadastro de Fornecedores - SICAF (págs. 7/8 do arquivo 7 dos autos eletrônicos). Ora, nos termos do que dispõe o art. 5º, I, da Lei 12.016/2009, não cabe mandado de segurança em face de ato administrativo contra o qual caiba recurso com efeito suspensivo. Nesse sentido:
+    “AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. ATO ADMINISTRATIVO CONTRA O QUAL FOI INTERPOSTO RECURSO COM EFEITO SUSPENSIVO. 1. Nos termos do art. 5º, I, da Lei nº 12.016/09, não cabe mandado de segurança contra ato administrativo do qual caiba recurso com efeito suspensivo. 2. Agravo regimental desprovido” (MS 32.530-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 11/12/2013); e
+    AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. 1. IMPETRAÇÃO CONTRA ACÓRDÃO DO TRIBUNAL DE CONTAS DA UNIÃO COM EFEITOS SUSPENSOS. FALTA DE INTERESSE DE AGIR: ART. 5º, INC. I, DA LEI N. 12.016/2009. 2. POSSIBILIDADE DE O RELATOR NEGAR SEGUIMENTO A MANDADO DE SEGURANÇA QUANDO A MATÉRIA FOR OBJETO DE JURISPRUDÊNCIA CONSOLIDADA DO SUPREMO TRIBUNAL FEDERAL OU A AÇÃO FOR DE IMPROCEDÊNCIA MANIFESTA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (MS 28.855-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 19/02/2012).
+    3. Diante do exposto, nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 5 de maio de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
