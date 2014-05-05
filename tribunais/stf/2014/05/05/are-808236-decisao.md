@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo contra inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Ceará, cujo trecho da ementa transcrevo:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. LICITAÇÃO. DECISÃO NULA DA AUTORIDADE QUE INABILITOU A IMPETRANTE. VIOLAÇÃO AO PRINCÍPIO CONSTITUCIONAL DA ISONOMIA. DIREITO LÍQUIDO E CERTO DEMONSTRADO. SEGURANÇA CONCEDIDA. 1. As exigências que ensejaram a inabilitação da impetrante também não foram atendidas pela empresa que restou habilitada, razão que facilmente enseja a constatação de violação ao princípio constitucional da isonomia, o que, por si só, possibilita a declaração da nulidade da decisão proferida pela Comissão Central de Concorrência na sessão de julgamento do dia 26 de março de 2004. 2. Segurança concedida”. (eDOC 7, p. 49)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 5º, caput; e 37, XXI, do texto constitucional.
+    Nas razões recursais, alega-se que a desobediência aos itens do edital constitui ofensa direta aos princípios da legalidade, impessoalidade e moralidade.
+    Argumenta-se que o propósito da parte final do inciso XXI do art. 37 da CF/88 é oferecer oportunidades iguais de contratação com o Poder Público, não de forma indiscriminada, mas a quem evidenciar que efetivamente dispõe de condições de executar aquilo a que se propõe (eDOC 7, p. 110)
+    Decido.
+    O recurso não merece prosperar.
+    No caso, o Tribunal de origem entendeu que houve ofensa ao princípio da isonomia, tendo em vista que as exigências que ensejaram a inabilitação da parte ora recorrida também não foram atendidas pela empresa que restou habilitada. Por essa razão, consignou ainda a declaração da nulidade da decisão proferida pela Comissão Central de Concorrência.
+    Nesse sentido, assentou o seguinte:
+    “(…)
+    Realmente, pela leitura do documento de fls. 86 dos autos, verifica-se que a impetrante não foi habilitada no certame por não atender ao disposto nos itens 5.2.3.1 e 5.3.2.7 do Edital (…).
+    Ocorre que a impetrante argumenta que a empresa habilitada – CEDETRAN – Centro de Desenvolvimento de Trânsito S/C Ltda. - também não cumpriu as exigências contidas nos citados itens do Edital e, no entanto, a Autoridade coatora aceitou a continuidade de sua participação da licitação.
+    Ao compulsar os documentos apresentados pela impetrante, pude verificar que os atestados exigidos pelo item 5.2.3.1 não foram apresentados pela empresa habilitada com todas as exigências ali contidas, ou seja, não apresentou a certificação do Conselho Regional de Medicina atestando que o médico da licitante possuía acervo técnico registrado na entidade. Ademais, também não houve a efetiva comprovação de que possuía o número de empregados registrados exigido pelo item 5.2.3.7 do Edital.
+    Pelo que se vê, eminentes Pares, as exigências que ensejaram a inabilitação da impetrante também não foram atendidas pela empresa que restou habilitada, razão que facilmente enseja a constatação de violação ao princípio constitucional da isonomia, o que, por si só, possibilita a declaração da nulidade da decisão proferida pela Comissão Central de Concorrência na sessão de julgamento do dia 26 de março de 2004”. (eDOC 7, p. 52)
+    Verifico assim que o acórdão recorrido decidiu a controvérsia acerca da nulidade do processo licitatório, com base nos elementos fático-probatórios dos autos e nas regras do edital.
+    Dessa forma, para se entender de forma diversa, seria imprescindível a revisão dos fatos e provas analisados, bem como das regras do edital da licitação, providência vedada em sede de recurso extraordinário, nos termos dos Enunciados 279 e 454 da Súmula desta Corte. Confira-se, a propósito, o seguinte precedente:
+    ““AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTRATOS. NECESSIDADE DE LICITAÇÃO. EXAME DE MATÉRIA FÁTICA E DE CLÁUSULAS CONTRATUAIS. AGRAVO IMPROVIDO. I – Imprescindível a análise do conjunto fático-probatório dos autos, bem como das cláusulas contratuais, para verificar, no caso, ocorrência de eventual ofensa à Lei Maior, o que inviabiliza o apelo extremo, nos termos da Súmula 279 do STF. II - Agravo regimental improvido”. (RE-AgR 630.996, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 6.3.2012)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 5 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
