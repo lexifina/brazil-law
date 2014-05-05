@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Fábio Pires de Camargo em favor de Douglas Oliveira Santana contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 277.757/SP.
+    No presente habeas corpus, a Defesa sustenta, em síntese, a ilegalidade da imposição de regime mais gravoso que o estabelecido na sentença e da decisão que sustou o curso do regime aberto.
+    Para tanto, aduz que, pela prática do crime de roubo qualificado (art. 157, § 2º, do CP), a sentença condenatória fixou as penas de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, e de 13 (treze) dias-multa. Relata que, apesar de ter obtido a progressão ao regime aberto em 27.10.2011, “o paciente por um lapso deixou de assinar a carteirinha” e “não informou novo endereço ao Ofício das Execuções”, motivo pelo qual interrompida a progressão de regime pela magistrada de primeiro grau no dia 07.10.2012. Argumenta que o paciente se encontra preso em regime diverso do que o fixado na condenação por ausência de vagas em estabelecimento prisional compatível com o semiaberto.
+    Requer, em medida liminar e no mérito, “a imediata transferência do paciente para estabelecimento penal adequado ao regime semiaberto ou, na falta de vaga, possa o mesmo aguardar vaga em regime aberto ou prisão domiciliar”.
+    É o relatório.
+    Decido.
+    Colho do ato apontado como coator, que negou provimento ao agravo regimental no HC 277.757/SP, acórdão assim ementado:
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE NEGOU A TUTELA DE URGÊNCIA NO WRTI ORIGINÁRIO. EXCEPCIONALIDADE NÃO EVIDENCIADA. SÚMULA 691 STF.
+    1. Segundo orientação pacificada neste Superior Tribunal, é incabível habeas corpus contra indeferimento de medida liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula 691 do STF).
+    2. Encontrando-se a decisão da autoridade impetrada suficientemente motivada, não há como se afastar o óbice ao conhecimento do remédio constitucional, imposto pela Súmula n. 691 do STF, merecendo, portanto, ser confirmado o decisum agravado, por seus próprios fundamentos.
+    3. Agravo regimental a que se nega provimento.“
+    Como se observa, a impetração foi liminarmente indeferida com fundamento no entendimento desta Suprema Corte consagrado na Súmula 691/STF: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    Em simetria ao entendimento deste Supremo Tribunal, aquela Corte Superior também admite o abrandando do rigor da Súmula apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata, o que não se verificou na hipótese.
+    De todo modo, ao exame do acompanhamento processual do HC 0167711-79.2013.8.26.0000, disponibilizado no sítio eletrônico do Tribunal de Justiça do Estado de São Paulo (www.tjsp.jus.br), constato a superveniente denegação da ordem pelo órgão colegiado. Naquela ocasião, a Corte Estadual assentou:
+    “(...).
+    No caso, não é razoável que o sentenciado seja removido ao regime aberto ou ao semiaberto, quando já descumpriu condição mínima do regime aberto, que é a de comparecer ao Fórum.
+    (…).
+    Dizer que o juiz não pode exercer o poder de cautela em casos como o dos autos é o mesmo que impedir a execução adequada da reprimenda imposta ao sentenciado que, à primeira vista, demonstrou sua incompatibilidade com o regime, de sorte que a sustação provisória dele é medida necessária e pode coexistir com a tramitação do incidente de execução. O que não se pode admitir, até em favor da sociedade, é que o sentenciado, que não compareceu ao Fórum para informar e justificar suas atividades e alterou sua residência sem prévia autorização do Juízo, seja removido ao regime aberto ou ao intermediário até a definição de sua situação, porque o Estado estará, verdadeiramente, viabilizando a impunidade.
+    É preciso entender que a postura do paciente implica no justo receio de frustração da execução da pena, o que autoriza, presentes o periculum in mora e o fumus boni juris, o exercício pleno do poder cautelar, que, no caso, apenas suspendeu o regime aberto, não o revogou, para seu oportuno e adequado reexame no incidente processual próprio, observado, nele, o pleno exercício do direito de defesa.
+    Ademais, segundo as informações do E. Magistrado (folhas 56), já foi determinada a oitiva do paciente no incidente de regressão, para posterior deliberação sobre a regressão ou não.”
+    Além do que, a ausência de pronunciamento judicial acerca da questão de fundo pelo Superior Tribunal de Justiça inviabiliza a análise do pedido, por ora, por esta Suprema Corte, sob pena de indevida supressão de instância.
+    Na hipótese, não detecto flagrante ilegalidade ou abuso de poder no indeferimento liminar do HC 277.757/SP com supedâneo em entendimento desta Suprema Corte consagrado na Súmula 691, especialmente pelo ulterior pronunciamento da Corte Estadual pela legalidade da medida de sustação do regime prisional.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de maio de 2014.
+Ministra Rosa Weber
+Relatora
