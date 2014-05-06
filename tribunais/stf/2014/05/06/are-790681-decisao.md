@@ -1,0 +1,8 @@
+Decisão: 1. Trata-se de agravo de decisão que inadmitiu recurso extraordinário sob os fundamentos de que (a) “a matéria tratada no apelo (…) demanda prévia análise de dispositivos legais estaduais, providência impraticável em razão do óbice imposto pela Súmula 280, do STF” (e-STJ fl. 764); (b) “o acórdão recorrido tratou de todas as matérias relevantes suscitadas no feito, inclusive em sede de embargos declaratórios” (e-STJ fl. 765); (c) “não houve na instância de origem o debate das matérias tratadas nos artigos 2º, 42, § 1º, 61, § 1º, inciso II, alínea ‘a’, e 169, § 1º e incisos I e II da Carta Magna” (e-STJ fl. 765); (d) “o recorrente não justificou a insurgência feita com base na alínea c, do art. 102 constitucional, razão pela qual não merece ser admitido o apelo extremo, ante a incidência, na espécie, da Súmula n. 284 do STF” (e-STJ fl. 765). No agravo em recurso extraordinário, a parte agravante alega, em síntese, que (a) todos os dispositivos constitucionais foram expressamente prequestionados; (b) a análise referente à existência ou não de ofensa ao art. 93, IX, da CF, cabe ao STF.
+    2. Como se vê, as razões do agravo não impugnaram especificamente todos os fundamentos da decisão agravada, nada aduzindo sobre a incidência das Súmulas 280 e 284 do STF. A falta de ataque específico à decisão agravada acarreta o não-conhecimento do presente recurso, a teor do que dispõe o art. 544, § 4º, I, do CPC, com a redação dada pela Lei 12.322/2010.
+    3. Diante do exposto, não conheço do agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 06 de maio de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
