@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 117, de 30 de abril de 2014
+ASSUNTO: Normas Gerais de Direito Tributário EMENTA: IMUNIDADE RECÍPROCA. EMPRESA PÚBLICA FEDERAL PRESTADORA DE SERVIÇO PÚBLICO. EXTENSÃO. A imunidade recíproca a impostos de que trata o art. 150, VI, “a”, da Constituição Federal aplica-se ao patrimônio, à renda e aos serviços vinculados às atividades essenciais da empresa pública prestadora de serviço público. As demais atividades desenvolvidas não são consideradas finalísticas da empresa pública federal e, portanto, não estão abrangidas pela imunidade recíproca; DISPOSITIVOS LEGAIS: Constituição Federal, art. 21, art. 150, VI, “a”; Código Tributário Nacional, art. 111, III, art. 176.
+[arquivo anexo: SC Cosit 117-2014.pdf]
