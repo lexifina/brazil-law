@@ -1,0 +1,29 @@
+Trata-se de ação cautelar, com pedido de medida liminar, ajuizada por Unilever Brasil LTDA, com o objetivo de determinar o “imediato processamento do Recurso Extraordinário interposto pela Requerente” (página 20 da inicial).
+    Alega, em suma, que rescindiu contrato de distribuição pactuado com a requerida, em razão de inadimplemento contratual, consubstanciado na negativa de pagamento do preço das mercadorias fornecidas pela requerente.
+    Informa que, em razão do encerramento da relação comercial, a requerida ajuizou ação para manter o contrato até agosto de 2014, o que foi atendido em sede de antecipação de tutela pela magistrada de primeiro grau.
+    Afirma que, contra essa decisão, interpôs agravo de instrumento para o Tribunal de Justiça do Estado do Rio Grande do Sul, que, por sua vez, negou provimento ao pedido. Aduz que do respectivo acórdão apresentou recurso extraordinário por suposta violação dos incisos II e XX do art. 5º da Constituição Federal.
+    Assevera que, no entanto, o Desembargador Terceiro Vice-Presidente do TJRS, “sem se atentar para o fato de que o Recurso Extraordinário tem origem remota em decisão antecipatória de tutela” (página 3 da inicial), determinou a retenção do recurso, nos termos do art. 542, § 2º, do CPC.
+    Prossegue a inicial demonstrando a presença do fumus boni iuris e do periculum in mora.
+    Ao final, pede, em liminar, o afastamento da decisão que determinou a retenção do recurso extraordinário.
+    É o brevíssimo relatório.
+    Bem examinadas as alegações deduzidas na peça inicial, verifico, desde logo, a manifesta inviabilidade deste pedido cautelar.
+    Cabe, de início, o registro de que a jurisprudência desta Corte admite o afastamento da regra imposta pelo art. 542, § 3º, do CPC quando configurada situação excepcional, desde que comprovada a irreparabilidade do dano causado pela retenção do recurso na origem e demonstrada a viabilidade do extraordinário. Nesse sentido, menciono os seguintes precedentes:
+    “AGRAVO REGIMENTAL NA AÇÃO CAUTELAR. DESTRANCAMENTO DE RECURSO EXTRAORDINÁRIO RETIDO NA ORIGEM (ART. 542, § 3º, DO CÓDIGO DE PROCESSO CIVIL). AUSÊNCIA DE PROVA DA IRREPARABILIDADE DO DANO CAUSADO PELO TRANCAMENTO DO RECURSO NA ORIGEM E DE DEMONSTRAÇÃO DA VIABILIDADE DO RECURSO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AC 2.758-AgR/RJ, Plenário, Rel. Min. Cármen Lúcia).
+    “Processual civil – Agravo regimental – Cautelar – Destrancamento de recurso extraordinário – Artigo 542, § 3º, CPC – Impossibilidade – Agravo interno não provido.
+    1 - A norma do no art. 542, § 3º, CPC, tem por finalidade jurídico-política impedir a superposição de juízos de delibação e de mérito em órgão jurisdicional de cúpula quando o processo não se encontra maduro na origem. Sua flexibilização, por conseguinte, além de excepcional, deve ser demonstrada pelo requerente, sob pena de se fragilizar a própria essência da figura jurídica criada pelas Reformas Processuais.
+    2 - O recurso extraordinário interposto contra decisão interlocutória não terminativa ficará retido nos autos, somente sendo processado se a parte o reiterar no prazo para a interposição do recurso contra decisão final. Não há situação de caráter excepcional no caso, quando o objetivo da agravante é rever decisão que indeferiu a realização de prova pericial na origem, considerada complexa pelo juízo competente, o que se mostra claramente ofensivo à Súmula STF 279.
+    3 - Agravo regimental não provido” (AC 2.620-AgR/RJ, Plenário, Rel. Min. Dias Toffoli).
+    “AGRAVO REGIMENTAL EM AÇÃO CAUTELAR. RECURSO EXTRAORDINÁRIO EM AGRAVO DE INSTRUMENTO RETIDO NA ORIGEM. ART. 542, § 3º, DO CPC. PROCESSAMENTO IMEDIATO.
+    1. Embora a jurisprudência desta Corte admita o ajuizamento de ação cautelar para impugnar a retenção de recurso extraordinário fundada no art. 542, § 3º, do CPC, o excepcional processamento imediato do apelo extremo interposto contra decisão de caráter interlocutório supõe seja (i) comprovado o risco de prejuízo irreparável ou de difícil reparação; e (ii) demonstrado a viabilidade processual do recurso extraordinário e a plausibilidade da tese nele defendida. Precedentes.
+    2. Conducente, o exame perfunctório da admissibilidade do recurso extraordinário cujo trânsito imediato a parte pretende viabilizar, à ausência do fumus boni iuris, não se justifica, forte nos arts. 796 a 812 do CPC e 304 do RISTF, a ação cautelar.
+    Agravo regimental conhecido e não provido” (AC 3.265-AgR/RJ, Primeira Turma, Rel. Min. Rosa Weber).
+    “Agravo regimental em ação cautelar. 2. Destrancamento de recurso extraordinário retido (art. 542, § 3º, do CPC). Ausência de situação excepcional apta a determinar o imediato processamento do recurso. Agravo regimental a que se nega provimento” (AC 2.242-AgR/RJ, Segunda Turma, Rel. Min. Gilmar Mendes).
+    Ocorre que, no presente caso, entendo inexistir situação excepcional a ensejar a não aplicação do disposto no art. 542, § 3º, do CPC.
+    Quanto à irreparabilidade do dano, tenho que esta não restou demonstrada, pois consta da decisão que deferiu o pedido liminar, que a ora recorrida ofereceu imóveis como garantia real da dívida por ela reconhecida.
+    No mérito também não há plausibilidade jurídica a justificar o acolhimento do pedido desta ação cautelar, tendo em vista que o Tribunal a quo valeu-se da interpretação dada ao dispositivos processuais atinentes ao caso para manter a decisão que antecipou os efeitos da tutela. Eventual violação ao texto constitucional, se ocorrente, se daria de forma indireta, o que não abre a via de acesso ao recurso extraordinário.
+    Isso posto, sendo manifestamente incabível o pedido, nego seguimento a esta ação cautelar , nos termos do art. 21, § 1º, do RISTF, prejudicado o exame da liminar pleiteada.
+    Publique-se.
+    Brasília, 6 de maio de 2014.
+Ministro Ricardo Lewandowski
+Relator
+Documento assinado digitalmente
