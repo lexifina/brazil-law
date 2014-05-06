@@ -1,0 +1,47 @@
+DECISÃO
+    União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, incisos XXXV, LV e LXIX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Terceira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADICIONAL DE PERICULOSIDADE. SUPRESSÃO DO PAGAMENTO. REPOSIÇÃO AO ERÁRIO. ILEGALIDADE.
+    . Hipótese em que o ato impugnado foi praticado pelo Delegado Regional do Trabalho, sendo legítima a figuração deste no pólo passivo da demanda.
+    . Tratando-se de obrigação de trato sucessivo, o prazo decadencial renova-se mês a mês.
+    . Não há falar em ausência de prova pré-constituída quando a inicial vem acompanhada de documentos relacionados ao fato que se deseja comprovar.
+    . A supressão do pagamento do adicional de periculosidade somente pode ocorrer se constatada a eliminação das condições ou riscos que deram ensejo ao pagamento, devendo, ademais, ser precedida de procedimento administrativo.
+    . Apelação desconhecida e remessa oficial improvida”.
+    Opostos embargos de declaração, não foram providos.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    A jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ademais, o acórdão recorrido reconheceu o direito dos impetrantes, ora agravados, à percepção do adicional de periculosidade amparado em legislação infraconstitucional e no conjunto fático-probatório constante dos autos. Colhe do voto condutor:
+    “(...)
+    Como é sabido, o adicional de periculosidade é uma gratificação ‘propter laborem’, paga em caráter permanente aos trabalhadores que exerçam atividades em áreas consideradas de risco.
+    O regime jurídico único dos servidores públicos prevê o adicional de periculosidade para os servidores públicos federais, tendo a Lei nº 8.270/91 fixado o percentual em 10%, a ser calculado sobre o vencimento básico.
+    Assim dispõe o art. 12 da Lei nº 8.112/90:
+    …...................................................................................................
+    Para ter direito ao adicional sobre o vencimento, é necessário que o servidor exerça atividade habitual que o exponha a risco de vida.
+    No caso dos impetrantes, agentes de inspeção do trabalho da DRT/RS, o adicional era devido no grau de 10%, segundo o previsto na Portaria DRT nº 16, de 30 de março de 2001. Para que lhes fosse concedido o adicional, necessária a comprovação, mediante laudo técnico, do contato com agentes perigosos.
+    É fato incontroverso que os impetrantes recebiam o adicional de periculosidade, conforme comprovam os contra-cheques juntados aos autos. Percebiam-no com base em laudos periciais que atestaram a presença de agentes perigosos e a existência de periculosidade, ainda que a exposição a estes agentes não fosse diária ou contínua.
+    Dessa forma, se o adicional era recebido pelos servidores, somente poderia deixar de sê-lo caso constatada a eliminação das condições ou dos riscos que deram ensejo à sua concessão, nos termos do § 2º do art. 68 da Lei nº 8.112/90.
+    Não foi o que ocorreu. O laudo de fls. 45 a 60, referente às condições de trabalho de todos os impetrantes no ano de 2000, conclui:
+    …...................................................................................................
+    Ademais, cabe ressaltar que a restrição ao direito dos autores deveria ter sido precedida de procedimento administrativo em que se constatasse a inexistência do motivo que deu ensejo à percepção do adicional, assegurando-se aos impetrantes o direito à ampla defesa e ao contraditório, nos termos do art. 5º, LV, da CF.
+    A supressão do adicional de periculosidade não poderia ter ocorrido por meio de simples expedição de Memo-Circular (fl. 71), sem fundamentação jurídica alguma, sob pena de ilegalidade do ato. O mesmo se diga em relação à determinação de que fossem restituídos valores ao erário (fl. 72). A Lei nº 9.784/99, que regula o processo administrativo no âmbito da Administração Pública Federal, estabelece a necessidade de motivação de atos que importem limitação de direitos ou interesses.
+    Portanto, não merece reforma a sentença”.
+    Nesse caso, é certo que para acolher a pretensão da agravante e ultrapassar o entendimento firmado pelo Tribunal de origem, seria necessário o reexame da legislação infraconstitucional pertinente (Lei nº 8.112/90) e dos fatos e provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 desta Corte. Nesse sentido, destaco os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO DO ESTADO DO RIO GRANDE DO SUL. PAGAMENTO DE ADICIONAL DE INSALUBRIDADE. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. ALEGAÇÃO DE OFENSA AOS INCISOS XXXV, LIV E LV DO ART. 5º DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie e o revolvimento dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. No caso, a jurisdição foi prestada de forma completa, embora em sentido contrário aos interesses da parte recorrente, o que não configura cerceamento de defesa. 3. Incide, quanto ao mais, a Súmula 282 do STF. 4. Agravo regimental desprovido” (AI nº 531.863/RS-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 20/11/09).
+    “1. Recurso extraordinário: descabimento: questão relativa à concessão de adicional de insalubridade decidida com base em legislação infraconstitucional e em laudo pericial, de reexame vedado no RE (Súmula 279): alegada ofensa reflexa à Constituição: incidência, mutatis mutandis, da Súmula 636. 2. Agravo regimental manifestamente infundado: aplicação da multa de 2% (dois por cento) sobre o valor corrigido da causa (C. Pr. Civil, art. 557, § 2º)” (AI nº 272.787/MG-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 1/4/05).
+    Ressalte-se, por fim, que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do Agravo de Instrumento nº 800.074/SP, Pleno, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da matéria relativa aos pressupostos de cabimento de mandado de segurança, dada a natureza infraconstitucional do tema. Destaco da manifestação do Relator os seguintes fundamentos:
+    “(...)
+    A questão a ser analisada diz respeito ao preenchimento dos requisitos do mandado de segurança.
+    Em que pese à ação mandamental ser um remédio constitucional por excelência, a admissibilidade do writ se relaciona com a Constituição Federal apenas de forma mediata, porque as normas processuais atinentes ao seu cabimento são disciplinadas pela Lei n. 12.016/2009.
+    Ademais, a análise da demonstração do direito líquido e certo ou da existência de prova pré-constituída exige o revolvimento de provas, inviável em sede de recurso extraordinário” (DJe de 6/12/10).
+    O referido julgado recebeu a seguinte ementa:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.”
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 6 de maio de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
