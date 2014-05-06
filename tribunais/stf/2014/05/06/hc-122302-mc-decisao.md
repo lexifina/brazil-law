@@ -1,0 +1,16 @@
+Decisão:
+Ementa: Habeas corpus. Estelionato. Alegação de incompetência da Justiça Militar. Liminar indeferida.
+    1. Trata-se de habeas corpus impetrado contra acórdão unânime do Superior Tribunal Militar, da Relatoria do Ministro Gen. Ex. Lúcio Mario de Barros Góes, assim ementado:
+    “RECURSO EM SENTIDO ESTRITO. DENÚNCIA. REJEIÇÃO. SUBTRAÇÃO DE CARTÕES MAGNÉTICOS E SENHAS BANCÁRIAS E POSTERIORES SAQUES. AUTOR E VÍTIMAS MILITARES. COMPETÊNCIA DA JUSTIÇA MILITAR DA UNIÃO (art. 9o, II, "a", do CPM). DECISÃO REFORMADA. A Justiça Militar da União é competente para processar e julgar fatos que, em tese, configuram crime militar, praticados por militar em atividade contra militares na mesma situação, consistentes na subtração de cartões e senhas bancárias das vítimas, efetuando-se diversos saques de dinheiro em suas contas correntes. Os fatos narrados na Denúncia se amoldam, pelo menos em tese, ao contido no art. 9o, II, "a", do CPM, portanto, se preenchidos os demais requisitos legais previstos no art. 77 do CPPM, deve ser recebida pelo Juízo a quo. Decisão monocrática reformada, com baixa dos autos à instância de origem para o prosseguimento do Feito. Recurso ministerial provido à unanimidade.”
+    2. O paciente, Soldado do Exército, foi denunciado pelo crime de estelionato (art. 251 c/c art. 30, II, do CPM e art. 71, CP), por subtrair cartões bancários e as respectivas senhas de dois militares e realizar saques em terminais de auto-atendimento de instituições financeiras.
+    3. O Juiz-auditor rejeitou a denúncia com fundamento na incompetência da Justiça Militar para julgar crimes supostamente praticados contra instituições financeiras.
+    4. Dessa decisão o Ministério Público Militar interpôs recurso em sentido estrito, que foi provido pelo Superior Tribunal Militar pelo fundamento de que, sendo o acusado e as vítimas militares em atividade, a competência da Justiça Militar decorreria da previsão do art. 9º, II, “a”, do Código Penal Militar.
+     5. Neste habeas corpus, a Defensoria Pública da União, com base em precedente específico da Primeira Turma, requer o restabelecimento da decisão que reconheceu a incompetência da Justiça Militar para o julgamento dos fatos narrados na denúncia. Em sede cautelar, postula a suspensão dos efeitos do acórdão impugnado.
+    Decido.
+    6. Muito embora a orientação da Primeira Turma do Supremo Tribunal Federal seja no sentido de que a condição de militar da vítima e do agressor não é suficiente para atrair a competência da Justiça Militar (HC 103. 812, Rel.ª Min.ª Cármen Lúcia, HC 115.590, Rel. Min. Luiz Fux, e HC 121.778, Rel. Min. Luiz Fux), em análise preliminar, observo que parte dos fatos narrados na denúncia (a subtração dos cartões magnéticos e um dos saques realizados) ocorreu dentro de unidade sujeita à administração militar. Tal circunstância, em linha de princípio, inviabilizaria a aplicação dos precedentes citados, de modo que indefiro a liminar, reservando-me para analisar a causa mais detidamente por oportunidade do julgamento do mérito da ação penal.
+    7. Abra-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+          Brasília, 06 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
