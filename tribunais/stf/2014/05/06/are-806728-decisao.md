@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL CONTRA ATO DO RELATOR QUE, COM BASE NOS ARTIGOS ARTS. 527, INCISO I, E 557, CAPUT, DO CPC, E 31, INCISO VIII, DO REGIMENTO INTERNO DO TRIBUNAL, NEGOU SEGUIMENTO À APELAÇÃO CONTRA DECISÃO A QUO QUE JULGOU IMPROCEDENTES OS PEDIDOS. Em verificando o Colegiado inexistir qualquer ilegalidade, ou mesmo irregularidade, no ato monocrático impugnado, e sendo certo que a parte recorrente não trouxe qualquer elemento cognoscível capaz de contrastar as premissas adotadas no decisum, é de consequência que o tribunal confirme, pelos próprios termos, a decisão do relator. DESPROVIMENTO DO RECURSO” (documento eletrônico 9 – grifos no original).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 37, § 6º, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque, para se chegar à conclusão contrária à adotada pelo acórdão recorrido quanto à ocorrência de culpa exclusiva da vítima, a ensejar o dever de indenizar, necessário seria o reexame do conjunto fático probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, anote-se:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Lesão corporal. Menores sob custódia do Estado. FEBEM. Incêndio 3. Responsabilidade objetiva do Estado. Art. 37, § 6º, da Constituição Federal. Dever do Estado, na condição de garante, de zelar pela integridade física dos custodiados. Precedentes do STF. 3. Discussão acerca da existência ou não de culpa exclusiva das vítimas. Necessidade do reexame do conjunto fático-probatório. Súmula 279. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE 669.001-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma – grifos meus).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
