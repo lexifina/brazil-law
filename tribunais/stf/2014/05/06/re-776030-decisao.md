@@ -1,0 +1,22 @@
+Trata-se de recurso extraordinário contra acórdão que rejeitou pedido de equiparação do valor do auxílio alimentação pago aos servidores da justiça federal com aquele pago aos servidores dos tribunais superiores.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao princípio da isonomia e requer o pagamento das diferenças entre os benefícios recebidos em período anterior (2008 a 2011) à vigência da Portaria Conjunta do Conselho Nacional de Justiça 5/2011.
+    A pretensão recursal não merece acolhida.
+    O juízo de origem assim dirimiu a controvérsia:
+    “ADMINISTRATIVO. PEDIDO DE DIFERENÇAS DECORRENTES DO PAGAMENTO DE AUXÍLIO ALIMENTAÇÃO. SERVIDORES PÚBLICOS VINCULADOS AO PODER JUDICIÁRIO FEDERAL. INTEGRANTES DA MESMA CARREIRA. PRINCÍPIO DA ISONOMIA. PRECEDENTE DA TNU JEF´S EM RECURSO REPRESENTATIVO DE CONTROVÉRSIA. PEDILEF Nº 0502844-72.2012.4.05.8501. APLICAÇÃO DO ENTENDIMENTO DA CORTE UNIFORMIZADORA, RESSALVADO O ENTENDIMENTO PESSOAL DESTE MAGISTRADO. RECURSO PROVIDO.
+    1. No caso dos autos, pretende a parte autora o pagamento de diferenças encontradas entre os valores recebidos por ela a título de auxílio-alimentação e àqueles recebidos por servidores que integram a mesma carreira nos Tribunais superiores.
+    2. O pagamento do valor do auxílio-alimentação realizado a servidores que integram a mesma carreira e que estão em igualdade de condições deve respeitar o caráter unitário e nacional estabelecido pelo Poder Judiciário da União, sob pena de impor tratamento desigual, em flagrante violação dos artigos 5º e art. 39, §4º da CF/88.
+    3. Nada obstante tal entendimento, a TNUJEF´s, em apertado julgamento (desempate mediante voto de Minerva), firmou-se em sentido oposto no PEDILEF nº 0502844-72.2012.4.05.8501, em sede de recurso representativo de controvérsia, sendo de rigor o aplicação do entendimento do Órgão Uniformizador por medida de segurança jurídica, ao menos até que sobrevenha entendimento diverso.
+    4. Recurso Provido.” (página 1 do documento eletrônico 36).
+    Quanto a alegada violação ao princípio da isonomia, destaca-se que a Portaria Conjunta do Conselho Nacional de Justiça n.º 5 equiparou o auxílio-alimentação dos servidores do Poder Judiciário da União, a partir de sua publicação.
+    Entretanto, observa-se que o suposto direito pleiteado é exatamente o reajuste, através de provimento judicial, dos auxílios recebidos em período anterior à edição daquela portaria (2008 e 2011), uma vez que a portaria não foi dotada de efeito retroativo.
+    A concessão do reajuste do auxílio-alimentação, de forma a atingir parcelas pretéritas a edição da portaria, encontra óbice na Súmula 339 do STF, uma vez que não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia. Nesse sentido, cito precedentes desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXÍLIO-ALIMENTAÇÃO. EQUIPARAÇÃO ENTRE SERVIDORES DO PODER JUDICIÁRIO FEDERAL. EFEITOS RETROATIVOS À PORTARIA CONJUNTA 5 DO CNJ. IMPOSSIBILIDADE. SÚMULA 339. MATÉRIA INFRACONSTITUCIONAL. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I – A equiparação do auxílio-alimentação entre os servidores do Poder Judiciário ocorreu por ato administrativo consubstanciado em Portaria Conjunta do Conselho Nacional de Justiça, a partir da qual foi reajustado o valor da referida indenização, não havendo previsão de efeito retroativo e nem direito ao reajuste de valores recebidos anteriormente, sob pena de incidência da Súmula 339 do STF.
+    II – Agravo regimental a que se nega provimento. (RE 787.363-AgR/RJ, de minha relatoria. Segunda Turma)
+    EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDORES PÚBLICOS. REAJUSTE DE AUXÍLIO-ALIMENTAÇÃO. IMPOSSIBILIDADE DE EQUIPARAÇÃO DE VENCIMENTOS POR DECISÃO JUDICIAL SOB O FUNDAMENTO DO PRINCÍPIO CONSTITUCIONAL DA ISONOMIA: SÚMULA N. 339 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 670.974-AgR/RN, Rel. Min. Cármen Lúcia. Segunda Turma).
+    Cabe destacar ainda, que o RE 710.293-RG/SC não guarda pertinência com o presente caso, uma vez que sob o regime da repercussão geral a Corte analisará a possibilidade de equiparação do auxílio-alimentação entre servidores de poderes distintos, Executivo e Legislativo.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
