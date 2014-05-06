@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA QUE DETERMINOU A QUEBRA DO SIGILO FISCAL DOS AGRAVANTES. PRESENÇA DE INDÍCIOS DE SUPERFATURAMENTO EM CONTRATO DE PUBLICIDADE. ENVOLVIMENTO DA PRIMEIRA AGRAVANTE E SEUS SÓCIOS, TAMBÉM RECORRENTES. FARTA COMPROVAÇÃO DOCUMENTAL. CABIMENTO DA CAUTELAR (ART. 16, § 2º, DA LEI 8.429/92).
+    1. Agravo de instrumento interposto pelos agravantes para requerer a atribuição de efeito suspensivo à decisão proferida pelo douto Juízo da 8ª Vara Federal de São Paulo que a quebra do sigilo fiscal nos autos da Ação Civil Pública n. 2006.61.00.017638-5, movida pelo Ministério Público Federal contra eles e outros sob a imputação de atos de improbidade administrativa.
+    2. A garantia ao sigilo fiscal e bancário não é um direito absoluto, podendo ceder diante de manifesto interesse público em investigar eventuais ilicitudes praticados pelo seu titular, nos termos do art. 1º, § 4º, da Lei Complementar 105/2001, conforme precedentes do Superior Tribunal de Justiça.
+    3. Justifica-se a quebra do sigilo fiscal e bancário dos agravantes, posto que os superfaturamentos imputados a ex-presidente do CREA-SP não teriam ocorrido sem a participação da empresa de publicidade e, por conseqüência, também dos seus sócios, ora agravantes.
+    4. Estão presentes os indícios de superfaturamento em contrato de publicidade, na medida em que houve extrapolação no objeto, no preço e na duração contrato licitado através do Edital para Tomada de Preços n. 7/01, com indicações de movimentação financeira do então presidente do CREA-SP, no mesmo período, em valores muito acima dos rendimentos declarados.
+    5. As acusações estão baseadas em farta documentação, como notas de empenho, cheques e relações de valores faturados apresentadas pelos jornais onde foi promovida a publicidade.
+    6. Improvimento do agravo” (fls. 276-276v).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 1º, IV, 5º, X e XII, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o Juízo de origem decidiu a causa nos seguintes termos:
+    “Quanto à garantia ao sigilo fiscal e bancário, não se trata de direito absoluto, podendo ceder diante de manifesto interesse público em investigar eventuais ilicitudes praticados pelo seu titular, nos termos do art. 1º, § 4º, da Lei Complementar 105/2001.
+    (...)
+    No caso destes autos, justifica-se a quebra do sigilo fiscal e bancário dos agravantes, posto que os superfaturamentos imputados a José Eduardo de Paula Alonso, quando este presidiu o CREA-SP, não teriam ocorrido sem a participação da empresa de publicidade Atelier de Assessoria Publicitária Ltda. e, por conseqüência, também dos seus sócios Marieta Sobral Vanucchi e Luiz Alberto Vanucchi, ora agravantes.
+    De acordo com os documentos que acompanham o Agravo de Instrumento 2006.03.00.105578-1, em apenso, há fortes indícios do superfaturamento apontado pelo Ministério Público Federal na Ação Civil Pública 2006.61.00.017638-5, na medida em que houve extrapolação no objeto, no preço e na duração contrato licitado através do Edital para Tomada de Preços n. 7/01 (fls. 504/519)” (fls. 274-274v).
+    Nesse contexto, resta claro que para divergir do Juízo de origem, acerca do nexo causal entre o ato de improbidade administrativa e o suposto enriquecimento ilícito da ora agravante a ensejar a quebra do sigilo fiscal e bancário, necessário seria o reexame de normas infraconstitucionais aplicáveis à espécie, bem como a análise do conjunto fático probatório constante dos autos, o que inviabiliza o extraordinário a teor da Súmula 279 do STF. Nesse sentido, menciono o ARE 782.426/MG, Rel. Min. Gilmar Mendes; AI 638.966/SP, Rel. Min. Joaquim Barbosa, e AI 745.283/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
