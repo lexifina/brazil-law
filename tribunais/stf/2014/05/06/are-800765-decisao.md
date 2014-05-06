@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO REGIMENTAL. DECISÃO QUE DETERMINOU A INTIMAÇÃO DA SEPLAG PARA PAGAMENTO DOS VALORES DEVIDOS AOS IMPETRANTES. ALEGAÇÃO DE IMPOSSIBILIDADE DE PAGAMENTO DE JUROS E CORREÇÃO MONETÁRIA POR FOLHA SUPLEMENTAR. PRETENSÃO QUE SE AFASTA ANTE O ENTENDIMENTO JÁ PACIFICADO DE QUE O ACESSÓRIO SEGUE A MESMA SORTE DO PRINCIPAL, DEVENDO SER UTILIZADA A MESMA VIA PARA PAGAMENTO. COMO O PRINCIPAL FOI PAGO ATRAVÉS DE FOLHA SUPLEMENTAR, OS JUROS E A CORREÇÃO MONETÁRIA COMPLEMENTARES TAMBÉM DEVEM SER PAGOS DA MESMA FORMA. RECURSO CONHECIDO E IMPROVIDO” (fl. 93 do documento eletrônico 4).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 100 da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o recorrente, na petição de recurso extraordinário não atacou os fundamentos do acórdão recorrido, limitando-se a tecer considerações acerca do pagamento por meio do regime de precatórios. Ocorre, porém, que o acórdão entendeu que os juros de mora e a correção monetária devem ser pagas por meio de folha suplementar, seguindo a sorte do principal. Inviável o Recurso Extraordinário, nos termos da súmula 283 desta Corte.
+    Ademais, verifica-se que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação das normas infraconstitucionais aplicáveis à espécie. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Por fim, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (AREsp 425.688/RJ, com trânsito em julgado certificado em 12 de março de 2014), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão impugnado, o que atrai a incidência da Súmula 283 do STF. Nesse sentido: AI 785.229/PR, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 06 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
