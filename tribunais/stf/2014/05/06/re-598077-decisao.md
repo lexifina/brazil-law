@@ -1,0 +1,24 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “Administrativo - Servidor Público Estadual - Magistério - Complementação de Vencimento - Constitucionalidade do art. 187 da Lei Complementar Estadual nº 16/94 - Não configuração de ofensa ao art. 37, inciso XIII, da CF - Inexistência de cargos diversos - Vinculação remuneratória admitida, já que entre níveis diversos de um mesmo cargo, o de professor - Vantagem devida a partir da formulação do requerimento administrativo - Natureza meramente declaratória do ato concessivo - Recurso conhecido e não provido - Manutenção integral da sentença.
+    1. Patente é a constitucionalidade e razoabilidade da regra estabelecida pelo art. 187 da Lei Complementar Estadual nº 16, de 28 de dezembro de 1994, a qual dispõe sobre o Estatuto do Magistério Público do Estado de Sergipe e dá outras providências, já que a vantagem nele prevista vincula-se à remuneração pertencente a um mesmo cargo, qual seja, o de professor, que, nos termos da referida Lei, pode ser do Nível I à VI.
+    2. Não existe qualquer óbice à vinculação da remuneração do professor de um nível à do professor que possui outro nível qualquer, uma vez que estamos diante de diferentes níveis, porém dentro de um mesmo cargo (PROFESSOR), o que é plenamente permitido por nossa legislação. O que veda o constituinte, no inciso XIII do art. 37, é que isso ocorra entre cargos ou carreira distintas, situação inocorrente no caso em apreço.
+    3. Recurso não provido, com manutenção integral da sentença profligada” (fls. 112-112 v.).
+    No RE, fundado no art. 102, III, a e c, da Constituição, alega-se, em suma, ofensa aos arts. 37, XIII, e 93, IX, da mesma Carta.
+    A Procuradoria-Geral da República manifestou-se pelo conhecimento parcial do recurso e, nesta parte, pelo seu desprovimento (fls. 139-142).
+    A pretensão não merece acolhida. Anote-se, inicialmente, e como bem observou a Procuradoria-Geral da República, que a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu.
+    Consta do voto da Relatora do acórdão recorrido:
+    “impõe-se analisar a questão relativa à inconstitucionalidade do art. 187 da Lei Complementar Estadual nº 16, de 28 de dezembro de 1994, a qual dispõe sobre o Estatuto do Magistério Público do Estado de Sergipe e dá outras providências, tal como suscitada pelo Apelante em suas razões, cuja redação transcrevo abaixo:
+    ‘Art. 187 - O ocupante de cargo do Magistério que estiver frequentando regularmente o curso de formação específica a nível de Licenciatura Plena, ao atingir 50% dos créditos, fará jus a ter o seu vencimento básico correspondente a 70% do valor do Padrão V, Referência 1’.
+    Sustenta o Recorrente que o dispositivo supra estabelece vantagem ao Professor Nível I com valor vinculado à remuneração de outro cargo, o Professor Nível II, em ofensa ao que dispõe o inciso XIII, do art. 37, da Constituição Federal e ao princípio da razoabilidade.
+    Uma leitura acurada da legislação em epígrafe permite concluir, de forma clara, que a mesma não padece de qualquer vício de inconstitucionalidade, já que a vantagem vincula-se à remuneração pertencente a um mesmo cargo, qual seja, o de professor, que, nos termos da LCE nº 16/94, pode ser do Nível I à VI.
+    (...)
+    O que veda o constituinte é que a vinculação ocorra entre cargos ou carreira distintas, situação inocorrente no caso em tela. Não há, pois, que se falar em inconstitucionalidade do art. 187 da Lei Complementar Estadual nº 16/94” (fls. 114 v.).
+    Ademais, o acórdão recorrido harmoniza-se com a jurisprudência desta Suprema Corte, que assentou não contrariar a Constituição Federal a promoção de servidor para nível mais elevado dentro da mesma carreira, pois se trata de simples forma de provimento derivado vertical, o que se dá na espécie.
+    Em caso idêntico, trago à colação ementa do RE 597.272-AgR/SE, Rel. Min. Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. 1. POSSIBILIDADE DE VINCULAÇÃO REMUNERATÓRIA ENTRE OS DIVERSOS NÍVEIS DA MESMA CARREIRA. PRECEDENTES 2. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    No mesmo sentido, cito, ainda: RE 674.525/SE, Rel. Min. Gilmar Mendes; RE 602.114/SE, Rel. Min. Cármen Lúcia; AI 743.919/MG e RE 454.980-ED/MG, ambos de relatoria do Min. Dias Toffoli, entre outros.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 6 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+Relator
