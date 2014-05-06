@@ -1,0 +1,16 @@
+Trata-se recurso extraordinário contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. RESPONSABILIDADE CIVIL. ANULAÇÃO DE CONCURSO PÚBLICO. DANO MORAL CONFIGURADO”. (página 122 do documento eletrônico 6).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao texto da Súmula 473/STF e aos arts. 5º, LV e 37, § 2º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Quanto ao art. 5º, LV da Constituição, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Ademais, para dissentir da conclusão adotada pelo acórdão recorrido, em relação à condenação por dano moral e a aplicação do § 2º do art. 37 da Constituição e da Súmula 473/STF, seria necessário o reexame do conjunto fático-probatório constante dos autos – o que atrai a incidência da Súmula 279 do STF – e da legislação infraconstitucional aplicável à espécie, sendo certo que eventual ofensa à Lei Maior seria meramente indireta. Incabível, portanto, o extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INDENIZAÇÃO POR DANO MORAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. ALEGADA OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. OFENSA INDIRETA. AGRAVO IMPROVIDO.
+    I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes.
+    II – Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional.
+    III – Agravo regimental improvido” (ARE 666.127-AgR/RJ, de minha relatoria).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PEDIDO DE SUSTENTAÇÃO ORAL NO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 782.959-AgR/SP, Rel. Min. Cármen Lúcia).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
