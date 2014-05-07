@@ -1,0 +1,9 @@
+Trata-se de recurso extraordinário que, na espécie, verifica-se intempestivo, pois, se o teor do acórdão recorrido foi publicado em 26/09/2007 (fl. 489), portanto, o prazo para interposição do extraordinário expirou em 11/10/2007. Entretanto, a interposição deste recurso deu-se somente em 15/10/2007 (fl. 490), ou seja, após o decurso do prazo recursal.
+    Registre-se, ainda, que os recorrentes informam outra data como sendo a do protocolo do recurso extraordinário, qual seja, 18/10/2007 (fl. 605), o que não altera a situação de intempestividade reconhecida, ao contrário.
+    Seguindo essa orientação, destaco o seguinte precedente, que bem elucida a questão:
+    “Impende assinalar, por necessário, que a intempestividade dos recursos tanto pode derivar de impugnações prematuras (que se antecipam à publicação dos acórdãos) quanto resultar de oposições tardias (que se registram após o decurso dos prazos recursais). Em qualquer das duas situações – impugnação prematura (como na espécie) ou oposição tardia –, a consequência de ordem processual é uma só: o não conhecimento do recurso, por efeito de sua extemporânea interposição (...). Os fundamentos que dão suporte a essa orientação jurisprudencial põem em evidência a circunstância de que a publicação do acórdão gera efeitos processuais específicos, pois, além de formalizar a integração dessa peça essencial ao processo, confere-lhe existência jurídica e fixa-lhe o próprio conteúdo material. É mediante a efetiva ocorrência dessa publicação formal que se viabiliza, processualmente, a intimação das partes, inclusive para efeito de interposição dos recursos pertinentes” (ARE 786.777/MG, Rel. Min. Celso de Mello).
+    Isso posto, não conheço do recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 7 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+Relator
