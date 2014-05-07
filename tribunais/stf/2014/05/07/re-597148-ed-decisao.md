@@ -1,0 +1,45 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EMBARGOS ACOLHIDOS PARA SANAR OMISSÃO: ÔNUS DA SUCUMBÊNCIA.
+Relatório
+    1. Em 4.2.2014, dei parcial provimento ao recurso extraordinário interposto por Alcindo da Silva Lopes contra julgado do Tribunal de Justiça de Mato Grosso do Sul, para declarar a nulidade da sessão secreta realizada pelo Conselho de Disciplina e determinar a realização de outra sessão da qual sejam previamente cientificados o recorrente e seu advogado. A decisão embargada teve a seguinte fundamentação:
+    “5. Razão jurídica assiste em parte ao Recorrente.
+    (…)
+    7. Cumpre registrar, inicialmente, não prosperar o fundamento adotado pelo Tribunal a quo no sentido de que a validade da sessão secreta (na qual houve a leitura do relatório e o julgamento do Recorrente), prevista no art. 9º, § 1º, do Decreto estadual n. 1.261/1981, teria respaldo, por analogia, no art. 434 do Código de Processo Penal Militar (Decreto-lei n. 1.002/1969).
+    (…)
+    Com o advento da Constituição da República de 1988, este Supremo Tribunal foi instado a manifestar-se sobre a possibilidade de serem admitidas sessões secretas de julgamento pelo Conselho de Justiça.
+    No julgamento do Recurso em Habeas Corpus n. 67.494/RJ, Relator o Ministro Aldir Passarinho, a Segunda Turma deste Supremo Tribunal decidiu:
+    “PROCESSUAL PENAL MILITAR. SESSÃO DE JULGAMENTO (CPPM, ART. 434. CONSTITUIÇÃO FEDERAL, ART. 93, IX). PRESENÇA DO ADVOGADO. EMBORA O CPPM PREVEJA A SESSÃO SECRETA PARA O JULGAMENTO PELO CONSELHO DE JUSTIÇA (ART. 434), A NOVA CARTA POLÍTICA ISSO PROIBE, MAS PODE SER LIMITADA A PRESENCA AS PRÓPRIAS PARTES E A SEUS ADVOGADOS, OU SOMENTE A ESTES (ART. 93, IX, DA CONSTITUIÇÃO FEDERAL). NÃO HÁ, ENTRETANTO, NULIDADE A DECLARAR SE O ADVOGADO, APESAR DE CONVIDADO A PERMANECER NO RECINTO DE VOTAÇÃO, DELE SE RETIROU, POR VONTADE PRÓPRIA. E SEQUER A ALEGADA AUSÊNCIA FOI APONTADA COMO CAUSA DE NULIDADE NOS MOMENTOS PROPRIOS (CPPM, ARTS. 501 E 504). NÃO CABE, OUTROSSIM, REABERTURA DE PRAZO PARA A APELAÇÃO, SE RAZÃO INEXISTE PARA TAL CONCESSÃO” (DJ 16.6.1989, grifos nossos).
+    (...)
+    8. Nos termos do que previsto no caput do art. 37 da Constituição da República, os atos praticados pela Administração Pública devem estar em consonância com os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.
+    (…)
+    11. O reconhecimento de que a garantia do devido processo administrativo passa pela necessária observância aos princípios do contraditório e da ampla defesa não é questão nova no ordenamento jurídico brasileiro.
+    (…)
+    13. O Supremo Tribunal Federal assentou que a ausência de processo administrativo ou a inobservância dos princípios do contraditório e da ampla defesa tornam nulo o ato de demissão de servidor público, civil ou militar, estável ou não.
+    No julgamento do Mandado de Segurança n. 24.268/MG, Relatora a Ministra Ellen Gracie, Redator para o acórdão o Ministro Gilmar Mendes, o Plenário deste Supremo Tribunal assentou:
+    (…)
+    “RECURSO EXTRAORDINÁRIO. OFENSA INDIRETA. PROCEDIMENTO PARA COLOCAÇÃO DE MAGISTRADO EM DISPONIBILIDADE. SESSÃO SECRETA DE JULGAMENTO. PROIBIÇÃO DA PRESENÇA DO ACUSADO E DE SEU DEFENSOR. NULIDADE DO PROCESSO ADMINISTRATIVO. Processo administrativo anulado, pelo Superior Tribunal de Justiça, com base na interpretação de normas infraconstitucionais. Interpretação esta, que, ademais, é a que melhor se coaduna com a garantia constitucional da ampla defesa. Recurso extraordinário não conhecido” (RE 195.612/RJ, Relatora a Ministra Ellen Gracie, Primeira Turma, DJ 14.6.2002).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MILITAR. PROCESSO ADMINISTRATIVO DISCIPLINAR. LICENCIAMENTO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. 1. A jurisprudência desta Corte tem se fixado no sentido de que a ausência de processo administrativo ou a inobservância aos princípios do contraditório e da ampla defesa tornam nulo o ato de demissão de servidor público, seja ele civil ou militar, estável ou não. Agravo regimental a que se nega provimento” (RE 513.585-AgR, Relator o Ministro Eros Grau, Segunda Turma, DJe 1º.8.2008).
+    (…)
+    15. Pelo exposto, dou parcial provimento ao recurso extraordinário (art. 557, 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), para declarar nula a sessão secreta de julgamento realizada pelo Conselho de Disciplina e determinar novo julgamento do processo administrativo, com a prévia ciência do Recorrente e seu advogado, que poderão exercer o seu direito constitucional, assentado por este Supremo Tribunal Federal, de estarem presentes ao ato” (fls. 625-651).
+    2. Publicada essa decisão no DJe de 10.2.2014 (fl. 652), opõe Alcindo da Silva Lopes, em 14.2.2014, tempestivamente, embargos de declaração (fls. 654-657, 659-662).
+    3. O Embargante afirma que “os embargos de declaração se justificam apenas e tão somente para que sejam analisados os demais pedidos sucessivos que foram feitos tanto na petição inicial como nas razões do recurso extraordinário em epígrafe” (fl. 659).
+    Assevera que tanto na inicial quanto no recurso extraordinário teria pedido que, se declarada nula a sessão secreta realizada pelo Conselho Disciplinar, fosse “determinada a reintegração do embargante nos quadros da Polícia Militar do Estado de Mato Grosso do Sul, além de condenado o embargado no pagamento da remuneração devida ao embargante desde a exclusão até a efetiva reintegração” (fl. 660).
+    Argumenta que, se “foi excluído da Polícia Milita do Estado de Mato Grosso do Sul, através de um julgamento que o Judiciário reconheceu nulo, ele deverá voltar a fruir da condição que ostentava antes da prática do ato inválido, ou seja, o embargante deverá ser reintegrado com efeitos retroativos nos quadros da corporação” (fl. 661).
+    Requer seja sanada a omissão apontada e “seja igualmente conhecido e provido o presente recurso para que o embargado seja condenado a pagar as custas do processo e os honorários advocatícios de sucumbência, a ser arbitrado por Vossa Excelência, nos termos do artigo 20, parágrafo quarto, do CPC” (fl. 662).
+    Apreciada a matéria trazia na espécie, DECIDO.
+    4. Opostos os embargos de declaração contra decisão monocrática sob alegação de ocorrência de vício do art. 535 do Código de Processo Civil, dispensa-se a conversão destes embargos em agravo regimental para julgamento pel Turma (RE 476.109-ED, Relator o Ministro Cezar Peluso, DJe 8.10.2007; RE 411.024-ED, Relator o Ministro Sepúlveda Pertence, DJ 11.5.2004; e RE 277.612, Relator o Ministro Carlos Velloso, DJ 12.11.2001).
+    5. Razão jurídica assiste, em parte, ao Embargante.
+    6. Na espécie, dei parcial provimento ao recurso extraordinário para declarar nula a sessão secreta realizada pelo Conselho Disciplinar em processo administrativo, por estar esse procedimento em desacordo com as garantias do contraditório e da ampla defesa asseguradas pela Constituição da República e com a jurisprudência deste Supremo Tribunal.
+    O provimento foi parcial porque o Embargante pretendia, ainda, a declaração de inconstitucionalidade dos arts. 9º, § 1º, e 12 do Decreto estadual n. 1.261/1981, o qual, por ser anterior à Constituição da República de 1988, somente poderia ser submetido ao juízo de não recepção.
+    7. Não se verifica a omissão apontada pelo Embargante quanto aos pedidos sucessivos. A reintegração e seus efeitos pecuniários são decorrência da declaração de nulidade do ato que excluiu o Embargante. Todavia, não cabe a este Supremo Tribunal determiná-los, sendo tal provimento de competência das autoridades administrativas.
+    No ponto, não assiste razão ao Embargante.
+    8. Quanto à condenação do Embargado ao pagamento de custas e honorários, razão jurídica assiste ao Embargante.
+    O Embargante pleiteou e obteve os benefícios da justiça gratuita (fl. 460) e a sentença deixou de condená-lo ao pagamento de custas e honorários advocatícios (fl. 520).
+    Todavia, o § 4º do art. 20 do Código de Processo Civil determina:
+    “§ 4º. Nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houver condenação ou for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados consoante apreciação equitativa do juiz, atendidas as normas das alíneas a, b e c do parágrafo anterior”.
+    Assim, considerando o provimento parcial do recurso e o disposto na alínea c do § 4º do art. 20 do Código de Processo Civil, condeno o Embargado ao pagamento de honorários advocatícios, os quais arbitro em 10% do valor atribuído à causa, isento do pagamento de custas (Lei estadual n. 3.779/2009).
+    9. Pelo exposto, conheço dos embargos de declaração, acolhendo-os apenas para sanar a omissão relativa aos honorários e custas processuais e determino que o Estado de Mato Grosso do Sul, Embargado, deverá arcar com o pagamento de honorários advocatícios arbitrados em 10% do valor da causa.
+    Publique-se.
+    Brasília, 7 de maio de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
