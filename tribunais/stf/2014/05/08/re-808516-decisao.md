@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão da Primeira Turma Recursal Fazendária do Estado do Rio de Janeiro, assim ementado:
+    “Servidor Público. Férias não gozadas a critério da Administração. Pedido de indenização. Ajuizamento de várias ações. Fracionamento de valor. Possibilidade. Diversidade de atos ilícitos praticados pela Administração, permitindo o ajuizamento de tantas demandas quantos forem os meses de férias cujo goza fora negado. Diversidade das causas de pedir remotas. Suposta conexão que não importa em aumento do valor da causa de modo a ultrapassar o limite de 60 salários mínimos. Competência do Juizado Especial Fazendário. Sentença líquida necessitando de mero cálculo aritmético, sem necessidade de liquidação. Valor da indenização que deve levar em consideração a remuneração recebida pelo autor à época do ajuizamento da ação. Prazo para pagamento. Submissão ao prazo estabelecido no art. 13, § 3º, da Lei nº 12.153/2009 diante do valor da condenação. Conhecimento e provimento parcial do recurso.” (fl. 5)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, alega-se violação ao artigo 100, caput e § 3º da Constituição Federal e ao artigo 87 do ADCT.
+    Defende-se, em síntese, que “considerando os valores pleiteados, estamos diante de uma tentativa de burla à sistemática dos precatórios, pois com o fracionamento das demandas a parte autora poderá receber através de RPV, o quenão é de se admitir, sob pena de violação, a um só tempo, o artigo 100 da CRFB/88 e o artigo 87 do ADCT da mesma Constituição.” (fl. 26)
+    Decido.
+    As razões recursais não merecem prosperar.
+    O Tribunal a quo consignou o seguinte:
+    “Também não há que se falar em violação à regra do precatório, eis que, como já dito, tratando-se de diferentes ilicitudes,a pretensão autoral não decorre de uma origem comum, não havendo qualquer impedimento ao desmembramento de seus pedidos em tantas demandas quanto reputar conveniente para a satisfação de sua pretensão.
+    (…)
+    Evidente, de igual modo, o desacerto do nobre julgador de 1º grau ao fixar o prazo de 30 dias para o pagamento do valor da condenação, tendo em vista a evidente violação à regra contida no art. 13, I, da Lei n. 12.153/2009, bem como o procedimento previsto no art. 730, do CPC, merecendo parcial provimento o recurso do Estado para excluir da sentença o referido prazo.” (fls. 6-7)
+    Inicialmente, verifico que o acórdão impugnado decidiu as questões com base na legislação infraconstitucional - quanto à possibilidade de conexão das ações do ora recorrido, bem como quanto ao pagamento do valor da condenação. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    Ademais, concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise do conjunto fático-probatório constante dos autos, procedimento incabível de ser adotado em sede de recurso extraordinário, conforme dispõe a Súmula n. 279 do Supremo Tribunal Federal.
+    Nesse sentido, destaco os seguintes precedentes:
+    “O entendimento firmado nesta Corte de que a discussão acerca da competência dos juizados especiais, em razão da complexidade e do valor da causa, poderia configurar, apenas, violação indireta ou reflexa à Constituição da República, haja vista que sua solução não prescinde da análise da legislação infraconstitucional e, também, do reexame dos fatos e das provas da causa. Incidência das Súmulas ns. 636 e 279/STF” (AI 858.108-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 3.6.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. COMPETÊNCIA DO JUIZADO ESPECIAL. VALOR DA CAUSA. 1. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. INVIABILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 718.582-AgR, de Min. Cármen Lúcia, Segunda Turma, DJe 18.12.2012).
+    Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 8 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
