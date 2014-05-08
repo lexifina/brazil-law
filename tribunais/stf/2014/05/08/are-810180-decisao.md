@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Pernambuco cujo trecho da ementa transcrevo:
+    “DIREITO ADMINISTRATIVO E CONSTITUCIONAL. POLÍCIA MILITAR. SELEÇÃO INTERNA. CRITÉRIO DE CORREÇÃO DAS PROVAS. INTERPRETAÇÃO DO EDITAL. PERCENTUAL DE ACERTOS NAS DISCIPLINAS QUE INTEGRAM AS PROVAS QUE COMPÕEM A PARTE GERAL E ESPEICIAL. RAZOABILIDADE. BUSCA DA EXCELÊNCIA NA COMPOSIÇÃO DOS QUADROS DE PESSOAL DA POLÍCIA. REEXAME NECESSÁRIO A QUE SE DÁ PROVIMENTO (…)”. (eDOC 4, p. 165)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 5º, XXXV; e 37, caput, do texto constitucional.
+    Nas razões recursais, argumenta-se afronta aos princípios da legalidade, da razoabilidade e da publicidade. (eDOC 1, p. 63)
+    Decido.
+    O recurso não merece prosperar.
+    Na espécie, verifico que o Tribunal de origem, com base na interpretação dada às normas editalícias que regulamentaram o certame e no conjunto fático-probatório constante dos autos, entendeu pela reprovação da parte recorrente. Nesse sentido, consignou o seguinte:
+    “Diferentemente do alegado pelos impetrantes, de uma simples leitura dos dispositivos acima colacionados, a interpretação possível é no sentido de que o candidato seria considerado aprovado caso obtivesse a pontuação mínima no percentual de 40% em cada prova/disciplina e uma média aritmética global no percentual mínimo igual ou superior a 5,0 (cinco) pontos. Do contrário, não faria sentido o item 3.18 dispor sobre a quantidade específica de questões em cada prova. Além disso, quanto à divisão da avaliação em específica e geral, cabe notar que em nenhum momento esta divisão doi nominada de prova específica/geral, mas sim parte específica e geral.
+    Conforme já tive oportunidade de frisar ao apreciar agravos de instrumentos com essa mesma temática, seria ilógico permitir aos candidatos que ‘zerassem’ em algumas disciplinas/provas e pontuassem o máximo em outras, compensando-se a pontuação. O objetivo da regra do edital é selecionar aqueles que, além de mais preparados, demonstram possuir um conhecimento linear sobre o conteúdo programático exigido”. (eDOC 4, p. 167)
+    Desse modo, para se dissentir do entendimento adotado pelo Tribunal a quo, seria necessário reexaminar as cláusulas editalícias, bem como os fatos e provas constantes dos autos, o que é inviável em sede de recurso extraordinário, nos termos dos Enunciados 279 e 454 da Súmula do Supremo Tribunal Federal. Confira-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO, PREENCHIMENTO DE REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DAS NORMAS EDITALÍCIAS E DO REEXAME DE PROVAS: INCIDÊNCIA DAS SÚMULA 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 759.264, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 2.10.2009)
+    Ademais, observo que é firme a jurisprudência desta Corte no sentido de que a controvérsia a respeito de requisitos estabelecidos em edital de concurso público, de regra, constitui matéria de âmbito infraconstitucional, o que inviabiliza a interposição do apelo extremo, visto que não há ofensa direta ao texto constitucional.
+    Nesse sentido, cito o RE-AgR 524.547, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 4.6.2012:
+    “AGRAVO REGIMENTAL. CONCURSO PÚBLICO. PROVA DE TÍTULOS. ATRIBUIÇÃO DE PONTOS. SEPARAÇÃO DE PODERES. AUSÊNCIA DE PREQUESTIONAMENTO. REQUISITOS DO EDITAL. MATÉRIA INFRACONSTITUCIONAL E REEXAME DE PROVA. PRECEDENTES. Agravo regimental a que se nega provimento.”
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 8 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
