@@ -1,0 +1,16 @@
+Decisão: Trata-se agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa dispõe:
+    “CONCURSO PÚBLICO - ANULAÇÃO - Prazo de cinco dias para inscrição – Edital não divulgado a contento, cuja publicação realizada em jornal de outra cidade ocorreu durante o período da abertura do prazo para inscrição - Nulidade ipso iuri por violação ao princípio da razoabilidade – Decreto Municipal n. 07/91, de efeitos gerais e abstratos que fixou prazo de quinze dias - Decreto Municipal posterior que apenas serviu para regular, individualmente, o concurso ora impugnado - Decreto de efeitos concretos passível de anulação - Ausência de prejuízo ao interesse público, cujos serviços poderão ser prestados por contratos temporários até a realização de novo concurso público - Sentença mantida – Recurso improvido”. (eDOC 10, p. 62)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação ao art. 5º, XXXVI, do texto constitucional.
+    Nas razões recursais, argumenta-se que o Tribunal de origem decidiu a questão dos autos com base unicamente no princípio da razoabilidade, uma vez que não há nenhum dispositivo legal que especifique o prazo para o concurso. Aduz-se ainda que invocou erroneamente a lei de licitações e contratos (eDOC 10, p. 117).
+    Afirma-se que o município, para a realização do concurso, editou o Decreto 29/01, com cláusula expressa de revogação de disposições em contrário contidas no Decreto 07/01. Defende-se assim que o Decreto 29/01 configura ato jurídico perfeito, ainda que tenha estabelecido prazo inferior ao decreto anterior (eDOC 10, p. 114)
+    Alega-se assim afronta aos princípios do ato jurídico perfeito, da segurança jurídica e da boa-fé.
+    Decido.
+    As razões recursais não merecem prosperar.
+    No caso, verifica-se que o Tribunal de origem entendeu pela anulação do concurso público, com base em decreto municipal 7/91, no conjunto fático-probatório dos autos, bem como em normas editalícias. Assim, para se entender de forma diversa, far-se-ia imprescindível a revisão dos fatos e provas analisados, a prévia análise das normas do edital do concurso público, como também da legislação local, providências vedadas em sede de recurso extraordinário, nos termos dos Enunciados 279, 280 e 454 da Súmula do STF. Cito, a propósito, o seguinte julgado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DA PARTE RECORRENTE. ART. 2º DA CF/88. NORMA CONSTITUCIONAL DEMASIADAMENTE GENÉRICA PARA INTERFERIR NO CASO DOS AUTOS. ART. 37 DA CF/88. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EXAME DE FATOS, DE DIREITO LOCAL E DE CLÁUSULAS DE EDITAL DE CONCURSO PÚBLICO. SÚMULAS 279, 280 E 454 do STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (ARE-AgR 758.037, Rel. Min. Teori Zavascki, Segunda Turma, DJe 14.2.2014)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 8 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
