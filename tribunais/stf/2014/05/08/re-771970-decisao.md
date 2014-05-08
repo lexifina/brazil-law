@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região ementado nos seguintes termos:
+    “ADMINISTRATIVO. POLICIAL RODOVIÁRIO FEDERAL. SUBSÍDIOS. PARCELA COMPLEMENTAR. CONGELAMENTO SALARIAL. PROVA. AUSÊNCIA. PRINCÍPIO DA ISONOMIA. SITUAÇÕES DIFERENCIADAS. VIOLAÇÃO. INOCORRÊNCIA.
+    1. É assente, no âmbito do Egrégio Superior Tribunal de Justiça, o entendimento de que o sindicato detém legitimidade ativa para atuar na defesa dos seus associados, sendo desnecessária a juntada da relação nominal dos substituídos. Preliminar rejeitada, com a ressalva do entendimento pessoal deste Relator, em sentido contrário.
+    2. A Lei nº 11.358/2006 instituiu para os servidores integrantes da carreira de Policial Rodoviário Federal a remuneração através de subsídio, em parcela única, afastando a possibilidade de recebimento de quaisquer outras vantagens que não aquelas previstas na referida Lei.
+    3. Visando evitar qualquer decréscimo salarial, o art. 11 da mencionada lei veio instituir o recebimento de uma parcela complementar.
+    4. Hipótese em que não consta nos autos qualquer prova de que o alegado congelamento salarial tenha sido decorrente da mencionada vantagem, ônus que era do demandante, a teor do art. 333, I, CPC.
+    5. O princípio da isonomia determina que devam ser tratados de forma idêntica apenas aqueles que se encontraram numa mesma situação.
+    6. O caso em tela não legitima a concessão de aumentos, mediante Plano de Carreira, na mesma proporção, já que os servidores ocupam diferentes categorias, classes, padrões, não estando no mesmo estágio na carreira.
+    7. Segundo o Enunciado 339, da Súmula do STF, é vedado ao Poder Judiciário, que não tem função legislativa, instituir aumento a servidor público, com base na alegação de isonomia.
+    8. Apelação improvida.
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 5º,caput; 37, X, do texto constitucional.
+    Nas razões recursais, defende-se, em síntese, violação ao princípio da isonomia, uma vez que os reajustes salariais promovidos por meio de revisão geral anual devem possuir índices idênticos.
+    A Procuradoria-Geral da República manisfestou-se pelo não conhecimento ou pelo desprovimento do recurso, em parecer assim ementado:
+    “Recurso extraordinário. Reajuste não linear na carreira dos policiais rodoviários federais promovido pela Lei nº 11.784/08. Ausência de prequestionamento. Reajuste que busca a reestruturação da carreira para corrigir distorções não se confunde com a revisão geral anual. Possibilidade de ocorrer em índices diversos. Parecer pelo não conhecimento do recurso ou, sucessivamente, pelo desprovimento”. (fl. 217)
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque que o acórdão recorrido está em sintonia com a jurisprudência do Supremo Tribunal Federal, que se pacificou no sentido de que é possível a correção de reajustes setoriais com a finalidade de corrigir distorções remuneratórias sem que isso viole os princípios da isonomia ou da revisão geral anual. Nesse sentido:
+    “Agravo regimental em agravo de instrumento. 2. Servidores Públicos. Reajustes setoriais. Possibilidade. Inocorrência a ofensa aos princípios da isonomia e ao reajuste geral de vencimentos. Precedente. 3. Agravo regimental a que se nega provimento”. (AI-AgR 612.460/MG, de minha relatória, 2ª Turma, DJe 28.3.2008)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORES PÚBLICOS MILITARES. REVISÃO GERAL. LEI 11.784/08.  ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL.  OFENSA INDIRETA. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. REAJUSTES SETORIAIS. POSSIBILIDADE. PRECEDENTE. 1. O reajuste estatuído pela Lei 11.784/08, quando sub judice a controvérsia se revisão geral ou medida para promover a reestruturação da carreira, demanda a análise de norma infraconstitucional, o que inviabiliza a admissão do extraordinário. Precedente: ARE 650.566-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 22/5/2012. 2. A concessão de reajustes setoriais com o propósito de corrigir distorções remuneratórias não acarreta violação constitucional. Precedente: ARE 672.424-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 12/4/2012. 3. In casu, o acórdão recorrido assentou: “A Lei nº 11.784/08 não trata da revisão geral anual prevista no inciso X do art. 37 da CF, mas da reestruturação da carreira dos militares das Forças Armadas, objetivando apenas corrigir distorções existentes no padrão remuneratório da carreira militar e em seus diferentes postos, razão pela qual não há, conforme referido, afronta ao alegado princípio da isonomia. 4. Agravo regimental DESPROVIDO”. (ARE-AgR 672.416/RS, Rel. Min. Luiz Fux, 1ª Turma, DJe 10.9.2013)
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 8 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
