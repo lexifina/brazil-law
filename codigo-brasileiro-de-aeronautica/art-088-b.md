@@ -1,0 +1,1 @@
+Art. 88-B. A investigação Sipaer de um determinado acidente, incidente aeronáutico ou ocorrência de solo deverá desenvolver-se de forma independente de quaisquer outras investigações sobre o mesmo evento, sendo vedada a participação nestas de qualquer pessoa que esteja participando ou tenha participado da primeira.

@@ -1,0 +1,1 @@
+Art. 88-O. A autoridade policial competente deve isolar e preservar o local do acidente ou incidente aéreo, inclusive a aeronave acidentada e seus destroços, para a coleta de provas, até a liberação da aeronave ou dos destroços tanto pelas autoridades aeronáuticas quanto por eventuais agentes de perícia criminal responsáveis pelas respectivas investigações.

@@ -1,0 +1,1 @@
+Art. 88-K. Para o uso das fontes Sipaer como prova, nos casos permitidos por esta Lei, o juiz decidirá após oitiva do representante judicial da autoridade Sipaer, que deverá se pronunciar no prazo de 72 (setenta e duas) horas.
