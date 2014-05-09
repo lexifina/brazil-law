@@ -1,0 +1,2 @@
+Art. 88-H. A investigação Sipaer de acidente aeronáutico será concluída com a emissão do relatório final, documento que representa o pronunciamento da autoridade de investigação Sipaer sobre os possíveis fatores contribuintes de determinado acidente aeronáutico e apresenta recomendações unicamente em proveito da segurança operacional da atividade aérea.
+Parágrafo único. O relatório final de acidente com aeronave de Força Armada será aprovado pelo comandante do respectivo Comando Militar.
