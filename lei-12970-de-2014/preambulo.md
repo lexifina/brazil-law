@@ -1,0 +1,2 @@
+Altera o Capítulo VI do Título III e o art. 302 e revoga os arts. 89, 91 e 92 da Lei nº 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica, para dispor sobre as investigações do Sistema de Investigação e Prevenção de Acidentes Aeronáuticos - SIPAER e o acesso aos destroços de aeronave; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
