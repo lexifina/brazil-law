@@ -47,9 +47,15 @@ Do Registro Aeronáutico Brasileiro
 SEÇÃO II
 Do Procedimento de Registro de Aeronaves
 CAPÍTULO VI
-Sistema de Investigação e Prevenção de Acidentes Aeronáuticos
+SiSTEMA DE iNVESTIGAÇÃO E PREVENÇÃO DE ACiDENTES AERONÁUTICOS - SIPAER
 Seção I
 Da Investigação Sipaer
+Seção II
+Da Competência para a Investigação Sipaer
+Seção III
+Do Sigilo Profissional e da Proteção à Informação
+Seção IV
+Do Acesso aos Destroços de Aeronave
 CAPÍTULO VII
 Sistema de Facilitação, Segurança da Aviação Civil e Coordenação do Transporte Aéreo
 SEÇÃO I

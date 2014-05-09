@@ -1,0 +1,1 @@
+Art. 88-L. A autoridade Sipaer, ou a quem esta delegar, poderá decidir sobre a conveniência de divulgar, sem prejuízo à prevenção de acidentes e às previsões legais, informações relativas às investigações Sipaer em andamento e às respectivas fontes Sipaer.
