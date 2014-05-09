@@ -1,0 +1,2 @@
+Art. 86-A. A investigação de acidentes e incidentes aeronáuticos tem por objetivo único a prevenção de outros acidentes e incidentes por meio da identificação dos fatores que tenham contribuído, direta ou indiretamente, para a ocorrência e da emissão de recomendações de segurança operacional.
+Parágrafo único. Em qualquer fase da investigação, poderão ser emitidas recomendações de segurança operacional.
