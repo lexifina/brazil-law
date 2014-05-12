@@ -4,7 +4,7 @@ II - procedimentos clínicos ou cirúrgicos para fins estéticos, bem como órte
 III - inseminação artificial;
 IV - tratamento de rejuvenescimento ou de emagrecimento com finalidade estética;
 V - fornecimento de medicamentos importados não nacionalizados;
-VI - fornecimento de medicamentos para tratamento domiciliar;
+VI - fornecimento de medicamentos para tratamento domiciliar, ressalvado o disposto nas alíneas 'c' do inciso I e 'g' do inciso II do art. 12;
 VII - fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico;
 IX - tratamentos ilícitos ou antiéticos, assim definidos sob o aspecto médico, ou não reconhecidos pelas autoridades competentes;
 X - casos de cataclismos, guerras e comoções internas, quando declarados pela autoridade competente.
