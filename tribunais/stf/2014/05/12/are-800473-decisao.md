@@ -1,0 +1,16 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário amparada na seguinte fundamentação:
+    “O recurso não merece prosperar, porquanto a análise da questão invocada implicaria reexame da matéria fático-probatória, o que encontra óbice na Súmula 279 do Supremo Tribunal Federal, assim enunciada: Para simples reexame de prova não cabe recurso extraordinário”.
+    Decido.
+    O entendimento da Corte é no sentido de que deve a parte impugnar todos os fundamentos da decisão que não admitiu o apelo extremo, o que não ocorreu na espécie, uma vez que mantida incólume a motivação acima reproduzida. A jurisprudência de ambas as Turmas deste Tribunal é no sentido de negar provimento ao agravo quando, como no caso, não são atacados os fundamentos da decisão que obsta o processamento do apelo extraordinário. Nesse sentido: AI nº 488.369/RSAgR, 4/5/04, Primeira Turma, Relator Ministro Sepúlveda Pertence, DJ de 28/5/04, e AI nº 330.535/SP-AgR, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 21/9/01, e ARE nº 637.373/MS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/6/11, esse último assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RAZÕES DO RECURSO NÃO ATACAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 287 DO STF. ARTIGO 543 DO CPC. REMESSA DO FEITO AO STJ. DESNECESSIDADE. AGRAVO IMPROVIDO. I O agravo não atacou os fundamentos da decisão que negou seguimento ao recurso extraordinário, o que o torna inviável, conforme a Súmula 287 do STF. Precedentes. II É desnecessário aguardar o julgamento do recurso especial pelo STJ quando o extraordinário não possuir condições de admissibilidade. Precedentes. III Agravo regimental improvido.”
+    Por fim, ressalte-se que, quando da interposição de um recurso dirigido a esta Suprema Corte, incumbe ao Tribunal de origem proceder a um exame prévio de admissibilidade desse apelo, sem que isso implique usurpação da competência constitucional cominada ao Supremo Tribunal Federal. A propósito, destacam-se:
+    “RECURSO EXTRAORDINÁRIO - JUÍZO PRIMEIRO DE ADMISSIBILIDADE. Ao Juízo primeiro de admissibilidade cumpre verificar se o extraordinário atende, ou não, aos pressupostos gerais de recorribilidade e a pelo menos um dos específicos de que cuida o inciso III do artigo 102 da Carta Política da República. Assim agindo, longe fica de usurpar a competência do Supremo Tribunal Federal” (AI nº 178.743/SP-AgR, Relator o Ministro Marco Aurélio, Segunda Turma, DJ de 16/5/97).
+    “RECURSO EXTRAORDINÁRIO (…) O Presidente do Tribunal Superior do Trabalho, ao emitir juízo negativo de admissibilidade do recurso extraordinário - nele destacando a ausência dos pressupostos condicionadores da valida utilização processual desse meio de impugnação - exerce, legitimamente, competência que lhe foi outorgada pelo ordenamento positivo, não praticando, em consequencia, qualquer ato de usurpação das atribuições jurisdicionais deferidas ao Supremo Tribunal Federal (RTJ 143/46). - (…)” (AI nº 153.147/RS-AgR, Relator o Ministro Celso de Mello, Primeira Turma, DJ de 6/5/94).
+    Ante o exposto, não conheço do agravo.
+    Publique-se.
+    Brasília, 12 de maio de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
