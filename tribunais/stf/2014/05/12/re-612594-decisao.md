@@ -1,0 +1,27 @@
+Decisão
+    Câmara Municipal do Rio de Janeiro interpõe recurso extraordinário contra acórdão do Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Representação por Inconstitucionalidade. Art. 323 e § 2º da Lei Orgânica do Município do Rio de Janeiro. Sua inconstitucionalidade por tratar de matéria orçamentária, obrigando o Município a aplicar anualmente 35% de sua receita na manutenção e desenvolvimento do ensino. Vício de origem por depender de iniciativa reservada privativamente ao Executivo. Desnecessidade e inconveniência de suspender o processo para aguardar o julgamento da ADIN proposta pelo Governador do Estado relativo à Constituição Estadual. Possibilidade jurídica do pedido de declaração de inconstitucionalidade de lei municipal em confronto com a Constituição do Estado, embora esta reproduza norma da Carta Federal. ” (fl. 201).
+    Insurge-se, no apelo extremo, fundado na alínea “a” do permissivo constitucional, contra alegada contrariedade aos artigos 125, § 2º, e 165, da Constituição Federal, sendo esta última norma de reprodução obrigatória e inscrita no artigo 209 da Constituição Estadual.
+    Sustenta a parte recorrente que a tese de que toda a matéria orçamentária deve ser de iniciativa privativa do Chefe do Poder Executivo, baseada no artigo 165 da Carta Maior, não encontra guarida na adequada interpretação constitucional. Assevera, ainda, a impossibilidade de controle concentrado de constitucionalidade de dispositivo da Constituição Estadual quando há reprodução obrigatória de preceito da Constituição Federal.
+    Apresentadas contrarrazões (fls. 270 a 275), o recurso extraordinário não foi admitido na origem (fls. 302 a 304), subindo os autos a esta Suprema Corte após decisão do Ministro Joaquim Barbosa, então Relator (fl. 315).
+    O Superior Tribunal de Justiça, em decisão transitada em julgado (fl. 74 do apenso), negou provimento ao agravo interposto contra a decisão que negou seguimento ao recurso especial interposto simultaneamente ao extraordinário.
+    O respeitável parecer do Ministério Público Federal (fls. 322/323), subscrito pelo Dr. Wagner de Castro Mathias Netto, Subprocurador-Geral da República, foi pelo desprovimento do recurso extraordinário.
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado em 15/05/2000, conforme certidão de folha 230, não sendo portanto exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+    A irresignação, no entanto, não merece prosperar.
+    O entendimento adotado pelo acórdão recorrido está em consonância com a jurisprudência dominante desta Corte, no sentido de constituir ingerência na esfera do Poder Executivo a edição de normas afetas à matéria orçamentária por iniciativa do Poder Legislativo. Nesse sentido, os seguintes precedentes, in verbis:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PARÁGRAFO ÚNICO DO ARTIGO 12 DA LEI 10789 DO ESTADO DE SANTA CATARINA. EMENDA PARLAMENTAR EM PROJETO DE LEI DE INICIATIVA RESERVADA. COMPETÊNCIA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. AUMENTO DE DESPESA. AUSÊNCIA DE PREVISÃO ORÇAMENTÁRIA.
+    1. Criação de gratificação - Pró-labore de Êxito Fiscal. Incorre em vício de inconstitucionalidade formal (CF, artigos 61, § 1º, II, “a” e “c” e 63, I) a norma jurídica decorrente de emenda parlamentar em projeto de lei de iniciativa reservada ao Chefe do Poder Executivo, de que resulte aumento de despesa. Parâmetro de observância cogente pelos Estados da Federação, à luz do princípio da simetria. Precedentes.
+    2. Ausência de prévia dotação orçamentária para o pagamento do benefício instituído pela norma impugnada. Violação ao artigo 169 da Constituição Federal, com a redação que lhe foi conferida pela Emenda Constitucional 19/98.Ação direta de inconstitucionalidade julgada procedente.” (ADI nº 2079, Relator (a): Ministro Maurício Corrêa, Tribunal Pleno, DJ de 18/06/2004)
+    “Ação Direta de Inconstitucionalidade. 2. Lei estadual de fixação de política salarial da administração pública. 3. Vício de Iniciativa. 4. Competência legislativa privativa do Chefe do Poder Executivo. 5. Precedentes. 6. Ação julgada procedente.”
+(ADI 2801, Relator(a): Ministro Gilmar Mendes, Tribunal Pleno, DJ de 05/06/2009)
+    Ademais, adoto como razão de decidir os fundamentos do bem lançado parecer ministerial (fl. 323):
+    “Nesse contexto, a atividade normativa é a essência do Poder Legislativo. Entretanto, na sinergia entre os Poderes, a competência é partilhada com o Executivo, através do exercício do veto e, também, da reserva de iniciativa na deflagração do processo legislativo nos casos especificados (artigo 61, § 1º, da Constituição Federal).
+    Firmada a premissa, qualquer norma legal que trate das matérias de iniciativa exclusiva do Chefe do Poder Executivo, espalhando interesses preponderantes da Administração, não pode ser objeto de iniciativa da Câmara Municipal.
+    Na espécie, todavia, a norma impugnada, não tendo sido proposto pelo Executivo, contém dispositivos que representam verdadeira ingerência em suas atividades, com afronta ao princípio da separação de poderes”.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 12 de maio de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
