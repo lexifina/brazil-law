@@ -1,0 +1,39 @@
+Trata-se de reclamação, com pedido de medida liminar, proposta por Caixa de Previdência dos Funcionários do Banco do Brasil – PREVI, contra acórdão prolatado pelo Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro nos autos do Agravo Regimental em Recurso Extraordinário Cível 0298535-94.2008.8.19.0001, que teria usurpado competência desta Corte.
+    A reclamante noticia que, após a ação ter sido julgada improcedente pelo Juízo de 1º Grau, os autores, ora interessados, interpuseram apelação, que foi provida para determinar a reforma da sentença.
+    Contra esse aresto, a ora reclamante opôs embargos de declaração, que restaram rejeitados. Em seguida, interpôs recurso extraordinário, que foi automaticamente inadmitido, com base no art. 543-B, § 2º, do CPC, em razão do reconhecimento, por esta Corte, da inexistência de repercussão da matéria versada no RE 590.005-RG/RS, Rel. Min. Cezar Peluso.
+    Inconformada com essa decisão, a reclamante interpôs agravo regimental, ao qual a Corte Especial do Tribunal de Justiça do Estado do Rio de Janeiro negou provimento.
+    Irresignada, sustenta, em suma, que,
+    “em função da sistemática da Repercussão Geral, interposto Agravo Regimental em face de Despacho Denegatório de Tribunal Local, cabe reclamação ao STF, já que a competência final para apreciar o Recurso Extraordinário é dos Ministros desta Egrégia Corte Suprema” (página 6 do documento eletrônico 2).
+    Pugna, ao final, pela concessão da medida liminar para suspender a decisão ora contestada. No mérito, requer a procedência desta reclamação para cassar o aresto reclamado, determinando-se a remessa do recurso extraordinário a esta Corte.
+    Foram prestadas informações pela 3ª Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro.
+    É o relatório necessário. Decido.
+    Bem examinados os autos, constato, de plano, a manifesta inadmissibilidade da reclamação.
+    O Supremo Tribunal Federal já se pronunciou, em mais de uma oportunidade, pelo não cabimento da reclamação ajuizada com o específico propósito de corrigir eventuais equívocos na aplicação, pelos Tribunais, do instituto da repercussão geral. Asseverou o Plenário, no julgamento da Rcl 7.569/SP, Rel. Min. Ellen Gracie, e do AI 760.358-QO/SE, Rel. Min. Gilmar Mendes, que a correção de possíveis desacertos deve ser realizada pelo próprio Tribunal de origem, “seja em juízo de retratação, seja por decisão colegiada”, já que “não está exercendo competência do STF, mas atribuição própria” (grifei). Os acórdãos portam as seguintes ementas, respectivamente:
+    “RECLAMAÇÃO. SUPOSTA APLICAÇÃO INDEVIDA PELA PRESIDÊNCIA DO TRIBUNAL DE ORIGEM DO INSTITUTO DA REPERCUSSÃO GERAL. DECISÃO PROFERIDA PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RECURSO EXTRAORDINÁRIO 576.336-RG/RO. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL E DE AFRONTA À SÚMULA STF 727. INOCORRÊNCIA.
+    1. Se não houve juízo de admissibilidade do recurso extraordinário, não é cabível a interposição do agravo de instrumento previsto no art. 544 do Código de Processo Civil, razão pela qual não há que falar em afronta à Súmula STF 727.
+    2. O Plenário desta Corte decidiu, no julgamento da Ação Cautelar 2.177-MC-QO/PE, que a jurisdição do Supremo Tribunal Federal somente se inicia com a manutenção, pelo Tribunal de origem, de decisão contrária ao entendimento firmado no julgamento da repercussão geral, nos termos do § 4º do art. 543-B do Código de Processo Civil.
+    3. Fora dessa específica hipótese não há previsão legal de cabimento de recurso ou de outro remédio processual para o Supremo Tribunal Federal.
+    4. Inteligência dos arts. 543-B do Código de Processo Civil e 328-A do Regimento Interno do Supremo Tribunal Federal.
+    5. Possibilidade de a parte que considerar equivocada a aplicação da repercussão geral interpor agravo interno perante o Tribunal de origem.
+    6. Oportunidade de correção, no próprio âmbito do Tribunal de origem, seja em juízo de retratação, seja por decisão colegiada, do eventual equívoco.
+    7. Não-conhecimento da presente reclamação e cassação da liminar anteriormente deferida.
+    8. Determinação de envio dos autos ao Tribunal de origem para seu processamento como agravo interno.
+    9. Autorização concedida à Secretaria desta Suprema Corte para proceder à baixa imediata desta Reclamação” (grifos meus).
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental.
+    1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral.
+    2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação.
+    3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida.
+    4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem” (grifos meus).
+    Esse posicionamento foi posteriormente ratificado, por exemplo, no julgamento dos seguintes feitos: Rcl 9.471-AgR/MG, Rel. Min. Gilmar Mendes; Rcl 9.155-AgR/SP, Rel. Min. Ayres Britto; Rcl 11.250-AgR/RS, de minha relatoria; Rcl 12.701-AgR/RJ, Rel. Min. Celso de Mello; e Rcl 7.578-AgR/SP, Rel. Min. Joaquim Barbosa. O dois últimos precedentes citados, firmados pelo Plenário desta Corte, possuem as seguintes ementas:
+    “RECLAMAÇÃO - DECISÃO QUE NEGA TRÂNSITO AO RECURSO EXTRAORDINÁRIO PORQUE NÃO RECONHECIDA A EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL NELE SUSCITADA - ALEGADA USURPAÇÃO DA COMPETÊNCIA DESTA SUPREMA CORTE - INOCORRÊNCIA - INADMISSIBILIDADE DO USO DA RECLAMAÇÃO COMO INSTRUMENTO DESTINADO A QUESTIONAR A APLICAÇÃO, PELO TRIBUNAL DE ORIGEM, DO SISTEMA DE REPERCUSSÃO GERAL - PRECEDENTES FIRMADOS PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (RCL 7.547/SP, REL. MIN. ELLEN GRACIE - RCL 7.569/SP, REL. MIN. ELLEN GRACIE - AI 760.358-QO/SE, REL. MIN. GILMAR MENDES) - INCOGNOSCIBILIDADE DA RECLAMAÇÃO RECONHECIDA PELA DECISÃO AGRAVADA - LEGITIMIDADE - CONSEQÜENTE EXTINÇÃO ANÔMALA DO PROCESSO DE RECLAMAÇÃO - RECURSO DE AGRAVO IMPROVIDO” (grifos meus).
+    “CONSTITUCIONAL. REPERCUSSÃO GERAL. RECLAMAÇÃO CONSTITUCIONAL. NÃO CABIMENTO DA RECLAMAÇÃO.
+    Não cabe reclamação constitucional para correção da alegada aplicação equivocada de precedente que firma inexistir repercussão geral da matéria constitucional.
+    Precedentes.
+    Agravo regimental conhecido, mas ao qual se nega provimento” (grifos meus).
+    Ressalto, ainda, que o recurso interposto pela ora reclamante, na origem, contra a decisão monocrática que considerou automaticamente não conhecido o recurso extraordinário em razão do reconhecimento, por esta Corte, da ausência de repercussão geral da matéria, foi o agravo interno, que foi devidamente apreciado pelo órgão colegiado competente.
+    Por fim, diante do pedido formulado pela reclamante, recordo que a jurisprudência desta Corte é firme no sentido de que a reclamação não pode ser utilizada como sucedâneo ou substitutivo de recurso, ajuizada diretamente no órgão máximo do Poder Judiciário.
+    Isso posto, nego seguimento a esta reclamação, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 13 de maio de 2014.
+Ministro Ricardo Lewandowski
+Relator
