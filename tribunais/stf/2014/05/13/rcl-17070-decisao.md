@@ -1,0 +1,14 @@
+Decisão: Cuida-se de reclamação, com pedido de medida liminar, ajuizada em face da União por suposta afronta à decisão proferida pelo Supremo Tribunal Federal no Mandado de Segurança n° 31.717.
+    Narra a Reclamante que impetrou o aludido mandado de segurança objetivando a desconstituição de decisão prolatada pelo Tribunal de Contas da União, que determinou a supressão de vantagens que lhes foram conferidas, através do Poder Judiciário, com sentença transitada em julgado, referentes aos denominados planos econômicos, nos patamares, respectivamente, de 84,32%, sob o argumento de que tais vantagens teriam sido absorvidas por outros reajustas concedidos pelo Poder Executivo.
+    Aduz que, no interregno entre a impetração do Mandado de Segurança e a concessão da liminar, sobreveio o ato administrativo que excluiu a incorporação dos vencimentos da impetrante e procedendo a cobrança, a título de reposição ao erário, com desconto de R$ 1.159,50 (hum mil cento e cinquenta e nove reais e cinquenta centavos) mensal. Contudo, a segurança teria sido concedida parcialmente no MS nº 31.717 determinando o impedimento de devolução da quantia recebida a maior a título de 84,32%, ficando preservada a supressão da parcela.
+    Ocorre que, segundo noticia a Reclamante, apesar de regularmente intimada, a União Federal não teria cumprido a decisão e continuaria descontando a quantia de R$ 1.159,50 a título de reposição ao erário. Ao final, requer que a Ré se abstenha de cumprir a decisão administrativa do Tribunal de Contas da União, mantendo-se o cumprimento da decisão transitada em julgado, suspendendo os descontos indevidos nos vencimentos da Autora.
+    Em suas informações, a União noticia que a decisão proferida no MS 31.717 já fora cumprida, “consoante comprova o Ofício n° 017112014/DIGEP/SAMF-AC e os demais documentos anexos, encaminhados pela Superintendência de Administração do Ministério da Fazenda no Acre, os quais demonstram a cessação dos descontos a título de reposição ao erário”. Ao final, requer a extinção do feito sem resolução do mérito, nos termos do art. 267, VI, do CPC.
+    A Reclamante foi intimada para se manifestar a respeito das informações prestadas pela União e quedou-se inerte.
+    É o relatório. Decido.
+    Do acervo probatório dos autos, extrai-se a informação ofertada pela União de que a decisão judicial proferida no Mandado de Segurança nº 31.717 já fora cumprida. Tal registro não foi contestado pela Reclamante que se quedou inerte após ter sido intimada, o que corrobora a exatidão da notícia ventilada pela Ré.
+    Ex positis, julgo extinto o processo sem resolução do mérito, nos termos do art. 267, VI, do CPC, por perda superveniente do objeto, decorrente do cumprimento espontâneo da decisão judicial que se pretende ver cumprida por meio desta ação.
+    Publique-se.
+    Brasília, 13 de maio de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
