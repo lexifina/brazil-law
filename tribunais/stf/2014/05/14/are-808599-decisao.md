@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL CIVIL. ATO ILÍCITO. RESPONSABILIDADE. PENHORA. BEM DE FAMÍLIA. DÉBITO DE NATUREZA ALIMENTAR.  INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. SÚMULA 279/STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O bem de família, quando sub judice a controvérsia sobre sua caracterização, revela uma violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional o que torna inadmissível o recurso extraordinário.
+2. A Súmula 279/STF dispõe: “Para simples reexame de prova não cabe recurso extraordinário”.
+3. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. Precedente: AI 629.134-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, Dje de 8/11/2011.
+4. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+5. In casu, o acórdão recorrido assentou: “AGRAVO DE INSTRUMENTO. PENHORA. BEM DE FAMÍLIA. DÉBITO DE NATUREZA ALIMENTAR. ATO ILÍCITO. INTELIGÊNCIA DO INC. III, DO ART. 3º, DA LEI 8009/90. EXCEÇÃO A IMPENHORABILIDADE.”
+6. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por SÉRGIO LUIZ DE MORAES, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “EMBARGOS DO DEVEDOR – BEM DE FAMÍLIA – AUSÊNCIA DE PROVA – PENHORA MANTIDA. Não demonstrado que o imóvel penhorado se enquadra na proteção prevista no artigo 1º da Lei 8.009/90, mantém-se a penhora sobre ele incidente.”
+    Opostos embargos de declaração, foram eles rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos arts. 1º, III, 5º, XXII, 6º, caput, e 226 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que não houve prequestionamento da questão constitucional arguida em sede de apelo extremo.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Quanto ao mérito, razão não assiste ao agravante.
+    Verifica-se que a controvérsia foi decidida à luz de normas infraconstitucionais. Ora, a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário.
+    Demais disso, não se revela cognoscível, em sede de Recurso Extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito e, portanto, não servil ao exame de questões que demandam o revolvimento do arcabouço fático-probatório dos autos, face ao óbice erigido pela Súmula 279/STF de seguinte teor, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido, AI 629.134-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 8/11/2011, o qual possui a seguinte ementa:
+    “Agravo regimental no agravo de instrumento. Prequestionamento. Ausência. Bem de família. Caracterização. Lei nº 8.009/90. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Os dispositivos constitucionais tidos como violados não foram examinados pelo Tribunal de origem. Incidência das Súmulas nºs 282 e 356 desta Corte. 2. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 14 de maio de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
