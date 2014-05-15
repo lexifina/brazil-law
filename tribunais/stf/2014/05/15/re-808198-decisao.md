@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas que manteve decisão interlocutória concessiva de antecipação dos efeitos da tutela que, no que importa ao recurso, determinou o depósito judicial de verbas anteriores a antecipação por se tratar de valor com natureza alimentícia.
+    No recurso extraordinário, interposto com base no art. 102, III, a , da Constituição Federal, aponta-se violação ao artigo 100, sob a alegação de que (a) “em caso de eventual procedência de ação condenatória contra a Fazenda Pública, os valores referentes a parcelas retroativas serão pagas apenas após o trânsito em julgado da decisão” (fl. 128) e (b) é necessária a observância do regime constitucional dos precatórios.
+    Sem contrarrazões.
+    2. É pacífico na jurisprudência do STF o entendimento de que se submetem ao regime dos precatórios, regulado pelo art. 100 da CF/1988, seja na redação originária ou na dada pela EC 62/2009, independentemente da natureza jurídica da verba executada, os pagamentos devidos pela Fazenda Pública em virtude de decisão judicial, exigindo-se, previamente, o trânsito em julgado da decisão condenatória. Nesse sentido: RE 167.051, rel. Min. Ilmar Galvão, Primeira Turma, DJ de 08.10.1993; RE 181.445, rel. Min. Moreira Alves, Primeira Turma, DJ de 08.03.1996; RE 199.373, rel. Min. Maurício Corrêa, Segunda Turma, DJ de 06.06.1997; RE 602.184 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe de 09.03.2012; STA 90 AgR, rel. Min. Presidente Ellen Gracie, Tribunal Pleno, DJ de 26.10.2007, este último assim ementado:
+    AGRAVO REGIMENTAL. SUSPENSÃO DE TUTELA ANTECIPADA. DETERMINAÇÃO DE PAGAMENTO IMEDIATO DE VALORES RECONHECIDOS JUDICIALMENTE. OCORRÊNCIA DE GRAVE LESÃO À ORDEM PÚBLICA. VIOLAÇÃO AO ART. 100 DA CONSTITUIÇÃO DA REPÚBLICA E AO ART. 2º-B DA LEI 9.494/97. NECESSIDADE DE SUBMISSÃO AO REGIME CONSTITUCIONAL DOS PRECATÓRIOS.
+    (...)
+    2. A tutela jurisdicional pretendida pelo agravante, consubstanciada no pagamento antecipado dos valores reconhecidos judicialmente só pode ser efetivada após o trânsito em julgado da ação sob o procedimento ordinário ajuizada na origem.
+    3. A jurisprudência do Supremo Tribunal Federal, ao interpretar o disposto no caput do art. 100 da Constituição da República, firmou-se no sentido de submeter, mesmo as prestações de caráter alimentar, ao regime constitucional dos precatórios, ainda que reconhecendo a possibilidade jurídica de se estabelecerem duas ordens distintas de precatórios, com preferência absoluta dos créditos de natureza alimentícia (ordem especial) sobre aqueles de caráter meramente comum (ordem geral). Precedentes.
+    4. Agravo regimental improvido.
+    Com base nessa compreensão, editou-se a Súmula 655, nos seguintes termos: “A exceção prevista no art. 100, caput, da Constituição, em favor dos créditos de natureza alimentícia, não dispensa a expedição de precatório, limitando-se a isentá-los da observância da ordem cronológica dos precatórios decorrentes de condenações de outra natureza.”.
+    Registre-se, ainda, que a superveniência da EC 62/2009 não alterou o entendimento desta Corte na específica questão constitucional objeto do recurso extraordinário.
+    3. Assim, por estar em desacordo com o entendimento jurisprudencial acima demonstrado, impõe-se o provimento do recurso para afastar a determinação de depósito judicial de verbas pretéritas sem a devida observância do regime dos precatórios.
+    4. Diante do exposto, com base no art. 557, §1º-A, do CPC, dou provimento ao recurso extraordinário na forma da fundamentação.
+    Publique-se. Intime-se.
+    Brasília, 15 de maio de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
