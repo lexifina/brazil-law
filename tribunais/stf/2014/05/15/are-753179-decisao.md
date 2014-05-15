@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado, na parte que interessa:
+    “SUPLEMENTAÇÃO DE APOSENTADORIA – Demanda ajuizada com vistas a compelir patrocinadora a comunicar revisão salarial obtida por ex-empregado em reclamação trabalhista manejada após demissão, com decisão transitada em julgado, bem como recolher as contribuições de sua responsabilidade daí decorrentes, além de pagamento de indenização por danos materiais e morais (...)”. (eDOC 5, p. 91)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, sustenta-se ofensa ao artigo 202, § 2º, do texto constitucional.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Verifico que o acórdão recorrido decidiu a controvérsia com fundamento no Regulamento do Plano de Suplementação de Aposentadoria e Pensão - PSAP/ Metropolitana. Para entender de forma diversa, é imprescindível a análise do regulamento aplicável à espécie, providência vedada em sede de recurso extraordinário, nos termos do Enunciado 454 da Súmula do STF.
+    Nesse sentido, a jurisprudência de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. CONTRATO DE PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE APOSENTADORIA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INTERPRETAÇÃO DE NORMAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 280 E 454 DO STF. 1. A suplementação de aposentadoria decorrente de plano de previdência privada, quando sub judice a controvérsia, demanda análise de norma infraconstitucional local, bem como a interpretação do regulamento da entidade, o que atrai a incidência das Súmulas 280 e 454 desta Corte. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional local, torna inadmissível o recurso extraordinário nos termos da Súmula 280 do STF. 3. A interpretação de cláusulas contratuais não viabiliza o recurso extraordinário, a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal, verbis: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. 4. In casu, o acórdão originariamente recorrido assentou: “Apelação - suplementação de aposentadoria - pagamento cessado - impossibilidade de cumulação com a complementação de aposentadoria dada pela Lei Estadual nº 4.819/58 - mesma natureza jurídica - sentença mantida. Recurso improvido”. 5. Agravo regimental DESPROVIDO”. (ARE 695.325-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 18.3.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. 1. Sentença proferida pela Justiça Trabalhista em 19.8.2005. Modulação dos efeitos aplicada à espécie. Competência da Justiça do Trabalho. 2. Reexame de leis estaduais e de cláusulas contratuais: Súmulas n. 280 e 454 do Supremo Tribunal Federal. 3. Agravo regimental ao qual se nega provimento”. (ARE 664.799-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 2.4.2013)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 15 de maio de 2014.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
