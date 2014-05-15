@@ -1,0 +1,27 @@
+Decisão: Trata-se de reclamação constitucional proposta por Gildázio Luiz dos Santos contra ato do Ministro-Presidente do Superior Tribunal Militar, que teria descumprido parcialmente a decisão proferida pelo STF nos autos do HC 95.471/MS.
+    Na espécie, o reclamante, sargento da marinha, foi denunciado pelo Ministério Público Militar pela prática dos crimes previstos no art. 233 (atentado violento ao pudor) c/c o inciso I, art. 236 (presunção de violência) e art. 234 (corrupção de menores) c/c o art. 30, II, parágrafo único (crime tentado), do CPM.
+    Em primeira instância, o Conselho Permanente de Justiça da Auditoria da 9ª Circunscrição de Justiça Militar absolveu o réu.
+    Irresignado, o Parquet interpôs recurso de apelação (2006.01.050360-9/MS), ao qual foi dado provimento pelo Superior Tribunal Militar, que reformando a sentença absolutória, condenou o réu à pena de 4 anos de reclusão, em regime aberto, e à pena acessória de exclusão das Forças Armadas, pela prática dos crimes previstos no art. 233, c/c o art. 236, I, do Código Penal Militar.
+    O STM encaminhou ofício à Diretoria de Pessoal Militar da Marinha informando o trânsito em julgado da condenação, a qual, em observância à referida decisão, licenciou o militar a bem da disciplina.
+    A defesa então impetrou o Habeas Corpus n. 95.471/MS perante o STF, que concedeu a ordem para anular todo o processo desde a denúncia, tendo em vista a incompetência da Justiça Militar para processar o feito.
+    Em virtude da concessão da ordem, a defesa protocolou petição dirigida ao Ministro-Presidente do STM, requerendo que fosse novamente oficiado ao Comando da Marinha, determinando-se a reintegração do reclamante ao serviço ativo da Marinha, em razão da anulação do julgado.
+    Entretanto, a referida autoridade devolveu a petição ao advogado, ao fundamento de que não seria a autoridade competente para tanto, motivo pelo qual deveria recorrer diretamente à Diretoria de Pessoal Militar da Marinha.
+    Daí a presente reclamação, na qual se alega que, apesar da anulação de todo o processo penal, a pena acessória de exclusão das Forças Armadas ainda não teria sido anulada.
+    Por fim, requer-se:
+    “Seja acolhida a presente reclamação para determinar que o Superior Tribunal Militar, através de seu Ministro-Presidente cumpra, integralmente, a decisão proferida no HC nº 95.741/MS, tornando sem efeito a pena acessória de exclusão das Forças Armadas imposta ao reclamante”.
+    A autoridade reclamada apresentou informações, aduzindo que seria pertinente tornar sem efeito a pena acessória de exclusão das Forças Armadas imposta ao reclamante (eDOC 12).
+    Decido.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (art. 52, parágrafo único, RISTF).
+    No caso, o reclamante alega que a autoridade reclamada não respeitou a autoridade da decisão proferida pelo STF nos autos do HC n. 95.471/MS, uma vez que, apesar da anulação de toda a ação penal, a pena acessória de exclusão das Forças Armadas ainda não foi anulada.
+    Na hipótese, o reclamante foi excluído das Forças Armadas pelo Diretor de Pessoal Militar da Marinha após a comunicação do trânsito em julgado da condenação penal pelo Superior Tribunal Militar. Confira-se:
+    “O DIRETOR DO PESSOAL MILITAR DA MARINHA, no uso das atribuições que lhe confere (…) e com decisão do Superior Tribunal Militar, proferida nos autos do Embargos de Declaração n. 2007.01.050360-8 e da Apelação n. 2006.01.050360-9, referente ao Processo n., 24/05-7, que tramitou na Auditoria da 9ª CJM, resolve: N. 1.401
+    Art. 1º Excluir do Serviço ativo da Marinha, a Bem da Disciplina, a partir de 18 de junho de 2007, o 1º SG-AM 85.3425.99 GILDÁZIO LUIZ DOS SANTOS, por ter sido condenado à pena definitiva de quatro anos de reclusão, como incurso no art. 233, c/c art. 236, inciso I, com a pena acessória de Exclusão das Forças Armadas, nos termo do art. 102, tudo do CPM, (...)
+    Após o licenciamento, esta Corte concedeu a ordem nos autos do HC 95.471/MS, para anular toda ação penal instaurada em desfavor do ora reclamante desde a denúncia. Confira-se a ementa:
+    “Habeas Corpus. 2. Atentado violento ao pudor praticado por Sargento da Marinha. Condenação. Pena acessória de exclusão das Forças Armadas. 3. Casa do Abrigo do Marinheiro de Ladário (CAMALA). Associação civil de direito privado. Lugar não sujeito à administração militar. 4. Aulas de karatê para garotos. Atividade estranha à função militar. 5. Ordem concedida para invalidar a ação penal instaurada em desfavor do paciente perante a Justiça Militar da União, desde a denúncia. Ressalvada a possibilidade de renovação da persecutio criminis perante o órgão judiciário competente da Justiça Comum, desde que não consumada a prescrição da pretensão punitiva. 6. Baixa independente da publicação do acórdão”.
+    Nesses termos, tendo em vista que o STF anulou toda a ação penal, é necessária a anulação da pena acessória de exclusão do reclamante das Forças Armadas para garantia plena da autoridade de sua decisão.
+    Ante o exposto, dou provimento à reclamação para determinar à autoridade reclamada que cumpra integralmente o decidido pelo STF no autos do HC 95.471, tomando todas as providências necessárias para que seja tornada sem efeito a pena acessória de exclusão do reclamante das Forças Armadas.
+    Publique-se.
+    Brasília, 15 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
