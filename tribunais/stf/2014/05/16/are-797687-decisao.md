@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado de Goiás.
+    Opostos embargos de declaração, foram rejeitados.
+    Alega-se, no apelo extremo, violação dos artigos 30, inciso I, e 39, §1º, incisos I e II, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se, por oportuno, que adotar entendimento diverso do esposado pelo acórdão vergastado demandaria o reexame do quadro fático-probatório carreado aos autos e da legislação infraconstitucional aplicável à espécie, o que não se mostra cabível em sede de recurso extraordinário. Incidência, na espécie, das Súmulas 279 e 280 desta Corte. Nesse sentido, anotem-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. DOENÇA GRAVE. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL E DE REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 800.343/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 24/9/10).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. PROVENTOS INTEGRAIS. MOLÉSTIA PROFISSIONAL. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. REEXAME DE PROVAS. SÚMULAS 279 E 280 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL IMPROVIDO. I – Rever o entendimento da Corte a quo implica, necessariamente, verificar normas infraconstitucionais locais, bem como o conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 280 do STF. II – Agravo regimental improvido” (ARE nº 655.749/MS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 13/12/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. PROVENTOS INTEGRAIS. CONTROVÉRSIA QUE DEMANDA O REEXAME DAS PROVAS QUE FUNDAMENTARAM A DECISÃO DO TRIBUNAL A QUO E DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 560.725/AM-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 08/5/09).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 16 de maio de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
