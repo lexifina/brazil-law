@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão da Quinta Turma Recursal dos Juizados Especiais do Estado da Bahia, assim ementado:
+    “RECURSO INOMINADO. CONTRATO DE MÚTUO. CAPITALIZAÇÃO DE JUROS. ABUSIVIDADE E ILEGALIDADE DA CONDUTA DO AGENTE FINANCEIRO. CLÁUSULAS CONTRATUAIS EXCESSIVAMENTE ONEROSAS. RECÁLCULO DO VALOR DA PRESTAÇÃO. NULIDADE DE PLENO DIREITO. PRINCÍPIOS DA EQUIDADE E BOA-FÉ. APLICAÇÃO DOS ARTS. 51 INC. IV E XV E 52 § 1º DO CDC. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.”
+    No recurso extraordinário sustenta-se violação dos artigos 102, § 2°, e 192, § 3°, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá quando não for o caso de inadmissibilidade do recurso por outra razão .
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o acórdão recorrido está amparado em legislação infraconstitucional e nas provas documentais dos autos, de reexame incabível em sede de recurso extraordinário. Incidência das Súmulas 279 e 636 desta Corte. A propósito:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. JUROS: APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E DO DECRETO N. 22.626/33. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 617.814/GO-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/12/2008).
+    “1. Recurso extraordinário: descabimento: controvérsia de natureza infraconstitucional (Código de Defesa do Consumidor), decidida com base em fatos e provas, de reexame vedado no recurso extraordinário: incidência, mutatis mutandis, das Súmula 636 e Súmula 279. 2. Alegações improcedentes de negativa de prestação jurisdicional ou de violação do art. 5º, XXXV e LV, da Constituição Federal” (AI nº 597.064/BA-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+    No mesmo sentido as seguintes decisões monocráticas: AI nº 821.596/MS, Relatora a Ministra Cármen Lúcia, DJe de 10/5/11; AI nº 791.802/MS, Relator o Ministro Ayres Brito, DJe de 27/9/10, e RE nº 611.227/MS, Relator o Ministro Eros Grau, DJe de 13/4/10.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 16 de maio de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
