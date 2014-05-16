@@ -1,0 +1,38 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PAGAMENTO DE ATRASADOS. JUROS MORATÓRIOS. PERCENTUAL DE 6% (SEIS POR CENTO) AO ANO. ARTIGO 1º-F DA LEI N. 9.494/97 REDAÇÃO DA MP N. 2.180-35/2001. APLICABILIDADE IMEDIATA. CONSTITUCIONALIDADE. AGRAVO PROVIDO. PRECEDENTES.
+1. O artigo 1º-F da Lei n. 9.494/97, na redação conferida pela Medida Provisória n. 2.180-35/01, é aplicável às ações ajuizadas em data anterior à vigência do texto normativo nele inserido. Precedentes: AI n. 842.063, Relator o Ministro Cezar Peluso, Pleno, DJe de 02.09.11; AI n. 754.077-AgR-AgR-AgR, Relator o Ministro Gilmar Mendes, 2ª Turma, DJe de 06.09.11; AI n. 791.897-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJe de 10.06.11; AI n. 828.778-AgR, Relatora a Ministra Cármen Lúcia, 1ª Turma, DJe de 04.03.11; AI n. 767.094-AgR, Relator o Ministro Ricardo Lewandowski, 1ª Turma, DJe de 01.02.11.
+2. In casu, o acórdão recorrido assentou: “ADMINISTRATIVO. SERVIDORES. CORREÇÃO MONETÁRIA. PAGAMENTOS EM ATRASO. ÍNDICES DO IPC. JUROS. HONORÁRIA. I - Segundo as disposições do art. 172, inciso V, do Código Civil, o prazo prescricional se interrompe por qualquer ato inequívoco, ainda que extrajudicial, que importe em reconhecimento do direito do credor. II - Em 09 de agosto de 1993, foi editada a Resolução Administrativa nº 104 pelo Egrégio Superior Tribunal de Justiça, reconhecendo a necessidade de atualizarem-se monetariamente os pagamentos de vantagens em atraso, interrompendo o prazo prescricional que retomou seu curso, a partir dessa data. Proposta a ação judicial, em 10/09/97, o pleito não está prescrito. III - A remuneração dos servidores públicos ou a diferença de vencimentos ou de vantagens, se pagos administrativamente, devem ser corrigidos desde quando originada a obrigação. IV - Cabível a atualização a partir do momento em que devidas as diferenças da remuneração. V - Os juros moratórios fluem a partir do evento danoso, no percentual de 1% ao mês. Precedentes do STJ. VI – Honorário deve ser fixada sobre o valor da condenação, nos termos do art. 20, § 3º do C.P.C.. VII – Recursos da União Federal e de Ofício improvidos.
+VIII – Apelo dos autores provido.”
+3. Agravo de instrumento PROVIDO.
+    Decisão: Trata-se de Agravo de Instrumento interposto pela UNIÃO, com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional contra acórdão prolatado pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 481):
+    “ADMINISTRATIVO. SERVIDORES. CORREÇÃO MONETÁRIA. PAGAMENTOS EM ATRASO. ÍNDICES DO IPC. JUROS. HONORÁRIA.
+    I - Segundo as disposições do art. 172, inciso V, do Código Civil,
+    o prazo prescricional se interrompe por qualquer ato inequívoco,
+    ainda que extrajudicial, que importe em reconhecimento do direito do credor.
+    II - Em 09 de agosto de 1993, foi editada a Resolução Administrativa nº 104 pelo Egrégio Superior Tribunal de Justiça, reconhecendo a necessidade de atualizarem-se monetariamente os pagamentos de vantagens em atraso, interrompendo o prazo prescricional que retomou seu curso, a partir dessa data. Proposta a ação judicial, em 10/09/97, o pleito não está prescrito.
+    III - A remuneração dos servidores públicos ou a diferença de vencimentos ou de vantagens, se pagos administrativamente, devem ser corrigidos desde quando originada a obrigação.
+    IV - Cabível a atualização a partir do momento em que devidas as diferenças da remuneração.
+    V - Os juros moratórios fluem a partir do evento danoso, no
+    percentual de 1% ao mês. Precedentes do STJ.
+    VI – Honorário deve ser fixada sobre o valor da condenação, nos
+    termos do art. 20, § 3º do C.P.C..
+    VII – Recursos da União Federal e de Ofício improvidos.
+    VIII – Apelo dos autores provido.”
+    Nas razões de apelo extremo, alega violação aos artigos 5º, II, e 37, caput, da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso merece provimento.
+    O Plenário desta Suprema Corte, no julgamento do AI n. 842.063, de Relatoria do Ministro Cezar Peluso, DJe de 2.9.2011, reconheceu a repercussão geral da questão constitucional suscitada e, no mérito, reafirmou a jurisprudência desta Corte no sentido de reconhecer a constitucionalidade da aplicação imediata do artigo 1º-F da Lei n. 9.494/97, na redação conferida pela Medida Provisória n. 2.180-35/01, às ações ajuizadas, inclusive, em data anterior à vigência do texto normativo nele inserido. O acórdão restou assim ementado:
+     “RECURSO. Agravo de instrumento convertido em Extraordinário. Art. 1º-F da Lei 9.494/97. Aplicação. Ações ajuizadas antes de sua vigência. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso provido. È compatível com a Constituição a aplicabilidade imediata do art. 1º-F da Lei 9.494/97, com alteração pela Medida Provisória nº 2.180-35/2001, ainda que em relação às ações ajuizadas antes de sua entrada em vigor”.
+    Ainda nesse sentido, os seguintes julgados, entre outros, de ambas as Turmas do STF:
+    “Agravo regimental. Juros de mora. 1. Constitucionalidade do Art. 1º-F da zLei n. 9.494/1997, inserido pela Medida Provisória n. 2.180-35/2001. Aplicação imediata. Precedentes: RE-AgR 479.408, de minha relatoria, Segunda Turma, DJe 7.3.2008 e AI-AgR 746.268, rel. Min. Cármen Lúcia, Primeira Turma, DJe 5.2.2010. 2. Inversão, neste ponto, dos ônus da sucumbência. 3. Agravo regimental a que se nega provimento.” (AI n. 754.077-AgR-AgR-AgR, Relator o Ministro Gilmar Mendes, 2ª Turma, DJe de 06.09.11).
+    “AGRAVO DE INSTRUMENTO – CONDENAÇÃO JUDICIAL – EXECUÇÃO CONTRA A FAZENDA PÚBLICA – VERBAS REMUNERATÓRIAS DEVIDAS A SERVIDORES E EMPREGADOS PÚBLICOS – LIMITAÇÃO DOS JUROS DE MORA EM 6% (SEIS POR CENTO) AO ANO – VALIDADE JURÍDICO-CONSTITUCIONAL DO ART. 1º-F DA LEI Nº 9.494/97, NA REDAÇÃO DADA PELA MP Nº 2.180-35/2001 – POSSIBILIDADE DE SUA APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO – ENTENDIMENTO PREVALECENTE NO STF – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO.” (AI n. 791.897-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJe de 10.06.11).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS MORATÓRIOS. CONSTITUCIONALIDADE DO ART. 1º-F DA LEI N. 9.494/1997. APLICAÇÃO IMEDIATA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI n. 828.778-AgR, Relatora a Ministra Cármen Lúcia, 1ª Turma, DJe de 04.03.11).
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS DE MORA. ART. 1º-F DA LEI 9.494/97 COM REDAÇÃO DA MP 2.180-35. CONSTITUCIONALIDADE. EFICÁCIA IMEDIATA. AGRAVO IMPROVIDO.
+    I – A norma do art. 1º-F, da Lei 9.494/97, modificada pela Medida Provisória 2.180-35/2001 é aplicável a processos em curso. Precedentes.
+    II – Aplica-se a MP 2.180-35/2001 aos processos em curso, porquanto lei de natureza processual, regida pelo princípio do tempus regit actum, de forma a alcançar os processos pendentes.
+    III – Agravo regimental improvido.” (AI n. 767.094-AgR, Relator o Ministro Ricardo Lewandowski, 1ª Turma, DJe de 01.02.11).
+    Ex positis, PROVEJO o agravo de instrumento, CONVERTO-O em recurso extraordinário, para desde logo, CONHECER e DAR PARCIAL PROVIMENTO ao recurso extraordinário (art. 557, § 1º-A, do CPC) para fixar os juros moratórios em 6% ao ano nos termos do art. 1º-F da Lei n. 9.494/97 (com redação conferida pela Medida Provisória n. 2.180-35/01). Honorários invertidos na proporção da sucumbência.
+    Publique-se.
+    Brasília, 16 de maio de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
