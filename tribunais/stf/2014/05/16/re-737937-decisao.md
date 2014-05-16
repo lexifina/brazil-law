@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. COFINS. BASE DE CÁLCULO. RECEITAS ORIUNDAS DE CONTRATO DE FRANQUIA. CONCEITO DE FATURAMENTO E RECEITA BRUTA. INCONSTITUCIONALIDADE DO ART. 3º, § 1º, DA LEI Nº 9.718/98. REPERCUSSÃO GERAL RECONHECIDA RE Nº 585.235-QO. REAFIRMAÇÃO DA JURISPRUDÊNCIA. ACÓRDÃO EM CONFORMIDADE COM O JULGADO DESTE TRIBUNAL.
+1. A redação do art. 195 da Carta Federal, anterior à EC 20/1998, consolidou-se no sentido de tomar as expressões “receita bruta” e “faturamento” como sinônimas. Precedentes: RE 585.235-QO-RG, Rel. Min. Cezar Peluso, Plenário, DJe de 28/11/2008, RE 390.840 e RE 357.950, Rel. Min. Marco Aurélio, Plenário, DJ de 15/8/2006.
+2. O conceito de receita bruta sujeita à incidência da COFINS envolve, não só aquela decorrente da venda de mercadorias e da prestação de serviços, mas também a soma das receitas oriundas do exercício de outras atividades empresariais. Precedentes: RE nº 585.235-QO-RG, Rel. Min. Cezar Peluso, Plenário, DJe de 28/11/2008, RE 444.601-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJ de 15/12/2006, AI 843.086-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 13/12/2011.
+3. In casu, o acórdão recorrido assentou: “TRIBUTÁRIO. AGRAVO LEGAL. PIS E COFINS. BASE DE CÁLCULO. CONTRATO DE FRANQUIA. NOVO CONCEITO DE FATURAMANTO. 1. Fazendo o contrato de franquia parte do próprio societário da empresa, de enorme relevância financeira para a parte autora, não há que se falar em sua exclusão do conceito de faturamento. 2. Sendo as receitas financeiras referentes a contratos de franquia intrínsecas à atividade comercial da empresa e elencadas em seu objeto social, há de se reconhecer a configuração de faturamento e, portanto, a incidência de contribuição PIS e COFINS sobre tal atividade”.
+4. Recurso DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário interposto por O Boticário Franchising S/A, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça da Paraíba, assim ementado:
+    “TRIBUTÁRIO. AGRAVO LEGAL. PIS E COFINS. BASE DE CÁLCULO. CONTRATO DE FRANQUIA. NOVO CONCEITO DE FATURAMANTO.
+    1. Fazendo o contrato de franquia parte do próprio societário da empresa, de enorme relevância financeira para a parte autora, não há que se falar em sua exclusão do conceito de faturamento.
+    2. Sendo as receitas financeiras referentes a contratos de franquia intrínsecas à atividade comercial da empresa e elencadas em seu objeto social, há de se reconhecer a configuração de faturamento e, portanto, a incidência de contribuição PIS e COFINS sobre tal atividade” (Volume 2 – Pasta: Acórdão/Decisão Monocrática em Agravo Regimental).
+    Os embargos de declaração foram acolhidos para fins de prequestionamento.
+    O recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao art. 195, I, b, da Constituição Federal, na redação anterior à edição da EC nº 20/98.
+    É o Relatório. DECIDO.
+    O recurso não prospera.
+    Discute-se, na espécie, a incidência de PIS/COFINS sobre receitas oriundas de contratos de franquia, à luz da definição de faturamento do art. 3º, § 1º, da Lei 9.718/1998.
+    O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia sub examine, em que se discute a ampliação da base de cálculo da COFINS, nos autos do RE nº 585.235-QO-RG, Rel. Min. Cezar Peluso, Plenário, Tema 110 DJe de 28/11/2008. A decisão restou assim ementada:
+    “RECURSO. Extraordinário. Tributo. Contribuição social. PIS. COFINS. Alargamento da base de cálculo. Art. 3º, § 1º, da Lei nº 9.718/98. Inconstitucionalidade. Precedentes do Plenário (RE nº 346.084/PR, Rel. orig. Min. ILMAR GALVÃO, DJ de 1º.9.2006; REs nos 357.950/RS, 358.273/RS e 390.840/MG, Rel. Min. MARCO AURÉLIO, DJ de 15.8.2006) Repercussão Geral do tema. Reconhecimento pelo Plenário. Recurso improvido. É inconstitucional a ampliação da base de cálculo do PIS e da COFINS prevista no art. 3º, § 1º, da Lei nº 9.718/98”.
+    O entendimento acerca do tema, com repercussão geral, restou reafirmado nos moldes da jurisprudência desta Corte, bem refletido no teor das ementas, cujo conteúdo transcreve-se e destaca-se no que guarda pertinência com o assunto:
+    “A jurisprudência do Supremo, ante a redação do art. 195 da Carta Federal anterior à EC 20/1998, consolidou-se no sentido de tomar as expressões receita bruta e faturamento como sinônimas, jungindo-as à venda de mercadorias, de serviços ou de mercadorias e serviços. É inconstitucional o § 1º do art. 3º da Lei 9.718/1998, no que ampliou o conceito de receita bruta para envolver a totalidade das receitas auferidas por pessoas jurídicas, independentemente da atividade por elas desenvolvida e da classificação contábil adotada" (RE 390.840 e RE 357.950, Rel. Min. Marco Aurélio, julgamento em 9-11-2005, Plenário, DJ de 15-8-2006).
+    "O conceito de receita bruta sujeita à incidência da COFINS envolve, não só aquela decorrente da venda de mercadorias e da prestação de serviços, mas também a soma das receitas oriundas do exercício de outras atividades empresariais" (RE 444.601-ED, Rel. Min. Cezar Peluso, julgamento em 7-11-2006, Segunda Turma, DJ de 15/12/2006.)
+    No mesmo sentido, AI 843.086-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJE de 13/12/2011.
+    O acórdão recorrido está em conformidade com esta orientação.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de maio de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
