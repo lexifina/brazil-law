@@ -1,0 +1,35 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MILITAR. ANISTIA POLÍTICA. ANULAÇÃO. DECADÊNCIA. INCIDÊNCIA DO ART. 54 DA LEI N. 9.784/1999. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra julgado do Superior Tribunal de Justiça:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL – MANDADO DE SEGURANÇA – ANISTIA POLÍTICA – ATO QUE ANULOU A CONCESSÃO DE ANISTIA - DECADÊNCIA - PRECEDENTE DA PRIMEIRA SEÇÃO.
+    1. A Primeira Seção, por ocasião do julgamento do MS 18.606/DF, firmou entendimento no sentido de reconhecer a ocorrência da decadência do direito de anulação da portaria concessiva de anistia, quando decorrer o prazo decadencial de cinco anos, previsto no art. 54, caput, da Lei 9.784/99, entre a Portaria que concedeu a anistia e a Portaria individual que a anulou.
+    2. A incidência do § 2º do art. 54 da Lei 9.784/99 requer ato administrativo editado por autoridade competente com a finalidade de efetivo controle de validade de outro ato administrativo.
+    3. Atos de conteúdo genérico não podem servir para interromper ou suspender o prazo decadencial, ou, ainda, servir de termo a quo de cientificação oficial da existência de processo de revisão dos direitos dos anistiados, sob pena de violação ao art. 66 da Lei 9.784/99.
+    4. Agravo regimental da União contra decisão concessiva da liminar prejudicado.
+    5. Mandado de segurança concedido” (doc. 22).
+    Os embargos de declaração opostos pela Recorrente foram rejeitados.
+    2. A Recorrente afirma que o Tribunal a quo teria contrariado os arts. 5º, incs. XXXV, LIV e LV, e 37, caput, da Constituição da República e o art. 8º do Ato das Disposições Constitucionais Transitórias.
+    Argumenta que
+    “a manutenção do decisum importa em violação às garantias constitucionais de acesso à jurisdição, devido processo jurídico e ampla defesa. Verifica-se, destarte, a reiteração da negativa de prequestionamento, que ora incide como óbice de acesso à via dos recursos extraordinários. Ademais da violação às normas legais de regência, tal situação atenta contra as normas contidas nos incisos XXXV, LIV e LV do artigo 5º da Constituição Federal.
+    (…)
+    Ora, é o que se deve ter no caso dos autos: afastamento do prazo decadencial do art. 54 da lei 9.784/99 por motivo de ato concedido ao arrepio da nossa lei Maior.
+    Isto porque, ao final e ao cabo do processo administrativo, a Administração Pública concluiu que o ato que anistiou o impetrante violou diretamente o art. 8ª dos Atos das Disposições Constitucionais Transitórias, sem citar os princípios insculpidos na cabeça do art. 37 da Lex Fundamentalis.
+    Se sobre a portaria de anistia em tela recai a pecha da inconstitucionalidade, de acordo com a jurisprudência do STF, a revisão de tal ato não se submete ao prazo do art. 54 da Lei 9.784/99.
+    (…)
+    Quanto ao ponto, cabe destacar a interpretação conferida à dita norma constitucional pelo Supremo Tribunal Federal (STF), órgão máximo a quem compete precipuamente a guarda da Constituição, no sentido de que a anistia prevista no art. 8º do ADCT não alcança os militares expulsos com base em legislação disciplinar ordinária, ainda que em razão de atos praticados por motivação política.
+    (…)
+    Ora, se o próprio STF reconhece que os atos de punição disciplinar com fundamento na legislação ordinária não podem servir de fundamento para a concessão de anistia, mesmo quando praticados por motivação política, que dirá nos casos em que sequer houve punição disciplinar, mas mero ato administrativo de licenciamento do militar das fileiras da Força Aérea Brasileira praticado em conformidade com a legislação de regência.
+    (…)
+    Fica claro, portanto, que os pareceres jurídicos das unidades consultivas da Advocacia-Geral da União devem, para os fins de obstar a decadência, ser considerados como ‘exercício do direito de anular’, conforme previsto no art. 54, §2º, da Lei 9.784/99.
+    Decorre daí, portanto, a existência de ato apto a interromper a decadência, bem como do dever da administração de anular o ato indubitavelmente viciado, vez que a anistia foi concedida em confronto com a lei e a constituição. Do contrário, restaria violado o princípio constitucional da legalidade, insculpido no art. 37 da Constituição Federal” (doc. 22).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal Federal, firme quanto à incidência do art. 54 da Lei n. 9.784/1999 em casos de anulação de ato de anistia política:
+    “EMENTA: AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. PORTARIA INTERMINISTERIAL 134/2011. INSTAURAÇÃO DO PROCEDIMENTO DE REVISÃO. POSSIBILIDADE. DECADÊNCIA ADMINISTRATIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO. I - A jurisprudência de ambas as Turmas do Supremo Tribunal Federal é no sentido da possibilidade de instauração, pela Administração Pública, do procedimento de revisão de anistia política, com fundamento na Portaria Interministerial 134/2011. II - O prazo de cinco anos previsto no art. 54 da Lei 9.784/1999 não diz respeito à revisão, mas sim à anulação dos atos administrativos de que decorram efeitos favoráveis para os destinatários, ressalvados os casos em que for comprovada a má-fé. III - Agravo a que se nega provimento” (RMS 31.498-AgR/DF, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 18.2.2014, grifos nossos).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ANULAÇÃO DE PORTARIAS CONCESSIVAS DE ANISTIA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O art. 54 da Lei n. 9.784/1999 não estabeleceu prazo decadencial de cinco anos para que a Administração revisse seus atos e sim para a anulação de atos administrativos dos quais decorressem efeitos favoráveis para os destinatários, salvo comprovada má-fé. 2. A possibilidade de revisão do benefício em questão não configura, por si só, situação de ilegalidade apta a justificar a impetração de mandado de segurança pelo anistiado político. 3. Precedentes: RMS 31.570-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, Dje de 04/10/2012; RMS 31.181-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, Dje de 17/4/2012; RMS 31.059-AgR, Rel. Min. Marco Aurélio, 1ª Turma, Dje de 30/5/2012; RMS 31.027-ED, Rel. Min. Dias Toffoli, 1ª Turma, DJe de 14/9/2012. 4. In casu, o acórdão recorrido assentou: (...) 6. Deveras, o agravante não conseguiu demonstrar qualquer violação a direito líquido e certo. 7. Agravo regimental a que se nega provimento” (RMS 31.045-AgR/DF, Relator o Ministro Luiz Fux, Primeira Turma, DJe 22.10.2013, grifos nossos).
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de maio de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
