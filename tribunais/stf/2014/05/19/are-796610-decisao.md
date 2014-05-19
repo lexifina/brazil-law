@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Jose Claudio Celerino da Silva interpõe agravo contra decisão (fls. 291/293) que não admitiu recurso extraordinário, assentado em contrariedade ao art. 2º da Constituição Federal.
+    Examinados os autos, decido.
+    Compulsando os autos, verifica-se que, concomitantemente ao apelo extremo, foi interposto recurso especial, admitido na origem e autuado como REsp nº 1.390.708/SP, o qual não foi conhecido, todavia, o Relator, Ministro Moura Ribeiro, concedeu habeas copus de ofício determinando a cassação do acórdão de 2º grau.
+    Transcrevo o teor daquela decisão, na parte que interessa:
+    “(...)
+    Em razão do não conhecimento do recurso aclaratório pela Corte Bandeirante, é intempestivo o presente reclamo.
+    Por outro lado, é de se conceder habeas corpus de ofício.
+    Consoante o art. 370, § 1º, do Código de Processo Penal, a intimação do defensor constituído, em ambas as instâncias, deve ser feita por meio de publicação oficial, a ser veiculada pelo órgão incumbido na publicidade dos atos judiciais da Comarca, in casu, o Diário da Justiça Eletrônico do Tribunal Bandeirante -, sob pena de nulidade absoluta. Assim, há determinação legal no sentido de que o Patrono do acusado, no exercício de seu mister, seja intimado da sessão de julgamento da apelação, sob pena de vício da decisão colegiada proferida.
+    No caso, o julgamento da apelação criminal nº 0001107-11.2007.8.26.0010 foi realizado em 17.9.2012, sem a intimação válida do advogado constituído, uma vez que o patrono do réu, Dr. Rubens Gomes de Oliveira -, já havia falecido à época em que intimado, conforme se vê da certidão fornecida pela OAB/SP, noticiando sua baixa dos quadros da referida entidade de classe aos 1º/2/2010 (fl. 263).
+    Assim, é de se aplicar o entendimento assentado neste Sodalício de que há nulidade por cerceamento de defesa, se a intimação da sessão de julgamento é realizada em nome de advogado falecido.
+    A propósito, confiram-se os julgados:
+    HABEAS CORPUS. PECULATO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA DO ESTADO. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. RECURSO DE APELAÇÃO CRIMINAL. ALEGAÇÃO DE NULIDADE POR FALTA DE INTIMAÇÃO DO DEFENSOR CONSTITUÍDO. INFORMAÇÕES DANDO CONTA DA INTIMAÇÃO POR MEIO DE DIÁRIO OFICIAL. ADVOGADO FALECIDO ANTES DA SESSÃO DE JULGAMENTO. PROCEDÊNCIA.
+    1. O pedido de reconhecimento da prescrição retroativa, nos moldes em que formulado na presente impetração, é inviável de ser apreciado em sede de habeas corpus, dada a estreiteza da via mandamental, que exige a configuração de constrangimento ilegal manifesto, hipótese inocorrente no caso, mormente porque as alegações trazidas pelo impetrante contrariam as premissas fáticas firmadas no acórdão impugnado, e qualquer providência no sentido de aferir a efetiva data do cometimento do delito, implicaria a necessária desconstituição de tais premissas, o que já seria inviável nesta instância especial.
+    2. Sendo a defesa patrocinada por advogado constituído, a intimação deve ser feita por meio da imprensa oficial, a teor do que dispõe o art. 392 do CPP. A intimação pessoal é prerrogativa deferida apenas a defensores públicos ou dativos.
+    3. No caso dos autos, segundo informações prestadas pela Corte estadual, o advogado constituído foi regularmente intimado por meio de publicação no Diário Oficial, não havendo falar em cerceamento de defesa.
+    4. Todavia, embora tenha havido a intimação do defensor constituído pelo paciente, para a realização do julgamento de seu recurso de apelação, tal intimação se revela inválida, haja vista o falecimento de seu patrono, na data de 26.7.2007, e a intimação para o julgamento da apelação criminal do paciente foi publicada em 15.5.2009, quase dois anos após o óbito do defensor constituído.
+    5. Impetração parcialmente conhecida, e nessa extensão, concedida a ordem de habeas corpus, para anular, em relação ao ora paciente, o acórdão proferido no recurso de apelação do qual se cuida, determinando que seja renovado o julgamento com a prévia e regular intimação do defensor constituído (HC 179.626/RJ, Rel. Ministro OG FERNANDES, Sexta Turma, DJe 1º/10/2012).
+    HABEAS CORPUS. PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. INTIMAÇÃO PARA A SESSÃO DE JULGAMENTO EM NOME DE ADVOGADO FALECIDO. CERCEAMENTO DE DEFESA. OCORRÊNCIA. NULIDADE ABSOLUTA. PREJUÍZO EFETIVO. ORDEM CONCEDIDA.
+    1. A ausência de intimação válida da defesa para a sessão de julgamento do recurso em sentido estrito acarreta nulidade absoluta, por falta de defesa técnica.
+    2. No caso em apreço, a intimação acerca da sessão de julgamento do recurso em sentido estrito, bem como de seu resultado, foi feita apenas em nome do único advogado constituído, falecido quase dois anos antes, consubstanciando efetivo prejuízo à defesa do paciente, mormente porque, desprovido o recurso, ficou mantida a decisão de pronúncia.
+    3. Habeas corpus concedido para anular o processo desde o julgamento do recurso em sentido estrito, devendo os novos patronos do paciente ser intimados da data da sessão de julgamento (HC 135.825/SP, Rel. Ministro ADILSON VIEIRA MACABU (Desembargador Convocado do TJ/RJ), Quinta Turma, DJe 2/8/2012).
+    A vista dos precedentes acima mencionados, concedo habeas corpus, de oficio, para que se declare nulo o acórdão prolatado pelo Tribunal a quo, a fim de que outra decisão seja proferida, procedendo-se à prévia intimação pessoal do defensor constituído por JOSÉ CLÁUDIO CELERINO DA SILVA para o novo julgamento do recurso de apelação interposto, em respeito ao disposto no art. 370, § 1º, do CPP.
+    Nestas condições, NÃO CONHEÇO do recurso especial, com fundamento no art. 557, caput, do Código de Processo Civil, e, acolhendo o parecer ministerial, CONCEDO HABEAS CORPUS DE OFÍCIO, nos termos do art. 370, § 1º, do Código de Processo Penal.” (grifos do autor).
+    Essa decisão transitou em julgado em 14/2/14, conforme a certidão de fl. 358.
+    Com efeito, a apreciação da pretensão formulada no recurso extraordinário encontra-se prejudicada, dada a perda superveniente de objeto.
+    Anote-se que a jurisprudência deste Supremo Tribunal é assente no sentido de que, nos casos como o presente, há o prejuízo do recurso extraordinário ou do respectivo agravo de instrumento interpostos. Nesse sentido as seguintes decisões monocráticas: AI nº 570.205/RS, Relator o Ministro Joaquim Barbosa, DJ de 16/508; AI nº 667.998/RJ, Relator o Ministro Gilmar Mendes, DJ de 25/4/08; e AI nº 627.834/SP, Relatora a Ministra Cármen Lúcia, DJ de 28/11/07, entre outras.
+    Ante o exposto, nos termos dos arts. 21, inciso IX, do RISTF, e 38 da Lei nº 8.038/90, julgo prejudicado o recurso.
+    Publique-se.
+    Brasília, 19 de maio de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
