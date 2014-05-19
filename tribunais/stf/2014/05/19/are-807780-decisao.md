@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO CRIMINAL. ART. 302, DA LEI Nº 9.503/97. CERCEAMENTO DE DEFESA EM RAZÃO DO INDEFERIMENTO DO PEDIDO DE REALIZAÇÃO DE NOVA PERÍCIA INOCORRÊNCIA LAUDO FEITO DENTRO DOS DITAMES LEGAIS - NÃO HÁ QUALQUER IRREGULARIDADE. MÉRITO - ABSOLVIÇÃO POR FALTA DE PROVAS IMPOSSIBILIDADE AUTORIA COMPROVADA - RÉU QUE AGIU COM IMPRUDÊNCIA NA CONDUÇÃO DO VEÍCULO EMPREGANDO VELOCIDADE EXCESSIVA E NÃO OBSERVANDO A SINALIZAÇÃO DO LOCAL. RECURSO DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 5º, LV, da Constituição Federal. Aduz que “a Meritíssima Juíza de primeiro grau e posteriormente a Egrégia 4ª Câmara ao negar o direito Constitucionalmente assegurado da ampla defesa indeferindo a produção de prova pericial, data máxima vênia, não julgaram com o costumeiro acerto”.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) incidem, no caso, as Súmulas 279 e 284/STF; (ii) “a apontada afronta à Constituição Federal é indireta ou reflexa”.
+    O recurso é inadmissível, tendo em vista que o Supremo Tribunal Federal assentou a ausência de repercussão geral da questão relativa à obrigatoriedade de observância das garantias constitucionais do processo ante o indeferimento, pelo juiz, de determinada diligência probatória. Nessa linha, veja-se a ementa do ARE 639.228 RG, Rel. Min. Cezar Peluso:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.”
+    Ademais, para se chegar a conclusão diversa do acórdão recorrido, necessária seria uma nova apreciação dos fatos e do material probatório constante dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/90 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 19 de maio 2014.
+Ministro Luís Roberto Barroso
+Relator
