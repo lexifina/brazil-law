@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ PREVIDENCIÁRIO. DIREITO ADQUIRIDO AO MELHOR BENEFÍCIO. RETROAÇÃO DO PERÓDO BÁSICO DE CÁLCULO. POSSIBILIDADE. INAPLICABILIDADE DO ART. 26 DA LEI Nº 8.870/94 AOS BENEFÍCIOS CONCEDIDOS ANTES DE 05/04/91.
+    1. O segurado tem direito adquirido ao cálculo do benefício de conformidade com as regras vigentes quando da reunião dos requisitos da aposentação independentemente de prévio requerimento administrativo para tanto. Precedentes do STF e do STJ.
+    2. Muito embora o art. 122 da Lei n. 8.213/91 tenha previsto a retroação do período básico de cálculo nos casos de aposentadoria integral (regra reproduzida nas normas regulamentadoras), é possível a extensão desse direito aos casos de concessão de aposentadoria proporcional, em face do princípio da isonomia e em respeito ao critério da garantia do benefício mais vantajoso, como, aliás, preceitua o Enunciado N.º 5 do próprio Conselho de Recursos da Previdência Social – CRPS: “A Previdência Social deve conceder o melhor benefício a que o segurado fizer jus, cabendo ao servidor orientá-lo nesse sentido”.
+    3. Os salários de contribuição que integrarão o novo período básico de cálculo (PBC) deverão ser atualizados até a data em que reconhecido o direito adquirido, apurando-se nessa data a renda mensal inicial (RMI), a qual deverá ser reajustada, nos mesmos meses e índices oficiais de reajustamento utilizados para os benefícios em manutenção, até a data do início do benefício – DIB. A data de início de pagamento (DIP) deverá coincidir com a DER.
+    4. Os critérios revisionais previstos no art. 26 da Lei nº 8.870/94 aplicam-se apenas aos benefícios com data de início entre 05 de abril de 1991 e 31 de dezembro de 1993. Precedentes do STJ e desta Corte.
+    5. Recíproca a sucumbência, ficam compensados entre si os honorários advocatícios, na forma do art. 21 do CPC”.
+    Opostos embargos declaratórios, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso XXXVI, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que para superar o entendimento firmado pelo órgão julgador de origem acerca da inaplicabilidade da norma do art. 26 da Lei nº 8.870/94 ao caso dos autos, seria necessário o reexame da legislação infraconstitucional pertinente, o que é incabível na via extraordinária. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. REVISÃO DO CÁLCULO DA RENDA MENSAL INICIAL - RMI. ÍNDICE DE CORREÇÃO MONETÁRIA. 1. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. 2. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 638.905/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 4/6/10).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. CÁLCULO DA RENDA MENSAL INICIAL. CORREÇÃO MONETÁRIA. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada neste momento processual. 2. Incide, à derradeira, a Súmula 283/ STF. 3. Agravo regimental desprovido” (RE nº 593.286/MG-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 26/9/11).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de maio de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
