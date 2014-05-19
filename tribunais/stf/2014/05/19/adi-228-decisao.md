@@ -1,0 +1,17 @@
+Decisão: Trata-se de Ação Direta de Inconstitucionalidade, proposta pelo Governador do Estado do Rio de Janeiro em face do art. 83 do Ato das Disposições Constitucionais Transitórias da Constituição estadual.
+    O requerente alega, em síntese, que o Poder Legislativo invadiu competência de órgão integrante do Executivo, violando o art. 2º da Constituição Federal. Aponta, ainda, que a norma impugnada ofendeu o art. 37, II, do texto constitucional.
+    A Advocacia-Geral da União manifestou-se pela extinção do processo, porque ausentes os requisitos de generalidade e abstração do ato impugnado. Superada a preliminar, pugna pela improcedência da ação (fls. 50-61).
+    O parecer da Procuradoria-Geral da República é pelo não conhecimento, argumentando que o dispositivo impugnado não pode ser atacado por meio de ação direta de inconstitucionalidade, porque visa a regular fatos determinados e concretos (fls. 63/66).
+    Decido.
+    A ação direta de inconstitucionalidade é meio eficaz para o controle de constitucionalidade de normas em abstrato, não se prestando ao controle de atos que têm objeto determinado e destinatários certos. Nesse sentido, a jurisprudência desta Corte considera inadmissível a propositura de ação direta, conforme se verifica dos seguintes precedentes: a ADI 647, Rel. Min. Min. Moreira Alves, Tribunal Pleno DJ de 27.3.1992; a ADI 842, Rel. Min. Celso de Mello, Tribunal Pleno DJ 14.5.1993; a ADI 767, Rel. Min. Min. Carlos Velloso, DJ de 18.6.1993.
+    Confira-se, também:
+    “Ação direta de inconstitucionalidade: inviabilidade: ato normativo de efeitos concretos. 1. O Decreto Legislativo 121/98, da Assembléia Legislativa do Estado do Piauí, impugnado, impõe a reintegração de servidores, que teriam aderido ao Programa de Incentivo ao Desligamento Voluntário do Servidor Público Estadual (L. est. 4.865/96). 2. O edito questionado, que, a pretexto de sustá-los, anula atos administrativos concretos - quais os que atingiram os servidores nominalmente relacionados - não é um ato normativo, mas ato que, não obstante de alcance plural, é tão concreto quanto aqueles que susta ou torna sem efeito. 3. É da jurisprudência do Supremo Tribunal que só constitui ato normativo idôneo a submeter-se ao controle abstrato da ação direta aquele dotado de um coeficiente mínimo de abstração ou, pelo menos, de generalidade. 4. Precedentes”. (ADI-MC-QO 1.937, Rel. Min. Sepúlveda Pertence, DJe 31.8.2007).
+    Registro, ainda, que o Tribunal Pleno adotou essa orientação em processo semelhante ao do presente caso:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. Lei federal nº 9.688/98. Servidor público. Cargo de censor federal. Extinção. Enquadramento dos ocupantes em cargos doutras carreiras. Norma de caráter ou efeito concreto exaurido. Impossibilidade de controle abstrato de constitucionalidade. Pedido não conhecido. Votos vencidos. Lei ou norma de caráter ou efeito concreto já exaurido não pode ser objeto de controle abstrato de constitucionalidade, em ação direta de inconstitucionalidade”. (ADI 2.980, Rel. Min. Marco Aurélio, Red. P/ acórdão Min. Cezar Peluso, Tribunal Pleno, DJe 6.8.2009).
+    Com essas considerações, acolho o parecer da douta Procuradoria-Geral da República como razão de decidir.
+    Ante o exposto, nego seguimento à presente ação direta de inconstitucionalidade, nos termos do art. 21, § 1º do RISTF c/c o art. 4º da Lei 9.868/99.
+    Publique-se.
+    Brasília, 19 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
