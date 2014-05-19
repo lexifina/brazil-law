@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Nacional de Uniformização dos Juizados Especiais Federais. Extrai-se da ementa o seguinte trecho conclusivo (fls. 177v):
+    “PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. UNIÃO FEDERAL. ALEGAÇÃO DE INCOMPETÊNCIA E DE ILEGITIMIDADE PASSIVA NA AÇÃO CUJA DISCUSSÃO VERSA SOBRE O DEVER DE FORNECER MEDICAMENTOS À POPULAÇÃO. PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL NÃO CONHECIDO. MATÉRIA SEDIMENTADA NA TURMA NACIONAL DE UNIFORMIZAÇÃO. PEDIDO CONHECIDO E DESPROVIDO.
+    (…)
+    3. Existência de responsabilidade solidária entre os entes federais no que tange à saúde.
+    4. Inexistência de norma constitucional que determine ser, isoladamente, de um ente federado o dever de fornecer medicamentos, com exclusão dos demais.
+    5. Precedentes do STJ - Superior Tribunal de Justiça que conduzem à conclusão de que o direito à saúde é subjetivo, desprovido de limites.
+    6. Conclusão de que o direito à saúde ostenta a qualificação de direito metaindividual, cujo conteúdo, além de ser social, é econômico.
+    (…).”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte sustenta a ocorrência de violação aos arts. 6º; 30, VII; 37; 97; 196; 197; 198, I; e 200, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que o acórdão recorrido está em conformidade com o entendimento do Supremo Tribunal Federal.
+    O recurso extraordinário não deve ser admitido. De início, ressalta-se que o acordão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal no sentido de que constitui obrigação solidária dos entes federativos o dever de fornecimento gratuito de tratamentos e de medicamentos necessários à saúde de pessoas hipossuficientes. Diante disso, é a União – assim como os Estados, os municípios e o Distrito Federal – parte legítima para figurar no polo passivo de ações voltadas a esse fim. Nessa linha, veja-se a ementa da SS 3.355-AgR, julgada sob a relatoria do Ministro Gilmar Mendes:
+    “Suspensão de Segurança. Agravo Regimental. Saúde pública. Direitos fundamentais sociais. Art. 196 da Constituição. Audiência Pública. Sistema Único de Saúde - SUS. Políticas públicas. Judicialização do direito à saúde. Separação de poderes. Parâmetros para solução judicial dos casos concretos que envolvem direito à saúde. Responsabilidade solidária dos entes da Federação em matéria de saúde. Fornecimento de medicamento: Zavesca (miglustat). Fármaco registrado na ANVISA. Não comprovação de grave lesão à ordem, à economia, à saúde e à segurança públicas. Possibilidade de ocorrência de dano inverso. Agravo regimental a que se nega provimento.”
+    Ademais, a jurisprudência consolidada desta Corte consagra que, apesar do caráter meramente programático atribuído ao art. 196 da Constituição Federal, o Estado não pode se eximir do dever de propiciar os meios necessários ao gozo do direito à saúde dos cidadãos. Nessa linha, veja-se trecho da ementa da decisão monocrática proferida pelo Ministro Celso de Mello, no RE 271.286:
+    “ - O direito à saúde - além de qualificar-se como direito fundamental que assiste a todas as pessoas representa conseqüência constitucional indissociável do direito à vida. O Poder Público, qualquer que seja a esfera institucional de sua atuação no plano da organização federativa brasileira, não pode mostrar-se indiferente ao problema da saúde da população, sob pena de incidir, ainda que por omissão, em censurável comportamento inconstitucional.
+    O direito público subjetivo à saúde traduz bem jurídico constitucionalmente tutelado, por cuja integridade deve velar, de maneira responsável, o Poder Público (federal, estadual ou municipal), a quem incumbe formular e implementar - políticas sociais e econômicas que visem a garantir a plena consecução dos objetivos proclamados no art. 196 da Constituição da República.”
+    No mesmo sentido: ARE 744.170-AgR, Rel. Min. Marco Aurélio, e AI 824.946-ED, Rel. Min. Dias Toffoli.
+    Por fim, a discussão dos autos não guarda similitude com a questão objeto do paradigma apontado (RE 566.471-RG, sob a relatoria do Ministro Marco Aurélio), tendo em vista que o acórdão recorrido não assentou que o fármaco ora pleiteado enquadra-se no conceito de medicamento de alto custo.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 19 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
