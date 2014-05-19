@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de embargos de declaração contra decisão que determinou (a) a retenção do recurso extraordinário, tendo em vista ter sido interposto em face de decisão interlocutória e (b) a aplicação da sistemática da repercussão geral relativa ao Tema 576, caso o recurso extraordinário venha a ser processado.
+    Sustenta a parte embargante, em síntese, que a decisão foi contraditória, pois o artigo 543-B do Código de Processo Civil determina o sobrestamento do recurso extraordinário, e não a sua retenção.
+    2. Não prospera a irresignação do embargante. De acordo com o estatuído no art. 535 do Código de Processo Civil, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada já havia enfrentado e decidido, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso. Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 535 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+    Inexiste a contradição apontada. A retenção do recurso é medida imperativa em face do art. 542, § 3º, do CPC. Seu processamento depende das condições indicadas nessa norma. Apenas nesse caso, futuro e incerto, haverá a ponderação do precedente submetido à sistemática da repercussão geral – ou sobrestando o apelo, à espera desse julgamento, ou aplicando o entendimento nele consubstanciado, se já concluída sua apreciação pelo Plenário do STF.
+    3. Diante do exposto, rejeito os embargos de declaração.
+    Publique-se. Intime-se.
+    Brasília, 19 de maio de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
