@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de liminar, em face de ato do Governo do Distrito Federal que teria contrariado decisão da Corte proferida no julgamento do MI 2.899-AgR/DF (de minha relatoria, Plenário, DJe de 20/05/2013).
+    Alegam os reclamantes, impetrantes do referido mandado de injunção, que, ante a negativa de apreciação dos pedidos de aposentadoria especial à luz do disposto nos arts. 57 e seguintes da Lei 8.213/91, o reclamado, conforme Ofício 434 da Procuradoria-Geral do Distrito Federal, estaria desrespeitando a autoridade da decisão proferida pela Corte.
+    A autoridade reclamada prestou informações. Aduz, em síntese, que não teria havido desrespeito ao decidido no julgamento do MI 2.899-AgR, pois o Ofício 434 da Procuradoria-Geral do Distrito Federal cuidaria apenas dos pedidos de conversão do tempo de serviço trabalhado em condições especiais para tempo de serviço comum, prática vedada pela jurisprudência do STF.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88). O caso, contudo, não revela ter havido desrespeito ao decidido pela Corte no julgamento do MI 2.899/DF.
+    Com efeito, o Ofício 434 da Procuradoria-Geral do Distrito Federal, que versa especificamente sobre a “suspensão das conversões de tempo de trabalho exercido sob condições especiais em tempo de trabalho exercido em atividade comum, bem como o deferimento de novas aposentadorias com esse acréscimo”, está em consonância com o decidido pela Corte no julgamento do MI 2.899/DF-AgR, no sentido de que “não se admite a conversão de períodos especiais em comuns, mas apenas a concessão da aposentadoria especial mediante a prova do exercício de atividades exercidas em condições nocivas”.
+    3. Diante do exposto, nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 20 de maio de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
