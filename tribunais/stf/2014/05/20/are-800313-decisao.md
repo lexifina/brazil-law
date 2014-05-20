@@ -1,0 +1,22 @@
+Trata-se de recurso extraordinário interposto pelo Instituto de Previdência do Estado do Rio Grande do Sul – IPERGS contra acórdão (págs. 32-69 do documento eletrônico 5) do Tribunal de Justiça daquela unidade federativa; e agravo interposto por Almir Osmar Lemos contra decisão que negou seguimento a recurso extraordinário interposto de acórdão (págs. 45-49 do documento eletrônico 7) de Turma do Superior Tribunal de Justiça.
+    Examino, de início, o agravo de decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do STJ, cuja ementa ficou assim redigida:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIÇOS NOTARIAIS E REGISTRAIS. VINCULAÇÃO DE TABELIÃES A REGIME PREVIDENCIÁRIO PRÓPRIO DOS SERVIDORES PÚBLICOS. IMPOSSIBILIDADE.
+    1. O Superior Tribunal de Justiça possui jurisprudência no sentido de que a equiparação dos notários e registradores a servidores públicos somente ocorreu na vigência da EC 20/1998 e somente para fins de incidência da regra de aposentadoria compulsória, não havendo direito adquirido à manutenção em regime de previdência próprio dos servidores públicos.
+    2. O precedente do STF não serve para demonstrar o dissídio jurisprudencial porque a matéria nele discutida foi interpretada pela Suprema Corte sob o prisma eminentemente constitucional, o que veda a apreciação pelo STJ, em Recurso Especial, sob pena de usurpação da competência do STF.
+    3. Agravo Regimental não provido” (Págs. 45- 49 do volume 7, grifos no original).
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação aos arts. 5º, XXXVI, § 2º e 3º, 6º, caput, 40, parágrafo único, e 236, todos da mesma Carta.
+    Compulsando os autos, verifico que a pretensão recursal não merece acolhida.
+    Isso porque o Plenário do Tribunal, no julgamento da ADI 2.791/PR, Rel. Min. Gilmar Mendes, declarou a inconstitucionalidade de artigo da Lei Estadual 12.398/98 do Estado do Paraná em face do entendimento pacificado nesta Corte no sentido de que o Estado-Membro não pode conceder aos serventuários da justiça aposentadoria em regime idêntico ao dos servidores públicos.
+    Na linha desse entendimento, por ocasião do julgamento da ADI 423/RS, Rel. Min. Gilmar Mendes, o pleno desta Corte entendeu que os escreventes juramentados não tem direito de opção ao regime jurídico dos servidores públicos civis.
+    Destaco do referido julgamento, trecho do voto-vista, no qual ficou consignado:
+    'Assim, à luz da legislação ora vigente, o escrevente juramentado trata a norma impugnada é auxiliar do ário ou do oficial de registro. Pode ser livremente contratado e, conseqüentemente, desligado de suas funções ao arbítrio do empregador, respeitados os limites e demais prerrogativas previstas na legislação trabalhista.
+      Não se trata, pois, de servidor público em sentido estrito, estatutário, regido pelas normas que tratam do exercício de serviço público. Portanto, com base no art. 20 da Lei no 8.935/94, a realização de concurso público para o preenchimento de cargos de escrevente juramentado é prescindível.
+      E exatamente por não haver a necessidade de realização de concurso público para o preenchimento dos referidos cargos é que não haveria, também com maior razão, justificativa para se possibilitar o direito de opção dos escreventes juramentados, identificados no art. 32 do ADCT da Constituição do Estado do Espírito Santo, pelo regime jurídico dos servidores públicos e civis do Poder Judiciário.
+      Por ser o escrevente um preposto, que exerce cargo de confiança do notário ou do tabelião, certamente não haveria como se justificar, nessas circunstâncias, tal direito de opção.'
+    Com esse raciocínio de que aos escreventes juramentados e demais serventuários de cartórios extrajudiciais não assiste o direito ao regime próprio dos servidores públicos, destaco os seguintes precedentes, nos quais se analisou situação análoga a estes autos: RE 565.936-AgR/SC, Rel. Min. Ellen Gracie; e AI 667.424-ED/SC, ARE 694.678/RS, ARE 700.142/RS, Rel. Min. Dias Toffoli.
+    No que toca ao recurso do IPERGS, tenho por prejudicado com o provimento do recurso especial e a consequente negativa de seguimento do agravo ora também examinado.
+    Isso posto, nego seguimento ao recurso interposto por Almir Osmar Lemos (art. 557, caput, do CPC) e julgo prejudicado o recurso extraordinário interposto pelo IPERGS (RISTF, art. 21, IX).
+    Brasília, 20 de maio de 2014.
+    Publique-se.
+Ministro Ricardo Lewandowski
+Relator
