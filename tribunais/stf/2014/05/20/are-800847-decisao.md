@@ -1,0 +1,8 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão que aderiu ao entendimento sumulado pela Turma de Uniformização dos Juizados Especiais Federais no sentido de que “Quando o segurado houver preenchido os requisitos legais para concessão da aposentadoria por tempo de serviço na data do requerimento administrativo, esta data será o termo inicial da concessão do benefício”.
+    No RE, fundado no art. 102, III, a e b, da Constituição, alegou-se, em suma, ofensa aos arts. 2º, 5º, caput, II, XXXV, LIV e LV, 37, 84, IV, 97, 105, III, 194, parágrafo único, 195, caput, § 5º, e 201 da Constituição da República e a Súmula Vinculante 10/STF, ao argumento de que o beneficiário não tem direito à revisão do benefício desde a data do requerimento, tendo em vista que somente em juízo teria comprovado seu direito, circunstância que gera um desequilíbrio financeiro e atuarial para o sistema previdenciário.
+    A pretensão recursal não merece acolhida. Conforme se infere da delimitação temática destes autos, a partir da leitura do acórdão recorrido, não se está perante violação direta à Constituição. A questão dos autos foi dirimida com fundamento na legislação infraconstitucional aplicável a espécie, sendo certo que eventual ofensa à Lei Maior seria meramente reflexa.
+    Por fim, o acórdão impugnado não declarou a inconstitucionalidade de lei federal ou tratado, o que afasta o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da Constituição.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Brasília, 20 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
