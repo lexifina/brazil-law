@@ -1,0 +1,20 @@
+DECISÃO
+MANDADO DE INJUNÇÃO. PROCESSUAL CIVIL. AJUIZAMENTO DE TRÊS AÇÕES IDÊNTICAS: LITISPENDÊNCIA. PRECEDENTES. MANDADO DE INJUNÇÃO EXTINTO SEM RESOLUÇÃO DO MÉRITO.
+Relatório
+    1. Laerte Rossi impetrou os Mandados de Injunção ns. 6.291, 6.298 e 6.299, em 11.4.2014 e 15.4.2014, contra pretensa omissão legislativa imputada ao Presidente da República, ao Presidente do Senado Federal e ao Presidente da Câmara dos Deputados, em regulamentar o art. 40, § 4º, inc. III, da Constituição da República.
+    2. O Impetrante, técnico de manutenção na Universidade Estadual de Maringá/PR, sustenta que “o Plenário desta Colenda Corte, ao apreciar pretensão judicial idêntica, não somente já reconheceu a mora dos impetrados na iniciativa de apresentação do projeto de lei, dispondo sobre a regulamentação do invocado § 4º, como, além disso, determinou a aplicação analógica do art. 57, § 1º, da Lei 8.213/91, com objetivo de suprir tal lacuna normativa [do art. 40, § 4º, inc. III, da Constituição]” (fl. 5, doc. 2).
+    Assevera que, “enquanto não editada a lei a que se refere o art. 40, § 4º, III, da Constituição, o parâmetro a ser utilizado é apenas a Lei 8.213/1991, não podendo ocorrer combinação de regimes, conforme decidiu este Tribunal por ocasião do julgamento do MI 758-ED/DF, Rel. Min. Marco Aurélio” (fls. 12-13, doc. 2).
+    Pede seja afastada a “omissão/mora legislativa de modo a suprir o ordenamento jurídico para que (…) determine o pronto exercício do direito subjetivo constitucional do impetrante, a ter o seu tempo de serviço exercido sob condições especiais, computado e averbado em seus assentos funcionais; por final se tornando, com isso, possível a concessão de sua aposentadoria especial na via administrativa, mediante a aplicação do regramento do Regime Geral da Previdência Social, em conformidade com o previsto nos arts. 57 e 58 da Lei 8.213/1991” (fls. 14-15).
+    3. Em 15.4.2014, a Seção de Recebimento e Distribuição de Originários do Supremo Tribunal Federal certificou “que o presente feito foi distribuído por prevenção ao(à) Exmo.(a) Sr.(a) Ministro(a) Cármen Lúcia, tendo em vista a vinculação com o(a) MI n. 6291” (doc. 8).
+    Em 20.5.2014, extingui o Mandado de Injunção n. 6.291, por perda superveniente do interesse jurídico do Impetrante nessa ação, pela edição da Súmula Vinculante n. 33 do Supremo Tribunal Federal.
+    Analisados os elementos havidos nos autos, DECIDO.
+    4. Como relatado, Laerte Rossi impetrou os Mandados de Injunção ns. 6.291, 6.298 e 6.299, em 11.4.2014 e 15.4.2014, contra pretensa omissão legislativa imputada ao Presidente da República, ao Presidente do Senado Federal e ao Presidente da Câmara dos Deputados, em regulamentar o art. 40, § 4º, inc. III, da Constituição da República.
+    As três ações têm as mesmas partes, a mesma causa de pedir e o mesmo pedido, o que faz incidir na espécie o instituto da litispendência, conforme o art. 301, § 3º, do Código de Processo Civil, que dispõe haver “litispendência, quando se repete ação, que está em curso”. Assim, por exemplo:
+    “A litispendência pressupõe o aforamento anterior de uma mesma lide, sem que tenha transitado em julgado decisão terminativa ou definitiva. Necessária, pois, a identidade dos feitos quanto às partes, à causa de pedir e o pedido, mediato e imediato” (RMS 24.789, Relator o Ministro Eros Grau, Primeira Turma, DJe 26.11.2004).
+    “LITISPENDÊNCIA CONFIGURADA EM FACE DA COEXISTÊNCIA, NAS DUAS AÇÕES, DA IDENTIDADE DE PESSOAS, PEDIDO E CAUSA DE PEDIR. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO” (RE 88.468, Relator o Ministro Soares Munoz, Primeira Turma, DJ 26.10.1979).
+    Por ser matéria de ordem pública, a litispendência pode ser declarada de ofício, com a consequente extinção deste mandado de injunção sem apreciação do mérito, nos termos do art. 267, inc. V, do Código de Processo Civil.
+    5. Pelo exposto, julgo extinto, sem resolução de mérito, o presente mandado de injunção (art. 267, incs. IV e V, do Código de Processo Civil c/c art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de maio de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
