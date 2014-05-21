@@ -1,0 +1,34 @@
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. INCORPORAÇÃO DE QUINTOS ANTES DO INGRESSO NA MAGISTRATURA. DIREITO NÃO RECONHECIDO. PRESERVAÇÃO DOS VALORES RECEBIDOS. PRINCÍPIO DA BOA-FÉ. REPERCUSSÃO GERAL RECONHECIDA. JULGAMENTO DE MÉRITO PELO PLENÁRIO. RE 587.371-RG. RECONSIDERAÇÃO DA DECISÃO AGRAVADA.
+1. Os membros da magistratura não fazem jus aos quintos incorporados antes do ingresso na carreira, mas não terão que restituir os valores já recebidos em respeito ao princípio da boa-fé, nos termos da jurisprudência firmada pelo Plenário desta Corte no julgamento da repercussão geral reconhecida no RE 587.371-RG, Redator para o acórdão Min. Teori Zavascki.
+2.  In casu, o acórdão originariamente recorrido assentou: “AGRAVO REGIMENTAL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. INCORPORAÇÃO DE QUINTOS ANTES DO INGRESSO NA MAGISTRATURA. POSSIBILIDADE. 1. O Superior Tribunal de Justiça posiciona-se no sentido de que o servidor público que ingressou na magistratura possui o direito adquirido à percepção de ‘quintos’, já incorporados aos vencimentos no período em que exercia cargo no âmbito do serviço público, em função de se tratar de vantagens pessoais, compatíveis com a sistemática prevista no exercício da magistratura. 2. Agravo regimental improvido.”
+3. Decisão agravada RECONSIDERADA para PROVER PARCIALMENTE o Recurso Extraordinário.
+    Decisão: Trata-se de agravo regimental interposto pela UNIÃO contra decisão proferida pelo E. Min. Eros Grau, meu antecessor, prolatada nos seguintes termos (fls. 286-287):
+    “Trata-se de recurso extraordinário interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição do Brasil contra acórdão prolatado pelo Superior Tribunal de Justiça no sentido de que “há o direito adquirido à percepção das vantagens pessoais denominadas ‘quintos’, já incorporadas aos vencimentos no âmbito do serviço público, antes do servidor ingressar na magistratura” [fl. 174].
+    2. Alega-se, no recurso extraordinário, ofensa ao disposto nos artigos 2º, 5º, XXXVI, 39, § 4º, e 93, da Constituição do Brasil.
+    3. Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [artigo 102, III, § 3º, da CB/88].
+    4. O recurso não merece provimento. O acórdão recorrido não apreciou a controvérsia à luz dos preceitos constitucionais que o recorrente indica como violados. Além disso, os embargos de declaração são ineficazes para ventilar matéria não argüida oportunamente. Aqui incidem as Súmulas ns. 282 e 356 do STF.
+    5. O prequestionamento, no entendimento pacificado deste Tribunal, deve ser explícito [AI n. 215.724-AgR, Relator o Ministro Sydney Sanches, 1ª Turma, DJ de 15.10.99, e RE n. 192.031-AgR, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 4.6.99].
+    6. Para dissentir-se do acórdão impugnado seria necessária a análise da legislação infraconstitucional que disciplina a espécie --- Lei Orgânica da Magistratura Nacional - LOMAN. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+    7. Ademais, a jurisprudência do Supremo fixou-se no sentido de que a verificação, em cada caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional [AI n. 135.632-AgR, Relator o Ministro Celso de Mello, DJ de 3.9.99, AI n. 551.002-AgR, Relator o Ministro Carlos Velloso, DJ de 16.12.05].
+          Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF. ”
+    Inconformado com a decisão supra, a agravante interpõe o recurso alegando, em síntese, que:
+    “[...] o acórdão recorrido decidiu a controvérsia exclusivamente com fundamento no direito adquirido, havendo, pois o necessário prequestionamento da matéria constitucional suscitada no apelo extremo.
+    […] a causa foi decidida exclusivamente com base na alegada violação ao princípio constitucional do direito adquirido.” (fls. 296-304)
+    Ato contínuo, o E. Ministro Eros Grau determinou o sobrestamento do feito, in verbis:
+    “A matéria discutida nestes autos --- direito adquirido à percepção de vantagem de natureza pessoal, denominada “quintos”, incorporada aos proventos em período anterior ao ingresso na Magistratura --- está submetida à apreciação do Pleno do Supremo Tribunal Federal, nos autos do AI n. 410.946-AgR, Relator o Ministro Celso de Mello.
+          Determino o sobrestamento deste feito até o julgamento do aludido recurso.”
+    É o Relatório. DECIDO.
+    Preliminarmente, afasto o sobrestamento de fl. 308 e passo a análise do agravo regimental de fls. 296-304.
+    Razão assiste à agravante. Reconsidero a decisão agravada e passo à análise do recurso.
+    Merece parcial provimento o recurso.
+    O Plenário desta Suprema Corte, no julgamento do mérito da repercussão geral que foi reconhecida nos autos do RE 587.371-RG, Redator para o acórdão Min. Teori Zavascki, firmou entendimento no sentido de que os membros da magistratura não fazem jus aos quintos incorporados antes do ingresso na carreira, mas em respeito ao princípio da boa-fé não terão que restituir os valores já recebidos. Destaco do voto condutor do acórdão:
+     “O voto, por isso, é pelo provimento parcial do recurso, nos mesmos limites adotados pelo Tribunal no julgamento de caso análogo (AI 410.946, já referido), cuja conclusão foi a dar provimento parcial para considerar:
+    1) a inexistência de direito adquirido do ora agravado em continuar recebendo os quintos incorporados, após a mudança de regime jurídico;
+    2) preservados, no entanto, os valores da incorporação já percebidos pelo recorrido, em respeito ao princípio da boa-fé, na linha dos precedentes da Segunda Turma no RE 122.202, Min. Francisco Rezek, unânime, DJ 08.04.1994; no RE 341.732-AgR, rel. Min. Carlos Velloso, unânime, DJ 01.07.2005, citados pelo Min. Gilmar Mendes; e ainda com apoio em julgado mais recente deste Plenário no MS 26.085, rel. Min. Cármen Lúcia, unânime, DJe 13.06.2008.
+    É o voto.”
+    Ex positis, reconsidero a decisão agravada e DOU PARCIAL PROVIMENTO ao recurso extraordinário nos termos da fundamentação supra, com apoio no artigo 557, § 1º-A, do Código de Processo Civil. Invertidos, nesse ponto, os ônus da sucumbência, ressalvado eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 21 de maio de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
