@@ -1,0 +1,16 @@
+Trata-se agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “DIREITO CIVIL. AÇÃO DE USUCAPIÃO. AUSÊNCIA DE ANIMUS DOMINI. IMÓVEL ADQUIRIDO COM RECURSOS DO SFH.
+    Em face da circunstância de o imóvel ter sido adquirido com recursos públicos, provenientes do Sistema Financeiro da Habitação, não é possível o reconhecimento do usucapião alegado. Precedentes desta Corte” (pág. 78 do documento eletrônico 9).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXIII, 6º, caput, 173, § 1º, II, e 183, § 1º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Destaca-se do voto do acórdão recorrido:
+    “Conforme o contrato de fl. 12-17, o imóvel foi adquirido pelos mutuários originários com recursos do Sistema Financeiro da Habitação, tendo posteriormente o autor adquirido mediante 'Contrato de compra e venda de imóvel financiado com posterior transferência do saldo devedor' - fls. 19-23.
+    Ora, não havendo o embargante ocupado o imóvel como se fosse seu proprietário, pois estava ciente da existência de sua vinculação a um Contrato de Financiamento pelo Sistema Financeiro da Habitação, não há se falar em aquisição de sua propriedade pelo instituto da usucapião” (pág. 85 do documento eletrônico 9).
+    O acórdão recorrido entendeu que não foram preenchidos todos os requisitos necessários à aquisição de imóvel por usucapião, para divergir deste entendimento e analisar a pretensão dos autores quanto ao atendimento, ou não, dos requisitos do art. 183 da Constituição Federal, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 do STF. Inviável, portanto, o recurso extraordinário. Nesse sentido, colaciono precedentes de ambas as Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1. CONSTITUCIONAL. USUCAPIÃO URBANA. PREENCHIMENTO DOS REQUISITOS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2. PERÍODO DE POSSE. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 699.946-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma).
+    “DIREITO CONSTITUCIONAL E DIREITO CIVIL. AÇÃO DE USUCAPIÃO URBANO. AQUISIÇÃO DO DOMÍNIO. REQUISITOS. ART. 183 DA COSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DO ANIMUS DOMINI. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AO PRECEITO CONSTITUCIONAL INVOCADO NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. AS RAZÕES DO AGRAVO REGIMENTAL NÃO SÃO APTAS A INFIRMAR OS FUNDAMENTOS QUE LASTREARAM A DECISÃO AGRAVADA. ACÓRDÃO RECORRIDO PUBLICADO EM 16.02.2008. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido” (AI 805.378-AgR/MG, Rel. Min. Rosa Weber, Primeira Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
