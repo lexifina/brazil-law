@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. INCORPORAÇÃO DE QUINTOS ANTES DO INGRESSO NA MAGISTRATURA. DIREITO NÃO RECONHECIDO. PRESERVAÇÃO DOS VALORES RECEBIDOS. PRINCÍPIO DA BOA-FÉ. REPERCUSSÃO GERAL RECONHECIDA. JULGAMENTO DE MÉRITO PELO PLENÁRIO. RE 587.371-RG.
+1. Os membros da magistratura não fazem jus aos quintos incorporados antes do ingresso na carreira, mas não terão que restituir os valores já recebidos em respeito ao princípio da boa-fé, nos termos da jurisprudência firmada pelo Plenário desta Corte no julgamento da repercussão geral reconhecida no RE 587.371-RG, Redator para o acórdão Min. Teori Zavascki.
+2. In casu, o acórdão recorrido assentou: “ADMINISTRATIVO E CONSTITUCIONAL - ‘QUINTOS’ E ‘DÉCIMOS’ INCORPORADOS – VANTAGEM DE NATUREZA PESSOAL – EXCLUSÃO DO TETO DE REMUNERAÇÃO – ART. 37, XI, DA CF/88 (REDAÇÃO ANTERIOR À E.C. Nº 19/98 – PRECEDENTES DO STF – MAGISTRATURA – INCORPORAÇÃO DE ‘QUINTOS’ E ‘DÉCIMOS’. I – Consoante jurisprudência do STF e STJ, os ‘quintos’ e ‘décimos’ incorporados constituem vantagem pessoal, excluída do teto remuneratório previsto no art. 37, XI, da CF/88, na redação anterior à E.C. Nº 19/98 – que inclui, no teto, as vantagens pessoais ou de qualquer natureza -, de fixação do subsídio mensal, em espécie, dos Ministros do STF, após o que se aplicará o art. 29 da mencionada E.C. Nº 19/98. II - ‘Se os quintos já foram incorporados aos proventos do impetrante quando membro do Ministério Público, não pode tal parcela ser negada em razão da nomeação para a magistratura, pois, trata-se de vantagem pessoal, cuja supressão implica em ofensa ao instituto do direito adquirido.’ (Resp nº 254.709/DF, Rel. Ministro Fontes de Alencar, 6ª T. do STJ, unânime, in DJU de 09/04/01, pág. 392). III – Apelação provida.”
+3. Recurso Extraordinário parcialmente PROVIDO.
+    Decisão: Trata-se de recurso extraordinário interposto pela União, com fundamento no artigo 102, III, a, da Constituição Federal, em face de acórdão prolatado pela Segunda Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “ADMINISTRATIVO E CONSTITUCIONAL - ‘QUINTOS’ E ‘DÉCIMOS’ INCORPORADOS – VANTAGEM DE NATUREZA PESSOAL – EXCLUSÃO DO TETO DE REMUNERAÇÃO – ART. 37, XI, DA CF/88 (REDAÇÃO ANTERIOR À E.C. Nº 19/98 – PRECEDENTES DO STF – MAGISTRATURA – INCORPORAÇÃO DE ‘QUINTOS’ E ‘DÉCIMOS’.
+    I – Consoante jurisprudência do STF e STJ, os ‘quintos’ e ‘décimos’ incorporados constituem vantagem pessoal, excluída do teto remuneratório previsto no art. 37, XI, da CF/88, na redação anterior à E.C. Nº 19/98 – que inclui, no teto, as vantagens pessoais ou de qualquer natureza -, de fixação do subsídio mensal, em espécie, dos Ministros do STF, após o que se aplicará o art. 29 da mencionada E.C. Nº 19/98.
+    II - ‘Se os quintos já foram incorporados aos proventos do impetrante quando membro do Ministério Público, não pode tal parcela ser negada em razão da nomeação para a magistratura, pois, trata-se de vantagem pessoal, cuja supressão implica em ofensa ao instituto do direito adquirido.’ (Resp nº 254.709/DF, Rel. Ministro Fontes de Alencar, 6ª T. do STJ, unânime, in DJU de 09/04/01, pág. 392).
+    III – Apelação provida.”
+    Não foram opostos embargos de declaração.
+    Nas razões de apelo extremo aponta violação do artigo 5º, XXXVI, da Constituição Federal. Sustenta que magistrados não tem direito à percepção da vantagem pessoal denominada quintos incorporados aos seus vencimentos antes do ingresso na magistratura.
+    Contra-arrazoado, o recurso extraordinário foi admitido pelo Tribunal de origem.
+    É o Relatório. DECIDO.
+    Afasto o sobrestamento de fl. 272 e passo a análise do apelo.
+    Merece parcial provimento o recurso.
+    O Plenário desta Suprema Corte, no julgamento do mérito da repercussão geral que foi reconhecida nos autos do RE 587.371-RG, Redator para o acórdão Min. Teori Zavascki, firmou entendimento no sentido de que os membros da magistratura não fazem jus aos quintos incorporados antes do ingresso na carreira, mas em respeito ao princípio da boa-fé não terão que restituir os valores já recebidos. Destaco do voto condutor do acórdão:
+     “O voto, por isso, é pelo provimento parcial do recurso, nos mesmos limites adotados pelo Tribunal no julgamento de caso análogo (AI 410.946, já referido), cuja conclusão foi a dar provimento parcial para considerar:
+    1) a inexistência de direito adquirido do ora agravado em continuar recebendo os quintos incorporados, após a mudança de regime jurídico;
+    2) preservados, no entanto, os valores da incorporação já percebidos pelo recorrido, em respeito ao princípio da boa-fé, na linha dos precedentes da Segunda Turma no RE 122.202, Min. Francisco Rezek, unânime, DJ 08.04.1994; no RE 341.732-AgR, rel. Min. Carlos Velloso, unânime, DJ 01.07.2005, citados pelo Min. Gilmar Mendes; e ainda com apoio em julgado mais recente deste Plenário no MS 26.085, rel. Min. Cármen Lúcia, unânime, DJe 13.06.2008.
+    É o voto.”
+    Ex positis, DOU PARCIAL PROVIMENTO ao recurso extraordinário nos termos da fundamentação supra, com apoio no artigo 557, § 1º-A, do Código de Processo Civil. Invertidos, nesse ponto, os ônus da sucumbência, ressalvado eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 21 da maio de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
