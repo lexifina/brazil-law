@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “PROCESSO CIVIL AGRAVO DE INSTRUMENTO TERCEIRO INTERESSADO PRAZO RECURSAL TERMO A QUO ÚLTIMA INTIMAÇÃO DA PARTE ASSISTIDA INTEMPESTIVIDADE RECONHECIDA RECURSO NÃO CONHECIDO.
+    "O prazo, para recorrer, do terceiro interessado é igual ao da parte (Resp n° 74.597-BA, DJU de 18/12/95) e se conta a partir da última intimação (RSTJ 46/212)." (Al n. 2000.002009-5, de Itajaí, Rel. Newton Janke, j. em 4.4.2002)” (pág. 41 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação aos arts. 5º, LV, e 37, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Os recorrentes, apesar de afirmarem a existência de repercussão geral no extraordinário, não demonstraram as razões pelas quais entendem que a questão constitucional versada seria relevante do ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa. A mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF. Nesse sentido:
+    “PROCESSUAL CIVIL. AUSÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS DISCUTIDAS NO CASO. ALEGADA OFENSA AO ART. 5º, LIV e LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - O agravante, nas razões do recurso extraordinário, não demonstrou, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso. A simples alegação, destituída de argumentos convincentes, não satisfaz tal exigência.
+    II - A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária.
+    III - Agravo regimental improvido” (AI 730.333-AgR/SE, de minha relatoria).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PRELIMINAR FORMAL DE EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL INVOCADA NO RECURSO EXTRAORDINÁRIO. INTIMAÇÃO DO ACÓRDÃO RECORRIDO POSTERIOR A 03.05.2007. De acordo com a orientação firmada neste Tribunal, é dever da parte recorrente apresentar preliminar formal e fundamentada da repercussão geral da questão constitucional em debate no recurso extraordinário. Cabe à parte recorrente apontar de forma expressa e clara as circunstâncias que poderiam configurar a relevância – do ponto de vista econômico, político, social ou jurídico – das questões constitucionais invocadas no recurso extraordinário (CPC, art. 543-A, §§ 1º e 2º). Agravo regimental a que se nega provimento” (ARE 682.069-AgR/MG, Rel. Min. Joaquim Barbosa, Pleno).
+    Além disso, ressalto que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquele diploma legal pelo Juízo a quo. Nesse contexto, eventual afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
