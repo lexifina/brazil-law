@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Acre, assim ementado (fls. 66):
+    “JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INONIMADO. SERVIDOR PÚBLICO. APOSENTADORIA. PREENCHIMENTO DOS REQUISITOS. ABONO DE PERMANÊNCIA. VANTAGEM DEVIDA. DIREITO QUE INDEPENDE DE REQUERIMENTO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, § 19, da Constituição, por entender que “a concessão do abono de permanência depende da manifestação de opção do servidor público” (fls. 74).
+    O recurso não deve ser provido, tendo em vista que o acórdão recorrido se alinha ao entendimento do Supremo Tribunal Federal no sentido de que o recebimento de abono permanência não depende de pedido prévio administrativo. Veja-se, a propósito trecho do voto condutor do RE 310.159-AgR, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “(...) a alegação de que a ausência de requerimento administrativo prejudica a aposentadoria pela lei anterior, quando já preenchidos todos os requisitos para concessão da referida aposentadoria, não encontra amparo na jurisprudência desta Corte. Neste sentido, decidiu esta Turma no AgRRE 269.407, Rel. Carlos Velloso, DJ 02.08.02, como se observa do voto do relator:
+    Em trabalho que escrevi, 'Servidor Público – Aposentadoria - Direito Adquirido - Das Limitações do Poder Constituinte Derivado', no meu livro 'Temas de Direito Público', pág. 458 - dissertei a respeito do tema, concluindo no sentido de que a aposentadoria deve reger-se pela lei vigente no momento em que implementou o servidor as condições legais para a sua concessão. Assim, se há reunião de todos os requisitos para a aposentadoria, opera-se, de imediato, a aquisição do direito, irrelevante a circunstância de não ter o titular exercido o direito que lhe competia.
+     A Súmula 359 do Supremo Tribunal Federal é expressa: ressalvada a revisão prevista em lei, os proventos da inatividade regulam-se pela lei vigente ao tempo em que o militar, ou servidor civil, reuniu os requisitos necessários, inclusive a apresentação do requerimento, quando a inatividade for voluntária.
+     O requisito do requerimento, posto na Súmula 359, não mais tem aplicação. É que, se já houve a aquisição do direito, não pode estar ele condicionado a outra exigência. Assim decidiu o Supremo Tribunal Federal, mais de uma vez, dou notícia no trabalho acima indicado (MS 11.395, Rel. Min. Luís Gallotti; RE 62.361-SP, Rel. Min. Evandro Lins), e dá notícia Roberto Rosas: RE 86.608, Rel. Min. Xavier de Albuquerque, RTJ 83/304; RE 85.330, Rel. Min. Moreira Alves, DJ de 15.12.1980 (Roberto Rosas, 'Direito Sumular', Malheiros Ed., 8ª ed., pág. 142).
+    Assim, forte na jurisprudência do Supremo Tribunal Federal, na forma do disposto no art. 557, § 1º-A, CPC, conheço do recurso e dou-lhe provimento, invertidos os ônus da sucumbência.
+     (…)”
+    Outros julgados nesse sentido: ARE 764.516, Rel. Min. Gilmar Mendes, e RE 631.371, Rel. Min. Ricardo Lewandowski.
+    Ademais, a Turma de origem, à luz da Lei estadual nº 1.691/2005 e do material probatório constante dos autos, decidiu que a parte recorrida atendeu aos requisitos para aposentadoria voluntária, fazendo jus ao abono permanência, previsto no § 19 do art. 40 da Constituição Federal, independente de solicitação. Nessas condições, incidem as Súmulas 279 e 280/STF. Nesse sentido, veja-se, a ementa do ARE 695.663-AgR, julgado sob relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público. Abono de permanência. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. O direito ao abono de permanência foi deferido com fundamento na legislação infraconstitucional e nos fatos e nas provas dos autos, cujo reexame é inviável em sede de recurso extraordinário. Incidência das Súmulas nºs 280 e 279 do STF.
+    2. Agravo regimental não provido.”
+    Outros precedentes: ARE 659.026-AgR, Relator Ministro Ayres Britto; RE 594.389, Relatora Ministra Cármen Lúcia; AI 845.645-AgR, Relatora Minista Rosa Weber.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 21 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
