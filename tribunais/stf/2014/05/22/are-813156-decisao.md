@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, a qual confirma a sentença pelos seus próprios fundamentos no sentido de que as verbas pretensamente isentas possuem natureza salarial, logo não se enquadram na hipótese legal de isenção (eDOC 49).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, alega-se ofensa aos artigos 1º, III, 150, II, 153, III, 196 e 197, do texto constitucional.
+    Nas razões recursais, sustenta-se que haveria violação ao princípio da dignidade da pessoa humana e a uma isenção lato sensu do imposto de renda em favor dos aposentados portadores de moléstia grave.
+    A Presidência da Turma Recursal inadmitiu o recurso por se tratar de matéria de índole infraconstitucional.
+    Decido.
+    Na esteira da sentença, o acórdão consignou que o direito não pode ser reconhecido:
+    “Isto porque, conforme os valores que o autor pretende que não sofram incidência do imposto de renda foram pagos em virtude de conciliação realizada com o Banco do Brasil, na qual recebeu verbas de caráter salarial (Acordo3 e INF7, ev. 01).
+    Ao considerar que a isenção de imposto de renda por doença não está prevista sobre remuneração de trabalhador ativo, mesmo que recebida após a sua inativação, o caso em apreço não se enquadra nas hipóteses legais de isenção, impondo-se a improcedência da demanda.” (eDOC 49)
+    Assim, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o reexame do conjunto fático-probatório dos autos, assim como a prévia análise de legislação infraconstitucional aplicável à espécie, o que faz incidir o Enunciado 279 da Súmula do STF. Confira-se, a propósito, o seguinte julgado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Caso em que ofensa à Magna Carta de 1988, se existente, ocorreria de forma reflexa ou indireta. Incide, de mais a mais, no caso a Súmula 279/STF. 2. O tema constitucional suscitado no apelo extremo não foi objeto de análise prévia, e conclusiva, pelo Tribunal de origem. Pelo que é de se aplicar a Súmula 282/STF. 3. Agravo regimental desprovido.”
+(AI 710585 AgR, Rel. Min. AYRES BRITTO, Primeira Turma, DJe 6.8.2010)
+    Ademais, da moldura fático-jurídica delineada pelo acórdão, infere-se que a hipótese em tela seria, no mínimo, uma interpretação extensiva do texto legal. Nesse sentido, a jurisprudência do Supremo Tribunal Federal tem-se firmado no sentido que é vedada ao Judiciário essa incumbência, sob pena de agir como legislador positivo.
+    Confiram-se precedentes de ambas as Turmas desta Corte:
+    “DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. PESSOA FÍSICA. AMPLIAÇÃO DE ISENÇÕES POR EQUIPARAÇÃO. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO ATUAR COMO LEGISLADOR POSITIVO. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 30.8.2010. Esta Suprema Corte entende ser vedado ao Poder Judiciário, sob pretexto de atenção ao princípio da igualdade, atuar como legislador positivo estabelecendo isenções tributárias não previstas em lei. Tal interpretação se amolda ao presente caso, em que se almeja ampliar isenções de determinadas verbas para efeito de incidência do imposto de renda, a despeito de inexistir lei outorgando essa benesse. Agravo regimental conhecido e não provido.”
+(ARE 691852 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 21.11.2013)
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA. LEGISLAÇÃO QUE ESTABELECE LIMITES À DEDUÇÃO DE GASTOS COM EDUCAÇÃO. CONSTITUCIONALIDADE. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO ATUAR COMO LEGISLADOR POSITIVO. PRECEDENTES. 1. A jurisprudência do STF é no sentido de que não pode o Poder Judiciário estabelecer isenções tributárias, redução de impostos ou deduções não previstas em lei, ante a impossibilidade de atuar como legislador positivo. 2. Assim, não é possível ampliar os limites estabelecidos em lei para a dedução, da base de cálculo do IRPF, de gastos com educação (AI 724.817-AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe de 09-03-2012; e RE 603.060-AgR, rel. Min. Cármen Lúcia, Primeira Turma, DJe de 03-03-2011). 3. Agravo regimental a que se nega provimento.”
+(RE 606179 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 4-6-2013, grifos nossos)
+    Ante o exposto, conheço o agravo para negar-lhe seguimento (art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 22de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
