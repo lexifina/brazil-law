@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. Mandado de Segurança. ISS. Empresas que se ativam no agenciamento de mão-de-obra. Base de cálculo do imposto que se restringe à remuneração paga pela intermediação, não englobando repasses recebidos à título de reembolso. Base de cálculo do ISS é o preço do serviço (art. 7º, LC 116/03). Sentença reformada. Recurso provido”. (fl. 132)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, LXIX, e 156, III, do texto constitucional.
+    Alega-se, em síntese, que o serviço prestado pela empresa não é de agenciamento de mão de obra, mas que se trata de empresa agenciadora de mão de obra temporária regida pela Lei 6019/74, devendo o ISS incidir sobre os salários e encargos sociais, pois esses configuram custos.
+    Decido.
+    Inicialmente, verifico que esta Corte reconheceu a repercussão geral da questão constitucional relativa ao mandado de segurança no AI-RG 800.074, de minha relatoria, DJe 6.12.2010. Nessa linha, assentou-se que os requisitos de admissibilidade de mandado de segurança não comportam repercussão geral.
+    Quanto à questão de fundo, observo que o Tribunal de origem entendeu que, no caso dos autos, não se trata de empresa fornecedora de mão de obra especializada, mas de empresa de agenciamento ou recrutamento de pessoal.
+    Sendo assim, constata-se que acolher a pretensão do recorrente demandaria o reexame da matéria fático-probatória dos autos, bem como da legislação infraconstitucional aplicável ao caso, providências vedadas em sede de recurso extraordinário. Incide a Súmula 279 desta Corte.
+    Nesse sentido, cito o entendimento convergente de ambas as Turmas:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. ISS. Agenciamento de mão-de-obra. Questão infraconstitucional. Ofensa reflexa. Enquadramento da atividade. Fatos e provas. Súmula 279/STF. Precedentes. 1. O STJ decidiu a lide amparado na legislação infraconstitucional pertinente (Decreto-Lei nº 406/68 e Lei nº 6.019/74). Eventual afronta ao texto constitucional, caso ocorresse, seria meramente reflexa ou indireta. 2. Necessidade de perquirir a respeito das circunstâncias fáticas do serviço prestado para fins de enquadramento como “intermediação de mão de obra” ou “agenciamento”, o que é vedado na via extraordinária, a teor da Súmula 279/STF. 3. Agravo regimental não provido”.
+(ARE 642472 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 19.03.2014)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ISS. REGIME DE TRIBUTAÇÃO FIXA PREVISTA NO ART. 9º, § 1º e § 3º, DO DECRETO-LEI 406/1968. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. II – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF. III - Agravo regimental improvido”. (AI 739586 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 12.04.2013)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 22 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
