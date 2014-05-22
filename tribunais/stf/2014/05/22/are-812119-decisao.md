@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 2ª Região, cujo trecho da ementa transcrevo a seguir:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE RECÍPROCA. ICMS. ENERGIA ELÉTRICA. PRECEDENTES DOS TRIBUNAIS SUPERIORES. IMPROCEDÊNCIA DO PEDIDO AUTORAL
+    […]
+    2. Consoante jurisprudência dos Tribunais Superiores, é firme a orientação no sentido de que o Imposto sobre Circulação de Mercadorias e Serviços (ICMS) incide sobre fornecimento de energia elétrica consumida pelos entes públicos, pois as concessionárias de energia elétrica são as contribuintes de direito do ICMS e, in casu, a UFRRJ, que paga a tarifa cujo imposto encontra-se embutido, a contribuinte de gato.
+    3. As empresas fornecedoras de energia elétrica são as verdadeiras contribuintes do ICMS, e o acolhimento da pretensão posta na inicial, estenderia a imunidade em proveito das empresas fornecedoras de energia elétrica ou ocorreria a hipótese de que não poderia incidir ICMS sobre a venda de qualquer tipo de mercadoria ou serviço aos entes amparados pela imunidade prevista no art. 150, VI, da CF.
+    4. Remessa necessária e apelação providas.” (eDOC 6, p. 13).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, alega-se ofensa aos artigos 150, VI, a, do texto constitucional.
+    Nas razões recursais, sustenta-se que sua condição de administração indireta lhe garante imunidade recíproca em relação ao ICMS cobrado sobre a energia elétrica.
+    A Vice-Presidência do TRF-2 inadmitiu o recurso por reputar incidente a Súmula 286 do STF.
+    Decido.
+    Inicialmente, constato que o entendimento esposado pelo acórdão recorrido se amolda perfeitamente à jurisprudência do Supremo Tribunal Federal, visto que a agravante é apenas contribuinte de fato de tributo indireto. Não faz jus, portanto, à imunidade recíproca no caso em tela.
+    Conferir, a esse propósito, julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. ENTIDADE SEM FINS LUCRATIVOS. IMUNIDADE RECÍPROCA. IMPOSSIBLIDADE. BENEFÍCIO DA IMUNIDADE NÃO ALCANÇA CONTRIBUINTE DE FATO. AGRAVO IMPROVIDO. I – Entidade educacional que não é contribuinte de direito do ICMS relativo a serviço de energia elétrica, não tem benefício da imunidade em questão, uma vez que esta não alcança o contribuinte de fato. III - Agravo regimental improvido.”
+(AI 731786 AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 16.11.2010)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. FORNECIMENTO DE ENERGIA ELÉTRICA PARA ILUMINAÇÃO PÚBLICA. ICMS. IMUNIDADE INVOCADA PELO MUNICÍPIO. IMPOSSIBILIDADE. 2. A jurisprudência do Supremo firmou-se no sentido de que a imunidade de que trata o artigo 150, VI, a, da CB/88, somente se aplica a imposto incidente sobre serviço, patrimônio ou renda do próprio Município. 3. Esta Corte firmou entendimento no sentido de que o município não é contribuinte de direito do ICMS, descabendo confundi-lo com a figura do contribuinte de fato e a imunidade recíproca não beneficia o contribuinte de fato. Agravo regimental a que se nega provimento.”
+(AI 671412 AgR, Rel. Min. EROS GRAU, Segunda Turma, DJe 25.04.2008)
+    Ainda que assim não fosse, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o reexame do conjunto fático-probatório dos autos, a prévia análise de legislação infraconstitucional aplicável à espécie, o que faz incidir os Enunciados 279 e 280 da Súmula do STF. Confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPI. LEGITIMIDADE PARA PLEITEAR A RESTITUIÇÃO DO INDÉBITO. CONTRIBUINTE DE FATO E CONTRIBUINTE DE DIREITO. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Precedentes. II – Agravo regimental improvido.”
+(ARE 714113 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 22.05.2013)
+    “AGRAVO REGIMENTAL. PROCESSUAL CIVIL. TRIBUTÁRIO. RESTITUIÇÃO DO INDÉBITO TRIBUTÁRIO. LEGITIMIDADE. CONTRIBUINTE DE FATO E CONTRIBUINTE DE DIREITO. IMPOSIÇÃO DE REQUISITO INEXEQUÍVEL. ART. 166 DO CTN. Descabe confundir negativa de jurisdição com decisão mal fundamentada, ou com cujas conclusões não concorde a parte. O Tribunal de origem prestou jurisdição, ainda que o resultado tenha sido contrário ao interesse da parte. Da forma como postas as questões nas razões de recurso extraordinário, a discussão sobre a legitimidade para pleitear a restituição do indébito tributário se esgota no plano infraconstitucional. De fato, o Tribunal de origem não declarou a inconstitucionalidade do art. 166 do CTN. Pelo contrário, deixou de aplicá-lo por entender que o agravante não reunia as propriedades de fato para justificar a subsunção e a incidência normativa (aplicabilidade restrita aos contribuintes de direito). Agravo regimental ao qual se nega provimento.”
+(AI 832140 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 13.08.2012)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, §4º, II, a, CPC c/c art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 22 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
