@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1466, de 21 de maio de 2014
+Altera a Instrução Normativa RFB nº 1.361, de 21 de maio de 2013, que dispõe sobre a aplicação dos regimes aduaneiros especiais de admissão temporária e exportação temporária.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 355, no parágrafo único do art. 364 e nos arts. 372, 432, 435, 448, 578 e 595 do Decreto nº 6.759, de 5 de fevereiro de 2009, no art. 9º do Decreto nº 81.351, de 17 de fevereiro de 1978, e no Decreto nº 657, de 24 de setembro de 1992, resolve:
