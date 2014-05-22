@@ -1,0 +1,16 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão assim ementado:
+    “TRIBUTÁRIO. IMPOSTO SOBRE OPERAÇÕES DE FINANCEIRAS. ALTERAÇÃO DE ALÍQUOTA. COMPETÊNCIA. O Decreto nº 2.219/97, em seu art. 6º, autoriza a delegação de competência ao Ministro de Estado para estabelecer as alíquotas do IOF, afastando a alegada ilegalidade da majoração levada a efeito por meio de Portaria Ministerial”.(eDOC 1, p. 181)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 5º, II; 54, IV; 150, I; e 153, § 1º, do texto constitucional.
+    Afirma-se que o Presidente da República não pode delegar ao Ministro da Fazenda a majoração alíquotas do IOF incidente sobre as aplicações.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o acórdão recorrido não diverge da jurisprudência firmada no âmbito desta Corte, sentido de que não há ofensa à Constituição Federal na delegação a Ministro de Estado a competência para alterar as alíquotas do IOF. Sobre o tema, confiram-se os seguintes julgados:
+    “TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO. ALÍQUOTAS MAJORADAS PELA PORTARIA MINISTERIAL Nº 201/95. FACULDADE DO ART. 153, § 1º, DA CONSTITUIÇÃO FEDERAL. Inexistência de norma constitucional, ou legal, que estabeleça ser a faculdade do dispositivo constitucional sob enfoque de exercício privativo do Presidente da República. Limites e condições da alteração das alíquotas do Imposto de Importação estabelecidas por meio de lei ordinária, como exigido pelo referido dispositivo constitucional, no caso, pelo art. 3º da Lei nº 3.244/57. Inteiro descabimento da exigência de motivação do ato pelo qual o Poder Executivo exerce a faculdade em apreço, por óbvio o objetivo de ajustar as alíquotas do imposto aos objetivos da política cambial e do comércio exterior (art. 21 do CTN). Recurso conhecido e provido”. (RE 225.655/PB, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 28.4.2000)
+    “TRIBUTÁRIO. IMPOSTO DE EXPORTAÇÃO. ALTERAÇÃO DE ALÍQUOTA. ART. 153, § 1º, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA PRIVATIVA DO PRESIDENTRE DA REPÚBLICA NÃO CONFIGURADA. ATRIBUIÇÃO DEFERIDA À CAMEX. CONSTITUCIONALIDADE. FACULDADE DISCRICIONÁRIA CUJOS LIMITES ENCONTRAM-SE ESTABELECIDOS EM LEI. RECURSO EXTRAORDINÁRIO DESPROVIDO. I - É compatível com a Carta Magna a norma infraconstitucional que atribui a órgão integrante do Poder Executivo da União a faculdade de estabelecer as alíquotas do Imposto de Exportação. II - Competência que não é privativa do Presidente da República. III - Inocorrência de ofensa aos arts. 84, caput, IV e parágrafo único, e 153, § 1º, da Constituição Federal ou ao princípio de reserva legal. Precedentes. IV - Faculdade discricionária atribuída à Câmara de Comércio Exterior - CAMEX, que se circunscreve ao disposto no Decreto-Lei 1.578/1977 e às demais normas regulamentares. V - Recurso extraordinário conhecido e desprovido”. (RE-RG 570.680/RS, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 04.12.2009)
+    Assim sendo, a decisão recorrida não merece reforma.
+    Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+    Publique-se.
+    Brasília, 22 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
