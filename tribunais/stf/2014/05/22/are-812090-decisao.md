@@ -1,0 +1,9 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que denegou a ordem, por entender que a limitação da extensão da Gratificação de Desempenho de Atividade do Seguro Social - GDASS aos servidores inativos e pensionistas, ocorre com o efetivo encerramento do primeiro ciclo de avaliação dos servidores ativos.
+    No RE, fundado no art. 102, III, a e b, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 5º, caput, 7º, XXX, 39, § 3º, e 40, §8º, da mesma Carta.
+    A pretensão não merece acolhida. Preliminarmente, observo que, com exceção do art. 40, § 8º, da CF, o recorrente, na petição do recurso extraordinário, não demonstrou de que modo os demais dispositivos constitucionais apontados teriam sido violados. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o apelo extremo, a teor da Súmula 284 do STF.
+    No que se refere ao mérito, melhor sorte não assiste ao recorrente. Isso porque o Juízo a quo, interpretando a legislação infraconstitucional aplicável à espécie (Decreto 6.493/2008, Leis 10.355/2001 e 10.855/2004), entendeu que o direito à paridade no recebimento das gratificações ora discutidas entre servidores em atividade e os inativos tem fim quando se encerra o período do primeiro ciclo avaliativo. Assim, a reapreciação do julgado, no ponto relativo à data de efetivo encerramento do ciclo de avaliação, demandaria o reexame de normas infraconstitucionais, bem como a análise do conjunto fático probatório constante dos autos, o que inviabiliza o extraordinário, a teor da Súmula 279 desta Corte. Nesse sentido: ARE 762.253/PR, Rel. Min. Luiz Fux; RE 794.396/RS, Rel. Min. Cármen Lúcia; RE 717.878/RS e RE 741.389/RS, Rel. Min. Dias Toffoli.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
