@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra decisão que não admitiu recurso extraordinário interposto com fundamento na alínea a do permissivo constitucional, em face de acórdão proferido, em sede de embargos de declaração, pela Turma Recursal dos Juizados Especiais Federais – Seção Judiciária do Distrito Federal, assim ementado:
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. GRATIFICAÇÃO DE ATIVIDADE TÉCNICOADMINISTRATIVA (GDATA). ISONOMIA ENTRE SERVIDORES INATIVOS E PENSIONISTAS. LEIS N. 10.404/2002 E 10.971/2004. PONTUAÇÃO NOS TERMOS DO ARTIGO 5º, PARÁGRAFO ÚNICO, DA LEI Nº 10.404/2002, NO PERÍODO DE JUNHO DE 2002 ATÉ A CONCLUSÃO DOS EFEITOS DO ÚLTIMO CICLO DE AVALIAÇÃO A QUE SE REFERE O ARTIGO 1º DA MEDIDA PROVISÓRIA N° 198/2004. SÚMULA VINCULANTE Nº 20 DO STF. CONTRADIÇÃO. EMBARGOS ACOLHIDOS”.
+    Alega a recorrente violação do artigo 40, parágrafo 8º, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, haja vista que esta Corte, na sessão plenária de 29/10/09, aprovou a Súmula Vinculante nº 20, consolidando o direito de servidores inativos receberem a Gratificação de Desempenho de Atividade Técnico-Administrativa (GDATA), nesses termos, in verbis:
+    “A Gratificação de Desempenho de Atividade Técnico-Administrativa- GDATA, instituída pela Lei 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete virgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do art. 5º, parágrafo único, da Lei 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o art. 1º da Medida Provisória 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.”
+    O art. 5º, parágrafo único, da Lei 10.404/2002 remete ao inciso II, do mesmo dispositivo, o qual, a seu turno, previa, para a gratificação recebida pelos aposentados e pensionistas, a pontuação correspondente a 10.
+    A alteração para 30 pontos foi promovida pela Lei n. 10.971/2004, a qual, entretanto, determinou, no parágrafo único do seu art. 3º, que “os efeitos das alterações introduzidas por este artigo e os decorrentes do Anexo I desta Medida Lei aplicam-se aos aposentados e pensionistas a partir de 1º de maio de 2004”.
+    A pontuação correspondente a 10 pontos restou, portanto, aplicável de junho de 2002 a abril de 2004.
+    Disso resulta que a pontuação inserta na Súmula Vinculante nº 20 corresponde a: 1) 37,5 pontos, nos termos do art. 6º da Lei 10.404, de 2002, no período de fevereiro a maio de 2002; 2) 10 pontos, conforme art. 5º, II, da citada lei, no período de junho de 2002 a abril de 2004; e 3) 60 pontos, nos termos do art. 1º da Lei 10.971, de 2004, a partir de maio de 2004 até que seja instituída nova disciplina para aferição de avaliação de desempenho individual e institucional, e sejam concluídos os efeitos do último ciclo de avaliação.
+    Esse foi o entendimento expresso no RE 476.390/DF, julgado pelo Pleno desta Corte. Transcrevo o voto do Ministro relator Gilmar Mendes, na parte que se relaciona ao presente recurso:
+    “Com a edição do Decreto nº 4.247, de 22 de maio de 2002, a GDATA passou a ser fixada de acordo com os valores correspondentes a 10 pontos tanto para os servidores ativos como inativos, valor este que vigorou até o advento da Lei 10.971, de 25 de novembro de 2004, que fixou um valor correspondente a 30 pontos.” (Dje de 29/6/2007)
+    No mesmo sentido, ainda, a seguinte decisão monocrática: RE 525.180/DF (Min. Gilmar Mendes, DJ de 12/6/2007).
+    Do entendimento desta Corte não divergiu o acórdão recorrido.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 22 de maio de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
