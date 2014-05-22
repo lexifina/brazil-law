@@ -1,0 +1,2 @@
+Altera o nome jurídico do art. 218-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal; e acrescenta inciso ao art. 1º da Lei nº 8.072, de 25 de julho de 1990, para classificar como hediondo o crime de favorecimento da prostituição ou de outra forma de exploração sexual de criança ou adolescente ou de vulnerável.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
