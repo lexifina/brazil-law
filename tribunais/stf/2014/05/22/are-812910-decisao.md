@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “Tributário. Mandado de segurança. ISS. Base de cálculo. Empresa prestadora de serviços de fornecimento de mão-de-obra temporária. Lei n. 6019/1975. Jurisprudência pacificada. STJ. Recurso especial representativo de controvérsia n. 1.138.205. Incidência do ISS sobre a taxa de agenciamento e as importâncias voltadas ao pagamento dos salários e encargos sociais dos trabalhadores contratados pela autora. Sentença reformada em reexame necessário” (pág. 77 do documento eletrônico 4).
+    No RE (págs. 29-62 do documento eletrônico 5), fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 145, § 1º, e 150, I e IV, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 6.019/1974). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: ARE 643.823-AgR/PR e ARE 642.472-AgR/DF, ambos de relatoria do Min. Dias Toffoli.
+    Ademais, vale mencionar que o tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Dessa forma, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (AREsp 330.336/PR, com trânsito em julgado certificado em 12/05/2014), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283 do STF. Nesse sentido: AI 785.229/PR, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Por fim, registre-se que, ainda que superado o referido óbice, o deslinde da controvérsia demandaria o reexame de matéria probatória, o que é inviável em sede de recurso extraordinário, a teor da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
