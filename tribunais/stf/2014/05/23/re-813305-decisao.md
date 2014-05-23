@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão da Segunda Turma do STJ, assim ementado:
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. INDENIZAÇÃO POR DANOS MORAIS. PERSEGUIÇÃO POLÍTICA OCORRIDA DURANTE O REGIME MILITAR. IMPRESCRITIBILIDADE. INAPLICABILIDADE DO ART. 1º DO DECRETO 20.910/1932. PRECEDENTES. PREQUESTIONAMENTO. DISPOSITIVO CONSTITUCIONAL.
+    IMPOSSIBILIDADE.
+          1. A jurisprudência do STJ é pacificada no sentido de que a prescrição quinquenal, disposta no art. 1º do Decreto 20.910/1932, é inaplicável aos danos decorrentes de violação de direitos fundamentais, que são imprescritíveis, principalmente quando tiverem ocorrido durante o Regime Militar, época na qual os jurisdicionados não podiam deduzir a contento suas pretensões.
+          2. Ressalte-se que a afronta aos direitos básicos da pessoa humana – como a proteção da sua dignidade lesada pela tortura e prisão por delito de opinião durante o Regime Militar de exceção – enseja ação de reparação ex delicto imprescritível e ostenta amparo constitucional no art. 8.º, § 3º, do Ato das Disposições Constitucionais Transitórias.
+    3. Não compete ao STJ, em julgamento de Recurso Especial e para fins de prequestionamento, apreciar alegação de afronta a dispositivos constitucionais, sob pena de usurpação da competência do STF (art. 102, III, da CF/1988).
+    4. Agravo Regimental não provido.”
+    Observa-se que a ora recorrente somente interpôs recurso especial contra o acórdão do TRF-4ª Região. O apelo extremo, por sua vez, foi interposto contra acórdão do STJ (AgRg em Agravo em Recurso Especial n. 411.652-RS).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 1º, III, 5º, caput, III,XLIII, XLIV, e 97 do texto constitucional.
+    Alega-se, em síntese, que o acórdão recorrido não teria observado a cláusula da reserva de plenário por haver declarado a inconstitucionalidade do art. 1º do Decreto n. 20.910/32. Assim, requer-se a anulação do julgado com o consequente retorno dos autos ao STJ para reapreciação, em observância ao art. 97 da CF/88, e que seja reconhecida a prescrição da pretensão deduzida na demanda.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque, quanto à alegada violação ao art. 97 da Constituição Federal, o acórdão recorrido em nenhum momento declarou a inconstitucionalidade de lei ou ato normativo de poder público, ou mesmo afastou sua incidência.
+     O STJ limitou-se a interpretar as normas infraconstitucionais para alcançar a conclusão a que chegou, aplicando sua pacífica jurisprudência, de modo que não ocorreu violação ao artigo 97 do texto constitucional.
+    Ademais, o acórdão do Tribunal Regional Federal da 4ª Região, que não foi objeto de recurso extraordinário, afastou a prescrição do direito e reconheceu a ocorrência dos fatos ensejadores dos danos morais, bem como a responsabilidade da recorrente em indenizá-los. Por sua vez, o STJ aplicou o entendimento pacífico daquela Corte no sentido de ser inaplicável a prescrição quinquenal, disposta no art. 1º do Decreto 20.910/1932, sobre danos decorrentes de violação de direitos fundamentais.
+    A corroborar esse entendimento, confiram-se os seguintes precedentes:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. CRIME DE TORTURA NO REGIME MILITAR. AFASTAMENTO DO ART. 1º DO DECRETO 20.910/32. PRESCRIÇÃO. VIOLAÇÃO À SÚMULA VINCULANTE 10: INOCORRÊNCIA. DESCUMPRIMENTO AO PRINCÍPIO DA RESERVA DE PLENÁRIO: NÃO CONFIGURAÇÃO. 1. Inexistência de ofensa ao princípio da reserva de plenário, pois o acórdão recorrido analisou normas legais sem julgar inconstitucional lei ou ato normativo federal ou afastar a sua incidência, restringindo-se o Superior Tribunal de Justiça a considerar inaplicável ao caso o art. 1º do Decreto 20.910/32. 2. Agravo regimental a que se nega provimento” (AI-AgR n° 781.787/GO, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 3/12/10).
+     “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. EXECUÇÃO FISCAL. DECRETO 20.910/32. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - A discussão sobre o prazo prescricional demanda a análise de legislação infraconstitucional, Decreto-Lei 20.910/32. A afronta à Constituição, se ocorrente, seria indireta. II – Agravo regimental improvido” (AI n° 764.126/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11).
+     Nesse sentido, em casos idênticos ao dos autos, cito as seguintes decisões monocráticas: AI 858.091, de minha relatoria, DJe 1º.3.2013; RE 715.268/DF, Rel. Ministro Luiz Fux, DJe 22.4.2013; e AI 789.622/PR, Rel. Ministro Celso de Mello, DJe 5.9.2012.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 23 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
