@@ -1,0 +1,13 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 78, § 2º e § 4°, do Ato das Disposições Constitucionais Transitórias.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, anote-se:
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS STF 282 E 356. 1. Não tendo sido apreciadas, pela instância a quo, as questões constitucionais em que se apoia o extraordinário, é imprescindível a oposição de embargos de declaração para suprir o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o "prequestionamento implícito" da questão constitucional. AI 413.963-AgR/SC, rel. Min. Celso de Mello, DJ 1º.04.2005. 3. Não há negativa de prestação jurisdicional quando a parte recorrente opta por não atacar o fundamento infraconstitucional, arrastando para si a preclusão temporal para viabilizar, em tese, a sua pretensão. 4. Agravo regimental improvido” (RE n° 353.514/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 1°/10/10).
+    “Ementa: 1. RECURSO - PREQUESTIONAMENTO. O prequestionamento não exsurge de mera referencia a matéria versada no relatório do acórdão impugnado. Diz-se prequestionado determinado tema quando o Órgão julgador haja emitido juízo explicito a respeito de forma clara, porquanto o conhecimento do recurso não pode ficar ao sabor da capacidade intuitiva dos integrantes do Órgão, muito menos deve alicerçar-se na presunção do extraordinário - de decisão implícita contra expresso dispositivo legal. 2. INCONSTITUCIONALIDADE - AUSÊNCIA DE EXAME. Não consubstancia violência ao inciso XXXV do artigo 5. da Constituição Federal decisão mediante a qual se conclui pela impossibilidade de apreciar-se a pecha em face ao meio utilizado na imputação, como ocorre, por exemplo, quando a Corte de origem assenta que as informações prestadas, no mandado de segurança, não contemplam a oportunidade” (RE nº 175.505 AgR/SP, Segunda Turma, Relator o Ministro Marco Aurélio, DJ de 12/5/95).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 23 de maio de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
