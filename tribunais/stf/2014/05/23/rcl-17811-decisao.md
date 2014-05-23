@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de liminar, ajuizada contra decisão proferida pelo Tribunal Superior do Trabalho (RO 236100-02.2008.5.04.0018), que teria desrespeitado a autoridade da decisão desta Corte tomada nos autos da ADI 3.395-MC (Rel. Min. Cezar Peluso, Plenário, DJ de 10/11/2006).
+    Narra a reclamante, em síntese, que (a) empregado aposentado da Rede Ferroviária Federal S/A (RFFSA) ajuizou reclamação trabalhista contra a União, objetivando o pagamento de complementação de aposentadoria; (b) por não se tratar de causa trabalhista, mas sim de relação jurídico-administrativa, a competência para processamento e julgamento do pedido seria da Justiça Comum; e (c) embora a decisão reclamada tenha transitado em julgado em 11/03/2014, o processo continuaria tramitando, “porque o TST determinou que os autos retomassem à origem para o regular prosseguimento do feito, tendo em vista que foi reconhecida a competência da justiça do trabalho” (p. 4 da petição inicial eletrônica), de modo que não incidiria, ao caso, o enunciado da Súmula 734 do STF, pois o vício da incompetência absoluta da justiça trabalhista continuaria existente, em clara ofensa à decisão exarada pelo STF na ADI 3.395.
+    2. Segundo jurisprudência pacífica da Corte, não se admite reclamação constitucional contra decisão judicial transitada em julgado, não sendo permitida sua adoção como sucedâneo de ação rescisória (Súmula 734 do STF). No caso, conforme admitido pela reclamante em sua petição inicial, a decisão reclamada transitou em julgado em 11/03/2014. Já a presente reclamação foi ajuizada apenas em 23/05/2014, após o trânsito em julgado do acórdão reclamado.
+    3. Diante do exposto, nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 23 de maio de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
