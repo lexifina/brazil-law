@@ -1,0 +1,28 @@
+DESPACHO (Petições ns. 51.798/2013 e 54.588/2013)
+    1. Em 26.3.2013, neguei seguimento a este recurso extraordinário com agravo (Dje 4.4.2013).
+    2. Contra essa decisão, Fernando Pimentel Faria interpôs agravo regimental, desprovido pela Segunda Turma, em 6.8.2013 (Dje 30.8.2013):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEFICIÊNCIA NO TRASLADO ASSENTADA PELO ACÓRDÃO RECORRIDO COM BASE NO ART. 544, § 1º, DO CÓDIGO DE PROCESSO CIVIL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Os embargos de declaração opostos foram rejeitados, em 1º.10.2013:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.”
+    3. Publicado o acórdão no DJe de 24.10.2013, Fernando Pimentel Faria (embargante) peticionou, em 14.10.2013 e em 28.10.2013, requerendo a devolução do prazo recursal, sob o seguinte fundamento:
+    “O recorrente em 14 de outubro de 2013 peticionou nos autos informando não ter obtido acesso a integra do acórdão da decisão publicada em 10-10-13 que decidiu, rejeitando, os Embargos Declaratório ofertado, exceto o seguinte conteúdo da decisão: Idêntica à de nº 417, sendo que a decisão 417 “A Turma, por votação unanime, rejeitou os embargos de declaração, nos termos do voto da Relatora. 2ª Turma, 01.10.2013”
+    Em 24 de outubro próximo nova publicação acerca da decisão de rejeição dos embargos foi publicada com o seguinte teor:
+    ACORDAOS Centésima Sexagésima Primeira Ata de Publicação de Acórdãos, realizada nos termos do art. 95 do RISTF.
+    EMB.DECL. NO AG.REG. NO RECURSO EXTRAORDINARIO COM AGRAVO 736.578 (634) ORIGEM : AI - 1403726 - SUPERIOR TRIBUNAL DE JUSTICA PROCED. : RIO DE JANEIRO RELATORA : MIN. CARMEN LUCIA EMBTE.(S) : FERNANDO PIMENTEL FARIA ADV.(A/S) : LEANDRO DE SOUZA SCATOLINO E OUTRO(A/S) EMBDO.(A/S) : ITAU SEGUROS S/A ADV.(A/S) : EDUARDO CHALFIN ADV.(A/S) : ILAN GOLDBERG E OUTRO(A/S) Decisao: A Turma, por votacao unanime, rejeitou os embargos de declaracao, nos termos do voto da Relatora. 2ª Turma, 01.10.2013. EMENTA: EMBARGOS DE DECLARACAO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINARIO COM AGRAVO. PROCESSUAL CIVIL. ART. 535 DO CODIGO DE PROCESSO CIVIL. AUSENCIA DE OMISSAO, CONTRADICAO E OBSCURIDADE. IMPOSSIBILIDADE DE REDISCUSSAO DA MATERIA. EMBARGOS DE DECLARACAO REJEITADOS.
+      Ocorre que, assim como na ocasião outrora, o inteiro teor do acórdão da referida decisão não se encontra disponibilizado no site do STF, nem mesmo através do acesso eletrônico de processo no e-STF v.2, conforme da nova documentação que segue em anexo.
+    Reitera que a falta de disponibilização do inteiro teor do acórdão constitui cerceamento defesa, impondo a devolução do prazo processual depois de sanado o vício e intimado o agravante-embargante.”
+    4. Em 14.10.2013, publicou-se o extrato da ata de julgamento, e não o acórdão, como afirmado pelo peticionante. Dessa forma, a irresignação trazida pela parte quanto à primeira publicação não tem fundamento jurídico, não podendo ser acatado.
+    5. O Regimento Interno deste Supremo Tribunal Federal dispõe que as publicações das decisões das Turmas e do Plenário deverão ser feitas no Diário da Justiça por suas conclusões e ementa, exatamente como se deu no caso:
+    “Art. 95. A publicação do acórdão, por suas conclusões e ementa, far-se-á, para todos os efeitos, no Diário da Justiça.” (grifos nossos).
+    “Art. 100. Constarão do Diário da Justiça a ementa e conclusões de todos os acórdãos; e, dentre eles, a Comissão de Jurisprudência selecionará os que devam publicar-se em seu inteiro teor na Revista Trimestral de Jurisprudência.”
+    Embora a publicação tenha ocorrido regularmente no Diário da Justiça, necessário se faz saber se houve problemas no sítio e no sistema de processo eletrônico eSTF, que pudesse inviabilizar a consulta do inteiro teor do acórdão pelo peticionante, durante seu prazo recursal.
+    6. A Secretaria de Tecnologia da Informação prestou o seguinte esclarecimento:
+    “Realizada análise sob o ponto de vista dos ativos de infraestrutura. De acordo com as informações obtidas, o site do STF e o serviço de Peticionamento Eletrônico não sofreram indisponibilidades entre 25 e 29/10/2013. Também fizemos uma busca no período informado nos e-mails recebidos pelo Help Desk e não encontramos nada relativo ao processo ARE 736578 ou ao sr Fernando Pimentel Faria. A única informação que consta é um peticionamento físico liberado em 06/09/2013 por falha na emissão do Recibo. Verificamos ainda os chamados no período informado e não foi constatada nenhuma falha relatada nos sistemas listados”.
+    Também a Secretaria Judiciária informou:
+    “Informo que não temos registro de atendimento ao advogado Leandro de Souza Scatolino em nosso serviço de atendimento não presencial (service desk). Esclareço, que em 14/10/2013, o referido advogado peticionou no feito, Petição nº 51798/2013, alegando que o inteiro teor do acórdão não havia sido disponibilizado no site do STF. De fato, o inteiro teor ainda não estava disponível, uma vez que havia sido publicada apenas a Ata de Julgamento. O Inteiro Teor do Acórdão foi publicado e disponibilizado no sítio eletrônico do STF no dia 24/10/2013”.
+    7. Pelo exposto, indefiro o requerimento.
+    À Secretaria Judiciária para certificar o trânsito em julgado deste processo e remetê-lo à origem.
+    Publique-se.
+    Brasília, 25 de maio de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
