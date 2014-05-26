@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5°, II, e 37, caput, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem decidiu pela legitimidade das multas objeto da presente lide, tendo em vista a obediência ao princípio da reserva legal diante do exposto no art. 92 da Lei n° 8.212/91. Desse modo, para ultrapassar o entendimento do Tribunal de origem, seria necessário o reexame da legislação infraconstitucional. Assim, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “EMENTA DIREITO ADMINISTRATIVO. APLICAÇÃO DE MULTA. ALEGAÇÃO DE VIOLAÇÃO DO PRINCÍPIO DA LEGALIDADE. MATÉRIA INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA Nº 636/STF. EVENTUAL VIOLAÇÃO REFLEXA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 3.6.2009. Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida (Súmula 636/STF). As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido” (RE n° 643.370/DF-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 20/9/13).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ELEITORAL. PROPAGANDA IRREGULAR. MULTA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. REEXAME DE PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Precedentes. II – Para se chegar à conclusão contrária à adotada pelo Tribunal a quo, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). IV – Agravo regimental a que se nega provimento” (ARE n° 788.522/DF-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 8/5/14).
+    No mesmo sentido, a seguinte decisão monocrática: RE n° 508.389/RS, Relator o Ministro Sepúlveda Pertence, DJe de 12/2/07.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 26 de maio de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
