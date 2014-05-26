@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. SÚMULA 114/TST. DESPROVIMENTO. Diante da consonância do julgado regional com a Súmula nº 114 do c. TST, deve ser mantido o r. despacho. Agravo de instrumento desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º e 7º, XXIX, da Constituição, bem como às Súmulas 150 e 327/STF.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que “a controvérsia não alcança patamar constitucional, à medida que a análise da questão atinente à aplicabilidade ou não da prescrição intercorrente no âmbito da Justiça do Trabalho demandaria o exame de legislação infraconstitucional”.
+    O recurso é inadmissível, tendo em vista que a violação ao art. 5º da Constituição, nos termos da fundamentação exposta na petição de recurso extraordinário, não foi objeto de apreciação pelo Tribunal de origem. Tampouco foram opostos embargos de declaração para suprimir eventual omissão, de modo que o recurso extraordinário carece, no ponto, do necessário prequestionamento, nos termos das súmulas 282 e 356/STF.
+    Quanto à alegação de violação ao art. 7º, XXIX, da Constituição, o Supremo Tribunal Federal já firmou o entendimento de que o debate a respeito da aplicabilidade da prescrição intercorrente no âmbito da Justiça do Trabalho está limitado à análise de normas infraconstitucionais. Nessa linha, veja-se a ementa do ARE 671.230-AgR, julgado sob a relatoria do Ministro Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. EXECUÇÃO TRABALHISTA. PRESCRIÇÃO INTERCORRENTE. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL.
+    1. A prescrição intercorrente nas relações trabalhistas, quando sub judice a controvérsia, não dá ensejo ao cabimento de recurso extraordinário por situar-se no âmbito infraconstitucional. Precedentes: ARE 740.909, Rel. Min. Rosa Weber, Primeira Turma, DJe 03/10/2013 e ARE 671.257-ED, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 20/6/2012.
+    2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário.
+    3. In casu, o acórdão recorrido assentou: AGRAVO DE INSTRUMENTO. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. MULTA POR EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. DESPROVIMENTO . Diante do óbice da Súmula nº 266 do C. TST e porque não demonstrada violação de dispositivo da Constituição Federal e, ainda, estando a decisão regional em sintonia com a Súmula nº 114 do C. TST, não há como admitir o recurso de revista interposto. Agravo de instrumento desprovido.
+    Agravo regimental DESPROVIDO.”
+    Outros precedentes: ARE 738.528-AgR, Rel. Min. Teori Zavascki, ARE 740.909-AgR, Rel. Min. Rosa Weber, e AI 813.330-AgR, Rel. Min. Ayres Britto.
+    Ademais, quanto à alegação de violação às Súmulas 150 e 327/STF, cabe salientar que o Supremo Tribunal Federal, ao julgar o AI 126.187-AgR, sob a relatoria do Ministro Celso de Mello, fixou entendimento no sentido de que “não enseja acesso a via recursal extraordinária o eventual dissidio interpretativo que oponha a decisão proferida pelo Tribunal a quo ao conteúdo de enunciado sumular do Supremo Tribunal Federal desvestido de fundamento constitucional”.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 26 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
