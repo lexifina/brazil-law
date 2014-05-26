@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1468, de 23 de maio de 2014
+Aprova a 2ª edição do Guia Aduaneiro para a Copa do Mundo FIFA 2014 e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e com fundamento no § 2º do art. 3º, no art. 6º e no parágrafo único do art. 28, todos da Lei nº 12.350, de 20 de dezembro de 2010, e no § 3º do art. 5º, no § 3º do art. 10, no § 2º do art. 11, e no art. 14, todos do Decreto nº 7.578, de 11 de outubro de 2011, resolve:
