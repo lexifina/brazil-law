@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição Federal, no qual se alega aplicação equivocada dos artigos 2º; 5º, II; e 150, §6º, da Constituição da República pelo acórdão do Tribunal Regional Federal da 4ª Região.
+    O acórdão recorrido assim assentou:
+    “TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO LEGAL. APELAÇÃO CÍVEL. CRÉDITO PRESUMIDO DE IPI. LEIS 9.363/96 E 10.276/01. IRPJ. EXCLUSÃO DA BASE DE CÁLCULO. INTELIGÊNCIA DO ARTIGO 557, CAPUT E §1º, DO CPC.” (eDOC 4, p. 15).
+    Nas razões recursais, sustenta-se a inexistência de fundamento constitucional para o reconhecimento de crédito presumido do IPI na exportação de produtos não industrializados ou na aquisição de insumos de pessoas físicas ou de cooperativas não contribuintes de PIS/COFINS, bem como a inexistência de fundamento constitucional para a correção monetária dos créditos reclamados.
+    A Presidência do TRF-4 admitiu o recurso por vislumbrar todos os recursos de admissibilidade.
+    É o relatório.
+    Decido.
+    Em relação ao crédito presumido de IPI, tem-se por prejudicada a demanda. Isto porque o Superior Tribunal de Justiça pronunciou-se em Recurso Especial da seguinte forma:
+    “Por outro lado, no tocante à impossibilidade de computar, para fins de apuração do crédito presumido do IPI, as parcelas referentes à exportação de produtos não tributados, assiste razão à recorrente Fazenda Nacional […] Especificadamente quanto à discussão do cômputo dos valores referentes a exportação de produtos não tributados, a jurisprudência do STJ entende ser legal a limitação imposta pela IN SRF 313/2003 e 419/2004, na medida em que, a própria Lei 9.363/96 admitiu a possibilidade de ampliação ou restrição do conceito de ‘receitas de exportação’ por norma de hierarquia inferior” (eDOC 4, p. 153)
+    Logo, deu-se parcial provimento ao REsp, que transitou em julgado no dia 19 de junho de 2012 (eDOC 4, p. 186).
+    De resto, no tocante à correção monetária de crédito escritural de IPI, vislumbra-se contencioso de mera legalidade, por se tratar de benefício fiscal. Assim, o Supremo Tribunal Federal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Enunciado da Súmula 636 do STF).
+    Mesmo que assim não fosse, conforme a jurisprudência do Supremo Tribunal Federal, essa matéria é de natureza infraconstitucional, o que afasta o cabimento do recurso extraordinário, sendo que eventual ofensa seria meramente indireta.
+    Confiram-se, a esse propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. PRINCÍPIO DA NÃO CUMULATIVIDADE. CRÉDITOS ESCRITURAIS. PRESCRIÇÃO QUINQUENAL. CORREÇÃO MONETÁRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: AI 775.275-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJ 28.10.2011 e AI 595.651-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJ 25.10.2011. 2. A incidência de correção monetária sobre créditos escriturais do IPI, bem como a questão da prescrição quinquenal para o aproveitamento dos créditos fiscais em análise, são temas afetos à análise da matéria infraconstitucional de regência. (Precedentes: RE n. 496.757, Relator o Ministro Ricardo Lewandowski, 1ª Turma, DJe de 19.09.08; AI n. 737.310-AgR, Relator o Ministro Luiz Fux, 1ª Turma, DJe de 16.09.11, RE n. 480.018-AgR, Relator o Ministro Ayres Brito, 2ª Turma, DJe de 13.10.11, entre outros). [...] 4. Agravo regimental a que se NEGA PROVIMENTO.”
+(RE 677908 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 16.5.2013, grifos nossos)
+    “Agravo regimental em agravo de instrumento. 2. Tributário. Crédito presumido de IPI. Benefício fiscal. Correção monetária. 3. Controvérsia de índole infraconstitucional. Ofensa reflexa. Precedentes. 4. Agravo regimental a que se nega provimento.”
+(AI 859494 AgR, de minha relatoria, Segunda Turma, DJe 18.10.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º do RISTF e do art. 557, caput, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 26 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
