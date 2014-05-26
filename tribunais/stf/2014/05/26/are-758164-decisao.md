@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. MILITAR REFORMADO. AUXÍIO-INVALIDEZ (DIÁRIA DE ASILADO). RESTABELECIMENTO. DIREITO ADQUIRIDO. DEVOLUÇÃO AO ERÁRIO DE VERBAS DE NATUREZA ALIMENTAR. PRINCÍPIO DA BOA-FÉ. ENRIQUECIMENTO ILÍCITO NÃO CONFIGURADO. DECADÊNCIA ADMINISTRATIVA. OCORRÊNCIA. APELAÇÃO E REMESSA IMPROVIDAS. MULTA. AGRAVO RETIDO IMPROVIDO. REDUÇÃO DAS ASTREINTES.
+    1. Cinge-se a controvérsia em saber se pode a Administração castrense excluir dos proventos do autor o pagamento de “diária de asilado”, bem como descontar os valores pagos a esse título.
+    2. O art. 54 da Lei 9.784/99 não instituiu entre nós o instituto da perda, por parte da Administração, do direito de invalidar seus próprios atos, que decorrera de laboriosa construção doutrinária e pretoriana, louvada no postulado da segurança jurídica, razão pela qual o prazo quinquenal de caducidade ali previsto, por seu caráter interpretativo, é aplicável aos atos administrativos praticados antes de sua vigência. Precedentes jurisprudenciais.
+    3. No caso, concedida o benefício em 22/03/1957 (fl. 65) não sobrepaira dúvida sobre o transcurso do mencionado prazo legal. Decadência administrativa reconhecida.
+    4. Registre-se, ademais, que na época da concessão (março de 1957), vigiam as regras da Lei n° 2.283/54, as quais não exigiam, para a percepção da diária de asilado, o pressuposto da necessidade de assistência ou cuidado permanentes de enfermagem ou hospitalização. Tais exigências somente foram impostas em 1969, com a edição do DL n°957/96, posterior à concessão do benefício, de modo que não poderia atingir a esfera jurídica do autor. Evidente, pois, à luz do art. 5.°, XXXVI, da Constituição Federal, o seu direito adquirido a receber a “diária de asilado” (atual auxílio-invalidez).
+    4. A multa astreinte não possui caráter ressarcitório, mas sua estipulação deve obedecer ao princípio da razoabilidade, com o qual é consentânea a redução da multa para R$ 100,00 (cem reais) por dia de atraso no cumprimento.
+    5. Agravo retido parcialmente provido, apenas para reduzir o valor da multa astreinte para R$ 100,00 (cem reais) por dia. Remessa oficial e apelação improvidas. “
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2°; 5º, XXXVI; e 37, caput, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “o acórdão decidiu a causa à luz da legislação infraconstitucional pertinente, sendo a ofensa à Constituição indireta ou reflexa, e por isso seu exame na via extraordinária mostra-se inadmissível.”
+    O recurso é inadmissível, tendo em vista que o Tribunal de origem adotou fundamentação infraconstitucional, autônoma e suficiente para solucionar a controvérsia dos autos, concernente ao reconhecimento da decadência do direito da Administração de rever a concessão do benefício questionado. Note-se que a referida fundamentação está preclusa ante o desprovimento, pelo Superior Tribunal de Justiça, do recurso especial simultaneamente interposto ao presente recurso extraordinário (REsp 1.382.730). Na hipótese, incide a Súmula 283/STF:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 26 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
