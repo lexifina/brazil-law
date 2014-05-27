@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão proferido pelo Superior Tribunal de Justiça cuja ementa segue transcrita:
+    “RECURSO ESPECIAL. TERCEIRO PREJUDICADO. ART. 499, § 1º, DO CÓDIGO DE PROCESSO CIVIL. INTERESSE JURÍDICO. INEXISTÊNCIA. AÇÃO DE EXECUÇÃO. HIPOTECA JUDICIÁRIA. PAGAMENTO DO DÉBITO. CONSEQUENTE LEVANTAMENTO DA CONSTRIÇÃO. RECURSO CONHECIDO EM PARTE E DESPROVIDO.
+    1. Na forma do art. 499, § 1º, do Código de Processo civil, o recurso de terceiro prejudicado está condicionado à demonstração de prejuízo jurídico da decisão judicial, e não somente do prejuízo econômico, ou seja, deve existir nexo entre o interesse do terceiro e a relação jurídica submetida à apreciação judicial.
+    2. Em sede de execução, ficando demonstrado que foram efetuadas, em momentos distintos e para garantia do pagamento de verbas diversas, duas constrições, havendo o pagamento do débito, impõe-se o levantamento da hipoteca judiciária e a imissão do devedor na posse do bem dado em garantia.
+    3. Se os bens objeto da primeira constrição foram arrematados pelo credor, que o vendeu a terceiros, de modo que parte deles foi integrar o patrimônio do recorrente, a questão deverá ser dirimida nas vias ordinárias.
+    4. Recurso especial conhecido em parte e desprovido.” (pág. 32 do documento eletrônico 36).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 5º, XXII, XXXV, XXXVI, LV e LXXVIII, da mesma Carta.
+    A pretensão não merece acolhida. A jurisprudência desta Corte firmou-se no sentido de que o acórdão do Superior Tribunal de Justiça, proferido no julgamento de recurso especial, somente legitimará o uso da via recursal extraordinária se a questão constitucional nele versada for diversa daquela decidida pela instância ordinária. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial, o que não é o caso dos autos. Nesse sentido, menciono as seguintes decisões, entre outras: RE 409.973-AgR/SP, Rel. Min. Celso de Mello; AI 302.930-AgR-ED/SP, Rel. Min. Ellen Gracie; AI 787.991-AgR/DF, de minha relatoria; AI 641.299-AgR/PR, Rel. Min. Eros Grau.
+    Ainda que superado o mencionado óbice, melhor sorte não assistiria ao recorrente. Isso porque o art. 5º, XXII, XXXV, XXXVI, LV e LXXVIII, da Constituição Federal, dispositivos tidos como violados, não foram prequestionados. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
