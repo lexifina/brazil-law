@@ -1,0 +1,23 @@
+Trata-se de reclamação constitucional, com pedido de medida liminar, proposta por ESTEVAM BALBINO ROBERTO, em que se aponta como autoridade coatora o Vice-Presidente do Superior Tribunal de Justiça, que teria negado seguimento a recurso extraordinário e respectivo agravo, interpostos naquela Corte Superior, sob o fundamento de inexistência do requisito processual de repercussão geral do apelo extremo dirigido ao Supremo Tribunal Federal.
+    O reclamante, de início, narra os fatos processuais que deram origem à ação penal a que responde pela prática do delito tipificado no art. 157, § 2º, II, do Código Penal.
+    Na sequência discorre sobre a sistemática processual do rito da repercussão geral e conclui que o Vice-Presidente do Superior Tribunal de Justiça, ora apontado como autoridade coatora, não tem competência para definir se uma causa possui ou não repercussão geral.
+    Entende, desse modo, usurpada a competência desta Corte.
+    Ao final, pede a concessão de medida liminar para suspender o trâmite do AI 1.261.687/SC no Superior Tribunal de Justiça.
+    Indeferi a liminar (documento eletrônico 15) e determinei a remessa dos autos à Procuradoria-Geral da República, que se manifestou pelo não conhecimento do pedido, em parecer assim ementado:
+    “RECLAMAÇÃO CRIMINAL. ALEGADA USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. INOCORRÊNCIA. 1 – A repercussão geral constitui requisito de pré-admissibilidade do recurso extraordinário. 2 – A análise da existência de pressuposto de admissibilidade de recurso da competência de outros tribunais não enseja repercussão geral para fim de julgamento de Recurso Extraordinário. 3 – Não se admite o uso de Reclamação para impugnar decisão de tribunal que aplica a sistemática da repercussão geral. 4 – Manifestação pelo não conhecimento da Reclamação” (documento eletrônico 17).
+    É o relatório necessário. Decido.
+    Bem examinados os autos, verifico que o pedido não comporta seguimento.
+    Tal como bem assentado no parecer ministerial, não se admite o uso de reclamação para impugnar decisão de tribunal que aplica a sistemática da repercussão geral.
+    O Supremo Tribunal Federal já se pronunciou, em mais de uma oportunidade, pelo não cabimento da reclamação ajuizada com o específico propósito de corrigir eventuais equívocos na aplicação, pelos tribunais, do instituto da repercussão geral. Asseverou o Plenário, no julgamento da Rcl 7.569/SP, Rel. Min. Ellen Gracie, e do AI 760.358-QO/SE, Rel. Min. Gilmar Mendes, que a correção de possíveis desacertos deve ser realizada pelo próprio tribunal de origem, “seja em juízo de retratação, seja por decisão colegiada”, já que “não está exercendo competência do STF, mas atribuição própria” (grifos meus).
+    Esse posicionamento foi posteriormente ratificado no julgamento dos seguintes feitos: Rcl 9.471-AgR/MG, Rel. Min. Gilmar Mendes; Rcl 9.155-AgR/SP, Rel. Min. Ayres Britto; Rcl 11.250-AgR/RS, de minha relatoria; Rcl 12.701-AgR/RJ, Rel. Min. Celso de Mello; e Rcl 7.578-AgR/SP, Rel. Min. Joaquim Barbosa. O dois últimos precedentes citados, firmados pelo Plenário desta Corte, possuem as seguintes ementas, respectivamente:
+    “RECLAMAÇÃO - DECISÃO QUE NEGA TRÂNSITO AO RECURSO EXTRAORDINÁRIO PORQUE NÃO RECONHECIDA A EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL NELE SUSCITADA - ALEGADA USURPAÇÃO DA COMPETÊNCIA DESTA SUPREMA CORTE - INOCORRÊNCIA - INADMISSIBILIDADE DO USO DA RECLAMAÇÃO COMO INSTRUMENTO DESTINADO A QUESTIONAR A APLICAÇÃO, PELO TRIBUNAL DE ORIGEM, DO SISTEMA DE REPERCUSSÃO GERAL - PRECEDENTES FIRMADOS PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (RCL 7.547/SP, REL. MIN. ELLEN GRACIE - RCL 7.569/SP, REL. MIN. ELLEN GRACIE - AI 760.358-QO/SE, REL. MIN. GILMAR MENDES) - INCOGNOSCIBILIDADE DA RECLAMAÇÃO RECONHECIDA PELA DECISÃO AGRAVADA - LEGITIMIDADE - CONSEQÜENTE EXTINÇÃO ANÔMALA DO PROCESSO DE RECLAMAÇÃO - RECURSO DE AGRAVO IMPROVIDO” (grifos meus).
+    “CONSTITUCIONAL. REPERCUSSÃO GERAL. RECLAMAÇÃO CONSTITUCIONAL. NÃO CABIMENTO DA RECLAMAÇÃO.
+    Não cabe reclamação constitucional para correção da alegada aplicação equivocada de precedente que firma inexistir repercussão geral da matéria constitucional.
+    Precedentes.
+    Agravo regimental conhecido, mas ao qual se nega provimento” (grifos meus).
+    Esse entendimento voltou a ser proclamado pelo Plenário desta Casa no julgamento, em 27/2/2014, da Rcl 9.886-ED/SP, Rel. Min. Teori Zavascki, no sentido de que “não se admite reclamação contra decisão que, nos tribunais de origem, aplica a sistemática da repercussão geral”.
+    Isso posto, nego seguimento a esta reclamação, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de maio de 2014.
+Ministro Ricardo Lewandowski
+Relator
