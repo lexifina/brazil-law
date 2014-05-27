@@ -1,0 +1,20 @@
+Trata-se de agravo de decisão que negou seguimento a recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará, cujos fundamentos estão sintetizados na seguinte ementa (fls. 121-122):
+    “Ação Direta de Inconstitucionalidade com pedido de medida cautelar. Arguição de inconstitucionalidade dos incisos XX e XXII do art. 3º da Lei Municipal nº 7.832/1997, com a redação conferida pela Lei nº 8.427/2003. Denegação da medida cautelar. Preliminar de ilegitimidade da Requerente. Rechaçada. Não reconhecida a inconstitucionalidade dos preceitos legais designados pela autora. Pedido julgado improcedente.
+    - Condicionar a abertura de parte de comércio varejista em dias não úteis à existência de previsão em acordo ou convenção coletiva de trabalho não é matéria que escape ao interesse local previsto no art. 30, I, da Constituição Federal e 56, II, da Constituição Estadual. Os municípios gozam de autonomia para regular o horário do comércio local, devendo, no entanto, ao fazê-lo, observar a não infração às leis estaduais ou federais válidas. Tal ocorrendo, conforme entendimento firmado pelo Supremo Tribunal Federal, não há afronta aos princípios da isonomia, da livre iniciativa, da livre concorrência, do livre comércio ou da defesa do consumidor.
+    - Sendo indiscutível a competência do Município para organizar o funcionamento do comércio dentro de sua base territorial, fica afastada qualquer dúvida a respeito da legalidade ou inconstitucionalidade dos incisos XX e XXII do art. 3º da Lei Municipal nº 7.832/1997, com a redação dada pela Lei Municipal nº 8.427/2003.
+    Improcedência do pedido. Decisão unânime”.
+    No recurso extraordinário, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 30, I; e 22, I, da mesma Carta.
+    O recurso não tem condições de êxito, pois o acórdão recorrido está em consonância com a jurisprudência assente nesta Corte, como se infere dos seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NORMAS ADMINISTRATIVAS MUNICIPAIS QUE DISCIPLINAM O HORÁRIO DE FUNCIONAMENTO DO COMÉRCIO LOCAL. COMPETÊNCIA DO MUNICÍPIO PARA OS ASSUNTOS DE SEU INTERESSE: ART. 30, I, DA CONSTITUIÇÃO.
+    Os municípios têm autonomia para regular o horário do comércio local, desde que não infrinjam leis estaduais ou federais válidas, pois a Constituição lhes confere competência para legislar sobre assuntos de interesse local.
+    Agravo regimental a que se nega provimento” (AI (AgR) 622.405/MG, Rel. Min. Eros Grau).
+    “Município: competência para a fixação de horário de funcionamento de estabelecimento comercial: incidência da Súmula 645” (AI (AgR) 565.882/RS, Rel. Min. Sepúlveda Pertence).
+    “RECURSO EXTRAORDINÁRIO. FARMÁCIA. FIXAÇÃO DE HORÁRIO DE FUNCIONAMENTO. ASSUNTO DE INTERESSE LOCAL.
+    A fixação de horário de funcionamento para o comércio dentro da área municipal pode ser feita por lei local, visando o interesse do consumidor e evitando a dominação do mercado por oligopólio. Precedentes. Recurso extraordinário não conhecido” (RE 189.170/SP, Rel. Min. Marco Aurélio).
+    Ademais, consta dos autos que a Lei 7.832/97 – que disciplina o funcionamento do comércio do Município de Belém – foi alterada pela Lei 7.296/98, para incluir no rol dos empreendimentos autorizados a funcionar em domingos e feriados os shopping centers e supermercados. Sobreveio a edição da Lei 8.427/2003, que deu nova redação aos incisos XX e XXII do art. 3º da Lei 7.832/97, passando a condicionar a abertura de certa parte do comércio varejista em dias não úteis à existência de previsão em acordo ou convenção coletiva de trabalho, o que está de acordo com o disposto no art. 6º-A da Lei Federal 10.101/2000, que prevê:
+    “Art. 6º-A. É permitido o trabalho em feriados nas atividades do comércio em geral, desde que autorizado em convenção coletiva de trabalho e observada a legislação municipal, nos termos do art. 30, inciso I, da Constituição”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de maio de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
