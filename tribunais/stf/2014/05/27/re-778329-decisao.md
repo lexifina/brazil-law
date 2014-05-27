@@ -1,0 +1,13 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente apelo extremo, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, no que se refere à alegada violação ao art. 7º, XIII e XVI, c/c o art. 39, § 3º, da Constituição Federal, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o acesso à via recursal extraordinária.
+    Impende assinalar, ainda, no tocante à mencionada transgressão, que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    De outro lado, o exame da presente causa evidencia que o recurso extraordinário – no ponto em que discute a incidência, ou não, de contribuição previdenciária sobre as horas extras – revela-se processualmente viável.
+    Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 545.317-AgR/DF, Rel. Min. GILMAR MENDES, fixou entendimento que torna plenamente acolhível a pretensão de direito material deduzida pela parte ora recorrente:
+    “Agravo regimental em recurso extraordinário. 2. Prequestionamento. Ocorrência. 3. Servidores públicos federais. Incidência de contribuição previdenciária. Férias e horas extras. Verbas indenizatórias. Impossibilidade. 4. Agravo regimental a que se nega provimento.”
+    Cabe registrar, finalmente, que não se demonstrou, considerada a hipótese prevista no art. 102, III, “c”, da Carta Política, que o acórdão recorrido tenha julgado válida lei local em face da Constituição da República.
+    Sendo assim, e tendo em consideração as razões expostas, conheço, em parte, do presente recurso extraordinário, para, nessa parte, dar-lhe parcial provimento (CPC, art. 557, § 1º-A), em ordem a determinar a não incidência de contribuição previdenciária sobre os valores referentes às horas extras reconhecidas, ao ora recorrente, pelo órgão judiciário de origem.
+    As custas processuais e a verba honorária, que fixo em 10% (dez por cento) sobre o valor atualizado da causa, serão pagas pela parte sucumbente.
+    Publique-se.
+    Brasília, 27 de maio de 2014.
+Ministro CELSO DE MELLO
+Relator
