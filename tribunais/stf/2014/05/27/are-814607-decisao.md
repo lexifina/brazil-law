@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário, que impugna acórdão do Tribunal de Justiça do Estado do Goiás. Confira-se a ementa do julgado:
+    “HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE FLAGRANTE. AUSÊNCIA DE PROVAS DA MATERIALIDADE E NEGATIVA DE AUTORIA. INDEFERIMENTO DO PEDIDO DE LIBERDADE PROVISÓRIA. DECISÃO DESFUNDAMENTADA. 1 - Não há falar-se em nulidade do flagrante quando já oferecida denúncia, restando superada tal ilegalidade pelo seu recebimento e regular andamento processual. 2 – alegações pertinentes à ausência de provas da materialidade delitiva e negativa de autoria, quando não demonstradas de plano, reclamam dilação probatória, razão porque não podem ser apreciadas em sede de Habeas Corpus. 3 – Evidencia constrangimento ilegal a decisão que indefere pedido de liberdade provisória sem apontar elementos concretos que indiquem a necessidade da prisão preventiva do paciente. Ordem concedida” (eDOC 2, p. 51).
+    Foram opostos embargos de declaração pelo órgão ministerial, que restaram rejeitados (eDOC 2, p. 76).
+    Daí a interposição do apelo extremo pelo Ministério Público Estadual.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, sustenta-se violação ao art. 5º, inciso XLIII, da Constituição Federal (eDOC 2, p. 88-94).
+    O Parquet alega que o acórdão recorrido violou a proibição da concessão de liberdade provisória no caso de tráfico de drogas.
+    O Tribunal a quo negou trânsito ao recurso extraordinário, invocando o óbice da Súmula 282/STF (eDOC 3, p. 13-14).
+    É o relatório.
+    Decido.
+    Não assiste razão ao agravante.
+    Em sessão realizada em 10.5.2012, o Plenário desta Suprema Corte, ao analisar o HC 104.339/SP, de minha relatoria, por maioria, declarou, incidenter tantum, a inconstitucionalidade da expressão e liberdade provisória, constante do caput do art. 44 da Lei 11.343/2006.
+    Naquela oportunidade, o Pleno do STF concedeu parcialmente a ordem para declarar a inconstitucionalidade da vedação à liberdade provisória prevista no art. 44 da Lei n. 11.343/2006 e determinar ao Juízo de origem que apreciasse os requisitos previstos no art. 312 do CPP para, se for o caso, manter a segregação cautelar do paciente.
+    Reputo pertinente transcrever os seguintes trechos do meu voto:
+    “Tenho para mim que essa vedação apriorística de concessão de liberdade provisória (Lei n. 11.343/2006, art. 44) é incompatível com o princípio constitucional da presunção de inocência, do devido processo legal, entre outros. É que a Lei de Drogas, ao afastar a concessão da liberdade provisória de forma apriorística e genérica, retira do juiz competente a oportunidade de, no caso concreto, analisar os pressupostos da necessidade do cárcere cautelar, em inequívoca antecipação de pena, indo de encontro a diversos dispositivos constitucionais.
+    A previsão constitucional de que o crime de tráfico de entorpecentes é inafiançável (art. 5º, XLIII) não traduz dizer que seja insuscetível de liberdade provisória, pois conflitaria com o inciso LXVI do mesmo dispositivo, que estabelece que ninguém será levado à prisão ou nela mantido quando a lei admitir a liberdade provisória, com ou sem fiança.
+    Cumpre destacar, ainda, a advertência feita pelo min. Celso Mello, ao deferir a liminar pleiteada no HC n. 100.362/SP, de que regra legal, de conteúdo material virtualmente idêntico ao do preceito em exame, consubstanciada no art. 21 da Lei n. 10.826/2003, foi declarada inconstitucional por esta Suprema Corte (HC n. 100.362/SP, rel. Min. Celso de Mello, DJe 7.10.2009).
+    Tratava-se de Ação Direta de Inconstitucionalidade (ADI n. 3.112/DF) proposta contra diversos dispositivos do Estatuto do Desarmamento (Lei n. 10.826/2003), entre os quais o art. 21, que previa a insusceptibilidade de concessão de liberdade provisória aos crimes previstos nos artigos 16, 17 e 18 da referida lei. Ao fim, o preceito foi declarado inconstitucional, ao fundamento de ferir os princípios constitucionais da presunção de inocência e o da necessária motivação das decisões judiciais.
+    (…) Nesse sentido, imperioso concluir que a segregação cautelar mesmo nos crimes atinentes ao tráfico ilícito de entorpecentes deve ser analisada tal qual as prisões decretadas nos casos dos demais delitos previstos no ordenamento jurídico, o que conduz à necessidade de serem apreciados os fundamentos da decisão que denegou a liberdade provisória ao ora paciente, no intuito de verificar se estão presentes os requisitos do art. 312 do CPP que rege a matéria”.
+    Cito, a propósito, a ementa do referido precedente:
+    “Habeas corpus. 2. Paciente preso em flagrante por infração ao art. 33, caput, c/c 40, III, da Lei 11.343/2006. 3. Liberdade provisória. Vedação expressa (Lei n. 11.343/2006, art. 44). 4. Constrição cautelar mantida somente com base na proibição legal. 5. Necessidade de análise dos requisitos do art. 312 do CPP. Fundamentação inidônea. 6. Ordem concedida, parcialmente, nos termos da liminar anteriormente deferida”.
+    Dessa orientação jurisprudencial não divergiu o acórdão recorrido.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (Art. 544, § 4º, II, b, do CPC).
+    Publique-se. Int..
+    Brasília, 27 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
