@@ -1,0 +1,11 @@
+Trata-se de embargos declaratórios opostos contra decisão que negou seguimento a recurso extraordinário, no qual se aponta omissão quanto à análise da responsabilização objetiva do recorrente na demora na análise da aposentadoria do recorrido.
+    O embargante alega que o tribunal de origem teria negado vigência ao disposto no artigo 37, § 6º, da Carta Magna, “ao considerar a responsabilização objetiva do Estado, vez que esta norma só é aplicável quando presentes três requisitos: ação ou omissão estatal, resultado danoso e nexo de causalidade”. Sustenta não ter havido resultado danoso para a embargada, porquanto a demora na análise de sua aposentadoria teria ensejado apenas mero aborrecimento.
+    Os embargos merecem acolhimento para que a alegada omissão seja sanada.
+    Entretanto, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, quanto à responsabilização objetiva do recorrente e à ocorrência do resultado danoso, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. DANOS MORAIS E MATERIAIS. 1. Análise de matéria infraconstitucional. Ofensa constitucional indireta. 2. Impossibilidade de reexame de fatos e provas. súmula n. 279 do Supremo Tribunal Federal. 3. Agravo regimental ao qual se nega provimento” (ARE 790.566-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma).
+    “Agravo regimental no agravo de instrumento. responsabilidade objetiva do Estado. Indenização. Nexo causal. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem concluiu pela responsabilidade objetiva da Administração Pública e o consequente dever de indenizar com fundamento nos elementos fáticos-probatórios constantes dos autos. 2. Inadmissível em recurso extraordinário o reexame de fatos e provas. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido” (AI 666.378-AgR/PI, Rel. Min. Dias Toffoli, Primeira Turma).
+    Isso posto, acolho os embargos, apenas para sanar a omissão alegada, mantendo válida a decisão embargada por seus próprios fundamentos.
+    Publique-se.
+    Brasília, 27 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
