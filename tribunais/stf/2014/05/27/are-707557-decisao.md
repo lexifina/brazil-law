@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “MANDADO DE SEGURANÇA. PROIBIÇÃO DE VENDA DE BEBIDA ALCOÓLICA. RODOVIA FEDERAL. ESTABELECIMENTO LOCALIZADO EM ÁREA URBANA. MEDIDA PROVISÓRIA Nº 415/2008. CONVERSÃO. LEI Nº 11.705/2008
+    1. A Medida Provisória nº 415/2008, posteriormente convertida na Lei nº 11.705/2008, proíbe a venda de bebidas alcoólicas em estabelecimentos comerciais localizados em rodovias federais, desde que não estejam situados em área urbana.
+    2. Apelação e remessa oficial a que se nega provimento”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, caput, LXIX, bem como aos princípios da proporcionalidade e da razoabilidade. Sustenta que “a IMPETRANTE não trouxe elementos suficientes aptos a provar que seu estabelecimento está localizado dentro do perímetro urbano, ou seja, não trouxe a lei municipal que delimita o perímetro urbano, nem demonstrou a exata localização do estabelecimento”.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que eventual ofensa ao Texto Constitucional ocorreria de modo reflexo ou indireto.
+    O recurso não deve ser provido. Observa-se que o Tribunal de origem, ao analisar a legislação aplicada à espécie (MP nº 415/2008 convertida na Lei nº 11.705/2008), concluiu que a proibição de venda de bebida alcoólica só se aplica a estabelecimentos comerciais localizados em rodovias federais, desde que não estejam situados em área urbana. Assentou, ainda, que tal proibição não se aplica à parte recorrida, tendo em vista que não se enquadra nas restrições estabelecidas na lei. Vejam-se os seguintes trechos do acórdão:
+    “No tocante aos estabelecimentos situados na faixa de domínio de rodovia federal dentro de áreas urbanas, hipótese dos autos, a proibição levada a efeito pela medida provisória não conduziria ao resultado por ela visado, na medida em que sempre será possível ao motorista desviar-se por pequeno trecho para ingerir bebidas alcoólicas. Neste caso, penso que a proibição de venda de bebidas alcoólicas – restritiva de direito dos comerciantes, com reflexos sobre os interesses dos consumidores – não é medida adequada e proporcional ao escopo da mesma. Em coerência com esse raciocínio esta o Decreto 6.366/2008, regulamento da citada medida provisória que, na linha da definição contida no anexo I do Código de Trânsito Brasileiro, definiu como faixa de domínio a superfície lindeira às vias rurais (art. 2º, inciso I).
+    Anoto que a referida Medida Provisória foi convertida na Lei nº 11.705/2008, cujo texto foi alterado no §3º do art. 2º, para excluir da proibição de venda de bebidas alcoólicas os estabelecimentos situados em área urbana, estando assim redigido:
+    […]
+    Assim, considero que a restrição já não se aplicava à empresa impetrante antes mesmo da alteração levada a efeito pela lei de conversão (Lei nº 11.705/2008), pois situada dentro da área urbana, conforme demonstra o auto de infração e notificação expedido pelo Departamento de Polícia Rodoviária de Polícia Rodoviária Federal (fl. 13)”.
+    Dissentir dessa conclusão exigiria a análise da legislação infraconstitucional aplicada ao caso, bem como o reexame de fatos e provas constantes dos autos, providências que não têm lugar neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC, e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 27 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
