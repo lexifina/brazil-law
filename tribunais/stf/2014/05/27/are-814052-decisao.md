@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “TRIBUTÁRIO – EMBARGOS À EXECUÇÃO FISCAL - “RECOLHIMENTO A MENOR DE ICMS DECORRENTE DO APROVEITAMENTO INTEGRAL E INDEVIDO DE CRÉDITO DO IMPOSTO REFERENTE À ENTRADA DE MERCADORIAS QUE TIVERAM SAÍDAS AMPARADAS PELA REDUÇÃO DE BASE DE CÁLCULO” - PRESUNÇÃO DE CERTEZA E LIQUIDEZ DA CERTIDÃO DE DÍVIDA ATIVA NÃO ELIDIDA – NULIDADE – INOCORRÊNCIA – EMBARGOS IMPROCEDENTES.
+    1. A divida regulamente inscrita goza de presunção de certeza e liquidez, somente elidida por prova inequívoca, a cargo do sujeito passivo ou de terceiro a que acolhe, ex vi dos artigos 204 e parágrafo único da Lei de Execução Fiscal.
+    2. Conforme entendimento assente na jurisprudência, não ofende o princípio da não-cumulatividade, a exigência de estorno proporcional de crédito do ICMS relativo à entrada de mercadoria que, posteriormente, têm a saída tributária com base de cálculo ou alíquota reduzida. ” (pág. 161 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 155, II e § 2º, I, da mesma Carta.
+    O agravo não merece acolhida.
+    Isso porque, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Estadual 6.763/1975). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo a quo , o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, destaco as seguintes ementas:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. MERCADORIAS DADAS EM BONIFICAÇÃO. REEXAME DE PROVAS E DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Reexame de fatos e provas e de legislação local. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 749.065 - AgR/RS, Rel. Min. Eros Grau, Segunda Turma).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. BASE DE CÁLCULO REDUZIDA. ESTORNO PROPORCIONAL: INEXISTÊNCIA DE AFRONTA AO PRINCÍPIO DA NÃO CUMULATIVIDADE. COMPENSAÇÃO: PREENCHIMENTO DOS REQUISITOS LEGAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (AI 725.306 - AgR/RS, Rel. Min. Cármen Lúcia,Primeira Turma).
+    Ressalto, ainda que, para se chegar à conclusão contrária à adotada pelo Tribunal de origem a fins de redução da base de cálculo e afastamento das multas aplicadas, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 27 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
