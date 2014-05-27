@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão da Segunda Turma Recursal da Seção Judiciária de Santa Catarina que reconheceu como tempo especial o período de 6.3.1997 a 14.7.2007 para efeito de concessão de aposentadoria especial aos 25 anos ou, alternativamente, para efeito de concessão de aposentadoria por tempo de contribuição (eDOC 97).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 5º, XXXV, XXXVI, LIV e LV; 195, § 5º; e 201, § 1º, do texto constitucional.
+    Aponta-se a impossibilidade de se reconhecer, no caso concreto, a especialidade da atividade exercida pelo recorrido, sob pena de admitir-se a concessão de benefícios sem previsão legal, nem prévia fonte de custeio.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, com relação à alegada ofensa ao artigo 5º, XXXV, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o acórdão ou decisão devem ser fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Ainda verifico que divergir do entendimento adotado pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, providência vedada na via extraordinária, em face do óbice previsto no Enunciado 279 da Súmula do STF.
+    Quanto ao tema, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CRITÉRIOS PARA RECONHECIMENTO DE ATIVIDADE ESPECIAL. NECESSIDADE DO REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 668.513-AgR/SC, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 28.3.2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ABONO DE PERMANÊNCIA. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. IMPRESCINDIBILIDADE DA INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido quanto ao preenchimento dos requisitos para a concessão do abono de permanência seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 do STF, bem como seria imprescindível a interpretação da legislação infraconstitucional aplicável à espécie (Lei Complementar 51/1985), o que inviabiliza o extraordinário. Precedentes. II – Agravo regimental a que se nega provimento”. (ARE 798.574-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 08.5.2014)
+    No tocante à suposta ofensa ao princípio da ampla defesa e do contraditório, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+    Publique-se.
+    Brasília, 27 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
