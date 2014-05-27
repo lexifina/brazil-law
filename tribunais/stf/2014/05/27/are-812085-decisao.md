@@ -1,0 +1,9 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário em que se discute, no tocante à Gratificação de Desempenho de Atividade do Seguro Social (GDASS), a fixação do termo final do direito à paridade remuneratória entre servidores ativos e inativos
+    No RE (doc. eletrônico 49), fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º caput, 7º, XXX, 39, § 3º e 40, § 8º, da mesma Carta da República.
+    Observe-se, preliminarmente, que, à exceção dos arts. 40, § 8º, da Lei Maior, os demais dispositivos apontados como violados não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Ademais, o Juízo a quo, interpretando a legislação infraconstitucional correlata, entendeu que o direito à paridade no recebimento das gratificações ora discutidas entre servidores em atividade e os inativos tem fim quando se encerra o período do primeiro ciclo avaliativo. Com efeito, a reapreciação do julgado, em especial no ponto relativo à data da efetiva realização do ciclo de avaliação, exigiria o reexame das indigitadas normas infraconstitucionais aplicáveis à espécie bem como a análise do conjunto fático probatório constante dos autos, o que inviabiliza o extraordinário a teor da Súmula 279. Nesse sentido: ARE 762.253/PR, Rel. Min. Luiz Fux; RE 794.396/RS, Rel. Min. Cármen Lúcia; RE 717.878/RS e RE 741.389/RS, Rel. Min. Dias Toffoli.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
