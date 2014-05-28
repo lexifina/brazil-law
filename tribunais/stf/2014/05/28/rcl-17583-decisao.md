@@ -1,0 +1,17 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada por ROGÉRIO JOSÉ MARTINS, contra acórdão da 10ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo, que, no julgamento do Agravo em Execução 0138750-31.2013.8.26.0000, teria declarado inconstitucional a concessão, pelo Decreto Presidencial 7.648/2011, de indulto da pena de multa, a condenados pela prática de crime hediondo, desrespeitando a Súmula Vinculante 10.
+    O reclamante narra, inicialmente, que, nos autos da Execução Penal 754.751 da Comarca de Santa Branca, peticionou para que fosse concedido indulto da pena de multa imposta, conforme previsão expressa do art. 1º, IX, combinado com o art. 8º, § 1º, ambos do Decreto Presidencial 7.648/2011, haja vista que a pena privativa de liberdade fora cumprida antes de 25/12/2011.
+    Afirma, em seguida, que o juízo da execução deferiu o pedido, com fundamento no art. 8º, § 1º, do referido Decreto, o que deu ensejo à interposição de agravo em execução para o TJSP.
+    A 10ª Câmara Criminal daquele Tribunal, entretanto, declarou inconstitucional a concessão de indulto da pena de multa, nos termos do Decreto Presidencial 7.648/2011, a condenados pela prática de crime hediondo.
+    O reclamante alega, em suma, que a referida decisão não observou a Súmula Vinculante 10, porque prolatada em desacordo com a regra constitucional de reserva de plenário (art. 97 da Constituição Federal). Sustenta, assim, ter sido usurpada a competência do tribunal pleno ou de seu órgão especial para declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.
+    Aduz, ainda, estarem presentes os requisitos ensejadores da concessão da liminar. Afirma que a plausibilidade do pedido está demonstrada, porquanto o ato reclamado usurpou a competência do plenário ou órgão especial, e que se observa a ocorrência do perigo da demora, uma vez que existe a possibilidade de execução de pena já pela Presidente da República (art. 84, XII, da CF).
+    No mérito, pugna pela procedência desta reclamação, para cassar o acórdão proferido no Agravo em Execução 0138750-31.2013.8.26.0000 e determinar seja outro proferido, em observância à Constituição Federal.
+    Em 28/4/2014, intimei o reclamante para que, no prazo de 10 (dez) dias, prestasse esclarecimentos acerca de seu pedido. Entretanto, não houve qualquer manifestação nos autos.
+    É o relatório necessário. Decido.
+    Conforme aduzi em despacho acima citado, verifiquei, em consulta disponível no sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, que o acórdão objeto da presente reclamação transitou em julgado para o Ministério Público em 13/1/2014 e, em 16/1/2014, foi remetido à Vara de origem para a intimação da defesa do reclamante.
+    A Defensoria Pública do Estado de São Paulo não comprovou a inocorrência do trânsito em julgado do acórdão reclamado tampouco aditou a inicial com essa informação, deixando de instruir adequadamente a reclamação, nos termos do que dispõe o art. 156, parágrafo único do Regimento Interno do STF.
+     A comprovação da inocorrência do trânsito em julgado do acórdão reclamado é condição sine qua non para o prosseguimento do feito, tendo em vista o teor da Súmula 734 do STF.
+    Ante o exposto, nego seguimento à presente reclamação (art. 38 da Lei 8.038/1990 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal). Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 28 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
