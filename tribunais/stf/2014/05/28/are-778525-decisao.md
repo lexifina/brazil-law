@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “SINDICATO DE TRABALHADORES. QUÍMICOS. ILEGITIMIDADE. É o sindicato que representa a categoria dos trabalhadores em estabelecimentos de ensino parte ilegítima para defender mediante demanda coletiva, como substituto processual, interesses ou direitos dos químicos contra o Conselho Regional de Química”. (eDOC 12, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 7º, IV, VII e X; e 8º, III, do texto constitucional.
+    Aponta-se que o Sindicato dos Trabalhadores em Estabelecimento de Ensino de Maringá é parte legítima para substituir processualmente os Químicos que ministram aulas na Universidade Estadual de Maringá.
+    Alega-se a inconstitucionalidade da Lei 11.000/2004 e insurge-se contra as anuidades cobradas pelo Conselho Regional de Química – CFQ, ao fundamento de serem abusivas.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, no que tange à inconstitucionalidade da Lei 11.000/2004 e às anuidades cobradas pelo Conselho Regional, observo que o Tribunal de origem extinguiu o feito por apenas por entender ilegítima a substituição processual no caso.
+    Vislumbra-se, portanto, a deficiência da fundamentação do recurso extraordinário quanto a este ponto, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão recorrido, a dar ensejo à aplicação Enunciado 284 da Súmula do STF. Nesse sentido, é a jurisprudência desta Corte. Confira-se o RE-AgR 601.686, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1º.2.2011, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. 1. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2. PODER JUDICIÁRIO. PRINCÍPIO DA ISONOMIA: IMPOSSIBILIDADE DE CONCESSÃO DE BENEFÍCIO TRIBUTÁRIO NÃO PREVISTO EM LEI. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Quanto à questão remanescente, verifico que o Tribunal a quo, ao examinar a Consolidação das Leis Trabalhistas e a Lei 73.316/1985, entendeu pela ilegitimidade ad causam do SINTEEMAR. Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Sobre o tema, confiram-se os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Trabalhista. Sindicato. Legitimidade ad causam. Enquadramento sindical. Empregados de cooperativa de crédito. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal Superior do Trabalho concluiu, com base na CLT, bem como nas Leis nºs 4.594/64 e 5.764/71, e nos fatos e nas provas dos autos, que os empregados de cooperativa de crédito não se equiparam aos bancários para os fins legais, razão pela qual o ora agravante, representante dessa categoria, não seria parte legítima para representar em Juízo os empregados da agravada. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279 desta Corte. 3. Agravo regimental não provido”. (ARE 669.818-AgR/MG, Rel. Min. Dias Toffoli, Primeira Turma, DJe 23.10.2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. REPRESENTAÇÃO SINDICAL. LEGITIMIDADE PARA REPRESENTAR DETERMINADA CATEGORIA: IMPOSSIBILIDADE DO REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 388.966-AgR/SP, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 30.4.2010)
+    “Agravo regimental em recurso extraordinário. 2. Sindicato. Legitimidade. Ação civil pública. IPESC. 3. Súmula nº 279/STF. 4. Inviabilidade de reexame da legislação infraconstitucional. 5. Agravo regimental a que se nega provimento”. (RE 767.517-AgR/SC, da minha relatoria, Segunda Turma, DJe 10.3.2014)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 28 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
