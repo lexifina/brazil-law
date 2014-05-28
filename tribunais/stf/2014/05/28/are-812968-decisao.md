@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão, cujo trecho da ementa transcrevo abaixo:
+    “[...] ISENÇÃO DE IPVA – PRINCÍPIOS DA ISONOMIA E RAZOABILIDADE. 1. Deve ser deferida ao deficiente físico a isenção de IPVA, mesmo que o veículo seja conduzido por terceiro. 2. A lei deve ser interpretada sistematicamente, ou seja, em consonância com os princípios da isonomia e razoabilidade, não havendo óbice para extensão da isenção contida no art. 3º, III, da Lei nº 14.937/2003, aos impossibilitados de conduzir autonomamente o veículo. [...]”. (fl. 100)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º e 150, § 6º, do texto constitucional.
+     Nas razões recursais, aduz-se, em síntese, ofensa à legislação estadual, porquanto o benefício previsto na Lei Estadual nº 14.937/03 somente pode ser deferido ao condutor portador de deficiência física, havendo ofensa à separação dos poderes a extensão desse direito aos deficientes não condutores de veículo automotor (fl. 107).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    A controvérsia dos autos diz respeito ao alcance de norma da legislação estadual que concede isenção de IPVA a pessoas com deficiência física. Trata-se de definir se o benefício pode ser aplicado aos casos em que o automóvel é registrado em nome de pessoa com deficiência e dirigido por terceiro, em razão de impossibilidade física.
+    Posta a questão nesses termos, verifico que a controvérsia dos autos limita-se ao plano da legislação infraconstitucional (Código Tributário Nacional e Lei Estadual nº 14.937/03), de modo que eventual ofensa à Constituição Federal, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido, destaco os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. IPVA. Isenção. Portador de necessidades especiais. Norma de direito local. Súmula 280/STF. Artigo 111, CTN. Afronta reflexa. 1. A matéria atinente à isenção do IPVA na aquisição de veículo pelo portador de necessidades especiais depende da reinterpretação da legislação infraconstitucional local e do art. 111 do CTN. Caso de ofensa reflexa à Constituição. Precedentes de ambas as Turmas. 2. Não cabe recurso extraordinário contra acórdão em que o órgão julgador se limite a interpretar normas de direito local. Súmula 280/STF. 3. Agravo regimental não provido”.
+    (ARE 712222 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 17.12.2013, PROCESSO ELETRÔNICO DJe-032 DIVULG 14.2.2014 PUBLIC 17.2.2014 - grifei)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. AQUISIÇÃO DE VEÍCULO. ISENÇÃO POR DEFICIÊNCIA FÍSICA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS: INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    (ARE nº 676.309/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 17.5.12 - grifei).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. 1. Não é possível, em recurso extraordinário, reexaminar a legislação infraconstitucional aplicada ao caso, bem como analisar o acervo fático-probatório dos autos. 2. Agravo regimental desprovido”. (RE nº 660.911/AL-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 19.3.12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ISENÇÃO DO IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. AQUISIÇÃO DE VEÍCULO. DEFICIENTE FÍSICO. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 710.070-AgR, Relatora a Ministra Cármen Lúcia , Segunda Turma, DJe 21.11.2012 - grifei).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 28 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
