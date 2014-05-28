@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado de Goiás de inadmissibilidade de recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “AGRAVO REGIMENTAL. AÇÃO DE COBRANÇA. GRATIFICAÇÃO DE RISCO DE VIDA. DECLARAÇÃO DE INSCONSTITUCIONALIDADE. SUBSISTÊNCIA DE PREVISÃO LEGAL DA GRATIFICAÇÃO. DIREITO À SUA PERCEPÇÃO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. INADMISSIBILIDADE.
+    1 – Não constitui óbice à concessão da gratificação de risco de vida o fato de haver a egrégia Corte Especial declarado a inconstitucionalidade do art. 7º, II, “a”, da Lei Estadual n. 15.674/06, pois essa r. Decisão somente alcança o inciso relativo à fixação e escalonamento da Gratificação de Risco de Vida, mantendo-se incólume o “caput” e o inciso I do dispositivo legal em referência, que prevê a concessão da referida vantagem.
+    2 – Não se afigura admissível a acolhida do incidente de uniformização de jurisprudência suscitado posteriormente ao julgamento do recurso, pois este procedimento não é sucedâneo recursal, não se prestando, pois, a reformar o julgamento anteriormente proferido.
+    3 – Ausente fato novo a ensejar a modificação do entendimento expendido na decisão agravada, impõe-se o desprovimento do agravo regimental.
+    Agravo regimental conhecido e desprovido” (eDOC 2, p. 95 e 96)
+    Opostos embargos declaratórios, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar a repercussão geral da matéria. No mérito, alega-se violação aos artigos 102, § 2º; e 93, IX, do texto constitucional.
+    Argumenta-se, em síntese, que não havendo norma regulamentadora para a fixação dos percentuais da gratificação de risco de vida, o reconhecimento do direito ao pagamento da vantagem se torna inviável. (eDOC 2, p. 127)
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010.
+    Nessa oportunidade, o STF reconheceu a existência de repercussão geral do tema e reafirmou sua jurisprudência no sentido de que o referido artigo exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas. Eis a ementa do citado precedente da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010)”.
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da parte recorrente.
+    Ademais, o acórdão recorrido, ao examinar a legislação de regência, (Lei Estadual 15.674/06), entendeu que os servidores da Agência Goiana do Sistema Prisional (AGSP) possuem direito a gratificação de risco de vida, desde que exerçam funções nas unidades prisionais. Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa a Constituição Federal, se houvesse, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso por óbice da Súmula 280 do Supremo Tribunal Federal.
+    Nesse sentido, cito o ARE-AgR 784.223, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 27.05.2014:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. INCORPORAÇÃO DE GRATIFICAÇÃO. LEI MUNICIPAL 2.193/1985, DECRETO MUNICIPAL 112/1985 E LEI FEDERAL 4.771/1965. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. I – Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. III – Agravo regimental a que se nega provimento.”
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 28 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
