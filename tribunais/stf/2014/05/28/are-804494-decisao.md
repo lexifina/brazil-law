@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. DANO MORAL. NEGATIVA DE COBERTURA POR OPERADORA DO PLANO DE SAÚDE. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RE Nº 697.312. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. O dano moral decorrente da negativa de cobertura de tratamento pela operadora do plano de saúde, quando aferido pelas instâncias ordinárias, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do ARE nº 697.312-RG, da Relatoria do Min. Ayres Britto.
+2. In casu, o acórdão recorrido assentou, in verbis: "Recurso Inominado. PLANO DE SAÚDE. Defeito na prestação do serviço. Diagnóstico de tumor de rim. Inexistência de tratamento por meio de rede credenciada e própria da ré, com sucessivos adiamentos de cirurgia. Efetiva realização do procedimento cirúrgico por meio de Sistema Único de Saúde. danos Morais comprovados e fixados com razoabilidade (R$ 12.440,00). Sentença mantida por seus próprios fundamentos. Recurso não provido."
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por GREENLINE SISTEMA DE SAÚDE LTDA, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, in verbis:
+    "Recurso Inominado. PLANO DE SAÚDE. Defeito na prestação do serviço. Diagnóstico de tumor de rim. Inexistência de tratamento por meio de rede credenciada e própria da ré, com sucessivos adiamentos de cirurgia. Efetiva realização do procedimento cirúrgico por meio de Sistema Único de Saúde. danos Morais comprovados e fixados com razoabilidade (R$ 12.440,00). Sentença mantida por seus próprios fundamentos. Recurso não provido."
+    Não foram opostos embargos de declaração.
+    Nas razões de apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, LV, da Constituição Federal.
+    É o relatório. DECIDO.
+    Não merece prosperar o presente agravo.
+    O dano moral decorrente da negativa de cobertura de tratamento pela operadora do plano de saúde, quando aferido pelas instâncias ordinárias, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 697.312-RG, da Relatoria do Min. Ayres Britto, o qual possui a seguinte ementa:
+    “DIREITO DO CONSUMIDOR. EMPRESA OPERADORA DE PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA TRATAMENTO DE BENEFICIÁRIO. DANOS MORAIS E MATERIAIS. MATÉRIA DE QUE NÃO ENSEJA A ABERTURA DA VIA EXTRAORDINÁRIA. AUSÊNCIA DE REPERCUSSÃO GERAL. Nos termos da jurisprudência do Supremo Tribunal Federal, o tema alusivo à responsabilidade por danos morais e materiais decorrentes de negativa de cobertura para tratamento de beneficiário, por parte de operadora de plano de saúde, não enseja a abertura da via extraordinária, dado que não prescinde do reexame da legislação infraconstitucional, de cláusulas contratuais e do conjunto fático- probatório dos autos (Súmulas 636, 454 e 279 do STF). Não havendo, em rigor, questão constitucional a ser apreciada por esta Suprema Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de maio de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
