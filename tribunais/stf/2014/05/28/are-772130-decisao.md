@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 12ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado:
+    “APELAÇÃO CÍVEL – RESPONSABILIDADE CIVIL – DANOS MORAIS.
+    1. Indenização – Danos Morais – Morte de irmão em Delegacia de Polícia – Custodiado assassinado em 06/fevereiro/1989 – Ação proposta apenas em julho/2006 – Requerimento administrativo de pagamento de indenização formulado no ano de 1998 – Fato que não repercute no prazo extintivo, pois o lapso prescricional já havia se operado – Suspensão do lapso extintivo que só atinge o prazo prescricional ainda não consumado – Inteligência do art. 192 do Código Civil – Decurso do quinquênio legal previsto no disposto no art. 1º do Decreto nº. 20.910/32 – Princípio da actio nata – Prazo prescricional ou decadencial que começa a fluir quando o titular do direito violado toma conhecimento do fato e da extensão de suas consequências – Processo extinto – Reforma da sentença.
+    2. Reexame necessário e recurso fazendário providos”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, X, XXXV e XXXVI; e 227, § 3º, IV e V, da Constituição. Sustenta que “a recorrente à época dos fatos era menor de idade, absolutamente incapaz de exercer pessoalmente os atos da vida civl”, não podendo operar a prescrição no caso em análise.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “os argumentos expendidos não são suficientes para infirmar a conclusão do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo, tampouco restou evidenciado qualquer maltrato a normas constitucionais, não sendo atendida qualquer hipótese das alíneas “a”, “b”, “c” e “d” do permissivo constitucional”; e (ii) “a análise demandaria o exame de matéria infraconstitucional, quando é sabido que a ofensa à Constituição Federal deve ser direta e frontal, e não por via reflexa”.
+    O recurso extraordinário não pode ser admitido. O Tribunal de origem assentou, com base no Decreto nº 20.910/1932, a prescrição da pretensão da parte recorrente. Esse é um fundamento infraconstitucional autônomo e suficiente à manutenção do julgado que permaneceu incólume ante o trânsito em julgado da decisão do Superior Tribunal de Justiça que negou seguimento ao recurso especial simultaneamente interposto. A hipótese atrai, portanto, a incidência da Súmula 283/STF:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 28 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
