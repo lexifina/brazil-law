@@ -1,0 +1,2 @@
+Constitui fonte adicional de recursos para o Banco Nacional de Desenvolvimento Econômico e Social - BNDES; autoriza a União a encerrar o Fundo de Recuperação Econômica do Estado do Espírito Santo e extingue o Grupo Executivo para a Recuperação Econômica do Estado do Espírito Santo; e revoga o Decreto-Lei nº 880, de 18 de setembro de 1969.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
