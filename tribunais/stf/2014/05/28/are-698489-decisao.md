@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. EDITAL PREVENDO A EXCLUSÃO DO CONCURSO PÚBLICO DO CANDIDATO QUE NÃO ACATASSE AS DETERMINAÇÕES DO EDITAL DO CONCURSO E CONSTANDO AINDA NO ITEM 7.2.19 QUE SERIA DE EXCLUSIVA RESPONSABILIDADE DO CANDIDATO ASSINAR E PREENCHER DEVIDAMENTE O CARTÃO-RESPOSTA, BEM COMO CONFERIR OS DADOS NELE CONSTANTES. EXCLUSÃO DO CERTAME. INCONFORMISMO. AUTOR QUE, AO SE INSCREVER NO CONCURSO, ADERIU AOS TERMOS DO EDITAL E DELE TOMOU CONCHECIMENTO, NÃO HAVANDO NOTÍCIAS DE IMPUGNAÇÃO PRÉVIA AOS ALUDIDOS TERMOS. PRINCÍPIOS DA VINCULAÇÃO AO EDITAL. SENTENÇA QUE SE MANTÉM. DESPROVIMENTO DO RECURSO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV e LV; e 37, caput, XXI e § 6º, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) falta de prequestionamento; (ii) as alegadas ofensas à Constituição, se existissem, seriam somente reflexas; e (iii) o caso atrai a incidência da Súmula 279/STF.
+    O recurso é inadmissível, tendo em vista que as alegadas ofensas à Constituição não foram apreciadas pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. O recurso extraordinário carece, portanto, de prequestionamento (Súmulas 282 e 356/STF).
+    Ainda que superado o óbice apontado, observa-se que, para dissentir do entendimento proferido pelo Tribunal de origem e concluir pela regularidade, ou não, da exclusão do candidato diante da falta de sua assinatura no cartão-resposta, seria necessário nova análise dos fatos e do material probatório constantes dos autos, bem como o reexame do edital do certame, o que é inviável neste momento processual, nos termos das Súmulas 279 e 454/STF. Nessa linha,veja-se a ementa do ARE 784.815-AgR, julgado sob relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 28 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
