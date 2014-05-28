@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROGRESSÃO FUNCIONAL POR TITULAÇÃO. LEIS 11.748/2008 E 11.344/2006. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA.
+1. A progressão funcional por titulação, independentemente de interstício, com base nas Leis 11.748/2008 e 11.344/2006, quando sub judice a controvérsia, demanda análise de legislação infraconstitucional, o que acarreta uma violação reflexa e oblíqua da Constituição Federal e torna inadmissível o recurso extraordinário. Precedente: ARE 764.226-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 28/2/2014.
+2. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+3. In casu, o acórdão recorrido manteve a sentença que julgou parcialmente procedente a ação para condenar o ora agravante “a efetuar a progressão funcional da autora, independentemente de interstício, da classe DI para a classe DII, nível inicial I, a partir da entrada em exercício no cargo, e de 24/02/2012 (data da obtenção do título de mestre) para a classe DIII, nível inicial I, tudo de acordo com o art. 120, §5º , da Lei nº 11.784/2008, c/c art. 13 da Lei nº 11.344/06, com as competentes alterações nos registros funcionais e o pagamento da remuneração mensal correspondente.“
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo Instituto Federal Farroupilha com o objetivo de ver reformada a r. decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo Constitucional, contra acordão que julgou parcialmente procedente a ação para condenar o ora agravante “a efetuar a progressão funcional da autora, independentemente de interstício, da classe DI para a classe DII, nível inicial I, a partir da entrada em exercício no cargo, e de 24/02/2012 (data da obtenção do título de mestre) para a classe DIII, nível inicial I, tudo de acordo com o art. 120, §5º , da Lei nº 11.784/2008, c/c art. 13 da Lei nº 11.344/06, com as competentes alterações nos registros funcionais e o pagamento da remuneração mensal correspondente.“
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, alega que violação aos artigos 5º, XXXVI, e 37, caput, da Carta Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que eventual ofensa à Constituição seria meramente reflexa e indireta.
+    É o relatório. DECIDO.
+    A progressão funcional por titulação, independentemente de interstício, com base nas Leis 11.748/2008 e 11.344/2006, quando sub judice a controvérsia, demanda análise de legislação infraconstitucional, o que acarreta uma violação reflexa e oblíqua da Constituição Federal e torna inadmissível o recurso extraordinário. Nesse sentido, ARE 764.226-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 28/2/2014, in verbis:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. INTERPRETAÇÃO DAS LEIS FEDERAIS NºS 11.784/2008 E 11.344/2006. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. Em casos análogos, o Supremo Tribunal Federal afastou o cabimento do recurso extraordinário, tendo em vista depender o deslinde da controvérsia de interpretação de normas infraconstitucionais. Precedentes. Agravo regimental a que se nega provimento.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de maio de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
