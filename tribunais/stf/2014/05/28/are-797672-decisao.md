@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. FAB. CURSO DE FORMAÇÃO DE SARGENTOS DE AERONÁUTICA TURMA CFS ‘A’ 1/2004. AVALIAÇÃO PSICOLÓGICA. AUSÊNCIA DE PREVISÃO LEGAL. PERMANÊNCIA NO CERTAME.
+    1. O principal argumento trazido pela sentença para julgar procedente o pedido do autor foi a inexistência de comando normativo primário, ou seja, de lei, que determinasse a realização da avaliação psicológica no caso em apreço, concurso para Curso de Formação de Sargentos CFS ‘A’ 1/2005.
+    2. O texto do art. 37, I, da Constituição Federal, preconiza que os cargos públicos são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei. Logo, a realização de exame psicotécnico encontra respaldo na Constituição Federal, desde que haja expressa previsão em lei reguladora do cargo público.
+    3. Verificando-se que não há lei específica para legitimar a exigência da avaliação psicológica no presente caso, é aplicável a Súmula 686, do STF: ‘Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato à cargo público’, sendo o exame no presente caso.
+    4. Apelação não provica.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação ao art. 5º, caput, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) alegada ofensa à Constituição seria meramente reflexa; (ii) não cabe recurso extraordinário para reexaminar interpretação de cláusula de concurso e legislação infraconstitucional; e (iii) o acórdão encontra-se em consonância com a orientação firmada pelo Supremo Tribunal Federal.
+    O recurso extraordinário não deve ser provido. De início, registro que a suposta ofensa ao dispositivo constitucional destacado no recurso extraordinário foi suscitada de modo inaugural nos embargos declaratórios opostos ao acordão impugnado, o que não atende o requisito do prequestionamento, nos termos da Súmula 282/STF. Nessa linha, vejam-se o AI 133.690-AgR, Rel. Min. Celso de Mello, e o AI 502.659-AgR, Rel. Min. Sepúlveda Pertence.
+    Ainda que assim não fosse, o aresto impugnado está alinhado com a jurisprudência desta Corte, reafirmada no julgamento do AI 758.533-RG, sob a relatoria do Ministro Gilmar Mendes, no sentido de se reconhecer a validade da exigência de exame psicotécnico como requisito para concurso público, desde que pautado por critérios objetivos e expressamente previsto em lei em sentido material. Veja-se a ementa:
+    ”Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°).2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    No caso, o Tribunal de origem entendeu que “não há lei específica para legitimar a exigência da avaliação psicológica no presente caso”. Dissentir dessa conclusão demandaria a análise da legislação infraconstitucional pertinente, providência inviável de ser realizada neste momento processual.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 28 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
