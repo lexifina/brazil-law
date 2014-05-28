@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA PROPORCIONAL GRATIFICAÇÃO. CÁLCULO. VALOR INTEGRAL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMINISSÃO DO APELO EXTREMO.
+1. O cálculo da gratificação, observando-se a proporcionalidade dos proventos de aposentadoria, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie. Precedentes: ARE 741.814, Relator o Ministro Ricardo Lewandowski, DJe de 07/05/2013, e RE 744.894, Relatora a Ministra Rosa Weber, DJe de 04/6/2013.
+2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário.
+3. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+4. In casu, o Tribunal de origem assentou: “Com efeito, entendo que o fato de a aposentadoria ter sido concedida de forma proporcional não significa que a gratificação também seja devida de forma proporcional. Ao atribuir aos inativos a gratificação em determinado valor (seja em pontos ou em percentual do valor máximo), a legislação não fez qualquer distinção entre os que foram aposentados de forma integral ou proporcional. Considerando o silêncio da legislação a esse espeito, não poder haver diferenciação entre os valores de gratificação percebidos por inativos com aposentadoria integral e proporcional. Assim, deve o valor da gratificação ser calculado sem qualquer distinção em decorrência da proporcionalidade da aposentadoria percebida pelo demandante. Ante o exporto, voto por DAR PROVIMENTO ao recurso da parte autora.”
+5. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pela UNIÃO objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo constitucional, contra acórdão da Primeira Turma Recursal dos JEF’s do Rio Grande do Sul, que nos termos do voto do juiz relator, assentou:
+    “Com efeito, entendo que o fato de a aposentadoria ter sido concedida de forma proporcional não significa que a gratificação também seja devida de forma proporcional. Ao atribuir aos inativos a gratificação em determinado valor (seja em pontos ou em percentual do valor máximo), a legislação não fez qualquer distinção entre os que foram aposentados de forma integral ou proporcional.
+    Considerando o silêncio da legislação a esse espeito, não poder haver diferenciação entre os valores de gratificação percebidos por inativos com aposentadoria integral e proporcional.
+    Assim, deve o valor da gratificação ser calculado sem qualquer distinção em decorrência da proporcionalidade da aposentadoria percebida pelo demandante.
+    Ante o exporto, voto por DAR PROVIMENTO ao recurso da parte autora.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5°, caput, e 40, §8ª, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a alegada violação à Constituição, se existente, seria indireta.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Não merece prosperar o recurso.
+    A jurisprudência desta Corte firmou-se no sentido de que o cálculo da gratificação genérica estendida aos inativos, observando-se a proporcionalidade dos proventos de aposentadoria, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie. Nesse sentido, em casos análogos ao dos auto, menciono as seguintes decisões: ARE 741.814, Relator o Ministro Ricardo Lewandowski, DJe de 7/5/2013, RE 744.894, Relatora a Ministra Rosa Weber, DJe de 4/6/2013, e ARE 763.540, Relatora a Ministra Cármen Lúcia, DJe de 10/9/2013.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de maio de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
