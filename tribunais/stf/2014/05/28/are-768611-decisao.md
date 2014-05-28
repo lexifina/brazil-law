@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Quarta Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “APELAÇÃO.IMPOSTO SOBRE A RENDA. ABONO DE PERMANÊNCIA. RUBRICA QUE, CONSOANTE PACIFICADA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA, QUALIFICA-SE COMO RENDA E NÃO INDENIZAÇÃO. PROVIMENTO ”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte alega violação aos arts. 40, § 19, e 150, I, da Carta. Sustenta, em síntese, que o abono de permanência tem natureza jurídica compensatória, motivo pelo qual não está sujeito à incidência do imposto de renda.
+    A decisão agravada negou seguimento ao recurso, sob o seguinte fundamento: “o acórdão combatido decidiu a causa à luz da legislação infraconstitucional pertinente, sendo a ofensa à Constituição indireta ou reflexa”. No agravo, a parte reitera os argumentos aduzidos na peça do recurso extraordinário.
+    A pretensão não merece acolhida. Com efeito, o Supremo Tribunal Federal, nos autos do RE 688.001-RG, julgado sob relatoria do Ministro Teori Zavascki, negou a repercussão geral da controvérsia relativa à natureza jurídica do abono de permanência, para fins de incidência do imposto de renda, uma vez que a matéria tem índole exclusivamente infraconstitucional, circunstância que impede a abertura da via extraordinária. Confira-se a ementa da decisão:
+    “TRIBUTÁRIO E CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DE IMPOSTO DE RENDA SOBRE O ABONO DE PERMANÊNCIA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL (ART. 543-A DO CPC).
+    1. A controvérsia a respeito da incidência do imposto de renda sobre as verbas percebidas a título de abono de permanência é de natureza infraconstitucional, não havendo, portanto, matéria constitucional a ser analisada (ARE 665800 AgR, de minha relatoria, Segunda Turma, DJe de 20/08/2013; ARE 691857 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 19/09/2012; ARE 662017 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 03/08/2012; ARE 646358 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 15/05/2012).
+    2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009).
+    3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Na oportunidade, o Ministro Relator aduziu o seguinte:
+    “Não há matéria constitucional a ser analisada no presente recurso. A Turma Recursal decidiu a controvérsia acerca da possibilidade de incidência do imposto de renda sobre as verbas percebidas por servidor público a título de abono de permanência tão somente a partir de interpretação e aplicação das normas infraconstitucionais pertinentes (Lei 10.887/2004). O Supremo Tribunal Federal já pacificou orientação de que é inviável a apreciação, em recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir da análise de normas infraconstitucionais, seria, se houvesse, meramente indireta ou reflexa.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 28 de maio de 2014.
+Ministro LUÍS ROBERTO BARROSO
+Relator
