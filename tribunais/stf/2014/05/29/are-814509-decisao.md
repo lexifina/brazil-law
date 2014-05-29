@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto contra acórdão de cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL/REEXAME NECESSÁRIO. DIREITO PREVIDÊNCIARIO. RIOPREVIDÊNCIA. REVISÃO DE PENSÃO POR INVALIDEZ. SEGURADO INGRESSOU NO SERVIÇO PÚBLICO ANTES DA EMENDA CONSITITUCIONAL Nº 41/2003. APLICAÇÃO DA LEGISLAÇÃO EM VIGOR AO TEMPO DA ADMISSÃO. TEMPUS REGIT ACTUM. VALOR DO BENEFÍCIO QUE DEVE CORRESPONDER À TOTALIDADE DAQUILO QUE O SERVIDOR PERCEBIA SE ESTIVESSE NA ATIVA, COMO ALMEJA O AUTOR, AO TETO ESTABELECIDO PARA OS BENEFÍCIOS PAGOS PELO REGIME GERAL DE PREVIDÊNCIA, NO LIMITE DE SUA CONTA PARTE, COM TODOS OS BENEFÍCIOS E VANTAGENS, EXCETUANDO A GRATIFICAÇÃO DE INSALUBRIDADE E TRIÊNIOS APÓS A DATA DA APOSENTADORIA NOS TERMOS DA ART. 6º-A, DA EC 41/2003, COMPLEMENTADA PELA EC 70/2012. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE SE MANTÉM. RECURSO A QUE SE NEGA SEGUIMENTO, NOS TERMOS DO ART. 557, CAPUT, DO CPC.
+      (...)” (págs. 1 – 10 do documento eletrônico 6 ).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 40, § 1º, I, da mesma Carta.
+    A pretensão recursal não merece acolhida. Portanto, para divergir do entendimento adotado pelo acórdão, no que diz a respeito ao preenchimento dos requisitos para a concessão da aposentadoria especial, necessário seria o reexame do conjunto fático probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. APOSENTADORIA POR INVALIDEZ. MOLÉSTIA PROFISSIONAL GRAVE OU DOENÇA GRAVE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 473.703-AgR/MG, Rel. Min. Cármen Lúcia, Primeira Turma)
+     “Agravo regimental no recurso extraordinário com agravo. Servidor público. Aposentadoria por invalidez. Doença grave. Proventos integrais. Preenchimento dos requisitos para a concessão. Discussão. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. É firme a jurisprudência do Tribunal de que o servidor público faz jus à aposentadoria por invalidez com proventos integrais quando o afastamento decorrer de acidente de trabalho, moléstia profissional ou doença grave, contagiosa ou incurável, desde que prevista em lei, conforme dispõe o art. 40, § 1º, inciso I, da Constituição Federal.
+    2. Rever o entendimento adotado pelo Tribunal de origem acerca do preenchimento dos requisitos para a concessão do benefício em comento demandaria a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência da Súmula nº 279/STF.
+    3. Agravo regimental não provido” (ARE 763.660-AgR/CE, Rel. Min. Dias Toffoli, Primeira Turma)
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de maio de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
