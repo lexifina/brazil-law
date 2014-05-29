@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 3ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul, assim ementado:
+    “PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL. AUXÍLIO-DOENÇA, APOSENTADORIA POR INVALIDEZ OU PENSÃO POR MORTE. SALÁRIO-DEBENEFÍCIO EQUIVALENTE A MÉDIA ARITMÉTICA SIMPLES DOS MAIORES SALÁRIOS-DE-CONTRIBUIÇÃO CORRESPONDENTES A 80% DE TODO O PERÍODO CONTRIBUTIVO. ART. 29, INCISO II DA LEI Nº 8.213/91.
+    1. O inciso II ao artigo 29 da Lei 8.213/91 estabelece uma única forma de cálculo do benefício, não fazendo ressalvas quanto ao número de contribuições que o segurado tenha feito no período básico de cálculo do benefício.
+    2. De fato, em que pese a pretensão do INSS de aplicar o Decreto nº 3.048/99, observo que este ato normativo específico foi emanado pelo Poder Executivo para regulamentar a aplicação da Lei 8.213/91. Veda-se, portanto, seja sua redação contrária à da própria lei, até mesmo por uma questão hierárquica, sendo certo que, caso o legislador assim quisesse, especificaria a exceção quanto ao cálculo da renda mensal inicial dos benefícios supra mencionados.
+    3. Recurso de sentença provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º e 5º, XXXV, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário nos seguintes termos conclusivos: “Conforme se observa nos autos, a decisão recorrida possui como fundamento a falta de interesse de agir em face de o INSS estar procedendo na esfera administrativa a revisão do benefício, inexistindo similitude com a matéria debatida pelo STF no RE nº 631.240, submetida ao rito da repercussão geral (Tema 350 - Prévio requerimento administrativo como condição para o acesso ao Judiciário). Logo, é inviável o seguimento do recurso no presente caso, pois a controvérsia cinge-se ao âmbito infraconstitucional, sendo a violação alegada, caso existente, reflexa ou indireta”.
+    A decisão agravada não deve ser mantida, tendo em vista que a matéria debatida nestes autos já teve repercussão geral reconhecida por esta Corte nos autos do RE 631.240, Relator original do feito Ministro Joaquim Barbosa, e que agora se encontra sob minha relatoria. Veja-se a ementa do julgado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PREVIDÊNCIÁRIO. PRÉVIA POSTULAÇÃO ADMINISTRATIVA COMO CONDIÇÃO DE POSTULAÇÃO JUDICIAL RELATIVA A BENEFÍCIO PREVIDENCIÁRIO. REPERCUSSÃO GERAL. EXISTÊNCIA. Está caracterizada a repercussão geral da controvérsia acerca da existência de prévia postulação perante a administração para defesa de direito ligado à concessão ou revisão de benefício previdenciário como condição para busca de tutela jurisdicional de idêntico direito”.
+    Diante do exposto, dou provimento ao agravo e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil.
+    Publique-se.
+          Brasília, 29 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
