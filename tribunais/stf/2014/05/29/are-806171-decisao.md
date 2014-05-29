@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, que manteve sentença de 1ª instância, da qual se extra o seguinte trecho (fls. 61-64):
+    “Assim, no tangente aos valores apurados como juros excessivos nas prestações do referido contrato, tenho que o caso é de se fazer um acertamento, nos termos do art. 6º da Lei n° 9.099/95, ou seja, a diferença efetivamente paga como juros excessivos, deverá ser deduzida das parcelas vincendas, e somente em caso de ultrapassar o saldo remanescente do contrato, seja restituído ao autor devidamente corrigido. Em outras palavras: deverá ser deduzido das parcelas vincendas o montante (diferença) já efetivamente pago nas parcelas adimplidas, e que venham a ser adimplidas no curso da presente ação, apurado como juros excessivos no contrato. Logo, valores excedentes efetivamente pagos, não deverão ser restituídos a autora, mas sim deduzidos do saldo devedor, devendo o valor das parcelas serem readequadas.
+    Quanto ao pedido de indenização por danos morais, tenho que não guarda procedência, na medida em que eventuais transtornos e dissabores experimentados pela autora se circunscrevem nas meras vicissitudes do cotidiano deste tipo de relação (…).
+    Ante o exposto, consubstanciado nas regras e princípios do CDC e nos termos do art. 6º da Lei n° 9.099/1995, JULGO PROCEDENTE EM PARTE O PEDIDO (…).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte agravante alega violação ao art. 5º, LIV e LV, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que a alegada “ofensa à regra constitucional requer prévio exame de legislação infraconstitucional, que fundamenta o acórdão recorrido” (fls. 111).
+    O recurso não deve ser provido. De início, ressalte-se que a alegação de ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão quanto a esse tema. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se a seguinte passagem do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    (...)
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.
+    Cabe ressaltar que a parte agravante não traz em seu recurso extraordinário a discussão acerca da constitucionalidade do art. 5º da MP nº 2.170-36/2001, que prevê a capitalização mensal de juros em períodos inferiores a um ano, matéria pendente de análise pela sistemática da repercussão geral (RE 592.377-RG, Rel. Min. Marco Aurélio).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário
+    Publique-se.
+          Brasília, 29 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
