@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça proferido nos autos do HC. 241.635/ES.
+    Consta dos autos, em síntese, que: (a) o recorrente foi condenado, em primeiro grau, à pena de 4 anos e 4 meses de reclusão, em regime inicial fechado, pela prática do crime tráfico de drogas (art. 33, § 4º, da Lei 11.343/2006); (b) o Tribunal de Justiça do Estado do Espírito Santo deu parcial provimento ao apelo defensivo para reduzir a reprimenda a 1 ano, 10 meses e 10 dias de reclusão, mantendo, no mais, a sentença condenatória; (c) buscando a fixação do regime aberto, a Defensoria Pública estadual impetrou habeas corpus no Superior Tribunal de Justiça, que não conheceu da impetração, em acórdão assim ementado:
+    (…) - No caso, a fixação de regime mais rigoroso está devidamente fundamentado, nos exatos termos dos art. art. 33, §§ 2º e 3º do CP, bem como do art. 42 da Lei 11.343/06 (Lei de Drogas). Não obstante a pena do paciente tenha sido fixada em 1 (um) ano, 10 (dez) meses e 10 (dez) dias de reclusão, as circunstâncias do crime (comércio de variada e expressiva quantidade de droga - 19 papelotes de cocaína e 3 buchas de maconha), justificam a imposição do regime fechado, conforme estabelecido pelo Tribunal de origem.
+    Habeas corpus não conhecido”.
+    Neste recurso, o recorrente sustenta, em suma, que: (a) a quantidade de drogas apreendidas não pode ser considerada expressiva e inviabilizadora da fixação de regime diverso do fechado; (b) ocorrência de bis in idem, uma vez que a quantidade de droga foi valorada negativamente na fixação da pena-base e na aplicação do regime inicial fechado; (c) foi declarada inconstitucional a obrigatoriedade do regime inicial fechado prevista no § 1º do art. 2º da Lei 8.072/90; (d) preenche todos os requisitos objetivos e subjetivos para cumprir a sanção em regime diverso do fechado, nos termos dos arts. 33, § 2º, “b” e “c”, do Código Penal. Requer, ao final, o provimento do recurso, para que possa cumprir a reprimenda no regime aberto.
+    2. Nas informações prestadas pela Defensoria Pública do Estado do Espírito Santo, consta que, em 01/06/2012, o ora recorrente obteve progressão para o regime aberto.
+    3. Presente tal circunstância, julgo prejudicado o recurso ordinário. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 29 de maio de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
