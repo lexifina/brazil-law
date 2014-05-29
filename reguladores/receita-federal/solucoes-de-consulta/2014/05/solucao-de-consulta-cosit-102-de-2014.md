@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 102, de 7 de abril de 2014
+ASSUNTO: Imposto sobre a Renda Retido na Fonte – IRRF EMENTA: PRÊMIO ASSIDUIDADE. PAGAMENTO MENSAL. RENDIMENTO TRIBUTÁVEL. RETENÇÃO NA FONTE. O Prêmio assiduidade pago a servidor público como recompensa pela assiduidade ao trabalho é tributável pelo imposto sobre a renda das pessoas físicas e sujeito a retenção na fonte por ocasião do pagamento. O referido prêmio não tem natureza indenizatória e não se enquadra nas situações tratadas no Ato Declaratório Interpretativo (ADI) SRF nº 9, de 2004. DISPOSITIVOS LEGAIS: Artigos 43 do CTN (Código Tributário Nacional) e do RIR/99 (Regulamento do Imposto de Renda - Decreto nº 3.000 de 1999) e ADI SRF nº 9 de 25 de março de 2004.
+[arquivo anexo: SC Cosit nº 102-2014.pdf]
