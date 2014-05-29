@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Distrito Federal e Territórios cuja ementa dispõe:
+    “ADMINISTRATIVO. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO FEDERAL CEDIDO AO DISTRITO FEDERAL. GRATIFICAÇÃO. LEI DISTRITAL Nº 2.770/2001. LIMITE QUANTITATIVO. PRINCÍPIO DA LEGALIDADE. PRINCÍPIO DA ISONOMIA. PRINCÍPIO DA MORALIDADE. VIOLAÇÃO. INOCORRÊNCIA.
+    1. A parcela pecuniária destinada aos servidores do Ministério da Saúde requisitados pela Secretaria de Estado de Saúde do Distrito Federal, à título de incentivo pela colaboração prestada ao Sistema de Saúde do Distrito Federal, prevista na Lei Distrital nº 2.770/2001, deve observar o quantitativo de servidores previsto no anexo da referida norma.
+    2. Preliminar rejeitada. Recurso de apelação conhecido e não provido”. (eDOC 2, p. 55).
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 5º, XXXV, LIV e LV; 37, caput; e 93, IX, do texto constitucional.
+    Nas razões recursais, argumenta-se cerceamento de defesa, bem como ausência de fundamentação do acórdão recorrido (eDOC 3). Alega-se afronta aos princípios da legalidade, da isonomia e da moralidade, ao argumento de que, no caso, admitiu-se cessão de servidor além do quantitativo permitido pela lei, sem o pagamento da prestação pecuniária (eDOC 3, p. 8)
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, com relação à alegada ausência de fundamentação (art. 93, IX, da CF/88), observo que esta Corte já apreciou essa matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o preceito constitucional exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação.
+    Quanto ao mérito, observo que o acórdão recorrido, ao examinar a Lei Distrital 2.770/2001, bem como seu anexo, consignou que não é devida a gratificação à parte recorrente.
+    Assim, dissentir do acórdão recorrido demandaria a prévia análise e interpretação da referida legislação local, o que inviabiliza o prosseguimento do recurso extraordinário, a teor do Enunciado 280 da Súmula desta Corte, uma vez que eventual ofensa à Constituição Federal, se existente, dar-se-ia de maneira reflexa ou indireta.
+    Confira-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO CICLO DE GESTÃO - GCG. SERVIDORES INATIVOS. CÁLCULO DA GRATIFICAÇÃO. LEI DISTRITAL 2.675/2001. SÚMULA 280. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem seria necessário o reexame da legislação infraconstitucional pertinente, o que encontra óbice na Súmula 280 do STF. Agravo regimental a que se nega provimento”. (RE-AgR 457.743, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1º.10.2010)
+    Além disso, no tocante ao suposto cerceamento de defesa, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de maio de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
