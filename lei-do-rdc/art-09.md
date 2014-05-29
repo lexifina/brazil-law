@@ -10,6 +10,7 @@ b) as condições de solidez, segurança, durabilidade e prazo de entrega, obser
 c) a estética do projeto arquitetônico; e
 d) os parâmetros de adequação ao interesse público, à economia na utilização, à facilidade na execução, aos impactos ambientais e à acessibilidade;
 II - o valor estimado da contratação será calculado com base nos valores praticados pelo mercado, nos valores pagos pela administração pública em serviços e obras similares ou na avaliação do custo global da obra, aferida mediante orçamento sintético ou metodologia expedita ou paramétrica.
+III - (Revogado).
 § 3º Caso seja permitida no anteprojeto de engenharia a apresentação de projetos com metodologias diferenciadas de execução, o instrumento convocatório estabelecerá critérios objetivos para avaliação e julgamento das propostas.
 § 4º Nas hipóteses em que for adotada a contratação integrada, é vedada a celebração de termos aditivos aos contratos firmados, exceto nos seguintes casos:
 I - para recomposição do equilíbrio econômico-financeiro decorrente de caso fortuito ou força maior; e
