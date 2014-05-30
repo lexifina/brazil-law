@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Sexta Câmara Cível do Tribunal de Justiça do Rio de Janeiro, assim ementado (fl. 577):
+    “Direito Processual Civil. Aplicação do art. 55 da Lei Processual. Agravo. Desprovimento.
+    Direito Administrativo. Concurso Público. Candidato habilitado visando à nomeação sob alegação de haver contratações irregulares. Reconhecimento da coisa julgada material. Mandado de segurança impetrado tendo as mesas partes, o mesmo pedido e a mesma causa de pedir. Apreciação do mérito. Manutenção da sentença.
+    ‘Administrativo. Mandado de segurança. Impetração por candidato habilitado em concurso com o fito de ver-se nomeado a cargo alegadamente preenchido por contratações irregulares. Ilegitimidade passiva ad causam de autoridade não competente para o ato da nomeação almejada, a acarretar exclusão da relação processual. Alegações da Impetrante que não demandam, em princípio, dilação probatório, razão por que se rejeita a preliminar a propósito também levantada. Denegação da ordem, quanto ao mérito, em razão de não privadas as chamadas contratações irregulares e não demonstrado que se destinassem ao preenchimento da vaga pretendida’ (0016297-37.2004.8.19.00002004.004.02711) MANDADO DE SEGURANÇA DES. JOSE LUCAS ALVES DE BRITO – julgamento: 17/07/2006 – ÓRGÃO ESPECIAL).
+    Desprovimento do recurso ”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Carta.
+    A decisão agravada negou seguimento sob o fundamento de que “o atento exame das razões recursais revela que o recorrente pretende, por via transversa, a revisão da matéria de fato, apreciada e julgada com base nas provas produzidas nos autos, qual seja, se houve dispensa ilegal de concurso público, bem como necessidade de contratação temporária e preterição dos candidatos recorrentes” (fls. 632).
+    O recurso extraordinário não pode ser admitido, tendo em conta que a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “(...)
+     II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Igualmente, a jurisprudência desta Corte afasta o cabimento de recurso extraordinário para o questionamento de violação aos limites da coisa julgada. Veja-se, a propósito, a ementa do RE 679.114-AgR, julgado sob a relatoria do Ministro Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXECUÇÃO. FAZENDA PÚBLICA. PRECATÓRIO COMPLEMENTAR. JUROS DA MORA. INCIDÊNCIA. EXISTÊNCIA DE COISA JULGADA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. As razões deduzidas no agravo não são capazes de desconstituir os fundamentos da decisão ora impugnada.
+    2. Por outro lado, tratando-se de pleito que visa a definir o alcance do dispositivo de sentença transitada em julgado, também se mostra incabível o acolhimento em recurso extraordinário, por se tratar de questão de natureza jurídica infraconstitucional, que desafiaria recurso especial. A questão só poderia ser alçada ao crivo do Supremo mediante recurso de pronunciamento de colegiado do Superior Tribunal de Justiça, em última instância. Todavia, o recurso especial foi desprovido e já certificado o trânsito em julgado. Logo, preclusa a alegação, conforme bem sustentado pelos agravados.
+    3. A arguição do agravo demonstra inconformismo com a conclusão proferida na ponderação entre a norma do artigo 5º, XXXVI, e a do artigo 100, § 1º, ambas da Constituição de 1988, e o Verbete Vinculante nº 17. Isto é, pretende nova interpretação, que equivale a novo julgamento da causa, medida notadamente inviável.
+    4. Agravo Regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 30 de maio de 2014.
+Ministro Luís Roberto Barroso
+Relator
