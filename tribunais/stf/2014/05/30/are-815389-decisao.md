@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. PROPRIEDADE.  MODIFICAÇÃO DA FACHADA. CONVENÇÃO CONDOMINIAL. AGRAVO INTEMPESTIVO.
+1. A tempestividade constitui requisito recursal de admissibilidade indispensável, razão pela qual o recorrente deve obedecer aos prazos previstos no Código de Processo Civil.
+2. O recorrente foi intimado da decisão agravada em 29/11/2010, sendo certo que a petição de agravo só foi protocolada em 17/1/2011, após o transcurso do prazo recursal de 10 dias, previsto no artigo 544, caput, do CPC. O agravo é, portanto, intempestivo.
+3. Os embargos de declaração são incabíveis contra decisão de admissibilidade do recurso extraordinário. Precedente: AI 746.533-ED/RS, Rel. Min. Gilmar Mendes, Plenário, DJe 1º/7/2009.
+4. In casu, o acórdão recorrido assentou: “APELAÇÃO CÍVEL. AÇÃO CONDENATÓRIA. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO FORMULADO, CONDENANDO O RÉU, ORA APELANTE, A DESFAZER AS OBRAS DE MODIFICAÇÃO DA FACHADA E DE ACRÉSCIMOS RESULTANTES DA ANEXAÇÃO DA MARQUISE À ÁREA DESCOBERTA DA COBERTURA DE SUA PROPRIEDADE. PREVISÃO EXPRESSA EM CONVENÇÃO CONDOMINIAL ASSEGURANDO AOS PROPRIETÁRIOS DAS DUAS ÚLTIMAS UNIDADES DO EDIFÍCIO O DIREITO DE ACRESCER, EM CARÁTER PERPÉTUO, EVENTUALMENTE, A ÁREA CORRESPONDENTE À COBERTURA DO RESPECTIVO IMÓVEL. INEXISTÊNCIA DE PROVA DO ABALO ESTRUTURAL DO EDIFÍCIO. INEXISTÊNCIA DE ALTERAÇÃO DA FACHADA DO PRÉDIO. OBTENÇÃO DE AUTORIZAÇÃO DA PREFEITURA PARA A REALIZAÇÃO DOS ACRÉSCIMOS ALI EXECUTADOS. DESCONSIDERAÇÃO DO LAUDO PERICIAL ELABORADO PELO CONDOMÍNIO, DADA A SUA NOTÓRIA PARCIALIDADE. PROVIMENTO DO PRIMEIRO RECURSO. DESPROVIMENTO DO RECURSO ADESIVO, ENTRETANTO”.
+5. Agravo NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo CONDOMÍNIO DO EDIFÍCIO JARDIM DAS TULIPAS, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO CONDENATÓRIA. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO FORMULADO, CONDENANDO O RÉU, ORA APELANTE, A DESFAZER AS OBRAS DE MODIFICAÇÃO DA FACHADA E DE ACRÉSCIMOS RESULTANTES DA ANEXAÇÃO DA MARQUISE À ÁREA DESCOBERTA DA COBERTURA DE SUA PROPRIEDADE. PREVISÃO EXPRESSA EM CONVENÇÃO CONDOMINIAL ASSEGURANDO AOS PROPRIETÁRIOS DAS DUAS ÚLTIMAS UNIDADES DO EDIFÍCIO O DIREITO DE ACRESCER, EM CARÁTER PERPÉTUO, EVENTUALMENTE, A ÁREA CORRESPONDENTE À COBERTURA DO RESPECTIVO IMÓVEL. INEXISTÊNCIA DE PROVA DO ABALO ESTRUTURAL DO EDIFÍCIO. INEXISTÊNCIA DE ALTERAÇÃO DA FACHADA DO PRÉDIO. OBTENÇÃO DE AUTORIZAÇÃO DA PREFEITURA PARA A REALIZAÇÃO DOS ACRÉSCIMOS ALI EXECUTADOS. DESCONSIDERAÇÃO DO LAUDO PERICIAL ELABORADO PELO CONDOMÍNIO, DADA A SUA NOTÓRIA PARCIALIDADE. PROVIMENTO DO PRIMEIRO RECURSO. DESPROVIMENTO DO RECURSO ADESIVO, ENTRETANTO” (fl. 74 do volume 5).
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, caput, 37, caput, e 109, I, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o conhecimento do recurso encontra óbice nas Súmulas 279 e 282 do STF.
+    É o Relatório. DECIDO.
+    O agravo não merece prosperar, uma vez que intempestivo.
+    O prazo para a interposição de agravo contra decisão que inadmite recurso extraordinário é de 10 (dez) dias, a teor do disposto no artigo 544 do Código de Processo Civil.
+    O recorrente foi intimado da decisão agravada em 29/11/2010, entretanto a petição de agravo só foi protocolada em 17/1/2011, após o transcurso do prazo recursal.
+    Ressalto que o Plenário desta Corte, no julgamento do AI 746.533-ED/RS, Rel. Min. Gilmar Mendes, DJe 1º/7/2009, firmou entendimento no sentido de que não cabem embargos de declaração contra decisão de admissibilidade do recurso extraordinário, conforme se pode destacar da ementa:
+    “Embargos de declaração em agravo de instrumento. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Embargos de declaração opostos da decisão de inadmissibilidade do recurso extraordinário. Recurso incabível. 4. Intempestividade do agravo. Precedentes. 5. Agravo regimental a que se nega provimento.”
+    Ex positis, NÃO CONHEÇO do agravo.
+    Publique-se.
+    Brasília, 30 de maio de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
