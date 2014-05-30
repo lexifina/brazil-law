@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E TRIBUTÁRIO. MULTA. PARÁGRAFOS 15 E 17 DO ART. 74 DA LEI N. 9.430/1996. RE 796.939-RG. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. QUESTÃO SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. b, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “ARGÜIÇÃO DE INCONSTITUCIONALIDADE. ARTIGO 74 DA LEI N. 9.430/96, PARÁGRAFOS 15 E 17. AFRONTA AO ARTIGO 5º , INCISO XXXIV, DA CONSTITUIÇÃO FEDERAL, BEM COMO AO PRINCÍPIO DA PROPORCIONALIDADE.
+    O artigo 5º , inciso XXXIV, 'a', da Constituição Federal dá conta de que 'são a todos assegurados, independentemente do pagamento de taxas: a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder; b) a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal'.
+    A multa prevista nos parágrafos 15 e 17 do art. 74 da Lei 9.430/96, ainda que não obste totalmente a realização do pedido de compensação, cria obstáculos, com certeza, ao direito de petição do contribuinte, pois, diante da possibilidade de lhe ser aplicada a pena pecuniária, produz justo receio, a ponto de desestimulá-lo a efetivar o pedido da compensação a que teria direito.
+    Portanto, os parágrafos 15 e 17 do artigo 74 da Lei n. 9.430/96 conflitam com o disposto no artigo 5º , inciso XXXIV, alínea 'a' da Constituição Federal.
+    Além disso, a aplicação da multa com base apenas no indeferimento do pedido ou na não homologação da declaração de compensação afronta o princípio da proporcionalidade.
+    Precedente da Corte Especial deste Regional”.
+    2. A Recorrente afirma que “o postulado da proporcionalidade não é infringido quando da aplicação das multas previstas nos §§ 15 e 17 do art. 74 da Lei 9.430/1996. Ao se estabelecer um Estado de Direito regido pelo império da lei, não basta apenas que esta (a lei) exista, impondo restrições aos cidadãos ou ao Estado, mas que haja razoabilidade na sua imposição”.
+    Sustenta que “a previsão de multa de 50% sobre o valor declarado que se entender indevido é proporcional ao fim colimado, qual seja, evitar condutas abusivas que, conforme alegado supra, afetam a economia da República. Valor menor não alcançaria o objetivo de coibir tais práticas ilícitas/proibidas perpetradas por alguns contribuintes, posto que o contribuinte se disporia a correr o risco de pagar a multa pretendida para ter o seu crédito suspenso por prazo razoável de tempo, gozando das benesses de uma certidão positiva de créditos com efeito de negativa”.
+    Argumenta que “o pedido de ressarcimento/compensação não corresponde à irresignação em face de ato ilegal ou abusivo do Poder Público. Trata-se de informe da existência de crédito a favor do contribuinte. Assim, através deste pedido, não há exercício de direito de petição, já que não houve recusa da Administração. E, caso haja recusa, o ordenamento jurídico prevê a possibilidade da apresentação de impugnação, no caso de ressarcimento (arts. 14 e 158 do Decreto nº 70.235/72), e manifestação de inconformidade (§9º do art. 74 da Lei nº 9.430/969), no caso de compensação”.
+    Pede, subsidiariamente, “a aplicação da técnica de interpretação conforme a Constituição, para que se entenda pela aplicação das multas elencadas nos §§ 15 e 17 do art. 74 da Lei nº 9.430/96, em caso de comprovado abuso de direito por parte do contribuinte”.
+    3. A Procuradoria-Geral da República assim se manifestou:
+    “Recurso Extraordinário. Tributário. Indeferimento do pedido de compensação e não homologação da declaração de ressarcimento. Pena pecuniária (multa). Ofensa ao direito de petição (art. 5º, XXXIV, a) e ao princípio da proporcionalidade. Pelo desprovimento da iniciativa” (grifos nossos).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No julgamento eletrônico do Recurso Extraordinário 796.939, Relator o Ministro Ricardo Lewandowski, este Supremo Tribunal reconheceu a repercussão geral da questão constitucional suscitada neste recurso extraordinário.
+    Em sua manifestação, o Ministro Relator afirmou:
+    “A matéria constitucional versada neste recurso consiste, portanto, na análise da constitucionalidade dos §§ 15 e 17 do art. 74 da Lei 9.430/1996, com redação dada pelo art. 62 da Lei 12.249/2010.
+    A questão possui relevância econômica, porquanto afeta aos contribuintes que buscam ressarcimento, restituição ou compensação de tributos junto à Receita Federal e, também, jurídica, pois houve declaração incidental da inconstitucionalidade de dispositivos de lei federal (aplicáveis tanto às pessoas físicas quanto às jurídicas), motivos que ultrapassam os limites subjetivos da causa” (grifos nossos).
+    5. Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar o julgamento do mérito e, após a decisão, observar o disposto no art. 543-B do Código de Processo Civil.
+    6. Pelo exposto, determino a devolução destes autos ao Tribunal a quo para observância do art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 30 de maio de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
