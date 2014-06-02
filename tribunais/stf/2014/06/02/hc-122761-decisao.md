@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Habeas corpus, sem pedido de liminar, impetrado pela advogada Ana Paula de Albuquerque Cavalcante em favor de Isaac Pereira da Costa e Washington José Santos Secundes, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC nº 43.976/SP, Relator o Ministro Jorge Mussi.
+    Sustenta a impetrante, em linhas gerais, que constrangimento ilegal imposto aos pacientes decorre “[da existência de] duas ações penais (1ª Ação Penal: nº 0003442-16.2012.403.6181) e (2ª Ação Penal: nº 0012466-68.2012.403.6181), constando em ambas a mesma imputação criminosa (artigo 171, CP), retratando o mesmo período (desde pelo menos o ano de 2006), quanto aos mesmos fatos (fraudes do seguro-desemprego junto ao Ministério do Trabalho e Emprego)” (fl. 7 da inicial - grifos da autora).
+    Nesse contexto, entendem que, “no que diz respeito ao delito de estelionato imputado aos Pacientes, a segunda ação penal induz ao fenômeno processual da litispendência, haja vista que há identidade de partes, causa de pedir e pedido, consoante acima demonstrado analiticamente, o que configura dupla increpação pelos mesmos fatos delituosos: bis in idem” (fl. 7 da inicial - grifos da autora).
+    Requer o deferimento da liminar para que “sejam sobrestados os efeitos processuais desta 2ª Ação Penal nº 0012466-68.2012.403.6181 (p.e., condenação e execução da pena), em relação aos Pacientes até o julgamento do presente writ (...)” (fl. 16 da inicial – grifos da autora). No mérito, pede a concessão da ordem para “reconhecer a litispendência alegada, que desdobra em evidente bis in idem em desfavor dos Pacientes, extinguindo-se, consequentemente, a Ação Penal nº 0012466-68.2012.403.6181, que tramita perante a veneranda 9ª Vara Federal da 1ª Subseção Judiciária de São Paulo” (fls. 16/17 da inicial – grifos da autora).
+    Examinados os autos, decido.
+    O julgado proferido pela autoridade apontada como coatora está assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. NULIDADE DO JULGAMENTO DO WRIT ORIGINÁRIO. INTIMAÇÃO DO PATRONO DO PACIENTE PARA A RESPECTIVA SESSÃO. AUSÊNCIA DE REQUERIMENTO. NULIDADE NÃO CONFIGURADA. RECURSO IMPROVIDO.
+    1. Não havendo prévio requerimento expresso por parte do defensor dos recorrentes, não há que se falar em nulidade do julgamento de habeas corpus realizado em sessão cuja data não lhe foi cientificada. Enunciado n.º 431 da Súmula do STF.
+    QUADRILHA OU BANDO, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E ESTELIONATO CONTRA O MINISTÉRIO DO TRABALHO E EMPREGO. LITISPEDÊNCIA. NÃO OCORRÊNCIA. APURAÇÃO DE FATOS DISTINTOS.
+    1. No que tange às recorrentes MARIA e JULIANE, o pleito é manifestamente improcedente, pois respondem pela prática de delitos diversos nas duas ações penais citadas – quadrilha ou bando na Ação Penal n.º 003442-16.2012.403.6181 e estelionato e falsificação de documento público no Processo n.º 0012466-68.2012.403.6181.
+    2. No que se refere aos recorrentes ISSAC e WASHINGTON, a despeito de haver imputação de estelionato em ambas ações penais, os fatos apurados são diversos, razão pela qual não há que se falar em bis in idem.
+    3. Recurso improvido” (www.stj.jus.br).
+    Há óbice jurídico-processual para o conhecimento do habeas corpus.
+    No caso, a impetração foi manejada em substituição ao recurso extraordinário, o que esbarra em decisão da Primeira Turma.
+    Confira-se a ementa do julgado paradigma:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS – PRONUNCIAMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA – NOVA IMPETRAÇÃO – IMPROPRIEDADE. Uma vez julgado pelo Superior Tribunal de Justiça o recurso ordinário formalizado em processo revelador de impetração, o acesso ao Supremo faz-se em via das mais afuniladas – mediante recurso extraordinário e não nova impetração” (HC nº 110.055/MG, Relator o Ministro Marco Aurélio, DJe de 9/11/12).
+    Conforme explicitado por sua Excelência, o eminente Ministro Marco Aurélio,
+    “essa óptica há de ser observada, também, no que o acórdão impugnado foi formalizado pelo Superior Tribunal de Justiça em recurso ordinário constitucional em habeas corpus. De duas, uma: ou há, no acórdão proferido, quadro a ensejar a interposição de recurso extraordinário, ou não há. Descabe a volta a estágio anterior, que é o do ajuizamento originário do habeas corpus. No mais, ante os parâmetros fáticos e legais, não existe campo para a concessão da ordem de ofício. Extingo o processo sem o julgamento do mérito”.
+    Entretanto, ressalvo meu entendimento pessoal, já consignado em sentido contrário por ocasião daquele julgamento. Todavia, adoto o entendimento do colegiado e o aplico à espécie.
+    Cabe ressaltar, ademais, inexistir impedimento para que esta Suprema Corte, quando do manejo inadequado do habeas corpus como substitutivo, analise a questão de ofício nas hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, o que não é o caso dos autos.
+    Apenas para registro, anoto que o julgado emanado do Superior Tribunal de Justiça não evidencia situação capaz de ensejar uma concessão da ordem de ofício, uma vez que se encontra devidamente justificado o convencimento formado.
+    De outra parte, é importante registrar que, apesar de idêntica a qualificação jurídica de um dos crimes a eles imputados em cada uma das ações penais, diversas foram as circunstâncias de tempo e de lugar, no que tange as práticas delitivas apuradas, conforme, aliás, bem demonstrado pelo Ministro Jorge Mussi em seu voto.
+    Há de se concluir, assim, que os fatos narrados nos autos demonstram que as infrações penais atribuídas aos pacientes nos feitos criminais em evidência referem-se a fatos distintos, não sendo possível, na via estreita do habeas corpus, assentar, desde logo, a ocorrência do bis in idem.
+    Anote-se que a jurisprudência da Corte já decidiu que “cabe ao órgão jurisdicional competente a decisão sobre eventual litispendência, não podendo esta Suprema Corte antecipar-se ao juiz natural da causa” (HC nº 98.842/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 25/6/10).
+    Ante o exposto, nos termos dos arts. 38 da Lei nº 8.038/90 e 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 2 de junho de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
