@@ -1,0 +1,17 @@
+Decisão: Trata-se de reclamação constitucional ajuizada com fundamento no art. 102, I, “l”, da CF/1988, pela Associação Capixaba dos Defensores Públicos em face do Governador do Estado do Espírito Santo e da Defensora Pública Geral da mesma unidade da Federação.
+    Na espécie, alega-se ofensa à decisão proferida na ADI 1.199/ES, que declarou inconstitucional o art. 64 da Lei Complementar estadual n. 55/94, a qual autorizava a permanência, no quadro institucional de defensores públicos admitidos sem concurso público, após a Constituição Federal de 1988.
+    A reclamante sustenta que, apesar de a Portaria 56-S ter determinado o desligamento de 19 defensores públicos, ainda permanecem 22 membros do extinto “Quadro Especial Institucional”, entre eles a Defensora Pública Geral então reclamada, descumprindo assim a decisão proferida por esta Corte.
+    Prestadas informações, o primeiro reclamado argui a ilegitimidade ativa da Associação e o descabimento da reclamação (fls. 165-172). A Defensora Pública Geral alega, igualmente, a ilegitimidade ativa da reclamante, além da necessidade de análise de ficha funcional dos demais defensores, por encontrarem-se em situações diversas daqueles que foram excluídos pela Portaria 56-S (fls. 195-212).
+    O Ministério Público Federal opina pela procedência da reclamação (fls. 219-223).
+    Decido.
+    Esta Corte, no julgamento da ADI 1.199, de relatoria do Ministro Joaquim Barbosa, declarou a inconstitucionalidade do art. 64 da Lei Complementar estadual n. 55/94, por manter em quadro especial defensores admitidos sem o indispensável certame, após a Constituição de 1988. O acórdão restou assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI COMPLEMENTAR 55/1994 DO ESTADO DO ESPÍRITO SANTO. DEFENSORES PÚBLICOS. ADMISSÃO SEM CONCURSO PÚBLICO. REGRA DE TRANSIÇÃO. Ampliação indevida da exceção prevista no art. 22 do ADCT da Constituição federal. Precedentes. Ação direta julgada procedente.” (ADI 1.199/ES, Rel. Min. Joaquim Barbosa, Pleno, DJ 16.6.2006)
+    É, assim, clara a impossibilidade de permanência no quadro institucional de profissionais contratados sem concurso público. Cito, a propósito, o parecer do Ministério Público Federal, o qual adoto como fundamento de decidir:
+    “Assim, não há dúvidas de que qualquer profissional que esteja nessa situação deve ser desligado da Defensoria, porquanto inconstitucional sua permanência. Com a expedição da Portaria 56-S, entendeu-se que estaria obedecida a decisão proferida na ADI. Contudo, a presente reclamação informa que aquele ato administrativo não contemplou todos os casos de defensores admitidos após a CF/88 sem se submeterem a concurso. Entende-se que todos os membros que eventualmente se encontram sob esse hipótese, ou seja, que foram admitidos após o advento da Constituição Federal e não prestaram concurso, devem ser afastados” (fls. 221-222)
+    No mesmo sentido, confira-se a decisão proferida monocraticamente pelo Ministro Teori Zavascki, nos autos da Rcl 15.796, DJe 28.3.2014.
+    Ante o exposto, julgo procedente a reclamação, prejudicado o pedido de liminar, para determinar o imediato afastamento dos defensores públicos remanescentes admitidos após a Constituição de 1988 sem concurso público (art. 21, § 1º, c/c art. 161, parágrafo único, do RISTF).
+    Publique-se. Int..
+    Brasília, 2 de junho de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
