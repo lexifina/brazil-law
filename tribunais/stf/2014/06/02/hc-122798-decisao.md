@@ -1,0 +1,15 @@
+Decisão:
+Ementa: Habeas corpus. Inexistência de pronunciamento colegiado do Superior Tribunal de Justiça. Descabimento. Inexistência de ilegalidade flagrante. Writ não conhecido.
+    1. Trata-se habeas corpus, com pedido liminar, impetrado contra decisão que negou seguimento ao HC 275.942, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o impetrante, condenado à pena de 20 anos de reclusão pelo delito de latrocínio (CP, art. 157, § 3º, segunda parte), teve seu pedido de progressão de regime indeferido pela ausência do requisito subjetivo para a progressão prisional, considerada a prática de falta grave.
+    3. Neste habeas corpus, o impetrante afirma que preenche os requisitos objetivo e subjetivo para a promoção prisional e requer sua imediata transferência para o regime semiaberto.
+    Decido.
+    4. Inicialmente observo que este habeas corpus foi impetrado contra decisão monocrática proferida pelo Relator do HC 275.942, Ministro Sebastião Reis Júnior, de modo que, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido, foram julgados, por exemplo, o HC 113.468, Rel. Min. Luiz Fux, HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso, HC 108.141-AgR, Rel. Min. Teori Zavascki, e o HC 118.189, Rel. Min. Ricardo Lewandowski, assim ementado:
+    “HABEAS CORPUS. CONSTITUCIONAL. PENAL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL. SUPRESSÃO DE INSTÂNCIA. IMPETRAÇÃO NÃO CONHECIDA. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, o qual pressupõe seja a coação praticada por Tribunal Superior. II Essa foi a orientação firmada pela Segunda Turma durante o julgamento do HC 119.115, de minha relatoria, ocasião em que se decidiu que a não interposição de agravo regimental no STJ e, portanto, a ausência da análise da decisão monocrática pelo colegiado impede o conhecimento do habeas corpus por esta Corte. III Writ não conhecido.”
+    5. Ademais, da leitura das peças de informação que instruem a inicial não se verifica a ocorrência de ilegalidade flagrante. Isso porque o indeferimento do pedido de progressão foi baseado na constatação de que, ao ser transferido para o regime prisional semiaberto, o ora impetrante fugiu do estabelecimento prisional, sendo recapturado em seguida. Com efeito, estando a análise do requisito subjetivo embasada em dados concretos da causa, inexiste ilegalidade a ser reparada neste habeas corpus.
+    6. Nessas condições, com base no art. 38 da Lei nº 8.038, c/c o art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 02 de junho de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
