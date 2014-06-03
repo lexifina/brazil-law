@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário.
+    A pretensão recursal não merece acolhida. Bem examinados os autos, verifico que a cadeia de substabelecimentos está incompleta, ante a ausência de instrumento com outorga de poderes aos advogados que, no entanto, substabeleceram aos subscritores das petições de recurso extraordinário (pág. 26 do doc. eletrônico 8) e agravo (pág. 93 do doc. eletrônico 8). Segundo a jurisprudência deste Tribunal, é inexistente o recurso interposto sem a regular representação processual. Nesse sentido:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. I - A jurisprudência da Corte firmou-se no sentido de considerar inexistente o recurso interposto por advogado sem procuração nos autos e de que não se aplica a regra do art. 13 do CPC em sede extraordinária. II - Agravo regimental improvido” (AI 577.802-AgR, de minha relatoria, Primeira Turma).
+    “RECURSO - REPRESENTAÇÃO PROCESSUAL - REGULARIDADE - OPORTUNIDADE. Na hipótese de interposição de recurso, o pressuposto objetivo de recorribilidade, que é a regular representação processual, há de estar atendido no prazo assinado em lei para a própria interposição. Descabe aplicar, em tal fase, o disposto no artigo 13 do Código de Processo Civil, cuja incidência sempre pressupõe a fase de conhecimento” (AI 546.997-AgR, Rel. Min. Marco Aurélio, Primeira Turma).
+    “PROCESSUAL CIVIL. REPRESENTAÇÃO PROCESSUAL: REGULARIDADE. INEXISTÊNCIA DE PROCURAÇÃO: NÃO CONHECIMENTO DO RECURSO. I. - Recurso interposto por advogado que não disponha, nos autos do processo, do necessário instrumento de mandato não pode ser conhecido. Inaplicabilidade, na fase recursal, do disposto no art. 13, CPC. II. - Precedentes do STF. III. - Agravo da União provido. Não conhecimento do agravo da empresa autora da demanda” (RE 281.287-ED-AgR-AgR/RJ, Rel. Min. Carlos Velloso, Segunda Turma)
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
