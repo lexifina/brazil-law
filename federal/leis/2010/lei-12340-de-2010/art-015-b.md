@@ -1,0 +1,1 @@
+Art. 15-B. As empresas exploradoras de serviço móvel pessoal são obrigadas a transmitir gratuitamente informações de alerta à população sobre risco de desastre, por iniciativa dos órgãos competentes, nos termos de regulamento.
