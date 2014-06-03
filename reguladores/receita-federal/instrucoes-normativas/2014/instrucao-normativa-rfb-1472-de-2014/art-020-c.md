@@ -1,0 +1,3 @@
+Art. 20-C. O disposto nesta Instrução Normativa não se aplica à restituição de AFRMM e TUM relativa a pedido protocolado até a data da vigência do Decreto nº 8.257, de 29 de maio de 2014.” (NR)
+“Art. 70-A. O reconhecimento do direito creditório e a restituição de crédito relativo ao AFRMM e à TUM incidentes sobre operações de navegação de cabotagem, interior fluvial e lacustre caberão ao titular da unidade descentralizada que jurisdicione o domicílio tributário do sujeito passivo.
+Parágrafo único. Aplica-se ao reconhecimento do direito creditório de que trata o caput o disposto no § 2º do art. 70.” (NR)
