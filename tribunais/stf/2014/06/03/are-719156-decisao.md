@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra acórdão que inadmitiu recurso extraordinário, cujo trecho da ementa transcrevo abaixo:
+    “AGRAVO DE INSTRUMENTO – É ilegítima a exigência do agravado em condicionar o parcelamento do débito ao pagamento das custas e honorários advocatícios em se tratando de agravada beneficiária da justiça gratuita – Negaram provimento” (eDOC 1, p. 42).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, aponta-se violação aos arts. 2º; 5º, II; 30, I; e 146, III, do texto constitucional.
+    Nas razões recursais, aduz-se, em síntese, que a decisão recorrida desprezou a legislação municipal que regula a matéria, razão por que violou a competência do Poder Legislativo Municipal e o princípio da legalidade (eDOC 1, p. 14).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    A matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional. O novo exame da decisão impugnada exigiria, portanto, a análise prévia da legislação infraconstitucional aplicada à espécie (Código Tributário Nacional, Lei 6.830/80 e Lei 1.060/50). A eventual ofensa à Constituição Federal, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário, a teor do disposto no Enunciado 636 da Súmula do STF.
+    Nesse sentido, destaco os seguintes precedentes:
+    “Embargos de declaração no recurso extraordinário. Conversão dos embargos declaratórios em agravo regimental. Prequestionamento. Ausência. Honorários advocatícios. Ofensa reflexa. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 3. Inadmissível em recurso extraordinário a análise de legislação infraconstitucional e o exame de ofensa reflexa à Constituição Federal. Incidência da Súmula nº 636/STF. 4. Agravo regimental não provido”.
+    (RE 644285 ED, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 13/11/2012, PROCESSO ELETRÔNICO DJe-245 DIVULG 13.12.2012 PUBLIC 14.12.2012)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AÇÃO DE CONSIGNAÇÃO DE PAGAMENTO. PRETENSÃO DE PARCELAMENTO DA DÍVIDA. PETIÇÃO INICIAL INDEFERIDA. CONTROVÉRSIA DE ÍNDOLE ESTRITAMENTE PROCESSUAL. ALEGAÇÃO DE AFRONTA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. OFENSA REFLEXA. INOVAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECEDENTES. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Ofensa às garantias constitucionais do processo, se existente, apenas ocorreria de modo reflexo ou indireto. 3. A questão que não fez parte das razões do recurso extraordinário, nem foi debatida na instância judicante origem constitui inovação insuscetível de ser apreciada nesta oportunidade. Precedentes: AI 493.214-AgR, da relatoria do ministro Sepúlveda Pertence; RE 346.599-AgR, da relatoria do ministro Sepúlveda Pertence; AI 482.041-AgR, da relatoria do ministro Eros Grau; e o AI 500.501-AgR, da relatoria do ministro Gilmar Mendes. 4. Agravo regimental desprovido”.
+    (AI 844190 AgR, Relator(a): Min. AYRES BRITTO, Segunda Turma, julgado em 7.6.2011, DJe-182 DIVULG 21.9.2011 PUBLIC 22.9.2011 EMENT VOL-02592-03 PP-00464)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 3 de junho de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
