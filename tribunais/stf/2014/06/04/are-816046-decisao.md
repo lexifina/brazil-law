@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça assim ementado, no que interessa:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. SALDO RESIDUAL. AUSÊNCIA DE COBERTURA PELO FCVS. RESPONSABILIDADE DO MUTUÁRIO”. (eDOC 5, p. 9)
+    Opostos os embargos declaratórios, estes foram rejeitados (eDOC 5, p. 34).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação dos artigos 1º, III; 5º, caput e XXXII; e 6º do texto constitucional.
+    O recorrente sustenta que a determinação do pagamento do saldo devedor existente ofende, em especial, o direito à moradia, a função social da propriedade e o princípio da dignidade da pessoa humana. Ademais, alega a inconstitucionalidade do Decreto-Lei n. 2349/87.
+    É o relatório.
+    Decido.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação infraconstitucional. Desse modo, a ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária. Sobre o tema, confiram-se os seguintes julgados de ambas as Turmas desta Corte:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. CONTRATO DE MÚTUO. TR. ATUALIZAÇÃO MONETÁRIA DO SALDO DEVEDOR. ALEGAÇÃO DE VIOLAÇÃO AO ART. 6º DA CONSTITUIÇÃO FEDERAL.OFENSA INDIRETA OU REFLEXA. SÚMULA STF 454. 1. O debate acerca da utilização da TR como índice de atualização do saldo devedor nos contratos do sistema financeiro de habitação é de nível infraconstitucional (Lei 4.380/64). 2. A apreciação do apelo extremo demanda o reexame de cláusulas contratuais (Súmula STF 454). Precedentes. 3. Agravo regimental improvido”. (RE 568.692-AgR/DF, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 3.3.2011)
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO DE CONTRATO. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 743.435, Rel. Min. Ellen Gracie, Segunda Turma, DJe 5.2.2010)
+    Da mesma forma, constato que a alegada inconstitucionalidade do Decreto-Lei n. 2349/87 em comento não foi ventilada no acórdão recorrido e também não foi objeto de embargos de declaração. Falta-lhe, pois, o indispensável prequestionamento, nos termos do Enunciado 282 do STF. Nesse sentido, o seguinte julgado:
+    “RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. RECURSO EXTRAORDINÁRIO. PREQUESTIONAMENTO. CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente [...]”. (AI 848696 AgR, Rel. Min. Marco Aurélio, DJe 21.6.2013)
+    Ante o exposto, conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 4 de junho de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
