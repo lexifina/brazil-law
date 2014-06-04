@@ -1,0 +1,13 @@
+Trata-se de agravo de decisão que negou seguimento a recurso extraordinário interposto de acórdão que negou provimento a agravo de instrumento formalizado contra o ato do juízo de primeira instância estadual que se declarou competente para julgar a ação ordinária de revisão e complementação de proventos proposta pelo recorrente, após excluir a Caixa Econômica Federal do polo passivo da ação de complementação de proventos de aposentadoria e manter somente a Fundação dos Economiários Federais – FUNCEF como demandada.
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 109, I, da mesma Carta.
+    É o relatório. Decido.
+    O Juízo de Direito da 15ª Vara Cível da Comarca de Porto Alegre/RS assim decidiu a questão relacionada com a inclusão da Caixa Econômica Federal no polo passivo da demanda (fl. 542):
+    “Inicialmente, considero indevida a formação de litisconsórcio passivo necessário com necessidade da Caixa Econômica Federal, integrar o processo, uma vez que a questão afeta exclusivamente ao contrato havido entre as partes, não importando se a Caixa Econômica Federal é patrocinadora ou mantenedora da Fundação. Esta dispõe de personalidade jurídica e patrimônio próprios, de natureza previdenciária com a autora, não tomando parte o ex-empregador da demandante. Desta forma, a afasto a formação de litisconsórcio necessário”.
+    Como se depreende, o Juízo da causa, ao proferido o ato judicial originariamente impugnado, se ateve à necessária observância do disposto no art. 47 do Código de Processo Civil – que disciplina a formação de litisconsorte – para, à vista do contrato firmado entre o recorrente e a Fundação dos Economiários Federais – FUNCEF, excluir a Caixa Econômica Federal do polo passivo da ação.
+    Assim, para chegar à conclusão de que a referida decisão – que foi confirmada pelo Tribunal estadual – violou o disposto no art. 109, I, da Constituição Federal, impõe-se, antes, que se compreenda ter havido boa ou má interpretação da norma processual e das cláusulas contratuais acima referidas, que não se revela cabível em sede extraordinária.
+    Ademais, o ato mediante o qual se determina a exclusão de litisconsorte do polo de certa demanda tem natureza interlocutória e, como tal, não põe fim ao processo. Assim, por não ser provimento de única ou última instância, incabível o recurso extraordinário. Precedentes: AI 586.906-AgR, Rel. Min. Sepúlveda Pertence; AI 761.940-AgR, Rel. Min. Ellen Gracie; AI 606.129-AgR, Rel. Min. Gilmar Mendes; e RE 507.310-AgR, Rel. Min. Cármen Lúcia, entre outros.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de junho de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
