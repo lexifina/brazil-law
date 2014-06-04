@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário que impugna acórdão da Primeira Turma Recursal dos Juizados Especiais Federais de Pernambuco, cuja ementa transcrevo abaixo:
+    “BOLSA FAMÍLIA. DOTAÇÃO ORÇAMENTÁRIA. COMPATIBILIZAÇÃO NECESSÁRIA. ART. 6º, LEI 10.836/2004. PREVISÃO LEGAL ESPECÍFICA. CRITÉRIOS PARA AFERIÇÃO. PORTARIA 341/2008 DO MINISTÉRIO DO DESENVOLVIMENTO. EXCEDENTE MUNICIPAL. IBGE. VERIFICAÇÃO PELO EXECUTIVO. RECURSO IMPROVIDO”.(eDOC 22, p. 1).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, a, da Constituição Federal, alega-se ofensa aos arts. 1º, III; 3º, III e IV; 5º caput; 6º; e 203, I e II, do texto constitucional.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Verifico que, para se aferir a alegada violação aos dispositivos constitucionais apontados, seriam necessárias a análise e a interpretação da legislação infraconstitucional aplicável à hipótese, providência vedada no âmbito do recurso extraordinário, o teor do disposto no Enunciado 636 da Súmula do STF.
+    A propósito, cito precedentes de ambas as Turmas desta Corte:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO – BENEFÍCIO ASSISTENCIAL (CF, ART. 203, V) – RECONHECIMENTO, NO CASO, DO ESTADO DE MISERABILIDADE (E DE AFLITIVA NECESSIDADE) QUE AFETA A PESSOA DESTINATÁRIA DE REFERIDO BENEFÍCIO ASSISTENCIAL – CARÁTER SOBERANO DA DECISÃO LOCAL, QUE, PROFERIDA EM SEDE RECURSAL ORDINÁRIA, RECONHECEU, COM APOIO NO EXAME DOS FATOS E PROVAS, A EXISTÊNCIA DOS PRESSUPOSTOS PARA A CONCESSÃO DO MENCIONADO BENEFÍCIO – INADMISSIBILIDADE DE REEXAME DE PROVAS E FATOS EM SEDE RECURSAL EXTRAORDINÁRIA (SÚMULA 279/STF) – ACÓRDÃO RECORRIDO QUE SE AJUSTA À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL – RECURSO DE AGRAVO IMPROVIDO”. (ARE 750970 ED, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe 12.8.2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ASSISTÊNCIA SOCIAL. BENEFÍCIO DO BOLSA FAMÍLIA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL (LEI 10.836/2004 E DECRETO 5.209/2004). OFENSA INDIRETA. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. II - Agravo regimental improvido”. (RE 628174 AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 11.4.2011)
+    Ademais, para se entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Incide, portanto, a Súmula 279/STF. Nesse sentido, destaco o seguinte precedente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ASSISTÊNCIA SOCIAL. BENEFÍCIO DO BOLSA FAMÍLIA. LEI N. 10.836/2004. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 628171 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, Dje 1.2.2011)
+    Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ de 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ de 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe de 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 5.2.2010,
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 4 de junho de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
