@@ -1,0 +1,8 @@
+Decisão: 1. Trata-se de mandado de injunção em face de omissão legislativa atribuída à Presidente da República e o Presidente do Congresso Nacional, relativamente à edição de leis complementares destinadas a regulamentar o art. 40, § 4º, da Constituição Federal. Alega a parte impetrante que a falta de regulamentação inviabiliza o exercício do direito à aposentadoria especial previsto no dispositivo constitucional. Requer a concessão da ordem para garantir o direito de ter o pedido de aposentadoria especial apreciado pelo órgão competente à luz do disposto nos arts. 57 e seguintes da Lei 8.213/91.
+    2. No caso, está caracterizada a falta de interesse processual: a parte impetrante não comprovou que a Administração Pública tenha negado a concessão da aposentadoria especial com base na inexistência de norma regulamentadora, conforme o disposto no art. 40, § 4º, III, da CF/88, não havendo pretensão resistida. Na emenda à inicial, apresentou protocolo administrativo de 22 de maio de 2014 (sem a identificação do requerente), data posterior à da aprovação da Súmula Vinculante 33 (09 de abril de 2014): “Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica”. Ademais, o mandado de injunção não é a via adequada para a tutela de eventual descumprimento do enunciado da súmula vinculante pela Administração Pública.
+    3. Diante do exposto, nego seguimento ao pedido.
+    Publique-se. Intimem-se.
+    Brasília, 04 de junho de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
