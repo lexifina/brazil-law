@@ -1,0 +1,37 @@
+Decisão: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pelo Sindicato Estadual dos Profissionais de Educação de Educação do Estado do Rio de Janeiro – SEPE/RJ em face de decisão do Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro, nos autos do processo nº 0024544-62.2014.8.19.0000, prolatada nos seguintes termos:
+    “É o relatório. Decido.
+    O Supremo Tribunal Federal, no julgamento dos Mandados de Injunção nº 670/ES, 708/DF e 712/PA, consolidou entendimento no sentido da eficácia imediata do direito constitucional de greve dos servidores públicos, a ser exercido por meio da aplicação da Lei nº 7.783/1989, até que sobrevenha lei específica para regulamentar a questão.
+    Nesse sentido, o acórdão da Ação Direta de Inconstitucionalidade nº 3235:
+    (...)
+    A corte suprema também estabeleceu ser dos Tribunais de Justiça dos Estados a competência para decidir sobre os conflitos referentes a greve de servidores adstritos a uma unidade da federação, tudo com base na aplicação analógica do art. 6º, da Lei nº 7.701/1988, pelo que foi editada a Resolução nº 14/2014 para adaptar o Regimento Interno deste Tribunal a tais determinações.
+    De outro lado, sendo a Lei nº 7.783/1989 o balizamento escolhido pelo Supremo Tribunal Federal para a apreciação do direito de greve dos servidores públicos, as limitações ali constantes, por ainda maior razão, aplicam-se ao caso de greves envolvendo serviços de caráter especial.
+    Assim, se a própria Lei nº 7.783/1989 prevê o dever de manutenção de serviços considerados essenciais, o caráter ontologicamente público dos serviços prestados por servidores públicos exige ainda maior rigor na ponderação entre o direito de greve e o interesse coletivo na manutenção dos serviços quando certas atividades estão envolvidas.
+    Foi nesse sentido que o Supremo Tribunal Federal decidiu, ressalvando expressamente o caráter meramente exemplificativo do rol de atividades essenciais do art. 10 da Lei nº 7.783/1989 quando se trate de greve de servidores públicos, como se vê de trecho do acórdão do Mandado de Injunção 708/DF:
+    (...)
+    No caso dos autos, competindo a esta Presidência, por força do art. 3º, I, “o”, números 2 a 7, do Regimento Interno do Tribunal, com a redação dada pela Resolução nº 14/2014 do Órgão Especial, a apreciação inicial dos dissídios coletivos de greve bem como a avaliação da necessidade de se atender aos interesses da comunidade, verifico que a atividade desempenhada pela categoria em estado de greve deve ser inserida dentre aquelas de caráter essencial, tendo em vista que a sua paralisação põe em grave risco os objetivos letivos do ano de 2014, em área extremamente demandada pela sociedade.
+    Conforme indicado na inicial, a paralisação do serviço, que já se prolonga por mais de 67 dias, coloca em xeque a continuidade da prestação dos serviços aos estudantes, notadamente os que estão cursando o 9º ano do ensino fundamental, em razão da proximidade do calendário de matrículas, vez que 90% do quantitativo dos servidores já teria aderido à paralisação, em afronta ao artigo 11 da Lei nº 7.783/89.
+    O artigo 13 da referida Lei exige que, em serviços ou atividades essenciais, haja a notificação prévia da paralisação, para que o movimento grevista seja deflagrado: “Na greve, em serviços ou atividades essenciais, ficam as entidades sindicais ou os trabalhadores, conforme o caso, obrigados a comunicar a decisão aos empregadores e aos usuários com antecedência mínima de 72 (setenta de duas) horas da paralisação”.
+    O ofício acostado às fls.71 indica que não foi observado o prazo estabelecido no aludido dispositivo, vez que a notificação foi efetuada em data posterior à deflagração da greve.
+    No que se refere ao estabelecido no artigo 4º do mesmo diploma legal, verifica-se que não foi consignada na ata de assembleia do dia 24.03.2014 a deliberação sobre a paralisação coletiva da prestação de serviços.
+    Pelo exposto, vejo que estão presentes os pressupostos para a concessão antecipada da tutela, ao menos na parte do pedido que se refere à cessação da greve.
+    Há elementos que justificam a abertura da fase de conciliação prevista no artigo 3º, I, “o”, 2 a 7, do Regimento Interno deste Tribunal de Justiça, tendo em vista as informações prestadas pelo Município na inicial quanto aos reajustes concedidos recentemente, além da previsão de novo reajuste em novembro deste ano.
+    Assim, defiro a antecipação pretendida determinando:
+    1. O imediato retorno dos servidores do sindicato suscitado às suas atividades, sob pena de multa diária de R$ 50.000,00 (cinquenta mil reais), sem prejuízo das sanções e responsabilizações cabíveis;
+    2. a intimação do sindicato para Audiência de Conciliação a se realizar no dia 11/06/14, às 15h30min, no Salão Nobre da Presidência, mediante representantes com poderes para transigir e devendo apresentar pauta de reivindicações, nos termos do artigo 3º, I, “o”, 2, do Regimento Interno deste Tribunal de Justiça, na redação dada pela Resolução nº 14/2014, do Órgão Especial deste Tribunal de Justiça;
+    3. a intimação do Município de São Gonçalo por sua Procuradoria;
+    4. a intimação do representante do sindicato suscitado para suspender quaisquer atos de paralisação sob as penas supra; e
+    5. a intimação do Ministério Público do Estado do Rio de Janeiro.”
+    O reclamante alega que, na concessão da tutela antecipada, houve julgamento antecipado da lide, declarando a ilegalidade da greve e gerando o esvaziamento do direito constitucional de greve.
+    Sustenta ofensa às decisões proferidas nos julgamentos do Mandado de Injunção n. 708, que consolidou entendimento no sentido da eficácia imediata do direito constitucional de greve dos servidores públicos, a ser exercido por meio da aplicação da Lei nº 7.783/1989, até que sobrevenha lei específica para regulamentar a questão, e do AI-RG 853.275, que reconheceu a repercussão geral da controvérsia relativa ao desconto nos vencimentos dos servidores públicos dos dias não trabalhados em virtude de greve, respectivamente.
+    Defende, a reclamante, a inviabilização do direito de greve já reconhecido, ante a imposição de multa no valor de R$ 50.000,00 (cinquenta mil reais) por dia de manutenção do movimento, e a necessidade de sobrestamento do feito por tratar de tema com repercussão geral reconhecida.
+    É o relatório.
+    Inicialmente, não há similitude entre o presente caso e a questão constitucional controvertida no recurso-paradigma invocado. Não foi discutido na decisão reclamada desconto dos dias parados decorrentes da adesão à greve, mas tão somente a determinação do retorno imediato dos servidores.
+    Ademais, em análise preliminar, não vislumbro divergência ao assentado no paradigma do MI 708, uma vez que a decisão reclamada limitou-se a aplicar a Lei n. 7.783/89 ao caso concreto, consoante determinado nos precedentes desta Corte. Ressalte-se que a eventual má aplicação dos artigos 4º e 13 da Lei n. 7.783/89 não afronta a autoridade do paradigma, nem enseja o cabimento da reclamação, que não é substitutivo do recurso pertinente.
+    Ante o exposto, indefiro o pedido liminar.
+    Solicitem-se informações à autoridade reclamada.
+    Após, dê-se vista à Procuradoria-Geral da República.
+    Publique-se. Int..
+    Brasília, 5 de junho de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
