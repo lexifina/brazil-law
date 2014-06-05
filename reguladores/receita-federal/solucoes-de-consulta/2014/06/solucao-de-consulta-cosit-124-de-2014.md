@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 124, de 28 de maio de 2014
+ASSUNTO: Obrigações Acessórias EMENTA: DMED. CLÍNICAS DE VACINAÇÃO E IMUNIZAÇÃO HUMANAS. As clínicas de vacinação e imunização humanas que se limitam a aplicar vacinas estão desobrigadas de apresentar a Declaração de Serviços Médicos - Dmed. As clínicas de vacinação e imunização humanas que se limitam a aplicar vacinas e a realizar consultas médicas sem aplicação de vacinas estão obrigadas a apresentar a Dmed. Nessa hipótese, apenas informações referentes às consultas médicas devem ser incluídas na referida declaração. DISPOSITIVOS LEGAIS: Lei nº 12.842/2013, art. 4º, § 5º, I; Mensagem de Veto nº 287/2013; IN RFB nº 985/2009, arts. 2º, 3º e 4º.
+[arquivo anexo: SC Cosit 124-2014.pdf]
