@@ -1,0 +1,22 @@
+DECISÃO
+COMPETÊNCIA – DECLINAÇÃO.
+    1. O Gabinete prestou as seguintes informações:
+    Ozir Miguel Londero, magistrado aposentado, ajuizou ação de indenização sob o rito ordinário, distribuída inicialmente à Vara dos Feitos da Fazenda Pública da Comarca da Capital do Estado de Santa Catarina, visando a condenação do ente local ao pagamento de três licenças-prêmio a que teria jus pelo exercício do cargo, não gozadas antes da aposentadoria. Fundamenta o pedido no artigo 37, § 6º, da Carta da República. Alude ao disposto no artigo 4º da Lei catarinense nº 6.745/85 – Estatuto dos Servidores estaduais –, segundo o qual “é proibida a prestação de serviços gratuitos ao Estado.” Evoca jurisprudência do Tribunal de Justiça local.
+    O processo foi remetido ao Supremo, considerado o teor do artigo 102, inciso I, alínea “n”, da Constituição de 1988.
+    O Procurador-Geral da República manifesta-se pelo reconhecimento da competência originária do Tribunal e, no mérito, pela improcedência do pedido. Refere-se ao rol exaustivo de licenças previsto na Lei Complementar nº 69 da Lei Orgânica da Magistratura Nacional, no que não contemplada a licença-prêmio. Cita o pronunciamento do ministro Joaquim Barbosa na Ação Originária nº 1.085/SC.
+    O Estado de Santa Catarina, na contestação juntada à folha 39 à 44, argui preliminar de prescrição. Diz haver sido publicado, em 19 de março de 2004, o ato de aposentadoria do autor, tendo a citação sido realizada somente em 20 de julho de 2011, ou seja, após mais de sete anos. Complementa frisando o indeferimento do requerimento administrativo apresentado pelo autor, não havendo notícia da interposição de recurso. Destaca o disposto no artigo 125 da Lei estadual nº 6.745/85. Este é o teor:
+    Art. 125 – O direito de pleitear na esfera administrativa prescreve a partir da data de publicação oficial do ato impugnado ou, quando for dispensada, da data em que tiver conhecimento o funcionário:
+    I – Em cinco anos, quanto aos atos de que decorreram a demissão, a aposentadoria ou a disponibilidade do funcionário;
+    II – Em 02 (dois) anos, nos demais casos.
+    Sustenta, no mérito, a ausência de direito do autor à licença-prêmio, uma vez que não está prevista no rol taxativo constante do artigo 69 da Lei Complementar nº 35/79. Evoca jurisprudência. Requer seja declarada a improcedência do pedido.
+    O processo está concluso no Gabinete.
+    2. Está-se diante de pleito relativo ao pagamento de licenças-prêmio a magistrado aposentado, com fundamento no artigo 37, § 6º, da Carta Federal e na legislação concernente aos servidores estaduais. Os pronunciamentos do Supremo, presente o alcance da alínea “n” do inciso I do artigo 102 da Constituição Federal, são reiterados no sentido de apenas lhe caber o julgamento de conflito de interesses quando se tratar de direito substancial exclusivo da magistratura. A rubrica, tal como postulada na inicial, pode beneficiar todo e qualquer servidor, não estando evidenciada a competência originária do Tribunal. Confiram os seguintes precedentes:
+    COMPETÊNCIA. CAUSA DE INTERESSE DA MAGISTRATURA. A letra n do inciso I do art. 102 da Constituição Federal, ao firmar a competência originária do STF para a causa, só se aplica quando a matéria versada na demanda diz respeito a privativo interesse da magistratura enquanto tal e não também quando interessa a outros servidores. Precedentes. Agravo improvido.
+    (Agravo Regimental na Reclamação nº 1.952, relatora ministra Ellen Gracie, Tribunal Pleno, julgado em 19 de fevereiro de 2004, Diário da Justiça de 12 de março de 2004)
+    CONSTITUCIONAL. SUPREMO TRIBUNAL: COMPETÊNCIA ORIGINÁRIA: CF, art. 102, I, n. I. - No caso, não se tem pretensão em torno de uma vantagem específica da magistratura, mas, simplesmente, uma demanda em que se discute se é possível a conversão em pecúnia de vantagem que teria sido adquirida anteriormente à LOMAN. Não se discute, portanto, se, em face da LOMAN, tem o magistrado direito à licença-prêmio. Não ocorre, pois, no caso, a competência originária do Supremo Tribunal inscrita no art. 102, I, n. II. - Agravo não provido.
+    (Agravo Regimental na Ação Originária nº 1.122, relator ministro Carlos Velloso, Tribunal Pleno, julgado em 24 de novembro de 2005, Diário da Justiça de 16 de dezembro de 2005)
+    3. Ante o exposto, assento a incompetência do Supremo e determino a devolução do processo à Vara de origem.
+    4. Publiquem.
+Brasília, 5 de junho de 2014.
+Ministro MARCO AURÉLIO
+Relator
