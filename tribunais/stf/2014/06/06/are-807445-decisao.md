@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO COLETIVA. LIMITES TERRITORIAIS DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 796.473. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. VIOLAÇÃO AO ART. 93 DA CF/88. INEXISTÊNCIA.
+1. A limitação territorial da eficácia da decisão proferida em ação coletiva, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do ARE nº 796.473, Rel. Min. Gilmar Mendes.
+2. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+3. In casu, o acórdão recorrido assentou: “PROCESSUAL E ADMINISTRATIVO. ASSOCIAÇÃO DE CLASSE. SUBSTITUIÇÃO PROCESSUAL. EFEITOS DA SENTENÇA. ART. 2º-A, DA LEI Nº 9.494/97. SERVIDOR INATIVO. GDPGTAS. CRITÉRIO DE FIXAÇÃO PARA OS INATIVOS IDÊNTICA AOS SERVIDORES DA ATIVA NÃO AVALIADOS. LEI Nº 10.971/2004”.
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pela ASSOCIAÇÃO DOS SERVIDORES DO DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS - ASSECAS, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “PROCESSUAL E ADMINISTRATIVO. ASSOCIAÇÃO DE CLASSE. SUBSTITUIÇÃO PROCESSUAL. EFEITOS DA SENTENÇA. ART. 2º-A, DA LEI Nº 9.494/97. SERVIDOR INATIVO. GDPGTAS. CRITÉRIO DE FIXAÇÃO PARA OS INATIVOS IDÊNTICA AOS SERVIDORES DA ATIVA NÃO AVALIADOS. LEI Nº 10.971/2004. 1 – Encontra-se consolidado na jurisprudência de nossos Tribunais, inclusive do Col. STJ, o entendimento de que os efeitos da sentença proferida em ação coletiva alcançam apenas aqueles substituídos que, no momento do ajuizamento da ação tinham endereço na competência territorial do órgão julgador, nos termos da expressa previsão legal do art. 2º-A da Lei nº 9.494/97. 2 - - A GDPGTAS deve ser estendida aos aposentados e pensionistas, no mesmo percentual de 80% de seu valor máximo, até que cesse a excepcionalidade existente, através da edição da regulamentação da GDPGTAS, prevista no § 7º do art. 7º da Lei nº 11.357/2006, e com a implantação efetiva da avaliação individual do servidor. 3 - Apelação e Remessa Oficial parcialmente providas” (fl. 122 do volume 2).
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXV, LIV, LV e LXX, b, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que os dispositivos constitucionais suscitados não foram prequestionados.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    A limitação territorial da eficácia da decisão proferida em ação coletiva não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do ARE nº 796.473, Rel. Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Verifico que a controvérsia em exame discute questão atinente à limitação territorial da eficácia da decisão proferida em ação coletiva, questão que se restringe ao âmbito infraconstitucional”.
+    Por fim, quanto à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte, nesse sentido, AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 6 de junho de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
