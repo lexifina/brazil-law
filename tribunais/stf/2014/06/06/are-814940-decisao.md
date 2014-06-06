@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAIS MILITARES. GRATIFICAÇÃO DE REDUÇÃO DE CRIMINALIDADE. IMPOSSIBILIDADE DE REEXAME DE LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão do recurso extraordinário, interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Turma Recursal Fazendária do Rio de Janeiro:
+    “Ação de cobrança. Gratificação de redução de criminalidade instituída pelos Decretos ns. 41.931/2009 e 42.243/2010. Sentença de improcedência entendendo que o recorrente não atende aos requisitos para percepção da gratificação. Reforma do Julgado. Gratificação que não é destinada tão somente aos policiais que atuam diretamente ao combate da criminalidade, como defendido pelo ente público, mas a todo o regimento que cumpriu as metas estipuladas pela norma instituidora da vantagem. Impossibilidade da autoridade administrativa estabelecer critério não previsto na norma instituidora da vantagem. Inteligência do art. 6º, § 1º, do Decreto n. 41.931/2009. Não incidência da Súmula n. 339 do STF à espécie. Precedentes desta Turma Recursal. Conhecimento e provimento do recurso” (fl. 135).
+    2. Os embargos de declaração opostos foram rejeitados.
+    3. O Agravante alega que o Tribunal de origem teria contrariado os arts. 2º, 37, incs. X e XIII, e 61, § 1º, inc. II, al. a, da Constituição da República e a Súmula n. 339 do Supremo Tribunal Federal.
+    Afirma que
+    “o acórdão recorrido ofende o princípio da legalidade em matéria de remuneração de servidores públicos, previsto no inciso X, do art. 37 e 61, parágrafo 1º, inciso I, alínea ‘a’, ambos da Constituição da República, que exigem lei específica para fixar ou alterar a remuneração dos servidores públicos.
+    Dessa forma, toda vantagem pecuniária deve ser instituída por lei específica, ou seja, lei aprovada de acordo com o processo legislativo previsto na Constituição.
+    Cumpre esclarecer que não se trata de ofensa reflexa a dispositivo constitucional, pois não se está alegando ofensa à lei infraconstitucional, mas ofensa ao princípio constitucional da legalidade em razão da inexistência de lei infraconstitucional.
+    Note-se, ademais, que, a admitir-se a extensão da gratificação estar-se-ia não apenas violando os dispositivos supracitados, mas, igualmente, o artigo 2º da Carta Magna, já que presenciaríamos a atuação do Poder Judiciário como legislador positivo, suprimindo, assim, a competência de iniciativa do Chefe do Executivo e a deliberação do Poder Legislativo, em evidente violação ao princípio da Separação dos Poderes” (fls. 158-159).
+    4. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois a questão versa exclusivamente sobre matéria de direito.
+    Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão do Agravante.
+    6. Novo exame do julgado impugnado exigiria a análise prévia de normas infraconstitucionais aplicadas à espécie (Decretos estaduais ns. 41.931/2009 e 42.243/2010). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, procedimento inviável de ser validamente adotado nessa senda recursal, conforme dispõe a Súmula n. 280 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO MILITAR. NATUREZA REMUNERATÓRIA. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 797.612-AgR, de minha relatoria, Segunda Turma, DJe 22.5.2014).
+    “EMENTA DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO POR DESEMPENHO DE ATIVIDADE EM EDUCAÇÃO ESPECIAL. DIREITO PREVISTO NA LEGISLAÇÃO ESTADUAL. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA 280/STF. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 15.10.2009. O exame da alegada ofensa aos dispositivos constitucionais indicados dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Tendo a Corte Regional dirimido a lide com espeque em interpretação de legislação local, incide, na espécie, o óbice da Súmula 280/STF : ‘por ofensa a direito local não cabe recurso extraordinário’. Agravo regimental conhecido e não provido” (AI 805.729-AgR, Relatora a Ministra Rosa Weber, DJe 24.6.2013, grifos nossos).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de junho de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
