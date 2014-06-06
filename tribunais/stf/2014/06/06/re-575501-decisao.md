@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça da Bahia, que (a) considerou válido o ato de exoneração do recorrente; e (b) negou seu pedido de reintegração, tendo em vista ser ocupante, exclusivamente, de cargo em comissão, o qual está inserido no âmbito de discricionariedade da Administração Pública. Aponta-se ofensa, pelo juízo recorrido, aos artigos 5º, XXXVI, e 37, caput, da Constituição Federal.
+    O recurso extraordinário foi inadmitido na origem, todavia, em 25/10/2007, o Ministro Relator, AYRES BRITTO, deu provimento ao agravo de instrumento pelo fato de constarem dos autos os elementos necessários ao julgamento da causa (fl. 127).
+    Parecer do Ministério Público Federal pelo não conhecimento do recurso (fls. 132/133).
+    2. A irresignação não merece prosperar. Quanto à ofensa ao princípio da moralidade, o apelo apoia-se em norma incapaz de infirmar o juízo formulado pelo acórdão recorrido, por trazer disposição de conteúdo genérico em face das peculiaridades da causa, o que atrai a aplicação analógica da Súmula 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia .
+    3. Ademais, conforme reiterada jurisprudência desta Corte, é inviável o exame da alegada violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e do acesso à justiça que, se houvesse, seria meramente indireta ou reflexa, uma vez que é imprescindível o exame de normas infraconstitucionais (ARE 748.371-RG/MG, Min. GILMAR MENDES, Tema 660).
+    4. No que diz respeito à alegada violação ao artigo 37 da Constituição Federal, incide também o óbice da Súmula 636/STF: "Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida".
+    5. Outrossim, o Tribunal de origem, com base nas Leis Estaduais 6.677/94 e 7.023/97, e também nos fatos e provas constantes dos autos, concluiu que (a) a exoneração do recorrente não foi ilegal, por ser titular de cargo exclusivamente em comissão, de livre exoneração pela Administração Pública; (b) inexiste previsão legal para a aposentadoria por invalidez (fls. 70/71).
+    Destarte, o acolhimento do recurso notadamente quanto à (a) ilegalidade do desligamento do servidor e (b) ofensa ao princípio da razoabilidade esbarra nos óbices previstos nas Súmulas 280 e 279 do STF.
+    6. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 6 de junho de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
