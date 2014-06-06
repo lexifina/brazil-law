@@ -1,0 +1,10 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “CONSTITUCIONAL. DESAPROPRIAÇÃO. PLANTAÇÃO DE SUBSTÂNCIA PSICOTRÓPICA PROIBIDA. ART. 243 DA CF-88. PERDIMENTO. 1. A perda de imóvel rural utilizado para o cultivo de maconha está subordinada à ação dolosa ou culposa do agente, sem o que impossível a decretação. Precedente desta Corte. 2. Comprovado que a parte ré utilizava uma propriedade para residência e outra, contígua, para a plantação de maconha, evidenciada a utilização da gleba de residência para a ação ilegal, devendo a pena de perdimento limitar-se a esta, já que a outra não é objeto da demanda. 3. Ainda que o imóvel seja de propriedade da União, em fase de regularização de assentamento implantado pelo INCRA e na posse da parte ré, a pena de perdimento da posse é cabível. 4. Apelação e remessa oficial providas” (página 169 do documento eletrônico 2 - grifei).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se contrariedade aos arts. 5º, LIV e LV; e 243 da mesma Carta.
+    No RE 635.336-RG/PE, Rel. Min. Gilmar Mendes, este Supremo Tribunal reconheceu a repercussão geral da questão constitucional alusiva à natureza da responsabilidade, para fins de expropriação, do proprietário de terras com cultivo ilegal de plantas psicotrópicas. Por oportuno, cito ementa dessa manifestação:
+    “RECURSO. Extraordinário. Responsabilidade civil. Natureza objetiva ou subjetiva. Proprietário de terras. Cultivo ilegal de plantas psicotrópicas. Expropriação sem indenização. Art. 243 da Constituição Federal. Relevância do tema. Repercussão geral reconhecida. Apresenta repercussão geral recurso extraordinário que verse sobre a natureza da responsabilidade, para fins de expropriação, do proprietário de terras com cultivo ilegal de plantas psicotrópicas”.
+    Isso posto, determino, com base no art. 328, parágrafo único, do RISTF, a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC.
+    Publique-se.
+    Brasília, 6 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+Relator
