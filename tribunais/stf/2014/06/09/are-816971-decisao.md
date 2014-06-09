@@ -1,0 +1,13 @@
+Trata-se de agravo de decisão que negou seguimento a recurso extraordinário interposto pela Ordem dos Advogados do Brasil - Seção do Paraná, em face de acordão proferido pela 2ª Seção Tribunal Regional Federal da Quarta Região, cuja ementa segue transcrita:
+    “EMBARGOS INFRINGENTES. ORDEM DOS ADVOGADOS DO BRASIL - OAB. INDEFERIMENTO DE INSCRIÇÃO. SERVIDOR DO MINISTÉRIO PÚBLICO OCUPANTE DO CARGO DE VIGIA. AUSÊNCIA DE VEDAÇÃO LEGAL.
+    O Embargante é Servidor Público Estadual, ocupante do cargo de vigia no Ministério Público do Paraná, não integrando a instituição Ministério Público do Paraná enquanto membro ou agente de poder. Inaplicabilidade da incompatibilidade do artigo 28, inciso II do Estatuto da OAB, Lei nº 8.906/94” (pág. 157 do documento eletrônico 2)
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 5º, caput, XIII, 37, caput, e 130-A, § 2º, I da mesma Carta.
+    A pretensão recursal não merece ser acolhida.
+    Preliminarmente, observe-se que o art. 130-A, § 2º, I, da Constituição Federal, não foi prequestionado. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido:
+    CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE prequestionamento. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido (RE 363.743AgR/DF, Rel. Min. Ellen Gracie).
+    Verifico, outrossim, que o Tribunal a quo decidiu a questão posta nos autos com fundamento na interpretação da Lei 8.906/1994. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões: RE 598.889/PR, Rel. Min. Dias Toffoli; e AI 769.865/SC, Rel. Min. Joaquim Barbosa.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 9 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
