@@ -1,0 +1,37 @@
+DECISÃO
+    Conselho Administrativo de Defesa Econômica – CADE, Banco de Crédito Nacional S/A – BCN e Banco Bradesco S/A interpõem recursos extraordinários, com fundamento na alínea “a” do permissivo constitucional, contra acórdãos da Primeira Seção do Superior Tribunal de Justiça e da Quinta Turma do Tribunal Regional Federal da 5ª Região, respectivamente.
+    O Conselho Administrativo de Defesa Econômica – CADE, ofertou o apelo extremo contra o acórdão do Superior Tribunal de Justiça que conheceu e proveu o recurso especial interposto simultaneamente ao extraordinário. Essa decisão recebeu a seguinte ementa:
+    “ADMINISTRATIVO - ATO DE CONCENTRAÇÃO, AQUISIÇÃO OU FUSÃO DE INSTITUIÇÃO INTEGRANTE DO SISTEMA FINANCEIRO NACIONAL - CONTROLE ESTATAL PELO BACEN OU PELO CADE - CONFLITO DE ATRIBUIÇÕES - LEIS 4.594/64 E 8.884/94 – PARECER NORMATIVO GM-20 DA AGU.
+    1. Os atos de concentração, aquisição ou fusão de instituição relacionados ao Sistema Financeiro Nacional sempre foram de atribuição do BACEN, agência reguladora a quem compete normatizar e fiscalizar o sistema como um todo, nos termos da Lei 4.594/64.
+    2. Ao CADE cabe fiscalizar as operações de concentração ou desconcentração, nos termos da Lei 8.884/94.
+    3. Em havendo conflito de atribuições, soluciona-se pelo princípio da especialidade.
+    4. O Parecer GM-20, da Advocacia-Geral da União, adota solução hermenêutica e tem caráter vinculante para a administração.
+    5. Vinculação ao parecer, que se sobrepõe à Lei 8.884/94 (art. 50).
+    6. O Sistema Financeiro Nacional não pode subordinar-se a dois organismos regulatórios.
+    7. Recurso especial provido” (fls. 854/855).
+    Opostos embargos de declaração (fls. 860 a 865), foram rejeitados (fl. 872).
+    No recurso extraordinário, o CADE sustenta que o acórdão do Superior Tribunal de Justiça incorreu em violação dos artigos 131, 173, § 4º, e 192, da Constituição Federal.
+    Contrarrazões a fls. 936/948 e fls. 953/969, o recurso extraordinário (fls. 881 a 927) foi admitido (fls. 971 e 972).
+     O Ministério Público Federal, em parecer da lavra do eminente Dr. Rodrigo Janot Monteiro de Barros, atual Procurador-Geral da República, opina pelo não conhecimento do recurso extraordinário interposto contra o acórdão do STJ (fls. 959 a 961).
+    Estão admitidos como interessados no feito a União e o Banco Central do Brasil que já se manifestaram.
+    O acórdão regional foi objeto de recurso extraordinário interposto pelas instituições bancárias que sustentaram ter ocorrido afronta aos artigos 5º, inciso XXXVI, 162, e 173, § 4º, da Constituição Federal. Este foi admitido na origem (fls. 684/685).
+    Decido.
+    Como restou mencionado, o recurso especial interposto por Banco de Crédito Nacional S/A e outro foi conhecido e provido pelo Colendo Superior Tribunal de Justiça, que restabeleceu a sentença de primeiro grau e concedeu a segurança vindicada. Destarte, sendo essa a única questão tratada no referido recurso extraordinário, restou prejudicado o apelo extremo interposto, o que impede o seu conhecimento.
+    No tocante ao recurso extraordinário interposto pelo Conselho Administrativo de Defesa da Concorrência - CADE, anote-se, inicialmente, que teve por objeto acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Com efeito, a irresignação não merece prosperar.
+    Assim descreveu o recorrente, em suas razões recursais, acerca dos pontos que originaram seu inconformismo:
+    “(a) O art. 192 da Constituição Federal reserva à lei complementar apenas as questões relativas à “estrutura institucional do Sistema Financeiro Nacional”, tal como decidido pelo STF na ADIn nº 2.591, que entendeu pela aplicabilidade do CDC aos bancos;
+    (b) A Lei 4.595/64 não é desrespeitada pelo entendimento do CADE, uma vez que a competência do BACEN resta preservada, tal como prevista nesse diploma legal;
+    (c) A relação entre a Lei nº 4.595/64 e a Lei nº 8.884/94 não é de contraposição, mas de complementaridade, tal como ocorre em todos os demais mercados regulados, onde há uma atuação harmônica entre o ente regulatório setorial e a autoridade antitruste, sempre em prol da coletividade e dos princípios que regem a ordem econômica;
+    (d) Em matéria de concorrência, a lei especial é a lei antitruste (Lei nº 8.884/94), editada para atender a comando constitucional especialíssimo, constante do art. 173, § 4º, da Constituição Federal;
+    (e) O art.131 da Constituição Federal reserva à lei complementar apenas a organização e o funcionamento da AGU, razão pela qual a LC nº 73/93, na parte em que prevê a força vinculante dos pareceres normativos assinados pelo Presidente da República, é materialmente uma lei ordinária, não se aplicando ao CADE, nesse ponto, por força de regra legal posterior, prevista na Lei nº 8.884/94, que diz não serem as decisões do CADE passíveis de revisão no âmbito do Poder Executivo Federal;”
+    O entendimento adotado pelo Colendo Superior Tribunal de Justiça não se afastou da jurisprudência desta Corte, no sentido de que a disciplina de atos normativos relativos ao Sistema Financeiro Nacional é reservada à lei complementar (vide ADI nº 4, Relator(a): Ministro Sydney Sanches, Tribunal Pleno, DJ de 25/06/1993).
+    Também há de se salientar que, para se modificar o resultado da decisão objurgada, da forma como tratada nos autos e pelos fundamentos apresentados pelo recorrente, necessariamente envolveria a reapreciação do conjunto fático-probatório que permeia a causa, bem como da legislação infraconstitucional pertinente (Leis nºs 4.594/64 e 8.884/94, e Parecer Normativo GM-20 da AGU), o que é inadmissível na via extraordinária. Assim, incide na espécie as Súmulas nºs 279 e 280 desta Corte. Nesse sentido, em casos similares, esta Corte decidiu serem infraconstitucionais as questões relativas às competências do BACEN:
+    “A ofensa alegada é visivelmente indireta, já que para chegar-se a ela seria necessária a análise prévia do conjunto de normas infraconstitucionais que atribuem competência ao Banco Central do Brasil para promover a liquidação extrajudicial daquelas entidades (no mesmo sentido, ver AI 349.505, rel. min. Maurício Corrêa, Segunda Turma, DJ 26.04.2002)” (RE nº 216.723/PR, Rel. Min. Joaquim Barbosa, j. 4/2/09).
+    Ante o exposto e acolhendo as ponderações ministeriais que são utilizadas também como razões de decidir (fls. 959/961), nos termos do artigo 21, inciso IX, do Regimento Interno do Supremo Tribunal Federal, julgo prejudicado o recurso extraordinário interposto pelo Banco de Crédito Nacional S/A e outro e, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário interposto pelo Conselho Administrativo de Defesa Econômica - CADE.
+    Publique-se.
+    Brasília, 9 de junho de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
