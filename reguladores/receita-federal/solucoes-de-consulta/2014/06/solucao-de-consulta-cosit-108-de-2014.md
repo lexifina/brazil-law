@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 108, de 17 de abril de 2014
+ASSUNTO: Regimes Aduaneiros EMENTA: TRÂNSITO ADUANEIRO. SEGURO ADUANEIRO. O seguro aduaneiro em favor da União é uma modalidade de Seguro Garantia - Setor Público, com características próprias e específicas, cujo “Segurado” é a União Federal. Se o transportador optar por prestar a garantia sob a forma de seguro, a legislação dispõe que deve ser o seguro aduaneiro em favor da União, o qual deve atender todas as condições previstas na Circular Susep nº 477, de 2013 e em seu Anexo I, bem como deve observar o disposto na legislação aduaneira. DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 248, de 2002, art. 22, § 2º; Circular Susep nº 477, de 2013.
+[arquivo anexo: SC Cosit nº 108-2014.pdf]
