@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto de acórdão que manteve a sentença por seus próprios fundamentos e aduziu:
+    “A matéria fática deduzida pela recorrente está totalmente dissociada dos autos, pois a autora, na data da inscrição no CADIN (fls. 05-06), sequer era habilitada para direção de veículo automotor (fls. 04) ou contava com veículo registrado em seu nome (fls. 07-08).
+    Assim, não há que se falar em falta de comunicação da transferência de veículo, como propalado pela ré.
+    Reconhecido o indevido apontamento, nada existe a afastar a condenação da Fazenda do Estado de são Paulo ao pagamento de indenização por dano moral” (fl. 62).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 102, § 2º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, observo que o art. 102, § 2º, da Constituição, tido como violado, não foi prequestionado. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido, não sendo admissível o prequestionamento de forma implícita. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Cito a seguinte decisão:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. 1) ART. 543, § 1º, DO CÓDIGO DE PROCESSO CIVIL: INAPLICABILIDADE QUANDO OS RECURSOS ESPECIAL E EXTRAORDINÁRIO NÃO SÃO ADMITIDOS. 2) JULGADO RECORRIDO QUE INDEFERIU PEDIDO DE ANTECIPAÇÃO DE TUTELA: INCIDÊNCIA DA SÚMULA 735 DO SUPREMO TRIBUNAL. 3) ALEGAÇÕES DE OFENSA CONSTITUCIONAL SUSCITADAS TARDIAMENTE NOS EMBARGOS DECLARATÓRIOS: AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 648.410-ED/SP, Primeira Turma, Rel. Min. Cármen Lúcia).
+    Ademais, verifico que o acórdão recorrido decidiu a questão posta nos autos com fundamento no conjunto fático-probatório constante dos autos e na interpretação da legislação infraconstitucional aplicável à espécie. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, bem como o reexame dos fatos e provas. A afronta à Constituição, se ocorresse, seria indireta, além de incidir a Súmula 279 desta Corte. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões proferidas em casos idênticos ao dos autos: ARE 808.363/SP, Rel. Min. Cármen Lúcia; ARE 769.063/SP, Rel. Min. Roberto Barroso; ARE 704.199/SP, Rel. Min. Teori Zavascki.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
