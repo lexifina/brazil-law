@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Primeira Turma Recursal dos Juizados Especiais Federais de Santa Catarina:
+    “Recentemente (...) o Superior Tribunal de Justiça (…) decidiu, sob o regime dos recursos repetitivos, aplicar o prazo decadencial de 10 anos para todo e qualquer benefício previdenciário, iniciando a contagem da data da edição da Medida Provisória nº 1.523/97, para os benefícios concedidos antes da sua vigência. A notícia consta no sítio do STJ na internet:
+    Seção aplica decadência de dez anos para revisão de benefícios concedidos antes de 1997 Por maioria de cinco votos a três, a Primeira Seção do Superior Tribunal de Justiça (STJ) decidiu que o prazo de dez anos para decadência do direito à revisão de benefícios previdenciários, criado pela Medida Provisória 1.523-9/97, que entrou em vigor em 28 de junho de 1997, também se aplica aos benefícios concedidos antes dessa data.
+    Seguindo o voto do relator, ministro Herman Benjamin, a Seção definiu ainda que, nesses casos, o prazo decadencial deve ser contado a partir da edição da MP, e não a partir da concessão do benefício.
+    Para a maioria dos ministros da Primeira Seção, a aplicação do prazo previsto na MP (que alterou o artigo 103 da Lei 8.213/91) sobre os atos de concessão de benefício praticados antes de 28 de junho 1997 não viola o direito adquirido e o ato jurídico perfeito.
+    (...)
+    A nova composição desta Primeira Turma Recursal adotou o entendimento na sessão de março de 2013. Adiro ao entendimento, visto que de acordo com minha convicção pessoal. O entendimento que sustentava anteriormente, pela não aplicação da decadência aos benefícios anteriores a junho de 1997 respeitava a orientação do STJ então vigente e a súmula das Turmas recursais de Santa Catarina.
+    No caso dos autos, como entre a data de deferimento do benefício - DDB e a data da propositura da ação já se passaram mais de dez anos, deve ser mantida a sentença que reconheceu a decadência.”.
+    2. O Agravante alega que a Turma Recursal teria contrariado os arts. 5º, inc. XXXV, 37, 194, inc. IV, e 201, § 4º, da Constituição da República.
+    Sustenta que “ao declarar a decadência do direito do recorrente revisar seu benefício de acordo com a melhor aplicação da lei, em razão da sua inércia por certo tempo, a decisão recorrida adota como fundamento norma legal inconstitucional, que restringe e contraria o princípio constitucional que zela pela irredutibilidade do valor dos benefícios previdenciários, este previsto no art. 194, IV, da CF/88”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ser a matéria infraconstitucional.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A apreciação do pleito recursal exigiria a análise prévia de legislação infraconstitucional aplicada à espécie (Medida Provisória n. 1.523-9/1997 e Lei n. 8.213/1991). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. (...). REVISÃO DE BENEFÍCIOS PREVIDENCIÁRIOS CONCEDIDOS APÓS A ENTRADA EM VIGOR DA MEDIDA PROVISÓRIA 1.523-9/1997. DECADÊNCIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE 730.395-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 10.9.2013, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LEI Nº 9.528/97. OFENSA REFLEXA. PRECEDENTE. 1. A decadência, quando controversa sua incidência, demanda a análise da legislação infraconstitucional, o que acarreta uma violação reflexa e oblíqua da Constituição Federal e torna inadmissível o recurso extraordinário. Precedente: AI Nº 708.897-AgR, Relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 20/11/2012. 2. ‘In casu’, o acórdão recorrido negou provimento ao recurso inominado, mantendo a sentença por seus próprios fundamentos, que julgou improcedente o pedido de revisão de benefício previdenciário, acolhendo a arguição de decadência. 3. Agravo regimental DESPROVIDO” (ARE 685.033-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 10.9.2013, grifos nossos).
+    Nada há a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de junho de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
