@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, que entendeu indevida a incidência da contribuição previdenciária sobre férias e terço constitucional, dado o caráter indenizatório da verba percebida e, portanto, não incorporável à remuneração do trabalhador para fins de aposentadoria.
+    A matéria tratada nos autos guarda similitude com o assunto versado no RE 593.068-RG/SC, Rel. Min. Joaquim Barbosa, em que foi reconhecida a repercussão geral por esta Corte. A ementa do acórdão do referido recurso extraordinário no Plenário Virtual tem este teor:
+    “Constitucional. Repercussão Geral. Tributário. Servidor Público Federal. Regime Previdenciário. Contribuição. Base de cálculo. Terço constitucional de férias. Gratificação natalina (Décimo-terceiro salário). Horas extras. Outros pagamentos de caráter transitório. Leis 9.783/1999 e 10.887/2004.
+    Caracterização dos valores como remuneração (Base de cálculo do tributo). Acórdão que conclui pela presença de propósito atuarial na inclusão dos valores na base de cálculo do tributo (solidariedade do sistema de custeio).
+    1. Recurso extraordinário em que se discute a exigibilidade da contribuição previdenciária incidente sobre adicionais e gratificações temporárias, tais como 'terço de férias', 'serviços extraordinários', 'adicional noturno' e 'adicional de insalubridade'. Discussão sobre a caracterização dos valores como remuneração, e, portanto, insertos ou não na base de cálculo de tributo. Alegada impossibilidade de criação de fonte de custeio sem contrapartida de benefício direto ao contribuinte. Alcance do sistema previdenciário solidário e submetido ao equilíbrio atuarial e financeiro (arts. 40, 150, IV, e 195, § 5º, da Constituição).
+    2. Encaminhamento da questão pela existência de repercussão geral da matéria constitucional controvertida”.
+    Isso posto, determino, com fundamento no art. 328, parágrafo único, do RISTF, a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no presente recurso discute-se questão que será apreciada no RE 593.068-RG/SC.
+    Publique-se.
+    Brasília, 11 de junho de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
