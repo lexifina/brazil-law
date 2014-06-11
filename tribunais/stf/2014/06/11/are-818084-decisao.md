@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “ALE (adicional de local de exercício) – Policiais Militares – cálculos aritméticos que não tornam incompetente o JEFAZ – ausência de violação à separação de poderes – não violação do artigo 37 da CF ou da LC 101/2000 – benefício de caráter geral e não ´pro labore faciendo´ – incorporação devida com respectivos reflexos – juros que deverão observar a redação original do artigo 1 – F da lei 9494/1997. Sentença mantida ” (pág. 105).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 5º, II, 37, X e XIV, 61, § 1º, II, a, 98, I, e 169, § 1º, I e II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, verifica-se que à exceção dos arts. 2º e 37, XIV, da CF/88, os demais dispositivos constitucionais apontados como violados não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Ademais, registre-se que os Ministros desta Corte, no ARE 640.671-RG/RS, Rel. Min. Presidente, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca da complexidade da causa para efeito de competência do juizado especial, por entender que a discussão tem natureza infraconstitucional, decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação ementa do indigitado julgado:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 11 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
