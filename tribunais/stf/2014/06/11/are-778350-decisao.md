@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de Recurso Extraordinário que impugna Acórdão do Tribunal Regional Federal da 3ª Região, cuja ementa transcrevo a seguir, no que interessa:
+    “TRIBUTÁRIO. IRRF. REPETIÇÃO DE INDÉBITO. MÚTUO ENTRE EMPRESAS LIGADAS. MULTINACIONAIS COM ATUAÇÃO EM DIVERSOS CONTINENTES. CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE DE INCIDÊNCIA DO IMPOSTO SOBRE ESTA PARCELA. EQUÍVOCO DA MUTUÁRIA. CONTRATO QUE SILENCIA QUANTO A SUA EXIGÊNCIA […] COMPUTO DE CORREÇÃO MONETÁRIA NA HIPÓTESE COMO FORMA DE AFASTAR PRESUNÇÃO ATINENTE A DISTRIBUIÇÃO DISFARÇADA DE LUCRO. ERRO ALEGADO QUE DEMANDAVA PROVA ACERCA DO MESMO. ÔNUS DA AUTORIA (CPC: ART. 333, INCISO I)” (eDOC 2, p. 108)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, aponta-se violação aos arts. 5º, XXXV, XXXVI, LIV e LV; 93, IX; e 150, III, do texto constitucional.
+    Nas razões recursais, alega-se a rejeição indevida dos embargos, bem como a impossibilidade de incidência do IRPJ na correção monetária em contrato de mútuo entre empresas ligadas.
+    A Vice-Presidência do TRF-3 inadmitiu o recurso por reputar ausente o prequestionamento, assim como por inovação recursal e controvérsia demandante de análise de legislação infraconstitucional.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, cumpre asseverar que a controvérsia relativa à rejeição indevida de embargos em tribunal a quo corresponde ao tema 181, cujo paradigma é o RE-RG 598365, Rel. Min. Ayres Britto, DJe 26.3.2010, que teve repercussão geral negada por esta Corte.
+    No mérito, em relação à incidência do IRPJ, o Tribunal de Origem consignou o seguinte na ementa:
+    “2. A documentação coligida indica o aporte de recursos externos advindos da mutuante para integrar o capital da mutuaria, onde detém participação expressiva, tratando-se de empresas multinacionais com atuação em diversos continentes. Também evidencia a não pactuação de atualização em diversos continentes. Também evidencia a não pactuação de atualização dos valores a serem restituídos, os quais entretanto deveriam observar os encargos necessários à equiparação com as taxas praticadas pelas instituições financeiras, as quais, sabidamente consideram este fator em suas operações de crédito.
+    3. Daí porque não ficou demonstrado a ocorrência do alegado erro no cômputo da correção monetária, utilizada para calcular o valor devido à mutuante e não somente para atualizar a importância devida à guisa do imposto.
+    4. Resulta da cláusula contratual indicada a intenção de que o empréstimo fosse restituído nas bases semelhantes às praticadas pelas instituições financeiras, circunstância que, aliada as previsões legais já declinadas, abalam o alegado cometimento de equívoco, evidenciando o descumprimento do ônus processual imposto a mesma (CPC: art. 333, inciso I), cometimento que não reta plausível ante os valores envolvidos, o porte das partes e a estrutura administrativa, financeira e jurídica que são próprias destas organizações.” (eDOC 2, p. 108-109).
+    Posta a questão nesses termos, verifico que a controvérsia dos autos cinge-se à interpretação da legislação infraconstitucional aplicável à espécie e demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nestas instância extraordinária, consoante orientação assentada nas Súmulas 279 e 454 do STF.
+    No mesmo sentido, vale destacar o seguinte julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS SUFICIENTES DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283 DO STF. TRIBUTÁRIO. IMPOSTO DE RENDA. RENDIMENTOS DE OPERAÇÕES DE MÚTUO ENTRE EMPRESAS COLIGADAS, INTERLIGADAS, CONTROLADORAS E CONTROLADAS. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – Ausência de impugnação de todos os fundamentos suficientes da decisão agravada. Incidência da Súmula 283 do STF. II – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. III – Agravo regimental improvido.”
+    (RE 544912 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 11.10.2011)
+    Ante o exposto, conheço do presente agravo para negar-lhe seguimento (art. 544, §4º, II, a, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 11 de junho de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
