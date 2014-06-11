@@ -1,0 +1,24 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que negou provimento ao AResp 356.539, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que os pacientes foram condenados, pela prática dos crimes de tráfico internacional de drogas, uso de documento falso e receptação, à pena de 5 (cinco) anos e 8 (oito) meses de reclusão em regime inicial fechado.
+    3. No julgamento da apelação interposta pelo Ministério Público Federal, o Tribunal Regional Federal da 3ª Região redimensionou a pena para 10 (dez) anos, 9 (nove) meses e 10 (dez) dias de reclusão em regime inicial fechado.
+    4. O recurso especial interposto não foi admitido na origem. No Superior Tribunal de Justiça, o Ministro Moura Ribeiro negou seguimento ao agravo em recurso especial por entender que a análise da pretensão recursal, além de demandar o revolvimento de matéria fática, esbarraria na Súmula 284/STJ. Nos termos o art. 397 do Código de Processo Penal, o Juízo de origem proferiu sentença absolutória. Interposta apelação, o Tribunal de Justiça do Estado de Minas Gerais afastou o fundamento da atipicidade da conduta e determinou o processamento da pretensão punitiva.
+    5. Neste habeas corpus, a Defensoria Pública da União afirma que os pacientes têm direito à aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei nº 11.343/2006, tendo em vista a inexistência de provas de que se dedicariam à atividade criminosa. Requer, assim, o redimensionamento da pena imposta aos pacientes pelo delito de tráfico de drogas.
+    Decido.
+    6. Inicialmente observo que este habeas corpus foi impetrado contra decisão monocrática proferida pelo Relator do Aresp 356.539, Ministro Moura Ribeiro, de modo que, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados, por exemplo, o HC 113.468, Rel. Min. Luiz Fux; o HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; o HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 118.189, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “HABEAS CORPUS. CONSTITUCIONAL. PENAL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL. SUPRESSÃO DE INSTÂNCIA. IMPETRAÇÃO NÃO CONHECIDA.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, o qual pressupõe seja a coação praticada por Tribunal Superior.
+    II - Essa foi a orientação firmada pela Segunda Turma durante o julgamento do HC 119.115, de minha relatoria, ocasião em que se decidiu que a não interposição de agravo regimental no STJ e, portanto, a ausência da análise da decisão monocrática pelo colegiado impede o conhecimento do habeas corpus por esta Corte.
+    III - Writ não conhecido.
+    7. Ademais, a jurisprudência do Supremo Tribunal Federal não admite a utilização do habeas corpus para o reexame dos pressupostos de admissibilidade de recurso especial (v.g HC 99.174 AgR, Rel. Min. Ayres Britto; HC 112.756, Rel.ª Min.ª Rosa Weber; e HC 112.422, Rel. Min. Luiz Fux). Confira-se, a propósito, a ementa do HC 85.195, Rel. Min. Ayres Britto:
+    “HABEAS CORPUS. ALEGADO CONSTRANGIMENTO ILEGAL, CONSISTENTE EM ACÓRDÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL, AO FUNDAMENTO DE IMPUGNAÇÃO GENÉRICA E DE IMPRESCINDIBILIDADE DE REEXAME PROBATÓRIO.
+    O Superior Tribunal de Justiça é a jurisdição final sobre os pressupostos de admissibilidade do recurso especial, motivo pelo qual não pode o Supremo Tribunal Federal reapreciar tais requisitos e rejulgar do recurso, salvo, por se tratar de habeas corpus, na hipótese de flagrante ilegalidade.
+    Caso em que a Corte Superior de Justiça deu adequada solução ao recurso interposto. Inexistência, portanto, do alegado constrangimento ilegal.”
+    8. Por fim, cabe ressaltar que a decisão impugnada está alinhada com a orientação do Supremo Tribunal Federal no sentido de que a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias analisar os dados fáticos da causa para redimensionar a pena finalmente aplicada. Notadamente em casos como o presente, no qual o Tribunal Regional Federal da 3ª Região indeferiu o pedido de redução da pena por entender que “há nos autos elementos comprobatórios de que os réus se dedicavam à atividades criminosas”.
+    9. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990, c/c o art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Intime-se.
+          Brasília, 11 de junho de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
