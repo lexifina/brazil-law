@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão que manteve decisão de indeferimento do pedido de inclusão do Município recorrente no polo passivo de ação cautelar ajuizada pelo Município interessado cujo objetivo é a participação em processo de licença de operação de estação de tratamento de esgoto localizada em lagoa limítrofe às municipalidades envolvidas.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao arts. 5º, LIV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ademais, para divergir do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF.
+    Por fim, com a negativa de provimento ao agravo em recurso especial pelo Superior Tribunal de Justiça (AREsp 414.958, com trânsito em julgado certificado em 28/5/2014), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão impugnado, o que atrai a incidência da Súmula 283 do STF. Nesse sentido: AI 785.229/PR, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 627.964-AgR/RS e RE 573.038-AgR/RS, de minha relatoria; RE 544.804-AgR/RS, Rel. Min. Ayres Britto.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 11 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
