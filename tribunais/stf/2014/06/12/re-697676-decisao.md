@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado (fls. 459):
+    “AÇÃO RESCISÓRIA. CONSTITUCIONAL E ADMINISTRATIVO. PRELIMINAR DE INEXISTÊNCIA DE DEPÓSITO PRÉVIO REJEITADA. PRELIMINAR DE AUSÊNCIA DAS CONDIÇÕES DA AÇÃO RESCISÓIRA REJEITADA, ANALISADA JUNTAMENTE COM O MÉRITO DA DEMANDA. CONCURSO PÚBLICO PARA PROVIMENTO DE CARGOS DA POLÍCIA MILITAR DE ALAGOAS, REALIZADO ATRAVÉS DO EDITAL N. 003/2006/SERPH/PMAL. ACÓRDÃO RESCINDENDO QUE RECONHECEU A LEGALIDADE DA REALIZAÇÃO DE EXAME FÍSICO PRÉ-ADMISSIONAL AO CURSO DE FORMAÇÃO DA POLÍCIA MILITAR. INEXISTÊNCIA DE LEI ESPECÍFICA REGULANDO A MATÉRIA. ILEGALIDADE DO EXAME CONFIGURADA. AÇÃO JULGADA PROCEDENTE.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 37, I e II, da Constituição.
+    O recurso não deve ser provido. Nota-se que o acórdão recorrido reconheceu que a lei local, à época do certame, não exigia teste de aptidão física como pré-requisito para a admissão ao curso de formação da Polícia Militar de Alagoas com base na legislação pertinente (Leis Estaduais nºs 5.346/1992 e 6.803/2007) e no edital do concurso. Entendimento diverso exigiria a análise das referidas normas e o reexame dos fatos e do material probatório constante dos autos, o que atrai a incidência das Súmulas 279, 454 e 280/STF.
+    Nesse sentido e sobre a mesma controvérsia, confira-se a ementa do RE 650.860-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 37, I E II, DA CONSTITUIÇÃO. TESTE DE APTIDÃO FÍSICA. LEI ESTADUAL 5.346/1992. ÓBICE DA SÚMULA 280 DO STF. IMPRESCINDIBILIDADE DA ANÁLISE DE PROVAS E CLÁUSULAS DO EDITAL. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. ÓBICE NA SÚMULA 636 DO STF. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. AUSÊNCIA DE VIOLAÇÃO. POSSIBILIDADE DE CONTROLE JUDICIAL DOS ATOS ADMINISTRATIVOS ABUSIVOS E ILEGAIS. AGRAVO IMPROVIDO.
+    I - Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Precedentes.
+    II - Para dissentir da conclusão adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos e de cláusulas editalícias, o que atrai a incidência das Súmulas 279 e 454 do STF, bem como seria imprescindível a interpretação da legislação infraconstitucional local aplicável à espécie (Lei Estadual 5.346/1992), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes.
+    III - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Precedentes.
+    IV - Esta Corte possui entendimento no sentido de que o exame pelo Poder Judiciário do ato administrativo tido por ilegal ou abusivo não viola o princípio da separação dos poderes. Precedentes.
+    V - Agravo regimental improvido.”
+    Outros precedentes: AI 719.268-AgR, Rel.ª Min.ª Ellen Gracie, AI 721.535-AgR, Rel. Min. Dias Toffoli, e RE 466.814-AgR, Rel. Min. Ayres Britto.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de junho de 2014.
+Ministro Luís Roberto Barroso
+Relator
