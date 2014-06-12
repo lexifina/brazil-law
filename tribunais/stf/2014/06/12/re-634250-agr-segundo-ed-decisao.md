@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de embargos de declaração contra acórdão, da relatoria do Ministro Joaquim Barbosa, relator originário do feito, proferido por este Plenário, assim ementado:
+    “Registro de candidatura para o cargo de senador que fora indeferido pelo Tribunal Superior Eleitoral com fundamento em hipótese de inelegibilidade prevista na Lei da Ficha Limpa (alínea j do inc. I do art. 1º da LC 64/90 na redação da LC 135/2010) .
+    Agravos regimentais interpostos contra a decisão monocrática do relator que reproduziu o entendimento do Plenário (RE 633.703) no sentido de que a LC 135/2010 não se aplica às eleições de 2010.
+    Questão de ordem: necessidade de aguardar o julgamento final de agravo de instrumento interposto por Cássio Cunha Lima para destrancar o recurso extraordinário do acórdão do Tribunal Superior Eleitoral que manteve a pena de cassação imposta pelo Tribunal Regional Eleitoral do Estado da Paraíba no julgamento do caso Fundação de Ação Comunitária. Pena de inelegibilidade que já fora cumprida por ocasião do julgamento do registro aqui impugnado. Questão de ordem rejeitada.
+    Inconstitucionalidade dos arts. 543-A e 543-B do CPC que teria origem no impedimento para atuação no caso de ministro que participou do julgamento do precedente. O instituto da repercussão geral pretende impedir a reiteração de recursos iguais. Em termos de repercussão geral, o que se aprecia é a tese aplicável ao caso. Rejeitada a alegação de inconstitucionalidade.
+    Supressão de instância. Debate ocorrido no Tribunal Superior Eleitoral demonstra que houve apreciação das hipóteses de inelegibilidade configuradas à luz da redação da LC 64/90 anterior à Lei da Ficha Limpa. Inexistência.
+    Possibilidade de aplicação da alínea h do inc. I do art. 1º da LC 64/90. Não houve divergência sobre a capitulação dos fatos como abuso de poder, condenação proferida em representação eleitoral, o que, no entendimento do acórdão proferido pelo Tribunal Superior Eleitoral atrai a aplicação da alínea d do inc. I do art. 1º c/c inc. XIV do art. 22 da LC 64/90.
+    Agravos regimentais desprovidos determinando-se o cumprimento imediato da decisão, independente da publicação do acórdão. “
+    A parte embargante alega que, “diante da procedência das representações eleitorais 215 e 251 propostas contra o embargado Cássio Rodrigues da Cunha Lima e sua confirmação perante o Tribunal Superior Eleitoral, consubstanciando condenação colegiada apta a atrair a referida alínea d, do inciso I, do art. 1º, da LC 64/90, [é] imperioso o conhecimento e acolhimento dos presentes embargos, com atribuição de efeitos infringentes, para reconhecer a inelegibilidade do ora embargado” (fls. 2.784).
+    A intempestividade dos embargos de declaração impede o seu conhecimento. Com efeito, a decisão embargada foi publicada no Diário de Justiça eletrônico em 1º.03.2012 (fls. 2778) e o prazo legal de 10 (dez) dias para interposição do recurso, nos termos do art. 191 do CPC, encerrou-se em 12.03.2012. A petição de embargos de declaração somente foi protocolada nesta Corte em 14.03.2012, o que não atende ao requisito da tempestividade (Certidão de fls. 2812).
+    Diante do exposto, não conheço dos embargos declaratórios.
+    Publique-se.
+          Brasília, 12 de junho de 2014.
+Ministro LUÍS ROBERTO BARROSO
+Relator
