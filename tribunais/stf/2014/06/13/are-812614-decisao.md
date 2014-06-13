@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+    “AÇÃO MONITÓRIA. COBRANÇA DE MULTA CONTRATUAL POR INADIMPLEMENTO. ALEGAÇÃO DE AUSÊNCIA DE DOCUMENTO HÁBIL. AÇÃO FUNDADA EM DOCUMENTO ESCRITO REPRESENTATIVO DA DÍVIDA ORIUNDO DE PROCESSO ADMINISTRATIVO REGULAR. POSSIBILIDADE. PEDIDO DE SUSPENSÃO DO PROCESSO. QUESTÃO PREJUDICIAL NÃO CONFIGURADA. AÇÃO JÁ JULGADA POR ESTA CORTE DE JUSTIÇA. NÃO ACOLHIMENTO. MULTA FIXADANA FORMA PREVISTA NO CONTRATO. COBRANÇA POSSÍVEL PELA VIA JUDICIAL. RECONVENÇÃO. EXTINÇÃO SEM APRECIAÇÃO DE MÉRITO. LITISPENDÊNCIA CONFIGURADA. AUSÊNCIA DE INTERESSE DE AGIR. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.” (eDOC 4, p. 168)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, alega-se violação ao artigo 5º, incisos LIV e LV, do texto constitucional.
+    Decido.
+    Inicialmente, verifico que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Sobre o tema:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Rel. Ministro Celso de Mello, DJe de 20/9/02).
+    Ademais, o Tribunal de origem consignou:
+    “No caso dos autos, o documento apresentado é o relatório conclusivo complementar que culminou com o Decreto de Caducidade de Concessão, relativa à Concorrência Pública n° 001/1998 realizada pelo recorrido.
+    (...)
+    Assim, esta Corte de Justiça já se pronunciou acerca da validade do procedimento administrativo que ensejou o Decreto de Caducidade e aplicou a multa, de forma que o documento colacionado como prova da dívida é perfeitamente válido.
+    (...)
+    A verdade é que as provas colacionadas aos autos são insuficientes para desobrigar o apelante do cumprimento da obrigação consubstanciada no documento escrito comprobatório da dívida, não se vislumbrando motivos para reforma da sentença.
+    (...)
+    Destaque-se, por ser de bom alvitre, que o julgador de primeiro grau procedeu com prudência e cautela na análise das provas, ponderando acerca dos documentos acostados e de sua serventia para a plena solução da lide.” (eDOC 5, pgs. 1-6)
+    Assim, para concluir de forma diversa do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incide, na espécie, a Súmula 279 do STF.
+    Nesse sentido, destaco os seguintes precedentes:
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCESO DE SERVIÇOS PÚBLICOS. PROCESSO ADMINISTRATIVO. FUNÇÃO FISCALIZATÓRIA DAS AGÊNCIAS REGULADORAS. MULTA. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 766.799/RJ-AgR, Segunda Turma, Rel. Ministra Cármen Lúcia, DJe de 28/10/13).
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCESSÃO DE SERVIÇOS PÚBLICOS. PROCESSO ADMINISTRATIVO. FUNÇÃO FISCALIZATÓRIA DAS AGÊNCIAS REGULADORAS. MULTA. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 736.114/ES-AgR, Segunda Turma, Rel. Ministra Cármen Lúcia, DJe de 13/8/13).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 13 de junho de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
