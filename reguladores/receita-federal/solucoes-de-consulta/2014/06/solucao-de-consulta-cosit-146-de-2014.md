@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 146, de 2 de junho de 2014
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO EMENTA: PROGRAMA MINHA CASA MINHA VIDA. (PMCMV). CONSTRUÇÃO DE IMÓVEIS. PAGAMENTO UNIFICADO DE TRIBUTOS. SUBCONTRATAÇÃO. O disposto no art. 2º da Lei nº 12.024, de 2009, que estabelece a possibilidade de pagamento unificado de tributos equivalente a 1% (um por cento) da receita mensal auferida pelo contrato de construção, limita-se à empresa construtora originalmente contratada para fins de construção das unidades no âmbito do PMCMV, não se aplicando à empresa subcontratada. DISPOSITIVOS LEGAIS: Lei nº 12.024/2009, art. 2º; IN RFB nº 1.435, de 2013, arts. 2º, 5º e 13.
+[arquivo anexo: SC Cosit 146-2014.pdf]
