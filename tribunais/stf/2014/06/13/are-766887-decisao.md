@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NA APELAÇÃO CÍVEL. ATO ADMINISTRATIVO DE LICENCIAMENTO. PRESCRIÇÃO QUINQUENAL. APLICAÇÃO DO ARTIGO 1°, DO DECRETO N° 20.910/1932. PROCESSO DE SINDICÂNCIA. ALEGADA INOBSERVÂNCIA DO CONTRADITÓRIO. AUSÊNCIA DE DOCUMENTOS APTOS A CORROBORAR A TESE RECURSAL. RECURSO CONHECIDO E IMPROVIDO.
+    I. Consoante sedimentado no Egrégio Superior Tribunal de Justiça, a prescrição quinquenal prevista no artigo 1º, do Decreto 20.910/1932 aplica-se a quaisquer direitos ou ações face à Fazenda Pública, independentemente da natureza da relação jurídica estabelecida entre a Administração Pública e o particular.
+    II. In casu, o Recorrente somente ingressou em juízo em outubro de 2007, aproximadamente 18 (dezoito) anos após o seu efetivo licenciamento, externado pelo Ato Administrativo n° 045, BI 6° BPM, datado de 21/11/1989, tornando-se patente a prescrição do direito postulado, nos termos do artigo 1°, do Decreto n° 20.910/1932.
+    III. Decisão Monocrática recorrida que se encontra devidamente fundamentada, não tendo o Recorrente apontado qualquer elemento capaz de justificar a mudança do entendimento consubstanciado no arrolado decisum.
+    III. Recurso conhecido e improvido..”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, LIV e LV; e 37, caput, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “o exame dos pressupostos recursais de natureza processual é matéria circunscrita à legislação infraconstitucional e demanda análise do conjunto fático-probatório delineado nos autos, o que se revela incompatível à estreita via do presente recurso”.
+    O recurso extraordinário não merece acolhida. Com efeito, o Tribunal de origem, com fundamento no Decreto-Lei nº 20.910/1932, decidiu pela prescrição do direito à nulidade do ato administrativo discutido nestes autos. A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição, como ocorre na espécie, em que a solução da controvérsia demanda contagem de prazo prescricional. Vejam-se, nesse sentido, o AI 808.626-AgR, Rel.ª Min.ª Ellen Gracie; o AI 727.996-AgR, Rel. Min. Eros Grau; o AI 856.878-AgR, Rel.ª Min.ª Rosa Weber; o ARE 734.619-AgR, Rel. Min. Gilmar Mendes; e o ARE 727.220-AgR, julgado sob a relatoria da Ministra Cármen Lúcia, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PRESCRIÇÃO. DECRETO N. 20.910/1932. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 13 de junho de 2014.
+Ministro Luís Roberto Barroso
+Relator
