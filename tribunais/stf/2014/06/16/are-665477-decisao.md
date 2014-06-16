@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto de acórdão assim ementado:
+    “APELAÇÃO CÍVEL. CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO ORDINÁRIA DE REVISÃO DE BENEFICIO PREVIDENCIÁRIO. PENSÃO POR MORTE. TOTALIDADE DOS PROVENTOS DO SERVIDOR FALECIDO. ART. 40, § 5.º, DA CONSTITUIÇÃO DA REPÚBLICA COM A REDAÇÃO ANTERIOR À EMENDA CONSTITUCIONAL Nº 41/2003. AUTOAPLICABILIDADE. SENTENÇA DE PROCEDÊNCIA QUE SE MANTÉM. ARGUIÇÃO DO APELANTE NO SENTIDO DE QUE A AUTORA É LEGATÁRIA, O QUE NÃO FOI SUSTENTADO EM SUA PEÇA CONTESTATÓRIA, PELO QUE IMPOSSÍVEL ASUA APRECIAÇÃO EM GRAU DE RECURSO. ADEMAIS, O BENEFÍCIO PREVIDENCIÁRIO EM QUESTÃO FOI CONCEDIDO À AUTORA EM 17/09/1989, SENDO-LHE RECONHECIDO TRATAMENTO IDÊNTICO ÀS DEMAIS PENSIONISTAS DESDE JANEIRO DE 1997 (FLS. 92 E 29, RESPECTIVAMENTE). TAXA JUDICIÁRIA QUE É DEVIDA, NOS TERMOS DA SÚMULA Nº 76 DESTE E. TRIBUNAL DE JUSTIÇA. RECURSO IMPROVIDO” (fl. 110).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXVI, 40 §§ 7º e 8º, 102, I, l, e 201, V, da mesma Carta. Aduz o recorrente que
+    “fere o princípio da razoabilidade, garantir a beneficiários de pensão na qualidade de legatários, ou seja, a pessoas capazes e com plenas condições de prover a própria subsistência, o direito a que o valores de suas pensões sejam revisados em paridade com a remuneração recebida por servidores em atividade” (fl. 151).
+    A pretensão recursal não merece acolhida.
+    Inicialmente, verifica-se a ausência de prequestionamento do art. 102, I, l, da Constituição, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o Tribunal de origem decidiu a questão posta nos autos com base nos seguintes fundamentos:
+    “A matéria não é nova e diz respeito à  possibilidade do Instituto de Previdência Social fixar o benefício da pensão, em valor inferior a 100% (cem por cento) da remuneração, auferida pelo ex- servidor por ocasião da morte.
+    Em primeiro lugar, quanto à alegação da qualidade de legatária da autora/apelada, como bem destacou a culta Procuradora de Justiça, em seu parecer de fls. 102/103 ‘O recorrente, apenas em sua apelação, argui o fato de a autora ser legatária. Sua contestação é omissa neste ponto, não sendo possível, nos limites da lide proposta, que se limita à revisão de benefício, pretender analisar tal questão’.
+    Ressalte-se que o benefício em questão foi implantado pelo antigo IPERJ desde 17/09/1989 (fls. 91), sendo reconhecido à autora, ora apelada, tratamento idêntico às demais pensionistas desde janeiro de 1997 (fls. 29)” (fl. 113 – grifos meus).
+    Nesse contexto, para concluir de forma diversa ao que afirmou o Tribunal de origem, no que diz respeito a qualidade de legatária, ou não, e firmar um entendimento, implicaria novo exame do conjunto fático-probatório constate dos autos, circunstância que torna inviável o recurso nos termos da Súmula 279 do STF.
+    Ademais, como bem asseverou o Ministério Público Federal em parecer juntado às fls. 181-186:
+    “(...) a questão referente à paridade de vencimentos entre ativos e inativos, incluindo-se os pensionistas, fixada pela EC nº 20/98, já foi objeto de análise por essa eg. Corte, estando o acórdão recorrido em consonância com o entendimento adotado (...)”.
+    Nesse mesmo sentido, entre outros: AI 656.615-AgR/RJ, Rel. Min. Eros Grau; RE 545.667-AgR/RS, Rel. Min. Gilmar Mendes; RE 810.067/SE, de minha relatoria; e ARE 639.112/RJ, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 16 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
