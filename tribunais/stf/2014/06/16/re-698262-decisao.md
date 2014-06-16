@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário, fundamentado no art. 102, III, a, da Constituição Federal, no qual se alegou ofensa aos arts. 5º, XXXVI; 37, XV; 40, § 20; e 149, § 1º, da mesma Carta.
+    O Tribunal de Justiça do Estado de São Paulo entendeu legítima a incidência da contribuição previdenciária no percentual de 11% sobre os proventos da inatividade de empregado da sociedade de economia mista e de sociedade anônima, tendo como fundamento o disposto na Lei Complementar estadual 954/2003. No ponto, o acórdão recorrido está assim fundamentado (fl. 317):
+    “Cuidam os autos de proventos que têm na sua composição o benefício da complementação de aposentadoria, para o qual o impetrante busca o impedimento à cobrança da exação.
+    Esse benefício decorre da Lei nº 4.819/58 e é pago mensalmente pela Fazenda do Estado ao impetrante, desde sua inativação em agosto de 2005 (fl. 31) e a contribuição autorizada pelos artigos 40 e 149, § 1º, engloba os beneficiados pela Lei Estadual nº 4.819/58, alcançados pela Emenda Constitucional nº 41/2003 e Lei nº 954/2003.
+    O impetrante, nesse aspecto, está equiparado ao servidor público, pois vem recebendo a complementação de aposentadoria como todos os empregados de empresas públicas e de sociedades de economia mista. Então, para que as normas legais garantidoras da complementação de aposentadoria sejam compatíveis com o regramento constitucional, devem se subsumir ao regime previdenciário dos servidores públicos, não se justificando tratamento desigual e favorável aos que percebem complementação de aposentadoria, com exclusão do pagamento da contribuição previdenciária.
+    Portanto, plenamente constitucional o artigo 4º da EC nº 41/03, com exceção aos limites nela impostos, bem como a Lei Complementar nº 954/2003, que dispõe sobre a contribuição previdenciária dos beneficiários de complementação, inativos e pensionistas”.
+    A Procuradoria Geral da República manifestou-se no sentido do não provimento do apelo extraordinário (fls. 517-520).
+    O recurso não tem condições de êxito.
+    A Segunda Turma do Supremo Tribunal Federal, no julgamento do ARE 731.995 (AgR)-SP, Rel. Min. Teori Zavascki, assentou que o exame da referida controvérsia demanda análise de legislação infraconstitucional e local, tornando inviável o exame do apelo, a teor da Súmula 280/STF. Na ocasião, destacou-se que o “seu objeto é bastante próximo de tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 633.843 (Rel. Min. CÉZAR PELUSO, Presidente – Tema 397), por se tratar de questão infraconstitucional”.
+    Concluiu-se, então, pela semelhança entre as questões jurídicas, “pois, como no precedente, a violação aos artigos 40, § 18, e 149, § 1º, da Constituição Federal é meramente reflexa, demandando análise de Lei Complementar Estadual 954/2003, pelo que incide o óbice da Súmula 280/STF”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 16 de junho de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
