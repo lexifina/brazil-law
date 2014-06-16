@@ -1,0 +1,30 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “ANULAÇÃO DE ATO ADMINISTRATIVO PREVIDENCIÁRIO. DESCONTO DE MILITAR PARA PENSÃO POR MORTE. POLICIAL MILITAR DO ANTIGO DF. RENÚNCIA APÓS O PRAZO DA LEI Nº 10.486/02. POSSIBILIDADE. RESTITUIÇÃO DEVIDA DESDE A CITAÇÃO” (fl. 126).
+    Neste RE, fundado no art. 102, III, a e b (ao que se depreende), alega-se contrariedade aos arts. 37, caput; e 151, I, da mesma Carta.
+    Argumenta, em síntese, que
+    “uma vez admitida a Medida Provisória nº 2.215/2001 à manutenção do regime da Lei 3.765/60, nada mais razoável que, expirado o prazo de opção sem a expressa manifestação do militar, fosse mantida a sistemática mais benéfica e, em consequência, cobrada a contribuição específica, não extensível aos militares já submetidos aos ditames do novo regime de benefícios, por distintas serem suas situações jurídicas (fazendo-se valer, portanto, a máxima da igualdade, sob o ponto de vista material)” (fl. 139).
+    A Procuradoria-Geral da República manifestou-se pelo desprovimento do recurso (fls. 158-161).
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, assento a falta de debate, pelo Tribunal de origem, dos suscitados arts. 37, caput; e 151, I, da Constituição Federal, o que, nesta parte, inviabiliza o recurso extraordinário por ausência do requisito do prequestionamento, a teor da Súmula 282 do Supremo Tribunal Federal. Ademais, não foram opostos embargos declaratórios com a finalidade de suprir essa omissão, o que faz incidir também a Súmula 356 deste Supremo Tribunal.
+    Nesse sentido, destaco o seguinte precedente:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – AUSÊNCIA DE PREQUESTIONAMENTO – OFENSA INDIRETA À CONSTITUIÇÃO – CONTENCIOSO DE MERA LEGALIDADE – RECURSO IMPROVIDO. - A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza – ante a falta de prequestionamento explícito da controvérsia jurídica – a utilização do recurso extraordinário. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária” (ARE 742.337-AgR/SP, Rel. Min. Celso de Mello - grifei).
+    Consta do voto da Relatora do acórdão recorrido:
+    “No mérito, o fato de o Autor não ter respeitado a data limite para a opção dos militares quanto tal desconto não é suficiente para extinguir de vez esse direito de opção. Se a UF reconheceu em dado momento o direito a renúncia, não deve negá-lo agora.
+    Neste caso, não vejo motivo para o prazo ser visto como peremptório, especialmente diante do caráter facultativo da constituição e da inexistência de retributividade. A única filha do autor é maior e casada, conforme alega em sua inicial. Por tanto, não seria beneficiado por eventual pensão.
+    No entanto, para que se afaste a incidência da norma aplicável ao caso concreto deve-se considerar que a mesma padece de vício de inconstitucionalidade. Como é assente, um dos corolários do Princípio da Separação dos Poderes é a presunção de constitucionalidade dos atos normativos - que é apenas relativa - sendo afastada por declaração expressa do Juiz competente no sentido da invalidade da norma.
+    Porquanto tal norma, ao limitar temporalmente o prazo para renúncia, viola o princípio da razoabilidade, mais precisamente no que toca à vedação ao excesso, já que há uma desproporção patente entre o seu custeio e o benefício, que no caso será inexistente. Assim, afastados os efeitos da norma declarada inconstitucional, pode a parte manifestar-se a qualquer tempo, renunciando aos futuros direitos previdenciários, deixar de ser contribuinte da chamada contribuição específica de policial militar.
+    Desta forma, declaro incidentalmente a inconstitucionalidade da norma inscrita no art. 36, § 3º, inciso II, da Lei nº 10.486/2002” (fls. 124-125).
+    Diferentemente do que alegado pela recorrente, a Turma Recursal não declarou a inconstitucionalidade do § 1º do art. 31 da Medida Provisória 2.215/2001, mas, sim, do art. 36, § 3º, inciso II, da Lei nº 10.486/2002, resultado da conversão da Medida Provisória 2.218/2001, que trata de prazo diverso ao que discutido neste recurso, como se pode verificar da transcrição dos citados artigos, respectivamente:
+    “Art. 31. Fica assegurada aos atuais militares, mediante contribuição específica de um vírgula cinco por cento das parcelas constantes do art. 10 desta Medida Provisória, a manutenção dos benefícios previstos na Lei nº 3.765, de 1960, até 29 de dezembro de 2000.
+    § 1º Poderá ocorrer a renúncia, em caráter irrevogável, ao disposto no ‘caput’, que deverá ser expressa até 31 de agosto de 2001” (http://www.planalto.gov.br/ccivil_03/mpv/2215-10.htm - grifei).
+    “§ 3º Fica assegurado aos atuais militares: (Redação dada pela Lei nº 10.556, de 13.11.2002).
+    I - a manutenção dos benefícios previstos na Lei nº 3.765, de 4 de maio de 1960, até 29 de dezembro de 2000, mediante contribuição específica de um vírgula cinco por cento da remuneração ou proventos; ou
+    II - a renúncia, em caráter irrevogável, ao disposto no inciso I, desde que expressa até 31 de agosto de 2002’ (NR)” (http://www.planalto.gov.br/ccivil_03/leis/2002/L10486.htm - grifei).
+    É pacífica a jurisprudência desta Suprema Corte de que é incabível recurso extraordinário quando a deficiência em sua fundamentação não permite a exata compreensão da controvérsia, nos termos da Súmula 284 do Supremo Tribunal Federal, o que se dá na espécie.
+    Neste sentido, destaco o seguinte precedente:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO – DEFICIÊNCIA DA FUNDAMENTAÇÃO DO APELO EXTREMO – INCIDÊNCIA DA SÚMULA 284/STF – INVIABILIDADE DO RECURSO EXTRAORDINÁRIO – AGRAVO IMPROVIDO” (ARE 719.790-ED/PR, Rel. Min. Celso de Mello).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+Relator
