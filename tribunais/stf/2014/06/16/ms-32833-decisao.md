@@ -1,0 +1,19 @@
+DECISÃO:
+    1. Requer o impetrante seja determinado ao Ministério da Fazenda que restabeleça o pagamento de seus proventos, nos termos da liminar concedida neste writ (petição nº 26.469/2014).
+    2. Segundo o peticionante, o Coordenador de Medidas Disciplinares do Ministério da Fazenda determinou fosse sustado o pagamento de seus proventos, com base na Portaria nº 06/2014, do Advogado-Geral da União Substituto, que cassou sua aposentadoria no cargo de Procurador da Fazenda Nacional. Confira-se o conteúdo do ato:
+    “O ADVOGADO-GERAL DA UNIÃO SUBSTITUTO (…), de conformidade com as razões expostas no PARECER 39/2013-CGAU/AGU, aprovado pelo Despacho do Corregedor-Geral da Advocacia da União nº 3173/2013 e tendo em vista o que consta do Processo Administrativo Disciplinar nº 00406.00228/2010-81, resolve
+    CASSAR A APOSENTADORIA
+    DE CARLOS RODRIGUES COSTA, matrícula Siape n 0154122, pela prática de ato de improbidade administrativa, com restrição de retorno ao serviço federal, nos termos do art. 137, caput, da Lei nº 8.112, de 1990, ficando suspensos os efeitos da presente punição em face de decisão proferida pelo Tribunal de Contas nos autos da TC nº 013.359/2003-6 (Acórdão 3145/2012-TCU-Plenário, de 21/11/2012), que considerou ilegal o ato de sua aposentadoria do cargo de Procurador da Fazenda Nacional.”
+    3.  Alega que a Portaria AGU nº 06/2014 não pode produzir efeitos, pois a liminar deferida no presente writ afastou os Acórdãos TCU nº 3.031/2013 e 3.145/2012. Sustenta que, restabelecido o pagamento dos proventos de aposentadoria pela decisão liminar, estariam suspensos tanto os efeitos da portaria como os dos acórdãos do TCU.
+    4.  É o relatório. Decido.
+    5. O presente mandado de segurança tem por objeto o Acórdão TCU nº 3.145/2012 (confirmado pelo Acórdão nº 3.031/2013), que negou registro à segunda aposentadoria do impetrante, referente ao cargo de Procurador da Fazenda Nacional, por considerar ilegal a acumulação com os proventos já recebidos em decorrência da aposentadoria no cargo de Agente Fiscal de Rendas do Estado de São Paulo.
+    6. Tendo em vista a jurisprudência do STF que reconhece a possibilidade de acumulação de proventos antes da EC nº 20/1998, deferi o pedido liminar em decisão monocrática, a fim de suspender os efeitos do acórdão do TCU, restabelecendo-se a aposentadoria por invalidez até ulterior decisão. Veja-se a ementa da decisão:
+    “MANDADO DE SEGURANÇA. ACUMULAÇÃO DE PROVENTOS ANTES DA EC Nº 20/1998. POSSIBILIDADE. 1. Não há prova pré-constituída de violação à ampla defesa e ao devido processo legal. 2. A atual jurisprudência do STF tem reconhecido que a redação original da Constituição não vedava a acumulação de proventos, o que somente veio a ocorrer a partir da EC nº 20/1998. 3. No caso concreto, o impetrante já havia adquirido o direito à segunda aposentadoria antes de 16.12.1998, embora o respectivo ato de concessão somente tenha sido publicado posteriormente. 4. Medida liminar deferida.”
+    7.  Observo, assim, que a cessação do pagamento dos proventos informada na petição em apreço tem por fundamento causa autônoma e diversa da abordada no presente mandado de segurança, qual seja, a cassação da aposentadoria pela prática de improbidade administrativa (Portaria AGU nº 06/2014).
+    8. Ressalto que tal questão já foi judicializada (MS 32.919, a mim distribuído por prevenção). Assim, não cabe a sua reedição nestes autos, até porque este não é o foro competente. Tanto assim que, naquele writ, declinei da competência ao Superior Tribunal de Justiça, onde o feito está em curso, conforme andamento disponível na internet (MS 21.028).
+    9. Diante do exposto, nada há a prover.
+    10. Aguarde-se o parecer do Procurador-Geral da República.
+    Publique-se. Intimem-se.
+          Brasília, 16 de junho de 2014
+Ministro LUÍS ROBERTO BARROSO
+Relator
