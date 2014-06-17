@@ -1,0 +1,33 @@
+Trata-se de reclamação, com pedido de medida liminar, proposta pelo Estado do Piauí contra a antecipação de tutela deferida nos autos do Processo 1091-2009 (em trâmite na 2ª Vara da Fazenda Pública de Teresina), que teria desrespeitado a decisão proferida por esta Corte na ADC 4-MC/DF.
+    O reclamante sustenta, em síntese, que a decisão reclamada tem como pressuposto a inconstitucionalidade do art. 1º da Lei 9.494/1997, que ainda não restou decidida por esta Corte.
+    Aduz estarem presentes os requisitos que ensejam a concessão da medida liminar, o fumus boni iuris, em razão da decisão proferida na ADC 4/DF, e o periculum in mora, ante a iminência do cumprimento da decisão judicial ora atacada.
+    Pugna, assim, pela concessão da liminar, a fim de que sejam suspensos, de imediato, os efeitos da decisão liminar concedida nos autos do Processo 1091-2009; no mérito, requer a procedência da reclamação.
+    Às fls. 94-96, deferi a liminar.
+    Instada a se manifestar, a Procuradoria-Geral da República opinou pela improcedência desta reclamação, em parecer assim ementado:
+    “Reclamação. Agravo regimental interposto de decisão que deferiu o pedido de liminar. Manutenção da gratificação incorporada. Situação anteriormente consolidada. Não caracterizada ofensa à decisão do STF proferida na ADC nº 4. Aposentadoria superveniente. Aplicação da Súmula 729/STF. Parecer pelo provimento do agravo e pela improcedência desta reclamação”.
+    É o relatório necessário.
+    Decido.
+    Bem examinados os autos, entendo que a pretensão não merece ser acolhida.
+    Com efeito, por ocasião do julgamento da ADC 4-MC/DF, esta Corte deferiu medida cautelar para suspender, ex nunc e com efeito vinculante, a concessão de tutela antecipada contra a Fazenda Pública
+    “que tenha por pressuposto a constitucionalidade ou inconstitucionalidade do art. 1º da Lei nº 9.494, de 10.09.97, sustando-se, igualmente 'ex nunc', os efeitos futuros das decisões já proferidas, nesse sentido”.
+    Nesses casos, o Supremo Tribunal Federal tem afirmado que
+    “o Judiciário, em tema de antecipação de tutela contra o Poder Público, somente não pode deferi-la nas hipóteses que importem em: (a) reclassificação ou equiparação de servidores públicos; (b) concessão de aumento ou extensão de vantagens pecuniárias; (c) outorga ou acréscimo de vencimentos; (d) pagamento de vencimentos e vantagens pecuniárias a servidor público ou (e) esgotamento, total ou parcial, do objeto da ação, desde que tal ação diga respeito, exclusivamente, a qualquer das matérias acima referidas” (Rcl 3.662-MC/CE, Rel. Min. Celso de Mello).
+    Observo, assim, que a decisão proferida pela Corte na ADC 4-MC/DF, Rel. Min. Sidney Sanches, não veda toda e qualquer antecipação de tutela contra a Fazenda Pública, mas somente as hipóteses taxativamente previstas no art. 1º da Lei 9.494/1997.
+    A preocupação do Plenário desta Corte, no julgamento da ADC 4-MC/DF, foi justamente preservar a Fazenda Pública contra o deferimento generalizado de tutelas antecipatórias, em sede de cognição sumária, sem a observância do contraditório e da ampla defesa.
+    Ora, diversamente do sustentando pelo reclamante, a decisão reclamada não deferiu antecipação de tutela nas hipóteses vedadas pela lei, nem considerou inconstitucional dispositivo da Lei nº 9.494/1997.
+    Confiram-se os fundamentos do ato aqui combatido:
+    “(…) não há perigo algum de irreversibilidade dessa medida, nem se aplica, à espécie dos autos, aquelas proibições de antecipação da tutela contra a Fazenda Pública, uma vez que o objeto desta ação não se refere a vantagens pecuniárias ou qualquer outra medida judicial que possa causar prejuízo ao erário, mas simplesmente assegurar ao autor o direito de permanecer com os mesmos vencimentos, até decisão final deste processo, ou seja, não se trata de medida judicial de aumento de vencimentos, não havendo incidência, portanto, de norma do art. 2º-B da Lei Federal nº 9.494/97.
+    (…) estando presentes os requisitos legais, concedo, cautelarmente, a antecipação da tutela para determinar que o Estado do Piauí se abstenha de suspender o pagamento da gratificação de gabinete incorporada pelo autor durante sua carreira na Polícia Militar do Estado do Piauí, até decisão final da presente ação” (fls. 55-56).
+    Além disso, aplica-se ao caso a Súmula 729/STF, segundo a qual “a decisão na Ação Direta de Constitucionalidade 4 não se aplica à antecipação de tutela em causa de natureza previdenciária”.
+    Nesse sentido é a jurisprudência deste Tribunal, conforme se observa do julgamento da Rcl 4.479-AgR/CE, cujo acórdão foi assim ementado:
+    “Agravo regimental em Reclamação. 2. Decisão reclamada que determinou a continuidade do pagamento de vantagens pecuniárias já recebidas. 3. A decisão reclamada não afronta a decisão da medida cautelar deferida na ADC no 04, porque não concede nenhuma verba nova, mas apenas restabelece situação anteriormente já consolidada. 4. Precedentes. 5. Matéria previdenciária na origem, incidência da Súmula nº 729/STF. 6. Precedentes. 7. Agravo regimental a que se nega provimento”.
+    Destaco, ademais, que a reclamação não é sucedâneo ou substitutivo de recurso próprio para conferir eficácia à jurisdição invocada nos autos dos recursos interpostos da decisão de mérito e da decisão em execução provisória. Nesse sentido: Pet 2.847/AC, Rel. Min. Carlos Velloso; Rcl 2.279/MA, Rel. Min. Ellen Gracie; Rcl 2.481/MS, Rel. Min. Carlos Velloso; Rcl 968/DF, Rel. Min. Marco Aurélio.
+    Ressalto, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui na esfera de atribuições do Relator a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Tribunal.
+    Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+    “negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+     Isso posto, nego seguimento a esta reclamação (art. 21, § 1º, do RISTF). Cassada, consequentemente, a liminar deferida às 94-96.
+    Comunique-se.
+    Publique-se.
+    Brasília, 17 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
