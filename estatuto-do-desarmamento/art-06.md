@@ -11,6 +11,11 @@ IX - para os integrantes das entidades de desporto legalmente constituídas, cuj
 X - integrantes das Carreiras de Auditoria da Receita Federal do Brasil e de Auditoria-Fiscal do Trabalho, cargos de Auditor-Fiscal e Analista Tributário.
 XI - os tribunais do Poder Judiciário descritos no art. 92 da Constituição Federal e os Ministérios Públicos da União e dos Estados, para uso exclusivo de servidores de seus quadros pessoais que efetivamente estejam no exercício de funções de segurança, na forma de regulamento a ser emitido pelo Conselho Nacional de Justiça - CNJ e pelo Conselho Nacional do Ministério Público - CNMP.
 § 1º As pessoas previstas nos incisos I, II, III, V e VI do caput deste artigo terão direito de portar arma de fogo de propriedade particular ou fornecida pela respectiva corporação ou instituição, mesmo fora de serviço, nos termos do regulamento desta Lei, com validade em âmbito nacional para aquelas constantes dos incisos I, II, V e VI.
+§ 1º-B. Os integrantes do quadro efetivo de agentes e guardas prisionais poderão portar arma de fogo de propriedade particular ou fornecida pela respectiva corporação ou instituição, mesmo fora de serviço, desde que estejam:
+I - submetidos a regime de dedicação exclusiva;
+II - sujeitos à formação funcional, nos termos do regulamento; e
+III - subordinados a mecanismos de fiscalização e de controle interno.
+§ 1º-C. (VETADO).
 § 2º A autorização para o porte de arma de fogo aos integrantes das instituições descritas nos incisos V, VI, VII e X do caput deste artigo está condicionada à comprovação do requisito a que se refere o inciso III do caput do art. 4º desta Lei nas condições estabelecidas no regulamento desta Lei.
 § 3º A autorização para o porte de arma de fogo das guardas municipais está condicionada à formação funcional de seus integrantes em estabelecimentos de ensino de atividade policial, à existência de mecanismos de fiscalização e de controle interno, nas condições estabelecidas no regulamento desta Lei, observada a supervisão do Ministério da Justiça.
 § 4º Os integrantes das Forças Armadas, das polícias federais e estaduais e do Distrito Federal, bem como os militares dos Estados e do Distrito Federal, ao exercerem o direito descrito no art. 4º, ficam dispensados do cumprimento do disposto nos incisos I, II e III do mesmo artigo, na forma do regulamento desta Lei.
