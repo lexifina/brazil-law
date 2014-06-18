@@ -1,0 +1,10 @@
+RECLAMAÇÃO. EXONERAÇÃO DE SERVIDOR PÚBLICO. ALEGAÇÃO DE OFENSA ÀS DECISÕES DO STF PROFERIDAS NAS ADIs 598 E 569, RCLs 556 E 598, SS 613 E 701 E PETs 848 E 902. DESIGNAÇÃO DE AUDIÊNCIA CONCILIATÓRIA.
+    Despacho: Trata-se de Reclamação proposta pelo Estado do Tocantins, , contra sentença na Ação de n. 2004.0000.8742-8 e contra decisão na Execução Provisória de Sentença n. 2007.0000.9758-4, ambas proferidas pelo Juízo da 3ª Vara dos Feitos da Fazenda e Registros Públicos da Comarca de Palmas/TO, bem como contra acórdão do Tribunal de Justiça do Estado de Tocantins, nos autos do Processo n. 2.590, em remessa necessária, por suposta afronta às decisões desta Corte, tomadas nas ADIs nºs 598 e 569, nas Rcls 556 e 598, nas SS 613 e 701 e nas Pets 848 e 902.
+    Sustentou o reclamante que o Governo estadual anulou o concurso público e autorizou a exoneração dos aprovados no aludido certame, em virtude do julgamento da ADI 598, que declarou inconstitucional a lei estadual que atribuía aos detentores do título “Pioneiros do Tocantins”, vantagem em caso de concurso público.
+    Considerando que, sob uma ótica moderna do processo judicial, a fase conciliatória é uma etapa de notória importância, e diante da possibilidade de se inaugurar um processo de mediação neste feito capaz de ensejar um desfecho conciliatório célere e deveras proveitoso para o interesse público, nacional, e, também, individuais dos trabalhadores, designo a realização de audiência de conciliação, e inaugural de um possível processo de mediação, a ocorrer em 24 de junho de 2014 , às 15 horas, no 3º andar do Anexo II do Supremo Tribunal Federal, no Gabinete do Ministro Luiz Fux.
+    Intimem-se pessoalmente a Exmª Procuradora-Geral do Estado do Tocantins, o Senhor Governador do aludido Estado e, por meio da publicação, o Senhor Carlos Rodrigues dos Passos, para que possam comparecer pessoalmente, ou por meio de representantes com plenos poderes para transigir nos autos.
+    Publique-se.
+    Brasília, 18 de junho de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
