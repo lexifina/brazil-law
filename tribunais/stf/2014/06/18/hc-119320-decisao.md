@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Moab Dias Feitosa Júnior contra acórdão do Superior Tribunal Militar proferido na Apelação 177-74.2010.7.01.0201/RJ.
+    Consta dos autos, em síntese, que o paciente foi condenado pelo STM, em sede de apelação, à pena de 9 meses de detenção pela prática do crime de deserção (art. 187 do CPM), em acórdão assim ementado:
+    “(...) I – Militar graduado que abandona a caserna com a justificativa de que sofria depressão em face da separação da esposa e de problemas de saúde com os filhos comete o crime de deserção, tendo em vista que o período de ausência superior a seis meses não se justifica, ainda que se tenha como verdadeira as alegações de problemas pessoais, notadamente quando se verifica que o sargento sequer faz qualquer contato com a OM no intuito de justificar o desaparecimento.
+    II – Pena fixada acima do mínimo legal, tendo em vista ser o réu um 3º Sargento da Marinha, tendo desertado sem apresentar motivos ao menos relevantes para a ausência superior a seis meses, sendo o crime de negativa repercussão na tropa, sobretudo quando cometido por um graduado, demonstrando o descomprometimento com o serviço militar, além da incidência do princípio da proporcionalidade, considerando que a pena no mínimo legal é aplicada em quase a totalidade dos crimes de deserção cometido por recrutas ou conscritos, militares dos quais se exige muito menor comprometimento com a Força do que um militar de carreira.
+    Apelo ministerial provido. Decisão unânime”.
+    Neste habeas corpus, o impetrante alega, em suma, que (a) foi negada a suspensão condicional da pena em face da vedação abstrata inscrita no art. 88, II, a, do CPM; (b) tal norma não foi recepcionada pela Constituição de 1988, na medida em que afronta o princípio da dignidade da pessoa humana. Requer, ao final, a concessão da ordem, para determinar ao juiz competente que fundamente a negativa de suspensão condicional da pena com base em elementos concretos.
+    2. Acerca da matéria, o Plenário do Supremo Tribunal Federal, no julgamento do HC 119567 (Redator(a) p/ Acórdão: Min. ROBERTO BARROSO, julgado em 22/05/2014), decidiu, por maioria, que o art. 88, II, “a”, e o art. 617 do CPPM foram recepcionados pela Constituição Federal de 1988. Entendeu-se, em suma, que a regra penal militar em questão somente instituiu um requisito objetivo negativo para o benefício da suspensão condicional da pena (= não ser crime de deserção), sem que isso importe qualquer afronta ao art. 5º, XLVI, da Constituição.
+    3. Pelo exposto, denego a ordem (RISTF, art. 192).
+    Publique-se. Intime-se.
+    Brasília, 18 de junho de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
