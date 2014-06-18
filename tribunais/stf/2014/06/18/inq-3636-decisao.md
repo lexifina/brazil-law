@@ -1,0 +1,13 @@
+Decisão: Trata-se de Inquérito autuado para apurar a suposta prática dos delitos tipificados nos arts. 288 e 312 do Código Penal e 89 da Lei nº 8.666/93 por Carlos Eduardo de Souza Braga, Célio Augusto Souza Padilha, Albano Maximo Neto, Jorge Henrique de Freitas Pinho, George Tasso Lucena Sampaio Calado, Ipojucan Eden Baturité e Itsuo Hayashi, em razão da desapropriação de um terreno, objeto do Decreto expropriatório nº 23.413/2003, com o pagamento de indenização supostamente superfaturada.
+    A Procuradoria-Geral da República manifestou-se, na petição de fls. 2220-2228, pelo arquivamento do Inquérito em relação ao Senador Eduardo Braga, então Governador do Estado do Amazonas à época dos fatos, pelos seguintes fundamentos:
+    “Exsurge dos autos que o decreto expropriatório foi lavrado após a regular instrução do feito, em que h ouve prévias manifestações técnica e jurídica favoráveis exaradas pelos órgãos competentes (fls. 432/481). Tais pronunciamentos atestaram a regularidade formal do processo e a possibilidade jurídica da desapropriação, respectivamente, na forma proposta.
+    Registra-se ainda nos autos que as primeiras controvérsias sobre os valores envolvidos na desapropriação em questão somente surgiram na sequência, ou seja, após a edição do decreto expropriatório, oportunidade que o respectivo processo retornou à Procuradoria Geral do Estado do Amazonas e foi lavrada a Promoção nº 135/2003 – PPPIF/PGE, em que se ressaltou a necessidade de esclarecimentos sobre as questões ali ventiladas (fls. 495/497).
+    (…)
+    Não se depreende do conjunto probatório até o momento coligido nos autos conduta criminosa, dolosa ou culposa, que possa ser imputada ao então Governador do Estado do Amazonas, Eduardo Braga, no que concerne à sua atuação no processo expropriatório em tela.
+    Com efeito, as provas carreadas aos autos não indicam que os atos que lhe são imputados (autorização da desapropriação, abertura de crédito especial para pagamento da despesa e edição do decreto expropriatório) tenham sido praticados ilegalmente ou com ciência do suposto superfaturamento da indenização” (fls. 2226-2227).
+    Pelo exposto, determino o arquivamento deste Inquérito em relação ao investigado Carlos Eduardo de Souza Braga, com fundamento no art. 21, XV, do RISTF, e defiro o pedido, formulado pela Procuradoria-Geral da República na mesma petição, de remessa dos autos à Justiça do Estado do Amazonas para prosseguimento em face dos demais investigados.
+    Publique-se. Intimem-se.
+    Brasília, 18 de junho de 2104.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
