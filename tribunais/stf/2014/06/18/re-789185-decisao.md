@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário interposto contra decisão do Tribunal Regional Federal da 4ª Região, assim ementada:
+    “TRIBUTÁRIO. SIMPLES. LEI Nº 9.317/96. DISCUSSÃO ACERCA DA EXIGIBILIDADE DAS CONTRIBUIÇÕES AO PIS, COFINS. CARÊNCIA DE AÇÃO. ATUALIZAÇÃO MONETÁRIA DAS FAIXAS DE ENQUADRAMENTO E TRIBUTAÇÃO. TAXA SELIC. ENCARGO LEGAL.
+    1. O SIMPLES é um programa de incentivos fiscais que abrange, em única etapa de incidência, num sistema de tributação simplificado, os diversos tributos e contribuições administrados pela Secretaria da Receita Federal.
+    2. Evidencia-se, neste contexto, a falta de interesse processual do contribuinte em discutir a legalidade ou constitucionalidade das contribuições que menciona, pois não há como desmembrar o quantum efetivamente relacionado a cada um dos tributos envolvidos, sob pena de ofensa ao espírito que motivou a criação do SIMPLES.
+    3. A ausência de previsão de um mecanismo de reajuste das faixas de enquadramento das empresas no Sistema Integrado de Impostos e Contribuições das Microempresas e Empresas de Pequeno Porte revela a opção do legislador por um critério de conveniência política, insuscetível de controle pelo Poder Judiciário.
+    4. A Taxa SELIC se aplica aos débitos tributários, não existindo vício na sua incidência.
+    5. A Corte Especial deste Tribunal reconheceu a constitucionalidade do encargo legal de 20% previsto no Decreto-Lei 1.025/69, na sessão realizada em 24/09/2009, rejeitando a Arguição de Inconstitucionalidade na AC nº 2004.70.08.001295-0/PR, da relatoria do Desembargador Federal Otávio Roberto Pamplona.” (fl. 242)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa aos arts. 2º; 5º, XXXVI; 84, IV; 145, §1º; 150, II; 170, IX; 195, I, e §4º; do texto constitucional.
+    Nas razões recursais, alegou-se que houve um excesso de tributação sobre a recorrente, uma vez que as faixas de tributação do SIMPLES não foram objeto de atualização pelo IGP-DI desde o início de suas atividades, razão pela qual requer-se que seja declarado seu direito à aplicação de correção monetária
+    Sustenta-se, ainda, que é ilegal a cobrança dos tributos em espécie – PIS, COFINS, INCRA e SAT – inseridos no rol dos tributos unificados sob alíquota única no âmbito do SIMPLES. Além disso, aduz que a Lei 9.718/98 não poderia alterar as bases de cálculo do PIS e COFINS sob pena de violar a hierarquia das leis.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    De início, cumpre assinalar que o Tribunal de origem decidiu no sentido da falta de interesse processual por parte de recorrente para discutir a validade do PIS e da COFINS, em razão de sua opção pela tributação na sistemática do SIMPLES. Consta da decisão recorrida:
+    “Evidencia-se, nesse contexto, a falta de interesse processual do contribuinte em discutir a legalidade ou constitucionalidade das contribuições do PIS e da COFINS com base nas disposições da Lei n.º 9.718/98, em face da opção da parte autora pelo SIMPLES, pois não há como desmembrar o quantum efetivamente relacionada a cada um dos tributos envolvidos, sob pena de ofensa ao espírito que motivou a criação do SIMPLES.” (fl. 239)
+    Posta a questão nesses termos, verifica-se que a controvérsia dos autos cinge-se ao plano da interpretação da legislação infraconstitucional – material e processual – aplicável à espécie, não havendo, em rigor, questão constitucional a enfrentar no caso dos autos.
+    Não bastasse isso, cabe destacar ainda, no que concerne ao alegado excesso de tributação pela não incidência de qualquer índice de correção monetária sobre o SIMPLES, que a pretensão do recorrente não encontra amparo na jurisprudência desta Corte.
+    De fato, nos termos da orientação desta Corte, reconhecer o direito do recorrente à atualização das faixas de tributação do SIMPLES, no caso dos autos, demandaria atuação positiva do Poder Judiciário, usurpando-se competência do legislativo, com evidente transgressão ao princípio constitucional da separação de poderes. Nesse sentido, destaco precedente de ambas as turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS IMPORTADOS – IPI. APROVEITAMENTO DE CRÉDITO POR EMPRESA OPTANTE DO SISTEMA INTEGRADO DE PAGAMENTO DE IMPOSTOS E CONTRIBUIÇÕES DAS MICROEMPRESAS E DAS EMPRESAS DE PEQUENO PORTE - SIMPLES. IMPOSSIBILIDADE DE ATUAR O PODER JUDICIÁRIO COMO LEGISLADOR POSITIVO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”(AI-AgR 764.201, Rel. Min. Cármen Lúcia, Primeira Turma, Dje-078).
+    “RECURSO EXTRAORDINÁRIO – TRIBUTÁRIO – PARCELAMENTO DE DÉBITOS – LEI Nº 10.522/2002 – IMPOSSIBILIDADE DE EXTENSÃO DE TAL BENEFÍCIO A EMPRESA OPTANTE PELO SIMPLES NACIONAL – ALEGADA OFENSA AO PRINCÍPIO DA ISONOMIA – INOCORRÊNCIA – ATUAÇÃO DO JUDICIÁRIO COMO LEGISLADOR POSITIVO – INADMISSIBILIDADE – RECURSO IMPROVIDO.” (RE-AgR 709.315, Rel. Min. Celso de Mello, Segunda Turma, DJe-245)
+    Ante o exposto, nego seguimento ao recurso(arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 18 de junho de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
