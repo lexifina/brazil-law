@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. EXAME MONOCRÁTICO DE ‘WRIT’ SUBSTITUTIVO DE RECURSO ORDINÁRIO. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. TRÁFICO ILÍCITO DE DROGAS. PROCESSO PENAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. ARGUMENTOS CONCRETOS. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. 51KG DE PASTA BASE DE COCAÍNA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Mais do que uma mera possibilidade, o exame monocrático, por parte do Relator, de eventual ilegalidade a ser reparada ‘ex officio’ em ‘writ’ substitutivo de recurso ordinário é consequência jurídica óbvia e necessária da alteração do entendimento do Supremo Tribunal Federal e deste Sodalício acerca do assunto. Ora, se a proposta da jurisprudência é a de racionalizar a sistemática recursal e, com isso, resgatar a finalidade histórica e constitucional do remédio heróico, parece evidente que se deve, em contrapartida, sobrevalorizar a Parte que utiliza os meios processuais adequados para a impugnação dos atos judiciais.
+    2. Plenamente aplicável a regra regimental prevista no art. 34, inciso VIII, do RISTJ, a qual autoriza o Relator a negar seguimento a pedido ou recurso manifestamente intempestivo, incabível, improcedente, contrário a súmula do Tribunal, ou quando for evidente a incompetência deste, sempre ressalvado o princípio da colegialidade ante a viabilidade de controle do Colegiado por meio da interposição de agravo interno.
+    3. Hipótese em que a prisão preventiva encontra-se fundamentada na quantidade e natureza da droga apreendida com o Agravante e com os demais acusados (51kg de pasta base de cocaína), bem como nas circunstâncias da apreensão narradas pelos policiais, fundamentos considerados idôneos por esta Corte Superior para a decretação/manutenção da medida extrema, a bem da garantia da ordem pública.
+    4. Não havendo no recurso argumentos capazes de alterar o entendimento anteriormente firmado, deve a decisão agravada ser mantida pelos seus próprios fundamentos.
+    5. Reexaminar as circunstâncias em que ocorreu, em tese, o delito, demanda inequívoco revolvimento de matéria fático-probatória, providência sabidamente inviável na estreita via do ‘habeas corpus’.
+    6. Agravo regimental a que se nega provimento.”
+    (HC 290.319-AgRg/SP, Rel. Min. LAURITA VAZ – grifei)
+    Busca-se, em sede cautelar, “Revogar a Prisão Preventiva ou alternativamente conceder a Liberdade Provisória em favor de DANILO TADEU AFFONSO DE OLIVEIRA, expedindo-se ALVARÁ DE SOLTURA”.
+    O exame dos fundamentos em que se apoia a presente impetração parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida nesta sede processual.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder cautelar geral outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar.
+    De outro lado, observo que a eventual concessão de provimento cautelar, no caso, culminaria por esgotar, em sua integralidade, o objeto do pleito ora formulado nesta sede processual.
+    Sendo assim, e sem prejuízo de ulterior reapreciação da matéria, quando do julgamento final do presente “writ” constitucional, indefiro o pedido de medida liminar.
+    Publique-se.
+    Brasília, 18 de junho de 2014.
+Ministro CELSO DE MELLO
+Relator
