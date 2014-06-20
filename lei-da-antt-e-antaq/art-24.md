@@ -1,7 +1,7 @@
 Art. 24. Cabe à ANTT, em sua esfera de atuação, como atribuições gerais:
 I - promover pesquisas e estudos específicos de tráfego e de demanda de serviços de transporte;
 II - promover estudos aplicados às definições de tarifas, preços e fretes, em confronto com os custos e os benefícios econômicos transferidos aos usuários pelos investimentos realizados;
-III - propor ao Ministério dos Transportes os planos de outorgas, instruídos por estudos específicos de viabilidade técnica e econômica, para exploração da infra-estrutura e a prestação de serviços de transporte terrestre;
+III - propor ao Ministério dos Transportes, nos casos de concessão e permissão, os planos de outorgas, instruídos por estudos específicos de viabilidade técnica e econômica, para exploração da infraestrutura e a prestação de serviços de transporte terrestre;
 IV - elaborar e editar normas e regulamentos relativos à exploração de vias e terminais, garantindo isonomia no seu acesso e uso, bem como à prestação de serviços de transporte, mantendo os itinerários outorgados e fomentando a competição;
 V - editar atos de outorga e de extinção de direito de exploração de infra-estrutura e de prestação de serviços de transporte terrestre, celebrando e gerindo os respectivos contratos e demais instrumentos administrativos;
 VI - reunir, sob sua administração, os instrumentos de outorga para exploração de infra-estrutura e prestação de serviços de transporte terrestre já celebrados antes da vigência desta Lei, resguardando os direitos das partes e o equilíbrio econômico-financeiro dos respectivos contratos;
@@ -16,6 +16,7 @@ XIV - estabelecer padrões e normas técnicas complementares relativos às opera
 XV - elaborar o seu orçamento e proceder à respectiva execução financeira.
 XVI - representar o Brasil junto aos organismos internacionais e em convenções, acordos e tratados na sua área de competência, observadas as diretrizes do Ministro de Estado dos Transportes e as atribuições específicas dos demais órgãos federais.
 XVII - exercer, diretamente ou mediante convênio, as competências expressas no inciso VIII do art. 21 da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, nas rodovias federais por ela administradas.
+XVIII - dispor sobre as infrações, sanções e medidas administrativas aplicáveis aos serviços de transportes.
 Parágrafo único. No exercício de suas atribuições a ANTT poderá:
 I - firmar convênios de cooperação técnica e administrativa com órgãos e entidades da Administração Pública Federal, dos Estados, do Distrito Federal e dos Municípios, tendo em vista a descentralização e a fiscalização eficiente das outorgas;
 II - participar de foros internacionais, sob a coordenação do Ministério dos Transportes.

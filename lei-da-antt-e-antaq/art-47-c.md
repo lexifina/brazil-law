@@ -1,0 +1,1 @@
+Art. 47-C. A ANTT poderá intervir no mercado de serviços regulares de transporte rodoviário interestadual e internacional de passageiros, com o objetivo de cessar abuso de direito ou infração contra a ordem econômica, inclusive com o estabelecimento de obrigações específicas para a autorização, sem prejuízo do disposto no art. 31.
