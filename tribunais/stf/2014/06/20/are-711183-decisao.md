@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (e-STJ fls. 123):
+    “PROCESSUAL CIVIL. ENSINO SUPERIOR. INDEFERIMENTO DE MATRÍCULA POR ATO ADMINISTRATIVO. EQUIVOCO NO PREENCIMENTO DE FORMULÁRIO AO INDICAR SER ORIGINÁRIO DE ESCOLA PÚBLICA.
+    1. O simples equívoco no preenchimento de formulário, com a indicação de origem de escola pública, não tem o condão de afastar a Impetrante do curso para o qual fora aprovada em vestibular, com classificação que lhe assegura aprovação em vaga para não cotista, pelo que deve ser mantida a sentença concessiva da segurança. Precedente em situação parecida: AG 2005.01.00.021020-0/BA, Rel. Desembargadora Federal Maria Isabel Gallotti Rodrigues, Sexta Turma, DJ p.88 de 15/08/2005.
+    2. Não provimento do recurso de apelação e da remessa oficial.”
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, c, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 205; e 207, todos da Constituição. Sustenta que o acórdão recorrido “impede que a UFBA atenda à sua função social de promover a todos o ingresso no ensino superior com igualdade de condições e frusta a autonomia universitária da UFBA de erigir as normas para que tal objetivo seja alcançado” (e-STJ fls. 163).
+    A decisão agravada negou seguimento ao recurso, por incidência da Súmula 284/STF.
+    O recurso não deve ser provido. De início, nota-se que o Supremo Tribunal Federal firmou o entendimento de que não viola o princípio da separação dos Poderes o exame, pelo Poder Judiciário, do ato administrativo tido por ilegal ou abusivo. Nesse sentido, veja-se trecho da ementa do RE 629.574-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “(...)
+    III - Esta Corte possui entendimento no sentido de que o exame pelo Poder Judiciário do ato administrativo tido por ilegal ou abusivo não viola o princípio da separação dos poderes. Precedentes.
+    IV - Agravo regimental improvido.”
+    Ademais, note-se que o Tribunal de origem assentou que a ora recorrida foi aprovada dentro do número de vagas para o curso que concorreu, sendo dispensada a sua caracterização como candidata cotista. Esse é um fundamento autônomo e suficiente para a manutenção do julgado que não foi impugnado pelo presente recurso extraordinário. Tal fundamento, portanto, permanece incólume. Nessas condições, aplica-se a Súmula 283/STF, in verbis :
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+    Ainda que fosse possível examinar o mérito do recurso, observa-se que, para dissentir da conclusão do Tribunal de origem e verificar se a recorrida atende, ou não, as condições para o ingresso na universidade pública, faz-se necessário o reexame dos fatos e do material probatório constantes dos autos e a verificação das regras do edital do vestibular, além da análise da norma infraconstitucional pertinente (Resolução CONSEPE nº 01/04), providências inviáveis de serem realizadas neste momento processual (Súmulas 279 e 454/STF). Nessa linha, veja-se a ementa do RE 591.956-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ENSINO SUPERIOR. SISTEMA DE COTAS. PREENCHIMENTO DE REQUISITOS. AUSÊNCIA DE COMPROVAÇÃO DE QUE A ALUNA OPTOU POR CONCORRER COMO COTISTA. IMPOSSIBILIDADE DE INTERPRETAÇÃO DO EDITAL DO VESTIBULAR E DO REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 20 de junho de 2014.
+Ministro Luís Roberto Barroso
+Relator
