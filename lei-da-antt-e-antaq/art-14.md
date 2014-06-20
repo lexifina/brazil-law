@@ -13,8 +13,9 @@ f) o transporte ferroviário não regular de passageiros, não associado à expl
 g) (revogada);
 h) (revogada);
 i) o transporte ferroviário de cargas não associado à exploração da infraestrutura, por operador ferroviário independente; e
+j) transporte rodoviário coletivo regular interestadual e internacional de passageiros, que terá regulamentação específica expedida pela ANTT;
 IV - depende de permissão:
-a) o transporte rodoviário coletivo regular de passageiros;
+'a) transporte rodoviário coletivo regular interestadual semiurbano de passageiros;
 b) o transporte ferroviário regular de passageiros não associado à infra-estrutura.
 § 1º As outorgas de concessão ou permissão serão sempre precedidas de licitação, conforme prescreve o art. 175 da Constituição Federal.
 § 2º É vedada a prestação de serviços de transporte coletivo de passageiros, de qualquer natureza, que não tenham sido autorizados, concedidos ou permitidos pela autoridade competente.

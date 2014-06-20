@@ -1,0 +1,2 @@
+Art. 47-B. Não haverá limite para o número de autorizações para o serviço regular de transporte rodoviário interestadual e internacional de passageiros, salvo no caso de inviabilidade operacional.
+Parágrafo único. Na hipótese do caput, a ANTT poderá realizar processo seletivo público para outorga da autorização, observados os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência, na forma do regulamento.
