@@ -1,0 +1,2 @@
+Art. 78-K. O perdimento do veículo aplica-se quando houver reincidência no seu uso, dentro do período de 1 (um) ano, no transporte terrestre coletivo interestadual ou internacional de passageiros remunerado, realizado por pessoa física ou jurídica que não possua ato de outorga expedido pela ANTT.
+Parágrafo único. O proprietário e quem detém a posse direta do veículo respondem conjunta ou isoladamente pela sanção de perdimento, conforme o caso.

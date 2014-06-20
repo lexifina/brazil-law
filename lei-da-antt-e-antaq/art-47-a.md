@@ -1,0 +1,1 @@
+Art. 47-A. Em função das características de cada mercado, a ANTT poderá estabelecer condições específicas para a outorga de autorização para o serviço regular de transporte rodoviário interestadual e internacional de passageiros.
