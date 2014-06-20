@@ -1,0 +1,1 @@
+Art. 145-A. Além do disposto no art. 145, para conduzir ambulâncias, o candidato deverá comprovar treinamento especializado e reciclagem em cursos específicos a cada 5 (cinco) anos, nos termos da normatização do Contran.
