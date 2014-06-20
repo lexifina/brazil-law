@@ -1,0 +1,2 @@
+Institui, no âmbito do Programa de Resposta aos Desastres, o Auxílio Emergencial Financeiro para atendimento à população atingida por desastres, residentes nos Municípios em estado de calamidade pública ou situação de emergência, dá nova redação ao § 2º do art. 26 da Lei nº 10.522, de 19 de julho de 2002, ao art. 2º-A da Lei nº 9.604, de 5 de fevereiro de 1998, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
