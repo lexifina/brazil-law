@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL CIVIL. LIMITE DE IDADE. POSSIBILIDADE. ACÓRDÃO ACÓRDÃO RECORRIDO EM CONFRONTO COM A JURISPRUDÊNCIA DO STF. PRECEDENTES.
+1. A exigência de limite de idade para ingresso na carreira de policial civil do Estado de Minas Gerais é legítima. Precedentes: ARE nº. 690.803-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 27/9/2012, e ARE nº. 707.111-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 19/12/2012.
+2. A Lei Complementar Nº 113/2010 não se aplica aos certames anteriores à sua vigência, em respeito ao princípio do tempus regit actum.
+3. In casu, o acórdão recorrido assentou: “CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE DA POLÍCIA CIVIL. LIMITE DE IDADE. LEI COMPLEMENTAR Nº. 113/10. SUPRESSÃO. A exigência, pela Administração, de critérios diferenciados de admissão no serviço público, se revela válida desde que haja previsão legal e se justifique pela natureza das atribuições inerentes ao cargo, nos termos da norma do art. 39, §3º, da CF/88. Contudo, a Lei Complementar nº. 113/10, alterando a redação da norma do art. 80, inciso II, da Lei Estadual nº. 5.406/69, aboliu o limite de idade para o ingresso na carreira de agente de polícia.”
+4. Agravo PROVIDO para PROVER o recurso extraordinário.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo ESTADO DE MINAS GERAIS contra decisão que inadmitiu recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, em face de acórdão assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE DA POLÍCIA CIVIL. LIMITE DE IDADE. LEI COMPLEMENTAR Nº. 113/10. SUPRESSÃO. A exigência, pela Administração, de critérios diferenciados de admissão no serviço público, se revela válida desde que haja previsão legal e se justifique pela natureza das atribuições inerentes ao cargo, nos termos da norma do art. 39, §3º, da CF/88. Contudo, a Lei Complementar nº. 113/10, alterando a redação da norma do art. 80, inciso II, da Lei Estadual nº. 5.406/69, aboliu o limite de idade para o ingresso na carreira de agente de polícia.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões de recurso extraordinário, alega ofensa aos artigos 37, caput, I e II, e 39, § 3º, da Constituição Federal. Sustenta que a imposição de limite de idade para acesso ao cargo público de integrante da Polícia Civil do Estado de Minas Gerais, estava prevista tanto no edital como na lei.
+    O Tribunal de origem negou seguimento ao apelo extremo por entender que a análise da matéria demanda a análise de legislação local e do incursionamento no acervo fático probatório dos autos
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Merece prosperar o agravo.
+    O acórdão recorrido está em confronto com a jurisprudência do Supremo Tribunal Federal, que se firmou no sentido da legitimidade da exigência de limite de idade para ingresso na carreira de policial civil do Estado de Minas Gerais, bem como, no sentido da impossibilidade de aplicação da Lei Complementar nº 113/2010 aos certames anteriores à sua vigência, em respeito ao princípio do tempus regit actum. Seguindo essa orientação, colacionam-se os seguintes julgados:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Concurso público. Agente da polícia civil do Estado de Minas Gerais. Limite de idade para ingresso na carreira. Possibilidade. Verbete 683. Precedentes. 3. Aplicação da Lei Complementar estadual n. 113/2010 ao caso. Impossibilidade. Tempus regit actum. 4. Agravo regimental a que se nega provimento.” (ARE nº. 690.803-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 27/9/2012)
+    “Agravo regimental no recurso extraordinário com agravo. Concurso público. Agente de polícia. Limite de idade. Possibilidade. Lei Complementar estadual nº 113/10. Aplicação retroativa. Impossibilidade.
+    1. A jurisprudência desta Corte firmou entendimento no sentido de admitir a fixação de limite de idade para inscrição em concurso público, desde que tal restrição possa ser justificada pela natureza das atribuições do cargo a ser preenchido. Incidência da Súmula nº 683/STF.
+    2. Os requisitos exigidos para a inscrição em concurso público são aferidos à luz da legislação então vigente.
+    3. Agravo regimental não provido.” (ARE nº. 707.111-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 19/12/2012)
+    Ex positis, PROVEJO o agravo, para desde logo DAR PROVIMENTO ao recurso extraordinário, com fundamento no artigo 557, § 1º-A, do Código de Processo Civil. Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 20 de junho de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
