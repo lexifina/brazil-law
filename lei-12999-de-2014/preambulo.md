@@ -1,0 +1,2 @@
+Dispõe sobre a ampliação do valor do Benefício Garantia-Safra para a safra de 2012/2013 e sobre a ampliação do Auxílio Emergencial Financeiro relativo aos desastres ocorridos em 2012; autoriza o pagamento de subvenção econômica aos produtores da safra 2012/2013 de cana-de-açúcar da região Nordeste; altera a Lei nº 10.954, de 29 de setembro de 2004; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
