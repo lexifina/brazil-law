@@ -1,0 +1,30 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Valter Moreira da Costa Júnior em favor de Marcus Vinicius Cipriano contra decisão monocrática, da lavra do Ministro Nefi Cordeiro, que indeferiu liminarmente o HC 293.760/SP.
+    O Juízo de Direito da 3ª Vara Criminal da Comarca de Taubaté/SP condenou o paciente às penas de 09 (nove) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas e associação para o tráfico (arts. 33 e 35 da Lei 11.343/2006). Opostos embargos de declaração, foram rejeitados.
+    Ao argumento de contrariedade à prova dos autos, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem.
+    Submetida a questão à apreciação do Superior Tribunal de Justiça no HC 293.760/SP, o Ministro Nefi Cordeiro, via decisão monocrática, indeferiu liminarmente o writ.
+    Neste habeas corpus, o Impetrante alega, em suma, a nulidade da sentença condenatória, por “ausência de fundamentação e omissão de fatos e questões suscitadas pela Defesa”. Requer, em medida liminar e no mérito, a concessão de liberdade provisória em favor do paciente.
+    É o relatório.
+    Decido.
+    O presente habeas corpus foi impetrado contra decisão monocrática, da lavra do Ministro Nefi Cordeiro, que indeferiu liminarmente o HC 293.760/SP, aos seguintes fundamentos:
+    “(...).
+    A via estreita do habeas corpus não se presta ao revolvimento da matéria fático-probatória, como ocorre quando a decisão é atacada com base exclusivamente na alegação de ser contrária à prova dos autos. Confira-se:
+    (...).
+    Ante o exposto, indefiro liminarmente o presente habeas corpus, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+    Cientifique-se o Ministério Público Federal.
+    Publique-se. Intime-se”.
+    Registro a existência de óbice ao conhecimento do presente habeas corpus, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça. O ato impugnado é mera decisão monocrática e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado. Não o fazendo, resulta inadmissível o presente writ.
+    Nesse sentido, colho precedente:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. CONSTITUCIONAL. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO QUE NEGOU PROVIMENTO A AGRAVO DE INSTRUMENTO INTERPOSTO NO SUPERIOR TRIBUNAL DE JUSTIÇA. FUNDAMENTAÇÃO AUTÔNOMA E SUFICIENTE DA DECISÃO AGRAVADA. ANÁLISE DAS QUESTÕES DE FUNDO DO RECURSO ESPECIAL: NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+    (...)
+    6. A jurisprudência predominante neste Supremo Tribunal Federal firmou-se no sentido de que a decisão possibilitadora do habeas corpus não seria aquela que indeferiu monocraticamente o recurso sem analisar a questão de direito, mas sim aquela proferida pelo colegiado do Superior Tribunal de Justiça no julgamento de eventual e consecutivo agravo regimental - exigência que visa ao esgotamento da jurisdição e à esquiva da indevida supressão de instância” (HC 95.978-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.5.2010).
+    “HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. POSSE ILEGAL DE ARMA DE FOGO. RECEPTAÇÃO. PRISÃO PREVENTIVA. INADEQUAÇÃO DA VIA PROCESSUAL. 1. O entendimento majoritário da Primeira Turma do Supremo Tribunal Federal é no sentido de que o habeas corpus é incabível quando endereçado em face de decisão monocrática que nega seguimento ao writ, sem a interposição de agravo regimental (HC 113.186, Rel. Min. Luiz Fux). 2. Inexistência de ilegalidade flagrante ou de abuso de poder na prisão preventiva. 3. Habeas Corpus não conhecido, cassada a medida liminar deferida.” (HC 116.567/MG, Relator para acórdão Min. Roberto Barroso, 1ª Turma, DJe 03.02.2014).
+    Da leitura da decisão impugnada, não detecto a presença de alguma excepcionalidade, de flagrante ilegalidade ou teratologia a justificar a concessão do habeas corpus de ofício.
+    Registro que o ato apontado como coator não destoou do entendimento adotado por este Supremo Tribunal Federal segundo o qual “A estreita via do habeas corpus não comporta o revolvimento do conjunto fático-probatório.” (HC 111.412/AgR/TO, Rel. Luiz Fux, 1ª Turma, DJe 14.8.2013).
+    Nesse contexto, destaco:
+    “Recurso ordinário em habeas corpus. Processual Penal. Júri. Homicídio qualificado (CP, art. 121, § 2º, IV). Alegada nulidade decorrente da falta de intimação do advogado dativo quanto à data de julgamento de agravo regimental. Não ocorrência. Paciente absolvido. Negativa de autoria. Apelação do Ministério Público, sob o fundamento de que a sentença foi manifestamente contrária às provas dos autos. Recurso provido para determinar a submissão do réu a novo julgamento pelo júri. Violação da soberania dos veredictos. Não ocorrência. Reexame do contexto fático-probatório. Inviabilidade. Recurso não provido. 1. Segundo se dessume do art. 159 do Regimento Interno do Superior Tribunal de Justiça, tal como se dá perante a Suprema Corte (RISTF, art. 131,§ 2º), há expressa vedação legal à realização de sustentação oral em sede de agravo regimental. 2. A aferição da tese de negativa de autoria, fundada em prova oral favorável ao paciente, exige aprofundamento do exame do acervo fático-probatório da causa, inviável em sede de habeas corpus. Precedentes. 3. Recurso ordinário a que se nega provimento. (RHC 118.249/SP, Rel. Min. Dias Toffolli, Primeira Turma, DJe de 24.02.2014)
+    Ademais, a irresignação do Impetrante traduz clara intenção em prolongar o debate dos fatos e provas da condenação, mormente porque já submetida à questão à reapreciação do Tribunal de Justiça em apelação criminal, recurso viável o amplo debate do acervo fático-probatório.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de junho de 2014.
+Ministra Rosa Weber
+Relatora
