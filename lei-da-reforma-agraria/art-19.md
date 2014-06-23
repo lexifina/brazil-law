@@ -1,4 +1,4 @@
-Art. 19. O título de domínio e a concessão de uso serão conferidos ao homem ou à mulher, ou a ambos, independentemente de estado civil, observada a seguinte ordem preferencial:
+Art. 19. O título de domínio, a concessão de uso e a CDRU serão conferidos ao homem ou à mulher, ou a ambos, independentemente de estado civil, observada a seguinte ordem preferencial:
 I - ao desapropriado, ficando-lhe assegurada a preferência para a parcela na qual se situe a sede do imóvel;
 II - aos que trabalham no imóvel desapropriado como posseiros, assalariados, parceiros ou arrendatários;
 III - aos ex-proprietários de terra cuja propriedade de área total compreendida entre um e quatro módulos fiscais tenha sido alienada para pagamento de débitos originados de operações de crédito rural ou perdida na condição de garantia de débitos da mesma origem;
