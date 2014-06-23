@@ -4,7 +4,8 @@ II - os beneficiários dos projetos de que trata o inciso I manifestarão sua co
 III - nos projetos criados será elaborado Plano de Desenvolvimento de Assentamento - PDA, que orientará a fixação de normas técnicas para a sua implantação e os respectivos investimentos;
 IV - integrarão a clientela de trabalhadores rurais para fins de assentamento em projetos de reforma agrária somente aqueles que satisfizerem os requisitos fixados para seleção e classificação, bem como as exigências contidas nos arts. 19, incisos I a V e seu parágrafo único, e 20 desta Lei;
 V - a consolidação dos projetos de assentamento integrantes dos programas de reforma agrária dar-se-á com a concessão de créditos de instalação e a conclusão dos investimentos, bem como com a outorga do instrumento definitivo de titulação.
-§ 1º Para a consolidação dos projetos de que trata o inciso V do caput, é o Poder Executivo autorizado a conceder créditos de instalação aos assentados, nos termos do regulamento.
-§ 2º Poderá ser contratada Instituição financeira federal para a operacionalização da concessão referida no inciso V do caput, dispensada a licitação.
-§ 3º As despesas relativas à concessão de crédito de que trata o inciso V do caput se adequarão às disponibilidades orçamentárias e financeiras do órgão responsável pela execução do referido programa.
-§ 4º O regulamento a que se refere o § 1º estabelecerá prazos, carências, termos, condições, rebates para liquidação e procedimentos simplificados para o cumprimento do disposto neste artigo.
+§ 1º (Vetado.)
+§ 2º Para a consolidação dos projetos de que trata o inciso V do caput, fica o Poder Executivo autorizado a conceder créditos de instalação aos assentados, nos termos do regulamento.
+§ 3º Poderá ser contratada instituição financeira federal para a operacionalização da concessão referida no inciso V do caput, dispensada a licitação.
+§ 4º As despesas relativas à concessão de crédito de que trata o inciso V do caput adequar-se-ão às disponibilidades orçamentárias e financeiras do órgão responsável pela execução do referido programa.
+§ 5º O regulamento a que se refere o § 2º estabelecerá prazos, carências, termos, condições, rebates para liquidação e procedimentos simplificados para o cumprimento do disposto neste artigo.
