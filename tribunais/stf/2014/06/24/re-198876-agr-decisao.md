@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo regimental cujo objeto é decisão monocrática do Ministro Moreira Alves, relator originário do feito, que não conheceu do recurso extraordinário, sob o fundamento de que “tendo sido declarada a inconstitucionalidade de ato normativo pelo Plenário ou pelo Órgão Especial do Tribunal ‘a quo’, é contra esse acórdão que se dirige o ataque por parte do recurso extraordinário, razão por que, se ele não foi juntado ao aresto da Turma ou Câmara julgadora, o recorrente deverá fazê-lo quando da interposição do recurso extraordinário, sob pena de, não ocorrendo uma ou outra dessas hipóteses, não ser conhecido o recurso extraordinário. E, no caso, não houve essa juntada” (fls. 217).
+    A União alega que “o extraordinário de fls. 158/182 buscou fundamento não apenas na alínea ‘b’ do permissivo constitucional pertinente (Art. 102, III), mas também na alínea ‘a’ do referido dispositivo, voltando-se o inconformismo da União contra o julgamento do Tribunal Regional Federal da 1ª Região que, ao julgar inconstitucional o art. 3º da Lei n° 8.200/91, contrariou diretamente, entre outros, o preceito insculpido no art. 148 da Lei Maior” (fls. 220).
+    Verifica-se, realmente, que o recurso extraordinário também foi interposto com fundamento no art. 102, III, a, da Constituição Federal. No entanto, o Plenário do Supremo Tribunal Federal, no julgamento do RE 545.796, Rel. Min. Gilmar Mendes, reconheceu a existência de repercussão geral da matéria ora em exame (Tema 298). Confira-se a ementa do leading case:
+    “Recurso extraordinário. Tributário. Correção Monetária. Demonstrações financeiras. Balanço patrimonial. Pessoas jurídicas. Compensação. Diferimento no tempo. Lei 8.200/91. Repercussão geral reconhecida.”
+    Na hipótese dos autos, considerando que o recurso baseou-se no permissivo constitucional constante da alínea “a”, determino a devolução dos autos ao Tribunal de origem, para os fins do art. 543-B do CPC. Julgo prejudicado o agravo regimental.
+    Publique-se.
+          Brasília, 24 de junho de 2014.
+Ministro Luís Roberto Barroso
+Relator
