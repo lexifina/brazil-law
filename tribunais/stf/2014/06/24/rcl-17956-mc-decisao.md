@@ -1,0 +1,24 @@
+Trata-se de reclamação, com pedido de medida liminar, proposta por RICHARD MENDES DA SILVA, assistido pela Defensoria Pública do Estado de São Paulo, contra a decisão do Juiz de Direito da 1ª Vara das Execuções Criminais da Comarca de Ribeirão Preto/SP proferida nos autos de Execução Penal 713.695.
+    O reclamante informa, inicialmente, que, tendo preenchido os requisitos legais do art. 112 da Lei de Execução Penal, formulou pedido de progressão de regime prisional, do fechado para o semiaberto.
+    Diz, em seguida, que, aberta vista ao Ministério Público Estadual, este opinou pela realização de exame criminológico, o que foi determinado pelo Juízo ora reclamado, em decisão assim redigida:
+    “Para análise do pleito em questão, progressão de regime prisional, ressalte-se que o requisito subjetivo sobrepõe-se ao objetivo para análise pelo Juízo, porquanto o segundo trata tão somente do cálculo matemático do tempo de pena descontado; enquanto, relativamente ao requisito subjetivo, deve o Magistrado decidir acerca do mérito do condenado.
+    Consoante verifica-se dos autos, não obstante questão pendente que diz respeito ao lapso atingido, o sentenciado não preenche o requisito subjetivo, especialmente pelas particularidades dos crimes cometidos pelo sentenciado, que em todos os delitos perpetrados utilizou-se de violência e grave ameaça, restringindo a liberdade das vítimas em suas próprias residências, com demonstração de traços negativos de personalidade, necessária análise de que a sua reinserção na sociedade não acarretará riscos.
+    Deverá aguardar maior lapso no regime em que se encontra, a fim de se avaliar que novamente inserida em sociedade não voltará a colocá-la em risco, ficando, pois determinada a realização de exame criminológico, que servirá de base para apreciação de eventual benefício” (página 16 do documento eletrônico 4 – grifos no original).
+    É contra essa decisão que se insurge o reclamante.
+    Sustenta, em síntese, a ausência de fundamentação concreta no julgado que determinou a realização do exame criminológico. Argumenta, nesse contexto, que a parte final do enunciado da Súmula Vinculante 26 “exige fundamentação para a realização do exame criminológico. Para tal fim, não basta a simples menção à gravidade do delito, pois tal fator já foi considerado pelo juízo de conhecimento ao individualizar a pena a ser cumprida” (página 3 do documento eletrônico 2).
+    Requer, ao final, o deferimento de medida liminar, a fim de que se determine ao juízo reclamado que “defira os direitos da execução com base APENAS nos requisitos efetivamente previstos em lei, afastando-se a necessidade do exame criminológico” (página 8 do documento eletrônico 2).
+    No mérito, pede a confirmação da liminar pleiteada e a procedência da reclamação, para que seja cassada a decisão atacada, afastando-se a exigência de exame criminológico para a análise do pedido de progressão de regime.
+    É o breve relatório. Decido.
+    Não obstante os argumentos expendidos na inicial, entendo que o caso é de indeferimento da medida liminar.
+    Com efeito, a concessão de medida liminar se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Esta reclamação utiliza como paradigma o verbete da Súmula Vinculante 26, in verbis:
+    “PARA EFEITO DE PROGRESSÃO DE REGIME NO CUMPRIMENTO DE PENA POR CRIME HEDIONDO, OU EQUIPARADO, O JUÍZO DA EXECUÇÃO OBSERVARÁ A INCONSTITUCIONALIDADE DO ART. 2º DA LEI N. 8.072, DE 25 DE JULHO DE 1990, SEM PREJUÍZO DE AVALIAR SE O CONDENADO PREENCHE, OU NÃO, OS REQUISITOS OBJETIVOS E SUBJETIVOS DO BENEFÍCIO, PODENDO DETERMINAR, PARA TAL FIM, DE MODO FUNDAMENTADO, A REALIZAÇÃO DE EXAME CRIMINOLÓGICO”.
+    Observo, contudo, que, embora o reclamante tenha se insurgido contra o decisum que determinou a realização de exame criminológico, por considerá-la desprovida de fundamentação idônea, a referida decisão mostra-se aparentemente fundamentada.
+    Ademais, a liminar pleiteada tem caráter satisfativo, confundindo-se com o próprio mérito da reclamação, o qual será oportunamente examinado, se for o caso.
+    Diante de tal quadro, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento de mérito, indefiro a medida liminar.
+    Solicitem-se informações ao Juízo da 1ª Vara das Execuções Criminais da Comarca de Ribeirão Preto/SP acerca do processo de execução penal relativo ao reclamante e sobre a eventual interposição de recurso contra o decisum que determinou a realização do exame criminológico.
+    Com as informações, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 24 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
