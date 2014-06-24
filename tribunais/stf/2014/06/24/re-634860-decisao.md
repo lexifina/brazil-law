@@ -1,0 +1,37 @@
+DECISÃO
+    Centro Operacional de Desenvolvimento e Saneamento de Uberaba - CODAU interpõe recurso extraordinário contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “AÇÃO CIVIL PÚBLICA - MUNICÍPIO DE UBERABA - LEI 8.096/02 - EFICÁCIA PLENA - DESNECESSIDADE DE REGULAMENTAÇÃO - INSTALAÇÃO DE EQUIPAMENTOS ELIMINADORES DE AR DA TUBULAÇÃO ADUTORA DE ÁGUA - OBRIGAÇÃO DA FORNECEDORA DO SERVIÇO DE ÁGUA E ESGOTO LOCAL - CODAU - PRINCÍPIO DA LEGALIDADE - PROCEDÊNCIA DO PEDIDO. - A Lei 8.096/02 que trata da obrigação da autarquia municipal - CODAU - de instalar equipamento eliminador de ar da tubulação de água não depende de regulamentação e deve ser cumprida de imediato, uma vez que já traz elementos bastantes para tanto. - Em face da lei que ordena a instalação dos equipamentos torna-se descabida a discussão sobre a eficácia dos aparelhos, ou sobre a real interferência das correntes de ar na medição do consumo residencial de água.” (fl. 652)
+    Opostos embargos de declaração (fls. 663 a 668), foram rejeitados (fl. 670).
+    Insurge-se, no apelo extremo, fundado nas alíneas “a”, “c” e “d” do permissivo constitucional, contra alegada contrariedade aos artigos 5º, incisos LIV, e 37, caput, da Constituição Federal.
+    Apresentadas contrarrazões (fls. 712 a 720), o recurso extraordinário (fls. 689 e 699) não foi admitido na origem (fls. 726 a 728).
+    O Superior Tribunal de Justiça, em decisão transitada em julgado (fl. 741), negou seguimento ao recurso especial interposto simultaneamente ao extraordinário.
+    O Ministério Público Federal, em parecer da lavra do eminente Dr. Rodrigo Janot Monteiro de Barros, atual Procurador-Geral da República, opina pelo não conhecimento do recurso extraordinário (fls. 747 a 749).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    De proêmio, há que se salientar que o Tribunal de origem limitou-se a examinar fatos e provas com esteio na legislação local, impassíveis de análise na via extraordinária, por atraírem a incidência das Súmulas nºs 279 e 280, desta Corte.
+    Assim dispôs o voto condutor do acórdão recorrido:
+    “A questão posta em debate tem base na Lei Municipal no. 8.096, de 08 de abril de 2002, que prevê em seu artigo primeiro:
+‘Art. 1º - A entidade de direito público responsável pelo serviço de abastecimento de água no Município de Uberaba fica obrigada a instalar equipamento eliminador de ar na tubulação que antecede o hidrômetro dos imóveis.’
+ O legislador intentou proteger o consumidor, uma vez que estudos técnicos atestaram a possibilidade de que correntes de ar que circulam dentro das adutoras de água podem interferir nos medidores hidrométricos de consumo. Muitos sustentam, em contrapartida, que as alterações trazidas pelas correntes de ar são irrisórias e não trazem efetiva alteração nos níveis de consumo. Entretanto, a regra no Município de Uberaba é que o eliminador de ar seja instalado, independentemente do volume de ar que passe em cada tubulação.
+ Mais adiante, a legislação municipal assevera que: ‘art. 2º - O Poder Executivo regulamentará a presente Lei por decreto.’
+ Até o presente momento o Executivo local quedou-se inerte e ainda não regulamentou a norma, questão suscitada pela recorrente como obstáculo à execução do mandamento legal.
+ A lei que se pretende aplicar, no entanto, já possui elementos bastantes para sua plena aplicação, independentemente de posterior regulamentação.” (fls. 654/655)
+    Ademais, o cabimento do recurso extraordinário na hipótese prevista no artigo 102, inciso III, alíneas “c” e “d”, da Constituição Federal, pressupõe a existência de decisão judicial que tenha declarado válida lei ou ato de governo local contestado em face da Carta Magna, ou ainda, que tenha considerado válida lei local contestada em face de lei federal.
+    Embora tenha invocado as referidas alíneas “c” e “d” em suas razões, a parte recorrente interpôs recurso extraordinário contra decisão que aplicou as legislações federal e local pertinentes (Lei municipal nº 8.096/2002 e o Código de Defesa do Consumidor), sem confrontá-las entre si ou com a Constituição da República. Manifestamente incabível, portanto, o recurso extraordinário. Nesse sentido, citem-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NAS ALÍNEAS C E D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA DE CONFLITO DE COMPETÊNCIA LEGISLATIVA. AGRAVO IMPROVIDO.
+    I - O acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição.
+    II - A admissão do recurso extraordinário pela alínea d do inciso III do art. 102 da Constituição Federal pressupõe a ocorrência de conflito de competência legislativa entre os entes da Federação. Dessa forma, é incabível o apelo extremo, fundado no aludido dispositivo, cuja pretensão seja provocar o reexame da interpretação de norma infraconstitucional conferida pelo Juízo de origem.
+    III - Agravo regimental improvido.” (AI nº 769.919/RS AgR-segundo, Segunda Turma, Relator o Ministro Ricardo Lewandowski , DJe de 27/9/11).
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PREQUESTIONAMENTO REGULAR. INTERPRETAÇÃO DE LEI INFRACONSTITUCIONAL. HIPÓTESE DE CABIMENTO DO RECURSO EXTRAORDINÁRIO.
+    1. A decisão agravada reconheceu a presença do prequestionamento da matéria constitucional impugnada inserta no art. 84, IV, não havendo por que falar em sua ausência.
+    2. Interposição do recurso extraordinário com fundamento no art. 102, III, a, da Constituição Federal. Ausência de discussão de validade de legislação local prevista nas alíneas c e d deste mesmo inciso.
+    3.Agravo regimental improvido.” (RE nº. 451.647/CE-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie , DJe de 16/4/2010).
+    No mesmo sentido, menciono as seguintes decisões monocráticas: RE nº 553.752, Relator o Ministro Ayres Britto, Dje de 09/11/2011; e ARE nº 653.229, Relator o Ministro Ricardo Lewandowski, Dje de 30/08/2011.
+    Não bastasse isso, como restou bem salientado pela Procuradoria-Geral da República, vê-se que “as questões constitucionais suscitadas não foram objeto de debate e decisão no acórdão recorrido, não se prestando os embargos de declaração para prequestionar matéria não arguida anteriormente” (fl. 749). Portanto, há que se aplicar a Súmula nº 280 do STF.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 24 de junho de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
