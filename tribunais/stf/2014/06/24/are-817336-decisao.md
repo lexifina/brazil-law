@@ -1,0 +1,13 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Agravo de Instrumento – Decisão que negou pleito de denunciação da lide – Relação jurídica que não a autoriza – Contrato de Compra e Venda – Loteamento irregular que permite a rescisão – Ação de regresso autônoma – Recurso improvido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXV, da Constituição, bem como aos princípios constitucionais da celeridade, economia processual, efetividade e razoabilidade.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que incide, no caso, a Súmula 284/STF.
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que não atende ao disposto no art. 543-A, § 2º, do CPC. Como já decidido por este Tribunal, a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579 AgR/MG, Rel. Min. Ricardo Lewandowski).
+    De qualquer forma, para chegar a conclusão diversa do acórdão recorrido, necessárias seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que é vedado em recurso extraordinário, nos termos da Súmula 279/STF.
+    Por fim, cabe ressaltar que não foram ofendidas as garantias da inafastabilidade do controle jurisdicional, do devido processo legal, do contraditório e da ampla defesa, pois a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e motivado suas conclusões de forma satisfatória.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de junho de 2014.
+Ministro Luís Roberto Barroso
+Relator
