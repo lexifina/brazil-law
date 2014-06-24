@@ -1,0 +1,14 @@
+DECISÃO
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Turma do Colégio Recursal dos Juizados Especiais Cíveis do Estado do Espírito Santo que manteve a sentença de primeiro grau que julgou procedente a ação para determinar à ora recorrente que forneça informações de interesse do autor referentes a mensagens eletrônicas relacionadas ao provedor de e-mails de que possui o domínio.
+    No recurso extraordinário sustenta-se violação do artigo 5°, incisos II, X e XII, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    No caso, a recorrente, a pretexto de alegada vulneração do texto constitucional, pretende o reexame de questões relacionadas às supostas ilegitimidade passiva e impossibilidade técnica de cumprimento da ordem de apresentação de dados referentes à conta de correio eletrônico objeto da demanda. Destarte, consoante iterativa jurisprudência deste Supremo Tribunal Federal, a via extraordinária não comporta as pretendidas discussões que envolvem a análise da legislação processual e o cotejo de conjunto fático-probatório. Têm-se, no ponto, o óbice consubstanciado nas Súmulas nºs 279 e 636 desta Corte.
+    Outrossim, considerando que o Tribunal a quo solucionou a controvérsia mediante a aplicação da legislação infraconstitucional pertinente (Código de Defesa do Consumidor), cogitar de má interpretação dessa para se chegar à suposta violação dos dispositivos suscitados, quando muito, retrata hipótese de ofensa indireta ou reflexa ao texto constitucional, o que tampouco ensejaria recurso extraordinário.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 24 de junho de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
