@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 260):
+    “PREVIDENCIÁRIO. POLICIAL MILITAR. PENSÃO POST MORTEM. NATUREZA INFORTUNÍSTICA. POSSIBILIDADE DE CUMULAÇÃO COM A PENSÃO PREVIDENCIÁRIA.
+    Tendo a pensão instituída pelo artigo 85 da Lei Estadual nº 10.990/97 natureza infortunística destinada a compensar os dependentes do policial militar morto em serviço as agruras de óbito prematuro decorrente dos serviços de risco prestados ao Estado, não se confundindo, pois, com as finalidades do pensionamento previdenciário, possível a cumulação de uma e outra verba.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, §§ 2º e 5º, da Constituição. Sustenta que o “a par de ter sido reconhecido que o óbito do ex-segurado ocorreu em consequência de acidente em serviço, não pode ser reconhecido o direito ao autor à percepção de duas pensões, no valor integral, de forma cumulativa, como restou decidido na decisão recorrida, porquanto contraria expressamente o disposto no § 2º do artigo 40, com a redação dada pela EC 20/98, bem como artigo 40, §5º, da CF (na redação original, antes da modificação perpetrada pela EC 20/98).” (fls. 293).
+    O recurso extraordinário não deve ser admitido. O Tribunal de origem entendeu que “o Estado concede aos dependentes de policiais mortos em serviço, tal qual o faz em relação aos policiais civis (artigo 71, Lei Estadual nº. 7.366/80), pensão desatrelada de previsão previdenciária, tanto que seu montante resulta desafeiçoado de qualquer previsão atuarial. Por isso, inconfundíveis os destinos de uma e outra verba” (fls. 262). E concluiu que “não tem alcance pretendido pelo Estado a redação conferida ao artigo 85, Lei Estadual nº. 10.990/97, mesmo porque implicaria a supressão de direito de há muito reconhecido aos dependentes do policial militar morto em serviço, destinado a compensá-los em razão das agruras de óbito prematuro decorrente dos serviços de risco prestados do Estado” (fls. 264).
+    Dissentir dessa conclusão exigiria a análise da legislação local pertinente (Leis estaduais nº 7.138/78, 7.366/80 e 10.990/97), bem como o exame do acervo probatório constante dos autos. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. Nessa linha, veja-se o RE 637.984- AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Pensão por morte. Legislação local. Análise. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. O Tribunal de origem decidiu a lide com fundamento na legislação local (Lei nº 7.138/78) e nos fatos e nas provas dos autos.
+    2. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco ao reexame do conjunto fático probatório da causa. Incidência das Súmulas n°s 280 e 279/STF.
+    3. Agravo regimental não provido.”
+    Diante do exposto, com base no art. 557, caput , do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de junho de 2014.
+Ministro Luís Roberto Barroso
+Relator
