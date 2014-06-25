@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. BASE DE CÁLCULO DE HORAS EXTRAS E ADICIONAL NOTURNO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão de inadmissão de recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Turma Recursal do Juizado Especial da Fazenda Pública de Santa Catarina:
+    “AGENTE PRISIONAL - HORAS EXTRAS (ESTÍMULO OPERACIONAL) E ADICIONAL (GRATIFICAÇÃO) PELO TRABALHO NOTURNO - BASE DE CÁLCULO - ADEQUAÇÃO DO CRITÉRIO ADMINISTRATIVO, QUE REPRODUZ O QUE ESTÁ EM LEI - VEDAÇÃO, AINDA, DO EFEITO CASCATA - PEDIDO IMPROCEDENTE.
+    As normas que instituíram diversas rubricas componentes dos vencimentos dos agentes prisionais tiveram o cuidado de excluí-las da base de cálculo de outras vantagens. Por extensão, elas não podem ser somadas para o cálculo das gratificações pelo trabalho extraordinário ou noturno, ainda mais porque haveria efeito cascata (vedado pelo inc. XIV do art. 37 da CF).
+    Recurso improvido (Mandado de Segurança nº 2012.055026-5, Relator Des. Luiz César Medeiros, Julgado em 12/12/2012)”.
+    Os embargos de declaração opostos pelos Agravantes foram rejeitados.
+    2. Os Agravantes afirmam ter a Turma Recursal contrariado os arts. 1º, 7º, incs. IX e XVI, 37, inc. XIV, e 39, § 3º, da Constituição da República.
+    Argumentam que “a Lei Complementar nº 137/95, ao regulamentar sobre o adicional noturno e horas extras para os servidores pertencentes ao Grupo Segurança Pública (policias militares, policias civis e agentes penitenciários), disciplinou que a apuração do valor da hora normal de trabalho deve ser efetuada mediante a divisão da remuneração do servidor público”.
+    Asseveram que “os dois abonos, a indenização de valorização do profissional militar e a gratificação de representação praças não são vantagens pecuniárias, mas sim revisões e reajustes do vencimento disfarçadas de vantagens pecuniárias, tendo tal fato inclusive sido reconhecido pelo próprio Estado de Santa Catarina ao editar a Lei Complementar nº 556/2011, que determinou a incorporação destas verbas ao vencimento padrão dos recorrentes”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste aos Agravantes.
+    5. A apreciação do pleito recursal demandaria o reexame da legislação infraconstitucional aplicável à espécie (Leis complementares estaduais ns. 137/1995, 415/2009 e 556/2011 e Leis estaduais ns. 5.645/1979, 12.667/2003 e 15.160/2010), procedimento inadmissível de ser validamente adotado nessa via processual. Incide na espécie a Súmula n. 280 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. HORAS EXTRAS. BASE DE CÁLCULO. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 728.440-AgR/SC, de minha relatoria, Segunda Turma, DJ 28.10.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. POLICIAL MILITAR DE SANTA CATARINA. PAGAMENTO DE ADICIONAL NOTURNO E HORAS EXTRAORDINÁRIAS. BASE DE CÁLCULO. DISCUSSÃO QUE ENVOLVE MATÉRIA INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA 280 DO STF. JURISPRUDÊNCIA PACÍFICA DESTA CORTE A RESPEITO DO TEMA. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Esta Corte, no exame de casos idênticos, firmou jurisprudência no sentido de que a discussão acerca da base de cálculo para pagamento de adicional noturno e horas extraordinárias de serviço aos policias militares de Santa Catarina envolve a análise e interpretação de legislação local. Assim, eventual ofensa à Constituição da República, acaso existente, seria reflexa, nos termos da súmula STF nº 280. Precedentes.
+    2. In casu, os recursos extraordinários listados no relatório destes autos tiveram o seguimento negado por ausência de prequestionamento e aplicação da súmula STF nº 280. Na origem, as 16 ações foram ajuizadas por Policiais Militares de Santa Catarina que pretendiam a inclusão da remuneração integral da Corporação, à exceção do vale-alimentação, na base de cálculo das horas extras de serviço e do adicional noturno, pagos sob o título de Indenização de Estímulo Operacional. Os pedidos foram julgados improcedentes. O Tribunal de Justiça catarinense, conheceu dos recursos interpostos, mas negou-lhes provimento para manter as sentenças por seus próprios fundamentos.
+    3. Agravo regimental desprovido” (RE 727.139-AgR/SC, Relator o Ministro Luiz Fux, Primeira Turma, DJe 26.4.2013).
+    “Agravo regimental em recurso extraordinário. 2. Base de cálculo de horas extraordinárias. Necessidade de prévia análise e interpretação da legislação local aplicável. Enunciado 280 da Súmula do STF. 3. Inaplicabilidade da Súmula Vinculante 16. 4. Agravo regimental a que se nega provimento” (RE 728.754-AgR/SC, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 20.3.2013).
+    Em caso idêntico ao presente, a seguinte decisão monocrática transitada em julgado: ARE 806.207/SC, Relator o Ministro Ricardo Lewandowski, DJe 28.4.2014.
+    Nada há, pois, a prover quanto às alegações dos Agravantes.
+    6. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de junho de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
