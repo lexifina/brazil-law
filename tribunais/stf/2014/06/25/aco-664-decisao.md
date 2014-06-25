@@ -1,0 +1,34 @@
+DESPACHO
+AÇÃO CÍVEL ORIGINÁRIA. ESTADO DO RIO DE JANEIRO E UNIÃO. CONTRATO DE CONSOLIDAÇÃO E REFINANCIAMENTO DE DÍVIDAS. CLÁUSULAS DE AUTOEXECUTORIEDADE. ALEGAÇÕES FINAIS. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Ação cível originária ajuizada pelo Estado do Rio de Janeiro, em 6.2.2003, contra a União, objetivando-se a declaração de nulidade de cláusulas contratuais pactuadas em “Contrato de Confissão, Promessa de Assunção, Consolidação e Refinanciamento de Dívidas” (fl. 4).
+O caso
+    2. O Autor relata ter firmado com a União “Contrato de Confissão, Promessa de Assunção, Consolidação e Refinanciamento de Dívidas” e ter ajustado, resumidamente, o seguinte:
+    “i) a União assumiria, mediante a celebração de instrumentos próprios, a serem oportunamente firmados, a dívida mobiliária e contratual do Estado do Rio de Janeiro, apurada em R$ 18.536.808.277, 61 (em moeda de 29-10-1999);
+    ii) as dívidas assumidas pela União seriam refinanciadas ao Estado, mediante: (1) pagamento em 360 prestações mensais, calculadas com base na Tabela Price, e, observado um limite de dispêndio mensal que hoje está fixado em 13% da receita líquida real; e (2) cessão, em favor da União, de direito de crédito do Estado, relativamente à participação obrigatória nas modalidades de royalties e participação especial, nos termos do art. 8º da Lei n. 7.990/89, com a redação dada pela MP n. 1.913-8, de 26-10-1999;
+    iii) a dívida refinanciada seria paga pelo Estado à União com os acréscimos de atualização monetária pelo IGP-DI da Fundação Getúlio Vargas e de juros remuneratórios de 6% ao ano, ambos calculados sobre o saldo devedor existente e debitados no primeiro dia de cada mês;
+    iv) seria devida ainda, em favor do Agente Financeiro da União – o Banco do Brasil S.A. -, uma ‘Comissão de Administração’ em percentuais variáveis, de 0,1% a 0,001%, de acordo com a faixa de valor do saldo devedor, conforme detalhado na cláusula nona do contrato” (fl. 4).
+    Informa pactuadas cláusulas de autoexecutoriedade para a satisfação do crédito, como a cláusula décima primeira e a décima terceira.
+    Narra que o cumprimento das obrigações pactuadas teria transcorrido sem maiores problemas até os primeiros meses de 2002, mas, “a partir do segundo trimestre daquele ano, a gestão recém-finda do Estado não [teria pago] regularmente os valores” (fl. 6).
+    Esclarece que, no inicio de 2003, contava R$ 53.279.953,43 (cinquenta e três milhões, duzentos e setenta e nove mil, novecentos e cinquenta e três reais e quarenta a três centavos) em caixa e uma ordem de bloqueio no valor de R$ 85.921.597,23 (oitenta e cinco milhões, novecentos e vinte e um mil, quinhentos e noventa e sete reais e vinte e três centavos), pretendendo, na presente ação, “questionar os dispositivos em todos os contratos firmados com a União, que a autorizam a ordenar a retirada de recursos de ICMS da conta do Estado, não levando em consideração a situação fática e os demais direitos, individuais ou fundamentais que venham a ser lesados pelo saque” (fl. 7).
+    Sustenta que “os mecanismos de execução da dívida do Estado constantes dos contratos em questão, se literalmente interpretados, conduziriam a uma dupla inconstitucionalidade: além de consagrar ali a autoexecutoriedade de dívidas pecuniárias (…) seria levada a cabo sem qualquer devido processo legal, contraditório ou ampla defesa do Estado” (fl. 24).
+    Requer antecipação da tutela, “determinando-se à Ré que se abst[enha] de determinar bloqueios, retenção em conta ou saque de recursos do Estado do Rio de Janeiro relativos ao ICMS” (fl. 60).
+    Pede a procedência do pedido para: a) “declarar a nulidade das cláusulas décima primeira, in fine e décima terceira, II e III e parágrafos, na parte em que permitem o saque de recursos do ICMS de contas do Estado”; b) “declarar a nulidade da cláusula sexta do contrato de assunção da dívida da CEHAB, em conformidade com a Lei 8.727/93, de mesmo teor”; c) “declarar a nulidade da cláusula sexta do contrato firmado com a União em virtude das perdas imputadas pela Lei n. 9.424/96 – FUNDEF, no mesmo teor”; e d) “declarar a nulidade das cláusulas de mesmo teor, em contratos firmados entre o Estado e a União Federal”; e e) “seja declarado que a previsão de vencimento antecipado do contrato, estabelecida na cláusula décima sétima, não se aplica na hipótese de não observância do previsto nas cláusulas indicadas no pedido acima, caso seja o mesmo provido” (fls. 60-61).
+    3. Em 26.3.2003, a União apresentou impugnação ao valor da causa (fls. 2-5 do Apenso 1).
+    4. Em 26.3.2003, a União contestou a presente ação cível originária (fls. 134-152).
+    Pediu a extinção da ação “sem julgamento de mérito, em face da ausência de interesse de agir do Estado do Rio de Janeiro” (fl. 151).
+    Salientou não existir “possibilidade de se declarar a anulação de quaisquer cláusulas dos contratos impugnados sem se determinar a anulação do inteiro teor dos pactos, pois, a União somente concedeu o refinanciamento da dívida dos Estados Federados mediante garantia real e efetiva de que receberia o valor refinanciamento nos prazos pactuados, sem o que a assinatura dos contratos não teria se concretizado sob hipótese alguma” (fl. 136).
+     No mérito, pediu a improcedência do pedido.
+    5. Em 1º.10.2003, a Ministra Ellen Gracie, então Relatora, determinou vista dos autos ao Procurador-Geral da República (fl. 172), que opinou pela improcedência da ação (fls. 175-182).
+    6. Em 23.11.2006, ao julgar a impugnação apresentada pela União, fixei o valor da causa em R$ 85.921.597,23 (oitenta e cinco milhões, novecentos e vinte e um mil, quinhentos e noventa e sete reais e vinte e três centavos) (fls. 26-30 do Apenso 1).
+    Contra essa decisão o Estado do Rio de Janeiro e a União interpuseram agravos regimentais (fls. 45-50 e 54-61), desprovidos pelo Plenário deste Supremo Tribunal Federal em 24.4.2013 (fls. 68- 79 do Apenso 1, DJe 20.5.2013).
+    7. Em 5.5.2014, julguei prejudicado o requerimento de antecipação de tutela e dei vista ao Autor para se manifestar sobre a contestação da União.
+    8. Em 23.5.2014, o Estado do Rio de Janeiro apresentou réplica, salientou persistir seu interesse na ação e reiterou o pedido de sua procedência.
+    9. Em 27.5.2014, determinei a intimação das partes para se manifestarem sobre provas (fls. 243-247).
+    10. O Estado do Rio de Janeiro (fls. 251) e a União informaram não ter provas a produzir (fl. 253).
+    11. Declaro saneado o processo (art. 248 do Regimento Interno do Supremo Tribunal Federal).
+    12. Vista sucessiva ao Autor e à Ré, por dez dias, para razões finais e, na sequência, ao Procurador-Geral da República (art. 249 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de junho de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
