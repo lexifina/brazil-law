@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de embargos de declaração opostos à decisão que deu provimento ao recurso extraordinário e, julgando parcialmente procedente o pedido inicial, determinou a devolução dos valores indevidamente descontados a título de contribuição previdenciária no período que mediou a vigência da EC 20/98 e a promulgação da EC 41/03, acrescida de correção monetária e juros legais, observada a prescrição.
+    Alega a parte embargante, em síntese, que a decisão embargada foi omissa no que toca ao termo inicial da fluência dos juros de mora e ao período de contribuição indevidamente recolhida que deverá ser objeto de repetição.
+    Intimada, a parte embargada deixou transcorrer o prazo sem qualquer manifestação quanto aos embargos opostos.
+    2. Os embargos de declaração devem ser parcialmente acolhidos. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido de reconhecer o trânsito em julgado da sentença como marco inicial para fluência dos juros moratórios, na hipótese de repetição de indébito tributário, a teor do disposto no parágrafo único do art. 167 do Código Tributário Nacional. Nesse sentido, confira-se o AI 715.333-AgR/MG, Rel. Min. EROS GRAU, Segunda Turma, DJe de 29/8/2008; RE 593.586-AgR-ED/SP, Rel. Min. JOAQUIM BARBOSA, DJe de 1/10/2010 e, mais recentemente, o AI 662.896-AgR/RS, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 26/5/2014, cuja ementa é a seguinte:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA DECLARADA INCONSTITUCIONAL. TERMO A QUO DOS JUROS MORATÓRIOS. TRÂNSITO EM JULGADO. PRECEDENTES. O termo a quo para a fluência dos juros moratórios reclamados em ação de repetição movida em decorrência da declaração de inconstitucionalidade de uma contribuição previdenciária é o trânsito em julgado da sentença, segundo o art. 167 do Código Tributário Nacional. Agravo regimental a que se nega provimento.
+    Por fim, nenhum reparo quanto ao período de ilegitimidade da cobrança, a ensejar a repetição, pois a conclusão da decisão demonstrou de forma clara e precisa o descabimento da contribuição previdenciária no período entre as Emendas Constitucionais 20/98 e 41/2003 (fl. 582).
+    3. Diante do exposto, acolho parcialmente os embargos de declaração para suprir a omissão apontada e fixar o trânsito em julgado da sentença como início da fluência dos juros de mora.
+    Publique-se. Intime-se.
+    Brasília, 25 de junho de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
