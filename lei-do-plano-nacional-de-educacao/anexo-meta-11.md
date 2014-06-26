@@ -1,0 +1,16 @@
+Meta 11: triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público.
+Estratégias:
+11.1) expandir as matrículas de educação profissional técnica de nível médio na Rede Federal de Educação Profissional, Científica e Tecnológica, levando em consideração a responsabilidade dos Institutos na ordenação territorial, sua vinculação com arranjos produtivos, sociais e culturais locais e regionais, bem como a interiorização da educação profissional;
+11.2) fomentar a expansão da oferta de educação profissional técnica de nível médio nas redes públicas estaduais de ensino;
+11.3) fomentar a expansão da oferta de educação profissional técnica de nível médio na modalidade de educação a distância, com a finalidade de ampliar a oferta e democratizar o acesso à educação profissional pública e gratuita, assegurado padrão de qualidade;
+11.4) estimular a expansão do estágio na educação profissional técnica de nível médio e do ensino médio regular, preservando-se seu caráter pedagógico integrado ao itinerário formativo do aluno, visando à formação de qualificações próprias da atividade profissional, à contextualização curricular e ao desenvolvimento da juventude;
+11.5) ampliar a oferta de programas de reconhecimento de saberes para fins de certificação profissional em nível técnico;
+11.6) ampliar a oferta de matrículas gratuitas de educação profissional técnica de nível médio pelas entidades privadas de formação profissional vinculadas ao sistema sindical e entidades sem fins lucrativos de atendimento à pessoa com deficiência, com atuação exclusiva na modalidade;
+11.7) expandir a oferta de financiamento estudantil à educação profissional técnica de nível médio oferecida em instituições privadas de educação superior;
+11.8) institucionalizar sistema de avaliação da qualidade da educação profissional técnica de nível médio das redes escolares públicas e privadas;
+11.9) expandir o atendimento do ensino médio gratuito integrado à formação profissional para as populações do campo e para as comunidades indígenas e quilombolas, de acordo com os seus interesses e necessidades;
+11.10) expandir a oferta de educação profissional técnica de nível médio para as pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação;
+11.11) elevar gradualmente a taxa de conclusão média dos cursos técnicos de nível médio na Rede Federal de Educação Profissional, Científica e Tecnológica para 90% (noventa por cento) e elevar, nos cursos presenciais, a relação de alunos (as) por professor para 20 (vinte);
+11.12) elevar gradualmente o investimento em programas de assistência estudantil e mecanismos de mobilidade acadêmica, visando a garantir as condições necessárias à permanência dos (as) estudantes e à conclusão dos cursos técnicos de nível médio;
+11.13) reduzir as desigualdades étnico-raciais e regionais no acesso e permanência na educação profissional técnica de nível médio, inclusive mediante a adoção de políticas afirmativas, na forma da lei;
+11.14) estruturar sistema nacional de informação profissional, articulando a oferta de formação das instituições especializadas em educação profissional aos dados do mercado de trabalho e a consultas promovidas em entidades empresariais e de trabalhadores
