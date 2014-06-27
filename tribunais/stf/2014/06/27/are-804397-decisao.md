@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “AÇÃO DE COBRANÇA – FUNDAÇÃO JOÃO PINHEIRO – CURSO SUPERIOR EM ADMINISTRAÇÃO PÚBLICA – TERMO DE COMPROMISSO – PERMANÊNCIA NA CARREIRA PELO PERÍODO DE DOIS ANOS – RESSARCIMENTO DOS CUSTOS DIRETO DO SERVIÇO DE ENSINO – LEGALIDADE – PROPORCIONALIDADE – JUROS DE MORA DE 1% AO MÊS – COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS – IMPOSSIBILIDADE – SENTENÇA PARCIALMENTE REFORMADA.” (pág. 120)
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, caput e 97, da mesma Carta, bem como à súmula vinculante 10/STF.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Estadual 15.304/2004), bem como no conjunto fático probatório constante dos autos. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, as Súmulas 279 e 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido: ARE 701.510/SP-AgR/SP, Rel. Min. Roberto Barroso; ARE 710.944-AgR/SP, Rel. Min. Rosa Weber; ARE 744.644-AgR/SP, Rel. Min. Teori Zavascki, o qual possui a seguinte ementa:
+    “PROCESSUAL CIVIL. SERVENTIA EXTRAJUDICIAL. ELEVAÇÃO DE CLASSIFICAÇÃO PARA ENTRÂNCIA ESPECIAL OU FINAL. CONTRIBUIÇÕES PARA O IPESP. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO DO RECURSO PELA ALÍNEA C DO INC. III DO ART. 102 DA CONSTITUIÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. OFENSA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. VIOLAÇÃO MERAMENTE REFLEXA À CONSTITUIÇÃO. EXAME DE LEGISLAÇÃO LOCAL. LEI COMPLEMENTAR 980/2005, DO ESTADO DE SÃO PAULO. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”.
+    Além disso, este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Por fim, quanto à alegada ofensa à súmula vinculante 10, é certo que não houve declaração ou reconhecimento de inconstitucionalidade nem de incompatibilidade da norma jurídica com a Constituição Federal que reclamasse a sujeição da questão à regra da reserva de plenário. Destaco a seguinte decisão proferida pelo Plenário:
+    “RECLAMAÇÃO. SÚMULA VINCULANTE N. 10. REVISÃO DE BENEFÍCIO. LEI N. 9.032/95. DECISÃO DA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA. RESERVA DE PLENÁRIO. NÃO CONFIGURADO O DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL.
+    1. A simples ausência de aplicação de uma dada norma jurídica ao caso sob exame não caracteriza, apenas por isso, violação da orientação firmada pelo Supremo Tribunal Federal.
+    2. Para caracterização da contrariedade à súmula vinculante n. 10, do Supremo Tribunal Federal, é necessário que a decisão fundamente-se na incompatibilidade entre a norma legal tomada como base dos argumentos expostos na ação e a Constituição.
+    3. O Superior Tribunal de Justiça não declarou a inconstitucionalidade ou afastou a incidência dos arts. 273, § 2º, e 475-o, do Código de Processo Civil e do art. 115, da Lei n. 8.213/91, restringindo-se a considerá-los inaplicáveis ao caso.
+      4. Reclamação julgada” (Rcl 6.944/DF, Rel. Min. Cármen Lúcia).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de junho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
