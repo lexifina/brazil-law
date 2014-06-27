@@ -1,0 +1,22 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 1ª Turma Recursal dos Juizados Especiais do Distrito Federal, assim ementado:
+    “JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. ADMINISTRATIVO E CONSTITUCIONAL. AGENTE PENITENCIÁRIO. ADICIONAL NOTURNO. SERVIDORA SUBMETIDA A REGIME DE REVEZAMENTO OU PLANTÃO. APLICAÇÃO DA SÚMULA 213 DO STF. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E DESPROVIDO
+    1. O cargo de técnico penitenciário não integra a Carreira da Polícia Civil do Distrito Federal e, sim, a Carreira de Atividades Penitenciárias do Distrito Federal regida pela Lei 3369/2005 de modo que os julgados relativos aos policiais cíveis não servem de fundamento para o caso ora analisado.
+    2. Obediência aos ditames dos artigos 61 VI e 75 da Lei 8.112/90, mesmo que o servidor esteja submetido a regime de plantão ou revezamento. Aplicação da Súmula 213 do STF.
+    3. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, SERVINDO A SÚMULA DO JULGAMENTO COMO ACÓRDÃO, NA FORMA DO ARTIGO 46 DA LEI 9099/95. Honorários pelo recorrente vencido, estes arbitrados em R$200,00 (duzentos reais).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput e II, e 37, caput e XIV, todos da Carta.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que “o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei nº 8.112/90 e Lei Distrital nº 3.669/2005). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pela Turma Recursal, de modo que a afronta à Constituição, se ocorrente, seria indireta.”
+    O recurso extraordinário não deve ser provido, tendo em conta que o julgamento da controvérsia demandaria a análise das normas infraconstitucionais pertinentes, providência vedada neste momento processual.
+    De fato, ficou estabelecido pelo Tribunal de origem que o cargo de Técnico Penitenciário não pode seguir a mesma disciplina estabelecida pela lei relativa à atividade policial (Lei nº 11.361/2006), uma vez que são interpretadas como carreiras distintas. Dissentir dessa conclusão exigiria o exame de matéria que extrapola a competência desta Corte. Nessa linha, leia-se a jurisprudência pacífica do Supremo Tribunal Federal nesse sentido (AI 822.961 AgR, Rel. Min. Ricardo Lewandowski):
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. OFENSA REFLEXA. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE. SÚMULA 636 DESTA CORTE. AGRAVO IMPROVIDO.
+    I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissível o recurso extraordinário, porquanto a ofensa à Constituição, se ocorrente, seria reflexa.
+    II - O Tribunal entende não ser cabível a interposição de RE por contrariedade princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Precedentes.
+    III - Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Precedentes.
+    IV - Agravo regimental improvido.”
+    Ademais, quanto a controvérsia relativa à percepção de adicional noturno para os servidores da área de segurança pública que trabalham em regime de plantão, este Supremo Tribunal decidiu pela ausência de repercussão geral deste tema, no julgamento do AI 783.172, sob a relatoria do Ministro Dias Toffoli:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. POLICIAL CIVIL. ADICIONAL NOTURNO. REGIME DE PLANTÃO. MATÉRIA RESTRITA AO PLANO DO DIREITO LOCAL. AUSÊNCIA DE REPERCUSSÃO GERAL.”
+    Diante do exposto, com base no art. 544, § 4º, II, b , do CPC, e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 27 de junho de 2014.
+Ministro Luís Roberto Barroso
+Relator
