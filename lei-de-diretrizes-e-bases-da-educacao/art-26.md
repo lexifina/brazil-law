@@ -12,3 +12,5 @@ VI - que tenha prole.
 § 5º Na parte diversificada do currículo será incluído, obrigatoriamente, a partir da quinta série, o ensino de pelo menos uma língua estrangeira moderna, cuja escolha ficará a cargo da comunidade escolar, dentro das possibilidades da instituição.
 § 6º A música deverá ser conteúdo obrigatório, mas não exclusivo, do componente curricular de que trata o § 2º deste artigo.
 § 7º Os currículos do ensino fundamental e médio devem incluir os princípios da proteção e defesa civil e a educação ambiental de forma integrada aos conteúdos obrigatórios.
+§ 8º A exibição de filmes de produção nacional constituirá componente curricular complementar integrado à proposta pedagógica da escola, sendo a sua exibição obrigatória por, no mínimo, 2 (duas) horas mensais.
+§ 9º Conteúdos relativos aos direitos humanos e à prevenção de todas as formas de violência contra a criança e o adolescente serão incluídos, como temas transversais, nos currículos escolares de que trata o caput deste artigo, tendo como diretriz a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), observada a produção e distribuição de material didático adequado.
