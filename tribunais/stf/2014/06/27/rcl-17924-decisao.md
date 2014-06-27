@@ -1,0 +1,19 @@
+Decisão: Trata-se de reclamação, sem pedido de medida liminar, ajuizada pelo Ministério Público do Estado do Rio Grande do Sul, contra acórdão proferido pela Terceira Câmara Criminal do TJ Gaúcho que, nos autos da Ação Penal 027/2.13.0006398-7, teria supostamente descumprido o teor da Súmula Vinculante 11 do Supremo Tribunal Federal.
+    O reclamante alega que o órgão reclamado, concedeu a ordem de habeas corpus, sob o fundamento de declaração de nulidade do processo acima mencionado, em razão do suposto uso injustificado de algemas pelo acusado durante a audiência de instrução.
+    Alega equívoco por parte do Tribunal a quo, pois no momento em que declarou a nulidade do ato, acabou por aplicar indevidamente a súmula desta Corte.
+    É o breve relatório.
+    Decido.
+    O Supremo Tribunal Federal, ao aprovar o enunciado da Súmula Vinculante 11, consolidou a jurisprudência da Corte no sentido de que o uso de algemas limita-se a casos excepcionais. O verbete sumular possui a seguinte redação:
+    “Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.
+    Com efeito, a citada decisão acertou na aplicação do entendimento sumulado, tendo em vista a presença de elementos suficientes que justificassem a anulação da audiência realizada. Para tanto afirmou:
+    “A ratio essendi da Súmula 11 do Supremo Tribunal Federal é justamente evitar o uso desmedido das algemas, impedindo as autoridades de recorrerem a esse instrumento de modo sistemático, em prejuízo dos acusados. Trata-se, pois, de um instrumento de segurança que deve ser utilizado apenas excepcionalmente, quando efetivamente necessário. Nesse sentido, já decidiu essa 3ª Câmara Criminal pela adequação do uso das algemas em caso no qual o acusado registrava histórico de fugas durante sua condução para atos judiciais (Apelação n. 70044277747, julgado em 06.10.2011). Não é essa, porém, a hipótese dos autos.
+    Assim, porque no caso concreto não há justificativa nenhuma para a manutenção das algemas, entendo tal prática indevida. Como consequência, impositiva a declaração de insubsistência do ato processual questionado”.
+    Desse modo, entendo que não houve violação à Súmula Vinculante 11. Nesse mesmo sentido, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. USO DE ALGEMAS EM AUDIÊNCIA. INEXISTÊNCIA DE CONTRARIEDADE À SÚMULA VINCULANTE N. 11 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (Rcl-AgR 15.047, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 28.4.2014)
+    “RECLAMAÇÃO – RECURSO DE AGRAVO – ALEGADO DESRESPEITO AO ENUNCIADO CONSTANTE DA SÚMULA VINCULANTE Nº 11/STF – NÃO CONFIGURAÇÃO – ATO RECLAMADO PROFERIDO EM CONFORMIDADE COM O ENUNCIADO SUMULAR – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO. - As razões invocadas para justificar o ato em questão revelam-se em conformidade com aquelas que deram suporte à Súmula Vinculante nº 11/STF (que permite, excepcionalmente, o uso de algemas, desde que justificada sua necessidade), o que basta para afastar, por inocorrente, a alegação de desrespeito à autoridade daquele pronunciamento sumular do Supremo Tribunal Federal, inviabilizando-se, desse modo, o acesso à via reclamatória”. (Rcl-AgR 11.845, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 10.4.2014)
+    Ante o exposto, nego seguimento à presente reclamação, nos termos do art. 21, § 1º, do RI/STF.
+    Publique-se.
+    Brasília, 27 de junho de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
