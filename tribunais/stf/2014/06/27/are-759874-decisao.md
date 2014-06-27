@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário fundado na letra b do permissivo constitucional.
+    Insurge-se o recorrente contra a restauração da incidência da contribuição previdenciária sobre a folha de salários, em razão da declaração de inconstitucionalidade do art. 25, I e II da Lei nº 8.212/91.
+    Decido.
+    A jurisprudência da Corte é assente no sentido de ser de índole infraconstitucional a controvérsia a respeito da legislação aplicável resultante do efeito repristinatório da declaração de inconstitucionalidade dos incisos I e II do art. 25 da Lei nº 8.212/91, com as redações decorrentes das Leis nºs 8.540/92 e nº 9.528/97. Nesse sentido, cito os seguintes precedentes:
+    “RECURSO EXTRAORDINÁRIO – EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO - PIS – BASE DE CÁLCULO – LEI Nº 9.718/98 (ART. 3º) – DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DESSE PRECEITO LEGAL (RE 357.950/RS, REL. MIN. MARCO AURÉLIO) – REPERCUSSÃO GERAL DA MATÉRIA QUE O PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL RECONHECEU NO JULGAMENTO DO RE 585.235-RG-QO/MG – REAFIRMAÇÃO, QUANDO DA APRECIAÇÃO DE MENCIONADO RECURSO EXTRAORDINÁRIO, DA JURISPRUDÊNCIA QUE O SUPREMO TRIBUNAL FEDERAL FIRMOU NO EXAME DESSA CONTROVÉRSIA - EFEITO REPRISTINATÓRIO RESULTANTE DA DECLARAÇÃO DE INCONSTITUCIONALIDADE DO § 1º DO ART. 3º DA LEI Nº 9.718/98 – CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL – TEMA INSUSCETÍVEL DE COGNIÇÃO EM SEDE RECURSAL EXTRAORDINÁRIA – QUESTÃO PERTINENTE ÀS SANÇÕES TRIBUTÁRIAS EVENTUALMENTE APLICÁVEIS - MATÉRIA QUE SEQUER FOI EXAMINADA NA DECISÃO OBJETO DO RECURSO EXTRAORDINÁRIO – INAPLICABILIDADE, NO ÂMBITO DO RECURSO EXTRAORDINÁRIO, DO PRINCÍPIO ‘JURA NOVIT CURIA’ – RECURSO DE AGRAVO IMPROVIDO” (RE nº 488.570/SP-ED, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 16/3/11) (Grifei).
+    “I. PIS/COFINS: base de cálculo: L. 9.718/98, art. 3º, § 1º: inconstitucionalidade. Ao julgar os RREE 346.084, Ilmar; 357.950, 358.273 e 390.840, Marco Aurélio, Pleno, 9.11.2005 (Inf./STF 408), o Supremo Tribunal declarou a inconstitucionalidade do art. 3º, § 1º, da L. 9.718/98, por entender que a ampliação da base de cálculo da COFINS por lei ordinária violou a redação original do art. 195, I, da Constituição Federal, ainda vigente ao ser editada a mencionada norma legal. II. Agravo regimental: debate acerca de qual legislação é aplicável com a declaração de inconstitucionalidade, que, além de natureza infraconstitucional, não foi objeto do recurso extraordinário” (RE nº 489.881/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 9/2/07 - Grifei).
+    Na mesma direção: AI nº 547.891/SP-AgR-ED, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 29/6/07.
+    Por isso, conheço do agravo para negar seguimento ao RE.
+    Publique-se.
+    Brasília, 27 de junho de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
