@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta aos arts. 37, caput, e 40, § 8º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: AI 811.049-AgR/PB, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 24.3.2011; RE 635.184-AgR/SE, Rel. Min. Luiz Fux, 1ª Turma, DJe 10.10.2012; e AI 806.315-AgR/PA, Rel. Min. Ayres Britto, 2ª Turma, DJe 26.8.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. SERVIDORES INATIVOS. EXTENSÃO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO ADMINISTRATIVA GDATA E DE GRATIFICAÇÃO DESEMPENHO DE ATIVIDADE TÉCNICO-OPERACIONAL EM TECNOLOGIA MILITAR GDATEM. SÚMULA VINCULANTE N. 20. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO”.
+    “AGRAVO REGIMENTAL DO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PROVENTOS INATIVOS. EXTENSÃO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE REFORMA AGRÁRIA - GDARA. ARTIGO 40, § 8º, DA CONSTITUIÇÃO FEDERAL. 1. A questão debatida nos autos - extensão aos inativos e pensionistas da Gratificação de Desempenho de Atividade de Reforma Agrária (GDARA) - foi solucionada pelo Tribunal a quo à luz do posicionamento do Supremo Tribunal Federal. 2. As gratificações GDATA e GDARA possuem natureza geral, destarte, impõe-se a sua extensão aos inativos, sob pena de contrariedade ao artigo 40 da Constituição Federal. … 4. Agravo regimental a que se nega provimento”.
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE FISCALIZAÇÃO AGROPECUÁRIA - GDAFA. EXTENSÃO AOS APOSENTADOS. PRINCÍPIO DA ISONOMIA. NATUREZA DA VANTAGEM. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que as vantagens de natureza genérica, concedidas ao pessoal da ativa, são extensíveis aos aposentados, em nome do princípio da isonomia, nos termos do § 8º do art. 40 (na redação anterior à EC 41/2003) da Magna Carta. 2. A discussão acerca da natureza jurídica de parcelas remuneratórias devidas a servidores públicos é de índole eminentemente infraconstitucional. Pelo que eventual ofensa ao Magno Texto apenas ocorreria de modo reflexo ou indireto. 3. Agravo regimental desprovido”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de junho de 2014.
+Ministra Rosa Weber
+Relatora
