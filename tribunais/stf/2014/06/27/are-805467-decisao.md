@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E CONSUMIDOR. EMPRÉSTIMO CONSIGNADO. FRAUDE. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. DANOS MATERIAIS. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 640.525-RG. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. O dano material decorrente da responsabilidade da instituição financeira em face do consumidor, quando aferido pelas instâncias ordinárias, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 640.525, da Relatoria da Min. Cezar Peluso, DJe 31/8/2011.
+2. In casu, o acórdão recorrido assentou: “Ação de inexigibilidade de débito c.c. devolução das quantias pagas e indenização por danos morais, com pedido de tutela antecipada, julgada parcialmente procedente. Recorrente que não comprovou que recorrida anuiu ao contrato de empréstimo, com crédito supostamente depositado em conta de titularidade da recorrida que não teve movimentação no período em questão, e parcelas descontadas de seu benefício previdenciário. Fraude caracterizada a ensejar a declaração de inexigibilidade do débito e a devolução das quantias indevidamente descontadas. Dano moral não configurado. Sentença mantida por seus próprios fundamentos. Recurso improvido. Condenação do recorrente nas custas processuais e honorários advocatícios fixados em 15% (quinze por cento) do valor da condenação.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo BANCO BMG S/A com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado, in verbis:
+    “Ação de inexigibilidade de débito c.c. devolução das quantias pagas e indenização por danos morais, com pedido de tutela antecipada, julgada parcialmente procedente. Recorrente que não comprovou que recorrida anuiu ao contrato de empréstimo, com crédito supostamente depositado em conta de titularidade da recorrida que não teve movimentação no período em questão, e parcelas descontadas de seu benefício previdenciário. Fraude caracterizada a ensejar a declaração de inexigibilidade do débito e a devolução das quantias indevidamente descontadas. Dano moral não configurado. Sentença mantida por seus próprios fundamentos. Recurso improvido. Condenação do recorrente nas custas processuais e honorários advocatícios fixados em 15% (quinze por cento) do valor da condenação.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 5º, LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o recorrente busca o revolvimento do conteúdo fático-probatório dos autos.
+    É o relatório. DECIDO.
+    Não merece prosperar o presente agravo.
+    O dano material decorrente da responsabilidade da instituição financeira em face do consumidor, quando aferido pelas instâncias ordinárias, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 640.525, da Relatoria da Min. Cezar Peluso, DJe 31/8/2011, o qual possui a seguinte ementa:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Responsabilidade civil. Dano material. Relações contratuais e extracontratuais. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a responsabilidade de instituição financeira por dano material causado a consumidor, versa sobre tema infraconstitucional.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de junho de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
