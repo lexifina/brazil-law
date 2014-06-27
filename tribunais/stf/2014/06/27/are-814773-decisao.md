@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. MILITAR. ADICIONAL DE LOCAL DE EXERCÍCIO - ALE. LEIS COMPLEMENTARES ESTADUAIS N.º 689/1992, 994/1996 e 1.020/2007. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RE 731.333. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. O Adicional de Local de Serviço – ALE, quando sub judice a controvérsia sobre a incorporação aos vencimentos dos militares em atividade no Estado de São Paulo, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário virtual do STF, na análise do RE 731.333-RG, da Relatoria da Min. Teori Zavascki.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido que manteve a sentença de primeiro grau, a qual assentou que o Adicional de Local de Serviço – ALE, por ostentar caráter geral, deverá ser incorporado aos vencimentos dos militares.
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo ESTADO DE SÃO PAULO, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional contra acórdão que manteve a sentença de primeiro grau, a qual assentou que o Adicional de Local de Serviço – ALE, por possuir caráter geral, deverá ser incorporado aos vencimentos dos militares.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos arts. 2º, 5°, II, 37, X e XIV, 61, §1º, II, “a”, 98, I, 169, §1º, I e II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por não vislumbrar que não houve prequestionamento da questão constitucional, bem como o recorrente não demonstrou fundamentadamente a repercussão geral.
+    É o relatório. DECIDO.
+    O Adicional de Local de Serviço – ALE, quando sub judice a controvérsia sobre a incorporação aos vencimentos dos militares em atividade no Estado de São Paulo, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário virtual do STF, na análise do RE 731.333-RG, da Relatoria da Min. Teori Zavascki, conforme se verifica do seguinte trecho da manifestação:
+    “2. Não há matéria constitucional a ser analisada. Isso porque o Tribunal de origem decidiu a controvérsia acerca da possibilidade de incorporação do Adicional de Local de Exercício ao vencimento dos policiais militares do Estado de São Paulo tão somente a partir de interpretação e aplicação das normas infraconstitucionais pertinentes (Lei Complementar estadual 689/92 e Constituição do Estado de São Paulo). O Supremo Tribunal Federal já pacificou a orientação de que é inviável a apreciação, em recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, se houvesse, seria meramente indireta ou reflexa, uma vez que é imprescindível a análise de normas infraconstitucionais.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de junho de 2014.
+Ministro Luiz Fux
+Relator
+documento assinado digitalmente
