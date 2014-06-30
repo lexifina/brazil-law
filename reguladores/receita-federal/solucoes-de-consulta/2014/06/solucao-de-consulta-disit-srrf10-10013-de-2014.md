@@ -1,0 +1,12 @@
+Solução de Consulta Disit/SRRF10 nº 10013, de 9 de junho de 2014
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social – Cofins EMENTA: COFINS-IMPORTAÇÃO. ADICIONAL DE ALÍQUOTA. APURAÇÃO DE CRÉDITO. No regime de apuração não cumulativa da Cofins, o crédito relativo à importação de produtos, exceto aqueles referidos nos §§ 1º a 3º, 5º a 10, 17 e 19 do art. 8º da Lei nº 10.865, de 2004 e no art. 58-A da Lei nº 10.833, de 2003, deve ser apurado mediante a aplicação da alíquota padrão da Cofins (7,6%), nos termos do § 3º do art. 15 da Lei nº 10.865, de 2004, independentemente de a Cofins-Importação ter sido paga com a alíquota adicional de que trata o § 21 do art. 8º da Lei nº 10.865, de 2004. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 113, DE 22 DE ABRIL DE 2014. DISPOSITIVOS LEGAIS: Lei nº 10.865, de 2004, arts. 8º e 15. ASSUNTO: Processo Administrativo Fiscal EMENTA: CONSULTA SOBRE DISPOSITIVOS DA LEGISLAÇÃO TRIBUTÁRIA. É ineficaz a consulta na parte que versa acerca da constitucionalidade ou legalidade da legislação. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 113, DE 22 DE ABRIL DE 2014. DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 1.396, de 2013, art. 18, inciso VIII.
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: COFINS-IMPORTAÇÃO. ADICIONAL DE ALÍQUOTA. APURAÇÃO DE CRÉDITO.
+No regime de apuração não cumulativa da Cofins, o crédito relativo à importação de produtos, exceto aqueles referidos nos §§ 1º a 3º, 5º a 10, 17 e 19 do art. 8º da Lei nº 10.865, de 2004 e no art. 58-A da Lei nº 10.833, de 2003, deve ser apurado mediante a aplicação da alíquota padrão da Cofins (7,6%), nos termos do § 3º do art. 15 da Lei nº 10.865, de 2004, independentemente de a Cofins-Importação ter sido paga com a alíquota adicional de que trata o § 21 do art. 8º da Lei nº 10.865, de 2004.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 113, DE 22 DE ABRIL DE 2014.
+DISPOSITIVOS LEGAIS: Lei nº 10.865, de 2004, arts. 8º e 15.
+ASSUNTO: Processo Administrativo Fiscal
+EMENTA: CONSULTA SOBRE DISPOSITIVOS DA LEGISLAÇÃO TRIBUTÁRIA.
+É ineficaz a consulta na parte que versa acerca da constitucionalidade ou legalidade da legislação.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 113, DE 22 DE ABRIL DE 2014.
+DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 1.396, de 2013, art. 18, inciso VIII.
