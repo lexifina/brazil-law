@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 158, de 24 de junho de 2014
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: As pessoas jurídicas da Igreja Católica Romana que exerçam atividade social e educacional, sem finalidade lucrativa, receberão o mesmo tratamento e benefícios outorgados às entidades filantrópicas, inclusive no tocante aos requisitos e obrigações exigidos para fins de imunidade e isenção tributárias, desde que respeitados os requisitos legais. DISPOSITIVOS LEGAIS: Constituição Federal, art. 195, § 7º; Lei nº 8.212, de 1991, arts. 22 e 23; Lei nº 12.101, de 2009; Decreto Legislativo nº 698, de 2009; Decreto nº 7.107, de 2010, art. 15, § 1º; Decreto nº 7.237, de 2010.
+[arquivo anexo: SC Cosit 158-2014.pdf]
