@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 137, de 2 de junho de 2014
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: BASE DE CÁLCULO. FÉRIAS. INCIDÊNCIA. A remuneração de férias gozadas integra a base de cálculo da contribuição social previdenciária. As importâncias pagas a título de férias indenizadas e respectivo adicional constitucional não integram a base de cálculo da contribuição social previdenciária. DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, arts. 20, 22, inc. I e §2º, e 28, inc. I e § 9º, d; Decreto nº 3.048, de 1999, art. 214, § 14; e IN RFB nº 971, de 2009, arts. 52, inc. I, a, e III, i, e 58, inc. IV.
+[arquivo anexo: SC Cosit nº 137-2014.pdf]
