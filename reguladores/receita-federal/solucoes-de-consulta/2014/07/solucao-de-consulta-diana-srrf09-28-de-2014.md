@@ -1,0 +1,6 @@
+Solução de Consulta Diana/SRRF09 nº 28, de 29 de maio de 2014
+Assunto: Classificação de Mercadorias Código TIPI: 8443.39.90 Mercadoria: Máquina automática para estampar roupas por transferência térmica de uma imagem contida em papel “transfer”. A impressão se dá por prensagem da forma, aquecida eletricamente, sobre o papel transfer postado sobre a vestimenta a ser impressa. Dispositivos Legais: RGI/SH 1 (textos da posição 84.43) e 6 (texto das subposições 8443.3 e 8443.39) e RGC/SH nº 1 (texto do item 8443.39.90) da TIPI, aprovada pelo Decreto nº 7.660, de 2011, subsídios Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
+Assunto: Classificação de Mercadorias
+Código TIPI: 8443.39.90
+Mercadoria: Máquina automática para estampar roupas por transferência térmica de uma imagem contida em papel “transfer”. A impressão se dá por prensagem da forma, aquecida eletricamente, sobre o papel transfer postado sobre a vestimenta a ser impressa.
+Dispositivos Legais: RGI/SH 1 (textos da posição 84.43) e 6 (texto das subposições 8443.3 e 8443.39) e RGC/SH nº 1 (texto do item 8443.39.90) da TIPI, aprovada pelo Decreto nº 7.660, de 2011, subsídios Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008.
