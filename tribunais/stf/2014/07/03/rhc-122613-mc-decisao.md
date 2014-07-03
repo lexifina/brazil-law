@@ -1,0 +1,27 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto por MARCELO LEONARDO DE OLIVEIRA, RENILSON SHELIANO MOREIRA LIMA e GEILSON GOMES DA SILVA, por intermédio da Defensoria Pública Federal, contra ato do Superior Tribunal Militar nos autos do HC 40-04.2014.7.00.0000/BA.
+    Os recorrentes narram, inicialmente, que figuram como réus na Ação Penal Militar 50-96.2013.7.06.0006/BA, que tramita na Auditoria da 6ª Circunscrição Judiciária Militar, pela suposta prática do crime de dormir em serviço – art. 203 do CPM.
+    Dizem que, após recebida a denúncia, o juízo de primeiro grau “determinou de imediato a realização do interrogatório (...), antes mesmo da oitiva das testemunhas de acusação de defesa” (fl. 161).
+    Inconformada com a inversão processual, a defesa impetrou habeas corpus no STM, mas o Tribunal denegou a ordem.
+    É contra essa decisão que se insurgem os recorrentes.
+    Alegam, em suma, que devem ser aplicadas, ao caso concreto, as alterações previstas na Lei 11.719/2008 ao Código de Processo Penal, que determinou, em seu art. 400, que o interrogatório fosse realizado como último ato da instrução criminal.
+    Sustentam, assim, que, aplicar, na espécie, as disposições do art. 302 do Código de Processo Penal Militar, fere o devido processo legal.
+    Requerem, ao final, liminarmente, a suspensão dos efeitos da decisão proferida na Ação Penal Militar 50-96.2013.7.06.0006/BA. No mérito, pedem o provimento do recurso para que se proceda a novo interrogatório dos acusados depois de concluída a instrução do processo.
+    É o relatório suficiente. Decido.
+    Bem examinados os autos, tenho que o caso é de deferimento do pleito de urgência.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por presentes tais requisitos.
+    É que, de fato, há plausibilidade jurídica no pedido, uma vez que este Tribunal possui orientação no sentido de que o art. 400, do Código de Processo Penal, alterado pela Lei 11.719/2008, se aplica aos delitos disciplinados pela legislação especial. Assim, a decisão do Superior Tribunal Militar parece divergir do entendimento desta Corte. Cito, a propósito, a ementa do RHC 119.188, Rel. Min. Luiz Fux:
+    “PROCESSUAL PENAL MILITAR. RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO – ART. 251 DO CÓDIGO PENAL MILITAR. INTERROGATÓRIO NO ÂMBITO DA JUSTIÇA MILITAR. ATO A SER REALIZADO AO FINAL DA INSTRUÇÃO CRIMINAL. NÃO INCIDÊNCIA DO PRINCÍPIO DA ESPECIALIDADE. APLICAÇÃO DA LEI Nº 11.719/2008, QUE DEU NOVA REDAÇÃO AO ART. 400 DO CPP. MÁXIMA EFETIVIDADE DO CONTRADITÓRIO E DA AMPLA DEFESA (CF, ART. 5º, LV). PRECEDENTE DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (AÇÃO PENAL Nº 528, PLENÁRIO), QUE DETERMINOU A APLICAÇÃO DO NOVO RITO AOS PROCESSOS REGIDOS PELA LEI ESPECIAL Nº 8.038/90. UBI EADEM RATIO IBI IDEM JUS. ORDEM CONCEDIDA.
+    1. O art. 400 do Código de Processo Penal, com a redação dada pela Lei nº 11.719/2008, fixou o interrogatório do réu como ato derradeiro da instrução penal, prestigiando a máxima efetividade das garantias constitucionais do contraditório e da ampla defesa (CRFB, art. 5º, LV), dimensões elementares do devido processo legal (CRFB, art. 5º LIV) e cânones essenciais do Estado Democrático de Direito (CRFB, art. 1º, caput), por isso que a nova regra do Código de Processo Penal comum também deve ser observada no processo penal militar, em detrimento da norma específica prevista no art. 302 do Decreto-Lei nº 1.002/69, conforme precedente firmado pelo Pleno do Supremo Tribunal Federal nos autos da Ação Penal nº 528 AgR, rel. Min. Ricardo Lewandowski, j. Em 24/03/2011, DJe-109 divulg. 07-06-2011, impondo a observância do novo preceito modificador em relação aos processos regidos pela Lei Especial nº 8.038/90, providência que se impõe seja estendida à Justiça Penal Militar, posto que ubi eadem ratio ibi idem jus.
+    2. Em situação idêntica à sub examine, a Primeira Turma desta Corte deferiu os HCs 115.530 e 115.698, rel. Min. Luiz Fux, DJe de 14/08/2012, para determinar ao Superior Tribunal Militar a realização do interrogatório após o término da instrução criminal.
+    3. In casu, o paciente foi processado pela prática do crime de estelionato, tipificado no art. 251, do Código Penal Militar, e teve indeferido pleito no sentido de ser interrogado ao final da instrução processual.
+    4. Recurso em habeas corpus provido para determinar a realização de novo interrogatório do recorrente, após o término da instrução criminal, à luz da Lei nº 11.719/2008, que deu nova redação ao art. 400 do Código de Processo Penal”
+    Veja-se, ainda, o HC 122.673/PA, Rel. Min. Cármen Lúcia.
+    Do mesmo modo, o perigo da demora também está presente, pois, com a denegação da ordem ao writ ajuizado no STM, a ação penal a que respondem os recorrentes continua em trâmite, o que pode ensejar violação ao princípio constitucional do devido processo legal.
+    Isso posto, defiro a liminar pleiteada para determinar a suspensão da Ação Penal Militar 50-96.2013.7.06.0006/BA da Auditoria da 6ª Circunscrição Judiciária Militar até o julgamento definitivo deste recurso ordinário em habeas corpus.
+    Bem instruídos os autos, ouça-se o Procurador-Geral da República.
+    Comunique-se.
+    Publique-se.
+    Brasília, 3 de julho de 2014.
+Ministro Ricardo Lewandowski
+Relator
+Documento assinado digitalmente
