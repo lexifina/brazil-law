@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 161, de 24 de junho de 2014
+ASSUNTO: Imposto sobre a Renda Retido na Fonte – IRRF EMENTA: IMPORTÂNCIAS PAGAS OU CREDITADAS POR PESSOA JURÍDICA A OUTRA PESSOA JURÍDICA. DISPENSA DE RETENÇÃO. A dispensa de retenção de imposto de renda na fonte, prevista no art. 67 da Lei nº 9.430, de 1996, aplica-se a cada pagamento ou crédito realizado pela pessoa jurídica a outra pessoa jurídica, levando-se em consideração o total pago ou creditado nessa ocasião, ainda que se refira a mais de um documento fiscal. DISPOSITIVOS LEGAIS: Lei nº 9.430, de 1996, art. 67; ADN Cosit nº 15, de 1997.
+[arquivo anexo: SC Cosit nº 161-2014.pdf]
