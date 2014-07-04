@@ -1,0 +1,2 @@
+## Disposições Transitórias
+Artigo 1º - Até que seja editado o decreto a que aludem os §§ 1º e 3º do artigo 2º da Lei nº 8.975, de 25 de novembro de 1994, com nova redação dada pelo artigo 2º da Lei nº 9.463, de 19 de dezembro de 1996, pela alínea "a" do inciso I do artigo 7º desta lei complementar, permanecem vigentes as bases, os termos e as condições atuais para a concessão do Prêmio de Incentivo.
