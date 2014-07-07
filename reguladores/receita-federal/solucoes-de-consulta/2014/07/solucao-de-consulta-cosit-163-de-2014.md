@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 163, de 25 de junho de 2014
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica – IRPJ EMENTA: IMÓVEL RURAL. GANHO DE CAPITAL. LAVRA DE MINÉRIOS. REMUNERAÇÃO. ROYALTIES. O pagamento ao ex-proprietário do imóvel onde localizada a jazida, de parcela da receita obtida com a lavra de recursos minerais, em virtude de obrigação estabelecida no contrato de compra e venda do imóvel, tem natureza de royalties. DISPOSITIVOS LEGAIS: Constituição Federal, art. 176, § 2º; Lei nº 4.506, de 1964, arts. 22 e 23; Lei nº 10.406, de 2002 (Código Civil), arts. 481, 486 e 487; RIR/1999, arts. 52 e 53; Instrução Normativa SRF nº 84, de 2001, arts. 2º e 19.
+[arquivo anexo: SC Cosit nº 163-2014.pdf]
