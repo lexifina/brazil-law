@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 189, de 27 de junho de 2014
+ASSUNTO: Normas de Administração Tributária EMENTA: SOCIEDADE EM CONTA DE PARTICIPAÇÃO. ASSOCIAÇÃO ENTRE EMPRESA HOTELEIRA E PROPRIETÁRIO DE UNIDADES IMOBILIÁRIAS. ATO DECLARATÓRIO INTERPRETATIVO SRF Nº 14, DE 2004. O Ato Declaratório Interpretativo SRF nº 14, de 4 de maio de 2004, que dispõe sobre a tributação das atividades do sistema de locação conjunta de unidades imobiliárias denominado de pool hoteleiro, aplica-se inclusive na hipótese em que as unidades imobiliárias tenham um único proprietário, pessoa física ou jurídica. DISPOSITIVOS LEGAIS: Código Civil (Lei nº 10.406, de 2002), arts. 981 e 991 a 996; Ato Declaratório Interpretativo SRF nº 14, de 2004.
+[arquivo anexo: SC Cosit nº 189-2014.pdf]
