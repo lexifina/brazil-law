@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário eleitoral interposto de acórdão do Tribunal Superior Eleitoral, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL. RECURSO ESPECIAL ELEITORAL. PROPAGANDA ELEITORAL ANTECIPADA. CONFIGURAÇÃO. PRÉVIO CONHECIMENTO. REEXAME DE PROVAS. SÚMULAS N.º 7/STJ E 279/STF. DESPROVIMENTO.
+    1. No caso, as premissas fáticas fixadas pelo acórdão recorrido – menção expressa à pré-candidatura de Larissa Rosado e apoio de pessoas e partidos a essa candidatura – são suficientes para a configuração de propaganda eleitoral extemporânea, uma vez presente o esforço antecipado de influenciar eleitores, o que ocorre em havendo menção à eleição, à candidatura e ao apoio político. Precedente.
+    2. A conclusão sobre o prévio conhecimento do beneficiário da propaganda eleitoral pode decorrer das peculiaridades do caso e a revisão das conclusões do acórdão recorrido a respeito desse tema demanda reexame de fatos e provas, vedado pelas Súmulas n.º 7/STJ e 279/STF. Precedente.
+    3. Agravo regimental desprovido” (fl. 461).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação aos arts. 5º, LIV, LV e 220 da mesma Carta Magna.
+    A pretensão recursal não merece acolhida.
+    A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Ademais, o Tribunal Superior Eleitoral decidiu a controvérsia posta nos autos com base na legislação infraconstitucional aplicável à espécie (Lei 9.504/97 e Lei 12.034/09). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 477.045-AgR/SE, AI 447.886-AgR/GO e AI 560.253-AgR/RJ, Rel. Min. Gilmar Mendes; AI 345.911-ED/RJ, Rel. Min. Moreira Alves; AI 581.555-ED-AgR/RJ, Rel. Min. Cezar Peluso.
+    Por fim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, quanto ao conteúdo da propaganda e seus beneficiários, bem como a aplicação de multa, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 7 de julho de 2014.
+Ministro Ricardo Lewandowski
+Relator
