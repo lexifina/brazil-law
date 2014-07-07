@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL. IMPENHORABILIDADE. ESTABELECIMENTO COMERCIAL. ENCERRAMENTO DAS ATIVIDADES EMPRESARIAIS. EXCESSO DE PENHORA. ÚNICO BEM.
+    1. Na esteira da Súmula 451 do Superior Tribunal de Justiça, não há de se falar em impenhorabilidade do estabelecimento comercial, sobretudo se comprovado que a empresa embargante encerrou suas atividades.
+    2. Não é cabível a alegação de excesso de penhora quando o executado não possui outro bem para satisfação do crédito, circunstância agravada ainda pela coexistência de outras restrições judiciais sobre o bem penhorado” (página 1 do documento eletrônico 23).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação aos arts. 5º, LV e 93, IX, da mesma Carta Magna.
+    A pretensão recursal não merece acolhida.
+    Isso porque o recorrente, na petição do recurso extraordinário, não demonstrou em preliminar a existência de repercussão geral das questões constitucionais discutidas no caso, consoante determinam o art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e o art. 327, § 1º, do RISTF. Este Tribunal, ao julgar a Questão de Ordem no AI 664.567/RS, Rel. Min. Sepúlveda Pertence, assim decidiu:
+    “A exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007”.
+    Ademais, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Registre-se, ainda, que a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu.
+    Por fim, verifico que o tribunal de origem decidiu a controvérsia posta nos autos com base na legislação infraconstitucional aplicável à espécie (Código de Processo Civil). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 477.045-AgR/SE, AI 447.886-AgR/GO e AI 560.253-AgR/RJ, Rel. Min. Gilmar Mendes; AI 345.911-ED/RJ, Rel. Min. Moreira Alves; AI 581.555-ED-AgR/RJ, Rel. Min. Cezar Peluso.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 7 de julho de 2014.
+Ministro Ricardo Lewandowski
+Relator
