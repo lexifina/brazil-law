@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1479, de 7 de julho de 2014
+Altera a Instrução Normativa SRF nº 102, de 20 de dezembro de 1994, que disciplina os procedimentos de controle aduaneiro de carga aérea procedente do exterior e de carga em trânsito pelo território aduaneiro.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 2° e 3° do Decreto n° 6.641, de 10 de novembro de 2008, e nos arts. 31 a 33, e 41 a 53 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
