@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário interposto contra acórdão que manteve sentença assim fundamentada:
+    “O(a) autor(a) requer repetição de indébito, entendendo não ser passível de tributação parte dos rendimentos percebidos de seu plano de previdência privada (PREVI), especialmente o chamado Benefício Especial Temporário - BET, pois tal valor estaria sendo tributado na fonte e também no momento da distribuição do superávit técnico auferido pela entidade.
+    Relatados. Decido.
+    Não merece acolhida a ação.
+    1. Como informou a Previ, nos autos da ação n. 2011.71.50.013006-3, de Porto Alegre, ‘os valores utilizados para pagamento do BET são decorrentes do resultado superavitário do Plano de Benefícios 1. Referido superávit possui natureza conjuntural (...). Observa-se que o resultado superavitário das Entidades Fechadas de Previdência Complementar possui tratamento definido no art. 20 da Lei Complementar 109, de 29.05.2001. Não se trata, portanto, de valores oriundos de fundos de contribuição nem de ganho de capital.
+    A legislação (Lei n. 7. 713/89) prevê: (...).
+    Ou seja, no momento do pagamento do crédito ao beneficiário, as importâncias pagas ou creditadas a pessoas físicas deverá haver a retenção do imposto.
+    2. Ademais, o superávit conseguido pela entidade de Previdência Privada em aplicações financeiras não é tributado, como se vê na Lei n. 11.053/2004, inexistindo bitributação: (...).
+    3. Dou por prejudicados os demais argumentos dos litigantes, pois desnecessário que sejam analisadas todas as teses discutidas, se os fundamentos declinados no ‘decisum’ bastam para solucionar a lide. Neste sentido: 'Não está o Juiz obrigado a examinar, um a um, os pretensos fundamentos das partes, nem todas as alegações que produzem: o importante é que indique o fundamento suficiente de sua conclusão, que lhe apoiou a convicção no decidir’ (RE n. 97.558-6/GO, STF, Rel. Ministro Oscar Corrêa, DJ/I de 23.5.1984).
+    DISPOSITIVO:
+    Ante o exposto, rejeito o pedido (art. 269, I, CPC)” (páginas 1-2 do documento eletrônico 27).
+    Neste RE, fundado no art. 102, III, d, da Constituição, alega-se, em síntese, que “o art. 5º da Lei 11.053/2004 é totalmente inconstitucional haja vista que vai contra o disposto na Constituição Federal, conforme demonstrado através das decisões dos Tribunais Superiores e da Súmula 730 do Supremo Tribunal Federal” (página 19 do documento eletrônico 53).
+    A pretensão recursal não merece acolhida.
+    É incabível o presente recurso com base na alínea d do inc. III do art. 102 da Constituição Federal, pois, a análise do extraordinário interposto com fundamento no dispositivo apontado depende da demonstração de conflito de competência legislativa entre entes da Federação, sendo imprestável, portanto, quando há mera pretensão de revisão de interpretação dada a norma infraconstitucional, como se dá na espécie. Nesse sentido, destaco o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. TRANSPORTE PÚBLICO COLETIVO URBANO. GRATUIDADE A IDOSOS. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NAS ALÍNEAS ‘A’, ‘C’ E ‘D’ DO INCISO III DO ART. 102 DA CONSTITUIÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO APELO EXTREMO. SÚMULA 284 DO STF. INOCORRÊNCIA DE CONFLITO DE COMPETÊNCIA LEGISLATIVA. AGRAVO A QUE SE NEGA PROVIMENTO. I - É deficiente a fundamentação do recurso que não particulariza de que forma ocorreu a alegada ofensa à Constituição. Incidência da Súmula 284 do STF. II - A admissão do recurso extraordinário pela alínea ‘d’ do inciso III do art. 102 da Constituição Federal pressupõe a ocorrência de conflito de competência legislativa entre os entes da Federação. Dessa forma, é incabível o apelo extremo, fundado no aludido dispositivo, cuja pretensão seja provocar o reexame da interpretação de norma infraconstitucional conferida pelo Juízo de origem. III - Agravo regimental a que se nega provimento” (AI 833.240-AgR/RO, de minha relatoria - grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de julho de 2014.
+Ministro RICARDO LEWANDOWSKI
+Relator
