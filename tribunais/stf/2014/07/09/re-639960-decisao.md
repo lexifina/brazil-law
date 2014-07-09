@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “Apelação Cível. Ação Anulatória. Professora da rede estadual. Pedido de cancelamento de anotação de faltas injustificadas durante greve realizada no ano de 2000. Inadmissibilidade. Direito de greve, assegurado pela Constituição federal, que, no entanto, carece de regulamentação. Resolução SE n. 61/2000 que disciplinou apenas o cumprimento da carga letiva. Precedentes. Sentença mantida. Recurso improvido” (fl. 117).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 37, VII, da mesma Carta.
+    A pretensão recursal merece parcial acolhida.
+    Ao analisar os Mandados de Injunção 670/ES, 708/DF e 712/PA, o Plenário desta Corte, viabilizou os meios necessários ao exercício do direito de greve constitucionalmente assegurado aos servidores públicos, determinando, com eficácia erga omnes, que a omissão legislativa então impugnada deveria ser suprida, até a regulamentação da matéria, mediante a aplicação integrativa, no que couber, das Leis 7.701/1988 e 7.783/1989 a todos os conflitos e ações judiciais que tratarem do exercício do direito de greve pelos servidores públicos das três esferas da Federação.
+    No presente caso, todavia, a decisão colegiada ora em exame entendeu que o exercício do direito de greve pelos servidores públicos carece de regulamentação e “quando mais não fosse, porque não assiste ao servidor público direito líquido e certo de faltar para participar de movimento grevista”. O tribunal de origem cita ainda, no acórdão recorrido, precedentes já superados pelo STF, no sentido de que o direito de greve dos servidores público dependeria da edição de Lei Complementar (MI 20/DF, Rel. Min. Celso de Mello e MI 485/MT, Rel Min. Maurício Corrêa).
+    Isso posto, dou parcial provimento ao recurso (CPC, art. 557, § 1º-A) para que o tribunal de origem reexamine a apelação interposta pela recorrente, observando a aplicação da legislação pertinente, nos termos do que decidido pelo Supremo Tribunal Federal nos Mandados de Injunção 670/ES, 708/DF e 712/PA.
+    Publique-se.
+    Brasília, 9 de julho de 2014.
+     Ministro RICARDO LEWANDOWSKI
+     - Relator -
