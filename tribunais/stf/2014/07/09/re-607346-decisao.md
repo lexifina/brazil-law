@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão, cujo ementa transcrevo abaixo:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO JUDICIAL. REAJUSTE DE 28,86%. DESCONTOS PREVIDENCIÁRIOS. Permitida a liberação do precatório sem qualquer desconto a título de contribuição previdenciária” (fl. 95).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, aponta-se violação ao art. 40 do texto constitucional.
+    Nas razões recursais, aduz-se o seguinte:
+    “a exigência da contribuição previdenciária no juízo executório decorre de imperativo de ordem pública. A lei ordena a retenção, não sendo razoável exigir-se prévia autorização judicial para o recolhimento legal de tributos que incidem quando do pagamento das verbas devidas aos servidores inativos e pensionistas” (fl. 125).
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    A matéria debatida pelo tribunal de origem atinente à retenção de contribuição previdenciária por ocasião do levantamento dos valores depositados em execução judicial restringe-se ao âmbito infraconstitucional. O novo exame da decisão impugnada exigiria, portanto, a análise prévia da legislação infraconstitucional aplicada à espécie (Lei 10.887/04). A eventual ofensa à Constituição Federal, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 636 do Supremo Tribunal Federal.
+    Nesse sentido, destaco a seguinte decisão monocrática prolatada pelo Min. Dias Toffoli no ARE 770.147, Rel. Min. Dias Toffoli, DJe 6.11.2013:
+    “A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que esses pontos não foram objeto dos acórdãos recorridos. Incidência da Súmula n° 282 desta Corte. Anote-se que o fato de a recorrente ter trazido a questão constitucional no bojo dos embargos de declaração não é bastante para suprir o requisito do prequestionamento, a teor da Súmula nº 356/STF. Ocorre que, não obstante a oposição dos embargos, o recurso inominado não suscitou a referida questão constitucional, hipótese em que já não se prestam os embargos declaratórios opostos contra o acórdão da turma recursal a suscitá-la pela primeira vez. Mesmo que assim não fosse, verifico que para ultrapassar o entendimento fixado no acórdão recorrido e acolher a pretensão da recorrente, seria necessário o prévio exame das normas infraconstitucionais aplicáveis na espécie, o que configuraria, quando muito, ofensa indireta ou reflexa ao texto constitucional. É o que se extrai de parte do voto condutor do acórdão recorrido: ‘Adentrando-se no mérito recursal propriamente dito, caso em tela consiste em se aferir a legalidade ou não da retenção de 11% (onze por cento) do valor requisitado em processo judicial, a título de contribuição ao Plano de Seguridade do Servidor Público- PSS.
+     (…)
+    Observa-se que, no caso de servidores inativos, tendo em vista que o momento da tributação é o do recebimento do valor devido, cuida-se de hipótese de nova contribuição, devendo, por essa razão, ser efetuado o recolhimento da contribuição social sobre as parcelas recebidas por força de decisão judicial, nos termos do art. 16-A da Lei 10.887/2004, com observação das bases de cálculo dos arts. 5º e 6º da referida lei.
+    (…)
+    Conforme os cálculos do Contador Judicial, verifica-se que a parte autora, de fato, detinha isenção da contribuição previdenciária sobre seus proventos, sendo certo que a incidência do pss se revelou indevida’. (Não grifado no original). Ante o exposto, conheço do agravo e nego seguimento ao recurso extraordinário”.
+    No mesmo sentido, destaco os seguintes precedentes:
+    “Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento”.
+    (AI 745.965-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 26.6.2011).
+     “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE E DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE EXAME PRÉVIO DE NORMAS INFRACONSTITUCIONAIS. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    (RE 631.736-ED, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.4.2011).
+     “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.5.2009).
+    Ante o exposto, nego seguimento ao recurso(arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 9 de julho de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
