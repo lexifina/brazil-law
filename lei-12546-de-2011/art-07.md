@@ -1,4 +1,4 @@
-Art. 7º Até 31 de dezembro de 2014, contribuirão sobre o valor da receita bruta, excluídas as vendas canceladas e os descontos incondicionais concedidos, em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei nº 8.212, de 24 de julho de 1991, à alíquota de 2% (dois por cento):
+Art. 7º Contribuirão sobre o valor da receita bruta, excluídas as vendas canceladas e os descontos incondicionais concedidos, em substituição às contribuições previstas nos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991, à alíquota de dois por cento:
 I - as empresas que prestam os serviços referidos nos §§ 4º e 5º do art. 14 da Lei nº 11.774, de 17 de setembro de 2008;
 II - as empresas do setor hoteleiro enquadradas na subclasse 5510-8/01 da Classificação Nacional de Atividades Econômicas - CNAE 2.0;
 III - as empresas de transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal, intermunicipal em região metropolitana, intermunicipal, interestadual e internacional enquadradas nas classes 4921-3 e 4922-1 da CNAE 2.0.
