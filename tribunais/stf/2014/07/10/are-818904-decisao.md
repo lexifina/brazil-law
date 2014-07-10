@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO – SERVIDOR PÚBLICO MUNICIPAL – ELEVAÇÃO ESTIPENDIAL DO CARGO COMISSIONADO QUE SERVIU DE PARÂMETRO PARA O PAGAMENTO DA VANTAGEM INCORPORADA AOS VENCIMENTOS – REAJUSTE A TÍTULO DE ISONOMIA – IMPOSSIBILIDADE VEDAÇÃO DA SÚMULA 339 DO STF
+    1 É inquestionável o direito adquirido do servidor de continuar percebendo os valores incorporados aos seus vencimentos em razão do exercício de cargo comissionado. Porém, se os cargos ou funções de confiança anteriores e que serviram de paradigma foram extintos ou se os servidores não mais o exercem, extinto também o vínculo comparativo.
+    2 A extensão ao servidor, com base no princípio da isonomia, dos vencimentos do novo cargo tido como correspondente ao que deixou de existir, afronta os termos da Súmula n. 339 do STF e ofende os princípios constitucionais da separação dos Poderes, da não vinculação estipendial e da legalidade na fixação de vencimentos”.
+    A pretensão recursal não merece acolhida. Observe-se que o artigo 39, §1°, I, II e III, da Lei Maior, apontado como violado, não foi prequestionado. Como tem consignado o Tribunal, de acordo com a Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido” (RE 363.743AgR/DF, Rel. Min. Ellen Gracie).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de julho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
