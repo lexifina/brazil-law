@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, mediante o qual foi julgado improcedente o pleito de declaração de inconstitucionalidade da Resolução 16/2010, da Câmara Municipal, que instituiu, no âmbito daquela Casa, “o espaço cidadão para atendimento ao público em geral”. A ementa do aresto recorrido, no ponto, está assim redigida (fl. 162):
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – Resolução nº 16/2010, da Câmara Municipal de Rosana – Inadequação da via eleita – Inocorrência – Lei de efeitos concretos – Não caracterização – Preliminar rejeitada.
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE – Resolução nº 16/2010, da Câmara Municipal de Rosana – Criação de espaço cidadão – Violação do princípio da independência e harmonia entre os poderes – Não caracterização – Compete exclusivamente à Câmara Municipal organizar seus serviços através de resolução – Assunto interna corporis – Observância dos princípios orçamentários constitucionais – Despesas necessárias à instalação e funcionamento do novo serviço sairão do orçamento da Câmara – Ação improcedente”.
+    No recurso extraordinário, fundamentado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 2º e 37, II, da mesma Carta.
+    Preliminarmente, evidencio não estar prequestionada a alegação de ofensa ao art. 37, II, da Constituição. Incide o óbice das Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Quanto ao tema de fundo, relacionado com a suposta ofensa ao princípio da separação dos poderes, destaco os fundamentos adotados pelo Tribunal de origem, in verbis:
+    “(...) a resolução em análise dispõe sobre assunto interna corporis, pois reserva espaço no prédio da Câmara Municipal para atendimento ao público, para 'encaminhamento e auxílio a setores públicos em que o cidadão tiver a necessidade de acesso' (art. 3º, fls. 136).
+    Assim, como não há no serviço criado previsão de realização de atividades pelo Poder Executivo, não se pode falar em violação ao princípio da separação de poderes.
+    Por outras palavras, ainda que a função primordial da Câmara Municipal não seja de atendimento ao público, nem por isso está configurada a quebra do princípio da separação dos poderes, pois a resolução em questão não prevê qualquer ato de gestão da Prefeitura Municipal”.
+    Esse entendimento está em consonância com a jurisprudência desta Corte, como se infere do seguinte precedente:
+    “Constitucional. Mandado de Segurança. Atos do Poder Legislativo. Controle judicial. Ato interna corporis. Matéria regimental.
+    I – Se a controvérsia é puramente regimental, resultante de interpretação de normas regimentais, trata-se de ato interna corporis, imune ao controle judicial, mesmo porque não há alegação de ofensa a direito subjetivo.
+    II – Mandado de segurança não conhecido”
+    (MS 24.356/DF, Rel. Min. Carlos Velloso).
+     Ademais, a controvérsia foi dirimida a partir da interpretação da Constituição Estadual – norma de direito local (Súmula 280) – e à luz dos fatos jurídicos imbricados no ato de criação do denominado “espaço cidadão”. Desse modo, a violação à Constituição, se houvesse, seria indireta, o que não autoriza a admissão do recurso, conforme entendimento assente no Supremo Tribunal Federal, in verbis:
+    “Na admissibilidade do recurso extraordinário, exige-se, também, haja ofensa direta, pela decisão recorrida, à norma constitucional, não podendo essa vulneração verificar-se, por via oblíqua, ou em decorrência de violação a norma infraconstitucional. Não é bastante fundamentar o apelo extremo em alegação de ofensa a preceito constitucional, como consequência de contrariedade à lei ordinária. Se para demonstrar violência à Constituição é mister, por primeiro, ver reconhecida violação a norma ordinária, é esta última o que conta, não se cuidando, pois, de contrariedade direta e imediata à Lei Magna, qual deve ocorrer com vistas a admitir recurso extraordinário, ut art. 102, III, do Estatuto Supremo” (AI 203.077/SP, Rel. Min. Néri da Silveira).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de julho de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
