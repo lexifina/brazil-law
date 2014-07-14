@@ -1,0 +1,25 @@
+Trata-se de recurso extraordinário, fundamentado no art. 102, III, a, da Constituição Federal, interposto pelo Município de Rio Verde e pelo Ministério Público Estadual, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, no qual se alegou ofensa aos arts. 3º, 30, II e VIII; 170, III; e 225 da mesma Carta. Eis a ementa do aresto impugnado:
+    “Ação Direta de Inconstitucionalidade. Lei municipal. Limitação do plantio de cana-de-açúcar a 10% da área agricultável do município. Invasão de competência legislativa privativa da União – Art. 22, I, CF. Ofensa à Constituição estadual, art. 63.
+    I – Comparece à hipótese vertente o problema do discernimento do interesse predominante na fixação da repartição das competências legislativas entre os entes federados. Certo que o município de Rio Verde tem interesse em limitar a área rural passível de plantação de cana-de-açúcar, especialmente como forma de assegurar manutenção dos elevados índices de desenvolvimento que a economia graneleira já instalada na comum tem proporcionado. Entretanto, por se tratar de assunto de repercussão geopolítica e estratégica mais ampla, mormente com a anunciada falência da matriz energética global baseada nos combustíveis fósseis, e a assunção pelo Brasil de liderança no mercado internacional de biocombustíveis, com destaque para o etanol, conclui-se pela predominância do interesse nacional.
+    II – A limitação ao direito de propriedade inserida na lei municipal é de competência privativa da União Federal, ex vi do que dispõe o artigo 22, inciso I, da Carta da República.
+    III – As hipóteses de competência legislativa do município contempladas no artigo 64 da Constituição Estadual não abarcam a restrição constante do dispositivo questionado.
+    IV – Inconstitucionalidade formal reconhecida. Ação direta procedente” (fls. 346-347).
+    Preliminarmente, ressalto a ilegitimidade do Município de Rio Verde/GO para recorrer de decisão proferida em ação direta de inconstitucionalidade estadual, tendo em consideração precedente análogo desta Corte na ADI (AgR) 2.130/SC, Relator Min. Celso de Mello, in verbis:
+    “Ementa: (…) O ESTADO-MEMBRO NÃO POSSUI LEGITMIDADADE PARA RECORRER EM SE DE CONTROLE NORMATIVO ABSTRATO.
+    - O Estado-membro não dispõe de legitimidade para interpor recurso em sede de controle normativo abstrato, ainda que a ação direta de inconstitucionalidade tenha sido ajuizada pelo respectivo Governador, a quem assiste a prerrogativa legal de recorrer contra as decisões proferidas pelo Relator da causa (Lei nº 9.868/99, art. 4º, parágrafo único) ou, excepcionalmente, contra aquelas emanadas do próprio Plenário do Supremo Tribunal Federal (Lei nº 9.868, art. 26)”.
+    Remanesce para exame o extraordinário interposto pelo Ministério Público do Estado de Goiás. Contudo, o recurso não merece prosperar, haja vista o entendimento desta Corte no sentido de que “à União Federal compete regular o direito de propriedade e estabelecer as regras substantivas de intervenção no domínio econômico, e aos outros níveis de governo apenas o policiamento administrativo do uso da propriedade e da atividade econômica dos particulares, tendo em vista, sempre, as normas substantivas editadas pela União” (CF, art. 22, I), à qual compete legislar sobre direito civil (ADI 1918/ES, Rel. Min. Maurício Corrêa). Também nessa senda são os seguintes precedentes:
+    “Ação Direta de Inconstitucionalidade. Art. 1º da Lei nº 1.094/96, do Distrito Federal. Alegada violação aos arts. 5º, XXII; e 22, I, da Constituição Federal.
+    Norma que, dispondo sobre o direito de propriedade, regula matéria de direito civil, caracterizando evidente invasão de competência legislativa da União. Precedentes.
+    Ação direta julgada procedente (...)”.
+    (ADI 1.472/DF, Rel. Min. Ilmar Galvão)
+    “Ação Direta de Inconstitucionalidade. Lei Estadual. Proibição de plantio de eucalipto para fins de produção de celulose. Discriminação. Impossibilidade. Afronta aos postulados da isonomia e da razoabilidade. Direito de propriedade. Tema de direito civil. Competência privativa da União.
+    1. Vedação de plantio de eucalipto no Estado do Espírito Santo, exclusivamente quando destinado à produção de celulose. Ausência de intenção de controle ambiental. Discriminação entre os produtores rurais apenas em face da destinação final do produto da cultura, sem qualquer razão de ordem lógica para tanto. Afronta ao princípio da isonomia.
+    2. Direito de propriedade. Garantia constitucional. Restrição sem justo motivo. Desvirtuamento dos reais objetivos da função legislativa. Caracterizada a violação ao postulado da proporcionalidade.
+    3. Norma que regula direito de propriedade. Direito civil. Competência privativa da União para legislar sobre o tema (CF, artigo 22, I). Precedentes.
+    (...)”.
+    (ADI-MC 2.623/ES, Rel. Min. Maurício Corrêa).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557)
+    Publique-se.
+    Brasília, 14 de julho de 2014.
+Ministro Ricardo Lewandowski
+- Relator -
