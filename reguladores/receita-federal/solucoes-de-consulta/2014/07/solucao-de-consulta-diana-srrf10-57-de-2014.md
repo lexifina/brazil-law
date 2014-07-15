@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 57, de 28 de maio de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 8436.80.00 Mercadoria: Bebedouro automático para suínos, de aço inoxidável, de formato tubular, acionado pela boca do animal, devendo ser fixado em suporte intermediário ligado à rede de abastecimento de água, denominado comercialmente “Bebedouro bola de mordida (bite ball)” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.36) e 6 (texto da subposição 8436.80) da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 8436.80.00 Mercadoria: Bebedouro automático para suínos, de aço inoxidável, de formato tubular, acionado pela boca do animal, devendo ser fixado em suporte intermediário ligado à rede de abastecimento de água, denominado comercialmente “Bebedouro bola de mordida (bite ball)”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.36) e 6 (texto da subposição 8436.80) da TEC aprovada pela Resolução Camex nº 94, de 2011
