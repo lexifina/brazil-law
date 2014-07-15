@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 32, de 17 de março de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 5903.10.00 Mercadoria: Tecido de fios de poliéster (54 %) uniformemente impregnado com poli(cloreto de vinila) (PVC) (plástico) (46 %), de gramatura aproximada de 260 g/m², próprio para impressão (comunicação visual), comercialmente denominado "Policanvas" DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 do Capítulo 59 e texto da posição 59.03) e 6 (texto da subposição 5903.10), da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 5903.10.00 Mercadoria: Tecido de fios de poliéster (54 %) uniformemente impregnado com poli(cloreto de vinila) (PVC) (plástico) (46 %), de gramatura aproximada de 260 g/m², próprio para impressão (comunicação visual), comercialmente denominado "Policanvas"
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 do Capítulo 59 e texto da posição 59.03) e 6 (texto da subposição 5903.10), da TEC aprovada pela Resolução Camex nº 94, de 2011
