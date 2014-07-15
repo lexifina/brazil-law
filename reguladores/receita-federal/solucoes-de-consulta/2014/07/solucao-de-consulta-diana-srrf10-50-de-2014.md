@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 50, de 30 de abril de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 9405.40.90 Mercadoria: Módulo retangular de plástico (68,5mm x 19,5mm x 5,7mm) contendo 3 LEDs (diodos emissores de luz), próprio para utilização na iluminação de painéis publicitários, iluminação automotiva e decorações, constituído basicamente por placa de circuito impresso, LEDs, resistores, diodos e fios elétricos DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.05) e 6 (texto da subposição 9405.40), e RGC 1 (texto do item 9405.40.90), da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 9405.40.90 Mercadoria: Módulo retangular de plástico (68,5mm x 19,5mm x 5,7mm) contendo 3 LEDs (diodos emissores de luz), próprio para utilização na iluminação de painéis publicitários, iluminação automotiva e decorações, constituído basicamente por placa de circuito impresso, LEDs, resistores, diodos e fios elétricos
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.05) e 6 (texto da subposição 9405.40), e RGC 1 (texto do item 9405.40.90), da TEC aprovada pela Resolução Camex nº 94, de 2011
