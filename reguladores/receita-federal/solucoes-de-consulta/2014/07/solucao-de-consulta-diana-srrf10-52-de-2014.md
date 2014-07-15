@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 52, de 30 de abril de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 8504.40.21 Mercadoria: Conversor elétrico estático (retificador), de semicondutor, próprio para utilização em aparelhos de iluminação, alterando a corrente alternada proveniente da rede de distribuição (90-295 Vca) em corrente contínua (12 Vcc), denominado comercialmente de “LED Driver” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.04) e 6 (texto da subposição 8504.40), e RGC 1 (texto do item 8504.40.21), da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 8504.40.21 Mercadoria: Conversor elétrico estático (retificador), de semicondutor, próprio para utilização em aparelhos de iluminação, alterando a corrente alternada proveniente da rede de distribuição (90-295 Vca) em corrente contínua (12 Vcc), denominado comercialmente de “LED Driver”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.04) e 6 (texto da subposição 8504.40), e RGC 1 (texto do item 8504.40.21), da TEC aprovada pela Resolução Camex nº 94, de 2011
