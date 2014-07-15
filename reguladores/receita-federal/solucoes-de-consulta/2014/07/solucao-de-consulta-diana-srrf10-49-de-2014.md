@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 49, de 30 de abril de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 9405.40.10 Mercadoria: Luminária de alumínio, com luz produzida por LED (diodo emissor de luz), para embutir no piso, própria para fornecer iluminação em ambientes internos e externos, constituída basicamente por fonte chaveada, LEDs, lente, fios e parafusos DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.05) e 6 (texto da subposição 9405.40), e RGC 1 (texto do item 9405.40.10), da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 9405.40.10 Mercadoria: Luminária de alumínio, com luz produzida por LED (diodo emissor de luz), para embutir no piso, própria para fornecer iluminação em ambientes internos e externos, constituída basicamente por fonte chaveada, LEDs, lente, fios e parafusos
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.05) e 6 (texto da subposição 9405.40), e RGC 1 (texto do item 9405.40.10), da TEC aprovada pela Resolução Camex nº 94, de 2011
