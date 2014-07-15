@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 37, de 17 de março de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 5903.10.00 Mercadoria: Tecido de fios de poliéster (55 %) uniformemente impregnado com resina de poli(cloreto de vinila) (plástico) (23 %), possuindo numa das faces uma fina camada autoadesiva e papel plastificado (liner) (22 %) protetor do adesivo, próprio para impressão (comunicação visual), comercialmente denominado "Print N TEX" DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 do Capítulo 59 e texto da posição 59.03) e 6 (texto da subposição 5903.10), da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 5903.10.00 Mercadoria: Tecido de fios de poliéster (55 %) uniformemente impregnado com resina de poli(cloreto de vinila) (plástico) (23 %), possuindo numa das faces uma fina camada autoadesiva e papel plastificado (liner) (22 %) protetor do adesivo, próprio para impressão (comunicação visual), comercialmente denominado "Print N TEX"
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 do Capítulo 59 e texto da posição 59.03) e 6 (texto da subposição 5903.10), da TEC aprovada pela Resolução Camex nº 94, de 2011
