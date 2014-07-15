@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 43, de 8 de abril de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 8543.70.99 Mercadoria: Lâmpada de LED (diodo emissor de luz), tipo Par 30, própria para iluminação interna e externa de ambientes, constituída de corpo metálico, fonte chaveada (Led driver), LEDs (diodos emissores de luz) com potência total de 7W, lente e base E27, marca “Starwire” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.43) e 6 (texto da subposição 8543.70), e RGC 1 (texto do item 8543.70.99) da TEC aprovada pela Resolução Camex nº 94, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 8543.70.99 Mercadoria: Lâmpada de LED (diodo emissor de luz), tipo Par 30, própria para iluminação interna e externa de ambientes, constituída de corpo metálico, fonte chaveada (Led driver), LEDs (diodos emissores de luz) com potência total de 7W, lente e base E27, marca “Starwire”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.43) e 6 (texto da subposição 8543.70), e RGC 1 (texto do item 8543.70.99) da TEC aprovada pela Resolução Camex nº 94, de 2011
