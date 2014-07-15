@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF10 nº 55, de 9 de maio de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TIPI: 2106.90.90 Mercadoria: Preparação alimentícia em conserva pronta para consumo, constituída da mistura de ovos de codorna cozidos, azeitonas com caroço e cebolinhas cristal, conservada em salmoura com aditivos (acidulantes, conservantes e antioxidante), apresentada em frascos de vidro e peso líquido de 180 g DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 21.06) e 6 (texto da subposição 2106.90) e RGC 1 (texto do item 2106.90.90), da Tipi aprovada pelo Decreto nº 7.660, de 2011
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TIPI: 2106.90.90 Mercadoria: Preparação alimentícia em conserva pronta para consumo, constituída da mistura de ovos de codorna cozidos, azeitonas com caroço e cebolinhas cristal, conservada em salmoura com aditivos (acidulantes, conservantes e antioxidante), apresentada em frascos de vidro e peso líquido de 180 g
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 21.06) e 6 (texto da subposição 2106.90) e RGC 1 (texto do item 2106.90.90), da Tipi aprovada pelo Decreto nº 7.660, de 2011
