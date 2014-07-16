@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra a parte do acórdão que entendeu pela incidência da COFINS e da contribuição para o PIS sobre o resultado das variações cambiais decorrentes de operações de exportação, antes da EC 33/2001.
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, ofensa aos arts. 195, I, e 239 da mesma Carta.
+    A pretensão recursal merece acolhida, apenas em parte.
+    O Pleno do Supremo Tribunal Federal, ao julgar os Recursos Extraordinários 346.084/PR, Rel. orig. Min. Ilmar Galvão, 357.950/RS, 358.273/RS e 390.840/MG, Rel. Min. Marco Aurélio, reconheceu a inconstitucionalidade do art. 3º, § 1º, da Lei 9.718/98.
+    Na ocasião, entendeu-se que a totalidade das receitas auferidas por pessoas jurídicas excede a noção do termo faturamento referido no art. 195, I, da Constituição Federal e que, por se tratar de vício de inconstitucionalidade original, não foi afastado com a alteração promovida pela EC 20/98.
+    Concluiu-se, igualmente, que as receitas financeiras (pelo menos, quando não se tratar do resultado das atividades que integram o objeto social da empresa) também não podem ser incluídas no conceito de faturamento.
+    Essa jurisprudência foi reafirmada pelos Ministros desta Corte ao julgar o RE 585.235-RG-QO/MG, Rel. Min. Cezar Peluso.
+    Nesse contexto, ao se verificar que o resultado das variações cambiais positivas constituem receitas financeiras (conforme assentando no julgamento do RE 627.815/PR, Rel. Min. Rosa Weber), é de se reconhecer a inconstitucionalidade também do art. 9º da Lei 9.718/1998, ao prever expressamente a incidência da COFINS e da contribuição para o PIS sobre esses valores, já que a norma é anterior à EC 20/98.
+    Por fim, reconhecida, por esta Corte, a inconstitucionalidade de obrigação tributária ou a constitucionalidade de crédito em favor do contribuinte, as questões que se seguem quanto à eventual determinação da norma aplicável em substituição à declarada inconstitucional, bem como a interpretação da legislação que define a prescrição, a correção monetária, os juros, o direito à compensação e a fixação exata do montante a que o contribuinte tem direito em cada caso concreto possuem nítido caráter infraconstitucional ou dependem do exame de provas.
+    Daí a necessidade de que essas questões sejam, originariamente, decididas pelas instâncias ordinárias.
+    Nesse sentido, menciono as seguintes decisões, entre outras: RE 387.316-AgR-ED-ED/PR e RE 422.005-ED/RJ, Rel. Min. Ellen Gracie; RE 489.845-AgR/SP e RE 415.802-ED/PR, Rel. Min. Joaquim Barbosa; RE 512.483-ED/PR, Rel. Min. Cármen Lúcia; RE 447.436-ED/RS, Rel. Min. Celso de Mello; RE 480.191-AgR/SP e RE 509.908-AgR/PR, Rel. Min. Ayres Britto; RE 523.855-ED/RJ e RE 327.677-ED/SC, Rel. Min. Gilmar Mendes; RE 343.937-ED/SC e RE 499.634-ED-ED/SC, de minha relatoria.
+    Isso posto, com base nos precedentes acima mencionados, conheço do recurso e dou-lhe parcial provimento (CPC, art. 557, § 1º-A), apenas para afastar a incidência da COFINS e da contribuição para o PIS sobre o resultado das variações cambiais positivas, com base em norma anterior à EC 20/98 e determinar a remessa dos autos à instância ordinária para que resolva as questões infraconstitucionais decorrentes desta decisão.
+    Sem Honorários (Súmula 512 do STF).
+    Publique-se.
+    Brasília, 16 de julho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
