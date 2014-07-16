@@ -1,0 +1,10 @@
+Em resposta ao despacho de fl. 237, manifestei-me pela aptidão do recurso extraordinário objeto deste agravo de instrumento para substituir o RE 576.464-RG/GO, de minha relatoria, selecionado anteriormente como paradigma vinculado ao tema 57 da repercussão geral – possibilidade de servidor público militar transferido ingressar em universidade pública, na falta de universidade privada congênere à de origem – julgado prejudicado, em razão de ter o universitário concluído o curso superior e, desse modo, ter ocorrido a perda superveniente do objeto do apelo extremo.
+    Naquela ocasião, consignei, ainda, que o mandado de segurança, que deu origem ao presente recurso, foi impetrado pelo estudante em 16/10/2007, quando cursava o 5º período da graduação, razão pela qual o interesse do instituto de ensino recorrente poderia não mais existir sendo necessário perquirir acerca da necessidade de prosseguimento deste recurso.
+    Diante de tais manifestações, devolvi os autos à Presidência desta Corte para que, se assim entendesse, oficiasse à Universidade Federal do Rio Grande para que esclarecesse se o recorrido concluiu o curso.
+    Às fls. 242-243, o Ministro Presidente determinou a distribuição do feito por prevenção (Art. 325-A do RISTF), em razão da competência limitada do Presidente para despachar como relator (art. 13, V, c, do RISTF) e de não ser possível identificar manifesta prejudicialidade do extraordinário, salientando ser da competência deste Relator realizar eventual diligência que repute necessária.
+    Portanto, como anotei no despacho de fls. 239-240, tendo em vista o transcurso de tempo desde a impetração do mandado de segurança, intime-se a recorrente para que informe se o recorrido já concluiu o curso em que estava matriculado, bem como se ainda mantém interesse no prosseguimento do feito.
+    Ressalto que, após prestada referida informação pela recorrente, comunicarei à Presidência sobre eventual continuidade deste recurso, para que proceda às devidas anotações nos sistemas informatizados desta Corte.
+    Publique-se. Intime-se.
+    Brasília, 16 de julho de 2014.
+Ministro Ricardo Lewandowski
+Relator
