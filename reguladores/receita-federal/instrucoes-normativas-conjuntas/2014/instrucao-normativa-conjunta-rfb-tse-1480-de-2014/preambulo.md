@@ -1,0 +1,3 @@
+Instrução Normativa Conjunta RFB / TSE nº 1480, de 16 de julho de 2014
+Altera a Instrução Normativa RFB/TSE nº 1.019, de 10 de março de 2010, que dispõe sobre atos, perante o Cadastro Nacional da Pessoa Jurídica (CNPJ), dos comitês financeiros de partidos políticos e de candidatos a cargos eletivos, inclusive vices e suplentes.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL e a DIRETORA-GERAL DA SECRETARIA DO TRIBUNAL SUPERIOR ELEITORAL, no uso das atribuições que lhes conferem o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e o inciso I do art. 116 do Regulamento Interno da Secretaria do Tribunal Superior Eleitoral, resolvem:
