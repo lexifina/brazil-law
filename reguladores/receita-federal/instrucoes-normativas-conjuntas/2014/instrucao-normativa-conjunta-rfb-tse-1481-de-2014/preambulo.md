@@ -1,0 +1,3 @@
+Instrução Normativa Conjunta RFB / TSE nº 1481, de 16 de julho de 2014
+Dispõe sobre atos no Cadastro Nacional da Pessoa Jurídica (CNPJ) das Frentes registradas para o plebiscito no Município de Campinas.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL e a DIRETORA-GERAL DA SECRETARIA DO TRIBUNAL SUPERIOR ELEITORAL, no uso das atribuições que lhes conferem o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e o inciso I do art. 116 do Regulamento Interno da Secretaria do Tribunal Superior Eleitoral, e tendo em vista o disposto no art. 6º da Lei nº 9.709, de 18 de novembro de 1998, e nos arts. 2º e 24 da Resolução TRE-SP nº 312, de 3 de julho de 2014, resolvem:
