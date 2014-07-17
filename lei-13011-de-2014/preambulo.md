@@ -1,0 +1,2 @@
+Autoriza o Banco Central do Brasil a alienar à Companhia de Desenvolvimento Urbano da Região do Porto do Rio de Janeiro S.A. - CDURP os imóveis que especifica.
+Faço saber que a PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 639, de 2014, que o Congresso Nacional aprovou, e eu, Renan Calheiros, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
