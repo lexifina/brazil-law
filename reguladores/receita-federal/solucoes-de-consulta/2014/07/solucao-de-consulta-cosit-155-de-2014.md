@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 155, de 24 de junho de 2014
+ASSUNTO: Imposto sobre a Renda de Pessoa Física – IRPF EMENTA: HONORÁRIOS ADVOCATÍCIOS. AÇÃO RELATIVA A RENDIMENTOS DE PERÍODOS ANTERIORES. O rendimento auferido a título de honorários advocatícios pela atuação em ação cuja sentença originou o recebimento acumulado, pelo cliente, de benefícios previdenciários de exercícios anteriores é tributável na fonte, no mês do recebimento, com a aplicação da tabela progressiva do mesmo mês, e na declaração de ajuste. DISPOSITIVOS LEGAIS: art. 12-A Lei nº 7.713, de 1988; art. 44 da Lei nº 12.350, de 2010; arts 38, parágrafo único, 45, I, 106, 110, 111 e 640 do Decreto nº 3.000, de 1999 (RIR/99).
+[arquivo anexo: SC Cosit nº 155-2014.pdf]
