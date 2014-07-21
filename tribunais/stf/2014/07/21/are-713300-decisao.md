@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário em que se discute a possibilidade de efetivação dos Agentes Comunitários de Saúde, com fundamento no artigo 2º da Emenda Constitucional 51/06.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 37, IX, e 198 da mesma Carta.
+    A Procuradoria-Geral da República manifestou-se desprovimento do recurso (fl. 1-3 do documento eletrônico 5).
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, ao julgar a apelação, consignou:
+    “Da análise dos autos, decorre a falta de correlação entre a realidade fática delineada pela parte Apelante e a aplicação dos dispositivos da emenda Constitucional nº 51/06 e da Lei nº 11.350/2006 (…).
+    Decorre do texto da aludida Emenda Constitucional que a intenção do Poder Constituinte Reformador em momento algum residiu em possibilitar a efetivação de agentes de saúde contratados por período determinado.
+    Com efeito, a Emenda Constitucional sobredita tão somente alterou a forma de contratação dos agentes de saúde e de combate às endemias, limitada a partir de então à administração direta a contratação que antes poderia ser implementada por outros órgãos, incluindo a administração indireta e instituições diversas, para aqueles que já exerciam a função, embora contratados por entes administrativos diversos, dispensou de nova subsunção a concurso público previsto no art. 198, § 4º, da Constituição Federal, possibilitando a permanência no serviço público desde que previamente submetidos a processo de seleção pública” (fl. 44 do documento eletrônico 3).
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 11.350/2006). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Ademais, consoante destacou o parecer da Procuradoria-Geral da República, o Tribunal a quo consignou que a contratação temporária, prevista no art. 37, IX, da Carta Magna, não teve a natureza modificada, portanto, o exercício da função pelos agentes de saúde, contratados à época da publicação da Emenda Constitucional 51/06, continua a ser precária, não existindo autorização constitucional para a efetivação nos cargos.
+    Por fim, o voto condutor do acórdão asseverou:
+    “Ademais, na espécie em exame, inexiste a certificação pelo ente municipal de anterior processo de seleção pública, exigência do art. 9°, parágrafo único, da Lei 11.350/2006, ao contrário, argumento refutado em sede de contrarrazões, inexistindo, ainda, comprovação da disponibilidade orçamentária para a contratação consoante exige o art. 2°, caput, da Emenda Constitucional 51/2006” (fl. 46 do documento eletrônico 3).
+    Assim, para se chegar à conclusão contrária à adotada pela Corte de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL, DAS CLÁUSULAS CONTRATUAIS E DE PROVAS. OFENSA CONSTITUCIONAL INDIRETA. SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 833.973-AgR/SP, Segunda Turma, Rel. Min. Cármen Lúcia).
+    “RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Contrato temporário. Concurso público. Dispensa. Necessidade temporária. Questão de fato. Aplicação da súmula 279. Agravo regimental improvido. Não cabe recurso extraordinário que dependa de reexame de fatos e provas” (AI 488.610-AgR/RN, Primeira Turma, Rel. Min. Cezar Peluso).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de julho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
