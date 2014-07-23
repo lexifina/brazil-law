@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Fernando Augusto Henriques Fernandes, em favor de RAYMOND WHELAN, cidadão britânico, contra decisão do Ministro Presidente do Superior Tribunal de Justiça, que indeferiu a medida liminar requerida no HC 298.981/RJ, Rel. Min. Maria Thereza de Assis Moura.
+    O impetrante narra, de início, que o paciente, diretor da Match Services AG – empresa autorizada pela FIFA a promover a venda de ingressos para a Copa do Mundo –, está sendo investigado pela suposta prática dos crimes de cambismo (art. 41-F da lei 10.671/2003), associação criminosa (art. 288, caput, do Código Penal) e organização criminosa (art. 1º, § 1º, da Lei 12.850/2013).
+    Prossegue informando que, no curso da investigação policial, o juízo processante decretou, entre outras medidas cautelares, a prisão temporária do paciente, cumprida em 7/7/2014.
+    Diz, mais, que o decreto de prisão temporária foi revogado por meio de medida liminar concedida em habeas corpus manejado no Tribunal de Justiça do Estado do Rio de Janeiro, que substituiu a custódia pelo pagamento de fiança e por outras medidas cautelares.
+    Anota, na sequência, que, apesar de terem sido cumpridas todas as medidas cautelares impostas e de não haver nenhum fato novo, o magistrado processante decretou a prisão preventiva do paciente, com base nos mesmos elementos fáticos existentes, por ocasião do recebimento da denúncia oferecida pelo Ministério Público estadual.
+    Inconformada com a nova decretação da custódia cautelar, a defesa impetrou outro writ no Tribunal estadual. Comunicou, também, à Desembargadora Relatora da primeira impetração o descumprimento da medida acauteladora deferida no plantão judiciário. Contudo, a medida liminar requerida para assegurar a liberdade provisória do paciente foi indeferida nas duas ocasiões.
+    Ainda irresignada, a defesa ajuizou novo HC no Superior Tribunal de Justiça, oportunidade em que o Ministro Presidente daquela Corte Superior indeferiu a medida liminar requerida.
+    É contra a decisão proferida na Corte Superior que se insurge o impetrante.
+    Alega, inicialmente, que o caso sob exame autoriza o abrandamento do enunciado da Súmula 691 deste Tribunal.
+    Ressalta, também, que o paciente se apresentou espontaneamente à Desembargadora Relatora do primeiro writ manejado no Tribunal carioca, sendo preso imediatamente.
+    Destaca, adiante, que, ao término das investigações policiais, o paciente foi denunciado pela suposta prática dos crimes de cambismo, organização criminosa, lavagem de dinheiro, corrupção ativa e sonegação. Assevera, no entanto, que a inicial acusatória é inepta, pois não descreve a participação do paciente nos delitos que lhe foram imputados.
+    Sustenta, também, a ausência dos requisitos necessários para a imposição da custódia cautelar. Argumenta que o decreto prisional se baseia em meras conjecturas, sem nenhum fundamento concreto que justifique a segregação do paciente.
+    Faz, ainda, considerações em relação ao mérito da ação penal, alegando que são descabidas as acusações imputadas ao paciente. Argumenta, nesse contexto, que a empresa da qual o ora paciente é diretor “tem o direito, assegurado por contrato com a FIFA, de vender esses ingressos de hospitality pelo preço que bem entender, para quem quer que seja” (página 11 do documento eletrônico 2).
+    Requer, ao final, o deferimento de medida liminar a fim de que seja restabelecida a cautelar deferida em 7/7/2014 pelo plantão judicial do TJRJ, determinando-se a suspensão dos efeitos do decreto de prisão preventiva até o julgamento definitivo deste writ, sem prejuízo do restabelecimento das medidas alternativas já impostas e/ou a fixação de outras consideradas pertinentes.
+    No mérito, pede a concessão definitiva da ordem para que seja confirmada a medida liminar deferida, revogando-se definitivamente o decreto de prisão preventiva expedido contra o paciente.
+    Postula, também, seja assegurado à defesa o acesso imediato ao material captado nas interceptações realizadas no curso das investigações e ao apreendido por força das medidas cautelares deferidas, em obediência ao que dispõe a Súmula Vinculante 14.
+    É o relatório suficiente. Decido.
+    Analisados os autos, verifico que o caso sob exame não se amolda à hipótese prevista no art. 13, VIII, do Regimento Interno do Supremo Tribunal Federal, em especial ante a possibilidade de incidência da Súmula 691 desta Corte.
+    Contudo, percebo que a situação parece ser excepcional, o que autorizaria a superação do entendimento sumular, diante do possível constrangimento ilegal a que estaria submetido o paciente.
+    Desse modo, entendo ser necessário solicitar informações prévias, que permitirão ao Ministro Relator uma melhor compreensão da matéria para o exame da medida liminar requerida.
+    Isso posto, solicitem-se, com urgência, informações ao Tribunal de Justiça do Estado do Rio de Janeiro quanto ao eventual exame do mérito das impetrações manejadas naquela Corte.
+    Oficie-se, também, com urgência, ao Juízo de Direito do Juizado Especial do Torcedor e dos Grandes Eventos para que informe sobre o andamento atualizado da ação penal movida contra o paciente e a manutenção da prisão preventiva.
+    Com as informações, encaminhem-se os autos ao gabinete do Ministro Relator.
+    Publique-se.
+    Brasília, 23 de julho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Presidente em exercício -
