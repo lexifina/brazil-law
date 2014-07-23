@@ -1,0 +1,23 @@
+Trata-se de recurso extraordinário interposto pela União contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região que proveu apelação do Ministério Público Federal, para declarar sua legitimidade em ação civil pública que pretende afastar a aplicação de lei ou ato normativo de efeitos concretos.
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação aos arts. 2º e 62, § 3º, ambos da mesma Carta da República.
+    A pretensão recursal não merece acolhida.
+    Quanto ao art. 2º da Carta Magna, não houve debate no Tribunal a quo, nem foram objeto dos embargos declaratórios opostos pela recorrente, razão pela qual é forçoso reconhecer a ausência do imprescindível prequestionamento da matéria constitucional, incidindo na espécie, portanto, o óbice das Súmulas 282 e 356 desta Corte.
+    No que toca à insurgência pelo art. 62, § 3º, da Constituição Federal, a alegação se deu apenas em sede de embargos de declaração, tratando-se, assim, de inovação da parte. Tem-se, do mesmo modo, uma ausência de prequestionamento da matéria suscitada no apelo extremo.
+    De toda sorte, tal como afirmado no agravo no recurso extraordinário da Associação Cultural e Científica Virvi Ramos, verifico que o objeto do presente feito não é atacar uma lei em tese, mas sim os efeitos concretos produzidos por ela. Daí que, não há que se falar em pretensão de inconstitucionalidade, com efeitos erga omnes, de lei ou ato normativo.
+    Aliás, esse Tribunal admite o controle difuso de constitucionalidade em ação civil pública, desde que a alegação de inconstitucionalidade não se confunda com o próprio pedido da causa. A decisão do Tribunal de origem não se afasta dessa orientação.
+    Por pertinente, transcrevo, nesse mesmo sentido, a ementa dos seguintes julgados:
+    “RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. CONTROLE DE CONSTITUCIONALIDADE. OCUPAÇÃO DE LOGRADOUROS PÚBLICOS NO DISTRITO FEDERAL. PEDIDO DE INCONSTITUCIONALIDADE INCIDENTER TANTUM DA LEI 754/1994 DO DISTRITO FEDERAL. QUESTÃO DE ORDEM. RECURSO DO DISTRITIO FEDERAL DESPROVIDO. RECURSO DO MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL PREJUDICADO.
+    Ação civil pública ajuizada pelo Ministério Público do Distrito Federal com pedidos múltiplos, dentre eles, o pedido de declaração de inconstitucionalidade incidenter tantum da lei distrital 754/1994, que disciplina a ocupação de logradouros públicos no Distrito Federal.
+    Resolvida questão de ordem suscitada pelo relator no sentido de que a declaração de inconstitucionalidade da lei 754/1994 pelo Tribunal de Justiça do Distrito Federal não torna prejudicado, por perda de objeto, o recurso extraordinário.
+    A jurisprudência do Supremo Tribunal Federal tem reconhecido que se pode pleitear a inconstitucionalidade de determinado ato normativo na ação civil pública, desde que incidenter tantum. Veda-se, no entanto, o uso da ação civil pública para alcançar a declaração de inconstitucionalidade com efeitos erga omnes.
+    No caso, o pedido de declaração de inconstitucionalidade da lei 754/1994 é meramente incidental, constituindo-se verdadeira causa de pedir.
+    Negado provimento ao recurso extraordinário do Distrito Federal e julgado prejudicado o recurso extraordinário ajuizado pelo Ministério Público do Distrito Federal” (RE 424.993/DF, Rel. Min. Joaquim Barbosa, Plenário).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. DECLARAÇÃO DE INCONSTITUCIONALIDADE INCIDENTER TANTUM NA AÇÃO CIVIL PÚBLICA: POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 645.508-AgR/SP, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DE LEI DISTRITAL. AÇÃO CIVIL PÚBLICA. ALEGADA USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA. PRECEDENTES. 1. Não usurpa a competência desta nossa Corte a declaração incidental de inconstitucionalidade de lei distrital, proferida em ação civil pública. Especialmente quando não demonstrado que o objeto do pedido era tão-somente a inconstitucionalidade da lei. 2. Agravo regimental desprovido” (AI 557.291-AgR/DF, Rel. Min. Ayres Britto, Segunda Turma).
+    Com esse mesmo raciocínio, destaco, ainda, os seguintes precedentes: AI 476.058-AgR/MG, Rel. Min. Ayres Bitto; Rcl 1.897-AgR/AC, Rel. Min. Cezar Peluso; RE 438.328-AgR/DF e Rcl 6.449-AgR/RS, Rel. Min. Eros Grau; RE 511.961/SP, Rel. Min. Gilmar Mendes; e RE 661.729/RS, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, 557, caput ).
+    Publique-se.
+    Brasília, 23 de julho de 2014.
+Ministro Ricardo Lewandowski
+Relator
+Documento assinado digitalmente
