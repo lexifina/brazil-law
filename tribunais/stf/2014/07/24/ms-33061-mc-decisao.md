@@ -1,0 +1,22 @@
+Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Telma Laura Silva Britto contra ato praticado no Processo Administrativo Disciplinar – PAD 0006766-45.2013.2.00.0000/CNJ, de relatoria do Conselheiro Gilberto Martins..
+    A impetrante narra, de início, que ajuizou o MS 32.567/DF, cujo relator é o Ministro Roberto Barroso, em que questiona a instauração do referido PAD, bem como o seu afastamento cautelar do cargo de desembargador do Tribunal de Justiça da Bahia.
+    Explica, porém, que o objeto deste novo MS é outro. Aqui o ato atacado consiste na deliberação que prorrogou o prazo de tramitação do referido PAD, por mais 90 (noventa) dias, bem assim o seu afastamento das funções judicantes.
+    Argumenta que a nova decisão que a manteve afastado do TJBA foi tomada sem que houvesse fato determinado que a justificasse, além de carecer de fundamentação idônea, razão pela qual ela seria nula, sobretudo por violar seu direito líquido e certo, ao devido processo legal, constitucionalmente assegurado.
+    Afirma, ademais, que a decisão do Relator do PAD 0006766-45.2013.2.00.0000 foi levada a referendo do plenário do CNJ sem a prévia publicação de pauta. Aduz, entretanto, que tal providência só seria possível em casos de relevância, urgência ou conveniência, nos termos do art. 120, § 1º, do Regimento Interno do CNJ, o que não ficou demonstrado na situação em apreço.
+    Ressalta, em seguida, que, nos demais processos administrativos aos quais responde no CNJ, a prorrogação dos respectivos prazos de conclusão deu-se sempre com prévia inclusão do tema em pauta e mediante sua intimação pessoal.
+    Destaca, além disso, que, na sessão plenária que referendou a prorrogação do seu afastamento, o Relator, ao proferir o voto, declarou que a decisão estaria fundamentada, o que, porém, não condiz com conteúdo do acórdão correspondente.
+    Por essas razões, requer o deferimento da liminar para que seja suspensa a prorrogação de seu afastamento. No mérito, pleiteia o deferimento da segurança, ao final, para, confirmada a liminar, que se declare a nulidade do ato impugnado.
+    É o relatório necessário.
+    Decido o pleito liminar.
+    Inicialmente, entendo que o presente mandamus deve ser conhecido, pois seu objeto é diverso daquele apreciado no MS 32.567/DF, também de relatoria do Ministro Roberto Barroso. Aqui o ato atacado é outro. Consiste na deliberação que prorrogou o prazo de tramitação do PAD, por mais 90 (noventa) dias, bem assim o afastamento da impetrante das funções de desembargador do Tribunal de Justiça do Estado da Bahia.
+    Com efeito, o Conselho Nacional de Justiça, na sessão de 5/11/2013, determinou a instauração de processo administrativo disciplinar contra a impetrante e o então Presidente aquela Corte estadual, para apurar supostas irregularidades na gestão de precatórios. Como consequência, impôs o afastamento cautelar de ambos dos seus respectivos cargos.
+    Esgotado o prazo para conclusão do PAD e, consequentemente, para o afastamento cautelar da impetrante e também do então Presidente do TJBA, o CNJ determinou a prorrogação do feito, mantendo também os citados desembargadores impedidos de exercer as suas funções.
+    A prorrogação do prazo de conclusão do PAD deu-se por meio do mesmo ato, sob o fundamento de que oitiva de testemunhas de defesa, dentre as quais o Governador do Estado e o Prefeito da Capital, demandaria acréscimo de prazo.
+    Como afirmei por ocasião da apreciação do pedido liminar no MS 30.080/DF, em que pese o zelo do Relator do PAD em questão, tenho para mim, ao menos nesta análise perfunctória dos autos, própria da presente fase processual, que os motivos por ele invocados não são idôneos para ensejar a manutenção do afastamento da impetrante, pelos semelhantes fundamentos lá adotados.
+    Isso posto, estendo os efeitos da liminar deferida no MS 30.080/DF ao presente mandamus, uma vez que dizem respeito ao mesmo ato impugnado e, em consequência, defiro a suspensão do afastamento cautelar da impetrante das funções judicantes, até o julgamento definitivo deste mandato de segurança, sem prejuízo do regular prosseguimento do PAD no âmbito do CNJ e de melhor exame da questão pelo eminente Relator sorteado.
+    Comunique-se ao Tribunal de Justiça do Estado da Bahia, com urgência.
+    Dê-se ciência, ainda, à Advocacia-Geral da União para que, querendo, ingresse no feito (art. 7º, II, da Lei 12.016/2009).
+    Publique-se.
+    Brasília, 24 de julho de 2014.
+Ministro RICARDO LEWANDOWSKI
+Presidente em exercício
