@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. TETO REMUNERATÓRIO. VANTAGENS PESSOAIS. EXCLUSÃO NA VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 19/1998. ACÓRDÃO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “CONSTITUCIONAL. SERVIDORES PÚBLICOS APOSENTADOS. VANTAGENS PESSOAIS – ART. 37, XI, DA CONSTITUIÇÃOS FEDERAL. DIREITO ADQUIRIDO.
+    1. Em regra, a remuneração dos servidores públicos deve respeitar o teto estabelecido no artigo 37, inciso XI, da Constituição Federal, que prevê um limite máximo de remuneração para os membros de qualquer dos Poderes, considerando-se, atualmente, o vencimento dos Ministros do Supremo Tribunal Federal, incluídas as vantagens pessoais ou de qualquer outra natureza.
+    2. O Supremo Tribunal Federal entendeu que o artigo 37, inciso XI, da Constituição Federal não é autoaplicável, dependendo, portanto, de regulamentação mediante edição de lei ordinária, referida no artigo 48, inciso XV, da Constituição Federal.
+    3. Exclusão, do teto remuneratório, das vantagens pessoais até o advento da Lei n. 11.143/05, de 26 de julho de 2005, que deu plena eficácia ao inciso XI do art. 37 da Constituição Federal” (fl. 139-140).
+    2. A Recorrente alega ter o Tribunal de origem contrariado o art. 37, inc. XI, da Constituição da República, o art. 29 da Emenda Constitucional n. 19/1998 e o art. 17 do Ato das Disposições Constitucionais Transitórias.
+    Afirma que
+    “toda e qualquer vantagem pessoal, uma vez integrando os vencimentos e/ou proventos dos servidores públicos, devem ser considerados para efeito de incidência do limite remuneratório previsto no art. 37, XI, da CF e art. 17 do ADCT, uma vez que referia, na redação original, à ‘remuneração, em espécie, a qualquer título’, expressão que já abrange todas as parcelas recebidas, de modo a impossibilitar a exclusão das vantagens pessoais.
+    As vantagens pessoais integram os vencimentos ou proventos dos servidores públicos, na ativa ou aposentados, razão pela qual devem ser considerados para fins de incidência do teto remuneratório, tal como prevê o art. 37, inciso XI, da CF/88, sendo certo que, a partir da EC 19/98, pelo disposto em seu art. 3º, tais vantagens passaram a ser incluídas expressamente no cômputo do valor-teto, o que foi posteriormente mantido e confirmado pela EC 41/03, em seu art. 1º.
+    Ressalte-se que, já a contar da EC n. 19/98, não há que se falar em não inclusão, na base de cálculo para o limite de teto, das vantagens pessoais” (fl. 168 v.).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, firmada no sentido de estarem excluídas as vantagens pessoais do cálculo do teto constitucional durante o período de vigência da Emenda Constitucional n. 19/1998:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. VANTAGENS PESSOAIS. TETO REMUNERATÓRIO. ART. 37, XI, NA REDAÇÃO DADA PELA EC 19/98. EXCLUSÃO. Segundo a jurisprudência do Supremo Tribunal Federal, as vantagens pessoais estavam excluídas do teto remuneratório vigente à época da Emenda Constitucional 19/98. Agravo regimental a que se nega provimento” (AI 606.114-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 1º.2.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO E PROCESSUAL CIVIL. 1. SERVIDOR PÚBLICO. TETO REMUNERATÓRIO. VANTAGENS PESSOAIS. EXCLUSÃO NA VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 19/1998. 2. FATO SUPERVENIENTE. INVOCAÇÃO EM RECURSO EXTRAORDINÁRIO: IMPOSSIBIIDADE. 3. EMBARGOS DE DECLARAÇÃO: INOVAÇÃO DOS ARGUMENTOS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 850.189-AgR, de minha relatoria, Segunda Turma, DJe 13.6.2014).
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. EXCLUSÃO DE VANTAGENS PESSOAIS DO TETO REMUNERATÓRIO. EMENDA CONSTITUCIONAL 19/98. EMENDA CONSTITUCIONAL 41/2003 NÃO APLICÁVEL. 1. O Supremo Tribunal Federal possui entendimento no sentido da impossibilidade de auto-aplicação das normas dos art. 37, XI, com a redação dada pela EC 19/98, e 39, § 4º, da Carta Magna. Assim, as vantagens pessoais são excluídas do teto de remuneração, até a promulgação da lei de fixação do subsídio de Ministro do Supremo Tribunal Federal. 2. Impossibilidade de aplicação de regras previstas na Emenda Constitucional 41/2003 para período anterior à sua vigência. 3. Agravo regimental improvido” (RE 524.824-AgR, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 25.6.2010).
+    Nada há, pois, a prover quanto às alegações da Recorrente.
+    5. Pelo exposto, nego seguimento a este recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de julho de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
