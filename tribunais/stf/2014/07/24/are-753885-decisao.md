@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO EXTEMPORÂNEO: INTERPOSIÇÃO ANTERIOR À PUBLICAÇÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE RATIFICAÇÃO POSTERIOR. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Turma Recursal Fazendária do Juizado Especial do Rio de Janeiro:
+    “Trata-se de mandado de segurança impetrado contra decisão judicial que indeferiu a gratuidade de justiça requerida, determinando o recolhimento das custas processuais, sob pena de ser considerado deserto o recurso inominado interposto pelo impetrante, visando a reforma da sentença proferida.
+    À fl. 79 foi deferida liminar, decretando a suspensão da decisão impugnada, determinando o recebimento do recurso inominado interposto, independentemente do recolhimento prévio das custas processuais.
+    (…)
+    A gratuidade de justiça é um direito constitucional previsto no art. 5º, LXXIV da Constituição da República, sendo deferido àqueles que comprovem insuficiência de recursos.
+    A Lei n. 1.060/51, no seu art. 2º, parágrafo único, estabelece normas para a concessão da mencionada gratuidade, definindo como necessitado, para fins legais, todo aquele cuja situação econômica não lhe permita pagar as custas do processo e os honorários de advogado, sem prejuízo do sustento próprio ou da família.
+    Do mesmo modo, a Portaria CGJ n. 218, de 29/12/2009, em conformidade com o disposto no art. 17, X, da lei Estadual n. 3.350/1999, nos traz um parâmetro de isenção de custas de 10 (dez) salários mínimos para os maiores de 65 (sessenta e cinco) anos.
+    (…)
+    Com efeito, o documento juntado à fl. 28 demonstra que os ganhos do impetrante, mesmo o bruto, não ultrapassam 10 (dez) salários mínimos, situação compatível com o status de hipossuficiente.
+    (…)
+    Isso posto, voto no sentido de conceder a segurança, deferindo a gratuidade de justiça para interposição do recurso inominado perante a Turma Recursal Fazendária” (fls.87-88).
+    2. O Agravante alega ter a Turma Recursal contrariado os arts. 5º, inc. XXXVI, e 37, caput e inc. XI, da Constituição da República.
+    Afirma que
+    “se mostra descabida a conversão das férias em pecúnia indenizatória, que encontrava amparo na Constituição do Estado do Rio de Janeiro, tendo em vista a declaração de inconstitucionalidade da parte final do inciso XVII, do art. 77, na ADIN n. 227-9.
+    (…)
+    Nem se argumente que a pretensão teria fundamento no artigo 362 do Regulamento do Estatuto dos Servidores Públicos Estaduais, que ‘veda a prestação de serviços gratuitos’. Não houve prestação de serviço gratuito, pois é incontroverso que a remuneração pelo exercício das funções do cargo ocupado pelo autor sempre foram regularmente pagos” (fls. 93-100).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O recurso extraordinário é extemporâneo.
+    5. A decisão recorrida foi publicada no dia 30.11.2012 (fl. 101), o recurso extraordinário interposto antes, em 28.11.2012 (fl. 93), logo extemporaneamente. Não houve ratificação posterior, pelo que este recurso não pode ter seguimento:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROFESSOR. CONTRATO TEMPORÁRIO SOB A ÉGIDE DA VIGENTE CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO À ESTABILIDADE. DECISÃO AGRAVADA NÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA 287/STF. RECURSO EXTEMPORÂNEO. INTERPOSIÇÃO ANTES DE PUBLICADA A DECISÃO AGRAVADA. PRECEDENTES. 1. É que configura princípio básico da disciplina dos recursos o dever que tem o recorrente de impugnar os fundamentos da decisão atacada, por isso que, deixando de fazê-lo, resta ausente o requisito de admissibilidade consistente na regularidade formal, o que, à luz da Súmula 287 do STF e do § 1º do artigo 317 do RISTF, conduz ao não-conhecimento do recurso interposto. Precedentes: AI n. 835.505AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16.08.2011 e RE n. 572.676-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 17.05.2011. 2. É extemporâneo o recurso apresentado antes da publicação do acórdão recorrido, revelando-se prematuro e, a fortiori, inadmissível. Precedentes: AI n. 796118-AgR, Plenário, Relator o Ministro Cezar Peluso, DJe de 08.08.2011 e RE n. 461.505-AgR, Primeira Turma, Relator o Ministro Dias Toffolli, DJe de 10.05.2011. 3. In casu, o acórdão recorrido assentou: “ADMINISTRATIVO. PROFESSORA. CONTRATAÇÃO EM REGIME TEMPORÁRIO APÓS A CONSTITUIÇÃO DE 1988. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO À ESTABILIDADE NO SERVIÇO PÚBLICO. 1. Inexiste direito líquido e certo à estabilidade no serviço público para aqueles que, após a Constituição de 1988 e sem aprovação prévia em concurso público, são contratados por tempo determinado para atender a necessidade temporária de excepcional interesse público. Precedentes do STJ. 2. Agravo Regimental não provido.“ 4. Agravo regimental a que se nega provimento” (ARE 665.977-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 30.8.2012, grifos nossos).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO PREMATURO. AUSÊNCIA DE RATIFICAÇÃO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. I - A jurisprudência desta Corte firmou-se no sentido de que é extemporâneo o recurso interposto antes da publicação do acórdão recorrido, sem que haja a devida ratificação do ato. II – Embargos de declaração não conhecidos” (AI 795.683-AgR-ED, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 11.3.2011, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO EXTEMPORÂNEO. INTERPOSIÇÃO ANTERIOR À PUBLICAÇÃO DO ACÓRDÃO RECORRIDO NO ÓRGÃO OFICIAL. AUSÊNCIA DE RATIFICAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”(RE 502.313-AgR, de minha relatoria, Primeira Turma, DJe 7.8.2009, grifos nossos).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de julho de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
