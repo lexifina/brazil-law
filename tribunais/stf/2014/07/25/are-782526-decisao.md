@@ -1,0 +1,23 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em oposição a acórdão assim ementado:
+    “PROCESSUAL CIVIL. EXECUÇÃO/CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. LEGITIMIDADE. 1. O direito autônomo do advogado de execução dos honorários de sucumbência não retira a legitimidade da própria parte para sua execução, mormente quando não haja notícia de qualquer conflito entre estes” (página 65 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se contrariedade ao art. 5º, II, da mesma Carta.
+    O Recorrente argumenta em síntese que “o ‘decisum’ impugnado (...) afirma, de forma equivocada, que o direito autônomo do advogado de execução dos honorários de sucumbência não retira a legitimidade da própria parte para sua execução” (página 98 do documento eletrônico 1).
+    A pretensão recursal não merece acolhida, pois, correta a fundamentação da decisão agravada.
+    Consta do voto do Relator do acórdão recorrido:
+    “Com efeito, tanto esta Corte quanto o STJ possuem entendimento no sentido de que o direito autônomo do advogado de execução dos honorários de sucumbência não retira a legitimidade da própria parte para sua execução, mormente quando não haja notícia de qualquer conflito entre estes, que é o caso dos autos. Nesse sentido:
+    ‘(...)
+    PROCESSO CIVIL. EXECUÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. LEGITIMIDADE. É certo que o art. 23 da Lei nº 8.906/94, que cuida do ‘Estatuto da Advocacia’, confere ao advogado o direito autônomo para executar a sentença na parte referente aos honorários de sucumbência. Isso não quer dizer, todavia, que fica excluída a legitimidade da própria parte para executar os honorários do seu patrono, mormente não havendo entre eles qualquer conflito. Embargos de divergência recebidos. (EREsp 134.778/MG, Rel. Ministro CESAR ASFOR ROCHA, SEGUNDA SEÇÃO, julgado em 27.11.2002, DJ 28.04.2003 p. 169).
+    EMBARGOS À EXECUÇÃO. SERVIDOR CIVIL. 3,17%. 28,86%. VPNI. HONORÁRIOS ADVOCATÍCIOS. - Tanto a parte vencedora quanto o advogado, este como direito autônomo seu, têm legitimidade para executar os honorários de sucumbência. (...) (TRF4, AC 2004.70.00.017265-7, Quarta Turma, Relator Edgard Antônio Lippmann Júnior, D.E. 26/11/2007).
+    (...)’.
+    De outro lado, no caso dos autos quem requer o cumprimento de sentença é a União, em favor da qual foram fixados os honorários de advogado. Sabe-se, então, que os valores relativos à sucumbência vão para os cofres públicos, não sendo repassados aos procuradores, os quais são remunerados pelo Erário. Especificamente sobre essa questão, também há precedente do STJ:
+    ‘(...)
+    PROCESSUAL CIVIL. RECURSO ESPECIAL. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. COMPETÊNCIA DO STF. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA UNIÃO. EXECUÇÃO. LEGITIMIDADE. INÉPCIA DA INICIAL. LEGITIMIDADE DA PARTE AUTORA. ARTS. 23 E 24, DA LEI N. 8.906/94. EXEGESE. (...) 6. Deveras, os honorários advocatícios em ações demandadas contra a União em que esta reste vencedora, são verbas destinadas aos cofres públicos, cabendo aos seus representantes judiciais promover as ações competentes para cobrança de tais valores, nos termos da Constituição Federal (art. 131) e lei Complementar nº 73/93. (grifei) 7. Recurso especial parcialmente conhecido e, nesta parte, improvido (REsp 615424/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 24/11/2004, DJ 17/12/2004 p. 440).
+    (...)’.
+    Assim, a União é legítima para o cumprimento de sentença desses honorários. Outrossim, entendo que não houve ofensa ao princípio da legalidade, estando correta a decisão agravada.
+    Ante o exposto, voto no sentido de negar provimento ao agravo de instrumento, restando prejudicado o pedido de efeito suspensivo pleiteado à fl 48” (páginas 62-63 do documento eletrônico 1 - grifei).
+    Decidir de maneira diversa do que assentado pelo Tribunal de origem demandaria a reanálise da legislação infraconstitucional aplicada na espécie (arts. 23 e 24 da Lei 8.906/1994), o que é inviável em recurso extraordinário. Nesse sentido, destaco o seguinte precedente:
+    “CIVIL. PROCESSUAL CIVIL. PRESTAÇÃO DE CONTAS. LEVANTAMENTO DE DEPÓSITO JUDICIAL. RETENÇÂO. HONORÁRIOS ADVOCATÍCIOS. LEI 8.906/94. ESTATUTO DA ADVOCACIA. AMPLA DEFESA. ATO JURÍDICO PERFEITO. MATÉRIA INFRACONSTITUCIONAL. 1. Recurso extraordinário no qual se pretende a análise de legislação infraconstitucional. Hipótese de ofensa indireta ou reflexa à Constituição Federal. 2. Agravo regimental improvido” (AI 657.929-AgR/SP, Rel. Min. Ellen Gracie).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISF).
+    Brasília, 25 de julho de 2014.
+Ministro RICARDO LEWANDOWSKI
+Relator
