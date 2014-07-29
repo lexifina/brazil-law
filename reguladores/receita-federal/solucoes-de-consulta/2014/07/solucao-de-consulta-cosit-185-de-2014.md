@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 185, de 25 de junho de 2014
+ASSUNTO: Imposto sobre a Renda de Pessoa Física – IRPF EMENTA: DESPESAS MÉDICAS. PLANO DE SAÚDE. DEDUÇÃO. Somente são passíveis de dedução, na Declaração de Ajuste Anual, as despesas médicas pagas pelo contribuinte relativas ao próprio tratamento e de seus dependentes incluídos em sua declaração. DISPOSITIVOS LEGAIS: alínea “a” do inciso II do caput e incisos I e II do § 2º, ambos do art. 8º da Lei nº 9.250, de 1995; alínea “a” do inciso II do art. 8º e incisos I e II do § 1º do art. 80, ambos do Decreto nº 3.000, de 1999 - Regulamento do Imposto 1999 (RIR 1999), art. 80, § 1º, I; §§ 1º e 2º do art. 43 da Instrução Normativa SRF nº 15, de 2001.
+[arquivo anexo: SC Cosit nº 185-2014.pdf]
