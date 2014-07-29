@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 134, de 2 de junho de 2014
+ASSUNTO: Contribuição de Intervenção no Domínio Econômico – CIDE EMENTA: CONSORCIADA NO EXTERIOR. SERVIÇOS TÉCNICOS ESPECIALIZADOS. INCIDÊNCIA SOBRE REMESSAS. Estão sujeitos ao pagamento da Contribuição de Intervenção no Domínio Econômico - CIDE, a partir de 1º de janeiro de 2002, os valores pagos, creditados, entregues, empregados ou remetidos à consorciada domiciliada no exterior, em decorrência da contratação de serviços técnicos especializados. DISPOSITIVOS LEGAIS: Lei nº 10.168, de 2000, e alterações posteriores, art. 2º e §§ 1º e 2º; Decreto nº 4.195, de 2002, art. 10; IN RFB nº 1.455, de 2014, art. 17, II, “a”.
+[arquivo anexo: SC Cosit nº 134-2014.pdf]
