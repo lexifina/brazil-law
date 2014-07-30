@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. PROFESSORA MUNICIPAL. ASCENSÃO FUNCIONAL. PLEITO ADMITIDO PELO ESTATUTO DO MAGISTÉRIO DO MUNICÍPIO, LEI Nº 5.895/84. RECURSOS IMPROVIDOS. 1. O que a ordem constitucional veda é o ingresso por ascensão funcional, em carreira diversa daquela para o qual o servidor foi aprovado em concurso público, o que não é o caso da recorrida. Esta pleiteia, tão somente, a alteração de classe, em razão da conclusão de curso de especialização, dentro da mesma carreira. 2. A ascensão funcional pretendida representa apenas mudança de classe, não perfazendo progressão para cargo diverso. Portanto, não se exige a prévia aprovação em concurso público. Ademais, o Estatuto do Magistério do Município, Lei nº 5.895/84, é plenamente aplicável à lide em comento. 3. Apelo voluntário e recurso de ofício conhecidos e improvidos. Sentença mantida” (página 6 do documento eletrônico 16).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se contrariedade ao art. 37, II, da mesma Carta.
+    O Recorrente argumenta, em síntese, que “a ascensão funcional, na forma disciplinada pelo Estatuto do Magistério do Município de Fortaleza e pelo Decreto 7.114/85, encontra-se eivado como o vício de manifesta incompatibilidade em relação à Constituição Federal de 1988 e à própria Lei Orgânica municipal” (página 8 do documento eletrônico 6).
+    A pretensão recursal não merece acolhida, pois, correta a fundamentação da decisão agravada.
+    Consta do voto do Relator o acórdão recorrido:
+    “a ascensão funcional pretendida representa apenas mudança de classe, não perfazendo progressão para cargo diverso. Portanto, não se exige a prévia aprovação em concurso público. Ademais, o Estatuto do Magistério do Município, Lei nº 5.895/84, é plenamente aplicável à lide em comento” (página 8 do documento eletrônico 16).
+    O acórdão recorrido harmoniza-se com a jurisprudência desta Suprema Corte, que assentou a impossibilidade da investidura de servidor público em cargo de carreira diversa àquele ao qual tenha prestado concurso público, ressalvado o provimento derivado mediante promoção, o que não se dá na espécie.
+    Ademais, decidir de maneira diversa do que assentado pela Quinta Câmara Cível do Tribunal de Justiça do Ceará demandaria a análise prévia da legislação local aplicada à espécie (Lei municipal 5.895/1984), inviável em recurso extraordinário, a teor da Súmula 280 desta Suprema Corte.
+    No sentido do que aqui decidido, cito o seguinte precedente:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. LEI N. 5.351/86 (ESTATUTO DO MAGISTÉRIO PÚBLICO DO PARÁ). IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PROMOÇÃO DENTRO DA MESMA CARREIRA. AUSÊNCIA DE OFENSA AO ART. 37, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. VINCULAÇÃO DE VENCIMENTOS AO SALÁRIO MÍNIMO. NÃO CONFIGURAÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 658.449-ED/PA, Rel. Min. Cármen Lúcia).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de julho de 2014.
+Ministro RICARDO LEWANDOWSKI
+Relator
