@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União, em favor de MOISÉS MAGNO SOARES RODRIGUES, contra o acórdão da Terceira Seção do Superior Tribunal de Justiça, que, nos autos do CC 128.555/MA, Rel. Min. Sebastião Reis Júnior, conheceu do conflito e declarou competente o suscitado, Juízo Federal da 3ª Vara Criminal e de Execuções de Porto Velho/RO.
+    A impetrante informa, de início, que, em 24/1/2012, o Juízo da 1ª Vara de Execuções Penais de São Luís/MA determinou que o paciente fosse incluído, em caráter emergencial e provisório, no Sistema Penitenciário Federal – SPF, na Penitenciária Federal de Porto Velho/RO.
+    Em 27/1/2012, o Juízo Federal da 3ª Vara Criminal e de Execuções Penais de Porto Velho/RO deferiu a inclusão do paciente no Sistema Penitenciário Federal – SPF; em decisão posterior, fixou o prazo de permanência de 360 dias.
+    Afirma, mais adiante, que, vencido o prazo de permanência, o Juízo da 1ª Vara de Execuções Penais de São Luís/MA formulou pedido de prorrogação de permanência; contudo, o magistrado federal indeferiu o pedido e determinou o retorno do paciente ao Juízo de origem.
+    Contra essa decisão o Juízo da 1ª Vara de Execuções Penais de São Luís/MA suscitou o Conflito de Competência 128.555/MA, Rel. Min. Sebastião Reis Júnior, julgado pela Terceira Seção do STJ, que restou assim ementado:
+    “PENAL. CONFLITO DE COMPETÊNCIA. TRANSFERÊNCIA DE PRESO PARA O SISTEMA PENITENCIÁRIO FEDERAL. PEDIDO DE PRORROGAÇÃO DO PRAZO. POSSIBILIDADE. LEI N. 11.671/2008. NECESSIDADE DE FUNDADA MOTIVAÇÃO PELO JUÍZO DE ORIGEM. PERSISTÊNCIA DO MOTIVO ENSEJADOR DO PEDIDO DE TRANSFERÊNCIA ORIGINÁRIO. FUNDAMENTAÇÃO SUFICIENTE.
+    1. Persistindo as razões e fundamentos que ensejaram a transferência do preso para o presídio federal de segurança máxima, como afirmado pelo Juízo suscitante, notadamente em razão da periculosidade concreta do apenado, que desempenha função de liderança em facção criminosa, a renovação da permanência é providência indeclinável, como medida excepcional e adequada para resguardar a ordem pública (CC n. 120.929/RJ, Ministro Marco Aurélio Bellizze, Terceira Seção, Dje 16/8/2012).
+    2. Conflito conhecido para declarar a competência do Juízo Federal da 3ª Vara Criminal e Execuções Penais de Porto Velho - SJ/RO, determinando a permanência do apenado Moisés Magno Soares Rodrigues na Penitenciária Federal de Porto Velho/RO. Homologado o pedido de desistência formulado pelo Juízo suscitante em relação aos apenados Genilson Pereira e Wendel Marcel Machado Urbano”.
+    É contra essa decisão que se insurge a impetrante.
+    Sustenta que
+    “o art. 5º, caput, da Lei 11.671/08, deixa claro que o processo de transferência/renovação inicia-se com a admissibilidade pelo juiz da origem (o estadual) da necessidade de transferência/permanência em estabelecimento penal federal de segurança máxima. Por sua vez, o art. 4º, caput, da Lei 11.671/08, assevera que a admissão/renovação do preso dependerá de decisão prévia e fundamentada do juízo federal competente.
+    Na realidade, pela sistemática legal, para se ultimar a transferência/renovação, há um processo decisório complexo, que inicia com a decisão do juízo estadual e perfectibiliza-se com a decisão do juízo federal.
+    Nada refere a Lei 11.671/08 sobre o fato de haver limitação à atuação decisória do juízo federal ou primazia dos fundamentos do juiz estadual. Portanto, tanto o decisum do juiz estadual quanto o decisum do juiz federal, que perfectibilizam o processo decisório, podem debruçar-se às inteiras sobre os requisitos para a transferência, previstos no art. 3º da Lei 11.671/08.
+    Nesse sentido, não poderia a autoridade coatora, simplesmente, ter desprezado os fundamentos invocados pelo juízo federal, que negou a permanência, e priorizado os motivos suscitados pelo juízo estadual, que deu início ao processo de renovação, admitindo a necessidade de permanência” (pág. 5 da petição inicial).
+    Destaca, mais, que
+    “não poderia a autoridade coatora, simplesmente, ter desprezado os fundamentos invocados pelo juízo federal, que negou a permanência, e priorizado os motivos suscitados pelo juízo estadual, que deu início ao processo de renovação, admitindo a necessidade de permanência.
+    Seja como for, é inidônea a fundamentação - invocada pelo juízo estadual e chancelada pela autoridade coatora - que está a respaldar a permanência do paciente no Sistema Penitenciário Federal” (pág. 5 da petição inicial).
+    Requer, ao final, “o deferimento do pedido liminar, para que seja reconhecido o direito do paciente em aguardar o julgamento definitivo do presente writ no sistema penitenciário estadual de origem”. No mérito, pede a confirmação da liminar concedida.
+    É o relatório suficiente. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Ademais, no caso concreto, a liminar pleiteada tem caráter satisfativo, confundindo-se com o mérito da impetração, que será oportunamente examinado pela Turma julgadora.
+    Diante de tal quadro, e sem prejuízo de um exame mais aprofundado por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Estando bem instruídos os autos, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 31 de julho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
