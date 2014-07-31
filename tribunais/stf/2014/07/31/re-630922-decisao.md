@@ -1,0 +1,24 @@
+Trata-se de recurso extraordinário interposto de acórdão, cuja ementa segue transcrita no que importa:
+    “DIREITO CONSTITUCIONAL E ADMINSTRATIVO. MANDADO DE SEGURANÇA. MUNICÍPIO DE MAGÉ. REINTEGRAÇÃO DE SERVIDOR.
+    Impetrante admitido ao quadro do Município de Magé em 1987 pelo regime da CLT antes da promulgação da Constituição de 1988.
+    Posterior demissão, efetivada em 2006 através de simples Portaria.
+    Alegação de violação aos princípios da ampla defesa, do contraditório e do devido processo legal.
+    Pretensão de reintegração ao cargo e pagamento dos vencimentos atrasados.
+    Sentença de concessão da ordem que, reconhecendo a nulidade do ato de demissão do impetrante, determina sua reintegração ao cargo ocupado, com os vencimentos a ele inerentes e o pagamento dos atrasados a partir da impetração do mandamus.
+    Apelação do Município.
+    Possibilidade de apreciação do mérito da causa, mesmo diante da decisão proferida pelo S.T.F. na Suspensão de Segurança nº 3184, eis que ali restou determinada apenas a suspensão da execução das decisões liminares proferidas nos mandados de segurança que menciona, dentre eles o ora analisado.
+    (...)
+    Impetrante contratado com celetista, passando a servidor público estatutário por força do art. 1º, § 1º, da Lei Municipal nº 1.054/91, com redação dada pela Lei Municipal nº 1.263/96, cuja constitucionalidade foi reconhecida pleo Órgão Especial deste Tribunal de Justiça na representação de Inconstitucionalidade nº 1997.007.00021.
+    Aplicação do art. 109 do Regimento Interno da Corte.
+      (...)” ( fls. 280-281).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação aos arts. 5º, II e LXXIII e 37, caput e II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, verifico que a recorrente, apesar de afirmar a existência de repercussão geral neste recurso, não demonstrou as razões pelas quais entende que a questão constitucional aqui versada seria relevante do ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa. A mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF. Nesse sentido, transcrevo ementa do AI 730.333-AgR/SE, de minha relatoria:
+    “PROCESSUAL CIVIL. AUSÊNCIA DA preliminar DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS DISCUTIDAS NO CASO. ALEGADA OFENSA AO ART. 5º, LIV e LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - O agravante, nas razões do recurso extraordinário, não demonstrou, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso. A simples alegação, destituída de argumentos convincentes, não satisfaz tal exigência. II - A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. III - Agravo regimental improvido”.
+    Ainda que superado o mencionado óbice, melhor sorte não assistiria o recorrente. Isso porque como tem consignado este Tribunal, de acordo com a Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, confira-se o seguinte julgado:
+    “TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CONTRIBUIÇÕES SOCIAIS. EMPRESÁRIOS. AUTÔNOMOS E AVULSOS. LC 84/96. CONSTITUCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - A Contribuição social instituída pela Lei Complementar n. 84/96 teve sua constitucionalidade declarada pelo Plenário do STF, no julgamento do RE 228.321/RS. III - As razões do recurso não infirmam o fundamento da decisão agravada, o que atrai a incidência da Súmula 287 do STF. IV - Recurso protelatório. Aplicação de multa. V - Agravo regimental improvido” (AI 700.144-AgR/RJ, de minha relatoria, Primeira Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 31 de julho de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
