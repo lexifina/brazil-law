@@ -1,0 +1,7 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 761.263-RG/SC, Rel. Min. TEORI ZAVASCKI, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. SEGURADO ESPECIAL. ARTIGO 195, § 8º, DA CF/88. RESULTADO DA COMERCIALIZAÇÃO DA PRODUÇÃO. ART. 25 DA LEI 8.212/91, DESDE SUA REDAÇÃO ORIGINÁRIA. RECEITA BRUTA. BASE DE CÁLCULO. AUSÊNCIA DE IDENTIDADE. NECESSIDADE DE LEI COMPLEMENTAR. RECONHECIMENTO DA INCONSTITUCIONALIDADE DE DISPOSITIVOS DA LEI 8.212/91. EFEITOS REPRISTINATÓRIOS. Possui repercussão geral a questão atinente à constitucionalidade da contribuição a ser recolhida pelo segurado especial, prevista no art. 25 da Lei 8.212/1991, desde a sua redação originária, diante da ausência de identidade de sua base de cálculo (receita bruta) com a prevista no art. 195, § 8º, da Constituição Federal (resultado da comercialização).”
+    Sendo assim, e pelas razões expostas, determino, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem, para que, neste, seja observado o disposto no art. 543-B e respectivos parágrafos do CPC (Lei nº 11.418/2006).
+    Publique-se.
+    Brasília, 1º de agosto de 2014.
+Ministro CELSO DE MELLO
+Relator
