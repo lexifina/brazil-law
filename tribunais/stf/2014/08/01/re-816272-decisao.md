@@ -1,0 +1,16 @@
+Decisão: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    PENAL. PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. CRIME AMBIENTAL. ÁREA QUE SE INDICA COMO PERTENCENTE AO INCRA. COMPETÊNCIA. JUSTIÇA FEDERAL. RECURSO EM SENTIDO ESTRITO PROVIDO.
+    Na hipótese dos autos, verifica-se que o INCRA, através do ofício de fl. 23, informou “(...) que o Lote 256, localizado no Ramal São Paulo, PA-Paraná dos Mouras, município de Rodrigues Alves/AC, pertence ao Sr. Luiz Ferreira da Silva, é área de assentamento , não é titulado e pertence ao Incra” (fl. 23). Dessa forma, cuidando-se de conduta que se reputa praticada em área que se indica como pertencente ao Incra, autarquia federal, resta configurada, em tese, a competência da Justiça Federal, na forma do art. 109, IV, da Constituição Federal.
+    Não merece, assim, ser mantida a r. decisão recorrida.
+    Recurso em sentido estrito provido.
+    No recurso extraordinário, interposto com base no art. 102, III, da Constituição Federal, sustenta-se, preliminarmente, a existência de repercussão geral da matéria e aponta-se ofensa ao art. 109, IV, da CF/88, na medida em que “a mera fiscalização exercida pelo IBAMA configura apenas interesse genérico da União.” (fl. 105).
+    2. O recurso não merece prosperar. Diante do reconhecimento de que a área desmatada pertence ao INCRA – autarquia federal -, incide o art. 109, IV, da Constituição da República, segundo o qual compete à Justiça Federal processar e julgar os crimes praticados em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas. Nesse sentido: HC 85.547, Rel. Min. CARLOS VELLOSO, Segunda Turma, DJ de 20/04/2006, RHC 86081, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 25/10/2005, DJ 18-11-2005, este último assim ementado:
+    Habeas Corpus. 1. Parcelamento irregular de terras da União. Competência. Justiça Federal. 2. O Habeas Corpus é instrumento idôneo para eleger o foro competente para o julgamento da causa. 3. Comprovado que a gleba pertence ao patrimônio da União, incide a regra prevista no art. 109, IV, da Constituição Federal, sendo competência da Justiça Federal julgar e processar a ação penal proposta para apurar parcelamento irregular de terras. Precedentes do Pleno (HC 84.103)
+    Registre-se que o precedente citado pela parte recorrente (HC 81.916) não guarda semelhança com o caso ora em análise. Isto porque aquele caso não tratava de bem da União, mas sim de bem particular fiscalizado pelo IBAMA. Dessa forma, não há se falar, aqui, em mero interesse genérico, uma vez que o bem é de propriedade de autarquia federal.
+    3. Por fim, a alegação da parte recorrente de que “o ofício em questão não deixa clara a real situação da área, pois a informação que consta no documento atesta que a gleba pertence ao recorrente e, concomitantemente, ao INCRA” (fl. 104) não merece acolhida, porque não haveria como reverter o acórdão recorrido sem o exame de fatos, o que atrai ao conhecimento do recurso o óbice da Súmula 279/STF.
+    4. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
