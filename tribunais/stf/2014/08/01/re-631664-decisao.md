@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “CONSTITUCIONAL E PREVIDENCIÁRIO. PENSÃO. ESTUDANTE UNIVERSITÁRIO. MAIORIDADE. DIREITO.
+    1. Tendo como norte o direito à educação, dever do Estado e da família, bem como a aplicação analógica do art. 35 da Lei nº 9.250/95, deve ser resguardada a percepção de pensão, ainda que o seu beneficiário tenha atingido a maioridade, até a idade limite de 24 (vinte e quatro) anos, no intuito de possibilitar o custeio dos seus estudos universitários.
+    2. Presentes os requisitos para concessão da tutela antecipada, há que ser a medida concedida, tendo em vista a busca da efetiva prestação jurisdicional.
+    3. Apelação e remessa oficial improvidas” (fl. 186).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 5º, caput, I e II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 8.112/1990 e 9.250/1995). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Com esse entendimento destaco, os seguintes julgados desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PENSÃO PREVIDENCIÁRIA. ESTUDANTE UNIVERSITÁRIO. PERCEPÇÃO DE BENEFÍCIO ATÉ OS 25 (VINTE E CINCO) ANOS DE IDADE. CASO EM QUE ENTENDIMENTO DIVERSO DO ADOTADO PELA INSTÂNCIA JUDICANTE DE ORIGEM EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. SÚMULA 280/STF. 1. Eventual ofensa ao Magno Texto apenas ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via recursal extraordinária. 2. Agravo regimental desprovido” (AI 799.030-AgR/PE, Rel. Min. Ayres Britto).
+    “EMENTA: DIREITO PREVIDENCIÁRIO. PENSÃO POR MORTE. PRORROGAÇÃO. ESTUDANTE UNIVERSITÁRIO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE AFRONTA AO ART. 5º, XXXVI, DA CF/88. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 25.8.2011. O exame da alegada ofensa ao art. 5º, XXXVI, da Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Agravo regimental conhecido e não provido” (ARE 667.498-AgR/ES, Rel. Min. Rosa Weber – grifos meus).
+    No mesmo sentido, menciono a seguintes decisões, entre outras: ARE 700.930/MS, Rel. Min. Dias Toffoli; RE 804.769/BA, Rel. Min. Luiz Fux; ARE 749.977/RS, Rel. Min. Cármen Lúcia; RE 594.838-AgR/PE, Rel. Min. Eros Grau; ARE 819.873/PE, de minha relatoria.
+    Ademais, quanto à alegação referente aos juros de mora incidentes na espécie, verifica-se que – além de essa questão não ter sido objeto de exame no acórdão recorrido porque não fora suscitada em momento oportuno (fl. 200) – a recorrente, nas razões do recurso extraordinário, sequer indicou qual dispositivo constitucional teria sido eventualmente violado neste ponto, o que evidencia a deficiência na fundamentação do apelo extremo, nos termos da Súmula 284 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
