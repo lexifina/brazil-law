@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Colégio Recursal de Piracicaba do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcrevo a seguir:
+    “Restituição de TAC, TEC, encargos pelo financiamento do IOF e registro de gravame. Julgado do STJ no âmbito do regime dos recursos respectivos. Orientação jurisprudencial a ser observada. Contrato anterior a 30.04.2008. TAC cobrado acima da média das instituições financeiras à época. Devida restituição do que excedeu a média. Mantida a cobrança da TEC em razão da orientação pacificada pelo STJ. Financiamento do Iof admissível como reconhecido pelo STJ. Financiamento do Iof admissível como reconhecido pelo STJ. Pedido de restituição improcedente. Registro de gravame não comprovado. Restituição do valor respectivo devido. Recurso provido em parte”. (fl. 98)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, caput, XXXV e LV, do texto constitucional.
+    Nas razões recursais, alega-se que os contratos firmados devem ser cumpridos. Ademais, sustenta-se que o acórdão recorrido ofendeu o princípio da segurança jurídica.
+    A Presidência do Colégio Recursal inadmitiu o recurso por reputar que o caso se resolve no âmbito infraconstitucional e que ofensa à Constituição Federal, caso houvesse, seria indireta.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que, na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação ou violação à inafastabilidade jurisdicional.
+    Anoto, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010).
+    Igualmente, vale dizer que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), que não há repercussão geral em relação à violação dos princípios do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, conforme o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013. Nesse sentido, tal orientação deve ser aplicada no caso em comento, de modo a não conhecê-lo.
+    Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Por fim, em relação à isonomia, tem-se que o que se busca é a interpretação das cláusulas contratuais de modo diverso ao realizado pelo tribunal a quo. Nesse sentido, tal pretensão encontra óbice no Enunciado da Súmula 454 do STF, literalmente: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.”
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, §4º, II, a, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
