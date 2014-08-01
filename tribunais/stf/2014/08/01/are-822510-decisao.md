@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 5ª Região, cuja ementa transcrevo a seguir:
+    “PREVIDENCIÁRIO. CONCESSÃO DE APOSENTADORIA ESPECIAL. REQUISITOS PREENCHIDOS. RECONHECIMENTO DE TEMPO DE SERVIÇO ESPECIAL. EXPOSIÇÃO A ELETRICIDADE. DECRETOS Nº 53.831/64 E 83.080/70. NÃO INCLUSÃO DO REFERIDO FATOR PELOS DECRETOS 2172/97 E 3048/00. LEI Nº 7.369/85. PERICULOSIDADE COMPROVADA. USO DE EPI. SÚMULA Nº 09/TNU. VEDAÇÃO LEGAL DE CONCESSÃO DE APOSENTADORIA ESPECIAL A QUEM PERMANECE NA ATIVIDADE QUE A ENSEJOU. DESCABIMENTO. EXPOSIÇÃO AOS AGENTES NOCIVOS COMPROVADA. DIREITO RECONHECIDO. ANTECIPAÇÃO DE TUTELA. POSSIBILIDADE”. (fl. 111)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 201, §1º, do texto constitucional.
+    Nas razões recursais, alega-se que não haveria previsão legal para o enquadramento da eletricidade como agente apto a ensejar cômputo de tempo especial, bem como que haveria vedação constitucional a qualificar a periculosidade como agente caracterizador da especialidade das atividades.
+    A Vice-Presidência do TRF-5 inadmitiu o recurso por reputar ser caso de reexame de fatos e provas, bem como pela controvérsia cingir-se ao âmbito infraconstitucional.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, vale ressaltar que o Tribunal de origem assim decidiu a matéria:
+    “Comprovado o tempo de serviço prestado em condições prejudiciais à saúde e à integridade física, durante o período de 04.10.1985 até a data do requerimento administrativo, em que se detectou, através de laudo técnico-pericial e pelo PPP, a exposição habitual e permanente do segurado ao risco de sofrer descargas elétricas de tensão superior a 250 Volts, há de se lhe reconhecer o direito ao cômputo do período trabalhado como de caráter especial, posto que o agente físico eletricidade está previsto no item 1.1.8 do Decreto nº 53.831/64 e na Lei nº 7.369/85, regulamentado pelo Dec. Nº 93.412/86” (fl. 111)
+    Sendo assim, verifico que divergir do entendimento adotado pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, providência vedada na via extraordinária, em face do óbice previsto nos Enunciados 279 e 636 da Súmula do STF.
+    Quanto ao tema, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CRITÉRIOS PARA RECONHECIMENTO DE ATIVIDADE ESPECIAL. NECESSIDADE DO REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 668.513-AgR/SC, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 28.3.2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ABONO DE PERMANÊNCIA. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. IMPRESCINDIBILIDADE DA INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido quanto ao preenchimento dos requisitos para a concessão do abono de permanência seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 do STF, bem como seria imprescindível a interpretação da legislação infraconstitucional aplicável à espécie (Lei Complementar 51/1985), o que inviabiliza o extraordinário. Precedentes. II Agravo regimental a que se nega provimento”. (ARE 798.574-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8.5.2014)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, §4º, II, a, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
