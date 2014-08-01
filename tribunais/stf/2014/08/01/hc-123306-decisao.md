@@ -1,0 +1,20 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da relatoria do Ministro Jorge Mussi, assim ementado:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO. RECEBIMENTO DA DENÚNCIA. ALEGADA AUSÊNCIA DE JUSTA CAUSA. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO. VEDAÇÃO DA SÚMULA 7/STJ. VIOLAÇÃO GENÉRICA DE PRECEITOS INFRACONSTITUCIONAIS. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+    1. A desconstituição do entendimento firmado pelo Tribunal de piso diante de suposta contrariedade a lei federal, buscando a rejeição da exordial acusatória, não encontra campo na via eleita, dada a necessidade de revolvimento do material probante, procedimento de análise exclusivo das instâncias ordinárias – soberanas no exame do conjunto fático-probatório –, e vedado ao Superior Tribunal de Justiça, a teor da Súmula 7/STJ.
+    2. Por outro vértice, realça-se a incidência da Súmula 284/STF na hipótese de simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre a efetiva ofensa dos dispositivos legais pelo Tribunal de origem, não sendo, portanto, suficiente para fundamentar recurso especial.
+    3. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o paciente foi denunciado, com proposta de suspensão condicional do processo, pelo crime de contrabando (art. 334, §1º, c e d, do Código Penal) porque manteria em seu estabelecimento comercial máquina eletrônica programada a para exploração de jogos de azar. O Juízo de origem rejeitou a acusação pelo fundamento de que o paciente não teria condições de conhecer a origem estrangeira de parte dos componentes do “caça níquel”.
+    3. No julgamento do recurso em sentido estrito apresentado pelo Ministério Público Federal, o Tribunal Regional Federal da 2ª Região, por unanimidade de votos, determinou a instauração da ação penal por entender que “a denúncia preenche os requisitos formais do art. 41 do CPP e contém lastro probatório mínimo” (e-Doc 3, p. 112).
+    4. Desse acórdão a defesa interpôs Recurso Especial, que não foi admitido na origem. Interposto agravo em recurso especial, o relator, Ministro Jorge Mussi, com base nas Súmulas 07 e 284 do Superior Tribunal de Justiça, negou seguimento ao recurso. Essa decisão foi mantida pela Quinta Turma do Superior Tribunal de Justiça.
+    5. No presente habeas corpus, afirma-se inexistir lastro probatório mínimo para justificar a ação penal. Nesse mesmo sentido, sustenta-se que “pelos documentos que instruíram a denúncia que inexiste qualquer demonstração, mesmo que singela de que o denunciado tinha ciência que a máquina eletrônica programável possuía em sua composição peças irregularmente inserida no território nacional”. Requer-se, assim, concessão da ordem para o restabelecimento da decisão do Juízo de origem.
+    Decido.
+    6.  A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a via do habeas corpus não se presta para o reexame dos pressupostos de admissibilidade de recurso especial ( v.g HC 99.174 AgR, Rel. Min. Ayres Britto, HC 112.756, Rel.ª Min.ª Rosa Weber, e HC 112.422, Rel. Min. Luiz Fux). Da mesma forma, não compete ao Supremo Tribunal Federal reexaminar as condições de cabimento de recurso especial para julgar novamente a causa, ou determinar ao Superior Tribunal de Justiça que reaprecie o mérito da insurgência (v.g HC 111.159, Rel. Min. Teori Zavascki, e HC 113.407, Rel. Min. Ricardo Lewandowski).
+    7. Ademais, assim como afirmado no acórdão impugnado, não é possível, em sede extraordinária, o reexame do material probatório para concluir-se pela presença ou não de dolo na conduta do acusado.
+    8. Nessas condições, com base no art. 38 da Lei nº 8.038/1990, nego seguimento ao habeas corpus e determino o arquivamento dos autos.
+    Publique-se.
+    Intime-se.
+          Brasília, 1º de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
