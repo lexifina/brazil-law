@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fls. 425):
+    “APELAÇÕES CÍVEIS – AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS – PLANO DE SAÚDE – CASSEMS – EXISTÊNCIA DE COBERTURA PARA QUIMIOTERAPIA – TRATAMENTO MÉDICO PRESCRITO – AVASTIN E TACERVA – APLICAÇÃO DA LEI 9.656/98 E CÓDIGO DE PROCESSO CIVIL – DANOS MORAIS CABÍVEIS – VALOR MANTIDO – RECURSOS NÃO PROVIDOS.
+    1. Há perfeita incidência normativa do Código de Defesa do Consumidor nos contratos atinentes aos planos ou seguros de saúde.
+    2. Descabida a negativa securitária por parte da demandada sob a alegação de que se trata de tratamento experimental, pois o que importa para solução do litígio é a existência de cobertura à patologia apresentada pelo contratante, e não a forma como a terapia deverá ser ministrada. Cláusula expressa no contrato firmado entre as partes prevendo cobertura para quimioterapia.
+    3. Tratamento necessário para que o demandante tenha qualidade de vida e retome a sua jornada normal. Tutela que visa à proteção da vida, bem jurídico maior a ser garantido, atendimento ao princípio da dignidade humana.
+    4. A recusa indevida à cobertura médica pleiteada pelo segurado é causa de danos morais.
+    5- A indenização por dano moral não pode promover o enriquecimento sem causa, de forma que a vítima prefira o dano devidamente indenizado a não tê-lo sofrido, mas não pode se de modo vil que não cumpra a função de penalidade.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XVIII, XX e XXXVI, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “o prequestionamento é um dos pressupostos de admissibilidade do recurso extraordinário, devendo haver prévia discussão acerca da matéria arguida pelo Tribunal de origem. No entanto, no presente caso não está devidamente preenchido, uma vez que no acórdão recorrido aos dispositivos reputados ofendidos (artigo 5º, incisos XVIII e XX, da Constituição Federal) não foram aventados, faltando a discussão explícita sobre mencionada contrariedade” (fls. 502-504).
+    O recurso não deve ser provido, tendo em vista que, para dissentir do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente, procedimento inviável em sede de recurso extraordinário.
+    Ademais,a alegada violação ao art. 5º, XXXVI, da Constituição, só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. No presente recurso, a parte recorrente não cogita de retroação de lei superveniente, somente postula uma nova apreciação do material fático-probatório e das cláusulas constantes do contrato celebrado entre as partes, não ensejando a abertura da via extraordinária. Nessas condições, a hipótese atrai a incidência da Súmulas 279 e 454/STF.
+    Cabe ressaltar que a parte recorrente não traz na peça de recurso extraordinário a discussão sobre a aplicação retroativa de lei nova sobre planos de saúde aos contratos firmados antes da sua vigência, a luz do art. 5º, XXXVI, da Constituição Federal, matéria pendente de análise na sistemática da repercussão geral (RE 578.801, Rel.ª Min.ª Carmen Lúcia, substituído pelo ARE 652.492, da mesma relatoria).
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 04 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
