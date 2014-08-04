@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 139/140):
+    “DIREITO À EDUCAÇÃO – CURSO SUPLETIVO – ENSINO MÉDIO – MATRÍCULA E CERTIFICAÇÃO – IDADE MÍNIMA NÃO ALCANÇADA – POSSIBILIDADE – SENTENÇA MANTIDA.
+    1) O critério objetivo da idade mínima para a progressão de séries não é o único previsto na Lei de Diretrizes e Bases da Educação, devendo também ser considerados aspectos qualitativos do educando para a promoção a uma nova etapa de ensino, facultada às instituições de ensino a escolha de critérios que possibilitem a progressão, a partir das condições pessoais do aluno.
+    2) – Ao estudante que embora menor de 18 (dezoito) anos,, demonstra possuir capacidade intelectual e conhecimento necessário, tendo sido aprovado no exame vestibular, defere-se a matrícula e expedição do certificado de conclusão do ensino médio.
+    3) Tem o menor de 18 (dezoito) anos, regularmente aprovado em vestibular, direito à submeter-se a exame de supletivo do ensino médio, porque se assim não fosse, se estaria desrespeitando os artigos 5º, e 205 da Constituição da República Federativa do Brasil, não se podendo perder de vista que cabe ao Estado incentivar o estudo, e não desestimulá-lo.
+    4) – Sentença confirmada.”
+     O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 97 da Constituição. Sustenta que, ao “deixar de aplicar o art. 38 da Lei nº 9.394/96, ao argumento de ser ‘Evidente que o impedimento fere textos constitucionais’ (fl. 166), a Turma julgadora inequivocamente declarou-lhe implícita e incidentalmente a inconstitucionalidade parcial” (fls. 175).
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a questão de fundo, posta no apelo, é de cunho infraconstitucional, não cabendo sua análise pelo Supremo Tribunal Federal, até porque, se ofensa houvesse, esta seria indireta à Lex Mater” (fls. 188v).
+    O recurso não pode ser provido. Isso porque a jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Esse é o caso dos autos, visto que o Tribunal de origem não afastou a aplicação da Lei de Diretrizes e Bases da Educação, apenas assentou que o critério da “idade mínima para a progressão de séries não é a único previsto na Lei”. Nessa linha, confira-se trecho da ementa do RE 792.917-AgR, julgado sob a relatoria do Ministro Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO EDUCACIONAL. ENSINO MÉDIO. EXAME SUPLETIVO. IDADE MÍNIMA. ALEGADA VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. AUSÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO TRIBUNAL A QUO .
+    1. A violação ao princípio da reserva de plenário exige que a norma seja declarada inconstitucional, ou tenha sua aplicação negada pelo Tribunal de origem, o que não ocorre no caso sub examine, onde a controvérsia foi solucionada com apoio na interpretação conferida pelo Tribunal a quo à norma infraconstitucional que disciplina a matéria. Precedentes: Rcl 14.185-AgR, Rel. Min. Marco Aurélio, Plenário, Dje 12/6/2013, Rcl 15.128, Rel. Min. Rosa Weber, DJe 25/9/2013, RE 775.548-MG, Rel. Min. Celso de Mello, DJe 6/12/2013.
+    [...]”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 04 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
