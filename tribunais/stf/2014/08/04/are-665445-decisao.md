@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 131):
+    “ADMINISTRATIVO E CONSTITUCIONAL – PENSÃO A PORTADOR DE NECESSIDADES ESPECIAIS – VALOR NÃO INFERIOR AO SALÁRIO MÍNIMO NACIONALMENTE UNIFICADO – GARANTIA CONSTITUCIONAL.
+    1 – Consoante a previsão do art. 157, II, V, da Constituição do Estado de Santa Catarina, cumpre ao Estado prestar assistência por meio da concessão de um salário mínimo mensal, a portador de necessidades especais que comprove não possuir meios para prover ou ter provido sua manutenção, nos termos da Lei n. 6.185/82, alterada pela Lei n. 7.702/89, regulamentadas pelo Decreto 830/91.
+    2. No confronto entre o valor estabelecido na Constituição Estadual e o indicado em normas infraconstitucionais, deve, a toda evidência, prevalecer aquele.
+    ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS – LEI N. 11.960/2009 – INCIDÊNCIA A PARTIR DA VIGÊNCIA.
+    As alterações decorrentes da Lei 11.960, de 29 de junho de 2009, somente se aplicam as ações ajuizadas posteriormente a sua entrada em vigor.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 22, XXIII; 23, II; 194 e 203, V, todos da Constituição, bem como à Súmula Vinculante 10.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) ausência de prequestionamento do art. 194 da Constituição Federal; (ii) incidência da Súmula 283/STF quanto à alegada violação ao art. 22, XXIII, da CF; (iii) a controvérsia foi debatida com fundamento da legislação local (Súmula 280/STF); (iv) aplicação da Súmula 284/STF em relação ao cabimento do recurso com fundamento na alínea c do art. 102 da CF.
+    O recurso não deve ser admitido. No que diz respeito aos arts. 22, XXIII; 23, II; e 194, as alegações de ofensa à Constituição não foram apreciadas pelo acórdão impugnado. Tampouco foram suscitadas nos embargos declaratórios opostos. Nesse ponto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto à alegada violação ao art. 203, V, da Constituição, a controvérsia demandaria a análise da legislação infraconstitucional aplicável ao caso (art. 157, V, da Constituição Estadual), o que inviabiliza o processamento do presente recurso extraordinário. Nessa linha, vejam-se: AI 666.539-AgR, Rel. Min. Dias Toffoli; ARE 658.684-AgR, Rel. Min. Ricardo Lewandowski; ARE 683.550, Rel. Min. Gilmar Mendes; ARE 665.560, Rel. Min. Luiz Fux; e RE 695.545-AgR, Rel. Min. Marco Aurélio.
+    Ademais, não restou configurada afronta à Súmula Vinculante 10, uma vez que o Tribunal de origem não declarou a inconstitucionalidade de norma legal, tendo-se limitado a interpretar as disposições legais aplicáveis à espécie (Leis nºs 6.185/1982 e 7.702/1989 e Constituição do Estado de Santa Catarina).
+    Ademais, o Tribunal de origem também não julgou válida lei ou ato de governo local contestados em face da Constituição Federal, o que inviabiliza o recurso extraordinário com base na alínea c do inciso III do art. 102 da Constituição. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.“
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 04 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
