@@ -1,0 +1,21 @@
+Trata-se de recurso ordinário em mandado de segurança interposto por Fernando Murillo Pereira Peixoto e outros contra acórdão prolatado pela 3ª Seção do Superior Tribunal de Justiça nos autos do MS 15.077/DF, que confirmou decisão monocrática anteriormente proferida pela Ministra Maria Thereza de Assis Moura. Esta é a ementa do decisum ora recorrido:
+    “AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA. OMISSÃO DA COMISSÃO DE ANISTIA. MINISTRO DE ESTADO DA JUSTIÇA. ILEGITIMIDADE PASSIVA. PRECEDENTES. PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO. 1. Como a omissão impugnada nos autos é imputável à Comissão de Anistia, que ainda não teria emitido o prévio e obrigatório parecer acerca do direito do impetrante à anistia política, resta evidente a ilegitimidade do Ministro de Estado da Justiça para figurar no polo passivo do presente writ. Precedentes recentes da Terceira e Primeira Seção. 2. Agravo regimental improvido”.
+    Os recorrentes sustentam, em suma, a legitimidade passiva do Ministro de Estado da Justiça para figurar no polo passivo da impetração, uma vez que, segundo a Lei 10.559/2002, seria dele a omissão em apreciar o pleito, e não da Comissão de Anistia, mero órgão de assessoramento.
+    A Procuradoria Geral da República manifestou-se pela improcedência da reclamação em parecer assim sintetizado:
+    “Administrativo. Anistiados políticos. Recursos administrativos pendentes de julgamento. Necessidade de emissão de parecer prévio e favorável pela Comissão de Anistia. Inexistência de omissão atribuível ao Ministro de Estado da Justiça. Ilegitimidade passiva e impossibilidade jurídica do pedido. Pelo desprovimento do recurso”.
+    É o relatório. Decido.
+    Bem analisados os autos, entendo que a decisão proferida pelo Superior Tribunal de Justiça deve ser mantida em sua integralidade.
+    Na espécie, não restou comprovado nos autos a prática de qualquer ato comissivo ou omissivo pela autoridade apontada como coatora que pudesse, em tese, provocar lesão ao alegado direito dos ora recorrentes.
+    O acórdão impugnado, tal como se depreende da ementa acima transcrita, foi preciso ao afastar a legitimidade passiva do Ministro de Estado da Justiça:
+    “Consoante assentado na decisão agravada, da leitura da Lei nº 10.559/2002 verifica-se que, embora o Ministro de Estado da Justiça seja a autoridade competente para a concessão da anistia política, é obrigatório prévio parecer da Comissão de Anistia para fundamentar sua decisão, que, de acordo com o impetrante, ainda não foi lavrado.
+    No caso, portanto, como a omissão impugnada não é imputável ao Ministro de Estado da Justiça, e sim à Comissão de Anistia, resta evidente a ilegitimidade da autoridade ora impetrada para figurar no polo passivo do presente writ” (pág. 17 do documento eletrônico 7).
+    Nesse sentido é também a jurisprudência desta Corte, conforme se observa da leitura, entre outros, do acórdão prolatado pela Primeira Turma no RMS 25.175/DF, Rel. Min. Marco Aurélio, assim ementado:
+    “MANDADO DE SEGURANÇA - AUTORIDADE COATORA - INADEQUAÇÃO. Decorrendo da própria inicial a inexistência de ato comissivo ou omissivo da autoridade apontada como coatora, forçoso é concluir pela inadequação do mandado de segurança”.
+    Destaco, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal.
+    Nesse sentido, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, poderá o Relator
+    “negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil”.
+    Isso posto, nego seguimento a este recurso ordinário.
+    Publique-se.
+    Brasília, 4 de agosto de 2014.
+Ministro Ricardo Lewandowski
+Relator
