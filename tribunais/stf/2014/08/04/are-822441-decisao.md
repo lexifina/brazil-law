@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu provimento à apelação do Ministério Público para pronunciar o ora recorrente pelo crime previsto no art. 121, § 2º, I e IV, do Código Penal.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Constituição.
+    A decisão agravada não admitiu o recurso sob os seguintes fundamentos: (i) incidem, no caso, as Súmulas 279 e 282/STF; (ii) “a apontada afronta à Constituição Federal é indireta ou reflexa”.
+    O agravo é manifestamente inadmissível, por intempestivo. A decisão agravada foi publicada em 29.01.2014 e a petição de agravo foi protocolada no Tribunal de origem somente em 06.02.2014, ou seja, após o término do prazo recursal de cinco dias. Incide, no caso, a Súmula 699/STF:
+    “O prazo para interposição de agravo, em processo penal, é de cinco dias, de acordo com a Lei 8.038/90, não se aplicando o disposto a respeito nas alterações da Lei 8.950/94 ao Código de Processo Civil.”
+    Com efeito, o Plenário do Supremo Tribunal Federal, no julgamento do ARE 639.846-AgR-QO/SP, Redator para o acórdão o Ministro Luiz Fux, firmou o entendimento de que, em matéria penal, mantém-se o prazo de cinco dias previsto no art. 28 da Lei nº 8.038/1990 para a interposição do agravo contra a inadmissibilidade do recurso extraordinário.
+    No mesmo sentido, são o ARE 681840 AgR-ED/MS, Rel. Min. Ricardo Lewandowski, Segunda Turma; o HC 114876 AgR/MS, Rel. Min. Rosa Weber, Primeira Turma; o ARE 693904 AgR/PR, Rel. Min. Cármen Lúcia, Segunda Turma; e o ARE 659028 AgR/RN, Segunda Turma.
+    De qualquer forma, a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que não atende ao disposto no art. 543-A, § 2º, do CPC. Como já decidido por este Tribunal, a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579 AgR/MG, Rel. Min. Ricardo Lewandowski).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, necessária seria a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 04 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
