@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 140, de 2 de junho de 2014
+ASSUNTO: Contribuição de Intervenção no Domínio Econômico – CIDE EMENTA: ACESSO A BANCO DE IMAGENS. SERVIÇOS TÉCNICOS ESPECIALIZADOS. INCIDÊNCIA SOBRE REMESSAS. Estão sujeitos ao pagamento da Contribuição de Intervenção no Domínio Econômico - CIDE, a partir de 1.º de janeiro de 2002, os valores pagos, creditados, entregues, empregados ou remetidos a beneficiário residente ou domiciliado no exterior, em decorrência de contrato de acesso a banco de imagens. DISPOSITIVOS LEGAIS: Lei n.º 10.168, de 2000, e alterações posteriores, art. 2. º e §§ 1.º e 2.º; Decreto n.º 4.195, de 2002, art. 10; IN RFB n.º 1.455, de 2014, art. 17, II, “a”.
+[arquivo anexo: SC Cosit nº 140-2014.pdf]
