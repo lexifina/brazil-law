@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 3º, 5º, caput, 6º, 205, 206, I, e 227, caput, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A verificação da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demanda prévio reexame da interpretação conferida pelo Tribunal de origem a cláusulas editalícias, o que é vedado a esta instância extraordinária, a teor da Súmula 454/STF: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Concurso. Edital. 3. Reexame fático-probatório. Súmula 279 do STF. Precedentes. 4. Reexame de normas editalícias. Súmula 454 do STF. Precedentes. 5.Alegação de ofensa aos princípios da ampla defesa, do contraditório e do devido processo legal. ARE-RG 748.371. 6. Ausência de argumentos suficientes para infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE 789201 AgR, Rel. Min. GILMAR MENDES, 2ª Turma, DJe 10.6.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ENSINO SUPERIOR. SISTEMA DE COTAS. PREENCHIMENTO DE REQUISITOS. AUSÊNCIA DE COMPROVAÇÃO DE QUE A ALUNA OPTOU POR CONCORRER COMO COTISTA. IMPOSSIBILIDADE DE INTERPRETAÇÃO DO EDITAL DO VESTIBULAR E DO REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (RE 591956 AgR, Rel. Min. CÁRMEN LÚCIA, 1ª Turma, DJe 08.5.2009)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DE ÍNDOLE EMINENTEMENTE INFRACONSTITUCIONAL. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Agravo regimental desprovido.” (AI 764874 AgR, Rel. Min. AYRES BRITTO, 1ª Turma, DJe 06.8.2010)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. EXCLUSÃO DE CANDIDATO EM INVESTIGAÇÃO SOCIAL. 1. CONTROLE JUDICIAL DA DISCRICIONARIEDADE ADMINISTRATIVA: INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. 2. CONTROVÉRSIA SOBRE OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE, DA PROPORCIONALIDADE E DA ISONOMIA: SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 699911 AgR, Rel. Min. CÁRMEN LÚCIA, 2ª Turma, DJe 26.9.2012)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
