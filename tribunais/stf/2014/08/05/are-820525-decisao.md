@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Primeira Turma do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. DECISÃO QUE NEGA SEGUIMENTO AO APELO NOBRE COM FUNDAMENTO NO ART. 543-C, § 7º, INC. I DO CPC. NÃO CABIMENTO DO RECURSO. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL. QO NO AG 1.154.599/SP, CE, REL. MIN. CESAR ASFOR ROCHA, DJE 12.05.2011. AGRAVO NÃO CONHECIDO, COM DETERMINAÇÃO DE RETORNO DOS AUTOS AO TRIBUNAL A QUO PARA EXAME DO RECURSO COMO AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DO CONTRIBUINTE DESPROVIDO.
+    1. Já é entendimento pacífico nesta Corte, conforme o julgamento da Questão de Ordem no Ag 1.154.599/SP, que não cabe Agravo em Recurso Especial contra decisão que nega seguimento ao recurso com base no art. 543, parág. 7o., inc. I do CPC.
+    2. No caso de eventual erro do Tribunal a quo no juízo de admissibilidade do Apelo Raro, cabe Agravo Regimental perante o próprio órgão de origem, devendo os autos serem remetidos ao Tribunal de origem.
+    3. Agravo Regimental do contribuinte desprovido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 93, IX, e 105, III, ambos da Carta. Sustenta, em síntese, que não cabe ao tribunal estadual aplicar o art. 543-C do CPC por analogia, sob pena de usurpação de instância. Sustenta, igualmente, que a inadmissão do recurso implica o reconhecimento de que não existe qualquer meio de acesso ao STJ para mudança ou questionamento da jurisprudência adotada em tese de Recurso Especial repetitivo.
+    A decisão agravada negou seguimento ao recurso sob o seguinte fundamento: “o Supremo Tribunal Federal já se pronunciou no sentido de que não existe repercussão geral quando a matéria versar sobre pressupostos de admissibilidade, considerando-se que a solução da controvérsia envolve o exame de legislação infraconstitucional.”
+    Após a interposição de agravo interno contra a decisão de indeferimento liminar do recurso extraordinário, a Corte Especial do Superior Tribunal de Justiça decidiu pela manutenção da decisão. Confira-se a ementa da decisão:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DESTA CORTE. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO INTERNO DESPROVIDO.
+    I - Consoante entendimento do Supremo Tribunal Federal, as questões relativas aos pressupostos de admissibilidade de recursos da competência de outros Tribunais não ensejam a abertura da via extraordinária, não possuindo repercussão geral, tendo em vista que a solução da controvérsia exige o enfrentamento da legislação infraconstitucional, configurando, portanto, típica hipótese de ofensa indireta ou reflexa à Constituição Federal.
+    II - Agravo regimental desprovido.”
+    A pretensão não merece acolhida. Na hipótese dos autos, o acórdão recorrido adotou o entendimento de que não cabe agravo em recurso especial na hipótese de recurso denegado na forma da sistemática dos recursos repetitivos, nos termos da jurisprudência do Superior Tribunal de Justiça. Verifico, então, que o cerne da controvérsia é o cabimento do agravo em recurso especial na hipótese descrita.
+    Cumpre destacar que o Supremo Tribunal Federal assentou a ausência de repercussão geral da questão relativa ao cabimento de recursos da competência de outros Tribunais,considerando a ausência de repercussão constitucional do tema. Confira-se, a propósito, a ementa do RE 598.365, julgado sob a relatoria do Ministro Ayres Britto:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso elemento de configuração da própria repercussão geral , conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 05 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
