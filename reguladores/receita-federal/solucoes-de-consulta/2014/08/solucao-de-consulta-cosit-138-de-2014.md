@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 138, de 2 de junho de 2014
+ASSUNTO: Contribuição de Intervenção no Domínio Econômico – CIDE EMENTA: BANCOS DE DADOS. INFORMAÇÕES TÉCNICAS PARA AUXILIAR AÇÕES DA EMPRESA. As importâncias pagas, creditadas, entregues, empregadas ou remetidas ao exterior a título de remuneração pela prestação de serviços técnicos, disponibilizados por meio de bancos de dados, estão sujeitas à incidência da CIDE, uma vez que a sua execução depende de conhecimentos técnicos especializados. DISPOSITIVOS LEGAIS: Lei n.º 10.168, de 2000, e alterações posteriores, art. 2. º e §§ 1.º e 2.º; Decreto n.º 4.195, de 2002, art. 10; IN RFB n.º 1.455, de 2014, art. 17, II, “a”.
+[arquivo anexo: SC Cosit nº 138.pdf]
