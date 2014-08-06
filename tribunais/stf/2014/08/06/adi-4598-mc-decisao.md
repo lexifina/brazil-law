@@ -1,0 +1,14 @@
+Decisão: Em petição datada de 29.07.2014, o Presidente do Conselho Federal da OAB informou que o e. Tribunal de Justiça do Estado da Bahia – TJBA editou a Resolução nº 11, de 23.07.2014, e deliberou pela redução do expediente forense daquela unidade judiciária, alterando de 08:00 horas até 18:00 horas para um turno único de 08:00 às 15:00 horas. Aduz, ainda, que a referida alteração poderá prejudicar sobremaneira o atendimento aos advogados e partes, provocando uma desnecessária animosidade na prestação jurisdicional.
+    É o breve relatório. DECIDO.
+    O perigo da demora existe na hipótese dos autos, máxime porque aproxima-se o término da vacatio legis da norma impugnada – art. 6º da Resolução nº 11/2014, do TJBA –, que ocorrerá no dia 23.08.2014, 30 (trinta) dias após a data de sua publicação, dia 24.07.2014.
+    No que concerne ao requisito do fumus boni juris, assiste razão à parte Requerente quanto ao pleito de manutenção do expediente forense no horário até então praticado. Ainda que a instituição do expediente em turno único e ininterrupto de trabalho possa ter como objetivo uma melhor prestação dos serviços oferecidos, o fato é que, indubitavelmente, reduz-se o horário de atendimento ao público, situação que pode acarretar dificuldades irreversíveis a recomendar o deferimento do provimento liminar.
+    O provimento cautelar deferido nestes autos teve como escopo precípuo impedir que o novel regramento editado pelo CNJ pudesse tumultuar, sobremaneira, o regular funcionamento dos Tribunais brasileiros antes que se tivesse uma decisão definitiva desta Corte a respeito de quem detém a competência para disciplinar o horário de atendimento ao público nas Cortes: se o próprio Tribunal, em razão da sua autonomia administrativa, ou se o Conselho Nacional de Justiça.
+    Seu objetivo foi, assim, o de evitar uma mudança súbita e inesperada nos horários de atendimento ao público nos tribunais. A decisão liminar não teve o condão de permitir, e, nem mesmo, o de estimular uma redução do horário de atendimento ao público nos tribunais.
+    Assim, os tribunais brasileiros devem manter, até decisão definitiva desta Corte, o horário de atendimento ao público que já está sendo adotado nos seus respectivos âmbitos, sob pena de eventual prejuízo aos usuários do serviço público da justiça, em particular para a classe dos advogados.
+    Ex positis, e em razão especificamente do requerimento recentemente protocolizado nos autos, defiro o pedido formulado pelo Conselho Federal da OAB – CFOAB, a fim de determinar que seja mantido, sem qualquer redução ou alteração, o horário de atendimento ao público em vigor no Tribunal de Justiça do Estado da Bahia.
+    Publique-se. Intimem-se.
+    Oficie-se com urgência à Presidência do Tribunal de Justiça da Bahia para ciência desta decisão.
+    Brasília, 06 de agosto de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
