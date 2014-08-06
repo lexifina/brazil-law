@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região. A parte recorrente postula o reconhecimento da exigibilidade das debêntures emitidas pela Eletrobrás.
+    O recurso busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 3º; 5º, XXXVI; 148; 150, IV e 173, § 1º, II, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “constata-se crucial falha construtiva, incontornável, consistente na falta de prequestionamento da integralidade dos artigos mencionados, fls. 02/37, o que realizado inovadoramente tão somente embargos de declaração;” e (ii) “o ponto debatido pelo recorrente refoge do campo de atuação da Suprema Corte, estando afeto à legislação infraconstitucional que disciplina a penhora de bens na execução” (fls. 889).
+    O recurso não pode ser provido. De início, quanto à suscitada violação ao art. 5º, XXXVI, da Constituição, a questão só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. No presente recurso, a parte recorrente não cogita de retroação de lei superveniente, somente postula uma nova apreciação das cláusulas constantes do contrato celebrado entre as partes, não ensejando a abertura da via extraordinária. Nessas condições, a hipótese atrai a incidência da Súmula 454/STF.
+     Ademais, a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento da recusa da Fazenda Pública à Debêntures da Eletrobrás, indicadas à penhora em sede de execução fiscal, por se tratar de matéria infraconstitucional. Nessa linha, veja-se a ementa do AI 805.819-AgR, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Agravo regimental em agravo de instrumento. 2. Recusa de bem indicado à penhora. Debêntures da Eletrobrás. Execução fiscal. 3. Solução da controvérsia demanda rever a interpretação conferida pela origem à legislação infraconstitucional (Lei 6.830/80). Ofensa reflexa à Constituição Federal. Precedentes do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+    Outros precedentes: ARE 651.346-AgR, Rel. Min. Luiz Fux; AI 792.889-AgR, Rel. Min. Dias Toffoli; e ARE 769.165, Rel.ª Min.ª Cármen Lúcia.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar provimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 06 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
