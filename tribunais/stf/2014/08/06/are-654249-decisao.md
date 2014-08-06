@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal Superior do Trabalho negou acolhida a pedido formulado em recurso ordinário em dissídio coletivo, ante os seguintes fundamentos (folhas 2.562 – verso e 2.563):
+    Como sabido, o art. 114 da Constituição Federal, § 2º, com a redação dada pela EC 45/2004, dispõe que, ajuizado dissídio coletivo de natureza econômica de comum acordo, a Justiça do Trabalho pode decidir o conflito, respeitadas as disposições mínimas legais de proteção ao trabalho, bem como as convencionadas anteriormente.
+    Nesse sentido, a manutenção de cláusula em sentença normativa não decorre do conceito de direito adquirido tampouco acarreta violação do art. 614, § 3º, da CLT, que se refere à celebração de um instrumento autônomo por período superior a dois anos, ou de contrariedade à OJ 322 da SDI-1 do TST, que declara a invalidade de cláusula de termo aditivo de acordo coletivo de trabalho que prorrogue a norma por prazo indeterminado.
+    Com efeito, o art. 114, § 2º, da Constituição Federal não teria nenhum sentido ao remeter às "disposições convencionadas anteriores" se não fosse para serem tomadas em conta na sentença normativa vigente para o período subsequente.
+    Isso porque as condições obtidas por meio de acordo ou convenção coletiva de trabalho significam conquistas de trabalho da categoria profissional, por isso, merecem ser mantidas se não ofenderem as condições mínimas legais de trabalho. É dizer: o impasse na negociação coletiva em uma data-base não implica desconsiderar todo o histórico de conciliação havido anteriormente, tendo este, como visto, valor jurídico.
+    Apenas motivos que demonstrem a mudança do ponto de equilíbrio encontrado na negociação coletiva anterior autorizariam a revisão de cláusula, tanto em favor quanto contra os interesses de qualquer das partes.
+    No caso, trata-se de cláusula preexistente em acordos coletivos de trabalho (ACT 94/95, cl. 6ª, fls. 1132/1133; ACT 96/97, cl. 21ª, fls. 1120/1121; ACT 97/99, cl. 4ª, fls. 1150/1151; ACT 99/01, cl. 4ª, fls. 1180/1181; ACT 01/03, cl. 4ª, fls. 1221/1222; ACT 03/05, cl. 3ª, 1241/1242), inclusive no acordo celebrado para o período imediatamente anterior (ACT 05/07, cl. 3ª, fls. 1283/1284), circunstância que, desde logo, impõe a manutenção da cláusula.
+    Cumpre verificar eventual alteração substancial, mediante lei ou decorrente da própria dinâmica da sociedade e da evolução da jurisprudência, que justifique a exclusão ou alteração da cláusula.
+    Nesse aspecto, ressalte-se que o Regional tomou em conta a decisão do Supremo Tribunal Federal no sentido de que a aposentadoria não extingue o contrato de trabalho, e, assim, procedeu à alteração em favor da Empresa, excluindo o parágrafo que se referia ao prazo para pagamento do prêmio aposentadoria.
+    Aliás, no tocante ao Prêmio Aposentadoria, a própria cláusula já menciona que ele é "oriundo de acordos coletivos anteriores" e que aqueles empregados que dele se beneficiaram estão excluídos da percepção do benefício contemplado na cláusula.
+    Por outro lado, é bem verdade que a cláusula iniciou-se como programa de demissão voluntária, no contexto da privatização, mas, posteriormente, passou a incluir o incentivo à aposentadoria bem como a indenização por desligamento, de forma que se revela preexistente.
+    Nada impede, por outro lado, que as partes ajustem novo Programa de Demissão Voluntária, a fim de adequar-se a exigências de resultados e redução de despesas.
+    Nego provimento.
+    O extraordinário cujo trânsito se busca não se faz enquadrado no permissivo constitucional. Não há como ter-se por desrespeitados os artigos 7º, inciso XXVI, e 114, § 2º, da Carta da República, no que dispõem, respectivamente, sobre o reconhecimento das convenções e acordos coletivos de trabalho e a competência da Justiça do Trabalho para a apreciação de dissídio coletivo.
+    A par desse aspecto, concluir de forma diversa demandaria o reexame da moldura fática delineada soberanamente na origem e a interpretação de normas legais. À mercê de articulação sobre a violência à Constituição Federal, pretende-se submeter a análise matéria que não atende ao preconizado nas alíneas do inciso III do artigo 102 da Lei Fundamental.
+    2. Conheço deste agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 6 de agosto de 2014.
+Ministro MARCO AURÉLIO
+Relator
