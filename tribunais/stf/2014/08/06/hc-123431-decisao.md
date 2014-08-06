@@ -1,0 +1,14 @@
+DECISÃO
+LIMINAR – OBJETO – OBSERVÂNCIA.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    A defesa, por meio da Petição nº 33.686/2014/STF, noticia que a juíza do plantão judiciário noturno do Rio de Janeiro, Ana Beatriz Mendes Estrella, recebeu fac-símile do Supremo no dia 5 de agosto de 2014, às 20h14. Apesar de possuir a estrutura necessária não expediu o alvará de soltura em favor do paciente do Habeas Corpus nº 123.431/RJ, ante a falta de confirmação, via telefone, do envio do fac-símile pelo Supremo, embora a informação esteja disponível no sítio do Tribunal.
+    Argumenta ter permanecido, no referido plantão, até às 5h da manhã, com a finalidade de prestar os esclarecimentos necessários à expedição do alvará, bem como apoio logístico para deslocamento de oficiais de justiça em qualquer horário da madrugada. Salienta ter comunicado a autoridade coatora, na tarde do dia 5 de agosto de 2014, a respeito da concessão da liminar. Ressalta que o ato foi apresentado, via petição, ao Titular do Juízo coator, que, nessa mesma data, questionou se a ordem de fato existia e a quem caberia expedir o alvará de soltura. Sustenta ausência de diligência do Juízo para fazer valer o pronunciamento formalizado, pois poderia ter determinado que a assessoria confirmasse, perante o Supremo, a medida acauteladora deferida.
+    Requer a comunicação direta deste Gabinete ao Plantão Judiciário, em funcionamento até às 11h, a fim de atestar a autenticidade da determinação, ou a adoção de qualquer outra providência que Vossa Excelência entenda mais eficaz para assegurar o cumprimento imediato da decisão.
+    Anoto ter sido noticiado, pelo assessor Dr. Carlos Alexandre de Azevedo Campos, o recebimento de informações do cartório do juízo competente do Tribunal de Justiça do Rio de Janeiro, por telefone, no sentido de ser procedimento daquele Tribunal a confirmação de autenticidade dos ofícios recebidos via fac-símile. Como o referido ofício foi encaminhado pelo Supremo por volta das 20h do dia de ontem, quando ligaram para ratificar o envio do ofício, não conseguiram atendimento. Por isso, a magistrada de plantão despachou no sentido de, inicialmente, obter-se a confirmação da autenticidade do ofício. Após, o cartório ligou novamente para a Assessoria deste Gabinete comunicando que, uma vez já confirmada a autenticidade pelo Assessor Dr. Carlos Alexandre na primeira ligação, o procedimento para expedição de alvará de soltura já estava em curso.
+    2. Além da notícia do curso do procedimento para expedição de alvará de soltura, tem-se que o noticiário desta noite revelou haver sido implementada esta última.
+    3. Declaro o prejuízo do pedido formulado pelo impetrante.
+    4. Deem sequência ao habeas corpus.
+    5. Publiquem.
+Brasília – residência –, 6 de agosto de 2014, às 21h35.
+Ministro MARCO AURÉLIO
+Relator
