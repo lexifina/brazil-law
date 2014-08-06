@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. A irresignação não merece prosperar. No que toca à alegada ofensa ao artigo 93, IX, da CF/88, no julgamento do AI 791.292 QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), cuja repercussão geral foi reconhecida, e já julgada no mérito, o Supremo Tribunal Federal entendeu que a Constituição da República exige acórdão ou decisão fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas. A fundamentação do acórdão recorrido se ajusta às diretrizes desse precedente.
+    3. Ademais, o acolhimento do recurso dependeria da análise (a) da legislação local pertinente (Leis Estaduais 9.529/87 e 11.728/94); e (b) do conjunto fático-probatório dos autos, tendo em vista a afirmação do acórdão no sentido de que, conforme o contracheque acostado aos autos, a gratificação especial integra a remuneração da recorrida (fl. 296). Em face dessas colocações, o exame do recurso esbarra nos óbices das Súmulas 279 e 280 do STF. No mesmo sentido:
+    EMENTA: AGRAVO REGIMENTAL. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO ESPECIAL PARA OCUPANTES DE CARGOS OU FUNÇÕES COMISSIONADAS. EXTENSÃO AOS INATIVOS. INTERPRETAÇÃO DE DIREITO LOCAL. O Tribunal a quo decidiu a questão em debate com base na interpretação dada às Leis estaduais 11.728, de 1994 e 9.529, de 1987. Assim, para se chegar a conclusão diversa, seria necessária a análise de norma local, o que não é permitido em recurso extraordinário, à luz da Súmula 280 desta Corte. Agravo regimental a que se nega provimento. (AI 490.312 AgR/MG, Rel. Min. JOAQUIM BARBOSA, DJ de 16/6/2006).
+    4 . Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 6 de agosto de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
