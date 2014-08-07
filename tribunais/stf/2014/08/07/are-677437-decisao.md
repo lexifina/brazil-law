@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “CONSTITUCIONAL. ADMINISTRATIVO E PROCESSUAL IVIL. AÇÃO DECLARATÓRIA C/C COBRANÇA. APELAÇÃO. SERVIDOR PÚBLICO. REORGANIZAÇÃO DOS CARGOS LIGADOS À POLÍCIA CIVIL E À POLÍCIA TÉCNICO-CIENTÍFICA. ALTERAÇÃO DO REGIME DE REMUNERAÇÃO. AUSÊNCIA DO DIREITO ADQUIRIDO A REGIME JURÍDICO. EXTENSÃO DE EFEITOS DE LEI QUE REGULAMENTA REAJUSTE A CATEGORIA DIVERSA. PORTE DE ARMA E DE IDENTIDADE FUNCIONAL DE POLICIAL CIVIL(...)”.
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se violação ao arts. 5º, XXXV, LV, 6 º e 93, IX, da mesma Carta.
+    O Ministério Público Federal, em parecer da lavra do então Subprocurador-Geral da República Paulo de Tarso Braz Lucas, opinou pelo não conhecimento do recurso extraordinário.
+    A pretensão recursal não merece acolhida.
+    Consta do relatório do Desembargador à folhas 306-308:
+    “como muito bem observaram o Magistrado de primeira instância e a Câmara única desta Corte, a pretensão dos recorrentes, em verdade, é ter restabelecidos os vínculos funcionais, com o reconhecimento dos prejuízos remuneratórios sofrido, e consequentemente, o direito ao pagamento destas diferenças salariais, o que é claramente vedado pela Súmula 339 do STF (...)”.
+    Ressalte-se que a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ademais, o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição Federal. Nesse sentido, cito, entre outras, as seguintes decisões: AI 774.204-AgR/MG, Rel. Min. Ayres Britto; RE 602.456-AgR/RN, Rel. Min. Eros Grau; AI 763.681-AgR/MG, Rel. Min. Cármen Lúcia; RE 571.978-AgR/SP, Rel. Min. Cezar Peluso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 7 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
