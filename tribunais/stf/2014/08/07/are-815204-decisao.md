@@ -1,0 +1,27 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, caput e 37, caput, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 761.878/MG, Rel. Min. Gilmar Mendes, DJe 05.8.2013, com a seguinte decisão:
+    “Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Minas Gerais ementado nos seguintes termos:
+    ‘LEGALIDADE. ADICIONAL POR LOCAL DE TRABALHO. UNIDADE PENITENCIÁRIA. EXCEÇÃO. LEI 11.717/94, ART. 6º. CONFIGURAÇÃO. VANTAGEM NÃO DEVIDA.
+    Face ao princípio da legalidade o Adicional de Local de Trabalho previsto no art. 1º da Lei 11.717/94 não é devido a servidor pertencente a quadro de carreira estabelecido ou previsto em lei orgânica específica, tal qual o professor, ainda que este servidor exerça suas atividades nas unidades penitenciárias arroladas na referida lei (art. 6º, da Lei 11.717/94). (Apelação Cível 1.0024.11.066953-8/001, Relator(a): Des.(a) Selma Marques, 6ª Câmara Cível, julgamento em 13/11/2012, publicação da Súmula em 27/11/2012)’. (fl.143)
+     No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alíneas ‘a’, ‘b’ e ‘c’, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 5º, XXXV; e 37, caput e inciso II, do Texto Constitucional.
+     Alega-se, em síntese, que a recorrente não pode ser considerada servidora pública estatutária, pois possui vínculo empregatício de caráter emergencial e temporário com o Estado de Minas Gerais. Alega que o disposto no art. 6º da Lei 11.717/94, portanto, não se aplicaria ao seu caso, uma vez que não seria cabível aos servidores não efetivos.
+     Sustenta-se, ademais, que a suposta efetivação ocorrida em um dos cargos ocupados pela recorrente, por força da Lei Complementar nº 100/2007, foi declarada incidentalmente inconstitucional pelo Tribunal de Justiça de Minas Gerais.
+     Por fim, alega-se que houve tratamento desigual em relação a servidora de carreira que, mesmo exposta a situações físicas e emocionais desgastantes, não foi contemplada pelo adicional de local de trabalho, que não está vinculado à função desempenhada, mas tão somente à lotação dos servidores nos estabelecimentos especificados na Lei nº 11.717/94.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Para concluir de forma diversa do consignado pelo Tribunal de origem, no que pertine ao recebimento do adicional de local de trabalho, faz-se imprescindível a prévia interpretação da legislação infraconstitucional aplicável à espécie – Lei Estadual nº 11.717/1994. No caso, a ofensa à Constituição Federal, se existente, dar-se-ia de forma reflexa, o que inviabiliza o prosseguimento do recurso extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, confiram-se os seguintes precedentes:
+     ‘Agravo regimental no recurso extraordinário. Servidor público. Jornada de trabalho. horas extras. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o exame de ofensa reflexa à Constituição Federal e de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido’. (RE-AgR 633.663, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 22.6.2012).
+     ‘AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POLICIAL CIVIL DO ESTADO DE SERGIPE. JORNADA DE TRABALHO. PAGAMENTO DE HORAS EXTRAORDINÁRIAS E ADICIONAL NOTURNO. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 1. Eventual ofensa ao Magno Texto apenas ocorreria de modo reflexo ou indireto. Precedentes do Supremo Tribunal Federal. 2. Agravo regimental desprovido’. (RE-AgR 597351, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 22.9.2011).
+     Ante o exposto, nego provimento ao recurso (arts. 21, §1º, do RISTF e 544, 4º, II, ‘a’, do CPC).”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
