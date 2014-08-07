@@ -1,0 +1,21 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 8ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado (fls. 234):
+    TRIBUTÁRIO. PROCESSUAL CIVIL. IMPOSTO DE RENDA. CORREÇÃO MONETÁRIA. TABELA PROGRESSIVA. LEGITIMIDADE ATIVA DE SINDICATO. SUBSTITUIÇÃO PROCESSUAL. ART. 515, § 3º, DO CPC. OFENSA AOS PRINCÍPIOS DA TRIPARTIÇÃO DE PODERES E DA RESERVA LEGAL.
+    1. O sindicato tem legitimidade ativa, como substituto processual, para representar seus afiliados, o que torna prescindível a apresentação de autorização. Precedentes.
+    2. Em caso de matéria eminentemente de direito, e devidamente instruídos os autos para julgamento, aplica-se o disposto no art. 515, § 3º, do CPC.
+    3. Constitui opção do legislador a conversão do índice de atualização da moeda UFIR pelo valor real da moeda na data de 1º/01/1996, conforme os ditames do art. 2º da Lei 9.250/1995.
+    4. Não cabe ao Poder Judiciário, sob a assertiva de promoção da justiça social e da garantia da ordem constitucional, investir-se no papel do Poder Legislativo, e criar dispositivo de lei por via transversa, sob pena de séria ofensa aos princípios constitucionais da tripartição dos poderes e da reserva legal.
+    5. Apelação a que se dá provimento, para reconhecer a legitimidade ativa do Sindicato, e, no mérito, julgar improcedente a ação.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 3º, I, III e IV; 145, § 1º; e 150, I, II, IV, todos da Carta. Sustenta, em síntese, que a ausência de atualização das tabelas do imposto de renda implica o aumento da carga tributária sem a observância dos princípios constitucionais aplicáveis.
+    A decisão agravada negou seguimento ao recurso sob o seguinte fundamento: “o recurso extraordinário não merece seguimento em razão de o pedido estar dissonante com a jurisprudência do Supremo Tribunal Federal”. Em sede de agravo, a parte reitera os argumentos deduzidos no extraordinário.
+    A pretensão não merece acolhida. Com efeito, no julgamento do RE 388.312, o Plenário firmou entendimento no sentido de que não cabe ao Poder Judiciário autorizar a correção monetária da tabela progressiva do imposto de renda mediante a ausência de previsão legal neste sentido. Ressaltou-se, inclusive, que a pretensa violação ao princípio do não confisco e da capacidade contributiva não poderiam ser reconhecidas em tese, de modo que a procedência da alegação dependeria da análise individualizada de cada contribuinte. Confira-se ementa da decisão:
+    “RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL E ECONÔMICO. CORREÇÃO MONETÁRIA DAS TABELAS DO IMPOSTO DE RENDA. LEI N. 9.250/1995. NECESSIDADE DE LEI COMPLEMENTAR E CONTRARIEDADE AOS PRINCÍPIOS DA CAPACIDADE CONTRIBUTIVA E DO NÃO CONFISCO. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, A ELE NEGADO PROVIMENTO.
+    1. Ausência de prequestionamento quanto à alegação de inconstitucionalidade formal da Lei n. 9.250/1995 por contrariedade ao art. 146, inc. III, alínea a, da Constituição da República.
+    2. A vedação constitucional de tributo confiscatório e a necessidade de se observar o princípio da capacidade contributiva são questões cuja análise dependem da situação individual do contribuinte, principalmente em razão da possibilidade de se proceder a deduções fiscais, como se dá no imposto sobre a renda. Precedentes.
+    3. Conforme jurisprudência reiterada deste Supremo Tribunal Federal, não cabe ao Poder Judiciário autorizar a correção monetária da tabela progressiva do imposto de renda na ausência de previsão legal nesse sentido. Entendimento cujo fundamento é o uso regular do poder estatal de organizar a vida econômica e financeira do país no espaço próprio das competências dos Poderes Executivo e Legislativo.
+    4. Recurso extraordinário conhecido em parte e, na parte conhecida, a ele negado provimento.” (RE 388.312, Rel. Min. Marco Aurélio, Red. p/ acórdão Minª Cármen Lúcia, DJe 11.10.2011)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 07 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
