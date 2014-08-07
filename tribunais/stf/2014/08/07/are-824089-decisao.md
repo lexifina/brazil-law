@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 81):
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. MILITAR. PAGAMENTO DE HORAS EXTRAS. IMPOSSIBILIDADE. PRINCÍPIO DA LEGALIDADE. CONSTITUIÇÃO ESTADUAL. ART. 46, I. DECRETOS Nº 40.986/2001 E Nº 29.076/79.
+    1. Necessária a convocação expressa do servidor pelo Governador do Estado para a prestação de horas extras. A Administração Pública deve obedecer ao princípio constitucional da legalidade, art. 37, caput, da Constituição Federal.
+    2. Aos servidores policiais militares que estiverem percebendo diárias a qualquer título é vedada a acumulação com o pagamento pelo desempenho do serviço extraordinário. Inteligência do Decreto Estadual nº 29.076/79. Precedentes desta Corte.
+    NEGARAM PROVIMENTO À APELAÇÃO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, XXIII e XVI; 37, caput, § 6º; e 39, § 3º, da Constituição. Sustenta que, “independentemente de existir ou não autorização do Governador do Estado para a execução de serviço extraordinário, o que deve prevalecer é que o serviço extraordinário foi efetivamente prestado (e comprovado), após convocação dos comandantes do Autor, revelando-se imprescindível o pagamento da indenização pleiteada na presente demanda, uma vez que não houve remuneração respectiva às horas extraordinárias ou compensação através de folgas de seu serviço ordinário” (fls. 103).
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que incidem, no caso, as Súmulas 279 e 280/STF.
+    O recurso não deve ser provido. De saída, ressalto que a alegada violação ao art. 37, § 6º, da Constituição Federal foi suscitada de modo inaugural nos embargos de declaração opostos ao acórdão impugnado, o que não atende ao requisito do prequestionamento, nos termos da Súmula 282/STF:
+    “Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.”
+    Ademais, o Tribunal de origem concluiu que o recorrente não possui direito ao recebimento das horas extras, tendo vem vista a impossibilidade de acumulação com o recebimento de diárias, mesmo sendo aquelas autorizadas pelo Governador de Estado. A propósito, vejam-se os seguintes trechos do voto condutor do acórdão (fls. 83/83v):
+    “No caso dos autos, conforme já frisado, o apelante reclama o pagamento de horas extraordinárias, mas inexiste prova de que o Senhor Governador do Estado tenha autorizado expressa e previamente o Comandante Geral da Brigada Militar a convocar o servidor para o exercício das horas extraordinárias no período reclamado, nos termos do Decreto Estadual nº 40.986/2001.
+    Ademais, por força do Decreto Estadual nº 29.076/79 e do Decreto Estadual nº 41.256/01, que alterou o Decreto Estadual nº 40.986/01, a autorização é inaplicável aos servidores militares que percebam diárias de viagem, como é o cado dos autos (fl. 34).
+    […]
+    A vedação contida no Decreto Estadual nº 41.255/01 não viola o §10 do artigo 49 da Lei Complementar Estadual nº 10.990/97, que faculta a contraprestação as horas extras em pecúnia ou folga, já que o art. 5º do Decreto nº 40.986/01 Estadual possibilita a compensação das horas não autorizadas com folgas.,
+    Dessa forma, as horas extras trabalhadas, em conformidade com o art. 5º do Decreto Estadual nº 40.986/2001, somente podem ser compensados com horas de folga, na medida em que aos servidores policiais militares que estiverem percebendo diárias a qualquer título é vedada a acumulação com a gratificação pelo desempenho de serviço extraordinário”.
+    Desse modo, dissentir dessa conclusão exigiria a análise da legislação local pertinente (art. 46 da Constituição estadual, Lei Complementar estadual nº 10.990/1997 e Decretos estaduais nºs 29.076/1979 e 40.986/2001), bem como reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. Nessa linha, veja-se a ementa do ARE 694.809, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. POLICIAL MILITAR. HORAS EXTRAS. LEI COMPLEMENTAR ESTADUAL N. 11.650/2001, DECRETO ESTADUAL N. 40.986/2001. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    Outros precedentes: ARE 690.122, Rel. Min. Ricardo Lewandowski; e AI 733.620, Rel. Min. Dias Toffoli.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 07 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
