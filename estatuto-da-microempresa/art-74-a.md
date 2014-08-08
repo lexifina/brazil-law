@@ -1,0 +1,1 @@
+Art. 74-A. O Poder Judiciário, especialmente por meio do Conselho Nacional de Justiça - CNJ, e o Ministério da Justiça implementarão medidas para disseminar o tratamento diferenciado e favorecido às microempresas e empresas de pequeno porte em suas respectivas áreas de competência.

@@ -1,0 +1,1 @@
+Art. 58-A. Os bancos públicos e privados não poderão contabilizar, para cumprimento de metas, empréstimos realizados a pessoas físicas, ainda que sócios de empresas, como disponibilização de crédito para microempresas e empresas de pequeno porte.

@@ -1,0 +1,1 @@
+Art. 18-D. A tributação municipal do imposto sobre imóveis prediais urbanos deverá assegurar tratamento mais favorecido ao MEI para realização de sua atividade no mesmo local em que residir, mediante aplicação da menor alíquota vigente para aquela localidade, seja residencial ou comercial, nos termos da lei, sem prejuízo de eventual isenção ou imunidade existente.
