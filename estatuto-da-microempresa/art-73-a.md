@@ -1,0 +1,1 @@
+Art. 73-A. São vedadas cláusulas contratuais relativas à limitação da emissão ou circulação de títulos de crédito ou direitos creditórios originados de operações de compra e venda de produtos e serviços por microempresas e empresas de pequeno porte.

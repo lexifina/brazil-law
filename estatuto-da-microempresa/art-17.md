@@ -12,8 +12,8 @@ X - que exerça atividade de produção ou venda no atacado de:
 a) cigarros, cigarrilhas, charutos, filtros para cigarros, armas de fogo, munições e pólvoras, explosivos e detonantes;
 b) bebidas a seguir descritas:
 1 - alcoólicas;
-2 - refrigerantes, inclusive águas saborizadas gaseificadas;
-3 - preparações compostas, não alcoólicas (extratos concentrados ou sabores concentrados), para elaboração de bebida refrigerante, com capacidade de diluição de até 10 (dez) partes da bebida para cada parte do concentrado;
+2. (Revogado);
+3. (Revogado);
 4 - cervejas sem álcool;
 XI - que tenha por finalidade a prestação de serviços decorrentes do exercício de atividade intelectual, de natureza técnica, científica, desportiva, artística ou cultural, que constitua profissão regulamentada ou não, bem como a que preste serviços de instrutor, de corretor, de despachante ou de qualquer tipo de intermediação de negócios;
 XII - que realize cessão ou locação de mão-de-obra;

@@ -1,0 +1,1 @@
+Art. 3º-B. Os dispositivos desta Lei Complementar, com exceção dos dispostos no Capítulo IV, são aplicáveis a todas as microempresas e empresas de pequeno porte, assim definidas pelos incisos I e II do caput e § 4º do art. 3º, ainda que não enquadradas no regime tributário do Simples Nacional, por vedação ou por opção.

@@ -2,5 +2,11 @@ Art. 1º Esta Lei Complementar estabelece normas gerais relativas ao tratamento 
 I - à apuração e recolhimento dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos Municípios, mediante regime único de arrecadação, inclusive obrigações acessórias;
 II - ao cumprimento de obrigações trabalhistas e previdenciárias, inclusive obrigações acessórias;
 III - ao acesso a crédito e ao mercado, inclusive quanto à preferência nas aquisições de bens e serviços pelos Poderes Públicos, à tecnologia, ao associativismo e às regras de inclusão.
+IV - ao cadastro nacional único de contribuintes a que se refere o inciso IV do parágrafo único do art. 146, in fine, da Constituição Federal.
 § 1º Cabe ao Comitê Gestor do Simples Nacional (CGSN) apreciar a necessidade de revisão, a partir de 1º de janeiro de 2015, dos valores expressos em moeda nesta Lei Complementar.
 § 2º (VETADO).
+§ 3º Ressalvado o disposto no Capítulo IV, toda nova obrigação que atinja as microempresas e empresas de pequeno porte deverá apresentar, no instrumento que a instituiu, especificação do tratamento diferenciado, simplificado e favorecido para cumprimento.
+§ 4º Na especificação do tratamento diferenciado, simplificado e favorecido de que trata o § 3º, deverá constar prazo máximo, quando forem necessários procedimentos adicionais, para que os órgãos fiscalizadores cumpram as medidas necessárias à emissão de documentos, realização de vistorias e atendimento das demandas realizadas pelas microempresas e empresas de pequeno porte com o objetivo de cumprir a nova obrigação.
+§ 5º Caso o órgão fiscalizador descumpra os prazos estabelecidos na especificação do tratamento diferenciado e favorecido, conforme o disposto no § 4º, a nova obrigação será inexigível até que seja realizada visita para fiscalização orientadora e seja reiniciado o prazo para regularização.
+§ 6º A ausência de especificação do tratamento diferenciado, simplificado e favorecido ou da determinação de prazos máximos, de acordo com os §§ 3º e 4º, tornará a nova obrigação inexigível para as microempresas e empresas de pequeno porte.
+§ 7º A inobservância do disposto nos §§ 3º a 6º resultará em atentado aos direitos e garantias legais assegurados ao exercício profissional da atividade empresarial.

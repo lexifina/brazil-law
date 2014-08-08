@@ -1,0 +1,1 @@
+Art. 60-B. Os fundos garantidores de risco de crédito empresarial que possuam participação da União na composição do seu capital atenderão, sempre que possível, as operações de crédito que envolvam microempresas e empresas de pequeno porte, definidas na forma do art. 3º desta Lei.
