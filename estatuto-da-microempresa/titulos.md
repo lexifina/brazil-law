@@ -35,8 +35,9 @@ Seção XIII
 Do Processo Judicial
 CAPÍTULO V
 DO ACESSO AOS MERCADOS
-Seção única
+Seção I
 Das Aquisições Públicas
+Seção II
 Acesso ao Mercado Externo
 CAPÍTULO VI
 DA SIMPLIFICAÇÃO DAS RELAÇÕES DE TRABALHO
