@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao princípio da eficiência, consagrado no art. 37 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Oportuna a transcrição da ementa da decisão impugnada:
+    “IMPUGNAÇÃO AO CUMPRIMENTO DE SENTEÇA. NULIDADE ANTERIOR À FORMAÇÃO DA COISA JULGADA. DESCABIMENTO DA IMPUGNAÇÃO”.
+    Inadmissão de agravo da decisão que não conheceu de recurso extraordinário pela ausência de juntada aos autos de instrumento de procuração. Ausência de interposição de recurso da decisão monocrática de inadmissão. Implementada a eficácia preclusiva da coisa julgada, nos termos do artigo 474 do Código de Processo Civil.
+    Se nulidade houve, com a não juntada de suposto instrumento de mandato protocolado, essa é anterior à formação da coisa julgada, não sendo o instrumento da impugnação ao cumprimento de sentença o adequado na hipótese, sob pena de estar admitindo como se ação rescisória fosse. Sentença mantida.
+    A discussão travada nos autos não alcança status constitucional, porquanto solvida à luz da interpretação da legislação infraconstitucional aplicável à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, in verbis:
+“Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR. PROCESSO DISCIPLINAR. OBSERVÂNCIA DO CONTRADITÓRIO E AMPLA DEFESA. VIOLAÇÃO AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279. ALEGAÇÃO DE OFENSA AO ART. 37, CAPUT, DA CONSTITUIÇÃO. OFENSA REFLEXA. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO. I – A jurisprudência deste Tribunal firmou-se no sentido de que, nos procedimentos administrativos, é necessária a observância dos princípios do contraditório e da ampla defesa, conforme assegurado pelo art. 5º, LV, da Constituição. Precedentes. II – Para dissentir da conclusão adotada pelo acórdão recorrido, quanto à suposta violação à ampla defesa e ao contraditório no processo administrativo ao qual foi submetido o ora agravante, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. III – As alegações de desrespeito aos postulados da legalidade, impessoalidade, moralidade, publicidade e eficiência, se dependentes de reexame prévio de normas infraconstitucionais, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. III – Agravo regimental improvido.” (ARE 728143 AgR/SP, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 25.6.2013).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
