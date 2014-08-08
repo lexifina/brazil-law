@@ -12,7 +12,7 @@ b) R$ 1,00 (um real), a título do imposto referido no inciso VII do caput do ar
 c) R$ 5,00 (cinco reais), a título do imposto referido no inciso VIII do caput do art. 13 desta Lei Complementar, caso seja contribuinte do ISS;
 VI - sem prejuízo do disposto nos §§ 1º a 3º do art. 13, o MEI terá isenção dos tributos referidos nos incisos I a VI do caput daquele artigo, ressalvado o disposto no art. 18-C.
 § 4º Não poderá optar pela sistemática de recolhimento prevista no caput deste artigo o MEI:
-I - cuja atividade seja tributada pelos Anexos IV ou V desta Lei Complementar, salvo autorização relativa a exercício de atividade isolada na forma regulamentada pelo Comitê Gestor;
+I - cuja atividade seja tributada na forma dos Anexos V ou VI desta Lei Complementar, salvo autorização relativa a exercício de atividade isolada na forma regulamentada pelo CGSN;
 II - que possua mais de um estabelecimento;
 III - que participe de outra empresa como titular, sócio ou administrador; ou
 IV - que contrate empregado.
@@ -43,8 +43,17 @@ II - apresentar a Relação Anual de Informações Sociais (Rais); e
 III - declarar ausência de fato gerador para a Caixa Econômica Federal para emissão da Certidão de Regularidade Fiscal perante o FGTS.
 § 14. O Comitê Gestor disciplinará o disposto neste artigo.
 § 15. A inadimplência do recolhimento do valor previsto na alínea "a" do inciso V do § 3º tem como consequência a não contagem da competência em atraso para fins de carência para obtenção dos benefícios previdenciários respectivos.
+§ 15-A. Ficam autorizados os Estados, o Distrito Federal e os Municípios a promover a remissão dos débitos decorrentes dos valores previstos nas alíneas b e c do inciso V do § 3º, inadimplidos isolada ou simultaneamente.
+§ 15-B. O MEI poderá ter sua inscrição automaticamente cancelada após período de 12 (doze) meses consecutivos sem recolhimento ou declarações, independentemente de qualquer notificação, devendo a informação ser publicada no Portal do Empreendedor, na forma regulamentada pelo CGSIM.
 § 16. O CGSN estabelecerá, para o MEI, critérios, procedimentos, prazos e efeitos diferenciados para desenquadramento da sistemática de que trata este artigo, cobrança, inscrição em dívida ativa e exclusão do Simples Nacional.
 § 17. A alteração de dados no CNPJ informada pelo empresário à Secretaria da Receita Federal do Brasil equivalerá à comunicação obrigatória de desenquadramento da sistemática de recolhimento de que trata este artigo, nas seguintes hipóteses:
 I - alteração para natureza jurídica distinta de empresário individual a que se refere o art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);
 II - inclusão de atividade econômica não autorizada pelo CGSN;
 III - abertura de filial.
+§ 18. Os Municípios somente poderão realizar o cancelamento da inscrição do MEI caso tenham regulamentação própria de classificação de risco e o respectivo processo simplificado de inscrição e legalização, em conformidade com esta Lei Complementar e com as resoluções do CGSIM.
+§ 19. Fica vedada aos conselhos representativos de categorias econômicas a exigência de obrigações diversas das estipuladas nesta Lei Complementar para inscrição do MEI em seus quadros, sob pena de responsabilidade.
+§ 20. Os documentos fiscais das microempresas e empresas de pequeno porte poderão ser emitidos diretamente por sistema nacional informatizado e pela internet, sem custos para o empreendedor, na forma regulamentada pelo Comitê Gestor do Simples Nacional.
+§ 21. Assegurar-se-á o registro nos cadastros oficiais ao guia de turismo inscrito como MEI.
+§ 22. Fica vedado às concessionárias de serviço público o aumento das tarifas pagas pelo MEI por conta da modificação da sua condição de pessoa física para pessoa jurídica.
+§ 23. (VETADO).
+§ 24. Aplica-se ao MEI o disposto no inciso XI do § 4º do art. 3º.

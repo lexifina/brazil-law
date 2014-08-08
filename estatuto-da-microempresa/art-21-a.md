@@ -1,0 +1,1 @@
+Art. 21-A. A inscrição de microempresa ou empresa de pequeno porte no Cadastro Informativo dos créditos não quitados do setor público federal - CADIN, somente ocorrerá mediante notificação prévia com prazo para contestação.
