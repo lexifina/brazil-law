@@ -1,4 +1,4 @@
-Art. 56. As microempresas ou as empresas de pequeno porte optantes pelo Simples Nacional poderão realizar negócios de compra e venda de bens, para os mercados nacional e internacional, por meio de sociedade de propósito específico nos termos e condições estabelecidos pelo Poder Executivo federal.
+Art. 56. As microempresas ou as empresas de pequeno porte poderão realizar negócios de compra e venda de bens e serviços para os mercados nacional e internacional, por meio de sociedade de propósito específico, nos termos e condições estabelecidos pelo Poder Executivo federal.
 § 1º Não poderão integrar a sociedade de que trata o caput deste artigo pessoas jurídicas não optantes pelo Simples Nacional.
 § 2º A sociedade de propósito específico de que trata este artigo:
 I - terá seus atos arquivados no Registro Público de Empresas Mercantis;

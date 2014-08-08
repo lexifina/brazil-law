@@ -4,12 +4,22 @@ Art. 18. O valor devido mensalmente pela microempresa e empresa de pequeno porte
 RBT12xAliq-PD, em que:
 § 2º Em caso de início de atividade, os valores de receita bruta acumulada constantes das tabelas dos Anexos I a V desta Lei Complementar devem ser proporcionalizados ao número de meses de atividade no período.
 § 3º Sobre a receita bruta auferida no mês incidirá a alíquota determinada na forma do caput e dos §§ 1º e 2º deste artigo, podendo tal incidência se dar, à opção do contribuinte, na forma regulamentada pelo Comitê Gestor, sobre a receita recebida no mês, sendo essa opção irretratável para todo o ano-calendário.
-§ 4º O contribuinte deverá considerar, destacadamente, para fim de pagamento:
-I - as receitas decorrentes da revenda de mercadorias;
-II - as receitas decorrentes da venda de mercadorias industrializadas pelo contribuinte;
-III - as receitas decorrentes da prestação de serviços, bem como a de locação de bens móveis;
-IV - as receitas decorrentes da venda de mercadorias sujeitas a substituição tributária e tributação concentrada em uma única etapa (monofásica), bem como, em relação ao ICMS, antecipação tributária com encerramento de tributação;
-V - as receitas decorrentes da exportação de mercadorias para o exterior, inclusive as vendas realizadas por meio de comercial exportadora ou da sociedade de propósito específico prevista no art. 56 desta Lei Complementar.
+§ 4º O contribuinte deverá considerar, destacadamente, para fim de pagamento, as receitas decorrentes da:
+I - revenda de mercadorias, que serão tributadas na forma do Anexo I desta Lei Complementar;
+II - venda de mercadorias industrializadas pelo contribuinte, que serão tributadas na forma do Anexo II desta Lei Complementar;
+III - prestação de serviços de que trata o § 5º-B deste artigo e dos serviços vinculados à locação de bens imóveis e corretagem de imóveis desde que observado o disposto no inciso XV do art. 17, que serão tributados na forma do Anexo III desta Lei Complementar;
+IV - prestação de serviços de que tratam os §§ 5º-C a 5º-F e 5º-I deste artigo, que serão tributadas na forma prevista naqueles parágrafos;
+V - locação de bens móveis, que serão tributadas na forma do Anexo III desta Lei Complementar, deduzida a parcela correspondente ao ISS;
+VI - atividade com incidência simultânea de IPI e de ISS, que serão tributadas na forma do Anexo II desta Lei Complementar, deduzida a parcela correspondente ao ICMS e acrescida a parcela correspondente ao ISS prevista no Anexo III desta Lei Complementar;
+VII - comercialização de medicamentos e produtos magistrais produzidos por manipulação de fórmulas:
+a) sob encomenda para entrega posterior ao adquirente, em caráter pessoal, mediante prescrições de profissionais habilitados ou indicação pelo farmacêutico, produzidos no próprio estabelecimento após o atendimento inicial, que serão tributadas na forma do Anexo III desta Lei Complementar;
+b) nos demais casos, quando serão tributadas na forma do Anexo I desta Lei Complementar.
+§ 4º-A. O contribuinte deverá segregar, também, as receitas:
+I - decorrentes de operações ou prestações sujeitas à tributação concentrada em uma única etapa (monofásica), bem como, em relação ao ICMS, que o imposto já tenha sido recolhido por substituto tributário ou por antecipação tributária com encerramento de tributação;
+II - sobre as quais houve retenção de ISS na forma do § 6º deste artigo e § 4º do art. 21 desta Lei Complementar, ou, na hipótese do § 22-A deste artigo, seja devido em valor fixo ao respectivo município;
+III - sujeitas à tributação em valor fixo ou que tenham sido objeto de isenção ou redução de ISS ou de ICMS na forma prevista nesta Lei Complementar;
+IV - decorrentes da exportação para o exterior, inclusive as vendas realizadas por meio de comercial exportadora ou da sociedade de propósito específico prevista no art. 56 desta Lei Complementar;
+V - sobre as quais o ISS seja devido a Município diverso do estabelecimento prestador, quando será recolhido no Simples Nacional.
 § 5º As atividades industriais serão tributadas na forma do Anexo II desta Lei Complementar.
 I - (REVOGADO)
 II - (REVOGADO)
@@ -35,6 +45,8 @@ XII - (REVOGADO)
 XIII - transporte municipal de passageiros;
 XIV - escritórios de serviços contábeis, observado o disposto nos §§ 22-B e 22-C deste artigo.
 XV - produções cinematográficas, audiovisuais, artísticas e culturais, sua exibição ou apresentação, inclusive no caso de música, literatura, artes cênicas, artes visuais, cinematográficas e audiovisuais.
+XVI - fisioterapia;
+XVII - corretagem de seguros.
 § 5º-C Sem prejuízo do disposto no § 1º do art. 17 desta Lei Complementar, as atividades de prestação de serviços seguintes serão tributadas na forma do Anexo IV desta Lei Complementar, hipótese em que não estará incluída no Simples Nacional a contribuição prevista no inciso VI do caput do art. 13 desta Lei Complementar, devendo ela ser recolhida segundo a legislação prevista para os demais contribuintes ou responsáveis:
 I - construção de imóveis e obras de engenharia em geral, inclusive sob a forma de subempreitada, execução de projetos e serviços de paisagismo, bem como decoração de interiores;
 II - (REVOGADO)
@@ -42,6 +54,7 @@ III - (REVOGADO)
 IV - (REVOGADO)
 V - (REVOGADO)
 VI - serviço de vigilância, limpeza ou conservação.
+VII - serviços advocatícios.
 § 5º-D Sem prejuízo do disposto no § 1º do art. 17 desta Lei Complementar, as atividades de prestação de serviços seguintes serão tributadas na forma do Anexo V desta Lei Complementar:
 I - cumulativamente administração e locação de imóveis de terceiros;
 II - academias de dança, de capoeira, de ioga e de artes marciais;
@@ -57,7 +70,7 @@ XI - (REVOGADO)
 XII - laboratórios de análises clínicas ou de patologia clínica;
 XIII - serviços de tomografia, diagnósticos médicos por imagem, registros gráficos e métodos óticos, bem como ressonância magnética;
 XIV - serviços de prótese em geral.
-§ 5º-E Sem prejuízo do disposto no § 1º do art. 17 desta Lei Complementar, as atividades de prestação de serviços de comunicação e de transportes interestadual e intermunicipal de cargas serão tributadas na forma do Anexo III, deduzida a parcela correspondente ao ISS e acrescida a parcela correspondente ao ICMS prevista no Anexo I.
+§ 5º-E. Sem prejuízo do disposto no § 1º do art. 17 desta Lei Complementar, as atividades de prestação de serviços de comunicação e de transportes interestadual e intermunicipal de cargas, e de transportes autorizados no inciso VI do caput do art. 17, inclusive na modalidade fluvial, serão tributadas na forma do Anexo III, deduzida a parcela correspondente ao ISS e acrescida a parcela correspondente ao ICMS prevista no Anexo I.
 § 5º-F As atividades de prestação de serviços referidas no § 2º do art. 17 desta Lei Complementar serão tributadas na forma do Anexo III desta Lei Complementar, salvo se, para alguma dessas atividades, houver previsão expressa de tributação na forma dos Anexos IV ou V desta Lei Complementar.
 § 5º-G. As atividades com incidência simultânea de IPI e de ISS serão tributadas na forma do Anexo II desta Lei Complementar, deduzida a parcela correspondente ao ICMS e acrescida a parcela correspondente ao ISS prevista no Anexo III desta Lei Complementar.
 § 5º-H. A vedação de que trata o inciso XII do caput do art. 17 desta Lei Complementar não se aplica às atividades referidas no § 5º-C deste artigo.
@@ -67,7 +80,7 @@ XIV - serviços de prótese em geral.
 § 9º Relativamente à contribuição patronal previdenciária, devida pela vendedora, a sociedade de propósito específico de que trata o art. 56 desta Lei Complementar ou a comercial exportadora deverão recolher, no prazo previsto no § 8º deste artigo, o valor correspondente a 11% (onze por cento) do valor das mercadorias não exportadas nos termos do § 7º deste artigo.
 § 10. Na hipótese do § 7º deste artigo, a sociedade de propósito específico de que trata o art. 56 desta Lei Complementar ou a empresa comercial exportadora não poderão deduzir do montante devido qualquer valor a título de crédito de Imposto sobre Produtos Industrializados - IPI da Contribuição para o PIS/PASEP ou da COFINS, decorrente da aquisição das mercadorias e serviços objeto da incidência.
 § 11. Na hipótese do § 7º deste artigo, a sociedade de propósito específico ou a empresa comercial exportadora deverão pagar, também, os impostos e contribuições devidos nas vendas para o mercado interno, caso, por qualquer forma, tenham alienado ou utilizado as mercadorias.
-§ 12. Na apuração do montante devido no mês relativo a cada tributo, o contribuinte que apure receitas mencionadas nos incisos IV e V do § 4º deste artigo terá direito a redução do valor a ser recolhido na forma do Simples Nacional calculada nos termos dos §§ 13 e 14 deste artigo.
+§ 12. Na apuração do montante devido no mês relativo a cada tributo, para o contribuinte que apure receitas mencionadas nos incisos I a III e V do § 4º-A deste artigo, serão consideradas as reduções relativas aos tributos já recolhidos, ou sobre os quais tenha havido tributação monofásica, isenção, redução ou, no caso do ISS, que o valor tenha sido objeto de retenção ou seja devido diretamente ao Município.
 § 13. Para efeito de determinação da redução de que trata o § 12 deste artigo, as receitas serão discriminadas em comerciais, industriais ou de prestação de serviços na forma dos Anexos I, II, III, IV e V desta Lei Complementar.
 § 14. A redução no montante a ser recolhido do Simples Nacional no mês relativo aos valores das receitas de que tratam os incisos IV e V do § 4º deste artigo corresponderá:
 I - no caso de revenda de mercadorias:
@@ -93,6 +106,7 @@ II - deverão ser fornecidas à Secretaria da Receita Federal do Brasil até o v
 § 20-A. A concessão dos benefícios de que trata o § 20 deste artigo poderá ser realizada:
 I - mediante deliberação exclusiva e unilateral do Estado, do Distrito Federal ou do Município concedente;
 II - de modo diferenciado para cada ramo de atividade.
+§ 20-B. A União, os Estados e o Distrito Federal poderão, em lei específica destinada à ME ou EPP optante pelo Simples Nacional, estabelecer isenção ou redução de COFINS, Contribuição para o PIS/PASEP e ICMS para produtos da cesta básica, discriminando a abrangência da sua concessão.
 § 21. O valor a ser recolhido na forma do disposto no § 20 deste artigo, exclusivamente na hipótese de isenção, não integrará o montante a ser partilhado com o respectivo Município, Estado ou Distrito Federal.
 § 22. (REVOGADO)
 § 22-A. A atividade constante do inciso XIV do § 5º-B deste artigo recolherá o ISS em valor fixo, na forma da legislação municipal.
