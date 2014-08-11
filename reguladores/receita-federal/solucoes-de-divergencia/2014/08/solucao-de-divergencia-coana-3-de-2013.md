@@ -1,0 +1,6 @@
+Solução de Divergência Coana nº 3, de 29 de novembro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Reforma a Solução de Consulta SRRF10/Diana nº 57, de 23 de abril de 2003. Mercadoria “plataforma de corte para montagem em colheitadeira propulsora, destinada à colheita de milho”, classifica-se no código NCM 8433.59.90. DISPOSITIVOS LEGAIS: RGI 1ª (Nota 2 da Seção XVI e texto da posição 84.33) e 6ª (textos das subposições 8433.5 e 8433.59) e RGC 1ª (texto do item 8433.59.90) da TIPI, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e subsídios extraídos das NESH das posições 84.33 e 84.32, aprovadas pelo Decreto nº 435, de 1992, atualizadas pela IN RFB nº 807, de 2008.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma a Solução de Consulta SRRF10/Diana nº 57, de 23 de abril de 2003. Mercadoria “plataforma de corte para montagem em colheitadeira propulsora, destinada à colheita de milho”, classifica-se no código NCM 8433.59.90.
+DISPOSITIVOS LEGAIS: RGI 1ª (Nota 2 da Seção XVI e texto da posição 84.33) e 6ª (textos das subposições 8433.5 e 8433.59) e RGC 1ª (texto do item 8433.59.90) da TIPI, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e subsídios extraídos das NESH das posições 84.33 e 84.32, aprovadas pelo Decreto nº 435, de 1992, atualizadas pela IN RFB nº 807, de 2008.
+JOSÉ CARLOS DE ARAÚJO Coordenador-Geral
