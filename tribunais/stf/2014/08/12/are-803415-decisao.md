@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AGRAVO DE INSTRUMENTO. Alienação fiduciária de bem imóvel. Revisão contratual. Tabela “price”. Tutela antecipada. Autorização judicial para depósito das parcelas incontroversas e determinação para que a credora se abstivesse de retomar o imóvel ou inscrever os devedores nos cadastros negativos de proteção ao crédito. Requisitos legais não preenchidos. Capitalização de juros remuneratórios oriundos de financiamento imobiliário que é autorizada, em tese. Contrato que previa expressamente a incidência do sistema francês de amortização. Decisão reformada. Recurso provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXV, LIV, LV, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que incide, no caso, a Súmula 282/STF.
+    O recurso extraordinário é inadmissível, tendo em vista que foi interposto contra acórdão que deu provimento a recurso interposto contra decisão que deferira antecipação dos efeitos da tutela, de modo que não preenche o requisito do art. 102, III, da Constituição Federal, que prevê a competência do Supremo Tribunal Federal para julgar “mediante recurso extraordinário, as causas decididas em única ou última instância”. Veja-se, a propósito, a ementa do AI 597.618-AgR, julgado sob a relatoria do Ministro Celso de Mello:
+    “AGRAVO DE INSTRUMENTO ACÓRDÃO QUE CONFIRMA DEFERIMENTO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE MERA ANÁLISE DOS PRESSUPOSTOS DO FUMUS BONI JURIS E DO PERICULUM IN MORA INVIABILIDADE DO APELO EXTREMO RECURSO DE AGRAVO IMPROVIDO .
+    - Não cabe recurso extraordinário contra decisões que concedem ou que denegam a antecipação dos efeitos da tutela jurisdicional ou provimentos liminares, pelo fato de que tais atos decisórios - precisamente porque fundados em mera verificação não conclusiva da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada - não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se , em conseqüência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes”.
+    Nessas condições, incide, igualmente, a Súmula 735/STF:
+    “NÃO CABE RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO QUE DEFERE MEDIDA LIMINAR.”
+    De qualquer forma, o Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se a seguinte passagem da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “(...)
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Ademais, não foram ofendidas as garantias da inafastabilidade do controle jurisdicional, do devido processo legal, do contraditório e da ampla defesa, pois a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e motivado suas conclusões de forma satisfatória.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 12 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
