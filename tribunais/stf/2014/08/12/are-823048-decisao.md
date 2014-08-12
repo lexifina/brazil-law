@@ -1,0 +1,35 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. JULGADO RECORRIDO PROFERIDO EM AÇÃO RESCISÓRIA. RECURSO EXTRAORDINÁRIO QUE IMPUGNA OS FUNDAMENTOS DO JULGADO RESCINDENDO: INVIABILIDADE. PRESSUPOSTOS DE CABIMENTO DE AÇÃO RESCISÓRIA: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUICIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário, interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Maranhão:
+    “DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ERRO DE FATO E VIOLAÇÃO LITERAL À DISPOSIÇÃO DE LEI. INEXISTÊNCIA. INVIABILIDADE DO PLEITO RESCISÓRIO.
+    I- A violação literal de dispositivo de lei que possibilita o aforamento da ação rescisória (485, V, do CPC) tem como pressuposto o fato de a norma ter sido infringida em sua literalidade. E, no caso, a violação literal não está presente, pois, o acórdão rescindendo apenas elegeu uma dentre as interpretações possíveis para os dispositivos tidos por violados (STJ, AgRg no REsp 873.570/SP, Rel. Min. Sidney Benti, 3ª TURMA, DJe 30/06/2010).
+    II- O provimento de ação rescisória, com base na alegação de erro de fato - art. 485, IX, do CPC -, exige que a matéria não tenha sido discutida nos autos da ação original, quando, in casu, o foi (STJ, EDCL no RESP 1104196/RN, Rel. Min. João Otávio de Noronha, 4ª Turma, DJe de 02/09/2010.
+    III- A ação possessória é o meio de tutela da posse e a sua propositura instaura o juízo possessório, em que se discute única e exclusivamente a posse autônoma, que independe do direito de propriedade (TJMA, AGRAVO DE INSTRUMENTO nº 117022010- SÃO LUÍS. Rel. Des. Marcelo Carvalho Silva, DJ: 07/07/2010).
+    IV- Ação rescisória improcedente” (doc. 9).
+    Os embargos de declaração opostos foram rejeitados.
+    2. Os Agravantes alegam ter o Tribunal de origem contrariado o art. 5º, incs. XXII, XXXVI, LIV e LV, da Constituição da República.
+    Afirmam:
+    “não foi oportunizado o direito de intervir na ação possessória em que foi proferida a sentença rescindenda, a despeito das provas documentais acostadas aos autos da Ação de Reintegração de Posse n. 4.648/2005 pelo Município de Imperatriz, dando nota de sua condição de possuidor indireto, na qualidade de proprietário e locatário do imóvel, tendo sido privado do seu direito de posse e, por via de consequência, do amplo exercício do direito de propriedade, sem a observância ao devido processo legal, ampla defesa e contraditório.
+    (…)
+    O dano experimentado (…) é evidente em razão de não terem sido chamados a integrar, a qualquer título, a lide possessória, na medida em que tiveram seu direito de posse sobre o imóvel injusta e ilegalmente atingido e, por via de consequência, o direito de propriedade sobre o referido imóvel, sem qualquer chance de produzirem provas suficientes a comprovar o seu direito e impugnar a prova testemunhal produzida pela ora Agravada.
+    (...)
+    Ora, se as provas testemunhais foram os elementos considerados de maior importância no deslinde da quaestio, mais evidente ainda é o prejuízo decorrente do fato de não ter sido oportunizado aos Recorrentes o direito de intervir e de se manifestar nos autos da ação possessória em que foi proferida a sentença rescindenda e, assim, também produzir provas testemunhais e documentais” (doc. 10).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) ausência de prequestionamento e b) ofensa constitucional indireta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste aos Agravantes.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada quanto à ausência de prequestionamento, pois a controvérsia posta à apreciação foi suscitada em momento processual adequado.
+    Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão apresentada.
+    6. Os Agravantes argumentam que “a reintegração de posse foi deferida em favor do Recorrido com base eminentemente nas provas testemunhais por ele produzidas, não tendo sido considerado, para tanto, as provas documentais referentes ao domínio e posse do imóvel”.
+    Este Supremo Tribunal assentou que as alegações referentes ao mérito do julgado rescindendo não viabilizam o recurso extraordinário interposto em ação rescisória:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRABALHISTA. PROCESSUAL CIVIL. JULGADO RECORRIDO PROFERIDO EM AÇÃO RESCISÓRIA. RECURSO EXTRAORDINÁRIO QUE IMPUGNA OS FUNDAMENTOS DO JULGADO RESCINDENDO: INVIABILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 676.045-AgR, de minha relatoria, Primeira Turma, DJe 24.5.2012, grifos nossos).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CABIMENTO DE AÇÃO RESCISÓRIA. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. A questão alusiva ao cabimento de ação rescisória se enquadra no âmbito processual, o que não autoriza a abertura da via recursal extraordinária. 2. De mais a mais, é firme o entendimento desta nossa Casa de Justiça no sentido de que ‘o recurso extraordinário interposto em processo de ação rescisória há de voltar-se contra fundamentação do acórdão nela proferido e não a da decisão rescindenda’ (RE 408.409-AgR, da relatoria do ministro Sepúlveda Pertence). 3. Agravo regimental desprovido” (AI 598.96-AgR, Relator o Ministro Ayres Britto, Segunda Turma, DJe 27.3.2012, grifos nossos).
+    7. Ademais, é infraconstitucional a questão relativa aos pressupostos de cabimento de ação rescisória, não podendo ser objeto de recurso extraordinário:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E CONSTITUCIONAL. 1. PRESSUPOSTOS DE CABIMENTO E ADMISSIBILIDADE DE AÇÃO RESCISÓRIA. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. VEDAÇÃO DE VINCULAÇÃO DE VANTAGEM AO SALÁRIO MÍNIMO. IMPOSSIBILIDADE DA MODIFICAÇÃO DA BASE DE CÁLCULO POR DECISÃO JUDICIAL: SÚMULA VINCULANTE N. 4 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 711.796-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010, grifos nossos).
+    “CONSTITUCIONAL. PROCESSO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA PROCESSUAL. CABIMENTO DE AÇÃO RESCISÓRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. LIMITES DA COISA JULGADA. ALEGADA OFENSA AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO IMPROVIDO. (…) É de natureza infraconstitucional o debate acerca dos pressupostos de admissibilidade de ação rescisória. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta” (AI 702.182-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 27.3.2009, grifos nossos).
+    Nada há, pois, a prover quanto às alegações dos Agravantes.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 12 de agosto de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
