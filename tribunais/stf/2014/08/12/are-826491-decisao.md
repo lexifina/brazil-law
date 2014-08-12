@@ -1,0 +1,9 @@
+Com efeito, a jurisprudência desta Corte é firme no sentido de que, em se tratando de recurso interposto por fax, ele só será tempestivo se o original for entregue em juízo dentro do prazo adicional a que se refere o art. 2º da Lei 9.800/1999, que é improrrogável e contínuo. Nesse sentido:
+    “EMENTA: PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO INTERPOSTO POR MEIO DE FAC-SÍMILE. PRAZO PARA APRESENTAÇÃO DE ORIGINAIS. CINCO DIAS IMPRORROGÁVEIS E CONTÍNUOS. EMBARGOS DECLARATÓRIOS NÃO CONHECIDOS NÃO INTERROMPEM OU SUSPENDEM PRAZO RECURSAL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. AGRAVO IMPROVIDO. I - Os originais do recurso devem ser entregues em Juízo até cinco dias da data do término do prazo recursal. II - Esse prazo é improrrogável e contínuo, ainda que se trate de dia sem expediente forense. III - Embargos declaratórios que não foram conhecidos por serem intempestivos, não suspendem nem interrompem o prazo para a interposição de outro recurso. IV - Agravo regimental improvido” (AI 653.421-AgR/SP,de minha relatoria).
+    Confiram-se ainda: AI 583.254-AgR-AgR/RJ, Rel. Min. Marco Aurélio; AI 535.340-EDv-ED-AgR/MG, Rel. Min. Celso de Mello; AI 728.505-AgR/RS, Rel Min. Gilmar Mendes; AI 789.966/RS, Rel. Min. Luiz Fux; AI 686.006-AgR/SP, Rel. Min. Dias Toffoli; AI 586.335-AgR-ED-ED/PE, Rel. Min. Cármen Lúcia; AI 830.931-AgR/RJ, Rel. Min. Rosa Weber.
+    Dessa forma, embora a petição do agravo de instrumento tenha sido transmitida, via fax, no prazo legal (21/5/2014, quarta-feira), os originais apenas foram protocolados em 27/5/2014 (terça-feira), sendo que o prazo para apresentação do original da petição de recurso extraordinário expirou em 26/5/2014 (segunda-feira). É, pois, intempestivo o agravo de instrumento.
+    Isso posto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 12 de agosto de 2014.
+Ministro RICARDO LEWANDOWSKI
+Presidente em exercício
