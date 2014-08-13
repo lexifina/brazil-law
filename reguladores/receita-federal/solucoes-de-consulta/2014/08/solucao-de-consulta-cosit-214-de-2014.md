@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 214, de 21 de julho de 2014
+ASSUNTO: Normas Gerais de Direito Tributário EMENTA: INCORPORAÇÕES IMOBILIÁRIAS. REGIME ESPECIAL DE TRIBUTAÇÃO (RET). OPÇÃO. PRAZO. É admissível a opção pelo Regime Especial de Tributação (RET) aplicável às incorporações imobiliárias, instituído pelos arts. 1º a 10 da Lei nº 10.931, de 2004, enquanto houver receitas a receber, relativas à incorporação imobiliária objeto da opção, sujeitas ao pagamento mensal unificado. DISPOSITIVOS LEGAIS: Lei 10.931, de 2004, arts. 1º, 2º e 4º, § 5º; Instrução Normativa RFB nº 1.435, de 2013, arts. 3º e 5º, §§ 1º, 8º e 9º.
+[arquivo anexo: SC Cosit nº 214-2014.pdf]
