@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto em mandado de segurança impetrado contra ato do Chefe da Seção de Inativos e Pensionistas do Ministério da Defesa (Comando da 1ª Região Militar), que indeferiu requerimento de pensão apresentado pela ora recorrente, filha de ex-combatente da Segunda Guerra Mundial. O Tribunal Regional Federal da 2ª Região confirmou a denegação da segurança, aos fundamentos de que (a) a então apelante não se desincumbiu de demonstrar que a decisão recorrida estava (I) em conflito com a jurisprudência dominante; (II) ou em contraste com súmula ou jurisprudência do STJ ou do STF; (b) uma vez que não foi comprovada a condição de dependente do falecido, é inadmissível a concessão de pensão especial em favor das filhas maiores e capazes, ainda que anteriormente à Lei 8.059/90 e sob a égide da Constituição Federal.
+    No recurso extraordinário, interposto com base no art. 102, III, da CF/88, aponta-se violação ao art. 53 do ADCT, aduzindo-se, em síntese, que é líquido e certo o direito da recorrente à pensão, visto que o potencial instituidor faleceu ainda na vigência da Lei 4.242/63.
+    2. O apelo não merece prosperar. Mostra-se notória a incapacidade e a insuficiência do recurso em reverter o julgado, por descuidar de todos os peculiares motivos que levaram o Tribunal de origem a negar a pretensão. Tal circunstância consubstancia deficiência na fundamentação recursal, incidindo, na hipótese, as Súmulas 283 e 284 do STF.
+    3. Ainda que superado esse óbice, outra sorte não teria o apelo. O Tribunal de origem entendeu que a pensão não é devida por não ter a ora recorrente comprovado sua condição de dependente. A reversão desse entendimento demandaria o reexame dos fatos da causa, inviável nesta via recursal, a teor do que dispõe a Súmula 279 do STF.
+    4. Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 13 de agosto de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
