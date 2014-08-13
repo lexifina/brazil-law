@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 1303):
+    “Apelação. Publicidade Urbana. Pretensão de declaração de inconstitucionalidade da Lei Municipal nº 14.223/06, bem como o pagamento de indenização por supostos danos sofridos com a cessação de atividades. Competência do Município para legislar sobre a matéria. Danos não comprovados - Sentença de improcedência mantida Art. 252 do RITSP - Precedentes deste Tribunal - Recurso improvido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, IV; 5º, LV; 58, § 2º, II; 170; 173; 182; e 225, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “os argumento expedidos não são suficientes para infirmar as conclusões do v. aresto combatido”; (ii) não restou “evidenciado o suposto maltrato às normas constitucionais enunciadas”; e (iii) o recurso é incabível pela alínea c do art. 102, III, da CF,tendo em vista que o caso não é de aplicação de lei local em detrimento da Constituição.
+    O recurso extraordinário não deve ser provido. De início, nota-se que as alegadas violações aos arts. 1º, IV; 170; 173 e 225 da Constituição Federal não foram apreciadas pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto à matéria de fundo, observa-se que o Tribunal de origem assentou que a Lei municipal nº 14.443/2006, ao discorrer sobre a “ordenação dos elementos que compõem a paisagem urbana do Município de São Paulo”, tratou de assunto que envolve interesse local, situação que se enquadra na competência legislativa dos Municípios descrita no art. 30, I e VIII, da Constituição. Nesse sentido e sobre a mesma controvérsia, confira-se a ementa do ARE 771.651-AgR, julgado sob a relatoria da Ministra Rosa Weber:
+    “DIREITO CONSTITUCIONAL E AMBIENTAL. PLANEJAMENTO URBANO. MEIO AMBIENTE E PAISAGEM URBANA. PUBLICIDADE E PROPAGANDA EXTERNA. POLUIÇÃO VISUAL. INTERPRETAÇÃO DA LEI MUNICIPAL PAULISTA 14.223/2006. COMPETÊNCIA MUNICIPAL PARA LEGISLAR SOBRE ASSUNTOS DE INTERESSE LOCAL. ACÓRDÃO RECORRIDO PUBLICADO EM 13.9.2011.
+    O acórdão recorrido assentou que a Lei Municipal 14.223/2006 - denominada Lei Cidade Limpa - trata de assuntos de interesse local, entre os quais, a ordenação dos elementos que compõem a paisagem urbana, com vistas a evitar a poluição visual e bem cuidar do meio ambiente e do patrimônio da cidade. Precedentes.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à competência do Município para legislar sobre interesse local.
+    Agravo regimental conhecido e não provido.”
+    Outros precedentes: ARE 745.832 e AI 788.488, Rel. Min. Dias Toffoli; AI 732.901 e RE 746.356-AgR, Rel. Min. Gilmar Mendes; e AI 799.690-AgR, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 13 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
