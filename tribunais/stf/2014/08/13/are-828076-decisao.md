@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL CIVIL. INDENIZAÇÃO. DANOS MORAIS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. ALEGAÇÃO DE CERCEAMENTO DE DIREITO DE DEFESA: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Primeira Turma Recursal dos Juizados Especiais da Bahia decidiu:
+    ”RECURSO INOMINADO. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. DISTRIBUIÇÃO PELO RÉU DE DOCUMENTO NO QUAL SE REFERE AO AUTOR DE FORMA OFENSIVA À SUA HONRA OBJETIVA E SUBJETIVA. RÉU REVEL. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E IMPROVIDO”.
+    Os embargos declaratórios opostos foram assim julgados:
+    “EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO. RÉU CONDENADO APÓS DECRETADA A SUA REVELIA. JUSTIFICATIVA APRESENTADA PARA AUSÊNCIA À AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. ACÓRDÃO QUE, EM SUA FUNDAMENTAÇÃO, ABORDA A QUESTÃO. OMISSÃO NÃO CARACTERIZADA. EMBARGOS REJEITADOS”.
+    3. Na decisão agravada se adotou como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição da República.
+    4. O Agravante argumenta que
+     “a decisão que não admitiu o Recurso Extraordinário está, data venia, flagrantemente equivocada, pois, caracterizada, inquestionavelmente, a ofensa frontal aos arts. 5º, LV e 93, IX da Constituição Federal, bem como o prequestionamento.
+    (…) consoante demonstrado, nos autos, o Recorrido não pode comparecer à audiência de Instrução e Julgamento (evento 24), haja vista que, estaria impossibilitado, naquele dia. Ante a impossibilidade, anexou o referido comprovante, justificando sua ausência e requerendo a designação de nova data, importante frisar que, tal documento, foi anexado anteriormente à audiência (evento 23), e não foi analisado pelo Juiz ‘a quo’”.
+    No recurso extraordinário, alega-se ter a Turma Recursal contrariado o art. 5º, inc. LV, Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    O Juiz Relator do caso na Turma Recursal afirmou:
+    “Entendo que o juiz sentenciante decidiu corretamente sobre a questão discutida na demanda. A prova documental acostada à inicial, corroborada pela prova testemunhal, não deixa dúvidas quanto à responsabilidade do réu no evento danoso.
+    Também agiu com acerto o juízo a quo ao negar provimento aos Embargos Declaratórios interpostos pelo réu, vez que visivelmente insuficiente a documentação que juntou para justificar sua ausência à audiência de instrução e julgamento” (grifos nossos).
+    A apreciação do pleito recursal demandaria o reexame do acervo fático-probatório constante do processo, o que não pode ser adotado validamente em recurso extraordinário, nos termos da Súmula n. 279 deste Supremo Tribunal Federal.
+    Novo exame do julgado impugnado exigiria, ainda, a análise prévia de legislação infraconstitucional aplicada à espécie (Código Civil e Código de Processo Civil). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANO MORAL (HONRA). REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 845.656-ED, de minha relatoria, Segunda Turma, DJe 26.6.2013, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. (...). DANOS MORAIS. INDENIZAÇÃO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DAS PROVAS. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 785.903-AgR/SP, de minha relatoria, Segunda Turma, DJe 14.2.2014, grifos nossos).
+    “DIREITO DO CONSUMIDOR. INDENIZAÇÃO POR DANO MORAL. MATÉRIA INFRACONSTITUCIONAL. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AOS PRECEITOS CONSTITUCIONAIS INVOCADOS NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE NO ACÓRDÃO REGIONAL. SÚMULA 279/STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2011. Divergir do entendimento do Tribunal ‘a quo’ acerca da ocorrência do dano moral e da correção do valor fixado a título de indenização demandaria a análise da legislação infraconstitucional, bem como a reelaboração da moldura fática delineada na origem, inviável em sede recursal extraordinária. Precedentes. A alegada violação do art. 5º, caput, XXXV, e LV, da Constituição Federal não foi arguida nas razões do recurso extraordinário, sendo vedado ao agravante inovar no agravo regimental Agravo regimental conhecido e não provido” (ARE 774.839-AgR/SP, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 4.12.2013, grifos nossos).
+    7. Ademais, no julgamento do Recurso Extraordinário com Agravo n. 748.371, Relator o Ministro Gilmar Mendes, o Supremo Tribunal Federal assentou a inexistência de repercussão geral quanto às alegações de contrariedade aos princípios do contraditório, da ampla defesa e do devido processo legal, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos que suscitarem a mesma questão constitucional devem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, pelo que nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e arts. 21, § 1º, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de agosto de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
