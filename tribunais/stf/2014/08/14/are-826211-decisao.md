@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado, no que interessa:
+    “REPRESENTAÇÃO DE INCONSTITUCIONALIDADE DOS ARTIGOS 3º DA LEI Nº 2.644/09; ART. 3º DA LEI 2.721/10; ART. 2º DA LEI 2.841/12; ART. 2º DA LEI 2.971/12 DO MUNICÍPIO DE NITERÓI, de inciativa do Chefe do Poder Executivo municipal, que dispuseram sobre o reajuste da remuneração de servidores públicos municipais e excluíram da revisão os subsídios do Prefeito e Vice-Prefeito. Ilegitimidade ativa ´ad causam´manifesta [...]”. (fl. 100).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, XXXV, do texto constitucional.
+    Nas razões recursais, aduz-se que o tribunal a quo equivocou-se ao considerar o recorrente, entidade de âmbito municipal, ilegítimo para propositura de representação de inconstitucionalidade. Argumenta que, “na falta de sindicato atuante no âmbito do Estado, é legitimado ativo para a propositura de representação de inconstitucionalidade a entidade de classe municipal”. (fl. 117)
+    É o relatório.
+    Decido.
+    A pretensão não merece prosperar.
+    A controvérsia cinge-se à análise da legitimidade do Sindicato dos Fiscais de Tributos de Niterói (SINFNIT), ora recorrente, para propor representação de inconstitucionalidade por violação a dispositivo da Constituição do Estado do Rio de Janeiro, uma vez que se trata de entidade de âmbito municipal.
+    Acerca dos entes legítimos para ajuizar a referida ação, o Tribunal de origem assentou, com base na Constituição Estadual, que “o representante, SINFNIT, não possui legitimidade ativa ´ad causam´, para ajuizar a presente Representação de Inconstitucionalidade. Segundo o art. 162 CERJ, essa legitimidade não foi conferida para entidade de classe de âmbito municipal” (fl. 104).
+    Verifico que, para se entender diferentemente do Tribunal de origem e reconhecer a legitimidade do recorrente no feito, seria necessário interpretar legislação estadual (Constituição do Estado do Rio de Janeiro), procedimento vedado no julgamento do recurso extraordinário. Incidência do Enunciado 280 da Súmula desta Corte.
+    Nesse sentido, destaco os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário. 2. legitimidade ad causam. Controvérsia infraconstitucional. 3. Direito Administrativo. 4. Responsabilidade civil do Estado. Perigo de dano ambiental. Depósito de agrotóxicos em local inapropriado. Periclitação da saúde pública e do ambiente. 5. Ofensa meramente reflexa ao texto constitucional. Controvérsia decidida com base nas legislações Federal e local. Incidência do Enunciado 280 da Súmula desta Corte. Leis federais 6.938/81 e 7.802/89; Lei estadual 12.493/99. Precedentes. 6. Dever do Estado de prevenção e reparação dos danos causados ao ambiente. Acordão recorrido em conformidade com a jurisprudência do Supremo Tribunal Federal. 7. Ausência de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental a que se nega provimento”. (RE-AgR 559.622, de minha relatoria, Segunda Turma, DJe 22.8.2013)
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PROCESSUAL. CONDIÇÕES DA AÇÃO. CONCLUSÃO PELA FALTA DE LEGITIMIDADE PROCESSUAL ATIVA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE DISCUSSÃO DA QUESTÃO DE FUNDO CUJA REPERCUSSÃO GERAL FOI RECONHECIDA POR ESTA CORTE. Agravo regimental a que se nega provimento”.(AI-ED 823.754, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 26.10.2012)
+    No tocante à necessidade de procuração com poderes específicos para propositura da representação, a decisão recorrida encontra-se em consonância com a jurisprudência desta Corte. Cito, a propósito, o seguinte precedente:
+    “Ação direta de que não se conhece, por não haver sido cumprida a diligência destinada à regularização da representação processual (procuração com poderes específicos para atacar a norma impugnada)”.(ADI 2187, Rel. Min. OCTAVIO GALLOTTI, Tribunal Pleno, DJ 12.12.2003)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 14 de agosto de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
