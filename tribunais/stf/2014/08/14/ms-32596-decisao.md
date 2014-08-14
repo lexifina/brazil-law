@@ -1,0 +1,17 @@
+DECISÃO:
+Ementa: MANDADO DE SEGURANÇA. ATO DE PRESIDENTE DE TURMA RECURSAL DOS JUIZADOS ESPECIAIS. 1. O Supremo Tribunal Federal não tem competência para julgar mandados de segurança contra atos das Turmas Recursais dos Juizados Especiais (CRFB/88, art. 102, I, d, e Súmula 624/STF). 2. Declinada a competência em favor da Turma Recursal.
+    1. Trata-se de mandado de segurança contra acórdão do Plenário das Turmas Recursais do Rio de Janeiro, que negou provimento a agravo interno para confirmar decisão que julgou prejudicado recurso extraordinário interposto pelo impetrante.
+    2. Sustenta a inicial, em síntese, que a situação dos autos difere do tema 589, julgado pelo Supremo Tribunal Federal em regime de repercussão geral (ARE 685.029 RG, Rel. Min. Teori Zavascki).
+    3. Em atendimento a despacho, foi emendada a inicial.
+    4. É o relatório. Decido.
+    5. Defiro o pedido de gratuidade de justiça, em razão da concessão do benefício na origem (Res. STF nº 527/2014, art. 3º, p. único).
+    6. O feito não reúne condições para prosseguimento, pois não se enquadra nas hipóteses taxativas de competência deste Tribunal para processar e julgar mandados de segurança, conforme previsto no art. 102, I, d, da Constituição. Neste sentido, a Súmula 624/STF dispõe que “Não compete ao Supremo Tribunal Federal conhecer originariamente de mandado de segurança contra atos de outros tribunais”.
+    7. Este entendimento vem sendo pacificamente aplicado por esta Corte também quanto a atos de Turmas Recursais. Neste sentido:
+    “Agravo regimental em mandado de segurança. Impetração voltada contra ato de Turma Recursal de Juizado Especial. Incompetência desta Suprema Corte. Precedentes. 1. Não é competente o Supremo Tribunal Federal para o processamento de mandados de segurança contra atos de Turmas Recursais de Juizados Especiais. 2. Competência para o processamento de habeas corpus contra membros dessas Turmas que não induz competência para conhecimento de mandados de segurança que os apontem como autoridades ditas coatoras. 3. Agravo regimental não provido.” (MS 25.614 AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. CONSTITUCIONAL. COMPETÊNCIA. ARTIGO 102, I, "A" DA CB/88. ARTIGO 21, IV DA LOMAN [LC 35/79]. INCOMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAMENTO DE MANDADO DE SEGURANÇA CONTRA ATO DE JUÍZES DO SISTEMA DOS JUIZADOS ESPECIAIS FEDERAIS. PRECEDENTE. 1. O Supremo Tribunal Federal tem competência para processar e julgar mandado de segurança apenas nas hipóteses expressamente previstas no artigo 102, I, "d", segunda parte, da Constituição. 2. No que tange à competência para julgamento de mandado de segurança contra ato de Turmas Recursais de Juizados Especiais, remanesce o disposto no art. 21, VI, da Lei Orgânica da Magistratura Nacional - LOMAN [LC n. 35/79]. Precedente: QO-MS n. 24.674, Relator o Ministro CARLOS VELLOSO, DJ de 26.3.04. 3. Agravo regimental a que se nega provimento.” (MS 28.401 AgR, Rel. Min. Eros Grau)
+    8. Diante do exposto, com base no art. 113, § 2º, do CPC, e no art. 21, § 1º, do RI/STF, declaro a incompetência absoluta do Supremo Tribunal Federal para julgar o presente mandado de segurança, e determino a remessa dos autos ao Plenário das Turmas Recursais do Rio de Janeiro, para que aprecie a matéria como julgar devido.
+    9. Com o trânsito em julgado da presente decisão, remetam-se os autos ao órgão competente.
+    Publique-se.
+          Brasília, 14 de agosto de 2014
+Ministro LUÍS ROBERTO BARROSO
+Relator
