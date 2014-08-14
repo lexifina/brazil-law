@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIO. APLICABILIDADE DO ARTIGO 144 DA LEI 8.213/91. PRECEDENTES. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O disposto no artigo 144 da Lei 8.213/1991 aplica-se à revisão dos benefícios previdenciários concedidos em data posterior à Constituição Federal de 1988 e anterior à referida legislação federal, nos termos da jurisprudência firmada por esta Corte. Precedentes: RE nº 582.719-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 27/11/2009, e AI nº 649.113-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24/9/2010.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “PREVIDENCIÁRIO. REVISÃO. DECADÊNCIA. TETO DE CONTRIBUIÇÃO DE 20 SALÁRIOS MÍNIMOS DE REFERÊNCIA. LEI 6.950/81. LEIS 7.787/89 E 7.789/89. DIREITO ADQUIRIDO. PREENCHIMENTO DOS REQUISITOS. POSSIBILIDADE DA APLICAÇÃO DO ARTIGO 144 DA LEI Nº 8.213/91”.
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “PREVIDENCIÁRIO. REVISÃO. DECADÊNCIA. TETO DE CONTRIBUIÇÃO DE 20 SALÁRIOS MÍNIMOS DE REFERÊNCIA. LEI 6.950/81. LEIS 7.787/89 E 7.789/89. DIREITO ADQUIRIDO. PREENCHIMENTO DOS REQUISITOS. POSSIBILIDADE DA APLICAÇÃO DO ARTIGO 144 DA LEI Nº 8.213/91.
+    1. Os benefícios deferidos antes de 27 de junho de 1997 (data da edição da MP 1523-9) não estão sujeitos a prazo decadencial.
+    2. Tendo a parte autora preenchido os requisitos para a concessão do benefício antes do advento da sistemática instituída pelas Leis 7.787/89 e 7.789/89, tem direito adquirido ao benefício calculado de acordo com a legislação anterior.
+    3. Reconhecido o direito adquirido ao cálculo da RMI em data anterior ao advento da sistemática instituída pelas Leis 7.787/89 e 7.789/89, o benefício teria sido concedido no denominado "buraco negro", de modo que aplicável em tese o disposto no artigo 144 da Lei 8.213/91.
+    4. Na aplicação do artigo 144 da Lei 8.213/91, ou se reconhece direito adquirido ao cálculo da RMI com base na legislação vigente antes das modificações legislativas, caso mais favorável ao segurado (o que é improvável), ou se reconhece o direito à incidência integral da Lei 8.213/91. Assim, não se cogita, com a aplicação do artigo 144 da lei 8.213/91, da possibilidade de a nova renda mensal a ser implantada a partir de junho de 1992 ser superior ao limite de salário-de-contribuição no referido mês (art. 144 c.c. art. 33 da Lei 8.213/91, na redação original).
+    5. Como a hipótese é de reconhecimento de direito adquirido, a RMI fictícia deverá ser apurada em 01/07/89, computando-se os salários-de-contribuição vertidos até junho/89, e utilizando-se o limitador do salário-de-benefício e da RMI vigente em julho/89. Obtida a RMI em 01/07/89, ela deverá ser atualizada com base nos índices aplicáveis ao reajustamento dos benefícios da previdência social até a DER, observados obviamente os efeitos do artigo 144 da Lei 8.213/91. Somente deverá ser aplicada proporcionalidade no primeiro reajuste posterior a julho/89 (art. 41, II, da Lei 8.213/91 - redação original), pois na DER o benefício, como reconhecido o direito adquirido em data anterior, em rigor já seria um benefício em manutenção.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao artigo 5º, XXXVI, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição Federal.
+    É o Relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    O agravo não merece provimento.
+    O disposto no artigo 144 da Lei 8.213/1991 aplica-se à revisão dos benefícios previdenciários concedidos em data posterior à Constituição Federal de 1988 e anterior à referida legislação federal, nos termos da jurisprudência firmada por esta Corte. Nesse sentido: RE nº 582.719-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 27/11/2009, e AI nº 649.113-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24/9/2010, que possui a seguinte ementa:
+    “PREVIDENCIÁRIO. RENDA MENSAL INICIAL. REAJUSTE DE BENEFÍCIOS. APLICABILIDADE DO ART. 144 DA LEI 8.213/91.
+    1. A decisão agravada não divergiu do entendimento firmado por esta Corte no sentido de que, quanto à revisão de benefício previdenciário concedido em data posterior à Constituição Federal de 1988 e anterior à Lei 8.213/91, aplica-se o disposto no artigo 144 dessa lei. Precedentes.
+    2. Agravo regimental improvido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 14 de agosto de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
