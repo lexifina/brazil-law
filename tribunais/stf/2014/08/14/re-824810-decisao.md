@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso, cuja ementa transcrevo a seguir:
+    “RECURSO DE AGRAVO DE INSTRUMENTO – AÇÃO ANULATÓRIA DE CLÁSULAS CONTRATUAIS – COBRANÇA DE VALORES ORIGINADOS DE CONTRATO DE PRESTAÇÃO DE SERVIÇO – PEDIDO E CAUSA DE PEDIR QUE NÃO SE QUALIFICAM COMO TRABALHISTAS – COMPETÊNCIA DA JUSTIÇA COMUM – DECISÃO MANTIDA – RECURSO DESPROVIDO. O vínculo entre as partes, decorrente do contrato de prestação de serviços profissionais, escapa do campo de abrangência do Direito Trabalhista, e impõe, por isso, o reconhecimento da competência da Justiça Comum Estadual para a apreciação e julgamento do litígio decorrente da referida relação” (fl. 100)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa ao art. 114, I, IV e IX, do texto constitucional.
+    Nas razões recursais, sustenta-se que a EC 45/04 ampliou a competência da Justiça do Trabalho, sendo que litígios que envolvem contratos de prestação de serviços estariam sob sua competência.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Observo que o Tribunal de origem assim consignou em relação ao pedido e à causa de pedir do litígio:
+    “A pretensão deduzida pelo autor/agravado via ação Anulatória c/c Cobrança consiste no recebimento de valores devidos por conta de serviço prestados, estes consistentes na ‘elaboração de anteprojeto e projetos técnicos para reforma do imóvel pertencente à agravante, bem como a administração técnica de pessoal e dos setores de compras e outros, necessários para a execução do serviço’ (cf. Fls. 07).
+    A situação caracteriza, sem dúvida, relação de direito material de nítida natureza de direito civil.
+    (…)
+    A conclusão, portanto, é de que o vínculo entre o agravante e o agravado, decorrente do contrato de prestação de serviços profissionais, escapa do campo de abrangência do Direito Trabalhista, e impõe, por isso, o reconhecimento da competência da Justiça Comum Estadual para processal e julgar o litígio decorrente da referida relação.
+    Não se trata de vínculo empregatício ou do recebimento de verba trabalhista, uma vez que a prestação de serviços segundo os argumentos articulados na petição inicial, não era feita de forma subordinada, pessoal e com as demais características da relação de emprego”. (fls. 100v-102)
+    Concluir de modo diverso do que assentado pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, bem como das cláusulas contratuais, procedimento inviável de ser validamente adotado neste via processual. Incide, na espécie, os Enunciados 279 e 454 da Súmula do STF.
+    Nesse sentido, destaco precedentes de ambas as turmas da Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. COMPETÊNCIA. PLANO DE ASSISTÊNCIA À SAÚDE. ENTIDADE EMPREGADORA. RECONHECIMENTO DE RELAÇÃO ESTRANHA AO CONTRATO DE TRABALHO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos e de cláusulas contratuais. Incidência das Súmulas 279 e 454 do STF. Precedentes. III – Agravo regimental improvido”. (RE 662.784 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 15.8.2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. COMPETÊNCIA DOS JUIZADOS ESPECIAIS. PRODUÇÃO DE PROVA PERICIAL. AUSÊNCIA DE CONTROVÉRSIA SOB A ÓTICA CONSTITUCIONAL. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 /STF. Hipótese em que para dissentir do entendimento do Tribunal de origem seria necessária nova apreciação dos fatos e do material probatório constantes dos autos, bem como o reexame de cláusulas contratuais. Incidência das Súmulas 279 e 454/STF. O Plenário do Supremo Tribunal Federal manifestou-se pela ausência de repercussão geral da discussão acerca da complexidade da causa para fins de definição da competência dos juizados especiais (ARE 640.671-RG). Agravo regimental a que se nega provimento”. (ARE 764.456 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 11.12.2013)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 14 de agosto de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
