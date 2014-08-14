@@ -1,0 +1,12 @@
+DECISÃO:
+Ementa: RECLAMAÇÃO. INÉPCIA DA INICIAL. 1. A reclamação presta-se a preservar a competência do Supremo Tribunal Federal, a garantir a autoridade de suas decisões, bem como a resguardar a correta aplicação das súmulas vinculantes (art. 102, inc. I, l, CF/88 e art. 103-A, §3o, CF/88). 2. O reclamante não indicou a decisão do STF que reputou violada, tampouco esclareceu qual ato teria usurpado a competência da Corte. A narrativa constante da inicial não possibilita a adequada compreensão da controvérsia, ensejando a extinção do feito, por inépcia. Precedentes.
+          1. Trata-se de reclamação contra decisão do Órgão Especial do Tribunal Superior do Trabalho que negou provimento a agravo manejado pelo reclamante contra a inadmissão de recurso extraordinário.
+    2. O mencionado recurso de agravo contra despacho denegatório de recurso extraordinário (art. 544 do CPC) foi recebido pelo TST como agravo contra decisão monocrática da competência do Órgão Especial do próprio Tribunal (art. 555, § 1º, do CPC), em virtude da sistemática da repercussão geral. A decisão reclamada entendeu aplicável ao caso o acórdão proferido pelo STF no RE 598.365, em que se negou repercussão geral à “questão alusiva ao cabimento de recursos da competência de outros tribunais”.
+    3. Em sua inicial, o reclamante alega que a decisão reclamada violou a “autoridade de decisão do Supremo Tribunal Federal”, mas não indica a decisão paradigma do STF que teria sido violada, tampouco demonstra a ocorrência de usurpação da competência do Tribunal.
+    4. Como já esclarecido em diversos precedentes do STF, a reclamação presta-se a preservar a competência do Tribunal, a garantir a autoridade de suas decisões, bem como a resguardar a correta aplicação das súmulas vinculantes (art. 102, I, l, CF/88 e art. 103-A, § 3º, CF/88).
+    5. Em caso de alegação de violação à autoridade das decisões da Corte, cabe ao reclamante demonstrar a identidade entre o caso paradigma e a decisão reclamada, ônus de que não se desincumbiu o autor desta reclamação. Ao contrário, a inicial não permite que se compreenda, com clareza, o objeto da controvérsia, inviabilizando o prosseguimento do feito, por inépcia. Nesse sentido, entre outros: Rcl 9732 AgR/SP.
+    6. Em razão do exposto, nego seguimento à reclamação com base no art. 21, §1º, do RI/STF.
+    Publique-se.
+    Brasília, 14 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
