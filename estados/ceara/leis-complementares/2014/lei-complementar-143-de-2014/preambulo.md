@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 143, DE 31.07.14 (D.O. 14.08.14)
+REVOGA O INCISO I DO ART. 3º DA LEI Nº 11.728, DE 4 DE SETEMBRO DE 1990, QUE CRIA O FUNDO DE ELETRIFICAÇÃO RURAL PARA IRRIGAÇÃO - FERPI.
+O GOVERNADOR DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei Complementar:
