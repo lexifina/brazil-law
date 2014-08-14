@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. DIVERGÊNCIA JURISPRUDENCIAL E VIOLAÇÃO AOS ARTS. 33, § 2º, C, E 44, § 3º, DO CP. NÃO OCORRÊNCIA. PENA INFERIOR A 4 ANOS. RÉU REINCIDENTE. REGIME SEMIABERTO ADEQUADO. SUBSTITUIÇÃO DA PENA NÃO RECOMENDÁVEL.
+    2. AGRAVO REGIMENTAL IMPROVIDO.
+    1. Ao réu reincidente condenado à pena inferior a 4 (quatro) anos, mostra-se adequada a fixação do regime intermediário para cumprimento da reprimenda, não sendo recomendável a substituição da pena privativa de liberdade por restritiva de direitos.
+    2. Agravo regimental a que se nega provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 105, III, c, da Constituição. Aduz que “não basta indicação do artigo 59 do Código Penal para aplicação da pena, regime prisional ou a substituição da pena privativa de liberdade por outra, o Juiz deve fundamentar e deixar a não haver dúvidas que a decisão proferida foi a mais acertada em conformidade com a legislação vigente do qual o caso não apresente”.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a recorrente deixou de apresentar a preliminar formal de existência de repercussão geral, exigência prevista no art. 543-A, § 2º, do Código de Processo Civil (QO no AI 664.567/RS, Plenário do c. Supremo Tribunal Federal, Rel. Min. Sepúlveda Pertence, DJ de 6/9/2007)”.
+    O agravo é manifestamente inadmissível, tendo em vista que o Plenário do Supremo Tribunal Federal, ao apreciar a Questão de Ordem no AI 664.567, Rel. Min. Sepúlveda Pertence, decidiu que “é de exigir-se a demonstração de repercussão geral das questões constitucionais discutidas em qualquer recurso extraordinário, incluído o criminal”. No caso, a parte recorrente não apresentou preliminar formal e fundamentada de repercussão geral das questões constitucionais discutidas, o que atrai a incidência do art. 327, § 1º, do RI/STF.
+     De qualquer forma, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que “não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado daquele Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto na referida norma, o que não ocorreu no caso concreto” (AI 658.872 AgR, Rel. Min. Dias Toffoli).
+    Ademais, o Supremo Tribunal Federal tem entendimento no sentido de que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, vejam-se o AI 797.666-AgR, Rel. Min Ayres Britto, o AI 796.208-AgR, Rel Min. Dias Toffoli e o RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/90 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
