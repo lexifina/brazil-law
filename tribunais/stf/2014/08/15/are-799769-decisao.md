@@ -1,0 +1,13 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal dos Juizados Especiais Federais de Pernambuco, assim ementado:
+    “PREVIDENCIÁRIO. AVERBAÇÃO DE TEMPO DE SERVIÇO PRIVADO CONCOMITANTE AO SERVIÇO PÚBLICO. PROFESSOR. IMPOSSIBILIDADE ART. 96, II DA LEI Nº 8.213/1991. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO IMPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, XVI, a, § 10; 40, § 6º; e 201, § 9º, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que “o Pretório Excelso não permite o manejo de tal modalidade recursal, quando se cuida de afronta reflexa ou indireta, tendo a decisão atacada se limitado à análise de tema infraconstitucional”.
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que não atende ao disposto no art. 543-A, § 2º, do CPC. Como já decidido por este Tribunal, a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579 AgR/MG, Rel. Min. Ricardo Lewandowski).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, necessária seria a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF. Nessa linha, veja-se a ementa do ARE 787.707, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. TEMPO DE SERVIÇO. AVERBAÇÃO. ADICIONAL. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 15 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
