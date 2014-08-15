@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 37, X, da Lei Maior. Inicialmente determinada a devolução dos autos ao Tribunal de origem para os fins previstos no art. 543-B do CPC (fl. 456), retornaram os autos a esta Corte. Informa a Presidência do Tribunal a quo divergência da matéria apresentada nos presentes autos com a debatida no recurso apontado como paradigma (fls. 464-5).
+    É o relatório.
+    Decido.
+    Assiste razão.
+    A questão constitucional objeto do RE 584.313-RG não encontra similitude com o caso em apreço. Nesse sentir, torno sem efeito a decisão que aplicou o paradigma (fl. 454), e passo ao exame do recurso.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “SERVIDORES MILITARES. LEIS NºS 8.622/93 E 8.627/93. REVISÃO GERAL DE VENCIMENTOS, DA ORDEM DE 28,86%, NA FORMA DO INCISO X DO ART. 37 DA LEI DAS LEIS (REDAÇÃO ANTERIOR À EC 19/98). DIREITO AO REAJUSTE DE 31,87%. INEXISTÊNCIA. INTERPRETAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. O Plenário, ao julgar o RMS 22.307 E O RMS 22.307-ED, decidiu, por maioria, que as Leis nº 8.622/93 e 8.627/93 concederam uma revisão geral aos servidores públicos da ordem de 28,86% (nem mais, nem menos), nos termos do inciso X do art. 37 da Carta de Outubro (redação anterior à EC 19/98). 2. A eventual concessão de índice maior esbarra na necessidade de reexaminar a dita legislação infraconstitucional, procedimento a um só tempo inócuo -- porque o Pleno já se manifestou a respeito -- e vedado em sede de recurso extraordinário. Daí a natureza meramente reflexa ou indireta da alegada violação ao Magno Texto. 3. Precedente: RE 419.075, 1a Turma, Relator Ministro Marco Aurélio. Agravo regimental desprovido.” (RE 432362 AgR, Relator(a): Min. CARLOS BRITTO, Primeira Turma, julgado em 07/06/2005, DJ 04-11-2005 PP-00023 EMENT VOL-02212-03 PP-00468)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – RECURSO DE AGRAVO IMPROVIDO.” (ARE 749159 AgR, Relator(a): Min. CELSO DE MELLO, Segunda Turma, julgado em 25/06/2013, PROCESSO ELETRÔNICO DJe-175 DIVULG 05-09-2013 PUBLIC 06-09-2013)
+     Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 15 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
