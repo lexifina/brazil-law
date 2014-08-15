@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF08 nº 8044, de 18 de julho de 2014
+Assunto: Simples Nacional IMPORTADOR. SIMPLES NACIONAL. ANEXO II REFORMA A SOLUÇÃO DE CONSULTA Nº 192 - SRRF08/DISIT, DE 28 DE AGOSTO DE 2013. O estabelecimento comercial importador de produtos de procedência estrangeira (equiparado a industrial, pela legislação do IPI, ao dar saída a esses produtos no mesmo estado que os importou) se optar pelo Simples Nacional deverá tributar a receita de venda da mercadoria importada pelo Anexo II da Lei Complementar nº 123, de 2006. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA Nº 4 - COSIT, DE 28 DE ABRIL DE 2014. Dispositivos Legais: Lei Complementar nº 123, de 14 de dezembro de 2006, art. 12, 13 e 18, caput, § 4º, I, II, e § 5º; Lei nº 5.172, de 25 de outubro de 1966, art. 46 e 51; Lei nº 4.502, de 30 de Novembro de 1964, art. 4º, Decreto nº 7.212, de 15 de junho de 2010 (Ripi/2010), art. 9º, inciso I.
+Assunto: Simples Nacional
+IMPORTADOR. SIMPLES NACIONAL. ANEXO II
+REFORMA A SOLUÇÃO DE CONSULTA Nº 192 - SRRF08/DISIT, DE 28 DE AGOSTO DE 2013.
+O estabelecimento comercial importador de produtos de procedência estrangeira (equiparado a industrial, pela legislação do IPI, ao dar saída a esses produtos no mesmo estado que os importou) se optar pelo Simples Nacional deverá tributar a receita de venda da mercadoria importada pelo Anexo II da Lei Complementar nº 123, de 2006.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA Nº 4 - COSIT, DE 28 DE ABRIL DE 2014.
+Dispositivos Legais: Lei Complementar nº 123, de 14 de dezembro de 2006, art. 12, 13 e 18, caput, § 4º, I, II, e § 5º; Lei nº 5.172, de 25 de outubro de 1966, art. 46 e 51; Lei nº 4.502, de 30 de Novembro de 1964, art. 4º, Decreto nº 7.212, de 15 de junho de 2010 (Ripi/2010), art. 9º, inciso I.
+EDUARDO NEWMAN DE MATTERA GOMES Chefe
