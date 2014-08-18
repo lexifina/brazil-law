@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, caput, XVI, “c”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Colho precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS NA ÁREA DE SAÚDE. COMPATIBILIDADE DE HORÁRIO. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. 1. A acumulação remunerada de cargos públicos, quando sub judice a controvérsia sobre a compatibilidade de horários, demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 desta Corte, a qual dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. Precedentes: AI 730.343-AgR, Rel. Min. Dias Toffoli, Primeira Turma, Dje 14/12/2012, RE 633.298-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje 14/2/2012, e ARE 773.327-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, Dje 20/11/2013. 2. In casu, o acórdão extraordinariamente recorrido assentou: “CONSTITUCIONAL E ADMINISTRATIVO. PROFISSIONAL DE SAÚDE. CUMULAÇÃO DE CARGOS PÚBLICOS. CARGA HORÁRIA. INCOMPATIBILIDADE. TCU. ACÓRDÃO Nº 2.133/2005. ENTENDIMENTO”. 3. Agravo regimental DESPROVIDO.
+(ARE 812147 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 25/06/2014, PROCESSO ELETRÔNICO DJe-156 DIVULG 13-08-2014 PUBLIC 14-08-2014) “
+     “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PEDIDO DE ACUMULAÇÃO DE CARGOS PÚBLICOS DE PROFESSOR E DE FARMACÊUTICO. INCOMPATIBILIDADE DE HORÁRIOS VERIFICADA PELO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 279/STF. Para dissentir da conclusão do Tribunal de origem, seria necessária uma nova apreciação dos fatos e do material probatório constante dos autos. Incidência da Súmula 279/STF. Agravo regimental a que se nega provimento.
+(ARE 677617 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 25/02/2014, ACÓRDÃO ELETRÔNICO DJe-063 DIVULG 28-03-2014 PUBLIC 31-03-2014)”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
