@@ -1,0 +1,35 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE PENSÃO. LEI ESTADUAL N. 15.150/2005: SÚMULA N. 280 DO SUPREMO TRIBUNAL. DESCABIMENTO DO RECURSO PELA ALÍNEA C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base nas als. a e c do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Goiás:
+    “MANDADO DE SEGURANÇA. OFICIAL DO SERVIÇO NOTARIAL E REGISTRAL. REAJUSTE DOS PROVENTOS DE APOSENTADORIA. LEI ESTADUAL N° 15.150/2005. LEGITIMIDADE PASSIVA DA AUTORIDADE COATORA. DECADÊNCIA. ATO OMISSIVO CONTINUADO. INADEQUAÇÃO DA VIA ELEITA AFASTADA. DIREITO LÍQUIDO E CERTO. CONCESSÃO DO WRIT.
+    I - A competência para a gestão financeira e orçamentária do regime de aposentadorias do serviço notarial e registral, não remunerados pelos cofres públicos, é do Secretário da Fazenda do Estado de Goiás (art. 14 e 14-A da Lei Estadual 10.150/05 e art. 13, § 3º, LC 77/2010), que por tal motivo, deve figurar no polo passivo do writ.
+    II - Inexistente a decadência da impetração, uma vez que o presente mandamus se volta contra ato omissivo continuado.
+    III - Não há falar em utilização do writ como substitutivo de Ação de Cobrança eis que manejado visando desconstituir omissão administrativa e não o recebimento de valores pretéritos.
+    IV -Comprovado nos autos que os proventos de aposentadoria do impetrante não foram reajustados em conformidade com a disposição prevista no art. 15 da Lei Estadual n° 15.150/2005, isto é, aplicando-se a mesma periodicidade e índices conferidos ao Regime Geral de Previdência Social, inconteste o malferimento do direito líquido e certo do autor, uma vez que tal disposição decorre diretamente de lei editada pelo próprio Estado de Goiás.
+    ORDEM CONCEDIDA” (grifos nossos).
+    2. O Recorrente alega ter o Tribunal a quo contrariado os arts. 18 e 40 da Constituição da República.
+    Argumenta que
+    “a Lei n° 15.150/05 afrontou de forma literal e direta o §20 do art. 40 do texto magno, ao instituir um regime próprio diferenciado para atender a uma classe de trabalhadores, que deveria estar obrigatoriamente vinculada ao Regime Geral de Previdência administrado e gerido pelo INSS.
+    Se um servidor público ocupante de cargo em comissão se vincula ao Regime Geral de Previdência com mais razão isto deve ocorrer com o particular delegatário de serviço público que exerce suas atividades em regime privado”.
+    Examinados os elementos havidos no processo, DECIDO.
+    3.  Razão jurídica não assiste ao Recorrente.
+    4. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Lei estadual n. 15.150/2005 e Lei Complementar estadual n. 77/2010). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE PENSÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 756.594-AgR/GO, de minha relatoria, Segunda Turma, DJe 13.6.2014, grifos nossos).
+    “Agravo regimental em recurso extraordinário. 2. Progressão funcional dos servidores públicos da Prefeitura Municipal de Belo Horizonte, nos termos da Lei n. 7.169/96 . Matéria infraconstitucional. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 821.118-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 8.2.2011, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PENSÃO. CRITÉRIOS DE REAJUSTE. NECESSIDADE DO EXAME PRÉVIO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 702.230-AgR/GO, de minha relatoria, Segunda Turma, DJe 17.2.2014).
+    Nesse julgado afirmei:
+    “Em 1º de agosto de 2012, neguei seguimento ao agravo nos autos do recurso extraordinário interposto pelo Estado de Goiás contra julgado do Tribunal de Justiça daquele Estado, que determinara o reajuste da pensão em conformidade com o art. 15 da Lei n. 15.150/2005. A decisão agravada teve a seguinte fundamentação:
+    “6. O Tribunal goiano solucionou a lide com base na interpretação e aplicação da Lei goiana n. 15.150/2005, insuscetível de reapreciação em recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. LEI MUNICIPAL N. 7.169/1996. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 394.415-AgR, de minha relatoria, Primeira Turma, DJe 23.10.2009 – grifos nossos).
+    “Agravo regimental em recurso extraordinário. 2. Progressão funcional dos servidores públicos da Prefeitura Municipal de Belo Horizonte, nos termos da Lei n. 7.169/96 . Matéria Supremo Tribunal Federal infraconstitucional. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 821.118-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 8.2.2011, grifos nossos).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal)”.
+    5. Tampouco se viabiliza o extraordinário pela al. c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição da República. Incide na espécie a Súmula n. 284 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRÊMIO DE PRODUTIVIDADE. 1. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL (SÚMULA 280). OFENSA CONSTITUCIONAL INDIRETA. 2. O TRIBUNAL A QUO NÃO JULGOU VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADO EM FACE DA CONSTITUIÇÃO. INADMISSIBILIDADE DO RECURSO PELA ALÍNEA C DO ART. 102, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA (SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 763.681-AgR, de minha relatoria, Primeira Turma, DJe 13.11.2009).
+    Nada há, pois, a prover quanto às alegações do Recorrente.
+    6. Pelo exposto, nego seguimento a este recurso extraordinário (art. 557, caput , do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de agosto de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
