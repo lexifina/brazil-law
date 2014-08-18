@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve sentença de 1ª instância, da qual se extrai o seguinte trecho (fls. 179-183):
+    “(...)
+    Infere-se dos autos que a autora demandou a realização de exame de ressonância magnética, não especificado que serviria para investigação e tratamento de doença pré-existente indicada na entrevista qualificada, pelo que a ré deveria ter autorizado o referido procedimento, haja vista a declaração médica que indica o procedimento, em dobro nos termos do artigo 42, parágrafo único do Código de Defesa do Consumidor.
+    Com efeito, quanto aos danos morais constata-se dos autos que a simples recusa quanto ao custeio do tratamento encerra-se no descumprimento contratual, não sendo capaz de gerar danos na esfera moral, sendo um clássico exemplo de mero dissabor da vida cotidiana que passa ao largo da responsabilidade civil por dano exclusivamente moral.
+    Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a presente ação (…)”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte agravante alega violação aos arts. 5º, LIV e LV, e 97 da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “em razão da natureza infraconstitucional da lide, pelo que afastado o prequestionamento, decai inclusive ocasional defesa de repercussão geral em razões recursais, tanto quanto ao desprendimento do interesse subjetivo pela relevância política, econômica, social ou jurídica”; e (ii) “ainda que fosse o caso de ocorrência de contrariedade à Constitucional Federal – art. 102, III, “a”, seria por meio indireto ou reflexo, os quais não ensejam a via extraordinária” (fls. 292-295).
+    O recurso não deve ser provido. De início, ressalte-se que a alegação de ofensa ao art. 97 da Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão quanto a esse tema. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, o Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa à competência dos juizados especiais para a apreciação de processo em que seja necessária a produção de prova complexa para o deslinde da controvérsia. Nessa linha, veja-se a ementa do ARE 640.671, julgado sob a relatoria do Ministro Presidente, à época Ministro Cezar Peluso:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
