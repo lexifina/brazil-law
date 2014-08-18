@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE PRODUTIVIDADE. BASE DE CÁLCULO. INTERPRETAÇÃO DE NORMA DE CARÁTER INFRACONSTITUCIONAL. OFENSA REFLEXA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. A gratificação de produtividade, quando sub judice a controvérsia sobre sua base de cálculo, implica a análise da legislação infraconstitucional aplicável à espécie. Precedente: AI 598.600-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 6/11/2006, e AI 562.204-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8/5/2009.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “CONSTITUCIONAL. ADMINISTRATIVO. GDAT. BASE DE CÁLCULO, PRINCÍPIO DA ISONOMIA. OFENSA. INEXISTÊNCIA.
+1. O princípio da isonomia veda as discriminações arbitrárias, não impedindo, no entanto, tratamento díspar aos que se encontram em situação diferenciada; 2. O fato da GDAT incidir sobre o vencimento básico o Auditor Fiscal da Receita Federal, e esse variar de acordo com a classe/padrão ocupada, não implica afronta ao princípio da isonomia. Isso porque, malgrado resulte na diferença da base de cálculo da referida vantagem, ela se justifica pelo fato dos servidores não ocuparem posição idêntica dentro da carreira. 3. Apelação improvida.”
+4. Recurso extraordinário DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário interposto por UNAFISCO SINDICAL – SINDICATO NACIONAL DOS AUDITORES FISCAIS DA RECEITA FEDERAL, manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. GDAT. BASE DE CÁLCULO, PRINCÍPIO DA ISONOMIA. OFENSA. INEXISTÊNCIA.
+    1. O princípio da isonomia veda as discriminações arbitrárias, não impedindo, no entanto, tratamento díspar aos que se encontram em situação diferenciada; 2. O fato da GDAT incidir sobre o vencimento básico o Auditor Fiscal da Receita Federal, e esse variar de acordo com a classe/padrão ocupada, não implica afronta ao princípio da isonomia. Isso porque, malgrado resulte na diferença da base de cálculo da referida vantagem, ela se justifica pelo fato dos servidores não ocuparem posição idêntica dentro da carreira. 3. Apelação improvida.”
+    Foram opostos embargos de declaração, os quais restaram rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, caput, e 37, caput, da Constituição Federal.
+    É o relatório. DECIDO.
+    Sem razão a recorrente.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    A gratificação de produtividade, quando sub judice a controvérsia sobre sua base de cálculo, implica a análise da legislação infraconstitucional aplicável à espécie. Nesse sentido, AI 598.600-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 6/11/2006, e AI 562.204-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8/5/2009, in verbis:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE PRODUTIVIDADE. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. Controvérsia relativa à gratificação de produtividade apreciada à luz de legislação de direito local, circunstância impeditiva à apreciação do extraordinário. Súmula 280-STF. Agravo regimental a que se nega provimento” (AI 598.600-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 6/11/2006).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE PRODUTIVIDADE FISCAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 562.204-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8/5/2009).
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de agosto de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
