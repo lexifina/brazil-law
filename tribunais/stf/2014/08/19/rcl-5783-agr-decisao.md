@@ -1,0 +1,25 @@
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. DEFENSOR PÚBLICO ESTADUAL. EXERCÍCIO DE ADVOCACIA PRIVADA. CONFIGURAÇÃO DE AFRONTA À DECISÃO DO SUPREMO TRIBUNAL FEDERAL. ADI 3.043. SIMILITUDE DA TEMÁTICA DE FUNDO. RECLAMAÇÃO JULGADA PROCEDENTE.
+    Decisão: Trata-se de agravo regimental interposto por Edmilson de Almeida Barros Júnior, em face de decisão proferida por meu antecessor, Ministro Eros Grau, que negou seguimento à reclamação.
+    O ora agravante alega que este feito tem o objetivo de defender a eficácia da decisão do STF proferida nos autos da ADI 3.043/MG, ocasião em que se firmou o entendimento no sentido da impossibilidade de membro da Defensoria Pública exercer a advocacia privada, fora, pois, de suas atribuições institucionais.
+    Sustenta que não há direito adquirido contra a Constituição Federal, notadamente em relação às normas emanadas do poder constituinte originário, donde se conclui que desde o advento da Carta Cidadã é vedado o exercício da advocacia privada aos membros da Defensoria Pública.
+    Requer, ao final, o provimento do agravo regimental.
+    É o relatório. Decido.
+    Assiste razão ao agravante. Reconsidero a decisão agravada e passo ao exame do mérito da reclamação.
+    In casu, tenho que o ato reclamado violou o entendimento firmado no julgamento da ADI 3.043, Rel. Min. Eros Grau, cuja ementa foi assim redigida:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 137 DA LEI COMPLEMENTAR N. 65, DE 16 DE JANEIRO DE 2003, DO ESTADO DE MINAS GERAIS. DEFENSOR PÚBLICO. EXERCÍCIO DA ADVOCACIA À MARGEM DAS ATRIBUIÇÕES INSTITUCIONAIS. INCONSTITUCIONALIDADE. VIOLAÇÃO DO ART. 134 DA CONSTITUIÇÃO DO BRASIL. 1. O § 1o do artigo 134 da Constituição do Brasil repudia o desempenho, pelos membros da Defensoria Pública, de atividades próprias da advocacia privada. Improcede o argumento de que o exercício da advocacia pelos Defensores Públicos somente seria vedado após a fixação dos subsídios aplicáveis às carreiras típicas de Estado. 2. Os §§ 1o e 2o do artigo 134 da Constituição do Brasil veiculam regras atinentes à estruturação das defensorias públicas, que o legislador ordinário não pode ignorar. 3. Pedido julgado procedente para declarar a inconstitucionalidade do artigo 137 da Lei Complementar n. 65, do Estado de Minas Gerais”.
+    Naquela ocasião, o Ministro Relator assentou que “o artigo 134 deixou a cargo do legislador ordinário organizar a Defensoria Pública, ‘prescrevendo normas gerais para sua organização nos Estados’. Não obstante, além de assegurar aos integrantes da carreira, desde o momento da promulgação da Constituição do Brasil, independentemente da edição da norma superveniente, ‘a garantia da inamovibilidade’, vedou ‘o exercício da advocacia fora das [suas] atribuições institucionais’”.
+    O juízo reclamado, por sua vez, consignou que:
+    “(...)
+    Tem em julgamento Ação Ordinária, cujo escopo é a garantia de direito adquirido, o qual foi menoscabado por força da Resolução nº 20/2007 – do Conselho Superior da Defensoria Pública do Estado do Ceará, que vedou, de forma definitiva, a possibilidade de alguns Defensores Públicos do Estado permanecerem exercendo, como vinham fazendo ao longo de vários anos, o exercício simultâneo de sua função pública, com o mister da advocacia.
+    (…)
+    Não há espaço para a dúvida. O Direito Adquirido está a salvo da lei, que não poderá lhe prejudicar. Como dito, os documentos exibidos pela suplicante demonstram que a mesma restou investida no cargo de Defensor Pública em 30 de novembro de 1993, portanto, em data anterior ao advento da Lei Complementar Federal nº 80/94 e LC Estadual 06/97.
+    (…)
+    Isto posto, julgo procedente o pedido para, em consequência, declarar o direito adquirido da promovente ao libre exercício da atividade profissional de advogada na esfera privada, sem prejuízo de seus vencimentos como Defensora Pública do Estado do Ceará, transformando a tutela antecipatória deferida em definitiva”.
+    Verifica-se, pois, a similitude quanto à temática de fundo apesar de o ato normativo questionado não ser o mesmo. Na hipótese dos autos, a decisão reclamada autorizou que defensora pública estadual continuasse exercendo a advocacia privada. No paradigma citado, ADI 3.043, esta Corte julgou procedente o pedido para declarar a inconstitucionalidade do artigo 137 da Lei Complementar n. 65, do Estado de Minas Gerais, por afrontar o art. 134, § 1º, da Constituição Federal.
+    Dessa forma, tendo a decisão impugnada assentado a orientação de que assiste ao defensor público estadual o direito adquirido de permanecer exercendo a atividade da advocacia na esfera privada, mesmo após a promulgação da Carta de 1988, afigura-se manifesta a ofensa ao entendimento firmado por esta Corte na ADI 3.043.
+    Ex positis, julgo procedente a presente reclamação para cassar a decisão proferida pelo Juízo de Direito da 4ª Vara de Fazenda Pública da Comarca de Fortaleza.
+    Publique-se. Int..
+    Brasília, 19 de agosto de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
