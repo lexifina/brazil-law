@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. SALDO RESIDUAL. AUSÊNCIA DE COBERTURA PELO FCVS. RESPONSABILIDADE DO MUTUÁRIO. PRECEDENTES. 1. Nos termos da jurisprudência desta Corte, não havendo previsão de cobertura pelo Fundo de Compensação de Variações Salariais-FCVS, como no presente caso, os mutuários finais responderão pelos resíduos dos saldos devedores existentes, até sua final liquidação, na forma que for pactuada, conforme o disposto no art. 2º do Decreto-Lei nº 2.349/87. 2. Agravo regimental não provido”. (eDOC 4, p. 12)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 1º, III; 5º, caput e XXXII; e 6º do texto constitucional.
+    Aponta-se que o Tribunal de origem, ao indicar o mutuário como responsável pelo pagamento do saldo devedor existente, acabou por ofender o princípio da dignidade da pessoa humana, o direito à moradia e à propriedade. Alega-se ainda a inconstitucionalidade do Decreto-Lei 2.349/1987.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que divergir do entendimento adotado pelo Tribunal a quo demandaria a análise de cláusulas contratuais firmadas entre as partes, o que impede o processamento do recurso extraordinário, nos termos do Enunciado 454 da Súmula do STF.
+    Quanto ao tema, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRATO DE MÚTUO HABITACIONAL. SALDO DEVEDOR RESIDUAL. RESPONSABILIDADE PELO PAGAMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 1º, III, E 5º, CAPUT, DA CONSTITUIÇÃO FEDERAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. MANUTENÇÃO DOS FUNDAMENTOS INFRACONSTITUCIONAIS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I - Ausência de prequestionamento dos arts. 1º, III, e 5º, caput, da CF. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos e de cláusulas contratuais. Incidência das Súmulas 279 e 454 do STF. Precedentes. III - Nas hipóteses em que o acórdão recorrido se assenta em fundamento infraconstitucional suficiente e este se torna imodificável, caso destes autos, este Tribunal tem entendido pela inviabilidade do apelo extremo, com base na aplicação da Súmula 283 do STF. Precedentes. IV - Agravo regimental improvido”. (RE 756.472-AgR/AL, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 24.9.2013)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 3. Contrato de compra e venda de unidade habitacional. Incidência dos enunciados 279 e 454 da Súmula do STF. 3. Alegação de ofensa aos princípios da ampla de defesa, do contraditório e do devido processo legal. Discussão de índole infraconstitucional. ARE-RG 748.371, Tema 660. 4. Agravo regimental a que se nega provimento”. (ARE 775.239-AgR/SP, de minha relatoria, Segunda Turma, DJe 03.12.2013
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 19 de agosto de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
