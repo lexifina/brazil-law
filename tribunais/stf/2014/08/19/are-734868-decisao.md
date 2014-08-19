@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MATRÍCULA COLÉGIO PEDRO II. LIMITE ETÁRIO PARA INGRESSO. OFENSA REFLEXA. PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. A matrícula de aluno no Colégio Pedro II, quando sub judice a controvérsia sobre a razoabilidade e proporcionalidade de regra editalícia que estabelece limite etário, implica análise de normas infraconstitucionais aplicáveis à espécie. Precedente: RE 605.635 Dias Toffoli, DJe de 1º/8/2013.
+2. O princípio constitucional da legalidade, quando debatido sob a ótica infraconstitucional, revela uma violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional, o que torna inadmissível o recurso extraordinário, a teor da Súmula 636 do STF
+3. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+4 . In casu, o acórdão recorrido assentou: “ADMINISTRATIVO – AGRAVO INTERNO – MATRÍCULA – ENSINO FUNDAMENTAL – DISCRIMINAÇÃO ETÁRIA – SEGURANÇA MANTIDA – DESPROVIMENTO DO RECURSO.”
+5. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo COLÉGIO PEDRO II com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão prolatado pelo Tribunal Regional da 2ª Região, assim ementado:
+    “ADMINISTRATIVO – AGRAVO INTERNO – MATRÍCULA – ENSINO FUNDAMENTAL – DISCRIMINAÇÃO ETÁRIA – SEGURANÇA MANTIDA – DESPROVIMENTO DO RECURSO. Não merece ser acolhido recurso de agravo interno onde o recorrente não apresenta qualquer subsídio capaz de viabilizar a alteração dos fundamentos da decisão hostilizada, persistindo, destarte, imaculados e impassíveis os argumentos nos quais o entendimento foi firmado. A exigência contida no edital, de um limite máximo de idade para o ingresso o 5º ano do ensino fundamental, revela-se descabida quando confrontada com a Lei de Diretrizes e Bases da Educação ( Lei nº 9.3.94/96), que nada dispõe sobre um limite etário máximo para fins de matrícula, sendo certo de que o edital do concurso, ao restringir o direito de inscrição apenas aos candidatos nascidos a partir de 1º janeiro de 1994, viola a garantia constitucional do acesso à educação pública. Agravo interno improvido.”
+    Nas razões do apelo extremo sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, II, e 37, caput, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário alegando que a ofensa em questão, caso existisse, seria meramente reflexa.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Quanto ao mérito, não assiste razão ao agravante.
+    A matrícula de aluno no Colégio Pedro II, quando sub judice a controvérsia sobre a razoabilidade e proporcionalidade de regra editalícia que estabelece limite etário, implica análise de norma infraconstitucional aplicável à espécie (Lei nº 9.394/1996). Nesse sentido, em caso análogo, RE 605.635 Dias Toffoli, DJe de 1º/8/2013.
+    No que diz respeito à violação ao princípio constitucional da legalidade, aplica-se o teor da Súmula n.º 636 desta Corte: “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de agosto de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
