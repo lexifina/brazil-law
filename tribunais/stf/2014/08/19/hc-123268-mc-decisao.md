@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça que negou provimento ao Agravo Regimental interposto nos autos do REsp 1.395.202/RS.
+    Consta dos autos, em síntese, que (a) o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico transnacional de drogas (art. 33, caput, c/c art. 40, I, da Lei 11.343/2006); (b) o Tribunal Regional Federal da 4ª Região deu parcial provimento ao apelo da defesa e fixou o regime inicial semiaberto; (c) buscando a aplicação da causa de diminuição prevista no art. 33, § 4°, da Lei 11.343/2006, a defesa interpôs recurso especial, que, embora admitido na origem, teve seguimento negado por decisão monocrática do Ministro Relator do Superior Tribunal de Justiça; (d) interposto agravo regimental, este foi improvido, em acórdão assim ementado:
+    “(...) 1. A modificação da conclusão adotada pela instância a quo no sentido de que o ora agravante se dedica à atividade criminosa depende do reexame de fatos e provas, vedada na via especial diante do óbice do verbete n. 7 da Súmula desta Corte.
+    2. ‘Embora a primariedade e os bons antecedentes exijam sentença condenatória com trânsito em julgado, a aferição da dedicação à atividade criminosa pode ser extraída pelo julgador a partir de outros elementos de prova constantes dos autos’ (AgRg no AREsp 101913/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 15/2/2013).
+    3. Agravo regimental a que se nega provimento”.
+    Neste habeas corpus, a impetrante sustenta, em suma, que (a) estão presentes os requisitos para a aplicação da minorante prevista no art. 33, § 4º, da Lei 11.343/2006, já que não há provas nos autos de que o paciente se dedica a atividades criminosas; (b) com a aplicação da causa de diminuição da pena, haverá a possibilidade de conversão da pena privativa de liberdade. Requer, liminarmente, a concessão da ordem, para (a) aplicar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06 em seu patamar de 2/3; e (b) substituir a pena privativa de liberdade por restritivas de direitos.
+    2. Considerando as especiais circunstâncias da causa, o exame da pretensão será feito no momento próprio, em caráter definitivo. Por isso, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 19 de agosto de 2014
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
