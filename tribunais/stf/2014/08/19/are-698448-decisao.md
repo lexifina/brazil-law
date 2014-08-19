@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PLANO DE SAÚDE. EMPREGADO. RELAÇÃO DE CONSUMO. COMPETÊNCIA DA JUSTIÇA COMUM. NATUREZA DA RELAÇÃO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 808.726. OFENSA INDIRETA. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. NÃO CONFIGURADA.
+1. A competência da justiça comum, quando sub judice a controvérsia sobre a natureza da relação existente entre as partes envolvidas no contrato do plano de saúde, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 808.726–RG, da Relatoria do Min. Teori Zavascki, DJe 20/6/2014.
+2. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+3. In casu, o acórdão recorrido assentou: “AGRAVO DE INSTRUMENTO. ASSISTÊNCIA MULTIDISCIPLINAR DE SAÚDE. CUMPRIMENTO DA OBRIGAÇÃO DE PRESTAÇÃO DO SERVIÇO DE SAÚDE. DEPENDENTE. NATUREZA CIVIL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. DESPROVIMENTO DO RECURSO”.
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pela PETRÓLEO BRASILEIRO S.A. - PETROBRAS com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. ASSISTÊNCIA MULTIDISCIPLINAR DE SAÚDE. CUMPRIMENTO DA OBRIGAÇÃO DE PRESTAÇÃO DO SERVIÇO DE SAÚDE. DEPENDENTE. NATUREZA CIVIL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. DESPROVIMENTO DO RECURSO”.
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões de apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, XXXV, 7º, XXVI, 93, IX, e 114, I, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    O agravo não merece provimento.
+    A competência da justiça comum, quando sub judice a controvérsia sobre a natureza da relação existente entre as partes envolvidas no contrato do plano de saúde, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 808.726–RG, da Relatoria do Min. Teori Zavascki, DJe 20/6/2014, assim ementado:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. PETROBRAS. ASSISTÊNCIA MULTIDISCIPLINAR DE SAÚDE (AMS), OFERECIDA AOS EMPREGADOS DESSA COMPANHIA. COMPETÊNCIA PARA PROCESSAR E JULGAR AS CAUSAS RELATIVAS A TAL RELAÇÃO JURÍDICA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS, BEM COMO DE CLÁUSULAS CONTRATUAIS (SÚMULAS 279 E 454 DO STF). AUSÊNCIA DE REPERCUSSÃO GERAL. 1. Não tem natureza constitucional a controvérsia relativa à competência para julgar demandas envolvendo prestações por parte da Assistência Multidisciplinar de Saúde - AMS, oferecida pela Petrobras aos seus empregados e respectivos dependentes. É que a causa foi decidida pelo Juízo de origem à luz da legislação infraconstitucional pertinente, da análise do conjunto fático-probatório dos autos e da interpretação de cláusulas contratuais. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte, nesse sentido, AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de agosto de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
