@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão proferida pelo Tribunal de Justiça do Estado de Santa Catarina que não conheceu de agravo regimental interposto de decisão que negou seguimento a recurso extraordinário, nos termos do art. 543-B, § 2º, do CPC, assim ementado:
+    “PROCESSUAL CIVIL – RECURSO EXTRAORDINÁRIO – RECONHECIMENTO DA INEXISTÊNCIA DE REPERCUSSÃO GERAL PLEO SUPREMO TRIBUNAL FEDERAL – INADMISSIBILIDADE DO EXTRAORDINÁRIO – DECISÃO DO 3º VICE-PRESIDENTE DESTE TRIBUNAL – AGRAVO REGIMENTAL – INTERPOSIÇÃO APÓS EDIÇÃO DO ATO REGIMENTAL N. 112/2011 – TJSC – RECURSO INADMISSÍVEL – NÃO CONHECIMENTO.
+    Após a edição e vigência do Ato Regimental n. 112/2011 – TJSC tornou-se inadmissível a interposição de agravo regimental contra a decisão que não admite ou nega seguimento a recurso extraordinário ou especial, porquanto a decisão desafia a interposição de recurso previsto no Código de Processo Civil.”
+    A jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que não cabe o agravo previsto no art. 544 do CPC quando a decisão do Tribunal de origem aplica a sistemática da repercussão geral (AI 760.538-QO, Rel. Min. Gilmar Mendes). Verifica-se, no entanto, que, atenta a jurisprudência desta Corte, a recorrente interpôs o pertinente agravo interno, o qual, por equívoco daquele Tribunal, não foi conhecido.
+    Em sendo assim, em face do firme entendimento deste Tribunal, de que compete aos tribunais e turmas recursais de origem, em exercício de atribuição própria conferida pela lei, a adequação do acórdão recorrido ao entendimento firmado por esta Corte, o recurso deve ser julgado pelo Tribunal de Justiça do Estado de Santa Catarina.
+    Ademais, vale ressaltar que, de acordo com o que decidido no AI 760.538-QO, o Tribunal de origem não pode negar-se a apreciar o agravo interno contra a decisão monocrática que aplica ao recurso extraordinário o entendimento firmado por este Tribunal em repercussão geral, ao fundamento de que o recurso cabível seria o agravo do art. 544 do Código de Processo Civil.
+     Diante do exposto, não conheço do agravo interposto com base no art. 544 do CPC, mas determino o retorno dos autos à origem, para que sejam apreciadas as razões do agravo interno apresentado anteriormente, salvo se por outro motivo não tiver de ser conhecido.
+    Publique-se.
+          Brasília, 20 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
