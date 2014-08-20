@@ -1,0 +1,15 @@
+DECISÃO
+TRANSPORTE DE PASSAGEIROS – EXPLORAÇÃO DE SERVIÇO SEM AUTORIZAÇÃO – LICITAÇÃO – AUSÊNCIA – PRECEDENTES – NEGATIVA DE SEGUIMENTO.
+    1. A conclusão adotada pelo Tribunal Regional Federal da 4ª Região está em harmonia com a jurisprudência desta Corte. Confiram com o que se contem nas seguintes ementas:
+    SERVIÇO PÚBLICO CONCEDIDO. TRANSPORTE INTERESTADUAL DE PASSAGEIROS. AÇÃO DECLARATÓRIA. PEDIDO DE RECONHECIMENTO DE DIREITO DE EMPRESA TRANSPORTADORA DE OPERAR PROLONGAMENTO DE TRECHO CONCEDIDO. AUSÊNCIA DE LICITAÇÃO.
+    Afastada a alegação do recorrido de ausência de prequestionamento dos preceitos constitucionais invocados no recurso. Os princípios constitucionais que regem a administração pública exigem que a concessão de serviços públicos seja precedida de licitação pública. Contrária os arts. 37 e 175 da Constituição federal decisão judicial que, fundada em conceito genérico de interesse público sequer fundamentadas em fatos e a pretexto de suprir omissão do órgão administrativo competente, reconhece ao particular o direito de exploração de serviço público sem a observância do procedimento de licitação. Precedentes. Recurso extraordinário conhecido e a que se dá provimento.” (RE 264621/CE – relator: ministro Joaquim Barbosa – Segunda Turma).
+    EMENTA: - Exploração de transporte urbano, por meio de linha de ônibus. Necessidade de previa licitação para autoriza-la, quer sob a forma de permissão quer sob a de concessão. Recurso extraordinário provido por contrariedade do art. 175 da Constituição Federal.” (RE 140989/RJ – relator: ministro Octavio Gallotti – Primeira Turma).
+    “AGRAVO REGIMENTAL. SUSPENSÃO DA EXECUÇÃO DE TUTELA ANTECIPADA: ARTS. 4º, CAPUT, DA LEI 8.437/92 E 1º DA LEI 9.494/97. PRESTAÇÃO DO SERVIÇO DE TRANSPORTE RODOVIÁRIO INTERESTADUAL DE PASSAGEIROS. LICITAÇÃO: ARTS. 21, XII, 'e', E 175 DA CONSTITUIÇÃO DA REPÚBLICA. DEMONSTRAÇÃO DOS REQUISITOS OBJETIVOS PARA O DEFERIMENTO DA SUSPENSÃO DA EXECUÇÃO DO ACÓRDÃO: LESÕES ÀS ORDENS JURÍDICA, ADMINISTRATIVA E À ECONOMIA PÚBLICA. JUÍZO MÍNIMO DE DELIBAÇÃO. EFEITO MULTIPLICADOR.
+    (...)
+    2. Demonstração dos requisitos objetivos para o deferimento de suspensão da execução de acórdão: lesão à ordem pública, tendo em vista o contido nos arts. 21, XII, 'e', e 175 da Constituição da República. Jurisprudência do Supremo Tribunal Federal no sentido da impossibilidade da prestação de serviços de transporte interestadual de passageiros a título precário, sem a observância do procedimento licitatório. Lesão à ordem administrativa: afastamento da Administração do legítimo juízo discricionário de conveniência e oportunidade na fixação de trecho a ser explorado diretamente ou mediante autorização, concessão ou permissão, do serviço de transporte rodoviário interestadual de passageiros.
+    (...)”. (STA Agr – 73 /SP, relatora ministra Ellen Gracie – Pleno).
+    2. Ante o quadro, nego seguimento ao extraordinário.
+    3. Publiquem.
+Brasília, 20 de agosto de 2014.
+Ministro MARCO AURÉLIO
+Relator
