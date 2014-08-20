@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1491, de 19 de agosto de 2014
+Dispõe sobre os débitos a serem pagos à vista ou incluídos nos parcelamentos especiais na forma e condições estabelecidas na Portaria Conjunta PGFN/RFB nº 13, de 30 de julho de 2014, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no § 7º do art. 33 da Lei nº 8.212, de 24 de julho de 1991, nos arts. 1º a 13 da Lei nº 11.941, de 27 de maio de 2009, no art. 5º da Portaria MPS nº 133, de 2 de maio de 2006, e na Portaria Conjunta PGFN/RFB nº 13, de 30 de julho de 2014, resolve:
