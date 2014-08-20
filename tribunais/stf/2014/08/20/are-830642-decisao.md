@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “[...] Inviável a dispensa da apresentação da Certidão Negativa de Débitos relativos às Contribuições Previdenciárias e às de Terceiros e o Certificado de Regularidade perante o Fundo de Garantia por Tempo de Serviço (FGTS), na medida em que previstas expressamente no art. 232 da Consolidação Normativa Notarial e Registral. Negado provimento ao apelo”. (eDOC 2, p. 18)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea d, da Constituição Federal, sustenta-se que o acórdão recorrido julgou válida a Consolidação Normativa Notarial (lei local) em face da Lei 8.212/91 (lei federal).
+    Nas razões recursais, o recorrente aduz ter direito à “averbação estatutária, independentemente de apresentação do Certificado de Regularidade perante o FGTS e Certidão Negativa de Débito do INSS, uma vez que não incorre em mudança de finalidade, nem quanto à forma de administração, muito menos de alteração patrimonial, alteração de Cadastro de Pessoa Jurídica (CNPJ) ou qualquer implicação financeira”. (eDOC 2, p. 50)
+    A recorrente sustenta que o art. 232 da Consolidação Normativa e Registral violou o art. 47, I, “d”, da Lei 8.212/91, ao exigir a apresentação das certidões negativas de débito para a alteração estatutária pleiteada.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    A jurisprudência desta Corte é firme ao afirmar que o enquadramento do recurso extraordinário pela alínea “d” do inciso III do art. 102 da Constituição exige a demonstração de violação do pacto federativo. Nesse sentido destaco o 769.919-AgR-segundo, Rel. Min. Ricardo Lewandowski, DJe 27.9.2011; o AI 774.514-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1º.10.2010; e RE 690.583-AgR/MS, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 04.10.2012, os dois últimos precedentes assim ementados:
+    “(...) o enquadramento do recurso extraordinário na hipótese de cabimento inscrita no art. 102, III, d, exige a demonstração, pelo recorrente, de que a Corte de origem, ao julgar válida lei local contestada em face de lei federal, ofendeu o sistema de repartição de competências legislativas estatuído na Constituição”.
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO E CONSTITUCIONAL. 1. SERVIÇOS DE REGISTROS PÚBLICOS, NOTARIAIS E CARTORÁRIOS. 1. INCIDÊNCIA DO IMPOSTO SOBRE SERVIÇOS – ISS: POSSIBILIDADE. PRECEDENTES. 2. CABIMENTO DE RECURSO EXTRAORDINÁRIO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA D, DA CONSTITUIÇÃO DA REPÚBLICA: CONFLITO LEGISLATIVO FEDERATIVO NÃO DEMONSTRADO. PRECEDENTES. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (grifei).
+    Verifico, ainda, que dispensar a apresentação das certidões negativas de débitos relativos às Contribuições Previdenciárias e às de Terceiros e do certificado de regularidade perante o FGTS demandaria análise do direito local, inviável de apreciação pela via recursal extraordinária. Incidência do Enunciado 280 da Súmula do STF, assim redigida: "por ofensa a direito local não cabe Recurso Extraordinário”. Nesse sentido, destaco o seguinte precedente:
+    “Servidor público do Estado do Rio Grande do Sul: questão relativa à compatibilidade – ou não – da Lei estadual 10.395/1995 – que concedeu reajuste de vencimentos aos servidores públicos estaduais – com a LC 82/1995 (Lei Camata), que não alcança o plano constitucional: incidência da Súmula 280. Caso anterior à EC 45/2004, que inseriu a alínea d no art. 102, III, da CF”. (AI 612.842-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 17.8.2007 – grifei).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 20 de agosto de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
