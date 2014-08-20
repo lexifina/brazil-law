@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 605/606):
+    “MANDADO DE SEGURANÇA. APOSENTADORIA ANTERIOR A EC Nº 41/2003. GRATIFICAÇÃO DE REPRESENTAÇÃO. I - Tendo os autores se aposentados antes da edição da EC nº 41/2003, fazem jus às vantagens financeiras, bem como eventuais aumentos, concedidos aos servidores em atividade por meio do subsidio devem ser estendidas aos inativos, haja vista que a não extensão das vantagens conferidas aos servidores em atividade por meio do citado subsídio aos inativos ofende a regra constitucional consagrada na antiga redação do artigo 40, § 8º, da CF/88. Segurança concedida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, XXXV; 37, XIII; 39, § 4º, e 40, § 8º, todos da Constituição, bem como à Súmula 339/STF. Sustenta, em síntese, que a “Lei Delegada n.° 04/2003 criou uma nova espécie remuneratória que é incompatível com o regime em que se encontra o recorrido” (fls. 712).
+    O recurso extraordinário não deve ser admitido. De início, nota-se que os arts. 2º e 39, § 4º, da Constituição não foram apreciados pelo acórdão impugnado. Tampouco foram suscitados nos embargos de declaração opostos. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, o Tribunal de origem entendeu que a Lei estadual nº 17.257/2011, editada com base na Lei Delegada estadual nº 4/2003, não criou um novo regime jurídico, mas apenas deu uma nova nomenclatura para o antigo sistema remuneratório. Nesse contexto, concluiu que os servidores aposentados que incorporaram a denominada Gratificação de Representação tem direito a receber o subsídio implementado em substituição a tal vantagem.
+    Nota-se, portanto, que a discussão quanto à natureza jurídica das modificações introduzidas pela Lei Delegada nº 4/2003 e normas posteriores, do Estado de Goiás, está restrita à interpretação da legislação infraconstitucional. Dissentir dessa conclusão e decidir acerca de eventual ofensa aos preceitos constitucionais suscitados pela recorrente encontra óbice na Súmula 280/STF. Nessa linha, veja-se ementa do RE 571.027-AgR, julgado sob a relatoria do Ministro Ayres Britto:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. 1. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE REPRESENTAÇÃO. INTERPRETAÇÃO DA LEI DELEGADA 04/2003 DO ESTADO DE GOIÁS. INCIDÊNCIA DA SÚMULA 280/STF. 2. INTERPOSIÇÃO DO APELO EXTREMO COM BASE NA ALÍNEA C DO INCISO III DO ART. 102 DA CONSTITUIÇÃO REPUBLICANA. INSUBSISTÊNCIA.
+    1. No caso, a controvérsia foi decidida à luz da interpretação do Direito estadual pertinente. Pelo que entendimento diverso encontra óbice na Súmula 280 desta nossa Casa de Justiça. Precedentes.
+    2. O Tribunal de Justiça do Estado de Goiás não julgou válida lei ou ato de governo local contestados ante a Constituição, o que inviabiliza o recurso extraordinário fundamentado na alínea c do inciso III do art. 102 da Carta Magna.
+    Agravo regimental desprovido”.
+    No mesmo sentido: AI 593.581-AgR, Rel. Min. Dias Toffoli; AI 687.055-AgR, Rel. Min. Ricardo Lewandowski; ARE 642.216, Rel. Min. Luiz Fux; e RE 793.743, Rel. Min. Marco Aurélio.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+           Brasília, 20 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
