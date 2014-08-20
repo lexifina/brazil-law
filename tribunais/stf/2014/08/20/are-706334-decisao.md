@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Décima Quarta Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado:
+    “ISSQN – Cooperativa Médica – Unimed – Prestação de serviços a não associados. Incidência de ISS conforme jurisprudência (Resp 875.388/SP, rel. Min. LUIZ FUX). Inversão do ônus da sucumbência. Recurso de ofício provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 156, III, da Carta. Os embargos de declaração opostos foram rejeitados ante a ausência de omissão, obscuridade ou contradição justificadora de eventual acolhimento.
+    Sustenta, em síntese, que a relação jurídica que se estabelece entre a cooperativa e os usuários dos planos de saúde não configura hipótese de prestação de serviços, já que a atividade é desenvolvida pelos cooperados.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “os argumentos expendidos não são suficientes para infirmar a conclusão do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo”; (ii) “tampouco restou evidenciado qualquer maltrato a normas constitucionais, não sendo atendida qualquer hipótese das alíneas a, b, c e d do permissivo constitucional”; e (iii) “a análise demandaria o exame de matéria infraconstitucional, quando é sabido que a ofensa à Constituição Federal deve ser direta e frontal, e não por via reflexa”.
+    O agravante insiste na alegação de afronta direta aos dispositivos constitucionais destacados no recurso extraordinário. Afirma, inclusive, que foram observados todos os requisitos de admissibilidade necessários à espécie.
+    O recurso merece ser admitido, tendo em vista que o Supremo Tribunal Federal, nos autos do RE 651.703-RG, sob relatoria do Ministro Luiz Fux, reconheceu a existência de repercussão geral da matéria em exame. Confira-se a ementa:
+“RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. INCIDÊNCIA DE ISS SOBRE ATIVIDADES DESENVOLVIDAS PELAS OPERADORAS DE PLANOS DE SAÚDE. RECEITAS ORIUNDAS DAS MENSALIDADES PAGAS PELOS BENEFICIÁRIOS DOS PLANOS. LEI COMPLEMENTAR Nº 116/2003. RELEVÂNCIA DA MATÉRIA E TRANSCENDÊNCIA DE INTERESSES. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL.”
+    Na oportunidade, aduziu o Ministro Relator que “a questão constitucional posta à apreciação deste Supremo Tribunal Federal, portanto, cinge-se na discussão, à luz dos artigos 153, inciso V, e 156, inciso III, da Constituição Federal, sobre a incidência, ou não, do Imposto sobre Serviços de Qualquer Natureza (ISS) sobre as atividades desenvolvidas pelas operadoras de planos de saúde”. Nesse ponto, portanto, o recurso merece ser conhecido a fim de que seja determinada a devolução dos autos à origem.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 20 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
