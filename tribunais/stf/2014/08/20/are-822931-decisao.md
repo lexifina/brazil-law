@@ -1,0 +1,18 @@
+Trata-se agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “ABONO DE PERMANÊNCIA. Valor devido desde a data em que o servidor adquire direito à aposentadoria até a efetiva aposentação. Procedência dos pedidos formulados pelo autor. Recurso da ré a que se nega provimento” (fl. 86).
+    No RE, fundado no art. 102, III, b, da Constituição, alegou-se, em suma, que o acórdão afastou a aplicação do artigo 1º-F da Lei 9.494/97, com base no julgamento das Ações Diretas de Inconstitucionalidade 4.357 e 4.425, sem indicar, contudo, os dispositivos constitucionais supostamente violados.
+    A pretensão recursal não merece acolhida.
+    A agravante não indicou os dispositivos da Carta Magna que teriam sido violados. Limitou-se a demonstrar a impossibilidade de aplicar-se, ao caso concreto, o entendimento pacificado quando do julgamento das ADI’s 4.357 e 4.425, porquanto em fase de modulação dos efeitos.
+    Ocorre que ao julgar a apelação, o Tribunal de origem concluiu:
+    “(…)
+    É certo que a alteração posterior desse Diploma não suprimiu o direito ao pagamento do abono de permanência. Pois mesmo com a edição de outras duas Leis Complementares Estaduais de nºs 1.012/07 (art. 11) e 1.013/07, a isenção deve permanecer. Deveras, embora a Lei Complementar de nº 1013/07, aplicável aos militares estaduais, não tenha tratado do referido benefício (abono de permanência), a Lei Complementar nº 1.027/07, aplicável aos servidores civis, o fez (art. 13, parágrafo único), conforme se observa (...)” (fl. 87).
+    Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, conforme a Súmula 284 do STF.
+    Ainda que superado tal óbice, melhor sorte não assiste à agravante. Verifico que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Leis Complementares 943/03 e 1.027/07). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, transcrevo as seguintes ementas:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO MILITAR. ABONO DE PERMANÊNCIA. LEI ESTADUAL Nº 6.513/1995 E LEI COMPLEMENTAR ESTADUAL Nº 73/2004. CONTROVÉRSIA QUE ENVOLVE A ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 280/STF. A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação local, sem que se discuta o seu sentido à luz da Constituição (Súmula 280/STF). Precedentes. Agravo regimental a que se nega provimento” (RE 627.100-AgR/MA, Primeira Turma, Rel. Min. Roberto Barroso).
+    Agravo regimental em recurso extraordinário com agravo. 2. Abono de permanência. Servidor público militar. Lei Complementar estadual n. 73/2004. Necessidade de análise e interpretação de legislação local. Verbete n. 280. 3. Possibilidade de legislação infraconstitucional dispor sobre vantagem ou garantia não vedada pela Constituição Federal. Precedente. 4. Agravo regimental a que se nega provimento” (ARE 698.716-AgR/MA, Segunda Turma, Rel. Min. Gilmar Mendes).
+    Com essa mesma orientação, menciono, ainda, os seguintes precedentes, entre outros: ARE 817.489/SP, Rel. Min. Cármen Lúcia; AI ARE 777.557/SP, Rel. Min. Teori Zavascki; ARE 768.007/SP, Rel. Min. Dias Toffoli.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 20 de agosto de 2014.
+Ministro RICARDO LEWANDOWSKI
+     - Relator -
