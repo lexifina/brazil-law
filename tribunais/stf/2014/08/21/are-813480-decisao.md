@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E TRIBUTÁRIO. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO ESTADO DO RIO GRANDE DO SUL. TAXA DE ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. NATUREZA JURÍDICA DE TRIBUTO. PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA. FIXAÇÃO DE VALORES MEDIANTE RESOLUÇÃO. IMPOSSIBILIDADE. REPERCUSSÃO GERAL RECONHECIDA NO ARE 748.445/SC. TEMA Nº 692. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+1. A taxa de Anotação de Responsabilidade Técnica - ART, cobrada pelos conselhos regionais de engenharia, arquitetura e agronomia (CREA), deve observar o princípio constitucional da legalidade tributária, em face da natureza jurídica de tributo, conforme reafirmação da jurisprudência desta Corte feita pelo Plenário Virtual nos autos do ARE 748.445-RG, da relatoria do Min. Ricardo Lewandowski, Tema nº 692.
+2. In casu, o acórdão recorrido manteve a sentença de procedência do pedido de repetição dos valores pagos a título de Taxa de Anotação de Responsabilidade Técnica (ART).
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO ESTADO DO RIO GRANDE DO SUL – CREA/RS, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea b do permissivo Constitucional, contra acórdão que manteve a sentença de procedência do pedido de repetição dos valores pagos a título de Taxa de Anotação de Responsabilidade Técnica (ART).
+    Nas razões do apelo extremo sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 150, § 1º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    O Plenário Virtual do Supremo Tribunal Federal, em 1º de novembro de 2013, no ARE 748.445/SC, da relatoria do Min. Ricardo Lewandowski, Tema nº 692, reconheceu a repercussão geral da controvérsia objeto dos presentes autos, para reafirmar a jurisprudência da Corte, no sentido de que a Anotação de Responsabilidade Técnica – ART, cobrada pelos Conselhos Regionais de Engenharia, Arquitetura e Agronomia, tem natureza jurídica de taxa, sendo, portanto, necessária a observância do princípio da legalidade tributária previsto no art. 150, I, da Constituição. Por oportuno, trago à colação a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. LEI 6.496/1977. MANIFESTAÇÃO DO EXERCÍCIO DO PODER DE POLÍCIA. NATUREZA DE TAXA. SUBMISSÃO AO PRINCÍPIO DA ESTRITA LEGALIDADE. EXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO. - O Tribunal reconheceu a existência de repercussão geral da matéria debatida nos presentes autos, para reafirmar a jurisprudência desta Corte, no sentido de que a Anotação de Responsabilidade Técnica, instituída pela Lei Lei 6.496/1977, cobrada pelos Conselhos Regionais de Engenharia, Arquitetura e Agronomia, tem natureza jurídica de taxa, sendo, portanto, necessária a observância do princípio da legalidade tributária previsto no art. 150, I, da Constituição. Em consequência, conheceu do recurso extraordinário, desde já, mas lhe negou provimento”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 21 de agosto de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
