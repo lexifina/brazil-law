@@ -1,0 +1,18 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – NEGATIVA DE SEGUIMENTO AO PEDIDO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Espaço da Segurança e Telefonia Comercial Ltda. afirma haver a Presidente da Terceira Turma do Colegiado Recursal do Juizado Especial Criminal do Espírito Santo, no Processo nº 0000403-44.2013.8.08.0048, usurpado a competência do Supremo.
+    Segundo narra, apresentou queixa-crime em desfavor de Otávio Angeloti Pires, ante alegada prática do delito previsto no artigo 195, incisos III e IX, da Lei nº 9.279/96 (crime de concorrência desleal). Diz da prolação de sentença a reconhecer a decadência relativamente ao direito de oferecer queixa-crime, pronunciamento mantido em sede recursal. Destaca a certificação do trânsito em julgado, sem a publicação do respectivo acórdão, considerado o teor do Enunciado nº 85 do Fórum Nacional dos Juizados Especiais – FONAJE, segundo o qual “o prazo para recorrer da decisão de Turma Recursal fluirá da data do julgamento.”
+    Relata a tentativa de protocolo, sem êxito, de embargos declaratórios perante a Turma Recursal, presente a baixa do processo à origem, nos quais sustentada a inconstitucionalidade do citado verbete e a consequente tempestividade do recurso. Aponta a formalização de novos declaratórios no Juizado Especial, que não mereceram apreciação. Entende configurada a usurpação da competência do Supremo, decorrente da negativa de acesso à instância superior.
+    Consoante argumenta, os declaratórios tinham por objeto o prequestionamento da matéria a ser veiculada em recurso extraordinário, concernente à inconstitucionalidade do Enunciado nº 85 do Fonaje. Alega haver o Órgão reclamado impedido o prequestionamento do tema e, por consequência, obstado o exercício “da competência do Supremo de analisar questões que ofendem diretamente garantias fundamentais [...].” Evoca decisão proferida pelo ministro Dias Toffoli na Reclamação nº 13.032.
+    Não se reporta ao requisito do risco.
+    Requer, em sede liminar, seja “garantido ao Reclamante o direito ao protocolo judicial,” determinando-se ao Órgão reclamado que receba, conheça e julgue os mencionados embargos declaratórios. Postula, alfim, a confirmação do pronunciamento.
+    Em manifestação de 28 de maio de 2014, o reclamante informou haver o Juizado Especial remetido ao Colegiado Recursal os referidos declaratórios, os quais não foram recebidos em virtude da intempestividade, presente o teor do aludido enunciado do Fonaje, além de o advogado ter sido intimado para acompanhar a sessão de julgamento. Reiterou o pedido formulado na inicial.
+    O processo está concluso no Gabinete.
+    2. Atentem para as balizas da espécie. O reclamante argui a usurpação da competência do Supremo considerada, segundo entende, a indevida certificação do trânsito em julgado de acórdão formalizado na origem, no que foi impedido de protocolar embargos declaratórios visando o prequestionamento de tema constitucional. Consoante afirma, por essa razão, deixou de interpor recurso extraordinário. Postula seja o Órgão reclamado compelido a conhecer e julgar os mencionados declaratórios.
+    Há o óbice decorrente da organicidade do Direito. A apreciação do requisito atinente à tempestividade de recurso direcionado a órgão judiciário diverso do Supremo é matéria afeta unicamente ao Juízo de origem. Mostra-se impróprio pressupor, em sede de reclamação, a usurpação da competência do Tribunal, até mesmo ante a ausência de formalização de recurso extraordinário. Descabe reclamação voltada a reconhecer-se o desacerto do que proclamado na origem.
+    3. Nego seguimento ao pedido formulado na reclamação.
+    4. Publiquem.
+Brasília, 22 de agosto de 2014.
+Ministro MARCO AURÉLIO
+Relator
