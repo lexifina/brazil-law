@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Antônio Picinini. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, d a Constituição Federal, e 11 do Emenda Constitucional 20/98.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Registrado pela Corte de origem: ”(...) A nomeação propriamente dita ocorreu somente em 14.05.1999, procedida pela Coordenação de Recursos Humanos do Ministério do Trabalho e Emprego, conforme evidencia o documento de fls. 13 dos autos.” (fl. 84), considero que o entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “CONSTITUCIONAL. SERVIDOR PÚBLICO APOSENTADO. REINGRESSO NO SERVIÇO PÚBLICO ANTES DA EDIÇÃO DA EC 20/98 E FALECIMENTO POSTERIOR À EMENDA. DUPLA ACUMULAÇÃO DE PENSÕES POR MORTE. IMPOSSIBILIDADE. PRECEDENTES. RECURSO IMPROVIDO. I - A Carta de 1988 veda a percepção simultânea de proventos de aposentadoria com remuneração de cargo, emprego ou função pública, ressalvadas hipóteses - inocorrentes na espécie - de cargos acumuláveis na forma da Constituição, cargos eletivos e cargos em comissão (art. 37, § 10, da Constituição). II - Mesmo antes da EC 20/1998, a acumulação de proventos e vencimentos somente era admitida quando se tratasse de cargos, funções ou empregos acumuláveis na atividade, na forma permitida pela CF. III - Com o advento da EC 20/98, que preservou a situação daqueles servidores que retornaram ao serviço público antes da sua promulgação, proibiu, em seu art. 11, a percepção de mais de uma aposentadoria pelo regime de previdência a que se refere o art. 40 da Constituição. IV - Se era proibida a percepção de dupla aposentadoria estatutária não há é possível cogitar-se de direito à segunda pensão, uma vez que o art. 40, § 7º, da Constituição subordinava tal benefício ao valor dos proventos a que o servidor faria jus. V – Recurso extraordinário conhecido e improvido.” (RE 584388, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 27-09-2011)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
