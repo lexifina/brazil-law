@@ -1,0 +1,13 @@
+Petição/STF nº 35.140/2014
+DECISÃO
+RECURSO – JULGAMENTO – SUSTENTAÇÃO DA TRIBUNA – OPORTUNIDADE – REABERTURA – INDEFERIMENTO.
+    1. O Gabinete prestou as seguintes informações:
+    A Fundação Richard Hugh Fisk, em petição subscrita por advogado regularmente credenciado, requer seja aberta nova oportunidade de sustentação oral, quando for retomado o exame do extraordinário acima identificado. Alega que, em 20 de agosto de 2011, Vossa Excelência deferiu o respectivo ingresso como interessada, possibilitando a sustentação oral pleiteada – cópia do ato anexa. Afirma que, de acordo com orientações de servidores do Supremo, passou a acompanhar a Pauta de Julgamentos, toda segunda-feira, por meio do calendário disponibilizado no sítio do Tribunal, para verificar em qual data o processo seria incluído. Ressalta que, em 4 de agosto de 2014, ao realizar referida consulta, havia apenas a pauta relativa ao dia 5 seguinte, terça-feira, não estando incluído o extraordinário. Em 7 de agosto subsequente, ao receber mensagem eletrônica enviada pelo sistema push do Supremo, foi surpreendida com a informação sobre o início do julgamento do recurso, ocorrido em 6 de agosto de 2014. Cita precedentes em que o Tribunal já viabilizou a sustentação oral após terem sido proferidos votos. Indica exclusivamente o nome do Dr. Fernando Tardioli Lúcio de Lima para constar das futuras intimações.
+    O Tribunal, em 19 de março de 2010, reconheceu a existência de repercussão geral da matéria em discussão no recurso extraordinário – saber se a imunidade prevista no artigo 150, inciso VI, alínea “d”, da Carta Política alcança a importação de pequenos componentes eletrônicos que acompanham material didático utilizado em curso prático de montagem de computadores.
+    A apreciação do recurso foi iniciada em 6 de agosto de 2014. Vossa Excelência negou provimento ao extraordinário, tendo votado no mesmo sentido os ministros Roberto Barroso, Teori Zavascki, Rosa Weber e Luiz Fux. O ministro Dias Toffoli pediu vista.
+    2. Notem a organicidade e a dinâmica do Direito, especialmente do instrumental. O julgamento teve início, com sustentações orais. Incumbia à requerente acompanhar a pauta do Supremo veiculada no sítio da internet, como o fez, por exemplo, a Associação Nacional dos Editores de Revistas – Aner, cujo representante processual assomou à Tribuna.
+    3. Indefiro o pedido formalizado. Quanto às intimações, observem o pleito apresentado, que visa o lançamento do nome do Dr. Fernando Tardioli Lúcio de Lima.
+    4. Publiquem.
+Brasília – residência –, 22 de agosto de 2014.
+Ministro MARCO AURÉLIO
+Relator
