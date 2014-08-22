@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 224, de 14 de agosto de 2014
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF EMENTA: INCORPORAÇÃO DE AÇÕES. TRANSFERÊNCIA. INTEGRALIZAÇÃO DE CAPITAL. PESSOA FÍSICA. GANHO DE CAPITAL. INCIDÊNCIA. Na operação de incorporação de ações, a transferência destas para o capital social da companhia incorporadora caracteriza alienação cujo valor, se superior ao indicado na declaração de bens da pessoa física que as transfere, é tributável pela diferença a maior, como ganho de capital, na forma da legislação. DISPOSITIVOS LEGAIS: Lei nº 6.404, de 1976, art. 252; Lei n° 7.713, de 1988, art. 3°; Lei n° 9.249, de 1995, art. 23; e Instrução Normativa SRF nº 84, de 2001, arts. 2º, 3º, 16, 27 e 30.
+[arquivo anexo: SC Cosit nº 224-2014.pdf]
