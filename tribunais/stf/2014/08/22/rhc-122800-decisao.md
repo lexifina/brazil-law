@@ -1,0 +1,26 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por Marcelo Duval Soares contra acórdão do Superior Tribunal de Justiça, que não conheceu do HC 214.884/RJ.
+    O paciente foi condenado à pena de 09 (nove) anos, 07 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, pela prática do crimes de tortura (art. 1º, §§ 2º, 4º, I, e 5º, todos da Lei nº 9.455/97) e de falsidade ideológica (art. 299 do Código Penal). Naquela oportunidade, o magistrado de primeiro grau decretou a perda do cargo público.
+    Em sede de apelação, o Tribunal Regional Federal da 2ª Região deu parcial provimento ao recurso defensivo para redimensionar a pena para 07 (sete) anos e 10 (dez) meses de reclusão.
+    Irresignada, a Defesa impetrou o HC 214.884/RJ perante o Superior Tribunal de Justiça, que não conheceu do writ.
+    No presente recurso ordinário, a Defesa assevera a ocorrência de nulidade processual consubstanciada na falta de realização da perícia audiométrica anteriormente deferida pela autoridade judiciária competente. Sustenta que o Juízo de primeiro grau, após a consecução de obras nas dependências do Departamento de Polícia Federal, reputou prejudicada a prova, “ainda que de conteúdo manifestamente absolutório”. Argumenta a inexistência de agressões às vítimas, nos termos do exame de corpo de delito. Salienta a atipicidade da conduta, visto que o Recorrente não possuía o dever funcional de apurar o crime de tortura cometido na sede da delegacia em que atuava, tampouco teve conhecimento dos fatos criminosos. Defende a atipicidade da conduta do delito de falsidade ideológica, uma vez praticado como crime-meio “para acobertar o delito de tortura”.
+    Requer, em medida liminar, a suspensão dos efeitos da condenação. No mérito, pugna pela absolvição do paciente.
+    É o relatório.
+    Decido.
+    Colho do ato dito coator:
+    “PROCESSO PENAL. HABEAS CORPUS. TORTURA. FALSIDADE IDEOLÓGICA. (1) IMPETRAÇÃO. SUCEDÂNEO RECURSAL. IMPROPRIEDADE DA VIA ELEITA. (2) PERÍCIA AUDIOMÉTRICA. PEDIDO INDEFERIDO. REFORMA DO LOCAL. CARÁTER INÓCUO DA PROVIDÊNCIA. NEGATIVA FUNDAMENTADA. ILEGALIDADE. AUSÊNCIA. (3) ALEGAÇÃO DE ATIPICIDADE. (A) ASPECTO SUBJETIVO. IMPOSSIBILIDADE DE REDISCUSSÃO NA ANGUSTA VIA HEROICA. (B) CUMPRIMENTO DE DEVERES FUNCIONAIS PREVISTOS EM RESOLUÇÃO ADMINISTRATIVA. IRRELEVÂNCIA NO CONTEXTO. (C) PRINCÍPIO DA ISONOMIA. AUSÊNCIA DE VIOLAÇÃO. (D) PREENCHIMENTO DAS ELEMENTARES. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+    1. No contexto de racionalização do emprego do habeas corpus, mostra-se imprópria a sua utilização como sucedâneo recursal.
+    2. Revela-se motivada a decisão que indefere perícia audiométrica, tendente à verificação de que, da sala do delegado de plantão, seria inviável ouvirem-se os gritos de presos que estariam sendo torturados, pois calcada em elementos concretos. A fundamentação para a negativa da produção da prova lastreou-se na reforma pela qual passou a sede da Polícia Federal, descaracterizando, desta maneira, a cena dos acontecimentos, tornando inútil a diligência colimada.
+    3. Não é possível, na augusta via heroica, a conclusão de que teria havido atipicidade da imputação quando tal juízo envolve pesquisa acerca de elemento subjetivo, a saber, o conhecimento de que disporia o paciente acerca do que se passava na carceragem de sede da Polícia Federal.
+    Igualmente, não há falar em ausência de enquadramento típico em razão de cumprimento de deveres funcionais, estampados em regulamento administrativo, quando, segundo a condenação, o paciente teria buscado ilaquear a verdade, dando aparência de regularidade a comportamento criminoso, tanto que condenado, também, por crime contra a fé pública. O princípio da isonomia resta preservado, ao se cotejar a absolvição de outro corréu, também delegado de polícia, pois há discrímen para embasar sua situação em confronto com a do paciente; ao contrário do ocorrido com o paciente, o corréu, no momento do crime, não mais ocupava a posição de delegado de plantão.
+    4. Nos moldes em que elaborada a denúncia, não desponta atipicidade do crime de falsidade ideológica, dado que inserida na nota de culpa e na nota de ciência dos direitos constitucionais informação inverídica, tendente a alterar a verdade de fato juridicamente relevante, consistente na recusa da vítima em assinar tais documentos.
+    5. A alegação de conflito aparente de normas não pode ser conhecida, pois não suscitada anteriormente. O argumento de que tal seria possível, sedimentada no argumento da ampla devolutividade da apelação não prospera, dado que tal aspecto vincula-se ao plano vertical da irresignação.
+    6. Ordem não conhecida.”
+    Na espécie, as razões da decisão hostilizada mostram-se relevantes e, em um primeiro exame, sobrepõem-se aos argumentos lançados no writ.
+    Ademais, a matéria relacionada ao pedido de tutela emergencial depende da análise da questão de fundo que diz com a fundamentação da sentença condenatória.
+    Diante das peculiaridades do caso concreto, necessário o exame aprofundado da impetração, inviável nessa fase preliminar.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se a manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 22 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
