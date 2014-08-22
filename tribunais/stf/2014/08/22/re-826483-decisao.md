@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado (fls. 521):
+    “Ação de Revisão de Pensão, equiparando-a aos vencimentos dos servidores ativos – Filha de ex-servidor – A questão envolvendo a revisão de pensão de ex-servidor falecido está pacificada na Superior Instância, conforme Acórdão do Supremo Tribunal Federal, no Mandado de Injunção nº 211-8/DF, determinando a equiparação dos vencimentos ou proventos do servidor falecido, aos ganhos do servidor ativo – Artigo 40, parágrafo 8º da Constituição Federal – Manutenção da Sentença no Duplo Grau Obrigatório de Jurisdição – Desprovimento da Apelação.
+    Agravo Legal alvejando Decisão Monocrática que mantece a sentença em duplo grau de jurisdição e negou provimento à Apelação.
+    Agravo Legal manifestamente infundado – Aplicação das sanções previstas no artigo 557, parágrafo 2º do mesmo diploma – Desprovimento do Agravo Legal.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação ao art. 37, XIV, da Constituição, e ao art. 17, caput, do ADCT.
+    O recurso é inadmissível. Isso porque a alegada ofensa ao art. 17, caput, do ADCT não foi apreciada pelo acórdão impugnado. Tampouco foi suscitada nos embargos de declaração opostos, com fim de sanar eventual omissão. O recurso extraordinário carece, nesse ponto, de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto à questão de fundo, nota-se que a conclusão adotada pelo Tribunal de origem se alinha à jurisprudência do Supremo Tribunal Federal no sentido de que o art. 40, § 5º, da Constituição Federal, atual § 7º, é norma de aplicabilidade imediata, devendo o cálculo de pensão por morte de servidor público corresponder à totalidade dos vencimentos ou proventos deste quando em atividade. Quanto às verbas que deverão compor a pensão por morte, nota-se que se sustenta na interpretação conferida à legislação local pertinente (Leis municipais nºs 166/1992, 175/1995, 761/2004 e 870/2005). Inviável, portanto, o reexame da matéria nesta sede (Súmula 280/STF). Nesse sentido, vejam-se os seguintes julgados, de ambas as Turmas:
+    “Agravo regimental no agravo de instrumento. Pensão por morte. Montante da vantagem. Artigo 40, § 5º, da Constituição Federal. Precedentes.
+    1. A jurisprudência desta Corte reconhece a autoaplicabilidade da norma do art. 40, § 5º, (atual § 7º), da Constituição Federal, determinando que o valor pago a título de pensão corresponda à integralidade dos vencimentos ou dos proventos que o servidor falecido percebia.
+    2. Demanda, ademais, que foi decidida com fundamento em norma de legislação local, de insuscetível revisão, na via extraordinária, a teor do disposto na Súmula nº 280 desta Corte.
+    3. Agravo regimental não provido.” (AI 602270-AgR, Rel. Min. Dias Toffoli, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENSÃO POR MORTE. VALOR INTEGRAL DOS VENCIMENTOS OU PROVENTOS. NATUREZA DA PENSÃO E DO VÍNCULO DO SERVIDOR COM A ADMINISTRAÇÃO À ÉPOCA DO FALECIMENTO. NECESSIDADE DO REEXAME DAS PROVAS DOS AUTOS. SÚMULA 279 DO STF. NECESSIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO LOCAL. SÚMULA 280 DESTA CORTE. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - O acórdão recorrido está em consonância com o entendimento desta Corte no sentido de que a pensão por morte deve corresponder à totalidade dos vencimentos ou proventos do servidor como se vivo estivesse. Precedentes.
+    II – Quanto à alegação de que o servidor, à época do falecimento, exercia cargo comissionado, bem como de que a pensão não teria natureza previdenciária, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 do STF, bem como seria imprescindível a interpretação da legislação infraconstitucional local aplicável à espécie, o que inviabiliza o extraordinário a teor da Súmula 280 do STF.
+    III – Agravo regimental a que se nega provimento.” (ARE 733926-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma)
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
