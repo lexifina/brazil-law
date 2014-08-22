@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso nas alegações de afronta aos arts. 5º, XXXV, 7º, IX e XVI, e 37, XIV, da Lei Maior e de contrariedade à Súmula Vinculante 16.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Na esteira da jurisprudência desta Corte, a discussão versada nos autos não alcança estatura constitucional, tendo em vista que a análise das violações apontadas no apelo extremo demandaria, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, em desatenção à exigência contida no art. 102, III, “a”, da Lei Maior.
+    Com efeito, o Plenário desta Corte, no julgamento do RE 774.927-RG/SC (Rel. Min. Teori Zavascki, DJe 04.6.2014), manifestou-se pela inexistência de repercussão geral da matéria atinente à base de cálculo das horas laboradas em regime de plantão. Este, o teor da ementa:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. ESTADO DE SANTA CATARINA. VANTAGEM DECORRENTE DE SERVIÇOS PRESTADOS EM REGIME DE PLANTÃO. BASE DE CÁLCULO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à base de cálculo da vantagem denominada ‘horas plantão’ é de natureza infraconstitucional, já que decidida pelo Tribunal de origem à luz da Lei Complementar estadual 1.137/92 e da Lei estadual 6.745/85. 2. Incabível, ademais, em recurso extraordinário, apreciar violação ao art. 5º, XXXV, da Constituição Federal, que demanda a revisão da interpretação das normas infraconstitucionais pertinentes (AI 796.905-AgR/PE, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19.8.2011). 3. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009). 4. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
