@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. ALEGADA OFENSA AO INC. LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. DECISÃO FUNDAMENTADA EM LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão do recurso extraordinário interposto com base nas al. a do inc. III do art. 102 da Constituição da República cujo objeto é a seguinte decisão do Tribunal de Justiça de São Paulo:
+    “EXIBIÇÃO DE DOCUMENTOS. Medida cautelar Contratos bancários. Suficiente identificação dos documentos - Inépcia da inicial não caracterizada Interesse de agir evidenciado pela necessidade e utilidade da tutela jurisdicional invocada. Medida de caráter satisfativo. Documentos comuns às partes. Obrigação do banco em exibir os documentos a qualquer tempo. Relação de consumo entre o correntista e o banco. Dever de informação. Inexigibilidade de tarifas ou despesas com emissão de segundas vias - Multa cominatória. Condenação incabível Súmula 372 do STJ – Apelação parcialmente provida” (grifos nossos).
+    2. O Agravante afirma ter o acórdão recorrido contrariado o art. 5º, caput, inc. LIV, da Constituição da República.
+    Requer o conhecimento e provimento do recurso extraordinário.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidir, na espécie, a Súmula n. 282 deste Supremo Tribunal Federal.
+    Assevera que “o Tribunal entendeu por prover parcialmente a Apelação, mantendo a condenação na exibição dos documentos a despeito de prévia solicitação administrativa excluindo, todavia, a cominação de multa”.
+    Sustenta que o acórdão recorrido “se apresenta inconstitucional (…) no sentido de compelir o Recorrente em obrigação de exibição de documentos em flagrante ofensa ao princípio do devido processo legal, constrangendo indevidamente seu patrimônio”.
+    4. Examinados os elementos havidos no processo, DECIDO.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O inc. LIV do art. 5º da Constituição da República, suscitado no recurso extraordinário, não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. Ademais, este Supremo Tribunal assentou que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional (arts. 6º, inc. III, e 46 do Código de Defesa do Consumidor; e art. 3º da Resolução n. 2.871/2001, art. 1º, inc. IV, da Resolução n. 2.878/2001, ambas do Banco Central do Brasil), poderiam configurar, se fosse o caso, ofensa constitucional indireta:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de agosto de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
