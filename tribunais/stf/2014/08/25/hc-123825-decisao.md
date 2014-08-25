@@ -1,0 +1,15 @@
+Decisão:
+Ementa: Habeas corpus interposto de decisão monocrática. Descabimento. Pena extinta pelo indulto. Incidência da Súmula 695/STF. Utilização do habeas corpus para discutir a reintegração em cargo público. Impossibilidade. Writ não conhecido.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que, em 2011, negou seguimento ao HC 211.681, do Superior Tribunal de Justiça.
+    2. O impetrante, condenado definitivamente pelos crimes de peculato e coação no curso do processo, requer a anulação da sentença e a sua reintegração no cargo público de Delegado de Polícia Civil do Estado de Santa Catarina. Alega, em síntese, a inobservância do art. 514 do Código de Processo Penal e a nulidade da ação penal por ausência de defesa técnica.
+    Decido.
+    3. Inicialmente observo que este habeas corpus foi impetrado contra decisão monocrática, proferida pelo Relator do HC 211.681, Ministro Marco Aurélio Bellizze, de modo que, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido, foram julgados, por exemplo, o HC 113.468, Rel. Min. Luiz Fux, e o HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso.
+    4. Ademais, as peças que instruem a impetração esclarecem que “houve extinção da punibilidade nos autos da execução penal, por conta da concessão de indulto”, sendo aplicável ao caso, portanto, o entendimento consolidado na Súmula 695/STF, no sentido de que “não cabe habeas corpus quando já extinta a pena privativa de liberdade”.
+    5. Além disso, a orientação do Supremo Tribunal Federal consolidou-se no sentido de que a ação de habeas corpus não pode ser utilizada para obter-se, por via oblíqua, a reintegração no cargo público. Confira-se, por todos, o RHC 118.015, recentemente julgado pela Segunda Turma, sob a relatoria do Ministro Ricardo Lewandowski:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. PROCESSO PENAL. PENA ACESSÓRIA DE PERDA DO CARGO PÚBLICO. REINTEGRAÇÃO. SENTENÇA PENAL CONDENATÓRIA TRANSITADA EM JULGADO. NÃO CONHECIMENTO DO RECURSO. I Writ no qual se sustenta a inidoneidade da fundamentação da sentença penal condenatória transitada em julgado na parte em que estabelecida a perda do cargo público como pena acessória. II Inadequação da via processual eleita, uma vez que a jurisprudência desta Corte é firme no sentido de não se admitir a impetração de habeas corpus como sucedâneo de revisão criminal, salvo nas hipóteses de manifesta ilegalidade ou teratologia, o que não é o caso dos autos. Precedentes. III É incabível o habeas corpus em que se evidencia a pretensão de, por via transversa, obter-se a reintegração no cargo público. Precedentes. IV Recurso ordinário não conhecido.”
+    6. Nessas condições, com base no art. 38 da Lei nº 8.038/1990 c/c o art. 21, §1º do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 25 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
