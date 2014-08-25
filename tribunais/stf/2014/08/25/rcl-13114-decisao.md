@@ -1,0 +1,24 @@
+Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada no art. 102, I, l, da Constituição Federal, ajuizada pelo Estado de São Paulo, contra acórdão do Tribunal de Justiça de São Paulo que garantiu a policiais militares a manutenção do adicional de insalubridade no valor correspondente a dois salários mínimos na data da decisão, com correções posteriores pela Tabela Prática do Tribunal de Justiça de São Paulo.
+    Sustenta que a decisão reclamada, ao modificar a forma de correção do valor do adicional de insalubridade, fixado em dois salários mínimos, não teria observado a Súmula Vinculante 4, a qual veda a substituição, por decisão judicial, do salário mínimo como indexador de base de cálculo de vantagem de servidor público.
+    Defende a necessidade de provimento liminar para suspender a decisão reclamada tendo em vista a existência de perigo na demora, pois a decisão poderá gerar grave lesão aos cofres públicos.
+    Pugna, por fim, pela procedência da reclamação, confirmando a liminar, para cassar a decisão do Tribunal de Justiça de São Paulo.
+    É o relatório.
+    Decido.
+    A reclamação foi ajuizada com alegação de violação da Súmula Vinculante 4, de seguinte teor:
+    “Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial.”
+    Para melhor exame da compatibilidade do acórdão reclamado com a referida Súmula Vinculante, transcrevo o voto do relator da Apelação 994.04.058738-0, verbis:
+    “Esta Câmara havia consolidado o entendimento de que a vedação do art. 7º, IV, da Constituição Federal diz respeito à aplicação do salário mínimo como índice de reajustamento.
+    Portanto, inexistiriam obstáculos à aplicação do salário mínimo como base de cálculo do benefício de adicional de insalubridade.
+    Demais disto, de se ressaltar que compete exclusivamente ao Governador do Estado a iniciativa das leis que disponham sobre a criação e extinção de cargos, funções ou empregos públicos na administração direta e autárquica, bem como a fixação da respectiva remuneração (Constituição Estadual, art. 24, § 2°: n° 1), tampouco é permitido ao Judiciário aumentar (ou revisar) os vencimentos dos servidores públicos, ainda que fundado na isonomia. A matéria depende de iniciativa do Poder Executivo por mandamento constitucional (Constituição Federal, art. 61, § 1º, II, "a"; Constituição Estadual, art. 24, § 2º, n° 1).
+    Todavia o Supremo Tribunal Federal editou a Súmula Vinculante n° 04, pela qual, "salvo os casos previstos na Constituição Federal, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial".
+    Destarte, ficou expressamente vedada a utilização do salário mínimo como indexador de base de cálculo de qualquer vantagem funcional de servidor público, bem como se estabeleceu a impossibilidade da substituição por decisão judicial.
+    Assim, razoável é o afastamento da utilização do salário mínimo como indexador da base de cálculo do adicional de insalubridade, mantendo-se o seu valor atual em reais, atualizado pela Tabela Prática do Tribunal de Justiça, até que outra base de cálculo seja estabelecida por lei específica.
+    Consigne-se que a manutenção da base de cálculo, que antes era computada em salários mínimos, pela conversão de tal valor em quantia fixa expressa em reais, não significa a substituição do indexador "salário-mínimo" por outro em razão de decisão judicial, o que acarretaria a violação ao disposto na Súmula Vinculante STF n° 4, bem como contradição no julgado. A adoção deste critério, pela Colenda Turma Julgadora, apenas visa ao cumprimento do disposto na Súmula Vinculante dentro dos mecanismos legais disponíveis, com fundamento no art. 126, do Código de Processo Civil.”
+    Como se nota, o julgado objeto desta reclamação não determinou a manutenção do salário mínimo como base de cálculo do adicional de insalubridade. Apenas converteu o valor correspondente em quantia fixa expressa em reais na data da decisão, atualizada pela Tabela Prática do Tribunal de Justiça, até que outra base de cálculo seja estipulada em lei específica.
+    Em 26.6.2012, foi editada a LC estadual nº 1.179/2012, que estabeleceu o índice de correção do adicional de insalubridade dos servidores do Estado de São Paulo, a partir de 2013, e fixou os valores do referido adicional, referentes aos anos de 2010, 2011 e 2012.
+    Desse modo, tendo sido o acórdão reclamado publicado em 22.02.2010, não sendo caso de aplicação da tabela de correção questionada, há de ser considerada a perda do objeto da presente reclamação, pelo que a julgo prejudicada, na forma do art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 25 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
