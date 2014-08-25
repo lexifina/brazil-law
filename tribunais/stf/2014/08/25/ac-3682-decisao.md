@@ -1,0 +1,13 @@
+DECISÃO
+AÇÃO CAUTELAR – NEGATIVA DE SEGUIMENTO AO PEDIDO.
+    1. O assessor Dr. Diogo Lopes de Barbosa Leite prestou as seguintes informações:
+    Luiz Gonzaga Ribeiro ajuíza ação cautelar visando atribuir efeito suspensivo a agravo interposto contra a decisão por meio da qual deferida a liminar pleiteada no Mandado de Segurança nº 32.957, da relatoria de Vossa Excelência.
+    Alega a pertinência do empréstimo de efeito suspensivo a agravo regimental em situações excepcionais, nas quais presentes os requisitos autorizadores da medida cautelar. Assevera a consagração do princípio da fidelidade partidária na jurisprudência do Supremo, evocando precedentes acerca do tema. Aduz ter sido assentado que a verificação da legalidade da desfiliação do membro do partido assim como a declaração de perda do mandato eletivo devem ocorrer em procedimento no qual observados a ampla defesa e o contraditório, incumbindo ao Superior Tribunal Eleitoral editar a regulamentação pertinente.
+    Argui a inadequação da via eleita. Ressalta que o exame das razões para a mudança de agremiação partidária, necessária à proclamação da perda do mandato por infidelidade, requer dilação probatória, imprópria em sede de mandado de segurança. Diz da existência de procedimento específico destinado à análise da matéria, sendo a competência, para o processamento e julgamento, do Superior Tribunal Eleitoral nos casos relativos a mandato federal. Afirma a legalidade do ato impugnado. Sustenta não caber à autoridade apontada como coatora, o Presidente da Câmara dos Deputados, determinar aquele a ser empossado nas situações de vacância de cargo, devendo-se levar em conta a ordem de suplência estabelecida no momento da diplomação dos candidatos pela Justiça especializada.
+    Sob o ângulo do risco, alude aos danos irreparáveis decorrentes do não exercício do mandato eletivo. Postula, liminarmente, a atribuição de efeito suspensivo ao referido recurso. No mérito, requer a confirmação da providência.
+    2. Observem a organicidade e a dinâmica do Direito. Encontra-se em curso, no Supremo, mandado de segurança. Deferida a liminar, houve a interposição de agravo. Agora, surge mais um processo mediante o qual se pretende o empréstimo de eficácia suspensiva ao citado recurso. O pleito poderia ser encaminhado no bojo da própria impetração considerado o referido agravo. De qualquer forma, notem a envergadura maior do mandado de segurança e o implemento de medida acauteladora.
+    3. Nego seguimento ao pedido formalizado.
+    4. Publiquem.
+Brasília – residência –, 25 de agosto de 2014, às 21h50.
+Ministro MARCO AURÉLIO
+Relator
