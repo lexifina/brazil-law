@@ -1,0 +1,31 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada por José Antonio Caldini Crespo, vereador do Município de Sorocaba/SP, contra decisão administrativa proferida, em 8/4/2013, pelo Presidente da Câmara Municipal daquela unidade federada, que teria aplicado indevidamente a Súmula Vinculante 13.
+    O reclamante narra, em síntese, que a autoridade reclamada, com base em parecer da Secretaria Jurídica do órgão por ela presidido, “negou a nomeação de Octávio Neiva Christófano ao cargo em Comissão de Assessor Parlamentar, a ser lotado no Gabinete do ora Reclamante”, nos seguintes termos:
+    “Com base no parecer da Secretaria Jurídica em anexo e diante da ilegalidade da nomeação ora requerida, informo a V. Excia. da impossibilidade legal em atender o presente pedido”.
+    Aduz que, conforme procedimento administrativo, atendeu a todas as exigências do setor de Recursos Humanos da referida Câmara Municipal, mas, apesar disso, a portaria e o termo de posse do interessado Octávio Neiva Christófano não foram assinados pelo Presidente daquela casa legislativa.
+    Assevera que
+    “referida decisão pautou-se no entendimento de que a nomeação afrontaria ao enunciado da Súmula Vinculante nº 13, deste Pretório Excelso, bem como afrontaria os princípios constitucionais descritos no art. 37 da Constituição Federal, considerando o fato de que o indicado para a vaga trata-se de cunhado do Sr. Carlos Alberto de Lima Rocco Junior”.
+    Sustenta que tal decisão administrativa é equivocada porque enquanto o ora reclamante é filiado ao Partido Democratas, o Vereador Irineu Donizete de Toledo – para quem Carlos Alberto de Lima Rocco Junior exerce o cargo de Assessor Parlamentar – é filiado ao Partido Republicano Brasileiro.
+    Assim, prossegue,
+    “Octavio Neiva Christófano e seu cunhado Carlos Alberto de Lima Rocco Junior têm interesses políticos diversos, como assim também o Reclamante em relação ao Vereador Irineu Donizeti de Toledo, o que fulmina qualquer entendimento no sentido de que a nomeação dos cunhados na 'mesma pessoa jurídica investida em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança', implicaria em afronta à Súmula Vinculante nº 13”.
+    Acrescenta que
+    “a determinação contida no inciso V do artigo 37, que estabelece que as nomeações dos cargos em comissão 'destinam-se apenas às atribuições de direção, chefia ou assessoramento', é restrita aos servidores de carreira, não se enquadrando neste caso a pretensa nomeação de Octavio Neiva Christófano”.
+    Defende que a ocorrência do nepotismo pressupõe a existência de relação de parentesco entre a pessoa sem vínculo com o serviço público que se pretende nomear e a autoridade responsável pela nomeação.
+    Requer, ao final, a concessão de medida liminar,
+    “determinando a imediata expedição de Ofício ao respectivo Presidente da Câmara Municipal de Sorocaba/SP, para que proceda à nomeação do Sr. Octávio Neiva Christófano ao cargo de Assistente Parlamentar do Reclamante, até final julgamento”.
+    No mérito, o reclamante postula a procedência do pedido para anular a decisão reclamada.
+    Em 18/9/2013, indeferi a medida liminar pleiteada e solicitei informações ao Presidente da Câmara Municipal de Sorocaba/SP.
+    As informações prestadas foram enviadas para esta Corte em 10/10/2013.
+    O Ministério Público Federal, em parecer da lavra do Procurador-Geral da República, Rodrigo Janot Monteiro de Barros, manifestou-se pelo não conhecimento da reclamação e, se conhecida, pela sua improcedência (documento eletrônico 15).
+    É o breve relatório. Decido.
+    Bem examinados os autos, vê-se que a pretensão não merece acolhida, pois o pedido formulado pelo reclamante não se enquadra em nenhuma das duas hipóteses permissivas inscritas no art. 102, I, l, da Constituição Federal, seja para preservar a competência da Suprema Corte, seja para garantir a autoridade de suas decisões.
+    Como bem ponderado no parecer do Ministério Público Federal:
+    “Eventual ofensa aos termos da Súmula Vinculante nº 13 decorreria da nomeação de pessoa para exercício de cargo público em discordância com os termos ali fixados, e não da negativa de se nomear o candidato indicado, como é o caso retratado nos autos.
+    Ora, sob a justificativa de se conferir outra interpretação ao verbete sumular do Supremo Tribunal Federal, não há como se determinar à autoridade administrativa a prática de um ato exclusivo de sua competência, dentro dos limites da sua discricionariedade, como é o caso de nomeação de pessoa para o exercício de cargo público de livre nomeação naquela Casa Legislativa. O Presidente da Câmara Municipal não está vinculado ao pedido do vereador, razão pela qual inexiste direito violado passível de correção judicial.
+    Além disso, eventual acolhimento do pleito não teria como consequência lógica a nomeação imediata do pretendente. Na verdade, a procedência do instrumento reclamatório enseja a cassação da decisão contrária ao entendimento da Corte sobre o tema, para que outra seja proferida, não podendo substituir, por seu próprio comando, o ato impugnado. E no caso em exame, como dito, está-se diante de ato discricionário. Neste contexto, mostra-se incabível a presente demanda” (págs. 3/4 do documento eletrônico 15).
+    Por fim, observo que a pretensão do reclamante de nomear pessoa que guarda relação de parentesco com outra que já exerce cargo de assessoria, no mesmo órgão, amolda-se ao verbete de Súmula Vinculante 13:
+    “A NOMEAÇÃO DE CÔNJUGE, COMPANHEIRO OU PARENTE EM LINHA RETA, COLATERAL OU POR AFINIDADE, ATÉ O TERCEIRO GRAU, INCLUSIVE, DA AUTORIDADE NOMEANTE OU DE SERVIDOR DA MESMA PESSOA JURÍDICA INVESTIDO EM CARGO DE DIREÇÃO, CHEFIA OU ASSESSORAMENTO, PARA O EXERCÍCIO DE CARGO EM COMISSÃO OU DE CONFIANÇA OU, AINDA, DE FUNÇÃO GRATIFICADA NA ADMINISTRAÇÃO PÚBLICA DIRETA E INDIRETA EM QUALQUER DOS PODERES DA UNIÃO, DOS ESTADOS, DO DISTRITO FEDERAL E DOS MUNICÍPIOS, COMPREENDIDO O AJUSTE MEDIANTE DESIGNAÇÕES RECÍPROCAS, VIOLA A CONSTITUIÇÃO FEDERAL“ (grifos meus).
+    Ante o exposto, resta evidenciada a inexistência de desafio à autoridade desta Corte, razão pela qual não conheço desta reclamação.
+    Publique-se.
+    Brasília, 26 de agosto de 2014.
+Ministro Ricardo Lewandowski
+Relator
