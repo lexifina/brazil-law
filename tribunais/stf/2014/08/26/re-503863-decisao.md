@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de Minas Gerais. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, e 37, II, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que a promoção dentro da mesma carreira não representa ascensão a cargo diferente daquele em que já estava efetivado o servidor, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: AI 819.536/RS, Rel. Min. Dias Toffoli, monocrática, DJe 14.3.2012; RE 633.711/RS, Rel. Min. Ayres Britto, monocrática, DJe 11.4.2012; AI 806.218/RS, Rel. Ricardo Lewandowski, monocrática, DJe 23.8.2010; AI 768.895-AgR/RS, Rel. Cármen Lúcia, 1ª Turma, DJe 24.3.2011; e AI 813.763-AgR/RS, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.02.2011, cuja ementa transcrevo:
+    “Agravo regimental em agravo de instrumento. 2. Promoção retroativa. 3. Jurisprudência pacífica do Supremo Tribunal Federal. 4. Promoção por acesso do servidor constitui forma de provimento derivado e não implica ascensão a cargo diferente daquele em que o servidor já estava efetivado. 5. Inaplicável o prazo de cinco anos de efetivo exercício no cargo para o cálculo dos proventos de aposentadoria (art. 40, § 1º, III, da Constituição Federal). 6. Agravo regimental a que se nega provimento”.
+    Divergir da posição adotada pela Corte de origem demandaria a análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: AI 715.389-AgR/MG, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 08.5.2009; AI 598.018/MG, Rel. Min. Joaquim Barbosa, DJe 24.5.2010; RE 596.617-AgR/MG, Rel. Min. Carlos Britto, 1ª Turma, DJe 29.10.2009, este último assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROMOÇÃO DE PROFESSORES DO ESTADO DE MINAS GERAIS. LEI Nº 7.109/77. CASO EM QUE ENTENDIMENTO DIVERSO DO ADOTADO PELO ARESTO IMPUGNADO EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. SÚMULA 280 DO STF. 1. A alegada ofensa à Carta da República, se existente, apenas ocorreria de forma reflexa ou indireta, o que não enseja a abertura da via extraordinária. 2. Agravo regimental desprovido.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
