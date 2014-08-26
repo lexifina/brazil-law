@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 196, 197, 198, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. FORNECIMENTO DE FRALDAS DESCARTÁVEIS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. DIREITO À SAÚDE: DEVER DO ESTADO. ART. 196 DA CONSTITUIÇÃO. AGRAVO IMPROVIDO. I – Para dissentir da conclusão adotada pelo acórdão recorrido quanto à necessidade do fornecimento de fraldas descartáveis para fins de se assegurar a saúde do recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – O Estado tem o dever de efetivar as prestações necessárias à garantia da saúde da população, nos termos do art. 196 da Lei Maior. Precedentes. III – Agravo regimental improvido”. (ARE 746.378 AgR; 2ª Turma, Rel. Min. Ricardo Lewandowski, DJe 10.9.2013)
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Direito à saúde. Portador de doença grave. Determinação para que o Estado forneça fraldas descartáveis. Possibilidade. Caracterização da necessidade. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas concretas, assecuratórias de direitos constitucionalmente reconhecidos como essenciais, como é o caso da saúde. 2. A Corte de origem consignou ser necessária a aquisição das fraldas descartáveis, em razão da condição de saúde do agravado e da impossibilidade de seu representante legal de fazê-lo às suas expensas. 3. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 4. Agravo regimental não provido.” (ARE 743.841 AgR, 1ª Turma, Rel. Min. Dias Toffoli, DJe 17.10.2013)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
