@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que a parte recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    Em contrarrazões, a parte recorrida sustenta, em síntese, a constitucionalidade do decreto estadual impugnado, mantendo-se na íntegra o acórdão recorrido.
+    2. O Plenário do Supremo Tribunal Federal, ao julgar a ADI 4.152 (Rel. Min. CEZAR PELUSO, DJe de 21/9/2011), declarou a inconstitucionalidade do Decreto 52.381/2007 do Estado de São Paulo. Esse acórdão ficou assim ementado:
+    Ementas: 1. INCONSTITUCIONALIDADE. Ação direta. Objeto. Admissibilidade. Impugnação de decreto autônomo, que institui benefícios fiscais. Caráter não meramente regulamentar. Introdução de novidade normativa. Preliminar repelida. Precedentes. Decreto que, não se limitando a regulamentar lei, institua benefício fiscal ou introduza outra novidade normativa, reputa-se autônomo e, como tal, é suscetível de controle concentrado de constitucionalidade. 2. INCONSTITUCIONALIDADE. Ação direta. Decreto nº 52.381/2007, do Estado de São Paulo. Tributo. Imposto sobre Circulação de Mercadorias e Serviços – ICMS. Benefícios fiscais. Redução de base de cálculo e concessão de crédito presumido, por Estado-membro, mediante decreto. Inexistência de suporte em convênio celebrado no âmbito do CONFAZ, nos termos da LC 24/75. Expressão da chamada “guerra fiscal”. Inadmissibilidade. Ofensa aos arts. 150, § 6º, 152 e 155, § 2º, inc. XII, letra “g”, da CF. Ação julgada procedente. Precedentes. Não pode o Estado-membro conceder isenção, incentivo ou benefício fiscal, relativos ao Imposto sobre Circulação de Mercadorias e Serviços – ICMS, de modo unilateral, mediante decreto ou outro ato normativo, sem prévia celebração de convênio intergovernamental no âmbito do CONFAZ.
+    O aresto recorrido, por sua vez, julgou constitucional o Decreto 52.381/2007, conforme a ementa seguinte:
+    ICMS – Operações interestaduais de distribuição e comercialização de leite longa vida – Redução da alíquota do imposto sobre produto procedente do estado de São Paulo – Constitucionalidade do Decreto Estadual 52.381/07 – impossibilidade de se creditar pela alíquota maior – Recurso provido. (fl. 151)
+    Assim, por estar em dissonância com o entendimento jurisprudencial acima demonstrado, o acórdão recorrido merece reparos.
+    3. Diante do exposto, dou provimento ao recurso extraordinário para restabelecer a sentença de fls. 98-103.
+    Publique-se. Intime-se.
+    Brasília, 26 de agosto de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
