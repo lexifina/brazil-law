@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “CRIME DE ESTELIONATO - CONDENAÇÃO – RECURSO DEFENSIVO – PRELIMINAR DE PRESCRIÇÃO DA PRETENSÃO PUNITIVA – SUSPENSÃO DO PROCESSO E DO PRAZO PRESCRICIONAL COM FULCRO NO ARTIGO 366 DO CÓDIGO DE PROCESSO PENAL – MATÉRIA JÁ DECIDIDA EM HABEAS-CORPUS JÁ JULGADO POR ESTE COLEGIADO – REJEIÇÃO DA PRELIMINAR – MÉRITO – PENA BASE FIXADA POUCO ACIMA DO MÍNIMO LEGAL DE FORMA JUSTIFICADA – CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS – RÉU QUE OSTENTA CINCO ANOTAÇÕES EM SUA FOLHA DE ANTECEDENTES, TODAS POR CRIME DE ESTELIONATO, E QUE SE ENCONTRA FORAGIDO EM DOIS OUTROS PROCESSOS A QUE RESPONDE - ELEVADO PREJUÍZO CAUSADO PELO ACUSADO - RECURSO DESPROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LVII, da Constituição. Aduz que “ houve manifesta violação ao supracitado dispositivo constitucional, já que o Recorrente foi condenado, tendo sua pena-base aumentada apenas e tão-somente porque estava respondendo processo em outra vara criminal e possui cinco anotações em seus antecedentes sem inquérito policial instaurado”.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) incide, no caso, a Súmula 279/STF; e (ii) “a alegada ofensa, se existisse, seria reflexa, vez que necessariamente precedida de afronta a dispositivo de legislação infraconstitucional”.
+    O agravo é manifestamente inadmissível, por intempestivo. A decisão agravada foi publicada em 01.02.2013 e a petição de agravo foi protocolada no Tribunal de origem somente em 18.02.2013, ou seja, após o término do prazo recursal de cinco dias. Incide, no caso, a Súmula 699/STF, in verbis:
+    “O prazo para interposição de agravo, em processo penal, é de cinco dias, de acordo com a Lei 8.038/90, não se aplicando o disposto a respeito nas alterações da Lei 8.950/94 ao Código de Processo Civil.”
+    Com efeito, o Plenário do Supremo Tribunal Federal, no julgamento do ARE 639.846-AgR-QO/SP, Redator para o acórdão o Ministro Luiz Fux, DJe de 20.03.2012, firmou o entendimento de que, em matéria penal, mantém-se o prazo de cinco dias previsto no art. 28 da Lei nº 8.038/1990 para a interposição do agravo contra a inadmissibilidade do recurso extraordinário.
+    No mesmo sentido, são o ARE 681840 AgR-ED/MS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 03.02.2014; o HC 114876 AgR/MS, Rel. Min. Rosa Weber, Primeira Turma, DJe 12.04.2013; o ARE 693904 AgR/PR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 07.11.2012 e o ARE 659028 AgR/RN, Segunda Turma, DJe 20.05.2012.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/90 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
