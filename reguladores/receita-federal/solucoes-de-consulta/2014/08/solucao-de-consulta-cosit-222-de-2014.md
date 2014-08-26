@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 222, de 14 de agosto de 2014
+ASSUNTO OBRIGAÇÕES ACESSÓRIAS EMENTA: COZINHA INDUSTRIAL SITUADA EM ESTABELECIMENTO DE TERCEIROS. INSCRIÇÃO NO CNPJ. As pessoas jurídicas domiciliadas no Brasil são obrigadas a inscrever no CNPJ cada um de seus estabelecimentos. Considera-se estabelecimento o local, privado ou público, edificado ou não, móvel ou imóvel, próprio ou de terceiro, onde a entidade exerce, em caráter temporário ou permanente, suas atividades, inclusive as unidades auxiliares e o local onde armazena mercadorias.DISPOSITIVOS LEGAIS: IN RFB nº 1.470/2014, arts. 3º e 6º, e Anexo VII.
+[arquivo anexo: SC Cosit nº 222-2014.pdf]
