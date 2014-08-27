@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CIVIL. SEGURO DPVAT. VALOR DA INDENIZAÇÃO. FUNDAMENTO INFRACONSTITUCIONAL AUTÔNOMO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS NS. 282 E 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “SEGURO OBRIGATÓRIO (DPVAT) – PAGAMENTO REALIZADO DE ACORDO COM O VALOR ESTABELECIDO NO ARTIGO 8º, DA LEI Nº 11.482/07, VIGENTE À ÉPOCA DO FATO – COBRANÇA DA DIFERENÇA – IMPOSSIBILIDADE – APELAÇÃO DESPROVIDA” (vol. 2, fl. 107).
+    2. Os Recorrentes alegam contrariedade do acórdão ao princípio da dignidade da pessoa humana (art. 1º, inc. III), ao “princípio da vedação ao retrocesso” (fl. 355) e aos arts. 59 e 62, todos da Constituição da República.
+    Ressaltam que a matéria “vem sendo discutida por diversas ações, com a interposição da Ação Direta de Inconstitucionalidade 4.627/DF, em 22 de agosto de 2012, o Colendo Supremo Tribunal Federal determinou a suspensão das ações, até o julgamento da ADI mencionada, conforme decisão monocrática anexa” (fl. 139, doc. 2).
+    Suscitam a inconstitucionalidade da Lei n. 11.482/07, inapta a produzir efeitos jurídicos válidos, e pretendem que prevaleça “a indenização prevista na Lei 6.194/74, consistente em 40 salários mínimos vigentes na época da liquidação do sinistro, ou seja, na data do trânsito em julgado da sentença condenatória que resultar favorável à autora” (fl. 147, doc. 2)
+    Alegam que “a medida provisória que originou [a nova lei] não preenche os pressupostos de relevância e urgência preconizados pelo art. 62, caput, da Constituição Federal” (fl. 148, doc. 2).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste aos Recorrentes.
+    4.  O Tribunal de origem concluiu revogada a Lei n. 6.194/1974 pela Lei n. 11.482/2007, fundamento legal suficiente e autônomo para manutenção do julgado recorrido:
+    “A Lei 11.482, de 31 de maio de 2007, em seu art. 8º, dentre as modificações introduzidas nos arts. 3º, 4º e 5º da Lei n. 6.194/74, estabeleceu o valor de R$ 13.500,00 com o máximo cabível para indenização decorrente de seguro obrigatório por danos pessoais causados por veículos automotores, sendo esta a norma legal aplicável ao caso concreto, uma vez ter o acidente ocorrido em 2 de junho de 2009.
+    (…)
+    Concernente à alegação de inconstitucionalidade da MP n. 340/06, convertida na Lei n. 11.482/07, tendo havido a conversão da medida provisória em lei resta superada a análise dos requisitos constitucionais de relevância e urgência, a qual se restringe à medida provisória, não podendo se aplicar, prospectivamente, aos efeitos da lei de conversão” (fl. 108, vol. 2).
+     Foi negado seguimento ao recurso especial interposto pelos recorrentes no Superior Tribunal de Justiça, em decisão transitada em julgado no dia 13.8.2014. Subsiste, portanto, o fundamento infraconstitucional, a atrair a incidência da Súmula 283 deste Supremo Tribunal:
+     “Agravo regimental em recurso extraordinário com agravo. 2. Existência de fundamento infraconstitucional autônomo suficiente para manter o acórdão recorrido. Prescrição. Decreto 20.910/32. Enunciado 283 da Súmula do STF. 3. Ausência de argumentos suficientes para infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento” (ARE 782.209-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 17.2.2014);
+    “ADMINISTRATIVO. TELEFONIA. TARIFA APLICÁVEL. PROCESSUAL CIVIL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. MANUTENÇÃO DOS FUNDAMENTOS INFRACONSTITUCIONAIS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I – O recurso extraordinário requer a prévia análise do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, e de normas infraconstitucionais, sendo certo que eventual ofensa à Constituição seria apenas indireta. II – Com o trânsito em julgado da decisão que negou seguimento ao recurso especial, tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula n. 283 do STF). III – Agravo regimental improvido” (RE 594.412-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 10.11.2010).
+    5. As questões constitucionais suscitadas pelos Recorrentes não foram objeto de debate prévio pelo Tribunal a quo, não tendo sido opostos embargos de declaração para se demonstrar ter havido o oportuno questionamento da matéria. Ausente, portanto, o necessário prequestionamento (Súmula n. 282 do Supremo Tribunal Federal).
+    Nada há, pois, a prover quanto às alegações dos Recorrentes.
+    6. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de agosto de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
