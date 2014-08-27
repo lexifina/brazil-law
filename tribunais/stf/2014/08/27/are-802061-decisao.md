@@ -1,0 +1,10 @@
+Trata-se de agravo interposto por Isaque de Jesus contra decisão que inadmitiu recurso extraordinário interposto por BV Financeira S/A.
+    Bem examinados os autos, verifico que inexiste interesse recursal, tendo em vista que o ora recorrente carece de interesse de agir em ver o recurso extraordinário da ora recorrida admitido e julgado procedente. É o entendimento desta Corte:
+    “EMENTA DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. CONTRIBUIÇÃO PARA CUSTEIO DA ASSISTÊNCIA MÉDICO-HOSPITALAR. DECISÃO PELA IMPROCEDÊNCIA DA RESTITUIÇÃO DE VALORES PAGOS NO TRIBUNAL A QUO. CARÊNCIA DE INTERESSE RECURSAL. A jurisprudência desta Corte firmou-se no sentido de que incabíveis embargos de declaração opostos em face de decisão monocrática. Recebimento como agravo regimental com fundamento no princípio da fungibilidade. Ausente a utilidade do provimento jurisdicional, carece o Estado de Minas Gerais e o Instituto de Previdência dos Servidores do Estado de Minas Gerais do indispensável interesse recursal, ante a falta de sucumbência na matéria perante a Corte Regional. Embargos de declaração recebidos como agravo regimental, ao qual se dá provimento para reconhecer a falta de interesse recursal do apelo extremo do Estado de Minas Gerais e do Instituto de Previdência dos Servidores do Estado de Minas Gerais” (AI 713.036-ED, Rel. Min. Rosa Weber, Primeira Turma, DJe de 09.10.2012) .
+    “RECURSO - INTERESSE EM RECORRER. A negativa de seguimento a extraordinário interposto pelo contribuinte conduz à conclusão sobre a ausência de interesse da Fazenda em recorrer” (RE 427.733-AgR, Rel. Min. Marco Aurélio, Primeira Turma).
+    Nesse sentido, cito as seguintes decisões, entre outras: ARE 663.941-AgR/BA, Rel. Min. Gilmar Mendes; RE 631.886-AgR/RJ, de minha relatoria; RE 475.363-AgR-AgR/DF , Rel. Min. Cezar Peluso; RE 251.177-AgR/RS, Rel. Min. Joaquim Barbosa; RE 456.759-AgR/SP, Rel. Min. Ayres Britto; e RE 705.814-AgR/SC, Rel. Min. Celso de Mello.
+    Isto posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 27 de agosto de 2014.
+Ministro Ricardo Lewandowski
+Presidente em exercício
