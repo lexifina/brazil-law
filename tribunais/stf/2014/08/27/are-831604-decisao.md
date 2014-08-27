@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal do Estado de São Paulo que, reconhecendo o caráter genérico, assentou que o Adicional de Local de Exercício deveria ser integrado ao salário-base do servidor.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, II; 37, X e XIV; 61, § 1º, II, a ; 98, I; e 169, § 1º, I, II, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que não houve, no caso, violação direta ao texto constitucional.
+    O recurso não deve ser admitido. Quanto à alegada violação ao art. 98, I, o Plenário do Supremo Tribunal Federal, no julgamento do ARE 640.671-RG, sob a relatoria do Ministro Presidente, assentou a ausência de repercussão geral da questão relativa à competência dos juizados especiais em razão da complexidade da matéria, por estar restrita ao âmbito infraconstitucional. Veja-se a ementa do referido julgado:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.”
+    Quanto à questão de fundo, o Supremo Tribunal Federal entendeu inexistir repercussão geral. No julgamento do RE 731.333-RG, sob a relatoria do Ministro Teori Zavascki, assentou-se a ausência de questão constitucional da controvérsia, tendo em conta que “o Tribunal de origem decidiu a controvérsia acerca da possibilidade de incorporação do Adicional de Local de Exercício ao vencimento dos policiais militares do Estado de São Paulo tão somente a partir de interpretação e aplicação das normas infraconstitucionais pertinentes (Lei Complementar estadual 689/92 e Constituição do Estado de São Paulo)”.
+    Diante do exposto, com base no art. 544, § 4º, II, b , c/c o art. 543-A, § 5º, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e indefiro liminarmente o recurso extraordinário.
+    Publique-se.
+          Brasília, 27 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
