@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que, em síntese, considerou descabida a arguição, em sede de embargos à execução, de compensação das perdas decorrentes do equívoco na sistemática da URV com os aumentos concedidos com a reestruturação dos quadros funcionais da carreira a que pertence a parte recorrida, por se tratar de matéria já debatida no processo de conhecimento.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, XIV, da Constituição. Sustenta que a condenação, na hipótese, deve ser limitada à reestruturação da carreira a que a parte recorrida integra.
+    O recurso extraordinário não deve ser admitido. Isso porque, para a análise da questão trazida pelo ora recorrente, seria necessário adentrar na discussão quanto aos limites objetivos da coisa julgada, o que inviabiliza o conhecimento do presente recurso extraordinário por se tratar de tema restrito à legislação infraconstitucional. Nesse sentido, veja-se a ementa do ARE 653.975-AgR, julgado sob minha relatoria:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. LIMITES OBJETIVOS DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. O exame da alegada violação pressuporia o seu enquadramento à legislação processual que disciplina, de forma específica, o instituto da coisa julgada e seus limites objetivos. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante. Agravo regimental a que se nega provimento”.
+    Confiram-se, ainda, os seguintes julgados em casos análogos ao destes autos: ARE 690.796, Rel. Min. Ricardo Lewandowski; ARE 696.295, Rel.ª Min.ª Cármen Lúcia; ARE 690.798. Rel. Min. Dias Toffoli; ARE 715.431, Rel. Min. Marco Aurélio; e ARE 675.529, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário
+    Publique-se.
+          Brasília, 27 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
