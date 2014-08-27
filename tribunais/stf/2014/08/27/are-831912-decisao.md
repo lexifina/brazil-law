@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, II e XXXVI, 195, § 5º, 201 e 202, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Nesse sentido: RE 775.520-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 28.3.2014, com a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PLANO DE SAÚDE. AUSÊNCIA DE PREQUESTIONAMENTO. REVISÃO DE CLÁUSULAS CONTRATUAIS TIDAS POR ABUSIVAS PELO TRIBUNAL DE ORIGEM. CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. Os preceitos constitucionais tidos por violados não foram objetos de análise pelo Colegiado de origem. Tampouco foram opostos embargos declaratórios para sanar eventual omissão. O recurso carece, portanto, de prequestionamento (Súmulas 282 e 356/STF). A questão só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. No presente recurso, a parte recorrente não cogita de retroação de lei superveniente, limita-se a questionar alegado erro no enquadramento do caso à legislação infraconstitucional, procedimento inviável em sede de recurso extraordinário. A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Com efeito, não há matéria constitucional no processo sob exame em que, com base no Código de Defesa do Consumidor, se discute a legalidade de cláusula limitadora de tratamento, constante de plano de saúde. Agravo regimental a que se nega provimento”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
