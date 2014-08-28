@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, manejam recurso extraordinário, com base no art. 102, III, da Lei Maior, Andrea Moreira Batista e outro(a/s). Aparelhado o recurso na afronta ao art. 37, XV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. Ademais, a aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação do art. 37, XV, da Constituição da República. Nesse sentido: RE 595.425-AgR/PE, Rel. Min. Marco Aurélio, 1ª Turma, DJe 07.02.2013; e AI 643.344-AgR/RS, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 24.10.2011, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. LOTAÇÃO INICIAL EM CIDADE DO INTERIOR, CONFORME EDITAL DE CONCURSO PÚBLICO. REMOÇÃO, A PEDIDO, PARA A CAPITAL DO ESTADO. FUNDAMENTOS. PRESERVAÇÃO DA UNIDADE FAMILIAR. INTEGRIDADE DA SAÚDE. NECESSIDADE DO SERVIÇO PÚBLICO. DEFERIMENTO JUDICIAL. PRETENSÃO DE REFORMA NA VIA EXTRAORDINÁRIA. IMPOSSIBILIDADE. ÓBICE DOS ENUNCIADOS 279, 288 E 636 DA SÚMULA/STF. Segundo a jurisprudência desta Corte, o artigo 226 da Lei Maior, por si só, não garante ao agente público o direito de exercer sua função no local de domicílio da sua família, quando prevista, no regulamento do concurso público, a possibilidade de lotação inicial em regiões diversas. Todavia, o ato administrativo de indeferimento da remoção pleiteada, mesmo quando praticado no exercício de competência discricionária, sujeita-se ao controle judicial de lisura e legalidade. Não se mostra viável a reforma de acórdão que, fundamentado na teleologia do art. 36 da Lei 8.112/90, aponta circunstâncias fáticas relevantes para o deferimento da remoção e desconsideradas pelo administrador competente, tais como a ocorrência de danos concretos à saúde dos membros da família e a real necessidade do serviço, nos termos de manifestação escrita da própria Administração. Aplicam-se os óbices dos enunciados 279, 288 e 636 da Súmula/STF. Agravo regimental a que se nega provimento”.
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de agosto de 2014.
+Ministra Rosa Weber
+Relatora
