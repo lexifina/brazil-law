@@ -1,0 +1,14 @@
+DESPACHO:
+    1. Trata-se de ação direta de inconstitucionalidade, com pedido liminar, na qual se impugna a Emenda nº 86/2013 à Constituição do Estado de Rondônia. A referida norma alterou o art. 146 daquela Carta Estadual, e é questionada no ponto destacado na transcrição a seguir:
+    “Art. 146. À Polícia Civil, dirigida por delegado de polícia da classe mais elevada, nomeado pelo Governador do Estado, incumbe, ressalvada a competência da União, as funções de Polícia Judiciária e apuração de infração penal, exceto as militares.” (destaques acrescentados)
+    2. Sustenta o requerente que, ao dispor sobre requisitos para a assunção da função de Chefe da Polícia Civil, a Assembleia Legislativa teria inobservado a iniciativa privativa do Governador na matéria, em decorrência da simetria com o modelo federal (CRFB/1988, art. 61, § 1º, II, c). Alega-se, assim, violação à separação de poderes (CRFB/1988, art. 2º), tida como cláusula pétrea (CRFB/1988, art. 60, § 4º, III).
+    3. Antes de decidir o pedido liminar, solicitei informações à Assembleia Legislativa, em que se sustentou que a EC nº 86/2013 apenas restabeleceu a redação original da Constituição Estadual, a qual previa a necessidade de que o Chefe da Polícia Civil fosse Delegado da classe mais elevada. Tal requisito fora suprimido pela EC nº 74/2011, proposta pelo Governador do Estado, de modo a permitir que a referida função fosse exercida por Delegado de qualquer classe, até mesmo da inicial, o que seria temerário. Defendeu-se, ainda, que a norma encontra amparo no art. 37, I, da Constituição Federal, que prevê a necessidade de observância aos preceitos legais para o acesso aos cargos, empregos e funções públicas.
+    4. Devidamente intimado, o Governador do Estado de Rondônia ratificou todos os termos da petição inicial, que havia sido assinada eletronicamente apenas pelo Procurador-Geral do Estado.
+    5.  No dia 31.03.2014, liberei o feito para julgamento da medida liminar requerida. Porém, em razão do notório congestionamento da pauta, ainda não há data prevista para o julgamento.
+    6. É o relatório.
+    7.  Tendo em vista as dificuldades para inclusão do feito em pauta, bem como a relevância da matéria, entendo ser mais conveniente a aplicação do rito abreviado previsto no art. 12 da Lei nº 9.868/1999, de modo a que a ação seja julgada uma única vez e definitivamente.
+    8. Assim, determino a aplicação do art. 12 da Lei nº 9.868/1999, a fim de que: (i) seja expedido ofício para que a Assembleia Legislativa do Estado de Rondônia, querendo, preste informações complementares às já oferecidas, no prazo de dez dias; e (ii) em seguida, abra-se vista ao Advogado-Geral da União e ao Procurador-Geral da República, sucessivamente, pelo prazo de cinco dias para cada.
+    Publique-se. Intimem-se.
+          Brasília, 28 de agosto de 2014
+Ministro LUÍS ROBERTO BARROSO
+Relator
