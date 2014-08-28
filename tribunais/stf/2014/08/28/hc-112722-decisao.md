@@ -1,0 +1,19 @@
+Decisão:
+Ementa: HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. DOSIMETRIA DA PENA. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT NÃO CONHECIDO. 1. Não se admite o uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal. 2. O Habeas corpus não é a via processual adequada para a desconstituição de condenação transitada em julgado. Precedentes. 3. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Writ não conhecido.
+    1. Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO SIMPLES. AUMENTO DA PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS VALORADAS NEGATIVAMENTE. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+    1. Não há constrangimento ilegal na fixação da pena-base acima do mínimo legal, se as instâncias ordinárias apontaram elementos concretos para a consideração negativa das circunstâncias judiciais, notadamente os péssimos antecedentes do paciente, e a indicada reiteração na prática de crimes patrimoniais, particularidades essas que justificam o implemento da pena, fixada em parâmetro razoável.
+    2. Agravo regimental improvido.”
+    2. A Defensoria Pública da União requer o redimensionamento da pena imposta ao paciente pelo fundamento da ocorrência de vícios na fixação da pena-base.
+    3. Indeferida a cautelar pelo Relator originário, Ministro Joaquim Barbosa, a Procuradoria-Geral da República opinou pela denegação da ordem.
+    Decido.
+    4. A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal (v.g HC 109.956, Rel. Min. Marco Aurélio, e HC 104.045, Rel.ª Min.ª Rosa Weber). A par dessa orientação, contudo, a Turma tem examinado a possibilidade de concessão da ordem de ofício.
+    5. No caso, da leitura das peças que instruem a impetração verifica-se que a condenação do paciente pelo delito de furto qualificado transitou em julgado em 2010, dois anos antes da impetração deste habeas corpus. Nessas condições, tenho por aplicável ao caso o firme entendimento do Supremo Tribunal Federal, no sentido de que é inviável a utilização do habeas corpus como substitutivo de revisão criminal (RHC119.605-AgR, Rel. Min. Luís Roberto Barroso, HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli, HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia, e RHC 115.983, Rel. Min. Ricardo Lewandowski).
+    6. Ademais, a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão (HC 69.419, Rel. Min. Sepúlveda pertence).
+    7. Diante do exposto, inexistindo razão para a concessão da ordem de ofício, com base no art. 38 da Lei nº 8.038/1990 c/c o art. 21, §1º do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Intime-se.
+          Brasília, 28 de agosto de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
