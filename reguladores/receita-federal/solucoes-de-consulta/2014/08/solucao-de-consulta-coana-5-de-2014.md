@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 5, de 19 de agosto de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 4421.90.00 Mercadoria: Escada portátil, com montantes e degraus de madeira, constituída por duas seções de cinco degraus, articuladas por dobradiças de aço, com gancho auxiliar para pendurar objetos. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 44.21), 2b, 3b e 6 (texto da subposição 4421.90.00) da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 4421.90.00 Mercadoria: Escada portátil, com montantes e degraus de madeira, constituída por duas seções de cinco degraus, articuladas por dobradiças de aço, com gancho auxiliar para pendurar objetos.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 44.21), 2b, 3b e 6 (texto da subposição 4421.90.00) da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+MARCO ANTÔNIO RODRIGUES CASADO Presidente da 5ª Turma
