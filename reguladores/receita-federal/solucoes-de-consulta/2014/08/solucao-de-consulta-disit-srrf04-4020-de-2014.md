@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF04 nº 4020, de 22 de agosto de 2014
+Assunto: Simples Nacional Serviços de acabamento em gesso. Tributação. Anexo III e Anexo IV da Lei Complementar nº 123, de 2006, com alterações. A empresa optante pelo Simples Nacional que não exerce atividade vedada a esse regime de tributação, contratada para prestar serviço de acabamento em gesso, em relação a essa atividade, deve ser tributada na forma do Anexo III da Lei Complementar nº 123, de 2006, com alterações. Caso essa empresa seja contratada para construir imóvel ou executar obra de engenharia em que o serviço de acabamento em gesso faça parte do contrato, a tributação desse serviço ocorre juntamente com a obra, na forma do Anexo IV da Lei Complementar nº 123, de 2006, com alterações. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 20, DE 17 DE SETEMBRO DE 2013. Dispositivos Legais: Lei Complementar nº 123, de 2006, com alterações, arts. 17 e 18.
+Assunto: Simples Nacional
+Serviços de acabamento em gesso. Tributação. Anexo III e Anexo IV da Lei Complementar nº 123, de 2006, com alterações.
+A empresa optante pelo Simples Nacional que não exerce atividade vedada a esse regime de tributação, contratada para prestar serviço de acabamento em gesso, em relação a essa atividade, deve ser tributada na forma do Anexo III da Lei Complementar nº 123, de 2006, com alterações.
+Caso essa empresa seja contratada para construir imóvel ou executar obra de engenharia em que o serviço de acabamento em gesso faça parte do contrato, a tributação desse serviço ocorre juntamente com a obra, na forma do Anexo IV da Lei Complementar nº 123, de 2006, com alterações.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 20, DE 17 DE SETEMBRO DE 2013.
+Dispositivos Legais: Lei Complementar nº 123, de 2006, com alterações, arts. 17 e 18.
+ISABEL CRISTINA DE OLIVEIRA GONZAGA Chefe
