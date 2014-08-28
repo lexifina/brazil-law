@@ -1,0 +1,13 @@
+DECISÃO:
+    1. Trata-se de mandado de segurança, com pedido liminar, impetrado por Odila Algeri Gnoatto contra decisão proferida pelo Conselho Nacional de Justiça nos autos do procedimento de controle administrativo nº 2008.10.00000964-1. O ato impugnado desconstituiu a efetivação da impetrante em serventia extrajudicial do Paraná (Decreto Judiciário nº 235/1995) e a declarou vaga.
+    2. O Min. Joaquim Barbosa, relator originário do feito, negou seguimento à impetração (fls. 219-225). Desta decisão, a impetrante opôs embargos de declaração (fls. 242-244). A União requereu o seu ingresso no feito e apresentou contrarrazões ao recurso (fls. 251-256).
+    3. Na petição nº 24.390/2013 (fls. 262), o Corregedor-Geral do Tribunal de Justiça do Paraná comunica o falecimento da impetrante (cf. certidão de óbito de fls. 269).
+    4. É o relatório. Decido.
+    5. A jurisprudência deste Tribunal se firmou no sentido de que o falecimento do impetrante de mandado de segurança gera a extinção do processo sem julgamento de mérito. Não se admite a habilitação de herdeiros em razão do caráter mandamental do writ e da natureza personalíssima do direito postulado, ressalvando-se a utilização das vias ordinárias. Foi o que registrou o Min. Eros Grau no MS 22.355:
+    “MANDADO DE SEGURANÇA. HABILITAÇÃO DE HERDEIROS POR MORTE DO IMPETRANTE. IMPOSSIBILIDADE. CARÁTER MANDAMENTAL E NATUREZA PERSONALÍSSIMA DO DIREITO POSTULADO. EXTINÇÃO DO FEITO COM RELAÇÃO AO DE CUJUS. EXAME PELA COMISSÃO DE CONSTITUIÇÃO E JUSTIÇA DE PROCESSO ADMINISTRATIVO FUNCIONAL INSTAURADO NO ÂMBITO DO SENADO FEDERAL. IMPOSSIBILIDADE. REENQUADRAMENTO DE SERVIDORES. RESOLUÇÕES NS. 06/60, 18/73 E 42/93, DO SENADO FEDERAL. IMPOSSIBILIDADE. SEGURANÇA DENEGADA. 1. A habilitação de herdeiros do impetrante de mandado de segurança é impossível em razão do caráter mandamental do writ e da natureza personalíssima do direito postulado. Impõe-se a extinção do feito sem julgamento de mérito com relação ao espólio. (...) 5. Mandado de segurança julgado extinto com relação ao espólio de Alexandre Dumas Paraguassu. Segurança denegada relativamente aos demais impetrantes.”
+    6. Nesse sentido: RMS 26.806 AgR, Rel. Min. Dias Toffoli; RMS 26.879, Ricardo Lewandowski; MS 30.832, Rel. Min. Cármen Lúcia; e MS 28.479, Rel. Min. Rosa Weber.
+    7. Diante do exposto, com base no art. 267, IV, do CPC, julgo extinto o feito sem resolução de mérito, ficando prejudicados os embargos de declaração e o pedido de ingresso da União.
+    Publique-se. Intimem-se.
+          Brasília, 28 de agosto de 2014
+Ministro LUÍS ROBERTO BARROSO
+Relator
