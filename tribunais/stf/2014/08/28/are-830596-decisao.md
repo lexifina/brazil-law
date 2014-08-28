@@ -1,0 +1,18 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PRESCRIÇÃO DE AÇÃO DE COBRANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA INFRACONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República.
+    2. A Turma Recursal de Alagoas decidiu manter sentença, por seus próprios fundamentos, que, em ação de cobrança, reconheceu a “prescrição em relação à correção do Plano Collor I (março/90), uma vez que quando do ajuizamento da ação, já havia transcorrido o prazo de 20 anos, vencido em março/2010” (doc. 24, fl. 1).
+    3. O recurso extraordinário foi interposto sob alegação de afronta aos arts. 1º, inc. III; 5º, incs. XXII, XXXV, XXXVI e 170, inc. II, todos da Constituição da República.
+    4. O recurso foi inadmitido por ausência de prequestionamento das matérias constitucionais suscitadas e, ainda, com base na Súmula n. 279 do Supremo Tribunal Federal (doc. 39).
+    5. Contra essa decisão, o Agravante reitera as razões do recurso inadmitido e sustenta estar comprovado “que a ofensa ao artigo ao art. 189 , do Código Civil (...) ocorreu explicitamente/expressamente quando da decisão da Turma Recursal do Estado de Alagoas” (doc. 40, fl. 22).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    6. Razão jurídica não assiste ao Agravante.
+    7. Conforme asseverado na decisão agravada, as matérias constitucionais suscitadas no recurso extraordinário não foram previamente debatidas na instância de origem, não tendo sido opostos embargos de declaração. Ausente, portanto, o necessário prequestionamento, o que inviabiliza a admissão do recurso extraordinário, nos termos das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS SUSCITADAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ADMINISTRATIVO. EXERCÍCIO DE FUNÇÃO PÚBLICA. REGULARIDADE DO VÍNCULO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. AGRAVO A QUE SE NEGA PROVIMENTO. I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF. II – Ausência de prequestionamento das questões constitucionais suscitadas. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. III – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. IV – Agravo regimental a que se nega provimento” (ARE 820902 AgR/RO, Relator o Ministro Ricardo Lewandowski, DJe 28.8.2014).
+    Na espécie, a sentença (doc. 24, fl. 1) confirmada pela Turma Recursal, fundamentou-se tão somente na legislação infraconstitucional (art. 2.028 do Código Civil), para cujo reexame não se presta o recurso extraordinário.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de agosto de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
