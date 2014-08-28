@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de reclamação constitucional contra decisão do Ministro Gilson Dipp, do Superior Tribunal de Justiça, que, ao não remeter ao STF o agravo em recurso extraordinário criminal, teria usurpado a competência desta Corte.
+    2. Segundo jurisprudência pacífica da Corte, não se admite reclamação constitucional contra decisão judicial transitada em julgado, não sendo permitida sua adoção como sucedâneo de ação rescisória. Esse entendimento foi sintetizado no enunciado da Súmula 734 do STF, que assim dispõe: Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal. No caso, com o esgotamento dos recursos possíveis visando ao processamento do agravo em recurso extraordinário previsto no art. 544 do CPC, em 13/8/2014 foi certificado o trânsito em julgado da decisão ora atacada, conforme se verifica em consulta ao sítio eletrônico do STJ. Já a presente reclamação foi ajuizada apenas em 15/8/2014.
+    3. Ainda que superado esse óbice, o Plenário desta Corte firmou o entendimento de que não cabe recurso ou reclamação ao Supremo Tribunal Federal para rever decisão do Tribunal de origem que aplica a sistemática da repercussão geral, a menos que haja negativa motivada do juiz em se retratar para seguir a decisão da Suprema Corte (AI 760.358 QO, Rel. Min. GILMAR MENDES; Rcl 7.569 e Rcl 7.547, Rel. Min. ELLEN GRACIE, DJe de 11.12.2009; AI 783.839 ED, Rel. Min. CEZAR PELUSO (Presidente), Tribunal Pleno, DJe 01/02/2011; ARE 682753 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 01/08/2012).
+    4. Diante do exposto, nego seguimento à reclamação. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 28 de agosto de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
