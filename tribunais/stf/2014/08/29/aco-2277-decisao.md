@@ -1,0 +1,31 @@
+CONFLITO NEGATIVO DE ATRIBUIÇÕES. ILEGITIMIDADE ATIVA. AÇÃO CÍVEL ORIGINÁRIA NÃO CONHECIDA.
+    Decisão: Trata-se de ação cível originária em que se noticia a existência de conflito negativo de atribuições suscitado pelo Ministério Público Federal em face do Ministério Público do Estado do Rio Grande do Norte.
+    Originariamente, o Ministério Público do Estado do Rio Grande do Norte, após receber representação formulada por Marcelo de Araújo Aranha, candidato aprovado no último concurso para o cargo de delegado da Polícia Civil, declinou da atribuição e encaminhou os autos ao Ministério Público Federal.
+    O Ministério Público Federal, por meio da Procuradoria da República no Estado do Rio Grande do Norte, suscitou o conflito negativo de atribuição em face do Ministério Público do Estado do Rio Grande do Norte.
+    Relata a Procuradoria da República que a representação tratava de “possível existência de irregularidade e eventual prática de ato de improbidade administrativa relativamente ao fato de o Estado do Rio Grande do Norte ter convocado irregularmente a Força Nacional de Segurança Pública para atuar no Rio Grande do Norte, como forma de fugir da obrigatoriedade da prévia realização de concurso público”. Entendeu a Procuradoria inexistir interesse jurídico direto da União no caso, sendo do Ministério Público Estadual a atribuição para atuar no caso.
+    O Ministério Público Federal, em parecer, manifestou-se pelo não conhecimento da ação, conforme a seguinte ementa (fls. 141):
+    “Ação cível originária. Pretenso conflito negativo de atribuições entre o Ministério Público Federal e o Ministério Público do Estado do Rio Grande do Norte. Suposta irregularidade na convocação da Força Nacional de Segurança Pública para atuar no Estado do Rio Grande do Norte. Declínio da atribuição do Ministério Público Federal. Conflito suscitado diretamente pelo órgão de atuação direta no Supremo Tribunal Federal. Legitimidade exclusiva do Procurador-Geral da República para propositura do conflito. Parecer pelo não conhecimento da ação.”
+    É o relatório. Decido.
+    Preliminarmente, anoto que esta Corte, ao julgar a Petição 3.528/BA, Relator o Ministro Marco Aurélio, reconheceu a sua competência para solucionar conflito de atribuições entre órgãos do Ministério Público de diferentes entidades da federação, verbis:
+    “COMPETÊNCIA - CONFLITO DE ATRIBUIÇÕES - MINISTÉRIO PÚBLICO FEDERAL VERSUS MINISTÉRIO PÚBLICO ESTADUAL. Compete ao Supremo a solução de conflito de atribuições a envolver o Ministério Público Federal e o Ministério Público Estadual. CONFLITO NEGATIVO DE ATRIBUIÇÕES - MINISTÉRIO PÚBLICO FEDERAL VERSUS MINISTÉRIO PÚBLICO ESTADUAL - ROUBO E DESCAMINHO. Define-se o conflito considerado o crime de que cuida o processo. A circunstância de, no roubo, tratar-se de mercadoria alvo de contrabando não desloca a atribuição, para denunciar, do Ministério Público Estadual para o Federal” (Pet 3.528, Rel. Min. Marco Aurélio, Plenário, DJ 3/3/2006).
+    Contudo, conforme demonstrado no parecer do Procurador-Geral da República, o caso é de não conhecimento da ação. De fato, o conflito foi suscitado pelo Procurador da República no Estado do Rio Grande do Norte, enquanto o artigo 46 da LC 75/1993 dispõe que:
+    “Art. 46. Incumbe ao Procurador-Geral da República exercer as funções do Ministério Público junto ao Supremo Tribunal Federal, manifestando-se previamente em todos os processos de sua competência.
+      Parágrafo único. O Procurador-Geral da República proporá perante o Supremo Tribunal Federal:
+      I - a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e o respectivo pedido de medida cautelar;
+      II - a representação para intervenção federal nos Estados e no Distrito Federal, nas hipóteses do art. 34, VII, da Constituição Federal;
+      III - as ações cíveis e penais cabíveis.”
+    Desta forma, configura-se a ilegitimidade ativa da presente ação, o que atrai o seu não conhecimento. Transcrevo o que restou consignado no parecer do Ministério Público Federal, o qual adoto como fundamento da presente decisão:
+    “Tal como as demais ações judiciais, a ação Cível Originária, disciplinada nos artigos 247 a 251 do Regimento Interno do Supremo Tribunal Federal, não está livre da necessidade de atender aos requisitos do artigo 282 do Código de Processo Civil para mensuração de sua aptidão.
+    Não se pode cogitar de uma ação que tramite na Suprema Corte sem que a capacidade processual das partes e os aspectos indispensáveis à formação da relação processual sejam cumpridos.
+    No caso dos autos, tem-se a manifestação assinada por um Procurador da República, órgão do Ministério Público que não pode atuar originariamente no Supremo Tribuna Federal.
+    Com efeito, as funções de Ministério Público junto ao Supremo Tribunal Federal são exercidas com exclusividade pelo Procurador-Geral da República, conforme preceituam o texto constitucional (art. 103, § 1º, CR/88) e a legislação complementar específica (art. 46 da LC nº 75/93).
+    Presente, então, um vício processual que, a rigor, impede o conhecimento da ação cível originária, que não conta com petição inicial apta, formulada por membro do Ministério Público com atribuição para provocar a jurisdição do Supremo Tribunal Federal.
+    Além disso, cabe esclarecer que, no âmbito do Ministério Público Federal, o declínio de atribuições é ato complexo, que pressupõe dupla aferição: a primeira feita por membro a quem distribuídos os autos, mas que não é suficiente em si mesma, pois necessitará de um juízo de ratificação, a ser feito por uma das Câmaras de Coordenação e Revisão ou pela Procuradoria Federal dos Direitos do Cidadão.
+    Nesta ordem de ideias, o conflito apenas estará configurado se o órgão revisor ratificar o declínio de atribuição, pois, em caso contrário, a própria decisão que não homologa o declínio terá o condão de reafirmar a atribuição do Ministério Público Federal, com a designação de novo membro para atuar no caso concreto.
+    Este o quadro, o Procurador-Geral da República manifesta-se pelo não conhecimento da presente ação.”
+    Ex positis, não conheço da presente ação.
+    Publique-se.
+    Brasília, 29 de agosto de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
