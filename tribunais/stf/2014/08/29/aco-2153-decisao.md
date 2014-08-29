@@ -1,0 +1,10 @@
+Decisão: Trata-se de ação civil pública contra a Mesa da Câmara dos Deputados e a Mesa do Senado Federal, ajuizada com objetivo de anular “o ato da MESA DIRETORA DA CÂMARA DOS DEPUTADOS que aprovou o Requerimento de urgência n. 7494/2013, para apreciação do PL n. 4470/2012, e de consequência, também declarada nula a respectiva votação havida sob tal regime na data do dia 23.04.2012 e os atos sucessivos, e determinando à MESA DIRETORA DO SENADOR FEDERAL o retorno do projeto À MESA DIRETORA DA CÂMARA para retomada do regimento normal de votação.”
+    A competência originária do Supremo Tribunal Federal, ante o regime de direito estrito a que se acha submetida, não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados, em “numerus clausus”, pelo rol exaustivo inscrito no art. 102, I, da Constituição Federal (Pet 4226 AgR/RS, 2ª T., rel. Min. Celso de Mello, DJe 27.3.2014).
+    Conforme destacado pelo relator no precedente citado,
+    “esse regime de direito estrito tem levado esta Corte Suprema, por efeito da taxatividade do rol constante da Carta Política, a afastar, do âmbito de suas atribuições jurisdicionais originárias, o processo e o julgamento de causas de natureza civil que não se acham inscritas no texto constitucional – tais como ações populares (RTJ 121/17, Rel. Min. MOREIRA ALVES – RTJ 141/344, Rel. Min. CELSO DE MELLO – Pet 352/DF, Rel. Min. SYDNEY SANCHES – Pet 431/SP, Rel. Min. NÉRI DA SILVEIRA – Pet 487/DF, Rel. Min. MARCO AURÉLIO – Pet 1.641/DF, Rel. Min. CELSO DE MELLO), ações civis públicas (RTJ 159/28 , Rel. Min. ILMAR GALVÃO – Pet 240/DF , Rel. Min. NÉRIVotoELLODA SILVEIRA) ou ações cautelares , ações ordinárias, ações declaratórias e medidas cautelares (RTJ 94/471, Rel. Min. DJACI FALCÃO – Pet 240/DF, Rel. Min. NÉRI DA SILVEIRA – Pet 1.738-AgR/MG, Rel. Min. CELSO DE MELLO).
+    Pelo exposto, nego seguimento a esta ação civil pública, com fundamento no art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de agosto de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
