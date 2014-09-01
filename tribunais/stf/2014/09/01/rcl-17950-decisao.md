@@ -1,0 +1,13 @@
+Decisão:
+    Ementa: Direito Processual Penal. Reclamação. Descabimento. 1. Não cabe reclamação para preservação de entendimentos não vinculantes adotados por esta Corte. Negado seguimento à reclamação.
+    1. Trata-se de reclamação ajuizada contra a decisão que inadmitiu os embargos declaratórios, por intempestividade, mantendo decisão que não conheceu de agravo em execução, por falta de traslado pelo recorrente das sua peças essenciais.
+    2. Alega o reclamante que o tribunal reclamado não considerou a interposição dos embargos declaratórios por fax. Ademais, exigiu que o recorrente trasladasse as cópias essenciais para a interposição do agravo em execução, aplicando as regras do agravo de instrumento previsto no CPC, em vez do recurso em sentido estrito.
+    3. Segundo a reclamação, a decisão impugnada é teratológica, uma vez que desrespeita “entendimentos já tombados, assim, por consequência, afronta a autoridade das decisões tomadas por esse Egrégio Pretório”.
+    4. Entretanto, como se sabe, não cabe reclamação para preservação de entendimentos não vinculantes adotados por esta Corte. Nesse sentido:
+    EMENTA Agravo regimental na reclamação. ADI nº 1.480/DF. Inexistência de efeito vinculante. Ação direta extinta sem julgamento de mérito, por perda superveniente de seu objeto. RE nº 179.193/PE. Paradigma de caráter subjetivo. Agravo regimental ao qual se nega provimento. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88). 2. ADI nº 1.480/DF julgada extinta, sem julgamento de mérito, por perda superveniente de seu objeto, o que afasta a possibilidade de a decisão ser apontada, validamente, como paradigma apto a instaurar a competência originária desta Suprema Corte em sede de reclamação constitucional. 3. Jurisprudência pacífica do Supremo Tribunal Federal no sentido de que não se conhece de reclamação fundada em precedentes sem eficácia geral e vinculante de cuja relação processual o reclamante não tenha feito parte. 4. Agravo regimental não provido.
+    (Rcl 15423 AgR, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 19/06/2013, PROCESSO ELETRÔNICO DJe-188 DIVULG 24-09-2013 PUBLIC 25-09-2013)
+     5. Por essa razão, nego seguimento à reclamação, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal. Intime-se.
+Brasília, 1º de setembro de 2014
+Ministro LUÍS ROBERTO BARROSO
+Relator
+Documento assinado digitalmente
