@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Ministério Público do Estado do Rio Grande do Sul interpõe agravo visando impugnar decisão (fls. 436 a 444) que não admitiu recurso extraordinário, assentado em contrariedade ao art. 5º, incisos XLIII e XLVI, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça estadual, assim ementado na parte que interessa:
+    “CRIMINAL. APELOS MINISTERIAL E DEFENSIVO. PRELIMINAR. AUSÊNCIA DE NULIDADE. ARTIGO 12 DO CÓDIGO DE PROCESSO PENAL. ART. 33, CAPUT, DA LEI Nº. 11.343/06. TRÁFICO DE DROGAS. FORMA PRIVILEGIADA RECONHECIDA NA SENTENÇA. PROVA. DEPOIMENTO DE POLICIAIS. MEIO DE PROVA IDÔNEO. MANUTENÇÃO DA CONDENAÇÃO. PENA PRIVATIVA DE LIBERDADE E PENA DE MULTA INALTERADAS. MANTIDA A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. PENA DE MULTA. EXCLUSÃO. IMPOSSIBILIDADE. CUSTAS PROCESSUAIS. SUSPENSÃO DA EXIGIBILIDADE DE PAGAMENTO. ART. 12 DA LEI Nº 1.060/50” (fl. 337).
+    O agravante, nas razões do extraordinário, aduz que o crime de tráfico, mesmo na sua forma privilegiada, equipara-se a crime hediondo, consequentemente, o regime inicial de cumprimento de pena deve ser, necessariamente, fechado.
+    Examinados os autos decido.
+    Anote-se, inicialmente, que o acórdão proferido em sede de apelação foi publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No caso, o inconformismo não merece ser acolhido.
+    No que se refere à equiparação, ou não, do crime de tráfico privilegiado a um crime hediondo, anoto que, concomitantemente ao apelo extremo, o recorrente manejou recurso especial, autuado no Superior Tribunal de Justiça como REsp nº 1.329.834/RS, que restou parcialmente provido pela Relatora, a Ministra Marilza Maynard, para reconhecer o caráter hediondo do delito.
+    Essa decisão transitou em julgado em 5/2/14, conforme certidão de fl. 504.
+    Portanto, sobre o este tema o recurso extraordinário esta prejudicado.
+    Quanto à obrigatoriedade de fixação do regime inicial fechado para o cumprimento da pena na espécie, forçoso concluir que o Tribunal a quo ao decidir a questão, se ateve ao exame da legislação infraconstitucional. Portanto, a violação, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Ressalte-se que a jurisprudência desta Suprema Corte é assente no sentido de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta e frontal à Constituição da República.
+    Nesse sentido, confira-se: AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08; AI nº 651.927/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 30/5/08; AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/6/07; AI nº 622.527/AP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 18/5/07; AI nº 562.809/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 18/5/07; e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07, entre outros.
+    Ainda que assim não fosse, o Plenário desta Suprema Corte, no julgamento do HC nº 111.840/ES, de minha relatoria, DJe de 17/12/13, declarou de forma incidental a inconstitucionalidade da obrigatoriedade de fixação do regime inicialmente fechado para o cumprimento de pena decorrente da condenação por crime hediondo ou equiparado.
+    Ante o exposto, julgo prejudicado, em parte o recurso e, quanto ao regime inicial de cumprimento da pena, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 1º de setembro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
