@@ -1,0 +1,17 @@
+Decisão:
+Ementa: habeas corpus impetrado de decisão monocrática de relator do Superior Tribunal de Justiça. Descabimento. Prisão preventiva. Inexistência de contrariedade à orientação do Supremo Tribunal Federal. Writ não conhecido.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que negou seguimento ao HC 300.417, do Superior Tribunal de Justiça.
+    2. Os impetrantes alegam que a decisão impugnada estaria embasada na falsa premissa de que o HC 300.417 reiteraria o pedido formulado no RHC 49.100, em tramitação no Superior Tribunal de Justiça. Afirmam também a ausência de substrato fático para a prisão cautelar determinada pelo Juízo de origem. Requerem, assim, a concessão de liberdade provisória ao paciente ou a substituição da prisão preventiva por medidas cautelares menos gravosas.
+    Decido.
+    3. Inicialmente observo que este habeas corpus foi impetrado contra decisão monocrática proferida pelo Relator do HC 300.417, Ministro Rogério Schietti Cruz, de modo que, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux, HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso, HC 108.141-AgR, Rel. Min. Teori Zavascki, e o HC 118.189, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “HABEAS CORPUS. CONSTITUCIONAL. PENAL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL. SUPRESSÃO DE INSTÂNCIA. IMPETRAÇÃO NÃO CONHECIDA.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, o qual pressupõe seja a coação praticada por Tribunal Superior.
+    II - Essa foi a orientação firmada pela Segunda Turma durante o julgamento do HC 119.115, de minha relatoria, ocasião em que se decidiu que a não interposição de agravo regimental no STJ e, portanto, a ausência da análise da decisão monocrática pelo colegiado impede o conhecimento do habeas corpus por esta Corte.
+    III - Writ não conhecido.”
+    4. Ademais, da leitura das peças que instruem a inicial não se verifica a ilegalidade arguida pelos impetrantes. Em primeiro lugar, porque, assim como afirmado pelo Tribunal estadual e pela autoridade impetrada, a ausência de superveniência de fatos relevantes inviabiliza o conhecimento do writ impetrado em face de prisão preventiva já apreciada ou pendente de apreciação em processo em tramitação. Além disso, a ordem de custódia cautelar fora embasada em dados objetivos da causa, notadamente no modus operandi utilizado pelos acusados, no fato de os crimes cometidos pela suposta organização criminosa “se estender[em] além dos limites desta Comarca” e na existência de outros “processos criminais e por improbidade administrativa (por fatos análogos e por estes aqui apontados) em andamento a que os representados respondem”. Não sendo o caso, portanto, de concessão da ordem de ofício.
+    5. Nessas condições, com base no art. 38 da Lei nº 8.038/1990 c/c o art. 21, § 1º, do RI/STF, nego seguimento à impetração.
+    Publique-se.
+          Brasília, 02 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
