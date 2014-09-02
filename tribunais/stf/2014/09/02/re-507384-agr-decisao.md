@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo regimental contra decisão monocrática do Ministro Joaquim Barbosa, relator originário do feito, que negou seguimento ao agravo em recurso extraordinário, pelos seguintes fundamentos:
+    “O acórdão recorrido foi publicado (fls. 723) em 07.10.2005 (sexta-feira). Portanto, o prazo para interposição do recurso extraordinário esgotou-se em 24.10.2005 (segunda-feira). É, pois, intempestivo o presente recurso extraordinário interposto em 25.10.2005.
+    Saliento que esta Corte firmou o entendimento de que os documentos comprobatórios da suspensão de prazo no tribunal a quo que não sejam de conhecimento obrigatório pelo tribunal ad quem devem ser apresentados na data da interposição do recurso. Nesse sentido: AI 468.442-AgR (rel. min. Sepúlveda Pertence, DJ de 19.12.2003) e AI 466.595-AgR (rel. min. Celso de Mello, DJ de 19.03.2004).
+    Do exposto, nego seguimento ao recurso.”
+    A parte agravante alega que “o prazo legal para interposição do Recurso Extraordinário não se completou em 24 mas em 25/10/2005, vez que no dia 24 (segunda feira) não houve expediente no Foro de Primeira e Segunda Instâncias do Estado de São Paulo, assim como na Secretaria do Tribunal de Justiça, de acordo com a Portaria nº 7762/2005, do E. Tribunal de Justiça do Estado de São Paulo (cópia anexa)” (fls. 842).
+    Assiste razão à parte recorrente no que se refere à alegação de tempestividade do recurso extraordinário. Com efeito, não houve expediente no dia 24/10/2005, em razão da apuração do referendo que ocorreu em 23/10/2005, conforme dispõe a Portaria 7.262/2005, editada pelo Tribunal de Justiça do Estado de São Paulo (fls. 847). O prazo de interposição do recurso foi prorrogado para o dia 25/10/2005.
+    Com efeito, o Supremo Tribunal Federal passou a aceitar a prova de prorrogação do prazo de interposição do recurso extraordinário em sede de agravo regimental. Nesta linha, veja-se ementa do RE 626.358-AgR, julgado sob a relatoria do Ministro Presidente:
+    “RECURSO. Extraordinário. Prazo. Cômputo. Intercorrência de causa legal de prorrogação. Termo final diferido. Suspensão legal do expediente forense no juízo de origem. Interposição do recurso no termo prorrogado. Prova da causa de prorrogação só juntada em agravo regimental. Admissibilidade. Presunção de boa-fé do recorrente. Tempestividade reconhecida. Mudança de entendimento do Plenário da Corte. Agravo regimental provido. Voto vencido. Pode a parte fazer eficazmente, perante o Supremo, em agravo regimental, prova de causa local de prorrogação do prazo de interposição e da consequente tempestividade de recurso extraordinário”.
+    Diante do exposto, reconsidero a decisão agravada (fls. 824). Abra-se vista dos autos à Procuradoria-Geral da República. Após, voltem os autos conclusos para análise do recurso extraordinário.
+    Publique-se.
+       Brasília, 02 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
