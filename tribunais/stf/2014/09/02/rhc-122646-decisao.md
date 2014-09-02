@@ -1,0 +1,28 @@
+DECISÃO:
+    Vistos.
+    Trata-se de recurso ordinário em habeas corpus, interposto por Rafael Simões da Silva, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, Relatora a Ministra Marilza Maynard, que denegou a ordem no Habeas Corpus nº 143.553/DF.
+    Aduz o recorrente que foi pronunciado, como incurso nas sanções do art. 157, § 2º, I e II, c/c art. 14, II, ambos do Código Penal, por força de conexão com crime doloso contra a vida (art. 76, II, e art. 78, I, ambos do Código de Processo Penal), e que, durante a sessão de julgamento pelo Tribunal do Júri, foi suscitada a tese da participação de menor importância (art. 29, § 1º, do Código Penal), a qual não foi quesitada pelo Juiz Presidente, sob o fundamento de que somente havia sido arguida durante a tréplica da defesa.
+    Alega, ainda, que impugnou, oportunamente, a nulidade constatada no julgamento, e também a arguiu na apelação interposta contra a sentença condenatória, nos termos do art. 593, III, “a”, do Código de Processo Penal.
+    O Tribunal de Justiça do Distrito Federal negou provimento à apelação e, contra essa decisão, impetrou-se, no Superior Tribunal de Justiça, em favor do recorrente, o Habeas Corpus nº 143.553/DF, o qual não foi conhecido pela Sexta Turma, em acórdão assim ementado:
+    HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. PENAL. TRIBUNAL DO JÚRI. INOVAÇÃO DE TESE DEFENSIVA NA TRÉPLICA. IMPOSSIBILIDADE. OFENSA AO PRINCÍPIO DO CONTRADITÓRIO E AO DEVIDO PROCESSO LEGAL. WRIT NÃO CONHECIDO.
+    1. Este Superior Tribunal de Justiça, na esteira do entendimento firmado pelo Supremo Tribunal Federal, tem amoldado o cabimento do remédio heróico, adotando orientação no sentido de não mais admitir habeas corpus substitutivo de recurso ordinário/especial. Contudo, a luz dos princípios constitucionais, sobretudo o do devido processo legal e da ampla defesa, tem-se analisado as questões suscitadas na exordial a fim de se verificar a existência de constrangimento ilegal para, se for o caso, deferir-se a ordem de ofício.
+    2. Em virtude do contraditório e do devido processo legal, é vedado à defesa inovar no momento da tréplica. Assim, inexiste ilegalidade na decisão do Juiz Presidente do Tribunal do Júri que deixou de incluir, nos quesitos a serem apresentados aos jurados, tese da participação de menor importância, sustentada somente naquele momento processual. Precedentes.
+    3. Habeas corpus não conhecido
+    Eis a razão por que se insurge o recorrente.
+    Insiste no reconhecimento da nulidade de seu julgamento pelo Tribunal do Júri, diante da não quesitação da tese suscitada na tréplica.
+    Existe, contudo, óbice processual ao conhecimento do recurso.
+    Conforme informações complementares encaminhadas a meu gabinete, em 22.8.14, a Vara de Execuções das Penas e Medidas Alternativas do Distrito Federal, em 25.3.11, julgou extinta a punibilidade do recorrente, por indulto pleno, com fundamento no art. 1º, caput, inciso XIII, c.c. art. 4º, caput, do Decreto nº 7.420/10.
+    Nos termos da Súmula nº 695 do Supremo Tribunal Federal, “não cabe habeas corpus quando já extinta a pena privativa de liberdade”.
+    De acordo com os precedentes que conduziram à edição da apontada súmula, insubsistentes, pela extinção da pena, a violência ou coação à liberdade de locomoção, desaparece o substrato fático que amparava o recurso a essa garantia constitucional, de modo que o reconhecimento de eventual ilegalidade ou abuso de poder do ato coator deve ser buscado em sede de revisão criminal (RHC nº 79.037/DF, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 28.5.99 e HC nº 63.283/RJ, Primeira Turma, Relator o Ministro Sidney Sanches, DJ de 19.12.85).
+    Como decidido pelo Supremo Tribunal Federal no Habeas Corpus nº 69.854/DF, em lição inteiramente aplicável à espécie,
+    E M E N T A: HABEAS CORPUS - HOMICÍDIO - CONDENAÇÃO PENAL – ALEGAÇÃO DE NULIDADE PROCESSUAL ABSOLUTA - PRETENDIDA INVALIDAÇÃO DO PROCESSO DESDE O JULGAMENTO PELO JÚRI - PENA ACESSÓRIA DE PERDA DA FUNÇÃO PÚBLICA - SUPERVENIÊNCIA DA LEI 7.209/84 (LEX MITIOR) - CUMPRIMENTO INTEGRAL DA PENA PRIVATIVA DE LIBERDADE IMPOSTA AO PACIENTE - CONSEQÜENTE IMPOSSIBILIDADE DE CARACTERIZAR-SE SITUAÇÃO DE INJUSTO CONSTRANGIMENTO À LIBERDADE DE LOCOMOÇÃO FÍSICA DO PACIENTE - HABEAS CORPUS NÃO CONHECIDO.
+     - A jurisprudência do Supremo Tribunal Federal tem salientado que, inocorrendo situação de risco efetivo para a liberdade de locomoção física, não tem pertinência o remédio constitucional do habeas corpus, cuja utilização supõe a concreta configuração de ofensa, atual ou potencial, ao direito de ir, vir e permanecer do paciente. Precedentes. Considerações em torno da doutrina brasileira do habeas corpus.
+     - A ação penal de habeas corpus não se revelará cabível, ainda que para discutir eventual nulidade do processo penal condenatório, se inexistir - ante a comprovada extinção da punibilidade do condenado - qualquer situação de dano efetivo ou de risco potencial ao jus manendi, ambulandi, eundi ultro citroque do paciente.
+     - A extinção da punibilidade - qualquer que seja a sua causa - afasta a possibilidade de constrangimento à liberdade de locomoção física do paciente e torna conseqüentemente incabível o remédio constitucional do habeas corpus. Precedentes/STF. (Primeira Turma, Relator o Ministro Celso de Mello, DJ de 21.6.96).
+    Outrossim, o caso concreto não ostenta peculiaridades que autorizem imunizá-lo do entendimento sumular.
+    Ante o exposto, julgo prejudicado o recurso, com fundamento no art. 21, IX, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 2 de setembro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
