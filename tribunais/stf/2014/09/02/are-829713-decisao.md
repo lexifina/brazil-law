@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 321):
+    “REEXAME NECESSÁRIO. APELAÇÃO. RECURSO ADESIVO. MUNICÍPIO DE CANDELÁRIA. ADICIONAL DE INSALUBRIDADE. HORAS EXTRAS. REAJUSTE SALARIAL.
+          O Administrador Público está vinculado ao princípio da legalidade, estando adstrito à observância da lei, não podendo se afastar da regra constitucional, sob pena de praticar ato inválido e expor-se à responsabilidade civil ou criminal, conforme o caso. A gratificação por exercício de atividade insalubre depende de previsão na Lei local. Art. 37, caput , da CF.
+          Necessária a demonstração de que foi autorizado, pela autoridade competente, o exercício de atividade extraordinária, para fins de recebimento de remuneração por horas-extras.
+          Nos casos em que não restou procedida a revisão geral anual prevista no art. 37, X, da CF, tendente à recomposição do poder aquisitivo dos vencimentos do autor, pode-se falar apenas em omissão legislativa e mora do Executivo, não podendo o Poder Judiciário impor a adoção do reajuste reivindicado.
+          Negaram provimento aos recursos e confirmaram a sentença em reexame necessário. Unânime.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, caput, e 39, § 3º, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) os fundamentos expostos no acórdão recorrido não foram objeto de apreciação pelo recurso; (ii) aplicar-se-iam ao caso as Súmulas 279, 280 e 636/STF.
+    A decisão deve ser mantida. Nota-se que o Tribunal de origem concluiu “em nenhum momento houve lacuna legislativa a autorizar o cancelamento, por parte da municipalidade, do pagamento do adicional de insalubridade em tela” (fls. 324). Dissentir dessa conclusão exigiria a análise da legislação local pertinente (Leis municipais ns. 063/2002 e 091/2005), bem como análise dos fatos e provas colacionados aos autos, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. Nessa linha, veja-se a ementa do AI 729394-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental em agravo de instrumento. Servidor público municipal. Adicional de insalubridade. Ofensa a direito local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se abre a via do recurso extraordinário para o reexame de matéria ínsita ao plano normativo local e de fatos e provas. Incidência das Súmulas nº 280 e 279 desta Corte. 2. Agravo regimental não provido.”
+    Ademais, em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas nego-lhe provimento.
+    Publique-se.
+          Brasília, 2 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
