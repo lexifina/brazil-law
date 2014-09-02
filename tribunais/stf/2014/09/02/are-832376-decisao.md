@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina. Extrai-se da ementa o seguinte trecho conclusivo (fls. 284):
+    “DIREITO ADMINISTRATIVO. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO DO MUNICÍPIO DE FLORIANÓPOLIS. CONVERSÃO DOS VENCIMENTOS EM URV NO ANO DE 1994. APLICABILIDADE DA LEI N. 8.890/94 DE ALCANCE NACIONAL. ERRO NO CÁLCULO DETERMINADO PELA LEI MUNICIPAL N. 4.392/93. PREJUÍZO SALARIAL VERIFICADO. POSTERIOR EDIÇÃO DA LEI MUNICIPAL N. 4.643/95 ESTABELECENDO NOVOS PADRÕES DE VENCIMENTOS PARA TODOS OS CARGOS. ACERTAMENTO CONTÁBIL QUE ELIMINOU A DIFERENÇA PREJUDICIAL AOS SERVIDORES. VALORES DEVIDOS SOMENTE ATÉ ENTÃO. AÇÃO PROPOSTA MAIS DE CINCO ANOS APÓS. PRESCRIÇÃO QUINQUENAL CONFIGURADA EM RELAÇÃO A TODAS AS PRESTAÇÕES DE TRATO SUCESSIVO DEVIDAS. NÃO INCIDÊNCIA DA SÚMULA 85 DO STJ. ENTENDIMENTO FIRMADO PELO GRUPO DE CÂMARAS DE DIREITO PÚBLICO DA CORTE. EXTINÇÃO DO PROCESSO (CPC, ART. 269, IV). SENTENÇA CONFIRMADA. RECURSO DESPROVIDO.
+    […]”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II; 7º, VI; 22, VI; 37, XV e § 2º; e 39, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que a alegada violação ao texto constitucional carecia de prequestionamento (Súmulas 282 e 356/STF).
+    O recurso extraordinário não deve ser provido. Nota-se que o Tribunal de origem, com base nos fatos e provas colacionados aos autos, bem como na legislação infraconstitucional, concluiu ter ocorrido a prescrição da pretensão dos ora recorrentes. Esse é um fundamento autônomo e suficiente para manutenção do julgado que permaneceu incólume após o trânsito em julgado da decisão do Superior Tribunal de Justiça que negou seguimento ao recurso especial. Hipótese que atrai a incidência da Súmula 283/STF. Nesse sentido, veja a ementa do RE 639773-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. LITISPENDÊNCIA E COISA JULGADA. NECESSIDADE DE REEXAME DE PROVAS E NORMAS INFRACONSTITUCIONAIS. SÚMULA 279 DO STF. OFENSA INDIRETA À CONSTITUIÇÃO. PRESCRIÇÃO ADMINISTRATIVA. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. ACÓRDÃO RECORRIDO APOIADO EM FUNDAMENTOS INFRACONSTITUCIONAIS MANTIDOS COM A NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA 283 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta.
+    II – Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    III – Com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+    IV – Agravo regimental a que se nega provimento”.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas nego-lhe provimento.
+    Publique-se.
+          Brasília, 02 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
