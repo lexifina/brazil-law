@@ -1,0 +1,22 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto por LUIZ ANTONIO LIMA TEIXEIRA contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que não conheceu do agravo regimental interposto no RHC 41.299/MG, Rel. Min. Maria Thereza de Assis Moura.
+    Consta dos autos que o recorrente foi condenado à pena de 3 (três) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e à perda do cargo público, pela prática do delito previsto no art. 1º, II e § 4º, I e II, da Lei 9.455/1997.
+    Inconformada com o decreto condenatório, a defesa apelou para o Tribunal de Justiça do Estado de Minas Gerais, que negou provimento ao recurso. Simultaneamente, manejou sucessivos writs no Tribunal mineiro, sem lograr êxito, contudo.
+    A defesa interpôs, então, o RHC 41.299/MG no STJ, oportunidade em que a Ministra Relatora, monocraticamente, negou seguimento ao recurso ordinário, por considerá-lo mera reiteração do HC 255.823/MG – rejeitado pela Sexta Turma da Corte Superior – e por entender que a análise dos argumentos veiculados implicaria supressão de instância. Contra essa decisão foi ajuizado o respectivo agravo regimental, que não foi conhecido em razão da intempestividade.
+    É contra esse último acórdão que se insurge o recorrente.
+    Sustenta, em síntese, a existência de diversas nulidades no curso da ação penal.
+    Requer, ao final,
+    “em primeira premissa a concessão da liminar para suspender os efeitos do mandado de prisão, ante as irregularidades apontadas, em razão de o processo principal estar ainda ativo, as dúvidas quanto à publicação do trânsito em julgado e cientificação dos procuradores e do réu, principalmente por inexistir publicação no DJE;
+    Em segunda premissa que se analise a possibilidade da ocorrência da prescrição retroativa da pretensão punitiva, já que não consta do andamento processual o trânsito em julgado da sentença para a acusação, nem tampouco o trânsito em julgado final após os recursos frente à sentença condenatória, restando irregular o processo de execução;
+    Em terceira premissa o reconhecimento da nulidade de todo caderno processual desde a fase inquisitorial, em face do INVÁLIDO Auto de Corpo de Delito expedido pelo médico Renato Renner corréu no processo; a falta do competente Exame de Sanidade Mental que deveria ser produzidos e expedidos por peritos oficiais, o que feriu de morte a tipificação do delito e invalida o feito;
+    Em última premissa, o reconhecimento da nulidade do todo feito, em face da Rejeição posterior da denuncia, por ato de outro juiz de primeiro grau, no caso em comento, Dr. João Veríssimo, a qual assumiu a presidência do feito e, às fls. 243 ANULOU A DENÚNCIA, após um ano do ato de recebimento pelo Dr. Marcos Ligabó, às fls. 160, o que se fará homenageando o DIREITO e à JUSTIÇA” (fls. 3-4 do documento eletrônico 7 – grifos no original; sic).
+    Por meio da Petição 31.486/2014 – STF, recebida nesta Corte em 14/7/2014, a defesa pede, liminarmente, a aplicação da Súmula Vinculante 26, para que seja determinado o cumprimento da reprimenda fixada no regime aberto, ordenando-se, por conseguinte, a imediata soltura do recorrente.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Deborah Macedo Duprat de Britto Pereira, opinou pelo não conhecimento do recurso.
+    É o breve relatório. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Como bem destacou a representante do Parquet Federal, a ação penal movida contra o recorrente transitou em julgado em 27/8/2012. Desse modo, eventual erro judiciário deve ser questionado por meio de instrumento próprio, qual seja, a revisão criminal.
+    É cediço que o habeas corpus, em que pese configurar remédio constitucional de largo espectro, não pode ser utilizado como sucedâneo da revisão criminal, salvo em situações nas quais se verifique flagrante ilegalidade ou nulidade, o que, a meu sentir, não parece ser o caso dos autos.
+    Diante de tal quadro, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Publique-se.
+    Brasília, 2 de setembro de 2014.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
