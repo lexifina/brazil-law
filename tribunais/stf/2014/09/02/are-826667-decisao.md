@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Superior Eleitoral, assim ementado (fls. 523):
+    AGRAVO - OBJETO - DESCOMPASSO. Visando o agravo a fulminar a decisão que se ataca, a minuta deve estar direcionada de modo a infirmá-la. O silêncio em torno de fundamento consignado é de molde, por si só, a levar à manutenção do ato.
+    O recurso foi interposto com fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao artigo 121, § 4º, I, e ao art. 5º, LIV e LV, todos da Constituição Federal de 1988, além da existência, desde o julgamento em primeira instância, da violação ao princípio da igualdade.
+    A decisão agravada inadmitiu o recurso extraordinário sob os seguintes fundamentos: (i) inexistência de preliminar demonstrando a repercussão geral; (ii) óbice enunciado pela Súmula 283/STF e (iii) ausência de repercussão geral (controvérsia sobre pressupostos de admissibilidade de recurso da competência de outros Tribunais).
+    Tal como observou a decisão recorrida, verifico que o recurso extraordinário não fez constar preliminar de repercussão geral. Desta forma, constato a ausência de um pressuposto específico de cabimento do recurso extraordinário. Neste sentido, destaco a ementa do ARE 748749 ED, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. PENAL. FALTA DE FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS SUSCITADAS. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS SUFICIENTES DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I - Não ficou demonstrada, nas razões do recurso extraordinário, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso. II - Nos termos do art. 327, § 1º, do RISTF, com a redação dada pela Emenda Regimental 21/2007, os recursos que não apresentem preliminar formal e fundamentada de repercussão geral serão recusados. III - O agravante não refutou todos os fundamentos suficientes da decisão agravada, o que atrai a incidência da Súmula 283 do STF. Precedentes. IV - Agravo regimental improvido.”
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 02 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
