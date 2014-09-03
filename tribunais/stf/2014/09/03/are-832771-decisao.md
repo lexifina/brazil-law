@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de decisão monocrática que entendeu pela intempestividade do recurso especial interposto antes da publicação do acórdão (eDOC 6, p. 18).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação do artigo 5º, II, XXXV, LV e LXXVIII, do texto constitucional.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que, conforme entendimento do Supremo Tribunal Federal, a decisão que viabiliza a interposição do recurso extraordinário é aquela proferida em única ou última instância, consoante o disposto no inciso III do art. 102 da Constituição Federal.
+    No presente caso, o recorrente não esgotou as vias ordinárias cabíveis, visto que o recurso extraordinário foi interposto contra decisão monocrática, quando ainda era cabível agravo interno, conforme prevê o art. 557, § 1º, do Código de Processo Civil. Incide, portanto, o Enunciado 281 da Súmula do STF.
+    Nesse sentido, confiram-se os seguintes julgados: ARE-AgR 656.132, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJ 16.11.2011; e AI-AgR 686.751, Rel. Min. Ayres Britto, Primeira Turma, DJe 14.8.2009, cujas ementas transcrevo respectivamente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DECISÃO IMPUGNADA. MONOCRÁTICA. AUSÊNCIA DE ESGOTAMENTO DA VIA RECURSAL ORDINÁRIA. SÚMULA 281 DO STF. AGRAVO IMPROVIDO. I – Recurso extraordinário interposto contra decisão monocrática em embargos de declaração. Não esgotamento da via recursal ordinária (Súmula 281 do STF). II – Agravo regimental improvido”.
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. 1. CASO EM QUE O ARESTO IMPUGNADO DIRIMIU CONTROVÉRSIA DE ÍNDOLE EMINENTEMENTE INFRACONSTITUCIONAL. 2. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 3. AUSÊNCIA DE EXAURIMENTO DAS VIAS RECURSAIS NA INSTÂNCIA ORDINÁRIA. AINDA CABÍVEL O AGRAVO PREVISTO NO § 1º DO ART. 557 DO CPC. INCIDÊNCIA DA SÚMULA 281 DO STF. 1. Entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada na instância extraordinária. 2. Os temas constitucionais suscitados no apelo extremo não foram objeto de análise prévia e conclusiva pelo Tribunal de origem. Pelo que incidem as Súmulas 282 e 356 desta Corte. 3. Por outro lado, não foram exauridas as vias recursais na instância ordinária, dado que ainda cabível o agravo previsto no § 1º do art. 557 do CPC. Incidência da Súmula 281 do STF. 4. Agravo regimental desprovido”.
+    Ademais, esta Corte, no julgamento RE-RG 598.365 (Tema 181), de relatoria do Min. Ayres Britto, DJe 25.3.2010, assentou entendimento no sentido de que a questão relativa ao cabimento de recursos da competência de outros tribunais não possui repercussão geral. Eis a ementa:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso elemento de configuração da própria repercussão geral, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 3 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
