@@ -1,0 +1,7 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o ARE 641.896-RG/SP, Rel. Min. MARCO AURÉLIO, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa.
+    O tema objeto do recurso representativo de mencionada controvérsia jurídica, passível de se reproduzir em múltiplos feitos, refere-se à “definição do legitimado para a execução de crédito decorrente de multa aplicada por Tribunal de Contas estadual a agente público municipal, em razão de danos causados ao erário municipal” (Tema nº 642 – www.stf.jus.br – Jurisprudência – Repercussão Geral).
+    Isso significa que se impõe, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução destes autos ao Tribunal de origem, para que, neste, seja observado  o disposto no art. 543-B e respectivos parágrafos do CPC (Lei nº 11.418/2006).
+    Publique-se.
+    Brasília, 03 de setembro de 2014.
+Ministro CELSO DE MELLO
+Relator
