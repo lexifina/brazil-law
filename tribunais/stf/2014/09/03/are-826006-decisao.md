@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão, que constatou a validade da intimação do Estado de Bahia, ora recorrente, feita por meio de publicação (fl. 343-345).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XXXV, LV e LVI; 24, IX; 37, I; 42, § 1º; 93, IX, do texto constitucional.
+    Nas razões recursais, aduz-se que o acórdão recorrido é nulo porque não houve a intimação pessoal do procurador estadual quanto à decisão nos embargos de declaração de fls. 327, conforme determina a legislação local (fl. 374).
+    Decido.
+    O recorrente sustenta que “a matéria deste recurso versa unicamente quanto ´a nulidade da decisão do TJ de não devolver ao Estado da Bahia o direito de apresentar o recurso especial e extraordinário pelo não atendimento da legislação estadual vigente e do decreto judiciário” (fl. 374).
+    Conforme consta dos autos, o tribunal a quo decidiu que, “apesar de estar em vigor a Lei Complementar nº 34/2009, na época em que ocorreu a intimação, o referido art. 53, III não tem o condão de estabelecer a obrigatoriedade de que seja realizada a intimação pessoal do Procurador Estadual” (fl.343-344).
+    O acórdão recorrido, ao examinar a legislação estadual, entendeu que o procurador do Estado da Bahia não tem direito à intimação pessoal. Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Incidência da súmula 636.
+    A propósito, cito os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 776.282-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 12.3.2010 - grifei).
+    “AGRAVO REGIMENTAL. INEXISTÊNCIA DE OFENSA AOS ARTIGOS 5º, XXXV, LIV E LV, e 93, IX, DA CONSTITUIÇÃO. O Tribunal de origem prestou jurisdição por acórdão devidamente fundamentado, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa. Ainda que assim não fosse, esta Corte firmou entendimento no sentido de que, em regra, as alegações de afronta aos mencionados princípios configuram, quando muito, ofensa indireta ou reflexa à Constituição da República. Agravo regimental a que se nega provimento” (AI 602.224-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 7.12.2010 - grifei).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 3 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
