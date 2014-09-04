@@ -1,0 +1,41 @@
+Trata-se de reclamação, com pedido de medida liminar, proposta pelo Distrito Federal, contra acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça nos autos do Recurso em Mandado de Segurança 35.296/DF, que teria ofendido o quanto decidido pelo Plenário desta Corte na Ação Direta de Inconstitucionalidade 3.601-ED/DF, Rel. Min. Dias Toffoli.
+    A decisão ora reclamada porta a seguinte ementa:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR DISTRITAL. POLICIAL. DEMISSÃO EFETIVADA POR ATO BASEADO NA LEI DISTRITAL 3.642/2005. INCONSTITUCIONALIDADE. EFEITOS 'EX NUNC' QUE ALCANÇARAM O DECRETO DE DEMISSÃO. ANULAÇÃO. IMPERATIVA. DIREITO LÍQUIDO E CERTO PRESENTE.
+    1. Cuida-se de recurso ordinário interposto contra acórdão que denegou a segurança ao pleito de anulação do Decreto de demissão do impetrante; alega o recorrente que o ato reputado coator foi publicado em 29.9.2009, tendo sido baseado em processo disciplinar conduzido sob a égide da Lei Distrital n. 3.462/2005, que veio a ser declarada inconstitucional pelo Supremo Tribunal Federal.
+    2. O Tribunal de origem considerou que o atacado Decreto não padeceria de nulidade, uma vez que os efeitos da ADI 3601/DF foram modulados para que somente fosse declarada a inconstitucionalidade 'ex nunc' da norma, ou seja, a partir da data de publicação do acórdão, que ocorreu em 21.8.2009; com tal interpretação, o decreto seria válido, pois o relatório da comissão processante seria datado de 2.10.2007.
+    3. É sabido que as autoridades julgadoras, em sede de processo administrativo disciplinar, não são obrigadas a acatar os relatórios finais das comissões processantes e, por tal motivo, os atos coatores, nos casos de demissões efetivadas, são as decisões de julgamento administrativo.
+    4. Do cotejo das datas se visualiza que a declaração de inconstitucionalidade, no caso concreto, alcançou o momento de publicação do Decreto de demissão no Diário Oficial e, portanto, carece de supedâneo legal, devendo ser anulado.
+    Recurso ordinário provido” (página 47 do documento eletrônico 5).
+    Os embargos de declaração opostos em seguida contra esse aresto foram rejeitados.
+    O reclamante sustenta, em suma, que se trata,
+    “na origem, de ação mandamental que questiona exclusivamente a validade de processo administrativo disciplinar que culminou com pena de demissão e se desenvolveu à luz da Lei distrital 3.642/2005, julgada inconstitucional por esse Supremo Tribunal Tribunal por vício de incompetência legislativa” (página 2 do documento eletrônico 2).
+    Acrescenta que,
+    “por força de modulação de efeitos, definida em sede de embargos de declaração, a nulidade da Lei 3.642/2005 só se tornou efetiva a partir de 21 de agosto de 2009 e o decreto governamental demissório foi expedido em 28 de setembro de 2009, o eg. Superior Tribunal de Justiça houve por bem considerar que a imposição da pena integra o procedimento, que resultou viciado da inconstitucionalidade proclamada por esse Supremo Tribunal – com base nisto, concedeu a segurança” (página 2 do documento eletrônico 2).
+    Aduz, mais, que a lei distrital fulminada dispôs apenas sobre a Comissão Permanente de Disciplina da Polícia Civil do Distrito Federal, sem tratar do rito do processo administrativo disciplinar nem da competência para imposição de penalidades.
+    Salienta, assim, que “a competência do Governador do Distrito Federal para a imposição da penalidade não estava prevista na lei proclamada inconstitucional” (páginas 3-4 do documento eletrônico 2).
+    Afirma que
+    “concluídos os trabalhos da Comissão Processante, exauriu-se o alcance da norma proclamada inconstitucional, conforme modulação dos efeitos da declaração de inconstitucionalidade, definida em sede de embargos de declaração, cuja ementa consigna a 'Necessidade de preservação dos atos praticados pela Comissão Permanente de Disciplina da Polícia Civil do Distrito Federal durante os quatro anos de aplicação da lei declarada inconstitucional'” (página 4 do documento eletrônico 2).
+    Sustenta que, em 21/8/2009, “o único ato administrativo a ser praticado no processo administrativo disciplinar era o próprio ato demissório, da competência do Sr. Governador do Distrito Federal” (página 4 do documento eletrônico 2), uma vez que a Comissão Permanente de Disciplina já havia concluído seus trabalhos, nos termos da modulação de efeitos determinada por esta Corte.
+    Pugna, por tais razões, pela concessão de liminar para suspender o RMS 35.296/DF, que tramitou no Superior Tribunal de Justiça.
+    No mérito, requer a cassação do aresto reclamado, restaurando-se a denegação da segurança, conforme decisão do Tribunal de Justiça do Distrito Federal e Territórios.
+    Deferi o pedido de liminar em 21/3/2014 para suspender os efeitos do acórdão da Segunda Turma do Superior Tribunal de Justiça que deu provimento ao RMS 35.296/DF, até o julgamento de mérito desta reclamação.
+    Requisitadas previamente, foram prestadas informações e recebidas por esta Corte em 4/4/2014.
+    O interessado, Ademar Alves Rabelo Júnior, apresentou contrarrazões (documento eletrônico 12).
+    A Procuradoria-Geral da República manifestou-se pela procedência da reclamação. O parecer ofertado porta a seguinte ementa:
+    “RECLAMAÇÃO. RECURSO EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. DECISÃO IMPUGNADA CONTRÁRIA A MODULAÇÃO DOS EFEITOS DA DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL NA ADI 3.601-DF.
+    1. A conclusão dos trabalhos realizados pela Comissão Permanente de Disciplina ocorreu dentro do período em que a lei declarada inconstitucional operou efeitos, nos termos da modulação determinada pelo Supremo Tribunal Federal.
+    2. A competência do Governador para expedir decreto demissório não foi objeto da ADI 3.601/DF, na qual declarou-se a inconstitucionalidade formal de lei editada pelo Distrito Federal em matéria reservada à competência legislativa da União, ao dispor sobre a ‘Comissão Permanente de Disciplina da Polícia Civil do Distrito Federal’.
+    3. Parecer pela procedência da reclamação”.
+    É o relatório. Decido.
+    Esta Corte Suprema, o julgar os embargos de declaração opostos na ADI 3.601-DF, deu-lhes provimento “para esclarecer que a decisão de declaração de inconstitucionalidade da Lei Distrital 3.642/2008 tem eficácia a partir da data da publicação do acórdão embargado, ocorrida em 21 de agosto 2009”.
+    Como consignei quando da decisão do pedido de liminar, o Relatório Final da Comissão Permanente de Disciplina da Polícia Civil do Distrito Federal foi elaborado e entregue em um momento em que todos os atos praticados por ela restaram definitivamente preservados pela decisão do Plenário desta Corte que modulou os efeitos da declaração de inconstitucionalidade da Lei Distrital 3.642/2005.
+    Deste modo, o raciocínio desenvolvido pelo decisum ora impugnado, no sentido de que o relatório da Comissão anteriormente elaborado não poderia ser homologado pelo ato final de aplicação da penalidade de demissão, afronta a autoridade da orientação desta Corte dotada de efeito vinculante que conferiu total higidez aos atos da referida comissão disciplinar anteriores a 21/8/2009.
+    Com razão o entendimento sustentado pelo parecer ministerial, do qual transcrevo o seguinte trecho (documento eletrônico 20):
+    “Outrossim, o decreto de demissão baixado pelo Governador do Distrito Federal não foi alcançado pela ADI 3.601/DF, embora tenha sido publicado em data posterior a da publicação do acórdão paradigma. Isso porque a competência do Governador para expedir decreto demissório não foi objeto da ADI 3.601/DF, na qual declarou- se a inconstitucionalidade formal de lei editada pelo Distrito Federal em matéria reservada à competência legislativa da União, ao dispor sobre a “Comissão Permanente de Disciplina da Polícia Civil do Distrito Federal”.
+    Nesse contexto, o aresto reclamado aplicou indevidamente os efeitos do pronunciamento deste Tribunal pela inconstitucionalidade da Lei Distrital 3.642/2005 para invalidar ato administrativo que não seria por ela alcançado, por absoluta ausência de pertinência material.
+    Isso posto, julgo procedente esta reclamação.
+    Comunique-se.
+    Publique-se.
+    Brasília, 4 de setembro de 2014.
+Ministro Ricardo Lewandowski
+Relator
