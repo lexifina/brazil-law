@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EXECUÇÃO. CONTRATO DE LOCAÇÃO. AUSÊNCIA DE ASSINATURA DE DUAS TESTEMUNHAS. TÍTULO EXTRAJUDICIAL. EXCESSO NÃO CONFIGURADO. TÍTULO PATRIMONIAL DE ASSOCIAÇÃO. POSSIBILIDADE DE CONSTRIÇÃO. SUCUMBÊNCIA RECÍPROCA (...)”. (eDOC 7, p. 17)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação do artigo 5º, XVIII, do texto constitucional.
+    Aponta-se que o acórdão recorrido não respeitou o disposto no estatuto da associação ao declarar a possibilidade de constrição do título patrimonial.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que divergir do entendimento adotado pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, a análise de eventuais cláusulas contratuais e de legislação infraconstitucional aplicável à espécie, hipóteses que não ensejam a abertura da via extraordinária. Incidem na espécie, portanto, os Enunciados 279 e 454 da Súmula do STF.
+    Sobre o tema, confira-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PENHORA. BEM DE FAMÍLIA. EXCEÇÃO LEGAL. 1. NECESSIDADE DE ANÁLISE PRÉVIA DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. 2. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 712.129-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 02.9.2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. BEM DE FAMÍLIA. PENHORA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. LEI Nº 8.009/91. OFENSA INDIRETA. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO STF. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. A Súmula 279/STF dispõe: “Para simples reexame de prova não cabe recurso extraordinário”. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. In casu, o acórdão recorrido assentou: “AGRAVO DE INSTRUMENTO – HONORÁRIOS ADVOCATÍCIOS –EMBARGOS À EXECUÇÃO – 1. Preliminar suscitada pelo agravado em contraminuta de descumprimento do art. 526 do Código de Processo Civil. Fato alegado e não comprovado. Inexistência de prejuízo. Preliminar repelida. Agravo conhecido. 2. Bem de família. Decisão que manteve as hastas anteriormente designadas. Não comprovado, diante da falta de averbação a época da penhora, ser o único bem da agravada – Decisão mantida – Recurso não provido.” 5. Agravo regimental a que se nega provimento”. (ARE 658.110-AgR/DF, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.8.2012)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 4 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
