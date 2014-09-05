@@ -1,0 +1,3 @@
+# Altera a Lei Complementar nº 64, de 25 de março de 2002, que institui o Regime Próprio de Previdência e Assistência Social dos Servidores Públicos do Estado de Minas Gerais, e a Lei Complementar nº 100, de 5 de novembro de 2007, que institui a Unidade de Gestão Previdenciária Integrada - Ugeprevi - do Regime Próprio de Previdência dos Servidores Públicos do Estado de Minas Gerais e do Regime Próprio de Previdência dos Militares do Estado de Minas Gerais e o Conselho Estadual de Previdência - Ceprev -, e dá outras providências.
+O GOVERNADOR DO ESTADO DE MINAS GERAIS,
+O Povo do Estado de Minas Gerais, por seus representantes, decretou e eu, em seu nome, promulgo a seguinte Lei Complementar:
