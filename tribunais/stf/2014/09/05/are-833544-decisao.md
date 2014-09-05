@@ -1,0 +1,16 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto em face de acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+    “AGRAVO INTERNO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL PROPRIEDADE RURAL. ÁREA INFERIOR AO MÓDULO RURAL. IMPENHORABILIDADE. DECISÃO AGRAVADA MANTIDA. I- Tratando-se de imóvel rural com área inferior ao módulo rural da Região, com comprovação de que se trata de imóvel trabalhado pela família, de se manter a decisão agravada que declarou sua impenhorabilidade. Ainda que oferecido em hipoteca no contrato executado, prevalece o disposto no art. 5°, inc. XXVI, da CF/88 e art. 649, inc. VIII, do CPC que dispõe que a pequena propriedade rural – definida no art.4° da Lei n° 8.629/93 – não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento. Precedentes desta Corte e do STJ. II – Manutenção da decisão monocrática que negou seguimento ao recurso com base no artigo 557, caput, do CPC.” (fls.189)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, aponta-se ofensa ao art. 5°, XXVI, e 185, I, do Texto Constitucional.
+     Alega-se não bastar que o tamanho da propriedade se encaixe no conceito de pequena propriedade rural. É necessário também o preenchimento dos demais requisitos, quais sejam: ser o único bem do devedor e que seja utilizado para o próprio sustento.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem assentou que os elementos fático-probatórios contidos nos autos não demonstram violação ao art.5, XXVI, e 185, I, da Constituição Federal, conforme se verifica:
+    “O artigo 3°, inciso V, da Lei n. 8.009/901, segundo o qual a impenhorabilidade do bem de família é inoponível à execução de hipoteca sobre o imóvel oferecido como garantia real não alcança, preenchidos os requisitos do inc. XXVI do art. 5° da Constituição da República, à pequena propriedade rural trabalhada pela família, como no caso dos autos, em que restou demonstrado por meio da documentação encartada nas fls. 115/121 que o bem penhorado se trata de pequena propriedade rural, da qual o executado e sua família retiram, com exclusividade, os meios de subsistência.”
+    Assim, para se entender de forma diversa, é imprescindível o reexame do conjunto fático-probatório, procedimento vedado no âmbito do recurso extraordinário. Incide na espécie a Súmula 279 desta corte. Nesse sentido:
+    “AGRAVO REGIMENTAL. ALEGAÇÃO DE OFENSA AO ART. 5º, III E LV, DA CONSTITUIÇÃO FEDERAL. NECESSIDADE DE APRECIAÇÃO DOS FATOS E DAS PROVAS DA CAUSA. 1. Incabível o Recurso Extraordinário nos casos em que se impõe o reexame do quadro fático-probatório para apreciar a apontada ofensa à Constituição Federal. Incidência da Súmula STF 279. Agravo regimental improvido”. (AI-AgR 761.897, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 30.4.2010)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 5 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
