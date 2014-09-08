@@ -1,0 +1,5 @@
+Solução de Divergência Cosit nº 10, de 14 de agosto de 2014
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF
+EMENTA: Os valores recebidos a título de resgate, que só poderá ocorrer enquanto não cumpridas as condições contratuais para o recebimento do benefício, por não configurar complemento de aposentadoria, estão sujeitos à incidência do imposto sobre a renda, ainda que efetuado por portador de moléstia grave. No transcurso do pagamento do benefício inexiste a possibilidade da ocorrência de resgate, nos termos previstos nas normas previdenciárias em vigor.
+DISPOSITIVOS LEGAIS: inciso XIV do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988; art. 30 e § 2º da Lei nº 9.250, de 26 de dezembro de 1995; incisos XXXI e XXXIII do caput e §§ 4º a 6º, do art. 39 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999); Solução de Consulta Interna Cosit nº 36, de 17 de dezembro de 2003; inciso XXXV do art. 5º da Resolução CNSP nº 139, de 27 de dezembro de 2005; arts. 19, 20 e 24 da Resolução MPS/CGPC nº 6, de 30 de outubro de 2003.
+[arquivo anexo: SD Cosit nº 10-2014.pdf]
