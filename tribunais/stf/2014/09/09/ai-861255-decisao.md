@@ -1,0 +1,15 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no AI 735.933-RG/RS, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “EMPRÉSTIMOS COMPULSÓRIOS SOBRE O CONSUMO DE ENERGIA ELÉTRICA. Lei 4.156/62. RESTITUIÇÃO. CRITÉRIOS DE CORREÇÃO MONETÁRIA. MATÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Cumpre ressaltar, de outro lado, no tocante à questão do prazo de prescrição do crédito discutido nos autos, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia em causa, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 815.108-AgR/RS, Rel. Min. CÁRMEN LÚCIA – AI 838.660- -AgR/RS, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “Empréstimo compulsório sobre energia elétrica. Eletrobras. Prazo prescricional. Ofensa constitucional indireta.
+    1. A matéria relativa ao prazo de prescrição dos créditos referentes ao empréstimo compulsório sobre a energia elétrica é de índole infraconstitucional. Eventuais ofensas à Constituição seriam indiretas ou reflexas, pois ensejariam o reexame de normas infraconstitucionais.
+    2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional.
+    3. Agravo regimental ao qual se nega provimento.”
+    (AI 818.161-AgR/DF, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, nego provimento ao presente agravo de instrumento.
+    Publique-se.
+    Brasília, 09 de setembro de 2014.
+Ministro CELSO DE MELLO
+Relator
