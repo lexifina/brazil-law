@@ -1,0 +1,17 @@
+Decisão:
+Ementa: Habeas corpus. Decisão denegatória de liminar. Descabimento. Tráfico de drogas. Crack e maconha. Regime prisional. Circunstâncias desfavoráveis. Writ não conhecido.
+    1.  Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida no HC 299.720, em tramitação no Superior Tribunal de Justiça.
+    2.  Extrai-se dos autos que o paciente, preso em flagrante em 17.10.2013, foi condenado pela prática do delito de tráfico de drogas à pena de 3 anos e 6 meses de reclusão, em regime inicialmente fechado, mantida a prisão cautelar.
+    3.  Da sentença a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo e, após o indeferimento da medida liminar, apresentou pedido de soltura do paciente ao Superior Tribunal de Justiça (eDoc 03, fls. 199). O Ministro Felix Fischer indeferiu o pedido de liminar, com fundamento na inadequação da via eleita e na ausência de flagrante ilegalidade na determinação do regime prisional, tendo em vista as circunstâncias judiciais desfavoráveis.
+    5.  Neste habeas corpus, o impetrante afirma que o regime inicial de cumprimento de pena foi determinado em contrariedade à jurisprudência do Supremo Tribunal Federal. Alega também ausência de fundamentação idônea para a prisão cautelar. Requer, assim, a superação do entendimento da Súmula 691/STF, para o fim de imediata expedição de alvará de soltura em favor do ora paciente.
+    Decido.
+    6.  Inicialmente ressalto que o Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7.  A hipótese dos autos não autoriza a superação do entendimento da Súmula 691 do Supremo Tribunal Federal. Em primeiro lugar, porque as decisões precedentes não são teratológicas. Ademais, a decisão denegatória de liminar impugnada pelo impetrante está alinhada com a orientação do Supremo Tribunal Federal, no sentido de que a presença de circunstâncias judiciais desfavoráveis autoriza a imposição de regime prisional mais gravoso.
+    8. Quanto ao mais, a ausência da decisão que converteu a prisão em flagrante em preventiva inviabiliza o exame de eventual concessão da ordem de ofício, notadamente porque “a ação de habeas corpus - que possui rito sumaríssimo - não comporta, em função de sua própria natureza processual, maior dilação probatória, eis que ao impetrante compete, na realidade - sem prejuízo da complementação instrutória ministrada pelo órgão coator -, subsidiar, com elementos documentais pré-constituídos, o conhecimento da causa pelo Poder Judiciário. A utilização adequada do remédio constitucional do habeas corpus impõe, em conseqüência, seja o writ instruído, ordinariamente, com documentos suficientes e necessários à analise da pretensão de direito material nele deduzida." (HC 68.698/SP, Rel. Min. Celso de Mello).
+    9. Nessas condições, considero inviável o acolhimento do pedido de supressão de instância, de modo que, com base no art. 38 da Lei nº 8.038/1990, c/c o art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Intime-se.
+          Brasília, 09 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
