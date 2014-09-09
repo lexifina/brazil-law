@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IPVA. IMUNIDADE RECÍPROCA. AUTARQUIA. PRESTAÇÃO DE SERVIÇO PÚBLICO DE ÁGUA E ESGOTO. SERVIÇO PÚBLICO ESSENCIAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. A imunidade recíproca prevista no artigo 150, VI, a, da Constituição Federal alcança as autarquias e empresas públicas que prestem serviço público desde que observados os demais requisitos constitucionais. Precedentes: RE 486.306-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 6/3/2012, e RE 399.307-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe de 30/4/2010.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “EMENTA: CONSTITUCIONAL TRIBUTÁRIO – SERVIÇO AUTÔNOMO MUNICIPAL – IPVA – IMUNIDADE – SENTENÇA DE PROCEDÊNCIA – CONFIRMAÇÃO.”
+4. Recurso extraordinário DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário interposto pelo ESTADO DE MINAS GERAIS manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “EMENTA: CONSTITUCIONAL TRIBUTÁRIO – SERVIÇO AUTÔNOMO MUNICIPAL – IPVA – IMUNIDADE – SENTENÇA DE PROCEDÊNCIA – CONFIRMAÇÃO.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões do apelo extremo sustenta preliminar de repercussão geral e, no mérito alega violação ao artigo 150, §3º, da Constituição Federal.
+    É o relatório. DECIDO.
+    O Ministro Eros Grau, a quem sucedi, determinou o sobrestamento destes autos, até o julgamento do RE 518.256. Entretanto, tendo em vista que foi proferida decisão nos referidos autos sobre matéria distinta da ora em análise, afasto o sobrestamento e passo a análise do feito.
+    O recurso não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    O acórdão recorrido não divergiu do entendimento firmado por esta Corte, no sentido de que a imunidade recíproca prevista no artigo 150, VI, a, da Constituição Federal alcança as autarquias e empresas públicas que prestem serviço público desde que observados os demais requisitos constitucionais. Nesse sentido, RE 486.306-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 6/3/2012, e RE 399.307-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe de 30/4/2010, que possui a seguinte ementa:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE RECÍPROCA. AUTARQUIA. SERVIÇO PÚBLICO DE ÁGUA E ESGOTAMENTO. ATIVIDADE REMUNERADA POR CONTRAPRESTAÇÃO. APLICABILIDADE. ART, 150, §3º DA CONSTITUIÇÃO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. 1. Definem o alcance da imunidade tributária recíproca sua vocação para servir como salvaguarda do pacto federativo, para evitar pressões políticas entre entes federados ou para desonerar atividades desprovidas de presunção de riqueza. 2. É aplicável a imunidade tributária recíproca às autarquias e empresas públicas que prestem inequívoco serviço público, desde que, entre outros requisitos constitucionais e legais não distribuam lucros ou resultados direta ou indiretamente a particulares, ou tenham por objetivo principal conceder acréscimo patrimonial ao poder público (ausência de capacidade contributiva) e não desempenhem atividade econômica, de modo a conferir vantagem não extensível às empresas privadas (livre iniciativa e concorrência). 3. O Serviço Autônomo de Água e Esgoto é imune à tributação por impostos (art. 150, VI, a e §§ 2º e 3º da Constituição). A cobrança de tarifas, isoladamente considerada, não altera a conclusão. Agravo regimental conhecido, mas ao qual se nega provimento.”
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 9 de setembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
