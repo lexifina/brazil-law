@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CORREÇÃO MONETÁRIA DE DÉBITOS JUDICIAIS. ÍNDICES APLICÁVEIS EM SITUAÇÃO DE DEFLAÇÃO ECONÔMICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+    “PROCESSUAL CIVIL E ECONÔMICO. ACÓRDÃO PROFERIDO AINDA NÃO TRANSITADO EM JULGADO. UTILIZAÇÃO COMO JURISPRUDÊNCIA. POSSIBILIDADE. RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. EXECUÇÃO DE SENTENÇA QUE DETERMINOU CORREÇÃO MONETÁRIA PELO IGP-M. ÍNDICES DE DEFLAÇÃO. APLICABILIDADE, PRESERVANDO-SE O VALOR NOMINAL DA OBRIGAÇÃO.
+    1. O julgamento do recurso em sessão pública possibilita o uso da orientação nele adotada como precedente para casos idênticos, ainda que pendente de publicação ou, caso já publicado, ainda não haja transitado em julgado. Precedentes do STF e do STJ.
+    2. A correção monetária nada mais é do que um mecanismo de manutenção do poder aquisitivo da moeda, não devendo representar, consequentemente, por si só, nem um plus nem um minus em sua substância. Corrigir o valor nominal da obrigação representa, portanto, manter, no tempo, o seu poder de compra original, alterado pelas oscilações inflacionárias positivas e negativas ocorridas no período. Atualizar a obrigação levando em conta apenas oscilações positivas importaria distorcer a realidade econômica produzindo um resultado que não representa a simples manutenção do primitivo poder aquisitivo, mas um indevido acréscimo no valor real. Nessa linha, estabelece o Manual de Orientação de Procedimento de Cálculos aprovado pelo Conselho da Justiça Federal que, não havendo decisão judicial em contrário, ‘os índices negativos de correção monetária (deflação) serão considerados no cálculo de atualização’, com a ressalva de que, se, no cálculo final, ‘a atualização implicar redução do principal, deve prevalecer o valor nominal’.
+    3. Precedente da Corte Especial: REsp 1.265.580/RS, Min. Teori Albino Zavascki, julgado em 21/03/2012.
+    4. Em recurso especial, não cabe examinar alegações de ofensa à Constituição Federal, matéria própria de recurso extraordinário.
+    5. Agravo regimental a que se nega provimento”.
+    2. O Recorrente alega ter o Tribunal de origem contrariado os arts. 7º, inc. VI, e 37, inc. XV, da Constituição da República.
+    Argumenta que
+    “a correção monetária é uma mera atualização do valor da moeda. Assim, quando verificada deflação do índice do IGP-DI, deve ser utilizado índice igual a ‘zero’, a fim de evitar o deságio, ainda mais quando se trata de verba salarial (honorários advocatícios), como o caso em epígrafe.
+    (…)
+    Ora, a aplicação dos índices negativos do IGP-DI é contrária aos princípios da correção monetária, bem como do Princípio Constitucional da Irredutibilidade do Vencimento, conforme aludidos arts. 7º, VI, e 37, XV, ambos da CF/88, haja vista que, se utilizado índices negativos, por óbvio estar-se-ia diminuindo o valor da verba salarial reconhecida”.
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. O Tribunal de origem limitou-se a afirmar ser “a correção monetária (…) um mecanismo de manutenção do poder aquisitivo da moeda, não devendo representar, consequentemente, por si só, nem um plus nem um minus em sua substância”, razão pela qual deve “manter, no tempo, o (…) poder de compra original, alterado pelas oscilações inflacionárias positivas e negativas ocorridas no período” (grifos nossos).
+    No julgamento do Recurso Extraordinário n. 729.011, Relator o Ministro Teori Zavascki, este Supremo Tribunal assentou a inexistência de repercussão geral da questão discutida na espécie:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. CORREÇÃO MONETÁRIA DOS DÉBITOS JUDICIAIS. DEFLAÇÃO. APLICAÇÃO DOS ÍNDICES NEGATIVOS DO IGP-M. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à legitimidade da aplicação dos índices negativos do IGP-M para fins de correção monetária dos débitos judiciais é de natureza infraconstitucional (RE 735.634-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/11/2013; e AI 858.419-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 20/11/2013). 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC” (DJe 28.8.2014, grifos nossos).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e arts. 21, § 1º, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de setembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
