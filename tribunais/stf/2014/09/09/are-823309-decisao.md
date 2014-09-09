@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo contra inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 2ª Região, ementado nos seguintes termos:
+    “ADMINISTRATIVO. PROFISSIONAIS DE SAÚDE. CUMULAÇÃO DE CARGOS. PORTARIA MINISTERIAL.
+    1. Ao cuidar da excepcionalidade da cumulação de cargos públicos, permitiu a Carta da República ‘a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas’, quando houver compatibilidade de horários (art. 37, XVI, c). No entanto, tal dispositivo jamais poderia significar – sob pena de violar os direitos constitucionais dos trabalhadores e os princípios fundamentais da dignidade humana e dos valores sociais do trabalho (art. 1º, III e IV, da CF) – que, havendo compatibilidade, a acumulação legitimaria jornadas de trabalho ilimitadas, em plantões sucessivos exagerados e exasperantes, pois, desta forma, haveria involução na proteção do trabalhador incompatível com a nossa Constituição.
+    2. No caso, a impetrante exerce dois cargos de Enfermeira: no Hospital Federal dos Servidores do Estado, com carga horária de 40 horas semanais, cumprindo, contudo, somente 30 horas, por força da Portaria nº 1.281/06 do Ministério da Saúde, trabalhando em regime de plantão, no horário das 7h às 19h; e no Instituto Estadual de Doenças do Tórax Ary Parreiras, com carga horária de 24 horas semanais, igualmente em regime de plantão, perfazendo carga horária total de 64 horas semanais.
+    3. ‘A Portaria Ministerial não gera direito adquirido à carga horária de 30h semanais, podendo ser revogada a qualquer tempo, razão pela qual deve ser considerada a carga horária contratada’ (TRF2, 7ª Turma Esp., AI nº 2012.02.01.004229-3, Rel. Des. Fed. José Antônio Lisbôa Neiva, decisão proferida em 12.04.2012).
+    4. Não restou comprovada a existência de uma rotina de trabalho que se prolongue ao longo dos meses e que permita aferir a compatibilidade de horários. Ao revés: apenas restou demonstrada a natural mutabilidade de horários, conforme a necessidade do serviço, e a demasia de se cumularem 64 horas de trabalho.
+    5. Ademais, ainda que os horários de trabalho não se sobreponham, há necessidade de intervalo de descanso suficiente para repouso, alimentação e locomoção, sob pena de causar danos à própria saúde e ao serviço desempenhado, especialmente quando se lida com a saúde alheia.
+    6. Apelação e remessa necessária providas”. (fls. 201-202)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação ao artigo 37, XVI, “c”, do texto constitucional.
+    Nas razões recursais, argumenta-se que a Constituição não limita a possibilidade de acumulação a um número específico de carga horária, mas apenas condicionou o exercício da profissão à compatibilidade de horários, cuja aferição deve ser feita pela própria Administração Pública. Afirma-se que a parte recorrente demonstrou, nos autos, essa compatibilidade. (fl. 217)
+    Aduz-se ainda ofensa aos princípios do contraditório e da ampla defesa. (fl. 219)
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque o Tribunal de origem, com fundamento no conjunto fático-probatório dos autos, consignou que a jornada de trabalho da parte recorrida não permite a cumulação de cargos.
+    Desse modo, para se entender de forma diversa do assentado pelo acórdão recorrido, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível pela via do recurso extraordinário, conforme disposto no Enunciado 279 da Súmula do STF. Nesse sentido, confira-se o AI-AgR 733.152, Rel. Min. Eros Grau, DJe 17.4.2009:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PROCESSO SELETIVO. ACUMULAÇÃO DE CARGOS. INCOMPATIBILIDADE DE HORÁRIO. IMPOSSIBILIDADE. SÚMULA 279/STF. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento.”
+    Por fim, no tocante à suposta violação aos princípios do contraditório e da ampla defesa, verifico que o Supremo Tribunal Federal já apreciou a matéria dos autos no julgamento do ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 9 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
