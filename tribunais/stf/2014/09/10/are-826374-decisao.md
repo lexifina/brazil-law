@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário, que impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+    Na espécie, Mauro Ferreira dos Santos, ora recorrente, foi denunciado pela suposta prática do delito previsto no art. 157, § 2º, incisos I e IV, do Código Penal, por ter, em tese, subtraído uma carteira contendo R$ 150,00 (cento e cinquenta reais) em dinheiro, carteira de identidade e cartão de banco de propriedade de certa vítima, isso mediante grave ameaça exercida com emprego de uma tesoura, em comunhão de desígnios com terceira pessoa (eDOC 1, p. 4-5).
+    O Juízo de Direito da 6ª Vara Criminal da Comarca de Belo Horizonte/MG absolveu o réu, ante nebulosidade, contradição e dúvida das provas quanto à autoria delitiva, incidindo o princípio do in dubio pro reo (eDOC 3, p. 52-73).
+    Foi interposta apelação criminal pelo órgão acusador, a qual restou provida. Eis o teor da ementa do julgado:
+    “APELAÇÃO CRIMINAL - ROUBO MAJORADO - RECONHECIMENTO PRECISO DA VÍTIMA - INCERTEZAS INEXISTENTES - CONTRADIÇÕES DO RECORRIDO - AUTORIA COMPROVADA - CONDENAÇÃO LANÇADA - APELO PROVIDO. - Comprovada a materialidade do delito e atestada a autoria pelo reconhecimento preciso trazido pela vítima e pelos depoimentos esclarecedores da vítima e das testemunhas, impende condenar o acusado nas sanções respectivas. - Apelo provido”. (eDOC 4, p. 35).
+    Opostos embargos de declaração, nos quais se questionou, entre outros apontamentos, a condenação ao pagamento de custas. Os embargos restaram rejeitados nos seguintes termos:
+    “EMBARGOS DE DECLARAÇÃO - ROUBO QUALIFICADO - DEVIDA FUNDAMENTAÇÃO NA APLICAÇÃO DA PENA - QUANTUM ADEQUADO PARA MAJORAÇÃO - AUSÊNCIA DE OMISSÃO - IMPOSIÇÃO EM CUSTAS - RÉU ASSISTIDO PELA DEFENSORIA PÚBLICA - ENCARGO OFICIAL PREVISTO NO CPP - IMPOSSIBILIDADE DE EXCLUSÃO. - A biqualificação do delito enseja maior elevação da pena-base, prevendo-se para o roubo, majoração de um terço até metade. - Tratando-se a imposição em custas de expressa disposição legal, cuidando-se de encargo previsto no art. 804 do CPP, deve o ônus fazer parte da sentença, relegando-se à execução do título condenatório a apreciação de eventual pedido de isenção. - Embargos rejeitados”. (eDOC 4, p. 57).
+    Daí a interposição do apelo extremo.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, do permissivo constitucional, sustenta-se violação aos artigos 5º, inciso LXXIV, e 24, incisos I e IV, ambos da Constituição Federal (eDOC 5, 18-25).
+    A defesa afirma que, a despeito do prescrito no art. 804, do CPP, norma de caráter geral, que determinação a condenação obrigatória do vencido em custas judiciais, bem como o art. 12 da Lei n. 1.060/50, que condiciona a isenção do pagamento de custas à condição financeira do vencido no prazo de cinco anos, o art. 10, inciso II, da Lei n. 14.939/2003, de Minas Gerais, determina a isenção da condenação em custas aos beneficiários da assistência judiciária gratuita, sem ratificar a possibilidade de cobrança do referido encargo caso o vencido passe a ter condições financeiras no prazo de cinco anos .
+    Nesse sentido, requer a reforma do acórdão combatido, no sentido de isentar o recorrente do pagamento das custas judiciais.
+    O Tribunal a quo negou trânsito ao recurso, ao entender que a suposta ofensa alegada, se existisse, seria reflexa ou indireta, além de invocar as Súmulas 282 e 356 (eDOC 5, p. 46).
+    A Procuradoria-Geral da República opinou, em parecer, pelo desprovimento do agravo (eDOC 7).
+    É o relatório.
+    Decido.
+    As razões recursais não merecem ser acolhidas.
+    Inicialmente, registre-se que o acórdão dos embargos de declaração rejeitou tal apontamento, nos seguintes termos:
+    “Quanto às custas, malgrado sejam muito bem articulados os argumentos apresentados pela Defensoria Pública, compartilhamos de opinião diversa, no sentido de que prevalece quanto a efeitos secundários da condenação a legislação federal, aí incluídas as determinações do Código de Processo Penal, o que nos leva a rejeitar a pretensão de modificação do que restou decidido.
+    Dentre os ônus processuais do condenado, vencido na causa penal instaurada em seu detrimento, posto que reconhecida a sua culpabilidade, encontra-se a condenação em custas, encargo expresso no CPP (art. 804) e que deve constar da sentença desfavorável ao denunciado.
+    Eventual impossibilidade de cumprimento das custas pode até ser apreciada em fase de execução penal, mas o título condenatório deve prever a sua imposição, sob pena de preclusão quanto à determinação de referido ônus.” (eDOC 4, p. 61-62).
+    Nota-se, portanto, que o acórdão recorrido, ao examinar o Decreto-Lei 3.689/41 (Código de Processo Penal), entendeu ser obrigatória a condenação em custas do condenado, sendo a avaliação da hipossuficiência para seu cumprimento analisada pelo Juízo das Execuções. Assim, verifica-se que a matéria debatida pela Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, b, do CPC).
+    Publique-se. Int..
+    Brasília, 10 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
