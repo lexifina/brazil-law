@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+    “MANDADO DE SEGURANÇA – ADMINISTRATIVO – LICITAÇÃO – PRELIMINARES DE INADEQUAÇÃO DA VIA ELEITA E PERDA DE OBJETO – REJEITADAS – NULIDADE DA SENTENÇA POR JULGAMENTO EXTRA PETITA – AFASTADA – VIOLAÇÃO AO PRINCÍPIO DA TRIPARTIÇÃO DOS PODERES – INEXISTENTE – FASE DE HABILITAÇÃO – NÃO COMPROVAÇÃO DOS REQUISITOS RELATIVOS À QUALIFICAÇÃO TÉCNICA – LICITANTE DECLARADA INABILITADA – RECURSO IMPROVIDO.
+    Se do contexto fático-probatório é possível se extrair os elementos necessários à exata compreensão da controvérsia, devem ser afastadas a alegações de ausência de prova pré-constituída e necessidade de dilação probatória.
+    Não há falar em perda do objeto do writ se, na data da impetração, ainda não havia se verificado a adjudicação do objeto licitado. Ademais, ainda que assim não fosse, verificados, no processo licitatório, vícios capazes de macular a lisura e o caráter competitivo do certame, ou obstar a efetiva satisfação do interesse público, mesmo o início da prestação dos serviços não seria óbice a eventual anulação, a posteriori, do procedimento.
+    O art. 131 do Código de Processo Civil garante ao juiz a livre valoração das provas apresentadas pelas partes, segundo seu livre convencimento motivado, não havendo de se cogitar de julgamento ultra petita pelo simples acolhimento da pretensão inaugural sob fundamentos diversos dos apontados na prefacial.
+    Uma vez suscitadas, por meio de mandado de segurança, ilegalidades no processo licitatório, cabe ao Poder Judiciário, por força do princípio da inafastabilidade do controle jurisdicional, perquirir acerca de sua procedência, sem que isto implique em infringência ao disposto no art. 2º da Constituição Federal.
+    Se a licitante não demonstrou o preenchimento dos requisitos relativos à qualificação técnica, não tem direito líquido e certo a ser habilitado no certame.
+    Em se tratando de licitação com vistas à prestação de serviços, cuja satisfatoriedade decorrerá diretamente da habilidade do particular em executar o objeto do contrato, a experiência anterior apresenta especial relevância, servindo de indicativo concreto da efetiva capacitação do licitante. ”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 2º da Constituição.
+    O recurso extraordinário não deve ser admitido. Isso porque a decisão proferida pelo Tribunal de origem se alinha à jurisprudência do Supremo Tribunal Federal no sentido de que não viola o princípio da separação dos Poderes o exame, pelo Poder Judiciário, do ato administrativo tido por ilegal ou abusivo. Nesse contexto, não colide com regras constitucionais a decisão judicial que reconhece ilegalidades em processo licitatório devido à falta de qualificação técnica do licitante vencedor do certame. Nesse sentido, veja-se trecho da ementa do RE 629.574-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    III - Esta Corte possui entendimento no sentido de que o exame pelo Poder Judiciário do ato administrativo tido por ilegal ou abusivo não viola o princípio da separação dos poderes. Precedentes.
+    IV - Agravo regimental improvido.”
+    Ademais, para dissentir do Tribunal de origem e concluir se o ora recorrente possui, ou não, as qualificações técnicas necessárias para ser considerado habilitado na licitação ora em exame, fazem-se necessários a análise dos fatos e do material probatório constantes dos autos, bem como o reexame das cláusulas do edital do certame, providências inviáveis de ser realizadas neste momento processual (Súmulas 279 e 454/STF). Nessa linha, confira-se a ementa do AI 676.855-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no agravo de instrumento. Negativa de prestação jurisdicional. Não ocorrência. Princípios da legalidade, do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Controle judicial. Ato administrativo ilegal. Possibilidade. Licitação. Edital. Regra para habilitação de candidatos. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada.
+    2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República.
+    3. Não viola o princípio da separação dos poderes o controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos.
+    4. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência da Súmula nº 279 desta Corte.
+    5. Agravo regimental não provido.”
+    Outros precedentes: AI 761.552-AgR, Rel. Min. Luiz Fux; AI 764.133-AgR, Rel. Min. Ricardo Lewandowski; e AI 783.659-ED, Rel. Min. Gilmar Mendes.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 11 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
