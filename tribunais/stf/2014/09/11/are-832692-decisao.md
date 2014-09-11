@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO: NEXO DE CAUSALIDADE. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Sexta Turma Especializada do Tribunal Regional Federal da Segunda Região decidiu:
+    “APELAÇÃO. CIVIL. PROCESSO CIVIL. DANO MORAL. RESPONSABILIDADE CIVIL DO ESTADO. DEMORA NO DIAGNÓSTICO DE DOENÇA E REALIZAÇÃO DE CIRURGIA. AUSENCIA DE DE NEXO DE CAUSALIDADE. IMPROVIMENTO.
+    1. Trata-se de apelação cível interposta em ação de rito ordinário objetivando reparação por danos morais, em razão da demora no diagnóstico da doença da autora, qual seja, a presença de nódulo em sua mama esquerda, bem como na realização da cirurgia.
+    2. A Constituição Federal de 1988, em seu art. 5º, X, consagra expressamente o direito a indenização pelo dano moral decorrente da violação da intimidade, da vida privada, da honra e imagem das pessoas. Tal direito decorre da própria dignidade, aí compreendida não só a da pessoa humana, mas aquela inerente ao direito da personalidade da pessoa natural ou jurídica.
+    3. Com efeito, o Laudo pericial informou que ‘O tratamento oncológico oferecido HUAP foi adequado, considerando a situação clínica da paciente, inclusive, com a existência das co-morbidades (item 4)’; e que ‘Não há como se afirmar que o processo de metastatizacão hepática poderia ser evitado. Mesmo que os procedimentos diagnósticos e terapêuticos tivessem sido acelerados, conhecendo-se a história natural dos cânceres mamários, que têm diversas formas de manifestações e evoluções, e variando de paciente para paciente, não há como se afirmar que o aludido tratamento teria evitado ou não o surgimento das metástases hepáticas. Muitos casos, mesmo com os tratamentos feitos em intervalos curtos, surgem com frequência, metástases à distância, em órgãos como fígado, ossos, pulmões, linfonodos, sistema nervoso central, etc (item 5)’; Ressaltou que o espaço de tempo entre a internação da autora e a cirurgia mostrou-se justificável, eis que ‘a paciente apresentava outras enfermidades que precisariam ser controladas, clinicamente, para que a cirurgia proposta pudesse ser realizada com segurança e que o tratamento pós-operatório foi correto’.
+    4. Após o relato dos fatos, não se vislumbra a existência de nexo causal entre o evento e o dano sofrido, devendo o dano ser decorrente de uma conduta específica, o que não é caso dos autos. Nesse sentido, a alegação genérica de que a demora no diagnóstico do câncer de mama da autora, assim como da cirurgia impossibilitou a cura da de sua enfermidade, não restou comprovado, afastando a responsabilidade e o dever de indenizar.
+    5. Apelação improvida. Sentença mantida” (fl. 324, grifos nossos).
+    3. Na decisão agravada, foram adotadas como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 279 do Supremo Tribunal Federal e a ausência de contrariedade direta à Constituição da República.
+    4. A Agravante argumenta que
+     “a contrariedade na aplicação da norma constitucional foi direta na medida em que a regra contida no parágrafo 6º artigo 37 da CRFB deve ser aplicada à espécie. A 6ª Turma do Tribunal Regional Federal analisou a questão da responsabilidade da Agravada sob a ótica da responsabilidade subjetiva enquanto não resta a menor dúvida que é aplicável a norma constitucional contida no dispositivo mencionado que estabelece a responsabilidade objetiva da pessoa jurídica de direito público” (fl. 341).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 37, § 6º, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    A apreciação do pleito recursal dependeria do reexame de provas, procedimento inviável em recurso extraordinário, nos termos da Súmula n. 279 deste Supremo Tribunal:
+    “ADMINISTRATIVO. SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 37, § 6º, DA CF. OFENSA CONSTITUCIONAL REFLEXA. ANÁLISE DOS ASPECTOS FÁTICOS DO NEXO DE CAUSALIDADE ENTRE A CONDUTA DO ESTADO E O DANO. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE 399.284-AgR-segundo, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 22.8.2013, grifos nossos).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência do Supremo Tribunal Federal, pelo que nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de setembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
