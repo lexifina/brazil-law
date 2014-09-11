@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 1ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro, cuja ementa transcrevo a seguir:
+    “PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL. ALTERAÇÃO DO VALOR DO TETO PELAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. BENEFÍCIO NÃO LIMITADO NA ÉPOCA DA CONCESSÃO. DIFERENÇAS. RE 564.354. RECURSO IMPROVIDO”. (eDOC 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a e b, da Constituição Federal, aponta-se violação ao art. 5º, XXXVI, do texto constitucional.
+    Nas razões recursais, alega-se que a elevação do teto do benefício incide sobre a renda mensal inicial da parte recorrente, assim como a não ocorrência da decadência do direito de revisão do benefício previdenciário.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observo que o RE-RG nº 564.354 (Tema 76), Rel. Min. Cármen Lúcia, DJe 15.2.2011, não se aplica ao caso em tela, pois neste paradigma o STF decidiu que não se trata de reajustar ou aumentar benefícios, mas de permitir àqueles limitados ao teto na data da concessão o cálculo com base em limitador mais alto.
+    Na ocasião do julgamento, a Ministra Relatora bem esclareceu o seguinte:
+    “Quarto, não se trata também nem se pediu reajuste automático de nada de reajuste. Discute-se apenas se, majorado o teto, aquela pessoa que tinha pago a mais, que é o caso do recorrido, poderia também ter agora o reajuste até aquele patamar máximo”.
+    Dos autos extrai-se que não se trata do caso em comento, conforme assentou o Tribunal de origem:
+    “No caso em rela, conforme os documentos que instruem os autos, o benefício do autor quando foi concedido não foi limitado ao teto, razão pela qual incabível a presente revisão”. (eDOC 1, p. 2)
+    In casu, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o reexame do conjunto fático-probatório dos autos e a prévia análise de legislação infraconstitucional aplicável à espécie, o que faz incidir o Enunciado 279 da Súmula do STF.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. ATUALIZAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. ÍNDICES DE CORREÇÃO MONETÁRIA. QUESTÃO DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES”. (ARE 786557 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 15.5.2014)
+    “Agravo regimental em recurso extraordinário. 2. Previdenciário. Revisão de benefícios. Vinculação do valor do benefício ao teto de contribuições. Impossibilidade. 3. Matéria restrita à analise de legislação infraconstitucional (Lei 8.213/91). 4. Reexame fático-probatório. Verbete 279 da súmula do STF. Precedentes. 5. Agravo regimental a que se nega provimento”. (RE 581101 AgR, de minha relatoria, Segunda Turma, DJe 14.2.2014)
+    Ademais, anota-se que o debate sobre a decadência previdenciária no caso em tela restringiu-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesse sentido, os seguintes precedentes de ambas as Turmas desta Corte:
+    “DIREITO PROCESSUAL CIVIL E DIREITO PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL. DECADÊNCIA. ALEGADA CONTRARIEDADE AO ART. 5º, CAPUT E XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. DEBATE INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. AS RAZÕES DO AGRAVO REGIMENTAL NÃO SÃO APTAS A INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. ACÓRDÃO RECORRIDO PUBLICADO EM 18.11.2009. O exame da alegada ofensa ao art. 5º, caput, e XXXVI, da Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido”. (ARE 688856 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 27.8.2013)
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL. DECADÊNCIA. ALEGADA CONTRARIEDADE AO ART. 5º, INC. XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 687106 ED, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 14.2.2013)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, §4º, II, b, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 11 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
