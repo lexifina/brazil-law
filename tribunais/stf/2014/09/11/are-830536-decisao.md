@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO RURAL PIGNORATÍCIA (Nº 89/00.368-3). AÇÃO DE REVISÃO C/C REPETIÇÃO DO INDÉBITO.
+    RECURSO DO RÉU. INÉPCIA DA INICIAL. AUSÊNCIA DE INDICAÇÃO DO VALOR DEVIDO. Não enseja o reconhecimento da inépcia da inicial o fato de a parte não ter indicado, na inicial, o valor que entende ser devido, uma vez que, no ato da propositura da demanda, o autor não tinha condições de precisar o montante.
+    IMPOSSIBILIDADE JURÍDICA DO PEDIDO. INOCORRÊNCIA. REPETIÇÃO DE VALORES PAGOS EM RAZÃO DE CONTRATOS JÁ EXTINTOS PELO PAGAMENTO. OFENSA A ATO JURÍDICO PERFEITO. INOCORRÊNCIA. De acordo com a jurisprudência consolidada do STJ e deste Tribunal, é possível a revisão e a repetição de valores pagos em razão de contratos já extintos, não havendo falar em carência de ação ou em ofensa a ato jurídico perfeito.
+    PRESCRIÇÃO DA PRETENSÃO À REPETIÇÃO DE INDÉBITO. DIREITO PESSOAL. PRAZO VINTENÁRIO. ART. 177 DO CC/16. Inocorrência no caso concreto, considerando como termo inicial a data do pagamento da parcela sobre a qual incidiram índices indevidos.
+    LIMITAÇÃO DOS JUROS E AFASTAMENTO DA CAPITALIZAÇÃO. PRESCRIÇÃO PARCIAL.  RECONHECIMENTO. Transcorridos mais de vinte anos desde a celebração do contrato, deve-se reconhecer a prescrição da pretensão à revisão dos encargos estipulados na avença original, permitindo-se o exame, apenas, dos encargos cobrados após o aditamento realizado.
+    CORREÇÃO MONETÁRIA. PERÍODO DE MARÇO DE 1990. Deve ser excluída a aplicação da correção monetária pelo IPC no mês de março de 1990, aplicando-se o BTN correspondente ao período. Precedentes do STJ e do TJRS.
+    REPETIÇÃO DE INDÉBITO. Cabimento da pretensão de repetição de valores pagos a maior.
+    REPETIÇÃO DE INDÉBITO. JUROS DE MORA E CORREÇÃO MONETÁRIA. TERMO INICIAL. Os valores a serem restituídos devem ser corrigidos monetariamente desde o desembolso e acrescido de juros de mora desde a citação.
+    RECURSO DO AUTOR. JUROS REMUNERATÓRIOS. No caso de títulos de crédito rural, industrial e comercial, a ausência de deliberação do Conselho Monetário Nacional implica a limitação dos juros remuneratórios em 12% ao ano.
+    CAPITALIZAÇÃO DE JUROS. A capitalização mensal de juros em títulos de crédito rural, industrial e comercial é admissível quando houver cláusula contratual expressa, o que não ocorre, no caso.
+    Preliminares rejeitadas e apelo do réu parcialmente provido. Prejudicial de prescrição parcialmente acolhida e apelo do autor parcialmente provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição Federal. Sustenta a impossibilidade de revisão de contratos extintos pelo pagamento.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que não ocorreu o regular prequestionamento do preceito constitucional tido por violado. Entendeu-se, ainda, que “o Supremo Tribunal Federal não tem a missão constitucional de interpretar dispositivos infraconstitucionais, cabendo tal dever ao Superior Tribunal de Justiça, motivo pelo qual não se pode conhecer da dita ofensa ao art. 1.030 o Código Civil de 1916”.
+    O recurso extraordinário não pode ser provido, tendo em vista que a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Com efeito, não há matéria constitucional nas causas em que se discute o direito à revisão de cláusulas de contrato bancário findo. Nessa linha, vejam-se os seguintes precedentes: ARE 789.693, Rel. Min Teori Zavascki; ARE 786.512, Rel. Min. Ricardo Lewandowski; e ARE 778.677, Rel.ª Min.ª Cármen Lúcia.
+    Ademais, para dissentir do acórdão recorrido e concluir pela existência da inconstitucionalidade apontada, seria necessária a análise do conjunto fático-probatório dos autos e do contrato celebrado entre as partes, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmulas 279 e 454/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 11 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
