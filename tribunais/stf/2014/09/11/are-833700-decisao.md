@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 111):
+    “APELAÇÕES CÍVEIS. FDRH. REAJUSTE DO VALOR DA BOLSA-AUXÍLIO. ESTÁGIO PRESTADO JUNTO AO BANCO DO ESTADO DO RIO GRANDE DO SUL – BANRISUL.
+    - Não é devido o reajuste automático do valor da bolsa-auxílio, com base no Decreto nº 31.202/83, àquele que efetuou estágio no Banco do Estado do Rio Grande do Sul, pois sociedade de economia mista sujeita à Consolidação das Leis do Trabalho, com definição do valor por Convenção Coletiva. Precedentes.
+    - Ação que deve ser julgada improcedente, invertendo-se os ônus sucumbenciais.
+    DERAM PROVIMENTO À APELAÇÃO DA FDRH, PREJUDICADA A ANÁLISE DO APELO DO AUTOR.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, I; e 37, caput, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) os dispositivos constitucionais apontados não foram alvo do devido prequestionamento (Súmulas 282 e 356/STF); e (ii) aplicam-se, ao caso, as Súmulas 279, 454 e 636/STF.
+    O recurso extraordinário é inadmissível. Incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. Nessa linha, veja-se a seguinte passagem do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+     Ademais, nota-se que o Tribunal de origem, baseado na legislação local pertinente e considerando ser a recorrida entidade de direito público, entendeu ser aplicável ao recorrente os reajustes previstos na legislação pertinente aos servidores públicos estaduais. Portanto, dissentir dessa conclusão demandaria a análise da legislação local aplicável ao caso, o que é vedado pela Súmula 280/STF. Nesse sentido, confira-se a ementa do AI 490.596-AgRg, julgado sob a relatoria do Ministro Eros Grau:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FUNDAÇÃO PARA O DESENVOLVIMENTO DE RECURSOS HUMANOS - FDRH. NATUREZA JURÍDICA. LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280-STF. EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. 1. Questão apreciada à luz de legislação de direito local, circunstância impeditiva a apreciação do extraordinário. Súmula 280-STF. 2. Controvérsia afeta à interpretação de norma infraconstitucional. Eventual ofensa à Constituição Federal adviria, quando muito, de forma indireta. Agravo regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+     Publique-se.
+          Brasília, 11 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
