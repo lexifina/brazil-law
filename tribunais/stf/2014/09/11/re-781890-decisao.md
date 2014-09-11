@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. AGRAVO LEGAL. TAXA DE SAÚDE SUPLEMENTAR. LEGALIDADE. IMPOSSIBILIDADE DA COMPENSAÇÃO E REPETIÇÃO INTEGRAL. PRESCRIÇÃO.
+    1. O STF firmou entendimento no sentido de que a discussão referente à legitimidade da Taxa de Saúde Suplementar, instituída pela Lei 9.961/00, depende da análise de norma infraconstitucional e, por isso, a afronta à Constituição, se ocorrente, seria indireta (RE 438.047 AgR-AgR, Relator Min. Ricardo Lewandowski, Primeira Turma, julgado em 06/04/2010).
+    2. A jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que, embora a Taxa de Saúde Suplementar, tenha sido instituída pelo artigo 20, I, da Lei nº 9.661/2000, sua base de cálculo somente veio a ser definida pelo art. 3º da Resolução RDC nº 10/2000, em ofensa ao princípio da legalidade estrita.
+    3. Declarada inexigibilidade da Taxa de Saúde Suplementar, há que se reconhecer o direito à repetição do indébito ou compensação na forma prevista no artigo 66, § 1°, da Lei n° 8.383/91com parcelas vincendas dos tributos (créditos não constituídos).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 97 e 150, I, da Carta, bem como à Súmula Vinculante nº 10. Sustenta, em síntese, que a Resolução da Diretoria Colegiada – RDC – da Agência Nacional de Saúde – ANS, veio apenas dar cumprimento ao comando legal do art. 20 da Lei n. 9.961/00, sem alterar base de cálculo, alíquotas ou fato gerador do tributo.
+    O recurso extraordinário não merece acolhida, tendo em vista que a jurisprudência do Supremo Tribunal Federal fixou entendimento de que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. Confiram-se os seguintes precedentes:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 284/STF. TAXA DE SAÚDE SUPLEMENTAR (LEI 9.961/00). MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 632.849-AgR, Rel. Min. Teori Zavascki)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. LEGITIMIDADE DA TAXA DE SAÚDE SUPLEMENTAR. LEI N. 9.961/2000. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (RE 585.515-AgR, Rel. Min. Cármen Lúcia)
+    1. RECURSO. Extraordinário. Tributo. Taxa de Saúde Suplementar. Legitimidade questionada. Violação constitucional reflexa. Necessidade de interpretação de legislação infraconstitucional. Seguimento negado. Não se conhece de recurso extraordinário que tenha por objeto interpretação de legislação estadual.
+    2. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte.” (RE 524.432-AgR, Rel. Min. Cezar Peluso)
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário
+    Publique-se.
+          Brasília, 11 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
