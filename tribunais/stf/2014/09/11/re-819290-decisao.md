@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO E PREVIDENCIÁRIO. ART. 53, II, DO ADCT. PENSÃO POR MORTE. EX-COMBATENTE. VIÚVA FALECIDA. REVERSÃO DO BENEFÍCIO EM FAVOR DAS FILHAS. POSSIBILIDADE. LEGISLAÇÃO APLICÁVEL É A DO TEMPO DO ÓBITO DO TITULAR DO BENEFÍCIO. PARCELAS DEVIDAS A PARTIR DA DATA DE AJUIZAMENTO DA AÇÃO.
+    1. É entendimento cediço desta E. Corte que a legislação aplicável à pensão por morte de ex-combatente é a vigente à época de seu óbito.
+    2. A pensão militar defere-se aos filhos de qualquer condição, exclusive os maiores do sexo masculino, que não sejam interditos ou inválidos (Lei nº 3765/60, art. 7º, II)
+    3. Direito à percepção, desde a data do ajuizamento da ação (23/12/2012), da pensão especial de excombatente, nos termos do art. 53 do ADCT.
+    4. Juros de mora de 1% ao mês.
+    5. Honorários de sucumbência devidos pela União fixados em R$1.000 (hum mil reais).
+    6. Apelo do particular provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação ao art. 53, caput, II e III, do ADCT.
+    O recurso extraordinário não deve ser provido. De início, observa-se que o acórdão recorrido está alinhado com a jurisprudência desta Corte no sentido de que o direito à pensão de ex-combatente é regido pelas normas legais em vigor na data da morte do instituidor. Tratando-se especificamente de reversão do benefício à filha em razão do falecimento da mãe, consideram-se as leis em vigor na data do óbito do ex-combatente, e não do falecimento da primeira pensionista (tempus regit actum). Nesse sentido, veja-se a ementa do RE 638.227-AgR, julgado sob a relatoria do Ministro Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. FILHA DE EX- COMBATENTE. PENSÃO ESPECIAL. REGÊNCIA. LEGISLAÇÃO VIGENTE À DATA DO ÓBITO DO INSTITUIDOR. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. ‘O direito à pensão de ex-combatente é regido pelas normas legais em vigor à data do evento morte. Tratando-se de reversão do benefício à filha mulher, em razão do falecimento da própria mãe que a vinha recebendo, consideram-se não os preceitos em vigor quando do óbito desta última, mas do primeiro, ou seja, do ex-combatente’ (MS 21.707/DF, Redator para o acórdão o Ministro Marco Aurélio, Pleno DJ de 22.09.95). No mesmo sentido: AI 537.651-AgR, Relator o Ministro Eros Grau, Primeira Turma, DJ de 11.11.05; AI 724.458-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJ de 1º.10.10.
+    2. In casu, o acórdão originalmente recorrido assentou que: ‘PENSÃO DE EX-COMBATENTE. REVERSÃO DO BENEFÍCIO. FILHA MAIOR DE 21 ANOS, EM DECORRÊNCIA DO ÓBITO DA MÃE OCORRIDO ANTES DA LEI Nº 8.059/90. A Lei nº 8.059 de 04 de julho de 1990, que regulamentou o artigo 53 do ADCT, estabelece, em seu artigo 5º, III, as condições para a persecução do benefício. A autora é maior de 21 anos e, por isso, não faz jus à pensão aumentada. No que concerne à assistência médico-hospitalar gratuita, de que trata o art. 53, IV, do ADCT, a sentença que a concedeu é mantida. Sentença reformada. Apelação e remessa necessária providas em parte.’
+    3. Agravo regimental a que se nega provimento.”
+    Ademais, na hipótese, o Tribunal de origem assentou que o falecimento do instituidor da pensão se deu antes da vigência da Lei nº 8.059/1990, de modo que devem ser aplicadas as Leis nºs 3.765/1960 e 4.242/1963, vigentes à época do óbito, para regular o benefício. Com efeito, para dissentir do entendimento acerca da norma legal aplicável ao caso concreto, seriam necessários a análise da legislação infraconstitucional pertinente, bem como o reexame dos fatos e provas constates dos autos, providências incabíveis nesta sede (incidência da Súmula 279/STF). Nessa linha, vejam-se: AI 537.651-AgR, Rel. Min. Eros Grau; AI 771.290-AgR, Rel. Min. Dias Toffoli; e AI 847.578-AgR, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+       Brasília, 11 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
