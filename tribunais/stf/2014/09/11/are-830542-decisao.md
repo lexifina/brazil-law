@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÕES CÍVEIS E AGRAVO RETIDO. AÇÃO ORDIÁRIA. TV POR ASSINATURA. PONTO ADICIONAL. COBRANÇA. ILEGALIDADE. RESOLUÇÃO Nº 528, DA ANATEL.
+    1. A restituição à parte autora dos valores cobrados indevidamente devem se dar nos cinco anos imediatamente antecedentes ao ajuizamento da ação, mormente incidente o prazo prescricional do Código de Proteção ao Consumidor, e não o marco prescricional de três anos previstos no Código Civil. Isso porque, em coexistindo aparente conflito de normas no tempo, possibilidade de aplicação do CC e do CDC, deve prevalecer o CDC, norma especial, seguindo a orientação do STJ.
+    2. É ilegal a cobrança de mensalidade pelo ‘ponto adicional’ dos serviços de TV a cabo por assinatura. Vedação da cobrança que vem disciplinada em Resolução da agência de regulação do setor – Resolução nº 528/09. Regulamentação da Agência que veio a confirmar anterior determinação à proibição da cobrança e o direito ao uso do ponto adicional pelo consumidor sem contraprestação (Res. 488/07). Sobre o ‘ponto adicional’ é autorizado pela Anatel a cobrança, tão somente, do aluguel do decodificador, desde que haja expressa previsão contratual, e dos serviços de instalação e reparo, por evento. Precedentes jurisprudenciais.
+    3. Com base no artigo 42 do CDC, devem-se restituir em dobro os valores cobrados indevidamente pela prestadora de serviços.
+    Agravo retido e apelo do autor providos.
+    Apelação da ré desprovida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 5º, LIV e LV; 93, IX; e 170, todos da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que não ocorreu o regular prequestionamento dos preceitos constitucionais inscritos no art. 5º, LIV e LV. Entendeu-se, ainda, que inviabiliza o trânsito da insurgência “o fato de a alegada ofensa ao regramento constitucional não ser frontal e direta, ou seja, há a necessidade de se examinar como maltratados dispositivos infraconstitucionais”.
+    O recurso extraordinário é inadmissível, tendo em vista que a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Com efeito, não há matéria constitucional a ser dirimida na controvérsia sob exame, em que se discute a cobrança de ponto adicional de TV por assinatura. Nessa linha, vejam-se o ARE 694.542, Rel. Min. Ricardo Lewandowski; o ARE 649.879, Rel.ª Min.ª Cármen Lúcia; e.o ARE 705.177-AgR, julgado sob a relatoria do Ministro Dias Toffoli, assim ementado:
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. TV por assinatura. Ponto adicional. Cobrança. Reexame de cláusulas contratuais e de fatos e provas. Ofensa reflexa. Precedentes.
+    1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF.
+    2. Inadmissível, em recurso extraordinário, o reexame de cláusulas contratuais, dos fatos e das provas dos autos e da legislação infraconstitucional. Incidência das Súmulas nºs 454, 279 e 636/STF.
+    3. Agravo regimental não provido.”
+    Quanto à alegada violação ao art. 5º, XXXVI, da Constituição, a questão só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. No presente recurso, a parte recorrente não cogita de retroação de lei superveniente, somente postula uma nova apreciação das cláusulas constantes do contrato celebrado entre as partes, o que impossibilita a abertura da via extraordinária. Nessas condições, a hipótese atrai a incidência da Súmula 454/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 11 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
