@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça que negou provimento ao agravo regimental interposto nos autos do AREsp 447.109/RO.
+    Consta dos autos, em síntese, que (a) o Juízo da 3ª Vara Federal da Seção Judiciária de Rondônia, atendendo a pedido do Juízo da 32ª Vara Criminal da Comarca do Rio de Janeiro, decidiu prorrogar a permanência do paciente na Penitenciária Federal de Porto Velho/RO; (b) alegando ilegalidade na manutenção do paciente no sistema penitenciário federal, a defesa interpôs agravo em execução para o Tribunal Regional Federal da 1ª Região, que desproveu o recurso; (c) inconformada, interpôs recurso especial, o qual foi inadmitido, ensejando a interposição de agravo para o Superior Tribunal de Justiça, ocasião em que o Ministro Relator negou-lhe seguimento; (d) contra essa decisão, foi interposto agravo regimental, que foi improvido, em acórdão assim ementado:
+    “(...) 2. Mostra-se devidamente justificada a manutenção, em presídio federal, de preso de alta periculosidade, com elevado grau de articulação – um dos líderes do ‘Comando Vermelho’ – envolvido com outros criminosos bastante perigosos, com controle direto do tráfico na comunidade da Vila Cruzeiro. Dessa forma, não há se falar em violação à lei federal, por se tratar de medida adequada para resguardar a ordem pública.
+    3. Agravo regimental a que se nega provimento”.
+    Neste habeas corpus, a impetrante alega, em suma, que (a) as instâncias ordinárias não indicaram “elementos específicos mínimos, concretos e atuais que caracterizassem a necessidade de manutenção [do paciente] em presídio de segurança máxima”; (b) o paciente possui boa conduta carcerária; (c) a legislação determina que o cumprimento da pena deve ser próximo aos familiares. Requer, assim, a concessão de medida liminar, a fim de determinar a imediata transferência do paciente para estabelecimento prisional no Estado do Rio de Janeiro.
+    2. Consideradas as especiais circunstâncias da causa (= logística necessária para uma operação dessa natureza, bem como as despesas dela decorrentes), o exame da pretensão será feito no momento próprio, em caráter definitivo.
+    3. Com essas considerações, indefiro o pedido de liminar. Solicitem-se informações ao Juízo da 3ª Vara Federal da Seção Judiciária de Rondônia. Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 11 de setembro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
