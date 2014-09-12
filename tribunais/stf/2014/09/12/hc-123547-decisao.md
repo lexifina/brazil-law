@@ -1,0 +1,41 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Felipe Ballarin Ferraioli e outro em favor de Edilson Aragão de Souza e Edilson Aragão de Souza Júnior contra decisão monocrática do Ministro Gilson Dipp, do Superior Tribunal de Justiça, que indeferiu a liminar no HC 298.532/SP.
+    Os pacientes foram presos em flagrante, em 09.6.2013, pela suposta prática do crime de homicídio contra Genilson Pereira Sodre. O magistrado de primeiro grau converteu o flagrante em prisão preventiva e, ato contínuo, indeferiu o pedido de liberdade provisória.
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem.
+    Submetida a questão à apreciação do Superior Tribunal de Justiça, o Ministro Gilson Dipp, no exercício da Presidência daquela Corte, indeferiu a liminar no HC 298.532/SP.
+    No presente writ, os Impetrantes sustentam a ocorrência de constrangimento ilegal consubstanciado no excesso de prazo prisional. Requerem, em medida liminar e no mérito, a imediata colocação dos pacientes em liberdade.
+    Em 29.8.2014, a Defesa colacionou aos autos cópia dos documentos requeridos (Petição STF 38.745/2014).
+    É o relatório.
+    Decido.
+    Eis o teor do ato apontado como coator:
+    “Nos termos do entendimento reiteradamente firmado por esta Corte, assim como pelo Supremo Tribunal Federal, não cabe habeas corpus contra indeferimento de liminar, a não ser em casos de evidente e flagrante ilegalidade, sob pena de indevida supressão de instância.
+    Tal entendimento, inclusive, encontra-se consolidado no verbete n.º 691 da Súmula da Suprema Corte:
+    Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    Faz-se mister destacar que, não obstante a discussão, pelo Plenário do STF, a respeito do eventual cancelamento do mencionado verbete da Súmula do Pretório Excelso, nos autos do HC n.º 85.185-1, da relatoria do Ministro Cezar Peluso, tal proposta foi rejeitada, mantendo-se, por conseguinte, a aplicação de seu conteúdo (Informativo n.º 396, 08 a 12/08/2005).
+    A conclusão da Suprema Corte foi de que o enunciado 691 não impede que o conhecimento de habeas corpus , se evidenciado flagrante constrangimento ilegal, o que não ocorre nos presentes autos.
+    Entretanto, se não sobressai ilegalidade flagrante, o exame da controvérsia caracteriza supressão de instância.
+    Pelo exame dos autos e da decisão denegatória da medida urgente, não resta evidenciada a referida estreita exceptio, a fim de autorizar a outorga pretendida.
+    Ademais, o pleito de urgência confunde-se com o mérito da impetração, o qual será oportunamente analisado.
+    Diante do exposto, indefiro a liminar”.
+    Registro, desde logo, que, à falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    Todavia, a compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 104.855/CE, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011 e HC 96.539/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.5.2010.
+    De todo modo, não vislumbro a ocorrência de situação autorizadora do afastamento do mencionado verbete.
+    A prisão preventiva dos pacientes encontrou fundamento na garantia da ordem pública e na garantia da aplicação da lei penal, após verificados indícios da autoria e prova da materialidade delitiva.
+    Consoante decisão indeferitória da liberdade provisória, “os réus foram presos em razão de um homicídio qualificado, no qual agiram de forma violenta em razão de um simples desentendimento ocorrido na ‘padaria do roque’, de modo que “a falta de sensibilidade dos réus denota a possibilidade de voltarem a delinquir e praticar crimes violentos, ainda que não tenham praticados crimes anteriores, já que, deste crime praticado, em tese, por si só, demonstra a personalidade violenta dos réus”. Enfatizou-se, ainda, que, “os réus fugiram após a prática, em tese, do crime, a demonstrar a tentativa de fugir da apuração e aplicação da lei penal, o que faz concluir a necessidade da segregação cautelar para garantia da instrução criminal e aplicação da lei penal”.
+    Ao subscrever a necessidade da manutenção da prisão preventiva, o Tribunal de Justiça do Estado de São Paulo rechaçou a tese defensiva de excesso de prazo da prisão aos seguintes fundamentos:
+    “Conforme informações obtidas junto ao Terceiro Ofício Criminal de Itapecerica da Serra, verifiquei que na audiência realizada em 1º de outubro de 2013 os pacientes foram interrogados, com oitiva de algumas testemunhas. Após, foram mandadas precatórias para oitiva das testemunhas faltantes, acabando todas sendo cumpridas e devolvidas. Ainda, soube que por insistência da acusação, e determinação do E. Desembargador Lauro Mens de Mello, foi solicitada à polícia a realização de laudo sobre confronto balístico, estando os autos no aguardo de sua devolução, para então serem remetidos ao Ministério Público para apresentar alegações finais.
+    Assim, observa-se que a instrução encontra-se encerrada.
+    Não há, pois, se falar em excesso de prazo, pois os 81 dias fixados pela jurisprudência são para o encerramento da instrução e não para o término do processo.
+    (…)
+    De mais a mais, não se vislumbra descaso por parte do MM. Juiz.
+    Inicialmente, observa-se que muitas testemunhas tiveram que ser ouvidas através de Precatória, por habitarem comarcas diferentes.
+    Ainda, houve muitos laudos a serem efetuados, estando, como assim, já especificado, no aguardo do laudo de confronto balístico para, então, serem os autos remetidos ao Ministério Público, não havendo desídia do parquet ou do magistrado”.
+    Relevante consignar que a Defesa se insurgiu, perante o Superior Tribunal de Justiça, contra o indeferimento da medida liminar formulada na Corte Estadual. Nesse contexto, a Corte Superior asseverou que, “pelo exame dos autos e da decisão denegatória da medida urgente, não resta evidenciada a referida estreita exceptio, a fim de autorizar a outorga pretendida”.
+    O superveniente pronunciamento judicial conclusivo do Tribunal de Justiça sobre a inocorrência de excesso de prazo sem a formação de culpa, notadamente porque concluída a instrução criminal, impede concluir de forma diversa.
+    Outrossim, a razoável duração do processo não pode ser considerada de maneira isolada e descontextualizada das peculiaridades do caso concreto, até porque a melhor compreensão do princípio constitucional aponta para “processo sem dilações indevidas”, em que a demora na tramitação do feito há de guardar proporcionalidade com a complexidade do delito nele veiculado e as diligências e os meios de prova indispensáveis a seu deslinde. Nesse sentido o magistério de Daniel Mitidiero, que se endossa (Curso de Direito Constitucional, 2ª edição revista, atualizada e ampliada, Revista dos Tribunais).
+    A jurisprudência deste Supremo Tribunal Federal é no sentido de que “o excesso de prazo da instrução criminal não resulta de simples operação aritmética, impondo-se considerar a complexidade do processo, atos procrastinatórios da defesa e número de réus envolvidos, fatores que, analisados em conjunto ou separadamente, indicam ser, ou não, razoável o prazo para o encerramento” (HC 180.426/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 07.8.2012).
+    Por derradeiro, em consulta à movimentação processual disponibilizada pelo Tribunal de Justiça do Estado de São Paulo na internet, verifico que os autos estão conclusos para sentença desde 19.8.2014, tendo sido, portanto, encerrada a instrução processual.
+    Ante todo o exposto, nego seguimento ao presente habeas corpus (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de setembro de 2014.
+Ministra Rosa Weber
+     Relatora
