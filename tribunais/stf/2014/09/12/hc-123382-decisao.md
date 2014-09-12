@@ -1,0 +1,18 @@
+Decisão:
+    1. Trata-se habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão do Superior Tribunal Militar, de relatoria do Ministro Tem Bri Ar William de Oliveira Barros, assim ementado (eDoc 03, fls. 13):
+    “RECURSO EM SENTIDO ESTRITO. CONSIDERAÇÃO DO PERÍODO DE PROVA DO SURSIS COMO EFETIVO CUMPRIMENTO DE PENA PARA CONCESSÃO DO INDULTO. DECISÃO DENEGATÓRIA. REFORMA E CONCESSÃO. DESPROVIMENTO.
+    Não se confunde a suspensão condicional da pena (sursis), prevista no capítulo III do CPM e suas condições e restrições elencadas nos arts. 84 ao 88 do mesmo código, com a pena imposta como consequência da condenação, pois aquela decorre do preenchimento dos requisitos exigidos pelo CPM para o seu deferimento. Não servindo, por isso, o período de prova do sursis na contagem de prazo para concessão do indulto.
+    No Indulto Coletivo é necessário o preenchimento de todos os requisitos elencados no Decreto Presencial para a sua concessão.
+    Recurso desprovido. Decisão unânime.”
+    2. Extrai-se dos autos que o paciente, ex-soldado do exército, foi condenado, pelo delito descrito no art. 290 do Código Penal Militar, à pena de 01 (um) ano de reclusão, em regime inicial aberto, suspensa pelo período de 02 (dois) anos.
+    3. Após o advento do Decreto nº 8.172/2013, a Defensoria Pública da União requereu a concessão de indulto natalino, previsto no art. 1º, XIII. O pedido de extinção da punibilidade foi indeferido pelo Juiz-Auditor Substituto da Auditoria da 7ª CJM. A decisão foi mantida pelo Superior Tribunal Militar, em sede de recurso em sentido estrito, pelo fundamento de que “a razão de vedação do indulto ao sursitário reveste-se de lógica razoável, pois a suspensão da pena, pela própria etimologia do termo, não possui caráter sancionatório, mas sim de restringir determinados direito do beneficiário.” (eDoc 03, fls. 6)
+    4. Neste habeas corpus, a impetrante alega, em síntese, que: (i) o paciente preenche os requisitos subjetivo e objetivos para a concessão do indulto, nos termos do art. 1º, XIII, do Decreto nº 8.172/2013; (ii) entre a data da audiência admonitória e o dia 25.12.2013, o paciente já havia cumpriu ¼ (um quarto da pena) exigido pelo decreto; (iii) é desarrazoado exigir que o cumprimento da pena seja no encarceramento; (iv) a expressão “qualquer forma”, contida no art. 1º, XIII, do Decreto nº 8.172/2013, contempla o condenado que vem cumprindo regularmente as condições do sursis; (v) o sursis possui natureza jurídica de sanção. Requer, assim, em sede liminar, a concessão do indulto com a consequente extinção da pena imposta ao paciente ou que sejam suspensos os efeitos do acórdão impugnado até o julgamento deste writ.
+    Decido.
+    5. Observo que o acórdão impugnado está alinhado com a orientação da Primeira Turma do Supremo Tribunal Federal, estabelecida a partir do julgamento do HC 117.855, Rel. Min. Luiz Fux. Na oportunidade, prevaleceu o entendimento de que “o sursis não ostenta a categorização jurídica de pena, mas antes, medida alternativa a ela; por isso que não cabe confundir o tempo alusivo ao período de prova exigido para a obtenção desse benefício com o requisito temporal relativo ao cumprimento de ¼ da pena privativa de liberdade para alcançar-se o indulto natalino e, consectariamente, a extinção da punibilidade.”
+    6. Nessas condições, inexistindo contrariedade à orientação do Supremo Tribunal Federal, com base no art. 192 do RI/STF, denego a ordem.
+    Publique-se.
+    Intime-se.
+          Brasília, 12 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
