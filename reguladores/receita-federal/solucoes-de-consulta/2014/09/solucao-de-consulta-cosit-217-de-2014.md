@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 217, de 4 de agosto de 2014
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: RETENÇÃO 11% - SERVIÇOS MEDICINA VETERINÁRIA. Os serviços de medicina veterinária voltados para o atendimento de animais não estão compreendidos nos serviços de saúde a que se refere o art. 118, XXIII, da IN RFB nº 971, de 2009. Entretanto, poderão constituir serviço de natureza rural a que se refere o inciso IV do artigo 117 da mesma IN, caso em que estarão sujeitos a retenção de 11%, tanto se prestados mediante cessão de mão-de-obra ou empreitada. DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 971, de 2009, artigos 117, IV, 118, XXIII, e 120, III.
+[arquivo anexo: SC Cosit nº 217-2014.pdf]
