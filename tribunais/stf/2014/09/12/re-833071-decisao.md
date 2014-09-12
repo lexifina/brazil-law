@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Gravatai Veiculos Ltda. Aparelhado o recurso na afronta aos arts. 5º, II, 37, caput, e 195, § 12, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. Ademais, a aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação do art. 37, caput, da Constituição da República. Colho precedentes:
+    "Agravo regimental no agravo de instrumento. Tributário. Ofensa reflexa e reexame de provas (Súmula nº 279). 1. A Corte tem entendimento pacífico no sentido de que a violação aos preceitos constitucionais insculpidos nos arts. 5º, II, XXXV, LIV, LV; e 37, caput, do Texto Maior, configura, via de regra, como no presente caso, mera ofensa reflexa, sendo, dessa forma, incabível a interposição de apelo extremo. 2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 3. Agravo regimental não provido." (AI 839.585-AgR/MG, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012)
+    "AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ALEGADA VIOLAÇÃO AO ART. 37, CAPUT, DA CONSTITUIÇÃO FEDERAL. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I Esta Corte firmou orientação no sentido de que, em regra, a alegação de ofensa aos princípios constitucionais da legalidade, impessoalidade, moralidade, publicidade e eficiência, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. II - Agravo regimental improvido." (ARE 646.526-AgR/RN, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 06.12.2011)
+    Na esteira da Súmula 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Verifico, por seu turno, que a matéria relativa ao alcance do art. 195, § 12, da Constituição Federal, que prevê a aplicação do princípio da não-cumulatividade à Contribuição ao PIS e à COFINS, restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no ARE 790.928-RG, verbis:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. PRINCÍPIO DA NÃO CUMULATIVIDADE. ART. 195, § 12, CF/88. PIS. COFINS. ARTIGO 3º , NOTADAMENTE INCISO II E §§ 1º E 2º, DAS LEIS Nºs 10.833/2003, 10.637/2002. ARTIGO 31, § 3º, DA LEI Nº 10.865/2004. RELEVÂNCIA DA MATÉRIA E TRANSCENDÊNCIA DE INTERESSES. REPERCUSSÃO GERAL RECONHECIDA”.
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+    Assim, com relação à alegada ofensa aos arts. 5º, II, e 37, caput, nego seguimento ao recurso extraordinário. Quanto ao tema submetido à repercussão geral, devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 12 de setembro de 2014.
+Ministra Rosa Weber
+Relatora
