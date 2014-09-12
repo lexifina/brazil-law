@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 3ª Câmara de Direito Público do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “TRIBUTÁRIO – AÇÃO ANULATÓRIA – ISS – OPERAÇÃO DE LEASING SOBRE BENS MÓVEIS – LEASING FINANCEIRO – INCIDÊNCIA – SÚMULA 18 DO TJ/SC.
+    A teor da Súmula n. 18 deste Pretório, restou pacificado o entendimento de que ‘o ISS incide na operação de arrendamento mercantil de coisas móveis’.
+          ISS – LEASING – BASE DE CÁLCULO – VALOR EXPRESSO NO CONTRATO – ARBITRAMENTO – LEGALIDADE.
+    1 ‘A base cálculo do ISS é o valor da prestação de serviços. Em se tratando de leasing, é o quantitativo expresso no contrato’ (EDcl nos EDcl no AgRg no Ag n. 756212, Min. José Delgado).
+    2 Nos termos do art. 14 do Código Tributário Nacional, quando o cálculo do tributo tenha por base, ou tome em consideração, o valor ou preço de bens, direitos, serviços ou atos jurídicos, a autoridade lançadora, mediante processo regular, arbitrará o valor ou preço, quando verificar a omissão por parte do contribuinte.
+    CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO – MUNICÍPIO – LOCAL DA PRESTAÇÃO DO SERVIÇO
+    Em relação à questão do local competente para o lançamento e recolhimento do ISS, está pacificado nos tribunais pátrios o entendimento de que competente para a instituição e arrecadação do ISS é o Município em que ocorre a efetiva prestação do serviço, e não o do local da sede do estabelecimento da empresa contribuinte’ (AgRg nos Edcl no Ag n. 855164/SC, Min. José Delgado).
+    MULTA FISCAL – NÃO PAGEMENTO DO DÉBITO – PRINCÍPIO DA VEDAÇÃO DE CONFISCO – INAPLICABILIDADE – PERCENTUAL – FIXAÇÃO EXCESSIVA – AFRONTA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE – MINORAÇÃO PARA 100% DO VALOR DO TRIBUTO – ANALOGIA AO ART. 412 DO CÓDIGO CIVIL.
+    Em que pese a imposição de multa fiscal de caráter punitivo não se sujeitar às normas aplicáveis à cobrança dos tributos, entre elas, a vedação do confisco (CF, art. 150, IV), não se pode desprezar a exorbitância de multa aplicada pelo Fisco no patamar de 500% sobre o valor do imposto devido, na medida em que o ‘Poder Público, especialmente em sede de tributação (mesmo tratando-se da definição do quantum pertinente ao valor das multas fiscais)’, não pode agir imoderadamente, pois a atividade governamental acha-se essencialmente condicionada pelo princípio da razoabilidade que se qualifica como verdadeiro parâmetro de aferição da constitucionalidade material dos atos estatais’ (ADI-MC n. 1075/DF, Min. Celso de Mello), motivo pelo qual a atuação estatal exacerbada deve ser repelida de plano.
+    Assim, mesmo considerando o fato de que em situações especialíssimas a lei tributária admita sanção superior ao valor da própria obrigação, uma vez constatado que a multa fiscal fixada pelas autoridades fazendárias excedeu de forma gritante o quantum devido correspondente ao próprio tributo, há que se reconhecer, em analogia com o disposto no art. 412 do Código Civil de 2002, a clara afronta aos princípios fundamentais da razoabilidade e proporcionalidade, de modo a reduzi-la para 100% do valor do imposto devido.”
+    Foram opostos embargos de declaração, aos quais foi negado provimento.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2°, caput e 150, IV, ambos da Constituição. Controverte-se acerca da fixação, pelo acórdão recorrido, de multa de 100% sobre o valor do tributo devido. Aduz que a imposição de multa nesse percentual afronta aos princípios da razoabilidade e proporcionalidade, bem como possui nítido caráter confiscatório.
+    O recurso extraordinário não deve prosperar, na medida em que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal. Com efeito, no que tange ao valor máximo das multas fiscais, este Tribunal tem entendido que são confiscatórias tão somente aquelas que ultrapassam o percentual de 100% (cem por cento) do valor do tributo devido. Nesse sentido, confiram-se os precedentes a seguir:
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ICMS. MULTA MORATÓRIA APLICADA NO PERCENTUAL DE 40%. CARÁTER CONFISCATÓRIO. INEXISTÊNCIA. PRECEDENTES DO TRIBUNAL PLENO.
+    1. O Plenário do Supremo Tribunal Federal já decidiu, em diversas ocasiões, serem abusivas multas tributárias que ultrapassem o percentual de 100% (ADI 1075 MC, Relator(a): Min. CELSO DE MELLO, Tribunal Pleno, DJ de 24-11-2006; ADI 551, Relator(a): Min. ILMAR GALVÃO, Tribunal Pleno, DJ de 14-02-2003).
+    2. Assim, não possui caráter confiscatório multa moratória aplicada com base na legislação pertinente no percentual de 40% da obrigação tributária.
+    3. Agravo regimental a que se nega provimento.” (RE 400.927-AgR, Rel. Min. Teori Zavascki)
+     “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MULTA FISCAL. PERCENTUAL SUPERIOR A 100%. CARÁTER CONFISCATÓRIO. ALEGADA OFENSA AO ART. 97 DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO IMPROVIDO.
+    I – Esta Corte firmou entendimento no sentido de que são confiscatórias as multas fixadas em 100% ou mais do valor do tributo devido.
+    II – A obediência à cláusula de reserva de plenário não se faz necessária quando houver jurisprudência consolidada do STF sobre a questão constitucional discutida.
+    III – Agravo regimental improvido.” (RE 748.257-AgR Ricardo Lewandowski)
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 12 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
