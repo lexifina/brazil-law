@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF07 nº 7012, de 18 de agosto de 2014
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA (CPRB). BASE DE CÁLCULO. As empresas que possuem como atividades a manutenção e reparação de aeronaves e respectivos motores, componentes e equipamentos contribuirão sobre o valor da receita bruta, à alíquota de 1%, em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei n.º 8.212, de 1991. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA Nº 67-COSIT, DE 30 DE DEZEMBRO DE 2013. DISPOSITIVOS LEGAIS: Lei n.º 12.715, de 2012, art. 78, e Lei n.º 12.546, de 2011, art. 8.º, § 3.º, inciso I.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA (CPRB). BASE DE CÁLCULO. As empresas que possuem como atividades a manutenção e reparação de aeronaves e respectivos motores, componentes e equipamentos contribuirão sobre o valor da receita bruta, à alíquota de 1%, em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei n.º 8.212, de 1991. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA Nº 67-COSIT, DE 30 DE DEZEMBRO DE 2013.
+DISPOSITIVOS LEGAIS: Lei n.º 12.715, de 2012, art. 78, e Lei n.º 12.546, de 2011, art. 8.º, § 3.º, inciso I.
+JOSÉ CARLOS SABINO ALVES Chefe
