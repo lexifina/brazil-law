@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, III, ‘a’, da Constituição Federal em que o recorrente aponta ofensa, pelo juízo recorrido, aos arts. 5º, XXXVI e LIV, e 37, caput e XIII, da Constituição Federal.
+    2. Conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação ao direito adquirido, ao ato jurídico perfeito, e aos princípios da inafastabilidade da jurisdição e da motivação das decisões, que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/3/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/8/2011.
+    3. Quanto à alegação de ofensa aos limites da coisa julgada e aos princípios do devido processo legal, do contraditório e da ampla defesa, este recurso diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta Corte na análise do ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660, DJe de 1º/8/2013), por se tratar de questão infraconstitucional.
+    Sustenta a parte recorrente que o Tribunal de origem teria desrespeitado os limites da coisa julgada ao reconhecer efeitos financeiros, enquanto o título executivo judicial ter-se-ia limitado a determinar a reintegração da recorrida ao serviço público.
+    No ponto, o acórdão recorrido asseverou que a decisão reconheceu a reintegração “... com efeito retroativo a 05.05.97, razão pela qual não apenas se produzem efeitos do cômputo do tempo de serviço, como se o servidor estivesse em exercício de suas atividades, mas também os efeitos financeiros do cargo...” (fl. 4 da peça 19).
+    Não há matéria constitucional a ser analisada, mas simples exame da extensão e dos limites do provimento jurisdicional.
+    4. No que diz respeito à suposta violação ao art. 37, caput, da CF/88, incide o óbice da Súmula 636/STF: "Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida".
+    5. Por fim, o Tribunal de origem solucionou a controvérsia por meio de interpretação e aplicação das normas infraconstitucionais pertinentes (Leis Distritais 7.479/86 e 10.486/02 e Lei Federal 8.112/90). É inviável a apreciação, em sede de recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa.
+    6. Diante do exposto, nego provimento ao agravo de instrumento.
+    Publique-se. Intime-se.
+    Brasília, 12 de setembro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
