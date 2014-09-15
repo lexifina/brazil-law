@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 1ª Turma Recursal dos Juizados Especiais Federais de Pernambuco, cuja ementa transcrevo a seguir:
+    “DIREITO PREVIDENCIÁRIO. BENEFÍCIOS. AUXÍLIO-DOENÇA/APOSENTADORIA POR INVALIDEZ. REQUISITO. INCAPACIDADE. NÃO SATISFAÇÃO. LAUDO PERICIAL. RECURSO IMPROVIDO”. (eDOC 28)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 6º, 194 e 196, do texto constitucional.
+    Nas razões recursais, alega-se que a parte recorrente faz jus ao benefício pleiteado, porquanto apresenta incapacidade laborativa.
+    A Presidência da Turma inadmitiu o recurso por reputar que o caso se resolve no âmbito da Súmula 279 do STF.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    De plano, verifico que o Tribunal de origem decidiu a controvérsia com base no acervo fático-probatório dos autos (Enunciado 279 da Súmula do STF), bem como na análise da legislação infraconstitucional aplicável à espécie. A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CONCESSÃO DE AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF. 1.O benefício previdenciário, nas hipóteses em que sub judice o preenchimento dos requisitos para sua concessão, demanda a análise da legislação infraconstitucional e do reexame do conjunto fático-probatório dos autos. Precedentes: ARE 662.120-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8/2/2012 e ARE 732.730-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 4/6/2013. 2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. […] 5. Agravo regimental DESPROVIDO“.(ARE 754992 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 14.11.2013 grifou-se)
+    “DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONCESSÃO DE AUXÍLIO-DOENÇA. PREQUESTIONAMENTO. MATÉRIA INFRACONSTITUCIONAL E DEPENDENTE DE FATOS E PROVAS. 1. Não tendo sido apreciada pelo Tribunal a quo a questão constitucional em que se apóia o extraordinário, não se encontra configurado o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal Federal, em princípio, não admite o prequestionamento implícito da questão constitucional. Precedentes. 3. Alegação de ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal configura, quando muito, ofensa meramente reflexa às normas constitucionais. 4. É inadmissível recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se o reexame de legislação infraconstitucional, dado o óbice da Súmula STF 279. 5. Agravo regimental improvido”. (AI 810263 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 7.2.2011)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, §4º, II, a, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 15 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
