@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado:
+    “APELAÇÃO CÍVEL. CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. RESPONSABILIDADE CIVIL. EVENTO DANOSO MORTE. DANOS MORAIS. RESPONSABILIDADE OBJETIVA. INTELIGÊNCIA DO ART. 37, § 6º, CF. NÃO INCIDÊNCIA DE EXCLUDENTE DO NEXO CAUSAL. DANO MORAL CARACTERIZADO. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, § 6º, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que, “analisar se houve ou não ofensa ao artigo 37, § 6º, da Constituição Federal, importaria em indevida reapreciação fático-probatória, pelo que o recurso, nesse mister, há de ser inadmitido”.
+    A decisão deve ser mantida. De início, ressalta-se que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal no sentido de que as pessoas jurídicas de direito privado prestadoras de serviço público respondem objetivamente pelos danos que causarem a terceiros. Nesse sentido, confira-se a ementa do RE 344.133, julgado sob a relatoria do Ministro Marco Aurélio:
+    “RESPONSABILIDADE - SEARA PÚBLICA - ATO DE SERVIÇO - LEGITIMAÇÃO PASSIVA. Consoante dispõe o § 6º do artigo 37 da Carta Federal, respondem as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos pelos danos que seus agentes, nessa qualidade, causarem a terceiros, descabendo concluir pela legitimação passiva concorrente do agente, inconfundível e incompatível com a previsão constitucional de ressarcimento - direito de regresso contra o responsável nos casos de dolo ou culpa.”
+    Quanto à alegada ofensa ao art. 37, § 6º, da Constituição, o Tribunal de origem reconheceu a existência dos elementos configuradores da responsabilidade objetiva e assentou o direito dos recorridos à indenização, em razão do falecimento da genitora dos autores da presente ação, por choque elétrico provocado por um fio de aterramento que se encontrava na cerca de arame farpado que circundava a residência da falecida. Veja-se o seguinte trecho do voto condutor do julgado:
+    “[...]
+    Analisando o conjunto fático-probatório colacionado aos autos, verifico que, em 16/03/2008, Eulina dos Santos Freire faleceu vítima de choque elétrico devido à corrente elétrica que circulava pela cerca de sua residência em razão do contato do fio de aterramento advindo do poste de responsabilidade da apelante – CEAL com a referida cerca de arame.
+    Dessa maneira, por mais que a apelante tente descaracterizar a sua responsabilidade, percebo que não há, no caso em análise, nenhuma das excludentes de responsabilidade capaz de eximi-la do dever de reparar os danos decorrentes do falecimento da vítima.”
+    Desse modo, tal constatou a decisão agravada, para dissentir da conclusão do Tribunal de origem, acerca da inexistência de causa excludente da responsabilidade da recorrente, seria necessário o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF:
+    “Para simples reexame de prova não cabe recurso extraordinário.”
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 15 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
