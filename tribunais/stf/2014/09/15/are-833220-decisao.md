@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da Primeira Região, assim ementado:
+    “PENAL. PROCESSUAL PENAL. CRIME DE MOEDA FALSA. MATERIALIDADE E AUTORIA COMPROVADAS. FALSIFICAÇÃO NÃO GROSSEIRA.
+    1. A colocação em circulação de moeda falsa pelos acusados, que tinham consciência de sua falsidade, é suficiente para ensejar a condenação no crime previsto no art. 289, § 1º, do Código Penal.
+    2. Materialidade e autoria demonstradas pelos depoimentos prestados na esfera policial e em Juízo, pelos indícios e pelos documentos acostados nos autos.
+    3. As notas apreendidas em poder dos acusados tinham aptidão para enganar o homem médio e ofender a fé pública, de modo que não se trata de falsificação grosseira.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV, LV; e 93, IX, da Constituição. A parte recorrente alega que “o Tribunal ‘a quo’ não apreciou as teses defensivas deste Recorrente, tampouco, resolveu as importantes nulidades processuais existentes nos presentes autos”.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que a parte recorrente “não demonstrou, formal e fundamentadamente, a existência de repercussão geral das questões constitucionais discutidas nos autos”.
+    O recurso é inadmissível, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que não atende ao disposto no art. 543-A, § 2º, do CPC. Como já decidido por este Tribunal, a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579 AgR/MG, Rel. Min. Ricardo Lewandowski).
+    De qualquer forma, a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, necessária seria uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário.
+    Quanto à alegada ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já firmou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, confira-se o AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes.
+    Por fim, cabe registrar que não foi ofendida a garantia da inafastabilidade do controle jurisdicional, uma vez que a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e motivado suas conclusões de forma satisfatória.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/90 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
