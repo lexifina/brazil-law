@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. INCONTROVERSA E CONFESSADA A MORA EM CONTRATO DE MÚTUO COM GRAVAME DE ALIENAÇÃO FIDUCIÁRIA. PROCEDÊNCIA DO PEDIDO DE BUSCA E APREENSÃO DO VEÍCULO. A pretendida discussão de cláusulas contratuais para sustentar cobranças indevidas deve ser direcionada em outra via. RECURSO IMPROVIDO”. (eDOC 12, p. 133)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 1º, III e IV; 5º, XXXVI, LVI; 6º; 170; e 193 do texto constitucional.
+    Aponta-se que houve ofensa ao princípio da coisa julgada, no que tange ao deferimento da consignação em pagamento das parcelas do contrato em discussão.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que, para divergir do entendimento adotado pelo Tribunal a quo, demandaria o reexame do conjunto fático-probatório dos autos e de cláusulas contratuais, providências vedadas na via extraordinária, em face dos óbices previstos nos Enunciados 279 e 454 da Súmula do STF.
+    Sobre o tema, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DÉBITO EM CONTRATO DE MÚTUO. AUSÊNCIA DE PREQUESTIONAMENTO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULAS 279 E 454/STF. O tema constitucional do recurso extraordinário não foi objeto de análise prévia e conclusiva pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. Para dissentir do acórdão recorrido e concluir pela existência da inconstitucionalidade apontada, seria necessária a análise da legislação infraconstitucional aplicada (Código de Defesa do Consumidor), do conjunto fático-probatório dos autos e do contrato celebrado entre as partes (Súmulas 279 e 454/STF), o que torna inviável o processamento do recurso extraordinário. Agravo regimental a que se nega provimento” (ARE 811.968-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. COBRANÇA. MÚTUO. INDEFERIMENTO DE DILIGÊNCIA PROBATÓRIA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Os princípios da ampla defesa e do contraditório, nos casos de indeferimento de diligência probatória, quando debatidos sob a ótica infraconstitucional, acarreta a inadequação do apelo extremo, por caracterizar ofensa reflexa ao texto constitucional. Nesse sentido, AI 794.090-AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 10/2/2011, e AI 672.145-AgR/SP, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 8/11/2011. 2. In casu, o acórdão originariamente recorrido assentou: “AÇÃO DE COBRANÇA. MÚTUO. CERCEAMENTO DE DEFESA. DÚVIDA QUANTO AOS TERMOS DO CONTRATO. INSUFICIÊNCIA DE PROVAS. Salvo por motivo justificado, o não comparecimento das partes e procuradores na audiência não autoriza a designação de nova data. Art. 453, II, CPC. Cerceamento de defesa não configurado. Insuficiência de provas quanto aos termos em que se realizou o empréstimo e de quem ele foi tomado. Repeliram a preliminar e negaram provimento.” 3. Agravo regimental DESPROVIDO”. (ARE 856.278-AgR/RS, Rel. Min. Luiz Fux, Primeira Turma, DJe 28.8.2013)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 15 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
