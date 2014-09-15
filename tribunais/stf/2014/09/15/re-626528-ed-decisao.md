@@ -1,0 +1,21 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. OBSCURIDADE INEXISTENTE. EMBARGOS REJEITADOS.
+Relatório
+    1. Em 4.8.2010, dei provimento ao recurso extraordinário interposto por Anderson Roque Gaspari e outros contra julgado do Tribunal Regional Federal da Quarta Região, para “afastar a contribuição ao Funrural incidente sobre a comercialização da produção rural de empregadores pessoas naturais, nos termos da jurisprudência do Supremo Tribunal Federal” (fls. 354-357).
+    2. Publicada essa decisão no DJe de 23.8.2010 (fl. 358), opõem Anderson Roque Gaspari e outros, em 25.8.2010, tempestivamente, embargos de declaração (fls. 361-370).
+    3. Os Embargantes afirmam que “embora a presente decisão estampe a inconstitucionalidade da cobrança do FUNRURAL, incidente sobre a comercialização da produção rural de empregadores pessoas físicas, a expressão ‘até que legislação nova, arrimada na Emenda Constitucional 20/98, venha a instituir contribuição’ padece de obscuridade” (fl. 362).
+    Asseveram que “ante o ajuizamento de outras demandas sedimentadas no entendimento atual do STF, alguns juízes e desembargadores querem sustentar que, com a edição da lei ordinária nº 10.256/01, a cobrança do FUNRURAL incidente sobre a comercialização da produção rural de empregadores pessoas naturais, não é inconstitucional” (fl. 362).
+    Argumentam que, todavia, “esse modelo trazido pela atual redação do artigo 25 da Lei 8.212/91, introduzida pela Lei nº 10.256/01 e demais dispositivos mencionados, também não se amolda aos preceitos constitucionais dos artigos 194, § 4º e 154, I” e que “da simples leitura se torna claro que a Lei nº 10.256/01 somente veio a alterar alguns vocábulos da redação da legislação ordinária anterior e não foi sedimentada na EC nº 20/98” (fls. 365 e 368).
+    Requerem seja sanada a obscuridade apontada, esclarecendo-se que “a ‘legislação nova, arrimada na Emenda Constitucional 20/98’, a qual ‘venha a instituir contribuição’, somente poderá ser uma Lei Complementar” (fl. 370).
+    Apreciada a matéria trazia na espécie, DECIDO.
+    4. Opostos os embargos de declaração contra decisão monocrática sob alegação de ocorrência de vício do art. 535 do Código de Processo Civil, dispensa-se a conversão destes embargos em agravo regimental para julgamento pela Turma (RE 476.109-ED, Relator o Ministro Cezar Peluso, DJe 8.10.2007; RE 411.024-ED, Relator o Ministro Sepúlveda Pertence, DJ 11.5.2004; RE 277.612, Relator o Ministro Carlos Velloso, DJ 12.11.2001; RE 606.665-ED, de minha relatoria, DJe 18.12.2013; RE 332.265-ED, Relator o Ministro Teori Zavascki, DJe 3.5.2013; e RE 554.026-ED, Relator o Ministro Ricardo Lewandowski, DJe 11.10.2001).
+    5. Razão jurídica não assiste aos Embargantes.
+    6. Não há obscuridade a ser sanada. O recurso extraordinário foi provido em conformidade com a jurisprudência deste Supremo Tribunal, que assentou pela sistemática da repercussão geral:
+    “Ante o texto constitucional, não subsiste a obrigação tributária sub-rogada do adquirente, presente a venda de bovinos por produtores rurais, pessoas naturais, prevista nos artigos 12, incisos V e VII, 25, incisos I e II, e 30, inciso IV, da Lei nº 8.212/91, com as redações decorrentes das Leis nº 8.540/92 e nº 9.528/97” (RE 363.852, Relator o Ministro Marco Aurélio, Plenário, DJe 23.4.2010).
+    Decidiu-se, neste julgado, declarar “a inconstitucionalidade do artigo 1º da Lei nº 8.540/92, que deu nova redação aos artigos 12, V e VII, 25, I e II, e 30, IV, da Lei 8.212/91, com a redação atualizada até a Lei 9.528/97, até que legislação nova, arrimada na Emenda Constitucional 20/98, venha a instituir a contribuição” (grifos nossos).
+    7. A decisão embargada aplicou, com clareza e fundamentação, o entendimento consolidado neste Supremo Tribunal sobre a matéria. A questão relativa à constitucionalidade, ou não, da Lei n. 10.256/2001 não foi tratada neste recurso, sequer tendo sido objeto do mandado de segurança ou do recurso extraordinário interposto pelos Embargantes.
+    8. Pelo exposto, rejeito os embargos de declaração pela ausência de obscuridade.
+    Publique-se.
+    Brasília, 15 de setembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
