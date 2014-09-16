@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 4ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado:
+    “Funcionárias Públicas Estaduais Vínculo estatutário - Exercício de cargo em comissão - Art. 40, §13, da CF - Pretensão de inscrição no Regime Geral da Previdência Social - Impossibilidade - Sentença de improcedência mantida - Apelo desprovido.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 40, § 13, e 201, ambos da Carta. Sustenta, em síntese, que o servidores comissionados do Estado de São Paulo devem ser amparados pelo Regime Geral da Previdência Social. Alega que o Tribunal de origem abriu margem para a interposição do recurso com base na alínea c ao permitir que se deixasse de proceder ao recolhimento das contribuições.
+    A decisão agravada negou seguimento ao recurso, pelos seguintes fundamentos:
+    (i) “os argumentos expendidos não são suficientes para infirmar as conclusões do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada.”
+    (ii) “sob o pálio da alínea c, conforme anotado no ARE 646.035 AgR/SP, in DJU de 13/09/2011 ‘incabível recurso extraordinário interposto com fundamento no art. 102, inc. III, alínea ‘c’, da Constituição da República, quando não há aplicação da lei local em detrimento da Constituição’. É a hipótese dos autos, onde, em nenhum momento, se enfrenta tal situação.”
+    No agravo, a parte insiste na alegação de ofensa direta aos dispositivos constitucionais destacados no recurso extraordinário.
+    A pretensão não merece acolhida. Com efeito, o Supremo Tribunal Federal possui entendimento sedimentado no sentido de que somente os ocupantes de cargo em comissão sem vínculo efetivo com a Administração devem ser filiados ao regime geral de previdência. Neste sentido, destaco a ementa do RE 409295, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Administrativo. Ocupantes de cargo em comissão. Filiação ao Regime Geral de Previdência Social. Advento da EC nº 20/98. Direito adquirido a regime jurídico previdenciário. Inexistência. Precedentes. 1. Os ocupantes de cargo em comissão de forma exclusiva estão sujeitos ao regime geral de previdência social. 2. É pacífica a jurisprudência desta Corte de que não há direito adquirido a regime jurídico, inclusive o previdenciário. 3. Aplica-se à aposentadoria a norma vigente à época do preenchimento dos requisitos para a sua concessão. 4. Agravo regimental não provido.” (Negrito acrescentado)
+    Verifico que o acórdão recorrido não divergiu da orientação assentada pelo Plenário desta Corte, uma vez que os recorrentes são, na realidade, servidores efetivos exercendo cargo em comissão, conforme depreende-se do seguinte trecho:
+    “As autoras, servidoras públicas estatutárias, regidas pelo Estatuto dos Funcionários Públicos do Estado de São Paulo (Lei n° 10.261, de 28 de outubro de 1968) estão sujeitas ao Regime Próprio Previdenciário de Servidor Público.
+    Frise-se que os seus vínculos com o Estado são estatutários, tendo garantidos os direitos naquela lei previstos, dentre eles o da aposentadoria, assegurado, também, pelo texto constitucional (art. 40, §1°). Tanto é que, conforme cópia dos demonstrativos de pagamentos juntados às fls. 16/20, têm descontado de seus vencimentos contribuição ao IPESP.
+    (…)
+    Dessa maneira, conclui-se impossível a inscrição das autoras, servidoras públicas com vínculo estatutário – e não celetista – com o Estado, no Regime Geral de Previdência Social, como requerido na inicial”
+    De fato, dissentir das conclusões adotadas demandaria tão somente o reexame do acervo probatório constantes dos autos, providência vedada nesta fase processual (Súmula 279/STF).
+    Por fim, no que tange à interposição do recurso extraordinário com base na alínea c do permissivo constitucional, tal como observou a decisão agravada, não houve aplicação da lei local em detrimento da Constituição.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 16 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
