@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR ESTADUAL. GRATIFICAÇÃO POR ATIVIDADE DE POLÍCIA GAP. INCORPORAÇÃO. LEIS COMPLEMENTARES ESTADUAIS N.º 873/2000 E 1.021/2007. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 815.188-RG. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. A Gratificação de Atividade de Polícia-GAP, quando sub judice a incorporação integral ao salário-base dos policiais militares do Estado de São Paulo, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE 815.188-RG, da Relatoria do Ministro Teori Zavascki, DJe de 3/9/2014.
+2. In casu, o acórdão recorrido assentou: “POLICIAL MILITAR. REAJUSTE DE REMUNERAÇÃO GAP. Pretensão à incorporação integral da GAP, instituída pela LC 873/00 ao salário-base, nos termos da LC 1.021/07. Afirmação de que a Gratificação era paga no valor de R$100,00, porém o Estado incorporou apenas R$50,00. Impossibilidade. A Administração absorveu a GAP no valor de R$50,00 sobre o vencimento padrão, porém o quantum remanescente foi contemplado no RETP. Ausência de prejuízo - critério adotado pela Administração que não incorreu em redução salarial - Vedação ao artigo 37, XIV da CF - Precedentes do Tribunal de Justiça de São Paulo - Recurso improvido.”.
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por Adevair Teles Porto e Outros, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional contra acórdão que assentou:
+    “POLICIAL MILITAR. REAJUSTE DE REMUNERAÇÃO GAP. Pretensão à incorporação integral da GAP, instituída pela LC 873/00 ao salário-base, nos termos da LC 1.021/07. Afirmação de que a Gratificação era paga no valor de R$100,00, porém o Estado incorporou apenas R$50,00. Impossibilidade. A Administração absorveu a GAP no valor de R$50,00 sobre o vencimento padrão, porém o quantum remanescente foi contemplado no RETP. Ausência de prejuízo - critério adotado pela Administração que não incorreu em redução salarial - Vedação ao artigo 37, XIV da CF - Precedentes do Tribunal de Justiça de São Paulo - Recurso improvido.”
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação do artigo 37, XV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por não vislumbrar violação direta à Constituição Federal.
+    É o relatório. DECIDO.
+    A Gratificação de Atividade de Polícia-GAP, quando sub judice a incorporação integral ao salário-base dos policiais militares do Estado de São Paulo, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE 815.188-RG, da Relatoria do Ministro Teori Zavascki, DJe de 3/9/2014, verbis.
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. ESTADO DE SÃO PAULO. POLICIAIS MILITARES. GRATIFICAÇÃO DE ATIVIDADE POLICIAL (GAP). INCORPORAÇÃO AO SALÁRIO-BASE. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia relativa à incorporação da Gratificação de Atividade Policial ao salário-base dos policiais militares do Estado de São Paulo, envolvendo a interpretação das Leis Complementares estaduais 873/00 e 1.021/07, é de natureza infraconstitucional.
+    2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009).
+    3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de setembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
