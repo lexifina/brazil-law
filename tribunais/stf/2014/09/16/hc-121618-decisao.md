@@ -1,0 +1,27 @@
+Decisão:
+Ementa: Habeas corpus originário. Uso de documento falso. Momento consumativo. Prescrição da pretensão punitiva. 1. O uso de documento falso, crime instantâneo de efeitos permanentes, consuma-se com o primeiro ato de uso. 2. para crimes cometidos antes da Lei nº 12.234/2010, a prescrição retroativa pode alcançar o período compreendido entre os fatos e o recebimento da denúncia. 3. Ordem concedida.
+    1. Trata-se de habeas corpus originário impetrado contra acórdão da unânime da Quinta Turma do Superior Tribunal de Justiça, da relatoria do Ministro Moura Ribeiro, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES CONTRA A FÉ PÚBLICA. USO DE DOCUMENTO FALSO. ART. 304, DO CÓDIGO PENAL. DOCUMENTO FALSO. AUTENTICAÇÃO EM CARTÓRIO. ENVIO FAC-SÍMILE. UTILIZAÇÃO. PRESTAÇÃO DE SERVIÇOS COMO CONTADORA. CONFIGURAÇÃO DO CRIME. PECULIARIDADE. DESNECESSIDADE DE APRESENTAÇÃO FÍSICA DO DOCUMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Enquadra-se na hipótese do art. 304, do Código Penal quem se vale da internet para forjar carteira do Conselho Regional de Contabilidade do Estado do Rio Grande do Norte e a autentica, enviando-a por fax à Secretaria Estadual de Tributação para obter trabalho de Contadora, ludibriando o órgão oficial e diversas empresas.
+    2. Documento público autenticado em Cartório tem a mesma fé do seu original (art. 223, do CC/2002 e art. 365, III, do CPC).
+    3. Caso peculiar em que houve autenticação do documento forjado em cartório, entendendo esta Corte Superior ser desnecessária a apresentação física do documento falso para a caracterização do delito em tela.
+    4. Agravo regimental não provido.”
+    2. Extrai-se dos autos que a paciente foi denunciada pela suposta prática do delito de uso de documento falso porque teria, durante o período compreendido entre 2004 e 2006, utilizado carteira falsificada do Conselho Regional de Contabilidade do Rio Grande do Norte.
+    3. A denúncia foi recebida em 05.08.2009 e, após a instrução do feito, a paciente foi absolvida em primeira instância, com fundamento no artigo 386, inciso III, do Código de Processo Penal.
+    4. O Tribunal Regional Federal da 5ª Região, em sessão realizada no dia 07.06.2012, deu provimento à apelação do Ministério Público Federal e condenou a paciente à pena de 2 (dois) anos de reclusão, em regime inicial aberto e ao pagamento de 10 (dez) dias-multa.
+    5. No Superior Tribunal de Justiça, o Relator do Resp 1.363.665, Ministro Moura Ribeiro, negou seguimento ao recurso apresentado pela defesa. Essa decisão foi mantida pela Quinta Turma do Superior Tribunal de Justiça, no julgamento do agravo regimental interposto pela ora impetrante.
+    6. Desse acórdão foram opostos embargos de declaração pela ausência de pronunciamento a respeito da prescrição da pretensão punitiva. Os embargos foram rejeitados pelo fundamento de que, “de acordo com a pena fixada de 2 (dois) anos, entre a data do recebimento da denúncia, aos 05/08/2009 (fl. 112), e a publicação do acórdão condenatório proferido pelo Tribunal de origem, aos 18/06/2012 (fl. 167), não transcorreram 4 (quatro) anos, nos termos do art. 109, V, do Código Penal, não cabendo falar, portanto, em perda da pretensão punitiva ou executória da pena.”
+    7. Neste habeas corpus, a Defensoria Pública da União insiste na tese de ocorrência da prescrição da pretensão punitiva entre a data do fato (22.10.2004) e o recebimento da denúncia (05.08.2009). Requer, assim, a concessão da ordem para declarar-se extinta a punibilidade da ora paciente.
+    8. A Procuradoria-Geral da República opinou pela denegação da ordem por entender que “os crimes praticados a partir de 6 de agosto de 2005” não teriam sido alcançados pelo prazo prescricional aplicável ao caso.
+    Decido.
+    9. Da leitura das peças que instruem a impetração verifica-se que os fatos implicados na ação penal são anteriores à Lei nº 12.234/2010, incidindo à espécie, portanto, a antiga redação do art. 110, §2º, do Código Penal.
+    10. Dito isto, observa-se do acórdão condenatório que o delito imputado à paciente consumou-se em 22.10.2004, data na qual teria ocorrido a transmissão do documento ideologicamente falso à Secretaria Estadual de Tributação do Estado do Rio Grande do Norte. Além disso, ao contrário do afirmado pela Procuradoria-Geral da República, a paciente, apesar de a denúncia referir-se genericamente ao período de 2004 2006, foi condenada por um único fato, tendo sido considerada a data da consumação do crime aquela coincidente “com o primeiro ato de utilização do documento falso” (trecho do acórdão condenatório). Essa orientação está alinhada com o entendimento estabelecido pela Primeira Turma do Supremo Tribunal Federal, no recente julgamento da AP 530, Redator para o acórdão Min. Luís Roberto Barroso.
+    11. Nessas condições, considerada a pena concreta de 2 anos de reclusão e o prazo prescricional de 4 anos, verifica-se a ocorrência de prescrição entre a data da consumação do delito de uso de documento falso (22.10.2004) e a data do recebimento da denúncia (05.08.2009).
+    12. Diante do exposto, com base no art. 192 do RI/STF, concedo a ordem para reconhecer a prescrição retroativa dos fatos implicados na apelação criminal nº 2009.84.00.004412-4, do Tribunal Regional Federal da 5ª Região.
+    Comunique-se, com urgência.
+    Intime-se.
+    Publique-se.
+          Brasília, 16 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
