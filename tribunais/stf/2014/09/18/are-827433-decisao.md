@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 97, § 1º, I, e § 2º, do ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. FINANCEIRO. PRECATÓRIOS. COMPLEMENTAÇÃO DE PRECATÓRIO ORIGINAL. NÃO CONFIGURAÇÃO DAS HIPÓTESES PERMISSIVAS. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa. ADI 2.024/SP, Rel. Min. Carlos Velloso. II – A não verificação de uma das hipóteses permissivas enseja a expedição de novo precatório, observada a vedação do § 8º do art. 100 da CF/1988. III – Agravo regimental a que se nega provimento” (ARE 722803 AgR/SP, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 15.8.2014).
+    “EMENTA Agravo regimental no agravo de instrumento. Precatório. Crédito complementar. Dispensa da expedição de novo precatório. Hipóteses. Período entre a realização dos cálculos e a requisição do valor ao Tribunal de origem. Incidência de correção monetária. Precedentes. 1. A jurisprudência desta Corte pacificou-se no sentido de que a dispensa de novo precatório ocorrerá quando se tratar de crédito apurado em razão de erro material ou de inexatidão aritmética dos cálculos do precatório, ou na hipótese de substituição, por força de lei, do índice aplicado. 2. O Plenário do Supremo Tribunal Federal, no julgamento do ARE nº 638.195/RS, Relator o Ministro Joaquim Barbosa, reconheceu a repercussão geral da matéria e concluiu ser “devida correção monetária no período compreendido entre a data de elaboração do cálculo da requisição de pequeno valor - RPV e sua expedição para pagamento”. 3. Agravo regimental não provido” (AI 821239 AgR/RS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 02.04.2014).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de setembro de 2014.
+Ministra Rosa Weber
+Relatora
