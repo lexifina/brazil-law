@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de Recurso Extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa transcrevo a seguir, no que interessa:
+    “APELAÇÃO CÍVEL. INDENIZATÓRIA. AÇÃO CIVIL EX DELICTO. MEDIDA CAUTELAR INOMINADA EM APENSO. PRELIMINARES DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO E FALTA DE INTERESSE DE AGIR REJEITADAS. RÉU, EX-FUNCIONÁRIO DA PARTE AUTORA, COM ATRIBUIÇÃO VINCULADA AO DEPARTAMENTO FINANCEIRO. FRAUDE. SIMULAÇÃO DE PAGAMENTOS DESTINADOS A EMRPESAS NÃO CADASTRADAS MEDIANTE ESTELIONATO. REVELIA. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. SÚMULA 418 DO STJ. INAPLICABILIDADE. INDEPNDÊNCIA DAS ESFERAR CÍVEL E PENAL. DANOS MATERIAIS COMPROVADOS. RESTITUIÇÃO DA QUATIA DESVIADA. DESPROVIMENTO DO RECURSO.” (eDOC 19)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, LIV, LV e LVII, do texto constitucional.
+    Nas razões recursais, alega-se violação ao devido processo legal, bem como insurge-se contra a utilização dos depoimentos colhidos em processo penal para a ação civil ex delicto.
+    A 3ª Vice-Presidência do TJRJ inadmitiu o recurso por reputar que o acórdão recorrido está em consonância com a jurisprudência do STF.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, vale dizer que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, conforme o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013. Nesse sentido, tal orientação deve ser aplicada no caso em comento, de modo a não conhecê-lo.
+    Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, constato que a alegação de violação ao princípio da presunção de não culpabilidade está dissociada das razões do acórdão recorrido, o que não enseja a abertura da via do recurso extraordinário, nos termos do Enunciado da Súmula 287 do STF.
+    Mesmo que assim não fosse, a jurisprudência do STF tem-se firmado no sentido de ser possível a utilização de prova emprestada, para fins de indenização em processo civil, bem como a independência das esferas cível, penal e administrativa não viola o princípio da presunção de inocência.
+    Nesse sentido, cito os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. UTILIZAÇÃO DE PROVA EMPRESTADA. ALEGADA CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(ARE 777953 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 27.11.2013)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA CRIMINAL. AÇÃO PENAL. CONDENAÇÃO. CRIME PREVISTO NA LEI DE LICITAÇÕES. ALEGAÇÃO DE IMPROCEDÊNCIA DA AÇÃO DE IMPROBIDADE ADMINISTRATIVA. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. INDEPENDÊNCIA DAS INSTÂNCIAS ADMINISTRATIVA, CIVIL E PENAL. JURISPRUDÊNCIA DO STF. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. O acórdão recorrido afina com a jurisprudência desta nossa Corte, no sentido da independência das instâncias administrativa, civil e penal. Independência, essa, que não fere o princípio da presunção de inocência. Precedentes: MS 23.625, da relatoria do ministro Maurício Corrêa; HC 85.953, da minha relatoria; e RHC 91.110, da relatoria da ministra Ellen Gracie. 3. Agravo regimental desprovido.”
+(AI 747753 AgR, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 28.10.2010, grifei)
+    Na espécie, verifico que divergir do entendimento assentado pelo tribunal a quo demandaria o revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável à espécie. Aplica-se, portanto, o Enunciado da Súmula 279 do Supremo Tribunal Federal.
+    Ante o exposto, conheço do presente agravo para negar-lhe seguimento (art. 544, §4º, II, a, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 18 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
