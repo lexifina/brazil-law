@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça que negou provimento ao agravo regimental interposto nos autos do HC 275.214/ES.
+    Consta dos autos, em síntese, que (a) o paciente foi denunciado pela suposta prática do crime de furto tentado (art. 155, caput, c/c art. 14, II, do CP), mas o juízo de primeira instância absolveu-o sumariamente em razão do princípio da insignificância; (b) o Tribunal de Justiça do Estado do Espírito Santo deu provimento ao recurso de apelação do Ministério Público, para determinar o prosseguimento da ação penal; (c) inconformada, a defesa impetrou habeas corpus no Superior Tribunal de Justiça, ocasião em que o Ministro Relator não conheceu do pedido; (d) dessa decisão, foi interposto agravo regimental, que foi improvido, em acórdão assim ementado:
+    “(...)
+    1. Os Tribunais Superiores restringiram o uso do habeas corpus e não mais o admitem como substitutivo de outros recursos e nem sequer para as revisões criminais.
+    2. A jurisprudência desta Corte entende, em determinadas hipóteses, ser aplicável o princípio da insignificância quando preenchidos certos requisitos, quais sejam, conduta minimamente ofensiva, a ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e lesão jurídica inexpressiva.
+    3. Entretanto, no caso dos autos, não há que se falar em reduzido grau de reprovabilidade da conduta do agente porque, além de ter invadido a residência da vítima, não se pode considerar ínfima a subtração de um tênis avaliado em R$ 190,00 (cento e noventa reais), situação incompatível com a aplicação do princípio da insignificância.
+    4. Agravo regimental não provido”.
+    Neste recurso ordinário, o recorrente sustenta, em suma, que valor da res furtiva (R$ 190,00) autoriza a aplicação do princípio da insignificância. Requer, liminarmente, a suspensão da ação penal.
+    2. O deferimento de medida liminar supõe, além da comprovação da urgência da medida, a demonstração inequívoca da plausibilidade do direito invocado. Os requisitos, no caso, não se mostram presentes.
+    O Superior Tribunal de Justiça registou que a conduta do paciente, consistente em tentar subtrair um tênis avaliado em R$ 190,00 (cento e noventa reais) mediante violação de domicílio, não pode ser tida como irrelevante para os fins a que se destina a tipificação do delito. Esse entendimento encontra, à primeira vista, respaldo na jurisprudência desta Corte:
+    “(…) I – A aplicação do princípio da insignificância, de modo a tornar a ação atípica, exige a satisfação, de forma concomitante, de certos requisitos, quais sejam, conduta minimamente ofensiva, ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e lesão jurídica inexpressiva. II – Na hipótese dos autos, a conduta do recorrente não pode ser considerada minimamente ofensiva, porque o furto de um aparelho de DVD de valor estimado de R$ 90,00 (noventa reais) foi praticado mediante invasão do domicílio da vítima (…)” (RHC 119303, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 24/09/2013, PROCESSO ELETRÔNICO DJe-241 DIVULG 06-12-2013 PUBLIC 09-12-2013).
+    A urgência da medida também não foi demonstrada, não sendo suficiente, para esse fim, a mera tramitação da ação penal. Ademais, não há notícia de segregação cautelar do paciente, ou de sua iminente prisão.
+    4. Com essas considerações, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 18 de setembro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
