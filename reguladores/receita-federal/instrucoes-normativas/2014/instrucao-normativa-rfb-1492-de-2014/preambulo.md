@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1492, de 17 de setembro de 2014
+Altera a Instrução Normativa RFB nº 1.397, de 16 de setembro de 2013, que dispõe sobre o Regime Tributário de Transição (RTT) instituído pelo art. 15 da Lei nº 11.941, de 27 de maio de 2009.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 72 a 75 e inciso X do art. 117 da Lei nº 12.973, de 13 de maio de 2014, resolve:
