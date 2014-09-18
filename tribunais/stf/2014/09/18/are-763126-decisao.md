@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PENSÃO POR MORTE. REGÊNCIA. LEGISLAÇÃO VIGENTE À DATA DO ÓBITO DO INSTITUIDOR. PRECEDENTES. FILHA SOLTEIRA MAIOR DE VINTE E UM ANOS. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO VIRTUAL DO STF NO RE 610.220-RG. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. A pensão por morte rege-se pela legislação em vigor na data do óbito do instituidor do benefício e deve corresponder à totalidade dos vencimentos do servidor falecido. Precedentes: ARE 763.761-AgR, Rel. Cármen Lúcia, Segunda Turma, DJe 10/12/2013, e RE 581.530-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 8/8/2013.
+2. A pensão da filha solteira maior de 21 anos, quando sub judice a controvérsia, não possui repercussão geral apta à tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF nos auto do RE 610.220-RG, da Relatoria da Ministra Ellen Gracie.
+3. In casu, o acórdão recorrido assentou: “AGRAVO INTERNO. REPETIÇÃO DOS ARGUMENTOS EXPENDIDOS NA APELAÇÃO. COMODISMO INACEITÁVEL. IMPROVIMENTO DO RECURSO.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO – RIOPREVIDÊNCIA, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “AGRAVO INTERNO. REPETIÇÃO DOS ARGUMENTOS EXPENDIDOS NA APELAÇÃO. COMODISMO INACEITÁVEL. IMPROVIMENTO DO RECURSO” (fl. 145).
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, I, e 201, V, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o conhecimento do recurso encontra óbice na Súmula 280 do STF.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    O acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal no sentido de que a pensão por morte rege-se pela legislação em vigor na data do óbito do instituidor do benefício (princípio tempus regit actum) e deve corresponder à totalidade dos vencimentos do servidor falecido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. FISCAIS DE RENDA. PENSÃO POR MORTE. 1) A pensão por morte rege-se pela legislação em vigor na data do falecimento do segurado. Princípio da lei do tempo rege o ato (tempus regit actum). Precedentes. 2) Impossibilidade de análise de legislação local (Lei Complementar estadual n. 69/1990 e Lei estadual n. 3.189/1999). Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental ao qual se nega provimento” (ARE 763.761-AgR, Rel. Cármen Lúcia, Segunda Turma, DJe 10/12/2013).
+    “Agravo regimental em recurso extraordinário. Pensão por morte. Concessão. Regulamentação. Tempus regit actum. Manutenção. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O entendimento firmado na Corte é de que se aplica à pensão por morte a lei vigente ao tempo em que ocorrido o fato ensejador de sua concessão. 2. O Tribunal de origem, analisando a Lei Complementar estadual nº 109/97, a Lei Federal nº 9.717/98 e os fatos e as provas dos autos, concluiu que a agravada faria jus à pensão por morte. 3. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 280, 636 e 279/STF. 4. Agravo regimental não provido” (RE 581.530-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 8/8/2013).
+    Demais disso, o direito da filha solteira maior de 21 anos à percepção de pensão não possui repercussão geral apta à tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF nos auto do RE 610.220-RG, da Relatoria da Ministra Ellen Gracie, que possui a seguinte ementa:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO À PENSÃO PARA FILHA SOLTEIRA MAIOR DE 21 ANOS. LEI ESTADUAL 7.672/82 DO RIO GRANDE DO SUL. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO ESTADUAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de setembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
