@@ -1,0 +1,20 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto contra acórdão da Sexta Turma do Superior Tribunal de Justiça proferido nos autos do HC 291.368/SE.
+    Consta dos autos, em síntese, que (a) o recorrente foi condenado em primeira instância à pena de 3 meses de detenção pela prática do crime de inobservância de lei, regulamento e instrução (art. 324 do CPM), concedido sursis pelo prazo de 2 anos; (b) buscando a absolvição, a defesa apelou para o Tribunal de Justiça do Estado de Sergipe, que negou provimento ao recurso; (c) inconformada, a defesa impetrou habeas corpus no Superior Tribunal de Justiça, que não conheceu da impetração, em acórdão assim ementado:
+    “(...)
+    1. Na linha dos precedentes desta Corte, a alegação de inépcia da denúncia deve ser deduzida antes da prolação do édito condenatório, sob pena de convalidação pelo princípio da preclusão.
+    2. No caso, a suposta irregularidade da denúncia não foi deduzida e, por esse motivo, sequer debatida pelo Tribunal de Justiça do Sergipe; ademais, foi levantada pela defesa após a prolação da sentença condenatória, do acórdão que a confirmou e do trânsito em julgado para as partes.
+    3. A tese absolutória, quando demandar a análise de conteúdo fático-probatório dos autos, como na hipótese, não pode ser analisada na via estreita e célere do habeas corpus. Precedentes.
+    4. A prática de ato prejudicial à administração militar, no aspecto dos princípios que a norteiam - em especial os da probidade, moralidade e impessoalidade -, caracteriza a elementar contida no artigo 324 do Código Penal Militar, pois o tipo não faz qualquer previsão sobre a natureza jurídica do prejuízo.
+    5. Na hipótese, o policial militar deixou, no exercício da função de fiscalização de trânsito, de observar o Código de Trânsito Brasileiro, ao não lavrar auto de infração durante a abordagem de cidadão aparentemente embriagado, sem capacete, carteira de motorista e documento da motocicleta, dando causa, segundo delimitado pelas instâncias ordinárias, à prática de ato prejudicial à administração militar, no aspecto da probidade administrativa, moralidade e impessoalidade, princípios que dão eficácia e preservam a reputação das instituições militares.
+    6. O Estatuto dos Policiais Militares de Sergipe dispõe, em seu artigo 27, que seus integrantes devem ter conduta moral e profissional irrepreensível e exercer com probidade as funções que lhe couberem em decorrência do cargo, cumprindo e fazendo cumprir as leis, os regulamentos, as instruções e as ordens das autoridades competentes.
+    7. Mostra-se inviável a análise direta, por este Superior Tribunal, da pretendida aplicação do princípio da insignificância, visto que a Corte estadual, em momento algum, analisou se estariam preenchidos os vetores para a sua incidência.
+    8. A ação constitucional do habeas corpus não é via adequada para se requerer a declaração de inconstitucionalidade de lei, em tese, pois tal matéria é reservada ao controle concentrado de normas, de competência do Supremo Tribunal Federal.
+    9. Ordem não conhecida”.
+     Neste recurso ordinário, o recorrente alega, em suma, que (a) a ausência de prejuízo à administração militar implica em atipicidade da conduta; (b) o tipo penal previsto no art. 324 do CPM é inconstitucional, na medida em que descreve comportamento vago e impreciso; (c) não há provas suficientes para embasar a condenação. Requer-se, ao final, o deferimento de medida liminar, para suspender a execução penal.
+    2. A concessão liminar da ordem supõe, além da comprovação da urgência da medida, a demonstração inequívoca da plausibilidade do direito invocado, requisitos estes que, no caso, não se mostram presentes. Ademais, ao que tudo indica, não está em risco imediato o direito de locomoção do paciente, na medida em que fora beneficiado com a suspensão condicional da pena.
+    3. Com essas considerações, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 18 de setembro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
