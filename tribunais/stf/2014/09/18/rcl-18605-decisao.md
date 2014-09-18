@@ -1,0 +1,39 @@
+RECLAMAÇÃO. CONSTITUCIONAL. AÇÃO INDENIZATÓRIA. COMPETÊNCIA. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE 22 DO SUPREMO TRIBUNAL FEDERAL. ATO RECLAMADO ANTERIOR À EDIÇÃO DO VERBETE VINCULANTE. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Cuida-se de reclamação, com pedido de liminar, ajuizada por Khronos Segurança Privada Ltda em face de decisões proferidas pela 3ª Turma do Superior Tribunal de Justiça e pela 4ª Câmara de Direito Civil do Tribunal de Justiça de Santa Catarina/SC, que teriam reconhecido a competência da justiça comum estadual para processar e julgar ação indenizatória, em violação ao enunciado da Súmula Vinculante 22 desta Corte.
+    A reclamante narra que, em 1º/6/2006, Leontina Maria de Souza da Silva e outros ingressaram com Reclamação Trabalhista perante a Vara do Trabalho de São José/SC, postulando indenização por danos morais e materiais, diante do acidente de trabalho de José Raul da Silva, que causou-lhe a morte.
+    O Juiz do Trabalho declarou-se incompetente para julgar a lide, remetendo os autos para o Juízo Comum, o qual, do mesmo modo, não reconheceu sua competência para processamento e julgamento do feito.
+    Instaurado o Conflito Negativo de Competência, os autos foram remetidos ao Superior Tribunal de Justiça, que, em 26/2/2007, julgou o feito e declarou competente o Juízo de Direito da 2ª Vara Cível de São José/SC, que, por sua vez, ao julgar a ação, no mérito, julgou-a improcedente.
+    Irresignada, a parte apelou para o Tribunal de Justiça de Santa Catarina/TJSC, que manteve o processo na Justiça Comum.
+    Sobreveio Recurso Especial, que, não sendo admitido na origem, foi objeto de, respectivamente, Agravo de Instrumento, Embargos de Declaração e Agravo Regimental.
+    Em 21/8/2014, o Superior Tribunal de Justiça, ao decidir os embargos de declaração, manteve a decisão e os efeitos do Conflito Negativo de Competência. Destaco a ementa do acórdão:
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL.
+    1. Embargos de declaração que apontam suposta omissão e contradição em relação à admissibilidade do recurso especial.
+    2. Pretensão que, a pretexto de omissão/contradição, constituiu mero inconformismo com os fundamentos assentados no acórdão embargado.
+    3. Competência pra julgamento que já foi definida por esta Corte nos autos do CC 75.394/SC.
+    4. Embargos declaração rejeitados.”
+    O reclamante aduz, em amparo a sua pretensão, que
+    “em ambas as Cortes (STJ e TJSC) verifica-se evidente violação a Súmula Vinculante n. 22 do STF, não restando outra ação da parte (que em todas demais oportunidades se manifestou pela incompetência da Justiça Comum para processar e julgar esta matéria)”.
+    Sustenta, ainda, que “(...) a ação indenizatória foi ingressada somente em junho de 2006, ou seja, quase dois anos após a promulgação da Emenda Constitucional referida, a sentença, julgando improcedente o pedido formulado foi proferida em 01 de setembro de 2010, o acórdão que reformou a sentença, somente aos 25 de abril de 2013 e a última decisão do STJ, desacolhendo a questão de ordem quanto a competência, aos 21 de agosto de 2014.”
+    Requer, ao final, seja deferida a liminar para “determinar-se ao Juízo Reclamado, cautelarmente e até o julgamento final da presente Reclamação Constitucional, a suspensão da tramitação do Processo de número originário “064.06.020350-5” da 2ª Vara Cível da Comarca de São José”.
+    No mérito, pugna pela
+    “procedência dos pedidos formulados na presente Reclamação, a fim de, confirmando-se os termos da medida cautelar/liminar requestada no item “c” supra, anular todos os atos praticados pela Justiça Comum nos autos do processo referido no item “36.3” e remeter o processo em questão para processamento e julgamento pela Justiça Especializada do Trabalho”.
+    É o relatório. DECIDO.
+    A presente reclamação não merece seguimento. Explico.
+    A decisão apontada na inicial como contrária à Súmula Vinculante 22 apenas assentou que não estavam presentes os requisitos de admissibilidade do recurso manejado pela reclamante, ressaltando que, no que atine à competência para o julgamento do feito, a matéria já havia sido definitivamente apreciada no CC 75.394/SC. É essa decisão que deve ser considerada para efeito de verificação da suposta violação ao referido enunciado sumular.
+    Pois bem. O Superior Tribunal de Justiça, ao apreciar o Conflito de Competência 75.394/SC, reconheceu a competência da Justiça Comum Estadual para o feito objeto desta reclamação. Essa decisão transitou em julgado em 26/2/2007.
+    A Súmula Vinculante 22, por sua vez, foi aprovada pelo Tribunal Pleno em 2/12/2009 e publicada no DJe de 11/12/2009, e possui o seguinte teor:
+    “a Justiça do Trabalho é competente para processar e julgar as ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho propostas por empregado contra empregador, inclusive aquelas que ainda não possuíam sentença de mérito em primeiro grau quando da promulgação da Emenda Constitucional n. 45/04”.
+    Verifica-se, pois, que o verbete vinculante que se alega desrespeitado foi editado em data muito posterior à decisão reclamada.
+    A jurisprudência desta Corte se firmou no sentido de que não cabe Reclamação por alegação de afronta à autoridade de decisão ou de súmula vinculante do Supremo Tribunal Federal proferida/editada posteriormente ao ato reclamado. É o que se colhe dos seguintes arestos:
+     “CONSTITUCIONAL E PROCESSUAL CIVIL. RECLAMAÇÃO. DECISÃO RECLAMADA PROFERIDA EM DATA ANTERIOR AO PRONUNCIAMENTO DO STF DOTADO DE EFICÁCIA VINCULANTE. NÃO CABIMENTO. PRECEDENTES. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+      1. A jurisprudência deste Supremo Tribunal Federal é pacífica quanto ao não cabimento de reclamação quando o ato reclamado é anterior à decisão tida por violada.
+      2. Agravo regimental não provido” (Rcl 10.199-AgR/SC, Rel. Min. Teori Zavascki).
+    “O CABIMENTO DE RECLAMAÇÃO, NOS TERMOS DO ART. 103-A, § 3º, DA CONSTITUIÇÃO DA REPÚBLICA, PRESSUPÕE A EXISTÊNCIA DE SÚMULA VINCULANTE ANTERIOR À DECISÃO IMPUGNADA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl 7.989-AgR, Rel. Min. Cármen Lúcia).
+    “RECLAMAÇÃO. Inadmissibilidade. Alegação de ofensa à súmula vinculante n. 10. Decisão anterior à edição desta. Seguimento negado. Agravo improvido. Não cabe reclamação por ofensa a súmula vinculante editada após a decisão impugnada” (Rcl 8.846-AgR, Rel. Min. Cezar Peluso).
+    “Agravo interno em reclamação – Alegada ofensa à autoridade do STF e à eficácia da Súmula Vinculante nº 10 - Decisão reclamada anterior ao paradigma – Desrespeito não configurado - Agravo regimental não provido. 1 - Ato reclamado anterior à Súmula Vinculante nº 10, que se apresentou como paradigma. Caso de não conhecimento da reclamação, conforme jurisprudência do STF. Precedentes do Plenário: Rcl nº 1.723/CE-AgR-QO, Relator o Ministro Celso de Mello, DJ de 8/8/01; Rcl nº 4.131/SP, relator o Ministro Marco Aurélio, DJe de 6/6/08 e Rcl nº 4.644/SC-AgR, Relatora a Ministra Cármen Lúcia. 2- A tese de que houve julgamento definitivo apenas quando o Tribunal se pronunciou em embargos declaratórios equivale a dizer que esse instante, de fato, só ocorrerá quando houver o trânsito em julgado. Trata-se de perpetuação indevida da jurisdição, o que, na prática, inviabiliza a própria ideia de posteridade da súmula vinculante 3 - Agravo regimental não provido.”(Rcl 7.900 AgR, Rel. Min. Dias Toffoli)
+    Ex positis, nego seguimento à presente Reclamação, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, ficando prejudicado o exame do pedido de liminar.
+    Publique-se. Int..
+    Brasília, 18 de setembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
