@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 184/185):
+    “ADMINISTRATIVO. AÇÃO ORDINÁRIA. PRELIMINAR DE DESERÇÃO. INOCORRÊNCIA. GRATIFICAÇÃO DE ATIVIDADE POLICIAL (GAP). ELEVAÇÃO DOS NÍVEIS DE REFERÊNCIA. NÍVEL IV E V. ATRIBUIÇÃO DE PODER DISCRICIONÁRIO AO SUPERIOR HIERÁRQUICO. POSSIBILIDADE, NATUREZA DA ATIVIDAE POLICIAL E INTERPRETAÇÃO DA LEGISLAÇÃO INSTITUIDORA DO BENEFÍCIO. IMPROVIMENTO DO RECURSO. SENTENÇA MANTIDA.
+    01. Quanto a preliminar de deserção do apelo, esta não merece prosperar, visto que, na sentença de piso fora deferido pela MM. Juíza, o pleito de assistência judiciária gratuita. Refuto a prefacial ventilada.
+    02. A criação dos níveis de referência da GAP, bem como seus critérios de percepção e elevação, foram instituídos objetivando aferir não apenas e simplesmente a atividade policial militar e os riscos dela inerentes, mas também para através deles, a forma como cada policial, in concreto, exerce suas atividades.
+    03. Assim, considerando a fisionomia da atividade policial, mostra-se razoável atribuir certa margem de discricionariedade ao administrador (Superior Hierárquico), preterido a lei possa, considerando a atuação profissional de cada membro da corporação, proceder a escolha da medida conveniente e oportuna para atingir o objetivo da lei a ser aplicada.
+    04. Nego provimento ao recurso interposto mantendo-se a sentença de piso.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, caput, da Constituição (princípio da legalidade). Sustenta que “não prospera a absurda tese de que referido ato normativo teria regulamentado apenas as referências I, II e III. O procedimento para a concessão da GAP II ou III deve ser o mesmo para se conceder a GAP V, o que define qual referência de GAP receberá o oficial são os critérios de concessão, os quais já estão devidamente definidos em todos os seus pormenores” (fls. 200).
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que incide, no caso, a Súmula 284/STF.
+    O recurso não deve ser admitido. O Tribunal de origem, com fundamento na Lei nº 7.145/1997, entendeu que a progressão do servidor para o recebimento da Gratificação de Atividade Policial (GAP) para o nível V não ocorre de forma automática. Para divergir desse entendimento, seria necessário nova interpretação da legislação local mencionada, o que atrai a incidência da Súmula 280/STF. Nessa linha, veja-se a ementa do ARE 785.847-AgR, julgado sob a relatoria da Ministra Rosa Weber:
+    “DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL. LEGISLAÇÃO ESTADUAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 25.3.2013.
+    Divergir do entendimento do Tribunal a quo no tocante à controvérsia acerca de progressão da percepção de Gratificação de Atividade Policial – GAP demandaria a análise da legislação local aplicável à espécie, inviável nesta sede recursal extraordinária. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário.” Precedentes.
+    Agravo regimental conhecido e não provido.”
+    Ademais, em se tratando especificamente de suposta ofensa ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+                Brasília, 19 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
