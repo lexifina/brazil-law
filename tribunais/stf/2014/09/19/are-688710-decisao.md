@@ -1,0 +1,39 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E PREVIDENCIÁRIO. PRÉVIO REQUERIMENTO ADMINISTRATIVO: CONDIÇÃO PARA ACESSO AO PODER JUDICIÁRIO. EXIGIBILIDADE. RESSALVAS APLICÁVEIS AOS PROCESSOS EM TRAMITAÇÃO. PRECEDENTE. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República.
+    2. A Segunda Turma Recursal da Seção Judiciária do Rio Grande do Sul manteve sentença, com os fundamentos nela adotados, nos termos do art. 46 da Lei n. 9.099/1995 c/c o art. 1º da Lei n. 10.259/2001.
+    Na sentença, o Juiz Federal decidiu:
+    "Revisão de benefício previdenciário. Aplicação do art. 29, inciso II, da Lei de Benefícios. Extinção do processo sem resolução do mérito. Carência de ação. Falta de interesse de agir. INSS tem admitido a revisão na esfera administrativa".
+    3. No recurso extraordinário, a Agravante alega ter a Turma Recursal de origem contrariado os arts. 2º e 5º, inc. XXXV, da Constituição da República.
+    Argumenta que
+    “o INSS editou recentemente CIRCULAR-MEMORANDOCIRCULAR conjunto nº 21, DIRBEN/PFEINSS, possibilitaria a revisão dos benefícios na esfera administrativa, sem a necessidade de ingresso na via judicial.
+    (…)
+    É importante lembrar que o presente requerimento já foi feito ao INSS (quando da concessão do benefício). Em sua boa-fé o segurado compareceu ao INSS. Em seu parco conhecimento da legislação, mas à luz da expectativa de entendimento que lhe fosse mais favorável, requereu seu direito. Teve negada sua expectativa, com base em interpretação “capenga” e sem validade jurídica. Nota-se aí que foi exaurida a via administrativa, com negativa por parte da Autarquia Federal. O cálculo foi feito de forma errada e de má-fé. O pagamento permanece errado até os dias atuais. Que maior indeferimento administrativo será necessário?
+    O segurado, portanto, precisa de segurança de ver seu direito reconhecido através de uma sentença judicial, pois não se ilude mais com a pretensa boa vontade do INSS que vem tentando protelar o cumprimento de seus compromissos utilizando-se de artimanhas e de manobras protelatórias.
+    (…)
+    O INSS ao quantificar o valor do ora recorrente, configura-se pretensão resistida, pois para ele a interpretação do dispositivo legal que baliza os critérios de valores a serem deferidos ao autor, no presente caso, é aquele, logo, existe ao aposentado e pensionista o interesse de agir.”.
+    Pede o provimento do recurso extraordinário para “afastar a prévia exigência administrativa como condição de ação previdenciária e determinar o retorno dos autos ao juízo de origem para que prossiga no exame da causa”.
+    4. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição da República, se tivesse ocorrido, seria indireta.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica assiste à Agravante.
+    7. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois a questão posta à apreciação foi julgada pelo Supremo Tribunal Federal, demonstrando-se cuidar de matéria constitucional, única a autorizar a análise em recurso extraordinário.
+    Superado esse óbice, é de se concluir assistir razão jurídica à Agravante.
+    8. Na sentença, mantida pelo julgado recorrido com os fundamentos nela adotados, o Juiz Relator afirmou:
+    “De acordo com o Ofício n. 041/2011, de 22 de março de 2011, proveniente da Procuradoria Especializada do INSS (comunicação oficial arquivada na Secretaria deste Juizado), a Autarquia Previdenciária - após ajustes em seus sistemas informatizados - está recebendo e processando as revisões de benefícios que não tenham sido calculados em consonância com o disposto no art. 29, inciso II, da Lei de Benefícios.
+    Nesse sentido, uma vez que a própria parte ré está atendendo na via administrativa à pretensão veiculada nesta ação, em parâmetros algumas vezes superiores aos que vem propondo nos acordos na esfera judicial, resta caracterizada a inexistência de necessidade da via jurisdicional, consolidando a ausência de interesse jurídico para a propositura do feito.
+    (…)
+    Na ausência de prévia oposição do INSS sobre a pretensão da autora no caso em tela e vislumbrando a possibilidade de recebimento na esfera administrativa, entendo inexistir interesse processual a justificar a propositura da ação judicial” (grifos nossos).
+    Em 3.9.2014, no julgamento do Recurso Extraordinário n. 631.240, Relator o Ministro Roberto Barroso, com repercussão geral reconhecida, este Supremo Tribunal assentou que “a exigibilidade de prévio requerimento administrativo como condição para o regular exercício do direito de ação, para que se postule judicialmente a concessão de benefício previdenciário, não ofende o art. 5º, XXXV, da CF” (Informativo n. 757).
+    Contudo, o Plenário do Supremo Tribunal Federal “ressalvou que a exigência de prévio requerimento não se confundiria (…) com o exaurimento das vias administrativas” e assentou também que “a exigência de prévio requerimento administrativo não deveria prevalecer quando o entendimento da Administração fosse notório e reiteradamente contrário à postulação do segurado” (Informativo n. 757).
+    Ademais, “acresceu que nas hipóteses de pretensão de revisão, restabelecimento ou manutenção de benefício anteriormente concedido — uma vez que o INSS teria o dever legal de conceder a prestação mais vantajosa possível —  o pedido poderia ser formulado diretamente em juízo” (grifos nossos) e decidiu:
+    “Quanto aos processos iniciados até a data da sessão de julgamento, sem que tivesse havido prévio requerimento administrativo nas hipóteses em que exigível, seria observado o seguinte: a) caso o processo corresse no âmbito de Juizado Itinerante, a ausência de anterior pedido administrativo não deveria implicar a extinção do feito; b) caso o INSS já tivesse apresentado contestação de mérito, estaria caracterizado o interesse em agir pela resistência à pretensão; c) caso não se enquadrassem nos itens ‘a’ e ‘b’ as demais ações ficariam sobrestadas. Nas ações sobrestadas, o autor seria intimado a dar entrada no pedido administrativo em 30 dias, sob pena de extinção do processo. Comprovada a postulação administrativa, o INSS seria intimado a se manifestar acerca do pedido em até 90 dias, prazo dentro do qual a Autarquia deveria colher todas as provas eventualmente necessárias e proferir decisão. Acolhido administrativamente o pedido, ou se não pudesse ter o seu mérito analisado por motivos imputáveis ao próprio requerente, extinguir-se-ia a ação. Do contrário, estaria caracterizado o interesse em agir e o feito deveria prosseguir” (Informativo n. 757, grifos nossos).
+    9. Verifica-se que a Agravante busca, na espécie, “a condenação do Instituto Nacional do Seguro Social a revisar benefício previdenciário pela aplicação do art. 29, inciso II, da Lei n. 8.213/91”.
+    Nesse sentido, o julgado recorrido divergiu da orientação jurisprudencial assentada por este Supremo Tribunal.
+    10. Pelo exposto, dou provimento a este agravo e, desde logo, ao recurso extraordinário (art. 544, § 4º, inc. II, al. c, do Código de Processo Civil) para cassar o acórdão recorrido e determinar o retorno dos autos à Turma Recursal de origem para decidir como de direito.
+    Publique-se.
+    Brasília, 19 de setembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
