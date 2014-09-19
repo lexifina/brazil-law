@@ -1,0 +1,10 @@
+DECISÃO: O presente recurso extraordinário revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, o Plenário desta Suprema Corte, ao julgar o RE 627.709/DF, Rel. Min. RICARDO LEWANDOWSKI, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora recorrente:
+    “(...) A regra prevista no § 2º do art. 109 da CF (‘§ 2º – As causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal’) também se aplica às ações movidas em face de autarquias federais. Essa a conclusão do Plenário que, por maioria, negou provimento a recurso extraordinário em que se discutia o critério de definição do foro competente para processar e julgar ação ajuizada em face do Conselho Administrativo de Defesa Econômica – CADE. A Corte registrou que o aludido dispositivo constitucional teria por escopo facilitar a propositura de ação pelo jurisdicionado em contraposição ao ente público. Lembrou que o STF já teria enfrentado a questão da aplicabilidade do art. 109, § 2º, da CF, à autarquia em debate, e que ficara consignada, na ocasião, a finalidade do preceito constitucional, que seria a defesa do réu (...). O Colegiado asseverou que o preceito constitucional em exame não teria sido concebido para favorecer a União, mas para beneficiar o outro polo da demanda, que teria, dessa forma, mais facilidade para obter a pretendida prestação jurisdicional (...).”
+    (Informativo/STF nº 755/2014 – grifei)
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e considerando as razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+    Publique-se.
+    Brasília, 19 de setembro de 2014.
+Ministro CELSO DE MELLO
+Relator
