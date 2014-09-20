@@ -1,2 +1,4 @@
 Art. 897-A Caberão embargos de declaração da sentença ou acórdão, no prazo de cinco dias, devendo seu julgamento ocorrer na primeira audiência ou sessão subseqüente a sua apresentação, registrado na certidão, admitido efeito modificativo da decisão nos casos de omissão e contradição no julgado e manifesto equívoco no exame dos pressupostos extrínsecos do recurso.
-Parágrafo único. Os erros materiais poderão ser corrigidos de ofício ou a requerimento de qualquer das partes.
+§ 1º Os erros materiais poderão ser corrigidos de ofício ou a requerimento de qualquer das partes.
+§ 2º Eventual efeito modificativo dos embargos de declaração somente poderá ocorrer em virtude da correção de vício na decisão embargada e desde que ouvida a parte contrária, no prazo de 5 (cinco) dias.
+§ 3º Os embargos de declaração interrompem o prazo para interposição de outros recursos, por qualquer das partes, salvo quando intempestivos, irregular a representação da parte ou ausente a sua assinatura.
