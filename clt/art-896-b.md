@@ -1,0 +1,1 @@
+Art. 896-B. Aplicam-se ao recurso de revista, no que couber, as normas da Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil), relativas ao julgamento dos recursos extraordinário e especial repetitivos.
