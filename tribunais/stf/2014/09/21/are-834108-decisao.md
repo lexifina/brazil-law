@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INTIMAÇÃO DO JULGADO RECORRIDO APÓS 3.5.2007. INEXISTÊNCIA DE PRELIMINAR DE REPERCUSSÃO GERAL: DESATENDIMENTO AO § 2º DO ART. 543-A AO CÓDIGO DE PROCESSO CIVIL E AO ART. 327 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária de Pernambuco:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. DECADÊNCIA DO DIREITO DE REVISÃO. CONSUMAÇÃO DO PRAZO DECENAL. ART. 103, CAPUT, LEI N. 8.213/91. RECURSO DO AUTOR IMPROVIDO” (doc. 9).
+    2. No recurso extraordinário, a Agravante afirma ter a Turma Recursal contrariado o art. 5º, incs. XXXV e XXXVI, da Constituição da República.
+    Sustenta que “a decadência prevista no artigo 103, caput, da Lei n. 8.213/91 não alcança questões que não restaram resolvidas no ato administrativo que apreciou o pedido de concessão do benefício, como no caso em tela, que apenas resolveu o erro no ato de concessão da Autora em 07/2004. Isso pelo simples fato de que, como o prazo decadencial limita a possibilidade de controle de legalidade do ato administrativo, não pode atingir aquilo que não foi objeto de apreciação pela Administração. Portanto o Prazo de decadência se consuma em 07/2014” (fls. 4-5, doc. 11).
+    3. O recurso extraordinário foi inadmitido ao fundamento de que “o acórdão recorrido está em consonância à jurisprudência da Suprema Corte, como se verifica no julgamento do RE 626.489” (fl. 1, doc. 14).
+    No agravo, assevera-se que a “decisão que negou seguimento ao recurso foi apreciado e decidido por uma mera formalidade da qual pode ser caracterizada um tanto quanto excessiva, diante dos fatos. Ante ao exposto a r. decisão é contraria aos princípios constitucionais desrespeitando o princípio da inafastabilidade jurisdicional conforme preceitua art. 5º , XXXV da Constituição Federal” (fl. 2, doc. 15).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão pela qual não se admite recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. A intimação do acórdão recorrido ocorreu em 9.5.2014 (doc. 10) e, nos termos do que decidido pelo Supremo Tribunal Federal no Agravo de Instrumento n. 664.567-QO, Relator o Ministro Sepúlveda Pertence, Plenário, “a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007”.
+    Depois de 3.5.2007, os recursos extraordinários devem apresentar “preliminar formal e fundamentada” de repercussão geral da matéria constitucional. Sem essa articulação tem-se ausente requisito fundamental para sua admissibilidade.
+    7. Na espécie vertente, não houve articulação demonstrativa da repercussão geral da matéria constitucional, o que torna o recurso extraordinário inadmissível, conforme o disposto no § 2º do art. 543-A do Código de Processo Civil e no art. 327 do Regimento Interno do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO ELEITORAL. AUSÊNCIA DE PRELIMINAR FORMAL DE REPERCUSSÃO GERAL: IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. LEI N. 11.418/2006: NORMAS GERAIS APLICÁVEIS A TODOS OS RECURSOS EXTRAORDINÁRIOS. REPERCUSSÃO GERAL IMPLÍCITA: INADMISSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO” (AI 703.114-AgR, de minha relatoria, Primeira Turma, DJe 17.4.2009).
+    “É imprescindível a observância desse requisito formal mesmo nas hipóteses de presunção de existência da repercussão geral prevista no art. 323, § 1º, do RISTF. O Plenário desta Corte afastou a alegação de repercussão geral implícita. Precedente. 3. É pacífica a jurisprudência desta Corte ao não admitir, em sede extraordinária, alegação de ofensa indireta à Constituição Federal. 4. Agravo regimental desprovido” (AI 716.597-AgR, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 14.11.2008).
+    Não há, pois, o que prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de setembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
