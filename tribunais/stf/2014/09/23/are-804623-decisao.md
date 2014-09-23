@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+    “APELAÇÃO CÍVEL - DIREITO CIVIL e PROCESSUAL CIVIL - RESPONSABILIDADE CIVIL - DANO MORAL - ESCRITÓRIO DE ADVOCACIA - EMPREENDIMENTO IMOBILIÁRIO – DIVULGAÇÃO PÚBLICA PEJORATIVA - PROVAS INSUFICIENTES - DANO NÃO CONFIGURADO - AUSÊNCIA DOS REQUISITOS DA RESPONSABILIDADE CIVIL - APELO NÃO PROVIDO
+    I - Visam os Autores-Apelantes demonstrar o ilícito da divulgação pública e pejorativa da imagem dos Recorrentes, com apenas dois emails enviados a compradores do empreendimento, correspondências estas que não permitem concluir ter havido dano à ordem moral.
+    II - A informação vertida nos emails, que cuidam da realização de um workshop, sobre empreendimento e o encaminhamento do material divulgado na palestra (slides), explicando o motivo desta ‘reunião’ são fatos que, por si só, não têm o condão de impor abalo à honra objetiva e subjetiva dos Apelantes, eis que não se estenderam, não atingiram terceiros, não passaram das pessoas de seus destinatários, não possuindo a capacidade de ferir a imagem das Empresas e seus sócios a ponto de gerar qualquer espécie de dano.
+    III - Pelo que se pode extrair dos autos, participaram da reunião com os Apelados, apenas os compradores dos imóveis dos Apelantes, pessoas que estavam ali na busca por informações sobre seus direitos.
+    IV - A realidade probatória que dos autos emana deixa claro que os argumentos aduzidos pelos Recorrentes, dando conta da existência de dano à sua imagem, cingem-se ao campo das alegações, não havendo qualquer prova nos autos nesse sentido, não desincumbindo-se tais partes de seu ônus processual, insculpido no artigo 330, do CPC. Assim, não há ilícito atribuível aos Apelados, inviabilizando a incidência da responsabilidade civil no caso concreto.
+    V - No que toca o pleito de instituição de obrigação de não fazer, consistente na vedação de que os Apelados divulguem informações inverídicas dos Apelantes, tenha que tal obrigação negativa decorre do próprio sistema normativo, do próprio neminem laedere, não havendo razão para que o Judiciário se pronuncie neste sentido em sentença, situação distinta da decisão liminar em que o decisum se revelou necessário dado o risco de dano imediato e de periculum in mora que se vislumbrava na oportunidade, situação que não mais se revela presente, sendo certo que eventual conduta neste sentido, importará em responsabilização civil em se caracterizando o ilícito.
+    VI - Recurso conhecido, mas não provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, X, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento da ausência de regular prequestionamento da matéria, “tendo em vista que a c. Corte se fundamentou em matéria exclusivamente infraconstitucional para dirimir a controvérsia”.
+    O recurso extraordinário é inadmissível. Isso porque, para dissentir do acórdão recorrido e concluir pela existência da inconstitucionalidade apontada, seria necessário nova apreciação dos fatos e do material probatório constante dos autos, o que torna inviável o processamento do recurso extraordinário. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF:
+    “Para simples reexame de prova não cabe recurso extraordinário”.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 23 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
