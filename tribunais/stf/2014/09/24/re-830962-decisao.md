@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. NULIDADE. DIREITO AO DEPÓSITO DO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO – FGTS. RE 596.478-RG. REPERCUSSÃO GERAL RECONHECIDA. JULGAMENTO DE MÉRITO.
+1. O Fundo de Garantia do Tempo de Serviço - FGTS é devido aos servidores temporários, nas hipóteses em há declaração de nulidade do contrato firmado com a Administração Pública, consoante decidido pelo Plenário do STF, na análise do RE 596.478-RG, Rel. para o acórdão Min. Dias Toffoli, DJe de 1/3/2013.
+2. In casu, o acórdão recorrido assentou: “REEXAME NECESSÁRIO E APELAÇÃO CÍVEL – CONTRATAÇÃO TEMPORÁRIA - PRAZO SUPERIOR AO ADMITIDO NA LEGISLAÇÃO PERTINENTE - NULIDADE DO ATO - FGTS - DIREITO AO RECOLHIMENTO - PRECEDENTE DO STF.”
+3. Recurso extraordinário DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário interposto pelo MUNICÍPIO DO IBIRITÉ, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão assim ementado:
+    “REEXAME NECESSÁRIO E APELAÇÃO CÍVEL – CONTRATAÇÃO TEMPORÁRIA - PRAZO SUPERIOR AO ADMITIDO NA LEGISLAÇÃO PERTINENTE - NULIDADE DO ATO - FGTS - DIREITO AO RECOLHIMENTO - PRECEDENTE DO STF. - Padece de nulidade o contrato temporário firmado para o exercício de funções públicas com duração superior à máxima admitida na legislação municipal. - A declaração de nulidade do contrato de trabalho em razão da ocupação de cargo público sem a necessária aprovação em prévio concurso público, consoante previsto no art. 37, II, da CF/88, gera para o trabalhador o direito ao levantamento das quantias depositadas na sua conta vinculada ao FGTS, a título de indenização. - O egrégio STF reconheceu, no Recurso Extraordinário (RE) 596478 RG/RR, o direito aos depósitos do Fundo de Garantia do Tempo de Serviço (FGTS) aos trabalhadores que tiverem o contrato de trabalho com a Administração Pública declarado nulo em função da inobservância da regra constitucional de prévia aprovação em concurso público. - Sentença confirmada no reexame necessário. - Recurso voluntário prejudicado” (fl. 134 do volume 1).
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 7º, III, 39, § 2º, da Constituição Federal.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    O Plenário desta Corte reconheceu a repercussão geral do tema e julgou o mérito do RE 596.478, Rel. para o acórdão Min. Dias Toffoli, DJe de 1/3/2013, no qual se reconheceu o direito ao depósito do Fundo de Garantia do Tempo de Serviço –FGTS para trabalhadores que tiveram anulados seus contratos de trabalho com a administração pública em função da ausência de realização de concurso público. O acórdão ficou assim ementado:
+    “Recurso extraordinário. Direito Administrativo. Contrato nulo. Efeitos. Recolhimento do FGTS. Artigo 19-A da Lei nº 8.036/90. Constitucionalidade. 1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário. 2. Mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados. 3. Recurso extraordinário ao qual se nega provimento.”
+    O Tribunal a quo não divergiu desse entendimento.
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 24 de setembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
