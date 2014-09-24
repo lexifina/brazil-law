@@ -1,0 +1,14 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o ARE 682.435-AgR-Segundo/DF, Rel. Min. RICARDO LEWANDOWSKI, fixou entendimento que torna inacolhível a pretensão de direito material deduzida pela parte ora agravante:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO MONETÁRIO. CONVERSÃO DO PADRÃO MONETÁRIO. URV. DIREITO AOS 11,98%. MAGISTRADOS E MEMBROS DO MINISTÉRIO PÚBLICO. LIMITAÇÃO TEMPORAL. DELIMITAÇÃO AO PERÍODO DE ABRIL DE 1994 A JANEIRO DE 1995.  ADI 1.797/PE. ENTENDIMENTO NÃO SUPERADO NO JULGAMENTO DA ADI 2.323-MC/DF E DA ADI 2.321-MC/DF NO QUE CONCERNE AOS MEMBROS DO PODER JUDICIÁRIO E DO MINISTÉRIO PÚBLICO. PROCESSUAL CIVIL. LIMITES DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – O Plenário desta Corte, no julgamento da ADI 1.797/PE, Rel. Min. Ilmar Galvão, assentou a limitação temporal do direito aos 11,98% ao período compreendido entre abril de 1994 a janeiro de 1995 para magistrados e membros do Ministério Público.
+    II – Embora a limitação temporal imposta ao pagamento realizado aos servidores públicos tenha sido afastada nos julgamentos das Medidas Cautelares nas Ações Diretas de Inconstitucionalidade 2.321 e 2.323, essa alteração não se estende aos membros do Poder Judiciário e do Ministério Público. Precedentes.
+    III – O exame, no caso concreto, dos limites da coisa julgada restringe-se ao âmbito infraconstitucional. Eventual ofensa à Constituição se daria de forma meramente reflexa. Desse modo, inviável o recurso extraordinário. Precedentes.
+    IV – Agravo regimental a que se nega provimento.” (grifei)
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal, a propósito de questões essencialmente idênticas à que ora se examina nesta sede recursal (RE 658.511-AgR/RS, Rel. Min. CÁRMEN LÚCIA – RE 790.148-AgR/DF, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, pelas razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 24 de setembro de 2014.
+Ministro CELSO DE MELLO
+Relator
