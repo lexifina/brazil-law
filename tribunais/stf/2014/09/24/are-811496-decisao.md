@@ -1,0 +1,23 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XIII e LXIX, 97 e 170 da Lei Fundamental.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O acórdão recorrido não divergiu da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, cristalizada nas Súmulas 70, 323 e 547/STF, verbis:
+    “Súmula 70: É inadmissível a interdição de estabelecimento como meio coercitivo para cobrança de tributo.
+    Súmula 323: É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos.
+    Súmula 547: Não é lícito à autoridade proibir que o contribuinte em débito adquira estampilhas, despache mercadorias nas alfândegas e exerça suas atividades profissionais”
+    Na esteira da jurisprudência desta Corte, é vedada a a utilização de expedientes oblíquos para cobrança de tributos, notadamente quando implica restrição ao exercício de profissão ou atividade econômica. Nesse sentido, cito os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. INSCRIÇÃO NO CADASTRO NACIONAL DE PESSOA JURÍDICA. IMPOSSIBILIDADE DE APLICAÇÃO DE RESTRIÇÕES PARA COMPELIR O CONTRIBUINTE INADIMPLENTE A PAGAR O TRIBUTO DEVIDO. PRECEDENTES. INSCRIÇÃO INAPTA: NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 677.242-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.11.2009)
+    “CONSTITUCIONAL. TRIBUTÁRIO. ICM: REGIME ESPECIAL. RESTRIÇÕES DE CARÁTER PUNITIVO. LIBERDADE DE TRABALHO. CF/67, ART.153, § 23; CF/88, ART. 5º, XIII. I. - O ‘regime especial do ‘ICM’, autorizado em lei estadual, porque impõe restrições e limitações à atividade comercial do contribuinte, viola a garantia constitucional da liberdade de trabalho (CF/67, ART.153, § 23; CF/88, ART. 5º, XIII), constituindo forma oblíqua de cobrança do tributo, assim execução política, que a jurisprudência do Supremo Tribunal sempre repeliu (Súmulas nºs 70, 323 e 547). II. - No caso, os acórdãos indicados como divergentes cuidaram do tema sob o ponto de vista legal, enquanto que o acórdão embargado decidiu a questão tendo em vista a Constituição. Inocorrência, por isso, de divergência capaz de autorizar os embargos. III. - Embargos não conhecidos”. (RE 115.452-ED-EDv, Rel. Min. Carlos Velloso, Tribunal Pleno, DJ 6.11.1990)
+    Havendo pronunciamento do Supremo Tribunal Federal sobre a matéria não há falar em ofensa ao art. 97 da Carta Magna. Nesse sentir, dispensável a submissão da arguição de inconstitucionalidade ao plenário ou ao órgão especial do Tribunal de origem. Nesse sentido: RE 593.948-AgR/RJ, Rel. Min. Luiz Fux, 1ª Turma, DJe 09.5.2011; RE 440.458-AgR/RS, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 06.5.2005; e RE 594.515-AgR/RN, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 22.5.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL. CONTROLE DE CONSTITUCIONALIDADE. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE. EXISTÊNCIA DE PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. RESERVA DE PLENÁRIO. DESNECESSIDADE. TRIBUTÁRIO. MULTA. DESPROPORCIONALIDADE. GRAVIDADE OU POTENCIAL OFENSIVO DO ATO PUNIDO. ART. 97 DA CONSTITUIÇÃO. Como o acórdão recorrido está em conformidade com os precedentes da Corte sobre a matéria de fundo (desproporcionalidade de multa tributária), é inexigível a submissão da controvérsia ao Plenário (art. 481, par. ún., do CPC). Agravo regimental ao qual se nega provimento”.
+    Quanto à alegada violação do art. 5º, LXIX, da Lei Maior, ressalto que o Plenário Virtual desta Corte já se manifestou pela inexistência de repercussão geral da matéria no AI 800.074, verbis:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de setembro de 2014.
+Ministra Rosa Weber
+Relatora
