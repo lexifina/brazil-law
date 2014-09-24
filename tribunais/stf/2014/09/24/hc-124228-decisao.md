@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, no qual se aponta como autoridade coatora o Juízo da 2ª Vara Criminal da Comarca de José Bonifácio/SP. Requer, liminarmente, a concessão da ordem, para que o paciente seja posto em liberdade, ante o excesso de prazo da prisão preventiva.
+    2. A Constituição Federal estabelece a competência do Supremo Tribunal Federal para processar e julgar habeas corpus originário nas hipóteses previstas no art. 102, I, “d” e “i”. No caso, a autoridade apontada como coatora – juiz de direito - não se encontra entre aquelas previstas no referido dispositivo, razão pela qual o pedido não pode ser conhecido.
+    3. Ademais, a petição inicial não está adequadamente instruída com as peças imprescindíveis à verificação da suposta ilegalidade, o que também impede o conhecimento do pedido. Como se sabe, “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC 95434, Relator(a): Min. RICARDO LEWANDOWSKI, Primeira Turma, DJ 02-10-2009). No mesmo sentido: HC 113516, Relator(a): Min. CEZAR PELUSO, Segunda Turma, DJe 05-06-2012; RHC 92608, Relator(a): Min. EROS GRAU, Segunda Turma, DJ de 17-10-2008; HC 114020, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, Dje de 28-06-2013).
+    4. Ainda que superados esses óbices, é possível verificar em consulta ao sítio eletrônico do Superior Tribunal de Justiça que o habeas corpus mencionado no corpo da inicial não foi definitivamente julgado, havendo somente a decisão que indeferiu a medida cautelar. Presente tal circunstância, o pedido, também por essa razão, não pode ser conhecido, a teor do que dispõe a Súmula 691 desta Corte.
+    5. Pelo exposto, nego seguimento ao pedido. Retifique-se a autuação para que conste como autoridade coatora o Juízo da 2ª Vara Criminal de José Bonifácio/SP. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 24 de setembro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
