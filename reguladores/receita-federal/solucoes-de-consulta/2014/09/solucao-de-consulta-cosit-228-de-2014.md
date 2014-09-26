@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 228, de 21 de agosto de 2014
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: CPRB. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. RECEITA BRUTA. INCORPORAÇÃO. CONSTRUÇÃO. A empresa que tem como única ou principal atividade a incorporação de empreendimentos imobiliários enquadrada no grupo 411 da CNAE 2.0, não se sujeita à substituição previdenciária de que trata o inciso IV do art. 7º da Lei nº 12.546, de 2011, ainda que realize a construção das edificações incorporadas. DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, art. 7º a 9º; Lei nº 4.591, de 1964, arts. 28 a 31; Tabela CNAE 2.0.
+[arquivo anexo: SC Cosit nº 228-2014.pdf]
