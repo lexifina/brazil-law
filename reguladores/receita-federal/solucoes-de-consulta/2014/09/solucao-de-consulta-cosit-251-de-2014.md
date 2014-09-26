@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 251, de 12 de setembro de 2014
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF EMENTA: PROFESSOR MUNICIPAL. REEMBOLSO DE VIAGEM. INCIDÊNCIA. A verba percebida a título de “reembolso de viagem” por professor de fundação municipal, para fazer face aos deslocamentos entre o município de residência e o de sua sede de trabalho, constitui rendimento tributável na fonte e na Declaração de Ajuste Anual. DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 (CTN), arts. 43 e 111; Lei nº 7.713, de 1998, art. 6º, II e XX; Decreto nº 3000, de 1999 (RIR/99), arts. 37, 38, 39, I e XIII, 43, 620, 624 e 717; Instrução Normativa SRF nº 15, de 2001, art. 5º, II e III.
+[arquivo anexo: SC Cosit nº 251-2014.pdf]
