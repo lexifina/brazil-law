@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 252, de 12 de setembro de 2014
+ASSUNTO: Imposto sobre a Renda de Pessoa Física – IRPF EMENTA: DESPESA DE INSTRUÇÃO DE PESSOA COM DEFICIÊNCIA FÍSICA OU MENTAL. DEDUTIBILIDADE COMO DESPESA MÉDICA. INSTITUIÇÃO REGULAR DE ENSINO. VEDAÇÃO. É vedado deduzir como despesa médica os pagamentos efetuados a instituição regular de ensino relativos à instrução de pessoa portadora de deficiência física ou mental, matriculada na condição de aluno includente. DISPOSITIVOS LEGAIS: Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/99), art. 80, § 3º; e Instrução Normativa SRF nº 15, de 6 de fevereiro de 2001, art. 44.
+[arquivo anexo: SC Cosit nº 252-2014.pdf]
