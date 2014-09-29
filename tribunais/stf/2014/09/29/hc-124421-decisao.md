@@ -1,0 +1,17 @@
+Decisão:
+Ementa: HABEAS CORPUS. ALEGAÇÃO DE DEMORA NO JULGAMENTO DE RECURSO ESPECIAL. DEFICIÊNCIA NA INSTRUÇÃO DO WRIT. IMPROCEDÊNCIA DO PEDIDO. 1. Ambas as Turmas do Supremo Tribunal Federal têm precedentes admitindo, em determinadas hipóteses, a possibilidade de se caracterizar a ocorrência de constrangimento ilegal pela demora excessiva no julgamento de recursos em matéria criminal pelos tribunais de origem. 2. No caso, verifica-se que o RESP 1.443.593 foi autuado no Superior Tribunal de Justiça em 26.03.14, distribuído ao Ministro Néfi Cordeiro em 11.04.14 e está, atualmente, concluso para julgamento com parecer do Ministério Público Federal, não não sendo possível atribuir eventual demora no julgamento do recurso à desídia do Poder Judiciário. 3. Ademais, a inicial deste habeas corpus não foi suficientemente instruída, pois ausente cópia da sentença condenatória e do acórdão da apelação. 4. Ordem denegada.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra o Relator do Recurso Especial 1.443.593 no Superior Tribunal de Justiça.
+    2. Extrai-se da petição inicial que o impetrante, preso preventivamente desde 05.07.12, foi condenado à pena de 22 (vinte e dois) anos e 13 (treze) dias de reclusão, pela prática dos crimes de tráfico e associação para o tráfico de entorpecentes e corrupção passiva (arts. 33, caput, e 35 c/c o o art. 40, todos da Lei 11.343/06 e art. 317, § 1º, do CP, respectivamente).
+    3. O Tribunal de Justiça do Estado do Rio Grande do Sul deu provimento à apelação da defesa para reduzir a pena para 11 (onze) anos e 8 (oito) meses de reclusão.
+    4. Contra esse acórdão, foi interposto o Recurso Especial 1.443.593, pendente de julgamento.
+    5. Neste habeas corpus, alega-se, em síntese, (i) a demora na apreciação do writ impetrado no Superior Tribunal de Justiça; (ii) o excesso de prazo na custódia cautelar; e (iii) o direito do paciente à progressão para o regime semiaberto. Requer-se, assim, a concessão da liberdade provisória ao paciente.
+          Decido.
+    6. Inicialmente ressalto que ambas as Turmas do Supremo Tribunal Federal têm precedentes admitindo, em determinadas hipóteses, a possibilidade de se caracterizar a ocorrência de constrangimento ilegal pela demora excessiva no julgamento de recursos em matéria criminal pelos tribunais de origem. Tal possibilidade fica reforçada pela explicitação, feita pela Emenda Constitucional nº 45/2004, do direito fundamental à razoável duração do processo. Nesse sentido, a título de exemplo, destaco o HC 110.367, julgado sob a relatoria da Ministra Cármen Lúcia.
+    7. No caso dos autos, contudo, verifica-se que o Recurso Especial 1.443.593 foi autuado no Superior Tribunal de Justiça em 26.03.14, distribuído ao Ministro Néfi Cordeiro em 11.04.14 e está, atualmente, concluso para julgamento com parecer do Ministério Público Federal. Nessas condições, não se verifica demora no julgamento do recurso especial.
+    8. Ademais, observo que a inicial deste habeas corpus não foi suficientemente instruída, pois ausente cópia da sentença condenatória e do acórdão da apelação, o que inviabiliza a análise do eventual preenchimento dos requisitos necessários à progressão do regime de cumprimento de pena. Além disso, eventual pedido de progressão deve ser dirigido ao Juízo da Execução.
+    9. Diante do exposto, com base no art. 192 do RI/STF, denego a ordem.
+    Publique-se.
+     Brasília, 29 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
