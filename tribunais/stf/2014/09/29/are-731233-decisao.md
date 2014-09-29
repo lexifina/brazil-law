@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PRECATÓRIO. ATRASO NO PAGAMENTO. INCIDÊNCIA DE JUROS DE MORA. ARTIGO 100, § 1º, DA CF. JURISPRUDÊNCIA DESTA CORTE REAFIRMADA. SÚMULA VINCULANTE N. 17.
+1. São incabíveis juros de mora desde que o pagamento do precatório seja realizado dentro do prazo estabelecido no artigo 100, § 1º, da Constituição Federal, conforme jurisprudência reafirmada pelo Plenário desta Corte quando do julgamento do RE 591.085-QO-RG, Rel. Min. Ricardo Lewandowski, DJe de 20/2/2009.
+2. A Súmula Vinculante nº 17 prevê, in verbis: “Durante o período previsto no parágrafo 1º do Artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.”
+3. In casu, o acórdão recorrido assentou que: “AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL. AGRA VO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE DEU
+PROVIMENTO PARCIAL AO APELO NA FORMA DO ART.557, §1°-A DO CPC. APELAÇÃO CÍVEL EXECUÇÃO DE TÍTULO JUDICIAL. PRECATÓRIO. JUROS DE MORA. POSSIBILIDADE DESDE QUE ULTRAPASSADO O PRAZO DE PAGAMENTO PREVISTO NO ART. 100, § lº
+DA CF.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo Instituto Nacional do Seguro Social – Inss, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL. AGRA VO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE DEU PROVIMENTO PARCIAL AO APELO NA FORMA DO ART.557, §1°-A DO CPC. APELAÇÃO CÍVEL EXECUÇÃO DE TÍTULO JUDICIAL. PRECATÓRIO. JUROS DE MORA. POSSIBILIDADE DESDE QUE ULTRAPASSADO O PRAZO DE PAGAMENTO PREVISTO NO ART. 100, § 1º DA CF. As questões relativas à hipótese em que é possível a expedição de precatório complementar, bem como das verbas que dele podem constar já foram assentadas pela jurisprudência dos Tribunais Superiores e desta Corte. Na cl. Corte Superior foi editada a Súmula Vinculante n° 17, cujo verbete é o seguinte: ‘Durante o período previsto 110 parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.’ De acordo com a regra legal a inclusão dos precatórios deve ocorrer até 1º de julho de cada ano e o pagamento até o filial do exercício seguinte, isto é, 31 de dezembro do ano seguinte, conforme se depreende tanto da redação original do § 1º do art. 100 da CF, quanto da que foi determinada pela EC 30/2000. Assiste razão ao recorrente, haja vista que o pagamento do precatório ocorreu com grande atraso, extrapolando, portanto, o prazo constitucional, e por isso inaplicável ao caso em exame a Súmula n° 17 do cl. STF. Expedição do precatório complementar apenas com relação aos juros moratórios decorrentes do lapso entre a expedição do precatório original e o seu pagamento. RECURSO QUE SE DÁ PARCIAL PROVIMENTO, NA FORMA DO ART. 557, § 1º-A, DO CPC AUSÊNCIA DE ARGUMENTO NOVO QUE JUSTlFIQUE A REVISÃO DO JULGADO. NEGA-SE PROVIMENTO AO RECURSO.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 100, § 1º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo derradeiro, sob o fundamento de que a decisão está em consonância com a jurisprudência desta Corte, bem como, diante do óbice da Súmula 284/STF.
+    É o relatório. DECIDO
+    O recurso não merece prosperar.
+    O Plenário desta Corte, ao julgar o RE 591.085-RG, Rel. Min. Ricardo Lewandowski, DJe de 20/2/2009, reconheceu a repercussão geral da matéria em questão e reafirmou a jurisprudência do STF no sentido de que “somente se descumprido o prazo constitucional previsto para o pagamento dos precatórios, qual seja, até o final do exercício seguinte, poder-se-ia falar em mora e, em consequência, nos juros a ela relativos como penalidade pelo atraso no pagamento.”
+    Na mesma assentada, o Min. Ricardo Lewandowski apresentou proposta de Súmula Vinculante para o assunto, que foi aprovada na Sessão Plenária de 29/10/2009, com a seguinte redação:
+    “Durante o período previsto no parágrafo 1º do art. 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.”
+    O acórdão recorrido, através de seu voto condutor, consignou que:
+    “Tendo em conta o Precatório original acostado às fls. 106 deste recurso, se observa que foi o mesmo expedido em 20/09/2007, e o ofício da Divisão de Precatórios deste Tribunal às fls. 110 nos dá conta de que o INSS só colocou à disposição da Presidência deste Tribunal a quantia devida em 24/11/2009, havendo, portanto, atraso no cumprimento da obrigação pecuniária pela Fazenda Pública, ultrapassando, portanto, o prazo inserto na Constituição. Assim sendo, os juros moratórios são devolvidos.
+    Assiste razão ao recorrente, haja vista que o pagamento do precatório ocorreu com atraso, extrapolando, portanto, o prazo constitucional, e por isso inaplicável ao caso em exame a Súmula nº 17 do cl. STF.”
+    Destarte, realizado o pagamento do precatório fora prazo estabelecido no art. 100, § 1º, da Constituição, são devidos os juros de mora.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de setembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
