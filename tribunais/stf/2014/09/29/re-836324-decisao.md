@@ -1,0 +1,16 @@
+DECISÃO :
+    Trata-se recurso extraordinário interposto contra acórdão da 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. AGROINDÚSTRIA. ART. 22-A DA LEI Nº 8.212/91. CONSTITUCIONALIDADE. HONORÁRIOS ADVOCATÍCIOS.
+    1. Este Tribunal já se manifestou no sentido da constitucionalidade da contribuição para a seguridade social prevista no art. 22-A da Lei nº 8.212/91, na redação da Lei nº 10.256/2001.
+    2. Os honorários advocatícios nas causas em que não houver condenação devem observar o disposto nos § 4º do art. 20 do CPC, que manda fixá-los 'consoante apreciação equitativa do juiz, atendidas as normas das alíneas a, b e c do parágrafo anterior'.
+    3. O valor não pode ser tão reduzido, que avilte a profissão do advogado, nem tão elevado que resulte desproporcional ao trabalho dele exigido.”
+    Foram opostos embargos de declaração, os quais foram rejeitados.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, II; 154, I; e 195, I, a, b e c, e §§ 4° ao 13, todos da Carta. Ademais, requer a declaração de inconstitucionalidade do art. 22-A, da Lei n° 8.212/91, com redação dada pela Lei n° 10.256/01.
+    Sustenta, em síntese, que a contribuição substitutiva da pessoa jurídica que explore a agroindústria, prevista pelo art. 22-A e incisos da Lei 8.212/91, com a redação alcançada pela Lei 10.256/01, somente poderia ter sido criada de forma válida e eficaz se a Constituição vigente à época – 2001 – acolhesse norma de competência tributária autorizando a utilização deste tipo específico de exação. A validação constitucional da contribuição, tal como gerada pela Lei 10.256/01, não se mostrou compatível com o paradigma constitucional em vigor em 2001, que não autorizava o legislador ordinário – por qualquer hipótese de competência tributária criar contribuição substitutiva para a Seguridade Social. Conclui que, advinda tal permissão somente em 2003, pela edição da EC nº 43, não se prestou à legitimação, seja de forma remissiva, seja por via de interpretação, dos diplomas legais outorgados antes de sua vigência. Ademais, alega que a exigência levada a efeito representa verdadeiro “bis in idem”, na medida em que as recorrentes, no exercício de suas atividades empresariais, são compelidas ao pagamento da COFINS, prevista pelas Leis 70/91, 9718/98 e 10.883/03 e alterações.
+    Verifico que o Supremo Tribunal Federal, nos autos do RE 611.601-RG, Rel. Min. Dias Toffoli, reconheceu a existência de repercussão geral da matéria em questão. Confira-se a ementa:
+    “EMENTA DIREITO TRIBUTÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. ARTIGO 22A DA LEI Nº 8.212/91. REDAÇÃO CONFERIDA PELA LEI Nº 10.256/01. CONTRIBUIÇÃO DEVIDA PELA AGROINDUSTRIA. PRODUTOR RURAL PESSOA JURÍDICA. INDUSTRIALIZAÇÃO DE PRODUÇÃO PRÓPRIA OU DE PRODUÇÃO PRÓPRIA E ADQUIRIDA DE TERCEIROS. RECEITA BRUTA PROVENIENTE DA COMERCIALIZAÇÃO DA PRODUÇÃO. EXIGIBILIDADE. EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, conheço do recurso extraordinário e determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B, do CPC.
+    Publique-se.
+          Brasília, 29 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
