@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REENQUANDRAMENTO CARGO PÚBLICO. OFENSA REFLEXA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O reenquadramento da parte autora em novo plano de cargos e salários, quando sub judice a controvérsia acerca dos requisitos instituídos na Lei nº 12.463 encerra a análise de norma infraconstitucional e do conjunto fático-probatório dos autos. Precedentes: ARE 80.2579/PE, Rel. Min. Gilmar Mendes, DJe de 04/04/2014 e ARE 741.653/DF, Rel. Min. Ricardo Lewandowski, DJe de 07/05/02013.
+2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Assim como, o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. Precedentes: RE 611.047-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 18/3/2011, AI 601-936-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 26/4/2012, e RE 134.586-AgR, Rel. Min. Maurício Corrêa, Segunda Turma, DJ 15/12/1995.
+3. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+4. In casu, o acórdão recorrido assentou:
+“INDEXAÇÃO – EMENTA: ADMINISTRATIVO. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO AUMENTAR VENCIMENTOS DO SERVIDOR PÚBLICO COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA.”
+5. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo SINDICATO DOS SERVIDORES DA JUSTIÇA DO ESTADO DE PERNAMBUCO, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “INDEXAÇÃO – EMENTA: ADMINISTRATIVO. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO AUMENTAR VENCIMENTOS DO SERVIDOR PÚBLICO COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, 37, e 39 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo derradeiro por entender não preenchido o requisito de esgotamento das instâncias ordinárias.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente agravo.
+    O reenquadramento da parte autora em novo plano de cargos e salários, quando sub judice a controvérsia acerca dos requisitos instituídos na Lei nº 12.463, encerra a análise de norma infraconstitucional e do conjunto fático-probatório dos autos.
+    A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário.
+    Assim como, não se revela cognoscível, em sede de Recurso Extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito e, portanto, não servil ao exame de questões que demandam o revolvimento do arcabouço fático-probatório dos autos, face ao óbice erigido pela Súmula 279/STF de seguinte teor, verbis: Para simples reexame de prova não cabe recurso extraordinário Nesse sentido, RE 611.047-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 18/3/2011; AI 601-936-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 26/4/2012; e RE 134.586-AgR, Rel. Min. Maurício Corrêa, Segunda Turma, DJ 15/12/1995, que possui a seguinte ementa:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRANSFORMAÇÃO DE CARGO EM FACE DA LEI COMPLEMENTAR ESTADUAL 180/78 E LEI 10.168. VERIFICAÇÃO DE REQUISITOS LEGAIS. INADMISSIBILIDADE.
+    Para dissentir do aresto recorrido que, ao interpretar disposições das normas infraconstitucionais, deferiu aos recorridos o direito à transformação dos seus cargos em Agente Fiscal de Rendas, porque preenchidos os pressupostos estatuídos nas normas atinentes, necessário se faz o reexame das provas carreadas para os autos e interpretação se direito local, o que é vedado, nesta instância recursal, pelas Súmulas 279 e 280.
+    Agravo regimental improvido.
+    Destaco, ainda, as seguintes decisões monocráticas: ARE 682.392, Rel. Min. Gilmar Mendes, DJe 5/6/2012; RE 751.542, Rel. Min. Ricardo Lewandowski, DJe 6/6/2013; e AI 820.904, Rel. Min. Dias Toffoli, DJe 1º/10/2013, ARE 80.2579/PE, Rel. Min. Gilmar Mendes, DJe de 04/04/2014 e ARE 741.653/DF, Rel. Min. Ricardo Lewandowski, DJe de 07/05/02013.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de setembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
