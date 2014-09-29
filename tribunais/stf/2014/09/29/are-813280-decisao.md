@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal de Justiça do Estado de Minas Gerais, por meio da decisão de fls. 169, determinando a devolução dos autos para que se cumprisse o disposto no art. 543-B do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral no tema 444 da sistemática da repercussão geral, cujo paradigma é o AI-RG 845.156, de minha relatoria, DJe 9.92011.
+    No entanto, os autos foram reenviados ao STF pelo Tribunal a quo, ao fundamento de que a controvérsia não corresponderia àquela de que trata o paradigma indicado.
+    Após detida análise, verifico que, de fato, a matéria tratada nos autos, qual seja, a inclusão da Gratificação de Incentivo de Eficientização de Serviços – GIEFS na base de cálculo do décimo terceiro salário, não é análoga àquela analisada pelo mencionado paradigma que tratou dos “reflexos na base de cálculo do décimo terceiro salário e do terço de férias da verba decorrente de plantão na área de saúde”.
+    Torno sem efeito, portanto, a decisão de fls. 169 e passo a decidir o recurso.
+    Trata-se de recurso extraordinário com agravo interposto pela Fundação Ezequiel Dias – FUNED, contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+    “APELAÇÃO – AÇÃO ORDINÁRIA – SERVIDOR DA FUNED – GRATIFICAÇÃO DE INCENTIVO À EFICIENTIZAÇÃO DOS SERVIÇOS – GIEFS – INCLUSÃO NA REMUNERAÇÃO PARA FINS DE GRATIFICAÇÃO NATALINA – POSSIBILIDADE – RECURSO DESPROVIDO.
+    O servidor do Hemominas possui o direito social a ele constitucionalmente garantido à inclusão da Gief na base de cálculo da gratificação natalina, uma vez que esta deve corresponder ao valor da remuneração” (fls. 114).
+    Opostos embargos de declaração, foram rejeitados (fls. 136).
+    Nas razões do recurso extraordinário, aponta-se violação aos arts. 1º; 7º, VIII; 18, 25; 37, XIV; e 169, da Constituição. Alega-se que a GIEFS não tem natureza salarial, mas sim de participação nos resultados, e o seu pagamento depende do desempenho institucional, vinculado a metas de produção e de qualidade na prestação de serviços pela unidade administrativa, sendo, portanto, parcela variável não somada aos vencimentos do servidor.
+    Sustenta-se que a incidência de gratificação (GIEFS) sobre gratificação (natalina – décimo terceiro salário) consubstancia efeito cascata expressamente vedado pela Constituição. Por fim, aduz-se a impossibilidade de o Poder Judiciário conceder aumento salarial.
+    Pugna-se pela reforma do acórdão recorrido para afastar a condenação imposta à Fazenda Pública.
+    Decido.
+    A irresignação não merece prosperar.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento em um argumento infraconstitucional (Lei estadual n. 9.729/1988) e outro constitucional (arts. 7º, incs. IV e VIII, 39, § 3º, da Constituição da República).
+    Não tendo sido interposto recurso especial contra o argumento infraconstitucional, subsiste fundamento autônomo apto à manutenção do julgado recorrido, o que encontra óbice à interposição de recurso extraordinário, nos termos da Súmula n. 283 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO ESPECIAL PELA PRESTAÇÃO DE SERVIÇOS ASSISTENCIAIS EM SAÚDE: INCLUSÃO NA COMPOSIÇÃO DO DÉCIMO TERCEIRO SALÁRIO E NA BASE DE CÁLCULO DO ABONO DE FÉRIAS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. INCIDÊNCIA DAS SÚMULAS 280 E 283 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (AI 765.925-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.9.2010).
+    Ainda que superado este óbice, para decidir de forma diversa ao consignado pelo acórdão impugnado, seria necessária a incursão em matéria infraconstitucional (Lei 9.729/88), o que é vedado pela Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+     “Agravo regimental no recurso extraordinário com agravo. Servidor público estadual. Prequestionamento. Ausência. Décimo terceiro salário. Verbas que integram seu cálculo. Legislação local. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. O recurso extraordinário não se presta à análise de legislação local. Incidência da Súmula nº 280/STF. 3. Agravo regimental não provido.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de setembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
