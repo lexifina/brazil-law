@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão interlocutória que negou seguimento ao pedido de uniformização regional, pelos seguintes fundamentos:
+    “Trata-se de pedido de uniformização interposto contra acórdão da Turma Recursal, com fulcro no art. 14 da Lei nº 10.259/2001.
+    Desatendendo à legislação que rege a matéria, inexiste similitude fática entre o acórdão atacado e a(s) decisão(ões) paradigma(s) juntada(s) pelo recorrente, já que o primeiro trata de contribuição previdenciária sobre 1/3 de férias de trabalhador avulso enquanto a(s) segunda(s) trata(m) de imposto de renda sobre a mesma verba salarial.
+    Trago à colação julgado da TNU uniformizando tal entendimento:
+    '.....O incidente de uniformização tem cabimento quando fundado em divergência entre decisões de Turmas Recursais de diferentes Regiões ou quando o acórdão recorrido for proferido em contrariedade à súmula ou jurisprudência dominante desta Turma Nacional de Uniformização ou do Superior Tribunal de Justiça. A petição do incidente conterá obrigatoriamente a demonstração do dissídio, fazendo o cotejo analítico em duas etapas: primeiro, pela comparação entre as questões de fato tratadas no acórdão impugnado e no paradigma, com reprodução dos fundamentos de ambos; depois, pelo confronto das teses jurídicas em conflito, evidenciando a diversidade de interpretações para a mesma questão de direito.....' TNU, PEDILEF 00076242220084047195, Juiz Federal Janilson Bezerra de Siqueira, julgado em 14/11/2012, DJ 30/12/2012
+    Por outro lado, a mera anexação ou citação de decisões proferidas não basta para tal fim, sendo necessário, também, o confronto analítico entre as decisões supostamente divergentes em que se basearia seu recurso, conforme preconiza o excerto da decisão acima transcrito.
+    O pedido necessita, ademais, que tenha sido dada solução jurídica diversa a situações faticamente similares, o que o recorrente não logrou demonstrar ter ocorrido no presente caso.
+    Por fim, acórdãos oriundos de Tribunais Regionais Federais bem como do STJ não servem para caracterização de divergência para os fins do pedido de uniformização de jurisprudência, previsto no art. 14, § 1º , da Lei nº 10.259/2001.
+    Diante do exposto, nego seguimento ao pedido de uniformização regional.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º; 5º, XXII; e 7º XVII e XXXIV, todos da Carta. Sustenta, em síntese, que a dobra das férias não pode estar sujeita a desconto de INSS, pois caso isso ocorresse ela perderia seu caráter indenizatório .
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que inexiste no ordenamento jurídico a previsão de interposição de extraordinário contra decisões de inadmissão de incidentes de uniformização de jurisprudência. No agravo, a parte reitera os argumentos aduzidos na peça do recurso extraordinário e afirma que a negativa de seguimento vai de encontro à celeridade processual em conjunto com a informalidade dos atos processuais.
+    A pretensão não merece acolhida. A jurisprudência do Supremo está assentada no sentido de que o esgotamento da via ordinária constitui condição para o acesso à subsequente via extraordinária. Neste sentido, confira-se o seguinte precedente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO DE TURMA RECURSAL DE JUIZADO ESPECIAL FEDERAL. INTERPOSIÇÃO SIMUTÂNEA DE PEDIDO DE UNIFORMIZAÇÃO. RECURSO EXTRAORDINÁRIO EXTEMPORÂNEO. AGRAVO IMPROVIDO.
+    I - Esta Corte firmou entendimento no sentido de se considerar extemporâneo o recurso extraordinário interposto contra decisão proferida por Turma Recursal dos Juizados Especiais Federais antes do julgamento de pedido de uniformização interposto contra essa mesma decisão.
+    II Ante a existência de incidente de uniformização pendente de julgamento, não há decisão de única ou última instância que dá ensejo a abertura da via extraordinária. Incidência da Súmula 281 do STF.
+    III Agravo regimental improvido.” (RE 468692 AgR, Rel. Min. Ricardo Lewandowski)
+    No caso dos autos, torna-se inviável a pretensão recursal diante da possibilidade de interposição de recurso interno contra decisão monocrática que negou seguimento ao pedido de uniformização. Em sentido semelhante, destaco a ementa do RE 418.159 AgR, julgado sob a relatoria do ministro Gilmar Mendes:
+    “Agravo regimental em recurso extraordinário. 2. Decisão monocrática. Cabimento de agravo regimental. Ausência de interposição. 3. Não esgotamento das instâncias ordinárias. Súmula 281/STF. 4. Agravo regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 544, § 4º, II, a , do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 29 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
