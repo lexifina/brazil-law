@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 8ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVOS INTERNOS NA APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. PEDIDO DE IMUNIDADE TRIBUTÁRIA QUANTO AO PAGAMENTO DE IPTU. IMPOSSIBILIDADE. SENTENÇA DE EXTINÇÃO SEM JULGAMENTO ANTE A INTERPOSIÇÃO DE NOVA AÇÃO QUANDO O CASO EM QUESTÃO JÁ FOI DEBATIDO EM SEDE DE EMBARGOS A EXECUÇÃO. FENÔMENO DA COISA JULGADA. INCONSTITUCIONALIDADE DA COBRANÇA DA TIP (TAXA DE ILUMINAÇÃO PÚBLICA) E DA TCLLP(TAXA DE COLETA DE LIXO) RECONHECIDA. INEXISTÊNCIA DE PRESCRIÇÃO ANTE O VÍCIO DE INEFICÁCIA DA NORMA. AGRAVOS DESPROVIDOS.”
+    Foram opostos embargos de declaração, aos quais foi negado provimento.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, e 150, VI, c, ambos da Carta. Sustenta, em síntese, que, ao autorizar a cobrança de IPTU, o Tribunal de origem desrespeitou o trânsito em julgado das ações declaratórias que haviam reconhecido o direito ao benefício da imunidade tributária.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a alegada ofensa à Constituição da República, se existisse, seria reflexa, vez que necessariamente precedente de afronta a dispositivo de legislação infraconstitucional”. Em sede de agravo, a parte reitera os argumentos aduzidos na peça do recurso extraordinário.
+    A pretensão não merece acolhida. Incide na hipótese o entendimento desta Corte no sentido de que a controvérsia relativa aos limites objetivos da coisa julgada, quando dependente da análise de legislação infraconstitucional, não enseja a abertura da via extraordinária.
+    No caso dos autos, note-se que o Tribunal de origem consignou o seguinte:
+    “Como devidamente exposto, estamos diante do fenômeno da coisa julgada, uma vez que o primeiro apelante já havia trazido os mesmos argumentos em outra demanda, ou seja, no que tange aos exercícios cogitados na petição inicial, 1989, 1990 e 1991, a sentença julgou improcedente o pleito de reconhecimento de imunidade, ex vi de fls. 57/67, embargos à execução nº 97.001.074994-6, confirmada em segundo grau de jurisdição, decisão que já transitou em julgado, fls. 97 dos autos apensados aos presentes.
+    Portanto, o não reconhecimento de imunidade constitucional em relação ao IPTU, já foi apreciado quando do julgamento dos embargos à execução.“
+    Com efeito, dissentir das conclusões adotadas demandaria tão somente o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente, providência vedada nesta fase processual. No mesmo sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMUNIDADETRIBUTÁRIA. IPTU. INSTITUIÇÃO DE ASSISTÊNCIA SOCIAL. LIMITES DA COISA JULGADA.OFENSA INDIRETA. AGRAVO IMPROVIDO.
+    I – A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a discussão acerca dos limites da coisa julgada, bem como a alegação de afronta ao postulado da prestação jurisdicional, se dependentes de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Precedentes.
+    II - Agravo regimental improvido” (AI 811.844-AgR, Rel. Min. Ricardo Lewandowski)
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. TRIBUTÁRIO. IMUNIDADE. IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - IPTU. TITULARIDADE E DESTINAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. LIMITES OBJETIVOS DA COISA JULGADA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 710.615-ED, Relª Minª Cármen Lúcia)
+    Diante do exposto, com base no art. 544, § 4º, II, a , do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar-lhe seguimento.
+    Publique-se.
+          Brasília, 30 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
