@@ -1,0 +1,20 @@
+DECISÃO:
+Ementa: RECURSO EXTRAORDINÁRIO CRIMINAL. ATUAÇÃO DO MP ESTADUAL EM TRIBUNAL SUPERIOR COMO PARTE. 1. A jurisprudência do Plenário do STF reconhece a legitimidade do Ministério Público estadual para atuar, como parte, perante Tribunal Superior. 2. Recurso provido.
+    1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ATUAÇÃO PERANTE TRIBUNAIS SUPERIORES. ILEGITIMIDADE DO MINISTÉRIO PÚBLICO ESTADUAL. ART. 47, § 1º, DA LEI COMPLEMENTAR 75/93. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. Nos termos da jurisprudência desta Quinta Turma, o Ministério Público Estadual não possui legitimidade para atuar perante os Tribunais Superiores, pois o art. 47, § 1º, da Lei Complementar 75/93 confere esta atribuição exclusivamente ao Ministério Público Federal.
+    2. Agravo regimental não conhecido.”
+    2. O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 18, 127, § 1º, e 129, da Constituição. Aduz que “atende melhor ao desiderato ministerial inscrito na Lei Maior deixar a cargo do Ministério público de cada unidade da federação a defesa da posição sustentada, como parte, desde o limiar da causa”.
+    3. O recurso merece provimento. O Plenário do Supremo Tribunal Federal, no julgamento da Questão de Ordem no RE 593.727, da relatoria do Ministro Cezar Peluso, reconheceu a legitimidade do Ministério Público Estadual para atuar, diretamente, perante os Tribunais Superiores, na qualidade de parte no processo. Veja-se trecho do voto proferido pelo Min. Celso de Mello, na referida questão de ordem:
+    “(...)
+    Não tem sentido, por implicar ofensa manifesta à autonomia institucional do Ministério Público dos Estados-membros, exigir-se que a sua atuação processual se concretize por intermédio do Senhor Procurador-Geral da República, que não dispõe do poder de ingerência na esfera orgânica do Parquet estadual, pois lhe incumbe, unicamente, por expressa definição constitucional (CF , art. 128, § 1º), a Chefia do Ministério Público da União.
+    É importante assinalar, porque juridicamente relevante, que o postulado da unidade institucional ( que também se estende ao Ministério Público dos Estados-membros) reveste-se de natureza constitucional ( CF , art. 127, § 1º), a significar que o Ministério Público estadual não é representado muito menos chefiado pelo Senhor Procurador-Geral da República, eis que é plena a autonomia do Parquet local em face do eminente Chefe do Ministério Público da União.
+    Mostra-se fundamental insistir na asserção de que o Ministério Público dos Estados-membros não está vinculado nem subordinado, no plano processual, administrativo e/ou institucional, à Chefia do Ministério Público da União, o que lhe confere ampla possibilidade de postular, autonomamente , perante o Supremo Tribunal Federal, em recursos extraordinários interpostos em processos, como o ora em exame , nos quais o próprio Ministério Público estadual seja um dos sujeitos da relação processual neles instaurada.
+    (...)”
+    4. Nessa linha, vejam-se, ainda, a ACO 2.244, Rel. Min. Celso de Mello, o RE 759.132, Rel. Min Gilmar Mendes, e a ACO 2.351, Rel. Min. Luiz Fux, assim ementada:
+    “CONFLITO POSITIVO DE ATRIBUIÇÕES. MINISTÉRIO PÚBLICO FEDERAL E MINISTÉRIO PÚBLICO ESTADUAL. ATUAÇÃO PERANTE CORTES SUPERIORES. LEGITIMIDADE DO PARQUET ESTADUAL PARA ATUAR COMO PARTE, DE FORMA AUTÔNOMA, RESGUARDADA A ATUAÇÃO DO MPF COMO CUSTOS LEGIS. CONFLITO RESOLVIDO PARA ASSENTAR A ATRIBUIÇÃO DO MINISTÉRIO ESTADUAL DO RIO GRANDE DO NORTE PARA ATUAR NO CASO SUB EXAMINE.”
+    5. Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário para reconhecer a legitimidade do Ministério Público do Distrito Federal e dos Territórios para atuar no processo perante o Superior Tribunal de Justiça.
+    Publique-se.
+          Brasília, 30 de setembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
