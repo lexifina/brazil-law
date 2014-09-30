@@ -1,0 +1,12 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIÇOS. PLANO DE SAÚDE. RESSARCIMENTO AO SISTEMA ÚNICO DE SAÚDE. REPERCUSSÃO GERAL RECONHECIDA. RE 597.064-RG. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF ).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia sub examine, em que se discute a constitucionalidade da exigência legal de ressarcimento ao Sistema Único de saúde SUS das despesas com atendimento a pacientes beneficiários de planos de saúde, com fundamento no artigo 32 da Lei nº 9.656/98, nos autos do RE 597.064, Relator o Ministro Gilmar Mendes, Tema 345, Plenário Virtual, DJe de 10/12/2000. A decisão restou assim ementada:
+    “Recurso Extraordinário. Administrativo. Ressarcimento ao Sistema Único de Saúde SUS das despesas com atendimento de pacientes beneficiários de planos privados de saúde. Art. 32 da Lei 9.656/1998. Repercussão geral reconhecida.”
+    In casu, o acórdão recorrido assim assentou
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. Agravo Interno interposto de decisão monocrática que negou seguimento a apelação cível, mantendo sentença de procedência de denunciação da lide deduzida pela FUNDAÇÃO MUNICIPAL DE PETRÓPOLIS em face de UNIMED PETRÓPOLIS COOPERATIVA DE TRABALHO MÉDICO. 1. Não se conhece em sede de apelo de impugnação à decisão interlocutória transitada em julgado. 2. Ainda que haja previsão de procedimento administrativo específico para reembolso de despesas médicas pela operadora de plano de saúde, havendo condenação judicial, o direito de regresso dever ser buscado em ação própria, o que torna cabível a denunciação da lide. 3. Cumprida em sede de antecipação dos efeitos da tutela a obrigação disposta na sentença de a operadora de plano de saúde arcar com os custos de procedimento cirúrgico de seu cliente, não cabe reembolso à rede pública. 4. Recurso ao qual se nega provimento.”
+    Verifica-se, portanto, que a matéria abordada pelo acórdão recorrido será examinada pelo Plenário desta Corte quando do julgamento de mérito do leading case supra mencionado.
+    Ex positis, PROVEJO o agravo, para desde logo, ADMITIR o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a devolução do feito ao Tribunal de origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil.”
+    Publique-se.
+    Brasília, 30 de setembro de 2014
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
