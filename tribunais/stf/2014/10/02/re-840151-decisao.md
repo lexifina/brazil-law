@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Praia de Belas Empreendimentos Cinematográficos Ltda. Aparelhado o recurso na violação dos arts. 145, § 1º, e 195, § 12, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. COFINS E CONTRIBUIÇÃO PARA O PIS. DIREITO AO CRÉDITO. TRIBUTAÇÃO MONOFÁSICA. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de legislação infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Precedentes. II – Agravo regimental a que se nega provimento.” (RE 709352 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 27/05/2014, PROCESSO ELETRÔNICO DJe-113 DIVULG 11-06-2014 PUBLIC 12-06-2014).”
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. PIS. COFINS. Creditamento. Tributação monofásica. Matéria infraconstitucional. Ofensa reflexa. Precedentes. 1. A matéria aqui em discussão é dotada de cunho eminentemente infraconstitucional. Assim, eventual ofensa à Constituição Federal se daria de forma indireta ou reflexa, o que inviabiliza o apelo extremo. 2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 3. Agravo regimental não provido.” (ARE 646173 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 07/08/2012, ACÓRDÃO ELETRÔNICO DJe-165 DIVULG 21-08-2012 PUBLIC 22-08-2012)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 02 de outubro de 2014.
+Ministra Rosa Weber
+Relatora
