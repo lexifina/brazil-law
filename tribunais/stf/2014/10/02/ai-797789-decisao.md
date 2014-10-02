@@ -1,0 +1,9 @@
+A Secretaria Judiciária desta Corte remeteu o presente processo ao Tribunal de origem, com fundamento no art. 543-B do Código de Processo Civil (termo de remessa de fl. 299 v.). Ao fazê-lo, apontou, como processo paradigma para fins de aplicação da sistemática da repercussão geral, o AI 762.184-RG/RJ, substituído pelo RE 636.331-RG/RJ, Rel. Min. Gilmar Mendes – Tema 210 (limitação de indenizações por danos decorrentes de extravio de bagagem com fundamento na Convenção de Varsóvia).
+    O recurso foi sobrestado na origem, conforme despacho de fl. 300.
+    No entanto, em 6/3/2013, o Tribunal a quo devolveu os autos ao Supremo Tribunal Federal sob o fundamento de que “o recurso extraordinário paradigma da tese representativa da controvérsia aqui versada não teve o mérito apreciado e julgado, o que conduziu à exclusão da respectiva tese do repertório de teses deste Tribunal de Justiça” (fl. 303). A devolução ocorreu antes, portanto, do julgamento de mérito do referido tema da repercussão geral.
+    Observo que, nos termos do art. 543-B, § 3º, do Código de Processo Civil, os recursos sobrestados pela sistemática da repercussão geral serão apreciados pelos Tribunais ou Turmas Recursais após o julgamento do mérito do recurso extraordinário. E, ainda, que o Regimento Interno do Supremo Tribunal Federal dispõe que o “(...) Tribunal de origem sobrestará os agravos de instrumento contra decisões que não tenham admitido os recursos extraordinários, julgando-os prejudicados nas hipóteses do art. 543-B, § 2º, e, quando coincidente o teor dos julgamentos, § 3º” (art. 328-A, § 1º).
+    Isso posto, determino o retorno dos autos ao Tribunal de Justiça do Estado do Rio de Janeiro, para que lá permaneçam sobrestados até o julgamento do RE 636.331-RG/RJ, Rel. Min. Gilmar Mendes, nos termos do art. 543-B e parágrafos do CPC.
+    Publique-se.
+    Brasília, 2 de outubro de 2014.
+Ministro RICARDO LEWANDOWSKI
+Presidente
