@@ -1,0 +1,19 @@
+Trata-se de embargos de declaração contra decisão que julgou prejudicado este recurso extraordinário em razão do parcial provimento do recurso especial pelo Superior Tribunal de Justiça.
+    Busca-se, em suma, nos presentes declaratórios, o seu acolhimento com efeito modificativo, para a reforma do decisum atacado, para que seja apreciado o recurso extraordinário pelas razões assim deduzidas:
+    “A r. decisão embargada assevera que o e. STJ deu parcial provimento ao recurso especial e que determinou o retorno dos autos a origem, razão pela qual entendeu prejudicado o presente recurso, consoante o disposto no artigo 13, V, c/c art. 327, ambos do Regimento Interno desse Excelso Pretório.
+    Entretanto, o v. Acórdão que determinou o retorno à origem foi o proferido no recurso especial nº 1.211.335, às fls. e-stj 558/561, que anulou o julgado proferido pelo Egrégio Tribunal Regional Federal da 2ª Região e determinou um novo julgamento dos embargos de declaração.
+    Ao julgar novamente os embargos de declaração, o Tribunal a quo deu provimento ao embargos; entretanto, manteve a parte dispositiva do julgado, nos termos do v. Acórdão às fls. e-stj 612/617.
+    Desta forma, entende a ora embargante, que o Recurso extraordinário de fls. e-stj 435/444, perdeu o objeto, razão pela qual foi interposto outro extraordinário às fls e-stj 651/662, admitido às fls. E-stj 729/730.
+    Não obstante, é de bom alvitre esclarecer - ao que parece talvez seja o motivo desse pequeno equívoco - que o e. Ministro Mauro Campbell Marques, relator do recurso especial nº 1.351.576, subsequente ao especial então provido, cometeu um erro material, ao determinar novamente o retorno do autos à origem. Inclusive Sua Excelência reconhece tal erro na decisão de fls e-stj 820, ante o equívoco da decisão monocrática de fls. e-stj 780, in fine. Ao julgar o agravo de fls. e-stj 800/807, a Colenda 2ª Turma do e. STJ, às fls. e-stj 813/820, manteve a decisão do Relator e negou seguimento ao recurso especial”.
+    É o relatório necessário.
+    Decido.
+    Preliminarmente, na linha da pacífica jurisprudência desta Corte, recebo os embargos de declaração como agravo regimental, uma vez que opostos de decisão monocrática.
+    A parte agravante, sustenta, em suma, que há novo recurso extraordinário a ser apreciado (e-stj 651-662) e que, em razão da negativa de seguimento do recurso especial concomitante interposto, não deve prevalecer a decisão que o entendeu prejudicado.
+    Em face das considerações relatadas acima e com base no art. 317, § 2º, do Regimento Interno do Supremo Tribunal Federal, reconsidero a decisão de fls. 213, tornando-a sem efeito.
+    Assim, passo a julgar o recurso extraordinário e, fazendo-o verifico que não estão demonstradas as razões pelas quais se entende que a questão constitucional aqui versada seria relevante do ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa. A mera alegação de existência do requisito da repercussão geral, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF.
+    Nesse sentido, confiram-se os seguintes precedentes, entre outros: ARE 667.043-AgR/SP, Rel. Ministro Presidente; ARE 692.735-AgR/GO, Rel. Min. Celso de Mello; AI 821.305-AgR/SP, Rel. Min. Gilmar Mendes; AI 780.477-AgR/SP, Rel. Min. Joaquim Barbosa; ARE 654.250-ED/SP, de minha relatoria; AI 853.702-AgR/SC, Rel. Min. Cármen Lúcia; RE 629.255-AgR/PR, Rel. Min. Dias Toffoli; RE 614.223-AgR/ Rel. Min. Luiz Fux; ARE 683.660-AgR/SP, Rel. Min. Rosa Weber; e ARE 654.243/SP Rel. Min. Marco Aurélio.
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 6 de outubro de 2014.
+Ministro Ricardo Lewandowski
+Presidente
