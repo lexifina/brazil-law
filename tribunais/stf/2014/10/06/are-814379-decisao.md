@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Ação Declaratória de rito sumário em apenso à Ação Cautelar. Objetivam os autores autorização para participar do curso de formação, sem a apresentação prévia do diploma comprobatório de escolaridade e registro nos órgãos profissionais competentes exigidos no Edital, antes do encerramento de todas a etapas do concurso. Sentença que julgou procedentes os pedidos. M A N U T E N Ç Ã O, pois a exigência de apresentação dos diplomas antes de concluído o concurso é irregular, a teor da Súmula 266 do STJ. D E S P R O V I M E N T O D O R E C U R S O”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, caput; 37, caput, I e II, e 173, § 1º, II, da Constituição. Sustenta que “a empresa não pode contratar, como se fosse engenheiro, uma pessoa que não tenha as necessárias qualificações profissionais, mesmo que, logo após essa contratação, a empresa envie o seu novo funcionário para um curso de formação, sob pena de violação das normas constitucionais”.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) ausência de prequestionamento dos dispositivos constitucionais tidos por violados; (ii) eventual ofensa à Constituição ocorreria de modo reflexo ou indireto; (iii) falta de violação ao art. 2º do Texto Constitucional; e (iv) incidência da Súmula 279/STF.
+    O recurso extraordinário não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência desta Corte que se orienta no sentido de que a comprovação da habilitação exigida nos editais de concurso público há de ocorrer após a conclusão das fases respectivas, e não no momento da inscrição no certame (MS 26.668, Rel. Min. Ricardo Lewandowski, Plenário). Nessa linha, confiram-se julgados das duas Turmas deste Tribunal:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Concurso público. 3. Comprovação de habilitação. Momento da posse. Exigência de apresentação de diploma e registro no órgão de classe competente após a conclusão do curso de formação que, no caso, consiste em etapa do referido concurso. 3. Precedentes da Corte. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento. (ARE 728.049-AgR, Rel. Min. Gilmar Mendes, Segunda Turma)”
+    “DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. HABILITAÇÃO PREVISTA EM EDITAL. INEXIGIBILIDADE EM MOMENTO ANTERIOR AO CURSO DE FORMAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO DAS DEMAIS MATÉRIAS DE ESTATURA CONSTITUCIONAL. SÚMULA 282/STF.
+    A comprovação da habilitação prevista em edital, para o exercício do cargo objeto do certame, somente pode ser exigida após o curso de formação. Precedentes.
+    Aplicação da Súmula 282/STF quanto às questões constitucionais não prequestionadas: é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+    Agravo regimental conhecido e não provido”. (AI 752.869-AgR, Rel.ª Min.ª Rosa Weber, Primeira Turma)
+    Ademais, não afronta o princípio da separação dos Poderes o controle exercido pelo Poder Judiciário sobre atos administrativos tidos por abusivos ou ilegais. Veja-se trecho da ementa do RE 629.574-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    III - Esta Corte possui entendimento no sentido de que o exame pelo Poder Judiciário do ato administrativo tido por ilegal ou abusivo não viola o princípio da separação dos poderes. Precedentes.
+    IV - Agravo regimental improvido”.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 06 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
