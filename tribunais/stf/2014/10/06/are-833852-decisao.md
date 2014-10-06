@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Turma Recursal dos Juizados Especiais do Estado de Sergipe, assim ementado:
+    “RECURSO INOMINADO - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS FILMAGEM EM LOCAL DE TRABALHO - PUBLICAÇÃO DE VÍDEO NAS REDES SOCIAIS - MANIFESTAÇÃO DE PENSAMENTO QUE NÃO PODE SER EXERCIDA DE FORMA ILIMITADA - CONOTAÇÃO OFENSIVA – EXCESSO CONFIGURADO OCORRÊNCIA DE DANO MORAL - DEVER DE INDENIZAR CARACTERIZADO QUANTUM FIXADO - SENTENÇA REFORMADA – RECURSO CONHECIDO E PROVIDO.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do artigo 5º, inciso IV, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que a instância de origem julgou procedente o pedido indenizatório a partir do conjunto probatório que permeia a lide. Nesse caso, para acolher a pretensão do recorrente e ultrapassar o entendimento do acórdão atacado seria necessário o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. ACÓRDÃO RECORRIDO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 810.107/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/814)
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279 DO STF. I - A apreciação do recurso extraordinário demanda o exame de matéria de fato, o que atrai a incidência da Súmulas 279 do STF. II - Agravo regimental improvido” (AI nº 634.072/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 22.6.07).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI nº 642.351/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 29/6/07).
+    “Indenização. Dano moral. Notícias divulgadas por jornal. Controvérsia que exige o prévio exame de provas (Súmula 279). Precedentes. Regimental não provido” (RE nº 375.095/RJ-AgR, Segunda Turma, Relator o Ministro Nelson Jobim, DJ de 21/5/04).
+    “1. RE: descabimento: questão relativa a indenização por danos morais decorrentes de veiculação de notícia em periódico: caso em que, para constatar a existência ou não das alegadas violações aos dispositivos constitucionais apontados no recurso extraordinário, seriam imprescindíveis o reexame da prova e o revolvimento de matéria de fato: incidência da Súmula 279 . 2. Julgamento antecipado da lide: debate de natureza processual ordinária: alegada ofensa a dispositivos constitucionais que, se ocorresse, seria indireta ou reflexa, que não enseja o RE” (RE nº 394.622/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 7/5/04).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 6 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
