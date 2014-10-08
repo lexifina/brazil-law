@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de mandado de segurança, com pedido de liminar, impetrado contra acórdão proferido pelo Conselho Nacional de Justiça que negou provimento ao recurso administrativo interposto na Reclamação Disciplinar 200810000008995 (fls. 97/103). O impetrante alega que o CNJ, ao determinar o arquivamento da reclamação disciplinar, violou seu direito líquido e certo de produção de provas no âmbito administrativo. Postula o deferimento de medida liminar e no mérito requer a realização da prova e, em continuidade, o julgamento do mérito da Reclamação Disciplinar 20080000008995. A liminar foi deferida. O CNJ apresentou informações (fls. 94/103) e o Ministério Público Federal apresentou parecer, opinando pela denegação da segurança (fls. 141/144).
+    2. Não merece seguimento o mandado de segurança. É que o art. 23 da Lei 12.016/2009 dispõe que o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado. O art. 8º, § 5º, do Regimento Interno do CNJ impõe a intimação pessoal do interessado para a contagem do prazo para eventual impugnação do ato, o que, por conseguinte, demarca o termo inicial do prazo decadencial da ação mandamental.
+    No caso, conforme os documentos juntados com a inicial, a ciência inequívoca da parte impetrante ocorreu em 24/11/2008, quando apresentou o recurso administrativo contra o indeferimento inicial Reclamação Disciplinar 200810000008995 (fl. 45). Assim, já havia decorrido o prazo decadencial em 11/5/2009, data da autuação e distribuição deste mandado de segurança.
+    Por fim, registre-se que a interposição de recurso administrativo desprovido de efeito suspensivo não interrompe o prazo para a impetração de mandado de segurança.
+    3. Diante do exposto, revogo a liminar deferida e nego seguimento ao pedido (art. 21, § 1º do RISTF). Custas pelo impetrante. Sem honorários advocatícios (Lei 12.016/09, art. 25).
+    Publique-se. Intimem-se.
+    Brasília, 8 de outubro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
