@@ -34,7 +34,5 @@ f) tiver como fundamento a alegação de inconstitucionalidade de lei, exceto no
 4 - seja objeto de súmula vinculante aprovada pela Supremo Tribunal Federal nos termos do art. 103-A da Constituição Federal.
 § 13. O disposto nos §§ 2º e 5º a 11 deste artigo não se aplica às hipóteses previstas no § 12 deste artigo.
 § 14. A Secretaria da Receita Federal - SRF disciplinará o disposto neste artigo, inclusive quanto à fixação de critérios de prioridade para apreciação de processos de restituição, de ressarcimento e de compensação.
-§ 15. Será aplicada multa isolada de 50% (cinquenta por cento) sobre o valor do crédito objeto de pedido de ressarcimento indeferido ou indevido.
-§ 16. O percentual da multa de que trata o § 15 será de 100% (cem por cento) na hipótese de ressarcimento obtido com falsidade no pedido apresentado pela sujeito passivo.
-§ 17. Aplica-se a multa prevista no § 15, também, sobre o valor do crédito objeto de declaração de compensação não homologada, salvo no caso de falsidade da declaração apresentada pela sujeito passivo.
+§ 17. Será aplicada multa isolada de 50% (cinquenta por cento) sobre o valor do débito objeto de declaração de compensação não homologada, salvo no caso de falsidade da declaração apresentada pela sujeito passivo.
 § 18. No caso de apresentação de manifestação de inconformidade contra a não homologação da compensação, fica suspensa a exigibilidade da multa de ofício de que trata o § 17, ainda que não impugnada essa exigência, enquadrando-se no disposto no inciso III do art. 151 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional.

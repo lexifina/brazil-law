@@ -5,7 +5,7 @@ III - os investimentos feitos a título de incentivo às atividades audiovisuais
 IV - (VETADO)
 V - o imposto retido na fonte ou o pago, inclusive a título de recolhimento complementar, correspondente aos rendimentos incluídos na base de cálculo;
 VI - o imposto pago no exterior de acordo com o previsto no art. 5º da Lei nº 4.862, de 29 de novembro de 1965.
-VII - até o exercício de 2015, ano-calendário de 2014, a contribuição patronal paga à Previdência Social pelo empregador doméstico incidente sobre o valor da remuneração do empregado.
+VII - até o exercício de 2019, ano-calendário de 2018, a contribuição patronal paga à Previdência Social pelo empregador doméstico incidente sobre o valor da remuneração do empregado; e
 VIII - doações e patrocínios diretamente efetuados por pessoas físicas no âmbito do Programa Nacional de Apoio à Atenção Oncológica - PRONON e do Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência - PRONAS/PCD, previamente aprovados pelo Ministério da Saúde.
 § 1º A soma das deduções a que se referem os incisos I a IV não poderá reduzir o imposto devido em mais de doze por cento.
 § 2º (VETADO)
