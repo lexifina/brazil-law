@@ -1,0 +1,45 @@
+Decisão: Trata-se de recurso extraordinário, interposto pelo Prefeito do Município de Belo Horizonte, contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais, assim ementado:
+    “PODER DE POLÍCIA. PREVENÇÃO DE INCÊNDIO. CONSTITUIÇÃO DO ESTADO DE MINAS GERAIS. COMPETÊNCIA DO CORPO DE BOMBEIROS. INTERESSE LOCAL. SUPLEMENTAÇÃO DAS ATIVIDADES LEGISLATIVA E ADMINISTRATIVA. AFRONTA ÀS DIRETRIZES EMANADAS E CONFERIDAS AO ENTE FEDERATIVO COMPETENTE. INCONSTITUCIONALIDADE (ART. 142, II e ART. 170, PARÁGRAFO ÚNICO, DA CONSTITUIÇÃO ESTADUAL).
+    Incide em vício de inconstitucionalidade, formal e material, a lei municipal que, para além de suplementar, como autoriza a configuração do interesse local na matéria, afronta e esvazia a competência do Estado-membro para o exercício, ainda que concomitante, do poder de política desenvolvido com fincas à prevenção de incêndios, atividade cuja titularidade foi conferida pela Constituição Estadual ao Corpo de Bombeiros, órgão integrante da administração estadual (art. 170, parágrafo único e art. 142, II, da Constituição do Estado de Minas Gerais)”.
+    Nas razões do recurso extraordinário, interposto com base no art. 102, III, a, da Constituição, aponta-se violação ao art. 30, I e II, do texto constitucional. Sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, alega-se que o Município é competente para regular as construções em seu território com o objetivo de promover a “segurança pública”, cuja responsabilidade foi atribuída a todos pelo art. 144 da Constituição Federal.
+    Aduz-se, em síntese, que o ente federativo não interferiu na organização nem nas competências do Corpo de Bombeiros Militar, mas apenas fixou normas para a concessão de licença de construção e expedição de certidão de “habite-se” para edificações destinadas ao uso coletivo. Pugna-se pelo provimento do recurso extraordinário para que seja julgada improcedente a ação direta de inconstitucionalidade dos arts. 1º, 2º, 4º e 5º da Lei 9.064/2005, do Município de Belo Horizonte.
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do recurso extraordinário, dada a ilegitimidade do Procurador-Geral do Município de Belo Horizonte para recorrer em ação direta de inconstitucionalidade. Sustenta que caberia ao Chefe do Poder Executivo municipal subscrever a petição recursal, nos termos do art. 103, V, da Constituição. Ressalta, ainda, não ser aplicável o art. 13 do CPC à instância extraordinária, motivo pelo qual não há que se falar em abertura de vista para regularização da falha.
+    Decido.
+    As razões do recurso não merecem prosperar.
+    O tribunal de origem considerou inválido o diploma legal impugnado sob o fundamento de que seu conteúdo ofende o disposto nos arts. 10, 142, II, e 170, parágrafo único, da Constituição do Estado de Minas Gerais, conforme trecho que transcrevo a seguir:
+    “É dizer, em observância ao disposto no art. 170, parágrafo único da Constituição do Estado de Minas Gerais, e ao art. 30, II, da Constituição Federal, a atividade municipal no âmbito da prevenção de incêndios deveria apenas suplementar as diretrizes fixadas pelo Estado, a quem foi originalmente conferida mencionada competência.
+    Todavia, conforme já destacado, as modificações engendradas pela Lei 9.604/2005, do Município de Belo Horizonte, não se limitaram a contrariar a legislação estadual sobre o tema.
+    Mencionada legislação foi além, na medida em que subtraiu do Corpo de Bombeiros Militar do Estado de Minas Gerais a atribuição para atuar na prevenção de incêndios, por meio do exercício do poder de polícia inerente à competência material-administrativa que lhe é conferida pelo art. 142, II, da Constituição do Estado de Minas Gerais” (fls. 430)
+    Os dispositivos que embasaram o acórdão recorrido possuem a seguinte redação:
+    “Art. 10 - Compete ao Estado:
+    (…)
+    XIV – suplementar as normas gerais da União sobre:
+    a) organização, efetivos, garantias, direitos e deveres da Polícia Militar;
+    § 1º – No domínio da legislação concorrente; o Estado exercerá:
+    I – competência suplementar;
+    II – competência plena, quando inexistir lei federal sobre normas gerais, ficando suspensa a eficácia da lei estadual no que for contrário a lei federal superveniente.”
+    “Art. 142 – A Polícia Militar e o Corpo de Bombeiros Militar, forças públicas estaduais, são órgãos permanentes, organizados com base na hierarquia e na disciplina militares e comandados, preferencialmente, por oficial da ativa do último posto, competindo:
+    (…)
+    II – ao Corpo de Bombeiros Militar, a coordenação e a execução de ações de defesa civil, a prevenção e combate a incêndio, perícias de incêndio, busca e salvamento e estabelecimento de normas relativas à segurança das pessoas e de seus bens contra incêndio ou qualquer tipo de catástrofe;”
+    “Art. 170. A autonomia do Município se configura no exercício de competência privativa, especialmente:
+    (…)
+    V – promoção do ordenamento territorial, mediante planejamento e controle de uso, do parcelamento e da ocupação do solo urbano, ficando dispensada a exigência de alvará ou de qualquer outro tipo de licenciamento para o funcionamento de templo religioso e proibida a limitação de caráter geográfico à sua instalação;
+    VI – organização e prestação de serviços públicos de interesse local, diretamente ou sob regime de concessão, permissão ou autorização, inclupido o transporte coletivo de passageiros, que tem caráter essencial.
+    “Parágrafo único – No exercício da competência de que trata este artigo, o Município observará a norma geral respectiva, federal ou estadual.”
+    Ressalta-se que a norma que confere ao Estado ou ao Município competência para retirar ou conferir atribuições ao Corpo de Bombeiros Militar, relacionadas à prevenção de incêndios, não constitui norma de repetição obrigatória e, não havendo conteúdo análogo na Constituição Federal, forçoso reconhecer que a análise da constitucionalidade da lei impugnada restringe-se ao âmbito estadual.
+    A Constituição Federal, quanto às atribuições conferidas ao Corpo de Bombeiros Militares, apenas menciona, em seu art. 144, o seguinte:
+    “Art. 144. A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos:
+    (…)
+    V – polícias militares e corpos de bombeiro militares;
+    (…)
+    § 6º As polícias militares e o corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-se, juntamente com as polícias civis, aos Governadores dos Estados, do Distrito Federal e dos Territórios”.
+    Dessa forma, o acórdão recorrido, ao examinar os arts. 10, 142, II, e 170 da Constituição do Estado de Minas Gerais, entendeu que a legislação do Município de Belo Horizonte que permitiu, para aprovação de projetos de edificação de uso coletivo, a apresentação de laudo técnico emitido por profissional legalmente habilitado e com anotação de responsabilidade técnica para atestar a eficiência do sistema de prevenção e combate a incêndio implantado e sua adequação às normas técnicas e legislações vigentes, usurpou a competência do Estado e contrariou a Constituição local, que estabeleceu como atribuição do Corpo de Bombeiros Militar a prevenção e o combate a incêndio.
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa ao texto constitucional, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Representação de inconstitucionalidade de lei municipal em face de Constituição estadual. Ausência de normas de reprodução obrigatória. Incidência da Súmula nº 280/STF. Precedentes. 1. Para que seja admissível recurso extraordinário de ação direta de inconstitucionalidade processada no âmbito do Tribunal local, é imprescindível que o parâmetro de controle normativo local corresponda à norma de repetição obrigatória da Constituição Federal. 2. Inadmissível, em recurso extraordinário, a análise da legislação local. Incidência da Súmula nº 280 do Supremo Tribunal Federal. 3. Agravo regimental a que se nega provimento. ” (AI 694.299-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.8.2013)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS LOCAIS. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissível o RE, ante a incidência da Súmula 280 do STF. II – Agravo regimental improvido”. (RE 632.146-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 2.4.2012)
+    Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 8 de outubro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
