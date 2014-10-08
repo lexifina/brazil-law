@@ -1,0 +1,20 @@
+Decisão:
+Ementa: Recurso ordinário em habeas corpus. Moeda falsa. Inaplicabilidade do princípio da insignificância. 1. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido de que não se aplica o princípio da insignificância a fatos caracterizadores do crime de moeda falsa. 2. Recurso a que se nega provimento.
+    1. Trata-se de recurso ordinário em habeas corpus interposto de acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da relatoria do Ministro Arnaldo Esteves de Lima, assim ementado:
+    “HABEAS CORPUS. MOEDA FALSA. (4 NOTAS DE R$ 50,00). PRETENSÃO ABSOLUTÓRIA. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. CRIME CONTRA A FÉ PÚBLICA. PRECEDENTES DO STJ. IMPOSSIBILIDADE DE REDUÇÃO DA PENA-BASE ABAIXO DO MÍNIMO LEGAL. INTELIGÊNCIA DO ENUNCIADO 231 DA SÚMULA DESTE STJ. PRESCRIÇÃO INOCORRENTE. PARECER DO MPF PELA DENEGAÇÃO DA ORDEM. ORDEM DENEGADA.
+    1. A ofensividade mínima no caso do crime de falsificação de moeda, que leva à aplicação da medida descrimininalizadora, não está diretamente ligada ao montante total contrafeito, mas sim à baixa qualidade do produto do crime, de sorte que seja incapaz de iludir o homem médio. Por sua vez, a idoneidade dos meios no crime de moeda falsa é relativa, razão pela qual não é necessário que a falsificação seja perfeita, bastando que apresente possibilidade de ser aceita como verdadeira.
+    2. Sedimentado o entendimento de que a contrafação era hábil a enganar terceiros, tanto no laudo pericial, quanto na sentença e no acórdão hostilizado, resta caracterizado o crime de moeda falsa, não incidindo o princípio da bagatela no caso, por trata-se de delito contra a fé pública.
+    3. É entendimento pacífico nesta Corte, tanto que consolidado no enunciado 231 de sua Súmula, que a incidência da circunstância atenuante não pode conduzir à redução da pena-base abaixo do mínimo legal.
+    4. Habeas Corpus denegado, em conformidade com o parecer ministerial.”
+    2. A Defensoria Pública da União sustenta a atipicidade da conduta implicada na condenação do paciente pelo delito de moeda falsa e requer o trancamento da ação penal.
+    3. A Procuradoria-Geral da República opinou pelo desprovimento do recurso ordinário em habeas corpus.
+    Decido.
+    4. O acórdão recorrido está alinhado com a orientação do Supremo Tribunal Federal no sentido de que não se aplica o princípio da insignificância a fatos caracterizadores do crime de moeda falsa. Confiram-se os seguintes precedentes: HC 108.193, Rel. Min. Luís Roberto Barroso; HC 105.638, Rel.ª Min.ª Rosa Weber; HC 105.829, Rel. Min. Dias Toffoli; e HC 111.266, Rel. Min. Ricardo Lewandowski, assim ementado:
+    “HABEAS CORPUS. PENAL. MOEDA FALSA. ART. 289, § 1º, DO CÓDIGO PENAL. PACIENTES QUE INTRODUZIRAM EM CIRCULAÇÃO DUAS NOTAS FALSAS DE CINQUENTA REAIS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE EM FUNÇÃO DO BEM JURÍDICO TUTELADO PELA NORMA, QUE, NO CASO, É A FÉ PÚBLICA, DE CARÁTER SUPRAINDIVIDUAL. REPRIMENDA QUE NÃO DESBORDOU OS LINDES DA PROPORCIONALIDADE E DA RAZOABILIDADE. PRECEDENTES. ORDEM DENEGADA. I - Mostra-se incabível, na espécie, a aplicação do princípio da insignificância, pois a fé pública a que o Título X da Parte Especial do CP se refere foi vulnerada. Precedentes. II – Em relação à credibilidade da moeda e do sistema financeiro, o tipo exige apenas que estes bens sejam colocados em risco para a imposição da reprimenda. III – Os limites da razoabilidade e da proporcionalidade na aplicação da pena foram observados pelo TRF da 1ª Região, que, além de fixar a reprimenda em seu patamar mínimo, substituiu a privação da liberdade pela restrição de direitos. IV – Habeas corpus denegado.”
+    5. Diante do exposto, inexistindo contrariedade à jurisprudência do Supremo Tribunal Federal, com base nos arts. 192 e 312 do RI/STF, nego provimento ao presente recurso ordinário.
+    Publique-se.
+    Intime-se.
+          Brasília, 08 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
