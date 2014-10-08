@@ -1,0 +1,8 @@
+DECISÃO
+APOSENTADORIA – TEMPO DE SERVIÇO – PECULIARIDADES – VIOLÊNCIA À CARTA DA REPÚBLICA NÃO CONFIGURADA – NEGATIVA DE SEGUIMENTO AO EXTRAORDINÁRIO.
+    1. Não se discute o direito de os servidores haverem averbado o tempo de serviço prestado sob o regime da CLT quando da adoção do Regime Jurídico Único. A matéria está pacificada na Corte. O inconformismo do INSS refere-se ao fato de que o Tribunal de origem placitou segurança concedida, assentando que o primeiro tempo de serviço deve ser considerado tal como veio a integrar o patrimônio dos servidores. Apreciou-se o tema sob o ângulo do direito adquirido – Decreto nº 53.831/64, que implicava considerar a atividade de professor como especial/insalubre, – e do que inserto pela Emenda Constitucional nº 18/81, a partir de quando restou proibida a respectiva conversão para o tempo comum. Quanto ao instituto do direito adquirido, evoca-o o recorrente na via inversa, sustentando não estar presente na espécie. As premissas do acórdão conduzem a conclusão diversa. À época em que prestavam serviço à Administração Pública sob o regime anterior, os professores tiveram o tempo respectivo integrado à ficha funcional, tal como previsto na legislação de regência. Em face da natureza da atividade desenvolvida, a averbação aos assentamentos funcionais ocorreu de modo especial, partindo-se para a ficção. Em síntese, foi considerado período que contou com disciplina específica, que não se mostrou ligado ao novo texto constitucional.
+    2. Ante o quadro acima, por não vislumbrar sequer ofensa à Carta da República, nego seguimento a este extraordinário.
+    3. Publiquem.
+Brasília, 8 de outubro de 2014.
+Ministro MARCO AURÉLIO
+Relator
