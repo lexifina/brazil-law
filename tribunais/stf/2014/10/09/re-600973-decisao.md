@@ -1,0 +1,26 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 334):
+    “DIREITO TRIBUTÁRIO. AGRAVO LEGAL EM APELAÇÃO CÍVEL. MERCADORIAS VENDIDAS PARA A ZONA FRANCA DE MANAUS. ISENÇÃO. REPETIÇÃO DO INDÉBITO. MODALIDADES. COMPENSAÇÃO SOMENTE APÓS O TRÂNSITO EM JULGADO. HONORÁRIOS.
+    1. O art. 4º do DL 288/67 e o art. 40 do ADCT preservam a Zona Franca de Manaus como área de livre comércio, estendendo às exportações destinadas a estabelecimentos situados naquela região os benefícios fiscais presentes nas exportações ao estrangeiro. Para efeitos fiscais, a venda de mercadorias destinadas à Zona Franca de Manaus equivale a uma exportação de produto brasileiro para o estrangeiro. Por este prisma, vem decidindo as Turmas de Direito Público do STJ que:"O conteúdo do art. 4º do Dec.lei 288/67, foi o de atribuir às operações da Zona Franca de Manaus, quanto a todos os tributos que direta ou indiretamente atingem exportações de mercadorias nacionais para essa região, regime igual ao que se aplica nos casos de exportações brasileiras para o exterior."
+    2. O art. 5º da Lei 7.714/88, com a redação dada pela Lei 9.004/95, e o art. 7º da Lei Complementar 70/91 autorizam a exclusão da base de cálculo do PIS e da COFINS, respectivamente, dos valores referentes às receitas provenientes de exportação de produtos nacionais para o estrangeiro.
+    3. Neste passo, havendo equiparação dos produtos destinados à Zona Franca de Manaus com os exportados para o exterior, conclui-se que a isenção relativa à COFINS e ao PIS é extensiva à mercadoria destinada à Zona Franca. Precedentes do STJ.
+    4. A restituição do indébito tributário pode se dar pela via do precatório ou da compensação, podendo o contribuinte, na fase de execução de sentença, optar pela que lhe for mais favorável, de acordo com o que preceitua o § 2º do art. 66 da Lei nº 8.383/91.
+    5. Após a introdução do art. 170-A no CTN, pela Lei Complementar nº 104, de 11 de janeiro de 2001, a compensação somente pode ser operacionalizada após o trânsito em julgado da decisão que reconheceu este direito.
+    6. Honorários advocatícios majorados para 10% sobre o valor da condenação, de acordo com assente entendimento desta Turma.
+    7. Violação aos artigos 150, § 6º da CF/88 e 111, do CTN não configurada.
+    8. Agravo legal improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, § 6º, da Carta, bem como ao art. 40, do Ato das Disposições Constitucionais Transitórias. Sustenta, em síntese, que não existe norma legal expressa isentando as receitas decorrentes de operações com a Zona Franca de Manaus em relação ao Pis e à Cofins, tampouco deferindo o crédito presumido de IPI como incentivo às exportações.
+    A pretensão não merece acolhida. A jurisprudência do Supremo está assentada no sentido de que as discussões relacionadas às isenções de produtos destinados à Zona Franca de Manaus envolvem a análise de legislação infraconstitucional, conforme pode ser observado nas ementas a seguir:
+    “Agravo regimental no recurso extraordinário. PIS e COFINS. Produtos destinados à Zona Franca de Manaus. DL n.º 288/67. Natureza infraconstitucional da controvérsia. Ofensa reflexa. Discussão sob o enfoque do art. 40, parágrafo único, do ADCT. Entendimento do STF na ADI 2.348-MC. MP nº 2.037-24/00. Suspensão da eficácia.
+    1. As discussões relativas à isenção concedida na venda de produtos destinados à Zona Franca de Manaus, à luz do Decreto-lei nº 288/97, ensejam reinterpretação de normas infraconstitucionais, sendo que a suposta afronta à Constituição, se ocorresse, seria indireta. Precedentes.
+    2. O Supremo Tribunal Federal, no julgamento da ADI 2.348-MC, Relator o Ministro Marco Aurélio, DJ de 7/11/03, apreciando a questão, afastou a eficácia de dispositivos da MP nº 2.037-24/2000, à luz do art. 40 do ADCT, no intuito de preservar a imunidade tributária constitucionalmente deferida à Zona Franca de Manaus. Precedentes.
+    3. Agravo regimental não provido.” (RE 568.417-AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO.  PIS  E COFINS. ISENÇÃO. RECEITAS ORIUNDAS DAS VENDAS DE MERCADORAIS PARA A ZONA FRANCA DE MANAUS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES DA CORTE. RECURSO DESPROVIDO.
+    1. A isenção de PIS e COFINS nas receitas oriundas das vendas de mercadorias para a Zona Franca de Manaus é matéria que impõe ao E. STF o exame da legislação infraconstitucional. Por isso que eventual ofensa à Constituição somente ocorreria de forma indireta, circunstância que inviabiliza a admissão do recurso extraordinário.
+    2. Precedentes no mesmo sentido: RE n. 539590-AgR, Relatora a Ministra Ellen Gracie, DJ de 26.4.2011; RE n. 456336-AgR, Relator o Ministro Celso de Mello, DJ de 8.11.2010, inter plures.
+    3. Agravo regimental desprovido.” (RE 612.537-AgR, Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 577, caput, do CPC e no art. 21, §1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 09 de outubro de 2014.
+Ministro Luís Roberto Barroso
+                            Relator
