@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Mkj Importação e Comércio Ltda (Incorporadora de Lzk Importadora de Comércio Ltda). Aparelhado o recurso na afronta aos arts. 5º, caput, 145, § 1º, e 150, II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Na esteira da jurisprudência do Supremo Tribunal Federal é vedado ao Poder Judiciário, sob pretexto de atenção ao princípio da isonomia, atuar como legislador positivo estabelecendo isenções tributárias não previstas em lei, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “COFINS – PIS – EXCLUSÕES E DEDUÇÕES DA BASE DE CÁLCULO – ARTIGO 3º, § 6º, DA LEI Nº 9.718, DE 1998 – PEDIDO DE EXTENSÃO POR VIA JUDICIAL A SEGMENTOS EMPRESARIAIS NÃO CONTEMPLADOS – PRINCÍPIO DA ISONOMIA – IMPOSSIBILIDADE – É defeso ao Poder Judiciário estender sistemática de deduções e exclusões da base de cálculo de tributos a contribuintes não contemplados na lei de regência, sob pena de invasão de seara reservada ao Poder Legislativo.” (RE 626.814-AgR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 02.4.2014)
+    “Embargos de declaração no recurso extraordinário. Embargos de declaração convertidos em agravo regimental. PIS. COFINS. Lei nº 9.718/98, art. 3º, § 6º. Isonomia. Agravo regimental não provido. 1. O Tribunal entendeu que, se estendesse a inteligência do art. 3º, § 6º, da Lei nº 9.718/98 a quem não foi contemplado pelo legislador, se converteria em legislador positivo. 2. Agravo regimental ao qual se nega provimento.” (RE 416.353-ED, Rel. Min. Dias Toffoli, 1ª Turma, DJe 1º.02.2012)
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA. LEGISLAÇÃO QUE ESTABELECE LIMITES À DEDUÇÃO DE GASTOS COM EDUCAÇÃO. CONSTITUCIONALIDADE. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO ATUAR COMO LEGISLADOR POSITIVO. PRECEDENTES. 1. A jurisprudência do STF é no sentido de que não pode o Poder Judiciário estabelecer isenções tributárias, redução de impostos ou deduções não previstas em lei, ante a impossibilidade de atuar como legislador positivo. 2. Assim, não é possível ampliar os limites estabelecidos em lei para a dedução, da base de cálculo do IRPF, de gastos com educação (AI 724.817-AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe de 09-03-2012; e RE 603.060-AgR, rel. Min. Cármen Lúcia, Primeira Turma, DJe de 03-03-2011). 3. Agravo regimental a que se nega provimento.” (RE 606.179-AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 04.06.2013)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 09 de outubro de 2014.
+Ministra Rosa Weber
+Relatora
