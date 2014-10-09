@@ -1,0 +1,5 @@
+Solução de Consulta Coana nº 46, de 30 de setembro de 2014
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 6909.12.90 Mercadoria: Esferas de cerâmica técnica (alumina sinterizada) de 30, 40 e 50 mm de diâmetro, compostas por pelo menos 92% de óxido de alumínio (Al2O3) e no máximo 7% de dióxido de silício (SiO2), entre outros, e com dureza equivalente a 9, na escala de Mohs, próprias para serem utilizadas em máquinas para moer matérias sólidas (moinhos de bola), principalmente cerâmicas e minerais.
+DISPOSITIVOS LEGAIS: RGI-1 (textos da Nota 1 b) do Capítulo 84 e da posição 69.09) e RGI-6 (texto das subposições 6909.1 e 6909.12), RGC-1 (texto do item 6909.12.90) constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, com alterações posteriores, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com atualizações posteriores.
+[arquivo anexo: SC Coana nº 46-2014.pdf]
