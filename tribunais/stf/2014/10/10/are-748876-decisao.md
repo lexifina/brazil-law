@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. GRATIFICAÇÃO POR TEMPO DE SERVIÇO – GTS. EXTINÇÃO. LEI Nº 10.426/1990. LEIS COMPLEMENTARES ESTADUAIS NºS 32/2001 E 169/2011. EMENDA CONSTITUCIONAL ESTADUAL Nº 16/1999. IRREDUTIBILIDADE DE VENCIMENTOS. REPERCUSSÃO GERAL RECONHECIDA PELO PLENO NOS AUTOS DO RE Nº 563.965/RG-RN.
+1. O regime jurídico pertinente à composição dos vencimentos nas hipóteses em que a eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração e, em consequência, não provoque decesso de caráter pecuniário, não viola o direito adquirido, nos termos da jurisprudência firmada pelo Plenário desta Corte no julgamento do RE 563.965-RG, Rel. Ministra Cármen Lúcia, DJe 19/3/2009.
+2. In casu, o acórdão recorrido assentou: “RECURSO DE AGRAVO, DIREITO ADMINISTRATIVO. POLICIAL MILITAR. GRATIFICAÇÃO TEMPO DE SERVIÇO (QUINQUENIOS). EXTINÇÃO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO DESDE QUE NÃO HAJA DECESSO REMUNERATÓRIO. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO. DECISÃO UNÂNIME".
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por Incio Jesuino Silva da Costa, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu o recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão da Primeira Câmara de Direito Público do Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+    “RECURSO DE AGRAVO, DIREITO ADMINISTRATIVO. POLICIAL MILITAR. GRATIFICAÇÃO TEMPO DE SERVIÇO (QUINQUENIOS). EXTINÇÃO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO DESDE QUE NÃO HAJA DECESSO REMUNERATÓRIO. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO. DECISÃO UNÂNIME.
+    1. A Emenda Constitucional Estadual nº 16/99 alterou a Carta Magna do Estado para adaptá-la aos novos dispositivos da CF, passando a vigorar norma que proíbe a concessão de adicional de tempo de serviço.
+    2. Assim, com a extinção dos quinquênios, só são devidos aqueles completas até a edição da Emenda Constitucional 16/99, ou seja, até 04 de junho de 1999.
+    3. Ademais, com a edição da Lei Complementar Estadual nº 32/2001, os valores percebidos pelos militares como qualquer acréscimo pecuniário foram transformados em valor nominal, desvinculados do soldo.
+    4. Ao incorporar o valor nominal do adicional por tempo de serviço (quinquênio) ao soldo, o Estado não promoveu qualquer decesso remuneratório nos proventos dos militares, pois passou o soldo a ter valor maior quando somado ao adicional em tela. O que ocorreu, na verdade, foi uma alteração da forma da composição salarial dos militares.
+    5. O entendimento pacífico dos Tribunais Superiores, entretanto, é o de que não há direito adquirido a regime de composição salarial por parte dos servidores públicos, desde que respeitado o quantum remuneratório.
+    6. O agravante não comprova, nos presentes autos, que houve decesso na sua remuneração após a extinção dos quinquênios.
+    7. Recurso a que se nega provimento. Decisão unânime".
+    O agravante, nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao artigo 37, caput e XV, da Constituição Federal e ao princípio da isonomia.
+    O Tribunal de Justiça do Estado de Pernambuco negou seguimento ao recurso extraordinário aos fundamentos de que incide no caso a Súmula 280/STF e de que não houve fundamentação suficiente da preliminar de repercussão geral apresentada.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A jurisprudência do Supremo Tribunal Federal se pacificou no sentido de que, uma vez respeitada a irredutibilidade dos vencimentos, não existe direito adquirido a regime jurídico. Esse entendimento foi reafirmado pelo Plenário no julgamento de mérito do RE 563.965-RG, da relatoria da Ministra Cármen Lúcia, DJe de 20/3/2009, Tema nº 41 da Gestão por Temas da Repercussão Geral. O acórdão desse julgado restou assim ementado:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE. 1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico. 2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, conseqüentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração. 3. Recurso extraordinário ao qual se nega provimento”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 10 de outubro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
