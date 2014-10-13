@@ -1,0 +1,16 @@
+Decisão:
+Ementa: Habeas corpus impetrado contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. Dupla supressão de instância. Descabimento. Habeas corpus não conhecido.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 302.988, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que as pacientes, presas em flagrante delito no dia 15.05.14, foram denunciadas pelos crimes de tráfico e associação para o tráfico de entorpecentes (arts. 33, caput, e 35 da Lei 11.343/06). A prisão em flagrante foi convertida em prisão preventiva.
+    3.  A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a medida cautelar, sobreveio nova impetração no Superior Tribunal de Justiça, indeferida liminarmente.
+    4. Neste writ, sustenta-se a ocorrência de excesso de prazo na instrução criminal, tendo em vista que, apesar da custódia cautelar determinada pelo Juízo de origem, a audiência de instrução e julgamento foi designada apenas para 04.03.15. Requer-se, assim, a imediata expedição de alvará de soltura e a substituição da prisão por outra medida cautelar.
+    Decido.
+    5. Inicialmente observo que, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    6. Ademais, o Tribunal de Justiça de São Paulo e o Superior Tribunal de Justiça não se pronunciaram sobre o mérito da pretensão do impetrante, de modo que considero inviável proceder-se a uma dupla supressão de instância, notadamente se se observar que os documentos aportados aos autos não evidenciam a caracterização de desídia do Juízo na tramitação da ação penal.
+    7. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 c/c o art. 21, §1º, do RI/STF, não conheço da impetração.
+    Publique-se.
+          Brasília, 13 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
