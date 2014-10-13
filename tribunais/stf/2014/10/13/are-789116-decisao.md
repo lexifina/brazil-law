@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO INTERNO NA APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. DIREITO DO CONSUMIDOR. CONSTRUTORA QUE NOTIFICA OS PROMITENTES COMPRADORES ACERCA DO DESFAZIMENTO DO EMPREENDIMENTO IMOBILIÁRIO RESERVA SANTA CECÍLIA EM VOLTA REDONDA. DISTRATO FIRMADO PELAS PARTES QUE PREVÊ A DEVOLUÇÃO DO VALOR PAGO SEM ATUALIZAÇÃO E CORREÇÃO MONETÁRIA. ABUSIVIDADE. NULIDADE DE PLENO DIREITO. REPETIÇÃO QUE DEVE SER PLENA, PENA DE ENRIQUECIMENTO SEM CAUSA. APELO PROVIDO EM PARTE NA FORMA DO ARTIGO 557, §1º-A DO CPC. INSURGÊNCIA DA CONSTRUTORA. ALEGAÇÃO DE VIOLAÇÃO AO ATO JURÍDICO PERFEITO E JULGAMENTO EXTRA PETITA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA. RECURSO A QUE SE NEGA PROVIMENTO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que, “na hipótese em concreto, para dar pela suposta vulneração de mandamento constitucional, mister se faz, por primeiro, verificar da negativa de vigência de norma infraconstitucional. E, em casos tais, é esta última que conta, para os efeitos do art. 102, III, a, da Constituição da República”.
+    O recurso extraordinário é inadmissível. Com efeito, a questão atinente ao art. 5º, XXXVI, da Constituição só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. No presente recurso, a parte recorrente não cogita de retroação de lei superveniente, somente postula uma nova apreciação das cláusulas constantes do distrato celebrado entre as partes, o que impossibilita a abertura da via extraordinária. Nessas condições, a hipótese atrai a incidência da Súmula 454/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 13 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
