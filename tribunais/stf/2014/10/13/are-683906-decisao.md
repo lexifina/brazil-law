@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 153, § 3º, II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 708.107-ED, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 31.5.2013; e RE 573.217-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 20.3.2013, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. IPI. NÃO-CUMULATIVIDADE. APROVEITAMENTO DE CRÉDITOS GERADOS COM AQUISIÇÃO DE ENERGIA ELÉTRICA. IMPOSSIBILIDADE. 1. A energia elétrica não pode ser considerada como insumo e não gera direito à crédito a ser compensado com o montante devido a título de IPI na operação de saída do produto industrializado. Precedentes: RE nº 353657, Relator o Ministro Marco Aurélio, Plenário, Dje de 7.3.2008; AI nº 753227-AgR, Relatora a Ministra Cármen Lúcia, Segunda Turma, Dje 195 de 04.10.2012; RE nº 561676-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJE 145 de 06.08.2010, entre outros. 2. In casu, o acórdão recorrido decidiu, verbis: “TRIBUTÁRIO. IPI. ENERGIA ELÉTRICA. CREDITAMENTO. IMPOSSIBILIDADE. Não representa a energia elétrica insumo ou matéria-prima propriamente dito, que se insere no processo de transformação do qual resultará a mercadoria industrializada. Sendo assim, incabível aceitar que a eletricidade faça parte do sistema de crédito escritural derivado de insumos desonerados, referentes a produtos onerados na saída, vez que produto industrializado é aquele que passa por um processo de transformação, modificação, composição, agregação ou agrupamento de componentes de modo que resulte diverso dos produtos que inicialmente foram empregados neste processo”. 3. Agravo regimental a que se nega provimento”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de outubro de 2014.
+Ministra Rosa Weber
+Relatora
