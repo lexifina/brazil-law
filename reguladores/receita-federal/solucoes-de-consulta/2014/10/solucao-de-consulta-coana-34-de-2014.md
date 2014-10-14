@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 34, de 18 de setembro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 9504.50.00 “Ex” 01 da Tipi Mercadoria: Acessórios para consoles de videogame, em formato de armas de fogo, de plástico, nos quais os controladores de movimento (que não os acompanham) são encaixados, para uso em jogos de simulação de guerra ou de tiro. DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 3 do Capítulo 95 e da posição 95.04), RGI 6 (textos da Nota 3 do Capítulo 95 e da subposição 9504.50.00) da TEC, aprovada pela Resolução Camex nº 94/2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e RGC/Tipi-1 (texto do “Ex” 01) da Tipi.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 9504.50.00 “Ex” 01 da Tipi Mercadoria: Acessórios para consoles de videogame, em formato de armas de fogo, de plástico, nos quais os controladores de movimento (que não os acompanham) são encaixados, para uso em jogos de simulação de guerra ou de tiro.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 3 do Capítulo 95 e da posição 95.04), RGI 6 (textos da Nota 3 do Capítulo 95 e da subposição 9504.50.00) da TEC, aprovada pela Resolução Camex nº 94/2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e RGC/Tipi-1 (texto do “Ex” 01) da Tipi.
+MARCO ANTÔNIO RODRIGUES CASADO Presidente da 5ª Turma
