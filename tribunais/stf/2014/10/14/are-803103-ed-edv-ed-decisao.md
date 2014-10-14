@@ -1,0 +1,47 @@
+Decisão:
+    Vistos.
+    João Luiz Borges opõe embargos declaratórios em face da decisão em que não conheci dos embargos de divergência, com a seguinte fundamentação, na parte que interessa:
+    “ O recurso não deve ser conhecido, pois, conforme prescreve o art. 330, caput, do Regimento Interno da Corte, cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+    Logo, os embargos de divergência são cabíveis quando manejados contra decisão individual do relator. Nesse, sentido:
+    ‘Agravo regimental em embargos de divergência liminarmente rejeitados. Insurgência deduzida contra decisão monocrática do relator. Impossibilidade, nos termos do art. 330 do Regimento Interno desta Corte.
+    1. A decisão ora atacada reflete a pacífica jurisprudência desta Corte a respeito do não cabimento de embargos de divergência em face de decisão monocrática.
+    2. Inteligência do art. 330 do Regimento Interno do Supremo Tribunal Federal.
+    3. Agravo regimental não provido, com aplicação da multa prevista no art. 557, § 2º, do Código de Processo Civil’ (RE 432.918-EDv-AgR/SP, de minha relatoria, Tribunal Pleno, DJe de 1º/7/11);
+    (...)
+    No que tange o pedido de reconhecimento da prescrição, anoto, de início, que o tema em direito penal é considerado matéria de ordem pública, podendo, por isso, ser arguida e reconhecida a qualquer tempo (CPP, art. 61), independentemente, inclusive, de prequestionamento. Entretanto, no caso dos autos, ela não se operou, seja na modalidade retroativa ou intercorrente.
+    Com efeito, a pena de três (3) anos de reclusão aplicada ao recorrente pelo delito de receptação qualificada (CP, art. 180, § 1º) - substituía por penas restritivas de direitos -, prescreve em oito (8) anos (CP, art. 109, inciso IV e parágrafo único), não alcançado entre os marcos interruptivos (CP, art. 117) previstos, quais sejam: a) data dos fatos (6/8/01); b) recebimento da denúncia (23/5/05); e c) sentença penal condenatória recorrível publicada em cartório (13/12/12).
+    Ante o quadro, não conheço dos embargos de divergência e indefiro o requerimento de fls. 420 a 422” (fls. 426 a 428 – grifos do original).
+    Reitera o embargante, basicamente, a ocorrência da consumação da prescrição da pretensão punitiva, argumentando, para tanto, que, “[c]onforme se verifica pelas datas (...) e até a presente data não transitou em julgado a sentença, operou-se a prescrição, pois já fazem mais de 13 anos dos fatos e mais de 09 anos da denúncia” (fl. 433).
+    Examinados os autos, decido.
+    Os embargos não devem ser conhecidos, pois é assente o entendimento da Corte quanto ao seu não cabimento quando opostos contra decisão monocrática. Confiram-se os seguintes julgados: RMS nº 27.382/DF, Primeira Turma, DJe de 6/11/13 e MI nº 877/DF-ED, Tribunal Pleno, DJe de 23/10/13, ambos de minha relatoria; ARE nº 684.532/SP-ED, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 4/9/13; ARE nº 750.388/SP-ED, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 1º/7/13.
+    Embora inadmissíveis, não se pode renegar a reiterada jurisprudência deste Supremo Tribunal a respeito da sua conversão em agravo regimental, tendo em vista o princípio da fungibilidade recursal.
+    A esse respeito colaciono julgados do Tribunal Pleno:
+    “Embargos de declaração na revisão criminal. Não cabimento contra decisão monocrática. Conversão dos embargos declaratórios em agravo regimental. Matéria criminal. Repetição dos mesmos fundamentos deduzidos em ação anterior. Inadmissibilidade. Recurso não provido.
+    1. Embargos de declaração recebidos como agravo regimental.
+    2. A jurisprudência do Supremo Tribunal é firme no sentido do não cabimento de embargos de declaração opostos contra decisão monocrática.
+    3. O Supremo Tribunal Federal não admite a repetição de pedido anterior com as mesmas razões e os mesmos fundamentos desse, sem nenhuma inovação. Precedentes.
+    4. Agravo regimental não provido” (RvC nº 5.428/PE-ED, de minha relatoria, DJe de 28/6/13);
+    “Embargos de declaração nos embargos de divergência no agravo regimental nos embargos de declaração no agravo de instrumento. Matéria criminal. Recurso oposto contra decisão monocrática. Não cabimento. Conversão em agravo regimental. Possibilidade. Precedentes. Embargos de divergência opostos sem assinatura de advogado subscritor. Recurso inexistente. Precedentes. Caráter protelatório do recurso. Baixa imediata dos autos ao juízo de origem. Precedentes.
+    1. Os embargos de declaração opostos contra decisão monocrática, embora não admissíveis, podem ser convertidos em agravo regimental, na esteira da uníssona jurisprudência desta Suprema Corte.
+    2. Na espécie, conforme assentado na decisão atacada, a petição de embargos de divergência encontra-se sem a assinatura do advogado subscritor da peça, o que torna inexistente o recurso.
+    3. Pretensão de um novo julgamento do feito - que foi legitimamente decidido segundo a pacífica jurisprudência desta Corte - evidenciada a partir da interposição de sucessivos recursos manifestamente infundados.
+    4. É firme a jurisprudência da Corte no sentido de que, quando animados de intuito meramente protelatório, embargos de declaração devem ser rejeitados, com determinação de cumprimento imediato da decisão cuja eficácia esteja suspensa, independentemente do seu trânsito em julgado (Ext nº 928/PT-ED-ED, Tribunal Pleno, Relator o Ministro Cezar Peluso, DJe de 14/9/07).
+    5. Agravo regimental não provido.
+    6. Baixa imediata dos autos ao Juízo de origem, independentemente da publicação do acórdão, tendo em vista o caráter manifestamente protelatório dos recursos” (AI nº 458.072/CE-EDAgREDV-ED, de minha relatoria, DJe de 27/2/13);
+    “EMBARGOS DE DECLARAÇÃO CONVERTIDOS EM AGRAVO REGIMENTAL. RECLAMAÇÃO. COMPETÊNCIA DA JUSTIÇA COMUM. ADI 3.395-MC. Conversão em agravo regimental dos embargos de declaração opostos contra decisão monocrática. Alegação de que eventuais decisões proferidas pela Justiça do Trabalho teriam transitado em julgado antes que fosse suspenso o andamento das ações trabalhistas. Não-comprovação. Competência da Justiça Comum para julgar ações contra o poder público municipal. Agravo regimental a que se nega provimento” (Rcl nº 10.292/MA-ED, Relator o Ministro Joaquim Barbosa, DJe de 4/6/12).
+    No mesmo sentido, ressalto julgados de ambas as Turmas: ARE nº 720.862/RJ-ED, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 21/10/13; e ARE nº 754.291/RS-ED, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 17/9/13.
+    Entretanto, esse não é o caso dos autos, uma vez que a inicial dos embargos apresentados não preenche um dos pressupostos necessários à análise do agravo regimental, qual seja a impugnação de todos os fundamentos da decisão que se pretende infirmar.
+    Em casos assim, a jurisprudência desta Suprema Corte é firme no sentido de que a parte deve impugnar, na petição de agravo regimental, todos os fundamentos da decisão agravada. Nesse sentido, confiram-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Inviável o agravo regimental no qual não são impugnados todos os fundamentos da decisão agravada. Precedentes” (RE nº 563.881/RN-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/2/08);
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FUNDAMENTOS INATACADOS. 1. A agravante não impugnou os fundamentos da decisão agravada. Incidência do artigo 317, § 1º, do RISTF. 2. Agravo regimental a que se nega provimento” (AI nº 664.174/SC-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 1º/2/08);
+    “Embargos de declaração em recurso extraordinário. 2. Decisão monocrática do relator. Embargos de declaração recebidos como agravo regimental. 3. Recurso que não ataca o fundamento da decisão agravada. Aplicação do art. 317, § 1º, do RISTF. Precedentes. 4. Agravo regimental a que se nega provimento” (RE nº 490.720/MS-ED, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 1º/2/08).
+    Anote-se que a Segunda Turma ao julgar, em 6/11/13, o ARE nº 754.956/SP-ED, Relator o Ministro Ricardo Lewandowski, assentou, pelas mesmas circunstâncias, a impossibilidade de conversão dos embargos e dele não conheceu.
+    Note-se, ademais, que o embargante interpõe sucessivos recursos manifestamente incabíveis, sendo certo que os presentes embargos declaratórios foram opostos em face de embargos de divergência, nos embargos de declaração, no recurso extraordinário com agravo.
+    Com feito, interposição pelo ora embargante de sucessivos recursos infundados revelam a sua intenção protelatória e esse comportamento recalcitrante pode vir a configurar litigância de má-fé.
+    Esta Suprema Corte tem admitido a imposição ao recorrente de pagamento de multa sobre o valor atualizado da condenação, tendo em vista e interposição de sucessivos recursos manifestamente protelatórios, a configurar a litigância de má-fé (art. 18 do Código de Processo Civil) (RE nº 465.383/ES-AgR-AgR-EDV-ED, Tribunal Pleno, de minha relatoria, DJe de 7/6/11).
+    Ante o exposto, não conheço dos embargos de declaração.
+    Publique-se.
+    Brasília, 14 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
