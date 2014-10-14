@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da Subseção I Especializada em Dissídios Individuais (SBDI-1) do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO EM EMBARGOS EM RECURSO DE REVISTA DA RECLAMADA – AUSÊNCIA DE DEMONSTRAÇÃO DE DESACERTO DO DESPACHO AGRAVADO.
+    1. A decisão ora agravada deu provimento aos embargos em recurso de revista da Reclamante quanto aos minutos residuais, com fulcro na Súmula 366 do TST.
+    2. O agravo não trouxe nenhum argumento capaz de infirmar a conclusão a que se chegou no despacho hostilizado, razão pela qual não há de se falar em reconsideração, merecendo ser mantido, pois proferido em consonância com o disposto nos arts. 896, § 5º, da CLT e 557, ‘caput’, do CPC.
+    Agravo desprovido.
+    EMBARGOS DE DECLARAÇÃO – ACOLHIMENTO PARA SANAR OMISSÃO, SEM IMPRIMIR EFEITO MODIFICATIVO.
+    1. A Reclamante opõe os presentes embargos declaratórios, sustentando, em síntese, que o acórdão embargado, ao dar provimento ao seu recurso de revista quanto ao tema horas extras correspondentes aos minutos que antecediam e sucediam a jornada de trabalho, à luz da Súmula 366 do TST, foi omisso em relação ao pedido de reflexos legais decorrentes do deferimento da aludida parcela.
+    2. De fato, não havendo menção na parte dispositiva do acórdão acerca do deferimento dos reflexos, a decisão embargada merece ser complementada de modo que conste na parte dispositiva o deferimento dos reflexos das horas extras.
+    Embargos declaratórios acolhidos, para sanar omissão.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega “violação literal aos artigos 44, 48, 49, XI, 96 e seguintes e artigo 103, § 1º, todos da Constituição Federal”. Afirma que ocorreu violação ao art. 5º, II, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “a assertiva acerca do pagamento, como extra, dos minutos residuais na forma da Súmula 366 do TST, ante a prova dos autos que constata tratar-se de tempo colocado à disposição do empregador, a discussão foge à especial cognição do Supremo Tribunal federal, a teor da Súmula 279 do STF”; (ii) “a controvérsia não extrapola o âmbito da legislação infraconstitucional, na medida em que foi dirimida sob o enfoque da lei ordinária, (art. 4º, da CLT) e interpretação jurisprudencial (Súmula 366/TST)”; (iii) “a pretensa vulneração dos artigos 5º, incisos II e LIV, 44, 48,49, XI e 96, da Constituição Federal não o terá sido de forma literal e direta, mas quando muito por via reflexa”; (iv) “a Suprema Corte já reconheceu que não se materializa ofensa ao princípio constante do inciso II do art. 5º do Texto Constitucional, na conformidade Súmula nº 636 do STF”.
+    O recurso extraordinário é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a interpretação da legislação infraconstitucional pertinente, uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), bem como a análise das cláusulas contratuais (Súmula 454/STF), procedimentos inviáveis em recurso extraordinário. Nessa linha, vejam-se o ARE 737.549, Rel. Min. Luiz Fux; o ARE 744.106, Rel. Min. Gilmar Mendes; o ARE 684.584, Rel. Min. Joaquim Barbosa; e o ARE 679.591, Rel.ª Min.ª Cármen Lúcia.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 14 de outubro de 2014.
+      Ministro Luís Roberto Barroso
+Relator
