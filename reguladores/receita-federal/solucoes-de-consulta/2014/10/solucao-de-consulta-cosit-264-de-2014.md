@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 264, de 26 de setembro de 2014
+ASSUNTO: Imposto sobre a Renda Retido na Fonte – IRRF EMENTA: COMISSÃO PAGA A AGENTE NO EXTERIOR. ALÍQUOTA ZERO. EXPORTAÇÃO DE BENS. A redução a zero da alíquota do imposto de renda incidente na fonte de que trata o inciso II do art. 1º da Lei nº 9.481, de 1997, aplica-se somente às comissões pagas por exportadores de bens a seus agentes no exterior. DISPOSITIVOS LEGAIS: Lei nº 9.481, art. 1º, inciso II e parágrafo único; Decreto nº 6.761, de 2009, arts. 1º, inciso III, e 2º, § 3º; Portaria Secex nº 23, de 2011, art. 217, parágrafo único.
+[arquivo anexo: SC Cosit nº 264-2014.pdf]
