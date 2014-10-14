@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CRIMINAL – LESÃO CORPORAL DE NATUREZA GRAVE – MATERIALIDADE E AUTORIA COMPROVADAS – PROVA ORAL ROBUSTA – LEGÍTIMA DEFESA – INOCORRÊNCIA – PENAS BEM DOSADAS – “SURSIS” – REDUÇÃO DO PERÍODO DE PROVA.
+    - Os relatos coerentes da vítima, apoiados pelos dizeres do próprio acusado, são suficientes para comprovar a autoria do delito de lesões corporais.
+    - Para que o réu seja absolvido, com base na legítima defesa, é necessário que a prova seja perfeitamente convincente de que o acusado, usando moderadamente dos meios necessários, repeliu injusta agressão, atual ou iminente, a direito seu ou de outrem, causada pela vítima.
+    - Se o magistrado não expôs as razões que o levaram a estabelecer o prazo da suspensão condicional da pena acima do mínimo, o Tribunal deve reduzir o período de prova, de modo a garantir que o condenado não sofra qualquer prejuízo.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 5º, LVII, e 93, IX, da Constituição. Aduz que “o Ministério Público é que tem que provar os fatos narrados na denúncia (no caso dos autos, o intuito da traficância) e não a Defesa provar a inocência”.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que incide, no caso, a Súmula 279/STF.
+    O agravo é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, necessária seria a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF.
+    Quanto à alegada ofensa ao art. 93, IX, da Constituição Federal, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se o AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes, assim ementado:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
