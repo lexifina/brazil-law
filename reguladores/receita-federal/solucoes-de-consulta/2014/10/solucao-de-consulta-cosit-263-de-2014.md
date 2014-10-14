@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 263, de 26 de setembro de 2014
+ASSUNTO: Simples Nacional EMENTA: Simples Nacional. Promoção de eventos. Despesas. Os valores pagos em decorrência de serviços prestados por terceiros, compras de mercadorias e aluguéis não podem ser deduzidos da receita bruta, para fins de incidência das alíquotas relativas ao Simples Nacional. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, com alterações, arts. 3º, § 1º, e 18; Resolução Comitê Gestor do Simples Nacional (CGSN) nº 94, de 2011, com alterações, arts. 16 e 25, III, IV e V.
+[arquivo anexo: SC Cosit nº 263-2014.pdf]
