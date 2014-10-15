@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Piauí, assim ementado (fls. 87):
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROFESSOR. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS PREVISTAS NO EDITAL. EXPECTATIVA DE DIREITO À NOMEAÇÃO. POSTERIOR CONTRATAÇÃO TEMPORÁRIA POR MEIO DE TESTE SELETIVO NO PRAZO DE VALIDADE DO CONCURSO. DIREITO LÍQUIDO E CERTO À NOMEAÇÃO. OBSERVÂNCIA DA ORDEM DE CLASSIFICAÇÃO DO CERTAME.
+    1. Na esteira do entendimento do Superior Tribunal de Justiça, a mera expectativa se convola em direito líquido e certo a partir do momento em que, dentro do prazo de validade do concurso, há contratação de pessoal, de forma precária, para o preenchimento de vagas existentes, em flagrante preterição àqueles que, aprovados em certame ainda válido, estariam aptos a ocupar o mesmo cargo ou função. In casu, há comprovação nos autos de que, durante o prazo de validade, foram realizadas as contratações temporárias noticiadas nos autos, sendo de todo despiciendo aferir a ocorrência ou não da prorrogação do prazo de validade do concurso.
+    2. No caso dos autos, todavia, não se trata de atividade eventual, tampouco está comprovado nos autos o excepcional interesse público de modo a justificar a abertura de processo seletivo simplificado. Os professores, como cediço, executam atividade essencial e, portanto, permanente do Estado.
+    3. O candidato aprovado em concurso público não pode ter sua nomeação preterida em razão da contratação temporária de pessoal, dentro do prazo de validade do concurso.
+    4. Precedentes do STF e TJPI.
+    5. Segurança concedida, observada a ordem de classificação.”
+     O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, caput; 37, caput, I, II, IV e IX; 61, § 1º; 84; e 167, I, II, III e IV, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que incide, no caso, a Súmula 284/STF.
+    O recurso não pode ser provido. Isso porque a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência desta Corte.
+    O Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da matéria no RE 598.099-RG, julgado sob a relatoria do Ministro Gilmar Mendes, entendeu que, em regra, apenas o candidato aprovado dentro das vagas previstas no edital de concurso público tem direito líquido e certo à nomeação. Por outro lado, o exercício precário, por meio de provimento de cargo em comissão ou celebração de contrato de terceirização, de atribuições próprias do servidor de cargo efetivo para o qual há vagas e concurso público vigente configuraria preterição dos candidatos aprovados, ainda que em número excedente às vagas inicialmente previstas no edital. Caso comprovado que o número de contratações precárias alcançou a posição ocupada pelo candidato quando da aprovação no respectivo certame, ficaria caracterizada a preterição e garantido o direito subjetivo à nomeação.
+    No caso, o Tribunal de origem assentou que houve preterição do candidato aprovado. Veja-se (fls. 93):
+    “Extrai-se dos autos que o impetrante concorreu a uma vaga para o cargo de professor classe SL do concurso público da Secretaria de Educação e Cultura do Estado do Piauí, no qual foi classificado na 7ª (sétima) colocação para o Município de Pedro II, além do número de vagas previstas no edital. A referida concorrência previa a nomeação imediata dos 4 (quatro) primeiros candidatos ranqueados.
+    Ocorre que durante o prazo de validade do concurso a Administração Pública procedeu à realização de teste seletivo, Edital n. 01/2010, e contratações temporárias de outros candidatos para o mesmo cargo no qual o impetrante obteve classificação.
+    Tal fato, a meu sentir, revela flagrante preterição àqueles que, aprovados em certame ainda válido, estariam aptos a ocupar o mesmo cargo ou função.”
+    Com efeito, dissentir dessa conclusão demandaria uma nova análise dos fatos e do material probatório constante dos autos, o que atrai a incidência da Súmula 279/STF:
+    “Para simples reexame de prova não cabe recurso extraordinário”.
+    Ademais, não afronta o princípio da separação dos Poderes o controle exercido pelo Poder Judiciário sobre atos administrativos tidos por abusivos ou ilegais. Nesse sentido, veja-se a ementa do RE 733.110-AgR, julgado sob relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Administrativo. Concurso público. Ato administrativo ilegal. Controle judicial. Possibilidade. Candidata aprovada dentro do número de vagas previstas no edital. Direito à nomeação. Análise de cláusulas de edital. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Não viola o princípio da separação dos poderes o controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos.
+    2. O Plenário da Corte, ao apreciar o mérito do RE nº 598.099/MS-RG, Relator o Ministro Gilmar Mendes, concluiu que o candidato aprovado em concurso público dentro do número de vagas previstas no edital tem direito subjetivo à nomeação.
+    3. Inadmissível, em recurso extraordinário, a análise das cláusulas de edital de concurso público e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 454 e 279. 4. Agravo regimental não provido.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 15 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
