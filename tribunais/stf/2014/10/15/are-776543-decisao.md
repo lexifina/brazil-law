@@ -1,0 +1,26 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 17ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 448):
+     “PROCESSO CIVIL. AGRAVO LEGAL. AÇÃO CIVIL. PÚBLICA. PETIÇÃO INICIAL. INDEFERIMENTO. ADEQUAÇÃO DA VIA PROCESSUAL. LEGITIMIDADE.
+    Agravo legal contra a decisão que negou seguimento à apelação por manifesta improcedência.
+    A Agravante pretende cobrar impostos teoricamente devidos pela Agravada ao se beneficiar de isenção tributária, mas a ação civil pública não se presta a tal finalidade.
+    Além disso, somente possui legitimidade para cobrar tributos quem a lei aponta como titular do crédito.
+    Recurso desprovido.”
+    Foram opostos embargos de declaração, os quais foram rejeitados (fls. 491/492).
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV; 37; 129, III e § 1º; e 155, § 2º, XII, “g”, todos da Carta. Sustenta, em síntese, que preenche os requisitos elencados no art. 5º da Lei 7.347/1985 para o manejo da presente ação civil pública e, assim, não haveria que se falar em sua ilegitimidade ad causam.
+    A decisão agravada negou seguimento ao recurso, ao fundamento de que “o acórdão recorrido encontra-se em absoluta e perfeita harmonia com a jurisprudência pacificada nos Tribunais Superiores”. Em sede de agravo, a parte reitera os argumentos deduzidos no recurso extraordinário.
+    A pretensão não merece ser acolhida. De início, cumpre registrar que esta Corte, de fato, já reconheceu a legitimidade do Ministério Público para a propositura de ação civil pública com o objetivo de anular Termo de Acordo de Regime Especial – TARE. Ocorre que, nesses casos, a legitimação do parquet decorre diretamente da competência estabelecida no art. 129, III, da Constituição, que lhe confere a prerrogativa de ajuizar demandas no sentido de buscar a defesa do patrimônio público.
+    Conclui-se, portanto, que a aplicação do precedente não se fundamenta na interpretação da Lei nº 7.347/1985, a qual veda expressamente a possibilidade de ajuizamento de ação civil pública para veicular pretensões que envolvam exclusivamente a cobrança de tributos. Com efeito, note-se que, nos autos do ARE 694.294, julgado sob relatoria do Ministro Luiz Fux, foi reiterada a jurisprudência desta Corte no sentido de que não se pode, em ação civil pública, deduzir pretensão relativa à matéria tributária, ainda que a demanda tenha sido proposta pelo Ministério Público. Confira-se, a propósito, a emenda da decisão:
+    “DIREITO CONSTITUCIONAL. TRIBUTÁRIO. APELAÇÃO INTERPOSTA EM FACE DE SENTENÇA PROFERIDA EM SEDE DE AÇÃO CIVIL PÚBLICA QUE DISCUTE MATÉRIA TRIBUTÁRIA (DIREITO DOS CONTRIBUINTES À RESTITUIÇÃO DOS VALORES PAGOS À TÍTULO DE TAXA DE ILUMINAÇÃO PÚBLICA SUPOSTAMENTE INCONSTITUCIONAL). ILEGITIMIDADE ATIVA "AD CAUSAM" DO MINISTÉRIO PÚBLICO PARA, EM AÇÃO CIVIL PÚBLICA, DEDUZIR PRETENSÃO RELATIVA À MATÉRIA TRIBUTÁRIA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DA CORTE. REPERCUSSÃO GERAL RECONHECIDA”
+    Dessa forma, se o próprio Ministério Público, que detém legitimidade ativa ampla para a propositura da ação civil pública, está impedido de nela veicular pedido atinente à devolução ou ao pagamento de tributos, com muito mais razão a entidade, cujo pedido deve guardar pertinência estrita com suas finalidades estatutárias. Na mesma linha, confira-se ementa do RE 606.722 julgado sob a relatoria do Ministro Luiz Fux:
+    “SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. ILEGITIMIDADE ATIVA DO SINDICATO. PEDIDO QUE NÃO SE ENQUADRA ENTRE AS FINALIDADES ESTATUTÁRIAS DA ENTIDADE SINDICAL.
+    1. A propositura de Ação Civil Pública por sindicato ou associação, exige que o ente coletivo comprove a relação entre suas finalidades institucionais e os direitos e interesses difusos e coletivos defendidos (art. 5º, ‘b’, da Lei 7.347/85).
+    2. As entidade sindicais não detêm legitimidade ativa para propor ação civil pública que verse sobre tributo.
+    3. In casu, o acórdão recorrido assentou: “PROCESSUAL – AÇÃO CIVIL PÚBLICA PROPOSTA POR SINDICATO – ILEGITIMIDADE ATIVA EM FACE DA NATUREZA DO PEDIDO – EXTINÇÃO DO PROCESSO. Carece o sindicato de servidores públicos de legitimidade para propor ação civil pública visando compelir o Estado e fundação estadual a liquidarem dívida para com o instituto previdenciário.”
+    4. Agravo regimental a que se nega provimento.”
+    Por fim, saliente-se que para dissentir do acórdão recorrido no tocante à controvérsia sobre legitimidade de sujeito processual demandaria a análise da legislação infraconstitucional pertinente, o que é inviável em recurso extraordinário.
+    Nessa linha, vejam-se o AI 652.642-AgR, Rel. Min. Ayres Britto; o AI 842.446-ED, Rel. Min. Luiz Fux; o ARE 682.061-AgR, Rel.ª Min.ª Rosa Weber; o ARE 663.720-AgR, Rel. Min. Dias Toffoli; o AI 823.754-ED, Rel. Min. Joaquim Barbosa.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 15 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
