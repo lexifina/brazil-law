@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 262, de 26 de setembro de 2014
+ASSUNTO: Simples Nacional EMENTA: RETENÇÃO DE IMPOSTO DE RENDA NA FONTE NA PRESTAÇÃO DE SERVIÇOS - EXERCÍCIO DE ATIVIDADE VEDADA O exercício da atividade de prestação de serviços de bombeiro civil, regulamentada pela Lei 11.901, de 2009, não é vedada ao optante pelo Simples Nacional, devendo ser tributada com base no Anexo IV da Lei Complementar nº 123, de 2006. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, artigos 17, § 2º e 18, § 5-C, inciso VI; Instrução Normativa RFB nº 971, de 2009, artigo 117, inciso II.
+[arquivo anexo: SC Cosit nº 262-2014.pdf]
