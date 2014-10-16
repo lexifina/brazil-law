@@ -1,0 +1,8 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. DIVERSAS FRAUDES PERPETRADAS, EM TESE, CONTRA O DETRAN/RS. ALEGAÇÃO DE ILICITUDE DOS DOCUMENTOS FISCAIS SIGILOSOS REQUISITADOS PELO MINISTÉRIO PÚBLICO DIRETAMENTE AO FISCO. FLAGRANTE ILEGALIDADE. QUEBRA DO SIGILO FISCAL QUE IMPRESCINDE DE PRONUNCIAMENTO JUDICIAL. PRECEDENTES DESTA CORTE SUPERIOR. AGRAVO REGIMENTAL DESPROVIDO. 1. Segundo entendimento desta Corte Superior, os poderes conferidos ao Ministério Público pelo art. 129 da Carta Magna e pelo art. 8.º da Lei Complementar n.º 75/93, dentre outros dispositivos legais aplicáveis, não são capazes de afastar a exigibilidade de pronunciamento judicial acerca da quebra de sigilo bancário ou fiscal de pessoa física ou jurídica, mormente por se tratar de grave incursão estatal em direitos individuais protegidos pela Constituição da República no art. 5º, incisos X e XII. 2. Decisão agravada que deve ser mantida por seus próprios fundamentos. Agravo regimental a que se nega provimento” (eDOC 10, p. 2).
+    No caso, verifico que o assunto versado no recurso extraordinário corresponde ao tema 225 da sistemática da repercussão geral, cujo paradigma é o RE 601.314-RG, da relatoria do Min. Ricardo Lewandowski, DJe 20.11.2009. Assim, devolvam-se os autos ao tribunal de origem, para que observe o disposto no art. 543-B do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 16 de outubro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
