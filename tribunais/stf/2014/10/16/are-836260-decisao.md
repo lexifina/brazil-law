@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado, no que interessa:
+    “PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO. ART. 557, § 1º, CPC. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. DECISÃO EM CONSONÂNCIA COM JURISPRUDÊNCIA CONSOLIDADA DOS C. STF E STJ E DESTA CORTE. AGRAVO DESPROVIDO. [...]” (eDOC 1, p. 193).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 194; 195; e 203, V, do texto constitucional.
+    Nas razões recursais, aduz que a renda per capita do grupo familiar da recorrida supera o patamar de ¼ do salário mínimo.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o Tribunal de origem, a partir do cotejo das provas analisadas, consignou-se no sentido de que a parte agravada possui direito a perceber o benefício assistencial previsto na Lei 8.742/1993 e no art. 203, V, da CF. O acórdão recorrido assim consignou:
+    “Ademais, a decisão recorrida apreciou o conjunto probatório dos autos, sopesando as provas segundo o princípio do livre convencimento motivado, tendo concluído pela caracterização da hipossuficiência da parte autora e, por conseguinte, reconhecendo-lhe o direito ao benefício assistencial”. (eDOC 1, p. 189)
+    Desse modo, para dissentir do acórdão recorrido, faz-se imprescindível a revisão dos fatos e provas analisados, o que obsta o prosseguimento do recurso extraordinário, nos termos do Enunciado 279 da Súmula do Supremo Tribunal Federal.
+    Nesse sentido, confiram-se os seguintes julgados desta Corte:
+    “RECURSO. Extraordinário. Inadmissibilidade. Benefício de prestação continuada. Inexistência de comprovação de que a renda do requerente é superior ao limite estabelecido no art. 20, § 3º, da Lei nº 8.742/93. Reexame de fatos e provas. Súmula 279. Recurso extraordinário não conhecido. Não cabe, em recurso extraordinário, rever questão pontual de inexistência de prova de que o autor tenha renda de valor superior ao limite previsto no art. 20, § 3º, da Lei nº 8.742/93”. (RE 544.182, Rel. Min. Cezar Peluso, Segunda Turma, DJe 9.5.2008)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO BENEFÍCIO ASSISTENCIAL (CF, ART. 203, V) RECONHECIMENTO, NO CASO, DO ESTADO DE MISERABILIDADE (E DE AFLITIVA NECESSIDADE) QUE AFETA A PESSOA DESTINATÁRIA DE REFERIDO BENEFÍCIO ASSISTENCIAL CARÁTER SOBERANO DA DECISÃO LOCAL, QUE, PROFERIDA EM SEDE RECURSAL ORDINÁRIA, RECONHECEU, COM APOIO NO EXAME DOS FATOS E PROVAS, A EXISTÊNCIA DOS PRESSUPOSTOS PARA A CONCESSÃO DO MENCIONADO BENEFÍCIO INADMISSIBILIDADE DE REEXAME DE PROVAS E FATOS EM SEDE RECURSAL EXTRAORDINÁRIA (SÚMULA 279/STF) ACÓRDÃO RECORRIDO QUE SE AJUSTA À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL RECURSO DE AGRAVO IMPROVIDO”. (ARE 750.970-ED/RS, Rel. Min. Celso de Mello, Segunda Turma, DJe 12.8.2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ASSISTÊNCIA SOCIAL. BENEFÍCIO DO BOLSA FAMÍLIA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL (LEI 10.836/2004 E DECRETO 5.209/2004). OFENSA INDIRETA. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. II - Agravo regimental improvido”. (ARE 628.174-AgR/AM, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. BENEFÍCIO ASSISTENCIAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS. OFENSAS À CONSTITUIÇÃO DA REPÚBLICA E AO JULGADO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 1.232 NÃO DEMONSTRADAS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 612.456-AgR/SC, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 3.8.2007)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 16 de outubro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
