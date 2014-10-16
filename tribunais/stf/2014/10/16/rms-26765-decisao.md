@@ -1,0 +1,28 @@
+DECISÃO: O presente recurso ordinário insurge-se contra decisão que, proferida pelo E. Superior Tribunal de Justiça acha-se consubstanciada em acórdão assim ementado (fls. 469):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. VANTAGEM FUNCIONAL. ATO ADMINISTRATIVO. REVOGAÇÃO. PRESCRIÇÃO. ART. 54, DA LEI Nº 9784/99. IRRETROATIVIDADE. DIREITO ADQUIRIDO. INEXISTÊNCIA. DIFERENÇA PESSOAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PRECEDENTES. ORDEM DENEGADA.
+    I – A Eg. Corte Especial deste Tribunal pacificou entendimento no sentido de que, anteriormente ao advento da Lei nº 9.784/99, a Administração podia rever, a qualquer tempo, seus próprios atos quando eivados de nulidade, nos moldes como disposto nas Súmulas 346 e 473 do Supremo Tribunal Federal. Restou ainda consignado, que o prazo previsto na Lei nº 9.784/99 somente poderia ser contado a partir de janeiro de 1999, sob pena de se conceder efeito retroativo à referida Lei.
+    II – Consoante entendimento desta Corte, não resta configurada qualquer irregularidade, ilegalidade ou ofensa a direito adquirido na determinação de suspensão de pagamento de vantagem funcional percebida indevidamente. Precedentes.
+    III – Ordem denegada.”
+    (MS 9.232/DF, Rel. Min. GILSON DIPP – grifei)
+    O Ministério Público Federal, em manifestação da lavra do ilustre Subprocurador-Geral da República Dr. PAULO DA ROCHA CAMPOS, opinou pelo desprovimento do presente recurso (fls. 573/575).
+    Cabe destacar, desde logo, no que se refere à pretendida ocorrência, no caso, da alegada decadência do direito de a Administração Pública rever os seus próprios atos, fragmento do parecer oferecido, nestes autos, pela douta Procuradoria-Geral da República (fls. 574/575):
+    “8. Com efeito, de se reconhecer, em sede inicial, que corretamente pacificado o entendimento do egrégio Superior Tribunal de Justiça no sentido de que o prazo decadencial quinquenal previsto no art. 54 da Lei 9.784/99 aplica-se mesmo aos atos administrativos realizados anteriormente ao advento de tal texto legislativo, tendo, porém, como termo a quo a data na qual o aludido diploma entrou em vigor, ou seja, 1º/02/1999, circunstância que afasta, a toda evidência, a ocorrência da aventada caducidade na hipótese dos autos.” (grifei)
+    Entendo, tal como referido na manifestação do Ministério Público Federal, que não se registrou, no caso, o decurso do lapso temporal necessário ao reconhecimento da decadência do direito de a Administração Pública rever seus próprios atos, eis que, no procedimento administrativo em questão, não transcorreu, em momento algum, o período de 05 (cinco) anos, a que se refere o art. 54, da Lei nº 9.784/99.
+    Vale referir, por oportuno, que este Supremo Tribunal Federal firmou entendimento no mesmo sentido do acórdão recorrido, contrariamente, portanto, à postulação deduzida pelo ora recorrente:
+    “RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. (...). DECADÊNCIA. INOCORRÊNCIA. CONTAGEM DO PRAZO QUINQUENAL A PARTIR DA VIGÊNCIA DO ARTIGO 54 DA LEI N. 9.784/99 [1º.2.99]. (...). RECURSO IMPROVIDO.
+    1. A Administração Pública tem o direito de anular seus próprios atos, quando ilegais, ou revogá-los por motivos de conveniência e oportunidade [Súmulas 346 e 473, STF].
+    2. O prazo decadencial estabelecido no art. 54 da Lei 9.784/99 conta-se a partir da sua vigência [1º.2.99], vedada a aplicação retroativa do preceito para limitar a liberdade da Administração Pública.
+    …...................................................................................................
+    Recurso ordinário a que se nega provimento.”
+    (RMS 25.856/DF, Rel. Min. EROS GRAU – grifei)
+    Impende ressaltar que tal orientação tem sido observada em sucessivas decisões proferidas por eminentes Juízes desta Corte (RMS 27.312/DF, Rel. Min. RICARDO LEWANDOWSKI – RMS 27.892/DF, Rel. Min. ROSA WEBER – RMS 28.719/DF, Rel. Min. ROBERTO BARROSO – RMS 32.655/DF, Rel. Min. DIAS TOFFOLI, v.g.).
+    Assinale-se, finalmente, neste ponto, considerado o conteúdo da presente decisão, que assiste, ao Ministro Relator, no exercício dos poderes processuais de que dispõe, competência plena para exercer, monocraticamente, o controle das ações, pedidos ou recursos dirigidos a esta Corte, legitimando-se, em consequência, os atos decisórios que nessa condição venha a praticar (RTJ 139/53 – RTJ 168/174-175 – RTJ 187/576):
+    “(...) JULGAMENTO MONOCRÁTICO DO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA.
+    O Relator, na direção dos processos em curso perante a Suprema Corte, dispõe de competência, para, em decisão monocrática, julgar recurso ordinário em mandado de segurança, desde que – sem prejuízo das demais hipóteses previstas no ordenamento positivo (CPC, art. 557) – a pretensão deduzida em sede recursal esteja em confronto com Súmula ou em desacordo com a jurisprudência predominante no Supremo Tribunal Federal.”
+    (RTJ 185/581-582, Rel. Min. CELSO DE MELLO)
+    Nem se alegue que esse preceito legal implicaria transgressão ao princípio da colegialidade, eis que o postulado em questão sempre restará preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados no âmbito do Supremo Tribunal Federal, consoante esta Corte tem reiteradamente proclamado (RTJ 181/1133-1134, Rel. Min. CARLOS VELLOSO – AI 159.892-AgR/SP, Rel. Min. CELSO DE MELLO – RE 302.839-AgR/GO, Rel. Min. CARLOS VELLOSO).
+    Sendo assim, pelas razões expostas, nego provimento ao presente recurso ordinário, mantendo, em consequência, por seus próprios fundamentos, o acórdão emanado do E. Superior Tribunal de Justiça.
+    Publique-se.
+    Brasília, 16 de outubro de 2014.
+Ministro CELSO DE MELLO
+Relator
