@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Universidade Federal de Pernambuco interpõe recurso extraordinário contra acórdão proferido pela Quarta Turma Cível do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. PORTARIA Nº 474/87-MEC. REDUÇÃO DE VENCIMENTOS/PROVENTOS. PRAZO DECADENCIAL. ART. 54 DA LEI Nº 9.781/99.
+    I. O artigo 54 da Lei nº 9.784/99 estabeleceu o prazo de 5 anos para revisão de atos administrativos que concedem benefícios aos servidores públicos. Nestes termos, no caso em apreço, encontra-se consumado o prazo decadencial estabelecido em lei, para a redução de vantagens incorporadas aos vencimentos/proventos dos impetrantes, a título de quintos/décimos devendo ser-lhes restabelecidos os valores referentes às incorporações efetivadas como VPNI.
+    II. Remessa oficial e apelação improvidas” (fl. 355)
+    Opostos embargos de declaração, foram rejeitados.
+    A recorrente alega violação do inciso III do art. 71 da Constituição Federal.
+    Sustenta o recorrente que o prazo decadencial previsto no art. 54 da Lei nº 9.784/99 só começaria a correr após a publicação do ato do TCU que analisa a legalidade da aposentadoria, pois apenas nesse momento a concessão da aposentadoria ocorre definitivamente.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá quando não for o caso de inadmissibilidade do recurso por outra razão.
+    De início, impõem-se registrar que a aposentadoria é ato complexo e, como tal, o ato do órgão concedente somente se aperfeiçoa com o registro no Tribunal de Contas da União, de forma que o prazo decadencial previsto pelo artigo 54 da Lei n. 9.784/99 terá início a partir da publicação do registro da aposentadoria. Nesse sentido, anote-se:
+    “ADMINISTRATIVO. APOSENTADORIA DE SERVIDORA PÚBLICA. INCORPORAÇÃO DE VANTAGEM REVOGADA: RECUSA DE REGISTRO DE APOSENTADORIA PELO TRIBUNAL DE CONTAS DA UNIÃO. INAPLICABILIDADE DO ART. 54 DA LEI 9.784/1999: ATO COMPLEXO. PRECEDENTES. EM 19.1.1995 A SERVIDORA NÃO CUMPRIA OS REQUISITOS EXIGIDOS PELO REVOGADO ART. 193 DA LEI N. 8.112/1990. SEGURANÇA DENEGADA”(MS nº 25.697/DF, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJe de 5/3/10).
+    No caso presente, todavia, o acórdão do TCU que vislumbrou ilegalidade nas vantagens pecuniárias incorporadas aos vencimentos dos recorridos (Acórdão 1.913/2013) decorreu de auditoria realizada na Universidade Federal do Rio Grande, nas áreas de pessoal, licitações e contratos. Não se trata, portanto, de ato de concessão inicial de aposentadoria, não se configurando, desse modo, ato complexo.
+    Para tais atos, muito embora a Administração possa anulá-los quando eivados de vícios que os tornem ilegais, porque deles não se originam direitos, a prerrogativa somente pode ser levada a efeito no limite temporal insculpido no art. 54 da Lei n. 9.784/99. Vide julgado nesse sentido:
+    “MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. ANULAÇÃO DE ASCENSÕES FUNCIONAIS CONCEDIDAS AOS EMPREGADOS DA ECT. DECADÊNCIA DO DIREITO DE REVER A LEGALIDADE DAS ASCENSÕES. NECESSIDADE DE AS PARTES ATINGIDAS PELO ATO COATOR INTEGRAREM A LIDE. 1. Decadência do direito de a Administração Pública rever a legalidade dos atos de ascensão funcional dos empregados da Empresa Brasileira de Correios e Telégrafos - ECT, praticados entre 1993 e 1995 (Art. 54 da Lei n. 9.784/1999). 2. Direito ao contraditório e à ampla defesa a ser garantido aos beneficiários de atos administrativos inerentes à sua condição funcional para a validade de decisões do Tribunal de Contas da União que importem em sua anulação ou revogação. Súmula Vinculante n. 3. Precedentes. 3. Mandado de segurança concedido”(MS nº 26393/DF, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJe de 19/2/10).
+    Dessa forma, no caso específico dos autos, inconsistentes as argumentações trazidas no apelo extremo no sentido da inexistência de limitação temporal ao controle exercido pelo TCU em razão da sua competência constitucional.
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
