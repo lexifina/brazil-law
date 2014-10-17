@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da Vigésima Câmara Cível da Comarca de Porto Alegre, assim ementado:
+    “AGRAVO. APELAÇÕES CÍVEIS. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA. REPETIÇÃO DE INDÉBITO. JUROS. TERMO INICIAL. TRÂNSITO EM JULGADO. OBSERVÂNCIA À DECISÃO DO STJ. JUROS. PERCENTUAL. MANUTENÇÃO RESPEITO À COISA JULGADA.
+    Havendo determinação no acórdão do STJ que os juros moratórios são devidos a partir do trânsito em julgado da decisão definitiva que determinou a repetição de indébito tributário, com aplicação do art. 167, parágrafo único, do CTN e da Súmula 188 do STJ, deve o mesmo ser observado na execução de sentença, regendo-se ainda pela lei vigente à época da sentença, razão pela qual deve ser mantido o percentual de 6% ao ano, uma vez que fixados sob a vigência do Código Civil de 1916, respeitando-se a coisa julgada.
+    Precedentes do TJRGS, STJ e STF
+    Agravo desprovido.”
+    Foram opostos embargos de declaração, aos quais foi negado provimento. O recurso especial, simultaneamente interposto ao recurso extraordinário, foi parcialmente provido para que os juros moratórios passassem a ser fixados no patamar de 12%, a contar da data do trânsito em julgado da sentença exequenda.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, e 60, § 4º, ambos da Carta. Sustenta, em síntese, que não é permitido ao juiz da fase executiva alterar os critérios de atualização determinados no processo de conhecimento.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    (i) “os dispositivos apontados não foram ventilados pela decisão recorrida, e os embargos declaratórios não afastaram eventual omissão, revelando-se ausente o prequestionamento da matéria (Súmula 282 do STF)”;
+    (ii) “se ofensa houvesse a dispositivo constitucional, não seria de forma frontal e direta, como exige o recurso extraordinário, mas de forma reflexa, intermediada pela legislação infraconstitucional, o que inviabiliza o acesso à via recursal extraordinária”.
+    Em sede de agravo, a parte insiste na alegação de ofensa direta aos dispositivos constitucionais destacados no recurso extraordinário.
+    O recurso não merece prosperar. A pretensão acerca do termo inicial para a incidência dos juros moratórios, à luz dos limites objetivos da coisa julgada, não encontra ressonância constitucional. Neste sentido, destaco a ementa do ARE 685750, julgado sob a relatoria da Ministra Rosa Weber:
+    “DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. TERMO INICIAL DOS JUROS DE MORA. ANÁLISE QUANTO À OCORRÊNCIA DE COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 30.09.2010. A matéria constitucional versada no recurso extraordinário, relativamente à violação do art. 60, § 4º, IV, da Lei Maior, não foi analisada pelas instâncias ordinárias, tampouco opostos embargos de declaração para satisfazer o requisito do prequestionamento, o que atrai a aplicação das Súmulas 282 e 356/STF. O exame de eventual ofensa ao art. 5º, XXXVI, da Constituição da República dependeria da análise da legislação infraconstitucional aplicável à espécie, de modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Constituição da República. Agravo regimental conhecido e não provido.”
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 17 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
