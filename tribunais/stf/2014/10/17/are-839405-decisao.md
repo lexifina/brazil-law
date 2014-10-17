@@ -1,0 +1,14 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 5º, caput, e XXXV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Mesmo que assim não fosse, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta ao inciso XXXV do art. 5° da CF/88, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III – Agravo regimental improvido” (AI nº 812.481/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11).
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. LEI 6.024/74. LIQUIDAÇÃO EXTRAJUDICIAL. RESPONSABILIDADE. BANCO CENTRAL. PREJUÍZOS AOS INVESTIDORES. CARÊNCIA DA AÇÃO. MATÉRIA PROCESSUAL. OFENSA REFLEXA. 1. O Tribunal a quo limitou-se a reconhecer a carência da ação dos agravantes, por falta de interesse de agir. Tal questão, ante seu manifesto caráter processual e infraconstitucional, é insuscetível de exame em sede de recurso extraordinário, a título de ofensa ao art. 5º, XXXV, da Constituição Federal que, se existente, seria meramente reflexa ou indireta. 2. O mérito da demanda sequer foi examinado. Inviável, portanto, a discussão em torno do art. 37, § 6º, da Constituição Federal, para se definir a responsabilidade do Banco Central pelos prejuízos causados aos investidores. 3. Agravo regimental improvido” (RE n° 234.371/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 13/2/04).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
