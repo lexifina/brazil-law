@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. VENDA DE BEBIDA ALCOÓLICA. ESTABELECIMENTOS PRÓXIMOS A RODOVIAS. MEDIDA PROVISÓRIA N. 415/2008. LEI N. 11.705/2008. PRECEDENTE: RE 148.260. ALEGAÇÃO DE INOBSERVÂNCIA AO ART. 5º, INC. LIV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional da Segunda Região:
+    “AGRAVO INTERNO. VENDA DE BEBIDA ALCOÓLICA. RODOVIAS. MP 415/2008. LEI N.º 11.705/2008.
+    I – O STF, ao examinar a constitucionalidade da Lei estadual de SP nº 4.855/85, que, de forma semelhante, proíbe a venda de bebidas alcoólicas nos estabelecimentos comerciais situados em terrenos contínuos às faixas de domínio do Departamento de Estradas de Rodagem (RE 148.260-5/SP, Relator Ministro Carlos Velloso), entendeu pela perfeita consonância da mesma com o ordenamento jurídico pátrio.
+    II – Agravo Interno improvido” (grifos nossos).
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante alega ter o Tribunal de origem contrariado os arts. 1, inc. IV, 3º, inc. II, 5º, caput e incs. I, XIII, XXII, XXXV, LIV, LXIX, LXX e LXXVIII, 144, § 2º, 150, inc. II, e 170, parágrafo único e inc. IV, da Constituição da República.
+    Argumenta que
+    “a Medida Provisória N. 415, de 21 de janeiro de 2008 pretende turvar, mediante o veto da venda de bebidas alcoólicas em áreas habitadas por agrupamentos humanos e formação de bairros, alguns inclusive com maior dificuldade de locomoção para locais distantes, e que pretendem apenas adquirir bebidas alcoólicas para consumir em sua residências.
+    (…)
+    Cabe à Policia Rodoviária o controle e fiscalização dos motoristas, e a verificação do uso ou não de bebidas alcoólicas, e não de suas compras. A bebida alcoólica adquirida em área urbana não é menos nociva que a de zona rodoviária, o importante é ela não ser consumida por quem está na direção de um veículo, em local algum. Isso sim é importante para preservação da vida e da integridade humanas e para tanto é imprescindível o destacamento de equipe suficiente e satisfatória, não a proibição de produto legalmente liberado.
+    A imprescindibilidade na reforma in tatum, do respeitável, porém, injusto acórdão, se evidencia no fato que, a Medida Provisória N. 415, de 21 de janeiro de 2008, como já descrito nas razões de fato, introduz medida absolutamente ineficiente para proteção da vida humana e garantia da integridade física dos que transitam pelas rodovias.
+    Por outro lado, seus efeitos são bem prejudiciais aos varejistas e consumidores, pois não podem ter acesso a produtos rotineiramente adquiridos nos supermercados, seja por quem está transitando pelas rodovias ou rotas de acesso, seja por àqueles que habitam perto das áreas citada”.
+    3. Na decisão agravada foram adotados como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta e a incidência das Súmulas ns. 282 e 284 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada de incidência das Súmulas ns. 282 e 284 do Supremo Tribunal Federal, pois a matéria foi prequestionada e a fundamentação permite a compreensão da controvérsia.
+    A superação desses fundamentos, todavia, não é suficiente para o acolhimento da pretensão da Agravante, não lhe assistindo razão de direito.
+    6. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral quanto à alegação de contrariedade ao princípio do devido processo legal, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    7. No julgamento do Recurso Extraordinário n. 148.260, Redator para o acórdão o Ministro Carlos Velloso, o Plenário deste Supremo Tribunal assentou:
+    “CONSTITUCIONAL. TRÂNSITO. RODOVIAS ESTADUAIS: ACESSO DIRETO. Lei 4.885, de 1985, do Estado de São Paulo. I. - A Lei 4.885, de 1985, do Estado de São Paulo, art. 1º, não dispõe sobre matéria de direito comercial. Dispõe, sim, sobre matéria de direito administrativo, já que disciplina a autorização para dispor de acesso direto à rodovia estadual. A lei estadual apenas estabelece que os estabelecimentos comerciais situados nos terrenos contíguos às faixas de domínio do DER somente poderão obter autorização de acesso direto às estradas estaduais se se comprometerem a não vender ou servir bebida alcoólica. II. - Inocorrência de ofensa ao princípio da irretroatividade das leis ou do respeito ao direito adquirido. III. - Constitucionalidade do art. 1º da Lei paulista 4.855, de 1985, regulamentado pelo art. 1º do Decreto estadual 28.761, de 26.08.88. IV. - R.E. não conhecido” (DJe 14.11.1996, grifos nossos).
+    O acórdão recorrido não divergiu da jurisprudência deste Supremo Tribunal, motivo pelo qual nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e arts. 21, § 1º, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de outubro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
