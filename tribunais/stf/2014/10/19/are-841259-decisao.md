@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. AVISO PRÉVIO PROPORCIONAL. ACÓRDÃO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL E NA JURISPRUDÊNCIA TRABALHISTA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. RITO SUMARÍSSIMO. AVISO PRÉVIO PROPORCIONAL. APLICABILIDADE DA LEI Nº 12.506/2011. A Lei nº 12.506/2011, que regulamentou o aviso-prévio proporcional com base no tempo de serviço, não se aplica à hipótese dos autos, em razão do princípio da irretroatividade das leis e do entendimento contido na Súmula 441, do TST. Agravo de instrumento conhecido e não provido”.
+    2. O Recorrente alega terem sido contrariados os arts. 1º, inc. IV, 5º, inc. XXXV e § 1º, 7º, inc. XXI, e 102 da Constituição da República.
+    Afirma a necessidade de provimento do recurso extraordinário para lhe ser assegurada a “percepção do aviso-prévio proporcional ao tempo de vigência do contrato de trabalho, nos termos da lei 12.506/11, pois, embora extinto o vínculo antes do início da vigência da referida norma, trata-se de direito fundamental garantido constitucionalmente a todos os trabalhadores”.
+    3. Na decisão agravada foram adotados como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta e a incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    4. No agravo interposto, o Recorrente alega ter “o recurso extraordinário em voga, preench[ido] todas as condições recursais, seja no tocante aos pressupostos intrínsecos (quais sejam, cabimento, legitimidade e interesse recursal), bem como os seus pressupostos extrínsecos (tempestividade, preparo e regularidade formal)”.
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos, ou seja, sem a necessidade de formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. O Ministro Relator do recurso no Tribunal de origem assentou:
+    “Resta tão somente o exame da alegada violação dos artigos 7º, inciso XXI, e 5º, § 1º, ambos da Constituição Federal, e, quanto ao tema, não é possível dar provimento ao Agravo de Instrumento.
+    Com efeito, a decisão regional dirimiu a controvérsia com base no princípio da irretroatividade das leis, previsto no art. 6º, da Lei de Introdução ao Código Civil pátrio, ao deixar consignado que o contrato de trabalho findou-se em 14/03/2011, ao passo que a Lei nº 12.506 somente entrou em vigor em 13/10/2011, data de sua publicação.
+    Oportuno salientar que o cancelamento da OJ nº 84 da SDI-I do TST pela Resolução 186/2012 decorreu da publicação da Lei nº 12.506/2011, pois a partir dessa Lei é que o direito à proporcionalidade do aviso-prévio passou a ser aplicável. Tal cancelamento, no entanto, não permite, como pretende o reclamante, aplicar referida Lei à hipótese dos autos, sob pena de ofensa ao princípio irretroatividade.
+    (…)
+    Ademais, a decisão recorrida se mostra em sintonia com iterativa, notória e atual jurisprudência desta Corte, consubstanciada na Súmula 441, do TST”.
+    A análise do pleito recursal demandaria a prévia análise da legislação infraconstitucional e da jurisprudência trabalhista. Eventual ofensa constitucional, se tivesse ocorrido, seria indireta:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. FÉRIAS. DOBRA NO PAGAMENTO REALIZADO FORA DO PRAZO LEGAL. ACÓRDÃO RECORRIDO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NA JURISPRUDÊNCIA TRABALHISTA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 788.188-AgR, de minha relatoria, Segunda Turma, DJe 14.2.2014, grifos nossos).
+    “TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. LEGISLAÇÃO TRABALHISTA. NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA. CONDENAÇÃO AO PAGAMENTO DE MULTA. OFENSA INDIRETA. PRECEDENTES. ALEGADA VIOLAÇÃO AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. PRECEDENTES. ART. 93, IX, DA CF. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a causa à luz da legislação trabalhista e da jurisprudência do TST. A apreciação do tema constitucional, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. II – Em relação à condenação ao pagamento de multa, o acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não-cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. Precedentes. III – Agravo regimental improvido” (AI 789.375-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 12.11.2010, grifos nossos).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. b, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de outubro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
