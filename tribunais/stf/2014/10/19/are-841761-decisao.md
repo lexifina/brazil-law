@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO OU DE OUTRA AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. DECISÃO AGRAVADA CONFORME À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL: AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. ADMINISTRATIVO. PRELIMINARES. REJEIÇÃO. SERVIDORES PÚBLICOS ESTADUAIS DO PODER EXECUTIVO. ESTADO DE MINAS GERAIS. CONVERSÃO DOS SALÁRIOS. URV. PROCEDIMENTO. REFORMAR A SENTENÇA.1. Se os vencimentos dos funcionários públicos estaduais do Poder Executivo são pagos no mês seguinte àquele de competência, fazer a conversão da URV pelo último dia do mês é a regra mais favorável do que a data do efetivo pagamento. 2. De acordo com a jurisprudência, a correção de 11,98% (onze vírgula noventa e oito por cento), não é devida aos servidores do Poder Executivo. 3. Cediço que a referida conversão, de que cuidou a Lei nº 8.880/94, em relação àqueles servidores que têm a data de pagamento nos termos da liberação orçamentária estabelecida pelo art. 168 da Carta Magna, deve-se dar na data do efetivo pagamento, não sendo o caso dos autos. 4. A Lei Estadual 11.510/94, tão-somente, adequou os ditames da Lei nº 8.880/94 à especificidade da situação dos servidores estaduais. Ao assim proceder, buscou a preservação da isonomia no que concerne à conversão das remunerações, fixando uma única data para tanto e para não causar prejuízo a quaisquer servidores. 5. Rejeitar as preliminares e reformar a sentença, prejudicados os recursos voluntários” (fl. 444).
+    2. Os Agravantes afirmam contrariedade ao art. 22, inc. VI, da Constituição da República.
+    3. O recurso extraordinário foi indeferido liminarmente nos termos do art. 543-A, § 5º, do Código de Processo Civil.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste aos Agravantes.
+    5. O Tribunal de origem aplicou a sistemática da repercussão geral e indeferiu liminarmente o recurso extraordinário nos termos do art. 543-A, § 5º, do Código de Processo Civil.
+    No julgamento do Recurso Extraordinário n. 631.444, Relator o Ministro Ayres Britto, o Supremo Tribunal Federal assentou inexistir repercussão geral na questão discutida nestes autos:
+    “ADMINISTRATIVO. SERVIDORES PÚBLICOS DO ESTADO DO RIO GRANDE DO SUL. CONVERSÃO DOS VENCIMENTOS DIRETAMENTE DE CRUZEIRO REAL PARA REAL (NÃO-CONVERSÃO EM UNIDADE REAL DE VALOR – URV). INEXISTÊNCIA DE DECRÉSCIMO REMUNERATÓRIO, CONFORME QUADRO DELINEADO PELA INSTÂNCIA JUDICANTE DE ORIGEM. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. AUSÊNCIA DE REPERCUSSÃO GERAL. Para se chegar a conclusão diversa da adotada pela instância judicante de origem, no sentido da inexistência de decréscimo remuneratório experimentado pelos servidores do Estado do Rio Grande do Sul, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que impede a abertura da via extraordinária (Súmula 279 do Supremo Tribunal Federal). Pelo que falta ao caso elemento de configuração da própria repercussão geral” (DJe 8.11.2012 ).
+    A decisão agravada harmoniza-se com a orientação jurisprudencial, pelo que o agravo não pode ter seguimento.
+    6. Pelo exposto, nego seguimento ao presente agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de outubro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
