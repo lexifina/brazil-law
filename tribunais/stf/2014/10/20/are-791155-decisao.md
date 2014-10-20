@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. PRELIMINAR DE INCOMPETÊNCIA DO JUÍZO DE PRIMEIRO GRAU. SECRETÁRIO DE SAÚDE QUE NÃO COMPÕE A LIDE E SIM O COORDENADOR DE GESTÃO DA SECRETARIA DE SAÚDE. COMPETÊNCIA DO JUÍZO DE PISO. REJEIÇÃO DA PRELIMINAR. PREFACIAL DE PERDA DE INTERESSE RECURSAL DIANTE DA EDIÇÃO DE LEI ESTADUAL DISCIPLINANDO O ASSUNTO DA LIDE. INSUBSISTÊNCIA, POR SE TRATAR DE ARRESTO MERITÓRIO. REJEIÇÃO. SERVIDORA PÚBLICA ESTADUAL. LICENÇA MATERNIDADE. PRORROGAÇÃO POR SESSENTA DIAS, TOTALIZANDO CENTO E OITENTA DIAS DE LICENÇA. POSSIBILIDADE LEGAL. DISCIPLINAMENTO DEFINITIVO DO ASSUNTO PELA LEI ESTADUAL 19085/2011 QUE MODIFICOU O ART. 154 DO ESTATUTO DOS SERVIDORES PÚBLICOS CIVIS DO ESTADO DA BAHIA. IMPROVIMENTO DO RECURSO E MANUTENÃO DA SENTENÇA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, XVIII; 25, caput; 39, caput, § 3º; 61, § 1º, II, c, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos: (i) “os arts. 25, caput; 39, caput, § 3º; 61, § 1º, II, c, da Carta Magna não foram debatidos no acórdão hostilizado, carecendo, pois, do indispensável prequestionamento, a teor do disposto nas Súmulas 282 e 356, do Supremo Tribunal Federal” e (ii) “no que pertine à suposta contrariedade ao art. 7º, XVIII da Carta Política (…) a violação ao dispositivo constitucional apontado, acaso existente, dar-se-ia de maneira reflexa ou indireta”.
+    O recurso não deve ser provido. Com efeito, é firme a jurisprudência do Supremo Tribunal Federal no sentido de tratar-se de matéria infraconstitucional a questão ora discutida (prorrogação de licença-maternidade de servidora pública estadual). Nessa linha, vejam-se as ementas de ambas as Turmas desta Corte:
+     “Agravo regimental no recurso extraordinário com agravo. Servidora pública estadual. Licença maternidade. Prorrogação. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+    1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF.
+    2. O recurso extraordinário não se presta à analise de legislação infraconstitucional. Incidência das Súmulas nºs 280 e 636/STF.
+    3. Agravo regimental não provido.” (ARE 738.391-AgR/BA, Rel. Min. Dias Toffoli, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORA PÚBLICA ESTADUAL. PRORROGAÇÃO DE LICENÇA MATERNIDADE. 1. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 740.880-AgR/BA, Rel.ª Min.ª Cármen Lúcia, Segunda Turma)
+     Diante do exposto, com base no art. 544, § 4º, II, b , do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 20 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
