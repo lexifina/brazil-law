@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 14ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO INOMINADO EM APELAÇÃO CÍVEL. AGRAVO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE DEU PARCIAL PROVIMENTO AO RECURSO DO EXEQUENTE. TRIBUTÁRIO E CONSTITUCIONAL. EMBARGOS À EXECUÇÃO FISCAL. IPTU, TAXA DE COLETA DE LIXO DOMICILIAR – TCDL
+    1 – Imunidade da Fundação Pública configurada somente em relação ao IPTU.
+    2 – A cobrança da TCDL já foi apreciada pelo Supremo Tribunal Federal, sendo considerada constitucional.
+    3 – Entendimento pacificado dos Tribunais Superiores que a imunidade recíproca protege o patrimônio, a renda e os serviços da União, dos Estados e dos Municípios, sendo extensiva às autarquias e às fundações instituídas e mantidas pelo Poder Público, no que concerne às suas finalidades essenciais, não se aplicando à cobrança de taxa.
+    4 – Reforma parcial da sentença.
+    5 – Provimento ao recurso, na forma do art. 557, § 1°-A do CPC, reformando a sentença somente para permitir que a execução prossiga quanto aos créditos tributários referentes às TCDL.
+    AUSÊNCIA DE ARGUMENTO NOVO QUE JUSTIFIQUE A SUA REVISÃO. NEGO PROVIMENTO AO RECURSO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, § 2°, da Carta. Sustenta, em síntese, que a ora Recorrida não trouxe aos autos demonstração alguma de que os imóveis de sua propriedade fossem empregados na consecução de suas finalidades, circunstância que, por si só, já justificaria o não acolhimento dos embargos à execução fiscal, por força do art. 333, I, do CPC e do art. 3º da Lei 6.830/1980, que conferem presunção de liquidez e certeza à Certidão de Dívida Ativa e impõem ao embargante o ônus de comprovar as suas alegações. Ademais, observa que devem ser lidas com rigor as cláusulas previstas no art. 150, §§ 2º e 3º, da Constituição, que limitam a aplicação da imunidade recíproca ao patrimônio dos entes públicos que se vinculem a suas finalidades essenciais, impedindo a aplicação do art. 150, VI, a, da Constituição aos bens relacionados com a exploração de atividades econômicas.
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos: (i) “o acórdão recorrido está em perfeita harmonia com os pronunciamentos da Corte Constitucional sobre o mérito de tal questão” e (ii) “a verificação da ocorrência da alegada violação, na hipótese dos autos, é providência que não prescinde do reexame do acervo probatório.”
+    No agravo, a parte insiste na alegação de ofensa direta aos dispositivos constitucionais destacados no recurso extraordinário.
+    De início, cumpre registrar que a Corte vem optando por conferir tratamento privilegiado às diversas espécies de imunidades, de modo a atribuir-lhes a máxima efetividade possível. Um reflexo desta forma de compreender o instituto é que a imunidade recíproca, enquanto norma de proteção do equilíbrio federativo, só deve ser afastada mediante prova em sentido contrário produzida pela Fazenda.
+    A jurisprudência do Supremo Tribunal Federal concebe que não cabe ao ente imune demonstrar que utiliza o bem de acordo com suas finalidades institucionais. Ao contrário, cabe à Administração tributária demonstrar a eventual tredestinação do bem gravado pela imunidade.
+    Dessa forma, não se está a negar a necessidade de haver uma correlação do patrimônio, renda ou serviço com os fins institucionais. O que se reconhece é a inversão do ônus da prova em virtude da imunidade ser outorgada pela Constituição e não pelo Fisco. Considerando que tal prova não foi produzida na origem, somente uma nova análise das evidências constantes do feito poderia eventualmente desautorizar a conclusão assentada pelo acórdão recorrido.
+    De fato, tal como observado pela decisão agravada, dissentir das conclusões adotadas pelo Tribunal de origem encontra óbice na Súmula 279/STF. Nesse sentido, veja-se o ARE 758.289-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPTU. imunidade recíproca. Destinação dos bens. Revolvimento de fatos e provas. Súmula nº 279/STF. Ônus da prova.
+    1. Para ultrapassar o entendimento do Tribunal de origem e acolher a pretensão da recorrente, especialmente para verificar a destinação dos bens, seria necessário o reexame de fatos e provas, o que é inviável em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    2. A presunção sobre o enquadramento originalmente conferido deve militar a favor do contribuinte e, caso já tenha sido deferido o status de imune, o afastamento dessa imunidade só pode ocorrer mediante a constituição de prova em contrário produzida pela administração tributária.
+    3. Agravo regimental não provido.”
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar-lhe provimento.”
+    Publique-se.
+          Brasília, 20 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
