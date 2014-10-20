@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 2ª Turma Recursal dos Juizados Especiais do Estado do Acre, que reconheceu o direito de professores estaduais receberem a diferença pecuniária de progressão funcional devida por lei e não realizada pelo Estado.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 2º; 5º, XXXV, XXXVI e LV; 37, caput; e 93, IX, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) falta de prequestionamento (Súmulas 282 e 356/STF); (ii) a violação ao art. 5º, XXXV, XXXVI e LV, seria meramente reflexa; (iii) a decisão recorrida está devidamente fundamentada; e (iv) o caso atrai a incidência da Súmula 280/STF.
+    O recurso extraordinário é inadmissível. Isso porque a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto – o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado por este Tribunal, a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR/MG, Rel. Min. Ricardo Lewandowski).
+    Ainda que superado o óbice apontado, nota-se que, para dissentir da conclusão do Tribunal de origem acerca do direito ao recebimento das diferenças remuneratórias pleiteadas pelos recorridos, seriam necessárias a análise das legislações infraconstitucionais pertinentes e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF.
+    Nesse sentido e sobre a mesma controvérsia, confira-se a ementa do ARE 831.211-AgR, julgado sob a relatoria da Ministra Rosa Weber:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. PROFESSOR. PROGRESSÃO. LEI COMPLEMENTAR ESTADUAL Nº 144/2005. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA 280/STF. CONTROLE DE LEGALIDADE DOS ATOS ADMINISTRATIVOS PELO PODER JUDICIÁRIO. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. OFENSA NÃO CONFIGURADA. ACÓRDÃO RECORRIDO PUBLICADO EM 20.02.2014.
+    A decisão agravada está em harmonia com a jurisprudência desta Casa acerca do caráter infraconstitucional do debate atinente à interpretação dada pelo Tribunal a quo à progressão funcional prevista em norma local aplicada à espécie – Lei Complementar Estadual nº 144/2005 -, concluindo pelo caráter infraconstitucional do debate.
+    A suposta ofensa aos postulados constitucionais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo. Eventual violação oblíqua ou reflexa não viabiliza trânsito a recurso extraordinário.
+    O exame da legalidade dos atos administrativos pelo Poder Judiciário não ofende o princípio da separação dos Poderes. Precedentes.
+    Agravo regimental conhecido e não provido.”
+    Outros precedentes: ARE 831.411, Rel. Min. Marco Aurélio; ARE 833.100, Rel. Min. Gilmar Mendes; e ARE 835.701, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 20 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
