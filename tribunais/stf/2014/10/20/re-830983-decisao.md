@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO LEGAL. ARTIGO 557, §1º, CPC. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. PENSÃO POR MORTE. ELEVAÇÃO DO COEFICIENTE INCIDENTE SOBRE O SALÁRIO-DE-BENEFÍCIO NA FORMA DO ARTIGO 75, DA LEI Nº 8.213/91 E NA FORMA DA LEI Nº 9.032/95. APLICAÇÃO DE CRITÉRIOS INAUGURADOS POR LEGISLAÇÃO SUPERVENIENTE. INOCORRÊNCIA DE RETROAÇÃO DA NORMA. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA IGUALDADE, AO PRINCÍPIO DA LEGALIDADE E AO ATO JURÍDICO PERFEITO. IMEDIATA REVISÃO DO BENEFÍCIO. INTELIGÊNCIA DO ARTIGO 461 DO CPC.
+    1. O coeficiente da pensão por morte originalmente composto por uma ‘quota familiar’ equivalente a 50% (cinqüenta por cento) do salário-de-benefício, acrescida de 10% (dez por cento) por dependente, até o máximo de 5 (cinco), consoante o artigo 48, da Consolidação das Leis da Previdência Social (Decreto nº 89.312/84), sofreu alteração com a entrada em vigência da Lei 8.213/91, passando o valor da pensão por morte a ser constituído de 80% (oitenta por cento) do montante da aposentadoria, que o segurado previdenciário recebia, ou daquela que teria direito se aposentado estivesse na época do seu falecimento, acrescido de 10% (dez por cento) por dependente, até o máximo de 02 (dois), na forma do artigo 75.
+    2. Posteriormente, o coeficiente sofreu nova alteração, em razão da edição da Lei nº 9.032, de 1995, passando a consistir em 100% (cem por cento) do salário- de- beneficio, deixando de existir a parcela familiar e as quotas individuais.
+    3. Não se trata de hipótese de retroação da norma, mas de aplicação imediata de critérios inaugurados por legislação superveniente, não se vislumbrando violação o princípio da legalidade e ao ato jurídico perfeito, constitucionalmente garantidos, bem assim, não há que se falar em ferimento ao princípio da igualdade, porquanto a norma que alterou o coeficiente da pensão por morte é aplicável a todos que se encontrem na mesma situação jurídica, isto é, sejam pensionistas à época da respectiva alteração legislativa.
+    4. Tendo em vista que os que os recursos a serem interpostos perante a instância extraordinária não possuem efeito suspensivo, e em face da avançada idade das Autoras (76 e 79 anos), há que se manter a imediata revisão do benefício, nos termos da disposição contida no caput do artigo 461 do Estatuto Processual Civil.
+    5. Agravo legal a que se nega provimento.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, e 195, § 5º, da Constituição. Requer a reforma do acórdão recorrido, “julgando-se, via de conseqüência, improcedente o pedido formulado pela autora”.
+    O Superior Tribunal de Justiça deu provimento ao recurso especial (REsp 1.331.865), simultaneamente interposto ao recurso extraordinário, para “reformando o acórdão recorrido, indeferir o pedido de majoração da cota da pensão por morte”.
+    Dessa forma, o recurso extraordinário perdeu o respectivo objeto.
+    Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o presente recurso.
+    Publique-se.
+          Brasília, 20 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
