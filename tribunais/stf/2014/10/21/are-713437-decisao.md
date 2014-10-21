@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 3ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “MANDADO DE SEGURANÇA. MATRÍCULA SIMULTÂNEA EM DOIS CURSOS DE UNIVERSIDADES PÚBLICAS. LEI 12.089/2009.
+    1. De acordo com o art. 2º da Lei n.º 12.089/09, é proibido uma mesma pessoa ocupar, na condição de estudante, simultaneamente, no curso de graduação, duas vagas no mesmo curso ou em cursos diferentes, em uma ou mais de uma instituição pública de ensino superior em todo o território nacional.
+    2. Somente na hipótese de já estar ocupando regularmente duas vagas simultaneamente em cursos em Instituições Públicas de Ensino quando da entrada em vigor da lei é que se assegura ao aluno concluir os dois cursos”.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição. Sustenta, em síntese, ter direito adquirido de cursar segunda graduação em instituição pública, tendo em vista que, ao tempo de sua inscrição no respectivo concurso vestibular, ainda não existia a Lei nº 12.089/2009, que estabelece em seu art. 2º: “É proibido uma mesma pessoa ocupar, na condição de estudante, simultaneamente, no curso de graduação, 2 (duas) vagas, no mesmo curso ou em cursos diferentes em uma ou mais de uma instituição pública de ensino superior em todo o território nacional”.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que “a alegada ofensa a preceito constitucional somente se verificaria de modo indireto e reflexo”.
+    O recurso extraordinário não deve ser provido. Com efeito, o Supremo Tribunal Federal assentou, quanto a processos seletivos para cargo público, que, “enquanto não concluído e homologado o concurso público, pode a Administração alterar as condições do certame constantes do respectivo edital, para adaptá-las à nova legislação aplicável à espécie” (RE 318.106, Rel.ª Min.ª Ellen Gracie).
+    Ora, o vestibular realizado pelas universidades públicas é igualmente um concurso público, voltado, no entanto, para a seleção de candidato a ocupar vaga aberta em curso de graduação, motivo pelo qual deve ser adotado o mesmo entendimento do citado precedente.
+    De qualquer modo, a proibição trazida no art. 2º da Lei nº 12.089/2009, ainda que posterior ao período de inscrição, aplica-se ao certame em referência, já que, como consignou o acórdão impugnado, “quando da aprovação do candidato no certame em questão e da matrícula em seu novo curso já estavam plenamente em vigor as disposições da Lei nº 12.089/2009, publicada em 12/11/2009, passando a vigorar em 12/12/2009”.
+    A questão controvertida não se apresenta, no caso, sob o enfoque da retroação da Lei nº 12.089/2009, de modo a afrontar eventual direito adquirido, uma vez que, como consignado pelo Tribunal de origem, o recorrente não estava matriculado em duas universidades públicas quando da edição daquele ato normativo.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 21 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
