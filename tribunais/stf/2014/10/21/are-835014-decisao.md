@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sétima Turma do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA – RITO SUMARÍSSIMO – AVISO-PRÉVIO PROPORCIONAL – LEI Nº 12.506/2011 – SÚMULA Nº 441 DO TST. A decisão recorrida está de acordo com a Súmula nº 441 do TST, segundo a qual “O direito ao aviso prévio proporcional ao tempo de serviço somente é assegurado nas rescisões de contrato de trabalho ocorridas a partir da publicação da Lei nº 12.506, em 13 de outubro de 2011.
+    Agravo de instrumento desprovido”.
+    No recurso extraordinário, sustenta-se violação dos artigos 1º, inciso IV, 5º, inciso XXXV e § 1º, 7º, inciso XXI, e 102 da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que para ultrapassar o entendimento do Tribunal de origem acerca da inaplicabilidade das normas da Lei nº 12.506/11 às rescisões trabalhistas anteriores à publicação dessa norma demandaria o reexame da referida legislação infraconstitucional, o que se mostra incabível em sede de recurso extraordinário. Ademais, esta Corte já assentou que a solução adotada por este Supremo Tribunal Federal nos Mandados de Injunção nºs 943, 1010, 1070 e 1090 não se aplica em casos como o dos autos, conforme bem explicitado pelo Ministro Gilmar Mendes na decisão proferida no ARE nº 836.404/DF, cujos fundamentos transcrevo:
+    “Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Superior do Trabalho, cuja ementa transcrevo a seguir:
+    “Aviso prévio proporcional ao tempo de serviço. Rescisão contratual anterior à vigência da Lei 12.506/2011. Artigo 7º, XXI, da Constituição Federal. Irretroatividade das normas jurídicas (art. 6º, LINDB). Princípio da segurança jurídica (art. 5º, XXXVI, CF)” (eDOC 19, p. 1).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a , da Constituição Federal, aponta-se violação aos arts. 1º, IV; 5º, I, XXXV e § 1º; e 102 do texto constitucional.
+    Nas razões recursais, alega-se que o aviso prévio proporcional deveria ser aplicado no caso em tela, tendo em conta a teoria concretista do mandado de injunção e a jurisprudência do STF quanto à temática.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que, em regra, a Lei 12.506/2011 não se aplica para situações anteriores à edição da lei, à luz do princípio da irretroatividade das leis.
+    Ademais, o entendimento esboçado nos Mandados de Injunção de 943, 1010, 1070 e 1090 não é aplicável ao recurso extraordinário com agravo em tela, uma vez que se trata de recursos com características e finalidades distintas, inclusive no tocante ao polo passivo.
+    Confiram-se, a propósito, os seguintes julgados do Pleno desta Corte:
+    Mandado de injunção. 2. aviso prévio proporcional ao tempo de serviço. Art. 7º, XXI, da Constituição Federal. 3. Ausência de regulamentação. 4. Ação julgada procedente. 5. Indicação de adiamento com vistas a consolidar proposta conciliatória de concretização do direito ao aviso prévio proporcional. 6. Retomado o julgamento. 7. Advento da Lei 12.506/2011, que regulamentou o direito ao aviso prévio proporcional. 8. Aplicação judicial de parâmetros idênticos aos da referida legislação. 9. Autorização para que os ministros apliquem monocraticamente esse entendimento aos mandados de injunção pendentes de julgamento, desde que impetrados antes do advento da lei regulamentadora. 10. Mandado de injunção julgado procedente.(MI 943, de minha relatoria, Tribunal Pleno, DJe 2.5.2013, grifei)
+    Agravo regimental no mandado de injunção. Omissão legislativa na regulamentação do art. 7º, inciso XXI, da Constituição Federal. Exclusão da Vale S/A do polo passivo da demanda. Recurso não provido. 1. Apenas a autoridade, órgão ou entidade que tenha o dever de regulamentar a norma constitucional dispõe de legitimidade passiva ad causam no mandado de injunção. 2. A Vale S/A não possui competência para editar norma que disciplina o aviso prévio proporcional, não estando legitimada para figurar no polo passivo da demanda. 3. Agravo regimental a que se nega provimento.(MI 4142 AgR, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe 18.2.2014, grifei)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, §4º, II, a , CPC e art. 21, §1º, RISTF)” (DJe de 10/10/14).
+    Nesse mesmo sentido, destacam-se as seguintes decisões: ARE nº 835.022/DF, Relatora a Ministra Cármen Lúcia, DJe de 24/9/14; e ARE nº 841.415/DF, Relatora a Ministra Rosa Weber, DJe de 21/10/14.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 21 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
