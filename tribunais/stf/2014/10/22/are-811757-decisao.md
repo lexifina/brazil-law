@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso interposto contra acórdão da 2ª Câmara Cível do Tribunal de Justiça do Paraná, assim ementado:
+    “TRIBUTÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO. IPTU. ART. 150, VI, ALÍNEA ‘C’ DA CONSTITUIÇÃO FEDERAL. ISS. INSTITUIÇÃO DE EDUCAÇÃO E ASSISTÊNCIA SOCIAL (ESCOLA DE LÍNGUAS). RESPONSABILIDADE PARA O PAGAMENTO DO TRIBUTO. CONVENÇÃO PARTICULAR (CONTRATO DE LOCAÇÃO) QUE NÃO PODE SER OPOSTA CONTRA A FAZENDA PÚBLICA PARA MODIFICAR O SUJEITO PASSIVO DA OBRIGAÇÃO. ART. 123 DO CÓDIGO TRIBUTÁRIO NACIONAL. RECURSO DESPROVIDO.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5°, 150, VI, b, da Carta. Sustenta, em síntese, que a imunidade a que alude o art. 150, VI, b, da Constituição deve ser estendida à entidade de assistência social, locatária de imóvel destinado à consecução de suas atividades e subrogada ao pagamento do IPTU por meio de convenção contratual.
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos: (i) “a questão não tem alcance constitucional.” e (ii) “alegada ofensa ao citado dispositivo da Constituição Federal, se houvesse, seria indireta ou reflexa, o que não enseja o recurso extraordinário”. A parte agravante insiste na alegação de ofensa direta ao dispositivo constitucional destacado no recurso extraordinário.
+    A pretensão não merece acolhida. A imunidade constitucional atua de modo a suprimir o exercício da competência tributária com relação àquele que incorre no fato imponível. No caso concreto, a recorrente não praticou o fato gerador, na medida em que não é proprietária e não detém o domínio útil do bem. A possibilidade de imputação contratual do ônus relativo ao imposto em nada interfere na estrutura da obrigação tributária, cuja origem é a lei e não a vontade das partes.
+    A rigor, o acórdão recorrido não merece qualquer preparo. Ainda que assim não fosse, tal como observou a decisão agravada, a controvérsia não encontra ressonância constitucional. A instância ordinária baseou-se no Código Tributário Nacional para afirmar que as convenções particulares não podem ser opostas à Administração tributária.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 22 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
