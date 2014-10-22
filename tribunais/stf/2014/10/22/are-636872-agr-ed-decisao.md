@@ -1,0 +1,23 @@
+Petições 62515/2012-STF (fax) e 63296/2012-STF (original)
+    Em 17/8/2011, o então Presidente, Min. Cezar Peluso, negou seguimento ao agravo por ausência de preliminar formal da existência de repercussão geral na petição do recurso extraordinário.
+    Paulo Cesar Ronque, ora agravante, interpôs agravo regimental (Petição 75506, de 19/9/2011), via fax, não apresentando o respectivo original, no prazo legal, conforme atesta a certidão de fls. 177. Observo que o original da petição recursal foi protocolada neste Tribunal somente em 10/10/2011 (Petição 80681).
+    De acordo com informação constante do Relatório de Acompanhamento Processual, contra a certidão que atestou o trânsito em julgado da referida decisão a parte ora embargante apresentou a Petição 80139, de 7/10/2011, buscando sua “reconsideração”.
+    Em 6/11/2012, o Min. Ayres Britto, sucessor do ministro Peluso na Presidência desta Corte, proferiu despacho nos seguintes termos:
+    “DESPACHO: (referente à Petição nº 0080139.)
+    Por meio da certidão de fls. 196, a Seção de Protocolo e Atendimento Presencial desta nossa Casa de Justiça informa que não foram entregues os originais da petição protocolada via fac-símile, em descumprimento ao parágrafo único do art. 2º da Lei 9.800/1999 e aos arts. 1º e 5º da Resolução 179/1999 do Supremo Tribunal Federal.
+    Ante o exposto, desentranhe-se a petição e devolva-se ao seu subscritor.
+    Publique-se” (fls. 194).
+    Contra esse despacho, Paulo Cesar Ronque opôs embargos de declaração, sustentando que o original da Petição 80139/2011 não foi apresentado no STF, no prazo legal, em virtude de greve dos funcionários da Empresa Brasileira de Correios e Telégrafos - ECT, no Estado do Rio de Janeiro, razão pela qual requereu a reconsideração do referido despacho.
+    Quanto a esta alegação, observo que, embora a parte embargante tenha encaminhado, via fac-símile, a petição 80139/2011 (desentranhada dos autos em virtude da determinação constante do despacho de fls. 194), não há registro, nesta Corte, de apresentação do seu original até a presente data.
+    Com efeito, a jurisprudência desta Corte é firme no sentido de que, em se tratando de recurso interposto por fax, ele só será tempestivo se o seu original entrar em seu protocolo dentro do prazo adicional a que se refere a Lei 9.800/99 . Nesse sentido confira-se o seguinte precedente:
+    “CONSTITUCIONAL. TRABALHISTA. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PETIÇÃO INTERPOSTA VIA FAX. ORIGINAIS NÃO APRESENTADOS NO PRAZO ADICIONAL DE CINCO DIAS. RECURSO INEXISTENTE. I - Conforme entendimento desta Corte, é inexistente o recurso quando, interposto por fac-símile, não apresentada a petição original. II - É dever processual da parte zelar pela correta formação do instrumento. III - Agravo regimental improvido.” (AI 703.629-AgR/SP, de minha relatoria)
+    Observe-se, ademais, que o prazo previsto no art. 2º da lei 9.800/1990 é improrrogável e contínuo. Nesse sentido:
+    “EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PETIÇÃO DE AGRAVO REGIMENTAL APRESENTADA VIA FAC-SÍMILE. ORIGINAIS ENTREGUES FORA DO PRAZO -- IMPRORROGÁVEL E CONTÍNUO -- PREVISTO NA LEI Nº 9.800/99. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. Não padece de omissão o acórdão proferido de forma clara, precisa e suficientemente fundamentada. O acórdão embargado encontra-se em conformidade com a jurisprudência desta colenda Corte, no sentido de que o prazo previsto no art. 2º da Lei nº 9.800, de 16.05.1999, é improrrogável e contínuo. Precedentes: AIs 586.340-AgR e 421.944-AgR-ED-ED, de minha relatoria; AI 394.934-AgR-ED, Relator o Ministro Carlos Velloso; HC 88.894, Relator o Ministro Cezar Peluso; e AI 489.405-AgR, Relator o Ministro Sepúlveda Pertence. Embargos rejeitados ” (AI 510.418 AgR-ED/SC, Rel. Min. Ayres Britto).
+    Além disso, a parte embargante apenas alegou a ocorrência de greve, mas não juntou qualquer documento que comprovasse o fato, nem apontou os dias da alegada paralisação, o que inviabiliza a análise do pedido.
+    Por fim, considerando que não houve apresentação do original da petição 80139/2011 até a presente data, não há o que prover na petição em exame.
+    Ainda que superados tais óbices, não mereceria prosperar o presente recurso, porquanto a greve ou a falha dos serviços da Empresa Brasileira de Correios e Telégrafos (ECT) não configura força maior ou justa causa apta a ensejar a apreciação do apelo interposto extemporaneamente.
+    Isto posto, nada há a prover na petição em exame.
+    Publique-se.
+    Brasília, 22 de outubro de 2014.
+Ministro Ricardo Lewandowski
+Presidente
