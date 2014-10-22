@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão, ementado no que interessa:
+    “[...] EXECUÇÃO FISCAL DE PEQUENO VALOR – LEI MUNICIPAL Nº 3.809/2009 – INTERPRETAÇÃO TELEOLÓGICA – AUSÊNCIA DE INTERESSE DE AGIR – MATÉRIA DE ORDEM PÚBLICA – RECONHECIMENTO EX OFFICIO – POSSIBILIDADE – PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA [..]” (eDOC 6).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 5º, XXXV, do texto constitucional.
+    Nas razões recursais, sustenta-se que o limite fixado em lei municipal para execução fiscal é apenas uma faculdade a ser seguida pela Fazenda Pública, não cabendo ao magistrado extinguir o processo de ofício por ausência de interesse de agir quando o crédito não ultrapassar o referido limite (eDOC 8).
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, com relação à alegada ofensa ao artigo 5º, XXXV, da Constituição Federal, observo que esta Corte já apreciou a matéria na sistemática da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    No mais, o Tribunal de Justiça, ao interpretar a Lei Municipal 3.809/09, consignou que é matéria de ordem pública a aferição do interesse de agir, razão por que pode declarar de ofício a extinção do feito quando o valor da causa não ultrapassar o limite fixado na lei municipal.
+    Dessa forma, tendo em vista que o acórdão recorrido dirimiu a controvérsia com fundamento na legislação local aplicável à especie, eventual ofensa à Constituição Federal, se ocorrente, dar-se-ia de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+    Incide, portanto, o Enunciado 280 da Súmula de Jurisprudência desta Corte. Nesse sentido, destacam-se os seguintes precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL. SERVIDOR PÚBLICO DO ESTADO DE MINAS GERAIS. LEI ESTADUAL 10.470/91. DIREITO LOCAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. A decisão agravada está em perfeita consonância com o entendimento firmado por ambas as Turmas desta Corte no sentido de que é inviável em recurso extraordinário o debate de questão relativa a direito meramente local. Incidência da súmula 280/STF. Agravo regimental a que se nega provimento”. (RE-AgR 269.226/MG, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.11.2008)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. MINASCAIXA. LEI ESTADUAL N. 10.470/91. IMPOSSIBILIDADE DE EXAME DA LEGISLAÇÃO LOCAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE-AgR 425.300/MG, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 29.6.2007)
+    No mesmo sentido, destaco as seguintes decisões, entre outras: ARE 760.856/SE e RE 726.090/SE, Rel. Min. Cármen Lúcia; RE 683.299/SE, Rel. Min. Rosa Weber; e RE 711.391/SE, Rel. Min. Joaquim Barbosa.
+    Ademais, verifico que no RE 611.231-RG/SP, de relatoria da Ministra Ellen Gracie, DJe 27.8.2010, o Plenário manifestou-se pela inexistência de repercussão geral da controvérsia relativa à extinção de execução fiscal da União por ausência de interesse de agir, em razão do valor irrisório do débito executado. Consignou-se que a referida discussão possui natureza infraconstitucional. A propósito, trago à colação o referido julgado:
+    “TRIBUTÁRIO. EXTINÇÃO DA EXECUÇÃO FISCAL. FALTA DE INTERESSE DE AGIR. VALOR IRRISÓRIO DO DÉBITO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 22 de outubro de 2014.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
