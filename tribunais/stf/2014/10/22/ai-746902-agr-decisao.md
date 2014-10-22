@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra a decisão monocrática, na qual foi negado seguimento ao agravo de instrumento com fulcro no art. 557, caput, do CPC, maneja agravo regimental o Estado do Rio Grande do Sul.
+    O agravante reitera os argumentos trazidos no agravo de instrumento e aponta violação dos arts. 31, § 1º, 71, VIII e § 3º e 75, caput, da Constituição Federal. Alega que a discussão é exclusivamente sobre a competência do Estado para cobrar multa sancionatória aplicada pelo Tribunal de Contas Estadual à autoridade municipal e que a interpretação do leading case RE 223.037 não está correta (fls. 79-80). Sustenta que “(...) a multa de caráter punitivo aplicada pelo Tribunal de Contas reverterá aos cofres do ente público de direito interno ao qual aquela Corte está vinculada (…) se aplicada pela Cortes de Contas estaduais, o valor se integrará ao patrimônio do Estado respectivo(...)” (fl. 85).
+    Acórdão recorrido publicado em 11.10.2007.
+    É o relatório.
+    Assiste razão.
+    A matéria restou submetida ao Plenário Virtual que proclamou a existência de repercussão geral no ARE 641.896-RG/RJ, Rel. Min. Marco Aurélio, DJe 08.5.2013, cuja ementa transcrevo:
+    “LEGITIMIDADE – EXECUÇÃO DE MULTA APLICADA PELO TRIBUNAL DE CONTAS DO ESTADO – DANOS AO ERÁRIO MUNICIPAL – MATÉRIA CONSTITUCIONAL – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL VERIFICADA. Possui repercussão geral a controvérsia acerca da legitimidade para promover a execução de multa aplicada pelo Tribunal de Contas estadual a agente político, por danos causados ao erário municipal – se do estado ou do município no qual ocorrida a irregularidade.”
+    Esta Corte, em casos semelhantes, tem decidido pela devolução dos autos ao Tribunal de origem para os fins previstos no art. 543-B do CPC. Colho precedentes:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E CONSTITUCIONAL. TRIBUNAL DE CONTAS ESTADUAL. APLICAÇÃO DE PENALIDADE. EXECUÇÃO. LEGITIMIDADE ATIVA. REPERCUSSÃO GERAL RECONHECIDA. EMBARGOS PROVIDOS COM EFEITOS INFRINGENTES. I – Verifica-se, no caso, que o recurso extraordinário versa sobre matéria – legitimidade para promover execução de multa aplicada pelo Tribunal de Contas estadual – cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (ARE 641.896-RG/RJ, Rel. Min. Marco Aurélio). II – Embargos de declaração providos para, atribuindo-lhes excepcionais efeitos infringentes, cassar o acórdão embargado e a decisão agravada, e, assim, determinar, com base no art. 328, parágrafo único, do RISTF, a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC” (RE 606.306-AgR-ED/RS, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 13.8.2014).
+    “Embargos de declaração em agravo regimental em agravo de instrumento. 2. Legitimidade para execução de multa aplicada por Tribunal de Contas do Estado. Repercussão geral reconhecida. Mérito pendente. ARE-RG 641.896. 3. Embargos de declaração acolhidos. 4. Recurso extraordinário devolvido ao Tribunal de origem, com base no disposto no art. 543-B, do CPC” (AI 756.620-AgR-ED/RS, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 13.5.2014) .
+    Ante o exposto, torno sem efeito a decisão recorrida para aplicar o paradigma da repercussão geral (ARE 641.896-RG/RJ).
+    Devolvam-se os autos ao Tribunal a quo para os fins previstos no art. 543-B do CPC.
+    Publique-se.
+    Brasília, 22 de outubro de 2014.
+Ministra Rosa Weber
+Relatora
