@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROFESSOR. DEDICAÇÃO EXCLUSIVA. APOSENTADORIA EM CARGO ANTERIOR. ACUMULAÇÃO DE PROVENTOS E VENCIMENTOS. COMPATIBILIDADE DE HORÁRIOS: DESNECESSIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Segunda Região:
+    “ADMINISTRATIVO - AGRAVO INTERNO - PROFESSOR -DEDICAÇÃO EXCLUSIVA - APOSENTADORIA NO CARGO ANTERIOR -ACUMULAÇÃO DE CARGOS - POSSIBILIDADE.
+    - Não merece ser acolhido recurso de agravo interno onde o recorrente não apresenta qualquer subsídio capaz de viabilizar a alteração dos fundamentos da decisão hostilizada, persistindo, destarte, imaculados e impassíveis os argumentos nos quais o entendimento foi firmado.
+      - A jurisprudência firmada no âmbito do Superior Tribunal de Justiça, no sentido de que, em razão do atendimento do requisito constitucional da compatibilidade de horários, admite-se a acumulação de proventos de inatividade quando o servidor, já aposentado no primeiro cargo, opta pelo regime de dedicação exclusiva no segundo.
+    - Agravo interno desprovido” (grifos nossos).
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 37, inc. XVI e § 10, da Constituição da República.
+    A Agravante argumenta, em síntese, serem inacumuláveis os cargos de dedicação exclusiva.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de incidência da Súmula n. 284 do Supremo Tribunal Federal e de insuficiência de demonstração da repercussão geral.
+    4. A Procuradoria-Geral da República assim se manifestou:
+    “Recurso extraordinário com agravo. Cumulação de cargo em atividade com proventos - inaplicação do requisito de compatibilidade de horário. Acórdão recorrido em consonância com a jurisprudência do STF. Parecer pelo desprovimento do agravo”.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Inicialmente, cumpre afastar os fundamentos da decisão agravada, pois a fundamentação permite a compreensão da controvérsia e a Agravante demonstrou a repercussão geral da matéria.
+    A superação desses fundamentos não é suficiente para o acolhimento da pretensão da Agravante, não lhe assistindo razão jurídica.
+    7. O Supremo Tribunal Federal assentou:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE PROVENTOS E VENCIMENTOS. NATUREZA DOS CARGOS. REEXAME DE FATOS E PROVAS. APLICAÇÃO DA SÚMULA 279/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 22.8.2013. O acórdão recorrido não divergiu do entendimento deste Supremo Tribunal Federal no sentido de que não há falar em incompatibilidade de horários se o servidor público estiver aposentado em um dos cargos. Precedentes. A análise acerca da natureza dos cargos acumulados exigiria o reexame de fatos e provas da causa, o que é vedado a esta instância extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Precedentes. Agravo regimental conhecido e não provido” (RE 790.261-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 25.8.2014).
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Servidor público. Acumulação de proventos com vencimentos. Cargos acumuláveis. Compatibilidade de horário. Comprovação. Desnecessidade. Precedentes. 1. Nos casos em que for admissível a acumulação, não há falar em comprovação da compatibilidade de horários quando o servidor público pretender acumular proventos de aposentadoria com remuneração. 2. Agravo regimental não provido” (ARE 802.177-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 21.8.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ACUMULAÇÃO DE CARGOS PÚBLICOS. PERCEPÇÃO SIMULTÂNEA DE UM PROVENTO DE APOSENTADORIA COM A REMUNERAÇÃO DE OUTRO CARGO PÚBLICO. COMPATIBILIDADE DE HORÁRIOS. IMPERTINÊNCIA DO REQUISITO NO CASO. CONTROVÉRSIA SOBRE A NATUREZA DO CARGO. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. JULGAMENTO DA MATÉRIA NOS TERMOS DO ART. 557, CAPUT, DO CPC. AGRAVO IMPROVIDO. I - É impertinente a exigência de compatibilidade de horários como requisito para a percepção simultânea de um provento de aposentadoria com a remuneração pelo exercício de outro cargo público. Precedentes. II - A verificação da natureza do cargo de diretor de escola demanda a análise da Lei Complementar Estadual 836/1997, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. III - A existência de precedentes firmados por ambas as Turmas do Supremo Tribunal Federal a respeito do tema versado no apelo extremo possibilita o julgamento monocrático do recurso, nos termos do art. 557, caput, do CPC. IV - Agravo regimental improvido” (RE 709.535-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 18.3.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ACUMULAÇÃO DE DOIS CARGOS DE PROFESSOR. ARTIGO 37, XVI, DA CONSTITUIÇÃO DO BRASIL.
+    1. A acumulação de dois cargos de professor - um cargo inativo com outro em atividade - não viola do disposto no artigo 37, XVI, da Constituição do Brasil.
+    2. Não há incompatibilidade de horários se a servidora já se encontra aposentada em um dos cargos. Precedente. Agravo Regimental a que se nega provimento” (RE 547.731-AgR, Relator o Ministro Eros Grau, Segunda Turma, DJe 1º.8.2008).”
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de outubro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
