@@ -1,0 +1,21 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta pela União, em face de decisão do 5º Juizado Especial Federal da Seção Judiciária do Estado de Sergipe proferida nos autos do processo n. 0508049-51.2013.4.05.8500.
+    A decisão reclamada determinou a condenação da Reclamante ao pagamento das diferenças devidas, com juros e correção monetária “conforme manual de cálculos do CJF, obedecida a prescrição quinquenal”. (eDOC 7)
+    A reclamante alega que o Manual de Cálculos da Justiça Federal determina a aplicação do IPCA, para fins de atualização monetária, a partir de janeiro de 2001. Essa alteração deveu-se à imediata aplicação, pelo CJF, do que restou decidido na ADI n° 4.357.
+    Aduz que, ao assim decidir, o Juízo reclamado modulou os efeitos da declaração de inconstitucionalidade proferida pelo Supremo Tribunal Federal no julgamento da ADI n° 4.357/DF, usurpando sua competência.
+     Sustenta-se que enquanto não houver a modulação dos efeitos da decisão proferida na ADI n° 4.357 por essa Suprema Corte, deverá ser aplicada a sistemática anterior, prevista na Lei n° 11.960/2009, que determinava tão somente o índice de poupança (TR) para atualização monetária.
+    A Procuradoria-Geral da República opinou pela procedência da reclamação. (eDOC 13)
+    Decido.
+    Com razão a reclamante.
+    O Supremo Tribunal Federal, na sessão de 14.3.2013, julgou procedente, em parte, as ADIs 4.357, 4.372, e 4.425, Rel. Min. Ayres Britto, Red. para o acórdão Min. Luiz Fux, para declarar a inconstitucionalidade de diversas regras jurídicas que agravavam, para além dos limites impostos constitucionalmente, a situação jurídica do Poder Público como devedor.
+    Entre outros dispositivos, foi declarada a inconstitucionalidade da expressão índice oficial de remuneração da caderneta de poupança, contida no parágrafo 12 do art. 100 da Constituição, com a redação dada pela Emenda Constitucional 62/2009.
+    Em momento posterior, ao analisar pedido formulado pelo Conselho Federal da Ordem dos Advogados do Brasil nos autos a ADI 4357, em que se noticiava a paralisação do pagamento de precatórios por alguns Tribunais de Justiça do País, o Ministro Luiz Fux determinou, ad cautelam , a imediata continuidade do pagamento de precatórios, na forma como já vinham realizando até a decisão proferida pelo Supremo Tribunal Federal em 14/03/2013, segundo a sistemática vigente à época, respeitando-se a vinculação de receitas para fins de quitação da dívida pública, sob pena de sequestro .
+    A decisão acima referida veio a ser referendada pelo Plenário do Supremo Tribunal Federal em julgamento realizado em 24/10/2013.
+    Conclui-se, assim, que, até a decisão plenária do Supremo Tribunal Federal sobre a modulação de efeitos da declaração parcial de inconstitucionalidade da Emenda Constitucional 62/09, impõe-se o pagamento de precatórios na forma como vinham sendo realizados, não tendo eficácia, até que sobrevenha esse momento, as decisões de mérito tomadas nos autos das ações diretas de inconstitucionalidade acima citadas.
+    Dessa forma, o Juizado Especial Federal, ao aplicar o entendimento fixado no julgamento da ADI 4.357, sem considerar a suspensão da eficácia desse julgado, descumpriu a medida cautelar deferida pelo Ministro Luiz Fux e posteriormente referendada no Plenário deste Supremo Tribunal.
+    Nesse mesmo sentido, confiram-se os seguintes julgados: Rcl 17.483, Min. Celso de Mello, DJe 1º.8.2014; Rcl 17.516-MC, Rel. Min. Cármen Lúcia, DJe 2.4.2014; Rcl 26.705-MC, Rel. Min. Luiz Fuz, DJe 17.12.2013; Rcl 18.093, Rel. Min. Marco Aurélio, DJe 28.8.2014; Rcl 17.951-MC, Rel. Min. Dias Toffoli, DJe 1º.8.2014; Rcl 16.745, Rel. Min. Teori Zavascki, DJe 24.6.2014; e Rcl 17.622-MC, Rel. Min. Ricardo Lewandowski, DJe 13.6.2014.
+    Ante o exposto, julgo procedente a reclamação motivo pelo qual fica prejudicada a análise do pedido liminar, nos termos do art. 161, parágrafo único, do RISTF, para cassar o acórdão reclamado e determinar que outra decisão seja proferida pelo 5º Juizado Especial Federal da Seção Judiciária do Estado de Sergipe nos autos do processo n. 0508049-51.2013.4.05.8500 em observância aos limites fixados pelo Plenário desta Suprema Corte.
+    Publique-se.
+    Brasília, 23 de outubro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
