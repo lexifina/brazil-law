@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 15ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA.
+    Concessão de incentivos fiscais criados pela Lei 4.321/2004. Decreto nº 39.784/ 2006, que incluiu a empresa Rio de Janeiro Refrescos Ltda. no Programa de Atração de Investimentos Estruturantes - RIOINVEST, através do qual foi concedido diferimento do ICMS e crédito presumido de ICMS. Alegação de lesão ao erário. Matéria eminentemente tributária que não pode ser discutida através da Ação Civil Pública, conforme vedação expressa na lei 7.347/85, salvo se proposta pelo Ministério Público. Exegese que se impõe fazer, mesmo ante o julgado invocado pela apelante como paradigma, cujo conteúdo não se ajusta à hipótese concreta desta lide. Naquele julgamento concede-se legitimidade ao Ministério Público ante o que dispõe o inciso III do artigo 129 da Carta Magna, por força do qual se ampliaram os campos de atuação do “Parquet”. Ainda, não ostenta a autora recorrente legitimidade “ad causam”
+    RECURSO DESPROVIDO.”
+    Os embargos de declaração opostos foram rejeitados ante a ausência de omissão, contradição ou obscuridade justificadora de eventual acolhimento.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV; 37, caput; 129, III e § 1º; e 155, § 2º, XII, g, todos da Carta. Sustenta, em síntese, que (i) a Recorrente é regularmente constituída há mais de 1 ano e que atua institucionalmente na defesa dos seus associados e na efetiva proteção aos interesses metaindividuais, o que torna viável o ajuizamento da presente ação civil pública” e (ii) “a ação civil pública é o instrumento conveniente à reparação do dano causado ao erário.”
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos:
+    (i) “o acórdão recorrido decidiu a lide valendo-se de interpretação da legislação local. Tal circunstância distancia o caso concreto das competências definidas pela Constituição da República para as Cortes Superiores, configurando hipótese que atrai a incidência do verbete n. 280.”
+    (ii) “a jurisprudência sedimentada nas Cortes Superiores é pacífica a respeito, impondo-se observar os verbetes nº 279 e 07, das Súmulas do STF e STJ, respectivamente, que vedam o reexame dos fatos e/ou de provas.”
+    (iii) “não atende aos pressupostos de regularidade formal dos recursos de natureza excepcional e impede a exata compreensão da controvérsia, circunstâncias que atraem a incidência da Súmula 284, STF”
+    No agravo, a parte insiste na alegação de ofensa direta aos dispositivos constitucionais destacados no recurso extraordinário.
+    A pretensão não merece acolhida. De início, cumpre registrar que, ao apreciar a legitimidade da parte recorrente para o ajuizamento da ação civil pública, o acórdão recorrido consignou o seguinte:
+    “Ademais, ressalta-se inequívoca e manifesta a ilegitimidade “ad causam” da autora recorrente. Seu estatuto social deixa evidente que a mesma não ostenta a qualidade de entidade de classe, sendo mera associação civil. Observa-se que a autora não desempenha atividades que são consideradas pré-requisitos procedimentais para a propositura da ação civil pública, conforme expressamente previsto no artigo 5º, V, alínea “b”, da lei 7347.
+    Portanto, ao promover a presente ação, desviou-se ela, autora, das finalidades contidas no seu estatuto.”
+    (negrito acrescentado)
+    Inicialmente, destaco que a ilegitimidade ativa foi reconhecida à luz de disposições constantes do estatuto social da recorrente. Desta forma, o acolhimento da pretensão demandaria o reexame do acervo probatório. Mostra-se aplicável ao caso o teor da Súmula nº 279/STF.
+     Ademais, ressalto que a jurisprudência da Corte tem se orientado no sentido de que não se pode, em ação civil pública, deduzir pretensão relativa à matéria tributária, ainda que a demanda tenha sido proposta pelo Ministério Público. Confira-se, a propósito, a ementa do precedente a seguir transcrita:
+    DIREITO CONSTITUCIONAL. TRIBUTÁRIO. APELAÇÃO INTERPOSTA EM FACE DE SENTENÇA PROFERIDA EM SEDE DE AÇÃO CIVIL PÚBLICA QUE DISCUTE MATÉRIA TRIBUTÁRIA (DIREITO DOS CONTRIBUINTES À RESTITUIÇÃO DOS VALORES PAGOS À TÍTULO DE TAXA DE ILUMINAÇÃO PÚBLICA SUPOSTAMENTE INCONSTITUCIONAL). ILEGITIMIDADE ATIVA "AD CAUSAM" DO MINISTÉRIO PÚBLICO PARA, EM AÇÃO CIVIL PÚBLICA, DEDUZIR PRETENSÃO RELATIVA À MATÉRIA TRIBUTÁRIA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DA CORTE. REPERCUSSÃO GERAL RECONHECIDA . (ARE 694294, Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 544, § 4º, II, a , do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 23 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
