@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+    “PROCESSUAL CIVIL - AÇÃO  RESCISÓRIA  - VIOLAÇÃO LITERAL A DISPOSITIVO DE LEI - NÃO OCORRÊNCIA - AÇÃO DE ANULAÇÃO DE PROCESSO ADMINISTRATIVO  DISCIPLINAR  - AUSÊNCIA DE DEFESA TÉCNICA POR ADVOGADO - CERCEAMENTO DE DEFESA - NÃO CARACTERIZAÇÃO - INTELIGÊNCIA DO ENUNCIADO DA SÚMULA  VINCULANTE  Nº 5, DO STF - PEDIDO IMPROCEDNTE.
+- Para que a ação  rescisória  fundada no art. 485, V, do CPC, prospere, faz-se necessária que a ofensa a lei seja absoluta, flagrante e direta, contra a literalidade da norma jurídica vigente.
+- "A falta de defesa técnica por advogado no processo administrativo  disciplinar  não ofende a Constituição."
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 5º, LV, e 133 do texto constitucional.
+    O recorrente defende, em síntese, a nulidade do processo administrativo disciplinar que deu causa a sua demissão, tendo em vista a falta de defesa técnica.
+    Aduz que o processo teve início em 2005, época em que não existia a Súmula Vinculante nº 5, mas apenas o enunciado 343 da Súmula do STJ, que dispõe sobre a obrigatoriedade da presença de advogado em todas as fases do processo administrativo.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque o acórdão recorrido está em sintonia com a jurisprudência desta Corte que se firmou no sentido de que a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.
+    Outrossim, insta esclarecer que a alegação de que a Súmula Vinculante nº 5 só teria validade a partir de sua edição, no ano de 2008, não se revela plausível, eis que destituída de supedâneo jurídico.
+    Com efeito, o entendimento consignado na Súmula já estava pacificado no Supremo Tribunal Federal antes mesmo de sua edição, sendo que a aprovação deste enunciado pelo Plenário constitui tão somente a consolidação formal de uma jurisprudência reiterada.
+    Dessa forma, não há que se falar em violação ao contraditório e ampla defesa, ajustando-se o acórdão impugnado de forma plena e harmônica ao entendimento desta Corte. Nesse sentido:
+    “Recurso extraordinário. 2. Processo Administrativo disciplinar. 3. Cerceamento de defesa. Princípios do contraditório e da ampla defesa. ausência de defesa técnica por advogado. 4. A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição. 5. Recursos extraordinários conhecidos e providos” (RE 434.059, Rel. Min. Gilmar Mendes, Plenário, DJe 12.9.2008).
+“ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSO disciplinar. DIREITO DE DEFESA TÉCNICA. 1. O exercício da ampla defesa e do contraditório em Processo Administrativo disciplinar prescinde da presença de advogado. Precedentes. 2. A falta de defesa técnica por advogado habilitado no processo administrativo disciplinar não ofende a Constituição Federal. RE 434.059/DF. Súmula vinculante STF 5. 3. Agravo regimental improvido.” (AI 473.883-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 21.5.2010).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. FALTA DE DEFESA TÉCNICA EM PROCESSO ADMINISTRATIVO DISCIPLINAR. AUSÊNCIA DE VIOLAÇÃO À CONSTITUIÇÃO FEDERAL. SÚMULA VINCULANTE 5. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ADMINISTRATIVA. EXAME DE FATOS E PROVAS. SÚMULA 279. ANÁLISE DA LEI 8.112/1990. MATÉRIA INFRACONSTITUCIONAL. AGRAVO A QUE SE NEGA PROVIMENTO. I A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição. Súmula Vinculante 5. II O exame da ocorrência de prescrição da pretensão punitiva administrativa demanda o reexame de fatos e provas, bem como a análise de matéria infraconstitucional. III Agravo regimental a que se nega provimento.” (RE 780486 AgRg, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 01/07/2014)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, b, do CPC).
+    Publique-se.
+    Brasília, 23 de outubro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
