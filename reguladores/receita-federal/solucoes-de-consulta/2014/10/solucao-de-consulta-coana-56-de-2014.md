@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 56, de 9 de outubro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 7007.29.00 Mercadoria: Vidro de segurança formado por folhas de vidro contracoladas e entremeadas com camada de poli(butiral de vinila) (PVB). DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 70.07) e RGI 6 (texto das subposições 7007.2 e 7007.29) constante da TEC aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. n.º 7.660, de 2011, e em subsídios extraídos das Nesh, aprovadas pelo Dec. n° 435, de 1992, e atualizadas pela IN SRF n° 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 7007.29.00 Mercadoria: Vidro de segurança formado por folhas de vidro contracoladas e entremeadas com camada de poli(butiral de vinila) (PVB).
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 70.07) e RGI 6 (texto das subposições 7007.2 e 7007.29) constante da TEC aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. n.º 7.660, de 2011, e em subsídios extraídos das Nesh, aprovadas pelo Dec. n° 435, de 1992, e atualizadas pela IN SRF n° 807, de 2008, e alterações posteriores.
+CARLOS HUMBERTO STECKEL Presidente da 2ª Turma
