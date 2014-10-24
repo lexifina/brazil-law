@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 54, de 9 de outubro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9018.50.90 Mercadoria: Equipamento de oftalmologia para diagnóstico, que integra topografia, ceratometria e pupilometria. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 90.18), RGI/SH 6 (texto da subposição 9018.50) e RGC/NCM 1 (texto do item 9018.50.90) da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9018.50.90 Mercadoria: Equipamento de oftalmologia para diagnóstico, que integra topografia, ceratometria e pupilometria.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 90.18), RGI/SH 6 (texto da subposição 9018.50) e RGC/NCM 1 (texto do item 9018.50.90) da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011.
+LUIZ HENRIQUE DOMINGUES Presidente da 4ª Turma
