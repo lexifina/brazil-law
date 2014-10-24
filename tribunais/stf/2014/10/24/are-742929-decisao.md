@@ -1,0 +1,43 @@
+DECISÃO
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Vigésima Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AGRAVO. APELAÇÃO CÍVEL. CABIMENTO DO JULGAMENTO SINGULAR PELO RELATOR, UMA VEZ QUE DE ACORDO COM PRECEDENTES DO TRIBUNAL DE JUSTIÇA E DO STF.
+    A existência de posição do Tribunal de Justiça acerca da matéria, bem como de precedentes do STF, autorizavam o Relator a proceder ao julgamento singular, procedimento que visa uma jurisdição mais célere.
+    DIREITO PÚBLICO NÃO ESPECIFICADO. RESOLUÇÃO Nº 5.219/10 DO CONSELHO DE TRÁFEGO DO DAER. OBRIGAÇÃO DE CADASTRO NO RECEFITUR. IMPOSSIBILIDADE. LEGISLAÇÃO SOBRE TRÂNSITO E TRANSPORTE. COMPETÊNCIA. SOCIEDADE SEM FINS LUCRATIVOS.
+    A competência para legislar sobre trânsito e transporte é privativa da União, a teor do art. 22, XI, da CF, não podendo o Estado-membro, mediante resolução do DAER, condicionar as viagens de ônibus da parte autora ao cadastramento no RECIFITUR e à obtenção de licenças para tanto, mormente quando se trata de sociedade sem fins lucrativos, que utiliza o ônibus apenas para transporte de atletas em competições esportivas.
+    Precedentes do TJRGS e STF.
+    Agravo desprovido, por maioria”.
+    Sustenta o agravante, nas razões do recurso extraordinário, violação dos artigos 22, inciso XI, e 25, § 1º, da Constituição Federal.
+    Decido.
+    A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário. A matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os artigos 543-A e 543-B ao Código de Processo Civil, e o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução. Prevê o artigo 323 do Regimento Interno do Supremo Tribunal Federal, na redação da Emenda Regimental nº 21/07, que, quando não for o caso de inadmissibilidade do recurso extraordinário por outra razão, haverá o procedimento para avaliar a existência de repercussão geral na matéria objeto do recurso.
+    Esta Corte, com fundamento na mencionada legislação, quando do julgamento da Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento de que os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+    No caso em tela, o recurso extraordinário possui a referida preliminar e o apelo foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral.
+    Os artigos 543-A, § 3º, do Código de Processo Civil e 323, § 1º, in fine, do RISTF, na redação da Emenda Regimental nº 21/07, preveem que haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante desta Corte, o que, efetivamente, ocorre no caso dos autos.
+    Com efeito, o Plenário do Supremo Tribunal Federal, no julgamento do RE nº 201.865/SP, Relator o Ministro Carlos Velloso, DJ de 4/2/05, firmou o entendimento no sentido de que a regulamentação pelo ente estatal de transporte coletivo, no regular exercício de seu poder de polícia, não ofende a competência privativa da União para legislar sobre trânsito e transporte. Esse julgado restou assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. ESTADO-MEMBRO: PODER DE POLÍCIA ADMINISTRATIVA. ÔNIBUS: FRETAMENTO PARA FINS TURÍSTICOS: DECRETO ESTADUAL REGULAMENTADOR. Decreto 29.912, de 1989, do Estado de São Paulo.
+    I. - Fretamento de ônibus para o transporte com finalidade turística, ou para o atendimento do turismo no Estado. Transporte ocasional de turistas, que reclama regramento por parte do Estado-membro, com base no seu poder de polícia administrativa, com vistas à proteção dos turistas e do próprio turismo. CF, art. 25, § 1º. Inocorrência de ofensa à competência privativa da União para legislar sobre trânsito e transporte (CF, art. 22, XI).
+    II. - RE conhecido e não provido”.
+    Tratando especificamente sobre o tema versado nos presentes autos, transcrevo o teor da decisão proferida pelo Ministro Ricardo Lewandowski, em caso idêntico ao presente, nos autos do ARE nº 709.639/RS, DJe de 18/9/12, também interposto pelo ora agravante:
+    “Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    ‘APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA PREVENTIDO. RESOLUÇÃO 4.107/2004.
+    1. Trata-se de mandado de segurança preventivo ajuizado para o fim de afastar as limitações de quilometragem impostas em decorrência da idade do chassi do veículo da parte impetrante, julgado procedente na origem.
+    2. Os arts. 14 e 21 da Resolução de n.º 4.107/2004, editada pela DAER/RS impõe restrições ao uso em viagens de média e longa distância para veículos com mais de 20 anos de fabricação. Ocorre que ao editar a aludida norma regulamentar a autarquia estadual extrapolou sua competência, descurando que apenas a União Federal detém competência para legislar sobre trânsito e transporte. Inteligência do art. 22 da Constituição Federal. Precedentes desta e. Câmara.
+    3. Ademais, as disposições da Resolução nº 4.107/04 ofendem as diretrizes da Lei 9074/95, bem como o princípio da libre iniciativa a que a atividade de fretamento turístico está subordinada.
+    4. Sentença confirmada em reexame necessário.
+    POR MAIORIA, DESPROVERAM A APELAÇÃO E CONFIRAMRAM A SENTENÇA EM REEXAME NECESSÁRIO, VENCIDA A VOGAL QUE DAVA PROVIMENTO AO APELO E REFORMAVA A SENTENÇA EM REEXAME OFICIAL’.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 22, XI, da mesma Carta.
+    O agravo merece acolhida.
+    O Plenário do Supremo Tribunal Federal, no julgamento do RE 201.865/SP, Rel. Min. Carlos Velloso, firmou o entendimento no sentido de que a regulamentação pelo ente estatal de transporte coletivo sob o regime de fretamento, no seu exercício do poder de polícia, não ofende a competência privativa da União para legislar sobre trânsito e transporte. Por oportuno, transcrevo a ementa do referido julgamento:
+    ‘CONSTITUCIONAL. ADMINISTRATIVO. ESTADO-MEMBRO: PODER DE POLÍCIA ADMINISTRATIVA. ÔNIBUS: FRETAMENTO PARA FINS TURÍSTICOS: DECRETO ESTADUAL REGULAMENTADOR. Decreto 29.912, de 1989, do Estado de São Paulo.
+    I. - Fretamento de ônibus para o transporte com finalidade turística, ou para o atendimento do turismo no Estado. Transporte ocasional de turistas, que reclama regramento por parte do Estado-membro, com base no seu poder de polícia administrativa, com vistas à proteção dos turistas e do próprio turismo. CF, art. 25, § 1º. Inocorrência de ofensa à competência privativa da União para legislar sobre trânsito e transporte (CF, art. 22, XI).
+    II. - RE conhecido e não provido’.
+    Seguindo essa orientação, destaco, ainda, as seguintes decisões: AI 740.864/RS, RE 247.308/SP e RE 211.055/SP, Rel. Min. Joaquim Barbosa; RE 461.197/AL, Rel. Min. Ellen Gracie; RE 198.963/SP, Rel. Min. Carlos Velloso.
+    Isso posto, conheço do agravo para dar provimento ao recurso extraordinário (CPC, art. 557, § 1º-A). Sem honorários (Súmula 512 do STF)”.
+    Registre-se que essa decisão foi confirmada pela Segunda Turma desta Corte, no julgamento do ARE nº 709.639/RS-AgR (DJe de 5/6/14). O acórdão desse referido julgado foi sintetizado na seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ESTADO MEMBRO. PODER DE POLÍCIA. TRANSPORTE COLETIVO. FISCALIZAÇÃO DAS CONDIÇÕES DO VEÍCULO. SEGURANÇA DO USUÁRIO. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”.
+    Seguindo essa orientação, destaco, também, as seguintes decisões monocráticas a confirmar que a decisão objurgada afastou-se dos precedentes desta Corte: ARE nº 825.747/RS, Relatora a Ministra Cármen Lúcia, DJe de 18/9/14; ARE nº 716.794/RS, de minha relatoria, DJe de 22/4/14; e RE nº 632.360/RS, Relator o Ministro Ricardo Lewandowski, DJe de 18/6/12.
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do agravo e dou provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 24 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
