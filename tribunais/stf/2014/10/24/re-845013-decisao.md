@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    Opostos embargos de declaração, foram rejeitados.
+    As razões recursais indicam desrespeito aos seguintes dispositivos constitucionais: (a) art. 93, IX, ao argumento de que o acórdão recorrido deixou de analisar os principais elementos constantes das fundamentações apresentadas, mesmo após a oposição de embargos de declaração, devendo, portanto, ser considerado nulo por negativa de prestação jurisdicional; e (b) art. 5º, LIV e LV, por violação às garantias do contraditório, da ampla defesa e do devido processo legal, uma vez que a ausência de intimação dos atos processuais desde a autuação da apelação no TJDFT causou prejuízo à defesa do recorrente. Assevera que a republicação do acórdão não é suficiente para afastar a nulidade absoluta do ato judicial, devendo a instância de origem proceder a novo julgamento com a respectiva intimação das partes.
+    2. Quanto à alegação de ofensa ao artigo 93, IX, da Constituição Federal, relativa à suposta negativa de prestação jurisdicional, o Supremo Tribunal Federal firmou entendimento, do qual não divergiu o acórdão recorrido, no sentido de que deve ser observado o entendimento assentado no julgamento do AI 791.292 QO - RG (Min. GILMAR MENDES, DJe de 13/8/2010), assim sintetizado:
+    (…) o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    3. Ademais, o exame de suposta ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta Corte na análise do ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660), por se tratar de questão infraconstitucional. Registre-se que a decisão de inexistência de repercussão geral tem eficácia em relação a todos os recursos sobre matéria idêntica (art. 543-A, § 5º, do CPC c/c art. 327, § 1º, do RISTF).
+    Efetivamente, o acolhimento das alegações do recorrente demanda profunda análise de disposições da legislação ordinária, notadamente do Código de Processo Civil.
+    4. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 24 de outubro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
