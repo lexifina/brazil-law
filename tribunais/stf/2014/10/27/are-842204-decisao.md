@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PRESSUPOSTOS DE CABIMENTO DE AÇÃO RESCISÓRIA: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, als. a e c, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “DIREITO PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. MATÉRIA NÃO TRATADA NO ACÓRDÃO RESCINDENDO. INDEFERIMENTO DA INICIAL. OPORTUNIZAÇÃO DE EMENDA. INUTILIDADE DA MEDIDA. 1. Os fundamentos da ação rescisória devem guardar correspondência com a matéria decidida pelo acórdão rescindendo, não podendo tal ação ser utilizada como substituta de processo de conhecimento para questões ainda não examinadas pelo Poder Judiciário, sob pena de supressão de instância e desrespeito aos direitos constitucionais ao devido processo legal, à ampla defesa e ao contraditório. 2. Incabível a oportunização de emenda à inicial se o vício que gerou o indeferimento não se refere aos requisitos estampados nos artigos 282 e 283 do Código de Processo Civil. 3. Negou-se provimento” (fl. 10, doc. 7).
+    Os embargos de declaração opostos foram rejeitados (fls. 33-42, doc. 7).
+    2. No recurso extraordinário, os Agravantes afirmam ter o Tribunal de origem contrariado os arts. 5º, incs. XXXIV e LV, 37, caput, incs. I e II, da Constituição da República.
+    Sustentam que a decisão “indeferi[ndo] a petição inicial e extin[guindo] o processo sem julgamento de mérito, (...) está na contramão dos artigos 282, 283, 284, 285, e 462, e 485 do Código de Processo Civil, e se converteu num ato desumano; injusto, parcial e arbitrário, posto que, a ação preenchia e continua a preencher todos os requisitos legais e formais para sua admissibilidade” (fl. 86, doc. 7).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta (fls. 108-110, doc. 7).
+    No agravo, assevera-se que “a decisão proferida pelo Presidente do TJDF (…) não condiz com a verdade e com a realidade dos fatos, posto que, ao negar a subida do recurso extraordinário o fez de forma totalmente injusta; parcial; desmotivada, e equivocada” (fl. 35, doc. 8).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão pela qual não se admite recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal de origem limitou-se a reconhecer inexistirem os requisitos para propositura da ação rescisória:
+    “Cotejando-se, assim, o quanto foi decidido na ação de origem com a pretensão aduzida no presente pleito rescisório, verifica-se que se trata de assuntos diversos, não sendo adequada a via eleita. Como cediço, os fundamentos da ação rescisória devem guardar correspondência com a matéria decidida pelo acórdão rescindendo, não podendo tal ação ser utilizada como substituta de processo de conhecimento para questões ainda não examinadas pelo Poder Judiciário. Em outras palavras, significa dizer que o autor da ação rescisória deve formular pedido que não extrapole o substrato fático-jurídico já existente.
+    (…)
+    Dessarte, verifica-se que o vício que gerou o indeferimento da inicial não seria passível de ser sanado em eventual emenda à inicial. De se salientar, outrossim, que a emenda à inicial deve ser determinada quando o possível indeferimento se refira aos requisitos dos artigos 282 e 283 do Código de Processo Civil, o que não é o caso.
+    (…)
+    Observe-se que, para os fins do art. 485, VII, do Código de Processo Civil, considera-se documento novo aquele cuja existência era ignorada pelo autor da ação rescisória ou, ainda, aquele que, a despeito de ser de conhecimento do autor, dele não pode fazer uso, o que não é o caso das autoras“ (fls. 14-16, doc. 7).
+    Este Supremo Tribunal decidiu ser “a análise dos pressupostos de admissibilidade da ação rescisória matéria afeta à legislação infraconstitucional, de exame inviável no recurso extraordinário, uma vez que a afronta ao texto constitucional, caso houvesse, se daria de forma indireta ou reflexa” (AI 835.145-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 7.2.2013). Confira-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DA AÇÃO RESCISÓRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - É de natureza infraconstitucional o debate acerca dos pressupostos de admissibilidade de ação rescisória. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. Precedentes. II - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF. III - Agravo regimental improvido” (RE 655.192-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 5.6.2012).
+    Nada há, pois, a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de outubro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
