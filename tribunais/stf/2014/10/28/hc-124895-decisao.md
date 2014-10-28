@@ -1,0 +1,18 @@
+Decisão:
+Ementa: Habeas corpus impetrado contra decisão denegatória de liminar. Súmula 691/STF. Tráfico de entorpecentes. Condenação transitada em julgado. Regime inicial de cumprimento de pena determinado com base apenas na gravidade em abstrato do delito e em dispositivo legal já declarado inconstitucional pelo Supremo Tribunal Federal. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida no HC 306.266, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente, preso em flagrante em 26.09.13, foi condenado em primeira instância, pelo delito de tráfico de drogas (art. 33, caput e § 4º, da Lei 11.343/06), à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, mantida a prisão cautelar, e ao pagamento de 167 (cento e sessenta e sete) dias-multa. Segundo a sentença, o ora paciente teria sido surpreendido na posse “14 invólucros plásticos contendo cocaína, 32 invólucros plásticos contendo pedras de ‘crack’ e 13 invólucros plásticos contendo maconha”.
+    3. Da sentença, a defesa interpôs apelação no Tribunal de Justiça do Estado de São Paulo, requerendo a absolvição do paciente ou, sucessivamente, a alteração do regime inicial e a substituição da pena privativa de liberdade por outra restritiva de direitos. O recurso foi parcialmente provido apenas para reduzir a pena pecuniária para 166 (cento e sessenta e seis dias multa).
+    4. No Superior Tribunal de Justiça, o Relator do HC 306.266, Ministro Walter de Almeida Guilherme, indeferiu a liminar.
+    5. Neste habeas corpus, a Defensoria Pública do Estado de São Paulo afirma que o regime inicial de cumprimento de pena foi fixado em contrariedade à jurisprudência do Supremo Tribunal Federal. Alega ainda que o período de prisão cautelar autoriza a imediata fixação de regime prisional menos gravoso.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. Da mesma forma, o Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (v.g, RHC 119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski).
+    8. Na hipótese de que se trata, contudo, verifica-se que o regime inicial de cumprimento de pena foi estabelecido com fundamento apenas na gravidade em abstrato do delito e no art. 2º, §1º, da Lei nº 8.072/1990, em contrariedade à orientação consolidada pelo Tribunal no julgamento do HC 111.840, de relatoria do Ministro Dias Toffoli.
+    9. Nessas condições, e tendo em vista que o paciente já cumpriu período de prisão cautelar superior à metade da pena imposta, não conheço da impetração, mas concedo a ordem de ofício para fixar o regime inicial aberto e determinar ao Juízo da execução que verifique o preenchimento dos requisitos necessários para a substituição da pena privativa de liberdade por restritivas de direitos.
+    Comunique-se, com urgência.
+    Publique-se.
+    Intime-se.
+     Brasília, 28 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
