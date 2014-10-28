@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 277, de 29 de setembro de 2014
+ASSUNTO: Contribuição para o PIS/Pasep EMENTA: BASE DE CÁLCULO. FOLHA DE SALÁRIOS. AUXÍLIO-MATERNIDADE. Os valores de salário maternidade pagos pelas instituições de assistência social sem fins lucrativos de que trata o inciso III do art. 13 da MP nº 2.158-35, de 2001, integram a folha de salários e por conseguinte, a base de cálculo da Contribuição para o PIS/Pasep devida por referidas pessoas jurídicas. DISPOSITIVOS LEGAIS: arts. 13, 14 e 17 da MP nº 2.158-35, de 24 de agosto de 2001, inciso I do caput e § 2º do art. 22, e § 9º do art. 28 da Lei nº 8.212, de 24 de julho de 1991.
+[arquivo anexo: SC Cosit nº 277-2014.pdf]
