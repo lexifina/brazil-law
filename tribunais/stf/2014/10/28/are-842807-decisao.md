@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 2º, 5º, inciso LV, 37, 173, § 1º, inciso II, da Constituição Federal.
+    A Terceira Vice-Presidente do Superior Tribunal de Justiça não admitiu o apelo extremo em virtude do não recolhimento da multa aplicada naquele Tribunal com base no art. 557, § 2º, do CPC.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece reparos a decisão agravada, uma vez que a jurisprudência desta Corte é firme no sentido de não conhecer do recurso quando não recolhida a multa anteriormente aplicada ao recorrente com base no art. 557, § 2º, do CPC. A propósito:
+    “Agravo regimental no agravo de instrumento. Artigo 557, § 2º, do CPC. Multa aplicada ao Poder Público. Não recolhimento. Obrigatoriedade. Precedentes. 1. A jurisprudência da Suprema Corte é firme no sentido de que o recolhimento da multa processual prevista no art. 557, § 2º, do CPC também se impõe às pessoas jurídicas de direito público. 2. Agravo regimental não provido” (AI nº 761.862/PR-AgR, Primeira Turma, de minha relatoria, DJe de 8/10/14).
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. MULTA PREVISTA NO ART. 557, § 2º, DO CPC. AUSÊNCIA DE RECOLHIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO. I – O prévio depósito da multa aplicada, com base no art. 557, § 2º, do Código de Processo Civil, configura pressuposto objetivo de recorribilidade, sendo certo que a ausência de recolhimento inviabiliza o recurso, ainda que tenha sido interposto com o propósito de afastar a multa imposta. II – Agravo regimental não conhecido” (AI nº 594.561/MG-AgR-ED-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 14/11/11).
+    “RECURSO. Embargos de declaração. Multa aplicada em agravo regimental. Depósito não efetuado. Não satisfação da condição para interposição de recurso. Embargos não conhecidos. Aplicação do art. 557, § 2º do CPC. Não se conhece do recurso, quando não satisfeita uma das condições para sua interposição, como o depósito de multa por litigância de má fé” (AI nº 235.642/MG-AgR-ED, Primeira Turma, Relator o Ministro Cezar Peluso, DJe de 6/11/09).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 28 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
