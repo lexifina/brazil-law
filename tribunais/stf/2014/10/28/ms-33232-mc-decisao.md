@@ -1,0 +1,17 @@
+Decisão: Trata-se de mandado de segurança, com pedido de liminar, por meio do qual pretende o impetrante obter a anulação de decisão monocrática de Conselheiro do CNJ que, em pedido de providência, determinou ao Tribunal de Justiça do Estado do Amazonas TJAM que enviasse à Assembleia Legislativa, no prazo de 30 dias, projeto de lei dispondo sobre a reorganização notarial da cidade de Manaus/AM.
+    O impetrante aduz a ilegalidade da determinação, porque não precedida de notificação dos cartórios interessados, não observada a cláusula de reserva de plenário prevista no Regimento Interno do CNJ e por incidir em violação da autonomia do TJAM.
+    Por se tratar de determinação referente a projeto de lei de iniciativa do TJAM, foi determinada a sua oitiva antes do exame da pretensão liminar. Em sua manifestação, informou o TJAM que apenas adotou as medidas necessárias ao cumprimento da determinação do CNJ e que, nesse sentido, ordenou a elaboração de projeto de lei, mantendo a atual divisão territorial, que será levado a debate pelo Pleno da Corte para então encaminhá-lo à Assembleia Legislativa (eDOC 16).
+    O CNJ, em suas informações, sustenta que a determinação impugnada fundou-se em precedentes daquele Conselho e do STF. Alega, além disso, que não procedeu à notificação dos impetrantes porque, conforme precedente do STJ no MS 14.370/RS, os delegatários da atividade cartorária têm direito líquido apenas à delegação em si, não em relação aos imóveis das circunscrições onde atuam (eDOC 15).
+    Decido.
+    Vislumbro a presença do fumus boni juris e do periculum in mora.
+    É pacífica a jurisprudência do Supremo Tribunal Federal no sentido de que as leis que disponham sobre serventias judiciais e extrajudiciais são de iniciativa privativa dos Tribunais de Justiça, a teor do que dispõem as alíneas "b" e "d" do inciso II do art. 96 da Constituição da República. Precedentes: ADI 3773, Rel. Min. Menezes Direito, DJe 4.9.2009; ADI nº 1.935/RO, Rel. Min. Carlos Velloso, DJ 4.10.02; ADI nº 865/MA-MC, Rel. o Min. Celso de Mello, DJ 8.4.94.
+    A Constituição Federal reserva, nas hipóteses expressamente previstas no texto constitucional, a iniciativa do processo legislativo a apenas algumas autoridades ou órgãos. A iniciativa privativa, em tais casos, “visa subordinar ao seu titular a conveniência e oportunidade da deflagração do debate legislativo em torno do assunto reservado” (MENDES, Gilmar Ferreira e BRANCO, Paulo Gustavo Gonet. Curso de Direito Constitucional, 9ª ed. São Paulo: Saraiva, 214, p. 891).
+    Nesse contexto, a determinação do CNJ ao TJAM configura, a princípio, intervenção no juízo de conveniência e oportunidade daquela Corte, assegurado pela Constituição Federal nos dispositivos citados, em desencadear procedimentos legislativo de sua exclusiva iniciativa.
+    Ressalte-se que essa determinação – de impacto profundo nas atribuição do TJAM e dependente de complexa avaliação das circunstâncias fáticas – foi tomada por decisão singular, sem confirmação pelo colegiado do CNJ.
+    Ante o exposto, defiro o pedido de liminar para suspender a decisão exarada no Pedido de Providências n. 2301-56.2014.2.00.0000, sem prejuízo de que o TJAM aprecie o juízo de conveniência do exercício de sua iniciativa legislativa.
+    Comunique-se com urgência à autoridade impetrada e ao TJMS.
+    Após, remetam-se os autos ao Procurador-Geral da República para parecer.
+    Brasília, 28 de outubro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
