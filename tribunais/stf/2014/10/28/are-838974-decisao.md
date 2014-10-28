@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Rio Grande do Sul que reconheceu a prescrição do direito do recorrente de pleitear benefício previdenciário.
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário sustenta-se violação do artigo 5º, inciso XXXV, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    Com efeito, o art. 5º, inciso XXXV, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Por outro lado, é certo que a Corte de origem concluiu pela prescrição do direito do recorrente de pleitear pensão por morte amparado nas provas dos autos e na legislação infraconstitucional pertinente (Decreto federal nº 20.910/32), de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    Nesse sentido, os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO. DECRETO Nº 20.910/1932. AUSÊNCI A DE QUESTÃO CONSTITUCIONAL. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. Em casos análogos, esta Corte assentou que a hipótese envolveria a interpretação de legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Precedentes. O acórdão do Tribunal de origem apresenta fundamentação suficiente, embora em sentido contrário aos interesses da parte recorrente, circunstância que não configura violação ao art. 93, IX, da CF/88. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento” (ARE nº 797.410/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 16/9/14).
+    “Agravo regimental em recurso extraordinário. 2. Policial militar morto em serviço. Parcelas que compõem a pensão paga. Questão decidida com fundamento na legislação infraconstitucional (Decreto n. 20.910/32 e Lei Complementar n. 10.990/97). 3. Necessidade do reexame prévio da legislação local. Óbice da Súmula 280. Precedentes. 4. Agravo regimental a que se nega provimento” (RE nº 814.183/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 5/9/14).
+    “Agravo regimental no recurso extraordinário com agravo. Ofensa ao art. 5º, inciso XXXV, da Constituição Federal. Não ocorrência. Administrativo. Servidor público. Aposentadoria. Revisão. Prescrição. Verificação. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pela Corte de origem mediante decisão suficientemente motivada. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido” (ARE nº 781.423/RJ-AgR, Primeira Turma, minha relatoria, DJe de 24/6/14).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO CONTRA A FAZENDA PÚBLICA. PRAZO PRESCRICIONAL. ACÓRDÃO FUNDAMENTADO NO DECRETO N. 20.910/1932. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 776.908/DF-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 10/2/14).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 28 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
