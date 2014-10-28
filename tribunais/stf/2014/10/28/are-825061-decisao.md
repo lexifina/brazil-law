@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Quarta Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “PROCESSUAL CIVIL – AGRAVO DE INSTRUMENTO – AÇÃO ANULATÓRIA DE DÉBITO FISCAL – INDEFERIMENTO DE PROVA PERICIAL CONTÁBIL – MATÉRIA DE DIREITO – CERCEAMENTO DE DEFESA. INEXISTÊNCIA. DECISÃO MANTIDA.
+    I) O caso trazido à colação diz respeito ao pedido da agravante de produção de prova pericial contábil para que se verifique se há valor remanescente, em consequências das compensações realizadas, uma vez que a exequente afirma ser devido ainda o valor de aproximadamente R$ 200.000,00 (duzentos mil reais).
+    II) O requerimento de prova pericial deve ser precedido da especificação de controvérsia a ser dirimida, não bastando para seu deferimento simples inconformismo genérico e não fundamentado.
+    III) Não há que se falar em cerceamento de defesa, in casu, pois nenhum elemento de convicção foi apresentado, de modo a deixar clara a imprescindibilidade de prova pericial.
+    IV) O indeferimento de prova pericial ou a não apreciação do pedido não implicam cerceamento de defesa, salvo situações em que estes causem prejuízo à parte que a requereu.
+    V) Agravo de instrumento improvido. Prejudicado o agravo interno.”
+    Os embargos de declaração foram acolhidos tão somente para fins de prequestionamento.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Carta. Sustenta, em síntese, que não se pode admitir que o contribuinte seja impedido de produzir prova pericial contábil em ação ordinária que discute a correção do procedimento de compensação efetuado administrativamente, pois se trata de verdadeira afronta aos dispositivos constitucionais da ampla defesa e contraditório.
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos:
+    (i) “Compulsando-se os autos, observou-se que o v. acórdão recorrido decidiu a vexata quaestio baseado, tão somente, na legislação infraconstitucional pertinente ao caso. Diante deste panorama, eventual violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário, devendo incidir, na espécie, mutatis mutandis, o enunciado das Súmulas 636 e 638/STF”;
+    (ii) “Ademais, a questão sob exame, esbarraria no enunciado da Súmula 279 do Eg. STF, por implicar no revolvimento do conjunto fático-probatório, o que significa exceder o âmbito de cognição conferido ao recurso extraordinário pela Constituição Federal”.
+    Em sede de agravo, a parte sustenta a necessidade de retenção do recurso extraordinário, uma vez que a interposição se deu contra decisão interlocutória proferida em sede de ação de conhecimento. Ademais, insiste na alegação de ofensa direta aos dispositivos constitucionais destacados no recurso extraordinário.
+    Verifico que o objeto do recurso extraordinário é um acórdão proferido em sede de agravo de instrumento que apreciou questão incidental. Vê-se, portanto, que a hipótese comporta recurso extraordinário sob a forma retida, que não admite a possibilidade de processamento e de encaminhamento imediatos ao Supremo Tribunal Federal, para efeito de sua apreciação. Esse entendimento encontra ressonância na jurisprudência do Supremo Tribunal Federal, a propósito da mesma questão ora sob exame na presente causa (RE 252.714/DF, Rel. Min. Marco Aurélio e AI 217.018/SP, Rel. Min. Sepúlveda Pertence).
+    Diante do exposto, nego provimento ao presente agravo, por revelar-se prematura a apreciação do recurso extraordinário a que ele se refere, em face do que dispõe o art. 542, § 3º, do CPC. Desse modo, sem prejuízo do exame da pretensão recursal em causa vir a ocorrer em momento procedimentalmente oportuno, devolvam-se os presentes autos ao Tribunal de origem.
+    Publique-se.
+          Brasília, 28 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
