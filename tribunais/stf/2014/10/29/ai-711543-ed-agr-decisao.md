@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra decisão por mim proferida, mediante a qual aplicada a sistemática da repercussão geral e determinada a devolução do recurso à origem para os fins do art. 543-B do CPC, considerado o ARE 635.029-RG, maneja agravo regimental Sady Simonato. Insurge-se contra a decisão agravada ao argumento de que a questão em exame é distinta da veiculada no citado paradigma (fls. 169-74).
+    Acórdão recorrido publicado em 05.3.2007 (fl. 14).
+    É o relatório.
+    Decido.
+    Assiste razão.
+    Manifesto o erro material na aplicação da sistemática da repercussão geral ao presente feito, de ofício, nos termos do art. 463, I, do Código de Processo Civil, torno sem efeito a decisão de fls. 163-66, e passo ao exame do recurso.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento por Sady Simonato. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na alegação de afronta aos arts. 2º, 37, caput, 48, I, 87, 195, caput e § 4º e 201, § 4º, da Lei Maior.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não prospera a insurgência pelo prisma dos citados dispositivos da Constituição Federal, uma vez que, no caso, a definição dos índices de correção monetária aplicáveis aos benefícios previdenciários somente poderia ser solucionada partir da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário nos moldes exigidos pelo art. 102, III, “a”, da Lei Maior. Nesse sentido:
+    “DIREITO PREVIDENCIÁRIO. APOSENTADORIA. REAJUSTE PROPORCIONAL AO TETO PARA OS BENEFÍCIOS. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. PRECEDENTE DO PLENÁRIO VIRTUAL. ACÓRDÃO RECORRIDO PUBLICADO EM 27.2.2007. O exame da alegada ofensa à Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Agravo regimental conhecido e não provido” (AI 856.944-AgR/PR, de minha relatoria, 1ª Turma, DJe 23.9.2014).
+    “Agravo regimental no recurso extraordinário. Benefício. Índice de reajuste. Salário de contribuição. Equiparação. Ausência de repercussão geral. Precedentes. 1. O Plenário desta Corte, no exame do RE nº 686.143/PR, Relator o Ministro Cezar Peluso, entendeu pela ausência de repercussão geral do tema relativo “à possibilidade, ou não, de ser determinada em juízo a equivalência entre o limite máximo do salário-de-contribuição e a renda mensal dos benefícios previdenciários”, dado o caráter infraconstitucional do tema. 2. Agravo regimental não provido” (RE 626.710-AgR/PR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 12.3.2013).
+    “Agravo regimental em recurso extraordinário. 2. Índice para reajuste de benefício pago pelo Regime Geral de Previdência. Discussão de índole infraconstitucional. RE-RG 686.143, Rel. Min. Cezar Peluso, DJe 11.9.2012. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento” (RE 588.856-AgR/PR, rel. Min. Gilmar Mendes, 2ª Turma, DJe 15.4.2013).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Manifesto o erro material, nos termos da fundamentação, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de outubro de 2014.
+Ministra Rosa Weber
+Relatora
