@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Ladaire Samuel do Nascimento. Aparelhado o recurso na afronta ao art. 109, § 3º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional aplicável à espécie (Lei 10.259/2001), o que torna oblíqua e reflexa eventual ofensa, a inviabilizar o conhecimento do recurso extraordinário.
+    Destaco, ainda, que o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “EMENTA DIREITO CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JUIZADOS ESPECIAIS. COMPETÊNCIA. COMPLEXIDADE DA MATÉRIA. VALOR DA CAUSA. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA LEI MAIOR NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 25.9.2013. Inexiste violação do artigo 93, IX, da Constituição Federal. Na compreensão desta Suprema Corte, o texto constitucional exige que o órgão jurisdicional explicite as razões de seu convencimento, sem necessidade, contudo, do exame detalhado de cada argumento esgrimido pelas partes. Precedentes. Consoante jurisprudência do Supremo Tribunal Federal, a discussão acerca da competência dos juizados especiais, complexidade da matéria e valor da causa não alcançam estatura constitucional. Precedentes. O exame da alegada ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República. Agravo regimental conhecido e não provido”.
+(ARE 797.377-AgR, de minha relatoria, 1ª Turma, DJe 15.5.2014).
+    “Agravo regimental em recurso extraordinário. 2. Direito Previdenciário. Juizado especial. Valor da causa. Competência. Necessidade do revolvimento do conjunto fático-probatório dos autos. Incidência do Enunciado 279 da Súmula do STF. Matéria infraconstitucional. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento”.
+(RE 797.454-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 01.7.2014).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. COMPETÊNCIA DO JUIZADO ESPECIAL. VALOR DA CAUSA. 1. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. INVIABILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+(ARE 718.582-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 18.12.2012).
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de outubro de 2014.
+Ministra Rosa Weber
+Relatora
