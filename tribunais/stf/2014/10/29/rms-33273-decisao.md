@@ -1,0 +1,19 @@
+DECISÃO:
+Ementa: RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ALEGAÇÕES INSUFICIENTES PARA DESCONSTITUIR O JULGADO. 1. Embora tenha o recurso ordinário efeito devolutivo amplo, a parte não trouxe argumentos suficientes para desconstituir o julgado. 2. A decadência da impetração continua a obstar a apreciação, nesta via, do direito alegado. 3. Recurso a que se nega seguimento.
+    1. Trata-se de recurso ordinário em mandado de segurança contra acórdão proferido pelo STJ, com a seguinte ementa:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. RAZÕES RECURSAIS NÃO IMPUGNAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182/STJ.
+    1. ‘É inadmissível o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada’ (Súmula n. 182 do STJ).
+    2. Agravo regimental não conhecido.”
+    2. No presente recurso ordinário, o recorrente insiste no reconhecimento da decadência do direito de anular a portaria que o declarou anistiado, sob o seguinte fundamento:
+    “A contrario sensu do Acórdão ora atacado, se a necessidade de dilação probatória, acerca da má-fé do Recorrente ou de qualquer outro ato tendente a questionar a Portaria nº 1.905/03, inviabiliza a via mandamental, é porque a própria Administração Pública, personalizada na figura do MINISTRO DA JUSTIÇA, foi quem não logrou êxito em demonstrar a má-fé do ora Recorrente ou qualquer outro ato tendente a questionar a Portaria 1.905/03, tendo em vista que deu seguimento e já concluíra o Procedimento de Anulação, conforme consta pré-constituído e demonstrado exaustivamente nestes Autos com o DESPACHO nº 654, de 28/07/2011 e Portaria nº 1905/03, contanto sem demonstrar a má-fé do Recorrente ou outro ato que importe impugnação à validade da Portaria nº 1.905/03, o reconhecimento do instituto da DECADÊNCIA do direito de anular a Portaria nº 1.905 que anistiou o Recorrente, nos termos do art. 54, da Lei 9.784/99.”
+    3. A União ofereceu contrarrazões, em que alegou não ter o recorrente impugnado os fundamentos do acórdão recorrido, nem os fundamentos da decisão monocrática que lhe antecedeu.
+    4. É o relatório. Decido.
+    5. O writ objeto do presente recurso ordinário teve a ordem denegada, em razão da decadência do direito de impetrar mandado de segurança, pelo transcurso do prazo de 120 dias da ciência do ato impugnado. O subsequente agravo regimental não foi conhecido com fundamento na Súmula 182/STF: “É inadmissível o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada”.
+    7. Observo que o recorrente não atacou nenhum dos fundamentos dessas decisões, limitando-se a afirmar a decadência do direito de anular a portaria de anistia, com base no art. 54 da Lei nº 9.784/1999. Embora tenha o recurso ordinário efeito devolutivo amplo (nos moldes do art. 515 do CPC), a parte não trouxe argumentos suficientes para desconstituir o julgado atacado.
+    8. Deste modo, a decadência da impetração continua a obstar a apreciação, nesta via, do direito alegado. Isso porque o writ volta-se contra a Portaria nº 505, publicada em 23.03.2012, que anulou o ato concessivo de anistia política ao impetrante (Portaria nº 1.905, de 25.11.2003). Nesse momento começou a fluir o prazo de 120 (cento e vinte dias), previsto no art. 23 da Lei nº 12.016/2009, que se concluiu, portanto, em 23.07.2012. O presente mandado de segurança, contudo, foi impetrado apenas em 20.12.2013, o que revela a sua intempestividade.
+    9.  Assim, excedido, em muito, o prazo do art. 23 da Lei nº 12.016/2009, não cabe mais a impetração de mandado de segurança, ressalvadas ao impetrante as vias ordinárias.
+    10. Diante do exposto, com base no art. 557, caput, do CPC, e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de outubro de 2014
+Ministro LUÍS ROBERTO BARROSO
+Relator
