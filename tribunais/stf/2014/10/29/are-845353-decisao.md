@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO EM MANDADO DE SEGURANÇA COLETIVO. ILEGITIMIDADE. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra julgado do Tribunal Regional Federal da Quinta Região:
+    “PROCESSUAL CIVIL. PREVIDENCIÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REPRESENTAÇÃO PROCESSUAL DO SINDICATO. AUSÊNCIA DE NOME NA LISTA NOMINAL. ILEGITIMIDADE PARA EXECUTAR. (…)
+    A ausência do nome na lista dos representados processuais no Mandado de Segurança Coletivo que deu origem à execução de sentença sob exame constitui óbice intransponível para a eventual satisfação do julgado, na medida em que sequer figura como favorecida do título executivo judicial, não sendo, pois, reconhecida como credora na Execução. Apelação improvida”.
+     2. As Agravantes afirmam ter o Tribunal de origem contrariado o art. 5º, inc. LXX, da Constituição da República.
+    Alegam que
+    “buscam reformar as decisões anteriormente proferidas (…) negaram as mesmas o direito de executar decisão proferida nos autos do mandado de segurança coletivo, sob o fundamento equivocado de que por não constarem e relação nominal juntada aos autos após a prolação de sentença de mérito no Proc. 93.000813-7 – Mandado de Segurança Coletivo, entendendo de forma equivocada que a legitimidade no mandado de segurança coletivo seria a título de representação processual, o que confronta de forma explícita o entendimento deste Tribunal”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de prequestionamento.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada relativo à ausência de prequestionamento, pois a matéria foi objeto de oportuna impugnação.
+    A superação desse fundamento, todavia, não é suficiente para o acolhimento da pretensão das Agravantes.
+    6. O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal Federal.
+    No julgamento do Recurso Extraordinário n. 573.232/SC, Relator o Ministro Ricardo Lewandowski, Redator para o acórdão o Ministro Marco Aurélio, o Plenário deste Supremo Tribunal Federal assentou:
+    “REPRESENTAÇÃO – ASSOCIADOS – ARTIGO 5º, INCISO XXI, DA CONSTITUIÇÃO FEDERAL. ALCANCE. O disposto no artigo 5º, inciso XXI, da Carta da República encerra representação específica, não alcançando previsão genérica do estatuto da associação a revelar a defesa dos interesses dos associados. TÍTULO EXECUTIVO JUDICIAL – ASSOCIAÇÃO – BENEFICIÁRIOS. As balizas subjetivas do título judicial, formalizado em ação proposta por associação, é definida pela representação no processo de conhecimento, presente a autorização expressa dos associados e a lista destes juntada à inicial” (DJ 19.9.2014).
+    7. Ademais apreciação do pleito recursal demandaria análise da legislação infraconstitucional aplicável à espécie (Código de Processo Civil) e o reexame do conjunto fático-probatório do processo para aferir a presença dos nomes das Agravantes na lista dos representados. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide a Súmula n. 279 do Supremo Tribunal Federal:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Processual Civil. Liquidação. Necessidade. Improcedência. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos (Súmula nº 279/STF). 2. Agravo regimental não provido” (ARE 772.716-AgR/SP, Relator o Ministro Dias Toffoli, Primeira Turma, DJ 28.4.2014).
+    “Ementa: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO. LITISPENDÊNCIA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONTEXTO PROBATÓRIO DOS AUTOS. SÚMULA 279 DESTA CORTE” (AI 857.991-AgR/PR, Relator o Ministro Luiz Fux, Primeira Turma, DJ 24.6.2013).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. Execução de título extrajudicial. Acordo homologado em juízo. 3. Incidência do Enunciado 279 da Súmula do STF. 3. Limites objetivos da coisa julgada. Discussão de índole infraconstitucional. Ofensa reflexa. ARE-RG 748.371, Tema 660. 4. Agravo regimental a que se nega provimento” (ARE 828.991-AgR/RJ, Relator o Ministro Gilmar Mendes, Segunda Turma, DJ 23.9.2014).
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 29 de outubro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
