@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça que negou provimento ao agravo regimental no AREsp 540.074/PR.
+    Consta dos autos, em síntese, que (a) os pacientes foram denunciados pela suposta prática do crime de descaminho (art. 334, § 1°, “d” do CP, com redação anterior à Lei 13.008/2014), mas o juízo de primeira instância rejeitou a denúncia, por considerar atípica a conduta (princípio da insignificância); (b) o Tribunal Regional Federal da 4ª Região deu provimento ao recurso em sentido estrito para afastar a aplicação do princípio da insignificância e determinar o prosseguimento da ação penal; (c) inconformada, a defesa interpôs recurso especial para o Superior Tribunal de Justiça, ocasião em que a Ministra Relatora negou provimento ao apelo; (d) dessa decisão, foi interposto agravo regimental, que foi improvido, em acórdão assim ementado:
+    “(...)– Esta Corte firmou o entendimento no sentido de que "Não tem aplicação qualquer parâmetro diverso daquele fixado no recurso especial representativo de controvérsia, notadamente o de R$ 20.000,00 previsto na Portaria nº 75/2012 do Ministério da Fazenda, que regulamenta não a Lei nº 10.522/02, mas o Decreto-Lei nº 1.569/77, e, além disso, autoriza a execução de valores inferiores àquele" (EDcl no REsp 1.392.760/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 3/2/2014).
+    – A habitualidade criminosa obsta a incidência da princípio da insignificância, porquanto não atendido o requisito do reduzido grau de reprovabilidade do comportamento.
+    Agravo regimental desprovido.“.
+    Neste habeas corpus, a impetrante sustenta, em suma, que (a) é aplicável o princípio da insignificância, pois o valor total de impostos iludidos é de R$ 11.036,87; (b) a Lei 10.522/2002, atualizada pela Portaria 75/2012 do Ministério da Fazenda determina o não ajuizamento de execuções fiscais pela Fazenda Pública de débitos iguais ou inferiores a R$ 20.000,00, de modo que não há falar em lesão ao bem jurídico tutelado quando o valor do tributo seja inferior a este patamar. Requer, ao final, a concessão da ordem, para que seja reconhecida a atipicidade da conduta do paciente.
+    2. A concessão de medida liminar exige a presença dos requisitos próprios, entre os quais a demonstração da presença do periculum in mora, que, no caso, não foi feita. Ademais, ao que tudo indica, não está em risco imediato o direito de locomoção do paciente.
+    3. Com essas considerações, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 30 de outubro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
