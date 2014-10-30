@@ -1,0 +1,14 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 195, I, “b”, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o Plenário desta Corte, no julgamento da Repercussão Geral na Questão de Ordem no Recurso Extraordinário nº 585.235/MG, Relator o Ministro Cezar Peluso, decidiu pela inconstitucionalidade do alargamento da base de cálculo do PIS e da COFINS previsto no § 1º do artigo 3º da Lei nº 9.718/98. Anote-se a ementa do referido julgado:
+    “EMENTA: RECURSO. Extraordinário. Tributo. Contribuição social. PIS. cofins. Alargamento da base de cálculo. Art. 3º, § 1º, da Lei nº 9.718/98. Inconstitucionalidade. Precedentes do Plenário (RE nº 346.084/PR, Rel. orig. Min. ILMAR GALVÃO, DJ de 1º.9.2006; REs nos 357.950/RS, 358.273/RS e 390.840/MG, Rel. Min. MARCO AURÉLIO, DJ de 15.8.2006) Repercussão Geral do tema. Reconhecimento pelo Plenário. Recurso improvido. É inconstitucional a ampliação da base de cálculo do PIS e da cofins prevista no art. 3º, § 1º, da Lei nº 9.718/98” (RE n° 585.235/MG-QO-RG, Tribunal Pleno, Relator o Ministro Cezar Peluso, DJe de 28/11/08).
+    No mesmo sentido:
+    “CONSTITUCIONALIDADE SUPERVENIENTE - ARTIGO 3º, § 1º, DA LEI Nº 9.718, DE 27 DE NOVEMBRO DE 1998 - EMENDA CONSTITUCIONAL Nº 20, DE 15 DE DEZEMBRO DE 1998. O sistema jurídico brasileiro não contempla a figura da constitucionalidade superveniente. TRIBUTÁRIO - INSTITUTOS - EXPRESSÕES E VOCÁBULOS - SENTIDO. A norma pedagógica do artigo 110 do Código Tributário Nacional ressalta a impossibilidade de a lei tributária alterar a definição, o conteúdo e o alcance de consagrados institutos, conceitos e formas de direito privado utilizados expressa ou implicitamente. Sobrepõe-se ao aspecto formal o princípio da realidade, considerados os elementos tributários. CONTRIBUIÇÃO SOCIAL - PIS - RECEITA BRUTA - NOÇÃO - INCONSTITUCIONALIDADE DO § 1º DO ARTIGO 3º DA LEI Nº 9.718/98. A jurisprudência do Supremo, ante a redação do artigo 195 da Carta Federal anterior à Emenda Constitucional nº 20/98, consolidou-se no sentido de tomar as expressões receita bruta e faturamento como sinônimas, jungindo-as à venda de mercadorias, de serviços ou de mercadorias e serviços. É inconstitucional o § 1º do artigo 3º da Lei nº 9.718/98, no que ampliou o conceito de receita bruta para envolver a totalidade das receitas auferidas por pessoas jurídicas, independentemente da atividade por elas desenvolvida e da classificação contábil adotada” (RE n° 390.840/MG, Tribunal Pleno, Relator o Ministro Marco Aurélio, DJ de 15/8/06) (Grifo nosso).
+    Nego provimento ao agravo.
+    Publique-se.
+    Brasília, 30 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
