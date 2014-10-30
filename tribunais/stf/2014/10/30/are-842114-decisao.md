@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo que, em ação monitória, negara provimento ao apelo pela ausência de enfrentamento dos fundamentos da sentença.
+    2. A intempestividade do recurso impede seu conhecimento. A agravante interpôs agravo no dia 8/5/2014 (e-STJ, fl. 233), na pendência, portanto, da publicação da decisão recorrida, que somente ocorreu no dia 14/5/2014 (e-STJ, fl. 227). Não houve, em momento algum, ratificação do agravo interposto prematuramente, a fim de viabilizar a via eleita, de modo que a extemporaneidade impede o seu conhecimento. Neste sentido:
+    EMENTA: AGRAVO DE INSTRUMENTO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INOBSERVÂNCIA DO PRAZO RECURSAL. AGRAVO DE INSTRUMENTO INTEMPESTIVO. RECURSO NÃO CONHECIDO. RECURSO EXTRAORDINÁRIO QUE IMPUGNA INTERPRETAÇÃO DADA AO ARTIGO 595 DO CPP. RECURSO DE APELAÇÃO CONSIDERADO DESERTO PELA FUGA DO RÉU. HABEAS CORPUS CONCEDIDO DE OFÍCIO PARA DETERMINAR AO TRIBUNAL DE JUSTIÇA QUE REEXAMINE A ADMISSIBILIDADE DO RECURSO DE APELAÇÃO. PRECEDENTE. 1. Não merece prosperar o presente recurso, porquanto intempestivo. 2. O Recurso Extraordinário impugna decisão do Tribunal de Justiça que considerou deserta a apelação interposta porque o apelante, ora agravante, evadiu-se do distrito da culpa. 3. Habeas corpus concedido de ofício, para determinar ao Tribunal de Justiça que reexamine a admissibilidade do recurso de apelação. Precedente. 4. Recurso de Agravo de Instrumento não conhecido. Habeas corpus concedido, de ofício. (AI 548272/SP Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 20/6/2008)
+    3. Ante o exposto, não conheço do agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 30 de outubro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
