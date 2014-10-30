@@ -1,0 +1,13 @@
+Decisão: Trata-se de mandado de segurança contra ato do Tribunal de Contas da União consistente na alteração, por meio da Portaria 136/2007, do fundamento legal da aposentadoria da impetrante. A impetrante foi inicialmente aposentada, em 29.8.2002, com vencimentos integrais e isenção de imposto de renda, nos termos do art. 40, §1º, I, da Constituição Federal, art. 6º, XIV, da Lei 7.713/88 e art. 30 da Lei 9.250/95, por ser portadora de neoplasia maligna (carcinoma mamário).
+    Observou-se no referido laudo que, por se tratar de doença passível de controle, a impetrante deveria retornar para novo exame em 16.1.2007, em observância ao disposto no art. 30, parágrafo único, da Lei 9.250/95. Realizada a perícia na forma estabelecida no laudo anterior, concluiu a junta médica oficial que a impetrante não era mais portadora de neoplasia maligna.
+    Em razão dessa conclusão, o TCU, por meio do ato impugnado nesta ação, alterou o fundamento legal da aposentadoria da impetrante para o art. 40, III, da Constituição Federal, o qual disciplina a aposentadoria voluntária com vencimentos proporcionais, com o consequente cancelamento da isenção do imposto de renda. Em razão de recurso interposto pela impetrante, foi realizada nova perícia, com a mesma conclusão da perícia anterior.
+    Alega a impetrante, com base em diversos laudos médicos emitidos por especialistas em oncologia, juntados com a inicial (fls. 56-104), a persistência de sintomas da doença, com riscos de recidiva, o que autorizaria a manutenção da isenção fiscal. Aponta, em especial, o relatório médico de fl. 57, onde relatado que “a neoplasia maligna é considerada uma doença crônica, portanto incurável, porém controlável”, e que “a paciente … não pode ser considerada curada”.
+    Parecer do Ministério Público Federal pela denegação da segurança (fls. 130-134)
+    Decido.
+    A pretensão da impetrante ampara-se em relatórios médicos dissonantes, em certa medida, das conclusões dos laudos oficiais em que se fundamentou o ato impugnado. Temos, aqui, portanto, nítida divergência, entre profissionais igualmente habilitados, acerca do quadro de saúde da impetrante, circunstância a demandar, portanto, dilação probatória com vistas à aferição, por perícia judicial, da conclusão que há de prevalecer para a resolução do conflito. Identifica essa circunstância, mostra-se manifestamente inadequada, dessa forma, a via processual escolhida.
+    Ante o exposto, nego seguimento ao mandado de segurança, com fundamento no art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de outubro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
