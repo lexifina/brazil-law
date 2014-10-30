@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1502, de 29 de outubro de 2014
+Altera a Instrução Normativa SRF nº 633, de 22 de março de 2006, que dispõe sobre o regime fiscal adotado nas operações realizadas em mercados de liquidação futura.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 110 da Lei nº 11.196, de 21 de novembro de 2005, no art. 43 da Lei nº 12.249, de 11 de junho de 2010, e no Decreto nº 5.730, de 20 de março de 2006, resolve:
