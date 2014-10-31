@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5º, XXXVI, 195 e 201, § 1º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 195 e 201, § 1º, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que as decisões proferidas pela instância de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, para ultrapassar o entendimento da instância de origem e acolher a pretensão do agravante acerca da análise da incidência de juros e multa de mora sobre a indenização substitutiva de contribuições previdenciárias, seria necessária a análise da legislação infraconstitucional pertinente (Lei n° 8.212/91 e MP n° 1.523/96). Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “RECURSO EXTRAORDINÁRIO - BENEFÍCIO PREVIDENCIÁRIO DA PENSÃO POR MORTE - REVISÃO (LEI Nº 9.032/95) - DEBATE EM TORNO DA OCORRÊNCIA, NO CASO CONCRETO, DE SITUAÇÃO QUE PODE CARACTERIZAR, OU NÃO, A EXISTÊNCIA, NA ESPÉCIE, DE DIREITO ADQUIRIDO - HIPÓTESE REGIDA PELO ART. 6º DA LEI DE INTRODUÇÃO AO CÓDIGO CIVIL (LICC) - CONTENCIOSO DE MERA LEGALIDADE - CONFIGURAÇÃO, QUANDO MUITO, DE OFENSA REFLEXA AO TEXTO CONSTITUCIONAL - INVIABILIDADE DO RECURSO EXTRAORDINÁRIO - RECURSO IMPROVIDO. - A necessidade de constatação, em cada caso ocorrente, da configuração, ou não, do direito adquirido, do ato jurídico perfeito e da coisa julgada faz instaurar contencioso de mera legalidade, desvestido, por isso mesmo, de qualificação constitucional, eis que reside, na lei (LICC, art. 6º) - e nesta, tão-somente - a "sedes materiae" pertinente ao delineamento conceitual dos requisitos caracterizadores de tais institutos. Precedentes. - A decisão judicial que reconhece caracterizada, ou não, no caso concreto, a ocorrência do direito adquirido, do ato jurídico perfeito e/ou da coisa julgada, independentemente da controvérsia de direito intertemporal, regida por norma de sobredireito (CF, art. 5º, XXXVI), projeta-se em domínio revestido de caráter eminentemente infraconstitucional, não viabilizando, desse modo, por incabível, o acesso à via recursal extraordinária. Precedentes” (RE n° 414.556/SC-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 7/10/05) (Grifo nosso).
+    No mesmo sentido, as seguintes decisões monocráticas: AI n° 857.050/PR, Relatora a Ministra Cármen Lúcia, DJe de 17/12/12 e RE n° 552.158/RS, Relator o Ministro Cezar Peluso, DJe de 11/2/10.
+     Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
