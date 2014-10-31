@@ -1,0 +1,49 @@
+MANDADO DE SEGURANÇA. CONSELHO NACIONAL DE JUSTIÇA. ESTATIZAÇÃO DAS SERVENTIAS JUDICIAIS. DECADÊNCIA. RESOLUÇÃO DO CONSELHO DA MAGISTRATURA DO RIO GRANDE DO SUL. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MANDADO DE SEGURANÇA A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por João Carlos Fernandes Paim e outros, em que apontam como autoridade coatora o Conselho Nacional de Justiça.
+    Os impetrantes narram, inicialmente, que são contadores e escrivã de cartórios judiciais privatizados do Estado do Rio Grande do Sul.
+    Informam que este Supremo Tribunal Federal, no julgamento da ADI 1.498, declarou a inconstitucionalidade dos cartórios privatizados pela Lei estadual nº 9.880/1991, não tendo examinado a inconstitucionalidade dos cartórios criados pela Lei nº 10.544/1995. Dessa forma, a ADI não teria tratado de todos os cartórios judiciais privatizados do Estado.
+    Alegam que o Conselho Nacional de Justiça, no julgamento do Pedido de Preferências 200710000014814, proferiu a seguinte decisão:
+    “I – Declarar estatizadas as serventias judiciais do TJRS delegadas após a Constituição de 1988 e com fundamento nas Leis Estaduais 9.880/93 e 10.544/95;
+    II – Conceder ao Tribunal de Justiça do Rio Grande do Sul prazo de 60 dias para, acompanhado pela Comissão de Estatísticas e Gestão Estratégica do CNJ, elaborar plano e cronograma de efetivação da estatização, referida no item I;
+    III – Promover e apresentar ao CNJ o levantamento das receitas das serventias judiciais privatizadas, referidas no item I;
+    IV – Autorizar a permanência das pessoas que exercem atividades nessas serventias, até que haja o preenchimento dos cargos, de acordo com o cronograma aprovado ulteriormente pelo CNJ, a fim de evitar a descontinuidade dos serviços.”
+    Noticiam que, posteriormente, em 29/9/2011, foi editada a Resolução nº 885 do Conselho da Magistratura do TJ/RS, e que a estatização foi prevista para o dia 1º/10/2011.
+    Sustentam que não foram observados os princípios da ampla defesa e do devido processo legal.
+    Indicam que, passados mais de 20 anos, seria inviável a revisão dos atos pela Administração Pública.
+    Requerem seja concedida a gratuidade da justiça, nos termos da Lei 1.060/1950.
+    Pugnam, ao final, pelo deferimento de medida liminar para determinar à autoridade impetrada a manutenção dos impetrantes na titularidade dos cartórios até o julgamento de mérito do presente writ.
+    As informações foram prestadas (documento eletrônico nº 22).
+    A União requereu o seu ingresso no feito.
+    É o relatório. Decido.
+    Ab initio, defiro o pedido formulado pela União e a gratuidade da justiça requerida pelos impetrantes.
+    Em uma leitura atenta da petição vestibular, constata-se, de maneira inequívoca, que a real e única intenção dos impetrantes é a de que seja reconhecida a nulidade de resolução do Tribunal de Justiça que relacionou os cartórios que deveriam retornar ao sistema estatizado a partir de 1º/10/2011.
+    A exordial chega a ventilar uma suposta ilegalidade da decisão do CNJ proferida no Pedido de Preferências 200710000014814, julgado em 13/5/2008, que possui a seguinte ementa:
+    “EMENTA: SERVENTIAS JUDICIAIS. PRIVATIZAÇÃO APÓS A CONSTITUIÇÃO DE 1988. ESTATIZAÇÃO. A manutenção das serventias judiciais privatizadas após a Constituição de 1988 afronta o disposto no art. 31 do ADCT. Estatização imediata, com adoção de providências decorrentes.”
+    Nesse diapasão, faz-se necessário trazer excerto das informações enviadas pelo CNJ, verbis :
+    “Sustentou o requerente que referido Tribunal mantém diversos cartórios judiciais privatizados em afronta à decisão do Supremo Tribunal Federal, na ADI nº 1498-6/RS, que decidiu pela inconstitucionalidade das Leis Estaduais nº 9.880/93 e nº 10.544/95.
+    Após regular instrução, o feito foi levado à 62ª Sessão Ordinária para julgamento conjunto com o PP nº 0000077-58.2008.2.00.000, em 13 de maio de 2008, e o Conselho, por unanimidade, julgou parcialmente procedente os pedidos, nos termos do voto do relator.
+    Houve Pedido de Esclarecimentos levado a julgamento na 65ª Sessão Ordinária, em 24 de junho de 2008, na qual se decidiu, por unanimidade, rejeitar o pleito.
+    O TJRS propôs cronograma para efetivar a estatização “à razão de um terço (1/3) do total das serventias judiciais privatizadas, por ano, durante o prazo de três anos, a contar do mês de janeiro de 2010” (EVENTO 134).
+    A referida proposta foi encaminhada à Comissão Permanente de Gestão Estratégica, Estatística e Orçamento do CNJ, para análise (EVENTO 138), tendo em vista a expressa determinação contida nos procedimentos dos Pedidos de Providências nºs 0001481-81.2007.2.00.0000 e 0000077-58.2008.2.00.0000, autuando-se os autos de Comissão nº 0001325-59.2008.2.00.0000.
+    Após, o Conselheiro Leomar Amorim, a quem foi delegado o acompanhamento das decisões plenárias, proferiu o seguinte despacho:
+    ‘Em face das limitações orçamentárias, da necessidade de iniciativa legislativa, assim como obediência aos parâmetros da Lei de Responsabilidade Fiscal, tenho que as razões aduzidas pelo Tribunal justificam o cumprimento da decisão deste Conselho em três exercícios financeiros, isto é, no período de 2010 a 2012. Assim, aprovo o plano e o cronograma de estatização das serventias judiciais, na forma proposta no Ofício 283/2008.’
+    Após o referido despacho, os ora impetrantes requereram concessão de liminar, a fim de suspender o ato referente ao Expediente nº 0139-08/000452. A liminar foi indeferida pelo Ministro Cezar Peluso, que respondia pela presidência da Comissão à época, porque ausentes os requisitos ensejadores para sua concessão. Ademais, a proposta de cronograma apresentada pelo TJRS havia sido aprovada pelo então Conselheiro que acompanhava o procedimento (EVENTO 208).
+    Insatisfeitos, reiteraram o pedido de concessão de liminar. O pleito restou assim decidido pelo então Conselheiro Carlos Alberto (EVENTO 226):
+    ‘A matéria, diversamente do que sustentam, não implica discussão sobre o direito de defesa e de acesso ao contraditório, uma vez que não se trata de procedimento contencioso instaurado para dirimir conflito entre o TJRS e as serventias privatizadas do Estado. O caso é de cumprimento, pelo TJRS, da decisão do Conselho Nacional de Justiça conforme cronograma devidamente aprovado por este Órgão. Esclareço, definitivamente, que a questão objeto do presente Pedido de Providências já foi decidida pelo Plenário do CNJ, com a aprovação do cronograma de estatização das serventias, conforme apresentado pelo TJRS, não cabendo a este Conselho imiscuir-se nos critérios que fundamentam a escolha do TJRS para compor o grupo de cartórios que deve ser estatizado anualmente.
+    Ante o exposto, indefiro os pedidos formulados por meio das petições anexadas aos autos pelos citados Requerentes (REQAVU 125 e REQ 130 – eventos 223 e 224).”
+    O impetrante busca, na realidade, não a desconstituição do decisum do Conselho, mas a invalidação da Resolução nº 885/2011 do Conselho da Magistratura do Tribunal de Justiça do Rio Grande do Sul.
+    No que concerne ao pedido de anulação do ato do Tribunal de Justiça Estadual, o art. 102, I, d, da Constituição da República é bastante claro ao limitar a competência do Supremo Tribunal Federal ao julgamento de mandados de segurança “contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal “.
+    Evidente, assim, a incompetência desta Corte para a apreciação de mandamus impetrado contra ato do Tribunal de Justiça do Estado do Rio Grande do Sul.
+    A ilustrar essa assertiva, menciono o MS 32.568, Rel. Min. Luiz Fux, DJe 4/2/2014; o MS 31.979, Rel. Min. Gilmar Mendes, DJe 9/4/2013; o MS 28.639-AgR, Rel. Min. Ricardo Lewandowski, Pleno, DJe 8/8/2008; e o MS 29.342-AgR, Rel. Min. Cármen Lúcia, Pleno, Dje 4/10/2011, assim ementado:
+    “EMENTA: AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ATO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O impedimento ou a suspeição que autorizam o julgamento da demanda pelo Supremo Tribunal Federal, nos termos do art. 102, inc. I, alínea n, da Constituição da República, pressupõem a manifestação expressa dos membros do Tribunal competente para o julgamento da causa. 2. O Supremo Tribunal Federal não dispõe de competência originária para processar e julgar mandado de segurança impetrado contra ato de outros Tribunais judiciários, ainda que se trate do Superior Tribunal de Justiça. Precedentes. 3. Agravo regimental ao qual se nega provimento.”
+    Incide, na hipótese, a Súmula 624 do STF: “Não compete ao Supremo Tribunal Federal conhecer originariamente de mandado de segurança contra atos de outros Tribunais.”
+    Ainda que fosse considerada a decisão do CNJ, melhor sorte não socorreria aos impetrantes.
+    Quanto ao prazo decadencial para a impetração do mandado de segurança, a Lei nº 12.016/2009 predica o que segue em seu art. 23:
+    “O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado.”
+     A decisão do CNJ, proferida em 2008, deveria ter sido impugnada no prazo de 120 dias a contar da sua publicação, enquanto que o presente mandado de segurança somente foi protocolado em 2012.
+    Pelo exposto, nego seguimento ao mandado de segurança, na forma do art. 21, § 1º, do Regimento Interno desta Corte, ficando prejudicado o exame do pedido de liminar.
+    Publique-se. Intimem-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
