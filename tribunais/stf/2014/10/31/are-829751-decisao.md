@@ -1,0 +1,14 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 8ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 85):
+    “AGRAVO ITCD. BASE DE CÁLCULO. DÍVIDAS. NÃO INCIDÊNCIA.
+    As dívidas não devem ser acrescidas, mas abatidas do monte-mor para efeitos de base de cálculo de tributos, razão pela qual não podem servir de base para a incidência do ITCD.
+    Negaram provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 145, § 1°; 150, IV e 155, § 1°, todos da Carta. Sustenta que, em caso de separação judicial, a entrega a um dos cônjuges de bens de valores superiores à meação constitui doação sujeita à incidência do ITCD – Imposto de Transmissão por Doação, independente da existência de dívidas que pesem sobre os bens.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de ausência de prequestionamento da matéria constitucional ora em discussão. A parte agravante alega que a matéria constitucional foi objeto de discussão na ADIN n° 70007457880, utilizada como suporte de fundamentação do acórdão recorrido. No ensejo, reiterou as teses deduzidas no extraordinário.
+    A pretensão não merece acolhida. As alegações de ofensa à Constituição não foram apreciadas pelo acórdão impugnado, tampouco foram opostos embargos de declaração para sanar eventual omissão. Nesse ponto, portanto, o recurso extraordinário carece do devido prequestionamento (Súmulas 282 e 356/STF). Não obstante, no mérito, o acórdão recorrido encontra-se em harmonia com a diretriz jurisprudencial do Supremo Tribunal Federal. Neste sentido, confira-se a ementa do AI 733976, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no agravo de instrumento. ITCMD. Base de cálculo. Vedação às deduções do montante partilhável. Alegação de que a tributação sobre o valor integral desse montante não teria caráter confiscatório. Ofensa meramente reflexa. 1. A conformação do critério quantitativo, da forma elastecida adotada pela lei estadual, com a definição de base de cálculo que se extrai da norma geral, é questão prejudicial à conclusão pelo reconhecimento do caráter confiscatório. Resta, assim, evidenciado, tratar-se de contencioso de mera legalidade. 2. Mesmo se restasse superada a questão de a ofensa ser de ordem infralegal, cumpre observar que a vedação das deduções deforma a regra matriz de incidência do imposto, fazendo incidir tributo onde não há base imponível. 3. Agravo regimental não provido.” (Negrito acrescentado)
+    Diante do exposto, com base no art. 544, § 4°, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 31 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
