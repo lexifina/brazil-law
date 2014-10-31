@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 5ª Região, assim ementada, no que interessa:
+    “ADMINISTRATIVO. VESTIBULAR. ENEM. PROVA DE REDAÇÃO. REVISÃO DE NOTA. PODER JUDICIÁRIO. SUBSTITUIÇÃO À BANCA EXAMINADORA. IMPOSSIBILIDADE.” (eDOC, vol. 2, p. 79)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 5º, caput, XXXV e LIV; 93, X e 37, caput , todos do texto constitucional.
+    Nas razões recursais, argumenta-se afronta aos princípios da legalidade, da razoabilidade, moralidade e da publicidade. Aduz-se, em síntese, a ocorrência de vícios grosseiros por parte dos corretores do Enem, que contam com um inadmissível sistema, no qual não se admitem recursos contra a correção de seus profissionais.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque, não cabe ao Poder Judiciário, em consonância com o princípio constitucional da separação dos poderes, adentrar nos critérios de correção dos concursos públicos e vestibulares realizados pela Administração.
+    De fato, deve o Judiciário adstringir-se ao exame de legalidade do certame, não estando abrangidos por seu espectro de competência as nuances e peculiaridades relativas ao mérito das questões, vedação esta compatível a sistemática de freios e contrapesos.
+    Lado outro, ainda que assim não fosse, teria a instância de origem que proceder à interpretação das normas editalícias regentes do certame, bem como do conjunto fático-probatório, para se aferir eventual ilegalidade da correção da redação do candidato, ora recorrente.
+    Assim, de todo modo, não merece resguardo a impugnação em tela, eis que para se dissentir do entendimento adotado pelo Tribunal a quo , seria necessário reexaminar as cláusulas editalícias, bem como os fatos e provas constantes dos autos, o que é inviável em sede de recurso extraordinário, nos termos dos Enunciados 279 e 454 da Súmula do Supremo Tribunal Federal. Confira-se, a propósito, os seguintes precedentes:
+    REPERCUSSÃO GERAL EM RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. concurso PÚBLICO. CONTROLE JUDICIAL DE QUESTÕES E CRITÉRIOS DE CORREÇÃO DE PROVAS. A questão referente à possibilidade de o Poder Judiciário realizar o controle jurisdicional sobre o mérito das questões em concurso público possui relevância social e jurídica, ultrapassando os interesses subjetivos das partes. Repercussão geral reconhecida. (RE 632.853-RG, minha relatoria, Plenário Virtual, Tema 485, DJe de 2/3/2012.)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. NOTA DE CORTE. CORREÇÃO DA PROVA DE REDAÇÃO. NECESSIDADE DO REEXAME DE PROVAS E DA ANÁLISE DO EDITAL DO CONCURSO. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO.”(ARE nº 754.176/RS-AgR, Rel. Min. Cármen Lúcia , Segunda Turma, DJe de 17/12/13).
+    Por fim, conforme firme jurisprudência desta Corte, a mera alegação de violação aos limites objetivos dos primados constitucionais do devido processo legal, da ampla defesa, da coisa julgada, do ato jurídico perfeito e do direito adquirido é insuficiente para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma reflexa.
+    Cito, a propósito, os seguintes precedentes: AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011; RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011; RE-AgR 563.816, Segunda Turma, Rel. Min. Ellen Gracie, DJe 29.11.2010; AI-AgR 618.795 e o AI-AgR 660.254, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.5.2010).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
