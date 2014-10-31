@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra decisão que não conheceu do recurso extraordinário interposto contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+    “TRIBUTÁRIO. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. PRELIMINAR. PRECLUSÃO. REJEIÇÃO. MÉRITO. CERTIDÃO DE DÍVIDA ATIVA. PRESUNÇÃO DE CERTEZA E LIQUIDEZ. LEGITIMIDADE PASSIVA DE CREDOR FIDUCIÁRIO. RESPONSABILIDADE SOLIDÁRIA. INCIDÊNCIA DE LEI ESTADUAL. CONFIRMAÇÃO DA SENTENÇA.
+    A Certidão de Dívida Ativa goza de presunção de certeza e liquidez que somente pode ser ilidida por prova inequívoca, consoante artigo 204, do CTN.
+    Constatada a inexistência de manifestação legislativa da União a respeito do Imposto sobre Veículos Automotores (IPVA), cabe aos Estados e ao Distrito Federal a competência legislativa plena na espécie, conforme disposto no artigo 24, §3º, da Constituição Federal.
+    De acordo com o conceito civil de alienação fiduciária, o credor fiduciário tem a propriedade do bem, até a implementação de condição resolutiva. Sendo contribuinte do IPVA o proprietário de veículo automotor, no caso o credor fiduciário, e o devedor fiduciário, coobrigado solidário da obrigação tributária, não se vislumbra ilegitimidade passiva desses sujeitos na execução fiscal” (fl. 126).
+    Alega no apelo extraordinário violação do art. 155, III, da Constituição Federal.
+    Decido.
+    O Tribunal de origem decidiu a controvérsia atendo-se à legislação infraconstitucional aplicável à espécie (Código Civil, Código Tributário Nacional e Lei Estadual nº 14.937/03) e à interpretação do contrato de alienação fiduciária. Assentou ser proprietário do bem o credor fiduciário, até a implementação de condição resolutiva prevista no contrato. Concluiu pela possibilidade de o ente estatal exigir o pagamento do débito de IPVA tanto do credor fiduciário como do devedor fiduciário, em razão da existência de responsabilidade solidária.
+    Para ultrapassar o entendimento do acórdão recorrido e acolher a pretensão recursal, seria necessário o revolvimento da citada legislação ordinária e do mencionado contrato, o que é inviável em sede de recurso extraordinário. Eventual ofensa ao texto constitucional seria, se ocorresse, apenas indireta ou reflexa. Em caso análogo, assim decidiu esta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDAMENTAÇÃO. DECISÕES JUDICIAIS. IMPOSTO SOBRE SERVIÇOS. RESPONSABILIDADE SUPLETIVA. PREVISÃO DE LEI LOCAL COM BASE EM PERMISSIVO CONSTANTE DO CÓDIGO TRIBUTÁRIO NACIONAL. O Plenário deste Tribunal assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. O Código Tributário Nacional estabelece a possibilidade do ente competente, mediante lei, atribuir a responsabilidade pelo crédito tributário a terceira pessoa que guarde relação com o fato gerador. A dicção legal também remonta a possibilidade da responsabilidade do contribuinte ser mantida em caráter supletivo. A hipótese trata de lei local cuja imputação de responsabilidade tributária está em harmonia com as balizas previstas pela norma geral, qual seja, o Código Tributário Nacional. O acolhimento da pretensão importaria em reconhecer um potencial conflito entre leis, não havendo repercussão imediata na Constituição Federal. Agravo regimental a que se nega provimento” (ARE nº 765.302/MG-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 19/5/14 – grifei).
+    Em sentido convergente, cito a seguinte decisão monocrática: ARE nº 730.560/SP, Relatora a Ministra Cármen Lúcia, DJe de 3/4/13.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
