@@ -1,0 +1,23 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 1º, 2º, 18, 25 e 37, caput, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “ADMINISTRATIVO – MANDADO DE SEGURANÇA – AGENTE DE SEGURANÇA PENINTENCIÁRIO – CONTRATOS TEMPORÁRIOS – INGRESSO ANTERIOR À EC 57/2003 – AVERBAÇÃO DO PERÍODO LABORADO, PARA FINS DE ADICIONAIS POR TEMPO DE SERVIÇO E FÉRIAS PRÊMIO – POSSIBILIDADE – SEGURANÇA PARCIALMENTE CONCEDIDA – RECURSO PRINCIPAL PROVIDO E, NO MAIS, SENTENÇA CONFIRMADA NO REEXAME NECESSÁRIO, PREJUDICADA A APELAÇÃO ADESIVA.
+     - O mandado de segurança consubstancia remédio de natureza constitucional, destinado a proteger direito líquido e certo contrato ilegal ou abusivo de poder emanado de autoridade pública.
+    - Os artigos 112 e 118, do Ato das disposições Constitucionais Transitórias (ADCT) da Constituição Estadual, inseridos pela Emenda Constitucional nº 57, de 15.07.2003, não fazem qualquer distinção entre os servidores públicos. Assim, considerando que o suplicante se encontrava em efetivo exercício da função pública de Agente de segurança Penitenciário na data da promulgação da EC nº 57/2003, com base em contratos temporários, tendo, posteriormente, sido aprovado em concurso público, dúvida não há de que faz jus a averbação do período de serviço público prestado para efeitos de adicionais por tempo de serviço e férias-prêmio.
+    - Recurso principal provido e, no mais, sentença confirmada no reexame necessário, prejudicada a apelação adesiva.”
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    As instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente. Assim, o acolhimento da pretensão recursal demandaria o reexame da referida legislação e do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280/STF. Sobre o tema:
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 15/4/05).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REGIME CELETISTA. CONTAGEM DO TEMPO DE SERVIÇO PARA FINS DE RECEBIMENTO DE FÉRIAS-PRÊMIO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I – Inviável o recurso extraordinário quando sua apreciação demanda reexame, por esta Corte, da legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 do STF. Precedentes. II – Agravo regimental improvido”. (ARE nº 684.517/MG-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, Dje de 24/09/2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO: INCORPORAÇÃO DE QUINTOS E DÉCIMOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 725.112/DF-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, Dje de 8/05/2009).
+    Nesse mesmo sentido, anote-se as seguintes decisões monocráticas: RE nº 591.419/MG, Relator o Ministro Gilmar Mendes, DJe de 9/6/14; e AI nº 830.625/MG, Relatora a Ministra Cármen Lúcia, DJe de 4/2/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
