@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Turma Recursal da Seção Judiciária do Estado de Pernambuco, assim ementado:
+    “PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. TRABALHADOR RURAL. EMPREGADO RURAL. TEMPO DE SERVIÇO ANTERIOR A 1991. RECONHECIMENTO PARA EFEITO DE CARÊNCIA. CONVERSÃO DO TEMPO ESPECIAL EM COMUM. APLICAÇÃO DA LEGISLAÇÃO VIGENTE À ÉPOCA DO EXERCÍCIO DA ATIVIDADE. ATIVIDADE EXERCIDA ANTES DE 28.04.1995. PRESUNÇÃO DE INSALUBRIDADE POR ENQUADRAMENTO PROFISSIONAL. APÓS, NECESSIDADE DE COMPROVAÇÃO DE EXPOSIÇÃO EFETIVA A AGENTES NOCIVOS. RECURSO DO INSS IMPROVIDO. ATIVIDADE RURAL EM AGROINDÚSTRIA/AGROPECUÁRIA. PERÍODO ANTERIOR À LEI 9.032/95. ENQUADRAMENTO PROFISSIONAL. ITEM 2.2.1 DO DECRETO n° 53.831/64. RECURSO PROVIDO. SENTENÇA REFORMADA”.
+    Opostos embargos de declaração pela parte autora, foram providos para saneamento de erro material.
+    Alega o recorrente violação dos artigos 1º, inciso IV, 2º, 5º, caput, inciso LIV e LV; 37, caput; 93, inciso IX; 195, § 5º; 201, caput e § 1º, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos pela parte recorrente para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, a discussão acerca da implementação dos requisitos para a aposentadoria do segurado da previdência social, bem como a análise das questões acerca do enquadramento das atividades exercidas, se especiais ou não, estão restritas à interpretação da legislação infraconstitucional (Decretos nºs 83.080/79 e 53.831/64, Lei n° 9.032/95), ao reexame dos fatos e provas que compõem a lide, operações vedadas em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CÔMPUTO DE TEMPO DE SERVIÇO EM CONDIÇÕES ESPECIAIS PARA EFEITO DE CONCESSÃO DE APOSENTADORIA. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA” (AI n° 762.244/MG-AgR, Primeira Turma,, Relator o Ministro Luiz Fux, DJe de 25/9/12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n° 665.429/SC-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º/8/12).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
