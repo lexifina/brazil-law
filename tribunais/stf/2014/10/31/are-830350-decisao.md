@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    O Banco Santander (Brasil) S/A interpõe agravo contra decisão que não admitiu recurso extraordinário assentado em contrariedade ao art. 5º caput, XXXV, LIV e LV da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da 2ª Câmara Cível do Tribunal de Justiça de Pernambuco, assim ementada:
+    “CIVIL E PROCESSUAL CIVIL. AGRAVO LEGAL (ART. 557, §1º, CPC). NEGATIVA DE SEGUIMENTO À APELAÇÃO CÍVEL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. MATÉRIA NÃO SUSCITADA NA CONTESTAÇÃO. IMPOSSIBILIDADE DE CONHECIMENTO. PRECLUSÃO CONSUMATIVA. PRECEDENTES DO STJ. CONFISSÃO DO AGRAVANTE QUANTO À EXISTÊNCIA DAS CADERNETAS DE POUPANÇA. ART. 334, III, CPC. RECURSO IMPROVIDO.
+    De acordo com o princípio da concentração da defesa, todas as matérias de defesa devem ser trazidas no momento de apresentação da contestação sob pena de preclusão. Dessa forma, as teses suscitadas após a prolação da sentença não podem ser consideradas como fundamento para sua modificação, na medida em que não foram objeto de apreciação pelo juiz primevo. Impossibilidade de conhecimento das alegações acerca da suposta ausência de obrigação de manter os documentos por um prazo superior a 05 (cinco) anos, e da inversão do ônus da prova. Inovação recursal incabível no presente momento processual, diante da preclusão consumativa, por não haver sido suscitada no momento próprio, como exige o art. 300 do CPC.
+    Apesar da menção ao art. 359, II, do CPC na sentença, tal fato, por si só, não é suficiente para caracterizar que tenha sido aplicada a presunção de veracidade pelo MM Juiz a quo. Existência das cadernetas de poupança que a parte adversa assevera existirem. Aplicação do art. 334, III do CPC.
+    Recurso Improvido”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá quando não for o caso de inadmissibilidade do recurso por outra razão.
+    A irresignação não merece prosperar, haja vista que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da isonomia, legalidade, do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição da República, o que não enseja reexame em recurso extraordinário. Neste sentido, recente jurisprudência:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
