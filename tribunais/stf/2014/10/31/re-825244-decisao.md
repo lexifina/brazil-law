@@ -1,0 +1,13 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade ao artigo 97 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o Tribunal de origem não declarou a inconstitucionalidade, nem de forma implícita, dos artigos 60, § 3º, da Lei nº 8.213/91, e 22, I, 28, I, § 9º, da Lei nº 8.212/91, mas tão somente interpretou os referidos dispositivos, não havendo que se falar, portanto, em desrespeito à cláusula de reserva de plenário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO E PROCESSUAL CIVIL. 1. CONTRIBUIÇÃO PREVIDENCIÁRIA. PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA. NATUREZA JURÍDICA. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. 2 . RESERVA DE PLENÁRIO. AUSÊNCIA DE CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA DA REPÚBLICA. INEXISTÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE DE LEI FEDERAL. PRECEDENTES . 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 802.663/ES-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/6/12) (grifo nosso).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. CONTRIBUIÇÕES PARA O SESC, SENAC, SESI, SENAI, SAT E SEBRAE. MULTA MORATÓRIA. ARGUIÇÃO DE INOBSERVÂNCIA DA CLÁUSULA DE reserva DE PLENÁRIO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. O princípio da reserva de plenário resta indene nas hipóteses em que não há declaração de inconstitucionalidade por órgão fracionário do Tribunal de origem, mas apenas a interpretação e a conclusão de que a lei invocada não é aplicável ao caso em apreço. Precedentes: AI 684.976-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 02/06/2010; e RE 612.800-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe de 05/12/2011. 2. In casu, o acórdão recorrido originariamente assentou: Tributário. Contribuição Previdenciária. Legalidade do SAT. Constitucionalidade da cobrança das contribuições para o SESC, SENAC, SESI, SENAI e SENAC das empresas que atuam no ramo industrial e comercial. Precedentes. Aplicação da taxa SELIC como índice de atualização dos débitos fiscais. Multa Moratória no percentual de até 20%, a teor do disposto no art. 59 da Lei n. 8.383/91. Apelação parcialmente provida. 3. Agravo regimental desprovido” (ARE nº 676.006/PB-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 6/6/12) (grifo nosso).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
