@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Município de Diadema interpõe agravo contra decisão que não admitiu recurso extraordinário, com fundamento na alínea a do permissivo constitucional, contra acórdão da Terceira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    "PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO - DESAPROPRIAÇÃO ALEGAÇÃO DO CREDOR DE QUE HÁ SALDO DEVEDOR EM ABERTO CONTINUIDADE DA EXECUÇÃO - INVOCAÇÃO DA COISA JULGADA E DE DESOBEDIÊNCIA AOS CRITÉRIOS DE CÁLCULO JÁ FIXADOS - COISA JULGADA QUE, DE FATO, PREPONDERA E NÃO PERMITE A REABERTURA DA DISCUSSÃO ACERCA DE ÍNDICES PLEITO ALTERNATIVO ACOLHIDO PARA VERIFICAÇÃO DA QUITAÇÃO DOS VALORES DEVIDOS, PELA CONTADORIA JUDICIAL DE ORIGEM, POSSIBILITANDO, INCLUSIVE, SE O CASO, OS DEBATES E A OPORTUNA EXTINÇÃO DA EXECUÇÃO OU A SUA CONTINUIDADE POR VALORES REMANESCENTES. RECURSO PROVIDO EM PARTE."
+    Alega o recorrente violação dos artigos 33 e 78 do Ato das Disposições Constitucionais Transitórias, bem como à Súmula Vinculante nº 17.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se que o acórdão atacado não cuidou da questão relativa à incidência de juros moratórios ou compensatórios, tendo concluído, tão somente, pela “remessa dos autos à Contadoria Judicial de origem, para apuração de eventual dívida da municipalidade, em aberto”. Do voto do relator destaca-se a seguinte passagem:
+    “No caso dos autos, correta a decisão de fls. 24/25 e que trancou a possibilidade das partes tornarem a discutir a fórmula de cálculo da indenização. Tais questões já estão acobertadas, definitivamente, pal coisa julgada.
+    Noto que a execução, contudo, ainda não foi extinta e, nesse passo, adequado se revela o pedido alternativo pelo agravante e que atende ao escopo último do processo que é promover a efetividade do título executivo judicial a ser cumprido integralmente. Não vejo prejuízo na remessa dos autos à contadoria judicial de primeira instância para que aquela serventia verifique a exata liquidação do título, inclusive em virtude do acórdão do E. STJ de fls. 303/307.
+    A diligência não implica em se reconhecer diferenças a favor dos recorrentes e nem a quitação dos valores devidos pela municipalidade, mas tem como único escopo fornecer subsídios à atividade jurisdicional, até mesmo para que se possa, se o caso, decretar-se como extinta a obrigação e encerrada a execução”.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
