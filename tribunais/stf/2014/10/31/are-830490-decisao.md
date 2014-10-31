@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    O Estado do Rio Grande do Norte interpõe agravo contra decisão que não admitiu recurso extraordinário assentado em contrariedade ao arts. 5º, II; 37, caput e 40, §§ 2º e 8º, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Rio Grande do Norte, assim ementado:
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. CONSTITUCIONAL. PREVIDENCIÁRIO. REMESSA NECESSÁRIA. REVISÃO DE PROVENTOS. PROFESSORA APOSENTADA DA REDE ESTADUAL. APOSENTADORIA CONCEDIDA COM BASE EM CARGA HORÁRIA INTEGRAL DE 40 HORAS SEMANAIS. NOVO ESTATUTO DO MAGISTÉRIO ESTADUAL. LCE Nº 322/06. PERCEBIMENTO ATUAL DE VALOR EQUIVALENTE A 30 HORAS SEMANAIS. REDUÇÃO DA CARGA HORÁRIA. IMPOSSIBILIDADE. RESTABELECIMENTO QUE SE IMPÕE DE ACORDO COM ATO APOSENTADOR. SÚMULA 359 DO STF. NECESSIDADE DE PRESERVAÇÃO DA IRREDUTIBILIDADE DE VENCIMENTOS. CONHECIMENTO E IMPROVIMENTO DA REMESSA NECESSÁRIA. PRECEDENTES”.
+    Não foram opostos embargos de declaração.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá quando não for o caso de inadmissibilidade do recurso por outra razão.
+    A irresignação não merece prosperar.
+    Relativamente aos artigos 5º, II e 40, §§ 2º e 8º, carecem do necessário prequestionamento, sendo certo que o acórdão proferido pelo Tribunal de origem não cuidou da matéria, a qual, também, não foi objeto de embargos declaratórios. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Por fim, no que concerne à suposta violação ao caput do art. 37 da Constituição, verifico que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, moralidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III Agravo regimental improvido” (AI nº 812.481/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski , DJe de 1º/2/11).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
