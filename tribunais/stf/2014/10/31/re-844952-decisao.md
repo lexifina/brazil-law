@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se recurso extraordinário interposto contra acórdão da 8ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “TRIBUTÁRIO E CONSTITUCIONAL. TAXA DE LIMPEZA PÚBLICA DO MUNICÍPIO DE BELO HORIZONTE. LEI MUNICIPAL 5.641/1989. INCONSTITUCIONALIDADE DECLARADA PELO STF. IPTU. IMUNIDADE. TAXA DE FISCALIZAÇÃO DE APARELHOS DE TRANSPORTES. CONSTITUCIONALIDADE E LEGALIDADE DA COBRANÇA. HONORÁRIOS ADVOCATÍCIOS.
+    1. Ilegítima a cobrança da taxa de limpeza urbana, tendo em vista ter como fato gerador a prestação de serviço inespecífico, indivisível, não mensurável, e cuja utilização, efetiva ou potencial, é insuscetível de referência individual. (STF – E-AGR 357.140/MG, Relator Ministro Sepúlveda Pertence, DJ de 30/04/2007).
+    2. A Empresa Brasileira de Correios e Telégrafos, apesar de ter sido constituída como empresa pública federal, possui natureza tipicamente pública por prestar serviço público sujeito à responsabilidade exclusiva da administração direta.
+    3. A atividade exercida pela ECT é abarcada pela imunidade tributária recíproca, garantia da federação estatuída no art. 150, VI, a, da Constituição Federal.
+    4. Legítima a cobrança da Taxa de Fiscalização de Aparelhos de Transportes – TFAT, que tem amparo no art. 145, II, da CF, e no art. 77 do CTN. A TFAT é cobrada em decorrência do exercício regular do poder de polícia, ou a utilização, efetiva ou potencial, do serviço público, específico e divisível, prestado ou colocado à disposição do contribuinte no âmbito do Município de Belo Horizonte.
+    5. A base de cálculo da TFAT não se confunde com a do IPTU, assim como sua cobrança se justifica a partir da infraestrutura criada para fiscalizar o funcionamento dos aparelho de transporte em Belo Horizonte.
+    6. Tratando-se de embargos à execução parcialmente acolhidos, e considerando a sucumbência mínima da embargante, é razoável a fixação dos honorários advocatícios no valor de R$ 1.000,00, a teor do contido no art. 21, parágrafo único, cumulado com o art. 20, § 4°, do CPC.
+    7. Apelação da Fazenda Pública do Município de Belo Horizonte a que se nega provimento.
+    8. Apelação da Empresa Brasileira de Correios e Telégrafos – ECT a que se dá parcial provimento.”
+    Foram opostos embargos de declaração, os quais foram rejeitados.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 145, II e 93, IX, da Carta. Sustenta, em síntese, que a discussão em exame não é, a princípio, decorrente do ato de cobrança da TFAT – Taxa de Fiscalização de Aparelhos de Transporte, mas sim, em “prima facie” a admissão “a contrário lege” de cobrança de tributo sem a observância de sua hipótese de incidência “exercício regular de poder de polícia” – art. 77/78, parágrafo único do CTN, art. 145 – II da CF. Aduz que não se verifica, na prática, o exercício do poder de polícia por parte do Município de Belo Horizonte que justifique a cobrança da taxa. A melhor interpretação do dispositivo constitucional violada indica que não basta o hipotético exercício, mas sim um que efetivamente se realize.
+    O recurso não merece prosperar, tendo vista que o acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal, que assentou o entendimento de que as taxas, enquanto tributos sinalagmáticos, devem remunerar serviços efetivos ou potencias em favor do contribuinte, os quais deverão ser específicos e divisíveis. Confirmando tal entendimento, confira-se trecho do acórdão recorrido:
+    “Em suas razões de apelação, pugna a Empresa Brasileira de Correios e Telégrafos pela revisão dos honorários fixados e pela ilegitimidade da cobrança da Taxa de Fiscalização e Aparelhos de Transporte – TFAT.
+    Essa taxa é fundada no poder de polícia do Município relativamente à preservação da segurança pública e tem como fato gerador a fiscalização exercida sobre a instalação, conservação e funcionamento de elevadores de passageiros e cargas, alçapões, monta cargas, escadas rolantes, planos inclinados móveis e outros de natureza especial (art. 15 da Lei 5.641/1989).
+    Não obstante às alegações da apelante, não há vício na cobrança da TFAT, que tem amparo no art. 145, II, da CF e no art. 77 do CTN. Além de sua base de cálculo não se confundir com a do IPTU, sua cobrança se justifica a partir da infraestrutura criada para fiscalizar o funcionamento dos aparelhos de transporte em Belo Horizonte.
+    Ou seja, a TFAT é cobrada em decorrência do exercício regular do poder de polícia, ou da utilização, efetiva ou potencial, do serviço público, específico e divisível, prestado ou colocado à disposição do contribuinte no âmbito do Município de Belo Horizonte.
+    O contribuinte desta taxa é toda pessoa física ou jurídica, proprietária, titular do domínio útil ou possuidora, a qualquer título do imóvel edificado ou em fase de edificação.
+    Aplicável in casu o entendimento consolidado no STF quanto à taxa de licença e fiscalização para localização e funcionamento, conforme precedentes
+    (…)
+    Inconteste, assim, a constitucionalidade e a legitimidade da cobrança da Taxa de Fiscalização de Aparelhos de Transportes.”
+    Ademais, para dissentir do acórdão recorrido e concluir pela natureza inespecífica e indivisível dos serviços abarcados pela taxa em discussão, seria necessário o reexame do conjunto probatório dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF.
+    Com relação às demais alegações, destaco não haver ressonância constitucional. (AI 839.621 AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski).
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 31 de outubro de 2014.
+Ministro Luís Roberto Barroso
+Relator
