@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Câmara Cível do Tribunal de Justiça do Estado do Ceará, assim ementado:
+    “DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PREVIDENCIÁRIO – REESTRUTURAÇÃO DA CARERIRA MILITAR – EXTINÇÃO DE GRADUAÇÕES E POSTOS POR OCASIÃO DE FUTURAS VACÂNCIAS – VANTAGEM OU BENEFÍCIO REMUNERATÓRIO IMEDIATO E AUTOMÁTICO PARA OS MILITARES EM ATIVIDADE – INOCORRÊNCIA – GARANTIA DO MERO DIREITO DE PRECEDÊNCIA DE FUTURA PROMOÇÃO – SENTENÇA DE PROCEDÊNCIA – APELAÇÃO – REFORMA – IMPROCEDÊNCIA DO PEDIDO INICIAL.
+    A lei que reestrutura a carreira dos militares do Estado do Ceará, mediante a extinção de graduações e postos, por ocasião das futuras vacâncias, ao tempo em que assegura aos titulares dos cargos a serem extintos apenas o direito de precedência de ulterior promoção, não promove qualquer transformação ou reclassificação de cargo, nem concede qualquer benefício ou vantagem remuneratória extensível aos inativos e pensionistas, com fundamento na garantia constitucional da paridade”.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do artigo 40, § 8º, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    Colhe-se do voto condutor do acórdão atacado as seguintes fundamentações:
+    “De tudo quanto exposto, parece exato concluir que, se a Lei nº 13.035/2000 não traduziu qualquer concessão de benefício ou de vantagem remuneratória imediata e automática para os militares em atividade, ainda que por via de transformação ou de reclassificação de cargo, como sobejamente demonstrado, não há incremento remuneratório a ser estendido, sob o fundamento da paridade entre ativos e inativos, às pensões percebidas pelas autoras.
+    In casu, nem mesmo se o instituidor da pensão vivo fosse e em atividade estivesse, sua situação na carreira militar estadual seria alterada, mediante promoção imediata e automática, pelo só fato da edição da Lei nº 13.035/2000”.
+    Nesse caso, para acolher a pretensão da parte recorrente e ultrapassar o entendimento do Tribunal de origem seria necessária a interpretação da legislação infraconstitucional pertinente e o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Anote-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MILITAR. REQUISITOS PARA PROMOÇÃO. NORMAS INFRACONSTITUCIONAIS. SÚMULA 280 DO STF. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO IMPROVIDO. I – A jurisprudência de ambas as Turmas do STF é pacífica no sentido de que, no caso dos autos, o exame do preenchimento dos requisitos para a promoção do militar demanda a análise de legislação infraconstitucional (Leis 10.072/76 e 13.035/00 e a Lei estadual 226/48), e também do conjunto fático-probatório dos autos. Incidem, no caso, as Súmulas 279 e 280 do STF. II – Agravo regimental improvido” (RE nº 610.217/CE–AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 11/11/10).
+    Nesse sentido, as seguintes decisões monocráticas: RE nº 633.089/CE, Relatora a Ministra Cármen Lúcia, DJe de 15/12/10; RE nº 630.816/CE, Relator o Ministro Ayres Britto, DJe de 6/12/10; AI nº 805.494/CE, Relator o Ministro Marco Aurélio, DJe de 6/10/10; e RE nº 598.364/CE, de minha relatoria, DJe de 1°/4/13 .
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 31 de outubro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
