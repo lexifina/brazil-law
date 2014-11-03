@@ -1,0 +1,22 @@
+Decisão:
+Ementa: Habeas corpus. Homicídio qualificado. Alegação de legítima defesa. Pretensão de afastamento da qualificadora referente ao motivo fútil. Inexistência de contrariedade à jurisprudência do Supremo Tribunal Federal. Ordem denegada.
+    1. Trata-se habeas corpus, com pedido de concessão de medida liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, de relatoria da Ministra Assusete Magalhães, assim ementado:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO A RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. POSSIBILIDADE. ART. 544, § 4º, II, B, DO CPC C/C ART. 3º DO CPP. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA.APRECIAÇÃO DA MATÉRIA EM JULGAMENTO COLEGIADO. TENTATIVA DE HOMICÍDIO QUALIFICADO. MOTIVO FÚTIL. DISCUSSÃO ANTERIOR ENTRE AUTOR E VÍTIMA. POSSIBILIDADE DE CONFIGURAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+    I. A negativa de seguimento ao Recurso Especial, de forma monocrática, após o conhecimento do Agravo, está prevista no art. 544, § 4º, II, b, do CPC c/c art. 3º do CPP, sendo possibilitada quando o recurso estiver em confronto com Súmula ou jurisprudência dominante do STJ. De outra parte, a apreciação das questões expendidas no Recurso Especial, quando do julgamento colegiado do Agravo Regimental, torna superada a alegação de ofensa ao princípio da colegialidade.
+    II. O entendimento afirmado na decisão agravada – no sentido de que a discussão anterior, entre autor e vítima, não descaracteriza, por si só, a qualificadora do motivo fútil – encontra-se de acordo com precedentes da Quinta e da Sexta Turmas do Superior Tribunal de Justiça.
+    III. Incidência da Súmula 83/STJ, do seguinte teor: ‘não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida’.
+    IV. Agravo Regimental desprovido.”
+    2. Extrai-se dos autos que o paciente foi pronunciado pela prática do crime previsto no artigo 121, § 2º, II, c/c o artigo 14, II, ambos do Código Penal.
+    3. Da sentença, a defesa interpôs recurso em sentido estrito, requerendo a desclassificação do crime de tentativa de homicídio para o delito de lesão corporal, ou, subsidiariamente, o afastamento da qualificadora prevista no artigo 121, § 2º, II, do Código Penal. O Tribunal de Justiça do Estado de Alagoas negou provimento ao recurso.
+    4. Do acórdão estadual, foram opostos embargos declaratórios, rejeitados. Em seguida, a defesa interpôs recurso especial, inadmitido na origem.
+    5. Ato contínuo, foi interposto agravo em recurso especial. A Ministra Assusete Magalhães, do Superior Tribunal de Justiça, negou seguimento ao recurso. Foi apresentado, então, agravo regimental, não provido pelo colegiado daquele Tribunal Superior.
+    6. Neste habeas corpus, alega-se que, “como é perceptível no decorrer do depoimento prestado pelo paciente e pelas testemunhas outrora arroladas em audiência judicial, é claro e evidente que não há qualificadora prevista no parágrafo §2°, inciso II, do Código de Penal Brasileiro. Pois o paciente não teve motivo fútil, mas reagiu em legítima defesa e por pura provocação da vítima que não respeitou a sua vontade quando inclusive o paciente pede que não se aproxime dele”. Requer-se, assim, o afastamento da qualificadora prevista no artigo 121, § 2º, II, do Código Penal.
+    Decido.
+    7. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que “o afastamento ou reconhecimento da existência de qualificadoras situa-se no âmbito da competência funcional do tribunal do Júri, órgão constitucionalmente competente para apreciar e julgar os crimes dolosos contra a vida” (HC nº 66.334-6/SP, Tribunal Pleno, redator para o acórdão o Ministro Moreira Alves, publicado no DJ de 19/05/89), salvo se forem manifestamente improcedentes e incabíveis (HC 108.374, Rel. Min. Luiz Fux). A título ilustrativo, vejam-se também o HC 108.533, Rel. Min. Ricardo Lewandowski, e o HC 115.171, Rel. Min. Gilmar Mendes.
+    8.  Ademais, é inviável, em sede de habeas corpus, o acolhimento da tese de que o paciente teria agido em legítima defesa, tendo em vista a impossibilidade de reexame do conjunto fático do processo de origem.
+    9. Nessas condições, inexistindo contrariedade à orientação do Supremo Tribunal Federal, com base no art. 192 do RI/STF, denego a ordem.
+    Publique-se.
+    Intime-se.
+          Brasília, 03 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
