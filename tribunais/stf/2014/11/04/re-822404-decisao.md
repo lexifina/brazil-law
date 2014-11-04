@@ -1,0 +1,10 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, ao apreciar questão constitucional assemelhada à versada na presente causa, acolheu e aprovou proposta de Súmula Vinculante (PSV 42), de que resultou a Súmula Vinculante nº 20, cujo enunciado possui o seguinte conteúdo:
+    “A Gratificação de Desempenho de Atividade Técnico- -Administrativa – GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória nº 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.”
+    De outro lado, cumpre enfatizar, quanto à discussão em torno da extensão, ou não, da Gratificação de Desempenho de Atividade de Apoio Técnico-Administrativo à Polícia Rodoviária Federal (GDATPRF) aos servidores inativos, que “Em situações semelhantes, este Supremo Tribunal Federal tem estendido o entendimento firmado no julgamento da citada GDATA a outros casos em que se discutem gratificações similares no sentido de que a falta de regulamentação do processo de avaliação de desempenho confere às gratificações uma natureza de generalidade” (ARE 771.748/DF, Rel. Min. DIAS TOFFOLI).
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Impõe-se registrar, finalmente, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria assemelhada à veiculada no caso em exame (ARE 771.710/DF, Rel. Min. LUIZ FUX – ARE 773.190/DF, Rel. Min. TEORI ZAVASCKI, v.g.).
+    Sendo assim, e em face das razões expostas, nego seguimento ao presente recurso extraordinário (CPC, art. 557, “caput”).
+    Publique-se.
+    Brasília, 04 de novembro de 2014.
+Ministro CELSO DE MELLO
+Relator
