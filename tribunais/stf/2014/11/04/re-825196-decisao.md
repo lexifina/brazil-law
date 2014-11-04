@@ -1,0 +1,24 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Prefeita Municipal de Guarujá. Aparelhado o recurso na afronta aos arts. 2º, 29, 61, §, 1º, “b”, e 84, VI, “a”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da competência municipal para regular os serviços públicos de interesse local, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIÇOS BANCÁRIOS. MUNICÍPIOS. COMPETÊNCIA LEGISLATIVA. Nos termos da jurisprudência do Supremo Tribunal Federal, os Municípios possuem competência para legislar sobre assuntos de interesse local, tais como medidas que propiciem segurança, conforto e rapidez aos usuários de serviços bancários. Precedentes. Agravo regimental a que se nega provimento.” (AI 768666 AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 03.02.2014)
+    “Agravo regimental no agravo de instrumento. Município. Fixação de horário de funcionamento de estabelecimento comercial. Competência. Matéria de interesse local. Precedentes. 1. O Supremo Tribunal Federal firmou o entendimento de que compete aos municípios legislar sobre o horário de funcionamento dos estabelecimentos comerciais situados no âmbito de seus territórios, por se tratar de matéria de interesse local. 2. Agravo regimental não provido.” (AI 694033 AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 09.8.2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. COMPETÊNCIA LEGISLATIVA MUNICIPAL. MATÉRIA DE INTERESSE LOCAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 665381 AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 07.8.2014)
+    Por seu turno, registrado pela Corte de origem:
+    “(...)
+    Vale salientar que a Lei Municipal nº 4.024/2013, de iniciativa do Poder Legislativo local, está isenta de vício formal de iniciativa que implique violação do princípio da separação de Poderes(art. 5º da CESP).
+    Por certo, seu objeto, ressalva-se, não consta do rol taxativo de matéria de iniciativa legislativa exclusiva do Chefe do Poder Executivo...” (fls. 121-2)
+    A suposta ofensa aos preceitos constitucionais indicados nas razões recursais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: AI 694.299-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 13.8.2013; e AI 822349 AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 08.4.2011, cuja ementa transcrevo:
+    “Agravo regimental no agravo de instrumento. Representação de inconstitucionalidade de lei municipal em face de Constituição estadual. Ausência de normas de reprodução obrigatória. Incidência da Súmula nº 280/STF. Precedentes. 1. Para que seja admissível recurso extraordinário de ação direta de inconstitucionalidade processada no âmbito do Tribunal local, é imprescindível que o parâmetro de controle normativo local corresponda à norma de repetição obrigatória da Constituição Federal. 2. Inadmissível, em recurso extraordinário, a análise da legislação local. Incidência da Súmula nº 280 do Supremo Tribunal Federal. 3. Agravo regimental a que se nega provimento.”
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. TRANSPORTE COLETIVO MUNICIPAL. MATÉRIA INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei municipal 7.939/1997 e Lei Orgânica Municipal), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. II – Agravo regimental improvido.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 04 de novembro de 2014.
+Ministra Rosa Weber
+Relatora
