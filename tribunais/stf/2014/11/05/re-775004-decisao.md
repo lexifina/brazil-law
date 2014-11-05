@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Município de Pitangueiras. Aparelhado o recursos na afronta ao art. 145, II e § 2º, da Lei Fundamental.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido inconstitucionalidade da cobrança de taxas em razão de serviços de conservação e limpeza de logradouros e bens públicos, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “TRIBUTÁRIO. TAXA DE COLETA, REMOÇÃO E DESTINAÇÃO DE LIXO. TAXA DE COMBATE A SINISTROS. UTILIZAÇÃO DE ELEMENTOS DA BASE DE CÁLCULO PRÓPRIA DE IMPOSTOS. CONSTITUCIONALIDADE. I - A Corte tem entendido como específicos e divisíveis os serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, desde que essas atividades sejam completamente dissociadas de outros serviços públicos de limpeza realizados em benefício da população em geral (uti universi) e de forma indivisível. II - Legitimidade da taxa de combate a sinistros, uma vez que instituída como contraprestação a serviço essencial, específico e divisível. III - Constitucionalidade de taxas que, na apuração do montante devido, adote um ou mais dos elementos que compõem a base de cálculo própria de determinado imposto, desde que não se verifique identidade integral entre a base de cálculo da taxa e a do imposto. IV - Agravo regimental improvido.” (RE 557957 AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 26.6.2009)
+    Divergir da posição adotada pela Corte de origem demandaria a análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: AI 673.377-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 21.9.2012; e RE 553.315-AgR/AM, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 19.6.2009, cujas ementas transcrevo:
+    “TRIBUTÁRIO. TAXA DE COLETA DE LIXO DO MUNICÍPIO DE MANAUS. LIMPEZA PÚBLICA. CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. I - O acórdão recorrido dirimiu a questão em exame com apoio no conjunto fático-probatório dos autos cujo revolvimento não é possível em recurso extraordinário, a teor da Súmula 279 do STF. II – Agravo regimental improvido. “
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 05 de novembro de 2014.
+Ministra Rosa Weber
+Relatora
