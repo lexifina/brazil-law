@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, que, ao apreciar agravo de instrumento, reformou decisão de primeiro grau para manter a competência da justiça estadual para processar e julgar ação de responsabilidade obrigacional securitária.
+    O Tribunal de origem buscou fundamento na decisão em que o Superior Tribunal de Justiça, sob o rito do recurso repetitivo (REsp 1.091.393), entendeu que a Caixa Econômica Federal, na qualidade de sucessora do Sistema Financeiro de Habitação, tem legitimidade para intervir nas ações securitárias apenas no período compreendido entre 02.12.1988 e 29.12.2009 e se o contrato estiver garantido pelo FCVS. Desse modo, o mencionado TJ/RN adotou a seguinte fundamentação (fls. 600):
+    “[...]
+    No presente caso, não se pode tomar por verdadeiras as informações prestadas pela Caixa Econômica Federal, visto não trazer qualquer documento que comprove o alegado, além de não provar o comprometimento do Fundo de Compensação de Valores Salariais – FCVS com o efetivo risco do Fundo de Equalização de Sinistralidade da Apólice – FESA.
+    No que tange a aplicação da Súmula nº 150 do Superior Tribunal de Justiça, esta não impede que o juiz estadual afaste a alegação de interesse da União, ou da Caixa Econômica Federal, quando não houver fundamento jurídico razoável.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega ofensa aos arts. 5º, XXXV; e 109, I, da Constituição. Requer o reconhecimento da Justiça Federal para “processar e julgar a ação, em razão do incontestável interesse jurídico da Caixa Econômica Federal” (fls. 689).
+    A decisão agravada negou seguimento ao recurso sob o fundamento da ausência de prequestionamento dos dispositivos constitucionais tidos por violados, nos termos das Súmulas 282 e 356/STF.
+    O recurso extraordinário é inadmissível, tendo em vista que o entendimento do Supremo Tribunal Federal é firme no sentido de que a simples alegação de existência de interesse de um dos entes enumerados no art. 109, I, da Constituição Federal não justifica o deslocamento da competência para a Justiça Federal (RE 172.708, Rel. Min. Moreira Alves; RE 588.134-AgR, Rel.ª Min.ª Ministra Cármen Lúcia; e AI 857.924, Rel. Min. Luiz Fux).
+    Ademais, para dissentir da conclusão do Tribunal de origem, seriam imprescindíveis a análise da legislação infraconstitucional aplicada ao caso e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF) e de cláusulas contratuais (Súmula 454/STF), o que torna inviável o processamento do recurso extraordinário. Precedentes: AI 809.322, Rel. Min. Dias Toffoli, e RE 695.232, Rel. Min Luiz Fux.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 05 de novembro de 2014.
+      Ministro Luís Roberto Barroso
+Relator
