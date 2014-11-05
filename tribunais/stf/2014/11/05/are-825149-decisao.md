@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 7ª Turma Recursal de Belo Horizonte, Minas Gerais. Acórdão do qual se extraem os seguintes trechos:
+    “A douta juíza sentenciante, frente ao contexto fático-probatório, julgou procedentes os pedido para condenar o réu na obrigação de proceder ao cancelamento dos descontos na conta corrente da autora, sob pena de multa diária; declarar a inexistência do negócio jurídico questionado nos autos; condenar o promovido a restituir à autora a importância de R$10.531,56, já em dobro, acrescida de correção monetária e juros de mora, estes de 1% ao mês; e, finalmente, condenar o promovido a pagar à promovente R$4.000,00 (quatro mil reais) a título de indenização por danos morais.
+    Após empreender detida análise dos fatos amplamente debatidos nos autos e atento à prova produzida, adianto que o inconformismo manifestado pelo primeiro apelante não merece ser contemplado.
+    A prova documental jungida ao processo pelo Banco Santander S/A, no ato da interposição do recurso, não merece ser relevada.
+    […]
+    Com efeito, pela norma transcrita percebe-se uma salutar flexibilidade na produção de provas, porém esse permissivo não merece ser estendido para a fase de interposição de recurso, notadamente quando o elemento de prova apresentado não se insere no conceito de “documento novo”.
+    Em assim sendo, com minhas escusas, não tendo o Banco Santander apresentado suas provas com a contestação, sequer o fez quando da audiência que se realizou, torna-se forçoso reconhecer que o seu direito em produzir provas restou aniquilado pelo fenômeno da preclusão.
+    Por outro lado, por mais que o promovido busque negar o direito vindicado pela promovente, o contexto processual milita em favor desta. ”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXV e LIV, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “questão constitucional somente trazida à discussão na via extraordinária, matéria que sequer foi ventilada na decisão hostilizada, nem houve, pela parte recorrente, oposição de embargos declaratórios, destinados a provocar a manifestação da Turma Julgadora”; (ii) “ainda que se pudessem admitir ocorrentes, somente poderiam se caracterizar, quando muito, por via reflexa”; (iii) “a petição de recurso extraordinário não apresenta preliminar formal e fundamentada da repercussão geral das questões constitucionais debatidas no caso”; e (iv) “o acórdão recorrido solucionou a lide com fundamento nos elementos fáticos probatórios dos autos, que não podem ser reexaminados na via extraordinária”.
+    O recurso não deve ser provido, tendo em vista que o Supremo Tribunal Federal assentou entendimento pela ausência de repercussão geral da questão sobre competência dos Juizados Especiais para julgar causas em relação aos seus valores, por tratar-se de matéria infraconstitucional. Nessa linha, veja-se a ementa do AI 768.339-RG, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “PROCESSUAL CIVIL. COMPETÊNCIA. COMPLEXIDADE DA DEMANDA. VALOR DA CAUSA. JUIZADO ESPECIAL FEDERAL. LEI 10.259/01. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 05 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
