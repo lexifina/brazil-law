@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça, cuja ementa dispõe:
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JUROS DE MORA DEVIDOS PELO PAGAMENTO EXTEMPORÂNEO DE PRESTAÇÕES DE BENEFÍCIO PREVIDENCIÁRIO. INCIDÊNCIA DO IMPOSTO DE RENDA. PRECEDENTES DO STJ.
+    I. A Primeira Seção do STJ, ao julgar, como recurso repetitivo, o REsp 1.227.133/RS (Rel. para acórdão Ministro CÉSAR ASFOR ROCHA, DJe de 19/10/2011), proclamou que não incide imposto de renda sobre os juros moratórios vinculados a verbas trabalhistas reconhecidas em decisão judicial, quando pagos tais juros em contexto de rescisão do contrato de trabalho. No julgamento do REsp 1.089.720/RS (Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 28/11/2012), a Primeira Seção do STJ reafirmou a orientação do recurso repetitivo acima, ocasião em que deixou consignado que é legítima a tributação dos juros de mora pelo imposto de renda, salvo a existência de norma isentiva específica (art. 6º, V, da Lei 7.713/88, que isenta do imposto de renda inclusive os juros de mora devidos no contexto de rescisão do contrato de trabalho) ou a constatação de que a verba principal, a que se referem os juros, é isenta ou fora do campo de incidência do imposto de renda (tese em que o acessório segue o principal).
+    II. ‘Para se afastar a regra geral de incidência do imposto de renda sobre os juros moratórios com base no entendimento de que tais juros estariam fora do campo de incidência delimitado pelo art. 153, III, da Constituição da República, far-se-ia necessário declarar inconstitucionais o parágrafo único do art. 16 da Lei Federal 4.506/64 e o § 3º do art. 43 do Decreto 3.000/99, o que somente poderia ser feito com observância do disposto no art. 97 da Constituição, consoante enuncia a Súmula Vinculante 10/STF. Mas não é o caso, dada a compatibilidade do parágrafo único do art. 16 da Lei 4.506/64 e do §3º do art. 43 do Decreto 3.000/99 com os arts. 43 do CTN, 153, III, da Constituição, e 404 do Código Civil’ (STJ, EDcl no AgRg no REsp 1.420.166/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/03/2014).
+    III. No caso, em que se trata de juros de mora devidos pelo pagamento extemporâneo de verbas remuneratórias não isentas, quais sejam, prestações de benefício previdenciário, incide imposto de renda sobre tais juros.
+    IV. Agravo Regimental improvido.” (eDOC 2, p. 128).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, alega-se violação ao artigo 153, III, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que a tributação sobre juros de mora decorrentes da demora no pagamento de condenação em ação previdenciária é inconstitucional.
+    A Presidência do STJ admitiu o recurso por vislumbrar todos os recursos de admissibilidade.
+    Decido.
+     O recurso não merece prosperar.
+    No caso, a discussão dos autos acerca da incidência do imposto de renda sobre juros demanda a definição da natureza jurídica das verbas em questão.
+    Verifica-se que a jurisprudência do Supremo Tribunal Federal é no sentido que essa matéria restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Cito, por analogia, o decidido em sistemática de repercussão geral acerca da reclamatória trabalhista:
+    “TRIBUTÁRIO. INCIDÊNCIA DO IMPOSTO DE RENDA SOBRE VERBAS RECEBIDAS EM RECLAMATÓRIA TRABALHISTA A TÍTULO DE JUROS. DEFINIÇÃO DA NATUREZA JURÍDICA DOS JUROS. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+(RE 611512 RG, Rel. Min. ELLEN GRACIE, DJe 23.11.2010)
+    No mesmo sentido, decidiu-se a questão de incidência de imposto de renda sobre juros de mora, nos termos da Lei 4.506/1964, como é o presente caso:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DE IMPOSTO DE RENDA SOBRE JUROS DE MORA. LEI 4.506/1964. NECESSIDADE DE REEXAME DA NORMA INFRACONSTITUCIONAL PERTINENTE AO CASO. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II – Agravo regimental a que se nega provimento”. (RE-AgR 780426, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 25.2.2014)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se
+    Brasília, 6 de outubro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
