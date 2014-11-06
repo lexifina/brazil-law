@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DANOS MATERIAIS. FALHA NA PRESTAÇÃO DE SERVIÇO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “RESPONSABILIDADE CIVIL. ENERGIA ELÉTRICA. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DANIFICAÇÃO DE APARELHO ELETROELETRÔNICO EM DECORRÊNCIA DAS OSCILAÇÕES NA REDE ELÉTRICA. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. INTELIGÊNCIA DO ART. 37, § 6º, DA CF. DEVER DE REPARAR O DANO MATERIAL CONFIGURADO. DANOS MORAIS AFASTADOS. Falha na prestação do serviço de energia elétrica que ocasionou a danificação dos eletroeletrônicos da consumidora. Dano material comprovado através de laudo técnico e orçamentos. Os fatores que causaram transtorno a consumidora advêm do mero dissabor do cotidiano, não violando os direitos personalíssimos da demandante. Danos morais não configurados. SENTENÇA REFORMADA. RECURSO DO RÉU PARCIALMENTE PROVIDO E RECURSO DA AUTORA DESPROVIDO”.
+    2. A Agravante afirma ter o Tribunal de origem contrariado os arts. 5°, inc. II, 22, inc. IV, e 37, § 6º, da Constituição da República.
+    Argumenta que “o ato lesivo que ensejou a condenação por danos materiais (suposta oscilação no fornecimento de energia elétrica) não decorreu de culpa por parte da concessionária recorrente, uma vez que não houve qualquer falha na rede de energia elétrica que abastece a parte recorrida” (fl. 156).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. O Tribunal de origem reconheceu a existência de nexo de causalidade entre o evento e o dano sofrido pela Agravada, nos seguintes termos:
+    “De fato, os laudos técnicos e orçamentos juntados pela autora às fls. 09/16 fazem prova inequívoca quanto à ocorrência dos efetivos danos, bem como do nexo de causalidade entre estes e a oscilação de energia, visto que há afirmação expressa dos técnicos no sentido de que os danos foram ocasionados pela variação de energia elétrica.
+    Há de se considerar ainda que a empresa recorrente responde objetivamente, pela natureza da atividade que exerce, pelos danos que esta vir a causar. A responsabilidade objetiva decorre da obrigação de eficiência dos serviços, sendo que o art. 37, § 6º, da Constituição Federal estendeu essa norma às pessoas jurídicas de direito privado, prestadoras de serviços públicos”.
+    A apreciação do pleito recursal demandaria reexame das provas constantes dos autos, procedimento inviável de ser adotado validamente nesta senda recursal. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. CONTROVÉRSIA SOBRE A EXISTÊNCIA DE NEXO DE CAUSALIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 860.320-AgR, de minha relatoria, Segunda Turma, DJe 28.3.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. DEMORA NO RESTABELECIMENTO DO SERVIÇO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - A apreciação do recurso extraordinário, na espécie, encontra óbice na Súmula n. 279 do STF. Precedentes. II - Agravo regimental improvido” (ARE 721.786-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 29.4.2013).
+    “ADMINISTRATIVO. SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 37, § 6º, DA CF. OFENSA CONSTITUCIONAL REFLEXA. ANÁLISE DOS ASPECTOS FÁTICOS DO NEXO DE CAUSALIDADE ENTRE A CONDUTA DO ESTADO E O DANO. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE 399.284-AgR-segundo, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 22.8.2013, grifos nossos).
+    Nada há a prover quanto às alegações da Agravante.
+    6. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de novembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
