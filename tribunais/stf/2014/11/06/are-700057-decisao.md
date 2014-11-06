@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que, por maioria de votos, negou seguimento ao recurso de apelação da entidade educacional, ora recorrente. Na assentada, o Tribunal de origem, ao dar provimento a recurso de apelação do Ministério Público paulista, reformou a sentença e condenou a Universidade à restituição integral dos valores retidos dos alunos desistentes de matrícula. Confira-se, a propósito, a ementa do julgado:
+    “AÇÃO CIVIL PÚBLICA – Contrato de prestação de serviços educacionais – Ilegalidade e abusividade da cláusula que determina perda dos valores pagos a título de matrícula, nas situações em que o aluno promove formal e tempestivamente o cancelamento da mesma, antes do início das aulas – Inexistência de prejuízo por parte da entidade escolar – Imperiosa a restituição integral dos valores – Imposição de obrigação de fazer consistente na obrigatoriedade de inserção de cláusula contratual nesse sentido – Admissibilidade – Aplicação do Código de Defesa do Consumidor, que é especial em relação ao Código Civil, em se tratando de relação de consumo – mitigação do princípio do ‘pacta sunt servanda’ - Recurso do Ministério Público provido e improvido o recurso da Universidade.”
+    Após a rejeição pelo TJ/SP dos embargos de declaração opostos (acórdão publicado em 04.06.2008 – e-stj, fls.377), a parte recorrente ajuizou em 18.06.2008, concomitantemente, embargos infringentes e o presente recurso extraordinário.
+    Decido.
+    O recurso extraordinário é inadmissível, tendo em vista que não foram exauridas as vias recursais nas instâncias ordinárias, uma vez que os embargos infringentes apresentados pela parte recorrente não foram conhecidos pelo Tribunal de origem, em face da ausência de recolhimento de preparo. Incide no caso, portanto, a Súmula 281/STF.
+    De qualquer forma, para dissentir da conclusão do Tribunal de origem, seriam imprescindíveis a análise da legislação infraconstitucional aplicada ao caso e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 06 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
