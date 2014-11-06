@@ -1,0 +1,16 @@
+Vistos etc.
+    1. Ultimada a fase do artigo 10 da Lei nº 8.038/90, o Procurador-Geral da República requereu fosse determinado à Secretaria do Supremo Tribunal Federal levantamento atualizado, “junto aos órgãos competentes”, da folha de antecedentes criminais do réu, e, só após, nova vista para a apresentação de alegações finais, nos termos do artigo 11 da supracitada lei (fl. 1770).
+    2. A juntada de certidão de antecedentes, nesta fase, é diligência que cabe à parte processual interessada, pois interfere na dosimetria da pena e em benefícios processuais diversos, em caso de eventual condenação (v.g, substituição da pena privativa de liberdade por restritiva de direitos, artigo 44 do CP, e suspensão condicional da pena, artigo 77 do CP). Trata-se, pois, de documento juridicamente relevante (artigo 231 e seguintes do CPP), que deve se sujeitar à dinâmica ordinária de distribuição do ônus probatório e dos deveres processuais, de modo que a intervenção jurisdicional para sua coleta deve ser comedida, e só se justifica em caso da parte diligenciar e não obter imotivadamente a informação desejada, ou quando se tratar de procedimento sigiloso, com acesso restrito.
+    3. Nesse sentido, em recente precedente (AP 554, Rel. Min. Roberto Barroso, Dje de 31/07/2014), decidiu-se que “no que se refere ao levantamento da folha de antecedentes do réu junto aos órgãos competentes, a juntada de tal documento é ônus da acusação”.
+    4. Na ocasião, fundamentou o Ministro Roberto Barroso:
+    (...) Por fim, no que se refere ao levantamento da folha de antecedentes do réu junto aos órgãos competentes, registre-se que a juntada de tal documento é ônus da acusação, já que em nada pode favorecer o réu, presumindo-se relativamente a inexistência de envolvimentos judiciais. Nesse sentido, a jurisprudência do Superior Tribunal de Justiça é pacífica ao exigir que o Parquet demonstre a incapacidade de realização do ato por meios próprios, notadamente tendo em conta o seu poder requisitório. Cite-se como exemplo o seguinte julgado:
+    AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. INDEFERIMENTO DO PEDIDO DO MINISTÉRIO PÚBLICO DE DETERMINAÇÃO DE JUNTADA DE FOLHA DE ANTECEDENTES CRIMINAIS. PODER REQUISITÓRIO DO PARQUET. IMPOSSIBILIDADE DE REALIZAÇÃO DA DILIGÊNCIA. DEMONSTRAÇÃO. NECESSIDADE. INEXISTÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. RECURSO A QUE SE NEGA PROVIMENTO.
+    1. De acordo com a jurisprudência deste Sodalício, em razão do poder requisitório conferido ao Parquet por normas constitucional e infraconstitucionais, o requerimento ao Poder Judiciário só se justifica se demonstrada a imprescindibilidade de utilização dessa via, o que não ocorreu na hipótese em exame, daí porque inexiste ofensa a direito líquido e certo do agravante.
+    2. Agravo regimental a que se nega provimento.
+    (AgRg no RMS 35398/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/08/2013, DJe 10/09/2013).
+    5. Posto isso, indefiro o requerimento à fl. 1770.
+     6. Intimem-se acusação e defesa para, sucessivamente, apresentarem, no prazo de 15 (quinze dias), alegações escritas, nos termos do artigo 11 da Lei nº 8.038/90.
+    Publique-se. Intimem-se.
+    Brasília, 06 de novembro de 2014
+Ministra Rosa Weber
+Relatora
