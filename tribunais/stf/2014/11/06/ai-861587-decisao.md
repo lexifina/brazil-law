@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Distrito Federal assim ementado, no que interessa:
+    “CIVIL. PROCESSO CIVIL. PREVIDÊNCIA PRIVADA. SISTEL. DESLIGAMENTO DE ASSOCIADO. RESGATE DA RESERVA DE POUPANÇA. PRELIMINAR DE LITISPENDÊNCIA. REJEITADA. PREJUDICIAIS DE MÉRITO DE PRESCRIÇÃO E DE TRANSAÇÃO ENTRE AS PARTES ANTE A MIGRAÇÃO PARA OUTRO PLANO (TCSPREV). NÃO ACOLHIMENTO. REAJUSTE DOS VALORES RESTITUÍDOS. CORREÇÃO MONETÁRIA PLENA. IPC. RECURSO DA RÉ IMPROVIDO E RECURSO DOS AUTORES PARCIALMENTE PROVIDO (...)”. (fl. 20)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, a recorrente sustenta, em preliminar formal, a repercussão geral da matéria deduzida no recurso. No mérito, alega que houve violação aos artigos 1º, IV; 5º, II, XXII, XXXVI; 170, II, e parágrafo único; 195, § 5º; 201; e 202 do texto constitucional.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Verifico que a análise das apontadas violações ao texto constitucional demandaria a revisão dos fatos e provas analisados, o exame prévio da legislação infraconstitucional, do estatuto da entidade e do contrato. Incidem, portanto, os Enunciados 279, 636 e 454 da Súmula do Supremo Tribunal Federal.
+    Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido, confiram-se precedentes de ambas as Turmas desta Corte:
+    “Agravo regimental no agravo de instrumento. previdência privada. Contribuição. Restituição. Correção monetária. Ofensa reflexa. Reexame de cláusulas contratuais. Impossibilidade. Repercussão geral. Ausência. Precedentes. 1. Inadmissível em recurso extraordinário o reexame da legislação infraconstitucional e de cláusulas contratuais. Incidência das Súmulas nº 636 e 454/STF. 2. Ausência de repercussão geral do tema relativo ao índice de correção monetária incidente sobre verba a ser restituída a associados que se desligam de plano de previdência privada, dado o seu caráter infraconstitucional. 3. Agravo regimental não provido”. (AI-AgR 693.612, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.9.2011 - grifei).
+    “Agravo regimental em agravo de instrumento. 2. Migração para um novo plano de previdência privada. Interpretação de cláusulas contratuais. Matéria infraconstitucional. Enunciados das Súmulas 279, 454 e 636. Precedentes. 3. Agravo regimental a que se nega provimento”. (AI-AgR 753.488, de minha relatoria, Segunda Turma, DJe 7.6.2011 - grifei).
+    Além disso, segundo firme jurisprudência desta Corte, mera alegação de violação aos primados constitucionais do devido processo legal, da ampla defesa, dos limites da coisa julgada e do ato jurídico perfeito (art. 5º, XXXVI) é insuficiente para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma reflexa. Nesse sentido o RE-AgR 563.816, Segunda Turma, Rel. Min. Ellen Gracie, DJe 29.11.2010.
+    Ante o exposto, nego seguimento ao recurso (art. 557, do CPC).
+    Publique-se.
+    Brasília, 6 de novembro de 2014.
+Ministro GILMAR MENDES
+Relator
