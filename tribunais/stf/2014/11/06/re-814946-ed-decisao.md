@@ -1,0 +1,22 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. OBSCURIDADE OU CONTRADIÇÃO INEXISTENTES. EMBARGOS REJEITADOS.
+Relatório
+    1. Em 17.6.2014, neguei seguimento ao recurso extraordinário interposto pelo Instituto Nacional do Seguro Social - INSS contra julgado do Tribunal Regional Federal da Quinta Região, que determinara o restabelecimento de auxílio-doença e sua conversão em aposentadoria por invalidez e fixara juros moratórios de 1% ao mês, a partir da citação (fls. 237-243).
+    A decisão proferida aplicou, quanto aos juros moratórios, o que decidido por este Supremo Tribunal no julgamento da Ação Direta de Inconstitucionalidade n. 4.425, Relator o Ministro Ayres Britto, Redator para o acórdão o Ministro Luiz Fux:
+    “7. O art. 1º-F da Lei nº 9.494/97, com redação dada pela Lei nº 11.960/09, ao reproduzir as regras da EC nº 62/09 quanto à atualização monetária e à fixação de juros moratórios de créditos inscritos em precatórios incorre nos mesmos vícios de juridicidade que inquinam o art. 100, § 12, da CF, razão pela qual se revela inconstitucional por arrastamento, na mesma extensão dos itens 5 e 6 supra” (Plenário, DJe 19.12.2013, grifos nossos).
+    2. Publicada essa decisão no DJe de 23.6.2014, opõe o Instituto Nacional do Seguro Social - INSS, em 9.7.2014, tempestivamente, embargos de declaração (fl. 247).
+    3. O Embargante afirma que a oposição dos presentes embargos prende-se à necessidade de esclarecer “qual foi o norte tomado pela decisão, já que o recorrente, ora embargante, pedira a aplicação da Lei 11.960 no tocante à correção monetária, e teve o seguimento do seu recurso [negado]; contudo, a decisão embargada reconheceu que é o caso de manutenção da sistemática anterior à declaração de inconstitucionalidade parcial da EC 62/2009” (fl. 247).
+    Assevera estar-se diante de uma “contradição/obscuridade” e “postula-se o acolhimento desse recurso para clarividenciar que o recorrente tem razão, no sentido de que ‘continuará em vigor o sistema de pagamentos de precatórios na forma como vinham sendo realizados’” (fl. 247).
+    Apreciada a matéria trazia na espécie, DECIDO.
+    4. Opostos os embargos de declaração contra decisão monocrática sob alegação de ocorrência de vício do art. 535 do Código de Processo Civil, dispensa-se a conversão destes embargos em agravo regimental para julgamento pela Turma (RE 476.109-ED, Relator o Ministro Cezar Peluso, DJe 8.10.2007; RE 411.024-ED, Relator o Ministro Sepúlveda Pertence, DJ 11.5.2004; RE 277.612, Relator o Ministro Carlos Velloso, DJ 12.11.2001; RE 606.665-ED, de minha relatoria, DJe 18.12.2013; RE 332.265-ED, Relator o Ministro Teori Zavascki, DJe 3.5.2013; e RE 554.026-ED, Relator o Ministro Ricardo Lewandowski, DJe 11.10.2001).
+    5. Razão jurídica não assiste ao Embargante.
+    6. Não há obscuridade ou contradição a ser sanada. O recurso extraordinário foi provido em conformidade com a jurisprudência deste Supremo Tribunal.
+    No julgamento da Ação Direta de Inconstitucionalidade n. 4.425 declarou-se a inconstitucionalidade, por arrastamento, do art. 5º da Lei n. 11.960/2009 que inserira no art. 1º-F da Lei n. 9.494/1997 modificações julgadas contrárias à Constituição da República.
+    Posteriormente, diante da possibilidade de suspensão, pelos Tribunais de Justiça, dos pagamentos de precatórios em andamento enquanto não julgado pedido de modulação de efeitos, o Ministro Luiz Fux proferiu a seguinte decisão ratificada pelo Plenário:
+    “Determino, ad cautelam, que os Tribunais de Justiça de todos os Estados e do Distrito Federal deem imediata continuidade aos pagamentos de precatórios, na forma como já vinham realizando até a decisão proferida pelo Supremo Tribunal Federal em 14/03/2013, segundo a sistemática vigente à época, respeitando-se a vinculação de receitas para fins de quitação da dívida pública, sob pena de sequestro”.
+    7. A decisão embargada aplicou, com clareza e fundamentação, o entendimento consolidado neste Supremo Tribunal sobre a matéria, o qual, até que se decida quanto à modulação dos efeitos do julgado, consistirá na aplicação da sistemática de pagamentos estabelecida na Lei n. 11.960/2009 antes da declaração de inconstitucionalidade, por arrastamento, do art. 5º dessa lei e que não corresponde ao art. 1º-F da Lei n. 9.494/1997 anterior as alterações promovidas por essa mesma lei.
+    8. Pelo exposto, rejeito os embargos de declaração pela ausência de obscuridade ou contradição.
+    Publique-se.
+    Brasília, 6 de novembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
