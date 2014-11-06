@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de habeas corpus impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça que negou provimento ao agravo regimental no AREsp 450.660/MG.
+    Consta dos autos, em síntese, que (a) o paciente foi condenado à pena de 3 anos e 6 meses de reclusão, em regime inicial fechado, pela prática do crime de associação para o tráfico de drogas (art. 35 da Lei 11.343/2006); (b) o Tribunal de Justiça do Estado de Minas Gerais deu parcial provimento ao recurso de apelação da defesa e reduziu a reprimenda para três anos de reclusão, em regime inicial aberto; (c) buscando a substituição da pena privativa de liberdade por restritivas de direitos, a defesa interpôs recurso especial, o qual foi inadmitido, ensejando a interposição de agravo para o Superior Tribunal de Justiça, ocasião em que a Ministra Relatora negou-lhe seguimento; (d) dessa decisão, a defesa interpôs agravo regimental, que foi improvido, em acórdão assim ementado:
+    “(...) I - O Agravante, nas razões do Agravo Regimental, não combateu os fundamentos da decisão agravada, o que impõe a aplicação da Súmula n. 182 do Superior Tribunal de Justiça, assim enunciada: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+    II - Agravo Regimental não conhecido.”.
+    Neste habeas corpus, a impetrante sustenta, em suma, que a pena privativa de liberdade deve ser substituída por sanções restitivas de direito, uma vez que o paciente preenche os requisitos previstos no art. 44 do Código Penal. Requer, ao final, a concessão da ordem, para que seja convertida a pena privativa de liberdade em restritivas de direitos.
+    2. A conversão da pena privativa de liberdade por sanção restritiva de direitos encontra-se condicionada ao preenchimento dos requisitos objetivos (= pena inferior a 4 anos e o crime tenha sido cometido sem violência ou grave ameaça) e subjetivos (= prognose da suficiência da substituição). Na espécie, as instâncias ordinárias concluíram, em suma, que as “circunstâncias do caso em exame e a gravidade do delito demonstram que o benefício não é suficiente para prevenção e repressão do crime’. Aparentemente, portanto, a negativa do benefício deu-se em razão de o paciente não preencher o requisito subjetivo elencado no art. 44, III, do Código Penal.
+    3. Com essas considerações, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 6 de novembro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
