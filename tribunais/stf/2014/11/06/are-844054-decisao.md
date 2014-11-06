@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, III, da Constituição Federal, em razão da ausência de correspondência entre a peça original e o fac-símile transmitido.
+    A parte recorrente sustenta que “se não foi juntada a integralidade do recurso aos autos, isso é fato que não se atribui a parte agravante, eis que cumpriu integralmente com sua obrigação de encaminhar via fax seu recurso na integralidade, como comprovado.” (e-STJ, fl. 889).
+    2. O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus das partes zelar pela qualidade e fidelidade do material transmitido via fac-símile, nos moldes do art. 4º da Lei 9.800/1999. Nesse sentido, são os seguintes precedentes:
+    EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. AGRAVO INTERPOSTO CONTRA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO VIA FAC-SÍMILE. PETIÇÃO RECEBIDA DE FORMA INCOMPLETA. ART. 4º DA LEI 9.800/1999. AGRAVO IMPROVIDO. I – A petição enviada por fax não guarda a devida correspondência com o original apresentado ao Tribunal. É dever das partes zelar pela qualidade e fidelidade do material transmitido via fac-símile, nos termos do art. 4º da Lei 9.800/1999. II – Agravo regimental improvido. (ARE 738.407 ED, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/6/2013)
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO POR MEIO DE FAC-SÍMILE. PETIÇÃO TRANSMITIDA DE FORMA INCOMPLETA E ILEGÍVEL. INCIDÊNCIA DO ART. 4º DA LEI 9.800/1999. NÃO-CONHECIMENTO. 1. Nos termos do caput do art. 4º da Lei 9.800/1999, "quem fizer uso de sistema de transmissão torna-se responsável pela qualidade e fidelidade do material transmitido, e por sua entrega ao órgão judiciário". 2. Agravo regimental não conhecido. (AI 697.928 AgR, Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 17/9/2010)
+    AGRAVO REGIMENTAL. INTERPOSIÇÃO POR FAX. PETIÇÃO RECEBIDA DE FORMA INCOMPLETA. Embora o recurso tenha sido interposto tempestivamente, o conteúdo da petição enviada por fax não guarda a devida correspondência com o original apresentado ao Tribunal, nos termos do que dispõe o art. 4º da Lei 9.800/1999. Agravo regimental não conhecido. (AI 403.731 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJ de 28/4/2006)
+    3. Diante do exposto, nego provimento ao agravo (RISTF, art. 21, § 1º).
+    Publique-se. Intime-se.
+    Brasília, 6 de novembro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
