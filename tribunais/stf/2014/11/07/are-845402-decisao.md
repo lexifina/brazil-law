@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Terceira Turma Cível do Colégio Recursal de Fórum João Mendes Júnior do Estado de São Paulo, que manteve sentença de 1ª instância. A sentença julgara improcedente o pedido de danos morais com o fundamento de que “a situação se enquadra, por evidente, na hipótese do artigo 17, III, e V, do Código de Processo Civil, porquanto a postura indigna do autor visa atingir um objetivo ilegal (enriquecimento ilícito, para constranger a ré), por intermédio de demanda absolutamente temerária. Impõe-se, portanto, a aplicação das sanções previstas no artigo 18 do aludido diploma processual” (fls. 90).
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 93, IX, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nesses moldes exigidos pela jurisprudência do Supremo Tribunal Federal” (fls. 184)
+    O recurso não deve ser provido.
+    Quanto à alegada ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, a solução da controvérsia pressupõe, necessariamente, o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF. Nessa linha, veja-se a ementa do ARE 753.420 AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARACTERIZAÇÃO DE DANO MORAL E MATERIAL INDENIZÁVEL. DETERMINAÇÃO DO VALOR A TÍTULO DE INDENIZAÇÃO. MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO.
+    I Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    II Agravo regimental improvido.”
+    Outros julgados no mesmo sentido: ARE 660.140-AgR, Rel. Min. Dias Toffoli; e ARE 733.066-AgR, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 544, § 4º, II, b , do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar provimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 07 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
