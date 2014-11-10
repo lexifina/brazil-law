@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 296, de 14 de outubro de 2014
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF EMENTA: DESPESA MÉDICA. DEDUÇÃO. ACUPUNTURA. Não são dedutíveis da base de cálculo do Imposto sobre a Renda, como despesa médica, as despesas referentes ao atendimento de acupuntura prestado por Biomédico. DISPOSITIVOS: Lei nº 6.684, de 1974, arts. 3º, inciso e 5º, Lei nº 9.250, de 1995, arts. 5º, § 2º, e 8º, inciso II, alínea “a” e § 2º; Dec. 88.439, de 1983, arts: 2º a 4°, Dec. nº 3.000, de 1999 (RIR/99), art. 80; IN SRF nº 15, de 2001, arts. 43 e 46.
+[arquivo anexo: SC Cosit nº 296-2014.pdf]
