@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 306, de 24 de outubro de 2014
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS EMENTA: Locação de bens móveis. Comprovação de receita. Impossibilidade de emissão de nota fiscal. O auferimento de receitas pelas pessoas jurídicas, quando desobrigadas ou impossibilitadas de emissão de nota fiscal ou documento equivalente, em razão da não-autorização para impressão pelo órgão competente, deve ser comprovado com documentos de indiscutível idoneidade e conteúdo esclarecedor das operações a que se refiram, tais como recibos, livros de registros, contratos etc, desde que a lei não imponha forma especial. DISPOSITIVOS: Lei nº 8.846, de 1994, art. 1º.
+[arquivo anexo: SC Cosit nº 306-2014.pdf]
