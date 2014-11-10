@@ -1,0 +1,17 @@
+Decisão:
+ Ementa: Habeas corpus. Pressupostos de admissibilidade recursal. Descabimento. Questão de direito não examinada pelo Superior Tribunal de Justiça. Writ não conhecido.
+    1. Trata-se de habes corpus, com pedido de liminar, impetrado contra acórdão da Corte Especial do Superior Tribunal de Justiça, da Relatoria da Ministra Laurita Vaz, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. Não foram atacados os fundamentos da decisão agravada, atraindo a aplicação do enunciado n.º 182 da Súmula deste Superior Tribunal de Justiça.
+    2. Agravo regimental não conhecido.”
+    2. O impetrante sustenta a nulidade da condenação da paciente, pelos crimes de tráfico e associação para o tráfico de entorpecentes, à pena de 10 (dez) anos, 7 (sete) meses e 18 (dezoito) dias de reclusão, em regime inicial fechado. Afirma que a defesa não teria tido acesso à prova da materialidade delitiva, contida em 4 Dvd’s. Requer, assim, a anulação da condenação e de todos os atos processuais posteriores à defesa prévia.
+    Decido.
+    3. A orientação do Supremo Tribunal Federal consolidou-se no sentido de que o habeas corpus não se presta para o reexame dos pressupostos de admissibilidade recursal (v.g HC 99.174 AgR, Rel. Min. Ayres Britto; HC 112.756, Rel.ª Min.ª Rosa Weber; e HC 112.422, Rel. Min. Luiz Fux). Da mesma forma, não compete ao Supremo Tribunal Federal reexaminar as condições de cabimento de recurso para julgar novamente a causa, ou determinar ao Superior Tribunal de Justiça que reaprecie o mérito da insurgência (v.g HC 111.159, Rel. Min. Teori Zavascki, e HC 113.407, Rel. Min. Ricardo Lewandowski).
+    4. Ademais, o Tribunal não admite a impetração de habeas corpus em substituição à ação de revisão criminal. Nesse sentido, confiram-se os seguintes precedentes: RHC119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski.
+    5. Quanto ao mais, observa-se que o Superior Tribunal de Justiça, tendo em vista o desatendimento de pressupostos processuais, não se pronunciou a respeito do vício procedimental arguido pela defesa, não sendo possível ao Supremo Tribunal Federal conhecer originariamente da matéria, sob pena de supressão de instância. De todo modo, verifica-se do acórdão estadual que “o fato dos DVDs com as filmagens da ação da quadrilha não estarem acostados aos autos, não gera qualquer tipo de nulidade do processo. Note-se que a defesa da acusada somente menciona este nas razões de apelação. Além disso, resta claro que a douta Juíza ‘a quo’ se baseia principalmente nos relatos idôneos e comprometidos dos agentes da lei, para fundamentar sua decisão condenatória. E, como já mencionado, tanto os guardas municipais quanto o investigador de polícia informaram que a conduta de Hanuska não foi filmada, mas comprovada nas campanas realizadas pelos guardas municipais”, não sendo o caso, portanto, de concessão da ordem de ofício.
+    6. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990, c/c o art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 10 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
