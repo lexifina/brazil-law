@@ -1,0 +1,24 @@
+Decisão:
+Ementa: Recurso ordinário em habeas corpus. Tráfico de entorpecentes. Paciente de nacionalidade estrangeira. Procedimento de expulsão. Progressão de regime de cumprimento de pena. Contrariedade à orientação do Supremo Tribunal Federal. Recurso provido.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de concessão de medida liminar, interposto contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria da Ministra Laurita Vaz, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL.TRÁFICO DE ENTORPECENTES. EXECUÇÃO PENAL. PEDIDO DE PROGRESSÃO PARA O REGIME SEMIABERTO. ESTRANGEIRO. PROCESSO DE EXPULSÃO EM ANDAMENTO. PROGRESSÃO DE REGIME. IMPOSSIBILIDADE. ORDEM DE HABEAS CORPUS NÃO CONHECIDA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+    1. A Primeira Turma do Supremo Tribunal Federal e ambas as Turmas desta Corte, após evolução jurisprudencial, passaram a não mais admitir a impetração de habeas corpus em substituição ao recurso ordinário, nas hipóteses em que esse último é cabível, em razão da competência do Pretório Excelso e deste Superior Tribunal tratar-se de matéria de direito estrito, prevista taxativamente na Constituição da República.
+    2. Esse entendimento tem sido adotado pela Quinta Turma do Superior Tribunal de Justiça, com a ressalva da posição pessoal desta Relatora, também nos casos de utilização do habeas corpus em substituição ao recurso especial, sem prejuízo de, eventualmente, se for o caso, deferir-se a ordem de ofício, em caso de flagrante ilegalidade.
+    3. A Colenda Quinta Turma deste Superior Tribunal de Justiça possui entendimento firmado no sentido de que se mostra inviável a concessão do benefício de progressão de regime ao sentenciado estrangeiro que possui processo de expulsão em andamento ou que já teve sua expulsão decretada.
+    3. Na ausência de argumento apto a afastar as razões consideradas no decisum, deve ser a decisão agravada mantida por seus próprios fundamentos.
+    4. Agravo regimental desprovido.”
+    2. Extrai-se dos autos que o paciente, de nacionalidade estrangeira, cumpre pena de 5 (cinco) anos e 22 (vinte e dois) dias de reclusão, em regime fechado, pelo crime de tráfico de entorpecentes.
+    3. O Juízo da Execução, em 13.05.2013, deferiu a progressão do recorrente para o regime semiaberto. Dessa decisão, o Ministério Público interpôs agravo no Tribunal de Justiça do Estado de São Paulo, sustentando a impossibilidade da concessão da progressão de regime ao estrangeiro que responde a procedimento de expulsão. O recurso foi provido para cassar a concessão do benefício.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. A Ministra Laurita Vaz, Relatora do HC 285.969, não conheceu da impetração. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste writ, sustenta-se que “é possível o deferimento de benefícios da execução penal ao réu estrangeiro ainda que pendente processo de expulsão, sob pena de violação dos princípios da isonomia e da dignidade da pessoa humana”. Requer-se, assim, a promoção do ora recorrente para o regime semiaberto.
+    Decido.
+    6. A orientação jurisprudencial do Plenário do Supremo Tribunal Federal é no sentido de que a exclusão do estrangeiro do sistema progressivo de cumprimento de pena, ainda quando exista procedimento de expulsão em curso, afronta diversos princípios constitucionais, notadamente o da prevalência dos direitos humanos e o da isonomia, competindo ao Juízo da Execução a análise de eventual risco de fuga e das peculiaridades do caso concreto (Ext. 947-QO, Rel. Min. Ricardo Lewandowski). Nesse mesmo sentido, foram julgados os seguintes precedentes: HC 117.878, Rel. Min. Ricardo Lewandowski; HC 119.717, Rel. Min. Luiz Fux; e HC 91.147, Rel. para o acórdão o Min. Cezar Peluso.
+    7. Na hipótese de que se trata, observa-se do acórdão estadual que o único fundamento para a manutenção do recorrente no regime fechado foi o fato de “haver em desfavor desse sentenciado procedimento em trâmite tendente à expulsão”. Sendo certo, ainda, que, da leitura das peças aportadas aos autos, verifica-se que o sentenciado já cumpriu mais da metade da pena no regime prisional mais gravoso.
+    8. Diante do exposto, com base nos arts. 192 e 312 do RI/STF, dou provimento ao recurso ordinário para determinar ao Juízo competente para a execução da pena que, observadas as diretrizes estabelecidas no julgamento da Ext 947-QO, Rel. Min. Ricardo Lewandowski e as condicionantes do art. 112 da LEP, examine, com base em dados atualizados do processo de execução, se o recorrente preenche os requisitos objetivo e subjetivo para a progressão de regime.
+    Comunique-se, com a urgência devida.
+    Publique-se.
+    Intime-se.
+          Brasília, 11 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
