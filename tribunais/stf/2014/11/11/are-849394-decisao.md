@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal da Fazenda Pública do Estado do Rio Grande do Sul, de cuja ementa se extraem os seguintes trechos (fls. 110 e verso):
+    “RECURSO INOMINADO. PROCESSUAL CONSTITUCIONAL ADMINISTRATIVO. MAGISTÉRIO ESTADUAL. PRELIMINAR. CERCEAMENTO DE DEFESA. PROVA PERICIAL. DESNECESSIDADE. COMPOSIÇÃO DA JORNADA DE TRABALHO. OBSERVÂNCIA DO LIMITE MÁXIMO DE 2/3 (DOIS TERÇOS) DA CARGA HORÁRIA PARA O DESEMPENHO DAS ATIVIDADES DE INTERAÇÃO COM OS EDUCANDOS (§ 4º DO ART. 2º LEI 11.738/08).
+    […]
+    A eventual não observância, pela Administração, do limite máximo de 2/3 (dois terços) da carga horária para o desempenho das atividades extraclasse não implica, por si só, caracterização de regime especial de trabalho, a ensejar pagamento de diferença remuneratória ou mesmo indenização. Isso porque o regime especial de trabalho previsto no art. 117 do Estatuto do Magistério do Rio Grande do Sul, (Lei-RS 6.672/74) é o regime de trabalho propriamente, assim compreendido o total de horas de trabalho cumpridas pelo servidor no exercício das atividades inerentes ao cargo, e não a natureza das atividades desenvolvidas.
+    Noutras palavras, não evidenciado exercício de atividade além do regime de trabalho do servidor, como no caso em foco, afastada está a possibilidade de percepção de vantagem remuneratória outra que não a ordinária.
+    Assim, não tendo a parte autora se desincumbido de provar não estar a Administração observando tal normativa em relação a ela, o que não faria com a realização de qualquer espécie de laudo contábil, caracterizada está a improcedência da pretensão veiculada na petição inicial.
+    AFASTARAM A PRELIMINAR E NEGARAM PROVIMENTO AO RECURSO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Constituição. Sustenta, em síntese, que “em todas as instâncias pelas quais tramitou a ação, desde sua origem, a parte recorrente vem tentando produzir a referida prova que seria suficiente para provar o descumprimento por parte do recorrido no que se refere a carga horária destinada ao cumprimento da hora-atividade, qual seja, 1/3 das horas trabalhadas” (fls. 130).
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que eventual ofensa ao texto constitucional somente se daria de maneira indireta ou reflexa.
+    A decisão deve ser mantida, uma vez que está alinhada à jurisprudência do Plenário deste Tribunal no sentido de ser inadmissível recurso extraordinário quando as violações relativas ao cerceamento do direito de defesa e dos limites da coisa julgada dependerem do prévio exame da legislação infraconstitucional. Nesse sentido, reconhecendo a ausência de repercussão geral da matéria, veja-se a ementa do AI 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral."
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 11 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
