@@ -1,0 +1,24 @@
+RECLAMAÇÃO. DESCABIMENTO CONTRA DECISÃO DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL. DECISÃO QUE APLICA A REPERCUSSÃO GERAL. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Cuida-se de reclamação proposta por Nelson Noschese contra decisão da lavra do Ministro Gilmar Mendes, em que determinada a devolução do RE 631.464/SP ao Tribunal de origem, com esteio no art. 543-B do Código de Processo Civil.
+    O reclamante assevera que a decisão paradigma invocada no ato reclamado, atinente à “inclusão de vantagens pessoais no teto remuneratório, porém, após a EC 41/03”, não se amolda ao caso em apreço, que envolve a cobrança de parcelas compreendidas em período anterior à da referida emenda constitucional.
+    Requer, assim, o provimento da reclamação a fim de ser automaticamente inadmitido o recurso extraordinário.
+    É o relatório. Decido.
+    A reclamação constitucional é o instrumento adequado para impedir a usurpação da competência do Supremo Tribunal Federal e para garantir a autoridade de suas decisões e súmulas vinculantes (art. 102, I, le art. 103-A, § 3º, da CF).
+    Esta Corte firmou orientação no sentido da impossibilidade de ajuizamento de reclamação que objetiva impugnar decisão dos Ministros desta Corte.
+    Confira-se, à guisa de exemplo, os seguintes precedentes desta Corte Suprema:
+    “RECLAMAÇÃO CONTRA DECISÃO DE MINISTRO DO STF. NÃO CABIMENTO. 1. A competência originária do STF para processar e julgar reclamação, prevista nos arts. 102, I, l, e 103-A, § 3º, limita-se a preservar a competência do Tribunal, garantir a autoridade de suas decisões ou a eficácia de súmula vinculante. Na hipótese dos autos, não está configurada nenhuma dessas situações. Isso porque, (a) inadmissível falar em decisão do STF que usurpa a competência do próprio STF e (b) a reclamação não é via para preservar as competências dos órgãos do STF definidas em seu regimento. Precedentes. 2. Agravo regimental a que se nega provimento.” (Rcl 13.996-AgR, Relator Ministro Teori Zavascki, Pleno, DJe de 11/6/2013).
+    “RECLAMAÇÃO. DECISÃO PROFERIDA PELO VICE-PRESIDENTE DESTA CORTE. NÃO CABIMENTO. Não cabe reclamação contra decisões dos membros do Supremo Tribunal Federal. Precedentes. Com efeito, a reclamação não é via processual adequada, no Supremo Tribunal Federal, à impugnação de suas decisões (Rcl-AgRg 3.316, de minha relatoria, Segunda Turma, 21.06.2005; Rcl-AgRg 3.916, rel. min. Carlos Britto, Pleno, 12.06.2006). A impugnação das decisões do Supremo Tribunal Federal se faz nos termos da legislação processual, por meio dos recursos próprios. Agravo regimental desprovido” (Rcl nº 4.591-AgR, Rel. Min. Joaquim Barbosa, DJe de 4/12/2009).
+    Ainda que assim não fosse, a reclamação não prosperaria.
+    A decisão agravada, exarada pelo Ministro Gilmar Mendes, foi assim proferida, verbis:
+    “DECISÃO: O assunto versado na petição do recurso extraordinário é análogo ao do RE-RG 606.358, Rel. Min. Ellen Gracie, DJe 4.6.2010, recurso-paradigma da sistemática da repercussão geral. Assim, devolvam-se os autos ao tribunal de origem, para que observe o disposto no art. 543-B do Código de Processo Civil”.
+    Como se observa, a devolução dos autos à Corte de origem encontrou amparo na sistemática da repercussão geral, em observância ao disposto no art. 543-B do CPC.
+    A jurisprudência deste Supremo Tribunal Federal firmou entendimento no sentido da irrecorribilidade das decisões de aplicação da sistemática da repercussão geral por Ministro da Corte, por carecer ao ato conteúdo decisório. Com efeito, a devolução do apelo extremo à Corte de origem configura, na precisa lição do Ministro Celso de Mello (AI-AgR 696.454, decisão monocrática, Dje 10/11/2008), “mera consequência – admitida pela própria jurisprudência plenária do Supremo Tribunal Federal (…) - que resulta do reconhecimento da existência de repercussão geral de determinada controvérsia constitucional suscitada em sede recursal extraordinária”.
+    Nesse sentido, cito o seguinte precedente, verbis:
+    “Agravo regimental em mandado de segurança. 2. Não cabe mandado de segurança contra ato jurisdicional de Ministro do STF. 3. Irrecorribilidade da decisão que aplica a sistemática da repercussão geral. Precedentes. 4. Agravo regimental a que se nega provimento” (MS 28982 AgR/PE, Rel. Min. Gilmar Mendes, Dje 15/10/2010).
+    Da mesma forma, a devolução dos autos à origem determinada no ato reclamado para atender ao disposto no art. 543-B do Código de Processo Civil, enquanto irrecorrível, não enseja, igualmente, a propositura de reclamação constitucional.
+    Ex positis, nego seguimento à presente Reclamação (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se. Int..
+    Brasília, 11 de novembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
