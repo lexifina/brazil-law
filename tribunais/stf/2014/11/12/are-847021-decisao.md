@@ -1,0 +1,11 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a jurisprudência do Supremo Tribunal Federal tem reiteradamente enfatizado que, em princípio, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição (RTJ 147/251 – RTJ 159/328 – RTJ 161/284 – RTJ 170/627- -628 – AI 126.187-AgR/ES, Rel. Min. CELSO DE MELLO – AI 153.310- -AgR/RS, Rel. Min. SYDNEY SANCHES – AI 185.669-AgR/RJ, Rel. Min. SYDNEY SANCHES – AI 192.995-AgR/PE, Rel. Min. CARLOS VELLOSO – AI 257.310-AgR/DF, Rel. Min. CELSO DE MELLO – RE 254.948/BA, Rel. Min. SEPÚLVEDA PERTENCE, v.g.), o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária.
+    De outro lado, o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância essa que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impõe-se registrar, finalmente, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria assemelhada à veiculada no caso em exame (RE 784.672/SC, Rel. Min. ROSA WEBER, v.g.):
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. PREENCHIMENTO DE REQUISITOS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    (ARE 810.912/PE, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 12 de novembro de 2014.
+Ministro CELSO DE MELLO
+Relator
