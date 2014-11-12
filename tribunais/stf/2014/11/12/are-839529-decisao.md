@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que negara provimento à apelação e manteve sentença que condenou o ora agravante à pena de 1 ano e 8 meses de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 33 da Lei nº 11.343/2006.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Constituição. Aduz que “houve violação ao princípio constitucional da ampla defesa durante a audiência de instrução e julgamento, posto que iniciou-se a instrução com o interrogatório do recorrente”.
+    A decisão agravada não admitiu o recurso extraordinário sob os seguintes fundamentos: (i) incide, no caso, a Súmula 282/STF; (ii) “a apontada afronta à Constituição Federal é indireta ou reflexa”.
+    O recurso é inadmissível, tendo em vista que jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o ARE 823.822-AgR, Rel. Min. Gilmar Mendes, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Processo Penal. 3. Momento do interrogatório nas ações penais relativas ao crime de tráfico ilícito de entorpecentes. Adoção do procedimento previsto na Lei de Drogas (Lei 11.343/2006) ofenderia o art. 5º, LV, da CF (ampla defesa). 4. Necessidade de rever interpretação da origem à legislação infraconstitucional. Providência vedada no âmbito do recurso extraordinário. Ofensa reflexa. 5. Rito especial da Lei n. 11.343/2006. O art. 57 da Lei de Drogas dispõe que o interrogatório inaugura a audiência de instrução e julgamento, ocorrendo em momento anterior à oitiva das testemunhas, diferentemente do que dispõe o artigo 400 do CPP. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
