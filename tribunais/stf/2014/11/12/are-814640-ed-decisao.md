@@ -1,0 +1,13 @@
+Vistos etc.
+    Contra decisão pela qual negado seguimento, em parte, ao recurso extraordinário e, em parte, devolvidos os autos à origem, para os fins do art. 543-B, opõem embargos de declaração Berenice Fontanella e Outros (A/S) (doc. 8).
+    Os agravantes apontam contradição na decisão agravada. Sustentam que “(...) o Município não foi absolvido, e sim, pelo contrário, foi condenado ao pagamento do terço constitucional de férias (...)” (doc. 8; fl. 1) e que “(...) não houve qualquer discussão ‘...acerca da recepção do Decreto-Lei 70/66 pela Constituição Federal de 1988...’ (...)” (doc. 8; fl. 2).
+    É o relatório.
+    Decido.
+    Reexaminando os autos, constato que a matéria restou submetida ao Plenário Virtual, tendo sido reconhecida a repercussão geral do tema, no RE 593.068-RG, assim ementado:
+    “CONSTITUCIONAL. REPERCUSSÃO GERAL. TRIBUTÁRIO. SERVIDOR PÚBLICO FEDERAL. REGIME PREVIDENCIÁRIO. CONTRIBUIÇÃO. BASE DE CÁLCULO. TERÇO CONSTITUCIONAL DE FÉRIAS. GRATIFICAÇÃO NATALINA (DÉCIMO-TERCEIRO SALÁRIO). HORAS EXTRAS. OUTROS PAGAMENTOS DE CARÁTER TRANSITÓRIO. LEIS 9.783/1999 E 10.887/2004. CARACTERIZAÇÃO DOS VALORES COMO REMUNERAÇÃO (BASE DE CÁLCULO DO TRIBUTO). ACÓRDÃO QUE CONCLUI PELA PRESENÇA DE PROPÓSITO ATUARIAL NA INCLUSÃO DOS VALORES NA BASE DE CÁLCULO DO TRIBUTO (SOLIDARIEDADE DO SISTEMA DE CUSTEIO). 1. Recurso extraordinário em que se discute a exigibilidade da contribuição previdenciária incidente sobre adicionais e gratificações temporárias, tais como 'terço de férias', 'serviços extraordinários', 'adicional noturno', e 'adicional de insalubridade'. Discussão sobre a caracterização dos valores como remuneração, e, portanto, insertos ou não na base de cálculo do tributo. Alegada impossibilidade de criação de fonte de custeio sem contrapartida de benefício direto ao contribuinte. Alcance do sistema previdenciário solidário e submetido ao equilíbrio atuarial e financeiro (arts. 40, 150, IV e 195, § 5º da Constituição). 2. Encaminhamento da questão pela existência de repercussão geral da matéria constitucional controvertida.” (RE 593.068-RG, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe 22.5.2009.)
+    O art. 328 do RISTF autoriza a devolução de recursos extraordinários e de agravos aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+    Ante o exposto, em juízo de retratação, torno sem efeito a decisão embargada, determino a devolução dos autos à Corte de origem para os fins previstos no art. 543-B do Código de Processo Civil e julgo prejudicados os presentes embargos de declaração.
+    Publique-se.
+    Brasília, 12 de novembro de 2014.
+Ministra Rosa Weber
+Relatora
