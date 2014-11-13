@@ -1,0 +1,36 @@
+DECISÃO
+  HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO DE “RECURSO EM HABEAS CORPUS”. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE HABEAS CORPUS: DESCABIMENTO. RECURSO EM HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Em 4.11.2014, neguei seguimento ao presente habeas corpus:
+    “(...) 1. Habeas corpus, com requerimento de medida liminar, impetrado por CARLOS JOSÉ BARCELLAR, em benefício próprio, contra ato do Relator do Habeas corpus n. 296.806, Ministro Newton Trisotto, do Superior Tribunal de Justiça.
+    2. Em confusa petição inicial, o Impetrante/Paciente narra que:
+     ‘[A] autoridade coatora (…) não julg[ou] até a presente data o HC 296.802/MG (214/0141931-6), conforme despacho do Excelentíssimo Senhor Desembargador Dr. CÁSSIO SALOMÉ do Tribunal de Justiça do Estado de Minas Gerais, nos termos a seguir:
+    ‘Ante o exposto, declino da competência para apreciar o presente remédio constitucional para o Superior Tribunal de Justiça, determinando a remessa dos autos àquela colenda Corte, nos termos do art. 89, XX, do Regimento Interno do Tribunal de Justiça de Minas Gerais, com as nossas respeitosas homenagens.’
+    A relatora não observou com carinho as determinações dos artigos 654 e 656 do Código de Processo Penal, face prescrever que não se exige qualquer formalidade na impetração do remédio heróico e não poderia ser diferente, pois o mais importante é a tutela da liberdade e não do formalismo. Por esta razão, não há necessidade de ser advogado ou ser representante legal do paciente para impetrar o writ.
+    (…)
+    No acórdão n° 1.0223.09.290961-1/001, foram constatadas: nulidade, prescrição, decadência e cerceamento de defesa (falta de intimação para interrogatório) e, a Turma da 3ª Câmara Criminal do TJMG, só acolheram as preliminares de prescrição e decadência, fechando os olhos para as ilegalidades fundamentada no art. 648, inciso I e VI, do Código de Processo Penal Brasileiro, pois, o vício é manifesto e, trata-se de NULIDADE ABSOLUTA! (...)’.
+    3. Este o teor dos pedidos:
+    ‘(...) Diante ao exposto, requer do Excelentíssimo Senhor Ministro Presidente, conceder em caráter liminar o remédio constitucional, pois, foi constatado pela 3ª Câmara Criminal do Tribunal de Justiça de Minas Gerais: nulidade, prescrição, decadência e cerceamento de defesa (falta de intimação para interrogatório), com fundamento no princípio da dignidade da pessoa humana, c/c artigos: 37 § 6° da CF/88, artigo 133, incisos I e II do CPC, artigo 927 e seguintes do Código Civil brasileiro (...)’.
+    Examinada a matéria posta à apreciação, DECIDO.
+    4. A questão trazida neste habeas, afirmada pela parte como relacionada ao pretenso constrangimento causado pelo Relator do Habeas Corpus n. 296.806, não traz elementos a sustentar o que expõe o Impetrante/Paciente.
+    5. Dispõe o art. 190, inciso II, do Regimento Interno deste Supremo Tribunal que a ‘petição do habeas corpus deverá conter (...) os motivos do pedido e, quando possível, a prova documental dos fatos alegados’.
+    6. No caso, não foram juntados pelo Impetrante/Paciente os documentos comprobatórios de suas alegações, sem o que não é possível analisar o acerto (ou eventual desacerto) jurídico do que assentado nas instâncias antecedentes, nem evitar eventual julgamento per saltum de questões não submetidas à apreciação desse Superior Tribunal, prática não admitida pela jurisprudência do Supremo Tribunal Federal (HC 73.390, Relator o Ministro Carlos Velloso, DJ 17.5.1996; HC 81.115, Relator o Ministro Ilmar Galvão, DJ 14.12.2001).
+    Na via tímida do habeas corpus, é imperiosa a apresentação de todos os elementos que demonstrem as questões postas em análise, por inexistir, na espécie, dilação probatória.
+    Nesse sentido:
+    ‘(...)’ (HC 95.152, de minha relatoria, DJe 21.11.2008); e
+    ‘(...)’ (HC 71.254, Relator o Ministro Sydney Sanches, DJ 24.2.1995).
+    7. Pelo exposto, sob pena de supressão de instância e afronta às regras constitucionais e legais de competência, nego seguimento ao presente habeas corpus (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal e art. 38 da Lei n.8.038/90), ficando, por óbvio, prejudicado o requerimento de medida liminar (...)”.
+    2. Publicada essa decisão no DJ de 5.11.2014, o Impetrante/Paciente interpôs, em 10.11.2014, “Recurso em Habeas Corpus em face da decisão teratológica proferida em 04 de novembro de 2014, que não concedeu a liminar”, reiterando as alegações da petição de habeas corpus.
+    Requer “do Excelentíssimo Senhor Ministro Presidente, conceder em caráter liminar o remédio constitucional, pois, foi constatado pela 3ª Câmara Criminal do Tribunal de Justiça de Minas Gerais: nulidade, prescrição, decadência e cerceamento de defesa (falta de intimação para interrogatório), com fundamento no princípio da dignidade da pessoa humana, c/c artigos: 37 § 6° da CF/88, artigo 133, incisos I e II do CPC, artigo 927 e seguintes do Código Civil brasileiro”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. O presente “Recurso em Habeas Corpus” não pode ter seguimento, por ser manifestamente incabível.
+    4. Nos termos a) do art. 102, inc. II, alínea “a”, da Constituição da República, “[c]ompete ao Supremo Tribunal Federal (...) julgar, em recurso ordinário (...) o ‘habeas-corpus’ (...) decidid[o] em única instância pelos Tribunais Superiores, se denegatória a decisão”; e b) do art. 105, inc. II, al. a, da Constituição da República, “[c]ompete ao Superior Tribunal de Justiça (...) julgar, em recurso ordinário (...) o ‘habeas-corpus’ (...) decidid[o] em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória”.
+    Neste Supremo Tribunal Federal, compete ao Plenário e às Turmas julgar “os habeas corpus denegados pelo Tribunal Superior Eleitoral ou, nos casos do art. 129, § 2º, da Constituição, pelo Superior Tribunal Militar”; e “os habeas corpus denegados em única ou última instância pelos tribunais locais ou federais, ressalvada a competência do Plenário” (art. 9º, inc. II, al. a, do Regimento Interno deste Supremo Tribunal Federal), respectivamente. Não há previsão legal ou regimental autorizador de interposição de “recurso em habeas corpus” contra decisão proferida neste Supremo Tribunal, desfavorável ao Paciente, em habeas corpus.
+    5. Acrescente-se que, ao contrário do que alega o Impetrante/Paciente, a “decisão teratológica” contra a qual se interpõe o presente recurso “não concedeu a liminar”. Por ela se negou seguimento ao habeas corpus, indeferindo liminarmente o pedido.
+    A interposição de “Recurso em Habeas Corpus” contra decisão monocrática constitui erro grosseiro e inescusável, considerando-se a previsão legal expressa, o que obsta a aplicação do princípio da fungibilidade recursal.
+    6. Pelo exposto, nego seguimento à presente petição recursal intitulada recurso em habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal c/c art. 102, inc. II, a da Constituição da República).
+    Publique-se.
+    Arquive-se.
+    Brasília, 13 de novembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
