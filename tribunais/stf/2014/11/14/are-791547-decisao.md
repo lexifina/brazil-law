@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal da Fazenda Pública do Estado do Rio de Janeiro, assim ementado (fls. 156):
+    “Embargos de Declaração. Férias não gozadas. Pecúnia. Indenizatória. Ajuizamento de várias ações. Fracionamento de valor. Possibilidade. Diversidade de atos ilícitos praticados pela Administração, permitindo o ajuizamento de tantas demandas quantos forem os meses de férias cujo gozo fora negado. Diversidade das causas de pedir remotas. Conexão que não importa em aumento do valor da causa de modo a ultrapassar o limite de 60 salários mínimos. Competência do Juizado Especial Fazendário. Omissão que se corrige. Indicação da base de cálculo da indenização. Inexistência de omissão. Conhecimento e provimento parcial do recurso.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 100, § 4º, da Constituição, bem como ao art. 87 do ADCT. Sustenta que o recorrido agiu em abuso de direito, pois “propôs outro processo de teor idêntico ao presente pedindo a conversão em pecúnia das férias por ele não gozadas referente ao período de 1996, 1998, 2000 e 2001, nos autos 0192415-85.2012.8.19.0001, em trâmite perante o 1° Juizado Especial Fazendário” (fls. 163).
+    A decisão agravada negou seguimento ao recurso por incidência da Súmula 284/STF.
+    A Procuradoria-Geral da República opina pelo não seguimento do recurso.
+    O recurso extraordinário não deve ser admitido. Observa-se que a Turma Recursal entendeu que não houve qualquer irregularidade diante do fracionamento dos pedidos, em diferentes ações, pelo recorrido. Sobre a questão, confira-se o seguinte trecho do voto condutor do acórdão recorrido (fls. 157):
+    “[...] embora haja coincidência das causas de pedir próximas (fundamentos jurídicos da pretensão) as causas de pedir remotas (fatos) se mostram distintas, na medida em que a Administração, ano após ano, vem supostamente praticando ilicitude ao não permitir o efetivo gozo de férias por parte do servidor.
+    Assim, indubitável que cada mês de férias cujo gozo não foi permitido ao Autor constitui causa de pedir diversa dos demais períodos, permitindo ao mesmo o exercício de seu direito de ação, seja de forma singular – postulando a devida indenização para cada um dos mesmos – ou por meio de cumulação de pedidos em uma única ação, tendo em vista a conexão existente.
+    Registra-se que a existência de conexão entre as demandas não importa em incremento do valor da causa, devendo ser aferida a competência do Juízo não pela totalidade das ações, mas sim de forma individualizada, analisando-se cada uma das demandas.
+    Também não há que se falar em violação à regra do precatório, eis que, como já dito, tratando-se de diferentes ilicitudes, a pretensão autoral não decorre de uma origem comum, não havendo qualquer impedimento ao desmembramento de seu pedidos em tantas demandas quanto reputar conveniente para a satisfação de sua pretensão.
+    Nesta esteira, vê-se não ser possível restringir o direito do Autor postular a reparação indenizatória pela não fruição de seus períodos de férias limitando-se seus pedidos ao valor de 60 salários mínimos, considerando a totalidade das demandas pelo mesmo ajuizadas.
+    […].”
+    Nota-se que, para dissentir da conclusão do Tribunal de origem, seriam necessárias a análise da legislação infraconstitucional pertinente e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Nesse sentido e sobre controvérsias análogas envolvendo o mesmo ente federativo ora recorrente, confiram-se as seguintes decisões: RE 808.516, Rel. Min. Gilmar Mendes; e RE 813.317, Rel.ª Min.ª Cármen Lúcia.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 14 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
