@@ -6,3 +6,4 @@ II - destinação da mercadoria importada: industrialização ou consumo, incorp
 III - descrição completa da mercadoria: todas as características necessárias à classificação fiscal, espécie, marca comercial, modelo, nome comercial ou científico e outros atributos estabelecidos pela Secretaria da Receita Federal que confiram sua identidade comercial;
 IV - países de origem, de procedência e de aquisição; e
 V - portos de embarque e de desembarque.
+§ 3º Quando aplicada sobre a exportação, a multa prevista neste artigo incidirá sobre o preço normal definido no art. 2º do Decreto-Lei nº 1.578, de 11 de outubro de 1977.
