@@ -5,3 +5,4 @@ III - contratação de seguro-garantia com as companhias seguradoras que não se
 IV - garantia prestada por organismos internacionais ou instituições financeiras que não sejam controladas pelo Poder Público;
 V - garantias prestadas por fundo garantidor ou empresa estatal criada para essa finalidade;
 VI - outros mecanismos admitidos em lei.
+Parágrafo único. (VETADO).
