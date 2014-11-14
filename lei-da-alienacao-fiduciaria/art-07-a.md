@@ -1,0 +1,1 @@
+Art. 7º-A. Não será aceito bloqueio judicial de bens constituídos por alienação fiduciária nos termos deste Decreto-Lei, sendo que, qualquer discussão sobre concursos de preferências deverá ser resolvida pelo valor da venda do bem, nos termos do art. 2º.
