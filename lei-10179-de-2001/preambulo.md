@@ -1,0 +1,2 @@
+Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 2.096-89, de 2001, que o Congresso Nacional aprovou, e eu, Antonio Carlos Magalhães, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
