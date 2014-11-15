@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DESVIO DE FUNÇÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO ESTADUAL: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “SERVIDOR PÚBLICO. VENCIMENTOS. DESVIO DE FUNÇÃO. SERVIDORA DA SECRETARIA DE ESTADO DA FAZENDA, TITULAR DO CARGO DE AUXILIAR DE SERVIÇOS. DESVIO DE FUNÇÃO. CARGO DE TÉCNICO DE APOIO À ARRECADAÇÃO TRIBUTÁRIA. PRETENSÃO AO PAGAMENTO DAS DIFERENÇAS DE VENCIMENTOS ENTRE OS CARGOS, OU INCORPORAÇÃO DOS DÉCIMOS (ART. 133 DA CE). INSUFICIÊNCIA DE PROVAS DO ALEGADO DESVIO DE FUNÇÃO. INEXISTÊNCIA DE REGULAR DESIGNAÇÃO A AUTORIZAR A INCORPORAÇÃO PREVISTA NA CONSTITUIÇÃO DO ESTADO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO NÃO PROVIDO”.
+    2. A Agravante alega ter o Tribunal de origem contrariado o art. 25 da Constituição da República.
+    Afirma que, “como se pode observar por toda a documentação acostada aos autos, a recorrente exerce atribuições de outro cargo, que tem vencimentos maiores do que a mesma vem recebendo”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência das Súmulas ns. 279, 280, 282 e 356 do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5.  Como assentado na decisão agravada, o art. 25 da Constituição não foi objeto de debate e decisão prévios pelo Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as súmula ns. 282 e 356 do Supremo Tribunal Federal:
+    “A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2008).
+    6. A apreciação do pleito recursal demandaria reexame do conjunto fático-probatório constante do processo e da legislação estadual aplicável à espécie (Constituição estadual), procedimento inviável de ser adotado validamente nessa via processual. Incidem, na espécie, as Súmulas ns. 279 e 280 deste Supremo Tribunal:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. 1. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. INCORPORAÇÃO DE DIFERENÇAS SALARIAIS. CONTROVÉRSIA DECIDIDA COM FUNDAMENTO EM LEGISLAÇÃO MUNICIPAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. 2. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO INVIÁVEL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 809.655-AgR/SP, de minha relatoria, Primeira Turma, DJ 5.5.2011).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ALEGADO DESVIO DE FUNÇÃO. RECLASSIFICAÇÃO NÃO RECONHECIDA NA ORIGEM: IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 723.203-AgR/RJ, de minha relatoria, Primeira Turma, DJ 6.3.2012).
+    “CONSTITUCIONAL E TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE DESVIO DE FUNÇÃO. SÚMULA STF 279. 1. Para divergir da conclusão a que chegou o Tribunal a quo acerca da existência de desvio de função, seria necessária a análise do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279). 2. Agravo regimental a que se nega provimento” (AI 815.680-AgR/RS, Relatora a Ministra Ellen Gracie, Segunda Turma, DJ 9.2.2011).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de novembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
