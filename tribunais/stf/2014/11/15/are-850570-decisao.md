@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CUMULAÇÃO DE BIÊNIOS E ADICIONAL POR TEMPO DE SERVIÇO. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “ADMINISTRATIVO – CONSTITUCIONAL – AÇÃO ORDINÁRIA – MUNICÍPIO DE GOVERNADOR VALADARES – BIÊNIO – QUINQUÊNIO – ACUMULAÇÃO – POSSIBILIDADE – NATUREZA DISTINTA – ART. 37, INC. XIV, DA CONSTITUIÇÃO DA REPÚBLICA – COMPATIBILIDADE – PROCEDÊNCIA.
+    1. O adicional por tempo de serviço concedido aos professores do Município de Governador Valadares não se confunde com o biênio, vantagem pessoal fundada no desempenho da atividade em sala de aula, pelo período de dois anos, razão pela qual é devida a parcela bienal aos servidores que tenham completado os requisitos de concessão até a revogação do art. 218, inc. XIII, da Lei Municipal nº 3.583/92 pelo art. 2º da Lei Complementar nº 15/98” (fl. 339, doc. 1).
+    2. No recurso extraordinário, o Agravante alega ter o Tribunal de origem contrariado os arts. 5º, inc. XXXVI, e 37, inc. XIV, da Constituição da República, e o art. 17 dos Atos das Disposições Constitucionais Transitórias.
+    Sustenta ter sido “consider[ada] legítima a cumulação de pagamentos de biênios com adicionais temporais, com fundamento na mesma base temporal” (fl. 378, doc. 1).
+    3. Inadmitiu- se o recurso extraordinário sob o fundamento de incidência das Súmulas ns. 283 e 284 do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A apreciação do pleito recursal demandaria o exame da Lei municipal n. 3.583/1992 e da Lei Complementar municipal n. 15/1998. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 280 do Supremo Tribunal Federal:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. MAGISTÉRIO. PAGAMENTO DE BIÊNIOS. RESTABELECIMENTO. INTERPRETAÇÃO DA LEI MUNICIPAL 3.583/1992 E DA LEI COMPLEMENTAR MUNICIPAL 15/1998. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 22.10.2008. A suposta ofensa aos postulados constitucionais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo – Lei Municipal 3.583/1992 e Lei Complementar Municipal 15/1998 -, procedimento vedado nesta instância extraordinária. Precedentes. O Tribunal a quo dirimida a controvérsia – pagamento dos adicionais biênio e quinquênio que, por não terem a mesma natureza, podem ser percebidos cumulativamente -, com espeque em interpretação de legislação municipal, incide, na espécie, o óbice da Súmula 280/STF: ‘Por ofensa a direito local não cabe recurso extraordinário.’ Agravo regimental conhecido e não provido” (AI 748.545-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 4.6.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MAGISTÉRIO. RESTABELECIMENTO DO PAGAMENTO DOS BIÊNIOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO MUNICIPAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 592.025-AgR, de minha relatoria, Primeira Turma, DJe 13.3.2009).
+    Nada há, pois, a prever quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. b, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de novembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
