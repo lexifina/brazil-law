@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na alegação de afronta ao art. 201, § 7º, inciso II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Na esteira da jurisprudência desta Corte, a discussão versada nos autos não alcança estatura constitucional, tendo em vista que a análise da violação apontada no apelo extremo demandaria, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie e o revolvimento do conteúdo fático-probatório dos autos, em desatenção à exigência do art. 102, III, “a”, da Lei Maior e ao enunciado da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido, cito:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria de trabalhador rural. Requisitos para concessão do benefício não demonstrados na origem. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido.” (ARE 674.431-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 27.6.2013.)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA DE TRABALHADOR RURAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 619.974-AgR, Rel Min. Cármen Lúcia, 1ª Turma, DJe 24.9.2010.)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Previdenciário. Requisitos para a concessão de aposentadoria especial rural. Preenchimento de requisitos. 3. Necessidade de prévia análise e interpretação da legislação infraconstitucional. Ofensa reflexa. 4. Necessidade de revolvimento de fatos e provas. Óbice do Enunciado 279 da Súmula do STF. 5. Agravo regimental a que se nega provimento” (ARE 788.456-AgR, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 28.4.2014.)
+    “DIREITO PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. BENEFÍCIO EM ESPÉCIE. APOSENTADORIA POR INVALIDEZ. TRABALHADOR RURAL. PERÍODO DE CARÊNCIA NÃO COMPROVADO. PERDA DA QUALIDADE DE SEGURADO DA PREVIDÊNCIA SOCIAL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 280 DO STF. ANÁLISE DO CONTEXTO FÁTICO PROBATÓRIO. SÚMULA 279 DESTA CORTE. PRECEDENTES.” (AI 857.261/RS, Rel. Min. Luiz Fux, decisão monocrática, DJe 14.5.2013.)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de novembro de 2014.
+Ministra Rosa Weber
+Relatora
