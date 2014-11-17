@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Sindicato dos Servidores Públicos Municipais de Acaraú (Sindsep-Acaraú), Sindicato dos Trabalhadores do Serviço Público Municipal de Quixeré (SINTSEMQ), Sindicato dos Servidores Públicos Municipais Redenção (SINSEMPRE), Sindicato dos Servidores Públicos Municipais de Paramoti (SINDSEMP) (documento eletrônico nº 34) e a Federação dos Trabalhadores no Serviço Público Municipal do Estado do Ceará (FETAMCE) (documento eletrônico nº 64) vêm aos autos requerer ingresso no feito na qualidade de amicus curiae.
+    Nos termos do art. 7º, § 2º, da Lei nº 9.868/99, compete ao relator, considerando a relevância da matéria e a representatividade dos postulantes, por meio de despacho irrecorrível, admitir ou não pedidos de intervenção de interessados na condição de amicus curiae.
+    A presente ação direta de inconstitucionalidade foi ajuizada pela CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS – CNM contra a Emenda Constitucional nº 63/10, que acrescentou o § 5º ao art. 198 da Constituição Federal, passando a dispor da forma seguinte:
+    “§ 5º Lei federal disporá sobre o regime jurídico, o piso salarial profissional nacional, as diretrizes para os Planos de Carreira e a regulamentação das atividades de agente comunitário de saúde e agente de combate às endemias, competindo à União, nos termos da lei, prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios, para o cumprimento do referido piso salarial.”
+    Os sindicatos requerentes representam os interesses dos servidores de cinco municípios do Estado do Ceará, tendo requerido ingresso no feito como amici curiae no intuito de defender os interesses dos agentes comunitários de saúde (ACS) e agentes de combate às endemias (ACE’s) das respectivas localidades (documento eletrônico nº 34).
+    Ocorre que a Federação dos Trabalhadores no Serviço Público Municipal do Estado do Ceará (FETAMCE), que também requer ingresso no feito como amicus curiae, é entidade representativa de todos os servidores públicos municipais do Estado do Ceará, sendo constituída justamente por sindicatos dos trabalhadores no serviço público dos municípios do Estado. Confira-se o que consta do seu estatuto:
+    “ART. 4º - A representação da categoria profissional abrange todos os Servidores Públicos Municipal, independentemente do regime jurídico, ligados a administração publica direta e indireta e Câmara Municipal.
+    ART. 5º - A Federação dos Trabalhadores no Serviço Público Municipal do Estado do Ceará é constituída de Sindicatos dos Trabalhadores no Serviço Público que estejam organizados e estruturados, de acordo com o presente Estatuto.
+    ART. 6º - São prerrogativas da Federação:
+    A - Representar os interesses gerais da categoria abrangida pelos seus sindicatos filiados e interesses individuais de seus membros, mesmo onde não haja sindicato de servidores públicos, inclusive na condição de substituto processual” (grifos nossos).
+    Percebe-se, pois, que os agentes comunitários de saúde (ACS) e agentes de combate às endemias (ACE’s) do Estado do Ceará já estarão amplamente representados nesta ação com o ingresso da FETAMCE como amicus curiae.
+    Ademais, os argumentos trazidos pelos sindicatos coincidem com aqueles veiculados na manifestação da Federação dos Trabalhadores no Serviço Público Municipal do Estado do Ceará (FETAMCE), no sentido da defesa do ato impugnado, de modo que eventual admissão dos sindicatos como amici curiae neste feito não atingiria o escopo de pluralização do debate constitucional.
+    Ante o exposto, defiro o pedido da Federação dos Trabalhadores no Serviço Público Municipal do Estado do Ceará (FETAMCE); e indefiro o pedido formulado pelo Sindicato dos Servidores Públicos Municipais de Acaraú (Sindsep-Acaraú), pelo Sindicato dos Trabalhadores do Serviço Público Municipal de Quixeré (SINTSEMQ), pelo Sindicato dos Servidores Públicos Municipais Redenção (SINSEMPRE) e pelo Sindicato dos Servidores Públicos Municipais de Paramoti (SINDSEMP), mas recebo a petição como memorial.
+    Publique-se.
+    Brasília, 17 de novembro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
