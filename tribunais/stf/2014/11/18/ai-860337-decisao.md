@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    "COMERCIAL. FALÊNCIA. SUBSIDIÁRIA INTEGRAL. NATUREZA JURÍDICA. DUPLICATAS DE PRESTAÇÃO DE SERVIÇOS. DEPÓSITO ELISIVO. CONDIÇÃO DA AÇÃO. REVOGAÇÃO DE DISPOSITIVO LEGAL. POSSIBILIDADE JURÍDICA DO PEDIDO. INTELIGÊNCIA DOS ARTIGOS 267, § 3º E 462, AMBOS DO CÓDIGO DE PROCESSO CIVIL. PRECEDENTES. Subsidiária Integral criada por autorização de Sociedade de Economia Mista não detém o mesmo status desta, porque é requisito essencial à caracterização de tais sociedades a criação por lei específica. Duplicata de Prestação de Serviços, acompanhada da comprovação dessa prestação e devidamente protestada, constitui título hábil para instruir pedido de falência, porque atende ao comando do art. 1º, da Lei Falencial, do art. 585, do Código de Processo Civil e, ainda, se mostra em conformidade com os conceitos inseridos na Lei n. 5.474/68. Com efeito, optando pelo depósito elisivo, o devedor limitou a discussão à legitimidade ou à importância do crédito reclamado, uma vez que, feito o depósito, a falência não pode ser decretada, pela regra do art. 11, § 2º da Lei de Falências. A possibilidade jurídica do pedido, uma das condições da ação, quando nasce no curso do processo, como consequência de alteração legislativa, pode e deve ser reconhecida pelo Magistrado, enquanto não completar o seu oficio e, mais do que isso, o Tribunal pode reexaminar e decidir sobre a matéria, tudo a teor dos arts. 267, § 3º e 462, ambos, do Código de Processo Civil. Precedentes do Superior Tribunal de justiça. RECURSO CONHECIDO E PROVIDO’” (fls. 25-26).
+    Os embargos de declaração opostos foram rejeitados (fls. 39-41).
+    2. No recurso extraordinário, a Agravante afirma ter o Tribunal de origem contrariado o art. 5º, inc. LV, da Constituição da República.
+    Sustenta que o “acórdão hostilizado contrariou o artigo 5º, inciso LV, da Constituição Federal, que materializa em preceito legal os sagrados princípios do contraditório e da ampla defesa” (fl. 12).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta (fls. 6-8).
+    No agravo, salienta-se que “o Tribunal estadual, porém, olvidou o requerimento e aplicou o parágrafo do artigo 513 sem que a causa estivesse madura para permitir o julgamento de plano da lide, cerceado o direito de ampla defesa da Transpetro, que, antes do julgamento do mérito, pretendia produzir prova pericial” (fl. 4).
+    4. Em 26.3.2014, o Presidente do Supremo Tribunal Federal negou seguimento a este agravo, por ausência da certidão de publicação da decisão agravada (fl. 78).
+    Contra essa decisão Petrobrás Transporte S/A – Transpetro interpôs agravo regimental (fls. 80 e 83), não conhecido pelo Presidente do Supremo Tribunal Federal, por intempestividade (fls. 85-86).
+    Petrobrás Transporte S/A – Transpetro interpôs novo agravo regimental contra essa decisão (fls. 88-89). Em 8.9.2014, o Presidente do Supremo Tribunal Federal reconsiderou sua decisão e determinou a distribuição deste agravo (fl. 93).
+    Examinados os elementos havidos no processo, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    6. No julgamento do Agravo no Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal Federal assentou inexistir repercussão geral na questão discutida nestes autos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos que suscitarem a mesma questão constitucional devem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    7. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil c/c art. 327, caput e § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de novembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
