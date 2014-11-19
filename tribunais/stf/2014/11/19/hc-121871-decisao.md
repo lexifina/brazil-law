@@ -1,0 +1,16 @@
+DECISÃO:
+Ementa: Habeas corpus. Alegação de demora no julgamento do habeas corpus em trâmite no STJ. 1. Não há data provável para o julgamento do writ e não foram prestadas as informações, fatos estes aptos a justificar a concessão da ordem para determinar o imediato julgamento daquela ação. 2. Ordem concedida.
+    1. Trata-se de habeas corpus, com pedido liminar, em que se alega demora no julgamento do Habeas Corpus 240.403, em tramitação no Superior Tribunal de Justiça.
+    2. O impetrante afirma que o habeas corpus impetrado no STJ encontra-se pendente de julgamento há mais de dois anos. Assim, ainda segundo o impetrante, a demora na apreciação do habeas corpus constituiria constrangimento ilegal.
+    3. As informações não foram prestadas e a Procuradoria-Geral da República opinou pela concessão da ordem.
+    4. É o relatório. Decido.
+    5. Inicialmente, ressalto que ambas as Turmas do Supremo Tribunal Federal têm precedentes admitindo, em determinadas hipóteses, a possibilidade de se caracterizar a ocorrência de constrangimento ilegal pela demora excessiva no julgamento de habeas corpus pelos tribunais de origem. Tal possibilidade fica reforçada pela explicitação, feita pela Emenda Constitucional nº 45/2004, do direito fundamental à razoável duração do processo. Nesse sentido, a título de exemplo, veja-se o HC 110.367, Relª. Minª. Cármen Lúcia.
+    6. Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, observo que os autos foram distribuídos em 26.04.12 e com decisão de indeferimento da liminar datada do mesmo dia. Contudo, no dia 07.04.2014 os autos foram redistribuídos ao Min. Nefi Cordeiro e não se tem notícia de previsão do julgamento do habeas corpus.
+    7. Em hipótese semelhante, esta Corte assim decidiu:
+    Ementa: HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. ALEGAÇÃO DE DEMORA PARA O EXAME DE PEDIDO DE PRISÃO DOMICILIAR. QUESTÃO NÃO EXAMINADA PELO STJ. SUPRESSÃO DE INSTÂNCIA. DEMORA NO JULGAMENTO DO MÉRITO DE WRIT MANEJADO NO SUPERIOR TRIBUNAL DE JUSTIÇA CARACTERIZADA. WRIT PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, CONCEDIDA A ORDEM. I – Omissis. II – Apesar de a Ministra Relatora daquela Corte ter impulsionado o feito com as cautelas devidas, verifica-se que foi ajuizado há mais de 1 ano e 4 meses, sendo redistribuído por três vezes, e encontra-se concluso com as informações complementares desde 10/4/2013, sem, contudo, indicação de data provável para o seu julgamento. Esses fatos são aptos a justificar a concessão da ordem para determinar o imediato julgamento daquela ação, haja vista que, mesmo depois dos esclarecimentos apresentados, a situação permanece inalterada. III – Habeas corpus conhecido em parte e, na parte conhecida, concedida a ordem para determinar ao Superior Tribunal de Justiça que apresente o writ em mesa, para julgamento até a 10ª sessão, ordinária ou extraordinária, subsequente à comunicação da ordem. (HC 116726, Rel. Min. Ricardo Lewandowski)
+    8. Diante do exposto, acolho o parecer ministerial e, com fundamento do art. 192 do RI/STF, concedo a ordem para determinar ao Superior Tribunal de Justiça que apresente o writ em mesa, para julgamento.
+    Publique-se. Intimem-se.
+          Brasília, 19 de novembro de 2014.
+Ministro LUÍS ROBERTO BARROSO
+Relator
+Documento assinado digitalmente
