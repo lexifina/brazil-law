@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de decisão do Tribunal de Justiça do Distrito Federal e Territórios, cuja ementa transcrevo no que interessa:
+    “AÇÃO DE PRESTAÇÃO DE CONTAS. FUNCEF. PRIMEIRA FASE. INTERESSE DE AGIR. DEVER DE PRESTAR CONTAS. PRESTAÇÃO DE CONTAS NA FORMA DO ESTATUTO E REGULAMENTO. HONOÁRIOS ADVOCATÍCIOS (...)”. (eDOC 19)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV; 93, IX; e 202, § 1º, do texto constitucional.
+    Nas razões recursais, sustenta-se a ausência de interesse de agir da recorrida, uma vez que o plano de benefícios contratado estaria sendo plenamente adimplido pela recorrente.
+    Afirma-se ainda, que seria inviável a prestação de contas individual, já que as contribuições dos participantes não são geridas pelos fundos previdenciários de forma individual, mas sim aplicadas conjuntamente aos planos aos quais aderiram.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    A tese de violação ao art. 93, IX, da Constituição Federal não comporta trânsito, porque a jurisdição foi prestada nos termos da legislação vigente, embora contrária aos interesses do recorrente. Assim, não prospera a alegação de nulidade do acórdão por falta de fundamentação. Nesse sentido, o AI-QO-RG 791.292, de minha relatoria, DJ 13.8.2010, cuja ementa, no que interessa, transcrevo:
+    “3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    Observo ainda que esta Corte já apreciou a matéria relativa à violação aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise de normas infraconstitucionais no ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta, nos seguintes termos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Cumpre ressaltar que a suposta afronta ao art. 202, § 1º, da Constituição Federal não foi analisada pelo Tribunal a quo, nem foi objeto dos embargos declaratórios opostos, atraindo a aplicação das Súmulas 282 e 356 do STF.
+    O acórdão recorrido consignou o seguinte a respeito do direito à prestação de contas do recorrido:
+    “ (…) conforme preconiza a Lei Complementar 109/2001, que dispõe sobre o regime da previdência complementar em seu art. 3º, inciso IV, o Estado deverá assegurar aos participantes e assistidos o pleno acesso às informações relativas à gestão de seus respectivos planos de benefícios, nos termos do artigo 202, da Constituição Federal (...)”. (eDOC 19, p. 6)
+    Desse modo, por ser matéria remetida à disciplina exclusivamente infraconstitucional, a suposta violação da Carta Magna se daria de forma meramente reflexa, circunstância que torna inviável o recurso extraordinário. Nesse sentido, cito o seguinte acórdão:
+    “DIREITO PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. INTERESSE DE AGIR. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 02.02.2010. Divergir do entendimento do Tribunal de origem que decidiu no sentido de manter a sentença que julgou extinto o processo sem resolução de mérito, por reconhecer a ausência de interesse de agir, exigiria a análise da legislação processual aplicável à espécie, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, “a”, da Lei Maior. Precedentes. Agravo regimental conhecido e não provido. (RE-AgR 629.595, Rel. Min. ROSA WEBER, DJe 25.8.2014)
+    Cito ainda a seguinte decisão monocrática no mesmo sentido: AI 789.345, de minha relatoria, DJe 30.3.2011.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 19 de novembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
