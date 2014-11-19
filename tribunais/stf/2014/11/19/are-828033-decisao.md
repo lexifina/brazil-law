@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Quinta Turma Recursal dos Juizados Especiais Cíveis e Criminais do Estado da Bahia, assim ementado:
+    “RECURSO INOMINADO. ASSISTÊNCIA MULTIDISCIPLINAR DE SAÚDE FORNECIDA PELA PETROBRÁS. PACIENTE IDOSA (74 ANOS) E BENEFICIÁRIA DO PLANO DE SÁUDE SOLICITA AUTORIZAÇÃO PARA REALIZAR PROCEDIMENTO CIRÚRGICO DE CORREÇÃO LIPODISTROFIACRUSAL, TROCANTÉRICAS E BRAQUIAL BILATERAL COM CORREÇÃO HIPERTROFIA MAMÁRIA BILATERAL E CORREÇÃO DA PAREDE TORÁXICA ANTERIOR E POSTERIOR. COBERTURA NEGADA. CONDUTA OFENSIVA ÀS NORMAS E PRINCÍPIOS CONSAGRADOS NO CDC, AOS QUAIS TAMBÉM SE SUBMETEM OS CONTRATOS DE SAÚDE, INCLUSIVE OS ORIGINÁRIOS DE VÍNCULOS TRABALHISTAS, CUJA RELAÇÃO JURÍDICA SUBJACENTE NÃO EXCLUI A RELAÇÃO DE CONSUMO OBSERVADA, AFIRMANDO, CONSEQUENTEMENTE, A COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA CONHECER E JULGAR A CAUSA. DANOS MORAIS CONFIGURADOS. MANUTENÇÃO DA SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS. NÃO PROVIMENTO DO RECURSO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIII, e 114 da Constituição. Defende a competência da Justiça do Trabalho para processar e julgar a causa.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “o tema de fundo do inconformismo recursal já encontrou enfrentamento pelo STF, que reiteradamente tem acusado inexistir questão constitucional a ser deslindada, posto que, se presentes, as sugeridas violações à Constituição Federal, seriam decorrentes de anteriores afrontas a dispositivos infraconstitucionais, não se cogitando a violação direta e frontal a qualquer norma constitucional”.
+    O recurso extraordinário não merece provimento, tendo em vista que, para se chegar à conclusão sobre a competência diversa daquela estabelecida pela Turma Recursal, seriam necessários o reexame de fatos e provas e a análise das cláusulas contratuais. Nessa condições, a hipótese atrai a incidência das Súmulas 279 e 454/STF. Veja-se a ementa do RE 725.094-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Plano de saúde mantido pela Petrobrás. Natureza da relação jurídica. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. As instâncias de origem concluíram, com fundamento no Código de Defesa do Consumidor e nos fatos e nas provas dos autos, que a relação existente entre a ora agravada e o plano de saúde mantido pela agravante tem natureza consumerista, razão pela qual afastou a competência da Justiça do Trabalho para o julgamento do feito.
+    2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    3. Discussão, ademais, que não prescinde do exame de cláusulas contratuais. Incidência da súmula nº 454/STF.
+    4. Agravo regimental não provido.
+    Outros precedentes: ARE 712.869-AgR, Rel. Min. Marco Aurélio; ARE 675.920-AgR, Rel. Min. Luiz Fux; RE 723.210-AgR, Rel. Min. Ricardo Lewandowski; ARE 664.537-AgR, Rel. Min. Teori Zavascki.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 19 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
