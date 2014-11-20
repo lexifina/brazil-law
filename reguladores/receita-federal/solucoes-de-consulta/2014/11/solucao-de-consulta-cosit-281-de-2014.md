@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 281, de 14 de outubro de 2014
+ASSUNTO: IMPOSTO SOBRE OPERAÇÕES DE CRÉDITO, CÂMBIO E SEGUROS OU RELATIVAS A TÍTULOS OU VALORES MOBILIÁRIOS – IOF EMENTA: OPERAÇÕES DE CRÉDITO. NOVAÇÃO DE DÍVIDAS. PROCESSO DE RECUPERAÇÃO JUDICIAL. INCIDÊNCIA. Incide o IOF nas operações de novação de dívidas realizadas no âmbito de processo de recuperação judicial, cabendo à instituição financeira credora a responsabilidade pela cobrança e recolhimento do imposto. DISPOSITIVOS: Lei nº 11.101, de 2005, art. 59; Decreto nº 6.306, de 2007 (Regulamento do IOF), art. 2º, I, “a”, art. 3º, § 1º, VI, art. 4º, caput, art. 5º, I, art. 7º, §§ 7º a 11, e art. 10, II.
+[arquivo anexo: SC Cosit nº 281-2014.pdf]
