@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 85, de 18 de novembro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9404.90.00. Mercadoria: Protetor de colchão confeccionado com matéria têxtil matelassê, com forro impermeabilizado, guarnecido interiormente por uma manta acrílica de fibra sintética. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.04), RGI 6 (texto da subposição 9404.90) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 455, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9404.90.00. Mercadoria: Protetor de colchão confeccionado com matéria têxtil matelassê, com forro impermeabilizado, guarnecido interiormente por uma manta acrílica de fibra sintética.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.04), RGI 6 (texto da subposição 9404.90) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 455, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+CARLOS HUMBERTO STECKEL Presidente da 2ª Turma
