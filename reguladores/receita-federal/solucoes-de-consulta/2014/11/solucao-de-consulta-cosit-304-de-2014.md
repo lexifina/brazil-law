@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 304, de 24 de outubro de 2014
+ASSUNTO: SIMPLES NACIONAL EMENTA: ORGANIZADORA DE FEIRAS E EVENTOS. RECEITA BRUTA. O conceito de receita bruta das micro e pequenas empresas organizadoras de eventos é determinado pelo artigo 3º da Lei Complementar nº 123, de 2006. O § 2º do art. 30 da Lei nº 11.771, de 2008, não modifica o conceito de receita bruta dessas pessoas jurídicas, para fins de apuração da base de cálculo do IRPJ, da CSLL, da Contribuição para o PIS/Pasep e da Cofins. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 3º. Resolução CGSN nº 94, artigo 2º, inciso II.
+[arquivo anexo: SC Cosit nº 304-2014.pdf]
