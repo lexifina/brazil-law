@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 288, de 14 de outubro de 2014
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF EMENTA: SERVIÇO DE PROCESSAEMNTO DE DADOS. RETENÇÃO NA FONTE. INAPLICABILIDADE. As importâncias pagas ou creditadas pela prestação de serviços de processamento de dados contratados entre pessoas jurídicas, por não constar tal serviço no rol taxativo daqueles de natureza caracterizadamente profissional, não estão sujeitas à retenção do Imposto sobre a Renda na fonte. DISPOSITIVOS LEGAIS: Lei nº 7.450, de 1985, art. 52; Decreto nº 3.000, de 1999 (RIR/1999), art. 647, § 1º; Instrução Normativa SRF nº 23, de 1986; Parecer Normativo CST nº 8, de 1986; e Resolução Concla n° 1, de 2006.
+[arquivo anexo: SC Cosit nº 288-2014.pdf]
