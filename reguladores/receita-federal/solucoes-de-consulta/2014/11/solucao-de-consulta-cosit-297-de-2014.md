@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 297, de 14 de outubro de 2014
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO EMENTA: REGIME ESPECIAL DE TRIBUTAÇÃO. CONSTRUÇÃO OU REFORMA DE ESTABELECIMENTOS DE EDUCAÇÃO INFANTIL. VIGÊNCIA. As normas relativas ao regime especial de tributação aplicável à construção ou reforma de estabelecimentos de educação infantil somente passaram a ter eficácia jurídica a partir do dia 2 de janeiro de 2014, com a publicação da Instrução Normativa RFB nº 1.435, de 2013. DISPOSITIVOS LEGAIS: Lei nº 12.715, de 2012, art. 24, § 3º; Instrução Normativa RFB nº 1.435, de 2013, arts. 17 a 21 e 26.
+[arquivo anexo: SC Cosit nº 297-2014.pdf]
