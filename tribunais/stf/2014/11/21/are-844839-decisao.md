@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado pelo Superior Tribunal de Justiça:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIREITOS AUTORAIS. EXECUÇÃO MUSICAL. EVENTO RELIGIOSO E GRATUITO. COMPROVAÇÃO DO PROVEITO ECONÔMICO PARA EXIGIBILIDADE. DESNECESSIDADE. SÚMULA N. 168/STJ.
+    1. A atual jurisprudência desta Corte está sedimentada no sentido de que a cobrança da verba autoral independe da análise da utilidade econômica do evento.
+    2. Agravo regimental desprovido”. (eDOC 4, p. 122)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigo 5º, inciso XXVIII, alínea b, do texto constitucional.
+    Alega-se que a discussão se dá em saber se é devido ou não pagamento de direitos autorais em eventos nos quais não há proveito econômico por parte do realizador, que na espécie, seria entidade religiosa.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que divergir do entendimento adotado pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos e da legislação infraconstitucional aplicável à espécie, hipóteses que não ensejam a abertura da via extraordinária. Incide na espécie, portanto, o Enunciado 279 da Súmula do STF.
+    Confiram-se, a propósito, os seguintes julgados:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Autoral. Cobrança. 3. Revolvimento do acervo fático-probatório dos autos. Enunciado 279 da Súmula do STF. 4. Matéria infraconstitucional. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”. (ARE 774.560-AgR/SP, da minha relatoria, Segunda Turma, DJe 25.11.2013)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. COBRANÇA. DIREITOS AUTORAIS. MATÉRIA DE ORDEM INFRACONSTITUCIONAL. OFENSA REFLEXA. INCIDÊNCIA DA SÚMULA N. 636/STF. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes. 2. O princípio da legalidade e sua eventual ofensa não desafiam o recurso extraordinário quando sua verificação demanda a análise de normas de natureza infraconstitucional 3. O enunciado nº 636 da Súmula do STF dispõe, verbis: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida. 4. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, dos limites da coisa julgada e da prestação jurisdicional, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes: AI 804.854-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe de 24/11/2010 e AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie, DJe de 22/10/2010. 5. In casu, o acórdão recorrido assentou: (...)”. (AI 738.720-AgR/PR, Rel. Min. Luiz Fux, Primeira Turma, DJe 01.02.2013)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 21 de novembro de 2014.
+Ministro Gilmar Mendes
+Relator
