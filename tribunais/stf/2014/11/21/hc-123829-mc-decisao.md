@@ -1,0 +1,15 @@
+DECISÃO
+INDULTO – SUSPENSÃO CONDICIONAL DA PENA – ALCANCE – HABEAS CORPUS – LIMINAR –RELEVÂNCIA DEMONSTRADA – DEFERIMENTO.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O Conselho Permanente da Auditoria da 7ª Circunscrição Judiciária Militar condenou o paciente a dois meses de detenção, deferindo o benefício da suspensão condicional da pena, pelo prazo de dois anos, ante a prática do crime descrito no artigo 210, cabeça (lesão corporal culposa), do Código Penal Militar (Processo nº 0123-72.2012.7.07.0007). Posteriormente, concedeu-lhe indulto, com base no artigo 1º, inciso XIII, do Decreto nº 8.172, de 24 de dezembro de 2013. Observou ter sido cumprido um quarto do período de prova exigido, bem como os requisitos objetivos e subjetivos, todos previstos no aludido decreto.
+    Contra esse ato, o Ministério Público Militar formalizou recurso em sentido estrito – de nº 59-91.2014.7.007/PE – no Superior Tribunal Militar, alegando não poder ser considerado o período de prova como tempo de cumprimento da pena.   O Colegiado deu provimento ao recurso para reformar a decisão do Juízo de origem, afastando o indulto. Assentou a impossibilidade de computar o prazo probatório como execução da reprimenda, em virtude da natureza não sancionatória da suspensão condicional. Concluiu pela inexistência dos requisitos autorizadores do benefício.
+    Neste habeas, a Defensoria Pública da União assevera que o paciente já cumpriu mais tempo do que o exigido pelo decreto. Sustenta que o artigo 1º, inciso XIII, do Decreto nº 8.172/2013 autoriza a concessão do indulto no caso. Ressalta ter o paciente preenchido os requisitos objetivo e subjetivo. Diz não haver obstáculo ao deferimento, apontando ser o instituto da suspensão condicional da pena espécie de sanção penal. Defende a ausência de incompatibilidade entre os institutos.
+    Requer, liminarmente, a suspensão dos efeitos do acórdão formalizado no Recurso em Sentido Estrito nº 59-91.2014.7.007/PE, que tramitou no Superior Tribunal Militar. No mérito, busca o implemento do indulto e a consequente declaração de extinção da punibilidade.
+    O processo encontra-se instruído para exame do pedido de medida acauteladora.
+    2. Em primeiro lugar, a suspensão condicional da pena implica, por ficção jurídica, verdadeira execução do título judicial condenatório. Por isso mesmo, há o período denominado como de prova. Em segundo lugar, a interpretação sistemática dos diversos dispositivos do Decreto nº 8.172/13 é conducente a concluir-se, ante a ordem natural própria ao Direito, a organicidade a regê-lo, que o benefício da suspensão condicional da pena não é obstáculo à observância do perdão, do indulto.
+    3. Defiro a liminar pleiteada, suspendendo, até o julgamento final deste habeas corpus, a eficácia do acórdão do Superior Tribunal Militar relativo ao Recurso em Sentido Estrito nº 59-91.2014.7.07.0007/PE.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 21 de novembro de 2014, às 16h25.
+Ministro MARCO AURÉLIO
+Relator
