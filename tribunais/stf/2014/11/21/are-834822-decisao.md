@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. ADMINISTRATIVO. EFEITOS DA DECLARAÇÃO DE INCONSTITUCIONALIDADE. LEI MUNICIPAL Nº 8.055/2011. TARIFAÇÃO DE ESTACIONAMENTOS PRIVADOS. COMPETÊNCIA PRIVATIVA DA UNIÃO. USURPAÇÃO. PRECEDENTES.
+1. A regulamentação da cobrança de estacionamento em locais privados é matéria inserida na competência legislativa da União, nos termos do artigo 22, I, da CF, porquanto se trata de norma de natureza de direito civil, conforme jurisprudência afirmada pelo Plenário desta Corte. Precedentes: ADI 1.623/RJ, Rel. Min. Joaquim Barbosa, Plenário, DJe de 17/3/2011, e RE 697.587-AgR/SE, Rel. Min. Celso de Mello, Segunda Turma, DJe de 26/10/2012.
+2. In casu, o acórdão recorrido assentou:
+“RECURSO INOMINADO. PERMANÊNCIA DE VEÍCULO EM ESTACIONAMENTO PRIVADO POR MENOS DE 15 (QUINZE) MINUTOS. PAGAMENTO DE TARIFA NO VALOR DE R$ 7,00 (SETE REAIS). ATO EM DESCONFORMIDADE COM A LEI MUNICIPAL N° 8.055/2011. RESTITUIÇÃO, EM DOBRO, DO VALOR
+PAGO PELA TARIFA. MÁ PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. INDENIZAÇÃO FIXADA EM R$ 2.000,00 (DOIS MIL REAIS). MANUTENÇÃO DA SENTENÇA PELOS SEUS PRÓPRIOS FUNDAMENTOS. JULGAMENTO CONFORME O DISPOSTO NO ART. 46, SEGUNDA PARTE, DA LEI Nº. 9.099/95, SERVINDO A SÚMULA DO JULGAMENTO COMO ACÓRDÃO. IMPROVIMENTO DO RECURSO. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E DOS HONORÁRIOS ADVOCATÍCIOS, ESTES ARBITRADOS EM 20% (VINTE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO.”
+3. Agravo PROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por WELL PARK ESTACIONAMENTOS E SERVIÇOS LTDA., com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão prolatado pela Terceira Turma Recursal do Poder Judiciário do Estado da Bahia, assim ementado:
+    “RECURSO INOMINADO. PERMANÊNCIA DE VEÍCULO EM ESTACIONAMENTO PRIVADO POR MENOS DE 15 (QUINZE) MINUTOS. PAGAMENTO DE TARIFA NO VALOR DE R$ 7,00 (SETE REAIS). ATO EM DESCONFORMIDADE COM A LEI MUNICIPAL N° 8.055/2011. RESTITUIÇÃO, EM DOBRO, DO VALOR PAGO PELA TARIFA. MÁ PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. INDENIZAÇÃO FIXADA EM R$ 2.000,00 (DOIS MIL REAIS). MANUTENÇÃO DA SENTENÇA PELOS SEUS PRÓPRIOS FUNDAMENTOS. JULGAMENTO CONFORME O DISPOSTO NO ART. 46, SEGUNDA PARTE, DA LEI Nº. 9.099/95, SERVINDO A SÚMULA DO JULGAMENTO COMO ACÓRDÃO. IMPROVIMENTO DO RECURSO. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E DOS HONORÁRIOS ADVOCATÍCIOS, ESTES ARBITRADOS EM 20% (VINTE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 22, I, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender não haver “mesmo que se cogitar a existência de repercussão geral na hipótese à ensejar a apreciação da Suprema Corte”.
+    É o relatório. DECIDO.
+    Merece prosperar o agravo.
+    A regulamentação da cobrança de estacionamento em locais privados é matéria inserida na competência legislativa da União, nos termos do artigo 22, I, da CF, porquanto se trata de norma de natureza de direito civil, conforme jurisprudência afirmada pelo Plenário desta Corte, no julgamento da ADI 1.623/RJ, Rel. Min. Joaquim Barbosa, Plenário, DJe de 17/3/2011. O julgado restou assim ementado, verbis:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ESTADUAL. ESTACIONAMENTO EM LOCAIS PRIVADOS. COBRANÇA. IMPOSSIBILIDADE. OFENSA AO ART. 22, I DA CONSTITUIÇÃO.”
+     Destaco, ainda, que esse entendimento vem sendo aplicado pela Corte no julgamento de casos análogos aos dos autos, no qual se discute a competência da União para legislar sobre a cobrança de estacionamentos privados, conforme se pode destacar da seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO – ESTACIONAMENTO EM LOCAIS PRIVADOS – COBRANÇA – IMPOSSIBILIDADE – VIOLAÇÃO AO ART. 22, I, DA CONSTITUIÇÃO FEDERAL – PRECEDENTE DO PLENÁRIO (ADI 1.623/RJ, REL. MIN. JOAQUIM BARBOSA) – RECURSO DE AGRAVO IMPROVIDO.” (RE 697.587-AgR/SE, Rel. Min. Celso de Mello, Segunda Turma, DJe de 26/10/2012)
+    Ex positis, PROVEJO o agravo e, com fundamento no disposto no artigo 544, § 4º, II, c, do CPC, dou provimento ao recurso extraordinário. Invertido o ônus da sucumbência.
+    Publique-se.
+    Brasília, 21 de novembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
