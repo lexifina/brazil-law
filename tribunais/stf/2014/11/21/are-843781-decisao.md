@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 4ª Turma do Tribunal Regional Federal da 5ª Região, assim ementado (fls. 139/140):
+    “TRIBUTÁRIO. EXECUÇÃO FISCAL. DECLARAÇÃO DO DÉBITO PELO CONTRIBUINTE. FORMA DE CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ENTREGA DA DCTF. SÚMULA 106 DO STJ.
+    I. A jurisprudência do STJ já firmou posicionamento no sentido de que a entrega da Declaração de Débitos Tributários Federais – DCTF é modo de constituição do crédito tributário, sendo desnecessária qualquer outra providência por parte do Fisco.
+    II. Caso o contribuinte apresente a declaração de débitos, mesmo em atraso, quando já corria o prazo de decadência para que o Fisco efetuasse o lançamento, é a partir deste momento (entrega da declaração), e não da data do vencimento do tributo, que começa a fluir o prazo prescricional quinquenal para a cobrança do crédito tributário, nos termos do art. 174 do CTN.
+    III. No caso, conforme consta na decisão agravada, a entrega pelo contribuinte da declaração de débito ocorreu em 29.10.1999, de modo que a prescrição somente consumar-se-ia em 29.10.2004.
+    IV. De acordo com o art. 174 do CTN (redação à época dos fatos), a prescrição era interrompida pela efetiva citação do executado.
+    V. Compulsando os autos, verifica-se que a execução foi ajuizada em 16 de março de 2004, tendo o despacho de citação sido preferido em 06 de maio de 2004, com expedição apenas em 28 de outubro de 2005. O AR foi devolvido em 25 de novembro de 2005, sem a citação da executada, por não ter sido encontrada no endereço indicado.
+    VI. Note-se, portanto, que quando expedido o mandado de citação já havia decorrido mais de cinco anos da data da entrega da declaração (29.10.1999). No entanto, tal fato não se deu por inércia do exequente, mas sim por demora nos atos do Judiciário, pois entre o ajuizamento da ação 16.03.2004) e a expedição do mandado de citação (28.10.2005) se passaram aproximadamente 1 ano e 6 meses.
+    VII. Dispõe a Súmula 106 do STJ que: “Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência.”.
+    VIII. Agravo de instrumento improvido e agravo regimental prejudicado.”
+    Foram interpostos embargos de declaração, aos quais foi negado provimento (fls. 152/155).
+    O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXIV, a, LIV e LV; e 93, IX, ambos da Carta. Sustenta, em síntese, que as normas da Lei nº 6.830/1980 acerca da prescrição não têm prevalência quando se trata de execução de dívida de natureza tributária, quando prevalecem as normas do CTN, em face do princípio estabelecido no artigo 146, II, b, da Carta.
+    A decisão agravada negou seguimento ao recurso, sob o seguinte fundamento:
+    “O recorrente, no entanto, não cuidou de desenvolver argumentação jurídica em relação à aplicação das normas que entende violadas. A simples transcrição dos artigos violados não garante a admissibilidade dos recursos excepcionais, fazendo-se necessário o desenvolvimento de uma fundamentação jurídica capaz de, ao menos em princípio, respaldar o conhecimento do recurso”.
+    Em sede de agravo, a parte argumenta que o recurso interposto deve ser admitido, uma vez que o acórdão recorrido contrariou objetivamente as normas tidas por violadas.
+    A pretensão não merece acolhida. De início, cumpre registrar que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia ora em debate, referente à violação aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, nos termos da jurisprudência da Corte, a apuração da prescrição no caso concreto, sem que as razões recursais estejam correlacionadas com a conformação constitucional do instituto em tese, é matéria de apreciação das instâncias ordinárias. Confira-se o RE 551336, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Tributário. Cofins. Não cumulatividade. Insumos do processo de produção. Necessidade da análise prévia de legislação infraconstitucional. Ofensa constitucional apenas reflexa.
+    1. O princípio da não cumulatividade aplicável às contribuições sociais foi regulamentado pelas Leis nºs 10.637/02 e 10.833/03, nas quais o legislador listou os bens e serviços capazes de gerar crédito.
+    2. No julgamento do RE nº 422.005-ED (Relatora a Ministra Ellen Gracie, DJ de 20/4/06), a Corte firmou o entendimento de que eventuais controvérsias na aplicação dos institutos da compensação e da prescrição devem ser resolvidas nas instâncias ordinárias ou por via administrativa.
+    3. Agravo regimental não provido.”
+    Quanto à alegação de ofensa ao art. 93, IX, da Constituição, o plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes)
+    Por fim, verifico que a parte não indicou as razões pelas quais caberia o recurso extraordinário pela alínea c, do art. 102, da Constituição. Nessas condições, aplica-se o teor da Súmula 284/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 21 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
