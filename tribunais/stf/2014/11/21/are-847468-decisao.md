@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 24ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 36):
+    “APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM S/A.
+    OBJETO DO LITÍGIO. Pelo RIC de fl. 29, o objeto do processo é o Contrato de Participação Financeira nº. 92-108887, em que emitidas 3.575 ações na data de 30.06.1993.
+    CARÊNCIA DE AÇÃO. DIVIDENDOS. INOCORRÊNCIA. Se ações tivessem sido emitidas no momento correto teriam produzido rendimentos. Corolário lógico é cabível o pedido do referido pagamento.
+    PRESCRIÇÃO. INOCORRÊNCIA. A prescrição da pretensão de complementação acionária está regida pelo art. 177 do CC/1916 ou pelo art. 205 do Novo Código Civil de 2002, estabelecendo, respectivamente, os prazos de vinte e dez anos.
+    DIVIDENDOS. Os dividendos são decorrentes dessas ações que não foram subscritas ao acionista. São devidos consoante o que foi pago na época para os acionistas, conforme opção da empresa. No caso, houve pedido específico, sendo devidos tais valores.
+    JUROS SOBRE CAPITAL PRÓPRIO. Os juros sobre capital próprio são parcelas acessórias que seguem o principal. Contudo é necessário pedido específico da parte autora para que haja o respectivo recebimento. No caso, houve pedido específico, sendo devidos tais valores.
+    DIRETRIZES PARA O CÁLCULO DO VALOR INDENIZATÓRIO. As diretrizes para o cálculo do valor indenizatório devem ser definidas desde logo a fim de que se evite novo litígio por ocasião do cumprimento da sentença. A correção monetária pelo IGP-M incide desde a data do trânsito em julgado do feito, momento em que é apurada a cotação da ação. Prospera o apelo da autora, no ponto.
+    GRUPAMENTO ACIONÁRIO. FATOR DE INCORPORAÇÃO. O cálculo do valor indenizatório deve considerar todos os grupamentos acionários e os fatores de incorporação conforme decidido em assembléia pelas empresas de telefonia.
+    APLICAÇÃO DO BALANCETE MENSAL. APLICAÇÃO DO BALANCETE MENSAL. COTAÇÃO DA DATA DO TRÂNSITO EM JULGADO. Quanto aos pedidos para que seja utilizada a cotação da data do trânsito em julgado (deduzido pela parte autora) e o balancete mensal da data da integralização (deduzido pela parte ré), não há interesse recursal, uma vez que referidos critérios já ficaram estipulados na sentença (fls. 68, e 69, v). Logo, não conheço dos apelos, no ponto.
+    JUROS DE MORA. INCLUSÃO NO VALOR PRINCIPAL. Os juros moratórios incidem sobre a diferença acionária apurada, pois estão incluídos na condenação do principal, desde a citação. Inteligência das Súmulas 254 do STF e 34 do TJRS.
+    HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. Tratando-se de sentença condenatória, cabe ao magistrado arbitrar a verba honorária segundo sua apreciação eqüitativa, observada as normas das alíneas ‘a’, ‘b’ e ‘c’ do §3º do artigo 20 do CPC. Considerando o zelo profissional, o lugar de prestação do serviço, bem como a natureza da causa, impõe-se o arbitramento da verba honorária em 10% sobre o valor da condenação.
+    CONHECIDOS, EM PARTE, AMBOS OS APELOS E, NESTA PARTE, PARCIALMENTE PROVIDOS.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 3º e 5º, caput, XXXVI, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que se constata “a absoluta falta de prequestionamento, requisito esse específico de admissibilidade, o qual pressupõe debate e decisão do Tribunal “a quo” sobre os temas propostos” (fls. 213).
+    O recurso não deve ser provido.
+    Quanto ao art. 3º, I, da Constituição Federal, tal como constatou a decisão agravada, a alegada ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco foi suscitada nos embargos de declaração opostos para sanar eventual omissão. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, para dissentir do acórdão recorrido quanto à prescrição e ao tipo de contrato financeiro firmado pelas partes, seria necessária a análise da legislação infraconstitucional pertinente (Código Civil) e das cláusulas desse contrato firmado, procedimento inviável em sede de recurso extraordinário. Nessas condições, a hipótese atrai a incidência da Súmula 454/STF.
+    Ademais, incide a jurisprudência do Supremo Tribunal Federal que afasta a repercussão geral da matéria ora discutida. Nessa linha, vejam-se as seguintes ementas:
+    “RECURSO. Extraordinário. Incognoscibilidade. Telefonia. Contrato de participação financeira. Subscrição de ações. Matéria infraconstitucional. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, versa sobre matéria infraconstitucional.” (AI 729263-RG, Rel. Min. Cezar Peluso)
+    “CONVERSÃO DO DIREITO DE USO DE LINHAS TELEFÔNICAS. DIREITO ACIONÁRIO. INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. (RE 727281-RG, Rel.ª Min.ª Rosa Weber)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 21 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
