@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Ceará, ementado nos seguintes termos, no que interessa:
+    “PREVIDENCIÁRIO. CONTAGEM DO TEMPO DE SERVIÇO. ATIVIDADE INSALUBRE. EX-CELETISTA. POSSIBILIDADE. PRECEDENTES STJ. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ARTIGO 40, §4º, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE LEI COMPLEMENTAR A DISCIPLINAR A MATÉRIA. MORA LEGISLATIVA. REGIME GERAL DA PREVIDÊNCIA SOCIAL […] Apelo e remessa necessária conhecidos, mas para negar-lhes provimento mantendo inalterada a sentença ora vergastada” (eDOC 4, pp. 22-23).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 40, §4º, do texto constitucional.
+    Nas razões recursais, alega-se que inexiste direito à aposentadoria especial, uma vez que não há lei complementar que dê aplicabilidade ao §4º do artigo 40 da Constituição Federal.
+    A Presidência do TJCE inadmitiu o recurso por reputar que o acórdão recorrido está em consonância com a jurisprudência do Supremo Tribunal Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    De plano, constato que o acórdão recorrido não diverge da jurisprudência pacífica do STF, segundo a qual se aplica aos servidores públicos a disciplina legal relativa ao trabalho em condições especiais prevista para os trabalhadores em geral, conquanto não advenha legislação específica para tratar da aposentadoria especial do servidor.
+    Veja-se a ementa do MI 721, Rel. Min. Marco Aurélio, DJe 30.11.2007, no qual o Tribunal Pleno assentou a questão:
+    “MANDADO DE INJUNÇÃO - NATUREZA. Conforme disposto no inciso LXXI do artigo 5º da Constituição Federal, conceder-se-á mandado de injunção quando necessário ao exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Há ação mandamental e não simplesmente declaratória de omissão. A carga de declaração não é objeto da impetração, mas premissa da ordem a ser formalizada. MANDADO DE INJUNÇÃO - DECISÃO - BALIZAS. Tratando-se de processo subjetivo, a decisão possui eficácia considerada a relação jurídica nele revelada. APOSENTADORIA - TRABALHO EM CONDIÇÕES ESPECIAIS - PREJUÍZO À SAÚDE DO SERVIDOR - INEXISTÊNCIA DE LEI COMPLEMENTAR - ARTIGO 40, § 4º, DA CONSTITUIÇÃO FEDERAL. Inexistente a disciplina específica da aposentadoria especial do servidor, impõe-se a adoção, via pronunciamento judicial, daquela própria aos trabalhadores em geral - artigo 57, § 1º, da Lei nº 8.213/91.”
+    Nesse sentido, vale ressaltar que tal entendimento deu origem à Súmula Vinculante n. 33, verbis: “Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, §4º, inciso III da Constituição Federal, até a edição de lei complementar específica”.
+    Do mesmo modo, a jurisprudência desta Corte é firme no sentido de que o tempo de serviço prestado sob o regime celetista deve ser contado para todos os efeitos jurídicos.
+    Confira-se, a propósito, o seguinte julgado:
+    “1. RECURSO. Extraordinário. Não conhecimento. Servidor público estatutário. Ex-celetista. Aposentadoria especial. Tempo de serviço. Contagem para todos os fins. Agravo regimental improvido. O tempo de serviço público federal, prestado sob regime celetista, deve ser contado para todos os efeitos, incorporando-se ao patrimônio dos servidores públicos transformados em estatutários. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado.”
+(RE 333244 AgR, Rel. Min. CEZAR PELUSO, Primeira Turma, DJ 4.3.2005)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (Art. 544, §4º, II, a, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 23 de novembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
