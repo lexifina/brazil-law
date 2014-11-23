@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. JUSTIÇA GRATUITA: REQUISITOS PARA CONCESSÃO DO BENEFÍCIO. QUESTÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Agravo de instrumento – Ação de rescisão contratual c.c. Indenizatória – Indeferimento de gratuidade – Inconformismo – Desacolhimento – Presunção de declaração de pobreza que não é absoluta – Médica e advogado – Declaração da agravante de auferir rendimentos em torno de R$ 13.000,00 mensais – Exercício, ainda, de atividade empresarial – Alienação de estabelecimento comercial que rendeu 667.000,00 aos agravantes – Propriedade de 10 imóveis – Usufruto vitalício em favor dos agravantes de imóveis doados ao filho, o que reduz gastos com moradia – Saldo em conta corrente de R$ 60.000,00 – Busca por indenização por lucro cessante no valor de R$ 2.036.778, 30 – Próprio objeto da demanda como mais um elemento a implicar o indeferimento da gratuidade – Decisão mantida, observada a necessidade de recolhimento do preparo deste recurso. Recurso desprovido, com observação” (Volume 4).
+    Os embargos de declaração opostos foram rejeitados (Volume 4).
+    2. No recurso extraordinário, o Agravante alega ter sido contrariado o art. 5º, inc. LXXIV, da Constituição da República.
+    Afirma não ter condições de arcar com os custos judiciais e elenca vários fatores que contribuíram para sua atual precária situação financeira (Volume 5).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 284 do Supremo Tribunal Federal (Volume 5).
+    Neste agravo o Agravante reitera as razões do recurso extraordinário (Volume 5).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Ainda que se supere o fundamento da decisão agravada, a pretensão do Agravante não deve ser acolhida.
+    6. No julgamento do Agravo de Instrumento n. 759.421, Relator o Ministro Cezar Peluso, o Supremo Tribunal Federal assentou inexistir repercussão geral na controvérsia relativa à alegada hipossuficiência para fins de gratuidade de justiça:
+    “RECURSO. Extraordinário. Incognoscibilidade. Gratuidade de justiça. Declaração de hipossuficiência. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à declaração de hipossuficiência, para obtenção de gratuidade de justiça, versa sobre matéria infraconstitucional” (DJe 13.11.2009).
+    Confiram-se, ainda, os precedentes:
+     “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. CIVIL E PROCESSUAL CIVIL. REVISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA. 1. Inexistência de contrariedade ao art. 93, inc. IX, da Constituição da República. 2. Reexame de fatos, provas e cláusulas contratuais: Súmulas n. 279 e 454 do Supremo Tribunal Federal. 3. Requisitos para concessão do benefício de assistência judiciária gratuita: inexistência de repercussão geral. 4. Agravo regimental ao qual se nega provimento” (ARE 736.569-ED, de minha relatoria, Segunda Turma, DJe 14.10.2013, grifos nossos).
+    “Embargos de declaração em recurso extraordinário com agravo. Conversão em agravo regimental, conforme pacífica orientação da Corte. Questão relativa à negativa de concessão dos benefícios da justiça gratuita, decidida com fundamento nas provas dos autos. Ausência de repercussão geral, a obstar o trâmite do recurso. 1. A decisão ora atacada reflete a pacífica jurisprudência desta Corte a respeito do tema, que reconheceu a ausência de repercussão geral da matéria em discussão nestes autos. 2. Cuidando-se de recurso a veicular tema a respeito do qual esta Corte já pacificou seu entendimento, a ele se deve negar seguimento, de plano, não havendo necessidade de serem tecidas ulteriores considerações acerca da eventual intempestividade do apelo extremo. 3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento” (ARE 638.056-ED, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 9.3.2012).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de novembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
