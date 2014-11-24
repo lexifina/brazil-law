@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA RURAL PIGNORATÍCIA. IMPOSSIBILIDADE JURÍDICA DO PEDIDO AFASTADA. POSSIBILIDADE DE REVISÃO DE CONTRATOS DE CRÉDITO RURAL QUITADO.
+    Julgamento em conformidade com recente Súmula editada por este Tribunal, julgada em 21/04/2011, pela sessão da 4ª Turma Cível, disponibilizada no DJ nº 4576, de 04/05/2011.
+    PRESCRIÇÃO VINTENÁRIA. NÃO OPERADA.
+    CORREÇÃO MONETÁRIA. PLANO COLLOR I.
+    De se observar à cédula rural pignoratícia, relativamente ao mês de março de 1990, em virtude do Plano Collor I, o índice de 41,28% pelo BTN. Possibilidade de devolução dos valores cobrados a maior indevidamente, de forma simples.
+    JUROS REMUNERATÓRIOS. Em se tratando de contrato de financiamento agrícola, regido por normas especiais que tutelam o fomento à atividade agroeconômica, o Decreto-Lei nº 167/67 determina a estipulação, pelo Conselho Monetário Nacional, dos limites impostos às instituições financeiras para os juros aplicáveis. Presente a omissão do Órgão regulador em tal mister, impõe-se a limitação dos juros remuneratórios ao patamar máximo de 12% ao ano. Precedentes desta Câmara e do STJ.
+    COBRANÇA DE PROAGRO. Os valores referentes ao PROAGRO devem ser cobrados do contratante uma única vez, por ocasião da liberação do crédito. Vedação da cobrança dúplice. Restituição dos valores eventualmente pagos a maior.
+    CAPITALIZAÇÃO. A capitalização mensal é permitida desde que pactuada expressamente. Aplicação do Decreto-Lei n. 167/1967, art. 5º, e da Súmula n. 93 do STJ.
+    JUROS DE MORA. Tal encargo nas cédulas de crédito rurais não pode ultrapassar 1% ao ano, nos termos do parágrafo único do art. 5º do Decreto-Lei n. 157/167.
+    REPETIÇÃO DE INDÉBITO. Possibilidade de devolução dos valores cobrados a maior indevidamente, de forma simples.
+    Sentença reformada para julgar parcialmente. Sucumbência redimensionada.
+    À UNANIMIDADE, AFASTARAM A PRELIMINAR DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO E DERAM PARCIAL PROVIMENTO AO APELO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI; e 93, IX, da Constituição.
+    O recurso extraordinário não pode ser provido, tendo em vista que a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Com efeito, não há matéria constitucional nas causas em que se discute o direito à revisão de cláusulas de contrato bancário findo. Nessa linha, vejam-se os seguintes precedentes: ARE 789.693, Rel. Min Teori Zavascki; ARE 786.512, Rel. Min. Ricardo Lewandowski; e ARE 778.677, Rel.ª Min.ª Cármen Lúcia.
+    Qaunto à alegada violação ao art. 5º, XXXVI, da Constituição, a questão só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. No presente recurso, a parte recorrente não cogita de retroação de lei superveniente, somente postula uma nova apreciação das cláusulas constantes do contrato celebrado entre as partes, o que impossibilita a abertura da via extraordinária. Nessas condições, a hipótese atrai a incidência da Súmula 454/STF.
+    Quanto à alegada ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, confira-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+       Brasília, 24 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
