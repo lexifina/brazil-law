@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao recurso extraordinário em face acórdão ementado nos seguintes termos:
+    “RECURSO INOMINADO. PREVIDÊNCIA PÚBLICA. RETENÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA EFETUADA EM EXECUÇÃO DE SENTENÇA. AÇÃO DE REPETIÇÃO DE INDÉBITO. PRECLUSÃO. DISCUSSÃO EM DEMANDA AUTÔNOMA. IMPOSSIBILIDADE.
+    Com efeito, o intento de questionar possível incorreção de retenção da contribuição previdenciária sobre o crédito adimplido em razão do reajuste da Lei 10.395/95, deveria ter sido objeto de insurgência na própria execução, porquanto se trata de questão acessória àquela demanda. Preclusão verificada.
+    Precedentes do TJRS – Apelação Cível Nº 70047794540, Vigésima Quinta Câmara Cível, Tribunal de Justiça do RS, Relator: Miguel Ângelo da Silva, Julgado em 09/10/2012.
+    SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+    NEGARAM PROVIMENTO AO RECURSO.
+    UNÂNIME.” (fl. 37)
+    Opostos embargos declaratórios, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação ao artigo 5º, inciso XXXV, do texto constitucional.
+    Alega-se, em síntese, a ilegalidade dos descontos de contribuição previdenciária oriundo de pagamento de crédito decorrente de demanda judicial.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, registre-se que o acórdão recorrido está devidamente fundamentado, sendo pacífico o entendimento desta Corte no sentido de que o não enfrentamento específico de todos os argumentos trazidos pela parte recorrente, não configura negativa de prestação jurisdicional. Assim, não há que se falar em violação ao art. 5º, inciso XXXV, da Constituição Federal.
+    Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão . 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (grifei) (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010)
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da parte recorrente.
+    Mesmo que assim não fosse, melhor sorte não assiste à recorrente, pois o Tribunal de origem decidiu a controvérsia dos autos com base no Código de Processo Civil. Assim, a matéria debatida na origem restringe-se ao plano da legislação processual infraconstitucional, de modo que a ofensa à Constituição Federal, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Quanto ao tema, confira-se o seguinte julgado:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. MULTA. 475-J DO CPC. MATÉRIA INFRACONSTITUCIONAL. LIMITES DA COISA JULGADA. OFENSA REFLEXA. REPERCUSSÃO GERAL. AUSÊNCIA. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo . A afronta à Constituição, se ocorrente, seria indireta. II – O exame, no caso concreto, dos limites da coisa julgada restringe-se ao âmbito infraconstitucional. Eventual ofensa à Constituição se daria de forma meramente reflexa. Desse modo, inviável o recurso extraordinário. Precedentes. III – Os Ministros desta Corte, no ARE 748.371-RG/RJ, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca da violação dos limites da coisa julgada e dos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, por se tratar de ofensa meramente reflexa ao texto constitucional. Essa decisão vale para todos os recursos sobre matéria idêntica. IV – Agravo regimental a que se nega provimento”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 24 de novembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
