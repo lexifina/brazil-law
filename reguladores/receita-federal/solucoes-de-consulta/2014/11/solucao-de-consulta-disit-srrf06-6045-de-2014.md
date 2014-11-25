@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF06 nº 6045, de 21 de novembro de 2014
+ASSUNTO: Obrigações Acessórias EMENTA: SISCOSERV. OBRIGATORIEDADE DE REGISTRO. Os serviços de representação comercial são passíveis de registro no Siscoserv, quando tomados de prestadores residentes ou domiciliados no exterior, independentemente do meio de pagamento utilizado para remunerar tais serviços. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 257, DE 26/09/2014. DISPOSITIVOS LEGAIS: §1º do art. 37 do Decreto-Lei nº 37, de 1966; art. 25 da Lei nº 12.546, de 2011; Manuais do Siscoserv, 8ª edição, instituídos pela Portaria Conjunta RFB/SCS nº 1.895, de 2013; arts. 2º, II, e 3º da IN RFB 800, de 2007.
+[arquivo anexo: SC SRRF06-Disit nº 6045-2014.pdf]
