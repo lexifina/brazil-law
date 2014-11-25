@@ -1,0 +1,22 @@
+DECISÃO
+    João Anísio das Chagas Filho interpõe recurso extraordinário contra acórdão proferido pela Primeira Câmara Cível do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+    “AGRAVO DE INSTRUMENTO. MAGISTRADO QUE INDEFERIU O PAGAMENTO VIA REQUISIÇÃO DE PEQUENO VALOR (RPV) E DETERMINOU O PAGAMENTO POR PRECATÓRIO. CITAÇÃO DA EXECUÇÃO EM 2009 NA VIGÊNCIA DA LEI MUNICIPAL Nº 814/2005 E ANTES DA ENTRADA EM VIGOR DA EMENDA CONSTITUCIONAL Nº 62/2009. CONTROVÉRSIA DIRIMIDA ATRAVÉS DA EFICÁCIA DA LEI PROCESSUAL CIVIL NO TEMPO. DESPROVIMENTO DO RECURSO.
+    - A controvérsia deve ser dirimida sob o ângulo da eficácia da lei processual civil no tempo, de forma que deve ser considerada a lei vigente à data da instauração da execução e não a vigente quando foi determinado o pagamento do crédito.
+    - No presente caso, a citação da execução ocorreu na vigência da Lei Municipal nº 814/2005 e antes da entrada em vigor da Emenda Constitucional nº 62/2009.
+    - Afirma o STJ que sendo a execução uma ação autônoma, é regida pela lei vigente à data da instauração da execução. Partindo deste entendimento, deve ser aplicada, ao caso em tela, a lei vigente à data da instauração da execução, ou seja, a Lei Municipal de nº 814/2005 que estabelecia o teto de R$500,00 (quinhentos reais) para pagamentos através de RPV. Em consequência, o pagamento requerido pelo exequente, ora agravante, não pode ocorrer por RPV, mas tão somente por precatório” (fls. 83/84).
+    Insurge-se, no apelo extremo, fundado na alínea “a” do permissivo constitucional, sustentando contrariedade aos artigos 5º, inciso XXXVI, e 100, § 3°, da Constituição Federal; e 97, § 12, incisos I e II, do Ato das Disposições Constitucionais Transitórias.
+    Apresentadas contrarrazões, o recurso foi admitido na origem, o que ensejou a subida dos autos a esta Corte.
+    Decido.
+    A irresignação merece prosperar, haja vista que acórdão recorrido não está em sintonia com a jurisprudência consolidada nesta Corte no sentido de ter natureza processual a lei que regulamenta procedimento de execução de obrigação de pequeno valor, alcançando, assim, as ações em curso. Nesse sentido:
+    “Precatório: débito de pequeno valor: L. 10.099/00: RE prejudicado. Em face da aplicabilidade imediata da L. 10.099/00 - que regulamentou o art. 100, § 3º, CF, ao definir as obrigações de pequeno valor excluídas pela norma constitucional da sistemática de pagamentos mediante expedição de precatórios -, desapareceu o objeto do recurso extraordinário, interposto contra decisão que, proferida antes do advento da referida lei, afirmara a necessidade dessa regulamentação” (RE nº 292.160/RS, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 4/5/01).
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. PRECATÓRIO. Lei nº 10.099, de 2000. I. - A Lei 10.099, de 19.12.2000, art. 1º, deu nova redação ao art. 128 da Lei 8.213, de 1991, alterado pela Lei 9.032, de 1995. Citada Lei 10.099, de 2000, é regulamentadora do § 3º do art. 100, da C.F. Porque tem natureza processual, aplica-se imediatamente, alcançando os processos em curso. II. - RE prejudicado. Agravo não provido” (RE nº 299.566/SC-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 1/3/02).
+    No mesmo sentido, analisando questão idêntica, a seguinte decisão monocrática: AI nº 514.679/PI, Relator o Ministro Gilmar Mendes, DJ de 10/10/05. Também restou decidido nesse sentido, pela 1ª Turma desta Corte, no julgamento do AI nº 761.701-ED, sob a minha relatoria, conforme se extrai da ementa:
+    “Embargos de declaração no agravo de instrumento. Conversão em agravo regimental. Constitucional. Requisição de pequeno valor. Definição. Competência legislativa. Entes da Federação. Precedentes.
+    1. O Plenário da Corte, no julgamento da ADI nº 2.868/PI, Relator para o acórdão o Ministro Joaquim Barbosa , concluiu que os estados podem definir para as obrigações de pequeno valor de que forem devedores limites inferiores aos previstos no art. 87 do ADCT, entendimento que se aplica também aos municípios.
+    2. Agravo regimental não provido.”
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento em parte para determinar que o valor da condenação fixado nos autos seja executado, conforme os parâmetros da legislação municipal específica (Lei Municipal n° 909/10) relativa às despesas e obrigações de pequeno valor.
+    Publique-se.
+    Brasília, 25 de novembro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
