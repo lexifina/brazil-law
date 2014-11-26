@@ -1,0 +1,12 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRANSPORTE IRREGULAR DE PASSAGEIROS. COMPETÊNCIA LEGISLATIVA. APLICAÇÃO DE PENALIDADE DE APREENSÃO DE VEÍCULOS. REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO VIRTUAL. RE 661.702-RG. TEMA 546 DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia sub examine, em que se discute a competência legislativa para dispor sobre o transporte irregular de passageiros e a aplicação da penalidade de apreensão de veículos, nos autos do RE 661.702-RG, Rel. Min. Marco Aurélio, DJe de 29/6/2012. A decisão restou assim ementada:
+    “COMPETÊNCIA – TRÂNSITO – INFRAÇÃO – APREENSÃO DE VEÍCULO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia acerca da competência para legislar sobre matéria relativa à lavratura de auto de infração, considerado o transporte irregular de passageiros, bem como à imposição de penalidade quanto ao recolhimento do veículo.”
+    In casu, o acórdão recorrido recebeu a seguinte ementa:
+    “MANDADO DE SEGURANÇA - REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO - APELAÇÃO CÍVEL - TRANSPORTE INTERMUNICIPAL - APREENSÃO DE VEÍCULO - AUSÊNCIA DE AUTORIZAÇÃO PARA TRANSPORTE DE PASSAGEIROS - ALEGAÇÃO DE INCONSTITUCIONALIDADE DE LEI Nº 19.445/11 - INOCORRÊNCIA - COMPETÊNCIA CONCORRENTE DO ESTADO - PREVISÃO DE SANÇÃO NA LEI ESTADUAL MAIS SEVERA QUE A PREVISTA NA LEI FEDERAL QUE INSTITUI O CÓDIGO DE TRÂNSITO BRASILEIRO - IMPOSSIBILIDADE - SISTEMA CONSTITUCIONAL BRASILEIRO - COMPETÊNCIA CONCORRENTE NÃO CUMULATIVA, OU VERTICAL - PREVALÊNCIA DAS NORMAS GERAIS FEDERAIS - LIMITAÇÃO DA ATIVIDADE FISCALIZATÓRIA AOS PARÂMETROS LEGAIS - POSSIBILIDADE DA APLICAÇÃO DA MEDIDA DE RETENÇÃO, MAS NÃO DE APREENSÃO - SENTENÇA MANTIDA, EM REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO, PREJUDICADO O RECURSO VOLUNTÁRIO. “
+    Verifica-se, portanto, que a matéria será examinada pelo Plenário desta Corte quando do julgamento do mérito do leading case supra mencionado.
+    Ex positis, PROVEJO o agravo, para desde logo, ADMITIR o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a devolução do feito ao Tribunal de origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 26 de novembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
