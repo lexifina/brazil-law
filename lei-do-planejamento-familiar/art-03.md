@@ -4,4 +4,4 @@ I - a assistência à concepção e contracepção;
 II - o atendimento pré-natal;
 III - a assistência ao parto, ao puerpério e ao neonato;
 IV - o controle das doenças sexualmente transmissíveis;
-V - o controle e prevenção do câncer cérvico-uterino, do câncer de mama e do câncer de pênis.
+V - o controle e a prevenção dos cânceres cérvico-uterino, de mama, de próstata e de pênis.
