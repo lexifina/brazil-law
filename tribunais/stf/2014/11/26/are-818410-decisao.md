@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Segunda Turma Recursal dos Juizados Especiais Federais do Estado de São Paulo que manteve sentença que, ao julgar procedente pedido formulado por beneficiária da previdência social, condenou a autarquia previdenciária à “concessão do benefício de auxílio-doença, a contar de 14.09.2010 (data da incapacidade), com transmutação em aposentadoria por invalidez, a contar da data perícia, realizada em 08.10.2010, com DIP em 01.11.2010”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, III; 3º, IV; 37;5º, X e 201, todos da Constituição. Requer a reforma do acórdão recorrido para que seja modificada a data de início do auxílio-doença para 26.06.2008, ou, alternativamente, para 21.05.2010.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “o debate em torno do termo inicial do benefício demanda o prévio exame da legislação infraconstitucional de regência (Lei nº 8.213/91), o que inviabiliza o recurso extraordinário porque a ofensa à Constituição Federal, se ocorresse, seria indireta”.
+    O recurso extraordinário é inadmissível, tendo em vista que o Plenário virtual do Supremo Tribunal Federal, ao examinar o ARE 821.296, sob a minha relatoria, decidiu pela ausência de repercussão geral da matéria em exame neste processo, por concluir que a matéria se restringe a tema infraconstitucional e demanda o reexame do fatos e provas. Veja-se, a ementa do julgado (Tema 766):
+    “PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VERIFICAÇÃO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO. 1. Hipótese em que o acórdão recorrido consigna a ausência dos requisitos necessários à concessão do auxílio-doença. 2. Discussão que envolve matéria infraconstitucional, além de exigir o revolvimento da matéria fática (Súmula 279/STF). 3. Inexistência de repercussão geral.”
+    O art. 543-A, § 5º, do CPC e os arts. 326 e 327 do RI/STF dispõem que a decisão desta Corte quanto à inexistência de repercussão geral valerá para todos os casos que versem sobre questão idêntica.
+    Diante do exposto, com base nos arts. 543-A, § 5º, e 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 26 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
