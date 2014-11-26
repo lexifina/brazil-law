@@ -1,0 +1,2 @@
+Altera as Leis nºs 9.263, de 12 de janeiro de 1996, que "regula o § 7º do art. 226 da Constituição Federal, que trata do planejamento familiar, estabelece penalidades e dá outras providências", e 10.289, de 20 de setembro de 2001, que "institui o Programa Nacional de Controle do Câncer de Próstata", a fim de garantir maior efetividade no combate à doença.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
