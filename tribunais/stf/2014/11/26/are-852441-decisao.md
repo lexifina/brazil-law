@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CUMPRIMENTO DE TERMO DE AJUSTAMENTO DE CONDUTA. AÇÃO CIVIL PÚBLICA. OBRAS DE ACESSIBILIDADE. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Norte:
+    “EMENTA: AGRAVO INTERNO EM APELAÇÃO CÍVEL E EM REMESSA NECESSÁRIA. AÇÃO CÍVEL PÚBLICA. DIREITO À ACESSIBILIDADE DE PORTADORES DE DEFICIÊNCIA OU COM MOBILIDADE REDUZIDA EM ESCOLA PÚBLICA. NEGATIVA DE SEGUIMENTO AO RECURSO COM BASE NO ART. 557, CAPUT DO CPC E NA SÚMULA N. 253 DO STJ. POSSIBILIDADE. PRECEDENTES DAS TRÊS CÂMARAS CÍVEIS QUANTO À NECESSIDADE DE GARANTIR O ACESSO DIANTE DA OMISSÃO ESTATAL. AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, CONTRADITÓRIO, AMPLA DEFESA, DA LEGALIDADE E DA SEPARAÇÃO DE PODERES. AGRAVO CONHECIDO E DESPROVIDO”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. Em seu recurso extraordinário, o Recorrente alega ter o Tribunal de origem contrariado os arts. 2º, 37, 100 e 165 da Constituição da República.
+    Afirma que o
+    “Ministério Público, na demanda em comento, pretende que o Judiciário interfira na competência exclusiva dos outros Poderes, do Executivo, que elabora as propostas de orçamento, e do Legislativo, que delibera e vota as propostas orçamentárias. Tal intervenção almejada pelo Parquet representa manifesta afronta ao Princípio da separação dos Poderes no controle jurisdicional do orçamento público, sendo indevida e inconstitucional, razão porque não merece guarida jurisdicional”.
+    3. O recurso extraordinário foi inadmitido com relação aos arts. 37, 100 e 165 da Constituição da República sob o fundamento de ausência de prequestionamento, tendo sido admitido quanto ao art. 2º da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. O Presidente do Tribunal de Justiça do Rio Grande do Norte admitiu o recurso extraordinário interposto pelo Estado do Rio Grande do Norte no ponto afirmativo de contrariedade ao art. 2º da Constituição da República.
+    A admissão parcial do recurso extraordinário interposto contra decisão contendo partes autônomas não impede serem as demais questões suscitadas apreciadas integralmente pelo Supremo Tribunal, conforme dispõe a Súmula n. 528 do Supremo Tribunal Federal: “Se a decisão contiver partes autônomas, a admissão parcial, pelo Presidente do Tribunal a quo, de recurso extraordinário que, sobre qualquer delas se manifestar, não limitará a apreciação de todas pelo Supremo Tribunal Federal, independentemente de interposição de agravo de instrumento”.
+    Passo ao exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Recorrente.
+    7. A apreciação do pleito recursal demandaria reexame do conjunto fático-probatório constante do processo e da legislação infraconstitucional aplicável à espécie (Código de Processo Civil, Lei n. 7.347/1985 e Lei estadual n. 8.475/2004), procedimento inviável de ser adotado validamente nessa via processual. Incidem as Súmulas ns. 279 e 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TERMO DE AJUSTAMENTO DE CONDUTA. DESCUMPRIMENTO. IMPOSIÇÃO DE MULTA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 627.242-AgR, de minha relatoria, Primeira Turma, DJe 12.12.2008).
+    “EMENTA: EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. HONORÁRIOS. 1. Discussão quanto ao conteúdo das cláusulas do acordo firmado entre as partes. Reexame de fatos e provas. Incidência das Súmulas n. 279 e 454 do Supremo Tribunal Federal. 2. Alegada afronta à coisa julgada e ao princípio do direito adquirido. Análise de norma infraconstitucional. Ofensa constitucional indireta. 3. Agravo regimental ao qual se nega provimento” (AI 737.459-ED, de minha relatoria, Primeira Turma, DJe 26.6.2012).
+    E ainda: ARE 808.021/RJ, de minha relatoria, decisão monocrática, DJ 23.5.2014; ARE 841.637/RN, Relator o Ministro Luiz Fux, decisão monocrática, DJ 20.10.2014.
+    8. Pelo exposto, determino a reautuação destes autos e nego  provimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de novembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
