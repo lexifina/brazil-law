@@ -1,0 +1,38 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Vigésima Sexta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “1. Ação civil pública – Prestação de serviços – Municípios de Araras – Imóveis sem ligação com a rede mestra de água e esgoto – cobrança de valor mínimo – Descabimento – Remuneração do serviço por tarifa – Ausência de contratação e da própria prestação do serviço.
+    2. Restituição do indébito – Cabimento.
+    3. Agravo retido – Conexão entre ação civil pública e ação individual – Reunião de feitos – Cabimento Rejeição.
+    4. Procedência decreta – Provimento do recurso.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação dos artigos 97, 145, inciso II, e 150, inciso I, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No que se refere ao artigo 150, inciso I, da Constituição, indicado como violado no recurso extraordinário, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o Tribunal de origem está em sintonia com a jurisprudência deste Supremo Tribunal Federal no sentido de que o valor cobrado dos usuários pelos serviços de água e esgoto têm natureza jurídica de tarifa, não de taxa. A propósito:
+    “ÁGUA E ESGOTO – TARIFA VERSUS TAXA. A jurisprudência do Supremo é no sentido de haver, relativamente ao fornecimento de água e tratamento de esgoto, o envolvimento de tarifa e não de taxa. AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Surgindo do exame do agravo o caráter manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil” (AI nº 753.964/RJ-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 30/10/13).
+    “Agravo regimental nos embargos de declaração no recurso extraordinário. Constitucional. Serviços de água e esgoto. Natureza jurídica. Tarifa. Precedentes. 1. A jurisprudência desta Corte firmou-se no sentido de que o valor cobrado dos usuários pelos serviços de água e esgoto têm natureza jurídica de preço público, não de taxa. 2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional (RE nº 408.537-AgR, Relator o Ministro Cezar Peluso, DJ 6/3/08). 3. Agravo regimental não provido” (RE nº 581.085/MS-ED-AgR, Primeira Turma, de minha relatoria, DJe de 15/10/12).
+    Aplicando essa orientação, destaca-se a seguinte decisão monocrática:
+“RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. SERVIÇO DE ÁGUA E ESGOTO. NATUREZA JURÍDICA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. A cobrança a título de água e esgoto deve ser realizada mediante tarifa e não taxa. Precedente: AI 753.964-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 30/10/2013
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “Ação declaratória de inexigibilidade de débito cumulada com restituição. Prestação de serviços de água e esgoto. Natureza jurídica de tarifa ou preço público. Terrenos sem edificações. Impossibilidade da cobrança da tarifa diante da não utilização dos serviços. Inexigibilidade de débito pretendido pela ré. Restituição dos valores comprovadamente pagos. Autarquia municipal que goza da isenção em relação às taxas judiciárias. Inteligência do artigo 6o, da Lei n° 11.608/03. Recurso parcialmente provido.”
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por SAEMA - Serviço de Água, Esgoto e Meio Ambiente de Araras S/A com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão assim ementado:
+    “Ação declaratória de inexigibilidade de débito cumulada com restituição. Prestação de serviços de água e esgoto. Natureza jurídica de tarifa ou preço público. Terrenos sem edificações. Impossibilidade da cobrança da tarifa diante da não utilização dos serviços. Inexigibilidade de débito pretendido pela ré. Restituição dos valores comprovadamente pagos. Autarquia municipal que goza da isenção em relação às taxas judiciárias. Inteligência do artigo 6o, da Lei n° 11.608/03. Recurso parcialmente provido.”
+    Opostos embargos de declaração, restaram rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, LIV, 97 e 145, II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a alegada ofensa à Constituição, se existente, seria reflexa.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece provimento o agravo.
+    O acórdão recorrido não destoa da jurisprudência da Corte que já se firmou no sentido de que a cobrança a título de água e esgoto deve ser realizada mediante tarifa e não taxa. Nesse sentido, AI 753.964-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 30/10/2013, com a seguinte ementa:
+    “ÁGUA E ESGOTO – TARIFA VERSUS TAXA. A jurisprudência do Supremo é no sentido de haver, relativamente ao fornecimento de água e tratamento de esgoto, o envolvimento de tarifa e não de taxa. AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Surgindo do exame do agravo o caráter manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no art. 21, § 1º, do RISTF” (ARE nº 809.233/SP, Relator o Ministro Luiz Fux, DJe de 1/8/14).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 26 de novembro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
