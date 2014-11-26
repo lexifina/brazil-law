@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA ANTECIPADA – SERVIDORA PÚBLICA – ABONO DE PERMANÊNCIA – TERMO INICIAL PARA PAGAMENTO (ART. 40, § 19 DA CONSTITUIÇÃO FEDERAL – A PARTIR DO IMPLEMENTO DAS CONDIÇÕES PARA A APOSENTADORIA – CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS - MATÉRIA DE ORDEM PÚBLICA - RETIFICAÇÃO DE OFÍCIO - POSSIBILIDADE - UTILIZAÇÃO DO INPC/IBGE ATÉ A ENTRADA EM VIGOR DA LEI FEDERAL N. 11.960, DE 29.06.2009 - RECURSO IMPROVIDO.
+    O direito ao recebimento ao abono de permanência se dá com o preenchimento das exigências para a aposentadoria, nos termos do § 19, do art. 40 da Constituição Federal, e não com o requerimento do benefício pelo servidor.
+    Tratando-se de matéria de ordem pública, é possível a retificação, de ofício, da parte dispositiva da sentença, para correção dos índices de correção monetária e dos juros moratórios.
+    A correção monetária, aplicável aos débitos da Fazenda Pública, anteriormente à vigência da Lei Federal n. 11.960, de 29 de junho de 2009, deve ter como base o Índice Nacional de Preços ao Consumidor – INPC, apurado pela Fundação Instituto Brasileiro de Geografia e Estatística – IBGE, por se tratar de índice oficial.
+    A partir de 29.06.2009, em qualquer condenação imposta à Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora, haverá a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, consoante a nova redação dada ao art. 1º-F, da Lei Federal n. 9.494/97.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, § 19, da Constituição. Defende que o “direito ao abono de permanência está condicionado à observância de dois requisitos: preenchimento dos critérios necessários à aposentadoria voluntária e opção expressa do servidor de se manter na atividade, via requerimento a ser apresentado ao órgão competente”.
+    O recurso extraordinário não pode ser provido, tendo em vista que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal.
+    Ademais, a solução da controvérsia demanda a análise da legislação local aplicada ao caso (Súmula 280/STF) e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. Veja-se, nesse sentido, o ARE 759.321-AgR, julgado sob a relatoria da Ministra Rosa Weber, assim ementado:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ABONO DE PERMANÊNCIA. REQUISITOS. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AO PRECEITO CONSTITUCIONAL INVOCADO NO APELO EXTREMO DEPENDE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE DO ACÓRDÃO RECORRIDO. ACÓRDÃO RECORRIDO PUBLICADO EM 17.01.2013.
+    A análise da ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo demandaria a reelaboração da moldura fática delineada na origem, inviável em sede recursal extraordinária em face do óbice da Súmula 279/STF. Na espécie, o Tribunal a quo decidiu no sentido de que o abono de permanência é devido desde quando preenchidos os requisitos legais da aposentadoria voluntária. Precedentes.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    Agravo regimental conhecido e não provido.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+       Brasília, 26 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
