@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. EXECUÇÃO FISCAL. PENHORA ON LINE. ESGOTAMENTO DAS DILIGÊNCIAS. LEI Nº 11.382/2006. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 683.099-RG. TEMA Nº 631. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. A penhora on line, quando sub judice a controvérsia sobre o esgotamento das diligências para fins de localização de outros bens penhoráveis, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 683.099-RG, da Relatoria do Min. Teori Zavascki, DJe de 20/3/2013.
+2. In casu, o acórdão recorrido assentou: “PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REAPRECIAÇÃO. ART. 543-C, § 7º, II, DO CPC. INDISPONIBILIDADE DE BENS. PENHORA DE ATIVOS FINANCEIROS DA EXECUTADA. BACENJUD. PENHORA ON LINE. POSSIBILIDADE. PRECEDENTES DO STJ.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por Sp Juntas Comércio e Indústria Ltda., com o objetivo de ver reformada a decisão que inadmitiu seu recurso extraordinário, manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REAPRECIAÇÃO. ART. 543-C, § 7º, II, DO CPC. INDISPONIBILIDADE DE BENS. PENHORA DE ATIVOS FINANCEIROS DA EXECUTADA. BACENJUD. PENHORA ON LINE. POSSIBILIDADE. PRECEDENTES DO STJ.
+    1. A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que, após o advento da Lei nº 11.382/06, não é mais exigível o prévio esgotamento de diligências para localização de outros bens penhoráveis em nome do executado, cabendo a penhora on line prevista no art. 655-A do CPC. É o que decidiu a Primeira Seção daquela Corte, no julgamento do REsp nº 1.184.765/PA.
+    2. Não é necessária a demonstração de que a exequente diligenciou administrativamente a fim de localizar outros bens para a garantia do Juízo, sendo preferencial a utilização do sistema BACENJUD para o cumprimento da penhora prevista no art. 655-A do CPC.
+    3. Agravo de instrumento a que se nega provimento”
+    Opostos embargos de declaração, foram rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 1º, III, 5º, XXII, XXIII, LIV e LV, e 170, III, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário diante da ausência de ofensa direta à Constituição Federal.
+    É o Relatório. DECIDO.
+    Não merece provimento o agravo.
+    A penhora on line, quando sub judice a controvérsia sobre o esgotamento das diligências para fins de localização de outros bens penhoráveis, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 683.099-RG, da Relatoria do Min. Teori Zavascki, DJe de 20/3/2013, que possui a seguinte ementa, verbis:
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA DE DINHEIRO OU DE ATIVOS FINANCEIROS. SISTEMA BACEN-JUD. DILIGÊNCIAS PRÉVIAS PARA A LOCALIZAÇÃO DE BENS PENHORÁVEIS PASSÍVEIS DE CONSTRIÇÃO. NECESSIDADE. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL (ART. 543-A DO CPC). 1. A controvérsia a respeito da legitimidade de penhora de dinheiro ou outros ativos financeiros pelo sistema eletrônico do denominado Bacen-Jud independentemente do prévio esgotamento das vias extrajudiciais para localização de outros bens penhoráveis é de natureza infraconstitucional, não havendo, portanto, matéria constitucional a ser analisada (AI 830805 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 23/05/2012; ARE 642119 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 15/03/2012; AI 807715 AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 25/11/2010; AI 789312 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 25/10/2010). 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de novembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
