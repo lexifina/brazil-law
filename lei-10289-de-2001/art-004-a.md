@@ -1,0 +1,1 @@
+Art. 4º-A. As unidades integrantes do Sistema Único de Saúde são obrigadas a realizar exames para a detecção precoce do câncer de próstata sempre que, a critério médico, tal procedimento for considerado necessário.
