@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de embargos de declaração opostos contra decisão plenária que negou provimento ao recurso de agravo interposto pela parte agravante, ora embargante, por entender falecer ao Supremo Tribunal Federal competência originária para processar e julgar a ação rescisória.
+    A parte autora, ora recorrente, requer, em sua postulação recursal, a reforma parcial da decisão proferida a fls. 105/111, tão somente para que se determine a remessa dos autos ao juízo competente para apreciar a causa.
+    Sendo esse o contexto, passo a apreciar os presentes embargos de declaração. E, ao fazê-lo, entendo assistir razão ao ora embargante, tendo em vista a revisão jurisprudencial procedida por esta Suprema Corte, que entendeu ser possível o encaminhamento dos autos ao Tribunal de jurisdição inferior, em razão da ausência de competência do Supremo Tribunal Federal para apreciar a matéria em causa (AR 2.019-AgR/MG, Rel. Min. NELSON JOBIM – AR 2.145-ED/SC, Rel. Min. CELSO DE MELLO – AR 2.382/MG, Rel. Min. CÁRMEN LÚCIA – MS 25.087-ED/SP, Rel. Min. AYRES BRITTO – MS 26.006-AgR/DF, Rel. Min. CELSO DE MELLO – MS 26.244-AgR/DF, Rel. Min. SEPÚLVEDA PERTENCE, v.g.):
+    “AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. ACÓRDÃO PROFERIDO PELO TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL: ART. 102, INC. I, ALÍNEA ‘J’, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AÇÃO RESCISÓRIA NÃO CONHECIDA. DECLINAÇÃO DA COMPETÊNCIA.”
+    (AR 2.302/DF, Rel. Min. CÁRMEN LÚCIA – grifei)
+    “AÇÃO RESCISÓRIA. ACÓRDÃO PROFERIDO PELO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA CONHECER E JULGAR A CONTROVÉRSIA, EM FACE DO DISPOSTO NO ARTIGO 102, INCISO I, ALÍNEA ‘j’, DA CONSTITUIÇÃO FEDERAL. NÃO CONHECIMENTO DO PEDIDO E REMESSA DO PROCESSO AO ÓRGÃO COMPETENTE.”
+    (AR 2.243/RJ, Rel. Min. LUIZ FUX – grifei)
+    Sendo assim, em face das razões expostas, com fundamento nos poderes processuais outorgados ao Relator para exercer, monocraticamente, o controle das ações, pedidos ou recursos dirigidos ao Supremo Tribunal Federal (RTJ 139/53 – RTJ 168/174-175 – RTJ 173/948), recebo os embargos de declaração, sem efeitos modificativos, apenas para determinar que os presentes autos sejam encaminhados ao E. Tribunal de Justiça do Estado de Mato Grosso do Sul.
+    Publique-se.
+    Brasília, 26 de novembro de 2014.
+Ministro CELSO DE MELLO
+Relator
