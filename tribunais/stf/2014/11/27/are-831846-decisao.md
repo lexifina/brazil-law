@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. DIREITO ADQUIRIDO ÀS REGRAS VIGENTES NO PERÍODO DE ADESÃO AO PLANO DE PREVIDÊNCIA PRIVADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 742.083-RG. OFENSA INDIRETA. VIOLAÇÃO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371-RG.
+1. A complementação de benefício previdenciário, quando sub judice a controvérsia sobre a aplicação das regras vigentes na época da adesão ao plano de previdência privada, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 742.083–RG, Rel. Min. Ricardo Lewandowski, DJe 1º/7/2013.
+2. Os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE 748.371-RG, da Relatoria do Min. Gilmar Mendes.
+3. In casu, o acórdão recorrido assentou: “AÇÃO DE COBRANÇA. PREVIDÊNCIA COMPLEMENTAR. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. LEGITIMIDADE DA INSTITUIÇÃO PRIVADA. PRESCRIÇÃO QUINQUENAL. TRATO SUCESSIVO. APLICAÇÃO DAS NORMAS VIGENTES AO TEMPO DA APOSENTAÇÃO. AUSÊNCIA DE DIREITO ADQUIRIDO”.
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por João Nogueira de Menezes, com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão prolatado pela Décima Oitava Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado, in verbis (fl. 543):
+    “AÇÃO DE COBRANÇA. PREVIDÊNCIA COMPLEMENTAR. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. LEGITIMIDADE DA INSTITUIÇÃO PRIVADA. PRESCRIÇÃO QUINQUENAL. TRATO SUCESSIVO. APLICAÇÃO DAS NORMAS VIGENTES AO TEMPO DA APOSENTAÇÃO. AUSÊNCIA DE DIREITO ADQUIRIDO.
+    I – É da Justiça Comum Estadual, e não da Justiça do Trabalho, a competência para processamento e julgamento dos feitos em que se pretende complementação de aposentadoria pago por entidade de previdência privada, pois a causa de pedir é o contrato, de natureza civil.
+    II – Não há litisconsórcio necessário com o Banco do Brasil, nas ações em que se pretende o pagamento de verba da previdência complementar paga pela PREVI, eis que o banco patrocinador não é atingido pela relação negocial havida entre o autor e a entidade de previdência privada.
+    III – Em se tratando de relação jurídica de trato sucessivo, como ocorre no caso de pagamento de complementação de aposentadoria, há que se reconhecer a prescrição quinquenal apenas em relação aos 05 anos anteriores ao ajuizamento da ação, face à renovação mensal da violação ao direito perseguido.
+    IV – Não existe direito adquirido a regime jurídico, de modo que devem ser observadas as regras vigentes na data da aposentadoria e não quando da adesão ao plano de previdência complementar.
+    VI – À admissibilidade do recurso adesivo exige-se o atendimento dos requisitos estatuídos no art. 500 do CPC, no qual ausente previsão de contraposição às matérias debatidas no apelo principal”.
+    Nas razões do apelo extremo alega violação do artigo 5º, XXXVI, LXXVII e LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário ao fundamento de que a apontada ofensa à Constituição Federal, se houvesse, seria indireta, e que a análise do caso depende do reexame das cláusulas contratuais e elementos informativos dos autos.
+    É o relatório. DECIDO.
+    Não merece prosperar o agravo.
+    Os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE 748.371-RG, da Relatoria do Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Demais disso, a complementação de benefício previdenciário, quando sub judice a controvérsia sobre a aplicação das regras vigentes na época da adesão ao plano de previdência privada, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 742.083–RG, Rel. Min. Ricardo Lewandowski, DJe 1º/7/2013, que possui a seguinte ementa:
+    “PREVIDENCIÁRIO. DIREITO ADQUIRIDO AO RECEBIMENTO DE COMPLEMENTAÇÃO DE BENEFÍCIO DE ACORDO COM AS REGRAS VIGENTES NO PERÍODO DE ADESÃO AO PLANO DE PREVIDÊNCIA PRIVADA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de novembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
