@@ -1,0 +1,37 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ICMS. IMPORTAÇÃO DE MERCADORIAS. EXIGÊNCIA DO IMPOSTO NO DESEMBARAÇO ADUANEIRO E RECOLHIMENTO POR GUIA ESPECIAL. CONSTITUCIONALIDADE. COMPENSAÇÃO COM CRÉDITOS ACUMULADOS (DÉBITO NA CONTA GRÁFICA). DIREITO QUE NÃO DECORRE DO PRINCÍPIO DA NÃO CUMULATIVIDADE.
+1. A exigência do ICMS no momento do desembaraço aduaneiro e seu recolhimento mediante guia especial, na aquisição de mercadorias importadas do exterior, é constitucional. Precedente: do RE 192.711, Rel. Min. Ilmar Galvão, Tribunal Pleno, DJ 18/4/1997.
+2. O direito de realizar o pagamento do ICMS devido na importação de mercadorias do exterior por meio de compensação com os créditos eventualmente acumulados pelo contribuinte em outras operações (débito na conta gráfica) não decorre da regra constitucional da não cumulatividade. Precedentes: RE 195.663, Rel. Min. Ilmar Galvão, Tribunal Pleno, DJ 21/11/1997.
+3. In casu, o acórdão recorrido assentou: “TRIBUTÁRIO – AGRAVO INTERNO – MERCADORIA IMPORTADA – ICMS – FATO GERADOR – MOMENTO ADEQUADO – DESEMBARAÇO ADUANEIRO – COMPENSAÇÃO TRIBUTÁRIA – PRINCÍPIO DA NÃO-CUMULATIVIDADE”.
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pela BRASVIT GRANITOS E MINERAÇÃO S/A objetivando a reforma da decisão que inadmitiu seu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “TRIBUTÁRIO – AGRAVO INTERNO – MERCADORIA IMPORTADA – ICMS – FATO GERADOR – MOMENTO ADEQUADO – DESEMBARAÇO ADUANEIRO – COMPENSAÇÃO TRIBUTÁRIA – PRINCÍPIO DA NÃO-CUMULATIVIDADE.
+    I – Não há que se questionar acerca do princípio da não-cumulatividade, eis que no caso concreto, trata-se de bem importado do exterior onde o recolhimento se dá através de guia especial, de sorte que torna-se impossível o creditamento relativo ao ICMS, isto porque, o recolhimento prévio do ICMS é condição para o desembaraço aduaneiro de mercadoria importada, a teor da Súmula n.º 661 do STF.
+    II – Ao que se vê, pretendeu o agravante a compensação do ICMS devido em razão da aquisição do equipamento importado, com os créditos deste imposto já existentes em suas contabilidade, atendendo assim o que preceitua o princípio da não-cumulatividade, todavia, como é cediço, vige no ordenamento jurídico pátrio o princípio da não-cumulatividade, inteligência do art. 155 da CF.
+    III – Recurso a que se nega provimento” (pág. 1 do documento eletrônico 4).
+    O recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 155, § 2º, I, da Constituição Federal, sob o argumento de que contraria o princípio da não cumulatividade a proibição de compensar o valor do ICMS devido na importação de mercadoria com créditos do imposto acumulado pelo contribuinte importador.
+    É o Relatório. DECIDO .
+    O recurso não merece prosperar.
+    Esta Corte já reconheceu a constitucionalidade da exigência do ICMS no momento do desembaraço aduaneiro e do recolhimento do imposto mediante guia especial, na aquisição de mercadorias importadas do exterior, conforme se pode extrair do julgamento do RE 192.711, Rel. Min. Ilmar Galvão, Tribunal Pleno, DJ 18/4/1997, cuja ementa transcrevo a seguir:
+    “ICMS INCIDENTE SOBRE MERCADORIAS IMPORTADAS. FATO GERADOR. ELEMENTO TEMPORAL. CF/88, ART. 155, § 2º, IX, A.
+    Afora o acréscimo decorrente da introdução de serviços no campo da abrangência do imposto em referência, até então circunscrito à circulação de mercadorias, duas alterações foram feitas pelo constituinte no texto primitivo (ar. 23, § 11, da Carta de 1969), a primeira, na supressão das expressões: "a entrada, em estabelecimento comercial, industrial ou produtor, de mercadoria importada do exterior por seu titular"; e, a segunda, em deixar expresso caber "o imposto ao Estado onde estiver situado o estabelecimento destinatário da mercadoria".
+    Alterações que tiveram por conseqüência lógica a substituição da entrada da mercadoria no estabelecimento do importador para o do recebimento da mercadoria importada, como aspecto temporal do fato gerador do tributo, condicionando-se o desembaraço das mercadorias ou do bem importado ao recolhimento, não apenas dos tributos federais, mas também do ICMS incidente sobre a operação.
+    Legitimação dos Estados para ditarem norma geral, de caráter provisório, sobre a matéria, de conformidade com o art. 34, § 8º, do ADCT/88, por meio do Convênio ICM 66/88 (art. 2º, I) e, conseqüentemente, do Estado de São Paulo para fixar o novo momento da exigência do tributo (Lei nº 6.374/89, art. 2º, V).
+    Acórdão que, no caso, dissentiu dessa orientação.
+    Recurso conhecido e provido”.
+    Além disso, a jurisprudência deste Tribunal também é firme no sentindo de que não decorre da regra constitucional da não cumulatividade o direito de realizar o pagamento do ICMS devido na importação de mercadorias do exterior por meio de compensação com os créditos eventualmente acumulados pelo contribuinte em outras operações (débito na conta gráfica). Nesse sentido, transcrevo a ementa do julgamento do RE 195.663, Rel. Min. Ilmar Galvão, Tribunal Pleno, DJ 21/11/1997:
+    “TRIBUTÁRIO. ART. 5º DA LEI PAULISTA Nº 6.374/89. ICMS INCIDENTE SOBRE MERCADORIA IMPORTADA.
+    Obrigação tributária insuscetível de ser cumprida mediante lançamento de débito na conta gráfica da contribuinte. Pelo sistema tributário em vigor, o que se contabiliza na referida conta é o crédito do ICMS pago na entrada da mercadoria, independentemente de sua origem, ou o débito pelas saídas, inexistindo hipótese de débito pela entrada.
+    Acórdão que decidiu de acordo com essa orientação.
+    Recurso que se conhece, mas que se nega provimento”.
+    Por oportuno, extraio o seguinte trecho do voto do relator:
+    “Com efeito, como se sabe, o que se contabiliza na conta gráfica, pela entrada da mercadoria, é o crédito do ICMS embutido no preço pago pelo contribuinte. Assim sendo, não há confundir-se a operação de entrada de mercadoria provinda do exterior que, por motivos óbvios, não é tributada pelo ICMS na origem, com a de mercadoria adquirida no mercado interno, cujo preço traz embutido, invariavelmente, o tributo pago.
+    Estando-se diante de situações diversas, não há falar-se em tratamento tributário análogo que importaria, aí sim, afronta ao princípio da isonomia.
+    De outra parte, pela mesma razão de não ser possível considerar a ocorrência de operações anteriores à nacionalização da mercadoria importada, não há falar-se em compensação de créditos, para atendimento ao princípio da não-cumulatividade.
+    O tributo pago pelo importador, na operação de entrada, é que é creditado pelo contribuinte, para compensação quando da revenda do produto, em obediência ao referido princípio.
+    Desobrigar-se do ICMS por meio da contabilização do débito valeria por um diferimento da obrigação, pelo menos, para o mês seguinte à importação em que vier a ocorrer o primeiro recolhimento do ICMS, pelo regime periódico, ou, quando ao débito se seguir o respectivo crédito, quando, em face da compensação de ambas as operações, o pagamento ficará adiado para quando houver a saída da mercadoria. Em qualquer hipótese, estar-se-ia diante de diferimento sem lei que o autoriza, o que não se compatibiliza com o princípio da legalidade estrita do tributo”.
+    Ex positis , DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de novembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
