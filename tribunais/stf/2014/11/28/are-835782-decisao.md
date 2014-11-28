@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Sexta Câmara Cível da Comarca de Porto Alegre/RS, assim ementado:
+    “Apelação Cível. Previdência privada. Abono salarial. Preliminares suscitadas em contra-razões. Chamamento ao processo da Brasil Telecom. Ilegitimidade passiva da Fundação BRTPREV. Incompetência da Justiça do Trabalho. Prefaciais afastadas. Prescrição quinquenal. Pedido de abonos salariais. Ausência de comprovação de percepção do abono pretendido. Pedido de instauração de incidente de uniformização de jurisprudência rejeitado, porque a matéria é de fato e reclama exame de provas, caso a caso. Preliminares rejeitadas. Recurso não provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXV e XXXVI, Constituição.
+    O recurso não deve ser provido. Isso porque não foi ofendida a garantia da inafastabilidade do controle jurisdicional, uma vez que a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e motivado suas conclusões de forma satisfatória.
+     Ademais, incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se a seguinte passagem da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Por fim, a jurisprudência desta Corte já assentou entendimento pela ausência de repercussão geral da questão acerca da extensão aos funcionários inativos de benefícios concedidos a funcionários ativos, por tratar-se de matéria infraconstitucional. Nessa linha, veja-se a ementa do RE 590.005-RG, julgado sob a relatoria do Ministro Cezar Peluso:
+    “RECURSO. Extraordinário. Incognoscibilidade. previdência privada. Complementação de aposentadoria. Extensão, a aposentados, de benefício concedido a trabalhadores em atividade. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à concessão, a beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados ativos, versa sobre matéria infraconstitucional.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 28 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
