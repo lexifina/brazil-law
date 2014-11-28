@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. Medicamentos. Diabetes. Evolução da enfermidade, com o surgimento de glaucoma. Determinação de fornecimento de novos remédios e insumos necessários ao tratamento da moléstia. Decisão irrecorrida. Preclusão. Apreensão de parte dos medicamentos necessários, junto ao ente municipal. Dedução do respectivo valor da verba estadual apreendida. Cabimento. Recurso provido em parte.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, LV e LIV, e 132 da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que o processo discute questão infraconstitucional, bem como incide, na espécie, a Súmula 284/STF.
+    O recurso é inadmissível. Isso porque é firme a jurisprudência do Plenário deste Tribunal no sentido de que as questões relativas ao cerceamento do direito de defesa e dos limites da coisa julgada restringem-se ao âmbito infraconstitucional. Nesse sentido, reconhecendo a ausência de repercussão geral da matéria, veja-se a ementa do AI 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral."
+    Ademais, o Tribunal de origem assentou que não houve nenhum defeito na intimação do ente estatal. Com efeito, ficou consignado no acórdão recorrido que se repele “a alegação de nulidade do processo, pois o agravante foi devidamente intimado da decisão que determinou o fornecimento de novos medicamentos e insumos à agravada, conforme se verifica do mandado de intimação juntado às fls. 177-v”. Para dissentir de tal entendimento, seria necessária a análise do contexto fático-probatório dos autos, providência vedada em sede de recurso extraordinário, nos termos da Súmula 279/STF. Nesse sentido, veja-se a ementa do AI 847.595-AgR, de relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTIMAÇÃO PESSOAL DO PROCURADOR DA AUTARQUIA. AUSÊNCIA DE PREJUÍZO. NECESSIDADE DO REEXAME DE PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 28 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
