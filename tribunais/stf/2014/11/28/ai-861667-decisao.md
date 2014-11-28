@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 205):
+    “PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS. CONTRATO DE LOCAÇÃO DE IMÓVEL PARA FINS NÃO RESIDENCIAIS.
+    PERDA DO OBJETO DO RECURSO NO QUE TANGE À ORDEM DE DESPEJO DECRETADA NA SENTENÇA, EM VIRTUDE DO TERMO DE ENTREGA DE CHAVES, ÀS FLS. 149 E 149 VERSO.
+    DESNECESSÁRIA A PRODUÇÃO DE PROVAS EM AUDIÊNCIA. QUESTÃO DE MÉRITO POSSUI CARÁTER EMINETEMENTE JURÍDICO E OS FATOS FORAM PROVADOS DOCUMENTALMENTE NA DILAÇÃO PROBATÓRIA. REJEITADA A PRELIMINAR DE NULIDADE DO PROCESSO POR CERCEAMENTO DE DEFESA.
+    CONHECIDO O RECURSO E NEGADO PROVIMENTO A FIM DE MANTER INTEGRALMENTE A SENTENÇA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV e LV, e 93, IX, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a alegação de contrariedade às normas constitucionais indicadas como ofendidas ressente-se do requisito da razoabilidade, que indique a probabilidade de ter a mesma se concretizado no acórdão recorrido, sem o que torna-se inviável o admissão do apelo extremo manifestado” (fls. 289).
+    O recurso extraordinário não deve ser provido. Inicialmente, observo que o Plenário Virtual do Supremo Tribunal Federal assentou a ausência de repercussão geral da questão relativa à obrigatoriedade de observância das garantias constitucionais do processo ante o indeferimento, pelo juiz, de determinada diligência probatória. Nessa linha, veja-se a ementa do ARE 639.228 RG, julgado sob a relatoria do Ministro Cezar Peluso (Tema 424):
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de Provas. Processo judicial. indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.”
+     O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Cabe ressaltar que, para dissentir da conclusão do acórdão recorrido, seria necessário análise da legislação infraconstitucional aplicada ao caso, nova apreciação das cláusulas constantes do contrato celebrado entre as partes demandantes (Súmula 454/STF), bem como o reexame do material fático-probatório dos autos (Súmula 279/STF), o que não enseja a abertura da via extraordinária.
+    Por último, o Plenário do Supremo Tribunal Federal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 28 de novembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
