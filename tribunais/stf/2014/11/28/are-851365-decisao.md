@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. CONTRATO BANCÁRIO. LIMITAÇÃO DE JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO ANUAL. COMISSÃO DE PERMANÊNCIA. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO AI 804.209-RG. TEMA 310. MATÉRIA INFRACONSTITUCIONAL.
+1. A limitação de juros a 12% (doze por cento) ao ano, quando sub judice sua cobrança, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do AI 804.209-RG, Rel. Min. Gilmar Mendes, DJe de 14/10/2010.
+2. In casu, o acórdão recorrido assentou: “Apelação Cível. Ação revisional de contrato de financiamento com pacto adjeto de alienação fiduciária. Juros remuneratórios limitados. Capitalização anual. Ilegalidade da comissão de permanência. Disposições de ofício. TAC, IOF financiado. DIREITO À COMPENSAÇÃO DE CRÉDITOS E À REPETIÇÃO DE INDÉBITO. SENDO APURADO A EXISTÊNCIA DE SALDO DEVEDOR, DEVEM SER COMPENSADOS OS PAGAMENTOS A MAIOR FEITOS O CURSO DA CONTRATUALIDADE. CASO, PORÉM, SE VERIFIQUE QUE O DÉBITO JÁ ESTÁ QUITADO, DEVEM SER DEVOLVIDOS OS VALORES EVENTUALMENTE PAGOS A MAIOR, NA FORMA SIMPLES, CORRIGIDOS PELO IGP-M DESDE O DESEMBOLSO E COM JUROS LEGAIS DESDE A CITAÇÃO. DISPOSIÇÃO DE OFÍCIO. Apelo, em parte, provido. Com disposições de ofício, vencido o relator, quanto à possibilidade da repetição do indébito.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por Banco Volkswagen S.A., com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário, manejado com arrimo nas alíneas “a” e “c” do permissivo Constitucional, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+    “Apelação Cível. Ação revisional de contrato de financiamento com pacto adjeto de alienação fiduciária. Juros remuneratórios limitados. Capitalização anual. Ilegalidade da comissão de permanência. Disposições de ofício. TAC, IOF financiado. DIREITO À COMPENSAÇÃO DE CRÉDITOS E À REPETIÇÃO DE INDÉBITO. SENDO APURADO A EXISTÊNCIA DE SALDO DEVEDOR, DEVEM SER COMPENSADOS OS PAGAMENTOS A MAIOR FEITOS O CURSO DA CONTRATUALIDADE. CASO, PORÉM, SE VERIFIQUE QUE O DÉBITO JÁ ESTÁ QUITADO, DEVEM SER DEVOLVIDOS OS VALORES EVENTUALMENTE PAGOS A MAIOR, NA FORMA SIMPLES, CORRIGIDOS PELO IGP-M DESDE O DESEMBOLSO E COM JUROS LEGAIS DESDE A CITAÇÃO. DISPOSIÇÃO DE OFÍCIO. Apelo, em parte, provido. Com disposições de ofício, vencido o relator, quanto à possibilidade da repetição do indébito.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 192, § 3º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário diante da ausência de prequestionamento da matéria.
+    É o breve relatório. DECIDO.
+    A limitação de juros a 12% (doze por cento) ao ano, quando sub judice sua cobrança, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do AI 804.209-RG, Rel. Min. Gilmar Mendes, DJe de 14/10/2010, que possui a seguinte ementa:
+    “Juros. Limitação em 12% ao ano. Contratos celebrados após o advento da Emenda Constitucional n. 40/2003. Legislação Infraconstitucional. Inexistência de repercussão geral.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de novembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
