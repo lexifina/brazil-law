@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. TERCEIRIZAÇÃO DAS ATIVIDADES INERENTES, ACESSÓRIAS OU COMPLEMENTARES AO SERVIÇO DE TELECOMUNICAÇÕES. NÃO APLICAÇÃO DO ARTIGO 94, II, DA LEI Nº 9.472/1997. REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO VIRTUAL NO ARE 791.932-RG. TEMA Nº 739. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    DECISÃO: O Supremo Tribunal Federal reconheceu a repercussão geral da matéria em que se discute a declaração ou não da inconstitucionalidade do artigo 94, II, da Lei nº 9.472/1997, nos autos do ARE 791.932, Rel. Min. Teori Zavascki, Plenário Virtual, DJe de 17/6/2014, Tema nº 739. A decisão recebeu a seguinte ementa:
+    “Ementa: CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCESSIONÁRIAS DE SERVIÇOS DE TELECOMUNICAÇÕES. “TERCEIRIZAÇÃO”. OFENSA AO PRINCÍPIO DA RESERVA DE PLENÁRIO. NÃO-APLICAÇÃO DO ART. 94, II, DA LEI 9.472/97 PELO TRIBUNAL SUPERIOR DO TRABALHO. REPERCUSSÃO GERAL CONFIGURADA.
+    1. Possui repercussão geral a questão relativa à ofensa ou não ao princípio da reserva de plenário em razão da não-aplicação, pelo Tribunal Superior do Trabalho, a empresas de telecomunicações, do art. 94, II, da Lei 9.472/97, que permite, a concessionárias de serviço público a ‘terceirização’ de atividades inerentes, acessórias ou complementares ao serviço.
+    2. Repercussão geral reconhecida.”
+    In casu, o acórdão originariamente recorrido assentou:
+    “AGRAVOS DE INSTRUMENTO EM RECURSO DE REVISTA. RITO SUMARÍSSIMO. “CALL CENTER”. TERCEIRIZAÇÃO. ILICITUDE. RESPONSABILIDADE. VÍNCULO EMPREGATÍCIO. HIPÓTESES PREVISTAS NO ART. 896, § 6.º, DA CLT NÃO DEMONSTRADAS. DESPACHO MANTIDO POR SEUS PRÓPRIOS FUNDAMENTOS, COM ACRÉSCIMOS. AGRAVOS NÃO PROVIDOS. A despeito das razões expostas pelas partes agravantes, merece ser mantido o despacho que negou seguimento aos Recursos de Revista, pois subsistentes os seus fundamentos. Ademais, esta Corte tem firmado o entendimento de que o vínculo de emprego do empregado que trabalha em serviço de central de atendimento ‘call center’, em empresa de telefonia, faz-se diretamente com a concessionária, por representar fraude na relação de trabalho, já que se trata de atividade-fim, sendo ilícita a terceirização. Este entendimento permanece firme, mesmo após os amplos debates encetados quando da audiência pública sobre o assunto. Aplica-se, assim, como óbice à Revisão pretendida, o disposto na Súmula n.º 333 do TST.
+    Agravos conhecidos e não providos.”
+    Observados esses parâmetros, constato que o exame da matéria discutida neste recurso extraordinário depende do desenlace da pretensão recursal posta no ARE 791.932.
+    Ex positis, PROVEJO o agravo para, desde logo, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), ADMITIR o recurso extraordinário e determinar a DEVOLUÇÃO do feito ao Tribunal de origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 28 de novembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
