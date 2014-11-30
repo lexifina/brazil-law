@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. RESPONSABILIDADE DE EMPRESA CONTRATADA. NECESSIDADE DE REEXAME DE PROVA E DE CLÁUSULA CONTRATUAL: IMPOSSIBLIDADE. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 5º, INCS. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “APELAÇÃO CÍVEL. DIREITO PÚBLICO. CONTRATO ADMINISTRATIVO. NÃO APROVAÇÃO DAS CONTAS E GLOSA DE VALORES REFERENTE A CONVÊNIO FIRMADO PELO MUNICÍPIO DE CAMBARÁ DO SUL E O MINISTÉRIO DO TURISMO. ELABORAÇÃO DO PLANO DIRETOR. DEFICIÊNCIA NO PROCESSO DE PARTICIPAÇÃO DA SOCIEDADE. RESPONSABILIDADE DA EMPRESA CONTRATADA. INEXECUÇÃO PARCIAL DO CONTRATO. PRELIMINARES” (fl. 16, doc. 19).
+    2. No recurso extraordinário, a Agravante alega ter o Tribunal de origem contrariado os arts. 5º, incs. XXXV, LIV e LV, e 109, I, da Constituição da República.
+    Sustenta que
+    “evidente nos autos, que a partir do procedimento licitatório, a demandada/recorrente foi contratada, no âmbito do convênio celebrado com o Ministério do Turismo, para desenvolver atividades relacionadas à elaboração do Plano Diretor do Município de Cambará do Sul. Tendo início a contratualidade, a recorrente iniciou a prestação do serviço atenta às normas e legislações pertinentes. Não obstante, o contrato não foi plenamente executado por razões alheias à vontade da demandada; (...)
+    Da sucinta análise dos fatos já se torna evidente que o interesse supostamente lesado é o da União Federal, que requereu a devolução de valores. O Município, até então, não se tinha por lesado em nenhum momento (fl. 77, doc. 19).
+    3. Inadmitiu-se o recurso extraordinário sob os fundamentos de ausência de ofensa constitucional direita e de incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 96-104, doc. 19).
+    Analisados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Tribunal de origem consignou:
+    “Uma vez que a relação jurídica existente nos autos é entre o Município, contratante, e a empresa ré, contratada, não envolvendo a União, através do Ministério da Saúde, não há falar em competência da Justiça Federal.
+    Ora, a relação contratual se deu entre o ente público municipal e a empresa Ambiens, sendo irrelevante que a verba tenha vindo da União, na medida em que não há vínculo jurídico direto entre a empresa e o Ministério do Turismo” (fl. 20, doc. 19).
+    A apreciação do pleito recursal demandaria reexame da prova e das cláusulas do contrato firmado entre as partes. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem, na espécie, as Súmulas ns. 279 e 454 do Supremo Tribunal Federal:
+    “Agravo regimental em agravo de instrumento. 2. Contrato administrativo tornado nulo por decisão judicial. 3. Pedido de indenização com base nos termos da avença administrativa. 4. Impossibilidade de reexame do conjunto fático-probatório e de cláusulas contratuais. Incidência das súmulas 279 e 454 do STF. 5. Agravo regimental a que se nega provimento” (AI 738.953-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 31.5.2011).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AÇÃO DE RESSARCIMENTO DE CONTRATO ADMINISTRATIVO. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL, DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. 1. Caso em que entendimento diverso do adotado pelo Tribunal de origem demandaria o reexame da legislação infraconstitucional pertinente, de cláusulas contratuais, bem como a análise do acervo fático-probatório dos autos. Providências vedadas na instância extraordinária. 2. Agravo regimental desprovido” (RE 565.629-AgR, Relator o Ministro Ayres Britto, Primeira Turma, DJe 23.10.2009).
+    7. Ademais, no julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral quanto às alegações de contrariedade aos princípios do contraditório e da ampla defesa, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de novembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
