@@ -1,0 +1,18 @@
+DECISÃO
+DIREITO – ORGANICIDADE E DINÂMICA – HABEAS CORPUS – LIMINAR – CONFUSÃO COM O MÉRITO – INDEFERIMENTO.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O paciente foi condenado, em 17 de dezembro de 2012, pelo Juízo da 4ª Vara Criminal da Seção Judiciária de Pernambuco (Processo nº 0002823-77.2012.4.05.8300) a sete anos, um mês e dez dias de reclusão, em regime inicial fechado, e ao pagamento de setecentos dias-multa, pela prática do delito de tráfico internacional de drogas.
+    A Defensoria Pública da União interpôs apelação – de nº 10060 – no Tribunal Regional Federal da 5ª Região, alegando a erronia na dosimetria da pena. A 3ª Câmara Criminal deu parcial provimento ao recurso, reduzindo a reprimenda a quatro anos e oito meses de reclusão e quinhentos dias-multa. Consignou ter a reincidência obstaculizado o decote da sanção – de um sexto a dois terços –, previsto no § 4º da Lei de drogas. Apontou o fato de o paciente possuir condenação anterior por crime de tráfico de drogas. Observou a suficiência da pena-base, consideradas as circunstâncias descritas no artigo 59 do Código Penal, a revelar o elevado grau de culpabilidade do réu. Destacou ainda a impossibilidade de afastar a causa de aumento alusiva à transnacionalidade da conduta.
+    Inadmitiu-se, na origem, o especial interposto pela defesa, por implicar o reexame de provas. A relatora no Superior Tribunal de Justiça negou provimento ao Agravo nº 489.100/PE, tendo em conta o artigo 254, inciso I, do Regimento Interno do Tribunal. Melhor sorte não teve o regimental formalizado na sequência. A Sexta Turma, ao chancelar a fundamentação utilizada nas decisões anteriores, assentou a inviabilidade da irresignação recursal, assinalando o intuito do recorrente de submeter matéria não veiculada inicialmente no recurso especial, traduzindo-se em inovação no campo da recorribilidade.
+    Neste habeas, a Defensoria Pública da União aduz constrangimento ilegal. Diz da inidoneidade do ato mediante o qual exasperada a pena-base, alegando não estar devidamente motivada. Discorre sobre a violação ao artigo 59 do Código Penal. Defende a aplicação da causa de diminuição prevista no § 4º da Lei nº 11.343/2006. Ressalta não ter o paciente qualquer relação com a suposta organização criminosa, asseverando estarem atendidos os requisitos para o deferimento do aludido benefício.
+    Em âmbito liminar, requer a diminuição da pena-base, bem como o implemento, no patamar máximo, do redutor preconizado no § 4º do artigo 33 da Lei nº 11.343/06. No mérito, busca a confirmação da providência.
+    O processo encontra-se instruído para apreciação da medida acauteladora.
+    2. Eis um dos motivos de a máquina judiciária encontrar-se emperrada. O pleito veiculado distancia-se da organicidade e da dinâmica próprias ao Direito instrumental.
+    O Superior Tribunal de Justiça, cujo ato fixa a competência do Supremo para julgar o habeas corpus, disse da inviabilidade do acesso a si na via do recurso de natureza extraordinária que é o especial. Na inicial desta impetração, a Defensoria Pública da União coloca em segundo plano esse fato e, então, confundindo o pedido liminar com o de fundo, busca alcançar, com queima de etapa, a diminuição da pena-base e a observância da causa de diminuição da pena prevista no artigo 33, § 4º, da Lei nº 11.343/06, temas que não chegaram a ser apreciados pelo Superior Tribunal de Justiça.
+    Vale frisar que o quadro não sinaliza o implemento de análise de ofício.
+    3. Indefiro a medida acauteladora.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 1º de dezembro de 2014, às 10h35.
+Ministro MARCO AURÉLIO
+Relator
