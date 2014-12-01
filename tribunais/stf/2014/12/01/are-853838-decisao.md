@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos, no que interessa:
+    “DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO. AÇÃO ORDINÁRIA COM PEDIDO DE EQUIPARAÇÃO DE PROVENTOS DE APOSENTADORIA COM VENCIMENTOS DO PESSOAL DA ATIVA. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. PRESCRIÇÃO QUINQUENAL DAS DIFERENÇAS VENCIDAS ANTERIORMENTE À PROPOSITURA DA AÇÃO. OCORRÊNCIA. SERVIDORA APOSENTADA ANTERIORMENTE AO ADVENTO DA EC 41/03. RECONHECIMENTO DO DIREITO DE PARIDADE DO VALOR DOS PROVENTOS COM OS VENCIMENTOS DO PESSOAL DA ATIVA. MANUTENÇÃO. ATUALIZAÇÃO DAS DIFERENÇAS VENCIDAS. SENTENÇA PARCIALMENTE REFORMADA” (eDOC 1, p. 90).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 40, §8º, do texto constitucional.
+    A 1ª Vice-Presidência do TJMG inadmitiu o recurso com base nas Súmulas 283 e 279 do STF.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “No caso dos autos, a autora já se encontrava aposentada desde o ano de 1972, bem antes, portanto, da reforma implementada pela EC 41/03, razão pela qual, do cotejo do regramento constitucional acima referido, tem o direito à paridade dos proventos com os vencimentos do pessoal da ativa” (eDOC 1, p. 95).
+    Sendo assim, constato que as razões recursais estão dissociadas do acórdão recorrido, logo o seguimento do recurso extraordinário encontra óbice na Súmula 287 do Supremo Tribunal Federal.
+    Mesmo que assim não fosse, verifico que o acórdão recorrido não diverge da jurisprudência pacífica desta Corte, segundo a qual anteriormente à Emenda Constitucional nº 41/03, o §8º do art. 40 do texto constitucional assegurava ao servidor inativo o direito de ter seus proventos ajustados em condições semelhantes às dos servidores da ativa.
+    A propósito, confira-se o RE-RG 606.199, Rel. Min. Teori Zavascki, DJe 7.2.2014, no qual o Tribunal Pleno assim se manifestou:
+    “CONSTITUCIONAL. ADMINISTRATIVO. EXTENSÃO, A SERVIDORES APOSENTADOS, DE VANTAGENS CONCEDIDAS A SERVIDORES ATIVOS. REESTRUTURAÇÃO DE CARREIRA. ARTIGO 40, § 8º, DA CONSTITUIÇÃO (REDAÇÃO ANTERIOR À EC 41/03). INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PECULIARIDADES DA REESTRUTURAÇÃO DA CARREIRA DECORRENTE DA LEI 13.666/02 DO ESTADO DO PARANÁ. RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO. 1. Segundo a jurisprudência firmada em ambas as Turmas do STF, não há direito adquirido a regime jurídico. Assim, desde que mantida a irredutibilidade, não tem o servidor inativo, embora aposentado na última classe da carreira anterior, o direito de perceber proventos correspondentes aos da última classe da nova carreira, reestruturada por lei superveniente. Precedentes. 2. Todavia, relativamente à reestruturação da carreira disciplinada pela Lei 13.666/02, do Estado do Paraná, assegura-se aos servidores inativos, com base no artigo 40, § 8º, da Constituição Federal (redação anterior à da EC 41/03), o direito de ter seus proventos ajustados, em condições semelhantes aos servidores da ativa, com base nos requisitos objetivos decorrentes do tempo de serviço e da titulação, aferíveis até a data da inativação. 3. Recurso extraordinário a que se dá parcial provimento.” (grifei).
+    Ante o exposto, conheço do presente agravo para negar provimento ao recurso extraordinário (art. 544, §4º, II, b, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 1º de dezembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
