@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 317, de 17 de novembro de 2014
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS EMENTA: DECLARAÇÃO DE DÉBITOS E CRÉDITOS TRIBUTÁRIOS FEDERAIS (DCTF). OBRIGATORIEDADE. A Ordem dos Advogados do Brasil é entidade sui generis que não se enquadra entre as espécies enumeradas pelo art. 2º da Instrução Normativa RFB nº 1.110, de 2010, não se sujeitando, atualmente, à obrigação de apresentar DCTF. DISPOSITIVOS LEGAIS: Código Tributário Nacional (CTN), arts. 113, § 2º, e 121, inciso II; Lei nº 9.779, de 19 de janeiro de 1999, art. 16; Instrução Normativa RFB nº 1.110, de 24 de dezembro de 2010, art. 2º.
+[arquivo anexo: SC Cosit nº 317-2014.pdf]
