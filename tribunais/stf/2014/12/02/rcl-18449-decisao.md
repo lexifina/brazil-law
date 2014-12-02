@@ -1,0 +1,38 @@
+DECISÃO
+RECLAMAÇÃO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. LIVRAMENTO CONDICIONAL. CUMPRIMENTO DE DOIS TERÇOS DA PENA. ART. 44 DA LEI N. 11.343/2006 AFASTADO SEM OBSERVÂNCIA DO DISPOSTO NO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL. RECLAMAÇÃO JULGADA PROCEDENTE.
+Relatório
+    1. Reclamação, com requerimento de medida liminar, ajuizada pelo Ministério Público de Mato Grosso do Sul contra acórdão da Primeira Câmara do Tribunal de Justiça daquele Estado, que, no Agravo de Execução Penal n. 0003595-85.2014.8.12.0008, teria descumprido a Súmula Vinculante n. 10 do Supremo Tribunal Federal.
+O caso
+    2. O Reclamante relata “que a ré Marta da Silva Matos [teria sido] condenada à pena de 11 anos e 1 mês de reclusão pela prática dos delitos previstos nos artigos 33 e 35, da Lei 11.343/06” (fl. 7 da petição inicial).
+    Explica ter a defesa impugnado o cálculo da pena “postulando [a] retificação, alegando que a associação para o tráfico não [seria] crime hediondo devendo ser observado o lapso de 1/3 para o benefício do livramento condicional” (fl. 8 da petição inicial).
+    O Reclamante interpôs agravo “afirma[ndo] que a previsão de 2/3 de cumprimento de pena para a concessão do livramento condicional ao sentenciado condenado pelo crime previsto no artigo 35, da Lei 11.343/06 est[aria] prevista no artigo 44, da Lei 11.343/06, não existindo nenhuma declaração de inconstitucionalidade do referido artigo, pugnando pela retificação do cálculo, aplicando-se a fração de 2/3 para o benefício do livramento condicional” (fl. 8 da petição inicial).
+    Em 4.8.2014, a Primeira Câmara Criminal do Tribunal de Justiça de Mato Grosso do Sul julgou o agravo interposto pelo Reclamante nos termos seguintes:
+    “EMENTA – AGRAVO CRIMINAL – ASSOCIAÇÃO PARA O TRÁFICO (ART. 35 DA LEI N. 11.343/06) – RECURSO MINISTERIAL – PRETENDIDA RETIFICAÇÃO DO CÁLCULO DE PENA – LIVRAMENTO CONDICIONAL DE ACORDO COM O LAPSO TEMPORAL PREVISTO NA LEI DE DROGAS – DELITO NÃO CONSIDERADO HEDIONDO OU EQUIPARADO – PRINCÍPIO CONSTITUCIONAL DA ISONOMIA SE SOBREPÕE AO DA ESPECIFIDADE – RECURSO DESPROVIDO.
+    O crime de associação para o tráfico não integra o rol de crimes hediondos ou equiparados, previstos na Lei n. 8.072/90. Assim, a progressão de regime e o livramento condicional em condenações pelo delito do art. 35 da Lei n.º 11.343/06 sujeitam-se ao lapsos previstos no art. 112 da Lei de Execução Penal e no art. 83 do Código Penal, respectivamente”.
+    Contra essa decisão, o Ministério Público de Mato Grosso do Sul ajuíza a presente reclamação.
+    3. O Reclamante argumenta ter-se afastado a incidência do art. 44 da Lei n. 11.343/2006, “embora não tenha declarado a inconstitucionalidade da norma” (fl. 9 da petição inicial).
+    Assevera ter a autoridade reclamada afastado norma específica para aplicar norma geral e descumprido a Súmula Vinculante n. 10 deste Supremo Tribunal.
+    Alega presentes os requisitos para o deferimento de medida liminar.
+    A comprovação da plausibilidade jurídica estaria presente, pois teria havido afronta à Súmula Vinculante n. 10 deste Supremo Tribunal. O perigo da demora “decorre[ria] da própria demora na solução da presente lide, bem como no fato de que com a alteração do quantum da fração do livramento condicional dará ensejo à soltura do réu” (fl. 12 da petição inicial).
+    Pede “seja confirmada a liminar, com a cassação do acórdão prolatado nos autos de Agravo Criminal n.º 0003595-85.2014.8.12.0008/MS, de relatoria do Des. Luiz Gonzaga Mendes Marques, em garantia à autoridade do enunciado de Súmula Vinculante n.º 10 dessa Corte Alta” (fl. 14 da petição inicial).
+    4. Em 12.9.2014, indeferi o requerimento de medida liminar, requisitei informações à autoridade reclamada e determinei vista dos autos ao Procurador-Geral da República, tendo este se manifestação pela procedência da reclamação em 12.11.2014.
+    5. A autoridade reclamada prestou informações em 28.10.2014.
+    Examinados os elementos havidos no processo, DECIDO.
+    7. Registre-se, inicialmente, dispor o Reclamante de legitimidade para o ajuizamento da presente reclamação.
+    Em 24.2.2011, ao julgar a Reclamação n. 7.358/SP, contra o meu voto, os da Ministra Ellen Gracie, Relatora, e dos Ministros Dias Toffoli e Joaquim Barbosa, o Plenário deste Supremo Tribunal reconheceu a legitimidade ativa autônoma do Ministério Público estadual para ajuizar reclamação.
+    8. Põe-se em foco na presente reclamação se teria havido desrespeito à Súmula Vinculante n. 10 do Supremo Tribunal Federal, segundo a qual:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    9. Marta da Silva Matos foi condenada pela prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006, que institui o Sistema Nacional de Políticas Públicas sobre Drogas – SISNAD.
+    O parágrafo único do art. 44 dessa lei estabelece, para o livramento condicional, ser necessário o cumprimento de dois terços da pena:
+    “Art. 44. Os crimes previstos nos arts. 33, caput e § 1o, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos.
+    Parágrafo único. Nos crimes previstos no caput deste artigo, dar-se-á o livramento condicional após o cumprimento de dois terços da pena, vedada sua concessão ao reincidente específico“.
+    O órgão fracionário do Tribunal de Justiça de Mato Grosso do Sul negou provimento ao agravo interposto pelo Ministério Público estadual Estado, mantendo o cálculo da pena à qual condenada a Interessada, adotando o lapso de um terço para concessão do livramento condicional.
+    Afastou, assim, a aplicação do art. 44 da Lei n. 11.343/2006 com fundamento no princípio da isonomia e na “aplicabilidade das regras inerentes aos crimes comuns do Livramento Condicional para o Crime de Associação para o Tráfico”, sem, no entanto, formalmente declarar a inconstitucionalidade do dispositivo.
+    Em reclamação análoga à presente, o Plenário do Supremo Tribunal Federal decidiu haver descumprimento do disposto na Súmula Vinculante n. 10. O acórdão ficou assim ementado:
+    “Agravo regimental em reclamação. 2. Crime de associação para o tráfico (art. 35 da Lei 11.343/2006). 3 . O Tribunal a quo, embora não tenha declarado expressamente a inconstitucionalidade do parágrafo único do art. 44 da Lei de Drogas (necessidade de cumprimento de 2/3 da pena para concessão de livramento condicional), afastou sua aplicação, sem observar o disposto no art. 97 da Constituição Federal e na Súmula Vinculante n. 10. 4. Violação ao princípio da reserva de plenário. 5. Agravo regimental a que se nega provimento” (Rcl 17.411-AgR/RJ, Relator o Ministro Gilmar Mendes, Plenário, DJe 4.8.2014).
+    Confiram-se também as seguintes decisões monocráticas: Rcl 17.588/RJ, Relator o Ministro Dias Toffoli, DJe 10.11.2014; Rcl 18.597/MS, Relator o Ministro Roberto Barroso, DJe 7.10.2014; Rcl 18.331/MS, Relator o Ministro Teori Zavascki, DJe 2.9.2014; Rcl 17.794/MS, Relator o Ministro Gilmar Mendes, DJe 28.5.2014; e Rcl 16.079/RJ, Relator o Ministro Dias Toffoli, DJe 14.11.013.
+    10. Pelo exposto, julgo procedente a presente reclamação para cassar a decisão proferida pela Primeira Câmara Criminal do Tribunal de Justiça de Mato Grosso do Sul no Agravo de Execução Penal n. 0003595-85.2014.8.12.0008 e determinar outra decisão seja proferida como de direito.
+    Publique-se.
+    Brasília, 2 de dezembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
