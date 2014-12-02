@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 319, de 17 de novembro de 2014
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: TRANSPORTE AÉREO - AFRETAMENTO - CARGA E PASSAGEIROS - RETENÇÃO 11%. Incide a retenção de 11% prevista no artigo 31 da Lei nº 8.212, de 24 de julho de 1991, sobre o transporte de passageiros que constitua necessidade contínua do tomador e seja realizado mediante cessão de mão-de-obra nas instalações da contratante ou de terceiros por ela indicados. DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 31; Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 1999, art. 219; Instrução Normativa RFB nº 971, de 2009, arts.115, 118, XVIII, e 124.
+[arquivo anexo: SC Cosit nº 319-2014.pdf]
