@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 321, de 17 de novembro de 2014
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: PRESTAÇÃO DE SERVIÇO. RETENÇÃO ART. 31 DA LEI Nº 8.212/91. CONTRATANTE SEM PERSONALIDADE JURÍDICA. A inexistência de personalidade jurídica do contratante não é causa de exclusão da obrigação de efetuar a retenção e o recolhimento quando o serviço é prestado nas condições do art. 31 da Lei nº 8.212, de 24 de julho de 1991. DISPOSITIVOS LEGAIS: Lei nº 8.212, de 24/07/1991, arts. 15 e 31, Regulamento da Previdência Social (Decreto nº 3.048, de 06/05/1999) arts. 12 e 219, e IN RFB nº 971, de 2009, arts. 117 e 149.
+[arquivo anexo: SC Cosit nº 321-2014.pdf]
