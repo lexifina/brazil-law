@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão de Turma Recursal do Tribunal de Justiça do Distrito Federal e Territórios, ementado nos seguintes termos, no que interessa:
+    “DIREITO ADMINISTRATIVO. INFRAÇÃO DE TRÂNSITO. DIREÇÃO SOB INFLUÊNCIA DE ÁLCOOL. ART. 165 DO CTB. LEGALIDADE DO AUTO DE INFRAÇÃO NÃO INFIRMADA. SENTENÇA MANTIDA […] 3.Não tendo a parte autora se desincumbido do ônus probatório a ela atribuído, por força do disposto no art. 333, inciso I, do CPC, consistente no encargo de infirmar a presunção de legalidade de que goza o ato administrativo impugnado, revela-se escorreita a sentença que julgou improcedente a pretensão desconstitutiva deduzida na inicial” (fl. 96).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37 do texto constitucional.
+    Nas razões recursais, alega-se violação ao princípio da legalidade, uma vez que a infração estaria baseada em prova inexistente.
+    Decido.
+    A irresignação não merece prosperar.
+    De plano, constato que o Tribunal de origem assentou que a parte recorrente não conseguiu afastar a presunção de legitimidade do auto de infração, pois não produziu arcabouço probatório inequívoco para corroborar suas alegações.
+    Na espécie, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável à espécie, o que não enseja a abertura do recurso extraordinário, uma vez que se aplica o Enunciado da Súmula 279 do STF.
+    Nesse sentido, cito as seguintes decisões monocráticas: ARE 818.101, Rel. Min. Ricardo Lewandowski, DJe 25.6.2014; ARE 802.938, Rel. Min. Roberto Barroso, DJe 3.11.2014; e ARE 775.808, Rel. Min. Cármen Lúcia, DJe 13.11.2013.
+    Demais disso, é entendimento sumulado desta Corte que “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (Enunciado da Súmula 636 do STF).
+    Confiram-se, a propósito, os seguintes precedentes desta Corte:
+    “DIREITO ADMINISTRATIVO. APLICAÇÃO DE MULTA. ALEGAÇÃO DE VIOLAÇÃO DO PRINCÍPIO DA LEGALIDADE. MATÉRIA INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA Nº 636/STF. EVENTUAL VIOLAÇÃO REFLEXA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 3.6.2009. Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida (Súmula 636/STF). As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido.”
+(RE 643370 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 20.9.2013)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 e 356 DO STF. ALEGADA VIOLAÇÃO AO ART. 5º, LIV E LV, DA CF. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Precedentes. II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. III - Agravo regimental improvido.”
+(AI 839837 AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 17.8.2011)
+    Ante o exposto, conheço do presente agravo para negar provimento ao recurso extraordinário (Art. 544, §4º, II, b, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 2 de dezembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
