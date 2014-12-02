@@ -1,0 +1,1 @@
+Art. 94-A. As entidades, públicas ou privadas, que abriguem ou recepcionem crianças e adolescentes, ainda que em caráter temporário, devem ter, em seus quadros, profissionais capacitados a reconhecer e reportar ao Conselho Tutelar suspeitas ou ocorrências de maus-tratos.
