@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo regimental interposto de acórdão da Segunda Turma desta Corte cuja ementa possui o seguinte teor:
+    EMENTA: PENAL E PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO CONTRA ATO DE MINISTRO DE TRIBUNAL SUPERIOR. A COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL É MATÉRIA DE DIREITO ESTRITO, RAZÃO PELA QUAL SOMENTE CABE AO SUPREMO CONHECER DE PEDIDO DE HABEAS CORPUS EM QUE SE ATRIBUA A COAÇÃO A TRIBUNAL SUPERIOR, NÃO SE REVELANDO ADMISSÍVEL, A PRETEXTO DE DAR EFETIVIDADE À VIA DE HABEAS CORPUS PREVISTA NO ARTIGO 5º, INCISO LXVIII, DA CONSTITUIÇÃO FEDERAL, DESCUMPRIR A REGRA DE COMPETÊNCIA DEFINIDA NO ARTIGO 102, INCISO I, ALÍNEA “I”, DA MESMA CARTA, SOB PENA DE ESTABELECER ANTINOMIA ENTRE NORMAS CONSTITUCIONAIS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. MATÉRIA APRECIADA PELO STJ NO AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. NEGATIVA DE AUTORIA. ANÁLISE DE FATOS E PROVAS. VEDAÇÃO. HABEAS CORPUS EXTINTO POR INADEQUAÇÃO DA VIA ELEITA.
+    1. A negativa de autoria do delito não é aferível na via do writ, cuja análise se encontra reservada aos processos de conhecimento, nos quais a dilação probatória tem espaço garantido. Precedentes: HC 114.889-AgR, Primeira Turma, de que fui Relator, DJe de 24.09.13; HC 114.616, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 17.09.13.
+    2. In casu, o paciente foi condenado a 9 (nove) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, pela prática dos crimes previstos nos artigos 33, caput, e 35, c/c o artigo 40, incisos IV e VI, todos da Lei 11.3343/06.
+    3. A controvérsia objeto destes autos foi apreciada pelo Superior Tribunal de Justiça no julgamento do AREsp n. 328.337-AgR. Destarte, o Ministro Relator do habeas corpus impetrado naquela Corte Superior, na decisão monocrática ora impugnada, negou seguimento ao writ, sob o fundamento de tratar-se de mera reiteração do referido agravo em recurso especial interposto pela defesa do paciente.
+    4. A impetração de habeas corpus nesta Corte, quando for coator tribunal superior, não prescinde o prévio esgotamento de instância. E não há de se estabelecer a possibilidade de flexibilização desta norma, desapegando-se do que expressamente previsto na Constituição, pois, sendo matéria de direito estrito, não pode ser ampliada via interpretação para alcançar autoridades – no caso, membros de Tribunais Superiores – cujos atos não estão submetidos à apreciação do Supremo.
+    5. Habeas corpus extinto por inadequação da via eleita.
+    O agravante foi condenado à pena de 9 (nove) anos e 4 (quatro) meses de reclusão pela prática dos crimes de tráfico de entorpecentes e associação para o tráfico, tipificados, respectivamente, nos artigos 33, caput, 35, c/c o artigo 40, IV e VI, da Lei n. 11.343/2006.
+    In casu, o Superior Tribunal de Justiça negou seguimento a habeas corpus lá impetrado, sob o fundamento de que os temas nele apresentados foram suscitados em agravo em recurso especial que restou desprovido.
+    Daí a impetração de novo writ nesta Corte visando a que o Superior Tribunal de Justiça examine o HC lá impetrado ou que esta Corte reconheça a inocência do paciente, absolvendo-o.
+    A Primeira Turma não conheceu do writ, por ser substitutivo de recurso extraordinário, e não concedeu a ordem de ofício sob o fundamento de que o rito do habeas corpus não comporta reanálise do conjunto fático-probatório para alcançar a absolvição.
+    O agravante pretende a prevalência do voto vencido do Ministro Marco Aurélio, in verbis:
+    “O SENHOR MINISTRO MARCO AURÉLIO (PRESIDENTE) – Situação concreta. O Superior Tribunal de Justiça defrontou-se com agravo em recurso especial e o desproveu. Indago: manuseado o habeas corpus, tem-se óbice à admissão desse remédio, dessa ação nobre? A meu ver, não.
+    Por isso peço vênia aos colegas para implementar a ordem a fim de que o Superior Tribunal de Justiça abra o embrulho e julgue a impetração com a qual se defrontou.”
+    Requer que se determine ao Superior Tribunal de Justiça a análise do mérito do writ lá impetrado ou, alternativamente, que se conceda a ordem para absolvê-lo dos crimes de tráfico e de associação para o tráfico de entorpecentes.
+    É o relatório, em síntese. DECISÃO.
+    O agravo regimental é cabível de decisão monocrática, conforme previsto no artigo 317 do Regimento Interno do Supremo Tribunal.
+    Outrossim, sequer cabe cogitar aplicação do princípio da fungibilidade, porquanto, in casu, o único recurso cabível é o de embargos de declaração e o agravante não se desincumbiu de demonstrar quaisquer das hipóteses de seu cabimento, vale dizer, omissão, obscuridade ou contradição.
+    Demais disso, é importante reiterar um dos fundamentos do acórdão agravado, no sentido de que o rito do habeas corpus não comporta reanálise de fatos e provas com o escopo de absolvição, a evidenciar a impossibilidade de concessão ex officio da ordem.
+    Ex positis, NEGO SEGUIMENTO ao agravo, com fundamento no artigo 38 da Lei n. 8.038/90.
+    Publique-se. Int..
+    Brasília, 3 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
