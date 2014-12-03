@@ -1,0 +1,2 @@
+Art. 2º-A. A Polícia Federal, órgão permanente de Estado, organizado e mantido pela União, para o exercício de suas competências previstas no § 1º do art. 144 da Constituição Federal, fundada na hierarquia e disciplina, é integrante da estrutura básica do Ministério da Justiça.
+Parágrafo único. Os ocupantes do cargo de delegado de Polícia Federal, autoridades policiais no âmbito da polícia judiciária da União, são responsáveis pela direção das atividades do órgão e exercem função de natureza jurídica e policial, essencial e exclusiva de Estado.

@@ -1,0 +1,1 @@
+Art. 2º-B. O ingresso no cargo de delegado de Polícia Federal, realizado mediante concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil, é privativo de bacharel em Direito e exige 3 (três) anos de atividade jurídica ou policial, comprovados no ato de posse.
