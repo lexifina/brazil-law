@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Jussara Silva. Aparelhado o recurso na violação dos arts. 1º, III e IV, 3º, III e IV, 5º, caput, XXXV, XXXVI e § 1º, 6º, 37, caput, I, II e IV, 226, § 4º, 229 e 230, da Lei Maior, bem como à Súmula 15/STF e às Emendas Constitucionais 19/1998 e 34/2001.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido o RE 628.109-AgR/SP, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 11.3.2011; e o AI 801.096-AgR/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 19.12.2011, verbis :
+    “Agravo regimental em recurso extraordinário. 2. Acumulação de um provento de aposentadoria com dois vencimentos da atividade. 3. Impossibilidade. 4. Interpretação restritiva do art. 11 da EC 20/98. Possibilidade de acumular um provento da inatividade com um vencimento de cargo da ativa, no qual tenha ingressado antes da publicação da referida emenda, ainda que inacumuláveis os cargos. 5. Vedada em qualquer caso a cumulação tríplice de remunerações. 6. Agravo regimental a que se nega provimento.” (destaquei).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL, ADMINISTRATIVO E PREVIDENCIÁRIO. ACUMULAÇÃO DE APOSENTADORIAS MILITAR E CIVIL. INGRESSO NO SERVIÇO PÚBLICO ANTES DA EDIÇÃO DA EMENDA CONSTITUCIONAL Nº 20 DE 1998. POSSIBILIDADE. HIPÓTESE PREVISTA NA RESSALVA DETERMINADA PELO ART. 11 DA REFERIDA EMENDA. AGRAVO REGIMENTAL DESPROVIDO. 1. A restrição inaugurada pelo art. 11 da EC nº 20/98, no que pertine à impossibilidade de acumulação de proventos de aposentadoria dos servidores civis e dos militares, não se aplicam àqueles que tenham retornado ao serviço público antes da edição da referida emenda, ressalvado, em qualquer caso, o limite do teto remuneratório previsto no art. 37, XI, da CF. Precedentes: ADI 1.328, Plenário, Rel. Min. ELLEN GRACIE, DJ 18.6.2004; AI 483.076-AgR-AgR, rel. Min. GILMAR MENDES, Segunda Turma, DJe 1º.12.2010; RE 382.389-AgR, Segunda Turma, Rel. Min. ELLEN GRACIE, DJe de 10.11.2006. … 3. Agravo regimental desprovido.” (destaquei).
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 03 de dezembro de 2014.
+Ministra Rosa Weber
+Relatora
