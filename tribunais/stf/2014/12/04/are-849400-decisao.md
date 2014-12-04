@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da Turma Recursal da Fazenda Pública do Tribunal de Justiça do Rio Grande do Sul assim ementado:
+    “RECURSO INOMINADO. PREVIDÊNCIA PÚBLICA. RETENÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA EFETUADA EM EXECUÇÃO DE SENTENÇA. AÇÃO DE REPETIÇÃO DE INDÉBITO. PRECLUSÃO. DISCUSSÃO EM DEMANDA AUTÔNOMA. IMPOSSIBILIDADE. Com efeito, o intento de questionar possível incorreção de retenção da contribuição previdenciária sobre o crédito adimplido em razão do reajuste da Lei 10.395/95, deveria ter sido objeto de insurgência na própria execução, porquanto se trata de questão acessória àquela demanda. Preclusão verificada.”
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, aponta-se ofensa aos artigos 5º, XXXV, da Constituição.
+    Defende-se, em síntese, que a decisão está a excluir da apreciação do Poder Judiciário a lesão sofrida em face dos descontos realizados pelo Estado do Rio Grande do Sul (fls. 72)
+    Decido.
+     A irresignação não merece prosperar. Verifico que, para se chegar à solução diversa do acórdão recorrido quanto às alegações de inexistência de preclusão da matéria demandaria o reexame do conjunto fático-probatório dos autos, bem como a análise da legislação infraconstitucional aplicável à espécie, procedimento vedado no âmbito do recurso extraordinário. Incide o Enunciado 279 da Súmula desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL. PREVIDÊNCIA PRIVADA COMPLEMENTAR. TELOS. REGULAMENTO INTERNO. REAJUSTE DO BENEFÍCIO. ALEGADA INSUFICIÊNCIA DE CONTRIBUIÇÕES. PRECLUSÃO. ENUNCIADO 279 DA SÚMULA/STF. VINCULAÇÃO A PERCENTUAL DE BENEFÍCIO CONCEDIDO PELO INSS. IMPOSSIBILIDADE DO REEXAME DE CLÁUSULAS CONTRATUAIS E REGULAMENTARES. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. ENUNCIADOS 454 E 636 DA SÚMULA/STF. PRECEDENTES. Agravo regimental a que se nega provimento.” (AI 614241 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, Dje 17.05.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR PARA PAGAMENTO DE JUROS E CORREÇÃO MONETÁRIA. PRECLUSÃO DO PEDIDO. FUNDAMENTO INFRACONSTITUCIONAL DO ACÓRDÃO RECORRIDO. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 614326 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, Dje 05.05.2014)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 4 de dezembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
