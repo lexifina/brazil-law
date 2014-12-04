@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo contra decisão que determinou o sobrestamento do recurso extraordinário, com o retorno dos autos ao Juízo de origem para que se prossiga à persecução penal, nos termos do art. 543-B, §§ 3º e 4º, do Código de Processo Civil, combinado com o art. 328 e 328-A, ambos do Regimento Interno do Supremo Tribunal Federal (fls. 112/114).
+    No agravo, a parte agravante sustenta, em síntese, que o reconhecimento da repercussão geral pelo Supremo Tribunal Federal acarreta o sobrestamento do processo até o pronunciamento definitivo deste Tribunal, e não apenas do recurso extraordinário. Aduz, portanto, que a determinação de retorno dos autos ao Juízo de origem para o seu processamento extrapola o que estabelece o art. 543-B do Código de Processo Civil.
+    2. O Plenário desta Corte firmou o entendimento de que não cabe recurso ou reclamação ao Supremo Tribunal Federal para rever decisão do Juízo de origem que aplica a sistemática da repercussão geral, a menos que haja negativa motivada do juiz em se retratar para seguir a decisão da Suprema Corte (AI 760.358 QO, Rel. Min. GILMAR MENDES; Rcl 7.569 e Rcl 7.547, Rel. Min. ELLEN GRACIE, DJe de 11.12.2009; AI 783.839 ED, Rel. Min. CEZAR PELUSO (Presidente), Tribunal Pleno, DJe 01/02/2011; ARE 682753 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 01/08/2012).
+    3. Ademais, o art. 328, caput, do Regimento Interno do Supremo Tribunal Federal estabelece que compete à Presidência do Tribunal ou ao Relator sobrestar todas as demais causas com questão idêntica à do paradigma da repercussão geral. Com efeito, não havendo pronunciamento por parte do Relator, tampouco da Presidência desta Suprema Corte, acerca da matéria, apenas o recurso extraordinário deve permanecer sobrestado, e não o regular trâmite da ação penal (cf. ARE 790.102, Rel. ROBERTO BARROSO, DJe 17/2/2014).
+    4. Diante do exposto, não conheço do agravo.
+    Publique-se. Intime-se.
+    Brasília, 4 de dezembro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
