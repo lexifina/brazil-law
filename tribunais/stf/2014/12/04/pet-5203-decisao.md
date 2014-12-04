@@ -1,0 +1,26 @@
+DECISÃO
+PETIÇÃO. RECURSO EXTRAORDINÁRIO N. 242.251. AGRAVO REGIMENTAL CONTRA INADMISSÃO DE EMBARGOS DE DIVERGÊNCIA. ERRO NA INDICAÇÃO DA RECORRENTE. ILEGITIMIDADE. NÃO CONHECIMENTO. PROCESSO BAIXADO. PETIÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Petição apresentada em 4.9.2014, pela Expresso Frederes S/A Viagens e Turismo, com o objetivo de obter a revisão do despacho pelo qual determinada a certificação do trânsito em julgado da decisão proferida no Recurso Extraordinário n. 242.251-AgR-AgR-Edv/RS e a devolução dos autos à origem.
+    Em 1º.8.2014, inadmiti os embargos de divergência opostos pela Expresso Frederes S/A Viagens e Turismo contra decisão da Segunda Turma deste Supremo Tribunal no Recurso Extraordinário n. 242.251-AgR-AgR/RS (DJe 8.8.2014).
+    Em 18.8.2014, pela Petição STF n. 36.147, Granéis Transportadora Ltda. interpôs agravo regimental, não conhecido por não ter a Peticionante composto a relação processual na qual proferida a decisão recorrida.
+    Certificado o trânsito em julgado daquela decisão, os autos baixaram ao Tribunal de origem, definitivamente, em 25.8.2014.
+    Em 4.9.2014, dez dias após a devolução dos autos ao Tribunal de origem, Expresso Federes S/A Viagens e Turismo apresenta esta petição, pela qual informa não se conformar com o “trânsito em julgado antecipado do recurso e [a] ordem de baixa do feito à origem” (fl. 2), que teria decorrido de constar da “petição de agravo regimental nº 36.147/2014 (...) erroneamente a qualificação da empresa ‘Granéis Transportadora (sic) Ltda.’, terceiro estranho ao feito” (fl. 2).
+    Afirma que o “preenchimento anterior da qualificação da parte interessada no próprio sítio do STF pelo usuário, para então ser gerado o arquivo que será, posteriormente, juntado aos autos, não há como ser confundido a petição nº 36.147/2014 com terceiro estranho ao feito, sem obstáculo de erro na qualificação da petição enviada pelo sistema” (fl. 3).
+    Pondera constar do sistema de peticionamento eletrônico deste Supremo Tribunal sua qualificação como recorrente e do Estado do Rio Grande do Sul como recorrido, “fato que não poderia ser desconsiderado pela decisão judicial” (fl. 4)
+    Formula o seguinte pedido:
+    “Seja reconhecido que a petição 2014/36.147, interposta no RE 242.251-RS é, de fato, da empresa ‘Expresso Frederes S/A.’, inobstante erro na petição, motivo pelo qual requer seja declarado inaplicável ao caso o trânsito em julgado antecipado naquele feito, na medida que a ‘agravante’ está corretamente identificável no recibo de peticionamento eletrônico no sítio do STF, além do fato que a matéria objeto daquele recurso extraordinário está delimitada no Tema 299 no rol da repercussão geral do STF” (fl. 5).
+    Apreciada a matéria trazia na espécie, DECIDO .
+    2. Não conheci da Petição n. 36.147/2014, pois a Peticionante, Granéis Transportadora Ltda., afirmou voltar-se contra a decisão pela qual não teriam sido admitidos os embargos de divergência “interposto[s] contra arresto da Primeira Turma do STF”, no Recurso Extraordinário n. 248.182/RS. O recurso veiculado na petição dirigia-se, portanto, contra decisão proferida, em 27.8.2010, em processo diverso, que tramitou em colegiado distinto e cujo trânsito em julgado ocorreu em 8.8.2011.
+    Logo, não se trata de mero equívoco na qualificação da empresa Recorrente, alegadamente suprível pela circunstância de constar do recibo de petição eletrônica em foco a qualificação da empresa que se afirma a correta. Houve falha na indicação da Recorrente, do processo, do colegiado do qual emanou a decisão precedente e, por consequência, da decisão objeto do agravo regimental.
+    Coincidentemente, o advogado signatário da Petição STF n. 36.147/2014 patrocinava os interesses da Granéis Transportadora Ltda. no Recurso Extraordinário n. 248.182/RS e também da Peticionante, Expresso Frederes S/A Viagens e Turismo, no Recurso Extraordinário n. 242.251/RS, ambos deduzidos em ações judiciais que versavam sobre a mesma questão jurídico-tributária, a redução da base de cálculo do ICMS.
+    Tais circunstâncias permitem concluir não poderem ser atribuídos os equívocos apontados ao sistema de peticionamento eletrônico deste Supremo Tribunal e, menos ainda, à decisão que se pretende desconstituir, mas ao descuido da Peticionante, o que desautoriza o prosseguimento de sua pretensão.
+    Ao regulamentar o processo eletrônico neste Supremo Tribunal, a Resolução n. 427, de 20.4.2010 estabelece em seu art. 9º: “A correta formação do processo eletrônico é responsabilidade do advogado ou procurador” (grifos nossos).
+    3. Dispõe a Resolução n. 522, de 8.4.2014, no art. 1º, inc. I, al. a, competir à Secretaria Judiciária deste Supremo Tribunal determinar a devolução de petições quando se referirem a processo já baixado à origem. Não se admite, portanto, peticionamento em processo cuja baixa definitiva tenha se operado, como se tem na espécie vertente.
+    A Peticionante buscou esquivar-se desse óbice processual pela apresentação de petição (art. 56, inc. IX, do Regimento Interno deste Supremo Tribunal), o que não se pode admitir, sob pena de tornar inócua a disposição normativa em foco.
+    4. Pelo exposto, nego seguimento à presente petição.
+    Publique-se.
+    Arquive-se.
+    Brasília, 4 de dezembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
