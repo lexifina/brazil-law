@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de mandado de segurança, com pedido liminar, impetrado contra ato do Corregedor do Conselho Nacional de Justiça (Pedido de Providências nº 0000384-41.2010.0.00.0000), que teria determinado ao Tribunal de Justiça do Estado de Santa Catarina/SC a disponibilização em concurso público de serventias extrajudiciais, cujas declarações de vacância aguardam definição judicial. Afirmam, em suma, que o ato coator viola a segurança jurídica e o principio da proteção da confiança.
+    2. Não merece seguimento o mandado de segurança. É que o art. 23 da Lei 12.016/2009 dispõe que “o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado”. O art. 8º, § 5º, do Regimento Interno do CNJ impõe a intimação pessoal do interessado para a contagem do prazo para eventual impugnação do ato, o que, por conseguinte, demarca o termo inicial do prazo decadencial da ação mandamental.
+    A causa de pedir baseada na legitimidade de disponibilizar em concurso público serventia, cuja declaração de vacância aguarda definição judicial, configura, em verdade, a pretensão de afastar a vacância das serventias já titularizadas pelos impetrantes. Isso porque o afastamento dos impetrantes decorreu do julgamento da medida liminar deferida na ADI 1.573 (DJ de 11/6/1997), e não, propriamente, do Pedido de Providências 0000384-41.2010.2.00.0000.
+    Os documentos demonstram que as ciências inequívocas dos impetrantes ocorreram, respectivamente, em 12/08/2009 (quando interposto o RE 602.155) e em 7/11/2007 (quando interposto o Resp 992.705). Assim, já havia decorrido o prazo decadencial em 29/9/2010, data da autuação e distribuição deste mandado de segurança.
+    3. Diante do exposto, nego seguimento ao pedido, ficando prejudicado o recurso pendente (art. 21, § 1º do RISTF). Custas pelos impetrantes. Sem honorários advocatícios (Lei 12.016/09, art. 25).
+    Publique-se. Intime-se.
+    Brasília, 4 de dezembro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
