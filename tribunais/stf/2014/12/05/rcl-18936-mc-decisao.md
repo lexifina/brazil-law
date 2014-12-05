@@ -1,0 +1,24 @@
+CONSTITUCIONAL E PROCESSUAL PENAL. RECLAMAÇÃO. ENUNCIADO N. 14 DA SÚMULA VINCULANTE. INTERCEPTAÇÃO TELEFÔNICA. ACESSO AOS AUTOS GARANTIDO. INEXISTÊNCIA DE PLAUSIBILIDADE JURÍDICA DAS RAZÕES (FUMUS BONI IURIS). MEDIDA CAUTELAR INDEFERIDA.
+1. O acesso aos autos de interceptação telefônica sob legítimas condições não ofende, prima facie, o enunciado n. 14 da Súmula Vinculante do Supremo Tribunal Federal.
+2. In casu, o Juízo reclamado permitiu aos advogados o acesso aos autos de interceptação telefônica, desde que realizada no balcão da secretaria do Juízo e vedada a extração de fotocópias.
+3. A discussão acerca da forma de efetivação do direito de acesso aos autos não possui, prima facie, estrita aderência com o enunciado n. 14 da Súmula Vinculante.
+4. Medida cautelar indeferida.
+    Decisão: Trata-se de reclamação proposta contra ato do Juízo de Direito da Vara Criminal da Comarca de Panorama, São Paulo, cujo teor transcrevo:
+    “Ante o retro certificado, dando conta da impossibilidade do acesso aos autos principais via internet após o apensamento da interceptação telefônica, determino o desapensamento deste procedimento sigiloso de n. 3001995-59.2013.8.26.0416, para que permaneça em cartório, onde será garantido acesso às partes no balcão, sendo vedada a extração de cópias. Tudo para garantir o melhor acompanhamento processual, bem como os princípios constitucionais norteadores do Direito Processual Penal, como o contraditório e a ampla defesa. Int.”
+    O reclamante aduz que o Juízo cerceou o direito da parte ao contraditório ao limitar o acesso aos autos da interceptação telefônica. Argumenta que não foi permitido o acesso a toda a prova, mas apenas vista aos “fragmentos das escutas degravados e não ao ‘CD’ que contém toda a mídia”. Insurge-se, ainda, contra a determinação que impediu a retirada de cópia dos autos e a vista fora do balcão da secretaria do Juízo. Conclui que a conduta da magistrada singular violou o enunciado n. 14 da Súmula Vinculante.
+    Pede a concessão de medida cautelar para determinar imediata vista à interceptação telefônica autuada sob o n. 3001995-59.2013.8.26.0416, subsidiariamente, pede a suspensão dos atos processuais. No mérito, requer a procedência da reclamação para cassar a decisão impugnada, determinando ao Juízo reclamado seja proferida outra com observância ao enunciado n. 14 da Súmula Vinculante.
+    É o relatório, passo a decidir.
+    A concessão de medida cautelar em reclamação exige a presença concomitante do perigo da demora (periculum in mora) e da plausibilidade jurídica das alegações (fumus boni iuris) deduzidas pelo reclamante.
+    In casu, não verifico a presença da plausibilidade jurídica das razões. Isto é, a narrativa inicial não demonstra de maneira inequívoca haver violação ao enunciado n. 14 da Súmula Vinculante. Ao revés, o Juízo reclamado permitiu o acesso aos autos, condicionando sua forma. Assim, embora a decisão do Juízo singular seja clara no sentido de proibir às partes a vista fora do balcão, os advogados tiveram acesso aos autos.
+    A procedência da reclamação exige, dentre outros requisitos, a aderência estrita entre o ato reclamado e o acórdão paradigma. In foco, o enunciado da Súmula Vinculante incide naqueles casos em que o direito ao contraditório é cerceado pela impossibilidade total de acesso ao procedimento investigatório. Eis a redação da Súmula Vinculante:
+    “É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa”.
+    O que se discute nos autos não é sequer a extensão do direito de acesso aos autos, pois o reclamante insurge-se apenas contra a forma em que a vista foi-lhe oportunizada pelo Juízo reclamado.
+    Portanto, em uma análise perfunctória, conclui-se que o enunciado vinculante foi respeitado. Assim, verificam-se ausentes os predicados justificadores da medida cautelar, notadamente pela inexistência, prima facie, de plausibilidade jurídica das alegações do reclamante.
+    Ex positis, indefiro o pedido de liminar.
+    Solicitem-se informações ao Juízo da Vara Criminal da Comarca de Panorama, São Paulo, no prazo de 15 dias, acerca do alegado na inicial, especialmente sobre: a) se foi garantido acesso irrestrito aos autos da ação penal em curso contra o reclamado; b) se a interceptação telefônica foi degravada in totum; c) se foi garantida à defesa o acesso aos trechos eventualmente não degravados; d) se foi proferida sentença e; e) a fase que se encontra o processo.
+    Em seguida, remetam-se os autos ao Ministério Público Federal, para elaboração de parecer.
+    Publique-se. Int..
+    Brasília, 5 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
