@@ -1,0 +1,45 @@
+DECISÃO: Trata-se de embargos de divergência opostos a decisão da colenda Primeira Turma do Supremo Tribunal Federal, que, proferida no julgamento do AI 455.983-AgR/PR, Rel. Min. SEPÚLVEDA PERTENCE, e confirmada em sede de embargos de declaração, acha-se consubstanciada em acórdão assim ementado (fls. 165):
+    “Servidor público: nos termos do artigo 11 da EC 20/98, não há proibição de acumular proventos e vencimentos quando o reingresso nos quadros públicos se dera antes da publicação da referida emenda. Precedentes.”
+    A parte ora embargante, ao fundamentar a sua pretensão recursal, sustenta que existiria, no caso, situação de dissenso entre o acórdão objeto do presente recurso e decisões emanadas desta Suprema Corte.
+    O Ministério Público Federal, em manifestação da lavra do ilustre Subprocurador-Geral da República Dr. WAGNER DE CASTRO MATHIAS NETTO, opinou pelo provimento do recurso em questão, formulando parecer assim ementado (fls. 284):
+    “Embargos de Divergência. Direito Constitucional e Administrativo. Interpretação do art. 11 da EC 20/98 à luz do arcabouço constitucional pátrio. Ilegitimidade do tríplice acúmulo de cargos públicos. Pleo provimento da iniciativa.”
+    Determinei fosse ouvida a parte ora recorrida, que se manifestou pelo não provimento do recurso em questão (fls. 291/293).
+    Sendo esse o quadro processual, cabe-me reconhecer que assiste plena razão à parte ora embargante.
+    Com efeito, os embargos de divergência, que constituem instrumento processual de uniformização de jurisprudência (RTJ 162/1082, Rel. Min. CELSO DE MELLO), revelam-se oponíveis quando, manifestados no âmbito do Supremo Tribunal Federal, insurgem-se contra decisão de uma de suas Turmas que, em recurso extraordinário ou em agravo de instrumento, diverge de julgado de outra Turma ou do Plenário desta Suprema Corte (RISTF, art. 330).
+    É importante assinalar, neste ponto, considerada a própria finalidade a que se destinam os embargos de divergência, que a colenda Segunda Turma desta Corte, ao examinar a mesma controvérsia ora suscitada nestes autos, proferiu julgamento no qual prevaleceu entendimento diametralmente oposto àquele resultante do acórdão ora embargado.
+    Cabe registrar que a parte ora embargante, ao deduzir o presente recurso, demonstrou, com a transcrição dos textos pertinentes, a existência de dissídio jurisprudencial, mencionando as circunstâncias que identificam os casos confrontados, mostrando-se consistentes, sob tal perspectiva, os seguintes fragmentos (fls. 187/191):
+    “A divergência de entendimento, quanto à interpretação do art. 37, XVI, XVII, § 10, todos da CF/88, entre a E. Primeira Turma e a Segunda Turma, conjuntamente com o Pleno, é evidente. Colacionam-se os seguintes julgados no mesmo sentido da pretensão do Estado do Paraná:
+    …...................................................................................................
+    Destaca-se o AI 419.426 AgR / SP, da Relatoria do Min. Carlos Velloso, como acórdão paradigma para comprovar a tese defendida. Nos dois processos temos que os indivíduos são servidores públicos, da carreira do magistério, visando a acumulação de proventos e vencimentos ante a superveniência da EC 20/98; como comprovado pelos votos, deste processo e do paradigma, respectivamente:
+    …...................................................................................................
+    A similitude fática entre os acórdãos confrontados é flagrante. Ambos tratam sobre a tríplice acumulação de cargos públicos na vigência da atual Constituição. A decisão da E. 2ª Turma no processo paradigma foi nos seguintes moldes:
+    …...................................................................................................
+    Contudo a decisão pela E. 1ª Turma neste processo foi:
+    …...................................................................................................
+    Os dois votos são flagrantemente distintos quanto à interpretação da mesma norma constitucional, e pelas ementas colacionadas acima, é perceptível a divergência entre as Turmas e o Pleno deste E. Supremo Tribunal Federal.
+    …...................................................................................................
+    De posse dos votos condutores, percebe-se que as decisões quanto à tríplice acumulação de cargos entre as Turmas do STF são divergentes quanto à interpretação do mesmo art. 37, XVI e XVII, § 10, pois no entendimento de uma das Turmas é pela não afronta a Constituição dos servidores públicos que se encontram em situação similar, já para a outra Turma, existe afronta ao texto magno, pois segundo seu entendimento sempre houve a vedação, como aduz o Estado do Paraná.”
+    Vale referir, por relevante, que a controvérsia suscitada nos presentes autos já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (RTJ 192/918-919, Rel. Min. CARLOS BRITTO – AI 419.426-AgR/SP, CARLOS VELLOSO, v.g.):
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROFESSOR. TRIPLA ACUMULAÇÃO DE CARGOS. INVIABILIDADE. TRANSCURSO DE GRANDE PERÍODO DE TEMPO. IRRELEVÂNCIA. DIREITO ADQUIRIDO. INEXISTÊNCIA.
+    1. Esta Corte já afirmou ser inviável a tripla acumulação de cargos públicos. Precedentes: RE 141.376 e AI 419.426-AgR.
+    2. Sob a égide da Constituição anterior, o Plenário desta Corte, ao julgar o RE 101.126, assentou que ‘as fundações instituídas pelo Poder Público, que assumem a gestão de serviço estatal e se submetem a regime administrativo previsto, nos Estados-membros, por leis estaduais são fundações de direito público, e, portanto, pessoas jurídicas de direito público’. Por isso, aplica-se a elas a proibição de acumulação indevida de cargos.
+    3. Esta Corte rejeita a chamada ‘teoria do fato consumado’. Precedente: RE 120.893-AgR
+    4. Incidência da primeira parte da Súmula STF nº 473: ‘a administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos’.
+    5. O direito adquirido e o decurso de longo tempo não podem ser opostos quando se tratar de manifesta contrariedade à Constituição.
+    6. Recurso extraordinário conhecido e provido.”
+    (RE 381.204/RS, Rel. Min. ELLEN GRACIE)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MAGISTÉRIO. ACUMULAÇÃO TRÍPLICE DE PROVENTOS E VENCIMENTOS. SUPERVENIÊNCIA DA EMENDA CONSTITUCIONAL N. 20/98. INAPLICABILIDADE.
+    1. A acumulação de proventos e vencimentos somente é permitida quando se tratar de cargos, funções ou empregos acumuláveis na atividade, na forma permitida pela Constituição do Brasil.
+    2. Inaplicabilidade, no caso, da Emenda Constitucional n. 20/98, vez que inadmissível, na ativa, a acumulação de três cargos de magistério. Precedentes.
+    Agravo regimental a que se nega provimento.”
+    (AI 567.707-AgR/PR, Rel. Min. EROS GRAU)
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, monocráticos e colegiados, proferidos no âmbito desta Corte, a propósito de questões essencialmente idênticas à que ora se examina nesta sede recursal (AI 199.859-AgR/RS, Rel. Min. CEZAR PELUSO – AI 529.499/PR, Rel. Min. CARLOS VELLOSO – AI 557.657/MG, Rel. Min. JOAQUIM BARBOSA – RE 141.376/RJ, Rel. Min. NÉRI DA SILVEIRA, v.g.).
+    Verifico que o acórdão ora embargado diverge, frontalmente, de referida diretriz jurisprudencial.
+    Impõe-se, finalmente, uma observação adicional: no desempenho dos poderes processuais de que dispõe, assiste, ao Ministro Relator, competência plena para exercer, monocraticamente, o controle das ações, pedidos ou recursos dirigidos ao Supremo Tribunal Federal, legitimando-se, em consequência, os atos decisórios que, nessa condição, venha a praticar.
+    Cumpre acentuar, neste ponto, que eminentes Juízes que compõem esta Suprema Corte têm decidido, monocraticamente, embargos de divergência, vindo a examiná-los, até mesmo, quanto ao próprio fundo do dissídio jurisprudencial neles alegado (RE 195.333-ED-EDv/CE, Rel. Min. DIAS TOFFOLI – RE 199.135-ED-EDv-AgR/DF, Rel. Min. DIAS TOFFOLI – RE 522.729-AgR-EDv/MG, Rel. Min. GILMAR MENDES, v.g.).
+    Nem se alegue que tal conduta implicaria transgressão ao princípio da colegialidade, eis que o postulado em questão sempre restará preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados no âmbito do Supremo Tribunal Federal, consoante esta Corte tem reiteradamente proclamado (RTJ 181/1133-1134, Rel. Min. CARLOS VELLOSO – AI 159.892-AgR/SP, Rel. Min. CELSO DE MELLO).
+    Sendo assim, e em face das razões expostas, recebo os presentes embargos de divergência, para conhecer do agravo de instrumento e, desde logo, conhecer e dar provimento ao recurso extraordinário (CPC, art. 544, § 4º, na redação anterior à Lei nº 12.322/2010), em ordem a denegar o mandado de segurança impetrado pela parte ora recorrida. No que concerne à verba honorária, revela-se aplicável a Súmula 512/STF, reafirmada, agora, pelo art. 25 da Lei nº 12.016/2009.
+    Publique-se.
+    Brasília, 05 de dezembro de 2014.
+Ministro CELSO DE MELLO
+Relator
