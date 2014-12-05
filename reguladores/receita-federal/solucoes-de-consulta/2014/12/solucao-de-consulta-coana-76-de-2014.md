@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 76, de 12 de novembro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 8536.30.00 Mercadoria: Aparelho eletrônico para limitar picos de tensão em redes elétricas de baixa tensão (127 V ou 220 V), provocados por descargas atmosféricas e por manobras no sistema elétrico, próprio para ser instalado no quadro de entrada de energia, comercialmente denominado “Dispositivo de Proteção Contra Surtos - DPS”. DISPOSITIVOS LEGAIS: : RGI 1 (texto da posição 85.36) e RGI 6 (texto da subposição 8536.30.00) da TEC, aprovada pela Resolução Camex nº 94, de 2011 e da Tipi, aprovada pelo Decreto nº 7.660, de 2011.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 8536.30.00 Mercadoria: Aparelho eletrônico para limitar picos de tensão em redes elétricas de baixa tensão (127 V ou 220 V), provocados por descargas atmosféricas e por manobras no sistema elétrico, próprio para ser instalado no quadro de entrada de energia, comercialmente denominado “Dispositivo de Proteção Contra Surtos - DPS”.
+DISPOSITIVOS LEGAIS: : RGI 1 (texto da posição 85.36) e RGI 6 (texto da subposição 8536.30.00) da TEC, aprovada pela Resolução Camex nº 94, de 2011 e da Tipi, aprovada pelo Decreto nº 7.660, de 2011.
+MARCO ANTÔNIO RODRIGO CASADO Presidente da 5ª Turma
