@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. FALTA DE PREQUESTIONAMENTO E DE REPERCUSSÃO GERAL. INCIDÊNCIA DAS SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Primeira Turma Recursal de Santa Catarina:
+    “A sentença e a decisão agravada, então, se mantêm por seus próprios fundamentos e o recorrente deve ser condenado no pagamento de: [a] honorários advocatícios arbitrados em dez por cento sobre o valor atualizado da causa (estabelecido o valor de um salário mínimo vigente na hipótese do resultado da conta de honorários não superar este limite) cuja exigibilidade é suspensa em face do deferimento da gratuidade (se for o caso); e, como se trata de agravo manifestamente infundado, [b] de multa arbitrada em cinco por cento do valor corrigido da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito do respectivo valor.”.
+    2. No recurso extraordinário, aponta-se afronta aos arts. 5º, incs. XXXV e XXXVI, da Constituição da República.
+    3. O recurso foi inadmitido, porque “a Recorrente não comprovou o depósito da multa, sendo inviável o seguimento do recurso interposto” (doc. 77).
+    4. Contra essa decisão, a Agravante repete as razões do recurso inadmitido, asseverando caracterizada “a subjetividade do entendimento do Magistrado que fixou a multa pela manifesta inadmissibilidade do Recurso do Autor. Porém o Segurado não pode ser privado de exercer seu direito ao contraditório e ampla defesa, bem como ao duplo grau de jurisdição, por ter o Relator, entendimento que aplica-se uma decisão a todos os casos possíveis e imagináveis” (fl. 5, doc. 84).
+    Examinados os elementos havidos no processo, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    7. As matérias constitucionais suscitadas no recurso extraordinário não foram objeto de debate e decisão prévios na Turma Recursal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009);
+    “FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. O prequestionamento é requisito de admissibilidade do recurso extraordinário mesmo que a matéria versada no recurso seja de ordem pública. Agravo regimental a que se nega provimento” (AI 748.057-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 1º.10.2010).
+    8. Ademais, o recurso extraordinário foi inadmitido por ausência de pressuposto de admissibilidade, razão suficiente a obstar o seu seguimento por falta de repercussão geral, conforme decidiu o Supremo Tribunal Federal no Recurso Extraordinário n. 598.365, Relator o Ministro Ayres Britto, DJe 26.3.2010:
+    "AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REQUISITOS DE ADMISSIBILIDADE DO RECURSO DE REVISTA. QUESTÃO ATINENTE AO CABIMENTO DE RECURSOS DE COMPETÊNCIA DE OUTROS TRIBUNAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. QUESTÃO INFRACONSTITUCIONAL. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO IMPROVIDO.
+    1 - Os Ministros desta Corte, no RE 598.365-RG/MG, Rel. Mm. Ayres Britto, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca dos pressupostos de admissibilidade de recursos da competência de Cortes diversas, por entenderem que a discussão tem natureza infraconstitucional, decisão que vale para todos os recursos sobre matéria idêntica.
+    II - A exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. Precedentes.
+    III - Agravo regimental improvido" (RE n. 697942 AgR, Relator o Ministro Ricardo Lewandowski, DJe 1°.2.2013);
+    Nada há a prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de dezembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
