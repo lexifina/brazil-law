@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão.
+    É o relatório.
+    Decido.
+    Nada colhe o agravo.
+    É firme o entendimento deste Tribunal no sentido de que o recolhimento do preparo deve ser comprovado no prazo pra interposição do recurso, sob pena de deserção, razão pela qual correta a decisão agravada. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Deserção reconhecida. 1. O preparo do recurso extraordinário deve ocorrer concomitantemente à sua interposição. Sua não efetivação, conforme os ditames legais, enseja a deserção do recurso. 2. Agravo regimental não provido.”(AI 587.613-AgR/CE, Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.3.2012.)
+    “RECURSO EXTRAORDINÁRIO – DESERÇÃO. Constatando-se no processo o não recolhimento do preparo, não há que se aplicar a intimação prevista no artigo 511, § 2º, do Código de Processo Civil, impondo-se a conclusão sobre a deserção do recurso.” (ARE 695.203-AgR/BA, Rel. Min. Marco Aurélio, 1ª Turma, DJe 16.11.2012.)
+    Não se tratando a hipótese de comprovado recolhimento a menor dos valores devidos a título de preparo, não há falar em intimação para fins de complementação, nos moldes preconizados pelo art. 511, § 2º, do CPC. Colho precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. PREPARO DO RECURSO EXTRAORDINÁRIO. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO. AUSÊNCIA. DESERÇÃO. A petição de agravo regimental não impugnou os fundamentos da decisão ora agravada. Nesses casos é inadmissível o recurso, conforme orientação desta Corte. Precedentes. O Supremo Tribunal Federal firmou entendimento de que, nos termos do disposto no art. 511 do Código de Processo Civil e do art. 59 do Regimento Interno do Supremo Tribunal Federal, o preparo do recurso extraordinário deve ser efetuado dentro do prazo cominado para sua interposição. Precedentes. Agravo regimental a que se nega provimento.” (ARE 790559-AgR/RJ, Rel. Min. Roberto Barroso, 1ª Turma, DJe 17.10.2014.)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE COMPROVAÇÃO DO PREPARO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. DESERÇÃO. COMPLEMENTAÇÃO DO PREPARO. ART. 511, § 2º, DO CPC. INTIMAÇÃO. IMPOSSIBILIDADE. CONSTATAÇÃO NOS AUTOS DE AUSÊNCIA DE RECOLHIMENTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Esta Corte possui entendimento firmado no sentido de que a comprovação do pagamento do preparo deve ocorrer no momento da interposição do recurso, sob pena de deserção. Precedentes. II – Impossibilidade da intimação prevista no art. 511, § 2º, do Código de Processo Civil, tendo em vista que não houve, no caso, insuficiência do preparo, mas sim ausência de recolhimento. Precedentes. III – Agravo regimental a que se nega provimento.” (ARE 786.478-AgR-segundo/RS, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.8.2014.)
+    Nego seguimento (art. 21, § 1º, do RISTF e 544, § 4º, II, "a", do CPC).
+    Publique-se.
+    Brasília, 05 de dezembro de 2014.
+Ministra Rosa Weber
+Relatora
