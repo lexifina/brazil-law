@@ -1,0 +1,19 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – DUPLICIDADE – NEGATIVA DE SEGUIMENTO.
+    1. Eis as informações prestadas pelo assessor Dr. Roberto Lisandro Leão:
+    O Pleno, às folhas 452 e 453, desproveu os declaratórios, em acórdão assim resumido:
+    PAUTA – ACOMPANHAMENTO. À defesa, depois de cientificada da inserção do processo em pauta, incumbe o acompanhamento, no sítio do Tribunal na internet, quanto ao dia em que virá ser julgado.
+    DENÚNCIA – RECEBIMENTO. Em fase de simples recebimento da denúncia, não cabe conclusão sobre elementos probatórios coligidos. Mostram-se suficientes, para tanto, a materialidade do crime e indícios da autoria.
+    EMBARGOS DE DECLARAÇÃO – INEXISTÊNCIA DE VÍCIOS – DESPROVIMENTO. A inexistência de vício na decisão formalizada conduz ao desprovimento dos embargos declaratórios.
+    Nos embargos de declaração de folha 461 a 471, Maria Auxiliadora Seabra Rezende insiste na omissão. Sustenta a ausência de pronunciamento acerca da mencionada nulidade no recebimento da denúncia. Alega ter havido alteração na lista do dia 14 de junho de 2012, sem prévia comunicação às partes. Argui a inobservância ao contraditório, porquanto o inquérito não foi inicialmente inserido na pauta desse dia, veiculada em 8 de junho de 2012, sexta-feira, mas incluído naquela divulgada em 11 de junho seguinte, segunda-feira. Requer seja sanada a apontada omissão, bem como declarada a nulidade do julgamento ocorrido em 14 de junho de 2012.
+    O Ministério Público Federal, nas contrarrazões, diz do acerto da decisão impugnada. Ressalta o intuito protelatório do recurso, o qual visa a modificação do que já assentado pelo Pleno. Afirma que, segundo consignado na decisão que implicou o não acolhimento dos primeiros embargos, foi obedecido o prazo de 48 horas de antecedência, previsto na lei processual e no Regimento Interno do Supremo, para inclusão de processos em lista de julgamento. Manifesta-se pelo desprovimento dos declaratórios.
+    Vossa excelência, em 6 de junho de 2014 (folha 486), determinou que a Secretaria do Pleno esclarecesse a colocação dos autos do inquérito em pauta, apontado a sequência de inserção.
+    A Secretaria do Pleno, à folha 488, explicitou ter sido o inquérito inserido na pauta dirigida de 14 de junho de 2012, divulgada na internet às dezessete horas e dois minutos do dia 8 de junho de 2012, conforme auditoria realizada pela Secretaria de Tecnologia de Informações. Acrescentou haver ocorrido a inclusão automática no calendário de julgamentos do Plenário, como de praxe, quarenta e oito horas antes da respectiva sessão.
+    2. Ante a possibilidade de implemento de ordem de ofício, determinei à Secretaria Judiciária que certificasse se houve a intimação das partes. Confirmou-se que não foram surpreendidas com o julgamento relativo à denúncia.
+    Os segundos declaratórios são adequados apenas quando o vício surge no pronunciamento concernente aos primeiros, fato que não se verifica na espécie. Nesse sentido são os reiterados precedentes do Tribunal: Embargos de Declaração nos Embargos de Declaração no Agravo Regimental nº 746.700/SC, da minha relatoria, julgados pela Primeira Turma em 28 de outubro de 2014; Embargos de Declaração nos Embargos de Declaração no Agravo Regimental nº 783.512/SP, da relatoria do ministro Celso de Mello, apreciados pela Segunda Turma em 16 de setembro de 2014, e Embargos de Declaração nos Embargos de Declaração no Agravo Regimental nº 741.327/ DF, da relatoria do ministro Ricardo Lewandowski, examinados pela Segunda Turma em 3 de dezembro de 2013.
+    3. Mostrando-se manifesta a impropriedade dos declaratórios, a eles nego seguimento.
+    4. Deem sequência à ação penal. Delego à Justiça Federal de Brasília os atos alusivos ao artigo 7º da Lei nº 8.038/90.
+    5. Publiquem.
+Brasília – residência –, 8 de dezembro de 2014, às 11h45.
+Ministro MARCO AURÉLIO
+Relator
