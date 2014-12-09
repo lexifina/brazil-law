@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Espírito Santo, assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI MUNICIPAL QUE ATRIBUI A CARGOS EM COMISSÃO AS FUNÇÕES DE ADVOCACIA PÚBLICA. INCONSTITUCIONALIDADE. A ADVOCACIA PÚBLICA DEVE SER FORMADA POR SERVIDORES APROVADOS EM CONCURSO PÚBLICO – ARTS. 131 E 132 DA CF/88 E ART. 122 DA CONST. ESTADUAL. PRINCÍPIO DA SIMETRIA – ART. 29 DA CF/88 E 20 DA CONST ESTADUAL. AÇÃO PROCEDENTE. EFEITOS DA DECLARAÇÃO MODULADOS.
+    1. A constituição Federal e a Estadual reservam aos advogados públicos o desempenho das atividades de representação, assessoria e consultoria jurídica e que, tais cargos serão ocupados por servidores previamente aprovados em concurso público.
+    2. Tal conclusão, calcada na literalidade dos textos constitucionais, é reforçada pela própria natureza dos cargos da advocacia pública, afinal, mais do que servidores públicos, os ocupantes de tais cargos são advogados e, para o pleno exercício de seu mister, é fundamental a preservação da isenção técnica e independência funcional, inerentes à advocacia, seja ela pública ou privada.
+    3. Por força do Princípio da Simetria os Municípios, ao organizarem suas funções administrativas e os Poderes Executivo e Legislativo, devem seguir o desenho previamente estabelecido pela Constituição Federal e Estadual, o que leva à óbvia conclusão de que a advocacia pública municipal deve seguir os moldes estabelecidos para a União e para o Estado.
+    4. Desta forma, vinculados à forma adotada em âmbito federal e estadual, os municípios do Estado do Espírito Santo, sob pena de inconstitucionalidade, devem atribuir as funções de representação judicial, consultoria e assessoria jurídica a servidores aprovados em concurso público de provas e títulos, de forma a organizar suas Procuradorias Municipais, que serão chefiadas por servidor escolhido dentre os ativos de sua carreira. Por conseguinte, são inconstitucionais quaisquer normas que atribuam a cargos comissionados tais funções. Da mesma forma, será inconstitucional a norma que conferir a chefia do órgão de representação a servidor estranho a seus quadros.
+    5. Ação Direta de Inconstitucionalidade procedente.
+    6. Ficam modulados os efeitos da presente declaração de inconstitucionalidade, de forma que a decisão produza seus efeitos 12 (doze) meses após seu trânsito em julgado, mediante a aplicação analógica do disposto no art. 27 da Lei Federal 9868/99.”
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 37, II, da Constituição.
+    O recurso não deve ser provido, tendo em conta que a decisão proferida pelo Tribunal de origem está alinhada à jurisprudência desta Corte (ADI 4.261/RO, Rel. Min. Ayres Britto e ADI 881-MC/ES, Rel. Min. Celso de Mello).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 09 de dezembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
