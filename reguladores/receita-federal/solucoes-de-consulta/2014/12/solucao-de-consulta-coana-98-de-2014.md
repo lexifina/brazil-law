@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 98, de 19 de novembro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2106.90.90 Mercadoria: Hambúrguer à base de proteína de soja texturizada, pesando 56 g, acondicionado em caixa de papelão, com seis unidades, ou saco plástico, com vinte unidades. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 21.06), RGI 6 (texto da subposição 2106.90) e RGC 1 (texto do item 2106.90.90) da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 2106.90.90 Mercadoria: Hambúrguer à base de proteína de soja texturizada, pesando 56 g, acondicionado em caixa de papelão, com seis unidades, ou saco plástico, com vinte unidades.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 21.06), RGI 6 (texto da subposição 2106.90) e RGC 1 (texto do item 2106.90.90) da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+DANIELLE CARVALHO DE LACERDA Presidente da 3ª Turma
