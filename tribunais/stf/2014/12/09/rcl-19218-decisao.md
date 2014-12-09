@@ -1,0 +1,19 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – NEGATIVA DE SEGUIMENTO AO PEDIDO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Felipe Barbosa Tadini Patta afirma haver o Juízo da 1ª Vara Criminal da Comarca de Santa Rita do Sapucaí/MG, na Execução de Pena nº 0014447-28.2014.8.13.0596, inobservado o que decidido nos Habeas Corpus nº 123.705 e 84.078.
+    Segundo narra, Vossa Excelência deferiu a liminar por si pleiteada no Habeas Corpus nº 123.705, vindo a assegurar a liberdade provisória. Diz da pendência de exame do mérito da impetração. Informa ter o Órgão reclamado determinado novamente, em 28 de novembro de 2014, a custódia ante a ausência de eficácia suspensiva dos recursos especial e extraordinário, surgindo daí o alegado desrespeito.
+    Sustenta olvidado, ainda, o que assentado no Habeas Corpus nº 84.078. Consoante argumenta, embora impetrado por terceiro, o Supremo proclamou, nesse processo, a inconstitucionalidade da execução antecipada da pena. Assevera a inadequação da prisão, no caso, porque ausente o trânsito em julgado, estando ainda sem apreciação embargos declaratórios interpostos contra o acórdão da apelação criminal. Argui a eficácia transcendental do que consignado no referido paradigma.
+    Não alude ao requisito do risco.
+    Requer, em sede de liminar, a suspensão do ato impugnado e a expedição de alvará de soltura. Postula, alfim, a declaração de nulidade do pronunciamento.
+    2. O reclamante aponta olvidada a liminar deferida no Habeas Corpus nº 123.705, de minha relatoria, ainda em curso neste Tribunal, aguardando julgamento pelo Colegiado.
+    A reclamação serve à preservação da competência do Supremo e da autoridade das respectivas decisões, em relação às quais se pressupõe que não se encontrem em andamento, no próprio Tribunal, as ações que as motivaram. Essa óptica decorre da organicidade e da dinâmica do Direito instrumental, a direcionar ao máximo de eficácia do ordenamento jurídico com o mínimo de atuação judicante e à desburocratização do processo.
+    Em síntese, tratando-se da concretude de pronunciamento do Supremo formalizado em processo que nele ainda está a tramitar, o desrespeito não enseja o início de mais um, emperrando a máquina judiciária.
+    No mais, quanto à alegação de inobservância ao que decidido no Habeas Corpus nº 84.078, descabe emprestar a essa via excepcional os contornos de incidente de uniformização de jurisprudência. Consoante reconhece o reclamante, esta medida está baseada na transcendência dos motivos determinantes do ato dito olvidado, de índole subjetiva, tese não agasalhada pela jurisprudência do Tribunal. Vejam o entendimento do Pleno, consubstanciado na ementa abaixo transcrita, publicada no Diário da Justiça eletrônico de 18 de março de 2013:
+    Agravo regimental em reclamação. Paradigma extraído de ações de caráter subjetivo. Ausência dos requisitos. Perfil constitucional da reclamação. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88). 2. Inadmissibilidade do uso da reclamação por alegada ofensa à autoridade do STF e à eficácia de decisão proferida em processo de índole subjetiva quando a parte reclamante não figurar como sujeito processual nos casos concretos versados no paradigma, pois não há obrigatoriedade de seu acatamento vertical por tribunais e juízos. 3. Agravo regimental não provido.
+    (Agravo Regimental na Reclamação nº 5.391, relator ministro Dias Toffoli, Tribunal Pleno, julgada em 6 de fevereiro de 2013)
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 9 de dezembro de 2014.
+Ministro MARCO AURÉLIO
+Relator
