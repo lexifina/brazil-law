@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo regimental contra decisão que determinou a devolução dos autos ao Tribunal de origem com fundamento no art. 543-B do CPC.
+    Sustenta a parte agravante, em síntese, que não há identidade entre o tema objeto do processo indicado como paradigma para a devolução e a matéria discutida nos presentes autos, pois, neste, debate-se a suspensão da contribuição previdenciária para os militares inativos por ausência de lei específica estadual, e, naquele, discute-se a constitucionalidade da contribuição previdenciária sobre pensões e proventos de militares inativos entre as EC 20/98 e EC 41/03 (fls. 572/575).
+    2. A jurisprudência do Supremo Tribunal Federal tem entendimento pacificado no sentido de que o despacho que determina a devolução dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral é ato de mero expediente e, portanto, não permite impugnação mediante recurso ou qualquer outro meio. Nesse sentido, confira-se:
+    RECURSO. Agravo Regimental. Despacho que determina devolução dos autos ao tribunal a quo para aplicação da sistemática da repercussão geral. Ato de mero expediente. Incidência do art. 504 do CPC. Agravo não conhecido. É inadmissível agravo regimental contra ato de mero expediente que determina a devolução do feito ao tribunal de origem para aplicação da sistemática da repercussão geral (AI 778643 AgR, Rel. Min. CEZAR PELUSO (Presidente), Tribunal Pleno, DJe de 07/12/2011)
+    3. Em abono à devolução, pode-se acrescentar que, no recurso extraordinário submetido à sistemática da repercussão geral, o Plenário analisará a questão relativa ao regime previdenciário dos militares estaduais para fins de incidência das Emendas Constitucionais 20/1998 e 41/2003. Para posicionar-se sobre esse assunto, terá de passar pela discussão acerca da existência de regime previdenciário diferenciado dos servidores públicos civis e dos militares estaduais inativos, que é justamente o objeto do presente processo. Assim, evidente a relevância do precedente para o deslinde do presente caso.
+    4. Diante do exposto, não conheço do pedido e determino a devolução dos autos ao Tribunal de origem, para os fins do art. 543-B do CPC.
+    Publique-se. Intime-se.
+    Brasília, 9 de dezembro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
