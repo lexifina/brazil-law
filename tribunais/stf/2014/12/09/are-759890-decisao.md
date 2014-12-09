@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Execução de sentença – Servidores Públicos Municipais devedores de honorários de advogado à Prefeitura – Impossibilidade de desconto direito em folha de pagamento sem autorização dos servidores – Compensação com créditos oriundos de precatório – Possibilidade – Precedentes desta Corte – Compensação, porém, que somente alcança os servidores que comprovaram a titularidade de crédito junto à Municipalidade, decorrente de precatório com número de ordem definido – Execução da verba honorária que deverá ser feita nos termos do art. 475-J para aqueles que não forem titulares de aludido crédito – Agravo parcialmente provido para esse fim.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 100 da Constituição. Sustenta que o “deferimento do pedido de compensação VIOLARÁ A ORDEM CRONOLÓGIVA DOS PRECATÓRIOS, FERINDO A ISONOMIA CONSTITUCIONAL, pois os colocará na frente de outros credores da Fazenda Municipal, que aguardam na fila constitucional para recebimento de seus créditos. (fl. 310).
+    O recurso extraordinário é inadmissível. Com efeito, o Tribunal de origem decidiu que “Não é possível o desconto direto em folha sem a autorização dos servidores, tendo em vista a impenhorabilidade dos vencimentos servidores públicos. E , ainda que, na hipótese dos autos. “os honorários são devidos à Fazenda Pública Municipal, não aos seus procuradores. A Procuradoria do Município é um órgão despersonalizado integrante da estrutura da Prefeitura de São Paulo. Logo, inexiste a alegada diferença de titularidade do débito e do crédito considerados”.
+     Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Houve recurso especial quanto à matéria, não provido e já transitado em julgado. Nessas condições, aplica-se a Súmula 283/STF, in verbis :
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 09 de dezembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
