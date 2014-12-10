@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Quarta Turma Recursal do Juizado Especial Federal da Terceira Região, Seção Judiciária de São Paulo, assim ementado:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA SOBRE VERBA RECEBIDA EM RAZÃO DE RECLAMAÇÃO TRABALHISTA. NÃO HÁ INCIDÊNCIA SOBRE JUROS MORATÓRIOS. NATUREZA INDENIZATÓRIA. RECURSO DA UNIÃO NÃO PROVIDO”
+    Foram opostos embargos de declaração, aos quais foi negado provimento.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIII, LIV, e LV, e 109, I, ambos da Carta. Sustenta, em síntese, que:
+    (i) “havendo a incidência exacional questionada pela parte Autora ocorrida em cumprimento de decisão proferida nos autos de reclamação com trâmite perante a Justiça Federal Especial (do Trabalho), os Órgãos desta Digníssima Justiça Federal Comum são absolutamente incompetentes para se pronunciar acerca de sua validade ou não”;
+    (ii) “o recolhimento do IRPF questionado nos presentes autos decorreu de sua incidência sobre o montante recebido pela mesma no cumprimento de r. decisão que, proferida na Justiça do Trabalho, já se encontra transitada em julgado.”;
+    (iii) “a aplicação do regime legal de caixa na tributação dos rendimentos recebidos cumulativamente não gera prejuízo ao contribuinte e nem constitui qualquer equívoco na mensuração da renda tributável” e
+    (iv) “o recebimento de juros de mora constitui fato gerador de imposto de renda, eis que configura aquisição de disponibilidade econômica, nos termos do artigo 153 da Constituição da República Federativa do Brasil e do artigo 43, incisos I e II, do Código Tributário Nacional”
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que as alegações suscitadas pela parte denotaria ofensa constitucional indireta. Em sede de agravo, a parte reitera os argumentos antes deduzidos em sede de recurso extraordinário
+    A pretensão não merece acolhida. A jurisprudência deste Supremo Tribunal Federal firmou-se no sentido de que a justiça do trabalho é competente para definir a incidência do imposto de renda sobre títulos judiciais que por ela foram estabelecidos. Nessa linha, confiram-se as ementas a seguir: do RE 196.517, julgado sob relatoria do Ministro Marco Aurélio:
+    “COMPETÊNCIA - EXECUÇÃO - TÍTULO JUDICIAL TRABALHISTA - DESCONTOS PREVIDENCIÁRIO E DO IMPOSTO DE RENDA - CONTROVÉRSIA. Cumpre à própria Justiça do Trabalho, prolatora do título judicial e competente para a execução respectiva, definir a incidência, ou não, dos descontos previdenciário e para o imposto de renda.”(RE 196517, Rel. Min. Marco Aurélio)
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA, NOS TÍTULOS JUDICIAIS QUE PROLATAR, DEFINIR A INCIDÊNCIA OU NÃO DO DESCONTO DO IMPOSTO DE RENDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A Justiça Trabalhista, prolatora do título judicial, é competente para definir a incidência, ou não, dos descontos previdenciário e do imposto de renda. II - Agravo regimental a que se nega provimento.”(ARE 696358 AgR, Rel. Min. Ricardo Lewandowski)
+    O Tribunal de origem divergiu desta orientação. Em que pese a relação jurídica seja eminentemente tributária, a repetição do indébito reporta ao imposto incidente sobre verbas provenientes de reclamatória laboral. Desta forma, inequivocamente, a pretensão deduzida trará uma interferência na coisa julgada trabalhista, que determinou a retenção do imposto sob o regime de caixa.
+    No mesmo sentido, as seguintes decisões monocráticas: RE 691.104/RS, Rel. Min. Luiz Fux; ARE 696.358/DF, Rel. Min. Ricardo Lewandowski e AI 689.481/SP, Rel. Min. Dias Toffoli.
+    Diante do exposto, com base no art. 544, § 4º, II, c, do CPC, conheço do agravo para dar provimento ao recurso extraordinário para o fim de reconhecer a incompetência absoluta da Justiça Federal.
+    Com base no art. 267, inciso IV, do Código de Processo Civil, julgo extinto o processo, sem resolução de mérito. Custas pela parte vencida. Fixo os honorários em 10% sobre o valor da causa.
+    Publique-se.
+          Brasília, 10 de dezembro de 2014.
+Ministro LUÍS ROBERTO BARROSO
+Relator
