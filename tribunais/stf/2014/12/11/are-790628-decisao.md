@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “ADMINISTRATIVO. HORAS EXTRAS INCORPORADAS. ATOS COMISSIVOS, ÚNICOS E DE EFEITOS PERMANENTES. LEI 9.784/1999. DECADÊNCIA CONFIGURADA.
+    1. O Superior Tribunal de Justiça assentou o entendimento de que mesmo os atos administrativos praticados anteriormente ao advento da Lei Federal 9.784, de 1.2.99, estão sujeitos ao prazo decadencial quinquenal contado da sua entrada em vigor. A partir de sua vigência, o prazo decadencial para a Administração rever seus atos é de cinco anos, nos termos do artigo 54.
+    2. In casu, as horas extras da servidora eram atualizadas com base na aplicação contínua e automática de percentuais incidentes sobre todas as parcelas salariais dos servidores por força de decisão transitada em julgado em data anterior à da Lei 9.784/1999, e o ato administrativo do TCU, que determinou que o pagamento das horas extras fosse feito em valores nominais, decorre do Acórdão 2.161/2005, ou seja, após o decurso do prazo decadencial de cinco anos contados da entrada em vigor da mencionada norma. Assim, é inequívoca a consumação da decadência.
+    3. Recurso Especial provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput e XXXVI; e 37, X e XIV, ambos da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que a presente controvérsia se insere no âmbito infraconstitucional.
+    A decisão deve ser mantida. Isso porque, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem acerca da ocorrência da decadência no caso em tela, seria imprescindível a análise da legislação infraconstitucional pertinente (Lei nº 9.784/1999). Nesse sentido, confiram-se os seguintes julgados das duas Turmas desta Corte:
+     “ADMINISTRATIVO. PRAZO DECADENCIAL PARA A ADMINISTRAÇÃO ANULAR SEUS PRÓPRIOS ATOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO.
+     I - O acórdão recorrido decidiu a questão dos autos prazo de decadência para a Administração anular seus próprios atos à luz da legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Precedentes.
+     II - Agravo regimental improvido” (RE 490.850-AgR, Rel Min. Ricardo Lewandowski, Primeira Turma)
+     “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NULIDADE DE ATO ADMINISTRATIVO DE RETIFICAÇÃO DE APOSENTADORIA EM RAZÃO DE EVENTUAL DECADÊNCIA ADMINISTRATIVA. LEI 9.784/99. VIOLAÇÃO AO ART. 5º, XXXVI E XL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+     1. A ausência de discussão, pelo acórdão recorrido, da matéria ventilada em sede de recurso extraordinário inviabiliza sua apreciação pelo STF, diante das Súmulas STF 282 e 356.
+     2. É pacífica a jurisprudência desta Corte ao não admitir, em sede extraordinária, alegação de ofensa indireta à Constituição Federal. Precedentes.
+    3. Agravo regimental improvido” (AI 765.151-AgR, Relª. Minª. Ellen Gracie, Segunda Turma)
+    Citam-se, ainda, as seguintes decisões monocráticas já transitadas em julgado e envolvendo a mesma parte ora recorrente: ARE 769.300, Rel. Min. Ricardo Lewandowski; ARE 783.394, Relª. Minª. Cármem Lúcia; e ARE 788.376, Rel. Min. Gilmar Mendes.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas nego-lhe provimento.
+    Publique-se.
+          Brasília, 11 de dezembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
