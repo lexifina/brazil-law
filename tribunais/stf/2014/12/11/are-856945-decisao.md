@@ -1,0 +1,28 @@
+Decisão: Trata-se agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado no que interessa:
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO. MILITAR. PENSÃO ESPECIAL DE EX-COMBATENTE. LIMITE DO ART. 5º DA EC 41/2003. APLICABILIDADE (…).” (fl. 179)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação ao art. 37, XI, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que“o acórdão recorrido violou dispositivo constitucional que disciplina a aplicação do teto remuneratório para o valor da pensão por morte derivada do falecimento do instituidor da pensão especial de ex-combatente.” (fl. 221)
+    Decido.
+    A irresignação não merece prosperar.
+    Isso porque a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o inciso XI do art. 37 da Constituição Federal, com a redação dada pela EC 19/1998, não é autoaplicável.
+    Nesse sentido, cito os seguintes julgados de ambas as Turmas desta Corte:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MILITAR. EX-COMBATENTE. TETO REMUNERATÓRIO NÃO AUTO-APLICÁVEL. MATÉRIA DE ORDEM INFRACONSTITUCIONAL.
+    1. A questão tratada nos autos diz respeito à aplicação das Leis 4.297/63 e 5.698/71 e Decreto 2.172/97 sendo de índole infraconstitucional, não autorizando a apreciação por esta Corte.
+    2. O Supremo Tribunal Federal firmou entendimento no sentido de que o art. 37, XI, da Carta Magna, com a redação dada pela EC 19/98, na parte que trata do teto remuneratório, não é auto-aplicável.
+    3. Agravo regimental improvido.” (RE-AgR 436.944, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.4.2009) (grifei)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO. SUBTETO REMUNERATÓRIO. LEI MUNICIPAL 12.477/1997. POSSIBILIDADE. PRECEDENTES. AGRAVO IMPROVIDO.
+    I- A jurisprudência desta Corte firmou entendimento no sentido de que o art. 37, XI, da Carta Magna, com a redação dada pela EC 19/98, na parte que trata do teto remuneratório, não é autoaplicável, por depender da promulgação da lei de fixação do subsídio de Ministro do Supremo Tribunal Federal. Precedentes.
+    II- O Plenário do Tribunal, no julgamento do RE 228.080/SC, concluiu pela possibilidade de fixação, após a EC 19/98, pelos Estados da Federação, bem como pelos Municípios, de subteto de vencimentos em montante inferior ao previsto no art. 37, XI, da Constituição, excluídas as vantagens pessoais. Precedentes.
+    III- Constitucionalidade da fixação de subteto pela Lei municipal 12.477/1997. Precedentes.
+    IV- Agravo regimental improvido.” (RE-AgR 495.673, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 25.11.2010) (grifei)
+    Além disso, observo que a discussão referente aos dispositivos relativos ao critério de reajustamento do benefício do segurado ex-combatente, estabelecido pela Lei 5.698/1971, envolve o exame da legislação infraconstitucional. Desse modo, a alegada violação aos dispositivos constitucionais invocados dar-se-ia de maneira indireta ou reflexa, cujo reexame é vedado em sede de recurso extraordinário.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENSÃO ESPECIAL. EX-COMBATENTE. TETO DE REMUNERAÇÃO. MATÉRIA INFRACONSTITUCIONAL. 2. Ex-combatente. Pensão especial. Teto de remuneração. Constituição do Brasil, artigo 37, XI. Fixação de subsídio. Inexistência de lei específica. Vulneração do preceito constitucional. Impossibilidade. 3. Leis n. 4.297/63 e n. 5.698/71 e Decreto n. 2.172/97. Fixação do teto remuneratório. Violação do dispositivo da Constituição do Brasil a partir da interpretação de disposições de legislação infraconstitucional. Inviabilidade do recurso extraordinário. Agravo regimental não provido. Nesse sentido: RE 368.433-AgR, rel. min. Ellen Gracie, DJ de 07.08.2009; RE 552.387-AgR, rel. min. Ellen Gracie, DJe de 01.07.2009; RE 447.761-AgR, rel. min. Cármen Lúcia, DJe de 25.09.2009 e RE 452.961, rel. min. Sepúlveda Pertence, DJ de 28.02.2007.” (RE-AgR-AgR 433.478, Rel. Min. Eros Grau, Segunda Turma, DJ 5.5.2006)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EX-COMBATENTE. TETO REMUNERATÓRIO. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. PRECEDENTES. AGRAVO IMPROVIDO. I - A jurisprudência do Supremo Tribunal Federal entende que a discussão acerca da limitação pecuniária da pensão especial de ex-combatente e anistiado envolve a análise de normas infraconstitucionais, sendo certo que a ofensa à Constituição, se ocorrente, seria apenas indireta. II - Ademais, também é assente nesta Corte que o art. 37, XI, da Carta Magna, com a redação dada pela EC 19/98, na parte que trata do teto remuneratório, não é autoaplicável, por depender da promulgação da lei de fixação do subsídio de Ministro do Supremo Tribunal Federal. III Agravo regimental improvido.” (RE-AgR 435.597, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 21.2.2011)
+    “PENSÃO. EX-COMBATENTE. TETO DE REMUNERAÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. Agravo regimental a que se nega provimento.” (RE-AgR 474.661, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 22.5.2012)
+     Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 11 de dezembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
