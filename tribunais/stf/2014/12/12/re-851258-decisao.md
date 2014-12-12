@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Ministério Público do Estado do Rio Grande do Sul. Aparelhado o recurso na afronta aos arts. 2º, e 225, caput, § 1º, I, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Verifico que o Tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos – "(…) houve condenação a realização de obras de canalização do esgoto a céu aberto em bairros desassistidos do Município, medida que já tem o condão de zelar pela saúde pública e evitar o escoamento de esgoto em céu aberto..." (fl. 209 – destaquei) –, a qual restou definitiva em virtude da negativa de provimento do recurso especial pelo Superior Tribunal de Justiça.
+    Aplicação da Súmula 283/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido: RE 500.185-AgR/DF, Rel. Min. Dias Toffoli, 1ª turma, DJe 26.4.2012; e RE 585.095-AgR/PE, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 05.9.2011, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO: FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. IMPOSSIBILIDADE DE INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA DECISÃO DE TURMA RECURSAL DOS JUIZADOS ESPECIAIS. MANUTENÇÃO DO FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. SÚMULA 283 DO STF. DESNECESSIDADE DE EXAME DE REPERCUSSÃO GERAL. ART. 323 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL - RISTF. AGRAVO IMPROVIDO. I – Ante o não cabimento de recurso especial contra acórdão de Juizado Especial, permaneceu incólume o fundamento infraconstitucional suficiente para a manutenção do acórdão recorrido. Incidência da Súmula 283 desta Corte. II – Consoante o art. 323 do RISTF, a verificação da existência, ou não, de repercussão geral ocorrerá quando não for o caso de inadmissibilidade do recurso por outra razão. III - Agravo regimental improvido."
+    Além disso, consignado pela Corte de origem que a realização de obras de canalização do esgoto a céu aberto já tem o condão de zelar pela saúde pública dos munícipes, divergir do entendimento adotado no acórdão recorrido exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF : “Para simples reexame de prova não cabe recurso extraordinário.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de dezembro de 2014.
+Ministra Rosa Weber
+Relatora
