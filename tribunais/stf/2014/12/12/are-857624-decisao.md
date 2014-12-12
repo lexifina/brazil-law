@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE EXTRACONTRATUAL DO ESTADO. ACIDENTE EM BUEIRO. DANO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Quinta Câmara Cível do Tribunal de Justiça do Rio de Janeiro decidiu:
+    “ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE EM BUEIRO. DANO MORAL. Ação indenizatória porque a Autora sofreu queda e lesões físicas ao pisar em bueiro com a tampa quebrada. A responsabilidade civil das pessoas jurídicas de direito público possui apenas natureza objetiva como regula o artigo 37, § 6º, da Constituição da República, a obstar a análise do elemento culposo próprio da responsabilidade subjetiva. O Município tem o dever de zelar pela segurança das pessoas que transitam nas vias públicas, sendo manifesta a falha no serviço ao deixar bueiro coberto com pedaço de madeira, o que provocou a queda da Autora. Manifesto o dano moral derivado do susto pelo tombo e angústia na recuperação e submissão a tratamento médico. O dano moral se arbitra de acordo com o princípio da razoabilidade, observado o evento e suas consequências, além da capacidade das partes. Valor fixado em harmonia com esta orientação. A indenização do dano material corresponde aos dias que a Autora ficou impossibilitada de trabalhar. No caso de o Autor ser beneficiário da gratuidade de justiça, não cabe condenar o Município no pagamento das custas processuais quando vencido na lide. Se a lei municipal prevê a reciprocidade de tratamento ao Estado quanto à isenção de tributos, há de se reconhecer o direito ao benefício em favor do Município de São Gonçalo quanto ao pagamento da taxa judiciária, conforme regula o Código Tributário do Estado do Rio de Janeiro. Recurso provido em parte” (grifos nossos).
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, foram adotadas como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 279 do Supremo Tribunal Federal e a ausência de contrariedade direta à Constituição da República.
+    4. O Agravante argumenta que
+     “não há que se falar, no presente caso, de revisão de matéria de fato. Esta já foi analisada e discutida nas vias ordinárias.
+    A discussão, objeto do recurso extraordinário, para cujo seguimento se serve o presente recurso de Agravo, cinge-se à afirmação de que a omissão não seria alcançada pela norma prevista no art.37, §6º, da CRFB/88, uma vez que a omissão não é a causa do dano, mas sim a condição para que a causa possa acontecer, se revelar, não se aplicando, assim, o aludido preceito constitucional para os atos omissivos, mas tão-somente para os comissivos.
+    (…) mesmo que se considerasse ter restado configurada omissão genérica por parte do ente federativo em questão, tal espécie de omissão, como notório, enseja responsabilidade subjetiva, ou seja, dependente da prova de culpa, o que na espécie não se verifica”.
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 37, § 6º, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    A apreciação do pleito recursal demandaria reexame de provas, procedimento inviável em recurso extraordinário, nos termos da Súmula n. 279 deste Supremo Tribunal:
+    “ADMINISTRATIVO. SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 37, § 6º, DA CF. OFENSA CONSTITUCIONAL REFLEXA. ANÁLISE DOS ASPECTOS FÁTICOS DO NEXO DE CAUSALIDADE ENTRE A CONDUTA DO ESTADO E O DANO. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE 399.284-AgR-segundo, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 22.8.2013, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MORAIS. INDENIZAÇÃO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DAS PROVAS. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 776.516-AgR, de minha relatoria, Segunda Turma, DJe 10.12.2013).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, pelo que nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a , do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 12 de dezembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
