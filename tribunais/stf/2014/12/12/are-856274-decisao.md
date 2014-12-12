@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, cuja ementa transcrevo:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. EXECUÇÃO. 1. PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. A pretensão recursal tem nítido caráter infringente e não revela a existência de omissão ou contradição na decisão impugnada, já que a parte busca, com efeito, o reexame da matéria sob o enfoque dos seus argumentos. Logo, não há falar em nulidade da decisão recorrida por negativa de prestação jurisdicional. Ileso o art. 93, IX, da CF.
+    2. SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. Não se constata ofensa aos dispositivos constitucionais invocados diante do quadro fático delimitado pelo Regional, no sentido de que a sentença proferida na ação civil pública com empregados nominados não contemplou a ora exequente, inviabilizando a liquidação pretendida. Óbice da Súmula nº 126 do TST. Agravo de instrumento conhecido e não provido”. (eDOC 12, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação dos arts. 5º, caput e incisos II; XXXV; XXXVI; e 93, IX, do texto constitucional.
+    Nas razões recursais, argumenta-se afronta ao princípio da legalidade, em razão da não incidência do art. 4º, I, da Lei 9.029/95 ao caso. Alega-se ainda ausência de prestação jurisdicional.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, no tocante à ofensa ao art. 93, IX, da CF, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido preceito exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    No caso, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente.
+    No tocante ao mérito, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o reexame do conjunto fático-probatório dos autos, bem como da legislação infraconstitucional aplicável à espécie, providências vedadas na via extraordinária. Incidem, portanto, os Enunciados 279 e 636 da Súmula do STF.
+    Por fim, verifico que esta Corte já apreciou a matéria referente ao exame dos pressupostos de admissibilidade de recursos da competência de outros Tribunais, por meio do regime da repercussão geral, no julgamento do RE-RG 598.365, Rel. Min. Ayres Britto, DJe 26.3.2010, oportunidade em que rejeitou a repercussão geral em razão da natureza infraconstitucional da questão posta, nos seguintes termos:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso elemento de configuração da própria repercussão geral, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, §4º, II, a, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 12 de dezembro de 2014.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
