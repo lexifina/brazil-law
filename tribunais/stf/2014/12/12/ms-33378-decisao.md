@@ -1,0 +1,26 @@
+MANDADO DE SEGURANÇA. ATO DO MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL. ARE 846.222. NÃO CABIMENTO DO WRIT. DECISÃO IMPUGNADA TRANSITADA EM JULGADO. MANDADO DE SEGURANÇA A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de mandado de segurança, com pedido liminar, impetrado por Fabiana Pereira da Silva, contra ato do Ministro Presidente do Supremo Tribunal Federal, praticado nos autos do ARE 846.222.
+    Noticia a impetrante, que a Presidência desta Corte, nos autos da ARE 846.222, negou seguimento ao agravo. Cinco dias após a publicação, foi registrado o “Trânsito em Julgado” da decisão.
+    Sustenta que no citado processo, teria havido violação do inciso LV do art. 5º da Constituição Federal, pois a impetrante possui “o direito líquido e certo de ter o Recurso Extraordinário com Agravo, julgado e provido por esse Egrégio Supremo Tribunal Federal”.
+    Defende o cabimento do presente mandado de segurança contra ato jurisdicional por se tratar de decisão contra a qual não há previsão de cabimento de recurso.
+    Postula pelo deferimento de medida liminar para que seja cassada a decisão que negou seguimento ao ARE 846.222, bem como a anulação do lançamento do trânsito em julgado.
+    E, no mérito, pede que seja ratificada a medida liminar.
+    É o relatório. Decido.
+    Este Sodalício já assentou ser inadmissível a impetração de mandado de segurança contra atos decisórios de índole jurisdicional, sejam eles proferidos por seus Ministros, monocraticamente, ou por seus órgãos colegiados. A admissão do mandado contra decisão judicial pressupõe: (i) não caber recurso, com vistas a integrar ao patrimônio da Impetrante o direito líquido e certo a que supostamente aduz ter direito; (ii) não ter havido o trânsito em julgado; e (iii) tratar-se de situação excepcional ou decisão teratológica.
+    É o que se extrai dos seguintes julgados do Plenário desta Corte:
+    “EMENTA: PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO COATOR CONSISTENTE EM DECISÃO MONOCRÁTICA TRANSITADA EM JULGADO. DECISÃO PROFERIDA POR MINISTRO DO SUPREMO TRIBUNAL FEDERAL. WRIT QUE OPERA COMO SUCEDÂNEO DO RECURSO CABÍVEL CONTRA A DECISÃO MONOCRÁTICA OU DE AÇÃO RESCISÓRIA. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+    Conforme pacífica jurisprudência do Supremo Tribunal Federal, salvo em situações excepcionais, é inadmissível a impetração de mandado de segurança para desconstituir ato revestido de conteúdo jurisdicional emanado de Ministro do Supremo Tribunal Federal, mormente quando a decisão atacada já transitou em julgado. Com efeito, a teor da Súmula 268/STF, não cabe mandado de segurança contra decisão judicial com trânsito em julgado. Agravo desprovido.” (MS 2.371-AgR, Rel. Min. Joaquim Barbosa, DJe 21/8/2009)
+    “E M E N T A: MANDADO DE SEGURANÇA IMPETRAÇÃO CONTRA ATO DE CONTEÚDO JURISDICIONAL PROFERIDO PELO SUPREMO TRIBUNAL FEDERAL - INADMISSIBILIDADE POSSIBILIDADE DE O RELATOR DA CAUSA, NO SUPREMO TRIBUNAL FEDERAL, DELA NÃO CONHECER, MEDIANTE DECISÃO MONOCRÁTICA LEGITIMIDADE CONSTITUCIONAL DESSE PODER PROCESSUAL DO RELATOR RECURSO DE AGRAVO IMPROVIDO. DESCABIMENTO DE MANDADO DE SEGURANÇA CONTRA ATO JURISDICIONAL EMANADO DO SUPREMO TRIBUNAL FEDERAL.
+    - Não cabe mandado de segurança contra julgamentos impregnados de conteúdo jurisdicional, não importando se monocráticos ou colegiados, proferidos no âmbito do Supremo Tribunal Federal. É que tais decisões, ainda quando emanadas de Ministro-Relator, somente serão suscetíveis de desconstituição mediante utilização dos recursos pertinentes, ou, tratando-se de pronunciamentos de mérito já transitados em julgado, mediante ajuizamento originário da pertinente ação rescisória. Precedentes.
+    PODERES PROCESSUAIS DO MINISTRO-RELATOR E PRINCÍPIO DA COLEGIALIDADE.
+    - Assiste, ao Ministro-Relator, competência plena, para, com fundamento nos poderes processuais de que dispõe, exercer, monocraticamente, o controle de admissibilidade das ações, pedidos ou recursos dirigidos ao Supremo Tribunal Federal. Cabe-lhe, em conseqüência, poder para negar trânsito, em decisão monocrática, a ações, pedidos ou recursos, quando incabíveis, intempestivos, sem objeto ou, ainda, quando veicularem pretensão incompatível com a jurisprudência predominante na Suprema Corte. Precedentes.
+    - O reconhecimento dessa competência monocrática, deferida ao Relator da causa, não transgride o postulado da colegialidade, pois sempre caberá, para os órgãos colegiados do Supremo Tribunal Federal (Plenário e Turmas), recurso contra as decisões singulares que venham a ser proferidas por seus Juízes.” (MS 27.216-AgR, Rel. Min. Celso de Mello, DJe 22/10/2009)
+    Em consulta ao sítio eletrônico do Supremo Tribunal Federal, constata-se que, em 13/11/2014, foi publicada a decisão do Presidente desta Corte, que negou seguimento ao ARE 846.222. Finalizado o prazo de cinco dias previsto no art. 317 do RISTF, foi registrado o trânsito em julgado.
+    O presente mandado de segurança foi impetrado em 4/12/2014, ou seja, após o trânsito em julgado da decisão.
+    Verifico, portanto, que o mandamus afigura-se incabível.
+    Ex positis, nego seguimento a este mandado de segurança, nos termos do artigo 21, § 1º, do RISTF, ficando prejudicada a análise do pedido de liminar.
+    Publique-se. Int..
+    Brasília, 12 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
