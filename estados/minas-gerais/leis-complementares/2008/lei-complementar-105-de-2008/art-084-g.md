@@ -1,0 +1,1 @@
+Art. 84-G - Na Comarca onde não existir ou onde não tiver sido instalada unidade jurisdicional de Juizado Especial, os feitos da competência dos Juizados Especiais Cíveis e Criminais tramitarão perante o Juiz de Direito com jurisdição comum e a respectiva secretaria, observado o procedimento especial estabelecido na Lei Federal nº 9.099, de 1995.

@@ -1,0 +1,2 @@
+Art. 84-A - Compete à Turma Recursal processar e julgar recursos, embargos de declaração de seus acórdãos, mandados de segurança e habeas corpus contra atos de Juízes de Direito do Sistema e contra seus próprios atos.
+Parágrafo único - Compete ao Juiz-Presidente de Turma Recursal processar e exercer o juízo de admissibilidade de recursos extraordinários contra decisões da Turma e presidir o processamento do agravo de instrumento interposto contra suas decisões.

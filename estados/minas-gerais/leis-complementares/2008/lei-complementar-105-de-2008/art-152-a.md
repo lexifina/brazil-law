@@ -1,0 +1,2 @@
+Art. 152-A - Cumprirá ao Corregedor-Geral de Justiça fazer o acompanhamento necessário à reabilitação e propor que seja reaproveitado o magistrado de primeiro grau removido ou posto em disponibilidade por interesse público.
+Parágrafo único - A atribuição de que trata este artigo pertencerá ao Presidente do Tribunal de Justiça, quando for o caso de disponibilidade de Desembargador, ou ao Presidente do Tribunal de Justiça Militar, quando se tratar de membro deste Tribunal.

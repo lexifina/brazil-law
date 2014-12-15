@@ -1,0 +1,1 @@
+Art. 154-C - Poderá a Corte Superior do Tribunal de Justiça, entendendo não ser o caso de pena de perda do cargo, aplicar as de remoção por interesse público, censura ou advertência, vedada a disponibilidade por interesse público.
