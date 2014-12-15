@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 334, de 4 de dezembro de 2014
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. SUJEIÇÃO. Para atender à condição estabelecida pelo inciso XIII do §3º do art. 8º da Lei nº 12.546, de 2011, e consequentemente estar sujeita à contribuição previdenciária substitutiva prevista no caput deste artigo, não basta apenas que a empresa desempenhe atividade enquadrada nas classes 5212-5 ou 5231-1 da CNAE, é necessário também que a empresa, obrigatoriamente, realize operações de carga, descarga e armazenagem de contêineres em portos organizados. DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, art. 8º.
+[arquivo anexo: SC Cosit nº 334-2014.pdf]
