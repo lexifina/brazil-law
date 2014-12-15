@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 97 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Plenário desta Corte, no julgamento da Rcl 6.944/DF, Rel. Min. Cármen Lúcia, DJe 13.8.2010, assentou que, para caracterização da violação da reserva de plenário é necessário que a decisão esteja fundamentada na incompatibilidade entre a norma legal e a Constituição Federal. Na espécie, o Tribunal a quo limitou-se a aplicar o entendimento pacífico do Superior Tribunal de Justiça sem fundamentar-se em dispositivos constitucionais. Inexiste, pois, violação do art. 97 da Carta Maior. Eis a ementa do referido julgado:
+    “RECLAMAÇÃO. SÚMULA VINCULANTE N. 10. REVISÃO DE BENEFÍCIO. LEI N. 9.032/95. DECISÃO DA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA. RESERVA DE PLENÁRIO. NÃO CONFIGURADO O DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL. 1. A simples ausência de aplicação de uma dada norma jurídica ao caso sob exame não caracteriza, apenas por isso, violação da orientação firmada pelo Supremo Tribunal Federal. 2. Para caracterização da contrariedade à súmula vinculante n. 10, do Supremo Tribunal Federal, é necessário que a decisão fundamente-se na incompatibilidade entre a norma legal tomada como base dos argumentos expostos na ação e a Constituição. 3. O Superior Tribunal de Justiça não declarou a inconstitucionalidade ou afastou a incidência dos arts. 273, § 2º, e 475-o, do Código de Processo Civil e do art. 115, da Lei n. 8.213/91, restringindo-se a considerá-los inaplicáveis ao caso. 4. Reclamação julgada improcedente”.
+    No mesmo sentido, cito: RE 593.843-AgR/RJ, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 10.11.2010; e AI 662.519-AgR/CE, Rel. Min. Dias Toffoli, 1ª Turma, DJe 10.10.2011, cuja ementa transcrevo:
+    “Agravo Regimental. Cláusula de Reserva de Plenário. Art. 97 da CF. Inexistência de afronta. 1. O acórdão recorrido limitou-se a aplicar o entendimento pacífico do Superior Tribunal de Justiça no sentido de ser decenal o prazo para pleitear a restituição do indébito tributário, sem fazer qualquer menção a LC nº 118/05, tampouco a dispositivos constitucionais. 2. Inexistência de afronta ao art. 97 da Constituição Federal. 3. Agravo regimental ao qual se nega provimento”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de dezembro de 2014.
+Ministra Rosa Weber
+Relatora
