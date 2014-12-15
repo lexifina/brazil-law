@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega a constitucionalidade do artigo 12 da Lei 7.713/88.
+    Anote-se a ementa do julgado proferido pela instância a quo:
+    “TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. IMPOSTO DE RENDA. PARCELAS RECEBIDAS POR FORÇA DE DECISÃO JUDICIAL. INCIDÊNCIA. REGIME DE COMPETÊNCIA. ART. 12 DA LEI Nº 7.713/88. O imposto de renda incidente sobre rendimentos pagos acumuladamente deve ser calculado com base nas tabelas e alíquotas vigentes à época a que se referiam tais rendimentos”.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que a instância de origem não divergiu da orientação do Supremo Tribunal Federal que firmou entendimento no sentido da inconstitucionalidade do artigo 12 da Lei 7.713/88, conforme se verifica do seguinte trecho do informativo de jurisprudência do STF n° 764:
+    “É inconstitucional o art. 12 da Lei 7.713/1988 (“No caso de rendimentos recebidos acumuladamente, o imposto incidirá, no mês do recebimento ou crédito, sobre o total dos rendimentos, diminuídos do valor das despesas com ação judicial necessárias ao seu recebimento, inclusive de advogados, se tiverem sido pagas pelo contribuinte, sem indenização”). Com base nessa orientação, em conclusão de julgamento e por maioria, o Plenário negou provimento a recurso extraordinário em que se discutia a constitucionalidade da referida norma — v. Informativo 628. O Tribunal afirmou que o sistema não poderia apenar o contribuinte duas vezes. Esse fenômeno ocorreria, já que o contribuinte, ao não receber as parcelas na época própria, deveria ingressar em juízo e, ao fazê-lo, seria posteriormente tributado com uma alíquota superior de imposto de renda em virtude da junção do que percebido. Isso porque a exação em foco teria como fato gerador a disponibilidade econômica e jurídica da renda. A novel Lei 12.350/2010, embora não fizesse alusão expressa ao regime de competência, teria implicado a adoção desse regime mediante inserção de cálculos que direcionariam à consideração do que apontara como “épocas próprias”, tendo em conta o surgimento, em si, da disponibilidade econômica. Desse modo, transgredira os princípios da isonomia e da capacidade contributiva, de forma a configurar confisco e majoração de alíquota do imposto de renda. Vencida a Ministra Ellen Gracie, que dava provimento ao recurso por reputar constitucional o dispositivo questionado. Considerava que o preceito em foco não violaria o princípio da capacidade contributiva. Enfatizava que o regime de caixa seria o que melhor aferiria a possibilidade de contribuir, uma vez que exigiria o pagamento do imposto à luz dos rendimentos efetivamente percebidos, independentemente do momento em que surgido o direito a eles. RE 614406/RS, rel. orig. Min. Ellen Gracie, red. p/ o acórdão Min. Marco Aurélio, 23.10.2014)”.
+    Anote-se a ementa do mencionado julgado:
+    “IMPOSTO DE RENDA – PERCEPÇÃO CUMULATIVA DE VALORES – ALÍQUOTA. A percepção cumulativa de valores há de de ser considerada, para efeito de fixação de alíquotas, presentes, individualmente, os exercícios envolvidos” (RE n° 614.406/RS, Tribunal Pleno, Relator para o acórdão o Ministro Marco Aurélio, DJe de 27/11/14).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de dezembro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
