@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ISS. FATO GERADOR. FRANQUIA. LEI COMPLEMENTAR Nº 116/2003. REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO VIRTUAL NO RE 603.136-RG. TEMA Nº 300. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    DECISÃO: O Supremo Tribunal Federal reconheceu a repercussão geral da matéria em que se discute, para fins de incidência do ISS, se a atividade de franquia ostenta a qualificação de serviço, nos autos do RE 603.136, Rel. Min. Gilmar Mendes, Plenário Virtual, DJe de 1º/10/2010, Tema nº 300. A decisão recebeu a seguinte ementa:
+    “Recurso extraordinário. Tributário. ISS. Franquia. Fato gerador. Lei Complementar 116/2003. Repercussão geral reconhecida.”
+    Na manifestação, o Ministro Relator ressaltou o seguinte:
+    “Inicialmente, verifico que, nos termos da jurisprudência desta Corte, a incidência de ISS nos contratos de franquia não está embasada na Constituição Federal, mas, sim, na legislação infraconstitucional. Nesse sentido AI-AgR 719.441, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 25.6.2010; RE-AgR 603.015, Rel. Min. EROS GRAU, Segunda Turma, DJe de 12.3.2010; RE-AgR 571.256, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 9.10.2009; AI-AgR 583.632, Rel. Min. SEPÚLVEDA PERTENCE, Primeira Turma, DJe de 17.8.2007.
+    Entretanto, constato que a lista anexa da Lei Complementar n. 116, no item 10.04, prevê a incidência de ISS sobre contratos de franquia. Desse modo, o afastamento da incidência do ISS sobre referidos contatos pressupõe a declaração de inconstitucionalidade dessa previsão.
+    Ademais, em caso semelhante, no qual se discutiu a incidência de ISS sobre a locação de bens móveis, esta Corte reconheceu a existência de repercussão geral. Refiro-me ao AI-RG 766.684, Rel. Min. Cezar Peluso, DJe 5.2.2010, cujo acórdão restou assim ementado:
+    Tributo. Imposto Sobre Serviços - ISS. Incidência sobre locação de bens móveis. Relevância do ponto de vista econômico, político, social e jurídico. Repercussão geral reconhecida. Apresenta repercussão geral recurso que versa sobre a constitucionalidade, ou não, da incidência de ISS sobre locação de bens móveis.
+    Assim, percebo que a qualificação como serviço de atividade que não ostenta essa categoria jurídica implicaria violação frontal à matriz constitucional do imposto, havendo, pois, questão constitucional em debate.”
+    In casu, o acórdão recorrido assentou:
+    “Apelação Cível - Mandado de Segurança - ISS - Contrato firmado pelas associadas da Impetrante com a Empresa Brasileira de Correios e Telégrafos para prestação de serviços postais e telemáticos - Denominação de franquia empresarial - Evidenciada a prestação de serviços e o pagamento de comissão, incide o ISS - A denominação do contrato não tem o condão de afastar a tributação quando se verifica a ocorrência do fato gerador do tributo - Legalidade da exação - Serviços indicados expressamente pela Lista de Serviços anexa à Lei Complementar n° 116/03 - Recurso não provido.”
+    Observados esses parâmetros, constato que o exame da matéria discutida neste recurso extraordinário depende do desenlace da pretensão recursal posta no RE 603.136.
+    Ex positis, PROVEJO o agravo para, desde logo, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), ADMITIR o recurso extraordinário e determinar a DEVOLUÇÃO do feito ao Tribunal de origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 16 de dezembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
