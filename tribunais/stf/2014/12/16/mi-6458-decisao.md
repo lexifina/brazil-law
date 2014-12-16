@@ -1,0 +1,22 @@
+DESPACHO
+MANDADO DE INJUNÇÃO. ALEGADA AUSÊNCIA DE NORMA REGULAMENTADORA DO ART. 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. INFORMAÇÕES. VISTA AO PROCURADOR-GERAL DA REPÚBLICA.
+Relatório
+    1. Mandado de injunção, com requerimento de liminar, impetrado por Marcos Antonio de Souza, em 14.11.2014, contra pretensa omissão legislativa imputada ao Presidente da República, ao Presidente da Câmara dos Deputados e ao Presidente do Senado Federal em regulamentar o art. 40, § 4º, inc. I, da Constituição da República.
+    2. O Impetrante afirma-se
+    “servidor público federal lotado na Superintendência de Fiscalização da Agência Nacional de Águas - ANA, desde 19 de dezembro de 2013, portador de deficiência auditiva moderada, cumpriu todos os requisitos para aposentadoria especial voluntária, conforme contagem de tempo de contribuição feita em processo administrativo da ANA (folha 38 do doc. 2) e com base no art. 40, § 4º, I, da Constituição Federal, Incluído pela Emenda Constitucional n. 47, de 2005, que assegura o direito à aposentadoria especial aos servidores portadores de deficiência” (fl. 2, doc. 2, grifos nossos).
+    Sustenta ser
+     “cabal a competência dessa colenda Corte para o julgamento do presente mandado de injunção, nos termos do artigo 102, inciso I, alínea ‘q’, da CF/88, pois a Lei Complementar a que alude o § 4º do artigo 40 da Lei Maior é de iniciativa privativa do Presidente da República, no caso de servidores públicos da União e Territórios. Por outro lado, conforme narrado anteriormente, por se tratar de Lei que abrangerá todos os entes da Federação, não se afasta a responsabilidade das demais autoridades legislativas impetradas que estão, solidariamente, em mora, no que se refere à consolidação de Lei Complementar conducente à efetivação do disposto no §4º do artigo 40 da CF” (fl. 5, doc. 2).
+    Requer “seja então deferida, com a urgência que o caso requer, a tutela de urgência pleiteada, para que v. Exa. determine a aplicação analógica da Lei 8.213/91 à hipótese dos autos, autorizando que o impetrante possa, de imediato, fluir o beneficio da aposentadoria especial” (fl. 17, doc. 2).
+    Pede
+    “seja concedida a ordem injuncional vindicada para confirmar, no mérito, a liminar postulada, tornando-a definitiva, declarando-se a omissão inconstitucional das autoridades impetradas em regulamentar o artigo 40, § 4º, inciso I, da CF/88, determinando-se, por consequência e em caráter mandamental, a aplicação analógica e provisória das regras atinentes à aposentadoria especial existentes na Lei 8.213/91, ou então em outro diploma legal considerado mais adequado, de modo a propiciar ao impetrante a fruição da aposentadoria especial garantida aos servidores públicos portadores de deficiência” (fl. 17, doc. 2).
+    3. Em 30.11.2014, indeferi a medida liminar pleiteada e determinei ao Impetrante comprovar ter sido seu requerimento de aposentadoria indeferido com fundamento na ausência da norma regulamentadora do art. 40, § 4º, inc. I, da Constituição da República (doc. 6), o que ocorreu em 14.12.2014 (docs. 9-15).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O mandado de injunção é garantia constitucional prestante, exclusivamente, a viabilizar direitos ou liberdades constitucionais, a soberania, a cidadania e a nacionalidade, quando não puderem ser exercidos por ausência de norma regulamentadora (art. 5º, inc. LXXI, da Constituição da República).
+    Pressupõe, portanto, a existência de preceito constitucional dependente da regulamentação por regra de categoria inferior na hierarquia dos tipos normativos.
+    5. Na espécie vertente, o Impetrante alega que a ausência da norma regulamentadora do art. 40, § 4º, inc. I, da Constituição da República tornaria inviável o exercício do seu direito à aposentadoria especial, pois os termos para sua aposentação deveriam ser definidos por lei complementar.
+    6. Notifiquem-se os Impetrados para, querendo, prestarem informações no prazo de dez dias (art. 24, parágrafo único, da Lei n. 8.038/1990 c/c art. 7º, inc. I, da Lei n. 12.016/2009 e art. 203 do Regimento Interno do Supremo Tribunal Federal).
+    7. Na sequência, vista ao Procurador-Geral da República (arts. 52, inc. IX, e 205 do Regimento Interno do Supremo Tribunal Federal e art. 103, § 1º, da Constituição da República).
+    Publique-se.
+    Brasília, 16 de dezembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
