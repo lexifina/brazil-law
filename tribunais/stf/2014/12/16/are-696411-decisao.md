@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 114, I e IX, da Constituição Federal. Insurge-se contra acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “COMPETÊNCIA DA JUSTIÇA DO TRABALHO. DEFINIÇÃO DAS PARCELAS QUE COMPÕEM A BASE DE CÁCULO DO IMPOSTO DE RENDA. Sendo pacífico que -a Justiça do Trabalho é competente para determinar o recolhimento das contribuições fiscais- e que estas incidem, -em relação aos descontos fiscais, sobre o valor total da condenação, referente às parcelas tributáveis, calculado ao final, nos termos da Lei nº 8.541, de 23.12.1992, art. 46 e Provimento da CGJT nº 01/1996- (itens I e II da Súmula 368 desta Corte, sem grifo no original), é evidente que a competência da Justiça do Trabalho abrange a questão relativa à definição de quais as verbas decorrentes da condenação integram a base de cálculo do imposto de renda. INCLUSÃO DOS JUROS DE MORA NA BASE DE CÁLCULO DO IMPOSTO DE RENDA. ART. 404 DO CÓDIGO CIVIL. A teor do art. 404 do Código Civil de 2002, os juros de mora compõem as perdas e danos decorrentes das obrigações de pagamento em dinheiro. Dessarte, independentemente da natureza da verba sobre a qual incidem, os juros de mora decorrentes da obrigação de pagamento em dinheiro de verbas salariais possuem natureza indenizatória, sendo indevida a sua inclusão na base de cálculo do imposto de renda. Precedentes. Recurso Ordinário a que se nega provimento”.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o entendimento do Tribunal de origem não destoa da orientação do Supremo Tribunal Federal que assim decidiu:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA, NOS TÍTULOS JUDICIAIS QUE PROLATAR, DEFINIR A INCIDÊNCIA OU NÃO DO DESCONTO DO IMPOSTO DE RENDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A Justiça Trabalhista, prolatora do título judicial, é competente para definir a incidência, ou não, dos descontos previdenciário e do imposto de renda. II - Agravo regimental a que se nega provimento” (ARE nº 696.358/SP-AgR, Segunda Turma, Relator o Ministro Ricado Lewandowski, DJe de 18/12/13 – grifei).
+    “COMPETÊNCIA - EXECUÇÃO - TÍTULO JUDICIAL TRABALHISTA - DESCONTOS PREVIDENCIÁRIO E DO IMPOSTO DE RENDA - CONTROVÉRSIA. Cumpre à própria Justiça do Trabalho, prolatora do título judicial e competente para a execução respectiva, definir a incidência, ou não, dos descontos previdenciário e para o imposto de renda” (RE nº 196.517/PR, Segunda Turma, Relator o Ministro Marco Aurélio, DJ de 20/4/01 – grifei).
+    No mesmo sentido, as seguintes decisões monocráticas: RE nº 831.554/PE, Relator o Ministro Marco Aurélio, DJe de 16/12/14; RE nº 691.104/RS, Relator o Ministro Luiz Fux, DJe de 3/2/14.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 16 de dezembro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
