@@ -1,0 +1,26 @@
+DECISÃO:
+Ementa: Habeas corpus impetrado contra decisão denegatória de liminar. Descabimento. Incidência da Súmula 691/STF. Habeas corpus não conhecido.
+    1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Richard de Souza Tibério, contra decisão monocrática de indeferimento de medida liminar proferida pelo Relator do HC 84.946/PR, do Tribunal Superior Eleitoral.
+    2. A decisão impugnada foi relatada nos seguintes termos:
+    O impetrante noticia que o Ministério Público do Estado do Paraná ofereceu denúncia em face do paciente pela prática de dez crimes em conexão instrumental, três dos quais tipificados no Código Eleitoral.
+    Nessa linha, relata que o Juízo da 5ª Vara Criminal de Londrina declarou-se incompetente para apreciar o feito, remetendo os autos à Justiça Eleitoral, cujo juízo, por sua vez, também se declarou incompetente para o julgamento da causa, devolvendo o feito à origem, em vez de suscitar o conflito de competência perante o Superior Tribunal de Justiça.
+    Afirma que, na sequência, os autos retornaram ao Juízo da 5ª Vara Criminal de Londrina, o qual reformou seu entendimento, sem provocação (violando o Sistema Acusatório), entendeu que era (novamente) competente para apreciar o feito: O JUIZ TITULAR REFORMOU A DECISÃO DO JUIZ SUBSTITUTO" (fl. 5). Sustenta que foram, nesse ponto, violados os princípios constitucionais da segurança jurídica, do devido processo legal e da confiança no sistema jurídico brasileiro.
+    Acrescenta que, após sucessivas decisões, o processo foi cindido, impossibilitando-lhe de suscitar a aplicação do princípio da consunção, uma vez que o art. 304 do Código Penal foi apreciado no Juízo Criminal, enquanto o art. 297 foi analisado no Juízo Eleitoral.
+    Assevera que o Juiz da 42ª Zona Eleitoral do Paraná é o Juízo competente para apreciar todos os crimes imputados, tendo se operado a preclusão consumativa para o Juízo da 5ª Vara Criminal de Londrina, a partir do momento em que se declarou incompetente para o julgamento do feito.
+    Defende que houve a aplicação de procedimento menos favorável ao acusado, impondo-se a nulidade processual pela realização do interrogatório como primeiro ato da instrução criminal, nos termos do art. 359 do Código Eleitoral, em detrimento da aplicação do art. 400 do Código de Processo Penal.
+    Informa que, do acórdão regional que manteve a decisão de primeira instância, interpôs recurso especial, o qual se encontra pendente de julgamento.
+    Assinala, ainda, que o Juiz da 42ª Zona Eleitoral determinou o recolhimento cautelar do paciente, o qual se encontra atualmente em regime aberto, fundamentando-se apenas na sua reincidência, sem estarem presentes quaisquer dos requisitos da custódia cautelar, previsto no art. 312 do CPP.
+    Requer a cassação, liminarmente, da ordem de prisão preventiva do paciente, bem como, ao final, do acórdão do TRE/PR que manteve a sentença condenatória proferida pelo Juízo da 42ª Zona Eleitoral.
+    3. No presente habeas corpus, o impetrante renova os pedidos aduzidos no writ impetrado ao TSE e requer “o reconhecimento da contaminação por nulidade de todos os atos posteriores à decisão da Juíza Oneide Negrão de Freitas, da 42ª Zona Eleitoral do Paraná”.
+    4. É o relatório do Min. Joaquim Barbosa ao indeferir a liminar. Prestadas as informações, a Procuradoria-Geral da República opinou pela denegação da ordem
+    Decido.
+    5. Inicialmente, ressalto que o Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (súmula 691/STF). No entanto, a aplicação do enunciado sumular vem sendo atenuada nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões carentes de fundamentação.
+    6. A situação retratada neste habeas corpus não se enquadra em nenhuma das hipóteses que permitem a superação do enunciado da súmula 691/STF. A prisão preventiva do paciente foi determinada para resguardar a ordem pública diante do risco de reiteração delitiva, de modo que, em linha de princípio, a fundamentação utilizada para justificar a custódia processual se alinha à jurisprudência do Supremo Tribunal Federal (Cf. HC 107.167, Rel. Min. Joaquim Barbosa).
+    7. Relativamente ao conflito de competência entre os juízos da 5ª Vara Criminal de Londrina e 42ª Zona Eleitoral do Paraná, a matéria já foi devidamente enfrentada no HC 120.453, de minha relatoria, o qual transcrevo o trecho pertinente:
+    (…) a leitura da documentação que instrui a inicial não permite o acolhimento da alegação de que existente o conflito negativo de competência suscitado perante o Superior Tribunal de Justiça. Isso porque, conforme observado pelo Relator do CC 122.081, “ambos [os Juízos] reconheceram a respectiva jurisdição, para processar e julgar, cada um, parte dos crimes objeto do atuado, já que entre eles não havia conexão”.
+    8. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990, c/c o art. 21, § 1º do RI/STF, não conheço da impetração.
+    Publique-se. Intimem-se.
+          Brasília, 16 de dezembro de 2014.
+Ministro LUÍS ROBERTO BARROSO
+Relator
+Documento assinado digitalmente
