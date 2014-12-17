@@ -1,0 +1,37 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL:
+REQUISITOS. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quinta Região:
+    “PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. COMPROVAÇÃO DA PRESTAÇÃO DE TEMPO DE SERVIÇO INSALUBRE. ELETRICIDADE. PRESUNÇÃO LEGAL. LEIS NS. 9.032/1995 E 9.528/1997. PROVA DOCUMENTAL. EXPOSIÇÃO À TENSÃO ELÉTRICA SUPERIOR A 250 VOLTS. DECRETOS NS. 53.831/1964, 83.080/1979 E 2.172/1997. ROL DE ATIVIDADES NOCIVAS MERAMENTE EXEMPLIFICATIVO. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS” (fl. 228).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega ter o Tribunal de origem contrariado os arts. 5º, inc. XXXVI, 195, § 5º, e 201, § 1º, da Constituição da República.
+    Sustenta que
+    “a autorização constitucional não é para o reconhecimento da especialidade nos casos em que existe mero risco – periculosidade, motivo pelo qual restando descaracterizada a situação de nocividade à saúde – insalubridade, não há falar na existência das condições especiais mencionadas no texto constitucional.
+    (…)
+    Ocorre que tal situação acaba por prejudicar o reconhecimento de tal período como sendo de natureza especial, dado que o fundamento posto no julgado ora recorrido não é suficiente e pertinente para tanto, dado que a Lei n. 7.369/85 trata apenas do direito à percepção de adicional de periculosidade pela exposição ao agente eletricidade, nada asseverando quanto aos efeitos previdenciários de tal situação.
+    (…)
+    O exercício de atividades com exposição à eletricidade não são nocivas à saúde – trata-se de agente periculoso. Logo, não incide o referido adicional” (fls. 252-264).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal de origem assentou que
+    “a aposentadoria especial é devida ao segurado da Previdência Social que tenha laborado durante 12, 20 ou 25 anos, conforme o caso, sujeito a condições especiais que prejudiquem a saúde ou a integridade física, nos termos do art. 27, caput, da Lei n. 8.213/91.
+    Compulsando os autos, verifico que o trabalho no período de 01/09/1979 a 05/07/1989 é especial por presunção legal, tendo em vista ser anterior à edição da Lei n. 9.032/95, dispensando-se a comprovação efetiva do segurado à ação nociva dos agentes causadores da insalubridade, da periculosidade e da penosidade da atividade profissional, bastando comprovar o exercício de uma das atividades previstas no anexo do Decreto n. 53.831/64 ou nos anexos I e II do Decreto n. 83.080/79. Há declaração do empregador à fl. 32, confirmando que o autor trabalhou como eletricista, e as anotações da CTPS corroboram, igualmente, as suas alegações.
+    Quanto ao período de 01/05/1989 a 11/02/2008, restou configurado o trabalho como eletricista, considerando os documentos anexados aos autos, quais sejam, as cópias da CTPS (fls. 35/40), o Perfil Profissiográfico Previdenciário – PPP (fls. 24/27 e 28/30), que demonstram que o autor estava exposto a risco de acidentes por eletricidade com tensão superior a 250 volts, de maneira habitual e permanente.
+    (…)
+    Saliente-se que o rol de atividades nocivas descritas nos decretos ns. 53.831/1964, 83.080/1979 e 2.172/1997 é meramente exemplificativo e, contrariamente ao alegado na peça recursal, a periculosidade não se encontra presente apenas nas empresas geradoras e distribuidoras de energia elétrica, mas também nos estabelecimentos onde o risco de exposição aos efeitos da eletricidade estão presentes.
+    (…)
+    Uma vez que o somatório dos períodos acima perfaz mais de 25 (vinte e cinco) anos, tem direito o autor à aposentadoria especial. A comprovação do tempo especial deverá ser efetuada de acordo com a legislação da época em que o serviço foi prestado” (fls. 220-226).
+    7. A apreciação do pleito recursal demandaria a análise da legislação infraconstitucional aplicável à espécie (Leis ns. 8.213/1991, 9.032/1995 e 9.528/1997 e Decretos ns. 53.831/1964, 83.080/1979 e 2.172/1997) e o reexame do conjunto fático-probatório constante do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONFIGURAÇÃO DA ESPECIALIDADE DA ATIVIDADE LABORAL. INVIABILIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 666.962-AgR, de minha relatoria, Primeira Turma, DJe 29.3.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL RURAL. BOIA-FRIA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. (LEI 8.213/91). INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. SÚMULA 279 DESTE TRIBUNAL. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, DJe de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, DJe de 08/09/10. 2. A Súmula 279/STF dispõe: “Para simples reexame de prova não cabe recurso extraordinário”. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. In casu, o acórdão recorrido assentou: A prova elencada nos autos é suficiente para demonstrar o direito ao benefício pleiteado. 5. Agravo regimental a que se nega provimento” (ARE 666.134-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 13.9.2012).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 806.029-AgR, de minha relatoria, Primeira Turma, DJe 26.11.2010).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de dezembro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
