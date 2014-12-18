@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO ADMINISTRATIVO. CONCURSO PÚBLICO. COMPROVAÇÃO DE DEFICIÊNCIA VISUAL. VAGA DESTINADA A CANDIDATOS PORTADORES DE DEFICIÊNCIA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA RESERVA DE PLENÁRIO. INEXISTÊNCIA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. RECURSO EXTRAORDINÁRIO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário interposto pela UNIÃO, manejado com arrimo na alínea a do permissivo Constitucional contra acórdão assim ementado, in verbis:
+    “MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CARGOS DE TÉCNICO E ANALISTA JUDICIÁRIO DO TJDFT. CANDIDATO PORTADOR DE SURDEZ UNILATERAL (ANACUSIA). CONDIÇÃO PARA CONCORRER ÀS VAGAS DESTINAS AOS PORTADORES DE NECESSIDADES ESPECIAIS. A surdez unilateral (ANACUSIA) não obsta o reconhecimento do caráter de portador de necessidades especiais. Precedentes do STJ e TJDFT.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos arts. 5º, caput, e 37, I, II da Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    O recurso não merece provimento.
+    A controvérsia foi decidida à luz da interpretação da legislação infraconstitucional pertinente (Decreto 3.298/1999) e com apoio no conjunto fático-probatório dos autos.
+    A jurisprudência desta Suprema Corte firmou-se no sentido de que a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário.
+    Demais disso, Não se revela cognoscível, em sede de Recurso Extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito, face ao óbice erigido pela Súmula 279/STF. Nesse sentido, em caso análogo ao dos autos, o ARE 768.402, Rel. Min. Dias Toffoli, Dje 5/11/2013; o AI 777.391-AgR, Rel. Min. Ellen Gracie, Segunda Turma, Dje 7/5/2010; e ARE 658.703-AgR, de minha relatoria, Primeira Turma, Dje 21/8/2012, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. COMPROVAÇÃO DE DEFICIÊNCIA PARA FINS DE OCUPAÇÃO DE VAGA DESTINADA AOS PORTADORES DE NECESSIDADES ESPECIAIS. VISÃO MONOCULAR. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF.
+    1. O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso extraordinário, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo o óbice da Súmula 282 do Supremo Tribunal Federal.
+    2. A violação indireta ou reflexa das regras constitucionais não enseja recurso extraordinário. Precedentes: AI n. 738.145 - AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Ministra CÁRMEN LÚCIA, 1ª Turma, DJ 18.03.11.
+    3. A Súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário.
+    4. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    5. In casu, o acórdão originariamente recorrido assentou: “AGRAVO INTERNO. Apelação Cível que enquadrou a hipótese à regra do art. 557 do CPC, negando seguimento ao recurso manifestamente improcedente. Agravo interno buscando a reforma da decisão prolatada. Razões de recurso falto de juridicidade e a infirmá-lo. Decisão confirmada. Desprovimento do agravo.”
+    6. Agravo regimental desprovido.”
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
