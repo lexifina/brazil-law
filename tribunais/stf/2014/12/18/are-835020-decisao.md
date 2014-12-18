@@ -1,0 +1,13 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ADEQUAÇÃO DOS TÍTULOS JUDICIAIS EXEQUENDOS ÀS DECISÕES DO SUPREMO TRIBUNAL FEDERAL. PARÁGRAFO ÚNICO DO ART. 741 DO CÓDIGO DE PROCESSO CIVIL. REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO VIRTUAL. RE 611.503-RG TEMA 360. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia sub examine, em que se discute a compatibilidade entre a garantia constitucional da coisa julgada e o parágrafo único do art. 741 do Código de Processo Civil, nos autos do RE 611.503-RG, Rel. Min. Ayres Britto, DJe 8/6/2011, Tema 360. A decisão restou assim ementada:
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ADEQUAÇÃO DOS TÍTULOS JUDICIAIS EXEQÜENDOS ÀS DECISÕES DO SUPREMO TRIBUNAL FEDERAL. PARÁGRAFO ÚNICO DO ART. 741 DO CÓDIGO DE PROCESSO CIVIL. COISA JULGADA. PRESENÇA DA REPERCUSSÃO GERAL NA QUESTÃO CONSTITUCIONAL DISCUTIDA.
+    Possui repercussão geral a questão constitucional atinente à compatibilidade entre a garantia constitucional da coisa julgada e o parágrafo único do art. 741 do Código de Processo Civil.”
+    In casu, o acórdão recorrido manteve, por seus próprios fundamentos, a decisão do Tribunal Regional do Trabalho que assentou:
+    “O Colegiado concluiu que a atual redação do parágrafo único do art. 741, do CPC c/c o inciso II, do mesmo dispositivo legal, relativizou a eficácia do instituto da coisa julgada, legalizando a sua inelegibilidade, quando alicerçada em interpretação da lei ou ato normativo tidas pelo STF como incompatíveis com a CF, ressalvando que o novel regime só gera efeitos a partir da vigência da MP 2.180-35/2001 de 24.08.2001. Logo, estando a decisão judicial envolvida pelo instituto da "res iudicata", anterior à referida data, só pode ser desconstituída via ação rescisória, sob pena de afronta ao art. 5°, XXXVI, da Lei Maior. Assim, não se configura a violação constitucional apontada.”
+    Verifica-se, portanto, que a matéria abordada pelo acórdão recorrido será examinada pelo Plenário desta Corte quando do julgamento de mérito do leading case supra mencionado.
+    Ex positis, PROVEJO o agravo, para desde logo, ADMITIR o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a devolução do feito ao Tribunal de origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 18 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
