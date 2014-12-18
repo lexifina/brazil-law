@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. PRESERVAÇÃO DO VALOR REAL DOS BENEFÍCIOS. INPC.
+    Se o constituinte delegou ao legislador infraconstitucional a tarefa de fixar os critérios para reajustamento dos benefícios, ainda que o indexador escolhido não retrate fielmente a realidade inflacionária (expressa em número de salários mínimos), não há como constatar qualquer inconstitucionalidade na Lei 8.213/91 e legislação subseqüente, com fundamento em violação ao princípio da preservação do valor real dos proventos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, III; 3º, III e IV; 194, IV; e 201, § 4º, da Constituição. Requer a reforma do acórdão recorrido, “ordenando-se o reajustamento do benefício previdenciário percebido pelo recorrente, ordenando-se a aplicação do INPC acumulado durante todo o Plano Real”.
+    O recurso extraordinário não deve ser provido, tendo em vista que o Plenário desta Corte, ao apreciar o ARE 808.107, Rel. Min. Teori Zavascki, reconheceu a existência de repercussão geral da questão constitucional suscitada e reafirmou a jurisprudência dominante sobre a matéria em discussão neste processo. Veja-se, nesse sentido, a ementado julgado (Tema 728):
+    “PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIOS. ÍNDICES DE CORREÇÃO MONETÁRIA RELATIVOS AOS ANOS DE 1997, 1999, 2000, 2001, 2002 E 2003. CONSTITUCIONALIDADE. PERCENTUAIS SUPERIORES AO ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR (INPC). REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DA JURISPRUDÊNCIA.
+    1. O Plenário do Supremo Tribunal Federal, no julgamento do RE 376.846, rel. Min. CARLOS VELLOSO, DJ de 02-04-2004, afastou a alegação de inconstitucionalidade das normas que fixaram os índices de correção monetária de benefícios previdenciários empregados nos reajustes relativos aos anos de 1997, 1999, 2000 e 2001, que foram de um modo geral superiores ao INPC e observaram os comandos normativos de regência.
+    2. Tratando-se de situações semelhantes, os mesmos fundamentos são inteiramente aplicáveis aos índices de reajuste relativos aos anos de 2002 e 2003.
+    3. Incabível, em recurso extraordinário, apreciar violação ao art. 5º, XXXV e XXXVI, da Constituição Federal, que pressupõe intermediário exame e aplicação das normas infraconstitucionais pertinentes (AI 796.905-AgR/PE, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19.8.2011).
+    4. Agravo a que se conhece para, desde logo, negar seguimento ao recurso extraordinário, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria.”
+    Ademais, a jurisprudência do Supremo Tribunal Federal já assentou que a definição de critérios para assegurar o reajustamento dos benefícios, de modo a preservar o seu valor real, trata-se de matéria infraconstitucional (AI 543.804-AgR, Rel.ª Min.ª Ellen Gracie).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de dezembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
