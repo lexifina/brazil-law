@@ -1,0 +1,15 @@
+Decisão: Por petição protocolizada em 10/12/2014, Onça Pintada Aviação Agrícola Ltda. e Daniela Roetger Manfrão, na qualidade de sucessores de Waldomiro Marin, noticiam a dificuldade enfrentada para fazer cumprir o mandado de reintegração na posse já deferido nos autos de ação possessória em trâmite na Comarca de Posse/GO.
+    Ao final, os requerentes pugnam pela necessidade de o cumprimento do mandado de reintegração na posse expedido pelo juízo de Direito da Comarca de Posse ser determinado pelo relator desta ação originária, a fim de evitar eventuais conflitos, especialmente entre as polícias do estado de Goiás e da Bahia.
+    É o breve relato. Decido.
+    Ao longo do voto proferido quanto ao mérito desta ação, restou assentado ser incumbência dos magistrados que presidem as ações possessórias decidir sobre disputas de posse e de propriedade e fazer cumprir as suas decisões, verbis:
+    Demarcados os limites territoriais entre os Estados, determino que sejam preservados os títulos de posse e de propriedade anteriormente definidos, sendo que eventuais disputas de posse e de propriedade relativas às áreas delimitadas não serão decididas por este Supremo Tribunal, mas em ação própria no juízo competente.
+    Nesse pormenor, não é tarefa do Supremo Tribunal Federal impor às autoridades administrativas que decisões proferidas por juízes de primeiro grau sejam devidamente cumpridas. Na hipótese de surgimento de conflito na execução dos mandados de reintegração de posse, caberá à autoridade judicial que proferiu a decisão fazer valer o seu comando, impondo às autoridades administrativas competentes as sanções cabíveis por eventual descumprimento, bem como requisitar força policial, nos termos do que autorizado pelo artigo 579 do Código de Processo Civil, verbis:
+    Art. 579. Sempre que, para efetivar a execução, for necessário o emprego da força policial, o juiz a requisitará.
+    Portanto, havendo necessidade de atuação da Força Nacional de Segurança, tal como relatado pelos requerentes, poderá o magistrado local proceder, de acordo com a sua livre convicção motivada e se entender necessário, nos termos do que prevê o Decreto nº 5.289/04 (Art. 4º: A Força Nacional de Segurança Pública poderá ser empregada em qualquer parte do território nacional, mediante solicitação expressa do respectivo Governador de Estado, do Distrito Federal ou de Ministro de Estado). Em arremate, cumpre aduzir que é da competência do juízo de primeiro grau fazer cumprir suas decisões sobre áreas abrangidas por este processo com plena observância dos limites territoriais definidos nesta ação e dos parâmetros estabelecidos, verbi gratia, na ementa do julgado.
+    Ex positis, nada a prover quanto ao requerido na petição protocolizada por Onça Pintada Aviação Agrícola Ltda. e Daniela Roetger Manfrão em 10/12/2014.
+    Publique-se.
+    Oficie-se ao Juízo da Comarca de Posse/GO, a fim de que tome conhecimento desta decisão.
+    Brasília, 18 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
