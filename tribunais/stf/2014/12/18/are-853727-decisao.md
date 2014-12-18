@@ -1,0 +1,12 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. INDENIZAÇÃO POR DANO MORAL. IMUNIDADE PARLAMENTAR. ALCANCE. REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO VIRTUAL. RE 600.063-RG. TEMA 469. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia sub examine, em que se discute, à luz do art. 29, VIII, da Constituição Federal, o alcance da imunidade parlamentar, nos autos do RE 600.063-RG, Rel. Min. Marco Aurélio, Plenário Virtual, Tema 469, DJe de 28/9/2011. A decisão restou assim ementada:
+    “IMUNIDADE – VEREADOR – DISCURSO PROFERIDO EM SESSÃO DA CÂMARA – ALEGAÇÃO DE OFENSA AO ARTIGO 29, INCISO VIII, DA CONSTITUIÇÃO FEDERAL – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral o tema relativo ao alcance da imunidade parlamentar – prevista no artigo 29, inciso VIII, da Carta Maior – presentes opiniões, palavras e votos lançados da tribuna da Casa Legislativa.”
+    In casu, o acórdão recorrido restou assim ementado:
+    “RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. OFENSAS. DANO MORAL. Caso em que o autor alega ter sido ofendido pelos réus OSNIR e JOÃO. O primeiro pelo discurso feito na tribuna da Câmara de Vereadores de Vacaria; o o último pelas palavras utilizadas na redação de uma contestação em outra demanda envolvendo o APELANTE e OSNIR. Discurso proferido fora do contexto do exercício do mandato de vereador. Imunidade afastada. Oratória que mais uma vez se mostrou à honra e ao decoro da parte autora. Dano moral in re ipsa. Ausente sistema de tarifamento, a fixação do montante indenizatório ao dano extrapatrimonial está adstrita ao prudente arbítrio do juiz [R$ 2.000,00]. Afirmações irrogadas pelo apelado JOÃO, advogado no exercício de sua profissão, que não ultrapassaram o exercício de retórica permitido à defesa em litígio judicial. Pretensão de reparação civil afastada. PROVERAM EM PARTE O RECURSO. UNÂNIME.”
+    Verifica-se, portanto, que a matéria abordada pelo acórdão recorrido será examinada pelo Plenário desta Corte quando do julgamento de mérito do leading case supramencionado.
+    Ex positis, PROVEJO o agravo para, desde logo, ADMITIR o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determinando a devolução do feito ao Tribunal de origem, para que seja observado o disposto no artigo 543-b do Código de Processo Civil.
+    Publique-se.
+    Brasília, 18 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
