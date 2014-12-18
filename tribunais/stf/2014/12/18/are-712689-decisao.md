@@ -1,0 +1,14 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. CONTRIBUIÇÃO PREVIDÊNCIÁRIA DE SERVIDORES INATIVOS DURANTE A VIGÊNCIA DA EC Nº 20/1998. EXPEDIÇÃO DE PRECATÓRIO. RETENÇÃO NA FONTE DO IMPOSTO DE RENDA SOBRE OS VALORES ACUMULADOS E DE NOVA CONTRIBUIÇÃO PREVIDENCIÁRIA COM BASE EM LEGISLAÇÃO MUNICIPAL POSTERIOR À EDIÇÃO DA EC Nº 41/2003. DESCONTOS CONSIDERADOS INDEVIDOS. EXPEDIÇÃO DE PRECATÓRIO COMPLEMENTAR. RAZÕES RECURSAIS DESENVOLVIDAS SOMENTE SOB O ENFOQUE DO PRINCÍPIO DA LEGALIDADE. NECESSIDADE DE EXAME DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA À CONSTITUIÇÃO. SÚMULA Nº 636/STF. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos interposto pelo Município de Santos, com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “Agravo de instrumento. Servidor público. Processo de conhecimento vertendo a negativa de relação jurídica quanto à contribuição providenciaria – Execução do título judicial, pretensão de desconto de contribuição previdenciária, assim como de imposto de renda sobre o valor total, sem apartamento das parcelas – Impossibilidade – A contribuição previdenciária pós EC n. 41/03 guarda aplicação tão-só quanto a fato gerador futuro, ou contemporâneo à edição, não atingindo fatos pretéritos, tal como na hipótese – A incidência de imposto de renda se sucede quanto ao mês do desconto, aplicando-se faixa de isenção se o caso, não sendo correto lançar o valor total a título de base de cálculo – Decisão mantida. Nega-se provimento ao recurso interposto.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, II, da Constituição Federal. Alega, em síntese, que o acórdão recorrido contrariou o disposto nos artigos 46 da Lei Federal nº 8.541/1992; e 15, § 1º, da Lei Complementar Municipal nº 592/2006.
+    O Tribunal de origem negou seguimento ao recurso extraordinário por entender que a matéria possui índole infraconstitucional.
+    É o relatório. DECIDO.
+    O agravo não merece provimento.
+    O princípio constitucional da legalidade, quando debatido sob a ótica da aplicação da lei ao caso concreto, revela violação meramente reflexa e oblíqua da Constituição Federal, pois demanda a análise de malferimento de dispositivo infraconstitucional, o que torna inadmissível o recurso extraordinário, a teor da Súmula nº 636/STF, verbis: “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de dezembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
