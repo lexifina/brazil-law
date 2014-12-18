@@ -1,0 +1,13 @@
+Trata-se de agravo regimental contra decisão que negou seguimento ao recurso extraordinário com agravo sob o fundamento de sua intempestividade.
+    Bem examinados os autos, verifico que o presente recurso foi interposto intempestivamente.
+    Isso porque a decisão agravada foi publicada em 9/9/2014, porém a petição original do agravo regimental foi protocolizado apenas em 25/9/2014, após o decurso do prazo adicional de 5 dias previsto no art. 2º da Lei 9.800/99. Intempestivo, portanto, o recurso.
+    Embora a parte agravante tenha encaminhado, via fac-símile, a petição recursal dentro do prazo legal, os originais foram apresentados após o período do prazo adicional, conforme preconiza o art. 2º da Lei 9.800/1999.
+    Com efeito, a jurisprudência desta Corte é firme no sentido de que, em se tratando de recurso interposto por fax, ele só será tempestivo se o seu original entrar em seu protocolo dentro do prazo adicional a que se refere a Lei 9.800/99 . Nesse sentido confira-se o seguinte precedente:
+    “CONSTITUCIONAL. TRABALHISTA. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PETIÇÃO INTERPOSTA VIA FAX. ORIGINAIS NÃO APRESENTADOS NO PRAZO ADICIONAL DE CINCO DIAS. RECURSO INEXISTENTE. I - Conforme entendimento desta Corte, é inexistente o recurso quando, interposto por fac-símile, não apresentada a petição original. II - É dever processual da parte zelar pela correta formação do instrumento. III - Agravo regimental improvido.” (AI 703.629-AgR/SP, de minha relatoria)
+    Observe-se, ademais, que o prazo previsto no art. 2º da lei 9.800/1990 é improrrogável e contínuo. Nesse sentido:
+    “EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PETIÇÃO DE AGRAVO REGIMENTAL APRESENTADA VIA FAC-SÍMILE. ORIGINAIS ENTREGUES FORA DO PRAZO -- IMPRORROGÁVEL E CONTÍNUO -- PREVISTO NA LEI Nº 9.800/99. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. Não padece de omissão o acórdão proferido de forma clara, precisa e suficientemente fundamentada. O acórdão embargado encontra-se em conformidade com a jurisprudência desta colenda Corte, no sentido de que o prazo previsto no art. 2º da Lei nº 9.800, de 16.05.1999, é improrrogável e contínuo. Precedentes: AIs 586.340-AgR e 421.944-AgR-ED-ED, de minha relatoria; AI 394.934-AgR-ED, Relator o Ministro Carlos Velloso; HC 88.894, Relator o Ministro Cezar Peluso; e AI 489.405-AgR, Relator o Ministro Sepúlveda Pertence. Embargos rejeitados.” (AI 510.418 AgR-ED/SC, Rel. Min. Ayres Britto).
+    Isso posto, não conheço do agravo regimental (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de dezembro de 2014.
+Ministro Ricardo Lewandowski
+Presidente
