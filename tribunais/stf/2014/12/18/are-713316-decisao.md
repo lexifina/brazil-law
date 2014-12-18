@@ -1,0 +1,33 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. PROIBIÇÃO DE CONFISCO. MULTA. ÍNDICE. ARGUMENTAÇÃO GENÉRICA. RAZÕES RECURSAIS DEFICIENTES. INCIDÊNCIA DA SÚMULA Nº 284/STF. CORREÇÃO MONETÁRIA. INEXISTÊNCIA DE ÓBICE NO ART. 150, IV, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos interposto por COMERCIAL DE MÓVEIS HARTER LTDA, com fundamento no artigo 544 do Código de Processo Civil, visando a reforma da decisão que não admitiu seu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão cuja ementa tem o seguinte teor:
+    “DIREITO TRIBUTÁRIO. IMPOSTOS. ICMS. EMBARGOS À EXECUÇÃO FISCAL.
+    Nulidade da CDA. Inocorrência.
+    Apelo improvido” (pág. 22 do documento eletrônico 3).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta ofensa ao disposto no artigo 150, IV, da Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece prosperar o agravo.
+    Consta no acórdão recorrido a seguinte conclusão acerca da multa (fls. 48 do Doc. 04):
+    “Segundo, no que pertine à multa, o percentual cobrado é autorizado pela Legislação Estadual e decorre do inadimplemento, servindo como desestímulo à sonegação ou à falta de pagamento.
+    Terceiro, regularmente prevista em lei a incidência da correção monetária sobre a multa, conforme consta dos títulos, a exclusão pretendida conduziria ao locupletamento da embargante com o pagamento inferior ao efetivamente devido.”
+    Desta feita, o artigo 150, IV, da Constituição não foi devidamente debatido no acórdão recorrido. Além disso, não foram opostos embargos de declaração para sanar eventual omissão, faltando, ao caso, o necessário prequestionamento da questão constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incide, portanto, o óbice das Súmulas nºs 282 e 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.”
+    A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: 'quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela'.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+    Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (ROSAS, Roberto, in Direito Sumular, Malheiros).
+    Além disso, ainda que afastado esse óbice, verifico que tanto no acórdão recorrido quanto nas razões do recurso não foram indicados o fundamento legal e o percentual ou valor da multa aplicada no autos. O recorrente também não argumentou sobre eventual desproporcionalidade no caso em concreto, se limitando a apresentar afirmações genéricas sobre a inconstitucionalidade de penalidades desarrazoadas.
+    Assim, verifico que as razões do apelo extremo não são suficientemente compreensíveis a ponto de permitir a análise de argumentos contrários ao acórdão recorrido, o que caracteriza a deficiência na sua fundamentação. Essa deficiência faz incidir o óbice da Súmula nº 284 do STF, verbis: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas acerca da Súmula nº 284/STF, na qual faz referência à Súmula nº 287/STF:
+    “Qualquer recurso deve ter fundamentação razoável para que o juiz possa apreciá-lo (RE 78.873, RTJ 76/814; 70.143, RTJ 77/467). Ver Súmula 287” (ROSAS, Roberto, in Direito Sumular, 14ª ed., São Paulo, Malheiros).
+    Nesse sentido, destaco o julgamento do ARE 798.321-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, Dje 29/4/2014.
+    É certo, ainda, na jurisprudência desta Corte, que a simples correção monetária do débito tributário – incluindo a multa aplicada –, por si só, não encontra óbice na regra constitucional que proíbe utilizar tributo com efeito de confisco. Eventual ofensa a esse princípio seria do aspecto econômico do próprio tributo e não da atualização do valor devido.
+    Adotando esse raciocínio, registro os seguintes precedentes: RE 385.337-AgR, Rel. Min. Dias Toffoli, 1ª Turma, Dje 9/9/2013, RE 388.312, Rel. para o acórdão Min. Cármen Lúcia, Tribunal Pleno, Dje 11/10/2011, AI 466.398-AgR, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 17/12/2004.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de dezembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
