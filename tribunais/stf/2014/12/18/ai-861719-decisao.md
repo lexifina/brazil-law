@@ -1,0 +1,19 @@
+AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. VANTAGEM PESSOAL. MATÉRIA DISCUTIDA NA VIA ORDINÁRIA PELO ENFOQUE INFRACONSTITUCIONAL. OFENSA AO TEXTO CONSTITUCIONAL QUE, SE EXISTENTE, APENAS SERIA INDIRETA OU REFLEXA, O QUE NÃO ENSEJA A ABERTURA DESTA VIA PROCESSUAL EXTRAORDINÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS TIDOS POR VIOLADOS. NECESSÁRIO REEXAME DO DIREITO LOCAL APLICÁVEL AO CASO. PROVIDÊNCIA DESCABIDA NESTE MOMENTO PROCESSUAL. INCIDÊNCIA DAS SÚMULAS Nº 280, 282 E 356/STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+    Decisão: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto pelo Estado de Mato Grosso do Sul, com base no art. 103, III, “a”, do texto constitucional, em face de acórdão proferido pela Terceira Turma Cível do Tribunal de Justiça de Mato Grosso do Sul, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIO C/C COBRANÇA – CUMULATIVIDADE DO ADICIONAL DE FUNÇÃO COM VANTAGEM PESSOAL – BENEFÍCIOS DISTINTOS – IRREDUTIBILIDADE DE VENCIMENTO – ILEGALIDADE CARACTERIZADA – RECURSO PROVIDO.
+    A vantagem pessoal pleiteada nada mais é do que a diferença de remuneração de vencimentos do cargo antigo e do novo, a fim de evitar sua redução (princípio da irredutibilidade dos vencimentos), em razão do reenquadramento do cargo em função do Plano de Cargos, Empregos e Carreiras do Poder Executivo, enquanto o adicional de função foi concedido em virtude de determinada função, ou seja, trata-se de benefícios distintos, o que permite seu recebimento cumulativo, até mesmo porque o ato que vedou tal cumulatividade deu-se por Decreto do Governador do Estado, que transpôs os limites da lei que regulamentava a reestruturação dos cargos, norma hierarquicamente superior.”
+    Em suas razões, o recorrente alega ter havido violação aos arts. 2º, art. 5º, XXXV e XXXVI, 18, e 37, caput e incisos X e XV, 61, §1º, e 169, todos da Constituição Federal.
+    O recurso foi inadmitido na origem em razão de ausência de prequestionamento e, na parte prequestionada, porque o recurso demandaria prévio exame de legislação municipal.
+    Ante tal decisão, o recorrente apresentou o recurso de agravo no qual sustenta o cabimento do recurso.
+    Vieram-me os autos conclusos.
+    É o relatório. Passo a decidir.
+    Tenho que o agravo não merece prosseguir.
+    Ab initio, anoto que quase todos os dispositivos constitucionais tidos por violados não foram debatidos durante a via ordinária, não se verificando, in casu, o requisito do prequestionamento. Incide, portanto, o óbice das Súmulas nº 282 e 356 do STF, segundo as quais: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+    Ademais, percebo que durante toda a via ordinária, a controvérsia foi analisada exclusivamente sob a ótica da legislação infraconstitucional atinente à matéria. Desse modo, eventual ofensa ao texto constitucional, se existente, apenas se daria de modo indireto ou reflexo, o que não enseja a abertura desta via recursal extraordinária.
+    Por fim, tenho que dirimir a controvérsia suscitada no recurso demandaria o revolvimento da legislação local (Leis estaduais nº 2.065/99 e nº 2.120/00, além do Decreto estadual nº 10.440/01), providência descabida neste momento processual. Desse modo, é de incidir o óbice da Súmula nº 280/STF, segundo a qual “Por ofensa a direito local não cabe recurso extraordinário”.
+    Ex positis, DESPROVEJO o agravo, nos termos do art. 21, § 1º, do RISTF, bem como art. 557, caput, do CPC.
+    Publique-se. Int..
+    Brasília, 18 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
