@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Rondônia, do qual se extrai o seguinte trecho (fls. 251):
+    “APELAÇÃO: APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. REGIME SUPLEMENTAR PARA PROFESSORES REALIZADO COM BASE EM PERMISSIVO GENÉRICO CONSTANTE DA LEI MUNICIPAL N.º 9.337/2004. SITUAÇÃO QUE CONFIGURA SERVIÇO EXTRAORDINÁRIO. PAGAMENTO DE HORAS EXTRAS NÃO REALIZADO PELO MUNICÍPIO. ILEGALIDADE COMETIDA PELO ENTE PÚBLICO POR OFENSA AO DISPOSTO NA LEI MUNICIPAL N.º 4.928/1992 (ESTATUTO DOS SERVIDORES). CONDENAÇÃO DEVIDA.APLICAÇÃO DO DISPOSTO NOS ARTIGOS 188, § 1º, 150 E 183 DO ESTATUTO DOS SERVIDORES. CORREÇÃO MONETÁRIA. INCIDÊNCIA DO INPC DO IBGE A PARTIR DE CADA VENCIMENTO. JUROS DE MORA DE 0,5% AO MÊS A PARTIR DA CITAÇÃO. ENTRADA EM VIGOR DA LEI N.º 11.690/2009. INCIDÊNCIA DOS ÍNDICES OFICIAIS DE REMUNERAÇÃO BÁSICA E JUROS APLICADOS À CADERNETA DE POUPANÇA. RECURSO PARCIALMENTE PROVIDO.
+    RECURSO ADESIVO:
+    APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. REGIME SUPLEMENTAR PARA PROFESSORES. PEDIDO DE INCLUSÃO DO ADICIONAL POR TEMPO DE SERVIÇO NA BASE DE CÁLCULO DA HORA EXTRA. POSSIBILIDADE. ADICIONAL POR TEMPO DE SERVIÇO QUE INTEGRA A REMUNERAÇÃO DO SERVIDOR E, PORTANTO, A BASE DE CÁLCULO DAS HORAS EXTRAS. APLICAÇÃO DO DISPOSTO NOS ARTIGOS 141 E 188, § 1º DO ESTATUTO DOS SERVIDORES. REFLEXOS DAS HORAS EXTRAS SOBRE FÉRIAS, 13º SALÁRIO E LICENÇAS-PRÊMIO. POSSIBILIDADE DE ACORDO COM O ESTATUTO DOS SERVIDORES PÚBLICOS.
+    RECURSO PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, e 37, caput e XIV, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que eventual violação ao texto constitucional somente ocorreria de maneira indireta ou reflexa.
+    O recurso extraordinário não deve ser provido. Nota-se que o Tribunal de origem conferiu à ora recorrida o direito a perceber as horas extras em atraso e ter integrado ao salário-base o adicional por tempo de serviço. Dissentir dessa conclusão exigiria a análise da legislação local pertinente e dos fatos e provas colacionados aos autos, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. Nessa linha, vejam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. POLICIAIS CIVIS QUE TRABALHAM EM REGIME DE PLANTÃO. HORAS EXTRAS. SÚMULAS 279 E 280/STF.
+    Caso em que a resolução da controvérsia demandaria a análise da legislação local e o reexame dos fatos e provas constantes nos autos. Providências vedadas em recurso extraordinário. Incidência das Súmulas 279 e 280/STF. Precedentes.
+    Agravo regimental a que se nega provimento.” (AI 743028-AgR, julgado sob minha relatoria, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. HORAS EXTRAS E ADICIONAL NOTURNO. BASE DE CÁLCULO. DEFINIÇÃO DE REMUNERAÇÃO. LEGISLAÇÃO ESTADUAL. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 728809-AgR, Rel.ª Minª Cármen Lúcia, Segunda Turma)
+    Outros precedentes em caso análogo ao dos autos: ARE 829.676, Rel. Min. Luiz Fux; ARE 816.081, Rel.ª Min.ª Cármen Lúcia; e AI 806.360, Rel. Min. Gilmar Mendes.
+    Ademais, em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 18 de dezembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
