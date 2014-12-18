@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA. INEXISTÊNCIA DE VIOLAÇÃO DIRETA AO TEXTO CONSTITUCIONAL, A QUAL, SE EXISTENTE, APENAS SE DARIA DE MODO REFLEXO, O QUE INVIABILIZA A ABERTURA DESTA VIA RECURSAL EXTRAORDINÁRIA. AUSÊNCIA DE REPERCUSSÃO GERAL AFIRMADA PELO PLENÁRIO DESTE TRIBUNAL. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS CONSTITUCIONAIS TIDOS POR VIOLADOS. INCIDÊNCIA DAS SÚMULAS Nº 282 E Nº 356, AMBAS DO STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+    Decisão: Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto por Champion Farmoquímico Ltda., com fundamento no art. 102, III, “a”, do texto constitucional, em face de acórdão prolatado pela Sexta Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “APELAÇÃO CÍVEL. ADMINISTRAÇÃO. ATO ADMINISTRATIVO. LICENÇA PARA FABRICAÇÃO DE MEDICAMENTO VETERINÁRIO. PORTARIA. MINISTÉRIO DA AGRICULTURA N. 301/96.
+    1. Embora a Portaria 301/96 do Ministério da Agricultura assegure o direito à contraprova em caso de laudo desfavorável à empresa detentora de licença para fabricação de medicamento veterinário, a violação de tal direito não tem como conseqüência o cancelamento do ato administrativo, e a conseqüente autorização de venda de produto considerado nocivo à saúde dos rebanhos nacionais, tendo em vista o princípio da precaução e da primazia do interesse público, que deve imperar em matérias relativas à saúde e ao meio ambiente.
+    2. A conseqüência da ilegalidade seria a determinação de que fosse corretamente conduzido o procedimento, com a realização da necessária contraprova, administrativamente ou mediante perícia judicial, providência esta que foi frustrada pela própria Autora, que desistiu da ação ordinária ajuizada contemporaneamente à época dos fatos, dias após a determinação pelo juízo de que fosse feita a referida prova, e somente ajuizou a presente ação após o fim do prazo de validade das amostras colhidas para a realização da contraprova.
+    3. Apelação a que se nega provimento.”
+    O recorrente alega que houve lesão aos incisos LIV e LV do art. 5º do texto constitucional.
+    Em contrarrazões, a União a inexistência de repercussão geral e a ausência de ofensa direta ao texto constitucional, postulando que se negasse seguimento ao recurso.
+    O recurso foi inadmitido na origem, sob o fundamento de que o Supremo Tribunal Federal já firmou o entendimento de que “a alegação de ofensa aos princípios da legalidade, do devido processo legal, do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios do contraditório, dos limites da coisa julgada e da prestação jurisdicional pode configurar, quando muito, situação de ofensa meramente reflexa ao texto da Constituição Federal, não viabilizando o recurso extraordinário”.
+    Ante tal decisão, a recorrente, ora agravante, apresentou o recurso de agravo, pelo qual procura rebater os fundamentos da decisão agravada.
+    No Superior Tribunal de Justiça, o recurso especial foi desprovido.
+    Vieram-me os autos conclusos.
+    É o relatório. Passo a decidir.
+    Tenho que o agravo não merece provimento.
+    Isso porque o Plenário desta Corte, no julgamento do no ARE 748.371-RG, rel. Min. Gilmar Mendes, Pleno DJe de 01/08/2013, firmou o entendimento de que a suposta violação aos princípios do contraditório e ampla defesa, se existente, apenas se daria de modo indireto e reflexo, já que dependente de prévio revolvimento da legislação infraconstitucional, providência descabida nesta via recursal extraordinária. Na ocaisão, rejeitou-se a existência de repercussão geral do tema.
+    Veja-se, a propósito, a ementa do julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, anoto que, os dispositivos constitucionais tidos por violados não foram debatidos durante a via ordinária, não se verificando, in casu, o requisito do prequestionamento. Incide, portanto, o óbice das Súmulas nº 282 e 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+    Ex positis, nego provimento ao agravo, nos termos do art. 21, §1º do Regimento Interno do STF, bem como do art. 557, caput, do CPC.
+    Publique-se. Int..
+    Brasília, 18 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
