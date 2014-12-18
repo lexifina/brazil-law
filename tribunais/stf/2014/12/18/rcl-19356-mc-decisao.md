@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, na qual se sustenta que o ato ora questionado – emanado da colenda Segunda Turma Recursal dos Juizados Especiais do Estado do Acre – teria desrespeitado o enunciado constante da Súmula Vinculante nº 37/STF, que possui o seguinte teor:
+    “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.”
+    Aduz, em síntese, a parte reclamante, para justificar a alegada transgressão ao referido enunciado vinculante, as seguintes considerações:
+    “(...) impõe-se a cassação parcial do acórdão a fim de que as férias sejam contabilizadas em 30 (trinta) dias e não em 45 (quarenta e cinco). Isso porque a Lei Complementar Estadual 67/1999, que institui de forma restrita a benesse das férias estendidas, não se revela aplicável no tocante aos professores temporários, não sendo lícito ao Judiciário fazê-lo valendo-se exclusivamente da isonomia, sob pena de afronta à Súmula Vinculante nº 37 e, ainda, ao artigo 2º da Constituição Federal.” (grifei)
+    Sendo esse o contexto, passo a apreciar o pedido de medida liminar. E, ao fazê-lo, entendo, em juízo de estrita delibação, que não se acham presentes os requisitos autorizadores da concessão do provimento cautelar deduzido pela parte reclamante.
+    Como se sabe, o deferimento da medida liminar, resultante do concreto exercício do poder cautelar geral outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar.
+    Cumpre destacar, por oportuno, no sentido ora exposto e ante a inquestionável procedência de suas observações, a decisão proferida pelo eminente Ministro TEORI ZAVASCKI (Rcl 16.041/SP):
+    “2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, de modo a garantir a efetividade do resultado de futuro e provável juízo de procedência. O requisito da urgência, entretanto, não se encontra presente. É que não há nos autos nenhuma demonstração de risco de dano irreparável, a justificar a indispensabilidade da medida liminar pleiteada. Ademais, não consta da petição inicial nenhum capítulo que justifique a necessidade de medida urgente, com o necessário detalhamento da situação fática que implique perigo de dano irreversível, mas apenas pedido protocolar de liminar ao fim da peça processual.
+    3. Ante o exposto, indefiro a liminar.” (grifei)
+    Impende referir, finalmente, que o eminente Ministro LUIZ FUX, defrontando-se com controvérsia jurídica idêntica à ora em exame, denegou pedido de medida liminar formulado em sede reclamatória pelo Estado do Acre (Rcl 19.242-MC/AC).
+    Sendo assim, em juízo de estrita delibação e sem prejuízo de ulterior reexame da pretensão mandamental deduzida na presente sede processual, indefiro o pedido de medida liminar.
+    Publique-se.
+    Brasília, 18 de dezembro de 2014.
+Ministro CELSO DE MELLO
+Relator
