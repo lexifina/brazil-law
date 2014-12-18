@@ -1,0 +1,18 @@
+Decisão:
+Ementa: Habeas corpus impetrado de decisão denegatória de provimento cautelar. Descabimento. Súmula 691/STF. Estelionato. Dosimetria da pena. Regime inicial. Direito de recorrer em liberdade. Inexistência de contrariedade à jurisprudência do Supremo Tribunal Federal. Habeas corpus não conhecido.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a medida cautelar no HC 310.573, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 2 (dois) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, pelo crime previsto no artigo 171, caput, do Código Penal, vedado o direito de recorrer em liberdade.
+    3. O Tribunal de Justiça do Estado de São Paulo negou provimento à apelação da defesa.
+    4. Do acórdão estadual, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 310.573, Ministro Jorge Mussi, indeferiu a medida liminar.
+    5. Neste habeas corpus, a parte impetrante sustenta (i) a inexistência de fundamentação idônea para a imposição da pena em patamar acima do mínimo legal, (ii) a possibilidade da fixação do regime inicial aberto, e (iii) a ausência dos requisitos necessários para a vedação do direito de recorrer em liberdade. Daí requerer a redução da pena imposta ao paciente e a fixação do regime inicial aberto, bem como seja assegurado ao acusado o direito de permanecer em liberdade até o trânsito em julgado da condenação.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. No caso de que se trata, não enxergo teratologia, ilegalidade flagrante ou abuso de poder que autorize a superação do entendimento consolidado na Súmula 691/STF. Em primeiro lugar, porque a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias analisar os dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, limitando-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    8. Por outro lado, a sentença condenatória, ao fixar o regime inicial semiaberto, fez expressa referência a circunstâncias judiciais previstas no artigo 59 do Código Penal desfavoráveis ao paciente (CP, art. 33, § 3º). O que inviabiliza a rediscussão da matéria na via processualmente restrita do habeas corpus.
+    9. Ademais, o Juízo de origem vedou o direito do paciente de recorrer em liberdade sob o fundamento de que, “considerando que o réu tentou frustar a instrução, tanto que não compareceu a qualquer ato processual, temos que, por certo, sua liberdade também colocará em risco a aplicação da pena”. Tais fundamentos impossibilitam a supressão de instância requerida na impetração.
+    10. Diante do exposto, com base no art. 38 da Lei nº 8.038/90 e no art. 21, §1º, do RI/STF, não conheço do presente habeas corpus.
+    Publique-se.
+     Brasília, 18 de dezembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
