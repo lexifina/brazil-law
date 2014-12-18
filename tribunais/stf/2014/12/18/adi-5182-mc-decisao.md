@@ -1,0 +1,20 @@
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA CAUTELAR. LEI COMPLEMENTAR Nº 156/2010, DECRETO Nº 39.921/2013, PORTARIA GAB/SDS 1.967/2010, TODOS DO ESTADO DE PERNAMBUCO. APLICAÇÃO DO RITO DO ART. 12, DA LEI Nº 9.868/1999. MANIFESTAÇÃO DA AGU E DA PGR.
+    Despacho: Cuida-se de Ação Direta de Inconstitucionalidade, com pedido de medida cautelar, proposta pelo Procurador-Geral da República, objetivando a declaração de inconstitucionalidade do disposto no artigo 3º, da Lei Complementar nº 156, de 26 de março de 2010, no artigo 1º, VI, do Decreto nº 39.921, de 10 de outubro de 2013, e no artigo 2º, §§ 1º, 2º e 3º, da Portaria GAB/SDS 1.967, de 30 de setembro de 2010, todos do Estado de Pernambuco, que transformam o cargo de datiloscopista policial em perito papiloscopista. Eis o teor das normas impugnadas:
+    “Lei Complementar 156, de 26 de março de 2010
+    Art. 3º. O cargo descrito no inciso VIII do artigo 7º da Lei Complementar no 137, de 2008, fica redenominado, a partir da data de publicação da presente Lei Complementar, para Perito Papiloscopista, mantidas as suas atuais simbologias de níveis, e respectivas prerrogativas institucionais e sínteses de atribuições”.
+    “Decreto Estadual 39.921, de 10 de outubro de 2013
+    Art. 1º. Ficam disciplinadas as sínteses das atribuições e prerrogativas institucionais dos cargos públicos efetivos, de natureza policial civil, nos termos do art. 6º da Lei Complementar nº 137, de 31 de dezembro de 2008, integrantes do Grupo Ocupacional Policial Civil, a seguir especificados, que passam a ter as seguintes atribuições: [...]
+    VI – Perito Papiloscopista: praticar os atos de Polícia Judiciária definidos na esfera de sua competência técnica e funcional pelo Código de Processo Penal e por outras normas que regem essa atividade, inclusive técnicas e éticas; dirigir, planejar, coordenar assessorar, supervisionar, executar, fiscalizar e controlar as atividades administrativas e operacionais do órgão ou da unidade técnica sob sua direção;”
+    “Portaria GAB/SDS 1.967, de 30 de setembro de 2010
+    Art. 2º. […]
+    § 1º. O cumprimento do disposto no caput deste artigo se aplicará, da mesma forma, às equipes de peritos criminais e peritos papiloscopistas que atuam nas ocorrências de CVLI de atribuição das Forças-Tarefa de Homicídios do Departamento de Homicídios e Proteção à Pessoa – DHPP ou qualquer outra que venha a ser criada.
+    § 2º. Os peritos papiloscopistas somente deverão iniciar os trabalhos de coleta de impressões e fragmentos papilares em local de crime após a liberação do mesmo pelos peritos criminais ou pelo Coordenador da Polícia Científica no CIODS, quando não for possível enviar equipe de peritos criminais ao local.
+    § 3º. Os peritos criminais deverão realizar os trabalhos de perícia em local de crime de forma a não prejudicar a coleta das impressões e fragmentos papilares pelos peritos papiloscopistas.”
+    Sustenta o requerente que “não poderia a lei pernambucana incluir datiloscopistas policiais no rol de peritos, por ausência de previsão na Lei 12.030/2009, mas, principalmente, por ofensa à competência da União para dispor sobre normas gerais de organização das polícias, entre as quais se inclui a definição macroscópica das principais funções dos auxiliares da justiça, como os peritos. Ademais, a lei estadual não exige dos papiloscopistas formação superior específica, como determina a legislação nacional para os peritos oficiais.”
+    A hipótese reveste-se de indiscutível relevância. Entendo deva ser aplicado o preceito veiculado pelo artigo 12 da Lei n. 9.868, de 10 de novembro de 1999, a fim de que a decisão venha a ser tomada em caráter definitivo e não nesta fase de análise cautelar.
+    Colham-se informações das autoridades requeridas, no prazo máximo de 10 [dez] dias. Imediatamente, após este prazo, dê-se vista ao Advogado-Geral da União e ao Procurador-Geral da República, sucessivamente, no prazo de 5 [cinco] dias, para que cada qual se manifeste na forma da legislação vigente.
+    Publique-se.
+    Brasília, 18 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
