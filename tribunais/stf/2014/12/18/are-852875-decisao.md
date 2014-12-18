@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO FISCAL. INEXISTÊNCIA DE VÁRIA FEDERAL NO DOMICÍLIO DO RÉU. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA JULGAMENTO DA EXECUÇÃO DA UNIÃO, SUAS AUTARQUIAS, BEM COMO EMPRESAS E FUNDAÇÕES PÚBLICAS. PRECEDENTES. INCIDÊNCIA DA SÚMULA Nº 286/STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+    Decisão: Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia – INMETRO, com fundamento no art. 102, III, “a”, do texto constitucional, em face de acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PROCESSUAL CIVIL. EXECUÇÃO FISCAL. INEXISTÊNCIA DE VARA FEDERAL NO DOMICÍLIO DO RÉU. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+    1. Segundo o STJ: 'A execução fiscal proposta pela União e suas autarquias deve ser ajuizada perante o Juiz de Direito da comarca do domicílio do devedor, quando esta não for sede de vara da justiça federal. A decisão do Juiz Federal, que declina da competência quando a norma do art. 15, I, da Lei nº 5.010, de 1966 deixa de ser observada, não está sujeita ao enunciado da Súmula nº 33 do Superior Tribunal de Justiça. A norma legal visa facilitar tanto a defesa do devedor quanto o aparelhamento da execução, que assim não fica, via de regra, sujeita a cumprimento de atos por cartas precatórias.' (REsp 1146194/SC).
+    2. Agravo improvido.”
+    O recorrente aponta que o acórdão recorrido violou as disposições do art. 5º, XXXV e LV, o art. 93, IX, e o art. 109 todos da Constituição Federal.
+    O recurso foi inadmitido pela Vice-Presidência do Tribunal de origem, sob a alegação de que o acórdão recorrido está alinhado com a jurisprudência do STF, pelo incidiria a Súmula nº 286/STF.
+    Ante tal decisão, o INMETRO apresentou o recurso de agravo, no qual contesta os fundamentos da decisão agravada.
+    No Superior Tribunal de Justiça o agravo em recurso especial não foi conhecido.
+    Vieram-me os autos conclusos.
+    É o relatório. Passo a decidir.
+    Tenho que o recurso não merece provimento.
+    Isso porque, conforme já assentado pela decisão recorrida, o acórdão impugnado está em consonância com o entendimento jurisprudencial deste Tribunal. Vejam-se, a propósito, os seguintes precedentes, o primeiro deles, inclusive, proferido em recurso proposto também pelo INMETRO:
+    “EMENTA DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. COMPETÊNCIA. ART. 109, § 3º, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 25.10.2012. O Tribunal a quo decidiu em consonância com a jurisprudência deste Supremo Tribunal Federal no sentido de que, nas comarcas onde não há vara da Justiça Federal, os juízes estaduais são competentes para apreciar a execução fiscal da União e de suas autarquias ajuizadas contra devedores lá domiciliados. Precedentes. Agravo regimental conhecido e não provido.” (ARE 805.201-AgR, rel. Min. Rosa Weber, Primeira Turma, DJE de 15/09/2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT. IMPENHORABILIDADE DOS BENS. EXECUÇÃO FISCAL. OBSERVÂNCIA DO REGIME DE PRECATÓRIOS. COMPETÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Os bens, as rendas e os serviços da Empresa Brasileira de Correios e Telégrafos são impenhoráveis, e a execução deve observar o regime de precatórios. 2. Nas comarcas onde não há Vara da Justiça Federal, os Juízes Estaduais são competentes para apreciar a execução fiscal.” (RE 393.032, rel. Min. Cármen Lúcia, Primeira Turma, DJ de 18/12/2009).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXECUÇÃO FISCAL. EMPRESA PÚBLICA FEDERAL. COMPETÊNCIA. ARTIGO 109, I E § 3º DA CB/88. 1. Nas comarcas do interior onde não funcione Vara da Justiça Federal, os Juízes Estaduais serão competentes para apreciar os executivos fiscais da União e de suas autarquias, ajuizados contra devedores domiciliados nas respectivas comarcas. 2. Incide aqui o disposto no artigo 15, I, da Lei n. 5.010/66. Agravo regimental a que se nega provimento.” (RE 232.472-AgR, rel. Min. Eros Grau, Segunda Turma, DJ de 15/08/2008).
+    In casu, é de incidir, portanto, a Súmula nº 286/STF, segundo a qual “não se conhece do recurso extraordinário fundado em divergência jurisprudencial, quando a orientação do plenário do supremo tribunal federal já se firmou no mesmo sentido da decisão recorrida”.
+    Ex positis, nego provimento ao agravo, nos termos do art. 21, §1º do Regimento Interno do STF, bem como do art. 557, caput, do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 18 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
