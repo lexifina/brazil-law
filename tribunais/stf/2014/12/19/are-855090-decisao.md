@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. EXECUÇÃO. SENTENÇA QUE FIXOU O PISO SALARIAL PROFISSIONAL EM MÚLTIPLOS DO SALÁRIO MÍNIMO. LEI Nº 4.950-A/1966. OFENSA AO ARTIGO 7º, IV, DA CONSTITUIÇÃO. PRECEDENTES. RECURSO EXTRAORDINÁRIO COM AGRAVO PROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos (Doc. 59), interposto pelo ESTADO MARANHÃO, com fundamento no artigo 544 do Código de Processo Civil, visando à reforma da decisão que não admitiu seu recurso extraordinário (Doc. 46), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 44) cuja ementa tem o seguinte teor:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA - DESCABIMENTO. EXECUÇÃO. SALÁRIO PROFISSIONAL. DIFERENÇAS. ENGENHEIRO. Prevalece, nesta Corte, a compreensão da Orientação Jurisprudencial nº 71 da SBDI-2, segundo a qual a “estipulação do salário profissional em múltiplos do salário mínimo não afronta o art. 7º, inciso IV, da Constituição Federal de 1988, só incorrendo em vulneração do referido preceito constitucional a fixação de correção automática do salário pelo reajuste do salário mínimo”. Óbice do art. 896, § 4º, da CLT. Agravo de instrumento conhecido e desprovido.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta ofensa ao disposto nos artigos 7º, IV, e 37, XIII, da Constituição Federal. Aduz que a vinculação do piso salarial profissional a múltiplos do salário mínimo, tal como previsto na Lei nº 4.950-A/1966, afronta entendimento consubstanciado na Súmula Vinculante nº 4. Assevera que a vedação à vinculação ou à equiparação de espécies remuneratórias abrange também os empregados públicos.
+    O Tribunal a quo negou seguimento ao apelo extremo, por não vislumbrar divergência com o entendimento do STF, porque não foi “fixada a correção automática do salário pelo reajuste do salário mínimo” (Doc. 57).
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    O acórdão recorrido está em confronto com a jurisprudência desta Suprema Corte, que se firmou no sentido de reconhecer a impossibilidade de vinculação do piso de categoria profissional a múltiplos de salários mínimos, como se pode depreender do teor da ementa dos seguintes julgados:
+    “RECURSO. Extraordinário. Vinculação de salário profissional a múltiplos do salário mínimo. Impossibilidade. Precedentes. Esta Corte já assentou sua jurisprudência no sentido da impossibilidade de vinculação de salário profissional a múltiplos do salário mínimo.
+    2. RECURSO. Agravo de instrumento. Ausência de cópias da petição inicial e da sentença de primeiro grau. Art. 544, §3º, do CPC. Desnecessidade. Outras fontes de convencimento. Não se exige, para fins de provimento do agravo, cópia da exordial e da sentença de primeira instância, desde que, por outros documentos, seja possível aferir a exata dimensão da quaestio iuris” (AI 277.835-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe de 26/2/2010).
+    “Piso salarial: a vinculação de salário profissional a múltiplos do salário mínimo viola o artigo 7º, IV, da Constituição: precedentes” (AI 357.477-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ de 14/10/2005).
+    No mesmo sentido, ARE 774.193-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 10/10/2014 e ARE 777.620-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 15/8/2014.
+    Registre-se, ainda, que o acórdão recorrido está em dissonância também com o teor do Enunciado da Súmula Vinculante nº 4 desta Corte: “Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial”.
+    Ex positis, PROVEJO o agravo para, desde logo, CONHECER e DAR PROVIMENTO ao recurso extraordinário, com fundamento no artigo 557, § 1º-A, do CPC. Ficam invertidos os ônus da sucumbência, ressalvada a hipótese de concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 19 de dezembro de 2014.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
