@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1529, de 18 de dezembro de 2014
+Altera a Instrução Normativa RFB nº 1.300, de 20 de novembro de 2012, que estabelece normas sobre restituição, compensação, ressarcimento e reembolso, no âmbito da Secretaria da Receita Federal do Brasil, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 46 da Lei nº 12.350, de 20 de dezembro de 2010, nos arts. 21 a 29 da Lei nº 13.043, de 13 de novembro de 2014, e no Decreto nº 8.304, de 12 de setembro de 2014, resolve:
