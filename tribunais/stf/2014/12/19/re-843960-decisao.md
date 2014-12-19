@@ -1,0 +1,26 @@
+DECISÃO:
+    Vistos.
+    Ministério Público Federal interpõe recurso extraordinário, com fundamento na alínea a do permissivo constitucional, contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. REQUERIMENTO DE DILIGÊNCIA DO MINISTÉRIO PÚBLICO AO JUÍZO LOCAL. CAPACIDADE DE REALIZAÇÃO PELO PRÓPRIO PARQUET. ATRIBUIÇÃO CONSTITUCIONAL. DESNECESSIDADE DE INTERVENÇÃO DO PODER JUDICIÁRIO NA HIPÓTESE VERTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A Constituição Federal preceituou acerca do poder requisitório do Ministério Público para que pudesse exercer, da melhor forma possível, as suas atribuições de dominus litis e a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
+    2. Ressalte-se que o referido poder conferido ao Parquet não impede o requerimento de diligências ao Poder Judiciário, desde que demonstre a incapacidade de sua realização por meios próprios. Precedentes.
+    3. Na hipótese vertente, contudo, o Ministério Público requereu ao Juízo que fosse requisitada da autoridade policial certidão de antecedentes criminais, sem demonstrar existir empecilho ou dificuldade para tanto”.
+    Os embargos de declaração opostos foram rejeitados.
+    Alega o recorrente violação dos art. 5°, inciso XLVI, da Constituição Federal.
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que o Parquet foi intimado acerca do acórdão dos embargos de declaração após 3/5/07 (fl. 248), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07). Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que a jurisprudência desta Corte é pacífica no sentido de que não se admite recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça no qual se suscita questão constitucional resolvida na decisão de segundo grau, sendo esta a hipótese dos autos.
+    Nesse sentido, confiram-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ACÓRDÃO DO TRIBUNAL DE SEGUNDO GRAU. NÃO-INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO NO MOMENTO PRÓPRIO. ACÓRDÃO DO STJ. PRECLUSÃO DA QUESTÃO CONSTITUCIONAL. 2. O STF fixou jurisprudência no sentido de que, no atual sistema constitucional, que prevê o cabimento simultâneo de recurso extraordinário e recurso especial contra o mesmo acórdão dos tribunais de segundo grau, decorre que, da decisão do STJ no recurso especial, só se admitirá recurso extraordinário se a questão constitucional objeto do último for diversa da que já tiver sido resolvida pela instância ordinária. Precedentes. 3. A questão constitucional que serviu de fundamento ao acórdão do Tribunal de segundo grau deve ser atacada no momento próprio, sob pena de preclusão. Agravo regimental a que se nega provimento” (RE nº 518.257/PR-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 19/12/07 – grifei);
+    “Agravo regimental no agravo de instrumento. Ausência de RE interposto concomitantemente ao recurso especial. Preclusão.
+    1. Não se admite recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, no qual se suscita questão constitucional resolvida na decisão de 2º grau.
+    2. Agravo regimental desprovido” (AI nº 666.003/DF-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 19/12/07);
+    “Recurso extraordinário: interposição de decisão do STJ em recurso especial: inadmissibilidade, se a questão constitucional de que se ocupou o acórdão recorrido já fora suscitada e resolvida na decisão de segundo grau e, ademais, constitui fundamento suficiente da decisão da causa.
+    1. Do sistema constitucional vigente, que prevê o cabimento simultâneo do recurso extraordinário e de recurso especial contra o mesmo acórdão dos tribunais de segundo grau, decorre que da decisão do STJ, no recurso especial só se admitirá recurso extraordinário se a questão constitucional objeto do último for diversa da que já tiver sido resolvida pela instância ordinária.
+    2. Não se contesta que, no sistema difuso de controle de constitucionalidade, o STJ, a exemplo de todos os demais órgãos jurisdicionais de qualquer instância, tenha o poder de declarar incidentemente a inconstitucionalidade da lei, mesmo de ofício; o que não é dado àquela Corte, em recurso especial, é rever a decisão da mesma questão constitucional do tribunal inferior; se o faz, de duas uma: ou usurpa a competência do STF, se interposto paralelamente o extraordinário ou, caso contrário, ressuscita matéria preclusa” (AI nº 145.589/RJ-AgR, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 24/6/94 – grifei).
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de dezembro de 2014.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
