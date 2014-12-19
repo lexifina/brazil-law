@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma do Tribunal Regional Federal da 5ª Região, nos seguintes termos:
+    “TRIBUTÁRIO. APELAÇÃO. ENTIDADE PARAESTATAL. SENAI. IMPORTAÇÃO DE IMPRESSORA. IMUNIDADE TRIBUTÁRIA. ENTIDADE EDUCACIONAL E DE ASSISTÊNCIA SOCIAL. CONFIGURAÇÃO. REMUNERAÇÃO DE SEUS DIRIGENTES. IRRELEVÂNCIA. DIRETOR-EMPREGADO QUE APENAS CUMPRE ORDENS EMANADAS DO CONSELHO REGIONAL CUJOS MEMBROS NÃO SÃO REMUNERADOS. RECURSO IMPROVIDO.
+    1. No presente caso, por força da importação de uma impressora offset, o SENAI foi autuado pela Receita Federal, em razão do não recolhimento do imposto de importação, da COFINS-importação e do PIS/PASEP-importação sobre a operação.
+    2.  Ocorre que a jurisprudência dos Tribunais do País já firmou orientação no sentido de atestar a condição do SENAI como entidade educacional e de assistência social, o que, inclusive, encontra-se previsto nos arts. 11 e 12 da Lei 2.613/55.
+    3. Da análise do Decreto 494/62 que aprovou o Regimento do Serviço Nacional de Aprendizagem Industrial, verifica-se que o Diretor do SENAI, trata-se, na verdade, de um diretor-empregado, eis que apenas cumpre ordens emanadas do Conselho Regional, seguindo as diretrizes do Conselho Nacional, sendo que para os membros dos Conselhos não há previsão de remuneração.
+    4. Assim, o fato de o SENAI remunerar seus diretores-empregados (fls. 175/178) não desvirtua a sua natureza de entidade imune. É esse o entendimento da própria União, exarada através do Conselho Administrativo de Recursos Fiscais - CARF: Processo 13851.001325/2002-19, recurso 134383, Sessão de: 15 de outubro de 2002, Acórdão: 107-07340).
+    5. Apelação a que se nega provimento.”
+    Foram opostos embargos de declaração, aos quais foi negado provimento. O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, § 6° e 195, § 7º, da Constituição, bem como ao art. 41, § 1°, do Ato das Disposições Constitucionais Transitórias. Afirma, em síntese, que “o acórdão recorrido reconheceu a imunidade tributária apenas por considerar a parte recorrida entidade beneficente, instituída por lei, sem necessidade de qualquer comprovação de que atende aos requisitos legais e possui certificação para tanto”. Sustenta que a imunidade prevista no dispositivo constitucional seria condicionada.
+    A pretensão não merece acolhida. O Supremo Tribunal Federal já afirmou inexistir repercussão geral com relação ao tema controvertido nestes autos. Confira-se, a propósito, a ementa a seguir:
+    “RECURSO. Extraordinário. Inadmissibilidade. Imunidade tributária. Entidade beneficente de assistência social. Requisitos legais. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o preenchimento dos requisitos impostos pelo art. 55 da Lei 8.212/1991, aptos a caracterizar pessoa jurídica como entidade beneficente de assistência social, para efeitos de reconhecimento de imunidade tributária, versa sobre tema infraconstitucional.”
+    (RE 642442 RG, Rel. Min. Cezar Peluso, Dje 08.09.2011)
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 19 de dezembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
