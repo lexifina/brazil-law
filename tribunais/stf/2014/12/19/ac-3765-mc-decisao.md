@@ -1,0 +1,37 @@
+Vistos etc.
+    Trata-se de ação cautelar preparatória, com pedido de medida liminar, ajuizada pelo Estado de Roraima e pela Fundação Estadual do Meio Ambiente e Recursos Hídricos - FEMARH em face do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+    Os autores sustentam presente conflito federativo, a ser processado e julgado por este Supremo Tribunal Federal, nos termos do art. 102, I, “f”, da Magna Carta, ante a atuação administrativa do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, empresa pública federal, consistente na exigência de Certificado de Regularidade Previdenciária (CRP), como requisito para celebrar contrato de colaboração financeira não reembolsável com a Fundação Estadual do Meio Ambiente e Recursos Hídricos, para implementação do Cadastro Ambiental Rural (CAR) no Estado de Roraima.
+    Invocando precedentes desta Suprema Corte, em que assentada a tese da intranscendência de medidas restritivas de direito, argumentam que a FEMARH, integrante da administração estadual indireta, dotada de personalidade jurídica e CNPJ próprios, por não se confundir com o Estado de Roraima, não poderia ser prejudicada por restrições impostas ao mencionado ente político, notadamente as decorrentes da não-emissão de CRP.
+    Nessa perspectiva, agregam que a aplicação, à Fundação Estadual do Meio Ambiente e Recursos Hídricos, das medidas restritivas dos arts. 7º da Lei 9.717/98 e 4º da Portaria nº 204/2008 do Ministério da Previdência Social, como corolário da não-emissão de CRP ao Estado de Roraima, configura afronta aos princípios da razoabilidade e do devido processo legal.
+    Articulando com a presença dos requisitos da plausibilidade jurídica do pedido e do perigo da demora, pugnam pela concessão de medida liminar, para determinar que o BNDES deixe de exigir “a apresentação do CRP – Certificado de Regularidade Previdenciária como condição prévia para formalização do contrato de concessão financeira não reembolsável destinado a apoiar a implementação do Cadastro Ambiental Rural (CAR) no Estado de Roraima”.
+    Ao final, requerem sejam julgados procedentes os pedidos, com condenação do réu ao pagamento de custas e honorários.
+    É o relatório.
+    Decido.
+    1. Ao menos à primeira vista, entendo caracterizado conflito dotado de densidade suficiente para atrair a competência originária estabelecida no art. 102, I, “f”, da Constituição da República, considerada a situação dos autos, em que o BNDES, empresa pública federal, exige da FEMARH, fundação pública integrante da administração indireta do Estado de Roraima, a apresentação de Certificado de Regularidade Previdenciária (CRP), como requisito para a celebração de contrato de colaboração financeira.
+    2. O Certificado de Regularidade Previdenciária (CRP), emitido pelo Ministério da Previdência Social, atesta a observância, por regime próprio de previdência estadual, distrital ou municipal, dos critérios e exigências estabelecidos na Lei 9.717/98.
+    Nessa perspectiva, a não-emissão ou não-renovação de CRP, a evidenciar o descumprimento dos referidos critérios e exigências, importa na aplicação das sanções previstas no art. 7º da Lei 9.717/98, cujo teor é o seguinte:
+    “Art. 7º O descumprimento do disposto nesta Lei pelos Estados, Distrito Federal e Municípios e pelos respectivos fundos, implicará, a partir de 1º de julho de 1999:
+    I - suspensão das transferências voluntárias de recursos pela União;
+    II - impedimento para celebrar acordos, contratos, convênios ou ajustes, bem como receber empréstimos, financiamentos, avais e subvenções em geral de órgãos ou entidades da Administração direta e indireta da União;
+    III - suspensão de empréstimos e financiamentos por instituições financeiras federais.
+    IV - suspensão do pagamento dos valores devidos pelo Regime Geral de Previdência Social em razão da Lei nº 9.796, de 5 de maio de 1999.”
+    No mesmo sentido, eis o enunciado pelo art. 4º da Portaria 204/2008 do Ministério da Previdência Social:
+    “Art. 4º O CRP será exigido nos seguintes casos:
+    I - realização de transferências voluntárias de recursos pela União;
+    II - celebração de acordos, contratos, convênios ou ajustes, bem como recebimento de empréstimos, financiamentos, avais e subvenções em geral de órgãos ou entidades da Administração direta e indireta da União;
+    III - liberação de recursos de empréstimos e financiamentos por instituições financeiras federais; e
+    IV - pagamento dos valores devidos pelo Regime Geral de o Previdência Social - RGPS, em razão do disposto na Lei nº 9.796, de 5 de maio de 1999.
+    § 1 º Aplica-se o disposto neste artigo aos requerimentos para realização de operações de crédito interno e externo dos Estados, do Distrito Federal e dos Municípios, nos termos do art. 21, inciso VIII, da Resolução nº 43, de 2001, do Senado Federal.
+    § 2º Para fins de aplicação do inciso I, excetuam-se as transferências relativas às ações de educação, saúde e assistência social.
+    § 3º O responsável pela realização de cada ato ou contrato previsto nos incisos do caput deverá juntar ao processo pertinente, ou atestar nos autos, a verificação da validade do CRP do ente da federação beneficiário ou contratante, no endereço eletrônico do Ministério da Previdência Social - MPS na rede mundial de computadores - Internet, mencionando seu número e data de emissão.
+    § 4º O servidor público que praticar ato com a inobservância responderá civil, penal e administrativamente, nos do disposto no § 3º termos da lei.
+    § 5º O CRP cancelado nos termos do art. 2º, § 2 , continuará disponível para consulta com a indicação do motivo de seu cancelamento.”
+    3. No caso, em juízo perfunctório, sem avançar considerações acerca da legalidade do art. 4º da Portaria 204/2008 do Ministério da Previdência Social e/ou da constitucionalidade das sanções previstas no art. 7º da Lei 9.717/98, inclusive porque não desenvolvida, pelos autores, à guisa de causa de pedir, argumentação a tal respeito, registro que a análise do extrato externo do regime próprio de previdência do Estado de Roraima, juntado com a petição inicial (Doc. 03, e-STF), não discrimina os órgãos e pessoas, integrantes da administração direta e indireta do referido ente político, aos quais teriam sido imputadas irregularidades, em especial no tocante à ausência de repasse de valores devidos a título de contribuição previdenciária.
+    Nessa perspectiva, ao menos em primeiro olhar, considero inviável descartar a existência de responsabilidade da Fundação Estadual do Meio Ambiente e Recursos Hídricos – FEMARH por irregularidades indicadas no mencionado extrato, motivo pelo qual, em sede de cognição sumária, entendo não evidenciada ofensa ao postulado da intranscendência das sanções de caráter administrativo.
+    Ante o exposto: i) indefiro o pedido de medida liminar; e ii) determino a emenda da inicial, no prazo de dez dias, para que os autores supram a falha apontada, juntando documento(s) que discrimine(m) os órgãos e entes aos quais imputadas as irregularidades apontadas no extrato externo do regime próprio de previdência dos servidores do Estado de Roraima, sob pena de extinção do processo sem resolução do mérito (arts. 267, I, e 284, parágrafo único, do CPC).
+    Decorrido o prazo para emenda da peça inaugural, voltem os autos conclusos.
+    À Secretaria Judiciária.
+    Publique-se.
+    Brasília, 19 de dezembro de 2014.
+Ministra Rosa Weber
+Relatora
