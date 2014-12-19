@@ -1,0 +1,25 @@
+MANDADO DE SEGURANÇA. PRESIDENTE DA REPÚBLICA. AVOCAÇÃO. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. ATO DO MINISTRO DA EDUCAÇÃO. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MANDADO DE SEGURANÇA A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de mandado de segurança, com pedido de liminar, impetrado pelo Instituto de Advocacia Racial Iara e por Antônio Gomes da Costa Neto com o objetivo precípuo de suspender os efeitos do Parecer nº 06/2011 do Conselho Nacional de Educação e de revigorar o Parecer nº 15/2010 do aludido Conselho. Alternativamente, no caso de ser autorizada a aquisição dos livros de autoria de Monteiro Lobato com recursos públicos para uso na Educação Básica, os Impetrantes requerem seja determinada a imediata formação e capacitação dos Educadores para que possam utilizá-las de forma adequada na Educação Básica e que se faça consignar de forma obrigatória em todas as obras literárias, como no caso concreto, Nota Explicativa de Apresentação Obrigatória sobre a necessidade de informação em relação às questões étnico-raciais na forma preceituada no Parecer n. 15/2010 do Conselho Nacional de Educação .
+    Inconformados, os impetrantes suscitaram recursos administrativos para a Presidente da República, os quais foram encaminhados para o Ministro da Educação.
+    Informam que transcorridos trinta dias sem resposta aos recursos, solicitaram, à Presidente da República, a avocação do processo administrativo.
+    Aduzem que impetraram o presente mandado de segurança após o término do prazo de trinta dias para resposta ao pedido de avocação.
+    Requer, ao final, a concessão de medida liminar para que seja restabelecido o Parecer nº 15/2010 do Conselho Nacional de Educação, em decorrência da nulidade absoluta do Parecer nº 06/2011, pois foi “requerido por Agente Público sem poderes específicos, no caso, o Chefe de Gabinete do Ministro de Estado da Educação, em razão de sua ilegitimidade e incompetência absoluta”.
+    E, no mérito, pede que seja declarada, de forma definitiva, a nulidade do citado Parecer nº 15/2010.
+    O Ministério Público Federal opinou pelo não conhecimento do writ, em decorrência do não cabimento do mandado de segurança, pois não há ilegalidade ou abuso de poder da omissão da Presidente da República, bem como pela incompetência do Supremo quanto aos demais atos impugnados.
+    É o relatório. Decido.
+    Embora tenham feito referência à pedido de avocação formulado à Presidente da República, para justificar a competência do Supremo Tribunal Federal, em uma leitura atenta da petição vestibular, constata-se, de maneira inequívoca, que a real e única intenção dos impetrantes é a de seja reconhecida a nulidade do Parecer nº 15/2010, do Conselho Federal de Educação.
+    Quanto à omissão da Presidente da República na avocação de processo administrativo em trâmite no Ministério da Educação, os artigos 170 do Decreto-lei nº 200/1967 e 15 da Lei nº 9.784/1999, estabelecem que somente em caráter excepcional e por relevantes motivos de interesse público será permitida a avocação de assuntos na esfera da Administração Federal.
+    No presente caso, conforme ressaltado pelo Ministério Público Federal em seu parecer, a matéria já restou apreciada por diversas instâncias administrativas: Câmara de Educação Básica e Plenário do Conselho Nacional de Educação e pelo Ministro da Educação, não se justificando, a princípio, a atuação da Presidente da República.
+    Ressalto a existência de precedentes desta Corte a respeito da ausência de obrigação no deferimento de pedido de avocação. Nesse sentido, RMS 32.004, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 28/10/2013; e RMS 21.752, Rel. Min. Carlos Velloso, 2ª Turma, DJ 4/11/1994, assim ementado:
+    “EMENTA: - CONSTITUCIONAL. PROCESSUAL CIVIL.
+    MANDADO DE SEGURANÇA. COMPETÊNCIA ORIGINÁRIA DO S.T.J.
+    I. – Ato praticado pelo Secretário Nacional do Trabalho e não pelo Ministro de Estado do Trabalho: incompetência do S.T.J. para processar e julgar o ‘writ’. O pedido formulado ao Ministro de Estado, para avocar e decidir a questão, o Ministro de Estado não estava obrigado a atender, dado que avocar ‘é chamar a si funções originariamente atribuídas a um subordinado’, poder que o superior hierárquico exerce voluntariamente.
+    II. – Recurso não provido.”
+    Quanto ao parecer do Conselho Nacional de Educação, o art. 102, I, d, da Constituição da República é bastante claro ao limitar a competência do Supremo Tribunal Federal ao julgamento de mandados de segurança “contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal “.
+    Evidente, assim, a incompetência desta Corte para a apreciação de mandamus impetrado contra ato do Ministro da Educação que homologou parecer do CNE.
+    Pelo exposto, nego seguimento ao mandado de segurança, na forma do art. 21, § 1º, do Regimento Interno desta Corte, ficando prejudicado o exame do pedido de liminar.
+    Publique-se. Intimem-se.
+    Brasília, 19 de dezembro de 2014.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
