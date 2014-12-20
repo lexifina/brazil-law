@@ -1,0 +1,19 @@
+DECISÃO
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO EXTRAORDINÁRIO – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    Clóvis Ruiz Ribeiro foi condenado a 16 anos, 3 meses e 9 dias de reclusão, em regime fechado, e ao pagamento de 2.011 dias-multa, ante o cometimento  do crime de que trata o artigo 33 (tráfico de drogas), combinado com o artigo 40, inciso I (transnacionalidade do delito), em concurso material com o artigo 35 (associação para o tráfico), da Lei nº 11.343/2006. O Juízo da 4ª Vara Federal Criminal da 1ª Subseção Judiciária de São Paulo (Processo nº 0013358-11.2011.403.6181) negou-lhe o direito de recorrer em liberdade, apontando a constituição de novo título a respaldar a custódia provisória implementada em dezembro de 2011. Reportou-se ao fato de o réu haver permanecido preso durante a instrução processual.
+    O título condenatório transitou em julgado para a acusação em 27 de janeiro de 2014.
+    Impetrou-se habeas no Tribunal Regional Federal da 3ª Região, visando a absolvição no tocante à infração de associação para o tráfico. Alegou-se ter o Juízo assentado não ser preciso vínculo associativo estável para a tipificação do delito. A Quinta Turma, ao indeferir a ordem, consignou o descabimento do habeas, ante a necessidade de amplo exame do conjunto probatório, procedimento próprio do recurso de apelação, já interposto pela defesa.
+    No Superior Tribunal de Justiça, protocolou-se o Recurso Ordinário em Habeas Corpus nº 50.198/SP, reiterando-se o pleito anterior. A relatora a ele negou seguimento. Destacou não haver o Tribunal de origem apreciado a questão atinente à absolvição, asseverando tratar-se de situação a inviabilizar a análise antecipada pelo Colegiado, por inadmitir-se a supressão de instância. Na sequência, a Sexta Turma desproveu agravo regimental sob idênticos fundamentos.
+    Neste habeas, os impetrantes retomam a argumentação expendida nas instâncias inferiores. Sustentam a ilegalidade da sentença no tocante à condenação pelo delito de associação para o tráfico. Dizem da ausência de vínculo entre o paciente e os demais corréus na referida ação penal. Afirmam que as premissas lançadas no título condenatório contrariam a jurisprudência dos Tribunais Superiores, por exigirem a permanência associativa entre os agentes.
+    Requerem, em âmbito liminar, a suspensão do julgamento da Apelação interposta no Processo-Crime nº 0013358-11.2011.403.6181 até o exame definitivo desta impetração. No mérito, pleiteiam a absolvição quanto ao crime de associação para o tráfico e, sucessivamente, a determinação ao Superior Tribunal de Justiça que aprecie o habeas lá formalizado.
+    Este processo foi distribuído por prevenção, em virtude da relatoria do Habeas Corpus nº 118.830, em que Vossa Excelência deferiu a medida acauteladora, sendo solto o paciente, em 9 de setembro de 2013. No mérito, a Primeira Turma, por maioria, declarou o prejuízo do mencionado habeas e afastou a providência implementada.
+    O habeas encontra-se concluso para análise do pedido de concessão de medida acauteladora.
+    2. Atentem para a organicidade do Direito. De início, a impetração é substitutiva do recurso extraordinário, no que o Superior Tribunal de Justiça emitiu pronunciamento em recurso ordinário em habeas corpus. Cabem algumas observações. A supressão de instância visa beneficiar a parte e esta, em habeas, é única, ou seja, o paciente personificado pelo impetrante.
+    Outro dado diz respeito à liminar. Simplesmente, pretende-se a suspensão do julgamento de apelação interposta pela defesa até que a Turma aprecie este processo. O pedido final está ligado ao que pode ser alcançado no recurso por excelência, que é a própria apelação.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 20 de dezembro de 2014, às 12h30.
+Ministro MARCO AURÉLIO
+Relator
