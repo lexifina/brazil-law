@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 133, de 15 de dezembro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 8543.90.90 Mercadoria: Anodo, próprio para utilização como parte de aparelho eletrolítico (denominado célula), de tecnologia diafragma, para produção, por meio de eletrólise, de cloro-soda e gás hidrogênio, constituído de titânio e superfície revestida por rutênio, nas dimensões de 762 x 404 mm. DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 2 b) da Seção XVI e da posição 85.43), RGI 6 (texto da subposição 8543.90) e RGC-1 (item 8543.90.90) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 8543.90.90 Mercadoria: Anodo, próprio para utilização como parte de aparelho eletrolítico (denominado célula), de tecnologia diafragma, para produção, por meio de eletrólise, de cloro-soda e gás hidrogênio, constituído de titânio e superfície revestida por rutênio, nas dimensões de 762 x 404 mm.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 2 b) da Seção XVI e da posição 85.43), RGI 6 (texto da subposição 8543.90) e RGC-1 (item 8543.90.90) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011.
+MARCO ANTÔNIO RODRIGUES CASADO Presidente da 5ª Turma
