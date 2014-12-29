@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1539, de 26 de dezembro de 2014
+Dispõe sobre a obrigatoriedade de utilização do selo de controle nos relógios de pulso e de bolso, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 46 da Lei nº 4.502, de 30 de novembro de 1964, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 13 da Lei nº 12.995, de 18 de junho de 2014, e nos arts. 284 a 322 do Decreto nº 7.212, de 15 de junho de 2010 - Regulamento do Imposto sobre Produtos Industrializados (Ripi), resolve:
