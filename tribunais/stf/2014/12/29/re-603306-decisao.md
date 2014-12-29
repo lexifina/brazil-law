@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MERA IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO – AUSÊNCIA DE INTERESSE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado do Amazonas, assentando a incompetência absoluta para julgar o processo – representação para perda de patente formalizada pelo referido Estado contra policial militar –, extinguiu-o, sem julgamento do mérito, porquanto não se faz em jogo crime militar ou pena acessória de ilícito penal militar (folha 503 a 512).
+    No extraordinário de folha 593 a 616, interposto com alegada base na alínea “a” do permissivo constitucional, o recorrente argui a transgressão aos artigos 125, § 4º, e 142, § 3º, inciso VI, da Carta da República. Afirma que, no pronunciamento impugnado, evocou-se, erroneamente, o contido no Verbete nº 673 da Súmula do Supremo, o que implicaria autorização ao Comandante-Geral para proceder a demissões sumárias de oficiais, em violação ao previsto nos mencionados dispositivos constitucionais.
+    O recorrido apresentou as contrarrazões de folha 623 a 633. O procedimento atinente ao juízo primeiro de admissibilidade encontra-se às folhas 635 e 636.
+    A Procuradoria Geral da República, à folha 642 à 646, manifesta-se pelo não conhecimento do extraordinário.
+    2. Na interposição deste recurso, atendeu-se aos pressupostos gerais de recorribilidade. A peça, subscrita por profissional da advocacia regularmente constituído, foi protocolada no prazo legal, sendo o recorrente detentor de assistência judicial gratuita.
+    Quanto ao interesse recursal, cumpre assentar que estará presente quando a pretensão veiculada mostrar-se útil ao jurisdicionado, ou seja, nos casos em que a protocolação do recurso for necessária para assegurar situação jurídica mais favorável do que aquela proporcionada por meio do ato questionado. Os fundamentos da decisão não são cobertos pela eficácia da coisa julgada, mostrando-se indiferentes, para a satisfação da pretensão no caso concreto, os motivos que levaram o órgão jurisdicional a não acolher o pedido. Extinto, sem apreciação do mérito, o processo mediante o qual o Estado objetivou a perda do cargo e da patente do policial militar, não há, para o servidor, nenhuma utilidade em reformar o julgamento verificado, visando exclusivamente afastar a alusão ao Verbete nº 673 da Súmula do Supremo.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+Brasília, 29 de dezembro de 2014.
+Ministro MARCO AURÉLIO
+Relator
