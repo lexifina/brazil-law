@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 341, de 16 de dezembro de 2014
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF EMENTA: Tributa-se como retenção na fonte, conforme a tabela progressiva vigente no mês do pagamento e ajuste na Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física, os valores recebidos por pessoa física de ex-empregador, a título de compensação financeira em virtude de limitação temporal ao exercício do trabalho em determinada atividade, em face de contrato do qual conste cláusula de “NÃO COMPETIÇÃO” ou “NÃO CONCORRÊNCIA”.. DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966, arts. 43 e 111; Lei nº 7.713, de 1988, arts. 6º, incisos IV e V, 7º, inciso II e § 1º.
+[arquivo anexo: SC Cosit nº 341-2014.pdf]
