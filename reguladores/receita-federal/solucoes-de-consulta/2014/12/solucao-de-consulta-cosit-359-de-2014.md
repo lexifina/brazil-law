@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 359, de 17 de dezembro de 2014
+ASSUNTO: SIMPLES NACIONAL EMENTA: SUBLOCAÇÃO DE IMÓVEL. TRIBUTAÇÃO NA FORMA DO ANEXO III DA LEI COMPLEMENTAR Nº 123, DE 2006. A sublocação de imóvel não impede o ingresso ou a permanência no Simples Nacional e a receita bruta decorrente dessa atividade deve ser tributada, nesse regime, na forma do Anexo III da Lei Complementar nº 123, de 2006. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 17, caput, e §§ 1º e 2º; art. 18, § 5º-B, I, § 5º-C, § 5º-D, I; Instrução Normativa RFB nº 1.115, de 2010, art. 1º.
+[arquivo anexo: SC Cosit nº 359-2014.pdf]
