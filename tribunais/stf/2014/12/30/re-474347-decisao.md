@@ -1,0 +1,19 @@
+DECISÃO
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE – NORMA ANTERIOR AO DISPOSITIVO DITO VIOLADO – IMPOSSIBILIDADE – RECURSO EXTRAORDINÁRIO – NEGATIVA DE SEGUIMENTO.
+    1. A decisão impugnada mediante o extraordinário está em consonância com a jurisprudência do Supremo há muito consolidada. Confiram com as seguintes ementas:
+    CONTROLE NORMATIVO ABSTRATO – A NOÇÃO DE CONSTITUCIONALIDADE-INCONSTITUCIONALIDADE COMO CONCEITO DE RELAÇÃO – A QUESTÃO PERTINENTE AO BLOCO DE CONSTITUCIONALIDADE (ADI 514/PI, REL. MIN. CELSO DE MELLO – ADI 595/ES, REL. MIN. CELSO DE MELLO, v.g.) – DIREITO PRÉ-CONSTITUCIONAL – CÓDIGO ELEITORAL, ART. 224 – INVIABILIDADE DESSA FISCALIZAÇÃO CONCENTRADA EM SEDE DE AÇÃO DIRETA DE INCONSTITUCIONALIDADE – AÇÃO DIRETA NÃO CONHECIDA – PARECER DA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO – RECURSO DE AGRAVO IMPROVIDO.
+    - A ação direta de inconstitucionalidade não se revela instrumento juridicamente idôneo ao exame da legitimidade constitucional de atos normativos do Poder Público que tenham sido editados em momento anterior ao da vigência da Constituição sob cuja égide foi instaurado o controle normativo abstrato.
+    - A superveniência de uma nova Constituição não torna inconstitucionais os atos estatais a ela anteriores e que, com ela, sejam materialmente incompatíveis. Na hipótese de ocorrer tal situação, a incompatibilidade normativa superveniente resolver-se-á pelo reconhecimento de que o ato pré-constitucional acha-se revogado, expondo-se, por isso mesmo, a mero juízo negativo de recepção, cuja pronúncia, contudo, não se comporta no âmbito da ação direta de inconstitucionalidade. Doutrina. Precedentes.
+    (Agravo Regimental na Ação Direta de Inconstitucionalidade nº 4.222/DF, relator ministro Celso de Mello, Tribunal Pleno, acórdão publicado no Diário da Justiça eletrônico de 2 de setembro de 2014.)
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE – IMPUGNAÇÃO DE ATO ESTATAL EDITADO ANTERIORMENTE À VIGÊNCIA DA CF/88 – INCONSTITUCIONALIDADE SUPERVENIENTE – INOCORRÊNCIA – HIPÓTESE DE REVOGAÇÃO DO ATO HIERARQUICAMENTE INFERIOR POR AUSÊNCIA DE RECEPÇÃO – IMPOSSIBILIDADE DE INSTAURAÇÃO DO CONTROLE NORMATIVO ABSTRATO – AÇÃO DIRETA NÃO CONHECIDA.
+    - A ação direta de inconstitucionalidade não se revela instrumento juridicamente idôneo ao exame da legitimidade constitucional de atos normativos do Poder Público que tenham sido editados em momento anterior ao da vigência da Constituição sob cuja égide foi instaurado o controle normativo abstrato.
+    A fiscalização concentrada de constitucionalidade supõe a necessária existência de uma relação de contemporaneidade entre o ato estatal impugnado e a Carta Política sob cujo domínio normativo veio ele a ser editado.
+    O entendimento de que leis pré-constitucionais não se predispõem, vigente uma nova Constituição, à tutela jurisdicional de constitucionalidade "in abstracto" - orientação jurisprudencial já consagrada no regime anterior (RTJ 95/980 - 95/993 - 99/544) - foi reafirmado por esta Corte, em recentes pronunciamentos, na perspectiva da Carta Federal de 1988.
+    - A incompatibilidade vertical superveniente de atos do Poder Público, em face de um novo ordenamento constitucional, traduz hipótese de pura e simples revogação dessas espécies jurídicas, posto que lhe são hierarquicamente inferiores.
+    O exame da revogação de leis ou atos normativos do Poder Público constitui matéria absolutamente estranha à função jurídico-processual da ação direta de inconstitucionalidade.
+    (Ação Direta de Inconstitucionalidade nº 74/RN, relator ministro Celso de Mello, Tribunal Pleno, acórdão publicado no Diário da Justiça de 25 de setembro de 1992.)
+    2. Ante o quadro, nego seguimento ao extraordinário.
+    3. Publiquem.
+Brasília, 30 de dezembro de 2014.
+Ministro MARCO AURÉLIO
+Relator
