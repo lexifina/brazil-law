@@ -1,0 +1,1 @@
+Art. 19-A. Os estabelecimentos industriais fabricantes de cigarrilhas classificadas no código 2402.10.00 da Tipi ficam sujeitos às disposições contidas nesta Instrução Normativa a partir de 1º de setembro de 2011.
