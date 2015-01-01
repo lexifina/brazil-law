@@ -64,6 +64,7 @@ XXXVI - aparelhos contendo programas - softwares - de leitores de tela que conve
 XXXVII - (VETADO); e
 XXXVIII - neuroestimuladores para tremor essencial/Parkinson, classificados no código 9021.90.19, e seus acessórios, classificados nos códigos 9018.90.99, 9021.90.91 e 9021.90.99, todos da Tipi; e
 XXXIX - álcool, inclusive para fins carburantes, durante o prazo de que trata o § 1º do art. 1º da Lei nº 12.859, de 10 de setembro de 2013.
+XL - produtos classificados no Ex 01 do código 8503.00.90 da TIPI.
 § 13. O Poder Executivo poderá regulamentar:
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota zero de que tratam os incisos I a VII, XVIII a XXI e XXIV a XXXVIII do § 12.
