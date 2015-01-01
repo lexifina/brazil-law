@@ -10,6 +10,7 @@ b) sujeitas à substituição tributária da contribuição para o PIS/Pasep;
 c) referidas no art. 5º da Lei nº 9.716, de 26 de novembro de 1998;
 VIII - as receitas decorrentes de prestação de serviços de telecomunicações;
 IX - (VETADO)
-X - as sociedades cooperativas;
+X - (VETADO);
 XI - as receitas decorrentes de prestação de serviços das empresas jornalísticas e de radiodifusão sonora e de sons e imagens.
 XII - as receitas decorrentes de operações de comercialização de pedra britada, de areia para construção civil e de areia de brita.
+XIII - as receitas decorrentes da alienação de participações societárias.

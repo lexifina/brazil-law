@@ -21,5 +21,5 @@ e) R$ 1.566,61 (mil, quinhentos e sessenta e seis reais e sessenta e um centavos
 f) R$ 1.637,11 (mil, seiscentos e trinta e sete reais e onze centavos), por mês, para o ano-calendário de 2012;
 g) R$ 1.710,78 (mil, setecentos e dez reais e setenta e oito centavos), por mês, para o ano-calendário de 2013;
 h) R$ 1.787,77 (mil, setecentos e oitenta e sete reais e setenta e sete centavos), por mês, a partir do ano-calendário de 2014.
-VII - as contribuições para as entidades de previdência complementar de que trata a Lei nº 12.618, de 30 de abril de 2012.
+VII - as contribuições para as entidades fechadas de previdência complementar de natureza pública de que trata o § 15 do art. 40 da Constituição Federal, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social.
 Parágrafo único. A dedução permitida pelo inciso V aplica-se exclusivamente à base de cálculo relativa a rendimentos do trabalho com vínculo empregatício ou de administradores, assegurada, nos demais casos, a dedução dos valores pagos a esse título, por ocasião da apuração da base de cálculo do imposto devido no ano-calendário, conforme disposto na alínea e do inciso II do art. 8º desta Lei.
