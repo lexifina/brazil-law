@@ -4,7 +4,7 @@ II - que tenha sócio domiciliado no exterior;
 III - de cujo capital participe entidade da administração pública, direta ou indireta, federal, estadual ou municipal;
 IV - (REVOGADO)
 V - que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa;
-VI - que preste serviço de transporte intermunicipal e interestadual de passageiros;
+VI - que preste serviço de transporte intermunicipal e interestadual de passageiros, exceto quando na modalidade fluvial ou quando possuir características de transporte urbano ou metropolitano ou realizar-se sob fretamento contínuo em área metropolitana para o transporte de estudantes ou trabalhadores;
 VII - que seja geradora, transmissora, distribuidora ou comercializadora de energia elétrica;
 VIII - que exerça atividade de importação ou fabricação de automóveis e motocicletas;
 IX - que exerça atividade de importação de combustíveis;
@@ -15,9 +15,9 @@ b) bebidas a seguir descritas:
 2. (Revogado);
 3. (Revogado);
 4 - cervejas sem álcool;
-XI - que tenha por finalidade a prestação de serviços decorrentes do exercício de atividade intelectual, de natureza técnica, científica, desportiva, artística ou cultural, que constitua profissão regulamentada ou não, bem como a que preste serviços de instrutor, de corretor, de despachante ou de qualquer tipo de intermediação de negócios;
+XI - (Revogado);
 XII - que realize cessão ou locação de mão-de-obra;
-XIII - que realize atividade de consultoria;
+XIII - (Revogado);
 XIV - que se dedique ao loteamento e à incorporação de imóveis.
 XV - que realize atividade de locação de imóveis próprios, exceto quando se referir a prestação de serviços tributados pelo ISS.
 XVI - com ausência de inscrição ou com irregularidade em cadastro fiscal federal, municipal ou estadual, quando exigível.
