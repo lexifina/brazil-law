@@ -12,7 +12,7 @@ b) R$ 1,00 (um real), a título do imposto referido no inciso VII do caput do ar
 c) R$ 5,00 (cinco reais), a título do imposto referido no inciso VIII do caput do art. 13 desta Lei Complementar, caso seja contribuinte do ISS;
 VI - sem prejuízo do disposto nos §§ 1º a 3º do art. 13, o MEI terá isenção dos tributos referidos nos incisos I a VI do caput daquele artigo, ressalvado o disposto no art. 18-C.
 § 4º Não poderá optar pela sistemática de recolhimento prevista no caput deste artigo o MEI:
-I - cuja atividade seja tributada pelos Anexos IV ou V desta Lei Complementar, salvo autorização relativa a exercício de atividade isolada na forma regulamentada pelo Comitê Gestor;
+I - cuja atividade seja tributada na forma dos Anexos V ou VI desta Lei Complementar, salvo autorização relativa a exercício de atividade isolada na forma regulamentada pelo CGSN;
 II - que possua mais de um estabelecimento;
 III - que participe de outra empresa como titular, sócio ou administrador; ou
 IV - que contrate empregado.
