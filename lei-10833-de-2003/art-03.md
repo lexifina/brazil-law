@@ -11,10 +11,11 @@ VII - edificações e benfeitorias em imóveis próprios ou de terceiros, utiliz
 VIII - bens recebidos em devolução cuja receita de venda tenha integrado faturamento do mês ou de mês anterior, e tributada conforme o disposto nesta Lei;
 IX - armazenagem de mercadoria e frete na operação de venda, nos casos dos incisos I e II, quando o ônus for suportado pelo vendedor.
 X - vale-transporte, vale-refeição ou vale-alimentação, fardamento ou uniforme fornecidos aos empregados por pessoa jurídica que explore as atividades de prestação de serviços de limpeza, conservação e manutenção.
+XI - bens incorporados ao ativo intangível, adquiridos para utilização na produção de bens destinados a venda ou na prestação de serviços.
 § 1º Observado o disposto no § 15 deste artigo, o crédito será determinado mediante a aplicação da alíquota prevista no caput do art. 2º desta Lei sobre o valor:
 I - dos itens mencionados nos incisos I e II do caput, adquiridos no mês;
 II - dos itens mencionados nos incisos III a V e IX do caput, incorridos no mês;
-III - dos encargos de depreciação e amortização dos bens mencionados nos incisos VI e VII do caput, incorridos no mês;
+III - dos encargos de depreciação e amortização dos bens mencionados nos incisos VI, VII e XI do caput, incorridos no mês;
 IV - dos bens mencionados no inciso VIII do caput, devolvidos no mês.
 § 2º Não dará direito a crédito o valor:
 I - de mão-de-obra paga a pessoa física; e
@@ -48,3 +49,11 @@ II - pessoa jurídica transportadora, optante pelo SIMPLES, poderá descontar, d
 § 21. Não integram o valor das máquinas, equipamentos e outros bens fabricados para incorporação ao ativo imobilizado na forma do inciso VI do caput deste artigo os custos de que tratam os incisos do § 2º deste artigo.
 § 23. O disposto no § 17 deste artigo também se aplica na hipótese de aquisição de mercadoria produzida por pessoa jurídica estabelecida nas Áreas de Livre Comércio de que tratam as Leis nºs 7.965, de 22 de dezembro de 1989, 8.210, de 19 de julho de 1991, e 8.256, de 25 de novembro de 1991, o art. 11 da Lei no 8.387, de 30 de dezembro de 1991, e a Lei no 8.857, de 8 de março de 1994.
 § 24. Ressalvado o disposto no § 2º deste artigo e nos §§ 1º a 3º do art. 2º desta Lei, na hipótese de aquisição de mercadoria revendida por pessoa jurídica comercial estabelecida nas Áreas de Livre Comércio referidas no § 23 deste artigo, o crédito será determinado mediante a aplicação da alíquota de 3% (três por cento).
+§ 25. No cálculo do crédito de que tratam os incisos do caput, poderão ser considerados os valores decorrentes do ajuste a valor presente de que trata o inciso III do caput do art. 184 da Lei nº 6.404, de 15 de dezembro de 1976.
+§ 26. O disposto nos incisos VI e VII do caput não se aplica no caso de bem objeto de arrendamento mercantil, na pessoa jurídica arrendatária.
+§ 27. Para fins do disposto nos incisos VI e VII do caput, fica vedado o desconto de quaisquer créditos calculados em relação a:
+I - encargos associados a empréstimos registrados como custo na forma da alínea "b" do § 1º do art. 17 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977; e
+II - custos estimados de desmontagem e remoção do imobilizado e de restauração do local em que estiver situado.
+§ 28. No cálculo dos créditos a que se referem os incisos VI e VII do caput, não serão computados os ganhos e perdas decorrentes de avaliação de ativo com base no valor justo.
+§ 29. Na execução de contratos de concessão de serviços públicos, os créditos gerados pelos serviços de construção, recuperação, reforma, ampliação ou melhoramento de infraestrutura, quando a receita correspondente tiver contrapartida em ativo intangível, representativo de direito de exploração, ou em ativo financeiro, somente poderão ser aproveitados, no caso do ativo intangível, à medida que este for amortizado e, no caso do ativo financeiro, na proporção de seu recebimento, excetuado, para ambos os casos, o crédito previsto no inciso VI do caput.
+§ 30. O disposto no inciso XI do caput não se aplica ao ativo intangível referido no § 29.

@@ -7,4 +7,11 @@ II - tributação definitiva, no caso de beneficiário pessoa física ou pessoa 
 § 5º No caso de beneficiário sociedade civil de prestação de serviços, submetida ao regime de tributação de que trata o art. 1º do Decreto-Lei nº 2.397, de 21 de dezembro de 1987, o imposto poderá ser compensado com o retido por ocasião do pagamento dos rendimentos aos sócios beneficiários.
 § 6º No caso de beneficiário pessoa jurídica tributada com base no lucro real, o imposto de que trata o § 2º poderá ainda ser compensado com o retido por ocasião do pagamento ou crédito de juros, a título de remuneração de capital próprio, a seu titular, sócios ou acionistas.
 § 7º O valor dos juros pagos ou creditados pela pessoa jurídica, a título de remuneração do capital próprio, poderá ser imputado ao valor dos dividendos de que trata o art. 202 da Lei nº 6.404, de 15 de dezembro de 1976, sem prejuízo do disposto no § 2º.
-§ 8º Para os fins de cálculo da remuneração prevista neste artigo, não será considerado o valor de reserva de reavaliação de bens ou direitos da pessoa jurídica, exceto se esta for adicionada na determinação da base de cálculo do imposto de renda e da contribuição social sobre o lucro líquido.
+§ 8º Para fins de cálculo da remuneração prevista neste artigo, serão consideradas exclusivamente as seguintes contas do patrimônio líquido:
+I - capital social;
+II - reservas de capital;
+III - reservas de lucros;
+IV - ações em tesouraria; e
+V - prejuízos acumulados.
+§ 11. O disposto neste artigo aplica-se à Contribuição Social sobre o Lucro Líquido.
+§ 12. Para fins de cálculo da remuneração prevista neste artigo, a conta capital social, prevista no inciso I do § 8º deste artigo, inclui todas as espécies de ações previstas no art. 15 da Lei nº 6.404, de 15 de dezembro de 1976, ainda que classificadas em contas de passivo na escrituração comercial.
