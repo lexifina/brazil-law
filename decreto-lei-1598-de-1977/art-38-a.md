@@ -1,0 +1,1 @@
+Art. 38-A. Os custos associados às transações destinadas à obtenção de recursos próprios, mediante a distribuição primária de ações ou bônus de subscrição contabilizados no patrimônio líquido, poderão ser excluídos, na determinação do lucro real, quando incorridos.

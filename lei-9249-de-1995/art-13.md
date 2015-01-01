@@ -6,6 +6,7 @@ IV - das despesas com alimentação de sócios, acionistas e administradores;
 V - das contribuições não compulsórias, exceto as destinadas a custear seguros e planos de saúde, e benefícios complementares assemelhados aos da previdência social, instituídos em favor dos empregados e dirigentes da pessoa jurídica;
 VI - das doações, exceto as referidas no § 2º;
 VII - das despesas com brindes.
+VIII - de despesas de depreciação, amortização e exaustão geradas por bem objeto de arrendamento mercantil pela arrendatária, na hipótese em que esta reconheça contabilmente o encargo.
 § 1º Admitir-se-ão como dedutíveis as despesas com alimentação fornecida pela pessoa jurídica, indistintamente, a todos os seus empregados.
 § 2º Poderão ser deduzidas as seguintes doações:
 I - as de que trata a Lei nº 8.313, de 23 de dezembro de 1991;

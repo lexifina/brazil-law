@@ -15,3 +15,4 @@ IV - a pessoa jurídica deverá conservar em seu poder cópia das demonstraçõe
 § 4º Os lucros a que se referem os §§ 2º e 3º serão convertidos em Reais pela taxa de câmbio, para venda, do dia das demonstrações financeiras em que tenham sido apurados os lucros da filial, sucursal, controlada ou coligada.
 § 5º Os prejuízos e perdas decorrentes das operações referidas neste artigo não serão compensados com lucros auferidos no Brasil.
 § 6º Os resultados da avaliação dos investimentos no exterior, pelo método da equivalência patrimonial, continuarão a ter o tratamento previsto na legislação vigente, sem prejuízo do disposto nos §§ 1º, 2º e 3º.
+§ 7º Os lucros serão apurados segundo as normas da legislação comercial do país de domicílio.

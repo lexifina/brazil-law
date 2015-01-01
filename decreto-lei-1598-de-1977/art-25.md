@@ -1,1 +1,1 @@
-Art. 25 - As contrapartidas da amortização do ágio ou deságio de que trata o artigo 20 não serão computadas na determinação do lucro real, ressalvado o disposto no artigo 33.
+Art. 25. A contrapartida da redução dos valores de que tratam os incisos II e III do caput do art. 20 não será computada na determinação do lucro real, ressalvado o disposto no art. 33.

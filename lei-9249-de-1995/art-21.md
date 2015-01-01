@@ -1,5 +1,3 @@
-Art. 21. A pessoa jurídica que tiver parte ou todo o seu patrimônio absorvido em virtude de incorporação, fusão ou cisão deverá levantar balanço específico para esse fim, no qual os bens e direitos serão avaliados pelo valor contábil ou de mercado.
+Art. 21. A pessoa jurídica que tiver parte ou todo o seu patrimônio absorvido em virtude de incorporação, fusão ou cisão deverá levantar balanço específico para esse fim, observada a legislação comercial.
 § 1º O balanço a que se refere este artigo deverá ser levantado até trinta dias antes do evento.
-§ 2º No caso de pessoa jurídica tributada com base no lucro presumido ou arbitrado, que optar pela avaliação a valor de mercado, a diferença entre este e o custo de aquisição, diminuído dos encargos de depreciação, amortização ou exaustão, será considerada ganho de capital, que deverá ser adicionado à base de cálculo do imposto de renda devido e da contribuição social sobre o lucro líquido.
-§ 3º Para efeito do disposto no parágrafo anterior, os encargos serão considerados incorridos, ainda que não tenham sido registrados contabilmente.
 § 4º A pessoa jurídica incorporada, fusionada ou cindida deverá apresentar declaração de rendimentos correspondente ao período transcorrido durante o ano-calendário, em seu próprio nome, até o último dia útil do mês subseqüente ao do evento.
