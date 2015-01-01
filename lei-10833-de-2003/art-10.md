@@ -35,5 +35,6 @@ XXVI - as receitas relativas às atividades de revenda de imóveis, desmembramen
 XXVII - (VETADO)
 XXVIII - (VETADO);
 XXIX - as receitas decorrentes de operações de comercialização de pedra britada, de areia para construção civil e de areia de brita.
+XXX - as receitas decorrentes da alienação de participações societárias.
 § 1º Ficam convalidados os recolhimentos efetuados de acordo com a atual redação do inciso IX deste artigo.
 § 2º O disposto no inciso XXV do caput deste artigo não alcança a comercialização, licenciamento ou cessão de direito de uso de software importado.

@@ -4,3 +4,5 @@ Art. 11. As deduções relativas às contribuições para entidades de previdên
 § 3º O somatório das contribuições que exceder o valor a que se refere o § 2º deste artigo deverá ser adicionado ao lucro líquido para efeito de determinação do lucro real e da base de cálculo da contribuição social sobre o lucro líquido.
 § 4º O disposto neste artigo não elide a observância das normas do art. 7º da Lei nº 9.477, de 24 de julho de 1997.
 § 5º Excetuam-se da condição de que trata o caput deste artigo os beneficiários de aposentadoria ou pensão concedidas por regime próprio de previdência ou pelo regime geral de previdência social.
+§ 6º As deduções relativas às contribuições para entidades de previdência complementar a que se referem o inciso VII do art. 4º e a alínea i do inciso II do art. 8º da Lei nº 9.250, de 26 de dezembro de 1995, desde que limitadas à alíquota de contribuição do ente público patrocinador, não se sujeitam ao limite previsto no caput.
+§ 7º Os valores de contribuição excedentes ao disposto no § 6º poderão ser deduzidos desde que seja observado o limite conjunto de dedução previsto no caput.
