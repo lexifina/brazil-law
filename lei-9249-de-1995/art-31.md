@@ -1,1 +1,0 @@
-Art. 31. Os prejuízos não operacionais, apurados pelas pessoas jurídicas, a partir de 1º de janeiro de 1996, somente poderão ser compensados com lucros de mesma natureza, observado o limite previsto no art. 15 da Lei nº 9.065, de 20 de junho de 1995.
