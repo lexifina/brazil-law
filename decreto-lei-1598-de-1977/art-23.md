@@ -1,2 +1,2 @@
 Art. 23 - A contrapartida do ajuste de que trata o artigo 22, por aumento ou redução no valor de patrimônio liquido do investimento, não será computada na determinação do lucro real.
-Parágrafo único - Não serão computadas na determinação do lucro real as contrapartidas de ajuste do valor do investimento ou da amortização do ágio ou deságio na aquisição, nem os ganhos ou perdas de capital derivados de investimentos em sociedades estrangeiras coligadas ou controladas que não funcionem no País.
+Parágrafo único. Não serão computadas na determinação do lucro real as contrapartidas de ajuste do valor do investimento ou da redução dos valores de que tratam os incisos II e III do caput do art. 20, derivados de investimentos em sociedades estrangeiras que não funcionem no País.

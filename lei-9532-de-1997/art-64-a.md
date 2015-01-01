@@ -1,2 +1,3 @@
 Art. 64-A. O arrolamento de que trata o art. 64 recairá sobre bens e direitos suscetíveis de registro público, com prioridade aos imóveis, e em valor suficiente para cobrir o montante do crédito tributário de responsabilidade do sujeito passivo.
-Parágrafo único. O arrolamento somente poderá alcançar outros bens e direitos para fins de complementar o valor referido no caput.
+§ 1º O arrolamento somente poderá alcançar outros bens e direitos para fins de complementar o valor referido no caput.
+§ 2º Fica a critério do sujeito passivo, a expensas dele, requerer, anualmente, aos órgãos de registro público onde os bens e direitos estiverem arrolados, por petição fundamentada, avaliação dos referidos ativos, por perito indicado pelo próprio órgão de registro, a identificar o valor justo dos bens e direitos arrolados e evitar, deste modo, excesso de garantia.

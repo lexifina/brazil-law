@@ -3,6 +3,7 @@ I - o custo dos imóveis vendidos compreenderá:
 a) o custo de aquisição de terrenos ou prédios, inclusive os tributos devidos na aquisição e as despesas de legalização; e
 b) os custos diretos (art. 13, § 1º) de estudo, planejamento, legalização e execução dos planos ou projetos de desmembramento, loteamento, incorporação, construção e quaisquer obras ou melhoramentos.
 II - no caso de empreendimento que compreenda duas ou mais unidades a serem vendidas separadamente, o registro de estoque deve discriminar, ao menos por ocasião do balanço, o custo de cada unidade distinta;
-III - o custo das unidades em estoque deve, por ocasião do balanço, ser corrigido monetariamente nos termos do artigo 43, e a contrapartida da correção deve ser registrada na conta de que trata o item II do artigo 39.
 § 1º - O lucro bruto na venda de cada unidade será apurado e reconhecido quando, contratada a venda, ainda que mediante instrumento de promessa, ou quando implementada a condição suspensiva a que estiver sujeita a venda.
 § 2º - Na correção de que trata o item III, o contribuinte poderá, à sua opção, observar o disposto no artigo 48 e no § 3º do artigo 41.
+§ 3º Na hipótese de operações de permuta envolvendo unidades imobiliárias, a parcela do lucro bruto decorrente da avaliação a valor justo das unidades permutadas será computada na determinação do lucro real pelas pessoas jurídicas permutantes, quando o imóvel recebido em permuta for alienado, inclusive como parte integrante do custo de outras unidades imobiliárias ou realizado a qualquer título, ou quando, a qualquer tempo, for classificada no ativo não circulante investimentos ou imobilizado.
+§ 4º O disposto no § 3º será disciplinado pela Secretaria da Receita Federal do Brasil.

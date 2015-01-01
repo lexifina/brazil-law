@@ -37,11 +37,10 @@ Avaliação do Investimento no Balanço
 Ajuste do Valor do Investimento e Dividendos
 Contrapartida do Ajuste no Valor do Investimento
 Ajuste Decorrente de Reavaliação na Coligada ou Controlada
-Amortização do Ágio ou Deságio
+Redução da Mais ou Menos-Valia e do Goodwill
 Disposições Transitórias
 SUBSEÇÃO III
-Compra e Venda, Loteamento, Incorporação e Construção de Imóveis
-Determinação do Custo e Apuração do Lucro Bruto
+Atividade Imobiliária - Permuta - Determinação do Custo e Apuração do Lucro Bruto
 Venda Antes do Término do Empreendimento
 Venda a Prazo ou em Prestações
 SUBSEÇÃO IV
