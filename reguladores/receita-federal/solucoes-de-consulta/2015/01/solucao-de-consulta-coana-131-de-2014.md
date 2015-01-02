@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 131, de 12 de dezembro de 2014
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 9403.70.00 Mercadoria: Estante organizadora, de plástico, especialmente concebida para conter e encaixar os artigos que compõem os jogos de console de videogame. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.03), RGI 6 (textos das subposições 9403.70) da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi aprovada pelo Decreto nº 7.660, de 23 de 2011, e subsídios extraídos das NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 9403.70.00 Mercadoria: Estante organizadora, de plástico, especialmente concebida para conter e encaixar os artigos que compõem os jogos de console de videogame.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.03), RGI 6 (textos das subposições 9403.70) da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi aprovada pelo Decreto nº 7.660, de 23 de 2011, e subsídios extraídos das NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+LUIZ HENRIQUE DOMINGUES Presidente da 4ª Turma
