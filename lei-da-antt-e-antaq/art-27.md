@@ -28,6 +28,7 @@ XXIV - autorizar as empresas brasileiras de navegação de longo curso, de cabot
 XXV - celebrar atos de outorga de concessão para a exploração da infraestrutura aquaviária, gerindo e fiscalizando os respectivos contratos e demais instrumentos administrativos;
 XXVI - fiscalizar a execução dos contratos de concessão de porto organizado e de arrendamento de instalação portuária, em conformidade com o disposto na Lei na qual foi convertida a Medida Provisória nº 595, de 6 de dezembro de 2012;
 XXVII - (revogado).
+XXVIII - publicar os editais, julgar as licitações e celebrar os contratos de concessão, precedida ou não de execução de obra pública, para a exploração de serviços de operação de eclusas ou de outros dispositivos de transposição hidroviária de níveis situados em corpos de água de domínio da União.
 § 1º No exercício de suas atribuições a ANTAQ poderá:
 I - firmar convênios de cooperação técnica e administrativa com órgãos e entidades da Administração Pública Federal, dos Estados, do Distrito Federal e dos Municípios, tendo em vista a descentralização e a fiscalização eficiente das outorgas;
 II - participar de foros internacionais, sob a coordenação do Poder Executivo; e
