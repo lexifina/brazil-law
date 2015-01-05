@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 360, de 17 de dezembro de 2014
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. TRANSPORTE FERRROVIÁRIO DE PASSAGEIROS. ALÍQUOTA. alíquota da contribuição previdenciária sobre a receita bruta aplicável às empresas de transporte ferroviário de passageiros, enquadradas nas subclasses 4912-4/01 e 4912-4/02 da CNAE 2.0, é de 2% (dois por cento). DISPOSITIVOS LEGAIS: Constituição Federal, art. 195, § 13; Lei nº 12.546, de 2011, art. 7º, inciso V; IN RFB nº 1.436, de 2013; e IN RFB nº 1.523, de 2014.
+[arquivo anexo: SC Cosit nº 360-2014.pdf]
