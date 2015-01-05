@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA: CRITÉRIOS DE CORREÇÃO MONETÁRIA. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ELETROBRÁS. PAGAMENTO DE CRÉDITO COM AÇÕES PREFERENCIAIS NOMINATIVAS. AGE. CONVERSÃO APÓS O TRÂNSITO EM JULGADO. JUROS REMUNERATÓRIOS E MORATÓRIOS. INCIDÊNCIA. 1. A Eletrobrás está autorizada a efetuar o pagamento dos créditos de contribuinte do empréstimo compulsório de energia elétrica com ações preferenciais nominativas, desde que haja autorização de sua Assembleia Geral. 2. Os créditos assegurados podem ser incluídos em Assembleias Gerais Extraordinárias da Eletrobrás, desde que a AGE seja posterior ao trânsito em julgado da demanda.3. Até a efetiva conversão dos créditos em ações da Eletrobrás, os valores devem ser objeto de atualização monetária e juros, segundo os critérios e parâmetros expressamente estabelecidos, em obediência à coisa julgada. In casu, não houve a devida conversão do crédito em ações, não havendo razão para se cogitar da não incidência dos referidos juros. 4. Agravo legal desprovido” (fl. 223, doc. 4).
+    2. No recurso extraordinário, a Agravante afirma ter o Tribunal de origem contrariado os arts. 5º, inc. II, 37, caput, e 97 da Constituição da República e o art. 34, § 12, do Ato das Disposições Constitucionais Transitórias.
+    Sustenta que, “ao impor à ELETROBRÁS a aplicação de metodologia de correção monetária diferente daquela prevista em lei, o v. acórdão recorrido acabou por violar os princípios da ‘reserva legal’ e da ‘legalidade’, previstos, respectivamente, nos arts. 5º, II, e 37 da Constituição” (fl. 32, doc. 5).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 61-63, doc. 5).
+    No agravo, assevera-se que o
+    “acórdão recorrido, acabou por contrariar de forma direta e frontal o art. 34, § 12, do ADCT, pois determinou que os valores fossem corrigidos de maneira diversa da constante da legislação do setor (arts. 3º da Lei n. 4.368/64 e 2º do Decreto-Lei n. 1.512/76). Desta forma, tendo sido demonstrado que houve violação direta e frontal a dispositivos constitucionais suscitados (arts. 5º, II, e 37, da CF e art. 34, § 12, do ADCT), é medida de rigor que o presente recurso extraordinário seja provido por esta Colenda Corte” (fl. 8, doc. 6).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão pela qual não se admite recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Este Supremo Tribunal assentou que os temas de prescrição, critérios de correção monetária e responsabilidade solidária da União relacionados aos empréstimos compulsórios sobre o consumo de energia elétrica não têm repercussão geral, por se tratar de matéria infraconstitucional:
+    “EMPRÉSTIMOS COMPULSÓRIOS SOBRE O CONSUMO DE ENERGIA ELÉTRICA. LEI N. 4.156/62. RESTITUIÇÃO. RESPONSABILIDADE SOLIDÁRIA DA UNIÃO. MATÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL” (AI 735.933-RG, Relator o Ministro Gilmar Mendes, Plenário Virtual, DJe 14.10.2011, grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. PRESCRIÇÃO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 818.234-AgR, de minha relatoria, Primeira Turma, DJe 26.4.2011, grifos nossos).
+    “EMPRÉSTIMOS COMPULSÓRIOS SOBRE O CONSUMO DE ENERGIA ELÉTRICA. Lei 4.156/62. RESTITUIÇÃO. CRITÉRIOS DE CORREÇÃO MONETÁRIA. METÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA” (AI 735.933-RG, Relator o Ministro Gilmar Mendes, Plenário Virtual, DJe 6.12.2010, grifos nossos ).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos de instrumento que suscitarem a mesma questão constitucional devem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Não há, pois, o que prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de janeiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
