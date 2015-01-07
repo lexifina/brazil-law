@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 367, de 18 de dezembro de 2014
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. DESONERAÇÃO DA FOLHA DE PAGAMENTO. EDIÇÃO DE LIVROS. Aplica-se às empresas jornalísticas e de radiodifusão sonora e de sons e imagens a desoneração da CPRB, nos termos da legislação vigente. Empresas que explorem outro ramo de negócio, ainda que exercam atividades enquadradas nos CNAE’s citados especificamente para aquelas, não fazem juz à desoneração. DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, art. 8º, parágrafo 3º, inciso XVI e IN RFB nº 1.436, de 2013, Anexo I, item oito.
+[arquivo anexo: SC Cosit nº 367-2014.pdf]
