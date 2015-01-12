@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 385, de 29 de dezembro de 2014
+ASSUNTO: SIMPLES NACIONAL EMENTA: IMPORTAÇÃO DE VEÍCULO PARA SER UTILIZADO NA ATIVIDADE OPERACIONAL. SEM PREVISÃO DE EXCLUSÃO. A mera importação de um veículo por microempresa ou empresa de pequeno porte optante pelo Simples Nacional para integrar seu ativo imobilizado e com a única finalidade de ser utilizado em sua atividade operacional não constitui motivo de exclusão desse regime de tributação. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, arts. 17, VIII, e 18; Resolução CGSN nº 94, de 2011, Anexo VI.
+[arquivo anexo: SC Cosit nº 385-2014.pdf]
