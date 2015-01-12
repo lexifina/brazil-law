@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 340, de 16 de dezembro de 2014
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF EMENTA: REMUNERAÇÃO DE ADMINISTRADOR JUDICIAL. PARCELA FINAL ARBITRADA PELO JUDICIÁRIO. VALOR DEVIDO NO ENCERRAMENTO DO PROCESSO. INOCORRÊNCIA DE MORA. INEXISTÊNCIA DE ACUMULAÇÃO. A derradeira parcela do montante estipulado pelo Judiciário a título de remuneração dos serviços prestados por administrador judicial é devida somente a partir da sua fixação e, assim, por não competir a períodos anteriores, não se sujeita ao tratamento tributário dispensado aos Rendimentos Recebidos Acumuladamente (RRA). DISPOSITIVOS LEGAIS: Lei nº 7.713, de 22 de dezembro de 1988, art. 12-A; Lei nº 11.101, de 9 de fevereiro de 2005, art. 24, caput e § 2º.
+Novo segmento
+[arquivo anexo: SC Cosit nº 340-2014.pdf]
