@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF07 nº 7049, de 18 de dezembro de 2014
+ASSUNTO: Contribuição de Intervenção no Domínio Econômico - CIDE EMENTA: CONTRATO DE DISTRIBUIÇÃO. NÃO-INCIDÊNCIA. Escapam à incidência da contribuição os valores pagos a título de remuneração pela prestação de serviços, objeto de contrato de distribuição, a pessoas jurídicas residentes ou domiciliadas no exterior. DISPOSITIVOS LEGAIS: Lei nº 10.168, de 2000, art. 2º, §§ 2º e 3º; Código Civil, de 2002, artigos 710 e 721. EMENTA: SOLUÇÃO DE CONSULTA COSIT OU SOLUÇÃO DE DIVERGÊNCIA. VINCULAÇÃO. Existindo solução de consulta Cosit ou solução de divergência, as consultas com mesmo objeto serão solucionadas por meio de solução de consulta vinculada. VINCULAÇÃO À SOLUÇÃO DE CONSULTA COSIT nº 278, DE 6 DE OUTUBRO DE 2014. DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+ASSUNTO: Contribuição de Intervenção no Domínio Econômico - CIDE
+EMENTA: CONTRATO DE DISTRIBUIÇÃO. NÃO-INCIDÊNCIA. Escapam à incidência da contribuição os valores pagos a título de remuneração pela prestação de serviços, objeto de contrato de distribuição, a pessoas jurídicas residentes ou domiciliadas no exterior.
+DISPOSITIVOS LEGAIS: Lei nº 10.168, de 2000, art. 2º, §§ 2º e 3º; Código Civil, de 2002, artigos 710 e 721.
+EMENTA: SOLUÇÃO DE CONSULTA COSIT OU SOLUÇÃO DE DIVERGÊNCIA. VINCULAÇÃO. Existindo solução de consulta Cosit ou solução de divergência, as consultas com mesmo objeto serão solucionadas por meio de solução de consulta vinculada. VINCULAÇÃO À SOLUÇÃO DE CONSULTA COSIT nº 278, DE 6 DE OUTUBRO DE 2014.
+DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+JOSÉ CARLOS SABINO ALVES Chefe
