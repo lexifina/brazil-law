@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF07 nº 7044, de 11 de dezembro de 2014
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF EMENTA: PLANOS DE SAÚDE. MODALIDADE DE PAGAMENTO PREESTABELECIDO. DISPENSA DE RETENÇÃO. As importâncias pagas a cooperativas operadoras de planos de assistência à saúde, decorrentes de contratos de plano privado de assistência à saúde a preços preestabelecidos, não estão sujeitos à retenção do imposto de renda na fonte. DISPOSITIVOS LEGAIS: Decreto nº 3.000, de 1999, art. 652; ADN Cosit nº 1, de 1993. EMENTA: SOLUÇÃO DE CONSULTA COSIT OU SOLUÇÃO DE DIVERGÊNCIA. VINCULAÇÃO. Existindo solução de consulta Cosit ou solução de divergência, as consultas com o mesmo objeto serão solucionadas por meio de solução de consulta vinculada. VINCULAÇÃO À SOLUÇÃO DE CONSULTA COSIT Nº 59, DE 30 DEZEMBRO DE 2013. DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF
+EMENTA: PLANOS DE SAÚDE. MODALIDADE DE PAGAMENTO PREESTABELECIDO. DISPENSA DE RETENÇÃO. As importâncias pagas a cooperativas operadoras de planos de assistência à saúde, decorrentes de contratos de plano privado de assistência à saúde a preços preestabelecidos, não estão sujeitos à retenção do imposto de renda na fonte.
+DISPOSITIVOS LEGAIS: Decreto nº 3.000, de 1999, art. 652; ADN Cosit nº 1, de 1993.
+EMENTA: SOLUÇÃO DE CONSULTA COSIT OU SOLUÇÃO DE DIVERGÊNCIA. VINCULAÇÃO. Existindo solução de consulta Cosit ou solução de divergência, as consultas com o mesmo objeto serão solucionadas por meio de solução de consulta vinculada. VINCULAÇÃO À SOLUÇÃO DE CONSULTA COSIT Nº 59, DE 30 DEZEMBRO DE 2013.
+DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+JOSÉ CARLOS SABINO ALVES Chefe
