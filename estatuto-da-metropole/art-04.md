@@ -1,0 +1,2 @@
+Art. 4º A instituição de região metropolitana ou de aglomeração urbana que envolva Municípios pertencentes a mais de um Estado será formalizada mediante a aprovação de leis complementares pelas assembleias legislativas de cada um dos Estados envolvidos.
+Parágrafo único. Até a aprovação das leis complementares previstas no caput deste artigo por todos os Estados envolvidos, a região metropolitana ou a aglomeração urbana terá validade apenas para os Municípios dos Estados que já houverem aprovado a respectiva lei.
