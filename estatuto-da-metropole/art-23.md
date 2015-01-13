@@ -1,0 +1,1 @@
+Art. 23. Independentemente das disposições desta Lei, os Municípios podem formalizar convênios de cooperação e constituir consórcios públicos para atuação em funções públicas de interesse comum no campo do desenvolvimento urbano, observada a Lei nº 11.107, de 6 de abril de 2005.

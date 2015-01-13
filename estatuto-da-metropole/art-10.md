@@ -1,0 +1,5 @@
+Art. 10. As regiões metropolitanas e as aglomerações urbanas deverão contar com plano de desenvolvimento urbano integrado, aprovado mediante lei estadual.
+§ 1º Respeitadas as disposições do plano previsto no caput deste artigo, poderão ser formulados planos setoriais interfederativos para políticas públicas direcionadas à região metropolitana ou à aglomeração urbana.
+§ 2º A elaboração do plano previsto no caput deste artigo não exime o Município integrante da região metropolitana ou aglomeração urbana da formulação do respectivo plano diretor, nos termos do § 1º do art. 182 da Constituição Federal e da Lei nº 10.257, de 10 de julho de 2001.
+§ 3º Nas regiões metropolitanas e nas aglomerações urbanas instituídas mediante lei complementar estadual, o Município deverá compatibilizar seu plano diretor com o plano de desenvolvimento urbano integrado da unidade territorial urbana.
+§ 4º O plano previsto no caput deste artigo será elaborado no âmbito da estrutura de governança interfederativa e aprovado pela instância colegiada deliberativa a que se refere o inciso II do caput do art. 8º desta Lei, antes do envio à respectiva assembleia legislativa estadual.

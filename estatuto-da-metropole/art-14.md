@@ -1,0 +1,4 @@
+Art. 14. Para o apoio da União à governança interfederativa em região metropolitana ou em aglomeração urbana, será exigido que a unidade territorial urbana possua gestão plena, nos termos do inciso III do caput do art. 2º desta Lei.
+§ 1º Além do disposto no caput deste artigo, o apoio da União à governança interfederativa em região metropolitana impõe a observância do inciso VII do caput do art. 2º desta Lei.
+§ 2º Admite-se o apoio da União para a elaboração e a revisão do plano de desenvolvimento urbano integrado de que tratam os arts. 10 a 12 desta Lei.
+§ 3º Serão estabelecidos em regulamento requisitos adicionais para o apoio da União à governança interfederativa, bem como para as microrregiões e cidades referidas no § 1º do art. 1º desta Lei e para os consórcios públicos constituídos para atuação em funções públicas de interesse comum no campo do desenvolvimento urbano.

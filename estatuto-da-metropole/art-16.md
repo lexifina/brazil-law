@@ -1,0 +1,1 @@
+Art. 16. A União manterá ações voltadas à integração entre cidades gêmeas localizadas na faixa de fronteira com outros países, em relação à mobilidade urbana, como previsto na Lei nº 12.587, de 3 de janeiro de 2012, e a outras políticas públicas afetas ao desenvolvimento urbano.

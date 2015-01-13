@@ -1,0 +1,1 @@
+Art. 15. A região metropolitana instituída mediante lei complementar estadual que não atenda o disposto no inciso VII do caput do art. 2º desta Lei será enquadrada como aglomeração urbana para efeito das políticas públicas a cargo do Governo Federal, independentemente de as ações nesse sentido envolverem ou não transferência de recursos financeiros.
