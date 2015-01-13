@@ -1,0 +1,2 @@
+Dispõe sobre a criação de 1 (uma) vara federal no Estado do Paraná e sobre a criação de cargos efetivos e em comissão e funções comissionadas no Quadro de Pessoal da Justiça Federal e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
