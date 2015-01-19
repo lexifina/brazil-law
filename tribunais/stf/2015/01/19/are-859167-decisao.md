@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa transcrevo a seguir:
+    “APELAÇÃO CÍVEL. REEXAME NECESSÁRIO, PROMOÇÃO DE CLASSE. AUSÊNCIA DE EFEITO RETROATIVO NO ATO.
+    Ato de promoção que não contempla, expressamente, efeito retroativo, sendo vedada a concessão deste pelo Poder Judiciário, em razão da promoção se tratar de ato discricionário, em que devem ser observados critérios de conveniência e oportunidade, bem como por ausência de previsão legal de retroação do ato concessivo de promoção.
+    DERAM PROVIMENTO AO APELO. PREJUDICADO O REEXAME NECESSÁRIO. UNÂNIME” (fl. 86).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV e LV, e 37 do texto constitucional.
+    Nas razões recursais, alega-se que a parte recorrente preencheu os requisitos para a promoção em 2002, logo deve ser atribuído efeito retroativo às promoções previstas no plano de carreira do magistério estadual.
+    A 1ª Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul inadmitiu o recurso por reputar que o caso se resolve no âmbito infraconstitucional e ofensa à Constituição Federal, caso houvesse, seria indireta.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, constato que o Pleno desta Corte, na Questão de Ordem no AI 760.358, de minha relatoria, DJe 3.12.2009, firmou o entendimento no sentido de que não cabe ao Supremo Tribunal Federal rever decisão que, na origem, aplica a sistemática da repercussão geral, nos termos do art. 543-B do CPC, assim ementado:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.”
+    Nesse sentido, ressalta-se que não cabe a interposição do agravo previsto no artigo 544 de CPC contra decisão de tribunal de origem que aplica a sistemática da repercussão geral. Portanto, resta impedida a cognição das matérias preliminares em sede de recurso extraordinário.
+    Em relação ao mérito, constato que o Tribunal de origem assim assentou:
+    “Conforme se verifica às fls. 16/18, há menção de promoção apenas a partir da publicação, não havendo qualquer referência a período pretérito” (fl. 87).
+    Na espécie, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o revolvimento da legislação infraconstitucional aplicável à espécie, precipuamente de índole local, o que não enseja a abertura do recurso extraordinário, uma vez que se aplica o Enunciado da Súmula 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Servidor público. Promoção. Publicação. Efeitos. Legislação local. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alegam violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido.”
+(ARE 781977 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 24.2.2014)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PROFESSOR ESTADUAL. PROMOÇÃO NA CARREIRA. CASO EM QUE ENTENDIMENTO DIVERSO DO ADOTADO PELA INSTÂNCIA JUDICANTE DE ORIGEM EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 1. Eventual ofensa ao Magno Texto apenas ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via recursal extraordinária. 2. Agravo regimental desprovido.”
+(AI 459701 AgR, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 20.4.2012)
+    Demais disso, é entendimento sumulado desta Corte que “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (Enunciado da Súmula 636 do STF).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (Art. 544, §4º, II, a, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 19 de janeiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
