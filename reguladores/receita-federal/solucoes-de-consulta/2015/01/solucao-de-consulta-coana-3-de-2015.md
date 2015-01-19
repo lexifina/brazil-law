@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 3, de 14 de janeiro de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8474.31.00 Mercadoria: Betoneira autopropulsada sobre 4 rodas, autocarregável, própria para misturar argamassa e concreto em canteiro de obra, com capacidade de produção de 3,5m³, velocidade de deslocamento até 40km/h, superestrutura (tambor de mistura + pá de carregamento) giratória, posto de comando e direção giratório. DISPOSITIVOS LEGAIS: RGI/SH-1 (texto da posição 84.74) e 6 (texto da subposição 8474.31), da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8474.31.00 Mercadoria: Betoneira autopropulsada sobre 4 rodas, autocarregável, própria para misturar argamassa e concreto em canteiro de obra, com capacidade de produção de 3,5m³, velocidade de deslocamento até 40km/h, superestrutura (tambor de mistura + pá de carregamento) giratória, posto de comando e direção giratório.
+DISPOSITIVOS LEGAIS: RGI/SH-1 (texto da posição 84.74) e 6 (texto da subposição 8474.31), da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.
+SILVANA DEBONI BRITO Vice-Presidente Da 4ª Turma
