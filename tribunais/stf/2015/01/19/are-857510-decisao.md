@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO EXTEMPORÂNEO. SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Segunda Turma Recursal dos Juizados Especiais Federais de Santa Catarina decidiu:
+    “Recorre o Instituto Nacional do Seguro Social almejando o afastamento do reconhecimento da especialidade da atividade exercida de 01.10.1994 a 01.03.1996 e de 01.08.1996 a 16.03.2011 (frentista).
+    O recurso não merece provimento. Quanto à atividade especial exercida pela parte-autora, assim dispôs a sentença recorrida: (...).
+    A sentença deve ser mantida por seus próprios fundamentos.
+    Com efeito, verifico que a documentação acostada ao feito é firme ao informar a periculosidade da atividade exercida pela parte-autora (evento 22), o que possibilita o reconhecimento da especialidade mediante a aplicação do entendimento consubstanciado na Súmula 198 do extinto Tribunal Federal de Recursos, a saber: 'Atendidos os demais requisitos, é devida a aposentadoria especial, se perícia judicial constata que a atividade exercida pelo segurado é perigosa, insalubre ou penosa, mesmo não inscrita em regulamento'.
+    Vale lembrar que, recentemente, o Superior Tribunal de Justiça, por meio do regime de recursos repetitivos, reafirmou entendimento de que a o rol de atividades e agentes nocivos constantes do Decreto 2.172/97 possui caráter meramente exemplificativo, o que possibilitou, naquele caso concreto, o reconhecimento da especialidade em razão de exposição a eletricidade (STJ, REsp 1.306.113/SC, rel. Ministro Herman Benjamin, julgamento em 14.11.2012).
+    Condeno o INSS no pagamento de honorários advocatícios (art. 55 da Lei n. 9.099/95 c/c o art. 1º da Lei nº. 10.259/01), fixados em 10% (dez por cento) sobre o valor da condenação, consideradas as parcelas vencidas até a sentença (Súmula 76 do TRF4), ou, em não havendo condenação, sobre o valor atualizado da causa, com exigibilidade suspensa na hipótese de concessão do benefício da Assistência Judiciária Gratuita. Ressalvo que a condenação em honorários não pode ser inferior ao salário mínimo (art. 20 do CPC).
+    Considero prequestionados os arts. 57 e 58 da Lei n. 8.213/91. Ante o exposto, voto por NEGAR PROVIMENTO AO RECURSO”.
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição da República.
+    4. O Agravante argumenta que,
+    “no caso concreto, desde a exordial caracterizou-se o contencioso constitucional, tendo a parte autora, já na inicial, invocado as garantias constitucionais como fundamento do seu direito, assim como o INSS em toda a sua defesa rechaçado tal possibilidade com base em vedação expressa constante da Constituição, § 1º, do artigo 201, e na impossibilidade de o Judiciário atuar como Legislador positivo, criando aposentadoria especial não prevista na Constituição, em clara ofensa ao Princípio da Separação dos Poderes, e sem indicar fonte de custeio, impactando na quebra do equilíbrio atuarial e financeiro do RGPS”.
+    No recurso extraordinário, alega-se ter a Turma Recursal contrariado os arts. 1º, inc. IV, 2º, 5º, caput, incs. LIV e LV, 37, caput, 93, inc. IX, 195, § 5º, e 201, caput e § 1º, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. O Agravante interpôs recurso extraordinário contra acórdão proferido pela Turma Recursal e, simultaneamente, pedido de uniformização do entendimento sobre a matéria.
+    O Supremo Tribunal Federal assentou que somente com o julgamento do incidente de uniformização de jurisprudência estaria esgotada a instância para a interposição do recurso extraordinário. Incide, na espécie, a Súmula n. 281 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO. INSTÂNCIA NÃO ESGOTADA. SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 761.649-AgR, de minha relatoria, Segunda Turma, DJe 4.11.2013, grifos nossos).
+    “Agravo regimental no recurso extraordinário. Recurso extraordinário extemporâneo. Precedentes. 1. A jurisprudência desta Corte é pacífica no sentido de ser extemporâneo o recurso extraordinário interposto antes do julgamento do incidente de uniformização de jurisprudência. 2. Agravo regimental não provido” (RE 598.211-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 15.3.2011, grifos nossos).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO DE TURMA RECURSAL DE JUIZADO ESPECIAL FEDERAL. INTERPOSIÇÃO SIMUTÂNEA DE PEDIDO DE UNIFORMIZAÇÃO. RECURSO EXTRAORDINÁRIO EXTEMPORÂNEO. AGRAVO IMPROVIDO. I Esta Corte firmou entendimento no sentido de se considerar extemporâneo o recurso extraordinário interposto contra decisão proferida por Turma Recursal dos Juizados Especiais Federais antes do julgamento de pedido de uniformização interposto contra essa mesma decisão. II Ante a existência de incidente de uniformização pendente de julgamento, não há decisão de única ou última instância que dá ensejo a abertura da via extraordinária. Incidência da Súmula 281 do STF. III Agravo regimental improvido” (RE 468.692-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 19.5.2011, grifos nossos).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de janeiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
