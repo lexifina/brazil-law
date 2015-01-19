@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça da Bahia, ementado nos seguintes termos:
+    “ADMINISTRATIVO. AÇÃO ORDINÁRIA, POLICIAL MILITAR INATIVO. PRETENSÃO DE INDENIZAÇÃO POR FÉRIAS NÃO GOZADAS. IMPROCEDÊNCIA. APELAÇÃO. PRESENÇA DOS PRESSUPOSTOS DE ADMISSIBILIDADE. PRESCRIÇÃO QUINQUENAL. INOCORRÊNCIA. INDENIZAÇÃO DEVIDA. INTELIGÊNCIA DO ART. 7º DA LEI 6.932/96. INCIDÊNCIA DO ACRÉSCIMO DO TERÇO CONSTITUCIONAL A PARTIR DA VIGÊNCIA DA CONSTITUIÇÃO FEDERAL DA 1988. RECURSO VOLUNTÁRIO PROVIDO. SENTENÇA REFORMADA” (eDOC 1, p. 96).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput; 37, caput; 39, § 1º; 40, § 4º; e 93, IX, todos do texto constitucional.
+    Aduz-se, em síntese, a nulidade do acórdão recorrido por negativa de prestação jurisdicional. Ademais, sustenta-se a inexistência de direito adquirido a regime jurídico.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, com relação à alegada ofensa ao art. 93, inciso IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010.
+    Nessa oportunidade, o STF reconheceu a existência de repercussão geral do tema e reafirmou sua jurisprudência no sentido de que os referidos artigos exigem que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas. Eis a ementa do citado precedente da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010)”.
+    Assim o tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador.
+    Dessa forma, verifico que a prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses dos recorrentes. Portanto, não prospera a alegação de nulidade do acórdão.
+    Em relação à indenização das férias em dobro, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável à espécie, precipuamente de índole local, o que não enseja a abertura do recurso extraordinário, uma vez que se aplicam os Enunciados 279 e 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “1. Tratou o recurso extraordinário de matéria processual referente ao reexame do julgamento dos embargos de declaração opostos na instância de origem. 2. A discussão em torno do pagamento em dobro das férias não concedidas ao agravado também reside no âmbito infraconstitucional, o que veda a admissão do extraordinário. 3. Agravo regimental a que se nega provimento.”
+(AI 322067 AgR, Rel. Min. ELLEN GRACIE, Primeira Turma, DJ 19.4.2002)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Servidor público. Férias não gozadas a critério da Administração. Indenização. 4. Decreto n. 3.044/1980 (Estatuto dos Policiais Civis) do Estado do Rio de Janeiro. Necessidade de análise e interpretação de legislação local. Impossibilidade. Incidência do Enunciado 280 da Súmula desta Corte. 5. Jurisprudência do STF no sentido de que é assegurada ao servidor a conversão de férias não gozadas em indenização, tendo em vista a vedação do enriquecimento sem causa. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.”
+(ARE 731224 AgR, de minha relatoria, Segunda Turma, DJe 20.3.2013)
+    Ademais, cito as seguintes decisões monocráticas: ARE 709.543, Rel. Min. Cármen Lúcia, DJe 6.12.2012, e ARE 670.410, Rel. Min. Rosa Weber, DJe 8.8.2012.
+    Ante o exposto, conheço do presente agravo para negar provimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 19 de janeiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
