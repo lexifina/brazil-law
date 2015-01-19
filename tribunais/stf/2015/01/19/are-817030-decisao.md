@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal de Justiça do Estado de Minas Gerais, por meio da decisão de fl. 245, determinando a devolução dos autos para que cumpra-se o disposto no art. 543-B do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada no tema 646 da sistemática da repercussão geral, cujo paradigma é o ARE-RG 678.112, Rel. Min. Luiz Fux, DJe 17.5.2013.
+    No entanto, os autos foram reenviados ao STF pelo Tribunal a quo, ao fundamento de que a controvérsia não corresponderia àquela de que trata o paradigma indicado, uma vez que nestes autos se discute-se “o momento de aferição da idade do candidato – se na data de inscrição no concurso públio ou na de matrícula no curso de formação” (fl. 249).
+    Decido.
+    Após detida análise, verifico que a vinculação ao precedente indicado, tema 646, está equivocada, tendo em vista que a matéria debatida nestes autos é diversa da controvérsia do paradigma citado, motivo pelo qual reconsidero a decisão de devolução (fls. 245) e passo a julgamento do recurso extraordinário com agravo.
+    Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado de Minas Gerais que negou seguimento ao recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “CONSTITUCIONAL E ADMINISTRATIVO – MANDADO DE SEGURANÇA – CONCURSO PÚBLICO – EDITAL – LIMITE DE IDADE – PRINCÍPIO DA LEGALIDADE E RAZOABILIDADE – DIREITO LÍQUIDO E CERTO – PROVIMENTO DO RECURSO.
+    - A Lei nº 5.301/1969, secundada pelo edital do certame, determina que o candidato ao ingresso nas fileiras da PMMG não poderá contar com menos de 18 e mais de 30 anos quando se inscreveu no concurso”. (fl. 161)
+    Nas razões recursais, sustenta-se a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 37, I; 39, § 3º; 142, § 1º e 3º, da Carta Magna.
+    O recorrente alega, em síntese, violação ao princípio da legalidade. Ademais, sustenta ser legal a possibilidade de limitar a idade para ingresso nos quadros da PM/MG e que o recorrido ultrapassou a idade limite.
+    Não assiste razão ao recorrente.
+    Isso porque o acórdão recorrido esta em sintonia com a jurisprudência desta Corte que firmou-se no sentido de que a comprovação requisito etário para ingresso em concurso público deve ser apurado no momento da inscrição no certame.
+    Nesse sentido, destacam-se precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. COMPROVAÇÃO DO REQUISITO DE IDADE NO MOMENTO DA INSCRIÇÃO NO CERTAME. PRECEDENTES. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO CONSTITUCIONAL DA RESERVA DE PLENÁRIO. A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que a comprovação do requisito de idade deve ocorrer por ocasião da inscrição no concurso público. Precedentes Não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. (ARE 723.052, julgado sob a relatoria do Ministro Marco Aurélio). Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento”. (ARE-AgR 758.596 /CE, Rel. Min. Roberto Barroso, 1ª Turma, DJe 4.9.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DO CEARÁ. LIMITE DE IDADE. COMPROVAÇÃO. DATA DA INSCRIÇÃO NO CONCURSO. INOVAÇÃO DE MATÉRIA EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A comprovação do requisito de idade deve ser realizada no momento da inscrição no concurso público. Precedentes. II – A alegada ofensa ao art. 97 da Constituição, suscitada no agravo regimental, não foi arguida no recurso extraordinário. É incabível a inovação de fundamento nesta via recursal. Precedentes. III – Agravo regimental a que se nega provimento”. (ARE-AgR/CE 741.815, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 13..2.2014)
+    Dessa forma, não há o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 19 de janeiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
