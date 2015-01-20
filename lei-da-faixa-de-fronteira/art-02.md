@@ -10,3 +10,4 @@ VI - participação, a qualquer título, de estrangeiro, pessoa natural ou jurí
 § 1º. - O assentimento prévio, a modificação ou a cassação das concessões ou autorizações serão formalizados em ato da Secretaria-Geral do Conselho de Segurança Nacional, em cada caso.
 § 2º. - Se o ato da Secretaria-Geral do Conselho de Segurança Nacional for denegatório ou implicar modificação ou cassação de atos anteriores, da decisão caberá recurso ao Presidente da República.
 § 3º. - Os pedidos de assentimento prévio serão instruídos com o parecer do órgão federal controlador da atividade, observada a legislação pertinente em cada caso.
+§ 4º Excetua-se do disposto no inciso V, a hipótese de constituição de direito real de garantia em favor de instituição financeira, bem como a de recebimento de imóvel em liquidação de empréstimo de que trata o inciso II do art. 35 da Lei nº 4.595, de 31 de dezembro de 1964.
