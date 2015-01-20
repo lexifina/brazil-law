@@ -1,0 +1,1 @@
+Art. 36-A. A autoridade de aviação civil poderá expedir regulamento específico para aeródromos públicos situados na área da Amazônia Legal, adequando suas operações às condições locais, com vistas a promover o fomento regional, a integração social, o atendimento de comunidades isoladas, o acesso à saúde e o apoio a operações de segurança.
