@@ -1,0 +1,11 @@
+Art. 27-A. Nas condições estabelecidas no contrato de concessão, o poder concedente autorizará a assunção do controle ou da administração temporária da concessionária por seus financiadores e garantidores com quem não mantenha vínculo societário direto, para promover sua reestruturação financeira e assegurar a continuidade da prestação dos serviços.
+§ 1º Na hipótese prevista no caput, o poder concedente exigirá dos financiadores e dos garantidores que atendam às exigências de regularidade jurídica e fiscal, podendo alterar ou dispensar os demais requisitos previstos no inciso I do parágrafo único do art. 27.
+§ 2º A assunção do controle ou da administração temporária autorizadas na forma do caput deste artigo não alterará as obrigações da concessionária e de seus controladores para com terceiros, poder concedente e usuários dos serviços públicos.
+§ 3º Configura-se o controle da concessionária, para os fins dispostos no caput deste artigo, a propriedade resolúvel de ações ou quotas por seus financiadores e garantidores que atendam os requisitos do art. 116 da Lei nº 6.404, de 15 de dezembro de 1976.
+§ 4º Configura-se a administração temporária da concessionária por seus financiadores e garantidores quando, sem a transferência da propriedade de ações ou quotas, forem outorgados os seguintes poderes:
+I - indicar os membros do Conselho de Administração, a serem eleitos em Assembleia Geral pelos acionistas, nas sociedades regidas pela Lei 6.404, de 15 de dezembro de 1976; ou administradores, a serem eleitos pelos quotistas, nas demais sociedades;
+II - indicar os membros do Conselho Fiscal, a serem eleitos pelos acionistas ou quotistas controladores em Assembleia Geral;
+III - exercer poder de veto sobre qualquer proposta submetida à votação dos acionistas ou quotistas da concessionária, que representem, ou possam representar, prejuízos aos fins previstos no caput deste artigo;
+IV - outros poderes necessários ao alcance dos fins previstos no caput deste artigo.
+§ 5º A administração temporária autorizada na forma deste artigo não acarretará responsabilidade aos financiadores e garantidores em relação à tributação, encargos, ônus, sanções, obrigações ou compromissos com terceiros, inclusive com o poder concedente ou empregados.
+§ 6º O Poder Concedente disciplinará sobre o prazo da administração temporária.
