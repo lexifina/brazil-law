@@ -1,5 +1,5 @@
 Art. 12 - Nenhum dos produtos de que trata esta Lei, inclusive os importados, poderá ser industrializado, exposto à venda ou entregue ao consumo antes de registrado no Ministério da Saúde.
-§ 1º - O registro a que se refere este artigo terá validade por 5 (cinco) anos e poderá ser revalidado por períodos iguais e sucessivos, mantido o número do registro inicial.
+§ 1º - A Agência Nacional de Vigilância Sanitária - ANVISA - definirá por ato próprio o prazo para renovação do registro dos produtos de que trata esta Lei, não superior a 10 (dez) anos, considerando a natureza do produto e o risco sanitário envolvido na sua utilização.
 § 2º - Excetua-se do disposto no parágrafo anterior a validade do registro e da revalidação do registro dos produtos dietéticos, cujo prazo é de 2 (dois) anos.
 § 3º - O registro será concedido no prazo máximo de 90 (noventa) dias, a contar da data de entrega do requerimento, salvo nos casos de inobservância desta Lei ou de seus regulamentos.
 § 4º - Os atos referentes ao registro e à revalidação do registro somente produzirão efeitos a partir da data da publicação no "Diário Oficial" da União.

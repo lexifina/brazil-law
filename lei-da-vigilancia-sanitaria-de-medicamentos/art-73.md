@@ -1,1 +1,2 @@
-Art. 73. Para efeito de fiscalização sanitária, os ensaios destinados à verificação da eficiência da fórmula serão realizados consoante as normas fixadas pelo Ministério da Saúde.
+Art. 73. As análises fiscais e de controle, para fins de fiscalização e monitoramento dos produtos sujeitos ao regime de vigilância sanitária, deverão ser realizadas por laboratório oficial, instituído no âmbito da União, dos Estados, do Distrito Federal ou dos Municípios, ou por laboratórios públicos ou privados credenciados para tal fim.
+Parágrafo único. O credenciamento de que trata o caput será realizado pela Anvisa ou pelos próprios laboratórios oficiais, nos termos de regulamentação específica editada pela Anvisa.

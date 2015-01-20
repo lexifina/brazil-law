@@ -6,6 +6,6 @@ IV - cumprir e fazer cumprir as normas relativas à vigilância sanitária;
 V - elaborar e divulgar relatórios periódicos sobre suas atividades;
 VI - julgar, em grau de recurso, as decisões da Agência, mediante provocação dos interessados;
 VII - encaminhar os demonstrativos contábeis da Agência aos órgãos competentes.
-VIII - encaminhar os demonstrativos contábeis da Agência aos órgãos competentes.
+VIII - elaborar, aprovar e promulgar o regimento interno, definir a área de atuação das unidades organizacionais e a estrutura executiva da Agência.
 § 1º A Diretoria reunir-se-á com a presença de, pelo menos, três Diretores, dentre eles o Diretor-Presidente ou seu substituto legal, e deliberará por maioria simples.
 § 2º Dos atos praticados pela Agência caberá recurso à Diretoria Colegiada, com efeito suspensivo, como última instância administrativa.
