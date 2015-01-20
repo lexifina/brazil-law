@@ -1,2 +1,1 @@
 Art. 3º As companhias securitizadoras de créditos imobiliários, instituições não financeiras constituídas sob a forma de sociedade por ações, terão por finalidade a aquisição e securitização desses créditos e a emissão e colocação, no mercado financeiro, de Certificados de Recebíveis Imobiliários, podendo emitir outros títulos de crédito, realizar negócios e prestar serviços compatíveis com as suas atividades.
-Parágrafo único. O Conselho Monetário Nacional - CMN poderá fixar condições para o funcionamento das companhias de que trata este artigo.
