@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1541, de 20 de janeiro de 2015
+Altera a Instrução Normativa RFB nº 1.508, de 4 de novembro de 2014, que dispõe sobre o parcelamento de débitos apurados no Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional) no âmbito da Secretaria da Receita Federal do Brasil.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos §§ 15 a 24 do art. 21 da Lei Complementar nº 123, de 14 de dezembro de 2006, e na Resolução CGSN nº 94, de 29 de novembro de 2011, resolve:
