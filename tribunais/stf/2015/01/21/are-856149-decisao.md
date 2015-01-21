@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. DANOS MORAIS DECORRENTES DE INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Primeira Turma Recursal de Ipatinga/MG:
+    “Negativação indevida. Alegação de que o débito de cartão de crédito foi pago. Pagamento da fatura do cartão feito parcialmente. Ausência de comprovação quanto ao pagamento integral desta fatura nos meses subsequentes. Prova que cabia à parte autora, por ser de fácil consecução, bastando juntar a prova do pagamento posterior, o que não foi feito” (fls. 68-69).
+    Os embargos de declaração opostos foram acolhidos nos seguintes termos:
+    “Quando da negativação, efetivamente estava o autor em débito e a quitação só veio a ocorrer em 8 de agosto de 2012.
+    Antes que fosse determinada a baixa judicial, já havia ocorrido o cancelamento da negativação, doc. fls. 38.
+    Pelos documentos de fls. 14, não há dúvidas de que haviam dois contratos distintos, o que é identificado pelos últimos quatro dígitos 1951 e 3641.
+    Destarte, acolho os embargos para identificar a ocorrência dos dois contratos, conforme documento de fls. 14 e a existência de débito quando da negativação” (fl. 86).
+    2. O Agravante alega contrariados os arts. 1º, inc. III, 5º, incs. V, X, LIV e LV, e 93, inc. IX, da Constituição da República, asseverando que
+    “sempre cumpriu seus compromissos junto à parte Ré, no entanto, colidiu seu automóvel e teve despesas inesperadas, excedendo por vezes o limite de seu cheque especial, mas sempre efetuando depósitos para cobrir o limite de sua conta.
+    (…)
+    O MM. Juiz do Juizado Especial, que participou da fase de conhecimento e de forma correta analisou o mérito, proferindo sentença que declarou a ilicitude da negativação do nome do autor em 28.7.2012 por dívida vencida em 6.7.2012, e condenou o Réu a indenizá-lo moralmente, haja vista que foi demonstrado nos autos, por meio de extrato bancário e quitação parcelada (2 vezes) da fatura do cartão de crédito com final 3641, que o autor não tinha dívida junto ao Réu que ensejasse a negativação do seu nome em 28.7.2012, tendo o réu, em sede de defesa, se limitado a afirmar que havia débito, sem demonstrar a sua existência.
+    A Egrégia Turma Recursal deu provimento ao Recurso Inominado interposto pelo Recorrido e julgou improcedentes os pedidos formulados na ação de indenização proposta, por um equívoco da relatora do acórdão, sendo a decisão confirmada em embargos declaratórios para acrescer a absurda conclusão que o Recorrente possuía dois débitos para com o Réu, referente aos contratos 3641 e 1591.
+    Assim, a E. Turma Recursal, ao julgar que o Recorrente tinha 2 débitos referentes ao cartão de crédito com final 3641 (pago em duas parcelas regularmente) e com a conta corrente com final 1951 (a qual não tinha débito em 6.7.2012), afrontou diretamente a Constituição Federal” (fls. 88-98).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    7. No julgamento do Recurso Extraordinário n. 602.136, Relatora a Ministra Ellen Gracie, este Supremo Tribunal assentou ser de natureza infraconstitucional e sem repercussão geral a questão relativa à indenização por danos morais decorrentes de inscrição indevida em cadastro de proteção ao crédito:
+    “INDENIZAÇÃO. DANOS MORAIS. CADASTRAMENTO INDEVIDO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL” (DJe 4.12.2009).
+    Confiram-se também os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DANO MORAL INSCRIÇÃO INDEVIDA EM CADASTRO DE RESTRIÇÃO AO CRÉDITO. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RE 602.136-RG. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. ALEGADA OFENSA AOS ARTS. 93, IX, E 98, I, DA CF/88. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. 1. O dano moral decorrente da inscrição indevida em cadastro de restrição ao crédito, quando aferido pelas instâncias ordinárias, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do RE 602.136-RG, Rel. Min. Ellen Gracie, DJe 4/12/2009” (ARE 838.487-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 11.12.2014).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. CONSUMIDOR. INDENIZAÇÃO. DANOS MORAIS. CADASTRAMENTO INDEVIDO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 825.200-ED, de minha relatoria, Segunda Turma, DJe 28.8.2014).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de janeiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
