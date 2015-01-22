@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. FUNDO DE GARANTIA POR TEMPO DE SERVIÇO – FGTS. JUROS PROGRESSIVOS. FALTA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS NS. 279, 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Terceira Turma do Tribunal Regional Federal da Quarta Região:
+    “ADMINISTRATIVO. FGTS. JUROS PROGRESSIVOS. EXTRATOS. PERÍODO PRESCRITO.
+    1. É evidente que não são mais exigíveis os extratos anteriores a 30 anos do ajuizamento da ação: 'Os prazos prescricionais servem à paz social e à segurança jurídica. Não destroem o direito, que é; não cancelam, não apagam as pretensões; apenas, encobrindo a eficácia da pretensão, atendem à conveniência de que não perdure por demasiado tempo a exigibilidade ou a acionabilidade.' (Pontes de Miranda, Tratado, t. VI, p. 101 apud José Carlos Barbosa Moreira, Temas de Direito Processual, Nona Série, Editora Saraiva, 2007, pág. 9).
+    2. Se não há direito aos juros progressivos no período alcançado pela prescrição trintenária, descabe recalcular o saldo inicial para o cálculo das diferenças nos juros progressivos 'como se' a parte autora tivesse direito aos juros progressivos no período prescrito.
+    3. Agravo desprovido”.
+    2. No recurso extraordinário, aponta-se afronta ao art. 5º, incs. XXXV e XXXVI, da Constituição da República.
+    3. Inadmitiu-se o recurso ao fundamento de não haver ofensa constitucional direta.
+    4. O Agravante assevera ofensa direta à Constituição, alegando:
+    “no presente caso que não se trata de apreciação meramente de prova, mas sim de apreciação de matéria legal – Lei nº 5.958 de 1973 – que prevê que os optantes pelo FGTS, os quais optaram de forma retroativa e com o consentimento do empregador consignado na CTPS, passam automaticamente a ter o direito a receber diferenças de progressividade de juros sobre o saldo de FGTS, visto estarem preenchidos os requisitos da Lei 5.958/73 e Súmula 154 do STJ. Dessa forma a aplicação da referida Lei e súmula são automáticas, não havendo o que se questionar sendo esta a única prova cabal do direito ao recebimento da progressividade juros sobre saldo de FGTS qual seja – OPÇÃO RETROATIVA CONSTANTE DA CTPS COM ANUÊNCIA DO EMPREGADOR”.
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    7. As matérias constitucionais suscitadas no recurso extraordinário não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco tendo sido opostos embargos de declaração para se comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    “FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. O prequestionamento é requisito de admissibilidade do recurso extraordinário mesmo que a matéria versada no recurso seja de ordem pública. Agravo regimental a que se nega provimento” (AI 748.057-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 1º.10.2010).
+    8. A apreciação do pleito recursal demandaria o reexame do conjunto fático-probatório, atraindo-se o óbice da Súmula n. 279 do Supremo Tribunal Federal.
+    9. Além disso, seria necessária a análise prévia da legislação infraconstitucional aplicável ao caso (Leis ns. 5.107/1966 e 5.958/1973). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AÇÃO RESCISÓRIA. FUNDO DE GARANTIA POR TEMPO DE SERVIÇO – FGTS. TAXA DE JUROS PROGRESSIVOS. OPÇÃO RETROATIVA. LEIS 5.107/1966 E 5.705/1971. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. PRECEDENTES.
+    1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas na instância recursal extraordinária.
+    2. Agravo regimental desprovido” (RE 611.511-AgR/RJ, Relator o Ministro Ayres Britto, Segunda Turma, DJe 25.8.2011).
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais” (AI 467.745-AgR/SP, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 4.9.2012).
+    10. No julgamento do Recurso Extraordinário n. 628.137, Relatora a Ministra Ellen Gracie, este Supremo Tribunal assentou inexistir repercussão geral na questão trazida na espécie:
+    “ADMINISTRATIVO. INCIDÊNCIA DOS JUROS PROGRESSIVOS SOBRE CONTA VINCULADA DE FUNDO DE GARANTIA POR TEMPO DE SERVIÇO - FGTS. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL” (DJe 23.11.2010).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    11. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de janeiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
