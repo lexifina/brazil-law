@@ -1,0 +1,7 @@
+Solução de Divergência Coana nº 4, de 16 de janeiro de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Reforma a Solução de Consulta SRRF/7ª RF/Diana nº 319, de 23 de outubro de 2003. Código NCM: 8431.41.00 Mercadoria: Caçamba com capacidade de carga de 15 m3 para ser utilizada em carregadora de rodas (“wheel loader”). DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.31) e RGI 6 (textos da subposição de primeiro nível 8431.4 e da subposição de segundo nível 8431.41) constantes da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma a Solução de Consulta SRRF/7ª RF/Diana nº 319, de 23 de outubro de 2003.
+Código NCM: 8431.41.00 Mercadoria: Caçamba com capacidade de carga de 15 m3 para ser utilizada em carregadora de rodas (“wheel loader”).
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.31) e RGI 6 (textos da subposição de primeiro nível 8431.4 e da subposição de segundo nível 8431.41) constantes da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+CLAUDIA ELENA FIGUEIRA CARDOSO NAVARRO Presidente Do Comitê
