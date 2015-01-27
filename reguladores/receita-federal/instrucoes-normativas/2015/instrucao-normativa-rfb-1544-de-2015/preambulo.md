@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1544, de 26 de janeiro de 2015
+Altera a Instrução Normativa RFB nº 1.285, de 13 de agosto de 2012, que dispõe sobre a incidência da Contribuição para o PIS/Pasep e da Cofins devidas pelas pessoas jurídicas elencadas no § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 38-B do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, e nos arts. 2º e 63 da Lei nº 12.973, de 13 de maio de 2014, resolve:
