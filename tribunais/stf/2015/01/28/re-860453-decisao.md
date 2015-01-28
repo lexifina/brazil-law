@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta aos arts. 5º, caput e LVII, e 37, § 6º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PRESUNÇÃO DE INOCÊNCIA. HOMOLOGAÇÃO DE DIPLOMA DE CURSO DE VIGILANTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Viola o princípio da presunção de inocência a negativa em homologar diploma de curso de formação de vigilante, com fundamento em inquéritos ou ações penais sem o trânsito em julgado. II – Agravo regimental a que se nega provimento.” (RE 805821 AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 15.8.2014 – destaquei)
+    “Agravo regimental no recurso extraordinário com agravo. Competência do relator para negar seguimento a recurso manifestamente inadmissível. Ato administrativo ilegal. Controle judicial. Possibilidade. Concurso público. Soldado da Polícia Militar. Inquérito policial. Investigação social. Exclusão do certame. Princípio da presunção de inocência. Violação. Impossibilidade. Precedentes. 1. É competente o relator (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal) para negar seguimento “ao recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com a súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior”. 2. Não viola o princípio da separação dos poderes o controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos, incluídos aqueles praticados durante a realização de concurso público. 3. A jurisprudência da Corte firmou o entendimento de que viola o princípio da presunção de inocência a exclusão de certame público de candidato que responda a inquérito policial ou ação penal sem trânsito em julgado da sentença condenatória. 4. Agravo regimental não provido.” (ARE 753331 AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 20.11.2013)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de janeiro de 2015.
+Ministra Rosa Weber
+Relatora
