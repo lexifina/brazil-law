@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO E PROCESSUAL CIVIL. COBRANÇA DE PAGAMENTOS INDEVIDOS. ALEGADA CONTRARIEDADE AO ART. 5º, INC. LIV, DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. IMPOSSIBILIDADE DO REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Sexta Turma do Tribunal Regional Federal da Quarta Região:
+    “EXECUÇÃO FISCAL. PREVIDÊNCIA SOCIAL PAGAMENTOS INDEVIDOS. NÃO ENQUADRAMENTO COMO DÍVIDA NÃO TRIBUTÁRIA.
+    O débito oriundo do pagamento indevido de benefício previdenciário não se enquadra no conceito de dívida ativa não tributária (artigos 1º e 2º da Lei nº 6.830/80 e art. 39, § 2º , da Lei nº 4.320/64), de acordo com precedentes desta Corte e do STJ, devendo o INSS ajuizar a ação ordinária cabível, assegurado o contraditório e a ampla defesa. Ausentes os pressupostos da certeza, liquidez e exigibilidade do título, é confirmada a sentença que julgou extinto o processo de execução fiscal com base no art. 267, incisos IV e VI, e art. 618, inciso I, todos do CPC” (doc. 20).
+    2. No recurso extraordinário, aponta-se afronta ao art. 5º, inc. LIV, da Constituição da República.
+    3. Inadmitiu-se o recurso ao fundamento de inexistir ofensa constitucional direta.
+    4. Contra essa decisão, o Agravante assevera que “a tese de ofensa à Constituição não foi ventilada pelo INSS – mas adotada como um dos fundamentos do acordão para a negativa da pretensão da Autarquia. Neste cenário, resta claro que o recurso merece prosseguimento, para que a Corte Superior se manifeste a respeito da alegada ofensa à Constituição apontada no julgado” (doc. 56).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    7. Este Supremo Tribunal assentou que as alegações de afronta aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional (Leis ns. 9.289/1996, 6.830/1980 e 4.320/1964), poderiam configurar, se fosse o caso, ofensa indireta à Constituição da República, para cujo exame não se presta o recurso extraordinário. Assim, por exemplo:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    “RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (AI 508.047-AgR, Relator o Ministro Cezar Peluso, Segunda Turma, DJe 21.11.2008).
+    “PROCESSUAL CIVIL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL DESPROVIDO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 583.561-AgR, de minha relatoria, Primeira Turma, DJ 16.2.2007).
+    A apreciação do pleito recursal demandaria o revolvimento do conjunto fático-probatório, atraindo-se o óbice da Súmula n. 279 do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de janeiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
