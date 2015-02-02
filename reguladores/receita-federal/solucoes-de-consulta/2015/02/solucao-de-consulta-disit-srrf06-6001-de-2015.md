@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF06 nº 6001, de 27 de janeiro de 2015
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: Os serviços de manutenção predial são tributados pelo Anexo III da Lei Complementar nº 123, de 2006, e não estão sujeitos à retenção da contribuição previdenciária prevista no art. 31 da Lei nº 8.212, de 1991, ainda que prestados mediante empreitada.. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA Nº 35, DE 29 DE NOVEMBRO DE 2013. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 17, XI, XII,§ 1º, art. 18, §5º-B, IX, §5º-C, §5º-F, §5º-H; Lei nº 8.212, de 1991, art. 31; Instrução Normativa RFB nº 971, de 2009, arts. 112, 117, III, 142, III e 191.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: Os serviços de manutenção predial são tributados pelo Anexo III da Lei Complementar nº 123, de 2006, e não estão sujeitos à retenção da contribuição previdenciária prevista no art. 31 da Lei nº 8.212, de 1991, ainda que prestados mediante empreitada.. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA Nº 35, DE 29 DE NOVEMBRO DE 2013.
+DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 17, XI, XII,§ 1º, art. 18, §5º-B, IX, §5º-C, §5º-F, §5º-H; Lei nº 8.212, de 1991, art. 31; Instrução Normativa RFB nº 971, de 2009, arts. 112, 117, III, 142, III e 191.
+MÁRIO HERMES SOARES CAMPOS Chefe
