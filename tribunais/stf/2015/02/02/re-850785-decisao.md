@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade aos artigos 145, § 1°, e 150, II, da Constituição Federal.
+    Insurge-se contra acórdão assim ementado, na parte que interessa:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. SENTENÇA ULTRA PETITA. NULIDADE PARCIAL. IRPJ. CSLL. PRESCRIÇÃO. LEI Nº 9.249/95. SERVIÇOS HOSPITALARES. ABRANGÊNCIA. PRESTAÇÃO DE SERVIÇOS NA ÁREA DA SAÚDE. ATIVIDADES DE ODONTOLOGIA. LEI Nº 11.727/08. SOCIEDADE EMPRESÁRIA. REQUISITO NÃO PREENCHIDO. LIMITAÇÃO. CORREÇÃO MONETÁRIA. SUCUMBÊNCIA.
+    (…) 4. Em face da superveniente alteração na redação do inciso II, alínea a, do artigo 15 da Lei 9.249/95, por força da Lei nº 11.727/08, passou-se a exigir, para a aplicação do percentual reduzido, que a 'prestadora destes serviços seja organizada sob a forma de sociedade empresária e atenda às normas da Agência Nacional de Vigilância Sanitária - Anvisa'.
+    5. Hipótese em que a parte autora não comprovou se inserir na categoria das sociedades empresárias, descumprido, pois, um dos pressupostos legais para o acolhimento do pedido no ponto”.
+    Sustenta o recorrente que “(...) é irrelevante a função na área da saúde ser exercida na forma de sociedade simples ou empresária, haja vista que tal critério não revela nenhum fundamento apto a atrair ou não o percentual aplicável aos serviços hospitalares”.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que para ultrapassar o entendimento do Tribunal de origem acerca da análise da legitimidade do requisito imposto por lei para fins de benefício fiscal, seria necessário o reexame da legislação infraconstitucional pertinente (Lei n° 11.727/08), o que não é cabível em sede de recurso extraordinário. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1. PROCESSUAL CIVIL. NÃO SUBSTITUIÇÃO DO ACÓRDÃO RECORRIDO. 2. TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA - IRPJ E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. COMPROVAÇÃO DOS REQUISITOS LEGAIS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O não provimento do recurso especial pelo Superior Tribunal de Justiça não substitui o acórdão proferido pelo Tribunal de origem, conforme dispõe o art. 512 do Código de Processo Civil. Precedentes. 2. Tributário. Imposto de Renda de Pessoa Jurídica e Contribuição Social sobre o Lucro Líquido. Comprovação dos requisitos exigidos para que empresa prestadora de serviços hospitalares tenha a redução da base de cálculo do imposto. Impossibilidade de reexame de provas (Súmula 279 do Supremo Tribunal Federal) e da análise da legislação infraconstitucional” (RE n° 600.123/ PR-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 23/10/09).
+    Corroborando com esse entendimento, ressalte-se que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do AI nº 803.140/RS, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral de matéria similar à versada nesse feito. A decisão do Plenário está assim ementada:
+    “1.Tributário. 2.Exceção prevista no artigo 15, §1º, inciso III, alínea “a”, da Lei 9.249/95, que prescreve os sujeitos passivos da Contribuição Social sobre o Lucro Líquido (CSLL) e do Imposto de Renda Pessoa Jurídica (IRPJ) com bases de cálculo, respectivamente, de 12% e de 8% sobre receita bruta. Definição de serviços hospitalares e afins. 3. Discussão que se circunscreve ao âmbito normativo infraconstitucional, bem como que demanda o reexame dos aspectos fático-probatórios subjacentes aos requisitos do enquadramento pretendido. 4. Ausência de contencioso constitucional. Repercussão geral rejeitada” (AI n° 830.140/RS-RG, Relator o Ministro Gilmar Mendes, DJe de 1°/6/11).
+    No mesmo sentido, a seguinte decisão monocrática: RE n° 830.827/SC, Relator o Ministro Roberto Barroso, DJe de 27/11/14.
+    Por fim, incabível o recurso extraordinário pela alínea “c” do permissivo constitucional, haja vista que o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição Federal.
+     Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 2 de fevereiro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
