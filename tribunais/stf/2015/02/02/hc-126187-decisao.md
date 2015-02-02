@@ -1,0 +1,40 @@
+Decisão:
+    Vistos.
+    Habeas corpus, como pedido de liminar, impetrado pela Defensoria Pública da União em favor de Giovanni Caporaso, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC nº 46.824/AM, Relator o Ministro Nefi Cordeiro.
+    Sustenta a impetrante, em síntese, a presença de constrangimento ilegal, pois a custódia preventiva do paciente padece de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos autorizadores previstos no art. 312 do Código de Processo Penal.
+    Assevera, ainda, a presença de circunstâncias judiciais favoráveis ao paciente, tais como primariedade e bons antecedentes.
+    Requer, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva decretada em desfavor do paciente.
+    Examinados os autos, decido.
+    O julgado impugnado está assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. FALSIDADE IDEOLÓGICA E USO DE DOCUMENTO FALSO. ESTRANGEIRO. PRISÃO PREVENTIVA PARA GARANTIA DA APLICAÇÃO DA LEI PENAL. FUGA DO DISTRITO DA CULPA. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO IMPROVIDO.
+    O decreto de prisão preventiva encontra-se suficientemente fundamentado em fatos concretos – a fuga do paciente, estrangeiro e sem vínculo no país – fazendo-se necessária para a garantia da aplicação da lei penal.
+    Recurso improvido” (fl. 129 - anexo 4).
+    Há óbice jurídico-processual para o conhecimento do habeas corpus.
+    No caso, a impetração foi manejada em substituição ao recurso extraordinário, o que esbarra em decisão da Primeira Turma.
+    Confira-se a ementa do julgado paradigma:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS – PRONUNCIAMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA – NOVA IMPETRAÇÃO – IMPROPRIEDADE. Uma vez julgado pelo Superior Tribunal de Justiça o recurso ordinário formalizado em processo revelador de impetração, o acesso ao Supremo faz-se em via das mais afuniladas – mediante recurso extraordinário e não nova impetração” (HC nº 110.055/MG, Relator o Ministro Marco Aurélio, DJe de 9/11/12).
+    Conforme explicitado por sua Excelência, o eminente Ministro Marco Aurélio,
+    “essa óptica há de ser observada, também, no que o acórdão impugnado foi formalizado pelo Superior Tribunal de Justiça em recurso ordinário constitucional em habeas corpus. De duas, uma: ou há, no acórdão proferido, quadro a ensejar a interposição de recurso extraordinário, ou não há. Descabe a volta a estágio anterior, que é o do ajuizamento originário do habeas corpus. No mais, ante os parâmetros fáticos e legais, não existe campo para a concessão da ordem de ofício. Extingo o processo sem o julgamento do mérito”.
+    Entretanto, ressalvo meu entendimento pessoal, já consignado em sentido contrário por ocasião daquele julgamento. Todavia, adoto o entendimento do colegiado e o aplico à espécie.
+    Cabe ressaltar, ademais, inexistir impedimento para que esta Suprema Corte, quando do manejo inadequado do habeas corpus como substitutivo, analise a questão de ofício nas hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, o que não é o caso dos autos.
+    Apenas para registro, ressalto não haver nenhum ato configurador de flagrante constrangimento ilegal praticado contra o paciente, advindo do ato prisional em questão, uma vez que se encontra calcado em elementos concretos, aptos a justificar a sua necessidade, mormente se consideramos a sua fuga do distrito da culpa.
+    Com efeito, conforme se infere do voto proferido pelo Ministro Nefi Cordeiro,
+    “o Juízo de 1º Grau decretou a prisão preventiva do recorrente, a requerimento do Ministério Público, para assegurar a aplicação da lei penal, tendo em vista que não se conhece seu paradeiro, tendo o recorrente conhecimento das investigações policiais, inclusive por já ter prestado depoimento perante a autoridade policial.
+    A propósito, o trecho da referida decisão (fls. 57/58):
+    Na hipótese dos autos, o pedido de prisão preventiva formulado pelo Representante Ministerial em desfavor de GIOVANI CAPORASO deu-se para assegurar a garantia da aplicação da lei penal, em razão da condição de estrangeiro do acusado e das dificuldade em sua localização (fl. 526-v).
+    Neste ponto, desde logo é de se salientar que, no caso em tela, há razões suficientes demonstrando que o acusado busca evadir-se da aplicação da lei penal, uma vez que, de acordo com os elementos constantes nos autos, ele tem conhecimento das investigações levadas a efeito pela Polícia Federal, até mesmo porque prestou depoimento perante a autoridade policial (...).
+    Há que se levar em consideração, ainda, que não foi possível a localização do réu, mesmo tendo sido tomadas todas as medidas possíveis por parte deste juízo.
+    Desse modo, a ‘aplicação da lei penal’ merece ser resguardada, considerando que o acusado se encontra em lugar incerto ou não sabido com a intenção de se subtrair à aplicação da lei, pois, uma vez em fuga, não se submeterá aos ditames da Justiça na hipótese de decisão condenatória.
+    Assim sendo, o reconhecimento da materialidade do delito e da presença de indícios de autoria, aliados ao fato de que o acusado encontra-se em local incerto e não sabido, constituem motivação idônea para a decretação da prisão preventiva, tornando imperiosa a segregação cautelar, como forma de resguardar a aplicação da lei penal, em consonância dom o art. 312 do CPP.
+    O Tribunal a quo denegou a ordem pleiteada por entender que foi observado o disposto no art. 312 do CPP, pois fundada a decisão de 1º Grau na necessidade concreta de assegurar a aplicação da lei penal e que, embora o fato de ser estrangeiro não constitua, por si só, fundamento suficiente para a segregação cautelar, o fato de não ter o paciente vínculos com o Brasil, somada à presença de autoria e de materialidade, bem como a incerteza de sua localização, justificaria a prisão para garantir a aplicação da lei penal.
+    Assim, não se tem situação de preconceito a estrangeiro, nem mera presunção de fuga, pois concretamente não localizada pessoa investigada em persecução criminal, daí justificando a fuga do local da culpa pelo estrangeiro como fundamento para a custódia cautelar” (fls. 132/133 – anexo 4).
+    É da jurisprudência da Corte o entendimento de que,
+    “[a] fuga do acusado do distrito da culpa é fundamento hábil a justificar a constrição cautelar com o escopo de garantir a aplicação da lei penal” (HC nº 122.590/PA-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 16/12/14).
+    Nesse sentido, destaco:
+    “AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. 900 IMPUTAÇÕES DE ESTELIONATO. PRISÃO PREVENTIVA DETERMINADA COM BASE NA FUGA DO ACUSADO. RECURSO A QUE SE NEGA PROVIMENTO. 1. A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento quanto ao descabimento do habeas corpus impetrado em substituição ao recurso ordinário previsto na Constituição Federal. 2. Caracterizada a fuga do acusado do distrito da culpa antes mesmo da expedição da ordem de prisão, inexiste qualquer ilegalidade na referência à garantia de aplicação da lei penal para embasar a custódia cautelar. 3. Não é possível analisar, na via do habeas corpus, as alegações de vícios na confecção e no cumprimento de Carta Rogatória, notadamente porque não há nos autos documentos que demonstrem a discussão da questão perante o Juízo de primeiro grau, não sendo possível ao Supremo Tribunal Federal analisar a matéria originariamente. 4. Agravo regimental a que se nega provimento” (HC nº 124.418/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 24/11/14 – grifei).
+    Ante o exposto, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 2 de fevereiro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
