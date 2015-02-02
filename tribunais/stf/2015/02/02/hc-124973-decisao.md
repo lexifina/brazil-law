@@ -1,0 +1,17 @@
+Decisão:
+Ementa: Habeas corpus impetrado contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. Descabimento. Alegação de ausência dos requisitos necessários à decretação da prisão preventiva. Prisão revogada pelo Juízo de origem. Habeas corpus prejudicado.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 306.282, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente, policial civil do Estado de Minas Gerais, foi preso preventivamente em 24.09.2014 pela suposta prática do crime de concussão (art. 316 do Código Penal).
+    3. Da decisão que determinou a prisão preventiva, a defesa do ora paciente impetrou habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Indeferida a liminar, sobreveio impetração de HC no Superior Tribunal de Justiça. O Relator do HC 306.282, Ministro Ericson Maranho, negou seguimento ao pedido, por entender inviável a supressão de instância pretendida pelo impetrante.
+    4. Neste habeas corpus, sustenta-se a ausência dos requisitos necessários à decretação da prisão preventiva. Requer-se, assim, a revogação da custódia cautelar.
+    Decido.
+    5. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via processual (HC 115.659, Rel. Min. Luiz Fux).
+    6. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    7. Ademais, o Juízo da Segunda Vara Criminal da Comarca de Belo Horizonte/MG informa que, “analisando o pedido de liberdade provisória manejado pela defesa do paciente, revogou a prisão preventiva do paciente, colocando-o em liberdade, em 12/11/2014”.
+    8. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, IX, do RI/STF, julgo prejudicado este habeas corpus.
+    Publique-se.
+    Brasília, 02 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
