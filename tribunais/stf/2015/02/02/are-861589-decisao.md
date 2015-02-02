@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal da 17ª Circunscrição Judiciária do Estado de São Paulo, do qual se extrai o seguinte trecho (fls. 175/176):
+    “De outro lado, dispõe o artigo 71, § 2º da referida Lei que: ‘Para efeito da concessão do adicional por tempo de serviço, serão computados os afastamentos legais considerados de efetivo exercício, bem como o tempo de serviço público prestado ao Município em outro cargo, emprego ou função, excluídos os períodos concomitantes” […].
+    Dessa forma, deve ser reconhecido ao servidor o direito à contagem do período em que trabalharam na Administração Pública Municipal sob o regime celetista para fins de concessão do benefício do adicional por tempo de serviço a partir da data da adesão do servidor ao Estatuto (Lei Complementar Municipal nº 187/11.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, caput e X; 39, § 1º; e 40, caput e § 10, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os fundamentos de que a matéria não restou prequestionada e de que eventual violação ao texto constitucional somente ocorreria de forma indireta ou reflexa.
+    O recurso extraordinário é inadmissível. De início, nota-se que os dispositivos constitucionais tidos por violados não foram apreciados pelo Tribunal de origem. Tampouco foram opostos embargos declaratórios para sanar eventual omissão, de modo que o recurso carece, neste ponto, de prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    Ademais, o acórdão recorrido solucionou a controvérsia baseado no contexto fático-probatório dos autos e na legislação local pertinente (Lei Complementar municipal nº 187/2011). Inviável, portanto, o recurso extraordinário, nos termos das Súmulas 279 e 280/STF. Nesse sentido, confiram-se os seguintes julgados desta Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Servidor público. Adicional de tempo de serviço. Contagem do tempo de serviço prestado no regime celetista em empresa pública. Impossibilidade de análise da legislação local. Incidência do Enunciado 280 da Súmula desta Corte. Necessidade de reexame fático-probatório. Verbete 279 da Súmula do STF. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. Precedentes de ambas as turmas. 5. Agravo regimental a que se nega provimento.” (ARE 824.418-AgR, Rel. Min. Gilmar Mendes, Segunda Turma)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. ADICIONAL POR TEMPO DE SERVIÇO. CONTAGEM DE TEMPO DE SERVIÇO PRESTADO NO REGIME CELETISTA. TEMA RESOLVIDO COM BASE EM LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL MERAMENTE REFLEXA. TRÂNSITO EM JULGADO DOS FUNDAMENTOS INFRACONSTITUCIONAIS SUFICIENTES PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (AI 859.039-AgR, Rel. Min. Teori Zavascki, Segunda Turma)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 02 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
