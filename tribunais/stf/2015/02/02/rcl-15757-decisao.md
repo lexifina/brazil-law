@@ -1,0 +1,28 @@
+DECISÃO
+(Petição/STF n. 60.941/2014)
+RECLAMAÇÃO. TRÂNSITO EM JULGADO DA DECISÃO: ARQUIVAMENTO.
+Relatório
+    1. Em 10.11.2014, julguei procedente a reclamação para cassar a decisão proferida pelo Presidente do Tribunal de Justiça de São Paulo no Pedido de Sequestro n. 9056613-09.2009.8.26.0000 (994.08.014438-9) e determinar outra seja proferida como de direito (doc. 50).
+    Essa decisão foi publicada no DJe de 11.12.2014.
+    2. Em 17.12.2014, pela Petição/STF n. 60.941/2014, a Interessada GP – Guarda Patrimonial de São Paulo Ltda. informou ter havido “fato relevante no curso da lide a ser reconhecido, qual seja: o trânsito em julgado do Mandado de Segurança n. 0507731-44.2010.8.26.0000” (fls. 1-2, doc. 53).
+    Relata que “o Pedido de Sequestro n. 9056613-09.2009.8.26.0000 foi inicialmente indeferido pelo Presidente do Tribunal em razão da EC 62/2009. Por essa razão, foi impetrado o Mandado de Segurança n. 0507731-44.2010.8.26.0000, citado no primeiro parágrafo da folha 3 da decisão disponibilizada em 24/05/2013, que transitou em julgado. Dessa forma, restou reconhecida a inaplicabilidade da EC 62/2009 naquele caso concreto e, consequentemente, todos os atos jurídicos acessórios e periféricos ao pedido de sequestro perderam seu objeto”(fl. 2, doc. 53).
+    Requer seja reconsiderada a decisão proferida.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Esta reclamação foi julgada procedente com base na consolidada jurisprudência do Supremo Tribunal Federal de desrespeitar as decisões proferidas nas Ações Diretas de Inconstitucionalidade ns. 2.356 e 2.362. (doc. 50) o deferimento de sequestro de verbas públicas para pagamento de parcelas vencidas de precatório com fundamento na Emenda Constitucional n. 30/2000, depois de este Supremo Tribunal ter fixado a eficácia do art. 2º da Emenda Constitucional n. 30/2000, pelo qual se introduziu o art. 78 no Ato das Disposições Constitucionais Transitórias .
+    4. A afirmação da Interessada de socorrer-lhe julgado do Tribunal de Justiça de São Paulo não é suficiente para reconsideração da decisão de procedência da reclamação. O art. 102, inc. I, al. l, da Constituição da República dispõe que essa ação constitucional tem por objetivo específico a preservação da competência e da garantia da autoridade das decisões proferidas pelo Supremo Tribunal Federal.
+    A reclamação não pode ser utilizada para resolver incidente em processo de execução ou conferir eficácia a título judicial de tribunal diverso. A execução de título judicial é processada no juízo no qual o título se formou, nos termos do art. 575 do Código de Processo Civil:
+    “Art. 575. A execução, fundada em título judicial, processar-se-á perante:
+    I - os tribunais superiores, nas causas de sua competência originária;
+    II - o juízo que decidiu a causa no primeiro grau de jurisdição”.
+    A Interessada poderá valer-se, se for o caso, dos meios processuais adequados, limitados, neste caso, à competência da Justiça comum estadual, não cabendo ao Supremo Tribunal Federal, na estreita via da reclamação, verificar se a decisão proferida pelo Tribunal de Justiça de São Paulo no Mandado de Segurança n. 0507731-44.2010.8.26.0000 conteria a determinação de sequestro de verbas públicas para pagamento de precatório.
+    Ressalte-se que julguei procedente a reclamação para cassar a decisão proferida pelo Presidente do Tribunal de Justiça de São Paulo no Pedido de Sequestro n. 9056613-09.2009.8.26.0000 (994.08.014438-9) e determinar outra seja proferida como de direito (doc. 50). Saliente-se que a decisão proferida no Mandado de Segurança n. 0507731-44.2010.8.26.0000, além de não ser o objeto, também não foi examinada nesta reclamação.
+    5. A petição apresentada também não pode ser considerada instrumento processual adequado para impugnar a decisão proferida.
+    A Interessada não interpôs o recurso adequado à espécie e a decisão de procedência da reclamação transitou em julgado para ela, em 16.12.2014, antes da data de protocolo desta petição. Dessa forma, não é juridicamente possível reconsiderar a decisão proferida, sob pena de contrariedade à eficácia da coisa julgada, conforme dispõem os arts. 473 e 474 do Código de Processo Civil:
+    “Incabível a apresentação de 'petição inominada incidental' que não ataca os fundamentos do acórdão recorrido, além de transcorrido o prazo recursal. Não há se falar em direito de petição, tendo em vista ser claro o objetivo do recorrente em reabrir discussão tomada em acórdão já transitado em julgado. Esgotada a jurisdição da Suprema Corte no presente feito” (AI 522.066-AgR-ED-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 17.4.2009).
+    “A norma inscrita no art. 474 do CPC impossibilita a instauração de nova demanda para rediscutir a controvérsia, mesmo que com fundamento em novas alegações, pois o instituto da coisa julgada material - considerada a finalidade prática que o informa - absorve, necessariamente, 'tanto as questões que foram discutidas como as que o poderiam ser' (LIEBMAN), mas não o foram. A autoridade da coisa julgada em sentido material estende-se, por isso mesmo, tanto ao que foi efetivamente arguido pelas partes quanto ao que poderia ter sido alegado, mas não o foi, desde que tais alegações e defesas se contenham no objeto do processo ('tantum judicatum quantum disputatum vel disputari debebat'). Aplicação, ao caso, do art. 474 do CPC. Doutrina. Precedentes” (AI 334.292-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJ 3.2.2006).
+    6. Pelo exposto, indefiro o requerimento da Interessada.
+    Publique-se.
+    Arquive-se.
+    Brasília, 2 de fevereiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
