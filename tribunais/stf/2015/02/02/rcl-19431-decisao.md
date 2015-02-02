@@ -1,0 +1,15 @@
+DECISÃO
+RECLAMAÇÃO – AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 3.395-6 – IMPROPRIEDADE – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    A União afirma haver a Sétima Turma do Tribunal Superior do Trabalho, no Processo nº 1712-86.2010.5.04.0018, inobservado o que decidido na Medida Cautelar na Ação Direta de Inconstitucionalidade nº 3.395.
+    Segundo narra, a ora interessada, Terezinha Beatriz Martins da Cruz, ajuizou contra si, na qualidade de sucessora da Rede Ferroviária Federal S.A., e a Empresa de Trens Urbanos de Porto Alegre – Trensurb ação trabalhista visando o pagamento de diferenças de complementação de aposentadoria, relativas ao adicional de tempo de serviço. Informa a parcial procedência do pedido em primeira instância, no que assegurado à ora interessada o percentual de 23% a título de adicional por tempo de serviço. O entendimento foi mantido em sede de recurso ordinário. Desprovidos declaratórios, aponta a interposição de recurso de revista, inadmitido na origem. Sobreveio agravo de instrumento, desprovido pelo Superior do Trabalho.
+    Sustenta a competência da Justiça comum, porquanto se trata de ferroviária aposentada da Trensurb, subsidiária da extinta Rede Ferroviária Federal S.A., buscando a complementação da aposentadoria, com fundamento nas Leis nº 8.186/91 e nº 10.478/02. Afirma presente vínculo de natureza estatutária ou de caráter jurídico-administrativo. Destaca que, ante a condição atual da interessada, inexiste discussão sobre relação de trabalho. Evoca jurisprudência. Frisa a inadequação ao caso do entendimento adotado nos Recursos Extraordinários nº 586.453 e nº 583.050.
+    Sob o ângulo do risco, aduz estar compelida ao pagamento de valores indevidos, de difícil repetição, considerada a natureza alimentar das verbas pleiteadas.
+    Requer, em sede liminar, a suspensão e, alfim, a anulação do pronunciamento impugnado e a remessa do processo originário à Justiça Federal.
+    2. Não concorre a pertinência do pedido. A medida acauteladora implementada na Ação Direta de Inconstitucionalidade nº 3.395 ficou restrita ao afastamento de interpretação do inciso I do artigo 114 da Carta Federal, na redação dada pela Emenda Constitucional nº 45/2004, que implique admissão da competência da Justiça do Trabalho para apreciar questões atinentes a regime especial, de caráter jurídico-administrativo.
+    Conforme se depreende dos documentos juntados ao processo, há, em síntese, o envolvimento de conflito de natureza previdenciária, cujas partes são empregada aposentada da Administração indireta e a União. A despeito dos precedentes aludidos na peça inicial, a matéria versada na reclamação não foi objeto de exame na liminar deferida na mencionada ação direta de inconstitucionalidade, porquanto não se faz presente o elemento subjetivo, o servidor público.
+    3. Ante o quadro, nego seguimento ao pleito formulado.
+    4. Publiquem.
+Brasília, 2 de fevereiro de 2015.
+Ministro MARCO AURÉLIO
+Relator
