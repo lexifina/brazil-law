@@ -1,0 +1,10 @@
+DECISÃO
+MANDADO DE SEGURANÇA – ATO DO PRESIDENTE DO SUPREMO – BAIXA DE PROCESSO À ORIGEM – OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL – AUSÊNCIA DE LESÃO – NEGATIVA DE SEGUIMENTO.
+    1. Maria Antônia Pereira da Silva impetra mandado de segurança contra ato do Presidente do Supremo por meio do qual determinada a baixa do processo relativo ao Recurso Extraordinário com Agravo nº 775.037 à origem, visando a observância da sistemática da repercussão geral. Diz da erronia revelada, porquanto teria sido identificada, no caso, a existência de discussão acerca de matéria que não guarda pertinência com a versada.
+    2. No julgamento do Mandado de Segurança nº 32.485, da relatoria do ministro Teori Zavascki, o Plenário consignou que o procedimento a implicar a devolução de processo à instância inferior, para sobrestamento ou atendimento à óptica assentada no exame de recurso representativo de controvérsia, não acarreta ofensa à esfera jurídica da parte, porquanto o órgão prolator da decisão atacada pode deixar de exercer o juízo de retratação ou declarar o prejuízo da impugnação, situação em que será encaminhada à apreciação deste Tribunal. Eis a ementa elaborada no precedente:
+    DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ATO DA SECRETARIA DO STF. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM, PARA OBSERVÂNCIA DO DISPOSTO NO ART. 543-B DO CPC. AUSÊNCIA DE LESIVIDADE. PRECEDENTE. 1. Não possui lesividade o ato do Supremo Tribunal Federal que determina o retorno dos autos à origem, para aplicação da sistemática de repercussão geral, porquanto a instância a quo poderá, ao receber o processo, recusar-se à retratação ou à declaração de prejudicialidade (art. 543-B, § 3º, do CPC), caso em que o recurso deverá ser admitido, subindo os autos ao STF (art. 543-B, § 4º, do CPC). 2. Agravo regimental a que se nega provimento.
+    3. Ante o quadro, nego seguimento ao pedido, fazendo-o com fundamento no artigo 21, § 1º, do Regimento Interno do Supremo.
+    4. Publiquem.
+Brasília, 2 de fevereiro de 2015.
+Ministro MARCO AURÉLIO
+Relator
