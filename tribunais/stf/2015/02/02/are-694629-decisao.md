@@ -1,0 +1,9 @@
+DECISÃO: A análise dos autos evidencia que Alcides Sales de Jesus foi condenado pela 4ª Auditoria da 1ª Circunscrição Judiciária Militar do Rio de Janeiro/RJ, por infração ao art. 243, “a”, c/c art. 30, II e art. 53, todos do Código Penal Militar, à pena de 04 (quatro) anos de reclusão, posteriormente reduzida, pelo Superior Tribunal Militar, para 02 (dois) anos e 08 (oito) meses de reclusão.
+    Com a publicação da sentença condenatória recorrível, ocorrida em 14/12/2006 (fls. 679), operou-se, na espécie, causa interruptiva da prescrição penal, sendo certo que, posteriormente a tal data, não se registrou qualquer outra causa de interrupção do lapso prescricional, considerados os marcos temporais definidos no § 5º do art. 125 do Código Penal Militar.
+    Disso resulta, considerado o último marco temporal interruptivo incidente na espécie (14/12/2006, publicação da sentença condenatória, fls. 679), que se registrou, no caso, a consumação da prescrição da pretensão punitiva do Estado.
+    Com efeito, como entre o “dies a quo” (14/12/2006, data da última causa interruptiva) e o presente momento não se registrou qualquer outro fator de interrupção, tem-se por efetivamente consumado o lapso prescricional, que é de 08 (oito) anos (art. 125, V, c/c § 1º, do CPM).
+    Sendo assim, em face das razões expostas, e com apoio no art. 3º, n. II, da Lei nº 8.038/90, declaro a extinção da punibilidade de Alcides Sales de Jesus (CPPM, art. 81, “caput”), relativamente à condenação penal que lhe foi imposta nos autos do Processo nº 32/05-5 (4ª Auditoria da 1ª Circunscrição Judiciária Militar do Rio de Janeiro/RJ), em decorrência da prescrição da pretensão punitiva do Estado (CPM, art. 125, V e art. 125, § 5º, II), restando extinto, em consequência, este procedimento recursal.
+    Publique-se.
+    Brasília, 02 de fevereiro de 2015.
+Ministro CELSO DE MELLO
+Relator
