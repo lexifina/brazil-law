@@ -1,0 +1,18 @@
+Decisão:
+Ementa: Habeas corpus impetrado contra decisão que indeferiu cautelar em idêntica via processual. Súmula 691/STF. Tráfico de drogas. Condenação transitada em julgado. Substituição da pena privativa de liberdade. Impossibilidade. Regime fechado obrigatório. Contrariedade à jurisprudência do Supremo Tribunal Federal. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida no HC 309.819, em tramitação no Superior Tribunal de Justiça.
+    2. Colhe-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, pela prática do crime previsto no artigo 33, caput, da Lei 11.343/06, por guardar, para posterior comercialização a terceiros, aproximadamente, 1 (um) quilo de cocaína.
+    3. Após o trânsito em julgado da condenação, a defesa ajuizou revisão criminal, parcialmente provida pelo Tribunal de Justiça do Estado de Minas Gerais para reconhecer a aplicabilidade da causa especial de diminuição de pena prevista no artigo 33, § 4º, da Lei 11.343/06 e, por conseguinte, reduzir a pena para 4 (quatro) anos e 2 (dois) meses de reclusão, mantido o regime inicial fechado.
+    4. Ainda inconformada, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator do HC 309.819, Ministro Rogerio Schietti Cruz, indeferiu a medida cautelar.
+    5. Nesta impetração, a parte impetrante sustenta a possibilidade de fixação do regime inicial semiaberto e da substituição da pena privativa de liberdade por outra restritiva de direitos. Requer, assim, a fixação do regime mais brando e a substituição da reprimenda.
+    Decido.
+    6. Inicialmente ressalto que o Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. No caso, verifico que o Tribunal de Justiça do Estado de Minas Gerais indeferiu a substituição da pena privativa de liberdade por outra restritiva de direitos, com fundamento na quantidade de pena aplicada ao paciente (quatro anos e dois meses de reclusão). Nessas condições, o acórdão estadual está em consonância com a orientação jurisprudencial do Supremo Tribunal Federal no sentido da impossibilidade da substituição da pena fixada em patamar superior a 4 (quatro) anos de reclusão, nos termos do artigo 44, inciso I, do Código Penal (vg. HC 119.811, Rel. Min. Teori Zavascki, DJe de 1º.07.14; HC 121.543, Rel. Min. Luiz Fux, DJe de 1º.08.14; HC 118.602, Rel. Min. Teori Zavascki, DJe de 11.03.14; HC 118.717, Rel. Min. Ricardo Lewandowski, DJe de 11.03.14).
+    8. Por outro lado, o regime inicial de cumprimento de pena foi estabelecido com fundamento apenas no art. 2º, §1º, da Lei nº 8.072/1990, em contrariedade à orientação consolidada pelo Tribunal no julgamento do HC 111.840, de relatoria do Ministro Dias Toffoli. Ademais, observo que as circunstâncias judiciais do art. 59 do Código Penal foram plenamente favoráveis ao acusado.
+    9. Diante do exposto, com base no art. 192 do RI/STF, concedo a ordem de ofício apenas para fixar o regime semiaberto para o início do cumprimento da pena aplicada ao paciente.
+    Comunique-se.
+    Publique-se.
+          Brasília, 02 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
