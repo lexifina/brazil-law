@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Banco do Estado do Rio Grande do Sul S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 5º, incisos II, XXXVI e LIV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Décima Oitava Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CÍVEL. DIREITOS REAIS NA COISA ALHEIA. AÇÃO DE CANCELAMENTO DE HIPOTECA. LIBERAÇÃO DO GRAVADO HIPOTECÁRIO.
+    PROCESSUAL CIVIL. POSSIBILIDADE JURÍDICA DO PEDIDO LEGITIMIDADE PASSIVA.
+    Desconstituição de ônus que pesa sobre imóveis adquiridos, devidamente quitados. Pedido juridicamente possível. Decretação de cancelamento de hipoteca, em face de contrato celebrado com construtora que ofereceu em hipoteca as unidades condominiais alienadas. Legitimidade passiva do Banco beneficiário do direito real de garantia que se pretende cancelar.
+    QUITAÇÃO DO FINANCIAMENTO. INEFICÁCIA DA GARANTIA PERANTES O ADQUIRENTE DE BOA-FÉ, TERCEIRO NA RELAÇÃO JURÍDICA ESTABELECIDO ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO. SÚMULA N.º 308 DO STJ.
+    É assente na jurisprudência o entendimento no sentido de que, tendo honrado com a totalidade de suas obrigações, quitado todo o financiamento, o promitente comprador, adquirente de boa-fé, fica excluído dos ônus decorrentes da inércia da construtora, que não resgatou a hipoteca junto ao banco financiador da construção. Não tendo, o adquirente, qualquer participação na relação jurídica de direito substancial estabelecida entre o Banco e a construtora, a hipoteca é ineficaz em relação a ele.
+    HONORÁRIOS DE SUCUMBÊNCIA. REDUÇÃO.
+    Reduzidos os honorários de sucumbência, adequando-os aos parâmetros do art. 20, §§ 3º e 4º, do CPC, notadamente em razão da natureza e da reduzida complexidade da causa.
+    RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO. UNÂNIME”.
+    Opostos embargos de declaração, foram desacolhidos.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    No que se refere ao artigo 5º, inciso LIV, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Por fim, ressalte-se que o Tribunal de origem decidiu a lide amparado exclusivamente nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. BEM IMÓVEL OBJETO DE HIPOTECA CEDULAR. PENHORABILIDADE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 599.166/SP-AgR, Relatora a Ministra Cármen Lúcia, DJe de 26/6/09).
+    “AGRAVO REGIMENTAL. EMBARGOS DE TERCEIRO. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. FINANCIAMENTO. INEFICÁCIA DA HIPOTECA CONSTITUÍDA EM FAVOR DE INSTITUIÇÃO DE CRÉDITO IMOBILIÁRIO. MATÉRIA INFRACONSTITUCIONAL. A questão referente à exclusão de imóvel dado em garantia hipotecária é de âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição federal. Agravo regimental a que se nega provimento” (AI nº 426.381/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 30/4/10).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 2 de fevereiro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
