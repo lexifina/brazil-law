@@ -1,0 +1,37 @@
+AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. COBRANÇA DE DIREITOS AUTORAIS. ALEGADA OFENSA AO PRINCÍPIO DA IRRETROATIVIDADE DA LEI. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. ALEGADA OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo de instrumento interposto pela TV Aratu S/A contra decisão que negou seguimento a seu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 587-597):
+          “PROCESSO CIVIL. APELAÇÕES SIMULTÂNEAS. AÇÃO DE COBRANÇA. DIREITOS AUTORAIS.
+          DO RECURSO INTERPOSTO PELA TV ARATU S/A.
+          PRELIMINAR DE NULIDADE DO PROCESSO. O RECOLHIMENTO DE CUSTAS COMPLEMENTARES, DERIVADA DE PROCEDÊNCIA DE INCIDENTE DE IMPUGNAÇÃO AO VALOR DA CAUSA NÃO GERA O CANCELAMENTO DA DISTRIBUIÇÃO. PARA QUE A NULIDADE ESTIVESSE CARACTERIZADA, SERIA NECESSÁRIA A DESOBEDIÊNCIA DO AUTOR EM CUMPRIR A ORDEM JUDICIAL DE COMPLEMENTAÇÃO DAS CUSTAS, DA QUAL DEVERIA TER SIDO PREVIAMENTE INTIMADO. NOS AUTOS EM ANÁLISE, O AUTOR REALIZOU O PAGAMENTO DA COMPLEMENTAÇÃO ANTES QUE HOUVESSE INTIMAÇÃO JUDICIAL PARA TANTO. PRELIMINAR REJEITADA.
+          PRELIMINAR DE ILEGITIMIDADE ATIVA PARA A CAUSA. A JURISPRUDÊNCIA DO STJ É NO SENTIDO DE RATIFICAR A NORMA DA ALÍNEA ‘B’, DO INC. XXVIII, DO ART. 5º, DA CF, C/C O ART. 115, DA LEI 5.988/73 (LEI DE DIREITOS AUTORAIS). O ECAD POSSUI LEGITIMIDADE ATIVA PARA A COBRANÇA DOS VALORES REFERENTES AOS DIREITOS AUTORAIS, INDEPENDENTE DE PROVA DE FILIAÇÃO OU DE AUTORIZAÇÃO DOS TITULARES DO DIREITO DE AUTOR. PRELIMINAR REJEITADA.
+          PRELIMINAR DE PRESCRIÇÃO. O AJUIZAMENTO DE AÇÃO DE INTERDITO PROIBITÓRIO, PELO ECAD, PRODUZIU A INTERRUPÇÃO DO PRAZO PRESCRICIONAL. FALTA DE DEMONSTRAÇÃO PELA RÉ DA CITAÇÃO INVÁLIDA, A FIM DE DESCARACTERIZAR A INTERRUPÇÃO DO PRAZO PRESCRICIONAL. PRELIMINAR REJEITADA.
+    MÉRITO A RÉ NÃO SE DESINCUMBIU DO ÔNUS DE DE PROVAR QUE TIVESSE AUTORIZAÇÃO PRÉVIA E EXPRESSA DOS TITULARES DOS DIREITOS AUTORAIS PARA A UTILIZAÇÃO DE SUAS OBRAS EM EVENTO PÚBLICO.
+    SEGUNDO ENTENDIMENTO PACÍFICO DO STJ, O ECAD POSSUI LEGITIMIDADE PARA ESTABELECER OS CRITÉRIOS NECESSÁRIOS À DETERMINAÇÃO DO MONTANTE DOS DIREITOS AUTORAIS, EM VIRTUDE DAS DISPOSIÇÕES DA PRÓPRIA CONSTITUIÇÃO FEDERAL, NO INC. XXVIII, DO ART. 5º, C/C AS LEIS Nº 5.988/73 E 9.610/98.
+          FALTA DO PAGAMENTO DOS DIREITOS AUTORAIS PELAS OUTRAS EMISSORAS DE TV DAS QUAIS FOI ASSOCIADA. IMPOSSIBILIDADE DE SER ATRIBUÍDO QUALQUER ERRO À PERÍCIA.
+          RECURSO IMPROVIMENTO.
+          DO RECURSO INTERPOSTO PELO ECAD.
+          O ADVOGADO DO AUTOR ATUOU COM ELEVADO GRAU DE ZELO PROFISSIONAL, POIS O TRABALHO REALIZADO E O TEMPO EXIGIDO NA EXECUÇÃO DE SEU SERVIÇO RESULTARAM NA PRÁTICA DOS ATOS PROCESSUAIS REFERENTES A DUAS AÇÕES, QUE FORAM JULGADAS SIMULTANEAMENTE E, AINDA, NA RESPOSTA A UMA EXCEÇÃO DE INCOMPETÊNCIA, ALÉM DAS CONTRA-RAZÕES DE DOIS RECURSOS DE AGRAVO UTILIZADOS PELA PARTE RÉ, ORA APELADA.
+          RECURSO CONHECIDO E PROVIDO PARA ELEVAR O PERCENTUAL DA CONDENAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE 10% (DEZ POR CENTO) PARA 20% (VINTE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO.”
+    Opostos embargos de declaração, foram rejeitados (fls. 636-644).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 5º, II, XXXVI, XXXIX, XL, LIV e LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Preliminarmente, verifico que a alegada ofensa ao princípio da irretroatividade da lei não restou prequestionada, o que inviabiliza a admissão do apelo extremo.
+    A interposição do recurso extraordinário pressupõe que o dispositivo constitucional tido por violado tenha sido debatido no acórdão recorrido, sob pena de padecer o recurso da falta de prequestionamento.
+    In casu, dessume-se dos autos que a recorrente se furtou em prequestionar, em momento oportuno, os dispositivos constitucionais apontados como violados nas razões do apelo extremo, atraindo, inarredavelmente, o óbice da ausência de prequestionamento.
+    Esta Corte já firmou entendimento no sentido de que a alegação tardia, só suscitada na oposição dos embargos de declaração no Tribunal de origem, acerca da matéria versada pelos dispositivos constitucionais, não supre a falta do requisito do prequestionamento, viabilizador da abertura da instância extraordinária. Incidência do óbice erigido pelo enunciado da Súmula 282/STF, de seguinte teor: “É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada.” Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. INCORPORAÇÃO DE GRATIFICAÇÃO. LEI COMPLEMENTAR ESTADUAL N. 13/94. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL (SÚMULA 282). IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento. Precedentes” (RE 598.123-AgR/PI, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ART. 7º, LV, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE. SÚMULAS STF 282 E 356.
+    1. São inviáveis os embargos de declaração opostos para fins de prequestionamento quando o tema constitucional não tiver sido ventilado previamente no recurso interposto perante o Tribunal de origem.
+    2. E a circunstância de a matéria poder ser suscitada em qualquer momento processual ou grau de jurisdição, por se tratar de questão de ordem pública, como afirmado pela recorrente, não afasta o preenchimento de tal requisito, inerente ao cabimento do recurso de natureza extraordinária. Precedentes.
+    3. Agravo regimental improvido” (AI 521.577-AgR/PE, Rel. Min. Ellen Gracie, Segunda Turma).
+    Ademais, os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 2 de fevereiro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
