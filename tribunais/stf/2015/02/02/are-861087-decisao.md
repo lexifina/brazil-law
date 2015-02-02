@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, que deu provimento a agravo para conferir efeitos infringentes aos embargos de declaração opostos. Acórdão de cuja ementa se extraem os seguintes trechos (fls. 208-209):
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO LEGAL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AOS EMBARGOS DECLARATÓRIOS. VIÚVA DE SERVIDOR PÚBLICO. PENSÃO ESPECIAL. LEIS 6.782/80 E 1.711/52. ÓBITO OCORRIDO NA VIGÊNCIA DO DECRETO-LEI 2.345/87. A PENSÃO POR MORTE NÃO DECORRE DA APOSENTADORIA. FALTA DE PROVA DE QUE O FALECIMENTO FOI OCASIONADO POR DOENÇA PROFISSIONAL OU ACIDENTE DE SERVIÇO. REVISÃO DO BENEFÍCIO. ARTS. 40, §5º DA CF/88 E 20 DO ADCT. PRECEDENTES.
+    […]
+    - No caso em tela, o marido da impetrante faleceu em 05.03.88, quando estava em vigor o Decreto-lei 2.345/87 que alterou o artigo 1º da Lei 6.782/80, para excluir a previsão de extensão da equiparação ao acidente de serviço das doenças especificadas em lei, razão pela qual a Impetrante não faz jus ao benefício integral a partir da data do óbito, mas, tão somente, a partir da promulgação da Constituição de 1988, como resultado da revisão determinada pelo artigo 20 do Ato das Disposições Constitucionais Transitórias, para adequação ao disposto no artigo 40, §5º, da Lei Maior. […]”
+     O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 40, § 5º, da Constituição e ao art. 20 do ADCT.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal.
+    A decisão deve ser mantida, tendo em vista que o acórdão recorrido está, de fato, alinhado à orientação desta Corte, que, no julgamento do MI 211, de relatoria do Ministro Marco Aurélio, reconheceu a autoaplicabilidade da regra inserta no art. 40, § 5º (atual § 7º), da Constituição, entendimento esposado pelo Tribunal de origem. Nesse sentido, vejam-se os seguintes julgados, de ambas as Turmas:
+    “SEGUNDO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENSÃO. SERVIDOR FALECIDO ANTES DA CF/88. INTEGRALIDADE DA PENSÃO COM FUNDAMENTO NO ARTIGO 40, § 5º (REDAÇÃO ANTERIOR) DA CARTA MAGNA C/C ARTIGO 20 DO ADCT. JURISPRUDÊNCIA CONSOLIDADA NO STF A PARTIR DO JULGAMENTO DO MI 211, RELATOR O MINISTRO MARCO AURÉLIO.
+    1. O Supremo Tribunal Federal, ao julgar o MI 211, Relator para o acórdão o ministro Marco Aurélio, firmou o entendimento de que o § 5º do art. 40 da Carta Magna, cuja redação originária estatuía que “o benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido”, constitui norma autoaplicável.
+    2. Precedentes: RE 567927-AgR, Relator o Ministro Carlos Britto, Dje 48 de 13.03.09; RE 438034-AgR, Relator o Ministro Carlos Britto, DJ de 03.03.06; RE 545667-AgR, Relatora a Ministra Ellen Gracie, Dje 64 de 03.04.09; RE 504.271-AgR, Rel. Min. Eros Grau, Dje 16.05.2008, entre outros.
+    3. Agravo regimental a que se nega provimento.” (AI 805.203-AgR-Segundo, Rel. Min. Luiz Fux, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PENSÃO POR MORTE. SERVIDOR PÚBLICO. CARÁTER ESTATUTÁRIO. BENEFÍCIO CONCEDIDO ANTES DA PROMULGAÇÃO DA CB/88. ART. 20 DO ADCT. AUTO-APLICABILIDADE DO ARTIGO 40, § 5º [ATUAL § 7º] DA CONSTITUIÇÃO DO BRASIL.
+    1. O Supremo Tribunal Federal fixou jurisprudência no sentido da auto-aplicabilidade do artigo 40, § 5º [atual § 7º], da Constituição, determinando que o valor pago a título de pensão corresponda à integralidade dos vencimentos ou dos proventos que o servidor falecido percebia. Precedentes.
+    2. Preceito constitucional que atinge os benefícios concedidos aos pensionistas antes da vigência da Constituição do Brasil de 1988. Revisão e atualização [artigo 20 do ADCT].
+    Agravo regimental a que se nega provimento.” (RE 504.271-AgR, Rel. Min. Eros Grau, Segunda Turma)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 02 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
