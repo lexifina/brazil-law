@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que rejeitou os embargos de declaração opostos pelo ora agravante e, por decisão unânime, manteve decisão que entendeu não existir nulidade porque, “quando a Procuradoria-Geral de Justiça manifestar-se emitindo parecer em caso como os dos autos, não o faz como parte, mas como órgão que cuida da fiel aplicação da lei, para garantia até mesmo do acusado”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV da Constituição. Aduz que não foi “oportunizado à defesa rebater os argumentos aduzidos no parecer da Procuradoria-Geral da Justiça, antes do julgamento da causa pelo egrégio Tribunal de Justiça”. Requer a declaração, incidental, de inconstitucionalidade do art. 610 do CPP.
+    A decisão agravada negou seguimento ao recurso sob o argumento de que o acórdão recorrido se encontra alinhado com a jurisprudência do Supremo Tribunal Federal.
+    O recurso é inadmissível, tendo em vista que o acórdão recorrido está em sintonia com o entendimento do Supremo Tribunal Federal no sentido de que não viola o princípio constitucional da ampla defesa a atuação, como custos legis, do Procurador de Justiça, após o oferecimento das contrarrazões ao recurso de apelação pelo Promotor de Justiça. Nessa linha, vejam-se o ARE 667.661, Rel. Min. Gilmar Mendes; o ARE 706.039, Rel.ª Min.ª Cármen Lúcia; o HC 81.436, Rel. Min. Néri da Silveira; e o RHC 107.584, julgado sob a relatoria do Ministro Luiz Fux, assim ementado:
+    “CONSTITUCIONAL. HABEAS CORPUS. FUNÇÕES ESSENCIAIS E INSTITUCIONAIS DO MINISTÉRIO PÚBLICO (ARTIGOS 127 E 129 DA CONSTITUIÇÃO FEDERAL). NÍTIDA DISTINÇÃO ENTRE A ATUAÇÃO DO MINISTÉRIO PÚBLICO COMO DOMINUS LITIS, AO OFERECER CONTRARRAZÕES À APELAÇÃO DA DEFESA E, COMO CUSTOS LEGIS, AO OFERTAR PARECER NOS AUTOS DO RECURSO. AUSÊNCIA DE OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DO CONTRADITÓRIO.
+    1. O Procurador de Justiça, ao ofertar parecer em recurso de apelação no qual o Promotor de Justiça oferecera contrarrazões, não viola os princípios do devido processo legal e do contraditório.
+    2. O Ministério Público tem como uma de suas funções essenciais à garantia da ordem jurídica, atuando em prol dela como custos legis (Constituição Federal, art. 127), mercê do exercício de uma das funções institucionais que é a de promover, privativamente, a ação penal pública (Constituição Federal, art. 129, I), situações que não se confundem.
+    3. Precedentes: HC n. 81.436/MG, Rel. o Ministro Néri da Silveira, Segunda Turma, j. em 11/12/2001, e RE n. 99.116-6/MT, Rel. o Ministro Alfredo Buzaid, Primeira Turma, DJ de 16/03/84.
+    4. Recurso em habeas corpus não provido.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 02 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
