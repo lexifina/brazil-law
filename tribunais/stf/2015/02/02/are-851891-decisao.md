@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região que determinou o pagamento da correção das tabelas dos serviços prestados pelo Sistema Único de Saúde – SUS, tendo em vista a implantação do Plano Real. No recurso extraordinário, a parte recorrente aponta ofensa, pelo juízo recorrido, aos seguintes dispositivos constitucionais: 2º; 5, caput, XXXVI, LV, § 2º; 37, caput; 195 § 10; 197; e 199, § 1º.
+    2. A irresignação não merece prosperar. O Tribunal de origem decidiu a controvérsia a partir de interpretação e aplicação da legislação infraconstitucional pertinente. É inviável a apreciação, em sede de recurso extraordinário, de violação a dispositivo da Carta Magna que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa.
+    Efetivamente, a reversão do julgado demanda análise (a) das Leis 8.080/90 e 9.069/95, (b) do Comunicado 4000/94, e das Portarias 104 e 105, ambas de 1994, editadas pelo Banco Central e (c) das Portarias 2.777/95 e 1.230/99 do Ministério da Saúde, além das cláusulas que regem o contrato celebrado entre as partes, incidindo a vedação estabelecida pelas Súmulas 279 e 454 do STF. No mesmo sentido:
+    Ementa: TABELAS DOS SERVIÇOS PRESTADOS PELO SISTEMA ÚNICO DE SAÚDE - SUS. PLANO REAL. CORREÇÃO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RE 602.324 RG/SC, Rel. Min. ELLEN GRACIE, DJe de 18/12/2009 – Tema 234.
+    EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SISTEMA ÚNICO DE SAÚDE - SUS. TABELA DE SERVIÇOS. CONVERSÃO EM REAL. PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL NÃO DEMONSTRADO. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. AI 656.062 AgR/RS, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de de 13/3/2009.
+    3. Diante do exposto, nego provimento ao agravo (RISTF, art. 21, § 1º).
+    Publique-se. Intime-se.
+    Brasília, 2 de fevereiro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
