@@ -1,0 +1,7 @@
+Decisão: 1. Trata-se de recurso ordinário, com pedido de liminar, interposto contra decisão do Superior Tribunal de Justiça que, em mandado de segurança visando à declaração de nulidade da pena de demissão aplicada à parte impetrante, denegou a segurança em razão da ausência de demonstração dos alegados vícios no curso do processo administrativo disciplinar. Requer a concessão da medida liminar por entender presentes os requisitos necessários para seu deferimento.
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, de modo a garantir a efetividade do resultado de futuro e provável juízo de procedência. O requisito da relevância do direito, entretanto, não se encontra presente. É que, conforme consignado no acórdão recorrido, o impetrante não trouxe prova clara de ausência de imparcialidade da Comissão Processante no Processo Administrativo Disciplinar e, como se sabe, mandado de segurança não comporta dilação probatória. No mais, não está evidenciado cerceamento de defesa em razão da decisão motivada que deferiu a dilação de prazo por tempo menor que o solicitado pelo indiciado (dez dias, ao invés de vinte dias).
+    3. Ante o exposto, indefiro a liminar. À Procuradoria-Geral da República para parecer. Publique-se. Intime-se.
+    Brasília, 3 de fevereiro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
