@@ -1,0 +1,17 @@
+DECISÃO
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE – ATO REGULAMENTADOR – INADEQUAÇÃO DA VIA ELEITA – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Marcelo Novelino Camargo prestou as seguintes informações:
+    A Associação dos Delegados de Polícia do Brasil – ADEPOL/Brasil requer a declaração de inconstitucionalidade de dispositivos do Decreto estadual nº 43.483, de 2012, e, por arrastamento, da Resolução Conjunta SESEG/SEDEC nº 137, de 2014. Após discorrer sobre a legitimidade ativa e cabimento da ação, busca demonstrar o caráter inovador e autônomo do Decreto impugnado, afirmando implicar violência direta à Lei Fundamental.
+    Argui a impossibilidade de quebra de sigilo bancário ou fiscal sem a determinação de autoridade judiciária competente. Alega a afronta aos princípios da isonomia, da privacidade, do contraditório e da ampla defesa, bem como do devido processo legal decorrente do preceito a dispor acerca da sindicância patrimonial de Servidores da Polícia Civil, da Polícia Militar e do Corpo de Bombeiros Militar. Eis as normas atacadas:
+    Art. 13 – Instaurado o processo administrativo disciplinar a comissão processante poderá representar, fundamentadamente, ao Ministério Público ou à Procuradoria Geral do Estado para que requeira junto ao Poder Judiciário a quebra dos sigilos bancário fiscal do acusado, cônjuge, companheiro, filhos ou outras pessoas que vivam sob sua dependência econômica, nos termos do artigo 3º, §1º, da Lei Complementar nº 105, de 10 de janeiro de 2001.
+    Parágrafo Único – O requerimento da quebra de sigilos bancário e fiscal independe da existência de processo judicial em curso, conforme dispõe o artigo 3º, §2º, da Lei Complementar nº 105, de 10 de janeiro de 2001.
+    Sob o ângulo do risco, ressalta a relevância da matéria e aduz a necessidade de suspensão das normas impugnadas para evitar lesões à ordem jurídica, bem como a direitos e garantias fundamentais de policiais e familiares.
+    O processo, distribuído em 12 de dezembro de 2014, encontra-se concluso para a apreciação da concessão da medida liminar.
+    Em 2 de fevereiro de 2015, o requerente protocolou petição informando o implemento de medida acauteladora em mandado de segurança coletivo, impetrado perante o Tribunal de Justiça do Estado do Rio de Janeiro, em que se suspendeu a eficácia dos dispositivos atacados.
+    2. O controle normativo abstrato pressupõe o descompasso entre a norma impugnada e o texto da Constituição, mostrando-se impróprio no caso de ato regulamentador, como o Decreto estadual nº 43.483/2012 e a Resolução Conjunta SESEG/SEDEC nº 137/2014. Os diplomas questionados disciplinam o disposto nas Leis nº 8.429/1992 e nº 8.730/1993, ambas de caráter nacional e, por conseguinte, aplicáveis em todos os entes federativos. Mesmo quando ultrapassados os limites da execução da lei, o conflito se atém ao plano da simples ilegalidade. Daí o não cabimento da ação direta.
+    É pacífico no Supremo o entendimento sobre a inadequação do controle pretendido, conforme consignado na Ação Direta de Inconstitucionalidade nº 2.243/DF, de minha relatoria, julgada em 16 de agosto de 2000 pelo Pleno. Nesse sentido, cito, também, as Medidas Cautelares na Ação Direta de Inconstitucionalidade nº 1.900/DF, relator ministro Moreira Alves, Tribunal Pleno, apreciada em 5 maio de 1999, e nº 147/DF, relator ministro Carlos Madeira, analisada em 24 de novembro de 1989, Tribunal Pleno.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 3 de fevereiro de 2015.
+Ministro MARCO AURÉLIO
+Relator
