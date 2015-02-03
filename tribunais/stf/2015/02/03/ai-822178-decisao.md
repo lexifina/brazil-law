@@ -1,0 +1,12 @@
+A Secretaria Judiciária desta Corte, com apoio na Portaria GP 138/STF, remeteu o presente processo ao Tribunal de origem (Termo de Remessa juntado à fl. 194v), a fim de que lá ficasse sobrestado até o julgamento dos RE 591.797/SP, AI 722.834/SP, AI 751.521/SP e AI 754.745/SP, todos com repercussão geral reconhecida.
+    No entanto, o Tribunal a quo devolveu os autos a esta Corte (fls. 200-201), antes do julgamento de mérito dos referidos paradigmas de repercussão geral, sob o fundamento de que
+    “(...) o recurso extraordinário teve seu seguimento negado neste juízo prévio de admissibilidade diante da existência de óbice formal intransponível, qual seja, a ausência de prequestionamento da matéria nele tratada, o que determinou a incidência das Súmulas 282 e 356 do Supremo Tribunal Federal.
+    3. Assim sendo, uma vez constatada a inviabilidade de retratação do despacho que negou seguimento ao recurso extraordinário, devem os presentes autos retornar desde logo ao Supremo Tribunal Federal” (fl. 200).
+    Observo que, nos termos do art. 543-B, § 3º, do Código de Processo Civil, os recursos sobrestados pela sistemática da repercussão geral serão apreciados pelos Tribunais ou Turmas Recursais após o julgamento do mérito do recurso extraordinário. E, ainda, que o Regimento Interno do Supremo Tribunal Federal dispõe que o “(...) Tribunal de origem sobrestará os agravos de instrumento contra decisões que não tenham admitido os recursos extraordinários, julgando-os prejudicados nas hipóteses do art. 543-B, § 2º, e, quando coincidente o teor dos julgamentos, § 3º” (art. 328-A, § 1º).
+    Desse modo, ante o disposto nos referidos dispositivos, este agravo de instrumento deverá permanecer sobrestado no Tribunal de origem até o julgamento de mérito dos recursos paradigmas de repercussão geral indicados no termo de remessa de fl. 194v. Apenas poderá ser novamente encaminhado a este Tribunal na hipótese do art. 328-A, § 2º, do RISTF, a seguir transcrito:
+    “Julgado o mérito do recurso extraordinário em sentido contrário ao dos acórdãos recorridos, o Tribunal de origem remeterá ao Supremo Tribunal Federal os agravos em que não se retratar” (grifos meus).
+    Isso posto, determino o retorno dos autos ao Tribunal de Justiça do Estado do Paraná, para que lá permaneçam sobrestados até o julgamento dos RE 591.797/SP, AI 722.834/SP, AI 751.521/SP e AI 754.745/SP, todos com repercussão geral reconhecida, nos termos do art. 543-B e parágrafos do CPC.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2015.
+Ministro RICARDO LEWANDOWSKI
+Presidente
