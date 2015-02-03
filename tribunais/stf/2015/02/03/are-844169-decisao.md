@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal Regional Federal da 5ª Região de inadmissibilidade de recurso extraordinário em face de acórdão ementado nos seguintes termos:
+    “ADMINISTRATIVO. AUTO DE INFRAÇÃO. MULTA. VIOLAÇÃO AO PRINCÍPIO DA RESERVA LEGAL. NÃO OCORRÊNCIA. PRINCÍPIO DA LEGALIDADE. APELAÇÃO NÃO PROVIDA.
+    1. A tipificação de condutas como ilícitas, bem como a fixação das respectivas penalidades, mesmo que de natureza administrativa, configura matéria reservada à lei stricto sensu, consoante dispõe o art. 5º, II, da CF.
+    2. Conforme consta do Auto de Infração impugnado (fls. 71/73), a multa aplicada fundamenta-se no art. 3º, VIII, da Lei 9.847/99, regulada pela Portaria ANP 32/2001. Esta, ressalta-se, apenas veio para disciplinar a Lei 9.847/99, esmiuçando-lhe o conteúdo, de sorte que se encontra em perfeita harmonia com os contornos legalmente delineados.
+    3. Apelação não provida.” (eDOC 2, p. 135)
+    Opostos embargos declaratórios, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 37; e 5º, II, LV, XXXIX e § 2º, do texto constitucional.
+    Defende-se, em síntese, que houve cerceamento de defesa, presente no auto de infração atacado, assim como ofensa ao princípio constitucional da legalidade.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, ressalta-se que, conforme a jurisprudência pacífica desta Corte, não é cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal de origem (Enunciado da Súmula 636 do STF).
+    Nesse sentido, cito, entre outros, o AI 813.287, Rel. Min. Ellen Gracie, Segunda Turma, DJe 11.10.2010; AI-AgR 681.515, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 20.6.2008 e o AI-AgR 263.664, Rel. Min. Celso de Mello, Segunda Turma, DJe 9.2.2001, cuja ementa assim dispõe, no que interessa:
+    “(…) PRINCÍPIO DA LEGALIDADE - OFENSA REFLEXA - INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. - A alegação de ofensa ao princípio da legalidade não basta, só por si, para viabilizar o acesso à via recursal extraordinária. É que a interpretação judicial de normas legais - por situar-se e projetar-se no âmbito infraconstitucional - culmina por exaurir-se no plano estrito do contencioso de mera legalidade, desautorizando, em conseqüência, a utilização do apelo extremo. Precedentes. O Supremo Tribunal Federal tem acentuado que o procedimento hermenêutico do Tribunal inferior - que, ao examinar o quadro normativo positivado pelo Estado, dele extrai a interpretação dos diversos diplomas legais que o compõem, para, em razão da inteligência e do sentido exegético que lhes der, obter os elementos necessários à exata composição da lide - não transgride, diretamente, o princípio da legalidade (...)”.
+    Quanto à alegada ofensa ao artigo 5º, inciso LV, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio da sistemática da repercussão geral, tema 660, cujo paradigma é o ARE-RG 748.371, de minha relatoria, DJe 1.8.2013, oportunidade em que rejeitou a repercussão geral da questão, nos casos em que a alegação de violação aos referidos incisos depender de prévia análise da legislação infraconstitucional.
+    Ademais, verifico que o acórdão recorrido decidiu a questão dos autos com conformidade com a legislação infraconstitucional local (multa aplicada com base na Portaria ANP nº 32/2001).
+    Assim, as supostas violações ao texto constitucional, se tivessem ocorrido, seriam indiretas, tornando inviável o processamento regular do recurso extraordinário, por óbice da Súmula 280 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. INCORPORAÇÃO DE GRATIFICAÇÃO ESPECIAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 846.055, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 19.8.2011).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I – A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional, federal e local, aplicável ao caso. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. II - Agravo regimental improvido” (RE-AgR 602.293, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 29.9.2011).
+    Dessa forma, não há o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II , “a”, do CPC).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
