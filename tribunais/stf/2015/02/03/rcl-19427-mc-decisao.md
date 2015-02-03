@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra decisão da 4ª Vara dos Juizados Especiais Federais do Estado de Rondônia (Processo 0011275-09.2014.4.01.4100), que teria usurpado a competência originária do Supremo Tribunal Federal para julgamento de ação proposta por Juiz Federal em face da União, com objetivo de garantir direito à conversão de 1/3 de férias em abono pecuniário, em observância à simetria constitucional existente entre as carreiras da Magistratura e do Ministério Público. Alega a parte reclamante, em síntese, ter havido usurpação da competência desta Corte para julgamento da ação, nos termos do art. 102, I, n, porquanto a causa seria de interesse de toda a magistratura. Requer a concessão da medida liminar por entender presentes os requisitos necessários para seu deferimento.
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, de modo a garantir a efetividade do resultado de futuro e provável juízo de procedência. Ausentes, na espécie, ambos os requisitos. Ao que parece, a pretensão formulada nesta reclamação coloca-se em sentido oposto à jurisprudência desta Corte sobre o tema (Rcl 2.327 AgR, Rel. Min. Celso de Mello, 2ª Turma, j. 3/6/2014, DJe de 30/10/2014).
+    Da mesma forma, o requisito da urgência não se encontra presente. É que não há nos autos nenhuma demonstração de risco de dano irreparável, pois a alegação vinculada ao envolvimento de recursos públicos, por si só não justifica a indispensabilidade da medida liminar pleiteada.
+    3. Ante o exposto, indefiro a liminar. À Procuradoria-Geral da República para parecer.
+    Publique-se. Intime-se.
+    Brasília, 3 de fevereiro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
