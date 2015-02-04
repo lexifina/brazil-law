@@ -1,0 +1,12 @@
+Decisão:
+    Vistos.
+    Anote-se, inicialmente, que não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão dos recorrentes. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, o Plenário desta Corte concluiu, no exame do RE nº 593.068, em sessão realizada por meio eletrônico, pela existência da repercussão geral da matéria constitucional versada nestes autos. O assunto corresponde ao tema 163 da Gestão por Temas da Repercussão Geral do portal do STF na internet e trata da discussão acerca da constitucionalidade da incidência de contribuição previdenciária sobre o terço constitucional de férias, serviços extraordinários, adicional noturno, adicional de insalubridade e outros pagamentos de caráter transitório (Ressalte-se que esse mencionado tema aplica-se ao caso em tela, conforme já decidido por esta Corte no exame dos RE nº 807.906/RJ-AgR, DJe de 1°/8/14 e ARE nº 830.437/SC–AgR, DJe de 2/10/14).
+    Ressalte-se que a outra matéria debatida na presente lide também foi enquadrada na sistemática de repercussão geral, correspondendo ao tema 759.
+    Nas Questões de Ordem suscitadas no AI nº 715.423/RS e no RE nº 540.410/RS, o Plenário deste Supremo Tribunal Federal concluiu pela possibilidade da aplicação da norma do artigo 543-B do Código de Processo Civil aos recursos extraordinários e agravos de instrumento que tratem de matéria constitucional com repercussão geral reconhecida por esta Corte, independentemente da data de interposição do apelo extremo.
+    Assim, nego seguimento aos recursos extraordinários com relação à alegada violação do art. 93, IX, da CF/88, e nos termos do artigo 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução dos autos ao Tribunal de origem para que seja aplicado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
