@@ -1,0 +1,26 @@
+Trata-se de suspensão da segurança ajuizada pelo MUNICÍPIO DE PARIPUEIRA contra decisão do Tribunal de Justiça do Estado do Alagoas proferida no Processo 0000036-15.2009.8.02.0028, que determinou a reintegração imediata de 120 servidores municipais, ante a declaração de nulidade do ato de exoneração.
+    Consta dos autos que ADELSON DOS DANTOS ALMEIDA e outros ajuizaram ação ordinária contra o decreto municipal que exonerou os referidos servidores públicos.
+    Há informação de que os interessados foram aprovados no concurso público 01/2006, mas que tomaram posse em dezembro de 2008, “uma vez que até o momento havia decisão judicial no sentido de sustar qualquer nomeação ou posse atinente ao certame tratado”(página 4 do documento eletrônico 2).
+    O requerente aponta como fundamento principal da ação ordinária  ausência de motivação para a exoneração dos servidores, razão pela qual solicitou a declaração de nulidade dos atos e a reintegração dos interessados aos quadros da municipalidade.
+    Destaca que esta situação decorreu da propositura, pelo Ministério Público, de ação de improbidade, Processo 0000129-46.2007.8.02.0028, na qual se buscava apurar irregularidades no certame; e acrescenta que a referida ação aguarda julgamento.
+    Aponta, assim, que
+    “desacolher o pedido urgente aqui formulado traria enormes prejuízos para pequeno Município de Paripueira/AL, que conta com cerca de 12.000 (doze mil) habitantes, afetando principalmente a ordem e economia púbicas, consoante já explicitado, haja vista que a pequena municipalidade precisaria dispor de aproximadamente mais de R$ 9.500.000,00 (nove milhões e quinhentos mil reais) para efetuar o pagamento de todo o retroativo, excetuando-se os encargos previdenciários e a atualização monetária da época, referente a um concurso ainda sob a investigação do Ministério Público (doc. 07)” (página 7 do documento eletrônico 2).
+    Ao final requer “a imediata suspensão da execução do Acórdão proferido nos autos da Apelação Cível nº 0000036-15.2009.8.02.0028” (página 9 do documento eletrônico 2).
+    O Ministério Público Federal, em parecer da lavra do Procurador-Geral da República Rodrigo Janot Monteiro de Barros, opinou pelo não conhecimento do incidente.
+    É o breve relatório.
+    Decido o pedido.
+    Em virtude de ter natureza de contracautela, a suspensão exige análise rigorosa de seus pressupostos: a existência de controvérsia de natureza constitucional e o risco de grave lesão aos valores estimados na norma. Nesse sentido, confiram-se: SS 3.259-AgR/SP, Rel. Min. Ellen Gracie; SS 341-AgR/SC, Rel. Min. Sydney Sanches; e SS 282-AgR, Rel. Min. Néri da Silveira.
+    Ademais, a necessidade de a lide versar sobre matéria constitucional é imprescindível na determinação da competência do Presidente do Supremo Tribunal Federal para a análise da suspensão.
+    Assim também o risco de grave lesão. Não se mostra suficiente mera alegação de ofensa à ordem, à saúde, à segurança ou à economia. Somente o risco provável é capaz de abrir a via excepcional da contracautela.
+    Nessa perspectiva, colaciono o entendimento firmado por esta Corte nos autos da SS 846-AgR/DF, da lavra do Ministro Sepúlveda Pertence:
+    “I. Suspensão de segurança: natureza cautelar e pressuposto de viabilidade do recurso cabível contra a decisão concessiva da ordem.
+    A suspensão de segurança, concedida liminar ou definitivamente, é contracautela que visa à salvaguarda da eficácia pleno do recurso que contra ela se possa manifestar, quando a execução imediata da decisão, posto que provisória, sujeita a riscos graves de lesão interesses públicos privilegiados - a ordem, a saúde, a segurança e a economia pública: sendo medida cautelar, não há regra nem princípio segundo os quais a suspensão da segurança devesse dispensar o pressuposto do fumus boni juris que, no particular, se substantiva na probabilidade de que, mediante o futuro provimento do recurso, venha a prevalecer a resistência oposta pela entidade estatal à pretensão do impetrante.”
+    Compulsando o ordenamento vigente, verifico que as normas regentes são explícitas ao dispor que somente a grave lesão à ordem, à saúde, à segurança e à economia públicas autoriza a suspensão da liminar ou da sentença.
+    No caso em tela, o requerente pretende suspender os efeitos de decisão judicial proferida pelo Tribunal de Justiça do Estado de Alagoas, todavia, sua irresignação é desacompanhada de qualquer fundamentação jurídica constitucional que sustente a competência desta Suprema Corte.
+    Ademais, esclareço que as medidas de contracautela possuem caráter excepcional e não servem como sucedâneo recursal, ou seja, não devem ser manejadas em substituição aos recursos próprios taxativamente previstos na legislação processual para impugnar decisões pelas vias ordinária ou extraordinária, pretensão que se evidencia na peça portal do pedido de suspensão.
+    Nessa perspectiva, inexistindo controvérsia de natureza constitucional, deve ser afastada a competência desta Presidência para apreciar o pedido. Nesse sentido: SS 3.074/AL e SL 56, ambos de relatoria da Ministra Ellen Gracie; e SS 2.208, rel. Min. Maurício Corrêa.
+    Isso posto, nego seguimento ao pedido de suspensão.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2015.
+Ministro Ricardo Lewandowski
+Presidente
