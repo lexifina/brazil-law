@@ -1,0 +1,12 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituídas de repercussão geral as questões suscitadas no RE 731.333-RG/SP, Rel. Min. TEORI ZAVASCKI, e no ARE 640.671- -RG/RS, Rel. Min. CEZAR PELUSO, por tratar-se de litígios referentes a matérias infraconstitucionais, fazendo-o em decisões assim ementadas:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. ESTADO DE SÃO PAULO. POLICIAIS MILITARES. ADICIONAL DE LOCAL DE EXERCÍCIO (ALE). INCORPORAÇÃO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia relativa à incorporação do Adicional de Local de Exercício ao vencimento dos policiais militares do Estado de São Paulo, à luz da Lei Complementar estadual 689/92 e da Constituição do Estado de São Paulo, é de natureza infraconstitucional.
+    2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009).
+    3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 04 de fevereiro de 2015.
+Ministro CELSO DE MELLO
+Relator
