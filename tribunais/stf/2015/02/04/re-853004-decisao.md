@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. NULIDADE. MATÉRIA DE PROVA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. ÓBICE DA SÚMULA Nº 454 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+    Decisão: Trata-se de recurso extraordinário interposto pelo MUNICÍPIO DE BENTO FERNANDES, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão que entendeu que “não há nulidade nos contratos temporários firmados entre as partes”, assim ementado:
+     “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. REEXAME NECESSÁRIO, APELAÇÃO CÍVEL E RECURSO ADESIVO. ANÁLISE CONJUNTA DOS REURSOS ANTE A SIMILUTE DAS MATÉRIAS. CONTRATO DE TRABALHO HAVIDO ENTRE O PARTICULAR E A ADMINISTRAÇÃO PÚBLICA. CONTRATAÇÃO TEMPORÁRIA SEM PRÉVIA APROVAÇÃO EM CONCURSO PÚBLICO. APLICAÇÃO DE REGIME JURÍDICO-ADMINISTRATIVO NA PRESTAÇÃO DE SERVIÇOS. PRETENSÃO PARA O RECEBIMENTO DE FGTS. ALEGAÇÃO DE CONTRATO NULO. AUSÊNCIA DE DECLARAÇÃO DE NULIDADE DO CONTRATO. NÃO INCIDÊNCIA DO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL NO RE 596.478. SENTENÇA EM CONFORMIDADE COM A CONSTITUIÇÃO FEDERAL E COM O REGIME JURÍDICO DO MUNICÍPIO. SENTENÇA QUE MERECE CONFIRMAÇÃO. REEXAME NECESSÁRIO, APELO E RECURSO ADESIVO CONHECIDOS E DESPROVIDOS.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37, II, da Constituição Federal. Requer, ao final, a declaração da nulidade do contrato de trabalho em questão.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Verifica-se que a controvérsia foi decidida com fundamento em norma infraconstitucional, Regime Jurídico Único do Município de Bento Fernandes/RN (Lei Complementar nº 255/1997). Ora, a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário.
+    Demais disso, para se chegar a conclusão contrária à adotada pelo acórdão recorrido seria necessário o reexame do conjunto fático-probatório dos autos e de cláusulas contratuais, o que atrai a incidência das Súmulas nºs 279 e 454 desta Corte: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido: ARE 835.022, Rel. Min. Cármen Lúcia, DJe de 24/09/2014, assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. AVISO PRÉVIO PROPORCIONAL. RESCISÃO DO CONTRATO DE TRABALHO. APLICAÇÃO DA LEI N. 12.506/2011. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL, REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS: IMPOSSIBILIDADE.SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO. “
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
