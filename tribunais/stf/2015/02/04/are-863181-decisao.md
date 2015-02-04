@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 100 da Constituição Federal e 78, § 2°, do Ato das Disposições Constitucionais Transitórias.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem lastreou-se na prova produzida e na análise da legislação infraconstitucional apontada no apelo extremo para firmar seu convencimento. Nesse contexto, somente mediante o revolvimento do quadro fático delineado seria possível aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo. Inadmissível, pois, o recurso extraordinário, em face do óbice da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    EMENTA: EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PEDIDO DE COMPENSAÇÃO INDEFERIDO. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO. EXECUÇÃO FISCAL. AUSÊNCIA DE REPERCUSSÃO CONSTITUCIONAL IMEDIATA. SÚMULA 279/STF. A questão constitucional alegada no recurso extraordinário não foi objeto de análise pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. O acórdão recorrido assentou que o pedido suscitado pela parte foi indeferido na esfera administrativa, de modo que não seria possível formalizar a compensação na forma prevista pela Lei de Execuções Fiscais. Frustrada a pretensão, registrou-se a impossibilidade de reconhecer a suspensão da exigibilidade do crédito após a ciência da recusa. Com efeito, dissentir da conclusão exposta demandaria um juízo interpretativo sobre a legislação infraconstitucional pertinente, bem como o revolvimento do contexto fático e probatório constante dos autos. Mostra-se aplicável ao caso a Súmula 279/STF. Embargos a que se nega provimento. (AI 819.784-ED, Rel. Min. Roberto Barroso, 1ª Turma, DJe 25.6.2014).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de fevereiro de 2015.
+Ministra Rosa Weber
+Relatora
