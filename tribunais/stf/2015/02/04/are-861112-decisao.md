@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 2ª Turma Recursal dos Juizados Especiais Cíveis e Criminais do DF, assim ementado no que interessa:
+    “JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. ADMINISTRATIVO. INFRAÇÃO DE TRÂNSITO. CONDUÇÃO DE VEÍCULO SOB INFLUÊNCIA DE ÁLCOOL. RECUSA NA REALIZAÇÃO DE TESTE. PRESUNÇÃO DE LEGITIMIDADE DOS ATOS ADMINISTRATIVOS. REGULARIDADE DO AUTO DE INFRAÇÃO (…).” (fl. 347)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação ao art. 5º, caput,II, LIV, LV, LVI, LVII e LXIII, 37 e 93, IX, do texto constitucional.
+    É o relatório.
+    Decido.
+    Não assiste razão ao agravante.
+    Inicialmente, no tocante à ofensa ao art. 93, IX, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    No caso, o Tribunal de origem, com base no exame do acervo fático-probatório constante dos autos e na interpretação da legislação infraconstitucional aplicável à espécie, consignou que “A recorrente admitiu ter se recusado a se submeter ao teste do bafômetro (fls. 3), fato que, por si só, impõe à aplicação de penalidade e medidas administrativas, nos termos do artigo 227, § 3º, do CTB, e afasta a alegação de nulidade, ilegalidade e inconstitucionalidade apresentadas”. (fl. 348)
+    Assim, para se entender de forma diversa do consignado pelo acórdão recorrido, seria necessário rever a interpretação conferida pela origem à legislação infraconstitucional, bem como reexaminar o conjunto probatório que permeia a lide.
+    Incide, portanto, a Súmula 279 desta Corte.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.” (AI-AgR 813.830, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 25.11.2010)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MATÉRIA CRIMINAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. SÚMULA 283. REEXAME DE FATOS E PROVAS. SÚMULA 279. Discussão constitucional suscitada pelo agravante que, para ser analisada, necessita de apreciação prévia de norma infraconstitucional. Caracterização de ofensa reflexa ou indireta à Constituição Federal. Com a negativa de provimento ao recurso especial pelo Superior Tribunal de Justiça, os fundamentos infraconstitucionais que amparam o acórdão recorrido tornaram-se definitivos (Súmula 283 do STF). Inviável o recurso extraordinário quando as alegações de violação a dispositivos constitucionais exigem o reexame de fatos e provas (Súmula 279/STF). Agravo regimental a que se nega provimento.” (RE-AgR 471.131, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 18.9.2012)
+    Por fim, no tocante à suposta violação aos princípios do contraditório, da ampla defesa e do devido processo legal, verifico que o Supremo Tribunal Federal já apreciou a matéria dos autos no julgamento do ARE-RG 748.371 (Tema 660), oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
