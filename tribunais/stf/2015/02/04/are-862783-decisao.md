@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 1ª Turma Cível do Colégio Recursal de Taubaté do Estado de São Paulo que reformou parcialmente a sentença e reconheceu a responsabilidade solidária entre empresa franqueadora e franqueado. (fls. 289-290)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, sustenta-se a repercussão geral da matéria. No mérito, aponta-se violação do artigo 5º, II e LV, do texto constitucional.
+    Nas razões recursais, a parte recorrente argumenta sua ilegitimidade passiva, uma vez que, na condição de franqueadora, não demonstrou conduta que a vinculasse aos danos mencionados nos autos. Nesse sentido, afirma-se que a franqueada era pessoa jurídica autônoma e responsável por suas obrigações. Alega-se ainda afronta ao princípio da legalidade.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, o acórdão recorrido consignou o seguinte:
+    “(...) o contrato empresarial de franquia consiste na cessão, ao franqueado, do direito de uso de marca/patente, nos termos do artigo 2º da Lei 8.955/94. Referido negócio jurídico permite que o empreendedor possa se valer dos sinais visuais e serviços específicos da empresa franqueadora, de modo a atrair a clientela que por eles se interesse. Deste modo, na esmagadora maioria dos casos, ao homem médio, é quase impossível distinguir se uma loja é própria da empresa franqueadora ou foi objeto de contrato de franquia, não se exigindo, portanto, do consumidor, que suporte o ônus de identificar contra quem deve dirigir sua demanda, podendo acionar todos os coobrigados, sem qualquer benefício de ordem; trata-se da chamada teoria da aparência, segundo a qual não cabe ao consumidor distinguir qual dos responsáveis pela cadeia de fornecimento é o legítimo infrator de sua esfera de direitos.
+    Ainda, cabe argumentar que a franqueada remunera a franqueadora, que faz juízo de valor e de idoneidade, inclusive com treinamento, se poderá haver uso de sua reputação comercial/mercantil. Inafastável, pois, a responsabilidade”. (fls. 289-290)
+     Observo que a decisão impugnada, ao examinar a Lei 8.955/94, entendeu pela responsabilidade da parte recorrente no caso. Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, a jurisprudência desta Corte firmou-se no sentido de que a discussão acerca da legitimidade ad causam demanda a prévia análise da legislação infraconstitucional. Confira-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. LEGITIMIDADE ATIVA AD CAUSAM. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 587.112, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 4.6.2010)
+    Por fim, ressalta-se que, nos termos do Enunciado 636 da Súmula do STF, não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+     Nesse sentido, cito o AI-AgR 822.961, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8.11.2012; e o ARE-AgR 706.650, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.11.2012, cuja ementa assim dispõe:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. ALEGADA AFRONTA AO PRINCÍPIO DA legalidade (ART. 5º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA). OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
