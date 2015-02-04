@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Está no acórdão recorrido:
+    EMENTA 1) DIREITO PROCESSUAL CIVIL. AGRAVO RETIDO. REITERAÇÃO PELA PARTE AGRAVADA. NÃO CONHECIMENTO. Não se conhece do Agravo Retido que não é expressamente reiterado nas razões ou contrarrazões de Apelação (art. 523, §1º do CPC), pela parte que o interpôs. A reiteração do Agravo pelo Apelante que, Agravado, pugnou pela improcedência do recurso, demonstram sua falta de interesse no conhecimento e provimento do Agravo Retido (pois deseja o oposto), e, portanto, em nada modifica o seu não conhecimento. 2) DIREITO ADMINISTRATIVO. LEI DE ANISTIA DO ESTADO DO PARANÁ (Nº 16.164/09). RETORNO AO SERVIÇO. EMPREGADO PÚBLICO SEM ESTABILIDADE. NÃO SUBSUNÇÃO. NECESSIDADE DA ADMINISTRAÇÃO NÃO CONFIGURADA. MINEROPAR. A Lei de Anistia do Estado do Paraná define requisitos para a reintegração dos funcionários demitidos ou exonerados por motivações políticas, sendo um deles a estabilidade do anistiado no tempo da demissão/exoneração. Assim, não se tratando de servidor estável (no caso, com apenas 11 meses de trabalho), não há falar-se em aplicação da lei. Igualmente, deve ser observada a necessidade da Administração quanto ao empregado reconduzido para que haja o direito pleiteado. Como, no caso, a MINEROPAR não possui mais advogados no quadro próprio, é de se observar que tal requisito não também restou preenchido. Deste modo, do ato de anistia, conferido pelo Governador, não emana o direito alegado, pois não observou todos os requisitos objetivos da lei. 3) APELAÇÃO CÍVEL A QUE SE NEGA PROVIMENTO. AGRAVO RETIDO NÃO CONHECIDO.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de fevereiro de 2015.
+Ministra Rosa Weber
+Relatora
