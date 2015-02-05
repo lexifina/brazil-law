@@ -1,0 +1,47 @@
+DESPACHO
+    1. Em 23.10.2014, proferi a seguinte decisão:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. AGRAVO NO QUAL NÃO SE INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. CONSUMIDOR. INDENIZAÇÃO. DANOS MORAIS. CADASTRAMENTO INDEVIDO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+    Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Colégio Recursal de Araraquara:
+    “Com efeito, a r. sentença recorrida deve ser mantida, em sua maior parte, pelos seus próprios fundamentos, nos exatos temos do art. 46 da Lei 9.099/95.
+    De fato, houve a adequada análise da sentença recorrida, dos aspectos específicos do caso concreto, salientando-se ser, de fato, irrepreensível a condenação da requerida ao pagamento de indenização por danos morais, notadamente da inequívoca prova documental (fls. 24) de que o serviço cobrado não foi prestado, o que evidencia a ilicitude dos atos de cobrança efetuados. O quantum arbitrado para a indenização. Aplica-se, por analogia, a súmula 362 do C. STJ. Da mesma forma que a correção monetária, sob pena de incoerência, e considerando-se a efetiva configuração da mora, os juros devem ter como termo inicial também a data do arbitramento” (fl. 248).
+    O Tribunal de origem julgou os pedidos parcialmente procedentes, “apenas para condenar a ré a pagar à autora, a título de indenização por danos morais, a quantia de R$ 7.000,00 (sete mil reais), com correção monetária, (…), desde a data da publicação da presente decisão, e acrescida de juros de mora, no percentual de 1,0% (um por cento) ao mês, (…), confirmando, ainda, a tutela antecipada outrora concedida, com o cancelamento definitivo da anotação restritiva impugnada”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante alega ter o Colégio Recursal contrariado o art. 5º, incs. XXXV e LIV, da Constituição da República.
+    Argumenta que
+    “Sem prejuízo do quanto asseverado alhures, o r. Despacho que denegou seguimento ao recurso especial interposto pelo ora Agravante , não poderá ainda prosperar, uma vez que não pretende com a interposição do Recurso Especial a reanálise de quaisquer provas e circunstâncias fáticas do processo, mas apenas e tão somente que sejam aplicados ao caso o preceito dos referidos artigos 461, §1º e art. 541 ambos do Código de Processo Civil e, 186 e 927 do Código Civil.
+    (…)
+    Sem prejuízo do quanto asseverado alhures, o r. Despacho que denegou seguimento ao recurso especial interposto pela ora Agravante, não poderá ainda prosperar, uma vez que houve ofensa aos seguintes dispositivos legais, artigo 884, do Código Civil, artigos 131, 165 e 458, inciso II, todos do Código de Processo Civil ” (fls. 415-430).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a contrariedade à Constituição da República, se tivesse ocorrido, seria indireta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. A Agravante limitou-se a reiterar os argumentos trazidos no recurso extraordinário, evidenciando-se descumprimento do requisito formal de admissibilidade recursal de impugnar e comprovar equívoco na decisão agravada.
+    Este Supremo Tribunal afirmou ser incabível o recurso no qual não se infirmam os fundamentos da decisão agravada, atraindo-se, na espécie, a incidência das Súmulas ns. 283 e 284 do Supremo Tribunal Federal:
+    “Ementa: PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. APELO QUE NÃO INFIRMA OS ARGUMENTOS DO ACÓRDÃO IMPUGNADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE 631.523-AgR/PI, Relator o Ministro Teori Zavascki, Segunda Turma, DJ 1º.7.2013).
+    “Se o acórdão recorrido entendeu que a palavra ‘nominal’ contida no inciso I, do art. 20, da Lei nº 8.880/94 ofendeu os princípios constitucionais inscritos nos artigos 5º, XXXVI, e 201, § 2º, o recurso extraordinário deveria tentar repelir a interpretação conferida pelo Tribunal a quo a todos estes dispositivos da Lei Maior, sem o que mostra-se carente de fundamentação, fazendo incidir as Súmulas STF nº 283 e 284. Agravo regimental improvido” (RE 347.947-AgR/RS, Relatora a Ministra Ellen Gracie, Primeira Turma, DJ 8.11.2002).
+    6. No julgamento do Recurso Extraordinário n. 602.136, Relatora a Ministra Ellen Gracie, este Supremo Tribunal assentou ser de natureza infraconstitucional e não ter repercussão geral a questão relativa à indenização por danos morais decorrentes de inscrição indevida em cadastro de proteção ao crédito:
+    “INDENIZAÇÃO. DANOS MORAIS. CADASTRAMENTO INDEVIDO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+    (…)
+    Ambas as Turmas desta Corte firmaram o entendimento de que a discussão relativa à concessão de indenização por danos morais por inscrição indevida em cadastro de inadimplentes não viabiliza o acesso ao recurso extraordinário. Decidiram que tais matérias são eminentemente infraconstitucionais e que sua revisão implicaria reexame de fatos e provas, o que é vedado em sede de extraordinário (Súmula STF nº 279)” (DJe 4.12.2009).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se” (fls. 437-441).
+    Essa decisão foi publicada no DJe de 31.10.2014 (fl. 442).
+    Em 27.5.2014, a Secretaria Judiciária do Supremo Tribunal Federal certificou o trânsito em julgado daquela decisão em 7.11.2014 (fl. 443), sendo os autos remetidos à origem.
+    Em 6.11.2014, Telefônica Brasil S.A. interpôs Agravo Inominado no Colégio Recursal da 13ª Circunscrição Judiciária de Araraquara/São Paulo.
+    2. Em 28.11.2014, os autos foram devolvidos a este Supremo Tribunal, pela Seção Judiciária do Colégio Recursal da 13ª Circunscrição Judiciária da Comarca de Araraquara, “tendo em vista, a interposição de Agravo Inominado contra a r. Decisão de fls. 437/441”.
+    A Secretaria Judiciária deste Supremo Tribunal promoveu nova devolução dos autos ao Tribunal de origem, pelo trânsito em julgado, “certificado à fl. 443”. (fl. 460)
+    Em 16.1.2015, o chefe da Seção Judiciária do Colégio Recursal certificou:
+    “Certifico e dou fé, que nesta data faço remessa dos presentes autos ao C. Supremo Tribunal Federal para apreciação do Agravo Inominado interposto tempestivamente a fls. 445/457, conforme protocolo datado de 06/11/2014, em confronto com a certidão de fls. 443” (fl. 461).
+    Em 28.1.2015, os autos vieram-me em conclusão ( fl. 462).
+    3. Cerificado o trânsito em julgado da decisão de fls. 437-440, fl. 443, nada há a prover quanto às alegações de Telefônica Brasil S.A.
+    Ressalte-se que a jurisprudência consolidada deste Supremo Tribunal Federal afirma ser intempestivo recurso protocolizado em Tribunal diverso:
+    “EMENTA: EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. INTEMPESTIVIDADE. RECURSO PROTOCOLADO EM TRIBUNAL DIVERSO. O Supremo Tribunal Federal já fixou o entendimento de que é intempestivo o recurso protocolado por equívoco em tribunal diverso e recebido somente após o trânsito em julgado da decisão recorrida. Precedentes. Embargos de declaração não conhecidos”. (RE 467.995-ED, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 11.12.2013)
+    “EMENTA Agravo regimental no agravo de instrumento. Apresentação da petição recursal em tribunal diverso. Recebimento no STF após o trânsito em julgado. Recurso intempestivo. 1. Considera-se intempestivo o agravo regimental quando a petição tiver sido apresentada a esta Corte somente depois de expirado o prazo legal. 2. Pacífica a jurisprudência do Supremo Tribunal Federal no sentido de que é intempestivo o recurso protocolado equivocadamente em outro tribunal e recebido nesta Corte somente após o trânsito em julgado da decisão recorrida. 3. Agravo regimental não conhecido”. (AI 817.119-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 11.4.2012)
+    4. Retornem os autos à origem para que, com urgência, a Seção Judiciária do Colégio Recursal da 13ª Circunscrição Judiciária da Comarca de Araraquara dê cumprimento ao julgado, promovendo as providências legais, como determinado em 13.11.2014, sob as penais da lei.
+    Publique-se.
+    Brasília, 5 de fevereiro de 2014.
+Ministra CÁRMEN LÚCIA
+Relatora
