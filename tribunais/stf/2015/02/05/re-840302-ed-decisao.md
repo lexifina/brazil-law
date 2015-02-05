@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de embargos de declaração cujo objeto é decisão monocrática que negou seguimento a recurso extraordinário, sob o fundamento de que a declaração de inconstitucionalidade do art. 1º. da Lei n° 8.540/92, tal como assentado no julgamento do RE 363.852, Rel. Min. Marco Aurélio, não alcança os produtores rurais autônomos sem empregados.
+    A parte alega que “o presente Recurso Extraordinário levado a julgamento por essa Corte possui idêntica matéria de direito em debate daquela objeto do Recurso em Repercussão Geral Tema nº 723 RE 761.263/SC que é ser definido se a contribuição sobre comercialização rural prevista no art. 25, da Lei nº 8.212/91 e exigida dos produtores não empregadores é constitucional”.
+    Com razão a embargante. De fato, o Supremo Tribunal Federal, nos autos do RE 761.263-RG, julgado sob a relatoria do Ministro Teori Zavaski, reconheceu a existência de repercussão geral da matéria em exame. Confira-se a ementa:
+    CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. SEGURADO ESPECIAL. ARTIGO 195, § 8º, DA CF/88. RESULTADO DA COMERCIALIZAÇÃO DA PRODUÇÃO. ART. 25 DA LEI 8.212/91, DESDE SUA REDAÇÃO ORIGINÁRIA. RECEITA BRUTA. BASE DE CÁLCULO. AUSÊNCIA DE IDENTIDADE. NECESSIDADE DE LEI COMPLEMENTAR. RECONHECIMENTO DA INCONSTITUCIONALIDADE DE DISPOSITIVOS DA LEI 8.212/91. EFEITOS REPRISTINATÓRIOS. Possui repercussão geral a questão atinente à constitucionalidade da contribuição a ser recolhida pelo segurado especial, prevista no art. 25 da Lei 8.212/1991, desde a sua redação originária, diante da ausência de identidade de sua base de cálculo (receita bruta) com a prevista no art. 195, § 8º, da Constituição Federal (resultado da comercialização).
+    Diante do exposto, reconsidero a decisão de fls. e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B, do CPC.
+    Publique-se.
+          Brasília, 05 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
