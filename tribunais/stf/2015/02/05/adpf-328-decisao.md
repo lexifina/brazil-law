@@ -1,0 +1,17 @@
+DECISÃO
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL – ATO REGULAMENTADOR – INADEQUAÇÃO DA VIA ELEITA – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Marcelo Novelino Camargo prestou as seguintes informações:
+    A Associação Nacional dos Procuradores dos Estados e do Distrito Federal – ANAPE busca seja declarada a não recepção, pela Emenda Constitucional nº 19/1998, dos artigos 1º e 2º da Lei nº 4.983, de 13 de dezembro de 1989, do Estado do Maranhão. Requer, ainda, seja a eficácia de decisão do Tribunal de Justiça daquele Estado, em que determinada a observância dos comandos contidos nos mencionados dispositivos legais, limitada ao período anterior às alterações introduzidas pela referida Emenda.
+    Afirma ter legitimidade para formalizar esta arguição em virtude da condição de entidade de classe de âmbito nacional. Sob o ângulo da pertinência temática, aduz o interesse direto dos Procuradores do Estado na invalidação da norma, a prever a equiparação entre a remuneração dos Delegados de Polícia e a da respectiva categoria. Ressalta o cabimento da ação ante a inexistência de outro meio similarmente eficaz para sanar a lesividade.
+    Diz haver o ato impugnado estabelecido a isonomia de vencimentos entre as carreiras da Magistratura, do Ministério Público, dos Procuradores de Estado e dos Delegados de Polícia. Discorre sobre as modificações introduzidas pela Emenda Constitucional nº 19/1998, no teor dos artigos 37, inciso XIII, e 39, § 1º, incisos I, II e III, da Lei Maior, as quais teriam impossibilitado a equiparação de quaisquer espécies remuneratórias entre diferentes categorias.
+    Aponta como preceitos fundamentais violados os princípios da legalidade, da moralidade administrativa e da separação de poderes.
+    Sob o ângulo do risco, frisa o impacto financeiro ao erário caso o Estado do Maranhão seja compelido a pagar eventuais diferenças decorrentes da equiparação remuneratória entre as duas carreiras. Postula o implemento de medida acauteladora para suspender a vigência e eficácia dos artigos 1º e 2º da Lei estadual nº 4.983/1989, limitar os efeitos da decisão formalizada no Mandado de Segurança nº 2074/96 ao período anterior à vigência da Emenda Constitucional nº 19/1998, bem como obstar o trâmite da Reclamação nº 9.611/2007 até o julgamento final desta arguição. No mérito, requer a confirmação da providência, declarando-se a não recepção dos atos impugnados.
+    O requerente cumpriu o disposto no artigo 3º, parágrafo único, da Lei nº 9.882, de 1999.
+    O processo encontra-se concluso para apreciação do pedido de liminar.
+    2. Assento, desde logo, sob o ângulo da pertinência temática, a ilegitimidade ativa da arguente. Por ocasião do julgamento da Arguição de Descumprimento de Preceito Fundamental nº 97, da relatoria da ministra Rosa Weber, em 21 de agosto de 2014, fiz ver a ausência de interesse de agir por parte da Associação dos Procuradores dos Estados (ANAPE), relativamente à norma disciplinadora da remuneração dos Delegados de Polícia do Estado do Pará.
+    Consoante afirmei na oportunidade, não vislumbro em que ponto os interesses da categoria profissional congregada pela Associação estariam sendo alcançados por lei que versa a remuneração de categoria diversa. Apesar do entendimento contrário da sempre ilustrada maioria, continuo convencido não se fazer presente a pertinência temática, que nada mais é do que um interesse jurídico.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 5 de fevereiro de 2015.
+Ministro MARCO AURÉLIO
+Relator
