@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RECURSO PROTOCOLIZADO EM TRIBUNAL DIVERSO: INTEMPESTIVIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Relatório
+    1. Em 19.10.2014, neguei seguimento ao Recurso Extraordinário com Agravo n. 841.113, por ter este Supremo Tribunal assentado a ausência de repercussão geral da questão sobre indenização por danos morais decorrentes de inscrição indevida em cadastro de proteção ao crédito (fls. 109-111).
+    Essa decisão foi publicada no DJe de 3.11.2014 (fl. 112). Em 12.11.2014, a Secretaria Judiciária do Supremo Tribunal Federal certificou o trânsito em julgado, ocorrido em 10.11.2014 (fl. 113).
+    Em 13.11.2014, a Secretaria Judiciária deste Supremo Tribunal Federal providenciou a baixa destes autos ao Colégio Recursal da 27ª Circunscrição Judiciária de São Paulo (fl. 113-v).
+    2. Em 7.11.2014, a Telefônica Brasil S/A protocolizou, na 27ª Turma Recursal Cível e Criminal do Foro Central da Comarca de Presidente Prudente/SP, agravo regimental contra a decisão proferida pelo Supremo Tribunal Federal no Recurso Extraordinário com Agravo n. 841.113 (fls. 114-115).
+    Essa petição foi endereçada ao “Excelentíssimo Senhor Desembargador Relator Cármen Lúcia da 27ª Turma Recursal Cível e Criminal do Foro Central da Comarca de Presidente Prudente – SP” (fl. 114, sic.)
+    Em 26.11.2014, a Presidente do Colégio Recursal da 27ª Circunscrição Judiciária de São Paulo determinou a remessa do recurso do Recurso Extraordinário com Agravo n. 841.113 a este Supremo Tribunal Federal:
+    “Trata-se de agravo interposto contra decisão do STF copiada às fls. 109/111, que negou seguimento ao agravo.
+    Assim, encaminhe-se o presente recurso ao Supremo Tribunal Federal para análise da referida petição” (fl. 119).
+    Examinados os elementos havidos nos autos, DECIDO.
+    3. O agravo regimental não pode ser conhecido por ser intempestivo.
+    4. A Secretaria do Supremo Tribunal Federal certificou o trânsito em julgado da decisão de negativa de seguimento do Recurso Extraordinário com Agravo n. 841.113 em 10.11.2014 (fl. 113).
+    Portanto, apesar de ter sido protocolizado na 27ª Turma Recursal Cível e Criminal do Foro Central da Comarca de Presidente Prudente/SP em 7.11.2014 (fl. 114), o agravo regimental chegou ao Supremo Tribunal Federal somente em 27.1.2015 (fl. 122), após o trânsito em julgado da decisão impugnada.
+    Este Supremo Tribunal Federal assentou ser intempestivo o recurso protocolizado por equívoco em Tribunal diverso e recebido no Supremo Tribunal Federal somente após o trânsito em julgado da decisão recorrida, como ocorreu na espécie em apreço. Assim, por exemplo:
+    “Nos termos da jurisprudência desta colenda Corte, a tempestividade do recurso é de ser aferida pela data de protocolo da petição na Secretaria deste Tribunal. 2. É intempestivo o recurso equivocadamente interposto perante Tribunal diverso e recebido no Supremo Tribunal Federal, órgão competente para sua apreciação, somente após o trânsito em julgado da decisão recorrida. Precedentes. 3. Agravo regimental não conhecido” (AI 678.296-AgR, Relator o Ministro Ayres Britto, Primeira Turma, DJe 14.8.2009).
+    “A jurisprudência deste Supremo Tribunal Federal firmou-se no sentido de que é intempestivo o recurso protocolado por equívoco em tribunal diverso e recebido somente após o trânsito em julgado da decisão recorrida. Precedentes” (RE 563.289-AgR, de minha relatoria, Primeira Turma, DJ 1º.8.2008).
+    “Não afasta a intempestividade o fato de o recorrente protocolar, por equívoco, em Tribunal diverso (o STJ, no caso), ainda que no prazo legal, a petição veiculadora do recurso deduzido contra decisão emanada de órgão monocrático ou colegiado do Supremo Tribunal Federal. A protocolização do recurso perante órgão judiciário incompetente constitui ato processualmente ineficaz. Hipótese em que a petição recursal ingressou, no Supremo Tribunal Federal, após o trânsito em julgado da decisão recorrida. - A tempestividade dos recursos no Supremo Tribunal Federal é aferível em função das datas de entrada das respectivas petições no Protocolo da Secretaria desta Suprema Corte, que constitui, para esse efeito (RTJ 131/1406 - RTJ 139/652 - RTJ 144/964), o único órgão cujo registro é dotado de publicidade e de eficácia jurídico-legal. Precedentes” (AI 507.973-AgR-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJ 21.9.2007).
+    “EMBARGOS DE DECLARAÇÃO. INTEMPESTIVIDADE. - A DATA QUE IMPORTA, PARA A AFERIÇÃO DA INTEMPESTIVIDADE DA INTERPOSIÇÃO DO RECURSO NESTA CORTE, E A DA ENTRADA DE SUA PETIÇÃO NO PROTOCOLO DO TRIBUNAL. ASSIM SE DECIDIU, A TÍTULO EXEMPLIFICATIVO, NOS AGAED 75.290, 2ª. TURMA, E AGAED 84.059, 1º. TURMA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, POR INTEMPESTIVIDADE” (Pet 388-ED, Relator o Ministro Moreira Alves, Plenário, DJ 8.2.1991).
+    5. Pelo exposto, não conheço do agravo regimental (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de fevereiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
