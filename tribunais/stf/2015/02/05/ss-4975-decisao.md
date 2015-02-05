@@ -1,0 +1,42 @@
+Trata-se de suspensão de segurança proposta pelo Instituto de Previdência do Município de São Bernardo do Campo - SBCPREV contra decisão proferida pela 6ª Câmara de Direito Público do Tribunal de Justiça daquela unidade federada nos autos do Mandado de Segurança 0019882-51.2013.8.26.0564, impetrado pelo Sindicato dos Servidores Públicos Municipais e Autárquicos de São Bernardo do Campo.
+    O decisum ora impugnado concedeu a ordem para estender aos diretores, coordenadores e orientadores pedagógicos a aposentadoria especial tal qual prevista aos professores, aplicando ao caso o entendimento inscrito na ADI 3.722/DF.
+    O requerente alega, em síntese, a ocorrência de grave lesão à economia e ao interesse públicos.
+    Argumenta, nesse sentido, que por se tratar de writ impetrado por associação de classe a execução do acórdão atingirá um número razoável de pessoas.
+    Assevera que a Corte Bandeirante negou a existência de decisão proferida pelo Plenário do STF, em sede de controle de constitucionalidade (ADI 3.772/DF) que, segundo afirma, ao conferir interpretação conforme a texto normativo, concluiu exatamente em sentido contrário ao da pretensão veiculada.
+    E acrescenta que:
+    “a execução do v. acórdão implicaria em riscos de cinco ordens: 1- insegurança jurídica de decisão judicial contrária ao TCESP e a comando vinculante do STF; 2 – efeito multiplicador da decisão para grande parte dos servidores municipais, que se encontram na situação prevista no acórdão, com aposentadorias em massa e evasão dos quadros do funcionalismo; 3- prejuízo irreversível ao erário, decorrente do pagamento de benefícios indevidos e das enormes dificuldades de obter o ressarcimento dos valores; 4- danos a todos os segurados, em função do desequilíbrio atuarial gerado pelo cumprimento da decisão; 5- danos aos habitantes da região, uma vez que recursos da Prefeitura deixariam de ser investidos em políticas públicas para fazerem frente ao ‘déficit’ atuarial, nos termos da legislação em vigor” (página 7 do documento eletrônico 2).
+    Requer, por fim, a suspensão do decisum ora atacado até que a questão seja decidida pelas Cortes Superiores.
+    A parte impetrante, devidamente intimada, pugnou pelo não acolhimento da suspensão de segurança.
+    A Procuradoria Geral da República, em parecer da lavra do Procurador-Geral Rodrigo Janot Monteiro de Barros, opinou pelo indeferimento do pedido. A manifestação do Parquet federal está assim sintetizada:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SUSPENSÃO DE SEGURANÇA. APOSENTADORIA ESPECIAL DE DIRETOR DE UNIDADE ESCOLAR, COORDENADOR E ORIENTADOROR PEDAGÓGICO. DECISÃO DO STF NA ADI 3.722/DF. AUSÊNCIA DE LESÃO À ORDEM PÚBLICA.
+    1 – Não fere a ordem jurídica e econômica decisão que aplica orientação ditada pelo Supremo Tribunal Federal em sede de controle concentrado.
+    2 – Entendimento fixado pelo Supremo Tribunal Federal de que diretores, coordenadores e orientadores pedagógicos têm direito à aposentadoria especial.
+    3 - Parecer pelo indeferimento do pedido” (página 1 do documento eletrônico 19).
+    É o relatório necessário. Decido.
+    Nos termos do art. 15 da Lei 12.016/2009, do art. 25 da Lei 8.038/1990 e do art. 297 do RISTF, compete à Presidência desta Corte, desde que presente na causa fundamento de índole constitucional, suspender a execução de decisões concessivas de segurança proferidas, em única ou última instância, pelos tribunais locais ou federais, tudo com o fim de evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+    Verifico, preliminarmente, que está bem demonstrada a natureza constitucional da controvérsia, envolvendo a interpretação e aplicação do parágrafo 5º do artigo 40 da Constituição Federal, que diz respeito à aposentadoria especial de professor.
+    Bem examinados os autos, tenho que é caso de indeferimento do pedido de suspensão.
+    No tocante às alegações trazidas pelo requerente na peça inicial, entendo necessário um juízo mínimo de delibação da matéria discutida na causa de origem, conforme plenamente autorizado pela jurisprudência desta Corte.
+    É que,
+    “se para a concessão da cautelar, examina-se a relevância do fundamento, o fumus boni juris e o periculum in mora (…) na sua suspensão, que constitui contracautela, não pode o Presidente do Tribunal furtar-se a um mínimo de apreciação daqueles requisitos” (SS 1.272-AgR/RJ, Rel. Min. Carlos Velloso).
+    Assim procedendo, entendo pertinente iniciar a análise destacando o atual entendimento do Supremo Tribunal Federal de que as funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidas em estabelecimentos de ensino básico.
+    Com efeito, o Plenário do Supremo Tribunal Federal, no julgamento da ADI 3.772/DF, na qual fui redator para o acórdão, assentou que as funções de magistério compreendem, além das restritas às salas de aula, a correção de provas, o atendimento aos pais e alunos, a preparação de aulas, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar. O acórdão possui a ementa a seguir transcrita:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE MANEJADA CONTRA O ART. 1º DA LEI FEDERAL 11.301/2006, QUE ACRESCENTOU O § 2º AO ART. 67 DA LEI 9.394/1996. CARREIRA DE MAGISTÉRIO. APOSENTADORIA ESPECIAL PARA OS EXERCENTES DE FUNÇÕES DE DIREÇÃO, COORDENAÇÃO E ASSESSORAMENTO PEDAGÓGICO. ALEGADA OFENSA AOS ARTS. 40, § 4º, E 201, § 1º, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. AÇÃO JULGADA PARCIALMENTE PROCEDENTE, COM INTERPRETAÇÃO CONFORME.
+    I - A função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar.
+    II - As funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidos, em estabelecimentos de ensino básico, por professores de carreira, excluídos os especialistas em educação, fazendo jus aqueles que as desempenham ao regime especial de aposentadoria estabelecido nos arts. 40, § 4º, e 201, § 1º, da Constituição Federal.
+    III - Ação direta julgada parcialmente procedente, com interpretação conforme, nos termos supra.”
+    Com fundamento nesse julgado, o TJSP concedeu a segurança ao Sindicato dos Servidores Públicos Municipais e Autárquicos de São Bernardo do Campo, reconhecendo o direito dos servidores que exerçam os cargos de Diretor Escolar, Coordenador Pedagógico e Orientador Pedagógico à aposentadoria especial, desde que preenchidos os requisitos, nos termos do art. 40, § 5º, da Constituição Federal.
+    O acórdão impugnado está assim ementado:
+    “ILEGITIMIDADE PASSIVA - Diretor do Departamento de Gestão de Pessoas do Município de São Bernardo do Campo Responsabilidade por deferir o pedido de aposentadoria especial Preliminar rejeitada.
+    FALTA DE INTERESSE DE AGIR - Inadmissibilidade - Mandado de segurança que se mostra adequado ao presente caso.
+    PRESCRIÇÃO DE FUNDO DE DIREITO - Rejeitada - Aplicação da Súmula 85 do C. STJ.
+    APELAÇÃO CÍVEL - Previdenciário - Pretensão de reconhecimento do direito à aposentadoria especial, com proventos integrais, com base no que dispõe o art. 40, § 5º, da CF - Extensão ao Diretor de Escola, Coordenador Pedagógico e Orientador Pedagógico Admissibilidade - ADI 3772 que sedimentou o entendimento de que a atividade de magistério não se restringe somente ao trabalho em sala de aula - Sentença reformada - Recurso provido.”
+    Portanto, não há como sustentar que fere a ordem jurídica e econômica acórdão que guarda sintonia com entendimento jurisprudencial emanado do Plenário desta Corte.
+    Ademais, não há como perquirir eventual lesão à economia pública a partir de meras alegações hipotéticas, desacompanhadas de elementos suficientes para a formação do juízo pertinente à provável ocorrência de abalo à ordem econômica do ente.
+    Nesse sentido, confiram-se: SS 4.242-AgR/RJ, Rel. Min. Cezar Peluso, DJe de 02.06.2011; SL 687/MT, Rel. Min. Joaquim Barbosa, DJe de 23.05.2013; SL 497/DF, Rel. Min. Cezar Peluso, DJe de 08.11.2011 e SS 3.905/MA, Rel. Min. Gilmar Mendes, DJe de 1º.09.2009.
+    Isso posto, indefiro o pedido de suspensão.
+    Publique-se.
+    Brasília, 5 de fevereiro de 2015.
+Ministro Ricardo Lewandowski
+Presidente
+Documento assinado digitalmente
