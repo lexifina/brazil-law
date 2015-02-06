@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 457):
+    ”EMBARGOS À EXECUÇÃO - AUSÊNCIA DE PROCURAÇÃO - LITISPENDÊNCIA - INTERESSE PROCESSUAL - LEGITIMIDADE ATIVA AD CAUSAM - LEI DISTRITAL 3.624/2005 - EXCESSO DE EXECUÇÃO - JUROS DE MORA.
+    1 - A ausência da procuração outorgada pelo Sindireta ao seu advogado, por não acarretar prejuízo às partes, não impede o conhecimento dos embargos, vez que se encontra nos autos em apenso
+    2 - Afasta-se a alegação de litispendência, vez que a execução promovida pelo SINDIRETA-DF, trata de obrigação de fazer, e a promovida pelo Embargado, por quantia certa.
+    3 - A impetração de mandado de segurança coletivo não constitui impedimento para que os interessados promovam, individualmente, a execução do julgado, tratando-se de legitimidade ativa concorrente.
+    4 - A Lei Distrital nº 3.624/2005 possui caráter instrumental-material, não podendo ser aplicada retroativamente, para alcançar direitos adquiridos anteriormente à sua edição. Entretanto, não se pode em sede de embargos à execução agravar a situação do exeqüente.
+    5 - O servidor deve arcar com a parcela referente ao custeio dos valores pagos a título de benefício alimentação, nos termos da Lei Distrital nº 786/94 e Decreto nº 16.423/95.
+    6 - No que concerne aos juros moratórios, prevalece o entendimento de que devem ser aplicados à razão de 1% (um por cento) ao mês, nas ações propostas anteriormente à edição da Medida Provisória nº 2.180-35/2001, que inseriu o artigo 1º-F, na Lei nº 9.494/97. Entretanto, há que se observar os cálculos constantes da execução, não se podendo agravar a situação do embargante em sede de embargos à execução.
+    7 - Preliminares rejeitadas. Embargos à execução julgados parcialmente procedentes. ”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, XXXVI; e 37, caput; 62; e 100, § 4º, da Constituição, bem como ao art. 2º da EC 32/2001.
+    A decisão de fls. 516/517 julgou prejudicado o recurso, tendo em conta estar o acórdão recorrido de acordo com o julgado no RE 568.645-RG, sob a relatoria da Ministra Cármen Lúcia, e, quanto às questões não alcançadas pelo julgamento do paradigma, admitiu o recurso extraordinário.
+    Na parte em que admitido o recurso, deve ser este provido, uma vez que o acórdão recorrido não se alinha ao entendimento do Supremo Tribunal Federal, que no julgamento do AI 842.063-RG, sob a relatoria do Ministro Cezar Peluso, após reconhecer a repercussão geral da matéria, reafirmou a sua jurisprudência no sentido de que “É compatível com a Constituição a aplicabilidade imediata do art. 1º-F da Lei 9.494/97, com alteração pela Medida Provisória nº 2.180-35/2001, ainda que em relação às ações ajuizadas antes de sua entrada em vigor”. Veja-se, ainda, a ementa do AI 814.490-ED, julgado sob relatoria do Ministro Ricardo Lewandowski:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS DE MORA. ART. 1º-F DA LEI 9.494/1997, COM REDAÇÃO DA MP 2.180-35/2001. CONSTITUCIONALIDADE. EFICÁCIA IMEDIATA. AGRAVO IMPROVIDO.
+    I – O Supremo Tribunal Federal, ao julgar o AI 842.063/RS, Rel. Min. Presidente, reconheceu a repercussão geral do tema em debate e reafirmou sua jurisprudência no sentido de que a norma do art. 1º-F da Lei 9.494/97, modificada pela Medida Provisória 2.180-35/2001, é constitucional e possui aplicabilidade imediata, ou seja, desde o início de sua vigência, independentemente da data do ajuizamento da ação. Precedentes.
+    II – Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.”
+    Dessa orientação divergiu o Tribunal de origem, ao estabelecer percentual de juros moratórios em afronta à vigência da MP 2.180-35/2001, que modificou o art. 1º-F da Lei 9.494/1997.
+    Diante do exposto, com base no art. 544, § 4º, II, c, do CPC e no art. 21, § 1º do RI/STF, conheço do agravo e dou parcial provimento ao recurso extraordinário para que seja observado o índice de juros moratórios de 6% (seis por cento) ao ano durante o período em que vigorou a redação do art. 1º-F, da Lei 9.494/1997, dada pela MP 2.180/2001.
+    Publique-se.
+          Brasília, 06 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
