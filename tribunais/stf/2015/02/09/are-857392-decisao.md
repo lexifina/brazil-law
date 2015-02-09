@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. HORAS EXTRAS. IMPOSSIBILIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “EMENTA: DIREITO PROCESSUAL - EXIBIÇÃO DE DOCUMENTOS PELO ENTE PÚBLICO - INDEFERIMENTO DO PEDIDO - PROVA DESNECESSÁRIA AO DESLINDE DO FEITO - AUSENTE O CERCEAMENTO DE DEFESA - DIREITO ADMINISTRATIVO - SERVIDOR PÚBLICO - TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS - TÉCNICO DE CONTROLE EXTERNO - PAGAMENTO DE HORAS-EXTRAS - AUSÊNCIA DE COMPROVAÇÃO DA PRESTAÇÃO DE SERVIÇO EM SOBREJORNADA.
+      - Se o documento cuja exibição se pretende é desnecessário para o deslinde do feito, o indeferimento do pedido de exibição não configura o cerceamento de defesa.
+      - O Técnico de Controle Externo do Tribunal de Contas do Estado de Minas Gerais faz jus à percepção do adicional de horas extras nos casos em que exceder a carga horária prevista em lei, desde que comprovado que o servidor laborou em sobrejornada, mediante a devida autorização do Presidente do Tribunal de Contas".
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante afirma ter o Tribunal de origem contrariado os arts. 7º, inc. XVI, 37, caput, e 39, § 3º, da Constituição da República.
+    Argumenta que, “com base em documentos logrou comprovar o exercício de horas extras prestadas pelo Recorrente. Ao julgar improcedente os pedidos iniciais o Tribunal de origem decidiu contra prova que consta dos autos e, mesmo ante à comprovação do exercício em jornada extraordinária negou ao Recorrente o direito de receber a devida contraprestação” (fl. 325).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos postos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Desembargador Relator assentou:
+    “As situações típicas e corriqueiras, tais como as viagens a que se submetem os servidores ocupantes do mesmo cargo do Autor, são levadas em consideração na fixação dos vencimentos/subsídios inerentes ao cargo, e os gastos excedentes são devidamente cobertos pelas diárias de viagem.
+    No entanto, mesmo estando deslocado para outro Município, o servidor faz jus ao recebimento de adicional de horas extras sempre que, no efetivo exercício de suas atribuições, extrapolar a jornada prevista na Resolução 11/96 do TCE, que a fixa em seis ou sete horas diárias, visto tratar-se de situação que pode ser qualificada como atípica.
+    Ocorre que, em momento algum o servidor comprovou a expressa autorização do Presidente do Tribunal, como determina a lei, e nem logrou demonstrar o efetivo exercício das atividades em sobrejornada, não sendo devido, portanto, o pagamento do adicional pretendido.
+    Os documentos acostados aos autos não servem para comprovar que o Autor efetivamente prestou serviço extraordinário como alegado. E os documentos cuja exibição pretendeu também não serviriam a este propósito, como dito.
+    Ressalte-se, ainda, que a prova testemunhal também não se mostraria adequada para a comprovação do número de horas de sobrejornada supostamente exercidas, sendo certo que por meio da referida prova seria impossível quantificar com segurança o número de horas prestadas, sendo descabido condenar o ente público ao pagamento da verba por mera estimativa.
+    (…) Portanto, inexistindo nos autos os pressupostos básicos para o cumprimento do serviço extraordinário não vislumbro a possibilidade de pagamento de horas extras pelo exercício normal da atividade exercida pela autora/apelante. Somente pode ser remunerado o serviço extraordinário previamente autorizado, que reste amplamente justificado e atestado, com base em controles que efetivamente comprovem a prestação do serviço, e que seja referente à prestação do multicitado serviço em regime excepcional ou atípico."
+    Com estas considerações, NEGO PROVIMENTO AO RECURSO”.
+    Para o deslinde da controvérsia posta à apreciação judicial, as instâncias originárias examinaram os elementos probatórios dos autos, que não podem ser novamente analisados na via extraordinária, conforme a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. HORAS EXTRAS E ADICIONAL NOTURNO. REGIME DE COMPENSAÇÃO. LEIS ESTADUAIS 2.068/1976, 2.148/1977 E 3.868/1977 E DECRETO 21.892/2003. MATÉRIA INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base no conjunto fático-probatório dos autos e na legislação infraconstitucional local aplicável à espécie, o que inviabiliza o recurso extraordinário, nos termos das Súmulas 279 e 280 do STF. Precedentes. II - Agravo regimental improvido” (RE 606.516-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 4.5.2011).
+    “EMENTA Agravo regimental no recurso extraordinário. Servidor público. Jornada de trabalho. Horas extras. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (RE 464.022-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 14.9.2011).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de fevereiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
