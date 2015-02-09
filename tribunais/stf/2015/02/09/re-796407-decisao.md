@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que a parte recorrente aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. É inviável a apreciação, em recurso extraordinário, de alegada violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, uma vez que, se houvesse, seria meramente reflexa, já que é imprescindível o exame de normas infraconstitucionais (ARE 748.371-RG/MT, Min. GILMAR MENDES, Tema 660).
+    Quanto à alegação de ofensa ao art. 5º, II, da CF/88, em relação ao princípio da legalidade, incide o óbice da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    3. De todo modo, quanto aos demais dispositivos constitucionais apontados como violados, o recurso extraordinário está fundamentado na alegação de inexigibilidade da contribuição do PIS no período de outubro de 1995 a fevereiro de 1996 por violação aos princípios da legalidade e da anterioridade. A seu turno, o acórdão recorrido declarou a prescrição quinquenal do direito à repetição do indébito, “com termo inicial na data do pagamento e final no ajuizamento da ação”, nos termos do art. 156, I, do CTN (fl. 154).
+    Como se vê, a parte recorrente fundou sua postulação extraordinária em normas e argumentos incapazes de infirmar o juízo formulado pelo aresto impugnado, exatamente porque os fundamentos da Corte de origem em relação à prescrição não se inserem no campo de abrangência dos dispositivos constitucionais apontados. Desse modo, por apresentar razões recursais logicamente dissociadas do julgado recorrido (dando azo à aplicação analógica da Súmula 284 do STF), o recurso extraordinário não merece conhecimento.
+    Por fim, como o Superior Tribunal de Justiça deu provimento ao recurso especial, afastando a prescrição e determinando o retorno dos autos ao Tribunal de origem para prosseguir no exame da apelação (fl. 254), nova oportunidade se abrirá às partes para abordar as questões constantes no presente extraordinário.
+    4. Diante do exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 9 de fevereiro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
