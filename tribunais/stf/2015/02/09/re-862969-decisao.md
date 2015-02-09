@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 5ª Região ementado nos seguintes termos:
+    “EMBARGOS À EXECUÇÃO FISCAL. GARANTIA DO JUÍZO. PENHORA INEXISTENTE. BENEFICIÁRIO DA JUSTIÇA GRATUITA. IMPROVIMENTO DA APELAÇÃO.
+    1. Apelação de sentença que julgou extintos, sem resolução do mérito (art. 267, VI, do CPC), os embargos à execução fiscal manejados pela ora apelante, considerando ausentes os pressupostos de sua constituição regular (art. 16, § 1, da Lei 6.830/80 - garantia do juízo).
+    2. O STJ, no julgamento do REsp nº 1.272.827/PE, sob o regime do art. 543-C do CPC, sedimentou o entendimento de que, “Em atenção ao princípio da especialidade da LEF, mantido com a reforma do CPC/73, a nova redação do art. 736, do CPC dada pela Lei n. 11.382/2006 – artigo que dispensa a garantia como condicionante dos embargos – não se aplica às execuções fiscais diante da presença de dispositivo específico, qual seja o art. 16, §1º da Lei n. 6.830/80, que exige expressamente a garantia para a apresentação dos embargos à execução fiscal”.
+    3. "O 3º, inciso VII, da Lei n. 1.060/50 não afasta a aplicação do art. 16, § 1º, da LEF, pois o referido dispositivo é cláusula genérica, abstrata e visa à isenção de despesas de natureza processual, não havendo previsão legal de isenção de garantia do juízo para embargar." (STJ. Segunda Turma. Resp 1437078/RS. Rel. Min. HUMBERTO MARTINS. Julg. 25/03/2014. Publ. DJe 31/03/2014).
+    4. Apelação improvida.” (fl. 221).
+    No recurso extraordinário, interposto com fundamento no art. 102. III, “a”, da Constituição Federal, aponta-se violação aos arts. 1º, III, 3º, III e IV, 4º, II, 5º, caput, II, XXXVI; LV, LXXIV, e 37, caput, do texto constitucional.
+    Nas razões recursais, argumenta-se que “teve cerceado seu direito à ampla defesa e o perfeito contraditório em decorrência da sua baixa renda (aposentado, um salário mínimo, inválido), a assertiva da distinção de qualquer natureza já esta configurada, visto que a hipossuficiência do recorrente, o enquadrou como negativa em face do não preenchimento de um dos ‘pré-requisitos’” (fl. 259).
+    É o relatório.
+    Decido.
+    O acórdão recorrido, ao examinar a Lei de Execução Fiscal e o Código de Processo Civil, entendeu pela necessidade de penhora para garantir o juízo. Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Confira-se a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. PRINCÍPIO DA LEGALIDADE. PROCESSUAL. REAPRECIAÇÃO DE INTERPRETAÇÃO DADA A NORMA INFRACONSTITUCIONAL. SÚMULA 636 DO STF. NECESSIDADE DE EXAME PRÉVIO DE NORMAS INFRACONSTITUCIONAIS PARA VERIFICAR OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JUÍZO SOBRE O CONHECIMENTO DO RECURSO ESPECIAL. ANÁLISE DOS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. ADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO DE ACÓRDÃO EM RECURSO ESPECIAL. QUESTÃO CONSTITUCIONAL QUE DEVE SURGIR ORIGINARIAMENTE NO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”.
+    Ante o exposto, nego provimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput , do CPC) .
+    Publique-se.
+    Brasília, 9 de fevereiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
