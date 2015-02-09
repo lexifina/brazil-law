@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário que, por decisão do Ministro Joaquim Barbosa, relator originário do feito, foi devolvido ao Tribunal de Justiça de Minas Gerais, nos termos do art. 543-B, do Código de Processo Civil, a fim de que se aguardasse o julgamento do mérito do RE 561.836-RG, Rel. Min. Luiz Fux.
+    Julgado o mérito do recurso extraordinário paradigma por esta Corte, o Tribunal de origem, ao analisar a controvérsia nos termos do art. 543-B, § 4º, do CPC, entendeu pela manutenção do acórdão recorrido. Ademais, na parte em que a discussão extrapolava aquilo decidido no paradigma apontado, o Tribunal de origem indeferiu liminarmente o recurso, utilizando como fundamento a ausência de repercussão geral da matéria, assentada no julgamento do ARE 639.228-RG, sob a relatoria do Min. Cezar Peluso.
+    Contra essa decisão foi interposto agravo, com fundamento no art. 544 do CPC (fls. 421/424).
+    O agravo não deve ser conhecido. Isso porque o Supremo Tribunal Federal assentou ser incabível o agravo previsto no art. 544 do CPC contra decisão do Tribunal de origem que, ao aplicar a sistemática da repercussão geral, considera prejudicado o recurso extraordinário (AI 760.358-QO, Rel. Min. Presidente, à época o Ministro Gilmar Mendes). Tal entendimento foi reafirmado pelo Plenário desta Corte ao não conhecer agravo interposto contra decisão do órgão a quo que negou seguimento a recurso extraordinário com fundamento em julgado deste Tribunal que fixou ser a controvérsia ausente de repercussão geral (ARE 761.661, Rel. Min. Presidente).
+    É verdade que a Corte tem cogitado da necessidade de atenuação desse critério rígido, inclusive em processos dos quais pedi vista para maior reflexão (Rcl 11.408 e Rcl 11.427). Sem prejuízo disso, a orientação do Plenário, como mencionado, tem sido a de se manter, por ora, a jurisprudência restritiva, razão pela qual o agravo não deve ser conhecido neste ponto.
+    De toda forma, ingressando no exame do caso em tela, não estaria caracterizado erro de enquadramento por parte da instância de origem. Isso porque as decisões do Tribunal a quo se alinham ao que restou decidido no julgamento dos paradigmas mencionados (RE 561.836-RG, Rel. Min. Luiz Fux; e ARE 639.228-RG, Rel. Min. Cezar Peluso).
+    Diante do exposto, com base no art. 544, § 4º, I, do CPC e no art. 21, § 1º, do RI/STF, não conheço do agravo.
+    Publique-se.
+          Brasília, 09 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
