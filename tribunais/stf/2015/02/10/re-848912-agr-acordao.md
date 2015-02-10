@@ -1,0 +1,622 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 14
+
+10/02/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 848.912 ESPÍRITO SANTO
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ROSA WEBER
+: UNAFISCO SINDICAL - SINDICATO NACIONAL
+DOS AUDITORES -FISCAIS DA RECEITA FEDERAL
+: ELAINE NOGUEIRA DA SILVA E OUTRO(A/S)
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+EMENTA
+
+DIREITO ADMINISTRATIVO. GREVE NO SERVIÇO PÚBLICO.
+CONTINUIDADE DO DESEMBARAÇO ADUANEIRO. ATIVIDADE
+ESSENCIAL. CONSONÂNCIA DA DECISÃO RECORRIDA COM A
+JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL
+FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE
+TRÂNSITO.
+REELABORAÇÃO
+DA
+MOLDURA
+FÁTICA.
+PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA.
+ACÓRDÃO RECORRIDO PUBLICADO EM 21.7.2010.
+O entendimento adotado pela Corte de origem, nos moldes do que
+assinalado na decisão agravada, não diverge da jurisprudência firmada
+no âmbito deste Supremo Tribunal Federal. Entender de modo diverso
+demandaria a reelaboração da moldura fática delineada no acórdão de
+origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível,
+portanto, de viabilizar o conhecimento do recurso extraordinário.
+As razões do agravo regimental não se mostram aptas a infirmar os
+fundamentos que lastrearam a decisão agravada.
+Agravo regimental conhecido e não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Primeira Turma, sob a Presidência da
+Senhora Ministra Rosa Weber, na conformidade da ata de julgamento e
+das notas taquigráficas, por unanimidade de votos, em negar provimento
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780396.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 14
+
+RE 848912 AGR / ES
+ao agravo regimental, nos termos do voto da Relatora. Não participou,
+justificadamente, deste julgamento o Senhor Ministro Dias Toffoli.
+Brasília, 10 de fevereiro de 2015.
+
+Ministra Rosa Weber
+Relatora
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780396.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 14
+
+10/02/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 848.912 ESPÍRITO SANTO
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ROSA WEBER
+: UNAFISCO SINDICAL - SINDICATO NACIONAL
+DOS AUDITORES -FISCAIS DA RECEITA FEDERAL
+: ELAINE NOGUEIRA DA SILVA E OUTRO(A/S)
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+RELATÓRIO
+
+A Senhora Ministra Rosa Weber (Relatora): Contra a decisão por
+mim proferida, pela qual negado seguimento ao recurso, maneja agravo
+regimental Unafisco Sindical - Sindicato Nacional dos Auditores-fiscais
+da Receita Federal.
+Insurge-se contra a decisão agravada, ao argumento de que a
+violação dos preceitos da Constituição Federal se dá de forma direta.
+Insiste na afronta aos arts. 9º e 37, VII, da Lei Maior.
+Acórdão recorrido publicado em 21.7.2010.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780397.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 4 de 14
+
+10/02/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 848.912 ESPÍRITO SANTO
+VOTO
+A Senhora Ministra Rosa Weber (Relatora): Preenchidos os
+pressupostos genéricos, conheço do agravo regimental e passo ao exame
+do mérito.
+Nada colhe o agravo.
+Conforme consignado, o entendimento adotado no acórdão
+recorrido não diverge da jurisprudência firmada no âmbito deste
+Supremo Tribunal Federal, razão pela qual não há falar em afronta aos
+preceitos constitucionais invocados no recurso, a teor da decisão que
+desafiou o agravo, verbis:
+“Vistos etc.
+Contra o acórdão prolatado pelo Tribunal de origem,
+maneja recurso extraordinário, com base no art. 102, III, da Lei
+Maior, Unafisco Sindical - Sindicato Nacional dos AuditoresFiscais da Receita Federal. Aparelhado o recurso na afronta aos
+arts. 9º e 37, VII, da Lei Maior.
+É o relatório.
+Decido.
+Preenchidos os pressupostos extrínsecos.
+Da detida análise dos fundamentos adotados pelo
+Tribunal de origem, por ocasião do julgamento do apelo
+veiculado na instância ordinária, em confronto com as razões
+veiculadas no extraordinário, concluo que nada colhe o recurso.
+O entendimento adotado no acórdão recorrido não
+diverge da jurisprudência firmada no âmbito deste Supremo
+Tribunal Federal, no sentido da possibilidade de o Poder
+Judiciário impor a observância a regime de greve mais severo
+em razão de tratar-se de serviços ou atividades essenciais, razão
+pela qual não se divisa a alegada ofensa aos dispositivos
+constitucionais suscitados. Nesse sentido:
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780398.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 5 de 14
+
+RE 848912 AGR / ES
+"MANDADO
+DE
+INJUNÇÃO.
+GARANTIA
+FUNDAMENTAL (CF, ART. 5º, INCISO LXXI). DIREITO DE
+GREVE DOS SERVIDORES PÚBLICOS CIVIS (CF, ART. 37,
+INCISO VII). EVOLUÇÃO DO TEMA NA JURISPRUDÊNCIA
+DO SUPREMO TRIBUNAL FEDERAL (STF). DEFINIÇÃO DOS
+PARÂMETROS DE COMPETÊNCIA CONSTITUCIONAL
+PARA APRECIAÇÃO NO ÂMBITO DA JUSTIÇA FEDERAL E
+DA JUSTIÇA ESTADUAL ATÉ A EDIÇÃO DA LEGISLAÇÃO
+ESPECÍFICA PERTINENTE, NOS TERMOS DO ART. 37, VII,
+DA CF. EM OBSERVÂNCIA AOS DITAMES DA SEGURANÇA
+JURÍDICA E À EVOLUÇÃO JURISPRUDENCIAL NA
+INTERPRETAÇÃO DA OMISSÃO LEGISLATIVA SOBRE O
+DIREITO DE GREVE DOS SERVIDORES PÚBLICOS CIVIS,
+FIXAÇÃO DO PRAZO DE 60 (SESSENTA) DIAS PARA QUE O
+CONGRESSO NACIONAL LEGISLE SOBRE A MATÉRIA.
+MANDADO DE INJUNÇÃO DEFERIDO PARA DETERMINAR
+A APLICAÇÃO DAS LEIS Nos 7.701/1988 E 7.783/1989. 1.
+SINAIS DE EVOLUÇÃO DA GARANTIA FUNDAMENTAL
+DO MANDADO DE INJUNÇÃO NA JURISPRUDÊNCIA DO
+SUPREMO TRIBUNAL FEDERAL (STF). 1.1. No julgamento do
+MI no 107/DF, Rel. Min. Moreira Alves, DJ 21.9.1990, o Plenário
+do STF consolidou entendimento que conferiu ao mandado de
+injunção os seguintes elementos operacionais: i) os direitos
+constitucionalmente garantidos por meio de mandado de
+injunção apresentam-se como direitos à expedição de um ato
+normativo, os quais, via de regra, não poderiam ser diretamente
+satisfeitos por meio de provimento jurisdicional do STF; ii) a
+decisão judicial que declara a existência de uma omissão
+inconstitucional constata, igualmente, a mora do órgão ou
+poder legiferante, insta-o a editar a norma requerida; iii) a
+omissão inconstitucional tanto pode referir-se a uma omissão
+total do legislador quanto a uma omissão parcial; iv) a decisão
+proferida em sede do controle abstrato de normas acerca da
+existência, ou não, de omissão é dotada de eficácia erga omnes,
+e não apresenta diferença significativa em relação a atos
+decisórios proferidos no contexto de mandado de injunção; iv)
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780398.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 6 de 14
+
+RE 848912 AGR / ES
+o STF possui competência constitucional para, na ação de
+mandado de injunção, determinar a suspensão de processos
+administrativos ou judiciais, com o intuito de assegurar ao
+interessado a possibilidade de ser contemplado por norma mais
+benéfica, ou que lhe assegure o direito constitucional invocado;
+v) por fim, esse plexo de poderes institucionais legitima que o
+STF determine a edição de outras medidas que garantam a
+posição do impetrante até a oportuna expedição de normas pelo
+legislador. 1.2. Apesar dos avanços proporcionados por essa
+construção jurisprudencial inicial, o STF flexibilizou a
+interpretação constitucional primeiramente fixada para conferir
+uma compreensão mais abrangente à garantia fundamental do
+mandado de injunção. A partir de uma série de precedentes, o
+Tribunal passou a admitir soluções "normativas" para a decisão
+judicial como alternativa legítima de tornar a proteção judicial
+efetiva (CF, art. 5o, XXXV). Precedentes: MI no 283, Rel. Min.
+Sepúlveda Pertence, DJ 14.11.1991; MI no 232/RJ, Rel. Min.
+Moreira Alves, DJ 27.3.1992; MI nº 284, Rel. Min. Marco Aurélio,
+Red. para o acórdão Min. Celso de Mello, DJ 26.6.1992; MI no
+543/DF, Rel. Min. Octavio Gallotti, DJ 24.5.2002; MI no 679/DF,
+Rel. Min. Celso de Mello, DJ 17.12.2002; e MI no 562/DF, Rel.
+Min. Ellen Gracie, DJ 20.6.2003. 2. O MANDADO DE
+INJUNÇÃO E O DIREITO DE GREVE DOS SERVIDORES
+PÚBLICOS CIVIS NA JURISPRUDÊNCIA DO STF. 2.1. O tema
+da existência, ou não, de omissão legislativa quanto à definição
+das possibilidades, condições e limites para o exercício do
+direito de greve por servidores públicos civis já foi, por diversas
+vezes, apreciado pelo STF. Em todas as oportunidades, esta
+Corte firmou o entendimento de que o objeto do mandado de
+injunção cingir-se-ia à declaração da existência, ou não, de mora
+legislativa para a edição de norma regulamentadora específica.
+Precedentes: MI no 20/DF, Rel. Min. Celso de Mello, DJ
+22.11.1996; MI no 585/TO, Rel. Min. Ilmar Galvão, DJ 2.8.2002; e
+MI no 485/MT, Rel. Min. Maurício Corrêa, DJ 23.8.2002. 2.2. Em
+alguns precedentes(em especial, no voto do Min. Carlos
+Velloso, proferido no julgamento do MI no 631/MS, Rel. Min.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780398.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 7 de 14
+
+RE 848912 AGR / ES
+Ilmar Galvão, DJ 2.8.2002), aventou-se a possibilidade de
+aplicação aos servidores públicos civis da lei que disciplina os
+movimentos grevistas no âmbito do setor privado (Lei no
+7.783/1989). 3. DIREITO DE GREVE DOS SERVIDORES
+PÚBLICOS CIVIS. HIPÓTESE DE OMISSÃO LEGISLATIVA
+INCONSTITUCIONAL. MORA JUDICIAL, POR DIVERSAS
+VEZES, DECLARADA PELO PLENÁRIO DO STF. RISCOS DE
+CONSOLIDAÇÃO DE TÍPICA OMISSÃO JUDICIAL QUANTO
+À MATÉRIA. A EXPERIÊNCIA DO DIREITO COMPARADO.
+LEGITIMIDADE DE ADOÇÃO DE ALTERNATIVAS
+NORMATIVAS E INSTITUCIONAIS DE SUPERAÇÃO DA
+SITUAÇÃO DE OMISSÃO. 3.1. A permanência da situação de
+não-regulamentação do direito de greve dos servidores
+públicos civis contribui para a ampliação da regularidade das
+instituições de um Estado democrático de Direito (CF, art. 1o).
+Além de o tema envolver uma série de questões estratégicas e
+orçamentárias diretamente relacionadas aos serviços públicos, a
+ausência de parâmetros jurídicos de controle dos abusos
+cometidos na deflagração desse tipo específico de movimento
+grevista tem favorecido que o legítimo exercício de direitos
+constitucionais seja afastado por uma verdadeira "lei da selva".
+3.2. Apesar das modificações implementadas pela Emenda
+Constitucional no 19/1998 quanto à modificação da reserva
+legal de lei complementar para a de lei ordinária específica (CF,
+art. 37, VII), observa-se que o direito de greve dos servidores
+públicos civis continua sem receber tratamento legislativo
+minimamente satisfatório para garantir o exercício dessa
+prerrogativa em consonância com imperativos constitucionais.
+3.3. Tendo em vista as imperiosas balizas jurídico-políticas que
+demandam a concretização do direito de greve a todos os
+trabalhadores, o STF não pode se abster de reconhecer que,
+assim como o controle judicial deve incidir sobre a atividade do
+legislador, é possível que a Corte Constitucional atue também
+nos casos de inatividade ou omissão do Legislativo. 3.4. A mora
+legislativa em questão já foi, por diversas vezes, declarada na
+ordem constitucional brasileira. Por esse motivo, a permanência
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780398.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 8 de 14
+
+RE 848912 AGR / ES
+dessa situação de ausência de regulamentação do direito de
+greve dos servidores públicos civis passa a invocar, para si, os
+riscos de consolidação de uma típica omissão judicial. 3.5. Na
+experiência do direito comparado (em especial, na Alemanha e
+na Itália), admite-se que o Poder Judiciário adote medidas
+normativas como alternativa legítima de superação de omissões
+inconstitucionais, sem que a proteção judicial efetiva a direitos
+fundamentais se configure como ofensa ao modelo de
+separação de poderes (CF, art. 2o). 4. DIREITO DE GREVE DOS
+SERVIDORES PÚBLICOS CIVIS. REGULAMENTAÇÃO DA
+LEI DE GREVE DOS TRABALHADORES EM GERAL (LEI No
+7.783/1989). FIXAÇÃO DE PARÂMETROS DE CONTROLE
+JUDICIAL DO EXERCÍCIO DO DIREITO DE GREVE PELO
+LEGISLADOR INFRACONSTITUCIONAL. 4.1. A disciplina do
+direito de greve para os trabalhadores em geral, quanto às
+"atividades essenciais", é especificamente delineada nos arts. 9o
+a 11 da Lei no 7.783/1989. Na hipótese de aplicação dessa
+legislação geral ao caso específico do direito de greve dos
+servidores públicos, antes de tudo, afigura-se inegável o
+conflito existente entre as necessidades mínimas de legislação
+para o exercício do direito de greve dos servidores públicos
+civis (CF, art. 9o, caput, c/c art. 37, VII), de um lado, e o direito a
+serviços públicos adequados e prestados de forma contínua a
+todos os cidadãos (CF, art. 9o, §1o), de outro. Evidentemente,
+não se outorgaria ao legislador qualquer poder discricionário
+quanto à edição, ou não, da lei disciplinadora do direito de
+greve. O legislador poderia adotar um modelo mais ou menos
+rígido, mais ou menos restritivo do direito de greve no âmbito
+do serviço público, mas não poderia deixar de reconhecer
+direito previamente definido pelo texto da Constituição.
+Considerada a evolução jurisprudencial do tema perante o STF,
+em sede do mandado de injunção, não se pode atribuir
+amplamente ao legislador a última palavra acerca da concessão,
+ou não, do direito de greve dos servidores públicos civis, sob
+pena de se esvaziar direito fundamental positivado. Tal
+premissa, contudo, não impede que, futuramente, o legislador
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780398.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 9 de 14
+
+RE 848912 AGR / ES
+infraconstitucional confira novos contornos acerca da adequada
+configuração da disciplina desse direito constitucional. 4.2
+Considerada a omissão legislativa alegada na espécie, seria o
+caso de se acolher a pretensão, tão-somente no sentido de que
+se aplique a Lei no 7.783/1989 enquanto a omissão não for
+devidamente regulamentada por lei específica para os
+servidores públicos civis (CF, art. 37, VII). 4.3 Em razão dos
+imperativos da continuidade dos serviços públicos, contudo,
+não se pode afastar que, de acordo com as peculiaridades de
+cada caso concreto e mediante solicitação de entidade ou órgão
+legítimo, seja facultado ao tribunal competente impor a
+observância a regime de greve mais severo em razão de tratarse de "serviços ou atividades essenciais", nos termos do regime
+fixado pelos arts. 9o a 11 da Lei no 7.783/1989. Isso ocorre
+porque não se pode deixar de cogitar dos riscos decorrentes das
+possibilidades de que a regulação dos serviços públicos que
+tenham características afins a esses "serviços ou atividades
+essenciais" seja menos severa que a disciplina dispensada aos
+serviços privados ditos "essenciais". 4.4. O sistema de
+judicialização do direito de greve dos servidores públicos civis
+está aberto para que outras atividades sejam submetidas a
+idêntico regime. Pela complexidade e variedade dos serviços
+públicos e atividades estratégicas típicas do Estado, há outros
+serviços públicos, cuja essencialidade não está contemplada
+pelo rol dos arts. 9o a 11 da Lei no 7.783/1989. Para os fins desta
+decisão, a enunciação do regime fixado pelos arts. 9o a 11 da Lei
+no 7.783/1989 é apenas exemplificativa (numerus apertus).
+5. O PROCESSAMENTO E O JULGAMENTO DE
+EVENTUAIS DISSÍDIOS DE GREVE QUE ENVOLVAM
+SERVIDORES PÚBLICOS CIVIS DEVEM OBEDECER AO
+MODELO DE COMPETÊNCIAS E ATRIBUIÇÕES APLICÁVEL
+AOS TRABALHADORES EM GERAL (CELETISTAS), NOS
+TERMOS DA REGULAMENTAÇÃO DA LEI No 7.783/1989. A
+APLICAÇÃO COMPLEMENTAR DA LEI No 7.701/1988 VISA
+À JUDICIALIZAÇÃO DOS CONFLITOS QUE ENVOLVAM OS
+SERVIDORES PÚBLICOS CIVIS NO CONTEXTO DO
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780398.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 10 de 14
+
+RE 848912 AGR / ES
+ATENDIMENTO DE ATIVIDADES RELACIONADAS A
+NECESSIDADES INADIÁVEIS DA COMUNIDADE QUE, SE
+NÃO ATENDIDAS, COLOQUEM "EM PERIGO IMINENTE A
+SOBREVIVÊNCIA, A SAÚDE OU A SEGURANÇA DA
+POPULAÇÃO" (LEI No 7.783/1989, PARÁGRAFO ÚNICO,
+ART. 11). 5.1. Pendência do julgamento de mérito da ADI no
+3.395/DF, Rel. Min. Cezar Peluso, na qual se discute a
+competência constitucional para a apreciação das "ações
+oriundas da relação de trabalho, abrangidos os entes de direito
+público externo e da administração pública direta e indireta da
+União, dos Estados, do Distrito Federal e dos Municípios" (CF,
+art. 114, I, na redação conferida pela EC no 45/2004). 5.2. Diante
+da singularidade do debate constitucional do direito de greve
+dos servidores públicos civis, sob pena de injustificada e
+inadmissível negativa de prestação jurisdicional nos âmbitos
+federal, estadual e municipal, devem-se fixar também os
+parâmetros institucionais e constitucionais de definição de
+competência, provisória e ampliativa, para a apreciação de
+dissídios de greve instaurados entre o Poder Público e os
+servidores públicos civis. 5.3. No plano procedimental, afigurase recomendável aplicar ao caso concreto a disciplina da Lei no
+7.701/1988 (que versa sobre especialização das turmas dos
+Tribunais do Trabalho em processos coletivos), no que tange à
+competência para apreciar e julgar eventuais conflitos judiciais
+referentes à greve de servidores públicos que sejam suscitados
+até o momento de colmatação legislativa específica da lacuna
+ora declarada, nos termos do inciso VII do art. 37 da CF. 5.4. A
+adequação e a necessidade da definição dessas questões de
+organização e procedimento dizem respeito a elementos de
+fixação de competência constitucional de modo a assegurar, a
+um só tempo, a possibilidade e, sobretudo, os limites ao
+exercício do direito constitucional de greve dos servidores
+públicos, e a continuidade na prestação dos serviços públicos.
+Ao adotar essa medida, este Tribunal passa a assegurar o direito
+de greve constitucionalmente garantido no art. 37, VII, da
+Constituição Federal, sem desconsiderar a garantia da
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780398.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 11 de 14
+
+RE 848912 AGR / ES
+continuidade de prestação de serviços públicos - um elemento
+fundamental para a preservação do interesse público em áreas
+que são extremamente demandadas pela sociedade. 6.
+DEFINIÇÃO DOS PARÂMETROS DE COMPETÊNCIA
+CONSTITUCIONAL PARA APRECIAÇÃO DO TEMA NO
+ÂMBITO DA JUSTIÇA FEDERAL E DA JUSTIÇA ESTADUAL
+ATÉ
+A
+EDIÇÃO
+DA
+LEGISLAÇÃO
+ESPECÍFICA
+PERTINENTE, NOS TERMOS DO ART. 37, VII, DA CF.
+FIXAÇÃO DO PRAZO DE 60 (SESSENTA) DIAS PARA QUE O
+CONGRESSO NACIONAL LEGISLE SOBRE A MATÉRIA.
+MANDADO DE INJUNÇÃO DEFERIDO PARA DETERMINAR
+A APLICAÇÃO DAS LEIS Nos 7.701/1988 E 7.783/1989. 6.1.
+Aplicabilidade aos servidores públicos civis da Lei no
+7.783/1989, sem prejuízo de que, diante do caso concreto e
+mediante solicitação de entidade ou órgão legítimo, seja
+facultado ao juízo competente a fixação de regime de greve
+mais severo, em razão de tratarem de "serviços ou atividades
+essenciais" (Lei no 7.783/1989, arts. 9o a 11). 6.2. Nessa extensão
+do deferimento do mandado de injunção, aplicação da Lei no
+7.701/1988, no que tange à competência para apreciar e julgar
+eventuais conflitos judiciais referentes à greve de servidores
+públicos que sejam suscitados até o momento de colmatação
+legislativa específica da lacuna ora declarada, nos termos do
+inciso VII do art. 37 da CF. 6.3. Até a devida disciplina
+legislativa, devem-se definir as situações provisórias de
+competência constitucional para a apreciação desses dissídios
+no contexto nacional, regional, estadual e municipal. Assim, nas
+condições acima especificadas, se a paralisação for de âmbito
+nacional, ou abranger mais de uma região da justiça federal, ou
+ainda, compreender mais de uma unidade da federação, a
+competência para o dissídio de greve será do Superior Tribunal
+de Justiça (por aplicação analógica do art. 2o, I, "a", da Lei no
+7.701/1988). Ainda no âmbito federal, se a controvérsia estiver
+adstrita a uma única região da justiça federal, a competência
+será dos Tribunais Regionais Federais (aplicação analógica do
+art. 6o da Lei no 7.701/1988). Para o caso da jurisdição no
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780398.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 12 de 14
+
+RE 848912 AGR / ES
+contexto estadual ou municipal, se a controvérsia estiver
+adstrita a uma unidade da federação, a competência será do
+respectivo Tribunal de Justiça (também por aplicação analógica
+do art. 6o da Lei no 7.701/1988). As greves de âmbito local ou
+municipal serão dirimidas pelo Tribunal de Justiça ou Tribunal
+Regional Federal com jurisdição sobre o local da paralisação,
+conforme se trate de greve de servidores municipais, estaduais
+ou federais. 6.4. Considerados os parâmetros acima delineados,
+a par da competência para o dissídio de greve em si, no qual se
+discuta a abusividade, ou não, da greve, os referidos tribunais,
+nos âmbitos de sua jurisdição, serão competentes para decidir
+acerca do mérito do pagamento, ou não, dos dias de paralisação
+em consonância com a excepcionalidade de que esse juízo se
+reveste. Nesse contexto, nos termos do art. 7o da Lei no
+7.783/1989, a deflagração da greve, em princípio, corresponde à
+suspensão do contrato de trabalho. Como regra geral, portanto,
+os salários dos dias de paralisação não deverão ser pagos, salvo
+no caso em que a greve tenha sido provocada justamente por
+atraso no pagamento aos servidores públicos civis, ou por
+outras situações excepcionais que justifiquem o afastamento da
+premissa da suspensão do contrato de trabalho (art. 7o da Lei
+no 7.783/1989, in fine). 6.5. Os tribunais mencionados também
+serão competentes para apreciar e julgar medidas cautelares
+eventualmente incidentes relacionadas ao exercício do direito
+de greve dos servidores públicos civis, tais como: i) aquelas nas
+quais se postule a preservação do objeto da querela judicial,
+qual seja, o percentual mínimo de servidores públicos que deve
+continuar trabalhando durante o movimento paredista, ou
+mesmo a proibição de qualquer tipo de paralisação; ii) os
+interditos possessórios para a desocupação de dependências
+dos órgãos públicos eventualmente tomados por grevistas; e iii)
+as demais medidas cautelares que apresentem conexão direta
+com o dissídio coletivo de greve. 6.6. Em razão da evolução
+jurisprudencial sobre o tema da interpretação da omissão
+legislativa do direito de greve dos servidores públicos civis e
+em respeito aos ditames de segurança jurídica, fixa-se o prazo
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780398.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 13 de 14
+
+RE 848912 AGR / ES
+de 60 (sessenta) dias para que o Congresso Nacional legisle
+sobre a matéria. 6.7. Mandado de injunção conhecido e, no
+mérito, deferido para, nos termos acima especificados,
+determinar a aplicação das Leis nos 7.701/1988 e 7.783/1989 aos
+conflitos e às ações judiciais que envolvam a interpretação do
+direito de greve dos servidores públicos civis.” (MI 708,
+Relator(a): Min. GILMAR MENDES, Tribunal Pleno, julgado
+em 25/10/2007, DJe-206 DIVULG 30-10-2008 PUBLIC 31-10-2008
+EMENT VOL-02339-02 PP-00207 RTJ VOL-00207-02 PP-00471)
+Nesse sentir, não merece seguimento o recurso
+extraordinário, consoante também se denota dos fundamentos
+da decisão que desafiou o recurso, aos quais me reporto e cuja
+detida análise conduz à conclusão pela ausência de ofensa
+direta e literal a preceito da Constituição da República.
+Nego seguimento ao recurso extraordinário (CPC, art. 557,
+caput).”
+
+Irrepreensível a decisão agravada.
+Constato, ademais, que o Tribunal de origem, na hipótese em apreço,
+se lastreou na prova produzida para firmar seu convencimento, razão
+pela qual aferir a ocorrência de eventual afronta aos preceitos
+constitucionais invocados no apelo extremo exigiria o revolvimento do
+quadro fático delineado, procedimento vedado em sede extraordinária.
+Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe
+recurso extraordinário.”
+As razões do agravo regimental não são aptas a infirmar os
+fundamentos que lastrearam a decisão agravada, mormente no que se
+refere à ausência de ofensa direta e literal a preceito da Constituição da
+República.
+Agravo regimental conhecido e não provido.
+É como voto.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780398.
+
+Supremo Tribunal Federal
+Extrato de Ata - 10/02/2015
+
+Inteiro Teor do Acórdão - Página 14 de 14
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 848.912
+PROCED. : ESPÍRITO SANTO
+RELATORA : MIN. ROSA WEBER
+AGTE.(S) : UNAFISCO SINDICAL - SINDICATO NACIONAL DOS AUDITORESFISCAIS DA RECEITA FEDERAL
+ADV.(A/S) : ELAINE NOGUEIRA DA SILVA E OUTRO(A/S)
+AGDO.(A/S) : UNIÃO
+PROC.(A/S)(ES) : ADVOGADO-GERAL DA UNIÃO
+Decisão: A Turma negou provimento ao agravo regimental, nos
+termos
+do
+voto
+da
+Relatora.
+Unânime.
+Não
+participou,
+justificadamente, deste julgamento, o Senhor Ministro Dias
+Toffoli. Presidência da Senhora Ministra Rosa Weber. 1ª Turma,
+10.2.2015.
+
+Presidência da Senhora Ministra Rosa Weber. Presentes à Sessão
+os Senhores Ministros Marco Aurélio, Dias Toffoli, Luiz Fux e
+Roberto Barroso.
+Subprocuradora-Geral
+Marques.
+
+da
+
+República,
+
+Dra.
+
+Cláudia
+
+Sampaio
+
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 7894731
