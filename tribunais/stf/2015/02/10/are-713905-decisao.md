@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. AÇÃO DE COBRANÇA. MUNICÍPIO DE BALNEÁRIO CAMBORIÚ - SC. TAXA DE LIMPEZA PÚBLICA. SERVIÇOS INESPECÍFICOS E INDIVISÍVEIS. INVIABILIDADE DA COBRANÇA. REPERCUSSÃO GERAL RECONHECIDA NO RE 576.321, TEMA Nº 146. CONFIRMAÇÃO DA JURISPRUDÊNCIA DESTA CORTE. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO, DO DEVIDO PROCESSO LEGAL E À COISA JULGADA. AUSÊNCIA DE REPERCUSSÃO GERAL FIRMADA PELO PLENÁRIO DO STF NO ARE 748.371-RG, TEMA Nº 660. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos (fl. 81 do Doc. 03), interposto por CONEVILLE SERVIÇOS E CONSTRUÇÕES LTDA. e AMBIENTAL SANEAMENTO E CONCESSÕES LTDA., com fundamento no artigo 544 do Código de Processo Civil, visando a reforma da decisão que não admitiu seu recurso extraordinário (fl. 25 do Doc. 03), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (fl. 167 do Doc. 02) cuja ementa tem o seguinte teor:
+    “CONSTITUCIONAL - ADMINSTRATIVO - AÇÃO DE COBRANÇA, POR CONCESSIONÁRIA, DE TARIFAS PELA PRESTAÇÃO DE SERVIÇOS DE ENGENHARIA SANITÁRIA (‘COLETA E TRANSPORTE DE RESÍDUOS DOMICILIARES, LIMPEZA DE VIAS URBANAS E LOGRADOUROS PÚBLICOS, ETC.’) - IMPOSIÇÃO DE MULTA DE MORA - RECURSO PARCIALMENTE PROVIDO.
+    Por não atender os pressupostos de especificidade e de divisibilidade (CR, art. 145, II), ao município é vedado exigir o pagamento de tarifa pela prestações de serviços de limpeza pública - capinação, varrição, limpeza de bocas-de-lobo e pintura de meio-fio e outros similares (1ª CDP, AC n. 2007.004374-0, Des. Sérgio Roberto Baasch Luz; 2ª CDP, AC n. 2010.067577-4, Des. Cid Goulart; 3ª CDP, AC n. 2008.067620-5, Des. Luiz Cézar Medeiros; 4ª CDP, AC n. 2011.016294-0, Des. Jaime Ramos).”
+    Opostos embargos de declaração, foram rejeitados (fl. 193 do Doc. 02).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta ofensa ao disposto nos artigos 5º, XXXVI, LIV e LV, 30, V, 37, XXI, 145, II, e 175 da Constituição Federal. Alega a nulidade do acórdão dos embargos de declaração por fundamentação insuficiente; ofensa à coisa julgada, porque não foi observada a declaração de constitucionalidade exarada pelo Tribunal de Justiça do Estado em relação às normas locais que instituíram a cobrança; e a validade da exação referente aos serviços gerais de limpeza pública.
+    O recurso teve o seguimento obstado por não se vislumbrar divergência com a orientação jurisprudencial do STF (fl. 55 do Doc. 03).
+    O Superior Tribunal de Justiça negou provimento ao agravo em recurso especial (fl. 106 do Doc. 03).
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    O Tribunal de origem não divergiu da jurisprudência firmada pelo Supremo Tribunal Federal que, ao examinar a questão de ordem suscitada no RE 576.321, Rel. Min. Ricardo Lewandowski, DJe de 13/2/2009, Tema nº 146, reconheceu a repercussão geral da matéria e reafirmou o entendimento no sentido de que a taxa de limpeza pública, porque serviço de caráter universal e indivisível, é inconstitucional. O acórdão recebeu a seguinte ementa:
+    “CONSTITUCIONAL. DIREITO TRIBUTÁRIO. TAXA. SERVIÇOS DE LIMPEZA PÚBLICA. DISTINÇÃO. ELEMENTOS DA BASE DE CÁLCULO PRÓPRIA DE IMPOSTOS. AUSÊNCIA DE IDENTIDADE. ART. 145, II E § 2º, DA CONSTITUIÇÃO.
+    I - QUESTÃO DE ORDEM. MATÉRIAS DE MÉRITO PACIFICADAS NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE OS MESMOS TEMAS. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 256.588-ED-EDV/RJ, MIN. ELLEN GRACIE; RE 232.393/SP, CARLOS VELLOSO.
+    II JULGAMENTO DE MÉRITO CONFORME PRECEDENTES.
+    III RECURSO PROVIDO.”
+    Ademais, os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE 748.371, Rel. Min. Gilmar Mendes, Tema nº 660, conforme se pode destacar da ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
