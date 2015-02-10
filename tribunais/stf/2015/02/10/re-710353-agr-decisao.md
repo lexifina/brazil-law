@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo regimental cujo objeto é decisão monocrática do Ministro Joaquim Barbosa, relator originário do feito, que deu provimento ao recurso extraordinário, pelos seguintes fundamentos (fls. 263/264):
+    “Trata-se de recurso extraordinário contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que, reconhecendo a legitimidade postulatória do Ministério Público para o ajuizamento de ação civil pública, deferiu o pedido nela contido, a fim de garantir direito individual à saúde.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 127 e 129, III, da Constituição. Argumenta que o Ministério Público é parte ilegítima para defender direitos individuais e, portanto, torna-se impossível a propositura de ação civil pública para a defesa de tais direitos.
+    O recurso não pode ser provido, tendo em vista que o entendimento do Tribunal de origem está alinhado com a jurisprudência do Supremo Tribunal Federal no sentido da legitimidade do Ministério Público para a defesa do direito individual à saúde. Nessa linha, veja-se a ementa do AI 759.543-AgR, julgado sob a relatoria do Ministro Celso de Mello:
+    ‘AMPLIAÇÃO E MELHORIA NO ATENDIMENTO À POPULAÇÃO NO HOSPITAL MUNICIPAL SOUZA AGUIAR – DEVER ESTATAL DE ASSISTÊNCIA À SAÚDE RESULTANTE DE NORMA CONSTITUCIONAL – OBRIGAÇÃO JURÍDICO-CONSTITUCIONAL QUE SE IMPÕE AOS MUNICÍPIOS (CF, ART. 30, VII) – CONFIGURAÇÃO, NO CASO, DE TÍPICA HIPÓTESE DE OMISSÃO INCONSTITUCIONAL IMPUTÁVEL AO MUNICÍPIO DO RIO DE JANEIRO/RJ – DESRESPEITO À CONSTITUIÇÃO PROVOCADO POR INÉRCIA ESTATAL (RTJ 183/818-819) – COMPORTAMENTO QUE TRANSGRIDE A AUTORIDADE DA LEI FUNDAMENTAL DA REPÚBLICA (RTJ 185/794-796) – (…) AÇÃO CIVIL PÚBLICA: INSTRUMENTO PROCESSUAL ADEQUADO À PROTEÇÃO JURISDICIONAL DE DIREITOS REVESTIDOS DE METAINDIVIDUALIDADE – LEGITIMAÇÃO ATIVA DO MINISTÉRIO PÚBLICO (CF, ART. 129, III) – A FUNÇÃO INSTITUCIONAL DO MINISTÉRIO PÚBLICO COMO “DEFENSOR DO POVO” (CF, ART. 129, II) – DOUTRINA – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO.’
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.”
+    A parte agravante alega que “o tema em debate - legitimidade do Ministério Público para ajuizar ação civil pública na defesa de direito individual à saúde – constitui objeto do RE 605.533/MG, Relator o e. Min. Marco Aurélio, no qual foi reconhecida a repercussão geral da matéria” (fls. 270).
+    Reconsidero a decisão de fls. 263/264.
+    O Supremo Tribunal Federal reconheceu a repercussão geral da questão relativa à legitimidade do Ministério Público para ajuizar ação civil pública na defesa de direito individual (RE 605.533- RG, sob a relatoria do Ministro Marco Aurélio – Tema 262).
+    Diante do exposto, determino a devolução dos autos ao Tribunal de origem, para os fins do art. 543-B do CPC. Julgo prejudicado o agravo regimental.
+    Publique-se.
+          Brasília, 10 de dezembro de 2014.
+Ministro Luís Roberto Barroso
+Relator
