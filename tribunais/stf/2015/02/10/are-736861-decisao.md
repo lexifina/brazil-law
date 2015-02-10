@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIOS À PENHORA. ORDEM DE PREFERÊNCIA ESTABELECIDA NA LEGISLAÇÃO PROCESSUAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 703.595-RG. TEMA Nº 658. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. TEMA DIVERSO DA QUESTÃO CONSTITUCIONAL QUE SERÁ ANALISADA NO RE 566.349-RG. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por ALUMBRA PRODUTOS ELÉTRICOS E ELETRÔNICOS LTDA com o objetivo de ver reformada a decisão que inadmitiu seu recurso extraordinário, manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão assim ementado:
+    “PROCESSUAL. EXECUÇÃO FISCAL. PENHORA DE CRÉDITO DECORRENTE DE PRECATÓRIO. PREFERÊNCIA DO CREDOR. RECUSA JUSTIFICADA QUANDO EXISTIREM OUTROS BENS PENHORÁVEIS. GRADAÇÃO. POSSIBILIDADE.
+    1. Na espécie em análise, a recorrente defende o direito de nomear os créditos de precatórios adquiridos por meio de cessão, tendo em vista que todos os requisitos formais para sua perfectibilização foram respeitados, e, consoante a jurisprudência, a penhora sobre crédito de precatórios é plenamente aceita.
+    2. O crédito relativo a precatório judiciário é penhorável, mesmo que a entidade dele devedora não seja a própria exequente, todavia equivale à penhora de crédito, e não de dinheiro. A fazenda Pública não é obrigada a aceitar bens nomeados à penhora fora da ordem legal insculpida no art. 11 da Lei nº 6.830/80, pois o princípio da menor onerosidade do devedor, preceituado no art. 620 do CPC, tem de estar em equilíbrio com a satisfação do credor. Precedente: EREsp 1.116.070/ES, Rel. Ministro Humberto Martins. Primeira Seção, julgado em 24/10/2010, Dje 16/11/2010.
+    3. Incide , no caso, o entendimento consolidado na Súmula 406/STJ: ‘A Fazenda Pública pode recusar a substituição do bem penhorado por precatório’ que se aplica não apenas aos casos de pedidos de substituição de penhora, como também às situações de recusa à primeira nomeação. Nesse sentido: AgRg no REsp 1.173.225/PR, 1ª T., Min. Luiz Fux, DJe 03/08/2010; AgRg nos EDcl nos EDcl no REsp 1.140.218/SP, 1ª T., Min. Benedito Gonçalves, DJe 11/05/2010; REsp 1.190.907/ES, 2ª T., Min. Castro Meira, Dje 28/06/2010; e AgRg no REsp 1.172.244/PR, 2ª T., Min. Eliana Calmon, DJe 22/06/2010.
+    4. Agravo regimental não provido” (pág. 90 do documento eletrônico 7).
+    Opostos embargos de declaração, foram rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao art. 100, §§ 9º, 10, 13 e 14 da Constituição Federal, ao art. 78, § 2º, do ADCT e às ECs 30/2000 e 62/2009, sob o argumento de que ofende o direito constitucional existente a proibição de garantir o débito tributário com precatórios vencidos, uma vez que estes foram equiparados a dinheiro, sendo legítima sua cessão.
+    O recorrente afirma, ainda, que a matéria teve repercussão geral reconhecida no RE 566.349-RG, Rel. Min. Cármen Lúcia.
+    É o Relatório. DECIDO.
+    Não merece provimento o agravo.
+    A penhora de precatórios, quando sub judice a controvérsia sobre a ordem de preferência estabelecida pela legislação processual, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 703.595-RG, da Relatoria do Min. Ricardo Lewandowski, DJe de 12/6/2013, que possui a seguinte ementa:
+    “REPERCUSSÃO GERAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO À PENHORA. ORDEM LEGAL DE PREFERÊNCIA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. “
+    Por fim, ressalte-se que o tema tratado no acórdão recorrido (ordem de preferência de bens penhoráveis) é diverso da questão constitucional que será objeto de análise por esta Corte, em feito submetido à repercussão geral, nos autos do RE 566.349-RG, Rel. Min. Cármen Lúcia, que versa sobre a aplicabilidade imediata do art. 78, § 2º, do ADCT e à possibilidade de se compensar precatórios de natureza alimentar com débitos tributários.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
