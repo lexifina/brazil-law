@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “GUARDA MUNICIPAL. Recurso interposto com o objetivo de reformar a sentença do Juízo a quo que julgou improcedente o pedido anulatório do ato administrativo que eliminou a recorrente do certame em razão do limite de idade. Exigência do Edital que, muito embora se mostre compatível com a função a ser exercida, não possui embasamento legal. Precedentes jurisprudenciais do TJRJ. Conhecimento e provimento do recurso.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 3º, IV; 5º, caput; 7º, XXX e 37, caput, I e II, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário com base na Súmula 286/STF.
+    O recurso não deve ser provido, tendo em vista que o acórdão recorrido se alinha à jurisprudência do Supremo Tribunal Federal.
+    De início, observa-se que os arts. 3º e 5º da Constituição, tidos por violados, não foram apreciados pelo Tribunal de origem. Tampouco foram opostos embargos declaratórios para sanar referida omissão, de modo que, nesse ponto, o recurso carece de prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    Ademais, o acórdão recorrido está alinhado ao entendimento do Supremo Tribunal Federal de que é possível a imposição de limite de idade para inscrição em concurso público, desde que haja anterior previsão legal e a exigência seja razoável diante das atribuições do cargo público. No julgamento do RE 678.112-RG, sob a relatoria do Ministro Luiz Fux, foi reconhecida a repercussão geral da matéria e reafirmada a jurisprudência no sentido de que “o estabelecimento de limite de idade para inscrição em concurso público apenas é legítimo quando justificado pela natureza das atribuições do cargo a ser preenchido”. Veja-se, ainda, a ementa do RE 473.593-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Concurso público. Bombeiro militar. Limite de idade. Ausência de previsão em lei. Negativa de prestação jurisdicional. Não ocorrência. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Precedentes.
+    1. A jurisprudência desta Corte firmou entendimento no sentido de que o limite de idade para inscrição em concurso público só se legitima quando previsto em lei e quando possa ser justificado pela natureza das atribuições do cargo a ser preenchido.
+    2. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente fundamentada.
+    3. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República.
+    4. Agravo regimental não provido.”
+    O Tribunal de origem assentou não haver a indispensável previsão em lei dos limites de idade mínimo e máximo para ingresso na carreira. Entendimento diverso exigiria a verificação da legislação infraconstitucional aplicável ao caso, bem como a análise do edital, providências que encontram óbice nas Súmulas 280 e 454/STF. Nesse sentido, confiram-se as seguintes ementas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. IMPOSSIBILIDADE DE FIXAÇÃO DE IDADE MÍNIMA PARA O INGRESSO NO SERVIÇO PÚBLICO POR MEIO DE NORMA INFRALEGAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 667.309-AgR , Rel.ª Min.ª Cármen Lúcia, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. Impossibilidade de análise de cláusulas de edital e de legislação infraconstitucional. Ofensa constitucional indireta. Agravo regimental ao qual se nega provimento.” (ARE 719.073-AgR , Rel.ª Min.ª Cármen Lúcia, Segunda Turma)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
