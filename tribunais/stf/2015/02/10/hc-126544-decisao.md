@@ -1,0 +1,17 @@
+Decisão:
+Ementa: Habeas corpus impetrado contra decisão denegatória de liminar. Incidência da Súmula 691/STF. Prisão preventiva. Excesso de prazo da instrução criminal. Inexistência de contrariedade à jurisprudência do Supremo Tribunal Federal. Habeas corpus a que se nega seguimento.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida no HC 313.038, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante delito no dia 07.09.2014, pela prática, em tese, de crimes de roubo. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a liminar, sobreveio a impetração de HC no Superior Tribunal de Justiça, cuja cautelar foi igualmente indeferida.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a manutenção da custódia cautelar, bem como o excesso de prazo para a conclusão da instrução criminal. Requer, assim, a revogação da prisão processual.
+    Decido.
+    5. Inicialmente ressalto que o Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    6. A hipótese de que se trata não autoriza a superação do entendimento consolidado na Súmula 691/STF. Em primeiro lugar, porque as decisões das instâncias precedentes não são teratológicas. Em segundo lugar, porque o Tribunal de Justiça de São Paulo e o Superior Tribunal de Justiça ainda não se pronunciaram sobre o mérito da pretensão do impetrante, de modo que considero inviável proceder-se a uma dupla supressão de instância.
+    7. Ademais, colhe-se dos autos que a prisão processual foi mantida em razão da gravidade em concreto dos crimes, “praticados em curto espaço de tempo e mediante o emprego de violência” e, também, “a fim de evitar reiteração criminosa”, não sendo o caso, portanto, de flagrante ilegalidade ou abuso de poder. Notadamente se se considerar que o Supremo Tribunal Federal tem precedentes no sentido de que a gravidade concreta do crime e a fundada probabilidade de reiteração delitiva constituem fundamentação idônea para a decretação da prisão preventiva (Cf. HC 122.370, Rel. Min. Luiz Fux, DJe de 11.09.14; RHC 122.647-AgR, de minha Relatoria, DJe de 15.09.14; RHC 121.399, Rel. Min. Dias Toffoli, DJe de 1º.08.14).
+    8. Além disso, a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo), sendo inviável, na ausência de dados objetivos que evidenciem a desídia do Juízo de origem, o acolhimento do pedido de supressão de instância.
+    9. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
