@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que assentara a competência da Justiça comum para julgar ações que envolvem servidores públicos regidos pela Consolidação das Leis do Trabalho, mas contratados com base em legislação estadual de caráter estatutário.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 114, I, da Constituição. Defende a competência da Justiça do Trabalho para processar e julgar o presente feito.
+    O recurso extraordinário deve ser provido, tendo em conta que o acórdão recorrido não está alinhado à jurisprudência do Supremo Tribunal Federal.
+    O Supremo Tribunal Federal, ao referendar a liminar concedida pelo Ministro Nelson Jobim na ADI 3.395, afastou qualquer interpretação do art. 114, I, da Constituição, incluído pela EC 45/2004, que reputasse à Justiça do Trabalho competência para o julgamento das causas instauradas entre o Poder Público e seus servidores vinculados por relação jurídico-administrativa. Por outro lado, estando o servidor contratado pelo regime da Consolidação das Leis do Trabalho, a competência para solucionar as lides é da Justiça Trabalhista. Veja-se a ementa da ADI 3.395-MC:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária.”
+    No mesmo sentido: RE 234.715, Rel. Min. Ilmar Galvão.
+    Diante do exposto, com base no art. 544, § 4º, II, c, do CPC, conheço do agravo e dou provimento ao recurso extraordinário, reformando o acórdão recorrido, a fim reconhecer a competência da Justiça do Trabalho com relação aos recorridos cujo contrato com o recorrente fora firmado com fundamento na CLT.
+    Publique-se.
+          Brasília, 10 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
