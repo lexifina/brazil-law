@@ -1,0 +1,452 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 11
+
+10/02/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 824.377 RIO DE
+JANEIRO
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+
+: MIN. ROSA WEBER
+: ESTADO DO RIO DE JANEIRO
+: PROCURADOR-GERAL DO ESTADO DO RIO DE
+JANEIRO
+: MARIA CRISTINA GUIMARÃES DA SILVA
+: JORGE ÁLVARO DA SILVA BRAGA JÚNIOR
+: RUDI MEIRA CASSEL E OUTRO(A/S)
+EMENTA
+
+DIREITO
+ADMINISTRATIVO.
+SERVIDOR
+PÚBLICO.
+POSSIBILIDADE DE EXTENSÃO DE REAJUSTE COM NATUREZA DE
+REVISÃO GERAL. CONSONÂNCIA DA DECISÃO RECORRIDA COM
+A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL
+FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE
+TRÂNSITO.
+REELABORAÇÃO
+DA
+MOLDURA
+FÁTICA.
+PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA.
+ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2013.
+O entendimento adotado pela Corte de origem, nos moldes do que
+assinalado na decisão agravada, não diverge da jurisprudência firmada
+no âmbito deste Supremo Tribunal Federal. Entender de modo diverso
+demandaria a reelaboração da moldura fática delineada no acórdão de
+origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível,
+portanto, de viabilizar o conhecimento do recurso extraordinário.
+As razões do agravo regimental não se mostram aptas a infirmar os
+fundamentos que lastrearam a decisão agravada.
+Agravo regimental conhecido e não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Primeira Turma, sob a Presidência da
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780268.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 11
+
+ARE 824377 AGR / RJ
+Senhora Ministra Rosa Weber, na conformidade da ata de julgamento e
+das notas taquigráficas, por unanimidade de votos, em negar provimento
+ao agravo regimental, nos termos do voto da Relatora. Não participou,
+justificadamente, deste julgamento o Senhor Ministro Dias Toffoli.
+Brasília, 10 de fevereiro de 2015.
+
+Ministra Rosa Weber
+Relatora
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780268.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 11
+
+10/02/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 824.377 RIO DE
+JANEIRO
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+
+: MIN. ROSA WEBER
+: ESTADO DO RIO DE JANEIRO
+: PROCURADOR-GERAL DO ESTADO DO RIO DE
+JANEIRO
+: MARIA CRISTINA GUIMARÃES DA SILVA
+: JORGE ÁLVARO DA SILVA BRAGA JÚNIOR
+: RUDI MEIRA CASSEL E OUTRO(A/S)
+RELATÓRIO
+
+A Senhora Ministra Rosa Weber (Relatora): Contra a decisão por
+mim proferida, pela qual negado seguimento ao recurso, maneja agravo
+regimental o Estado do Rio de Janeiro.
+Insurge-se contra a decisão agravada, ao argumento de que a
+violação dos preceitos da Constituição Federal se dá de forma direta.
+Insiste na afronta aos arts. 2º, 5º, XXXVI, 37, X, 167, e 169, § 1º, I e II, da
+Constituição Federal.
+Acórdão recorrido publicado em 19.12.2013.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780269.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 4 de 11
+
+10/02/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 824.377 RIO DE
+JANEIRO
+VOTO
+A Senhora Ministra Rosa Weber (Relatora): Preenchidos os
+pressupostos genéricos, conheço do agravo regimental e passo ao exame
+do mérito.
+Nada colhe o agravo.
+Conforme consignado, o entendimento adotado no acórdão
+recorrido não diverge da jurisprudência firmada no âmbito deste
+Supremo Tribunal Federal, razão pela qual não há falar em afronta aos
+preceitos constitucionais invocados no recurso, a teor da decisão que
+desafiou o agravo, verbis:
+“Vistos etc.
+Contra o juízo negativo de admissibilidade do recurso
+extraordinário, exarado pela Presidência do Tribunal a quo, foi
+manejado agravo. Na minuta, sustenta-se que o recurso
+extraordinário reúne todos os requisitos para sua admissão.
+Aparelhado o recurso na afronta aos arts. 2º, 5º, XXXVI, 37, X,
+167, e 169, § 1º, I e II, da Constituição Federal.
+É o relatório.
+Decido.
+Preenchidos os pressupostos extrínsecos.
+Da detida análise dos fundamentos da decisão
+denegatória de seguimento do recurso extraordinário, bem
+como à luz das razões de decidir adotadas pelo Tribunal de
+origem, por ocasião do julgamento do recurso veiculado na
+instância ordinária, concluo que nada colhe o agravo.
+O exame de eventual ofensa aos preceitos constitucionais
+indicados nas razões recursais, consagradores dos princípios da
+proteção ao direito adquirido, ao ato jurídico perfeito e à coisa
+julgada (art. 5º da Lei Maior), demanda, em primeiro plano, a
+interpretação das normas infraconstitucionais aplicáveis à
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780270.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 5 de 11
+
+ARE 824377 AGR / RJ
+espécie, de tal modo que, se afronta ocorresse, seria indireta, o
+que não atende à exigência do art. 102, III, “a”, da Lei Maior,
+nos termos da remansosa jurisprudência deste egrégio Supremo
+Tribunal Federal, in verbis:
+"RECURSO. Extraordinário. Inadmissibilidade. Alegação
+de ofensa ao art. 5º, XXII, XXIII, XXIV, LIV e LV, da Constituição
+Federal. Violações dependentes de reexame prévio de normas
+inferiores. Ofensa constitucional indireta. Matéria fática.
+Súmula 279. Agravo regimental não provido. É pacífica a
+jurisprudência desta Corte, no sentido de não tolerar, em
+recurso extraordinário, alegação de ofensa que, irradiando-se
+de má interpretação, aplicação, ou, até, inobservância de
+normas infraconstitucionais, seria apenas indireta à
+Constituição da República, e, muito menos, de reexame de
+provas" (STF-AI-AgR-495.880/SP, Relator Ministro Cezar Peluso,
+1ª Turma, DJ 05.8.2005).
+"Recurso extraordinário: descabimento: acórdão recorrido,
+do Tribunal Superior do Trabalho, que decidiu a questão à luz
+de legislação infraconstitucional: alegada violação ao texto
+constitucional que, se ocorresse, seria reflexa ou indireta;
+ausência de negativa de prestação jurisdicional ou de defesa aos
+princípios compreendidos nos arts. 5º, II, XXXV, LIV e LV e 93,
+IX, da Constituição Federal." (STF-AI-AgR-436.911/SE, Relator
+Ministro Sepúlveda Pertence, 1ª Turma, DJ 17.6.2005)
+"CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO:
+ALEGAÇÃO DE OFENSA À C.F., art. 5º, II, XXXV, XXXVI, LIV
+e LV. I. - Ao Judiciário cabe, no conflito de interesses, fazer valer
+a vontade concreta da lei, interpretando-a. Se, em tal operação,
+interpreta razoavelmente ou desarrazoadamente a lei, a questão
+fica no campo da legalidade, inocorrendo o contencioso
+constitucional. II. - Decisão contrária ao interesse da parte não
+configura negativa de prestação jurisdicional (C.F., art. 5º,
+XXXV). III. - A verificação, no caso concreto, da existência, ou
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780270.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 6 de 11
+
+ARE 824377 AGR / RJ
+não,
+do
+direito
+adquirido,
+situa-se
+no
+campo
+infraconstitucional. IV. - Alegação de ofensa ao devido processo
+legal: C.F., art. 5º, LIV e LV: se ofensa tivesse havido, seria ela
+indireta, reflexa, dado que a ofensa direta seria a normas
+processuais. E a ofensa a preceito constitucional que autoriza a
+admissão do recurso extraordinário é a ofensa direta, frontal. V.
+- Agravo não provido" (STF-RE-AgR-154.158/SP, Relator
+Ministro Carlos Velloso, 2ª Turma, DJ 20.9.2002).
+"TRABALHISTA. ACÓRDÃO QUE NÃO ADMITIU
+RECURSO DE REVISTA, INTERPOSTO PARA AFASTAR
+PENHORA SOBRE BENS ALIENADOS FIDUCIARIAMENTE
+EM GARANTIA DE FINANCIAMENTO POR MEIO DE
+CÉDULA DE CRÉDITO À EXPORTAÇÃO. DECRETO-LEI
+413/69 E LEI 4.728/65. ALEGADA AFRONTA AO ART. 5º, II,
+XXII, XXXV E XXXVI, DA CONSTITUIÇÃO FEDERAL.
+Questão insuscetível de ser apreciada senão por via da
+legislação infraconstitucional que fundamentou o acórdão,
+procedimento inviável em sede de recurso extraordinário, onde
+não cabe a aferição de ofensa reflexa e indireta à Carta Magna.
+Recurso não conhecido" (STF-RE-153.781/DF, Relator Ministro
+Ilmar Galvão, 1ª Turma, DJ 02.02.2001).
+Não há falar em afronta aos preceitos constitucionais
+indicados nas razões recursais, porquanto, no caso, a suposta
+ofensa somente poderia ser constatada a partir da análise da
+legislação infraconstitucional local apontada no apelo extremo,
+o que torna oblíqua e reflexa eventual ofensa, insuscetível,
+portanto, de viabilizar o conhecimento do recurso
+extraordinário.
+Dessarte, desatendida a exigência do art. 102, III, “a”, da
+Lei Maior, nos termos da remansosa jurisprudência deste
+egrégio Supremo Tribunal Federal. Aplicação da Súmula
+280/STF: “Por ofensa a direito local não cabe recurso
+extraordinário”. Colho precedente:
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780270.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 7 de 11
+
+ARE 824377 AGR / RJ
+“ADMINISTRATIVO. AGRAVO REGIMENTAL NO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ESTADO DO
+RIO DE JANEIRO. REAJUSTE CONCEDIDO PELA LEI
+ESTADUAL 1.206/87. EXTENSÃO AOS SERVIDORES DO
+PODER JUDICIÁRIO. POSSIBILIDADE. NATUREZA DE
+REVISÃO GERAL. INAPLICABILIDADE DA SÚMULA
+339/STF. PRECEDENTES. ANÁLISE DE LEI LOCAL.
+INVIABILIDADE. SÚMULA 280/STF. 1. Analisando questão
+análoga à dos autos, o Plenário do STF, no julgamento do RMS
+22.307, Rel. Min. MARCO AURÉLIO, DJ de 13/6/1997, decidiu
+afastar a aplicação da Súmula 339/STF para estender aos
+servidores públicos civis o reajuste de 28,86% concedido pelas
+Leis 8.622/93 e 8.627/93 aos militares. 2. Encontra-se em
+conformidade com a jurisprudência desta Corte o entendimento
+do Tribunal de origem, que decidiu estender aos servidores
+públicos do Poder Judiciário o reajuste concedido pela Lei
+Estadual 1.206/87, por entender que possui caráter geral e
+finalidade de recompor as perdas decorrentes da inflação. 3.
+Agravo regimental a que se nega provimento” (ARE 810.579AgR/RJ, Rel. Min. Teori Zavascki, 2ª Turma, DJe 10.12.2014).
+O Tribunal de origem, na hipótese em apreço, lastreou-se
+na prova produzida para firmar seu convencimento, razão pela
+qual aferir a ocorrência de eventual afronta aos preceitos
+constitucionais invocados no apelo extremo exigiria o
+revolvimento do quadro fático delineado, procedimento
+vedado em sede extraordinária. Aplicação da Súmula 279/STF:
+“Para simples reexame de prova não cabe recurso
+extraordinário.”
+Quanto à alegada violação do art. 2º da Lei Fundamental,
+o Supremo Tribunal Federal entende que o exame da legalidade
+dos atos administrativos pelo Poder Judiciário não viola o
+princípio da separação de Poderes. Nesse sentido, cito o RE
+417.408-AgR/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 26.4.2012;
+e o ARE 655.080-AgR/DF, Rel. Min. Gilmar Mendes, 2ª Turma,
+DJe 09.9.2012, assim ementado:
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780270.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 8 de 11
+
+ARE 824377 AGR / RJ
+
+"Agravo regimental em recurso extraordinário com
+agravo. 2. Direito Administrativo. 3. Concurso público. 4.
+Controle judicial dos atos administrativos quando eivados de
+ilegalidade ou abuso de poder. Possibilidade. Ausência de
+violação ao Princípio da separação de Poderes. Precedentes do
+STF. 5. Discussão acerca da existência de ilegalidade e quanto à
+apreciação do preenchimento dos requisitos legais, pela
+agravada, para investidura no cargo público de magistério
+estadual. Necessário reexame do conjunto fático-probatório da
+legislação infraconstitucional e do edital que rege o certame.
+Providências vedadas pelas súmulas 279, 280 e 454.
+Precedentes. 6. Ausência de argumentos capazes de infirmar a
+decisão agravada. 7. Agravo regimental a que se nega
+provimento."
+Nesse sentir, não merece processamento o apelo extremo,
+consoante também se denota dos fundamentos da decisão que
+desafiou o recurso, aos quais me reporto e cuja detida análise
+conduz à conclusão pela ausência de ofensa direta e literal a
+preceito da Constituição da República.
+Nego seguimento (art. 21, § 1º, do RISTF).”
+
+Irrepreensível a decisão agravada.
+A suposta ofensa aos postulados constitucionais invocados no apelo
+extremo somente poderia ser constatada a partir da análise da legislação
+infraconstitucional local, o que torna oblíqua e reflexa eventual ofensa,
+insuscetível, portanto, de viabilizar o conhecimento do recurso
+extraordinário.
+Nesse sentir, o exame de eventual ofensa aos preceitos
+constitucionais indicados nas razões recursais, consagradores dos
+princípios da legalidade, da proteção ao direito adquirido, ao ato jurídico
+perfeito e à coisa julgada, bem como ao devido processo legal, ao
+contraditório e à ampla defesa (art. 5º da Lei Maior), demanda, em
+primeiro plano, a interpretação das normas infraconstitucionais
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780270.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 9 de 11
+
+ARE 824377 AGR / RJ
+aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta,
+o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos
+da remansosa jurisprudência deste egrégio Supremo Tribunal Federal
+(STF-AI-AgR-495.880/SP, Relator Ministro Cezar Peluso, 1ª Turma, DJ
+05.8.2005; STF-AI-AgR-436.911/SE, Relator Ministro Sepúlveda Pertence,
+1ª Turma, DJ 17.6.2005; STF-RE-AgR-154.158/SP, Relator Ministro Carlos
+Velloso, 2ª Turma, DJ 20.9.2002 e STF-RE-153.781/DF, Relator Ministro
+Ilmar Galvão, 1ª Turma, DJ 02.02.2001).
+Constato, ademais, que o Tribunal de origem, na hipótese em apreço,
+se lastreou na prova produzida para firmar seu convencimento, razão
+pela qual aferir a ocorrência de eventual afronta aos preceitos
+constitucionais invocados no apelo extremo exigiria o revolvimento do
+quadro fático delineado, procedimento vedado em sede extraordinária.
+Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe
+recurso extraordinário.”
+Inexistente, por seu turno, a alegada violação do art. 2º da Lei
+Fundamental, entendendo o Supremo Tribunal Federal que o exame da
+legalidade dos atos administrativos pelo Poder Judiciário não viola o
+princípio da separação de Poderes. Nesse sentido: RE 634.900-AgR/PI,
+Rel. Min. Dias Toffoli, 1ª Turma, DJe 22.5.2013; e ARE 757.716-AgR/BA,
+Rel. Min. Celso de Mello, 2ª Turma, DJe 07.10.2013, assim ementado:
+"RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº
+12.322/2010) – CONTROLE DE LEGALIDADE DOS ATOS
+ADMINISTRATIVOS PELO PODER JUDICIÁRIO – ANÁLISE
+DOS REQUISITOS LEGAIS DO ATO PRATICADO –
+POSSIBILIDADE – AUSÊNCIA DE VIOLAÇÃO AO
+PRINCÍPIO DA SEPARAÇÃO DOS PODERES – REEXAME DE
+FATOS E PROVAS, EM SEDE RECURSAL EXTRAORDINÁRIA
+– INADMISSIBILIDADE – RECURSO DE AGRAVO
+IMPROVIDO”
+
+As razões do agravo regimental não são aptas a infirmar os
+fundamentos que lastrearam a decisão agravada, mormente no que se
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780270.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 10 de 11
+
+ARE 824377 AGR / RJ
+refere à ausência de ofensa direta e literal a preceito da Constituição da
+República.
+Agravo regimental conhecido e não provido.
+É como voto.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 7780270.
+
+Supremo Tribunal Federal
+Extrato de Ata - 10/02/2015
+
+Inteiro Teor do Acórdão - Página 11 de 11
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 824.377
+PROCED. : RIO DE JANEIRO
+RELATORA : MIN. ROSA WEBER
+AGTE.(S) : ESTADO DO RIO DE JANEIRO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DO RIO DE JANEIRO
+AGDO.(A/S) : MARIA CRISTINA GUIMARÃES DA SILVA
+ADV.(A/S) : JORGE ÁLVARO DA SILVA BRAGA JÚNIOR
+ADV.(A/S) : RUDI MEIRA CASSEL E OUTRO(A/S)
+Decisão: A Turma negou provimento ao agravo regimental, nos
+termos
+do
+voto
+da
+Relatora.
+Unânime.
+Não
+participou,
+justificadamente, deste julgamento, o Senhor Ministro Dias
+Toffoli. Presidência da Senhora Ministra Rosa Weber. 1ª Turma,
+10.2.2015.
+
+Presidência da Senhora Ministra Rosa Weber. Presentes à Sessão
+os Senhores Ministros Marco Aurélio, Dias Toffoli, Luiz Fux e
+Roberto Barroso.
+Subprocuradora-Geral
+Marques.
+
+da
+
+República,
+
+Dra.
+
+Cláudia
+
+Sampaio
+
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 7894635
