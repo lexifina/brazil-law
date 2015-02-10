@@ -1,0 +1,11 @@
+Trata-se de agravo regimental em pedido de suspensão de liminar formulado pelo Município de Herval D´Oeste contra decisão do Tribunal de Justiça de Santa Catarina proferida na Ação Direta de Inconstitucionalidade 2014.016582-8, que suspendeu os efeitos da lei complementar 312/2013, cujo objeto era a atualização da planta de valores do IPTU municipal.
+    Em 4/4/2014 foi proferida decisão monocrática, pelo então Presidente desta Corte, Min. Joaquim Barbosa, negando seguimento à contracautela, tendo o Município interposto agravo regimental.
+    É o relatório. Decido.
+    Com efeito, os autos vieram conclusos com a petição protocolada pelo Município de Herval D’Oeste (documento eletrônico 52), no qual noticia a improcedência da Ação Direta de Inconstitucionalidade e a cassação da liminar objeto da presente suspensão, cuja ementa transcrevo, por oportuno:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI COMPLEMENTAR MUNICIPAL N. 312/2013, DO MUNICÍPIO DE HERVAL D'OESTE. ALTERAÇÃO DA PLANTA DE VALORES DO IPTU. PRELIMINARES. LEGITIMIDADE ATIVA. ASSOCIAÇÃO DE MORADORES. ART. 85, VII, DA CE. REQUISITO DA PERTINÊNCIA TEMÁTICA ATENDIDO. CAUTELAR DEFERIDA DE FORMA MONOCRÁTICA. POSSIBILIDADE. LEI ESTADUAL N. 12.069/2001. ATO REGIMENTAL N. 69/2005-TJ. POSSIBILIDADE DE JULGAMENTO DO MÉRITO. LEI QUE TRATA DE MATÉRIA QUE NÃO EXIGE A PARTICIPAÇÃO POPULAR DIRETA NO PROCESSO LEGISLATIVO. INEXISTÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA CAPACIDADE CONTRIBUTIVA E DA VEDAÇÃO DO CONFISCO. CE, ART. 125, § 2º. CE, ART. 128, IV. REAJUSTE DO VALOR VENAL DOS IMÓVEIS FUNDAMENTADO EM ESTUDO TÉCNICO. AUSÊNCIA DE OFENSA DIRETA AOS DISPOSITIVOS DA CONSTITUIÇÃO ESTADUAL. IMPOSSIBILIDADE DE CONTROLE PELA VIA ABSTRATA. PRECEDENTES. PEDIDO IMPROCEDENTE. LIMINAR CASSADA”
+    Constato, assim, a perda do objeto da contracautela, razão pela qual resta prejudicada a análise do agravo regimental interposto.
+    Isso posto, julgo prejudicado o agravo regimental interposto na suspensão de liminar, bem como julgo prejudicado o presente pedido de suspensão de liminar, por perda superveniente de objeto (RI/STF, art. 21, IX).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2015
+Ministro Ricardo Lewandowski
+Presidente
