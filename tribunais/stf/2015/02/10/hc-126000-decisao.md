@@ -1,0 +1,18 @@
+Decisão:
+Ementa: Habeas corpus impetrado de decisão que indeferiu cautelar em idêntica via processual. Descabimento. Súmula 691/STF. Alegações de demora no julgamento de writ impetrado no Superior Tribunal de Justiça e de excesso de prazo no julgamento do recurso em sentido estrito da defesa. Habeas corpus não conhecido.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra ato do Relator do HC 287.232, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi pronunciado pela prática dos crimes previstos no artigo 121, § 2º, I e IV, c/c o artigo 29, e no artigo 288, caput, do Código Penal.
+    3. Dessa decisão, a defesa interpôs recurso em sentido estrito no Tribunal de Justiça do Estado do Ceará, pendente de julgamento.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Ministro Gilson Dipp, no exercício da presidência daquele Tribunal, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante sustenta a demora na apreciação do mérito da impetração formalizada perante o Superior Tribunal de Justiça, bem como o excesso de prazo para o julgamento do recurso em sentido estrito da defesa. Requer, ao final, a revogação da prisão preventiva do paciente ou mesmo a substituição da custódia por outra medida cautelar diversa da prisão.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. Ambas as Turmas deste Supremo Tribunal Federal têm precedentes admitindo, em determinadas hipóteses, a possibilidade de se caracterizar a ocorrência de constrangimento ilegal pela demora excessiva no julgamento de habeas corpus pelos tribunais de origem. Tal possibilidade fica reforçada pela explicitação, feita pela Emenda Constitucional nº 45/2004, do direito fundamental à razoável duração do processo. Nesse sentido, a título de exemplo, destaco o HC 110.367, julgado sob a relatoria da Ministra Cármen Lúcia.
+    8. No caso dos autos, contudo, verifica-se que o HC 287.232, foi autuado no Superior Tribunal de Justiça em 24.01.2014. Em 27.01.14, o Ministro Gilson Dipp, no exercício da Presidência daquele Tribunal, indeferiu a medida cautelar e, desde 19.12.2014, os autos foram conclusos ao relator com o parecer da Procuradoria-Geral da República. Nessas condições, não há como acolher a tese de injustificada demora na prestação jurisdicional.
+    9. Ademais, no tocante à alegação de excesso de prazo para o julgamento do recurso em sentido estrito da defesa, a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo), sendo inviável, na ausência de dados objetivos que evidenciem a desídia do Tribunal de origem, o acolhimento do pedido de dupla supressão de instância.
+    10. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
