@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPI. MAJORAÇÃO DE ALÍQUOTAS POR MEIO DE ATO DO PODER EXECUTIVO. DECRETO Nº 6.707/2008. SUBMISSÃO À REGRA DA ANTERIORIDADE NONAGESIMAL. PRECEDENTES. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos interposto pela União, com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “TRIBUTÁRIO. MAJORAÇÃO DO IPI. PRINCÍPIO DA NOVENTENA E PRINCÍPIO DA ANTERIORIDADE.
+    1. A questão debatida nesta ação mandamental diz respeito à cobrança do IPI majorado na forma determinada pelo Decreto n° 6707/08, dentro dos 90 dias a contar da publicação, em obediência ao princípio da anterioridade assegurada pelo art. 150, III, `c´, da CF.
+    2. Com a entrada em vigor da Emenda Constitucional 42/03, o princípio da noventena garante que as modificações no IPI, em especial as relativas às suas alíquotas, somente serão aplicadas após 90 (noventa) dias da publicação do respectivo decreto.
+    3. As exceções trazidas pelo art. 150, § 1º, da Constituição Federal, colocam o IPI excepcionado quanto ao princípio da anterioridade, mas mantendo-se quanto ao princípio da noventena.
+    4. Recurso provido, para declarar a inexigibilidade dos valores decorrentes da majoração das alíquotas de IPI, durante o prazo nonagesimal do Decreto n° 6707/08.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 150, III, c, da Constituição Federal. Alega que a alteração das alíquotas do IPI por meio de ato do Poder Executivo não estaria sujeita à regra da anterioridade nonagesimal.
+    O Tribunal de origem inadmitiu o recurso extraordinário por entender que o acórdão recorrido está em consonância com a jurisprudência desta Corte.
+    É o relatório. DECIDO.
+    O agravo não merece provimento.
+    O Imposto sobre Produtos Industrializados – IPI, a teor da parte inicial do artigo 150, § 1º, da Constituição Federal, não tem de observar a anterioridade clássica, prevista no art. 150, III, b, da Constituição Federal, em razão da marcante finalidade extrafiscal do tributo, intrinsecamente dependente da rapidez na alteração das regras tributárias. Contudo, este mesmo imposto se submete à regra instituída pela Emenda Constitucional nº 42/2003 no artigo 150, III, c, que veda a cobrança de tributos “antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea b”, de vez que não mencionado o IPI nas exceções que a parte final do artigo 150, § 1º, da Constituição Federal prevê em relação à referida garantia.
+    Ademais, muito embora a Constituição Federal aluda apenas à “lei” no artigo 150, III, c, o vocábulo deve ser necessariamente interpretado como “lei em sentido material”, isto é, como qualquer ato dotado de generalidade e abstração que seja constitucionalmente autorizado a instituir ou aumentar tributos, no que se inclui, evidentemente, também o ato do Poder Executivo fundado no artigo 153, § 1º, da Constituição Federal. Nesse sentido: ADI 4661-MC, Rel. Min. Marco Aurélio, Plenário, DJe de 23/3/2012, cuja ementa possui o seguinte teor:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – DECRETO – ADEQUAÇÃO. Surgindo do decreto normatividade abstrata e autônoma, tem-se a adequação do controle concentrado de constitucionalidade.
+    TRIBUTO – IPI – ALÍQUOTA – MAJORAÇÃO – EXIGIBILIDADE. A majoração da alíquota do IPI, passível de ocorrer mediante ato do Poder Executivo – artigo 153, § 1º –, submete-se ao princípio da anterioridade nonagesimal previsto no artigo 150, inciso III, alínea ‘c’, da Constituição Federal.
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE – IPI – MAJORAÇÃO DA ALÍQUOTA – PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL – LIMINAR – RELEVÂNCIA E RISCO CONFIGURADOS. Mostra-se relevante pedido de concessão de medida acauteladora objetivando afastar a exigibilidade da majoração do Imposto sobre Produtos Industrializados, promovida mediante decreto, antes de decorridos os noventa dias previstos no artigo 150, inciso III, alínea “c”, da Carta da República.”
+    No mesmo sentido, RE 775.909, Rel. Min. Gilmar Mendes, DJe de 21/2/2014; RE 614.417, Rel. Min. Marco Aurélio, DJe de 23/4/2013; RE 671.927, Rel. Min. Ayres Britto, DJe de 3/4/2012; e RE 601.518, Rel. Min. Cármen Lúcia, DJe de 8/3/2012.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
