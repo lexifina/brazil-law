@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão de negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, de cuja ementa se extraem os seguintes trechos (fls. 358):
+    “ADMINISTRATIVO. SERVIDOR. PENSIONISTA DE POLICIAL CIVIL DO EXTINTO TERRITÓRIO DO ACRE. EXTENSÃO DA GRATIFICAÇÃO DE OPERAÇÕES ESPECIAIS-GOE E DAS GRATIFICAÇÕES DE QUE TRATA O ART. 4º DA LEI N. 9.266/96. ISONOMIA. LEI N. 7.548/86. POSSIBILIDADE. PRESCRIÇÃO DAS PARCELAS VENCIDAS. PERÍODO. MP 2009/1999. MP 305/2006. LEI 11.358/2006.
+    1. Os pagamentos administrativos representam ato inequívoco de reconhecimento do direito do autor e interrompem a prescrição, a teor do disposto no art. 202, VI, do Código Civil.
+    2. O Superior Tribunal de Justiça consolidou entendimento de que a partir da edição da Lei nº 7.548/86, a remuneração dos policiais civis dos extintos Territórios passou a ser regulada subsidiariamente pelas leis federais que tratam dos integrantes da Carreira Policial Federal, sendo-lhes assegurada a percepção das mesmas vantagens, inclusive da Gratificação de Operações Especiais, criada pelo Decreto-lei 1.704/79, e das Gratificações previstas no art. 4º, da lei n. 9.266/96. Precedentes do STJ. (REsp 950.969/AC; REsp 235.430/AL; MS 11.950/DF).
+    3. O pagamento da GOE no período que vai de agosto de 1999 até novembro de 1999 não é devido ao autor, uma vez que foi expressamente revogada em 7 de fevereiro de 1996 pela Lei n° 9.264/96 (art.14), reintroduzida no mundo jurídico, no que diz respeito aos policiais federais, a partir de 1° de dezembro de 1999, com a vigência da MP n° 2009/1999 e paga até a edição da MP n° 305/2006, posteriormente convertida na Lei n° 11.358/2006, que a extinguiu.
+    […]
+    8. Apelação a que se dá parcial provimento para, reformando a sentença, julgar parcialmente procedente o pedido de pagamento das parcelas relativas às gratificações de que trata o art. 4º, da lei n. 9.266/96, no período de julho/1998 a março/2001, bem como da Gratificação de Operações Especiais, no período de dezembro/1999 a abril/2001.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, XIII; e 169, § 1º, I, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que eventual violação ao texto constitucional somente ocorreria de maneira indireta ou reflexa.
+    O recurso extraordinário é inadmissível. Nota-se que as supostas ofensas ao texto constitucional não foram apreciadas pelo acórdão impugnado. Tampouco foram suscitadas nos embargos de declaração opostos, a fim de sanar eventual omissão. O recurso extraordinário carece, portanto, de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, para dissentir da conclusão do Tribunal de origem acerca do direito do servidor ao recebimento da gratificação de operações especiais, seria necessária a análise da legislação infraconstitucional pertinente (Leis nºs 7.548/1986, 9.266/1996 e 11.358/2006; Decreto-Lei 1.704/1979; e Medidas Provisórias nºs 2009/1999 e 305/2006), hipótese vedada neste momento processual.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
