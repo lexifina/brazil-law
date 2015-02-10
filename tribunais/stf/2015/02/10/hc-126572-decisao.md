@@ -1,0 +1,20 @@
+Decisão:
+Ementa: Habeas corpus. Análise de pressupostos de admissibilidade de recurso interposto perante Tribunal Superior. Inexistência de contrariedade à jurisprudência do Supremo Tribunal Federal. Habeas corpus a que se nega seguimento
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Sebastião Reis Júnior, assim ementado:
+    “PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. REGIME DE CUMPRIMENTO. AUSÊNCIA DE DECISÃO DE ÚLTIMA INSTÂNCIA. ART. 105, III, DA CF. NÃO ESGOTAMENTO DAS VIAS ORDINÁRIAS. CABIMENTO DE EMBARGOS INFRINGENTES. ART. 609, PARÁGRAFO ÚNICO, DO CPP. SÚMULA 207/STJ. ALEGAÇÃO DE SER FACULTATIVO. OBRIGATÓRIO, SE CABÍVEL, PARA A INTERPOSIÇÃO DO RECURSO ESPECIAL. RECONHECIMENTO FOTOGRÁFICO. OUTROS MEIOS DE PROVA. SÚMULA 83/STJ. PEDIDO DE ABSOLVIÇÃO. SÚMULA 7/STJ. FUNDAMENTOS NÃO ATACADOS. SÚMULA 182/STJ.
+    1. Razão não assiste ao recorrente quanto à alegação de ser uma faculdade a oposição dos embargos infringentes. Como mencionado, poderia ser, se ele não tivesse a pretensão de ingressar na Corte Superior, onde é exigido o esgotamento da instância ordinária.
+    2. Embargos de declaração rejeitados.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, pelo crime previsto no artigo 157, § 2º, incisos I e II, do Código Penal.
+    3. O Tribunal de Justiça do Estado de São Paulo negou provimento à apelação da defesa e deu parcial provimento ao apelo do Ministério Público para fixar o regime inicial fechado.
+    4. Do acórdão estadual, a defesa interpôs recurso especial, inadmitido na origem. Ato contínuo, interpôs agravo. O Relator do AResp 542.432, Ministro Sebastião Reis Júnior, negou provimento ao recurso. Em seguida, foi interposto agravo regimental, não provido e, após, foram opostos embargos de declaração, rejeitados.
+    5. Neste habeas corpus, a parte impetrante sustenta a impossibilidade de se condicionar o conhecimento do recurso especial à prévia oposição de embargos infringentes contra o acórdão não unânime da Corte Estadual. Requer, assim, seja determinado ao Superior Tribunal de Justiça que aprecie o mérito do recurso especial interposto pela defesa.
+    Decido.
+    6. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante Tribunal Superior (vg. HC 111.324, de que fui Redator para o acórdão, Dje de 13.11.14; HC 109.156, Rel. Min. Dias Toffoli, Dje de 15.04.13; HC 115.357-AgR, Rel. Min. Dias Toffoli, Dje de 17.06.13).
+    7. Ademais, este Supremo Tribunal Federal já decidiu que, “nos termos do art. 609, parágrafo único, do Código de Processo Penal, são cabíveis embargos infringentes e de nulidade contra acórdão proferido por maioria de votos, em julgamento de recurso de apelação, quando o voto vencido for favorável à defesa. A não interposição dos referidos embargos implica não esgotamento das instâncias recursais ordinárias e traz como consequência a inadmissibilidade dos recursos extraordinário e especial, que têm como pressuposto, consoante os arts. 102, III, e 105, III, da Constituição Federal, a existência de causa decidida em única ou última instância ordinária” (ARE 764.611-AgR, Rel. Min. Ricardo Lewandowski, DJe de 17.12.13).
+    8. Por fim, observo que a petição inicial do habeas corpus não foi instruída com cópia da sentença, do acórdão do Tribunal Estadual e de peças que permitam analisar a existência de fundamentação idônea para a imposição de regime inicial mais gravoso, não sendo possível avançar, portanto, sobre eventual possibilidade da concessão da ordem de ofício.
+    9. Diante do exposto, com fundamento no artigo 38 da Lei 8.038/90 e no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
