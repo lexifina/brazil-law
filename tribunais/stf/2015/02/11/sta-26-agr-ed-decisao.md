@@ -1,0 +1,29 @@
+SUSPENSÃO DE TUTELA ANTECIPADA. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL. EXISTÊNCIA DE COMPOSIÇÃO EXTRAJUDICIAL ENTRE AS PARTES NA AÇÃO PRINCIPAL. DESITÊNCIA HOMOLOGADA. PERDA SUPERVENIENTE DO OBJETO DESTA SUSPENSÃO. AÇÃO QUE RESTA PREJUDICADA.
+    Decisão: Trata-se de embargos de declaração no agravo regimental em Suspensão de Tutela Antecipada opostos pelo Estado de Pernambuco, em processo no qual litiga com o Município de Petrolina, em face de acórdão proferido pelo Plenário deste Tribunal, o qual foi assim ementado:
+    “AGRAVO REGIMENTAL NA SUSPENSÃO DE TUTELA ANTECIPADA. DISCUSSÃO MERAMENTE REFLEXA OU ARGUMENTATIVA. INTERPRETAÇÃO DE CLÁUSULAS DE TERMO DE RESCISÃO AMIGÁVEL. SÚMULA 454. INCOMPETÊNCIA DO STF PARA CONHECER DO PEDIDO DE SUSPENSÃO. AUSÊNCIA DE GRAVE LESÃO À ORDEM E À SAÚDE PÚBLICAS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 279. EMPRESA QUE ATUA COMO AGENTE ECONÔMICO PRIVADO, EMBORA CONTROLADA POR ESTADO MEMBRO. INAPLICABILIDADE DO DISPOSTO NO ART. 1º, § 3º, DA LEI N. 8.437/92 E NO ART. 1º DA LEI N. 9.494/97.
+    1. A discussão em torno de mera interpretação de cláusulas contratuais, não induz a competência do Supremo Tribunal Federal para apreciar pedido de suspensão de tutela antecipada [Súmula n. 454].
+    2. O exame das alegações de grave lesão à ordem ou à saúde públicas seria possível somente se o Tribunal fosse competente para julgamento da suspensão de segurança e não poderia ultrapassar os elementos constantes dos autos, com o reexame das provas produzidas, ante a vedação contida na Súmula n. 279.
+    3. Os arts. 1º, § 3º, da Lei n. 8.437/92, e 1º da Lei n. 9.494/97 não se aplicam quando a pessoa jurídica de direito privado, ainda que controlada por Estado-membro, atua não como expressão de poder público, mas como agente econômico privado interessado em preservar o privilégio que vinha explorando.
+    4. O serviço público não pode ser retido pelo concessionário em benefício da satisfação do interesse privado.
+    5. Agravo conhecido e provido para anular a decisão que suspendeu os efeitos da tutela antecipada.”
+    Antes de analisar o mérito do recurso, ante à longa passagem de tempo desde sua oposição, determinei que fosse o Estado de Pernambuco intimado para manifestar se ainda persistia seu interesse no julgamento dos embargos de declaração.
+    Em resposta, foi apresentada a petição de fls. 1.396-1.405.
+    Observo, ainda, que, em 2/12/2014, intimei o Município de Petrolina para que se manifestasse sobre a Petição do Estado de Pernambuco, após o que foi apresentada a Petição STF nº 60.048/2014, apresentada via fac-símile, posteriormente confirmada pela Petição STF nº 60.689/2014, versão original, na qual se postulava a dilação do prazo para manifestação.
+    Pelo Despacho de fls. 1.414, de 15/12/2014, deferi o pedido do Município “para prorrogar o prazo concedido para manifestação do Município de Petrolina (fls. 1.408) pelo prazo improrrogável de 5 (cinco) dias”. Publicado o despacho em 2/2/2014, não houve, desde então, manifestação do Município, pelo que os autos me vieram conclusos em 11/2/2015. Preclusa, portanto, a oportunidade de manifestação.
+    É o relatório. Decido.
+    A presente ação surgiu do deferimento parcial de tutela antecipada em ação proposta em primeira instância pelo Município de Petrolina em face do Estado de Pernambuco e da Companhia Pernambucana de Saneamento – COMPESA, feito que formou os autos do processo nº 0022228-79.2004.8.17.0001, originariamente em trâmite perante a Segunda Vara da Fazenda Pública de Pernambuco.
+    Entretanto, tal como afirma o Estado em sua petição de fls. 1.396/1.405, houve composição extrajudicial entre as partes no processo principal de origem, pela qual o contrato de concessão para exploração de serviços de abastecimento de água e esgotamento sanitário foram prorrogados até 2037. Em razão de tal acordo, o Município de Petrolina apresentou, nos autos principais, pedido de desistência da ação, com o qual os requeridos concordaram, conforme se depreende dos documentos acostados aos autos.
+    Tal desistência foi, por fim, homologada pelo Juízo de origem, por meio de sentença proferida em 18/09/2009, cuja cópia está também juntada aos autos. Vê-se, portanto, que o Estado de Pernambuco manifestou seu desinteresse no julgamento do recurso, sugerindo ele mesmo que se reconheça a prejudicialidade da presente ação.
+    Em casos semelhantes, quando o objeto da Suspensão se perde supervenientemente, este Tribunal tem entendido pela prejudicialidade da ação de suspensão. Cito, a propósito, a SL 653-MC-AgR, rel. Min. Presidente (Min. Joaquim Barbosa), DJe de 11/3/2013:
+    “Com as petições registradas como Docs. 33, 40 e 41 o TJ/AP informa que “o Senhor Governador do Estado já repassou ao recorrente o valor da parcela que faltava no duodécimo orçamentário de novembro/2012”.
+    Aberta vista dos autos ao estado-requerente, o Estado do Amapá diz concordar com a perda de objeto desta suspensão de segurança, “caso tenha sido homologado o pedido de desistência do Mandado de Segurança” (Doc. 36).
+    É o relatório.
+    Decido.
+    Esta suspensão de segurança perdeu supervenientemente seu objeto, seja porque o requerente praticara um ato incompatível com a cautela pleiteada, seja porque o mandado de segurança em que deferida a liminar suspensa foi extinto após homologação de pedido de desistência.
+    Ante o exposto, julgo prejudicada esta suspensão de segurança (art. 21, IX do RISTF). Consequentemente, fica cassada a medida liminar outrora deferida.”
+    Ex positis, em razão da perda superveniente do objeto desta Suspensão, julgo extinto o presente processo, nos termos do artigo 21, IX, do Regimento Interno do STF, combinado com o art. 267, VI, do CPC, restando prejudicados os embargos.
+    Publique-se. Int..
+    Brasília, 11 de fevereiro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
