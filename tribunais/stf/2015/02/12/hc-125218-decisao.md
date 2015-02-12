@@ -1,0 +1,40 @@
+Despacho: BRUNO SELIGMAN DE MENEZES, impetra habeas corpus em favor de JOSÉ ANTÔNIO FERNANDES, FERDINANDO FRANCISCO FERNANDES e FERNANDO FERNANDES, contra ato da Terceira Seção do SUPERIOR TRIBUNAL DE JUSTIÇA que julgou improcedente a Reclamação nº. 18.001.
+    Narrou que os pacientes foram denunciados pelo Ministério Público Federal, juntamente com mais quarenta pessoas, nos autos da ação penal nº. 2007.71.02.007872-8/RS, que ficou conhecida como Operação Rodin, distribuída à 3ª Vara Federal da Subseção Judiciária de Santa Maria.
+    Em 25.3.2014, o Superior Tribunal de Justiça, em decisão monocrática da Ministra Laurita Vaz, concedeu ordem de habeas corpus, nos autos do Habeas Corpus 234.857/RS, impetrado pela defesa de Denise Nachtigall Luz, para considerar ilícita prova obtida pelo Ministério Público Federal junto à Receita Federal do Brasil, por se tratarem de dados fiscais protegidos por sigilo, determinando fossem desentranhados dos autos.
+    Relatou que, em primeira instância, os autos estavam conclusos para sentença nessa oportunidade. As defesas postularam prazo para falar da contaminação de outras provas. O juiz deferiu o prazo de cinco dias para que as defesas falassem sobre a contaminação de outras provas, relegando a análise da contaminação à sentença.
+    Propôs a Reclamação nº. 18.001, perante o Superior Tribunal de Justiça, relatora Ministra Laurita Vaz, julgada improcedente em 27.8.2014, com voto vencido da Ministra Maria Thereza de Assis Moura. O julgado recebeu a seguinte ementa:
+    “RECLAMAÇÃO. OPERAÇÃO RODIN. DOCUMENTOS FISCAIS SIGILOSOS REQUISITADOS PELO MINISTÉRIO PÚBLICO DIRETAMENTE AO FISCO. ILICITUDE RECONHECIDA, POR ESTA CORTE SUPERIOR, NO JULGAMENTO DO HABEAS CORPUS N.º 234.857. ALEGAÇÃO DE DESCUMPRIMENTO DA DECISÃO. INOCORRÊNCIA.
+    DESENTRANHAMENTO DAS PROVAS PRONTAMENTE DETERMINADA PELO JUÍZO PROCESSANTE. RECLAMAÇÃO JULGADA IMPROCEDENTE.
+    1. O Juízo Federal da 3.ª Vara Federal da Subseção Judiciária de Santa Maria, em estrito cumprimento à decisão proferida no habeas corpus n.º 234.857, determinou o imediato desentranhamento dos documentos considerados ilícitos por esta Corte Superior.
+    2. Infundada a alegação de que o Magistrado teria se furtado a examinar a contaminação de outras provas, pois explicitamente deixou a referida análise para o momento da sentença de mérito. Registre-se que houve, inclusive, a cautela de intimar as partes para que apontassem os documentos eventualmente atingidos pela declaração de nulidade, ocasião em que os causídicos tiveram a oportunidade de exercer de forma efetiva os princípios da ampla defesa e do contraditório.
+    3. Reclamação julgada improcedente.
+    (Rcl 18.001/RS, Rel. Ministra Laurita Vaz, Terceira Seção, julgado em 27/08/2014, DJe 06/11/2014)”
+    Sobreveio sentença condenatória. O julgador não considerou nenhuma prova contaminada.
+    Atualmente, pende o julgamento dos recursos de apelação, junto ao Egrégio Tribunal Regional Federal da 4ª Região, distribuídos à Desembargadora Federal Cláudia Cristina Cristofani, da 7ª Turma.
+    Sustentou que a prova excluída contaminou outras, na medida em que usada como fundamento para as demais medidas investigativas. Acrescentou que a decisão não poderia ter relegado à sentença a análise da contaminação de outras provas, na medida em que a instrução foi realizada com base nas provas constantes dos autos.
+    Pediu provimento judicial que desconstitua a sentença prolatada e “determine ao juízo de primeiro grau que decida sobre as provas apontadas pelas defesas e, evidenciada a contaminação, sejam desentranhadas dos autos, para que, somente após, seja julgado o mérito do processo”. Requereu medida liminar para suspender o trâmite da ação penal.
+    Decido.
+    Cuida-se de habeas corpus que objetiva cassar sentença que condenou os pacientes, ao argumento de que o juiz a quo teria deixado de delimitar as contaminações causadas por provas ilegais, que não foram retiradas do processo.
+    Inicialmente, mister consignar que contra a sentença condenatória, foi interposto recurso de apelação que, conforme consta no sítio eletrônico do TRF4, está pendente para apreciação.
+    Nessa perspectiva, a constatação de eventuais contaminações causadas por provas supostamente ilegais, embora não tenha sido acolhida pelo juízo primevo, deve ser submetida ao Tribunal de segundo grau, órgão possuidor de legítima competência para revisar o mérito da lide.
+    Indo além, verifico que, em 25.3.2014, o Superior Tribunal de Justiça, em decisão monocrática da Ministra Laurita Vaz, concedeu ordem de habeas corpus, nos autos do HC 234.857, impetrado pela defesa de Denise Nachtigall Luz, para considerar ilícita prova obtida pelo Ministério Público Federal junto à Receita Federal do Brasil – relatório que contém as Declarações de Imposto de Renda Retido na Fonte (DIRF's) entregues pela FATEC desde 2002 – por se tratar de dados protegidos por sigilo fiscal, determinando o desentranhamento dos autos.
+    Nessa ocasião, os autos da ação penal estavam conclusos para sentença.
+    As defesas postularam prazo para falar da contaminação de outras provas. O juiz deferiu o prazo de cinco dias para que as defesas falassem sobre a contaminação de outras provas, relegando a análise da contaminação à sentença.
+    O juiz determinou o desentranhamento das provas e o retorno dos autos para julgamento (eDOC 2, p. 30).
+    Em seguida, proferiu a seguinte decisão:
+    "Não obstante este juízo mantenha a convicção de que a discussão invocada pela defesa, reiterada nas petições das fls. 61.443/61.448 e 61.61.599, não é nova, é fato que alguns denunciados acabaram não se manifestando, in oportuno tempore, acerca de eventual contaminação, por derivação, de provas eventualmente decorrentes dos elementos de convicção que, agora, segundo a recente decisão do e. STJ, aportaram aos autos de maneira indevida. Por essa perspectiva, e também não olvidando a preocupação, sempre presente em matéria penal, acerca de possível nulidade por afronta ao princípio da ampla defesa, hei por bem acolher, em parte, os pedidos dos réus para conceder, no prazo comum de cinco dias, a oportunidade de indicarem ao juízo, na sua convicção, quais os elementos probatórios que entendem atingidos por conta da indigitada quebra do sigilo fiscal, viabilizando, em sentença, um melhor exame da matéria. Intimem-se."
+    Daí se infere que o debate acerca da ilicitude dos documentos fiscais, e da irradiação de efeitos dessa ilicitude para outras provas, não era novo, tendo sido levantado e debatido pelas defesas.
+    Ainda assim, o julgador conferiu prazo para que a questão fosse aprofundada, oportunizando a manifestação das defesas por cinco dias.
+    Desse contexto extraio que a tese da contaminação de provas não era uma questão nova. Os documentos fiscais aportaram aos autos por ocasião da investigação criminal. Eventual ilicitude dessa prova, e consequente contaminação de outras provas dela derivadas era uma situação posta, que poderia e deveria ter sido debatido pelas defesas desde o início da ação penal. Em outras palavras, a questão da contaminação das provas eventualmente derivadas dos documentos fiscais não surgiu com a concessão da ordem no Habeas Corpus 234.857 pelo Superior Tribunal de Justiça.
+    Assim, espaço para debate acerca da contaminação de outras provas houve. Se houvesse interesse, as defesas poderiam ter, inclusive, produzido provas, durante a instrução processual, sobre esse ponto específico.
+    Mesmo assim, o julgador oportunizou prazo para que as defesas aprofundassem o debate.
+    Por fim, segundo relata a parte, a sentença analisou a questão da contaminação de outras provas, deixando de reconhecer ulteriores ilicitudes.
+    Assim, não vislumbro relevância no fundamento da impetração.
+    Ante o exposto, indefiro a medida liminar.
+    Dispenso as informações pela autoridade impetrada.
+    Intime-se o Procurador-Geral da República para parecer.
+    Publique-se.
+    Brasília, 12 de fevereiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
