@@ -1,0 +1,11 @@
+Despacho: BRUNO DINIZ ANTONINI postulou ingresso no feito como terceiro interessado na defesa da ordem jurídica. Sustentou que o Ministério Público não foi regularmente intimado da presente ação. Pugnou pela desconstituição do julgamento e levantamento do sigilo processual (eDOC 102). Voltou a pedir a desconstituição do julgamento e intimação do Procurador-Geral da República (eDOC 107).
+    Em regra, não se admite intervenção de terceiros em mandado de segurança:
+    “Habeas Corpus. 2. Art. 299 do Código Eleitoral. Acordo entre candidatos a vereador para que deixasse de concorrer ao mandato em troca de nomeação para cargo de confiança. 3. Aditamento da denúncia. Compra de votos. Alegação de cerceamento de defesa e violação do contraditório. Pedido de reconhecimento de nulidade. Improcedência. Recebido o aditamento, houve abertura de vista à defesa pelo prazo de oito dias. 4. Pedido de assistência litisconsorcial da acusação feito pelo suplente de vereador. Inexistência de normas que tratem sobre a matéria. Jurisprudência predominante no STF no sentido de que, salvo no caso de querelante, não há compatibilidade entre o rito do habeas corpus e os tipos de intervenção de terceiro. 5. Pedido de extensão dos efeitos da decisão do Tribunal Superior Eleitoral que determinou o arquivamento da ação penal contra o outro envolvido no acordo por ausência de justa causa em face da atipicidade da conduta. Situação processual idêntica. Deferimento. 6. Habeas corpus deferido, tão-somente, para estender ao paciente os efeitos da decisão do TSE no HC no 43, Classe 23a, prosseguindo a ação penal quanto aos demais crimes eleitorais
+HC 83170, Relator Min. GILMAR MENDES, Tribunal Pleno, julgado em 18.5.2006”.
+    Além disso, o requerente não demonstra interesse jurídico na causa.
+    Ainda assim, anoto que a) o segredo processual foi levantado por ordem deste relator (eDOC 81); b) o julgamento ocorreu em sessão pública; c) o acórdão está em fase de confecção e assinatura, sendo que deverá ser publicado na forma regimental e d) o Ministério Público foi intimado para parecer e esteve presente à sessão de julgamento, sem contestações à regularidade do processamento até este momento.
+    Publique-se.
+    Brasília, 12 de fevereiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
