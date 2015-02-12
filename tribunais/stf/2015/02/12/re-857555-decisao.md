@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 2ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. DECADÊNCIA E PRESCRIÇÃO. DECLARAÇÃO RETIFICADORA. ANULAÇÃO DA CDA. LEI 9.718/98, ART. 3º , § 1º . ISENÇÃO. ZONA FRANCA DE MANAUS. HONORÁRIOS.
+    1. Tratando-se de débitos confessados pelo próprio contribuinte, por meio de obrigação acessória tendente a esse fim (DCTF, GFIP, declaração de rendimentos, etc.), dispensa-se a figura do ato formal de lançamento, não havendo mais falar em decadência, e o prazo prescricional de cinco anos para a ação de cobrança do crédito tributário (artigo 174 do CTN) é contado da data de entrega da declaração pelo contribuinte, ou da data do vencimento, quando posterior, nos termos do decidido pelo STJ no AgRg no REsp 1.076.611-MG.
+    2. A apresentação de declaração retificadora interrompe o curso da prescrição, passando o ser o novo termo a quo do prazo prescricional, relativamente aos valores retificados.
+    3. O colendo STF, em controle difuso de constitucionalidade, entendeu inconstitucional a alteração na base de cálculo do PIS e da COFINS, levada a efeito pelo §1º do art. 3º da Lei n.º 9.718/98.
+    4. O art. 4º do DL 288/67 e o art. 40 do ADCT preservam à Zona Franca de Manaus como área de livre comércio, estendendo às exportações destinadas a estabelecimentos situados naquela região os benefícios fiscais presentes nas exportações ao estrangeiro.
+    5. Como se pode observar do enunciado do §4º do art. 20 do CPC, o juiz singular não está obrigado a obedecer ao percentual mínimo de 10%, previsto no §3º do referido dispositivo. Honorários estabelecidos em valor fixo, considerados os critérios do art. 20, §§3º e 4º , do CPC.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, § 6º, da Carta, bem como ao art. 40, do Ato das Disposições Constitucionais Transitórias. Sustenta, em síntese, que não existe norma legal expressa isentando as receitas decorrentes de operações com a Zona Franca de Manaus em relação ao Pis e à Cofins, tampouco deferindo o crédito presumido de IPI como incentivo às exportações.
+    A pretensão não merece acolhida. A jurisprudência do Supremo está assentada no sentido de que as discussões relacionadas às isenções de produtos destinados à Zona Franca de Manaus envolvem a análise de legislação infraconstitucional, conforme pode ser observado nas ementas a seguir:
+    “Agravo regimental no recurso extraordinário. PIS e COFINS. Produtos destinados à Zona Franca de Manaus. DL n.º 288/67. Natureza infraconstitucional da controvérsia. Ofensa reflexa. Discussão sob o enfoque do art. 40, parágrafo único, do ADCT. Entendimento do STF na ADI 2.348-MC. MP nº 2.037-24/00. Suspensão da eficácia.
+    1. As discussões relativas à isenção concedida na venda de produtos destinados à Zona Franca de Manaus, à luz do Decreto-lei nº 288/97, ensejam reinterpretação de normas infraconstitucionais, sendo que a suposta afronta à Constituição, se ocorresse, seria indireta. Precedentes.
+    2. O Supremo Tribunal Federal, no julgamento da ADI 2.348-MC, Relator o Ministro Marco Aurélio, DJ de 7/11/03, apreciando a questão, afastou a eficácia de dispositivos da MP nº 2.037-24/2000, à luz do art. 40 do ADCT, no intuito de preservar a imunidade tributária constitucionalmente deferida à Zona Franca de Manaus. Precedentes.
+    3. Agravo regimental não provido.” (RE 568.417-AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO.  PIS  E COFINS. ISENÇÃO. RECEITAS ORIUNDAS DAS VENDAS DE MERCADORAIS PARA A ZONA FRANCA DE MANAUS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES DA CORTE. RECURSO DESPROVIDO.
+    1. A isenção de PIS e COFINS nas receitas oriundas das vendas de mercadorias para a Zona Franca de Manaus é matéria que impõe ao E. STF o exame da legislação infraconstitucional. Por isso que eventual ofensa à Constituição somente ocorreria de forma indireta, circunstância que inviabiliza a admissão do recurso extraordinário.
+    2. Precedentes no mesmo sentido: RE n. 539590-AgR, Relatora a Ministra Ellen Gracie, DJ de 26.4.2011; RE n. 456336-AgR, Relator o Ministro Celso de Mello, DJ de 8.11.2010, inter plures.
+    3. Agravo regimental desprovido.” (RE 612.537-AgR, Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 577, caput, do CPC e no art. 21, §1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 12 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+                            Relator
