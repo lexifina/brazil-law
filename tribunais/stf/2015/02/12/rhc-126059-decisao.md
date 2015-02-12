@@ -1,0 +1,27 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Marcus Ruan Lemos dos Santos, representado pela Defensoria Pública da União, contra acórdão do Superior Tribunal Militar que rejeitou o agravo regimental no HC 150-03.2014.7.00.0000/DF.
+    O Recorrente foi condenado, em 05.6.2013, à pena de 1 (um) ano de reclusão, em regime inicial aberto, pela prática do crime de furto (art. 240 do Código Penal Militar). Naquela oportunidade, o Conselho Permanente de Justiça para o Exército da 3ª Auditoria Militar da 3ª CJM concedeu, ao paciente, o direito de recorrer em liberdade e o benefício do sursis.
+    Irresignada, a Defesa impetrou habeas corpus no Superior Tribunal Militar, que negou seguimento ao writ, via decisão monocrática da lavra do Ministro José Coêlho Ferreira. Submetida a questão ao órgão colegiado, a Corte Castrense negou provimento ao agravo regimental.
+    No presente recurso, a Defesa sustenta a incompetência da Justiça Militar da União para processar e julgar o feito, porquanto os fatos imputados ao Recorrente não se amoldam ao conceito de crime militar, bem como argui a violação do direito ao contraditório e à ampla defesa em razão da realização do interrogatório no início da instrução em afronta ao art. 400 do Código de Processo Penal.
+    Postula, em medida liminar, o sobrestamento da ação penal de origem até o julgamento final do presente recurso. No mérito, requer a declaração da incompetência da Justiça Militar ou, sucessivamente, o reconhecimento da nulidade do interrogatório do paciente dada a violação do art. 400 do Código de Processo Penal.
+    Contrarrazões apresentadas.
+    É o relatório.
+    Decido.
+    Incumbe apreciar, neste juízo prévio, a possibilidade de sobrestamento do processo de origem (5-21.2012.7.03.0303), até o julgamento definitivo da presente impetração.
+    Em consulta ao sítio eletrônico do Superior Tribunal Militar, colhi a informação de que, em 26.11.2014, houve o trânsito em julgado da condenação prolatada em desfavor do Recorrente.
+    A propósito, extraio excertos do voto condutor do acórdão hostilizado:
+    “(...).
+    Em que pese a argumentação da Defesa de que deve ser decretada a nulidade da Ação Penal Militar nº 55-21.2012.7.03.0303 em razão da incompetência da Justiça Militar ou que, subsidiariamente, deve ser determinado que se proceda a novo interrogatório do acusado, o presente recurso deve ser rejeitado.
+    Conforme a Decisão de fls. 61/64, objeto do presente agravo, entendo que a matéria foi esgotada no âmbito da Justiça Militar da União, uma vez que esta já entregou sua prestação jurisdicional, tendo em vista que foram esgotadas todas as possibilidades de recurso nesta Corte.
+    Nota-se que a Defesa do Agravante interpôs recurso de apelação contra a sentença proferida pelo CPJ, que foi julgado improcedente por unanimidade de votos. Não satisfeita, a Defesa opôs embargos de declaração e agravo regimental, sem obter êxito. Posteriormente, interpôs Recurso Extraordinário ao E. STF que teve seguimento negado por este STM e pelo próprio STF, conforme decisão proferida no Agravo nº 828.955.
+    Dessa forma, não resta dúvida de que a atividade jurisdicional desta Corte Militar está esgotada, não sendo esta competente para decidir novamente nos autos.
+    Ademais, ainda que assim não fosse, os argumentos defensivos não merecem amparo. No que cinge à suposta incompetência da Justiça Militar, não assiste razão ao Agravante, a uma, porque ocorreu a prorrogação tácita da competência, uma vez que o Agravante não opôs a exceção de incompetência no momento oportuno. E, a duas, porque a jurisprudência desta Corte é pacífica ao reconhecer a competência da Justiça Militar para julgar os casos em que um militar furta cartão magnético no interior da caserna.
+    No que se refere à alegação de nulidade pela não aplicação do art. 400 do CPP comum, também não merece amparo a tese defensiva. Muito embora eu tenha firmado entendimento no sentido de reconhecer a aplicação do referido dispositivo aos processos em trâmite na Justiça Militar, no presente caso, concordo com a aplicação majoritária desta Corte e aplico o enunciado da Súmula nº 15 do STM.
+    Importante salientar que, em ambas alegações de nulidade apresentadas, a Defesa não as arguiu no momento adequado, qual seja, antes das alegações escritas, conforme determina a alínea ‘a’ do art. 504 do CPPM. Outrossim, além de não terem sido arguidas naquele momento, sequer foram mencionadas em nenhum dos outros recursos perante essa Corte Castrense, não merecendo, portanto, serem analisadas em sede de Habeas Corpus”.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da tutela emergencial com a imediata suspensão do processo de origem.
+    Da leitura do acórdão impugnado, verifico, nesta análise de cognição sumária, que os atos se encontram motivados, apontando as razões de convencimento quanto à competência da Justiça Militar para processar e julgar a ação penal, consignando que o Recorrente e o ofendido, à época dos fatos, eram militares da ativa, bem como o iter criminis teve início no interior da unidade militar (furto de cartão magnético no interior da caserna).
+    Ante o exposto, indefiro a liminar.
+    Estando os autos devidamente instruídos, colha-se manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 12 de fevereiro de 2015.
+Ministra Rosa Weber
+Relatora
