@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO POR MORTE. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO: ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. INOCORRÊNCIA. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado proferido pelo Tribunal Regional Federal da Quarta Região:
+    “PREVIDENCIÁRIO. PENSÃO POR MORTE. FILHO MAIOR INVÁLIDO. INVALIDEZ POSTERIOR AO ÓBITO DO PAI. In casu, estando o laudo judicial suficientemente fundamentado, com demonstração da realização dos exames necessários, e não sendo infirmado pelos demais elementos dos autos, a sentença que se baseou no mesmo é de ser confirmada, sendo indevido o benefício de pensão por morte ao autor, na medida em que não foi implementado um dos requisitos legais, qual seja, a dependência econômica decorrente da invalidez na data do óbito do segurado” (fl. 118, doc. 3).
+    O embargos de declaração opostos foram rejeitados (fls. 139-141, doc. 3).
+    2. O Recorrente alega ter o Tribunal de origem contrariado o art. 93, inc. IX, da Constituição da República.
+    Sustenta que “o acórdão recorrido, ao deixar de analisar provas constantes dos autos, gerou omissão sobre fundamentos necessários à resolução da lide, que versa sobre direito social à concessão de benefício previdenciário. Não se olvide que a fundamentação é requisito essencial para todas as decisões conforme preceitua o art. 93, IX, da CF” (fls. 170-171, doc. 3).
+    Salienta ser “indubitável o peso probatório de que se reveste o laudo médico pericial que tenha sido determinado pelo próprio juízo - sendo, portanto, imparcial. No entanto, existindo documentos, inclusive com fé pública, de igual valor probatório, dentre os quais um com o reconhecimento da incapacidade anterior pela própria autarquia, tais documentos deveriam ter sido, no mínimo, mencionados no voto que solucionou a lide” (fl. 175, doc. 3).
+    Assevera que, “diante da ausência de fundamentação adequada e consequente omissão por não ter o juízo valorado também outras provas constantes dos autos, que não o laudo pericial, clara a violação ao art. 93, IX, da Constituição Federal. Assim, requer-se a cassação do acórdão proferido, remetendo-se novamente os autos à origem para que seja proferida nova decisão com atenção às demais provas constantes dos autos” (fl. 176, doc. 3).
+    Requer “seja cassado o acórdão proferido, remetendo-se novamente os autos à origem para que seja proferida nova decisão com atenção às demais provas constantes dos autos” (fl. 176, doc. 3).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. Na espécie, o Tribunal de origem assentou reger-se a pensão por morte pela legislação em vigor na data do óbito do instituidor do benefício (princípio tempus regit actum). Decidiu-se, ainda, que “sendo a incapacidade posterior ao óbito do instituidor da pensão (20/12/1997), não é possível a concessão do benefício de pensão por morte ao autor, na medida em que não foi implementado um dos requisitos legais, qual seja, a dependência econômica decorrente da invalidez na data do óbito do segurado”(fl. 117, doc. 3).
+    A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Recorrente, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    “A presente questão de ordem visa a reafirmar a jurisprudência pacificada neste Tribunal segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    O acórdão recorrido está de acordo com essa orientação, uma vez que foram explicitadas razões suficientes para o convencimento do julgador, que endossou os fundamentos do despacho de inadmissibilidade do recurso de revista, integrando-os ao julgamento do agravo instrumento. Desse modo, reputo inexistente a alegada falta de fundamentação.
+    Pelo exposto, proponho, em consequência, a seguinte solução para esta questão de ordem:
+    a) que se reconheça a repercussão geral da questão aqui analisada;
+    b) Que seja reafirmada a jurisprudência da Corte a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    c) que seja negado provimento ao presente recurso.
+    d) que o STF e os demais tribunais sejam autorizados a adotar procedimentos relacionados à repercussão geral, principalmente a retratação das decisões ou a declaração de prejuízo dos recursos extraordinários, sempre que as decisões contrariarem ou confirmarem a jurisprudência ora reafirmada” (AI 791.292-QO-RG, Relator o Ministro Gilmar Mendes, Plenário Virtual, DJe 13.8.2010, grifos nossos).
+    Nada há, pois, a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 12 de fevereiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
