@@ -1,0 +1,14 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. OITIVA DE TESTEMUNHA EM AUDIÊNCIA. INDEFERIMENTO DE PRODUÇÃO DE PROVA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 639.228-RG. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por Edna Márcia Rodrigues e Robson Carlos Dias objetivando a reforma da decisão que inadmitiu seu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “AÇÃO DE RESSARCIMENTO – ACIDENTE DE TRÂNSITO – AGRAVO RETIDO DESPROVIDO – DESNECESSIDADE DE OITIVA DE TESTEMUNHA SUSPEITA – OMISSÃO DE SOCORRO – CULPA DOS REQUERIDOS DEMONSTRADA – DANOS MORAL E MATERIAL CONFIGURADOS. O artigo 130 do Digesto Processual Civil reconhece ao Juiz a autoridade para decidir sobre a produção de provas requeridas pelas partes, devendo afastar aquelas que se mostrarem inúteis ou desnecessárias, sem que isso implique ofensa aos ditames processuais ou aos princípios do contraditório e da ampla defesa. O proprietário responde solidariamente pelos danos causados por terceiro a quem emprestou o veículo. Demonstrados nos autos, através da dinâmica e circunstâncias do acidente, que o dano sofrido pelo autor adveio dos fatos desencadeados pela conduta dos réus, estes são responsáveis pela reparação.”
+    Nas razões de apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao artigo 5º, LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que não houve o devido prequestionamento da matéria recorrida.
+     É o relatório. DECIDO.
+    Os princípios da ampla defesa e do contraditório, nos casos de indeferimento de diligência probatória, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 639.228-RG, da relatoria do Min. Cezar Peluso, DJe 31/8/2011, o qual possui a seguinte ementa:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.“
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 12 de fevereiro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
