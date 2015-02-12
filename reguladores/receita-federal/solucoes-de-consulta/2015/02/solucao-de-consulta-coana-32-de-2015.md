@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 32, de 30 de janeiro de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 2203.00.00 Mercadoria: Cerveja, à base de malte, adicionada de 0,15% de aroma (75% tequila e 25% aroma sintético idêntico ao natural de frutas cítricas), com graduação alcoólica em volume de 5,9%, acondicionada em garrafa de 330 ml. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 22.03) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 2203.00.00 Mercadoria: Cerveja, à base de malte, adicionada de 0,15% de aroma (75% tequila e 25% aroma sintético idêntico ao natural de frutas cítricas), com graduação alcoólica em volume de 5,9%, acondicionada em garrafa de 330 ml.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 22.03) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+MARCO ANTÔNIO RODRIGUES CASADO Presidente da 5ª Turma
