@@ -1,0 +1,24 @@
+Decisão:
+    Cuida-se de petição, nominada “Representação”, recebida como ação originária, proposta por Anderson Adriano Reis e Silva, contra a prefeita de Boa Vista-RR, Maria Teresa Saenz Surita, e o Senador da República Romero Jucá, por apontado abuso de autoridade, que estaria configurado em um esquema de corrupção, assim descrito na exordial:
+    “A PREFEITA DE BOA VISTA TERESA JUCA- Roraima, liderou um mega esquema de nomeação e contratação de pessoas no âmbito da prefeitura de Boa Vista no ano de 2004 com o fim de se eleger a deputada federal e o que realmente ocorreu nas eleições de 2010, para beneficiar eleitores e parentes de autoridades locais que fazem parte de todos os poderes e instituições do estado de RORAIMA (…)
+    O esquema dos gafanhotos chegou a contratar quase 40.000 mil servidores comissionados e autoridades locais ficavam com parte da renda dos trabalhadores.
+    Vários trabalhadores aprovados e classificados em concursos ingressavam com ações na Justiça com o fim de tomarem posse nos referidos cargos mas eram estranhamente indeferidos os mandados de segurança dos impetrantes para beneficiarem parentes de autoridades locais e eleição para deputado federal da senhora Teresa Juca e do Senhor Romero Juca, SENADOR, COMPROMETENDO AS FINANÇAS DO MUNICÍPIO, inclusive o fundo de participação dos municípios-FPM.”
+    Requer o autor “a condenação dos requeridos nos termos do art. 6º § 1º, letra “f” e § 3º, letra “c” da Lei de abuso de autoridade”.
+    É o relatório. Decido.
+    De início, defiro os benefícios da assistência judiciária gratuita (lei nº 1060/50).
+    O pleito autoral, em resumo, se dirige à demissão dos réus, como sanção administrativa (art. 6º § 1º, “f”, da Lei nº 4.989/65) e à perda do cargo e à inabilitação para o exercício de qualquer outra função pública por prazo de até três anos (art. 6º, § 3º,“c”, da Lei nº 4.989/65), a título de sanção penal.
+    Imagina-se que em virtude da natureza do mandato recebido democraticamente pelo Senador Romero Jucá, tenha a parte autora dirigido esta ação à Suprema Corte.
+    Todavia, a legitimidade ativa para instauração de processo criminal contra membro do Congresso Nacional é do Procurador-Geral da República, razão pela qual carece o autor de legitimidade ativa para a propositura desta demanda quanto a esse ponto.
+    Relativamente à sanção administrativa pleiteada, não é da competência originária deste Supremo Tribunal Federal o processo e julgamento da presente ação. De fato, a competência desta Corte se submete a regime de direito estrito e não contempla a apreciação de representação para responsabilização administrativa, qualquer que seja a autoridade apontada no polo passivo.
+    Destaco julgado do Plenário que bem pontua a natureza restritiva da competência deste Supremo Tribunal:
+    "A COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - CUJOS FUNDAMENTOS REPOUSAM NA CONSTITUIÇÃO DA REPÚBLICA - SUBMETE-SE A REGIME DE DIREITO ESTRITO. (…) O regime de direito estrito, a que se submete a definição dessa competência institucional, tem levado o Supremo Tribunal Federal, por efeito da taxatividade do rol constante da Carta Política, a afastar, do âmbito de suas atribuições jurisdicionais originárias, o processo e o julgamento de causas de natureza civil que não se acham inscritas no texto constitucional (ações populares, ações civis públicas, ações cautelares, ações ordinárias, ações declaratórias e medidas cautelares), mesmo que instauradas contra o Presidente da República ou contra qualquer das autoridades, que, em matéria penal (CF, art. 102, I, b e c), dispõem de prerrogativa de foro perante a Corte Suprema ou que, em sede de mandado de segurança, estão sujeitas à jurisdição imediata do Tribunal (CF, art. 102, I, d). Precedentes." (Pet nº 1.738-MG (AgRg), Rel. Min. Celso de Mello, Pleno, DJ de 1/9/99).
+    Ressalte-se que a própria lei nº 4.898/65 indica que a representação por abuso de autoridade, para fins de responsabilização administrativa, deve ser dirigida à autoridade superior que tiver competência legal para aplicar as sanções ali previstas e, de igual modo, indica que a representação para responsabilização penal deve ser direcionada ao órgão do parquet com competência para iniciar o processo criminal em face da autoridade representada. Vide:
+    “Art. 2º O direito de representação será exercido por meio de petição:
+    a) dirigida à autoridade superior que tiver competência legal para aplicar, à autoridade civil ou militar culpada, a respectiva sanção;
+    b) dirigida ao órgão do Ministério Público que tiver competência para iniciar processo-crime contra a autoridade culpada.”
+    Pelo exposto, com fulcro no art. 21, § 1º, do RISTF, nego seguimento à presente ação. Sem custas, ante o deferimento da assistência judiciária gratuita (lei nº 1060/50).
+    Publique-se.
+    Brasília, 12 de fevereiro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
