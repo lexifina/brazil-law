@@ -1,0 +1,13 @@
+Decisão:
+    Vistos.
+    A União interpõe recurso extraordinário por contrariedade aos artigos 97, 195, I, “a”, e 201, § 11, da Constituição Federal. Por sua vez, Mineração e Pesquisa Brasileira S/A interpõe o apelo extremo alegando afronta aos artigos 93, IX, 150, 195, I, “a”, da Constituição Federal.
+    Decido.
+    No tocante ao recurso da União, observo que este Tribunal por meio do seu Plenário Virtual concluiu pela ausência de repercussão geral da questão atinente à incidência de contribuição previdenciária sobre o aviso prévio indenizado, nos autos do ARE nº 745.901/RG-RS, Rel. Min. Teori Zavascki, Dje 18/9/14. A decisão restou assim ementada:
+    PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. AVISO PRÉVIO INDENIZADO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à incidência de contribuição previdenciária sobre as verbas pagas a título de aviso prévio indenizado, fundada na interpretação da Lei 8.212/91 e do Decreto 6.727/09, é de natureza infraconstitucional. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.
+    Quanto ao apelo interposto por Mineração e Pesquisa Brasileira S/A, o assunto corresponde ao tema 163 da Gestão por Temas da Repercussão Geral do portal do STF na internet, onde o Plenário desta Corte concluiu, no exame do RE nº 593.068, em sessão realizada por meio eletrônico, pela existência da repercussão geral da discussão acerca da constitucionalidade da incidência de contribuição previdenciária sobre o terço constitucional de férias, serviços extraordinários, adicional noturno, adicional de insalubridade e outros pagamentos de caráter transitório (Ressalte-se que esse mencionado tema se aplica ao caso em tela, conforme já decidido por esta Corte no exame dos RE nº 807.906/RJ-AgR, DJe de 1°/8/14 e ARE nº 830.437/SC–AgR, DJe de 2/10/14).
+    Diante do exposto, nego seguimento ao recurso extraordinário da União, e, no concernente ao recurso extraordinário de Mineração e Pesquisa Brasileira Ltda, nos termos do artigo 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução dos autos ao Tribunal de origem para que seja aplicado o disposto no artigo 543-B do Código de Processo Civil (Tema 163).
+    Publique-se.
+    Brasília, 13 de fevereiro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
