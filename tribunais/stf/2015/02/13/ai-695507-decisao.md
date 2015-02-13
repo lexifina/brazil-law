@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de processo em que se questiona a validade de exame psicotécnico realizado em Concurso Público para Soldado Combatente da Polícia Militar do Estado de Alagoas.
+    O recurso não deve ser provido. Isso porque o acórdão recorrido se alinha à jurisprudência desta Corte, reafirmada no julgamento do AI 758.533-RG, sob a relatoria do Ministro Gilmar Mendes, que reconheceu a validade da exigência de exame psicotécnico como requisito para concurso público, desde que pautado por critérios objetivos e expressamente previsto em lei em sentido material. Veja-se a ementa do referido julgado:
+    ”Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Na hipótese, o Tribunal de origem, alinhado a esse entendimento, assentou: (i) haver previsão legal para o exame psicotécnico; e (ii) que o edital do certame previu critérios objetivos para a referida etapa. Dissentir dessas conclusões demandaria o exame dos fatos e material probatório constantes dos autos, bem como a análise das cláusulas do edital do concurso, providências inviáveis neste momento processual (incidência das Súmulas 279 e 454/STF). Nesse sentido, veja-se a ementa do RE 473.719-AgR, julgado sob a relatoria do Ministro Eros Grau:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXAME PSICOTÉCNICO. CONCURSO PÚBLICO. NECESSIDADE DE CRITÉRIOS OBJETIVOS. REEXAME DE PROVAS E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+    1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que o exame psicotécnico pode ser estabelecido para concurso público desde que por lei, tendo por base critérios objetivos de reconhecido caráter científico, devendo existir, inclusive, a possibilidade de reexame. Precedentes.
+    2. Reexame de fatos e provas e de clausulas editalícias. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento.”
+    Por fim, ressalta-se que o Supremo Tribunal Federal, no julgamento do RE 608.482-RG, sob a relatoria do Ministro Teori Zavascki, firmou o entendimento de ser inaplicável a denominada “teoria do fato consumado” no caso em que o provimento em cargo público ocorre por meio de medida precária, como ocorre na hipótese.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 13 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
