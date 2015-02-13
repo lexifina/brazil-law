@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo interposto contra decisão que negou seguimento a recurso ordinário, previsto no art. 102, II, a, da Constituição Federal, interposto contra acórdão da Primeira Turma Recursal do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “HABEAS CORPUS – AÇÃO PENAL - PRETENSÃO DE TRANCAMENTO – EXISTÊNCIA DE LASTRO PROBATÓRIO MÍNIMO PARA O PROSSEGUIMENTO DA PERSECUTIO CRIMINIS – ORDEM DENEGADA.”
+    Opostos embargos de declaração, foram eles acolhidos em acórdão assim ementado:
+     “EMBARGOS DE DECLARAÇÃO – ALEGAÇÃO DE OMISSÃO EM RELAÇÃO A ALEGAÇÃO DE EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO, CONSIDERANDO O PRAZO PELA METADE UMA VEZ QUE A PACIENTE TEM MAIS DE 60 ANOS – OMISSÃO VERIFICADA - EMBARGOS CONHECIDOS E ACOLHIDOS.”
+    O Presidente das Turmas Recursais Reunidas do Estado do Paraná negou seguimento ao recurso ordinário sob o fundamento de que, “ao STF, por igual, não é cabível o recurso ordinário no caso sub examen, porquanto somente é passível de apreciação na Excelsa Corte a decisão denegatória em HC proferida por Tribunal Superior, consoante expresso no art. 102, II, 'a' da CF”.
+    O recurso é manifestamente inadmissível, tendo em vista que compete a esta Corte julgar, nos termos do art. 102, II, a, da Constituição Federal, em recurso ordinário, tão somente, o habeas corpus, o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão. Nessa linha, veja-se o AI 834.465, Rel.ª Min.ª Ellen Gracie.
+    Ademais, incide, no caso, a jurisprudência do Supremo Tribunal Federal no sentido da impossibilidade da aplicação do princípio da fungibilidade recursal, tendo em vista a ocorrência de erro grosseiro que impossibilita a conversão do recurso ordinário em extraordinário. Nessa linha, vejam-se o AI 752.408, Rel. Min. Dias Toffoli; e o AI 504.598-AgR, Rel. Min. Marco Aurélio, assim ementado:
+    “RECURSO – PRINCÍPIO DA FUNGIBILIDADE. O princípio da fungibilidade consta implicitamente do Código de Processo Civil – artigo 250 - e expressamente do Código de Processo Penal – artigo 579. Descabe empolgá-lo quando o caso é de erro grosseiro, e isso ocorre em se tratando de decisão do Tribunal Superior Eleitoral prolatada em agravo interposto contra pronunciamento do relator que implicou negativa de seqüência a recurso especial. Na hipótese, em vez de ser protocolado o extraordinário, foi apresentado o recurso ordinário previsto no artigo 102, inciso II, da Constituição Federal e na parte final do artigo 281 do Código Eleitoral em relação às decisões denegatórias de ordem em habeas corpus ou mandado de segurança.
+    PRESCRIÇÃO – PRETENSÃO PUNITIVA – EXAME. O exame da prescrição da pretensão punitiva há de se fazer a partir de elementos próprios revelados no processo a que responde o acusado, e não em autos formados, objetivando o processamento de extraordinário.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/90 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 13 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
