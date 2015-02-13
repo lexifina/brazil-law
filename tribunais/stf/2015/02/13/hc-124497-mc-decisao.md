@@ -1,0 +1,19 @@
+DECISÃO
+DIREITO – ORGANICIDADE.
+PENA – DOSIMETRIA – HABEAS CORPUS – LIMINAR – RELEVÂNCIA NÃO DEMONSTRADA – INDEFERIMENTO.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O paciente foi pronunciado ante o suposto cometimento do delito previsto no artigo 121, cabeça (homicídio simples), contra a esposa. Em 10 de junho de 2011 (Processo nº 004098004350-5), sobreveio a condenação a quatro anos de reclusão, no regime aberto, porquanto reconhecida pelo Júri Popular a minorante descrita no § 1º do artigo 121 (relevante valor social ou moral, ou sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima). O Juízo da Vara Criminal da Comarca de Araxá/MG deferiu o direito de recorrer em liberdade.
+    O Ministério Público do Estado de Minas Gerais interpôs apelação no Tribunal de Justiça. Sustentou a erronia na dosimetria da pena, no tocante ao decote de um terço decorrente do privilégio. Apontou o dolo e a reprovabilidade da conduta perpetrada, reportando-se à prática do crime no contexto familiar. A Sexta Câmara proveu parcialmente o recurso, redimensionando a sanção para quatro anos, dez meses e quinze dias de reclusão no regime semiaberto. Declarou a pertinência da redução na fração de um quarto e não de um terço. Os embargos de declaração protocolados pela defesa foram desprovidos.
+    No Superior Tribunal de Justiça, mediante o Recurso Especial nº 1.425.302/MG, a defesa alegou violação ao artigo 67 do Código Penal. Salientou a equivalência entre a atenuante da confissão espontânea e a agravante atinente à reincidência. Requereu, ainda, fosse estabelecido o regime aberto. O relator negou seguimento ao especial. Assentou a improcedência do pedido de compensação das causas em comento, reportando-se ao fato de o Juízo já haver assim procedido na fixação da pena. Disse da pertinência dos Verbetes nº 7 e 284 das Súmulas do Tribunal e do Supremo, respectivamente. Concluiu pelo acerto no tocante ao regime imposto, ressaltando estar em consonância com o disposto no § 2º do artigo 33 do Código Penal. A Quinta Turma, à unanimidade, desproveu o regimental interposto na sequência.
+    Neste habeas, a Defensoria Pública da União aponta a insubsistência da motivação veiculada no Superior Tribunal de Justiça. Alega que o exame dos pleitos aduzidos não implicaria a reanálise probatória. Defende a aplicação da causa de diminuição atinente ao privilégio no patamar máximo. Alude à presença de circunstâncias pessoais favoráveis – primariedade e bons antecedentes. Enfatiza o erro na individualização da pena, assevera ter o crime ocorrido em razão das provocações da vítima.
+    Em âmbito liminar, requer seja restabelecida a sentença condenatória que implicou a pena de quatro anos de reclusão no regime aberto, considerada a aplicação da causa redutora no patamar máximo.
+    No mérito, busca a confirmação da providência.
+    A fase é de apreciação da medida acauteladora.
+    2. Observem a organicidade do Direito. O pedido de liminar confunde-se com o de mérito: o restabelecimento da sentença condenatória sem a alteração ocorrida ante o recurso do Ministério Público. De qualquer forma, defrontou-se o Superior Tribunal de Justiça com recurso especial e apontou que o julgamento pressuporia reexame da matéria fática.
+    Constata-se que o Tribunal de Justiça do Estado de Minas Gerais, presentes as circunstâncias e as consequências do crime, majorou a pena-base, fixando-a em seis anos e seis meses de reclusão. Sob o ângulo da redução da pena, considerada a previsão do artigo 121, § 1º, do Código Penal, disse que a reação do paciente foi desmesurada, não havendo ficado demonstrado que a agressão verbal da esposa teria sido superior à de desavenças pretéritas.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 13 de fevereiro de 2015, às 17h15.
+Ministro MARCO AURÉLIO
+Relator
