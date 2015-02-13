@@ -1,0 +1,22 @@
+DESPACHO
+AÇÃO CÍVEL ORIGINÁRIA. CONFLITO FEDERATIVO. AÇÃO CIVIL PÚBLICA. SUSPENSÃO DO LEVANTAMENTO DA INDENIZAÇÃO NA AÇÃO DE DESAPROPRIAÇÃO N. 00.4348-6. TITULARIDADE DE TERRAS LOCALIZADAS NO ESTADO DE MATO GROSSO DO SUL. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Ação civil pública, com pedido de medida liminar, ajuizada pelo Ministério Público Federal contra o Instituto Nacional de Colonização e Reforma Agrária – INCRA, o Estado de Mato Grosso do Sul, o Estado de Mato Grosso e o Espólio de José Tavares Couto e outros, protocolada no Supremo Tribunal Federal, em 4.5.2010, e autuada como Ação Cível Originária n. 1.560/MS.
+O caso
+    2. Em 17.5.2004, o Instituto Nacional de Colonização e Reforma Agrária – INCRA manifestou o interesse em ser admitido como litisconsorte ativo, apesar de figurar no polo passivo da ação, porque teria como objetivo “impedir o levantamento indevido de quaisquer verbas indenizatórias depositadas pelo órgão expropriante nos correlatos feitos expropriatórios” (fls. 498-501).
+    3. O Estado de Mato Grosso contestou, sustentando ser parte ilegítima para figurar no polo passivo da presente ação porque “as áreas objeto das concessões localiz[ar-se-iam] no Estado de Mato Grosso do Sul” (fl. 528). Argumentou, ainda, ter ocorrido a prescrição da pretensão.
+    4. Na contestação (fls. 632-644), o Estado de Mato Grosso do Sul alegou não ser parte legítima para figurar no polo passivo desta ação, pois a concessão do título de propriedade teria sido praticada pelo Estado de Mato Grosso. Ponderou, ainda, não poder ser responsabilizado por eventual indenização por ter sucedido o Estado de Mato Grosso. No mérito, pugnou pela falta de interesse de agir do Autor.
+    5. Também apresentaram contestação Frederico Luiz de Freitas (fls. 681-702), Walfrido Rodrigues (fls. 774-795), Hiroyoshi Shimazu (fls. 954-970), Manao Hirata (fls. 997-1013) e Nagahiro Murakami e outro (fls. 1040-1056), além dos espólios de Keitaro Sato (fls. 608-614), de Hajime Sato (fls. 618-629), de Masuho Sato (fls. 660-672), de Yoshinobu Suguimoto (fls. 728-744), de José Held (fls. 822-838), de José Tavares do Couto (fls. 866-882) e de Harukichi Kawaguchi (fls. 909-925).
+    6. Em 1º.10.2009, o juízo da Primeira Vara Federal da Segunda Subseção Judiciária de Dourados/MS, com fundamento no art. 102, inc. I, al. f, da Constituição da República, declarou-se incompetente para processar e julgar a Ação Civil Pública n. 2003.60.00.007322-2 e determinou a remessa dos autos ao Supremo Tribunal Federal (fls. 1100-1101).
+    7. Em 10.11.2010, determinei a intimação da União para se manifestar sobre o interesse em ingressar no feito e sobre a medida liminar requerida na inicial da ação civil pública (fls. 1121-1127).
+    8. Em 9.12.2010, a União salientou a competência deste Supremo Tribunal para conhecer da presente ação, em razão do interesse em “compor a lide no polo ativo”, e requereu medida liminar “para estancar maiores danos ao erário” (fl. 1145).
+    9. Em 15.5.2012, reconheci a competência deste Supremo Tribunal para conhecer da presente ação, nos termos do art. 102, inc. I, al. f, da Constituição da República. Indeferi a medida liminar requerida, determinei a manifestação dos Réus e, ainda, a inclusão da União e do Instituto de Colonização e Reforma Agrária – INCRA como partes Autoras.
+    10. O Estado de Mato Grosso do Sul manifestou-se, em 5.6.2012, pela improcedência da ação e, em 25.6.2012, pela ilegitimidade passiva (fls. 1275-1280 e 1338-1350).
+    11. A União e o Instituto Nacional de Colonização e Reforma Agrária – INCRA interpuseram agravos regimentais contra a decisão de indeferimento da medida liminar (fls. 1291-1298 e 1324-1334).
+    12. Em 1º.8.2014, o Plenário do Supremo Tribunal Federal negou provimento aos agravos regimentais (DJe 9.10.2014).
+    13. Vista à União e ao Instituto Nacional de Colonização e Reforma Agrária – INCRA para se manifestarem sobre as contestações apresentadas pelos Réus, no prazo de dez dias (art. 327 do Código de Processo Civil).
+    14. Decorrido o prazo, com ou sem apresentação de réplica, manifestem-se os Autores e os Réus, no prazo sucessivo de dez dias, sobre as provas que pretendem produzir, especificando-as e justificando-as (art. 332 do Código de Processo Civil e art. 113 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de fevereiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
