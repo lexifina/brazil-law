@@ -1,0 +1,25 @@
+Decisão:
+Ementa: Recurso ordinário em habeas corpus. Ingresso clandestino (art. 302 do CPM). Indeferimento de diligências requeridas pela defesa. 1. Hipótese em que não há risco à liberdade de locomoção do paciente. 2. O habeas corpus não é a via processual adequada para o reexame de material probatório. 3. Recurso ordinário em habeas corpus a que se nega provimento.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de concessão de liminar, interposto contra acórdão unânime do Superior Tribunal Militar, da relatoria do Ministro José Coêlho Ferreira, assim ementado:
+    “HABEAS CORPUS. CRIME CAPITULADO NO ART. 302 DO CPM. DECISÕES QUE INDEFERIRAM O PEDIDO DE OITIVA DE TESTEMUNHAS DOMICILIADAS NO EXTERIOR E A RECONSTITUIÇÃO DOS FATOS. ALEGAÇÃO DE NULIDADE. IMPOSSIBILIDADE.
+    I – Embora a impetrante tenha sustentado a nulidade das decisões do Juízo de origem, busca, na verdade, a autorização para a produção de provas pela via estreita do habeas corpus.
+    II – Não se vislumbra qualquer nulidade praticada pelo Juízo a quo, o qual se pronunciou de forma motivada e convincente, com suporte nos elementos fáticos dos autos, declinando os fundamentos jurídicos que embasaram as decisões indeferitórias.
+    Ordem de habeas corpus denegada. Decisão unânime.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante delito, em 29.04.2013, e denunciado pelo crime de ingresso clandestino (art. 302 do Código Penal Militar).
+    3. No curso da instrução criminal, a defesa requereu a oitiva de testemunhas, bem como a produção de prova pericial consistente na reconstituição dos fatos. Os pedidos foram indeferidos pelo Juízo da Auditoria da 12ª CJM.
+    4. Contra essa decisão, foi impetrado habeas corpus no Superior Tribunal Militar.
+    5. Denegada a ordem, a Defensoria Pública da União interpõe o presente recurso ordinário reiterando a tese de imprescindibilidade da oitiva das testemunhas arroladas pela defesa, bem como a necessidade de reconstituição dos fatos. Daí o pedido de liminar para suspender os efeitos do acórdão impugnado. No mérito, a defesa pleiteia a anulação dos atos praticados a partir do indeferimento dos pedidos formulados pela defesa.
+    6. A liminar foi indeferida. Prestadas as informações, a Procuradoria Geral da República opinou pelo desprovimento do recurso.
+    Decido.
+    7. O recurso não deve ser provido.
+    8. Em primeiro lugar, porque o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal no sentido de que o habeas corpus “visa proteger a liberdade de locomoção, liberdade de ir, vir e ficar por ilegalidade ou abuso de poder, não podendo ser utilizado para a proteção de direitos outros” (HC 82.880-AgR, rel. Min. Carlos Velloso, DJ 16.05.2003). Nesse mesmo sentido, foram julgados os seguintes precedentes: HC 75.624/RS, Rel. Min. Sydney Sanches, Primeira Turma, DJ 5.12.1997; HC 84.326-AgR/PE, rel. Min. Ellen Gracie, Segunda Turma, DJ 1º.10.2004; RHC 85.215/MG, rel. Min. Carlos Velloso, Segunda Turma, DJ 10.6.2005; e HC 83.966-AgR/SP, rel. Min. Celso de Mello, Plenário, DJ 25.11.2005.
+    9. Por outro lado, o acolhimento da pretensão defensiva demandaria o reexame do material probatório produzido nas instâncias precedentes. O que não é admitido pela orientação jurisprudencial desta Corte, tendo em vista que “o habeas corpus não é instrumento processual adequado para análise da prova, para o reexame do material probatório produzido, para a reapreciação da matéria de fato e também para a revalorização dos elementos instrutórios coligidos no processo penal de conhecimento...” (HC 112.811, Rel. Min. Cármen Lúcia).
+    10. Ademais, é pacífica jurisprudência deste Supremo Tribunal Federal, no sentido de que “embora a produção da prova técnica seja necessária para esclarecer situações de dúvida objetiva acerca da existência da infração penal, o seu afastamento é sistemático e teleologicamente autorizado pela legislação processual penal nos casos em que há nos autos outros elementos idôneos aptos a comprovar a materialidade do delito...” (HC 108.463, Rel. Min. Teori Zavascki).
+    11. Nessas condições, não vejo ilegalidade flagrante ou abuso de poder por parte do acórdão recorrido, especialmente por observar que as instâncias de origem se pronunciaram “de forma motivada e convincente, com suporte nos elementos fáticos dos autos, declinando os fundamentos jurídicos que embasaram as decisões indeferitórias...”. Ademais, “já existe nos autos uma reprodução simulada dos fatos, às fls. 44/58, por sinal, muito bem elaborada, que teve a participação pessoal do ora acusado. Não tendo a defesa apresentado motivos justificadores da necessidade de nova reconstituição dos fatos...” (fls. 478/479).
+    12. Diante do exposto, acolho o parecer do Ministério Público Federal e nego provimento a este recurso ordinário em habeas corpus (art. 192 c/c o art. 312, ambos do RI/STF).
+    Publique-se.
+    Intime-se.
+    Brasília, 13 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
