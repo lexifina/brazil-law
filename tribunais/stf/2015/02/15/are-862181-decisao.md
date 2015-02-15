@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. DANO MORAL: AUSÊNCIA DE PROVA DO ILÍCITO. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA: AUSÊNCIA DE REPERCUSSÃO GERAL. OFENSA CONSTITUCIONAL INDIRETA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Colégio Recursal de Santo Amaro:
+    “DOCUMENTO NOVO EM APELO – IMPROPRIEDADE – DANO MORAL – INEXISTÊNCIA DE ILÍCITO – SENTENÇA CONFIRMADA POR SUS PRÓPRIAS RAZÕES - RECURSO IMPROVIDO” (fl. 93).
+    2. O Agravante afirma ter o acórdão recorrido contrariado os arts. 5º, inc. LV, e 93, inc. IX, da Constituição da República.
+    Aduz que “o V. acórdão recorrido sequer manifestou a respeito das razões recursais, limitando-se a manter o teor da sentença, dedicando-se ainda a juntar alguns julgados que o autorizaria a fazê-lo, sem debruçar-se efetivamente sobre a matéria, que foi devolvida à sua inteira apreciação (fl. 109).
+    Sustenta que, “ao confirmar simplesmente as razões expostas na Sentença, o V. Acórdão infringiu o artigo 93, inciso IX da Constituição Federal, pois tolheu o direto do RECORRENTE de ter as razões do seu recurso efetivamente analisadas, ficando prejudicada também o direito constitucional do devido processo legal e da ampla defesa” (fl. 111).
+    3. Inadmitiu-se o recurso extraordinário sob os fundamentos de ausência de ofensa direta à Constituição da República e de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Analisados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Colégio Recursal assentou:
+    “O recorrente acosta documentos em seu recurso, porém, ainda que se considere lícita sua juntada, todavia, aqueles que foram colacionados com a peça recursal, além de não serem novos, poderiam ter sido feito antes da sentença, não podendo, portanto, serem juntadas nesta fase. (...)
+    A digna magistrada sentenciante, Débora Romano Menezes; tomando por base que por longos 10 meses o recorrente usou os serviços de cartão de crédito que ora nega haver contrato, pontificou a inexistência de ilícito de ordem civil, julgando então as pretensões da inicial improcedentes.
+    Com efeito, a r. sentença deve ser confirmada pelos seus próprios e bem deduzidos fundamentos, os quais ficam inteiramente adotados como razão de decidir pelo não provimento do recurso, nos termos dos artigos 46 da Lei nº 9.099/95 e 252 do Regimento Interno do Egrégio Tribunal de Justiça” (fls. 93-95, grifos nossos).
+    7. Quanto ao indeferimento de provas, no julgamento do Recurso Extraordinário com Agravo n. 639.228, Relator o Ministro Cezar Peluso, este Supremo Tribunal decidiu inexistir repercussão geral dessa questão, nos seguintes termos:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional” (DJe 31.8.2011).
+    8. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral quanto às alegações de contrariedade aos princípios do contraditório e da ampla defesa, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    9. A apreciação do pleito recursal demandaria o reexame do conjunto probatório dos autos, procedimento inviável em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal.
+    10. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República também não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência deste Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, RTJ 150/269):
+    11. Com relação à possibilidade de as Turmas ou Colégio Recursal fazerem remissão aos fundamentos da sentença, este Supremo Tribunal Federal decidiu não contrariar essa previsão legal a exigência constitucional de motivação das decisões judiciais:
+    “Juizado especial. Parágrafo 5º do art. 82 da Lei nº 9.099/95. Ausência de fundamentação. Artigo 93, inciso IX, da Constituição Federal. Não ocorrência. Possibilidade de o colégio recursal fazer remissão aos fundamentos adotados na sentença. Jurisprudência pacificada na Corte. Matéria com repercussão geral. Reafirmação da jurisprudência do Supremo Tribunal Federal” (RE 635.729-RG, Relator o Ministro Dias Toffoli, Tribunal Pleno, DJe 24.8.2011).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    12. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de fevereiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
