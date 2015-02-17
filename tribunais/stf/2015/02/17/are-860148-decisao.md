@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADICIONAL DE DESEMPENHO. REQUISITOS PARA PERCEPÇÃO: IMPOSSIBILIDADE DE REEXAME DE PROVAS E DA LEGISLAÇÃO LOCAL. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “SERVIDOR PÚBLICO ESTADUAL. BOMBEIRO MILITAR. ADICIONAL DE DESEMPENHO. APROVEITAMENTO DO TEMPO DE SERVIÇO PRESTADO NA PMMG. IMPOSSIBILIDADE. CONCESSÃO DO BENEFÍCIO. NÃO PREENCHIMENTO DOS REQUISITOS. - Para o reconhecimento do direito ao recebimento do Adicional de Desempenho, deve o servidor militar estadual preencher todos os requisitos dispostos no Decreto Estadual 44.889/08. -Não tendo o autor cumprido todos os requisitos exigidos por lei para obter o direito ao pagamento do Adicional de Desempenho, não há como conceder o benefício pretendido com data retroativa ao início do serviço prestado em outra instituição ” (fl. 124).
+    2. No recurso extraordinário, o Agravante afirma ter o Tribunal de origem contrariado o art. 5º, inc. XXXVI, da Constituição da República.
+    Sustenta que “os três anos exigidos na legislação são para a concessão do benefício. O Recorrente já tinha adquirido o direito ao adicional de desempenho da PMMG, não havendo, portanto, em que se falar em novo prazo para a concessão após a sua vinculação ao CBMMG” (fl. 133).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 280 do Supremo Tribunal Federal (fls. 153-154).
+    No agravo, assevera-se terem sido cumpridos “todos os requisitos exigidos por lei para obter o direito ao pagamento do adicional de desempenho, deve-se conceder a ele o benefício pretendido com data retroativa ao início do serviço prestado na instituição semelhante” (fl. 163).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão pela qual não se admite recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal de Justiça assentou:
+    “Não há como acolher a pretensão do autor no sentido de se aproveitar o período de serviço público por ele prestado na PMMG para a concessão do pretendido Adicional de Desempenho pelo Corpo de Bombeiro Militar, uma vez que tanto a Constituição Federal, quanto o Decreto Estadual 44.889/08, que é a norma específica que disciplina a possibilidade de concessão do Adicional de Desempenho para os servidores que integram as instituições militares do Estado de Minas Gerais, exigirem, como um dos critérios e ser observado, o prazo de três anos de efetivo serviço no cargo, que tem como marco inicial a entrada em exercício do servidor naquele cargo em que aprovado em concurso público” (fl. 125-v).
+    A pretensão do Agravante exigiria a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário (Súmula n. 279 do Supremo Tribunal Federal).
+    A apreciação do pleito recursal exigiria, ainda, a análise e a interpretação da legislação infraconstitucional aplicável à espécie (Decreto estadual n. 44.889/2008). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento válido do recurso extraordinário. Incide, na espécie, a Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MILITAR INATIVO. ADICIONAL DE DESEMPENHO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULAS 279 E 280). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 704.321-AgR, de minha relatoria, Primeira Turma, DJe 14.8.2009).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADICIONAL DE DESEMPENHO. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. Controvérsia relativa ao Adicional de Desempenho apreciada à luz de legislação de direito local, circunstância impeditiva à apreciação do extraordinário. Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 791.927-AgR, Relator o Ministro Eros Grau, Segundo Grau,DJe 4.6.2010).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
