@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL. APELO EXTREMO MANEJADO CONTRA ACÓRDÃO PROFERIDO PELO ÓRGÃO ESPECIAL DO TRIBUNAL DE ORIGEM NO JULGAMENTO DE ARGUIÇÃO DE INCONSTITUCIONALIDADE. RECURSO PREMATURO. INCIDÊNCIA DA SÚMULA Nº 513 DO STF. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos, interposto por Indústria e Comércio de Bebidas Fratelly Ltda., com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário, manejado contra acórdão proferido pelo órgão especial do Tribunal de origem no julgamento de incidente de inconstitucionalidade, cuja ementa possui o seguinte teor:
+    “INCIDENTE DE INCONSTITUCIONALIDADE. 1) LEI ESTADUAL Nº 13.711/11. ENQUADRAMENTO DO CONTRIBUINTE NO REGIME ESPECIAL DE FISCALIZAÇÃO – REF. DEFINIÇÃO DE CONTRIBUINTE DEVEDOR CONTUMAZ. NÃO-VIOLAÇÃO AOS PRINCÍPIOS DA ISONOMIA, LIVRE EXERCÍCIO DE ATIVIDADE PROFISSIONAL E DA LIVRE INICIATIVA. SUPREMACIA DO INTERESSE PÚBLICO SOBRE O PRIVADO. SITUAÇÃO DE INADIMPLÊNCIA RECORRENTE QUE AUTORIZA A ATUAÇÃO DO ESTADO PELA VIA LEGAL E QUE NÃO SE CONFUNDE COM A INADIMPLÊNCIA PURA E SIMPLES. 2) DECRETO ESTADUAL N° 48.494/11. VÍCIOS DE INCONSTITUCIONALIDADE DETECTADOS. RESTRIÇÕES ABUSIVAS AOS CONTRIBUINTES CLASSIFICADOS COMO DEVEDORES CONTUMAZES. OBSTÁCULOS AO DESEMPENHO DA LIVRE ATIVIDADE ECONÔMICA. MÁCULA AO PRINCÍPIO DA LIVRE CONCORRÊNCIA E VIOLAÇÃO AO PRINCÍPIO DA NÃO-CUMULATIVIDADE DO ICMS.
+    INCIDENTE DE INCONSTITUCIONALIDADE JULGADO IMPROCEDENTE, POR MAIORIA.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, caput e XIII; 150, II; 155, § 2º, I; e 170, caput, IV e parágrafo único, da Constituição Federal.
+    O Tribunal de origem negou seguimento ao recurso extraordinário, por entender que o acórdão recorrido está em consonância com a jurisprudência desta Corte.
+    É o relatório. DECIDO.
+    O agravo não merece provimento.
+    O recurso extraordinário foi manejado de forma prematura, haja vista que a decisão que autoriza a interposição do apelo extremo não é a do plenário ou órgão especial que resolve o incidente de inconstitucionalidade, mas aquela proferida posteriormente pelo órgão competente, que completa o julgamento do feito. Incide, no caso, o óbice da Súmula nº 513 do STF, que dispõe, verbis: “A decisão que enseja a interposição de recurso ordinário ou extraordinário não é a do Plenário, que resolve o incidente de inconstitucionalidade, mas a do Órgão (Câmara, Grupos ou Turmas) que completa o julgamento do feito”.
+    Nesse sentido: ARE 853.013, Rel. Min. Roberto Barroso, julgado em 19/12/2014; ARE 824.482, Rel. Min. Gilmar Mendes, DJe de 2/9/2014; ARE 751.397, Rel. Min. Celso de Mello, DJe de 7/6/2013; ARE 689.559, Rel. Min. Rosa Weber, DJe de 18/12/2012; ARE 706.056, Rel. Min. Joaquim Barbosa, DJe de 31/10/2012; e RE 535.523-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 29/3/2011, cuja ementa possui o seguinte teor:
+    “RECURSO EXTRAORDINÁRIO. PREMATURO. JULGAMENTO. ÓRGÃO ESPECIAL. ARGUIÇÃO DE INCONSTITUCIONALIDADE. DECISÃO PROFERIDA PELO ÓRGÃO COMPETENTE QUE COMPLETA O JULGAMENTO DO FEITO. NÃO OCORRÊNCIA. SÚMULA 513 DO STF. AGRAVO IMPROVIDO.
+    I – O recurso extraordinário foi interposto prematuramente, uma vez que a decisão que enseja a interposição do extraordinário não é a do Órgão Especial que julgou o incidente de inconstitucionalidade, mas aquela proferida, posteriormente, pelo órgão competente, que completa o julgamento do feito. Incidência da Súmula 513 do STF. Precedentes.
+    II - Agravo regimental improvido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
