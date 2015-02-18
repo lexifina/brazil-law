@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de medida liminar, contra acórdão do Tribunal Superior do Trabalho (Processo 000029680.2012.5.08.0122), que teria ofendido a autoridade da Súmula Vinculante 4 ao decidir que “A estipulação do salário profissional dos engenheiros por múltiplos do salário-mínimo não vulnera o disposto no art. 7°, IV, da Constituição Federal, o qual veda somente a automática correção do salário profissional baseado no reajuste do salário-mínimo” (doc. 27, fl. 1). Requer a concessão da medida liminar, por entender presentes os requisitos necessários para seu deferimento. Em Petição 2.943/2015, o reclamante postula a retificação da autuação para constar a 4ª Turma do Tribunal Superior do Trabalho – TST, como autoridade reclamada.
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, para garantir a efetividade do resultado do futuro e provável juízo de procedência. Na espécie, ambos os requisitos estão ausentes.
+    Quanto ao fumus boni iuris, não está evidenciada a determinação de indexação no acórdão proferido pela 4ª Turma do TST. Da mesma forma, o requisito da urgência não se encontra presente. É que não há nos autos nenhuma demonstração de risco de dano irreparável, pois a alegação vinculada ao envolvimento de recursos públicos, por si só não justifica a indispensabilidade da medida liminar pleiteada. De todo oportuno, portanto, que se ouça a autoridade reclamada sobre a situação fática questionada nos autos.
+    3. Ante o exposto, indefiro a liminar. Retifique-se a autuação para constar a 4ª Turma do Tribunal Superior do Trabalho – TST como autoridade reclamada. Solicitem-se informações à autoridade reclamada. Após, à Procuradoria-Geral da República para parecer.
+    Publique-se. Intime-se.
+    Brasília, 18 de fevereiro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
