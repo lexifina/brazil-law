@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. DANO MORAL POR MORTE DE MENOR. INDENIZAÇÃO FIXADA COM BASE NO SALÁRIO MÍNIMO. POSSIBILIDADE. CORREÇÃO MONETÁRIA CONFORME SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO PAGAMENTO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM DIVERGÊNCIA COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. RECURSO EXTRAORDINÁRIO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário interposto pelo SESC – ADMINISTRAÇÃO REGIONAL NO ESTADO DA BAHIA, com fulcro no art. 102, III, a, da Constituição Federal, contra acórdão assim ementado:
+    “RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. MORTE DE MENOR. PRELIMINAR DE INTEMPESTIVIDADE REJEITADA. PISCINA DE CLUBE. AFOGAMENTO. CULPA CONCORRENTE. PENSÃO. PRESUNÇÃO DE QUE O MENOR AUFERIRIA RENDA E CONTRIBUIRIA PARA O SUSTENTO DA FAMÍLIA ENTE SEUS 16 E OS 25 ANOS DE IDADE. AUSÊNCIA DE PEDIDO EXPRESSO DE 13º SALÁRIO. CONDENAÇÃO. POSSIBILIDADE POR DECORRÊNCIA DO PEDIDO DE PENSÃO. CONSTITUIÇÃO DE RENDA ATRAVÉS DE DEPÓSITO EM POUPANÇA, COMO FORMA DE GARANTIR O CUMPRIMENTO DA OBRIGAÇÃO ALIMENTAR. DANOS MORAIS. INDENIZAÇÃO. FIXADA COM BASE NO SALÁRIO MÍNIMO. INOCORRÊNCIA DE VIOLAÇÃO AO ART. 7º DA CF. SENTENÇA MANTIDA. APELO IMPROVIDO.”
+    Nas razões do apelo extremo, alega violação ao artigo 7º, IV, da Constituição Federal, por entender que a vinculação da indenização ao salário mínimo vigente à época do pagamento violaria a Constituição Federal.
+    Admitido o recurso extraordinário, subiram os autos.
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    O acórdão recorrido manteve a sentença, que assim dispôs:
+    “b) A título de danos morais, configurada a culpa concorrente, estipulo a indenização a ser paga pela ré à autora em 50 (cinquenta salários mínimos (quinze mil reais), cujo valor deverá ser calculado com base no salário mínimo vigente à época do seu pagamento.”
+    Dessa forma, verifica-se que o acórdão recorrido divergiu do entendimento firmado por esta Corte, no sentido de que a fixação da indenização em múltiplos do salário mínimo não contraria a Constituição da República, desde que não haja atrelamento da correção monetária ao salário mínimo. Nesse sentido, colacionam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. POSSIBILIDADE DE FIXAÇÃO DE PENSÃO COM BASE NO SALÁRIO MÍNIMO. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O Supremo Tribunal Federal assentou que a fixação de pensão no valor do salário mínimo não contraria a Constituição da República, desde que não haja atrelamento da correção ao salário mínimo.” (RE 634.162-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 25/5/2011)
+    “Agravo regimental no recurso extraordinário. Indenização. Fixação da condenação em salários mínimos vigentes à época. Possibilidade. Precedentes. 1. A jurisprudência desta Corte firmou entendimento no sentido de que o valor da indenização pode ser vinculado ao salário mínimo quando a condenação, apesar de fixada em múltiplos de salários mínimos, tem apenas a intenção de expressar o valor inicial da indenização, o qual, se necessário, será atualizado pelos índices oficiais de correção monetária. 2. Agravo regimental não provido.” (RE 395.730-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJ 4/5/2012).
+    Ex positis, DOU PROVIMENTO ao recurso extraordinário, para determinar que o quantum indenizatório fixado pela sentença seja calculado com base no salário mínimo vigente na data da condenação, quantia que deverá ser atualizada, a partir de então, pelos índices oficiais de correção monetária.
+    Tendo em vista a pequena alteração no conteúdo da decisão proferida pelo Tribunal a quo, fica inalterada a distribuição dos ônus da sucumbência.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
