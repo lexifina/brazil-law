@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 343, de 16 de dezembro de 2014
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS EMENTA: DIPJ. ECD. No caso de transformação de sociedade de economia mista para autarquia, deve a pessoa jurídica original entregar a DIPJ (Declaração de Informações Econômico-Fiscais da Pessoa Jurídica) e a ECD (Escrituração Contábil Digital) até o último dia útil do mês subsequente ao do evento, observado o disposto na IN RFB n. 946/2009. DISPOSITIVOS LEGAIS: Lei 6.404/1976, art. 220; Código Civil, art. 1.113; IN RFB n. 787/2007, art. 5º, § 1º; IN RFB n. 1.264/2012, arts. 4º, § 1º, II, e 5º, § 1º.
+[arquivo anexo: SC Cosit nº 343-2014.pdf]
