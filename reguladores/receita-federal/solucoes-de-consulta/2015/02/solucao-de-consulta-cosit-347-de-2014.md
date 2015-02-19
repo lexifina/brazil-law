@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 347, de 17 de dezembro de 2014
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: RETENÇÃO 11% - ARTIGO 31 DA LEI Nº 8.212, DE 1991 - IMPLANTAÇÃO DE SISTEMAS DE COMPRESSÃO – INAPLICABILIDADE A instalação de maquinário feita pelo locador, sob a direção deste, nas dependências do locatário, não caracteriza cessão de mão-de-obra, razão pela qual não está sujeita à retenção previdenciária prevista no artigo 31 da Lei nº 8.212, de 1991. DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 31; Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 1999, art. 219; Instrução Normativa RFB nº 971, de 2009, arts.115, 118, XVIII, e 124.
+[arquivo anexo: SC Cosit nº 347-2014.pdf]
