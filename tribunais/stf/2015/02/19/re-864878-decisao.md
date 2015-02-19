@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que a parte recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. O Supremo Tribunal Federal firmou entendimento no sentido de que a União, ao editar a Lei 9.717/1998, extrapolou os limites de sua competência para estabelecer normas gerais sobre matéria previdenciária (ACO 830 TAR / PR – PARANÁ, TUTELA ANTECIPADA - REFERENDO AÇÃO CÍVEL ORIGINÁRIA, Rel. Min. MARCO AURÉLIO, Tribunal Pleno, DJe de 11/4/2008). Eis a ementa do julgado:
+    Ementa: SEPARAÇÃO DE PODERES - PREVIDÊNCIA SOCIAL - AÇÃO CÍVEL ORIGINÁRIA - TUTELA. Surge relevante pedido voltado ao implemento de tutela antecipada quando estão em jogo competência concorrente e extravasamento do campo alusivo a normas gerais considerada previdência estadual.
+    O Tribunal de origem, por sua vez, manteve os termos da sentença que julgou procedente o pedido do ente municipal “para reconhecer a ilegitimidade prevista no art. 7º da Lei 9.717/98 (…), sendo inexigível o Certificado de Regularidade Previdenciária (CRP) do Município de Solidão-PE, devendo a ré proceder à exclusão do conceito de irregular do Autor junto ao Cadastro de Regime Próprio de Previdência Social – CADPREV e do Cadastro Único de Convênios – CAUC, e abster-se, ainda, de obstaculizar operações financeiras, desde que o fundamento da inclusão em cadastro irregular ou não repasse das operações referidas tenha decorrido da não apresentação do CRP” - e-STJ, fl. 199. O acórdão impugnado está assim ementado:
+    CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. MUNICÍPIO. CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA. EXIGÊNCIAS. ARTS. 7º E 9º, DA LEI 9.717/98. ARTS. 1º E 2º, DO DECRETO 3.788/01. PRECEDENTES DO STF NS AÇÕES ORIGINÁRIAS 830/PR E 702/CE E DO TRF5. (…) - e-STJ, fl. 234.
+    Com efeito, por estar em consonância com o entendimento jurisprudencial acima demonstrado, o aresto recorrido não merece ser reformado. Nesse mesmo sentido, veja-se recente acórdão da 2ª Turma desta Corte:
+    Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. RESTRIÇÕES DA LEI N. 9.717/1998. NORMAS GERAIS. PREVIDÊNCIA SOCIAL. EXTRAVASAMENTO DA COMPETÊNCIA DA UNIÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (RE 808352 AgR / PE – PERNAMBUCO, Relator(a): Min. CÁRMEN LÚCIA, Órgão Julgador: Segunda Turma, DJe de 7/11/2014)
+    3. Diante do exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 19 de fevereiro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
