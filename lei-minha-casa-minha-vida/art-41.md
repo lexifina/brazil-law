@@ -1,2 +1,2 @@
 Art. 41. A partir da implementação do sistema de registro eletrônico de que trata o art. 37, os serviços de registros públicos disponibilizarão ao Poder Judiciário e ao Poder Executivo federal, por meio eletrônico e sem ônus, o acesso às informações constantes de seus bancos de dados, conforme regulamento.
-Parágrafo único. O descumprimento do disposto no caput ensejará a aplicação das penas previstas nos incisos II a IV do caput art. 32 da Lei nº 8.935, de 18 de novembro de 1994
+Parágrafo único. O descumprimento do disposto no caput ensejará a aplicação das penas previstas nos incisos II a IV do caput do art. 32 da Lei nº 8.935, de 18 de novembro de 1994.
