@@ -1,0 +1,26 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão do Ministro Gurgel de Faria, do Superior Tribunal de Justiça, proferida nos autos da Reclamação 14.688/RJ.
+    Consta dos autos, em síntese, que: (a) o paciente foi condenado à pena de 7 meses de detenção, em regime aberto, pela prática do crime de desacato (art. 331 do CP), por duas vezes, em continuidade delitiva (art. 71 do CP), reprimenda que foi substituída por uma sanção restritiva de direitos, consistente em pagamento de prestação pecuniária; (b) inconformado, apelou para a Turma Recursal dos JECRIMs da Capital (Rio de Janeiro), que lhe negou provimento; (c) buscando dirimir divergência entre o acórdão prolatado pela Turma Recursal e a orientação jurisprudencial do Superior Tribunal de Justiça, a defesa ajuizou reclamação no STJ, ocasião em que o Ministro Relator negou seguimento ao pedido, em decisão assim fundamentada:
+    “Trata-se de reclamação oferecida por ORLANDO QUATRINI NETO, com fundamento na Resolução STJ n. 12/2009, com o fim de dirimir divergência entre acórdão prolatado pela SEGUNDA TURMA RECURSAL CRIMINAL DO ESTADO DO RIO DE JANEIRO e a orientação jurisprudencial firmada por esta Corte.
+    Aduz o reclamante que o acórdão ora reclamado diverge da jurisprudência desta Corte no julgamento do HC 80773/RJ e do HC 66312/RJ, firmando entendimento no sentido de que no caso de concurso de crimes a pena a ser considerada para fixação da competência dos juizados especiais será o resultado da soma das penas máximas cominadas aos delitos.
+    Conclui requerendo que seja julgada procedente a presente reclamação, com a aplicação do entendimento deste Superior Tribunal de Justiça.
+    Passo a decidir.
+    Primeiramente, cumpre destacar que a inicial da reclamação não foi instruída com cópia da certidão de publicação do aresto reclamado, de modo a possibilitar a aferição da tempestividade.
+    Note-se que esta Corte já se manifestou no sentido de que a mera reprodução de extrato de andamento processual extraído da página do respectivo tribunal na internet não se presta a tal finalidade.
+    Ademais, ainda que assim não fosse entendido, o STJ, interpretando a citada Resolução, decidiu que a jurisprudência a ser considerada para efeito do cabimento da reclamação é apenas a relativa a direito material, consolidada em súmulas ou teses adotadas no julgamento de recursos repetitivos (CPC, art. 543-C).
+    É certo que, excepcionalmente, restando demonstrada a teratologia da decisão judicial impugnada, esta Corte tem se manifestado no sentido de ser possível a relativização das estritas hipóteses de cabimento da reclamação fundamentada na Resolução em comento, desde que presente situação manifestamente absurda, ilegal ou abusiva. Neste sentido:
+    (…)
+    Na hipótese dos autos, ainda que pudesse restar vislumbrada a ocorrência de teratologia do aresto reclamado, da análise dos autos verifica-se que a reclamante indicou como divergentes julgados proferidos em sede de habeas corpus o que inviabiliza a relativização das hipóteses de cabimento.
+    Note-se que a Terceira Seção deste Tribunal já se manifestou no sentido de que não há qualquer prejuízo - na esfera penal - na adoção do entendimento que restringe as hipóteses de cabimento da reclamação, tendo em vista que a matéria penal pode ser submetida a esta Corte em sede de habeas corpus ou recurso ordinário em habeas corpus.
+    Neste sentido: (…)
+    Assim, exsurge certo que não restaram atendidas as exigências para a admissão da presente reclamação.
+    Ante o exposto, com fundamento no art. 34, XVIII, do RISTJ, c/c o art. 1º, § 2º, da Resolução n. 12/2009, indefiro o processamento da reclamação.
+    Contra essa decisão a defesa interpôs agravo regimental e, na sequência, opôs embargos de declaração, ambos não conhecidos pelo Relator.
+    Nesta ação, o impetrante alega, em suma, que, “conforme entendimento pacífico da jurisprudência, tanto do Egrégio Superior Tribunal de Justiça quanto deste Pretório Excelso, no contexto da conjugação do art. 331 com o art. 71 do CP do qual resulte somatório da pena superior a 2 (dois) anos – hipótese aqui vertida – deve ser afastada a competência do Juizado Especial Criminal e declarada a competência da Justiça Comum”. Requer, ao final, liminarmente, seja declarada a incompetência do Juizado Especial Criminal, com a determinação de remessa dos autos da ação penal ao Justiça comum.
+    2. Os fundamentos invocados nesta impetração não foram examinados pela decisão impugnada, que se limitou a não conhecer do pedido porque “a inicial da reclamação não foi instruída com cópia da certidão de publicação do aresto reclamado, de modo a possibilitar a aferição da tempestividade”, e por inadequação da via eleita. Desse modo, qualquer conclusão desta Corte a respeito implicaria supressão de instância (v.g., RHC 93304, Relator(a): Min. JOAQUIM BARBOSA, Segunda Turma, Dje de 19-12-2008; HC 112100, Relator(a): Min. CEZAR PELUSO, Segunda Turma, Dje de 27-08-2012; HC 113490, Relator(a): Min. LUIZ FUX, Primeira Turma, Dje de 10-09-2012).
+    3. Ante o exposto, nego seguimento ao pedido. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 19 de fevereiro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
