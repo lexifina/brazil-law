@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 346, de 17 de dezembro de 2014
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF EMENTA: DESPESAS MÉDICAS. DESPESAS COM ADAPTAÇÕES VEICULARES. DEDUÇÃO. IMPOSSIBILIDADE. FALTA DE PREVISÃO LEGAL. São indedutíveis da base de cálculo do imposto sobre a renda da pessoa física as despesas relativas a adaptações veiculares necessárias em razão de deficiência física. DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 - Código Tributário Nacional, arts. 111 e art. 142, parágrafo único; Lei nº 9.250, de 1995, art. 8º, II, “a”; Instrução Normativa SRF nº 15, de 2001, art. 43, § 7º e Lei nº 8.989, de 1995, art. 1º, IV, com a redação dada pelo art. 2º da Lei nº 10.690, de 2003.
+[arquivo anexo: SC Cosit nº 346-2014.pdf]
