@@ -1,0 +1,7 @@
+Solução de Divergência Coana nº 10, de 18 de fevereiro de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Soluciona divergência e reforma a Solução de Consulta SRRF/7ªRF/Diana nº 65, de 13 de outubro de 2011. Código NCM: 3926.90.40 Mercadoria: Chupeta com bico em silicone e alça, escudo e fixador em policarbonato. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.26) e RGI 6 (textos da subposição 3926.90) e RGC 1 (texto do subitem 3926.90.40) da NCM constante da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Soluciona divergência e reforma a Solução de Consulta SRRF/7ªRF/Diana nº 65, de 13 de outubro de 2011.
+Código NCM: 3926.90.40 Mercadoria: Chupeta com bico em silicone e alça, escudo e fixador em policarbonato.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.26) e RGI 6 (textos da subposição 3926.90) e RGC 1 (texto do subitem 3926.90.40) da NCM constante da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+CLAUDIA ELENA FIGUEIRA CARDOSO NAVARRO Presidente do Comitê
