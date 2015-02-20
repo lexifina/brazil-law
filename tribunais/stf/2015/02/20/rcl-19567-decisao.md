@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Luiz Henrique Morgantini Santos afirma haver o Juízo da 18ª Vara Cível e Ambiental da Comarca de Goiânia/GO, no Processo nº 201201842071 (184207-38.2012.8.09.0051), olvidado o que decidido na Arguição de Descumprimento de Preceito Fundamental nº 130/DF.
+    Segundo narra, o Governador do Estado de Goiás, Marconi Ferreira Perillo Júnior, ajuizou contra si ação de indenização em virtude da publicação de certo artigo de opinião veiculado, em 28 de maio de 2012, no sítio eletrônico “Portal Brasil 247”. Relata a própria condenação ao pagamento de quinze mil reais, a título de reparação civil, bem como em obrigação de retirar o texto de circulação.
+    Diz do provimento de declaratórios, no que afastados do conteúdo da sentença os adjetivos lançados em favor do Chefe do Executivo local e reduzido o valor da indenização para dez mil reais. Sobreveio apelação. Remetido o processo ao Tribunal de Justiça, o relator determinou o retorno à origem visando o julgamento de segundos declaratórios, pendentes de apreciação. Desprovidos, o processo voltou ao Tribunal de Justiça. Informa a certificação do trânsito em julgado ante a ausência de ratificação da apelação. Baixado o processo, noticia ter requerido o reenvio do caso ao Tribunal objetivando a respectiva intimação quanto ao trânsito em julgado e a abertura de prazo para a interposição do recurso adequado, havendo o Juízo indeferido o pleito. Agravo de instrumento protocolado teve a sequência obstada, pronunciamento mantido em sede de regimental.
+    Discorre sobre a desnecessidade de ratificação da apelação, uma vez não modificada a sentença ante o desprovimento dos declaratórios em primeira instância. Cita jurisprudência e o Verbete nº 418 da Súmula do Superior Tribunal de Justiça. Sustenta, no mérito, inadequada a decisão condenatória, considerada a liberdade de opinião e de imprensa. Ressalta ter o Supremo declarado, na Arguição de Descumprimento de Preceito Fundamental nº 130, a ausência de recepção da Lei nº 5.250/67 – Lei de Imprensa. Transcreve trecho do voto do ministro Celso de Mello relativo ao mencionado precedente.
+    Sob o ângulo do risco, alude à possibilidade de indevida constrição patrimonial.
+    Pede, em sede liminar, a suspensão do ato impugnado e, alfim, a cassação do pronunciamento.
+    2. Atentem para as balizas do caso concreto. Consoante indicado na inicial, esta reclamação, protocolada em 28 de janeiro de 2015, foi formalizada após a certificação do trânsito em julgado da sentença impugnada, ocorrido em 20 de março de 2014 – folha 146 do processo originário. Descabe arguir, nesta via, a erronia do ato cartorário praticado na origem, considerados os limites próprios da reclamação. É inadequada a utilização da medida para atacar pronunciamento já coberto pelos efeitos da coisa julgada. Observem o disposto no Verbete nº 734 da Súmula do Tribunal:
+    Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.
+    3. Ante o quadro, nego seguimento ao pedido formulado na reclamação.
+    4. Publiquem.
+Brasília, 20 de fevereiro de 2015.
+Ministro MARCO AURÉLIO
+Relator
