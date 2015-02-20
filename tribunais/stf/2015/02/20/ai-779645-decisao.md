@@ -1,0 +1,16 @@
+DECISÃO: A controvérsia suscitada no recurso extraordinário a que se refere o presente agravo de instrumento já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (AI 598.212-ED/PR, Rel. Min. CELSO DE MELLO – AI 674.764-AgR/PI, Rel. Min. DIAS TOFFOLI – AI 734.487-AgR/PR, Rel. Min. ELLEN GRACIE – AI 739.151-AgR/PI, Rel. Min. ROSA WEBER – AI 759.543-AgR/RJ, Rel. Min. CELSO DE MELLO – RE 634.643-AgR/RJ, Rel. Min. JOAQUIM BARBOSA – RE 642.536- -AgR/AP, Rel. Min. LUIZ FUX, v.g.):
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. DETERIORAÇÃO DAS INSTALAÇÕES DE INSTITUIÇÃO PÚBLICA DE ENSINO. CONSTRUÇÃO DE NOVA ESCOLA. POSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. GARANTIA DO DIREITO À EDUCAÇÃO BÁSICA. PRECEDENTES.
+    As duas Turmas do Supremo Tribunal Federal possuem entendimento de que é possível ao Judiciário, em situações excepcionais, determinar ao Poder Executivo a implementação de políticas públicas para garantir direitos constitucionalmente assegurados, a exemplo do direito ao acesso à educação básica, sem que isso implique ofensa ao princípio da separação dos Poderes. Precedentes.
+    Agravo regimental a que se nega provimento.”
+    (ARE 761.127-AgR/AP, Rel. Min. ROBERTO BARROSO – grifei)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. TRANSPORTE DE ALUNOS DA REDE ESTADUAL DE ENSINO. OMISSÃO DA ADMINISTRAÇÃO. EDUCAÇÃO. DIREITO FUNDAMENTAL INDISPONÍVEL. DEVER DO ESTADO.
+    1. A educação é um direito fundamental e indisponível dos indivíduos. É dever do Estado propiciar meios que viabilizem o seu exercício. Dever a ele imposto pelo preceito veiculado pelo artigo 205 da Constituição do Brasil. A omissão da Administração importa afronta à Constituição.
+    2. O Supremo fixou entendimento no sentido de que ‘[a] educação infantil, por qualificar-se como direito fundamental de toda criança, não se expõe, em seu processo de concretização, a avaliações meramente discricionárias da Administração Pública, nem se subordina a razões de puro pragmatismo governamental [...]. Embora resida, primariamente, nos Poderes Legislativo e Executivo, a prerrogativa de formular e executar políticas públicas, revela-se possível, no entanto, ao Poder Judiciário determinar, ainda que em bases excepcionais, especialmente nas hipóteses de políticas públicas definidas pela própria Constituição, sejam essas implementadas pelos órgãos estatais inadimplentes, cuja omissão – por importar em descumprimento dos encargos políticos-jurídicos que sobre eles incidem em caráter mandatório – mostra-se apta a comprometer a eficácia e a integridade de direitos sociais impregnados de estatura constitucional’. Precedentes.
+    Agravo regimental a que se nega provimento.”
+    (RE 603.575-AgR/SC, Rel. Min. EROS GRAU – grifei)
+    O exame da causa em que interposto o recurso extraordinário em questão evidencia que o acórdão impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao presente agravo de instrumento.
+    Publique-se.
+    Brasília, 20 de fevereiro de 2015.
+Ministro CELSO DE MELLO
+Relator
