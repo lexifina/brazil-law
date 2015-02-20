@@ -1,0 +1,38 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+    Na espécie, a ora recorrente, Margarida Maria Cidral, foi denunciada pela suposta prática do delito tipificado no art. 171, caput, do Código Penal.
+    Sobreveio sentença julgando procedente a denúncia e condenando a então ré à pena de de 3 (três) anos e 10 (dez) meses de reclusão, em regime semiaberto, bem como a 30 (trinta) dias-multa.
+    Interposta apelação pela defesa, esta restou parcialmente provida. Confira-se a ementa:
+    “APELAÇÃO CRIME. ESTELIONATO. NARRATIVA DA DENÚNCIA. CAPITULAÇÃO. PRINCÍPIO DA CORRELAÇÃO. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. CRITÉRIO OBJETIVO.
+    1 – Muito embora não tenha constado da capitulação da denúncia a indicação que se ré as condutas de obter vantagem ilícita, mediante fraude, em prejuízo a cinco vítimas distintas, nominando-as. Ora, é sabido que os acusados em geral se defendem dos fatos narrados na denúncia e não apenas na qualificação jurídica que lhes foi dada na peça incoativa. No caso em tela, houve a descrição do agir da denunciada, com todos os requisitos exigidos pelo art. 41 do CPP, culminando com a indicação de que obteve para si a vantagem indevida em detrimento a cinco vítimas diversas, o que permitiu o reconhecimento da continuidade delitiva.
+    2 – Por infringência ao princípio da correlação entre a denúncia e sentença – que é uma garantia do acusado que não pode ser usurpada – a condenação em relação a uma sexta vítima deve ser extirpada da sentença, porquanto não descrito o respectivo fato na denúncia, não possuindo, portanto, qualquer efeito no apenamento.
+    3 – Quanto ao critério de fixação do índice de aumento nos casos de crime continuado, previsto no artigo 71, “caput”, do Código Penal, adota-se critério objetivo, segundo o qual se leva em consideração tão somente a quantidade de crimes praticados. No caso em comento, portanto, deve ser aplicada a fração de 1/3 sobre a pena maior, já que cometidos cinco crimes de estelionato.
+    PRELIMINAR REJEITADA.
+    APELAÇÃO PARCIALMENTE PROVIDA”.
+    Opostos dois embargos de declaração pela defesa, estes restaram rejeitados.
+    Daí a interposição do apelo extremo defensivo, com fundamento no art. 102, inciso III, alínea a, do permissivo constitucional, sustentando-se, em resumo, violação ao art. 5º, inciso LV, da Constituição Federal.
+    A recorrente aduz, em síntese, a nulidade do acórdão que julgou os embargos de declaração, uma vez que o Tribunal não enfrentou as teses jurídicas suscitadas. Assevera, ainda, a ocorrência de violação ao sistema acusatório, tendo em vista que a audiência de instrução ocorreu sem a presença do promotor de justiça, tendo o magistrado assumido um papel que constitucionalmente pertence ao Ministério Público. Finalmente, ressalta a deficiência da defesa, em razão de atuação pro forma da Defensoria Pública, que se limitou a afirmar que a ré não cometera o delito, deixando de apresentar o rol de testemunhas.
+    O Tribunal a quo negou trânsito ao recurso extraordinário, invocando como óbices os enunciados 279, 282, 284 e 356 da Súmula do STF.
+    É o breve relatório.
+    Decido.
+    As razões expendidas no recurso não merecem prosperar.
+    Preliminarmente, a recorrente postula a nulidade do julgamento em razão de suposta omissão do Tribunal a quo, por não ter enfrentado as teses jurídicas suscitadas pela defesa.
+    Não vislumbro ilegalidade manifesta a ensejar o comprometimento da decisão objurgada. De pronto, cumpre apontar que o julgador não está obrigado a se manifestar acerca de todas as teses expendidas pelas partes, mas tão somente quanto àquelas que entender necessárias à solução do tema. Nesse ponto, tenho que a instância de origem pronunciou-se de forma satisfatória quanto aos pontos cruciais para o deslinde da questão, não havendo que se falar em contradição, obscuridade ou omissão, passíveis a ensejar a excepcional via dos embargos declaratórios.
+    Impende ressaltar que a defesa ofertou os embargos aclaratórios com fulcro em novos pedidos, não veiculados nas peças anteriores, tampouco nas razões de apelação.
+    Nessa perspectiva, afigura-se manifesta a impropriedade de invocação de novas questões nesta fase processual, notadamente por essa via inadequada.
+    Ainda que assim não fosse, conforme já referido, é assente que o Judiciário não está obrigado a se pronunciar sobre todas as questões pugnadas pela parte, sob pena de se comprometer a própria prestação jurisdicional.
+    Por outro lado, no que tange ao mérito, também não merece guarida as razões invocadas pela recorrente.
+    Consigne-se que a então apelante sequer mencionou os supostos vícios nas razões de apelação, motivo pelo qual a questão não foi enfrentada pelo Tribunal de origem.
+    No caso dos autos, conquanto o Ministério Público não estivesse presente na ocasião em que ouvidas as testemunhas comuns da acusação e da defesa, o certo é que o próprio artigo 212 do Código de Processo Penal permite que o juiz participe das inquirições, sendo-lhe facultada, outrossim, na busca da verdade real, a produção de provas necessárias à formação do seu livre convencimento, o que revela a inexistência do prejuízo suportado pelos acusados, sendo certo que o togado de origem não atuou como acusador, mas dentro dos limites que lhe são conferidos pelo ordenamento jurídico vigente. Ademais, a defesa teve a oportunidade de formular à testemunha os questionamentos que entendeu pertinentes para o embasamento de sua tese, razão pela qual eventual nulidade somente poderia ser reclamada pela parte caso constatado prejuízo diretamente daí decorrente, o que não sobreveio no caso concreto.
+    Insta observar que a jurisprudência desta Corte Suprema firmou o entendimento no sentido de que, para o reconhecimento de eventual nulidade, ainda que absoluta, faz-se necessária a demonstração do prejuízo.
+    Consoante frisou o Ministro Cezar Peluso, ao denegar a ordem no HC 82.899/SP: Não há, no processo penal, nulidade ainda que absoluta, quando do vício alegado não haja decorrido prejuízo algum ao réu.
+    É que o sistema das nulidades é norteado pelo princípio do prejuízo, ou seja, as formas processuais descumpridas devem ser invalidadas apenas quando verificado o prejuízo.
+    Ademais, dispõe o artigo 563 do CPP: nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa . Portanto, vê-se que a literalidade do dispositivo deixa clara a exigência do prejuízo para as partes para o reconhecimento da nulidade processual.
+    Nesse sentido, o STF tem reafirmado que a demonstração de prejuízo, a teor do artigo 563 do CPP, é essencial à alegação de nulidade, seja ela relativa ou absoluta, uma vez que o âmbito normativo do dogma fundamental da disciplina das nulidades pas de nullité sans grief compreende as nulidades absolutas.
+    Advirta-se, outrossim, que o Tribunal de origem solucionou a controvérsia com fulcro no arcabouço fático probatório, de forma suficientemente motivada e o recurso extraordinário decorre de mero inconformismo da parte, que não aceita seus fundamentos.
+    Nesse passo, para se entender de forma diversa do consubstanciado nos autos, seria necessária a reanálise da instrução probatória, providência vedada no âmbito do recurso extraordinário, tendo em vista o disposto na Súmula 279 do STF.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, inciso II, alínea b, do CPC).
+    Publique-se.
+    Brasília, 20 de fevereiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
