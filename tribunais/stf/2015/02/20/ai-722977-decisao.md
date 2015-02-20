@@ -1,0 +1,20 @@
+DESPACHO: A parte ora agravante sustenta a nulidade da intimação da decisão proferida no AI 722.977/SC, Rel. Min. AYRES BRITTO, eis que publicada em nome de advogado que não mais detinha representação processual (fls. 1.313/1.314).
+    O eminente Ministro JOAQUIM BARBOSA, ao apreciar tal pleito, oficiou ao Tribunal de Justiça do Estado de Santa Catarina “para que informe sobre os autos do Agravo de Instrumento 722.977” (fls. 1.334). Em resposta, o Tribunal local informou que “Após o recebimento dos autos na comarca de origem, fato ocorrido em 24 de novembro de 2011, foram juntadas ao feito principal (…) a decisão que negou seguimento ao agravo e as respectivas certidões de publicação e de trânsito em julgado, descartando-se as demais peças” (fls. 1.341 – grifei).
+    Tendo em vista a informação em referência, o Ministro JOAQUIM BARBOSA (então Presidente desta Suprema Corte) determinou a autuação dos autos principais como o AI 722.977/SC, juntando-se a petição em que se alega a nulidade em questão, e a redistribuição do feito, considerada a declaração de impedimento do Ministro TEORI ZAVASCKI (fls. 1.338/1.339).
+    Presente tal contexto, impende verificar, desde logo, que a Secretaria Judiciária desta Suprema Corte certificou o trânsito em julgado (fls. 1.307) da decisão de fls. 1.305/1.306, que apreciou o agravo de instrumento em questão.
+    O relevo jurídico que assume a certidão em referência deriva da circunstância de que as certidões expedidas pelos serventuários de Justiça revestem-se de fé pública.
+    Na realidade, a prerrogativa de certificação atribuída, por força de lei, aos serventuários de Justiça representa expressão inerente ao poder do Estado, o que permite conferir às certidões por eles expedidas a presunção “juris tantum” de veracidade, consoante tem assinalado, em reiterados pronunciamentos, a jurisprudência desta Suprema Corte (RTJ 57/29, Rel. Min. AMARAL SANTOS, v.g.):
+    “Não se pode desconhecer que as declarações dos Serventuários e dos Oficiais de Justiça, consubstanciadas nas certidões que exaram no regular exercício de suas atribuições funcionais, revestem-se de presunção ‘juris tantum’ de veracidade. Essa presunção legal, ainda que relativa e infirmável por prova em contrário, milita em favor dos atos praticados pelos Escrivães do Juízo e pelos Oficiais de Justiça, quer porque gozam, estes, de fé pública, inerente ao relevante ofício que desempenham, quer porque traduzem, aqueles, formal manifestação do próprio Estado.
+    As certidões emanadas desses agentes auxiliares do Juízo têm fé pública e prevalecem até que se produza prova idônea e inequívoca em sentido contrário. Meras alegações não descaracterizam o conteúdo de veracidade que se presume existente nesses atos processuais.”
+    (RTJ 133/1235-1236, Rel. Min. CELSO DE MELLO)
+    “PODER CERTIFICANTE DO SERVENTUÁRIO DE JUSTIÇA – FÉ PÚBLICA.
+    A função certificante, enquanto prerrogativa institucional que constitui emanação da própria autoridade do Estado, destina-se a gerar situação de certeza jurídica, desde que exercida por determinados agentes a quem se outorgou, ‘ministerio legis’, o privilégio da fé pública.”
+    (RTJ 167/981-982, Rel. Min. CELSO DE MELLO)
+    Portanto, embora suscetível de prova em contrário, tal ônus recai sobre aquela parte a quem a certidão é desfavorável, sendo certo que não há comprovação de que houve, nos autos do AI 722.977/SC, pedido no sentido de que a publicação fosse realizada em nome de representante processual diverso daquele em que se deu a intimação.
+    Sendo assim, intime-se, pessoalmente, o eminente Senhor Procurador-Geral do Município de Tubarão/SC, para que comprove, de modo inequívoco, a protocolização, nos autos do AI 722.977/SC, de pedido de alteração do nome do representante judicial do Município de Tubarão/SC.
+    Assino-lhe o prazo de 10 (dez) dias para atender à presente determinação.
+    2. Retifique-se a autuação, a fim de que conste, para efeito de intimação, o Procurador-Geral do Município de Tubarão/SC.
+    Publique-se.
+    Brasília, 20 de fevereiro de 2015.
+Ministro CELSO DE MELLO
+Relator
