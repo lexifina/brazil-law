@@ -1,0 +1,18 @@
+DECISÃO.
+    Vistos.
+    Município de Boa Vista interpõe agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Câmara Única - Turma Cível do Tribunal de Justiça do Estado de Roraima, assim ementado:
+    “AGRAVO DE INSTRUMENTO – EXECUÇÃO CONTRA A FAZENDA PÚBLICA – INEXISTÊNCIA DE PRECATÓRIO OU RPV – INCIDÊNCIA DOS JUROS DE MORA – APLICAÇÃO DO ART. 1º-F DA LEI Nº 9.494/97 – RECURSO PARCIALMENTE PROVIDO.”
+    Sustenta o recorrente, nas razões do recurso extraordinário, violação do artigo 100, caput e §§ 3º e 5º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que a discussão acerca do termo inicial dos juros moratórios, bem como os limites da coisa julgada fixada no título exequendo, está restrito ao campo da legislação infraconstitucional, cujo reexame não se mostra cabível em sede de recurso extraordinário. Nesse sentido, mencionem-se os seguintes julgados:
+    “1. Embargos de declaração recebidos como agravo regimental. 2. Inviável o processamento do extraordinário para discutir matéria nitidamente infraconstitucional, relativa ao termo inicial de incidência dos juros de mora decorrentes de sentença condenatória (CPC, art. 219). 3. Agravo regimental improvido” (AI nº 402.497/SE-ED, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 25/6/04).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO DE REPETIÇÃO DE INDÉBITO. TERMO INICIAL PARA INCIDÊNCIA DE JUROS MORATÓRIOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 494.535/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 16/5/12).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. JUROS MORATÓRIOS. FIXAÇÃO DO TERMO INICIAL. CONTROVÉRSIA INFRACONSTITUCIONAL. LIMITES DA COISA JULGADA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – A controvérsia sobre o termo inicial de incidência dos juros moratórios restringe-se à esfera infraconstitucional, devendo ser apreciada pelo Juízo de execução. II – A Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Precedentes. III - Agravo regimental improvido” (AI nº 808.471/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1/2/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF. ADMINISTRATIVO. DESAPROPRIAÇÃO. JUROS MORATÓRIOS E COMPENSATÓRIOS. COISA JULGADA. LIMITES OBJETIVOS. OFENSA INDIRETA À CONSTITUIÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II – Consoante jurisprudência desta Corte, a discussão acerca dos limites objetivos da coisa julgada situa-se em âmbito infraconstitucional. Eventual ofensa à Constituição seria meramente indireta. Precedentes. III – Agravo regimental a que se nega provimento” (RE nº 687.837/SP-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 4/9/14).
+    Por fim, se inexiste no caso dos autos precatório ou requisição de pequeno valor, não há que se falar em aplicação das normas suscitadas pelo recorrente.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
