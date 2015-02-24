@@ -1,0 +1,12 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 18ª Câmara da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “EXECUÇÃO POR TÍTULO JUDICIAL – SENTENÇA – Portarias nº 38 e 45 do DNAEE – Ilegalidade reconhecida – Repetição do indébito devida somente sobre o montante correspondentes ao aumento ilegal praticado no período compreendido entre março e novembro do ano de 1986, em que as referidas Portarias produziram efeitos – Impossibilidade da inclusão do valor da fatura do mês de março de 1986, em que as referidas Portarias produziram efeitos – Impossibilidade da inclusão do valor da fatura do mês de março de 1986 e do empréstimo compulsório devido à Eletrobrás – Aplicação dos juros moratórios de 0,5% ao mês a partir da citação – O conjunto probatório dos autos foi devidamente analisado – Aplicação do art. 252 do Regimento Interno do Egrégio Tribunal de Jusitça do Estado de São Paulo – Embargos parcialmente procedentes – Decisão mantida – Recurso improvido”
+    Os embargos de declaração opostos foram rejeitados ante a ausência de omissão, contradição ou obscuridade justificadora de eventual acolhimento (fl. 239 do segundo volume).
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, caput, da Carta. Sustenta que o acórdão violou o princípio da isonomia, na medida em que a recorrida cobra dos inadimplentes que deixam de pagar a conta de energia, juros de 12% ao ano, enquanto os créditos por ela devidos serão remunerados por juros de 6% ao ano.
+    Nos termos da jurisprudência da Corte, a questão relativa aos juros incidentes sobre o recebimento de valor a ser repetido não encontra ressonância constitucional. Confira-se, a propósito, a ementa a seguir:
+    EMPRÉSTIMO COMPULSÓRIO. ENERGIA ELÉTRICA. DEVOLUÇÃO. CORREÇÃO MONETÁRIA E JUROS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. PRECEDENTES. I - Inexistência de novos argumentos capazes de afastar as razões expendidas na decisão atacada. II - Agravo regimental improvido. (AI 557648 AgR, Rel. Min. Ricardo Lewandowski)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 24 de fevereiro de 2015.
+Ministro Roberto Barroso
+Relator
