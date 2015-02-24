@@ -1,0 +1,37 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 12ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Execução fiscal – ICMS – Embargos de devedor – CDA que preenche os requisitos legais – Imposto declarado e não pago não depende de prévia apuração em processo administrativo – Legalidade da base de cálculo por dentro – Legalidade da taxa Selic – Sentença de improcedência confirmada – Recurso desprovido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega ofensa aos arts. 5°, LIV e LV; 150, I; 192, § 3º, todos da Carta. Sustenta, em síntese, que (i) inscrição na dívida ativa realizada somente através das declarações prestados pelo sujeito passivo, sem a prática do lançamento, ocasiona eliminação do direito de defesa; (ii) é inconstitucional a cobrança do ICMS “por dentro” e (iii) é inaplicável a taxa Selic como indexador de débitos fiscais.
+    A decisão agravada negou seguimento ao recurso extraordinário, sob os seguintes fundamentos:
+    (i) os argumentos expendidos não são suficientes para infirmar as conclusões do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo;
+    (ii) tampouco restou evidenciado qualquer maltrato a normas constitucionais, não sendo atendida qualquer das hipóteses da alíneas a, b, c e d do permissivo constitucional; e
+    (iii) a análise demandaria o exame de matéria infraconstitucional, quando é sabido que a ofensa à Constituição Federal deve ser direta e frontal, e não por via reflexa.
+    A pretensão não merece acolhida. Com efeito, a jurisprudência do Supremo Tribunal Federal tem se orientado no sentido de que as alegações de nulidade da Certidão de Dívida Ativa não possuem ressonância constitucional. Neste sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CERTIDÃO DE DÍVIDA ATIVA. PRESCRIÇÃO. NULIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF. A pretensão recursal ampara-se em pretenso equívoco na contagem do prazo prescricional, o que decorreria da adoção de termo inadequado. A matéria não encontra repercussão imediata na Constituição Federal. Ademais, as razões de decidir assentadas pela instância ordinária só poderiam ser revistas mediante o revolvimento das provas constantes dos autos. Agravo regimental a que se nega provimento.” (AI 811.250-AgR, da minha relatoria)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DE CDA. LANÇAMENTO DE DÉBITO TRIBUTÁRIO COM BASE EM LEI POSTERIOR À OCORRÊNCIA DO FATO GERADOR DO TRIBUTO. LEI QUE REPETE O CONTEÚDO DE LEI ANTERIOR, VIGENTE A ÉPOCA DOS FATOS. IMPOSSIBILIDADE DA APLICAÇÃO DE LEI A FATOS GERADORES ANTERIORES À SUA VIGÊNCIA. VERIFICAÇÃO DO ATENDIMENTO DOS REQUISITOS DE VALIDADE DA CDA E DA EXISTÊNCIA DE PREJUÍZO PARA O EXECUTADO. NECESSIDADE DO EXAME DE PROVAS E LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279 E OFENSA INDIRETA À CF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – É inconstitucional permitir que lei que institua tributo seja aplicada a fatos geradores anteriores à sua vigência, em razão do princípio da irretroatividade (art. 150, III, a, da CF).
+    II – Lei nova que repete o conteúdo de lei anterior, quanto à previsão de tributo, dispensa a obediência às regras da anterioridade tributária, mas os fatos geradores são regidos dentro do período de vigência da cada norma.
+    III – A verificação do atendimento aos requisitos de validade da CDA e da existência de prejuízo para o executado no caso concreto depende da reanálise dada ao conjunto fático-probatório dos autos e do exame de normas infraconstitucionais. Inviabilidade do extraordinário. Súmula 279 do STF e ofensa indireta.
+    IV - Agravo regimental a que se nega provimento.(RE 776.156-AgR, Rel. Min. Ricardo Lewandowski)
+    Agravo regimental em agravo de instrumento. 2. Tributário. Nulidade de CDA. 3. Incidência do Enunciado 27 da Súmula do STF. 4. Necessidade de exame prévio de normas infraconstitucionais. Ofensa reflexa. 5. Agravo regimental a que se nega provimento.” (AI 778.746-AgR, Rel. Min. Gilmar Mendes)
+    No caso dos autos, note-se que o acórdão recorrido consignou o seguinte:
+    “Contrariamente ao que sustenta a parte, a certidão não padece de nenhum vício, ela traz em si todos os elementos necessários à perfeita compreensão do débito principal e encargos que se cobra, bem assim a forma de cálculo, de modo que nem se discute sobre isso.”
+    Com efeito, dissentir das conclusões adotadas demandaria apenas o reexame do acervo probatório constante dos autos, providência vedada nesta fase processual, nos termos da Súmula 279/STF.
+    Ademais, quanto à utilização da Taxa Selic como índice de atualização de débitos tributários, verifico que esta Corte, nos autos do RE 582.461-RG, julgado sob relatoria do Ministro Gilmar Mendes, consignou que se trata de índice oficial, motivo pelo qual sua aplicação não contraria qualquer preceito constitucional. Confira-se, a propósito, trecho da ementa da decisão:
+    1. Recurso extraordinário. Repercussão geral. 2. Taxa selic. Incidência para atualização de débitos tributários. Legitimidade. Inexistência de violação aos princípios da legalidade e da anterioridade. Necessidade de adoção de critério isonômico. No julgamento da ADI 2.214, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 19.4.2002, ao apreciar o tema, esta Corte assentou que a medida traduz rigorosa igualdade de tratamento entre contribuinte e fisco e que não se trata de imposição tributária. (…)
+    Por fim, cumpre registrar que é firme a jurisprudência desta Corte no sentido de reconhecer a constitucionalidade da inclusão do montante do ICMS em sua própria base de cálculo. No mesmo sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. INCLUSÃO DO TRIBUTO EM SUA PRÓPRIA BASE DE CÁLCULO. “CÁLCULO  POR DENTRO”. CONSTITUCIONALIDADE. PRECEDENTES.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a sistemática de inclusão do ICMS em sua própria base de cálculo, denominada “cálculo por dentro”, não ofende a Constituição Federal. Precedente: RE 582.461, da relatoria do ministro Gilmar Mendes.
+    2. Agravo regimental desprovido.” (RE 524.031-AgR, Rel. Min. Ayres Britto)
+    “Agravo regimental no agravo de instrumento. Tributário. ICMS. Cálculo “por dentro”. Precedentes.
+    1. A Corte consolidou entendimento no sentido da constitucionalidade da inclusão do ICMS na sua própria base de cálculo.
+    2. Agravo regimental não provido.” (AI 651.873-AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL.
+    CONSTITUCIONAL. TRIBUTÁRIO. ICMS CÁLCULO POR DENTRO.CONSTITUCIONALIDADE.
+    É constitucional a inclusão do montante do ICMS em sua própria base de cálculo (RE 582.461, rel. Min. Gilmar Mendes, Pleno, DJ de 18.08.2011).
+    Agravo regimental a que se nega provimento.” (AI 510.439-AgR, Rel. Min. Joaquim Barbosa)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
