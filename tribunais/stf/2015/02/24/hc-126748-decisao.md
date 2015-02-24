@@ -1,0 +1,23 @@
+Decisão:
+Ementa: Habeas corpus. Tráfico de entorpecentes. Dosimetria da pena. Habeas corpus a que se nega seguimento.
+    1. Trata-se de habes corpus, sem pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria da Ministra Maria Thereza de Assis Moura, assim ementado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AO ART. 59 DO CP. DOSIMETRIA. MALFERIMENTO AO ART. 33, § 4º, DA LEI Nº 11.343/06. CAUSA DE DIMINUIÇÃO DE PENA. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ART. 255/RISTJ. INOBSERVÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático probatório a fim de analisar a adequada pena-base a ser aplicada ao réu, bem como a incidência de eventuais causas de aumento e de diminuição de pena, bem como a respectiva fração a ser aplicada. Incidência da Súmula 7/STJ.
+    2. A não observância dos requisitos do artigo 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, torna inadmissível o conhecimento do recurso com fundamento na alínea ‘c’ do permissivo constitucional.
+    3. Agravo regimental a que se nega provimento.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 9 (nove) anos, 6 (seis) meses e 5 (cinco) dias de reclusão, em regime inicial fechado, pela prática do crime previsto no artigo 33, caput, c/c o art. 40, incisos I e III, da Lei nº 11.343/06.
+    3. Em grau de apelação, o Tribunal Regional Federal da 3ª reduziu a reprimenda para 8 (oito) anos e 4 (quatro) meses de reclusão, em regime inicial fechado.
+    4. Do acórdão estadual, a defesa interpôs recurso especial no Superior Tribunal de Justiça. A Relatora do Resp 1.440.649, Ministra Maria Thereza de Assis Moura, deu parcial provimento ao recurso “tão somente para reconhecer a violação ao artigo 40, inciso III, da Lei nº 11.343/06, a fim de afastar a referida causa de aumento de pena, e determinar que o Tribunal a quo proceda a nova dosimetria da pena, aplicando o percentual que entender adequado à majorante remanescente”. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. No presente habeas corpus, a parte impetrante aponta a existência de ilegalidades na dosimetria da pena, bem como a possibilidade de aplicação da minorante prevista no art. 33, § 4º, da Lei 11.343/06 em seu patamar máximo. Requer, assim, a redução da pena imposta ao paciente e, por conseguinte, a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por outra restritiva de direitos.
+    Decido.
+    6. O habeas corpus não deve ser deferido.
+    7. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão (HC 69.419, Rel. Min. Sepúlveda pertence).
+    8. No caso de que se trata, as instâncias ordinárias afastaram a aplicação da minorante do art. 33, § 4º, da Lei nº 11.343/2006 com base em dados fáticos da causa, de modo que não é possível, nesta via, reexaminar o material probatório da ação penal para, eventualmente, concluir-se em sentido diverso. Veja-se, nessa linha, trecho da ementa do HC 123.299, Rel. Min. Teori Zavascki:
+    “[...] 1. Não é viável, na via estreita do habeas corpus, o reexame dos elementos de convicção considerados pelo magistrado sentenciante na realização da dosimetria da pena. O que está autorizado é apenas o controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades, o que não é o caso dos autos. Precedentes. De qualquer forma, tem-se que a decisão emanada da instância ordinária aplicou a minorante do § 4º do art. 33 da Lei 11.343/2006 mediante fundamentação jurídica adequada, na medida em que demonstra, com base em elementos de prova colhidos sob o crivo do contraditório, um plexo de circunstâncias fáticas negativas que envolveram o caso....”
+    9. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Intime-se.
+          Brasília, 24 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
