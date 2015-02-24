@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Estado de São Paulo interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Décima Terceira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    DEVOLUÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA INDEVIDAMENTE DESCONTADA DE SERVIDORES ESTADUAIS APOSENTADOS TAMBÉM BENEFICIÁRIOS DE PENSÃO MENSAL IMPOSSIBILIDADE DE SOMA DOS BENEFÍCIOS (APOSENTADORIA E PENSÃO) PARA CÁLCULO DO DESCONTO PREVIDENCIÁRIO INSTITUTOS DE ORIGENS DIVERSAS, COM INSTITUIDORES DIFERENTES, O QUE IMPEDE A SOMATÓRIA - ALTERAÇÃO NO PERCENTUAL DOS JUROS MORATÓRIOS PARA ADEQUAÇÃO AO D1POSTO NO ARTIGO 167, PARÁGRAFO ÚNICO, DO CÓDIGO TRIBUTÁRIO NACIONAL E SÚMULA 188, DO STJ RECURSO PARCIALMENTE PROVIDO.”
+    Alega o recorrente violação dos artigos 40, § 18 e 97 da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação.
+    Em primeiro lugar, destaco que a matéria alusiva à cláusula de reserva de plenário contida no art. 97 da Constituição, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração com o fim de debater previamente a matéria. Incide a Súmula 282/STF.
+    Ademais, esta Corte no julgamento da ADI n° 3.105 e da ADI n° 3.128, Relatora Ministra Ellen Gracie, declarou a constitucionalidade, após o advento da Emenda Constitucional 41/03, da cobrança de contribuição previdenciária devida pelos servidores inativos e pensionistas, se respeitados os limites de isenção próprios.
+    No caso dos autos, todavia, observo que não se discute a incidência ou não da contribuição previdenciária, mas tão somente a forma de cálculo para se chegar à base de cálculo da referida contribuição, para fins dos limites de isenção próprios.
+    Com efeito, o acórdão recorrido entendeu pela não cumulatividade entre os valores percebidos a título de pensão e proventos de aposentadoria, para fins de incidência da contribuição previdenciária, reconhecendo o direito do recorrido a se aposentar e a receber os proventos da sua aposentadoria, cumulativamente com a pensão mensal, cada qual com sua origem e com sua natureza jurídica de não poderem ser cumuladas para fins de cálculo da contribuição previdenciária, tal como determina a Lei Complementar Estadual nº 954/03.
+    Portanto, essa discussão sobre a origem e natureza jurídica dos valores percebidos a título de proventos e aposentadoria e de pensão e a possibilidade de cumulação ou não, para fins de definição da base de cálculo da contribuição previdenciária, é matéria exclusiva de interpretação da Lei Complementar nº 954/03, de índole infraconstitucional, não autorizando a abertura da via extraordinária. Incidência da Súmula 280/STF.
+    Nesse sentido:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE PROVENTOS DE INATIVOS E PENSIONISTAS APÓS A EC 41/2003. CONSTITUCIONALIDADE. DESCONTO INSTITUÍDO PELAS LEIS COMPLEMENTARES ESTADUAIS 943/2003 E 954/2003. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1 A jurisprudência do Supremo Tribunal Federal é firme no sentido da constitucionalidade da cobrança de contribuição previdenciária sobre os proventos de inativos e pensionistas após o advento da EC 41/2003. 2. A discussão acerca do desconto das contribuições de que trata as Leis Complementares do Estado de São Paulo 943/2003 e 954/2003 não transborda os limites do âmbito infraconstitucional. Pelo que eventual ofensa à Constituição Federal apenas ocorreria de modo reflexo ou indireto. Precedentes. 3. Agravo regimental desprovido(AI nº 800.751/SP – AgR, Relator Ministro Ayres Britto, Dje 23/9/11)
+    Agravo regimental no agravo de instrumento. Contribuição previdenciária. Reexame de legislação estadual. Ofensa reflexa. Precedentes. 1. O recurso extraordinário não se presta ao exame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido.(AI nº 738.074/SP – AgR, Primeira Turma, de minha relatoria, Dje 28/8/12)
+     Ante o exposto, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 24 de fevereiro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
