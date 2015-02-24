@@ -1,0 +1,25 @@
+Decisão: Trata-se de habeas corpus, impetrado de acórdão do Superior Tribunal de Justiça em sede de habeas corpus, que denegou a ordem para manter a prisão preventiva do paciente. Eis o teor do ato indigitado coator:
+    HABEAS CORPUS. DESERÇÃO. PRISÃO EM CONCORDÂNCIA COM O COMANDO PREVISTO NO ART. 79 DO CPPM. PRESENTES OS REQUISITOS AUTORIZADORES DA DECRETAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDA CAUTELAR. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. ORDEM DE HABEAS CORPUS DENEGADA. UNÂNIME. O prazo para que seja oferecida a Denúncia começa a fluir a partir da conclusão do inquérito, com a remessa dos autos ao MPM para esse fim. Investigação em curso. Não há, in casu, discordância com o prazo do art. 79 do CPPM. A defesa sugere, em suas razões, a substituição da prisão preventiva por medida cautelar. É impossível a aplicação subsidiária de regra comum em detrimento de norma especial, uma vez que o CPPM trata da matéria nos arts. 254 e 255. Decisão suficientemente fundamentada na existência de prova do fato e de suficientes indícios de autoria, demonstrando, claramente, a necessidade da prisão preventiva para garantir a ordem pública e a conveniência da instrução criminal, bem como, em razão da periculosidade do Paciente. A custódia processual do Paciente está em consonância com a Constituição Federal, com a legislação processual penal militar e com o entendimento dos Tribunais Superiores. Ordem de Habeas Corpus denegada à unanimidade por falta de amparo legal.
+    O impetrante sustenta, em síntese, excesso de prazo da prisão preventiva em razão do não oferecimento da denúncia no prazo do artigo 79 do Código de Processo Penal Militar. Aponta constrangimento ilegal na ausência de fundamento do decreto prisional.
+    Requer, liminarmente e no mérito, seja o paciente colocado em liberdade.
+    É o relatório.
+    Não cabe ao Supremo Tribunal Federal julgar habeas corpus substitutivo de recurso ordinário, conforme precedentes: HC 124825, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 03/02/2015; HC 125596 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 16/12/2014.
+    Nada obstante, examino a questão de fundo a fim de verificar a possibilidade da concessão da ordem ex officio.
+    In casu, a prisão preventiva está devidamente fundamentada nos elementos de prova que justificam a garantia da ordem pública.
+    De saída, o decreto prisional não se limitou à fundamentação com base na pena em abstrato do delito, mas na periculosidade do agente, que assaltou quartel do Exército brasileiro e subtraiu 20 fuzis de calibre restrito às Forças Armadas. Transcrevo a fundamentação da decisão que decretou a prisão preventiva:
+    Ab initio há de ser ressaltada a gravidade da situação fática de que ora se cuida. A uma porque se trata de armas com elevado potencial ofensivo, tanto que seu calibre é restrito às Forças Armadas e, como bem frisa o digno Parquet castrense, são do tipo comumente utilizado por quadrilhas especializadas em roubos a bancos no interior da Bahia. A duas porque a grande quantidade de armas subtraídas aumentava em muito o potencial do seu uso para atividades criminosas violentas.
+    Considerando, pois, o grave quadro fático acime.
+    Considerando que o representado admite, ainda que com ressalva, haver participado da subtração das referidas armas de fogo.
+    Considerando que ainda estão pendentes providências para a conclusão da investigação policial, as quais poderão sofrer prejuízo com a liberdade dos representados neste átimo. Em especial a identificação de eventuais coautores e receptadores do armamento em questão.
+    Considerando, por fim, estarem presentes os requisitos das alíneas a) e b) do artigo 254 do Código de Processo Penal Militar.
+    Decreto a prisão preventiva de Anderson Machado do Nascimento.
+    Segundo o juízo singular, esse tipo de armamento é utilizado por grupos criminosos no assalto a agências bancárias no interior do Estado da Bahia, o que justifica a prisão do paciente para o desmantelamento da organização criminosa.
+    Cumpre salientar que o poder de fogo do armamento subtraído é superior, muitas vezes, àqueles utilizados pelas polícias militares no interior do País, o que, por si só, vulnera a ordem pública.
+    Ademais, o prazo a que alude o artigo 79 do Código de Processo Penal Militar, além de não se referir à prisão preventiva, pode ser ultrapassado diante da complexidade do caso concreto e da necessidade de conclusão das investigações. Precedentes: HC 119398, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 13/05/2014; RHC 120133, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 18/02/2014.
+    Ex positis, nego seguimento ao habeas corpus, por ser manifestamente incabível, com fundamento no artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Dê-se ciência ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 24 de fevereiro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
