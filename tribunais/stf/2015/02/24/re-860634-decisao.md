@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região que manteve sentença que julgara improcedente pedido deduzido em ação cautelar, ajuizada com o objetivo de sustar leilão de imóvel, objeto de execução extrajudicial, nos moldes da Lei nº 9.514/1997.
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXIII, XXXV, LIII, LIV e LV, da Constituição.
+    O recurso extraordinário é inadmissível, tendo em vista que foi interposto contra acórdão proferido em ação cautelar, de modo que não preenche o requisito do art. 102, III, da Constituição Federal, que prevê a competência do Supremo Tribunal Federal para julgar, “mediante recurso extraordinário, as causas decididas em única ou última instância”. Precedente: AI 597.618-AgR, Rel. Min. Celso de Mello). Ademais, incide a Súmula 735/STF (“Não cabe recurso extraordinário contra acórdão que defere medida liminar”).
+    Seja como for, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente, nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), assim como a interpretação de cláusulas contratuais (Súmula 454/STF), procedimentos inviáveis em sede de recurso extraordinário. Precedentes: RE 860.621, Rel.ª Min.ª Cármen Lúcia; ARE 830.519, Rel. Min. Dias Toffoli; e ARE 754.346, Rel. Min. Teori Zavascki.
+    Por último, o Tribunal de origem não declarou a inconstitucionalidade de tratado ou lei federal, na forma do art. 97 da Constituição. Desse modo, incabível a interposição do recurso extraordinário pelo art. 102, III, b, da Constituição Federal. Precedentes: AI 744.870-AgR, Rel. Min. Marco Aurélio; AI 637.858-AgR, Rel. Min. Ayres Britto; e RE 369.696-AgR, Rel. Min. Eros Grau.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
