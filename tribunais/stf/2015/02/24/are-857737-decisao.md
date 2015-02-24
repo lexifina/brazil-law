@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+    2. A intempestividade do recurso impede seu conhecimento. A agravante interpôs agravo no dia 10/2/2012 (e-STJ, fl. 366, Vol. 4), na pendência, portanto, da publicação da decisão recorrida, que somente ocorreu no dia 17/2/2012 (e-STJ, fl. 362, Vol. 4). Não houve, em momento algum, ratificação do agravo interposto prematuramente, a fim de viabilizar a via eleita, de modo que a extemporaneidade impede o seu conhecimento. Nesse sentido:
+    EMENTA Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário extemporâneo. Orientação da Súmula 281. Princípio da unirrecorribilidade recursal. Precedentes. 1. É extemporâneo o recurso extraordinário interposto antes do julgamento de todos os recursos interpostos na instância de origem e sem posterior ratificação no prazo recursal. Ressalte-se que, no caso, o recurso extraordinário foi interposto pela mesma parte que opôs o recurso de embargos e, após esse, o de agravo interno no Tribunal a quo. 2. Incide, também, no caso, a orientação da Súmula nº 281, haja vista a existência de recurso pendente de análise na corte de origem. 3. A interposição simultânea, pela ora agravante, de recurso extraordinário e de recurso de embargos malferiu o princípio da unirrecorribilidade recursal. 4. Agravo regimental não provido. ARE 718.944-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/8/2013.
+    Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INTERPOSIÇÃO NA PENDÊNCIA DA PUBLICAÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE RATIFICAÇÃO. RECURSO EXTEMPORÂNEO. PRECEDENTES. RECURSO NÃO CONHECIDO. RE 388.104-AgR, de minha relatoria, Segunda Turma, DJe de 12/3/2013.
+    3. Ante o exposto, não conheço do agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 24 de fevereiro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
