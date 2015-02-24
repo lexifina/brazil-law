@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. AÇÃO ORDINÁRIA. PRESCRIÇÃO. CONTROVÉRSIA ACERCA DA APLICAÇÃO DE PRECEITOS LEGAIS AO CASO CONCRETO. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, II, DA CONSTITUIÇÃO. OFENSA REFLEXA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos (fl. 40 do Doc. 03) interposto pelo MUNICÍPIO SINHARÉM - PE, com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário (fl. 129 do Doc. 02), manejado com arrimo na alínea a do permissivo constitucional, contra acordão (fl. 79 do Doc. 02) que assentou, verbis:
+    “PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. TRIBUTÁRIO. RESCISÃO DE PARCELAMENTO. RETOMADA DO LUSTRO PRESCRICIONAL. DECRETO N.º 20.910/32. NÃO INCIDÊNCIA. PRESCRIÇÃO NÃO CONFIGURADA.
+    1. Hipótese em que o ente municipal parcelou a dívida tributária, mas não concluiu os pagamentos a que estava obrigado. Cessada a causa suspensiva da exigibilidade do crédito, pretende, agora, por ação ordinária, obter o reconhecimento da prescrição.
+    2. A resolução da lide passa apenas por um fundamento determinante, qual seja, saber se as normas invocadas pelo ente municipal são capazes de influir e interferir na contagem do quinquênio legal da prescrição tributária, estabelecido pelo art. 174 do CTN. Com esse objetivo, afirmou-se que o Decreto n.º 20.910 e o Decreto-lei n.º 4.597 possuem esta aptidão, porque destinados a reger "dívidas passivas de qualquer natureza". Eis o teor a legislação mencionada: A prescrição interrompida recomeça a correr, pela metade do prazo, da data do ato que a interrompeu ou do último ato ou termo do respectivo processo (Decreto n.º 20.910/32, art. 9º).
+    3. O Código Tributário Nacional é, em relação aos créditos tributários, lei específica se confrontado com os decretos mencionados pelo autor. Ao mesmo tempo, é lei posterior aos decretos, inaugurando disciplina peculiar da prescrição, que não manda discriminar de acordo com o sujeito passivo. Assim, em matéria tributária, não há dúvidas de que os decretos destacados cederam lugar ao CTN.
+    4. Com efeito, a norma que dispõe sobre o prazo prescricional dos créditos de natureza tributária é o art. 174, do CTN. O Decreto n.º 20.910/1932 regula a prescrição da dívida passiva da Fazenda Pública e não tem incidência sobre o caso específico de cobrança fiscal. Portanto, por não existir previsão da redução do prazo prescricional no CTN, é inaplicável a contagem do prazo pela metade, após a sua interrupção.
+    5. Em síntese, a contagem da prescrição deve considerar apenas que a confissão de dívida é causa interruptiva da prescrição (art. 174, parágrafo único, IV, do CTN) e também que, enquanto suspensa a exigibilidade do crédito tributário pelo parcelamento, suspensa igualmente estará a prescrição (art.151, VI, do CTN).
+    6. Some-se a essas circunstâncias o efeito suspensivo recursal, desde a metade de 2009, para se chegar a conclusão de que, rescindido o parcelamento em abril de 2006 (fl. 119), apenas três anos do prazo prescricional transcorreu, dispondo a Fazenda Nacional de mais dois para compelir judicialmente o devedor ao pagamento da dívida.
+    7. Redução dos honorários advocatícios para cinco mil reais.
+    Remessa obrigatória parcialmente provida.
+    Apelação desprovida.”
+    Opostos embargos de declaração que foram rejeitados (fl. 104 do Doc. 02).
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, II, da Constituição Federal. Pleiteia a reforma da decisão que, ao não aplicar as disposições do Decreto-Lei nº 4.597/1942 e do Decreto nº 20.910/1932, deixou de pronunciar a prescrição do crédito tributário.
+    O recurso teve o seguimento obstado por não vislumbrar ofensa direta ao texto da Lei Maior (fl. 23 do Doc. 03).
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    O agravo não merece prosperar.
+    No que diz respeito à violação ao princípio constitucional da legalidade, aplica-se o teor da Súmula nº 636 desta Corte: “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Nesse sentido, confira o AI 764.422-AgR, Rel. Min Dias Toffoli, Primeira Turma, DJe de 14/10/2013.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, §1º, do RISTF.
+    Publique-se.
+    Brasília 24 de fevereiro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
