@@ -1,0 +1,35 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRATAÇÃO DE PESSOAL PELO SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS – SERPRO. PRESTAÇÃO DE SERVIÇO NA RECEITA FEDERAL. ALEGADO DESVIO DE FUNÇÃO E IDENTIDADE COM AS ATIVIDADES EXERCIDAS PELOS TÉCNICOS DA RECEITA FEDERAL. NECESSIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão do recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quinta Região:
+    “Processual Civil e Administrativo. Servidores do SERPRO. Reconhecimento de vínculo com a União por sentença com trânsito em julgado. Exclusão dos pedidos de equiparação e enquadramento expressa em acórdão do Tribunal Superior do Trabalho em ação rescisória. Estabilidade decorrente da autoridade da coisa julgada. Apelações e remessa improvidas”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante afirma ter o Tribunal de origem contrariado os arts. 37, caput, inc. II, da Constituição da República e o art. 19 do Atos das Disposições Constitucionais Transitórias.
+    Assevera:
+     “O SERPRO, conforme estabelecem os artigos 2º e 3º da Lei 5.615/70, firmou convênio com a União – Ministério da Fazenda/Secretaria da Receita Federal, no qual acordou que contrataria mão de obra especializada, alocando-a nas dependências da União. As despesas como o pessoal contratado, obrigações trabalhistas, são cobertas pelo repasse de verba da Secretaria da Receita Federal ao SERPRO.
+    (…)
+    Contratar empregados e alocá-los junto aso diversos órgãos conveniados para a execução de serviços de informática é atribuição institucional do SERPRO (arts. 2º e 3º da Lei 5615/70). Os serviços de processamento eletrônico de dados, essencial para o Ministério da Fazenda e, sobretudo, para as atividades executadas pela Secretaria da Receita Federal, são prestados pelo SERPRO.
+    Para realizá-los, o SERPRO utiliza mão de obra de suporte operacional, que está alocada fisicamente nas dependências do Ministério da Fazenda, mas com contrato individual de trabalho celebrado com aquela Empresa, sob o regime jurídico da Consolidação das Leis Trabalhistas – CLT”.
+    Sustenta ser “o caso em tela ... típico da prestação de serviços, mediante convênio ajustado por pessoas administrativas entre si, com vistas a ser alcançado determinado objetivo de interesse público”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão pela qual não se admite recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. No voto condutor do acórdão recorrido, o Desembargador Relator afirmou:
+    “A Turma já afirmou seu entendimento a respeito da matéria em análise, razão pela qual adoto, como razões de decidir, o julgado da Apelação Cível 381319 – CE, na qual fui relator. Oportuno transcrever o voto:
+    ‘A sentença acolheu a decisão com trânsito em julgado da Justiça do Trabalho, inclusive o acórdão do Eg. Tribunal Superior do Trabalho em ação rescisória, no qual restou reconhecido apenas o vínculo dos reclamantes com a União, com expressa exclusão dos pedidos de equiparação e de enquadramento e consequentes diferenças salariais.
+    A estabilidade, em consequência, é reconhecida, inobstante não haver o acórdão dado a melhor interpretação ao disposto no art. 19 do ADCT. Isso, contudo, ainda em razão da autoridade da coisa julgada, não poderia implicar em acolhida dos pedidos de equiparação a servidores da Receita Federal, nem diferenças por desvio de função, muito menos a enquadramento em cargos acessíveis apenas mediante concurso público.
+    Ante o exposto, nego provimento a ambas as apelações e à remessa oficial.’
+    Com estas considerações, nego provimento à remessa oficial e às apelações”.(grifos nossos)
+    O Tribunal de origem apreciou a matéria à luz dos fatos e das provas constantes dos autos.
+    A apreciação do pleito recursal demandaria o reexame do conjunto fático-probatório, o que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR CELETISTA. ESTABILIDADE E EFETIVIDADE. ART. 19 DO ADCT. PRECEDENTES. O Supremo Tribunal Federal já firmou o entendimento de que aquele que preenchera as condições exigidas pelo art. 19 do ADCT da CF/1988, embora estável no cargo para o qual fora contratado pela Administração Pública, não é servidor efetivo. Precedentes. Hipótese, ademais, em que, para dissentir da conclusão de que o servidor não preenche os requisitos para ser considerado como ocupante de cargo de provimento efetivo, seria necessário o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF). Agravo regimental a que se nega provimento” (AI 681.610-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 24.9.2014, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. CONTRATAÇÃO DE PESSOAL PELO SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO. ALEGADO DESVIO DE FUNÇÃO E IDENTIDADE COM AS ATIVIDADES EXERCIDAS PELOS TÉCNICOS DA RECEITA FEDERAL. NECESSIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DE CONTRATAÇÃO SEM CONCURSO PÚBLICO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 644.483-AgR, de minha relatoria, Primeira Turma, DJe 4.10.2011).
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. ESTABILIDADE. ART. 19 DO ADCT. NECESSIDADE DE REEXAME DE PROVA. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - A concessão da estabilidade prevista no art. 19 do ADCT está condicionada à comprovação do exercício, pelo servidor, de pelo menos cinco anos ininterruptos no mesmo ente público. Precedentes. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Agravo regimental improvido” (AI 487.137-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 7.12.2007).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
