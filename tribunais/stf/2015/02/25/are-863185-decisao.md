@@ -1,0 +1,13 @@
+Trata-se de agravo nos autos do recurso extraordinário interposto contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que aplicou entendimento do Superior Tribunal de Justiça proferido na sistemática do recurso repetitivo (Art. 543-C, § 7º do Código de Processo Civil).
+    A pretensão recursal não merece acolhida. É incabível o recurso de agravo previsto no art. 544 do Código de Processo Civil com o objetivo de admitir recurso extraordinário interposto de decisão que aplica a sistemática de recursos repetitivos. É o entendimento desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. 1. RECURSO DE AGRAVO (ART. 544 DO CÓDIGO DE PROCESSO CIVIL) INCABÍVEL CONTRA JULGADO QUE APLICA A SISTEMÁTICA DOS RECURSOS REPETITIVOS (ART. 543-C, § 7º, INC. I, DO CÓDIGO DE PROCESSO CIVIL). 2. AUSÊNCIA DE INTERPOSIÇÃO SIMULTÂNEA DO RECURSO EXTRAORDINÁRIO. PRECLUSÃO DAS QUESTÕES CONSTITUCIONAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 796.984-AgR/RN, Rel. Min. Cármen Lúcia)
+    Nesse sentido, cito as seguintes decisões, entre outras: ARE 787.432/MG, Rel. Min. Luiz Fux e ARE 794.705/RN, de minha relatoria.
+    Ademais, a discussão suscitada no presente recurso extraordinário já havia sido enfrentada pelo Tribunal de Justiça gaúcho, quando do julgamento do agravo interno interposto pela parte ora recorrente.
+    Nesse contexto, caberia à recorrente, caso pretendesse impugnar a matéria constitucional perante esta Corte, interpor, juntamente com o recurso especial para o Superior Tribunal de Justiça, recurso extraordinário contra o acórdão proferido pelo Tribunal local, circunstância que não se verifica no presente caso, pois a ora recorrente, por ocasião da ciência do acórdão que julgou o agravo interno, deixou de interpor o apelo extremo, ocorrendo, assim, a preclusão do conteúdo constitucional. Nesse sentido:
+     “DIREITO PROCESSUAL CIVIL. APLICAÇÃO DO ART. 741, PARÁGRAFO ÚNICO, DO CPC AFASTADA NA INSTÂNCIA ORDINÁRIA. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO CONCOMITANTEMENTE AO RECURSO ESPECIAL. PRECLUSÃO DA QUESTÃO CONSTITUCIONAL. (...)” (AI 718.334-AgR/AL, Rel. Min. Rosa Weber, Primeira Turma).
+     “Agravo regimental em recurso extraordinário. 2. Tributário. Compensação. Controvérsia que se reveste de índole infraconstitucional. Ofensa reflexa. 3. Processual civil. Questão decidida no segundo grau. Ausência de interposição de recurso extraordinário concomitantemente ao especial. Preclusão. Precedentes. 4. Agravo regimental a que se nega provimento” (RE 563.280-AgR/Ce, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de fevereiro de 2015.
+Ministro Ricardo Lewandowski
+Presidente
