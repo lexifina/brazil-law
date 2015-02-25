@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRETERIÇÃO NA ORDEM DE NOMEAÇÃO. PORTADOR DE DEFICIÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo MUNICÍPIO DE BELO HORIZONTE, com o objetivo de ver reformada a decisão que inadmitiu seu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acordão assim ementado:
+    “APELAÇÃO CÍVEL. CONCURSO PÚBLICO. FISIOTERAPEUTA. PORTADOR DE DEFICIÊNCIA FÍSICA. LISTA GERAL. LISTA ESPECÍFICA AOS PORTADORES DE DEFICIÊNCIA. CLASSIFICAÇÃO. PRETERIÇÃO. COMPROVAÇÃO. DIREITO SUBJETIVO À NOMEAÇÃO. REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO. SENTENÇA MANTIDA. RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO. 1. Candidato devidamente habilitado em concurso público, ainda que realizado para formação de cadastro de reserva, tem direito subjetivo à nomeação se, durante o prazo de validade do certame, ficar demonstrada a necessidade de preenchimento do cargo. 2. Constatado que, durante o prazo de validade do certame, foram criados cargos almejados e que a Administração nomeou candidatos da listagem ampla sem observar a regra editalícia que reserva 10% das vagas aos portadores de deficiência, evidencia-se o direito subjetivo do apelado à nomeação.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 37, caput, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário pela aplicação da Súmula nº 279 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, § 3º, da CF).
+    No voto condutor do acórdão, restou consignado:
+    “(...)
+    No presente caso, o Edital nº 01/2006, que rege o concurso público em apreço, previu a existência de 6 vagas para o cargo de Técnico Superior de Saúde – Fisioterapeuta (vide f. 38).
+    O apelado foi aprovado em 2º lugar na lista dos portadores de deficiente e na 523ª colocação na geral, ou seja, fora do número de vagas inicialmente ofertado (6).
+    Desse modo, é de se convir, não possui direito subjetivo à nomeação pelo simples fato de ter sido aprovado no certame, mas sim expectativa de direito de ser nomeado ao cargo para o qual se inscreveu e logrou aprovação, fora do número de vagas.
+    Contudo, tal expectativa se transmuda em direito subjetivo, se, no prazo de validade do concurso, surgirem vagas e, via de consequência, a necessidade de preenchimento dos cargos em número hábil a alcançá-lo.
+    Conforme comprovam os documentos acostados aos autos, foram convocados os 20 (vinte) primeiro colocados da listagem geral e os dois primeiros da lista de deficientes, quando o apelado, então compareceu à Administração e requereu a reclassificação, ‘vez que trabalhava em outros centros de saúde e necessitava de algum tempo para regularização de sua saída desses locais’ (sic).
+    Assim, foi recolocado na 3º colocação na lista de portadores de deficiência e na 627ª na listagem geral, nos termos da publicação constante do Diário Oficial do Município – DOM, de 31/05/2008 (vide doc. f. 74).
+    Após esse fato, contrariamente ao esperado, o apelante convocou para nomeação os 89 primeiros colocados na listagem ampla, sem que fosse observada a regra imposta no item 5 do Edital senão vejamos: (..)
+    Nesse contexto, não há justificativa plausível para, após a reclassificação devidamente publicada do apelado na 3ª colocação na lista de portadores de deficientes, terem sido convocados e nomeados os 89 primeiros colocados da listagem geral, sem que fosse novamente convocado para a posse, ficando, portanto, evidenciada a preterição.
+    (...)”
+     Para se concluir de forma diversa do que decidido pelas instâncias originárias seria necessária a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula nº 279 do Supremo Tribunal Federal: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito, face ao óbice erigido pela Súmula nº 279/STF. Nesse sentido:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. NOMEAÇÃO DE CANDIDATO APROVADO EM CONCURSO PÚBLICO. IRREGULARIDADE NA CONVOCAÇÃO. REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO. “ (ARE 761.134, Rel. Min, Cármen Lúcia, DJe de 06/08/2013).
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 25 de fevereiro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
