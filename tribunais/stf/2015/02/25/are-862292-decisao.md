@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa transcrevo a seguir:
+    “TRANSPOSIÇÃO DO REGIME CELETISTA PARA O ESTATUTÁRIO. OPÇÃO NÃO EXERCIDA. ARREPENDIMENTO APÓS O PRAZO LEGAL DE OPÇÃO. PRECLUSÃO. IMPROCEDÊNCIA DA PRETENSÃO. SENTENÇA REFORMADA” (fl. 144)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, caput, do texto constitucional.
+    Nas razões recursais, alega-se que o ente municipal deve guardar observância ao regime jurídico único dos servidores, à luz da ADI-MC 2.135. Logo, nada obstante a parte recorrente não tenha exercido o direito de opção pelo regime estatutário oportunamente, ofende o princípio da isonomia sua manutenção em regime celetista desfavorável.
+    A 1ª Vice-Presidência do TJMG inadmitiu o recurso com base na Súmula 280 do STF.
+    Decido.
+    A irresignação não merece prosperar.
+    De plano, constato que a invocação do assentado pelo Tribunal Pleno na ADI-MC 2.135 é impertinente por três razões. A uma, a lei que instituiu o regime jurídico dos servidores de Belo Horizonte é anterior à EC 19/98. A duas, por se tratar de medida cautelar em ADI, a eficácia da decisão revela-se ex nunc, logo subsiste a legislação editada anteriormente ao julgamento. Por último, a concessão parcial da cautelar se fundamentou em inconstitucionalidade formal.
+    Portanto, não se fala aqui de análise acerca da inconstitucionalidade da transposição, sendo certo que o regime jurídico dos servidores da Municipalidade está no âmbito da autonomia municipal, nos termos do artigos 29, 30 e 34, VII, c, da Constituição Federal.
+    Nesse sentido, veja-se a ementa da ADI 114, de minha relatoria, DJe 3.4.2014:
+    “Ação Direta de Inconstitucionalidade. 2. Artigo 28, § 5º, da Constituição do Estado do Rio Grande do Norte. 3. Fixação de data para o pagamento dos vencimentos dos servidores públicos estaduais e municipais, da administração direta, indireta, autárquica, fundacional, de empresa pública e de sociedade de economia mista, corrigindo-se monetariamente os seus valores se pagos em atraso. 4. Violação dos artigos 34, VII, c, e 22, I, da Constituição Federal. 5. Ação Direta de Inconstitucionalidade julgada parcialmente procedente para confirmar a medida liminar e declarar inconstitucionais as expressões “municipais” e “de empresa pública e de sociedade de economia mista”, constantes do § 5º, art. 28, da Constituição do Estado do Rio Grande do Norte.”
+    Igualmente, convém reproduzir o assentado pelo Tribunal a quo:
+    “Embora a Lei municipal não tenha expressamente declarado que a opção é irrevogável, dispensou-lhe um prazo preclusivo que, estando constando (sic) de lei, deve ser observado […] Portanto, conclui-se que, se não é inconstitucional a norma municipal que prevê prazo para o exercício da opção ao regime estatutário, acarretando a preclusão da pretensão manifestada após o prazo previsto em lei, o posterior arrependimento pela falta de opção ao regime único não destrói ou anula a previsão de prazo para manifestação” (fls. 145-146).
+    Na espécie, verifico que divergir do entendimento adotado pelo tribunal a quo, para fins de concluir pela ocorrência de tratamento não isonômico, demandaria o revolvimento da legislação local aplicável à espécie, notadamente a Lei Orgânica do Município de Belo Horizonte e a Lei Municipal nº 7.169/96, o que não enseja a abertura do recurso extraordinário, uma vez que se aplica o Enunciado da Súmula 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes desta Corte:
+    “AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. FÉRIAS PRÊMIO. CONTAGEM DO TEMPO DE SERVIÇO SOB REGIME CELETISTA. CONTROVÉRSIA INFRACONSTITUCIONAL. LEI ORGÂNICA DO MUNICÍPIO DE BELO HORIZONTE E LEI MUNICIPAL 7.169/1996. REEXAME. SÚMULA 280 DO STF. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame da legislação infraconstitucional pertinente, o que é vedado em recurso extraordinário, nos termos da Súmula 280 desta Corte. Agravo regimental a que e nega provimento.”
+(ARE 639518 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 18.9.2012)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. ANÁLISE DE NORMAS LOCAIS. LEI MUNICIPAL 7.169/1996. INVIABILIDADE. SÚMULA 280/STF. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VEDAÇÃO. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+(ARE 788924 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 8.5.2014)
+    Ante o exposto, conheço do presente agravo para negar provimento ao recurso extraordinário (Art. 544, §4º, II, b, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
