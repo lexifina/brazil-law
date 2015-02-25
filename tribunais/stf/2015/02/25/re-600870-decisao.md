@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas. Veja-se o seguinte trecho do voto condutor do acórdão (fls. 96/97):
+    “Ocorre, como afirmado acima, que o Decreto n. 23.220/03, não tem incidência no caso presente, porque a aposentadoria do impetrante será regida pelas regras vigentes ao tempo do seu pedido e, como ficou esclarecido acima, tem o impetrante direito assegurado pelo Constituição a proventos integrais. Impõe-se, portanto, a rejeição da preliminar de decadência mandamental.
+    Ultrapassadas estas matérias, pouco resta a ser examinado, pois o direito do Impetrante já ficou comprovado, inclusive através do Parecer anexado às fls. 43/50. Imperioso, ainda, observar que a Administração Pública mascara aumento dado a servidor da ativa, através da denominada ‘Gratificação de Atividade Técnicas’, para que os inativos dela não usufruam. Ocorre, entretanto, que reiteradas decisões destas Egrégias Câmaras Reunidas têm concedido a ‘GATA’ aos servidores inativos, isso porque ao ser analisada a referida vantagem, percebeu-se que a norma que a instituiu não traz a natureza da atividade a ser realizada, o seu tempo de duração e as metas de avaliação.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. O recorrente sustenta violação aos arts. 5º, XXXVI; e 40, § 8º, da Constituição Federal. Sustenta que “o Impetrante se aposentou no cargo de Médico, para cujos vencimentos está indiscutivelmente vinculado na inatividade. E nisso não se incluem as vantagens pagas em decorrência da efetiva prestação de um serviço ou gratificações propter laborem” (fls. 187).
+    O recurso não deve ser provido, tendo em conta que, para dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica da vantagem, seria necessário o exame da legislação infraconstitucional aplicada ao caso, além de uma nova apreciação dos fatos e do material probatório constantes dos autos, o que é inviável em recurso extraordinário.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
