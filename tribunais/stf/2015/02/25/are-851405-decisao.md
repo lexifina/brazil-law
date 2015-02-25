@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. IMPOSTO DE RENDA. INCIDÊNCIA SOBRE O AUXÍLIO-CRECHE. NATUREZA INDENIZATÓRIA DA PARCELA. CONTROVÉRSIA DE CUNHO INFRACONSTITUCIONAL. PRECEDENTES. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos (fl. 141), interposto pelo DISTRITO FEDERAL, com fundamento no art. 544 do Código de Processo Civil, visando à reforma da decisão que não admitiu seu recurso extraordinário (fl. 114), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (fl. 101) cuja ementa tem o seguinte teor:
+    “DIREITO ADMINISTRATIVO. DIREITO TRIBUTÁRIO. AUXÍLIO PRÉ-ESCOLAR. NÃO INCIDÊNCIA DE IMPOSTO DE RENDA. JUROS DE MORA A PARTIR DO TRÂNSITO EM JULGADO.
+    1 - Acórdão elaborado de conformidade com o disposto no art. 46 da Lei 9.099/1995, 12, inciso IX, 98 e 99 do Regimento Interno das Turmas Recursais. Recurso próprio, regular e tempestivo.
+    2 - Auxílio pré-escolar. A verba paga pelo Distrito Federal a título de auxílio pré-escola (creche), tem natureza indenizatória, não incidindo sobre ela o Imposto de Renda (REsp 625506 / RS RECURSO ESPECIAL 2003/0237269-2 Relator Ministro JOÃO OTÁVIO DE NORONHA). Precedentes nesta Turma (Acórdão n.726394, 20130111024354ACJ, Relator: ANTÔNIO FERNANDES DA LUZ, 2ª Turma Recursal dos Juizados Especiais Cíveis e Criminais do DF, Data de Julgamento: 22/10/2013, Publicado no DJE: 28/10/2013. Pág.: 254). Deve, pois, a Administração restituir as quantias indevidamente retidas a este título.
+    3 - Juros de Mora. Termo inicial. Tratando-se de repetição de indébito tributário, a incidência de juros de mora tem como termo inicial o trânsito em julgado da sentença, na forma do art. 167, parágrafo único do CTN, bem como a Súmula 188 do STJ. Sentença mantida pelos próprios fundamentos.
+    4 - Recurso conhecido e provido, em parte, apenas para fixar o termo inicial da incidência de juros de mora, a partir do trânsito em julgado. Sem custas e honorários.”
+    Opostos embargos de declaração, foram rejeitados (fl. 111).
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta ofensa ao disposto nos artigos 146, III, a, e 153, II, da Constituição Federal. Alega, em síntese, que “somente quando a verba indenizatória ostentar o caráter de recomposição de patrimônio estará imune à tributação pelo imposto sobre a renda ou proventos de qualquer natureza” (fl.125).
+    O recurso extraordinário teve o seguimento obstado por não vislumbrar ofensa direta ao texto constitucional (fl. 136).
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, § 3º, da CF).
+    Não merece prosperar o presente agravo.
+    A controvérsia, tal como posta, demanda o exame prévio da legislação infraconstitucional (Código Tributário Nacional, Resolução nº 87/1994-CLDF, Lei Complementar Distrital nº 840/2011 e Lei Distrital nº 792/1994), de modo que eventual ofensa ao texto da Lei Maior seria indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido, confira o RE 721.849-AgR, Rel. Min. Marco Aurélio, DJe de 18/4/2014, e o AI 851.465, Rel. Min. Cármen Lúcia, DJe de 1º/12/2014.
+    Ademais, em casos análogos, o Supremo Tribunal tem sistematicamente reafirmado a ausência de repercussão geral em recursos extraordinários que tratam da natureza jurídica de verba para fins de incidência de Imposto de Renda, em razão do caráter eminentemente infraconstitucional da matéria. É o que se verifica, a título de exemplo, no ARE 802.082-RG, Rel. Min. Teori Zavascki, DJe de 29/4/2014.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 25 de fevereiro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
