@@ -1,0 +1,14 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça nos autos do AREsp 569.925/SP, Rel. Min. Nefi Cordeiro.
+    Consta dos autos, em síntese, que (a) os pacientes Sergio Ricardo, Ricardo Andrade e Márcio Zanca foram condenados pela prática do crime previsto no art. 334, caput e § 3º, do Código Penal, tendo o primeiro recebido a pena de três anos e seis meses de reclusão, e os demais a reprimenda de três anos e quatro meses de reclusão, todos em regime inicial semiaberto; (b) inconformada, a Defensoria Pública da União interpôs recurso especial, não admitido na origem, e agravo para o Superior Tribunal de Justiça, ocasião em que o Ministro Relator negou-lhe provimento; (c) interposto agravo regimental, a Quinta Turma negou provimento ao recurso, em acórdão que ficou assim ementado:
+    (…) 1. A teor do verbete n. 182 da Súmula desta Corte, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+    2. Agravo regimental improvido.
+    Neste habeas corpus, o impetrante sustenta, em suma, que o Tribunal de origem “não fundamentou sua decisão, para justificar o início do cumprimento das penas de aberto para o semiaberto, o que contradiz nossa Constituição, bem como o Código Penal, cerceando a defesa dos réus”. Requer, ao final, a concessão da ordem, para que seja fixado o regime inicial aberto.
+    2. Os fundamentos invocados nesta impetração não foram examinados pela decisão impugnada, que se limitou a não conhecer do agravo em recurso especial, tendo em vista não possuir, o recurso, os necessários requisitos de admissibilidade. Desse modo, qualquer conclusão desta Corte a respeito implicaria supressão de instância ( v.g., RHC 93304, Relator(a): Min. JOAQUIM BARBOSA, Segunda Turma, Dje de 19-12-2008; HC 112100, Relator(a): Min. CEZAR PELUSO, Segunda Turma, Dje de 27-08-2012; HC 113490, Relator(a): Min. LUIZ FUX, Primeira Turma, Dje de 10-09-2012).
+    3. Por outro lado, não cabe ao Supremo Tribunal Federal, em sede de habeas corpus, proceder ao reexame dos pressupostos de admissibilidade de recursos de competência exclusiva do Superior Tribunal de Justiça (CF, art. 105, III), salvo em hipótese de flagrante ilegalidade, o que não se verifica na espécie. Nesse sentido: HC 94236, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, DJe 19-09-2013; HC 113.407, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 15/02/2013; HC 112323, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe de 25-09-2012; HC 85195, Relator(a): Min. CARLOS BRITTO, Primeira Turma, DJ 07-10-2005.
+    4. Pelo exposto, nego seguimento ao habeas corpus. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 26 de fevereiro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
