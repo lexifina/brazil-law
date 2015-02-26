@@ -1,0 +1,15 @@
+DECISÃO: O Plenário desta Suprema Corte, após reconhecer configurada a existência de repercussão geral do tema, julgou o fundo da controvérsia constitucional (igualmente objeto de veiculação nesta causa), proferindo decisão consubstanciada em acórdão assim ementado:
+    “1. Recurso extraordinário. Repercussão geral.
+    2. Taxa Selic. Incidência para atualização de débitos tributários. Legitimidade. Inexistência de violação aos princípios da legalidade e da anterioridade. Necessidade de adoção de critério isonômico. No julgamento da ADI 2.214, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 19.4.2002, ao apreciar o tema, esta Corte assentou que a medida traduz rigorosa igualdade de tratamento entre contribuinte e fisco e que não se trata de imposição tributária.
+    .......................................................................................................
+    5. Recurso extraordinário a que se nega provimento.”
+    (RE 582.461/SP, Rel. Min. GILMAR MENDES)
+    Impõe-se registrar que o entendimento ora exposto, no que se refere à incidência da taxa SELIC, tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veiculada no caso em exame (ARE 642.519/SP, Rel. Min. AYRES BRITTO – RE 628.073/RJ, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se, no ponto, à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Cabe salientar, de outro lado, no que concerne às alegadas violações ao art. 5º, LIV e LV, da CF, que o recurso extraordinário em questão também revela-se absolutamente inviável.
+    É que a jurisprudência do Supremo Tribunal Federal tem enfatizado, a propósito da questão pertinente à transgressão constitucional indireta, que, em regra, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, hipóteses em que não se revelará admissível o recurso extraordinário (AI 165.054/SP, Rel. Min. CELSO DE MELLO – AI 174.473/MG, Rel. Min. CELSO DE MELLO – AI 182.811/SP, Rel. Min. CELSO DE MELLO – AI 188.762-AgR/PR, Rel. Min. SYDNEY SANCHES – AI 587.873-AgR/RS, Rel. Min. EROS GRAU – AI 610.626- -AgR/RJ, Rel. Min. CEZAR PELUSO – AI 618.795-AgR/RS, Rel. Min. JOAQUIM BARBOSA – AI 687.304-AgR/PR, Rel. Min. CÁRMEN LÚCIA – AI 701.567-AgR/SP, Rel. Min. DIAS TOFFOLI – AI 748.884- -AgR/SP, Rel. Min. LUIZ FUX – AI 832.987-AgR/DF, Rel. Min. ELLEN GRACIE – RE 236.333/DF, Rel. Min. MARCO AURÉLIO – RE 599.512- -AgR/SC, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar-lhe, eis que correta a decisão que não admitiu o recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “a”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 26 de fevereiro de 2015.
+Ministro CELSO DE MELLO
+Relator
