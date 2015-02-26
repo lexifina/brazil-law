@@ -1,0 +1,39 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. PIS-REPIQUE. ALTERAÇÃO DA LEI COMPLEMENTAR Nº 7/1970 PELAS LEIS Nº 9.715/1998 E 9.718/1998. O DISPOSTO NO ARTIGO 239 DA CONSTITUIÇÃO NÃO IMPLICOU NO ENGESSAMENTO DA CONTRIBUIÇÃO AO PIS. MATÉRIA QUE PODE SER DISCIPLINADA POR NORMAS INFRACONSTITUCIONAIS ORDINÁRIAS. DEVIDO PROCESSO LEGAL E CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO STF NO ARE 748.371-RG, TEMA Nº 660. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos interposto por Auxiliar Serviços Temporários Ltda., com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “CONTITUCIONAL – TRIBUTÁRIO – PIS E COFINS - LEI N.º 9.718, DE 27 DE NOVEMBRO DE 1998 – ALTERAÇÃO DA BASE DE CÁLCULO E MAJORAÇÃO DA ALÍQUOTA – CONSTITUCIONALIDADE.
+    1. O incidente de argüição de inconstitucionalidade da Lei n.º 9.718/98 foi rejeitado pelo Órgão Especial desta Corte, de modo que embora tenha me manifestado no sentido de que seria inconstitucional a alteração da base de cálculo do PIS, há de ser respeitada a decisão do Eminente Órgão, não podendo, pois, os órgãos fracionários decidirem de maneira diversa, em respeito ao art. 97 da Carta Magna.
+    3. Nesse passo, não se vislumbra inconstitucionalidade na alteração da base de cálculo das contribuições sociais, bem como na majoração da alíquota do COFINS. Precedentes de outros regionais.
+    4. Apelação não conhecida. Remessa oficial provida.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos princípios do devido processo legal e do contraditório, bem como ao artigo 239 da Constituição Federal. Alega, em síntese, que que não poderia ser “compelida ao recolhimento da Contribuição ao PIS nos moldes das Leis 9.715/98 e 9.718/98 (0,65% sobre o total das receitas auferidas), mas de acordo com a Lei Complementar 07/70 (sobre o imposto de renda devido, à alíquota de 5%), tendo em vista a `constitucionalização´ desta contribuição pelo artigo 239 da Constituição Federal de 1988”.
+    O Tribunal de origem retratou-se da decisão a respeito da constitucionalidade da ampliação da base de cálculo da Contribuição ao PIS, veiculada pelo artigo 3º, § 1º, da Lei nº 9.718/1998, para adequar-se à jurisprudência desta Corte, firmada em leading case de repercussão geral, Tema nº 110 (RE 585.235, Rel. Min. Cezar Peluso, Plenário, DJe de 28/11/2008). No entanto, inadmitiu o recurso extraordinário no tocante à constitucionalidade da incidência tributário na forma da Lei nº 9.715/1998, por entender que a questão não teria sido prequestionada.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    Relativamente aos princípios da ampla defesa, do contraditório, do devido processo legal e aos limites da coisa julgada, a matéria, quando debatida sob a ótica infraconstitucional, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do Supremo Tribunal Federal, na análise do ARE 748.371-RG, Rel. Min. Gilmar Mendes, DJe de 6/6/2013, Tema nº 660, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Quanto à questão de fundo, esta Corte assentou que o disposto no artigo 239 da Constituição Federal não implicou no engessamento da Contribuição ao PIS, de forma que a matéria pode ser disciplinada por legislação infraconstitucional ordinária. Nesse sentido:
+    “Programa de Integração Social e de Formação do Patrimônio do Servidor Público – PIS/PASEP.
+    Medida Provisória. Superação, por sua conversão em lei, da contestação do preenchimento dos requisitos de urgência e relevância.
+    Sendo a contribuição expressamente autorizada pelo art. 239 da Constituição, a ela não se opõem as restrições constantes dos artigos 154, I e 195, § 4º, da mesma Carta.
+    Não compromete a autonomia do orçamento da seguridade social (CF, art. 165, § 5º, III) a atribuição, à Secretaria da Receita Federal de administração e fiscalização da contribuição em causa.
+    Inconstitucionalidade apenas do efeito retroativo imprimido à vigência da contribuição pela parte final do art. 18 da Lei nº 9.715-98.” (ADI 1.417, Rel. Min. Octavio Gallotti, Plenário, DJ de 23/3/2001)
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DA PARTE RECORRENTE. TRIBUTÁRIO. PROGRAMA DE INTEGRAÇÃO SOCIAL E DE FORMAÇÃO DO PATRIMÔNIO DO SERVIDOR PÚBLICO – PIS/PASEP. ALTERAÇÃO POR LEGISLAÇÃO INFRACONSTITUCIONAL ORDINÁRIA. LEGITIMIDADE. PRECEDENTES.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 836.484-ED, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 11/11/2014)
+    “Embargos de declaração no recurso extraordinário. Embargos de declaração convertidos em agravo regimental. PIS. LC nº 7/70. Possibilidade de alteração por lei ordinária: Lei nº 9.718/98. Hierarquia entre leis em matéria tributária. Ausência. Agravo regimental não provido. Precedentes.
+    1. O STF entendeu que o art. 239 da Constituição Federal não ocasionou o engessamento da contribuição ao PIS, apenas recepcionou-a expressamente, podendo essa ser alterada por norma infraconstitucional ordinária.
+    2. Inexiste hierarquia entre lei complementar e lei ordinária. O que há, na verdade, é a distribuição constitucional de matérias entre as espécies legais.
+    3. Agravo regimental ao qual se nega provimento.” (RE 348.605-ED, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 1/2/2012)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E TRIBUTÁRIO. PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS. ALTERAÇÃO NA BASE DE CÁLCULO POR LEI ORDINÁRIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    O Supremo Tribunal Federal assentou que a base de cálculo do PIS pode ser alterada por lei ordinária. Precedentes” (AI 586.471-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 17/3/2011)
+    “CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS. MEDIDA PROVISÓRIA 1.212/1995 E SUAS REEDIÇÕES.
+    1. A jurisprudência do Supremo Tribunal Federal é firme em reconhecer o não-engessamento da contribuição ao PIS pelo art. 239 do Magno Texto e a constitucionalidade da mencionada exação, notadamente com as alterações introduzidas pela Lei 9.715/1998 para os fatos geradores ocorridos a partir da contagem do prazo nonagesimal da MP 1.212/1995.
+    2. Agravo regimental desprovido.” (AI 455.374-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe de 25/10/2010)
+    “AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. PIS. ART. 239 DA CONSTITUIÇÃO. LEI 9.715/98. CONSTITUCIONALIDADE. AGRAVO IMPROVIDO.
+    I - O art. 239 da Constituição da República não implicou o engessamento da contribuição ao PIS, apenas recepcionou-a expressamente, podendo ser regularmente alterada pela legislação infraconstitucional ordinária. Precedentes.
+    II - Agravo regimental improvido.” (RE 482.606-ED-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 19/9/2008)
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
