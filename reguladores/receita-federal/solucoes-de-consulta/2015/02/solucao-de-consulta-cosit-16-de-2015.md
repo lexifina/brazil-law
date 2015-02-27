@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 16, de 23 de fevereiro de 2015
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS EMENTA: Declaração de Operações com Cartões de Crédito (Decred). Não deverão ser objeto de informação na Decred as operações efetuadas com cartões de compras emitidos por serviço social autônomo por não ser considerado administrador de cartão de crédito. A utilização do cartão “private label”, que deve ser restrita à aquisição de produtos e serviços junto aos seus estabelecimentos ou de empresas ligadas ao emitente, não se sujeita à entrega da Decred. DISPOSITIVOS LEGAIS: Lei n° 4.595, de 31 de dezembro de 1964; Instrução Normativa SRF nº 341, de 2003.
+[arquivo anexo: SC Cosit nº 016-2015.pdf]
