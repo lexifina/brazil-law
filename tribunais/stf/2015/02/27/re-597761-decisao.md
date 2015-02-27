@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Tribunal Regional Federal da 4ª Região, assim ementado (fls. 225):
+    “SERVIDOR PÚBLICO. ATENDIMENTO À SAÚDE. TURNO ININTERRUPTO DE REVEZAMENTO (12X36). COMPENSAÇÃO DE HORÁRIO QUANDO ULTRAPASSADO O LIMITE MÁXIMO SEMANAL. HORAS-EXTRAS. CABIMENTO. MULTA.
+    - O regime de trabalho 12x36 (doze horas de trabalho por trinta e seis horas de descanso), admite a compensação de horários. Somente quando ultrapassado o limite máximo semanal (40 horas), faz jus o servidor ao recebimento do adicional de horas-extras que excederem aquele limite.
+    - Afastada a multa imposta em sede de declaratórios, por manifestamente protelatórios os embargos, vez que a procrastinação não age no sentido do interesse dos recorrentes. Ademais, os mesmo são beneficiários de assistência judiciária gratuita.”
+    O recurso não deve ser provido, tendo em vista que a matéria aqui tratada está restrita ao âmbito infraconstitucional, hipótese que impede o processamento do recurso extraordinário. Nesse sentido, veja-se a ementa do AI 738.680-AgR, Rel. Min. Luiz Fux.
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO MUNICIPAL. GUARDA MUNICIPAL. TRABALHO EM REGIME DE COMPENSAÇÃO. JORNADA DE TRABALHO DE 12 HORAS POR 36 HORAS DE DESCANSO. HORAS EXTRAS INDEVIDAS. ALEGAÇÃO DE AFRONTA AO ART. 7º, XIII, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA . REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 279/STF. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes. 2. A Súmula 279/STF dispõe verbis : Para simples reexame de prova não cabe recurso extraordinário. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. O acórdão impugnado não julgou válida lei ou ato de governo local contestado em face da Constituição, o que não se encarta na hipótese da alínea c do artigo 102 da Constituição do Brasil. … 6. Agravo Regimental a que se NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
