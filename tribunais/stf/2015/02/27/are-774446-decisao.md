@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da 1ª Turma Recursal dos JEFs do Rio Grande do Sul que manteve sentença que julgara improcedente o pedido formulado pelo recorrente por constar que “na certidão de óbito de Antonio Severo Maciel está consignado que não deixou testamento, nem bens a inventariar. Logo, não deixou herança. Assim, a autarquia não pode promover a cobrança automática de dívidas do segurado aos beneficiários da pensão por morte, simplesmente por essa condição”. Assentou ainda que “o benefício de pensão por morte percebido pela autora não é resultado de herança deixada pelo falecido. Trata-se sim de um direito personalíssimo do dependente previdenciário do segurado, o qual não pode sofrer restrições em face de dívidas do titular do beneficio originário”.
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXV, LIV e LV, da Constituição.
+    O recurso extraordinário é inadmissível, tendo em vista que a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski.
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, necessária seria a reapreciação dos fatos e do material probatório constante dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF.
+    Cabe ressaltar que não foram ofendidas as garantias da inafastabilidade do controle jurisdicional, do devido processo legal, do contraditório e da ampla defesa, uma vez que a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e motivado suas conclusões de forma satisfatória.
+    Por fim, não se viabiliza o processamento do presente recurso pela alínea b do art. 102, III, da Constituição Federal, uma vez que o Colegiado de origem não declarou a inconstitucionalidade de tratado ou lei federal.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 27 de fevereiro de 2015.
+Ministro Luís Roberto Barroso
+Relator
