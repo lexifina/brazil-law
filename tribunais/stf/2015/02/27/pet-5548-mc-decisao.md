@@ -1,0 +1,39 @@
+DECISÃO: O ora requerente interpôs “recurso ordinário”, com pedido de medida liminar, contra decisão que, emanada do E. Superior Tribunal de Justiça, está assim ementada:
+    “RECURSO ORDINÁRIO DE ‘HABEAS CORPUS’. PRISÃO PREVENTIVA. VEDAÇÃO DO DIREITO DE RECORRER EM LIBERDADE. FIXAÇÃO DO REGIME INICIAL SEMIABERTO. COMPATIBILIDADE. PRECEDENTES DO STJ. RÉU QUE OSTENTA OUTRAS CONDENAÇÕES POR CRIMES CONTRA O PATRIMÔNIO. FUNDAMENTO IDÔNEO. ADAPTAÇÃO DA CUSTÓDIA CAUTELAR AO REGIME MENOS GRAVOSO. AUSÊNCIA DE PEDIDO DE EXECUÇÃO PROVISÓRIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+    1. Não há incompatibilidade entre o regime fixado e a prisão cautelar, visto que, a par das diferenças de fundamento de uma e outra prisão, o regime semiaberto inicia-se com o recolhimento do condenado a um estabelecimento prisional, que somente passa a gozar de benefícios extra-muros (saídas temporárias, trabalho externo, etc), com a análise objetiva e subjetiva dos requisitos previstos na LEP, em decisão do Juízo da Execução Penal. Precedentes do STJ.
+    2. Insta ressaltar apenas que a observância às regras do regime menos gravoso somente passará a vigorar após deferido o pedido de início da execução provisória da reprimenda pelo MM. Juiz da Execução Penal, iniciativa que caberá a defesa realizar, com o fim de obter os benefícios inerentes ao sistema progressivo da pena.
+    3. Assim, mantida a prisão preventiva do sentenciado, para vedar o recurso em liberdade, não há que se falar em adaptação da cautelaridade da custódia ao regime semiaberto e tampouco aos benefícios a ele inerentes, pois instrumentos que visam tutelar bens jurídicos totalmente distintos.
+    3. Na espécie, na folha de antecedentes do recorrente constam três condenações não definitivas por outros crimes contra o patrimônio, além de outras duas ações penais em andamento por delitos da mesma natureza, circunstância suficiente para vedar o direito de o réu recorrer em liberdade, consoante os termos da sentença condenatória.
+    4. Recurso não provido.”
+    (RHC 46.604/MG, Red. p/ o acórdão Min. ROGERIO SCHIETTI CRUZ – grifei)
+    A parte requerente, inconformada com esse julgamento, deduziu “recurso ordinário” dirigido a esta Suprema Corte, com fundamento na alínea “a” do inciso II do art. 102 da Constituição Federal.
+    Cabe examinar, preliminarmente, se se mostra adequado, em face do princípio da tipicidade recursal, o “recurso ordinário”, cujo fundamento – expressamente invocado pelo ora requerente – apoia-se no art. 102, II, “a”, da Constituição.
+    Entendo que o recurso ordinário em questão é insuscetível de conhecimento, eis que, em situação como a que se registra neste processo, a parte ora requerente valeu-se de recurso inadmissível.
+    Com efeito, tal recurso, para o Supremo Tribunal Federal, somente  terá pertinência quando interposto contra decisão denegatória de “habeas corpus” e, mesmo assim, quando tal decisão houver sido proferida “em única instância, pelos Tribunais Superiores...” (CF, art. 102, II, “a”), o que não se verifica na espécie ora em exame.
+    Isso significa não se revelar admissível o “recurso ordinário” quando deduzido, tal como o fez o ora requerente, contra decisão que o E. Superior Tribunal de Justiça tenha proferido em sede de recurso ordinário em “habeas corpus” (e não, insista-se, em sede originária).
+    Vê-se, daí, considerado o princípio da tipicidade recursal, que não se mostra suscetível de conhecimento o recurso em questão (o recurso ordinário em “habeas corpus”), que foi erroneamente interposto, no caso, em indevida substituição à espécie recursal legalmente adequada.
+    Na realidade, o requerente, ao interpor recurso evidentemente incabível, incidiu em erro grosseiro, circunstância essa que sequer permite a útil invocação do princípio da fungibilidade recursal (RTJ 132/1374, Rel. Min. CELSO DE MELLO – Pet 2.223-QO/MA, Rel. Min. ILMAR GALVÃO – Pet 2.285/SP, Rel. Min. CELSO DE MELLO – Pet 3.324/DF, Rel. Min. NELSON JOBIM – Pet 3.824/SP, Rel. Min. MARCO AURÉLIO – RE 96.393/PI, Rel. Min. FRANCISCO REZEK, v.g.).
+    A jurisprudência do Supremo Tribunal Federal, bem por isso, tem negado aplicabilidade ao postulado da fungibilidade recursal, sempre que a errônea interposição de um recurso por outro – tal como ocorre no caso – revelar desconhecimento inescusável, por parte do recorrente, quanto à existência de norma legal expressa, indicativa da espécie recursal cabível e adequada (RTJ 105/792 – RTJ 105/1275 – RTJ 120/458 – RTJ 132/194 – RTJ 142/472, v.g.):
+    “Não se deve aplicar o princípio da fungibilidade recursal (artigo 579 e parágrafo do CPP), quando evidenciado erro grosseiro na substituição de um recurso por outro.
+    ‘Habeas corpus’ indeferido.”
+    (HC 72.039/ES, Rel. Min. FRANCISCO REZEK – grifei)
+    Vale registrar, finalmente, que a colenda Primeira Turma do Supremo Tribunal Federal, ao apreciar questão processual similar à que ora se examina nestes autos, firmou orientação jurisprudencial que conduz à incognoscibilidade da postulação deduzida na presente petição  (RHC 119.015/DF, Rel. Min. DIAS TOFFOLI – RHC 120.371/DF, Red. p/ o acórdão Min. ROBERTO BARROSO – RHC 121.528/DF, Rel. Min. LUIZ FUX – RHC 123.002/DF, Rel. Min. ROSA WEBER – RHC 123.706/DF, Rel. Min. ROSA WEBER, v.g.):
+    “RECURSO ORDINÁRIO EM ‘HABEAS CORPUS’ MANEJADO NO STF CONTRA DECISÃO DO STJ EM RECURSO ORDINÁRIO EM ‘HABEAS CORPUS’. NÃO CABIMENTO DA VIA ELEITA. ROUBO MAJORADO. MANUTENÇÃO DA PRISÃO PREVENTIVA. APLICAÇÃO DA LEI PENAL. TENTATIVA DE FUGA DO DISTRITO DA CULPA.
+    1. Contra acórdão exarado em recurso ordinário em ‘habeas corpus’ cabível o recurso extraordinário previsto no art. 102, III, da Constituição Federal, e não o manejo de novo recurso ordinário, como no presente caso, o que conduz a seu não conhecimento.
+    …...................................................................................................
+    3. Recurso ordinário não conhecido.“
+    (RHC 119.377/DF, Rel. Min. ROSA WEBER – grifei)
+    “Agravo regimental no recurso ordinário em ‘habeas corpus’. Recurso ordinário manejado contra decisão com que se negou provimento ao agravo regimental interposto em recurso ordinário no Superior Tribunal de Justiça. Não cabimento. Julgado que desafia recurso extraordinário. Precedente. Regimental não provido.
+    1. É incabível a interposição de recurso ordinário contra decisão em que se nega provimento a agravo regimental em recurso ordinário em ‘habeas corpus‘ interposto no Superior Tribunal de Justiça, pois esse não substitui o recurso extraordinário, conforme entendimento jurisprudencial.
+    2. Agravo regimental ao qual se nega provimento.”
+    (RHC 123.116/DF, Rel. Min. DIAS TOFFOLI – grifei)
+    Daí a correta observação feita pelo Ministério Público Federal sobre essa específica matéria ao apresentar contrarrazões ao RHC 46.604/MG, interposto no E. Superior Tribunal de Justiça:
+    “Interpõe-se o presente recurso contra v. acórdão proferido pelo E. Superior Tribunal de Justiça, que negou provimento a recurso ordinário em ‘habeas corpus’.
+    Nesse diapasão, tem-se que o presente recurso ordinário é interposto em substituição ao recurso extraordinário previsto no artigo 102, III, da Constituição Federal, porquanto pretende a reforma de v. acórdão proferido em recurso ordinário em ‘habeas corpus’.
+    Nessa linha, objetivando fazer valer o regramento constitucional da matéria, deve ser negado conhecimento ao recurso ordinário, o qual não se presta a substituir o recurso adequado à impugnação da decisão judicial questionada.” (grifei)
+    Sendo assim, em face das razões expostas, e por considerar inaplicável, ao caso, o princípio da fungibilidade recursal, não conheço do “recurso ordinário constitucional” deduzido pelo ora requerente.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2015.
+Ministro CELSO DE MELLO
+Relator
