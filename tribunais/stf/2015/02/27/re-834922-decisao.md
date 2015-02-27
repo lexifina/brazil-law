@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça, assim ementado:
+    “ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR DESIGNADO EM CARÁTER PRECÁRIO PARA EXERCÍCIO DE FUNÇÃO PÚBLICA. EXONERAÇÃO AD NUTUM. NÃO-CABIMENTO. NECESSIDADE DE ABERTURA DE PROCESSO ADMINISTRATIVO. RECURSO PROVIDO.
+    1. Quando o ato administrativo produz efeitos na esfera de interesses individuais do servidor público, mormente em se tratando de seu desligamento, mostra-se necessária a ampla defesa e o contraditório, nos termos do art. 5º, LV, da Constituição Federal.
+    2. “O texto constitucional autoriza o entendimento de que o contraditório e a ampla defesa são também garantidos no processo administrativo não punitivo, em que não há acusados, mas litigantes (titulares de conflitos de interesses) (Antônio Carlos de Araújo Cintra, Ada Pellegrini Grinover e Cândido Rangel Dinamarco, Teoria Geral do Processo, 24ª ed., São Paulo: Malheiros, p. 62)
+    3. Hipótese em que sem a observância do devido processo legal, ou seja, sem a abertura de nenhum procedimento em que fossem observadas as garantias constitucionais em referência, foi determinado o desligamento do recorrente, que se encontrava há 14 (catorze) anos exercendo, em caráter “precário”, a função de Oficial de Justiça Avaliador o Poder Judiciário do Estado de Minas Gerais.
+    4. A legislação estadual de regência deve ser interpretada em conformidade com o texto constitucional, de modo a não permitir que o servidor designado há longa data em caráter “precário” para o exercício de função pública, até que o cargo efetivo seja provido por concurso público seja desligado sem observância dos princípios constitucionais da ampla defesa e do contraditório.
+    5. O pressuposto lógico é que a designação em foco vigore por tempo não excessivo, de molde a lhe conferir, a par de sua previsão legal, a indispensável legitimidade, evitando-se desapreço a princípios fundamentais, entre os quais, o da razoabilidade, da segurança jurídica, do valor social do trabalho e do concurso público.” (fl. 262)
+    Opostos embargos declaratórios, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 37, II; e 41, § 1º, do texto constitucional.
+    Alega-se, em síntese, que o acórdão recorrido incorreu em afronta ao disposto no artigo 41, § 1º, do texto constitucional, visto que reservou ao servidor designado a título precário e não estável o direito de só perder o cargo em virtude de sentença judicial, processo administrativo ou procedimento de avaliação periódica de desempenho.
+    Aduz, ainda, que a decisão do Tribunal de origem restringe a liberdade constitucionalmente garantida ao Poder Público de nomear ou prover cargos declarados em lei “de livre nomeação e exoneração” (art. 37, II).
+    Decido.
+    As razões recursais não merecem prosperar.
+    Isso porque o Superior Tribunal de Justiça decidiu a controvérsia dos autos em conformidade com o entendimento do Supremo Tribunal Federal, no sentido de que a dispensa dos servidores públicos, ainda que não estáveis, deve ser precedida da realização de procedimento administrativo, com observância às garantias da ampla defesa e do contraditório.
+    Nesse sentido, citem-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR NÃO ESTÁVEL. DISPENSA. PROCEDIMENTO ADMINISTRATIVO PRÉVIO. PRECEDENTES.
+    A validade do ato demissório de servidor público não estável, contratado por prazo indeterminado antes do advento da Constituição Federal, está condicionada à observância de prévio exercício das garantias ao contraditório e à ampla defesa. Precedentes. Agravo regimental a que se nega provimento.” (RE-AgR 491.000, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 21.8.2014)
+    “Agravo regimental em agravo de instrumento. 2. Direito Administrativo. 3. Agravo regimental não atacou fundamento da decisão agravada. Incidência da Súmula 287. 4. Demissão de servidor público não estável. Necessidade de instauração de procedimento administrativo, assegurados o contraditório e a ampla defesa. Precedentes do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (AI-AgR 837.212, de minha relatoria, Segunda Turma, DJe de 27/8/2012)
+    “CONSTITUCIONAL. ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL NÃO ESTÁVEL. LEI 10254/90-MG. DEMISSÃO POR CONVENIÊNCIA ADMINISTRATIVA. CONTRADITÓRIO E AMPLA DEFESA. NECESSIDADE. 1. É necessário o devido processo administrativo, em que se garanta o contraditório e a ampla defesa, para a demissão de servidores públicos, mesmo que não estáveis. Precedentes: RE 223.927-AgR, DJ de 23/03/2001 e RE 244.543, DJ de 26/09/2003. 2. Recurso extraordinário conhecido e improvido.” (RE 223.904, Rel. Min. Ellen Gracie, Segunda Turma, DJ 6.8.2004)
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 27 de fevereiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
