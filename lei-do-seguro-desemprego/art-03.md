@@ -1,5 +1,8 @@
 Art. 3º Terá direito à percepção do seguro-desemprego o trabalhador dispensado sem justa causa que comprove:
-I - ter recebido salários de pessoa jurídica ou pessoa física a ela equiparada, relativos a cada um dos 6 (seis) meses imediatamente anteriores à data da dispensa;
+I - ter recebido salários de pessoa jurídica ou pessoa física a ela equiparada, relativos:
+a) a pelo menos dezoito meses nos últimos vinte e quatro meses imediatamente anteriores à data da dispensa, quando da primeira solicitação;
+b) a pelo menos doze meses nos últimos dezesseis meses imediatamente anteriores à data da dispensa, quando da segunda solicitação; e
+c) a cada um dos seis meses imediatamente anteriores à data da dispensa quando das demais solicitações;
 III - não estar em gozo de qualquer benefício previdenciário de prestação continuada, previsto no Regulamento dos Benefícios da Previdência Social, excetuado o auxílio-acidente e o auxílio suplementar previstos na Lei nº 6.367, de 19 de outubro de 1976, bem como o abono de permanência em serviço previsto na Lei nº 5.890, de 8 de junho de 1973;
 IV - não estar em gozo do auxílio-desemprego; e
 V - não possuir renda própria de qualquer natureza suficiente à sua manutenção e de sua família.
