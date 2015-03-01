@@ -6,6 +6,8 @@ IV - as empresas do setor de construção civil, enquadradas nos grupos 412, 432
 V - as empresas de transporte ferroviário de passageiros, enquadradas nas subclasses 4912-4/01 e 4912-4/02 da CNAE 2.0;
 VI - as empresas de transporte metroferroviário de passageiros, enquadradas na subclasse 4912-4/03 da CNAE 2.0;
 VII - as empresas de construção de obras de infraestrutura, enquadradas nos grupos 421, 422, 429 e 431 da CNAE 2.0.
+XII - (VETADO);
+XIII - (VETADO);
 § 1º Durante a vigência deste artigo, as empresas abrangidas pelo caput e pelos §§ 3º e 4º deste artigo não farão jus às reduções previstas no caput do art. 14 da Lei nº 11.774, de 2008.
 § 2º O disposto neste artigo não se aplica a empresas que exerçam as atividades de representante, distribuidor ou revendedor de programas de computador, cuja receita bruta decorrente dessas atividades seja igual ou superior a 95% (noventa e cinco por cento) da receita bruta total.
 § 5º (VETADO).
