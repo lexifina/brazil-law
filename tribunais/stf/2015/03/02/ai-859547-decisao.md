@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – IMPOSSIBILIDADE – AGRAVO DESPROVIDO.
+    1. Conforme preceitua o artigo 196 da Carta Federal, consubstancia dever do Estado a saúde, garantindo a redução do risco de doença, implementando ações e serviços para a respectiva promoção. O Estado – União, Estados propriamente ditos, ou seja, unidades federadas, e Municípios – deve aparelhar-se para a observância irrestrita dos ditames constitucionais, não cabendo tergiversar mediante escusas relacionadas com a deficiência de caixa. Eis a enorme carga tributária suportada no Brasil a contrariar essa eterna lengalenga.
+    O recurso não merece prosperar, lamentando-se a insistência do Município em ver preservada prática, a todos os títulos nefasta, de menosprezo àqueles que não têm como prover as despesas necessárias a uma vida em sociedade que se mostre consentânea com a natureza humana.
+     Ressalto que no mesmo sentido decidiram ambas as Turmas do Supremo. Confiram com as seguintes ementas:
+    SAÚDE FORNECIMENTO DE REMÉDIOS. O preceito do artigo 196 da Constituição Federal assegura aos necessitados o fornecimento, pelo Estado, dos medicamentos indispensáveis ao restabelecimento da saúde. (Agravo Regimental no Recurso Extraordinário com Agravo nº 744.170, por mim relatado na Primeira Turma.)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. AÇÃO CIVIL PÚBLICA. INTERESSES INDIVIDUAIS INDISPONÍVEIS. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. DIREITO À SAÚDE. DEVER DO ESTADO. REALIZAÇÃO DE TRATAMENTO MÉDICO. OBRIGAÇÃO SOLIDÁRIA DOS ENTES DA FEDERAÇÃO. SITUAÇÃO DE OMISSÃO DA ADMINISTRAÇÃO PÚBLICA. CONCRETIZAÇÃO DE POLÍTICAS PÚBLICAS PELO PODER JUDICIÁRIO. POSSIBILIDADE. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - O acórdão recorrido está em harmonia com a jurisprudência desta Corte firmada no sentido de que o Ministério Público possui legitimidade para ingressar em juízo com ação civil pública em defesa de interesses individuais indisponíveis, como é o caso do direito à saúde.
+    II - A jurisprudência desta Corte firmou-se no sentido de que é solidária a obrigação dos entes da Federação em promover os atos indispensáveis à concretização do direito à saúde, tais como, na hipótese em análise, a realização de tratamento médico por paciente destituído de recursos materiais para arcar com o próprio tratamento. Portanto, o usuário dos serviços de saúde, no caso, possui direito de exigir de um, de alguns ou de todos os entes estatais o cumprimento da referida obrigação.
+    III Em relação aos limites orçamentários aos quais está vinculada a ora recorrente, saliente-se que o Poder Público, ressalvada a ocorrência de motivo objetivamente mensurável, não pode se furtar à observância de seus encargos constitucionais.
+    IV - Este Tribunal entende que reconhecer a legitimidade do Poder Judiciário para determinar a concretização de políticas públicas constitucionalmente previstas, quando houver omissão da administração pública, não configura violação do princípio da separação dos poderes, haja vista não se tratar de ingerência ilegítima de um poder na esfera de outro.
+    V Agravo regimental a que se nega provimento. (Agravo Regimental no Recurso Extraordinário nº 820.910, relatado pelo ministro Ricardo Lewandowski na Segunda Turma.)
+    2. Pelas razões acima, conheço deste agravo, mas a ele nego acolhida.
+    3. Publiquem.
+Brasília, 2 de março de 2015.
+Ministro MARCO AURÉLIO
+Relator
