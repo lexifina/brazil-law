@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 3, de 6 de janeiro de 2015
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: SALÁRIO DE CONTRIBUIÇÃO. PROGRAMA DE PREVIDÊNCIA COMPLEMENTAR. TOTALIDADE DOS EMPREGADOS E DIRIGENTES DA PESSOA JURÍDICA (MATRIZ E FILIAIS). O valor das contribuições efetivamente pago pela pessoa jurídica relativo a programa de previdência complementar, aberto ou fechado, desde que disponível à totalidade de seus empregados e dirigentes, levando-se em consideração todos os estabelecimentos da empresa (matriz e filiais), não integra o salário de contribuição. DISPOSITIVOS LEGAIS: Constituição Federal, art. 202, § 2º; Lei nº 8.212, de 1991, art. 28, § 9º, aliena “p”; e Decreto nº 3.048, de 1999, § 9º, inciso XV, e § 10.
+[arquivo anexo: SC Cosit nº 003-2015.pdf]
