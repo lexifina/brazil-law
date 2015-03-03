@@ -1,0 +1,1199 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 27
+
+03/03/2015
+
+PRIMEIRA TURMA
+
+EMB.DECL. NO RECURSO ORD. EM MANDADO DE SEGURANÇA 30.576
+DISTRITO FEDERAL
+RELATOR
+EMBTE.(S)
+ADV.(A/S)
+EMBDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: SOCIEDADE DAS IRMÃS ADORADORAS DO
+SANGUE DE CRISTO
+: JOÃO PAULO AMARAL RODRIGUES E OUTRO(A/S)
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+EMENTA
+
+Embargos de declaração em recurso ordinário em mandado de
+segurança. Decisão monocrática. Conversão em agravo regimental.
+Causa interruptiva de decadência administrativa devidamente prevista
+em lei. Termo inicial de contagem do prazo decadencial para a
+Administração Pública anular atos praticados antes da edição da Lei nº
+9.784/1999. Aplicação do entendimento firmado no Supremo Tribunal
+Federal. Alegado afastamento de dispositivo legal não verificado.
+Ausência de violação da cláusula de reserva de plenário. Agravo não
+provido.
+1. Descabida a alegação de criação jurisprudencial de causa
+interruptiva de decadência não prevista em lei, pois é a própria Lei nº
+9.784/1999 que prevê, em seu art. 54, § 2º, que qualquer medida de
+autoridade administrativa que impugne a validade de um ato já constitui
+o exercício do direito de anulá-lo.
+2. Relativamente aos atos praticados antes da edição da Lei nº
+9.784/1999, é aplicável o prazo decadencial de cinco anos para a
+Administração anulá-los, contados a partir da vigência dessa lei.
+Precedentes do STF.
+3. É competente o relator para, monocraticamente, negar seguimento
+a recurso manifestamente inadmissível, improcedente ou em desacordo
+com a jurisprudência do Tribunal. Artigo 21, § 1º, do Regimento Interno
+do Supremo Tribunal Federal.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142226.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 27
+
+RMS 30576 ED / DF
+4. Agravo não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, sob a Presidência da
+Senhora Ministra Rosa Weber, na conformidade da ata do julgamento e
+das notas taquigráficas, por maioria de votos, em converter os embargos
+de declaração em agravo regimental, vencido, nessa parte, o Senhor
+Ministro Marco Aurélio. Acordam, ademais, os Ministros, por
+unanimidade de votos, em negar provimento ao agravo regimental, nos
+termos do voto do Relator.
+Brasília, 3 de março de 2015.
+MINISTRO DIAS TOFFOLI
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142226.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 27
+
+03/03/2015
+
+PRIMEIRA TURMA
+
+EMB.DECL. NO RECURSO ORD. EM MANDADO DE SEGURANÇA 30.576
+DISTRITO FEDERAL
+RELATOR
+EMBTE.(S)
+ADV.(A/S)
+EMBDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: SOCIEDADE DAS IRMÃS ADORADORAS DO
+SANGUE DE CRISTO
+: JOÃO PAULO AMARAL RODRIGUES E OUTRO(A/S)
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+RELATÓRIO
+
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Cuida-se de embargos de declaração opostos em face de decisão com
+que se negou seguimento ao recurso em mandado de segurança, com a
+seguinte fundamentação:
+“Vistos.
+Cuida-se de Recurso Ordinário em Mandado de
+Segurança, interposto por SOCIEDADE DAS IRMÃS
+ADORADORAS DO SANGUE DE CRISTO contra acórdão do
+Superior Tribunal de Justiça, assim ementado:
+‘PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO
+DE
+SEGURANÇA.
+CEBAS.
+RENOVAÇÃO.
+INDEFERIMENTO.
+ATO
+ADMINISTRATIVO.
+REVOGAÇÃO DO EFEITO PROSPECTIVO. ART. 54 DA
+LEI 9.874/99. DECADÊNCIA NÃO CONFIGURADA.
+COISA JULGADA. INEXISTÊNCIA. CONTRARIEDADE
+AO ART. 150, § 4º, DO CTN. IMPROPRIEDADE.
+IMUNIDADE DO ART. 195, § 7º DA CF/88. DIREITO
+ADQUIRIDO. INEXISTÊNCIA. SÚMULA 352/STJ. LEI N.º
+9.429/96.
+REMISSÃO.
+IMPROPRIEDADE
+DA
+ALEGAÇÃO. INAPLICABILIDADE À IMPETRANTE.
+1. A Administração podia rever, a qualquer
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 27
+
+RMS 30576 ED / DF
+momento, os seus próprios atos, quando eivados de
+nulidade, até a edição da Lei nº 9.784/99, a partir de
+quando o Poder Público passou a dispor do prazo de cinco
+anos para desfazer os seus próprios atos.
+2. Sedimentou-se na jurisprudência desta Corte que a
+decadência para os atos anteriores à Lei 9.784/99, portanto,
+quando ainda não existia prazo para a Administração
+Pública revogar seus próprios atos, deve ser contada a
+partir da data em que a Lei entrou em vigor, vale dizer, 29
+de janeiro de 1999.
+3. No caso, o ato administrativo foi editado em 20 de
+abril de 1998, de modo que o prazo decadencial somente
+teve início em 29 de janeiro de 1999 e encerrava-se em 29
+de janeiro de 2004. O ato ministerial ora impugnado, que
+revogou em parte o ato anterior, foi expedido em 1º de
+setembro de 2006. Ocorre que, em 1º de setembro de 2003,
+portanto, antes de expirados os cinco anos, a
+Administração Pública deu início ao processo para anular,
+em parte, o primitivo ato administrativo.
+4. Nesses termos, houve interrupção do prazo em 1º
+de setembro de 2003, não havendo que se falar em
+consumação do prazo decadencial, e tampouco em
+violação do art. 54 da Lei 9.784/99, já que, nos termos do §
+2º desse dispositivo, "considera-se exercício do direito de
+anular qualquer medida de autoridade administrativa
+que importe impugnação à validade do ato". A abertura de
+um processo administrativo é, inquestionavelmente,
+medida da autoridade administrativa que impugna a
+validade do ato.
+5. A alegação da impetrante de que o ato coator viola
+a coisa julgada, por força de mandado de segurança que
+concluiu não ser possível à Fazenda Pública constituir
+créditos tributários posteriores a 20.04.98, não procede por
+duas razões: (a) porque o ato impugnado neste mandamus
+é da lavra do Ministro da Previdência Social e consiste em
+despacho exarado em processo administrativo que
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 27
+
+RMS 30576 ED / DF
+indeferiu pedido de renovação do CEBAS e revogou o
+efeito prospectivo consignado em decisão anterior. Este
+ato não constituiu crédito tributário algum, até porque não
+é função ministerial realizar lançamento de tributos, nem
+discutiu sobre prazo decadencial; e (b) em segundo lugar,
+a coisa julgada a que se refere a impetrante restringiu-se
+ao primeiro despacho ministerial, que indeferiu o pedido
+de renovação do CEBAS e fixou efeitos a partir de sua
+publicação, não abrangendo a decisão revisional ora
+impugnada, que revogou o efeito prospectivo
+anteriormente concedido. Em outras palavras, se a decisão
+judicial transitada em julgado impedia o INSS de
+constituir créditos anteriores a 20.04.98 justamente porque
+havia decisão do Ministro da Previdência indeferindo a
+renovação do CEBAS com efeitos para o futuro apenas,
+nada impede que esses créditos venham a ser constituídos
+se o efeito prospectivo foi posteriormente revogado por
+decisão do próprio Ministro, circunstância não examinada
+na primeira impetração.
+6. O argumento da impetrante de que a Fazenda
+Pública decaiu do direito de constituir os créditos
+tributários anteriores ao ato anulado, por força do que
+dispõe o art. 150, § 4º, do CTN, é absolutamente impróprio
+para o caso, já que o ato impugnado não constituiu crédito
+tributário algum, mas apenas anulou, em parte, ato
+administrativo anterior que fixara efeito prospectivo para
+a decisão do Ministro de Estado da Previdência que
+indeferira a renovação do CEBAS.
+7. A jurisprudência desta Corte é unânime em
+afirmar que não há direito adquirido à aquisição, ou
+renovação, do CEBAS, devendo a entidade postulante
+preencher todos os requisitos legais, ainda que
+supervenientes, para fazer jus ao benefício. Nesses termos,
+foi editada a Súmula 352/STJ, segundo a qual: "A obtenção
+ou a renovação do Certificado de Entidade Beneficente de
+Assistência Social (Cebas) não exime a entidade do
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 27
+
+RMS 30576 ED / DF
+cumprimento dos requisitos legais supervenientes".
+8. Por fim, ainda que a Lei 9.429/96 tenha concedido
+remissão de créditos tributários devidos pelas entidades
+filantrópicas, com ou sem certificado, esse fato em nada
+interfere no ato impugnado. A alegação de remissão
+somente seria cabível se, e somente se, algum crédito
+tributário vier a ser constituído no período em que a
+impetrante afirma estar amparada pelo benefício fiscal.
+9. Ademais, o art. 4º da Lei 9.429/96 declara extintos
+os créditos tributários das entidades beneficentes de
+assistência social que tenham cumprido o disposto no art.
+55 da Lei nº 8.212, de 24 de julho de 1991, o que não é o
+caso da impetrante, que não preencheu tais requisitos,
+segundo consta das informações da autoridade impetrada.
+10. Mandado de segurança denegado, prejudicado o
+agravo regimental.’
+A impetrante, ora recorrente, alega que o ato impugnado
+viola o disposto no art. 54 da Lei 9.784/99, que fixa o prazo
+quinquenal para que a Administração Pública anule seus
+próprios atos, por entender que o ato coator, datado de
+setembro de 2006, anulou parte do ato administrativo publicado
+em 1998 (para retirar a expressão “fixo os efeitos dessa decisão
+a contar de sua publicação”), quando já passados mais de 5
+anos. Com isso, os efeitos do indeferimento do Certificado
+teriam deixado de ser apenas para o futuro.
+Afirma que os fatos geradores da contribuição social,
+ocorridos até 20 de abril de 1998 estão protegidos por decisão
+judicial transitada em julgado, que teria reconhecido a sua
+imunidade até àquela data.
+Aduz que a Fazenda Pública decaiu do direito de
+constituir créditos tributários referentes aos fatos geradores
+ocorridos entre 1/1/95 e 20/4/98, em razão do disposto no art.
+150, § 4º, do CTN, que prevê o prazo quinquenal para constituilos.
+Sustenta a ilegalidade da decisão revisional sob o
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 27
+
+RMS 30576 ED / DF
+fundamento de que o ato inicial seria legítimo (o Ministro de
+Estado poderia limitar os efeitos de sua decisão no tempo, a
+partir da publicação do ato), essencialmente porque a
+morosidade da Administração Pública, e os prejuízos
+inevitáveis decorrentes dela, na apreciação de um processo de
+renovação de certificado, não podem ser suportados pelos
+administrados.
+Afirma possuir direito adquirido ao CEBAS, obtido em
+razão do disposto na Lei nº 3.577/59 e no Decreto-Lei nº
+1.572/77.
+Termina por defender que a Lei nº 9.429/96 concedeu
+remissão às entidades filantrópicas possuidoras ou não do
+CEBAS, de forma que entende que não havia porque retroagir
+os efeitos do indeferimento do certificado, se houve concessão
+legal de remissão às entidades até 27/07/97.
+Requer que o presente recurso seja conhecido e provido
+para reformar o acórdão combatido, acolhendo-se os pedidos
+feitos na exordial para que seja cassada a decisão que aprovou o
+Parecer/MPS/CJ nº 88/06, de forma a restabelecer os efeitos da
+decisão que aprovou o Parecer/MPS/CJ nº 1.259/98.
+A União apresentou contrarrazões ao recurso, aduzindo
+que
+‘(...) firmou-se o entendimento na doutrina e na
+jurisprudência no sentido de que, para os atos anteriores à
+publicação da Lei nº 9.784/99, o lapso temporal de cinco
+anos somente se consumaria em 01.02.2004.’
+Afirma que
+‘[n]ão há coisa julgada in casu, na medida em que a
+mencionada decisão judicial, proferida em mandado de
+segurança contra ato do chefe do serviço de arrecadação
+do INSS, limitou-se a interpretar e dar efetividade ao
+comando contido na decisão ministerial de 16.04.1998,
+sem, contudo, examinar o seu mérito.’
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 27
+
+RMS 30576 ED / DF
+
+Alega, ademais, que nos presentes autos discute-se apenas
+a matéria atinente aos efeitos da decisão ministerial que julgou
+o pedido de renovação do CEBAS do impetrante, de modo que
+esse mandado de segurança não seria o instrumento processual
+adequado à discussão da decadência do direito de lançar as
+contribuições sociais com fatos geradores entre 1/1/95 e 16/4/98.
+Não obstante, adentra no ponto para sustentar que
+‘[n]os termos do art. 45 da Lei nº 8.212/91, o direito
+da Seguridade Social apurar e constituir seus créditos
+extingue-se após 10 (dez) anos. Assim, (…) ainda
+poderiam ser constituídos os créditos referentes aos fatos
+geradores ocorridos após o ano de 1992 (5 anos + 10 anos).’
+Ademais, argumenta que mesmo que o prazo decadencial
+para constituir os créditos previdenciários seja de cinco anos, a
+Receita Federal poderá lançar os créditos do ano de 1997 e 1998,
+o que justificaria a anulação determinada pelo ato ministerial
+ora impugnado.
+Sustenta que
+‘(...) a pretensão de estender a preservação do direito
+adquirido das entidades que obtiveram incentivos fiscais
+sob condição e com prazo certo às entidades que gozavam
+de isenção por prazo indeterminado, revela-se absurda e
+contrária ao texto expresso da Constituição Federal’.
+Ao final, requer o não conhecimento ou o desprovimento
+do presente recurso.
+A Procuradoria-Geral da República manifestou-se pelo
+provimento do recurso, para que se conceda a segurança ou
+para que seja completada a apreciação do mandado de
+segurança pelo Superior Tribunal de Justiça, em parecer assim
+ementado:
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 27
+
+RMS 30576 ED / DF
+‘Recurso ordinário em mandado de segurança.
+Decadência Administrativa. Compreensão do art. 54 da
+Lei nº 9.784/99. Não basta que o início do processo de
+impugnação administrativa de ato da Administração, de
+que resultou vantagem para o particular, ocorra no prazo
+quinquenal do diploma. Cumpre que a anulação, ela
+própria, seja ultimada no período. Posição do Ministro
+Luiz Fux a respeito que se adota.’
+É o relatório. Decido.
+O presente mandamus, ora em sede de recurso ordinário,
+foi impetrado com o objetivo anular decisão do Ministro da
+Previdência e Assistência Social que aprovou o Parecer/MPS/CJ
+nº 88/06 no Processo Administrativo nº 28974002286/94, de
+forma a restabelecer os efeitos da decisão que aprovou o
+Parecer/MPS/CJ nº 1.259/98, nos mesmos autos.
+A decisão impugnada na inicial do writ foi responsável
+por declarar sem efeito, no ato que aprovou o Parecer/MPS/CJ
+nº 1.259/98, a expressão ‘fixo os efeitos desta decisão a contar de
+sua publicação’.
+Até a edição da Lei 9.785/99, a Administração pública
+podia rever os seus próprios atos quando eivados de nulidade,
+a qualquer tempo, conforme súmulas 346 e 473 desta Suprema
+Corte:
+‘A administração pública pode declarar a nulidade
+dos seus próprios atos.’
+‘A administração pode anular seus próprios atos,
+quando eivados de vícios que os tornam ilegais, porque
+deles não se originam direitos; ou revogá-los, por motivo
+de conveniência ou oportunidade, respeitados os direitos
+adquiridos, e ressalvada, em todos os casos, a apreciação
+judicial.’
+Com o advento da referida lei, em benefício da segurança
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 27
+
+RMS 30576 ED / DF
+jurídica, o prazo para anular os atos administrativos fora
+limitado, passando a Administração a dispor de cinco anos para
+desfazê-los. Vide art. 54, in verbis:
+‘Art. 54. O direito da Administração de anular os atos
+administrativos de que decorram efeitos favoráveis para
+os destinatários decai em cinco anos, contados da data em
+que foram praticados, salvo comprovada má-fé.
+§ 1o No caso de efeitos patrimoniais contínuos, o
+prazo de decadência contar-se-á da percepção do primeiro
+pagamento.
+§ 2o Considera-se exercício do direito de anular
+qualquer medida de autoridade administrativa que
+importe impugnação à validade do ato.’
+Para os atos anteriores à edição da Lei nº 9.784/99, firmouse o entendimento doutrinário e jurisprudencial de que o prazo
+decadencial de 5 anos deve ser contado a partir da publicação
+da Lei, qual seja, 29/1/99. Nesse sentido:
+‘AGRAVO REGIMENTAL. RECURSO ORDINÁRIO
+EM MANDADO DE SEGURANÇA. ART. 54 DA LEI
+9.784/1999. APLICABILIDADE A ATOS PRETÉRITOS.
+IMPOSSIBILIDADE.
+AGRAVO
+REGIMENTAL
+DESPROVIDO.
+I o prazo de decadência deve ser computado a partir
+da vigência da lei que o instituiu e não tendo em conta
+atos pretéritos.
+II Agravo regimental a que se nega provimento.’
+(RMS-AgR 27022, Relator o Ministro Ricardo
+Lewandowski, Primeira Turma, Dje de 30/5/11).
+Tendo em vista que ato administrativo parcialmente
+anulado foi proferido em 16/4/98, anteriormente, portanto, ao
+advento da Lei nº 9.784/99, o lapso quinquenal decadencial
+finalizou-se em 29/1/04 (5 anos após a publicação da lei).
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 27
+
+RMS 30576 ED / DF
+Assim, muito embora o ato revisional ministerial tenha
+sido expedido em 1/9/06, não pode se concluir pela decadência,
+tendo em vista que em 1/9/03, a Administração deu início ao
+processo administrativo para anular, em parte, o ato originário,
+conforme pode ser observado pelos documentos colacionados
+pela própria entidade impetrante (fls. 337/343).
+Não há a necessidade de que se proceda à efetiva anulação
+dentro do prazo decadencial, tendo em vista que o § 2º do art.
+52 da Lei nº 9.784/99 prevê apenas que seja exercido o direito de
+anular. Quebrada a inércia da Administração Pública antes de
+esgotado o prazo de cinco anos, não há de se falar em
+consumação da decadência.
+Leciona José dos Santos Carvalho Filho:
+‘Não há necessidade, pois, que a Administração
+anule de pronto o ato eivado de vício; basta que tome a
+efetiva iniciativa de fazê-lo. Tal iniciativa já estará apta a
+demonstrar que a Administração não está inerte e, como já
+está exercendo o direito no prazo quinquenal fixado na lei,
+não mais poderá considerar-se a possibilidade de ocorrer a
+decadência.’
+Com o início do processo administrativo, houve
+interrupção do prazo decadencial, de forma que entendo não
+ter havido violação ao art. 54, tampouco consumação da
+decadência.
+Quanto às argumentações do impetrante de que: (i) os
+fatos geradores da contribuição social, ocorridos até 20 de abril
+de 1998 estão protegidos por decisão judicial transitada em
+julgado, proferida nos autos do Mandado de Segurança nº
+2000.32.00.003966-2; (ii) teria ocorrido decadência do direito da
+Fazenda Pública de constituir créditos tributários anteriores ao
+ato anulado; e (iii) a Lei nº 9.429/96 concedeu remissão às
+entidades filantrópicas possuidoras ou não do CEBAS, observo
+que o ato impugnado nos autos consiste tão somente na decisão
+do Ministro de Estado da Previdência Social por meio da qual
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 27
+
+RMS 30576 ED / DF
+indeferiu o pedido de renovação do CEBAS e revogou de ato
+anterior a expressão ‘fixo os efeitos desta decisão a contar de
+sua publicação’.
+Destarte, o ato impugnado não constituiu crédito
+tributário algum, não detendo, inclusive, a autoridade coatora
+poderes para realizar o lançamento de tributos.
+Assim, as questões acima levantadas não se mostram
+pertinentes à discussão do presente mandamus, devendo a
+entidade impetrante suscitá-las na via e momento adequados.
+Ademais, esta Suprema Corte possui entendimento
+pacífico no sentido da ausência de direito adquirido a regime
+jurídico de imunidade tributária. Vide decisão colegiada deste
+STF, julgando caso análogo ao dos presentes autos:
+‘RECURSO ORDINÁRIO EM MANDADO DE
+SEGURANÇA.
+CONSTITUCIONAL.
+TRIBUTÁRIO.
+CONTRIBUIÇÕES
+SOCIAIS.
+IMUNIDADE.
+CERTIFICADO DE ENTIDADE BENEFICENTE DE
+ASSISTÊNCIA SOCIAL - CEBAS. RENOVAÇÃO
+PERIÓDICA.
+CONSTITUCIONALIDADE.
+DIREITO
+ADQUIRIDO. INEXISTÊNCIA. OFENSA AOS ARTIGOS
+146, II e 195, § 7º DA CB/88. INOCORRÊNCIA. 1. A
+imunidade das entidades beneficentes de assistência social
+às contribuições sociais obedece a regime jurídico definido
+na Constituição. 2. O inciso II do art. 55 da Lei n. 8.212/91
+estabelece como uma das condições da isenção tributária
+das entidades filantrópicas, a exigência de que possuam o
+Certificado de Entidade Beneficente de Assistência Social CEBAS, renovável a cada três anos. 3. A jurisprudência
+desta Corte é firme no sentido de afirmar a inexistência
+de direito adquirido a regime jurídico, razão motivo pelo
+qual não há razão para falar-se em direito à imunidade
+por prazo indeterminado. 4. A exigência de renovação
+periódica do CEBAS não ofende os artigos 146, II, e 195, §
+7º, da Constituição. Precedente [RE n. 428.815, Relator o
+Ministro SEPÚLVEDA PERTENCE, DJ de 24.6.05]. 5.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 13 de 27
+
+RMS 30576 ED / DF
+Hipótese em que a recorrente não cumpriu os requisitos
+legais de renovação do certificado. Recurso não provido’
+(RMS nº 27.093/DF, Relator o Ministro Eros Grau, Segunda
+Turma, DJe de 13/11/08).
+O atendimento de requisitos legais para que entidades
+beneficentes de assistência social façam jus à imunidade
+relativamente às contribuições previdenciárias está previsto na
+própria Constituição Federal de 1988, art. 195, § 7º, nos
+seguintes termos:
+‘§ 7º - São isentas de contribuição para a seguridade
+social as entidades beneficentes de assistência social que
+atendam às exigências estabelecidas em lei.’
+No julgamento do RE nº 428.815/AM-AgR, Relator o
+Ministro Sepúlveda Pertence, a Primeira Turma desta Suprema
+Corte confirmou a legitimidade da exigência de emissão e
+renovação periódica do certificado de que trata o art. 55, II, da
+Lei 8.212/91, restando consignado que referida norma não
+ofende os arts. 146, II, e 195, § 7º, ambos da Constituição Federal
+de 1988. Transcrevo, abaixo, a ementa do julgado:
+‘I. Imunidade tributária: entidade filantrópica: CF,
+arts. 146, II e 195, § 7º: delimitação dos âmbitos da matéria
+reservada, no ponto, à intermediação da lei complementar
+e da lei ordinária (ADI-MC 1802, 27.8.1998, Pertence, DJ
+13.2.2004; RE 93.770, 17.3.81, Soares Muñoz, RTJ 102/304).
+A Constituição reduz a reserva de lei complementar
+da regra constitucional ao que diga respeito ‘aos lindes da
+imunidade’, à demarcação do objeto material da vedação
+constitucional de tributar; mas remete à lei ordinária ‘as
+normas sobre a constituição e o funcionamento da
+entidade educacional ou assistencial imune’.
+II. Imunidade tributária: entidade declarada de fins
+filantrópicos e de utilidade pública: Certificado de
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 14 de 27
+
+RMS 30576 ED / DF
+Entidade de Fins Filantrópicos: exigência de renovação
+periódica (L. 8.212, de 1991, art. 55).
+Sendo o Certificado de Entidade de Fins
+Filantrópicos mero reconhecimento, pelo Poder Público,
+do preenchimento das condições de constituição e
+funcionamento, que devem ser atendidas para que a
+entidade receba o benefício constitucional, não ofende os
+arts. 146, II, e 195, § 7º, da Constituição Federal a exigência
+de emissão e renovação periódica prevista no art. 55, II, da
+Lei 8.212/91.’
+A atribuição da imunidade tributária (art. 195, § 7º, da
+CF/88) deve respeitar o prazo previsto no ordenamento jurídico
+pátrio no tocante à renovação do certificado, bem como os
+requisitos exigidos da entidade beneficente a fim de obter
+imunidade no pagamento de tributos, segundo critérios eleitos
+em consonância com a conjuntura política, social e econômica
+da sociedade.
+O pedido formulado no presente mandado de segurança,
+ora em sede de recurso ordinário, pressupõe que se admita que
+a instituição que cumprira os requisitos exigidos nas normas
+vigentes antes da edição do Decreto-lei nº 1.572/77 ostenta a
+qualidade de instituição beneficiária da imunidade tributária de
+forma perpétua, não se submetendo às normas supervenientes
+editadas sobre a matéria, entendimento que vai de encontro à
+jurisprudência consolidada nesta Suprema Corte no sentido da
+ausência de direito adquirido a regime jurídico tributário.
+Destaco, ainda, a existência de deliberação colegiada no
+sentido de que o Decreto nº 2.536/98 encontra-se nos limites do
+poder regulamentar do Poder Público, relativamente às Leis
+nºs 8.742/1993 e 8.909/1994. Vide precedente:
+‘RECURSO ORDINÁRIO EM MANDADO DE
+SEGURANÇA CONTRA ACÓRDÃO DO SUPERIOR
+TRIBUNAL
+DE
+JUSTIÇA.
+RENOVAÇÃO
+DO
+CERTIFICADO DE ENTIDADE BENEFICENTE DE
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 15 de 27
+
+RMS 30576 ED / DF
+ASSISTÊNCIA SOCIAL – CEBAS. APLICAÇÃO DE
+VINTE POR CENTO DA RECEITA BRUTA EM
+GRATUIDADE. EXIGÊNCIA DOS DECRETOS N.
+752/1993 E 2.536/1998 E DA RESOLUÇÃO MPAS/CNAS
+N. 46/1994. RECURSO ORDINÁRIO EM MANDADO DE
+SEGURANÇA NÃO PROVIDO. 1. Argumentos novos,
+suscitados apenas no recurso ordinário e que, portanto,
+não foram objeto do acórdão recorrido, não podem ser
+analisados, sob pena de ofensa ao princípio do duplo grau
+de jurisdição. 2. O Decreto n. 2.536/1998 e a Resolução
+MPAS/CNAS n. 46/1994 são regulamentos autorizados
+pelas Leis n. 8.742/1993 e 8.909/1994. 3. Não há ofensa ao
+art. 150, inc. I, da Constituição da República, pois esse
+dispositivo exige lei para instituição ou aumento de
+tributos e não cuida do estabelecimento de requisito a ser
+cumprido por entidade beneficente a fim de obter
+imunidade ao pagamento de tributos. 4. Em precedentes
+nos quais se discutia a renovação periódica do Certificado
+de Entidade Beneficente como exigência imposta às
+entidades beneficentes para a obtenção de imunidade, o
+Supremo Tribunal Federal firmou entendimento de que
+não há imunidade absoluta nem ofensa ao art. 195, § 7º, da
+Constituição da República. 5. Os acórdãos proferidos nas
+medidas
+cautelares
+nas
+Ações
+Diretas
+de
+Inconstitucionalidade n. 2.028/DF e 2.036/DF tratam de
+matéria diversa da discutida no presente recurso ordinário
+em mandado de segurança. 6. Eventual decadência do
+crédito tributário cobrado não pode ser analisada neste
+recurso ordinário em mandado de segurança, interposto
+contra ato do Ministro de Estado da Previdência Social,
+autoridade que não detém competência para proceder ao
+lançamento e à cobrança de créditos tributários. 7. Recurso
+ordinário em mandado de segurança não provido.’ (RMS
+nº 28.456/DF, Relatora a Ministra Cármen Lúcia, Primeira
+Turma, DJe de 11/6/12. Grifei)
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 16 de 27
+
+RMS 30576 ED / DF
+A matéria foi enfrentada de forma esclarecedora no voto
+da Ministra Cármen Lúcia:
+‘O § 7º do art. 195 da Constituição da República
+dispõe:
+‘Art. 195. A seguridade social será financiada
+por toda a sociedade, de forma direta e indireta, nos
+termos da lei, mediante recursos provenientes dos
+orçamentos da União, dos Estados, do Distrito
+Federal e dos Municípios, e das seguintes
+contribuições sociais:
+§ 7º - São isentas de contribuição para a seguridade
+social as entidades beneficentes de assistência social que
+atendam às exigências estabelecidas em lei’.
+Assim, a Constituição da República autorizou fossem
+estabelecidas em lei as exigências a serem cumpridas pelas
+entidades beneficentes de assistência social a fim de
+fazerem jus à imunidade prevista.
+Veio a Lei nº 8.212/1991, que, em seu art. 55, isentou a
+entidade beneficente de assistência social que atendesse
+aos requisitos lá elencados das contribuições de que
+tratam os arts. 22 e 23 dessa Lei.
+O inciso II do art. 55 exigia que a entidade
+beneficente de assistência social fosse ‘portadora do Registro
+e do Certificado de Entidade Beneficente de Assistência Social,
+fornecido pelo Conselho Nacional de Assistência Social,
+renovado a cada três anos’.
+O Decreto nº 752, de 16.2.1993, estabelecia, ainda:
+‘Art. 2º Faz jus ao Certificado de Entidade de
+Fins Filantrópicos a entidade beneficente de
+assistência social que demonstre, cumulativamente:
+IV - aplicar anualmente pelo menos vinte por cento
+da receita bruta proveniente da venda de serviços e de bens
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 17 de 27
+
+RMS 30576 ED / DF
+não integrantes do ativo imobilizado, bem como das
+contribuições operacionais, em gratuidade, cujo montante
+nunca será inferior à isenção de contribuições
+previdenciárias usufruída’ (grifos nossos).
+A Lei nº 8.742, de 7.12.1993, que dispõe sobre a
+organização da assistência social, estabelecia, antes da
+edição da Lei n. 12.101/2009, que competia ao Conselho
+Nacional de Assistência Social conceder ‘registro e
+certificado de entidades de fins filantrópicos, na forma do
+regulamento a ser fixado’ (art. 18, inc. IV, grifos nossos).
+Em 2001, com a alteração da Medida Provisória nº
+2.187-13/2001 ao art. 18, inc. IV, da Lei n. 8.742/1993, esse
+certificado passou a se chamar ‘Certificado de Entidade
+Beneficente de Assistência Social’.
+Em 6.7.1994, foi publicada a Lei n. 8.909, que dispôs,
+‘em caráter emergencial, sobre a prestação de serviços por
+entidades de assistência social, entidades beneficentes de
+assistência social e entidades de fins filantrópicos e estabelece[u]
+prazos e procedimentos para o recadastramento de entidades
+junto ao Conselho Nacional de Assistência Social’.
+O § 2º do art. 2º dessa Lei dispôs:
+‘Art. 2º As entidades registradas no Conselho
+Nacional de Serviço Social ou no Conselho Nacional
+de Assistência Social devem requerer o seu
+recadastramento junto ao Conselho Nacional de
+Assistência Social até 31 de março de 1995.
+(…)
+§ 2º O Conselho Nacional de Assistência Social
+divulgará, por resolução, no prazo máximo de sessenta
+dias, a contar da publicação desta lei, os critérios para
+realização do recadastramento, que devem ser de fácil
+entendimento e de baixo custo para as entidades.’ (grifos
+nossos).
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 18 de 27
+
+RMS 30576 ED / DF
+Em 7.7.1994, o Conselho Nacional de Assistência
+Social fez publicar a Resolução n. 46, que ‘estabelece regras e
+critérios para a concessão ou renovação do Certificado de
+Entidade de Fins Filantrópicos’ e exige:
+‘Art. 2 - O Certificado de Entidade de Fins
+Filantrópicos somente poderá ser concedido ou
+renovado para entidade beneficente de assistência
+social, educacional ou de saúde, que comprove,
+cumulativamente:
+III - aplicar anualmente em gratuidade pelo menos
+vinte por cento da receita bruta proveniente da venda de
+serviços e bens não integrantes do ativo imobilizado, bem
+como das contribuições operacionais’ (grifos nossos).
+Em 6.4.1998, foi editado o Decreto n. 2.536/1998, que
+dispôs ‘sobre a concessão do Certificado de Entidade de Fins
+Filantrópicos a que se refere o inciso IV do art. 18 da Lei nº
+8.742, de 7 de dezembro de 1993’.
+Esse Decreto revogou o de n. 752/1993, mas repetiu a
+exigência lá disposta quanto à aplicação de 20% da receita
+bruta da entidade beneficente de assistência social em
+gratuidade:
+‘Art. 3º Faz jus ao Certificado de Entidade
+Beneficente de Assistência Social a entidade
+beneficente de assistência social que demonstre,
+cumulativamente:
+VI - aplicar anualmente, em gratuidade, pelo menos
+vinte por cento da receita bruta proveniente da venda de
+serviços, acrescida da receita decorrente de aplicações
+financeira, de locação de bens, de venda de bens não
+integrantes do ativo imobilizado e de doações particulares,
+cujo montante nunca será inferior à isenção de
+contribuições sociais usufruída’ (grifos nossos).
+
+16
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 19 de 27
+
+RMS 30576 ED / DF
+Registro que hoje vigora, na matéria, a Lei n.
+12.101/2009, que alterou a Lei n. 8.742/1993 e revogou o
+art. 55 da Lei nº 8.212/1991, e seu art. 13 mantém a
+exigência da aplicação de pelo menos 20% da receita anual
+da entidade de educação em gratuidade.’
+Destaco que a matéria aqui em discussão não é nova,
+existindo inúmeros precedentes que reconhecem a perfeita
+legalidade da exigência consistente na aplicação de 20% da
+receita bruta, para fins de obtenção do certificado de entidade
+de fins filantrópicos.
+Transcrevo, por oportuno, ementas de julgados, proferidos
+na análise de casos semelhantes ao presente:
+‘RECURSO ORDINÁRIO EM MANDADO DE
+SEGURANÇA.
+CONSTITUCIONAL.
+TRIBUTÁRIO.
+CONTRIBUIÇÕES
+SOCIAIS.
+IMUNIDADE.
+CERTIFICADO DE ENTIDADE BENEFICENTE DE
+ASSISTÊNCIA SOCIAL – CEBAS. 1) IMPOSSIBILIDADE
+DE DILAÇÃO PROBATÓRIA EM MANDADO DE
+SEGURANÇA. PRECEDENTES. 2) AUSÊNCIA DE
+IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO
+RECORRIDA.
+3)
+CONSTITUCIONALIDADE
+DA
+EXIGÊNCIA
+DE
+RENOVAÇÃO
+PERIÓDICA.
+INEXISTÊNCIA
+DE
+DIREITO
+ADQUIRIDO.
+PRECEDENTES. 4) RECURSO AO QUAL SE NEGA
+PROVIMENTO.’ (RMS nº 27300/DF, Rel. Min. Cármen
+Lúcia, Primeira Turma, DJ de 23/11/11).
+‘AGRAVO
+REGIMENTAL
+EM
+RECURSO
+ORDINÁRIO EM MANDADO DE SEGURANÇA.
+ENTIDADE DE ASSISTÊNCIA SOCIAL. IMUNIDADE.
+CERTIFICADO DE ENTIDADE BENEFICENTE DE
+ASSISTÊNCIA SOCIAL – CEBAS. DIREITO ADQUIRIDO.
+COISA
+JULGADA.
+INEXISTÊNCIA.
+AGRAVO
+DESPROVIDO. I - A jurisprudência desta Corte é no
+
+17
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 20 de 27
+
+RMS 30576 ED / DF
+sentido de que não existe direito adquirido à manutenção
+de regime jurídico de imunidade tributária. Precedentes. II
+- A Constituição Federal de 1988, no seu art. 195, § 7º,
+conferiu imunidade às entidades beneficentes de
+assistência social em relação às contribuições para a
+Seguridade Social, desde que atendidos os requisitos
+definidos por lei. III - A decisão judicial invocada pela
+agravante somente garantiu que a renovação do CEBAS
+fosse apreciada à luz da legislação então vigente e o
+Ministro de Estado da Previdência Social, ao efetuar essa
+análise, entendeu que os requisitos não foram
+preenchidos. Afastar essa conclusão demandaria o
+reexame do conjunto probatório, que se mostra inviável
+nesta via. IV – Agravo regimental desprovido’ (RMS nº
+27.977-AgR/DF, Relator o Ministro Ricardo Lewandowski,
+Primeira Turma, DJe de 26/5/11).
+‘CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE
+DE ENTIDADE BENEFICENTE. CERTIFICADO DE
+ENTIDADE BENEFICENTE - CEBAS EMITIDO E
+PRETENSAMENTE RECEPCIONADO PELO DECRETOLEI 1.752/1977. DIREITO ADQUIRIDO. ART. 195, § 7º DA
+CONSTITUIÇÃO. DISCUSSÃO SOBRE O QUADRO
+FÁTICO. ATENDIMENTO OU NÃO DOS REQUISITOS
+LEGAIS. 1. Nenhuma imunidade tributária é absoluta, e o
+reconhecimento da observância aos requisitos legais que
+ensejam a proteção constitucional dependem da incidência
+da norma aplicável no momento em que o controle da
+regularidade é executado, na periodicidade indicada pelo
+regime de regência. 2. Não há direito adquirido a regime
+jurídico relativo à imunidade tributária. A concessão de
+Certificado de Entidade Beneficente - Cebas não imuniza a
+instituição contra novas verificações ou exigências, nos
+termos do regime jurídico aplicável no momento em que o
+controle é efetuado. Relação jurídica de trato sucessivo. 3.
+O art. 1º, § 1º do Decreto-lei 1.752/1977 não afasta a
+
+18
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 21 de 27
+
+RMS 30576 ED / DF
+obrigação de a entidade se adequar a novos regimes
+jurídicos pertinentes ao reconhecimento dos requisitos que
+levam à proteção pela imunidade tributária. 4. Não cabe
+mandado de segurança para discutir a regularidade da
+entidade beneficente se for necessária dilação probatória.
+Recurso ordinário conhecido, mas ao qual se nega
+provimento’ (RMS nº 26.932/DF, Relator o Ministro
+Joaquim Barbosa, Segunda Turma, DJe de 5/2/10).
+Não vislumbro, pois, violação a direito líquido e certo da
+impetrante.
+Ante todo o exposto, nego seguimento ao recurso
+ordinário, nos termos do artigo 21, § 1º, do RISTF. ”
+
+Em suas razões recursais, o embargante alega que a decisão
+recorrida incide em obscuridade, pois teria criado, jurisprudencialmente,
+causa de interrupção de decadência não prevista no art. 54 da Lei nº
+9.784/1999, violando, desse modo, o princípio da reserva de lei.
+Afirma que a decisão embargada ofende também a cláusula de
+reserva de plenário (art. 97 da Constituição Federal), porquanto teria o
+Relator afastado, monocraticamente, a incidência de parte do art. 54 da
+Lei nº 9.784/1999, ao concluir que o prazo quinquenal previsto no
+mencionado dispositivo seria apenas para que a Administração Pública
+adotasse qualquer procedimento tendente a anular o ato administrativo
+praticado antes da edição da referida lei, e não para proceder à efetiva
+anulação.
+Sustenta a necessidade de afetação da matéria ao Plenário do
+Supremo Tribunal Federal, sob o argumento de que, por se tratar de
+recurso ordinário em mandado de segurança, esta Corte atua como
+segunda instância, devendo observar a cláusula da reserva de plenário
+nas decisões tomadas em controle de constitucionalidade.
+Requer o acolhimento dos embargos de declaração para que seja
+sanada a apontada obscuridade, reconhecendo-se a inexistência de causas
+interruptivas da decadência para a Administração Pública rever seus atos,
+bem como a ocorrência de violação da cláusula da reserva de plenário.
+19
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 22 de 27
+
+RMS 30576 ED / DF
+É o relatório.
+
+20
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142223.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 23 de 27
+
+03/03/2015
+
+PRIMEIRA TURMA
+
+EMB.DECL. NO RECURSO ORD. EM MANDADO DE SEGURANÇA 30.576
+DISTRITO FEDERAL
+VOTO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Preliminarmente, diante da reiterada jurisprudência desta Corte no
+sentido do não cabimento de embargos de declaração em face de decisões
+monocráticas, converto estes embargos em agravo regimental, para, ao
+final, a ele negar provimento.
+Tenho que o inconformismo não merece prosperar.
+O art. 207 do Código Civil dispõe que o instituto da decadência não
+sofre interrupção ou suspensão, salvo disposição de lei em contrário:
+“Art. 207. Salvo disposição legal em contrário, não se
+aplicam à decadência as normas que impedem, suspendem ou
+interrompem a prescrição.”
+
+No que concerne à decadência administrativa, a Lei nº 9.784/1999
+fixou, em seu art. 54, o prazo de cinco anos para que a Administração
+Pública possa anular seus atos, a contar da data em que foram praticados,
+e estabeleceu, no § 2º do mesmo dispositivo legal, uma hipótese de
+interrupção desse prazo decadencial. Vejamos:
+“Art. 54. O direito da Administração de anular os atos
+administrativos de que decorram efeitos favoráveis para os
+destinatários decai em cinco anos, contados da data em que
+foram praticados, salvo comprovada má-fé.
+§ 1º No caso de efeitos patrimoniais contínuos, o
+prazo de decadência contar-se-á da percepção do primeiro
+pagamento.
+§ 2º Considera-se exercício do direito de anular
+qualquer medida de autoridade administrativa que importe
+impugnação à validade do ato.”
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142224.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 24 de 27
+
+RMS 30576 ED / DF
+
+Assim, não é necessário que a Administração conclua a efetiva
+anulação de seus atos administrativos dentro do prazo decadencial de
+cinco anos, bastando que pratique, dentro desse período, qualquer
+medida tendente a invalidar o ato, o que se revela suficiente para
+interromper a decadência, conforme previsão da própria Lei nº
+9.784/1999.
+Não prospera, portanto, a alegação de que a decisão agravada teria
+“criado” causa de interrupção de decadência inexistente em lei.
+In casu, o prazo decadencial para a anulação do ato administrativo
+que fora praticado em 16/4/1998 se findaria em 29/1/2004 (cinco anos após
+a publicação da Lei do Processo Administrativo), mas a decadência não
+chegou a se consumar porque foi interrompida em 1º/9/03, data em que a
+Administração deu início ao processo administrativo destinado a anular,
+em parte, aquele ato.
+Tampouco prospera a alegação da agravante de que a aplicação do
+art. 54, da Lei nº 9.784/1999 foi parcialmente afastada pela r. decisão
+monocrática, sem observância da chamada cláusula de reserva de
+plenário.
+Em verdade, o que ocorreu, no caso, foi a adoção do entendimento já
+firmado nesta Corte de que, relativamente aos atos praticados antes da
+edição da Lei nº 9.784/1999, é aplicável o prazo decadencial de cinco anos
+para a Administração anulá-los, devendo tal prazo, contudo, ser contado
+a partir da vigência da mencionada lei, ou seja, a partir de 1º/2/99, a fim
+de não alcançar atos pretéritos.
+Colaciono precedentes desta Corte no mesmo sentido:
+“RECURSO
+ORDINÁRIO
+EM
+MANDADO
+DE
+SEGURANÇA. ADMINISTRATIVO. ANISTIA CONCEDIDA
+COM BASE NA LEI N. 8.878/1994. ANULAÇÃO. PORTARIA
+INTERMINISTERIAL N. 325/2002. ART. 54 DA LEI N.
+9.784/1999. PRAZO DECADENCIAL COMPUTADO A PARTIR
+DA VIGÊNCIA DA NORMA. PRECEDENTES. DECADÊNCIA
+ADMINISTRATIVA NÃO CONFIGURADA. RECURSO
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142224.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 25 de 27
+
+RMS 30576 ED / DF
+ORDINÁRIO EM MANDADO DE SEGURANÇA AO QUAL SE
+NEGA PROVIMENTO.” (RMS nº 27.671/DF, Segunda Turma,
+Relatora a Min. Cármen Lúcia, DJe de 20/11/2012)
+“AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM
+MANDADO DE SEGURANÇA. ART. 54 DA LEI 9.784/1999.
+APLICABILIDADE
+A
+ATOS
+PRETÉRITOS.
+IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I – o prazo de decadência deve ser computado a partir da
+vigência da lei que o instituiu e não tendo em conta atos
+pretéritos.
+II – Agravo regimental a que se nega provimento” (RMS
+nº 27.022-AgR/DF, Primeira Turma, Relator o Min. Ricardo
+Lewandowski, DJe de 30/5/11)
+“AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM
+MANDADO
+DE
+SEGURANÇA.
+ADMINISTRATIVO.
+ANULAÇÃO DE ANISTIA. LEI 8.878/1994. DECADÊNCIA
+ADMINISTRATIVA. AFRONTA AO DEVIDO PROCESSO
+LEGAL. INOCORRÊNCIA. AGRAVO IMPROVIDO.
+I – Não há falar em inércia da Administração em rever as
+anistias concedidas, uma vez que foi criada comissão específica
+para o caso, no âmbito do Poder Executivo, antes da fluência do
+prazo decadencial.
+II – O prazo previsto no art. 54 da Lei 9.784/1999 deve ser
+iniciado a partir da sua vigência.
+III – O mandado de segurança não admite dilação
+probatória.
+IV – Agravo a que se nega provimento” (RMS nº 27.197AgR/DF, Primeira Turma, Relator o Min. Ricardo
+Lewandowski, DJe de 11/4/2011)
+“RECURSO
+ORDINÁRIO
+EM
+MANDADO
+DE
+SEGURANÇA. DIREITO ADMINISTRATIVO. ANISTIA [LEI N.
+8.878/94]. REVOGAÇÃO POR ATO DO MINISTRO DE
+ESTADO DA JUSTIÇA APÓS PROCESSO ADMINISTRATIVO
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142224.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 26 de 27
+
+RMS 30576 ED / DF
+QUE TEVE CURSO EM COMISSÃO INTERMINISTERIAL.
+POSSIBILIDADE. SÚMULAS 346 E 473 DO STF.
+DECADÊNCIA. INOCORRÊNCIA. CONTAGEM DO PRAZO
+QUINQUENAL A PARTIR DA VIGÊNCIA DO ARTIGO 54 DA
+LEI N. 9.784/99 [1º.2.99]. CERCEAMENTO DE DEFESA.
+VIOLAÇÃO DO CONTRADITÓRIO E DA AMPLA DEFESA.
+INOCORRÊNCIA. RECURSO IMPROVIDO.
+1. A Administração Pública tem o direito de anular seus
+próprios atos, quando ilegais, ou revogá-los por motivos de
+conveniência e oportunidade [Súmulas 346 e 473, STF].
+2. O prazo decadencial estabelecido no art. 54 da Lei
+9.784/99 conta-se a partir da sua vigência [1º.2.99], vedada a
+aplicação retroativa do preceito para limitar a liberdade da
+Administração Pública.
+3. Inexistência de violação dos princípios do contraditório
+e da ampla defesa. Todos os recorrentes apresentaram defesa no
+processo administrativo e a decisão da Comissão
+Interministerial contém todos os elementos inerentes ao ato
+administrativo
+perfeito,
+inclusive
+fundamentação
+pormenorizada para a revogação do benefício.
+Recurso
+ordinário a que se nega provimento” (RMS nº 25.856/DF,
+Segunda Turma, Relator o Min. Eros Graus, DJe de 14/5/10)
+
+Não houve, portanto, afastamento parcial da norma inscrita no art.
+54, da Lei nº 9.784/1999 pela decisão monocrática, que tão somente
+aplicou o entendimento jurisprudencial da Corte à pretensão autoral, o
+que é autorizado pelo art. 21, § 1º, do Regimento Interno deste Tribunal,
+por força do qual o Relator detém competência para, monocraticamente,
+negar seguimento a recursos em mandado de segurança quando
+manifestamente inadmissíveis, improcedentes, ou veiculadores de
+pretensão contrária à jurisprudência dominante do Supremo Tribunal
+Federal.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8142224.
+
+Supremo Tribunal Federal
+Extrato de Ata - 03/03/2015
+
+Inteiro Teor do Acórdão - Página 27 de 27
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+EMB.DECL. NO RECURSO ORD. EM MANDADO DE SEGURANÇA 30.576
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. DIAS TOFFOLI
+EMBTE.(S) : SOCIEDADE DAS IRMÃS ADORADORAS DO SANGUE DE CRISTO
+ADV.(A/S) : JOÃO PAULO AMARAL RODRIGUES E OUTRO(A/S)
+EMBDO.(A/S) : UNIÃO
+ADV.(A/S) : ADVOGADO-GERAL DA UNIÃO
+Decisão: Por maioria de votos, a Turma converteu os embargos
+de declaração em agravo regimental, vencido, nessa parte, o Senhor
+Ministro Marco Aurélio. Por unanimidade, negou provimento ao
+agravo regimental, nos termos do voto do Relator. Presidência da
+Senhora Ministra Rosa Weber. 1ª Turma, 3.3.2015.
+
+Presidência da Senhora Ministra Rosa Weber. Presentes à Sessão
+os Senhores Ministros Marco Aurélio, Dias Toffoli, Luiz Fux e
+Roberto Barroso.
+Subprocuradora-Geral da República, Dra. Déborah Duprat.
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 8016923
