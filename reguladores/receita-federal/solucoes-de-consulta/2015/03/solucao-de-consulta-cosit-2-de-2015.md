@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 2, de 6 de janeiro de 2015
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA – IRPJ EMENTA: INCENTIVOS FISCAIS. SUDENE. REDUÇÃO DO IRPJ EM 75%. ATIVIDADE HOTELEIRA - DEMAIS RECEITAS - ALCANCE DA ISENÇÃO. As pessoas jurídicas que exploram a atividade hoteleira nas áreas de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE -, cumpridos os requisitos legais, podem gozar do incentivo fiscal de redução de 75% do Imposto de Renda Pessoa Jurídica - IRPJ - e adicional. A redução do IRPJ se estende às receitas da atividade de restaurante explorada pelo hotel. DISPOSITIVOS LEGAIS: Medida Provisória nº 2.199-14, art. 1º, Decreto nº 4.213, de 26 de abril de 2002, art. 2º; inciso II.
+[arquivo anexo: SC Cosit nº 002-2015.pdf]
