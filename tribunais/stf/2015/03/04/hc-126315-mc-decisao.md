@@ -1,0 +1,27 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União, em favor de Luis Antonio Tadeu Moreira, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao Agravo Regimental no REsp 1.396.731/SP.
+    Na espécie, o paciente foi preso em flagrante em 8.10.2010, por trazer consigo, para consumo de terceiros, 32 (trinta e duas) porções de cocaína e 50 (cinquenta) porções de crack, sem autorização e em desacordo com determinação legal e regulamentar, além da quantia de R$ 211,00 (duzentos e onze reais).
+    Após as diligências investigativas, foi denunciado pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+    Em 28.12.2010, a denúncia foi recebida pelo Juízo da 1ª Vara da Comarca de Aparecida.
+    As informações referentes à vida pregressa do paciente constam no eDOC 3, p. 24-52.
+    Transcorrida a instrução criminal, sobreveio a condenação, na qual o paciente recebeu a reprimenda de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, mais o pagamento de 583 dias-multa.
+    Interposta apelação defensiva perante o TJ/SP, esta foi parcialmente provida, sendo redimensionada a pena para 2 (dois) anos e 6 (seis) meses de reclusão, com manutenção do regime inicial fechado para cumprimento da pena, mais o pagamento de 250 dias-multa, afastando-se a circunstância desfavorável referente aos maus antecedentes, fixando a pena-base no mínimo legal e aplicando a causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/2006, no patamar de 1/2. Confiram-se os termos da ementa:
+    “TÓXICO - Crime de tráfico - Quadro probatório que se mostra seguro e coeso para evidenciar autoria e materialidade do delito - Inexistência de dúvida que justifica o decreto condenatório - Impossibilidade de desclassificação para o crime de posse de drogas para uso pessoal (art. 28 da Lei nº 11.343/06) - Condenação mantida - Dosimetria da pena - Não reconhecimento de maus antecedentes - Decurso do período depurador (art. 64, I, CP) - Fixação da pena-base no mínimo legal - Acusado que preenche todos os requisitos exigidos para aplicação da causa de diminuição (art. 33, § 4º) - Quantidade e variedade do tóxico que justifica a fixação do redutor na fração intermediária - Regime inicial fechado que decorre de expressa previsão legal - Recurso parcialmente provido”. (eDOC 4, p. 23).
+    Daí a interposição de recurso especial pelo Ministério Público do Estado de São Paulo perante o Superior Tribunal de Justiça. O apelo especial foi admitido pelo Tribunal estadual e foi provido, monocraticamente, sendo determinado o restabelecimento da sentença proferida pelo Juízo de 1º grau, tendo em vista a existência de maus antecedentes.
+    Interposto agravo regimental pela defesa, a Sexta Turma do STJ negou-lhe provimento, nos termos da seguinte ementa:
+    “PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE TRÁFICO. DECURSO DE LAPSO TEMPORAL SUPERIOR A CINCO ANOS ENTRE O TÉRMINO DA CONDENAÇÃO ANTERIOR E A DATA DO NOVO CRIME. RECONHECIMENTO DE MAUS ANTECEDENTES. POSSIBILIDADE. - É firme neste Superior Tribunal de Justiça o entendimento de que as condenações anteriores transitadas em julgado, alcançadas pelo prazo de 5 anos de que cuida o art. 64, inciso I, do Código Penal, constituem fundamento idôneo para justificar a exasperação da pena-base, ao passo que, embora esse período afaste os efeitos da reincidência, não o faz quanto aos maus antecedentes. Precedentes. - Agravo regimental desprovido”.
+    Nesta Corte Suprema, a defesa afirma que condenações anteriores transitadas em julgado, alcançadas pelo prazo depurador de 5 anos, não podem configurar maus antecedentes, sob pena de atribuir efeitos perpétuos às condenações.
+    Aduz, nesse sentido, que o entendimento da Primeira Turma da Corte Suprema (HC 119.200/PR) é no sentido de não poderem ser consideradas como maus antecedentes condenações anteriores cuja pena foi extinta há mais de cinco anos.
+    Questiona também a fixação de regime fechado para cumprimento de pena, considerando que as penas fixadas tanto em 1ª grau (5 anos e 6 meses) quanto no Tribunal de origem (2 anos e 6 meses), segundo os critérios do art. 33, § 2º, do CP, demonstram a necessidade de fixar o regime inicial diverso do fechado.
+    Após a apreciação pelo Ministro Presidente desta Corte, com base no art. 13 do RI/STF, a impetração veio para minha apreciação.
+    A Procuradoria-Geral da República opinou pelo não conhecimento do writ e, se conhecido, pela denegação da ordem.
+    É o relatório.
+    Decido.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora.
+    Da análise dos autos, em sede de cognição sumária, não vislumbro constrangimento ilegal manifesto a justificar o deferimento da medida de urgência, uma vez que o constrangimento não se revela de plano, impondo uma análise mais detalhada dos elementos de convicção trazidos aos autos, o que ocorrerá por ocasião do julgamento do mérito.
+    Dessa forma, salvo melhor juízo quanto ao mérito, os fundamentos adotados pela decisão proferida pelo STJ, assim como os demais elementos constantes dos autos, não autorizam a concessão da liminar.
+    Ante o exposto, indefiro a liminar.
+    Publique-se.
+    Brasília, 4 de março de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
