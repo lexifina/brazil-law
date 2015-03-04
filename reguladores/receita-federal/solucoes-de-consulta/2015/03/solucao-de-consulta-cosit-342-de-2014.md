@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 342, de 16 de dezembro de 2014
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF EMENTA: É dispensada a retenção do Imposto sobre a Renda na Fonte sobre rendimentos de aplicações financeiras de renda fixa quando o beneficiário do rendimento declarar à fonte pagadora, por escrito, sua condição de entidade imune. É possível utilizar-se o Anexo Único da IN RFB nº 1.022, de 2010, como modelo de declaração. DISPOSITIVOS LEGAIS: CF/1988, art. 150, VI, ‘b’ e § 4º; Lei nº 8.981/1995, art. 71; ADN 27, de 1993; IN RFB nº 1.022/2010, art. 57.
+[arquivo anexo: SC Cosit nº 342-2014.pdf]
