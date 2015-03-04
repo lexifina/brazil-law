@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 25, de 26 de fevereiro de 2015
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS EMENTA: SISCOSERV. SERVIÇOS DE HOSPEDAGEM. OBRIGATORIEDADE DE REGISTRO. Os serviços de hospedagem (hotelaria), e serviços correlatos (lavanderia, telefonia, etc) prestados por hotéis domiciliados no Brasil a residentes ou domiciliados no exterior devem, obrigatoriamente, ser registrados no Siscoserv. DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, arts. 24 e 25; Instrução Normativa RFB nº 1.277, de 2012; Portaria Conjunta RFB/SCS nº 1.908, de 19 de julho de 2012, art. 1º, caput; Manuais do Siscoserv, 9ª edição, instituídos pela Portaria Conjunta RFB/SCS nº 43, de 2015.
+[arquivo anexo: SC Cosit nº 025-2015.pdf]
