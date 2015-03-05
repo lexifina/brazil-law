@@ -1,0 +1,43 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DEMOLIÇÃO DE IMÓVEL EM SITUAÇÃO IRREGULAR: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CAUTELAR E AÇÃO DECLARATÓRIA. PRELIMINARES DE INÉPCIA DO RECURSO E DE CERCEAMENTO DE DEFESA. REJEIÇÃO. MÉRITO: AUTO DE DEMOLIÇÃO. EDIFICAÇÃO ERIGIDA EM ÁREA PÚBLICA. AUSÊNCIA DE ALVARÁ DE CONSTRUÇÃO. DEMOLIÇÃO. LEGALIDADE.
+    1. Não se mostra inepta a peça recursal que, ainda que de maneira sucinta, ataca os fundamentos da sentença, na forma exigida pelo artigo 514 do Código de Processo Civil.
+    2. Verificado que a parte autora foi regularmente intimada acerca do valor dos honorários do perito, deixando, contudo, transcorrer o prazo assinado, sem promover o depósito da aludida verba, o reconhecimento da preclusão quanto à produção da prova não configura cerceamento de defesa.
+    3. A ausência de alvará de construção autoriza a demolição do imóvel, nos termos do artigo 51 da Lei Distrital n. 2.105/98 (Código de Edificações do Distrito Federal), independentemente de se encontrar o bem localizado em área pública ou particular.
+    4. Preliminares rejeitadas. Recurso de apelação conhecido e não provido” (doc. 4).
+    Os embargos de declaração opostos foram rejeitados.
+    2. Os Agravantes alegam contrariados os arts. 5º, incs. XXXV, LIV e LV, 37 e 93, inc. IX, da Constituição da República, argumentando que,
+    “tendo sido o principal motivo para a expedição da ordem de demolição do referido imóvel o fato de este ter sido, supostamente, erigido em terras públicas, não poderia a Administração Pública, em juízo, desvincular-se dessa tese para adotar outra manifestamente diversa, qual seja, a da suposta inexistência de alvará de construção.
+    Assim, demonstrada a violação ao princípio do ato vinculado e ao princípio da legalidade, deve o acórdão recorrido ser reformado in totum para que se dê provimento integral ao pleito autoral” (doc. 4).
+    3. O recurso extraordinário foi inadmitido aos seguintes fundamentos: a) ausência de prequestionamento; b) ofensa constitucional indireta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada quanto à ausência de prequestionamento, por ter sido suscitada a questão constitucional em momento processual adequado.
+    A superação desse fundamento, todavia, não é suficiente para o acolhimento da pretensão dos Agravantes.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão dos Agravantes, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    7. O Tribunal de origem decidiu:
+    “Quanto ao mérito, observa-se que o artigo 51 da Lei n. 2.105/98 (Código de Edificações do Distrito Federal), disciplina que a construção só pode ser iniciada mediante a expedição de alvará de construção, nos seguintes termos:
+    ‘Art. 51. As obras de que trata esta Lei, em área urbana ou rural, pública ou privada, só podem ser iniciadas após a obtenção de licenciamento no respectiva Administração Regional’.
+    Com efeito, a análise do texto legal conduz à conclusão de que a apresentação do alvará antecede a discussão acerca da localização do imóvel (em área pública ou particular).
+    (...)
+    Ressalte-se que conquanto a parte autora insista na tese de que a Administração está vinculada às ponderações feitas pelo fiscal, no auto de infração, no sentido de que a construção possivelmente teria sido realizada em terra pública, certo é que a ausência de alvará, cuja exigência decorre de lei, por si só, já autoriza a demolição do imóvel.
+    (…)
+    Ademais, a notificação acostada à fl. 26 da Ação Declaratória, além da ponderação de que o lote se encontrava ‘provavelmente em área pública’, também indica a necessidade de apresentação de ‘alvará de construção, comprovante de pagamento de taxas’ e da ‘planta baixa do imóvel’.
+    (…)
+    Da análise dos autos, observa-se que diante da presunção de propriedade de que gozava o apelante, o Distrito Federal apresentou laudo técnico (fls. 123/124 da Ação Declaratória), que indicou que o galpão foi construído em área pública, além dos limites do lote, conforme se observa das fotografias colacionadas às fls. 125/127 da Ação Declaratória.
+    A fim de contrapor o laudo técnico apresentado pelo Distrito Federal, os autores/apelantes requereram a realização de perícia, que só não foi levada a efeito, conforme já analisado em preliminar, em razão da desídia dos autores, ao deixarem de depositar os honorários periciais arbitrados pelo MM. Juiz naquela oportunidade.
+    Deste modo, deixando a parte autora de apresentar provas aptas a infirmar a presunção de veracidade dos laudos técnicos apresentados pelo réu/apelado que indicam que o galpão foi edificado em área pública, tem-se por inviabilizado o acolhimento da pretensão recursal” (doc. 4).
+    A apreciação do pleito recursal demandaria a análise da legislação infraconstitucional aplicável à espécie (Lei distrital n. 2.105/1998) e o reexame do conjunto fático-probatório constante do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem, na espécie, as Súmulas ns. 279 e 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EMBARGO E DEMOLIÇÃO DE CONSTRUÇÃO IRREGULAR. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 789.497-AgR, de minha relatoria, Segunda Turma, DJe 13.3.2014, grifos nossos).
+    “Agravo regimental em recurso extraordinário com agravo. Serviço de fornecimento de energia elétrica. Imóvel irregular. Decreto Distrital 32.898/2011. Legislação local. Fatos e provas. Súmulas 280 e 279. Precedentes. 2. Mitigação do exercício do direito constitucional à moradia. Ofensa reflexa. Precedentes. 3. Agravo regimental a que se nega seguimento” (ARE 763.824-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 8.10.2013, grifos nossos).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DE PROPRIEDADE. LIMITAÇÃO. DEMOLIÇÃO DE IMÓVEL CONSTRUÍDO EM ÁREA IRREGULAR. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que o direito de propriedade não é absoluto, podendo sofrer limitações. Precedentes. A resolução da controvérsia demandaria o reexame dos fatos e provas constantes nos autos, bem como a análise da legislação infraconstitucional aplicada à espécie, providências vedadas neste momento processual. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento” (ARE 829.437-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 2.2.2015, grifos nossos).
+    Nada há, pois, a prover quanto às alegações dos Agravantes.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de março de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
