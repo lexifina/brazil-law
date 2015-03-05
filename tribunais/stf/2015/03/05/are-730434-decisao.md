@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça que não conheceu de agravo regimental em agravo em recurso especial.
+    2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao julgamento do Juízo de segundo grau deve ser atacada por recurso extraordinário contra esse acórdão, no momento próprio, sob pena de preclusão. Assim, apelo extremo contra aresto do STJ, em julgamento de recurso especial, somente é admissível quando a matéria constitucional impugnada for ali suscitada originariamente. Nesse sentido, os seguintes precedentes: RE 482.932-AgR-Segundo/DF, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 8/3/2013; AI 718.334-AgR/AL, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 12/11/2012.
+    Ora, no caso, os fundamentos constitucionais suscitados pela parte recorrente perante o STJ constavam no acórdão de segundo grau, contra o qual não foi interposto recurso extraordinário. A matéria constitucional está, consequentemente, preclusa.
+    3. Ainda que superado esse grave óbice, o objeto deste recurso diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta Corte na análise dos seguintes recursos: (a) RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, Tema 181; (b) ARE 748.371-RG/MG, Rel. Min. GILMAR MENDES, Tema 660; e (c) ARE 639.228-RG/RJ, Rel. Min. Presidente CEZAR PELUSO, Tema 424, por se tratar de questões infraconstitucionais. Efetivamente, o acórdão recorrido limitou-se a não conhecer do agravo regimental contra decisão monocrática que negou seguimento ao recurso especial, enquanto o extraordinário, a seu turno, discute questões de mérito, as quais somente poderiam ser analisadas caso houvesse a reversão do juízo de não conhecimento do agravo.
+    Registre-se que a decisão de inexistência de repercussão geral tem eficácia em relação a todos os recursos sobre matéria idêntica (art. 543-A, § 5º, do CPC c/c art. 327, § 1º, do RISTF).
+    4. Ante o exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 5 de março de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
