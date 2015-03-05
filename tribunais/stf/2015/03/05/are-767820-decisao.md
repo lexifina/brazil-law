@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    "CONTRATO DE TRABALHO TEMPORÁRIO. [...] RELAÇÃO JURÍDICA DE NATUREZA ESTATUTÁRIA. PRETENDIDA PERCEPÇÃO DE VERBAS TRABALHISTAS E ANOTAÇÃO DO CONTRATO NA CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL. CONTRATO REGIDO PELO ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO. VERBAS INDEVIDAS.
+    ‘São inaplicáveis aos servidores contratados sob regime temporário, os direitos previstos na Consolidação das Leis do Trabalho, mormente quando há previsão expressa a respeito da aplicação do regime estatutário (Ap. Cív. n. 2004.028067-9, rel. Des. Jaime Ramos, j. em 30-6-2008)’ (Apelação Cível n. 2010.020413-5, de Lages, de minha relatoria, j. 4-5-2010).
+    RECURSO DESPROVIDO.”
+    A parte recorrente alega ofensa ao art. 7º, II, da Constituição Federal. Desse modo, requer o pagamento dos “valores pertinentes ao FGTS e multa do art. 477 da CLT”.
+    A decisão agravada negou seguimento ao recurso, com fundamento na Súmula 284/STF, tendo em vista que “o recorrente não indicou o permissivo constitucional (art. 105 da Constituição da República) que fundamenta a interposição do nobre reclamo”.
+    Inicialmente, observo que, da petição do presente recurso extraordinário, não consta a indicação do dispositivo constitucional autorizador de sua interposição. Contudo, da leitura da peça, é possível inferir que o apelo foi interposto com fundamento no art. 102, III, a, da Constituição. Desse modo, o mencionado vício deve ser mitigado, em homenagem ao princípio da instrumentalidade das formas, de acordo com a jurisprudência do Supremo Tribunal Federal (RE 488.650-ED, Rel. Min. Dias Toffoli).
+    O recurso extraordinário dever ser provido. Isso porque o Supremo Tribunal Federal entende ser devida a extensão dos direitos sociais previsto no art. 7º da Constituição Federal aos servidores contratados por prazo determinado (CF, art. 37, IX), especialmente para a hipótese tratada neste processo, em que o contrato foi renovado sucessivamente. Precedente: RE 752.206-AgR, Rel. Min. Celso de Mello, assim ementado:
+    “RECURSO EXTRAORDINÁRIO – SERVIÇO PÚBLICO – CONTRATAÇÃO EM CARÁTER TEMPORÁRIO – RENOVAÇÕES SUCESSIVAS DO CONTRATO – EXTENSÃO DOS DIREITOS SOCIAIS PREVISTOS NO ART. 7º DA CONSTITUIÇÃO DA REPÚBLICA – DIREITO AO DEPÓSITO DO FGTS – ORIENTAÇÃO QUE PREVALECE NO SUPREMO TRIBUNAL FEDERAL EM RAZÃO DE JULGAMENTO FINAL, COM REPERCUSSÃO GERAL, DO RE 596.478/RR – RECURSO DE AGRAVO IMPROVIDO.”
+    Diante do exposto, com base no art. 544, § 4º, II, c, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e dou provimento ao recurso extraordinário, para condenar o Município de Lages/SC ao pagamento das verbas relacionadas ao Fundo de Garantia por Tempo de Serviço (FGTS) . Invertidos, no ponto, os ônus de sucumbência.
+    Publique-se.
+          Brasília, 05 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
