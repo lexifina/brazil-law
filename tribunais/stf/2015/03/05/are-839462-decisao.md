@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL - REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO - DIREITO ADMINISTRATIVO - SERVIDOR - PROGRESSÃO PROFISSIONAL. PRELIMINARES - FALTA DE INTERESSE RECURSAL – PEDIDO DEFERIDO - AUSÊNCIA DE SUCUMBÊNCIA - ILEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA RECORRER - INTERESSE PÚBLICO INEXISTENTE - RECURSO NÃO CONHECIDO.
+    1. Se o pedido da parte autora foi deferido, descabe a análise de prejudicial de mérito no juízo ad quem, restando apenas o conhecimento da matéria não acolhida no juízo de origem.
+    2. A intervenção do Ministério Público somente se justifica quando se tratar de alguma das hipóteses previstas no art. 82 do CPC, dentre as quais não se encontra ação que discute direitos de natureza estatutária devidos aos servidores públicos.
+    3. O interesse público a justificar a atuação do Parquet na demanda não pode ser confundido com o mero interesse patrimonial da Fazenda Pública.
+    4. Segundo recurso não conhecido. MÉRITO - PROFESSORA DO MUNICÍPIO DE BELO HORIZONTE - PROGRESSÃO POR ESCOLARIDADE ADICIONAL – CONCLUSÃO DE CURSOS DE PÓS-GRADUAÇÃO - CASSAÇÃO DO BENEFÍCIO POR INSTAURAÇÃO DE PROCEDIMENTO INVESTIGATÓRIO PELO MINISTÉRIO PÚBLICO EM FACE DAS FACULDADES QUE CONCEDERAM O TÍTULO – DECADÊNCIA DO DIREITO DE REVER O ATO - NÃO OCORRÊNCIA - IRREGULARIDADE DOS DIPLOMAS - NÃO COMPROVAÇÃO EM PROCEDIMENTO ADMINISTRATIVO - DESCONTOS INDEVIDOS - RESSARCIMENTO - EMBARGOS DE DECLARAÇÃO – MEIO INIDÔNEO PARA CORRIGIR OS FUNDAMENTOS JURÍDICOS OU FÁTICOS DE UMA DECISÃO - AUSÊNCIA DE VÍCIOS - REITERAÇÃO DOS ARGUMENTOS JÁ RECHAÇADOS DE FORMA FUNDAMENTADA NA SENTENÇA - MANUTENÇÃO DA DECISÃO QUE APLICOU MULTA.
+    1. Deve ser afastado o argumento da decadência do direito da Administração para revisão dos seus atos, uma vez demonstrado, in casu, que, a contar da concessão do primeiro benefício, não decorreram cinco anos até a instauração do procedimento administrativo, pela municipalidade.
+    2. Comprovado o cumprimento de todos o s requisitos previstos na legislação municipal para fins de obtenção de progressão por escolaridade adicional, notadamente no que tange ao cumprimento da carga horária de 360 (trezentas e sessenta) horas-aula, a servidora faz jus à obtenção do benefício.
+    3. A existência de inquérito civil instaurado pelo Ministério Público para verificação da idoneidade da faculdade que concedeu o diploma não constitui óbice à obtenção da progressão, porquanto não houve a desconstituição do diploma concedido.
+    4. A servidora faz jus ao ressarcimento das parcelas descontadas indevidamente.
+    5. Os embargos de declaração não configuram a via adequada para obtenção da reforma da decisão que não atende aos interesses do recorrente.
+    6. A reiteração dos argumentos já rechaçados, fundamentadamente, afigura-se litigância temerária da parte, a qual deve ser repudiada, condenando-se o embargante ao pagamento da multa prevista no art. 538, parágrafo único, do CPC.
+    7. Sentença confirmada, em reexame necessário conhecido de ofício. Primeiro apelo provido em parte.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que incidem, na hipótese, as Súmulas 282 e 356/STF.
+    O recurso extraordinário é inadmissível, tendo em vista que o preceito constitucional tido por violado não foi objeto de análise pelo Colegiado de origem. Tampouco foram opostos embargos de declaração para suprir eventual omissão, de modo que o recurso carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ainda que superado esse óbice, o Supremo Tribunal Federal assentou a ausência de repercussão geral com relação a matéria controvertida nestes autos, qual seja, o pretenso direito subjetivo da parte à produção de prova. Nesse sentido, confira-se a ementa a seguir:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.” (ARE 639228 RG, Rel. Min. Cezar Peluso)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 05 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
