@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, caput e XXXV, e 150, II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional em que se fundou a Corte de origem (Lei 11.941/2009), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+     Dessarte, desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido, as decisões monocráticas, transitadas em julgado, proferidas no ARE 712.952/SC, Rel. Min. Ricardo Lewandowski, DJe 13.12.2012, e no AI 823.418/PR, Rel. Min. Cármen Lúcia, DJe 24.11.2010. Cito ainda o ARE 723.687-ED/RS, de minha relatoria, 1ª Turma, DJe 18.10.2013, cuja ementa transcrevo:
+     “DIREITO TRIBUTÁRIO. DEPÓSITO JUDICIAL. REMUNERAÇÃO PELA TAXA SELIC. RESGATE. LEI 11.941/2009. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. CABIMENTO DE RECURSOS DE COMPETÊNCIA DE OUTROS TRIBUNAIS. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RE 598.365-RG. MATÉRIA DECIDIDA PELA CORTE DE ORIGEM COM FUNDAMENTO EM PRECEDENTE NÃO TRANSITADO EM JULGADO. AUSÊNCIA DE AFRONTA DIRETA AOS PRINCÍPIOS DA PROTEÇÃO À COISA JULGADA E À SEGURANÇA JURÍDICA. ACÓRDÃO RECORRIDO PUBLICADO EM 22.6.2012. A discussão travada nos autos não alcança status constitucional, porquanto solvida à luz da interpretação da legislação infraconstitucional aplicável à espécie (Lei 11.941/09 e Código Tributário Nacional). O Plenário Virtual desta Corte manifestou-se pela inexistência de repercussão geral da questão atinente ao cabimento de recursos de competência de outros tribunais no RE 598.365-RG. O exame de eventual afronta aos princípios da proteção à coisa julgada e à segurança jurídica demandaria o exame da legislação processual aplicável à espécie, o que torna oblíqua e reflexa eventual ofensa, a inviabilizar o conhecimento do recurso extraordinário. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 06 de março de 2015.
+Ministra Rosa Weber
+Relatora
