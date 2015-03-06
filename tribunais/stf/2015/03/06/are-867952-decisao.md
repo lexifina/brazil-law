@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA - INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE - DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal, no julgamento do Recurso Extraordinário com Agravo nº 664.335/SC, da relatoria do ministro Luiz Fux, à luz dos artigos 195, § 5º, e 201, cabeça e § 1º, da Constituição Federal, assentou que o direito à aposentadoria especial pressupõe a efetiva exposição do trabalhador a agente nocivo à saúde, de modo que, se o equipamento de proteção Individual (EPI) for realmente capaz de neutralizar a nocividade, não haverá respaldo constitucional à aposentadoria especial. Consignou ainda que, na hipótese de exposição do trabalhador a ruído acima dos limites legais de tolerância, a declaração do empregador, no âmbito do Perfil Profissiográfico Previdenciário (PPP), da eficácia do equipamento de proteção Individual (EPI), não descaracteriza o tempo de serviço especial para aposentadoria.
+    Tendo o Colegiado de origem mantido a sentença, na qual assentada a ausência de demonstração de que os equipamentos de proteção eliminavam a ação dos agentes nocivos, a discussão proposta no extraordinário pressupõe o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+    2. Conheço do agravo interposto pelo Instituto Nacional do Seguro Social e o desprovejo.
+    3. Publiquem.
+Brasília, 6 de março de 2015.
+Ministro MARCO AURÉLIO
+Relator
