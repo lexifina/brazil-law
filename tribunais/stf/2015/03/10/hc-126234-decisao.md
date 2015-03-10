@@ -1,0 +1,44 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Maicon Tadeu de Almeida Telini, apontando como autoridade coatora a Sexta Turma, do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp nº 319.941/PR, Relator o Ministro Sebastião Reis Júnior.
+    Sustenta a impetrante, em síntese, a aplicação do princípio da insignificância ao delito tipificado no art. 334, caput, do Código Penal, supostamente praticado pelo paciente, uma vez que o débito tributário relacionado (R$ 13.476,40 - treze mil quatrocentos e setenta e seis reais e quarenta centavos) seria inferior ao patamar de R$ 20.000,00 (vinte mil reais), estipulado pelo art. 20 da Lei nº 10.522/02, atualizado pelas Portarias nºs 75 e 130/12 do Ministério da Fazenda.
+    Requer, liminarmente, a concessão da ordem para que seja trancada a ação penal à qual responde o paciente, tendo em vista o princípio da insignificância.
+    Presentes os pressupostos, deferi o pedido de liminar, tão somente, para suspender os efeitos do acórdão proferido pelo Superior Tribunal de Justiça no AREsp nº 319.941/PR, bem como solicitei informações à autoridade coatora, que foram devidamente prestadas.
+    O Ministério Público Federal, em parecer de lavra da ilustre Subprocuradora-Geral da República Dra. Cláudia Sampaio Marques opinou pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem.
+    É o relatório.
+    Decido.
+    Narra a impetrante, na inicial, que
+    “o paciente, Maicon Tadeu de Almeida Telini, foi denunciado como incurso no art. 334, caput, do Código Penal-CP. De acordo com a acusação, foi apreendidas em seu poder, mercadoria estrangeiras, sem a devida comprovação de recolhimento dos tributos, no montante equivalente a R$ 13.476,40 (treze mil quatrocentos e setenta e seis reais e quarenta centavos).
+    Na sentença proferida pelo juízo de primeira instância, o assistido foi absolvido, com fundamento no art. 397, III, do Código de Processo Penal, pelo fato de que a soma dos impostos aludidos não superava R$20.000,00 (vinte mil reais).
+    Contra a decisão, foi interposta apelação, que teve negado provimento pela 7ª Turma do Tribunal Regional Federal da 4ª Região (e-STJ Fl.84).
+    Por seu turno, o Ministério Público interpôs recurso especial, apontando negativa da vigência do art. 334, caput, CP, alegou, em síntese, ser necessária a adoção jurisprudencial que considera, no exame da insignificância, o estabelecido no art. 20 da Lei n. 10.522/2002, ou seja, o limite de RS 10.000,00 (dez mil reais) para o total dos impostos não recolhidos.
+    O recurso especial, no entanto, não foi admitido pela Corte de origem, por não ser possível a Justiça criminal estabelecer parâmetro inferior ao entendido pelo Estado-Administração, em face da Portaria MF n. 75 (e-STJ Fl.247).
+    Interposto agravo, o recurso subiu ao C. STJ.
+    Ao julgar o AgResp, o Ministro relator Sebastião Reis Júnior, equivocadamente conheceu e deu provimento ao agravo em recurso especial, a fim de dar prosseguimento à ação penal.
+    Irresignada, a parte ré interpôs Agravo regimental, ao qual a Sexta Turma negou provimento” (fls. 1/2 da inicial – grifos do autor).
+    Transcrevo a ementa do julgado questionado:
+    “PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. MERCADORIAS IMPORTADAS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INSIGNIFICÂNCIA. PARÂMETRO. DÉBITO TRIBUTÁRIO SUPERIOR A DEZ MIL REAIS. RESP N. 1.112.748/TO, REPRESENTATIVO DA CONTROVÉRSIA. NÃO APLICAÇÃO DA PORTARIA MF N. 75/2012.
+    1. Não há ofensa ao princípio da Colegialidade o provimento do agravo por decisão singular, porquanto contra a decisão agravada é cabível o recurso de agravo regimental, a ser julgado pela Turma. Além disso, a matéria está amparada em recente precedente do órgão julgador, que confirmou entendimento anterior em recurso especial representativo de controvérsia.
+    2. Em recente julgado desta Corte, confirmou-se o entendimento de ser insignificante para a Administração Pública o valor de dez mil reais, trazido no art. 20 da Lei n. 10.522/2002, como já havia sido decidido pela Terceira Seção deste Tribunal, ao julgar o REsp n. 1.112.748/TO, representativo da controvérsia.
+    3. Portaria emanada do Poder Executivo não possui força normativa passível de revogar ou modificar lei em sentido estrito. Precedentes.
+    4. Agravo regimental improvido” (fl. 209 - anexo 3).
+    Essa é a razão pela qual se insurge a impetrante neste writ.
+    No caso em tela, reconheço a plausibilidade jurídica do tema agitado na impetração.
+    Anoto que, embora a expressividade financeira do tributo omitido ou sonegado pelo paciente em decorrência da prática de descaminho seja superior a R$ 10.000,00, no caso, de R$ 13.476,40, é ela inferior a R$ 20.000,00, valor atualmente estabelecido nas Portarias nºs 75/2012 e 130/2012 do Ministério da Fazenda para a dispensa de instauração do processo executivo fiscal contra o contribuinte renitente.
+    Na esteira do que vem decidindo a Primeira Turma, nessas condições, é o caso de reconhecimento do princípio da insignificância sempre que as provas demonstrem que o denunciado não seja pessoa dedicada à atividade criminosa e contumaz na prática do ilícito. Confira-se:
+    “Habeas corpus. Crime de descaminho (CP, art. 334). Impetração dirigida contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça. Decisão não submetida ao crivo do colegiado. Ausência de interposição de agravo interno. Não exaurimento da instância antecedente. Precedentes. Não conhecimento do writ. Pretensão à aplicação do princípio da insignificância. Valor inferior ao estipulado pelo art. 20 da Lei nº 10.522/02, atualizado pelas Portarias 75 e 130/2012 do Ministério da Fazenda. Possibilidade. Ordem concedida de ofício.
+    1. A jurisprudência contemporânea do Supremo Tribunal não vem admitindo a impetração de habeas corpus que se volte contra decisão monocrática do relator da causa no Superior Tribunal de Justiça que não tenha sido submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente (HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski).
+    2. Não conhecimento do habeas corpus.
+    3. No crime de descaminho, o Supremo Tribunal Federal tem considerado, para a avaliação da insignificância, o patamar de R$ 20.000,00, previsto no art. 20 da Lei nº 10.522/2002, atualizado pelas Portarias 75 e 130/2012 do Ministério da Fazenda. Precedentes.
+    4. Na espécie, como a soma dos tributos não recolhidos perfaz a quantia de R$ 13.693,23, é de se afastar a tipicidade material do delito de descaminho, com base no princípio da insignificância, em relação ao paciente Cleber Kulibaba Michelon, que preenche os requisitos subjetivos necessários ao reconhecimento da atipicidade de sua conduta.
+     5. O paciente Jaquelino Koczenski registra outros inquéritos por idêntica infração, razão pela qual, embora seja reduzida a expressividade financeira do tributo omitido ou sonegado, não é possível acatar a tese de irrelevância material da conduta, por se tratar de um infrator contumaz e com personalidade voltada à prática delitiva. Precedentes.
+    6. Ordem concedida de ofício” (HC nº 120.139/PR, Primeira Turma, de minha relatoria, DJe de 28/3/14).
+    Adotando o mesmo patamar monetário, cito o seguinte precedente da Segunda Turma:
+    “(...) I – Nos termos da jurisprudência deste Tribunal, o princípio da insignificância deve ser aplicado ao delito de descaminho quando o valor sonegado for inferior ao estabelecido no art. 20 da Lei 10.522/2002, com as atualizações feitas pelas Portarias 75 e 130, ambas do Ministério da Fazenda” (HC nº 118.000/PR, Relator o Ministro Ricardo Lewandowski, DJe de 17/9/13).
+    Na espécie, como a soma dos tributos que deixaram de ser recolhidos perfaz quantia inferior àquela estabelecida pelo art. 20 da Lei nº 10.522/02, atualizado pelas Portarias nºs 75 e 130/12 do Ministério da Fazenda, é de se afastar a tipicidade material do delito de descaminho, com base no princípio da insignificância, já que o paciente, segundo os autos, preenche os requisitos subjetivos necessários ao reconhecimento da atipicidade de sua conduta.
+    Com essas considerações, considerando que o tema trazido à baila é objeto de jurisprudência consolidada do Supremo Tribunal Federal, nos termos do art. 192, caput, do Regimento Interno - atualizado pela Emenda Regimental nº 30/09, concedo a ordem de habeas corpus para restabelecer a sentença de primeiro grau que, em virtude do princípio da insignificância, rejeitou a denúncia ofertada nos autos do processo nº 5007889-28.2011.404.7002/PR, com fundamento nos art. 397, inciso III, do Código de Processo Penal.
+    Publique-se.
+    Brasília, 10 de março de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
