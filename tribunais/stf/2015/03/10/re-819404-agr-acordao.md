@@ -1,0 +1,810 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 18
+
+10/03/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 819.404 RIO DE JANEIRO
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. ROSA WEBER
+: ESTADO DO RIO DE JANEIRO
+: PROCURADOR-GERAL DO ESTADO DO RIO DE
+JANEIRO
+: MANOEL BARCELOS DE AGUIAR
+: MANOEL BARCELOS DE AGUIAR
+EMENTA
+
+DIREITO ADMINISTRATIVO. CONVERSÃO EM PECÚNIA.
+PERÍODO DE FÉRIAS NÃO GOZADAS. ANÁLISE DE EVENTUAL
+CONEXÃO ENTRE AÇÕES. REQUISIÇÃO DE PEQUENO VALOR.
+EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO
+RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO
+RECORRIDO PUBLICADO EM 12.12.2013.
+1. Divergir do entendimento da Turma Recursal acerca da
+condenação do Estado ao pagamento da indenização das férias não
+gozadas requeridas por servidor público estadual aposentado – com base
+nos vencimentos brutos atuais, sem descontos fiscais ou previdenciários,
+excluindo as parcelas de caráter eventual (inclusive horas extras) e terço
+constitucional e eventual conexão entre ações – demandaria a
+reelaboração da moldura fática constante do acórdão de origem.
+2. A controvérsia, a teor do que já asseverado na decisão guerreada,
+não alcança estatura constitucional. Não há falar em afronta aos preceitos
+constitucionais indicados nas razões recursais. Compreender de modo
+diverso exigiria análise da legislação infraconstitucional encampada na
+decisão prolatada pela Corte de origem, o que torna oblíqua e reflexa
+eventual ofensa, insuscetível, nessa medida, de viabilizar o conhecimento
+do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da
+Lei Maior, nos termos da remansosa jurisprudência desta Corte.
+3. Alegação de similaridade entre a matéria discutida no acórdão
+recorrido a do RE 568.645-RG/SP em nada beneficia o agravante, ausente
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028826.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 18
+
+RE 819404 AGR / RJ
+identidade entre o paradigma apontado e o caso dos autos.
+4. Razões do agravo regimental inaptas a infirmar os fundamentos
+que lastrearam a decisão agravada.
+5. Agravo regimental conhecido e não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Primeira Turma, sob a Presidência da
+Senhora Ministra Rosa Weber, na conformidade da ata de julgamento e
+das notas taquigráficas, por unanimidade de votos, em negar provimento
+ao agravo regimental, nos termos do voto da Relatora. Ausente,
+justificadamente, o Senhor Ministro Dias Toffoli.
+Brasília, 10 de março de 2015.
+
+Ministra Rosa Weber
+Relatora
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028826.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 18
+
+10/03/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 819.404 RIO DE JANEIRO
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. ROSA WEBER
+: ESTADO DO RIO DE JANEIRO
+: PROCURADOR-GERAL DO ESTADO DO RIO DE
+JANEIRO
+: MANOEL BARCELOS DE AGUIAR
+: MANOEL BARCELOS DE AGUIAR
+RELATÓRIO
+
+A Senhora Ministra Rosa Weber (Relatora): Contra a decisão por
+mim proferida, pela qual negado seguimento ao recurso, maneja agravo
+regimental o Estado do Rio de Janeiro.
+Insurge-se contra a decisão agravada, ao argumento de que a
+violação dos preceitos da Constituição Federal se dá de forma direta.
+Sustenta que “(...) a questão tangencia fatos e normas processuais - neste,
+eventual conexão, naquele, artigos sobre execução e litisconsórcio – sem que isso
+tenha sido empecilho ao conhecimento do mérito recursal. Nesse sentido, se os
+fatos e essas normas não impediram o julgamento o julgamento do RE
+568.645/SP, com a vênia devida, também não haveria necessidade de
+revolvimento de legislação infraconstitucional ou de fatos para o julgamento
+deste apelo (...)” (fl. 250). Reitera a afronta ao art. 100, § 3º, da Constituição
+Federal, e 87 do ADCT. Requer o provimento do recurso.
+Acórdão da 1ª Turma Recursal Fazendária do Juizado Especial Cível
+do Estado do Rio de Janeiro publicado em 12.12.2013.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028827.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 4 de 18
+
+10/03/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 819.404 RIO DE JANEIRO
+VOTO
+A Senhora Ministra Rosa Weber (Relatora): Preenchidos os
+pressupostos genéricos, conheço do agravo regimental e passo ao exame
+do mérito.
+Nada colhe o agravo.
+Transcrevo o teor da decisão que desafiou o agravo:
+“Vistos etc.
+Contra o acórdão prolatado pelo Tribunal de origem,
+maneja recurso extraordinário, com base no art. 102, III, da Lei
+Maior, o Estado do Rio de Janeiro. Aparelhado o recurso na
+afronta aos arts. 100, § 3º, da Constituição Federal, e 87 do
+ADCT.
+É o relatório.
+Decido.
+Preenchidos os pressupostos extrínsecos.
+Da detida análise dos fundamentos adotados pelo
+Tribunal de origem, por ocasião do julgamento do apelo
+veiculado na instância ordinária, em confronto com as razões
+veiculadas no extraordinário, concluo que nada colhe o recurso.
+Não há falar em afronta aos preceitos constitucionais
+indicados nas razões recursais, porquanto, no caso, a suposta
+ofensa somente poderia ser constatada a partir da análise de
+matéria infraconstitucional, afeta a existência ou não de
+conexão entre ações, o que torna oblíqua e reflexa eventual
+ofensa, insuscetível, portanto, de viabilizar o conhecimento do
+recurso extraordinário. Dessarte, desatendida a exigência do
+art. 102, III, “a”, da Lei Maior, nos termos da remansosa
+jurisprudência deste egrégio Supremo Tribunal Federal. Nesse
+sentido:
+“Agravo regimental no recurso extraordinário com agravo.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 5 de 18
+
+RE 819404 AGR / RJ
+Princípios do devido processo legal, do contraditório e da
+ampla defesa. Ausência de prequestionamento. Conexão.
+Matéria infraconstitucional. Ofensa reflexa. Precedentes. 1. Não
+se admite o recurso extraordinário quando os dispositivos
+constitucionais que nele se alega violados não estão
+devidamente prequestionados. Incidência das Súmulas nºs 282
+e 356/STF. Saliento que o Tribunal não admite a tese do
+chamado prequestionamento implícito. 2. A afronta aos
+princípios do devido processo legal, da ampla defesa e do
+contraditório, quando depende, para ser reconhecida como tal,
+da análise de normas infraconstitucionais, configura apenas
+ofensa indireta ou reflexa à Constituição da República. 3. A
+controvérsia sobre a existência ou não de conexão entre a ação
+anulatória de débito fiscal e a execução fiscal é de natureza
+infraconstitucional. Necessidade de reexame da contenda à luz
+das normas processuais de regência. Afronta reflexa. 4. Agravo
+regimental não provido.” (ARE 770029 AgR, Rel. Min. Dias
+Toffoli, 1ª Turma, DJe 16-09-2014)”.
+“Decisão: Trata-se de recurso extraordinário que impugna
+acórdão da Primeira Turma Recursal Fazendária do Estado do
+Rio de Janeiro, assim ementado: “Servidor Público. Férias não
+gozadas a critério da Administração. Pedido de indenização.
+Ajuizamento de várias ações. Fracionamento de valor.
+Possibilidade. Diversidade de atos ilícitos praticados pela
+Administração, permitindo o ajuizamento de tantas demandas
+quantos forem os meses de férias cujo goza fora negado.
+Diversidade das causas de pedir remotas. Suposta conexão que
+não importa em aumento do valor da causa de modo a
+ultrapassar o limite de 60 salários mínimos. Competência do
+Juizado Especial Fazendário. Sentença líquida necessitando de
+mero cálculo aritmético, sem necessidade de liquidação. Valor
+da indenização que deve levar em consideração a remuneração
+recebida pelo autor à época do ajuizamento da ação. Prazo para
+pagamento. Submissão ao prazo estabelecido no art. 13, § 3º, da
+Lei nº 12.153/2009 diante do valor da condenação.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 6 de 18
+
+RE 819404 AGR / RJ
+Conhecimento e provimento parcial do recurso.” (fl. 5) No
+recurso extraordinário, interposto com fundamento no artigo
+102, III, “a”, da Constituição Federal, alega-se violação ao artigo
+100, caput e § 3º da Constituição Federal e ao artigo 87 do
+ADCT. Defende-se, em síntese, que “considerando os valores
+pleiteados, estamos diante de uma tentativa de burla à
+sistemática dos precatórios, pois com o fracionamento das
+demandas a parte autora poderá receber através de RPV, o
+quenão é de se admitir, sob pena de violação, a um só tempo, o
+artigo 100 da CRFB/88 e o artigo 87 do ADCT da mesma
+Constituição.” (fl. 26) Decido. As razões recursais não merecem
+prosperar. O Tribunal a quo consignou o seguinte: “Também
+não há que se falar em violação à regra do precatório, eis que,
+como já dito, tratando-se de diferentes ilicitudes,a pretensão
+autoral não decorre de uma origem comum, não havendo
+qualquer impedimento ao desmembramento de seus pedidos
+em tantas demandas quanto reputar conveniente para a
+satisfação de sua pretensão. (…) Evidente, de igual modo, o
+desacerto do nobre julgador de 1º grau ao fixar o prazo de 30
+dias para o pagamento do valor da condenação, tendo em vista
+a evidente violação à regra contida no art. 13, I, da Lei n.
+12.153/2009, bem como o procedimento previsto no art. 730, do
+CPC, merecendo parcial provimento o recurso do Estado para
+excluir da sentença o referido prazo.” (fls. 6-7) Inicialmente,
+verifico que o acórdão impugnado decidiu as questões com
+base na legislação infraconstitucional - quanto à possibilidade
+de conexão das ações do ora recorrido, bem como quanto ao
+pagamento do valor da condenação. Assim, a alegada
+contrariedade à Constituição da República, se tivesse ocorrido,
+seria indireta, o que não viabiliza o processamento do recurso
+extraordinário. Ademais, concluir de forma diversa do que
+decidido pelas instâncias originárias demandaria a análise do
+conjunto fático-probatório constante dos autos, procedimento
+incabível de ser adotado em sede de recurso extraordinário,
+conforme dispõe a Súmula n. 279 do Supremo Tribunal Federal.
+Nesse sentido, destaco os seguintes precedentes: “O
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 7 de 18
+
+RE 819404 AGR / RJ
+entendimento firmado nesta Corte de que a discussão acerca da
+competência dos juizados especiais, em razão da complexidade
+e do valor da causa, poderia configurar, apenas, violação
+indireta ou reflexa à Constituição da República, haja vista que
+sua solução não prescinde da análise da legislação
+infraconstitucional e, também, do reexame dos fatos e das
+provas da causa. Incidência das Súmulas ns. 636 e 279/STF” (AI
+858.108-AgR, Relator o Ministro Dias Toffoli, Primeira Turma,
+DJe 3.6.2013). “AGRAVO REGIMENTAL NO RECURSO
+EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL.
+COMPETÊNCIA DO JUIZADO ESPECIAL. VALOR DA
+CAUSA. 1. MATÉRIA INFRACONSTITUCIONAL. OFENSA
+CONSTITUCIONAL INDIRETA. 2. INVIABILIDADE DE
+REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO
+SUPREMO TRIBUNAL FEDERAL. 3. AGRAVO REGIMENTAL
+AO QUAL SE NEGA PROVIMENTO” (ARE 718.582-AgR, de
+Min. Cármen Lúcia, Segunda Turma, DJe 18.12.2012). Ante o
+exposto, nego seguimento ao recurso extraordinário (arts. 21, §
+1º, do RISTF, e 557, caput, do CPC). Publique-se. Brasília, 8 de
+maio de 2014. Ministro Gilmar Mendes Relator Documento
+assinado digitalmente” (RE 808516, Relator(a): Min. GILMAR
+MENDES, julgado em 08/05/2014, DJe 13/05/2014)
+“DECISÃO
+RECURSO
+EXTRAORDINÁRIO.
+ADMINISTRATIVO. FÉRIAS NÃO GOZADAS. CONVERSÃO
+EM PECÚNIA. MÚLTIPLAS AÇÕES DE PERÍODOS
+DIFERENTES.
+CONEXÃO
+DAS AÇÕES. ALEGADA
+CONTRARIEDADE AOS ARTS. 100, § 3º, DA CONSTITUIÇÃO
+DA REPÚBLICA E 87 DO ATO DAS DISPOSIÇÕES
+CONSTITUCIONAIS TRANSITÓRIAS – ADCT. AUSÊNCIA
+DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO
+SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE
+REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA
+ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL:
+SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL.
+AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 8 de 18
+
+RE 819404 AGR / RJ
+RECURSO AO QUAL SE NEGA SEGUIMENTO. Relatório 1.
+Recurso extraordinário interposto com base no art. 102, inc. III,
+al. a, da Constituição da República contra julgado da Turma
+Recursal de Fazenda Pública do Conselho Recursal dos
+Juizados Especiais Cíveis e Criminais do Rio de Janeiro, que
+manteve a seguinte sentença : “Trata-se de ação em que a parte
+autora pretende o pagamento dos valores correspondentes à
+conversão em pecúnia das férias não gozadas relativas aos
+exercícios de 1988, 1989, 1991, 1995 e 1997. A ré deixa de
+contestar a matéria de fundo, em razão de existir, no âmbito da
+Procuradoria Geral do Estado, dispensa genérica para tanto.
+Desta forma, impõe-se o decreto de sua revelia. Em se tratando
+de litígio envolvendo interesses indisponíveis, a revelia não
+induz o efeito da presunção de veracidade dos fatos afirmados
+na inicial, (artigo 320, II do Código de Processo Civil).Desta
+forma, é inaplicável os efeitos da revelia contra a Fazenda
+Pública ,à teor do disposto no art. 320, inciso II do CPC.
+Contudo alega o fracionamento dos pedidos, violando assim a
+competência dos Juizados configurando abuso de direito. A
+alegação de conexão não merece acolhida, pois, para que se
+configure a conexão entre feitos (critério de modificação de
+competência), necessária a identidade de objeto e causa de
+pedir, nos termos do artigo 103, do Código de Processo Civil, o
+que não ocorre no caso sub judice. A disciplina jurídica da
+remuneração, direitos e vantagens devidas aos servidores
+decorre da Constituição da República e das normas
+complementares, de tal sorte que, há sustentação legal à
+pretensão de perceber em pecúnia indenizatória as férias não
+gozadas pela previsão do artigo 363, do decreto 2.497/79, que
+veda o serviço gratuito prestado por servidor público.
+Configurado o direito às férias deveria o Estado obrigar o
+servidor a usufruí-lo, e se não o fez, foi por absoluta
+necessidade do serviço prestado pela autora. Considerando que
+essas férias não foram computadas para efeito de
+aposentadoria, não há que se falar em bis in idem. Apesar da
+declaração de inconstitucionalidade de parte do inciso XVII do
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 9 de 18
+
+RE 819404 AGR / RJ
+artigo 77 da Constituição do Estado do Rio de Janeiro,
+exatamente no tocante à possibilidade de transformar período
+de férias não gozadas em indenização, pelo STF na ADIN 227-9,
+não se pode permitir que o servidor não usufrua do seu período
+de descanso e também não receba indenização pelo período
+trabalhado. Fixada ser devida a indenização pela ausência de
+trabalho gratuito prestado por servidor, passa-se a analise dos
+demais argumentos. Na presente hipótese o recebimento in
+pecúnia das férias na constitui verdadeira indenização pelo não
+exercício do direito às mesmas, porquanto se presume que o
+não gozo do descanso remunerado do servidor foi realizado em
+proveito do serviço publico, por absoluta necessidade do
+serviço. Oportuno transcrever jurisprudência do Superior
+Tribunal de Justiça no sentido da possibilidade de conversão em
+pecúnia dos períodos de férias e licença-prêmio não gozadas,
+ainda que não haja previsão legal, neste sentido: Recurso
+improvido. 0123334-54. 2009.8.19.0001 APELAÇÃO - 1a Ementa
+DES. LETICIA SARDAS Julgamento: 03/08/2010 - VIGÉSIMA
+CÂMARA CÍVEL POLICIAL CIVIL FERIAS NAO GOZADAS
+DIREITO A INDENIZAÇÃO PRINCIPIO DO NAO
+ENRIQUECIMENTO SEM CAUSA ADMINISTRATIVO^.
+POLICIAL CIVIL. FÉRIAS VENCIDAS E NÃO GOZADAS.
+PRETENSÃO DE INDENIZAÇÃO. CABIMENTO. PRINCÍPIO
+DO NÃO ENRIQUECIMENTO SEM CAUSA. PRECEDENTES
+JURISPRUDENCIAIS. DESPROVIMENTO DO RECURSO.
+Ademais, tampouco se justifica que o Estado se aproveite do
+trabalho de seus servidores, sem a devida contraprestação, pois
+se tal ocorresse agasalharíamos o denominado enriquecimento
+ilícito. Em que pese à possibilidade do indeferimento do pedido
+de férias do servidor público diante da imperiosa necessidade
+de serviço, tal situação não pode resultar na supressão desse
+direito, que, caso não exercido, deve ensejar compensação, de
+natureza pecuniária, sob pena de enriquecimento ilícito por
+parte do ente público. A negativa do direito e a ausência da
+devida compensação pecuniária ofende o princípio contido no
+artigo 884 do Código Civil, que veda o enriquecimento sem
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 10 de 18
+
+RE 819404 AGR / RJ
+causa. Ao não gozar as licenças a que tinha direito, projeta o
+servidor para a Administração um beneficio. Restringindo o
+período de descanso e maior contanto com a família, em prol da
+coletividade, acaba o servidor por ser atingido em seu direito,
+criando para a Administração o dever de reparar esta restrição.
+A propósito, vale lembrar, a lição de YUSSEF SAID CAHALI (in
+Responsabilidade Civil do Estado 2a ed. Malheiros, 1995, pág.
+457/458) Está definitivamente assentado na jurisprudência e
+mesmo nas esferas administrativas, o direito que tem o servidor
+de ser indenizado pelas férias e licenças-prêmios não gozadas
+em razão da necessidade do serviço. A indenizabilidade das
+férias e licenças-prêmios não gozadas em razão de interesse da
+Administração não implica conversão em pecúnia, mas
+reparação ao servidor, que, deixando de usufruir os dias de
+descanso a que fazia jus, permaneceu trabalhando em beneficio
+do Estado. Neste contexto, se a lei assegura ao servidor o gozo
+remunerado de férias, o seu impedimento pela Administração à
+bem do serviço público deve ser indenização, sob pena de
+locupletamento ilícito, violando-se, por conseguinte, o princípio
+da moralidade administrativa que deve nortear todos os atos
+praticados pela Administração. (…) Posto isso, JULGO
+PROCEDENTE O PEDIDO para condenar a parte ré a indenizar
+o autor, no valor equivalente a 05 (cinco) períodos de férias, ou
+seja, 1988, 1989, 1991, 1995 e 1997 observando-se o valor vigente
+à época do efetivo pagamento, que deverá ser efetuado 30 dias
+após o trânsito em julgado da presente sentença, ressalvados os
+valores recebidos administrativamente” (grifos nossos). Os
+embargos de declaração opostos pelo Recorrente foram
+rejeitados. 2. O Recorrente alega ter a Turma Recursal a quo
+contrariado os arts. 100, § 3º, da Constituição da República e 87
+do Ato das Disposições Constitucionais Transitórias - ADCT.
+Argumenta ter “este recorrente interposto recurso inominado,
+alegando a efetiva violação da sistemática dos precatórios
+judicias e da competência dos Juizados Especiais Fazendários,
+tendo em vista que a parte autora, inobstante o objeto da
+presente demanda - conversão em pecúnia de períodos de férias
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 11 de 18
+
+RE 819404 AGR / RJ
+não gozadas referentes aos anos de 1988, 1989, 1991, 1995 e 1997
+- também propôs as ações de n° 0001384-39.2013.8.19.0001,
+0223327-31.2013.8.19.0001 e 0223342-97.2013.8.19.0001, onde
+objetiva receber outros supostos períodos de férias não
+gozadas, referentes aos anos de 1998, 2000, 2001, 2002, 2003,
+2004, 2005, 2006, 2007, 2008, 2009 e 2010. Assim, foi ressaltado
+que, em patente abuso de direito, a parte autora, ao fracionar
+seus pedidos provenientes do mesmo objeto em diversas ações,
+estaria violando a regra do precatório, já que irá receber, em
+cada ação proposta, através de Requisição de Pequeno Valor,
+sendo certo que, reunindo-se as ações, o crédito somente
+poderá ser pago através de precatório” (grifos nossos).
+Examinados os elementos havidos no processo, DECIDO. 3.
+Razão jurídica não assiste à Recorrente. 4. Apesar de alegar o
+Recorrente contrariedade aos arts. 100, § 3º, da Constituição da
+República e 87 do Ato das Disposições Constitucionais
+Transitórias – ADCT, desde a contestação até os embargos de
+declaração, verifica-se não terem sido os dispositivos objeto de
+debate e decisão prévios pela Turma Recursal de origem ou
+pelo juiz autor da sentença. Ausente, portanto, o necessário
+prequestionamento, sem o qual haveria supressão de instância
+julgadora. Incidem, na espécie vertente, as Súmulas n. 282 e 356
+do Supremo Tribunal Federal: “AGRAVO REGIMENTAL NO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO
+CIVIL
+E
+ELEITORAL.
+PRESSUPOSTOS
+DE
+ADMISSIBILIDADE DO RECURSO ESPECIAL ELEITORAL.
+MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE
+REPERCUSSÃO GERAL. ALEGAÇÃO DE QUE O
+CONHECIMENTO DO RECURSO DEVOLVERIA TODA A
+MATÉRIA À APRECIAÇÃO DAS CORTES SUPERIORES,
+AINDA QUE PENDENTE DE ANÁLISE PELA CORTE DE
+ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE
+PREQUESTIONAMENTO. IMPOSSIBILIDADE EM RECURSO
+EXTRAORDINÁRIO” (ARE 681.974-AgR, Relator o Ministro
+Luiz Fux, Primeira Turma, DJe 14.8.2012, grifos nossos). 5.
+Ademais, quanto à necessidade de conexão de processos
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 12 de 18
+
+RE 819404 AGR / RJ
+suscitada pelo Recorrente, a apreciação do pleito recursal
+demandaria o reexame do conjunto fático-probatório do
+processo e a análise da legislação infraconstitucional aplicável à
+espécie (Código de Processo Civil). A alegada ofensa
+constitucional, se tivesse ocorrido, seria indireta, o que
+inviabiliza o processamento do recurso extraordinário. Incide
+na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO
+DE INSTRUMENTO. AUSÊNCIA DE RECURSO CONTRA A
+SENTENÇA. REMESSA DOS AUTOS AO ARQUIVO.
+CONEXÃO DE PROCESSOS. PRECLUSÃO DE PROVAS.
+OFENSA INDIRETA À CF. SÚMULA STF 279. ALEGADA
+AFRONTA AO ART. 93, IX, DA CF. INEXISTÊNCIA. 1. O
+Tribunal de origem decidiu a questão com fundamento no
+exame do conjunto fático-probatório constante nos autos e na
+análise da legislação infraconstitucional aplicável à espécie
+(CPC e CC). Assim, eventual ofensa à Constituição Federal, se
+existente, seria meramente reflexa ou indireta. Incidência da
+Súmula STF 279. 2. O fato de a decisão impugnada ter sido
+contrária aos interesses da parte não configura ofensa ao
+disposto no art. 93, IX, da Constituição Federal. 3. Agravo
+regimental a que se nega provimento” (AI 591.212-AgR,
+Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 27.6.2011,
+grifos nossos). “AGRAVO REGIMENTAL NO AGRAVO DE
+INSTRUMENTO.
+PROCESSUAL
+CIVIL.
+CONEXÃO.
+ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LIV E
+LV, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE
+DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL.
+OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO
+QUAL SE NEGA PROVIMENTO” (AI 799.782-AgR, de minha
+relatoria, Primeira Turma, DJe 11.4.2011, grifos nossos). Nada
+há, pois, a prover quanto às alegações do Recorrente. 6. Pelo
+exposto, nego seguimento ao recurso extraordinário (art. 557,
+caput , do Código de Processo Civil e art. 21, § 1º, do Regimento
+Interno do Supremo Tribunal Federal). Publique-se. Brasília, 18
+de agosto de 2014. Ministra CÁRMEN LÚCIA Relatora” (RE
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 13 de 18
+
+RE 819404 AGR / RJ
+813317, Relator(a): Min. CÁRMEN LÚCIA, julgado em
+18/08/2014, DJe 25/08/2014)
+Nesse sentir, não merece seguimento o recurso
+extraordinário, consoante também se denota dos fundamentos
+da decisão que desafiou o recurso, aos quais me reporto e cuja
+detida análise conduz à conclusão pela ausência de ofensa
+direta e literal a preceito da Constituição da República.
+Nego seguimento ao recurso extraordinário (CPC, art. 557,
+caput) ”
+
+Irrepreensível a decisão agravada.
+A 1ª Turma Recursal Fazendária dos Juizado Especial Cível do
+Estado do Rio de Janeiro, ao rejeitar os embargos de declaração opostos
+(fls. 186-7), manteve a decisão proferida nos termos do art. 557, § 1º-A, do
+CPC, aplicável analogicamente aos sistema do Juizado, verbis:
+“Impossibilidade de o Estado se aproveitar da força
+laborativa sem a devida contraprestação. Ausência de lei
+prevendo a indenização não tem condão de suprimir o aludido
+direito, prevalecendo o princípio da vedação ao enriquecimento
+sem causa, com sede legal nas disposições do art. 884, do
+Código Civil, de aplicação genérica e irrestrita.
+(…)
+Aplicação no sistema de Juizados Especiais. Redação do
+art. 18 do Regimento Interno das Turmas Recursais. Enunciado
+nº 15 do FONAJE. Sentença que deverá ser mantida.
+(...)
+Voto pelo conhecimento do recurso e seu improvimento,
+mantendo a condenação do Estado ao pagamento da
+indenização das férias não gozadas requeridas, com base nos
+vencimentos brutos atuais, sem descontos fiscais ou
+previdenciários, excluindo as parcelas de caráter eventual
+(inclusive horas extras) e terço constitucional, observando-se o
+prazo máximo de 60 (sessenta) dias, abrindo-se oportunidade
+de defesa para o Estado, sem prejuízo do cumprimento do art.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 14 de 18
+
+RE 819404 AGR / RJ
+730 do Código de Processo Civil.
+(...)” (fl. 178).
+
+Divergir do entendimento da Turma Recursal acerca da condenação
+do Estado ao pagamento da indenização das férias não gozadas
+requeridas por servidor público estadual aposentado – com base nos
+vencimentos brutos atuais, sem descontos fiscais ou previdenciários,
+excluindo as parcelas de caráter eventual (inclusive horas extras) e terço
+constitucional e eventual conexão entre ações – demandaria a
+reelaboração da moldura fática constante do acórdão de origem. Cito
+precedentes:
+“DIREITO PROCESSUAL CIVIL. CONEXÃO. NEGATIVA
+DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA.
+EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO
+EXTRAORDINÁRIO. APELO EXTREMO DEPENDENTE DA
+REELABORAÇÃO DA MOLDURA FÁTICA. SÚMULA
+279/STF. ACÓRDÃO RECORRIDO PUBLICADO EM
+12.11.2012. Inexiste violação do artigo 93, IX, da CF/88. Na
+compreensão desta Suprema Corte, o texto constitucional exige
+que o órgão jurisdicional explicite as razões de seu
+convencimento, sem necessidade, contudo, do exame detalhado
+de cada argumento esgrimido pelas partes. Precedentes. As
+razões do agravo regimental não são aptas a infirmar os
+fundamentos que lastrearam a decisão agravada, mormente no
+que se refere à análise de legislação infraconstitucional e ao
+óbice da Súmula 279/STF, a inviabilizar o trânsito do recurso
+extraordinário. Agravo regimental conhecido e não provido”
+(ARE 745.807-AgR/DF, de minha relatoria, 1ª Turma, Dje
+08.10.2013).
+“AGRAVO
+REGIMENTAL
+NO
+AGRAVO
+DE
+INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO DE
+TÍTULO JUDICIAL. SUPOSTA CONEXÃO ENTRE A
+EXECUÇÃO COM EMBARGOS E A AÇÃO ANULATÓRIA.
+ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 15 de 18
+
+RE 819404 AGR / RJ
+LEGAL, À AMPLA DEFESA E AO CONTRADITÓRIO, ALÉM
+DA FALTA DE FUNDAMENTAÇÃO DA DECISÃO JUDICIAL.
+MATÉRIA INFRACONSTITUCIONAL. SÚMULA 279 DO STF.
+1. A alegação de ofensa aos postulados da legalidade, do devido
+processo legal, da ampla defesa, da motivação dos atos
+decisórios, do contraditório, dos limites da coisa julgada e da
+prestação jurisdicional, se ocorrente, seria indireta ou reflexa.
+Precedentes: AI n. 803.857-AgR, Rel. Min. CELSO DE MELLO,
+2ª Turma, DJ 17.03.11; AI n. 812.678-AgR, Rel. Min. ELLEN
+GRACIE, 2ª Turma, DJ 08.02.11; AI n. 513.804-AgR, Rel. Min.
+JOAQUIM BARBOSA, 1ª Turma, DJ 01.02.11 . 2. A Súmula
+279/STF dispõe verbis: Para simples reexame de prova não cabe
+recurso extraordinário. 3. É que o recurso extraordinário não se
+presta ao exame de questões que demandam revolvimento do
+contexto fático-probatório dos autos, adstringindo-se à análise
+da violação direta da ordem constitucional. 4. In casu, o acórdão
+originariamente
+recorrido
+assentou:
+“AGRAVO
+DE
+INSTRUMENTO
+–
+EMBARGOS
+À
+EXECUÇÃO
+–
+Suspensividade – Pretensão que se agregue o efeito suspensivo
+aos embargos opostos até o julgamento da exceção de
+incompetência – Exceção já julgada e rejeitada, conforme
+informado nos embargos declaratórios opostos em primeira
+instância.
+Recurso
+não
+conhecido.
+CONEXÃO
+E
+PREJUDICALIDADE EXTERNA – Pontos que não se
+encontram na decisão recorrida – Impossibilidade de apreciação
+na
+segunda
+instância.
+Recurso
+não
+conhecido.
+FUNDAMENTAÇÃO – Alegada a ausência de fundamentação
+– Inocorrência – Motivação suficiente para conclusão do
+decidido. Recurso desprovido.” 5. Agravo regimental
+desprovido” (AI 829.606-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma,
+Dje 28.6.2012).
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM
+AGRAVO DE INSTRUMENTO. AUSÊNCIA DE RECURSO
+CONTRA A SENTENÇA. REMESSA DOS AUTOS AO
+ARQUIVO. CONEXÃO DE PROCESSOS. PRECLUSÃO DE
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 16 de 18
+
+RE 819404 AGR / RJ
+PROVAS. OFENSA INDIRETA À CF. SÚMULA STF 279.
+ALEGADA AFRONTA AO ART. 93, IX, DA CF.
+INEXISTÊNCIA. 1. O Tribunal de origem decidiu a questão
+com fundamento no exame do conjunto fático-probatório
+constante nos autos e na análise da legislação
+infraconstitucional aplicável à espécie (CPC e CC). Assim,
+eventual ofensa à Constituição Federal, se existente, seria
+meramente reflexa ou indireta. Incidência da Súmula STF 279.
+2. O fato de a decisão impugnada ter sido contrária aos
+interesses da parte não configura ofensa ao disposto no art. 93,
+IX, da Constituição Federal. 3. Agravo regimental a que se nega
+provimento” (AI 591.212-AgR/SP, Rel. Min. Ellen Gracie, 2ª
+Turma, Dje 27.6.2011).
+
+A suposta ofensa aos postulados constitucionais invocados no apelo
+extremo somente poderia ser constatada a partir da análise da legislação
+infraconstitucional, o que torna oblíqua e reflexa eventual ofensa,
+insuscetível, portanto, de viabilizar o conhecimento do recurso
+extraordinário.
+Por fim, a alegação de que a matéria discutida no acórdão recorrido
+é similar à do RE 568.645-RG/SP em nada benefecia o agravante, ausente
+identidade entre o caso dos autos e o paradigma referido, assim
+ementado:
+“REPERCUSSÃO GERAL. DIREITO CONSTITUCIONAL
+E PROCESSUAL CIVIL. VEDAÇÃO CONSTITUCIONAL DE
+FRACIONAMENTO DE EXECUÇÃO PARA FRAUDAR O
+PAGAMENTO POR PRECATÓRIO. ART. 100, § 8º
+(ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA
+REPÚBLICA. LITISCONSÓRCIO FACULTATIVO SIMPLES.
+CONSIDERAÇÃO INDIVIDUAL DOS LITISCONSORTES:
+CONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO
+AO QUAL SE NEGA PROVIMENTO. 1. Ausência de
+prequestionamento quanto à alegação de inconstitucionalidade
+da Resolução n. 199/2005 do Tribunal de Justiça de São Paulo e
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 17 de 18
+
+RE 819404 AGR / RJ
+quanto ao fracionamento dos honorários advocatícios.
+Incidência das Súmulas 282 e 356. 2. A execução ou o
+pagamento singularizado dos valores devidos a partes
+integrantes de litisconsórcio facultativo simples não contrariam
+o § 8º (originariamente § 4º) do art. 100 da Constituição da
+República. A forma de pagamento, por requisição de pequeno
+valor ou precatório, dependerá dos valores isoladamente
+considerados. 3. Recurso extraordinário ao qual se nega
+provimento” (RE 568.645/SP, Rel. Min. Cármen Lúcia, Tribunal
+Pleno, DJe 13.11.2014).
+
+As razões do agravo regimental não se mostram aptas, portanto, a
+infirmar os fundamentos que lastrearam a decisão agravada,
+inviabilizando o trânsito do recurso extraordinário.
+Agravo regimental conhecido e não provido.
+É como voto.
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8028828.
+
+Supremo Tribunal Federal
+Extrato de Ata - 10/03/2015
+
+Inteiro Teor do Acórdão - Página 18 de 18
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 819.404
+PROCED. : RIO DE JANEIRO
+RELATORA : MIN. ROSA WEBER
+AGTE.(S) : ESTADO DO RIO DE JANEIRO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DO RIO DE JANEIRO
+AGDO.(A/S) : MANOEL BARCELOS DE AGUIAR
+ADV.(A/S) : MANOEL BARCELOS DE AGUIAR
+Decisão: A Turma negou provimento ao agravo regimental, nos
+termos do voto da Relatora. Unânime. Ausente, justificadamente, o
+Senhor Ministro Dias Toffoli. Presidência da Senhora Ministra Rosa
+Weber. 1ª Turma, 10.3.2015.
+Presidência da Senhora Ministra Rosa Weber. Presentes à Sessão
+os Senhores Ministros Marco Aurélio, Luiz Fux e Roberto Barroso.
+Ausente o Senhor Ministro Dias Toffoli em razão de participação,
+na qualidade de Presidente do Tribunal Superior Eleitoral, em
+Audiência Pública da Reforma Política realizada na Câmara dos
+Deputados.
+Subprocuradora-Geral da República, Dra. Déborah Duprat.
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 8058173
