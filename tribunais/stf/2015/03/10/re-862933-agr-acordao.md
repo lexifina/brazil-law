@@ -1,0 +1,427 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 9
+
+10/03/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 862.933 CEARÁ
+RELATOR
+AGTE.(S)
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ROBERTO BARROSO
+: JANAYNA MARQUES DE OLIVEIRA E SILVA
+: ANTÔNIO CARLOS DA SILVA
+: FÁBIO HENRIQUE BARBOSA PORTELA
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+
+EMENTA:
+AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO. RESPONSABILIDADE OBJETIVA DO ESTADO.
+VERIFICAÇÃO
+DA
+EXISTÊNCIA
+DOS
+ELEMENTOS
+CONFIGURADORES. SÚMULA 279/STF. PRECEDENTES.
+Hipótese em que a resolução da controvérsia demandaria o reexame
+dos fatos e do material probatório constantes nos autos, o que é vedado
+em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes.
+Ausência de argumentos capazes de infirmar a decisão agravada.
+Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, sob a Presidência da
+Ministra Rosa Weber, na conformidade da ata de julgamento e das notas
+taquigráficas, por unanimidade de votos, em negar provimento ao agravo
+regimental, nos termos do voto do Relator. Ausente, justificadamente, o
+Ministro Dias Toffoli.
+Brasília, 10 de março de 2015.
+MINISTRO LUÍS ROBERTO BARROSO - RELATOR
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8059045.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 9
+
+10/03/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 862.933 CEARÁ
+RELATOR
+AGTE.(S)
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ROBERTO BARROSO
+: JANAYNA MARQUES DE OLIVEIRA E SILVA
+: ANTÔNIO CARLOS DA SILVA
+: FÁBIO HENRIQUE BARBOSA PORTELA
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+RE LAT Ó RI O
+
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (RELATOR):
+1.
+Trata-se de agravo regimental cujo objeto é decisão que
+negou seguimento ao recurso extraordinário pelos seguintes
+fundamentos: (i) a suposta violação ao art. 5º, LIV da Constituição
+demandaria a análise de legislação infraconstitucional; e (ii) o caso atrai a
+incidência da Súmula 279/STF.
+2.
+A parte agravante sustenta que o entendimento proferido
+pelo Tribunal de origem, “no que se refere à responsabilidade civil objetiva do
+Estado e do cerceamento do direito de defesa por desprezar depoimento de
+testemunha legítima e ocular dos fatos por presunção de suspeição, data maxima
+vênia, viola de forma direta garantias constitucionais esculpidas no
+inciso LV do artigo 5° e art. 37, § 6° da Constituição Federal” (fls. 527).
+3.
+
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8059046.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 3 de 9
+
+10/03/2015
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 862.933 CEARÁ
+VOTO
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (Relator):
+1.
+O agravo regimental não pode ser provido, tendo em vista
+que a parte recorrente se limita a repetir as alegações do recurso
+extraordinário, sem trazer novos argumentos suficientes para modificar a
+decisão ora agravada. Nessas condições, deve-se manter pelos seus
+próprios fundamentos o decisum recorrido, assim transcrito (fls. 513-518):
+“Trata-se de recurso extraordinário interposto contra
+acórdão do Tribunal Regional Federal da 5ª Região, de cuja
+ementa se extrai o seguinte trecho (fls. 438/444):
+‘CONSTITUCIONAL
+E
+ADMINISTRATIVO.
+APELAÇÃO. PRETENSÃO DE CONDENAÇÃO DE
+ENTE PÚBLICO A INDENIZAR POR DANO MORAL.
+RESPONSABILIDADE CIVIL (OBJETIVA) DO ESTADO.
+ART. 37, PARÁGRAFO 6º, DA CF/88. NÃO
+PERFAZIMENTO DOS PRESSUPOSTOS PRÓPRIOS.
+NÃO COMPROVAÇÃO DE ABUSO DE AUTORIDADE
+EM
+ABORDAGEM
+POLICIAL.
+DISCUSSÃO
+ENTABULADA ENTRE O CONDUTOR DO VEÍCULO
+ABORDADO E POLICIAL RODOVIÁRIO FEDERAL.
+RELEVÂNCIA DO COMPORTAMENTO DA SUPOSTA
+VÍTIMA NA OCORRÊNCIA. IMPROCEDÊNCIA DO
+PEDIDO DE CONDENAÇÃO POR IMPROBIDADE
+ADMINISTRATIVA. IMPROCEDÊNCIA DO PLEITO
+INDENIZATÓRIO. DESPROVIMENTO DO RECURSO.
+[…] Quatro aspectos merecem reforço específico,
+considerando-se a argumentação deduzida pelos autores:
+a) as punições administrativas impostas aos policiais
+rodoviários não se deram pelo reconhecimento de
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8059047.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 4 de 9
+
+RE 862933 AGR / CE
+desmotivação ou de abuso na abordagem policial, mas sim
+pelo fato de um dos policiais ter entabulado discussão
+pessoal, reativa, com um dos ocupantes do veículo, e do
+outro não ter conseguido contornar essa situação, de
+modo que as conclusões do PAD correspondente não têm
+o efeito de chancelar a tese autoral; b) a razão do pedido
+indenizatório é a suposta truculência da abordagem
+policial contra os autores (esse é o fato a ser demonstrado),
+de modo que fatos outros, em que narrados excessos pelos
+mesmos policiais, envolvendo pessoas distintas, ainda sem
+apuração, noticiados apenas após o caso telado ganhar
+notoriedade, não se prestam a gerar a procedência da
+postulação, ante os limites deste processo; c) a tese dos
+autores de que eles se encontravam sem qualquer
+possibilidade de defesa não parece corresponder à
+realidade fática, haja vista constar que um dos ocupantes
+do veículo abordado estava armado, e eles tanto se
+sentiram seguros que o condutor do veículo travou
+embate verbal com o policial; d) o aborrecimento natural
+com o acontecido não configura dano moral ("[...] É
+tranquila a jurisprudência do Superior Tribunal de Justiça
+no sentido de que mero aborrecimento, mágoa ou excesso
+de sensibilidade por parte de quem afirma dano moral,
+por serem inerentes à vida em sociedade, são insuficientes
+à caracterização do abalo, visto que tal depende da
+constatação, por meio de exame objetivo e prudente
+arbítrio, da real lesão à personalidade daquele que se diz
+ofendido [...]" - STJ, 4T, AREsp 434.901/RJ, Rel. Ministro
+LUIS FELIPE SALOMÃO, julgado em 01/04/2014).
+4.
+Não
+perfeitos
+os
+pressupostos
+de
+responsabilização civil do Estado, é o caso de se julgar
+improcedente o pedido indenizatório.
+5. Pelo desprovimento da apelação.’
+O recurso extraordinário busca fundamento no art. 102,
+III, a, da Constituição. A parte recorrente alega violação aos arts.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8059047.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 5 de 9
+
+RE 862933 AGR / CE
+5º, LV; e 37, § 6º, da Constituição Federal.
+O recurso extraordinário é inadmissível. De início, quanto
+à alegação de violação ao art. 5º, LV, incide a jurisprudência do
+Supremo Tribunal Federal que afasta o cabimento de recurso
+extraordinário para o questionamento de alegadas violações à
+legislação infraconstitucional. Nessa linha, veja-se o seguinte
+trecho da ementa do AI 839.837-AgR, Rel. Min. Ricardo
+Lewandowski:
+‘[…]
+II - A jurisprudência desta Corte fixou-se no sentido
+de que a afronta aos princípios constitucionais da
+legalidade, do devido processo legal, da ampla defesa e do
+contraditório, se dependente de reexame prévio de
+normas infraconstitucionais, em regra, seria indireta ou
+reflexa. Precedentes.’
+Quanto à questão de fundo, o Supremo Tribunal Federal já
+assentou que os elementos configuradores da responsabilidade
+objetiva do Estado são: (i) existência de dano; (ii) prova da
+conduta da Administração; (iii) presença do nexo causal entre a
+conduta administrativa e o dano ocorrido; e (iv) a ausência de
+causa excludente da responsabilidade. Veja-se, nesse sentido, a
+ementa do AI 734.689-AgR-ED, julgado sob a relatoria do
+Ministro Celso de Mello:
+‘INADMISSIBILIDADE
+RESPONSABILIDADE
+CIVIL OBJETIVA DO PODER PÚBLICO ELEMENTOS
+ESTRUTURAIS
+TEORIA
+DO
+RISCO
+ADMINISTRATIVO FATO DANOSO ( MORTE ) PARA
+O OFENDIDO ( MENOR IMPÚBERE ) RESULTANTE
+DE TRATAMENTO MÉDICO INADEQUADO EM
+HOSPITAL PÚBLICO PRESTAÇÃO DEFICIENTE ,
+PELO
+DISTRITO
+FEDERAL,
+DO
+DIREITO
+FUNDAMENTAL A SAÚDE, INDISSOCIÁVEL DO
+DIREITO À VIDA EMBARGOS DE DECLARAÇÃO
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8059047.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 6 de 9
+
+RE 862933 AGR / CE
+REJEITADOS .
+- Não se revelam cabíveis os embargos de
+declaração, quando a parte recorrente a pretexto de
+esclarecer uma inexistente situação de obscuridade, omissão
+ou contradição vem a utilizá-los com o objetivo de
+infringir o julgado e de, assim , viabilizar um indevido
+reexame da causa. Precedentes .
+- Os elementos que compõem a estrutura e
+delineiam o perfil da responsabilidade civil objetiva do
+Poder Público compreendem ( a ) a alteridade do dano, (
+b ) a causalidade material entre o eventus damni e o
+comportamento positivo (ação) ou negativo (omissão) do
+agente público, ( c ) a oficialidade da atividade causal e
+lesiva imputável a agente do Poder Público que tenha,
+nessa específica condição , incidido em conduta
+comissiva ou omissiva , independentemente da licitude,
+ou não, do comportamento funcional e ( d ) a ausência de
+causa excludente da responsabilidade estatal. Precedentes
+.
+A omissão do Poder Público, quando lesiva aos
+direitos de qualquer pessoa, induz à responsabilidade
+civil objetiva do Estado, desde que presentes os
+pressupostos primários que lhe determinam a obrigação
+de indenizar os prejuízos que os seus agentes, nessa
+condição , hajam causado a terceiros. Doutrina .
+Precedentes .
+- A jurisprudência dos Tribunais em geral tem
+reconhecido a responsabilidade civil objetiva do Poder
+Público nas hipóteses em que o eventus damni ocorra em
+hospitais públicos ( ou mantidos pelo Estado), ou derive
+de tratamento médico inadequado , ministrado por
+funcionário público, ou , então, resulte de conduta
+positiva ( ação ) ou negativa ( omissão ) imputável a
+servidor público com atuação na área médica.
+- Configuração de todos os pressupostos primários
+determinadores do reconhecimento da responsabilidade
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8059047.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 7 de 9
+
+RE 862933 AGR / CE
+civil objetiva do Poder Público, o que faz emergir o dever
+de indenização pelo dano pessoal e/ou patrimonial
+sofrido.’
+O Tribunal de origem entendeu que não restaram
+configurados os elementos ensejadores da responsabilidade
+objetiva do Estado. Desse modo, para dissentir dessa conclusão,
+seria necessária a reapreciação dos fatos e do material
+probatório constantes nos autos, o que é inviável neste
+momento processual, nos termos da Súmula 279/STF.
+Confiram-se, nesse sentido, os seguintes precedentes: ARE
+738.121-AgR. Rel. Min. Gilmar Mendes; AI 842.715-AgR; Rel.ª
+Min.ª Rosa Weber; e ARE 723.824-AgR, julgado sob a relatoria
+do Ministro Luiz Fux, assim ementado:
+‘AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+CIVIL.
+ADMINISTRATIVO.
+RESPONSABILIDADE
+CIVIL.
+DANOS MORAIS E MATERIAIS. abordagem policial.
+EXCESSO. VERIFICAÇÃO DA OCORRÊNCIA DO NEXO
+DE CAUSALIDADE. REEXAME DO CONJUNTO
+FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279
+DO STF. ALEGAÇÃO DE OFENSA AO ARTIGO 5°,
+XXXV, LIV e LV, DA CONSTITUIÇÃO FEDERAL.
+OFENSA REFLEXA.
+1. O nexo de causalidade apto a gerar indenização
+por dano moral em face da responsabilidade do estado,
+quando controversa sua existência, demanda a análise do
+conjunto fático-probatório dos autos, o que atrai a
+incidência da Súmula 279/STF que dispõe verbis : Para
+simples reexame de prova não cabe recurso
+extraordinário.
+2. O recurso extraordinário não se presta ao exame
+de questões que demandam revolvimento do contexto
+fático-probatório dos autos, adstringindo-se à análise da
+violação direta da ordem constitucional.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8059047.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 8 de 9
+
+RE 862933 AGR / CE
+3. A competência deferida ao Relator para,
+monocraticamente,
+julgar
+recurso
+manifestamente
+inadmissível, improcedente ou contrário à jurisprudência
+desta Corte não derroga o princípio da colegialidade, que
+resulta preservado, no âmbito deste Tribunal, pelo
+cabimento do recurso de agravo das decisões singulares
+proferidas por seus Ministros. Nesse sentido: AI 742.38AgR/BA, Rel. Min. Ellen Gracie, Segunda Turma, DJe
+19/3/2010.
+4. In casu, o acórdão recorrido assentou: Agravo
+Inominado em Apelação Cível. responsabilidade Civil do
+estado. Ação de Indenização por danos morais. Excesso
+cometido em abordagem policial. Sentença de
+procedência. Apelação do Município. Improvimento do
+recurso. Ausência de prova nos autos de resistência ou
+demonstração de ameaça do autor às demais pessoas.
+abordagem efetuada com excesso. responsabilidade
+objetiva do estado nos termos do artigo 37, §6° da CF/88.
+Precedente desta E. Corte. danos morais. Local e horário
+da abordagem a caracterizar a repercussão dos fatos. Valor
+fixado pelo Magistrado que se revela módico, não
+merecendo reparos. Ausência de argumentos novos no
+agravo interposto que justifique a revisão da decisão
+recorrida. Improvimento deste recurso.
+5. Agravo regimental DESPROVIDO.’
+Diante do exposto, com base no art. 557, caput, do CPC e
+no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.”
+
+2.
+
+Diante do exposto, nego provimento ao agravo regimental.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8059047.
+
+Supremo Tribunal Federal
+Extrato de Ata - 10/03/2015
+
+Inteiro Teor do Acórdão - Página 9 de 9
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 862.933
+PROCED. : CEARÁ
+RELATOR : MIN. ROBERTO BARROSO
+AGTE.(S) : JANAYNA MARQUES DE OLIVEIRA E SILVA
+AGTE.(S) : ANTÔNIO CARLOS DA SILVA
+ADV.(A/S) : FÁBIO HENRIQUE BARBOSA PORTELA
+AGDO.(A/S) : UNIÃO
+PROC.(A/S)(ES) : ADVOGADO-GERAL DA UNIÃO
+Decisão: A Turma negou provimento ao agravo regimental, nos
+termos do voto do Relator. Unânime. Ausente, justificadamente, o
+Senhor Ministro Dias Toffoli. Presidência da Senhora Ministra Rosa
+Weber. 1ª Turma, 10.3.2015.
+Presidência da Senhora Ministra Rosa Weber. Presentes à Sessão
+os Senhores Ministros Marco Aurélio, Luiz Fux e Roberto Barroso.
+Ausente o Senhor Ministro Dias Toffoli em razão de participação,
+na qualidade de Presidente do Tribunal Superior Eleitoral, em
+Audiência Pública da Reforma Política realizada na Câmara dos
+Deputados.
+Subprocuradora-Geral da República, Dra. Déborah Duprat.
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 8058246
