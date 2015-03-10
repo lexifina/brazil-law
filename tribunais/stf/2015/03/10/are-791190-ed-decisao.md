@@ -1,0 +1,21 @@
+DECISÃO
+    Trata-se de embargos de declaração opostos contra decisão monocrática que não conheceu do agravo, sob o fundamento de que a parte não impugnara os fundamentos da decisão agravada.
+    A parte alega que o impugnou todos os fundamentos da decisão que inadmitiu o Recurso Extraordinário, de forma pontual e clara, não havendo qualquer referência à Pedido de Uniformização.
+    Com razão a embargante, motivo pelo qual reconsidero a decisão de fls. a passo a reapreciar a matéria.
+    Trata-se agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da 1ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul, do qual transcrevo o seguinte trecho conclusivo:
+    “(…)
+    À luz dessas considerações, resta claro que: a) em relação aos produtores rurais, que não contavam com o auxílio de empregados, a contribuição é devida com base no artigo 195, § 8º da CF, sendo legítima sua cobrança com base na Lei nº 8.212/91, enquanto que; b) em relação aos empregadores rurais pessoa física, (b.1) para que fosse legítima sua cobrança, antes do advento da Emenda Constitucional nº 20/98, seria necessária sua instituição por meio de lei complementar; e (b.2) após o advento da Emenda Constitucional nº 20/98, se torna possível sua instituição por meio de lei ordinária.
+    Ainda, considerando o caso concreto, importante ressaltar que o art. 30 da Lei nº 8.212/91 determina a sub-rogação da cooperativa na obrigação do produtor rural de arrecadação e recolhimento da contribuição devida à Seguridade Social.
+    Ocorre que isso, evidentemente, não retira a qualidade de contribuinte ostentado pelo produtor rural segurado especial, determinada expressamente pelo art. 25 da referida Lei.
+    Dessa forma, considerando que a parte autora não comprovou que se caracterizava como empregadora rural no interregno postulado, ostentando a qualidade apenas de produtora rural (contribuinte, portanto, do tributo em questão) deve ser dado provimento ao recurso da parte ré e julgado improcedente o pedido veiculado na inicial.
+    Sem condenação em custas e honorários advocatícios.
+    Ante o exposto, voto por dar provimento ao recurso da parte ré.”
+    O recurso extraordinário busca fundamento no art. 102, III, a , da Constituição Federal. A recorrente alega violação aos arts. 5º, XXXVI, a; 93, IX; 150; 154, I; e 195, todos da Carta. Sustenta, em síntese, que (i) a venda dos produtos à Cooperativa não pode ser considerada como relação negocial de compra e venda e (ii) inviável a cobrança do tributo com base na redação da Lei nº 8.540/1992.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “a admissão do recurso extraordinário exige que a ofensa ao preceito constitucional seja direta e frontal, e não por via reflexa (indireta), como ocorreu no caso”. Em sede de agravo, a parte reitera os argumentos deduzidos no recurso extraordinário.
+    O Supremo Tribunal Federal, nos autos do RE 761.263-RG, julgado sob a relatoria do Ministro Teori Zavaski, reconheceu a existência de repercussão geral da matéria em exame. Confira-se a ementa:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. SEGURADO ESPECIAL. ARTIGO 195, § 8º, DA CF/88. RESULTADO DA COMERCIALIZAÇÃO DA PRODUÇÃO. ART. 25 DA LEI 8.212/91, DESDE SUA REDAÇÃO ORIGINÁRIA. RECEITA BRUTA. BASE DE CÁLCULO. AUSÊNCIA DE IDENTIDADE. NECESSIDADE DE LEI COMPLEMENTAR. RECONHECIMENTO DA INCONSTITUCIONALIDADE DE DISPOSITIVOS DA LEI 8.212/91. EFEITOS REPRISTINATÓRIOS. Possui repercussão geral a questão atinente à constitucionalidade da contribuição a ser recolhida pelo segurado especial, prevista no art. 25 da Lei 8.212/1991, desde a sua redação originária, diante da ausência de identidade de sua base de cálculo (receita bruta) com a prevista no art. 195, § 8º, da Constituição Federal (resultado da comercialização).”
+    Diante do exposto, reconsidero a decisão e, com base no art. 328, parágrafo único, do RI/STF, provejo o agravo e conheço do recurso extraordinário para determinar o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B, do CPC.
+    Publique-se.
+          Brasília, 10 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
