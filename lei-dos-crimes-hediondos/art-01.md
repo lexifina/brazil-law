@@ -1,5 +1,5 @@
 Art. 1º São considerados hediondos os seguintes crimes, todos tipificados no Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, consumados ou tentados:
-I - homicídio (art. 121), quando praticado em atividade típica de grupo de extermínio, ainda que cometido por um só agente, e homicídio qualificado (art. 121, § 2º, I, II, III, IV e V);
+I - homicídio (art. 121), quando praticado em atividade típica de grupo de extermínio, ainda que cometido por um só agente, e homicídio qualificado (art. 121, § 2º, I, II, III, IV, V e VI);
 II - latrocínio (art. 157, § 3º, in fine);
 III - extorsão qualificada pela morte (art. 158, § 2º);
 IV - extorsão mediante seqüestro e na forma qualificada (art. 159, caput, e §§ lº, 2º e 3º);
