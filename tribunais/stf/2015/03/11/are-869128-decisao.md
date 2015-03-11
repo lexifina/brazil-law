@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO E MEIO AMBIENTE. NECESSIDADE DE REGISTRO NA MATRÍCULA DO IMÓVEL DA ÁREA DE RESERVA LEGAL PARA ISENÇÃO DO IMPOSTO TERRITORIAL RURAL – ITR: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+    “TRIBUTÁRIO E AMBIENTAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ITR. ISENÇÃO. RESERVA LEGAL. AVERBAÇÃO. IMPRESCINDIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. É imprescindível a averbação da área de reserva legal, no registro de imóveis, para fins de gozo da isenção fiscal prevista no art. 10, II, a, da Lei 9.393/96. Nesse sentido: REsp 1.027.051/SC, Rel. Min. HUMBERTO MARTINS, Rel. p/ Acórdão Min. MAURO CAMPBELL MARQUES, Segunda Turma, DJe 17/05/2011; REsp 1.125.632/PR, Rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 31/08/2009.
+    2. Agravo regimental não provido” (Volume n. 2, fl. 479, e-STJ).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega contrariedade ao art. 150, § 6º, da Constituição da República.
+    Assevera inexistir “norma que indique a imprescindibilidade da averbação de área de reserva legal para fins de isenção do Imposto Territorial Rural – ITR” (Volume n. 2, fl. 548, e-STJ).
+    3. O Tribunal de origem inadmitiu o recurso extraordinário ao fundamento de ofensa indireta à Constituição da República.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Lei n. 9.393/1996). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário:
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais” (RE 819.754-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 31.10.2014).
+    “Agravo regimental no recurso extraordinário com agravo. IPVA. Isenção. Portador de necessidades especiais. Norma de direito local. Súmula 280/STF. Artigo 111, CTN. Afronta reflexa. 1. A matéria atinente à isenção do IPVA na aquisição de veículo pelo portador de necessidades especiais depende da reinterpretação da legislação infraconstitucional local e do art. 111 do CTN. Caso de ofensa reflexa à Constituição. Precedentes de ambas as Turmas. 2. Não cabe recurso extraordinário contra acórdão em que o órgão julgador se limite a interpretar normas de direito local. Súmula 280/STF. 3. Agravo regimental não provido” (ARE 712.222-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 17.2.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. CRÉDITOS. APROVEITAMENTO. ISENÇÃO. REGULAMENTO E RESTRIÇÃO. LEI ESTADUAL 8.820/1989 E DECRETO ESTADUAL 37.699/1997. MANUTENÇÃO DOS FUNDAMENTOS INFRACONSTITUCIONAIS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Nas hipóteses em que o acórdão recorrido se assenta em fundamento infraconstitucional suficiente e este se torna imodificável, caso destes autos, este Tribunal tem entendido pela inviabilidade do apelo extremo, com base na aplicação da Súmula 283 do STF. Precedentes. II – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de legislação infraconstitucional local que fundamenta a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes. III – Agravo regimental a que se nega provimento” (RE n. 811.800-AgR, Relator o Ministro Ricardo Lewadowski, Segunda Turma, DJe 15.8.2014).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO TERRITORIAL RURAL - ITR. INSTRUÇÃO NORMATIVA N. 59/1995 DA SECRETARIA DA RECEITA FEDERAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DA LEGALIDADE E DA ANTERIORIDADE. NECESSIDADE DO PRÉVIO EXAME DE NORMAS INFRACONSTITUCIONAIS. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 633.438-ED, de minha relatoria, Primeira Turma, DJe 22.6.2011).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de março de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
