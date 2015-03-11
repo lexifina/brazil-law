@@ -21,7 +21,8 @@ d) R$ 1.499,15 (mil, quatrocentos e noventa e nove reais e quinze centavos), por
 e) R$ 1.566,61 (mil, quinhentos e sessenta e seis reais e sessenta e um centavos), por mês, para o ano-calendário de 2011;
 f) R$ 1.637,11 (mil, seiscentos e trinta e sete reais e onze centavos), por mês, para o ano-calendário de 2012;
 g) R$ 1.710,78 (mil, setecentos e dez reais e setenta e oito centavos), por mês, para o ano-calendário de 2013;
-h) R$ 1.787,77 (mil, setecentos e oitenta e sete reais e setenta e sete centavos), por mês, a partir do ano-calendário de 2014.
+h) R$ 1.787,77 (mil, setecentos e oitenta e sete reais e setenta e sete centavos), por mês, para o ano-calendário de 2014 e nos meses de janeiro a março do ano-calendário de 2015; e
+i) R$ 1.903,98 (mil, novecentos e três reais e noventa e oito centavos), por mês, a partir do mês de abril do ano-calendário de 2015;
 XVI - o valor dos bens adquiridos por doação ou herança;
 XVII - os valores decorrentes de aumento de capital:
 a) mediante a incorporação de reservas ou lucros que tenham sido tributados na forma do art. 36 desta Lei;
