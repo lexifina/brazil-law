@@ -11,7 +11,8 @@ b) a pagamentos de despesas com instrução do contribuinte e de seus dependente
 6. R$ 2.958,23 (dois mil, novecentos e cinquenta e oito reais e vinte e três centavos) para o ano-calendário de 2011;
 7. R$ 3.091,35 (três mil, noventa e um reais e trinta e cinco centavos) para o ano-calendário de 2012;
 8. R$ 3.230,46 (três mil, duzentos e trinta reais e quarenta e seis centavos) para o ano-calendário de 2013;
-9. R$ 3.375,83 (três mil, trezentos e setenta e cinco reais e oitenta e três centavos) a partir do ano-calendário de 2014;
+9. R$ 3.375,83 (três mil, trezentos e setenta e cinco reais e oitenta e três centavos) para o ano-calendário de 2014; e
+10. R$ 3.561,50 (três mil, quinhentos e sessenta e um reais e cinquenta centavos), a partir do ano-calendário de 2015;
 c) à quantia, por dependente, de:
 1. R$ 1.584,60 (mil, quinhentos e oitenta e quatro reais e sessenta centavos) para o ano-calendário de 2007;
 2. R$ 1.655,88 (mil, seiscentos e cinqüenta e cinco reais e oitenta e oito centavos) para o ano-calendário de 2008;
@@ -20,7 +21,8 @@ c) à quantia, por dependente, de:
 5. R$ 1.889,64 (mil, oitocentos e oitenta e nove reais e sessenta e quatro centavos) para o ano-calendário de 2011;
 6. R$ 1.974,72 (mil, novecentos e setenta e quatro reais e setenta e dois centavos) para o ano-calendário de 2012;
 7. R$ 2.063,64 (dois mil, sessenta e três reais e sessenta e quatro centavos) para o ano-calendário de 2013;
-8. R$ 2.156,52 (dois mil, cento e cinquenta e seis reais e cinquenta e dois centavos) a partir do ano-calendário de 2014;
+8. R$ 2.156,52 (dois mil, cento e cinquenta e seis reais e cinquenta e dois centavos) para o ano-calendário de 2014; e
+9. R$ 2.275,08 (dois mil, duzentos e setenta e cinco reais e oito centavos), a partir do ano-calendário de 2015;
 d) às contribuições para a Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios;
 e) às contribuições para as entidades de previdência privada domiciliadas no País, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social;
 f) às importâncias pagas a título de pensão alimentícia em face das normas do Direito de Família, quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais, de acordo homologado judicialmente, ou de escritura pública a que se refere o art. 1.124-A da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil;
