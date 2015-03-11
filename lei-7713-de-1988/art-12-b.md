@@ -1,0 +1,1 @@
+Art. 12-B. Os rendimentos recebidos acumuladamente, quando correspondentes ao ano-calendário em curso, serão tributados no mês do recebimento ou crédito, sobre o total dos rendimentos, diminuídos do valor das despesas com ação judicial necessárias ao seu recebimento, inclusive de advogados, se tiverem sido pagas pelo contribuinte, sem indenização.
