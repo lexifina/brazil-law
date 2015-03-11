@@ -1,0 +1,18 @@
+DESPACHO
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA: CHAPAS DE IMPRESSÃO PARA CONFECÇÃO DE JORNAL. PROVIDÊNCIAS PROCESSUAIS.
+    1. Agravo de instrumento contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “CONSTITUCIONAL. IMUNIDADE TRIBUTÁRIA. ART. 150, INCISO VI, LETRA ‘D’. DESEMBARAÇO ADUANEIRO. (CHAPAS DE IMPRESSÃO) PARA CONFECÇÃO DE JORNAL. LEGALIDADE DA EXIGÊNCIA FISCAL.
+    1. Discute-se o direito ao desembaraço aduaneiro de chapas para gravação e tintas, destinados à impressão de jornais, sem o pagamento de impostos federais e estaduais, fundamentando-se a Impetrante na imunidade consagrada no artigo 150, inciso VI, alínea d, da Constituição Federal, norma à qual entende deva ser conferida uma interpretação ampla.
+    2. Não restam dúvidas que a Constituição Federal, ao inserir uma regra de imunidade para o livro, o jornal, o periódico, bem como o papel destinado a sua impressão (este sendo o papel de imprensa), quis prestigiar a liberdade de imprensa e o acesso à cultura, como uma das formas de garantir a todos o pleno exercício dos direitos culturais e acesso às fontes da cultura nacional, apoiando e incentivando a difusão das manifestações culturais, insertas n artigo 215, da magna Carta.
+    3. A imunidade como uma regra de competência negativa deve alcançar as situações específicas delimitadas pelo próprio texto constitucional, pois, nesse contexto, se compatibiliza com os demais princípios que a Constituição consagrou.
+    4. A evolução jurisprudencial sobre o tema, se inclina para uma interpretação restritiva da imunidade conferida pela Constituição Federal aos livros, aos jornais, aos periódicos, bem como aos papéis destinado a sua impressão, limitando-a e não estendendo-a.
+    5. A questão ainda não é pacífica, a doutrina se posta pela abrangência do tema, enquanto a jurisprudência se divide. Porém, o entendimento prevalente e atual do Supremo Tribunal Federal, é no sentido de que a imunidade consagrada pelo art. 150, VI, ‘d’, da Constituição Federal, deve se restringir aos elementos de transmissão, propriamente ditos, evoluindo apenas para abranger novos mecanismos de divulgação e propagação da cultura e informação de multimídia, como o CDROM, aos denominados livros, jornais e periódicos eletrônicos. É o que melhor atende ao preceito em tela. Interpretação sistemática e teleológica que se amolda aos critérios limitadores da tributação. Pensar de forma diversa seria desencadear um processo imunizante ilimitado em relação aos instrumentos que levam à produção final de um jornal, não abarcados expressamente pela Constituição. Afinal, o texto limita as hipóteses, não cabendo ao intérprete estender outras àquelas já traçadas, distinguindo onde o legislador constituinte não quis distinguir.
+    6. Com relação ao ICMS não assiste, igualmente, razão à impetrante, diante da incidência, para a hipótese, da Súmula 661 da Suprema Corte, firmada no sentido de que ‘Na entrada de mercadoria importada do exterior, é legítima a cobrança do ICMS por ocasião do desembaraço aduaneiro’.
+    7. Precedentes.
+    8. Remessa oficial provida” (fls. 107-108).
+    2. No recurso extraordinário, o Jornal O Valeparaibano Ltda. alega ter o Tribunal de origem contrariado o art. 150, inc. VI, al. d, da Constituição da República.
+    3. Manifeste-se a Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 11 de março de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
