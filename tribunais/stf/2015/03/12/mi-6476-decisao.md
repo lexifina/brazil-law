@@ -1,0 +1,17 @@
+Vistos etc.
+    Trata-se de mandado de injunção coletivo impetrado contra a alegada ausência de norma regulamentadora do direito dos servidores públicos à aposentadoria especial, assegurado pelo art. 40, § 4º, da Lei Maior.
+    Preliminarmente, o ente sindical impetrante pugna pela distribuição do presente writ por dependência ao MI 6019, de relatoria do Ministro Ricardo Lewandowski.
+    No mérito, sustenta que a falta de regulamentação do art. 40, § 4º, da Magna Carta, dependente de lei complementar de iniciativa do Presidente da República, impede que parte de seus substituídos exerçam o direito à aposentadoria especial.
+    Requer a concessão de ordem para que seja viabilizado aos substituídos o exercício do direito à aposentadoria especial prevista no art. 40, § 4º, da Constituição da República, mediante aplicação do art. 57 da Lei 8.213/1991.
+    É o relatório.
+    Decido.
+    1. Incabível cogitar da distribuição do presente writ, protocolado em 03.02.2015, por dependência ao MI 6019. Este último já foi apreciado, tendo a respectiva decisão transitado em julgado em 18.12.2013, e o eminente Ministro Ricardo Lewandowski, por exercer, atualmente, a presidência desta Suprema Corte, está excluído da distribuição, na forma do art. 67 do RISTF.
+    2. Foi publicada, no DOU de 24.4.2014, a Súmula Vinculante nº 33 desta Suprema Corte, cujo teor é o seguinte: “aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica”.
+    3. Nos termos do art. 103-A, caput, da Constituição da República, “o Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei” (destaquei).
+    4. Assim, publicada a Súmula Vinculante nº 33, a administração direta e indireta, nas esferas federal, estadual e municipal, deve aplicar a seus servidores, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o art. 40, § 4º, III, da Magna Carta.
+    5. Nesse contexto, não só os substituídos pelo ente sindical impetrante, como, na realidade, todos os servidores públicos cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física devem, a partir da publicação do mencionado verbete vinculante, ter seus pedidos de aposentadoria especial apreciados à luz, no que couber, das regras do regime geral da previdência social, sendo eventual recalcitrância das autoridades administrativas em assim proceder passível de reclamação (art. 103-A, § 3º, da Carta da República), podendo inclusive ensejar responsabilização pessoal nas esferas cível, administrativa e penal (art. 64-B da Lei 9.784/99).
+    Ante o exposto, à míngua de interesse de agir, tendo em vista a publicação da Súmula Vinculante nº 33, nego seguimento ao presente mandado de injunção coletivo, extinguindo-o sem resolução do mérito, com esteio nos arts. 38 da Lei 8.038/1990, 267, VI, do Código de Processo Civil e 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 12 de março de 2015.
+Ministra Rosa Weber
+Relatora
