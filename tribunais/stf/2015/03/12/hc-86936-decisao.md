@@ -1,0 +1,23 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça que negou provimento ao RHC 16.685/AM, Rel. Min. Laurita Vaz.
+    Consta dos autos, em síntese, que (a) os pacientes foram denunciados pela suposta prática dos crimes de quadrilha (art. 288 do CP), de concussão (art. 316, caput, do CP), de corrupção passiva (art. 317), de lavagem de dinheiro (art. 1°, caput, da Lei 9.613/1998) e contra a ordem tributária (art. 1°, I, da Lei 8.137/1990); (b) buscando o trancamento da ação penal, a defesa impetrou habeas corpus no Tribunal Regional Federal da 1ª Região, que denegou a ordem; (c) inconformada, a defesa interpôs RHC no Superior Tribunal de Justiça, que negou provimento ao recurso, em acórdão assim ementado:
+    “(...) 1. Muito embora só se faça menção ao crime fiscal, de fato, foram os Recorrentes denunciados por outros crimes, razão pela qual não se cogita de trancar a ação penal em relação a estes.
+    2. Sem embargo da jurisprudência do Supremo Tribunal Federal, inaugurada com o julgamento do HC n.º 81.611/DF, a qual, inclusive, tem-se filiado este Superior Tribunal de Justiça, ao caso dos autos não se lhe aplica.
+    3. Malgrado o esforço de desenvolver a tese esposada, não se logrou demonstrar a existência, de fato, de processo administrativo-fiscal. Aliás, conforme esclarece o próprio causídico, ele não existe.
+    4. Nesse contexto, restando indemonstrado sequer a existência de processo administrativo, mostra-se insubsistente o argumento tendente a trancar a ação penal. Precedentes do STJ.
+    5. Recurso ordinário desprovido”
+    Neste habeas corpus, o impetrante sustenta, em suma, a atipicidade da conduta em relação aos crimes contra a ordem tributária, pois os pacientes foram denunciados sem que houvesse a constituição definitiva do tributo. Requer, ao final, a concessão da ordem, para trancar a ação penal em relação ao crime previsto no art. 1°, I, da Lei 8.137/1990.
+    O então Relator, Min. Ayres Brito, indeferiu o pedido liminar.
+    Em parecer, a Procuradoria-Geral da República manifesta-se pela denegação da ordem.
+    2. A jurisprudência do STF é pacífica no sentido de que é pressuposto elementar do crime contra a ordem tributária (art. 1º, I a IV, da Lei 8.137/1990) o lançamento definitivo do tributo. Noutras palavras, não se pode falar em crime quando inexiste procedimento fiscal ou pende recurso administrativo perante a autoridade fazendária. É essa a orientação firmada em diversos precedentes e na Súmula Vinculante 24 (v.g., entre outros, HC 81611/DF, Relator (a): Min. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJ de 10-12-2003; HC 105197/PB, Relator (a): Min. AYRES BRITTO, Segunda Turma, DJe de 18-06-2012; HC 102477, Relator (a): Min. GILMAR MENDES, Segunda Turma, DJe de 10-08-2011; HC 97854, Relator (a): Min. ROBERTO BARROSO, Primeira Turma, DJe de 01-04-2014).
+    Na espécie, a denúncia limita-se a analisar a evolução patrimonial dos pacientes e reconhecer a incompatibilidade dela com os rendimentos declarados no Imposto de Renda de Pessoa Física (fls. 53, 172, 190 e 198), sem, contudo, apontar a constituição definitiva do crédito tributário supostamente suprimido ou reduzido.
+    Adite-se que o Juízo de primeira instância, ao prestar informações, noticia que:
+    “(…) resta completamente descabido o argumento de ausência de condição da ação, porquanto a propositura de ação penal, envolvendo os delitos tipificados na Lei 8.137/90, independe do prévio esgotamento do procedimento administrativo-tributário instaurado (…)”. (fl. 298)
+    Ademais, a Secretaria da Receita Federal do Brasil, em informações, afirmou não existir “registros de procedimentos fiscais, sejam de fiscalizações, diligências ou revisão de declarações (malha fina)” (fl. 532).
+    Bem se vê, portanto, que o ato impugnado diverge do entendimento jurisprudencial desta Corte. Assim, a mera tramitação da Ação Penal 2004.32.00.001152-5, em relação ao crime previsto no art. 1º, I, da Lei 8.137/1990, representa constrangimento ilegal, na medida em que impõe aos pacientes o plexo de consequências inerentes à persecução criminal em decorrência de fatos que não se amoldam à elementar do tipo penal (= constituição do tributo).
+    3. Pelo exposto, concedo a ordem, para trancar a Ação Penal 2004.32.00.001152-5 (4ª Vara Federal da Seção Judiciária do Estado do Amazonas), em relação ao crime contra ordem tributária (art. 1°, I, da Lei 8.137/1990), nos termos da fundamentação.
+    Publique-se. Intime-se.
+    Brasília, 12 de março de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
