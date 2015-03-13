@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região que considerou abusivo o ato da autoridade administrativa que anulou Certificado de Entidade Beneficente de Assistência Social – CEBAS.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIV e LV, da Carta, bem como à Súmula 473/STF. Sustenta, em síntese, que a anulação do CEBAS observou o poder da Administração de rever seus próprios atos e anulá-los quando eivados de ilegalidade.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que a matéria controvertida é de índole infraconstitucional.
+    A pretensão não merece acolhida. De início, cumpre registrar que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia referente à violação aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    De fato, a pretensão deduzida pela parte não encontra ressonância na jurisprudência do Supremo Tribunal Federal. Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em agravo de instrumento. 2. Imunidade tributária. Artigo 195, § 7º, da Constituição Federal. 3. Alteração do quadro normativo de exigências para reconhecimento da condição de entidade beneficente de assistência social. 4. Caducidade de certificado anteriormente emitido. Possibilidade. Ausência de direito adquirido a regime jurídico. Precedentes. 5. Inviabilidade de se verificar, em sede extraordinária, o eventual enquadramento da entidade nos preceitos vigentes. Enunciados 279 e 636 da Súmula/STF. 6. Agravo regimental a que se nega provimento.” (AI 830.147-AgR, Rel. Min. Gilmar Mendes)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO.SERVIDOR PÚBLICO. ANULAÇÃO DE ATO ADMINISTRATIVO. EFEITOS SOBRE INTERESSES INDIVIDUAIS. NECESSIDADE DE PROCESSO ADMINISTRATIVO. INOBSERVÂNCIA DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 828.029-AgR, Rel.ª Min.ª Cármen Lúcia)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. ADMINISTRATIVO. LICITAÇÃO. IMPOSIÇÃO DE PENALIDADE. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO DOS AUTOS. SUMÚLA 279 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I – O exame pelo Poder Judiciário de ato administrativo tido por ilegal ou abusivo não viola o princípio da separação dos poderes.
+    II – Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    III – Agravo regimental a que se nega provimento.” (ARE 813.742-AgR, Rel. Min. Ricardo Lewandowski)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 13 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
