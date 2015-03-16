@@ -1,0 +1,43 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pelo advogado Marcelo Luis Martins da Silva em favor de Robson Machado de Lima, apontado como autoridade coatora o Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça, que, até a presente data, não teria levado a julgamento o AREsp nº 557.690/PR.
+    Sustenta o impetrante, em linhas gerais, o excesso de prazo no julgamento daquele agravo, interposto em 13/6/14.
+    Afirma que a demora na apreciação do feito pelo Superior Tribunal de Justiça gera constrangimento ilegal ao paciente, que permanece
+    “custodiado na Penitenciária Federal de Catanduvas em situação ilegal, uma vez que a renovação da permanência não observou os ditames da Lei nº 11.671/2008, não tendo sido ouvida a defesa do Paciente na origem, bem como, sem qualquer demonstração de excepcionalidade necessária ao deferimento do pedido de prorrogação da permanência em Presídio Federal” (fl. 4 da inicial).
+    Sobre o tema, argumenta o impetrante que
+    “O Paciente foi incluso em 04/07/2012 na Penitenciária Federal de Mossoró/RN, tendo sido transferido para a Penitenciária Federal de Catanduvas/PR em 03/04/2013, onde se encontra até a presente data.
+    A renovação da permanência do Paciente no SPF foi requerida pelo Estado da Paraíba pelo período de 360 (trezentos e sessenta) dias, utilizando como fundamento os mesmos fatos que ensejaram sua inclusão, ou seja, utilizou-se dos fundamentos da inclusão no SPF em 04/07/2012 para fundamentar a renovação ocorrida em 2013, não comprovando, portanto, a excepcionalidade exigida pelo artigo 10, § 1º da Lei nº 11.671/2008 para autorizar a renovação da permanência” (fl. 6 da inicial – grifos do autor).
+    Assevera, ainda, que o “[r]eferido pedido de renovação foi feito fora do prazo legal, extrapolado em 152 dias, sem sequer ouvir a defesa no Estado de origem” (fl. 6 da inicial – grifos do autor).
+    Requer o deferimento da liminar para que seja “determinando o imediato retorno do Paciente ao seu Estado de origem, haja vista a violação do disposto no artigo 5º § 2º e artigo 10, §§ 1º e 2º, ambos da Lei nº 11.671/08” ou para que se determine “[a] imediata inclusão do Agravo em Recurso Especial nº 557.690 em trâmite perante a Sexta Turma do Superior Tribunal de Justiça em pauta [de] julgamento” (fls 25/26 da inicial).
+    No mérito, pede a concessão da ordem, confirmando-se a liminar requerida.
+    Examinados os autos, decido.
+    Narra o impetrante, na inicial, que:
+    “O Paciente foi efetivamente transferido para o sistema penitenciário federal em 04/07/2012, oriundo do Sistema Penitenciário Estadual da Paraíba, tendo em vista o pedido da autoridade prisional baseado no fato de ser o Paciente, em tese, pessoa de alta periculosidade, com grande poder de articulação, exercendo forte influência negativa perante os presos, com histórico de liderança no tráfico de drogas em seu Estado, tendo supostamente incitado outros presos a fazerem greve de fome em 2011.
+    Após o transcurso do prazo previsto no § 1º do artigo 10 da Lei nº 11.671/08 (360 dias), sem requerimento de prorrogação pelo Estado de origem, foram enviados ofícios ao Estado da Paraíba (Anexo), com a advertência de que a permanência do preso após 04/07/2013 dependeria, como exige a lei, o envio de solicitação de prorrogação do Juízo de origem, com prévio contraditório na origem.
+    Após ultrapassados 131 (cento e trinta e um) dias do o prazo de permanência do Paciente em presídio federal , foi determinado pelo r. Colegiado de Juízes Federais a devolução do Recorrente ao Estado de origem (evento 29 – em 12/11/2013 – Incidente de Transferência nº 5017562-80.2013.404.7000 Anexo).
+    Ocorre que, em 03/12/2013, sem se ater aos ditames legais, sem ouvir a defesa no Estado de Origem e de forma totalmente intempestiva (mais de 152 dias do vencimento do prazo) o Estado de origem se manifestou, requerendo a permanência do interno no Sistema Penitenciário Federal de Catanduvas/PR, por mais 360 dias, baseando-se nas mesmas razões que serviram para determinar a sua entrada no sistema penitenciário federal inicialmente, só que agora de maneira ainda mais singela. Veja-se:
+    ‘10. Desta forma, com o retorno do apenado ROBSON MACHADO DE LIMA, que é considerado de altíssima periculosidade devido as suas articulações criminosas, notadamente homicídios, o que acaba justificando sua alcunha de “RÓ PSICOPATA”, é possível que, em conjunto ou isoladamente, volte a exercer suas atividades criminosas em comprometimento da pás social local.’ (Evento nº 47, doc1, p.3 - Incidente de Transferência nº 5017562-80.2013.404.7000).
+    Após ouvidos o Ministério Público Federal e a Defesa constituída apenas no Estado do Paraná – perante a Justiça Federal (e não a do Estado da Paraíba – origem), o Juízo da Seção de Execução Penal de Catanduvas/PR deferiu o pedido de prorrogação formulado pelo juízo de origem.
+    Inconformado com o deferimento do pedido de prorrogação o Requerente interpôs Agravo em Execução, alegando ofensa ao artigo 5º, § 2º e artigo 10 §§ 1º e 2º, ambos da Lei nº 11.671/08.
+    No entanto, a 8ª Turma do Tribunal Regional Federal da 4ª Região negou provimento ao Agravo em Execução nos seguintes termos da ementa:
+    ‘PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. PRESÍDIO FEDERAL. TRANSFERÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. LEI 11.671/2008. REQUISITOS DA REMOÇÃO. ALTA PERICULOSIDADE DO APENADO. AGRAVO IMPROVIDO.
+    1. Renovada oportunidade para manifestação, resta afastado alegado cerceamento de defesa, não havendo nulidade a ser reconhecida.
+    2. Atendidas as exigências previstas na Lei 11.671/2008, e uma vez demonstrada a alta periculosidade do apenado, tem-se como justificada a permanência do preso na Penitenciária Federal de Catanduvas/PR.
+    3. Agravo improvido.’
+    Em face do v. acórdão foi interposto tempestivamente Recurso Especial, o qual foi negado seguimento pelo Ilustre Relator.
+    Irresignada, na data de 13/06/2014, a defesa do Paciente interpôs Agravo em Recurso Especial n°557.690, o qual tramita perante a Sexta Turma do Superior Tribunal de Justiça, cuja relatoria é do Ilustre Ministro Sebastião Reis Júnior.
+    No entanto, até a presente data (09 meses após a interposição do Agravo em Recurso Especial nº 557.690), não houve qualquer inclusão em pauta de julgamento [do] Agravo (...)” (fls. 1 a 4 da inicial – grifos do autor).
+    Essa é a razão pela qual se insurge o impetrante neste writ.
+    O deferimento de liminar em habeas corpus, como se sabe, constitui medida excepcional por sua própria natureza, justificada apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou se a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que não ocorre na hipótese presente.
+    Com efeito, eventual demora no julgamento do AREsp nº 557.690/PR, por si só, não pode ser interpretada como negativa de prestação jurisdicional, sendo necessário que se aguarde um pedido atualizado de informações.
+    No que concerne a apontada ilegalidade da decisão que manteve o paciente na Penitenciária Federal de Catanduvas/PR em desacordo com os ditames da Lei nº 11.671/08, não há como esta Suprema Corte adiantar-se ao pronunciamento definitivo do Superior Tribunal de Justiça para analisar a questão, sob pena de grave violação às regras de competência constitucionalmente previstas, pois uma leitura mais aprofundada resultaria em exame per saltum da matéria.
+    Na linha desse entendimento: HC nº 101.290/RS, de minha relatoria, DJe de 6/11/09; HC nº 101.141/SP, Relator o Ministro Joaquim Barbosa, DJe 27/10/09; HC nº 101.112/GO, Relator o Ministro Ayres Britto, DJe de 23/10/09; e HC nº 101.062/SP, Relatora a Ministra Cármen Lúcia, DJe de 22/10/09, entre outros.
+    Ainda que assim não fosse, as razões invocadas pelo impetrante para o deferimento da medida liminar são de caráter satisfativo, pois se confundem com o mérito da própria impetração, o que recomenda seu indeferimento conforme reiterada jurisprudência desta Corte. Nesse sentido: HC nº 94.888-MC/SP, Relator o Ministro Menezes Direito, DJ de 12/6/08; HC nº 93.164-MC/SP, Relator o Ministro Cezar Peluso, DJ de 22/2/08; e HC nº 92.737-MC/SP, Relatora a Ministra Cármen Lúcia, DJ de 29/10/07, entre outros.
+    Ante o exposto, indefiro o pedido de liminar.
+    Solicitem-se informações à autoridade coatora e ao Juízo Federal da Seção de Execução Penal de Catanduvas/PR a respeito da situação do prisional do paciente (Processo nº 5017562-80.2013.404.7000).
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 16 de março de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
