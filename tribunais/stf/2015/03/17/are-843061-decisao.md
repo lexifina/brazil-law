@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 3ª Turma do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEFICÁCIA DE DECLARAÇÃO E ENRIQUECIMENTO SEM CAUSA. FINANCIAMENTO PARA AQUISIÇÃO DE AÇÕES DA COPESUL. EXIBIÇÃO DE DOCUMENTOS. RECUSA. PENA DE CONFISSÃO. REPETIÇÃO EM DOBRO. CABIMENTO. MÁ-FÉ CONFIGURADA.
+    I.- A princípio, presumem-se verdadeiros os fatos que se pretendiam provar com os documentos que a parte se recusou a exibir, não obstante a determinação judicial expressa, mas a presunção de veracidade poderá ser infirmada pelo julgador quando da formação do seu livre convencimento em face das provas constantes dos autos.
+    II.- Estando configurada a má-fé do recorrido na execução da obrigação contratual, impõe-se a repetição em dobro do valor indevidamente cobrado.
+    III.- Recurso Especial parcialmente provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV; e 105, III, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “no que concerne à alegação de violação ao art. 5º, LIV, da Constituição Federal, o Plenário Virtual do Supremo Tribunal Federal, no julgamento do ARE-RG 748.371/MT, reconheceu a inexistência de repercussão geral”; e (ii) “o Supremo Tribunal Federal, no julgamento do AI 658.872 AgR/RS, 1ª Turma, Rel. Min. Dias Toffoli, reconheceu que ‘não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado daquele Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto na referida norma, o que não ocorreu no caso concreto’”(fls. 2.787-89).
+    O recurso extraordinário não deve ser provido. De início, para dissentir do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente e do material fático-probatório dos autos, procedimento inviável em sede de recurso extraordinário. A hipótese atrai a incidência da Súmula 279/STF. Veja-se, nesse sentido, a seguinte passagem do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que “não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado daquele Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto na referida norma, o que não ocorreu no caso concreto” (AI 658.872-AgR, Rel. Min. Dias Toffoli).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 17 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
