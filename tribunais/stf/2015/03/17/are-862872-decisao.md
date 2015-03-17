@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR. PROGRESSÃO FUNCIONAL. CARREIRA DA MAGISTÉRIO DE ENSINO BÁSICO. TÉCNICO E TECNÓLOGO. INSTITUTO FEDERAL DE ENSINO. LEI Nº 11.784/08. CONDIÇÃO DE EFICÁCIA. NECESSIDADE DE REGULAMENTAÇÃO. LEI Nº 11.344/06.
+    1. O § 5º do artigo 120 da Lei nº 11.784/08 contém nítida cláusula de suspensão da eficácia, condicionando a incidência dos dispositivos pertinentes à progressão funcional e desenvolvimento na Carreira do Magistério do Ensino Básico, Técnico e Tecnólogo das IFES à edição de regulamento.
+    2. Enquanto não preenchida tal condição, aplica-se, por expressa remissão legal, a legislação anterior, artigos 13 e 14 da Lei nº 11.344/06, admitindo-se a progressão funcional por titulação, independentemente da observância de interstício.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, e 37, caput, da Constituição, bem como à Súmula 359/STF. Sustenta que “há lei nova específica e aplicável à situação do autor (Lei 11.784/2008), o que impede se aplique legislação já derrogada e fora da zona de incidência correspondente ao status do autor (Lei 11.344/2006), em nítida ofensa ao Princípio da Legalidade a que está jungida a administração pública federal”.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que a controvérsia em análise é de âmbito infraconstitucional.
+    A decisão deve ser mantida, tendo em vista que, para dissentir da conclusão do Tribunal de origem, seria necessária a interpretação de normas infraconstitucionais pertinentes (Leis nºs 11.784/2008 e 11.344/2006), o que é vedado neste momento processual. Nesse sentido, veja-se a ementa do ARE 795.720, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ADMINISTRATIVO. PROGRESSÃO FUNCIONAL POR TITULAÇÃO INDEPENDENTE DE INTERSTÍCIO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INCS. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    No mesmo sentido e em casos análogos ao dos autos, confiram-se: ARE 743.536, Rel. Min. Ricardo Lewandowski; ARE 782.574, Rel. Min. Luiz Fux; e ARE 791.864, Rel. Min. Gilmar Mendes.
+    Ademais, em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 544, § 4º, II, a , do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas nego-lhe provimento.
+    Publique-se.
+          Brasília, 17 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
