@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 8006, de 3 de fevereiro de 2015
+Assunto: Obrigações Acessórias SISCOSERV. OBRIGAÇÕES DO AGENTE DE CARGA. Em transações envolvendo transporte internacional de carga, as empresas denominadas agentes de carga deverão observar, no tocante às suas obrigações de registro no Siscoserv, as explicações constantes da Solução de Consulta Cosit nº 257, de 26 de setembro de 2014. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 257, DE 26 DE SETEMBRO DE 2014 Dispositivos Legais: Arts. 9º e 22 da IN RFB 1396/13; SC Cosit nº 257/14.
+[arquivo anexo: SC SRRF08-Disit nº 8006-2015.pdf]
