@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 1ª Turma do Colégio Recursal da 28ª Circunscrição Judiciária do Estado de São Paulo, assim ementado:
+    “Recurso Inominado. Reajustes aplicados aos servidores municipais em dissonância com a lei local. Recurso não provido”.
+    No recurso extraordinário, sustenta-se violação do artigo 3º, inciso I, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, para superar o entendimento firmado no acórdão recorrido seria necessário o reexame da legislação infraconstitucional pertinente e do conjunto fático-probatório dos autos, o que se mostra incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido, anote-se:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REAJUSTE. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 660.079/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 6/2/12).
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA – CEETEPS. GRATIFICAÇÃO DE REPRESENTAÇÃO SUPERIOR PAGA A SERVIDORES DA UNESP. SÚMULA STF 283. MATÉRIA INFRACONSTITUCIONAL. 1. As razões do presente recurso não atacam todos os fundamentos da decisão agravada. Incidência da Súmula STF 283. 2. O Tribunal de origem decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário, porquanto a ofensa à Constituição Federal, se existente, se daria de forma indireta ou reflexa. 3. Agravo regimental a que se nega provimento” (AI nº 769.180/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 6/5/11).
+    “Agravo regimental no recurso extraordinário. Reajuste salarial. Reexame de legislação local. Ofensa reflexa. Precedentes. 1. O recurso extraordinário não se presta ao reexame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido” (RE nº 731.299/SP-AgR, Primeira Turma, de minha relatoria, DJe de 1/8/13)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de março de 2015.
+Ministro Dias Toffoli
+Relator
