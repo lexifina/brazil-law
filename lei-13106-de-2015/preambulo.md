@@ -1,0 +1,2 @@
+Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para tornar crime vender, fornecer, servir, ministrar ou entregar bebida alcoólica a criança ou a adolescente; e revoga o inciso I do art. 63 do Decreto-Lei nº 3.688, de 3 de outubro de 1941 - Lei das Contravenções Penais.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
