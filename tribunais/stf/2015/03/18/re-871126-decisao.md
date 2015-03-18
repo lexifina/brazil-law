@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário remetido ao Tribunal de Justiça do Estado de São Paulo, por meio da decisão do Min. Cezar Peluso (eDOC 5, p. 35), nos termos do art. 543-B do CPC, uma vez que a temática suscitada no recurso extraordinário estaria representada no tema 41 da sistemática da repercussão geral, cujo paradigma é o RE-RG 563.965, Rel. Min. Cármen Lúcia, DJe 20.3.2009.
+    No entanto, os autos foram reenviados ao Supremo Tribunal Federal pelo tribunal a quo, ao fundamento de que a controvérsia não corresponderia àquela de que trata o paradigma indicado, dads a ausência de similitude fática.
+    Decido.
+    Após detida análise, torno sem efeito a decisão anterior (eDOC 5, p. 35) e passo à análise do apelo extremo.
+    Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição Federal, no qual se alega violação aos arts. 1º; 18, caput; 30, I; e 37, caput, do texto constitucional, pelo acórdão do Tribunal de Justiça do Estado de São Paulo.
+    O acórdão recorrido assim assentou:
+    “APELAÇÃO CÍVEL. DIFERENÇAS SALARIAIS E COBRANÇA. Reexame necessário. Inteligência do artigo 475, §2º, do Código de Processo Civil. Procuradores do Município de São Paulo. Verba honorária. Mês de dezembro de 2001. Expurgação de valores devidos. Vigência da Lei 9.402/81, que determinava que os honorários a serem distribuídos deveriam corresponder à importância arrecadada no mês anterior, mais três vezes o mesmo valor (‘triplique’). Violação a tal norma sob alegação de razoabilidade, discricionariedade e interesse público. Promulgação, no ano seguinte, da Lei 13.400/02, que alterou retroativamente a remuneração devida no mês de dezembro de 2001, extirpando a triplicação antes prevista. Ofensa a direito adquirido. Recálculo da verba pretérita de acordo com os parâmetros da lei precedente. Necessidade. Estabelecimento, com o advento da Lei 13.400/02, de nova fórmula de cálculo de honorários, baseada nas verbas arrecadas a tal título nos cinco anos anteriores, sem incidência do ‘triplique’ no mês de dezembro de 2011. Estipulação legítima, eis que se refere a pagamento de verbas futuras. Reformulação da nova tabela de honorários. Descabimento. Confirmação da r. sentença atacada. Improvimento aos recurso oficial e voluntário” (eDOC 2, p. 111).
+    Nas razões recursais, sustenta-se, em síntese, que “não houve qualquer ilegalidade na conduta da Administração, que praticou o ato questionado amparado pelos princípios constitucionais aplicáveis à situação em pauta” (eDOC 2, p. 156). Ademais, alega-se que não há direito adquirido à verba pleiteada e que não houve redução de vencimentos.
+    É o relatório.
+    Inicialmente, verifico que o acórdão recorrido decidiu a controvérsia com fundamento na legislação local, para concluir que a alteração retroativa promovida pela Lei n. 13.400/2002, do Município de São Paulo, atingiu situação já consolidada.
+    Assim, eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário, conforme Verbete 280 da Súmula de Jurisprudência do STF.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCURADORES DO MUNICÍPIO DE SÃO PAULO. VERBA HONORÁRIA. LEIS MUNICIPAIS 9.402/1981 E 13.400/2002. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/ STF. REEXAME DE DIREITO LOCAL. ÓBICE DA SÚMULA 280/STF. Agravo regimental a que se nega provimento.”
+(AI 747919 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 24.2.2012)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. VERBA HONORÁRIA. SISTEMA “TRIPLIQUE”. CONTROVÉRSIA CIRCUNSCRITA À LEGISLAÇÃO MUNICIPAL PERTINENTE. INCIDÊNCIA DA SÚMULA 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Eventual ofensa ao Magno Texto, no caso, apenas ocorreria de forma reflexa ou indireta. 2. De mais a mais, incide no caso a Súmula 282/STF. 3. Agravo regimental desprovido.”
+(AI 786158 AgR, Rel. Min. AYRES BRITTO, Segunda Turma, Dje15.12.2010)
+    Demais disso, é entendimento sumulado desta Corte que “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (Enunciado da Súmula 636 do STF).
+    Ante o exposto, conheço do recurso para negar-lhe provimento (art. 557, caput, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 18 de março de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
