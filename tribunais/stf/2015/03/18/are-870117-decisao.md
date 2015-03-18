@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Colégio Recursal de Santana do Tribunal de Justiça de São Paulo, assim ementado (fls.114):
+    “AGRAVO DE INSTRUMENTO. Gratuidade Judiciária. Indeferimento lastreado em fundamento genérico de inexistência de hipossuficiência do agravante. A declaração de rendimentos não merece fé porquanto não há harmonia entre as receitas declaradas e as principais despesas mencionadas tanto na declaração quanto nos documentos juntados no processo em primeiro grau. Situação de hipossuficiência não demonstrada com clareza. Recurso improvido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, III; e 5º, XXXIV, a, LXXIV, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os fundamentos de que: (i) “não indicou a recorrente qual teria sido a parte específica do decisum que afrontou (e em que medida afrontou) cada norma”; (ii) “as alegadas violações, teriam ocorrido, sempre, de maneira indireta, oblíqua ou reflexa (transversa)”; (iii) “é inadmissível por falta de prequestionamento”; e (iv) “deixou o Recorrente de dar cumprimento ao último requisito de admissibilidade para o recurso extraordinário, consistente em demonstrar de forma clara e insofismável a existência de repercussão geral” (fls. 151-160).
+    O recurso não deve ser admitido. Isso porque o Plenário Virtual do Supremo Tribunal Federal, no julgamento do AI 759.421-RG/RJ, sob a relatoria do Ministro Cezar Peluso, assentou a ausência de repercussão geral da controvérsia ora em debate. Confira-se a ementa do referido julgado:
+    “RECURSO. Extraordinário. Incognoscibilidade. Gratuidade de justiça. Declaração de hipossuficiência. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à declaração de hipossuficiência, para obtenção de gratuidade de justiça, versa sobre matéria infraconstitucional.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
