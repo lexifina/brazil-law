@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, manejam recurso extraordinário, com base no art. 102, III, da Lei Maior, Aldeizio Lopes Geder e outros (a/s). Aparelhado o recurso na afronta ao preâmbulo e aos arts. 5º, caput e II, 40, § 8º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local que fundamentou o acórdão recorrido, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 647.735-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.6.2012; AI 777.475-AgR/AC, Rel. Min. Dias Toffoli, 1ª Turma, DJe 19.12.2012; e ARE 599.044-AgR/PE, Rel. Min. Ayres Britto, 2ª Turma, DJe 22.9.2011; cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. “GRATIFICAÇÃO DE PRODUTIVIDADE FISCAL” E “PARCELA VARIÁVEL DE INCENTIVO”. NATUREZA JURÍDICA. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 1. A discussão acerca da natureza jurídica de parcelas remuneratórias devidas a servidores públicos é de índole eminentemente infraconstitucional. Pelo que é de incidir a Súmula 280/STF. Precedentes. 2. Agravo regimental desprovido.”
+    De outra parte, as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, concluíram que a gratificação em questão possui caráter propter laborem, razão porque não é extensível aos aposentados. Ademais, a aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação do art. 40, § 8º, da Constituição da República. Anoto precedentes:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO INATIVO. EXTENSÃO DE GRATIFICAÇÃO. NATUREZA JURÍDICA DA VANTAGEM. VIOLAÇÃO AOS ARTS. 5º, XXXVI, E 40, § 8º, DA CF/88. OFENSA CONSTITUCIONAL INDIRETA E EXAME DE FATOS. SÚMULAS 279 E 280 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 781182 AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 07.10.2014)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO POR TRABALHO EDUCACIONAL. SÚMULA 280/STF. Em casos análogos, esta Corte assentou que a conclusão adotada pelo Tribunal de origem quanto à natureza jurídica das vantagens concedidas aos servidores, se genéricas ou pro labore faciendo exige o exame da legislação local pertinente. Incidência da Súmula 280/STF. Agravo regimental a que se nega provimento.” (RE 492469 AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 02.02.2015)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de março de 2015.
+Ministra Rosa Weber
+Relatora
