@@ -1,0 +1,23 @@
+Decisão: Trata-se de mandado de segurança, com pedido liminar, impetrado por Claudete Mendes Teixeira contra o Centro de Seleção e de Promoção de Eventos da Universidade de Brasília – CESPE/UnB e o Procurador-Geral da República, que negaram provimento ao recurso administrativo e mantiveram o gabarito definitivo do concurso público para ingresso no cargo de técnico administrativo do Ministério Público da União – MPU, considerando correta a questão 114, assim elaborada:
+    “Julgue os itens seguintes, relativos à avaliação de desempenho:
+    (…)
+    114. A técnica de incidentes críticos constitui método de avaliação pautado nos fatos excepcionalmente negativos e excepcionalmente positivos relacionados ao desempenho avaliado”.
+    Nas razões do mandado de segurança, alega-se, em síntese, que a denominada “técnica de incidentes críticos” faz parte das fases para gestão de pessoas, e que são os “métodos de incidentes críticos” os relativos à avaliação de desempenho. Sustenta-se que a impetrante foi levada a erro pela autoridade impetrada, o que viola o princípio da legalidade.
+    O CESPE/UnB apresentou informações (eDOC 19), nas quais manifestou-se pelo indeferimento do pedido liminar e pela denegação da ordem.
+    A União requereu seu ingresso no feito (eDOC 22).
+    O Ministério Público emitiu parecer pela improcedência do pedido (eDOC 23).
+    Decido.
+    Inicialmente, ressalto que o CESPE/UnB não pode figurar como autoridade coatora neste mandamus, pois o Supremo Tribunal Federal fixou o entendimento no sentido de que o rol de autoridades previsto no art. 102, I, “d”, da Constituição é taxativo. Nesse sentido, confiram-se os seguintes precedentes: MS 30492-AgR, Rel. Min. Celso de Mello, Pleno, DJe 25.3.2014; e MS 31.153-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 19.6.2012.
+    De outra banda, o concurso público foi efetivado mediante edital do Procurador-Geral da República, restando, portanto, apenas a sua responsabilidade sobre o ato coator.
+    O Supremo Tribunal Federal assentou jurisprudência no sentido de que não cabe ao Poder Judiciário rever os critérios de correção das provas e as notas a elas atribuídas, a não ser que a questão impugnada trate de matéria não prevista no edital, o que não socorre, no caso, à impetrante.
+    Confira-se, a propósito, o seguinte precedente:
+    “CONCURSO PÚBLICO. PROCURADOR DA REPÚBLICA. PROVA OBJETIVA: MODIFICAÇÃO DO GABARITO PRELIMINAR. REPROVAÇÃO DE CANDIDATA DECORRENTE DA MODIFICAÇÃO DO GABARITO. ATRIBUIÇÕES DA BANCA EXAMINADORA. MÉRITO DAS QUESTÕES: IMPOSSIBILIDADE DE REVISÃO JUDICIAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. RECURSO AO QUAL SE NEGA PROVIMENTO. 1. A modificação de gabarito preliminar, anulando questões ou alterando a alternativa correta, em decorrência do julgamento de recursos apresentados por candidatos não importa em nulidade do concurso público se houver previsão no edital dessa modificação. 2. A ausência de previsão no edital do certame de interposição de novos recursos por candidatos prejudicados pela modificação do gabarito preliminar não contraria os princípios constitucionais do contraditório e da ampla defesa. 3. Não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora do concurso público para reexaminar os critérios de correção das provas e o conteúdo das questões formuladas (RE 268.244, Relator o Ministro Moreira Alves, Primeira Turma, DJ 30.6.2000; MS 21.176, Relator o Ministro Aldir Passarinho, Plenário, DJ 20.3.1992; RE 434.708, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 9.9.2005).” (MS 27.260, Redatora. Min. Cármen Lúcia, Pleno, DJe 26.3.2010).
+    Assim, a discussão, em sede de mando de segurança, acerca do mérito das questões objetivas propostas no concurso público ultrapassa os limites da atuação do Poder Judiciário na análise da legalidade do concurso, uma vez que compete à banca examinadora a formulação das questões e a avaliação das repostas dadas pelos candidatos.
+    Ademais, a impetrante não logrou demonstrar a hipótese de que a anulação da questão impugnada para todos os candidatos – em respeito ao princípio da isonomia, da impessoalidade e da eficiência – a levaria a alcançar classificação, nos termos do edital, habilitando-a a prestar a fase seguinte do concurso.
+    Não se reconhece, assim, a presença do direito líquido e certo a amparar a pretensão da impetrante.
+    Ante o exposto, com amparo nos arts. 38 da Lei 8.038/90 e 21, § 1º, do RISTF, nego seguimento ao presente mandado de segurança, prejudicados o pedido liminar e o pedido de ingresso no feito formulado pela União.
+    Publique-se.
+    Brasília, 18 de março de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
