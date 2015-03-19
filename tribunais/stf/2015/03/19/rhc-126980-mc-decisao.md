@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça nos autos do HC 283.268/MS, Rel. Min. Maria Thereza de Assis Moura. Consta dos autos, em síntese, que (a) o paciente foi condenado à pena de 2 anos de reclusão, em regime aberto, pela prática do crime de receptação (art. 180, caput, do CP); (b) buscando a incidência do princípio da insignificância, a defesa apelou para o Tribunal de Justiça do Estado de Mato Grosso de Sul, que negou provimento ao recurso; (c) contra essa decisão, impetrou habeas corpus no Superior Tribunal de Justiça, que denegou a ordem, em acórdão assim ementado:
+    (…) 3. Não é insignificante a conduta de receptar um celular como pagamento de droga, notadamente se o valor do bem, à época dos fatos, representava quase 20% do salário mínimo então vigente. 4. Em tais circunstâncias, não há como reconhecer o caráter bagatelar do comportamento imputado, havendo afetação do bem jurídico. 5. Ausência de flagrante ilegalidade, apta a relevar a impropriedade da via eleita. 6. Impetração não conhecida. ”.
+    Neste habeas corpus, o impetrante sustenta, em suma, que: (a) o fato de a coisa receptada ter sido trocada por drogas é irrelevante para a análise da incidência do princípio da insignificância; e (b) o valor do objeto receptado – cem reais – é ínfimo, na medida em que representa 18,34% do salário mínimo vigente à época. Requer, liminarmente, a suspensão da execução da pena. No mérito, postula o provimento do recurso, para que se reconheça a irrelevância penal da conduta, “absolvendo-o da imputação”.
+    2. Consideradas as especiais circunstâncias da causa, o exame da pretensão será feita no momento próprio, em caráter definitivo.
+    3. Com essas considerações, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 19 de março de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
