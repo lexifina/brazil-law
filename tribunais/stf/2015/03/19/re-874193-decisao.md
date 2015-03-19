@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Distrito Federal. Aparelhado o recurso na afronta aos arts. 2º e 37, caput, I e II, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Reproduzo trecho do acórdão:
+    “(…) o exame psicotécnico deve ter como principal característica a objetividade de seus critérios, demonstrando aos candidatos quais os métodos a serem utilizados no teste, sob pena de violar os princípios constitucionais.”
+    Ausente impugnação específica, no recurso extraordinário, às razões de decidir adotadas pela Corte de origem, referente à falta de objetividade do critério de avaliação do exame psicotécnico. Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula nº 283/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido: RE 687.161/RS, Rel. Min. Marco Aurélio, DJE de 23.10.2012; AI 417.294-AgR/SP, Rel. Min. Joaquim Barbosa, Segunda Turma, DJE de 25.10.2012; RE 656.256-AgR/DF, Rel. Min. Cármen Lúcia, Primeira Turma, DJE de 05.3.2012; e RE 603.862-AgR/GO, Rel. Min. Luiz Fux, Primeira Turma, DJE de 11.12.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CÁLCULO DA EXTENSÃO DA PROPRIEDADE RURAL PARA FINS DE DESAPROPRIAÇÃO. EXCLUSÃO DA PARCELA DE ÁREA SEM VALOR ECONÔMICO. PRECEDENTE DO PLENÁRIO DO STF NO MS Nº 25.066. INCONFORMISMO. INVIABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INVIABILIDADE. DESCOMPASSO ENTRE AS RAZÕES DO AGRAVO E A DECISÃO ORA RECORRIDA. DESPROVIMENTO. 1. As razões deduzidas no regimental não são capazes de desconstituir os fundamentos da decisão impugnada. Em verdade, o agravo não ataca o fundamento central da decisão recorrida, o precedente do Plenário do STF no MS nº 25.066, limitando-se a discorrer sobre a jurisprudência já superada pela Corte, razão pela qual incide na espécie a Súmula nº 283/STF, verbis: ‘É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles’. (...) 3. Ante o quadro, desprovejo o agravo regimental.”
+    Ademais, pleito do recorrente para a realização de novo exame psicotécnico não alcança estatura constitucional. Eventual ofensa à Constituição se daria de forma meramente reflexa. Colho precedente:
+    “Ementa: PROCESSUAL CIVIL. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. CRITÉRIOS SUBJETIVOS DE AVALIAÇÃO. IMPOSSIBILIDADE DE DEFESA. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO SUFICIENTE, POR SI SÓ, PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. REPETIÇÃO DO TESTE. INUTILIDADE DA MEDIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 729.936-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJE de 20.8.2013.)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e de cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 19 de março de 2015.
+Ministra Rosa Weber
+Relatora
