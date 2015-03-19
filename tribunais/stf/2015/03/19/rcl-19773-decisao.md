@@ -1,0 +1,14 @@
+Reclamação. Não cabimento para preservar autoridade de resolução do Senado Federal que suspendeu norma declarada inconstitucional incidenter tantum pelo Supremo Tribunal Federal. Negado Seguimento.
+    Decisão: Trata-se de reclamação constitucional ajuizada contra decisão do Juízo Vara de Execuções Penais do Distrito Federal que negou a substituição da pena privativa de liberdade por restritiva de direitos.
+    A reclamante sustenta, em síntese, que a decisão reclamada não observou o acórdão do Supremo Tribunal Federal no habeas corpus n. 97.256/RS. Argumenta que o acórdão paradigma possui eficácia erga omnes em razão da resolução n. 5/2012 do Senado Federal. Pede, liminarmente, a suspensão do ato reclamado. No mérito, pugna pela cassação do ato
+    É o relatório, passo a decidir.
+    Preliminarmente, assento não estarem presentes os pressupostos para o cabimento da Reclamação. É que a Reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e garantir as autoridades de suas decisões, ex vi do artigo 102, I, l, além de salvaguardar o estrito cumprimento das súmulas vinculantes, nos termos do artigo 103-A, § 3º da Constituição, incluído pela EC n. 45/2004. Neste particular, cumpre registrar que a jurisprudência do Tribunal estabeleceu diversas condicionantes para a utilização da via reclamatória, de sorte a evitar o uso promíscuo do referido instrumento processual. Disso resulta (i) a impossibilidade de utilizar per saltum a Reclamação, suprimindo graus de jurisdição, (ii) a impossibilidade de se proceder a um elastério hermenêutico da competência desta Corte, por estarem definidas em rol numerus clausus, e (iii) a observância da estrita aderência da controvérsia contida no ato reclamado e o conteúdo dos acórdãos desta Suprema Corte apontados como paradigmas.
+    In casu, a reclamante sustenta desrespeito a decisão do Supremo Tribunal Federal que ensejou a edição de resolução, pelo Senado Federal (CF, art. 52, X), suspendendo dispositivo de lei utilizado pela autoridade reclamada para negar pedido de substituição de pena privativa de liberdade por restritiva de direitos.
+    O pedido de preservação de autoridade de resolução do Senado Federal não se amolda ao disposto no artigo 102, I, l, da Constituição Federal. Ainda que a resolução tenha sido editada com base em decisão do Supremo Tribunal Federal, o que suspendeu a norma foi a própria resolução, e não a decisão do Supremo Tribunal Federal.
+    Ex positis, nego seguimento à presente reclamação, com fundamento no artigo 38 da Lei n. 8.038/90. Julgo prejudicado o exame de medida cautelar.
+    Dê-se ciência ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 19 de março de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
