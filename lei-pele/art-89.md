@@ -1,1 +1,2 @@
 Art. 89. Em campeonatos ou torneios regulares com mais de uma divisão, as entidades de administração do desporto determinarão em seus regulamentos o princípio do acesso e do descenso, observado sempre o critério técnico.
+Parágrafo único. Não configura ofensa ao disposto no caput a imposição de sanções decorrentes de irregularidades na responsabilidade financeira esportiva e na gestão transparente e democrática previstas na Medida Provisória nº 671, de 19 de março de 2015.

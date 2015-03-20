@@ -16,7 +16,7 @@ g) participação de atletas nos colegiados de direção e na eleição para os 
 VIII - garantam a todos os associados e filiados acesso irrestrito aos documentos e informações relativos à prestação de contas, bem como àqueles relacionados à gestão da respectiva entidade de administração do desporto, os quais deverão ser publicados na íntegra no sítio eletrônico desta.
 § 1º As entidades de prática desportiva estão dispensadas das condições previstas:
 I - no inciso V do caput;
-II - na alínea "g" do inciso VII do caput; e
+II - na alínea "g" do inciso VII do caput, no que se refere à eleição para os cargos de direção da entidade; e
 III - no inciso VIII do caput, quanto aos contratos comerciais celebrados com cláusula de confidencialidade, ressalvadas, neste caso, a competência de fiscalização do conselho fiscal e a obrigação do correto registro contábil de receita e despesa deles decorrente.
 § 2º A verificação do cumprimento das exigências contidas nos incisos I a VIII do caput deste artigo será de responsabilidade do Ministério do Esporte.
 § 3º Para fins do disposto no inciso I do caput:
