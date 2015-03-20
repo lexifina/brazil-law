@@ -6,5 +6,5 @@ IV - suspensão por seis meses dos repasses de recursos públicos federais da ad
 § 1º Os dirigentes de que tratam os incisos I e II do caput deste artigo serão sempre:
 I - o presidente da entidade, ou aquele que lhe faça as vezes; e
 II - o dirigente que praticou a infração, ainda que por omissão.
-§ 2º A União, os Estados, o Distrito Federal e os Municípios poderão instituir, no âmbito de suas competências, multas em razão do descumprimento do disposto nesta Lei.
+§ 2º A União, os Estados, o Distrito Federal e os Municípios poderão instituir, no âmbito de suas competências, multas em razão do descumprimento do disposto nesta Lei, observado o valor mínimo de R$ 100,00 (cem reais) e o valor máximo de R$ 2.000.000,00 (dois milhões de reais).
 § 3º A instauração do processo apuratório acarretará adoção cautelar do afastamento compulsório dos dirigentes e demais pessoas que, de forma direta ou indiretamente, puderem interferir prejudicialmente na completa elucidação dos fatos, além da suspensão dos repasses de verbas públicas, até a decisão final.
