@@ -1,0 +1,30 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto pela Defensoria Pública da União, em favor de Silas Jonatha Fontes de Souza, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao Agravo Regimental no HC nº 262.662/SE.
+    Extrai-se dos autos que o então paciente foi denunciado pela prática do delito descrito no art. 163, incisos I e III, do Código Penal, visto que teria depredado patrimônio público ao supostamente danificar intencionalmente portas, cadeiras e outros bens públicos localizados no interior da Comunidade Socioeducativa São Francisco de Assis., motivado pelo atraso no lanche fornecido pelo referido abrigo.
+    Após regular trâmite da instrução, julgou-se procedente a denúncia para condenar o réu restou condenado à pena de 2 dois anos e 23 dias de detenção, além do pagamento de 215 dias-multa. O regime estipulado para o início do cumprimento da pena foi o fechado, haja vista que o réu já cumpria reprimenda de 20 anos de reclusão.
+    Irresignada, a defesa interpôs apelação perante o TJ/SE, a qual foi parcialmente provida apenas para alterar o regime de cumprimento de pena para o semiaberto, nos termos da ementa a seguir transcrita:
+    “APELAÇÃO CRIMINAL. CRIME DE DANO, ART. 163, I E III DO CÓDIGO PENAL. RECURSO DA DEFESA. PLEITO DE ABSOLVIÇÃO. INCABIMENTO. AUTORIA E MATERIALIDADE DELITIVA COMPROVADAS. ACERVO DE PROVAS SUFICIENTE A SUFRAGAR A CONDENAÇÃO. PLEITO PELA DIMINUIÇÃO DA PENA. INCABIMENTO. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS AOS RÉUS QUE JUSTIFICAM A FIXAÇÃO DA PENA ALÉM DO MÍNIMO LEGAL. FIXAÇÃO DA REPRIMENDA EM PATAMAR SUFICIENTE AO CUMPRIMENTO DE SUAS FINALIDADES REPRESSORA E PREVENTIVA. DOSIMENTRIA DA PENA IRRETORQUÍVEL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVA DE DIREITO. INAPLICABILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS EXIGIDOS PELO ART. 44, I, DO CÓDIGO PENAL”.
+    Daí a impetração de habeas corpus perante o STJ.
+    Na oportunidade, a defesa alegou ausência de justa causa para a propositura para a ação penal. Afirmou, também, nulidade no feito, em decorrência da indispensabilidade do exame de corpo de delito.
+    O Ministro Rogerio Schietti Cruz negou seguimento ao writ por não vislumbrar razões aptas a ensejarem a concessão da ordem.
+    Impugnou-se a decisão por meio de agravo regimental, o qual restou desprovido, nos moldes da ementa a seguir reproduzida:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. NULIDADE. CORPO DE DELITO. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. PREJUÍZO. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A nulidade do feito, em virtude da indispensabilidade do corpo de delito, com violação aos artigos 158 e 564, inciso III, ambos do Código de Processo Penal, não foi tratada pelo Tribunal a quo, por ocasião do julgamento do recurso de apelação, o que impede sua admissão no âmbito deste Superior Tribunal, sob pena de incidir em indevida supressão de instância.
+    2. Em matéria de nulidade, rege o consagrado princípio pas de nullité sans grief, segundo o qual não há nulidade sem que o ato tenha gerado prejuízo para a acusação ou para a defesa. Não se prestigia, portanto, a forma pela forma, mas o fim atingido pelo ato. Por essa razão, a desobediência às formalidades estabelecidas na legislação processual só pode acarretar o reconhecimento da invalidade do ato quando a sua finalidade estiver comprometida em virtude do vício verificado, trazendo prejuízo a qualquer das partes da relação processual, o que, definitivamente, não é o caso dos autos.
+    3. In casu, as instâncias ordinárias, após a análise do conjunto fático e probatório dos autos, concluíram, de forma devidamente fundamentada, pela existência de provas suficientes da autoria e materialidade delitivas a ensejar a condenação do paciente pelo crime de dano, não há que se falar em prejuízo à defesa.
+    4. Para proclamar a nulidade do feito, por ausência de realização de perícia, ou a absolvição do paciente por falta de provas, necessário é o reexame aprofundado do conteúdo probatório dos autos, a ensejar o rejulgamento da causa, providência incabível na via estreita e célere do habeas corpus.
+    5. Agravo regimental não provido”. (eDOC 1, p. 87)
+    Nesta Corte, o recorrente reitera os pedidos pretéritos e enfatiza a ausência de justa causa para a prosseguimento da ação penal, principalmente, por não restarem devidamente comprovadas a autoria e materialidade do delito.
+    Liminarmente, pleiteia-se a suspensão da execução da pena imposta até o julgamento final do recurso.
+    É o breve relatório.
+    Decido.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora.
+    Da análise dos autos, em sede de cognição sumária, não vislumbro constrangimento ilegal manifesto a justificar o deferimento da medida de urgência.
+    É certo, como já dito em diversas oportunidades neste feito, que não há nulidade sem que se demonstre o prejuízo. In casu, conforme bem apontado pelo impetrante, também é certo que tal prejuízo é a própria caracterização da materialidade delitiva em desatendimento às normas legais.
+    O artigo 158 do CPP exige a realização de laudo pericial, direto ou indireto, nos delitos que deixam vestígios. Todavia, levando em conta que nenhuma norma é absoluta, o artigo 167 do mesmo diploma legal permite que a ausência do referido exame seja suprida por prova testemunhal. E, em análise ligeira, própria à análise da liminar pleiteada, constato que desde a sentença de primeira instância a materialidade delitiva foi firmada nos depoimentos testemunhais e no restante do acervo probatório, não havendo cogitar, por ora, ausência de justa causa para a persecução criminal.
+    Diante desse quadro, ausente os requisitos legais, indefiro a liminar .
+    Abra-se vista à Procuradoria-Geral da República
+    Publique-se.
+    Brasília, 20 de março de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
