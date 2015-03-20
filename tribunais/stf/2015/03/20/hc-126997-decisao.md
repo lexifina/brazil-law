@@ -1,0 +1,44 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Leandro Lourenço de Camargo em favor de Maurício Ferreira de Aquino Júnior e Maurício Ferreira de Aquino, contra decisão monocrática da lavra do Ministro Rogério Schietti Cruz, que indeferiu a liminar no RHC 56.401/SP.
+    A magistrada de primeiro grau decretou a prisão preventiva dos pacientes, pela suposta prática do crime de homicídio, na forma tentada, tipificado no art. 121, § 2º, II c/c 14, II, do Código Penal. O mandado de prisão referente ao paciente Maurício Ferreira de Aquino Júnior foi cumprido, em 21.4.2014, ficando pendente em relação ao paciente Maurício Ferreira de Aquino.
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem.
+    Submetida a questão à apreciação do Superior Tribunal de Justiça, o Ministro Rogério Schietti Cruz, via decisão monocrática, indeferiu a liminar no RHC 56.401/SP.
+    No presente writ, a Defesa argumenta, em síntese, a inidoneidade dos fundamentos da prisão preventiva. Sustenta, ainda, o excesso de prazo para a formação da culpa. Requer, em medida liminar e no mérito, a revogação da prisão preventiva dos pacientes com a expedição do competente alvará de soltura ou, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    É o relatório.
+    Decido.
+    O ato apontado como coator foi exarado nos seguintes fundamentos:
+    “Da análise dos autos, ao menos em um juízo de cognição sumária, não vislumbro manifesto constrangimento ilegal a ensejar o deferimento da medida de urgência.
+    Com efeito, verifico que o juiz de primeiro grau assim fundamentou a necessidade da prisão preventiva dos réus, por ocasião da conversão da prisão temporária em preventiva:
+    [...]
+    Há prova da materialidade do delito, representada pelos depoimentos das testemunhas acostados na fase inquisitorial, mormente da vítima (fls. 07).
+    Existem indícios suficientes da autoria, pelos acusados, dos delitos previstos no artigo 121, § 2°, inciso II, do Código Penal (vitima José Antonio Chagas), pois eles, agindo com intuito homicida e por motivo fútil, teria efetuado disparos de arma de fogo contra a vítima José Antonio Chagas, não tendo o crime de homicídio se consumado porque a vítima se protegeu mantendo o portão fechado e procurando sair da mira dos agentes.
+    Estão presentes nos autos os requisitos da prisão preventiva. De falo, tal como anotado pelo Dr. Promotor, a prisão provisória justifica-se pela garantia da aplicação da lei penal, tendo em vista que os acusados evadiram-se do distrito da culpa. Nesse sentido:
+    [...]
+    Considerando que a vítima José Antonio Chagas afirmou que os acusados pretendiam atingi-lo, vindo, inclusive, a disparar em sua direção quando percebiam que era ele quem se movimentava no interior da casa (fls. 07), determino o ARQUIVAMENTO em relação à vítima Ana Maria de Sousa.
+    Destarte, pelas razões expostas, RECEBO A DENÚNCIA de fls. 01D/03D, oferecida contra MAURÍCIO FERREIRA DE AQUINO e MAURÍCIO FERREIRA DE AQUINO JÚNIOR, dando-o como incurso nos artigos 121, § 2º, inciso II, do Código Penal e CONVERTO A PRISÃO TEMPORÁRIA EM PRISÃO PREVENTIVA dos réus, atendendo à representação do Dr. Promotor de Justiça. [...] (fls. 112-113, destaquei).
+    O Tribunal de Justiça de origem, por sua vez, consignou:
+    [...]
+    Desse modo, necessária a manutenção da custódia dos pacientes para garantia da ordem pública. E consoante informações prestadas pela d. autoridade apontada como coatora, expedido mandado de prisão em desfavor dos investigados, os mesmos não foram localizados.
+    Por essa razão, foi indeferido o pedido de revogação de prisão temporária formulado por advogado constituído (fls. 288). (fl. 338, grifo nosso).
+    Da leitura dos trechos colacionados não constato, a um primeiro olhar, a absoluta falta de fundamentação do decreto prisional, aventada pela defesa, pois, na linha de precedentes desta Corte, "[A] fuga do distrito da culpa, comprovadamente demonstrada e que perdura, é fundamentação suficiente a embasar a manutenção da custódia preventiva, ordenada para assegurar a conveniência da instrução criminal e para garantir a aplicação da lei penal" (HC 302.957/MG, Rel. Ministro JORGE MUSSI, 5ª T., DJe de 15/12/2014).
+    Por fim, o Tribunal ora recorrido para embasar suas conclusões pela não ocorrência do excesso de prazo para o encerramento da instrução, afirmou que a instrução transcorria regularmente, nos seguintes termos:
+    Quanto à alegada ocorrência de excesso de prazo na formação da culpa, denota-se que o feito está em regular andamento, não existindo qualquer desídia por parte do Juízo a quo, que tem realizado todos os atos processuais dentro de um prazo razoável, não havendo se falar em constrangimento ilegal por morosidade na conclusão da instrução criminal. (fl. 341).
+    Tais circunstâncias afastam, ao menos por ora, o alegado constrangimento ilegal, tendo em vista que o excesso de prazo apontado restou devidamente justificado nas razões apresentadas pela Corte estadual.
+    De mais a mais, não se pode olvidar que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de maneira que eventual demora no término da instrução criminal deve ser aferida dentro dos critérios da razoabilidade, levando-se em conta as peculiaridades do caso concreto.
+    À vista do exposto, indefiro a liminar.”
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula 691/STF: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.”
+    A compreensão expressa em tal verbete sumular tem sido abrandada por julgados desta Suprema Corte apenas em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 104.855/CE, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011 e HC 96.539/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.5.2010.
+    Da leitura da decisão impugnada, não detecto a ocorrência de situação autorizadora do afastamento do mencionado verbete.
+    Aponta o Impetrante excesso de prazo na prisão cautelar do paciente, enquanto segregado desde 21.4.2014.
+    Instado a se manifestar, o Tribunal de Justiça do Estado de São Paulo, assim rechaçou a tese encampada pela Defesa, verbis:
+    “Quanto à alegada ocorrência de excesso de prazo na formação da culpa, denota-se que o feito está em regular andamento, não existindo qualquer desídia por parte do Juízo a quo, que tem realizado todos os atos processuais dentro de um prazo razoável, não havendo se falar em constrangimento ilegal por morosidade na conclusão da instrução criminal. (fl. 341).”
+    Infere-se da leitura dos excertos transcritos que a controvérsia acerca da razoável duração do processo foi apreciada, não de maneira isolada ou descontextualizada, mas sob a perspectiva das peculiaridades do caso concreto.
+    Nessa linha, a jurisprudência desta Suprema Corte já assentou que, “não configurado o alegado excesso de prazo, até porque a melhor compreensão do princípio constitucional aponta para processo sem dilações indevidas, em que a demora na tramitação do feito há de guardar proporcionalidade com a complexidade do delito nele veiculado e as diligências e os meios de prova indispensáveis a seu deslinde” (HC 118.034/DF, de minha relatoria, 1ª Turma, DJe 20.02.2014).
+    Ademais, a magistrada de primeiro grau fundamentou a necessidade da custódia cautelar dos pacientes na garantia da aplicação da lei penal. Confira-se:
+    “Estão presentes nos autos os requisitos da prisão preventiva. De fato, como anotado pelo Dr. Promotor, a prisão provisória justifica-se pela aplicação da lei penal, tem em vista que os acusados evadiram-se do distrito da culpa.”
+    Nessa linha, a jurisprudência deste Supremo Tribunal Federal é no sentido de que a fuga do acusado do distrito da culpa é fundamento hábil a justificar a constrição cautelar com o escopo de garantir a aplicação da lei penal (HC 111022/DF, Rel. Min. Dias Toffoli, 1ª Turma, DJe 18.6.2012).
+    Desse modo, desnecessário precipitar a resolução da questão a este Supremo Tribunal Federal por meio de habeas corpus. Prudente aguardar o pronunciamento definitivo do colegiado do Superior Tribunal de Justiça, sobretudo porque dar trânsito ao writ significaria duplicar a instrução, que já está sendo realizada, e apreciá-lo no mérito significaria suprimir instância.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de março de 2015.
+Ministra Rosa Weber
+Relatora
