@@ -1,0 +1,21 @@
+Decisão: Verifico que determinei a devolução dos autos para os fins do art. 543-B do CPC, por entender que a controvérsia estaria representada na sistemática da repercussão geral pelo Tema 313, no RE-RG 626.489, Rel. Min. Ayres Britto, DJe 2.5.2012 (fl. 271).
+    Encaminhados os autos ao Tribunal de origem, este devolveu o processo ao STF por considerar que a questão debatida não se amolda ao paradigma indicado (fl. 296).
+    Assiste razão ao Tribunal de origem. Desse modo, reconsidero a decisão de fl. 271, e passo a julgar o recurso.
+    Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “AGRAVO REGIMENTAL. PREVIDENCIÁRIO. CADUCIDADE DO DIREITO À REVISÃO DE BENEFÍCIOS PREVIDENCIÁRIOS . PRETENSÃO DA PARTE AGRAVANTE EM AFASTAR A ORIENTAÇÃO PRECONIZADA PELO STJ NO RESP 1309529 – PR e RESP 1.326.114/SC. INADMISSIBILIDADE, MÁXIME EM FACE DA CIRCUNSTÂNCIA DE QUE A SITUAÇÃO FÁTICA RETRATA HIPÓTESE NA QUAL O AJUIZAMENTO DA AÇÃO SUCEDEU QUANDO TRANSCORRIDO MAIS DE UM DECÊNIO DA NOVA REDAÇÃO DO ART. 103 DA LEI 8.213/91. IMPROVIMENTO”. (fl. 224)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação do artigo 5º, XXXVI, do texto constitucional.
+    Aponta-se ofensa ao direito adquirido, uma vez que o Tribunal de origem reconheceu a decadência do direito à revisão de benefício previdenciário.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que a questão constitucional ventilada no recurso está preclusa, uma vez que não foi arguida em momento oportuno.
+    Com efeito, o recurso extraordinário volta-se contra acórdão do Tribunal Regional Federal da 5ª Região que se limitou a manter a decisão de inadmissibilidade do recurso especial com fundamento na sistemática do art. 543-C (recursos repetitivos).
+    É firme o entendimento desta Corte no sentido de que o acórdão somente legitimará o uso da via recursal extraordinária se, nesse próprio acórdão, desenhar-se, originariamente, a questão de direito constitucional. Nesse sentido confiram-se os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Acórdão prolatado na origem. Ausência de interposição simultânea de recurso extraordinário e recurso especial. Manutenção do entendimento pelo Tribunal de origem após julgamento de recurso repetitivo pelo Superior Tribunal de Justiça. Recurso extraordinário. Inadmissibilidade. Preclusão. Precedentes. 1. No caso dos autos, julgada a apelação, o agravante interpôs tão somente recurso especial, o qual não foi admitido em virtude de o acórdão proferido no julgamento da apelação estar de acordo com julgado proferido pelo Superior Tribunal de Justiça em recurso representativo da controvérsia, restando incólume a conclusão adotada na apelação. 2. Contra essa decisão em que se negou seguimento ao recurso especial, confirmada após a interposição de agravo interno para o TRF 5ª, o agravante interpôs, então, recurso extraordinário. 3. Destarte, é inadmissível o recurso extraordinário, uma vez que a questão objeto do apelo extremo já teria surgido no julgamento da apelação e o agravante não interpôs recurso extraordinário simultaneamente ao especial, acarretando a preclusão da discussão sob o ângulo constitucional. 4. Agravo regimental não provido”. (ARE 798.493-AgR/PE, Rel. Min. Dias Toffoli, Primeira Turma, DJe 09.10.2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Matéria constitucional originada em acórdão do Tribunal Regional Federal em sede de apelação. 3. Recurso extraordinário interposto de acórdão que manteve a inadmissão do recurso especial com base na sistemática dos recursos especiais repetitivos. Art. 543-C, CPC. Preclusão da discussão constitucional. 4. Ausência de argumentos suficientes para infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento”. (ARE 795.405-AgR/RN, da minha Relatoria, Segunda Turma, DJe 18.9.2014)
+    Ante o exposto, reconsidero a decisão de fl. 271 e conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 20 de março de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
