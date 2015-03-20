@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 2º, 5º, II, XXXV e LV, e 37 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Nesse sentido: RE 813.170-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 13.3.2015 e RE 755.924-AgR, de minha relatoria, 1ª Turma, DJe 27.8.2014, com a seguinte ementa:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. REQUISITOS DE ADMISSIBILIDADE DE MANDADO DE SEGURANÇA. REPERCUSSÃO GERAL REJEITADA. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR. ANULAÇÃO DA PENA DE DEMISSÃO. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL APLICADA E DO QUADRO FÁTICO DELINEADO NA ORIGEM. REEXAME INCABÍVEL EM RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA SEPARAÇÃO DE PODERES. ACÓRDÃO RECORRIDO PUBLICADO EM 06.3.2013. O Plenário Virtual desta Corte já se manifestou pela inexistência de repercussão geral da matéria atinente aos requisitos de admissibilidade de mandado de segurança. O Tribunal a quo se limitou ao exame da matéria à luz de normas infraconstitucionais e do quadro fático delineado, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. O Supremo Tribunal Federal entende que o exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate. Agravo regimental conhecido e não provido.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de março de 2015.
+Ministra Rosa Weber
+Relatora
