@@ -1,0 +1,56 @@
+Referente à Petição STF 56.499/2014.
+    A presente reclamação constitucional foi ajuizada por José Severino da Silva e Peterson Pereira Monteiro contra ato do Juiz Federal da 4ª Vara da Subseção Judiciária de Juiz de Fora/MG, que supostamente teria contrariado o enunciado da Súmula Vinculante nº 14.
+    Em 14.11.2014, indeferi a liminar, em decisão assim exarada:
+    “(...).
+    Por outro lado, colho do ato reclamado:
+    “6) Peterson Pereira Monteiro e José Severino da Silva
+    (…).
+    Requerem seja franqueado o acesso da integralidade das gravações telefônicas arrecadadas, assim como, informações sobre os titulares dos terminais monitorados, bilhetagem e captação realizada na cautelar.
+    (…).
+    Em relação a reabertura do prazo de defesa prévia após a juntada dos laudos periciais, tem-se que, sob a lógica do princípio do contraditório, com a juntada de documentos novos as partes terão vista dos mesmos para ciência e pronunciamento.
+    Esclarecemos que não há necessidade de deferimento do pedido da defesa de Peterson Pereira Monteiro, José Severino da Silva e Lívia Maria Bergamini no sentido de franquear acesso aos autos eis que já são advogados constituídos e estão sob a proteção da Súmula Vinculante nº 14 do egrégio Supremo Tribunal Federal.
+    (…).
+    Em relação as demais diligências, nada a prover posto que os registros requeridos constam nos autos vinculados a este processo, notadamente na medida relativa a quebra de sigilo telefônico, sendo de livre consulta e verificação aos procuradores constituídos e as partes.”
+    De acordo com a tese defensiva, “tolheu o reclamado o acesso a prova oriunda da interceptação telefônica”.
+    O ato reclamado retrata, neste juízo de cognição sumária, situação fática diversa, valendo destacar a decisão do magistrado de primeiro grau, que, de acordo com o verbete da Súmula Vinculante nº 14, franqueou o acesso aos advogados constituídos à integralidade do acervo probatório da medida cautelar, em especial às interceptações telefônicas, a afastar, dessa maneira, qualquer prejuízo José Severino da Silva e Peterson Pereira Monteiro.
+    Nessa linha, restou consignado pela autoridade reclamada que os “registros requeridos constam nos autos vinculados a este processo, notadamente na medida relativa a quebra de sigilo telefônico, sendo de livre consulta e verificação aos procuradores constituídos e as partes”.
+    Quanto à audiência realizada no dia 28.10.2014, o magistrado de primeiro grau, ao apreciar “pedido de apresentação das informações sobre os titulares dos terminais monitorados, bilhetagem e captação e de ofício à Superintendência da Polícia Federal para que informe quais aparelhos utilizados para rastreamento dos veículos e seus registros, indicando o veículo monitorado e o período”, observando a necessidade, a adequação e a proporcionalidade da medida para formação de sua livre convicção, deferiu o prazo de cinco dias para que “o interessado indique fundamentadamente o objetivo da prova, apresentando justificativa plausível para sua realização”.
+    Não verifico, portanto, a plausibilidade jurídica do pedido de medida liminar, para concessão da tutela emergencial pleiteada.
+    Ante o exposto, indefiro o pedido de liminar.”
+    Irresignados, os Reclamantes, por meio da referida Petição 56.499/2014, requerem a reconsideração da decisão indeferitória da liminar. Para tanto, reiteram a violação do enunciado da Súmula Vinculante nº 14, porquanto não franqueado à Defesa o conteúdo das interceptações telefônicas e telemáticas efetivadas nos autos da respectiva medida cautelar.
+    É o relatório.
+    Decido.
+    Oportuno destacar que sobrevieram informações do Juízo Federal da 4ª Vara da Subseção Judiciária de Juiz de Fora/MG, nos seguintes termos:
+    “III – DO ACESSO DOS INVESTIGADOS AO INTEIRO TEOR DOS ELEMENTOS DE INFORMAÇÃO PRODUZIDOS NO INQUÉRITO N. 11.290-36.2013.401.3801 E SEUS APENSOS, BEM COMO À AÇÃO PENAL 13.522.84.2014.401.3801
+    Informamos que a decisão deste Colegiado, na qual foi decretada a prisão preventiva dos Réus, ora Reclamantes José Severino da Silva e Peterson Pereira Monteiro, também determinou à autoridade executante do respectivo mandado que entregasse aos detidos, além de cópia impressa daquela decisão, cópia integral e digitalizada dos autos do inquérito n. 11.290-36.2013.401.3801 e de todos seus apensos.
+    Também, na decisão prolatada nos autos da Medida Cautelar nº 11.288-66.2013.401.3801 foi franqueado o acesso aos advogados com procuração e o fornecimento de mídia com cópia integral dos autos, consoante trecho abaixo transcrito:
+    (…).
+    Consoante se extrai, em momento algum houve restrição ao acesso dos i. causídicos.
+    O que se extrai dos autos é que o i. defensor realizou diligência para obter cópia digitalizada dos autos em momento muito posterior à apresentação da defesa preliminar ou prévia, consoante se extrai do recibo lançado às fls. 956v.
+    Informamos, por oportuno, que ficou consignado em audiência (ata do dia 28/10/2014) a questão do acesso aos elementos informativos, inclusive os laudos periciais, consoante trecho que ora colacionamos:
+    ‘... em relação ao pedido de presentação das informações sobre os titulares dos terminais monitorados, bilhetagem e captação, e de ofício à Superintendência da Polícia Federal para que informe quais os aparelhos utilizados para rastreamento dos veículos e seus registros, indicando o veículo monitorado e o período, defere-se o prazo de cinco dias para que o interessado indique fundamentadamente o objetivo da prova, apresentando justificativa plausível para sua realização.’
+    Também na audiência do dia 11/11/2014 foi proferida decisão sobre o tema nos seguintes termos:
+    ‘(...)
+    Pelo Colegiado foi proferida a seguinte decisão: “Insiste, mais uma vez, a defesa de Peterson e José Severino no deferimento de provas e, desta feita, pugnando pelo adiamento dos interrogatórios. O MPF, como doutra feita, já se manifestou contrariamente ao pedido. O requerimento não pode ser acolhido, pelo menos nesta sede processual. As razões para tanto já foram elencadas por este Colegiado na decisão constante da ata da audiência lavrada no dia 05 deste mês, as quais se faz remissão. Não obstante o ali contido, o nobre advogado repisa o mesmo pedido e sobre os mesmos fundamentos sem sequer se dar ao trabalho de cumprir o que lhe foi determinado pelo Colegiado, qual seja, fundamentar o pedido, inclusive especificando sobre os pontos sobre o quais ele incidiria. Nestes termos, de nenhuma valia sobre o aspecto de fundamento jurídico legal vir a parte alegar que já ajuizou reclamação ou que o STF já decidiu assim ou de outro modo em ações outras, que por serem outras não se trata desta. Isto posto, por se tratar de mera repetição de pedido já indeferido, sem apresentar novos fundamentos, o Colegiado considera prejudicado o requerimento, já indeferido duas vezes e, no caso, indefere o pedido de adiamento dos interrogatórios, visto que, inclusive, o retardamento da instrução se daria em prejuízo de outros réus que não os clientes do requerente, sem que haja qualquer comprovação da efetiva presença de qualquer prejuízo para estes, os réus Peterson e José Severino.
+    (...)’
+    Ainda sobre o tema referente ao acesso aos laudos periciais, houve manifestação judicial, quando da análise dos pedidos de diligência, nos seguintes termos:
+    ‘Quanto ao acesso aos demais laudos periciais, estes já estão colacionados aos autos, sendo que às fls. 974 e 1236/1237 e na ata do dia 11/12/2014, fls. 1372, foram proferidos despachos dando publicidade da mencionada documentação.
+    Salientamos que o Colegiado de Julgamento já se manifestou às fls. 1135/1140 quanto à questão afeta a juntada de laudos e seus efeitos processuais, cabendo a parte especificar eventual prejuízo, o que não ocorreu na petição em análise:
+    (…)
+    No que diz respeito ao adiamento da audiência face não ter sido dada vista dos laudos, em razão do fato de a Polícia Federal ter descumprido prazo para sua apresentação, por si só, não gera nulidade, até porque uma vez comprovado eventual prejuízo para a defesa, as testemunhas já ouvidas poderão ser reinqueridas...’
+    (…).
+    Esclarecemos que a integralidade dos áudios e as transcrições realizadas pela autoridade policial foram colocadas à disposição das partes, valendo salientar que conforme construção jurisprudencial sedimentada no egrégio Supremo Tribunal Federal não há necessidade de transcrever todas as conversas, mas apenas aquelas que embasaram a peça acusatória (estão localizadas nas seguintes pastas: Athos Áudios Telefônicos – Geral e Autos Circunstanciado – Áudios Autos – Auto Circunstanciado 6).
+    (…).
+    Relativamente à identificação dos titulares de todos os terminais telefônicos monitorados, a providência não se mostra relevante, pois o que interessa à busca da verdade real ou processual é quem usou os terminais, bem como o conteúdo das conversas. Ademais, não houve indicação de nenhum fato ou elemento que demonstre prejuízo à defesa.
+    Observamos que nas bilhetagens, tanto telefônica quanto telemática e SMS’s constam os números de ID, PIN e terminais telefônicos, tanto os interceptados quanto dos interlocutores, não havendo necessidade de requerimentos juntos às operadoras para fornecimento de tais dados, impondo-se, também, a rejeição deste pedido nos mesmos termos acima exposto (estão localizadas nas seguintes pastas: Athos Áudios Telefônicos – Geral, Athos Blackberry 2013 e 2014 (Parte I) e Athos Blackberry 2014 (Parte II) e Autos Circunstanciado – Áudios Autos – Auto Circunstanciado 6).
+    (…).
+    Quanto à alegação de contradição em decisões outrora proferidas, entendemos pela inexistência, uma vez que foi franqueado o acesso a todas as informações colhidas na persecução penal; as constantes determinações deste juízo para a defesa fundamentar o pedido se deve ao fato de que a prova a ser produzida deve ser útil ao processo; durante as audiências, em prestígio ao princípio da ampla defesa, foi facultado uma vez mais a indicação especificada de eventual prejuízo sofrido, o que não ocorreu, eis que a defesa não pontua em momento algum de forma objetiva qual o prejuízo que vem sofrendo por não possuir, na sua concepção, a integralidade das informações colhidas na persecução penal.
+    (…).
+    Portanto, este Colegiado entende que não houve restrição ao acesso aos elementos informativos produzidos na esfera policial e que houve estrita observância à norma contida na Súmula Vinculante nº 14 emanada desse Pretório Excelso.”
+    Com o pedido de reconsideração não é apresentado qualquer dado novo que justifique a alteração da decisão indeferitória de liminar, devidamente fundamentada no sentido de que, em juízo de cognição sumária, o ato reclamado, “de acordo com o verbete da Súmula Vinculante nº 14, franqueou o acesso aos advogados constituídos à integralidade do acervo probatório da medida cautelar, em especial às interceptações telefônicas, a afastar, dessa maneira, qualquer prejuízo José Severino da Silva e Peterson Pereira Monteiro”.
+    Ante o exposto, indefiro o pedido de reconsideração.
+    Encaminhem-se os autos ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 20 de março 2015.
+Ministra Rosa Weber
+Relatora
