@@ -1,0 +1,19 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. CONSELHO REGIONAL DE ENGENHARIA, ARQUITETURA E AGRONOMIA. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA-ART. CONVERSÃO DA MEDIDA PROVISÓRIA Nº 536/2011. LEI 12.514/2011. IMPERTINÊNCIA TEMÁTICA. CONSTITUCIONALIDADE. ALEGAÇÃO DE VÍCIO DE ORIGEM AFASTADA. PRINCÍPIO DA LEGALIDADE.
+    1. Não há óbice à introdução de emenda parlamentar contendo matéria diversa daquela originariamente prevista na Medida Provisória, a considerar que a proibição constitucional incide somente quando o conteúdo do texto aditivo versar de modo usurpador sobre matéria reservada à iniciativa extraparlamentar, em violação à prerrogativa iniciadora e, por conseguinte, da separação dos Poderes.
+    2. A Lei nº 12.514/2011 em nada inovou ao que dispunha até então a Lei nº 6.994/82, salvo pela diferenciação por nível de contribuintes e previsão de novos valores, razão pela qual não há se falar em violação ao princípio da legalidade estrita (artigo 150, inciso I, da CF), ao qual estão submetidas as anuidades cobradas pelos conselhos regulamentadores de profissões.
+    3. Não há vício formal da lei de conversão por ofensa ao disposto no artigo 62, §9º, da CF (Comissão Mista). Modulação temporal não retroativa dos efeitos da declaração proferida no julgamento da ADI nº 4.029, de 07/03/2012.
+    4. A Anotação de Responsabilidade Técnica (ART) tem natureza de taxa pelo exercício do poder de polícia conferido ao Conselho Federal de Engenharia, Arquitetura e Agronomia (CONFEA) e aos Conselhos Regionais de Engenharia, Arquitetura e Agronomia (CREA).
+    5. As Leis n.º 6.994/82 e n.º 12.514/2011 apenas estabelecem um teto máximo para a fixação do valor da taxa, não suprindo o vício de inconstitucionalidade da Lei instituidora do tributo, Lei n.º 6.496/77.2.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, I; e 153, I, II, IV, V, da Constituição. O recorrente afirma que foi violado o princípio da legalidade tributária, na medida em que o acórdão recorrido declarou a exigibilidade da Taxa de Anotação de Responsabilidade Técnica de acordo com o limite máximo estipulado pelo art. 11 da Lei nº 12.514/2011.
+    A pretensão recursal merece prosperar. O acórdão recorrido está em desconformidade com a jurisprudência do Supremo Tribunal Federal. A Lei nº 6.994/1982, e, posteriormente, a Lei nº 12.514/2011, atualmente em vigor, não supriram o suposto vício de inconstitucionalidade da Lei nº 6.496/1977. É, portanto, ilegítima a exigência da Taxa de ART sob a égide dos diplomas mencionados. Confira-se o seguinte julgado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. NATUREZA JURÍDICA DE TAXA. INOBSERVÂNCIA DA EXIGÊNCIA DE LEI PARA DAR CONCREÇÃO À COBRANÇA. PREVISÃO DE VALORES MÁXIMOS. INSUFICIÊNCIA PARA FINS DE LEGALIDADE TRIBUTÁRIA.
+    Mesmo com o advento da Lei nº 6.994/1982, a Anotação de Responsabilidade Técnica não foi efetivamente instituída por lei. A mera previsão de um limite máximo para fixação dos valores da taxa em questão não é suficiente para o atendimento do princípio da legalidade, tal como previsto no art. 150, I, da Constituição Federal.
+    O diploma legal mencionado reproduz o vício apontado pela Corte nos autos do ARE 748.445-RG, julgado sob a relatoria do Ministro Ricardo Lewandowski. Agravo regimental a que se nega provimento”. (RE 829.278, Rel. Min. Luís Roberto Barroso)
+    Diante do exposto, com base no art. 557, § 1º-A, do CPC e no art. 21, § 1º, do RI/STF, dou provimento ao recurso extraordinário
+    Publique-se.
+          Brasília, 20 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
