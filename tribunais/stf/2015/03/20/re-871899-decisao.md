@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, manejam recurso extraordinário, com base no art. 102, III, da Lei Maior, Alessandra Lostada e outro(a/s). Aparelhado o recurso na afronta aos arts. 7º, XVII, 39, caput e § 3º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local aplicável à espécie, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. TÉCNICO EM RADIOLOGIA. FÉRIAS. APLICAÇÃO DA LEI FEDERAL N. 7.394/1985. ESTATUTO DO MUNICÍPIO: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 828934 AgR, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 11/11/2014, ACÓRDÃO ELETRÔNICO DJe-230 DIVULG 21-11-2014 PUBLIC 24-11-2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Terço de férias. Legislação municipal. Necessidade de análise e interpretação de legislação local. Impossibilidade. Incidência do Enunciado 280 da Súmula desta Corte. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 784470 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 10/12/2013, PROCESSO ELETRÔNICO DJe-024 DIVULG 04-02-2014 PUBLIC 05-02-2014)
+    “Agravo regimental no agravo de instrumento. Servidor público. Aposentadoria. Férias. Licença-prêmio. Quinquênios. Sexta-parte. Concessão. Análise da legislação local. Incidência da Súmula nº 280/STF. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se abre a via do recurso extraordinário para a análise de matéria ínsita ao plano normativo local e para o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido.” (AI 724294 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 20/11/2012, ACÓRDÃO ELETRÔNICO DJe-248 DIVULG 18-12-2012 PUBLIC 19-12-2012)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 20 de março de 2015.
+Ministra Rosa Weber
+Relatora
