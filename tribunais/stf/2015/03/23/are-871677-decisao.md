@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSO PENAL. CRIME DE ATENTADO VIOLENTO AO PUDOR. ARTIGO 214 DO CÓDIGO PENAL, NA SUA REDAÇÃO ANTERIOR À LEI Nº 12.015/09. AUTORIA E MATERIALIDADE. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    "APELAÇÃO PENAL. ATENTADO VIOLENTO AO PUDOR. CONTINUAÇÃO DELITIVA. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSSIBILIDADE - RELATOS DA VÍTIMA SEGURO QUANTO AOS FATOS - ADMISSÃO PARCIAL DO RÉU - FORÇA PROBATÓRIA DA PALAVRA DA OFENDIDA. REDUÇÃO DA PENA DE OFÍCIO. RECURSO CONHECIDO E IMPROVIDO. UNANIMIDADE.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, LVII, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que, além de não ter sido cumprido o requisito do prequestionamento, a controvérsia estaria adstrita ao âmbito da legislação infraconstitucional. Asseverou, ainda, que o recurso esbarraria no óbice da Súmula 279 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, § 3º, da CF).
+    Não merece prosperar o recurso.
+    A resolução da controvérsia atinente à autoria e à materialidade criminais demanda a análise aprofundada do conjunto fático-probatório. Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito e, portanto, não servil ao exame de questões que demandam o revolvimento do arcabouço probatório, face ao óbice erigido pela Súmula 279 do STF, de seguinte teor, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRIMINAL. ATENTADO VIOLENTO AO PUDOR. MENOR. ALEGAÇÃO DE INSUFIÊNCIA DE PROVAS. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Precedentes. Agravo regimental a que se nega provimento.” (AI 756.450-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe de 8/10/2009)
+    “RECURSO CRIMINAL. Extraordinário. Inadmissibilidade. Atentado violento ao pudor. Sentença condenatória. Apelação improvida. Causa decidida com base no conjunto da prova e na aplicação da legislação infraconstitucional. Agravo improvido. Aplicação da súmula 279. Não se admite recurso extraordinário tendente a rever as provas e a legislação infraconstitucional em que se baseou sentença criminal condenatória, confirmada em grau de apelação.” (AI 607.950-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJ de 15/12/2006)
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 23 de março de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
