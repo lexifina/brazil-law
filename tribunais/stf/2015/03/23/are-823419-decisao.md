@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “Apelação cível em ação civil pública. Instalação de dispositivos de segurança e observância ao tempo máximo de espera em agências bancárias. Previsão legal expressa. Obrigação de fazer pleiteada pelo Ministério Público, em substituição processual dos consumidores, além da condenação da instituição financeira requerida ao pagamento de dano moral coletivo. Extinção do feio sem resolução do mérito, por alegada ausência de interesse processual do Parquet quanto à obrigação de fazer e improcedência do dano moral coletivo. Impossibilidade. Necessidade de observância dos influxos sociais do Estado contemporâneo. Legitimidade do órgão ministerial e interesse processual manifestos na defesa de interesses dos consumidores. Processo maduro para julgamento. Desnecessidade de devolução à primeira instância. Inteligência do art. 515, § 3º, do CPC. Questão de fato e de direito, cuja prova permite o imediato julgamento do processo. Dano moral coletivo incompatível com a natureza da presente demanda. Recurso parcialmente provido.
+    O Ministério Público ostente legitimidade e interesse processual para a defesa de interesses difusos dos consumidores, mormente o de obrigar agências bancárias à instalação de sistemas de segurança adequados e a observar o tempo limite de espera definido em lei.
+    Os influxos sociais do Estado Contemporâneo exigem do Poder Judiciário e do Ministério Público atuação dinâmica e pontual na defesa e concretização de direitos difusos e coletivos de natureza fundamental, mormente quando lesados pela omissão inconstitucional do Poder Público.”
+    O recurso não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada à jurisprudência desta Corte (ARE 698.638, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 23 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
