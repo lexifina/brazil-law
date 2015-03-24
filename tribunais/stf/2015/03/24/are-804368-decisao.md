@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Conselho Especial do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “MEDIDA CAUTELAR. EFEITO SUSPENSIVO A RECURSO ESPECIAL. LIMINAR. DEFERIMENTO. AGRAVO REGIMENTAL. APARÊNCIA DE BOM DIREITO. AUSÊNCIA. RECURSO PROVIDO. PRELIMINAR DE NÃO CONHECIMENTO REJEITADA. MAIORIA. Não se reconhece a fundamentação relevante, “aparência do bom direito” ou verossimilhança para efeito de concessão de liminar em medida cautelar destinada a conferir efeito suspensivo a recurso especial na qual a parte pretende permanecer na licitação de que foi eliminada por não apresentar certidões negativas exigidas em lei sob a alegação de encontrar-se em regime de recuperação judicial. Pretensão manifestamente contra legem (Lei de Recuperação Jucidial, art. 52, II). E, faltando um dos requisitos para a concessão da medida, o exame da urgência fica prejudicado. Agravo regimental conhecido, por maioria, e provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 105, III, a, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “incidência do veto preconizado pelo enunciado 282 da Súmula do STF”; e (ii) “a questão de fundo posta no apelo é de cunho infraconstitucional, não cabendo sua análise pelo Supremo Tribunal Federal”.
+    O recurso não deve ser provido. De início, nota-se que as alegadas ofensas à Constituição não foram apreciadas pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão quanto a esses temas. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, para dissentir do acórdão recorrido seria necessária a análise da legislação infraconstitucional pertinente (Código de Processo Civil) e do material fático-probatório dos autos, procedimento inviável em sede de recurso extraordinário. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
