@@ -1,0 +1,25 @@
+DECISÃO
+RECLAMAÇÃO – AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 4/DF – ALCANCE – INADEQUAÇÃO DO PEDIDO.
+RECLAMAÇÃO – VERBETE PERSUASIVO – DESRESPEITO – IMPROPRIEDADE – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    O Município de Porto Velho/RO afirma haver o Pleno do Tribunal de Justiça estadual, no Processo nº 0011804-25.2013.8.22.0000, olvidado o que decidido na Ação Declaratória de Constitucionalidade nº 4 e o teor do Verbete nº 280 da Súmula do Supremo.
+    Segundo narra, o Ministério Público estadual formalizou ação direta de inconstitucionalidade visando a declaração de invalidade da Lei nº 2.037/2012, por meio da qual conferida gratificação de representação a ocupantes de certos cargos públicos locais. Conforme relata, o fundamento da demanda estaria voltado à inadequada vinculação do cálculo da citada rubrica ao subsídio dos secretários municipais e à imprópria atribuição de caráter indenizatório à parcela, de modo a excluí-la do alcance do teto remuneratório.
+    Aponta o indeferimento do pleito liminar, tendo sido a medida acauteladora implementada, por maioria, em sede de agravo regimental. Interpostos declaratórios, foram providos para a prestação de esclarecimentos quanto ao alcance da providência. Sobreveio extraordinário, cuja retenção foi atacada mediante agravo de instrumento, pendente de apreciação.
+    Segundo argumenta, é legítima a atribuição de caráter indenizatório à mencionada rubrica, considerada a autonomia administrativa e financeira municipais, cabendo a si a disciplina do regime dos próprios servidores. Frisa o envolvimento de matéria de interesse local. Evoca jurisprudência.
+    Sob o ângulo do risco, reporta-se ao prejuízo à organização dos servidores locais.
+    Requer, em sede liminar, a suspensão e, alfim, a anulação do acórdão impugnado.
+    O processo está concluso para exame da medida acauteladora.
+    2. Percebam as balizas do caso concreto. O Ministério Público estadual formalizou ação direta na qual atacada certa lei local a prever a vinculação do cálculo da gratificação de representação devida a determinados servidores públicos ao subsídio dos secretários municipais e o caráter indenizatório da parcela, no que não computada para fins de observância do teto remuneratório. Inicialmente indeferida pelo Presidente do Tribunal de Justiça, a medida acauteladora veio a ser implementada, por maioria, em agravo regimental. Confiram as razões lançadas no voto vencedor:
+    [...] não se pode admitir que leis municipais atribuam caráter indenizatório à parcela remuneratória que não tenha essa característica, tudo para fins de excluir sua abrangência do teto remuneratório e afastar a incidência de desconto previdenciário e de imposto sobre a renda.
+    Como se constata nos presentes autos e no precedente já julgado pelo Tribunal Pleno, a espécie remuneratória denominada gratificação de representação não possui caráter indenizatório, pois não ressarce ao servidor despesas de índole laboral, de modo sua natureza jurídica é pontualmente remuneratória, sendo que sob ela deve incidir ordinariamente descontos previdenciários e imposto sobre a renda.
+    [...]
+    Ademais, importa analisar com maior profundidade a alegada inconstitucionalidade na vinculação de gratificação de representação paga a ocupantes dos cargos de Procurador-Geral Adjunto, Controlador-Geral Adjunto, Chefe de Gabinete Adjunto do Prefeito e dos Secretários Municipais Adjuntos, ao subsídio do Secretário municipal no percentual de 70%. Isso porque as Constituições Federal e Estadual determinam que a remuneração dos membros do Poder, do detentor de mandato eletivo e dos secretários municipais sejam compostas exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de gratificação ou verba de representação.
+    [...]
+    A irresignação não procede. Consoante se verifica, o Órgão reclamado não adotou óptica sobre o tema versado na Ação Declaratória de Constitucionalidade nº 4. Além de não se tratar, na origem, de processo subjetivo, no que envolvido o instituto da antecipação de tutela, a leitura das premissas transcritas revela a ausência de afastamento, por inconstitucional, do preceito contido no artigo 1º da Lei nº 9.494/97.
+    Não há, em síntese, identidade material entre a matéria veiculada no paradigma e o quadro retratado, devendo o Município buscar o meio processual adequado para atacar o pronunciamento impugnado. A liminar na Ação Declaratória de Constitucionalidade nº 4-6/DF ficou restrita a situações concretas em que, no ato judicial, tenha sido proclamada a inconstitucionalidade do artigo 1º da Lei nº 9.494/97.
+    No mais, atentem para a excepcionalidade da reclamação. Pressupõe sempre a usurpação da competência do Supremo ou o desrespeito a decisões que haja proferido. Descabe arguir inobservância a verbete desprovido de eficácia vinculante.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 24 de março de 2015.
+Ministro MARCO AURÉLIO
+Relator
