@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Procurador-Geral de Justiça do Estado de São Paulo. Aparelhado o recurso na afronta aos arts. 29, XII, e 182, caput e § 1º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    No que diz com a alegada inconstitucionalidade formal das Leis 4.909 e 4.910/2013 do Município de Valinhos, ante a ausência de participação popular, o Tribunal de origem consignou “(...) nota-se que a população local presente no Auditório da Câmara Municipal, pôde ter conhecimento das propostas de anteprojeto de leis apresentadas, que foram projetadas no telão e uma intérprete de libras fez tradução simultânea dos atos aos surdos presentes. Também se verifica daquela ata que houve a oitiva dos participantes inscritos presentes naquele ato, e puderam fazer suas considerações a respeito dos projetos (...)” (fl. 128, vol. 04). Nesse sentir, não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “MANDADO DE SEGURANÇA. CRIAÇÃO DO PARQUE NACIONAL DA SERRA DA BODOQUENA. DECLARAÇÃO DE UTILIDADE PÚBLICA DE IMÓVEIS LOCALIZADOS NA ÁREA DO PARQUE. EXIGÊNCIA LEGAL DE ESTUDOS TÉCNICOS E DE CONSULTA PÚBLICA SOBRE A VIABILIDADE DO PROJETO. ALEGAÇÃO DE OFENSA AO ARTIGO 22, § 2º, DA LEI 9985, DE 18/07/2000: IMPROCEDÊNCIA. 1. Comprovada nos autos a realização de audiências públicas na Assembleia Legislativa do Estado com vistas a atender a exigência do § 2º do artigo 22 da Lei 9.985/00. 2. Criação do Parque. Manifestação favorável de centenas de integrantes das comunidades interessadas, do Conselho Nacional da Reserva da Biosfera da Mata Atlântica e da Associação Brasileira de Entidades de Meio Ambiente - ABEMA. 3. Parecer técnico, do Ministério do Meio Ambiente, que concluiu pela viabilidade e conveniência da destinação ambiental da área, dada a necessidade de se proteger o ecossistema local, revestido de significativa mata atlântica. Zona de confluência entre o Pantanal, o Cerrado e o Chaco, onde se encontram espécies vegetais raras, ameaçadas de extinção. Segurança denegada.” (MS 23800, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 07.02.2003)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 24 de março de 2015.
+Ministra Rosa Weber
+Relatora
