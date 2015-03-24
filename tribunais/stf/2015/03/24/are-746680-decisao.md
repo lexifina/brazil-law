@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 153, III, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. A aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação do art. 153, III, da Constituição da República. Nesse sentido:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO DE RENDA. CONVERSÃO DE LICENÇA-PRÊMIO. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A jurisprudência desta Corte firmou-se no sentido de que a controvérsia acerca da incidência do imposto de renda sobre importâncias recebidas a título de conversão de licenças-prêmio em pecúnia demanda a análise de normas infraconstitucionais. A afronta à Constituição, se ocorrente seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Agravo regimental a que se nega provimento.” (ARE 727.022-AgR/MA, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 23.6.2014)
+    “1. Recurso extraordinário: descabimento: controvérsia relativa a imposto de renda retido na fonte pelo Estado sobre pagamentos "in pecunia", referentes a férias e licenças-prêmio não gozadas, decidida à luz de legislação infraconstitucional: a alegada violação dos dispositivos constitucionais invocados, se ocorresse, seria reflexa ou indireta que não enseja reexame no RE: incidência, mutatis mutandis, do princípio da Súmula 636. 2. Competência da Justiça estadual e legitimidade passiva do Estado para a demanda: inexistência da alegada violação do artigo 157, I, da Constituição Federal.” (AI 571.850-AgR/PE, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJe 25.5.2007)
+    “Agravo regimental em agravo de instrumento. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Servidor Público estadual. Licença-prêmio não gozada. Pagamento em pecúnia. Retenção de imposto de renda sobre o valor pago. Controvérsia infraconstitucional. Ofensa indireta à Constituição Federal. 4. Competência da Justiça estadual para julgar a ação de repetição de indébito. Precedentes. 5. Agravo regimental a que se nega provimento.” (AI 488.425-AgR/PE, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 25.4.2008)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de março de 2015.
+Ministra Rosa Weber
+Relatora
