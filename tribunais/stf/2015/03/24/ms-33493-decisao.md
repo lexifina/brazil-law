@@ -1,0 +1,20 @@
+DECISÃO
+MANDADO DE SEGURANÇA – MEDIDA ACAUTELADORA – INDEFERIMENTO.
+    1. O assessor Dr. Rodrigo Crelier Zambão da Silva prestou as seguintes informações:
+    Carolina Maria Melo de Moura, Danielle Rodrigues da Silva e William Matheus Fogaça de Moraes impetram mandado de segurança contra decisão por meio da qual o Conselho Nacional de Justiça indeferiu medida acauteladora requerida em procedimento administrativo instaurado com o objetivo de obter-se a suspensão de convocação para o preenchimento de comarcas no âmbito do Tribunal de Justiça de Minas Gerais.
+    Noticiam que, em 2014, um grupo de Juízes substitutos lotados em grandes centros urbanos foi instado a optar por pequenas comarcas do interior para novas designações, em razão de estudo efetuado pela Presidência do Tribunal a respeito das necessidades encontradas no Estado. Consoante narram, os magistrados vieram a ser beneficiados por liminar implementada no Pedido de Providências nº 0005766-73.2014.2.00.0000, viabilizando-se a manutenção das respectivas lotações, em observância à garantia constitucional da inamovibilidade. Afirmam que, como consequência, várias das comarcas oferecidas não foram providas, tendo ficado vagas até a atualidade.
+    Esclarecem que, pouco mais de três meses após a situação descrita, acabaram surpreendidos com determinação para realização de novas escolhas, com base em lista prévia. Ressaltam situarem-se as áreas disponíveis em regiões carentes de infraestrutura, consideradas de difícil provimento. Sustentam que a convocação não foi precedida de qualquer votação e aprovação por maioria absoluta dos membros do Tribunal, conforme exigência do inciso VIII do artigo 93 do Diploma Maior.
+    Consoante relatam, no ato da convocação, deixaram de ser explicitados os motivos e os critérios pelos quais foram os únicos Juízes substitutos selecionados para as designações, em descumprimento aos artigos 81 e 83 da Lei Orgânica da Magistratura. Enfatizam a violação ao inciso II do artigo 95 da Constituição Federal e aos artigos 30, 31 e 45 da citada Lei Complementar.
+    Asseveram que, ao indeferir a medida de urgência no Procedimento de Controle Administrativo nº 0000633-16.2015.2.00.0000, o Conselho conferiu tratamento diferenciado a magistrados em igual situação, ante a presença de discussões circunscritas à garantia da inamovibilidade.
+    Em razão do quadro apresentado, postulam o deferimento da medida acauteladora e da ordem para o fim de se obter a extensão dos efeitos da decisão proferida no Pedido de Providências nº 0005766-73.2014.2.00.000, evitando-se, assim, a efetivação de remoção prevista para o dia 9 de março de 2015.
+    2. Percebam as balizas objetivas reveladas. Aduzem os impetrantes que processo de remoção conduzido no Tribunal de Justiça de Minas Gerais foi formalizado em desrespeito aos parâmetros consagrados nos artigos 93, inciso VIII, e 95, inciso II, da Carta da República. Segundo narram, o Conselho Nacional de Justiça ratificou ato decisivo para a iminente remoção compulsória de magistrados amparados pela garantia constitucional da inamovibilidade.
+    Não procede a irresignação. Os documentos que instruem a peça primeira não permitem que se conclua, em exame precário e efêmero, pela violação aos dispositivos constitucionais e legais evocados.
+    No mais, a identidade entre as questões debatidas nos procedimentos administrativos citados também não foi demonstrada de maneira a autorizar o implemento da liminar. No ato impugnado, fez-se distinção relevante ao assentar-se que a convocação para novas designações ocorreu em observância à antiguidade, além de ter sido frisada a ausência de comprovação no tocante à existência de objetivo dissociado do interesse público.
+    3. Indefiro a medida acauteladora.
+    4. Solicitem informações.
+    5. Intimem a União para dizer do interesse em ingressar no processo.
+    6. Após as manifestações, colham o parecer do Procurador-Geral da República.
+    7. Publiquem.
+Brasília, 24 de março de 2015.
+Ministro MARCO AURÉLIO
+Relator
