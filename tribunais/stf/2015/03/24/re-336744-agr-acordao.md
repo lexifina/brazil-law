@@ -1,0 +1,714 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 15
+
+24/03/2015
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 336.744 S ANTA CATARINA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. TEORI ZAVASCKI
+: PAULO EDUARDO DA LUZ
+: LEONARDO PACHECO DE SOUZA E OUTRO(A/S)
+: MINISTERIO PUBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: ESTADO DE SANTA CATARINA
+: PROCURADOR-GERAL DO ESTADO DE SANTA
+CATARINA
+
+EMENTA: ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO
+REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EFETIVAÇÃO DE
+SERVENTUÁRIO SUBSTITUTO NA FUNÇÃO DE TABELIÃO SEM
+REALIZAÇÃO DE CONCURSO PÚBLICO. ILEGITIMIDADE. ART. 236,
+§ 3º, DA CONSTITUIÇÃO. ART. 14 DOS ATOS DAS DISPOSIÇÕES
+CONSTITUCIONAIS TRANSITÓRIAS DA CONSTITUIÇÃO DO
+ESTADO DE SANTA CATARINA. INCONSTITUCIONALIDADE
+DECLARADA NO JULGAMENTO DA ADI 363 (REL. MIN. SIDNEY
+SANCHES, PLENÁRIO, DJ DE 3/5/1996) E DA ADI 1.573 (REL. MIN.
+SIDNEY SANCHES, PLENÁRIO, DJ DE 25/4/2003). VIOLAÇÃO AOS
+ARTS. 5º, LIV E LV, DA CF/88. OFENSA CONSTITUCIONAL REFLEXA.
+PRECEDENTES DE AMBAS AS TURMAS EM CASOS IDÊNTICOS.
+COMPETÊNCIA PARA DECLARAÇÃO DE VACÂNCIA DE
+SERVENTIA EXTRAJUDICIAL. PRESIDENTE DO TRIBUNAL DE
+JUSTIÇA. PRECEDENTES.
+AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+AC Ó RDÃ O
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Segunda Turma, sob a Presidência do
+Ministro TEORI ZAVASCKI, na conformidade da ata de julgamentos e
+das notas taquigráficas, por unanimidade, em negar provimento ao
+agravo regimental, nos termos do voto do Relator.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123052.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 15
+
+RE 336744 AGR / SC
+
+Brasília, 24 de março de 2015.
+Ministro TEORI ZAVASCKI
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123052.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 15
+
+24/03/2015
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 336.744 S ANTA CATARINA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. TEORI ZAVASCKI
+: PAULO EDUARDO DA LUZ
+: LEONARDO PACHECO DE SOUZA E OUTRO(A/S)
+: MINISTERIO PUBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: ESTADO DE SANTA CATARINA
+: PROCURADOR-GERAL DO ESTADO DE SANTA
+CATARINA
+RE LAT Ó RI O
+
+O SENHOR MINISTRO TEORI ZAVASCKI (RELATOR):
+Trata-se de agravo regimental contra decisão que negou seguimento
+a recurso extraordinário aos fundamentos de que (a) não é legítima a
+efetivação de serventuários substitutos após o advento da Constituição
+Federal de 1988, visto que o seu art. 236, § 3º, exige a realização de
+concurso público para o ingresso na atividade notarial e de registro; (b) a
+anulação do ato de efetivação da parte prescinde da realização prévia de
+processo administrativo; e (c) é competente o Presidente do Tribunal de
+Justiça para declarar a vacância de serventia extrajudicial.
+Sustenta a parte agravante, em suma, que “a matéria tratada nos
+autos não diz respeito à dispensa de concurso público para o ingresso na
+atividade notarial ou de registro ou mesmo a relativização do princípio
+constitucional que o exige, mas o respeito ao direito da ampla defesa e do
+contraditório quando da anulação do ato administrativo” (fl. 373).
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123242.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 4 de 15
+
+24/03/2015
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 336.744 S ANTA CATARINA
+VOTO
+O SENHOR MINISTRO TEORI ZAVASCKI (RELATOR):
+1. A decisão agravada é do seguinte teor:
+DECISÃO: 1. Trata-se de recurso extraordinário interposto
+em mandado de segurança impetrado por serventuário
+extrajudicial em face de ato do Desembargador Presidente do
+Tribunal de Justiça do Estado de Santa Catarina que decretou a
+nulidade de sua efetivação no cargo. O Superior Tribunal de
+Justiça negou provimento ao recurso ordinário, mantendo a
+denegação da ordem, nos termos da seguinte ementa:
+RMS – CONSTITUCIONAL – ADMINISTRATIVO –
+SERVIÇOS
+NOTARIAIS
+DE
+REGISTRO
+–
+IMPRESCINDIBILIDADE
+DE
+APROVAÇÃO
+EM
+CONCURSO PÚBLICO – INCONSTITUCIONALIDADE
+DO ART. 14 DO ADCT DA CONSTITUIÇÃO ESTADUAL
+DE SANTA CATARINA – MANIFESTAÇÃO DE
+NATUREZA DECLARATÓRIA – EFEITO EX TUNC –
+COMPETÊNCIA DO PRESIDENTE DO TJSC.
+1. O Supremo Tribunal Federal ao decidir nas Ações
+Diretas de Inconstitucionalidade n. 363-1, Plenário de
+15.02.96; e 1.573-7, Plenário de 11.06.97, ratificou o
+posicionamento
+constitucional
+das
+serventias
+extrajudiciais a serem exercidas em caráter privado, por
+delegação do Poder Público (Const., art. 236), devendo
+haver concurso público de provas e títulos, não se
+permitindo que qualquer serventia fique vaga, sem
+abertura de certame, por mais de seis meses (Art. 236, §
+3º). Com isso, a norma é de eficácia imediata, não há
+dependência de lei ordinária. Daí, a imprescindibilidade
+de aprovação em concurso público para o exercício das
+funções inerentes à serventia extrajudicial.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 5 de 15
+
+RE 336744 AGR / SC
+2. Ademais, correto o ato do D. Presidente do
+Tribunal de Justiça ao proclamar ato referendatório da
+decisão do Pretório Excelso. Inteligência da Súmula 473STF.
+3. Recurso conhecido, mas desprovido. (fl. 256)
+Os embargos de declaração opostos foram rejeitados.
+No recurso extraordinário, a parte recorrente aponta, com
+base no art. 102, III, “a”, da Constituição Federal, violação aos
+arts. 5º, XXXVI, 24, §§ 1º, 2º e 3º, e 236 da CF/88, pois a Lei
+Estadual 183/99 atribuiu explicitamente ao Governador do
+Estado a competência para dispor acerca da perda da delegação
+do poder público ao titular da serventia. Alega, ademais, que
+(a) o Supremo Tribunal Federal não deixou explícitos os efeitos
+da declaração de inconstitucionalidade do art. 14 do ADCT da
+Constituição Estadual de Santa Catarina; (b) as situações
+jurídicas constituídas na vigência do art. 14 do ADCT da CE
+não podem ser atingidas pelos efeitos da declaração de
+inconstitucionalidade das ADIs 363 e 1.573; (c) é indispensável a
+observância das garantias do contraditório e da ampla defesa
+para a anulação de ato administrativo cujos efeitos tenham
+repercutido na esfera de interesses individuais.
+Em
+contrarrazões,
+a
+parte
+recorrida
+postula,
+preliminarmente, o não conhecimento do recurso, em razão da
+(a) ausência de prequestionamento; e (b) necessidade de exame
+de normas locais. No mérito, pede o desprovimento do recurso.
+A Procuradoria-Geral da República opinou pelo
+desprovimento do recurso extraordinário, em parecer assim
+ementado:
+RECURSO EXTRAORDINÁRIO. SERVENTUÁRIO
+DE JUSTIÇA. NOMEAÇÃO COM SUPORTE EM
+DISPOSTIVO
+DE
+CONSTITUIÇÃO
+ESTADUAL,
+DECLARADO INCONSTITUCIONAL PELA SUPREMA
+CORTE.
+I.
+NULIDADE
+DA
+EFETIVAÇÃO.
+COMPETÊNCIA DA AUTORIDADE QUE ANULOU O
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 6 de 15
+
+RE 336744 AGR / SC
+ATO.
+II.
+DEBATE
+INFRACONSTITUCIONAL.
+IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA.
+SÚMULA 473 DO STF. III. PARECER PELO
+IMPROVIMENTO.
+2. Em sua redação original, o art. 14 do Ato das
+Disposições Constitucionais Transitórias da Constituição
+Estadual de Santa Catarina dispunha o seguinte:
+Art. 14. Fica assegurada aos substitutos das
+serventias, na vacância, a efetivação no cargo de titular,
+desde que, investidos na forma da lei, estejam em efetivo
+exercício, pelo prazo de três anos, na mesma serventia, na
+data da promulgação da Constituição.
+Em 15 de fevereiro de 1996, o Plenário do Supremo
+Tribunal Federal, no julgamento da ADI 363 (Rel. Min. SIDNEY
+SANCHES, DJ de 3/5/1996), declarou a inconstitucionalidade do
+referido dispositivo, “por violar o princípio que exige concurso
+público de provas ou de provas e títulos, para a investidura em
+cargo público”. Dessa forma, foi editada, em 18 de junho de
+1996, a EC 10 do Estado de Santa Catarina, cujo artigo único
+dispunha que “respeitadas as situações consolidadas, fica
+suspensa a execução do artigo 14 do Ato das Disposições
+Constitucionais Transitórias da Constituição do Estado de Santa
+Catarina”.
+Esse dispositivo, por sua vez, foi declarado
+inconstitucional por esta Corte no julgamento da ADI 1.573
+(Rel. Min. SIDNEY SANCHES, Plenário, DJ de 25/4/2003), sob o
+fundamento de que a Assembleia Legislativa de Santa Catarina
+pretendeu dar eficácia ao art. 14 do ADCT, ao menos para
+amparar as situações já consolidadas, retirando a eficácia ex
+tunc da declaração de inconstitucionalidade proferida pelo STF
+na ADI 363.
+Assim, assentou-se nessa Corte o entendimento pacífico
+de que é incabível a efetivação dos serventuários substitutos
+após o advento da Constituição Federal de 1988, uma vez que o
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 7 de 15
+
+RE 336744 AGR / SC
+seu art. 236, § 3º, exige a realização de concurso público para
+ingresso na atividade notarial e de registro. Nesse sentido,
+citem-se os seguinte precedentes, proferidos em casos idênticos:
+DIREITO CONSTITUCIONAL. SUBSTITUIÇÃO DO
+TITULAR
+DE
+SERVENTIA
+EXTRAJUDICIAL.
+VACÂNCIA APÓS A VIGÊNCIA DA CONSTITUIÇÃO
+FEDERAL DE 1988. DIREITO ADQUIRIDO A SER
+EFETIVADO NO CARGO DE TITULAR. NÃO
+OCORRÊNCIA.
+IMPRESCINDIBILIDADE
+DE
+APROVAÇÃO EM CONCURSO PÚBLICO. ADI 363 E
+1.573/SC. ACÓRDÃO RECORRIDO PUBLICADO EM
+08.10.2009.
+A jurisprudência do Supremo Tribunal Federal
+assentou que o substituto do titular de serventia
+extrajudicial não tem direito adquirido a ser efetivado no
+cargo de titular na hipótese de ter ocorrido a vacância
+após a vigência da Constituição da República de 1998, que
+exige a realização de concurso público para o ingresso na
+atividade notarial e de registro.
+Agravo regimental conhecido e não provido. (ARE
+724.200-AgR, Rel. Min. ROSA WEBER, Primeira Turma,
+DJe de 22/10/2013)
+Agravo regimental em recurso extraordinário com
+agravo. 2. Administrativo. Efetivação de substitutos de
+serventias
+judiciais
+e
+extrajudiciais
+declaradas
+inconstitucionais com eficácia ex tunc pelo STF. ADI
+363/SC e ADI 1573/SC. 3. Ausência de argumentos capazes
+de infirmar a decisão agravada. 4. Agravo regimental a
+que se nega provimento. (ARE 717.624-AgR, Rel. Min.
+GILMAR MENDES, Segunda Turma, DJe de ½/2013)
+PROCESSUAL CIVIL E ADMINISTRATIVO.
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. SERVENTIA
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 8 de 15
+
+RE 336744 AGR / SC
+EXTRAJUDICIAL. EFETIVAÇÃO SEM CONCURSO
+PÚBLICO. EXTINÇÃO DO PROCESSO POR COISA
+JULGADA E LITISPENDÊNCIA. FUNDAMENTOS
+RECURSAIS
+DISSOCIADOS.
+DEFICIÊNCIA
+DE
+FUNDAMENTAÇÃO. SÚMULA 284/STF. TRÂNSITO EM
+JULGADO
+DOS
+FUNDAMENTOS
+INFRACONSTITUCIONAIS
+SUFICIENTES
+PARA
+MANTER O ACÓRDÃO RECORRIDO. SÚMULA
+283/STF. VIOLAÇÃO AO DIREITO ADQUIRIDO, À
+COISA JULGADA, AO ATO JURÍDICO PERFEITO E AO
+DEVIDO
+PROCESSO
+LEGAL.
+OFENSA
+CONSTITUCIONAL
+MERAMENTE
+REFLEXA.
+OBRIGATORIEDADE DO CONCURSO PÚBLICO.
+PRECEDENTES.
+AGRAVO REGIMENTAL A QUE SE NEGA
+PROVIMENTO. (ARE 727.207-AgR, de minha relatoria,
+Segunda Turma, DJe de 10/9/2013)
+Agravo regimental no agravo de instrumento.
+Princípios do devido processo legal, do contraditório e da
+ampla defesa. Ofensa reflexa. Prescrição. Ato
+administrativo. Ofensa reflexa. Serventuária da Justiça.
+Oficial de Registro. Concurso público. Necessidade.
+Precedentes.
+1. A afronta aos princípios do devido processo legal,
+da ampla defesa e do contraditório, dos limites da coisa
+julgada e da prestação jurisdicional, quando depende,
+para ser reconhecida como tal, da análise de normas
+infraconstitucionais, configura apenas ofensa indireta ou
+reflexa à Constituição da República.
+2. A questão relativa à incidência da prescrição está
+restrita à interpretação da legislação infraconstitucional
+pertinente e ao exame das provas dos autos, operações
+vedadas em sede de recurso extraordinário. Incidência das
+Súmulas nºs 279 e 636 desta Corte.
+3. Inviabilidade de efetivação em cargo de oficial de
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 9 de 15
+
+RE 336744 AGR / SC
+registro de serventia notarial, depois da entrada em vigor
+da Constituição Federal de 1988, sem a realização de
+concurso público.
+Agravo regimental não provido. (AI 769.553-AgR,
+Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de
+29/3/2012)
+3. Ademais, apreciando caso idêntico ao presente, a
+Primeira Turma desta Corte, no RE 355.856 (Rel. Min. MARCO
+AURÉLIO, Rel. p/ acórdão Min. ROBERTO BARROSO, DJe de
+27/6/2014), pronunciou-se nos termos da seguinte ementa:
+RECURSO
+EXTRAORDINÁRIO.
+ATO
+DE
+PRESIDENTE
+DE
+TRIBUNAL
+DE
+JUSTIÇA.
+AFASTAMENTO DE SERVENTIA EXTRAJUDICIAL.
+INGRESSO APÓS A CONSTITUIÇÃO FEDERAL DE 1988.
+NECESSIDADE DE APROVAÇÃO EM CONCURSO
+PÚBLICO. AFASTAMENTO QUE PRESCINDE DE
+PRÉVIO
+PROCEDIMENTO
+ADMINISTRATIVO.
+PRECEDENTES.
+1. A discussão acerca da legitimidade ou não do
+Presidente de Tribunal de Justiça para afastar serventuário
+cartorário se insere no âmbito infraconstitucional.
+2. A jurisprudência do Supremo Tribunal Federal se
+firmou no sentido de que é imprescindível prévia
+aprovação em concurso público para o ingresso na
+atividade notarial e de registro após a promulgação da
+Constituição Federal de 1988.
+3. Dispositivos da Constituição do Estado de Santa
+Catarina que mantinham serventuários no cargo sem
+aprovação em concurso público foram declarados
+inconstitucionais por esta Corte (ADIs 363 e 1.573), de
+modo que o afastamento do cargo prescinde da
+instauração de prévio procedimento administrativo.
+4. Recurso extraordinário a que se nega provimento.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 10 de 15
+
+RE 336744 AGR / SC
+Nesses precedentes, decidiu-se que (a) “para concluir pela
+incompetência, ou não, da autoridade responsável pela
+anulação do ato viciado que, no caso, foi o próprio Presidente
+do Tribunal de Justiça local, seria necessário interpretar a lei
+ordinária que dispôs sobre a matéria (Lei n. 8.935/1994)”; e (b)
+“a anulação do ato que efetivou o autor na titularidade da
+serventia prescindia da instauração prévia de processo
+administrativo”.
+4. Por outro lado, no julgamento do RE 336.739 (Rel. Min.
+MARCO AURÉLIO, Rel. p/ acórdão Min. LUIZ FUX, DJe de
+15/10/2014), demanda idêntica à presente, a Primeira Turma
+decidiu pela competência do Presidente do Tribunal de Justiça
+para declarar a vacância de serventia extrajudicial. Confira-se:
+No tocante à primeira discussão, o legislador
+ordinário federal, entre outros temas, regulou o ingresso
+na atividade notarial, condicionando, em seu art. 14, a
+delegação para o seu exercício à prévia habilitação em
+concurso público de provas e títulos, cuja realização ficará
+a cargo do Poder Judiciário (art. 15). Por outro lado, a Lei
+dispõe, ainda, no § 2º do seu art. 39, que, uma vez extinta a
+delegação, a autoridade competente declarará a vacância
+do respectivo serviço, designando o substituto mais antigo
+para responder expediente, e abrirá novo concurso para
+provimento da vaga. Note que o legislador, a despeito de
+não especificar a autoridade competente, não foi lacônico.
+Ao revés, a interpretação sistemática de ambos os
+preceitos mencionados impõe a conclusão de que a
+autoridade competente para proceder à declaração de
+vacância é a autoridade judicial. Sendo mais claro:
+incumbe ao Presidente do Tribunal de Justiça da
+respectiva unidade da Federação. Ora, o raciocínio é
+simétrico: se o legislador ordinário federal previu que a
+delegação para o exercícios das atividades notariais
+depende de anterior aprovação em concurso público de
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 11 de 15
+
+RE 336744 AGR / SC
+provas e títulos a cargo do Poder Judiciário, é de se supor
+que a declaração de vacância dessa serventia incumbe ao
+próprio Poder Judiciário. Qualquer outra exegese destoa
+do que fora fixado pela Lei nº 8.935/94. Neste ponto,
+irretocável o aresto recorrido, quando assentou a
+legitimidade do ato editado pelo Presidente do Tribunal
+de Justiça do Estado de Santa Catarina que reconheceu a
+vacância da serventia titularizada pelo segundo
+Recorrente – Flávio Nunes.
+Por oportuno, consigno que a Suprema Corte já se
+pronunciou nos autos da ADI nº 2.069-2/DF, de relatoria
+do Min. Néri da Silveira, acerca da validade, entre outras
+disposições, dos arts. 14 e 15 da Lei federal nº 8.935/94.
+Naquela assentada, o Tribunal demarcou a total
+compatibilidade dos indigitados preceitos com a
+sistemática constitucional de repartição de competências
+entre União e Estados-membros, bem como com as
+disposições insertas no art. 236, §§ 1º e 3º, da Carta de
+1988. Colhe-se, neste ponto, o seguinte excerto do voto do
+Ministro Relator Néri da Silveira:
+Não tenho, portanto, (…), como distanciados os
+dispositivos legais federais em exame das matrizes
+constitucionais relativas à competência da União e dos
+Estados e ainda do que sobre os serviços notariais e de
+registro pretendeu instituir o constituinte. Está, no âmago
+do sistema, o provimento inicial por concurso público de
+provas e títulos e, também, submeter o provimento
+derivado a regime de mérito, evitando remoções
+discricionárias. (…). não há, pois, invocar, aqui, ofensa,
+pelos arts. 14,15,16,17 e 18 da Lei nº 8.935/1994 aos arts. 25,
+§ 1º, e 22, XXV, da Constituição da República”.
+(ADI-MC, nº 2.069-2/DF, Rel. Min. Néri da Silveira,
+Plenário, julgado em 02.02.2000, DJ 09.05.2003)
+Como se vê, o acórdão recorrido encontra-se em
+conformidade com a jurisprudência desta Corte, razão pela
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 12 de 15
+
+RE 336744 AGR / SC
+qual não merece reparos.
+
+O recurso não traz qualquer subsídio apto a alterar esses
+fundamentos, razão pela qual deve ser mantido incólume o entendimento
+da decisão agravada.
+2. Saliente-se que, apreciando casos idênticos ao presente, as Turmas
+desta Corte reputaram inexistir matéria constitucional no que se refere à
+alegada ofensa aos arts. 5º, LIV e LV, da CF/88, uma vez que se faria
+necessária a análise da legislação infraconstitucional pertinente. Eventual
+violação a esses dispositivos da Carta Magna seria, portanto, meramente
+reflexa. Vejam-se os precedentes:
+DIREITO CONSTITUCIONAL. SUBSTITUIÇÃO DO
+TITULAR DE SERVENTIA EXTRAJUDICIAL. VACÂNCIA
+APÓS A VIGÊNCIA DA CONSTITUIÇÃO FEDERAL DE 1988.
+DIREITO ADQUIRIDO A SER EFETIVADO NO CARGO DE
+TITULAR. NÃO OCORRÊNCIA. IMPRESCINDIBILIDADE DE
+APROVAÇÃO EM CONCURSO PÚBLICO. ADI 363 E 1.573/SC.
+ACÓRDÃO RECORRIDO PUBLICADO EM 08.10.2009.
+A jurisprudência do Supremo Tribunal Federal assentou
+que o substituto do titular de serventia extrajudicial não tem
+direito adquirido a ser efetivado no cargo de titular na hipótese
+de ter ocorrido a vacância após a vigência da Constituição da
+República de 1998, que exige a realização de concurso público
+para o ingresso na atividade notarial e de registro.
+Agravo regimental conhecido e não provido. (ARE
+724.200-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de
+22/10/2013)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO
+REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM
+AGRAVO. SERVENTIA EXTRAJUDICIAL. EFETIVAÇÃO SEM
+CONCURSO PÚBLICO. EXTINÇÃO DO PROCESSO POR
+COISA JULGADA E LITISPENDÊNCIA. FUNDAMENTOS
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 13 de 15
+
+RE 336744 AGR / SC
+RECURSAIS
+DISSOCIADOS.
+DEFICIÊNCIA
+DE
+FUNDAMENTAÇÃO. SÚMULA 284/STF. TRÂNSITO EM
+JULGADO
+DOS
+FUNDAMENTOS
+INFRACONSTITUCIONAIS SUFICIENTES PARA MANTER O
+ACÓRDÃO RECORRIDO. SÚMULA 283/STF. VIOLAÇÃO AO
+DIREITO ADQUIRIDO, À COISA JULGADA, AO ATO
+JURÍDICO PERFEITO E AO DEVIDO PROCESSO LEGAL.
+OFENSA CONSTITUCIONAL MERAMENTE REFLEXA.
+OBRIGATORIEDADE
+DO
+CONCURSO
+PÚBLICO.
+PRECEDENTES.
+AGRAVO
+REGIMENTAL
+A
+QUE
+SE
+NEGA
+PROVIMENTO. (ARE 727.207-AgR, de minha relatoria,
+Segunda Turma, DJe de 10/9/2013)
+Agravo regimental no agravo de instrumento. Princípios
+do devido processo legal, do contraditório e da ampla defesa.
+Ofensa reflexa. Prescrição. Ato administrativo. Ofensa reflexa.
+Serventuária da Justiça. Oficial de Registro. Concurso público.
+Necessidade. Precedentes.
+1. A afronta aos princípios do devido processo legal, da
+ampla defesa e do contraditório, dos limites da coisa julgada e
+da prestação jurisdicional, quando depende, para ser
+reconhecida
+como
+tal,
+da
+análise
+de
+normas
+infraconstitucionais, configura apenas ofensa indireta ou reflexa
+à Constituição da República.
+2. A questão relativa à incidência da prescrição está restrita
+à interpretação da legislação infraconstitucional pertinente e ao
+exame das provas dos autos, operações vedadas em sede de
+recurso extraordinário. Incidência das Súmulas nºs 279 e 636
+desta Corte.
+3. Inviabilidade de efetivação em cargo de oficial de
+registro de serventia notarial, depois da entrada em vigor da
+Constituição Federal de 1988, sem a realização de concurso
+público.
+Agravo regimental não provido. (AI 769.553-AgR, Rel.
+Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/3/2012)
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+Inteiro Teor do Acórdão - Página 14 de 15
+
+RE 336744 AGR / SC
+AGRAVO DE INSTRUMENTO – INGRESSO NA
+ATIVIDADE
+NOTARIAL
+E
+DE
+REGISTRO
+–
+IMPRESCINDIBILIDADE DO CONCURSO PÚBLICO (CF,
+ART. 236, § 3º) – RECURSO DE AGRAVO IMPROVIDO.
+- A jurisprudência constitucional do Supremo Tribunal
+Federal, considerada a norma inscrita no art. 236, § 3º da Carta
+Política, tem proclamado, sem maiores disceptações, que o
+ingresso na atividade notarial e registral depende,
+necessariamente, para legitimar-se, de prévia aprovação em
+concurso público de provas e títulos, sob pena de invalidade
+jurídica da outorga, pelo Poder Público, da delegação estatal ao
+notário público e ao oficial registrador. Precedentes do Supremo
+Tribunal Federal. (AI 839.777-AgR, Rel. Min. CELSO DE
+MELLO, Segunda Turma, DJe de 31/5/2011)
+
+3. Diante do exposto, nego provimento ao agravo regimental. É o
+voto.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8123243.
+
+Supremo Tribunal Federal
+Extrato de Ata - 24/03/2015
+
+Inteiro Teor do Acórdão - Página 15 de 15
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 336.744
+PROCED. : SANTA CATARINA
+RELATOR : MIN. TEORI ZAVASCKI
+AGTE.(S) : PAULO EDUARDO DA LUZ
+ADV.(A/S) : LEONARDO PACHECO DE SOUZA E OUTRO(A/S)
+AGDO.(A/S) : MINISTERIO PUBLICO FEDERAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DA REPÚBLICA
+INTDO.(A/S) : ESTADO DE SANTA CATARINA
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DE SANTA CATARINA
+Decisão: A Turma, por votação unânime, negou provimento ao
+agravo regimental, nos termos do voto do Relator. Presidência do
+Senhor Ministro Teori Zavascki. 2ª Turma, 24.03.2015.
+Presidência do Senhor Ministro Teori Zavascki. Presentes à
+sessão os Senhores Ministros Celso de Mello, Gilmar Mendes, Cármen
+Lúcia e Dias Toffoli.
+Subprocurador-Geral
+Branco.
+
+da
+
+República,
+
+Dr.
+
+Paulo
+
+Gustavo
+
+Gonet
+
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 8184061
