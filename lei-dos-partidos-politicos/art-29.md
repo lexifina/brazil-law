@@ -6,5 +6,7 @@ II - os órgãos nacionais de deliberação dos partidos em processo de fusão v
 § 3º Adotados o estatuto e o programa do partido incorporador, realizar-se-á, em reunião conjunta dos órgãos nacionais de deliberação, a eleição do novo órgão de direção nacional.
 § 4º Na hipótese de fusão, a existência legal do novo partido tem início com o registro, no Ofício Civil competente da Capital Federal, do estatuto e do programa, cujo requerimento deve ser acompanhado das atas das decisões dos órgãos competentes.
 § 5º No caso de incorporação, o instrumento respectivo deve ser levado ao Ofício Civil competente, que deve, então, cancelar o registro do partido incorporado a outro.
-§ 6º Havendo fusão ou incorporação, devem ser somados exclusivamente os votos dos partidos fundidos ou incorporados obtidos na última eleição geral para a Câmara dos Deputados, para efeito da distribuição dos recursos do Fundo Partidário e do acesso gratuito ao rádio e à televisão.
-§ 7º O novo estatuto ou instrumento de incorporação deve ser levado a registro e averbado, respectivamente, no Ofício Civil e no Tribunal Superior Eleitoral.
+§ 6º No caso de incorporação, o instrumento respectivo deve ser levado ao Ofício Civil competente, que deve, então, cancelar o registro do partido incorporado a outro.
+§ 7º Havendo fusão ou incorporação, devem ser somados exclusivamente os votos dos partidos fundidos ou incorporados obtidos na última eleição geral para a Câmara dos Deputados, para efeito da distribuição dos recursos do Fundo Partidário e do acesso gratuito ao rádio e à televisão.
+§ 8º O novo estatuto ou instrumento de incorporação deve ser levado a registro e averbado, respectivamente, no Ofício Civil e no Tribunal Superior Eleitoral.
+§ 9º Somente será admitida a fusão ou incorporação de partidos políticos que hajam obtido o registro definitivo do Tribunal Superior Eleitoral há, pelo menos, 5 (cinco) anos.
