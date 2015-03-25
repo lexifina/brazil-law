@@ -1,0 +1,20 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da 1ª Seção do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. COBRANÇA. ICMS. ACÓRDÃO QUE AFASTOU INCIDÊNCIA SOBRE DETERMINADAS OPERAÇÕES. AUSÊNCIA DE DEMONSTRAÇÃO DO DESCUMPRIMENTO DO ACÓRDÃO DO STJ.
+    1. Hipótese em que a contribuinte propôs originariamente Ação Declaratória em que pedia reconhecimento da não incidência de ICMS sobre a saída de seus produtos feitos por encomenda e para consumidores finais. Ocorre que o provimento jurisdicional não foi total, como argumenta a reclamante.
+    2. O acórdão proferido no REsp 968.969/SP deixa claro que a contribuinte "produz embalagens metálicas, parte delas com acabamento gráfico e parte delas sem acabamento gráfico", para concluir que a incidência exclusiva do ISS refere-se "apenas às operações mistas, ou seja, às atividades de fornecimento de mercadorias e prestação de serviço (composição gráfica)".
+    3. Pelos documentos juntados aos autos, não há como aferir se as cobranças impugnadas nesta Reclamação referem-se efetivamente às embalagens metálicas com "acabamento gráfico", que não se sujeitam ao ICMS estadual. As informações trazidas pela Fazenda tampouco esclarecem o objeto das autuações fiscais.
+    4. Pelo contrário, indicam que a cobrança refere-se a valores declarados pela própria contribuinte e regularmente inscritos em dívida ativa, o que lhes empresta presunção de liquidez e certeza, nos termos do art. 204 do CTN.
+    5. A ausência de demonstração de descumprimento do acórdão do STJ prejudica o pleito da requerente, sem prejuízo de análise pelo juiz de eventual execução.
+    6. Reclamação improcedente”
+    Foram opostos embargos de declaração, os quais foram rejeitados.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 155 e 156, ambos da Carta. Sustenta que a operação de industrialização sob encomenda analisada no presente caso deve sujeitar-se ao ISS, porquanto seria enquadrada como uma operação híbrida com previsão expressa na lista de serviços que compõe as hipóteses de incidência do imposto.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que o acórdão recorrido está em conformidade com o entendimento da jurisprudência do Supremo Tribunal Federal no sentido de que incide o ICMS sobre serviços gráficos e de composição gráfica.
+    A Primeira Turma desta Corte possui entendimento assentando que a incidência do ISS nas operações mistas deve ocorrer quando a contratação for realizada com o destinatário final do serviço e a obrigação de fazer preponderar sobre a operação de dar (AI 803.296 AgR/SP, Rel. Min. Dias Toffoli). A conclusão a que se chegou no precedente referido foi a incidência do ICMS, considerando que naquele caso concreto o serviço de composição gráfica seria residual com relação à entrega das embalagens. A análise conforme as balizas fixadas naquela ocasião não se mostra possível na espécie, na medida em que o acórdão recorrido apontou que [...]Pelos documentos juntados aos autos, não há como aferir se as cobranças impugnadas nesta Reclamação referem-se efetivamente às embalagens metálicas com "acabamento gráfico", que não se sujeitam ao ICMS estadual. As informações trazidas pela Fazenda tampouco esclarecem o objeto das autuações fiscais.
+    Considerando que a jurisprudência da Corte não aponta concretamente o imposto que deve incidir nas obrigações mistas, limitando-se a fixar balizas para que o conflito seja dirimido conforme o caso concreto, a indefinição quanto à hipótese fática prejudica a análise. Verifico que o acolhimento da pretensão demandaria o reexame do acervo probatório constante dos autos, o que atrai a aplicação da Súmula nº 279/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 25 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
