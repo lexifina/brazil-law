@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Primeira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. AGRAVO LEGAL. PIS E COFINS. BENS ADQUIRIDOS NO EXTERIOR. LIMITAÇÕES. LEIS 10.637 E 10.833.
+    1. Inexiste ilicitude nas limitações impostas pelos arts. 3º, §§ 3º, I e II, das Leis 10.637/02 e 10.833/03, porquanto em consonância com o texto constitucional.
+    2. Não há ilicitude na impossibilidade de creditamento devido ao Tratado de Assunção, ou ao GATT, pois os acordos internacionais, ao serem recepcionados pelo ordenamento jurídico pátrio, não possuem supremacia hierárquica relativamente à lei ordinária, de modo que podem ser revogados por lei posterior ou afastados por lei especial.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 195, § 12, da Carta. Sustenta, em síntese, que o legislador ordinário está vinculado ao princípio da não cumulatividade, não sendo possível o estabelecimento de limitação de créditos em relação aos bens e serviços adquiridos do exterior.
+    A pretensão recursal não merece acolhida. Com efeito, incide a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional.
+    A Constituição Federal remeteu à lei a disciplina da não cumulatividade das contribuições ao Pis/Cofins, nos termos do art. 195, § 12, da CF/88. Assim, para dissentir da conclusão assentada pela instância ordinária e conferir ao contribuinte o creditamento pretendido na hipótese, seria necessário um novo juízo interpretativo sobre a legislação infraconstitucional aplicável ao caso. Nessa linha, leia-se ementa do ARE 646.173-AgR, julgado sob relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Tributário. Cofins. Não cumulatividade. Insumos do processo de produção. Necessidade da análise prévia de legislação infraconstitucional. Ofensa constitucional apenas reflexa. 1. O princípio da não cumulatividade aplicável às contribuições sociais foi regulamentado pelas Leis nºs 10.637/02 e 10.833/03, nas quais o legislador listou os bens e serviços capazes de gerar crédito. 2. No julgamento do RE nº 422.005-ED (Relatora a Ministra Ellen Gracie, DJ de 20/4/06), a Corte firmou o entendimento de que eventuais controvérsias na aplicação dos institutos da compensação e da prescrição devem ser resolvidas nas instâncias ordinárias ou por via administrativa. 3. Agravo regimental não provido.” (RE 551336 AgR, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de março de 2015.
+Ministro LUÍS ROBERTO BARROSO
+Relator
