@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Moisés Gonçalves dos Reis interpõe agravo contra decisão que não admitiu recurso extraordinário, assentado em contrariedade ao art. 5º, inc. XLVI, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    APELAÇÃO CRIMINAL. TRÁFICO PRIVILEGIADO DE DROGAS. ABSOLVIÇÃO. AUTORIA DELITIVA. ELEMENTOS PROBATÓRIOS QUE A CONFIRMAM. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. NECESSIDADE. ABRANDAMENTO DE REGIME E SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. RECURSO PARCIALMENTE PROVIDO. 1. Comprovadas a autoria e a materialidade de delito de tráfico ilícito de drogas, impõe-se a manutenção da condenação do apelante pelo delito tipifcado no artigo 33, §4º, da Lei 11.343/06. 2. Sendo a confissão do acusado de extrema relevância para a formação da convicção do Julgador, impõe-se reconhecimento da atenuante da confissão espontânea. 3. Embora não hediondo o crime de tráfico privilegiado, no presente caso, a qualidade e elevada quantidade da droga, obstam a fixação de regime menos gravoso e a substituição da pena privativa de liberdade por restritiva de direitos. 4. Estando o apelante assistido por defensor constituído e não tendo apresentado declaração de hipossuficiente financeira, não há que se falar em concessão de isenção das custas processuais. 5. Recurso parcialmente provido” (fl. 349).
+    Os embargos de declaração interpostos contra esse acórdão foram rejeitados.
+    O agravante, nas razões do extraordinário, sustenta que a imposição do regime inicial fechado e a negativa de substituição da pena privativa de liberdade por restritiva de direitos violam o princípio constitucional da individualização da pena.
+    Aduz ainda que a vedação à conversão da pena privativa de liberdade em restritiva de direitos, constante do art. 33, § 4º, da Lei nº 11.343/06, foi declarada inconstitucional pelo Supremo Tribunal Federal no HC nº 97.256/RS e teve sua execução suspensa pela Resolução nº 5/12 do Senado Federal.
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que a publicação do acórdão em sede de apelação foi posterior a 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece ser acolhida.
+    O dispositivo constitucional apontado como vilipendiado no extraordinário carece do necessário prequestionamento. Incide, na espécie, a Súmula nº 282 desta Corte.
+    Nessa linha: ARE nº 856.320/DF-AgR, Segunda Turma, Relatora a Ministra Carmem Lúcia, DJe 5/3/15; AI nº 829.917/DF-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 13/8/12; AI nº 649.400/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 29/4/11.
+    Não bastasse isso, o Tribunal de origem, ao decidir a questão, ateve-se ao exame da legislação infraconstitucional, de modo que a violação, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Nessa linha de entendimento anote-se: AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08; AI nº 651.927/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 30/5/08; AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/6/07; AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07; AI nº 813.850/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 29/11/10, entre outros.
+    Por fim, observo que o Tribunal local, no julgamento da apelação, deixou de impor o regime prisional mais brando e de substituir a pena corporal por restritiva de direitos com base na “natureza lesiva e quantidade elevada de entorpecentes apreendidos” (vol. 1, fl. 428), e não em dispositivos legais cuja inconstitucionalidade foi reconhecida pelo Supremo Tribunal Federal.
+    E não cabe, em sede de recurso extraordinário, reexame de fatos e provas, nos termos da Súmula nº 279 da Suprema Corte.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 26 de março de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
