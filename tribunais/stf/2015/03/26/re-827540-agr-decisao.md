@@ -1,0 +1,11 @@
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DECISÃO AGRAVADA RECONSIDERADA. NOVA APRECIAÇÃO DO APELO EXTREMO. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. PRAZO PRESCRICIONAL. LEI COMPLEMENTAR Nº 118/2005. RESERVA DE PLENÁRIO PARA O AFASTAMENTO DA LEI. FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E LIMITES DA COISA JULGADA. MATÉRIAS JÁ EXAMINADAS SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMAS Nº 4, 93, 339 E 660 (RE 566.621; RE 580.108-QO; AI 791.292-QO-QO; E ARE 748.371). DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    DECISÃO: Trata-se de agravo regimental contra decisão em que desprovi o recurso extraordinário.
+    Inconformada, a União alega que seu recurso extraordinário mereceria parcial provimento, de forma a adequar o acórdão extraordinariamente recorrido ao entendimento fixado por esta Corte, no sentido de que o prazo prescricional de 5 (cinco) anos previsto na Lei Complementar nº 118/2005 somente se aplica às ações ajuizadas após 9/6/2005 (RE 566.621, Rel. Min. Ellen Gracie, Plenário, DJe de 11/10/11, leading case de repercussão geral, Tema nº 4), “tendo em vista que a presente ação foi ajuizada em 27.04.2010” e “Não obstante, a União foi condenada a `(...) outorgar ao demandante isenção do imposto de renda sobre os seus proventos, a partir de 18 de abril de 2000, bem como a restituir-lhe os valores pagos indevidamente desde então (...)´”.
+    À luz dos argumentos expostos, TORNO SEM EFEITO a decisão agravada e passo ao reexame do recurso extraordinário.
+    As matérias versadas no extraordinário já foram objeto de exame por esta Corte na sistemática da repercussão geral (Tema nº 4, RE 566.621, Rel. Min. Ellen Gracie; Tema nº 93, RE 580.108-QO, Rel. Min. Presidente; Tema nº 339, AI 791.292-QO-QO, Rel. Min. Gilmar Mendes; e Tema nº 660, ARE 748.371, Rel. Min. Gilmar Mendes).
+    Ex positis, RECONSIDERO a decisão agravada, restando prejudicado o agravo regimental, e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental nº 21/2007), determino a DEVOLUÇÃO do feito à origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 26 de março de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
