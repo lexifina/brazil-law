@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 40, caput, 194, caput, 195, caput, I, “a”, e 201, § 11, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 194, caput, 195, caput, I, “a”, e 201, § 11, da Constituição Federal carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Ressalto que a Corte não admite o denominado prequestionamento implícito.
+    Ademais, verifico que para acolher a pretensão da agravante e ultrapassar o entendimento da instância de origem acerca da natureza jurídica dos juros de mora para fins de análise da incidência de tributo, seria necessária a análise da legislação infraconstitucional pertinente, conforme se observa do seguinte trecho da sentença mantida pelo acórdão recorrido:
+    “A redação do art. 404, parágrafo único do Código Civil não deixa dúvida quanto à natureza indenizatória dos juros de mora, sendo certo que a sua fixação tem por finalidade reparar os prejuízos decorrentes do retardamento indevido no cumprimento da obrigação.
+    Nessa trilha, resta patente que os juros moratórios nada mais são do que uma indenização pelo adiamento da execução do débito, onde o novo Código Civil não mais deixou espaço para especulações, na medida em que está expressa a natureza indenizatória dos juros de mora.
+    Desse modo, assentada a natureza indenizatória dos juros de mora, vocacionados a promover a recomposição do patrimônio lesado, não há que se falar, portanto, em acréscimo patrimonial.
+    (...)
+    Portanto, tenho por acolher o pleito autoral, já que não há que se falar na incidência da contribuição previdenciária sobre a parcela devida a título de juros moratórios, tendo em vista que este encargo é pago em virtude da demora do devedor em satisfazer o crédito do credor. Constituem, desta forma, por natureza, verbas indenizatórias dos prejuízos causados ao credor pelo pagamento extemporâneo de seu crédito”.
+    Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    Agravo regimental no recurso extraordinário com agravo. Contribuição previdenciária. Caráter remuneratório ou indenizatório de verbas. Enquadramento da situação fática ao disposto na Lei nº 8.212/91. Questão infraconstitucional. Afronta reflexa. 1. Não houve decisão sobre o caráter remuneratório ou indenizatório das verbas em discussão à luz do art. 195, I, da Constituição. A solução da causa levou em conta o enquadramento (ou não) da situação fática ao disposto na Lei nº 8.212/91. 2. A questão envolve o reexame da controvérsia à luz da legislação ordinária de regência, sendo certo que a afronta ao texto constitucional, caso ocorresse, seria reflexa ou indireta, o que não enseja a abertura da via extraordinária. 3. Agravo regimental não provido. (ARE nº 721.356/CE – AgR, Primeira Turma, de minha relatoria, Dje 21/11/14)
+    “RECURSO. Extraordinário. Incognoscibilidade. Rescisão de contrato de trabalho. Verbas rescisórias. Natureza Jurídica. Definição para fins de incidência de Imposto de Renda. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a definição da natureza jurídica de verbas rescisórias (salarial ou indenizatória), para fins de incidência de Imposto de Renda, versa sobre matéria infraconstitucional” (AI nº 705.941/SP-RG, Pleno, Relator o Ministro Cezar Peluso, DJe de 23/4/10).
+    “EMENTA Agravo regimental em recurso extraordinário com agravo. Tributário. Incidência de imposto de renda sobre o abono de permanência. Natureza jurídica da verba. Ofensa reflexa. Precedentes. Agravo não provido. 1. A jurisprudência desta Corte firmou-se no sentido de que a controvérsia sobre o caráter indenizatório ou não de determinada verba, para fins de incidência de imposto de renda, situa-se em âmbito infraconstitucional. 2. Agravo regimental não provido” (ARE n° 662.017/RN-AgR, Primeira Turma, de minha relatoria, DJe de 3/8/12).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 26 de março de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
