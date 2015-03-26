@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. VALORES RECEBIDOS EM ATRASO E ACUMULADAMENTE. BASE DE CÁLCULO. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis (doc. 19):
+    “TRIBUTÁRIO. PSS. REPETIÇÃO DE INDÉBITO. VALORES DECORRENTES DE CONDENAÇÃO JUDICIAL. CONSTITUCIONALIDADE. HIPÓTESES DE ISENÇÃO. EXAÇÃO. INCIDÊNCIA MÊS A MÊS. PROPORCIONALIDADE. ENUNCIADO 122 DAS TRRJ. RECURSO DA PARTE AUTORA CONHECIDO E PROVIDO. SENTENÇA REFORMADA.”
+    Nas razões de apelo extremo sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 40, caput, 194 e 195, caput, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que eventual ofensa constitucional, se existente, seria reflexa.
+    É o relatório. DECIDO.
+    O agravo não merece provimento.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    Esta Corte firmou entendimento no sentido de que a incidência de contribuição previdenciária sobre valores recebidos em atraso e acumuladamente, quando sub judice a controvérsia a respeito da base de cálculo da exação, demanda a análise da legislação infraconstitucional aplicável à espécie (Lei nº 10.887/2004). Assim, eventual ofensa à Constituição Federal seria, quando muito, indireta, circunstância que inviabiliza o cabimento do recurso extraordinário.
+    No mesmo sentido, ARE 870,621, Rel. Min. Gilmar Mendes, DJe de 23/3/2015; ARE 811.684, Rel. Min. Roberto Barroso, DJe de 23/2/2015; ARE 833.991-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 15/12/2014; ARE 828.842-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 12/11/2014; e ARE 828.387-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 7/10/2014, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. CONTRIBUIÇÃO PREVIDENCIÁRIA PARA O PLANO DE SEGURIDADE DO SERVIDOR PÚBLICO – PSS. INCIDÊNCIA SOBRE VALORES PAGOS POR FORÇA DE DECISÃO JUDICIAL EM DEMANDA REFERENTE A PARCELA REMUNERATÓRIA. BASE DE CÁLCULO. MONTANTE INTEGRAL RESTITUÍDO OU O VALOR CORRESPONDENTE AO QUE DEVERIA TER SIDO PAGO MENSALMENTE AO SERVIDOR. EXEGESE DO ART. 16-A DA LEI 10.887/2004. OFENSA CONSTITUCIONAL REFLEXA. NORMAS CONSTITUCIONAIS DE CONTEÚDO EXCESSIVAMENTE GENÉRICO PARA INTERFERIR NA PECULIAR QUESTÃO PROPOSTA. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de março de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
