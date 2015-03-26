@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 87, de 13 de março de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3214.90.00 Mercadoria: Revestimento mineral líquido, à base de hidróxido de cálcio e de magnésio, acrescido de polímeros orgânicos (aglutinante), microbicidas não metálicos, pigmentos coloridos e água, acondicionado em embalagem plástica de 15 litros, próprio para uso em alvenaria. DISPOSITIVOS LEGAIS: RGI/SH-1 (texto da posição 32.14) e 6 (texto da subposição 3214.90), da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3214.90.00 Mercadoria: Revestimento mineral líquido, à base de hidróxido de cálcio e de magnésio, acrescido de polímeros orgânicos (aglutinante), microbicidas não metálicos, pigmentos coloridos e água, acondicionado em embalagem plástica de 15 litros, próprio para uso em alvenaria.
+DISPOSITIVOS LEGAIS: RGI/SH-1 (texto da posição 32.14) e 6 (texto da subposição 3214.90), da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.
+LUIZ HENRIQUE DOMINGUES Presidente da 4ª Turma
