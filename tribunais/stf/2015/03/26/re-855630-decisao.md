@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade ao artigo 150, VI, “a”, da Constituição. Sustenta o recorrente que o Fundo de Arrendamento Residencial é constituído de patrimônio único e exclusivo da União Federal e que os bens e rendas de tal ente federativo é imune à tributos.
+    Decido.
+    A irresignação não merece prosperar.
+    A imunidade tributária recíproca consagrada pelas sucessivas Constituições republicanas brasileiras representa um fator indispensável à preservação institucional das próprias unidades integrantes do Estado Federal, constituindo, ainda, importante instrumento de manutenção do equilíbrio e da harmonia que devem prevalecer, como valores essenciais que são, no plano das relações político-jurídicas fundadas no pacto da Federação (RE 363.412/BA-AgR, Segunda Turma, DJe de 19/9/08).
+    O entendimento da Corte sobre o tema, no entanto, avançou no sentido de que o beneplácito deve ser estendido às empresas públicas prestadoras de serviço público. Nesse sentido:
+    Tributário. imunidade recíproca. Art. 150, VI, "a", da Constituição Federal. Extensão. empresa pública prestadora de serviço público. Precedentes da Suprema Corte. 1. Já assentou a Suprema Corte que a norma do art. 150, VI, "a", da Constituição Federal alcança as empresas públicas prestadoras de serviço público, como é o caso da autora, que não se confunde com as empresas públicas que exercem atividade econômica em sentido estrito. Com isso, impõe-se o reconhecimento da imunidade tributária prevista no art. 150, VI, a da Constituição Federal. 2. Ação cível originária julgada procedente (ACO 959, Rel. Min. Menezes Direito , Tribunal Pleno, DJ de 16/5/08).
+    A Caixa Econômica Federal é uma empresa pública que exerce atividade econômica em sentido estrito não se enquadrando, a priori, na regra do art. 150, VI, a da Constituição. Resta saber se a imunidade recíproca alcança a cobrança do IPTU face à vinculação do bem ao Programa de Arrendamento Residencial
+    No ponto, assim se manifestou o tribunal de origem, na esteira do voto do relator:
+    “Na espécie, a matrícula do imóvel, no registro competente, revela a sua aquisição pela CEF, ainda que no âmbito do PAR (f. 29/30), o que, perante a Municipalidade, torna a agravante a efetiva contribuinte do IPTU bem como da taxa de coleta de lixo, não havendo que se cogitar, em favor da empresa pública, de imunidade recíproca, de acordo com a jurisprudência firmada, indicativa da manifesta inviabilidade do pedido de reforma”
+    Dessa forma, para dissentir do acórdão recorrido acerca do cumprimento dos requisitos para a imunidade recíproca pela CEF, no âmbito do Programa de Arrendamento Residencial, bem como sobre a operacionalização do programa e se este se caracterizaria como um serviço público, necessário seria o reexame da causa à luz da legislação infraconstitucional instituidora do programa e dos fatos e provas dos autos (Súmula 279/STF), o que é vedado em sede de recurso extraordinário.
+    No mesmo sentido:
+     “Agravo regimental em recuso extraordinário com agravo. 2. Tributário. Requisitos para imunidade do artigo 150, VI, “a”. Reexame de matéria fático-probatória. Enunciado 279 da Súmula do STF. Precedentes. 3. Agravo regimental a que se nega provimento” (ARE 762.755/RS-AgR, Segunda turma, Relator o Ministro Gilmar Mendes, DJe 20/9/13).
+    “CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA SOBRE OS REQUISITOS NECESSÁRIOS À CONCESSÃO DA IMUNIDADE TRIBUTÁRIA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – Para acolher a pretensão do agravante quanto à exclusão da imunidade tributária reconhecia à entidade de previdência, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II - Agravo improvido” (AI 632.223/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/11/10).
+    Ainda no mesmo sentido: RE nº 808.832/SP, Rel. Min. Cármen Lúcia, Dje 13/6/14; RE nº 872.105/SP, Rel. Min. Gilmar Mendes, Dje 25/3/15
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 26 de março de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
