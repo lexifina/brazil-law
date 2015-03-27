@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa transcrevo a seguir:
+    “DIREITO ADMINISTRATIVO E AMBIENTAL. APELAÇÃO CÍVEL E AGRAVO RETIDO. PRELIMINAR DE OFENSA AO PRINCÍPIO DA DIALETICIDADE AFASTADA. RECURSO QUE SE COTNRAPÕE À DECISÃO OBJURGADA. CARÊNCIA DA AÇÃO POR ILEGITIMIDADE DE PARTE. INOCORRÊNCIA. OBRIGAÇÃO PROPTER REM DE ADEQUADR O IMÓVEL ÀS RESTRIÇÕES AMBIENTAIS URBANÍSTICAS. AGRAVO RETIDO. CHAMAMENTO AO PROCESSO DE TERCEIRO QUE NÃO DETÉM TÍTULO DE PROPRIEDADE. RECURSO DESPROVIDO. PREJUDICIAL DE MÉRITO REJEITADA. IMPRESCRITIBILIDADE DE AÇÃO CUJO ESCOPO É OBRIGAR OS TITULARES DE DIREITO DE PROPRIEDADE A ADEQUAREM-SE À NORMATIZAÇÃO LEGAL E INFRALEGAL DE BEM IMÓVEL. MÉRITO. MEIO AMBIENTE URBANO E CULTURAL. PROPORCIONALIDADE DA MEDIDA DE DEMOLIÇÃO COMO PROVIDÊNCIA QUE ASSEGURE O RESULTADO PRÁTICO EQUIVALENTE AO ADIMPLEMENTO. RECURSO DE AGRAVO RETIDO CONHECIDO E DESPROVIDO.
+    RECURSO DE APELAÇÃO CÍVEL DESPROVIDO” (eDOC 5, pp. 148-149).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37, caput, do texto constitucional.
+    Nas razões recursais, alega-se violação ao princípio da legalidade pelo não chamamento ao processo do possuidor direto do imóvel. Sustenta-se, ainda, ofensa aos princípios da razoabilidade e da proporcionalidade.
+    A 1ª Vice-Presidência do TJPR inadmitiu o recurso por ausência de prequestionamento e repercussão geral.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “Por conseguinte, o dever de adequar as obras realizadas às restrições urbanísticas de índole ambiental adere-se à coisa, sendo responsável pela prestação da obrigação aquele que detém o título de propriedade.
+    Estabelecido o caráter propter rem, e considerando que os próprios apelantes admitem as respectivas qualidade de titulares de 1/10 (um décimo) do imóvel, inexistem óbices para que sobre eles recaia o dever de regularizar as obras realizadas, adequando-se às normas afetas à matéria” (eDOC 6, p. 5).
+    Na espécie, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável à espécie, o que não enseja a abertura do recurso extraordinário, uma vez que se aplica o Enunciado da Súmula 279 do STF.
+    Demais disso, é entendimento sumulado desta Corte que “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (Enunciado da Súmula 636 do STF).
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “Agravo regimental no recurso extraordinário. Imóvel construído em área de preservação permanente. Determinação judicial para sua demolição. Direito de propriedade. Circunstâncias fáticas e legais que nortearam a decisão da origem em prol do princípio da proteção ao meio ambiente. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A Corte de origem, analisando as Leis nºs 4.771/65, 6.938/81 e 7.347/85, a Resolução nº 4/85 do CONAMA e os fatos e as provas dos autos, concluiu que o ora agravante, com a construção não autorizada de imóvel em área de preservação permanente, causou dano ambiental, bem como que a condenação pecuniária não seria apta a reconstituir o espaço degradado, motivo pelo qual impunha-se a demolição do imóvel. 2. Para divergir da conclusão a que chegou o Tribunal de origem, seria necessário analisar a referida legislação, bem como o conjunto fático-probatório da causa, o que é inviável em recurso extraordinário. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido.”
+(RE 605482 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 5.11.2013)
+    “Agravo regimental em recurso extraordinário. 2. Direito administrativo e ambiental. 3. Discussão acerca da existência ou não de danos ambientais decorrentes de construção erigida em áreas de preservação permanente. Necessidade do revolvimento do conjunto fático-probatório. Óbice previsto na Súmula 279. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+(RE 580126 AgR, de minha relatoria, Segunda Turma, DJe 17.9.2012)
+    Ante o exposto, conheço do presente agravo para negar provimento ao recurso extraordinário (art. 544, §4º, II, b, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 27 de março de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
