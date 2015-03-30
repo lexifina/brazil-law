@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Instituto Nacional do Seguro Social – INSS. Aparelhado o recurso na afronta ao art. 109, I, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise de matéria infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Previdenciário. Benefício. Causa que não decorre exclusivamente de acidente de trabalho. Competência da Justiça Federal definida na origem. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame de fatos e provas dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido.” (ARE 636437 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 18/09/2012, ACÓRDÃO ELETRÔNICO DJe-199 DIVULG 09-10-2012 PUBLIC 10-10-2012)
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais.” (RE 821053 AgR, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 25/11/2014, PROCESSO ELETRÔNICO DJe-245 DIVULG 12-12-2014 PUBLIC 15-12-2014)
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPETÊNCIA. JUIZADOS ESPECIAIS FEDERAIS. VALOR DA CAUSA. VARA ESPECIALIZADA PREVIDENCIÁRIA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 835132 AgR, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 28/10/2014, PROCESSO ELETRÔNICO DJe-219 DIVULG 06-11-2014 PUBLIC 07-11-2014)
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. COMPETÊNCIA DOS JUIZADOS ESPECIAIS PARA PROCESSAR E JULGAR MATÉRIA PREVIDENCIÁRIA. CAUSA DECIDIDA À LUZ DAS LEIS NºS 9.099/1995 E 10.259/2001. Para dissentir do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente, procedimento inviável em recurso extraordinário. Agravo regimental a que se nega provimento.” (AI 511511 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/09/2014, ACÓRDÃO ELETRÔNICO DJe-201 DIVULG 14-10-2014 PUBLIC 15-10-2014)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 30 de março de 2015.
+Ministra Rosa Weber
+Relatora
