@@ -1,0 +1,29 @@
+Decisão: Trata-se de mandado de segurança com pedido liminar ajuizado por Pedro Zeferino do Nascimentos e outros contra o Decreto de 13 de março de 2014, expedido pela Presidenta da República, que declarou de interesse social para fins de assentamento de indígenas os imóveis situados no Município de Rodelas, Estado da Bahia.
+    Alega-se que os impetrantes já haviam sido expropriados de suas terras ao final dos anos 80, quando da construção da Usina Hidrelétrica de Itaparica e foram reassentados pela Companhia Hidro Elétrica do São Francisco – CHESF nas terras hoje ocupadas, nas quais desenvolvem atividades agrícolas e de agricultura de subsistência.
+    Informam que, pelo mesmo motivo, os índios da Comunidade Indígena Tuxá de Rodelas também foram removidos de seu domínio original, mas não foram suficientemente assentados, motivo pelo qual o Decreto impugnado declarou de interesse social, 26 anos depois, os imóveis atualmente ocupados pelos impetrantes.
+    Sustenta-se que o decreto expropriatório incorre em vício de finalidade, uma vez que se fundamentou no art. 2º, caput, inciso III, da Lei 4.132/62, que prevê a possibilidade de desapropriação por interesse social para “o estabelecimento e a manutenção de colônias ou cooperativas de povoamento e trabalho agrícola”. Aduz-se que a área declarada de interesse social está povoada e é plenamente produtiva, o que compromete a validade do ato presidencial.
+    Argumenta-se que o ato administrativo viola o princípio da proporcionalidade e afeta os direitos fundamentais de propriedade e moradia dos atuais ocupantes da região. Sustenta-se haver a possibilidade de alcance do resultado pretendido de modo menos gravoso aos atuais ocupantes, uma vez que o Município de Rodelas é composto de vasto território.
+    Pugna-se pela aplicação do art. 11. § 1º, do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais – PIDESC, adotado pela XXI Sessão da Assembleia-Geral das Nações Unidas, em 19.12.1966, incorporado à ordem jurídica nacional por meio do Decreto 601, de 6 de julho de 1992, que prevê o direito fundamental à “moradia adequada”, cujo conceito abarca o entendimento da segurança jurídica na posse, ou seja, a garantia jurídica contra despejos forçados, perturbações ou outras ameaças.
+    Requer a concessão do pedido liminar, porquanto iminente a lesão ao direito subjetivo individual dos impetrantes pela promoção de ações de desapropriação pela FUNAI e pelo fato de os imóveis estarem cercados de insegurança jurídica. No mérito, pede a invalidação do Decreto de 13 de março de 2014 da Presidenta da República.
+    Solicitei informações em 11 de julho de 2014 (eDOC 15).
+    A Presidenta da República apresentou informações (eDOC 19), nas quais sustenta que é possível a desapropriação por interesse social para atender às necessidades de assentamento de comunidades indígenas quando não for possível a demarcação de terras tradicionalmente ocupadas pelos índios, ou quando de sua insuficiência, nos termos do art. 2º, caput, III, da Lei 4.132/62. Aduz que tal finalidade serve a um interesse social e não a uma utilidade pública, pois a desapropriação visa à solucionar o problema dos índios que não possuem terra, já que removidos de sua habitação original.
+    Argumenta que o decreto não viola o princípio da proporcionalidade, na medida em que editado de acordo com os ditames legais. Punga pela denegação da ordem.
+    Decido.
+    É caso de concessão de medida liminar.
+    Bem examinados os autos, reconheço, de início, a relevância dos fundamentos deduzidos na exordial, embora necessário para a formação de um juízo definitivo o regular aparelhamento dos autos, com a vinda das informações a serem prestadas pela FUNAI e pelo INCRA e do parecer da Procuradoria Geral da República.
+    Por ora, mostra-se imprescindível averiguar, nos termos do art. 7º, III, da Lei 12.016/2009, se a suspensão do ato impetrado é medida necessária para evitar, além da ineficácia do provimento almejado, dano irreparável ou de difícil reparação.
+    Observo, por relevante, que o Decreto de 12 de março de 2014 da Presidência da República (eDOC 7) declarou de interesse social, para fins de desapropriação, o imóvel rural objeto deste mandamus, destinado a assentar famílias da Comunidade Indígena Tuxá de Rodelas, no Município de Rodelas, Estado da Bahia, com fundamento no art. 2º, caput, inciso III, da Lei 4.132/62, que assim dispõe:
+    “Art. 2º Considera-se de interesse social:
+    (…)
+    III – o estabelecimento e a manutenção de colônias ou cooperativas de povoamento e trabalho agrícola”
+    Todavia, a desapropriação em tela não visa ao assentamento de cooperativas de povoamento e trabalho agrícola, mas sim ao assentamento de comunidade indígena em terreno que não constitui “terras tradicionalmente ocupadas”, que mereceriam especial proteção nos termos do art. 231 da Constituição Federal.
+    Ademais, sustentam os impetrantes que as terras são ocupadas e plenamente produtivas, o que impediria sua desapropriação com o fundamento legal utilizado, nos termos do art. 185, II, da Constituição.
+    Portanto, entendo que a desapropriação dos impetrantes para assentamento da comunidade indígena Tuxá de Rodelas antes do julgamento de mérito deste writ geraria evidente risco de nova desapropriação dos atuais proprietários das terras em disputa, também nelas assentados ao final da década de 1980, em razão da construção da Usina Hidrelétrica de Itaparica.
+    Isso posto, sem prejuízo de um exame mais aprofundado da matéria quando do julgamento de mérito, defiro a liminar requerida para suspender, até o julgamento final deste mandamus, os efeitos Decreto Presidencial de 13 de março de 2014.
+    Solicitem-se informações à FUNAI e ao INCRA.
+    Após, remetam-se os autos à Procuradoria-Geral da República para parecer.
+    Publique-se.
+    Brasília, 30 de março de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
