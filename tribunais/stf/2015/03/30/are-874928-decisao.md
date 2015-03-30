@@ -1,0 +1,26 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DISCUSSÃO ACERCA DO CÁLCULO DE MULTA E JUROS DE MORA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO. MATÉRIA DE PROVA. AGRAVO IMPROVIDO.
+     1. É certo que a exceção de pré-executividade é o meio processual adequado para a alegação de vício no título executivo que fulmine a sua exigibilidade, desde que a mesma seja acompanhada de prova pré-constituída, que dispense a dilação probatória. (Precedente do STJ em sede de Embargos de Divergência: EREsp. 614.272-PR, Rel. Min. CASTRO MEIRA, DJU 06.06.05, p. 174).
+     2. Entretanto, a hipótese cuida de discussão que depende de dilação probatória, a envolver o cálculo de multas e juros de mora.
+     3. Trata-se de matéria que só pode ser examinada a contento, em termos de exaurimento da mesma, como indispensável caminho para afirmação da verdade processual no juízo de conhecimento, em sede de embargos do devedor. Desta feita, impossível apresenta-se essa argüição através de exceção de pré-executividade.
+     4. Agravo de instrumento improvido.”
+    A pretensão deduzida pela parte não encontra amparo na jurisprudência do Supremo Tribunal Federal. Com efeito, esta Corte possui firme entendimento no sentido de que a matéria relativa à aplicação da prescrição no caso concreto não enseja a abertura da via extraordinária. No mesmo sentido, confiram-se os seguintes precedentes:
+    “RECURSO EXTRAORDINÁRIO MATÉRIA LEGAL E REPERCUSSÃO GERAL INADMITIDA EXECUÇÃO FISCAL PRESCRIÇÃO ARTIGO 174, PARÁGRAFO ÚNICO, INCISO I, DO CÓDIGO TRIBUTÁRIO NACIONAL. O Supremo, consignando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema referente à ocorrência de prescrição em execução fiscal, nos termos do artigo 174, parágrafo único, inciso I, do Código Tributário Nacional, anteriormente à Lei Complementar nº 118/2005.” (ARE 735.257 ED-AgR, Rel. Min. Marco Aurélio)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ANÁLISE DA PRESCRIÇÃO NO CASO CONCRETO. RETROATIVIDADE DO MARCO INTERRUPTIVO. DISCIPLINA PREVISTA PELO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE RESSONÂNCIA CONSTITUCIONAL.
+    A possibilidade de fazer retroagir o marco interruptivo da prescrição ao momento da propositura da ação, tal como prevê o Código de Processo Civil, demanda o reexame prévio da legislação infraconstitucional (ARE 810.802, Rel. Min. Dias Toffoli).
+    Agravo regimental a que nega provimento.”(RE 808.399-AgR, da minha relatoria)
+    Ademais, anoto que o entendimento deste Tribunal pacificou-se no sentido de que as alegações de nulidade da Certidão de Dívida Ativa não possuem ressonância constitucional. Nesse sentido, confiram-se as seguintes decisões:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CERTIDÃO DE DÍVIDA ATIVA. PRESCRIÇÃO. NULIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF.
+    A pretensão recursal ampara-se em pretenso equívoco na contagem do prazo prescricional, o que decorreria da adoção de termo inadequado. A matéria não encontra repercussão imediata na Constituição Federal. Ademais, as razões de decidir assentadas pela instância ordinária só poderiam ser revistas mediante o revolvimento das provas constantes dos autos.
+    Agravo regimental a que se nega provimento.” (AI 811.250-AgR, da minha relatoria)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DE CDA. LANÇAMENTO DE DÉBITO TRIBUTÁRIO COM BASE EM LEI POSTERIOR À OCORRÊNCIA DO FATO GERADOR DO TRIBUTO. LEI QUE REPETE O CONTEÚDO DE LEI ANTERIOR, VIGENTE A ÉPOCA DOS FATOS. IMPOSSIBILIDADE DA APLICAÇÃO DE LEI A FATOS GERADORES ANTERIORES À SUA VIGÊNCIA. VERIFICAÇÃO DO ATENDIMENTO DOS REQUISITOS DE VALIDADE DA CDA E DA EXISTÊNCIA DE PREJUÍZO PARA O EXECUTADO. NECESSIDADE DO EXAME DE PROVAS E LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279 E OFENSA INDIRETA À CF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I É inconstitucional permitir que lei que institua tributo seja aplicada a fatos geradores anteriores à sua vigência, em razão do princípio da irretroatividade (art. 150, III, a, da CF).
+    II Lei nova que repete o conteúdo de lei anterior, quanto à previsão de tributo, dispensa a obediência às regras da anterioridade tributária, mas os fatos geradores são regidos dentro do período de vigência da cada norma.
+    III A verificação do atendimento aos requisitos de validade da CDA e da existência de prejuízo para o executado no caso concreto depende da reanálise dada ao conjunto fático-probatório dos autos e do exame de normas infraconstitucionais. Inviabilidade do extraordinário. Súmula 279 do STF e ofensa indireta.
+    IV - Agravo regimental a que se nega provimento.” (RE 776.156-AgR, Rel. Min. Ricardo Lewandowski)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço o agravo para negar seguimento ao recurso extraordinário
+    Publique-se.
+          Brasília, 30 de março de 2015.
+Ministro Luís Roberto Barroso
+Relator
