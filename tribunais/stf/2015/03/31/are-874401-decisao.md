@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. CONTRATO. FIANÇA BANCÁRIA. ALEGADA OFENSA AO DIREITO ADQUIRIDO E AO ATO JURÍDICO PERFEITO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS Nº 282 E Nº 356 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado (vol. 3 – fl. 66):
+    ““CONTRATO Bancário Fiança Hipótese em que a cláusula de renovação automática não deve valer com relação aos fiadores Insubsistência da garantia para além do prazo do vencimento dos contratos Autores-apelantes que não devem responder por débitos gerados após a cessação da fiança - Recurso provido.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XXXVI, LIV e LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, § 3º, da CF).
+    Não merece prosperar o presente agravo.
+    Inicialmente, verifica-se que o artigo 5º, LIV e LV, da Constituição Federal, não foi debatido no acórdão recorrido. Além disso, não foram opostos embargos de declaração para sanar eventual omissão, faltando, ao caso, o necessário prequestionamento da matéria constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incidem, portanto, os óbices das Súmulas nº 282 e nº 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, ARE 738.029-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 25/6/2013, e ARE 737.360-AgR/BA, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 24/6/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Agravo regimental improvido.”
+    Melhor sorte não socorre ao ora agravante relativamente à alegada violação ao artigo 5º, XXXVI, da Constituição Federal. Esta Suprema Corte firmou jurisprudência no sentido de que o direito adquirido e o ato jurídico perfeito, quando objeto de verificação em cada caso concreto acerca da ocorrência ou não de violação, não desafiam a instância extraordinária, posto implicarem análise de matéria infraconstitucional. Nesse sentido, cito o AI 699.726-AgR, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 16/11/2010, assim ementado, no que interessa:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO AMBIENTAL. MATÉRIA INFRACONSTITUCIONAL. LIMITES DA COISA JULGADA. ALEGADA OFENSA AO ART. 5º, II, XXXVI E LV, DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I – O acórdão recorrido dirimiu a matéria com base na interpretação de legislação infraconstitucional aplicável à espécie. Ofensa reflexa.
+    II – A Corte tem se orientado no sentido de que a verificação, no caso concreto, da ocorrência ou não de violação ao direito adquirido e ao ato jurídico perfeito situa-se no campo infraconstitucional. Precedentes.
+    [...]”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de março de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
