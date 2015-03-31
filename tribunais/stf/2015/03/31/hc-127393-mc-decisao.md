@@ -1,0 +1,34 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Jean Kelver Garcia Vieira e outro, em favor de Ederson Lucas Leandro Lima, contra decisão proferida pelo Ministro Felix Fischer, do Superior Tribunal de Justiça (STJ), que indeferiu o pedido liminar nos autos do HC 318.216/SP.
+    Extrai-se dos autos que, em 25.4.2008, o paciente foi denunciado por suposta prática do crime descrito no art. 157, § 2º, incisos I e II, do Código Penal, tendo em vista ter praticado roubo, em concurso de agentes e mediante grave ameaça exercida com emprego de arma de fogo, em empresa privada, subtraindo dos clientes e funcionários que lá estavam dinheiro e celulares.
+    Sobreveio sentença que absolveu o réu, com base no art. 386, inciso VII, do CPP.
+    Irresignado, o Ministério Público interpôs apelação perante o Tribunal de Justiça do Estado de São Paulo, o qual deu provimento ao recurso para condenar o réu à pena de 7 (sete) anos, 5 (cinco) meses e 25 (vinte e cinco) dias de reclusão, em regime inicial fechado. Confira-se a ementa:
+    “APELAÇÃO - ROUBO QUALIFICADO - AUTORIA E MATERIALIDADE DEMONSTRADAS – CONDENAÇÃO - Necessidade: reconhecido na época com segurança pelas vítimas, não teria nenhuma razão para inculpá-lo, tem contra si, ainda, a firme palavra dos policiais que descreveram as circunstâncias da prisão do acusado e das testemunhas que compraram o bem de uma das vítimas. Recurso provido.” (eDOC 4, p.3)
+    O trânsito em julgado foi certificado em 19.8.2014.(eDOC 4, p.18)
+    Irresignada, a defesa manejou habeas corpus perante o Superior Tribunal de Justiça. O pedido liminar foi indeferido, pendente ainda o julgamento do mérito.
+    Daí a impetração do presente writ.
+    Nesta Corte, os impetrantes aduzem, em síntese, a ocorrência de constrangimento ilegal, em virtude de o paciente não ter sido intimado pessoalmente do acórdão condenatório, havendo apenas a intimação pela imprensa oficial. Asseveram que o processo é antigo, o paciente não tinha ciência da condenação, respondia o processo em liberdade, exercia trabalho lícito e foi preso enquanto laborava. Sustentam, ainda, que o paciente foi considerado de maneira equivocada reincidente, razão pela qual o Tribunal descartou regime mais brando. Pleiteiam a suspensão dos efeitos da prisão, a anulação do trânsito em julgado, bem como a determinação da intimação pessoal do paciente, com a consequente reabertura do prazo recursal.
+    É o breve relatório.
+    Decido.
+    Preliminarmente, a jurisprudência desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus, nas causas de sua competência originária, contra decisão denegatória de liminar em ação de mesma natureza articulada perante tribunal superior, antes do julgamento definitivo do writ [cf . HC (QO) 76.347/MS, Rel. Min. Moreira Alves, 1ª Turma, unânime, DJ 8.5.1998; HC 79.238/RS, Rel. Min. Moreira Alves, 1ª Turma, unânime, DJ 6.8.1999; HC 79.776/RS, Rel. Min. Moreira Alves, 1ª Turma, unânime, DJ 3.3.2000; HC 79.775/AP, Rel. Min. Maurício Corrêa, 2ª Turma, maioria, DJ 17.3.2000; e HC 79.748/RJ, Rel. Min. Celso de Mello, 2ª Turma, maioria, DJ 23.6.2000.
+    Esse entendimento está representado na Súmula n. 691/STF, in verbis :
+    Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    É bem verdade que o rigor na aplicação da Súmula n. 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 88.229/SE, Rel. Min. Marco Aurélio, Red. para o acórdão, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 23.2.2007; e as seguintes decisões monocráticas: HC 85.826/SP (MC), de minha relatoria, DJ 3.5.2005; e HC 86.213/ES (MC), Rel. Min. Marco Aurélio, DJ 1º.8.2005).
+    Na hipótese dos autos, à primeira vista, vislumbro situação ensejadora do afastamento da incidência da Súmula n. 691/STF e a necessidade da análise mais aprofundada do mérito.
+    Passo à análise do pedido liminar.
+    Depreende-se dos autos que o acórdão condenatório prolatado pela 15ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo foi publicado na imprensa oficial em 8.4.2014.
+    Na sequência, foi determinado ao Juízo a quo que procedesse à intimação pessoal do defensor da parte ré.
+    Entretanto, conforme consta no sítio eletrônico do TJSP, bem como nos documentos juntados pelos impetrantes, verifica-se que a Secretaria da 1ª Vara Criminal da Comarca de Franca efetivou a intimação do então advogado unicamente por intermédio do Diário de Justiça Eletrônico, não havendo, entretanto, a sua intimação na forma pessoal.
+    Cumpre pontuar que, no âmbito criminal, os defensores público e dativo, bem como o Ministério Público detêm a prerrogativa da intimação pessoal, conforme disposto no § 4º do art. 370 do CPP, in verbis:
+    “Art.370. Nas intimações dos acusados, das testemunhas e demais pessoas que devam tomar conhecimento de qualquer ato, será observado, no que for aplicável, o disposto no Capítulo anterior.
+    (...)
+    §4º A intimação do Ministério Público e do defensor nomeado será pessoal”.
+    No caso em epígrafe, o paciente foi patrocinado por defensor nomeado pelo convênio existente entre a Ordem dos Advogados do Brasil do Estado de São Paulo e a Defensoria Pública do referido ente federado, enquadrando-se, portanto, no conceito legal de defensor ad hoc.
+    Não se pode olvidar que houve vício na comunicação do acórdão condenatório ao causídico nomeado, fato esse que prejudicou sobremaneira o paciente que, em face da ignorância da decisão, sequer teve oportunidade de apresentar recurso defensivo.
+    Nessa perspectiva, é assente que o réu foi privado do exercício da ampla defesa, sendo imperativo o reconhecimento da nulidade da intimação.
+    Ante os fundamentos expostos, supero a restrição prevista na Súmula 691/STF e defiro em parte o pedido liminar para suspender, até o julgamento final deste habeas, os efeitos da ordem de prisão decretada em desfavor do paciente Ederson Lucas Leandro Lima, se por algum outro motivo não estiver preso.
+    Comunique-se com urgência. Publique-se.
+    Estando os autos devidamente instruídos, abra-se vista à Procuradoria-Geral da República.
+    Brasília, 31 de março de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente .
