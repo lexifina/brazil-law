@@ -1,0 +1,1 @@
+CRIA A SECRETARIA DE ESTADO DE TRANSPORTE E DESENVOLVIMENTO URBANO – SETRAND, E DÁ OUTRAS PROVIDÊNCIAS. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que, no uso da delegação conferida pela Assembleia Legislativa Estadual, nos termos da Resolução nº 548, de 11 de fevereiro de 2015, DECRETO a seguinte Lei Delegada:
