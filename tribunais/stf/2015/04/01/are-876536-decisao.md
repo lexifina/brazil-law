@@ -1,0 +1,37 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. CONTRATO TEMPORÁRIO. AGENTE COMUNITÁRIO DE SAÚDE. DISPENSA POR INTERESSE PÚBLICO. PREVISÃO CONTRATUAL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO, DO CONTRATO E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “Administrativo. Mandado de Segurança. Servidor municipal contratado. Rescisão contratual. Motivos de interesse público. Possibilidade. Pedido de reintegração ao serviço público. Segurança negada. O servidor contratado, por não ser titular de cargo efetivo, mas ocupante de função pública, em caráter precário, não tem garantia de permanência no serviço público, e, portanto, direito líquido e certo ao exercício da função. Prevista contratualmente a possibilidade de rescisão contratual por motivos de interesse público, não se verificando a existência de ilegalidade do ato impugnado. Recurso não provido”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. Em seu recurso extraordinário, a Agravante afirma ter o Tribunal de origem contrariado os arts. 5º, inc. I, 37, caput e inc. IX, e 198, § 4º e § 6º, da Constituição da República.
+    Alega que
+    “dois atos administrativo absurdos caracterizam a desonra e a nulidade do ato administrativo, sobre os quais se busca justiça para a Recorrente por intermédio da segurança para anulá-los e impedir que ato discricionário ilegal e inconstitucional possa criar o precedente perigosíssimo em nível nacional para a burla da ordem de concurso público, ainda que em processo seletivo para mera contratação administrativa.
+    São os dois atos guerreados:
+    a) a rescisão discriminatória da recorrente, agente comunitária de saúde, a despeito da existência de vários outros exercentes da função em condições idênticas (inclusive que foram aprovados em ordem inferior a da Recorrente), do tempo de validade do concurso público, da respectiva prorrogação e/ou do tempo de duração da vaga provisória até a declaração de sua desnecessidade e dos termos do art. 10 da Lei Federal n. 11.350/06 (violação do inc. I do art. 5º e do caput do art. 37 da CRFB);
+    b) O vínculo especial com a Administração Pública em face de contratação embora de natureza provisória, vinculada a Concurso Público e período de duração dos termos do contrato”.
+    Requer a “reforma do v. acórdão, para se conceder a segurança pretendida e anular o ato administrativo combatido de rescisão contratual, fazendo-se cessa a prática do ato coator e, por conseguinte, consolidar o direito da Recorrente de prover a função pública de Agente Comunitário de Saúde declarado no Edital do concurso n. 001/2007”.
+    Pede o provimento do recurso (fl. 304).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de incidir, no caso, a Súmula n. 279 deste Supremo Tribunal Federal.
+    4. No voto condutor do acórdão recorrido consta:
+    “Em mandado de segurança, o direito líquido e certo deve ser provado de plano, à medida que não se admite dilação probatória.
+    (…)
+    No caso, o ato administrativo impugnado, neste mandado de segurança não se apresenta arbitrário e ilegal.
+    Extrai-se dos autos que a requerente era servidora contratada do Município de Itaúna para a prestação de serviços no cargo de Agente Comunitário de Saúde PSF-Itaunense (…)
+    O contrato vigorou de 06.06.2008 a 03.11.2009.
+    Por não ser titular de cargo efetivo, mas ocupante de função pública, em caráter precário, e, portanto, direito líquido e certo ao exercício da função, conforme alegado na inicial.
+    A cláusula oitava do contrato firmado dispõe que:
+    (…)
+    O documento de f. 52-TJ comprova que os motivos de interesse público que motivaram a rescisão do contrato da recorrente dizem respeito à diminuição de repasses de impostos do exercício de 2009 e ao atraso no recebimento dos recursos do Programa de Saúde em Casa.
+    Logo, a partir desse contexto, tem-se que não se verificar a existência de ilegalidade do ato impugnado nem comprovação de que constituiu em prática imotivada e discricionária.
+    Acolho o parecer da Procuradoria-Geral de Justiça e nego provimento à apelação.
+    Custas ex lege” (grifos nossos).
+    A apreciação do pleito recursal demandaria o reexame do conjunto fático-probatório do processo e do contrato firmado entre as partes, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 454 do Supremo Tribunal Federal:
+    “DIREITO DO TRABALHO. CONTRATO DE TRABALHO TEMPORÁRIO. CARACTERIZAÇÃO. FISCALIZAÇÃO. APLICAÇÃO DE MULTA. ARTS. 5º, II, 37, CAPUT, E 114, I E VI, DA CF/88. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356. OFENSA REFLEXA. ANÁLISE DE FATOS E PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS STF 279 E 454. TRASLADO INCOMPLETO: FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA STF 283. 1. Ausência de prequestionamento dos dispositivos constitucionais tidos como violados, porque não abordados pelo acórdão recorrido, e, embora suscitados nos embargos de declaração a ele opostos, não foram apontados oportunamente na ocasião em que foram apresentadas as razões de apelação. Súmulas STF 282 e 356. Precedentes. 2. Controvérsia decidida com fundamento no conjunto fático probatório dos autos e na legislação infraconstitucional que disciplina a matéria. Incide, na espécie, o óbice das Súmulas STF 279 e 454. 3. Permanece inatacado o fundamento da decisão agravada referente à falta, no traslado, do inteiro teor do acórdão recorrido, o que atrai a incidência da Súmula STF 283. 4. A jurisprudência desta Corte está sedimentada no sentido de que as alegações de violação a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa –, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. 5. Agravo regimental a que se nega provimento” (AI 822.570-AgR/PR, Relatora a Ministra Ellen Gracie, Segunda Turma, DJ 29.6.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. EXCEPCIONAL INTERESSE PÚBLICO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 765.306-AgR/MG, de minha relatoria, Segunda Turma, DJ 3.4.2014).
+    “EMENTA: RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Contrato temporário. Concurso público. Dispensa. Necessidade temporária. Questão de fato. Aplicação da súmula 279. Agravo regimental improvido. Não cabe recurso extraordinário que dependa de reexame de fatos e provas” (AI 488.610-AgR/RN, Relator o Ministro Cezar Peluso, Primeira Turma, DJ 25.11.2005).
+    5. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de abril de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
