@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1558, de 31 de março de 2015
+Altera a Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, que dispõe sobre normas gerais de tributação relativas ao Imposto sobre a Renda das Pessoas Físicas.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 84 e 85 da Lei nº 13.043, de 13 de novembro de 2014, no art. 2º da Lei nº 13.097, de 19 de janeiro de 2015, e na Medida Provisória nº 670, de 10 de março de 2015, resolve:
