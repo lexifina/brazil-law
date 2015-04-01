@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. CONTRATO DE FINANCIAMENTO: TARIFAS. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Colégio Recursal de Penha de França/SP:
+    “Cobrança de valores pelas Instituições inseridas no contrato de financiamento indevidas – entendimento do Superior Tribunal de Justiça no tocante à tarifa de cadastro – tarifa de cadastro reconhecida em primeiro grau como ilegal antes do julgamento do Superior Tribunal de Justiça – ausência de recurso da ré.
+    Seguro – venda casada – risco que deve ser custeado pela ré – inserto no risco de sua atividade econômica – sentença reformada apenas para declarar a referida cláusula e determinar sua restituição – sem restituição em dobro” (fl. 145).
+    2. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário: a) incidência das Súmulas ns. 282 e 283 do Supremo Tribunal Federal; b) ausência de ofensa constitucional direta; c) ausência de demonstração clara da repercussão geral da matéria discutida nestes autos” (fl. 118).
+    3. No agravo, afirma-se estarem presentes todos os pressupostos recursais para a admissão do recurso extraordinário.
+    No recurso extraordinário, alega-se ter o Colégio Recursal contrariado os arts. 1º, inc. IV, 5º, caput, incs. XXXVI, e 170, caput, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    A apreciação do pleito recursal dependeria do reexame de provas e de cláusulas contratuais, o que não pode ser adotado em recurso extraordinário, nos termos das Súmulas ns. 279 e 454 deste Supremo Tribunal.
+    Novo exame do julgado impugnado exigiria, ainda, análise prévia de legislação infraconstitucional aplicada à espécie (Código de Defesa do Consumidor). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL. COBRANÇA DE TARIFA BANCÁRIA. REEXAME DE CLÁUSULAS CONTRATUAIS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. Para se chegar a conclusão diversa daquela a que se chegou no acórdão recorrido seria necessário o reexame das cláusulas do contrato firmado entre as partes, das provas dos autos e da legislação infraconstitucional pertinente, o que é vedado na esfera do recurso extraordinário. Aplicam-se, pois, ao caso, as Súmulas 279, 454 e, mutatis mutandis, 636 deste Tribunal. Inexistência de ofensa direta à Constituição. Agravo regimental a que se nega provimento” (ARE 654.710-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 22.5.2012).
+    “ACÓRDÃO QUE DECIDIU A CONTROVÉRSIA COM BASE NA PROVA DOS AUTOS E NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. Caso em que ofensa à Carta da República, se existente, dar-se-ia de forma reflexa ou indireta, não ensejando a abertura da via extraordinária. Incidência, ainda, no caso, da Súmula n. 279 desta colenda Corte. Agravo desprovido” (AI 457.368-AgR, Relator o Ministro Ayres Britto, Primeira Turma, DJe 21.10.2005)
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Consumidor. Tarifas bancárias. Cobrança. Ausência de repercussão geral da matéria. Questão adstrita ao âmbito infraconstitucional. Precedentes. 1. O Plenário desta Corte, em sessão realizada por meio eletrônico, no julgamento do ARE n. 675.505/RJ, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral do tema relativo à possibilidade de cobrança de taxas e tarifas bancárias administrativas, acessórias aos contratos bancários, à luz do Código de Defesa do Consumidor, dado o caráter infraconstitucional da matéria. 2. Agravo regimental não provido” (ARE 708.836 AgR/SP, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 6.2.2013).
+    Nada há a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de abril de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
