@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1557, de 31 de março de 2015
+Altera a Instrução Normativa RFB nº 1.300, de 20 de novembro de 2012, que estabelece normas sobre restituição, compensação, ressarcimento e reembolso, no âmbito da Secretaria da Receita Federal do Brasil, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 7º-A da Lei nº 12.599, de 23 de março de 2012, no art. 78 da Lei nº 13.043, de 13 de novembro de 2014, e no Decreto nº 8.415, de 27 de fevereiro de 2015, resolve:
