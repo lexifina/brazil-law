@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 75, de 17 de março de 2015
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO EMENTA: Benefício fiscal concedido a um produto químico especificado na forma genérica, pelo ato concedente, aproveita a suas espécies se não houver restrição às espécies derivadas. Nesse sentido, o benefício fiscal concedido ao produto “Cefadroxila” abrange as espécies “Cefadroxila Anidro”, “Cefadroxila Hemidrato” e “Cefadroxila Monohidrato”, caso inexista restrição a qualquer espécie derivada. DISPOSITIVOS LEGAIS: Decreto nº 5.821, de 2006, art. 1º, inciso I, Anexo I, item 339; e Decreto nº 6.426, de 2008, art. 1º, inciso I, Anexo I, item 339.
+[arquivo anexo: SC Cosit nº 075-2015.pdf]
