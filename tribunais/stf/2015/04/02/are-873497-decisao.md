@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO DE QUADRO EM EXTINÇÃO: REAJUSTE. LEIS ESTADUAIS NS. 9.963/1993 E 13.444/2010. LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, als. a e c, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “RECURSO INOMINADO. CONSTITUCIONAL ADMINISTRATIVO. SERVIDOR DO QUADRO ESPECIAL EM EXTINÇÃO INSTITUÍDO PELA LEI-RS 9.963/1993. REAJUSTE CONFERIDO PELA LEI-RS 13.444/2010. CONSTITUCIONALIDADE. DIFERENÇAS REMUNERATÓRIAS.
+    Servidores dos extintos Departamento de Pesquisa e de Pesca da Secretaria da Agricultura e Abastecimento, que passaram a integrar Quadro Especial em extinção na Secretaria de Ciência e Tecnologia, permanecem subordinados ao regime jurídico a que originalmente se achavam sujeitos (art. 4º da Lei-RS 9.963/1993), não havendo, em decorrência, inconstitucionalidade no atrelamento do reajuste de seus vencimentos ao reajuste do Quadro Geral e dos Técnico-Científicos (art. 3º da Lei-RS 9.963/1993).
+    Lei-RS 13.427/2010 vedou, unicamente, a incidência de qualquer vantagem ou reajuste, à exceção da decorrente de tempo de serviço, sobre a diferença que - ante a incorporação, determinada pelo seu art. 1º, da Parcela de Estimulo à Pesquisa Agropecuária ao vencimento básico dos servidores do Quadro Especial em extinção instituído pela Lei-RS 9.963/1993 -, ultrapassar, em 31/7/2010, o novo escalonamento de vencimento básico estabelecido em seu “anexo único” (art. 3º).
+    Contracheques carreados autos evidenciam inexistência de diferença explicitada no art. 3º da Lei-RS 13.427/2010, o que implica incidência dos reajustes conferidos, de forma cumulativa, pela Lei-RS nº 13.444/2010 ao Quadro Geral e dos Técnicos Científicos (art. 1º), no integral vencimento básico da parte autora, em cumprimento ao disposto no art. 3º da Lei-RS 9.963/1993.
+    NEGARAM PROVIMENTO AO RECURSO, MANTENDO A SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS” (fl. 83).
+    2. No recurso extraordinário, o Agravante alega ter o Tribunal de origem contrariado o art. 37, caput e incs. X e XIII, da Constituição da República.
+    3. Inadmitiu-se o recurso extraordinário ao fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. No julgamento do ARE 821.480, Relator o Ministro Roberto Barroso, este Supremo Tribunal assentou sem repercussão geral a controvérsia sobre a “possibilidade de servidores que passaram a integrar quadro especial em extinção receberem reajustes remuneratórios de acordo a Lei estadual 13.444/2010”, por não se tratar de matéria constitucional:
+    “SERVIDOR PÚBLICO ESTADUAL. DIREITO A DIFERENÇAS REMUNERATÓRIAS. 1. Segundo o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, os servidores do extinto Departamento de Pesquisa e de Pesca da Secretaria da Agricultura e Abastecimento, que passaram a integrar Quadro Especial em extinção na Secretaria de Ciência e Tecnologia, permanecem subordinados ao regime jurídico a que originalmente se achavam sujeitos, fazendo jus ao atrelamento do reajuste de seus vencimentos ao reajuste do Quadro Geral e dos Técnico-Científicos. 2. Discussão relativa ao reconhecimento de direitos a diferenças remuneratórias e a reajustes de servidores pertencentes a uma mesma categoria que envolve interpretação de legislação local (Leis estaduais nº 9.963/1993 e nº 13.444/2010), sendo, por isso mesmo, de natureza infraconstitucional. 3. Inexistência de repercussão geral” (DJe 21.10.2014).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos que suscitarem a mesma questão constitucional devem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Não há, pois, o que prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de abril de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
