@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, XXXVI, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+     “Agravo regimental em embargos de divergência em agravo regimental em agravo de instrumento. 2. Inexistência de direito adquirido a regime jurídico, consubstanciado nas parcelas que compõem a estrutura remuneratória de servidores inativos, desde que observada a irredutibilidade salarial. Precedentes. 3. A MP 2.131/2000 suprimiu validamente rubrica outrora devida aos militares da reserva da União a título de adicional de inatividade, porquanto as alterações nela veiculadas não resultaram na diminuição do valor global da remuneração dos servidores afetados. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (AI 632.933-AgR/EDv-AgR/RJ, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe 30.10.2014)
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de entendimento. O instituto visa o cotejo indispensável a que se diga enquadrado o recurso extraordinário no permissivo constitucional. PROVENTOS – ALTERAÇÃO – PESSOAL DA ATIVA – SUPRESSÃO DE PARCELA – EXTENSÃO – PRECEDENTE. De acordo com entendimento consolidado do Supremo, não viola o texto constitucional a supressão do adicional de inatividade percebido pelos militares (ED-Emb.Div. Ag AI 665.622, relatado pelo ministro Ricardo Lewandowski no Pleno em 6 de outubro de 2011, ocasião em que fiquei vencido).” (ARE 751.714-AgR/PE, Rel. Min Marco Aurélio, 1ª Turma, DJe 22.4.2014)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de abril de 2015.
+Ministra Rosa Weber
+Relatora
