@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Denise Bernardi Martins interpõe agravo contra decisão que não admitiu recurso extraordinário, assentado em contrariedade aos arts. 5º, inciso LV, e 133 da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+    “REVISÃO CRIMINAL. DELITO DE ROUBO. PRELIMINAR. INTERCEPTAÇÃO TELEFÔNICA. AUSÊNCIA DE NULIDADE. DESNECESSIDADE, ALÉM DISSO, DE DISCUSSÃO. A prova em questão foi autorizada judicialmente, assim como as renovações das escutas, apenas não tendo sido feita em autos apartados, o que constitui mera irregularidade. De qualquer forma, é irrelevante fazer qualquer juízo sobre a validade da interceptação telefônica, pois o juízo condenatório foi extraído do restante da prova produzida durante a instrução criminal.
+    MÉRITO. INOCORRÊNCIA DE QUALQUER DAS HIPÓTESES DO ART. 621 DO CPP. É incabível, em sede de revisão criminal, a reapreciação das mesmas questões já discutidas n sentença e no acórdão, como pretende o requerente, quanto à pena fixada, inviável sua apreciação em sede de revisão criminal, porquanto utilizados os critérios estritamente legais para sua fixação. PRELIMINARES REJEITADAS. AÇÃO JULGADA IMPROCEDENTE. UNÂNIME”.
+    Sustenta a agravante, em síntese, que o art. 5º, inciso LV, da Constituição Federal teria sido violado, haja vista não teria sido juntada aos autos a degravação integral, obtida com a interceptação telefônica e que, por outro lado, a interceptação teria se dado com violação da garantia de sigilo profissional, malferindo o art. 133 da Lei Maior.
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que o acórdão proferido em sede de embargos de declaração foi publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO), Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07). Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No caso, o inconformismo não merece prosperar.
+    Com efeito, os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, a jurisprudência desta Suprema Corte é assente no sentido de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta e frontal à Constituição da República.
+    Nessa linha de entendimento anote-se: AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito , DJ de 27/6/08; AI nº 651.927/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa , DJe de 30/5/08; AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia , DJ de 1º/6/07; AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07; AI nº 813.850/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie , DJe de 29/11/10, entre outros.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 6 de abril de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
