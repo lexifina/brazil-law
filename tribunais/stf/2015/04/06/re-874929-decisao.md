@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, manejam recurso extraordinário, com base no art. 102, III, da Lei Maior, Rafael Granzotto Muzulon e outro(a/s). Aparelhado o recurso na afronta ao art. 195, § 8º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Está no acórdão recorrido:
+    “No caso concreto, não há qualquer prova demonstrando a situação de empregador do autor, à mingua da juntada de documento hábil a comprovar tal requisito (RAIS, CEI, carteiras de trabalho, GPS, livro de registro de empregados, etc).
+    O togado singular, assim fundamentou a sentença, no ponto:
+    Além disso, a meu ver, o acórdão proferido pelo STF exime do recolhimento da contribuição ao FUNRURAL somente as pessoas físicas empregadoras rurais. O autor, porém, não comprovou ser pessoa física empregadora rural, nada obstante a sua regular intimação para tanto, uma vez que considera essa diligência desnecessária (v. manifestação expressa nesse sentido, anexada ao Evento 33, PET1). Portanto, não pode invocar aquele julgado para se eximir do recolhimento da exação questionada.
+    Assim, ausentes provas que permitam concluir tratar-se de empregador rural, resta mantida a sentença que julgou improcedente a demanda. Prejudicada a análise do recurso, no ponto relativo à prescrição, ante a falta de interesse recursal, uma vez confirmada a improcedência da ação.“ (fl. 315, vol. 03)
+    Nesse contexto, verifico que o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Anoto precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Inexistência. Súmulas nºs 282 e 356/STF. Prequestionamento implícito. Impossibilidade. Contribuição previdenciária. Ausência de comprovação da condição de empregador rural pessoa física. Revolvimento de fatos e provas. Súmula 279/STF. 1. A simples afirmação da Turma Recursal no sentido de que os dispositivos constitucionais estariam prequestionados não supre o requisito do prequestionamento. Incidência das Súmulas 282 e 356/STF. 2. O Supremo Tribunal Federal não admite a tese do chamado prequestionamento implícito. Caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional. 3. O acórdão recorrido assentou que a condição de empregador rural pessoa física não foi comprovada nos autos. Assim, para ultrapassar o entendimento da instância de origem, seria necessário o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279/STF.” (ARE 784217 AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 02.02.2015)
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais.” (ARE 788220 AgR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 30.5.2014)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 06 de abril de 2015.
+Ministra Rosa Weber
+Relatora
