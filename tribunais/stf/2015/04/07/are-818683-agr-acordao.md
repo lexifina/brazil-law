@@ -1,0 +1,702 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 15
+
+07/04/2015
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 818.683 RIO DE
+JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. DIAS TOFFOLI
+: EDEMAR INGRACIO DOS SANTOS FILHO
+OUTRO(A/S)
+: GERSON LUCCHESI BRITO DE OLIVEIRA
+OUTRO(A/S)
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+
+E
+E
+
+EMENTA
+Agravo regimental no recurso extraordinário com agravo.
+Constitucional. Anistia. Artigo 8º do ADCT. Promoção no quadro da
+carreira de praça. Pretensão já acolhida pela Corte de origem. Ausência
+de interesse recursal. Precedentes.
+1. A pretensão dos agravantes, anistiados políticos, de serem
+promovidos dentro do quadro da carreira de praça à qual pertenciam
+quando do afastamento já foi resguardada pela Corte de origem, donde
+se deflui que o pleito carece de interesse recursal.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, sob a Presidência do
+Senhor Ministro Teori Zavascki, na conformidade da ata do julgamento e
+das notas taquigráficas, por unanimidade de votos, em negar provimento
+ao agravo regimental, nos termos do voto do Relator.
+Brasília, 7 de abril de 2015.
+MINISTRO DIAS TOFFOLI
+Relator
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531524.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 15
+
+07/04/2015
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 818.683 RIO DE
+JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. DIAS TOFFOLI
+: EDEMAR INGRACIO DOS SANTOS FILHO
+OUTRO(A/S)
+: GERSON LUCCHESI BRITO DE OLIVEIRA
+OUTRO(A/S)
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+
+E
+E
+
+RELATÓRIO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Edemar Ingrácio dos Santos Filho e outro interpõem tempestivo
+agravo regimental contra decisão em que conheci de agravo para negar
+seguimento ao recurso extraordinário, com a seguinte fundamentação:
+“Tratam-se de agravos contra decisões que não admitiram
+recursos extraordinários interpostos contra acórdão da Sétima
+Turma Especializada do Tribunal Regional Federal da 2º Região,
+assim ementado:
+‘DIREITO
+ADMINISTRATIVO
+E
+CONSTITUCIONAL. MILITAR. ANISTIA ART. 8º, ADCT.
+ASSEMBLÉIA DOS MARINHEIROS. REPETIÇÃO DE
+DEMANDA POR UM DOS AUTORES. CONDENAÇÃO
+EM SANÇÃO PECUNIÁRIA POR LITIGÂNCIA DE MÁ
+FÉ. EXCLUSÃO, DO CÁLCULO DA CONDENAÇÃO,
+DO CÔMPUTO EM DOBRO DAS FÉRIAS NÃO
+GOZADAS PARA CONTAGEM DE TEMPO DE
+SERVIÇO. PROMOÇÃO DENTRO DO QUADRO DE
+PRAÇAS DA MARINHA, OBSTADA A ASCENSÃO DOS
+AUTORES AO OFICIALATO. INTERPRETAÇÃO DO
+DISPOSITIVO PREVISTO NO ART. 6o DA LEI No
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 15
+
+ARE 818683 AGR / RJ
+10.559/02 EM CONSONÂNCIA COM O ART. 8º DO
+ADCT, À LUZ DE UM CRITÉRIO LÓGICO-RACIONAL.
+JUROS MORATÓRIOS CONTRA A FAZENDA PÚBLICA.
+INCIDÊNCIA IMEDIATA DO DISPOSITIVO PREVISTO
+NO ART. 1º-F DA LEI Nº 9.494/97, ALTERADA PELA LEI
+Nº 11.960/2009.
+1 – Trata-se de licenciamento de Praças da Marinha
+por meio do Ato no 424, de 30.11.1964, fundamentado na
+Exposição de Motivos no 138, de 21.08.1964, por terem
+participado da chamada ‘Assembléia dos Marinheiros’ em
+1964. Ato de conteúdo eminentemente político, suscetível
+de gerar o direito a anistia. Precedentes desta Corte.
+2 – Julgado parcialmente procedente o pedido,
+assegurando-se a anistia de que trata o art. 8º do ADCT,
+com a inclusão dos autores na reserva remunerada,
+asseguradas as promoções, na inatividade, aos postos ou
+graduação a que fariam jus se em atividade, pelo critério
+da antiguidade, com o cômputo em dobro das férias e
+licença-prêmio não gozadas para efeito de contagem de
+tempo de serviço, ressalvada, no que se refere aos efeitos
+financeiros da decisão, a prescrição quinquenal das
+parcelas pecuniárias vencidas.
+3 – Renovação indevida da demanda por um dos
+litisconsortes, que já havia obtido pronunciamento judicial
+desfavorável à sua pretensão em 1993, por já ter sido
+beneficiado pelos efeitos da Lei no 6.683/79, como
+reconhecido judicialmente em outro processo, ajuizado
+nos idos de 1980. Omissão de tais fatos, a configurar a
+litigância de má-fé. Aplicação do disposto no art. 14 do
+CPC.
+4 – O cômputo em dobro das férias não gozadas para
+efeito de contagem de tempo de serviço é situação
+excepcional, já que somente é obstada a fruição das férias
+por interesse da segurança nacional, à manutenção da
+ordem ou à necessidade do serviço, além de outras
+hipóteses extraordinárias, tais como o cumprimento de
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 15
+
+ARE 818683 AGR / RJ
+punição e a baixa a hospital, não sendo razoável presumir,
+mesmo por ficção jurídica, que, ao longo de todo o
+período em atividade, os militares tivessem tido obstado o
+direito à fruição das férias. No que se refere à licença
+especial, como se trata de faculdade do militar requerê-la
+ou não, a presunção milita a favor do militar.
+5 – Deve-se entender a menção do Juízo a quo
+quanto às promoções aos postos ou graduações a que os
+demais litisconsortes teriam direito, se tivessem
+permanecido no serviço ativo, na forma da lei e dos
+regulamentos militares aplicáveis, como restrita ao quadro
+de praças do qual faziam parte quando do ato de
+licenciamento, não sendo um efeito lógico decorrente da
+anistia a ascensão de praça ao oficialato.
+6 – Aos juros moratórios aplica-se o disposto no art.
+1º-F, da Lei nº 9.494/97, alterada pela Lei nº 11.960/09,
+norma de caráter processual de incidência imediata.
+7 – Apelação dos autores a que se nega provimento.
+Remessa necessária e apelação da União Federal
+parcialmente providas’.
+Opostos embargos de declaração, não foram providos.
+Sustenta a União, nas razões de seu recurso
+extraordinário, violação do artigo 8º do Ato das Disposições
+Constitucionais Transitórias. Afirma que ‘os Autores, ora
+Recorridos, não fazem jus aos benefícios da anistia política
+instituída pela Constituição Federal de 1988’, aduzindo que
+‘somente fará jus à anistia política o militar afastado das Forças
+Armadas por ato de exceção, institucional ou complementar, e
+não com fundamento na legislação ordinária’.
+Por outro lado, no apelo extremo interposto por Edemar
+Ingracio dos Santos Filho e Antônio de Almeida Limar, pleiteiase a ‘reforma do Acórdão atacado, posto que o mesmo foi
+ATINGIDO POR UM ATO DE EXCEÇÃO, e teve as portas da
+Marinha do Brasil fechadas pelo regime estritamente político e
+ilegítimo que imperava a época’.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 15
+
+ARE 818683 AGR / RJ
+Requerem, também, o ‘conhecimento do presente recurso,
+para que o mesmo seja posteriormente julgado procedente,
+afastando o entendimento preconizado na decisão recorrida,
+concedendo aos Recorrentes o reconhecimento de seus
+direitos a todas as promoções possíveis na carreira militar, de
+acordo com o art. 8º do ADCT de 1988, regulamentado pela
+Lei 10.559/02’.
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi
+interposto contra acórdão publicado após 3/5/07, quando já era
+plenamente exigível a demonstração da repercussão geral da
+matéria constitucional objeto do recurso, conforme decidido na
+Questão de Ordem no Agravo de Instrumento nº 664.567/RS,
+Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de
+6/9/07.
+Todavia, apesar da petição recursal haver trazido a
+preliminar sobre o tema, não é de se proceder ao exame de sua
+existência, uma vez que, nos termos do artigo 323 do Regimento
+Interno do Supremo Tribunal Federal, com a redação
+introduzida pela Emenda Regimental nº 21/07, primeira parte, o
+procedimento acerca da existência da repercussão geral
+somente ocorrerá ‘quando não for o caso de inadmissibilidade
+do recurso por outra razão’.
+As irresignações não merecem prosperar.
+No tocante ao pleito da União, verifica-se que o acórdão
+recorrido consignou, expressamente, que o ato de expulsão dos
+militares em questão se deu por motivação política. Colhe-se do
+voto condutor:
+‘(...)
+Entretanto, o referido Ato nº 424 de 30 de novembro
+de 1964 traz expressa menção do Despacho Presidencial
+nº 27.469/64 exarado na Exposição de Motivos nº 138, de
+21.08.1964, do Ministro da Marinha (f. 96/98), cujo
+conteúdo evidencia a motivação política ao ato de
+licenciamento, especialmente se analisado o documento à
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 15
+
+ARE 818683 AGR / RJ
+luz do contexto da época’.
+Nesse caso, é certo que para acolher a pretensão da
+recorrente e ultrapassar o entendimento firmado pelo Tribunal
+de origem, seria necessário o reexame dos fatos e provas que
+permeiam a lide, operação vedada em sede de recurso
+extraordinário. Incidência da Súmula nº 279 desta Suprema
+Corte. Sobre o tema, anote-se:
+‘CONSTITUCIONAL.
+ADMINISTRATIVO.
+AGRAVO
+REGIMENTAL
+EM
+AGRAVO
+DE
+INSTRUMENTO. ANISTIA. MILITAR DO MINISTÉRIO
+DA MARINHA. ART. 8º do ADCT/1988. REEXAME DE
+FATOS E PROVAS. SÚMULA STF 279. 1.
+O Tribunal
+de origem reconheceu o direito dos agravados à anistia
+com base no art. 8º do ADCT/1988, por entender que eles
+foram excluídos do serviço ativo por ato de exceção, de
+cunho puramente político. 2. Para reforma do acórdão
+recorrido é imprescindível o reexame de fatos e de provas,
+inviável em sede extraordinária, em razão do óbice
+previsto na Súmula STF 279. Precedentes. 3.Agravo
+regimental a que se nega provimento’ (AI nº 622.044/RJAgR, Segunda Turma, Relatora a Ministra Ellen Gracie,
+DJe de 5/4/11).
+‘AGRAVO REGIMENTAL EM AGRAVO DE
+INSTRUMENTO. MILITAR. ANISTIA. ART. 8º DO ADCT.
+NATUREZA DO ATO DE EXPULSÃO. REEXAME DE
+FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO
+IMPROVIDO. I – A controvérsia sobre a natureza jurídica
+do ato de expulsão do militar, para efeito de concessão da
+anistia prevista no art. 8º do ADCT, requer o reexame do
+conjunto fático-probatório dos autos, o que inviabiliza o
+recurso extraordinário, nos termos da Súmula 279 do STF.
+II - Agravo regimental improvido’ (AI nº 796.633/RJ-AgR,
+Primeira
+Turma,
+Relator
+o
+Ministro
+Ricardo
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 15
+
+ARE 818683 AGR / RJ
+Lewandowski, DJe de 4/3/11).
+‘AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO. MILITAR. ANISTIA. ART. 8º DO
+ADCT. NATUREZA DO ATO DE EXPULSÃO. REEXAME
+DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO
+IMPROVIDO. I – A controvérsia acerca da natureza
+jurídica do ato de expulsão do militar, para efeito de
+concessão da anistia prevista no art. 8º do ADCT, requer o
+reexame do conjunto fático-probatório dos autos, o que
+inviabiliza o recurso extraordinário, nos termos da Súmula
+279 do STF. II - Agravo regimental improvido’ (RE nº
+601.202/RJ-AgR, Primeira Turma, Relator o Ministro
+Ricardo Lewandowski, DJe de 10/11/10).
+‘RECURSO EXTRAORDINÁRIO - EXPULSÃO DE
+MILITAR DAS FILEIRAS DAS FORÇAS ARMADAS NATUREZA JURÍDICA DO ATO - NECESSIDADE DE
+REEXAME DE FATOS E PROVAS - IMPOSSIBILIDADE SÚMULA 279/STF - RECURSO IMPROVIDO. - Não cabe
+recurso extraordinário, quando interposto com o objetivo
+de discutir questões de fato’ (RE nº 382.482/SP-AgR,
+Segunda Turma, Relator o Ministro Celso de Mello, DJ de
+19/11/04).
+Nesse mesmo sentido, anote-se as seguintes decisões
+monocráticas: RE nº 641.538/RJ, Relator o Ministro Joaquim
+Barbosa, DJe de 1º/6/12; AI nº 629.891/RJ, Relator o Ministro
+Ayres Britto, DJe de 9/12/10; RE nº 501.414/RJ, Relatora a
+Ministra Cármen Lúcia, DJe de 7/8/8; e RE nº 491.893/RJ,
+Relator o Ministro Celso de Mello, DJ25/8/06.
+Por outro lado, no que concerne ao apelo extremo dos
+militares ora recorrentes, transcrevo do voto condutor ao
+acórdão atacado:
+‘(...)
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 15
+
+ARE 818683 AGR / RJ
+Sobre a anistia, destaco que, a partir do consenso das
+forças políticas para a convocação de uma Assembléia
+Nacional Constituinte por meio da qual foi consagrado, na
+CRFB de 1988, o respeito ao Estado Democrático de
+Direito, de acordo com as aspirações do povo brasileiro,
+nada mais consentâneo com a nova República que o
+reconhecimento do direito à reparação aos atingidos por
+atos de exceção no regime anterior, como forma de se
+conferir efetividade ao princípio da proteção à dignidade
+da pessoa humana, erigida como fundamento da
+República Federativa do Brasil. Daí os julgadores, entre os
+quais o MM. Desembargador Federal André Fontes, se
+referirem ao direito à anistia como ‘fundamento material e
+conditio sine qua non da Nova República nascida em 1988’.
+Entretanto, o instituto da anistia se reveste de
+peculiaridades
+que
+devem
+ser
+cuidadosamente
+consideradas pelo julgador quando da análise do caso
+concreto, posto que, aqui, se trabalha à base de
+presunções, de ficções jurídicas, cujo estabelecimento
+deve obedecer a uma certa lógica. Se assim não for, e o
+instituto for aplicado sem o rigor que dele se exige, há o
+risco de, por um lado, não se atingir o alcance pretendido
+pelo constituinte ou, de outro, de se ampliar
+inadequadamente seus efeitos, de modo a fazer surgir
+situações de fato imponderáveis, as quais, em
+circunstâncias normais, não teriam o menor respaldo na
+legislação de regência.
+Daí que, em que pesem as ponderações dos apelados
+na peça de f. 813/832, entendo que deve ser devidamente
+interpretada a norma prevista no art. 6º, § 3º, da Lei no
+10.559/02, definindo-se sua correta extensão a partir do
+recente entendimento do STF sobre a matéria, a fim de se
+perquirir se o militar excluído do serviço ativo na
+condição de praça poderá ou não ascender ao oficialato,
+simplesmente por força das disposições concernentes à
+anistia.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 15
+
+ARE 818683 AGR / RJ
+Vejamos a ementa do julgado dos embargos de
+divergência no RE nº 166791/DF, Relator Min. Gilmar
+Mendes:
+(…)
+Resta saber como e em que extensão o citado
+precedente deve servir como premissa para a solução do
+caso concreto.
+Do julgado é possível depreender duas leituras. A
+primeira, admitindo, numa interpretação por demasiado
+extensiva da legislação de regência, que, tomando-se como
+base única e exclusivamente o tempo de permanência na
+carreira, seja efeito direto da anistia a ascensão da praça ao
+oficialato.
+A segunda, partindo de uma interpretação
+consentânea com as normas que estruturam a organização
+militar, considerando, portanto, as peculiaridades da
+própria carreira, dividida em duas categorias distintas e
+isoladas – a de praças e a de oficiais. De acordo com essa
+leitura, que entendo mais adequada porque obedece a um
+critério lógico-racional, conceder-se-á ao anistiado as
+oportunidades que, em tese, a lei lhe asseguraria caso
+tivesse permanecido no serviço ativo, não se podendo
+presumir mais do que a realidade dos fatos possibilita.
+Assim, vê-se que o corpo de graduados (ou praças)
+da Marinha do Brasil compreende, em ordem crescente de
+patente: Marinheiro, Cabo, Terceiro-Sargento, SegundoSargento, Primeiro-Sargento, Sub-Oficial; já o corpo de
+oficiais se divide em oficiais subalternos (GuardaMarinha,
+Segundo-Tenente,
+Primeiro-Tenente),
+intermediários (Capitão-Tenente), superiores (Capitão de
+Corveta, Capitão de Fragata, Capitão de Mar-e-Guerra) e
+oficiais-generais (o almirantado), que compreende as
+patentes de Contra-Almirante, Vice-Almirante, Almirantede-Esquadra e Almirante.
+Como bem salientou a UNIÃO, o acesso ao quadro
+de oficiais não é decorrência lógica do tempo de serviço no
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 15
+
+ARE 818683 AGR / RJ
+quadro de praças, mas depende de concurso específico
+para esse fim – posto que obedece a forma de ingresso
+própria. O que é decorrência lógica do tempo de serviço, a
+ser considerada quando da presunção que diz respeito aos
+efeitos da anistia, é a ascensão do militar às patentes
+dentro de cada quadro’.
+Dessa forma, verifica-se que o acórdão recorrido está em
+perfeita conformidade com a orientação jurisprudencial
+firmada por esta Suprema Corte.
+Com efeito, muito embora o Plenário do Supremo
+Tribunal Federal, no julgamento do RE nº 165.438/DF, Relator o
+Ministro Carlos Velloso (DJ de 5/5/06), tenha modificado o
+entendimento expressamente adotado na jurisprudência
+anterior, para passar a admitir, a anistiados, o direito às
+promoções que fossem condicionadas, em atividade, ao
+atendimento de critérios subjetivos, a exemplo da promoção
+por merecimento, o certo é que essas promoções devem se
+limitar ao mesmo quadro da carreira militar que o anistiado
+integrava. Nesse sentido, anote-se
+‘Agravo regimental no recurso extraordinário com
+agravo. Constitucional. Anistia. Artigo 8º do ADCT.
+Observância do quadro de carreira. Necessidade.
+Precedentes. 1. A jurisprudência do Supremo Tribunal
+Federal é no sentido de que o art. 8º do ADCT abrange as
+promoções tanto por antiguidade quanto por
+merecimento, desde que observados os prazos de
+permanência em atividade previstos nas normas de
+regência e que elas estejam compreendidas dentro do
+quadro de carreira a que pertencia o anistiado. 2. Agravo
+regimental não provido’ (ARE nº 744.491/DF-AgR,
+Primeira Turma, de minha relatoria, DJe de 3/10/13).
+‘DIREITO
+CONSTITUCIONAL
+E
+ADMINISTRATIVO. ART. 8º DO ATO DAS DISPOSIÇÕES
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 15
+
+ARE 818683 AGR / RJ
+CONSTITUCIONAIS
+TRANSITÓRIAS.
+ANISTIA.
+DIREITO À PROMOÇÃO RESTRITO AO QUADRO DE
+CARREIRA
+INTEGRADO
+PELO
+MILITAR.
+PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO
+EM 27.7.2010. O art. 8º do Ato das Disposições
+Constitucionais Transitórias abrange as promoções
+fundadas nos critérios de antiguidade e merecimento,
+observados os prazos de permanência em atividades
+inscritas nas leis e regulamentos vigentes, vedada, no
+entanto, a promoção ao quadro de carreira diverso
+daquele integrado pelo militar anistiado. Agravo
+regimental conhecido e não provido’ (ARE nº 718.938/RJAgR, Primeira Turma, Relatora a Ministra Rosa Weber,
+DJe de 21/5/13).
+‘EMBARGOS DE DECLARAÇÃO RECEBIDOS
+COMO AGRAVO REGIMENTAL. CONSTITUCIONAL E
+ADMINISTRATIVO. ART. 8º DO ADCT. ANISTIA.
+MILITAR. PROMOÇÃO A POSTO DE CARREIRA
+DIVERSA.
+IMPOSSIBILIDADE.
+ANÁLISE
+DOS
+QUADROS DA CARREIRA MILITAR. INVIABILIDADE.
+REEXAME DE MATÉRIA INFRACONSTITUCIONAL.
+AGRAVO
+REGIMENTAL
+A
+QUE
+SE
+NEGA
+PROVIMENTO’ (RE nº 632.176/DF-ED, Segunda Turma,
+Relator o Ministro Teori Zavascki, DJe de 30/4/13).
+‘AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO. MILITAR. ANISTIA. ART. 8º DO
+ADCT. PROMOÇÃO À CARREIRA DIVERSA DAQUELA
+INTEGRADA PELO ANISTIADO. IMPOSSIBILIDADE.
+AGRAVO IMPROVIDO. I – Consoante jurisprudência
+desta Corte, as promoções concedidas na forma do art. 8º
+do ADCT devem ser realizadas dentro da mesma carreira
+a que pertence o militar anistiado. II - Agravo regimental
+improvido’ (RE nº 705.139/RJ-AgR, Segunda Turma,
+Relator o Ministro Ricardo Lewandowski, DJe de 18/3/13).
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 15
+
+ARE 818683 AGR / RJ
+
+Ressalte-se, por fim, que recentemente, na sessão de 2 de
+maio de 2014, o Plenário do Supremo Tribunal Federal, ao
+apreciar o ARE nº 799.908/DF, Relator o Ministro Gilmar
+Mendes (DJe de 4/6/14), reconheceu a existência da repercussão
+geral da questão constitucional versada neste feito e reafirmou a
+jurisprudência desta Corte, firmada no sentido de que as
+promoções a que se referem o artigo 8º do ADCT devem se
+restringir à mesma carreira a que pertence o militar anistiado.
+Ante o exposto, conheço dos agravos para negar
+seguimento aos recursos extraordinários.
+Publique-se.”
+
+Aduzem os agravantes, in verbis, que compulsando
+“(…) os autos verifica-se que toda a controvérsia gira em
+torno da possibilidade ou não de haverem promoções além do
+quadro de carreira que os agravantes pertenciam à época de seu
+desligamento, sendo certo que os mesmos ocupavam o círculo
+de praças.
+(…)
+(…) requer [seja provido o] presente recurso, a fim de
+reformar a decisão vergastada para que o Recurso
+Extraordinário outrora interposto seja admitido e provido ao
+menos parcialmente, para reconhecer o direito dos agravantes
+às promoções dentro do quadro de carreira que pertenciam”.
+
+É o relatório.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531521.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 13 de 15
+
+07/04/2015
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 818.683 RIO DE
+JANEIRO
+VOTO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Não merece prosperar a irresignação.
+Pleiteiam os agravantes, na petição do agravo regimental, a reforma
+da decisão agravada, de modo que o recurso extraordinário seja provido
+parcialmente e que lhes seja reconhecido o direito às promoções dentro
+do quadro de carreira a que pertenciam, no caso a carreira de praça.
+Nesse contexto, colhe-se do voto condutor do acórdão recorrido:
+“Assim, vê-se que o corpo de graduados (ou praças) da
+Marinha do Brasil compreende, em ordem crescente de patente:
+Marinheiro, Cabo, Terceiro-Sargento, Segundo-Sargento,
+Primeiro-Sargento, Sub-Oficial; já o corpo de oficiais se divide
+em oficiais subalternos (Guarda-Marinha, Segundo-Tenente,
+Primeiro-Tenente), intermediários (Capitão-Tenente), superiores
+(Capitão de Corveta, Capitão de Fragata, Capitão de Mar-eGuerra) e oficiais-generais (o almirantado), que compreende as
+patentes de Contra-Almirante, Vice-Almirante, Almirante-deEsquadra e Almirante.
+(...) o acesso ao quadro de oficiais não é decorrência lógica
+do tempo de serviço no quadro de praças, mas depende de
+concurso específico para esse fim – posto que obedece a forma
+de ingresso própria. O que é decorrência lógica do tempo de
+serviço, a ser considerada quando da presunção que diz
+respeito aos efeitos da anistia, é a ascensão do militar às
+patentes dentro de cada quadro.
+(…)
+(…) Reformo, parte, a sentença, nos seguintes termos:
+(…)
+c) ressalvar que a menção do Juízo a quo quanto às
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531522.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 14 de 15
+
+ARE 818683 AGR / RJ
+promoções aos postos ou graduações a que os autores
+EDEMAR INGRACIO DOS SANTOS e ANTÔNIO DE
+ALMEIDA LIMA teriam direito, se tivessem
+permanecido no serviço ativo, na forma da lei e dos
+regulamentos militares aplicáveis, se restringem ao
+quadro de praças do qual faziam parte quando do ato de
+licenciamento (...)”
+
+Conforme expresso na decisão agravada, a Corte de origem não
+divergiu do entendimento adotado neste Tribunal no sentido de que o art.
+8º do ADCT abrange tanto as promoções por antiguidade quanto por
+merecimento, desde que compreendidas dentro do quadro da carreira a
+que pertencia o anistiado e desde que observados os prazos de
+permanência em atividade previstos nas normas de regência.
+Verifica-se, ademais, que o Tribunal Regional Federal da 2ª Região,
+ao reformar, em parte, a sentença de primeiro grau, vedou o acesso dos
+agravantes ao oficialato, ressalvando expressamente que a reforma não
+atingiria o direito de eles ascenderem dentro da própria carreira.
+Desse modo, é certo que o pedido dos agravantes de serem
+promovidos dentro do quadro da carreira de praça carece de interesse
+recursal, haja vista que já foi resguardado pelo Tribunal a quo no
+julgamento da apelação.
+Nego provimento ao agravo regimental.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 8531522.
+
+Supremo Tribunal Federal
+Extrato de Ata - 07/04/2015
+
+Inteiro Teor do Acórdão - Página 15 de 15
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 818.683
+PROCED. : RIO DE JANEIRO
+RELATOR : MIN. DIAS TOFFOLI
+AGTE.(S) : EDEMAR INGRACIO DOS SANTOS FILHO E OUTRO(A/S)
+ADV.(A/S) : GERSON LUCCHESI BRITO DE OLIVEIRA E OUTRO(A/S)
+AGDO.(A/S) : UNIÃO
+PROC.(A/S)(ES) : ADVOGADO-GERAL DA UNIÃO
+Decisão: A Turma, por votação unânime, negou provimento ao
+agravo regimental, nos termos do voto do Relator. Ausentes,
+justificadamente, os Senhores Ministros Celso de Mello e Gilmar
+Mendes. Presidência do Senhor Ministro Teori Zavascki. 2ª Turma,
+07.04.2015.
+Presidência do Senhor Ministro Teori Zavascki. Presentes à
+sessão a Senhora Ministra Cármen Lúcia e o Senhor Ministro Dias
+Toffoli. Ausentes, justificadamente, os Senhores Ministros Celso
+de Mello e Gilmar Mendes.
+Subprocurador-Geral
+Almeida.
+
+da
+
+República,
+
+Dr.
+
+Edson
+
+Oliveira
+
+de
+
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 8246007
