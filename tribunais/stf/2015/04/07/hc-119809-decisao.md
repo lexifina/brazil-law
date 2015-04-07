@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de habeas corpus impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça proferido nos autos do RHC 39.765/AL, Rel. Min. Laurita Vaz. Consta dos autos, em síntese, que: (a) o paciente foi pronunciado pela suposta prática do crime de tentativa de homicídio (art. 121, caput, c/c o art. 14, II, ambos do CP); (b) irresignado, impetrou habeas corpus no Tribunal de Justiça do Estado de Alagoas, que denegou a ordem, e, na sequência, interpôs RHC no Superior Tribunal de Justiça, ocasião em que a Quinta Turma desproveu o recurso, em acórdão assim ementado:
+    “(...) 1. O Magistrado Singular, na sentença de pronúncia, limitou-se a demonstrar, de forma comedida, a materialidade do crime e os indícios de autoria da conduta delitiva para submeter o ora Paciente a julgamento pelo Tribunal do Júri, sem incorrer no vício do excesso de linguagem.
+    2. A prolação de sentença de pronúncia exige a explicitação suficiente dos fundamentos que levaram o magistrado a assim decidir, evitando-se futura arguição de nulidade por violação ao art. 93, IX, da Constituição Federal.
+    3. Recurso desprovido.
+    Nesta ação, a impetrante alega, em suma, que, “quando da sentença de pronúncia, o juiz singular teceu valorações subjetivas acerca de autoria e materialidade, não limitando sua fundamentação aos ditames do artigo 413, § 1º, adentrando, portanto, no mérito da causa”.
+    Em parecer, a Procuradoria-Geral da República manifestou-se pela denegação da ordem.
+    2. Esta Corte firmou entendimento de que o reconhecimento de nulidade dos atos processuais demanda, em regra, a demonstração do efetivo prejuízo causado à parte. Vale dizer, o pedido deve expor, claramente, como o novo ato beneficiaria o réu. Sem isso, estar-se-ia diante de um exercício de formalismo exagerado, que certamente comprometeria o objetivo maior da atividade jurisdicional (v.g., entre outros, HC 85155, Relator(a): Min. ELLEN GRACIE, Segunda Turma, DJ 15-04-2005; RHC 117096, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 15-10-2013; RHC 117674, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 07-10-2013; HC 115336, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 05-06-2013).
+    Na espécie, não há qualquer indicação de que o alegado vício tenha acarretada efetivo prejuízo ao réu, sobretudo se considerado que, na sessão de julgamento no Tribunal do Júri, (a) o paciente confessou a autoria dos fatos; e (b) os jurados entenderam que o réu não agiu dominado por animus necandi e, consequentemente, a competência para julgar a lide penal passou a ser do juiz togado (CPP, art. 492, § 1º).
+    3. Pelo exposto, nego seguimento ao habeas corpus. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 7 de abril de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
