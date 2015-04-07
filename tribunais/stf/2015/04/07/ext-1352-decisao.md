@@ -1,0 +1,26 @@
+DECISÃO:
+Ementa: Extradição. Recurso Extraordinário Interposto Contra Decisão do Supremo Tribunal Federal. Inadmissibilidade. Custódia do extraditando. Proximidade familiar. Deferimento.
+1. Não é possível a interposição de recurso extraordinário contra decisão do próprio Supremo Tribunal Federal. Precedentes.
+2. Recurso manifestamente inadmissível.
+3.  Prosseguimento do processo de extradição.
+4.  Pedido de manutenção do local da custódia do extraditando próximo à família. Deferimento.
+    1. Trata-se de extradição instrutória requerida pelo Governo da Espanha em desfavor de seu nacional Luis Fernández Rodriguez. O Estado requerente fundamenta seu pedido no Tratado de Extradição firmado entre o Brasil e a Espanha em 02.02.1988, promulgado pelo Decreto nº 99.340, de 22.06.1990.
+     2. Em acordo com a documentação que instrui a Nota Verbal nº 182, foi determinada a abertura de processo contra o requerido e emitida ordem internacional de detenção pelo crime de tráfico de drogas “do tipo das que causam grave dano à saúde em quantidade de elevada importância e realizado com recurso a uma organização criada com tal finalidade.” Aludiu-se à apreensão de 1.083,88 kg de cloridrato de cocaína, com uma riqueza média de 72,7% de cocaína base.
+    3. Determinei a prisão preventiva para fins de extradição do requerido, conforme decisão de fls. 101-103, que foi cumprida em 15.10.2014 (fls. 113).
+    4. O extraditando interpôs recurso extraordinário, às fls. 135-41, informando que responde a processo criminal perante a Justiça Federal da 7ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro, “cuja denúncia foi realizada com fundamento na investigação denominada ‘Operação Gothel’ e ‘Operação Nações Unidas’ (…) nesta dentre outros se apura contra o denunciado Luis Fernandes Rodrigues de associação para o tráfico internacional de entorpecentes e associação para o financiamento do trafico internacional de entorpecentes.” Sustenta que sua entrega ao Estado espanhol “fere princípios constitucionais e o próprio entendimento do STF em matérias idênticas”.
+    5. Diferi o exame do recurso interposto, inclusive quanto a seu cabimento, para momento posterior ao cumprimento integral da carta de ordem expedida para interrogatório do extraditando e apresentação de defesa (fls. 154).
+    6. Realizado o interrogatório e apresentada a defesa perante o Juízo Federal de Santarém/PA, conforme delegação de fls. 118, o extraditando solicitou, em audiência, sua permanência na cidade de Santarém/PA, em razão da proximidade com a família (fls. 194). Na oportunidade, o juízo delegatário absteve-se de decidir, afirmando a competência do Supremo Tribunal Federal para apreciação do pedido.
+    7. Decido.
+    8. O recurso de fls. 135-141 é manifestamente incabível, tendo em vista que não é possível a interposição de recurso extraordinário contra decisão do próprio Supremo Tribunal Federal. Nos termos do art. 39 da Lei nº 8.039/1990, contra decisão do Presidente do Tribunal, de Seção de Turma ou de Relator, só é cabível o recurso de agravo.
+    9. Nessas circunstâncias, a ausência absoluta de pertinência do recurso interposto afasta, inclusive, a aplicação do princípio da fungibilidade. Nessa linha, vejam-se: o AI 134.518-AgR, da relatoria do Ministro Ilmar Galvão; o AI 284.950-AgR, da relatoria do Ministro Moreira Alves; o AI 688.447-AgR, da relatoria do Ministro Ricardo Lewandowski; ARE 751.519-AgR-AgR, da relatoria do Ministro; a AR 2.241-AgR, da relatoria da Ministra Cármen Lúcia; e o AI 297.864-AgR-AgR, da relatoria do Ministro Néri da Silveira, assim ementado:
+    “Recurso extraordinário interposto contra acórdão proferido por Turma do STF. Inviabilidade jurídica e constitucional. 2. Agravo regimental a que se nega provimento.”
+    10.  Desse modo, o recurso não merece trânsito.
+    11. Passo ao exame do pedido de manutenção da custódia na cidade de Santarém/PA. Com acerto, o juízo delegatório remeteu a apreciação da questão a esta Corte, à disposição de quem se encontra o extraditando.
+    12. Os documentos de fls. 208/209 evidenciam que o extraditando é pai de dois menores impúberes, ambos nascidos na cidade de Santarém. A certidão carcerária de fls. 214 noticia que o endereço residencial de referência também é localizado naquele município. Aliado a isso há notícia, até o momento da emissão do documento, de comportamento adequado às normas de segurança do Centro de Recuperação onde se encontra.
+    13. Por tais razões, nos termos do art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário de fls. 135/141, por manifestamente inadmissível. Defiro o pedido formulado às fls. 194, para que o extraditando permaneça custodiado na cidade de Santarém/PA, sem prejuízo da necessidade de reexame decorrente de alterações dos fatos.
+    Publique-se. Intimem-se. Comunique-se ao Juízo da 7ª Vara Federal da Seção Judiciária do Rio de Janeiro, bem como ao(à) Diretor(a) do Centro de Recuperação Agrícola Sílvio Hall de Moura.
+    Após, remetam-se os autos à Procuradoria-Geral da República por 10 (dez) dias, nos termos do art. 212 do RI/STF.
+    Brasília, 07 de abril de 2015.
+          Ministro LUÍS ROBERTO BARROSO
+Relator
+Documento assinado digitalmente
