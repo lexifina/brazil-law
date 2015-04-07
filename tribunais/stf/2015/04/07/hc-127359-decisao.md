@@ -1,0 +1,8 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, no qual o impetrante alega constrangimento ilegal em decorrência da demora do Superior Tribunal de Justiça para julgar o HC 306.891/SP, Rel. Min. Felix Fischer. Consta dos autos, em suma, que: (a) o paciente ajuizou revisão criminal no Tribunal de Justiça do Estado de São Paulo em 20/6/2012; (b) inconformado com o atraso para o julgamento da revisional, impetrou habeas corpus no STJ, que pende de julgamento. Nesta ação, o impetrante sustenta, em síntese, a demora do Superior Tribunal para proceder ao julgamento do HC.
+    2. O art. 5º, LXXVIII, da CF assegura, com efeito, nos âmbitos judicial e administrativo, a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. No presente caso, todavia, não se tem demora que possa ser considerada não razoável. Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, é possível verificar que o HC 306.891/SP foi autuado em 10/10/2014. Em seguida, os autos foram encaminhados ao Ministério Público Federal, tendo retornado àquela Corte em 3/3/2015. Ora, de duração razoável é o processo que se desenvolve regularmente, consideradas, ainda, a natureza e a complexidade da causa, bem como a quantidade de demandas em trâmite no órgão judicial. Nessa perspectiva, o exíguo período de tempo transcorrido desde que o habeas corpus foi concluso ao relator com parecer do órgão ministerial no STJ afasta qualquer alegação de constrangimento ilegal, razão pela qual a presente impetração é manifestamente incabível.
+    3. Pelo exposto, nego seguimento ao pedido. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 7 de abril de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
