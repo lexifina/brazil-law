@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 31, de 26 de fevereiro de 2015
+ASSUNTO: SIMPLES NACIONAL EMENTA: TRANSPORTE MUNICIPAL. CESSÃO DE MÃO-DE-OBRA. Os serviços de transporte municipal de passageiros não podem ser prestados mediante cessão de mão-de-obra por optantes pelo Simples Nacional. O fato de os serviços não serem prestados exclusivamente a uma só tomadora não é suficiente para descaracterizar eventual cessão de mão-de-obra. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 17, XII, art. 18, § 5º-B, XIII, § 5º-H; IN RFB nº 971, de 2009, art. 115.
+[arquivo anexo: SC Cosit nº 031-2015.pdf]
