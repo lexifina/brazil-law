@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 91, de 31 de março de 2015
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS EMENTA: COMBUSTÍVEIS. CRÉDITO. Os combustíveis e lubrificantes utilizados ou consumidos na prestação de serviços geram créditos no regime de apuração não cumulativa da Cofins. DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º, II. ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP EMENTA: COMBUSTÍVEIS. CRÉDITO. Os combustíveis e lubrificantes utilizados ou consumidos na prestação de serviços geram créditos no regime de apuração não cumulativa da Contribuição para o PIS/Pasep. DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3º, II.
+[arquivo anexo: SC Cosit nº 091-2015.pdf]
