@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 2ª Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL – TRIBUTÁRIO E PROCESSUAL CIVIL – EMBARGOS À EXECUÇÃO FISCAL – IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA (ISS) – SERVIÇOS BANCÁRIOS – DL 406/68 – LISTA ANEXA – ITENS 95 E 96 – LC 56/87 – ENQUADRAMENTO – INTERPRETAÇÃO AMPLA E ANALÓGICA DA NATUREZA DAS CONTAS AUTUADAS – IRRELEVÂNCIA DA NOMENCLATURA DADA PELA INSTITUIÇÃO BANCÁRIA – PRECEDENTES JURISPRUDENCIAIS - ‘TARIFA INTERBANCÁRIA’ SOBRE CHEQUES COMPENSADOS E ‘TARIFA INTERBANCÁRIA’ DE COBRANÇA DE TÍTUTOS – SERVIÇOS PRESTADOS PELO APELANTE CONSISTENTES NA COBRANÇA DE VALORES E NA ORDEM DE PAGAMENTO POR TERCEIROS – PERFEITA SUBSUNÇÃO DO FATO IMPONÍVEL À HIPÓTESE DE INCIDÊNCIA PREVISTA NOS ITENS 95 E 96 DA LISTA DE SERVIÇOS ‘COBRANÇA E RECEBIMENTOS’ E ‘ORDEM DE PAGAMENTO E DE CRÉDITOS, POR QUALQUER MEIO’ - INCIDÊNCIA DO ISS.
+    RECURSO CONHECIDO E PROVIDO. REEXAME NECESSÁRIO PREJUDICADO”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, I, e 156, III, da Carta. Sustenta, em síntese, que não foi observado o princípio constitucional da legalidade tributária, uma vez que não há previsão na lista anexa ao Decreto n° 406/1968, ou na Lei Complementar n° 56/1987, nem mesmo com interpretação ampla e extensiva, da incidência de ISS sobre as contas contábeis de instituições financeiras.
+    A pretensão não merece acolhida. Nos termos da jurisprudência da Corte, a questão relativa ao ISS incidente sobre os serviços bancários não encontra ressonância constitucional. Confiram-se, a propósito, os precedentes a seguir:
+    “TRIBUTÁRIO. ISS. INCIDÊNCIA. SERVIÇOS BANCÁRIOS. DL 406/68. LC 56/87. INTERPRETAÇÃO. MATÉRIA INFRACONSTITUCIONAL. I - O acórdão recorrido decidiu a questão com base no DL 406/68 e LC 56/87. A afronta à Constituição, se ocorrente, seria indireta. II - Agravo regimental improvido” (AI nº 672.478/SP-AgR, Rel. Min. Ricardo Lewandowski)
+    “Agravo regimental no agravo de instrumento. Tributário. ISS. Serviços bancários. Jurisdição prestada e suficientemente motivada. Cerceamento de defesa. Ofensa reflexa. Precedentes.
+    1. Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem explicitado suas razões de decidir.
+    2. A questão relativa ao suposto cerceamento de defesa pelo indeferimento de produção de provas restringe-se ao âmbito da legislação infraconstitucional. Dessa forma, eventual ofensa à Carta Magna, se ocorresse, seria indireta.
+    3. Quanto à incidência do ISS sobre serviços bancários, esta Corte possui entendimento pacífico de que a eventual ofensa a dispositivos constitucionais, em tal caso, seria indireta, pois o exame da matéria ensejaria necessária apreciação da legislação infraconstitucional aplicável à espécie, reguladora do tributo em questão.
+    4. Agravo regimental não provido.” (AI 761.847 AgR/SC. Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 08 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
