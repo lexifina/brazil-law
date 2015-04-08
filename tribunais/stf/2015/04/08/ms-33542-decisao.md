@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de mandado de segurança, com pedido liminar, impetrado contra ato do Tribunal de Contas da União (Acórdão 992/2014-TCU – 1º Câmara), que teria considerado ilegal pensão civil temporária recebida pelo impetrante. Alega, em suma, que: (a) a autoridade apontada como coatora recusou o registro da pensão civil, por entender que o benefício previsto no art. 217, II, d, da Lei 8.112/90 teria sido revogado pelo art. 5º da Lei 9.717/98; e (b) os efeitos do ato impugnado causam prejuízo evidente ao impetrante em ofensa ao seu direito liquido e certo de receber a pensão civil temporária.
+    2. Não merece seguimento o mandado de segurança. É que nos termos do que dispõe o art. 5º, I, da Lei 12.016/2009, não cabe mandado de segurança em face de ato administrativo contra o qual caiba recurso com efeito suspensivo. Nesse sentido:
+    AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. ATO ADMINISTRATIVO CONTRA O QUAL FOI INTERPOSTO RECURSO COM EFEITO SUSPENSIVO. 1. Nos termos do art. 5º, I, da Lei nº 12.016/09, não cabe mandado de segurança contra ato administrativo do qual caiba recurso com efeito suspensivo. 2. Agravo regimental desprovido (MS 32.530-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 11/12/2013)
+    AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. 1. IMPETRAÇÃO CONTRA ACÓRDÃO DO TRIBUNAL DE CONTAS DA UNIÃO COM EFEITOS SUSPENSOS. FALTA DE INTERESSE DE AGIR: ART. 5º, INC. I, DA LEI N. 12.016/2009. 2. POSSIBILIDADE DE O RELATOR NEGAR SEGUIMENTO A MANDADO DE SEGURANÇA QUANDO A MATÉRIA FOR OBJETO DE JURISPRUDÊNCIA CONSOLIDADA DO SUPREMO TRIBUNAL FEDERAL OU A AÇÃO FOR DE IMPROCEDÊNCIA MANIFESTA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (MS 28.855-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 19/02/2012).
+    No caso, os documentos demonstram que o Acórdão 992/2014-TCU –1º Câmara (Processo 53000.01.6437/2014) foi objeto de recurso administrativo (doc. 10), a ser recebido pelo TCU com efeito suspensivo, o que evidencia a falta de interesse de agir do impetrante.
+    3. Diante do exposto, nego seguimento ao pedido (art. 21, § 1º do RISTF). No mais, defiro o pedido de assistência judiciária gratuita.
+    Publique-se. Intime-se.
+    Brasília, 8 de abril de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
