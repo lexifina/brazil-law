@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 90, de 25 de março de 2015
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS EMENTA: ROTULAGEM. EMBALAGEM. PAPEL DESTINADO À IMPRESSÃO DE LIVROS E PERIÓDICOS. A obrigação de rotular as embalagens de papel destinado à impressão de livros e periódicos, que recai sobre os fabricantes, importadores e comerciantes de papel, detentores do Registro Especial instituído pelo art. 1º da Lei nº 11.945, de 4 de junho de 2009, não alcança as embalagens de papel destinado à impressão de jornais. DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 - CTN, arts. 113, § 2º, e 194; Lei nº 12.649, de 2012, art. 2º; Decreto nº 7.882, de 2012; Instrução Normativa RFB nº 1.341, de 2013.
+[arquivo anexo: SC Cosit nº 090-2015.pdf]
