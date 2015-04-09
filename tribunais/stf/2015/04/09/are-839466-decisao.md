@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região. Veja-se o seguinte trecho de ementa:
+    “PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE CRÉDITO REFERENTE AO ÍNDICE DE 28,86%. PRELIMINARES AVENTADAS PELA UNIÃO. ILEGITIMIDADE ATIVA. DIREITO INDIVIDUAL HOMOGÊNEO. AUSÊNCIA DE DESCRIÇÃO DOS CRITÉRIOS DE CÁLCULO UTILIZADOS NAS MEMÓRIAS APRESENTADAS PELOS EXEQUENTES. PRESCRIÇÃO INTERCORRENTE. PARECER TÉCNICO ELABORADO POR VISTOR FISCAL. DECISÃO PROFERIDA PELO JUÍZO A QUO. AMPLITUDE E DETALHAMENTO DA CAUSA, LADEADA EM EXTREMO RIGOR TÉCNICO E JURÍDICO. INCIDÊNCIA DO ÍNDICE VENCIMENTAL DE 28,86% SOBRE A RAV. ACATAMENTO DA PLANILHA OFICIAL. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. ART. 20, § 4º, CPC. POSSIBILIDADE. APRECIAÇÃO EQUITATIVA.”
+    O recurso é inadmissível, tendo em vista que o Supremo Tribunal Federal, ao julgar o AI 843.753, Rel. Min. Cezar Peluso, decidiu que a matéria versada nestes autos não possui repercussão geral. Veja-se a ementa do julgado:
+    “Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Reajuste de 28,86% sobre a RAV. Compensação. Reposições salariais posteriores. Leis 8.622/1993 e 8.627/1993. Reajustamento. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a compensação do reajuste de 28,86% sobre a RAV com as reposições salariais posteriores ao reajustamento concedido pelas Leis 8.622/1993 e 8.267/1993, versa sobre tema infraconstitucional.”
+    Ademais, o Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 09 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
