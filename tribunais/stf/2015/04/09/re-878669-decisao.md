@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. EMPRESA DE RADIODIFUSÃO. RETRANSMISSÃO DO PROGRAMA “A VOZ DO BRASIL”: RECEPÇÃO DA LEI N. 4.117/1962 PELA CONSTITUIÇÃO DA REPÚBLICA DE 1988. PRECEDENTES. RECURSO PROVIDO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “PROCESSUAL CIVIL. AGRAVO. ART. 557, CPC. AÇÃO ORDINÁRIA. ‘VOZ DO BRASIL’. ART. 38, ‘E’, DA LEI N. 4.117/62. OBRIGATORIEDADE DE TRANSMISSÃO. PRECEDENTE DO E. STF. POSSIBILIDADE DE RETRANSMISSÃO EM HORÁRIO ALTERNATIVO. PRECEDENTES DESTA E. CORTE. AGRAVO IMPROVIDO” (fl. 137).
+    Os embargos de declaração opostos foram acolhidos nos seguintes termos:
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. JUNTADA DO VOTO DIVERGENTE QUE SE IMPÕE. EMBARGOS ACOLHIDOS” (fl. 146).
+    2. A União alega contrariados os arts. 21, inc. XII, al. a, arts. 220 e 223 da Constituição da República, asseverando que, “ao pretender-se não levar ao ar o programa oficial ‘A Voz do Brasil’, de existência quase centenária, ou levá-lo em horário diverso daquele estabelecido pela lei, estar-se-á, precisamente, opondo injustificada restrição à liberdade de informação. Com efeito, o programa de que ora se trata é de caráter informativo dos principais atos, de enorme interesse social, do três poderes da República: do Executivo, do Legislativo e do Judiciário” (fl. 173 v.).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica assiste à União.
+    4. O Tribunal de origem manteve decisão monocrática nos seguintes termos:
+     “A imposição legal de retransmissão do programa ‘A Voz do Brasil’ não constitui, em absoluto, violação ao art. 5º, IX, da Carta Política.
+    Extrai-se, com hialina certeza, do Texto Constitucional que o encargo de informar a população não se erige em censura, tampouco restrição ao contrato de permissão, revestindo-se de inegável interesse público.
+    Todavia, no que tange à obrigatoriedade de retransmissão no horário ‘das 19 (dezenove) às 20 (vinte) horas’ estabelecido no já referido art. 38 da Lei n. 4.117/62, não se tem por recepcionada à vista de orientação pretoriana.
+    (…)
+    Isto posto, dou parcial provimento à apelação da União, nos termos do art. 557 do CPC, para reconhecer a obrigatoriedade da transmissão do programa ‘A Voz do Brasil’, sem a restrição de horário imposta pela Lei n. 4.117/62” (fl. 124, grifos nossos).
+    Contrariamente à alegação constante do julgado recorrido quanto à “orientação pretoriana” nos termos apresentados, no julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade n. 561, Relator o Ministro Celso de Mello, este Supremo Tribunal declarou a recepção da Lei n. 4.117/1962 pela Constituição da República de 1988:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. EMPRESA DE RADIODIFUSÃO. TRANSMISSÃO DO PROGRAMA ‘A VOZ DO BRASIL’ EM HORÁRIO ALTERNATIVO. RECEPÇÃO DA LEI N. 4.117/1962 PELA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 602.421-AgR, de minha relatoria, Primeira Turma, DJe 9.12.2010).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. OBRIGATORIEDADE DE TRANSMISSÃO DO PROGRAMA ‘A VOZ DO BRASIL’. LEI 4.117/1962. RECEPÇÃO PELA CONSTITUIÇÃO FEDERAL DE 1988. 1. A jurisprudência do Supremo Tribunal Federal entende que a Lei 4.117/1962, que obriga empresa de radiodifusão a transmitir o programa ‘A Voz do Brasil’, foi recepcionada pela Constituição Federal de 1988. 2. Agravo regimental desprovido” (RE 531.908-AgR, Relator o Ministro Ayres Britto, Segunda Turma, DJe 13.10.2011).
+    “SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EMISSORAS DE RADIODIFUSÃO. TRANSMISSÃO DO PROGRAMA ‘A VOZ DO BRASIL’ EM HORÁRIO ALTERNATIVO. IMPOSSIBILIDADE. RECEPÇÃO DA LEI N. 4.117/62 PELA CONSTITUIÇÃO FEDERAL. JURISPRUDÊNCIA ASSENTADA PELO PLENÁRIO DESTA SUPREMA CORTE NA ADI N. 561 – MC. 1. A Lei n. 4.117/62, que prevê a obrigatoriedade da transmissão do programa ‘A Voz do Brasil’, foi recepcionada pela Constituição Federal. (Precedentes: ADI n. 561-MC, Relator o Ministro Celso de Mello, DJe de 23.3.01). 2. Ambas as Turmas possuem recentes julgados sobre o tema, o que torna inviável o pedido da agravante para que a Corte rediscuta a matéria, sob o argumento de que o acórdão paradigma para fundamento das decisões é antigo. 3. Segundo agravo regimental a que se nega provimento” (RE 605.681-AgR-segundo, Relator o Ministro Luiz Fux, Primeira Turma, DJe 23.10.2012).
+    “RECURSO EXTRAORDINÁRIO - EMISSORAS DE RADIODIFUSÃO – RETRANSMISSÃO OBRIGATÓRIA DO PROGRAMA ‘A VOZ DO BRASIL’ EM HORÁRIO ALTERNATIVO – RECEPÇÃO DA LEI N. 4.117/62 PELA VIGENTE ORDEM CONSTITUCIONAL – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO. - Reveste-se de legitimidade jurídico-constitucional a obrigatoriedade, fundada em lei, de retransmissão, por emissoras de radiodifusão, do programa ‘A Voz do Brasil’. Recepção, pela vigente Constituição da República, da Lei n. 4.117/1962 (art. 38, ‘e’). Precedentes” (RE 571.353-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 16.6.2011).
+    O acórdão recorrido divergiu dessa orientação jurisprudencial.
+    5. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de abril de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
