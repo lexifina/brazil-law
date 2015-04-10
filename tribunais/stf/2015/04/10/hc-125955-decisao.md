@@ -1,0 +1,17 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Johnathas de Senna Dias Freitas, em causa própria, contra ato do Superior Tribunal de Justiça.
+    Narra a inicial que o paciente-impetrante foi condenado à pena de 6 (seis) anos e 6 (seis) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006, fl. 03).
+    No presente habeas corpus, o paciente-impetrante alega a possibilidade de progressão de regime pelo cumprimento de 1/6 (um sexto) da pena aplicada, inobstante o caráter hediondo do delito cometido. Requer, em medida liminar e no mérito, a concessão da progressão de regime.
+    Em 05.02.2015, ao constatar a situação de hipossuficiência do paciente-impetrante e a deficiência na instrução do writ, determinei a intimação da Defensoria Pública da União para se manifestar sobre a possibilidade de assumir a Defesa do paciente, o que foi sinalizado positivamente por meio da Petição STF 7.481/2015, inclusive com a juntada de “peças necessárias à compreensão da controvérsia”, em especial a cópia do acórdão exarado pelo Superior Tribunal de Justiça nos autos do HC 88.487/DF.
+    É o relatório.
+    Decido.
+    Extraio do acórdão apresentado pela Defensoria Pública da União:
+    “PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO NA FORMA TENTADA. SENTENÇA DE PRONÚNCIA. EXCLUSÃO DA QUALIFICADORA. IMPOSSIBILIDADE. MATÉRIA A SER DISCUTIDA PELO CONSELHO DE SENTENÇA. PRISÃO PREVENTIVA. QUESTÃO NÃO-ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+    1. ‘É pacífico o entendimento das Turmas que compõem a Terceira Seção desta Egrégia Corte no sentido de que as circunstâncias qualificadoras propostas na denúncia somente podem ser afastadas, quando, de forma incontroversa, mostrarem-se absolutamente improcedentes. Sendo certo que, caso contrário, havendo indícios da existência da qualificadora e incerteza sobre as circunstâncias fáticas, deve prevalecer o princípio in dubio pro societatis, cabendo ao Tribunal do Júri manifestar-se sobre a ocorrência ou não de tais circunstâncias’ (REsp 369.535/DF, Rel. Min. LAURITA VAZ, DJ  de 30.6.2003).
+    2. Não havendo manifestação do Tribunal de origem acerca do argumento de ausência de fundamentação do decreto prisional, não pode o Superior Tribunal de Justiça analisar o tema, sob pena de indevida supressão de instância. Precedentes do STJ.
+    3. Ordem parcialmente conhecida e, nessa extensão, denegada.”
+    Em consulta ao sítio do Superior Tribunal de Justiça na internet, constato que o único registro processual encontrado no nome do paciente diz com o apontado HC 88.487/DF.
+    Por outro lado, a questão de direito trazida nestes autos - progressão de regime de apenado condenado pelo crime de tráfico de drogas - não foi objeto de apreciação pelas instâncias anteriores. Inviabilizada, pois, a análise do pedido, neste momento, pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância (v.g. HC 108.778/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 9.8.2011; HC 104.167/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.8.2011; HC 105.501, rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.4.2011; e HC 90.902/RS, Rel. Min. Marco Aurélio, 1ª Turma, DJe 22.6.2007).
+    Ante o exposto, nego seguimento ao presente writ (art. 21, § 1º, do RISTF).
+    Brasília, 10 de abril de 2015.
+Ministra Rosa Weber
+Relatora
