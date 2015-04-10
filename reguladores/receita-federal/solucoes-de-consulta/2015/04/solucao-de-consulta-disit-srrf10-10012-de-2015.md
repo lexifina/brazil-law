@@ -1,0 +1,10 @@
+Solução de Consulta Disit/SRRF10 nº 10012, de 20 de março de 2015
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. PAGAMENTO INDEVIDO. COMPENSAÇÃO. A compensação da contribuição previdenciária sobre a receita bruta (CPRB) está adstrita aos termos do art. 89 da Lei nº 8.212, de 1991, sujeitando-se às restrições do art. 26 da Lei nº 11.941, de 2009. O sujeito passivo que apurar crédito relativo à CPRB, passível de restituição, poderá utilizá-lo na compensação de contribuições previdenciárias correspondentes a períodos subsequentes, nos termos do art. 56 da Instrução Normativa RFB nº 1.300, de 2012. A compensação será efetuada conforme o § 7º do art. 56 da Instrução Normativa RFB nº 1.300, de 2012, quando os débitos forem declarados em GFIP, ou conforme o § 8º do mesmo dispositivo, no caso de débitos declarados em DCTF. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 384, DE 26 DE DEZEMBRO DE 2014. DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, arts. 11 e 89; Instrução Normativa RFB nº 1.300, de 2012, arts. 1º e 56.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. PAGAMENTO INDEVIDO. COMPENSAÇÃO.
+A compensação da contribuição previdenciária sobre a receita bruta (CPRB) está adstrita aos termos do art. 89 da Lei nº 8.212, de 1991, sujeitando-se às restrições do art. 26 da Lei nº 11.941, de 2009.
+O sujeito passivo que apurar crédito relativo à CPRB, passível de restituição, poderá utilizá-lo na compensação de contribuições previdenciárias correspondentes a períodos subsequentes, nos termos do art. 56 da Instrução Normativa RFB nº 1.300, de 2012.
+A compensação será efetuada conforme o § 7º do art. 56 da Instrução Normativa RFB nº 1.300, de 2012, quando os débitos forem declarados em GFIP, ou conforme o § 8º do mesmo dispositivo, no caso de débitos declarados em DCTF.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 384, DE 26 DE DEZEMBRO DE 2014.
+DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, arts. 11 e 89; Instrução Normativa RFB nº 1.300, de 2012, arts. 1º e 56.
+IOLANDA MARIA BINS PERIN Chefe
