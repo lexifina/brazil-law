@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CERTIDÃO DE DÍVIDA ATIVA – CDA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. CERTIDÃO DE DÍVIDA ATIVA. PRESUNÇÃO RELATIVA DE LIQUIDEZ E CERTEZA. JUNTADA DE CÓPIA DO PROCESSO ADMINISTRATIVO. ÔNUS DO EMBARGANTE.
+    A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que, nos embargos à execução fiscal, incumbe à parte embargante o ônus da juntada da cópia do processo administrativo, em razão da presunção relativa de liquidez e certeza da CDA”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante alega contrariado o art. 5º, incs. XXXV e LV, da Constituição da República, argumentando “responsabilidade do Fisco trazer aos autos o processo administrativo que embasa suas execuções fiscais como prova da legalidade da cobrança e certeza e liquidez das CDA’s”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão de direito não assiste à Agravante.
+    6. A apreciação do pleito recursal demandaria análise prévia da legislação infraconstitucional aplicável à espécie (Lei n. 6.830/1980) e reexame do conjunto fático-probatório constante do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário e atrair a incidência da Súmula n. 279 do Supremo Tribunal Federal:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Tributário. Nulidade de CDA. 3. Incidência do Enunciado 279 da Súmula do STF. 4. Necessidade de exame prévio de normas infraconstitucionais. Ofensa reflexa. 5. Multa confiscatória. Prequestionamento. Precedentes 6. Taxa Selic. Débitos tributários. Legitimidade. Precedentes 7. Agravo regimental a que se nega provimento” (ARE 839.366-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 18.2.2015).
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REFORMA DA SENTENÇA DE MÉRITO. REDIRECIONAMENTO DA EXECUÇÃO PARA OS SÓCIOS. NOME DOS SÓCIOS NA CERTIDÃO DE DÍVIDA ATIVA - CDA. PRESUNÇÃO DE CERTEZA E LIQUIDEZ. ART. 135 DO CTN. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO” (AI 837.053-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 11.11.2014).
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CDA. VALIDADE. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. I - O acórdão recorrido decidiu acerca da validade da CDA à luz da legislação infraconstitucional local aplicável à espécie. A afronta à Constituição, se ocorrente, seria indireta. II - A alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. III - Agravo regimental improvido” (AI 689.102-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 19.9.2008).
+    7. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do contraditório e da ampla defesa, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e arts. 21, § 1º, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de abril de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
