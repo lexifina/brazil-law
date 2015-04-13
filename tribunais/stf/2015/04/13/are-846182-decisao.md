@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 7º, XXIX, 37, 39, 114 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Supremo Tribunal Federal, nas ações em que se discute o vínculo jurídico estabelecido entre entidades da Administração Direta e Indireta e seus ex-servidores, sejam eles contratados com fundamento em leis locais que autorizam a contratação por tempo determinado, por excepcional interesse público, ou mesmo quando contratados para exercerem cargos em comissão, tem decidido pela incompetência da Justiça do Trabalho. No caso, inexiste nos autos “qualquer demonstração no sentido de que a contratação ocorreu sob a égide de lei especial, ausente se revela a relação jurídico-administrativa, assim, competente a Justiça do Trabalho.”
+    Quanto à prescrição, o acórdão recorrido considerou que não houve transmudação de regime com a edição de Lei Estadual, permanecendo a Recorrida no regime celetista, visto que a contratação anterior à Constituição ocorreu sem concurso público. Neste sentido, já se manifestou o STF:
+    “Agravo regimental no recurso extraordinário. Administrativo e Constitucional. Servidor. Vínculo celetista. Transformação em estatutário. Discussão acerca de verbas remuneratórias referentes ao período anterior à instituição do regime jurídico único. Competência da Justiça do Trabalho. Precedentes. 1. É pacífica a jurisprudência da Corte de que é da Justiça do Trabalho a competência para processar e julgar o feito em que se discute o direito a verbas remuneratórias relativas ao período em que o servidor mantinha vínculo celetista com a Administração, antes, portanto, da transposição para o regime estatutário em decorrência do regime jurídico único. 2. No caso dos autos, não se discute a existência, a validade ou a eficácia das relações entre servidores e o poder público fundadas em vínculo jurídico-administrativo, mas tão somente o direito ou não da ora agravante ao ressarcimento de verbas pagas aos agravados à época em que esses eram regidos pelo regime celetista. 3. Agravo regimental não provido” (RE 649.995-AgR, Rel.o Min. Dias Toffoli, Primeira Turma, DJe 14.11.2014).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de abril de 2015.
+Ministra Rosa Weber
+Relatora
