@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 383, de 26 de dezembro de 2014
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF EMENTA: APLICAÇÃO FINANCEIRA DE RENDA FIXA. TRANSMISSÃO CAUSA MORTIS. INCIDÊNCIA. Aberta a sucessão hereditária, que transmite, desde logo, a herança aos herdeiros, o atendimento ao formal de partilha impõe o resgate ou liquidação da aplicação financeira de renda fixa em nome do titular da aplicação, sendo vedada a transferência meramente escritural da titularidade aos herdeiros, para fins de incidência do IRRF. DISPOSITIVOS LEGAIS: Decreto nº 3.000, de 1999, art. 119; Lei nº 8.981, de 1995, art. 65; IN SRF nº 1.022, de 2010, arts. 8º, 9º e 37; ADI RFB nº 13, de 2007.
+[arquivo anexo: SC Cosit nº 383-2014.pdf]
