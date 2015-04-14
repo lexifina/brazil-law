@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 97 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em ofensa ao art. 97 da Carta Maior, porquanto não declarada, na hipótese, a inconstitucionalidade de lei ou ato normativo do Poder Público. Com efeito, a Corte de origem solveu a questão à luz da aplicação das regras de hermenêutica no âmbito infraconstitucional, sem, portanto, declarar a incompatibilidade entre a Constituição Federal e a norma legal que se pretende ver incidir à espécie. Nesse sentido:
+    “DIREITO PREVIDENCIÁRIO. BENEFÍCIO RECEBIDO POR FORÇA DE DECISÃO JUDICIAL. DEVOLUÇÃO. ART. 115 DA LEI 8.213/91. IMPOSSIBILIDADE. BOA-FÉ E CARÁTER ALIMENTAR. ALEGAÇÃO DE VIOLAÇÃO DO ART. 97 DA CF. RESERVA DE PLENÁRIO: INOCORRÊNCIA. ACÓRDÃO RECORRIDO PUBLICADO EM 22.9.2008. A jurisprudência desta Corte firmou-se no sentido de que o benefício previdenciário recebido de boa-fé pelo segurado em virtude de decisão judicial não está sujeito à repetição de indébito, dado o seu caráter alimentar. Na hipótese, não importa declaração de inconstitucionalidade do art. 115 da Lei 8.213/91, o reconhecimento, pelo Tribunal de origem, da impossibilidade de desconto dos valores indevidamente percebidos. Agravo regimental conhecido e não provido.” (ARE 734.199-AgR/RS, de minha lavra, 1ª Turma, DJe 23.9.2014)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – BENEFÍCIO DO REGIME GERAL DE PREVIDÊNCIA SOCIAL – VALORES PAGOS INDEVIDAMENTE – DEVOLUÇÃO AOS COFRES PÚBLICOS – BOA-FÉ DO SEGURADO – ART. 115 DA LEI Nº 8.213/91 – AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO – CONTENCIOSO DE MERA LEGALIDADE – CONTROVÉRSIA SUSCITADA NO AI 841.473-RG/RS – MATÉRIA A CUJO RESPEITO NÃO SE RECONHECEU A EXISTÊNCIA DE REPERCUSSÃO GERAL – APELO EXTREMO DEDUZIDO COM FUNDAMENTO EM ALEGADA VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO – ACÓRDÃO QUE NÃO DECLAROU A INCONSTITUCIONALIDADE DE QUALQUER ATO ESTATAL – INVIABILIDADE DO RECURSO EXTRAORDINÁRIO – RECURSO DE AGRAVO IMPROVIDO.” (ARE 701.883-AgR/MG, Rel. Min. Celso de Mello, 2ª Turma, DJe 12.11.2012)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de abril de 2015.
+Ministra Rosa Weber
+Relatora
