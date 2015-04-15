@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AGRAVO DE INSTRUMENTO – POLICIAL MILITAR DEMITIDO – REINTEGRAÇÃO AO SERVIÇO PÚBLICO – Em sede de Conselho de Justificação julgado, por unanimidade, perante o Tribunal de Justiça Militar, foi reconhecida a incompatibilidade e a indignidade do recorrente, até então Primeiro Tenente PM, para com o Oficialato da Polícia Militar do Estado de São Paulo e, em consequência, foi decretada a perda do posto e patente – Pleito de reintegração e posterior reforma, em virtude de transtornos psiquiátricos – Competência da Justiça Militar – Inteligência do § 4º, do artigo 125 da Constituição Federal, com redação atribuída pela EC nº 45/04 – Nova ordem constitucional que ampliou a competência da Justiça Especializada, que passou a processar e julgar também demandas envolvendo atos disciplinares militares – Pedido de reintegração que não pode ser apreciado e julgado por esta Justiça Comum Estadual – Manutenção do decisum que determinou a remessa dos autos à Justiça Militar – Recurso não provido.”
+    O recurso não merece ser acolhido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência desta Corte (AI 763.341-AgR, Rel.ª Min.ª Cármen Lúcia).
+    Ademais, o Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Quanto à alegada violação ao art. 93, IX, da Constituição, o Supremo Tribunal Federal já reconheceu a repercussão geral da matéria e assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG/PE, julgado sob a relatoria do ministro Gilmar Mendes).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 15 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
