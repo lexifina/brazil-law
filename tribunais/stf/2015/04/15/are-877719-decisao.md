@@ -1,0 +1,20 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PLANO BRESSER. APLICABILIDADE DA SÚMULA 32 DO TRF DA 4ª REGIÃO.
+    1. Aplicável o teor da Súmula 32 desta Corte sobre o expurgo inflacionário relativo ao Plano Bresser (junho/87), uma vez que o índice nela contido não faz parte da condenação.
+    2. Agravo de instrumento provido.”
+    Sustenta a agravante, nas razões do recurso extraordinário, violação do artigo 5º, inciso XXXVI, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que a discussão acerca da incidência de correção monetária na espécie é matéria que não dispensa a interpretação da legislação infraconstitucional pertinente, utilizada pelo acórdão recorrido. Desse modo, alegada violação do dispositivo constitucional invocado seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “DIREITO PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIO. EXECUÇÃO DE SENTENÇA. CÁLCULOS DE LIQUIDAÇÃO. DISCUSSÃO ACERCA DOS ÍNDICES DE CORREÇÃO MONETÁRIA. ALEGAÇÃO DE AFRONTA AOS ARTS. 194, IV, e 201, § 4º, DA CF. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 16.8.2010. O exame da alegada ofensa aos arts. 194, IV, e 201, § 4º, da Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. As razões do agravo não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate. Agravo regimental conhecido e não provido” (AI nº 857.673/RS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1º/8/13).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada neste momento processual. 2. Agravo regimental desprovido” (RE n° 320.947/SC-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 27/2/12).
+    Ressalte-se, por fim, que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do ARE nº 690.819/SP, Relator o Ministro Teori Zavascki, concluiu pela ausência da repercussão geral da matéria versada neste recurso extraordinário em virtude de sua natureza infraconstitucional. O assunto corresponde ao tema 587 da Gestão por Temas da Repercussão Geral do portal do STF na internet e trata do eventual “excesso de execução decorrente de eventual erro de cálculo em processo alusivo a diferenças de correção monetária em cadernetas de poupança, por alegados expurgos inflacionários”.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de abril de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
