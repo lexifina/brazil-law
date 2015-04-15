@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Eis a ementa do acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro:
+"REPRESENTAÇÃO POR INCONSTITUCIONALIDADE. LEIS Nº 1.829/1991 E Nº 1.191/1991, DO ESTADO DO RIO DE JANEIRO. ALEGADA VIOLAÇÃO À RESERVA DE INICIATIVA DO CHEFE DO EXECUTIVO. REGULAMENTAÇÃO DE ASPECTOS INSTRUMENTAIS. INEXISTÊNCIA DE VÍCIO DE INICIATIVA OU DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. IMPROCEDÊNCIA DA REPRESENTAÇÃO.
+    A Lei nº 1.829, de 04 de julho de 1991, "torna obrigatória a concessão de pedido de revisão de prova nos concursos para provimento de cargos estaduais, de qualquer natureza, e a regulamenta"; bem como a Lei nº 1.919, de 19 de dezembro de 1991, "obriga toda entidade pública ou privada responsável pela organização de concurso público a divulgar o gabarito com as questões resolvidas", sendo ambas do Estado do Rio de Janeiro. As leis impugnadas versam sobre a concessão do pedido de revisão e sobre a divulgação do gabarito em sede de concursos públicos, não dispondo sobre o provimento de cargos. Logo, não incide na hipótese a reserva de iniciativa do Chefe do Poder do Executivo prevista no artigo 112, § 1º, II, b da Constituição do Estado do Rio de Janeiro. Trata-se da regulamentação de aspectos instrumentais dos certames em questão, visando à garantia da publicidade e transparência dos concursos, não havendo que se falar, em consequência, em violação do princípio da separação de poderes."
+    2. A decisão recorrida está em consonância com a jurisprudência do Supremo. Confiram com o decidido na Ação Direta de Inconstitucionalidade nº 2672, relatada no Pleno pela ministra Ellen Gracie:
+CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI Nº 6.663, DE 26 DE ABRIL DE 2001, DO ESTADO DO ESPÍRITO SANTO.
+    O diploma normativo em causa, que estabelece isenção do pagamento de taxa de concurso público, não versa sobre matéria relativa a servidores públicos (§ 1º do art. 6161 da CF/88). Dispõe, isto sim, sobre condição para se chegar à investidura em cargo público, que é um momento anterior ao da caracterização do candidato como servidor público. Inconstitucionalidade formal não configurada. Noutro giro, não ofende a Carta Magna a utilização do salário mínimo como critério de aferição do nível de pobreza dos aspirantes às carreiras púbicas, para fins de concessão do benefício de que trata a Lei capixaba nº 6.663/01. Ação direta de inconstitucionalidade julgada improcedente.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 15 de abril de 2015.
+Ministro MARCO AURÉLIO
+Relator
