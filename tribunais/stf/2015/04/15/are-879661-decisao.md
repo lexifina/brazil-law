@@ -1,0 +1,42 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REVISÃO DE PENSÃO POR MORTE. NATUREZA DAS VERBAS REMUNERATÓRIAS. INCLUSÃO NA BASE DE CÁLCULO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Quarta Câmara Cível do Tribunal de Justiça do Rio de Janeiro decidiu:
+    “APELAÇÃO CÍVEL. DIREITO PREVIDENCIÁRIO. REVISÃO DE PENSÃO POR MORTE. TEMPUS REGIT ACTUM. SÚMULA 340 DO STJ.
+    1. O instituidor da pensão faleceu em 1983, quando em vigor legislação que regulava possibilidade de concessão de pensão à filha maior solteira.
+    2. Os benefícios previdenciários são regidos pelo princípio tempus regit actum, de modo a incidir a lei vigente no momento em que preenchidos os requisitos necessários para a sua concessão, ainda que as leis posteriores tornem defesas novas concessões.
+    3. A pensão deverá observar as normas jurídicas constitucionais contidas no artigo 40, § 4º, em sua redação original, garantindo-se às pensionistas o mesmo que seria percebido pelo servidor, se vivo fosse.
+    4. Inconformismo do apelante limitado à incidência do reajuste sobre as parcelas relativas ao Abono Fixo do Decreto n. 24.445/98, os Encargos SJU, a Gratificação de Atividade Operacional - SJU L. 1.659/90 e a GLP-SJU E-06/10.793/2000.
+    5. As verbas impugnadas têm natureza remuneratória, sendo pagas a todos os servidores da Secretaria de Justiça, indistintamente. Logo, devem integrar a base de cálculo da pensão a ser reajustada.
+    6. Recurso parcialmente provido recurso para afastar a condenação da Rioprevidência ao pagamento da taxa judiciária em razão do instituo da confusão (art. 381 do Código Civil)”.
+    Os embargos declaratórios opostos foram assim julgados:
+    “EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. REVISÃO DE PENSÃO POR MORTE DE SERVIDOR. VERBAS REMUNERATÓRIAS DE CARÁTER GENÉRICO. MERO INCONFORMISMO COM O JULGADO. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 37, INC. X, DA C.F.
+    1. Inocorrência das hipóteses capituladas no artigo 535 do CPC. Inexistência de argumentos capazes de infirmar o que foi decidido pelo Colegiado.
+    2. As parcelas denominadas Abono Fixo e Encargos Especiais - SJU possuem natureza remuneratória e genérica, pagas a todos os servidores da Secretaria de Justiça devendo integrar a base de cálculo da pensão a ser reajustada.
+    3. É pueril o argumento de que se tais gratificações não foram criadas por lei e, por isso, não podem servir de base para o cálculo da pensão. Ora, se foram criadas por decreto e por um processo administrativo, é porque há leis que assim autorizaram tais decisões.
+    4. De outra parte, se o Estado paga essas gratificações, aos servidores em atividade, deve também considerá-las no cálculo dos vencimentos que o instituidor da pensão receberia, se vivo, em obediência ao texto constitucional vigente na época do falecimento, que previa a paridade e a integralidade.
+    5. Não houve, assim, contrariedade ao art. 37, inc. X, da Constituição Federal.
+    6. Recurso conhecido e improvido”.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 280 do Supremo Tribunal Federal.
+    4. O Agravante argumenta que
+    “a parte autora ajuizou ação ordinária alegando que seu benefício de pensão previdenciária deixada por ex-servidor estadual não corresponde à totalidade da remuneração a que faria jus o instituidor se vivo fosse.
+    Com efeito, no que toca às parcelas GRAT. ATIV. OPER., SJU 1659/1990, ENCARGOS SJU, ABONO FIXO e GLP-SJU, é imperativo que as mesmas não podem integrar a base de cálculo da pensão das autoras, uma vez que foram criadas pelo Decreto n. 24.455/98 e por meio de processo administrativo (E-06/10793/2000), o que viola frontalmente o art. 37, X da Carta Magna.
+    Logo, resta cristalina a violação direta perpetrada pelo v. acórdão recorrido ao Texto Maior, não havendo que se falar em violação a lei local”.
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 37, inc. X, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    A apreciação do pleito recursal dependeria do reexame de provas, procedimento inviável em recurso extraordinário, nos termos da Súmula n. 279 deste Supremo Tribunal.
+    Novo exame do julgado impugnado exigiria, ainda, análise prévia de legislação infraconstitucional aplicada à espécie (Decretos ns. 16.675/1991 e 24.455/1998). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE PENSÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 861.587-AgR/RJ, de minha relatoria, Segunda Turma, DJe 6.3.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADICIONAL DE PERMANÊNCIA. CARÁTER GENÉRICO E IMPESSOAL. INCLUSÃO NA BASE DE CÁLCULO DA PENSÃO POR MORTE. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO I - O Tribunal de origem dirimiu a controvérsia dos autos com fundamento na análise da legislação infraconstitucional pertinente e do acervo probatório existente nos autos. Assim, firmar entendimento diverso implicaria revisão do conjunto fático-probatório constante do processo, bem como novo exame da legislação local, o que inviabiliza o extraordinário, com base nas Súmulas 279 e 280 do STF. Precedentes. II – Agravo regimental improvido” (ARE 737.686-AgR/RJ, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 21.8.2013).
+     “DIREITO PREVIDENCIÁRIO. REVISÃO DE PENSÃO POR MORTE. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 05.7.2010. Não cuidou o agravante de infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. A suposta afronta aos preceitos constitucionais indicados nas razões recursais dependeria da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, “a”, da Lei Maior. Agravo regimental conhecido e não provido” (AI 858.663-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 14.8.2013).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. REVISÃO DE PENSÃO POR MORTE. FILHA SOLTEIRA. OFENSA À CONSTITUIÇÃO FEDERAL NÃO CONFIGURADA. APLICAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais locais que fundamentam a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes. II – Agravo regimental a que se nega provimento” (ARE 720.465-AgR/RJ, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 17.12.2013).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, nada havendo a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de abril de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
