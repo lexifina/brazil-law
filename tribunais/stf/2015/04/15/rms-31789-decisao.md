@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de recurso ordinário interposto contra acórdão do Tribunal Superior Eleitoral que, por maioria, denegou a ordem em mandado de segurança impetrado por candidata a deputada estadual contra ato do Presidente do Tribunal Regional Eleitoral de São Paulo que determinara não fosse computado à legenda os votos conferidos aos candidatos com registro indeferido. Nos termos do voto vencedor, o direito reclamado não é líquido nem certo, pois (a) a definição das vagas na Assembleia Legislativa de São Paulo depende da apuração do quociente eleitoral e dos quocientes partidários de todos os partidos e coligações que disputaram as eleições de 2010; e, (b) ainda que se possa admitir a legitimidade ativa da impetrante, o reclamado cômputo dos votos, constituiria, quando muito, eventual direito líquido e certo do partido beneficiário (fl. 125). Alega a recorrente, em síntese, que possui legitimidade ativa para pleitear novo cômputo dos votos.
+    Em parecer, a Procuradoria-Geral da República opina pelo desprovimento do recurso.
+    2. O mandado de segurança objetiva o cômputo dos votos destinados aos candidatos do Partido Democrático Trabalhista que tiveram seus registros indeferidos nas eleições de 2010, de forma que, alterado o quociente eleitoral, a legenda obtenha mais uma cadeira na Assembleia Legislativa, o que resultaria na diplomação e posse da impetrante, que alcançara a primeira suplência. Ocorre que, como é de conhecimento geral, já se exauriu a legislatura correspondente às eleições de 2010, tendo sido diplomados e empossados os candidatos ao cargo de deputado estadual escolhidos nas eleições de 2014, situação que revela superveniente perda de objeto presente recurso ordinário.
+    3. Ante o exposto, nego seguimento ao recurso ordinário.
+    Publique-se. Intime-se.
+    Brasília, 15 de abril de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
