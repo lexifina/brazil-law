@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de dois agravos contra decisões que inadmitiram recursos extraordinários interpostos em face de acórdãos proferidos pelo Tribunal de Justiça do Estado de Pernambuco e pelo Superior Tribunal de Justiça.
+    A decisão de inadmissibilidade do TJPE alicerçou-se nas seguintes razões: (a) não houve a demonstração clara e fundamentada da existência de repercussão geral; (b) eventual ofensa à Constituição Federal seria meramente reflexa ou indireta; (c) o acórdão recorrido decidiu a causa com base em legislação local, o que faz incidir o óbice da Súmula 280/STF; e (d) a análise da pretensão recursal depende da incursão nas provas dos autos, providência vedada conforme Súmula 279/STF.
+    A seu turno, o Superior Tribunal de Justiça justificou a inadmissão do recurso extraordinário por considerar que a suposta contrariedade a dispositivos constitucionais, se houvesse, seria meramente indireta ou reflexa, já que é imprescindível o exame de normas infraconstitucionais.
+    Contra a decisão do Tribunal estadual, a parte agravante aduz que (a) a decisão impugnada viola o art. 5º, XXXV, LIV e LV, da Carta Magna; (b) o Tribunal de origem usurpou a competência do Supremo Tribunal Federal; (c) a matéria apresenta repercussão geral; (d) houve violação aos arts. 5º, XXXVI, e 37, caput e XV, da CF/88 e a diversos princípios constitucionais. No mais, repisa as alegações de mérito do recurso extraordinário.
+    Ao impugnar a decisão do STJ, o recorrente sustenta (a) a existência de repercussão geral do tema; (b) o cumprimento do requisito do prequestionamento; (c) a afronta à efetividade processual; e (d) a inobservância aos princípios elencados no art. 5º, XXXV, LIV e LV, da Carta Magna. No mais, repisa os argumentos de mérito do extraordinário.
+    2. Como se vê, a parte agravante, em ambos os agravos, não impugnou especificamente todos os fundamentos suficientes, por si sós, para manter as decisões agravadas, deixando de infirmar a aplicação das Súmulas 279 e 280 do STF pelo TJPE, bem como a justificativa de violação indireta ao texto constitucional reconhecida pelo STJ. Tais fatos acarretam o não conhecimento dos recursos, a teor do que dispõe o art. 544, § 4º, I, do CPC.
+    3. Diante do exposto, não conheço de ambos os agravos em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 16 de abril de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
