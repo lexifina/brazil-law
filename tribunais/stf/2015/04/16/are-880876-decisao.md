@@ -1,0 +1,6 @@
+Tendo em conta a certidão expedida pela Secretaria Judiciária, devidamente juntada aos autos, que aponta óbice intransponível ao processamento do feito, nego seguimento ao recurso (art. 13, V, c , do R
+    ISTF).
+    Publique-se.
+    Brasília, 16 de abril de 2015.
+Ministro Ricardo Lewandowski
+Presidente
