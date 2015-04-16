@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra ato do Juiz Eleitoral da 10ª Zona Eleitoral de Jaru/RO. Consta dos autos, em síntese, que (a) o paciente foi denunciado pela suposta prática do crime de desobediência previsto no art. 347 do Código Eleitoral; (b) alegando atipicidade da conduta e ausência de justa causa para a ação penal, a defesa impetrou habeas corpus no Tribunal Regional Eleitoral do Estado de Rondônia, que indeferiu a liminar; (c) com a diplomação do paciente no cargo de Deputado Federal, o HC foi remetido ao Supremo Tribunal Federal.
+    2. Considerando que a ação penal – impugnada nesta impetração – também passou a tramitar nesta Corte (AP 903/RO, Rel. Min. Gilmar Mendes), incide o raciocínio da Súmula 606/STF, segundo a qual: “Não cabe habeas corpus originário para o Tribunal Pleno de decisão de Turma, ou do Plenário, proferida em habeas corpus ou no respectivo recurso”. Nesse sentido:
+    “HABEAS CORPUS. SUPOSTA COAÇÃO QUE PASSOU A SER DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL EM RAZÃO DA DIPLOMAÇÃO DO PACIENTE COMO DEPUTADO FEDERAL. APLICAÇÃO DA SÚMULA N. 606 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DA IMPETRAÇÃO. PRECEDENTES DO STF. 1. Não cabe habeas corpus para o Plenário contra ato de Ministro do Supremo Tribunal Federal. 2. Habeas corpus não conhecido” (HC 107325, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 30-05-2012).
+    HABEAS CORPUS. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL PROFERIDA EM AGRAVO DE INSTRUMENTO. APLICAÇÃO DA SÚMULA 606 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DA IMPETRAÇÃO. PRECEDENTES DO STF. HABEAS CORPUS NÃO CONHECIDO. 1. Não cabe habeas corpus originário para o Tribunal Pleno contra ato de Ministro deste Supremo Tribunal Federal. Precedentes. 2. Habeas corpus não conhecido” (HC 100.738, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 1º/7/2010).
+    3.  Pelo exposto, nego seguimento ao habeas corpus. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 16 de abril de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
