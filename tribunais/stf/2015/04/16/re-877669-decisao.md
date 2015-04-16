@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª região, assim ementado:
+    “TRIBUTÁRIO. PIS/COFINS. BASE DE CÁLCULO. VALORES REPASSADOS A ADMINISTRADORA DE CARTÃO DE CRÉDITO. INCLUSÃO. CABIMENTO.
+    - As Leis 10.637/02 e 10.833/03 ampliaram a base de cálculo da PIS e da COFINS - faturamento/receita bruta - para abarcar todos os ingressos na contabilidade do contribuinte, não apenas o produto das vendas de mercadorias e/ou serviços.
+    - A taxa de administração do cartão de crédito integra os custos operacionais da atividade da empresa impetrante, sendo, portanto, incluídos nos preços de seus bens e/ou serviços cobrados dos consumidores, mesmo que sejam posteriormente repassados a terceiros, motivo pelo qual ditos valores integram o conceito de faturamento/receita bruta para fins de incidência da PIS/COFINS.
+    - Os valores repassados às operadoras de cartão de crédito, correspondentes às taxas de administração de dito serviço, não estão relacionados nas hipóteses das receitas que devem ser excluídas da base de cálculo da PIS/COFINS, de acordo com os art. 1º, §3º das Leis 10.637/02 e 10.833/03.
+    - Apelação da empresa impetrante não provida.”
+    O recorrente sustenta que os valores constantes nas notas fiscais de vendas de mercadorias não correspondem ao seu faturamento, pois somente ingressa nos seus cofres a receita proveniente do repasse das operadoras de cartão de crédito.
+    A pretensão não merece ser acolhida, tendo em conta que as disposições do acórdão recorrido estão alinhadas à jurisprudência do Supremo Tribunal Federal.
+    Com efeito, segundo o entendimento firmado nesta Corte, a mera alegação de que os valores em questão são repassados a terceiros não é suficiente para afastar o conceito de faturamento de que trata o art. 195, I, da Constituição Federal. Isso porque o enquadramento de determinada receita como faturamento, para fins de incidência do Pis/Cofins, não depende de sua destinação, mas do fato de a receita decorrer do exercício das atividades empresariais.
+    Assim, no que tange especificamente à taxa de administração de cartão de crédito, o Ministro Celso de Mello, no autos do RE 744.449/RS, consignou que “o valor da taxa de administração cobrado pelas operadoras de cartão de crédito/débito constitui despesa operacional e integra a receita obtida pela pessoa jurídica com a venda do produto/serviço, ainda que tal percentual fique retido pela operadora no repasse do valor da operação”. No mesmo sentido, confiram-se as seguintes ementas:
+ “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS. EXCLUSÃO DA BASE DE CÁLCULO. TAXAS E COMISSÕES PAGAS ÀS ADMINISTRADORAS DE CARTÃO DE CRÉDITO E DE DÉBITO. RECEITA BRUTA E FATURAMENTO. TOTALIDADE DOS VALORES AUFERIDOS COM A VENDA DE MERCADORIAS, DE SERVIÇOS OU DE MERCADORIAS E SERVIÇOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – Para fins de definição da base de cálculo para a incidência da contribuição ao PIS e da COFINS, a receita bruta e o faturamento são termos sinônimos e consistem na totalidade das receitas auferidas com a venda de mercadorias, de serviços ou de mercadorias e serviços, ou seja, é a soma das receitas oriundas do exercício das atividades empresariais. Precedentes.
+    II – Agravo regimental a que se nega provimento. ” (ARE 816.363-AgR, Rel. Min. Ricardo Lewandowski)
+    “COFINS E PIS – VALORES REPASSADOS A TERCEIROS – AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 1/DF. A doutrina do Supremo acerca do conceito de faturamento previsto no artigo 195, inciso I, da Carta Federal – Ação Declaratória de Constitucionalidade nº 1/DF – engloba valores recebidos e repassados a terceiros.” (RE 510047 AgR, Rel. Min. Marco Aurélio)
+    Ademais, a classificação da receita para fins de aplicação do art. 3º, II, da Lei nº 10.637/2002 depende tão somente do exame de legislação infraconstitucional, circunstância que não enseja a abertura da via extraordinária. Nessa linha, confira-se ementa do RE 551.336-AgR, julgado sob relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Tributário. Cofins. Não cumulatividade. Insumos do processo de produção. Necessidade da análise prévia de legislação infraconstitucional. Ofensa constitucional apenas reflexa.
+    1. O princípio da não cumulatividade aplicável às contribuições sociais foi regulamentado pelas Leis nºs 10.637/02 e 10.833/03, nas quais o legislador listou os bens e serviços capazes de gerar crédito.
+    2. No julgamento do RE nº 422.005-ED (Relatora a Ministra Ellen Gracie, DJ de 20/4/06), a Corte firmou o entendimento de que eventuais controvérsias na aplicação dos institutos da compensação e da prescrição devem ser resolvidas nas instâncias ordinárias ou por via administrativa.
+    3. Agravo regimental não provido.”
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 16 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
