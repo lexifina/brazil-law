@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PROCESSUAL CIVIL. DECISÃO EM AÇÃO DE DESAPROPRIAÇÃO. CUMPRIMENTO DE SENTENÇA. PAGAMENTO DA INDENIZAÇÃO DA TERRA NUA, POR MEIO DE TDA. MULTA DIÁRIA MANTIDA.
+    I –Cuida-se de agravo de instrumento interposto contra decisão que, em ação de desapropriação, determinou a emissão das TDA's suficientes para a complementação da indenização da terra nua do imóvel expropriado, no prazo de vinte dias, sob pena de multa diária no valor de duzentos reais, até o limite de dez mil reais.
+    II - Na hipótese dos autos, o valor diário da multa foi fixado com razoabilidade, além de que a primeira decisão determinando a emissão das TDA's suficientes para a complementação da indenização da terra nua do imóvel expropriado data de março de 2011, inexistindo justificativa para o atraso de mais de 1 (um) ano no cumprimento da determinação judicial.
+    III - Tratando-se de cumprimento de sentença relativa à obrigação de pagar quantia certa atribuída à Fazenda Pública, mediante liberação de TDA´s, quando já transcorrido prazo razoável, obrigação essa, aliás, que resultou de acordo proposto pelo próprio INCRA, encontra-se legitimada a imposição da medida coercitiva pelo Juízo “a quo”pelo inadimplemento, no caso, imposição de astreíntes.”
+    A pretensão deduzida pela parte não encontra amparo na jurisprudência deste Supremo Tribunal Federal. No caso dos autos, dissentir das conclusões adotadas pelo Tribunal de origem demandaria o reexame do acervo probatório constantes dos autos e da legislação infraconstitucional correlata, providência vedada nesta fase processual. No mesmo sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. APLICAÇÃO DE MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. ASTREINTES. QUESTÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. CONTROVÉRSIA QUE DEMANDA O REEXAME DAS PROVAS DOS AUTOS, AO QUE NÃO SE PRESTA O RECURSO EXTRAORDINÁRIO (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 660.733-AgR, Rel.ª Min.ª Cármen Lúcia)
+    “Agravo regimental em agravo regimental em agravo de instrumento. 2. Astreintes. Matéria infraconstitucional. Ofensa indireta. 3. Agravo protelatório. Imposição de multa. 4. Agravo regimental a que se nega provimento” (AI 826.326-AgR-AgR, Rel. Min. Gilmar Mendes)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ASTREINTES. VALOR. MATÉRIA PROCESSUAL ORDINÁRIA. OFENSA INDIRETA. AGRAVO IMPROVIDO.
+    I - A discussão concernente ao cabimento e ao valor das astreintes, no presente caso, depende do prévio exame de normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. Ofensa indireta. Precedentes.
+    II – Agravo regimental improvido” (AI 731.718-AgR, Rel. Min. Ricardo Lewandowski)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 17 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
