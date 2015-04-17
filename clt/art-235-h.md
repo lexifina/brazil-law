@@ -1,1 +1,1 @@
-Art. 235-H. Outras condições específicas de trabalho do motorista profissional, desde que não prejudiciais à saúde e à segurança do trabalhador, incluindo jornadas especiais, remuneração, benefícios, atividades acessórias e demais elementos integrantes da relação de emprego, poderão ser previstas em convenções e acordos coletivos de trabalho, observadas as demais disposições desta Consolidação."
+Art. 235-H. (Revogado).

@@ -1,13 +1,16 @@
-Art. 235-E. Ao transporte rodoviário de cargas em longa distância, além do previsto no art. 235-D, serão aplicadas regras conforme a especificidade da operação de transporte realizada.
-§ 1º Nas viagens com duração superior a 1 (uma) semana, o descanso semanal será de 36 (trinta e seis) horas por semana trabalhada ou fração semanal trabalhada, e seu gozo ocorrerá no retorno do motorista à base (matriz ou filial) ou em seu domicílio, salvo se a empresa oferecer condições adequadas para o efetivo gozo do referido descanso.
+Art. 235-E. Para o transporte de passageiros, serão observados os seguintes dispositivos:
+I - é facultado o fracionamento do intervalo de condução do veículo previsto na Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, em períodos de no mínimo 5 (cinco) minutos;
+II - será assegurado ao motorista intervalo mínimo de 1 (uma) hora para refeição, podendo ser fracionado em 2 (dois) períodos e coincidir com o tempo de parada obrigatória na condução do veículo estabelecido pela Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, exceto quando se tratar do motorista profissional enquadrado no § 5º do art. 71 desta Consolidação;
+III - nos casos em que o empregador adotar 2 (dois) motoristas no curso da mesma viagem, o descanso poderá ser feito com o veículo em movimento, respeitando-se os horários de jornada de trabalho, assegurado, após 72 (setenta e duas) horas, o repouso em alojamento externo ou, se em poltrona correspondente ao serviço de leito, com o veículo estacionado.
+§ 1º (Revogado).
 § 2º (VETADO).
-§ 3º É permitido o fracionamento do descanso semanal em 30 (trinta) horas mais 6 (seis) horas a serem cumpridas na mesma semana e em continuidade de um período de repouso diário.
-§ 4º O motorista fora da base da empresa que ficar com o veículo parado por tempo superior à jornada normal de trabalho fica dispensado do serviço, exceto se for exigida permanência junto ao veículo, hipótese em que o tempo excedente à jornada será considerado de espera.
-§ 5º Nas viagens de longa distância e duração, nas operações de carga ou descarga e nas fiscalizações em barreiras fiscais ou aduaneira de fronteira, o tempo parado que exceder a jornada normal será computado como tempo de espera e será indenizado na forma do § 9º do art. 235-C.
-§ 6º Nos casos em que o empregador adotar revezamento de motoristas trabalhando em dupla no mesmo veículo, o tempo que exceder a jornada normal de trabalho em que o motorista estiver em repouso no veículo em movimento será considerado tempo de reserva e será remunerado na razão de 30% (trinta por cento) da hora normal.
-§ 7º É garantido ao motorista que trabalha em regime de revezamento repouso diário mínimo de 6 (seis) horas consecutivas fora do veículo em alojamento externo ou, se na cabine leito, com o veículo estacionado.
+§ 3º (Revogado).
+§ 4º (Revogado).
+§ 5º (Revogado).
+§ 6º (Revogado).
+§ 7º (Revogado).
 § 8º (VETADO).
-§ 9º Em caso de força maior, devidamente comprovado, a duração da jornada de trabalho do motorista profissional poderá ser elevada pelo tempo necessário para sair da situação extraordinária e chegar a um local seguro ou ao seu destino.
-§ 10. Não será considerado como jornada de trabalho nem ensejará o pagamento de qualquer remuneração o período em que o motorista ou o ajudante ficarem espontaneamente no veículo usufruindo do intervalo de repouso diário ou durante o gozo de seus intervalos intrajornadas.
-§ 11. Nos casos em que o motorista tenha que acompanhar o veículo transportado por qualquer meio onde ele siga embarcado, e que a embarcação disponha de alojamento para gozo do intervalo de repouso diário previsto no § 3º do art. 235-C, esse tempo não será considerado como jornada de trabalho, a não ser o tempo restante, que será considerado de espera.
-§ 12. Aplica-se o disposto no § 6º deste artigo ao transporte de passageiros de longa distância em regime de revezamento.
+§ 9º (Revogado).
+§ 10. (Revogado).
+§ 11. (Revogado).
+§ 12. (Revogado).

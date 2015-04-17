@@ -1,9 +1,11 @@
-Art. 67-A. É vedado ao motorista profissional, no exercício de sua profissão e na condução de veículo mencionado no inciso II do art. 105 deste Código, dirigir por mais de 4 (quatro) horas ininterruptas.
-§ 1º Será observado intervalo mínimo de 30 (trinta) minutos para descanso a cada 4 (quatro) horas ininterruptas na condução de veículo referido no caput, sendo facultado o fracionamento do tempo de direção e do intervalo de descanso, desde que não completadas 4 (quatro) horas contínuas no exercício da condução.
-§ 2º Em situações excepcionais de inobservância justificada do tempo de direção estabelecido no caput e desde que não comprometa a segurança rodoviária, o tempo de direção poderá ser prorrogado por até 1 (uma) hora, de modo a permitir que o condutor, o veículo e sua carga cheguem a lugar que ofereça a segurança e o atendimento demandados.
-§ 3º O condutor é obrigado a, dentro do período de 24 (vinte e quatro) horas, observar um intervalo de, no mínimo, 11 (onze) horas de descanso, podendo ser fracionado em 9 (nove) horas mais 2 (duas), no mesmo dia.
-§ 4º Entende-se como tempo de direção ou de condução de veículo apenas o período em que o condutor estiver efetivamente ao volante de um veículo em curso entre a origem e o seu destino, respeitado o disposto no § 1º, sendo-lhe facultado descansar no interior do próprio veículo, desde que este seja dotado de locais apropriados para a natureza e a duração do descanso exigido.
-§ 5º O condutor somente iniciará viagem com duração maior que 1 (um) dia, isto é, 24 (vinte e quatro) horas após o cumprimento integral do intervalo de descanso previsto no § 3º.
-§ 6º Entende-se como início de viagem, para os fins do disposto no § 5º, a partida do condutor logo após o carregamento do veículo, considerando-se como continuação da viagem as partidas nos dias subsequentes até o destino.
-§ 7º Nenhum transportador de cargas ou de passageiros, embarcador, consignatário de cargas, operador de terminais de carga, operador de transporte multimodal de cargas ou agente de cargas permitirá ou ordenará a qualquer motorista a seu serviço, ainda que subcontratado, que conduza veículo referido no caput sem a observância do disposto no § 5º.
+Art. 67-A. O disposto neste Capítulo aplica-se aos motoristas profissionais:
+I - de transporte rodoviário coletivo de passageiros;
+II - de transporte rodoviário de cargas.
+§ 1º (Revogado).
+§ 2º (Revogado).
+§ 3º (Revogado).
+§ 4º (Revogado).
+§ 5º (Revogado).
+§ 6º (Revogado).
+§ 7º (Revogado).
 § 8º (VETADO).
