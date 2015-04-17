@@ -1,0 +1,14 @@
+DESPACHO
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Primeira Região:
+    “PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. DECISÃO DEPENDENTE DO JULGAMENTO DE OUTRO AGRAVO. VINCULAÇÃO DO RESULTADO DESTE PROCESSO ÀQUELE. AUSENCIA DE RISCO DE DECISÃO CONFLITANTE. REDISCUSSÃO. PREQUESTIONAMENTO. 1. Se a produção dos resultados do julgamento deste recurso depende do trânsito em julgado de outro, correta a decisão que sobresta os efeitos deste até final julgamento daquele. 2. Dependência de um processo em relação ao outro. Não prejudicialidade. Inaplicável o art. 265 do CPC. 3. Inexistência de obscuridade, contradição ou omissão. 4. O órgão judicante não está obrigado a responder a todos os fundamentos aventados pelas partes, mas tão-somente aqueles que julga pertinentes ao deslinde da causa. 5. Na esteira deste entendimento, tem decidido o Supremo Tribunal Federal que, para fins de pré-questionamento, basta que a parte avie os embargos de declaração sobre a matéria que embasou o recurso de apelação ou as contrarrazões. 6. Embargos de Declaração rejeitados”.
+    2. A União alega contrariados os arts. 100, § 1º e § 4º, da Constituição da República.
+    Afirma que a “Constituição proíbe por completo que o valor da decisão transitada em julgado seja fracionado, não importa se esse fracionamento ocorra em vários precatórios ou uma parte em precatórios e o restante em requisição de pequeno valor. (…) Daí se conclui pela impossibilidade de proceder-se à inclusão de juros de mora nos cálculos”.
+    Pede seja “conhecido e provido este recurso para que seja reformada a decisão recorrida, excluindo a incidência de juros moratórios no precatório complementar”.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de que
+    “a tutela judicial pleiteada somente seria útil à recorrente se ela fosse sucumbente na lide. No caso, a decisão do Tribunal lhe foi favorável no tocante a entender não ser possível juros moratórios em precatório complementar, se observado o comando constitucional. (…)
+    Na questão relativa à manutenção da decisão que determinou a devolução dos valores recebidos a maior, o acórdão recorrido, integrado pelo acórdão de fls. 445-449, determinou o sobrestamento da decisão que anulou a devolução dos valores dos juros moratórios incluídos em precatório complementar, até o trânsito em julgado do EDEDAI 2000.01.00.010052-8, impedindo, desse modo, a admissão do recurso extraordinário, pois, interposto contra decisão ainda não decidida em última instância, conforme enunciado da Súmula n. 281 do STF”.
+    4.Vista à Procuradoria-Geral da República (art. 52, inc. XV, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de abril de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
