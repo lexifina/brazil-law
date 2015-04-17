@@ -1,0 +1,1 @@
+Art. 13-A. É vedada a utilização de informações de bancos de dados de proteção ao crédito como mecanismo de vedação de contrato com o TAC e a ETC devidamente regulares para o exercício da atividade do Transporte Rodoviário de Cargas.
