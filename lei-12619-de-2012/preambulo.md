@@ -1,0 +1,2 @@
+Dispõe sobre o exercício da profissão de motorista; altera a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 9.503, de 23 de setembro de 1997, 10.233, de 5 de junho de 2001, 11.079, de 30 de dezembro de 2004, e 12.023, de 27 de agosto de 2009, para regular e disciplinar a jornada de trabalho e o tempo de direção do motorista profissional; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
