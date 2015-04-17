@@ -1,1 +1,1 @@
-Art. 235-F. Convenção e acordo coletivo poderão prever jornada especial de 12 (doze) horas de trabalho por 36 (trinta e seis) horas de descanso para o trabalho do motorista, em razão da especificidade do transporte, de sazonalidade ou de característica que o justifique.
+Art. 235-F. Convenção e acordo coletivo poderão prever jornada especial de 12 (doze) horas de trabalho por 36 (trinta e seis) horas de descanso para o trabalho do motorista profissional empregado em regime de compensação.
