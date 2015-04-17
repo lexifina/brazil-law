@@ -1,3 +1,6 @@
 Art. 4º O contrato a ser celebrado entre a ETC e o TAC ou entre o dono ou embarcador da carga e o TAC definirá a forma de prestação de serviço desse último, como agregado ou independente.
 § 1º Denomina-se TAC-agregado aquele que coloca veículo de sua propriedade ou de sua posse, a ser dirigido por ele próprio ou por preposto seu, a serviço do contratante, com exclusividade, mediante remuneração certa.
 § 2º Denomina-se TAC-independente aquele que presta os serviços de transporte de carga de que trata esta Lei em caráter eventual e sem exclusividade, mediante frete ajustado a cada viagem.
+§ 3º Sem prejuízo dos demais requisitos de controle estabelecidos em regulamento, é facultada ao TAC a cessão de seu veículo em regime de colaboração a outro profissional, assim denominado TAC - Auxiliar, não implicando tal cessão a caracterização de vínculo de emprego.
+§ 4º O Transportador Autônomo de Cargas Auxiliar deverá contribuir para a previdência social de forma idêntica à dos Transportadores Autônomos.
+§ 5º As relações decorrentes do contrato estabelecido entre o Transportador Autônomo de Cargas e seu Auxiliar ou entre o transportador autônomo e o embarcador não caracterizarão vínculo de emprego.

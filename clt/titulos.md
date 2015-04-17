@@ -116,7 +116,7 @@ DOS MÚSICOS PROFISSIONAIS
 SEÇÃO IV
 DOS OPERADORES CINEMATOGRÁFICOS
 Seção IV-A
-Do Serviço do Motorista Profissiona
+Do Serviço do Motorista Profissional Empregado
 SEÇÃO V
 DO SERVIÇO FERROVIÁRIO
 SEÇÃO VI

@@ -1,1 +1,3 @@
-Art. 235-A. Ao serviço executado por motorista profissional aplicam-se os preceitos especiais desta Seção.
+Art. 235-A. Os preceitos especiais desta Seção aplicam-se ao motorista profissional empregado:
+I - de transporte rodoviário coletivo de passageiros;
+II - de transporte rodoviário de cargas.
