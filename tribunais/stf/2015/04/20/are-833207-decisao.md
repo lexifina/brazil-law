@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 196):
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. Anulação do ato administrativo que o eliminou o impetrante na fase de investigação social do concurso de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro de 2008. Afirmação feita pelo próprio candidato de que teria feito uso de maconha uma única vez na adolescência. Concessão da ordem. Apelo ofertado pelo Estado do Rio de Janeiro. Decisão do Relator que negou seguimento de plano ao apelo. Possibilidade. Razões recursais manifestamente improcedentes a atrair a regra do art. 557, caput, do CPC. Fato narrado pelo próprio candidato que não apresenta tipicidade para configurar a hipótese de incidência de cláusula constante no edital, motivadora da sua exclusão. Interpretação desproporcional e desarrazoada. Fato que não denota o envolvimento do candidato com desígnios criminosos, mormente quando este foi aprovado em exame toxicológico e documental. Confissão que revela estrita boa-fé e honestidade do candidato. DECISÃO PROFERIDA PELO ILUSTRE RELATOR QUE SE MANTÉM. AGRAVO DESCONHECIDO E DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; e 37, I, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) ausência de prequestionamento dos dispositivos constitucionais tidos por violados; e (ii) incidência, no caso, da Súmula 279/STF.
+    O recurso não merece acolhida. Em primeiro lugar, o Supremo Tribunal Federal já firmou o entendimento de que não viola o princípio da separação dos Poderes o exame, pelo Poder Judiciário, de ato administrativo tido por ilegal ou abusivo. Veja-se trecho da ementa do RE 629.574-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    III - Esta Corte possui entendimento no sentido de que o exame pelo Poder Judiciário do ato administrativo tido por ilegal ou abusivo não viola o princípio da separação dos poderes. Precedentes.
+    IV - Agravo regimental improvido.”
+    Em segundo lugar, para dissentir da conclusão firmada pelo Tribunal de origem, faz-se imprescindível uma nova análise dos fatos e do material probatório constantes dos autos, providência vedada neste momento processual, a atrair a incidência da Súmula 279/STF.
+    Nesse mesmo sentido e sobre a mesma controvérsia, vejam-se os seguintes julgados: AI 789.656, Rel. Min. Dias Toffoli; ARE 729.188, Rel. Min. Ricardo Lewandowski; e ARE 699.911-AgR; julgado sob a relatoria da Ministra Cármen Lúcia, asim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. EXCLUSÃO DE CANDIDATO EM INVESTIGAÇÃO SOCIAL. 1. CONTROLE JUDICIAL DA DISCRICIONARIEDADE ADMINISTRATIVA: INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. 2. CONTROVÉRSIA SOBRE OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE, DA PROPORCIONALIDADE E DA ISONOMIA: SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 20 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
