@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de dois recursos extraordinários interpostos contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “TRIBUTÁRIO. TDA – TÍTULO DA DÍVIDA AGRÁRIA. NÃO INCIDÊNCIA DE IMPOSTO DE RENDA NA HIPÓTESE DE DESAPROPRIAÇÃO. NEGOCIAÇÃO DAS TDA’S. OPERAÇÃO REALIZADA NO CHAMADO OPEN MARKET. OPERAÇÃO FINANCEIRA SUSCETÍVEL DE GERAR RENDIMENTO TRIBUTÁVEL. CABIMENTO DA EXAÇÃO.
+    O caráter indenizatório, na hipótese de desapropriação mediante pagamento por TDA – Títulos da Dívida Agrária exclui a incidência de Imposto de Renda, por não caracterizada a incidência do art. 43 do CTN.
+    No caso dos autos, trata-se de operação de negociação das TDA’S, uma operação financeira como outra qualquer, suscetível de gerar rendimento tributável.
+    Aqui não se cuida de resgate de juros gerados por TDA’S, mas de negociação em operação realizada no chamado open market, em que não mais se cuida de ‘indenização’, mas de produto do capital (CTN, art. 43, I).
+    A tributação incide não sobre as TDA’S, no seu recebimento, mas sobre o resultado de sua alienação no mercado financeiro, como ocorreria com a venda direta do imóvel, se não tivesse sido expropriado, em operação que resultasse lucro.
+    Mantida a sucumbência das custas e honorários em relação ao apelante, invertendo o ônus no mesmo percentual em favor da União Federal, a ser suportado pela Apelada."
+    A pretensão deduzida pelas partes não encontra amparo na jurisprudência deste Supremo Tribunal Federal. Com efeito, é firme o entendimento desta Corte no sentido de que a imunidade tributária prevista no art. 184, §5º, da Constituição Federal, é concedida somente aos proprietários expropriados, não sendo extensível ao terceiro adquirente do título, circunstância que implicaria desvio da finalidade do dispositivo constitucional. Nesse sentido, confiram-se os seguintes precedentes:
+    “Recurso extraordinário. Alcance da imunidade tributária relativa aos títulos da dívida agrária. - Há pouco, em 28.09.99, a Segunda Turma desta Corte, ao julgar o RE 169.628, relator o eminente Ministro Maurício Corrêa, decidiu, por unanimidade de votos, que o § 5º do artigo 184 da Constituição, embora aluda a isenção de tributos com relação às operações de transferência de imóveis desapropriados para fins de reforma agrária, não concede isenção, mas, sim, imunidade, que, por sua vez, tem por fim não onerar o procedimento expropriatório ou dificultar a realização da reforma agrária, sendo que os títulos da dívida agrária constituem moeda de pagamento da justa indenização devida pela desapropriação de imóveis por interesse social e, dado o seu caráter indenizatório, não podem ser tributados. Essa imunidade, no entanto, não alcança terceiro adquirente desses títulos, o qual, na verdade, realiza com o expropriado negócio jurídico estranho à reforma agrária, não sendo assim também destinatário da norma constitucional em causa.
+    - Dessa orientação divergiu o acórdão recorrido.
+    Recurso extraordinário conhecido e provido.” (RE 168.110, Rel. Min. Moreira Alves)
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. DESAPROPRIAÇÃO. TÍTULO DA DÍVIDA AGRÁRIA. IMUNIDADE TRIBUTÁRIA. EXTENSÃO AO TERCEIRO POSSUIDOR. IMPOSSIBILIDADE.
+    1. A isenção de tributos de que trata o § 5º do artigo 184 da Constituição Federal, deferida às operações relativas às transferências de imóveis desapropriados, há de ser entendida como imunidade e tem por fim não onerar o procedimento expropriatório ou dificultar a realização da reforma agrária, de competência exclusiva da União Federal.
+    2. Os títulos da dívida agrária constituem moeda de pagamento da justa indenização devida pela desapropriação de imóveis por interesse social e, dado o seu caráter indenizatório, não podem ser tributados.
+    3. Terceiro adquirente de títulos da dívida agrária. Imunidade. Extensão. Impossibilidade. O benefício alcança tão-somente o expropriado. O terceiro adquirente, que com ele realiza ato mercantil, em negócio estranho à reforma agrária, não é destinatário da norma constitucional.” (RE 169.628, Rel. Min. Maurício Corrêa)
+    Dessa orientação não divergiu o acórdão recorrido.
+    Ademais, para dissentir das conclusões adotadas pelo Tribunal de origem quanto à natureza da operação realizada entre partes seria necessário o reexame do acervo probatório constante dos autos, providência vedada nesta fase processual.
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+          Brasília, 20 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
