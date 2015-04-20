@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO FISCAL. LEGITIMIDADE PASSIVA: SÓCIO-GERENTE. ALEGAÇÃO DE INOBSERVÂNCIA DOS ARTS. 5º, INCS. XXXV E LV, E 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMEN TO. EXECUÇÃO FISCAL. INCLUSÃO DO SÓCIO-GERENTE NO POLO PASSIVO. PREJUDICIALIDADE DO AGRAVO REGIMENTAL.
+    I. Antes da oposição dos embargos à execução, cabível é a discussão sobre a questão processual de legitimidade passiva do sócio, mormente em casos de inadimplência de tributos de pessoa jurídica desprovida de patrimônio – ou simplesmente não localizada.
+    II. A apuração da existência de efetiva responsabilidade do sócio fica relegada a eventuais embargos à execução, por se tratar de matéria fática de fundo, sujeita a instrução probatória.
+    III. Reconhecida a legitimidade dos sócios para figurarem no polo passivo da ação.
+    IV. Agravo regimental prejudicado e Agravo de Instrumento improvido” (fl. 116, doc. 1).
+    2. No recurso extraordinário, os Agravantes alegam ter o Tribunal de origem contrariado os arts. 5º, incs. XXXV e LV, e 93, inc. IX, da Constituição da República.
+    Asseveram não ter a Fazenda Nacional “comprov[ado] que houve excesso de gerenciamento da sociedade, e muito menos que este gerenciamento tenha sido exercido pelos recorrentes, motivo pelo qual, não pode simplesmente incluir no polo passivo da ação terceiros de boa-fé” (fl. 12, doc. 2).
+    3. Inadmitiu-se o recurso extraordinário ao fundamento de ausência de ofensa constitucional direta.
+    Analisados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste aos Agravantes.
+    6. O Tribunal de origem manteve a legitimidade dos sócios para figurarem no polo passivo da ação, nos seguintes termos:
+    “Nesta fase processual, não há de perquirir a responsabilidade do dirigente social pelas pendências da empresa, mas, tão somente, sua legitimidade passiva para figurar na demanda, mormente nos casos em que a pessoa jurídica não subsiste regularmente e, por isso, sequer pode adentrar a relação processual através de representante. (...)
+    Neste instante, cumpre-se, tão somente, justificar a legitimidade passiva do sócio, mormente em casos de inadimplência de tributos de pessoa jurídica desprovida de patrimônio – ou simplesmente não localizada. (...)
+    Na hipótese, portanto, identifico a legitimidade dos sócios para figurarem no polo passivo da ação, sem que isso interfira no julgamento posterior de sua responsabilidade, se for o caso”(fls. 114-115, doc. 1).
+    A apreciação do pleito recursal demandaria reexame da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E ADMINISTRATIVO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REGULARIDADE FORMAL DA CDA. PEDIDO DE EXCLUSÃO DO NOME DE SÓCIO DA CERTIDÃO DE DÍVIDA ATIVA EM FASE DE EXECUÇÃO. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. 1. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, dos limites da coisa julgada e da prestação jurisdicional, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes: AI 804.854-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe de 24/11/2010 e AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie, DJe de 22/10/2010. 2. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13,08.2010. 3. (...) 4. Agravo regimental a que se nega provimento” (AI 782.205-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 12.12.2012).
+    7. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral em alegações de contrariedade aos princípios do contraditório e da ampla defesa, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    8. Quanto à afirmativa de contrariedade ao inc. IX do art. 93 da Constituição da República, embora em sentido contrário à pretensão dos Agravantes, o acórdão recorrido apresentou fundamentação suficiente. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    Nada há, pois, a prover quanto às alegações dos Agravantes.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de abril de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
