@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PRODERJ. PEDIDO DE EXTENSÃO DOS EFEITOS CONFERIDOS PELA DECISÃO DOS PROCESSOS ADMINISTRATIVOS E-1/900.865/97 E E-01/3610/2000. SERVIDOR OCUPANTE DO CARGO DE AUXILIAR TÉCNICO. SENTENÇA DE IMPROCEDÊNCIA. MANUTENÇÃO DO JULGADO. REENQUADRAMENTO DA TABELA DE REMUNERAÇÃO SALARIAL DO PRODERJ, EM RAZÃO DA CONSTATAÇÃO DE DISTORÇÕES ENTRE OS VENCIMENTOS DOS CARGOS DE ANALISTA DE SISTEMA E OS DA INICIATIVA PRIVADA. CONCESSÃO DE AUMENTO SOMENTE A UM GRUPO DETERMINADO DE SERVIDORES. AUTOR QUE NÃO SE ENQUADRA NO CARGO PARADIGMA. INCIDÊNCIA DA SÚMULA Nº 339 DO C. STJ. PRECEDENTES DESTE E. TJRJ. RECURSO CONHECIDO AO QUAL SE NEGA PROVIMENTO. ARTIGO 557, CAPUT, DO CPC.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao princípio da isonomia, bem como ao art. 37, X, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que, “na hipótese em concreto, para dar pela suposta vulneração de mandamento constitucional, mister se faz, por primeiro, verificar da negativa de vigência de norma infraconstitucional”.
+    O recurso não deve ser admitido. Isso porque o entendimento está alinhado à jurisprudência do Supremo Tribunal Federal quanto à vedação do aumento de vencimentos de servidores públicos pelo Poder Judiciário, com base no principio da isonomia, na equiparação salarial ou a pretexto da revisão geral anual. Tal entendimento restou pacificado no julgamento do RE 592.317-RG, sob a relatoria do Ministro Gilmar Mendes, e consolidou-se com a edição da Súmula vinculante 37:
+    “NÃO CABE AO PODER JUDICIÁRIO, QUE NÃO TEM FUNÇÃO LEGISLATIVA, AUMENTAR VENCIMENTOS DE SERVIDORES PÚBLICOS SOB FUNDAMENTO DE ISONOMIA.”
+    Ademais, para dissentir da solução conferida pelo Tribunal de origem à controvérsia, seria necessária a análise da legislação infraconstitucional aplicada ao caso, bem como uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. Nesse sentido, vejam-se o ARE 845.399, Rel. Min. Gilmar Mendes; e o ARE 828.197, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 20 de abril de 2015.
+      Ministro Luís Roberto Barroso
+Relator
