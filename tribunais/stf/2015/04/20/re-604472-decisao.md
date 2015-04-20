@@ -1,0 +1,26 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “TRIBUTÁRIO. IPMF. ART. 8º, IV DA LC 77/93. CARTEIRA DE INVESTIDOR ESTRANGEIRO. ALÍQUOTA ZERO.
+    1. O Supremo Tribunal Federal, ao julgar a ADIN nº 939-7/93, declarou a inconstitucionalidade da IPMF apenas nos pontos em que determinou a incidência do tributo no mesmo ano de sua instituição e deixou de reconhecer as imunidades previstas no artigo 150, VI, a, b, c, e d, da Constituição Federal.
+    2. A legislação tributária que concede um benefício fiscal deve ser interpretada literalmente (CTN, art. 111). Assim, somente as sociedades de investimento e fundos de investimento constituídos nos termos dos artigos 49 e 50 da Lei nº 4.728, de 14 de julho de 1965 estão sujeitas à alíquota zero do IPMF, o que não é a hipótese dos autos.
+    3. As instruções normativas da Secretaria da Receita Federal nºs 70/93 e 106/93 estão em sintonia com a Lei Complementar nº 77/93.
+    4. Afastada a tese de violação ao princípio da isonomia, tendo em vista que não se impõe tratamento desigual a contribuintes na mesma situação.
+    5. Apelação improvida."
+    A pretensão deduzida pela parte não encontra amparo na jurisprudência deste Supremo Tribunal Federal. De início, cumpre registrar que é firme o entendimento da Corte no sentido de que o Poder Judiciário não pode atuar como legislador positivo para estender benefício tributário a quem não foi beneficiado por lei. Confiram-se, a propósito, os seguintes julgados:
+    “DIREITO TRIBUTÁRIO. EXTINTA IMPF. AMPLIAÇÃO DE ISENÇÕES POR EQUIPARAÇÃO. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO ATUAR COMO LEGISLADOR POSITIVO. PRECEDENTES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTIGO 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. CONTRADITÓRIO E AMPLA DEFESA. NATUREZA INFRACONSTITUCINAL DA CONTROVÉRSIA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 07.5.2009.
+    Inexiste violação do artigo 93, IX, da Constituição Federal. O Supremo Tribunal Federal entende que o referido dispositivo constitucional exige que o órgão jurisdicional explicite as razões do seu convencimento, dispensando o exame detalhado de cada argumento suscitado pelas partes.
+    Obstada a análise da suposta afronta aos incisos XXXV e LV do artigo 5º da Carta Magna, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta.
+    Esta Suprema Corte entende ser vedado ao Poder Judiciário, sob pretexto de atenção ao princípio da igualdade, atuar como legislador positivo estabelecendo isenções tributárias não previstas em lei. Tal interpretação se amolda ao presente caso, em que se almeja o deferimento da alíquota zero para efeito de incidência do extinto IPMF,a despeito de inexistir lei outorgando essa benesse.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República. Agravo regimental conhecido e não provido.” (AI 831.965-AgR, Rel.ª Min. Rosa Weber)
+    “TRIBUTÁRIO. PARCELAMENTO DE DÉBITOS PREVIDENCIÁRIOS. EXTENSÃO DE BENEFÍCIO CONCEDIDO APENAS A EMPRESAS PÚBLICAS E SOCIEDADES DE ECONOMIA MISTA. IMPOSSIBILIDADE.
+    I - Não é dado ao Poder Judiciário atuar como legislador positivo, mas apenas como legislador negativo nas hipóteses de declaração de inconstitucionalidade.
+    II - Impossibilidade de extensão, às demais empresas, do prazo concedido pela Lei 8.620/93 às empresas públicas e sociedades de economia mista para parcelamento de débitos previdenciários.
+    III - Agravo regimental improvido” (RE 493.234-AgR, Rel. Min. Ricardo Lewandowski)
+    Ademais, no caso dos autos, dissentir das conclusões adotadas pelo Tribunal de origem demandaria o reexame do acervo probatório constante dos autos e da legislação infraconstitucional correlata, providência vedada nesta fase processual. No mesmo sentido, veja-se ementa do AI 549.118-AgR, julgado sob relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXIGÊNCIA DO IMPOSTO PROVISÓRIO SOBRE MOVIMENTAÇÃO FINANCEIRA – IPMF. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE DE ATUAR O PODER JUDICIÁRIO COMO LEGISLADOR POSITIVO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Por fim, anoto que o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes)
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 20 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
