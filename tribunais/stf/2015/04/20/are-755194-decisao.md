@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 5º, incisos XXXV, LV e LXXIV, da Constituição Federal.
+    No apelo extremo, a recorrente ataca acórdão da 2ª Turma Recursal do Juizado Especial Cível e Criminal do Estado de Minas Gerais que, em síntese, não conheceu do seu recurso inominado.
+    O Ministério Público Federal, em parecer da lavra do ilustrado Subprocurador-Geral da República Dr. Odim Brandão Ferreira, opina pela não conhecimento do agravo e, caso conhecido, pelo “provimento do recurso extraordinário para devolver os autos à Turma Recursal para análise, em primeiro plano, do pedido de concessão do benefício da justiça gratuita”.
+     Decido.
+    Compulsando os autos, verifica-se que a turma recursal não conheceu do recurso inominado da ora recorrente em virtude de sua deserção. Ocorre, todavia, que desde a contestação, a ora recorrente pleitou às instâncias de origem a concessão do benefício da gratuidade de justiça (fl. 44), pedido esse que foi reiterado na própria petição do recurso inominado (fl. 183).
+    Assim, merece ser provido o recurso extraordinário, conforme bem lançado no douto parecer do Ministério Público Federal, in verbis:
+    “A decisão impugnada não parece conformada à Constituição, ao não admitir o recurso com base na deserção. A deserção somente se operaria se apreciado o pedido, a gratuidade fosse indeferida, e após reaberto o prazo para preparo do recurso, o recorrente não regularizasse o preparo. Sem apreciação do pedido de concessão do benefício, o recurso não pode ser considerado deserto.
+    A situação evidencia ofensa direta à garantia constitucional da inafastabilidade de apreciação judicial de lesão ou ameaça de direito, inscrita no art. 5º, XXXV, da Constituição” (fl. 263).
+    Aplica-se ao caso, mutatis mutandis, a tese assentada no seguinte julgado:
+    HABEAS CORPUS. ROUBO MAJORADO (INCISOS I e II DO § 2º DO ARTIGO 157 DO CP). PACIENTE CONDENADO EM COMARCAS DIVERSAS. ALEGADA NULIDADE DAS CONDENAÇÕES. OFENSA À REGRA DE DEFINIÇÃO DA COMPETÊNCIA PELA CONEXÃO (ARTIGOS 76 A 82 DO CÓDIGO DE PROCESSO PENAL). PEDIDO EXPRESSO DE INTIMAÇÃO DA DEFENSORIA PÚBLICA DA UNIÃO PARA O ACOMPANHAMENTO DA AÇÃO CONSTITUCIONAL AJUIZADA NO STJ. REQUERIMENTO NÃO EXAMINADO PELA AUTORIDADE APONTADA COMO COATORA. VIOLAÇÃO À GARANTIA CONSTITUCIONAL DO DEVIDO PROCESSO LEGAL. ORDEM PARCIALMENTE CONHECIDA E, NESSA PARTE, DEFERIDA. I - O paciente postulou a assistência judiciária da Defensoria Pública da União, ao impetrar habeas corpus perante o STJ, de próprio punho. Pedido que não foi examinado pela autoridade apontada como coatora. O que viola as garantias constitucionais do devido processo legal e da "assistência judiciária integral e gratuita aos que comprovarem insuficiência de recursos" (incisos LV e LXXIV do artigo 5º da CF/88). II - A concessão da ordem, no ponto, é a decisão que melhor prestigia o preceito de matriz constitucional que faz da Defensoria Pública uma "instituição essencial à função jurisdicional do Estado, incumbindo-lhe a orientação jurídica e a defesa, em todos os graus, dos necessitados, na forma do art. 5º, LXXIV". III - Habeas corpus parcialmente conhecido e, nessa parte, deferido” (HC nº 90.423/MG, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 12/2/10 – grifo nosso).
+    Ante o exposto, conheço do agravo e dou provimento ao recurso extraordinário para anular o acórdão recorrido e determinar que outro seja proferido após a análise do pedido de gratuidade de justiça formulado pela ora recorrente.
+    Publique-se.
+    Brasília, 20 de abril de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
