@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de impugnação ao valor da causa proposta por Conceição Orofino da Luz Fontes em face do valor atribuído à presente ação rescisória: R$ 1.000,00 (um mil reais).
+    Aduz a parte impugnante, nesta sede processual, para justificar a presente postulação, as seguintes considerações:
+    “Foi arbitrado na causa o valor de R$ 1.000,00. A petição inicial da ação rescisória tem que ser elaborada em consonância com os requisitos do art. 282 do CPC, como determina o art. 488, ‘caput’, do mesmo diploma legal. E o art. 282 do CPC, em seu inciso V, exige que seja indicado, pelo autor, O VALOR DA CAUSA. Não se aplica no caso o art. 258 do CPC, deixando ao talante, ao arbítrio do autor o valor atribuído à causa.
+    O presente pleito rescisório tem conteúdo econômico imediato. Tanto que na origem tramita ação de repetição de indébito para ressarcimento do valor bloqueado pelo Instituto Previdenciário autor, que consubstancia, sem as correções devidas, a quantia de R$ 73.168,55, valor este que a ré quer ver restituído ao seu patrimônio, pois abusiva e ilegalmente subtraídos do valor integral de sua remuneração: abril de 2004 até o mês de março de 2005, mês a mês, incluindo a gratificação natalina, a saber: R$ 5.628,35 x 13 = R$ 73.168.65, tudo conforme documentação anexa.
+    A cobrança que se faz na respectiva ação junto ao Juízo da Vara da Fazenda da Comarca de Florianópolis (SC) tem como fundamento o trânsito em julgado do r. despacho monocrático que o autor pretende rescindir.
+    E quando a ação rescisória – tem conteúdo econômico imediato – é este valor que serve de critério para os efeitos do art. 259 do CPC.” (grifei)
+    Sendo esse o contexto, passo a analisar a postulação em causa.
+    E, ao fazê-lo, entendo não assistir razão à parte impugnante, eis que, nas ações rescisórias, o valor da causa deve ser aquele atribuído à ação em que proferida a decisão rescindenda, com a devida correção monetária.
+    Cabe ressaltar, por necessário, que esse entendimento tem sido observado, em sede de impugnação ao valor da causa, pelo Supremo Tribunal Federal (AR 1.300-AgR/PR, Rel. Min. ILMAR GALVÃO – AR 1.373-IVC/DF, Rel. Min. OCTAVIO GALLOTTI – AR 1.407-IVC/SP, Rel. Min. ILMAR GALVÃO – AR 1.976-IVC/PR, Rel. Min. JOAQUIM BARBOSA – AR 1.988-IVC/PR, Rel. Min. RICARDO LEWANDOWSKI – AR 2.320- -IVC/PA, Rel. Min. DIAS TOFFOLI – AR 2.370-IVC/CE, Rel. Min. TEORI ZAVASCKI, v.g.), valendo mencionar julgamento que, proferido pelo Plenário do Supremo Tribunal Federal, apreciou questão processual idêntica à ora versada neste pleito impugnatório e que restou consubstanciado em acórdão assim ementado:
+    “AÇÃO RESCISÓRIA – IMPUGNAÇÃO AO VALOR DA CAUSA.
+    O valor da causa na ação rescisória é, de regra, o valor da ação, cuja decisão se pretende rescindir, porém, corrigido monetariamente.
+    Impugnação conhecida e provida, para determinar a incidência da correção monetária.”
+    (AR 1.176-IVC-QO/PR, Rel. Min. PAULO BROSSARD – grifei)
+    Cumpre destacar, por oportuno, no tema ora em exame, ante a inquestionável procedência de suas observações, a decisão proferida pelo eminente Ministro JOAQUIM BARBOSA (AR 1.976-IVC/PR), no sentido de que se deve reproduzir na “ação rescisória o valor atribuído à causa na ação primitiva, com correção monetária (...)” (grifei).
+    Impende assinalar, ainda, nessa mesma linha de orientação, em face de sua precisa abordagem, a lição de COQUEIJO COSTA (“Ação Rescisória”, p. 135, 7ª ed., 2002, LTr):
+    “Havendo posterior reavaliação da causa, ‘ex-officio’ pelo Juiz ou a pedido do réu, que seja deferido, deveria ser complementado o depósito, e se o autor não cumprisse a diligência, extinguir-se-ia o processo sem julgamento de mérito (CPC, art. 267, III). A questão tornou-se despicienda ante a jurisprudência iterativa do Supremo, de que ‘de regra, o valor da ação rescisória é o da ação cuja sentença aquela visa desconstituir’ (TP, AR-1.040-0 (AgRg)-SC, Rel. Min. Soarez Muñoz, DJU de 28.04.78, pág. 2.793) – inclusive para efeito do valor do depósito prévio, como em tal julgado se fixa, e, acrescentamos por dedução, ainda que a rescisória ataque apenas um dos capítulos da sentença rescindenda. No mesmo passo, acórdão do Pleno, AR-1.048-5-SP (AgRg), DJU de 10.08.79, pág. 5.843, Rel. Min. Décio Miranda).” (grifei)
+    Vale registrar, finalmente, que o entendimento ora exposto reflete-se, por igual, no magistério jurisprudencial do E. Superior Tribunal de Justiça:
+    “5. A jurisprudência é uníssona em reconhecer que, nas ações rescisórias, o valor da causa há que ser o mesmo da ação principal, corrigido monetariamente (STF, Pleno, RTJ 144/157 e RT 189/45; RTFR 102/13, RT 568/146, RJTJESP 90/342 e 102/376;  AR nº 568/SP, 1ª Seção, DJ de 17/12/1999; AgReg na Petição nº 8/RJ, 1ª Seção, DJ de 10/10/1989; REsp. nº 8.482/SP, 3ª Turma, DJ de 27/05/1991).
+    6. Pedido rescisório improcedente. Agravo regimental prejudicado. Impugnação ao valor da causa parcialmente provida, para que o valor dado à causa seja o mesmo da ação principal, corrigido monetariamente.”
+    (AR 818/AM, Rel. Min. JOSÉ DELGADO – grifei)
+    “PROCESSUAL CIVIL E PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA.
+    1. Nas rescisórias, o valor da causa deve corresponder ao valor da ação originária, corrigido monetariamente até a data do seu ajuizamento. Jurisprudência desta Corte.
+    2. Impugnação ao valor da causa julgada procedente.”
+    (Pet 1.538/MS, Rel. Min. ARNALDO ESTEVES LIMA – grifei)
+    Sendo assim, em face das razões expostas, julgo improcedente a presente impugnação, determinando, em consequência, com apoio no art. 261 do CPC, seja mantido na presente ação rescisória o valor de R$ 1.000,00 (um mil reais), atualizado monetariamente.
+    Publique-se.
+    Brasília, 20 de abril de 2015.
+Ministro CELSO DE MELLO
+Relator
