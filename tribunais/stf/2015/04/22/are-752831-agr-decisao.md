@@ -1,0 +1,16 @@
+DECISÃO: Reconsidero a decisão ora agravada, restando prejudicado, em consequência, o exame do recurso de agravo contra ela interposto.
+    Passo, desse modo, a apreciar o presente agravo.
+    E, ao fazê-lo, verifico que o apelo extremo em questão revela-se processualmente viável, eis que se insurge contra acórdão que decidiu a causa em desconformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria ora em exame.
+    Com efeito, a controvérsia jurídica objeto deste processo já foi dirimida pelo Plenário do Supremo Tribunal Federal, que, ao julgar o HC 113.857/AM, Rel. Min. DIAS TOFFOLI, fixou entendimento consubstanciado em acórdão assim ementado:
+    “’Habeas Corpus’. Penal Militar. Crime de deserção (CPM, art. 187). Suspensão condicional da pena. Vedação ‘ex lege’ (CPM, art. 88, II, a). Ofensa à garantia constitucional da individualização da pena (inciso XLVI do art. 5º da CF/88). Flexibilização. Admissão do sursis. Consideração necessária por parte do julgador (CPM, art. 84). Declaração de não recepção pela Constituição de 1988 de parte da alínea a do inciso II do art. 88 do CPM. Inaplicabilidade no caso concreto. Empate. Ordem concedida na forma regimental (RISTF, art. 146, parágrafo único).
+    1. A norma em questão avilta mais diretamente a equidade, pela qual se espera harmonia na aplicação dos princípios constitucionais e das normas infraconstitucionais.
+    2. Assim como deve o legislador, ao estabelecer tipos penais incriminadores, inspirar-se na proporcionalidade, não cominando sanções ínfimas para crimes que violem bens jurídicos de relevo maior, nem penas exageradas para infrações de menor potencial ofensivo, deve ele observar esse mesmo preceito no que diz respeito às normas tendentes à individualização dessas penas, atentando para as condições específicas do violador da norma e para as consequências da infração por ele cometida para o bem jurídico tutelado pela lei e para a eventual vítima do crime.
+    3. Feitas essas considerações, é o caso de superar, em parte, o disposto na alínea a do inciso II do art. 88 do Código Penal Militar (vedação legal à suspensão condicional da pena), admitindo-se o sursis no crime de deserção para aquele que preencha todos os demais requisitos previstos no art. 84 do CPM.
+    4. Em face de empate na votação, não se pode declarar a não recepção pela Constituição de 1988 da parte da alínea a do inciso II do art. 88 do Código Penal Militar em que se exclui, em tempo de paz, a suspensão condicional da pena para os condenados pelo crime de deserção.
+    5. Ordem concedida, na forma regimental.”
+    O exame da presente causa evidencia que o acórdão questionado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para dar provimento ao recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “c”, na redação dada pela Lei nº 12.322/2010), em ordem a determinar sejam observados os estritos limites fixados no julgamento plenário do HC 113.857/AM.
+    Publique-se.
+    Brasília, 22 de abril de 2015.
+Ministro CELSO DE MELLO
+Relator
