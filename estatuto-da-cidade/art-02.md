@@ -24,3 +24,4 @@ XIV - regularização fundiária e urbanização de áreas ocupadas por populaç
 XV - simplificação da legislação de parcelamento, uso e ocupação do solo e das normas edilícias, com vistas a permitir a redução dos custos e o aumento da oferta dos lotes e unidades habitacionais;
 XVI - isonomia de condições para os agentes públicos e privados na promoção de empreendimentos e atividades relativos ao processo de urbanização, atendido o interesse social.
 XVII - estímulo à utilização, nos parcelamentos do solo e nas edificações urbanas, de sistemas operacionais, padrões construtivos e aportes tecnológicos que objetivem a redução de impactos ambientais e a economia de recursos naturais.
+XVIII - tratamento prioritário às obras e edificações de infraestrutura de energia, telecomunicações, abastecimento de água e saneamento.
