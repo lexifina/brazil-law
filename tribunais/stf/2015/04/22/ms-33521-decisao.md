@@ -1,0 +1,24 @@
+DECISÃO
+MANDADO DE SEGURANÇA — COMISSÃO PARLAMENTAR DE INQUÉRITO — REQUISITOS — COMPETÊNCIA DO PRESIDENTE DA CASA LEGISLATIVA — MEDIDA ACAUTELADORA — INDEFERIMENTO.
+    1. O assessor Dr. Rodrigo Crelier Zambão da Silva prestou as seguintes informações:
+    Ricardo José Magalhães Barros, deputado federal, impetra mandado de segurança contra ato por meio do qual o Presidente da Câmara dos Deputados indeferiu pedido de instauração de comissão parlamentar de inquérito destinada a investigar a metodologia de elaboração e divulgação de pesquisas e os reflexos no resultado das eleições.
+    Segundo narra, a autoridade dita coatora, ao afastar a caracterização de fato certo a justificar a formalização da comissão, trouxe inegável prejuízo à participação da minoria parlamentar no processo democrático.
+    Alega o integral cumprimento dos requisitos consagrados no § 3º do artigo 58 da Constituição Federal. Enfatiza a adesão de 1/3 dos membros da Casa Legislativa, a limitação de prazo em conformidade com a previsão do § 3º do artigo 35 do Regimento Interno da Câmara dos Deputados e a existência de situação fática devidamente demarcada.
+    No tocante ao último pressuposto, alerta para o elevado grau de indeterminação. Aduz a pouca densidade normativa do § 1º do aludido preceito regimental, o qual confere indesejada discricionariedade decisória ao Presidente da Câmara dos Deputados.
+    Evoca precedentes do Tribunal para ressaltar o caráter essencialmente jurídico da matéria. Afirma que, no requerimento, ficou delineado o objeto da investigação, de forma a permitir o controle jurisdicional das futuras medidas instrutórias.
+    Destaca o interesse público, porquanto a manipulação de pesquisas eleitorais tem significativa repercussão no resultado das urnas.
+    Noticia a existência de tratamento não isonômico por parte do Presidente da Câmara, que determinou a publicação de três requerimentos para criação de comissões parlamentares de inquérito, todas dotadas das mesmas características do pleito cujo seguimento foi obstado.
+    Sob o ângulo do risco, sustenta a utilização estratégica da previsão do § 4º do artigo 35 do Regimento Interno da Câmara dos Deputados, que limita em cinco a quantidade de comissões parlamentares de inquérito em funcionamento concomitante.
+    Postula o implemento de medida acauteladora para determinar-se a sequência do Requerimento nº 01/2015 ou, sucessivamente, o afastamento da apreciação de pedidos posteriores, de forma a impedir a configuração do preceito limitador acima mencionado.
+    Alfim, requer o deferimento da ordem, nos termos em que pretendida na impetração.
+    Considerada a necessidade de fortalecimento da harmonia entre os Poderes, Vossa Excelência determinou a prévia oitiva da autoridade dita coatora.
+    Em informações, o Presidente da Casa Legislativa ressalta a ausência de fato determinado a ensejar a instauração de comissão parlamentar. Cita o artigo 13 do Regimento para apontar não configurada a ofensa ao direito de minoria parlamentar, em virtude da inclusão do partido político do qual o impetrante faz parte na maior bancada da Câmara. Argumenta com a própria competência para avaliar a presença dos requisitos necessários à formalização da investigação, consoante o § 2º do artigo 35 e o § 1º do artigo 137, ambos do regramento interno.
+    O processo encontra-se concluso para a apreciação do pedido liminar.
+    2. Percebam as balizas objetivas reveladas. O impetrante busca obter pronunciamento judicial que, à luz do princípio democrático, garanta a sequência de requerimento voltado à instalação de comissão parlamentar de inquérito destinada a investigar aspectos ligados à metodologia utilizada nas pesquisas que tradicionalmente antecedem pleitos eleitorais. Discute-se a validade de ato praticado pelo Presidente da Câmara, que, ao considerar ausente fato determinado a ser apurado, negou seguimento ao Requerimento nº 01/2015, subscrito por 171 parlamentares.
+    Os documentos que instruem a peça primeira não permitem que se conclua, no campo precário e efêmero, pela violação aos dispositivos constitucionais evocados. Os artigos 35 e 137 do Regimento Interno da Câmara dos Deputados conferem ao Presidente a competência para apreciar a presença dos requisitos atinentes à instalação da comissão parlamentar, não havendo que se falar, de início, em atuação que tenha extrapolado os limites fixados nos citados preceitos.
+    No mais, é de se trazer à balha o entendimento adotado no Mandado de Segurança nº 20.941, relator ministro Sepúlveda Pertence, no qual o Supremo, ainda que relativamente ao processo de impedimento do Presidente da República, reconheceu a atribuição do Chefe da Casa Legislativa para o exame liminar da idoneidade do requerimento formalizado.
+    3. Ante o quadro, indefiro a medida acauteladora.
+    4. Publiquem.
+Brasília, 22 de abril de 2015.
+Ministro MARCO AURÉLIO
+Relator
