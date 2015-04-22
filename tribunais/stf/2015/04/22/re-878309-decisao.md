@@ -1,0 +1,15 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, ao julgar o ARE 748.445-RG/SC, Rel. Min. RICARDO LEWANDOWSKI, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. LEI 6.496/1977. MANIFESTAÇÃO DO EXERCÍCIO DO PODER DE POLÍCIA. NATUREZA DE TAXA. SUBMISSÃO AO PRINCÍPIO DA ESTRITA LEGALIDADE. EXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    – O Tribunal reconheceu a existência de repercussão geral da matéria debatida nos presentes autos, para reafirmar a jurisprudência desta Corte, no sentido de que a Anotação de Responsabilidade Técnica, instituída pela Lei Lei 6.496/1977, cobrada pelos Conselhos Regionais de Engenharia, Arquitetura e Agronomia, tem natureza jurídica de taxa, sendo, portanto, necessária a observância do princípio da legalidade tributária previsto no art. 150, I, da Constituição. Em consequência, conheceu do recurso extraordinário, desde já, mas lhe negou provimento.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito do Supremo Tribunal Federal (ARE 822.485-AgR/RS, Rel. Min. ROBERTO BARROSO – RE 844.129/SC, Rel. Min. CÁRMEN LÚCIA, v.g.), valendo referir, dentre eles, aquele que, proferido pela colenda Primeira Turma desta Corte, apreciou controvérsia virtualmente idêntica à ora versada nesta causa, em decisão que torna acolhível a pretensão recursal da parte ora recorrente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. NATUREZA JURÍDICA DE TAXA. INOBSERVÂNCIA DA EXIGÊNCIA DE LEI PARA DAR CONCREÇÃO À COBRANÇA. PREVISÃO DE VALORES MÁXIMOS. INSUFICIÊNCIA PARA FINS DE LEGALIDADE TRIBUTÁRIA.
+    Mesmo com o advento da Lei nº 6.994/1982, a Anotação de Responsabilidade Técnica não foi efetivamente instituída por lei. A mera previsão de um limite máximo para fixação dos valores da taxa em questão não é suficiente para o atendimento do princípio da legalidade, tal como previsto no art. 150, I, da Constituição Federal.
+    O diploma legal mencionado reproduz o vício apontado pela Corte nos autos do ARE 748.445-RG, julgado sob a relatoria do Ministro Ricardo Lewandowski.
+    Agravo regimental a que se nega provimento.”
+    (ARE 832.745-AgR/RS, Rel. Min. ROBERTO BARROSO)
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Sendo assim, em face das razões expostas, conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º-A), em ordem a restabelecer a sentença proferida pelo magistrado de primeira instância.
+    Publique-se.
+    Brasília, 22 de abril de 2015.
+Ministro CELSO DE MELLO
+Relator
