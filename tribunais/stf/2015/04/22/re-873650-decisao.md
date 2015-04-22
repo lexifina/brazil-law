@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Instituto Nacional do Seguro Social – INSS interpõe recurso extraordinário, com fundamento na alínea “a”, do permissivo constitucional, contra acórdão proferido pela 2ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul.
+    Opostos embargos declaratórios, foram parcialmente acolhidos para fins de prequestionamento.
+    Alega o recorrente violação dos artigos 195, § 5º, e 201, caput e § 3º, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que para acolher a pretensão recursal e ultrapassar o entendimento das instâncias de origem, acerca do correto marco temporal para a fixação dos efeitos financeiros nas ações previdenciárias que concedem ou revisam benefícios previdenciários, seria necessário o reexame da legislação infraconstitucional pertinente e do conjunto fático-probatório dos autos, o que se mostra incabível em sede de recurso extraordinário. A propósito:
+    “Agravo regimental no agravo de instrumento. Previdenciário. Cálculo da renda mensal inicial do benefício. Legislação infraconstitucional. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. O Tribunal de origem, com base na Lei nº 8.213/91, concluiu pelo acerto da forma de cálculo do benefício do agravante, uma vez que aplicado aos salários de contribuição, utilizados para o cálculo da renda mensal inicial, o índice de correção monetária previsto na norma de regência. 2. Inadmissível, em recurso extraordinário, o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido” (AI nº 816.493/PR-AgR, Primeira Turma, de minha relatoria, DJe de 9/4/12).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. CÁLCULO DA RENDA MENSAL INICIAL. CORREÇÃO MONETÁRIA. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada neste momento processual. 2. Incide, à derradeira, a Súmula 283/ STF. 3. Agravo regimental desprovido” (RE nº 593.286/MG-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 26/9/11).
+    Nesse mesmo sentido, as seguintes decisões: ARE nº 868.539/SC, relatora a Ministra Cármen Lúcia, DJe de 12/3/15; RE nº 815.616/RS, Relator o Ministro Roberto Barroso, DJe de 1/12/14; e ARE nº 807.03/RS, Relator o Ministro Gilmar Mendes, Dje de 26/3/15.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 22 de abril de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
