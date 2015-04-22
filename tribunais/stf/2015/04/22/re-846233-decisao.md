@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que a parte recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. É inviável a apreciação, em recurso extraordinário, de alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e da inafastabilidade da jurisdição, uma vez que, se houvesse, seria meramente indireta ou reflexa, já que é imprescindível o exame de normas infraconstitucionais. Nesse sentido: ARE 748.371-RG/MT, Min. GILMAR MENDES, Tema 660, Plenário, DJe de 1º/8/2013;  AI 796.905AgR/PE, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2012; AI 622.814-AgR/PR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/3/2012; e ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/8/2011.
+    3. Quanto ao mais, o Plenário do Supremo Tribunal Federal, ao julgar o ARE 704.520, Rel. Min. GILMAR MENDES, DJe de 2/12/2014, Tema 771, sob o regime do art. 543-B do CPC (repercussão geral), consolidou entendimento em relação à matéria discutida no presente recurso extraordinário. Esse acórdão ficou assim ementado:
+    Ementa: Recurso extraordinário com agravo. Seguro Obrigatório de Danos Pessoais causados por veículos automotores de via terrestre (DPVAT). 2. Redução dos valores de indenização do seguro DPVAT pela Medida Provisória 340/2006, convertida na Lei 11.482/2007. 3. Constitucionalidade da modificação empreendida pelo art. 8º da Lei 11.482/007 no art. 3º da Lei 6.194/74. 4. Medida provisória. Pressupostos constitucionais de relevância e urgência. Discricionariedade. Precedentes. 5. Princípio da dignidade da pessoa humana. Ausência de violação. 6. Repercussão geral. 7. Recurso extraordinário não provido.
+    Considerada a especial eficácia vinculativa desses julgados (CPC, art. 543-B, § 3º), impõe-se sua aplicação, nos mesmos termos, aos casos análogos, como o dos autos.
+    Assim, por estar em consonância com o entendimento jurisprudencial acima demonstrado, o acórdão recorrido não merece reparos.
+    4. Diante do exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 22 de abril de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
