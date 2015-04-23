@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Turma Recursal dos Juizados Especiais Cíveis e Criminais de Pouso Alegre/MG que, à unanimidade, denegou ordem de habeas corpus, tendo em vista não restar “configurada a prova obtida de forma ilícita como pretende a parte impetrante”. Afirma que não há “qualquer ilegalidade na prova obtida mediante simples gravação de comunicação telefônica”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, II, LIV, XII e LVI, da Constituição. Aduz que “a gravação foi clandestina, com cometimento de crime de furto de energia, pois sem autorização da empresa telefônica e com objetivo de incriminar a paciente”.
+    O recurso é inadmissível, tendo em vista a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. Nessa linha, veja-se a seguinte passagem do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, imprescindível seria uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário.
+    O Plenário do Supremo Tribunal Federal, após assentar a repercussão geral da matéria, reafirmou sua jurisprudência no sentido de ser válida a gravação obtida por um dos interlocutores sem o conhecimento do outro. Nesse sentido, veja-se a ementa da Questão de Ordem no RE-RG-583.937, julgado sob a relatoria do Ministro Cezar Peluzo:
+    “AÇÃO PENAL. Prova. Gravação ambiental. Realização por um dos interlocutores sem conhecimento do outro. Validade. Jurisprudência reafirmada. Repercussão geral reconhecida. Recurso extraordinário provido. Aplicação do art. 543-B, § 3º, do CPC. É lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem conhecimento do outro.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 23 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
