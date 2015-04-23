@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado da Paraíba. Aparelhado o recurso na violação dos arts. 5º, caput, 37, caput, I e II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da matéria infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo 2. Concurso público. Escrivão de polícia civil. Controvérsia acerca da adequada forma de convocação de candidato para participar de fase seguinte do certame. Acórdão recorrido que, ao analisar todos os elementos de fato e de prova, entendeu não ser razoável a convocação apenas por diário oficial. 3. Impossibilidade de reexame do conjunto fático-probatório, bem como das normas do edital pertinente ao caso. Verbetes 279 e 454 da Súmula desta Corte. Precedentes. 4. Ausência de argumentos suficientes para infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento.” (ARE 647064 AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 11-10-2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CONVOCAÇÃO DE CANDIDATO APENAS POR DIÁRIO OFICIAL. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 669689 AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 16-05-2012)
+    "Agravo regimental no agravo de instrumento. Tributário. Ofensa reflexa e reexame de provas (Súmula nº 279). 1. A Corte tem entendimento pacífico no sentido de que a violação aos preceitos constitucionais insculpidos nos arts. 5º, II, XXXV, LIV, LV; e 37, caput, do Texto Maior, configura, via de regra, como no presente caso, mera ofensa reflexa, sendo, dessa forma, incabível a interposição de apelo extremo. 2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 3. Agravo regimental não provido." (AI 839.585-AgR/MG, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 23 de abril de 2015.
+Ministra Rosa Weber
+Relatora
