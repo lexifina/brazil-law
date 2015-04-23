@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 37, II, V, e IX, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna obliqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA DIREITO ADMINISTRATIVO. DIREITO CIVIL. ATO DE IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE CONCURSO PÚBLICO. CONTRATAÇÃO IRREGULAR. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 20.11.2000. A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar, nesse compasso, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto compreender de modo diverso exigiria análise da legislação infraconstitucional encampada na decisão prolatada pela Corte de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido”. (RE 484.174 AgR, de minha lavra, 1ª Turma, DJe 07.11.2014).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Publicidade oficial. Caráter educativo, informativo ou de orientação social. 3. Ato de improbidade administrativa não caracterizado. Necessidade de revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável. Súmula 279. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento”. (ARE 851.496-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.4.2015).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de abril de 2015.
+Ministra Rosa Weber
+Relatora
