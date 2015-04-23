@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO AO CARGO DE OFICIAL DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. REPROVAÇÃO NO EXAME AUDIOMÉTRICO. SENTENÇA DE PROCEDÊNCIA PARA DECLARAR NULO O ATO DE REPROVAÇÃO. 1. Realização de novo concurso para o cargo de soldado da Polícia Militar deste Estado, no qual foi aprovado, inclusive, no exame de audiometria. 2. Laudos Médicos que atestaram capacitação plena para o cargo almejado. 3. O ato administrativo que reprovou o candidato é passível de apreciação pelo Poder Judiciário ante a cláusula de inafastabilidade da jurisdição prevista no art. 5º, XXXV, da CR/88. 4. Sentença mantida. RECURSO DESPROVIDO”.
+    Nas razões do recurso extraordinário, aponta-se violação aos arts. 2º; 5º; 37 caput e inciso II, da Constituição Federal. Sustenta-se, em síntese, que os exames de saúde realizados ao longo dos certames públicos integram a seara do mérito administrativo. Pugna-se pelo provimento do recurso e pela reforma da decisão recorrida.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal a quo fundamentou sua conclusão no sentido de que a deficiência auditiva que motivou a exclusão do candidato do certame público é inexistente com base na apreciação das provas juntadas aos autos (eDOC 13, fls. 2/3).
+    Assim, para se concluir de forma diversa e afirmar a legalidade do ato administrativo impugnado, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é vedado em sede de recurso extraordinário, nos termos da Súmula 279/STF.
+    Ademais, é pacífica a jurisprudência desta Corte no sentido de que o exame de legalidade e abusividade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de poderes, porquanto sua análise não trata de circunstâncias que integram o mérito administrativo. Confira-se, a propósito, o RE 579.249-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 26.4.2012, este último assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. ELIMINAÇÃO DE CANDIDATO. NULIDADE DO ATO RECONHECIDA PELA INSTÂNCIA JUDICANTE DE ORIGEM. AFRONTA AO ART. 2º DA MAGNA CARTA DE 1988. INEXISTÊNCIA. CONTROVÉRSIA DECIDIDA À LUZ DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. 1. É firme no Supremo Tribunal Federal o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação de poderes” (MS 23.452, da relatoria do ministro Celso de Mello). 2. Caso em que entendimento diverso do adotado pelo Tribunal de Justiça do Estado do Rio de Janeiro demandaria o reexame de fatos e provas constantes dos autos. Providência vedada pela Súmula 279/STF. 3. Agravo regimental desprovido.”
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 23 de abril de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
