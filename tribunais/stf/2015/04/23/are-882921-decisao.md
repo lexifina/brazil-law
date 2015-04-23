@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 1ª Região, cuja ementa reproduzo a seguir, no que interessa:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. LICITAÇÃO. RECEBIMENTO DOS PRODUTOS LICITADOS, SEM RESSALVAS. PRESUNÇÃO FAVORÁVEL À EMPRESA FORNECEDEORA. POSTERIOR ALEGAÇÃO DE DEFEITOS. PROVA. ÔNUS DA ADMINISTRAÇÃO. AUSÊNCIA” (EDOC 1, p. 155).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II; 37, caput e XXI; 93, IX; e 173, III, do texto constitucional.
+    Nas razões recursais, alega-se que “os defeitos como fragilidade, costuras e infiltrações somente poderiam ser percebidos no momento da efetiva utilização pelos empregados da ECT em dia de chuva, ou seja, defeitos ocultos” (eDOC 1, p. 184).
+    A Vice-Presidência do TRF-1 inadmitiu o recurso por reputar que o caso se resolve no âmbito infraconstitucional e ofensa à Constituição Federal, caso houvesse, seria indireta.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que, na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação ou violação à inafastabilidade jurisdicional.
+    Anoto, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010).
+    Demais disso, é entendimento sumulado desta Corte que “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (Enunciado da Súmula 636 do STF).
+    Igualmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “Ora, havendo presunção de que a ECT procedeu a rigoroso exame, não se verificando defeito nos produtos, a constatação posterior de defeitos depende de prova, cujo ônus é seu. Acontece que prova dos defeitos não foi juntada à inicial, em que apenas se protestou por provar o alegado” (eDOC 1, p. 153).
+    Sendo assim, constato que as razões recursais estão dissociadas do acórdão recorrido, logo o seguimento do recurso extraordinário encontra óbice na Súmula 287 do Supremo Tribunal Federal.
+    Mesmo que assim não fosse, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável à espécie, o que não enseja a abertura do recurso extraordinário, uma vez que se aplica o Enunciado da Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. RESCISÃO CONTRATUAL. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULA CONTRATUAL: IMPOSSIBILIDADE. SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(AI 738451 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 1º.9.2014)
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Administrativo. Descumprimento contratual. Sanção aplicada. Proporcionalidade. Legislação infraconstitucional. Ofensa reflexa. Cláusulas contratuais. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos, bem como de cláusulas contratuais. Incidência das Súmulas nºs 636, 279 e 454/STF. 3. Agravo regimental não provido.”
+(ARE 725314 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 1º.8.2014)
+    Ante o exposto, conheço do presente agravo para negar provimento ao recurso extraordinário (art. 544, §4º, II, b, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 23 de abril de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
