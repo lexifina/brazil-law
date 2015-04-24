@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão que entendeu não ser devida ao recorrente indenização por danos morais e materiais em razão de prisão provisória, flagrante e preventiva e posterior absolvição, por insuficiência de provas, pelo Poder Judiciário.
+    O recurso extraordinário não deve ser acolhido, uma vez que a adoção de entendimento diverso do manifestado pelo acórdão recorrido exigiria o reexame dos fatos e do material probatório constante dos autos, o que é inviável neste momento processual. Incide, pois, a Súmula 279/STF. Nesse sentido, vejam-se os seguintes precedentes das duas Turmas desta Corte:
+    “Agravo regimental no recurso extraordinário com agravo. Responsabilidade civil do Estado. Prisões cautelares determinadas no curso de regular processo criminal. Posterior absolvição do réu pelo júri popular. Dever de indenizar. Reexame de fatos e provas. Impossibilidade. Ato judicial regular. Indenização. Descabimento. Precedentes.
+    1. O Tribunal de Justiça concluiu, com base nos fatos e nas provas dos autos, que não restaram demonstrados, na origem, os pressupostos necessários à configuração da responsabilidade extracontratual do Estado, haja vista que o processo criminal e as prisões temporária e preventiva a que foi submetido o ora agravante foram regulares e se justificaram pelas circunstâncias fáticas do caso concreto, não caracterizando erro judiciário a posterior absolvição do réu pelo júri popular. Incidência da Súmula nº 279/STF.
+    2. A jurisprudência da Corte firmou-se no sentido de que, salvo nas hipóteses de erro judiciário e de prisão além do tempo fixado na sentença - previstas no art. 5º, inciso LXXV, da Constituição Federal -, bem como nos casos previstos em lei, a regra é a de que o art. 37, § 6º, da Constituição não se aplica aos atos jurisdicionais quando emanados de forma regular e para o fiel cumprimento do ordenamento jurídico.
+    3. Agravo regimental não provido.” (ARE 770.931-AgR, Rel. Min. Dias Toffoli, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E PROCESSUAL CIVIL. RESPONSABILIDADE OBJETIVA DO ESTADO. PRISÃO EM FLAGRANTE. PEDIDO DE INDENIZAÇÃO. IMPOSSIBILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 719.987-AgR, Rel.ª Min.ª Cármen Lúcia, Segunda Turma)
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
