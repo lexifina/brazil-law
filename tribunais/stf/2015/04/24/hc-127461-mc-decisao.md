@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça nos autos do HC 265.682/SP, Rel. Min. Nefi Cordeiro. Consta dos autos, em síntese, que (a) a paciente foi denunciada pela suposta prática dos crimes de bando ou quadrilha (art. 288 do CP na redação originária), frustrar ou fraudar procedimento licitatório (art. 90 da Lei 8.666/1993), por 8 vezes, e corrupção passiva (art. 317, § 1º, do CP), por treze vezes; (b) sustentando a parcialidade do Juiz condutor da ação penal, apresentou exceção de suspeição no Tribunal de Justiça do Estado de São Paulo, que indeferiu o pedido; (b) inconformada, (i) interpôs recurso especial, negado seguimento, e agravo, pendente de julgamento, e (ii) impetrou habeas corpus no Superior Tribunal de Justiça, que não conheceu do pedido, em acórdão assim ementado:
+    (…) 2. Incabível a análise, por esta Corte Superior, da tese de suspeição do juízo, na medida em que a valoração de isenção foi no Tribunal de origem determinada pela apreciação dos fatos, com revisão descabida na via do habeas corpus .
+    3. Ademais, a imputação feita nesta impetração não se insere entre as causa legais, taxativas, de impedimento ou suspeição.
+    4. Habeas corpus não conhecido.
+    Neste habeas corpus, o impetrante sustenta, em suma, que: (a) não ocorreu, no STJ, a impetração substitutiva de recurso especial, mas sim a utilização simultânea dos meios impugnativos; (b) ao analisar o mérito de ofício, a Corte Superior antecipou o julgamento do especial interposto; (c) não é necessária a análise de fatos e provas para reconhecer a parcialidade do Juiz instrutório; (d) “as causas de impedimento e suspeição não são taxativas”; (e) o Juiz condutor da ação penal realizou prejulgamento de mérito, já que (i) concedeu entrevistas e fornecer peças processuais à imprensa, (ii) admitiu a realização do procedimento de delação antes da sistematização da matéria pela Lei 12.850/2013. Requer, liminarmente, a suspensão da ação penal 114.01.2011.002723-1 em curso na 3ª Vara Criminal de Campinas/SP.
+    2. Consideradas as especiais circunstâncias da causa, o exame da pretensão será feita no momento próprio, em caráter definitivo.
+    3. Ante o exposto, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 24 de abril de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
