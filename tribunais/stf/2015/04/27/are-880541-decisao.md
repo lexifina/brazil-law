@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Superior Eleitoral, assim ementado:
+    “ELEIÇÕES 2012. REPRESENTAÇÃO. PROPAGANDA ELEITORAL IRREGULAR. BEM PARTICULAR. PAGAMENTO. MULTA. ART. 37, § 1º, DA LEI Nº 9.504/1997. REEXAME. SÚMULA Nº 279/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. MERA TRANSCRIÇÃO DE EMENTAS.
+    É firme a jurisprudência do TSE no sentido de que a retirada da propaganda acima do limite de 4m2 em bem particular não afasta a incidência de multa.
+    Precedentes.
+    Para afastar a conclusão do Tribunal de origem de que as propagandas afixadas em automóvel produziram efeito visual único superior a 4m2, seria necessário o reexame do conjunto fático-probatório (Súmula nº 279/STF).
+    A demonstração do dissídio jurisprudencial não se contenta com meras transcrições de ementas, sendo absolutamente indispensável o cotejo analítico de sorte a demonstrar a devida similitude fática entre os julgados.
+    Agravo regimental desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, II, da Carta. A recorrente articula com a ofensa aos princípios do contraditório e da ampla defesa e do devido processo legal, em razão da ausência do dissídio jurisprudencial.
+    A decisão agravada negou seguimento ao recurso alegando a necessidade de reexaminar a legislação infraconstitucional e a impossibilidade de revisitar o acervo probatório dos autos, consoante prescreve a Súmula 279/STF.
+    A pretensão não merece acolhida. Tal como observado pela decisão agravada, a controvérsia não encontra ressonância constitucional. Em linhas gerais, a parte pretende demonstrar que não houve irregularidade na veiculação da propaganda eleitoral. Nos termos da jurisprudência da Corte, a matéria envolve a reapreciação de matéria fática e o reexame da legislação aplicável ao caso. Nesse sentido, confiram-se os precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ELEITORAL. PROPAGANDA IRREGULAR. MULTA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. REEXAME DE PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Precedentes. II – Para se chegar à conclusão contrária à adotada pelo Tribunal a quo, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). IV – Agravo regimental a que se nega provimento.
+(ARE 788.522-AgR, Rel. Min. Ricardo Lewandowski)
+    “ELEITORAL. ART. 36-A DA LEI 9.504/1997. PROPAGANDA ELEITORAL. MULTA. NATUREZA INFRACONSTITUCONAL DA MATÉRIA. A jurisprudência deste Supremo Tribunal Federal é no sentido da natureza infraconstitucional da discussão a respeito da suposta violação de princípios constitucionais na aplicação da Lei 9.504/1997 (Lei das Eleições). Precedentes: AI 247.907-AgR, rel. min. Sepúlveda Pertence; AI 569.107-AgR, rel. min. Carlos Britto, entre outros. Agravo regimental a que se nega provimento.”(ARE 643.102- AgR, Rel. Min. Joaquim Barbosa)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+                Brasília, 27 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
