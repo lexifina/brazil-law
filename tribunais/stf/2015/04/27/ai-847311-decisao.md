@@ -1,0 +1,34 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Segunda Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. PIS E COFINS. ART. 17 DA LEI N.º 11.033/04. DIREITO AO CREDITAMENTO EM REGIME NÃO CUMULATIVO SUJEITO À INCIDÊNCIA MONOFÁSICA. IMPOSSIBILIDADE.
+    1. A não cumulatividade objetiva evitar o aumento excessivo da carga tributária decorrente da possibilidade de cumulação de incidências tributárias ao longo da cadeia econômica.
+    2. Este objetivo pode ser alcançado pela técnica do creditamento e pela tributação monofásica.
+    3. Cuidando-se de tributação monofásica, desaparece o pressuposto fático necessário para a adoção da técnica do creditamento, que é a possibilidade de incidências múltiplas ao longo da cadeia econômica, não se podendo falar, portanto, em cumulatividade.
+    4. O âmbito de incidência do art. 17 da Lei n.º 11.033/04 restringe-se ao "Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária - REPORTO", como decorre do texto do diploma legislativo onde inserido tal artigo.
+    5. A extensão do disposto no art. 17 da Lei n.º 11.033/04 a situações diversas daquela prevista na legislação implicaria privilégio indevido para certas atividades econômicas, em detrimento de todas as outras que sujeitas à tributação polifásica.
+    6. Sentença mantida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXII; 150, IV; e 195, §§ 9º e 12, todos da Carta. Sustenta, em síntese, que, tendo adquirido produtos cuja receita decorrente da respectiva venda foi tributada pelo Pis e pela Cofins com alíquotas diferenciadas, é inconstitucional o estabelecimento da vedação ao crédito, mesmo quando o produto por ela vendido é tributado à alíquota zero.
+    A decisão agravada negou seguimento ao recurso extraordinário, sob os seguintes fundamentos:
+    (i) “As questões arguidas pela recorrente implicam em ofensa indireta à Constituição, pois depende do exame de legislação infraconstitucional, para o que descabe recurso extraordinário;”
+    (ii) “ademais, a pretensão de se estender benefício fiscal previsto em lei à hipótese nela não expressamente prevista, também esbarra em jurisprudência pacificada na Suprema Corte.”
+    Em sede de agravo, a parte reitera os fundamentos destacados no recurso extraordinário.
+    A pretensão não merece ser acolhida. A jurisprudência da Corte tem se orientado no sentido de que as controvérsias relacionadas ao direito de crédito no regime especial de apuração monofásico não encontram ressonância constitucional. Nesse sentido, confiram-se os precedentes a seguir:
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PARA A INTEGRAÇÃO SOCIAL - PIS E CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL COFINS. DIREITO AO CRÉDITO. TRIBUTAÇÃO MONOFÁSICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. DECISÃO SUFICIENTEMENTE MOTIVADA. ACÓRDÃO RECORRIDO PUBLICADO EM 18.06.2009.
+    Suficientemente explicitados os motivos de decidir, inexistente o vício de nulidade por negativa de prestação jurisdicional.
+    A discussão travada nos autos não alcança status constitucional, porquanto solvida à luz da interpretação da legislação infraconstitucional aplicável à espécie. Agravo regimental conhecido e não provido.” (RE 760.122 AgR, Rel.ª Minª. Rosa Weber)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS.REGIME NÃO CUMULATIVO. TRIBUTAÇÃO MONOFÁSICA. REVENDA COM ALÍQUOTA ZERO.CREDITAMENTO.  A CUMULATIVIDADE PRESSUPÕE A SOBREPOSIÇÃO DE INCIDÊNCIAS TRIBUTÁRIAS. LEIS Nº 10.637/2002, 10.833/2003 E 11.033/2004. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL.
+    1. Não há que se falar em ofensa ao princípio da não-cumulatividade quando a tributação se dá de forma monofásica,pois a existência do fenômeno cumulativo pressupõe a sobreposição de incidências tributárias. Precedente: RE 258.470, Rel. Min. Moreira Alves, Primeira Turma, DJ de 12/5/2000.
+    2. O aproveitamento de créditos relativos à revenda de veículos e autopeças adquiridos com a incidência da Contribuição ao PIS e da COFINS sob o regime monofásico encerra discussão de índole infraconstitucional, de forma que eventual ofensa à Constituição seria meramente reflexa. Precedentes: RE 709.352-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 11/6/2014; e RE 738.521-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 4/12/2013.
+    3. In casu, o acórdão recorrido extraordinariamente assentou: ‘TRIBUTÁRIO - PIS E COFINS - NÃO-CUMULATIVIDADE - COMERCIALIZAÇÃO DE VEÍCULOS NOVOS – SISTEMA MONOFÁSICO - PRINCÍPIO DA LEGALIDADE - LEIS 10.637/02, 10.833/03 E 11.033/04 - APELAÇÃO IMPROVIDA.”
+    4. Agravo regimental DESPROVIDO’.”
+    Além das considerações expostas, reforço que o acórdão recorrido consignou que norma citada não se enquadra ao âmbito de incidência das atividades prestadas pela empresa agravante, tendo em vista que tem aplicação restrita às operações comerciais envolvendo máquinas, equipamentos e outros bens, quando adquiridos peles beneficiários do REPORTO. Com efeito, dissentir das conclusões adotadas demandaria igualmente o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente, providência vedada nesta fase processual. Na mesma linha, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Tributário. Cofins. Não cumulatividade. Insumos do processo de produção. Necessidade da análise prévia de legislação infraconstitucional. Ofensa constitucional apenas reflexa.
+    1. O princípio da não cumulatividade aplicável às contribuições sociais foi regulamentado pelas Leis nºs 10.637/02 e 10.833/03, nas quais o legislador listou os bens e serviços capazes de gerar crédito.
+    2. No julgamento do RE nº 422.005-ED (Relatora a Ministra Ellen Gracie, DJ de 20/4/06), a Corte firmou o entendimento de que eventuais controvérsias na aplicação dos institutos da compensação e da prescrição devem ser resolvidas nas instâncias ordinárias ou por via administrativa.
+    3. Agravo regimental não provido.” (RE 551.336-AgR, Rel. Min. Dias Toffoli)
+    “DECISÃO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. PROGRAMA DE INTEGRAÇÃO SOCIAL PIS E CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL COFINS. TRIBUTO MONOFÁSICO. NÃO-CUMULATIVIDADE. LEI N. 11.033/2004. CREDITAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.” (RE 707.131 Rel.ª Min.ª Cármen Lúcia)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego seguimento.
+    Publique-se.
+          Brasília, 27 de abril de 2015.
+Ministro LUÍS ROBERTO BARROSO
+Relator
