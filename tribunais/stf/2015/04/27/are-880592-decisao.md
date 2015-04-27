@@ -1,0 +1,35 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Quarta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “PRESCRIÇÃO INTERCORRENTE – AÇÃO DE EXECUÇÃO – AUSÊNCIA DE BENS PENHORÁVEIS – APLICAÇÃO DO ART. 791, III, CPC – AUSÊNCIA DE INÉRCIA DA CREDORA.
+    1. Para impugnação ao benefício da gratuidade de justiça a parte deve realizar pedido em apartado, conforme determina o art. 4°, § 2° e art. 7°, parágrafo único c/c parte final do art. 6° da Lei 1.060/50.
+    2. Execução arquivada por ausência de bens penhoráveis, nos temos do art. 791, III, CPC, interrompe prazo prescricional.
+    3. Se não se pode imputar inércia à exequente, ausente provas nesse sentido, não cabe penalizá-la.
+    4. Recurso provido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, caput e incisos LVII, XLVI e LXXVIII, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o Tribunal de origem concluiu que não ocorreu a prescrição intercorrente no caso em tela amparado na legislação infraconstitucional pertinente (Código de Processo Civil). Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    Especificamente sobre o tema em análise, transcrevo o teor da recente decisão proferida pelo Ministro Gilmar Mendes, em caso idêntico ao presente, nos autos do ARE nº 857.849/SP (DJe de 2/2/15), que bem aborda a questão:
+    “Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    ‘EXECUÇÃO POR TÍTULO EXTRAJUDICIAL – Prescrição intercorrente – Inocorrência – Processo suspenso com base no artigo 791, III, do Código de Processo Civil, por ausência de bens penhoráveis – Inércia do exequente não caracterizada – Não fluência do prazo prescricional durante o período de suspensão do feito – Artigo 793 do estatuto de regência – Recurso improvido’. (eDOC 5, p. 24)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 1º, III; 5º, caput, XLVII, b, e LXXVIII, do texto constitucional (eDOC 5, p. 42).
+    Aponta-se que deve ser reconhecido no presente caso a ocorrência da prescrição intercorrente.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o Tribunal de origem, ao entender pela não ocorrência da prescrição intercorrente, observou o disposto no Código de Processo Civil. Assim, a matéria debatida na origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Quanto ao tema, confiram-se os seguintes julgados:
+    ‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. EXECUÇÃO TRABALHISTA. PRESCRIÇÃO INTERCORRENTE. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL. 1. A prescrição intercorrente nas relações trabalhistas, quando sub judice a controvérsia, não dá ensejo ao cabimento de recurso extraordinário por situar-se no âmbito infraconstitucional. Precedentes: ARE 740.909, Rel. Min. Rosa Weber, Primeira Turma, DJe 03/10/2013 e ARE 671.257-ED, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 20/6/2012. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 3. In casu, o acórdão recorrido assentou: ‘AGRAVO DE INSTRUMENTO. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. MULTA POR EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. DESPROVIMENTO. Diante do óbice da Súmula nº 266 do C. TST e porque não demonstrada violação de dispositivo da Constituição Federal e, ainda, estando a decisão regional em sintonia com a Súmula nº 114 do C. TST, não há como admitir o recurso de revista interposto. Agravo de instrumento desprovido’. 4. Agravo regimental DESPROVIDO’. (ARE 671.230-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, DJe 13.11.2013)
+    ‘Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil e Processual Civil. 3. Título executivo extrajudicial. Prescrição intercorrente. Matéria de índole infraconstitucional. Ofensa à Constituição, se ocorrente, seria indireta ou reflexa. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento’. (ARE 775.292-AgR/SP, da minha relatoria, Segunda Turma, DJe 30.4.2014)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC)”.
+    Nesse mesmo sentido, anote-se:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil e Processual Civil. 3. Título executivo extrajudicial. Prescrição intercorrente. Matéria de índole infraconstitucional. Ofensa à Constituição, se ocorrente, seria indireta ou reflexa. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE nº 775.292/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 30/4/14).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. PRESCRIÇÃO INTERCORRENTE. MATÉRIA INFRACONSTITUCIONAL. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa ao cabimento de recursos da competência de outros Tribunais, por restringir-se a tema infraconstitucional (RE 598.365-RG, Rel. Min. Ayres Britto). Para dissentir do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente, procedimento inviável em sede de recurso extraordinário. Precedentes. Agravo regimental a que se nega provimento” (AI nº 840.759/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 13/12/13).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 27 de abril de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
