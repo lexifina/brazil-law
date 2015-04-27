@@ -1,0 +1,23 @@
+(PG/STF-65203/2011)
+    DECISÃO: O Conselho Federal da Ordem dos Advogados do Brasil requer sua admissão, na presente causa, “na condição de terceiro interessado ou, alternativamente, como ‘amicus curiae’” (fls. 498/512).
+    Passo a apreciar o pedido de intervenção assistencial ora formulado. E, ao fazê-lo, indefiro-o.
+    É que o magistério jurisprudencial desta Suprema Corte firmou-se no sentido “do descabimento de assistência no mandado de segurança, tendo em vista o que dispõe o art. 19 da Lei nº 1.533/51, na redação dada pela Lei nº 6.071/74, que restringiu a intervenção de terceiros, no procedimento do ‘writ’, ao instituto do litisconsórcio” (RTJ 123/722, Rel. Min. CÉLIO BORJA – grifei).
+    Esse entendimento – que tem sido reiterado, em inúmeras oportunidades, pelo Supremo Tribunal Federal (RTJ 182/548-549, Rel. Min. CELSO DE MELLO – RTJ 188/663, Rel. Min. CEZAR PELUSO – AO 534-MC/TO, Rel. Min. MARCO AURÉLIO – AO 571-MC/AL, Rel. Min. MARCO AURÉLIO – MS 23.671/PE, Rel. Min. MARCO AURÉLIO – MS 23.856/MS, Rel. Min. SYDNEY SANCHES, v.g.) – encontra apoio, igualmente, no magistério da doutrina (CARLOS ALBERTO MENEZES DIREITO, “Manual do Mandado de Segurança”, p. 117, 4ª ed., 2003, Renovar):
+    “(...) não me parece possível enfrentar a expressa disposição legal. A Lei nº 6.071/74, alterando a redação do art. 19 da lei especial, sem meias-palavras, não alcançou a assistência, limitando-se a determinar a aplicação, ao processo do mandado de segurança, dos artigos do Código de Processo Civil que regulam o litisconsórcio. Desse modo, na linha do precedente do Supremo Tribunal Federal, entendo não ser admissível o assistente em mandado de segurança.” (grifei)
+    Nem se alegue, de outro lado, que esse entendimento que venho de referir não se aplicaria mais ao caso, considerada a edição da Lei nº 12.016/2009.
+    É que a jurisprudência do Supremo Tribunal Federal – já sob a perspectiva do disposto no art. 24 da Lei nº 12.016/2009 – reafirmou a “impossibilidade de intervenção de terceiro interessado em mandado de segurança, tendo em vista o caráter subjetivo da via mandamental” (RE 575.093- -AgR/SP, Rel. Min. MARCO AURÉLIO – grifei).
+    Cumpre salientar que essa orientação jurisprudencial tem sido reiterada por esta Suprema Corte (MS 28.131/DF, Rel. Min. CÁRMEN LÚCIA – MS 28.281/DF, Rel. Min. RICARDO LEWANDOWSKI – MS 29.058-MC-AgR/DF, Rel. Min. CELSO DE MELLO – MS 29.493- -MC/DF, Rel. Min. CELSO DE MELLO – MS 30.272-MC/MG, Rel. Min. CÁRMEN LÚCIA – MS 32.074/DF, Rel. Min. LUIZ FUX – MS 32.450/DF, Rel. Min. MARCO AURÉLIO, v.g.).
+    Cabe registrar, finalmente, que o pleito ora formulado também não poderia ser examinado como pedido de ingresso, na presente causa, na condição de “amicus curiae”, eis que o Plenário do Supremo Tribunal Federal, pronunciando-se a respeito desse tema, entendeu inadmissível, por mais de uma vez (MS 26.552-AgR-AgR/DF, Rel. Min. CELSO DE MELLO – MS 27.939-AgR/DF, Rel. Min. RICARDO LEWANDOWSKI), essa modalidade de intervenção processual no âmbito das ações de mandado de segurança:
+    “AGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA. ASSISTÊNCIA. ‘AMICUS CURIAE’. DESCABIMENTO.
+    1. Consolidação da jurisprudência do Supremo Tribunal Federal no sentido de não ser admissível assistência em mandado de segurança, porquanto o art. 19 da Lei 1.533/51, na redação dada pela Lei 6.071/74, restringiu a intervenção de terceiros no procedimento do ‘writ’ ao instituto do litisconsórcio.
+    .......................................................................................................
+    3. Pedido de participação em suspensão na qualidade de ‘amicus curiae’ que não foi objeto da decisão ora agravada, além de ser manifestamente incabível.”
+    (SS 3.273-AgR-segundo/RJ, Rel. Min. ELLEN GRACIE – grifei)
+    “– Não se revela juridicamente possível a invocação da Lei nº 9.868/99 (art. 7º, § 2º) para justificar o ingresso de terceiro interessado, em mandado de segurança, na condição de ‘amicus curiae’. É que a Lei nº 9.868/99 – por referir-se a processos de índole eminentemente objetiva, como o são os processos de controle normativo abstrato (RTJ 113/22 – RTJ 131/1001 – RTJ 136/467 – RTJ 164/506-507, v.g.) – não se aplica aos processos de caráter meramente subjetivo, como o processo mandamental.
+    – Não se revela admissível a intervenção voluntária de terceiro, ‘ad coadjuvandum’, na condição de assistente,  no processo de mandado de segurança. Doutrina.  Precedentes.”
+    (MS 26.553-AgR-AgR/DF, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e pelas razões expostas, indefiro o pleito ora formulado pelo Conselho Federal da Ordem dos Advogados do Brasil.
+    Publique-se.
+    Brasília, 27 de abril de 2015.
+Ministro CELSO DE MELLO
+Relator
