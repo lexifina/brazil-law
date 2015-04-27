@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão de Turma Recursal da Seção Judiciária de Sergipe, o qual deu provimento ao recurso (eDOC 10).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 40 e 195, §5º, do texto constitucional.
+    Nas razões recursais, alega-se que a GACEN tem natureza jurídica de adicional de função.
+    A Presidência da Turma inadmitiu o recurso por reputar que o caso se resolve no âmbito infraconstitucional e ofensa à Constituição Federal, caso houvesse, seria indireta.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “De fato, a GACEN é vantagem pecuniária devida em função de determinadas atividades desempenhadas em determinados locais, motivo pelo qual o fato que determina seu pagamento não é somente o exercício da função em si, pois engloba a circunstância dela ser exercida em um específico local.” (eDOC 10, p. 1).
+    Na espécie, verifico que a a jurisprudência do STF é pacífica no sentido de que a incidência de contribuição previdenciária sobre a Gratificação de Atividade de Combate e Controle de Endemias (Gacen), prevista na Lei nº 11.784/2008, é controvérsia de índole infraconstitucional, o que não enseja a abertura da via do recurso extraordinário.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. GACEN. AUSÊNCIA DE REPERCUSSÃO CONSTITUCIONAL IMEDIATA. A Corte tem se orientado no sentido de que a controvérsia sobre a natureza jurídica da gratificação recebida pelo servidor, para o fim de determinar a incidência da contribuição previdenciária, demanda o reexame da legislação local (Súmula 280/STF) . Embargos de declaração recebidos como agravo regimental a que se nega provimento.”
+(ARE 828747 ED, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 14.11.2014)
+    “Embargos de declaração em recurso extraordinário com agravo. 2. Decisão monocrática. Embargos declaratórios recebidos como agravo regimental. 3. Direito Administrativo. Gratificação de Atividade de Combate e Controle de Endemias – GACEN. Incidência de contribuição previdenciária. 4. Natureza da verba. Matéria de índole infraconstitucional. Ofensa reflexa. 5. Pedido de uniformização. Turma Nacional de Uniformização. Análise de direito federal. 6. Decretação de nulidade de atos processuais. Impossibilidade. Requerimento pela parte que lhe deu causa. Art. 243 do CPC. 7. Agravo regimental a que se nega provimento.”
+(ARE 837277 ED, de minha relatoria, Segunda Turma, DJe 17.3.2015)
+    Igualmente, o Tribunal Pleno já se manifestou, em sede de repercussão geral, no sentido de que não há repercussão geral em matéria de incidência de tributo sobre determinada verba, quando a discussão se pautar na definição da natureza jurídica da gratificação.
+    Veja-se a ementa do RE-RG 814.204, Rel. Min. Teori Zavascki, DJe 3.11.2014:
+    “TRIBUTÁRIO. GRATIFICAÇÃO ESPECIAL DE LOCALIDADE (GEL), TRANSFORMADA EM VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA (VPNI). INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à incidência de contribuição previdenciária sobre a Gratificação Especial de Localidade, fundada na interpretação das Leis 9.527/97 e 9.783/99, é de natureza infraconstitucional. 2. O Supremo Tribunal Federal vem reiteradamente rejeitando a repercussão geral de temas análogos, em que a incidência de tributo sobre determinada verba supõe prévia definição de sua natureza, se remuneratória ou indenizatória (AI 705.941-RG, Rel. Min. CEZAR PELUSO, DJe de 23/4/2010; RE 611.512-RG, Rel. Min. ELLEN GRACIE, DJe de 23/11/2010; RE 688.001-RG, de minha relatoria, DJe de 18/11/2013; ARE 802.082-RG, de minha relatoria, DJe de 29/4/2014; ARE 745.901-RG, de minha relatoria, DJe de 18/9/2014). 3. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009). 4. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Ante o exposto, conheço do presente agravo para negar provimento ao recurso extraordinário (Art. 544, §4º, II, b, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 27 de abril de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
