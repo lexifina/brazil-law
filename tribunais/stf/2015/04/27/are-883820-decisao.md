@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5°, XXXV, XXXVI, LIV e § 2°, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna obliqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. POSSE. REINTEGRAÇÃO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO STF. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, DJe de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, DJe de 08/09/10. 2. A Súmula 279/STF dispõe: ‘Para simples reexame de prova não cabe recurso extraordinário’. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. In casu, o acórdão recorrido assentou: ‘CIVIL. POSSE. REINTEGRAÇÃO. DEMANDA PROCEDENTE. Em sede de ação possessória, não cabe discutir o domínio, ou seja, a titularidade da propriedade. Apesar da alegação de posse constitucional da comunidade indígena, deduzida pelo Parquet, não se há de reconhecer a turbação ou o esbulho como meios legítimos de afirmá-la.’ 5. Agravo regimental a que se nega provimento” (AI 821.652-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 13.9.2012).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de abril de 2015.
+Ministra Rosa Weber
+Relatora
