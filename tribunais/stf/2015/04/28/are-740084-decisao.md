@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão cujo trecho da ementa transcrevo:
+    “AGRAVO LEGAL. LEI 8.866/94. PRISÃO CIVIL DECORRENTE DE AÇÃO DE DEPÓSITO.
+    Conforme entendimento exarado pelo STF, não existe mais prisão civil por infidelidade depositária, independentemente da modalidade de depósito. A única hipótese prevista, na atualidade, é a prisão civil do devedor de alimentos”. (fl. 275)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 97 do texto constitucional e à Súmula Vinculante n. 10.
+    Nas razões recursais, sustenta-se que o Tribunal de não poderia decidir pelo não prosseguimento do feito pela Lei 8.866/94, uma vez que não mais possível a prisão civil de depositário infiel, pois essa seria uma decisão que caberia tão somente à Fazenda Nacional.
+    Ademais, argumenta-se que há interesse no prosseguimento da ação pelo fato de que está fora intentada com resguardo do prazo prescricional. Forçar a propositura de nova ação, agora pelo rito da lei de execuções fiscais, levaria à prescrição.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    No presente caso, não há que se falar em violação ao artigo 97 da Constituição Federal, tendo em vista que o Tribunal de origem não declarou a inconstitucionalidade de norma nem afastou a sua aplicabilidade com apoio em fundamentos extraídos do texto constitucional, mas limitou-se a interpretar as normas infraconstitucionais aplicáveis.
+    Nesse sentido, confiram-se: AI-AgR 841.288, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.5.2011; RE-AgR 585.401, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1.2.2011; e o AI-AgR 737.104, Rel. Min. Luiz Fux, Primeira Turma, DJe 17.11.2011, este último com acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CONCURSO. ISENÇÃO DE TAXA DE INSCRIÇÃO DE CANDIDATOS CARENTES. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE ATIVA AD CAUSAM DO MINISTÉRIO PÚBLICO FEDERAL. DECISÃO RECORRIDA EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. OFENSA À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. PRECEDENTES. 1. A legitimação do Ministério Público para o ajuizamento de ação civil pública, não se restringe à defesa dos direitos difusos e coletivos, mas também abarca a defesa dos direitos individuais homogêneos, máxime quando presente o interesse social. Nesse sentido, o RE 500.879 – AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma. 2. In casu, não houve violação ao princípio da reserva de plenário, conforme a tese defendida no presente recurso, isso porque a norma em comento não foi declarada inconstitucional nem teve sua aplicação negada pelo Tribunal a quo, ou seja, a controvérsia foi resolvida com a fundamento na interpretação conferida pelo Tribunal de origem a norma infraconstitucional que disciplina a espécie. Precedentes: Rcl. 6944, Pleno, Rel. Min. Cármen Lúcia, Dje de 13.08.2010; RE 597.467-AgR, Primeira Turma, Dje de 15.06.2011 AI 818.260-AgR, Segunda Turma, DJe de 16.05.2011, entre outros. 3. Agravo Regimental a que se nega provimento” (grifos nossos).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 28 de abril de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
