@@ -1,0 +1,10 @@
+DECISÃO: A análise dos autos evidencia que John Lennon Feitosa de Carvalho foi condenado pela 2ª Auditoria da 11ª Circunscrição Judiciária Militar do Conselho Permanente de Justiça para o Exército, por infração ao art. 290, do Código Penal Militar, à pena de 01 (um) ano de reclusão.
+    Com a publicação da sentença condenatória recorrível, ocorrida em 26/03/2013 (fls. 137), operou-se, na espécie, causa interruptiva da prescrição penal, sendo certo que, posteriormente a tal data, não se registrou qualquer outra causa de interrupção do lapso prescricional, considerados os marcos temporais definidos no § 5º do art. 125 do Código Penal Militar.
+    Vale registrar , de outro lado, que o fato ocorreu em 15/08/2012, data em que John Lennon Feitosa de Carvalho contava com 19 (dezenove) anos de idade, sendo-lhe aplicável, por tal razão, a regra inscrita no art. 129 do CPM (redução pela metade), para efeito do cálculo prescricional.
+    Disso resulta, considerado o último marco temporal interruptivo incidente na espécie (26/03/2013, publicação da sentença condenatória, fls. 137), que se registrou, no caso, a consumação da prescrição da pretensão punitiva do Estado.
+    Com efeito, como entre o “dies a quo” (26/03/2013, data da última causa interruptiva) e o presente momento não se registrou qualquer outro fator de interrupção, tem-se por efetivamente consumado o lapso prescricional, que é de 02 (dois) anos (art. 125, VI, c/c art. 129, do CPM).
+    Sendo assim, em face das razões expostas, e com apoio no art. 3º, n. II, da Lei nº 8.038/90, declaro a extinção da punibilidade de John Lennon Feitosa de Carvalho (CPPM, art. 81, “caput”), relativamente à condenação penal que lhe foi imposta nos autos do Processo nº 0000193- -66.2012.7.11.0011 (2ªAuditoria da 11ª Circunscrição Judiciária Militar), em decorrência da prescrição da pretensão punitiva do Estado (CPM, art. 125, VI, c/c o art. 129 e art. 125, § 5º, II), restando extinto, em consequência, este procedimento recursal.
+    Publique-se.
+    Brasília, 28 de abril de 2015.
+Ministro CELSO DE MELLO
+Relator
