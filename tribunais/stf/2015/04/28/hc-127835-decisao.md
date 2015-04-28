@@ -1,0 +1,27 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Rodrigo Galhardo de Moraes Manzanete, em favor de Marcelo Henrique Mendes.
+    Nestes autos, a defesa questiona decisão do Superior Tribunal de Justiça (STJ), que não admitiu o recurso extraordinário interposto nos autos do AgRg no AREsp n. 465.884/SP. Transcrevo o teor da decisão na parte em que interessa:
+    “O recurso não reúne condições de ser admitido, pois é intempestivo. Com efeito, o acórdão impugnado foi publicado no Diário da Justiça Eletrônico em 14/11/2014, sexta-feira, (fl. 400), iniciando-se a contagem do prazo recursal em 17/11/2014, segunda-feira. Dessa forma, o prazo de 15 (quinze) dias para interposição do recurso extraordinário findou-se em 01/12/2014, segunda-feira. Contudo, a protocolização da petição recursal só ocorreu no dia 15/12/2014 (fl. 413), após o decurso do prazo legal. Ante o exposto, NÃO ADMITO o recurso extraordinário.”
+    Sustenta a defesa que o paciente sofre constrangimento ilegal, porquanto o STJ julgou intempestivo recurso extraordinário interposto no prazo legal e certificou o trânsito em julgado da ação penal, estando o paciente na iminência de ser preso.
+    Discorre que
+    “(...) o causídico patrono do paciente ao tomar conhecimento da decisão de intempestividade do recurso extraordinário, agravou tempestivamente contra o despacho denegatório, recurso cabível contra esse tipo de decisão, contudo há de salientar que a eminente ministra coatora mais uma vez desprezou a defesa do paciente determinando o arquivamento da petição (agravo), bem como oficiou para o Tribunal de Justiça de São Paulo, informando o trânsito em julgado da ação penal movida em face do ora paciente.
+    (...)
+    Necessário, ínclitos julgadores a concessão do presente writ para anular o ato ilegal executado pela eminente ministra do STJ Laurita Vaz, para assegurar ao paciente o direito de ver seu recurso extraordinário perfeitamente tempestivo julgado por esta Suprema Corte de leis, bem como garantida a liberdade e o direito constitucional de ir e vir até o trânsito em julgado da referida ação penal.
+    Contudo, protesta pela nulidade da decisão proferida de inadmissibilidade do recurso extraordinário, que fundamentado na intempestividade não existente, macula o devido processo legal, haja vista que mais que demonstrado e provado, estreme de dúvidas, que o paciente interpôs e protocolou o recurso extraordinário, ora ceifado pela eminente ministra, na data de 25/11/2014, ou seja, seis dias antes do prazo final que findou-se em 01/12/2014, logo não há que se falar em protocolização datada intempestivamente em 15/12/2014. (Obs: não existe nos autos protocolo nesta última data).” (eDOC 2, p. 5)
+    Requer, liminarmente, a expedição de salvo conduto em favor do paciente.
+    No mérito, postula que seja “anulada a decisão da eminente Ministra Laurita Vaz de intempestividade do recurso extraordinário, sendo admitido o recurso extraordinário perfeitamente tempestivo, bem como seja o mesmo processado e julgado por este colendo Supremo Tribunal Federal”. (eDOC 2, p. 6)
+    Breve relatório.
+    Decido.
+    Inicialmente ressalto não caber ao Supremo Tribunal Federal substituir-se ao Superior Tribunal de Justiça na análise dos requisitos de admissibilidade do recurso especial, salvo em caso de abuso de poder ou flagrante ilegalidade (cf. HC n. 94.362/RS, Rel. Min. Eros Grau, DJ 31.3.2006 e HC 112.130/MG, Rel. Min. Ayres Britto, DJe 8.6.2012).
+    No caso vertente, verifico que o impetrante se insurge contra decisão que não conheceu do Recurso Extraordinário, interposto em face de acórdão proferido pelo Superior Tribunal de Justiça que negou provimento ao AgRg no AREsp 465.884/SP, sob o fundamento de intempestividade do apelo.
+    Alega a defesa que
+    “a data de início do prazo para interposição de recurso extraordinário que se iniciou em 17/11/2014, bem como findou-se em 01/12/2014, porém mister informar e provar através de documentação juntada neste ato, que o protocolo do recurso extraordinário é perfeitamente TEMPESTIVO, pois foi conforme fls. 413 protocolizado na vara de origem em 25/11/2014, ou seja, 06 dias antes do prazo final 01/12/2014”. (eDOC 2, p. 3)
+    Compulsando os autos, observo que o impetrante protocolizou o recurso extraordinário no Tribunal de Justiça de origem e não na Secretaria do STJ. O apelo foi então remetido ao STJ, que o recebeu apenas na data de 15.12.2014, consoante informação extraída de seu sítio eletrônico.
+    Tratando-se de irresignação contra decisão do STJ, o recurso excepcional há de ser interposto perante esta Corte. No entanto, na hipótese, o recurso foi protocolizado em órgão incompetente para sua apreciação, fato que originou a intempestividade do apelo.
+    Destaco que a orientação desta Suprema Corte é no sentido de que a tempestividade do recurso é aferida pela oportuna apresentação da peça de interposição no protocolo do Tribunal. Nesse sentido: AI-AgR-ED/SP 626.348, Primeira Turma, Rel. Min. Ayres Britto, DJe 16.10.2009; e o AI-AgR/SP 709.469, Rel. Min. Ellen Gracie, Pleno, DJe 30.5.2008
+    Tecidas as considerações pertinentes, não sobejam dúvidas quanto à inadmissibilidade do recurso extraordinário, não merecendo reparo a decisão proferida pelo STJ.
+    Ante o exposto, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao presente writ.
+    Publique-se.
+    Brasília, 28 de abril de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
