@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL CIVIL. PRESCRIÇÃO INTERCORRENTE. APLICABILIDADE À EXECUÇÃO CÍVEL DE TÍTULO EXECUTIVO EXTRAJUDICIAL. OFENSA REFLEXA. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “AGRAVO INTERNO. DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO AGRAVO DE INSTRUMENTO POR MANIFESTA IMPROCEDÊNCIA (ARTIGO 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL). ALEGAÇÃO DE QUE O RECURSO NÃO PODERIA TER SIDO JULGADO MONOCRATICAMENTE. IMPROCEDÊNCIA, VISTO QUE A DECISÃO ESTÁ DE ACORDO COM O REFERIDO DISPOSITIVO LEGAL. AGRAVO A QUE SE NEGA PROVIMENTO.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 1º, III, e 5º, XLVII, da Constituição Federal.
+    O Tribunal de origem negou seguimento ao recurso extraordinário, por entender que a violação constitucional, se existente, seria reflexa, bem como que incide o óbice da Súmula nº 282 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, § 3º, da CF).
+    O recurso não merece prosperar.
+    Esta Corte já firmou entendimento no sentido de que a prescrição, quando sub judice a controvérsia, não dá ensejo ao cabimento do recurso extraordinário, por se situar no âmbito infraconstitucional. Nesse sentido, ARE 725.212 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 24/10/2014, e AI 856.996, Rel. Min. Rosa Weber, Primeira Turma, DJe de 16/04/2013, assim ementado:
+    “EMENTA: DIREITO CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 22.7.2009. As razões do agravo não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate. A suposta afronta aos preceitos constitucionais indicados nas razões recursais dependeria da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, ‘a’, da Lei Maior. Agravo regimental conhecido e não provido.”
+    A jurisprudência desta Suprema Corte se firmou no sentido de que a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de abril de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
