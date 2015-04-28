@@ -1,0 +1,9 @@
+Solução de Consulta Cosit nº 99004, de 23 de abril de 2015
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: FABRICANTE DE COLHEITADEIRAS AGRÍCOLAS AUTOPROPELIDAS. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. INAPLICABILIDADE DO REGIME MISTO DE CONTRIBUIÇÃO.. À empresa fabricante de colheitadeiras agrícolas autopropelidas não se aplica a contribuição previdenciária sobre a receita bruta, em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei nº 8.212, de 1991. A regra de exclusão do art. 8º, § 1º, inciso II, alínea b, da Lei n.º 12.546, de 2011, é aplicada a toda empresa, não se admitindo o “regime misto de contribuição” de que trata o § 1º do art. 9º da Lei nº 12.546, de 2011. SOLUÇÃO VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 17, DE 4 DE NOVEMBRO DE 2013. DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, art. 8º, §1º, inciso II, alínea b; Decreto nº 7.828, de 2012, art. 3º, § 2º, inciso II, alínea “b”.
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS
+EMENTA: FABRICANTE DE COLHEITADEIRAS AGRÍCOLAS AUTOPROPELIDAS. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. INAPLICABILIDADE DO REGIME MISTO DE CONTRIBUIÇÃO..
+À empresa fabricante de colheitadeiras agrícolas autopropelidas não se aplica a contribuição previdenciária sobre a receita bruta, em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei nº 8.212, de 1991.
+A regra de exclusão do art. 8º, § 1º, inciso II, alínea b, da Lei n.º 12.546, de 2011, é aplicada a toda empresa, não se admitindo o “regime misto de contribuição” de que trata o § 1º do art. 9º da Lei nº 12.546, de 2011.
+SOLUÇÃO VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 17, DE 4 DE NOVEMBRO DE 2013.
+DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, art. 8º, §1º, inciso II, alínea b; Decreto nº 7.828, de 2012, art. 3º, § 2º, inciso II, alínea “b”.
+MIRZA MENDES REIS Coordenadora
