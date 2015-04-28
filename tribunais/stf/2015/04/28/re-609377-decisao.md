@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 4ª Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “MANDADO DE SEGURANÇA. CONSELHO REGIONAL DE ENFERMAGEM. FIXAÇÃO DO VALOR DA ANUIDADE POR DECISÃO COREN Nº 1.221/99.
+    1. A limitação constitucional contida no princípio da legalidade visa a conferir proteção ao contribuinte, em face de modificações na estrutura do tributo, que o tornem mais oneroso. Neste sentido, os artigos 146, inciso III, 150, incisos I e II, e 195, § 6° determinam que as contribuições sociais de interesse das categorias profissionais são de competência exclusiva da União Federal, sendo inconstitucional as delegações para os conselhos profissionais instituírem cobrança através de resoluções.
+    2. O STJ pacificou o entendimento de que as anuidades dos Conselhos Profissionais, à exceção da OAB, têm natureza tributária e, por isso, seus valores somente podem ser fixados nos limites estabelecidos em lei, e não podem ser arbitrados por resolução nem em valores além dos estabelecidos pela norma legal.
+    3. Precedentes do STF, STJ, desta Corte e demais Tribunais Federais.
+    4. Provido o recurso interposto pelo Sindicato dos Auxiliares e Técnicos de Enfermagem do Município do Rio de Janeiro. Negado provimento à remessa necessária e ao recurso interposto pelo Conselho Regional de Enfermagem.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5°, XXI e LXIX, e 149 da Carta. Sustenta, preliminarmente, a ilegitimidade dos sindicatos para atuarem no polo ativo da demanda de origem, tendo em vista a ausência de autorização individual expressa e no respectivo estatuto social. Afirma a inviabilidade da via processual eleita, sob o fundamento de que ausente o requisito de liquidez e certeza, ante a necessidade de perícia técnica contábil para determinar o valor da contribuição. Por fim, aduz que inexiste ato ilegal praticado pelo Conselho Regional de Enfermagem, porquanto se encontram com fundamentação legal.
+    O Plenário do Supremo Tribunal Federal, nos autos do ARE 641.243-RG, de relatoria do Ministro Dias Toffoli, reconheceu a existência de repercussão geral da matéria em exame. Confira-se ementa da decisão:
+    “DIREITO ADMINISTRATIVO E TRIBUTÁRIO. AÇÃO DE INEXIGIBILIDADE DE ANUIDADE DE CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL. DISCUSSÃO ACERCA DA NATUREZA JURÍDICA DESSA ANUIDADE E DA POSSIBILIDADE DE FIXAÇÃO DE SEU VALOR POR MEIO DE RESOLUÇÃO INTERNA DE CADA CONSELHO. NECESSIDADE DE COMPOSIÇÃO DE PRINCÍPIOS E REGRAS CONSTITUCIONAIS. MATÉRIA PASSÍVEL DE REPETIÇÃO EM INÚMEROS PROCESSOS, A REPERCUTIR NA ESFERA DE INTERESSE DE MILHARES DE PESSOAS. TEMA COM REPERCUSSÃO GERAL.”
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC
+    Publique-se.
+          Brasília, 28 de abril de 2015.
+Ministro Luís Roberto Barroso
+Relator
