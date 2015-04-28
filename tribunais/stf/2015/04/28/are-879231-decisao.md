@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REAJUSTES: CÁLCULO EM DESACORDO COM A LEI COMPLEMENTAR MUNICIPAL N. 2/1992. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Turma Recursal dos Juizados Especiais de São Paulo:
+    “SERVIDOR PÚBLICO MUNICIPAL. Reajustes de proventos de 2009, realizados de forma linear. Forma de cálculo em desacordo com a Lei Complementar 02/92, que determina sejam calculados em progressão geométrica de razão. Recomposição determinada. Recurso improvido” (fl. 103).
+    2. No recurso extraordinário, o Agravante afirma ter a Turma Recursal contrariado o art. 3º, inc. I, da Constituição da República.
+    Sustenta ter o “acórdão recorrido contrari[ado] o mencionado dispositivo constitucional a partir do momento em que desatendeu os comandos emanados do inciso I, do artigo 3º, da Lei Maior, responsáveis por estipular a garantia da proibição do comportamento contraditório” (fls. 113-114).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de incidência das Súmulas ns. 279 e 454 do Supremo Tribunal Federal e de ausência de ofensa constitucional direta (fl. 132).
+    No agravo, salienta-se que “em momento algum se questionou as provas dos autos e o teor dos elementos que os instruem, mas apenas se invocou a legislação. O que se provoca aqui não é de forma alguma um reexame de provas, mas apenas dos dispositivos legais e constitucionais que embasam as pretensões recursais do Município” (fl. 142).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A ofensa ao art. 3º, inc. I, da Constituição da República, suscitada no recurso extraordinário, não foi objeto de debate e decisão prévios na Turma Recursal, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem, na espécie, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+    Este Supremo Tribunal assentou exigir-se o prequestionamento mesmo em matéria de ordem pública:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE INCOMPETÊNCIA ABSOLUTA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282. I - A questão constitucional impugnada no recurso extraordinário não foi objeto de apreciação do acórdão recorrido, o que atrai a incidência da Súmula 282 do STF. II – Matéria de ordem pública não afasta a necessidade do prequestionamento da questão. III - Agravo regimental improvido” (AI 633.188-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJ 31.10.2007).
+    7. A Turma Recursal assentou ter a Agravada direito à correção do cálculo do reajuste da remuneração com base na Lei Complementar municipal n. 2/1992.
+    A apreciação do pleito recursal exigiria a interpretação da legislação infraconstitucional aplicável à espécie (Lei Complementar municipal n. 2/1992). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 780.764-AgR, de minha relatoria, Segunda Turma, DJe 6.2.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. VANTAGEM PESSOAL. ÍNDICE DE REAJUSTE. BASE DE CÁLCULO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. REEXAME DA LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO” (RE 698.951-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 11.4.2013).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de abril de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
