@@ -1,0 +1,14 @@
+DECISÃO
+COMPETÊNCIA – AÇÃO CIVIL PÚBLICA DE IMPROBIDADE ADMINISTRATIVA – RÉU DEPUTADO FEDERAL – ATUAÇÃO DO JUÍZO – RECLAMAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    O ex-deputado federal Augustinho Freitas Martins afirma haver o Juízo da 5ª Vara Federal da Subseção Judiciária do Distrito Federal, no Processo nº 13957-25.1999.4.01.3400, usurpado a competência do Supremo.
+    Segundo narra, o Ministério Público Federal formalizou contra si e outros ação de improbidade administrativa. Relata a declaração de procedência parcial do pedido, no que condenado nas penas de ressarcimento ao erário, suspensão dos direitos políticos pelo lapso de dez anos e do direito de contratar com o Poder Público, bem como de receber benefícios ou incentivos fiscais ou creditício, além da aplicação de multa civil. Interpostos declaratórios, houve o provimento para assentar-se, também, a perda de função pública eventualmente exercida. O entendimento foi mantido em sede de apelação. Novos declaratórios acabaram desprovidos. Sobrevieram especial e extraordinário, admitido apenas o primeiro. Negado seguimento ao especial, a óptica ficou inalterada em regimental. Protocolados declaratórios, aguardam apreciação pelo Superior Tribunal de Justiça.
+    Sustenta a competência originária do Supremo, presente o disposto no artigo 102, inciso I, alíneas “b” e “c”, da Carta da República. Cita o decidido na Reclamação nº 2.138, no que o Tribunal teria consignado o cabimento da prerrogativa de foro no tocante às ações de improbidade. Alega configurada a usurpação porquanto a demanda teria tramitado perante Juízo incompetente enquanto ocupava o cargo de parlamentar federal. Evoca jurisprudência. Destaca que a problemática da competência está em discussão na Petição nº 3.240, pendente de julgamento.
+    Sob o ângulo do risco, alude à insegurança jurídica considerada a existência de precedentes divergentes sobre a matéria.
+    Requer, em sede liminar, a suspensão do julgamento do Recurso Especial nº 1.396.264 e, alfim, a proclamação da competência do Supremo para apreciar o caso e a declaração de nulidade dos atos praticados no processo.
+    2. A competência do Supremo é de direito estrito. Vale dizer: os limites estão na Constituição Federal. Relativamente aos membros do Congresso Nacional, incumbe ao Tribunal atuar quando haja infração penal comum ou habeas corpus a envolvê-los – artigo 102, inciso I, alíneas “b” e “d”, da Carta de 1988. Além de o reclamante não mais ocupar o cargo de parlamentar federal, descabe potencializar a matéria de fundo quanto à possibilidade de agente político ser submetido aos rigores da Lei nº 8.429/92 e, a partir daí, suscitar a competência do Supremo para ação civil pública.
+    3. Ante o exposto, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 28 de abril de 2015.
+Ministro MARCO AURÉLIO
+Relator
