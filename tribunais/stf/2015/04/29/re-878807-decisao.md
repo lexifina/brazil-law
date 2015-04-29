@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Sociedade Hospitalar Sagrada Família. Aparelhado o recurso na violação do art. 5º, XXXV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O exame de eventual ofensa aos preceitos constitucionais indicados nas razões recursais, consagradores dos princípios da legalidade, da proteção ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, bem como ao devido processo legal, ao contraditório e à ampla defesa (art. 5º da Lei Maior), demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, verbis:
+    "AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOAS JURÍDICAS. REQUISITOS PARA CONCESSÃO DO BENEFÍCIO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 708130 AgR, Relator(a): Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 12/06/2012, ACÓRDÃO ELETRÔNICO DJe-150 DIVULG 31-07-2012 PUBLIC 01-08-2012)
+    “Embargos de declaração em recurso extraordinário monocraticamente decidido. Conversão em agravo regimental, conforme pacífica orientação desta Corte. Gratuidade judiciária. Pessoa jurídica. Requisitos. Matéria infraconstitucional. 1. A verificação do preenchimento dos requisitos legais necessários para a concessão do benefício da assistência judiciária gratuita demanda o reexame dos fatos e das provas dos autos, bem como da legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. 2. Matéria cuja ausência de repercussão geral já foi reconhecida pelo Supremo Tribunal Federal. 3. Embargos de declaração convertidos em agravo regimental, ao qual se nega provimento.” (RE 387427 ED, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 08/05/2012, ACÓRDÃO ELETRÔNICO DJe-107 DIVULG 31-05-2012 PUBLIC 01-06-2012)
+    "Recurso extraordinário: descabimento: acórdão recorrido, do Tribunal Superior do Trabalho, que decidiu a questão à luz de legislação infraconstitucional: alegada violação ao texto constitucional que, se ocorresse, seria reflexa ou indireta; ausência de negativa de prestação jurisdicional ou de defesa aos princípios compreendidos nos arts. 5º, II, XXXV, LIV e LV e 93, IX, da Constituição Federal." (STF-AI-AgR-436.911/SE, Relator Ministro Sepúlveda Pertence, 1ª Turma, DJ 17.6.2005)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de abril de 2015.
+Ministra Rosa Weber
+Relatora
