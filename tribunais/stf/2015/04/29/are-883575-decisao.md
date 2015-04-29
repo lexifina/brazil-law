@@ -1,0 +1,14 @@
+Decisão: Trata-se de recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição, contra acórdão proferido pelas Turmas Recursais do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou provimento ao recurso inominado interposto contra decisão do Juizado Especial da Fazenda Pública da Comarca de Ijuí, que extinguiu, sem resolução do mérito, a ação de cobrança ajuizada pela recorrente, por entender faltar-lhe interesse processual.
+    Nas razões do recurso extraordinário, aponta-se violação aos arts. 5º, XXVI; 7º; 37; 205 e 212, da Constituição. Sustenta-se, em síntese, que o recorrente não está pagando de maneira adequada o reajuste aplicável à “gratificação de difícil acesso” a que os professores estaduais faz jus, nos termos da Lei 10.395/95. Pugna-se pelo provimento do recurso para que seja reconhecido o direito da recorrente em receber o percentual de 23,28% sobre a gratificação denominada de “difícil acesso”, nos termos dos incisos IV e V do art. 8º da Lei 10.395/95.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem consignou a falta de interesse processual da recorrente, ante a existência de demanda anterior, na qual o pedido feito nos autos já foi objeto de análise, capaz de aparelhar competente processo de execução (Processo 001/1052451793-6).
+    No recurso extraordinário a recorrente limita-se a afirmar seu direito ao recebimento do reajuste aplicável à “gratificação de difícil acesso”, nos termos da Lei 10.395/95.
+    Dessa forma, subsistente fundamento infraconstitucional autônomo e suficiente para manter o acórdão recorrido, incide o óbice do Enunciado 283 da Súmula do Supremo Tribunal Federal, nos termos da jurisprudência desta Corte.
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283 DO STF. ADMINISTRATIVO. GRATIFICAÇÃO. DECRETO-LEI 2.374/1987. SERVIDORES DA SUDENE. REDISTRIBUIÇÃO. PERDA DA GRATIFICAÇÃO. DECISÃO DE ORIGEM FUNDADA EM INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279. AGRAVO IMPROVIDO. I – O agravante não atacou todos os fundamentos suficientes da decisão agravada. Incidência da Súmula 283 do STF. II - A pretensão do recorrente envolve a análise de norma infraconstitucional, sendo certo que a ofensa à Constituição, se ocorrente, seria apenas indireta. III - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. IV - Agravo regimental improvido.”. (RE 614.415-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 4.5.2011).
+    Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 29 de abril de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
