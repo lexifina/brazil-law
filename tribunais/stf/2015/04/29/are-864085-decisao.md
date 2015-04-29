@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “DIREITO TRIBUTÁRIO – AÇÃO CIVIL PÚBLICA – APELAÇÃO CÍVEL – INEXISTÊNCIA DE PERDA SUPERVENIENTE DO OBJETO – NÃO SE CONHECE DAS PRELIMINARES DE INADEQUAÇÃO DA VIA ELEITA, ILEGITIMIDADE E AUSÊNCIA DE INTERESSE DE AGIR DO MINISTÉRIO PÚBLICO, POR SEREM QUESTÕES JÁ DEFINITIVAMENTE DECIDIDAS NOS AUTOS – TERMO DE ACORDO DE REGIME ESPECIAL – TARE – NULIDADE APELO DO DISTRITO FEDERAL PARCIALMENTE CONHECIDO – APELAÇÕES IMPROVIDAS”.
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se a necessidade de modulação dos efeitos da decisão que declarou inconstitucional o TARE firmado entre o recorrente e o Distrito Federal.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Esta Corte firmou-se no sentido de que o Ministério Público tem legitimidade para ajuizar ação civil pública em que se questiona acordo firmado entre o contribuinte e o Poder Público (TARE). A esse propósito, há o tema 56 da sistemática da repercussão geral, cujo paradigma é o RE 576.155, Rel. Min. Ricardo Lewandowski, DJe 1º.8.2008:
+    “LEGITIMIDADE. MINISTÉRIO PÚBLICO. AÇÃO CIVIL PÚBLICA. NULIDADE DE ACORDO PARA PAGAMENTO DE DÉBITO TRIBUTÁRIO. DETRIMENTO DO PATRIMÔNIO PÚBLICO E DA ORDEM TRIBUTÁRIA. REPERCUSÃO JURÍDICA.”
+    Do mesmo modo, tem-se que a questão da possibilidade de controle de constitucionalidade difusa e incidental, por meio de Ação Civil Pública, também já foi decidia pelo Pleno deste Tribunal, nos termos seguintes:
+    “2. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO PARA PROPOSITURA DA AÇÃO CIVIL PÚBLICA. O Supremo Tribunal Federal possui sólida jurisprudência sobre o cabimento da ação civil pública para proteção de interesses difusos e coletivos e a respectiva legitimação do Ministério Público para utilizá-la, nos termos dos arts. 127, caput, e 129, III, da Constituição Federal. No caso, a ação civil pública foi proposta pelo Ministério Público com o objetivo de proteger não apenas os interesses individuais homogêneos dos profissionais do jornalismo que atuam sem diploma, mas também os direitos fundamentais de toda a sociedade (interesses difusos) à plena liberdade de expressão e de informação. 3. CABIMENTO DA AÇÃO CIVIL PÚBLICA. A não-recepção do Decreto-Lei n° 972/1969 pela Constituição de 1988 constitui a causa de pedir da ação civil pública e não o seu pedido principal, o que está plenamente de acordo com a jurisprudência desta Corte. A controvérsia constitucional, portanto, constitui apenas questão prejudicial indispensável à solução do litígio, e não seu pedido único e principal. Admissibilidade da utilização da ação civil pública como instrumento de fiscalização incidental de constitucionalidade. Precedentes do STF. [...] RECURSOS EXTRAORDINÁRIOS CONHECIDOS E PROVIDOS.”(RE 511961, de minha relatoria, Tribunal Pleno, DJe 13.11.2009)
+    Assim, verifica-se que ser possível que o Tribunal a quo, em julgamento de ação civil pública, reconheça a invalidade de TARE firmado pelo ora recorrente e um dos recorridos .
+    Ademais, como é cediço, a declaração de inconstitucionalidade de ato normativo, via de regra, possui efeitos ex tunc, de sorte que o ato normativo perde efeito desde o início. Nesse sentido, veja-se:
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE QUALQUER DOS VÍCIOS PREVISTOS NO ART. 535 DO CPC. REJEIÇÃO. EFEITOS REFERENTES À DECLARAÇÃO DE INCONSTITUCIONALIDADE. REGRA. EX TUNC. EXCEÇÃO. EFEITOS PROSPECTIVOS (…)”. (ADI- ED 2.639, Rel. Min. Luiz Fux, Tribunal Pleno, DJ 9.4.2012)
+    Tem-se assim que a declaração de inconstitucionalidade de uma lei, ou como na espécie, de um TARE, tem efeito retroativo, o que implica a nulidade deste desde o seu nascedouro.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de abril de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
