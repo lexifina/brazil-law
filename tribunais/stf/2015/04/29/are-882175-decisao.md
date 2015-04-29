@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROCURADORES DA FAZENDA NACIONAL. PROMOÇÃO ANTES DO PERÍODO DO ESTÁGIO PROBATÓRIO DE 3 ANOS. IMPOSSIBILIDADE. AGRAVO PROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “PROCESSUAL CIVIL. CONSTITUCIONAL. ADMINISTRATIVO. PROCURADORES DA FAZENDA NACIONAL. CONCURSO DE PROMOÇÃO. TUTELA ANTECIPADA. 1. Ação ordinária movida por Procuradores da Fazenda Nacional com objetivo de verem assegurado o direito de participar do concurso de promoção convocado pelo Edital 39/2008, do Conselho Superior da AGU, independentemente do cumprimento da condição de elegibilidade de três anos de exercício na carreira, podendo, em consequência, ser promovidos caso atendidos os demais requisitos; 2. A conclusão do estágio probatório como requisito para promoção na carreira não foi previsto nem na Constituição, nem em norma infraconstitucional. E, sabe-se, uma norma infralegal não pode restringir, estabelecendo requisitos antes não previstos, tal como fez o Edital nº 39, de 21/11/08. 3. Some-se a isso o fato de que a restrição em questão não é razoável, prejudicando os interesses da própria Advocacia-Geral da União, já que, não sendo preenchidas as vagas de Procurador de 1ª Categoria, deixarão de surgir novas vagas de 2ª Categoria, impossibilitando que outros Procuradores ingressem na carreira. Ademais, nada impede que, mesmo após a promoção, aqueles que venham a ser reprovados no estágio probatório sofram as consequências daí advindas; 4. É inócuo discutir a antecipação dos efeitos da tutela deferida na sentença, se o pleito em verdade, é mesmo de ser deferido, sendo que, contra o acórdão que agora o confirma, só se cogita de irresignações desprovidas de efeito suspensivo (e daí a natural execução imediata da decisão); 5. Apelação e remessa oficial improvidas.”
+    Nas razões de apelo extremo, alega violação ao artigo 41 da Constituição Federal.
+    O Tribunal de origem negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    O Plenário desta Corte, ao julgar o agravo regimental interposto nos autos da STA 269, DJe de 25/2/2010, ratificou decisão proferida pelo Ministro Gilmar Mendes, que expressamente consignou:
+    “(...) a decisão liminar que, ao distinguir os prazos do estágio comprobatório e da estabilidade, permite a participação de Advogados da União com menos de três anos de efetivo exercício no concurso de promoção na carreira, contraria a norma do art. 41 da Constituição, acarretando, inclusive, grave lesão à economia pública, uma vez que a promoção desses servidores implicará majoração de seus vencimentos.” (DJe de 24/9/2008).
+    No mesmo sentido foi a decisão recentemente proferida pelo Ministro Roberto Barroso, em caso igual, AI 744.121, DJe de 9/3/2015.
+    O acórdão recorrido divergiu dessa orientação.
+    Ex positis, PROVEJO o agravo e, com fundamento no disposto no artigo 544, § 4º, II, c, do Código de Processo Civil, DOU PROVIMENTO ao recurso extraordinário. Invertidos, nesse ponto, os ônus da sucumbência.
+    Publique-se.
+    Brasília, 29 de abril de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
