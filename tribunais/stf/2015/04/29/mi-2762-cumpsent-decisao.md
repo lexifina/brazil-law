@@ -1,0 +1,16 @@
+Decisão: Trata-se de pedido de execução de sentença formulado por SISMMAR – Sindicato dos Servidores Públicos Municipais de Maringá em face do alegado descumprimento da decisão proferida em 27/4/2011, que concedeu a ordem para determinar a aplicação, no que couber, do art. 57 da Lei 8.213/1991, para fins de verificação do preenchimento dos requisitos para aposentadoria especial dos representados pelo impetrante.
+    Relata a parte requerente que, não obstante tenha sido reconhecido por este Supremo Tribunal Federal o direito dos filiados ao SISMMAR de terem seus pleitos de aposentadoria analisados à luz da mencionada disposição legal, a autoridade administrativa teria descumprido a decisão, além de ter criado óbices para o exercícios desse direito.
+    Afirma que diversos servidores já possuem o tempo de contribuição necessário para a concessão da aposentadoria especial, no entanto continuam expostos a agentes nocivos à saúde face a inércia da autoridade administrativa.
+    Sustenta, nesse contexto, que a Administração Pública Municipal tem exigido requisito não previsto em lei, qual seja, “exclusividade de 25 (vinte e cinco) anos de tempo de contribuição no serviço público municipal”.
+    Requer, ao fim, que se “se determine as executadas que cumpram a sentença do mandado de injunção nos termos da decisão, ou seja, que reconheçam e concedam a aposentadoria dos pedidos administrativos anteriores e futuros, quando preenchidas as condições do art. 57 da Lei 8213/91”.
+    Solicitadas informações, o Município de Maringá relatou que os pedidos administrativos foram analisados pela autarquia previdenciária do Município – Maringá Previdência – com base no art. 57 da Lei 8.213/91. Prossegue afirmando que esses pleitos foram apreciados de acordo com as suas peculiaridades e, “ao contrário do que diz o Sismmar os servidores que tiveram indeferido os pedidos de aposentadoria especial de fato não cumpriram os requisitos legais”.
+    É o relatório. Decido.
+    A parte requerente apresentou a presente petição no intuito de noticiar o descumprimento da decisão transitada em julgado, prolatada nos autos desta impetração.
+    Contudo, a pretensão da parte, consubstanciada na preservação da autoridade das decisões exaradas por esta Suprema Corte, demanda a utilização de procedimento adequado. Configura-se, portanto, impróprio o processamento do pedido por simples petição colacionada a estes autos, mormente porque a providência ora pretendida, qual seja, determinar às autoridades executadas “que reconheçam e concedam a aposentadoria dos pedidos administrativos anteriores e futuros, quando preenchidas as condições do art. 57 da Lei 8213/91” não foi, e nem poderia sê-lo, assegurada pela decisão que se reputa descumprida, que se limitou a preencher a lacuna legal, de forma a viabilizar o exercício do direito à aposentadoria especial previsto na Constituição, sem, contudo, gerar, de per se, o direito à aposentadoria especial.
+    Desse modo, a inadequação da via eleita impede a apreciação da ofensa alegada.
+    Ex positis, indefiro o pedido formulado às fls. 155-164.
+    Publique-se. Int..
+    Brasília, 29 de abril de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
