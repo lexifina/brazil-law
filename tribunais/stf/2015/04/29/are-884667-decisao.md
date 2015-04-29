@@ -1,0 +1,39 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “EXECUÇÃO FISCAL. FGTS. REDIRECIONAMENTO CONTRA O SÓCIO. ENCERRAMENTO DO PROCESSO DE FALÊNCIA. EXTINÇÃO DO FEITO.
+    -Inaplicáveis ao caso as normas do Código Tributário Nacional. Súmula 353 do E. STJ.
+    -Hipótese de redirecionamento da responsabilidade por débito referente à contribuição ao FGTS ao sócio da empresa executada que deve ser tratada à luz do art. 10 do Dec. 3.708/19.
+    -A falência não caracteriza modo irregular de dissolução da pessoa jurídica, razão pela qual não enseja, por si só, o redirecionamento do executivo fiscal (REsp 601.851/RS, 2ª Turma, Rel. Min. Eliana Calmon, DJ de 15.8.2005; AgRg no Ag 767.383/RS, 2ª Turma, Rel. Min. Castro Meira, DJ de 25.8.2006).
+    -Havendo o encerramento do procedimento falimentar sem a ocorrência de qualquer motivo ensejador de redirecionamento do feito, não há mais utilidade na ação de execução fiscal movida em face de empresa extinta, destarte não havendo outra alternativa senão decretar-se a extinção do processo sem o julgamento do mérito. Precedentes do Eg. STJ e desta Corte.
+    -Recurso desprovido.”
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput, XXII, e LIV; 7º, III; e 97 do texto constitucional.
+    Nas razões recursais, alega-se que houve a declaração de inconstitucionalidade do artigo 4º, § 2º, da Lei de execuções fiscais, sem a observância da cláusula de reserva de plenário, insculpida no artigo 97 do texto constitucional.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    No caso, o acórdão impugnado consignou o seguinte:
+    “A questão posta no presente recurso versa sobre a possibilidade de redirecionamento da responsabilidade pelos débitos referentes à contribuição ao FGTS ao sócio da empresa executada.
+    A matéria é objeto da jurisprudência do E. STJ cuja 1ª Seção, após reiteradas decisões dos órgãos fracionários daquela Corte, em 11.06.2008, editou súmula afastando a aplicação das normas do CTN às contribuições ao Fundo de Garantia do Tempo de Serviço - FGTS, assentada nos seguintes termos:
+    "Súmula 353. As disposições do Código Tributário Nacional não se aplicam às contribuições para o FGTS." (PRIMEIRA SEÇÃO, julgado em 11/06/2008, Dje 19/06/2008).
+    Assim, no caso em apreço, sendo inaplicáveis as normas do Código Tributário Nacional, há que se aplicar a legislação referente a cada tipo societário.
+    No caso dos autos tratando-se de sociedade por cotas de responsabilidade limitada, a hipótese de redirecionamento da responsabilidade por débito referente à contribuição ao FGTS ao sócio da empresa executada deve ser tratada à luz do art. 10 do Dec. 3.708/19.
+    A providência prevista no artigo 10 do Dec. 3.708/19, depende para sua adoção, do preenchimento dos requisitos de prática de ato com excesso de poderes ou infração de lei, contrato social ou estatutos de que resultem obrigações.
+    Há necessidade de correspondência do crédito com os fatos previstos no dispositivo legal, a mera inadimplência não configurando a hipótese legal, porque não cria mas pressupõe a prévia constituição da obrigação.
+    No sentido de que a mera inadimplência não acarreta os excogitados efeitos jurídicos, decidiu o E. STJ, conforme se depreende das ementas a seguir colacionadas.
+    (...)
+    Registro ainda que não tem o alcance pretendido a previsão do art. 23, §1º, incisos I e V, da Lei 8.036/90 e o art. 47, incisos I e V do Decreto 99.684/90 no sentido de que constitui infração à lei não depositar mensalmente o percentual referente ao FGTS, porquanto o artigo 10 do Dec. 3.708/19, depende para sua incidência, do preenchimento dos requisitos de prática de ato com excesso de poderes ou infração de lei, contrato social ou estatutos.
+    O elemento de ilicitude previsto na norma legal não é aquele correspondente à falta de cumprimento da obrigação de recolhimento do percentual referente ao FGTS mas o que está presente no fato gerador da obrigação.
+    No caso o fato gerador consiste no pagamento de remuneração a trabalhador e não consta que o sócio praticou esses atos nas condições descritas na excogitada norma das sociedades por cotas limitadas.
+    São coisas de todo diversas o descumprimento à lei inerente à falta de cumprimento da obrigação e a infração à lei imanente ao fato gerador da obrigação.
+    Com efeito, uma vez proclamada a não responsabilização pessoal do sócio pela mera inadimplência, segue-se que a ilegalidade considerada pela lei não se confunde com o descumprimento da obrigação do recolhimento do percentual referente ao FGTS constituído.
+    Impende ressaltar, também, que a falência não caracteriza modo irregular de dissolução da pessoa jurídica, razão pela qual não enseja, por si só, o redirecionamento do executivo fiscal (REsp 601.851/RS, 2ª Turma, Rel. Min. Eliana Calmon, DJ de 15.8.2005; AgRg no Ag 767.383/RS, 2ª Turma, Rel. Min. Castro Meira, DJ de 25.8.2006).
+    Nesse contexto, verifica-se que não foi caracterizada nenhuma situação apta a ensejar, na hipótese, o redirecionamento do executivo fiscal em face do sócio.
+    Assim, havendo o encerramento do procedimento falimentar sem a ocorrência de qualquer motivo ensejador de redirecionamento do feito, não há mais utilidade na ação de execução fiscal movida em face de empresa extinta, destarte não havendo outra alternativa senão decretar-se a extinção do processo sem o julgamento do mérito.”.(fls. 130-132)
+    Verifico que, na espécie, o acórdão recorrido não afastou a incidência da legislação infraconstitucional, cingindo-se a interpretá-la.
+    Ademais, ressalto que o Tribunal a quo apenas decidiu, com base nos fatos e provas dos autos, que não seria aplicável, ao caso, a lei de execução fiscal. Nesse sentido, cito os seguintes acórdãos:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. ACRÉSCIMOS PATRIMONIAIS. SUCESSÃO. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. RESERVA DE PLENÁRIO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO IMPROVIDO. I O acórdão recorrido dirimiu a questão com base na interpretação da legislação infraconstitucional aplicável à espécie. Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. II Não há que falar em violação ao art. 97 da CF, tampouco em aplicação da Súmula Vinculante 10 do STF, uma vez que o Tribunal a quo não declarou a inconstitucionalidade de norma nem afastou sua aplicabilidade com apoio em fundamentos extraídos da Constituição. Precedentes. III Agravo regimental improvido” (RE nº 593.843/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 9/11/10).
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. INEXISTÊNCIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE VIOLAÇÃO DA CLÁUSULA DE RESERVA DE PLENÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. 3. Inviável o recurso extraordinário pela alínea "a", por ofensa ao artigo 97 da CB/88, quando impugna decisão que não declarou a inconstitucionalidade dos textos normativos questionados. Precedentes. Agravo regimental a que se nega provimento” (AI nº 785.709/RS-AgR-AgR, Segunda Turma, Relator o Ministro Eros Grau , DJe de 24/6/10).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de abril de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
