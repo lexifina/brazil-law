@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 40, § 8º, 97, 195, § 5º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Está no acórdão recorrido:
+    “MANDADO DE SEGURANÇA. INCLUSÃO NOS PROVENTOS DE APOSENTADORIA DE GRATIFICAÇÃO PELO EXERCÍCIO DE ENCARGOS ESPECIAIS. PRELIMINAR DE ILEGITIMIDADE PASSIVA DO SECRETÁRIO DA ADMINISTRAÇÃO E DA PREVIDÊNCIA. INOCORRÊNCIA. EXEGESE DO ART. 1º, § 1º, DO DECRETO ESTADUAL N. 1748/2000. DESNECESSIDADE DE ENCAMINHAMENTO DO FEITO AO ÓRGÃO ESPECIAL. DISCUSSÃO QUE NÃO PRESSUPÕE O RESPEITO À CLÁUSULA DE RESERVA DE PLENÁRIO. GRATIFICAÇÃO PELO EXERCÍCIO DE ENCARGOS ESPECIAIS ESTENDIDA A TODOS OS SERVIDORES DA SEAB PELO DECRETO ESTADUAL N. 6285/02. DISCUSSÃO DIVERSA DA JÁ RESOLVIDA NO INCIDENTE DE DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ARTIGO 30, § 2º, DA LEI ESTADUAL N. 13.757/02. VERBA DE NATUREZA GENÉRICA QUE DEVE SER COMPREENDIDA COMO REAJUSTE SALARIAL. CONSEQUENTE INCORPORAÇÃO NA APOSENTADORIA, NOS TERMOS DO ART. 40, § 8º, DA CF, COM REDAÇÃO DADA PELA EC 20/98. INEXISTÊNCIA DE VIOLAÇÃO AO ARTIGO 195, § 5º, DA CONSTITUIÇÃO FEDERAL. SEGURANÇA CONCEDIDA.”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Agravo regimental no recurso extraordinário. Servidor público. Gratificação pelo exercício de encargos especiais (GEEE). Decretos nºs 5.391/02 e 6.285/02 do Estado do Paraná. Natureza. Extensão aos inativos. Ofensa a direito local. Incidência da Súmula nº 280 da Corte. Artigo 97 da Constituição Federal. Violação. Não ocorrência. Precedentes. 1. Não se abre a via do recurso extraordinário para o reexame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280 desta Corte. 2. É pacífica a jurisprudência do Supremo Tribunal Federal de que não há violação do art. 97 da Constituição Federal quando o Tribunal de origem, sem declarar a inconstitucionalidade da norma e sem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar a legislação e a aplicá-la infraconstitucional ao caso concreto. 3. Agravo regimental não provido.” (RE 744.865-AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe 27.11.2013)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de abril de 2015.
+Ministra Rosa Weber
+Relatora
