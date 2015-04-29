@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IR. CÁLCULO. RECEBIMENTO DE VENCIMENTOS ACUMULADOS. REGIME DE COMPETÊNCIA OU DE CAIXA. DECISÃO FAVORÁVEL À PARTE AGRAVANTE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE SUCUMBÊNCIA. FALTA DE INTERESSE RECURSAL. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão que manteve sentença de procedência da inicial, para que a UNIÃO aplique:
+    “(..) o regime de competência em relação ao cálculo do imposto de renda do crédito do(s) autor (es), de acordo com a faixa de tributação aplicável ou, se for o caso, a isenção; bem como para declarar que do valor pago seja computado o imposto de renda a restituir, considerados os valores devidos mês a mês, em obediência à Tabela do Imposto de Renda expedida pelo Governo Federal” (pág. 3 do documento eletrônico 6).
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 150, II, da Constituição Federal.
+    É o Relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, § 3º, da CF).
+    A irresignação não merece prosperar.
+    Verifica-se que o recurso extraordinário é interposto pela própria autora (Mirabeau Sousa do Nascimento) que teve os pedidos declaratórios e de cobrança contidos em sua ação totalmente acolhidos na sentença, a qual foi confirmada após a Turma Recursal do Juizado Especial Federal negar provimento ao recurso inominado oferecido pela UNIÃO.
+    Assim, a irresignação não se sustenta por ausência do binômio necessidade e utilidade da prestação jurisdicional. Nesse sentido, os seguintes julgados:
+    “Agravo regimental no recurso extraordinário. GDATA. Súmula Vinculante nº 20. Ausência de interesse recursal. 1. A ausência de utilidade no provimento do recurso denota a carência de interesse recursal do agravante. 2. Agravo regimental não provido.” (RE 612.920-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 29/3/2012).
+    “RECURSO EXTRAORDINÁRIO – NÃO-CONHECIMENTO DE TAL RECURSO, POR AUSÊNCIA DE INTERESSE DE RECORRER, EIS QUE INOCORRENTE, QUANTO À FAZENDA PÚBLICA, O ESTADO DE SUCUMBÊNCIA – RECURSO DE AGRAVO IMPROVIDO. - O estado de sucumbência – que reflete situação de maior ou de menor lesividade gerada pela decisão judicial – qualifica-se como pressuposto recursal genérico e comum a todos os recursos, ordinários ou extraordinários, de tal modo que, inocorrendo qualquer gravame causado pelo ato decisório, deixa de existir o interesse de recorrer, cujo reconhecimento, para legitimar a interposição recursal, impõe a cumulativa satisfação, pela parte que recorre, dos requisitos da necessidade e da utilidade do recurso deduzido. Ausência, na espécie, do estado de sucumbência. Consequente incognoscibilidade do recurso interposto.” (RE 596.969-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 24/5/2013).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de abril de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
