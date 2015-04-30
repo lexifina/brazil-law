@@ -1,0 +1,18 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. EMBARGOS PARCIALMENTE ACOLHIDOS PARA SANAR OMISSÃO. REPERCUSSÃO GERAL RECONHECIDA. QUESTÃO SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Embargos de declaração opostos contra decisão proferida em 25.2.2015, pela qual provido o recurso extraordinário interposto pelo Distrito Federal para determinar-se a aplicação imediata do art. 1º-F da Lei n. 9.494/1997. Pela decisão recorrida, o Tribunal de Justiça do Distrito Federal e dos Territórios concluiu: a) possível o fracionamento da execução de ações coletivas para pagamento em forma de Requisição de Pequeno Valor – RPV; b) não incidir a Lei distrital n. 3.624/2005, pela qual reduzido o montante da obrigação de pequeno valor para dez salários mínimos, nas execuções em curso; c) aplicáveis juros no percentual de 1% contra a Fazenda Pública.
+    Publicada essa decisão no DJe de 4.3.2015, o Distrito Federal opõe, em 16.3.2015, tempestivamente, embargos de declaração (fls. 265-272).
+    2. O Embargante assevera omissão quanto “a legitimidade do fracionamento da execução de sentença coletiva – ordem mandamental concedida em favor do SINDIRETA – Sindicato dos Servidores Públicos Civis da Administração Direta, Autarquias, Fundações e Tribunal de Contas do Distrito Federal. Assim é que o acórdão exequendo foi prolatado em ação mandamental que não se processou em litisconsórcio ativo facultativo” (fl. 267).
+    Argumenta não “enfrent[ado] o pedido (...) consistente na pretendida incidência do teto máximo da RPV segundo a Lei local nº 3.624/2005” (fl. 270).
+    Requer o acolhimento dos presentes embargos.
+    3. Opostos os embargos de declaração contra decisão monocrática, com base na alegação dos vícios contidos no art. 535 do Código de Processo Civil, dispensa-se a conversão em agravo regimental para julgamento pela Turma (RE 476.109-ED, Relator o Ministro Cezar Peluso, DJe 8.10.2007; RE 411.024-ED, Relator o Ministro Sepúlveda Pertence, DJ 11.5.2004; e RE 277.612, Relator o Ministro Carlos Velloso, DJ 12.11.2001).
+    4. Diversamente do alegado pelo Embargante, o fracionamento de execução de sentença coletiva não foi objeto do recurso extraordinário.
+    5. Os presentes embargos de declaração merecem acolhimento para sanar omissão quanto ao pedido não apreciado – incidência da Lei distrital n. 3.624/2005 nas execuções em curso.
+    6. Em 27.2.2015, no julgamento eletrônico do Recurso Extraordinário n. 729.107, Relator o Ministro Marco Aurélio, o Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão sobre a “Possibilidade de aplicação da Lei distrital 3.624/2005, que reduziu para 10 salários mínimos o teto para expedição de requisição de pequeno valor, às execuções em curso” (Tema 792, DJe 20.3.2015).
+    Reconhecida a repercussão geral do tema, os autos deverão retornar à origem, para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 543-B do Código de Processo Civil.
+    7. Pelo exposto, acolho parcialmente os embargos de declaração quanto à aplicação da Lei distrital n. 3.624/2005 às execuções em curso, mantendo a matéria sub judice, e determino a devolução destes autos ao Tribunal a quo, para observância do art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 30 de abril de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
