@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. DANO MORAL.  FINANCIAMENTO HABITACIONAL. PROGRAMA MINHA CASA, MINHA VIDA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado (documento eletrônico 15):
+    “SFH. ILEGITIMIDADE PASSIVA DA IMOBILIÁRIA RÉ. NEGATIVA DE CONCESSÃO DE FINANCIAMENTO HABITACIONAL. REGRAS DO PROGRAMA 'MINHA CASA MINHA VIDA'. NÃO CUMPRIMENTRO DAS EXIGÊNCIAS. IMPEDIMENTO.
+    A imobiliária ré Aline S. I. F. Ltda ME deve ser excluída do polo passivo da demanda, pois não pode ser responsabilizada por eventuais danos e por eles responder se não possui o poder decisório sobre os serviços que presta, já que o fato de ter intermediado o processo de liberação de financiamento, por si só, não lhe atribui legitimidade para responder a ação, já que não tem obrigação nenhuma como o resultado do processo administrativo que instaura para CEF.
+    Cabe à instituição financeira, antes de conceder financiamento habitacional, proceder ao exame das condições implícitas no negócio, não estando obrigada a concedê-lo.
+    A concessão ou negativa é precedida de estudo da situação financeira do contratante e das condições e valor do imóvel objeto do financiamento. Ressalte-se que a negativa do financiamento, apesar de constituir inegável incômodo, não pode ser considerada como lesão aos direitos personalíssimos do ser humano, tendo em vista que não produz uma dor íntima capaz de justificar uma condenação
+    Não preenchidos os requisitos para a participação do programa Minha Casa Minha Vida, não há falar em ilegalidade no procedimento da CEF.
+    A Turma tem firmado entendimento no sentido de que a Caixa Econômica Federal - CEF não é obrigada a liberar financiamento, pois não há direito subjetivo ao recebimento de financiamento - Precedentes.
+    Apelação da autora improvida e apelo da ré Aline S. I. F. Ltda ME provido para que seja reconhecida a sua ilegitimidade passiva com a sua exclusão da lide e negar provimento à apelação da parte autora.”
+    Os embargos de declaração opostos foram parcialmente providos, apenas para efeito de prequestionamento.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, X, e 6º, caput, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que não houve violação direta à Constituição Federal e que a solução da controvérsia demanda incursão no acervo fático-probatório dos autos.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, § 3º, da CF).
+    Não merece prosperar o agravo.
+    Em primeiro lugar, para divergir do acórdão recorrido quanto ao direito da recorrente de aderir ao Programa Minha Casa, Minha Vida seria necessário revolver fatos e provas para examiná-los à luz da legislação infraconstitucional que rege o referido programa habitacional, o que é vedado pela Súmula 279 do STF, bem como pela consolidada jurisprudência desta Corte, que nega a possibilidade de discussão sobre matéria infraconstitucional em sede de recurso extraordinário.
+    Além disso, esta Corte já firmou entendimento no sentido de que o dano moral, quando aferido pelas instâncias ordinárias, não pode ser revisto pela Suprema Corte, em face da incidência da Súmula 279 do STF, que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Desse modo, não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe a discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DA MATÉRIA FÁTICO-PROBATÓRIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 684.576 AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 1º/8/2012)
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do verbete sumular supra, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de abril de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
