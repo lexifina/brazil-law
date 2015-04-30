@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que a parte recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. O Plenário do Supremo Tribunal Federal, ao julgar o RE 626.489, Rel. Min. ROBERTO BARROSO, DJe de 23/9/2014, Tema 313, sob o regime do art. 543-B do CPC (repercussão geral), consolidou entendimento em relação à matéria discutida no presente recurso extraordinário. Esse acórdão ficou assim ementado:
+    EMENTA: RECURSO EXTRAODINÁRIO. DIREITO PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO. DECADÊNCIA. 1. O direito à previdência social constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário. 2. É legítima, todavia, a instituição de prazo decadencial de dez anos para a revisão de benefício já concedido, com fundamento no princípio da segurança jurídica, no interesse em evitar a eternização dos litígios e na busca de equilíbrio financeiro e atuarial para o sistema previdenciário. 3. O prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição. 4. Inexiste direito adquirido a regime jurídico não sujeito a decadência. 5. Recurso extraordinário conhecido e provido.
+    Considerada a especial eficácia vinculativa desse julgado (CPC, art. 543-B, § 3º), impõe-se sua aplicação, nos mesmos termos, aos casos análogos, como o dos autos.
+    Assim, por estar em consonância com o entendimento jurisprudencial acima demonstrado, o acórdão recorrido não merece reparos.
+    3. Diante do exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 30 de abril de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
