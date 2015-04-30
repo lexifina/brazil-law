@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL. EMBARGOS À EXECUÇÃO FISCAL. EFEITO SUSPENSIVO. EMPRESA EM PROCESSO DE RECUPERAÇÃO JUDICIAL. OFENSA AO CONTRADITÓRIO, À AMPLA DEFESA E AO DEVIDO PROCESO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA NO ARE 748.371. TEMA Nº 660. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. RECURSO EM CONFRONTO COM A JURISPRUDÊNCIA DOMINANTE. APLICAÇÃO DO ART. 557, CAPUT, DO CPC. NEGATIVA DE SEGUIMENTO. MANUTENÇÃO DO DECISUM.
+    1. Nos termos do artigo 557, caput, do CPC, se o recurso for manifestamente inadmissível, improcedente, prejudicado ou estiver em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior, o relator negará seguimento ao mesmo.
+    2. Insurgência conflitante com o entendimento sedimentado no eg. STJ, no sentido de que a execução fiscal não se suspende em face do deferimento do pedido de recuperação judicial, restando apenas vedada a prática de atos que comprometam o patrimônio do devedor ou excluam parte dele do processo de recuperação judicial. (2ª Seção, AgRg no AgRg no CC 120644/RS, Relator Ministro Massami Uyeda. DJe 27.06.2012).
+    3. Como a decisão agravada espelha a orientação pretoriana, deve ser mantida a negativa de seguimento do presente recurso.
+    4. Agravo regimental desprovido.”
+    Nas razões do apelo extremo, a parte sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, LIV e LV, e 170 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que as alegadas ofensas à Constituição Federal não teriam sido prequestionadas.
+    É o Relatório. DECIDO.
+    O agravo não merece provimento.
+    A interposição do recurso extraordinário impõe que o dispositivo constitucional tido por violado tenha sido debatido no acórdão recorrido, sob pena de carecer o recurso do requisito do prequestionamento, essencial à admissão do apelo extremo.
+    In casu, dessume-se dos autos que a recorrente se furtou em prequestionar, em momento oportuno, a alegada violação ao artigo 170 da Constituição Federal.
+    Esta Corte firmou entendimento no sentido de que a alegação tardia, só suscitada em embargos de declaração opostos perante o Tribunal de origem, acerca da matéria versada nos dispositivos constitucionais, não supre a falta do requisito do prequestionamento, viabilizador da abertura da instância extraordinária. No caso, incide o óbice da Súmula nº 282 do STF, que dispõe, verbis: “É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada.” Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. INCORPORAÇÃO DE GRATIFICAÇÃO. LEI COMPLEMENTAR ESTADUAL N. 13/94. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL (SÚMULA 282). IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento. Precedentes.” (RE 598.123-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 30/4/2010)
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ART. 7º, LV, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE. SÚMULAS STF 282 E 356.
+    1. São inviáveis os embargos de declaração opostos para fins de prequestionamento quando o tema constitucional não tiver sido ventilado previamente no recurso interposto perante o Tribunal de origem.
+    2. E a circunstância de a matéria poder ser suscitada em qualquer momento processual ou grau de jurisdição, por se tratar de questão de ordem pública, como afirmado pela recorrente, não afasta o preenchimento de tal requisito, inerente ao cabimento do recurso de natureza extraordinária. Precedentes.
+    3. Agravo regimental improvido.” (AI 521.577-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 16/4/2010)
+    No que se refere à alegada ofensa ao artigo 5º, LIV e LV, da Constituição Federal, saliente-se que os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF na análise do ARE 748.371-RG, Rel. Min. Gilmar Mendes, DJe de 6/6/2013, Tema nº 660, conforme se pode destacar do seguinte trecho da manifestação do Relator:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de abril de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
