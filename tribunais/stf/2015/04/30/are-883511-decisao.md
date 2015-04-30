@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. DANO MATERIAL. DANO MORAL. CONFIGURAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371-RG. NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. PRELIMINAR DE ILEGITIMIDADE PASSIVA ‘AD CAUSAM’. AQUISIÇÃO DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. LUCROS CESSANTES DEVIDOS. DESCUMPRIMENTO CONTRATUAL. DANOS MORAIS. A PRINCÍPIO INCABÍVEIS. EXAME DETALHADO DO CASO CONCRETO. DESDOBRAMENTOS GRAVOSOS. VIOLAÇÃO AOS ATRIBUTOS DA PERSONALIDADE. DANOS MORAIS. CABÍVEIS.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, X e LV, da Constituição Federal.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Primeiramente, destaco que esta Suprema Corte firmou jurisprudência no sentido de que os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371-RG, da relatoria do Min. Gilmar Mendes, DJe de 1º/8/2013, como se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Ademais, o dano moral e o dano material, quando aferidos pelas instâncias ordinárias, não podem ser revistos pela Suprema Corte, em face da incidência da Súmula 279 do STF, que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Desse modo, não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DA MATÉRIA FÁTICO-PROBATÓRIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 684.576 AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 1º/8/2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DE SERVIÇO. DANO MATERIAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 847.526-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 2/12/2014)
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do verbete sumular supra, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+    Ex positis, DESPROVEJO o agravo, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de abril de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
