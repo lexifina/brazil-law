@@ -1,1 +1,0 @@
-Art. 53. Fica o Poder Executivo autorizado a fixar coeficientes para redução das alíquotas previstas no art. 51 desta Lei, os quais poderão ser alterados, a qualquer tempo, para mais ou para menos, em relação aos produtos, sua utilização ou sua destinação a pessoa jurídica enquadrada no regime especial instituído pelo art. 58-J desta Lei.
