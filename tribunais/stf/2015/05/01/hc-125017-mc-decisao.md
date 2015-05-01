@@ -1,0 +1,17 @@
+DECISÃO
+REVISÃO CRIMINAL – LIMINAR INDEFERIDA – HABEAS CORPUS – MEDIDA ACAUTELADORA – RELEVÂNCIA NÃO DEMONSTRADA – INDEFERIMENTO.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    Marcos Donizete Vilela Junqueira foi condenado a dez anos de reclusão, em regime fechado, e ao pagamento de 160 dias-multa, ante o cometimento dos crimes previstos nos artigos 12 (tráfico de drogas) e 14 (associação para o tráfico) da Lei nº 6.368/1976. O Juízo da Vara Única da Comarca de Buritama, no Estado de São Paulo (Processo nº 097.01.2006.003393-2), negou ao paciente o direito de recorrer em liberdade, determinando a expedição de mandado de prisão. Assentou tratar-se de crime grave a exigir punição exemplar do Estado. Aludiu ao fato de a mercancia ter sido praticada nas dependências da cadeia pública de Buritama. Apontou a necessidade da custódia, visando a manutenção da ordem.
+    A defesa interpôs apelação – de nº 990.10.076160-9 – no Tribunal de Justiça do Estado de São Paulo. A 14ª Câmara de Direito negou-lhe provimento.
+    Em revisão criminal – de nº 0060477-04.2014.8.26.0000 –, pleiteou-se, em liminar, o recolhimento provisório do mandado de prisão expedido pelo Juízo de origem, a fim de garantir-se ao paciente o direito de permanecer em liberdade. No mérito, pretendeu-se a absolvição. Sustentou-se a existência de novos laudos médicos que atestam dependência química. O relator indeferiu a providência de urgência, consignando a falta de previsão legal.
+    Posteriormente, indeferiu-se liminarmente o Habeas Corpus nº 304.674/SP, impetrado no Superior Tribunal de Justiça, com idêntica pretensão. O relator reportou-se ao Verbete nº 691 da Súmula do Supremo e ao disposto no artigo 210 do Regimento Interno, porque não vislumbrou flagrante  ilegalidade a justificar o processamento da impetração.
+    Neste habeas, o impetrante diz haver novas provas (laudos psicológicos) a demonstrarem a inocência do paciente. Aduz que, à época dos fatos, este era mero usuário de entorpecentes, conforme revela o teor de escutas telefônicas. Alega que a condenação mostrou-se contrária às provas produzidas sob o crivo do contraditório. Assevera tratar-se de situação a justificar o abrandamento do Verbete nº 691 da Súmula do Supremo.
+    Requer, em âmbito liminar, a expedição e salvo-conduto, assegurando-se ao paciente o direito de permanecer em liberdade até o julgamento definitivo da Revisão Criminal nº 0060477-04.2014.8.26.0000, suspendendo-se a execução da pena. Sucessivamente, postula o implemento das medidas previstas no artigo 319 do Código Penal. Pleiteia seja determinado o recolhimento do mandado de prisão expedido. No mérito, busca a confirmação da providência.
+    A fase é de análise do pedido de concessão de medida acauteladora.
+    2. Observem a organicidade do Direito. Há título executivo judicial transitado em julgado, isso após ser apreciada apelação. Então, a partir de óptica sobre os elementos probatórios coligidos no processo-crime, pretende-se contrapor ao pronunciamento judicial, precluso na via da recorribilidade, relevância considerada revisão criminal ainda em curso. A impropriedade do pedido, na via do habeas corpus e em atuação precária e efêmera no campo da liminar, salta aos olhos.
+    3. Indefiro a medida acauteladora.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 1º de maio de 2015, às 19h10.
+Ministro MARCO AURÉLIO
+Relator
