@@ -1,0 +1,17 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – SUSPENSÃO DE PROCESSO-CRIME – RELEVÂNCIA NÃO DEMONSTRADA – INDEFERIMENTO.
+    1. O assessor Dr. Alexandre Freire prestou as seguintes informações:
+    Os pacientes, Robson da Silva Sacramento, Gilmar Rodrigues Batista Ponciano e Jucicleide Soares da Silva, foram condenados pelo Juízo da Auditoria da 6ª Circunscrição Judiciária Militar, no Processo nº 0000007-72.2007.7.06.0006, à pena de 3 anos, 1 mês e 9 dias; 2 anos, 8 meses e 19 dias e 2 anos, 8 meses e 19 dias de reclusão, respectivamente, ante o cometimento do crime versado no artigo 251, cabeça (estelionato), do Código Penal Militar.
+    A defesa interpôs apelação, visando a declaração de incompetência da Justiça Militar. Sustentou a ausência de provas aptas a ensejar a condenação e pleiteou a substituição da pena privativa de liberdade pela restritiva de direito. Disse da adequação da regra descrita no artigo 44 do Código Penal. O Superior Tribunal Militar proveu parcialmente o recurso, redimensionando a reprimenda do primeiro recorrente para 2 anos e 8 meses de reclusão e, a dos demais, para 2 anos. Quanto ao paciente Robson Sacramento, negou o direito ao sursis, com base no artigo 84 do Código Penal Castrense, mas deferiu o benefício aos outros.
+    Ao acolher os declaratórios interpostos pela defesa, fez consignar, no acórdão embargado, a impertinência, no âmbito da Justiça Militar, do disposto no artigo 44 do Código Penal. Afastaram a possibilidade da substituição pretendida, assentando a falta de previsão legal do benefício na legislação militar.
+    A Defensoria Pública da União reitera, neste habeas corpus, a arguição de incompetência da Justiça Militar, salientando serem os pacientes civis. Assevera que, em virtude de tal condição, cabe à Justiça Federal julgá-los. Alega não ter a conduta dos pacientes alcançado instituição militar, porquanto causou lesão ao erário. Diz da afronta ao princípio do juiz natural. Aponta serem aplicáveis, no caso, as disposições do artigo 44 do Código Penal.
+    Requer, liminarmente, a suspensão do Processo nº 7-72.2007.7.06.0006.
+    No mérito, busca a declaração da competência da Justiça Federal de Salvador/BA, anulando-se o julgamento ocorrido no Superior Tribunal Militar. Sucessivamente, pleiteia a substituição da pena privativa de liberdade pela restritiva de direito.
+    A fase é de apreciação do pleito liminar.
+    2. Atentem para o fato de o crime ter sido praticado, por civil, contra a Administração militar no que fraudada pensão. Quanto à aplicação do artigo 44 do Código Penal ao processo-crime, os pronunciamentos do Tribunal são em sentido diverso – Embargos de Declaração no Agravo em Recurso Extraordinário nº 700.012, relatora ministra Cármen Lúcia, Segunda Turma, Diário da Justiça eletrônico de 10 de outubro de 2012, Habeas Corpus nº 94.083/DF, relator ministro Joaquim Barbosa, Segunda Turma, Diário da Justiça eletrônico de 12 de março de 2010, e 91.709, relatora ministra Cármen Lúcia, Primeira Turma, Diário da Justiça eletrônico de 13 de março de 2009. A razão mostra-se simples: a regência da matéria é especial, não havendo campo para a observância da norma do citado artigo no que prevê a substituição da pena privativa de liberdade pela restritiva de direitos. Cumpre ter presente a necessidade de dar ênfase à organização e disciplina no âmbito militar.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 2 de maio de 2015, às 11h45.
+Ministro MARCO AURÉLIO
+Relator
