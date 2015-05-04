@@ -1,0 +1,21 @@
+Decisão:
+ementa: Processo Penal. Habeas corpus substitutivo de recurso ordinário. Tráfico de entorpecentes. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Gurgel de Faria, assim ementado:
+    “PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE E ESPÉCIE DE DROGA APREENDIDA. AUSÊNCIA DE ILEGALIDADE.
+    1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada for flagrante, hipótese em que se concede a ordem de ofício.
+    2. A teor do art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada quando presentes o fumus comissi delicti, consubstanciado na prova da materialidade e na existência de indícios de autoria, bem como o periculum libertatis, fundado no risco que o agente, em liberdade, possa criar à ordem pública/econômica, à instrução criminal ou à aplicação da lei penal.
+    3. No caso, a decisão do magistrado de primeiro grau encontra-se fundamentada na garantia da ordem pública, considerando a quantidade e a variedade das drogas apreendidas — 453 pinos de cocaína, 62 porções de maconha e 60 porções de crack —, circunstância que demonstra a gravidade da conduta perpetrada e a periculosidade social do agente.
+    4. Habeas corpus não conhecido.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante, em 04.02.2015, surpreendido com 453 (quatrocentos e cinquenta e três) pinos de cocaína, 62 (sessenta e duas) porções de maconha e 60 (sessenta) porções de crack. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em prisão preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça, não conhecido.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência dos requisitos necessários à decretação da custódia preventiva, nos termos do art. 312 do CPP. Daí o pedido de concessão da ordem para que seja revogada a prisão processual do paciente.
+    Decido.
+    5. A Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal (v.g HC 109.956, Rel. Min. Marco Aurélio, e HC 104.045, Rel.ª Min.ª Rosa Weber). A hipótese, portanto, é de extinção do processo sem resolução do mérito por inadequação da via eleita.
+    6. Não é caso de concessão da ordem de ofício, tendo em vista que os autos não evidenciam teratologia, ilegalidade flagrante ou abuso de poder. Ademais, a inicial deste habeas corpus sequer foi instruída com cópia do acórdão do Tribunal Estadual, não sendo possível avançar na análise das teses veiculadas pela defesa.
+    7. Além disso, conforme assentou o Superior Tribunal de Justiça, “a decisão do magistrado de primeiro grau, convolada pelo Tribunal a quo, encontra-se fundamentada na garantia da ordem pública, considerando a quantidade e a variedade das drogas apreendidas — 453 pinos de cocaína, 62 porções de maconha e 60 porções de crack —, circunstância que demonstra a gravidade da conduta perpetrada e a periculosidade social do agente”. Nessas condições, o acórdão impugnado alinha-se à orientação jurisprudencial do Supremo Tribunal Federal, no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem de prisão preventiva (Cf. HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Rel. Min. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    8. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 04 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
