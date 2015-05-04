@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5°, XXXV, XVII, e LXXVIII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna obliqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO COLETIVO. ALCANCE TERRITORIAL DA EFICÁCIA DAS DECISÕES PROFERIDAS EM AÇÕES COLETIVAS. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. PRECEDENTES. AGRAVO IMPROVIDO. I – A questão atinente à limitação territorial da eficácia da decisão proferida em ação coletiva proposta por entidade associativa restringe-se ao âmbito infraconstitucional (Leis 7.347/1985, 8.078/1990 e 9.494/1997), não guardando relação com o art. 5º, XXI, da Constituição . Precedentes. II - Agravo regimental improvido” (RE 468.140-AgR, 2ª Turma, Rel. Min. Ricardo Lewandowski, DJe 26.9.13).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. EXECUÇÃO. AÇÃO COLETIVA. JUROS REMUNERATÓRIOS. LIMITES OBJETIVOS DA COISA JULGADA. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE697.443-ED, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 19.9.12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO COLETIVA. LIMITES TERRITORIAIS DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 796.473. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. A limitação territorial da eficácia da decisão proferida em ação coletiva, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do ARE nº 796.473, Rel. Min. Gilmar Mendes. 2. In casu, o acórdão recorrido assentou: “PROCESSO CIVIL. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. LIMITES SUBJETIVOS DA SENTENÇA. COISA JULGADA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA”. 3. Agravo regimental DESPROVIDO” (RE 788.989-AgR, 1ª Turma, Rel. Min. Luiz Fux, DJe 9.9.14).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de maio de 2015.
+Ministra Rosa Weber
+Relatora
