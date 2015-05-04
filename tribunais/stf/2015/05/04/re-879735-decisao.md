@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 5ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 255):
+    “PREVIDENCIÁRIO. PROCESSUAL CIVIL. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. CÔMPUTO DE TEMPO DE SERVIÇO RURAL. COISA JULGADA MATERIAL. ART. 257, INCISO V, DO CPC.
+    1. Conquanto em direito previdenciário muitas vezes o rigor processual deva ser mitigado, não podem ser ignorados os limites expressamente estabelecidos pela legislação processual e, mais do que isso, ditados pelos princípios que informam o direito processual e o próprio ordenamento, sendo certo que coisa julgada goza de expressa proteção constitucional (art. 5º, inciso XXXVI) a bem da segurança jurídica, pilar fundamental do estado de direito.
+    2. Discutido na nova ação período sobre o qual já houve pronunciamento judicial, é de ser reconhecida a identidade ensejadora do reconhecimento da coisa julgada.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV, e LV; 6º, e 93, IX, todos da Constituição.
+    O recurso não deve ser admitido. Inicialmente, observo que o Plenário deste Tribunal já rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Ademais, a decisão impugnada está devidamente fundamentada. O Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 04 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
