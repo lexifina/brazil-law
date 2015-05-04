@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 8036, de 13 de março de 2015
+Assunto: Obrigações Acessórias SISCOSERV. OBRIGAÇÕES DO CLIENTE DE AGENTE DE CARGA. Em transações envolvendo transporte de carga, a consulente deverá verificar qual foi exatamente o objeto do contrato com o agente de carga e compará-lo com as situações examinadas na referida SC Cosit nº 257/14, a fim de determinar quais as suas (do consulente) obrigações relativas ao Siscoserv. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 257, DE 26 DE SETEMBRO DE 2014 Dispositivos Legais: Arts. 9º; 18, XI; e 22 da IN RFB 1396/13; SC Cosit nº 257/14.
+[arquivo anexo: SC SRRF08-Disit nº 8036-2015.pdf]
