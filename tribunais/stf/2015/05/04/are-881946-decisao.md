@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. COMPETÊNCIA DO ESTADO-MEMBRO PARA REGULAMENTAR A PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE INTERMUNICIPAL. ACÓRDÃO RECORRIDO HARMÔNICO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Santa Catarina:
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. DIREITO DO CONSUMIDOR. TRANSPORTE INTERMUNICIPAL DE PASSAGEIROS EM PÉ.
+    PEDIDO DE DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DO ART. 59 DO DECRETO ESTADUAL N. 12.601/80 E DO ART. 122 DA INSTRUÇÃO NORMATIVA N. 7/91 DO DETER. AUSÊNCIA DE AFRONTA AO ART. 22, XI, DA CRB, QUE DISPÕE SOBRE A COMPETÊNCIA DA UNIÃO PARA LEGISLAR SOBRE TRANSPORTE E TRÂNSITO. NORMAS REGULAMENTADORAS DO TRANSPORTE INTERMUNICIPAL DE PASSAGEIROS EM PÉ QUE DECORREM DA COMPETÊNCIA PRÓPRIA DO ESTADO.
+    Não há no texto constitucional previsão expressa em relação à competência para a exploração de serviço de transporte intermunicipal. A Constituição cuidou apenas de dispor sobre a competência para explorar os transportes terrestres rodoviário interestadual e internacional de passageiros – privativa da União, nos termos do art. 21, XII, alínea ‘e’ - e para explorar o transporte coletivo no âmbito local – do Município, de acordo com artigo 30, inciso V. Daí a conclusão, ante o disposto no artigo 25, § 1º, de que a matéria é da competência dos Estados-membros (…).
+    Nessa ordem de ideias, se a prestação desse serviço compete aos Estados-membros, estes detêm competência também para regulamentar essa prestação’ (do corpo do acórdão do ST, ADI. 2349, rel. Min. Eros Grau, Tribunal Pleno, dj. 31.8.05).
+    REQUERIMENTO DE INTERRUPÇÃO DO TRANSPORTE DE PASSAGEIROS EM PÉ E DE ADEQUAÇÃO DO FORNECIMENTO DOS SERVIÇOS AOS PRECEITOS CONTIDOS DO CDC. DIREITOS CONSUMERISTAS NÃO VIOLADOS.
+    Não há que se falar em afronta aos direitos dos passageiros quando não se comprova que o número de passageiros em pé nos transportes intermunicipais não excedeu o limite máximo estabelecido pela lei.
+    SENTENÇA DE IMPROCEDÊNCIA MANTIDA. APELO E REMESSA DESPROVIDOS” (fl. 441).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega contrariados os arts. 21, inc. XII, al. e, 22, inc. XI, parágrafo único, 25, § 1º, e 30, inc. V, da Constituição da República, asseverando que
+    “os acórdãos recorridos contrariaram o disposto nos arts. 21, XII, ‘e’, 22, XI e parágrafo único, 25, § 1º, e 30, inc. V, da Constituição da República, na medida em que concluíram que a legislação estadual que normatiza o transporte intermunicipal de passageiros não viola a competência privativa da União para legislar sobre trânsito e transporte, ensejando assim, a interposição do presente recurso extraordinário, que merece ser admitido e provido por essa Corte Suprema” (fl. 485).
+    3. O recurso extraordinário foi inadmitido ao fundamento de harmonizar-se o acórdão recorrido com a jurisprudência do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. No julgamento da Ação Direta de Inconstitucionalidade n. 2.349, Relator o Ministro Eros Grau, este Supremo Tribunal assentou a competência dos Estados-Membros para explorar e regulamentar a prestação de serviços de transporte intermunicipal:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. § 2º DO ARTIGO 229 DA CONSTITUIÇÃO DO ESTADO DO ESPÍRITO SANTO. TRANSPORTE COLETIVO INTERMUNICIPAL. TRANSPORTE COLETIVO URBANO. ARTIGO 30, V DA CONSTITUIÇÃO DO BRASIL. TRANSPORTE GRATUITO. COMPETÊNCIA LEGISLATIVA. POLICIAIS CIVIS. DIREITO ADQUIRIDO. INEXISTÊNCIA. 1. Os Estados-membros são competentes para explorar e regulamentar a prestação de serviços de transporte intermunicipal. 2. Servidores públicos não têm direito adquirido a regime jurídico. Precedentes. 3. A prestação de transporte urbano, consubstanciando serviço público de interesse local, é matéria albergada pela competência legislativa dos Municípios, não cabendo aos Estados-membros dispor a seu respeito. 4. Pedido de declaração de inconstitucionalidade julgado parcialmente procedente” (DJ 14.10.2005).
+    Confira-se também o seguinte julgado:
+    “ADMINISTRATIVO E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRANSPORTE INTERMUNICIPAL. COMPETÊNCIA REGULAMENTAÇÃO. ESTADO. CF/88, ART. 30, I. 1. Ocorrência de descompasso de decreto municipal frente à legislação estadual ao impedir o embarque ou desembarque de passageiros das linhas intermunicipais fora de terminais. Inteligência do art. 30, I, da Constituição Federal. 2. Compete aos Estados-membros explorar e regulamentar a prestação de serviços de transporte intermunicipal. ADI 2.349/ES. 3. Agravo regimental improvido” (RE 549.549-AgR, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 19.12.2008).
+    O acórdão recorrido harmoniza-se com essa orientação jurisprudencial, pelo que nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 4 de maio de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
