@@ -1,0 +1,20 @@
+Decisão:
+ementa: Penal. Habeas corpus. Furto. Inexistência de risco à liberdade de locomoção. Liminar indeferida.
+    1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Newton Trisotto, assim ementada:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA N. 182 DO STJ. INCIDÊNCIA. AGRAVO DESPROVIDO.
+    1. Tendo a parte, no agravo, se limitado a reeditar os argumentos expendidos no recurso especial, impõe-se a confirmação da decisão que, com o respaldo na Súmula n. 182 do Superior Tribunal de Justiça (‘É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada’), dele não conheceu.
+    A confirmação do decisum pelos seus próprios fundamentos, evitando-se, assim, tautologia, ‘reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação 'per relationem', que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado - referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir’ (AI n. 825.520-AgR-Ed, Rel. Min. Celso de Mello, Segunda Turma, DJe 12/09/2011; RE n. 614.967 AgR/AM, Rel. Min. Luiz Fux, Primeira Turma, DJe 19/03/2013).
+    2. Agravo regimental desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 1 (um) ano e 2 (dois) meses de reclusão, em regime inicial semiaberto, pelo crime previsto no artigo 155, caput, c/c o artigo 65, inciso III, alínea “d”, ambos do Código Penal, assegurado o direito de recorrer em liberdade.
+    3. O Tribunal de Justiça do Estado de Minas Gerais negou provimento à apelação da defesa. Em seguida, foram opostos embargos de declaração, rejeitados.
+    4. Irresignada, a defesa interpôs recurso especial, inadmitido na origem. Dessa decisão, foi interposto o recurso de agravo. A Relatora do Aresp 403.949, Ministra Regina Helena Costa, não conheceu do agravo. A Quinta Turma do STJ, como visto, negou provimento ao agravo regimental defensivo.
+    5. Neste habeas corpus, a parte impetrante sustenta a aplicabilidade, no caso, do princípio da insignificância, em razão do pequeno valor do objeto material do crime de furto (um compressor de ar, um motor de bomba de sucção e duas balanças eletrônicas). Ressalta que o valor total da res furtiva teria sido avaliado em R$ 350,00 (trezentos e cinquenta reais) e que os bens subtraídos teriam sido restituídos à vítima. Alega, ainda, a possibilidade da fixação de regime inicial mais brando. Requer, assim, a concessão de liminar para suspender a execução da pena até o julgamento definitivo deste writ. No mérito, pleiteia a defesa a absolvição do paciente ou, alternativamente, a fixação do regime inicial aberto.
+    Decido.
+    6. Não é caso de concessão da liminar, tendo em vista que não há risco iminente à liberdade de locomoção do paciente.
+    7. Com efeito, em análise preliminar, verifica-se que o paciente foi condenado a 1 (um) ano e 2 (dois) meses de reclusão, em regime inicial semiaberto, tendo o magistrado assegurado ao acusado o direito de recorrer em liberdade. A decisão condenatória ainda não transitou em julgado, tendo em vista a informação da inicial de que pendente de julgamento os embargos declaratórios opostos contra a decisão do Tribunal de origem que inadmitiu o recurso extraordinário da defesa.
+    8. Diante do exposto, indefiro a liminar. Dê-se vista dos autos à Procuradoria Geral da República.
+    Publique-se.
+    Brasília, 05 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
