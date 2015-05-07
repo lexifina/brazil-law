@@ -1,0 +1,34 @@
+EMBARGOS DE DECLARAÇÃO NA AÇÃO ORIGINÁRIA. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. PRINCÍPIO DA FUNGIBILIDADE. RECEPÇÃO COMO AGRAVO REGIMENTAL. PRECEDENTES DESTA CORTE. RECURSO QUE NÃO SE VOLTA CONTRA A PARTE DE MÉRITO, MAS APENAS PEDE ESCLARECIMENTO QUANTO À CONDENAÇÃO AO PAGAMENTO DAS VERBAS SUCUMBENCIAIS. ART. 317, § 2º, DO REGIMENTO INTERNO DO STF,. DECISÃO RECONSIDERADA, APENAS PARA ESCLARECER A PARTE DA CONDENAÇÃO EM HONORÁRIOS.
+    Decisão: Trata-se de embargos de declaração opostos por Marcelo Freire Gonçalves contra decisão na qual, nos termos do art. 21, § 1º, do Regimento Interno do STF, julguei improcedente o pedido formulado na presente ação.
+    Nas suas razões, o embargante aduz que “estes declaratórios tem por objetivo o simples esclarecimento da decisão acerca da forma como deverá ser feito o pagamento dos honorários advocatícios a que foram condenados os réus (fls. 331). Requer, ao final, a condenação ao pagamento de honorários aos advogados da ré, no importe de cinco por cento sobre o valor da causa, para cada um dos autores” (fls. 333).
+    É o relatório. Passo a decidir.
+     Ab initio, assento que Supremo Tribunal Federal tem conhecido os embargos de declaração opostos objetivando a reforma da decisão do relator como agravo regimental, que é o recurso cabível, por força do princípio da fungibilidade. Nesse sentido, colaciono os seguintes julgados, in verbis:
+    “EMBARGOS DE DECLARAÇÃO NA PETIÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. O CONTROLE ABSTRATO DE LEI OU DE ATO NORMATIVO DO PODER PÚBLICO NÃO PODE SER O OBJETO PRINCIPAL DA AÇÃO ORIGINÁRIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (Pet 4.837-ED, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJ de 14/3/2011)
+    “EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. ALEGAÇÃO DE DESCUMPRIMENTO DO QUE DECIDIDO NAS AÇÕES DIRETAS DE INCONSTITUCIONALIDADE N. 1.717/DF, 3.026/DF E 2.135-MC/DF. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    1. Inexistência de identidade material entre as decisões reclamadas e os julgados tidos como paradigma.
+    2. Impossibilidade de utilização da reclamação como sucedâneo de recurso.” (Rcl 11.022-ED, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJ de 7/4/2011)
+    “Embargos de declaração em agravo de instrumento. Conversão em agravo regimental, conforme pacífica orientação da Corte. Proventos de aposentadoria. Recálculo efetuado, com supressão de gratificação incorporada. Legalidade.
+    1. A decisão ora atacada reflete a pacífica jurisprudência desta Corte a respeito do tema, que reconhece a possibilidade de a administração pública rever atos eivados de vícios que os tornem ilegais.
+    2. Princípio da segurança jurídica que não se reveste de caráter absoluto, devendo ceder passo em face de ilegalidades, notadamente no âmbito da administração pública.
+    3. Embargos de declaração recebidos como agravo regimental, ao qual é negado provimento.” (AI 547.827-ED, Rel. Min. DIAS TOFFOLI, 1ª Turma, DJ 9/3/2011)
+    “PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO PREJUDICADO. SUBSTITUIÇÃO DO ACÓRDÃO DO TRF PELO DO STJ.
+    1. Embargos de declaração recebidos como agravo regimental, consoante iterativa jurisprudência do Supremo Tribunal Federal.
+    2. O acórdão do Superior Tribunal de Justiça substituiu o acórdão proferido pelo Tribunal Regional Federal, nos termos do art. 512 do CPC.
+    3. O recurso extraordinário, interposto do acórdão do TRF, no caso, está prejudicado pela perda superveniente de seu objeto, em decorrência do provimento do recurso especial da ora agravante.
+    4. Agravo regimental a que se nega provimento.” (RE 546.525-ED, Rel. Min. ELLEN GRACIE, 2ª Turma, DJ 5/4/2011)
+    Destarte, conheço os embargos de declaração como agravo regimental e passo a apreciá-lo.
+    Analisando o recurso, anoto, de início, que a insurgência da parte não se volta contra qualquer conteúdo de mérito da decisão, mas apenas requer, como já supracitado, esclarecimentos quanto à parte de condenação dos autores do feito ao pagamento das verbas sucumbenciais, especialmente no que toca aos honorários advocatícios.
+    A propósito, veja-se o dispositivo da decisão agravada:
+    “Ex positis, julgo improcedente o pedido, com fundamento no art. 269, I, do CPC e no art. 21, § 1º, do RISTF, ficando prejudicada a análise do pedido de tutela antecipada.
+    Condeno os autores ao pagamento das custas processuais e dos honorários devidos aos advogados da ré, os quais vão fixados em 10% sobre o valor da causa, com base nos parâmetros estabelecidos pelo art. 20, §§ 3º e 4º, do CPC.”
+    Os honorários advocatícios, portanto, foram fixados em 10% (dez por cento) sobre o valor atualizado da causa, alcançando todos os autores da demanda, os quais respondem coletivamente pela parcela, cada um nos limites de sua quota-parte. É o que prevê o art. 23 do CPC, in litteris:
+    “Art. 23. Concorrendo diversos autores ou diversos réus, os vencidos respondem pelas despesas e honorários em proporção.”
+    Ressalto, aliás, em esclarecimento, que ao contrário do quer induzir o recorrente ao requerer que “seja distribuída a condenação ao pagamento de honorários aos advogados da ré, no importe de cinco por cento do valor da causa, para cada um dos autores” (fls. 333), a condenação ao pagamento de tal verba, realizada pela decisão recorrida, não alcança apenas dois autores, mas todos aqueles constantes da petição inicial (fls. 2/3). Observe-se, nesse sentir, que os pedidos de desistência formulados por alguns dos autores (fls. ) foram efetuados apenas após a citação e resposta da União, pelo que dependiam de sua concordância. É o que dispõe o art. 267, § 4º, do CPC:
+    “§ 4o Depois de decorrido o prazo para a resposta, o autor não poderá, sem o consentimento do réu, desistir da ação.”
+    Por essa razão é que o Min. Eros Grau, a quem sucedi, determinou, pela decisão de fls. 18, que se manifestasse a ré sobre os pedidos de desistência, dos quais a União discordou, conforme a petição de fls. 207. Os pedidos de desistência foram, portanto, indeferidos, conforme consta da decisão de fls. 211, prosseguindo o feito até a sua resolução de mérito.
+    Ex positis, nos termos do art. 317, § 2º, do CPC (já que no relatório apenas fiz menção a dois dos autores), reconsidero a decisão agravada apenas para esclarecer a parte da condenação ao pagamento dos honorários advocatícios, os quais, fixados em 10% (dez por cento) sobre o valor atualizado da causa, são devidos por todos os autores que integraram o feito, respondendo cada um deles proporcionalmente pela sua parte, nos termos do art. 23 do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 7 de maio de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
