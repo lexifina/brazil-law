@@ -1,0 +1,22 @@
+Vistos etc.
+    Aplicada a sistemática da repercussão geral e devolvido o recurso à origem para os fins do art. 543-B do CPC, considerados o AI 722.834, o RE 591.797, o AI 751.521, e o AI 754.745, retornam os autos a esta Suprema Corte, com a informação de que a questão em exame é distinta da veiculada no citado paradigma.
+    É o relatório.
+    Decido.
+    Assiste razão.
+    A matéria debatida no presente recurso diz com a alegada ofensa ao art. 93, IX da Constituição Federal, ante a necessidade de fundamentação das decisões proferidas nos moldes da Lei 9.099/95, controvérsia distinta daquela debatida nos paradigmas indicados na decisão atacada.
+    Ante o exposto, torno sem efeito a decisão que aplicou o art. 543-B do Código de Processo Civil e passo à análise do recurso.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário exarado pela Presidência do Tribunal a quo, maneja agravo Banco Santander Brasil S.A. Na minuta, alega violação do art. 93, IX, da Carta da República.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Da leitura dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, a afastar o vício da nulidade por negativa de prestação jurisdicional arguido. Destaco que, no âmbito dos Juizados Especiais, não importa ausência de motivação, a adoção dos fundamentos da sentença recorrida pela Turma Recursal, em conformidade com o disposto no art. 46 da Lei 9.099/95, que disciplina o julgamento em segunda instância nos juizados especiais cíveis, verbis:
+    “Art. 46. O julgamento em segunda instância constará apenas da ata, com a indicação suficiente do processo, fundamentação sucinta e parte dispositiva. Se a sentença for confirmada pelos próprios fundamentos, a súmula do julgamento servirá de acórdão”.
+    Sobre o assunto, pacífica a jurisprudência desta Corte no sentido de que a adoção dos fundamento da sentença pela Turma Recursal não viola a Constituição Federal, confiram-se:
+    “Agravo regimental no recurso extraordinário com agravo. Juizados especiais. Turma recursal. Remissão aos fundamentos da sentença. Lei nº 9.099/95. Possibilidade. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não viola o art. 93, inciso IX, da Constituição a fundamentação de turma recursal que, em conformidade com a Lei nº 9.099/95, adota os fundamentos contidos na sentença recorrida. 2. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame dos fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido.” (STF-ARE-AgR-639.096/SP, Relator Ministro Dias Toffoli, 1ª Turma, DJe 11.10.2011).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. JUIZADO ESPECIAL. ACÓRDÃO QUE MANTÉM A SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS. ALEGADA OFENSA AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO IMPROVIDO. I – Não viola a exigência constitucional de motivação, a decisão de Turma Recursal de juizados especiais que, em conformidade com a Lei nº 9.099/95, adota como fundamento os contidos na sentença recorrida. Precedentes. II – Agravo regimental improvido.” (STF-AI-AgR-789.441/AP, Relator Ministro Ricardo Lewandowski, 1ª Turma, DJe 25.11.2010).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. JUIZADOS ESPECIAIS. ACÓRDÃO RECORRIDO QUE ADOTA OS FUNDAMENTOS EXPENDIDOS NA SENTENÇA. ALEGAÇÃO DE OFENSA À CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 1. Nos termos da jurisprudência do STF, não viola o Magno Texto acórdão que adota, como razões de decidir, os fundamentos utilizados na sentença. Precedentes. 2. De mais a mais, é de incidir a Súmula 279/STF. 3. Agravo regimental desprovido.” (STF-ARE-AgR-657.430/RS, Relator Ministro Ayres Britto, 2ª Turma, DJe 17.02.2012).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de maio de 2015.
+Ministra Rosa Weber
+Relatora
