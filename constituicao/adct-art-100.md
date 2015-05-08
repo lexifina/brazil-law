@@ -1,0 +1,1 @@
+Art. 100. Até que entre em vigor a lei complementar de que trata o inciso II do § 1º do art. 40 da Constituição Federal, os Ministros do Supremo Tribunal Federal, dos Tribunais Superiores e do Tribunal de Contas da União aposentar-se-ão, compulsoriamente, aos 75 (setenta e cinco) anos de idade, nas condições do art. 52 da Constituição Federal.
