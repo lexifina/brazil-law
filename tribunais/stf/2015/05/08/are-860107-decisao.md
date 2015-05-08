@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. INSTITUIÇÃO DE COMISSÃO DE VERDADE: DECRETO E PODER REGULAMENTAR. CONFLITO DE LEGALIDADE. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, als. a e c, da Constituição da República.
+O caso
+    2. Em 5.11.2012, Flávio Nantes Bolsonaro propôs representação de inconstitucionalidade contra a Lei n. 6.335/2012 do Estado do Rio de Janeiro, pela qual se instituiu a Comissão Estadual da Verdade (fls. 2-26).
+    Em 26.5.2014, o Órgão Especial do Tribunal de Justiça do Rio de Janeiro julgou improcedente o pedido:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ESTADUAL N. 6.335/12, QUE INSTITUIU A COMISSÃO ESTADUAL DA VERDADE. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA PELO PODER LEGISLATI-VO. INEXISTÊNCIA DE VÍCIO. COMISSÃO SUBMETIDA À SECRETARIA DE ESTADO DE ASSISTÊNCIA SOCIAL E DIREITOS HUMANOS. SUBDIVISÃO INTERNA DA SECRETARIA CRIADA E ESTRUTURADA POR LEI, SEM IMPLICAR AUMENTO DE DESPESA, QUE CORRESPONDE A ATO DE ORGANIZAÇÃO E FUNCIONAMENTO DA ADMINISTRAÇÃO QUE PODE SER REGULAMENTADO ATRAVÉS DE DECRETO, COMO PROCEDEU O GOVERNADOR, ATRAVÉS DA EDIÇÃO DO DECRETO N. 44.103/13. ARTIGO 145, INCISO VI, DA CONSTITUIÇÃO ESTADUAL. IMPROCEDÊNCIA DO PEDIDO” (fl. 118).
+    Contra esse acórdão, Flávio Nantes Bolsonaro interpôs recurso extraordinário, salientando ter o Tribunal de origem contrariado os arts. 2º, 5º, caput, 61, § 1º, inc. II, al. a, 84, inc. III, e 167 da Constituição da República.
+    Sustenta que “a matéria legislativa, porque relacionada à Administração, é reservada ao Chefe do Poder Executivo estadual, o vício de iniciativa constante da Lei 6.335/12 não se convalida pela sanção do Governador do Estado” (fl. 156).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 238-241).
+    No agravo, Flávio Nantes Bolsonaro assevera que “não houve vício hábil a afastar o encaminhamento do recurso extraordinário interposto pelo Agravante ao Egrégio Supremo Tribunal Federal, haja vista que todos os pressupostos para admissibilidade do recurso foram observados” (fl. 246).
+    4. Em 11.3.2015, determinei vista deste recurso ao Procurador-Geral da República, que, em 16.4.2015, opinou pelo não conhecimento do recurso extraordinário:
+    “Recurso extraordinário. Representação de inconstitucionalidade no TJRJ da lei fluminense instituidora da Comissão da Verdade. Ainda que se admita a licitude de as Constituições estaduais discreparem da Constituição da República, no que tange à legitimidade ativa para o controle abstrato de constitucionalidade, advogado de Deputado Estadual carece de legitimidade para, isoladamente, interpor recurso em representação por inconstitucionalidade. Parecer pelo não conhecimento do recurso extraordinário” (fl. 301).
+    Examinados os elementos havidos no processo, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    7. O Tribunal de origem assentou:
+    “’A Comissão Estadual da Verdade, embora instituída pela lei impugnada nos mesmos moldes da Lei Federal n. 12.258/11, que criou a Comissão Nacional da Verdade, na realidade, foi efetivamente criada pelo Governador do Estado através da edição do Decreto n. 44.103/13 e do Decreto n. 11.109/13, que a submeteu à Secretaria de Estado de Assistência Social e Direitos Humanos” (fl. 123).
+    Este Supremo Tribunal consolidou entendimento no sentido de que a verificação de ter ou não a norma regulamentadora extrapolado a lei regulamentada restringe-se a questão de legalidade, não de constitucionalidade, única a autorizar o regular processamento do recurso extraordinário.
+    A apreciação do pleito recursal imporia a interpretação da legislação infraconstitucional aplicável à espécie (Lei estadual n. 6.335/2012, Lei federal n. 12.258/2011 e Decretos estaduais ns. 44.103/2013 e 11.109/2013). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário, como exposto na decisão agravada e na manifestação do Procurador Geral da República:
+    “Agravo regimental em recurso extraordinário. 2. Decreto e poder regulamentar. Conflito de legalidade. Súmula 636. Precedentes. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (RE 574.251-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 8.2.2011).
+    “DECRETO ESTADUAL COM EFICÁCIA NORMATIVA E CARÁTER REGULAMENTAR. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. REJEIÇÃO DOS EMBARGOS. 1. As questões infraconstitucionais não podem ser examinadas em sede de recurso extraordinário. 2. O exame do decreto estadual encontra óbice na Súmula 280/STF e configuraria no máximo violação indireta à Constituição do Brasil. 3. A questão constitucional foi devidamente examinada, não havendo que se falar em omissão no julgado. Embargos de declaração rejeitados” (RE 461.878-AgR-ED-ED, Relator o Ministro Eros Grau, Segunda Turma, DJe 25.9.2009).
+    “De mais a mais, se o regulamento extrapolou os limites da lei não é caso de inconstitucionalidade, mas, sim, de ilegalidade, o que não autoriza a abertura da via extraordinária. Agravo regimental desprovido” (RE 349.307-AgR, Relator o Ministro Ayres Britto, Primeira Turma, DJ 3.12.2004).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de maio de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
