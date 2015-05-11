@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de dois agravos cujo objeto é decisão que negou seguimento aos recursos extraordinários interpostos por Marilda de Azevedo Lima e pelo Fundo Único de Previdência Social do Estado do Rio de Janeiro – Proderj e pelo Centro de Processamento de Dados do Estado do Rio de Janeiro contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que assentara o direito de servidora pública inativa receber a vantagem denominada Gratificação de Encargos Especiais (GEE).
+    Passo a analisar os recursos.
+    I. Recurso extraordinário interposto Por Marilda de Azevedo Lima
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, XV, da Constituição, bem como ao princípio da isonomia. Sustenta que deve ser “majorado o valor da GEE para a maior paga pelo recorrido”.
+    O recurso não deve ser provido. Nota-se que, para dissentir da conclusão do Tribunal de origem acerca do direito pleiteado, seriam necessárias a análise da legislação infraconstitucional pertinente e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. Nesse sentido: AI 618.743-AgR, Rel. Min. Dias Toffoli.
+    II. Recurso extraordinário interposto pelo Fundo Único de Previdência Social do Estado do Rio de Janeiro – Proderj e o Centro de Processamento de Dados do Estado do Rio de Janeiro
+    Trata-se de recurso em que se discute o pagamento da Gratificação de Encargos Especiais (GEE) a servidora inativa e a constitucionalidade da aplicação dos critérios de correção monetária relativos à caderneta de poupança (Taxa Referencial – TR) sobre os débitos da Fazenda Pública.
+    Quanto à questão relativa ao pagamento da Gratificação de Encargos Especiais (GEE), como já assentado, a controvérsia atrai a incidência da Súmula 279 e 280/STF.
+    O Supremo Tribunal Federal, nos autos do RE 870.947-RG, julgado sob a relatoria do Ministro Luiz Fux, reconheceu a existência de repercussão geral da controvérsia relativa à validade da correção monetária e dos juros moratórios incidentes sobre condenações impostas à Fazenda Pública, tanto na fase de conhecimento quanto na fase de execução, conforme determina o art. 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº 11.960/2009 (Tema 810).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário interposto por Marilda de Azevedo Lima e dou provimento ao agravo para admitir o recurso extraordinário interposto pelo Fundo Único de Previdência Social do Estado do Rio de Janeiro – Proderj e pelo Centro de Processamento de Dados do Estado do Rio de Janeiro tão somente quanto à questão relativa à correção monetária sobre débitos da Fazenda Pública e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 11 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
