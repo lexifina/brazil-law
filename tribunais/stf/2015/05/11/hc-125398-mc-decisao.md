@@ -1,0 +1,16 @@
+DECISÃO
+TRÁFICO DE ENTORPECENTES – ASSOCIAÇÃO – MENOR – INTEGRAÇÃO – CAUSA DE AUMENTO – ADEQUAÇÃO – RELEVÂNCIA NÃO DEMONSTRADA – HABEAS CORPUS – LIMINAR INDEFERIDA.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O paciente foi condenado a onze anos e três meses de reclusão, em regime inicial fechado, pelo Juízo da 2ª Vara Criminal da Comarca de Uberlândia/MG (Processo nº 702.11.024004-2), ante o cometimento do delito previsto nos artigos 33 (tráfico de drogas), combinado com a causa de aumento versada no artigo 40, inciso VI (envolvimento de criança ou adolescente na prática criminosa), e 35 (associação para o tráfico de drogas), todos da Lei nº 11.343/2006. O Juízo negou ao paciente o direito de recorrer em liberdade. Consignou ter permanecido preso durante a instrução processual, bem como ser integrante de organização criminosa. Assentou a necessidade da custódia para garantia da ordem pública.
+    A defesa interpôs apelação. Alegou a ausência de provas suficientes para fundamentar a condenação. Disse da adequação, à espécie, do artigo 33, § 4º, da Lei nº 11.343/2006. Apontou não ser possível, no caso, a incidência da causa de aumento descrita no artigo 40, inciso VI, da Lei nº 11.343/2006. A Terceira Câmara Criminal do Tribunal de Justiça, ao prover em parte o recurso, reduziu a reprimenda para oito anos de reclusão, mantendo o regime inicial fechado, tendo sido decotada a causa de aumento.
+    A acusação interpôs recurso especial – de nº 1.412.950/MG. A relatora deu provimento ao recurso, restabelecendo a sentença de primeira instância, por entender não se tratar de dupla apenação a observância, no crime previsto no artigo 33, da causa especial de aumento de pena constante no artigo 40, inciso VI, da Lei nº 11.343/2006 e a condenação pelo delito versado no artigo 35 do mesmo diploma. A Sexta Turma desproveu o agravo regimental interposto, pelos próprios motivos da decisão agravada.
+    Neste habeas, retomam-se aos argumentos apresentados no Tribunal Superior, sustentando-se a ilegalidade da condenação pela prática do crime de tráfico de drogas, com a incidência da causa de aumento de pena referente ao envolvimento de menores, mostrando-se necessário o decote de uma dessas condutas, sob pena de ser duplamente apenado por fato único.
+    Requer-se o implemento de liminar para restabelecer os efeitos do acórdão do Tribunal estadual e a suspensão da execução da pena até o julgamento desta impetração. No mérito, pugna-se pela confirmação da providência.
+    A fase é de análise da medida acauteladora.
+    2. O Tribunal de Justiça do Estado de Minas Gerais afastou a causa de aumento da pena prevista no inciso VI do artigo 40 da Lei nº 11.343/03 – envolvimento de adolescente na prática criminosa – ante a condenação do paciente pela associação. A visão não corresponde à realidade factual. Relativamente à associação, o fenômeno não se fez considerado apenas o menor, mas a participação, também, de outras pessoas. É o suficiente para revelar a ausência de relevância da articulação.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 11 de maio de 2015, às 15h50.
+Ministro MARCO AURÉLIO
+Relator
