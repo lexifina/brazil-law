@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 134, de 30 de março de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 4202.92.00 Mercadoria: Sacola para compras, concebida para uso prolongado, de plástico reforçado com matéria têxtil, tipo ráfia, comercialmente denominada “Sacola retornável”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 42.02), RGI 6 (textos das subposições 4202.9 e 4202.92) constantes da TEC aprovada pela Res. Camex nº 94, de 2011, e da Tipi aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 4202.92.00 Mercadoria: Sacola para compras, concebida para uso prolongado, de plástico reforçado com matéria têxtil, tipo ráfia, comercialmente denominada “Sacola retornável”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 42.02), RGI 6 (textos das subposições 4202.9 e 4202.92) constantes da TEC aprovada pela Res. Camex nº 94, de 2011, e da Tipi aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+CARLOS HUMBERTO STECKEL Presidente da 2ª Turma
