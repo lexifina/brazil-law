@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Colégio Recursal da 31ª Circunscrição Judiciária de Marília que deu provimento ao recurso para: “a) determinar que o réu retire, no prazo de 05 (cinco) dias, todos os conteúdos que denigrem ou possam denegrir a imagem do autor, já identificados nos autos, sob pena de multa diária de R$ 1.000,00 (mil reais); b) [...] condenar o réu a pagar o valor de R$10.000,00 (dez mil reais), a título de danos morais, corrigido monetariamente desde a data do julgamento até a satisfação do crédito” (fls. 392).
+    O recurso não deve ser provido. De início, nota-se que as alegadas ofensas à Constituição não foram apreciadas pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. O recurso extraordinário, portanto, carece de prequestionamento (Súmulas 282 e 356/STF).
+     Ainda que ultrapassado o mencionado óbice, incide jurisprudência do Supremo Tribunal Federal no sentido de se tratar de matéria infraconstitucional a questão relativa à revelia. Nesse sentido, veja-se a ementa do ARE nº. 772.230 AgR/SP, julgado sob relatoria da Ministra Rosa Weber:
+    “DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. REVELIA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, LIV E LV, DA LEI MAIOR. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 15.7.2011. A análise da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demandaria a análise da legislação infraconstitucional aplicável à espécie e do reexame da moldura fática constante no acórdão regional, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Agravo regimental conhecido e não provido.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário
+    Publique-se.
+          Brasília, 11 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
