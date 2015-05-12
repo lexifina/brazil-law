@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “TRIBUTÁRIO. IMPORTADOR COMERCIANTE. SAÍDA DO PRODUTO DO ESTABELECIMENTO COMERCIAL. AUSÊNCIA DE QUALQUER PROCESSO DE INDUSTRIALIZAÇÃO. IPI. NÃO INCIDÊNCIA.
+    1. A Primeira Seção desta Corte, com o objetivo de dirimir a divergência entre seus órgãos fracionários, na assentada de 11/6/14, ao julgar o ERESp 1.400.759/RS (de minha relatoria, relator para acórdão Ministro Ari Pargendler), firmou a compreensão no sentido de reconhecer a não incidência de IPI sobre a comercialização de produto importado, que não sofre qualquer processo de industrialização, ante a vedação do fenômeno da bitributação.
+    2. Agravo regimental a que se nega provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 97 da Carta. Sustenta, em síntese, que, ao afastar o regramento normativo sob o fundamento de que a saída de produto industrializado importado do estabelecimento importador não se sujeita à incidência do IPI, houve verdadeira declaração de inconstitucionalidade de dispositivos extraídos da Lei nº 4.502/1964 e do Código Tributário Nacional.
+    A pretensão não merece acolhida. A jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Nessa linha, veja-se o ARE 723.052, julgado sob a relatoria do Ministro Marco Aurélio, assim ementado:
+    “RECURSO EXTRAORDINÁRIO reserva DE PLENÁRIO. Descabe confundir reserva de Plenário artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.”
+    No caso, o Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse qualquer declaração de sua incompatibilidade com a Constituição Federal. Assim, não há que se falar em ofensa ao art. 97 da Carta
+    Ademais, ressalto que para dissentir das conclusões adotadas pelo Tribunal de origem seria necessário o reexame da legislação infraconstitucional correlata, providência vedada nesta fase processual. Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IPI. FATO GERADOR. DESEMBARAÇO ADUANEIRO. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA INDIRETA. AGRAVO IMPROVIDO.
+    I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Súmula 282 do STF. A tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+    II - Questão decidida com base na legislação infraconstitucional. Eventual ofensa à Constituição, se ocorrente, seria indireta.
+    III - Agravo regimental improvido.” (AI 684.059-AgR, Rel. Min. Ricardo Lewadowski)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EQUIPARAÇÃO DE ESTABELECIMENTO COMERCIAL A INDUSTRIAL PARA FINS DE INCIDÊNCIA DO IMPOSTO SOBRE PRODUTOS IMPORTADOS – IPI. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 586.494-AgR, Relª Minª Cármen Lúcia)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 12 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
