@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de dois agravos em recursos extraordinários interpostos por Jorge Evaldo Edinho Duarte Pinheiro e Moisés Reátegui de Souza que têm por objeto decisões que inadmitiram recursos extraordinários contra acórdão do Tribunal de Justiça do Estado do Pará, o qual recebeu denúncia oferecida em face dos ora recorrentes pela suposta prática dos crimes previstos no art. 90, da Lei nº8.666/1993, c/c o art. 288 do Código Penal.
+    O recurso interposto por Jorge Evaldo Edinho Duarte Pinheiro busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LV e 93, IX, da Constituição.
+    A decisão agravada não admitiu o recurso sob o fundamento de que ausente a preliminar, formal e fundamentada, de repercussão geral da matéria.
+    O recurso é manifestamente inadmissível, tendo em vista que o Plenário do Supremo Tribunal Federal, ao apreciar a Questão de Ordem no AI 664.567, Rel. Min. Sepúlveda Pertence, decidiu que “é de exigir-se a demonstração de repercussão geral das questões constitucionais discutidas em qualquer recurso extraordinário, incluído o criminal”.
+    No caso, a parte recorrente não apresentou preliminar formal e fundamentada de repercussão geral das questões constitucionais discutidas, o que atrai a incidência do art. 327, § 1º, do RI/STF. Nessa linha, vejam-se o ARE 650.948, Rel. Min. Ricardo Lewandowski; o AI 849.474, Rel. Min. Ayres Britto; e o AI 848.658, Rel. Min. Luiz Fux.
+    O agravo interposto por Moisés Reátegui de Souza busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos art. 5º, II, LIV, LV, LVI; 129, III, VIII; e 144, IV, parágrafo 4º, todos da Constituição. Aduz que o “Ministério Público não pode conduzir investigação e nem produzir prova para utilização em ação penal”. Alega, ainda, a “nulidade absoluta dos atos investigatórios quando desrespeitado o postulado do juízo natural”.
+    A decisão agravada não admitiu o recurso sob o fundamento de que “a lei processual penal não prevê hipóteses de cabimento recursal em face de decisões que recebem a exordial acusatória”.
+    O recurso é inadmissível, tendo em vista que é firme a jurisprudência do Supremo Tribunal Federal no sentido de que não há nulidade na denúncia oferecida com base em fatos apurados em inquérito civil público, quando há elementos suficientes para provar a materialidade e os indícios de autoria. Nessa linha, vejam-se os AIs 794.861 e 790.698, Rel. Min. Ricardo Lewandowski; e o RE 464.893-AgR, julgado sob a relatoria do Ministro Joaquim Barbosa, assim ementado:
+    “RECURSO EXTRAORDINÁRIO. PENAL. PROCESSUAL PENAL. MINISTÉRIO PÚBLICO. OFERECIMENTO DE DENÚNCIA COM BASE EM INQUÉRITO CIVIL PÚBLICO. VIABILIDADE. RECURSO DESPROVIDO.
+    1. Denúncia oferecida com base em elementos colhidos no bojo de Inquérito Civil Público destinado à apuração de danos ao meio ambiente. Viabilidade.
+    2. O Ministério Público pode oferecer denúncia independentemente de investigação policial, desde que possua os elementos mínimos de convicção quanto à materialidade e aos indícios de autoria, como no caso (artigo 46, §1°, do CPP).
+    3. Recurso a que se nega provimento.”
+    Ademais, a discussão acerca da suposta violação ao princípio do juiz natural, nos termos trazidos na petição do recurso extraordinário, não foi objeto de apreciação pelo acórdão do Tribunal de origem, de modo que o recurso extraordinário carece, no ponto, do necessário prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    Por fim, para chegar a conclusão diversa do acórdão recorrido, necessária seria a análise da legislação infraconstitucional pertinente e uma nova reapreciação do conjunto fático-probatório dos autos (Súmula 279), procedimento inviável em recurso extraordinário.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+          Brasília, 12 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
