@@ -1,0 +1,11 @@
+DECISÃO:
+    1. Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário. Na situação concreta, o recorrente recolheu as custas federais e o porte de remessa e retorno, deixando de acudir às custas estaduais. Tendo em vista a excepcional relevância da matéria de fundo e o interesse público na sua definição, supero tal vício formal para permitir o pronunciamento de mérito do STF sobre o tema.
+    2. No caso, discute-se se a recorrente pode ou não ter seu direito à educação atendido por sua família, por meio da educação domiciliar (homeschooling). É relevante o debate acerca dos limites da liberdade de escolha dos meios pelos quais a família deve prover a educação de crianças e adolescentes, de acordo com as suas convicções pedagógicas, morais, filosóficas, políticas e/ou religiosas. A controvérsia envolve, ainda, a relação entre o Estado e a família quanto à educação, bem como os limites da autonomia privada contra imposições estatais.
+    3. O caso em questão, apesar de não ser frequentemente judicializado, não está adstrito ao interesse das partes que ora litigam. Segundo a ANED (Associação Nacional de Educação Domiciliar), após o reconhecimento pelo MEC da utilização do desempenho no ENEM como certificação de conclusão de ensino médio, em 2012, o número de adeptos do homeschooling no Brasil dobrou e atingiu 2.000 famílias (http://www1.folha.uol.com.br/equilibrioesaude/2015/02/1594329-ex-alunos-contam-experiencia-de-ensino-domiciliar-que-cresce-no-pais.shtml).
+    4. A admissão do presente recurso tem como precedente, neste Tribunal, o julgamento do RE 583.523, sob a sistemática da repercussão geral, quando se superou a extinção da punibilidade pela prescrição e julgou-se o mérito do paradigma, tendo em conta a relevância da questão ali discutida (recepção ou não do art. 25 da LCP pela Constituição de 1988).
+    5. Por fim, uma vez reconhecida a repercussão geral do tema, nada impede a eventual substituição do paradigma por outro feito a ser distribuído por prevenção, nos termos do art. 325-A do RI/STF.
+    6. Diante do exposto, dou provimento ao agravo e determino a sua conversão em recurso extraordinário.
+    7. À Secretaria para as providências cabíveis.
+          Brasília, 12 de maio de 2015
+Ministro LUÍS ROBERTO BARROSO
+Relator
