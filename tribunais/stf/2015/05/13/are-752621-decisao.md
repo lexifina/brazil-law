@@ -1,0 +1,9 @@
+Trata-se de recurso extraordinário com agravo restituído a esta Corte pela 2ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul por entender que “o enquadramento pelo STF foi feito por certidão, na via da autuação simplificada, sem que a parte autora pudesse manifestar sua inconformidade naquela corte, entendo que estes embargos declaratórios devem ser apreciados pelo STF”(documento eletrônico 150).
+    Por esta razão aquele Juízo recebeu a petição inserta no documento eletrônico 147 como embargos de declaração e determinou sua remessa ao STF para novo julgamento deste recurso.
+    Da análise dos autos verifico, contudo, que ao contrário do que sustenta a Corte de origem, a decisão do Supremo Tribunal Federal não se deu “por certidão, na via da autuação simplificada” mas, sim, por meio da decisão desta Presidência constante do documento eletrônico 132, que em razão da decisão proferida pela Corte de origem ao adotar a sistemática prevista no art. 543-B, § 2º, do CPC, por ausência de repercussão geral da matéria de fundo (documento eletrônico 117), não conheceu do recurso extraordinário com agravo pois “não cabe o agravo previsto no art. 544 do Código de Processo Civil da decisão que aplica o entendimento firmado nesta Corte em leading case de repercussão geral, nos termos do art. 543-B do CPC”.
+    Tal decisão, publicada em 31/3/2014, contra a qual não houve qualquer impugnação, transitou em julgado em 14/4/2014, razão pela qual os autos baixaram à origem em 23/4/2014 (documentos eletrônicos 134/135).
+    Assim, diante do trânsito em julgado da decisão do Supremo Tribunal Federal, nada há a prover nos presentes autos. À Secretaria para sua devolução à origem.
+    Publique-se.
+    Brasília, 13 de maio de 2015.
+Ministro Ricardo Lewandowski
+Presidente
