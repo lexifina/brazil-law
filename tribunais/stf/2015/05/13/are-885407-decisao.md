@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 39, 40 e 196 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. No julgamento do RE 573.540-RG/MG, o eminente Relator Ministro Gilmar Mendes consignou que não há óbice constitucional ao oferecimento de serviços de saúde, pelo Estado, aos seus servidores, “desde que adesão e a ‘contribuição’ não sejam compulsórias”. Nesses termos, a cobrança de uma contraprestação pela prestação do serviço não seria inconstitucional. Destaco os seguintes trechos do mencionado acórdão:
+    “Por fim, cumpre destacar que a assistência à saúde prestada pelo IPSEMG não se confunde com as ações realizadas pelo SUS, e nem mesmo integra esse sistema. Enquanto o SUS se caracteriza pela universalidade de acesso aos serviços de saúde, o sistema estadual atende apenas aos servidores daquele ente federativo. Trata-se, em verdade, de plano de saúde de adesão e contribuição compulsórias.
+    O ente estadual, ao criar e gerir o referido plano de saúde, exerce atividade que também poderia ser executada por agentes privados, independentemente de concessão, permissão ou autorização do Poder Público. Desse modo, a previsão legal de adesão compulsória, além de ilidir o direito de escolha do servidor público, afigura-se lesiva ao princípio da livre concorrência, na medida em que atribui à autarquia previdenciária vantagem concorrencial indevida, em setor econômico aberto ao jogo do livre mercado.
+    Nesse ponto, convém esclarecer que a criação de planos de saúde pelos entes federativos não se afigura, a priori , inconstitucional.
+    Como bem salientado pelo Ministro Eros Grau no voto que proferiu na ADI n° 3.106, a inconstitucionalidade reside apenas na compulsoriedade da contribuição instituída para o financiamento desses planos de saúde , ou seja, no emprego do vocábulo compulsoriamente no § 5° do art. 85 da Lei Complementar n.° 64/2002.
+    Em outras palavras, a Constituição não autoriza os Estados-membros a instituir, para o custeio de serviços de saúde, exação que possua natureza tributária, cujo pagamento seja exigido a todos os servidores independentemente da voluntária adesão ao plano.
+    Por outro lado, não há óbice constitucional ao oferecimento desses serviços, pelo Estado, aos seus servidores, desde que a adesão e a contribuição não sejam compulsórias. Convém esclarecer, também, que os serviços somente serão prestados àqueles que, voluntariamente, aderirem ao plano, inexistindo, pois, direito subjetivo à sua fruição independente do pagamento da contribuição. Ressalte-se que o termo contribuição, nesse contexto, não é mais entendido em sua acepção jurídico-tributária.”
+    Nesse sentido, cito o ARE 873.472/RJ, Relatora Ministra Cármen Lúcia, decisão monocrática, DJe 17.4.2015, cuja ementa transcrevo:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLÍCIA MILITAR. INEXIGIBILIDADE DE CONTRIBUIÇÃO PARA A ASSISTÊNCIA MÉDICA. PRECEDENTE. AUSÊNCIA DE DE DIREITO DE ACESSO À SAÚDE ESPECIAL SEM A RESPECTIVA CONTRAPRESTAÇÃO. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de maio de 2015.
+Ministra Rosa Weber
+Relatora
