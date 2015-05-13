@@ -1,0 +1,17 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, em que se aponta como autoridade coatora o Ministro Newton Trisotto (Desembargador Convocado do TJ/SC), do Superior Tribunal de Justiça, relator do HC 313.279/PR.
+    Consta dos autos, em síntese, que: (a) o paciente foi preso temporariamente em 14.11.2014, tendo sido a custódia convertida em preventiva no dia 21.11.2014 em razão de suposta “prática dos crimes contra a Administração Pública e lavagem de dinheiro”; (b) inconformada, a defesa impetrou habeas corpus no Tribunal Regional Federal da 4ª Região, ocasião em que a 8ª Turma denegou a ordem; (c) contra essa decisão, foi impetrado habeas corpus no Superior Tribunal de Justiça, que teve o pedido liminar indeferido, em essência, pelos seguintes fundamentos:
+    “[...]
+    Demonstrada, em juízo sumário de cognição, a presença dos requisitos autorizadores da decretação da prisão preventiva, vale relembrar que esta eg. Corte tem entendido que a gravidade concreta demonstrada pelo modus operandi do delito revela-se como fator apto a justificar o decreto de custódia cautelar (HC 302.870/GO, Quinta Turma, Rel. Min. Jorge Mussi, Quinta Turma, Dje 28/11/2014, v.g.)
+    Não fosse o bastante, verifica-se que a decisão impugnada demonstrou a materialidade do crime e a presença de indícios suficientes de autoria, bem como a necessidade da custódia cautelar para a garantia da ordem pública, considerando-se, sobretudo, a especial gravidade da conduta, revelada pelo modus operandi do delito.
+    […]
+    Assim, não resta configurada ilegalidade manifesta que permita a concessão da ordem de ofício.
+    Ante o exposto, indefiro o pedido liminar”.
+    Alega-se, em síntese, que: (a) há injustificada demora na apreciação do mérito do habeas corpus impetrado no Superior Tribunal de Justiça a quase 6 meses; (b) essa situação caracteriza constrangimento ilegal e enseja a possibilidade de apreciação imediata da presente impetração pelo Supremo Tribunal Federal; (c) “a segregação cautelar suportada pelo paciente se mantém lastreada exclusivamente em decreto preventivo cujos fundamentos foram desconstituídos por esta Suprema Corte, ao conceder parcialmente, ordem de Habeas Corpus (n° 127.186/PR)”; (d) a situação jurídica do paciente é similar a dos outros investigados que foram beneficiados pela substituição da prisão preventiva por outras medidas cautelares no julgamento do HC 127186; e (e) “a natureza da segregação imposta ao paciente não atende a qualquer finalidade cautelar, notadamente quando divorciada de fundamentos jurídicos, em inequívoca aplicação de reprimenda penal”.
+    Requer-se, liminarmente, que a revogação da prisão preventiva, com a possibilidade de aplicação de medida cautelar diversa e, ao final, a confirmação do pedido liminar.
+    2. Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, verifica-se que, em 12.5.2015, a Quinta Turma daquela Corte não conheceu do HC 313.279/PR. Desse modo, o presente habeas corpus está prejudicado, seja em relação à alegada demora na apreciação da impetração pelo Superior Tribunal de Justiça, seja quanto ao pedido de revogação da prisão preventiva, considerando que “a superveniência de decisão colegiada de Tribunal Superior corresponde a novo ato a desafiar ação própria” (HC 123129-AgR, Relator(a): Min. Rosa Weber, Primeira Turma, DJe de 12-02-2015).
+    3. Ante o exposto, julgo prejudicado este habeas corpus. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 13 de maio de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
