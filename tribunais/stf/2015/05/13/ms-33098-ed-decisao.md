@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao pedido, pelo entendimento de que não se insere na competência desta Corte mandado de segurança contra ato de Presidente de Tribunal de Justiça (art. 102, I, d, da Constituição).
+    A parte embargante sustenta, em suma, a existência de erro material na análise da autoridade apontada como coatora, pois “o impetrante deixou bem claro que o ato tido por coator e ilegal é exatamente o Provimento 34, de 09 de julho de 2013, da Corregedoria do CNJ” (doc. 13, fl. 3). Por fim, considera que o saneamento desse erro importa em alteração do resultado e pleiteia a atribuição de efeitos infringentes.
+    2. Com razão o embargante. A decisão atacada apoiou-se em premissa fática enunciada pelo próprio impetrante, ao considerar como autoridade que impôs o limite remuneratório o Presidente do Tribunal de Justiça estadual, não o Conselho Nacional de Justiça. No ponto, cumpre esclarecer que, na verdade, como ora esclarecido, o impetrante busca desconstituir ato do CNJ (Provimento 34/2013), que teria estabelecido o teto de 90,25% do subsídio de Ministro do Supremo Tribunal Federal aos emolumentos recebidos por quem detém interinamente a serventia extrajudicial.
+    3. Nada obstante, mesmo acolhendo a ponderação do impetrante a perseverar o que pretendido, a impetração deve ser considerada intempestiva, pois o ato do CNJ é de 9 de julho de 2013 e o ajuizamento do mandado de segurança contra suas disposições se deram em 25 de julho de 2014, muito além do prazo fixado pelo art. 23 da Lei nº 12.016, de 7 de agosto de 2009, de 120 dias.
+    4. Diante do exposto, acolho os embargos de declaração, sem efeitos modificativos, para sanar o afirmado erro material, e considerando a autoridade e o ato coator atribuídos ao Conselho Nacional de Justiça nego seguimento ao pedido por intempestivo (art. 21, § 1º, do RISTF).
+    Publique-se. Intimem-se.
+    Brasília, 13 de maio de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
