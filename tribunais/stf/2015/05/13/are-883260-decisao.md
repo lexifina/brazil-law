@@ -1,0 +1,33 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE PERIGOSA. PREENCHIMENTO DE REQUISITOS PARA SUA PERCEPÇÃO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS Nº 279 e Nº 280 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE PERIGOSA. LEI ESTADUAL 3.694/2001.
+    Pretensão de Policial Militar do Estado do Rio de Janeiro de percepção de Gratificação de Atividade Perigosa, prevista na Lei Estadual 3.694/2001.
+    O autor, embora Policial Militar e exercendo habitualmente atividade perigosa, comprovou sua lotação no BEP – Batalhão Especial Prisional.
+    Lei Estadual nº 3.694/01 que não faz distinção quanto à origem do servidor e nem entre cargos ou funções que fariam jus à referida gratificação.
+    Caracterizada a atividade de risco e o efetivo exercício na Secretaria de Estado de Direito Humanos e Sistema Penitenciário, faz jus o autor à Gratificação de Atividade Perigosa pleiteada.
+    Recurso manifestamente improcedente, negativa de seguimento na forma do caput, do art. 557, do Código de Processo Civil.”
+    Opostos embargos de declaração, foram rejeitados.
+    Nas razões do apelo extremo aponta violação aos artigos 2º e 37, caput, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário ao fundamento de ausência de ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, § 3º, da CF).
+    O Tribunal de Justiça assentou:
+    “Com efeito, a Lei Estadual nº 3694, de 2001, assim estabelece:
+    ‘Art. 1º - É estendida a gratificação de atividade perigosa, prevista na Lei n.º 1659, de 07 de junho de 1990, a todos os servidores que se encontrem em efetivo exercício na Secretaria de Estado de Direitos Humanos e Sistema Penitenciário.’
+    Ressalte-se que o art. 1º, estabelece que a gratificação é destinada aos servidores que se encontrem em efetivo exercício na Secretaria de Estado de Direito Humanos e Sistema Penitenciário.
+    O autor, embora Policial Militar e exercendo habitualmente atividade perigosa, comprovou sua lotação no BEP – Batalhão Especial Prisional, conforme documentos de fls. 13/15.
+    Ademais, a Lei Estadual nº 3.694/01 não faz distinção quanto à origem do servidor e nem entre cargos ou funções que fariam jus à referida gratificação.
+    Assim, caracterizada a atividade de risco e o efetivo exercício na Secretaria de Estado de Direito Humanos e Sistema Penitenciário, faz jus o autor a Gratificação de Atividade Perigosa pleiteada.”
+    Divergir do acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula nº 279/STF. Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se à fundamentação vinculada de discussão eminentemente de direito, face ao óbice erigido pela Súmula nº 279/STF de seguinte teor, verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do verbete sumular supra, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+    Ademais, o reexame do acórdão impugnado implicaria a análise de legislação local aplicável à espécie (Leis Estaduais nº 3.694/2001 e nº 1.659/1990), o que encontra óbice na Súmula nº 280 do STF. Nesse sentido:
+    “O Tribunal a quo, apreciando os documentos juntados aos autos e a legislação estadual que trata da matéria, entendeu ser devida a Gratificação Especial à parte agravada. 2. Para se concluir como pretende a parte agravante, necessário seria o reexame de matéria probatória e da legislação local, o que é defeso nesta via extraordinária (Súmulas/STF 279 e 280). 3. Agravo regimental improvido.” (RE 560.814-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 22/5/2009).
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público estadual. Gratificação. Preenchimento dos requisitos para sua percepção. Legislação local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame de fatos e provas dos autos. Incidência das Súmulas ns. 280 e 279/STF. 2. Agravo regimental não provido.” (ARE 715.800-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 27/11/2013).
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula nº 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138).
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 13 de maio de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
