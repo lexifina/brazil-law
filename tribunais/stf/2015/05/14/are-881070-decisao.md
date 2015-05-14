@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de decisão monocrática de Relator que rejeitou os embargos de declaração. O Tribunal de origem inadmitiu o recurso com base na Súmula 281/STF.
+    No agravo, a parte recorrente sustenta, em síntese, que não se aplica a Súmula 281/STF, pois o Superior Tribunal de Justiça proferiu decisão monocrática de mérito.
+    Segundo o agravante, os embargos de declaração foram utilizados somente para fins de prequestionamento. Se esses fossem aptos a revolver o mérito da decisão prolatada, teria sido admitido como agravo regimental no STJ, razão pela qual o seu julgamento monocrático não pode ser impedimento para o processamento do recurso extraordinário.
+    2. Não prospera a irresignação do recorrente. O recurso extraordinário é cabível apenas contra decisão proferida em última ou única instância, o que não é o caso dos autos, uma vez que tanto o recurso especial quanto os embargos de declaração foram julgados por decisão monocrática do Relator. Assim, tais matérias estavam sujeitas a recurso para o órgão colegiado competente, qual seja, o agravo interno. Diante desse quadro, não se pode conhecer do extraordinário ante o óbice da Súmula 281 do STF: É inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada. Nesse sentido, confira-se:
+    EMENTA: Agravo regimental no agravo de instrumento. Recurso especial julgado por decisão monocrática. embargos de declaração julgados por decisão colegiada. Complementação da decisão anterior. Não esgotadas as instâncias ordinárias. Súmula nº 281/STF. 1. O recurso extraordinário é inadmissível quando interposto após decisão monocrática proferida pelo Relator, haja vista que não esgotada a prestação jurisdicional pelo Tribunal de origem. Incidência da Súmula nº 281/STF. 2. O julgamento colegiado dos embargos declaratórios não tem, em regra, o efeito de substituir, mas sim de aclarar ou complementar a decisão embargada quando há omissão, contradição ou obscuridade. 3. Agravo regimental desprovido (AI 633.489-AgR, Rel. Min. MENEZES DIREITO, Primeira Turma, DJe de 21/8/2009).
+    3. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 14 de maio de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
