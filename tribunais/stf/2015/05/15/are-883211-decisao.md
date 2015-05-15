@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROGRESSÃO HORIZONTAL. LEI MUNICIPAL N. 985/1997. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “ADMINISTRATIVO. AÇÃO ORDINÁRIA. SERVIDOR PÚBLICO DO MUNICÍPIO DE PIRAPETINGA. PROGRESSÃO HORIZONTAL AUTOMÁTICA. LEI LOCAL. AUSÊNCIA DE REGULAMENTAÇÃO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ACOLHIMENTO. PROCEDÊNCIA.
+    - No âmbito do Tribunal de Justiça de Minas Gerais, uniformizou-se o entendimento segundo o qual enquanto o administrador não promover a avaliação de desempenho exigida por lei municipal o requisito deve ser dispensado para ser concedida a progressão horizontal aos seus servidores públicos (Incidente de Uniformização de Jurisprudência n. 1.0686.10.013441-6/002, rel. Des. Caetano Levi Lopes, DJe 18/10/2013).
+    - Hipótese na qual o objeto do referido incidente de uniformização de jurisprudência abrange a legislação do Município de Pirapetinga” (doc. 1).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega contrariados os arts. 2º, 37, inc. XIV, e 93, inc. IX, da Constituição da República, asseverando que
+    “o Poder Judiciário não pode interferir na administração do Executivo, obrigando-o a conceder vantagens pessoais a servidores públicos, vez que não satisfeitos requisitos de lei local, e, ainda que assim não fosse, a competência para a prática do ato administrativo é do Poder Executivo municipal.
+    (…)
+    Restou também violada norma erigida no inciso XIV do art. 37 da Carta Federal, porquanto não pode o mesmo tempo de serviço do servidor ser considerado e computado para dois adicionais, quais sejam o adicional quinquenal e a concessão de progressão horizontal, eis que possuem o mesmo suporte fático” (doc. 1).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    7. A apreciação do pleito recursal demandaria a análise da legislação infraconstitucional aplicável à espécie (Lei municipal n. 985/1997). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide a Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO HORIZONTAL. LEI MUNICIPAL Nº 1.593/2004. REQUISITOS LEGAIS. SÚMULA Nº 287/STF. AGRAVO REGIMENTAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 283/STF. INCIDÊNCIA” (ARE 842.599-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 5.3.2015).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Progressão horizontal de servidor municipal. Lei municipal nº 2.815/95. 3. Preenchimento dos requisitos para progressão. Matéria infraconstitucional. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento” (ARE 850.065-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 10.3.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 850.073-AgR, de minha relatoria, Segunda Turma, DJe 13.2.2015).
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 1º.7.2013. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Agravo regimental conhecido e não provido” (ARE 781.930-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 19.11.2014).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de maio de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
