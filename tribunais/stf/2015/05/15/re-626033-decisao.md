@@ -1,0 +1,36 @@
+RECURSO EXTRAORDINÁRIO. CONSUMIDOR. AÇÃO CIVIL PÚBLICA. RESPONSABILIDADE DO VEÍCULO DE DIVULGAÇÃO. ANUNCIANTE QUE OFERTA CRÉDITO MEDIANTE PAGAMENTO DE JUROS ELEVADOS. ALEGAÇÃO DE PUBLICIDADE ABUSIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 282 E Nº 356. CONTROVÉRSIA ANALISADA SOB A ÓTICA INFRACONSTITUCIONAL QUE SE MANTEVE INCÓLUME ANTE O MANIFESTO ABANDONO DO RECURSO NO STJ. FUNDAMENTO SUFICIENTE PARA A MANUTENÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283/STF. RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário (fl. 14 do Doc. 14), manejado em 20/12/2004, com arrimo na alínea a do permissivo constitucional, contra acórdão (fl. 41 do Doc. 04) que assentou, verbis:
+    “AÇÃO CIVIL PÚBLICA - Publicação de anúncios - Empréstimos de dinheiro - Prática criminosa não configurada - Empresa jornalística que não está obrigada a averiguar sobre a sua exigência de juros - Inversão do ônus da prova - Artigo 6º, VIII, do Código de Defesa do Consumidor - Impossibilidade de deferimento na sentença - Ação julgada improcedente - Recurso improvido.”
+    Opostos embargos de declaração, foram rejeitados (fl. 08 do Doc. 05).
+    Nas razões do apelo extremo, aponta violação aos artigos 1º, III, 3º, I, 5º, caput e XXXII, e 170, III e V, da Constituição Federal.
+    O Superior Tribunal de Justiça extinguiu o procedimento recursal (fl. 38 do Doc. 06).
+    A Procuradoria-Geral da República opinou pelo não conhecimento do recurso (fl. 45 do Doc. 06).
+    É o relatório. DECIDO.
+    Verifica-se que os artigos 1º, III, 3º, I, 5º, caput, e 170, III, da Constituição, que o recorrente considera violados, não foram debatidos no acórdão recorrido. Além disso, não foram opostos embargos de declaração para sanar tal omissão, faltando, ao caso, o necessário prequestionamento da matéria constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incidem, portanto, os óbices das Súmulas nº 282 e nº 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+    A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: 'quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela'.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+    (...)
+    Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 139-140 e 175-176).
+    Nesse sentido, ARE 738.029-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 25/6/2013, e ARE 737.360-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 24/6/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Agravo regimental improvido.”
+    Demais disso, a controvérsia, tal como posta, foi analisada exclusivamente à luz da legislação infraconstitucional (artigos 37, § 2º, e 38 do Código de Defesa do Consumidor).
+    Por sua vez, o recorrente, embora tenha interposto recurso especial, deixou de promover os atos requeridos pelo Superior Tribunal de Justiça, o que culminou na extinção do procedimento recursal no âmbito daquela Corte. E, ao assim proceder, permitiu prevalência das razões que são suficientes para a manutenção da decisão vergastada.
+    Incide, na espécie, o enunciado da Súmula nº 283 do STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas acerca da Súmula nº 283 do STF:
+    “Pontes de Miranda sustentava opinião favorável à admissão do recurso extraordinário com fulcro num dos fundamentos quando a decisão assenta em vários (Comentários ao Código de Processo Civil, 2ª ed., t. XII/278). Opiniões contrárias são sustentadas por Lopes da Costa (Direito Processual Civil Brasileiro, 2ª ed., v. III/418) e José Afonso da Silva (Do Recurso Extraordinário, p. 201), que inadmitem o recurso nessas condições.
+    A Súmula 283 expressa que é inadmissível o recurso extraordinário quando a decisão recorrida tem mais de um fundamento suficiente e o recurso não abrange todos eles (RE 65.072, Rel. Min. Amaral Santos, RTJ 53/371; RE 66.768, Rel. Min. Djaci Falcão, RTJ 52/606; RE 60.854, Rel. Min. Barros Monteiro, RTJ 45/855; RE 63.174, Rel. Min. Evandro Lins, RTJ 45/419; RE 79.083, Rel. Min. Rodrigues de Alckmin, RTJ 75/844; RE 79.623, RTJ 75/849; RE 84.077, RTJ 80/906).
+    Aplicável o disposto nesta Súmula (decisão assentada em mais de um fundamento) às decisões do STJ (REsp 16.076; REsp 21.064; REsp 23.026; REsp 29.682).
+    V. Luiz Guilherme Marinoni, Manual do Processo de Conhecimento, Ed. RT, 2001, p. 561.” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 140).
+    Destaca-se, ainda, nesse sentido:
+    “AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO. SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL.
+    1. Inviável o agravo de instrumento que não ataca todos os fundamentos autônomos da decisão recorrida (Súmula 283 do Supremo Tribunal Federal). Agravo não provido”. (AI 489.247-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ de 16/02/2007).
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 15 de maio de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
