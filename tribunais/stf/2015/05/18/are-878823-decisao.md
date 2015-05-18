@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais, proferido nos autos da Apelação Criminal n. 1.0382.04046527-2/001 e assim ementado (eDOC 2, p. 393):
+    APELAÇÕES CRIMINAIS – ROUBOS SIMPLES EM CONTINUIDADE DELITIVA E FORMAÇÃO DE QUADRILHA ARMADA – APELO DE LUIZ ANDRÉ BORGES PEREIRA – PRELIMINAR DE INTEMPESTIVIDADE SUSCITADA PELA PROCURADORIA-GERAL DE JUSTIÇA – INTERPOSIÇÃO DO RECURSO APÓS O PRAZO LEGAL – PRELIMINAR ACOLHIDA – RECURSO NÃO CONHECIDO – RECURSO DE REGINALDO DE PAULA VIEIRA – NEGATIVA DE AUTORIA – ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS – IMPOSSIBILIDADE – AUTORIA E MATERIALIDADE DE AMBOS OS DELITOS DEMONSTRADAS PELO QUE NÃO TENTA SE EXIMIR DA RESPONSABILIDADE – POSSIBILIDADE DE FIXAÇÃO DOS HONORÁRIOS DO DEFENSOR DATIVO CONFORME TABELA DA OAB/MG – RECURSOS NÃO CONHECIDO (DE LUIZ ANDRÉ) E PARCIALMENTE PROVIDO (DE REGINALDO).
+    Opostos embargos de declaração, estes não foram conhecidos (eDOC 2, p. 443).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido violou o art. 5, incisos LIV e LV, da Constituição Federal. Entende o recorrente, em resumo, ter havido desrespeito aos princípios do devido processo legal, da ampla defesa e do contraditório (eDOC 3, p. 41-61).
+    O Tribunal a quo não admitiu o recurso extraordinário por ausência de prequestionamento e por entender se tratar de alegação de ofensa reflexa ao Texto Constitucional (eDOC 3, p. 87).
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário.
+    É o relatório.
+    Decido.
+    De início, vale dizer que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013).
+    Nesse sentido, tal orientação deve ser aplicada no caso em comento, de modo a não conhecê-lo. Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, esta Corte Suprema já decidiu não existir matéria constitucional nas questões pertinentes ao cabimento de recursos dos outros tribunais, por se restringir à esfera de legislação infraconstitucional. Por oportuno, transcrevo a ementa:
+    PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608. (RE 598365 RG, Rel. Min. Ayres Britto, Dje 26.3.2010)
+    Por último, não há qualquer mácula no entendimento fixado nas instâncias precedentes quanto ao início da contagem do prazo recursal, porquanto, tanto o § 5º do art. 798 do CPP, quanto o enunciado 710 da Súmula do STF, asseveram que, no processo penal, contam-se os prazos da data da intimação, e não da juntada aos autos do mandado ou da carta precatória ou de ordem.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, inc. II, alínea b, do CPC).
+    Publique-se.
+    Brasília, 18 de maio de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
