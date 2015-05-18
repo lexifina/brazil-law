@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de embargos de declaração opostos contra decisão que negou seguimento a recurso extraordinário aos fundamentos de que (a) a preliminar de repercussão geral não foi elaborada nos moldes exigidos pela jurisprudência desta Corte; (b) a intervenção excepcional do Poder Judiciário nas políticas públicas do Poder Executivo, com vistas à garantia de direitos constitucionalmente previstos, não viola o princípio da separação de poderes; (c) o fornecimento de tratamento médico adequado aos necessitados é dever de responsabilidade solidária dos entes federados.
+    A parte embargante aponta omissão na decisão embargada, ao argumento de que o processo deveria ter sido sobrestado até o julgamento final do RE 566.471 (Rel. Min. MARCO AURÉLIO, Tema 6).
+    Instada a se manifestar, a parte embargada quedou-se silente.
+    2. Deve-se afastar o óbice relativo à preliminar de repercussão geral do recurso extraordinário, a qual se encontra devidamente fundamentada, indicando, de modo satisfatório, as circunstâncias do caso concreto que evidenciam a relevância dos temas discutidos.
+    3. No mais, assiste razão à parte embargante. O Supremo Tribunal Federal, ao apreciar o RE 566.471-RG (Rel. Min. MARCO AURÉLIO, DJe de 7/12/2007) – Tema 6, reconheceu a repercussão geral da matéria relativa ao “dever do Estado de fornecer medicamento de alto custo a portador de doença grave que não possui condições financeiras para comprá-lo”. Segundo observou o Min. Marco Aurélio na referida manifestação, o recurso extraordinário do caso paradigma questiona “se situação individual pode, sob o ângulo do custo, colocar em risco o grande todo, a assistência global a tantos quantos dependem de determinado medicamento (…)”.
+    No presente caso, embora não se pleiteie o fornecimento de medicamento, a parte embargada pretende que o embargante arque com os custos de procedimento denominado “Colangio Pancreatrografia Endoscópica Retrogada (CPRE) + Passagem Enoloprotese Biliar Plástica”, cujo valor, segundo consta na petição inicial, é de aproximadamente R$ 8.500,00. Desse modo, o entendimento a ser definido pelo Plenário, no julgamento do RE 566.471, seguramente importa para o deslinde desta controvérsia.
+    Por outro lado, no que toca à legitimidade passiva da União, o objeto deste recurso diz respeito a tema cuja repercussão geral foi reconhecida na análise do RE 855.178-RG (Rel. Min. LUIZ FUX, julgado em 6/3/2015) – Tema 793.
+    4. Diante do exposto, acolho os embargos de declaração, com efeitos infringentes, para determinar a devolução dos autos ao Tribunal de origem, para os fins do art. 543-B do CPC.
+    Publique-se. Intime-se.
+    Brasília, 18 de maio de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
