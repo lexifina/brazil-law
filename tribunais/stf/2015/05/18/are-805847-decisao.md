@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO INOMINADO. CONTRIBUIÇÃO PARA O FUNDO DE SAÚDE DA POLÍCIA MILITAR. PRELIMINAR DE PRESCRIÇÃO TRIENAL AFASTADA. INCONSTITUCIONALIDADE JÁ AFIRMADA PELO ÓRGÃO ESPECIAL DO TRIBUNAL DE JUSTIÇA. INTELIGÊNCIA DO ART. 149, §1º, DA CONSTITUCIONAL FEDERAL (REDAÇÃO DADA PELA EMENDA Nº 41/03). Trata-se de questão já pacificada na Arguição de Inconstitucionalidade nº 25/2007, acolhida pelo Órgão Especial, que julgou inconstitucional os incisos I e II, do §1º, do artigo 48, da Lei nº 3.189/99, com alterações da Lei Estadual nº 3.645/2000, por entender que o desconto compulsório nos vencimentos dos servidores públicos de valores a título de contribuição para o “Fundo de Saúde” viola o artigo 149, §1º da Constituição Federal, segundo o qual os Estados, o Distrito Federal e os Municípios somente estão autorizados a instituir contribuição para custeio da previdência e da assistência social, devendo a saúde ser financiada com verbas do orçamento do ente público, estando tal decisão em consonância com a jurisprudência dos Tribunais Superiores, afastada a condenação em honorários.
+    AGRAVO INOMINADO A QUE SE NEGA PROVIMENTO.”
+    A pretensão não merece acolhida. O Supremo Tribunal Federal, no julgamento do RE 586.620-RG, de relatoria da Ministra Ellen Gracie, assentou a inexistência de repercussão geral da questão discutida nestes autos. Confira-se a ementa da decisão:
+          “MILITAR. CONTRIBUIÇÃO PARA O FUNDO DE SAÚDE. EXIGIBILIDADE. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Saliente-se, ainda, que a jurisprudência da Corte é firme no sentido de que não apresenta repercussão geral o recurso extraordinário que tem por objeto o direito de servidores à restituição de valores descontados compulsoriamente a título de contribuição declarada inconstitucional, porquanto a matéria versa sobre tema infraconstitucional (RE 633.329-RG, Rel. Min. Cezar Peluso).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário
+    Publique-se.
+          Brasília, 18 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
