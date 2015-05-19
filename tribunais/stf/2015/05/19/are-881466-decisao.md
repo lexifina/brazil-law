@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo nos próprios autos, interposto por Jonathan Luiz Moreira Rosa, contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos do Embargos Infringentes e de Nulidade n. 70056044746, assim ementado (eDOC 2, p. 101):
+    “embargos infringentes. apelação criminal. afastamento dos vetores do artigo 59 pelo voto vencido. prevalência do voto majoritário.
+    Basilar estabelecida na sentença mantida, apenas com alteração dos fundamentos. No que pertine à culpabilidade, mantida como desfavorável, na medida em que a reprovação social pelo delito é maior, tratando-se de reincidente, destacando que o agente, aqui, é triplamente reincidente. Aos olhos da comunidade aquele que já foi ou está para ser punido, por outros delitos, deveria estar recuperado, tentando reintegrar-se ao convívio social, pois ciente, mais do que ninguém, de que há uma reprimenda, no caso de conduta contrária à lei. A personalidade (e não os antecedentes, que a sentença, claramente, afastou), por sua vez, é negativa, pois voltada à prática delitiva, diante dos registros criminais do réu, desconsiderando a conduta social reprovável, eis que, quanto a esta, não há qualquer notícia nos autos.
+    Embargos Infringentes Desacolhidos.
+    Por maioria.”
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido viola o art. 5º, incisos XXXVI e XXXIX, da Constituição Federal de 1988 (eDOC 2, p. 141-151).
+    O Tribunal a quo não admitiu o recurso por deficiência nos fundamentos arguidos na preliminar de repercussão geral, ausência de prequestionamento, ofensa reflexa à Constituição Federal e óbice da Súmula 279/STF (eDOC 2, p. 189-200).
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário e refuta os fundamentos da decisão recorrida.
+    É o relatório.
+    Decido.
+    Com efeito, a tese ventilada no extraordinário não foi discutida no acórdão contestado.
+    Além disso, o dispositivo tido como violado não foi sequer questionado em sede de embargos declaratórios – sequer opostos –, faltando, assim, quanto a esse dispositivo, o necessário prequestionamento da questão constitucional, o que inviabiliza o apelo extremo nesse ponto. Incide, neste caso, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI-ED 631.961/ES, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 15.5.2009) (grifei)
+    Vale dizer, ainda, que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, conforme o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013. Nesse sentido, tal orientação deve ser aplicada no caso em comento, de modo a não conhecê-lo. Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, verifico que o Tribunal de origem, em que pese tenha argumentado negativamente a dosimetria da pena imputada ao recorrente (eDOC 2, p. 63-69), não alterou a pena fixada em primeira instância, justamente, porque conformado o Ministério Público.
+    Em outras palavras, a apenação do crime remanescente não foi alterada, não existindo qualquer ofensa direta à norma penal infraconstitucional ou à Constituição Federal concernente ao tema proposto. Como se vê, mostram-se protelatórios e retóricos os argumentos constantes neste pleito recursal.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se. Int..
+    Brasília, 19 de maio de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
