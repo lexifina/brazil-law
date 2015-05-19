@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO ANULATÓRIA DE DÉBITO FISCAL – ADM – Escrituração de crédito mediante documentação inidônea – Ausência de demonstração da efetiva entrega das mercadorias e da existência do negócio jurídico – O art. 23 da LC 87/96 apenas permite a compensação do crédito se idônea a documentação – Legalidade da Taxa Selic – Multa que de fato deve equivaler a do valor sonegado. Ação improcedente – Recurso provido.”
+    A pretensão não merece acolhida. Dissentir das conclusões adotadas pelo Tribunal de origem demandaria o reexame do acervo probatório constante dos autos e da legislação infraconstitucional correlata, providência vedada nesta fase processual. No mesmo sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ANÁLISE DE NORMA PROCESSUAL ORDINÁRIA. OFENSA INDIRETA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – Para dissentir do acórdão quanto à regularidade da ação declaratória ajuizada pela ora agravante, seria necessária a análise de norma processual ordinária, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes.
+    II – A apreciação da questão relativa à legitimidade para pleitear eventual indébito decorrente da obrigação tributária discutida nos autos implica prévia interpretação da legislação infraconstitucional (Código Tributário Nacional), o que é inviável na via extraordinária. Precedentes.
+    III – Faz-se necessário o reexame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, a teor da Súmula 279 do STF, para chegar à conclusão quanto à ausência ou não de demonstração das operações que poderiam ensejar o creditamento do ICMS.
+    IV – Agravo regimental a que se nega provimento.” (AI 657.946-AgR-segundo, Rel. Min. Lewandowski)
+    “DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO MONOCRÁTICA. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO DOS DECLARATÓRIOS COMO AGRAVO REGIMENTAL.ICMS. NÃO CUMULATIVIDADE. BENS DESTINADOS AO USO, AO CONSUMO E AO ATIVO FIXO DO ESTABELECIMENTO. INEXISTÊNCIA DE DIREITO CONSTITUCIONAL AO CRÉDITO DO IMPOSTO. IMPOSSIBILIDADE DE REAPRECIAÇÃO DE FATOS E PROVAS. SÚMULA 279 DO STF.
+    Na esteira da jurisprudência desta Corte, os embargos de declaração opostos contra decisão monocrática, almejando a concessão de efeitos infringentes, devem ser recebidos como agravo regimental, por força do princípio da fungibilidade.
+    O princípio da não cumulatividade do ICMS, inscrito no art. 155, § 2º, I, da Carta de 1988, não fundamenta, por si só, o direito ao creditamento nas aquisições de bens destinados ao uso e consumo ou ao ativo fixo do estabelecimento. A legislação pode consagrá-lo, em conformidade com os arts. 20 e 33 da LC 87/1996, mas a Lei Maior não impõe que o faça.
+    É inviável reapreciar a prova pericial e as categorias de bens adquiridos pela autora, segundo a classificação acolhida pelo perito, nos termos da Súmula STF 279: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Embargos de declaração conhecidos e recebidos como agravo regimental, ao qual se nega provimento.” (AI 488.345-ED, Relª Minª Rosa Weber)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 19 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
