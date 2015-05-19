@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de embargos de declaração contra decisão que não conheceu do agravo em recurso extraordinário por ausência de impugnação aos fundamentos da decisão agravada, conforme dispõe o artigo 544, § 4º, I, do CPC.
+    Sustenta a parte embargante, em suma, que (a) houve equívoco do Tribunal de origem em remeter os autos ao Supremo Tribunal Federal, porquanto deveriam ter sido encaminhados primeiramente ao Superior Tribunal de Justiça, já que também fora interposto agravo contra a decisão que inadmitiu o recurso especial; (b) pelas razões do agravo, constata-se que o recurso julgado refere-se à decisão que inadmitiu o recurso especial, e não o recurso extraordinário.
+    Instado a se manifestar, alega o embargado que a decisão que negou seguimento ao recurso se baseou na petição do agravo em recurso especial, e não do agravo em recurso extraordinário.
+    2. Assiste razão às partes. Com efeito, o presente processo foi encaminhado a esta Corte com as petições referentes ao recurso extraordinário e ao agravo em recurso especial, não se encontrando nos autos as peças relativas ao recurso especial ou ao agravo em recurso extraordinário. Assim, a petição analisada pela decisão embargada foi a do agravo em recurso especial, e não do agravo em recurso extraordinário. Ademais, o Tribunal de Justiça do Estado do Rio de Janeiro remeteu os autos ao STF antes que o Superior Tribunal de Justiça apreciasse os recursos de sua competência, em contrariedade ao que determina o art. 543 do CPC.
+    3. Diante do exposto, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito a decisão embargada, determinando a devolução dos autos ao Tribunal de origem, para que os remeta ao Superior Tribunal de Justiça com as petições referentes ao recurso especial, agravo em recurso especial, recurso extraordinário e agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 19 de maio de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
