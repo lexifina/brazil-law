@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Ministério Público do Estado de Mato Grosso do Sul. Aparelhado o recurso na afronta aos arts. 2º, 25, 37, X, 61, e 165 da Constituição Federal e ao princípio da isonomia.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Transcrevo, para melhor compreensão da controvérsia, a ementa do acórdão recorrido:
+    “EMENTA – RECURSO OBRIGATÓRIO E APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA – TRANSFERÊNCIA PARA A REVERSA REMUNERADA – 30 ANOS DE SERVIÇO – PROMOÇÃO AO GRAU IMEDIATAMENTE SUPERIOR – INTELIGÊNCIA DOS ARTIGOS 47 E 57 DA LC N° 53/90 – IMPOSSIBILIDADE DE APLICAÇÃO DA LEI 6.880/80 (ESTATUTO DAS FORÇAS ARMADAS) – AUSÊNCIA DE PROIBIÇÃO DE PROMOÇÃO DO MILITAR – RECURSOS IMPROVIDOS.
+    Nos termos dos artigos 47 e 57 da LC n° 53/90, o policial militar que contar com mais de 30 anos de serviço e ingressar na inatividade terá direito de ser promovido ao grau hierárquico imediatamente superior, bem como de ter os seus proventos calculados sobre o soldo correspondente ao grau hierárquico imediato.
+    Os Estados podem legislar sobre as condições de transferência do militar para a inatividade, não havendo falar em inconstitucionalidade da LC n° 53/90. A Lei 6.880/80 não traz a proibição de promoção do militar quando da passagem à reserva remunerada”.
+    Esta Corte já firmou entendimento que promoção de Policial Militar a posto hierarquicamente superior quando da sua passagem para a reserva remunerada, posto controvérsia de natureza infraconstitucional, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 717.898, da Rel. Min. Gilmar Mendes, DJe 29.10.2013, que possui a seguinte ementa:
+    “Direito Administrativo. 1. Promoção de policial militar a posto de hierarquia superior quando de sua passagem para a inatividade. 2. Leis estaduais de regência dos servidores militares devem ser similares às disposições federais sobre o tema. 3. Matéria de índole infraconstitucional. Precedentes. 4. Inexistência de repercussão geral.”
+    Quanto à alegada violação do art. 2º da Lei Fundamental, o Supremo Tribunal Federal entende que exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Nesse sentido: RE 417.408-AgR/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 26.4.2012; ARE 655.080-AgR/DF, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 09.9.2012, este assim ementado:
+    "Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. 4. Controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de poder. Possibilidade. Ausência de violação ao Princípio da separação de Poderes. Precedentes do STF. 5. Discussão acerca da existência de ilegalidade e quanto à apreciação do preenchimento dos requisitos legais, pela agravada, para investidura no cargo público de magistério estadual. Necessário reexame do conjunto fático-probatório da legislação infraconstitucional e do edital que rege o certame. Providências vedadas pelas súmulas 279, 280 e 454. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento".
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 19 de maio de 2015.
+Ministra Rosa Weber
+Relatora
