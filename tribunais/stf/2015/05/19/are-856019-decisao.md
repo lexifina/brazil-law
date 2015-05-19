@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 2ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TCFA. NOTIFICAÇÃO INAPTA À CONSTITUIÇÃO DE CRÉDITOS TRIBUTÁRIOS. DECADÊNCIA.
+    1. A cobrança da TCFA é realizada mediante autolançamento do contribuinte sujeito à posterior homologação do Fisco. Portanto, é do contribuinte a obrigação de apurar, informar e recolher o tributo dentro dos prazos legais previstos.
+    2. Não tendo ocorrido o pagamento, aplica-se o disposto no art. 173, I, do CTN, dispondo o IBAMA do prazo de cinco anos, contados a partir do primeiro dia do ano seguinte ao que o lançamento poderia ter sido efetuado, para constituir o crédito tributário, o que deve ser feito observando-se as regras do processo administrativo fiscal federal.
+    3. No caso, a notificação não observou as regras que regem o processo administrativo fiscal para constituição dos créditos tributários, pois nela sequer foi oportunizada a apresentação de defesa ou recurso pelo contribuinte, tendo se consumado a decadência.”
+    Opostos embargos de declaração, foram eles rejeitados.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIV e LV, da Carta. Sustenta, em síntese, que não há obrigatoriedade de constar na intimação o prazo para impugnação, se já se encontra mencionado, na notificação, o prazo para pagamento. Para tanto, afirma que a lei exige da Administração Tributária apenas a definição de um prazo e a notificação do devedor em relação ao mesmo, não havendo no texto legal a exigência de que o devedor deve ser notificado para pagar e impugnar.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “as alegadas ofensas a preceitos constitucionais somente se verificariam de modo indireto e reflexo, ao que não se presta o recurso extraordinário”. Em sede de agravo, a parte sustenta que foram preenchidos todos os requisitos para a admissibilidade do recurso extraordinário.
+    A pretensão não merece acolhida. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia ora em debate, referente à violação aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    De fato, no caso dos autos, o Tribunal de origem consignou o seguinte:
+    “Ocorre que a notificação do contribuinte, com a finalidade de proporcionar-lhe o direito de defesa, é condição de eficácia do ato administrativo de lançamento do crédito tributário. Caso contrário, não se aperfeiçoa o lançamento, e, via de consequência, não há crédito a ser exigido.
+    Assim, cuidando-se de medida cujo escopo é a garantia da ampla defesa na via administrativa, o que, aliás, decorre de expressa garantia constitucional (CF/88, art. 5º, LV), a notificação enviada ao contribuinte deve necessariamente conter a indicação do prazo de que ele dispõe para a impugnação do lançamento, bem como o dispositivo legal infringido.
+    […]
+    Compulsando-se o processo administrativo juntado aos autos pela embargada (fls. 189-204), não se vislumbra nos documentos de notificação da embargante qualquer referência à possibilidade de impugnação do lançamento pelo contribuinte, muito menos da legislação infringida por ela, mas, tão somente, a indicação de prazo para o pagamento do crédito informado e a possibilidade de sua inclusão no CADIN (fls. 191, 193 e 200).
+    Logo, as notificações realizadas carecem de requisitos indispensáveis de validade do aludido ato administrativo, por desrespeitarem ao disposto no citado artigo 11, incisos II e III, do Decreto nº 70.235/72.
+    Com isso, em sendo nulas as notificações, não se concretizou a constituição do crédito tributário (lançamento) e, portanto, como não houve a devida constituição do crédito até o presente momento, operou-se, sem sombra de dúvida, a decadência dos créditos em execução.”
+    Com efeito, dissentir das conclusões adotadas demandaria o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente, providência vedada nesta fase processual. Nesse sentido, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Administrativo. Procedimento de tomada de contas. Intimação. Nulidade. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    2. Agravo regimental não provido.” (RE 592.425-AgR, Rel. Min. Dias Toffoli)
+    “DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AO ART. 5º, LV, DA CONSTITUIÇÃO FEDERAL. NULIDADE DA INTIMAÇÃO. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. AS RAZÕES DO AGRAVO REGIMENTAL NÃO SÃO APTAS A INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. ACÓRDÃO RECORRIDO PUBLICADO EM 13.9.2011.
+    O exame da alegada ofensa ao art. 5º, LV, da Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal.
+    Agravo regimental conhecido e não provido.” (ARE 707.016-AgR, Relª Minª Rosa Weber)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário
+    Publique-se.
+          Brasília, 19 de maio de 2015
+Ministro Luís Roberto Barroso
+Relator
