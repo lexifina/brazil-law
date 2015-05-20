@@ -1,0 +1,16 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 573.675/SC, Rel. Min. RICARDO LEWANDOWSKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. RE INTERPOSTO CONTRA DECISÃO PROFERIDA EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE ESTADUAL. CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA - COSIP. ART. 149-A DA CONSTITUIÇÃO FEDERAL. LEI COMPLEMENTAR 7/2002, DO MUNICÍPIO DE SÃO JOSÉ, SANTA CATARINA. COBRANÇA REALIZADA NA FATURA DE ENERGIA ELÉTRICA. UNIVERSO DE CONTRIBUINTES QUE NÃO COINCIDE COM O DE BENEFICIÁRIOS DO SERVIÇO. BASE DE CÁLCULO QUE LEVA EM CONSIDERAÇÃO O CUSTO DA ILUMINAÇÃO PÚBLICA E O CONSUMO DE ENERGIA. PROGRESSIVIDADE DA ALÍQUOTA QUE EXPRESSA O RATEIO DAS DESPESAS INCORRIDAS PELO MUNICÍPIO. OFENSA AOS PRINCÍPIOS DA ISONOMIA E DA CAPACIDADE CONTRIBUTIVA. INOCORRÊNCIA. EXAÇÃO QUE RESPEITA OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO EXTRAORDINÁRIO IMPROVIDO.
+    I – Lei que restringe os contribuintes da COSIP aos consumidores de energia elétrica do município não ofende o princípio da isonomia, ante a impossibilidade de se identificar e tributar todos os beneficiários do serviço de iluminação pública.
+    II – A progressividade da alíquota, que resulta do rateio do custo da iluminação pública entre os consumidores de energia elétrica, não afronta o princípio da capacidade contributiva.
+    III – Tributo de caráter ‘sui generis’, que não se confunde com um imposto, porque sua receita se destina a finalidade específica, nem com uma taxa, por não exigir a contraprestação individualizada de um serviço ao contribuinte.
+    IV – Exação que, ademais, se amolda aos princípios da razoabilidade e da proporcionalidade.
+    V – Recurso extraordinário conhecido e improvido.”
+    Cabe registrar, por oportuno, em face de sua extrema pertinência e ante a inquestionável procedência de suas observações, a seguinte passagem da decisão proferida pelo eminente Ministro RICARDO LEWANDOWSKI no RE 662.074/SP:
+    “Por fim, ressalto que não procede o fundamento utilizado pelo Tribunal de origem no sentido de que a contribuição ora discutida seria inconstitucional por destinar sua arrecadação para a instalação e expansão da rede de iluminação pública. Isso porque essa previsão constava, também, do art. 1º, §1º, da Lei Municipal de São José/SC, objeto do RE 573.675-RG/SC, de minha relatoria.”
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e considerando as razões expostas, conheço e dou provimento ao presente recurso extraordinário (CPC, art. 557, § 1º – A), em ordem a julgar improcedente a ação ordinária ajuizada pela parte ora recorrida.
+    As custas processuais e a verba honorária, que fixo em 10% (dez por cento) sobre o valor atualizado da causa, serão pagas pela parte que sucumbiu integralmente.
+    Publique-se.
+    Brasília, 20 de maio de 2015.
+Ministro CELSO DE MELLO
+Relator
