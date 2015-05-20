@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 102):
+    “APELAÇÃO CÍVEL, SERVIDOR PÚBLICO. MUNICÍPIO DE PASSO FUNDO. INCORPORAÇÃO DO PERCENTUAL DA FUNÇÃO GRATIFICADA NO PERCENTUAL DE 140%. LEI COMPLEMENTAR Nº 182/2007, QUE REVOGOU A LEI COMPLEMENTAR Nº 47/1996. IMPOSSIBILIDADE.
+    Inexistência de amparo legal para a revisão da função gratificada de Chefe de Setor FG2 no percentual de 56% sobre o Padrão 08, Grau A, a contar de 02-12-2005, para incorporação da gratificação nos termos da Lei Complementar nº 182/2007, que alterou os prazos e percentuais de incorporação de funções gratificadas, e que apresenta condição de incorporação mais favorável, uma vez que o percentual passou a ser de 140%, uma vez que ausente autorização legal. Óbice expresso na Constituição da República, especificamente no seu artigo 37, incisos X e XIII.
+    NEGADO PROVIMENTO AO RECURSO DE APELAÇÃO, POR MAIORIA.”
+    Contra esse acórdão, foram opostos embargos de declaração, os quais foram acolhidos parcialmente para sanar omissão relativa à pretensão de redução dos honorários advocatícios.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, XXXVI; e 37, X, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “Verifica-se que o art. 5º, XXXVI, da CF/88 dito violado não foi analisado nem mesmo quando do julgamento dos embargos declaratórios, revelando-se ausente o prequestionamento da matéria (Súmula 282 do STF)” (fls. 142-v); e (ii) incidência da Súmula 280/STF.
+    A decisão deve ser mantida. Quanto ao art. 5º, XXXVI, a alegada ofensa a este dispositivo constitucional não foi apreciada pelo acórdão impugnado. Tampouco foi suscitada nos embargos declaratórios opostos. Nesse ponto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto às demais questões, o Tribunal de origem, com base na legislação local aplicada ao caso (Leis Complementares nºs 182/2007 e 47/1996), entendeu que a recorrente, “após a incorporação da função gratificada nos termos da lei revogada (47/1996), não passou a titular função gratificada mais vantajosa consoante o parágrafo único do art. 3º da lei nova, não sendo possível, portanto, seu enquadramento automático para fins de percepção dos percentuais dispostos no art. 2º da Lei Complementar n 182/2007” (fls. 105/105-verso). Desse modo, para divergir desse entendimento, seria necessário analisar as legislações infraconstitucionais mencionada, o que inviabiliza o processamento do presente recurso extraordinário, nos termos da Súmula 280/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, a , do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 20 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
