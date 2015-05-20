@@ -1,0 +1,29 @@
+PEDIDO DE RECONSIDERAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. NATUREZA JURÍDICA DO AUMENTO REMUNERATÓRIO CONFERIDO PELA LEI Nº 8.369/2006 DO ESTADO DO MARANHÃO. REVISÃO GERAL ANUAL OU NÃO. MATÉRIA JÁ EXAMINADA SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA Nº 804. ARE 871.499. DEVOLUÇÃO DOS AUTOS À ORIGEM. ATO JUDICIAL PREVISTO NO ARTIGO 543-B DO CÓDIGO DE PROCESSO CIVIL. IRRECORRIBILIDADE.
+    DECISÃO: Trata-se de pedido de reconsideração interposto por ALUIZIO SOEIRO E OUTROS contra decisão de minha relatoria, cuja ementa transcrevo:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. NATUREZA JURÍDICA DO AUMENTO REMUNERATÓRIO CONFERIDO PELA LEI Nº 8.369/2006 DO ESTADO DO MARANHÃO. REVISÃO GERAL ANUAL OU NÃO. MATÉRIA JÁ EXAMINADA SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA Nº 804. ARE 871.499. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).”
+    Ab initio, o Plenário do Supremo Tribunal Federal, ao apreciar as questões de ordem nos autos do AI 715.410, Rel. Min. Ellen Gracie, e do RE 540.410, Rel. Min. Cezar Peluso, DJe de 5/9/2008, decidiu que, nos casos de matérias com repercussão geral apreciada, ocorrerá a devolução dos recursos extraordinários aos Tribunais de origem, inclusive daqueles interpostos em data anterior a 3/5/2007, e dos respectivos agravos de instrumento, para os fins previstos no artigo 543-B, § 3º, do CPC.
+    “Art. 543-B. Quando houver multiplicidade de recursos com fundamento em idêntica controvérsia, a análise da repercussão geral será processada nos termos do Regimento Interno do Supremo Tribunal Federal, observado o disposto neste artigo.
+    (...)
+    § 3º Julgado o mérito do recurso extraordinário, os recursos sobrestados serão apreciados pelos Tribunais, Turmas de Uniformização ou Turmas Recursais, que poderão declará-los prejudicados ou retratar-se. (…).”
+    Esse ato judicial previsto no artigo 543-B, § 3º, do CPC, constitui mero procedimento, sem cunho decisório, por estar desprovido de mérito, contra o qual não cabe recurso. Nesse sentido:
+    “ATO DO RELATOR QUE, ADMITINDO O RECURSO EXTRAORDINÁRIO, DETERMINA A DEVOLUÇÃO DOS AUTOS RESPECTIVOS AO TRIBUNAL DE ORIGEM PARA QUE, NESTE, SEJA OBSERVADO O QUE DISPÕE O ART. 543-B DO CPC – ATO JUDICIAL QUE NÃO POSSUI CONTEÚDO DECISÓRIO NEM SE REVESTE DE LESIVIDADE – IRRECORRIBILIDADE – CONSEQÜENTE NÃO-CONHECIMENTO DO PRIMEIRO RECURSO DE AGRAVO – INCONFORMISMO DA PARTE INTERESSADA QUE DEDUZIU NOVO RECURSO DE AGRAVO (AGRAVO INTERNO), DESTA VEZ CONTRA A DECISÃO QUE NÃO CONHECEU DO PRIMEIRO RECURSO DE AGRAVO – IMPROVIMENTO DESSE NOVO RECURSO, COM DETERMINAÇÃO DE DEVOLUÇÃO IMEDIATA DOS AUTOS AO TRIBUNAL DE ORIGEM, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO REFERENTE AO PRESENTE JULGAMENTO.” (AI 503.064-AgR-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 26/3/2010 – grifos originais)
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. OBSERVÂNCIA DO ART. 543-B DO CPC. ATO JUDICIAL SEM CUNHO DECISÓRIO. IRRECORRIBILIDADE. AGRAVO IMPROVIDO.
+    I - A jurisprudência desta Corte consolidou-se no sentido de que é incabível recurso contra decisão que determina a devolução dos autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, haja vista não possuir conteúdo decisório nem se revestir de lesividade. Precedentes.
+    II - Agravo regimental improvido.” (AI 811.626-AgR-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 4/3/2011 – grifei)
+    In casu, os peticionantes alegam que:
+     “Portanto, como a maioria do Plenário deste colendo STF já manifestou-se no ARE n. 871.499 – Tema 804, no sentido da inexistência da repercussão geral da questão suscitada, os agravados requerem que V.Exa:
+    a) Reconsidere a decisão monocrática publicada no DJE nº 65, divulgado em 07/04/2015 que determinou a devolução dos autos à origem, passando a analisar o recurso, e negue provimento ao presente Recurso Extraordinário com Agravo n. 874.345.”
+     Razão não lhes assiste.
+    A submissão de toda e qualquer matéria à sistemática da repercussão geral (inexistência ou existência de repercussão geral, com mérito pendente ou já julgado) autoriza a devolução dos processos que versam sobre referidas matérias aos Tribunais e Turmas Recursais de origem, para os fins previstos no artigo 543-B do CPC. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. PROGRESSÃO SALARIAL. LEI 10.961/92. EXTENSÃO AOS SERVIDORES PÚBLICOS ESTADUAIS EFETIVADOS PELA LEI 10.254/90. AUSÊNCIA DE REPERCUSSÃO GERAL. INSURGÊNCIA VEICULADA CONTRA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DO ART. 543-B DO CPC. PROCEDIMENTO AUTORIZADO EM QUESTÃO DE ORDEM NO AI 777.749. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 09.9.2008.
+    O Plenário Virtual desta Corte, nos autos do AI 843.751, proclamou a inexistência de repercussão geral da questão relativa à extensão da progressão salarial instituída pela Lei 10.962/92-MG aos servidores públicos estaduais efetivados pela Lei 10.254/90-MG.
+    Determinada a devolução dos autos para observância do art. 543-B do CPC, manifesta insurgência a ora agravante ao argumento de que, inexistente a repercussão geral, o recurso deveria ser inadmitido.
+    A questão suscitada foi dirimida por esta Corte no AI 777.749RG/MG, em questão de ordem, restando pacificado o procedimento ora adotado.
+    Ademais, é irrecorrível a aplicação da sistemática da repercussão geral.
+    Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.” (AI 834.610-ED, Rel. Min. Rosa Weber, Primeira Turma, DJe de 11/12/2014)
+    Ex positis, NÃO CONHEÇO do pedido de reconsideração e determino a devolução dos autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 20 de maio de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
