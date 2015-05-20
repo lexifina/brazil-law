@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL. ICMS. INCLUSÃO NA BASE DE CÁLCULO DO PIS E DA COFINS. SELIC. LEGITIMIDADE. LEI Nº 9.316/96, ART. 1º . IMPOSTO DE RENDA PESSOA JURÍDICA. BASE DE CÁLCULO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. DEDUÇÃO. VEDAÇÃO. CONSTITUCIONALIDADE.
+    1. Não configura inconstitucionalidade a vedação imposta pela Lei 9.316/96, em seu art. 1º , à dedução dos valores recolhidos a título de Contribuição Social sobre o Lucro quando da apuração do lucro real, na base de cálculo do Imposto de Renda e da própria Contribuição Social sobre o Lucro. Precedentes. (TRF4, AC - Apelação Civel 5002978-97.2012.404.7111, Relatora Maria De Fátima Freitas Labarrère, Primeira Turma, D.E. 23/11/2012)
+    2. ICMS. Inclusão na base de cálculo do PIS e da COFINS. Os encargos tributários integram a receita bruta e o faturamento da empresa. Seus valores são incluídos no preço da mercadoria ou no valor final da prestação do serviço. Por isso, são receitas próprias da contribuinte, não podendo ser excluídos do cálculo do PIS/COFINS, que têm, justamente, a receita bruta/faturamento como sua base de cálculo. É constitucional e legal a inclusão do ICMS na base de cálculo do PIS e da COFINS, nos termos do art. 3º , §2º , I, da Lei 9.718/98.
+    3. A presunção de liquidez e certeza da CDA apenas pode ser elidida mediante apresentação de provas inequívocas. No caso, estão presentes os requisitos legais mínimos exigidos, além do que a forma do cálculo deve ser a prevista em lei. Não há falar, assim, em nulidade do título executivo
+    4. A insurgência quanto à inaplicabilidade da taxa SELIC, não comporta maiores digressões, pois o Plenário do Pretório Excelso, em sessão realizada na data de 18.05.2011, julgando o RE nº 582.461/SP, no qual foi reconhecida a existência de repercussão geral da matéria, deixou assentado que a incidência da taxa SELIC na atualização do débito tributário é legítima.
+    5. O art. 16, § 3º , da Lei nº 6.830/80, veda a possibilidade de compensação em sede de execução fiscal. Admite-se, contudo, em embargos à execução, contrapor-se à exigência fiscal tendo por fundamento a compensação já realizada com crédito reconhecido em decisão administrativa ou judicial.”
+    O Plenário do Supremo Tribunal Federal, nos autos do RE 574.706-RG, de relatoria da Ministra Cármen Lúcia, reconheceu a repercussão geral da matéria em questão. Confira-se a ementa da decisão:
+    “Reconhecida a repercussão geral da questão constitucional relativa à inclusão do ICMS na base de cálculo da COFINS e da contribuição ao PIS. Pendência de julgamento no Plenário do Supremo Tribunal Federal do Recurso Extraordinário n. 240.785.”
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 20 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
