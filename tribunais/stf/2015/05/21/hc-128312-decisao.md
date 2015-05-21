@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSO-CRIME – SUPERIOR TRIBUNAL DE JUSTIÇA – SUSPENSÃO – EXCEPCIONALIDADE NÃO VERIFICADA – HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O paciente foi denunciado, juntamente com mais trinta e seis pessoas, na Ação Penal nº 707, em curso no Superior Tribunal de Justiça, em virtude dos fatos apurados na “Operação Caixa de Pandora”. Imputou-se, na peça acusatória, o suposto cometimento dos crimes previstos nos artigos 333 (corrupção ativa) do Código Penal e 1º, incisos V e VII (lavagem de dinheiro), da Lei nº 9.613/1998, ambos por diversas vezes.
+    Em defesa, o paciente requereu a realização de perícia judicial das mídias telefônicas, o acesso às informações constantes no acordo de delação premiada que implicou a denúncia, e a oitiva destas testemunhas: Alexandre Tavares de Assis, Antonio Ricardo Sechis, Alessandro Queiroz, Francisco Tony Brixi de Souza, Gilberto Lucena, Maria Cristina Boner Leo, Roney Nemer, José Geraldo Maciel e Benedito Domingos.
+    No Superior Tribunal de Justiça, o relator indeferiu os pedidos. Apontou o fato de os laudos terem sido elaborados pelo Instituto Nacional de Criminalística, afirmando tratar-se de órgão oficial e idôneo. Salientou a ausência, na atual fase do processo, de elementos a justificarem nova perícia. Ressaltou que as informações nas quais se fundou a acusação foram juntadas ao processo pelo Ministério Público Federal, à folha 8.591 à 8.596. Frisou inexistirem outros elementos a serem submetidos ao contraditório. Concluiu pela impossibilidade de os corréus, à exceção do colaborador Durval Barbosa, atuarem na condição de testemunhas, em virtude de não estarem obrigados a dizer a verdade. Na sequência, formalizou-se pleito de reconsideração, ainda pendente de exame.
+    Neste habeas, os impetrantes aduzem cerceamento de defesa e violação ao devido processo legal. Sustentam a necessidade da oitiva das mencionadas testemunhas, mesmo na condição de informantes, visando o esclarecimento dos fatos imputados ao paciente. Dizem que o óbice à oitiva das pessoas indicadas implica prejuízo, pois o depoimento do corréu colaborador teria favorecido apenas a acusação. Sublinham ser preciso observar o princípio da paridade de armas. Alegam a falta de homologação judicial do acordo de colaboração premiada. Reafirmam o direito à realização da perícia judicial, ante os indícios de que os vídeos foram editados. Anotam que a audiência de instrução e julgamento foi designada para o dia 26 de maio de 2015.
+    Requerem o deferimento de liminar, a fim de sustar o curso da Ação Penal nº 707, que tramita no Superior Tribunal de Justiça, até o julgamento definitivo desta impetração.
+    No mérito, pleiteiam o direito à oitiva das mencionadas testemunhas, determinando-se, ainda, a análise da legalidade do acordo de colaboração premiada, nos termos do artigo 4º, § 7º, da Lei nº 12.850/2013, e a realização de perícia judicial das provas colhidas.
+    A fase é de apreciação da medida acauteladora.
+    2. Observem tratar-se de ação penal em curso no Superior Tribunal de Justiça, considerada competência originária.
+    Quanto à articulação dos impetrantes, não surge risco a levar à atuação do Supremo no campo precário e efêmero da medida liminar.
+    3. Indefiro o pleito de suspensão do processo-crime que retrata a Ação Penal nº 707, em tramitação no Superior Tribunal de Justiça.
+    4. Solicitem informações, colhendo, uma vez recebidas, o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília, 21 de maio de 2015.
+Ministro MARCO AURÉLIO
+Relator
