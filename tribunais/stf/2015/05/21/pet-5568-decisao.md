@@ -1,0 +1,16 @@
+Vistos etc.
+    1. Trata-se de interpelação judicial criminal ajuizada por Fábio Luís Lula da Silva, forte no art. 144 do Código Penal, contra o Deputado Federal Domingos Sávio Campos Resende, por supostas afirmações, em entrevista concedida à Rádio Minas AM/FM, em 09.02.2015, no programa Bom Dia Divinópolis, as quais o Interpelante reputou ofensivas à sua honra.
+    Por meio da presente medida processual, o Interpelante requer que o Interpelado esclareça, confirme ou desminta as referidas declarações.
+    2. Notificado, o Interpelado sustenta, em suma, não ter atingido a honra do requerente, motivo pelo qual “(...) não vê razões para responder às indagações formuladas na interpelação” (evento 14).
+    3. No evento 18 há pedido de intervenção formulado por Bruno Diniz Antonini e Roseli Susane Jaworoski de Campos, via do qual requerem “(...) o reconhecimento da legitimidade da Intervenção dos Peticionários nesta e em toda e qualquer Ação Penal que desta seja derivada, e nos termos do artigo 40 do Código de Processo Penal, seja determinada a extração de cópias e o encaminhamento ao órgão do Ministério Público, independente da intimação pessoal do Excelentíssimo Senhor Procurador Geral da República (...)”.
+    É o relatório. Passo a decidir.
+    1. O pedido de explicações fundado no art. 144 do Código Penal constitui providência facultativa que, sem previsão de procedimento específico, segue o rito das notificações ordinárias, pela aplicação subsidiária do Código de Processo Civil (art. 867), na forma do art. 3º do Código de Processo Penal.
+    2. De acordo com o art. 871 do CPC este procedimento “não admite defesa nem contraprotesto nos autos”. A fortiori e por razões óbvias, também não admite intervenção de terceiros, menos ainda para a finalidade principal pretendida pelos peticionantes do evento 18.
+    3. A par de incabível, a intervenção está prejudicada. Lecionam Luiz Guilherme Marinoni e Daniel Mitidiero (Código de Processo Civil, 6ª ed. São Paulo: RT, 2014, pp 822-823) que, “realizada a intimação, exaure-se a função do protesto, notificação ou interpelação. Tem o juiz de declarar extinto o processo e, pagas as custas, determinar a entrega dos autos à parte, independentemente de translado, decorridas 48 (quarenta e oito) horas”. É precisamente o que se extrai do art. 872 do CPC.
+    4. Dito isso, com a efetivação do ato de notificação judicial (evento 12), e com a manifestação do Interpelado (evento 14), cumpriu-se a finalidade do presente procedimento cautelar (Pet 4998, Dje de 9.5.2013, de minha Relatoria). 5. Ante o exposto, julgo-o extinto.
+    5. Escoado o prazo de 48 (quarenta e oito) horas de que trata o art. 872 do CPC, arquivem-se os autos eletrônicos no servidor desta Suprema Corte.
+    6. No que pertine ao comando legal de entrega dos autos à parte (art. 872 do CPC), observo que “a consulta à íntegra dos autos de processos eletrônicos poderá ser realizada por qualquer pessoa credenciada no e-STF” (art. 16 da Resolução STF nº 427/2010), bem como considerada “vista pessoal do interessado para todos os efeitos legais” o acesso à íntegra do arquivo digital (art. 9º, § 1º, da Lei 11.419/2006).
+    7. Publique-se. Intimem-se.
+    Brasília, 21 de maio de 2015.
+Ministra Rosa Weber
+Relatora
