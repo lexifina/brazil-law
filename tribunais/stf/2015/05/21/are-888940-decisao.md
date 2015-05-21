@@ -1,0 +1,29 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO PROMOVIDO PELA UFRN. CARGO DE TÉCNICO DE TECNOLOGIA DE INFORMAÇÃO. CANDIDATO COM CURSO SUPERIOR EM TECNOLOGIA DE INFORMAÇÃO. POSSE NO CARGO. POSSIBILIDADE. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. NECESSIDADE DE OBSERVÂNCIA. MANUTENÇÃO DA SENTENÇA.
+    1. O cerne da questão é saber se o Impetrante, aprovado em 2º lugar no concurso público da UFRN para o preenchimento do Cargo de Técnico em Tecnologia da Informação, previsto no Edital n. 008/2012 e, sendo titular de diploma de Graduação no curso de Redes de Computadores, com título de Tecnólogo em redes de Computadores pela Faculdade Maurício de Nassau, e, ainda, com diversos cursos técnicos na área, estaria habilitado para o cargo ao qual se candidatara.
+    2. O impetrante ajuizou o presente em razão da informação prestada pela comissão organizadora do mandamus concurso público, de que seu diploma e sua titulação não seriam aceitos, pois seriam insuficientes para exercer o cargo de Técnico em Tecnologia da Informação, sob o fundamento de que o certificado de "Ensino médio profissionalizante completo na área de Tecnologia da Informação ou ensino médio completo acrescido de Curso Técnico em eletrônica com ênfase em sistemas computacionais" seria imprescindível para o término do seu procedimento convocatório.
+    3. Constam dos autos as provas necessárias à formação do impetrante em curso de graduação de nível superior e cursos técnicos, na área de Tecnologia da Informação.
+    4. É cediço que os princípios da razoabilidade e da proporcionalidade devem nortear os atos da Administração Pública, mormente, considerando serem referidos princípios implícitos na Constituição Federal/88 e explicitados no art. 2º da Lei 9.784/99. Os atos Administrativos firmados em desconformidade com esses princípios sujeitam-se ao controle judicial.
+    5. A realização do ato deve ser feita de modo a que o administrador, no caso, obedeça a critérios racionais e em sintonia com o senso normal de pessoas equilibradas.
+    6. Assim ocorrendo, não se apresenta razoável, consoante, inclusive, entendimento jurisprudencial acerca da questão em análise, impedir o Impetrante de ser empossado no cargo que prestou concurso público ao argumento de que este não preencheu os requisitos do Edital quanto à profissionalização, mormente quando a exigência editalícia era a de Curso Técnico de Tecnologia de Informática e este possui Curso Superior em Tecnologia de Informática.
+    7. Deve-se reconhecer que o candidato está em perfeita condição de assumir o cargo a que se submeteu. Precedentes.
+    8. Remessa oficial não provida.”
+    Opostos embargos de declaração, foram improvidos.
+    Sustenta a recorrente, nas razões do recurso extraordinário, violação dos artigos 2º e 37, incisos I e II, da Constituição Federal.
+    Decido.
+    No que se refere ao artigo 2º da Constituição, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Por outro lado, para se concluir de modo diverso do acórdão recorrido seriam imprescindíveis o reexame do conjunto fático-probatório constante dos autos e a análise das normas do edital que rege o certame, o que não viabiliza o recurso extraordinário. Incidência das Súmula nºs 279 e 454 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. concurso PÚBLICO. 1. Impossibilidade de análise de cláusulas de edital e de legislação infraconstitucional. Ofensa constitucional indireta. 2. Necessidade de reexame de provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 3. Agravo regimental ao qual se nega provimento” (ARE nº 684.298/CE, Primeira Turma, Relator a Ministra Cármen Lúcia, DJe de 14/9/12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. concurso PÚBLICO. EXIGÊNCIA DE DOCUMENTAÇÃO. PRAZO PARA ENTREGA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS DE edital. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO.
+    I - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos e de cláusulas do edital de concurso. Incidência das Súmulas 279 e 454 do STF. Precedentes.
+    II - Agravo regimental improvido” (ARE nº 701.244/RJ-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 2/10/12).
+    Essa orientação foi consolidada pelo Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do ARE nº. 690.113/RS, Relator o Ministro Cezar Peluso, DJe de 11/9/2012, no qual esse Tribunal concluiu pela ausência de repercussão geral da matéria consistente na verificação do preenchimento de requisitos exigidos em edital de concurso para provimento de cargo público, por cuidar-se de matéria circunscrita ao âmbito infraconstitucional. Esse julgado ficou assim ementado:
+    “CONCURSO PÚBLICO. Cargo de professor. Habilitação específica para o cargo. Não atendimento. Qualificação superior à exigida por Edital. Questão infraconstitucional. Ausência de repercussão geral. Recurso extraordinário recusado. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a análise de habilitação superior à prevista por Edital, mas inespecífica em relação ao exigido neste, versa sobre matéria infraconstitucional.”
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 21 de maio de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
