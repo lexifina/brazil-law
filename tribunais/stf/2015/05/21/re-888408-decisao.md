@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4º Região, assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. VALOR DA CAUSA. PROCEDIMENTO ESPECÍFICO. PEDIDO ADMINISTRATIVO DE RESSARCIMENTO DE CRÉDITOS ESCRITURAIS. PRAZO PARA ANÁLISE E SOLUÇÃO. LEI Nº 11.457/07. CORREÇÃO MONETÁRIA. INTERESSE DE AGIR. SELI C . TERMO 'AQUO'.
+    1. A impugnação ao valor da causa rege-se por procedimento específico, que exige do impugnante a apresentação de petição autônoma. Não se conhece da impugnação se a matéria é suscitada apenas em sede de preliminar de informações em mandado de segurança.
+    2. No julgamento do Recurso Especial 1.138.206/RS, submetido à sistemática dos recursos repetitivos, o STJ consolidou o entendimento de que, tanto para os requerimentos efetuados anteriormente à vigência da Lei n. 11.457/07, mas que estejam pendentes quando da entrada em vigor do art. 24 desta lei (02-05-2007, conforme art. 51, II, da Lei nº 11.457/2007), quanto para os pedidos protocolados já na vigência deste normativo, o prazo aplicável é de 360 dias, contado da data do protocolo do pedido. Já para os pedidos administrativos respondidos (não pendentes) antes da entrada em vigor do art. 24 da Lei nº 11.457/2007, aplica-se o prazo de 150 dias (120+30), contado da data do protocolo do pedido.
+    3. Extrapolado o prazo legal aplicável à espécie, resta configurada a mora da fiscalização, devendo ser fixado prazo razoável para o processamento e decisão dos pedidos de ressarcimento.
+    4. Em regra, não incide correção monetária sobre os créditos escriturais. No entanto, é devida a atualização monetária de tais créditos quando o seu aproveitamento, pelo contribuinte, sofre demora em virtude da resistência oposta por ilegítimo ato administrativo ou normativo do Fisco.
+    5. Presente o interesse de agir com relação ao pleito de correção monetária no caso em que a impetrante pretende, de modo preventivo, o imediato ressarcimento de créditos escriturais, requeridos na via administrativa e ainda não apreciados.
+    6. E o índice de correção monetária é a taxa SELIC, quer porque é o índice utilizado para reparar o retardamento do contribuinte no atendimento da obrigação tributária, quer em face do disposto no art. 406 do CC/02.
+    7. Em razão de ter extrapolado o prazo legal para decisão nos processos administrativos, é devida a correção monetária pela Taxa SELIC, a partir do 360º dia do protocolo dos requerimentos administrativos, adstrito ao requerido na inicial.”
+    A pretensão não merece acolhida. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a matéria relativa à incidência de correção monetária sobre créditos escriturais demanda a análise prévia da legislação infraconstitucional aplicável à espécie, providência vedada nesta fase processual. Nessa linha, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Tributário. Correção monetária em créditos presumidos de IPI, PIS e COFINS. Benefício fiscal. Ofensa reflexa. 4. Jurisprudência da corte. Precedentes. 5. Análise de fatos e provas. Súmula 279. 6 agravo regimental a que se nega provimento” (ARE 795.659-AgR, Rel. Min. Gilmar Mendes)
+    “DIREITO TRIBUTÁRIO. JULGAMENTO MONOCRÁTICO. CABIMENTO. CORREÇÃO MONETÁRIA. PIS/COFINS. MATÉRIA INFRACONSTITUCIONAL. REEXAME INCABÍVEL NO ÂMBITO DO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 13.10.2011.
+    O caso ora em discussão é de típico julgamento monocrático do recurso, a incidir as disposições constantes no art. 554, § 4º, II, do Código de Processo Civil. Impossibilidade de exame em recurso extraordinário de alegada violação, acaso existente, situada no âmbito infraconstitucional.
+    Agravo regimental conhecido e não provido” (RE 689.640-AgR, Rel.ª Min.ª Rosa Weber)
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 21 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relatora
