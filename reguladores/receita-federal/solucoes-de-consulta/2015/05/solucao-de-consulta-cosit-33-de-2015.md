@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 33, de 26 de fevereiro de 2015
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF EMENTA: IMPOSTO DE RENDA. ALIENAÇÃO DE BENS E DIREITOS NO EXTERIOR ADQUIRIDOS NA CONDIÇÃO DE NÃO RESIDENTE. NÃO INCIDÊNCIA. Não incide o imposto de renda sobre ganho de capital auferido na alienação de bens localizados no exterior, ou representativos de direitos no exterior, por pessoa física, adquiridos na condição de não residente. DISPOSITIVOS LEGAIS: Medida Provisória nº 2.158-35, de 24 de agosto de 2001, art.24, § 6º; Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 10, inciso VI.
+[arquivo anexo: SC Cosit nº 033-2015.pdf]
