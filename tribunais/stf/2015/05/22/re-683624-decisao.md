@@ -1,0 +1,26 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “EXECUÇÃO FISCAL. PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO. ITR. ANO-BASE 1995/1996 LEI 8.847/94. CRÉDITOS DE OPERAÇÕES BANCÁRIAS DE MÚTUOS PRIVADOS. TITULARIDADE DA UNIÃO. COBRANÇA PELO RITO DA LEI Nº 6.830/80.
+    1. Aplica-se ao caso dos autos, o prazo quinquenal estipulado no artigo 174 do CTN, segundo o qual a ação para cobrança do crédito tributário prescreve em 5 (cinco) anos contados da data da sua constituição definitiva.
+    2. No caso em análise, tendo transcorrido mais de cinco anos após a constituição do crédito, impõe-se o reconhecimento da prescrição do crédito perseguido pelo Fisco.
+    3. O crédito tributário posto em execução é relativo ao ITR, ano-base/exercício de 1995, sendo regulado pela Lei nº 8.847/94.
+    4. Consoante exposto no art. 6º da Lei nº 8.847/94, "o lançamento do ITR será efetuado de ofício, podendo, alternativamente, serem utilizadas as modalidades com base em declaração ou por homologação".
+    5. Considerando que o prazo prescricional sujeita-se ao estabelecido no art. 174 do CTN, o crédito inscrito nas CDAs restaram atingidos pela prescrição, porquanto decorridos mais de 05 (cinco) anos entre a constituição do crédito e a o ajuizamento da ação.
+    6. O STJ já analisou questão análoga, concluindo que os atos realizados pela União encontram, portanto, pleno respaldo no ordenamento jurídico, sendo válida a inscrição em dívida ativa e a utilização, para cobrança, do rito estabelecido na Lei 6.830/1980, quanto aos créditos de operações bancárias de mútuos privados, cedidos à União”.
+    Os embargos de declaração opostos pela União foram parcialmente acolhidos, apenas para efeito de prequestionamento.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput; XXXVII, LV e LIV; 37, caput, e 187, todos da Constituição.
+    A pretensão não acolhida. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional.
+    Nos termos do acórdão recorrido, a execução fiscal é instrumento hábil para a cobrança dos créditos relativos às operações de crédito rural alongados ou renegociados com fundamento na Lei nº 9.138/1995. Dissentir das conclusões adotadas pelo Tribunal a quo sobre a utilização do rito estabelecido na MP nº 2196 e Lei nº 6.830/1980, quanto aos créditos de operações bancárias de mútuos privados, cedidos à União, demandaria tão somente o exame da legislação infraconstitucional pertinente à hipótese, providência vedada nesta via processual. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. DÍVIDA ATIVA: INSCRIÇÃO E REQUISITOS. DEMONSTRATIVO DE DÉBITO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICOPROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE DO ART. 5º, INCS. II E XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA: NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.” (RE 768.767/RS, Rel.ª Min.ª Cármen Lúcia)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E COMERCIAL. CÉDULA DE CRÉDITO RURAL. NECESSIDADE DE PREQUESTIONAMENTO EXPLÍCITO DA MATÉRIA CONSTITUCIONAL. ADMISSIBILIDADE DE RECURSO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 761739 AgR, Rel.ª Min.ª Cármen Lúcia, 1ª Turma)
+    "AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ALEGADA VIOLAÇÃO AO ART. 37, CAPUT, DA CONSTITUIÇÃO FEDERAL. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+    I - Esta Corte firmou orientação no sentido de que, em regra, a alegação de ofensa aos princípios constitucionais da legalidade, impessoalidade, moralidade, publicidade e eficiência, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário.
+    II - Agravo regimental improvido." (ARE 646.526-AgR/RN, Rel. Min. Ricardo Lewandowski, 2ª Turma)
+    Nessa linha, confiram-se os seguintes precedentes: AI 854.533, Rel. Min. Ricardo Lewandowski; e REs 811.540 e 742.679, ambos julgados sob a relatoria do Ministro Gilmar Mendes.
+    Ademais, a jurisprudência desta Corte é firme no sentido de que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
