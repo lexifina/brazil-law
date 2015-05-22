@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial (CPC/2015, art. 1.029) interposto contra acórdão do TJPB assim ementado (e-STJ fl. 235):
+AGRAVO INTERNO - AÇÃO MONITÓRIA - PROCEDÊNCIA PARCIAL - IRRESIGNAÇÃO - APELAÇÃO - JUNTADA POSTERIOR DE GUIA DE PREPARO - IMPOSSIBILIDADE - DESERÇÃO - MATÉRIA DE ORDEM PÚBLICA - AUSÊNCIA DE NOVOS ELEMENTOS CAPAZES DE ALTERAR A DECISÃO INTERINAMENTE AGRAVADA - RECURSO DESPROVIDO.
+De acordo com o art. 511 do Código de Processo Civil o preparo é requisito extrínseco de admissibilidade e consiste no pagamento prévio das custas relativas ao regular processamento dos recursos.
+O art. 511 do CPC determina que "no ato de interposição do recurso, o recorrente comprovará (..) o respectivo preparo (..) sob pena de deserção".
+Logo, o preparo apresentado posteriormente ao protocolo da petição de interposição da apelação gera a deserção do recurso.
+Recurso desprovido, para manter a decisão internamente agravada em todos seus termos.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 253/259).
+Nas razões do recurso especial (e-STJ fls. 261/270), interposto com base no art. 105, III, "c", da CF, a recorrente aponta dissídio jurisprudencial quanto ao art. 511 do CPC/1973, alegando ser possível juntar aos autos o comprovante do recolhimento do preparo em momento posterior ao protocolo do recurso, mesmo sendo evidenciado que o pagamento da guia ocorreu antes de referido protocolo, devendo ser afastada a deserção reconhecida (e-STJ fl. 266).
+Não foram apresentadas contrarrazões (e-STJ fl. 287).
+O recurso especial foi admitido na origem (e-STJ fls. 293/294).
+É o relatório.
+Decido.
+O Tribunal de origem concluiu ser indevida a juntada da guia de preparo da apelação no momento em que a recorrente ofertou o agravo interno contra a decisão que considerou deserto o recurso, assentando que a apresentação dos referidos comprovantes devia ter se realizado ao ser interposta a apelação, tendo em vista que (e-STJ fls. 236/237):
+Com efeito, cumpre esclarecer que, de acordo com o art. 511 do Código de Processo Civil o preparo é requisito extrínseco de admissibilidade e consiste no pagamento prévio das custas relativas ao regular processamento dos recursos.
+A ausência de tal requisito ocasiona a preclusão consumativa, fazendo com que se aplique ao recorrente a pena de deserção, impedindo desta forma que o recurso seja conhecido.
+No caso dos autos, observa-se que o recorrente, quando da interposição do recurso voluntário, não o instruiu com a devida guia de recolhimento do preparo recursal, somente comprovando tal recolhimento com a interposição do presente recurso de agravo interno, o que não afasta a violação da regra prevista no artigo 511, do CPC, in verbis:
+"Art. 511 No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção" (grifei)
+Portanto, o presente recurso não deve ser acolhido, porquanto consoante reiterada jurisprudência do STJ é no sentido de que a guia de preparo deve ser juntada aos autos no ato da interposição do recurso (AgRg no AREsp 191522-RS, Rel. Min. MARIA ISABEL GALLOTTI), não se admitindo juntada posterior.
+Sobre a matéria, ensina Nelson Nery Júnior:
+"Preparo. É um dos requisitos extrínsecos de admissibilidade dos recursos e consiste no pagamento prévio das custas relativas ao processamento do recurso. A ausência ou irregularidade no preparo ocasiona o fenômeno da preclusão, fazendo com que deva ser aplicada ao recorrente a pena de deserção, que impede o conhecimento do recurso. É matéria de direito processual estrito, cuja competência para legislar é exclusiva do Poder Legislativo da União (CF, 22, I). Aos Estados cabe estabelecer o valor do preparo"(grifamos)".
+Em caso idêntico, o Colendo Superior Tribunal de Justiça assim decidiu:
+RECURSO ESPECIAL n. 1.417.430 - SP ([CPF]-5)  .. . Sustenta, em síntese, que o preparo foi recolhido antes da interposição da apelação e, embora tenha sido comprovado nos autos após a protocolização do recurso, não há falar em deserção. Não foram apresentadas contrarrazões (e-STJ fl. 100). É o relatório. Decido. O recurso não merece provimento. O artigo 511 do CPC prevê claramente que a comprovação do pagamento do preparo deve ocorrer no ato de interposição do recurso, in verbis: "Art. 511. No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção." Com efeito, a comprovação do preparo exigido pelo Código de Processo Civil é imediato, sendo deserto o recurso em que tal ato se dê em momento posterior à sua interposição.  .. . Diante do exposto, nos termos do art. 557, caput, do CPC/1973, NEGO PROVIMENTO ao recurso especial. Publique-se e intimem-se. Brasília (DF), 22 de maio de 2015. MINISTRO ANTÔNIO CARLOS FERREIRA Relator.
+O entendimento da Corte de origem destoa da jurisprudência do STJ firmada no sentido de que, "na hipótese de ficar comprovado nos autos que a data de pagamento da guia de preparo corresponde à data da interposição do respectivo recurso, não enseja a pena de deserção o fato de haver juntada tardia dos comprovantes" (EDcl no REsp n. 1.229.608/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 14/4/2011, DJe 3/5/2011).
+No mesmo sentido:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL. AFASTADA A DESERÇÃO DO RECURSO DE APELAÇÃO.
+1. Devidamente comprovado nos autos que o preparo do recurso de apelação fora realizado junto à Secretaria do Tribunal no mesmo dia em que protocolada a petição recursal. Atendida a exigência legal, mormente porque a jurisprudência desta Corte tem admitido o depósito efetuado diretamente ao escrivão, o que ocorreu na espécie. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no Ag n. 241.662/PR, Relator Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 25/10/1999, DJ 17/12/1999, p. 366.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PROCESSUAL CIVIL. RECOLHIMENTO. JUNTADA TARDIA. DESERÇÃO NÃO CONFIGURADA. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte firmou o entendimento de que "A juntada posterior de comprovantes de recolhimento do preparo tempestivamente feito não é capaz de ensejar a aplicação da pena de deserção. Precedentes" (AgRg no AgRg no AREsp 750.703/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/04/2016, DJe de 26/04/2016).
+2. Agravo interno ao qual se nega provimento.
+(AgInt no REsp n. 1.510.615/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/2/2017, DJe 15/3/2017.)
+Assim, é devido acolher a tese sustentada pela recorrente, a fim de alinhar a decisão da Corte de origem ao entendimento firmado pelo STJ à luz do CPC/1973, afastando a deserção do recurso quando, embora não juntados os comprovantes do preparo no momento da interposição da irresignação, a parte recorrente os juntar posteriormente, demonstrando o recolhimento efetivo das custas ao erário.
+Do exposto, CONHEÇO e DOU PROVIMENTO ao recurso especial, a fim afastar a deserção da apelação, bem como para determinar que o Tribunal a quo prossiga no julgamento do recurso como entender de direito.
+Publique-se e intimem-se.
