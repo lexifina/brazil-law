@@ -1,0 +1,43 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Geraldo Maurício Antunes Parreiras contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 280.305/GO, Relator o Ministro Jorge Mussi.
+    Alega o recorrente que a prova da materialidade do crime contra a ordem tributária pelo qual restou condenado “decorreu da violação dos direitos constitucionais (...) ao silencio, à vedação a [autoincriminação] e à presunção de não-culpabilidade (...)” (fl. 124).
+    Esclarece que o título condenatório teria presumido a ocorrência de crime, em razão da sua inércia em prestar esclarecimentos à autoridade fazendária, “quando instado a fazê-lo, no que concerne as transações financeiras questionadas – o que justificou a autuação fiscal, tal qual lavrada -, bem como quando fez uso do direito ao silencio em Juízo” (fl. 124).
+    Mais adiante, aduz que
+    “[o] delito de que se cogita na hipótese dos autos é a supressão ou redução de tributo mediante a prestação de informações falsas e a sonegação de informações (acerca do recebimento de rendimentos) à autoridade fazendária (Lei n. 8.137/90, art. 1º, I).
+    A prova da materialidade da sonegação consistiria no auto de infração lavrado, por arbitramento, por parte da autoridade fazendária, que prestou depoimento em Juízo na condição de testemunha, ocasião em que reafirmou que a integralidade da movimentação financeira foi considerada como rendimento tributável não informado a Receita Federal.
+    Que assim se deu, exclusivamente, porque, em virtude da omissão em prestar as informações a Receita Federal acerca da movimentação financeira em contas bancarias, conquanto invitado a fazê-lo, presumiu-se que toda a movimentação bancaria consistiria em rendimentos tributáveis, não informados ao Fisco” (fls. 124/125).
+    Argumenta que,
+    “malgrado o silêncio possa legitimar a presunção, no âmbito administrativo, como meio de persuasão quanto a ocorrência de ilícito fiscal, a conclusão, naquela esfera, da ocorrência de sonegação, não pode ser tomada como fato consumado e incontroverso no processo penal” (fl. 126).
+    Afirma, por fim, que,
+    “se o silêncio é direito constitucionalmente assegurado ao réu, não podendo ser tomado em prejuízo de sua defesa, não é legítima a conclusão do acordão recorrido de que a omissão de prestação de esclarecimento do Recorrente ao Fisco Federal seja prova suficiente da ocorrência de sonegação” (fls. 128/129).
+    Requer o deferimento da liminar para suspender a execução da sua pena e, no mérito, pede o provimento do recurso para que, concedido o habeas corpus, seja anular o acórdão da apelação para que “outro seja proferido sem que o direito ao silêncio seja interpretado, sob qualquer aspecto, em [seu] prejuízo (...)” (fl. 133).
+    Examinados os autos, decido.
+    Transcrevo a ementa do acórdão recorrido:
+    “HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+    1. A via eleita se revela inadequada para a insurgência do impetrante contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+    2. O alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+    CRIME CONTRA A ORDEM TRIBUTÁRIA. PACIENTE QUE SE RECUSOU A PRESTAR ESCLARECIMENTOS À AUTORIDADE FISCAL MESMO APÓS INTIMADO. ACUSADO QUE SE MANTEVE SILENTE DURANTE O INTERROGATÓRIO JUDICIAL. CONDENAÇÃO FUNDAMENTADA NAS PROVAS OBTIDAS DURANTE O PROCEDIMENTO ADMINISTRATIVO TRIBUTÁRIO E NO DECORRER DA INSTRUÇÃO CRIMINAL. PRESUNÇÃO DE OMISSÃO DE RENDAS PREVISTA NO ARTIGO 42 DA LEI 9.430/1996. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+    1. O inciso LXIII do artigo 5º da Constituição Federal confere ao acusado o direito à não autoincriminação, permitindo que, por ocasião do interrogatório, cale-se acerca dos fatos criminosos que lhe são imputados, ou ainda, e via de consequência do sistema de garantias constitucionais, negue a autoria delitiva, sem que isso dê ensejo à apenação criminal ou mesmo à valoração negativa pelo magistrado, que poderá, no máximo, desconsiderá-las quando do cotejo com os demais elementos probatórios colacionados.
+    2. No caso dos autos, o paciente, intimado pela Receita Federal a comprovar a origem dos recursos movimentados em suas contas bancárias, não o fez, também quedando-se silente quando interrogado judicialmente.
+    3. Conquanto o contribuinte não seja obrigado a prestar os esclarecimentos solicitados pela autoridade fiscal, ao não fazê-lo permite à Receita Federal presumir determinados fatos que ensejam a constituição do crédito tributário.
+    4. Assim, a fim de atestar a regularidade de suas movimentações financeiras, o paciente deveria comprovar, quando instado pela Receita Federal, a origem dos recursos utilizados em suas operações bancárias, sob pena de, não o fazendo, restar caracterizada a presunção de omissão de rendimentos prevista no artigo 42 da Lei 9.430/1996 que, de acordo com a jurisprudência dos Tribunais Superiores, é apta a caracterizar o crime previsto no artigo 1º, inciso I, da Lei 8.137/1990. Precedentes.
+    5. Ademais, da leitura do aresto objurgado, constata-se que embora o Tribunal Regional Federal da 1ª Região tenha mencionado que o acusado manteve-se calado quando inquirido pelo togado de origem, não entendeu comprovada a autoria do delito somente em razão do seu silêncio, apontando provas produzidas tanto no procedimento administrativo tributário quanto no curso da ação penal hábeis a justificar o decreto condenatório.
+    6. Habeas corpus não conhecido” (fls. 102/103).
+    Essa é a razão pela qual se insurge o recorrente no presente feito.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação constante dos autos representar manifesto constrangimento ilegal.
+    Pelo que se tem no julgado proferido pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra, neste primeiro exame, ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento de liminar. Com efeito, o acórdão proferido por aquela Corte de Justiça encontra-se devidamente motivado, restando justificado o convencimento formado.
+    Ademais, conforme destacado pelo Ministro Jorge Mussi em seu voto,
+    “embora o Tribunal Regional Federal da 1ª Região tenha mencionado que o acusado manteve-se calado quando inquirido pelo togado de origem (e-STJ fl. 23), não entendeu comprovada a autoria do delito somente em razão do seu silêncio, apontando provas produzidas tanto no procedimento administrativo tributário quanto no curso da ação penal hábeis a justificar o decreto condenatório.
+    Com efeito, não foi em razão do exercício de seu direito ao silêncio durante o interrogatório judicial que a instância de origem concluiu que o paciente foi autor do delito em questão, o que decorreu da análise de todo o conjunto probatório reunido no feito, notadamente da documentação obtida na ação fiscal contra ele deflagrada, e no depoimento do auditor fiscal que nela atuou, circunstância que afasta a eiva alegada nesta impetração” (fl. 111 – grifei).
+    Nesse contexto, o indicativo de que outras provas foram produzidas no curso da instrução penal, sob o manto do contraditório e da ampla defesa, afastam, por ora, a tese do recorrente de que a materialidade da sua conduta teria sido comprovada somente em razão do seu silêncio constitucional exercido em juízo.
+    Diga-se, ainda, que o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal nem constitui meio adequado para o revolvimento do conjunto fático-probatório, no intuito de se aferir sua suficiência ou insuficiência para a condenação.
+    No mesmo sentido HC nº 125.035/MG, Primeira Turma, de minha relatoria, DJe de 8/4/15; HC nº 111.412/TO, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 14/8/13; HC nº 114.592/MT, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 26/3/13.
+    Com essas considerações, indefiro o pedido de liminar.
+    Por estar devidamente instruído o recurso, dispendo o pedido de informações.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 22 de maio de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
