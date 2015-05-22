@@ -1,0 +1,2 @@
+Autoriza a União a conceder crédito ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e a destinar superávit financeiro das fontes de recursos existentes no Tesouro Nacional à cobertura de despesas primárias obrigatórias e altera as Leis nº 12.096, de 24 de novembro de 2009, nº 10.820, de 17 de dezembro de 2003, nº 8.213, de 24 de julho de 1991, e nº 8.112, de 11 de dezembro de 1990.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
