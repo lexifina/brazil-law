@@ -1,0 +1,29 @@
+DECISÃO
+RECLAMAÇÃO – ACÓRDÃO DO HABEAS CORPUS Nº 10.375 – DESRESPEITO – PROCEDÊNCIA DO PEDIDO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Vanderci Artioli Telles afirma haver o Juízo da 2ª Vara Criminal da Comarca de Bragança Paulista/SP, no Processo nº 749/2003 (0008453-76.2003.8.26.0099), olvidado o pronunciamento relativo ao Habeas Corpus nº 103.375.
+    Segundo narra, a mencionada impetração, por si formalizada, teve a ordem deferida de ofício pela Primeira Turma, para assentar a incidência da previsão do artigo 44 do Código Penal relativamente ao delito de tráfico de entorpecentes, no que admitida a substituição da pena corpórea por restritiva de direitos. Relata a omissão do Órgão reclamado no tocante à observância da decisão, surgindo daí o alegado desrespeito.
+    Não alude ao requisito do risco.
+    Requer o imediato cumprimento do acórdão dito olvidado.
+    O Órgão reclamado, nas informações, destacou o envio do processo à 9ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo para a observância do decidido.
+    Em 12 de agosto de 2013, a reclamante reiterou a informação de descumprimento do paradigma pelo Tribunal de Justiça.
+    O Ministério Público Federal postulou a realização de diligência ante a necessidade de esclarecer se foi, ou não, apreciada a viabilidade de substituição da pena no caso concreto considerado o deferimento da ordem requerida no citado habeas.
+    Em 10 de abril de 2015, o Presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo esclareceu que, “em sessão de julgamento realizada em 01 de agosto de 2013, a Turma julgadora, sem discrepância de votos, negou a substituição da pena corporal por restritiva de direitos.” Encaminhou a reprodução do respectivo acórdão.
+    O Ministério Público Federal opina pela procedência do pedido. Entende olvidado o paradigma porquanto o Órgão reclamado teria afastado a possibilidade de substituição da pena com base tão somente nas vedações legais vinculadas à natureza do delito.
+    O processo está concluso no Gabinete.
+    2. Percebam as balizas do caso concreto. A reclamante, condenada pela prática do delito previsto no artigo 12, combinado com o 18, inciso III, ambos da Lei nº 6.368/76 (tráfico ilícito de entorpecentes), impetrou habeas corpus perante o Supremo, autuado sob o nº 103.375, de minha relatoria. Ao julgá-lo, na sessão realizada em 6 de novembro de 2012, a Primeira Turma implementou a ordem de ofício nos termos da seguinte ementa (publicada no Diário da Justiça eletrônico de 10 de dezembro de 2012):
+    HABEAS CORPUS – JULGAMENTO POR TRIBUNAL SUPERIOR – IMPUGNAÇÃO. A teor do disposto no artigo 102, inciso II, alínea “a”, da Constituição Federal, contra decisão, proferida em processo revelador de habeas corpus, a implicar a não concessão da ordem, cabível é o recurso ordinário. Evolução quanto à admissibilidade do substitutivo do habeas corpus.
+    TRÁFICO DE ENTORPECENTES – SUBSTITUIÇÃO DA PENA RESTRITIVA DA LIBERDADE – PRECEDENTES DO PLENÁRIO – IMPLEMENTO DE ORDEM DE OFÍCIO. Ante o que decidido pelo Plenário no julgamento do Habeas Corpus nº 104.339/SP, há de implementar-se a ordem de ofício a fim de que o Juízo aprecie a possibilidade de substituição da pena privativa da liberdade pela de restrição a direitos.
+    Argui o desrespeito ao decidido no citado habeas porquanto, embora deferida a ordem, o Órgão reclamado não teria examinado, no caso, a presença dos requisitos necessários à substituição da pena corpórea por restritiva de direitos.
+    Procede a irresignação. A leitura do ato reclamado revela a inobservância apontada. Consoante se verifica, com o deferimento da impetração, o processo foi reapreciado pela 9ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo. Apesar de ter consignado o acolhimento da “recomendação” do Supremo, veio a afastar, de forma categórica, sem a análise dos requisitos versados no artigo 44 do Código Penal, a substituição da pena privativa de liberdade. Confiram os seguintes fundamentos lançados:
+    A substituição da pena corporal por restritivas de direitos não se mostra cabível, suficiente e socialmente recomendável ante a natureza do delito, ainda equiparado a hediondo, além do regime prisional imposto (fechado), que impede a execução da aludida substituição.
+    Tal posicionamento em nada fere recente decisão do Excelso Pretório amparando a substituição, visto que a mesma foi tomada por maioria apertada (6x4).
+    De forma idêntica, a Resolução n° 05/12, do Senado Federal, também não obsta aquele posicionamento, visto que o artigo 44, “caput”, da Lei de Tóxicos permanece íntegro.
+    [...]
+    Assim, acolhe-se a recomendação do Colendo Supremo Tribunal Federal para NEGAR a substituição da pena carcerária estabelecida a VANDERCI ARTIOLI TELLES por restritiva de direitos.
+    Nada, absolutamente nada, autoriza o descumprimento do que determinado pelo Supremo no acórdão dito olvidado e, até mesmo, o revolvimento, pelo Tribunal de Justiça, das razões nele consignadas. Ao implementar a ordem de ofício, a Primeira Turma assentou, a partir da óptica firmada no Habeas Corpus nº 104.339/SP, a incidência do artigo 44 do Código Penal relativamente ao Processo-Crime nº 749/2003, no qual a reclamante veio a ser condenada pela prática do crime de tráfico ilícito de entorpecentes.
+    3. Ante o quadro, julgo procedente o pedido formulado nesta reclamação para cassar o acórdão formalizado, na Apelação nº 9139637-37.2005.8.26.0000, pela 9ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo e determinar a reapreciação do caso concreto, no tocante à incidência do artigo 44 do Código Penal, de acordo com o decidido no Habeas Corpus nº 103.375.
+    4. Publiquem.
+Brasília, 22 de maio de 2015.
+Ministro MARCO AURÉLIO
+Relator
