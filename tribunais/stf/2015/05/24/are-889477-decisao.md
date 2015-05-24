@@ -1,0 +1,33 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CONVOCAÇÃO DE CANDIDATO APENAS POR DIÁRIO OFICIAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra a seguinte decisão da Sexta Turma do Tribunal Regional Federal da Primeira Região:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL RODOVIÁRIO FEDERAL. CURSO DE FORMAÇÃO. PREVISÃO DE CONVOCAÇÃO DE CANDIDATOS CLASSIFICADOS NO NÚMERO DE VAGAS. CANDIDATO CLASSIFICADO FORA DESSE LIMITE. CONVOCAÇÃO POR EDITAL. PERDA DO PRAZO PARA A MATRÍCULA NO CURSO DE FORMAÇÃO. MANDADO DE SEGURANÇA. CONCESSÃO.
+    1. Estabelecendo o Edital do concurso, no item 13.1.1, a forma de convocação dos candidatos classificados no número de vagas oferecidas, deixando de disciplinar a forma de convocação dos candidatos classificados fora desse limite, fazendo-os supor, em razão da determinação de que deveriam manter atualizados os seus dados cadastrais (item 18.11), que a convocação se daria por meio de comunicação direta, e não por edital, não pode o impetrante ser prejudicado pelo não-atendimento, no prazo fixado nesse edital de convocação.
+    2. Ademais, tendo a convocação do impetrante observado estritamente a ordem classificatória do certame, não há falar em ofensa ao princípio da isonomia.
+    3. Considerando, por outro lado, que o impetrante realizou, com êxito, o Curso de Formação, sendo nomeado para exercer o cargo, consolidou-se situação de fato cuja desconstituição não se recomenda.
+    4. Sentença confirmada.
+    5. Apelação e remessa oficial, tida por interposta, desprovidas”.
+    Os embargos declaratórios opostos foram rejeitados.
+    2. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a incidência da súmula n. 279 do Supremo Tribunal Federal.
+    3. A Agravante argumenta que,
+     “no presente caso, a irresignação da recorrente não se dirige à simples interpretação dos fatos, mas especificamente, à violação do texto constitucional no que se refere ao princípio da igualdade, contido no art. 5º, caput, bem como, ao disposto no art. 37, incs. I e II, da CF/88.
+    A afronta aos supramencionados dispositivos constitucionais resta clara e evidente. Ao permitir a continuidade do candidato recorrido no certame, a despeito sua eliminação por não ter atendido à convocação para a matrícula no Curso de Formação Profissional, realizada através de publicação no Diário Oficial, inegável que o acórdão impugnado contrariou tanto o art. 5º, caput, quanto o art. 37, II, da CRFB/88.
+    Ora, para a análise da violação aos dispositivos acima referidos não seria necessário reexaminar provas”.
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 5º, caput, e 37, incs. I e II, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos postos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    O Desembargador Relator do caso afirmou:
+    “se a Administração não estabeleceu no edital os critérios para a convocação dos candidatos aprovados em número superior ao das vagas oferecidas, mas dispôs que mantivessem seus endereços atualizados (item 18.11 – fl. 23), fazendo presumir que seriam convocados por correspondência direta, não pode exigir, como pretende a apelante, que o interessado acompanhasse ‘as publicações oficiais referentes ao seu concurso’ (fl. 154), pois não constou do edital qualquer disposição nesse sentido, mas, ao contrário, que ‘os candidatos que forem classificados além do limite de vagas previsto neste edital não terão assegurado o direito de matrícula no Curso de Formação Profissional, mas apenas a expectativa desse direito segundo a rigorosa ordem classificatória, ficando condicionada à oportunidade e à conveniência da Administração, respeitada a legislação vigente’ (subitem 13.1.2 – fl. 76v)”.
+    A apreciação do pleito recursal dependeria do reexame de provas e de cláusulas de edital, procedimento inviável em recurso extraordinário, nos termos das Súmulas ns. 279 e 454 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CONVOCAÇÃO DE CANDIDATO APENAS POR DIÁRIO OFICIAL. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 669.689-AgR, de minha relatoria, Primeira Turma, DJe 16.5.2012).
+    “Agravo regimental em recurso extraordinário com agravo 2. Concurso público. Escrivão de polícia civil. Controvérsia acerca da adequada forma de convocação de candidato para participar de fase seguinte do certame. Acórdão recorrido que, ao analisar todos os elementos de fato e de prova, entendeu não ser razoável a convocação apenas por diário oficial. 3. Impossibilidade de reexame do conjunto fático-probatório, bem como das normas do edital pertinente ao caso. Verbetes 279 e 454 da Súmula desta Corte. Precedentes. 4. Ausência de argumentos suficientes para infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento” (ARE 647.064-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 11.10.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CONVOCAÇÃO. 1. ALEGADA CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA CONSTITUCIONAL INDIRETA. 2. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 764.005-AgR, de minha relatoria, Segunda Turma, DJe 24.10.2013).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, pelo que nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de maio de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
