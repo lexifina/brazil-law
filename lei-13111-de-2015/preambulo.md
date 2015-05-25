@@ -1,0 +1,2 @@
+Dispõe sobre a obrigatoriedade de os empresários que comercializam veículos automotores informarem ao comprador o valor dos tributos incidentes sobre a venda e a situação de regularidade do veículo quanto a furto, multas, taxas anuais, débitos de impostos, alienação fiduciária ou quaisquer outros registros que limitem ou impeçam a circulação do veículo.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
