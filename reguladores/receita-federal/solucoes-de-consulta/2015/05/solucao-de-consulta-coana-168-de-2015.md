@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 168, de 8 de maio de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 2941.90.92 Mercadoria: Fumarato de Tiamulina (antibiótico) em pó, apresentado isoladamente, com pureza de 98% ou mais, CAS number 55297-96-6, acondicionado em tambores de 25 kg, próprio para fabricação de medicamento de uso veterinário. DISPOSITIVOS LEGAIS: RGI 1 (Nota 1 c) do Capítulo 29 e texto da posição 29.41), RGI 6 (texto da subposição 2941.90) e RGC 1 (textos do item 2941.90.9 e do subitem 2941.90.92) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 2941.90.92 Mercadoria: Fumarato de Tiamulina (antibiótico) em pó, apresentado isoladamente, com pureza de 98% ou mais, CAS number 55297-96-6, acondicionado em tambores de 25 kg, próprio para fabricação de medicamento de uso veterinário.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 1 c) do Capítulo 29 e texto da posição 29.41), RGI 6 (texto da subposição 2941.90) e RGC 1 (textos do item 2941.90.9 e do subitem 2941.90.92) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011.
+MARCO ANTÔNIO RODRIGUES CASADO Presidente da 5ª Turma
