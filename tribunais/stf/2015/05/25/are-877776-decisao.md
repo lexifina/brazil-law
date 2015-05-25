@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, no tocante à observância da “teoria do fato consumado”, não há identidade com o assentado no Recurso Extraordinário nº 608.482, porquanto inexistente posse de candidato não aprovado em concurso público por força de decisão de natureza provisória. Eis o teor da ementa do citado precedente:
+    CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO REPROVADO QUE ASSUMIU O CARGO POR FORÇA DE LIMINAR. SUPERVENIENTE REVOGAÇÃO DA MEDIDA. RETORNO AO STATUS QUO ANTE. “TEORIA DO FATO CONSUMADO”, DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA E DA SEGURANÇA JURÍDICA. INAPLICABILIDADE. RECURSO PROVIDO. 1. Não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção no cargo, sob fundamento de fato consumado, de candidato não aprovado que nele tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, supervenientemente revogado ou modificado. 2. Igualmente incabível, em casos tais, invocar o princípio da segurança jurídica ou o da proteção da confiança legítima. É que, por imposição do sistema normativo, a execução provisória das decisões judiciais, fundadas que são em títulos de natureza precária e revogável, se dá, invariavelmente, sob a inteira responsabilidade de quem a requer, sendo certo que a sua revogação acarreta efeito ex tunc, circunstâncias que evidenciam sua inaptidão para conferir segurança ou estabilidade à situação jurídica a que se refere. 3. Recurso extraordinário provido.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 25 de maio de 2015.
+Ministro MARCO AURÉLIO
+Relator
