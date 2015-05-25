@@ -1,0 +1,18 @@
+Vistos etc.
+    Trata-se de mandado de segurança, com pedido de liminar, impetrado por Jean Louis Maia Dias contra ato praticado pelo Conselho Nacional de Justiça.
+    O impetrante é juiz substituto do Estado do Mato Grosso e alega ter sido surpreendido pela invalidação da portaria que o designara para atuar na Comarca de Porto dos Gaúchos, em cumulação com a 2ª Vara da Comarca de Juara-MT, para que estas fossem assumidas por juíza titularizada em comarca diversa, onde estaria a sofrer ameaças. Designado para comarca distante, requisitou audiência com o Presidente do Tribunal de Justiça do Estado do Mato Grosso para expor seu ponto de vista acerca da questão, mas a iniciativa restou infrutífera. No curso de licença de quinze dias para trânsito, o impetrante ofertou Procedimento de Controle Administrativo perante o CNJ, com pedido de liminar, ao argumento de que o TJ/MT estaria desrespeitando precedente do Supremo Tribunal Federal (MS nº 27.958/MT) segundo o qual a garantia da inamovibilidade seria aplicável também aos juízes substitutos, dentro de sua unidade judiciária. O Conselheiro relator, contudo, indeferiu a liminar pleiteada.
+    Nesta oportunidade, reiterou os argumentos referentes ao pleito de extensão do entendimento firmado pelo precedente desta Suprema Corte à hipótese dos autos.
+    Os pedidos foram assim deduzidos:
+    “ – conceder liminarmente a segurança para o fim de sustar os efeitos da r. decisão proferida nos autos do P.C.A. nº 0000486-87.2015.2.00.0000, da relatoria do Exmo. Conselheiro impetrado, que indeferiu liminar naquele procedimento, deferindo-a, afinal, comunicando imediatamente a Digna Autoridade Impetrada e a Presidência do Tribunal de Justiça, para as providências respectivas de retorno do impetrante à jurisdição da Comarca de Porto dos Gaúchos-MT cumulativamente com a 2ª Vara da Comarca de Juara-MT;
+    (...)
+    - Conceder integralmente a segurança, ratificando a liminar, para o fim de assegurar ao impetrante o direito de não ser removido da jurisdição da Comarca de Porto dos Gaúchos cumulativa com a 2ª Vara da Comarca de Juara, mercê dos dispositivos constitucionais e legais mencionados no introito, bem como do posicionamento do E. Supremo Tribunal Federal e do Conselho Nacional de Justiça sobre o tema, restaurando em sua inteireza a Portaria nº 396/2014-PRES., sufrágio de proteção e restabelecimento de direito líquido e certo do impetrante, de não receber tratamento diferenciado dos demais magistrados quanto à inamovibilidade, conforme cláusula constitucional dos arts. 93 e 95, bem como precedente desta E. Corte no MS 27.958/MT” (inicial, fl. 21).
+    Em 09.3.2015, o impetrante ofereceu aditamento à inicial, sem alterar substancialmente o teor das alegações. Dois dias depois, relatou a superveniência de julgamento de mérito pela improcedência do pedido, em decisão monocrática do Conselheiro relator. Diante da alteração do quadro fático, passou a alegar a nulidade da decisão monocrática, porque só haveria autorização regimental para tal providência quando procedente o pedido. Sustenta, ainda, que o Conselheiro relator fundamentou sua decisão no mesmo precedente do CNJ revisado pelo STF, no julgamento do MS nº 27.958/DF.
+    Em 25.5.2015, o impetrante requereu a desistência da impetração (doc. 39).
+    É o relatório.
+    Decido.
+    No julgamento do RE 669.367/RJ, o Pleno do Supremo Tribunal Federal reiterou jurisprudência no sentido de que a desistência do mandado de segurança é cabível, a qualquer tempo.
+    Diante do exposto, homologo o pedido de desistência da ação.
+    Publique-se. Após, arquive-se.
+    Brasília, 25 de maio de 2015.
+Ministra Rosa Weber
+Relatora
