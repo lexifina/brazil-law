@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto contra acórdão do Colegiado Recursal dos Juizados Especiais do Espírito Santo que, em ação indenizatória, entendeu configurados danos morais por falha na prestação de serviço em decorrência de interrupção indevida no fornecimento de água.
+    2. O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional discutida no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto nos artigos 102, § 3º, da CF e 543-A, § 2º, do CPC, alegações genéricas a respeito do instituto, como a mera afirmação de que (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação a dispositivo constitucional; ou, ainda, (e) há jurisprudência pacífica desta Corte quanto ao tema discutido. Nesse sentido: ARE 691.595 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR/MG, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Ora, no caso, a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nos moldes exigidos pela jurisprudência do STF.
+    3. Ademais, a análise da afronta ao art. 37, § 6º, da Constituição Federal demanda o reexame das provas constantes dos autos, incidindo o óbice da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    4. Diante do exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 26 de maio de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
