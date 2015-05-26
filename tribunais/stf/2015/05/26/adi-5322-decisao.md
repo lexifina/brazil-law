@@ -1,0 +1,11 @@
+Despacho: Trata-se de ação direta de inconstitucionalidade, com pedido de cautelar, promovida pela Confederação Nacional dos Trabalhadores em Transporte Terrestre – CNTTT – em face da Leis federais 12.619, de 30 de abril de 2012, e 13.103, de 2 de março de 2015, que regulamentaram o exercício da profissão de motorista e alteraram normas da Consolidação das Leis do Trabalho – CLT.
+    Inicialmente, a inicial projeta críticas contra o alcance dessas leis, contestando sua limitação apenas a motoristas de transporte rodoviário coletivo, prevista pelo art. 6º da Lei 13.103/15, sob o argumento de que representaria retrocesso social violador dos arts. 1º, IV, 5º, XIII, 7º, XXII e XXXIV, 170 e 193 da CF. Contesta-se a previsão de realização de exame toxicológico, instituída pelos §§ 6º e 7º do art. 5º da Lei 13.103/15, na consideração de que traduziria tratamento normativo arbitrário, pois submeteria apenas os motoristas profissionais.
+    No mais, a inicial enfeixa uma série de impugnações contra dispositivos das leis impugnadas que alteraram normas sobre jornada de trabalho, fruição de intervalos, remuneração extraordinária, saúde e segurança no trabalho, entre outras, sob o fundamento de que essas inovações teriam desconsiderado garantias mínimas hospedadas nos incisos do art. 7º da Constituição Federal, do que resultaria sua invalidade. Por fim, argumenta-se que a conversão de penalidades aplicadas anteriormente em sanções mais brandas, na forma do art. 22 da Lei 13.103/15, violaria a ideia de impessoalidade e isonomia contida no art. 150, II, da CF.
+    Diante da relevância da matéria constitucional suscitada e de seu especial significado para a ordem social e a segurança jurídica, mostra-se adequada a adoção do rito do art. 12 da Lei 9.868, de 10 de novembro de 1999, razão pela qual determino:
+    a) solicitem-se as informações definitivas, a serem prestadas no prazo de 10 (dez) dias; e
+    b) em seguida, remetam-se os autos ao Advogado-Geral da União e ao Procurador-Geral da República, sucessivamente, no prazo de 5 (cinco) dias, para a devida manifestação.
+    Publique-se. Intime-se.
+    Brasília, 26 de maio de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
