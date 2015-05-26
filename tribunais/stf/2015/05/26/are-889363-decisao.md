@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO DE RENDA. ISENÇÃO. PORTADOR DE NEOPLASIA MALIGNA. INTEMPESTIVIDADE DO AGRAVO. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado, verbis:
+    “APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. REPETIÇÃO DE INDÉBITO. SERVIDOR PÚBLICO MUNICIPAL APOSENTADO PORTADOR DE NEOPLASIA MALIGNA. PRELIMINAR DE ILEGITIMIDADE PASSIVA DO MUNICÍPIO DE BELO HORIZONTE. REJEIÇÃO. LEI FEDERAL Nº 7.713/88. DIREITO À ISENÇÃO DO IMPOSTO DE RENDA. DIAGNÓSTICO DA DOENÇA. COMPROVAÇÃO EM LAUDO MÉDICO OFICIAL. DESNECESSIDADE. IRRELEVÂNCIA DA CONTEMPORANEIDADE DOS SINTOMAS DA MOLÉSTIA PARA O RECONHECIMENTO DA BENESSE. RECURSO DESPROVIDO. CONSECTÁRIOS LEGAIS. SENTENÇA PARCIALMENTE REFORMADA NO REEXAME NECESSÁRIO.
+    1. Conforme a jurisprudência iterativa do Superior Tribunal de Justiça, conquanto a competência para a instituição do imposto sobre renda incumba à União (art. 153, III, da CF), quando o produto da arrecadação do tributo for destinado a ente diverso, na forma dos arts. 157, I, e 158, I, ambos da CF, recairá sobre o respectivo Estado-membro, Município, ou ao Distrito Federal, a legitimidade para figurar no pólo passivo das ações propostas por servidores públicos de seus quadros, visando ao reconhecimento do direito à isenção ou à repetição do indébito relativo aos valores a tal título retidos na fonte.
+    2. Nos termos do art. 6º, XIV, da Lei nº 7.713/88, os proventos de aposentadoria do portador de neoplasia maligna são isentos do imposto de renda.
+    3. O Superior Tribunal de Justiça consolidou entendimento de que, não obstante o art. 30 da Lei nº 9.250 exigir documento oficial para fins de isenção do imposto de renda em casos de moléstia grave, nada impede que o julgador, com base em outros elementos probatórios, oriente sua convicção no sentido de que eles bastem para ensejar o direito do contribuinte à isenção. Precedentes: AgRg no AREsp 198.795/PE, Rel. Ministro CASTRO MEIRA, DJe 09/04/2013; AgRg no REsp 1233845/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 16/12/2011.
+    4. Tendo em vista que a ratio essendi do art. 6º, XIV, da Lei nº 7.713/88, consiste em diminuir o sacrifício do portador de moléstias graves, aliviando os encargos financeiros relativos ao acompanhamento médico e à aquisição dos fármacos ministrados, em atenção ao princípio da dignidade da pessoa humana (art. 1º, III, da CF), não se afigura razoável concluir que o reconhecimento da benesse se limita à fase de contemporaneidade dos sintomas da doença, cujo monitoramento, no mais das vezes, perdura pelo resto da vida do paciente. Precedentes do STJ.
+    5. A disciplina do art. 1º-F da Lei nº 9.494/97 não se aplica à repetição do indébito tributário, que, no tocante aos juros, por questões de simetria, o índice deverá ser igual ao que incide sobre os correspondentes débitos pagos com atraso pelo contribuinte.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 153, III, e 158, I, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que demandaria o reexame de provas e da legislação infraconstitucional de regência.
+    O Superior Tribunal de Justiça negou seguimento ao agravo no recurso especial.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar, uma vez que intempestivo.
+    O prazo para a interposição de agravo contra decisão que inadmite recurso extraordinário é de 20 (vinte) dias, a teor do disposto no caput do artigo 544 combinado com o artigo 188, ambos do Código de Processo Civil.
+    O Município foi intimado da decisão agravada em 28/11/2014 (fl. 321), tendo sido iniciada a contagem do prazo recursal em 1º/12/2014 entretanto, a petição de agravo somente foi protocolada em 21/1/2015 (fl. 342), após o transcurso do prazo recursal.
+    Ex positis, NÃO CONHEÇO do agravo.
+    Publique-se.
+    Brasília, 26 de maio de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
