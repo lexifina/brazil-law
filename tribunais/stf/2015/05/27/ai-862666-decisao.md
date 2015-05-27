@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Minas Gerais, assim ementado no que interessa:
+    “APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. CONCURSO PÚBLICO. INGRESSO NA POLÍCIA MILITAR DO ESTADO DE MINAS GERAIS. EXAME PSICOLÓGICO ELIMINATÓRIO. PREVISÃO EM LEI LOCAL E NO EDITAL. ELIMINAÇÃO DE CANDIDATO. ATO ADMINISTRATIVO VÁLIDO. RECURSO NÃO PROVIDO (…).” (fl. 72)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 5º, XXXV e LV; 37, caput, I e II; e 93, IX, todos do texto constitucional.
+    Alega-se, em síntese, que o exame psicológico realizado no concurso público foi realizado com base em critérios subjetivos e, também, que as exigências especificadas no referido exame não encontram amparo em lei adequada para tal, isto é, lei complementar, consoante exige a Constituição Estadual.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que o Tribunal de origem decidiu a controvérsia à luz da legislação local aplicável, qual seja: Leis Estaduais 5.301/1969 e 14.445/2002 e Lei Complementar Estadual 50/1998, concluindo que a avaliação psicológica realizada no concurso público ora em exame está em acordo com as disposições legais pertinentes, encontra previsão no edital do certame e adotou critérios objetivos para a avaliação do perfil psicológico adequado às peculiaridades do cargo a ser ocupado.
+    Por sua vez, o agravante sustenta a inadequação formal da legislação que prevê a realização do exame psicológico.
+    Ocorre que, uma vez assentada a adequação da referida norma pela instância ordinária, esta Corte, para dissentir do referido posicionamento, não prescinde da prévia análise e interpretação da legislação local aplicável, o que obsta o prosseguimento deste recurso extraordinário, tendo em vista que eventual ofensa à Constituição Federal, se existente, dar-se-ia de maneira reflexa ou indireta, consoante o disposto no Enunciado 280 da Súmula desta Corte.
+    Nesse sentido, confira-se o RE-AgR 612.821, Rel. Min. Ayres Britto, Segunda Turma, DJe 1º.6.2011, a seguir ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. POLÍCIA MILITAR DO DISTRITO FEDERAL. 1. EXAME PISCOTÉCNICO. LEGALIDADE. 2. INCONSTITUCIONALIDADE DO § 1º DO ART. 117 DA LEI ORGÂNICA DO DF. 3. REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL APLICADA. OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO FEDERAL.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o exame psicotécnico é de: a) estar previsto em lei (Súmula 686/STF; RE 294.633-AgR, sob a relatoria do ministro Carlos Velloso; AI 510.524, sob a relatoria do ministro Gilmar Mendes); b) ser pautado em critérios objetivos (RE 243.926, sob a relatoria do ministro Moreira Alves); c) viabilizar a recorribilidade de seus resultados (AI 265.933-AgR, sob a relatoria do ministro Sepúlveda Pertence; AI 467.616-AgR, sob a relatoria do ministro Celso de Mello; e RE 326.349-AgR, sob a relatoria do ministro Gilmar Mendes).
+    2. De mais a mais, esta nossa Casa de Justiça, no julgamento da ADI 1.045, da relatoria do ministro Marco Aurélio, declarou a inconstitucionalidade do § 1º do art. 117 da Lei Orgânica do Distrito Federal. Pelo que não mais subsiste fundamento legal a amparar a exigência do exame.
+    3. Não bastasse, incide a Súmula 280/STF.
+    Agravo regimental desprovido.”
+    Ademais, também o Tribunal de origem, com base em análise das normas editalícias e dos fatos e provas analisados, concluiu que houve adoção de critérios objetivos na avaliação psicotécnica dos candidatos, razão pela qual a revisão do referido posicionamento por esta Corte demandaria a revolvimento do conjunto fático-probatório dos autos, bem como o reexame das cláusulas editalícias, providências vedadas no âmbito deste apelo extremo, a teor dos Enunciados 279 e 454 da Súmula de Jurisprudência desta Corte.
+    Nesse sentido, confira-se o ARE-AgR 684.298, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 14.9.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. 1. Impossibilidade de análise de cláusulas de edital e de legislação infraconstitucional. Ofensa constitucional indireta. 2. Necessidade de reexame de provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 3. Agravo regimental ao qual se nega provimento.”
+     Ante o exposto, conheço do presente agravo para negar seguimento seguimento ao recurso extraordinário. (art. 557, caput , do CPC).
+    Publique-se.
+    Brasília, 27 de maio de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
