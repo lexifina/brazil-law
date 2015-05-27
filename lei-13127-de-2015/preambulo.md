@@ -1,0 +1,2 @@
+Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, para eximir as entidades de autogestão constituídas sob a forma de fundação, de sindicato ou de associação da obrigação de constituir pessoa jurídica independente, especificamente para operar planos privados de assistência à saúde.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
