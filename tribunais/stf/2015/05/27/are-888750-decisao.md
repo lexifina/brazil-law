@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “APELAÇÃO. OBRIGAÇÃO DE FAZER C/C COBRANÇA. SERVIDOR DO PODER JUDICIÁRIO ESTADUAL. Pleito autoral que visa ao pagamento dos valores correspondentes à diferença do reajuste de 24% (vinte e quatro por cento) sobre a remuneração da parte autora, bem como o pagamento das diferenças referentes ao quinquênio que antecedeu o ajuizamento da ação. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELO DO ESTADO-RÉU. Afastada a prescrição. Configurado o trato sucessivo. Aplicação da súmula nº 85 do STJ. Ofensa ao princípio da isonomia. Tese superada pela Declaração de Inconstitucionalidade do art. 5º, da Lei Estadual nº 1.206/87. O Supremo Tribunal Federal, ao analisar o alcance da súmula nº 339, no julgamento do RE 584343-QO-RG, firmou entendimento quanto ao cabimento da extensão de reajuste remuneratório, quando previsto com caráter geral a todo o funcionalismo. Pagamento dos valores referentes à diferença sobre os vencimentos, respeitado o prazo quinquenal pleiteado pela autora na exordial. Precedentes do E. STJ e desta E. Corte. IMPROVIMENTO DO RECURSO DO ESTADO-RÉU.”
+     O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, caput, X; 39, 1º; 167 , II; e 169, § 1º, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso em razão da incidência da súmula 280/STF.
+    A decisão deve ser mantida, uma vez que está alinhada com a jurisprudência desta Corte. Vejam-se os seguintes precedentes: ARE 805.373-AgR, Rel.ª Min.ª Rosa Weber; ARE 839.271-AgR, Rel. Min. Marco Aurélio; e ARE 803.554-AgR, julgado sob a relatoria do Ministro Teori Zavascki, assim ementado:
+    “ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ESTADO DO RIO DE JANEIRO. REAJUSTE CONCEDIDO PELA LEI ESTADUAL 1.206/87. EXTENSÃO AOS SERVIDORES DO PODER JUDICIÁRIO. POSSIBILIDADE. NATUREZA DE REVISÃO GERAL. INAPLICABILIDADE DA SÚMULA 339/STF. PRECEDENTES. ANÁLISE DE LEI LOCAL. INVIABILIDADE. SÚMULA 280/STF.
+    1. Analisando questão análoga à dos autos, o Plenário do STF, no julgamento do RMS 22.307, Rel. Min. MARCO AURÉLIO, DJ de 13/6/1997, decidiu afastar a aplicação da Súmula 339/STF para estender aos servidores públicos civis o reajuste de 28,86% concedido pelas Leis 8.622/93 e 8.627/93 aos militares.
+    2. Encontra-se em conformidade com a jurisprudência desta Corte o entendimento do Tribunal de origem, que decidiu estender aos servidores públicos do Poder Judiciário o reajuste concedido pela Lei Estadual 1.206/87, por entender que possui caráter geral e finalidade de recompor as perdas decorrentes da inflação.
+    3. Agravo regimental a que se nega provimento.” (ARE 803.554-AgR/RJ)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 27 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
