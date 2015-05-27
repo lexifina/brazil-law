@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso ordinário em mandado de segurança interposto contra decisão que, proferida pelo E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado (fls. 207/208):
+    “MANDADO DE SEGURANÇA. MILITAR. TAIFEIROS DA AERONÁUTICA. PROMOÇÃO. REQUISITOS. PORTARIA R-046/GC1. EFEITOS CONCRETOS. IMPETRAÇÃO FORA DO PRAZO LEGAL. DECADÊNCIA. RECONHECIMENTO.
+    1. O Superior Tribunal de Justiça firmou compreensão de que o prazo decadencial para o ajuizamento da ação mandamental é contado da ciência inequívoca, pelo impetrante, do ato impugnado.
+    2. A impetração está voltada contra os efeitos concretos decorrentes da Portaria nº R-46/CGI, de 10 de fevereiro de 2003, que elevou de quatro para sete anos o intertício para fins de promoção dos Taifeiros para a gradução de Suboficial.
+    3. O ‘writ’, contudo, somente foi impetrado em 19/12/2005, fora do prazo previsto no artigo 18 da Lei nº 1.533/1951, impondo-se seja reconhecida a decadência do direito de impetrar o mandado de segurança.
+    4. Precedentes.
+    5. Processo extinto, com julgamento de mérito (artigo 269, IV, do Código de Processo Civil).”
+    (MS 10.471/DF, Rel. Min. HAROLDO RODRIGUES, Desembargador Convocado do TJ/CE)
+    Sustenta-se, em síntese, na presente sede recursal que (fls. 214):
+    “(...) a decisão ora recorrida é equivocada no que se refere à data da impetração do mandado de segurança, pois, em verdade, o Mandado foi protocolado em 08/03/2005, conforme consta nos próprios autos, e não como consta na decisão.
+    Realmente, se o mandado de segurança tivesse sido impetrado em 19/12/2005, conforme consta na V. Decisão ora recorrida, teria ocorrido a decadência. Todavia, a impetração se deu em 08 de março de 2005, restando, por isso, respeitado o prazo previsto na Lei nº 1.533/51, ou seja, não se operou a decadência, bem como seus efeitos.”
+    A União Federal, em contrarrazões, impugnou a pretensão recursal ora deduzida nesta sede processual (fls. 222/225).
+    O Ministério Público Federal, em promoção da lavra do eminente Dr. PAULO DA ROCHA CAMPOS Subprocurador-Geral da República, opinou pelo provimento do presente recurso ordinário, fazendo-o em parecer do qual destaco o seguinte trecho (fls. 236/237):
+    “Próprio, tempestivo e atendidos os demais requisitos de admissibilidade, pode ser conhecido o recurso que, no mérito, há que ser provido.
+    Com efeito, não obstante a Portaria nº R-46/GC1, de 10/02/2003, ter cuidado da ampliação do interstício para a promoção de taifeiros de 4 para 7 anos, há que se ressaltar o ato contra o qual se insurgem os impetrantes, qual seja, o ‘Quadro de Acesso – Relação Hierárquica dos Sargentos do Quadro de Taifeiros (QTA) cogitados para as promoções de 01 de abril de 2005’, publicado que fora em 30/12/2004. Considerando-se 08/03/2005 como a data da impetração, resta concluir pelo atendimento do prazo legal.”
+    Sendo esse o contexto, passo a examinar a pretensão recursal ora em julgamento. E, ao fazê-lo, entendo assistir razão ao parecer da douta Procuradoria-Geral da República, no ponto em que opina pelo afastamento da decadência no caso ora em análise, cujos termos adoto como fundamento da presente decisão, valendo-me, para tanto, da técnica da motivação “per relationem”, reconhecida como plenamente compatível com o texto da Constituição (AI 738.982/PR, Rel. Min. JOAQUIM BARBOSA – AI 809.147/ES, Rel. Min. CÁRMEN LÚCIA – AI 814.640/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 662.029/SE, Rel. Min. CELSO DE MELLO – HC 54.513/DF, Rel. Min. MOREIRA ALVES – MS 28.989-MC/PR, Rel. Min. CELSO DE MELLO – RE 37.879/MG, Rel. Min. LUIZ GALLOTTI – RE 49.074/MA, Rel. Min. LUIZ GALLOTTI, v.g.):
+    “Reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação ‘per relationem’, que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado – referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir. Precedentes.”
+    (AI 825.520-AgR-ED/SP, Rel. Min. CELSO DE MELLO)
+    Sendo assim, em face das razões expostas, dou provimento ao presente recurso ordinário, para o fim específico de, afastada a decadência, determinar que o E. Superior Tribunal de Justiça prossiga no exame do MS 10.471/DF, julgando-o como entender de direito.
+    Publique-se.
+    Brasília, 27 de maio de 2015.
+Ministro CELSO DE MELLO
+Relator
