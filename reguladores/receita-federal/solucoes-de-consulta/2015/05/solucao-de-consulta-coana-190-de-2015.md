@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 190, de 21 de maio de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3926.90.90 Mercadoria: Martelo de plástico com cabeça de poli(cloreto de vinila) e cabo de polipropileno, comercialmente denominado “Martelo tipo borracha”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.26), RGI 6 (texto da subposição 3926.90) e RGC 1 (texto do item 3926.90.90) constantes da TEC aprovada pela Res. Camex nº 94, de 2011, e da Tipi aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3926.90.90 Mercadoria: Martelo de plástico com cabeça de poli(cloreto de vinila) e cabo de polipropileno, comercialmente denominado “Martelo tipo borracha”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.26), RGI 6 (texto da subposição 3926.90) e RGC 1 (texto do item 3926.90.90) constantes da TEC aprovada pela Res. Camex nº 94, de 2011, e da Tipi aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+CARLOS HUMBERTO STECKEL Presidente da 2ª Turma
