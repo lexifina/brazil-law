@@ -1,0 +1,4 @@
+LEI Nº 13.128, DE 26 DE MAIO DE 2015
+Denomina Ponte Anita Garibaldi a ponte sobre o Canal das Laranjeiras, localizada entre o km 313,1 e o km 315,9 da rodovia BR-101, no Município de Laguna, Estado de Santa Catarina.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDETE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
