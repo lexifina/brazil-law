@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. CRÉDITO DEVIDO PELO ESTADO A PERITOS OFICIAIS. AÇÃO AJUIZADA POR ASSOCIAÇÃO NA CONDIÇÃO DE SUBSTITUTO PROCESSUAL. DECISÃO AGRAVADA QUE DETERMINOU AO ESTADO O PAGAMENTO DEVIDO DISPENSANDO A EXPEDIÇÃO DE PRECATÓRIO. CONSIDERAÇÃO DO VALOR DEVIDO A CADA QUAL DOS CREDORES COMO SENDO OBRIGAÇÃO DE PEQUENO VALOR. INTELIGÊNCIA DO ART. 100, §§ 3º E 8º DA CONSTITUIÇÃO FEDERAL. PREVALÊNCIA DOS PRINCÍPIOS DA EFETIVIDADE E DA ECONOMIA PROCESSUAIS. PARTICULARIZAÇÃO E FRACIONAMENTO DO CRÉDITO RECOMENDÁVEIS. DECISÃO MANTIDA. RECENTÍSSIMO PRECEDENTE DESTA CÂMARA, ALTERANDO ENTENDIMENTO ANTES CONSOLIDADO EM SENTIDO CONTRÁRIO. RECURSO DESPROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 100, § 8º, da Constituição.
+    O recurso extraordinário não deve ser admitido, tendo em vista que o acórdão está de acordo com a jurisprudência do Supremo Tribunal Federal, que, no julgamento do RE 568.645-RG, Rel.ª Min.ª Cármen Lúcia, entendeu que a execução de valores singularizados a integrantes de litisconsórcio facultativo não viola o § 8º, art. 100, da Constituição, que trata da regra de pagamento por meio de precatório. Veja-se, por oportuno, a ementa do referido julgado:
+    “REPERCUSSÃO GERAL. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. VEDAÇÃO CONSTITUCIONAL DE FRACIONAMENTO DE EXECUÇÃO PARA FRAUDAR O PAGAMENTO POR PRECATÓRIO. ART. 100, § 8º (ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA REPÚBLICA. LITISCONSÓRCIO FACULTATIVO SIMPLES. CONSIDERAÇÃO INDIVIDUAL DOS LITISCONSORTES: CONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+    1. Ausência de prequestionamento quanto à alegação de inconstitucionalidade da Resolução n. 199/2005 do Tribunal de Justiça de São Paulo e quanto ao fracionamento dos honorários advocatícios. Incidência das Súmulas 282 e 356.
+    2. A execução ou o pagamento singularizado dos valores devidos a partes integrantes de litisconsórcio facultativo simples não contrariam o § 8º (originariamente § 4º) do art. 100 da Constituição da República. A forma de pagamento, por requisição de pequeno valor ou precatório, dependerá dos valores isoladamente considerados.
+    3. Recurso extraordinário ao qual se nega provimento.”
+    Na espécie, trata-se de execução individual decorrente de ação coletiva, e não de ação com litisconsórcio facultativo. Porém, o caso merece o mesmo tratamento do julgado supracitado, tendo em vista que a lógica da decisão é a mesma, ao concluir que “a execução promovida deve considerar cada litigante autonomamente, sem importar em fracionamento, pois será dado a cada um o que é devido segundo a sentença proferida”. Nesse sentido, cito o RE 700.416-AgR, Rel. Min. Celso de Mello, assim ementado:
+    “RECURSO EXTRAORDINÁRIO TÍTULO JUDICIAL CONSUBSTANCIADOR DE SENTENÇA COLETIVA EFETIVAÇÃO EXECUTÓRIA INDIVIDUAL POSSIBILIDADE JURÍDICA RECURSO DE AGRAVO IMPROVIDO .
+    POSSIBILIDADE DE EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM PROCESSO COLETIVO.
+    - O fato de tratar-se de mandado de segurança coletivo não representa obstáculo para que o interessado, favorecido pela sentença mandamental coletiva, promova , ele próprio, desde que integrante do grupo ou categoria processualmente substituídos pela parte impetrante, a execução individual desse mesmo julgado. Doutrina . Precedentes.”
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de maio de 2015.
+Ministro Luís Roberto Barroso
+Relator
