@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo nos próprios autos, interposto por Isaias de Sousa Marques Oliveira, contra decisão de inadmissibilidade de recurso extraordinário que pretende ver reformado acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, proferido nos autos da Apelação Criminal n. 0024818-72.2013.8.07.0007 e assim ementado (eDOC 3, p. 24-25):
+    “PENAL – APELAÇÃO CRIMINAL - CRIME DE ROUBO CIRCUNSTANCIADO – CONCURSO DE AGENTES – PROVAS DA AUTORIA E DA MATERIALIDADE – CRIME DE CORRUPÇÃO DE MENOR – AUSÊNCIA DE CÓPIA DO DOCUMENTO DE IDENTIDADE – IRRELEVÂNCIA – BIS IN IDEM – NÃO CARACTERIZAÇÃO.
+    1. DEVIDAMENTE COMPROVADA A AUTORIA E A MATERIALIDADE DOS CRIMES DE ROUBO CIRCUNSTANCIADO E CORRUPÇÃO DE MENOR, MANTEM-SE A SENTENÇA CONDENATÓRIA.
+    2. COMPROVADO QUE O CRIME DE ROUBO FOI PRATICADO POR DOIS AGENTES, O FATO DE UM DELES SER MENOR DE IDADE NÃO AFASTA A INCIDÊNCIA DA CAUSA DE AUMENTO DA PENA REFERENTE AO CONCURSO DE AGENTES.
+    3. O CRIME DE CORRUPÇÃO DE MENORES É DE NATUREZA FORMAL, BASTANDO, PARA A SUA CONSUMAÇÃO, A PRÁTICA DO DELITO NA COMPANHIA DO MENOR. É DESNECESSÁRIA A JUNTADA DA CERTIDÃO DE NASCIMENTO, SE A MENORIDADE PODE SER AFERIDA POR OUTROS ELEMENTOS DE PROVA SUFICIENTES E IDÔNEOS A DEMONSTRAR QUE SE TRATA DE PESSOA INIMPUTÁVEL EM RAZÃO DA IDADE, COMO NO CASO EM EXAME.
+    4. NÃO CONFIGURA BIS IN IDEM A INCIDÊNCIA DA CAUSA DE AUMENTO DO CONCURSO DE AGENTES NO DELITO DE ROUBO SEGUIDA DA CONDENAÇÃO PELA CORRUPÇÃO DE MENOR, POIS A TIPIFICAÇÃO DO CRIME DE ROUBO VISA À TUTELA DO PATRIMÔNIO E DA INTEGRIDADE FÍSICA E PSÍQUICA DA PESSOA - QUE O LEGISLADOR REPUTOU AGRAVADA PELO CONCURSO DE PESSOAS, AO PASSO QUE A TIPIFICAÇÃO DO CRIME DE CORRUPÇÃO DE MENORES VISA À TUTELA DA MORALIDADE DA CRIANÇA E DO ADOLESCENTE, OU SEJA, TRATAM-SE DE CRIMES AUTÔNOMOS E INDEPENDENTES. PRECEDENTES.
+    5. RECURSO CONHECIDO E NÃO PROVIDO.”
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que não há conjunto probatório hábil a fundamentar a condenação do réu pelo crime de corrupção de menores e sustenta-se a dupla valoração do concurso de agentes como qualificadora e como crime de corrupção de menores (eDOC 3, p. 91-99).
+    O Tribunal a quo não admitiu o recurso por deficiência na fundamentação e por ofensa reflexa à Constituição Federal (eDOC 3, p. 114/eDOC 4, p. 1-4).
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário e refuta os fundamentos da decisão recorrida.
+    Decido.
+    Inicialmente, verifico, na petição do recurso extraordinário, a ausência de preliminar formal e fundamentada de repercussão geral, pressuposto de admissibilidade do recurso (art. 543-A, § 2º, do CPC).
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 6.9.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 3.5.2007, data da publicação da Emenda Regimental n. 21 do STF, o que ocorre no presente caso.
+    Ademais, examinando as razões expendidas tanto no agravo quanto no próprio extraordinário interposto, necessário concluir inexistirem quaisquer argumentos aptos a permitir o conhecimento da controvérsia devido à manifesta ausência de fundamentação, fazendo incidir o enunciado nº 284 da Súmula do STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir exata compreensão da controvérsia).
+    Cinge-se o recorrente a citar dispositivos infraconstitucionais que entende ofendido sem, contudo, apontar razões concretas pelas quais assim conclui. Deixa de indicar qual trecho da decisão, qual providência adotada pelo Tribunal de Justiça, qual entendimento, afinal, vai de encontro à Constituição Federal.
+    Não obstante, cumpre ressaltar que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Por último, para se entender de forma diversa do consubstanciado nos autos e reconhecer a absolvição do recorrente, seria necessária a reanálise da instrução probatória, providência vedada no âmbito do recurso extraordinário, tendo em vista o disposto na Súmula 279 do STF.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, inciso II, alínea a, do CPC).
+    Publique-se. Int..
+    Brasília, 27 de maio de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
