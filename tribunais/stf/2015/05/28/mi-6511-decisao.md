@@ -1,0 +1,20 @@
+DECISÃO:
+Ementa: MANDADO DE INJUNÇÃO. VPNI DECORRENTE DA LEI Nº 9.527/1997. REAJUSTE. PARCELA QUE SEGUE A REVISÃO GERAL ANUAL DOS SERVIDORES PÚBLICOS.
+1. A VPNI, decorrente da extinção da incorporação de quintos/décimos, segue a revisão geral anual dos servidores públicos (art. 15, § 1º, da Lei nº 9.527/1997).
+2. A jurisprudência do Supremo Tribunal Federal se firmou no sentido de que, com a edição das Leis nº 10.331/2001 e 10.697/2003, restou regulamentado o art. 37, X, da CF/88. Não há, portanto, omissão legislativa.
+3. Writ a que se nega seguimento.
+    1. Trata-se de mandado de injunção, impetrado por servidores do Tribunal de Contas da União – TCU, que alegam a existência de omissão legislativa quanto à revisão anual de toda a remuneração dos servidores, prevista no art. 37, X, da Constituição. Afirmam que a parcela remuneratória denominada Vantagem Pessoal Nominalmente Identificada – VPNI, decorrente da extinção da incorporação de quintos/décimos (Lei nº 9.527/1997), encontra-se congelada desde o último reajuste, previsto na Lei nº 11.383/2006.
+    2. É o relatório. Decido.
+    3. Dispenso as informações, por considerar o feito suficientemente instruído, bem como o parecer ministerial, por se tratar de matéria conhecida do Plenário desta Corte (RI/STF, art. 52, p. único).
+    4. O reajuste da VPNI em apreço segue a revisão geral anual dos servidores públicos (art. 15, § 1º, da Lei nº 9.527/1997). A jurisprudência do STF se firmou no sentido de que, com a edição das Leis nºs 10.331/2001 e 10.697/2003, restou regulamentado o art. 37, X, da Constituição. Dessa forma, como a “falta de norma regulamentadora” (CF/88, art. 5º, LXXI) é pressuposto de admissibilidade do mandado de injunção, presente a regulamentação ordinária, não se pode conceder a ordem. É igualmente pacífico que a eventual inefetividade ou limitação da norma legal é insuscetível de debate nesta sede. Veja-se:
+    “MANDADO DE INJUNÇÃO. REVISÃO GERAL ANUAL. ART. 37, X, DA CONSTITUIÇÃO FEDERAL, EXISTÊNCIA DE LEI REGULAMENTADORA. DESCABIMENTO DO MANDADO DE INJUNÇÃO. AGRAVO DESPROVIDO.
+    1. Segundo a jurisprudência do STF, a existência, ainda que superveniente, de norma regulamentadora do direito constitucional pretendido leva à perda do objeto do mandado de injunção. A Lei 10.331/2001 regulamentou o art. 37, X, da Constituição, conferindo-lhe eficácia plena, e está em vigor desde 19 de dezembro de 2001. Posteriormente, a Lei 10.697/2003 também cumpriu o dispositivo constitucional. Ainda, o mandado de injunção não é o meio processual adequado para questionar a efetividade e a abrangência da lei regulamentadora. Fundamentos observados pela decisão agravada. Apresentação de novos argumentos e pedido de efeitos infringentes.
+    2. Agravo regimental desprovido.” (MI 4409 AgR-ED-AgR/DF, Rel. Min. Teori Zavascki)
+    5. Na mesma linha: MI 1.903, Rel. Min. Luiz Fux; MI 2.411, Rel. Min. Rosa Weber; MI 1.872, Rel. Min Cármen Lúcia; MI 2.513, Rel. Min. Joaquim Barbosa; MI 693, Rel. Min. Gilmar Mendes.
+    6. A propósito, consigno meu entendimento pessoal, expresso no RE 565.089, Rel. Min. Marco Aurélio, com julgamento em repercussão geral ainda não concluído, no sentido de que o art. 37, X, da Constituição não deve ser utilizado para indexar a economia, não sendo violado quando o Poder Executivo justifica ao Congresso a impossibilidade de conceder uma revisão geral anual.
+    7. Por fim, como reconhece a própria inicial, a VPNI ainda foi reajustada, no percentual de 15%, pela Lei nº 11.383/2006, que alterou a remuneração dos servidores integrantes do quadro de pessoal do TCU. Além disso, os impetrantes integram categoria contemplada por reajuste salarial concedido para os anos de 2013, 2014 e 2015 (Lei nº 12.776/2012).
+    8. Diante do exposto, com base no art. 10 da Lei nº 12.016/2009, c/c o art. 24, parágrafo único, da Lei nº 8.038/1990, e no art. 21, § 1º, do RI/STF, nego seguimento ao mandado de injunção.
+    Publique-se.
+          Brasília, 28 de maio de 2015
+Ministro LUÍS ROBERTO BARROSO
+Relator
