@@ -1,0 +1,19 @@
+Decisão: 1. Trata-se de habeas corpus impetrado contra decisão da Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 288.999/SP. Consta dos autos, em síntese, que: (a) o paciente foi preso em flagrante, convertida em preventiva, pela suposta prática do crime de homicídio qualificado tentado por três vezes (art. 121, § 2º, III e IV, e §4º, c/c 14, II, do Código Penal); (b) irresignada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo, que denegou a ordem, e, em seguida, outro HC no Superior Tribunal de Justiça, ocasião em que a Ministra Relatora indeferiu liminarmente o pedido, em decisão assim fundamentada:
+    “(...) Decido.
+    Como cediço, o habeas corpus "constitui remédio mais ágil para a tutela do indivíduo e, assim, sobrepõe-se a qualquer outra medida, desde que a ilegalidade possa ser evidenciada de plano, sem necessidade de um reexame mais aprofundado da justiça ou injustiça da decisão impugnada", conforme anotam Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antônio Scarance Fernandes, em sua excelente obra Recursos no Processo Penal (3ª ed., São Paulo: Editora RT, 2001, p. 353).
+    Assim, em que pesem os argumentos ventilados no writ, a pretensão do paciente em declarar a sua inocência do crime de homicídio qualificado tentado, a fim de se reconhecer a prática de lesão corporal leve, não é passível de solução por meio de habeas corpus.
+    Para se concluir pela insuficiência de provas para a imputação tal como fora formulada, seria necessária uma análise mais acurada dos fatos, depoimentos e todas as demais circunstâncias e provas em que se arrimaram as instâncias ordinárias, o que se afigura impróprio na via eleita.
+    Com efeito, em sede de habeas corpus, inviável o exame do pleito ora declinado, pois o objeto da impetração exige a análise da matéria de fato, não de direito, visto que a inversão do decidido depende de um exame amplo e profundo do elemento probatório, a fim de se firmar um entendimento diverso do adotado pela instância de origem.
+    Dessarte, consideração contrária ao explanado, fora dos aspectos objetivos tratados, acarretaria em incursão na seara fático-probatória, inadmissível nesta seara. Nesse sentido, veja-se este julgado:
+    (…)
+    Ante o exposto, indefiro liminarmente o presente habeas corpus, conforme disciplina do artigo 210 do RISTJ, e determino o encaminhamento de cópia da petição inicial à Defensoria Pública do Estado de São Paulo, para que pleiteie em favor do paciente o que entender cabível.
+    Cientifique-se o Ministério Público Federal.”
+    Neste habeas corpus, o impetrante sustenta, em suma, o excesso de prazo da prisão preventiva. Requer, ao final, a revogação da prisão cautelar.
+    2. A presente impetração constitui mera reiteração do HC 124.981/SP (Relator(a): Min. ROBERTO BARROSO), que de igual modo: (a) sustentou o excesso de prazo da cautelar; e (b) impugnou a decisão da Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 288.999/SP. Assim, e considerando que é inadmissível a repetição de pedidos, sem inovação, o presente habeas corpus não pode ser conhecido (v.g., entre outros, HC 108568 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, DJe de 22-06-2012; HC 113537 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, DJe de 16-10-2012).
+    3. Registre-se, por fim, que o Ministro Relator do mencionado HC 124.981/SP determinou o envio de cópia integral do pedido ao Núcleo da Defensoria Pública do Estado de São Paulo atuante perante a Comarca da Capital e ao Defensor Público-Geral do Estado de São Paulo.
+    4. Pelo exposto, nego seguimento ao pedido (art. 21, § 1°, do RISTF). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 28 de maio de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
