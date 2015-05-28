@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Turma Recursal dos Juizados Especiais Cíveis e Criminais do estado da Bahia, assim ementado:
+    “RECURSO INOMINADO. AÇÃO REVISIONAL. CARTÃO DE CRÉDITO. PEDIDO DE LIMITAÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES, QUE A PARTE AUTORA REPUTA ABUSIVOS. SENTENÇA QUE JULGOU PROCEDENTE EM PARTE A PRETENSÃO DEDUZIDA, DECLARANDO ABUSIVOS E EXTORSIVOS OS JUROS E ENCARGOS COBRADOS PELO RÉU, ARBITRANDO COMO TAXA MÉDIA A DE MERCADO (RELATIVA À DO CONTRATO DE CHEQUE ESPECIAL). TEMAS JÁ APRECIADOS PELO STJ EM SEDE DE RECURSOS REPETITIVOS, IMPONDO NOVO MODELO DE JULGAMENTO. AUSÊNCIA DE PROVAS DA ILICITUDE E ABUSIVIDADE ASSEVERADAS PELA PARTE CONSUMIDORA, NOS TERMOS DELIBERADOS PELO STJ, COM EXCEÇÃO DA CAPITALIZAÇÃO MENSAL DOS JUROS, CUJA AUSÊNCIA DA PACTUAÇÃO EXPRESSA IMPEDE À EXIGIBILIDADE DE PAGAMENTO. PROVIMENTO PARCIAL DO RECURSO DO RÉU, PARA EXCLUIR A LIMITAÇÃO DOS JUROS, COM A RESPECTIVA DEVOLUÇÃO DA QUANTIA, BEM COMO DEIXAR DE AFASTAR A COBRANÇA DE COMISSÃO DE PERMANÊNCIA, MANTENDO, APENAS, A ORDEM DE EXCLUSÃO DA COBRANÇA DA CAPITALIZAÇÃO MENSAL DOS JUROS.”
+    No recurso extraordinário, sustenta-se violação do artigo 192 da Constituição Federal e à Emenda Constitucional nº 32/01, argumentando ser lícita a capitalização mensal dos juros.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A Corte de origem vedou a capitalização mensal dos juros consignando que, “embora fosse possível à imposição, já que o contrato foi firmado depois do ano de 2000, a ausência de pactuação expressa, impede à exigibilidade de pagamento, sendo, portanto, inteiramente cabível a sua exclusão”.
+    Assim, o acolhimento da pretensão recursal demandaria, induvidosamente, o reexame do conjunto fático-probatório dos autos e das cláusulas do contrato celebrado entre as partes, o que não se mostra possível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 454 desta Corte. A propósito:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL, DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 454/STF. DIREITO À AMPLA DEFESA E AO CONTRADITÓRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE nº 764.316/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 30/9/13).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 28 de maio de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
