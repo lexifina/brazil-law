@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de reclamação contra decisão da Juíza de Direito da 3ª Vara Criminal da Comarca de Limeira/SP que teria contrariado o decidido pelo STF no julgamento da ADI 4.424/DF e da ADC 19/DF, ambas de relatoria do Min. Marco Aurélio.
+    O reclamante relata, em síntese, que a autoridade reclamada reconheceu a possibilidade de retratação da vítima em procedimento criminal que tem por objeto a suposta prática do crime de lesão corporal leve cometido contra mulher em âmbito doméstico (art. 129, § 9º, do CP). Requer, ao final, a procedência da reclamação, a fim de que seja cassada a decisão reclamada.
+    2. O Plenário do STF já reconheceu a legitimidade ativa autônoma do Ministério Público estadual para propor reclamação perante esta Corte (Rcl 7.358/SP, Min. Ellen Gracie, DJe 02/06/2011), pelo que conheço da reclamação.
+    3. No julgamento da ADI 4.424/DF e da ADC 19/DF, o Plenário desta Corte assentou a natureza incondicionada da ação penal em caso de crime de lesão, pouco importando a extensão desta, praticado contra a mulher no ambiente doméstico. Essa orientação, aliás, foi reafirmada em diversas decisões: ARE 664493 AgR, Relator(a): Min. AYRES BRITTO, DJe de 26/03/2012; RE 677553, Relator(a): Min. GILMAR MENDES, DJe de 30/08/2012; RE 686524, Relator(a): Min. MARCO AURÉLIO, DJe de 13/11/2012; Rcl 15524, Relator(a): Min. CÁRMEN LÚCIA, DJe de 25/03/2014; Rcl 16167 MC, Relator(a): Min. TEORI ZAVASCKI, DJe de 16/10/2013; Rcl 17535 MC, Relator(a): Min. CELSO DE MELLO, DJe de 03/04/2014; Rcl 17388, Relator(a): Min. GILMAR MENDES, DJe de 28/03/2014.
+    Vê-se, portanto, que o ato impugnado desrespeitou a autoridade da decisão proferida pelo Supremo Tribunal Federal no julgamento das referidas ações de controle abstrato de constitucionalidade, sendo indiferente, porque não houve limitação temporal (art. 27 da Lei 9.868/99), se os fatos narrados no inquérito policial ocorreram antes ou depois dos referidos julgados.
+    4. Pelo exposto, julgo procedente a reclamação (RISTF, art. 161, parágrafo único), para cassar a decisão impugnada, devendo ser retomado o regular trâmite da persecução penal. Comunique-se.
+    Publique-se. Intime-se.
+    Brasília, 28 de maio de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
