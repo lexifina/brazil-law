@@ -1,0 +1,34 @@
+DECISÃO: O Ministério Público Federal, em promoção da lavra do eminente Procurador-Geral da República, Dr. RODRIGO JANOT MONTEIRO DE BARROS, manifestou-se pelo arquivamento do presente procedimento penal, instaurado contra o Senador da República Alfredo Pereira do Nascimento, em pronunciamento assim fundamentado (fls. 681/684):
+“INQUÉRITO. SUPOSTA PRÁTICA DOS CRIMES PREVISTOS NO ART. 1º, INCISOS I, II E XIII DO DECRETO-LEI Nº 201/67 POR SENADOR À ÉPOCA EM QUE SE ENCONTRAVA NO EXERCÍCIO DO CARGO DE PREFEITO MUNICIPAL. AUSÊNCIA DE INDÍCIOS MÍNIMOS DE MATERIALIDADE. INCIDÊNCIA DA PRESCRIÇÃO. ARQUIVAMENTO.
+    O Procurador-Geral da República vem expor e requerer o que se segue.
+    I – Relatório
+    Trata-se de inquérito instaurado para apurar a suposta prática do crime previsto no art. 1º, incisos I e II, do Decreto-Lei nº 201/67, pelo senador Alfredo Pereira do Nascimento quando ocupava o cargo de prefeito do município de Manaus/AM.
+    Depreende-se dos autos que o investigado teria criado, por meio do Decreto nº 5.570, de 23 de abril de 2001, grupo de trabalho no âmbito da Secretaria Municipal de Trabalho, Emprego e Renda – SEMTRA, ‘com o objetivo de estabelecer e implantar as rotinas necessárias ao funcionamento de um sistema de geração de trabalho, emprego e renda no município de Manaus’.
+    Para compor o referido grupo de trabalho, o investigado haveria indicado pessoas sem vínculo com a Administração Pública municipal para o exercício de variadas funções.
+    Para melhor investigar os fatos noticiados, o Ministério Público Federal requereu as seguintes diligências:
+    a) oitiva de Eudes de Souza Mourão, Luiz Gonzaga Campos de Souza, Rosaline Pinheiro de Lima Muelas, Valsuí Cláudio Martins e Darcy Humberto Michiles;
+    b) expedição de ofício à Prefeitura de Manaus/AM, solicitando as fichas funcionais dos servidores listados às fls. 218;
+    c) localização e oitiva dos servidores listados pela Secretaria Municipal de Trabalho, Emprego e Renda às fls. 218, em especial para que seja levantado eventual vínculo de parentesco de tais pessoas e membros da Administração municipal de Manaus/AM.
+    Tendo em vista que a maioria dos inquiridos apontaram Leopoldina Folhadela como a pessoa que chefiava a Secretaria Municipal de Trabalho, Emprego e Renda, o Ministério Público Federal requereu, como diligência complementar:
+    a) localização e oitiva de Leopoldina Folhadela, apontada por alguns dos depoentes como a pessoa que chefiava, à época dos fatos, a Secretaria Municipal de Trabalho, Emprego e Renda – SEMTRA, e que coordenava o Grupo de Trabalho bem como controlava o ponto dos servidores/trabalhadores que dele participavam.
+    Cumpridas as diligências, vieram os autos à Procuradoria-Geral da República para formação da ‘opinio delicti’.
+    II – Fundamentos
+    Após nova e detida análise dos autos, bem como do resultado das diligências realizadas, verifica-se não haver indícios mínimos de materialidade do crime previsto no art. 1º, incisos I e II, do Decreto-Lei nº 201/67. Em verdade, não há nos autos elementos de prova dos quais se possa inferir a prática pelo Investigado de algum dos verbos típicos daqueles dispositivos.
+    Se crime houve, a figura típica que melhor se subsumiria aos fatos em apuração seria a do art. 1º, inciso XIII, daquele mesmo diploma legal. Entretanto, não há como se prosseguir nas investigações a esse respeito, pois a pretensão punitiva foi fulminada pela prescrição.
+    III – Conclusão
+    Ante o exposto, o Procurador-Geral da República requer o arquivamento do feito.” (grifei)
+    Em face dessa promoção, que acolho, declaro extinta a punibilidade de Alfredo Pereira do Nascimento, referentemente ao delito tipificado no art. 1º, XIII, do Decreto-lei nº 201/67, objeto de apuração neste procedimento penal (fls. 683), fazendo-o com apoio no art. 107, inciso IV, c/c o art. 109, inciso IV, ambos do Código Penal.
+    Assinalo, a título de registro, que a extinção da punibilidade ora reconhecida neste procedimento já se consumara antes mesmo de os presentes autos chegarem ao Supremo Tribunal Federal.
+    De outro lado, e considerando, ainda, a manifestação do Ministério Público Federal a fls. 681/684 – pedido de arquivamento quanto aos delitos previstos no art. 1º, I e II, do Decreto-lei nº 201/67 –, observo que, inexistindo, nos autos, elementos que justifiquem o oferecimento de denúncia contra o investigado, não pode o Supremo Tribunal Federal recusar o pedido deduzido pelo próprio Procurador-Geral da República (RTJ 57/155 – RTJ 69/6 – RTJ 73/1 – RTJ 116/7, v.g.), que entendeu inocorrente, na espécie, a presença de elementos essenciais e autorizadores da formação da “opinio delicti”:
+    “ARQUIVAMENTO DE INQUÉRITO, A PEDIDO DO PROCURADOR-GERAL DA REPÚBLICA, POR AUSÊNCIA DE ‘OPINIO DELICTI’ – IRRECORRIBILIDADE DA DECISÃO QUE O DEFERE – REQUISITOS QUE CONDICIONAM A REABERTURA DAS INVESTIGAÇÕES PENAIS.
+    – É irrecorrível a decisão que acolhe pedido de arquivamento de inquérito policial ou de peças consubstanciadoras de ‘notitia criminis’ (RT 422/316), quando deduzido pelo Procurador-Geral da República, motivado pelo fato de não dispor de elementos que lhe possibilitem o reconhecimento da existência de infração penal, pois essa promoção – precisamente por emanar do próprio Chefe do Ministério Público – traduz providência de atendimento irrecusável pelo Supremo Tribunal Federal (…). Doutrina. Precedentes.”
+    (RTJ 190/894, Rel. Min. CELSO DE MELLO)
+    “O PEDIDO DE ARQUIVAMENTO DE INQUÉRITO POLICIAL, MOTIVADO PELA AUSÊNCIA DE ELEMENTOS QUE PERMITAM AO PROCURADOR-GERAL DA REPÚBLICA FORMAR A ‘OPINIO DELICTI’, NÃO PODE SER RECUSADO PELO SUPREMO TRIBUNAL FEDERAL.
+    – Se o Procurador-Geral da República requer o arquivamento de inquérito policial, de peças de informação ou de expediente consubstanciador de ‘notitia criminis’, motivado pela ausência de elementos que lhe permitam formar a ‘opinio delicti’, por não vislumbrar a existência de infração penal (ou de elementos que a caracterizem), essa promoção não pode deixar de ser acolhida pelo Supremo Tribunal Federal, pois, em tal hipótese, o pedido emanado do Chefe do Ministério Público da União é de atendimento irrecusável. Doutrina. Precedentes.”
+    (RTJ 192/873, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e tendo em consideração as razões expostas, acolho a promoção formulada pelo eminente Procurador-Geral da República, para declarar extinta a punibilidade do Senador Alfredo Pereira do Nascimento (CP, art. 109, IV), referentemente ao delito tipificado no art. 1º, XIII, do Decreto-lei nº 201/67, e, com relação aos crimes previstos no art. 1º, I e II, desse mesmo diploma normativo, determinar o arquivamento dos presentes autos (Lei nº 8.038/90, art. 3º, I).
+    Comunique-se a presente decisão ao eminente Chefe do Ministério Público da União.
+    Publique-se.
+    Brasília, 29 de maio de 2015.
+Ministro CELSO DE MELLO
+Relator
