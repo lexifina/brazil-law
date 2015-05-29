@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 47, de 26 de fevereiro de 2015
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF EMENTA: A imunidade tributária prevista na Constituição da República Federativa do Brasil para fundações instituídas e mantidas pelo Poder Público é restrita aos resultados relacionados com as finalidades essenciais e não as exime da responsabilidade pela retenção e recolhimento do imposto devido na fonte, nos casos previstos em lei. DISPOSITIVOS LEGAIS: Constituição da República Federativa do Brasil, artigo 150, VI, "a" § 2o; Decreto n° 3.000, de 26 de março de 1999, artigo 171, § 2º;
+[arquivo anexo: SC Cosit nº 047-2015.pdf]
