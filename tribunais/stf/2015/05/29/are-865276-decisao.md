@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo que inadmitiu o recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Espírito Santo, assim ementado:
+    “ADMINISTRATIVO. APELAÇÃO CÍVEL. VERBA TRANSITÓRIA. GRATIFICAÇÃO POR REGÊNCIA DE CLASSE. VERBA NÃO PREVISTA NO ESTATUTO DOS SERVIDORES. RENOVAÇÃO POR PERÍODOS. INOCORRÊNCIA DE INCORPORAÇÃO. POSSIBILIDADE DE SUPRESSÃO.
+    O princípio da irredutibilidade de vencimentos somente resguarda o vencimento básico e as vantagens de caráter permanente agregadas à remuneração do servidor, não alcançando as verbas de caráter transitório” (eDOC 15, fls. 2/4).
+    Opostos embargos de declaração, foram providos para sanar omissão, sem atribuição de efeitos infringentes (eDOC 18).
+    Nas razões do recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “c”, da Constituição, aponta-se violação aos arts. 1º, III e IV; 5º, LXXIV, XXXVI; 37, caput, da Constituição. Sustenta-se, inicialmente, o direito à concessão dos benefícios da justiça gratuita. No mérito, alega-se, em síntese, que ocorreu redução dos vencimentos dos autores com a supressão do pagamento da Gratificação por Regência de Classe, o que afronta o princípio do direito adquirido e da irredutibilidade de vencimentos. Pugna-se pela reforma do acórdão recorrido.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal a quo decidiu a controvérsia com fundamento na legislação local (leis 2.716/1993, 2.732/1993, 2.852/1994, 3.017/1994, 3.051/1995, 3.073/1995, 3.206/1996 e 3.249/1996 do Município de Cariacica/ES) e consignou ser possível a supressão do pagamento da Gratificação por Regência de Classe pelo Município de Cariacica/ES, uma vez que a gratificação é temporária.
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso por óbice da Súmula 280 do Supremo Tribunal Federal. Nesse sentido, destacam-se precedentes de ambas a Turmas desta Corte, assim ementados:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA QUE ENVOLVE A ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR (GAP) DO ESTADO DA BAHIA. INCIDÊNCIA DA SÚMULA 280/STF. A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação local, sem que se discuta o seu sentido à luz da Constituição (Súmula 280/STF). Agravo regimental a que se nega provimento”. AI-AgR 631.627, Rel. Min. Roberto Barroso, 1ª Turma, DJe 14.10.2013)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR — GAP. BASE DE CÁLCULO. 1. NO CASO, O TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA DECIDIU A CONTROVÉRSIA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL PERTINENTE. INCIDÊNCIA DA SÚMULA 280/STF. 2. AUSÊNCIA DE PREQUESTIONAMENTO. 1. A instância judicante de origem decidiu a controvérsia à luz da interpretação do direito estadual pertinente. Pelo que entendimento diverso encontra óbice na Súmula 280/STF. 2. De mais a mais, é de incidir a Súmula 282/STF. Agravo regimental desprovido”. (RE-AgR 594.202, Rel. Min. Ayres Britto, 2ª Turma, DJe 17.5.2011)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de maio de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
