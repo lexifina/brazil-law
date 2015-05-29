@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa reproduzo a seguir:
+    “AGRAVO INOMINADO. AÇÃO ORDINÁRIA. FUNDAÇÃO PARA INFÂNCIA E ADOLESCÊNCIA (FIA/RJ). SERVIDOR PÚBLICO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. DECRETO ESTADUAL Nº 20.152/1994. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO ÓRGÃO ESPECIAL. SENTENÇA DE IMPROCEDÊNCIA QUE NÃO DESAFIA QUALQUER REPARO. AGRAVO INOMINADO A QUE SE NEGA PROVIMENTO.” (eDOC 2, p. 59).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI e LV, e 93, IX, do texto constitucional.
+    Nas razões recursais, alega-se que o GEE foi concedido pelo Decreto nº 20.152/94 e incorporado pela Lei nº 2.365/94, integrando o patrimônio jurídico da parte recorrida.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que, na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação ou violação à inafastabilidade jurisdicional.
+    Anoto, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010).
+    Igualmente, vale dizer que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, conforme o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013.
+    Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Do mesmo modo, convém reproduzir o assentado pelo Tribunal de origem:
+    “O tema versado nos presentes autos já foi enfrentado quando do julgamento da Arguição de Inconstitucionalidade nº. 0008111-85.2011.8.19.0000 pelo E. Órgão Especial, que declarou inconstitucional o art. 2º, § 1º do Decreto Estadual nº 20.152/1994 que concedeu a gratificação de encargos especiais pleiteada pela Autora.” (eDOC 2, p. 64).
+    Nesse sentido, o acórdão recorrido não divergiu da jurisprudência desta Corte, segundo a qual não há falar direito adquirido em relação à diploma legal julgado inconstitucional.
+    Veja-se a ementa do Re 290.776, Rel. p/ ac. Carlos Velloso, DJ 5.8.2005:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: MUNICÍPIO DE BELO HORIZONTE, MG: EX-PREFEITOS: SUBSÍDIO MENSAL E VITALÍCIO. I. - Inexistência de direito adquirido à pensão, ou ao subsídio mensal e vitalício, dado que o benefício foi fruto de lei inconstitucional em virtude de vício de iniciativa. II. - Confirmação do acórdão recorrido que deu pela inconstitucionalidade da lei municipal que, decorrente de emenda apresentada na Câmara Municipal, concedeu aos ex-prefeitos subsídio mensal e vitalício igual ao de Secretário Municipal e, em conseqüência, teve como inexistente direito adquirido com base na norma inconstitucional. III. - R.E. não conhecido.”
+    Ante o exposto, conheço do presente agravo para negar provimento ao recurso extraordinário (art. 544, §4º, II, b, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
