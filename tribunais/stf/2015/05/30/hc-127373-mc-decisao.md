@@ -1,0 +1,17 @@
+DECISÃO
+PENA – REGIME DE CUMPRIMENTO – PARÂMETROS – INOBSERVÂNCIA NA ORIGEM – HABEAS CORPUS – LIMINAR DEFERIDA.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O paciente, preso em flagrante no dia 16 de maio de 2014, teve a prisão convertida em preventiva, ante a suposta prática do delito previsto no artigo 157, § 2º, incisos I e II (emprego de arma e concurso de pessoas), por duas vezes, na forma do artigo 70, do Código Penal. O Juízo da 23ª Vara Criminal – Foro Central Criminal da Barra Funda – na Comarca de São Paulo capital apontou a gravidade do delito e o fato de o réu não possuir ocupação lícita. Destacou a possibilidade de o indiciado deixar o distrito da culpa. Na sentença (Processo nº 0042145-33.2014.8.26.0050), condenou-o à pena de seis anos, dois meses e vinte dias de reclusão e ao pagamento de 26 dias-multa. Estabeleceu o regime inicial fechado, em razão de ser o único adequado à consecução das finalidades da sanção penal. Ressaltou a gravidade do delito. Não permitiu ao paciente recorrer em liberdade, ante a permanência dos motivos ensejadores da custódia.
+    Impetrou-se habeas corpus, insurgindo-se contra o regime imposto. O relator, no Tribunal de Justiça do Estado de São Paulo, indeferiu o pleito, pois não vislumbrou ilegalidade na decisão que implicou a manutenção da segregação.
+    No Superior Tribunal de Justiça – Habeas Corpus nº 318.669/SP –, sustentou-se ter sido estabelecido o regime fechado com fundamentos genéricos. A relatora não conheceu da impetração. Assinalou haver óbice à apreciação do pedido de modificação do regime prisional, porquanto ainda não submetido ao crivo do Colegiado no Tribunal de origem. Aludiu à supressão de instância e ao disposto no Verbete nº 691 da Súmula do Supremo. Assentou tratar-se de pleito manifestamente incabível, a autorizar a incidência dos artigos 38 da Lei nº 8.038/1990 e 34 do Regimento Interno.
+    Neste habeas, os impetrantes alegam constrangimento ilegal apto a afastar o referido Verbete. Afirmam que o Juízo sentenciante considerou as circunstâncias judiciais favoráveis para a fixação da pena-base e desfavoráveis para o estabelecimento do regime de cumprimento. Apontam a incongruência desse procedimento, a demonstrar a ilegalidade do ato. Dizem que a opção pelo regime fechado lastreou-se na gravidade abstrata do crime, revelando-se contrária à jurisprudência do Supremo – Verbetes nº  718 e 719 da Súmula do Supremo.
+    Requerem o deferimento de liminar para que seja estabelecido o regime inicial semiaberto para o cumprimento da pena. No mérito, buscam a confirmação da providência.
+    A fase é de apreciação da medida acauteladora.
+    2. A fixação do regime para cumprimento da pena é norteada, em primeiro lugar, pelo patamar observado, pelo número de anos alusivos à perda da liberdade de ir e vir, e, em segundo lugar, pelas circunstâncias judiciais. É o que decorre do artigo 33 do Código Penal.
+    No caso, o Juízo ressaltou serem favoráveis as circunstâncias judiciais, estabelecendo a pena-base no mínimo previsto para o tipo. No entanto, deixou de considerar o disposto no artigo 33, § 3º, do Código Penal, potencializando a óptica da conveniência considerada a condenação.
+    3. Defiro a liminar pleiteada. Implementem, no cumprimento da pena imposta, o regime semiaberto.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 30 de maio de 2015, às 12h25.
+Ministro MARCO AURÉLIO
+Relator
