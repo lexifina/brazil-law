@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. ICMS NA BASE DE CÁLCULO DA COFINS. COFINS-IMPORTAÇÃO. ART. 7º, I, DA LEI 10.865/2004. INCONSTITUCIONALIDADE DECLARADA PELO PLENÁRIO DESTA CORTE. COMPENSAÇÃO.
+    1. A parcela do ICMS, destacada nas notas fiscais, integra o preço de venda do produto e, em conseqüência, a receita ou o faturamento do contribuinte, que serve de base de cálculo da COFINS (Súmula 94/STJ).
+    2. O art. 149, § 2º, III, "a", expressamente autorizou a criação de contribuições sociais e de intervenção no domínio econômico sobre a importação de bens ou serviços, com alíquotas ad valorem sobre o valor aduaneiro.
+    3. O conceito de valor aduaneiro vem previsto nos arts. 75 a 83 do Decreto nº 4.543, de 26 de dezembro de 2002, que instituiu o novo regulamento aduaneiro.
+    4. Por ter desbordado do conceito de valor aduaneiro, a expressão"acrescido do valor do Imposto sobre Operações Relativas à Circulação de Mercadoria e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS incidente no desembaraço aduaneiro e do valor das próprias contribuições",constante do inciso I do artigo 7º da Lei 10.865/2004, foi declarada inconstitucional pelo Plenário desta Corte na argüição de inconstitucionalidade em AC nº 2004.72.05.003314-1/SC, realizado em 22/02/2007, com relatoria do E. Des. Fed. Antônio Albino Ramos de Oliveira.
+    5. Remessa oficial e apelações improvidas.”
+    O recurso busca fundamento no art. 102, III, a, da Carta. A parte recorrente alega violação ao art. 195, I, b, da Carta. Sustenta, em síntese, que o ICMS incluso no preço dos produtos vendidos não tem natureza de receita ou de faturamento, constituindo, na realidade, valor que deve ser pago a terceiros.
+    Inicialmente, fora determinado o sobrestamento do recurso, em razão da repercussão geral reconhecida nos autos do RE 574.706-RG, de relatoria da Ministra Cármen Lúcia. No entanto, sob o fundamento de que a discussão a respeito do ICMS na base de cálculo do Pis e da Cofins foi analisada pelo Supremo Tribunal Federal nos autos do RE 240.785/MG, o Tribunal de origem optou por admitir do recurso extraordinário, remetendo os autos a esta Corte.
+    Decido.
+    De início, cumpre registrar que, de fato, o Plenário do Supremo Tribunal Federal, nos autos do RE 574.706-RG, de relatoria da Ministra Cármen Lúcia, reconheceu a repercussão geral da matéria em questão. Confira-se a ementa da decisão:
+    “Reconhecida a repercussão geral da questão constitucional relativa à inclusão do ICMS na base de cálculo da COFINS e da contribuição ao PIS. Pendência de julgamento no Plenário do Supremo Tribunal Federal do Recurso Extraordinário n. 240.785.”
+    Nessas circunstâncias, cumpre reconhecer que, não obstante o trânsito em julgado do RE 240.785/MG, no qual ficara decidido que o valor ICMS não deveria compor a base de cálculo da Cofins, a matéria ainda pende de pronunciamento definitivo por este Supremo Tribunal Federal. Isso porque, na ocasião do julgamento, a Corte expressamente ressaltou que a controvérsia seria novamente examinada pela nova composição do Tribunal nos autos do RE 574.706-RG, em cujo âmbito foi reconhecido o caráter transcendente do litígio em discussão.
+    Nota-se, portanto, que a decisão proferida nos autos do RE 240.785/MG aplica-se somente ao concreto posto em julgamento, uma vez que consideradas apenas as peculiaridades daquela lide. Não se trata de deliberação dotada de eficácia erga omnes. Assim, todos os demais casos em que se discuta a possibilidade de inclusão do ICMS na base de cálculo do Pis e da Cofins deverão aguardar a conclusão do RE 574.706-RG, nos termos do disposto no art. 543-B do Código de Processo Civil.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 1º de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
