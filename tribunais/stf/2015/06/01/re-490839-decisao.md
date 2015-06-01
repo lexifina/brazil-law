@@ -1,0 +1,15 @@
+DECISÃO
+LEGITIMIDADE ATIVA – MINISTÉRIO PÚBLICO – INTERESSE COLETIVO.
+AÇÃO CIVIL PÚBLICA – DECLARAÇÃO INCIDENTAL DE CONSTITUCIONALIDADE – POSSIBILIDADE.
+ENSINO PÚBLICO – ESTABELECIMENTO OFICIAL – GRATUIDADE – ARTIGO 206, INCISO IV, DA CARTA FEDERAL – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo negou provimento às apelações interpostas pelo Município de Barueri e pela Fundação Instituto de Educação de Barueri – FIEB, mantendo a sentença, mediante a qual foram julgados procedentes os pedidos formulados em ação civil pública para condenar os apelantes na obrigação de se absterem de cobrar, a qualquer título, pelos serviços de ensino fundamental e médio prestados pela aludida fundação, tendo sido reconhecida, incidentalmente, a inconstitucionalidade da legislação municipal que autorizava a mencionada cobrança. O acórdão do Tribunal local foi assim ementado:
+Ação civil pública – estabelecimento oficial – fundação – pessoa jurídica de direito público interno – preponderância dos recursos municipais resultantes de impostos – gratuidade da prestação de serviços de ensino em qualquer grau – ação procedente – obrigação, nesse sentido, de não fazer nenhuma cobrança – recursos improvidos.
+    Afirmou-se, na origem, que a Fundação Instituto de Educação de Barueri enquadra-se como estabelecimento oficial, mantido com recursos públicos, total ou preponderantemente. Essa premissa fixada no ato atacado não pode ser revista pelo Supremo, por implicar reexame de fatos e provas, o que é vedado na via excepcional de recurso.
+    2. A gratuidade do ensino em estabelecimentos oficiais já foi pacificada pelo Supremo, resultando, inclusive, na edição do Verbete nº 12 da Súmula Vinculante do Tribunal. O mesmo raciocínio utilizado na elaboração do referido enunciado deve ser observado nos casos de cobrança por serviços de ensino fundamental e médio prestados por fundação pública, integrante da Administração Indireta municipal, considerada a regra do artigo 206, inciso IV, da Carta de 1988.
+    Acresce que, no julgamento do Recurso Extraordinário nº 163.231, relator ministro Maurício Corrêa, o Plenário apontou a legitimidade ativa do Ministério Público quando o objeto da ação civil pública cuidar de tema ligado à educação – dever do Estado e obrigação de todos (Constituição Federal, artigo 205) –, bem de notório conteúdo social, que se insere na órbita dos interesses coletivos.
+    A par desse aspecto, o Pleno assentou, no Agravo Regimental na Reclamação nº 6.449, da relatoria do ministro Eros Grau, a possibilidade de declaração incidental de inconstitucionalidade em ações civis públicas. No caso, o Ministério Público pretende a condenação dos recorrentes em obrigação de não fazer, qual seja, abster-se de cobrar pela prestação de serviços de ensino fundamental e médio, evocando, como causa de pedir, a inconstitucionalidade da legislação municipal que autoriza a aludida cobrança. Não há usurpação da competência do Supremo.
+    3. Ante os precedentes, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 1º de junho de 2015.
+Ministro MARCO AURÉLIO
+Relator
