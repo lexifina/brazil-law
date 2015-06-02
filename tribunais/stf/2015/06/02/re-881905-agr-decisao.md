@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo regimental interposto contra decisão monocrática que vinculou o presente recurso ao RE 636.199-RG, sob a relatoria da Ministra Rosa Weber, e determinou o retorno dos autos à origem (art. 543-B do CPC).
+    A parte agravante alega que a presente controvérsia é distinta do paradigma apontado, tendo em vista que o “acórdão, em verdade, limitou-se a afirmar que, ainda que se tratasse de ilha sede de município, melhor sorte não assistiria à pretensão autoral, uma vez que, sendo o terreno reconhecidamente de marinha, é público e insuscetível de usucapião” (fls. 237).
+    Com razão a agravante. Reconsidero a decisão e passo a reapreciar a matéria.
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região que reconheceu ser público o imóvel objeto do litígio e, por isso, insusceptível de usucapião.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXII; e 20, IV, da Constituição. Sustenta que “o imóvel não se encontra afetado ao serviço público; pelo contrário, durante 76 anos a autora manteve posse mansa, continua e duradoura. E não é só isso, a área discutida não constitui terreno de marinha, justamente por estar além da faixa de terra necessária para ser considerado como terreno de marinha (33 metros), excedendo, portanto, o limite imposto pelo artigo 2° do Decreto-Lei 9.760 de 5 de Setembro de 1946. Para comprovar o alegado, segue anexo mapa que comprova a longa distância entre a residência da autora e a linha de preamar. De igual forma, o referido imóvel excede ao que entendido como acrescidos de terreno de marinha, haja vista que sua formação não se deu para o lado do mar ou dos rios e lagoas, tampouco em seguimento aos terrenos da marinha, como dispõe o artigo 3° do Decreto-Lei 9.760/1946” (fls. 200).
+    O recurso é inadmissível, tendo em vista que, para dissentir da conclusão do Tribunal de origem, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário (Súmula 279/STF).
+    Nessa linha, confira-se a ementa RE 800.130-AgR, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Agravo regimental em recurso extraordinário. 2. Direito Civil. Usucapião. Terreno da Marinha. Alegação de ofensa ao art. 183, § 3º, da Constituição Federal. 3. Necessidade do revolvimento fático-probatório dos autos. Incidência do Enunciado 279 da Súmula do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 557, caput, do CPC e no art. 21, IX do RI/STF, nego seguimento ao recurso extraordinário. Julgo prejudicado o agravo regimental.
+    Publique-se.
+          Brasília, 02 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
