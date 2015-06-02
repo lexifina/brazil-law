@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 2ª Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL – TRIBUTÁRIO – ICMS – ILEGITIMIDADE ATIVA DO CONTRIBUINTE DE DIREITO PARA REQUERER A REPETIÇÃO QUANDO AUSENTE A PROVA DE TER SUPORTADO O ÔNUS FINANCEIRO DO IMPOSTO (ART. 166 DO CTN) – PRECEDENTES – LEGITIMIDADE QUANTO AO PEDIDO DECLARATÓRIO (NÃO-INCIDÊNCIA ICMS) – JULGAMENTO IMEDIATO DO MÉRITO DO PEDIDO PELO TRIBUNAL (ART. 515, §3º, DO CPC) – PERFEITA INCIDÊNCIA DO ICMS SOBRE TRANSPORTE RODOVIÁRIO DE PASSAGEIROS – LC Nº 57/86 E LEI ESTADUAL Nº 11.580/96 QUE MATERIALIZAM PRECISAMENTE A REGRA-MATRIZ DA HIPÓTESE DE INCIDÊNCIA DO IMPOSTO – AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA NÃO-CUMULATIVIDADE – SERVIÇO QUE NÃO FAZ PARTE DE UM ELO PRODUTIVO E QUE É SEMPRE PRESTADO E DESTINADO A UMA ÚNICA OPERAÇÃO AO PASSAGEIRO TOMADOR, SEMPRE UMA PESSOA FÍSICA NÃO CONTRIBUINTE DO IMPOSTO – ADIN 1600 QUE TRATOU DE CASO DIVERSO (ICMS SOBRE TRANSPORTE AÉREO DE PASSAGEIROS).
+    RECURSO CONHECIDO E PARCIALMENTE PROVIDO. PEDIDO JULGADO IMPROCEDENTE.”
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 150; 151; e 155, todos da Carta. Sustenta, em síntese, que (i) no caso em comento, não está se tratando de restituição do indébito tributário de tributo que por sua natureza legal ou jurídica permitem a transferência do encargo a terceiro, mas de tributo pago e arcado por ela e (ii) é inconstitucional a incidência de ICMS sobre transporte rodoviários de passageiros.
+    A pretensão não merece acolhida. A jurisprudência do Supremo Tribunal Federal, nos autos da ADI 2.669/DF, Redator para o acórdão o Ministro Marco Aurélio, assentou o entendimento de que é constitucional a cobrança de ICMS sobre a prestação de serviços de transporte rodoviário de passageiros. Confira-se, a propósito, a ementa da decisão:
+    “ICMS – TRANSPORTE TERRESTRE – LEI COMPLEMENTAR Nº 87/96 – CONSTITUCIONALIDADE. Mostra-se harmônica com a Constituição Federal a incidência do ICMS sobre a prestação de serviço de transporte terrestre.”
+    Na oportunidade, em voto vista, o Ministro Joaquim Barbosa concluiu que “os custos, os riscos, a intensidade da prestação, a abrangência, a rotatividade, a capilaridade e o grau de submissão à regulamentação estatal pertinentes ao transporte aéreo não são os mesmos aplicáveis às pessoas que exploram economicamente a malha viária”.
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 02 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
