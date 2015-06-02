@@ -1,0 +1,3 @@
+Art. 10. É facultado às partes, mediante acordo escrito entre essas, estabelecer horário de trabalho de 12 (doze) horas seguidas por 36 (trinta e seis) horas ininterruptas de descanso, observados ou indenizados os intervalos para repouso e alimentação.
+§ 1º A remuneração mensal pactuada pelo horário previsto no caput deste artigo abrange os pagamentos devidos pelo descanso semanal remunerado e pelo descanso em feriados, e serão considerados compensados os feriados e as prorrogações de trabalho noturno, quando houver, de que tratam o art. 70 e o § 5º do art. 73 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1o de maio de 1943, e o art. 9º da Lei nº 605, de 5 de janeiro de 1949.
+§ 2º (VETADO).

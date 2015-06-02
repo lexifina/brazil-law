@@ -1,0 +1,1 @@
+Art. 9º A Carteira de Trabalho e Previdência Social será obrigatoriamente apresentada, contra recibo, pelo empregado ao empregador que o admitir, o qual terá o prazo de 48 (quarenta e oito) horas para nela anotar, especificamente, a data de admissão, a remuneração e, quando for o caso, os contratos previstos nos incisos I e II do art. 4º.
