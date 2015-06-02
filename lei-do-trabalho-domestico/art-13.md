@@ -1,0 +1,3 @@
+Art. 13. É obrigatória a concessão de intervalo para repouso ou alimentação pelo período de, no mínimo, 1 (uma) hora e, no máximo, 2 (duas) horas, admitindo-se, mediante prévio acordo escrito entre empregador e empregado, sua redução a 30 (trinta) minutos.
+§ 1º Caso o empregado resida no local de trabalho, o período de intervalo poderá ser desmembrado em 2 (dois) períodos, desde que cada um deles tenha, no mínimo, 1 (uma) hora, até o limite de 4 (quatro) horas ao dia.
+§ 2º Em caso de modificação do intervalo, na forma do § 1º, é obrigatória a sua anotação no registro diário de horário, vedada sua prenotação.

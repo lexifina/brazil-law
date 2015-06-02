@@ -1,0 +1,1 @@
+Art. 6º Durante a vigência dos contratos previstos nos incisos I e II do art. 4º, o empregador que, sem justa causa, despedir o empregado é obrigado a pagar-lhe, a título de indenização, metade da remuneração a que teria direito até o termo do contrato.
