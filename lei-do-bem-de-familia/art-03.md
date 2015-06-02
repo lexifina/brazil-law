@@ -1,5 +1,4 @@
 Art. 3º A impenhorabilidade é oponível em qualquer processo de execução civil, fiscal, previdenciária, trabalhista ou de outra natureza, salvo se movido:
-I - em razão dos créditos de trabalhadores da própria residência e das respectivas contribuições previdenciárias;
 II - pelo titular do crédito decorrente do financiamento destinado à construção ou à aquisição do imóvel, no limite dos créditos e acréscimos constituídos em função do respectivo contrato;
 III -- pelo credor de pensão alimentícia;
 IV - para cobrança de impostos, predial ou territorial, taxas e contribuições devidas em função do imóvel familiar;
