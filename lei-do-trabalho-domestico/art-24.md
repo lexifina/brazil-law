@@ -1,0 +1,2 @@
+Art. 24. O horário normal de trabalho do empregado durante o aviso prévio, quando a rescisão tiver sido promovida pelo empregador, será reduzido de 2 (duas) horas diárias, sem prejuízo do salário integral.
+Parágrafo único. É facultado ao empregado trabalhar sem a redução das 2 (duas) horas diárias previstas no caput deste artigo, caso em que poderá faltar ao serviço, sem prejuízo do salário integral, por 7 (sete) dias corridos, na hipótese dos §§ 1º e 2º do art. 23.

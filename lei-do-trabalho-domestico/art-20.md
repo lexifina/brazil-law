@@ -1,0 +1,1 @@
+Art. 20. O empregado doméstico é segurado obrigatório da Previdência Social, sendo-lhe devidas, na forma da Lei nº 8.213, de 24 de julho de 1991, as prestações nela arroladas, atendido o disposto nesta Lei e observadas as características especiais do trabalho doméstico.
