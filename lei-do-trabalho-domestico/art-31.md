@@ -1,0 +1,1 @@
+Art. 31. É instituído o regime unificado de pagamento de tributos, de contribuições e dos demais encargos do empregador doméstico (Simples Doméstico), que deverá ser regulamentado no prazo de 120 (cento e vinte) dias a contar da data de entrada em vigor desta Lei.

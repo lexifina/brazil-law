@@ -1,0 +1,2 @@
+Art. 32. A inscrição do empregador e a entrada única de dados cadastrais e de informações trabalhistas, previdenciárias e fiscais no âmbito do Simples Doméstico dar-se-ão mediante registro em sistema eletrônico a ser disponibilizado em portal na internet, conforme regulamento.
+Parágrafo único. A impossibilidade de utilização do sistema eletrônico será objeto de regulamento, a ser editado pelo Ministério da Fazenda e pelo agente operador do FGTS.

@@ -1,0 +1,2 @@
+Art. 1º Ao empregado doméstico, assim considerado aquele que presta serviços de forma contínua, subordinada, onerosa e pessoal e de finalidade não lucrativa à pessoa ou à família, no âmbito residencial destas, por mais de 2 (dois) dias por semana, aplica-se o disposto nesta Lei.
+Parágrafo único. É vedada a contratação de menor de 18 (dezoito) anos para desempenho de trabalho doméstico, de acordo com a Convenção nº 182, de 1999, da Organização Internacional do Trabalho (OIT) e com o Decreto nº 6.481, de 12 de junho de 2008
