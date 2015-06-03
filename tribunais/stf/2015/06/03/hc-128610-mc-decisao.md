@@ -1,0 +1,42 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão monocrática do Superior Tribunal de Justiça, in verbis:
+    “Trata-se de conflito negativo de competência entre o Juízo Federal da 9ª Vara Criminal da Seção Judiciária do Estado do Rio de Janeiro e o Juízo Auditor da 1ª Auditoria CJM do Estado do Rio de Janeiro nos autos de ação penal instaurada em desfavor de Alexandro Arruda Gregório pela suposta prática do delito previsto no art. 299 do Código Penal Militar.
+    Consta do processado que o Juízo Castrense, acolhendo a promoção ministerial, declinou de sua competência para apreciar o feito, entendendo que os militares estavam no exercício de atividade de policiamento ostensivo, de natureza de segurança pública, não militar (fl. 298).
+    O Juízo Federal, por sua vez, asseverou que o Supremo Tribunal Federal firmou-se no sentido de que a competência para o julgamento de crime de desacato cometido por civil contra militar é da Justiça Castrense. Suscitou, então, este conflito, assim fundamentado:
+    É certo que o Código Penal Militar, em seu artigo 9º, prevê a possibilidade de civil praticar crime militar, todavia, deve-se aferir, casuisticamente, o bem jurídico tutelado, ou seja, o crime será punido segundo o Código Penal Militar na hipótese de a conduta visar atingir as Forças Armadas enquanto instituição ou quanto às suas finalidades, ou, ainda, se a ação afetar o funcionamento e a respeitabilidade das instituições militares.
+    No desacato, não basta que a ofensa seja dirigida ao militar, mas sim que se dirija à qualidade de agente das Forças Armadas, isto é, o intuito do agente deve ser o de atingir a integridade da atividade militar.
+    Na hipótese dos autos, tem-se que o militar ofendido – o 3º Sargento Pedro da Costa Santos – foi acionado para conter tumulto havido durante uma festa junina, tendo o acusado, supostamente, dito que ‘não era porque o Exército estava armado que alguém ali estava com medo’; que ‘o negócio era o Comando Vermelho e que os periquitos do Governo não iam conseguir nada’. O ofendido declarou, ainda, que o réu ‘ficava se escondendo atrás das mulheres e crianças dizendo que queria ver a tropa bater neles agora’ (fl. 09).
+    O 3º Sargento André Leite Navarro, testemunha, afirmou em suas declarações que o acusado teria dito ‘Exército de m..., periquito verde’ (fl. 10) e o Soldado Osmar Santos Ferreira mencionou que ‘o conduzido estava incitando a população contra os militares’ e que o réu teria xingado o Sargento Pedro Costa de ‘periquito do governo’, apesar de não se lembrar das demais palavras usadas (fl. 10).
+    Considerando-se a análise das declarações colhidas quando da prisão em flagrante do acusado, tem-se que as supostas ofensas foram proferidas contras os militares em razão especificamente de suas funções, isto é, as supostas ofensas só poderiam ser dirigidas a militares, e não a servidores comuns.
+    Assim, tendo em vista o entendimento do E. STF no HC 112932 e o fato de as supostas ofensas terem se dado em razão da função militar, entendo que falece competência a este Juízo para apreciação do feito, sendo certo que, por se tratar de matéria de ordem pública, a questão da competência pode ser apreciada em qualquer fase processual, ainda que em fase instrutória, principalmente no presente caso em que, além de ter sido a questão suscitada pela defesa, cuida-se de hipótese de incompetência absoluta.
+    Acrescente-se que – em razão de a matéria atinente à competência não se encontrar, ainda, pacificada na Jurisprudência – reputo relevante submeter a discussão ao crivo do E. STJ, principalmente porque a questão toca à definição do Juiz Natural para o julgamento da suposta prática de desacato. Afinal, o acusado possui o direito constitucional de ser sentenciado pela autoridade competente.
+    Portanto, pelos motivos exposto, reconhecendo a incompetência deste Juízo, com fulcro no artigo 116, § 1º do Código de Processo Penal, SUSCITO CONFLITO NEGATIVO DE COMPETÊNCIA em face do Juízo da 1ª Auditoria da 1ª C.J.M.
+    Manifestou-se o Ministério Público pela competência do Juízo suscitado (fls. 608/609).
+    É o relatório.
+    Cinge-se a controvérsia em saber a quem compete processar e julgar a conduta supostamente praticada por um civil em desacato a militares do Exército integrantes da Força de Pacificação.
+    A Terceira Seção deste Superior Tribunal de Justiça firmou orientação no sentido de que se caracteriza como militar o delito praticado por civil contar militar no exercício das funções que lhe foram atribuídas, independentemente do fato de serem elas típicas ou não. Confira-se o precedente:
+    CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL. JUSTIÇA MILITAR. CRIMES DE DESACATO PRATICADO POR CIVIL CONTRA MILITARES EM ATIVIDADE DE PATRULHAMENTO NAVAL. MILITARES EXERCENDO FUNÇÃO SUBSIDIÁRIA. ART. 9º, III, ‘D’, DO CPM. COMPETÊNCIA DA JUSTIÇA CASTRENSE.
+    1. Nos termos do art. 9º, III, ‘d’, do Código Penal Militar, considera-se crime militar, em tempo de paz, os delitos praticados por civil, ainda que fora do lugar sujeito à administração militar, contra militar em função de natureza militar, ou no desempenho de serviço de vigilância, garantia e preservação da ordem pública, administrativa ou judiciária, quando legalmente requisitado para aquele fim, ou em obediência a determinação legal superior.
+    2. A função militar é atribuição específica conferida por lei ao militar, como integrante das forças armadas, exercitadas com características próprias da instituição militar, sobrelevando-se o poder legal conferido à autoridade militar.
+    3. É militar o crime praticado por civil contra militar no exercício das funções que lhe foram legalmente atribuídas, seja ela de caráter subsidiário ou não.
+    4. Neste caso, a suposta prática do crime de desacato foi praticado por civil contra militares da Marinha do Brasil, devidamente requisitado para a atividade de vigilância naval.
+    5. Conflito de competência conhecido para declarar competente o Juízo Auditor da Auditoria da 8ª Circunscrição Judiciária Militar de Belém – PA, ora suscitado.
+    (CC 130996/PA, Relator o Ministro Rogério Schietti Cruz, DJe de 01/08/2014)
+    Na hipótese, consoante se extrai dos autos, um civil teria ofendido militares do Exército integrantes da Força de Pacificação, que foram acionados para conter tumulto em festa junina, sendo certo, outrossim, que as ofensas foram proferidas também em razão da própria função militar.
+    Nesse contexto, forçoso reconhecer a competência da Justiça Castrense para o caso.
+    Ante o exposto, conheço do conflito para declarar a competência do Juízo Auditor da 1ª Auditoria CJM do Estado do Rio de Janeiro, o suscitado.
+    […].”
+    O impetrante insiste em que a atuação da Marinha no processo de pacificação de determinada comunidade constitui atividade típica de policiamento ostensivo de segurança, consoante decidiu a Segunda Turma desta Corte no julgamento do HC n. 112.936, Rel. Min. Celso de Melo, DJe de 17/05/2013), por isso que, não se tratando de atividade militar propriamente dita, há de ser afastada a competência da Justiça Castrense.
+    Requer a concessão de liminar para suspender a ação penal n. 149-81.2011.7.01.0101, até julgamento final do writ, e, no mérito, o deferimento da ordem para anular a decisão impugnada e declarar a competência da Justiça Federal do Rio de Janeiro.
+    É o relatório, em síntese.
+    DECIDO.
+    O impetrante não exauriu a jurisdição no âmbito do Tribunal a quo, porquanto não instou o colegiado à revisão do decisum que alega prejudicial, a evidenciar o não cabimento do writ.
+    Todavia, as razões da impetração serão analisadas apenas no afã de verificar a possibilidade de concessão da ordem de ofício.
+    A jurisprudência desta Corte é oscilante quanto à competência da Justiça Militar para julgar civil, a recomendar a análise detida de cada caso, providência inviável em sede de cautelar.
+    Outrossim, o impetrante não logrou demonstrar o periculum in mora, aqui entendido como ameaça atual ou iminente ao direito de locomoção do paciente por ilegal da autoridade coatora.
+    Ex positis, INDEFIRO a liminar.
+    Os autos estão suficientemente instruídos, por isso dispenso a requisição de informações e dou vista ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 3 de junho de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
