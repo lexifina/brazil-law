@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1567, de 5 de junho de 2015
+Altera a Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013, que dispõe sobre o processo de consulta relativo à interpretação da legislação tributária e aduaneira e à classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio, no âmbito da Secretaria da Receita Federal do Brasil.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 48 a 50 da Lei nº 9.430, de 27 de dezembro de 1996, e no art. 4º do Decreto nº 7.708, de 2 de abril de 2012, resolve:
