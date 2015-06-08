@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Emerson Leonardo Passos Medici interpõe agravo visando impugnar decisão que não admitiu recurso extraordinário, assentado em contrariedade ao art. 5º, inciso XXXVI, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AGRAVO EM EXECUÇÃO PENAL. CRIMES CONTRA O PATRIMÔNIO. ROUBO MAJORADO. FALTA GRAVE RECONHECIDA. INCONFORMIDADE ACUSATÓRIA CONTRA A NÃO DETERMINAÇÃO DE REGRESSÃO DE REGIME AO APENADO. AFRONTA AO ART. 118, INC. I, DA LEP CARACTERIZADA.
+    Uma vez praticada a falta grave, cabível a regressão de regime prisional, porquanto ‘se de um lado é imprescindível dotar a pena privativa de liberdade de progressão, que viabiliza o condenado vislumbrar a possibilidade futura de vida livre, por outro não se deve enfraquecer a pressão social. Em caso de não se adaptar o condenado ao regime semi-aberto, demonstrando a inexistência de sua reintegração social, fica o condenado também sujeito à regressão’
+    AGRAVO PROVIDO. POR MAIORIA” (fl. 59).
+    Aduz o agravante, nas razões do extraordinário, que o acórdão recorrido afrontou o dispositivo constitucional suscitado ao manter “a regressão de regime para regime mais gravoso do fixado na sentença penal condenatória” (fl. 112).
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que o recorrente foi intimado do acórdão proferido em sede de embargos infringentes após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07). Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o Tribunal a quo ao decidir a questão se ateve ao exame da legislação infraconstitucional (Lei de Execuções Penais). Portanto, a violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Com efeito, é firme a jurisprudência do Supremo Tribunal Federal no sentido de ser “inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentam a decisão ‘a quo’. A afronta à Constituição, se ocorrente, seria indireta” (RE nº 563.756/SC-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 28/8/13).
+    Perfilhando esse entendimento, destaco:
+    “PROCESSUAL PENAL. EXECUÇÃO PENAL. CRIME DOLOSO. AUSÊNCIA DE SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. INOCORRÊNCIA DE FALTA GRAVE. LEI DE EXECUÇÕES PENAIS, ART. 52. IMPOSSIBILIDADE DE REGRESSÃO DE REGIME. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE AFRONTA AO ART. 5º, LVII, DA CONSTITUIÇÃO FEDERAL. OFENSA INDIRETA. MATÉRIA INFRACONSTITUCIONAL. 1. A violação constitucional dependente da análise do malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, não ensejando recurso extraordinário. Precedentes: AI n. 738.145 - AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Ministra CÁRMEM LÚCIA, 1ª Turma, DJ 18.03.11. 2. Agravo regimental desprovido” (AI nº 801.325/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 17/6/11 – grifei);
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL. O recurso extraordinário não é meio próprio a alcançar-se exame de controvérsia equacionada sob o ângulo estritamente legal” (AI nº 706.134/RS-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 21/2/11).
+    Diga-se, ademais, que a jurisprudência desta Suprema Corte firmou-se no sentido de que “[ó] réu que cumpre pena privativa de liberdade em regime menos severo, ao praticar falta grave, pode ser transferido para regime mais gravoso” (HC nº 102.365/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 1º/8/11).
+    No mesmo sentido o HC nº 106.909/SP, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 4/10/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 8 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
