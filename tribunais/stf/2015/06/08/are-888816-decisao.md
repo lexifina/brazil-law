@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. ALEGAÇÃO DE CONTRARIEDADE AO DEVIDO PROCESSO LEGAL. BASE DE CÁLCULO DE ADICIONAL DE SEXTA-PARTE E DE QUINQUÊNIO: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, als. a e c, da Constituição da República contra o seguinte julgado da Turma Recursal dos Juizados Especiais de São Paulo:
+    “Trata-se de Recurso Inominado interposto pela MUNICIPALIDADE DE ITAPEVA no qual postula a reforma de sentença que julgou procedente os pedidos formulados por Elizete Lopes Moreira, para conceder-lhe o direito de recebimento de quinquênio e sexta parte sobre as parcelas que compõem seus vencimentos, salvo vantagens eventuais, além do recálculo sobre as parcelas vencidas, nos termos do direito reconhecido.
+    (…)
+    A sentença mostra-se irretocável por ter tratado da questão de mérito com muita proficiência, sempre aliada à legislação aplicável à espécie e à jurisprudência atinente ao tema.
+    A jurisprudência do Egrégio Tribunal de Justiça de São Paulo é pacífica no sentido de acolhimento dos pleitos da parte ora recorrida, não havendo espaço para o atendimento da pretensão recursal. Nesse sentido, sua Súmula de n. 28: ‘Aos admitidos na forma da Lei n. 500/74 são devidas sexta-parte e licença-prêmio’” (fls. 141-142).
+    Os embargos de declaração opostos foram rejeitados (fls. 153-155).
+    2. No recurso extraordinário, o Agravante afirma ter a Turma Recursal contrariado os arts. 5º, incs. XXXV, LIV e LV, 37, incs. XIV e XV, e 93, inc. IX, da Constituição da República e o art. 17 do Ato das Disposições Constitucionais Transitórias.
+    Sustenta que “o texto legal [Lei municipal n. 1777/2002] não utiliza o vocábulo ‘vencimentos’ ou ‘vencimentos integrais’, mas sim ‘salário-base’, não sendo permitida sua ampliação. Logo, a própria lei estabelece como base de cálculo dos referidos adicionais o salário base” (fl. 161).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta (fls. 167-168).
+    No agravo, assevera-se ser direta a ofensa à Constituição da República (fls. 170-174).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    7. No julgamento do Recurso Extraordinário com Agravo n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral à alegação de cerceamento do direito de defesa, quando sua verificação depender do reexame da legislação infraconstitucional:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    8. Ressalte-se ter a Turma Recursal determinado “o recálculo da sexta parte e quinquênios sobre os vencimentos integrais, ressalvadas as verbas eventuais e o benefício de igual natureza” (fls. 91-92), com base na interpretação e aplicação da legislação municipal.
+    No julgamento do Recurso Extraordinário com Agravo n. 675.153, Relator o Ministro Ayres Britto, e no do Recurso Extraordinário n. 764.332, Relator o Ministro Joaquim Barbosa, este Supremo Tribunal assentou inexistir repercussão geral na questão discutida nestes autos sobre a base de cálculo do adicional de sexta-parte e de quinquênio:
+    “ADMINISTRATIVO. ADICIONAL DE ‘SEXTA-PARTE’. SERVIDOR PÚBLICO ESTADUAL ESTATUTÁRIO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. Nos termos da jurisprudência do Supremo Tribunal Federal, está circunscrito ao âmbito infraconstitucional o tema atinente à incidência do adicional de ‘sexta-parte’ sobre a integralidade dos vencimentos dos servidores públicos estaduais estatutários. Não havendo, em rigor, questão constitucional a ser apreciada por esta Suprema Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608” (ARE 675.153-RG, Relator o Ministro Ayres Britto, Plenário Virtual, DJe 11.9.2012).
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. QUINQUÊNIO. INCIDÊNCIA SOBRE OS VENCIMENTOS INTEGRAIS, INCLUINDO OS ADICIONAIS E AS GRATIFICAÇÕES REPUTADOS COMO DE NATUREZA PERMANENTE. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ATRIBUIÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO” (RE 764.332-RG, Relator o Ministro Joaquim Barbosa, Plenário Virtual, DJe 21.3.2014).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos que suscitarem a mesma questão constitucional devem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de junho de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
