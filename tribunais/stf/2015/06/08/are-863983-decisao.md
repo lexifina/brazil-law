@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, II, XXXV, LIV e LV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O exame de eventual ofensa aos preceitos constitucionais indicados nas razões recursais, consagradores dos princípios da legalidade, da proteção ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, bem como ao devido processo legal, ao contraditório e à ampla defesa (art. 5º da Lei Maior), demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, in verbis:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AVALIAÇÃO DE IMÓVEL. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. OFENSA REFLEXA. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL.
+    1. O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso extraordinário, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo o óbice da Súmula 282 do Supremo Tribunal Federal.
+    2. A violação indireta ou reflexa das regras constitucionais não enseja recurso extraordinário. Precedentes: AI n. 738.145 - AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Ministra CÁRMEN LÚCIA, 1ª Turma, DJ 18.03.11.
+    3. A alegação de ofensa aos postulados da legalidade, do devido processo legal, da ampla defesa, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se ocorrente, seria indireta ou reflexa. Precedentes: AI n. 803.857-AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 17.03.11; AI n. 812.678-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma, DJ 08.02.11; AI n. 513.804-AgR, Rel. Min. JOAQUIM BARBOSA, 1ª Turma, DJ 01.02.11 .
+    4. In casu, o acórdão originariamente recorrido assentou: ‘Execução de título extrajudicial. Decisão que indeferiu o pedido de nova avaliação do imóvel. Agravo do executado. Existência de avaliação realizada por perito judicial. Nova avaliação. Desnecessidade. Não demonstração da modificação do valor da coisa. Inteligência do artigo 683, II, do CPC. Decisão mantida. Agravo improvido.’
+Agravo regimental desprovido.” (ARE 653.499-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 08.6.2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. COMPETÊNCIA PARA ELABORAÇÃO DE PARECER TÉCNICO DE AVALIAÇÃO MERCADOLÓGICA. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 708.474-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 08.11.2012)
+    Noutro giro, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por fim, observo que o Superior Tribunal de Justiça deu parcial provimento ao recurso especial da parte ora recorrente para afastar a multa aplicada pelo Tribunal de origem.
+    Desta forma, julgo prejudicado o apelo na parte relativa à aplicação da multa e nego seguimento ao recurso extraordinário (art. 21, IX, e § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de junho de 2015.
+Ministra Rosa Weber
+Relatora
