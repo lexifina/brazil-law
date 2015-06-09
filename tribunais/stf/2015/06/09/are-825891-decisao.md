@@ -1,0 +1,23 @@
+Decisão:
+    Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário fundado na letra a do permissivo constitucional.
+    O acórdão do Tribunal de Justiça do Estado de Pernambuco restou assim ementado:
+    "PROCESSUAL CIVIL. TRIBUTÁRIO. OMISSÃO INEXISTENTE. DEVIDO ENFRENTAMENTO DAS RAZÕES DA APELAÇÃO. INOVAÇÃO RECURSAL. VEDAÇÃO. ANÁLISE DA DEMANDA À LUZ DE NORMATIVO INFRALEGAL E DE PRECEITOS CONSTITUCIONAIS.
+    1. Não há violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso de apelação.
+    2. As questão atinentes à irretroatividade da Portaria SECEX n. 12/2003 e sua invalidade formal, e aos arts. 3º e 12 da Lei Complementar n. 87/96 somente foram aduzidas nas razões do agravo regimental interposto contra o decisum monocrático do relator, o que evidencia a prescindibilidade de manifestação da Corte de origem sobre tais temas, ante a patente inovação recursal da parte, manobra processual vedada pela jurisprudência desta Corte.
+    Agravo regimental improvido." (fls. 196/197)
+    No extraordinário, aduz-se ofensa do art. 155, § 2º, X, a da Constituição, uma vez que, segundo entende, o acórdão concluiu que o recorrido “não se sujeita ao pagamento do ICMS, equiparando a venda por ele efetuada a uma operação de exportação, quando de fato não preenche os requisitos legalmente exigidos para tanto”. Aduz que a violação se deu ao declarar imunidade na operação, não contemplada no aludido dispositivo. Sustenta, ademais, afronta aos artigos 146 e 151 da Constituição, na medida em que atribui status de lei complementar à uma Portaria SECEX nº 12/2003, emitida pela União, “fundamentando por meio dela, a exoneração tributária”.
+    Decido.
+    Em primeiro lugar a matéria contida nos arts. 146 e 151 da Constituição, carece do necessário prequestionamento, uma vez foi suscitada, vez primeira, somente nos embargos de declaração opostos do acórdão recorrido. Incidência das Súmulas 282 e 356/STF. Ressalto que esta Corte não admite o denominado prequestionamento implícito.
+    No mais, a conclusão do acórdão recorrido, no que interessa, é a seguinte:
+    Como bem exposto na decisão agravada, o âmago da questão em apreço diz respeito à possibilidade de incidência do ICMS, ou não, sobre operações de venda de joias, metais e pedras preciosas a pessoas não residentes no Brasil (estrangeiros), feita em moeda estrangeira que destinem mercadorias ao exterior.
+    Nessa linha é firme o entendimento deste Sodalício no sentido de que sobre as operações de vendas a estrangeiros não residentes no Brasil não deve incidir o ICMS, em razão da disposição prevista pela Portaria SECEX nº 12/2003, assim, sujeita à regra contida no artigo 155, § 2º, X, “a” da CF/88 que veda a incidência de ICMS sobre operações que destinem mercadorias ao exterior.”
+    Para dissentir do que decidido e perquirir sobre a alegada afronta ao art. 155, § 2º, X, “a” da Constituição, seria necessário o reexame da causa à luz da legislação infraconstitucional de regência (Portaria SECEX nº 12/2003; art. 3º, II, parágrafo único, I e II e art. 12, I, da LC nº 87/96). Eventual afronta ao texto constitucional, caso ocorresse, seria meramente reflexa ou indireta.
+    Em sentido análogo ao presente caso, cito:
+    DEVIDO PROCESSO LEGAL – PRESTAÇÃO JURISDICIONAL – NULIDADE – RECURSO EXTRAORDINÁRIO. Se, de um lado, mostra-se possível haver situação concreta em que inobservado o devido processo legal a ponto de enquadrar o recurso extraordinário no permissivo que lhe é próprio, de outro, descabe confundir a ausência de aperfeiçoamento da prestação jurisdicional com a entrega de forma contrária a interesses. RECURSO EXTRAORDINÁRIO – PIS E COFINS – BENEFÍCIO FISCAL – PRODUTOS DESTINADOS À ZONA FRANCA DE MANAUS – EQUIPARAÇÃO ÀS EXPORTAÇÕES DESTINADAS AO ESTRANGEIRO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. MULTA – AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL. Surgindo do exame do agravo o caráter manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil. (ARE nº 640.936/SP – AgR, Primeira Turma, Dje 8/5/14)
+    Ainda no mesmo sentido: RE nº 747.847/RS, Rel. Min. Cármen Lúcia, Dje 27/8/13; RE nº 756.657/MT, de minha relatoria, Dje 29/5/14; AI nº 765.905/SC, Rel. Min. Gilmar Mendes, Dje 25/6/12.
+    Diante do exposto, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
