@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade aos artigos 150, VI, “a”, e 173, § 2°, da Constituição Federal.
+    Anote-se a ementa do julgado proferido pela instância de origem:
+    “DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU. TAXAS DE SERVIÇOS. IMÓVEL PARTICIPANTE DO PROGRAMA DE ARRENDAMENTO RESIDENCIAL. LEI N° 10.188/2011. ILEGITIMIDADE PASSIVA DA CEF. 1. Os imóveis participantes do Programa de Arrendamento – PAR, instituído pela Lei n 10.188/2011, integram o patrimônio da União Federal, cabendo consoante o disposto no artigo 1° da referida lei, ao Ministério das Cidades a sua gestão, e à Caixa Econômica Federal tão somente a sua operacionalização. 2. Ilegitimidade passiva da Caixa Econômica Federal. 3. Sentença anulada. 4. Apelações a que se julga prejudicadas”.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere ao artigo 173, § 2°, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte.
+    Verifica-se que para ultrapassar o entendimento do Tribunal de origem acerca da titularidade do patrimônio objeto da presente lide para fins de análise da incidência de IPTU e taxas, seria necessária a averiguação da legislação infraconstitucional pertinente (Lei n° 10.188/01), bem como dos fatos e provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência do enunciado da Súmula 279/STF.
+     Desse modo, a alegada violação do dispositivo constitucional invocado seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA SOBRE OS REQUISITOS NECESSÁRIOS À CONCESSÃO DA IMUNIDADE TRIBUTÁRIA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – Para acolher a pretensão do agravante quanto à exclusão da imunidade tributária reconhecia à entidade de previdência, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II - Agravo improvido” (AI n° 632.223/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/11/10).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ENTIDADE FILANTRÓPICA. IMUNIDADE. PREENCHIMENTO DOS REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n° 576.130/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/4/10).
+    “Agravo regimental em agravo de instrumento 2. Imunidade Tributária. Entidade sem fins lucrativos. Comprovação de existência dos requisitos para concessão do benefício. Art. 14 do Código Tributário Nacional. Interpretação de legislação infraconstitucional. Ofensa reflexa. Súmula 279/STF. Precedentes. 3. Agravo regimental a que se nega provimento” (AI nº 512.985/RJ-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 9/11/07).
+    No mesmo sentido: RE n° 869.572/SP, Relatora da Ministra Cármen Lúcia, DJe de 8/4/15; RE n° 872.192/SP, Relatora da Ministra Cármen Lúcia, DJe de 8/4/15; RE n° 808.832/SP, Relatora a Ministra Cármen Lúcia, DJe de 13/6/14 e RE n° 872.105/SP, Relator o Ministro Gilmar Mendes, DJe de 25/3/15.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
