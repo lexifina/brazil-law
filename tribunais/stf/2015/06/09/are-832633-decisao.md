@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto do acórdão da Quarta Turma Suplementar do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL CONTRA DECISÃO QUE NEGA SEGUIMENTO MONOCRATICAMENTE À APELAÇÃO. CPC, ART 557, CAPUT. AGÊNCIA NACIONAL DE PETRÓLEO. AUTO DE INFRAÇÃO. APLICAÇÃO DE PENALIDADE ADMINISTRATIVA SEM RESPALDO EM LEI FORMAL. IMPOSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA. IMPROVIMENTO DO AGRAVO REGIMENTAL.
+    1. Em obséquio ao princípio da reserva legal, não é dado à Administração Pública aplicar penalidades administrativas (multas) sem respaldo em lei formal.
+    2. Afigura-se manifestamente ilegal a conduta da ANP ao lavrar Auto de Infração e processo administrativo com base na Portaria MINFRA n. 843/90, sobretudo em momento anterior ao advento de Lei 9.847/99.
+    3. Precedentes do TFR da 1° Região e do Superior Tribunal de Justiça
+    4. Agravo regimental improvido.”
+    Opostos embargos de declaração, foram rejeitados.
+    Alega a recorrente violação dos artigos 170, 174 e 177, § 2º, inciso III, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+     A irresignação não merece prosperar.
+    No que se refere aos artigos 174 e 177, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais as instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279/STF. Sobre o tema:
+    “Agravo regimental em agravo de instrumento. 2. Portaria e poder regulamentar. Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI nº 745.965-AgR/RJ, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 29/6/11).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. COMERCIALIZAÇÃO DE DERIVADOS DE PETRÓLEO. ATIVIDADE FISCALIZATÓRIA E REGULADORA DO MERCADO DE COMBUSTÍVEIS. PROTEÇÃO AO CONSUMIDOR. RESTRIÇÕES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. O Supremo Tribunal Federal assentou que o princípio da livre iniciativa não pode ser invocado para afastar regras de regulamentação do mercado e de defesa do consumidor. Precedentes” (AI nº 636.883-AgR/RJ, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1/3/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PORTARIA N. 202/99 DA ANP. EXIGÊNCIA DE COMPROVAÇÃO DE REGULARIDADE JUNTO AO SICAF. LEI 9.478/97. MATÉRIA INFRACONSTITUCIONAL. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (RE nº 568.471/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 15/8/08).
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. INMETRO. LEI 5.966/73. PORTARIAS. MATÉRIA INFRACONSTITUCIONAL. 1. Cotejo entre a Lei 5.966/73 e suas portarias regulamentadoras. Questão de legalidade. Incidência da Súmula STF nº 636. 2. Agravo regimental improvido” (RE nº 410.484/PR-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 3/2/06).
+    “1. Recurso extraordinário: descabimento: alegadas violações do texto constitucional que seriam, se ocorressem, indiretas ou reflexas, dependentes da prévia interpretação da legislação ordinária regente da espécie (Dec. 87497/82; Portaria MEC 1886/94; Código de Defesa do Consumidor) e de cláusula contratual. 2. Recurso extraordinário: inadmissibilidade: Súmula 636. Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” (AI nº 472.469/MS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 14/5/04).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
