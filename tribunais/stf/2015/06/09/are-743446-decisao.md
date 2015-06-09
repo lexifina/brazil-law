@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Câmara Direito Publico do Tribunal de Justiça de São Paulo, assim ementado:
+    “SERVIDOR PÚBLICO – UNICAMP – RDIDP – Aposentadoria com proventos proporcionais, mesmo preenchidos os requisitos constitucionais para a aposentadoria voluntária, com proventos integrais – Inadmissibilidade – Existência de deliberação administrativa da Universidade prevendo outros requisitos, não preenchidos pela impetrante – Irrelevância – Submissão da norma regulamentar ao comando constitucional do art. 40, § 3º e 1º, III. - Segurança concedida – Recurso provido” (fl. 438).
+    Alega a parte recorrente violação dos artigos 40, § 1º, inciso III, e § 3º, e 207 da Constituição Federal.
+    Decido.
+    Não merece prosperar irresignação.
+    Colhe-se do voto condutor do acórdão recorrido o seguinte:
+    “A impetrante, Professora Titular da Universidade Estadual de Campinas – UNICAMP, prestou serviços na autarquia desde 04.04.89, sendo certo que a partir de 16.08.93 exerceu funções de docência funções de docência em RDIDP – Regime de Dedicação Integral à Docência e Pesquisa até sua aposentadoria, em 15.08.2007.
+    Conforme se depreende do documento de fls. 237/241 foi-lhe concedida aposentadoria, com proventos proporcionais, calculados de acordo com o disposto no art. 4º da Deliberação CONSU-A-5/97, considerando o tempo de serviço prestrado nos variados regimes de trabalho, quais sejam, RDIDP, RTC e RTP, posto não ter alcançado o prazo mínimo de quinze anos ininterruptos ou, vinte interpolados, no Regime de Dedicação integral à Docência e Pesquisa, nos termos da Deliberação CONSU 338/90, acarretando-lhe sensível diminuição dos proventos.
+    Com efeito, dispõe o estatuto da Universidade que:
+    (…)
+    Depreende-se, assim, que a prestação de serviços nos regimes especificados nos Estatutos, está ligado ao período de trabalho dispensado pelo docente à Universidade, de forma que o regime de trabalho é atrelado aos vencimentos em função, apenas, da dedicação do professor às atividades acadêmicas em menor ou maior intensidade, variando, assim, o piso salarial de acordo com o tempo despendido na autarquia, como mencionado na apelação 851.367.5/5, relator Des. Ronaldo Fringini, em caso semelhante.
+    Assim conclui-se que os valores pagos ao docente em RDIDP é vencimento e não vantagem que se incorpore ao longo do tempo.
+    Embora a Universidade goze de autonomia jurídica e tenha independência em relação às normas internas, de disciplina do pagamento de vencimentos aos seus professores, enquanto ente autárquico é obrigada a acolher as normas constitucionais e as leis federais e estaduais pertinentes ao comandos inovadores da ordem jurídica.
+    (…)
+    Verifica-se , portanto, que a Universidade está submissa ao regime constitucional previdenciário e por extensão a todo sistema jurídico de seus agentes para efeitos administrativos e previdenciários. Não há que se falar em autonomia para impor regras próprias em desrespeito às leis’.”
+    Vê-se que o Tribunal de origem concluiu que a recorrida preencheu todos os requisitos constitucionais para que faça jus à aposentadoria com proventos integrais. Com efeito, para divergir desse entendimento seria necessária à interpretação da legislação infraconstitucional pertinente e ao reexame dos fatos e provas que compõem a lide, operações vedadas em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n° 665.429/SC-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia , DJe de 1°/8/12).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. MAGISTÉRIO. REQUISITOS PARA A APOSENTADORIA ESPECIAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL E DE REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 596.519/SP-ED, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 27/11/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. APOSENTADORIA. REQUISITOS. LEGISLAÇÃO LOCAL. FATOS E PROVAS. SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local e de fatos e provas, circunstância que impede a admissão do recurso extraordinário, ante os óbices das Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE nº 590.477/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 17/10/08).
+    Por fim, ressalte-se que esta Corte já assentou em diversas oportunidades que o princípio da autonomia universitária não se confunde com soberania, devendo estas se submeterem às leis e demais atos normativos. A propósito:
+    “AGRAVO REGIMENTAL. INSTITUIÇÃO DE ENSINO SUPERIOR. COBRANÇA ABUSIVA. CÓDIGO DE DEFESA DO CONSUMIDOR. AUTONOMIA UNIVERSITÁRIA. ALEGAÇÃO DE OFENSA AOS ARTIGOS 207 E 209 DA CONSTITUIÇÃO FEDERAL. DISCUSSÃO INFRACONSTITUCIONAL. Nos termos da jurisprudência deste Tribunal, o princípio da autonomia universitária não significa soberania das universidades, devendo estas se submeter às leis e demais atos normativos. Controvérsia decidida à luz da legislação infraconstitucional. A alegada ofensa à Constituição, se existente, seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Agravo regimental a que se nega provimento” (AI nº 647.482/RJ-AgR, Primeira Turma, Relator o Ministro Joaquim Barbosa, DJe de 31/3/11).
+    O acórdão recorrido não divergiu dessa orientação.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
