@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade aos artigos 2°, 5°, II e LIV, e 153, § 3°, II, da Constituição Federal.
+    Sustenta a recorrente que, “silenciado a lei acerca da correção monetária, falece ao seu aplicador autorizar, ou mesmo aceitar, sejam os saldos de créditos referentes ao IPI corrigidos monetariamente”.
+    Insurge-se contra acórdão, assim ementado, na parte que interessa:
+    “RECURSO ADESIVO - APELAÇÃO CÍVEL - REMESSA NECESSÁRIA - IPI –COMPENSAÇÃO – PERÍODO POSTERIOR À LEI 9.779/99 – POSSIBILIDADE – PRESCRIÇÃO – QUESTÃO PREJUDICADA - - CORREÇÃO MONETÁRIA – TAXA SELIC – CABIMENTO – RECURSOS E APELAÇÃO PARCIALMENTE PROVIDOS”.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 2° e 5°, II e LIV, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte.
+    Mesmo que assim não fosse, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III – Agravo regimental improvido” (AI nº 812.481/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11).
+    Ademais, verifica-se que a instância de origem decidiu a controvérsia consignando que ocorreu óbice injustificado do Fisco no que tange ao aproveitamento de créditos tributários, possibilitando, portanto, a correção monetária no caso em tela.
+    Note-se que esta Corte consolidou entendimento no sentido de ser cabível a incidência da correção monetária sobre créditos tributários quando há oposição injustificada do Fisco no que tange ao aproveitamento dos referidos créditos. Nesse sentido, anote-se:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. TRIBUTÁRIO. CRÉDITOS DE IPI. INDEVIDA OPOSIÇÃO DO FISCO. CORREÇÃO MONETÁRIA. INCIDÊNCIA. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte firmou-se no sentido de que, nos casos em que se reconhece a ilegítima resistência do Estado em possibilitar o aproveitamento dos créditos do IPI e do ICMS, os respectivos créditos devem ser atualizados monetariamente. Precedentes. II – Agravo regimental improvido” (AI n° 820.614/RS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 4/3/11).
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IPI. CORREÇÃO MONETÁRIA. RESISTÊNCIA ILEGÍTIMA DO ESTADO. INCIDÊNCIA. AGRAVO IMPROVIDO. I - Incide correção monetária no período em que se reconheceu ilegítima a resistência do Estado em possibilitar o aproveitamento dos créditos mencionados. Precedentes. II - Agravo regimental improvido” (RE n° 572.395/PR-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, Dje de 25/9/09).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
