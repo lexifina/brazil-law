@@ -1,0 +1,44 @@
+Decisão:
+    Vistos.
+    Felipe Ribeiro de Araújo interpõe recurso extraordinário, assentado em contrariedade ao art. 5º, LVII, e art. 93, IX, da Constituição Federal, contra acórdão proferido pela Turma Recursal de Pouso Alegre/MG que negou provimento à apelação desproveu o recurso de apelação .
+    Nas razões do recurso extraordinário, aduz que o acórdão guerreado padece de motivação, uma vez que se limitou “a valer-se dos fundamentos da decisão de 1º grau para seu convencimento”, nos termos do art. 82, § 5º, da Lei nº 9.099/95, que, a seu ver, é inconstitucional, por afronta ao art. 93, IX, da Constituição Federal.
+    Sustenta ainda ofensa ao art. 5º, LVII, da Constituição Federal, uma vez que, não obstante primário o recorrente, a sentença condenatória valorou negativamente seus antecedentes, ao fundamento de responder a vários inquéritos e processos em andamento.
+    Examinados os autos decido.
+    Anote-se, inicialmente, que o acórdão proferido em sede de embargos de declaração foi publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07).
+    Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    O inconformismo, todavia, não prospera.
+    Diversamente do que sustenta o recorrente, não houve violação ao princípio constitucional da motivação das decisões judiciais.
+    O Supremo Tribunal Federal, no RE nº 635.729/SP-RG, Pleno, de minha relatoria, DJe de 24/8/11, reafirmou a jurisprudência da Corte, no sentido de que o art. 82, § 5º, da Lei nº 9.099/95 faculta ao Colégio Recursal do Juizado Especial, em matéria criminal, a remissão aos fundamentos adotados na sentença, sem que isso implique afronta ao art. 93, inciso IX, da Constituição. Transcrevo a ementa desse julgado:
+    Juizado especial. Parágrafo 5º do art. 82 da Lei nº 9.099/95. Ausência de fundamentação. Artigo 93, inciso IX, da Constituição Federal. Não ocorrência. Possibilidade de o colégio recursal fazer remissão aos fundamentos adotados na sentença. Jurisprudência pacificada na Corte. Matéria com repercussão geral. Reafirmação da jurisprudência do Supremo Tribunal Federal.
+    Destacaram-se, nesse julgado, os seguintes precedentes:
+    “Agravo regimental no agravo de instrumento. Juizados especiais. Turma recursal. Remissão aos fundamentos da sentença. Lei nº 9.099/95. Possibilidade.
+    1. Não viola a exigência constitucional de motivação a fundamentação de turma recursal que, em conformidade com a Lei nº 9.099/95, adota os fundamentos contidos na sentença recorrida.
+    2. Agravo regimental não provido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (AI nº 729.784/RJ-AgR, Primeira Turma, de minha relatoria, DJe de 9/3/11);
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. JUIZADO ESPECIAL. ACÓRDÃO QUE MANTÉM A SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS. ALEGADA OFENSA AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO IMPROVIDO.
+    I Não viola a exigência constitucional de motivação, a decisão de Turma Recursal de juizados especiais que, em conformidade com a Lei nº 9.099/95, adota como fundamento os contidos na sentença recorrida. Precedentes.
+     II Agravo regimental improvido” (AI nº 789.441/AP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 25/11/10);
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. JUIZADO ESPECIAL. REMISSÃO AOS FUNDAMENTOS DA SENTENÇA. AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+    1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil.
+    2. O § 5º do artigo 82 da Lei n. 9.099/95 faculta ao Colégio Recursal do Juizado Especial a remissão aos fundamentos adotados na sentença, sem que isso implique afronta ao artigo 93, IX, da Constituição do Brasil.
+    3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal.
+    Agravo regimental a que se nega provimento” (AI nº 649.140/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 17/8/07).
+    Por sua vez, o art. 5º, inciso LVII, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pela Turma Recursal do Juizado Especial Criminal não cuidaram da referida norma. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    De toda sorte, o caso concreto demanda algumas reflexões.
+    Conforme preconizado pela jurisprudência da Suprema Corte,
+    [o] princípio constitucional da não culpabilidade, inscrito no art. 5º, LVII, da Carta Política, não permite que se formule, contra o réu, juízo negativo de maus antecedentes fundado na mera instauração de inquéritos policiais em andamento, ou na existência de processos penais em curso, ou, até mesmo, na ocorrência de condenações criminais ainda sujeitas a recurso, revelando-se arbitrária a exacerbação da pena quando apoiada em situações processuais indefinidas, pois somente títulos penais condenatórios, revestidos da autoridade da coisa julgada, podem legitimar tratamento jurídico desfavorável ao sentenciado (HC nº 106.157/SP, Primeira Turma, de minha relatoria , DJe de 27/5/11, grifei).
+    Esse entendimento foi referendado pelo Plenário do Supremo Tribunal Federal no julgamento do RE nº 591.054/SC-RG, relator o Ministro Marco Aurélio, DJe de 26/2/15, cuja ementa transcrevo:
+    “PENA – FIXAÇÃO – ANTECEDENTES CRIMINAIS – INQUÉRITOS E PROCESSOS EM CURSO – DESINFLUÊNCIA. Ante o princípio constitucional da não culpabilidade, inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais”.
+    A presunção de inocência, como norma de tratamento, significa que, diante do estado de inocência que lhe é assegurado por esse princípio, o imputado, no curso da persecução penal, não pode ser tratado como culpado nem a este equiparado (GOMES FILHO, Antônio Magalhães. Presunção de inocência e prisão cautelar. São Paulo: Saraiva, 1991, p. 42. ZANOIDE DE MORAES, Maurício. Presunção de inocência no processo penal brasileiro: análise de sua estrutura normativa para a elaboração legislativa e para a decisão judicial. Rio de Janeiro: Lumen Juris, 2010, p. 503. BADARÓ, Gustavo Henrique Righi Ivahy. Processo penal. Rio de Janeiro: Campus: Elsevier, 2012, pp. 24-25).
+    Como observa Luigi Ferrajoli, se a jurisdição é inafastável para obtenção da prova de que um sujeito cometeu um crime, caso essa prova não seja encontrada mediante um juízo regular, o imputado não poderá ser reputado culpado nem submetido a pena. O princípio da submissão à jurisdição, ao exigir que não haja culpa sem juízo, e que não haja juízo sem que a acusação se sujeite à prova e à refutação, “postula a presunção de inocência do imputado até prova contrária decretada pela sentença definitiva de condenação” (Direito e Razão: teoria do garantismo penal. Trad. Ana Paula Zomer Sica, Fauzi Hassan Choukr, Juarez Tavares e Luiz Flávio Gomes. 3ª ed. rev. São Paulo: Revista dos Tribunais, 2010, pp. 505-506).
+    Na espécie, a sentença condenatória, mantida pelo Turma Recursal, está assim fundamentada na parte que interessa:
+    “(…) quanto aos antecedentes, verifico que o réu apresenta longa lista de processos e inquéritos, conforme CAC de ff. 20-22, pesando, portanto, contrariamente ao réu”. (fl. 54).
+    À primeira vista, portanto, haveria aparente ilegalidade a ser reparada, em razão da valoração negativa dos antecedentes do recorrente, à conta de processos em andamento e inquéritos, em manifesta contrariedade à jurisprudência desta Corte.
+    Ocorre que, não obstante essas considerações, o recorrente foi condenado, tão somente, à pena de multa, que veio a ser fixada no mínimo legal de 10 (dez) dias-multa.
+    Outrossim, o valor de cada dia-multa, de acordo com a sentença, foi fixado em meio salário mínimo, “em razão da condição econômica do condenado” (fl. 54), e não em razão de supostos maus antecedentes.
+    Logo, como não adveio ao recorrente nenhum prejuízo concreto, na dosimetria da pena, em razão da indevida valoração negativa de seus antecedentes, nada há que ser reparado.
+    Com essas considerações, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
