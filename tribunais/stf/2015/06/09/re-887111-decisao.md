@@ -1,0 +1,14 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade ao artigo 5°, XXXV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte. Anote-se:
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS STF 282 E 356. 1. Não tendo sido apreciadas, pela instância a quo, as questões constitucionais em que se apoia o extraordinário, é imprescindível a oposição de embargos de declaração para suprir o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o "prequestionamento implícito" da questão constitucional. AI 413.963-AgR/SC, rel. Min. Celso de Mello, DJ 1º.04.2005. 3. Não há negativa de prestação jurisdicional quando a parte recorrente opta por não atacar o fundamento infraconstitucional, arrastando para si a preclusão temporal para viabilizar, em tese, a sua pretensão. 4. Agravo regimental improvido” (RE n° 353.514/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 1°/10/10) (Grifo nosso).
+    Mesmo que assim não o fosse, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta ao inciso XXXV do art. 5° da CF/88, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III – Agravo regimental improvido” (AI nº 812.481/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
