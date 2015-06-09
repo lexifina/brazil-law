@@ -1,0 +1,13 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, ao julgar o RE 474.267/RS, Rel. Min. JOAQUIM BARBOSA, fixou orientação sobre a controvérsia ora em análise, proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS. ICMS. IMPORTAÇÃO. PESSOA QUE NÃO SE DEDICA AO COMÉRCIO OU À PRESTAÇÃO DE SERVIÇOS DE COMUNICAÇÃO OU DE TRANSPORTE INTERESTADUAL OU INTERMUNICIPAL. ‘NÃO CONTRIBUINTE’. VIGÊNCIA DA EMENDA CONSTITUCIONAL 33/2002. POSSIBILIDADE.
+    REQUISITO DE VALIDADE. FLUXO DE POSITIVAÇÃO. EXERCÍCIO DA COMPETÊNCIA TRIBUTÁRIA. CRITÉRIOS PARA AFERIÇÃO.
+    1. Há competência constitucional para estender a incidência do ICMS à operação de importação de bem destinado a pessoa que não se dedica habitualmente ao comércio ou à prestação de serviços, após a vigência da EC 33/2001.
+    2. A incidência do ICMS sobre operação de importação de bem não viola, em princípio, a regra da vedação à cumulatividade (art. 155, § 2º, I da Constituição), pois se não houver acumulação da carga tributária, nada haveria a ser compensado.
+    3. Divergência entre as expressões ‘bem’ e ‘mercadoria’ (arts. 155, II e 155, § 2, IX, a da Constituição). É constitucional a tributação das operações de circulação jurídica de bens amparadas pela importação. A operação de importação não descaracteriza, tão-somente por si, a classificação do bem importado como mercadoria. Em sentido semelhante, a circunstância de o destinatário do bem não ser contribuinte habitual do tributo também não afeta a caracterização da operação de circulação de mercadoria. Ademais, a exoneração das operações de importação pode desequilibrar as relações pertinentes às operações internas com o mesmo tipo de bem, de modo a afetar os princípios da isonomia e da livre concorrência.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito desta Suprema Corte (ARE 816.190/PR, Rel. Min. DIAS TOFFOLI – ARE 848.046/RS, Rel. Min. ROSA WEBER – ARE 850.253/BA, Rel. Min. DIAS TOFFOLI, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com a diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 09 de junho de 2015.
+Ministro CELSO DE MELLO
+Relator
