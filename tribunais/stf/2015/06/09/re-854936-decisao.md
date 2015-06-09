@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade ao artigo 150, VI, “a”, da Constituição Federal. Sustenta o recorrente que o Fundo de Arrendamento Residencial é constituído de bens e direitos adquiridos pela Caixa Econômica Federal e não por recursos da União Federal.
+    Anote-se parte da ementa do acórdão proferido pelo Tribunal de origem:
+    “EMBARGOS À EXECUÇÃO FISCAL. IPTU. TAXA DE LIXO. IMÓVEL DO PROGRAMA DE ARRENDAMENTO RESIDENCIAL. SENTENÇA ULTRA PETITA REDUZIDA AO LIMITE DO PEDIDO. INCIDÊNCIA DE IMUNIDADE RECÍPROCA, SENTENÇA MANTIDA SOB OUTRO FUNDAMENTO. APELAÇÃO PARCIALMENTE PROVIDA.
+     (…)
+    - A despeito de a Lei nº 10.188/2001, que criou o Programa de Arrendamento Residencial - PAR e instituiu o arrendamento residencial e deu outras providências, dispor que cabe à Caixa Econômica Federal a operacionalização do aludido programa, previu que o patrimônio que o integra não pertence à citada instituição financeira, bem como sua gestão incumbe ao Ministério das Cidades.
+     -A propriedade dos bens adquiridos é do fundo financeiro (Fundo de Arrendamento Residencial - FAR) criado pela Caixa Econômica Federal, instituição incumbida somente da operacionalização do programa, segundo as diretrizes da União (Ministério das Cidades), a quem o saldo patrimonial, a final, retornará.
+     - A Lei nº 4.320/1964, que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal, conceitua fundo especial no artigo 71.
+     - Os bens adquiridos no âmbito do Programa de Arrendamento Residencial pertencem ao Fundo de Arrendamento Residencial, o qual, nos termos da Lei nº 4.320/1964, é um fundo especial que está indissociavelmente ligado a um órgão da administração, in casu, a União Federal.
+     - Relativamente ao IPTU, cuja exigibilidade ora se questiona, de que sofre as limitações decorrentes da garantia da imunidade tributária recíproca, princípio garantidor da federação, que é caracterizada pela igualdade político-jurídica dos entes que a compõe. Assim, é vedada a instituição de impostos sobre o patrimônio, a renda e os serviços uns dos outros, como assegura o artigo 150, inciso VI, alínea "a", da Constituição Federal.
+     - No caso dos autos, por serem os imóveis do Fundo de Arrendamento Residencial (PAR) patrimônio da União, inegável que incide a regra imunizante prevista no citado dispositivo constitucional. Cabe destacar o ensinamento de Roque Antonio Carrazza e Regina Helena Costa. Precedente STF. (...)” (fl. 73 e 73-V).
+    Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que para acolher a pretensão do recorrente acerca da análise do fundo referente ao Programa de Arrendamento Residencial – PAR - para fins do exame da imunidade tributária, seria necessária a averiguação da legislação infraconstitucional (Lei n° 10.188/01), o que não é cabível em sede de recurso extraordinário.
+     Desse modo, a alegada violação do dispositivo constitucional invocado seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA SOBRE OS REQUISITOS NECESSÁRIOS À CONCESSÃO DA IMUNIDADE TRIBUTÁRIA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – Para acolher a pretensão do agravante quanto à exclusão da imunidade tributária reconhecia à entidade de previdência, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II - Agravo improvido” (AI n° 632.223/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/11/10).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ENTIDADE FILANTRÓPICA. IMUNIDADE. PREENCHIMENTO DOS REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n° 576.130/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/4/10).
+    “Agravo regimental em agravo de instrumento 2. Imunidade Tributária. Entidade sem fins lucrativos. Comprovação de existência dos requisitos para concessão do benefício. Art. 14 do Código Tributário Nacional. Interpretação de legislação infraconstitucional. Ofensa reflexa. Súmula 279/STF. Precedentes. 3. Agravo regimental a que se nega provimento” (AI nº 512.985/RJ-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 9/11/07).
+    No mesmo sentido: RE n° 869.572/SP, Relatora da Ministra Cármen Lúcia, DJe de 8/4/15; RE n° 872.192/SP, Relatora da Ministra Cármen Lúcia, DJe de 8/4/15; RE n° 808.832/SP, Relatora a Ministra Cármen Lúcia, DJe de 13/6/14 e RE n° 872.105/SP, Relator o Ministro Gilmar Mendes, DJe de 25/3/15.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
