@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra decisão que não admitiu o recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+    Alega no apelo extraordinário violação do art. 155, III, da Constituição Federal. Defende que não é o proprietário do veículo automotor objeto do financiamento.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, com base na interpretação da legislação infraconstitucional aplicável à espécie (Código Civil, Código Tributário Nacional e Lei Estadual nº 14.937/03), decidiu que “A Lei n° 14.937, de 23/12/2003, que dispõe sobre o Imposto sobre a Propriedade de Veículos Automotores – IPVA no Estado de Minas Gerais, elegeu como contribuinte do imposto o proprietário do veículo automotor (art. 4°). Assim, no caso de alienação fiduciária em garantia, caberá ao credor (instituição financeira), na qualidade de proprietário fiduciário, assumir o ônus tributário do veículo”.
+    Desse modo, para ultrapassar o entendimento do acórdão recorrido e acolher a pretensão recursal, seria necessário o revolvimento da citada legislação ordinária, o que é inviável em sede de recurso extraordinário. Eventual ofensa ao texto constitucional seria, se ocorresse, apenas indireta ou reflexa.
+    Esse foi o entendimento firmado, em caso idêntico, por esta Corte no julgamento do ARE nº 830.373/MG-AgR, Primeira Turma, de minha relatoria, decidido em 3/3/15. Em casos análogos, assim decidiu esta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDAMENTAÇÃO. DECISÕES JUDICIAIS. IMPOSTO SOBRE SERVIÇOS. RESPONSABILIDADE SUPLETIVA. PREVISÃO DE LEI LOCAL COM BASE EM PERMISSIVO CONSTANTE DO CÓDIGO TRIBUTÁRIO NACIONAL. O Plenário deste Tribunal assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. O Código Tributário Nacional estabelece a possibilidade do ente competente, mediante lei, atribuir a responsabilidade pelo crédito tributário a terceira pessoa que guarde relação com o fato gerador. A dicção legal também remonta a possibilidade da responsabilidade do contribuinte ser mantida em caráter supletivo. A hipótese trata de lei local cuja imputação de responsabilidade tributária está em harmonia com as balizas previstas pela norma geral, qual seja, o Código Tributário Nacional. O acolhimento da pretensão importaria em reconhecer um potencial conflito entre leis, não havendo repercussão imediata na Constituição Federal. Agravo regimental a que se nega provimento” (ARE nº 765.302/MG-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 19/5/14 – grifei).
+    “PROCESSO CIVIL. AGRAVO REGIMENTAL. TRIBUTÁRIO. IPI. CONCEITO CONTRIBUINTE. ENQUADRAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. 1.Nos termos da jurisprudência deste Tribunal, a questão relativa ao enquadramento no conceito de contribuinte é de índole infraconstitucional, o que enseja o descabimento do recurso extraordinário. 2.Ofensa reflexa ou indireta à Constituição. Agravo ao qual se nega provimento” (RE nº 599.437/SC-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 30/4/10 – grifei).
+    Em sentido convergente, cito a seguinte decisão monocrática: ARE nº 730.560/SP, Relatora a Ministra Cármen Lúcia, DJe de 3/4/13.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
