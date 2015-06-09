@@ -1,0 +1,13 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no ARE 881.383-RG/RN, Rel. Min. TEORI ZAVASCKI, por tratar-se de litígio referente a matéria infraconstitucional e decidido à luz dos fatos e das provas existentes nos autos, fazendo-o em decisão assim ementada:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORA PÚBLICA INATIVA. APOSENTADORIA NO CARGO DE PROFESSORA, COM CARGA HORÁRIA DE 40 HORAS. ALTERAÇÃO DO REGIME DO MAGISTÉRIO ESTADUAL E POSTERIOR REENQUADRAMENTO NO CARGO DE PROFESSOR, COM CARGA HORÁRIA DE 30 HORAS. OCORRÊNCIA DE DECESSO REMUNERATÓRIO. REEXAME DE FATOS E PROVAS (SÚMULA 279/STF). MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia diz respeito à diminuição de proventos de servidora inativa, aposentada no cargo de professora com carga horária de 40 horas, em decorrência da alteração do regime do magistério estadual do Rio Grande do Norte e posterior enquadramento da parte no cargo de professor com carga horária de 30 horas.
+    2. O Tribunal de origem decidiu que a alteração de regime não preservou o montante global do estipêndio até então percebido pela parte, tendo ocorrido redução de caráter pecuniário. O acolhimento da tese recursal, nesse ponto, demandaria a reapreciação do conjunto fático- -probatório dos autos (Súmula 279/STF) e a análise da legislação infraconstitucional aplicável (Lei Complementar Estadual 322/06), de modo que eventual ofensa à Constituição Federal seria meramente indireta.
+    3. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/3/2009).
+    4. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    (ARE 881.383-RG/RN, Rel. Min. TEORI ZAVASCKI)
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte recorrente.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 09 de junho de 2015.
+Ministro CELSO DE MELLO
+Relator
