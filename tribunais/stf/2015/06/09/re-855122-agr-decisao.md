@@ -1,0 +1,15 @@
+DECISÃO
+AGRAVO REGIMENTAL – BAIXA À ORIGEM – RECONSIDERAÇÃO.
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. Afasto a baixa à origem anteriormente determinada.
+    2. A Turma Recursal dos Juizados Federais da Seção Judiciária da Paraíba confirmou a sentença proferida, ante os seguintes fundamentos:
+    CONSTITUCIONAL E ADMINISTRATIVO. APOSENTADO QUE PASSOU A TER VÍNCULO COM O MINISTÉRIO DOS TRANSPORTES, APÓS A EXTINÇÃO DO DNER. DIREITO À EQUIPARAÇÃO DO BENEFÍCIO COM OS VENCIMENTOS DOS SERVIDORES QUE ESTÃO NA ATIVA, OS QUAIS PASSARAM A SER VINCULADOS AO DNIT. LEI Nº. 11.171/05 QUE REESTRUTUROU A CARREIRA À QUAL PERTENCEM. QUESTÃO DECIDIDA DEFINITIVAMENTE NA AÇÃO COLETIVA N.º 2006.34.00.006627-7. ENQUADRAMENTO AO PLANO ESPECIAL DE CARGOS DO DNIT RETROATIVAMENTE A JANEIRO DE 2005. INEXISTÊNCIA DO DIREITO AO ENQUADRAMENTO NO PLANO GERAL DE CARGOS DO PODER EXECUTIVO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA. DESPROVIMENTO.
+    1. Trata-se de ação em que a parte autora postula o pagamento da GDPGTAS e da GDPGPE no mesmo patamar pago aos servidores da ativa. Sentença de improcedência sob o fundamento de que, tendo sido reconhecida, pela ação coletiva n.º 2006.34.00.006627-7, o enquadramento da pensão do(s) autor(es) no Plano Especial de Cargos do DNIT retroativamente a 1º de janeiro de 2005, as demandantes jamais fizeram jus a ser enquadradas no Plano Geral de Cargos do Poder Executivo - PGPE, não tendo direito, portanto, a receber qualquer vantagem decorrente do enquadramento no referido plano, o que inclui a GDPGTAS e a GDPGPE, já que as referidas gratificações, por força do art. 7º e do art. 7º-A da Lei n.º 11.357/2006, com a redação dada pela Medida Provisória n.º 431/2008, posteriormente convertida na Lei n.º 11.784/2008, só eram devidas aos integrantes do PGPE.
+    2. Juizado especial. Parágrafo 5º do art. 82 da Lei nº 9.099/95. Ausência de fundamentação. Artigo 93, inciso IX, da Constituição Federal. Não ocorrência. Possibilidade de o colégio recursal fazer remissão aos fundamentos adotados na sentença. Jurisprudência pacificada na Corte. Matéria com repercussão geral. Reafirmação da jurisprudência do Supremo Tribunal Federal. (RE 635729 RG, Relator Min. Dias Toffoli, julgado em 30/06/2011, DJe 24.08.2011).
+    3. Súmula do julgamento: A Turma Recursal dos Juizados Especiais Federais da Seção Judiciária da Paraíba, reunida em sessão de julgamento ocorrida na data constante da aba “Sessões Recursais” destes autos virtuais, por unanimidade de votos, NEGOU PROVIMENTO ao recurso, com a manutenção da sentença por seus próprios fundamentos, nos termos do art. 82, § 5º, da Lei n. 9.099/95. Condenação em honorários advocatícios fixados em R$ 500,00 (quinhentos reais) e custas processuais, ressalvando a hipótese de assistência judiciária gratuita.
+    3. Dizer-se, a esta altura, contrariada a Carta de 1988 pressupõe o exame dos elementos probatórios do processo e da legislação infraconstitucional.
+    4. Ante o quadro, reconsidero o ato impugnado e nego seguimento ao extraordinário.
+    5. Publiquem.
+Brasília, 9 de junho de 2015.
+Ministro MARCO AURÉLIO
+Relator
