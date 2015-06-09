@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 136, de 2 de junho de 2015
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO EMENTA: IMUNIDADE RECÍPROCA. EMPRESA PÚBLICA. FINALIDADE ESSENCIAL DO ESTADO. PATRIMÔNIO, RENDA OU SERVIÇO RELACIONADO. A imunidade de impostos de que trata o art. 150, VI, a, da Constituição (imunidade recíproca) não se aplica ao patrimônio ou renda de empresa pública que atua na gestão de sistema de transporte coletivo intermunicipal de passageiros, e nem aos serviços que ela presta, que não são exclusivos do Estado, não constituem monopólio estatal e são remunerados na forma da Lei que autorizou sua criação. DISPOSITIVOS LEGAIS: Constituição da República, art. 150, inciso VI, alínea a, §§ 2º e 3º.
+[arquivo anexo: SC Cosit nº 136-2015.pdf]
