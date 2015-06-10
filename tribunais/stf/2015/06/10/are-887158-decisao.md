@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo nos próprios autos, interposto por Rejane Aparecida Gabriel, contra decisão de inadmissibilidade de recurso extraordinário que se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, nos autos da Apelação Criminal n. 0001891-24.2008.8.26.0698, assim ementado (eDOC 6, p. 86):
+    “Corrupção passiva – Absolvição – inexistência de prova da ocorrência do fato – atipicidade – insuficiência probatória: Impossibilidade – comprovação segura nas provas produzidas. Unicidade de crimes e respectivo trancamento da segunda ação penal: Impossibilidade – condutas verificadas em datas distintas – crime forma – Condenação mantida”
+    Opostos embargos de declaração, estes foram rejeitados (eDOC 6, p. 181-183).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido viola o art. 5º, incisos LV e LVII, da Constituição Federal de 1988, ofendendo, assim, os princípios do contraditório, ampla defesa e presunção de inocência (eDOC 7, p. 7- 14).
+    O Tribunal a quo não admitiu o recurso extraordinário por ausência de prequestionamento, alegação de ofensa reflexa à Constituição Federal e superveniência do óbice dos enunciados 279 e 284 da súmula do STF (eDOC 7, p. 63-66).
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário e refuta os fundamentos da decisão recorrida.
+    É o relatório.
+    Decido.
+    De fato, com relação à suposta ofensa aos dispositivos constitucionais apontados como violados, constata-se não terem sido debatidos no acórdão recorrido. Na verdade, sequer foram questionados em sede de embargos declaratórios faltando, assim, quanto a esses dispositivos, o necessário prequestionamento, o que inviabiliza o apelo extremo nesse ponto.
+    Incide, neste caso, o óbice dos enunciados 282 e 356 da súmula do STF. Nesse sentido:
+    EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento (AI-ED 631.961/ES, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 15.5.2009) (grifei)
+    De qualquer forma, vale dizer que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, conforme o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013.
+    Nesse sentido, tal orientação deve ser aplicada no caso em comento, de modo a não conhecê-lo. Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ainda, inviável o conhecimento da pretensão concernente à absolvição por falta de provas, porquanto seria necessária a reanálise da instrução probatória, providência vedada no âmbito do recurso extraordinário, tendo em vista o disposto no enunciado 279 da súmula desta Corte.
+    Ressalto que, na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação ou violação à inafastabilidade jurisdicional.
+    Ante o exposto, conheço do presente agravo e nego-lhe provimento (art. 544, § 4º, inc. II, alínea a, do CPC).
+    Publique-se.
+    Brasília, 10 de junho de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
