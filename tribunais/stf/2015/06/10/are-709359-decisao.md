@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido da 9ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “ANULATÓRIA DE DÉBITO FISCAL. Autora que foi autuada por transacionar com empresa inidônea. Inadmissibilidade. Sentença de improcedência reformada. Fato superveniente à relação mercantil. Vendedor que não tem obrigação legal de fiscalizar os atos e comportamento do comprador, a quem a lei deferiu a responsabilidade tributária. Cabia ao Fisco paulista fiscalizar, sendo inaceitável a pretensão de perpetuar obrigação sem causa ao vendedor. Ônus sucumbencial invertido. Recurso provido.“
+    A pretensão não merece acolhida. No caso dos autos, dissentir das conclusões adotadas pelo Tribunal de origem demandaria o reexame do acervo probatório constante dos autos e da legislação infraconstitucional correlata, providência vedada nesta fase processual. Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AÇÃO DE ANULAÇÃO DE LANÇAMENTO TRIBUTÁRIO. ACÓRDÃO RECORRIDO DECIDIU COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. SÚMULA 279 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I – Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional.
+    II – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação das normas infraconstitucionais que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta.
+    III – Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    IV– Agravo regimental a que se nega provimento.” (ARE 812.007-AgR, Rel. Min. Ricardo Lewandowski)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. COMPETÊNCIA PARA TRIBUTAÇÃO. 1. Reexame de fatos e provas e interpretação de cláusulas contratuais: Súmulas n. 279 e 454 do Supremo Tribunal Federal. 2. Análise de normas locais: Súmula n. 280 deste Supremo Tribunal. 3. Agravo regimental ao qual se nega provimento.” (RE 621.415-AgR, Rel.ª Min.ª Cármen Lúcia)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 10 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
