@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso ordinário em mandado de segurança impetrado por Ruy Pereira Niederauer, 1º Substituto de Juiz-Auditor da Justiça Militar, contra acórdão do Superior Tribunal Militar que negou ao impetrante o direito à aposentadoria com a vantagem do art. 184, III, da Lei 1.711/52, assim ementado:
+    “MANDADO DE SEGURANÇA – O texto do art. 250, da Lei nº 8.112, de 11.12.90 (Regime Jurídico dos Servidores Públicos Civis da União, das Autarquias e Fundações Federais), somente, se aplica à situação prevista no inciso II, do art. 184, da Lei nº 1.711, de 28.10.52 (Estatuto dos Funcionários Públicos Civis da União), não alcançando por conseguinte servidores enquadrados no inciso III, do art. 184. Mandamus indeferido. Decisão unânime”.
+    Irresignado, o impetrante interpôs o presente recurso ordinário, no qual sustenta, em síntese, que, como ocupante de cargo isolado com mais de 30 anos de exercício, teria adquirido, ainda na vigência da Lei 1.711/52, direito à aposentadoria com a vantagem prevista no art. 184, III, do referido diploma legal, posteriormente revogado pelo art. 250 da Lei 8.112/90.
+    A Procuradora-Geral da República ofereceu parecer pelo não provimento do recurso (fls. 110-117).
+    Em despacho de fl. 144, determinei fosse intimada a União para, querendo, ingressar no feito, nos termos do art. 7º, II, da Lei 12.016/2009.
+    Em contrarrazões, a União pugna pelo não provimento do recurso. ( fls. 159-166)
+    Decido.
+    No caso dos autos, o acórdão recorrido consignou que, quando da entrada em vigor do art. 250 da Lei n. 8.112/90, o recorrente já tinha satisfeito as condições necessárias à aposentadoria, nos termos do art. 184, da Lei 1.711, de 1952 (Estatuto dos Funcionários Civis da União), que possuía a seguinte redação:
+    “Art. 184. O funcionário que contar 35 anos de serviço será aposentado:
+    (…)
+    II – com provento aumentado de 20% quando ocupante da última classe da respectiva carreira;
+    III – com a vantagem do inciso II, quando ocupante de cargo isolado se tiver permanecido no meso durante três anos.”
+    No entanto, entendeu o Tribunal a quo que, por não ser ocupante da última classe da respectiva carreira, inviabilizava-se a concessão do benefício, nos termos do art. 250 da Lei 8.112/90, que manteve a vantagem apenas à situação prevista no inciso II do art. 184, da Lei 1.711/52.
+    Não obstante, não é esse o motivo pelo qual o impetrante não faz jus ao benefício previsto no art. 184, III, da Lei 1.711/52.
+    O recorrente, Juiz Auditor Substituto, ocupante de cargo isolado pertencente aos quadros da Justiça Militar, deixou de ser regulado pela legislação destinada aos servidores públicos em geral (Lei 1.711/52) com o advento da LC 35/79 (LOMAN), que passou a reger, de maneira separada, a carreira da magistratura.
+    Dessa forma, apenas os magistrados que implementaram as condições de aposentadoria antes do advento da LC 35/79 é que se beneficiaram da vantagem prevista no art. 184, II e III, da Lei 1.711/52.
+    Ademais, a incidência de vantagem pessoal de 20% sobre o valor do subsídio mensal devido ao recorrente, aposentado no cargo de Juiz Auditor Substituto da Justiça Militar do Estado do Rio Grande do Sul viola o disposto no art. 39, § 4º, da Constituição Federal, que prevê, ao membro de Poder, a remuneração exclusiva por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, desde que respeitados os limites impostos pelo art. 37, X, e XI. Confira-se, a propósito, o seguinte julgado:
+    “AGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA. OCORRÊNCIA DE GRAVE LESÃO À ORDEM E À ECONOMIA PÚBLICAS. MAGISTRADO. ACRÉSCIMO DE 20% SOBRE OS PROVENTOS DA APOSENTADORIA (art. 184, II, da Lei 1.711/52 c/c o art. 250 da Lei 8.112/90) ABSORVIDO PELA IMPLEMENTAÇÃO DO SUBSÍDIO. DETERMINAÇÃO DE INCIDÊNCIA SOBRE O SUBSÍDIO MENSAL DEVIDO AO OCUPANTE DO CARGO DE JUIZ DO TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO. VIOLAÇÃO AO ART. 39, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. INOCORRÊNCIA, NO CASO, DE DECRÉSCIMO REMUNERATÓRIO. 1. Lei 4.348/64, art. 4º: configuração de grave lesão à ordem e à economia públicas. Deferimento do pedido de contracautela. 2. O acórdão impugnado, ao determinar a incidência da vantagem pessoal de 20%, prevista no art. 184, II, da Lei 1.771/52, sobre o valor do subsídio mensal devido ao ocupante do cargo de juiz do Tribunal Regional Federal da 2ª Região, violou o disposto no art. 39, § 4º, da Constituição da República, o qual fixa a remuneração dos membros de Poder em parcela única. 3. Agravo regimental improvido.” (SS 3108-AgR, Rel. Min. Ellen Gracie, Pleno, DJe 25.4.2008).
+    Ante o exposto, nego seguimento ao recurso ordinário (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de junho de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
