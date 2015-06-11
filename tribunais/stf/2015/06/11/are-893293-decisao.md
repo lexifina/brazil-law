@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 5ª Turma Recursal Cível e Criminal do Colégio Recursal de Penha da França/SP, assim ementado (fls. 180):
+    “PEDIDO QUE OBSERVOU O TETO DO ART. 9º DA LEI Nº. 9.099/1995. DECADÊNCIA NÃO OPERADA. PROVA PERICIAL PRESCINDÍVEL E DESNECESSÁRIA. PRODUTO COM VÍCIO. RESCISÃO COM RESTITUIÇÃO SE NÃO CUMPRIDO PRAZO PREVISTO NO ART. 18, CDC. DANO MORAL RECONHECIDO. SENTENÇA MANTIDA.”
+    O recurso busca fundamento no art. 102, III, a , da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, XXXV e LV; 93, IX; e 98, I, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os fundamentos de que: (i) “as supostas violações dos preceitos declinados, então, teriam ocorrido de maneira indireta, oblíqua ou reflexa”; (ii) “não tendo sido debatida a tese federal nas instâncias ordinárias, não se poderá agitá-la, agora, perante o Egrégio Supremo Tribunal Federal” (fls. 327-328v).
+    O recurso não pode ser admitido. De início, os dispositivos constitucionais tidos por violados não foram objeto de apreciação pelo Tribunal de origem. Tampouco a matéria foi suscitada por meio de embargos de declaração, de modo que o recurso extraordinário carece do necessário prequestionamento, nos termos da Súmula 282 e 356/STF.
+    Ademais, o Plenário Virtual do Supremo Tribunal Federal, no julgamento do ARE 640.671, de relatoria do Ministro Cezar Peluso, assentou a ausência de repercussão geral da controvérsia ora em debate (Tema 433). Confira-se a ementa do referido julgado:
+“RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.”
+    Cabe registrar que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia relativa à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 11 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
