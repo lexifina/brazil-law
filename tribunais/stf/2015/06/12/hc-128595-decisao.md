@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Justina Heloiza Lopes Dias, apontando como autoridade coatora o Superior Tribunal Militar.
+    Sustenta a impetrante, em linhas gerais, a incompetência da Justiça Militar para processar e julgar a ação penal à qual responde a paciente. Aduz, para tanto, que a conduta imputada à paciente, prevista no art. 248 do Código Penal Militar (apropriação indébita) não teria causado lesão a bens específicos das instituições castrenses.
+    Aduz, na sequência, que a autoridade coatora ao receber a denúncia ofertada contra a paciente, “agiu em supressão de instância ao ato do Magistrado, que deixou de receber a Denúncia (…) com fulcro no art. 395, inciso II, do CPP, c/c art. 3º, ‘a’, do CPPPM, por ausência de dolo” (fl. 19 da inicial).
+    Assevera, ademais, a falta de interesse de agir e a ausência de justa causa para a deflagração da ação penal, visto que a prescrição da pena em perspectiva seria evidente. A esse respeito, esclarece que a paciente,
+    “hipoteticamente condenada, não teria pena acima do mínimo legal 01 (um) [ano] de reclusão. Muito menos a pena superaria 02 (dois) aos já que contra ela não pesam qualquer suspeita condições judiciais desfavoráveis ou majorantes.
+    Verificando os prazos prescricionais previstos pela lei penal castrense, conforme o art. 125, VI, do CPM, conclui-se que a eventual pena aplicada a ré prescreveria em 04 (quatro) anos.
+    Estão nestes autos as informações de que entre a ocorrência do fato e a data da Decisão, 03/11/2014, já tinha se passado 07 (sete) anos, ao que extinta a pretensão punitiva do Estado, porquanto passados mais de 04 (quatro) anos, lapso temporal mais do que suficiente ao preceito legal” (fls. 8/9 da inicial).
+    Requer, nos termos do art. 192 do Regimento Interno da Corte, a concessão da ordem para
+    “reconhecer a prescrição da pena, mesmo que em perspectiva, nos termos do art. 125, VI e § 1º, do CPM; por segundo, se não reconhecida a prescrição, que seja declarada a incompetência da Justiça Militar por se tratar de cidadão civil e, em nada os supostos fatos afetam a instituição militar, como determinação de encaminhamento do feito ao ‘juízo natural’; por terceiro, se superados os pedidos iniciais, quer-se a nulidade do acórdão do STM que ao receber a Denúncia atuou em ‘supressão de instância’, já que não observados os requisitos previsto no Código de Processo Penal Militar” (fls. 19/20 da inicial).
+    Caso assim não se entenda, pede o deferimento da liminar para suspender os efeitos do julgado proferido pelo Superior Tribunal Militar e, no mérito, pede a concessão da ordem nos termos suso mencionados.
+    Examinados os autos, decido.
+    Há óbice jurídico-processual para o conhecimento do writ.
+    No caso, à exceção da inicial do habeas corpus, a impetrante não juntou aos autos nenhum documento para corroborar os argumentos expostos na inicial da impetração.
+    Com efeito, o entendimento deste Supremo Tribunal está consolidado no sentido de que “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC nº 95.434/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 2/10/09).
+    De qualquer modo, apenas para registro, destaco, a respeito da alegada incompetência da Justiça Militar, que esta Corte já assentou que,
+    ‘’[a]pesar da tendência de limitar a atuação da Justiça Castrense em tempos de paz, o saque indevido por civil de benefício de pensão militar afeta bens e serviços das instituições militares, estando justificada a competência da Justiça militar” (HC nº 113.423/SP, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 26/2/13).
+    No mesmo sentido:
+    “HABEAS CORPUS. PENAL MILITAR. ESTELIONATO. ART. 251, CAPUT, DO CPM. SAQUE INDEVIDO DE PENSÃO MILITAR APÓS O FALECIMENTO DO BENEFICIÁRIO. COMPETÊNCIA DA JUSTIÇA MILITAR. OFENSA A PATRIMÔNIO SOB A ADMINISTRAÇÃO MILITAR. PRECEDENTES. ORDEM DENEGADA. 1. Ambas as Turmas do Supremo Tribunal Federal já se pronunciaram no sentido de que compete à Justiça Militar processar e julgar civil acusado da prática do crime de estelionato (art. 251, caput, do Código Penal Militar) cometido mediante saque de pensão de beneficiário falecido. 2. Ordem denegada” (HC nº 115.013/PR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 20/8/14);
+    “Habeas corpus. 2. Estelionato (art. 251, caput, do CPM). Saques indevidos de pensão militar. Crime militar praticado por civil. 3. Competência para processo e julgamento. Art. 9º, III, a , do CPM: ofensa a patrimônio sob administração militar. Fixação da competência da Justiça Militar. Precedentes. 4. Ordem denegada” (HC nº 116.810/RJ, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 17/12/13).
+    De outra parte, a Corte vem repelido sistematicamente a denominada prescrição antecipada pela pena em perspectiva, em razão de ausência de previsão em nosso ordenamento jurídico (RHC nº 121.152/BA, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 28/3/14).
+    Perfilhando esse entendimento: ARE nº 708.233/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 6/11/13; ARE nº 759.099/RJ-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 16/10/13; ARE nº 700.009/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 8/5/13; HC nº 102.439/MT, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 13/2/13.
+    Ante o exposto, nos termos do art. 38 da Lei nº 8.038/90 e do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 12 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
