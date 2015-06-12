@@ -1,0 +1,11 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 756.915-RG/RS, Rel. Min. GILMAR MENDES, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “Tributário. 2. Imposto Sobre Serviços de Qualquer Natureza (ISSQN). Incidência sobre serviços de registros públicos, cartorários e notariais. Constitucionalidade. 3. Imunidade recíproca. Inaplicabilidade. 4. Constitucionalidade da lei municipal. 5. Repercussão geral reconhecida. Recurso provido. Reafirmação de jurisprudência.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    De outro lado, o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão constitucional suscitada no ARE 699.396-RG/RS, Rel. Min. DIAS TOFFOLI, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Recurso extraordinário com agravo. Tabelionato de Registro Civil. Sujeição ao ISS. Cálculo do tributo. Exegese das normas dos arts. 9º, § 1º, do Decreto-lei nº 406/68 e 7º, ‘caput’, da Lei Complementar nº 116/03. Matéria eminentemente infraconstitucional. Ausência de repercussão geral. Não conhecimento do recurso. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a delimitação da base de cálculo do ISS devido por tabeliães, versa sobre matéria infraconstitucional.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza, no ponto, o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 12 de junho de 2015.
+Ministro CELSO DE MELLO
+Relator
