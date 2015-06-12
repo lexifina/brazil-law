@@ -1,0 +1,31 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, ajuizada pelo Município de Matão contra acórdão do Tribunal Regional do Trabalho da 15ª Região, nos autos do Processo 0175400-59.2008.5.15.0081, que, ao afastar a aplicação das Leis municipais n. 3.239/2002, alterada pela Lei n° 3.245/2003; n. 3.387/2003; n. 3.479/2004; n. 3.559/2004 e n. 3.385/2007, teria violado a Súmula Vinculante 10.
+    Na petição inicial, argumenta-se que a Quinta Turma do TRT da 15ª Região, ao entender que as citadas leis teriam violado o art. 37, X, da CF/88, deveria ter remetido o processo ao Plenário daquela Corte. Nesse sentido, alega-se a nulidade da decisão reclamada.
+    Requer-se, liminarmente, a suspensão dos efeitos do acórdão proferido nos autos do Processo 0175400-59.2008.5.15.0081. No mérito, que seja julgada procedente a presente reclamação, para anular a referida decisão.
+    A autoridade reclamada prestou suas informações (eDOC 52), por intermédio da Petição 223/2015.
+    A Procuradoria-Geral da República manifestou-se pela procedência da reclamação (eDOC 53.478/2015), em parecer ementado nos seguintes termos:
+    “RECLAMAÇÃO. CONSTITUCIONAL. REAJUSTE REMUNERATÓRIO. AFASTAMENTO DE LEI MUNICIPAL POR OFENSA AO ART. 37, X, DA CF. NÃO SUBMISSÃO AO ÓRGÃO ESPECIAL OU AO PLENÁRIO DO TRIBUNAL. SÚ MULA VINCULANTE 10.
+    1. Viola a Súmula Vinculante 10 do Supremo Tribunal Federal a decisão de órgão fracionário de Tribunal que afasta a incidência de lei municipal, ao entendimento de a revisão de remuneração de servidores em índices diferenciados contrariar a regra prevista no artigo 37, X, da CF, sem observar a cláusula de reserva de plenário.
+    2. Parecer pela procedência da reclamação”.
+    É o breve relatório.
+    Passo a decidir.
+    No caso, verifico que o acórdão reclamado não afastou a aplicação das Leis municipais 3.239/2002, 3.245/2003, 3.387/2003, 3.479/2004 e 3.559/2004, mas, tão somente, com base na interpretação dessas leis, reconheceu que o Município ora reclamante concedeu reposição salarial diferenciada para os servidores públicos – violando o art. 37, X, da Constituição –, ao deferir o pagamento de diferenças salariais e reflexos devidos. Eis um trecho dessa decisão:
+    “(…)
+    Através da Lei Municipal 3239/2002, alterada pelas Leis 3245/2003, 3387/2003, 3479/2004, 3559/2004, 3835/2007, cujos teores se encontram às fls. 203/204, 218, 224, 225 e 228, o Município de Matão concedeu aos servidores municipais e autárquicos abonos salariais no importe de R$ 40,00, R$ 70,00, R$ 20,00, R$ 30,00 e R$ 40,00, respectivamente, a princípio de caráter transitório, mas com data prevista para incorporação aos salários.
+    Ocorre que ao ser incorporado ao salário, o abono perdeu a sua natureza jurídica transitória, revestindo-se de verdadeiro aumento salarial.
+    (…)
+    E, tendo em vista que foi pago de maneira uniforme para todos os empregados, evidencia-se que houve inobservância do princípio da isonomia salarial.
+    Isso porque, a incorporação do indigitado abono, concedido em idêntico valor a todos os funcionários, e não proporcionalmente aos vencimentos dos servidores, acarretou um aumento maior para as escalas salariais inferiores, em prejuízo das superiores.
+    A propósito, a demonstração aritmética a que ser reportou a MM. Juíza sentenciante a este respeito (fls. 273) é bastante elucidativa.
+    Assim, com se vê, feriu-se o princípio da isonomia salarial e praticou-se discriminação na aplicação dos próprios aumentos dados pela Administração Pública Municipal, em ofensa ao quanto disposto no inciso X, do art. 37, da Carta Magna, in verbis: ‘A remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual sempre na mesma data e sem distinção de índices’. (grifei)”. (eDOC 48)
+    Ressalto que o Plenário desta Corte, na Rcl-AgR 14.185, Rel. Min. Marco Aurélio, Tribunal Pleno, DJe 12.6.2013, a qual tratava de matéria idêntica a destes autos, decidiu que não houve violação à Súmula Vinculante 10, mas mera interpretação das normas locais. Eis a ementa desse julgado:
+    “LEI – INCONSTITUCIONALIDADE VERSUS INTERPRETAÇÃO – VERBETE VINCULATE Nº 10 DA SÚMULA DO SUPREMO – INADEQUAÇÃO. Estando o pronunciamento judicial baseado em simples interpretação de norma legal, descabe cogitar de enfrentamento de conflito desta com o texto constitucional e, assim, da adequação do Verbete Vinculante nº 10 da Súmula do Supremo”.
+    Confiram-se ainda os seguintes precedentes:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE QUE ÓRGÃO FRACIONÁRIO DO TRIBUNAL REGIONAL DO TRABALHO DA 15ª REGIÃO TERIA VIOLADO A SÚMULA VINCULANTE 10. INOCORRÊNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. I – O acórdão reclamado não afastou a aplicação das Leis municipais 3.239/2002, 3.245/2003, 3.387/2003, 3.479/2004 e 3.559/2004, mas, tão somente, com base na interpretação dessas leis, reconheceu que o Município ora reclamante concedeu reposição salarial diferenciada para os servidores públicos – vulnerando o art. 37, X, da Constituição – ao deferir o pagamento de diferenças salariais e reflexos devidos. II – Agravo regimental a que se nega provimento”. (Rcl-AgR 13.754, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 11.11.2013)
+     “RECLAMAÇÃO – ARGUIÇÃO DE OFENSA AO POSTULADO DA RESERVA DE PLENÁRIO (CF, ART. 97) – SÚMULA VINCULANTE Nº 10/STF – INAPLICABILIDADE – INEXISTÊNCIA, NO CASO, DE JUÍZO OSTENSIVO OU DISFARÇADO DE INCONSTITUCIONALIDADE DE QUALQUER ATO ESTATAL – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO”. (Rcl- AgR 13.514, Rel. Min. Celso de Mello, Segunda Turma, DJe- 1.8.2014)
+    Assim, tendo em vista que não houve declaração de inconstitucionalidade de dispositivo legal, mas mera interpretação de legislação local, não se vislumbra, no presente caso, violação ao artigo 97 da Constituição Federal, cuja proteção é reforçada pela Súmula Vinculante 10 do STF.
+    Ante o exposto, nego seguimento à reclamação. Prejudicada a análise do pedido liminar (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 12 de junho de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
