@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 202, de 28 de maio de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 4202.92.00 Mercadoria: Mochila infantil, com a superfície exterior de matéria têxtil (poliéster), utilizada no transporte de material escolar e de artigos de uso pessoal. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 42.02) e RGI/SH 6 (textos das subposições 4202.9 e 4202.92), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 4202.92.00 Mercadoria: Mochila infantil, com a superfície exterior de matéria têxtil (poliéster), utilizada no transporte de material escolar e de artigos de uso pessoal.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 42.02) e RGI/SH 6 (textos das subposições 4202.9 e 4202.92), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011.
+LUIZ HENRIQUE DOMINGUES Presidente da 4ª Turma
