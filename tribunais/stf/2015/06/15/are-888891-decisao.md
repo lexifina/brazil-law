@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Areno Ribeiro Cardoso Júnior interpõe agravo contra decisão que não admitiu recurso extraordinário, assentado em contrariedade ao art. 5º, incisos XLVII e LVII, da Constituição Federal.
+    Insurge-se no apelo extremo contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “APELAÇÃO CRIMINAL. HOMICÍDIO DUPLAMENTE QUALIFICADO. APRESENTAÇÃO DA CERTIDÃO DE ANTECEDENTES DO ACUSADO CONSTANTE NOS AUTOS. CERCEAMENTO DO DIREITO DE DEFESA NÃO CONFIGURADO. NULIDADE INEXISTENTE. A menção aos antecedentes do acusado, na sessão de julgamento, pelo Ministério Público, não enseja a nulidade do julgamento, por não estar enumerado nas proibições do artigo 478 do CPP, principalmente se tal documento já constava dos autos. Inteligência dos artigos 478 e 480 do CPP.
+    2 – PENA-BASE. REDUÇÃO. Se as circunstâncias judiciais previstas no artigo 59 do Código Penal, devidamente analisadas, foram consideradas em sua maioria favoráveis ao sentenciado, impõe-se a redução da pena-base fixada bem acima do mínimo legal, para amoldar ao princípio da proporcionalidade e adequação da pena.
+    3 – ATENUANTE DA CONFISSÃO. RECONHECIMENTO DE OFÍCIO. Impõe-se a mitigação da pena, em virtude da circunstância atenuante da confissão, prevista no artigo 65, III, “d”, do Código Penal, quando restou demonstrado nos autos que o acusado a todo tempo, inclusive em plenário, admitiu a sua participação no crime de homicídio pelo qual foi condenado. APELO CONHECIDO E PARCIALMENTE PROVIDO. READEQUAÇÃO DA PENA. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA, EX OFFICIO (fls. 810/811 – grifos do autor).
+    Examinados os atos, decido.
+    Anote-se, inicialmente, que o recorrente foi intimado do acórdão recorrido após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07). Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No caso, o inconformismo não merece prosperar, haja vista que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem, portanto, as Súmulas nºs 282 e 356 desta Corte.
+    Como se não bastasse, o acórdão recorrido se limitou a aplicar a legislação infraconstitucional pertinente ao caso. Assim, a alegada violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja reexame em recurso extraordinário.
+    Nesse sentido, anote-se:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
