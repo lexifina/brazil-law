@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Rogério Elias e Victor Rodrigues da Costa interpõem agravo contra decisão que não admitiu recurso extraordinário, assentado em contrariedade aos arts. 1º, inciso III e 5º, incisos XLVI e LVII, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “EMBARGOS INFRINGENTES EM APELAÇÃO CRIMINAL. DOSIMETRIA DA PENA. REDUÇÃO DA PENA-BASE FIXADA PELO JUÍZO DE 1° GRAU. CIRCUNSTÂNCIA JUDICIAL INEXISTENTE. RECURSO DA DEFESA. POSSIBILIDADE. PREVALÊNCIA DO VOTO MINORITÁRIO.
+    1. Se o segundo grau reconhece que uma circunstância judicial é favorável ao réu, considerada negativa na primeira instância, é de rigor a redução da pena-base na mesma proporção, sob pena de incorrer em indevida reformatio in pejus.
+    2. Recurso provido. Prestigiado o voto minoritário” (fl. 846).
+    Os embargos de declaração opostos foram acolhidos sem efeitos modificativos.
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que o acórdão proferido em sede de embargos de declaração foi publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07). Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais tidos por violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal a quo não cuidaram das referidas normas, as quais, também, não foram objeto dos embargos declaratórios opostos. Incidem, portanto, as Súmulas nºs 282 e 356 desta Corte.
+    Destaco, ademais, que o Tribunal de origem ao decidir a questão se ateve ao exame da legislação infraconstitucional. Portanto, a violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Diga-se, ainda, que o Supremo Tribunal Federal, no exame do AI nº 742.460/RJ, Relator o Ministro Cezar Peluso, concluiu pela ausência de repercussão geral das questões relativas à dosimetria de pena, em virtude de sua natureza infraconstitucional.
+    Confira-se a ementa do caso paradigma:
+    “RECURSO. Extraordinário. Inadmissibilidade. Circunstâncias judiciais previstas no art. 59 do Código penal. Fixação da pena-base. Fundamentação. Questão da ofensa aos princípios constitucionais da individualização da pena e da fundamentação das decisões judiciais. Inocorrência. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59, do Código penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional” (DJe de 25/9/09 - grifei).
+    Como se não bastasse, entender de forma contrária ao acórdão atacado demandaria o reexame aprofundado do contexto fático-probatório dos autos, além de outros elementos intimamente ligados ao mérito da própria ação penal, o que é inviável na via eleita, consoante o enunciado da Súmula nº 279/STF.
+    Perfilhando esse entendimento, destaco os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MULTA ADMINISTRATIVA. IRREGULARIDADES. PROPORCIONALIDADE DA PENA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE PROVAS. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE nº 844.319/RS-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 27/2/15);
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA CRIMINAL. NECESSIDADE DE APRECIAÇÃO DOS FATOS E DAS PROVAS DA CAUSA. OFENSA REFLEXA À CONSTITUIÇÃO. 1. O Recurso Extraordinário não é cabível nos casos em que se impõe o reexame do quadro fático-probatório para apreciar a apontada ofensa à Constituição Federal. Incidência da Súmula STF 279. 2. Inviável o Recurso Extraordinário quando a alegada ofensa à Constituição Federal, se existente, ocorrer de forma reflexa, a depender da prévia análise da legislação infraconstitucional. 3. Agravo regimental improvido.” (AI nº 809.259/SC-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 25/10/10).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
