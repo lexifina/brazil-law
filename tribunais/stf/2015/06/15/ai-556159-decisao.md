@@ -1,0 +1,11 @@
+Decisão:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 2ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. CORREÇÃO MONETÁRIA. DEMONSTRAÇÕES FINANCEIRAS. É legítima a norma (Lei nº 7.730, de 1989, art. 30, §1º) que determinou fosse adotado, para efeito de correção monetária das demonstrações financeiras, das pessoas jurídicas, em janeiro de 1989, a OTN de Ncz$ 6,92. Precedentes do TRF e do STJ”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II; 97; 145, §1º; 150, I, II e III, b, e 153, III, todos da Carta.
+    A pretensão recursal merece prosperar, tendo em vista que está em desconformidade com a jurisprudência do Supremo Tribunal Federal. A matéria foi objeto do RE 221.142, que está inserido na sistemática da repercussão geral. O recurso extraordinário discute, à luz dos arts. 5º, II e XXXVI; 150, IV e 148,da Constituição Federal, a constitucionalidade, ou não, da utilização do Índice de Preços ao Consumidor - IPC como indexador de correção monetária das demonstrações financeiras das pessoas jurídicas no ano-base de 1990, em vez do Bônus do Tesouro Nacional Fiscal - BTNF, previsto no art. 1º da Lei nº 8.088/1990. (RE 221.142 – Tema 311). Confira-se a ementa do julgado:
+    “IMPOSTO DE RENDA – BALANÇO PATRIMONIAL – ATUALIZAÇÃO – OTN – ARTIGOS 30 DA LEI Nº 7.730/89 E 30 DA LEI Nº 7.799/89. Mostra-se inconstitucional a atualização prevista no artigo 30 da Lei nº 7.799/89 no que, desconsiderada a inflação, resulta na incidência do Imposto de Renda sobre lucro fictício. APLICAÇÃO DA LEI NO TEMPO – REPERCUSSÃO GERAL. Na dicção da ilustrada maioria, é possível observar o instituto da repercussão geral quanto a recurso cujo interesse em recorrer haja surgido antes da criação do instituto – vencido o relator”. (RE 221142 / RS, Rel. Min. Marco Aurélio)
+    Diante do exposto, com base no art. 557, § 1º-A, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para dar provimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 15 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
