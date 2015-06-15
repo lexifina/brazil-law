@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Rafael Pinheiro dos Santos e Daniel Luiz de Oliveira interpõem agravo visando impugnar decisão que não admitiu recurso extraordinário, assentado em contrariedade aos arts. 5º, inciso XLVI, e 93, inciso IX, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “APELAÇÃO CRIMINAL – ART. 157, §2º, INCISOS I E II, DO CÓDIGO PENAL – ROUBO MAJORADO – DECRETO CONDENATÓRIO – ALEGAÇÃO DEFENSIVA PRELIMINAR DE CERCEAMENTO DE DEFESA E DO PRINCÍPIO DO CONTRADITÓRIO, FACE A PROVA EMPRESTADA DE DEPOIMENTO DO MENOR COAUTOR – REJEIÇÃO – NO MÉRITO, PLEITO ABSOLUTÓRIO POR INSUFICIÊNCIA DE PROVAS OU, ALTERNATIVAMENTE, DE RECONHECIMENTO DA FORMA TENTADA, COM AFASTAMENTO DA MAJORANTE DO EMPREGO DE ARMA DE FOGO E ACEITAÇÃO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA, COM REGIME PRISIONAL MENOS GRAVOSO – IMPOSSIBILIDADE – MATERIALIDADE E AUTORIA COMPROVADAS – PALAVRA DA VÍTIMA – ÉDITO CONDENATÓRIO MANTIDO- RECURSO DESPROVIDO” (fl. 480).
+    Examinados os autos, decido.
+    Inicialmente, infere-se dos autos que o acórdão recorrido foi publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07). Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No caso, a irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem, portanto, as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, forçoso concluir que o Tribunal a quo ao decidir a questão se ateve ao exame de legislação eminentemente infraconstitucional. Portanto, se ocorresse a violação em questão, seria ela indireta ou reflexa à Constituição, o que não enseja recurso extraordinário.
+    Perfilhando esse entendimento: ARE nº 788.144/PR, Relator o Ministro Gilmar Mendes, DJe de 16/12/14; ARE nº 825.868/SC, Relator o Ministro Luiz Fux, DJe de 25/11/14; ARE nº 694.759/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 21/8/12; AI nº 458.072/CE-ED, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 16/10/09; e AI nº 205.051/PE-AgR, Primeira Turma, Relator o Ministro Sydney Sanches, DJe de 8/5/98, entre outros.
+    Como se não bastasse, o acórdão recorrido se ocupou de detalhada análise fático probatória, inerente ao caso. Assim, concluir de forma contrária, como pretende o ora agravante, demandaria um reexame aprofundado de tal contexto, o que é inviável na via eleita. Incidência, portanto, da Súmula nº 279/STF.
+    Por fim, não há falar em violação do art. 93, inciso IX, da Constituição da República, pois a jurisdição foi prestada, no caso em espécie, mediante julgado suficientemente motivado, não obstante contrária à pretensão dos agravantes, tendo a instância antecedente, justificado suas razões de decidir.
+    Anote-se que o referido artigo não exige que o órgão judicante se manifeste sobre todos os argumentos de defesa apresentados, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento.
+    Na esteira desse entendimento: AI nº 649.400/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 29/4/11; e AI nº 797.581/PB-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1º/2/11.
+    Diga-se, ainda, que o Plenário do Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a jurisprudência (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
