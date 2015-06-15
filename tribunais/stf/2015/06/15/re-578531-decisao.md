@@ -1,0 +1,26 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da 3ª Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “CONSTITUCIONAL – TRIBUTÁRIO – TRIBUTO SOBRE LUCRO OU RENDA REAL – PAGAMENTO A MAIOR – DEMONSTRAÇÕES FINANCEIRAS – CORREÇÃO MONETÁRIA - INCONSTITUCIONALIDADE DO INCISO I DO ARTIGO 3º DA LEI Nº 8.200/91 – LEI 7799/89
+    1. A lei nº 7799/89 determinou que a correção monetária fosse feita por índices reais.
+    2. É inconstitucional a dedução parcelada da diferença, paga a maior, da correção monetária (IPC-BTNF) verificada no ano base de 1990 nas demonstrações financeiras do tributo sobre lucro ou renda real.
+    3. O Órgão Especial desta Eg. Corte, declarou a inconstitucionalidade do inciso I do art. 3º da Lei nº 8200 de 28 de junho de 1991 (Arg. Inc. na REO/MS nº 94.03.047561-7, v.m., em 28/09/95, Rel. Juiz Silveira Bueno).
+    4. Apelação e Remessa Oficial improvidas”.
+    O recurso busca fundamento no art. 102, III, b, da Constituição Federal. A parte recorrente sustenta, em síntese, que houve contradição entre a fundamentação e a conclusão da decisão decorrida, na medida em que o reconhecimento da inconstitucionalidade da limitação imposta pelo art. 3º da Lei nº 8.200/1991 não significa que os contribuintes têm o direito de modificarem as demonstrações financeiras a partir do ano-base de 1990. Aduz, ainda, que a mudança de índice de correção monetária não implica majoração de tributo e que o índice correto seria o BTNF e não o IPC.
+    De início, afasto o sobrestamento. Passo a apreciar a matéria.
+    A pretensão não merece acolhida. De início, cumpre registrar que a Lei nº 8.200/1991 foi mencionada no acórdão recorrido apenas para corroborar, no julgamento do mérito, o entendimento de que o contribuinte teria direito à correção monetária com base em índices reais, ficando afastada a aplicação do BTN. O Tribunal de origem entendeu que a norma do inciso I do art. 3º da Lei nº 8.200/91, ao ordenar a postergação da dedução da diferença da correção monetária a que o contribuinte tem direito, estaria cumprindo o contido na Lei nº 7.799/1989.
+    Trata-se de orientação que se coaduna com a jurisprudência do Supremo Tribunal Federal. O Plenário da Corte, ao examinar o RE nº 208.526/RS, Rel. Min. Marco Aurélio, reconheceu inconstitucionalidade do artigo 30, § 1º, da Lei nº 7.730/1989, e do artigo 30, caput, da Lei nº 7.799/1989. Confira-se a ementa da decisão:
+    “IMPOSTO DE RENDA – BALANÇO PATRIMONIAL – ATUALIZAÇÃO – OTN – ARTIGOS 30 DA LEI Nº 7.730/89 E 30 DA LEI Nº 7.799/89. Surge inconstitucional a atualização prevista no artigo 30 da Lei nº 7.799/89 no que, desconsiderada a inflação, resulta na incidência do Imposto de Renda sobre lucro fictício.”
+    Assim, reconhecida a inconstitucionalidade dos dispositivos apontados, fez-se necessário reconhecer o direito à correção monetária considerada a inflação do período, nos termos da legislação revogada pelo chamado Plano Verão. Ocorre que, não obstante a declaração de inconstitucionalidade do dispositivo, o Plenário entendeu que não cabe a esta Corte estabelecer o índice a ser aplicado para a inflação do período em discussão, providência que cumpriria, na realidade, ao juízo da execução. Nessa linha, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. DEMONSTRAÇÃO FINANCEIRA DAS PESSOAS JURÍDICAS. ANO-BASE 1990. CORREÇÃO MONETÁRIA. PRECEDENTES DO PLENÁRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – O Plenário do Supremo Tribunal Federal, no julgamento dos REs 208.526/RS e 256.304/RS, Rel. Min. Marco Aurélio, declarou a inconstitucionalidade do art. 30, § 1º, da Lei 7.730/1989 e do art. 30 da Lei 7.799/1989 e determinou a aplicação do resultado do julgamento à sistemática da repercussão geral reconhecida no RE 242.689/PR, Rel. Min. Gilmar Mendes.
+    II – Com relação à definição do índice a ser aplicado para a inflação do período em discussão, a Corte entendeu que a matéria está circunscrita à competência do juízo da execução.
+    III – Agravo regimental a que se nega provimento.” (RE 627.743-AgR, Rel. Min. Ricardo Lewandowski)
+    “Agravo regimental no recurso extraordinário. Índice de correção decorrente da declaração de inconstitucionalidade do art. 30 da Lei nº 7.799/89. Acórdão recorrido não divergente da orientação do STF.
+    1. Não cabe ao Supremo Tribunal Federal, em face da declaração de inconstitucionalidade do art. 30, § 1º, da Lei nº 7.730/89 e do art. 30 da Lei nº 7.799/89, definir o percentual de correção monetária a ser aplicado. Nesse sentido: RE nº 208.526/RS, Tribunal Pleno, Relator o Ministro Marco Aurélio.
+    2. O Tribunal de origem entendeu como razoável o índice do IPC no percentual de 42,72% para o mês de janeiro/89 e no de 10,14% para fevereiro/89. Incabível a pretensão de que o Supremo Tribunal Federal determine ao Juízo da execução a reabertura da discussão.
+    3. Agravo regimental não provido.” (RE 344.049-AgR, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
