@@ -1,0 +1,16 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    De outro lado, o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Cabe registrar, finalmente, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 827.825-AgR/PE, Rel. Min. ROSA WEBER – ARE 860.094/PE, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DESLOCAMENTO DE COMPETÊNCIA PARA A JUSTIÇA FEDERAL. AUSÊNCIA DE REQUERIMENTO DA UNIÃO, DE AUTARQUIA OU DE EMPRESA PÚBLICA PARA INTEGRAR A LIDE. MERA ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE DE UM DESSES ENTES. INSUFICIÊNCIA. ACÓRDÃO RECORRIDO FUNDAMENTADO NOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 757.952-AgR/PR, Rel. Min. CÁRMEN LÚCIA)
+    “DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. RESPONSABILIDADE CIVIL. SEGURO HABITACIONAL. ALEGAÇÃO DE INTERESSE DA UNIÃO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXV, DA CONSTITUIÇÃO FEDERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 20.01.2014.
+    O exame da alegada ofensa ao art. 5º, XXXV, da Lei Maior, nos moldes com que solvida a controvérsia pelas instâncias de origem, bem como observados os limites com que devolvida a matéria à apreciação deste Supremo Tribunal Federal demandaria vedada incursão na legislação infraconstitucional aplicada ao caso (art. 102 da Constituição da República).
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    Agravo regimental conhecido e não provido.”
+    (ARE 832.967-AgR/PR, Rel. Min. ROSA WEBER)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar-lhe provimento, eis que correta a decisão que não admitiu o recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “a”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 16 de junho de 2015.
+Ministro CELSO DE MELLO
+Relator
