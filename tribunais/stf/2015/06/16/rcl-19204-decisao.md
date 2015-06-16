@@ -1,0 +1,17 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de liminar, contra decisão proferida pela 3ª Turma do Tribunal Regional do trabalho da 17ª Região, que imputou a condenação subsidiária do reclamante aos danos morais e estéticos decorrentes de doença ocupacional (Processo 0087800-54.2011.5.17.0011). A reclamante alega, em suma, a ocorrência de violação ao decidido na ADC 16 (Rel. Min. Cezar Peluso, Pleno, DJe de 9.9.2011).
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88).
+    Ademais, é da jurisprudência da Corte que os atos reclamados devem estrita aderência ao conteúdo das decisões do STF:
+    “(...) Os atos questionados em qualquer reclamação nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal” (Rcl 6534-AgR, Rel. Min. Celso de Mello, Pleno, DJe de 17.10.2008 Ementário 2337-1).
+    O caso não revela desrespeito à ADC 16. É que no julgamento da ação direta, esta Corte, além de declarar constitucional o art. 71, § 1º, da Lei 8.666/1993, que afasta a responsabilidade da Administração Pública pelo pagamento das verbas trabalhistas não adimplidas pelo contratado, também deixou clara a possibilidade de a Justiça do Trabalho apreciar eventual culpa na gestão e fiscalização do contrato e, com base nessa causa jurídica e por incidência de outras normas, atribuir responsabilidade pelas consequências. Por outro lado, a questão submetida à análise da autoridade reclamada reside na responsabilidade civil decorrente de acidente de trabalho – matéria não enfrentada por esta Corte quando do julgamento da ADC 16.
+    Na mesma linha de consideração, cita-se julgado da 1ª Turma desta Corte:
+    “Agravo regimental na reclamação. ADC 16/DF. Responsabilidade pelo pagamento de indenização referente a acidente de trabalho. Inexistência de identidade de temas entre o ato reclamado e o paradigma da Corte. Agravo regimental ao qual se nega provimento.
+    1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+    2. A natureza jurídica da indenização decorrente de acidente de trabalho ou doença ocupacional não foi enfrentada pelo Supremo Tribunal Federal quando do julgamento da ADC nº 16/DF.
+    3. Há necessidade de aderência estrita do objeto do ato reclamado ao conteúdo da decisão do STF dotada de efeito vinculante e eficácia erga omnes para que seja admitida a reclamatória constitucional.
+    4. Agravo regimental não provido” (Rcl 17.921. AgR, Rel. Min. Dias Toffoli, 1ª Turma, Dje de 7/4/2015).
+    3. Ante o exposto, nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 16 de junho de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
