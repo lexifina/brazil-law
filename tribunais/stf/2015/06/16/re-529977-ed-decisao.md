@@ -1,0 +1,29 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO – INEXISTÊNCIA DE VÍCIO – DESPROVIMENTO.
+    1. Por meio da decisão de folhas 781 e 782, proferi a seguinte decisão:
+COMPLEMENTAÇÃO DE APOSENTADORIA – PREVIDÊNCIA PRIVADA – COMPETÊNCIA – JUSTIÇA COMUM – RECURSO EXTRAORDINÁRIO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal, no Recurso Extraordinário nº 586.453/SE, da relatoria da ministra Ellen Gracie, concluiu incumbir à Justiça Comum o julgamento de controvérsias referentes ao pagamento de complementação de aposentadoria devida por entidade de previdência privada. Em seguida, modulou os efeitos da decisão para assentar a permanência, na Justiça do Trabalho, de todos os processos nos quais tenha sido prolatada sentença de mérito até 20 de fevereiro de 2013.
+    2. Estando a decisão recorrida em consonância com a jurisprudência do Supremo, ressalvo a convicção pessoal de que a competência da Justiça do Trabalho ou da Justiça Comum para processar e julgar os conflitos envolvendo a matéria depende, em última análise, da existência de liberdade do prestador de serviços em aderir, ou não, ao plano.
+    3. No mais, recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    4. Nego seguimento ao extraordinário.
+    5. Publiquem.
+    A embargante, nos declaratórios de folhas 784 e 785, aponta omissão no ato impugnado quanto à alegada existência de coisa julgada. Ressalta que, na Justiça do Trabalho, o pedido de integração da parcela denominada “cheque-rancho” na complementação de aposentadoria, foi indeferido pelo Juízo. Aduz que, atualmente, tal verba é denominada auxílio cesta-alimentação, sendo objeto da presente ação. Afirma que a matéria consta do acórdão recorrido e das razões do extraordinário.
+    A parte embargada apresentou as contrarrazões de folha 790 a 794, apontando o acerto do ato atacado.
+    2. Na interposição destes embargos, observaram-se os pressupostos de recorribilidade. A peça, subscrita por advogado regularmente credenciado, foi protocolada no prazo legal.
+    Não prospera a articulação da embargante. Atentem para as premissas do acórdão recorrido (folha 649):
+PREVIDÊNCIA PRIVADA. FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL. COMPLEMENTAÇÃO DE APOSENTADORIA.
+    Chamamento ao processo do BANRISUL indeferido, porquanto, além de inexistir vínculo do autor com o patrocinador, a partir de sua aposentadoria, não resta caracterizada a hipótese do inciso III do art. 70 do CPC. Solidariedade alegada que não diz respeito ao BANRISUL como patrocinador, mas aos seus administradores e aos administradores da entidade previdência privada, em situação diversa do caso dos autos. Art. 62 do Decreto nº 4.942/2003.
+    Preliminar de nulidade da sentença rejeitada.
+    Cuidando-se de demanda atinente à complementação de aposentadoria, na órbita da previdência privada, a competência para apreciá-la é da Justiça Estadual comum, não da Justiça do Trabalho. Relação jurídica de natureza civil.
+    Tendo a reclamatória trabalhista, ajuizada pelo autor, tratado a respeito do cheque-rancho, nada decidindo a respeito do auxílio-alimentação, não há cogitar de coisa julgada, nos termos do art. 301, §§ 1º, 2º e 3º, do CPC. Outrossim, inexiste identidade de ações, pois, no feito em exame, não está, em jogo relação de emprego, mas complementação de aposentadoria, sabidamente, da órbita civil.
+    Estatuto da associação de bancários que, por seus termos, impõe à mesma, o pagamento, aos aposentados, do auxílio cesta-alimentação e do abono único, concedidos aos bancários em atividade. Verbas de natureza remuneratória.
+    Agravo retido e apelação desprovidos.
+    O Tribunal de Justiça do Estado do Rio Grande do Sul assentou a competência da Justiça Comum para apreciar e julgar a demanda “atinente à complementação de aposentadoria, na órbita da previdência privada” e não prosperar o argumento relativo à existência de coisa julgada, consignando que “inexiste identidade de ações” e que “o auxílio cesta-alimentação não se confunde com a parcela peliteada na Justiça do Trabalho, denominada “cheque-rancho””. Conforme anteriormente salientado, a decisão recorrida mediante o extraordinário está alicerçada em interpretação conferida à legislação de regência e à moldura fática delineada soberanamente na origem. Em sede excepcional, atua-se à luz da moldura fática delineada soberanamente pelo Colegiado de origem, considerando-se as premissas constantes do pronunciamento impugnado. Assim, a orientação do Verbete nº 279 da Súmula do Supremo constituí óbice à apreciação da matéria, não havendo falar-se em omissão.
+    3. Ante o exposto, ausente qualquer vício no julgado, desprovejo os declaratórios.
+    4. Publiquem.
+Brasília, 16 de junho de 2015.
+Ministro MARCO AURÉLIO
+Relator
