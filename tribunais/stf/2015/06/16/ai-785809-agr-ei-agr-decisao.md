@@ -1,0 +1,16 @@
+Decisão: 1. Trata-se de agravo regimental contra decisão do então Relator, Ministro Ayres Britto, que julgou deserto o recurso de embargos de divergência.
+    Sustenta o agravante, em suma, que o recurso não é deserto, tendo em vista que a Resolução 389/2009 do STF prevê a isenção de custas e do porte de remessa e retorno dos autos nos processos criminais de ação pública.
+    2. Em novo exame, verifica-se que o caso não trata de embargos de divergência, como assentado na decisão agravada, e sim de embargos infringentes, não só porque o recorrente assim o nomeou, mas, sobretudo, porque os fundamentos estão vinculados a uma das hipóteses de cabimento previstas no art. 333 do RISTF (fls. 3.708-3.724). Assim, exercendo o juízo de retratação, reconsidero a decisão agravada, tornando-a sem efeito, e passo à análise do recurso.
+    3. O embargante sustenta, em suma, que (a) a hipótese dos autos tem previsão no art. 333, V, do RISTF; e (b) o ponto divergente no acórdão foi a conversão dos embargos de declaração em agravo regimental.
+    4. Os embargos infringentes foram opostos contra acórdão da Primeira Turma desta Corte e assim ementado:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL PENAL. NOMEAÇÃO E INTIMAÇÃO DE CURADOR: ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXVI E LV, DA CONSTITUIÇÃO DA REPÚBLICA. LAUDO PERICIAL. VALORAÇÃO DAS PROVAS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    5. No caso dos autos, os embargos infringentes não encontram amparo em nenhuma das hipóteses previstas no art. 333 do Regimento Interno do Supremo Tribunal Federal, pois impugnam decisão proferida em agravo de instrumento contra julgado que inadmitiu recurso extraordinário.
+    Assim, diante da ausência de previsão de cabimento, não podem ser admitidos os infringentes. Nesse sentido:
+    “PENAL. EMBARGOS INFRINGENTES NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO QUESTIONADA QUE NÃO SE INSERE NAS HIPÓTESES DO ART. 333 DO RISTF. REITERADA JURISPRUDÊNCIA DESTA CORTE. EMBARGOS NÃO CONHECIDOS. I Entre as hipóteses de cabimento deste recurso, elencadas no art. 333 do Regimento Interno do STF, não se inserem as decisões não unânimes proferidas pelo Plenário ou pela Turma, que negam provimento a agravos regimentais interpostos em agravos de instrumento criminais. II Embargos infringentes não conhecidos” (AI 828.792-AgR-EI/SP, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 15/8/2011).
+    “1. Incabíveis embargos infringentes de acórdão não unânime em embargos de declaração em agravo regimental em agravo de instrumento (art. 333, do RISTF), que tão-somente dá provimento ao recurso extraordinário para julgar procedente a ação rescisória. Precedente. 2. Agravo regimental improvido” (AI 382.298-AgR-ED-AgR/RS, Rel Min. ELLEN GRACIE, Segunda Turma, DJe de 3/4/2009).
+    6. Diante do exposto, reconsidero a decisão agravada e não admito os embargos infringentes.
+    Publique-se. Intime-se.
+    Brasília, 16 de junho de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
