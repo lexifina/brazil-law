@@ -1,0 +1,3 @@
+Art. 25-A. O trabalhador que infringir o disposto nesta Lei e houver percebido indevidamente parcela de seguro-desemprego sujeitar-se-á à compensação automática do débito com o novo benefício, na forma e no percentual definidos por resolução do Codefat.
+§ 1º O ato administrativo de compensação automática poderá ser objeto de impugnação, no prazo de 10 (dez) dias, pelo trabalhador, por meio de requerimento de revisão simples, o qual seguirá o rito prescrito pela Lei nº 9.784, de 29 de janeiro de 1999.
+§ 2º A restituição de valor devido pelo trabalhador de que trata o caput deste artigo será realizada mediante compensação do saldo de valores nas datas de liberação de cada parcela ou pagamento com Guia de Recolhimento da União (GRU), conforme regulamentação do Codefat.
