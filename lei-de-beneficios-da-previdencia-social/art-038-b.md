@@ -1,0 +1,2 @@
+Art. 38-B. O INSS utilizará as informações constantes do cadastro de que trata o art. 38-A para fins de comprovação do exercício da atividade e da condição do segurado especial e do respectivo grupo familiar.
+Parágrafo único. Havendo divergências de informações, para fins de reconhecimento de direito com vistas à concessão de benefício, o INSS poderá exigir a apresentação dos documentos previstos no art. 106 desta Lei.
