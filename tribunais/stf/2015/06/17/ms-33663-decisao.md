@@ -1,0 +1,14 @@
+Trata-se de mandado de segurança impetrado por Milton Taufic Schahin, Salim Taufic Schahin, Rubens Taufic Schahin, Carlos Eduardo Schahin e Pedro Henrique Schahin, distribuído ao Min. Marco Aurélio.
+    Em 15 de junho do corrente ano o Ministro Relator remeteu os autos à Presidência do Supremo para apreciar o requerimento de distribuição por dependência ao Ministro Celso de Mello.
+    Bem examinados os autos, entendo que é caso de redistribuição.
+    Verifico que os impetrantes foram convocados para prestar depoimento na “Comissão Parlamentar de Inquérito da Petrobrás” razão pela qual impetraram habeas corpus (HC 128.390), distribuído ao Ministro Celso de Mello que deferiu o pedido liminar. Transcrevo, por oportuno, o dispositivo da decisão:
+    “Sendo assim, tendo em consideração as razões expostas, e sem dispensar os ora pacientes de comparecerem perante a CPI/Petrobras e de assinarem, na condição de testemunhas, o respectivo termo de compromisso, defiro o pedido de medida liminar nos precisos termos expostos nesta decisão, em ordem a assegurar, cautelarmente, aos pacientes, em face de referida CPI: (a) o direito de exercerem a prerrogativa constitucional contra a autoincriminação, sem que se possa adotar contra eles, em reação ao regular exercício de tal prerrogativa jurídica, qualquer medida restritiva de direitos ou privativa de liberdade; (b) o direito de serem assistidos por seus Advogados e de com estes comunicarem-se, pessoal e reservadamente, durante o curso de seus depoimentos; e (c) o direito de verem respeitadas, sempre em seu próprio benefício, as prerrogativas profissionais previstas no art. 7º, incisos III, X, XI, XII e XIII, da Lei nº 8.906/94 (“Estatuto da Advocacia”).
+    Caso a CPI ora apontada como coatora descumpra a presente liminar, e assim desrespeite as prerrogativas profissionais dos Advogados impetrantes deste “writ” (e, por consequência, os direitos e garantias dos ora pacientes), fica-lhes assegurado o direito de fazerem cessar, imediatamente, imediatamente, a participação de seus constituintes no procedimento de inquirição, sem que se possa adotar contra eles – Advogados e respectivos clientes, os ora pacientes – qualquer medida restritiva de direitos ou privativa de liberdade.
+    2. Comunique-se, com urgência, o teor desta decisão ao eminente Senhor Presidente da CPI/Petrobras” (grifos no original).
+    O presente writ visa impedir a realização de busca e apreensão determinada pela referida CPI, tratando-se dos mesmos pacientes do HC 128.390, aplicando-se ao caso o art. 69 do RISTF, devendo o feito ser redistribuído ao Ministro prevento.
+    Isso posto, determino a redistribuição dos autos, por prevenção, ao Ministro Celso de Mello, com urgência.
+    Oportunamente, proceda-se à compensação da distribuição (art. 67, § 4º, do RISTF).
+    Publique-se.
+    Brasília, 17 de junho de 2015.
+Ministro Ricardo Lewandowski
+Presidente
