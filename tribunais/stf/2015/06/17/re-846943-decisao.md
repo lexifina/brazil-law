@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. SUSPENSÃO CAUTELAR DO CNPJ DECORRENTE DE REPRESENTAÇÃO FISCAL. OBSERVÂNCIA DO DIREITO À AMPLA DEFESA E AO CONTRADITÓRIO.
+    1. A impetrante foi devidamente cientificadas, na via administrativa, acerca do processo de representação fiscal, bem como foi intimada a regularizar sua situação perante o CNPJ ou a contrapor as razões da representação no prazo legal.
+    Por conseguinte, não cabe falar em violação ao princípio constitucional da ampla defesa e contraditório, uma vez que resta claro que a impetrante foi regularmente intimada do processo administrativo, tendo inclusive apresentado sua insurgência.
+    2. A suspensão da inscrição no CNPJ não decorreu de ato administrativo sumário, unilateral e resultante de conclusões isoladas de Auditor-Fiscal, mas, sim, do acatamento, pelo Delegado da Receita Federal do Brasil em Blumenau-SC, de Representação Fiscal oriunda de robusto e exauriente procedimento de fiscalização.
+    3. Diante da prática de atividade considerada vedada no ordenamento jurídico-tributário, justifica-se a providência cautelar de suspensão da inscrição do CNPJ tomada pela autoridade administrativa, uma vez que está amparada em fundamentada ação fiscal, que angariou elementos concretos a indicar a inexistência de fato da empresa impetrante e a violação de preceitos constitucionais de maior importância como a defesa aos direitos da coletividade e a função social da propriedade e da livre concorrência, em proteção inclusive aos próprios fornecedores e principalmente funcionários.
+    4. A suspensão da inscrição perante o CNPJ traduz evidente providência de natureza acautelatória em razão da necessidade de se proceder ao pronto estancamento de práticas que se revelam flagrantemente nocivas aos interesses fazendários nacionais e à sociedade, vez que a Representação Fiscal baseou-se justamente na constatação da inexistência de fato da impetrante.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV e LV; XVII e 195, I, a, ambos da Constituição. O recorrente afirma, em síntese, que suspensão imediata do CNPJ da empresa, antes mesmo de se iniciar o processo administrativo, violaria sua ampla defesa.
+    A pretensão não acolhida. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame do conjunto fático-probatório. No caso dos autos, note-se que o acórdão recorrido consignou o seguinte:
+    “1. A impetrante foi devidamente cientificadas, na via administrativa, acerca do processo de representação fiscal, bem como foi intimada a regularizar sua situação perante o CNPJ ou a contrapor as razões da representação no prazo legal.
+    Por conseguinte, não cabe falar em violação ao princípio constitucional da ampla defesa e contraditório, uma vez que resta claro que a impetrante foi regularmente intimada do processo administrativo, tendo inclusive apresentado sua insurgência.”
+    Com efeito, dissentir das conclusões adotadas demandaria tão somente o reexame da legislação infraconstitucional pertinente, providência vedada nesta fase processual, nos termos da Súmula nº 279 do STF.
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 17 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
