@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Hylene Andrade de Lima Barbosa. Aparelhado o recurso na afronta ao art. 37, XV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    No presente caso o exame da violação ao preceito constitucional apontado demandaria a reanálise da legislação infraconstitucional aplicável à espécie, bem como o revolvimento do conjunto probatório pertinente, a ensejar a aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. INCORPORAÇÃO INTEGRAL DE GRATIFICAÇÃO DE ATIVIDADE EXECUTIVA – GAE. ALEGADA IRREDUTIBILIDADE DE VENCIMENTOS. AFERIÇÃO PELO TRIBUNAL DE ORIGEM. REANÁLISE. IMPOSSIBILIDADE. SÚMULA 279/STF. VIOLAÇÃO AO PRINCÍPIO CONSTITUCIONAL DA INAFASTABILIDADE DO CONTROLE JURISDICIONAL. INOCORRÊNCIA.
+    1. A irredutibilidade de vencimentos, quando aferida pelas instâncias ordinárias, não pode ser revista pela E. Suprema Corte, em face da incidência da Súmula 279/STF, que dispõe, verbis: Para simples reexame de prova não cabe recurso extraordinário. Precedentes: ARE 804.132-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 27/11/2013, e ARE 774.012-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 2/12/2013.
+    2. A decisão devidamente fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Nesse sentido, ARE 740.877-AgR/DF, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 4/6/2013.
+    3. In casu, o acórdão originariamente recorrido manteve a sentença por seus próprios fundamentos, a qual assentou: “Portanto, a interpretação para o disposto no parágrafo único do artigo 118 da referida lei é a de que a GAE foi incorporada/absorvida aos vencimentos básicos estabelecidos pelo novo plano de carreira, sem que isso signifique que os novos vencimentos básicos devam corresponder estritamente ao somatório do padrão anterior com o valor da extinta GAE. […] Por fim, acrescente-se que não houve redutibilidade nominal da remuneração do servidor, circunstância assaz importante, uma vez que a garantia constitucional de irredutibilidade de vencimentos veda qualquer alteração estrutural que importe em redução de salários e proventos. Por conseguinte, não verifico qualquer violação ao preconizado no art. 118 da Lei nº 11.784/2010, porquanto demonstrada a inserção da GAE no vencimento básico do docente. Destarte, impõe-se a improcedência da ação.”
+    4. Agravo regimental DESPROVIDO.“ (ARE 799.192-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 29.5.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. REESTRUTURAÇÃO DO PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DA FAZENDA (PECFAZ). 1. Inexistência de direito adquirido a regime jurídico. Precedentes. 2. Alegada redução de vencimentos. Reexame de fatos e provas. Súmula n. 279 do Supremo Tribunal Federal. 3. Agravo regimental ao qual se nega provimento.” (RE 774.012-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 02.12.2013)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de junho de 2015.
+Ministra Rosa Weber
+Relatora
