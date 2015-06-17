@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E PREVIDENCIÁRIO. FEPASA. COMPLEMENTAÇÃO DE PENSÃO. ACÓRDÃO RECORRIDO HARMÔNICO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “FERROVIÁRIO. Pensionistas da FEPASA. Complementação de pensão. Pedido de reajuste de modo que se mantenha a diferença média de 13 por cento entre as diversas classes salariais. ‘Equidistância’ que estaria sendo corroída diante do piso fixado em salários mínimos (2,5 salários mínimos). Contrato coletivo de trabalho a que se refere o artigo 4º, parágrafo 2º, da Lei Estadual n. 9.343/96. Prazo de vigência do contrato que está expirado. Vinculação dos reajustes ao salário mínimo que é incompatível com o artigo 7º, IV, da Constituição Federal e com a Súmula Vinculante n. 4. Sentença que julgou improcedente a ação. Recurso não provido” (doc. 2).
+    2. Os Agravantes alegam contrariado o art. 7º, incs. IV, V e VI, da Constituição da República, sustentando
+    “a inobservância pelo v. Acórdão (...) quanto à utilização do salário mínimo como mero valor de referência (piso salarial) e não como indexador (contrariedade ao inciso IV do artigo 7º da CF), outrossim, pela inobservância pelo v. Acórdão (…) acerca da necessidade de manutenção dos salários proporcionalmente à extensão e complexidade de cada cargo (contrariedade ao inciso V do artigo 7º da CF), e por fim, por não observar a irredutibilidade salarial decorrente do aumento salarial dado por norma coletiva que não pode retornar ao status quo (contrariedade ao inciso VI do artigo 7º da CF” (doc. 2).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre-se afastar o fundamento da decisão agravada, por ser constitucional a matéria tratada na espécie.
+    A superação desse fundamento não é suficiente para o provimento da pretensão dos Agravantes.
+    6. Consta da sentença mantida pelo Tribunal de origem:
+    “A Súmula Vinculante n. 4 impede qualquer tipo de vinculação do salário mínimo, de nada valendo a argumentação de que a manutenção desse valor não se caracteriza como indexação, porque é exatamente isso o que acontece. Portanto, o valor deve ser considerado à época e a partir de lá corrigido pelos índices adotados para a correção dos vencimentos e isso aconteceu, conforme dá conta a FESP, a fl. 159, a dizer, sobre aquele piso foi acrescentado percentual de 3%, depois 5% e depois 7%.
+    Diante do exposto, julgo improcedente a demanda” (doc. 2).
+    No julgamento do Recurso Extraordinário n. 603.451, Relatora a Ministra Ellen Gracie, com repercussão geral reconhecida, este Supremo Tribunal Federal assentou a impossibilidade de atuar o Poder Judiciário como legislador positivo para determinar nova base de cálculo para vantagens remuneratórias de ex-empregado da FEPASA, apesar de reconhecer a proibição constitucional de vinculação de qualquer vantagem ao salário mínimo:
+    “EX-EMPREGADO DA FEPASA. COMPLEMENTAÇÃO DE APOSENTADORIA. BASE DE CÁLCULO. SALÁRIO MÍNIMO. SÚMULA VINCULANTE 4. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO DETERMINAR NOVA BASE DE CÁLCULO. RATIFICAÇÃO DA JURISPRUDÊNCIA FIRMADA POR ESTA SUPREMA CORTE. EXISTÊNCIA DE REPERCUSSÃO GERAL” (Plenário, DJe 11.3.2010).
+    No mesmo sentido:
+    “DIREITO ADMINISTRATIVO. EX-EMPREGADO DA FEPASA. COMPLEMENTAÇÃO DE APOSENTADORIA. BASE DE CÁLCULO. VINCULAÇÃO AO SALÁRIO MÍNIMO. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO DETERMINAR NOVA BASE DE CÁLCULO. SÚMULA VINCULANTE 4. JURISPRUDÊNCIA RATIFICADA NO JULGAMENTO DO RE 603.451-RG/SP. A jurisprudência desta Corte, no sentido da impossibilidade de o Poder Judiciário determinar nova base de cálculo para vantagens remuneratórias de servidores e empregados públicos, foi ratificada no julgamento do RE 603.451-RG/SP. Súmula Vinculante 4. Agravo regimental conhecido e não provido” (AI 717.378-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 23.5.2012).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FERROVIA PAULISTA S/A – FEPASA. ABONO CONCEDIDO AOS SERVIDORES EM ATIVIDADE. PISO SALARIAL. VINCULAÇÃO AO SALÁRIO MÍNIMO: VEDAÇÃO. IMPOSSIBILIDADE DE MODIFICAÇÃO DA BASE DE CÁLCULO POR DECISÃO JUDICIAL: SÚMULA VINCULANTE N. 4 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 700.945-AgR, de minha relatoria, Primeira Turma, DJe 3.3.2011).
+    Assim também a seguinte decisão monocrática transitada em julgado: Recurso Extraordinário n. 855.371/SP, de minha relatoria, DJe 20.2.2015.
+    O acórdão recorrido harmoniza-se com essa orientação jurisprudencial, nada havendo a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de junho de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
