@@ -1,0 +1,20 @@
+DECISÃO: O Plenário desta Suprema Corte, ao julgar a ADI 1.717/DF, Rel. Min. SYDNEY SANCHES (RTJ 186/76), fixou entendimento que torna acolhível a pretensão recursal deduzida pela parte ora recorrente:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO.
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE DO ART. 58 E SEUS PARÁGRAFOS DA LEI FEDERAL Nº 9.649, DE 27.05.1998, QUE TRATAM DOS SERVIÇOS DE FISCALIZAÇÃO DE PROFISSÕES REGULAMENTADAS.
+    1. Estando prejudicada a Ação, quanto ao § 3º do art. 58 da Lei nº 9.649, de 27.05.1998, como já decidiu o Plenário, quando apreciou o pedido de medida cautelar, a Ação Direta é julgada procedente, quanto ao mais, declarando-se a inconstitucionalidade do ‘caput’ e dos parágrafos 1º, 2º, 4º, 5º, 6º, 7º e 8º do mesmo art. 58.
+    2. Isso porque a interpretação conjugada dos artigos 5º, XIII, 22, XVI, 21, XXIV, 70, parágrafo único, 149 e 175 da Constituição Federal, leva à conclusão, no sentido da indelegabilidade, a uma entidade privada, de atividade típica de Estado, que abrange até poder de polícia, de tributar e de punir, no que concerne ao exercício de atividades profissionais regulamentadas, como ocorre com os dispositivos impugnados.
+    3. Decisão unânime.” (grifei)
+    Impende destacar, por oportuno, no tema ora em exame, ante a inquestionável procedência de suas observações, a ementa da decisão proferida pela eminente Ministra CÁRMEN LÚCIA (RE 700.098/DF):
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. CONSELHOS PROFISSIONAIS. EXIGÊNCIA DE CONCURSO PÚBLICO PARA CONTRATAÇÃO. ART. 37, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO PROVIDO.”
+    Impõe-se registrar, ainda, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria assemelhada à veiculada no caso em análise (AI 791.759/PE, Rel. Min. GILMAR MENDES – RE 539.224/CE, Rel. Min. LUIZ FUX – RE 611.947-AgR/PB, Rel. Min. RICARDO LEWANDOWSKI – RE 653.454/CE, Rel. Min. LUIZ FUX – RE 700.097/PI, Rel. Min. CÁRMEN LÚCIA – RE 713.084/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Cabe observar, de outro lado, no tocante aos efeitos financeiros decorrentes do contrato nulo, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral, julgou o  RE 705.140-RG/RS, Rel. Min. TEORI ZAVASCKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL E TRABALHO. CONTRATAÇÃO DE PESSOAL PELA ADMINISTRAÇÃO PÚBLICA SEM CONCURSO. NULIDADE. EFEITOS JURÍDICOS ADMISSÍVEIS EM RELAÇÃO A EMPREGADOS: PAGAMENTO DE SALDO SALARIAL E LEVANTAMENTO DE FGTS (RE 596.478 – REPERCUSSÃO GERAL). INEXIGIBILIDADE DE OUTRAS VERBAS, MESMO A TÍTULO INDENIZATÓRIO.
+    1. Conforme reiteradamente afirmado pelo Supremo Tribunal Federal, a Constituição de 1988 reprova severamente as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público, cominando a sua nulidade e impondo sanções à autoridade responsável (CF, art. 37, § 2º).
+    2. No que se refere a empregados, essas contratações ilegítimas não geram quaisquer efeitos jurídicos válidos, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço – FGTS.
+    3. Recurso extraordinário desprovido.” (grifei)
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e em face das razões expostas, conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º-A), em ordem a determinar seja observada a orientação jurisprudencial desta Suprema Corte.
+    Publique-se.
+    Brasília, 17 de junho de 2015.
+Ministro CELSO DE MELLO
+Relator
