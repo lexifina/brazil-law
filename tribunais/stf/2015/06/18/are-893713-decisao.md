@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da Nona Turma do Tribunal Regional Federal da 3ª Região, assim ementado, no que interessa:
+    “PROCESSUAL CIVIL. AGRAVO LEGAL (ART. 557, 1°, DO CPC). PODERES DO RELATOR. ILEGALIDADE OU ABUSO DE PODER NÃO CARACTERIZADOS”. (fl. 197)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. Ainda preliminarmente, acrescenta-se que, quando da interposição de embargos de declaração para fins de prequestionamento, estes foram rejeitados, impedindo o prequestionamento explícito dos dispositivos que poderiam sustentar este recurso, o que caracteriza negativa da prestação jurisdicional, com ofensa aos arts. 5°, XXXV, LIV e LV, da Constituição. No mérito, aponta-se violação aos arts. 5º, XXXVI; 195, § 5º; e 201, §1º, do texto constitucional.
+    Nas razões recursais, argumenta-se que a Constituição Federal não coloca a periculosidade como item de identificação da especialidade das atividades para fins previdenciários, além de vedar a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria no regime geral.
+    Aduz-se que o acórdão fundamentou-se nos dispositivos da Lei 7.369/85, os quais teriam sido derrogados pelo art. 58 da Lei 8.213/91, caracterizando afronta à norma constitucional que regula a incidência de leis no tempo (art. 5°, XXXV, CF/88).
+    Por fim, postula-se que a decisão impugnada majorou e estendeu benefício sem a correspondente fonte de custeio total.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Em relação à preliminar de negativa da prestação jurisdicional alegada, cabe fazer duas ponderações.
+    Inicialmente, quanto à dita ofensa ao art. 5º, XXXV, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Em segundo lugar, no tocante à suposta ofensa ao princípio da ampla defesa, do contraditório, e do devido processo legal, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais. Eis a ementa desse julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Quanto ao mérito, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o reexame do conjunto fático-probatório dos autos, providência vedada na via extraordinária, bem como da legislação infraconstitucional aplicável à espécie, em face do óbice previsto nos Enunciados 279 e 636 da Súmula do STF.
+    Nesse sentido, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CRITÉRIOS PARA RECONHECIMENTO DE ATIVIDADE ESPECIAL. NECESSIDADE DO REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 668.513/SC, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 28.3.2012)
+    “AGRAVO REGIMENTAL. RECURSO TRABALHISTA. ELETRICITÁRIOS. ADICIONAL DE PERICULOSIDADE. MATÉRIA INFRACONSTITUCIONAL. A jurisprudência do Supremo Tribunal Federal tem assentado que a discussão sobre a base de cálculo do adicional de periculosidade dos eletricitários é de natureza infraconstitucional. Agravo regimental a que se nega provimento”. (AI-AgR 722.293/MG, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 19.12.2008)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 18 de junho de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
