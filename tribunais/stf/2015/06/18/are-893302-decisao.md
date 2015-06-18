@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que a parte recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. O Plenário do Supremo Tribunal Federal, ao julgar o RE 592.377, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 4/2/2015, Tema 33, sob o regime do art. 543-B do CPC (repercussão geral), consolidou entendimento em relação à matéria discutida no presente recurso extraordinário. Esse acórdão ficou assim ementado:
+    Ementa: CONSTITUCIONAL. ART. 5º DA MP 2.170/01. CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR A UM ANO. REQUISITOS NECESSÁRIOS PARA EDIÇÃO DE MEDIDA PROVISÓRIA. SINDICABILIDADE PELO PODER JUDICIÁRIO. ESCRUTÍNIO ESTRITO. AUSÊNCIA, NO CASO, DE ELEMENTOS SUFICIENTES PARA NEGÁ-LOS. RECURSO PROVIDO. 1. A jurisprudência da Suprema Corte está consolidada no sentido de que, conquanto os pressupostos para a edição de medidas provisórias se exponham ao controle judicial, o escrutínio a ser feito neste particular tem domínio estrito, justificando-se a invalidação da iniciativa presidencial apenas quando atestada a inexistência cabal de relevância e de urgência. 2. Não se pode negar que o tema tratado pelo art. 5º da MP 2.170/01 é relevante, porquanto o tratamento normativo dos juros é matéria extremamente sensível para a estruturação do sistema bancário, e, consequentemente, para assegurar estabilidade à dinâmica da vida econômica do país. 3. Por outro lado, a urgência para a edição do ato também não pode ser rechaçada, ainda mais em se considerando que, para tal, seria indispensável fazer juízo sobre a realidade econômica existente à época, ou seja, há quinze anos passados. 4. Recurso extraordinário provido.
+    Considerada a especial eficácia vinculativa desse julgado (CPC, art. 543-B, § 3º), impõe-se sua aplicação, nos mesmos termos, aos casos análogos, como o dos autos.
+    Por estar em consonância com a orientação do Plenário desta Corte, não merece reparos o acórdão recorrido.
+    3. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 18 de junho de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
