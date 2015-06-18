@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Quarta Turma Julgadora da 1ª Câmara Cível do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “DUPLO GRAU DE JURISDIÇÃO. APELAÇÃO CÍVEL EM EMBARGOS À EXECUÇÃO FISCAL. TEMPESTIVIDADE DO RECURSO VOLUNTÁRIO. NULIDADE DA SENTENÇA POR ESTAR EMBASADA EM PROVAS JUNTADAS FORA DO PRAZO LEGAL. NÃO OCORRÊNCIA. SUBSTITUIÇÃO TRIBUTÁRIA. ICMS. RESPONSABILIDADE DO SIBSTITUTO APÓS CESSADOS OS EFEITOS DAS DECISÕES JUDICIAIS QUE OBSTAVAM O PAGAMENTO ANTECIPADO DO TRIBUTO.
+    I- Tem-se por improsperável a alegação de intempestividade do recurso de apelação manejado pela Fazenda Pública, se o mesmo foi interposto dentro do lapso temporal previsto pelo art. 508 do CPC, observado o prazo em dobro preconizado pelo art. 188 do mesmo Códex.
+    II – Não há que se falar em nulidade da sentença fundamentada em documentos juntados aos autos fora do prazo legal quando o embargado, em sua peça de defesa, reconhece expressamente a existência dos fatos alegados, que, diante disso, tornam-se incontroversos, vindo a dispensar a produção de provas, nos termos do art. 334, inc. III, do CPC.
+    III- O regime de substituição tributária fica afastado quando a liminar, pleiteada pelo substituído, que impede o substituto tributário de reter o montante inerente ao tributo, é revogada, cabendo ao Estado buscar diretamente do substituído o seu recebimento. REMESSA E APELAÇÃO CONHECIDAS E IMPROVIDAS”. (volume 5)
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV e LV; 150, § 6º, da Carta. Sustenta o recorrente que o acórdão criou um caso de remissão indireta do crédito tributário ao impedir a cobrança do tributo do substituto tributário, o que é vedado pelo § 6º do art. 150 da Constituição Federal (volume 6).
+    A decisão agravada negou seguimento ao recurso sob o fundamento de ausência de prequestionamento.
+    A pretensão recursal não merece prosperar, tendo em vista que para dissentir das conclusões adotadas demandaria o exame da legislação infraconstitucional pertinente (Lei Complementar nº 87/96 e os Convênios CONFAZ nº 105, 11 e 112, que dispõem sobre a substituição tributária do setor), providência vedada nesta via processual. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional.
+    Ademais, no mérito o recorrente aponta que o acórdão recorrido cuida de hipótese de remissão, que se consubstancia em extinção de crédito tributário. Todavia, no caso dos autos, o Tribunal de origem consignou o seguinte:
+    “III- O regime de substituição tributária fica afastado quando a liminar, pleiteada pelo substituído, que impede o substituto tributário de reter o montante inerente ao tributo, é revogada, cabendo ao Estado buscar diretamente do substituído o seu recebimento”.
+    Note-se que não houve extinção do crédito, mas apenas o deslocamento da sujeição passiva da obrigação tributária por força de decisão judicial. As razões recursais estão, portanto, inteiramente dissociadas do acórdão proferido. Nessas condições, a hipótese atrai a incidência das Súmulas 283 e 284/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
