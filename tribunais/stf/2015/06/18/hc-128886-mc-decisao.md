@@ -1,0 +1,18 @@
+Decisão:
+    Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado em face de acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça em sede de Agravo Regimental em Recurso Especial, assim ementado:
+    “EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SAÍDAS TEMPORÁRIAS. CONCESSÃO AUTOMÁTICA. IMPOSSIBILIDADE. A Terceira Seção desta eg. Corte, nos julgamentos dos Recursos Especiais Repetitivos 1.166.251/RJ e 1.176.264/RJ, ambos da relatoria da em. Min. Laurita Vaz, pacificou o entendimento segundo o qual as saídas temporárias devem ser concedidas de forma autônoma e individualizada, com manifestação motivada do Juízo da Execução e intervenção do Ministério Público. Agravo regimental desprovido.”
+    Consta do pleito em exame que o paciente cumpre pena em regime semiaberto, tendo requerido autorização de saída temporária na modalidade de visita periódica ao lar, nos moldes dos arts. 122, I , e 123, ambos da Lei de Execuções Penais. A decisão do magistrado de primeiro grau que concedia o benefício foi mantida pelo Tribunal de Justiça do Rio de Janeiro em julgamento de agravo de execução interposto pelo Ministério Público do Estado do Rio de Janeiro.
+    Irresignado, o Parquet estadual interpôs recurso especial junto ao Superior Tribunal de Justiça, o qual, inicialmente, foi monocraticamente decidido pelo E. Ministro Felix Fischer que entendeu pelo “provimento ao recurso especial para afastar a concessão de saídas automatizadas ao recorrido e determinar a manifestação motivada do r. Juízo da Execução (...)”. Contra essa decisão foi interposto agravo regimental pela ora impetrante, cujo julgamento manteve a decisão monocrática vergastada, conforme ementa supracolacionada.
+    Considerando o panorama processual ora enfrentado, segundo argumentação despendida pela impetrante, estaria presente o requisito do periculum in mora, uma vez que “o acórdão do STJ atacado cassou decisão do Juízo da Execução Penal que deferia o gozo do benefício de visita periódica ao lar ao paciente, o que resulta em séria restrição da liberdade do apenado”. Acrescentou, ainda, que “o entendimento firmado pelo Tribunal a quo, de que é necessária uma decisão para cada saída temporária do preso, não apenas inviabilizou o gozo deste benefício à apenado, mas, por tratar-se de questão decidida em sede de recurso repetitivo, atinge da mesma forma todos os presos em regime semiaberto”.
+    Eis um breve relato. Decido.
+    Num juízo de cognição sumária, como é próprio desta fase processual, não vislumbro ilegalidade flagrante na decisão atacada que justifique a concessão liminar do presente writ.
+    Com efeito, o Superior Tribunal de Justiça determinou o retorno ao Juízo de primeiro grau para análise do cabimento da autorização de saída temporária de visitação ao lar ao paciente, por entender não estar devidamente fundamentada a decisão anteriormente proferida nesse sentido.
+    Nada impede que o Juízo de primeiro grau realize nova análise, sem os vícios apontados pelo acórdão objurgado, concedendo ao paciente as autorizações pleiteadas. A urgência deve, portanto, ser prioritariamente levada ao Juízo de primeiro grau.
+    Posto isso, indefiro o pedido de liminar.
+    Solicitem-se informações ao Juízo de Direito da Vara de Execuções Penais da Comarca do Rio de Janeiro/RJ para que preste as informações atualizadas a respeito da saída temporária pleiteada pelo paciente (Autos de origem nº 0353811-42.2010.8.19.0001).
+    Posteriormente, remetam-se os autos à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 18 de junho de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
