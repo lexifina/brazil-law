@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra acórdão do Tribunal Superior do Trabalho que teria desrespeitado decisão do STF proferida no julgamento da ADC 16 (Rel. Min. Cezar Peluso, Pleno, DJe de 9.9.2011), bem como os termos da Súmula Vinculante 10.
+    Em 27/5/2015, foi julgado procedente o pedido para cassar o acórdão reclamado (Processo 1359-82.2011.5.04.0512), decisão contra a qual a interessada interpôs agravo regimental.
+    2. O caso revela ser hipótese de prevenção. Conforme noticiado pela interessada, a procedência da Rcl 14.853, da relatoria do Min. Dias Toffoli, implicou a cassação da sentença proferida pela 2ª Vara do Trabalho de Bento Gonçalves (Processo 1359-82.2011.5.04.0512), que havia decretado “a responsabilidade subsidiária do segundo reclamado (Município de Bento Gonçalves)” (doc. 23, fls. 3). Posteriormente, o novo pronunciamento do juízo trabalhista foi impugnado na Rcl 16.136, distribuída por prevenção ao Min. Dias Toffoli, o qual, na oportunidade, concluiu pela improcedência do pedido, ficando mantida a responsabilidade subsidiária do Município. Tal entendimento foi confirmado no julgamento do agravo em recurso de revista pelo Superior Tribunal do Trabalho, daí a presente reclamação, ajuizada pelo Município de Bento Gonçalves.
+    Tendo em vista que as reclamações acima referidas, bem como a presente, têm como origem o Processo 1359-82.2011.5.04.0512, incide ao caso a disposição do art. 69 do Regimento Interno do Supremo Tribunal Federal:
+    A distribuição da ação ou do recurso gera prevenção para todos os processos a eles vinculados por conexão ou continência.
+    3. Nesses termos, torno sem efeito a decisão proferida em 27/5/2015; e, no mais, determino a remessa dos autos à Presidência da Corte, com proposta de redistribuição dos autos ao Min. Dias Toffoli.
+    Publique-se. Intime-se.
+    Brasília, 18 de junho de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
