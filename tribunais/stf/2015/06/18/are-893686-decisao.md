@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em razão da intempestividade do apelo.
+    No agravo, a parte agravante sustenta, em síntese, a tempestividade do recurso, uma vez que houve suspensão dos prazos processuais entre 24 e 31 de dezembro de 2012, conforme o Ato 837/2012 do Presidente do Tribunal de Justiça de Pernambuco, bem como o art. 184 do CPC.
+    2. Independentemente da discussão relativa à intempestividade, a inadmissão do recurso extraordinário deve ser mantida por outros fundamentos.
+    3. O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional discutida no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto nos artigos 102, § 3º, da CF/88 e 543-A, § 2º, do CPC, alegações genéricas a respeito do instituto, como a mera afirmação de que (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação a dispositivo constitucional; ou, ainda, (e) há jurisprudência pacífica desta Corte quanto ao tema discutido. Nesse sentido: ARE 691.595 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR/MG, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Ora, no caso, a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nos moldes exigidos pela jurisprudência do STF.
+    4. Por fim, o Tribunal de origem dirimiu a lide, essencialmente com base na interpretação e aplicação da legislação ordinária, do edital do concurso público e nos elementos de fato e prova dos autos. Dessa forma, a reversão do julgado encontra óbice nas Súmulas 279 e 454 do STF.
+    5. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 18 de junho de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
