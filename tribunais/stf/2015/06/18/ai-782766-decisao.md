@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 15ª Câmara Cível do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO DECLARATÓRIA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA – ISS – Exercício de 1999 – Sociedade profissional de auditoria e contabilidade- Base de cálculo tomada pelo número de profissionais habilitados, sócios, empregados ou não, que prestam serviços em nome da contribuinte, apenas na municipalidade requerida – Aplicabilidade do art. 9º, §3º, do Decreto-Lei nº 406/69 – Legislação que não prevê distinção ou qualificação específica a esses profissionais – Irrelevância do grau de escolaridade dos profissionais, considerados à exação todos que respondam pessoalmente pelos serviços prestados – Insuficiência de provas para a quantificação do número exato deste profissionais – Sentença mantida – Apelos da contribuinte e da municipalidade improvidos”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV e LV; 93, IX; 156, III, todos da Carta.
+    A pretensão recursal não merece prosperar. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. No caso dos autos, note-se que o acórdão recorrido consignou o seguinte:
+    “Sem melhor sorte, as irresignações da contribuinte também não colhem guarida, porquanto a citada norma legal abrange, sim, todos os que em nome dela prestaram serviços e assumiram a responsabilidade pessoal – sejam sócios, ou não, com nível superior, ou médio, uma vez que a legislação não os distingue – desde que habilitados para o mister.
+    Ademais, a prova documental trazida mostrou-se insuficiente para albergar as pretensões da autora, importando aqui saber-se quantos profissionais habilitados prestaram – efetivamente – serviços em seu nome, durante o exercício de 1999, na sua filial em Campinas, situação que a mera exibição do seu contrato social não esclarece, ainda mais quando outros e diversos profissionais, que não os sócios ali discriminados, podem lá proporcionar os serviços contábeis, sob responsabilidade pessoal”
+    Dissentir das conclusões adotadas demandaria tão somente o reexame da legislação infraconstitucional pertinente, providência vedada nesta fase processual.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 18 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
