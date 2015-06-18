@@ -1,0 +1,10 @@
+O ministro Edson Fachin remeteu os autos à Presidência, nos seguintes termos:
+    “O recurso que deu origem aos presentes embargos de declaração foi julgado por acórdão da Segunda Turma deste Tribunal. Por essa razão, remetam-se os autos à Presidência, com a proposta de redistribuição do feito, considerando a possibilidade de prevenção da referida Turma, nos termos do art. 10 do Regimento Interno do Supremo Tribunal Federal” (fl. 5282).
+    É caso de redistribuição.
+    De fato, incide no caso o disposto no art. 10, caput, do RISTF, in verbis:
+    “A turma que tiver conhecimento da causa ou de algum de seus incidentes, inclusive de agravo para subida de recurso denegado ou procrastinado na instância de origem, tem jurisdição preventa para os recursos, reclamações e incidentes posteriores, mesmo em execução, ressalvada a competência do Plenário e do Presidente do Tribunal”.
+    Isso posto, acolho a proposta do ministro Edson Fachin e determino a redistribuição dos autos a um dos ministros da segunda turma desta Corte.
+    Publique-se.
+    Brasília, 18 de junho de 2015.
+Ministro Ricardo Lewandowski
+Presidente
