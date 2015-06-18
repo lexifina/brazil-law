@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região que manteve sentença que julgara improcedente pedido de revisão de benefício previdenciário mediante a aplicação dos reajustes de 10,96% em dezembro de 1998, de 0,91% em dezembro de 2003 e de 27, 23% em janeiro de 2004, em cumprimento aos arts. 20, § 1º, e 28, § 5º, da Lei nº 8.212/1991.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV, LV; 195, §§ 4º e 5º; 201, § 4º, todos da Constituição, bem como ao art. 14 da EC 20/1998.
+    O recurso extraordinário é inadmissível, tendo em vista que esta Corte já assentou a ausência de repercussão geral da controvérsia relativa à violação aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, o Plenário Virtual do Supremo Tribunal Federal, ao apreciar o RE 686.143, Rel. Min. Cezar Peluso, decidiu que não apresenta repercussão geral matéria que envolve a pretensão de reajustar os benefícios previdenciários em manutenção na mesma proporção do aumento aplicado ao teto do salário de contribuição, por se tratar de matéria de natureza infraconstitucional. Veja-se, nesse sentido, a ementa do julgado (Tema 568):
+    “PREVIDÊNCIA SOCIAL. BENEFÍCIO. Índice de reajuste. Equiparação ao limite do salário de contribuição. Questão infraconstitucional. Precedentes da Corte. Ausência de repercussão geral. Recurso extraordinário recusado . Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto o índice para reajuste de benefício pago pelo regime geral de previdência, versa sobre matéria infraconstitucional.”
+    O art. 543-A, § 5º, do CPC, bem como os arts. 326 e 327 do RI/STF, dispõe que a decisão desta Corte quanto à inexistência de repercussão geral valerá para todos os casos que versem sobre questão idêntica.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
