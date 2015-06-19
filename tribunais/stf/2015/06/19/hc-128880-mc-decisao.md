@@ -1,0 +1,38 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Rodrigo Correa Godoy, em favor de Renan Fernandes Ricobello Quero, contra decisão proferida pelo Ministro Ericson Maranho, Desembargador do TJSP, convocado pelo Superior Tribunal de Justiça (STJ), que indeferiu o pedido liminar nos autos do HC 320.641/SP.
+    Extrai-se dos autos que, em 18.1.2015, o paciente foi preso por suposta prática do crime descrito no art. 33 da Lei 11.343/06, tendo em vista comercializar, trazer consigo e ter em depósito 90 (noventa) porções de maconha, com peso total de 95,4 g (noventa e cinco gramas e quatro decigramas).
+    Consta ainda que, na residência do paciente, foram encontrados uma caixa vazia de balança de precisão, um “triturador” manual de maconha, duas facas com resquícios da droga e R$ 5.250,00 (cinco mil e duzentos e cinquenta reais) em espécie. (eDOC 3)
+    Por vislumbrar presentes os requisitos autorizadores, o Juízo de primeiro grau converteu o flagrante em prisão preventiva. (eDOC 5, p.4-5)
+    Irresignada, a defesa manejou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, ao argumento de ausência dos requisitos do art. 312 do CPP, pois não foi apresentado nenhum elemento concreto que justificasse a grave medida. A ordem foi denegada, nos termos do acórdão assim ementado:
+    “Habeas Corpus. Tráfico de drogas. Pedido de revogação da prisão preventiva, por ausência dos requisitos legais. Inadmissibilidade. Indícios de autoria e prova da existência do crime. Necessidade da custódia para garantia da ordem pública, conveniência da instrução criminal e assegurar a aplicação da lei penal.
+    Constrangimento ilegal não caracterizado. Ordem denegada.”(eDOC 8)
+    Ainda inconformada, a defesa impetrou novo habeas perante o Superior Tribunal de Justiça. O pedido liminar foi indeferido, pendente ainda o julgamento do mérito.
+    Daí a impetração do presente writ.
+    Nesta Corte, o impetrante aduz, em síntese, a ocorrência de constrangimento ilegal, tendo em vista a ausência de fundamentação da segregação cautelar, bem como a ausência dos requisitos do art. 312 do CPP. Ressalta que a prisão preventiva foi decretada com base na em decisão padronizada, com argumentos genéricos, relacionados à gravidade abstrata da imputação, servindo a todo e qualquer acusado de tráfico de entorpecentes. Assevera que as condições pessoais do paciente são extremamente favoráveis. Pleiteia liminarmente a superação do enunciado 691 da Súmula do STF e a consequente expedição de alvará de soltura do paciente.
+    É o breve relatório.
+    Decido.
+    Preliminarmente, cumpre ressaltar que a jurisprudência reiterada desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus, nas causas de sua competência originária, contra decisão denegatória de liminar em ação de mesma natureza articulada perante tribunal superior, antes do julgamento definitivo do writ. Esse entendimento está representado no enunciado nº 691 da Súmula do STF, in verbis :
+    Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar .
+    É bem verdade também que o rigor na aplicação desse entendimento tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal ou se a negativa de decisão concessiva de medida liminar pelo tribunal superior importar na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF.
+    Na hipótese dos autos, à primeira vista, entendo caracterizada situação a ensejar o afastamento do enunciado 691 da Súmula do STF, senão vejamos.
+    De um modo geral, presentes o fumus comissi delicti e o periculum libertatis, a prisão preventiva deve indicar, de forma expressa, ao menos a presença de algum dos requisitos elencados no art. 312 do CPP, quais sejam: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+    Na linha da jurisprudência deste Tribunal, porém, não basta a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições realizam-se na espécie.
+    Na hipótese, a decisão de primeira instância, que converteu o flagrante em prisão preventiva, constitui mero formulário pré-formatado, um modelo contendo fórmulas vazias e desvinculadas de qualquer base empírica. Cingiu-se a apontar a presença dos pressupostos da custódia cautelar, discorrendo acerca dos malefícios que o tráfico de drogas traz à sociedade.
+    Tanto é evidente se tratar de modelo pré-pronto que, ao proferir a decisão ora sob comento, o magistrado de origem nem ao menos adaptou ao caso concreto o gênero dos substantivos e flexões gramaticais constantes do texto, como se vê:
+    “(...) Os fundamentos da prisão preventiva também estão presentes.
+    O crime de tráfico de entorpecentes é grave e vem trazendo transtornos à sociedade, na medida em que influi negativamente nas famílias, desestrutura lares, fomenta a prática de outros delitos contra o patrimônio, a integridade corporal e a vida e acarreta a intranquilidade social. Assim, a prisão cautelar é necessária à garantia da ordem pública.
+    Deste modo, a prisão em flagrante deve ser convertida em prisão preventiva como forma de preservação da ordem pública, sendo necessária para a instrução criminal e importante para garantia da futura aplicação da lei penal, uma vez que há indícios suficientes de autoria e prova da existência do crime (art. 312, caput, do CPP).
+    Diante desse quadro, também fica claro que as medidas cautelares, alternativas à prisão preventiva (art. 319 do CPP), não se mostram suficientes, adequadas e proporcionais à gravidade do fato praticado e à periculosidade dos agentes.
+    Por outro lado, se condenado (a) (s), o (a) (s) réu (ré) (s) possivelmente irá (ão) iniciar o cumprimento da pena em regime fechado.
+    A prisão preventiva configura-se como instrumento para a proteção da ordem jurídica e garantia da aplicação da lei penal e não como punição prévia.
+    Outrossim, a aplicação do redutor previsto no §4º do artigo 33 da lei 11.343/06, será analisado no momento oportuno e não em oposição aos requisitos da prisão preventiva.
+    Diante do exposto, presentes os requisitos da prisão preventiva, converto a prisão em flagrante em prisão preventiva (...)”(eDOC 5, p.4-5) (grifei)
+    A decisão que impõe a segregação de alguém, medida tão drástica e excepcional, precisa vir fundamentada de forma consistente, demonstrando sólidas evidências do perigo real causado pela liberdade do acusado o que, primus ictus oculi, não constato na situação em epígrafe.
+    Ante o exposto, defiro o pedido de liminar para suspender os efeitos da prisão preventiva decretada em desfavor do paciente (Renan Fernandes Ricobello Quero) pelo Juízo da 2ª Vara Criminal da Comarca de Piracicaba/SP (Processo n. 0000585-38.2015.8.26.0451), se por algum outro motivo não estiver preso, e sem prejuízo da análise da aplicação de medidas cautelares previstas no art. 319 do CPP.
+    Solicitem-se informações ao Juízo da 2ª Vara Criminal da Comarca de Piracicaba/SP e ao Superior Tribunal de Justiça.
+    Com as respostas, abra-se vista à Procuradoria-Geral da República.
+    Comunique-se com urgência.
+    Publique-se.
+    Brasília, 19 de junho de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
