@@ -1,0 +1,29 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão que determinou a baixa dos autos para que o recurso extraordinário ficasse retido, conforme sistemática do art. 542, § 3º, do CPC (fl. 140).
+    O embargante aduz a omissão da decisão embargada, ao argumento de que a hipótese dos autos refere-se à execução fiscal, motivo pelo qual seria inaplicável o disposto no § 3º do art. 542 do CPC (fls. 145-148).
+    Decido.
+    Registre-se que a possibilidade de retenção do extraordinário está limitada aos processos de conhecimento, cautelar e de embargos à execução, não abrangendo, portanto, os processos de execução fiscal.
+    No caso presente, busca-se o destrancamento de recurso extraordinário interposto de acórdão em agravo legal em agravo de instrumento contra decisão em processo de execução de sentença, que rejeitou a indicação de títulos da Eletrobras à penhora, hipótese que não se enquadra no § 3º do art. 542 do Código de Processo Civil, o qual dispõe:
+    “Art. 542 (...)
+    § 3º O recurso extraordinário, ou o recurso especial, quando interpostos contra decisão interlocutória em processo de conhecimento, cautelar, ou embargos à execução ficará retido nos autos e somente será processado se o reiterar a parte, no prazo para a interposição do recurso contra a decisão final, ou para as contra-razões”.
+    Dessa orientação divergiu a decisão (fl. 140), motivo pelo qual reconsidero, julgo prejudicado os embargos de declaração (fls. 145-148) e passo ao exame do recurso extraordinário com agravo.
+    Cuida-se de agravo interposto contra decisão que inadmitiu o recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. TÍTULOS DA ELETROBRÁS. AUSÊNCIA DE LIQUIDEZ E CERTEZA. PRESCRIÇÃO CONSUMADA. OFERECIMENTO À PENHORA. IMPOSSIBILIDADE.
+    1. As obrigações da eletrobrás emitidas em 1972 têm prazo de resgatabilidade de 20 anos (Lei n. 5.073/66, art. 2º, parágrafo único) e, a partir do vencimento, conta-se o prazo de 5 anos para postular seu resgate em dinheiro tardiamente, estas já estão prescritas, revelando-se, aí, a sua inaptidão.
+    2. Agravo legal improvido”. (fl. 108)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 173, § 1º, II, do texto constitucional.
+    O recorrente questiona o prazo prescricional aplicado à espécie, ao argumento de que, tendo em vista que Eletrobras é sociedade de economia mista, de caráter privado, não seria possível aplicar às debêntures emitidas por ela, prazos prescricionais atribuídos à Fazenda Pública.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o acórdão recorrido decidiu a controvérsia exclusivamente com base na interpretação da legislação infraconstitucional aplicável à espécie (Código Civil, Leis 4.156/62 e 5.073/66, Decreto-Lei 644/69 e Decreto 20.910/32).
+    Dessa forma, para que fossem examinadas as questões constitucionais suscitadas, seria necessário superar a interpretação da legislação ordinária conferida pela origem, razão pela qual eventual ofensa à Constituição Federal, caso existente, dar-se-ia de maneira indireta, situação que não autoriza o processamento de recurso extraordinário.
+    Nesse sentido, cito os seguintes julgados, de ambas as turmas:
+    “Empréstimo compulsório sobre energia elétrica. Eletrobras. Prazo prescricional. Ofensa constitucional indireta. Afastada a infringência ao art. 93, inciso IX, da Constituição. Precedentes. 1. Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido (AI nº 653.010/DF-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 29/8/08; e RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06). 2. A matéria relativa ao prazo de prescrição dos créditos referentes ao empréstimo compulsório sobre a energia elétrica é de índole infraconstitucional. Eventuais ofensas à Constituição seriam indiretas ou reflexas, pois ensejariam o reexame de normas infraconstitucionais. 3. Os fundamentos do agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 4. Agravo regimental não provido”. (AI-AgR 848.362, Rel. Min. Dias Toffoli, Primeira Turma, DJe 1.8.2012)
+    “EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA EM BENEFÍCIO DAS CENTRAIS ELÉTRICAS BRASILEIRAS S.A. (ELETROBRÁS). LEI 4.156/1962. ADCT, ART. 34, § 12. O Plenário do Supremo Tribunal Federal reconheceu que a regra prevista no art. 34, § 12, do ADCT preservou a exigibilidade do empréstimo compulsório instituído pela Lei 4.156/1962, com as alterações posteriores, até o exercício de 1993. DEVOLUÇÃO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA. PRESCRIÇÃO. EXAME DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA À CONSTITUIÇÃO. Agravo regimental a que se nega provimento”. (AI 591.381 AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 6.3.2009)
+     Ademais, esta Corte rejeitou a repercussão geral da controvérsia relativa à recusa da Fazenda Pública quanto a bens indicados à penhora em sede de execução fiscal, por se tratar de matéria infraconstitucional. Confira-se:
+    “REPERCUSSÃO GERAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO À PENHORA. ORDEM LEGAL DE PREFERÊNCIA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (ARE 703.595-RG, Rel. Min. Ricardo Lewandowski, Pleno, DJe 12.6.2013)
+    Ante o exposto, reconsidero a decisão de fl. 140, julgo prejudicados os embargos de declaração (fls. 145-148) e conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 19 de junho de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
