@@ -5,9 +5,9 @@ III - energia elétrica consumida nos estabelecimentos da pessoa jurídica;
 IV - aluguéis e contraprestações de arrendamento mercantil de prédios, máquinas e equipamentos, embarcações e aeronaves, utilizados na atividade da empresa;
 V - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos para locação a terceiros ou para utilização na produção de bens destinados à venda ou na prestação de serviços.
 § 1º O direito ao crédito de que trata este artigo e o art. 17 desta Lei aplica-se em relação às contribuições efetivamente pagas na importação de bens e serviços a partir da produção dos efeitos desta Lei.
-§ 1º -A. O valor da COFINS-Importação pago em decorrência do adicional de alíquota de que trata o § 21 do art. 8º não gera direito ao desconto do crédito de que trata o caput.
+§ 1º-A. O valor da Cofins-Importação pago em decorrência do adicional de alíquota de que trata o § 21 do art. 8º não gera direito ao desconto do crédito de que trata o caput.
 § 2º O crédito não aproveitado em determinado mês poderá sê-lo nos meses subseqüentes.
-§ 3º O crédito de que trata o caput será apurado mediante a aplicação das alíquotas previstas no caput do art. 8º sobre o valor que serviu de base de cálculo das contribuições, na forma do art. 7º, acrescido do valor do IPI vinculado à importação, quando integrante do custo de aquisição.
+§ 3º O crédito de que trata o caput será apurado mediante a aplicação das alíquotas previstas no art. 8º sobre o valor que serviu de base de cálculo das contribuições, na forma do art. 7º, acrescido do valor do IPI vinculado à importação, quando integrante do custo de aquisição.
 § 4º Na hipótese do inciso V do caput deste artigo, o crédito será determinado mediante a aplicação das alíquotas referidas no § 3º deste artigo sobre o valor da depreciação ou amortização contabilizada a cada mês.
 § 5º Para os efeitos deste artigo, aplicam-se, no que couber, as disposições dos §§ 7º e 9º do art. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003.
 § 6º O disposto no inciso II do caput deste artigo alcança os direitos autorais pagos pela indústria fonográfica desde que esses direitos tenham se sujeitado ao pagamento das contribuições de que trata esta Lei.

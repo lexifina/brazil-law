@@ -1,30 +1,33 @@
 Art. 8º As contribuições serão calculadas mediante aplicação, sobre a base de cálculo de que trata o art. 7º desta Lei, das alíquotas:
 I - na hipótese do inciso I do caput do art. 3º, de:
-a) 2,1% (dois inteiros e um décimo por cento), para a Contribuição para o PIS/PASEP-Importação; e
-b) 9,65% (nove inteiros e sessenta e cinco centésimos por cento), para a COFINS-Importação; e
+a) 2,1% (dois inteiros e um décimo por cento), para a Contribuição para o PIS/Pasep-Importação; e
+b) 9,65% (nove inteiros e sessenta e cinco centésimos por cento), para a Cofins-Importação; e
 II - na hipótese do inciso II do caput do art. 3º, de:
-a) 1,65% (um inteiro e sessenta e cinco centésimos por cento), para a Contribuição para o PIS/PASEP-Importação; e
-b) 7,6% (sete inteiros e seis décimos por cento), para a COFINS-Importação.
+a) 1,65% (um inteiro e sessenta e cinco centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e
+b) 7,6% (sete inteiros e seis décimos por cento), para a Cofins-Importação.
 § 1º As alíquotas, no caso de importação de produtos farmacêuticos, classificados nas posições 30.01, 30.03, exceto no código 3003.90.56, 30.04, exceto no código 3004.90.46, nos itens 3002.10.1, 3002.10.2, 3002.10.3, 3002.20.1, 3002.20.2, 3006.30.1 e 3006.30.2 e nos códigos 3002.90.20, 3002.90.92, 3002.90.99, 3005.10.10, 3006.60.00, são de:
-I - 2,76% (dois inteiros e setenta e seis centésimos por cento), para a Contribuição para o PIS/PASEP-Importação; e
-II - 13,03% (treze inteiros e três centésimos por cento), para a COFINS-Importação.
+I - 2,76% (dois inteiros e setenta e seis centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e
+II - 13,03% (treze inteiros e três centésimos por cento), para a Cofins-Importação.
 § 2º As alíquotas, no caso de importação de produtos de perfumaria, de toucador ou de higiene pessoal, classificados nas posições 3303.00 a 33.07, exceto na posição 33.06; e nos códigos 3401.11.90, exceto 3401.11.90 Ex 01; 3401.20.10; e 9603.21.00; são de:
-I - 3,52% (três inteiros e cinquenta e dois centésimos por cento), para a Contribuição para o PIS/PASEP-Importação; e
-II - 16,48% (dezesseis inteiros e quarenta e oito centésimos por cento), para a COFINS-Importação.
+I - 3,52% (três inteiros e cinquenta e dois centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e
+II - 16,48% (dezesseis inteiros e quarenta e oito centésimos por cento), para a Cofins-Importação.
 § 3º Na importação de máquinas e veículos, classificados nos códigos 84.29, 8432.40.00, 8432.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5, 87.01, 87.02, 87.03, 87.04, 87.05 e 87.06, da Nomenclatura Comum do Mercosul - NCM, as alíquotas são de:
-I - 2,62% (dois inteiros e sessenta e dois centésimos por cento), para a Contribuição para o PIS/PASEP-Importação; e
-II - 12,57% (doze inteiros e cinquenta e sete centésimos por cento), para a COFINS-Importação.
+I - 2,62% (dois inteiros e sessenta e dois centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e
+II - 12,57% (doze inteiros e cinquenta e sete centésimos por cento), para a Cofins-Importação.
 § 4º O disposto no § 3º deste artigo, relativamente aos produtos classificados no Capítulo 84 da NCM, aplica-se, exclusivamente, aos produtos autopropulsados.
 § 5º Na importação dos produtos classificados nas posições 40.11 (pneus novos de borracha) e 40.13 (câmaras-de-ar de borracha), da NCM, as alíquotas são de:
-I - 2,88% (dois inteiros e oitenta e oito centésimos por cento), para a Contribuição para o PIS/PASEP-Importação; e
-II - 13,68% (treze inteiros e sessenta e oito centésimos por cento), para a COFINS-Importação.
+I - 2,68% (dois inteiros e sessenta e oito centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e
+II - 12,35% (doze inteiros e trinta e cinco centésimos por cento), para a Cofins-Importação.
 § 8º A importação de gasolinas e suas correntes, exceto de aviação e óleo diesel e suas correntes, gás liquefeito de petróleo (GLP) derivado de petróleo e gás natural e querosene de aviação fica sujeita à incidência da contribuição para o PIS/PASEP e da COFINS, fixadas por unidade de volume do produto, às alíquotas previstas no art. 23 desta Lei, independentemente de o importador haver optado pelo regime especial de apuração e pagamento ali referido.
 § 9º Na importação de autopeças, relacionadas nos Anexos I e II da Lei nº 10.485, de 3 de julho de 2002, exceto quando efetuada pela pessoa jurídica fabricante de máquinas e veículos relacionados no art. 1º da referida Lei, as alíquotas são de:
-I - 2,62% (dois inteiros e sessenta e dois centésimos por cento), para a Contribuição para o PIS/PASEP-Importação; e
-II - 12,57% (doze inteiros e cinquenta e sete centésimos por cento), para a COFINS-Importação.
+I - 2,62% (dois inteiros e sessenta e dois centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e
+II - 12,57% (doze inteiros e cinquenta e sete centésimos por cento), para a Cofins-Importação.
+§ 9º-A. A partir de 1º de setembro de 2015, as alíquotas da Contribuição do PIS/Pasep-Importação e da Cofins-Importação de que trata o § 9º serão de:
+I - 3,12% (três inteiros e doze centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e
+II - 14,37% (quatorze inteiros e trinta e sete centésimos por cento), para a Cofins-Importação.
 § 10. Na importação de papel imune a impostos de que trata o art. 150, inciso VI, alínea d, da Constituição Federal, ressalvados os referidos no inciso IV do § 12 deste artigo, quando destinado à impressão de periódicos, as alíquotas são de:
-I - 0,95% (noventa e cinco centésimos por cento), para a Contribuição para o PIS/PASEP-Importação; e
-II - 3,81% (três inteiros e oitenta e um centésimos por cento), para a COFINS-Importação.
+I - 0,8% (oito décimos por cento), para a contribuição para o PIS/Pasep-Importação; e
+II - 3,2% (três inteiros e dois décimos por cento), para a Cofins-Importação.
 § 11. Fica o Poder Executivo autorizado a reduzir a 0 (zero) e a restabelecer as alíquotas do PIS/PASEP-Importação e da COFINS-Importação, incidentes sobre:
 I - produtos químicos e farmacêuticos classificados nos Capítulos 29 e 30 da NCM;
 II - produtos destinados ao uso em hospitais, clínicas e consultórios médicos e odontológicos, campanhas de saúde realizadas pelo Poder Público e laboratórios de anatomia patológica, citológica ou de análises clínicas, classificados nas posições 30.02, 30.06, 39.26, 40.15 e 90.18 da NCM.
