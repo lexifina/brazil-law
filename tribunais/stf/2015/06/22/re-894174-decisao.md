@@ -1,0 +1,21 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. PIS. COFINS. TAXAS/COMISSÕES PAGAS A ADMINISTRADORAS DE CARTÕES DE CRÉDITO. EXCLUSÃO DA BASE DE CÁLCULO. LEIS Nº 10.637/2002 E 10.833/2003.
+    1. Devida a tributação pela PIS e pela COFINS do valor correspondente às taxas pagas às administradoras de cartões de crédito e débito.
+    2. As Leis nº 10.637/2002 e 10.833/2003 preveem expressamente a incidência das contribuições ao PIS e à COFINS sobre a totalidade das receitas auferidas pela pessoa jurídica, independentemente de sua denominação contábil, explicitando que a totalidade das receitas compreende a receita bruta da venda de bens e serviços nas operações em conta própria ou alheia e todas as demais receitas auferidas pela pessoa jurídica, o que inclui as taxas e comissões pagas às administradoras de cartão de crédito e de débito, na exata dicção do art. 1º , § 1º , Leis nº 10.637/2002 e 10.833/2003.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 195, I, da Constituição.
+    A pretensão recursal não merece acolhida. Segundo o entendimento firmado nesta Corte, a mera alegação de que os valores em questão são repassados a terceiros não é suficiente para afastar o conceito de faturamento previsto no art. 195, I, da Constituição Federal. Isso porque o enquadramento de determinada receita como faturamento, para fins de incidência do Pis/Cofins, não depende de sua destinação, mas do fato de a receita decorrer do exercício das atividades empresariais.
+    Assim, no que tange especificamente à taxa de administração de cartão de crédito, o Ministro Celso de Mello, no autos do RE 744.449/RS, consignou que “o valor da taxa de administração cobrado pelas operadoras de cartão de crédito/débito constitui despesa operacional e integra a receita obtida pela pessoa jurídica com a venda do produto/serviço, ainda que tal percentual fique retido pela operadora no repasse do valor da operação”. Nessa linha, veja-se, ainda, a ementa de julgado recente no RE nº 816.363, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS. EXCLUSÃO DA BASE DE CÁLCULO. TAXAS E COMISSÕES PAGAS ÀS ADMINISTRADORAS DE CARTÃO DE CRÉDITO E DE DÉBITO. RECEITA BRUTA E FATURAMENTO. TOTALIDADE DOS VALORES AUFERIDOS COM A VENDA DE MERCADORIAS, DE SERVIÇOS OU DE MERCADORIAS E SERVIÇOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I. Para fins de definição da base de cálculo para a incidência da contribuição ao PIS e da COFINS, a receita bruta e o faturamento são termos sinônimos e consistem na totalidade das receitas auferidas com a venda de mercadorias, de serviços ou de mercadorias e serviços, ou seja, é a soma das receitas oriundas do exercício das atividades empresariais. Precedentes.
+    II Agravo regimental a que se nega provimento. (RE 816.363, Rel. Min. Ricardo Lewandowski)
+    Ademais, saliente-se que, para que seja determinada classificação diversa à taxa em questão, faz-se necessária a análise da legislação infraconstitucional pertinente ao caso, circunstância vedada nessa fase processual. Nesse sentido, leia-se ementa do ARE 693.830-AgR, julgado sob relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário com agravo. base de cálculo. PIS/COFINS. Exclusão dos valores transferidos a terceiros. Ofensa reflexa. Precedentes.
+    1. A Corte firmou o entendimento de que possibilidade de exclusão dos valores transferidos a terceiros da base de cálculo do PIS e da COFINS paira no âmbito da legislação infraconstitucional, sendo a eventual ofensa à Constituição meramente reflexa, o que não viabiliza o apelo extremo.
+    2. Os fundamentos da agravante, insuficientes para modificar a decisão agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional.
+    3. Agravo regimental não provido.
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
