@@ -1,0 +1,1 @@
+Art. 14-A. A Câmara dos Deputados e o Senado Federal, por meio de atos das respectivas Mesas, poderão dispor sobre a matéria de que trata o art. 14 no caso de parcerias público-privadas por eles realizadas, mantida a competência do Ministério da Fazenda descrita no inciso II do § 3º do referido artigo.
