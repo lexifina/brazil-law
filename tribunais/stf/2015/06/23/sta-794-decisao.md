@@ -1,0 +1,26 @@
+Trata-se de pedido de suspensão formulado contra a decisão prolatada pela 7ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo nos autos do Agravo de Instrumento 2163987-96.2014.8.26.0000, que deferiu a antecipação de tutela requerida por Silverio Syllas Saad e outros na Ação Ordinária 1036850-86.2014.8.26.0053. O acórdão está assim ementado:
+    “AGRAVO DE INSTRUMENTO – Decisão monocrática que, em sede de ação ordinária, indeferiu pedido de antecipação da tutela, consistente em que a Fazenda do Estado de São Paulo se abstivesse de aplicar o redutor constitucional sobre os vencimentos dos autores – Antecipação dos efeitos da tutela que se impõe, diante da orientação do STF acerca da matéria, e mais, por se tratar de verba alimentar, revelando-se inaplicável à espécie as limitações estabelecidas na norma do artigo 1º da LF nº 8.437/92 – Agravo de instrumento provido”.
+    A decisão colegiada ora contestada afastou a incidência do teto remuneratório fixado pela Emenda Constitucional 41/2003 sobre o valor total dos proventos auferidos pelos autores da ação ordinária acima especificada. Alegou-se que a aplicação do referido redutor salarial violaria o direito adquirido e a irredutibilidade de vencimentos.
+    Sobreveio, então, este pedido de suspensão, proposto pelo Estado de São Paulo, no qual sustenta que o decisum ora atacado, além de ensejar a propagação de futuras decisões idênticas, representaria grave lesão à ordem e à economia públicas, circunstâncias que justificariam a suspensão requerida.
+    Determinada a intimação dos interessados (documento eletrônico 11), o prazo para eventual manifestação sobre o pedido de suspensão transcorreu in albis (documento eletrônico 12).
+    A Procuradoria Geral da República, em parecer subscrito pelo Procurador-Geral Rodrigo Janot Monteiro de Barros, opinou pelo deferimento do pedido, em parecer assim sintetizado:
+    “SUSPENSÃO DE TUTELA ANTECIPADA. TETO REMUNERATÓRIO. MATÉRIA CONSTITUCIONAL. ORDEM PÚBLICA, NA ACEPÇÃO JURÍDICO-CONSTITUCIONAL, ORDEM ADMINISTRATIVA E ORDEM ECONÔMICA. POTENCIAL MULTIPLICADOR. GRAVE RISCO CONFIGURADO.
+    1 – É cabível suspensão de tutela antecipada para o Supremo Tribunal Federal quando veicule matéria constitucional.
+    2 – Decisão que afasta a incidência da Emenda Constitucional 41/2003 ofende a ordem pública na acepção jurídico-constitucional.
+    3 – Evidenciado o seu potencial multiplicador, a decisão gera, ainda, grave risco à ordem administrativa e à ordem econômica do requerente.
+    4 – Parecer pelo deferimento do pedido de suspensão”.
+    É o relatório. Decido.
+    Bem examinados os autos, verifico que a decisão ora impugnada afastou, em sede de tutela antecipada, a incidência do teto constitucional com fundamento no suposto direito adquirido e na irredutibilidade de vencimentos.
+    Esta Presidência, ao apreciar diversos pedidos similares ao que ora se examina, concluiu pela impossibilidade da execução imediata de decisões judiciais que afastam a incidência do teto constitucional com base em supostas violações ao direito adquirido, ao ato jurídico perfeito e ao princípio da irredutibilidade.
+    Com efeito, as decisões proferidas reconheceram a existência de grave lesão à ordem pública, em sua acepção jurídico-constitucional, ante a violação de dispositivos da Carta Magna. Cito, entre outras, a SS 2.777-AgR/MT, Rel. Min. Ellen Gracie; a SS 2.522-AgR/MT, Rel. Min. Gilmar Mendes; a STA 489-AgR/SP, Rel. Min. Cezar Peluso; e a STA 529-AgR/SP, Rel. Min. Joaquim Barbosa. Os dois últimos precedentes apontados estão assim ementados:
+    “SERVIDOR PÚBLICO. Vencimentos. Vantagens pessoais anteriores à EC nº 41/03. Concessão. Inadmissibilidade. Teto Remuneratório. Efeito multiplicador. Grave lesão à ordem econômica. Suspensão concedida. Repercussão geral reconhecida no RE nº 606.358. Agravo regimental não provido. Expressiva quantidade de feitos idênticos, muitos deles em casos de litisconsórcio, sobre possibilidade de exclusão de vantagens anteriores à EC nº 41/03, para efeito de cálculo remuneratório, caracteriza o chamado efeito multiplicador, que autoriza suspensão de segurança” (grifos no original).
+    “TETO REMUNERATÓRIO. INCIDÊNCIA SOBRE VANTAGENS DE ALEGADA NATUREZA PESSOAL. DECISÃO AGRAVADA QUE DETERMINOU A SUSPENSÃO DA TUTELA ANTECIPADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    O afastamento do teto remuneratório previsto no art. 37, IX, da Constituição, na redação da EC 41/2003, ameaça a ordem pública. Precedentes.
+    Repercussão geral da matéria reconhecida no RE 606.358 – tema nº 257 – Inclusão das vantagens pessoais no teto remuneratório estadual após a Emenda Constitucional nº 41/2003.
+    Agravo regimental ao qual se nega provimento com a manutenção da decisão da Presidência que suspendeu a execução da tutela antecipada deferida no processo de origem até o trânsito em julgado de decisão definitiva de mérito prolatada naqueles autos”.
+    Isso posto, defiro o pedido para suspender a execução da decisão proferida no Agravo de Instrumento 2163987-96.2014.8.26.0000, até o trânsito em julgado da Ação Ordinária 1036850-86.2014.8.26.0053.
+    Comunique-se.
+    Publique-se.
+    Brasília, 23 de junho de 2015.
+Ministro Ricardo Lewandowski
+Presidente
