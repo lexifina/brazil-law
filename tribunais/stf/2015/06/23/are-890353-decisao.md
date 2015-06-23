@@ -1,0 +1,39 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE AVISO PRÉVIO INDENIZADO E DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. NATUREZA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Terceira Turma do Tribunal Regional Federal da Quinta Região decidiu:
+    “TRIBUTÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ILEGITIMIDADE PASSIVA. PRESCRIÇÃO DECENAL. DESATE UNIFORMIZADOR DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRG NO RESP N. 929887/SP. ARGUIÇÃO DE INCONSTITUCIONALIDADE NA AC 419228/PB JULGADA PELO PLENO DESTE TRIBUNAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO PRÉVIO INDENIZADO E DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL. NÃO INCIDÊNCIA.
+    1. Deve ser considerada autoridade coatora não apenas a que tenha praticado o ato, mas também aquela da qual emane a ordem para sua prática. Tendo o Superintendente Regional da Receita Federal poder suficiente para dar cumprimento ao comando judicial buscado nestes autos, pode figurar no polo passivo desta demanda. Preliminar rejeitada.
+    2. ‘O prazo prescricional das ações de compensação/repetição de indébito, do ponto de vista prático, deve ser contado da seguinte forma: relativamente aos pagamentos efetuados a partir da vigência da Lei Complementar 118/2005 (09.06.05), o prazo para se pleitear a restituição é de cinco anos a contar da data do recolhimento indevido; e relativamente aos pagamentos anteriores, a prescrição obedece ao regime previsto no sistema anterior, limitada, porém, ao prazo máximo de cinco anos a contar da vigência da novel lei complementar. 2. Isto porque a Corte Especial declarou a inconstitucionalidade da expressão 'observado, quanto ao art. 3º, o disposto no art. 106, I, da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional', constante do artigo 4º, segunda parte, da Lei Complementar 118/2005 (AI nos ERESP 644736/PE, Relator Ministro Teori Albino Zavascki, julgado em 06.06.2007)’ - Excerto do voto do Ministro LUIZFUX no RESP 859.745/SC.
+    3. O Plenário deste Tribunal Regional Federal da 5ª Região, no julgamento da ARGINC n. 419228/PB, declarou a inconstitucionalidade da segunda parte do art. 4º da Lei Complementar n. 118/2005.
+    4. Não incide a contribuição previdenciária sobre o aviso prévio indenizado, por não ostentar natureza salarial, devendo ser considerada de cunho indenizatório. Precedente do STJ.
+    5. O décimo-terceiro salário proporcional ao aviso prévio, dada a acessoriedade de tal verba, deve seguir a natureza jurídica do principal. Precedente desta Corte.
+    6. Os valores recolhidos indevidamente a título de contribuição patronal apenas podem ser compensados com débitos vincendos alusivos a tributos desta mesma espécie, nos termos da Lei n. 8.383/91, sendo inaplicável a autorização prevista no art. 74 da Lei n. 9.430/96, em razão da vedação constante no parágrafo único do art. 26 da Lei n. 11.457/2007.
+    7. A limitação do quantum da compensação, em cada competência mensal, prevista nas Leis ns. 9.032 e 9.129/95, não atinge a pretensão de compensar o tributo.
+    8. Apelação da Fazenda Nacional improvida e remessa oficial e apelação da impetrante parcialmente providas” (fls. 174-175).
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta.
+    4. A Agravante argumenta que
+    “o acórdão recorrido, ao entender pela não incidência da Contribuição Previdenciária sobre o 13º salário proporcional ao aviso prévio, acabou violando o art. 195, I, a, da Constituição Federal, o que serve de suporte à tributação.
+    (…) a contribuição previdenciária também deve incidir sobre o 13º salário proporcional ao aviso prévio indenizado.
+    A matéria tratada é constitucional, assim, cabível Recurso Extraordinário, sendo a afronta direta à Constituição Federal e não reflexa ou indireta” (fls. 286-289).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 2º, 5º, inc. XXXVI, e 195, inc. I, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+     A apreciação do pleito recursal dependeria do reexame de provas, procedimento inviável em recurso extraordinário, nos termos da Súmula n. 279 do Supremo Tribunal Federal.
+    Novo exame do julgado impugnado exigiria, ainda, a análise prévia da legislação infraconstitucional aplicada à espécie (Lei n. 8.212/1991). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. AVISO PRÉVIO INDENIZADO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à incidência de contribuição previdenciária sobre as verbas pagas a título de aviso prévio indenizado, fundada na interpretação da Lei 8.212/91 e do Decreto 6.727/09, é de natureza infraconstitucional. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa” (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC” (ARE 745.901-RG, Relator o Ministro o Teori Zavascki, Plenário, DJe 18.9.2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA.
+    A controvérsia relativa à natureza jurídica das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente, circunstância que impede a abertura da via extraordinária.
+    2. Agravo regimental a que se nega provimento” (RE 863.262-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 7.5.2015).
+    “DIREITO PREVIDENCIÁRIO E ADMINISTRATIVO. AVISO PRÉVIO INDENIZADO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DA VERBA. AGRAVO REGIMENTAL. INSURGÊNCIA VEICULADA CONTRA A APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL (ARTS. 543-B DO CPC E 328 DO RISTF). ACÓRDÃO RECORRIDO PUBLICADO EM 28.3.2014.
+      Adequado o paradigma aplicável à hipótese, merece manutenção a sistemática da repercussão geral aplicada (arts. 543-B do CPC e 328 do RISTF). Agravo regimental conhecido e não provido” (RE 855.914-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 14.5.2015).
+    A decisão agravada, embasada nos dados constantes no acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, nada havendo a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de junho de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
