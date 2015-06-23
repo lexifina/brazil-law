@@ -1,0 +1,24 @@
+Decisão: 1. Trata-se de embargos infringentes opostos contra acórdão proferido pelo Plenário desta Corte, que deu provimento ao recurso extraordinário para reconhecer a imunidade de jurisdição do Programa das Nações Unidas para o Desenvolvimento em relação às demandas de natureza trabalhista, nos termos da seguinte ementa:
+    DIREITO INTERNACIONAL PÚBLICO. DIREITO CONSTITUCIONAL. IMUNIDADE DE JURISDIÇÃO. ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). PROGRAMA DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO (ONU/PNUD). RECLAMAÇÃO TRABALHISTA. CONVENÇÃO SOBRE PRIVILÉGIOS E IMUNIDADES DAS NAÇÕES UNIDAS (DECRETO 27.784/1950). APLICAÇÃO.
+    1. Segundo estabelece a “Convenção sobre Privilégios e Imunidades das Nações Unidas”, promulgada no Brasil pelo Decreto 27.784, de 16 de fevereiro de 1950, “A Organização das Nações Unidas, seus bens e haveres, qualquer que seja seu detentor, gozarão de imunidade de jurisdição, salvo na medida em que a Organização a ela tiver renunciado em determinado caso. Fica, todavia, entendido que a renúncia não pode compreender medidas executivas”.
+    2. Esse preceito normativo, que no direito interno tem natureza equivalente a das leis ordinárias, aplica-se também às demandas de natureza trabalhista.
+    3. Recurso extraordinário provido. (fl. 1161)
+    A parte embargante sustenta, em síntese: (a) o cabimento dos embargos infringentes, uma vez que o acórdão embargado teria reformado a sentença nos termos do art. 530 do Código de Processo Civil; e (b) a presença de repercussão geral da matéria. No mais, pede a reforma do acórdão recorrido.
+    Em contrarrazões, os embargados opinaram pelo descabimento de embargos infringentes contra acórdão que tenha julgado recurso extraordinário interposto em ação rescisória.
+    Em 18/9/2014, a parte embargante interpôs agravo regimental no qual requer a reconsideração de decisão que supostamente teria inadmitido os embargos infringentes. Às fls. 1424/1425, a parte embargante requer a concessão de justiça gratuita.
+    2.  Os embargos infringentes previstos no art. 530 do CPC e no art. 333 do Regimento Interno do Supremo Tribunal Federal pressupõem (a) acórdão não unânime; e (b) a reforma da sentença de mérito em julgamento de apelação ou a procedência do pedido deduzido em ação rescisória. Nenhuma dessas condições ocorreu em relação ao julgado embargado.
+    Ademais, não cabem embargos infringentes contra decisão proferida pelo Plenário em julgamento de recurso extraordinário. Nesse sentido:
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS INFRINGENTES CONTRA ACÓRDÃO PROFERIDO PELO PLENÁRIO DO STF NO JULGAMENTO DE RECURSO EXTRAORDINÁRIO. NÃO CABIMENTO. AUSÊNCIA DE PREVISÃO NOS ARTS. 530 DO CPC E 333 DO RISTF. PRECEDENTES.
+    1. A teor dos arts. 530 do CPC e 333 do RISTF, não cabem embargos infringentes contra acórdão proferido pelo Plenário do Supremo Tribunal Federal no julgamento de recurso extraordinário. Precedentes: ARE 745.286-AgR-EI, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 28/10/2013; AI 828.792-AgR-EI/SP, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 15/8/2011.
+    2. Agravo regimental a que se nega provimento. (RE 578.543-EI-AgR, de minha relatoria, Tribunal Pleno, DJe de 16/6/2015)
+    EMBARGOS INFRINGENTES NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO EMBARGADA QUE NÃO SE ENQUADRA NAS HIPÓTESES DO ART. 333 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. EMBARGOS NÃO CONHECIDOS (ARE 745.286-AgR-EI, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 28/10/2013).
+    PENAL. EMBARGOS INFRINGENTES NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO QUESTIONADA QUE NÃO SE INSERE NAS HIPÓTESES DO ART. 333 DO RISTF. REITERADA JURISPRUDÊNCIA DESTA CORTE. EMBARGOS NÃO CONHECIDOS.
+    I Entre as hipóteses de cabimento deste recurso, elencadas no art. 333 do Regimento Interno do STF, não se inserem as decisões não unânimes proferidas pelo Plenário ou pela Turma, que negam provimento a agravos regimentais interpostos em agravos de instrumento criminais.
+    II Embargos infringentes não conhecidos (AI 828.792-AgR-EI, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 15/8/2011).
+    3. No que toca ao agravo regimental interposto, o apelo ataca decisão que não foi proferida nestes autos, mas sim no RE 578.543, também de minha relatoria. Não há, no presente processo, julgado que tenha inadmitido os embargos infringentes, nem qualquer outra decisão hábil a ser impugnada por agravo regimental. Por isso, deixo de conhecer desse recurso.
+    4. Diante do exposto, não admito os embargos infringentes e não conheço do agravo regimental (art. 21, § 1º RISTF). Defiro o pleito de concessão de justiça gratuita ao embargante.
+    Publique-se. Intime-se.
+    Brasília, 23 de junho de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
