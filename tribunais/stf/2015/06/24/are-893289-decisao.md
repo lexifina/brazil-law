@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. CONTRATO. PLANO DE SAÚDE. INADIMPLÊNCIA. CANCELAMENTO UNILATERAL SEM PRÉVIA NOTIFICAÇÃO. DANO MORAL NÃO CARACTERIZADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279/STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. ÓBICE DA SÚMULA Nº 454 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado (fl. 175), verbis:
+    “CONTRATO DE PLANO DE SAÚDE – Obrigação de fazer cumulada com restituição de valores e indenização por danos morais – Inadimplência manifesta da recorrida consumidora – Pedido julgado parcialmente procedente em primeiro grau – Cancelamento do plano sem notificação da consumidora – Ainda que não tenha havido notificação, a rescisão foi motivada pelo inadimplemento da recorrida, de modo que não se configuram danos morais – Recurso parcialmente provido para exclusão da condenação por danos morais.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 1º, III, 5º, III, V, X e XXII, 170 e 193 da Constituição Federal.
+    O Tribunal a quo inadmitiu o apelo extremo por entender que não houve o devido prequestionamento da matéria recorrida, que não foram citados os dispositivos supostamente agredidos, bem como que incide o óbice da Súmula nº 283 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, § 3º, da CF).
+    Não merece prosperar o agravo.
+    A jurisprudência pacífica desta Corte é no sentido de que o dano moral, quando aferido pelas instâncias ordinárias, não pode ser revisto pela Suprema Corte, tendo em vista que, para se chegar a conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos e de cláusulas contratuais, o que inviabiliza o extraordinário, atraindo a incidência das Súmulas nº 279 e 454 desta Corte: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido: AI 796.095-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 19/6/2012, o qual possui a seguinte ementa:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSUMIDOR. SEGURO DE VIDA. CANCELAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DAS SÚMULAS N. 454 E 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 24 de junho de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
