@@ -1,0 +1,35 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Jurandir Ferreira de Paula, apontando como autoridade coatora o Ministro Leopoldo de Arruda Raposo, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 325.972/SC.
+    Os impetrantes sustentam, inicialmente, que o caso concreto autoriza a mitigação do enunciado da Súmula nº 691/STF.
+    Asseveram, ademais, a presença de constrangimento ilegal, pois a custódia preventiva do paciente padece de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos autorizadores da prisão previstos no art. 312 do Código de Processo Penal.
+    Defendem, de outra parte, a aplicabilidade na hipótese de medidas cautelares diversas da prisão (CPP, art. 319).
+    Requerem, liminarmente, a concessão da ordem para que a prisão preventiva do paciente seja revogada ou substituída por medidas cautelares diversas.
+    Examinados os autos, decido.
+    Como visto, trata-se de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 deste Supremo Tribunal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+    É certo que a jurisprudência da Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia.
+    Transcrevo o teor da decisão ora questionada:
+    “Trata-se de habeas corpus substitutivo de recurso ordinário com pedido de liminar impetrado em benefício de JURANDIR FERREIRA DE PAULA, apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina que, julgando o HC nº 2015.027458-4, denegou a ordem, mantendo a custódia cautelar do paciente, oriunda de flagrante ocorrido em 24-4-2015, convertido em preventiva, nos autos da ação penal em que responde pela prática dos crimes dos artigos 33, caput, e 35 da Lei nº 11.343/06.
+    Inicialmente, alegam os impetrantes que estaria caracterizada manifesta ilegalidade capaz de superar o entendimento desta Corte quanto ao não cabimento da impetração de habeas corpus como substitutivo de recurso ordinário.
+    Alegam a ocorrência de constrangimento ilegal sob o argumento de que não teria sido apresentada fundamentação idônea para justificar a ordenação e manutenção da prisão preventiva, porquanto estaria baseada na gravidade abstrata dos delitos em tese cometido, não tendo sido apontados elementos concretos que demonstrassem a necessidade da medida extrema.
+    Sustentam inexistir nos autos elementos concretos a demonstrar a prática da conduta de associação ao tráfico imputada ao paciente, sendo certo que não se encontrava no local onde ocorrera a abordagem policial.
+    Afirmam que a prisão dos outros dois denunciados, junto dos quais foi encontrado o paciente, foi fruto de denúncia anônima, desprovida de regular investigação, não se prestando, assim, a constituir suporte probatório suficiente para a prisão.
+    Requerem, liminarmente e no mérito, a revogação da prisão preventiva; subsidiariamente, pretende a substituição da constrição por medidas cautelares menos gravosas, dentre aquelas previstas no art. 319 do CPP.
+    É o relatório.
+    A princípio, insurgindo-se a impetração contra acórdão do Tribunal de origem que denegou a ordem pleiteada no prévio writ, mostra-se incabível o manejo do habeas corpus originário, já que não configurada nenhuma das hipóteses elencadas no artigo 105, inciso I, alínea ‘c’, da Constituição Federal.
+    Contudo, compulsando-se os autos, ao menos em um juízo perfunctório, verifica-se que as teses levantadas na inicial merecem melhor exame, a fim de, no momento processual devido, examinar a possibilidade de atuação de ofício deste Superior Tribunal.
+    Não obstante, mostra-se inviável acolher a pretensão sumária, porquanto, consoante firmado no aresto impugnado, ‘após a abordagem realizada pelos policiais militares, foi encontrada com os acusados Andrei, Luhan e Jurandir (ora paciente), a quantia de 7790,30g (sete quilos, setecentos e noventa gramas e trinta centigramas) de maconha e 80 (oitenta) comprimidos de ecstasy, quantidade que demonstra a comercialização de entorpecentes, bem como a associação para o tráfico’ (fls. 27), fator que somado às demais circunstâncias que envolveram o flagrante constituem argumento bastante para, nesse momento, manter a constrição processual, a bem da ordem pública, diante da gravidade, ao que consta concreta, das condutas imputadas ao agente.
+    De mais a mais, a motivação que dá suporte à pretensão liminar confunde-se com o mérito do recurso, devendo o caso concreto ser analisado mais detalhadamente quando da apreciação e do seu julgamento definitivo pelo colegiado competente.
+    Diante do exposto, indefere-se a liminar” (fls. 1 a 4 do anexo 14 – grifos do autor).
+    Não há como ter-se por desprovida de fundamentação ou teratológica a decisão que entende não haver elementos suficientes, demonstrados de plano, para o deferimento da liminar. Pode e deve o magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que tanto caracterize constrangimento ilegal, abuso de poder ou teratologia.
+    A pretensão dos impetrantes é trazer ao conhecimento desta Suprema Corte, de forma precária, questões não analisadas, definitivamente, no Superior Tribunal de Justiça, em flagrante intenção de suprimir a instância antecedente.
+    Ademais, apenas para registro, anoto que não vislumbro, ato configurador de constrangimento ilegal praticado contra o paciente, advindo do decreto prisional em questão, que se mostra devidamente motivado em elementos concretos a justificar a necessidade da medida constritiva, mormente se consideramos a sua periculosidade, evidenciada pela grande quantidade droga apreendida (mais de 7 Kg de maconha).
+    Logo, os argumentos da impetração não se mostram suficientes para colocar o paciente em liberdade, liminarmente e per saltum, como pretendido.
+    Consoante o pacífico entendimento da Corte a grande quantidade da droga apreendida evidencia a periculosidade do agente, justificando, por conseguinte, a prisão cautelar para a garantia da ordem pública (HC nº 120.292/PR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 13/5/14).
+    Perfilhando esse entendimento: RHC nº 118.055/PE, Primeira Turma, de minha relatoria, DJe de 31/3/14; e RHC nº 118.547/BA, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 14/5/14, entre outros.
+    Ante o exposto, entendendo não demonstrada, satisfatoriamente, ilegalidade flagrante, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 24 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
