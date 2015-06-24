@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CONCESSÃO DE AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. MATÉRIA INFRACONSTITUCIONAL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INEXISTÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DESTE SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Sexta Turma do Tribunal Regional Federal da Quarta Região decidiu:
+    “PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE COMPROVADA. CONDIÇÕES PESSOAIS.
+    Comprovada a incapacidade laboral, e tendo em vista que as condições pessoais da autora (natureza do trabalho, idade, ausência de qualificação profissional) impossibilitam a reabilitação para novas funções, devido é o restabelecimento do benefício de auxílio-doença desde o indevido cancelamento com a conversão em aposentadoria por invalidez, a contar do laudo pericial judicial”.
+    3. Na decisão agravada se adotou como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+    4. A Agravante argumenta que
+     “o E. Tribunal fixou a DIB na data do laudo pericial, o que não merece prosperar, posto que a agravante encontra-se permanentemente incapaz para o trabalho desde o cancelamento indevido do primeiro auxílio-doença e, portanto, a DIB deve ser fixada em nesta data.
+    (...) a DIB deve ser fixada na data do indevido cancelamento do benefício de auxílio-doença, e não na data do laudo pericial, como entendeu o E. Tribunal.
+    Impede salientar que o v. acórdão tratou do ponto crucial da demanda, ainda que não tenha analisado expressamente os diapositivos constitucionais suscitados no Recurso Extraordinário”.
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 1º, inc. III, 3º, incs. III e IV, 5º, incs. XXXV e LVIII, 193, 194, 196, 197 e 201, inc. I, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    Novo exame do julgado impugnado demandaria o reexame da matéria fático-probatória e da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CONCESSÃO DE AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF. 1. O benefício previdenciário, nas hipóteses em que sub judice o preenchimento dos requisitos para sua concessão, demanda a análise da legislação infraconstitucional e do reexame do conjunto fático-probatório dos autos. Precedentes: ARE 662.120-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8/2/2012 e ARE 732.730-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 4/6/2013. 2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 4. In casu, o acórdão recorrido manteve a sentença, por seus próprios fundamentos, que assentou: (...). 5. Agravo regimental DESPROVIDO” (ARE 754.992-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 14.11.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. REQUISITOS. 1. INSUFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. INVIABILIDADE DA ANÁLISE DO RECURSO EXTRAORDINÁRIO. 2. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 662.120-AgR/RS, de minha relatoria, Primeira Turma, DJe 8.2.2012).
+    7. A matéria constitucional suscitada no recurso extraordinário não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração para comprovar ocorrido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2008).
+    A decisão agravada harmoniza-se com a jurisprudência deste Supremo Tribunal, nada havendo a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de junho de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
