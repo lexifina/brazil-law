@@ -1,0 +1,19 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário. O Tribunal de Justiça do Distrito Federal e Territórios deu provimento a agravo de instrumento para declarar a competência da Justiça Comum do DF para julgar a causa.
+    No recurso extraordinário, alega-se violação aos arts. 21, XIV, e 109, I, da Constituição Federal.
+    2. Em consulta ao portal do TJDFT na rede mundial de computadores, há informação de que, em 19 de novembro de 2014, sobreveio, no processo principal (ação ordinária n. 2011.01.1.053775-9), sentença julgando procedentes os pedidos. A preliminar de incompetência suscitada pelo réu, ora recorrente, foi rejeitada nesse ato judicial nos seguintes termos:
+Com efeito, tenho que o vínculo estatutário do policial civil do Distrito Federal e a qualificação distrital afeta ao cargo afastam a possibilidade da presente demanda ser submetida à justiça do trabalho ou à justiça federal. Estas duas justiças especializadas possuem sua competência estabelecida na Constituição, não lhes cabendo, por certo, a hipótese de julgamento de demandas envolvendo a situação jurídica de servidores estaduais.
+Corroborando o entendimento aqui exposto, colaciono os seguintes precedentes do E.TJDFT:
+AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER. MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS. SINDICATO DOS POLICIAIS CIVIS DO DISTRITO FEDERAL. COMPETÊNCIA.
+No julgamento do Mandado de Injunção nº 708/DF, o STF sufragou o entendimento de que, até a devida disciplina legislativa, a competência para a apreciação dos processos que versem sobre direito de greve de servidores estatutários tem relação direta com o ente com o qual há o vínculo jurídico, destacando-se que, para o caso da jurisdição no contexto estadual ou municipal, se a controvérsia estiver adstrita a uma unidade da federação, a competência será do respectivo Tribunal de Justiça (também por aplicação analógica do art. 6º da Lei no 7.701/1988). Assim, enquanto não regulada a matéria específica, a competência para julgar ação ajuizada em desfavor do Sindicato dos Policiais Civis do Distrito Federal, relacionado ao movimento grevista, é da Justiça Local, é não da Justiça Laboral. Afasta-se também o interesse da União sobre o feito, na medida em que os Policiais Civis do Distrito Federal não se qualificam servidores civis federais, mas sim como servidores distritais, na medida em que o dispositivo constitucional dispõe apenas que a Polícia Civil do DF será mantida pela União, ou seja, os recursos necessários à manutenção da corporação serão repassados pelo Governo Federal.
+(Acórdão n. 511367, 20110020061651AGI, Relator CARMELITA BRASIL, 2ª Turma Cível, julgado em 08/06/2011, DJ 13/06/2011 p. 93)
+Mandado de segurança. Policiais Civis do Distrito Federal. Cancelamento do auxílio-alimentação. Lei nº 8.460/92. Servidores públicos federais. Segurança denegada.
+1. Os policiais civis do Distrito Federal, posto que mantidos pela União, a quem compete legislar sobre seus vencimentos, não fazem jus ao auxílio-alimentação previsto na Lei nº 8.460/92, alterada pela de nº 9.527/97, uma vez que não são servidores públicos federais. Ainda que exista verba no Fundo Constitucional do Distrito Federal, impossível autorizar o pagamento desse benefício por falta de previsão legal.
+2. Segurança denegada. (20060020078628MSG, Relator GETULIO PINHEIRO, Conselho Especial, julgado em 01/06/2007, DJ 02/07/2007 p. 120)
+    A discussão sobre a competência, portanto, passou a ter sede na sentença, que (a) se sobrepõe à decisão interlocutória discutida nestes autos e (b) se submete à cadeia recursal própria.
+    Dada essa circunstância, perdeu o objeto o recurso extraordinário cuja inadmissão é discutida neste agravo.
+    3. Assim, julgo prejudicado o agravo.
+    Publique-se. Intime-se.
+    Brasília, 24 de junho de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
