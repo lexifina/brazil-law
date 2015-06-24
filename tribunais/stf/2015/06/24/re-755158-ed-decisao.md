@@ -1,0 +1,13 @@
+Vistos etc.
+    Contra a aplicação da sistemática da repercussão geral e devolução do recurso à origem para os fins do art. 543-B do CPC, considerado o AI 841.047, insurge-se o Instituto Nacional do Seguro Social – INSS.
+    Alega que a questão em exame é distinta da veiculada no paradigma citado. Afirma que “(...) o recurso extraordinário do INSS trata de matéria diversa, qual seja, o correto marco temporal para fixação dos efeitos financeiros nas ações previdenciárias que resultem em concessão/revisão de benefício (...)”. Requer “(...) o acolhimento dos presentes embargos para sanar a contradição apontada, com o consequente julgamento do Recurso Extraordinário nos termos de seu pedido (...)”.
+    É o relatório.
+    Assiste razão.
+    A matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no ARE 868.457-RG, verbis:
+    “ROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO COM AGRAVO. JUIZADOS ESPECIAIS. OFENSA AO PRINCÍPIO DA RESERVA DE PLENÁRIO (ART. 97 DA CF/88). ALEGAÇÃO MANIFESTAMENTE IMPROCEDENTE. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. EFEITOS FINANCEIROS RETROATIVOS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. O princípio da reserva de plenário não se aplica no âmbito dos juizados de pequenas causas (art. 24, X, da Constituição Federal) e dos juizados especiais em geral (art. 98, I, da CF/88), que, pela configuração atribuída pelo legislador, não funcionam, na esfera recursal, sob o regime de plenário ou de órgão especial. 2. A manifesta improcedência da alegação de ofensa ao art. 97 da Carta Magna pela Turma Recursal de Juizados Especiais demonstra a ausência da repercussão geral da matéria, ensejando a incidência do art. 543-A do CPC. 3. É de natureza infraconstitucional a controvérsia relativa à legitimidade da retroação dos efeitos financeiros da revisão de benefício previdenciário, nas hipóteses em que o segurado preencheu, na data de entrada do requerimento administrativo, os requisitos para a concessão de prestação mais vantajosa. 4. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009). 5. Ausência de repercussão geral das questões suscitadas, nos termos do art. 543-A do CPC.”
+    Ante o exposto, retifico o ato apenas para adequar o paradigma da repercussão geral.
+    Devolvam-se os autos ao Tribunal a quo para os fins previstos no art. 543-B do CPC.
+    Publique-se.
+    Brasília, 24 de junho de 2015.
+Ministra Rosa Weber
+Relatora
