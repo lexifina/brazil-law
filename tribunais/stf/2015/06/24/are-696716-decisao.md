@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário com agravo, interposto com fundamento no art. 102, III, “a” e “c”, da Constituição, contra acórdão proferido pelo Tribunal Superior do Trabalho, assim ementado:
+    “EMBARGOS EM RECURSO DE REVISTA – ACÓRDÃO PUBLICADO ANTERIORMENTE À VIGÊNCIA DA LEI 11.496/2007 – ARGUIÇÃO DE NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+    Nos termos da orientação jurisprudencial nº 115 da SDI-1, não se conhece da arguição de nulidade por negativa de prestação jurisdicional fundada apenas em divergência jurisprudencial e violação ao art. 5º, XXXV, LIV e LV, da Constituição da república.
+    NULIDADE DO ACÓRDÃO DO TRIBUNAL REGIONAL – NÃO – INSTAURAÇÃO DO INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA.
+    Não conhecido o Recurso de Revista, não se conhece de Embargos anteriores à vigência da Lei nº 11.496/2007 por divergência jurisprudencial. Aplicação da Súmula nº 296, II, do TST.
+    INCONSTITUCIONALIDADE NO ART. 48 DA LEI 8.935/1994.
+    A Turma não enfrentou a questão pertinente à inconstitucionalidade do art. 48 da Lei 8.935/1994, nem foi instada a fazê-lo por Embargos de Declaração. Aplica-se a Súmula 297 do TST.
+    COMPETÊNCIA DA JUSTIÇA DO TRABALHO – CARTÓRIO EXTRAJUDICIAL.
+    Evidenciado que o autor estava submetido a regime estatutário, em razão da opção autorizada pelo art. 48 da Lei nº 9.935/94, não há como divisar ofensa aos arts. 114 e 236 da Constituição.
+    Embargos não conhecidos.”
+    Nas razões do recurso extraordinário, aponta-se violação aos arts. 5º, II e LXXVIII; 114 e parágrafos; e art. 236, da Constituição Federal. Sustenta-se que o art. 236 da Constituição é autoaplicável e que os funcionários dos cartórios extrajudiciais são submetidos ao regime celetista, sendo portanto competente a Justiça do Trabalho para apreciar conflitos laborais.
+    Decido.
+    O recurso não merece prosperar.
+    O Supremo Tribunal Federal firmou jurisprudência no sentido de que os serviços de registros públicos, cartorários e notariais são exercidos em caráter privado por delegação do Poder Público. Dessa forma, os notários e registradores exercem atividade estatal, sem, contudo, serem titulares de cargo público efetivo. Nesse sentido:
+    “Agravo regimental no recurso extraordinário. Prequestionamento. Ausência. Escrevente juramentado. Cartório extrajudicial. Regime celetista. Não enquadramento na categoria de servidores públicos estatutários. Estabilidade. Não ocorrência. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356 desta Corte. 2. A jurisprudência deste Supremo Tribunal Federal firmou entendimento no sentido de que os escreventes juramentados e demais serventuários de cartórios extrajudiciais, contratados pelo regime da CLT, não se enquadram na categoria de servidores públicos estatutários, razão pela qual não possuem estabilidade. 3. Agravo regimental não provido.” (RE 558.127-AgR, Rel. Min. Dias Toffoli, Primeira Turma, Dje 15.8.2012).
+    Entretanto, o Tribunal a quo consignou que, embora o recorrente seja escrevente habilitado em cartório extrajudicial, requereu sua permanência no regime estatutário ao formalizar essa opção, prevista no art. 48 da Lei 8.935/94, que regulamentou o art. 236 da Constituição. Assim, evidenciada a relação jurídica com o Estado, declarou a incompetência da Justiça do Trabalho para apreciar o feito.
+    O acórdão recorrido está em harmonia com o que decidido por esta Corte, no sentido de que compete à Justiça Comum o julgamento de ações decorrentes de relações de natureza jurídico-administrativa entre servidores estatutários e o Poder Público. Nesse sentido:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária.” (ADI 3395-MC, Rel. Min. Cezar Peluso, DJe 10.11.2006).
+    Ademais, para se entender de forma diversa ao consignado pelo acórdão recorrido, para afirmar a existência de vínculo de natureza trabalhista entre o recorrente e a serventia extrajudicial, seria necessária a análise da legislação infraconstitucional aplicada à espécie (8.935/94) e o revolvimento do conjunto fático probatório dos autos, o que é vedado pela Súmula 279 e a jurisprudência desta Corte.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 24 de junho de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
