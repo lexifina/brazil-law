@@ -4,7 +4,8 @@ II - da Copa das Confederações da Federação Internacional de Futebol Associa
 III - de obras de infraestrutura e de contratação de serviços para os aeroportos das capitais dos Estados da Federação distantes até 350 km (trezentos e cinquenta quilômetros) das cidades sedes dos mundiais referidos nos incisos I e II.
 IV - das ações integrantes do Programa de Aceleração do Crescimento (PAC)
 V - das obras e serviços de engenharia no âmbito do Sistema Único de Saúde - SUS.
-VI - das obras e serviços de engenharia para construção, ampliação e reforma de estabelecimentos penais e unidades de atendimento socioeducativo.
+VI - das obras e serviços de engenharia para construção, ampliação e reforma de estabelecimentos penais e unidades de atendimento socioeducativo; e
+VII - ações no âmbito da Segurança Pública.
 § 1º O RDC tem por objetivos:
 I - ampliar a eficiência nas contratações públicas e a competitividade entre os licitantes;
 II - promover a troca de experiências e tecnologias em busca da melhor relação entre custos e benefícios para o setor público;
