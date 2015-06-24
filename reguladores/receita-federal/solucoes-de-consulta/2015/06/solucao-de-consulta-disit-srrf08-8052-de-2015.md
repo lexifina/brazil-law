@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF08 nº 8052, de 6 de maio de 2015
+Assunto: Normas Gerais de Direito Tributário Benefício fiscal concedido a um produto químico especificado na forma genérica, pelo ato concedente, aproveita a suas espécies se não houver restrição às espécies derivadas. Nesse sentido, o benefício fiscal concedido ao produto “Cefaclor” abrange as espécies “Cefaclor Anidro”, “Cefaclor Diidratado”e “Cefaclor Monohidrato”, caso inexista restrição a qualquer espécie derivada. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 75, DE 17 DE MARÇO DE 2015. Dispositivos Legais: Decreto nº 5.821, de 2006, art. 1º, inciso I, Anexo I, item 338; e Decreto nº 6.426, de 2008, art. 1º, inciso I, Anexo I, item 338.
+Assunto: Normas Gerais de Direito Tributário
+Benefício fiscal concedido a um produto químico especificado na forma genérica, pelo ato concedente, aproveita a suas espécies se não houver restrição às espécies derivadas. Nesse sentido, o benefício fiscal concedido ao produto “Cefaclor” abrange as espécies “Cefaclor Anidro”, “Cefaclor Diidratado”e “Cefaclor Monohidrato”, caso inexista restrição a qualquer espécie derivada.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 75, DE 17 DE MARÇO DE 2015.
+Dispositivos Legais: Decreto nº 5.821, de 2006, art. 1º, inciso I, Anexo I, item 338; e Decreto nº 6.426, de 2008, art. 1º, inciso I, Anexo I, item 338.
+KARINA ALESSANDRA DE MATTERA GOMES Chefe
