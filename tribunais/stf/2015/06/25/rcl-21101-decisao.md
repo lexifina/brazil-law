@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, proposta por Lafaiete Luiz do Nascimento e outros em face de decisão de Juizado Especial da Fazenda Pública de Aracaju do Estado de Sergipe, que condenou o CESPE/UNB a corrigir novamente a prova, retificar erros e atribuir nova nota a candidato em concurso público para outorga de delegações de serventias extrajudiciais de notas e registro do Estado de Sergipe (eDOC 18).
+    Nas razões recursais, sustenta-se violação à autoridade do RE-RG 632.853, Rel. Min. Gilmar Mendes, julgado segundo a sistemática da repercussão geral, o qual estabeleceu a tese de que os critérios adotados por banca examinadora de um concurso não podem ser revistos pelo Poder Judiciário.
+    Dispenso as informações, assim como a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RI/STF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório.
+    Inicialmente, verifico que a jurisprudência do STF é firme no sentido de não admitir reclamação com fundamento em recurso extraordinário julgado segundo a sistemática da repercussão geral, uma vez que essa decisão não tem efeito vinculante, embora seja dotada de grande relevância e sirva de precedente constitucional aos demais tribunais.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. EXECUÇÕES FISCAIS DE BAIXO VALOR. DECISÃO-PARADIGMA PROFERIDA EM RECURSO JULGADO COM REPERCUSSÃO GERAL. 1. As decisões proferidas em sede de recurso extraordinário, ainda que em regime de repercussão geral, não geram efeitos vinculantes aptos a ensejar o cabimento de reclamação, que não serve como sucedâneo recursal. 2. Agravo regimental a que se nega provimento.” (Rcl 17.512 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 25.9.2014)
+    “CONSTITUCIONAL E ADMINISTRATIVO. RECLAMAÇÃO. ALEGAÇÃO DE DESRESPEITO DE DECISÃO PROFERIDA NO JULGAMENTO DE MÉRITO DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. INADMISSIBILIDADE DO USO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (Rcl 18.368 AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 11.3.2015)
+    Cito, ainda, os seguintes julgados: Rcl 18.099 ED, de relatoria do Ministro Luiz Fux, Primeira Turma, DJe 19.3.2015; Rcl 17.566 AgR, de relatoria do Ministro Celso de Mello, Segunda Turma, DJe 21.11.2014; Rcl 16.618 AgR, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 21.11.2014; Rcl 15.931 AgR, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 24.9.2014; Rcl 17.914 AgR, de relatoria do Ministro Ricardo Lewandowski, Segunda Turma, DJe 4.9.2014; Rcl 16.004 AgR, de relatoria da Ministra Cármen Lúcia, Tribunal Pleno, DJe 29.11.2013; Rcl 10.793, de relatoria da Ministra Ellen Gracie, Tribunal Pleno, DJe 6.6.2011.
+    Ante o exposto, julgo improcedente a presente reclamação, com prejuízo do pedido de liminar, nos termos dos artigos 21, § 1º, e 161, parágrafo único, do RISTF.
+    Publique-se. Comunique-se.
+    Brasília, 25 de junho de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
