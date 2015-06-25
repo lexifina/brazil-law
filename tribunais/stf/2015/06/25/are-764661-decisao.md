@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário, interposto contra acórdão da 2ª Turma Recursal dos Juizados Especiais Cíveis e Criminais do Distrito Federal, assim ementado:
+    “JUIZADO ESPECIAL. FAZENDA PÚBLICA. PROCESSO SELETIVO PARA PRESTAÇÃO DE SERVIÇO VOLUNTÁRIO NA POLÍCIA MILITAR DO DISTRITO FEDERAL. LEI N° 10.029/00. RECEBIMENTO DE AUXÍLIO. CARÁTER INDENIZATÓRIO. RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO. IMPOSSIBILIDADE. PAGAMENTO DE VERBAS TRABALHISTAS INCABÍVEL, EXCETO FÉRIAS ANUAIS (LEI 11.788/2008). RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+    1. A Lei n° 10.029/00, que regulamenta a contratação de trabalhador em caráter voluntário para a Polícia Militar e para o Corpo de Bombeiros do Distrito Federal, estabeleceu em seu art. 6°, §2° que: ‘A prestação voluntária de serviços não gera vínculo empregatício nem obrigação de natureza trabalhista, previdenciária ou afim’. Tal lei tem seus efeitos normais e válidos, ainda que pendente decisão do Supremo Tribunal Federal acerca de sua constitucionalidade (ADI 4173-8/600).
+    2. O art. 37, inciso II da Constituição Federal não constitui óbice ao exercício do trabalho voluntário nas entidades públicas. Há exigência constitucional de que o provimento dos cargos públicos deva ser por concurso público (art. 96, inc. I, alínea ‘e’).
+    3. A Lei 11.788/2008 alterou em parte, a Lei no 10.029/2000, mais especificamente assegurando o gozo de férias, no caso de estágio remuneração ou com alguma forma de contraprestação, desde que sua duração seja igual ou superior a 01 (um) ano. Tal interpretação busca a conformação do estágio de longa duração com os preceitos da Constituição Federal (art. 7°, inciso XVII), a preservação da saúde do estagiário, o respeito aos princípios e garantias fundamentais, dentre os quais a dignidade humana e a isonomia nos serviços prestados às entidades pública e privadas.
+    4. Recurso conhecido e parcialmente provido.”
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 2º; e 37, caput, da Constituição, bem como à Súmula 339/STF.
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos: (i) “a questão de fundo, posta no apelo é de cunho infraconstitucional.”; e (ii) “a análise da tese sustentada pela recorrente exigiria o revolvimento de questões fático-probatórias dos autos”.
+    O recurso é inadmissível. Isso porque as supostas ofensas ao texto constitucional não foram apreciadas pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. O recurso extraordinário carece, portanto, do necessário prequestionamento (incidência das Súmulas 282 e 356/STF).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 25 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
