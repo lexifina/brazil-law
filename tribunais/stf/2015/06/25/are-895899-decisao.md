@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO – Pedido de alteração do polo passivo – questão ainda não decidida que, embora de ordem pública, como resguardo à instância, não merece pronunciamento neste momento – Multa diária – Fixação para proporcionar efetividade da tutela concedida – Finalidade coercitiva – Valor arbitrado adequado – Aplicação dos princípios da proporcionalidade e razoabilidade – razoabilidade – Valor da multa mantido, já limitada a sua incidência ao valor total de R$ 10.000,00 – Manutenção da determinação de cumprimento imediato da determinação judicial. Agravo conhecido em parte e, na parte conhecida, não provido”. (eDOC 2, p. 22)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação do artigo 5º, caput, XXXV e LV do texto constitucional.
+    O Tribunal de origem, quanto à suposta violação ao artigo 5º, LV, da CF/88, julgou prejudicado o recurso, aplicando o artigo 543-B do CPC, bem como negou seguimento ao apelo extremo quanto à questão remanescente.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, no que tange à suposta violação aos princípios da ampla defesa, do contraditório e do devido processo legal, registro que esta Corte, na Questão de Ordem no AI 760.358, de minha relatoria, DJe 3.12.2009, firmou o entendimento no sentido de que não cabe ao Supremo Tribunal Federal rever decisão que, na origem, aplica o disposto no art. 543-B do CPC, assim ementado:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”. (grifamos)
+    Nesse sentido, ressalta-se que não cabe a interposição do agravo previsto no artigo 544 de CPC contra decisão de tribunal de origem que aplica a sistemática da repercussão geral.
+    Quanto à questão remanescente, nos termos da jurisprudência desta Corte, as decisões que concedem ou denegam medidas cautelares ou provimentos liminares não perfazem juízo definitivo de constitucionalidade a ensejar o cabimento do recurso extraordinário pelo art. 102, III, “a”, da Constituição Federal.
+    Nesse sentido, o AI-AgR 430.873, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.6.2010; RE-AgR 613.182, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 17.9.2010; e RE-AgR 540.982, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.5.2009, este último com acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS PELO ESTADO. ACÓRDÃO QUE MANTEVE DEFERIMENTO DE TUTELA ANTECIPADA. SÚMULA 735 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Incide, portanto, no caso, o Enunciado 735 da Súmula do Supremo Tribunal Federal.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 25 de junho 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
