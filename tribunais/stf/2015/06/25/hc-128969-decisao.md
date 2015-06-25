@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão do Ministro Gurgel de Faria, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 325.300/SP. Consta dos autos, em síntese, que: (a) foi decretada a prisão temporária do paciente pela suposta prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006); (b) ao efetivar o decreto prisional, o paciente foi preso em flagrante, convertida em preventiva, pela suposta prática do crime de tráfico de drogas; (c) buscando a liberdade, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo, que indeferiu a tutela de urgência, e, em seguida, outro HC no Superior Tribunal de Justiça, ocasião em que o Ministro Relator indeferiu liminarmente o pedido, em decisão assim fundamentada:
+    “(...) O Superior Tribunal de Justiça firmou compreensão no sentido de que não cabe habeas corpus contra decisão que denega liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula nº 691 do Supremo Tribunal Federal, in verbis: (…)
+    Na presente hipótese, não resta evidenciada a referida estreita exceptio, a fim de autorizar a outorga pretendida.
+    Com efeito, da análise dos autos, verifica-se que a prisão em flagrante do paciente ocorreu após o cumprimento de mandado de busca em sua residência e outras localidades, dentre elas, uma denominada "Fazendinha", na qual foram encontrados por cães farejadores entorpecentes e outros produtos de origem ilícita supostamente enterrados pelo acusado (fls. 18/19).
+    O Juízo de primeiro grau, ao converter o flagrante em segregação preventiva, considerou a custódia necessária para a garantia da ordem pública, dados os "sérios indicadores do envolvimento" do acusado com organização criminosa, haja vista a expressiva quantidade de substâncias apreendidas, as quais o custodiado é acusado de guardar para fins de "fornecimento ao consumo de terceiros" (fls. 266/267).
+    Assim, a decisão denegatória da liminar não ostenta ilegalidade primo oculi apta a justificar manifestação antecipada desta Corte Superior.
+    Diante do exposto, com fundamento no art. 210 do RISTJ, INDEFIRO LIMINARMENTE o habeas corpus.“
+    Neste habeas corpus, os impetrantes reiteram os argumentos apresentados no Superior Tribunal de Justiça, com o afastamento da Súmula 691/STF, e requerem, ao final, a revogação da prisão preventiva.
+    2. A presente impetração constitui mera reiteração do HC 128.733/SP, que de igual modo impugnou a decisão do Ministro Gurgel de Faria, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 325.300/SP. Assim, e considerando que é inadmissível a repetição de pedidos, sem inovação, o presente habeas corpus não pode ser conhecido (v.g., entre outros, HC 108568 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, DJe de 22-06-2012; HC 113537 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, DJe de 16-10-2012).
+    3. Pelo exposto, nego seguimento ao pedido. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 25 de junho de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
