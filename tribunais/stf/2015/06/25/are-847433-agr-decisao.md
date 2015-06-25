@@ -1,0 +1,19 @@
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. SERVIÇO DE TELEFONIA. RESTABELECIMENTO. MULTA  POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO INTERLOCUTÓRIA. PROLAÇÃO DE SENTENÇA NO PROCESSO PRINCIPAL. RECONSIDERAÇÃO DA DECISÃO ORA AGRAVADA. PREJUDICIALIDADE DO RECURSO EXTRAORDINÁRIO. PERDA SUPERVENIENTE DO SEU OBJETO.
+    Decisão: Trata-se de agravo regimental interposto pela TELEFÔNICA BRASIL S/A contra decisão que prolatei, assim ementada:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E CONSUMIDOR. SERVIÇO DE TELEFONIA. RESTABELECIMENTO. MULTA  POR DESCUMPRIMENTO. VALOR. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA Nº 636 DO STF. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA.
+    1. A multa por descumprimento de decisão, quando sub judice a controvérsia sobre seu valor, consubstancia matéria de índole infraconstitucional, além de demandar a análise do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula nº 279/STF que dispõe: ‘Para simples reexame de prova não cabe recurso extraordinário.’ Nesse sentido: AI 777.530-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 28/6/2012 e AI 658.519-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 12/5/2011.
+    2. Os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE 748.371, da Relatoria do Min. Gilmar Mendes.
+    3. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    4. O princípio constitucional da legalidade, quando debatido sob a ótica infraconstitucional, revela uma violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional, o que torna inadmissível o recurso extraordinário, a teor da Súmula 636 do STF.
+    5. In casu, decisão monocrática negou seguimento, porque incabível, ao agravo de instrumento tirado contra decisão em juizado especial que determinou, em antecipação de tutela, o restabelecimento dos serviços de telefonia sob pena de multa diária.
+    6. Agravo DESPROVIDO.”
+    Inconformado com a decisão supra, o agravante interpõe o presente recurso alegando, em síntese, a existência de ofensa direta à Constituição.
+    É o relatório. DECIDO.
+    De início, pontuo que o recurso extraordinário foi interposto contra decisão que negou seguimento ao agravo de instrumento tirado contra decisão de juizado especial que determinou, em antecipação de tutela, o restabelecimento dos serviços de telefonia, sob pena de multa diária.
+    Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, verifico que a ação principal (Processo 0001853-20.2004.8.26.0595) foi sentenciada. Assim, uma vez proferida sentença no processo principal, a decisão recorrida extraordinariamente é substituída, o que impõe o reconhecimento da prejudicialidade do recurso.
+    Ex positis, RECONSIDERO a decisão ora agravada e JULGO PREJUDICADO o presente recurso extraordinário, com fundamento no artigo 21, inciso IX, do RISTF.
+    Publique-se.
+    Brasília, 25 de junho de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
