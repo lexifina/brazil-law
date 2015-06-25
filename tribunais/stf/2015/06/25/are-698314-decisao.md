@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 8ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “PROCESSUAL CIVIL. CONSTITUCIONAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. CABIMENTO. PIS E COFINS. ART. 3º, V, LEIS 10.637/2002 E 10.833/2003. ALTERAÇÃO PELA LEI 10.865/2004. POSSIBILIDADE. NÃO CUMULATIVIDADE.
+    1. O mandado de segurança preventivo é cabível na hipótese em que demonstrado o justo receio, de qualquer pessoa física ou jurídica, de vir a sofrer violação, de forma objetiva, atual e iminente, a direito líquido e certo, nos termos do art. 1º da Lei 12.016/2009 (art. 5º, LXIX, da CF/1988). Uma vez que a lei gera efeitos concretos em relação ao impetrante, o mandado de segurança afigura-se meio adequado, o que afasta a aplicabilidade do enunciado 266 da Súmula do STF.
+    2. Verificada a propriedade da via eleita e do consequente interesse de agir, tem-se que, nos casos de extinção do processo sem resolução do mérito, se a causa versar questão exclusivamente de direito e estiver em condições de imediato julgamento, pode o tribunal julgar desde logo a lide, nos termos do art. 515, § 3º, do CPC.
+    3. O art. 195, § 12, da CF/1988 remete a lei ordinária a forma de apuração de créditos a serem utilizados na etapa seguinte, para evitar a cumulatividade do PIS e da COFINS, o que também faz com relação às despesas que possam gerar créditos para o contribuinte.
+    4. A exclusão da possibilidade de apuração dos créditos com base em receitas decorrentes de empréstimos e financiamentos — nos termos dos artigos 21 e 37 da Lei 10.865/2004 (que alteraram os artigos 3º, V, das Leis 10.637/2002 e 10.833/2003) — não contém mácula de inconstitucionalidade.
+    5. Apelação da impetrante a que se dá provimento para reconhecer o interesse de agir pela adequada via do mandado de segurança. No mérito (art. 515, § 3º, do CPC), segurança denegada”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 195, §12, da Carta. Sustenta a recorrente a inconstitucionalidade dos arts. 31 e 37 da Lei nº 10.865/2004.
+    O Plenário do Supremo Tribunal Federal, nos autos dos RE nº 790.928-RG, de relatoria do Ministro Luiz Fux, reconheceu a repercussão geral da matéria em questão. Confira-se a ementa da decisão:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. PRINCÍPIO DA NÃO CUMULATIVIDADE. ART. 195, § 12, CF/88. PIS. COFINS. ARTIGO 3º, NOTADAMENTE INCISO II E §§ 1º E 2º, DAS LEIS Nºs 10.833/2003, 10.637/2002. ARTIGO 31, § 3º, DA LEI Nº 10.865/2004. RELEVÂNCIA DA MATÉRIA E TRANSCENDÊNCIA DE INTERESSES. REPERCUSSÃO GERAL RECONHECIDA”
+    Posteriormente esse entendimento foi ratificado no Plenário virtual quando da substituição do recurso paradigma para o RE nº 841.979-RG, incluído na sistemática da repercussão geral sob o tema de nº 756.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, dou provimento ao agravo para conhecer do recurso extraordinário e determinar o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B, do CPC.
+    Publique-se.
+    Brasília, 25 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
