@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO EM FLAGRANTE – UTILIZAÇÃO DE ALGEMAS – VERBETE VINCULANTE Nº 11 DA SÚMULA DO SUPREMO – DESRESPEITO – INEXISTÊNCIA – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    José Neilton Cardoso dos Santos Júnior afirma haver o Juízo da 3ª Vara Criminal da Comarca de Bauru/SP, no Processo nº 0007511-11. 2015.8.26.0071, olvidado o teor do Verbete Vinculante nº 11 da Súmula do Supremo.
+    Segundo narra, em 10 de março de 2015, foi preso em flagrante no próprio estabelecimento comercial por doze policiais militares, após terem sido localizados cinco papelotes de cocaína, oportunidade na qual foram utilizadas as algemas. Relata a condução, sem mandado judicial, à residência, onde foram encontrados “um tijolo de cocaína”, dinheiro e projéteis de munição. Aponta haver sido levado algemado, na sequência, ao distrito policial, vindo a confessar a propriedade do material apreendido. Relata o indeferimento de pedido de relaxamento da prisão, convertida em preventiva pelo Órgão reclamado.
+    Sustenta o desrespeito ao paradigma porquanto inadequado o uso das algemas, uma vez que a maior parte da droga apreendida e a munição somente foram localizadas em um segundo momento, quando já estava algemado. Consoante argumenta, não havia fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, a justificar o emprego do artefato. Ressalta haver colaborado com a efetivação da prisão. Menciona o princípio da igualdade. Evoca jurisprudência.
+    Refere-se à ausência dos requisitos para a custódia preventiva. Conforme destaca, é primário e possui bons antecedentes. Sustenta a insubsistência da fundamentação do ato que implicou a segregação, justificada na garantia da ordem pública.
+    Não alude ao requisito do risco.
+    Requer, em sede liminar, a suspensão do ato impugnado e a concessão de liberdade provisória. Postula, sucessivamente, o implemento de ordem de habeas corpus de ofício com a mesma finalidade, ainda que condicionada aos termos do artigo 319 do Código de Processo Penal. Busca, alfim, a confirmação do pronunciamento.
+    Em 9 de abril de 2015, juntou cópia de certidão negativa de distribuição criminal visando comprovar a primariedade. Anexou, em 22 seguinte, reprodução do instrumento de procuração.
+    Em 25 de junho de 2015, reiterou a urgência e insistiu no deferimento da liminar.
+    O processo está concluso no Gabinete.
+    2. Atentem para as balizas do caso. O reclamante argui a inobservância ao teor do Verbete Vinculante nº 11 da Súmula do Supremo, ante o alegado uso indevido de algemas pela autoridade policial quando da prisão em flagrante, posteriormente convertida em preventiva pelo Órgão reclamado. Este é o texto do aludido Verbete:
+    Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.
+    A irresignação não procede. A leitura da inicial e dos documentos que a acompanham, especialmente dos depoimentos prestados pelos policiais envolvidos, revela que a prisão decorreu de informação sobre a alegada prática de tráfico ilícito de entorpecentes e a posse de arma de fogo, tendo a diligência resultado na apreensão de droga e de projéteis não utilizados. O quadro retratado não implica o desrespeito ao teor do mencionado Verbete, considerados o risco à integridade física do reclamante ou de terceiros e a flagrância do delito.
+    No mais, inexistindo manifesta ilegalidade ou elementos para assim concluir, é impróprio analisar, na via da reclamação, a adequação das premissas lançadas pela autoridade para converter a prisão em flagrante em preventiva. Observem a organicidade e a instrumentalidade do Direito. No caso, parte-se de exercício interpretativo para, com isso, guindar, com queima de etapas, controvérsia ao Supremo.
+    3. Ante o quadro, nego seguimento ao pedido formulado.
+    4. Publiquem.
+Brasília, 26 de junho de 2015.
+Ministro MARCO AURÉLIO
+Relator
