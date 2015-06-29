@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. AGRAVO NO QUAL NÃO SE INFIRMA O FUNDAMENTO DA DECISÃO AGRAVADA: INVIABILIDADE. INEXISTÊNCIA DE PRELIMINAR DE REPERCUSSÃO GERAL. DESATENDIMENTO À LEI N. 11.418/2006 E AO ART. 327 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “EMENTA: PENAL E PROCESSUAL PENAL - HOMICÍDIO QUALIFICADO - SENTENÇA DE PRONÚNCIA - MATERIALIDADE DELITIVA E INDÍCIOS DE AUTORIA DEVIDAMENTE EVIDENCIADOS NOS AUTOS - ELEMENTOS DE PROVA QUE DEMONSTRAM POSSIBILIDADE DE O CONSELHO DE SENTENÇA DECIDIR PELA CONDENAÇÃO DO ACUSADO - QUALIFICADORA MANTIDA - MANUTENÇÃO DA SENTENÇA DE PRONÚNCIA - RECURSO CONHECIDO E NÃO PROVIDO.
+      I - Havendo nos autos mais de uma versão para os fatos - uma das quais no sentido de que o acusado teria de forma consciente e voluntária ceifado a vida da vítima, que contava à época com 12 (doze) anos de idade, agindo por motivo fútil, de forma a resultar perigo comum, impossibilitando a defesa do ofendido - a manutenção da pronúncia é medida que se impõe.
+      II - Não há falar em ausência de fundamentação para admitir as qualificadoras. Ademais, o pretendido decote na fase de pronúncia somente é cabível na hipótese de manifesta improcedência, porquanto não pode o Magistrado Sumariante retirar do Conselho de Sentença a possibilidade de decidir pela sua incidência”.
+    2. No recurso extraordinário, o Agravante afirma ter o Tribunal de origem contrariado o art. 5º, inc. XXXVII, da Constituição da República.
+    Sustenta que “não reconhecer o direito do recorrente Wanderlei Gomes da Fonseca à decisão de desclassificação, ainda que presentes todos os requisitos necessários à fundamentar a referida decisão, é negar a prestação jurisdicional”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de necessidade de análise das provas (Súmula n. 279 do Supremo Tribunal Federal).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O agravo não pode ter seguimento, pois não infirmado o fundamento da decisão agravada, o qual, por esse motivo, subsiste.
+    O Supremo Tribunal Federal assentou ser incabível o agravo no qual não se infirmam os fundamentos da decisão agravada:
+    “Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário. Decisão de inadmissibilidade. Fundamentos não impugnados. Precedentes. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que devem ser impugnados, na petição de agravo, todos os fundamentos da decisão com que não se admitiu o apelo extremo. 2. Agravo regimental não provido” (ARE 711.585-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 10.12.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287. AGRAVO IMPROVIDO. I - O agravo não atacou os fundamentos da decisão que inadmitiu o recurso extraordinário, o que o torna inviável, conforme a Súmula 287 do STF. Precedentes. II - Agravo regimental improvido” (ARE 654.292-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 25.10.2011).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO QUE NÃO ATACOU OS FUNDAMENTOS DO ARESTO IMPUGNADO, NEM PROCEDEU À INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL QUE TERIA SIDO VIOLADO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. Agravo regimental desprovido” (AI 552.131-AgR, Relator o Ministro Ayres Britto, Primeira Turma, DJ 17.11.2006).
+    “1. RECURSO. Embargos de declaração. Deficiência na fundamentação do recurso. Súmula 284. Embargos rejeitados. Há fundamentação deficiente de recurso, quando não revele correlação entre as suas razões e os fundamentos da decisão recorrida. 2. RECURSO. Embargos de declaração. Caráter meramente protelatório. Litigância de má-fé. Imposição de multa. Aplicação do art. 538, § único, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a oposição de embargos de declaração manifestamente protelatórios, deve o Tribunal condenar o embargante a pagar multa ao embargado” (RE 511.693-ED, Relator o Ministro Cezar Peluso, Segunda Turma, DJe 19.12.2008).
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 29 de junho de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
