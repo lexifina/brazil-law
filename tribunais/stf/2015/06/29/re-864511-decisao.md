@@ -1,0 +1,17 @@
+Decisão.
+    Vistos.
+    Isabela Dias de Oliveira interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da 1ª Câmara Especializada Cível do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+    “AGRAVO INTERNO. ADMINISTRATIVO. AÇAO DE COBRANÇA. SERVIDORA PÚBLICA. ODONTÓLOGA. VERBA TRABALHISTA. ADICIONAL DE INSALUBRIDADE. IMPROCEDÊNCIA. PRECEDENTES DESTA CORTE E DO SUPREMO TRIBUNAL FEDERAL. MANUTENÇÃO DA MONOCRÁTICA. DESPROVIMENTO DA SÚPLICA REGIMENTAL.
+    A Administração Pública está vinculada ao princípio da legalidade, segundo o qual o gestor só pode fazer o que a lei autoriza. Desse modo, inexistindo norma regulamentando o adicional de insalubridade, conforme exigência do estatuto dos servidores municipais, impossível o seu pagamento.
+    “O legislador restringiu a eficácia da lei ao limitar a percepção a vantagem a regulamento próprio, de sorte que “Se a legislação municipal não previa o valor, ou índice do adicional de insalubridade, remetendo a matéria para lei específica, enquanto não editada esta, a verba a tal título não pode ser exicida [sic].” (AC n. 2005.007577-2. de Mafra. Rel. Des. Luiz Cezar Medeiros)./02/2012, ACORDÃO ELETRÔNICO Dje-056 DIVULG 16-03-2012 PUBLIC 19-03-2012)”.
+    No recurso extraordinário, sustenta-se violação do artigo 7º, inciso XXIII, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, uma vez que o acórdão recorrido está em sintonia com a jurisprudência desta Corte que no julgamento do RE n° 169.173/SP, Relator o Ministro Moreira Alves, a Primeira Turma proferiu decisão no sentido de que para haver implantação do adicional de insalubridade para os servidores civis é necessário que o respectivo ente federado (União, Estado e Município) edite lei específica regulamentando-o. O referido julgado está assim ementado:
+    “Servidor público. Adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei. Art. 7º, XXIII, da Constituição Federal. - O artigo 39, § 2º, da Constituição Federal apenas estendeu aos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios alguns dos direitos sociais por meio de remissão, para não ser necessária a repetição de seus enunciados, mas com isso não quis significar que, quando algum deles dependesse de legislação infraconstitucional para ter eficácia, essa seria, no âmbito federal, estadual ou municipal, a trabalhista. Com efeito, por força da Carta Magna Federal, esses direitos sociais integrarão necessariamente o regime jurídico dos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios, mas, quando dependem de lei que os regulamente para dar eficácia plena aos dispositivos constitucionais de que eles decorrem, essa legislação infraconstitucional terá de ser, conforme o âmbito a que pertence o servidor público, da competência dos mencionados entes públicos que constituem a federação. Recurso extraordinário conhecido, mas não provido”.
+    Nesse mesmo sentido, as seguintes decisões monocráticas: ARE nº 853.357/PB, Relator o Ministro Gilmar Mendes, DJe de 2/12/14; ARE nº 846.593/PB, Relatora a Ministra Cármen Lúcia, DJe de 19/11/14; ARE nº 781.809/PB, Relator o Ministro Roberto Barroso, DJe de 19/9/14.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 29 de junho de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
