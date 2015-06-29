@@ -1,0 +1,23 @@
+DECISÃO
+CONTRATO TEMPORÁRIO – AUSÊNCIA DE ESTABILIDADE – CESSAÇÃO DO VÍNCULO – POSSIBILIDADE – RECURSO EXTRAORDINÁRIO PROVIDO.
+    1. Eis a síntese do acórdão prolatado pelo Tribunal de Justiça do Estado do Mato Grosso (folha 218):
+    MANDADO DE SEGURANÇA – EXONERAÇÃO DE SERVIDOR TEMPORÁRIO – CONTRATO PRECÁRIO – PRORROGAÇÃO POR LONGO TEMPO – PRINCÍPIO DA LEGALIDADE ESTRITA – COLISÃO DE PRINCÍPIOS JURÍDICOS – PONDERAÇÃO – PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA – PRINCÍPIO DA SEGURANÇA JURÍDICA – BOA-FÉ – TEORIA DO FATO CONSUMADO – DIREITO LÍQUIDO E CERTO À PERMANÊNCIA NO SERVIÇO – SEGURANÇA CONCEDIDA.
+    Nos termos do art. 37, II, da Constituição Federal, em regra, o ingresso no serviço público está condicionado à prévia aprovação em concurso público.
+    A contratação temporária prevista no inciso IX do art. 37 da CF, possui caráter precário e permite que a Administração rescinda o vínculo a qualquer momento, mediante mero juízo de oportunidade e conveniência.
+    Entretanto, em situações excepcionais, ocorrendo colisão de princípios constitucionais, por meio da técnica de ponderação, é possível reduzir a aplicação do princípio da legalidade em favor da promoção dos princípios da segurança jurídica e dignidade da pessoa humana.
+    No caso, tendo decorrido longos anos de prestação de serviço pautado em um contrato temporário, faz-se necessária a aplicação da teoria do fato consumado, impedindo que a Administração anule o ato e exonere o servidor que, de boa-fé, tem legítima confiança na relação jurídica já consolidada.
+    2. A decisão recorrida está em dissonância com a jurisprudência do Supremo. Confiram com as seguintes ementas:
+    SERVIDOR PÚBLICO – AUSÊNCIA DE ESTABILIDADE – CESSAÇÃO DO VÍNCULO. Tratando-se de servidor público arregimentado sem a aprovação em concurso público e que, à época da entrada em vigor da Carta de 1988, não contava com cinco anos de prestação de serviços, descabe cogitar de ilegalidade na ruptura do vínculo.
+    (Recurso Extraordinário nº 223.380/MG, relatado na Segunda Turma pelo ministro Marco Aurélio em 28 de novembro de 2000)
+    Reintegração em cargo público. Ausência de concurso público. Inaplicabilidade do art. 19 do ADCT/88.
+    À luz do art. 97, § 1º, da Emenda Constitucional 1/69, é válida a exoneração de quem passou a ocupar cargo público, em primeira investidura, sem a prévia submissão a concurso público. No caso, evidentemente, não se pode falar de cargo de natureza especial – condição que autorizaria, de acordo com a jurisprudência desta Corte, a nomeação sem o prévio concurso.
+    A estabilidade do art. 19 do ADCT é manifestamente inaplicável. Não é possível elastecer o requisito temporal ali fixado em aplicação “teleológica”, entendendo-se que, caso não tivessem sido exonerados, teria havido continuidade na prestação de serviços.
+    Agravo regimental a que se dá parcial provimento, apenas para reajustar, em apreciação equitativa, a verba devida a título de honorários de advogado pelos ora agravantes.
+    (Agravo Regimental no Recurso Extraordinário nº 199.649/SC, relatado na Segunda Turma pelo ministro Joaquim Barbosa em 14 de setembro de 2010)
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 28 E PARÁGRAFOS DO ADCT DA CARTA DE MINAS GERAIS. ESTABILIDADE EXTRAORDINÁRIA. ART. 19 DO ADCT DA CARTA FEDERAL. 1. A exigência de concurso público para a investidura em cargo garante o respeito a vários princípios constitucionais de direito administrativo, entre eles, o da impessoalidade e o da isonomia. O constituinte, todavia, inseriu no art. 19 do ADCT norma transitória criando uma estabilidade excepcional para servidores não concursados da União, Estados, Distrito Federal e dos Municípios que, quando da promulgação da Carta Federal, contassem com, no mínimo, cinco anos ininterruptos de serviço público. 2. A jurisprudência desta Corte tem considerado inconstitucionais normas estaduais que ampliam a exceção à regra da exigência de concurso para o ingresso no serviço público já estabelecida no ADCT Federal. Precedentes: ADI 498, rei. Min. Carlos Velloso (DJ de 09/08/1996) e ADI 208, rei. Min. Moreira Alves (DJ de 19/12/2002), entre outros. 3. Ação direta de inconstitucionalidade cujo pedido se julga procedente.
+    (Ação Direta de Inconstitucionalidade 100/MG, relatada no Pleno pela ministra Ellen Gracie em 9 de setembro de 2004)
+    3. Diante da sedimentação do entendimento, consigno o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal, e o provejo para, reformando o acórdão impugnado, denegar a segurança.
+    4. Publiquem.
+Brasília, 29 de junho de 2015.
+Ministro MARCO AURÉLIO
+Relator
