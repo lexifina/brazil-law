@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra a decisão monocrática, na qual foi negado seguimento ao agravo de instrumento com fulcro no art. 557, caput do CPC, manejam agravo regimental Carlos Augusto Fernandes Machado e Outros. Alegam que a jurisprudência utilizada para fundamentar a decisão monocrática não se aplica ao caso concreto, porquanto opostos embargos à execução pela Fazenda Pública.
+    É o relatório.
+    Decido.
+    Assiste razão.
+    Ante o exposto, torno sem efeito a decisão pela qual aplicado o art. 543-B do CPC e passo ao exame do recurso.
+    Contra o acórdão prolatado pelo Superior Tribunal de Justiça, manejam recurso extraordinário, com base no art. 102, III da Lei Maior, Carlos Augusto Fernandes Machado e outros (a/s). Aparelhado o recurso na afronta aos arts. 5°, caput, 100, § § 3° e 4°, 133, caput, da Constituição Federal, e 87 do ADCT.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Inviável a interposição de recurso extraordinário em face de acórdão do Superior Tribunal de Justiça que negou provimento ao recurso especial da parte recorrente. Apenas se admite recurso extraordinário em face de acórdão do Superior Tribunal de Justiça quando a questão constitucional haja surgido no julgamento do recurso especial, o que não é o caso dos autos, uma vez que o inconformismo da agravante diz com questão surgida na decisão do Tribunal de Justiça do Estado do Rio Grande do Sul. Nesse sentido, dentre vários, cito os seguintes precedentes deste Supremo Tribunal Federal:
+    “Agravo regimental no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Processual civil. Questão decidida no Segundo Grau. Ausência de interposição de recurso extraordinário concomitantemente ao recurso especial. Preclusão. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. Não se admite recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça no qual se suscita questão constitucional resolvida na decisão de segundo grau. 3. Agravo regimental não provido” (ARE 665.016-ED, Rel. Min. Dias Toffoli, 1ª Turma, DJe 07.5.2012)
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. PRECLUSÃO DA QUESTÃO CONSTITUCIONAL. AGRAVO IMPROVIDO. I - Ausência de prequestionamento das questões constitucionais suscitadas. Incidência das Súmulas 282 e 356 do STF. II - Necessidade de análise de legislação ordinária. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. Precedentes. III - Somente admite-se recurso extraordinário de decisão do Superior Tribunal de Justiça se a questão constitucional impugnada for nova. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial, o que não é o caso dos autos. IV - Agravo regimental improvido” (AI 714.886-AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 27.3.2009)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Ante o exposto, torno sem efeito a decisão agravada e nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2015.
+Ministra Rosa Weber
+Relatora
