@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra atos da Delegacia da Receita Federal no Estado do Ceará que estariam afrontando o teor da Súmula Vinculante 21. Alega o reclamante, em síntese, que: (a) suas restituições a título de imposto de renda são objeto de retenção para compensação de tributos que a Receita Federal pensa ser devidos; (b) “o ato de indeferir um direito consagrado do servidor em ter as suas restituições devolvidas e pagas na época oportuna, é totalmente ilegal, devendo ser reprimido via da Justiça (Súmula 21 do STF)” (fl. 5). Requer o deferimento da medida liminar por entender presentes os requisitos necessários para o seu deferimento.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88).
+    É da jurisprudência da Corte, ainda, que os atos reclamados devem estrita aderência ao conteúdo das suas decisões:
+    (...) Os atos questionados em qualquer reclamação nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal. (Rcl 6.534-AgR, Rel. Min. Celso de Mello, Pleno, DJe de 17.10.2008, Ementário 2337-1).
+    No caso, não há a indispensável correlação entre o decidido no ato questionado – que consistiria na compensação tributária de ofício de valores que deveriam ser restituídos ao contribuinte de imposto de renda – e o conteúdo da Súmula Vinculante 21 (“É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso administrativo”), razão pela qual não é cabível a presente reclamação.
+    3. Diante do exposto, nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 29 de junho de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
