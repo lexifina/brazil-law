@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de habeas corpus no qual o impetrante alega constrangimento ilegal em decorrência da demora do Superior Tribunal de Justiça para julgar o HC 311.847/SP, Rel. Min. Ericson Maranho (desembargador convocado do TJ/SP). Consta dos autos, em suma, que (a) o paciente foi preso preventivamente pela suposta prática do crime de tráfico transnacional de drogas e associação para o tráfico de drogas (arts. 33 c/c 40, I, e 35 da Lei 11.343/2006); (b) buscando a liberdade, impetrou habeas corpus no Superior Tribunal de Justiça, que pende de julgamento. Nesta ação, o impetrante sustenta, em síntese, a demora do Superior Tribunal para proceder ao julgamento da ação. Requer, ao final, com superação da Súmula 691 do STF, a revogação da prisão preventiva.
+    2. O art. 5º, LXXVIII, da CF assegura, com efeito, nos âmbitos judicial e administrativo, a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. No presente caso, todavia, não se tem demora que possa ser considerada não razoável. Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, é possível verificar que o HC 311.847/SP foi autuado em 10/12/2014.
+    Ora, de duração razoável é o processo que se desenvolve regularmente, consideradas a natureza e a complexidade da causa, bem como a quantidade de demandas em trâmite no órgão judicial. Nessa perspectiva, o exíguo período de tempo transcorrido desde que o habeas corpus foi concluso ao relator com parecer do órgão ministerial afasta qualquer alegação de constrangimento ilegal, razão pela qual a presente impetração é manifestamente incabível.
+    3. Pelo exposto, nego seguimento ao pedido. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 29 de junho de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
