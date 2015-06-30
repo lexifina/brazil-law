@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de ação penal de iniciativa privada ajuizada por Wladimir Afonso da Costa Rabelo, Deputado Federal, contra os congressistas Jader Fontenele Barbalho e Elcione Therezinha Zahluth Barbalho, imputando-lhes a suposta prática de crimes contra a honra do ora querelante, tendo em vista matéria jornalística publicada no Diário do Pará na edição de 16/11/2014 (fls. 02/08).
+    Observo, desde logo, que a imputação apoia-se, unicamente, como se extrai da própria queixa-crime (fls. 05), na alegada condição dos querelados de “(...) sócios proprietários do Grupo RBA (...)” e, também, na asserção de que “(...) ambos comandam o jornal Diário do Pará (...)”.
+    Assinalo, contudo, que as manifestações alegadamente ofensivas emanaram de uma jornalista (fls. 05) que assinou a matéria objeto desta demanda criminal (fls. 19/20).
+    Desse modo, tendo em vista a ausência de legitimidade passiva “ad causam” para a presente “persecutio criminis”, considerado o princípio da personalidade que rege o tema da responsabilidade criminal, solicitei a manifestação da douta Procuradoria-Geral da República, em sua condição de “custos legis”, que se pronunciou em parecer assim fundamentado (fls. 27/35):
+    “A queixa-crime deve ser rejeitada.
+    Verifica-se que o querelante atribui aos querelados a prática dos supostos crimes contra sua honra exclusivamente em razão de se tratar de proprietários do Grupo RBA, do qual faz parte o jornal Diário do Pará.
+    Assim, não há nada nos autos que permita atribuir de modo fundamentado a autoria das matérias jornalísticas, alegadamente caluniosas e difamatórias, aos querelados. Em verdade não há elementos que permitam sequer a imputação de responsabilidade a título de participação, em qualquer de suas modalidades: instigação, auxílio ou ajuste. A presunção de responsabilidade na seara penal colide com princípios republicanos e garantias fundamentais (...).
+    …...................................................................................................
+    Nesse passo, digno de nota que se cuidam de matérias assinadas por jornalista e não pelos querelados.
+    Ante o exposto, o Procurador-Geral da República  manifesta-se pela rejeição da queixa-crime, na forma do art. 395, II e III, do Código de Processo Penal.” (grifei)
+    Sendo esse o contexto, passo a analisar a pretensão deduzida nesta sede processual. E, ao fazê-lo, entendo assistir plena razão à douta Procuradoria-Geral da República.
+    É que, na realidade, o pronunciamento do Ministério Público nada mais reflete senão a própria orientação resultante de diretriz jurisprudencial que esta Corte Suprema firmou em contexto análogo ao caso ora em exame, no sentido de que a mera condição de sócio ou de proprietário de uma sociedade empresária não basta para autorizar, por si só, o reconhecimento da responsabilidade penal de alguém (HC 80.549/SP, Rel. Min. NELSON JOBIM – HC 85.948/PA, Rel. Min. AYRES BRITTO – HC 88.875/AM, Rel. Min. CELSO DE MELLO – HC 89.427/BA, Rel. Min. CELSO DE MELLO – HC 107.187/SP, Rel. Min. AYRES BRITTO – RHC 85.658/ES, Rel. Min. CEZAR PELUSO, v.g.):
+    “SÓCIA QUOTISTA MINORITÁRIA QUE NÃO EXERCE FUNÇÕES GERENCIAIS – NECESSIDADE DE DESCRIÇÃO DE DETERMINADO COMPORTAMENTO TÍPICO QUE VINCULE O SÓCIO AO RESULTADO CRIMINOSO.
+    .......................................................................................................
+    A mera invocação da condição de quotista, sem a correspondente e objetiva descrição de determinado comportamento típico que vincule o sócio ao resultado criminoso, não constitui, nos delitos societários, fator suficiente apto a legitimar a formulação de acusação estatal ou a autorizar a prolação de decreto judicial condenatório.”
+    (HC 89.427/BA, Rel. Min. CELSO DE MELLO)
+    De outro lado, resulta evidente, no caso, que a matéria incriminada sequer foi assinada pelos ora querelados, sendo certo que a autoria do texto emanou de uma jornalista, que subscreveu, ela própria, o artigo em questão.
+    Por esse motivo, o eminente Procurador-Geral da República destacou que sequer se permite atribuir a responsabilidade criminal, no caso, aos querelados, sob o fundamento de participação em qualquer de suas modalidades, eis que simplesmente inexistentes elementos informativos que corroborem essa hipótese.
+    Cabe assinalar, finalmente, a seguinte passagem da decisão proferida pela eminente Ministra CÁRMEN LÚCIA, por ocasião do julgamento do INQ 2.420/MS, de que foi Relatora, em contexto idêntico ao que ora se examina:
+    “Assim, diante da ilegitimidade passiva dos diretores do jornal Correio do Estado, opina o Ministério Público Federal pela rejeição da presente queixa-crime contra o Senador da República Antonio João Hugo Rodrigues e Ester Figueiredo Gameiro, remetendo-se os autos à 4ª Vara Criminal do Estado de Mato Grosso do Sul para o prosseguimento do feito tão somente em relação ao jornalista Dante Filho.” (fls. 112-113, grifos no original).
+    2. Acolho, integralmente, o parecer do Ministério Público Federal, e reconheço a ilegitimidade passiva dos Querelados Antônio João Hugo Rodrigues, Senador da República, e Ester Figueiredo Gameiro, ambos diretores do jornal Correio do Estado.
+    …...................................................................................................
+    3. Pelo exposto, determino o arquivamento da presente queixa-crime com relação aos Querelados Antônio João Hugo Rodrigues, Senador da República, e Ester Figueiredo Gameiro.” (grifei)
+    Sendo assim, e tendo em consideração as razões expostas, acolho a promoção formulada pelo eminente Procurador-Geral da República, determinando, em consequência, o arquivamento dos presentes autos (Lei nº 8.038/90, art. 38, c/c RISTF, art. 21, § 1º).
+    Comunique-se a presente decisão ao eminente Chefe do Ministério Público da União.
+    Publique-se.
+    Brasília, 30 de junho de 2015.
+Ministro CELSO DE MELLO
+Relator
