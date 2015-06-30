@@ -1,0 +1,22 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Vice-Presidência do Tribunal de Justiça do Estado do Espírito Santo, maneja agravo Gilmar Bergamaschi Testa. Aparelhado o recurso na afronta ao art. 5º, XXXVIII, “c”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Extraio do acórdão hostilizado:
+    “APELAÇÃO CRIMINAL – TRIBUNAL DO JÚRI – HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER – ABSOLVIÇÃO – ALEGAÇÃO DE DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS – LEGÍTIMA DEFESA – TESE DESPIDA DE SUSTENTAÇÃO NOS ELEMENTOS DE PROVA – CONFISSÃO EXTRAJUDICIAL DO AGENTE E DECLARAÇÕES DOS CORRÉUS, NA FASE INQUISITÓRIA E EM JUÍZO – PROVA DA EFETIVA INTENÇÃO DE OCULTAR O CADÁVER DA VÍTIMA – VEREDICTO ANULADO – RECURSO PROVIDO.
+    1) O controle exercido pelas Cortes Recursais quanto às decisões do Júri não é pleno, irrestrito. Deve-se respeitar a competência constitucional dos juízes leigos para o julgamento dos crimes dolosos conta a vida, sendo certo que as decisões emanadas do Júri são soberanas, a teor do art. 5º, inciso XXXVIII, alínea c, da Constituição Federal. Logo, só aqueles veredictos teratológicos, incoerentes, absolutamente discrepantes do conjunto probatório merecem ser anulados.
+    2) A tese de legítima defesa, sustentada em plenário e acolhida pelos jurados, destoa manifestamente do arcabouço probatório, haja vista a detalhada confissão extrajudicial do agente, corroborada pelas declarações prestadas pelos corréus na esfera policial e em juízo, no sentido de que não houve agressão alguma por parte da vítima. Convém declarar também que o ofendido não estava armado, e que foi alvejado por três tiros de espingarda, arma que foi recarregada manualmente a cada disparo.
+    3) O veredicto também é contraditório quanto à absolvição pelo crime de ocultação de cadáver, vez que as provas produzidas apontam no sentido de que o corpo da vítima foi transportado do local do crime para outro, ponto conhecido de ‘desova de cadáveres’, a aproximadamente quatro quilômetros de distância, próximo a uma estrada sem pavimentação e sem iluminação, no interior de uma plantação de eucaliptos adultos, com o objetivo de não ser encontrado.
+    4) Recurso provido, para submeter os réus a novo julgamento pelo Tribunal do Júri. Vencido o relator, que dava provimento parcial ao recurso, para anular parcialmente a decisão, apenas no tocante ao crime de homicídio qualificado”.
+    A análise efetuada pelo Tribunal a quo enfrentou o conjunto probatório para concluir que a versão dos fatos acolhida pelos jurados não encontra respaldo nas provas constantes dos autos, desconstituindo a sentença absolutória.
+    De fato, a soberania dos veredictos não é um princípio intangível, sendo possível sua relativização. Em verdade, a decisão do Conselho de Sentença, quando manifestamente contrária à prova dos autos, resulta em arbitrariedade que deve ser sanada pelo juízo recursal, nos termos do art. 593, III, “d”, do Código de Processo Penal.
+    A Corte de Apelação, ao determinar a realização de um novo julgamento, não substitui a decisão popular por outra, nem usurpa a competência do júri, mas tão-somente determina que seja realizado outro julgamento, conforme art. 593, § 3º, do Código de Processo Penal. Pelo mesmo motivo, não se admite segunda apelação, com o que o novo veredicto, quer pela absolvição, quer pela condenação, não pode mais ser alterado.
+    Portanto, o mencionado princípio constitucional da soberania dos veredictos (art. 5º, XXXVIII, “c”, da CF/88) coexiste em perfeita harmonia com o sistema recursal penal (art. 593, III, “d”, do CPP).
+    Nesse contexto, para dissentir do entendimento do Tribunal de Justiça, a pretexto de ofensa ao art. 5º, XXXVIII, “c”, da Constituição Federal, ao argumento de os jurados não terem decidido de modo contrário à prova dos autos, seria necessário o revolvimento do conjunto fático-probatório do caso, de todo inviável em sede extraordinária, nos termos da Súmula 279/STF, segundo a qual “para simples reexame de prova não cabe recurso extraordinário”.
+    Nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2015.
+Ministra Rosa Weber
+Relatora
