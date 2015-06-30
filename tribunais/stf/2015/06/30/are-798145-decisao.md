@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PORTA ELETRÔNICA. POSTO DE AUTOATENDIMENTO BANCÁRIO. COMPETÊNCIA LEGISLATIVA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 284/STF. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado, verbis:
+    "ADMINISTRATIVO. EXECUÇÃO FISCAL. POSTOS DE AUTOATENDIMENTO BANCÁRIO. INSTALAÇÃO DE PORTA ELETRÔNICA DE SEGURANÇA INDIVIDUALIZADA. LEI MUNICIPAL Nº 7.494/94. MUNICÍPIO DE PORTO ALEGRE. HONORÁRIOS. APRECIAÇÃO EQUITATIVA DO MAGISTRADO. 1. A exigência legal de instalação de porta eletrônica de segurança com detector de metais restringe-se às agências e postos de serviços, assim entendidos os postos que realizam as mesmas atividades das agências, com atendimento ao público, mas com menor número de funcionários, não se estendendo aos meros terminais de auto-atendimento. 2. O § 4º do art. 20 do CPC é expresso ao estabelecer que, nas causas em que for vencida a Fazenda Pública, a verba honorária será arbitrada conforme apreciação equitativa do magistrado, não estando restrita aos limites previstos no § 3º." (Fl. 107 do doc. 1).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o recorrente não demonstrou de forma específica as supostas violações ao texto constitucional, o que atrai a incidência da Súmula nº 284 do STF.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    O acórdão recorrido reconheceu a competência do município para editar normas suplementares relativas à segurança dos estabelecimentos bancários e, com fundamento na Lei Municipal nº 7.494/1994, consignou que a exigência legal de instalação de porta eletrônica de segurança, com detector de metais, deve restringir-se às agências e postos de serviços, não se estendendo aos meros terminais de autoatendimento.
+    Contudo, nas razões do recurso extraordinário, o recorrente limita-se a sustentar a competência municipal para legislar sobre questões que respeite a edificações ou construções realizadas no seu território, assim como sobre assuntos relacionados à exigência de equipamentos de segurança, em imóveis destinados a atendimento ao público.
+    Assim, verifico que as razões do apelo extremo estão dissociadas dos fundamentos do acórdão impugnado, o que caracteriza a deficiência na sua fundamentação. Essa deficiência faz incidir o óbice da Súmula nº 284 do STF, verbis: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas acerca da Súmula nº 284/STF, na qual faz referência à Súmula nº 287/STF:
+    “Qualquer recurso deve ter fundamentação razoável para que o juiz possa apreciá-lo (RE 78.873, RTJ 76/814; 70.143, RTJ 77/467). Ver Súmula 287.” (in, Direito Sumular, 14ª ed., São Paulo, Malheiros)
+    Por fim, relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de junho de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
