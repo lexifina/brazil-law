@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Vice-Presidência do Tribunal de Justiça do Estado do Espírito Santo, maneja agravo Eliel Rodrigues da Silva. Aparelhado o recurso na afronta ao art. 5º, LIV e LV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    O exame de eventual ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal (v.g.: “Inviável em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional” RE 660.186 AgR/RS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 14.02.2012; “Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária” RE 642.408 AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 14.02.2012).
+    Ademais, a Corte de origem enfrentou o acervo probatório dos autos para concluir que, inobstante as versões antagônicas entre acusação e defesa, há elementos indicativos, em tese, da autoria do crime de homicídio imputada ao Recorrente, a recomendar, por certo, a apreciação da controvérsia pelo Tribunal do Júri, juiz natural da causa.
+    Quanto às qualificadoras, o entendimento desta Suprema Corte é no sentido de que a sua exclusão somente pode ocorrer quando manifestamente improcedentes (HC 115.171/PI, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 14.12.2012; HC 106.605/MG, Rel. Min. Marco Aurélio, 1ª Turma, DJe 24.4.2012), circunstância afastada pelo Tribunal a quo ao ressaltar não ser “absurda a tipificação realizada pelo denunciante neste ponto, visto que há indícios razoáveis no sentido de que os fatos narrados da denúncia dificultaram a defesa das vítimas e, supostamente, foram praticados por motivo torpe”.
+    De todo modo, para se concluir de forma contrária, mormente assentar não ter sido o Recorrente o autor dos disparos ou serem manifestamente improcedentes as qualificadoras, necessário o revolvimento do conjunto probatório do caso, de todo inviável em sede extraordinária, nos termos da Súmula 279/STF, segundo a qual “para simples reexame de prova não cabe recurso extraordinário”.
+    Nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2015.
+Ministra Rosa Weber
+Relatora
