@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de embargos de declaração opostos contra acórdão da Segunda Turma que negou provimento a agravo regimental em recurso extraordinário, ante a intempestividade do recurso.
+    Verifico que o acórdão recorrido foi publicado em 29.4.2014 (fls. 1861). Os embargos de declaração foram opostos, por fax, no dia 27.5.2014 (fls. 1879-1881) e, posteriormente, em 28.5.2014, também via fax, sem posterior apresentação das peças originais.
+    O art. 2º da Lei 9.800, de 26 de maio de 1999, que trata da utilização de sistema de transmissão de dados para a prática de atos processuais, dispõe o seguinte:
+    “Art. 2º. A utilização de sistema de transmissão de dados e imagens não prejudica o cumprimento dos prazos, devendo os originais ser entregues em juízo, necessariamente, até cinco dias da data de seu término”.
+    Com efeito, a jurisprudência desta Corte é firme no sentido de que, em se tratando de recurso interposto por fax, ele só será tempestivo se o seu original entrar em seu protocolo dentro do prazo adicional a que se refere a Lei 9.800/99.
+    Ocorre que, no caso em apreço, os originais sequer foram protocolados, o que torna inviável o recebimento do recurso.
+    Sobre o tema, confiram-se os seguintes julgados:
+    “Recurso via fax. Lei 9.800/1999. Res. TSE 21.711/04. Indispensabilidade da apresentação dos originais. Veicula ofensa indireta à Constituição a controvérsia a respeito da exigência de apresentação dos originais da petição enviada via fax, prevista na Lei 9.800/1999, contraposta à permissão contida em resolução específica do Tribunal Superior Eleitoral. Precedente: AI 622.067-AgR. Agravo regimental a que se nega provimento”. (AI 663.959-AgR/AL, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 08.10.2010)
+    “DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO POR FAX. ORIGINAL APRESENTADO EM TRIBUNAL DIVERSO. POSTERIOR REMESSA A ESTA CORTE. ÔNUS DA PARTE. RESPONSABILIDADE DO USUÁRIO DO SISTEMA - LEI Nº 9.800/99, ARTS. 2º E 4º e RESOLUÇÃO – STF Nº 179/99, ART. 5º. INTEMPESTIVIDADE. NÃO CONHECIMENTO. ACÓRDÃO RECORRIDO PUBLICADO EM 30.9.2013. O usuário do sistema de transmissão de dados é responsável pela qualidade e fidelidade do documento, bem como pela apresentação dos originais no órgão judiciário devido (Lei nº 9.800/1999). Apresentado o fac-simile do agravo regimental a esta Corte e remetido o original a Tribunal diverso, quer se entenda que a apresentação serôdia dos originais, reenviados ao STF quando já escoado o quinquídio previsto em lei, – ou sua não apresentação - acarreta a inexistência jurídica do recurso, por não aperfeiçoado o ato complexo previsto em lei para a sua interposição via fac-símile – entendimento da Relatora -, quer se tenha por delineada hipótese de intempestividade, a consequência é o não conhecimento do recurso. Agravo regimental não conhecido”. (ARE 793.760-AgR/RS, Rel. Min. Rosa Weber, Primeira Turma, DJe 11.6.2014)
+    Ante o exposto, não conheço dos embargos de declaração (artigo 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2015.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
