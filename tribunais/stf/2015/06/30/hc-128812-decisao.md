@@ -1,0 +1,29 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por José Antonio Praga de Faria em favor de Max Emiliano Caixeta contra ato do Superior Tribunal de Justiça.
+    Em 26.10.2014, o paciente foi preso em flagrante pela suposta prática dos crimes de tráfico de drogas, de resistência e desobediência, tipificados nos arts. 33 da Lei 11.343/2006, 329 e 330 do Código Penal. O magistrado de primeiro grau converteu o flagrante em prisão preventiva e, ato contínuo, indeferiu o pedido de relaxamento da prisão.
+    Inconformada com o excesso de prazo para formação de culpa, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de Minas Gerais, que indeferiu a liminar.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra da Ministra Maria Thereza de Assis Moura, negou seguimento ao HC 325.904/MG.
+    No presente writ, a Defesa pugna pelo afastamento da Súmula 691/STF ante o excesso de prazo para formação de culpa, visto que preso o paciente desde 26.10.2014. Requer, em medida liminar e no mérito, o relaxamento da custódia preventiva do paciente e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    Em 19.6.2015, ante a deficiência na instrução do writ, determinei a intimação da Defesa para juntar cópia da decisão de conversão da prisão em flagrante em preventiva e prestar esclarecimentos quanto ao ato apontado como coator, providências efetivadas por meio da Petição STF 32.046/2015, na qual se indicou como decisão hostilizada a proferida no HC 325.904/MG.
+    É o relatório.
+    Decido.
+    O presente writ foi impetrado contra decisão monocrática da lavra da Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que negou seguimento ao HC 325.904/MG.
+    De início, registro a existência de óbice ao conhecimento do presente habeas corpus, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça. O ato impugnado é mera decisão monocrática e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado. Não o fazendo, resulta inadmissível o presente writ (HC 95.978-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.5.2010; e HC 116.567/MG, Relator para acórdão Min. Roberto Barroso, 1ª Turma, DJe 03.02.2014).
+    A propósito, colho, no que sobrelevam, os fundamentos do indigitado decisum:
+    “(...).
+    Vê-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior de Justiça, pois a matéria não foi examinada no Tribunal estadual, que ainda não julgou o mérito do writ originário, sob pena de indevida supressão de instância.
+    Com efeito, a jurisprudência deste Tribunal firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade.
+    (…).
+    No mesmo sentido, o enunciado sumular nº 691 do Supremo Tribunal Federal, litteris:
+    ‘Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar’.
+    Em que pese ter sido juntado pela defesa a decisão de primeiro grau, que converteu prisão em flagrante em preventiva, a qual não foi acostada aos autos do HC 325.062/MG previamente impetrado, verifica-se que permanece inviável a mitigação da referida Súmula.
+    Na hipótese, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular. Com efeito, verifica-se que o decisum que indeferiu o pleito liminar formulado no habeas corpus impetrado na origem, longe de afigurar-se teratológico, reservou ao mérito à análise da questão ventilada, por entender, em um primeiro lanço, que não havia patente ilegalidade apta a ensejar o deferimento do pleito preambular, o que não constitui manifesto constrangimento ilegal capaz de excepcionar a aplicação do referido verbete sumular.
+    Sendo assim, o pedido revela-se manifestamente incabível, não havendo como dar prosseguimento ao writ, a teor do disposto nos artigos 38 da Lei nº 8.038/90 e no art. 34,VXIII, do Regimento Interno do Superior Tribunal de Justiça.
+    Ante o exposto, com base no artigo 38 da Lei 8.038/90 e no artigo 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça, nego seguimento ao presente habeas corpus”.
+    O ato apontado como coator observou que a pretensão estaria desde logo a esbarrar na Súmula nº 691/STF (“Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”), analogicamente aplicada porquanto voltada contra o indeferimento de liminar, pelo Relator, do Tribunal de Justiça, na impetração naquela Corte instaurada. Ainda que a compreensão expressa em tal verbete sumular seja abrandada em alguns julgamentos desta Suprema Corte em hipóteses excepcionais, de flagrante ilegalidade, teratologia ou abuso de poder, por não ser o caso dos autos, segundo o Superior Tribunal de Justiça, indeferido liminarmente o writ perante aquela Corte impetrado.
+     O Tribunal de Justiça não vislumbrou presentes os requisitos ensejadores da imediata soltura do paciente, reservando a definição da matéria ao pronunciamento do colegiado, após a prestação das informações solicitadas.
+    Dessa forma, desnecessário precipitar a resolução da questão por este Supremo Tribunal Federal via o presente habeas corpus, sobretudo porque dar trânsito ao writ significaria duplicar a instrução, que já está sendo realizada, e apreciá-lo no mérito significaria suprimir instâncias.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2015.
+Ministra Rosa Weber
+Relatora
