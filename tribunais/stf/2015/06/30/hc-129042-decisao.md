@@ -1,0 +1,36 @@
+Decisão:
+ementa: Processual penal. Habeas corpus substitutivo. Homicídio. Condenação transitada em julgado. Nulidade relativa. Preclusão. Ausência de ilegalidade ou abuso de poder.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Ericson Maranho, Desembargador Convocado do TJ/SP, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. JÚRI. INDEFERIMENTO DO ARROLAMENTO DE TESTEMUNHAS NA FASE DO ART. 422 DO CÓDIGO DE PROCESSO PENAL – CPP. ALEGAÇÃO DE NULIDADE. TEMPESTIVIDADE DO PEDIDO. MATÉRIA PRECLUSA. QUESTÃO NÃO ARGUIDA NO MOMENTO OPORTUNO. INEXISTÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. AUSÊNCIA DE IMPRESCINDIBILIDADE DAS TESTEMUNHAS. ART. 563 DO CPP. FLAGRANTE ILEGALIDADE NÃO DEMONSTRADA. RECURSO DESPROVIDO.
+    – Devidamente intimada em 31.3.2011, quanto ao indeferimento do arrolamento das testemunhas, a defesa permaneceu silente, não se verificando nenhuma impugnação quanto ao tema, tendo sido realizada a sessão plenária no dia 19.5.2011. Ainda interposta apelação, não foi suscitada a matéria, somente levantada na via do habeas corpus impetrado na origem aproximadamente dois anos após a ocorrência da suposta nulidade.
+    – A jurisprudência desta Corte Superior sedimentou-se no sentido de que, nos termos do que dispõe o art. 571, VIII, do CPP, não suscitada no momento oportuno a nulidade ocorrida no plenário do Júri, verifica-se a preclusão da matéria.
+    – O efetivo prejuízo, indispensável para o reconhecimento da alegada nulidade, nos termos do princípio pas de nullité sans grief, disposto no art. 563 do CPP, não foi demonstrado na hipótese dos autos, salientando, ainda, que as testemunhas não foram arroladas com caráter de imprescindibilidade.
+    Recurso ordinário desprovido.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 13 (treze) anos de reclusão, em regime inicialmente fechado, pelo crime previsto no artigo 121, § 2º, incisos I e IV, do Código Penal.
+    3. O Tribunal de Justiça do Estado da Paraíba negou provimento à apelação da defesa.
+    4. Na sequência, foi interposto recurso especial, inadmitido na origem.
+    5. Após o trânsito em julgado da condenação, a defesa impetrou habeas corpus no Tribunal Estadual. Denegada a ordem, foi interposto recurso ordinário no Superior Tribunal de Justiça, não provido.
+    6. Neste habeas corpus, a parte impetrante sustenta, em síntese, a nulidade do processo, tendo em vista o indeferimento da oitiva de testemunhas arroladas pela defesa. Alega, ainda, violação aos princípios do contraditório e da ampla defesa. Daí o pedido de liminar para suspender a execução da pena. No mérito, o que se pretende é a concessão da ordem para que se declare a nulidade da condenação, permitindo-se que o paciente seja submetido a novo julgamento pelo Tribunal do Júri, com a inquirição das testemunhas de defesa.
+    Decido.
+    7. A Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso extraordinário, previsto no art. 102, III, da Constituição Federal (HC 110.055, Rel. Min. Marco Aurélio, HC 106.158, Rel. Min. Dias Toffoli, e HC 118.568, Rel.ª Min.ª Rosa Weber). A hipótese, portanto, é de extinção do processo sem resolução do mérito por inadequação da via processual.
+    8. Por outro lado, esta Corte não tem admitido a utilização do habeas corpus em substituição à ação de revisão criminal (v.g, RHC119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski).
+    9. Não é caso de concessão da ordem de ofício. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a nulidade relativa deve ser arguida no momento processual oportuno, sob pena de preclusão (Vg. ARE 795.869-AgR, Rel. Min. Gilmar Mendes; HC 112.138, Relª. Minª. Rosa Weber; HC 120.582, Rel. Min. Luiz Fux; HC 102.077, de que fui Relator; RHC 119.815, Relª. Minª. Rosa Weber; HC 117.080, Rel. Min. Gilmar Mendes).
+    10. No caso de que se trata, as peças que instruem este processo revelam que a suposta nulidade processual foi arguida pela defesa apenas por meio de habeas corpus impetrado no Tribunal de Justiça do Estado da Paraíba, após o trânsito em julgado da condenação. Pelo que não há como deixar de reconhecer a preclusão da matéria, na linha dos fundamentos adotados pelo acórdão estadual:
+    “(...)
+    Urge, de pronto, esclarecer que a inicial veio instruída com cópia da petição em que o então advogado do réu pleiteou pela intimação das pessoas ali relacionadas para serem inquiridas em plenário, bem assim, o atendimento de outra diligência, além de certidões comprovando o equívoco da entrega do pleito, dentro do prazo legal, porém, perante a escrivania errada, conforme se vê ás fls. 24.
+    A douta Juíza indeferiu o pleito, na parte em que se buscava a inquirição das testemunhas em plenário, por entendê-lo intempestivo, de acordo com as informações dos autos.
+    Acontece que, ainda conforme a documentação amplexada, a defesa do réu, ora paciente, foi intimada do indeferimento da pretensão bem antes da realização do julgamento, não constando que tenha formulado qualquer protesto.
+    Além do mais, resta claro que o julgamento aconteceu, quando se deu a condenação do paciente, sem notícia de qualquer protesto por parte da defesa, quanto à não inquirição das testemunhas que indicara na petição não recepcionada, segundo se extrai das informações prestadas pela autoridade impetrada, fls. 32/40.
+    E do acórdão desta Corte, que negou provimento ao apelo, consta que o apelo contra a condenação veio vazado nas letras c e d do inciso III do art. 593 do CPP, sob cujos enfoques foi examinado e não provido, fls. 48/54.
+    Não me ocorre dúvida alguma de que se trata de matéria preclusa.
+    Houve o indeferimento, sem protesto da defesa em qualquer momento, até o julgamento da apelação contra a decisão do júri.
+    Inexiste, assim, a apontada eiva, até porque, além do silêncio da defesa, nas oportunidades que teve para se manifestar a respeito, não se demonstrou, no presente mandamus, em que consistiu o prejuízo capaz de ensejar a anulação do julgamento.
+    Veja-se, por oportuno, que a petição não se refere à imprescindibilidade das testemunhas, o que se torna um ingrediente a mais a justificar o não reconhecimento da nulidade. Senão, vejamos:
+    (...)
+    Diante disso, não tendo sido arroladas com a cláusula de imprescindibilidade, o silêncio da defesa em todas as oportunidades que teve após o indeferimento do pleito, equivocadamente apresentado perante escrivania diversa da atinente ao Júri, implica em desistência tácita da inquirição das testemunhas arroladas, sendo preclusa a alegação somente feita após o trânsito em julgado da decisão condenatória...” (sem destaques no original)
+    13. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 30 de junho de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
