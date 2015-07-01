@@ -1,0 +1,36 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Sindicato dos Professores do Ensino Oficial do Estado de São Paulo – APEOESP contra decisão proferida pelo Superior Tribunal de Justiça nos autos da Suspensão de Segurança 2.784, que teria usurpado a competência desta Corte para análise do pedido.
+    O reclamante narra que impetrou mandado de segurança coletivo perante o Tribunal de Justiça do Estado de São Paulo, com o objetivo de proteger o direito líquido e certo de greve dos docentes, diante da deflagração do movimento grevista em 13 de março de 2015, depois de cumpridas as formalidades legais.
+    Afirma que a impetração da ação mandamental foi necessária, ante as represálias sofridas pelos professores estaduais, “sendo que as mais graves consistiam na consignação de faltas injustificadas e dos descontos de dias parados”.
+    O Desembargador Relator indeferiu o pedido de concessão de liminar.
+    Contra essa decisão foi interposto agravo regimental provido pelo Órgão Especial do TJSP, concedendo a medida liminar para impedir que o Governador do Estado e o Secretário de Educação do Estado de São Paulo consignassem faltas e descontos dos dias parados, até o julgamento do mandado de segurança coletivo ou do dissídio coletivo. Ademais, determinou a devolução dos valores descontados relativos às faltas registradas no mês de março de 2015.
+    O reclamante noticia que o Estado de São Paulo propôs pedido de suspensão dos efeitos da medida liminar, tendo a Presidência do Superior Tribunal de Justiça deferido o pleito a fim de suspender a decisão proferida pelo Tribunal de Justiça do Estado de São Paulo. Ainda, a Corte Especial do STJ negou provimento ao agravo regimental interposto pelo reclamante.
+    O reclamante sustenta, contudo, que o decisum do STJ teve como fundamento material constitucional, o que acarretaria a usurpação de competência desta Corte.
+    Argumenta, nessa linha, que eventual pedido de suspensão dos efeitos da medida liminar somente seria cabível perante a Suprema Corte, seja em virtude da decisão proferida no MI 708/DF e do fato de já existir caso paradigma sob a sistemática da repercussão geral (Tema 531), seja por se tratar de matéria constitucional.
+    Quanto ao periculum in mora, alega que a concessão da liminar assegurará a própria sobrevivência dos professores grevistas, tendo em vista o caráter alimentar dos seus vencimentos.
+    Com o propósito de reverter esse quadro, ingressou com a presente reclamação, pugnando pelo deferimento de liminar para suspender os efeitos da SS 2.784/DF, em trâmite perante o STJ.
+    É o relatório necessário.
+    Decido.
+    Examinados os autos, nessa análise perfunctória, própria das medidas cautelares, entendo que a pretensão merece acolhida.
+    Com efeito, dispõe o art. 25 da Lei 8.038/1990, in verbis:
+    “Art. 25 - Salvo quando a causa tiver por fundamento matéria constitucional, compete ao Presidente do Superior Tribunal de Justiça, a requerimento do Procurador-Geral da República ou da pessoa jurídica de direito público interessada, e para evitar grave lesão à ordem, à saúde, à segurança e à economia pública, suspender, em despacho fundamentado, a execução de liminar ou de decisão concessiva de mandado de segurança, proferida, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal” (Grifei).
+    Pela leitura do citado dispositivo, a contrario sensu, não pode o Superior Tribunal de Justiça conhecer de pedido de suspensões se a matéria em debate tiver fundamento constitucional.
+    No caso em exame, a ação mandamental proposta pela APEOESP visou assegurar o livre exercício do direito de greve, sem que houvesse descontos de vencimentos, anotações de faltas injustificadas ou qualquer providência administrativa ou disciplinar desabonadora aos aderentes do movimento paredista.
+    O Supremo Tribunal Federal já reconheceu a existência de repercussão geral da matéria constitucional tratada nessa reclamação no julgamento do AI 853.275/RJ (Tema 531), nos seguintes termos:
+    “DIREITO ADMINISTRATIVO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. SERVIDORES PÚBLICOS E DIREITO DE GREVE. ANÁLISE DA LEGALIDADE DO ATO QUE DETERMINOU O DESCONTO DOS DIAS PARADOS, EM RAZÃO DA ADESÃO A MOVIMENTO GREVISTA. DISCUSSÃO ACERCA DO ALCANCE DA NORMA DO ARTIGO 37, INCISO VII, DA CONSTITUIÇÃO FEDERAL. MATÉRIA PASSÍVEL DE REPETIÇÃO EM INÚMEROS PROCESSOS, A REPERCUTIR NA ESFERA DE INTERESSE DE MILHARES DE PESSOAS. PRESENÇA DE REPERCUSSÃO GERAL”.
+    Em sua manifestação, o Relator, Ministro Dias Toffoli, concluiu que
+    [A] matéria suscitada no recurso extraordinário, acerca da efetiva implementação do direito de greve no serviço público, com suas consequências para a continuidade da prestação do serviço e o desconto dos dias parados, é de índole eminentemente constitucional, pois diz respeito à correta exegese da norma do artigo 37, inciso VII, da Constituição Federal.
+    A questão posta apresenta densidade constitucional e extrapola os interesses subjetivos das partes, sendo relevante para todas as categorias de servidores públicos civis existentes no país, notadamente em razão dos inúmeros movimentos grevistas que anualmente ocorrem no âmbito dessas categorias e que fatalmente dão ensejo ao ajuizamento de ações judiciais (Grifei).
+    Em tempo, registro que, no referido julgamento, votei pela existência de repercussão geral da matéria.
+    Assim, a similitude fática entre a hipótese sob exame e o precedente citado indica, ao menos nesse juízo preliminar, a ocorrência de usurpação da competência desta Corte, haja vista que o Presidente do Superior Tribunal de Justiça apreciou pedido de suspensão que caberia à Presidência do Supremo Tribunal Federal apreciar.
+    Ademais, o TJSP, no julgamento do agravo regimental, entendeu que as alegações da agravante, quanto ao cerceamento do direito de greve, previsto na Constituição Federal (art. 37, inc. VII), apresentavam verossimilhança.
+    Entendo, portanto, presente o fundamento da fumaça do bom direito. Quanto ao perigo da demora, penso também que ele se faz presente.
+    Em que pesem as alegações do Estado de São Paulo, nos autos da SS 2.784, em trâmite perante o STJ, não é possível deixar de tratar os salários dos servidores como verba de caráter alimentar.
+    A garantia constitucional do salário (art. 7º, inc. VII, c/c art. 39, § 3º, da CF) assegura o seu pagamento pela Administração Pública, principalmente nas situações em que o serviço poderá ser prestado futuramente, por meio de reposição das aulas, como sói acontecer nas paralisações por greve de professores.
+    De outra parte, não obstante o alegado prejuízo aos cofres públicos em razão do pagamento de salários dos professores nos dias parados, e em face da contratação de professores substitutos, vislumbro, aqui também, o perigo da demora em favor dos substituídos pela ora reclamante. É que a retenção dos salários devidos poderá comprometer a própria subsistência física dos professores e de seus familiares.
+    Isso posto, defiro o pedido formulado.
+    Comunique-se com urgência.
+    Após, ouça-se a Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 1º de julho de 2015.
+Ministro Ricardo Lewandowski
+Presidente
