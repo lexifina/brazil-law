@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 167, de 22 de junho de 2015
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE A RECEITA BRUTA. ATIVIDADE DE MANUTENÇÃO E REPARAÇÃO DE EMBARCAÇÕES. PROPORCIONALIDADE. Para efeito de aplicação do critério de substituição da contribuição previdenciária sobre a folha de pagamento pela contribuição sobre a receita bruta em função do enquadramento da atividade da empresa na CNAE, consideram-se apenas atividades identificadas nos arts. 7º e 8º da Lei nº 12.546, de 2011, segundo o seu código CNAE. DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, arts. 7º, 8º, caput e § 3º, XI, e 9º, §§ 1º, 9º e 10; Instrução Normativa RFB nº 1.436, de 2013, art. 17.
+[arquivo anexo: SC Cosit nº 167-2015.pdf]
