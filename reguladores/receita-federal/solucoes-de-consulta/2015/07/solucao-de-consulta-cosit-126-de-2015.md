@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 126, de 1º de junho de 2015
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: CONTRIBUIÇÃO SUBSTITUTIVA. OBRAS DE INFRAESTRUTURA. EMPRESA PÚBLICA. As contribuições previdenciárias de empresa pública que tenha por atividade a execução de obras de infraestrutura (grupo 421 do CNAE) incidirão obrigatoriamente sobre o valor da receita bruta, em substituição às contribuições previdenciárias incidentes sobre a folha de pagamento. DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, arts. 7º, VII e 9º, VII; Lei nº 12.406, de 2002, arts. 44 e 982.
+[arquivo anexo: SC Cosit nº 126-2015.pdf]
