@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO E RECURSO EXTRAORDINÁRIO COM AGRAVO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. DEFICIÊNCIA DO AGRAVO. FALTA DE PRELIMINAR DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO PREJUDICADO PELO PROVIMENTO DO RECURSO ESPECIAL NO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO AO QUAL SE NEGA SEGUIMENTO. RECURSO EXTRAORDINÁRIO PREJUDICADO.
+Relatório
+    1. Recurso extraordinário com agravo nos autos principais interposto contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “BENEFÍCIO PREVIDENCIÁRIO. DECADÊNCIA. Segundo o entendimento prevalecente na Turma, não se aplica a legislação instituidora de decadência do direito de revisão de benefício previdenciário aos benefícios concedidos antes do início de sua vigência.
+    PREVIDENCIÁRIO. REVISÃO. REAJUSTE DO BENEFÍCIO. CRITÉRIOS DE CÁLCULO DO SALÁRIO-DE-BENEFÍCIO. 1. É indevida a revisão da renda mensal inicial de benefício a fim de recuperar, nos reajustes seguintes, o valor que excedeu o teto, se não houve glosa no momento da concessão. 2. Descabe a adoção de critérios de cálculo do salário-de-benefício diversos dos determinados em lei” (fl. 110).
+    Os embargos de declaração opostos foram rejeitados.
+    2. Mário Norberto Sevilio de Oliveira interpôs o recurso extraordinário de fl. 141, alegando afronta aos arts. 5º, inc. XXXVI, 201, § 2º, e 202, da Constituição da República.
+    Pede “a revisão de seu benefício de modo que o primeiro reajuste feito após a concessão do benefício seja utilizado como base para o cálculo do salário-de-contribuição sem a limitação do teto, para então, limitar ao teto novamente, nos termo da lei, uma vez que, do contrário, a renda do segurado seria duplamente sacrificada na estipulação da RMI e na proporcionalidade do primeiro reajuste com base inferior ao que efetivamente contribuiu” (fl. 148).
+    3. O Instituto Nacional do Seguro Social – INSS também recorreu (fl. 162), suscitando afronta ao art. 5º, incs. XXXVI, LIV e LV, da Constituição.
+    Argumenta o INSS ter o acórdão recorrido contrariado a hermenêutica do direito intertemporal, delineada pelo art. 5º, inc. XXXVI, da Constituição, ao rejeitar preliminar de decadência do direito da Autora, prevista no art. 103 da Lei n. 8.213/1991, desde 28.6.1997.
+    4. Admitido o recurso do INSS, o recurso extraordinário de Mario Norberto Sevilio de Oliveira foi inadmitido por ausência de preliminar de repercussão geral (fl. 198).
+    5. Contra essa decisão, foi interposto Agravo (fl. 201), no qual, Mario Norberto Sevilio de Oliveira repete as razões de mérito do recurso extraordinário, asseverando ainda que “o instituto de repercussão geral em causas previdenciárias é de fácil averiguação posto que existem milhares de segurados na mesma situação ao caso que se apresenta” (fl. 203).
+    Examinados os elementos havidos no processo, DECIDO.
+    6. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    7. Razão jurídica não assiste ao Agravante.
+    8. O julgado recorrido foi publicado em 2011, mas não há, na petição de recurso extraordinário interposto por Mario Norberto Sevilio de Oliveira, preliminar de repercussão geral da questão constitucional.
+    O Agravante descumpriu a Lei n. 11.418/2006 e o art. 327 do Regimento Interno do Supremo Tribunal Federal, inviabilizando o seguimento do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. INTIMAÇÃO DO RECORRENTE APÓS 3.5.2007. NECESSIDADE DE DEMONSTRAÇÃO FORMAL. REQUISITO NÃO OBSERVADO. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. COMPETÊNCIA DO JUÍZO PRIMEIRO DE ADMISSIBILIDADE, REALIZADO NO TRIBUNAL A QUO, PARA APRECIAR, COMO OCORREU NO CASO, A EXISTÊNCIA DA PRELIMINAR FORMAL E FUNDAMENTADA DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 718.993-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009).
+    “Agravo regimental em agravo de instrumento. 2. Apresentação expressa de preliminar formal e fundamentada sobre repercussão geral no recurso extraordinário. Necessidade. Art. 543-A, § 2º, do CPC. 3. Preliminar formal. Hipótese de presunção de existência da repercussão geral prevista no art. 323, § 1º, do RISTF. Necessidade. Precedente. 4. Ausência da preliminar formal. Negativa liminar pela Presidência no recurso extraordinário e no agravo de instrumento. Possibilidade. Art. 13, V, c, e 327, caput e § 1º, do RISTF. 5. Agravo regimental a que se nega provimento” (AI 744.686-AgR, Relator o Ministro Gilmar Mendes, Tribunal Pleno, DJe 26.6.2009).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. O recurso extraordinário do Instituto Nacional da Seguridade Social perdeu o objeto, porque provido o recurso especial pelo Superior Tribunal de Justiça, em decisão transitada em julgado em 15.4.2015 (certidão, fl. 224).
+    10. Pelo exposto, nego seguimento ao agravo de Mario Norberto Sevilio de Oliveira e julgo prejudicado o recurso extraordinário do Instituto Nacional da Seguridade Social – INSS (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de julho de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
