@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 258, de 26 de junho de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: CÓDIGO NCM 1904.10.00 Mercadoria: Pipoca doce de milho, acondicionada em embalagem de polipropileno de 40 g e pronta para consumo. DISPOSITIVOS LEGAIS: RGI-1 (texto da posição 19.04) e RGI-6 (texto da subposição 1904.10) da NCM, constante da TEC, aprovada pela Resolução Camex nº 94, de 2011 com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM 1904.10.00 Mercadoria: Pipoca doce de milho, acondicionada em embalagem de polipropileno de 40 g e pronta para consumo.
+DISPOSITIVOS LEGAIS: RGI-1 (texto da posição 19.04) e RGI-6 (texto da subposição 1904.10) da NCM, constante da TEC, aprovada pela Resolução Camex nº 94, de 2011 com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ÁLVARO AUGUSTO DE VASCONCELOS LEITE RIBEIRO Presidente da 1ª Turma
