@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 260, de 3 de julho de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 1806.32.20 Mercadoria: Barra de chocolate branco de 170 g, contendo, misturados a sua massa, pequenos pedaços de biscoitos com cacau. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da Nota 1, letra (a), do Capítulo 17 e texto da posição 18.06) e 6 (textos das subposições 1806.3 e 1806.32) e RGC/NCM 1 (texto do item 1806.32.20), da TEC, aprovada pela Resolução Camex n.º 94, de 2011, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, e subsídios extraídos das NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 1806.32.20 Mercadoria: Barra de chocolate branco de 170 g, contendo, misturados a sua massa, pequenos pedaços de biscoitos com cacau.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da Nota 1, letra (a), do Capítulo 17 e texto da posição 18.06) e 6 (textos das subposições 1806.3 e 1806.32) e RGC/NCM 1 (texto do item 1806.32.20), da TEC, aprovada pela Resolução Camex n.º 94, de 2011, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, e subsídios extraídos das NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+LUIZ HENRIQUE DOMINGUES Presidente da 4ª Turma
