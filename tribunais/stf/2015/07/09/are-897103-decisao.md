@@ -1,0 +1,20 @@
+Decisão: Trata-se recurso extraordinário com agravo interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa reproduzo a seguir:
+    “APELAÇÃO CÍVEL - DIREITO TRIBUTÁRIOO - ISS - LOCAÇÃO DE BENS MÓVEIS - TRIBUTO INDIRETO "IN CASU" - PROVA DO NÂO REPASSE DO ENCARGO FINANCEIRO AO TOMADOR DE SERVIÇOS - AUSÊNCIA - REPETIÇÃO DO INDÉBITO - IMPOSSIBILIDADE - ART. 166 DO CTN - A jurisprudência pacificada no Superior Tribunal de Justiça reconheceu que o ISS exigido sobre a locação de bens móveis tem a natureza de tributo indireto, permitindo o repasse do encargo financeiro ao tomador do serviço. Desse modo, a restituição do indébito sujeita-se à prévia comprovação de quem suportou o encargo, conforme a regra prevista no art. 166 do Código Tributário Nacional. Entendimento confirmado pela sistemática dos recursos repetitivos de que trata o art. 543-C do Código de Processo Civil. (STJ, REsp 1194003 / SP, Rel. Min. Castro Meira, DJe 03/08/2010).” (fl. 1446)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XXXV, LIV e LV; 93, IX; 145, §1º; 150, I; e 156, III, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em suma, que não há que se discutir a respeito da legitimidade para pleitear a repetição do indébito tributário, em razão da impossibilidade de se incidir ISS sobre a locação de bens móveis.
+    A 1ª Vice-Presidência do TJMG inadmitiu com base na Súmula 279 do STF.
+    Decido.
+    Inicialmente, verifico que o Tribunal de origem assim asseverou:
+     “Quando a base de cálculo do ISS é o preço do serviço, como no caso dos autos, tem-se que exação assume a característica de tributo indireto, permitindo o repasse do encargo financeiro ao tomador de serviço. Nessa hipótese, para fins de restituição de indébito, se faz necessária por parte do contribuinte a comprovação da não repercussão do encargo financeiro do tributo nos termos do art. 166 do CTN” (fls. 1.447-1.448).
+    Sendo assim, constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Igualmente, ressalto que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, não haver ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que, configurada ofensa indireta ou reflexa à Constituição Federal, torna inadmissível o recurso extraordinário.
+    Confira-se, a propósito, a ementa do RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, inexiste a alegada ofensa aos arts. 5º, XXXV, e 93, IX, da Constituição Federal. Com efeito, não há violação à inafastabilidade jurisdicional no caso concreto.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional, por ausência de fundamentação, e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 9 de julho de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
