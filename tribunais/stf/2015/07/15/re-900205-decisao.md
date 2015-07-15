@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Eliane Silva dos Santos Andrade. Aparelhado o recurso na afronta aos arts. 7º, XVII, 39, §3º, e 206, V e VIII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMATER. PISO SALARIAL. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 20.11.2001. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Agravo regimental conhecido e não provido.” (RE 598.137-AgR/PI, de minha lavra, 1ª Turma, DJe 11.11.2014)
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDORA MUNICIPAL. MAGISTÉRIO. APLICAÇÃO DO PISO NACIONAL DO MAGISTÉRIO PÚBLICO. INCIDÊNCIA DO TERÇO CONSTITUCIONAL DE FÉRIAS SOBRE O PERÍODO DE RECESSO ESCOLAR. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.” (RE 868.000/SC, Rel. Min. Cármen Lúcia, decisão monocrática, DJe 09.3.2015)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MAGISTÉRIO. FÉRIAS. LEI ESTADUAL N. 6.672/74. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (AI 616237-AgR/RS, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 17.4.2009)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 15 de julho de 2015.
+Ministra Rosa Weber
+Relatora
