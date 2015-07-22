@@ -22,13 +22,14 @@ c) à quantia, por dependente, de:
 6. R$ 1.974,72 (mil, novecentos e setenta e quatro reais e setenta e dois centavos) para o ano-calendário de 2012;
 7. R$ 2.063,64 (dois mil, sessenta e três reais e sessenta e quatro centavos) para o ano-calendário de 2013;
 8. R$ 2.156,52 (dois mil, cento e cinquenta e seis reais e cinquenta e dois centavos) para o ano-calendário de 2014; e
-9. R$ 2.275,08 (dois mil, duzentos e setenta e cinco reais e oito centavos), a partir do ano-calendário de 2015;
+9. R$ 2.275,08 (dois mil, duzentos e setenta e cinco reais e oito centavos) a partir do ano-calendário de 2015;
 d) às contribuições para a Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios;
 e) às contribuições para as entidades de previdência privada domiciliadas no País, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social;
 f) às importâncias pagas a título de pensão alimentícia em face das normas do Direito de Família, quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais, de acordo homologado judicialmente, ou de escritura pública a que se refere o art. 1.124-A da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil;
 g) às despesas escrituradas no Livro Caixa, previstas nos incisos I a III do art. 6º da Lei nº 8.134, de 27 de dezembro de 1990, no caso de trabalho não-assalariado, inclusive dos leiloeiros e dos titulares de serviços notariais e de registro.
 h) (VETADO).
 i) às contribuições para as entidades fechadas de previdência complementar de natureza pública de que trata o § 15 do art. 40 da Constituição Federal, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social.
+j) (VETADO).
 § 1º A quantia correspondente à parcela isenta dos rendimentos provenientes de aposentadoria e pensão, transferência para a reserva remunerada ou reforma, pagos pela Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios, por qualquer pessoa jurídica de direito público interno, ou por entidade de previdência privada, representada pela soma dos valores mensais computados a partir do mês em que o contribuinte completar sessenta e cinco anos de idade, não integrará a soma de que trata o inciso I.
 § 2º O disposto na alínea a do inciso II:
 I - aplica-se, também, aos pagamentos efetuados a empresas domiciliadas no País, destinados à cobertura de despesas com hospitalização, médicas e odontológicas, bem como a entidades que assegurem direito de atendimento ou ressarcimento de despesas da mesma natureza;
