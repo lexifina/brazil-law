@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, XV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido de que não existe direito adquirido à regime jurídico, razão pela qual não se divisa a alegada ofensa ao dispositivo constitucional suscitado. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À REGIME JURÍDICO. BASE DE CÁLCULO DE VANTAGENS PESSOAIS. EFEITO CASCATA: PROIBIÇÃO CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DOS VENCIMENTOS. PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.” (RE 563.708/MS, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 02.5.2013).
+    Ademais, verifico que, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TEMPESTIVIDADE DO AGRAVO REGIMENTAL. INCIDÊNCIA DO ADICIONAL DE SEXTA PARTE SOBRE A INTEGRALIDADE DOS VENCIMENTOS DE SERVIDOR ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 280 DESTA CORTE. REPERCUSSÃO GERAL REJEITADA. AGRAVO REGIMENTAL DESPROVIDO. 1. A ofensa a direito local não viabiliza o apelo extremo (Súmula 280 do STF). 2. Na hipótese em apreço, o cálculo do adicional de sexta-parte foi solucionado à luz do art. 129 da Constituição do Estado de São Paulo, não desafiando o acórdão, recurso extraordinário. … 5. Embargos de declaração acolhidos para reconhecer a tempestividade o agravo regimental e negar-lhe provimento” (ARE 647.735-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.6.2012 ).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. ADICIONAL DE SEXTA-PARTE E QUINQUÊNIOS. INCIDÊNCIA SOBRE A REMUNERAÇÃO. NECESSIDADE DE PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE REPERCUSSÃO GERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 766.105-AgR/SP, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 24.10.2013).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe seguimento (art. 557 do CPC), prejudicado o recurso manejado pela parte contrária, na instância ordinária.
+    Publique-se.
+    Brasília, 22 de julho de 2015.
+Ministra Rosa Weber
+Relatora
