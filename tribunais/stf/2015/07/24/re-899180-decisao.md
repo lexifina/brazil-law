@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MILITAR. ACUMULAÇÃO DE DOIS CARGOS PÚBLICOS NA ÁREA DE SAÚDE: AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “ADMINISTRATIVO E CONSTITUCIONAL. APELAÇÃO CÍVEL. CUMULAÇÃO DE CARGO PÚBLICO CIVIL, PRIVATIVO DE PROFISSIONAL DA ÁREA DE SAÚDE, COM FUNÇÃO DOTADA DAS MESMAS CARACTERISTICAS. POSSIBILIDADE. 1. Com a superveniência da Emenda Constitucional n. 77, de 2014, que alterou a redação do inciso II do § 3º do art. 142 da CRB/88, passou-se a permitir, de forma expressa, a cumulação, pelos militares, de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas. 2. Embora a alínea ‘c’ do inciso XVI do art. 37 da CRB/88 — a qual remete o inciso II do § 3º do art. 142 da CRB/88 — refira-se apenas a cargos e empregos públicos, é possível entender que a acumulação também é lícita entre um cargo privativo de profissional de saúde, com profissão regulamentada, com função pública de mesmas características. 3. Se o autor é titular de cargo de Soldado do Corpo de Bombeiros Militar do DF, mas exerce função que só pode ser ocupada por profissionais da área de saúde, com profissões regulamentadas, pode exercer também, de forma cumulativa, o cargo civil de Enfermeiro da Secretaria de Saúde do DF, desde que comprovada a compatibilidade de horários. 4. Apelo e remessa oficial não providos” (fls. 128-129).
+    2. O Recorrente afirma ter o Tribunal de origem contrariado os arts. 37, inc. XVI, al. c, e 142, § 3º, inc. II, da Constituição da República.
+    Sustenta que “a questão controvertida consiste na possibilidade de o Recorrido poder acumular o exercício do cargo militar de Soldado de 2ª Classe do Quadro de Bombeiros Militar Geral Operacional juto ao CBMDF com o cargo público civil de Enfermeiro junto à Secretaria de Saúde do Distrito Federal” (fl. 144).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. No julgamento do Recurso Extraordinário n. 592.658, Relator o Ministro Menezes Direito, este Supremo Tribunal Federal assentou inexistir repercussão geral na questão discutida nestes autos:
+    “ADMINISTRATIVO. MILITAR. POSSIBILIDADE DE ACUMULAÇÃO DE DOIS CARGOS PÚBLICOS NA ÁREA DE SAÚDE. CARGO DE ENFERMEIRO MILITAR COM OUTRO DE MESMA NATUREZA NO ÂMBITO MUNICIPAL. AUSÊNCIA DE REPERCUSSÃO GERAL” (DJe 24.10.2008).
+    Confira-se o seguinte julgado, proferido em caso idêntico ao dos autos, no qual o Recorrente foi parte:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POSSIBILIDADE DE ACÚMULO DE DOIS CARGOS PÚBLICOS DA ÁREA DE SAÚDE. UM DE NATUREZA MILITAR E OUTRO DE NATUREZA CIVIL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. O Supremo Tribunal Federal assentou a inexistência de repercussão geral da controvérsia relativa à possibilidade de acumulação por militar de dois cargos públicos na área de saúde (RE 592.658-RG, Rel. Min. Menezes Direito, Tema 119). 2. O art. 543-A, § 5º, do CPC, bem como os arts. 326 e 327 do RI/STF, dispõe que a decisão desta Corte quanto à inexistência de repercussão geral valerá para todos os casos que versem sobre questão idêntica. 3. Agravo regimental a que se nega provimento” (RE 861.134-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 25.6.2015).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de julho de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
