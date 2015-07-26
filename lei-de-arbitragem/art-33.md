@@ -1,6 +1,5 @@
-Art. 33. A parte interessada poderá pleitear ao órgão do Poder Judiciário competente a decretação da nulidade da sentença arbitral, nos casos previstos nesta Lei.
-§ 1º A demanda para a decretação de nulidade da sentença arbitral seguirá o procedimento comum, previsto no Código de Processo Civil, e deverá ser proposta no prazo de até noventa dias após o recebimento da notificação da sentença arbitral ou de seu aditamento.
-§ 2º A sentença que julgar procedente o pedido:
-I - decretará a nulidade da sentença arbitral, nos casos do art. 32, incisos I, II, VI, VII e VIII;
-II - determinará que o árbitro ou o tribunal arbitral profira novo laudo, nas demais hipóteses.
-§ 3º A decretação da nulidade da sentença arbitral também poderá ser argüida mediante ação de embargos do devedor, conforme o art. 741 e seguintes do Código de Processo Civil, se houver execução judicial.
+Art. 33. A parte interessada poderá pleitear ao órgão do Poder Judiciário competente a declaração de nulidade da sentença arbitral, nos casos previstos nesta Lei.
+§ 1º A demanda para a declaração de nulidade da sentença arbitral, parcial ou final, seguirá as regras do procedimento comum, previstas na Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil), e deverá ser proposta no prazo de até 90 (noventa) dias após o recebimento da notificação da respectiva sentença, parcial ou final, ou da decisão do pedido de esclarecimentos.
+§ 2º A sentença que julgar procedente o pedido declarará a nulidade da sentença arbitral, nos casos do art. 32, e determinará, se for o caso, que o árbitro ou o tribunal profira nova sentença arbitral.
+§ 3º A declaração de nulidade da sentença arbitral também poderá ser arguida mediante impugnação, conforme o art. 475-L e seguintes da Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil), se houver execução judicial.
+§ 4º A parte interessada poderá ingressar em juízo para requerer a prolação de sentença arbitral complementar, se o árbitro não decidir todos os pedidos submetidos à arbitragem.
