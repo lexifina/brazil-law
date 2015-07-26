@@ -1,0 +1,5 @@
+Art. 136-A. A aprovação da inserção de convenção de arbitragem no estatuto social, observado o quorum do art. 136, obriga a todos os acionistas, assegurado ao acionista dissidente o direito de retirar-se da companhia mediante o reembolso do valor de suas ações, nos termos do art. 45.
+§ 1º A convenção somente terá eficácia após o decurso do prazo de 30 (trinta) dias, contado da publicação da ata da assembleia geral que a aprovou.
+§ 2º O direito de retirada previsto no caput não será aplicável:
+I - caso a inclusão da convenção de arbitragem no estatuto social represente condição para que os valores mobiliários de emissão da companhia sejam admitidos à negociação em segmento de listagem de bolsa de valores ou de mercado de balcão organizado que exija dispersão acionária mínima de 25% (vinte e cinco por cento) das ações de cada espécie ou classe;
+II - caso a inclusão da convenção de arbitragem seja efetuada no estatuto social de companhia aberta cujas ações sejam dotadas de liquidez e dispersão no mercado, nos termos das alíneas "a" e "b" do inciso II do art. 137 desta Lei.

@@ -2,5 +2,4 @@ Art. 22. Poderá o árbitro ou o tribunal arbitral tomar o depoimento das partes
 § 1º O depoimento das partes e das testemunhas será tomado em local, dia e hora previamente comunicados, por escrito, e reduzido a termo, assinado pelo depoente, ou a seu rogo, e pelos árbitros.
 § 2º Em caso de desatendimento, sem justa causa, da convocação para prestar depoimento pessoal, o árbitro ou o tribunal arbitral levará em consideração o comportamento da parte faltosa, ao proferir sua sentença; se a ausência for de testemunha, nas mesmas circunstâncias, poderá o árbitro ou o presidente do tribunal arbitral requerer à autoridade judiciária que conduza a testemunha renitente, comprovando a existência da convenção de arbitragem.
 § 3º A revelia da parte não impedirá que seja proferida a sentença arbitral.
-§ 4º Ressalvado o disposto no § 2º, havendo necessidade de medidas coercitivas ou cautelares, os árbitros poderão solicitá-las ao órgão do Poder Judiciário que seria, originariamente, competente para julgar a causa.
 § 5º Se, durante o procedimento arbitral, um árbitro vier a ser substituído fica a critério do substituto repetir as provas já produzidas.

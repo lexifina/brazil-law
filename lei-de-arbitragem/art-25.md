@@ -1,2 +1,0 @@
-Art. 25. Sobrevindo no curso da arbitragem controvérsia acerca de direitos indisponíveis e verificando-se que de sua existência, ou não, dependerá o julgamento, o árbitro ou o tribunal arbitral remeterá as partes à autoridade competente do Poder Judiciário, suspendendo o procedimento arbitral.
-Parágrafo único. Resolvida a questão prejudicial e juntada aos autos a sentença ou acórdão transitados em julgado, terá normal seguimento a arbitragem.
