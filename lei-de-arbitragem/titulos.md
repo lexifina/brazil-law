@@ -6,7 +6,9 @@ Capítulo III
 Dos Árbitros
 Capítulo IV
 Do Procedimento Arbitral
+CAPÍTULO IV-A
 DAS TUTELAS CAUTELARES E DE URGÊNCIA
+CAPÍTULO IV-B
 DA CARTA ARBITRAL
 Capítulo V
 Da Sentença Arbitral
