@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 139, DE 12.06.14 (D.O. 27.06.14)
+DISPÕE SOBRE A CRIAÇÃO DO FUNDO ESTADUAL DE POLÍTICAS SOBRE ÁLCOOL E OUTRAS DROGAS - FEPAD, E DÁ OUTRAS PROVIDÊNCIAS.
+O GOVERNADOR DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei Complementar:
