@@ -1,7 +1,7 @@
 Art. 12. Para efeito do disposto no art. 150, inciso VI, alínea "c", da Constituição, considera-se imune a instituição de educação ou de assistência social que preste os serviços para os quais houver sido instituída e os coloque à disposição da população em geral, em caráter complementar às atividades do Estado, sem fins lucrativos.
 § 1º Não estão abrangidos pela imunidade os rendimentos e ganhos de capital auferidos em aplicações financeiras de renda fixa ou de renda variável.
 § 2º Para o gozo da imunidade, as instituições a que se refere este artigo, estão obrigadas a atender aos seguintes requisitos:
-a) não remunerar, por qualquer forma, seus dirigentes pelos serviços prestados;
+a) não remunerar, por qualquer forma, seus dirigentes pelos serviços prestados, exceto no caso de associações assistenciais ou fundações, sem fins lucrativos, cujos dirigentes poderão ser remunerados, desde que atuem efetivamente na gestão executiva, respeitados como limites máximos os valores praticados pelo mercado na região correspondente à sua área de atuação, devendo seu valor ser fixado pelo órgão de deliberação superior da entidade, registrado em ata, com comunicação ao Ministério Público, no caso das fundações;
 b) aplicar integralmente seus recursos na manutenção e desenvolvimento dos seus objetivos sociais;
 c) manter escrituração completa de suas receitas e despesas em livros revestidos das formalidades que assegurem a respectiva exatidão;
 d) conservar em boa ordem, pelo prazo de cinco anos, contado da data da emissão, os documentos que comprovem a origem de suas receitas e a efetivação de suas despesas, bem assim a realização de quaisquer outros atos ou operações que venham a modificar sua situação patrimonial;
