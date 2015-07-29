@@ -1,0 +1,2 @@
+Altera os arts. 62, 66 e 67 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, o art. 12 da Lei nº 9.532, de 10 de dezembro de 1997, o art. 1º da Lei nº 91, de 28 de agosto de 1935, e o art. 29 da Lei nº 12.101, de 27 de novembro de 2009, para dispor sobre a finalidade das fundações, o prazo para manifestação do Ministério Público sobre suas alterações estatutárias e a remuneração dos seus dirigentes; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
