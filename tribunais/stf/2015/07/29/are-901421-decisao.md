@@ -1,0 +1,16 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto em face de acórdão de Turma Recursal dos Juizados Especiais de Pernambuco, o qual confirmou a ratificação da conversão da aposentadoria por tempo de contribuição em aposentadoria especial (eDOC 22).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XXXV, XXXVI, LIV e LV; 195, § 5º; e 201, caput e §1º, do Texto Constitucional.
+    Nas razões recursais, sustenta-se a impossibilidade de se considerar a exposição à eletricidade como agente de periculosidade. Alega-se, ainda, que o acórdão recorrido viola o regime constitucional da Seguridade Social.
+    A Presidência da Turma julgou o recurso prejudicado quanto às alegações de ofensa à coisa julgada e inadmitiu o restante, à luz da infraconstitucionalidade da matéria.
+    Decido.
+    Inicialmente, o Tribunal Pleno do STF assentou na Questão de Ordem no AI nº 760.358, de relatoria do Ministro Gilmar Mendes, DJe 3.12.2009, que não cabe a esta Corte rever decisão a qual, no juízo de origem, aplica-se o entendimento fixado no âmbito de repercussão geral. A propósito, veja-se a ementa do referido julgado:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.”
+    Assim, as alegações da parte Recorrente com relação à coisa julgada não são passíveis de conhecimento.
+    Ademais, constata-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes: ARE 668.513-AgR, Rel. Min. Cármen Lúcia, DJe 28.03.2012; ARE 826.688, Rel. Min. Gilmar Mendes, DJe 02.02.2015.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, do CPC, e 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de julho de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
