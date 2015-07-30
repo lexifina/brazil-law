@@ -1,0 +1,18 @@
+Despacho de convocação de audiência pública: Trata-se de ação direta de inconstitucionalidade, proposta pelo Procurador-Geral da República, contra a Lei Complementar 147, de 27 de junho de 2013, alterada pela Lei Complementar 148, de 22 de agosto de 2013, e pela Lei Complementar 163, de 31 de março de 2015, do Estado do Rio de Janeiro, que dispõe sobre a utilização de parcela de depósitos judiciais para pagamento de requisições judiciais de pagamento e dá outras providências.
+    Discute-se, portanto, a constitucionalidade de normas estaduais que possibilitam aos entes da federação utilizarem-se dos recursos dos depósitos judiciais e extrajudiciais, inclusive dos efetuados em litígios nos quais não são partes, para pagamentos de despesas diversas (precatórios, requisições de pequeno valor, capitalização de Fundos de Previdência, entre outros).
+    Tendo em vista as consequências que a decisão desta Corte terá em relação às finanças públicas, com inevitáveis reflexos na elaboração, execução e no controle dos orçamentos, haja vista o teor do artigo 52, incisos VI, VII, VIII e IX; do artigo 163, incisos I, II e III; e do artigo 167, incisos II, III, V, VI, VII, VIII e X, todos da Constituição Federal,
+    CONVOCO Audiência Pública, nos termos do art. 21, XVII, e do art. 154, III, do RISTF, para o depoimento de autoridades e membros da sociedade em geral que possam contribuir com esclarecimentos técnicos, contábeis, administrativos, políticos e econômicos sobre o tema.
+    A audiência será realizada na data provável de 21 de setembro de 2015, tendo cada expositor o tempo de 10 minutos para apresentar suas considerações.
+    O funcionamento seguirá o disposto no art. 154, III, parágrafo único, do Regimento Interno do STF.
+    As entidades convidadas e demais interessados em participar da audiência pública deverão requerer a sua inscrição até o dia 28 de agosto de 2015, nos termos do art. 154, parágrafo único, I, do RISTF, por meio do endereço eletrônico depositojudicial@stf.jus.br, com indicação dos respectivos representantes, bem como dos pontos que pretendem abordar.
+    A relação de inscritos habilitados a participar da audiência pública estará disponível no portal do Supremo Tribunal Federal a partir de 4 de setembro de 2015.
+    A audiência será transmitida pela TV Justiça e pela Rádio Justiça (art. 154, parágrafo único, inciso V, do Regimento Interno do STF), com sinal liberado às demais emissoras interessadas.
+    Expeçam-se convites aos Excelentíssimos Senhores Ministros deste Supremo Tribunal Federal para, querendo, integrar a mesa e participar da audiência pública.
+    Expeçam-se convites às seguintes autoridades: Presidente da Câmara dos Deputados; Presidente do Senado Federal; Procurador-Geral da República; Advogado-Geral da União; Presidente do Banco Central do Brasil; Ministro da Fazenda; Presidente do Tribunal de Contas da União; e Presidente do Conselho Federal da Ordem dos Advogados do Brasil.
+    Oficie-se aos Presidentes dos Tribunais de Justiça, Secretários de Estado da Fazenda, Presidentes dos Tribunais de Contas Estaduais, noticiando sobre a audiência pública e solicitando informações que considerarem relevantes sobre a gestão e utilização de recursos oriundos dos Depósitos Judiciais.
+    À Secretaria do Tribunal, à Secretaria de Comunicação Social e à Assessoria de Cerimonial, para que providenciem os equipamentos e o pessoal de informática, som, imagem, transcrição, segurança e demais suportes necessários para a realização do evento.
+    Publique-se e divulgue-se, nos termos do art. 154, parágrafo único, I, do RISTF.
+    Brasília, 30 de julho de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
