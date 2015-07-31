@@ -1,0 +1,1 @@
+Art. 129-A. O registro dos tratores e demais aparelhos automotores destinados a puxar ou a arrastar maquinaria agrícola ou a executar trabalhos agrícolas será efetuado, sem ônus, pelo Ministério da Agricultura, Pecuária e Abastecimento, diretamente ou mediante convênio.
