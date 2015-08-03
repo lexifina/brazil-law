@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso de agravo, tempestivamente interposto, contra decisão que conheceu do agravo, para negar seguimento ao recurso extraordinário, manifestamente inadmissível, deduzido pela parte ora recorrente, assim ementado:
+    “EMENTA: Apelação – ação ordinária - servidor – agente penitenciário – natureza do vínculo com a Administração – período de contrato temporário – período após efetivação – adicional local de trabalho – vedação legal – art. 6° da Lei 11.717, de 1994 e art. 20 da Lei 14.695, de 2003 – proibição de bis in idem – apelação à qual se nega provimento.
+    1 – O agente de segurança penitenciário contratado temporariamente tem direito ao adicional estabelecido no art. 1° da Lei Estadual 11.717, de 1994, desde que haja previsão legal para estabelecimento prisional ao qual presta serviço (art. 10).
+    2 – O servidor efetivo do quadro da carreira de agente de segurança penitenciário não faz juz ao adicional de local de trabalho por expressa vedação contida nos art. 6° da Lei 11.717, de 1994 e 20 da Lei 14.695, de 2003.
+    3 – O agente de segurança penitenciário do quadro de carreira já percebe remuneração adequada à atividade desenvolvida, sendo inerente ao cargo o desempenho da função em contato constante com a população carcerária. Art. 12, parágrafo único da Lei 15.788, de 2005. Vedação ao bis in idem.”
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “d”, da Constituição Federal, sustenta-se preliminarmente a repercussão geral da matéria. No mérito, aponta-se ofensa ao artigo 5º, caput, da Constituição Federal.
+    Sustenta, em síntese, que ao negar o direito do recorrente em relação ao adicional de local de trabalho, sob o fundamento de que não pertence à carreira específica expressamente definida pela Lei n. 11.717/1994, resulta em flagrante violação ao princípio da isonomia, por tratar de forma distinta servidores que exercem as mesmas funções.
+    Pugna-se pela reforma da decisão recorrida e pela procedência do pedido inicial.
+    É o Relatório.
+    Decido.
+    A irresignação recursal não merece prosperar.
+    Verifica-se a existência de fundamento infraconstitucional autônomo e suficiente para manter o acórdão recorrido, referente ao reconhecimento da incidência da prescrição quinquenal do direito reclamado.
+    Assim, subsistindo fundamento suficiente de natureza infraconstitucional, incide no caso concreto o óbice da Súmula 283 desta Suprema Corte.
+    Nesse sentido, confira-se:
+    “RECURSO EXTRAORDINÁRIO E RECURSO ESPECIAL - MODALIDADES DE RECURSOS EXCEPCIONAIS QUE POSSUEM DOMÍNIOS TEMÁTICOS PRÓPRIOS - ACÓRDÃO EMANADO DE TRIBUNAL DE JURISDIÇÃO INFERIOR QUE SE APÓIA EM DUPLO FUNDAMENTO (UM, DE ÍNDOLE CONSTITUCIONAL E OUTRO, DE CARÁTER INFRACONSTITUCIONAL) - PRECLUSÃO QUE SE OPEROU, NA ESPÉCIE, EM RELAÇÃO AO FUNDAMENTO DE ÍNDOLE MERAMENTE LEGAL – SÚMULA 283/STF - RECURSO DE AGRAVO IMPROVIDO. - O recurso extraordinário e o recurso especial são institutos de direito processual constitucional. Trata-se de modalidades excepcionais de impugnação recursal, com domínios temáticos próprios que lhes foram constitucionalmente reservados. Assentando-se, o acórdão emanado de Tribunal inferior, em duplo fundamento, e tendo em vista a plena autonomia e a inteira suficiência daquele de caráter infraconstitucional, mostra-se inadmissível o recurso extraordinário em tal contexto (Súmula 283/STF), eis que a decisão contra a qual se insurge o apelo extremo revela-se impregnada de condições suficientes para subsistir autonomamente, considerada, de um lado, a preclusão que se operou em relação ao fundamento de índole meramente legal e, de outro, a irreversibilidade que resulta dessa específica situação processual. Precedentes.(ARE-AgR 661.669, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe 27.2.2012)”
+    Ainda que assim não fosse, o Tribunal de origem assentou a ausência de direito da ora recorrente ao adicional de local de trabalho. Nesse contexto, para dissentir da conclusão do acórdão recorrido, seria necessário o reexame fático probatório constante dos autos, bem como análise da legislação local aplicável ao caso (Lei n. 11.717/1994, Lei n. 14.695/2003 e Lei n. 15.788/2005, todas do Estado de Minas Gerais). Situação que encontra óbice diante da incidência das Súmulas 279 e 280 do STF.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
