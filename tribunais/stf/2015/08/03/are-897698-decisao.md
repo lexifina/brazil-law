@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo nos próprios autos, interposto por João Perri Machado de Paiva, contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão proferido pela Terceira Seção do Superior Tribunal de Justiça nos autos do Agravo Regimental nos Embargos de Divergência no Agravo em Recurso Especial n. 398.763/RJ e assim ementado (eDOC 4, p. 110-111):
+    “AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 59 DO CP. PENA-BASE EXACERBADA. TESES QUE EXIGEM REEXAME FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO QUE LEVA EM CONSIDERAÇÃO O NÚMERO DE INFRAÇÕES COMETIDAS. CRITÉRIO IDÔNEO. INÉPCIA DA INICIAL. INEXISTÊNCIA. DETALHAMENTO DA CONDUTA DO AGENTE. SÚMULA 168/STJ.
+    1. A dosimetria é matéria afeta à discricionariedade judicial, exercida pelas instâncias ordinárias, mais próximas dos fatos. Todavia, é possível aos tribunais superiores o controle dos critérios empregados, o que admite, em caso de evidente desproporcionalidade, a correção de eventuais discrepâncias nas frações de aumento ou diminuição adotadas pelas instâncias anteriores.
+    2. A revisão da pena-base só se fez possível em razão da existência de flagrante ilegalidade na fixação da reprimenda básica, inclusive com afronta a súmula deste Superior Tribunal, o que ensejou o reexame da matéria em sede de recurso especial.
+    3. É firme o entendimento deste Tribunal de que a fração de aumento em razão da continuidade delitiva se deve em razão do número de infrações cometidas.
+    4. Não há como reconhecer a inépcia da denúncia se a descrição da conduta delituosa foi feita de forma suficiente ao exercício do direito de defesa, com a narrativa de todas as circunstâncias relevantes, permitindo a leitura da peça acusatória a compreensão da acusação, com base no art. 41 do Código de Processo Penal.
+    5. Incidência do disposto na Súmula 168/STJ, in verbis: não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado.
+    6. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+    7. Agravo regimental improvido.”
+    Opostos embargos de declaração, estes foram rejeitados (eDOC 4, p. 130).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido viola o art. 5º, inciso XLV, da Constituição Federal (eDOC 4, p. 143-145).
+    O Tribunal a quo não admitiu o recurso por ausência de prequestionamento (eDOC 4, p. 158-162).
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário, refutando os fundamentos da decisão recorrida.
+    Decido.
+    De início, cumpre observar que a tese ventilada no extraordinário não foi discutida no acórdão contestado. Incide, neste caso, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI-ED 631.961/ES, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 15.5.2009) (grifei)
+    Ademais, examinando as razões expendidas tanto no agravo quanto no próprio extraordinário interpostos, necessário concluir inexistirem quaisquer argumentos aptos a permitir o conhecimento da controvérsia devido à manifesta ausência de fundamentação, fazendo incidir o enunciado n. 284 da Súmula do STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+    Cinge-se o recorrente a citar o dispositivo constitucional que entende violado sem, contudo, apontar as razões concretas pelas quais assim conclui. Deixa de indicar qual trecho da decisão, qual providência adotada pelo Superior Tribunal de Justiça, qual entendimento, afinal, considera ir de encontro à Constituição Federal.
+    Por último, aponta o recorrente a inexistência de elementos satisfatórios para concluir pela sua autoria delitiva. Contudo, para se entender de forma diversa do consubstanciado nos autos de maneira a afastar a autoria do recorrente, seria necessária a reanálise da instrução probatória, providência vedada no âmbito do recurso extraordinário, tendo em vista o disposto no enunciado 279 da Súmula do STF.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, inciso II, alínea a, do CPC).
+    Publique-se. Int..
+    Brasília, 3 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
