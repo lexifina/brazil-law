@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5°, XX, 40, § 12, 194, 195, caput, II, § 5°, e 201, V, da Constituição Federal.
+    Anote-se a ementa do acórdão recorrido:
+    “AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA NO MOMENTO DO PAGAMENTO DA RPV.
+    Os descontos de contribuição previdenciária e assistência à saúde incidem no momento do pagamento, sobre o valor da RPV, independentemente de haver renúncia de parte do crédito, uma vez que o fato gerador é a percepção de verba salarial. Descabem cálculos mensais até junho de 2004, a partir de quando deverá ser observado o limite de isenção - teto dos benefícios do regime geral de previdência - de inativos e pensionistas, especificamente quanto ao desconto previdenciário.
+    AGRAVO DE INSTRUMENTO PROVIDO.”
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 5°, XX, 194, 195, § 5º, e 201, V, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Vide também que a questão a respeito da existência de contribuição previdenciária destinada ao custeio de serviços médicos não apreciada pelo acórdão recorrido e nem pelos aclaratórios opostos.
+    Ademais, observo que o Tribunal de origem solucionou a lide com fundamento na legislação infraconstitucional e nas provas dos autos, conforme se extrai do seguinte fragmento do acórdão dos embargos de declaração:
+    “No caso, não tendo o servidor aposentado, ora embargante, comprovado estar isento da contribuição previdenciária de 5,4% da Lei n° 7.672/82 na vigência da Emenda Constitucional n°. 20/98, através do ajuizamento da competente ação judicial, desacolhem-se os declaratórios, pois não é simples fato de ser inativo que o torna imune a tal tributação, mas sim o seu reconhecimento por sentença em ação com finalidade específica para tal”.
+    Nesse caso, para acolher a pretensão recursal e ultrapassar o entendimento do Tribunal de origem, seria necessário o reexame do conjunto fático-probatório constante dos autos bem como das normas ordinárias aplicáveis à espécie (Leis Estaduais nºs 7.672/82, 12.065/04, 12.066/04). Eventual ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA. MILITARES DA ATIVA. LEI ESTADUAL Nº 7.672/1982. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. O Supremo Tribunal Federal, nos autos do AI 834.262-RG, julgado sob relatoria do Ministro Cezar Peluso, negou a repercussão geral da controvérsia relativa à realização de descontos previdenciários sobre vencimentos de servidores militares ativos, visto que a matéria tem índole exclusivamente infraconstitucional, circunstância que impede a abertura da via extraordinária. Agravo regimental a que se nega provimento” (AI n° 837.592/RS-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 5/11/14).
+    “RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL INADMITIDA – DESCONTOS PREVIDENCIÁRIOS DOS MILITARES INATIVOS – MATÉRIA INFRACONSTITUCIONAL. O Tribunal concluiu não ter repercussão geral o tema relativo à possibilidade de serem efetuados descontos previdenciários dos militares ativos do Estado do Rio Grande do Sul, porquanto, na origem, a controvérsia foi decidida com base na Lei estadual nº 7.672/82, na Lei Complementar estadual nº 12.065/04 e no Código Civil” (AI nº 839.314/RS-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 27/4/12 - grifei).
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Descontos previdenciários. Militares estaduais ativos. Lei Estadual 7.672/1982. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a autorização de descontos previdenciários sobre vencimentos de servidores militares ativos do Estado do Rio Grande do Sul, com base na Lei Estadual 7.672/1982, versa sobre tema infraconstitucional ” (AI n° 834.262/RS-RG, Relator o Ministro Cezar Peluso, DJe de 15/9/11).
+    Ainda no mesmo sentido: AI n° 827.213/RS, de minha relatoria, DJe de 31/8/12; AI n° 676.201/RS, de minha relatoria, DJe de 13/6/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
