@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Fundação Nacional de Saúde – FUNASA interpõe recurso extraordinário, com fundamento nas alíneas “a” e “b” do permissivo constitucional, contra acórdão da Turma Recursal do Juizado Especial Federal do Amazonas.
+    Sustenta-se violação dos artigos 5º, caput, e 40, § 8º, da Constituição Federal, 7º da Emenda Constitucional nº 41/03 e 2º da Emenda Constitucional nº 47/05.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, verifica-se dos autos que as instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279/STF. A propósito, anote-se:
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais” (ARE 681.596/CE-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 22/4/13).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO DO DISTRITO FEDERAL. REAJUSTE DE GRATIFICAÇÃO. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. VIOLAÇÃO À MAGNA CARTA, SE EXISTENTE, APENAS OCORRERIA DE MODO REFLEXO OU INDIRETO. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada neste momento processual. 2. Agravo regimental desprovido”
+(AI nº 834.337/DF-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 28/6/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 594.028-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 27/2/09).
+    Registre-se, por fim, ser descabida a indicação, no presente recurso extraordinário, da alínea “b” do permissivo constitucional, haja vista que a Corte de origem não declarou a inconstitucionalidade de tratado ou lei federal.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
