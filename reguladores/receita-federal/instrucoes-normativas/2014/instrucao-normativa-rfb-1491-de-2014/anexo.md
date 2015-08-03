@@ -1,4 +1,8 @@
-ANEXO ÚNICO
+ANEXO I
 TERMO DE CONFISSÃO DE DÍVIDA E DISCRIMINAÇÃO DE DÉBITOS
-Anexo Único
-[arquivo anexo: Anexo Único.pdf]
+Anexo I
+[arquivo anexo: Anexo I.pdf]
+ANEXO II
+RELAÇÃO DE DÉBITOS QUE SERÃO APURADOS POR MEIO DE PROCEDIMENTO FISCAL
+Anexo II
+[arquivo anexo: Anexo II.pdf]

@@ -1,0 +1,4 @@
+Art. 6º-A O contribuinte que esteja sob procedimento fiscal não finalizado até 14 de agosto de 2015, poderá incluir nas modalidades de que trata o § 1º do art. 1º da Portaria Conjunta PGFN/RFB nº 13, de 30 de julho de 2014, os eventuais débitos vencidos até 31 de dezembro de 2013, relativos aos tributos e os períodos abrangidos pelo respectivo procedimento.
+§ 1º Para a inclusão de que trata o caput, o sujeito passivo deverá apurar e informar, mediante requerimento na forma prevista no Anexo II, os valores devidos e que serão constituídos por lançamento de ofício no procedimento fiscal.
+§ 2º O requerimento de que trata o § 1º deverá ser protocolado na unidade da RFB do domicílio tributário do sujeito passivo até o dia 14 de agosto de 2015.
+§ 3º A apresentação do requerimento de que trata o § 1º não exime o sujeito passivo da prestação das informações para consolidação nos termos do art. 11 da Portaria Conjunta PGFN/RFB nº 13, de 2014.
