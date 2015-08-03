@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “AGRAVO DE INSTRUMENTO - COMPLEMENTAÇÃO DE APOSENTADORIA PREVISTA EM CONTRATO DE TRABALHO - AÇÃO MOVIDA POR FUNCIONÁRIOS APOSENTADOS DO BANCO DO BRASIL EM DESFAVOR DO BANCO DO BRASIL - PORT. N. 966/1947 - COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+    - DEMANDA DESENVOLVIDA ENTRE EMPREGADOS APOSENTADOS, DE UM LADO, E O EX-EMPREGADOR, DE OUTRO, TENDO POR OBJETO A COMPLEMENTAÇÃO DE APOSENTADORIA PREVISTA NO CONTRATO DE TRABALHO, INSCREVE-SE NA COMPETÊNCIA MATERIAL DA JUSTIÇA DO TRABALHO, À LUZ DO ARTIGO 114 DA CONSTITUIÇÃO FEDERAL.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 114 e 202, § 2º, da Constituição. Aduz que a competência para a análise do processo é da Justiça comum.
+    O recurso deve ser provido, tendo em vista que o acórdão recorrido dissentiu da jurisprudência do Supremo Tribunal Federal no sentido de que a competência, na hipótese, é da Justiça comum.
+    Esse entendimento foi consolidado no julgamento conjunto do RE 583.050 e do RE 586.453. Naquela assentada, a maioria do Plenário desta Corte definiu que o § 2º do art. 202 da Constituição Federal autonomizou, expressamente, a previdência complementar relativamente ao contrato de trabalho. Em outras palavras, firmou-se o entendimento de que o § 2º do art. 202 da Constituição Federal seria a fonte normativa evidente da existência de dois regimes de previdência: um, o do regime geral, que alcançaria todos os trabalhadores do setor privado; e outro, complementar, de previdência privada, inteiramente dissociado das relações trabalhistas e de tudo que dela decorrer inclusive em matéria de previdência. Ou seja, o contrato de previdência complementar bastaria em si mesmo, seria um pacto de natureza totalmente distinta, sem qualquer vinculação com as relações trabalhistas.
+    Assim, não há que se falar em competência da Justiça especializada, quando a ação se volta exclusivamente contra o ex-empregador, uma vez que a definição da competência jurisdicional foi posta, pelo Supremo Tribunal Federal, em razão da natureza autônoma da previdência complementar, ainda que o surgimento do contrato de previdência complementar pressuponha a existência de um vínculo trabalhista subjacente.
+    Diante do exposto, com base no art. 544, § 4º, II, c, do CPC, conheço do agravo para dar provimento ao recurso extraordinário, reconhecendo a competência da Justiça comum.
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
