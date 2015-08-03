@@ -1,0 +1,11 @@
+Decisão:
+    Vistos.
+    O Plenário desta Corte concluiu, em sessão realizada por meio eletrônico, pela existência da repercussão geral da matéria constitucional versada nestes autos. O assunto corresponde ao tema 669 da Gestão por Temas da Repercussão Geral do portal do STF na internet e discute a constitucionalidade “do art. 25 da Lei 8.212/1991, com a redação dada pelo art. 1º da Lei 10.256/2001, que reintroduziu, após a Emenda Constitucional 20/1998, a contribuição a ser recolhida pelo empregador rural pessoa física sobre a receita bruta proveniente da comercialização de sua produção, mantendo a alíquota e a base de cálculo instituídas por leis ordinárias declaradas inconstitucionais em controle difuso pelo Supremo Tribunal Federal”. O tema é objeto do RE n° 718.874/RS, que está sendo processado neste Supremo Tribunal Federal.
+    Vide também que esta Corte reconheceu a repercussão geral da discussão, à luz dos arts. 150, II, e 240 da Constituição Federal e do art. 62 do ADCT, acerca da “constitucionalidade da Contribuição para o Serviço Nacional de Aprendizagem Rural – SENAR que incidia sobre a folha de salários (Lei 8.315/1991, art. 3º) e, posteriormente, passou a ser cobrada sobre a receita bruta proveniente da comercialização da produção rural, por força do art. 2º da Lei 8.540/1992, com as alterações do art. 6º da Lei 9.528/1997 e do art. 3º da Lei 10.256/2001”. O assunto corresponde ao tema nº 801 da Gestão por Temas da Repercussão Geral do portal do STF na internet e é objeto do RE nº 816.830/SC, de minha relatoria, que está sendo processado nesta Corte.
+    Nas Questões de Ordem suscitadas no AI nº 715.423/RS e no RE nº 540.410/RS, o Plenário deste Supremo Tribunal Federal concluiu pela possibilidade da aplicação da norma do artigo 543-B do Código de Processo Civil aos recursos extraordinários e agravos de instrumento que tratem de matéria constitucional com repercussão geral reconhecida por esta Corte, independentemente da data de interposição do apelo extremo.
+    Assim, nos termos do artigo 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução dos autos ao Tribunal de origem para que seja aplicado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
