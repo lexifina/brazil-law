@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de demanda, aqui autuada como Ação Cível Originária - ACO, proposta pelo Ministério Público do Estado de São Paulo visando a que o Supremo Tribunal Federal dirima o que denominou de “conflito de atribuições” estabelecido em face do Ministério Público do Estado de Goiás, conflito esse surgido em procedimento instaurado com o objetivo de investigar a suposta prática de crime de receptação (CP, art. 180).
+    2. Em parecer, a Procuradoria-Geral da República resumiu o presente conflito, nos termos seguintes:
+    “O Ministério Público do Estado de Goiás entendeu que o aludido delito haveria se consumado em São Paulo, ocorrendo em Goiânia/GO apenas o seu exaurimento. Desse modo, requereu a remessa dos autos ao Juízo competente. O pedido foi acolhido e os autos encaminhados ao Juízo Criminal da Comarca de São Paulo/ SP
+    Instado a se manifestar, o Ministério Público do Estado de São Paulo argumentou que a receptação é delito permanente, protraindo-se no tempo, razão pela qual entendeu que o delito consumou-se em Goiânia/GO, local onde o veículo fora apreendido.
+    Os autos foram encaminhados à Procuradoria Geral de Justiça do Estado de São Paulo, que, por sua vez, suscitou o incidente perante o STF” (fl. 2; doc. 8).
+    Ao final, o chefe do Ministério Público Federal manifestou-se “pela remessa dos autos ao Juízo Criminal da Comarca de São Paulo para que se pronuncie acerca da sua competência na espécie” (fl. 3; doc. 8).
+    3. Não há, no caso, sequer a existência de conflito negativo de atribuições entre membros do Ministério Público. É que o Juízo da 7ª Vara Criminal da Comarca de Goiânia/GO já reconheceu sua incompetência para o processamento da causa penal (fl. 30; doc. 2), determinando a remessa dos autos ao Juízo da Comarca de São Paulo, que, por sua vez, não chegou a decidir se é competente, ou não, para dar-lhe andamento. Limitou-se a encaminhar a esta Corte o presente “conflito” suscitado pelo Ministério Público daquele Estado.
+    Ora, tendo havido decisão proferida pelo Juízo do Estado de Goiás acerca da sua incompetência, aqui o que há é uma divergência entre autoridade judiciária e deliberação do órgão ministerial. Divergência dessa natureza não se qualifica, à evidência, como conflito federativo com estatura minimamente razoável para inaugurar a competência do Supremo Tribunal Federal de que trata o art. 102, I, f , da Constituição (cf. CC 7117, Relator(a): Min. SYDNEY SANCHES, Tribunal Pleno, julgado em 08/08/2002, DJ 21-02-2003 PP-00028 EMENT VOL-02099-02 PP-00334).
+    4. Ante o exposto, nego seguimento ao pedido, determinando a remessa dos autos ao Juízo da Comarca de São Paulo, para que decida se se considera competente, ou não, para processar e julgar a causa.
+    Comunique-se. Intime-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
