@@ -1,0 +1,16 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário.
+    O recurso extraordinário não pode ser provido, uma vez que não reúne as condições processuais para a sua admissibilidade. Para dissentir do acórdão recorrido, quanto à natureza dos bens adquiridos, inclusive se irão integrar o processo de recauchutagem ou o ativo fixo do estabelecimento, necessário seria o revolvimento de fatos e provas dos autos, o que é vedado em sede de extraordinário, nos termos da Súmula 279/STF.
+    Ademais, a decisão recorrida está correta e alinhada aos precedentes firmados por esta Corte, que tem afastado a possibilidade de cobrança do diferencial de alíquota do ICMS, quando o contribuinte adquire, em outro Estado da Federação, insumos que são utilizados na prestação de serviços, sujeitos ao imposto municipal. Confiram-se:
+    “Agravo regimental em recurso extraordinário 2. Empresa contribuinte do ISS. Alíquota diferenciada. ICMS. Cobrança de diferença. Impossibilidade. Precedentes. 3. Agravo regimental a que se nega provimento.” (RE 444.885/SE-AgR, Segunda Turma, Relator Ministro Gilmar Mendes)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. TRIBUTÁRIO. ICMS. AQUISIÇÃO DE MATERIAL UTILIZADO COMO INSUMO EM OBRA DE CONSTRUÇÃO CIVIL. DIFERENCIAL DA ALÍQUOTA. NÃO CABIMENTO. 1. A jurisprudência a do Supremo Tribunal Federal entende que as empresas de construção civil não estão compelidas à satisfação do diferencial de alíquota de ICMS do Estado destinatário, quando adquirem, em Estado que pratique alíquota mais favorável, material a ser utilizado como insumo em suas obras. 2. Agravo regimental desprovido.” (AI 557.373/BA-AgR, Segunda Turma, Relator Ministro Ayres Britto)
+    “Agravo regimental. ICMS. Diferencial de alíquota. Contribuinte do ISS. Impossibilidade. Atividade da empresa. Enquadramento na lista anexa ao Decreto-lei nº 406/68. Necessidade de revolvimento de fatos e provas e de reinterpretação da legislação infraconstitucional.
+    1. Acórdão recorrido em consonância com a jurisprudência do Supremo Tribunal Federal sobre o tema, orientada no sentido da impossibilidade da exigência de complementação da diferença entre alíquotas de ICMS quando empresa não contribuinte dessa exação adquire mercadoria em outro estado. Precedentes.
+     2. Se a agravada identifica-se como contribuinte do ICMS no momento da aquisição das mercadorias em outros estados, aproveitando, assim, a alíquota interestadual, e, paradoxalmente, argumenta ao fisco de destino que não é contribuinte do ICMS, para escapar do diferencial de alíquota, cabe a aplicação das multas previstas na legislação estadual, mas não a cobrança do diferencial de alíquota.
+    3. Os fatos descritos no acórdão recorrido, o qual enquadrou a atividade exercida pela agravada na lista anexa ao Decreto-lei nº 406/68, não podem ser infirmados sem o revolvimento do conjunto fático- probatório, o qual é inviável em sede de recurso extraordinário.
+    4. Agravo regimental não provido.” (AI 795.083/BA-AgR, Primeira Turma, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
