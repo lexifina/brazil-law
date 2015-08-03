@@ -1,0 +1,8 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de liminar, contra acórdão do Tribunal Regional do Trabalho da 14ª Região (Processo 0000214-36.2015.5.14.0006), que proveu recurso ordinário para “aplicar a Lei n. 4950-A/99 e condenar a reclamada ao pagamento das diferenças salariais, com os devidos reflexos em 13º salário, FGTS e adicional de risco, bem como, condenar na reparação de danos pelas despesas com advogado, no valor de R$ 30% sobre a condenação” (doc. 10, fl. 18). Alega a reclamante, em síntese, que o acórdão reclamado ofende o teor da Súmula Vinculante 4, pois determinou que o piso salarial da parte autora da reclamação trabalhista seria estabelecido em múltiplos de salário mínimo. Requer o deferimento da medida liminar por entender presentes os requisitos necessários para o seu deferimento.
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, de modo a garantir a efetividade do resultado de futuro e provável juízo de procedência. O requisito da urgência, entretanto, não se encontra presente. É que não há nos autos nenhuma demonstração de risco de dano irreparável, pois a alegação limitada à possibilidade de futura execução por si só não justifica a indispensabilidade da medida liminar pleiteada. De todo oportuno, portanto, que se ouça a autoridade reclamada sobre a situação fática questionada nos autos.
+    3. Ante o exposto, indefiro a liminar. Solicitem-se informações à autoridade reclamada. Após, à Procuradoria-Geral da República para parecer.
+    Publique-se. Intime-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
