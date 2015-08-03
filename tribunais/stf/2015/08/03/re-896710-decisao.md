@@ -1,0 +1,48 @@
+Decisão:
+    Vistos.
+    Estado de Minas Gerais interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Sétima Câmara Cível do Tribunal de Justiça daquele Estado, assim ementado:
+    “SERVIDOR PÚBLICO – APOSENTADORIA – DOENÇA GRAVE, INCURÁVEL E IRREVERSÍVEL – PROVENTOS INTEGRAIS – ART. 108, ALÍNEA “E”, DA LEI N° 869/52 – ROL NÃO TAXATIVO – ART. 40, § 1°, INC. I DA CONSTITUIÇÃO FEDERAL E ART. 36, I, DA CONSTITUIÇÃO ESTADUAL. - Conforme o disposto no artigo 40, § 1°, inciso I da Constituição Federal de 1988, será integral a aposentadoria dos servidores estaduais titulares de cargo efetivo, se ocasionada por invalidez permanente decorrente de acidente em serviço, moléstia profissional ou doença grave contagiosa ou incurável, não podendo ser tida como numerus clausus a listagem do art. 108, alínea “e”, da Lei Estadual 869/52 – Recurso provido” (fl. 291).
+    Opostos embargos de declaração (fls. 303 a 305), foram rejeitados (fls. 308 a 311).
+    Alega o recorrente violação dos artigos 37, caput, e 40, caput, § 1º, inciso I, e § 3º, da Constituição Federal.
+    Apresentadas contrarrazões (fls. 329 a 347), o recurso extraordinário (fls. 314 a 325) foi admitido (fl. 427).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    O Plenário deste Supremo Tribunal Federal, no julgamento do RE 656.860/MT, de relatoria do Ministro Teori Zavascki, cuja repercussão geral do tema nele suscitado já havia sido reconhecida por esta Corte, concluiu que cabe à legislação infraconstitucional definir, em rol taxativo, as doenças e moléstias que ensejam a aposentadoria por invalidez com proventos integrais. Esse julgado ficou assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ COM PROVENTOS INTEGRAIS. ART. 40, § 1º, I, DA CF. SUBMISSÃO AO DISPOSTO EM LEI ORDINÁRIA. 1. O art. 40, § 1º, I, da Constituição Federal assegura aos servidores públicos abrangidos pelo regime de previdência nele estabelecido o direito a aposentadoria por invalidez com proventos proporcionais ao tempo de contribuição. O benefício será devido com proventos integrais quando a invalidez for decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, “na forma da lei”. 2. Pertence, portanto, ao domínio normativo ordinário a definição das doenças e moléstias que ensejam aposentadoria por invalidez com proventos integrais, cujo rol, segundo a jurisprudência assentada pelo STF, tem natureza taxativa. 3. Recurso extraordinário a que se dá provimento” (DJe de 18/9/14).
+    No caso em tela, colhe-se do voto condutor do acórdão recorrido, in verbis:
+    “Infere-se dos autos que o autor é Policial Civil, tendo se aposentado por invalidez, nos termos do art. 40, §1º, I, da Constituição Federal, combinado com o art. 108, ‘e’, da Lei 869/1952.
+    A legislação que rege as aposentadorias dos servidores públicos prevê proventos integrais para alguns tipos de aposentadoria e proporcionais para outras.
+    O art. 108 da Lei Estadual 869/52, na redação dada pela Lei Complementar 44 de 5 de julho de 1996, estatui que:
+    (…)
+    O parágrafo 5º do mesmo artigo vem, ainda, restringir as hipóteses mencionadas, dispondo que:
+    (…)
+    Já o art. 110, da mesma lei, reza que:
+    (…)
+    Por sua vez, o art. 40, I, da Constituição Federal e o art. 36, I, da Carta Estadual, dispõem que as moléstias ensejadoras da aposentadoria com proventos integrais devem estar especificadas em lei.
+    De acordo com a dicção da alínea ‘c’, do art. 108, combinada com o preceito do inciso II do art. 110, da Lei 869/52, é descabida a interpretação dada pelo Estado quanto a não ser devida aposentadoria com proventos integrais. Aliás, a aposentadoria só pode ser deferida, consoante o § 5º do art. 108, quando o servidor não tiver condição de reassumir o exercício do cargo.
+    Tanto a alínea ‘c’ quanto a ‘e’ referem-se à aposentadoria por invalidez permanente; a alínea ‘e’ apenas menciona as doenças mais graves, mas, seja com fundamento em uma ou em outra, há de ser constatada a impossibilidade de reassunção do cargo, ou, em outras palavras, a invalidez definitiva (§ 5º do art. 108).
+    Não pode ser outra a exegese dos dispositivos em comento.
+    Essa interpretação, que é até literal, em nada afronta o texto constitucional (arts. 40, I e 36, I, respectivamente da CF e da CE).
+    Ressalte-se que a legislação em tela não prevê aposentadoria por invalidez ou incapacidade parcial, com proventos proporcionais, tanto que, em todos os casos abrangidos pela Lei 869/52, seja na alínea ‘c’ como na ‘e’, há de ser esgotado o prazo máximo de licenças para tratamento de saúde, o que resulta que a aposentadoria somente pode ser concedida após constatada a incapacidade ou invalidez permanente e total.
+    (…)
+    Data venia, não se vislumbra em quê o art. 110 da Lei 869/52 afronta o texto retro, a ponto de ser considerado como não tendo sido recepcionado.
+    O autor certamente foi aposentado em razão de doença grave e incurável, após ter sido licenciado por mais de dois anos, porque nada consta em contrário.
+    Ao contrário, os documentos que instruem a inicial, demonstram sucessivos afastamentos desde julho de 2004, para tratamento médico de doença psiquiátrica e de um tumor cerebral.
+    Se a doença era curável, ou não era grave, ou se a invalidez não era permanente, deveria, então, haver a readaptação para funções compatíveis, não aposentadoria.
+    Se as doenças não estão elencadas na alínea ‘e’ do art. 108, não significa que são curáveis, ou que não são invalidantes ou graves.
+    A listagem da alínea ‘e’ não pode ser tida como numerus clausus, mesmo porque a medicina evoluiu, tendo surgido novas doenças, como a AIDS, por exemplo, que não fazia parte do elenco na redação original da Lei 869.
+    No caso dos autos, a documentação acostada à exordial comprova que o autor foi afastado por depressão, ansiedade e por apresentar tumor cerebral, tendo se submetido a vários tratamentos, inclusive cirúrgicos, que culminaram com o seu afastamento e posterior aposentadoria.
+    Assim, restou demonstrado que a doença é grave, incapacitante e permanente, o que acarreta o direito do servidor à aposentadoria com proventos integrais.”
+    Desse modo, acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem sobre a existência de previsão legal para a concessão da aposentadoria com proventos integrais para o autor demandaria, induvidosamente, o reexame da legislação local pertinente e do conjunto fático-probatório dos autos, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas nºs 279 e 280 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. APOSENTADORIA POR INVALIDEZ. MOLÉSTIA PROFISSIONAL GRAVE OU DOENÇA GRAVE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 473.703/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/4/10).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. PROVENTOS PROPORCIONAIS. ALEGAÇÃO DE ENFERMIDADE GRAVE E DEFINITIVAMENTE INCAPACITANTE, APTA A ENSEJAR APOSENTADORIA COM PROVENTOS INTEGRAIS. INVIABILIDADE DO REEXAME EM SEDE EXTRAORDINÁRIA. ENUNCIADOS 279 E 280 DA SÚMULA/STF. Para se chegar a conclusão diversa daquela a que chegou a Corte de origem seria necessário reexaminar matéria fática e legislação local. Exame inviável, consoante os Enunciados 279 e 280 da Súmula/STF. Agravo regimental a que se nega provimento” (AI nº 794.831/MG-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 1º/10/10).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. PROVENTOS INTEGRAIS. CONTROVÉRSIA QUE DEMANDA O REEXAME DAS PROVAS QUE FUNDAMENTARAM A DECISÃO DO TRIBUNAL A QUO E DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 560.725/AM-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/5/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE nº 593.064/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 12/12/08).
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
