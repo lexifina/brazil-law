@@ -1,0 +1,10 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão do Tribunal de origem que negou seguimento ao recurso extraordinário.
+    O recurso extraordinário não pode ser provido, uma vez que não reúne as condições processuais para a sua admissibilidade.
+    A pretensão recursal não merece prosperar, tendo em vista que dissentir das conclusões adotadas demandaria tão somente o reexame dos fatos e provas, bem como o exame da legislação infraconstitucional pertinente à hipótese, a saber, o RICMS/RN, o que é vedado nesta via processual. Incide, na hipótese, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. Confira-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONVÊNIO ICMS 38/1989. BENEFÍCIO DE REDUÇÃO DA BASE DE CÁLCULO. DESCUMPRIMENTO DOS REQUISITOS INDISPENSÁVEIS AO GOZO DO BENEFÍCIO. CONSEQUÊNCIAS JURÍDICAS. MATÉRIA INFRACONSTITUCIONAL. RAZÕES DO RECURSO EXTRAORDINÁRIO CONVERGENTES COM A ORIENTAÇÃO FIXADA PELA DECISÃO IMPUGNADA. SÚMULA 284 DESTA CORTE. AGRAVO IMPROVIDO. I – O acórdão recorrido, ao definir quais as consequências jurídicas do descumprimento, pelo contribuinte, dos requisitos necessários ao gozo do benefício fiscal previsto no Convênio ICMS 38/1989, decidiu a questão com base na legislação ordinária aplicável à espécie. Dessa forma, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. II – Deficiente a fundamentação de recurso extraordinário cujas razões são convergentes com o entendimento fixado na decisão impugnada. Incide, na hipótese, a Súmula 284 desta Corte. III – Agravo regimental improvido”. (RE nº 609754 AgR / RS, Rel. Min. Ricardo Lewandowski)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
