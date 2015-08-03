@@ -1,0 +1,26 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituídas de repercussão geral as questões suscitadas no RE 611.505-RG/SC, Red. p/ o acórdão Min. RICARDO LEWANDOWSKI, e no RE 745.901-RG/PR, Rel. Min. TEORI ZAVASCKI, fazendo-o, respectivamente, em decisões assim ementadas:
+    “REPERCUSSÃO GERAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE VALORES PAGOS PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+    I – A discussão sobre a incidência, ou não, de contribuição previdenciária sobre valores pagos pelo empregador nos primeiros quinze dias de auxílio-doença situa-se em âmbito infraconstitucional, não havendo questão constitucional a ser apreciada.
+    II – Repercussão geral inexistente.”
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. AVISO PRÉVIO INDENIZADO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia relativa à incidência de contribuição previdenciária sobre as verbas pagas a título de aviso prévio indenizado, fundada na interpretação da Lei 8.212/91 e do Decreto 6.727/09, é de natureza infraconstitucional.
+    2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009).
+    3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento, no ponto, do recurso extraordinário.
+    De outro lado, no que se refere ao abono assiduidade convertido em pecúnia, a jurisprudência desta Suprema Corte firmou entendimento que desautoriza, no ponto, a pretensão deduzida no apelo extremo:
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ABONO ASSIDUIDADE. DISCUSSÃO QUANTO À NATUREZA JURÍDICA DO ABONO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 16.9.2011.
+    O Tribunal de origem decidiu em consonância com a jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido de que as contribuições previdenciárias não incidem sobre parcelas indenizatórias. Precedentes.
+    Divergir do entendimento do acórdão recorrido no tocante à natureza indenizatória do abono assiduidade, convertido em pecúnia, exigiria a prévia análise da legislação infraconstitucional aplicável à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal.
+    Agravo regimental conhecido e não provido.”
+    (ARE 808.632-AgR/MG, Rel. Min. ROSA WEBER)
+    Cabe registrar, finalmente, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 593.068- -RG/SC, Rel. Min. ROBERTO BARROSO, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “CONSTITUCIONAL. REPERCUSSÃO GERAL.
+    TRIBUTÁRIO. SERVIDOR PÚBLICO FEDERAL. REGIME PREVIDENCIÁRIO. CONTRIBUIÇÃO. BASE DE CÁLCULO. TERÇO CONSTITUCIONAL DE FÉRIAS. GRATIFICAÇÃO NATALINA (DÉCIMO-TERCEIRO SALÁRIO). HORAS EXTRAS. OUTROS PAGAMENTOS DE CARÁTER TRANSITÓRIO. LEIS 9.783/1999 E 10.887/2004.
+    CARACTERIZAÇÃO DOS VALORES COMO REMUNERAÇÃO (BASE DE CÁLCULO DO TRIBUTO). ACÓRDÃO QUE CONCLUI PELA PRESENÇA DE PROPÓSITO ATUARIAL NA INCLUSÃO DOS VALORES NA BASE DE CÁLCULO DO TRIBUTO (SOLIDARIEDADE DO SISTEMA DE CUSTEIO).
+    1. Recurso extraordinário em que se discute a exigibilidade da contribuição previdenciária incidente sobre adicionais e gratificações temporárias, tais como ‘terço de férias’, ‘serviços extraordinários’, ‘adicional noturno’, e ‘adicional de insalubridade’. Discussão sobre a caracterização dos valores como remuneração, e, portanto, insertos ou não na base de cálculo do tributo. Alegada impossibilidade de criação de fonte de custeio sem contrapartida de benefício direto ao contribuinte. Alcance do sistema previdenciário solidário e submetido ao equilíbrio atuarial e financeiro (arts. 40, 150, IV e 195, § 5º da Constituição).
+    2. Encaminhamento da questão pela existência de repercussão geral da matéria constitucional controvertida.”
+    Sendo assim, e tendo em consideração as razões expostas, conheço, em parte, do presente recurso extraordinário, para, nessa parte, i) negar-lhe provimento, no tocante ao abono assiduidade convertido em pecúnia, e ii) determinar a devolução dos presentes autos ao Tribunal de origem, para que, neste, seja observado o disposto no art. 543-B e respectivos parágrafos do CPC (Lei nº 11.418/2006), quanto ao Tema 163 – www.stf.jus.br – Jurisprudência – Repercussão Geral.
+    Publique-se.
+    Brasília, 03 de agosto de 2015.
+Ministro CELSO DE MELLO
+Relator
