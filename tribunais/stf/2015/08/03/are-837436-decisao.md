@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5°, XIII, e 170 da Constituição Federal.
+    Anote-se a ementa da decisão recorrida:
+    “DIREITO TRIBUTÁRIO. IMPOSTOS. ICMS. MANDADO DE SEGURANÇA. REGIME ESPECIAL DE FISCALIZAÇÃO.
+    Inconstitucionalidade da Lei n° 13.711/11.
+    Inocorrência. Incidente de inconstitucionalidade n° 70048229124 apreciado pelo TJRS. Compensação de crédito tributário com crédito decorrente de precatório. Ausência de direito líquido e certo.
+    Apelo desprovido.”.
+    Decido.
+    A irresignação não merece prosperar.
+    Observo que a análise da questão referente ao regime especial de fiscalização, demanda a prévia apreciação da causa à luz das normas infraconstitucionais aplicáveis à espécie, notadamente o Decreto Estadual nº 48.494/11 e a Lei Estadual nº 13.711/11, cujo reexame é vedado em sede de recurso extraordinário. Sobre o tema, destacam-se os seguintes julgados:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. REGIME ESPECIAL DE FISCALIZAÇÃO DE DEVEDOR CONTUMAZ. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE n° 805.558/RS-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/6/14).
+    “EMENTA: 1. Recurso extraordinário: descabimento: acórdão recorrido que se limitou a aplicar legislação que regulamenta o recolhimento do ICMS sob o regime de substituição tributária (RICMS), de natureza infraconstitucional: a alegada violação aos dispositivos constitucionais invocados seria, se ocorresse, reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636. 2. ICMS: regime especial de fiscalização: ausência de ofensa ao princípio da isonomia (CF, art. 5º, II) e à garantia constitucional da liberdade de trabalho (CF, art. 5º, XIII): não incidência, no caso, das Súmulas 70, 323 e 547, que versam sobre a proibição de restrições à atividade econômica como meio coercitivo de pagamento de tributos.” (RE n° 474.241/MG-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJe de 8/9/6).
+    Do mesmo modo, para acolher a pretensão do agravante e ultrapassar o entendimento do Tribunal de origem acerca da compensação entre tributos estaduais e créditos de precatórios, seria necessário o reexame da causa à luz da legislação infraconstitucional de regência, o que é vedado em sede de recurso extraordinário. Nesse sentido, anote-se:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. COMPENSAÇÃO DE TRIBUTO ESTADUAL COM CRÉDITO DE PRECATÓRIO EMITIDO PELO INSTITUTO DE PREVIDÊNCIA DO RIO GRANDE DO SUL. ACÓRDÃO RECORRIDO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE n° 752.366/RS-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, Dje 28/10/13).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. PRECATÓRIO. COMPENSAÇÃO. CRÉDITOS E DÉBITOS TITULARIZADOS POR ENTES DE NATUREZA DISTINTA. ESTADO E AUTARQUIA. AUSÊNCIA DE LEGISLAÇÃO AUTORIZATIVA. QUESTÃO DECIDIDA PELO TRIBUNAL A QUO À LUZ DA INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. NÃO CABIMENTO DO EXTRAORDINÁRIO. 1. A conclusão pela impossibilidade de compensação de créditos tributários de ICMS com precatórios devidos por ente jurídico de natureza distinta, ante a inexistência de lei autorizativa, constitui fundamento suficiente para a manutenção do acórdão e foi decidida à luz de interpretação de normas infraconstitucionais. A violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. 2. Precedentes específicos sobre a matéria, envolvendo precatórios emitidos contra o IPERGS. ARE 680.937, Rel. Min. Dias Toffoli, DJe de 04/06/2014 e ARE 715697-AgR, Rel. Min. Luiz Fux, DJe de 26/04/2013. 3. In casu, o acórdão recorrido extraordinariamente assentou: “PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. ANÁLISE. VEDAÇÃO. ICMS. COMPENSAÇÃO. PRECATÓRIO DEVIDO PELO IPERGS. CRÉDITO TRIBUTÁRIO DO ESTADO DO RIO GRANDE DO SUL. IMPOSSIBILIDADE DE COMPENSAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. 4. Agravo regimental DESPROVIDO.”
+(ARE n° 789.021/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 23/4/15).
+    No mesmo sentido, a seguinte decisão monocrática: ARE nº 736.781/RS, Segunda Turma, Relator o Ministro Teori Zavaski, DJe de 1º/4/14.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
