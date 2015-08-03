@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto em face de decisão de inadmissibilidade de recurso extraordinário que impugna acórdão proferido pelo Tribunal Regional Federa da 3ª Região nos autos da Apelação Criminal n. 0010284-46.2011.4.03.6181/SP, assim ementado (eDOC 4, p. 37-38):
+    “PROCESSUAL PENAL. PROCESSUAL CIVIL. AGRAVO LEGAL EM APELAÇÃO CRIMINAL EM EXCEÇÃO DE LITISPENDÊNCIA. DECISÃO MONOCRÁTICA. ART. 557 DO CPC. CABIMENTO. ART. 3º DO CPP. PRECEDENTES. BIS IN IDEM ENTRE AÇÕES PENAIS. INOCORRÊNCIA. PRINCÍPIO DO JUIZ NATURAL. NULIDADE DA DECISÃO MONOCRÁTICA. INOCORRÊNCIA. AGRAVO DESPROVIDO
+    1. Agravo interposto contra decisão monocrática do relator que, com fulcro no art. 557 do CPC c.c. art. 3º do CPP julgou improcedente o recurso de apelação interposto contra decisão do Juízo de Primeiro Grau que indeferiu exceção de litispendência.
+    2. Alegação de nulidade da decisão que decide monocraticamente o recurso pois não se enquadraria nas hipóteses do art. 557 do CPC, além de ferir o princípio do Juiz Natural e prejudicar a defesa técnica, por não possibilitar a realização de sustentação oral em sessão de julgamento. Inocorrência.
+    3. Conforme se extrai da decisão ora atacada, vê-se que ela foi proferida em razão da manifesta improcedência do apelo, fundado em jurisprudência dessa corte, estando, portanto, adequadamente em linha do que estabelece o art. 557 do CPC.
+    4. Não fere o princípio do juiz natural a decisão monocrática, pois prolator da decisão monocrática possui competência para apreciar o recurso, nos estritos termos da legislação vigente, que encontra fundamento no texto constitucional, de modo que não se pode tachar de nula a decisão proferida nos estritos limites da lei, como é a hipótese dos autos.
+    5. A decisão monocrática não viola do princípio da colegialidade, ainda que em matéria criminal, sendo certo que a irresignação poderá ser analisada pelo órgão coletivo com a interposição do respectivo agravo.
+    6. É da sistemática recursal vigente que a decisão monocrática proferida com fulcro no art. 557 do CPC inviabiliza a sustentação. Assim a sustentação oral não pode servir de empeço à aplicação da legislação que admite a resolução monocrática do recurso, como é a hipótese dos autos, sendo certo que a sustentação visa reafirmar o quanto já lançado nas razões recursais, não servindo para apresentar argumentos novos. Precedentes.
+    7. O agravante limita-se a pleitear a nulidade da decisão, sem contudo, impugnar os fundamentos que levaram à improcedência do recurso, o que seria de rigor.
+    8. Agravo a que se nega provimento.”
+    Opostos embargos de declaração, estes foram rejeitados (eDOC 4, p. 64-65).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido violou o art. 5º, incisos LIII, LIV e LV, da Constituição Federal (eDOC 4, p. 81-134).
+    O Tribunal a quo não admitiu tal irresignação por ausência de prequestionamento e por apontar ofensa reflexa ao Texto Constitucional (eDOC 5, p. 104-106).
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário.
+    É o relatório.
+    Decido.
+    De início, vale dizer que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013).
+    Nesse sentido, tal orientação deve ser aplicada no caso em comento, de modo a não conhecê-lo. Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nessa esteira, ainda, esta Corte Suprema já decidiu não existir matéria constitucional nas questões pertinentes ao cabimento de recursos dos outros tribunais, por se restringir à esfera de legislação infraconstitucional. Por oportuno, transcrevo a ementa:
+    PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608. (RE 598365 RG, Rel. Min. Ayres Britto, Dje 26.3.2010)
+    Por último, as próprias razões expedidas pelo recorrente apontam que o Tribunal Regional Federal, ao decidir a questão controvertida, ateve-se ao exame da legislação infraconstitucional. Portanto, a ofensa à Constituição, se existente, dar-se-ia de forma indireta ou reflexa. Inviável, portanto, o prosseguimento do presente recurso extraordinário, que não se presta a analisar legislação infraconstitucional, nos termos da uníssona jurisprudência desta Corte.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, inciso II, alínea b, do CPC).
+    Publique-se. Int..
+    Brasília, 3 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
