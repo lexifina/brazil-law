@@ -1,0 +1,10 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário.
+    A decisão agravada está correta e alinhada aos precedentes firmados por esta Corte. Confira-se:
+    “DIREITO TRIBUTÁRIO. IPI. CREDITAMENTO. AQUISIÇÃO DE BENS DESTINADOS AO ATIVO FIXO. IMPOSSIBILIDADE. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 28.3.2011. O entendimento adotado pela Corte de origem, nos moldes do que assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Entender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido”. (RE 759.794-AgR/CE, Rel.ª Min.ª Rosa Weber)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IPI. CREDITAMENTO. BENS DESTINADOS AO ATIVO FIXO. IMPOSSIBILIDADE. PRECEDENTES O critério constitucional da não cumulatividade adota o regime do crédito físico. Assim, somente gera direito a crédito a mercadoria associada, empregada ou integrada fisicamente no processo de industrialização ou comercialização. Para que seja reconhecido o crédito na hipótese, sob o regime financeiro, é imprescindível que haja previsão em legislação infraconstitucional. Não é o que se verifica na situação sob análise. Agravo regimental a que se nega provimento” (AI 848.516-AgR/PB, Rel. Min. Luís Roberto Barroso)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
