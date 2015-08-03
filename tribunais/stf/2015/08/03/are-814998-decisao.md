@@ -1,0 +1,16 @@
+Decisão:
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 155, inciso II e 156, inciso III, da Constituição Federal.
+    Anota-se a ementa da decisão recorrida:
+    “EXECUÇÃO FISCAL – Embargos – Desconstituição do título executivo, referente ao recolhimento de ICMS sobre atividade do serviços gráficos de forma personalizada sob encomenda – Cabimento – Incidência do ISS e não do ICMS – Precedentes do STF e do STJ – impossibilidade de cobrança pela Fazenda do Estado de tributo a que não faz jus – recursos desprovidos”.
+    Decido.
+    A irresignação merece prosperar.
+    O acórdão recorrido está dissonante da orientação da Corte, que, no julgamento da medida cautelar na Ação Direta de Inconstitucionalidade n° 4.389/DF, sob relatoria do Ministro Joaquim Barbosa, firmou o entendimento no sentido de que não incide ISS na operação de industrialização de embalagens submetidas à composição gráfica personalizada e encomendadas para posteriormente integrarem o complexo produtivo destinado a inserir bens em comércio. Colhe-se a ementa do referido julgado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONFLITO ENTRE IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA E IMPOSTO SOBRE OPERAÇÃO DE CIRCULAÇÃO DE MERCADORIAS E DE SERVIÇOS DE COMUNICAÇÃO E DE TRANSPORTE INTERMUNICIPAL E INTERESTADUAL. PRODUÇÃO DE EMBALAGENS SOB ENCOMENDA PARA POSTERIOR INDUSTRIALIZAÇÃO (SERVIÇOS GRÁFICOS). AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZADA PARA DAR INTERPRETAÇÃO CONFORME AO O ART. 1º, CAPUT E § 2º, DA LEI COMPLEMENTAR 116/2003 E O SUBITEM 13.05 DA LISTA DE SERVIÇOS ANEXA. FIXAÇÃO DA INCIDÊNCIA DO ICMS E NÃO DO ISS. MEDIDA CAUTELAR DEFERIDA. Até o julgamento final e com eficácia apenas para o futuro (ex nunc), concede-se medida cautelar para interpretar o art. 1º, caput e § 2º, da Lei Complementar 116/2003 e o subitem 13.05 da lista de serviços anexa, para reconhecer que o ISS não incide sobre operações de industrialização por encomenda de embalagens, destinadas à integração ou utilização direta em processo subseqüente de industrialização ou de circulação de mercadoria. Presentes os requisitos constitucionais e legais, incidirá o ICMS” (ADI n° 4.389/DF-MC, Tribunal Pleno, Relator o Ministro Joaquim Barbosa, DJe de 24/5/11 – Grifo nosso).
+    Na referida medida cautelar em ação direta o Tribunal concedeu a medida cautelar “para interpretar o art. 1º, caput e § 2º, da Lei Complementar 116/2003 e o subitem 13.05 da lista de serviços anexa, para reconhecer que o ISS não incide sobre operações de industrialização por encomenda de embalagens, destinadas à integração ou utilização direta em processo subseqüente de industrialização ou de circulação de mercadoria.”
+    Ante o exposto, firme nos critérios delineados pela mais atual jurisprudência deste Pretório Excelso, conheço do agravo e dou provimento ao recurso extraordinário para afastar a incidência do ISS à espécie, reconhecendo que a atividade desempenhada pela recorrida amolda-se à incidência de ICMS.
+    Ficam invertidos os ônus de sucumbência fixados na sentença de fls. 232/234.
+    Publique-se.
+    Brasília, 3 agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
