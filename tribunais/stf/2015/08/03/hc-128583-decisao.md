@@ -1,0 +1,35 @@
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS: CF, ART. 102, I, “D” E “I”. ROL TAXATIVO. NULIDADE. AUSÊNCIA DOS RÉUS NA AUDIÊNCIA DE INSTRUÇÃO. CONDENAÇÃO PELA PRÁTICA DO CRIME DE EXTORSÃO QUALIFICADA. ALEGADA VIOLAÇÃO DO CONTRADITÓRIO. ACÓRDÃO APONTADO COMO COATOR QUE ESTÁ EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. WRIT MANIFESTAMENTE INCABÍVEL. NEGADO SEGUIMENTO.
+1. A competência originária do Supremo Tribunal Federal para conhecer e julgar habeas corpus está definida, taxativamente, no artigo 102, inciso I, alíneas “d” e “i”, da Constituição Federal, sendo certo que a presente impetração não está arrolada em nenhuma das hipóteses sujeitas à jurisdição desta Corte.
+2. Inexiste, no caso, excepcionalidade que justifique a concessão, ex officio, da ordem, estando o acórdão impugnado em conformidade com a jurisprudência do Supremo Tribunal Federal.
+3. Writ a que se nega seguimento.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra o acórdão do Superior Tribunal de Justiça no HC 303.406, assim ementado:
+    “PROCESSUAL PENAL. PRETENSA NULIDADE. VIOLAÇÃO AO CONTRADITÓRIO. INOCORRÊNCIA. AUSÊNCIA DE ILEGALIDADE A SANAR.
+    1. Não há falar em nulidade por violação ao contraditório se os pacientes, apesar de não terem comparecido à audiência de instrução, em razão da revelia, foram representados por defensora nomeada. Ausência de ilegalidade a sanar nesta via.
+    2. Impetração não conhecida”
+    O Relatório do acórdão impugnado assim resumiu os fatos objeto da ação penal de origem:
+    “Depreende-se dos autos que os pacientes foram condenados, em primeiro grau de jurisdição, como incursos nos delitos previstos nos arts. 158, §1º, e 288, caput, ambos do Código Penal, sendo Luciene condenada às penas de 16 anos e 06 meses de reclusão, em regime fechado, e ao pagamento de 33 dias-multa, e Gaspar às penas de 19 anos e 09 meses de reclusão, em regime fechado, e ao pagamento de 37 dias-multa.
+    Inconformada, a defesa apelou, sendo dado provimento parcial ao recurso, para absolver os acusados da imputação referente ao crime de quadrilha, a teor do disposto no artigo 386, inciso VII, do Código de Processo Penal. Em relação ao crime de extorsão, o Tribunal reduziu as penas ao patamar de 10 (dez) anos de reclusão e pagamento de 25 (vinte e cinco) dias-multa, no piso legal, para a acusada Lucilene, e de 12 (doze) anos de reclusão, com pagamento de 30 dias-multa, no valor unitário mínimo, para o acusado Gaspar.
+    Daí o presente mandamus, no qual o impetrante alega que ‘o julgamento de segunda instância não obedeceu o referido no art. 366 do Código de Processo Penal e na Constituição Brasileira, quanto ao contraditório das provas antecipadas’.
+    Sustenta que ‘todas as provas e depoimentos que serviram para o convencimento dos desembargadores da 12ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo não passaram pelo contraditório’.
+    Argumenta que ‘todos os depoimentos colhidos no dia 31/01/2008, depoimentos esses usados para convencimento dos Desembargadores na sua sentença condenatória, não passaram pelo contraditório, nem os réus Gaspar e Luciene, bem como seus defensores, não se faziam presentes no dia da colheita das provas, nem mesmo foi nomeado defensor para os requerentes por aquele juízo’.
+    Defende que ‘numa breve leitura do acórdão, pode-se notar que os depoimentos ali constantes, que serviram para convencimento dos Julgadores são os mesmos colhidos no dia 31/01/2008, tanto sem contraditório’”.
+    No voto condutor, a Relatora, Ministra Maria Thereza de Assis Moura, afirmou que o pleito não merecia acolhida, “porquanto o acórdão do Tribunal de Justiça do Estado de São Paulo, proferido em declaratórios, é muito claro em afirmar não ter havido violação ao contraditório, pois os depoimentos referidos pela defesa, que teriam ocorrido em audiência no dia 31 de janeiro de 2008, teriam sido repetidos posteriormente, na instrução processual, até porque naquela época e no mesmo ato fora decretada a revelia dos pacientes, nos termos do art. 366 do Código de Processo Penal”.
+    O impetrante sustenta que teria havido equívoco do Superior Tribunal de Justiça no julgamento do writ de origem, “pois julgou possível nulidade da sentença quando, na verdade, os requerentes peticionaram pela absolvição”.
+    Argumenta que a condenação está alicerçada em depoimentos não submetidos ao contraditório.
+    Segundo o impetrante, embora o Tribunal de Justiça do Estado de São Paulo, ao manter a condenação dos pacientes, tenha afirmado que os depoimentos foram repetidos sob o crivo do contraditório, o acórdão que julgou a apelação somente fez referência aos depoimentos anteriores: “Lá só constam depoimentos do dia 31 de janeiro de 2008, não fazendo referência nenhuma aos depoimentos do dia 01 de abril de 2009”.
+    Pede que o processo seja suspenso liminarmente e, no mérito, que os pacientes sejam absolvidos.
+    É o relatório.
+    Decido.
+    O writ não merece seguimento.
+    O Supremo Tribunal Federal firmou entendimento de que o habeas corpus substitutivo do recurso ordinário previsto no art. 102, III, a, da Constituição não pode ser conhecido, por ausência de previsão constitucional de competência desta Corte.
+    Neste sentido: HC 110.055/MG, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 9/11/12; HC 106.158/MG, Rel. Min. Dias Toffoli, Primeira Turma, DJe 9/8/2013; HC 113.805/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 15/4/2013; HC 118.981/MT, Rel. Min. Rosa Weber, Primeira Turma, DJe 19/11/2013, dentre outros.
+    Ademais, quanto ao pedido de absolvição dos pacientes, é manifesto seu descabimento, pois pretende submeter ao Supremo Tribunal Federal a análise de fatos e provas produzidos na ação penal de origem, por inadequação da via, conforme dispõem os artigos 648 e 649 do Código de Processo Penal e a jurisprudência sedimentada desta Corte.
+    In casu, alegação de que o Tribunal de Justiça do Estado de São Paulo somente se baseou em depoimentos não submetidos ao contraditório está em contraste com a afirmação daquela mesma Corte Estadual, segundo a qual os mencionados depoimentos foram repetidos sob o crivo do contraditório, confirmando a prova inicialmente colhida, em audiência na qual, embora ausentes os réus, estava presente sua defensora.
+    O reconhecimento de erro material na referência às folhas de que constam os depoimentos não configura qualquer violação de direitos dos pacientes, pois não alterou o resultado do julgamento proferido pela Corte Estadual.
+    Por não ter ficado demonstrado qualquer abuso ou constrangimento ilegal contra a liberdade dos pacientes, praticado pelas instâncias inferiores, o writ é incognoscível.
+    Ex positis, nos termos do art. 21, §1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao writ.
+    Publique-se. Intime-se o Ministério Público Federal. Arquive-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
