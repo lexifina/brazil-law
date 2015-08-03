@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 150, VI, “a”, da Constituição Federal.
+    Insurge-se contra decisão assim ementada, na parte que interessa:
+    “ILEGITIMIIDADE AD CAUSAM - ATIVA - Execução Fiscal - IPTU - Inocorrência - Condição do promitente-vendedor do imóvel de sujeito passivo do tributo, concorrentemente com o promissário-comprador, segundo a legislação municipal – Súmula n° 399 do STJ – Recurso não provido”.
+    Decido.
+    A irresignação não merece êxito.
+    Verifico que a instância de origem assim decidiu sobre a alegada existência de imunidade tributária:
+     “Quanto ao pretendido reconhecimento da imunidade, não se desincumbiu a ora apelante de deduzir tal a matéria com os embargos, incidindo a arguição respectiva, inserta nas razões, portanto, em inadmissível inovação. Não cabe à Superior Instância, assim, contemplar a questão, até porque, não se pronunciando sobre a mesma o Juízo de 1° Grau, isso implicaria em indevida supressão de um grau de jurisdição” (Fls. 125/126).
+    Desse modo, não merece prosperar o presente recurso, haja vista que as alegações de incidência de imunidade tributária e dos enunciados das Súmulas n°s 583 e 724 do STF não foram prequestionadas. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte. Nesse sentido, anote-se:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. JUIZADOS ESPECIAIS. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n° 831.788/RJ-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 29/10/14).
+    “1. RECURSO - PREQUESTIONAMENTO. O prequestionamento não exsurge de mera referencia a matéria versada no relatorio do acórdão impugnado. Diz-se prequestionado determinado tema quando o Órgão julgador haja emitido juízo explicito a respeito de forma clara, porquanto o conhecimento do recurso não pode ficar ao sabor da capacidade intuitiva dos integrantes do Órgão, muito menos deve alicercar-se na presunção do extraordinário - de decisão implicita contra expresso dispositivo legal. 2. INCONSTITUCIONALIDADE - AUSÊNCIA DE EXAME. Não consubstancia violência ao inciso XXXV do artigo 5. da Constituição Federal decisão mediante a qual se conclui pela impossibilidade de apreciar-se a pecha em face ao meio utilizado na imputação, como ocorre, por exemplo, quando a Corte de origem assenta que as informações prestadas, no mandado de segurança, não contemplam a oportunidade” (RE n° 175.505/SP-AgR, Segunda Turma, Relator o Ministro Marco Aurélio, DJ de 12/5/95).
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS STF 282 E 356. 1. Não tendo sido apreciadas, pela instância a quo, as questões constitucionais em que se apoia o extraordinário, é imprescindível a oposição de embargos de declaração para suprir o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o "prequestionamento implícito" da questão constitucional. AI 413.963-AgR/SC, rel. Min. Celso de Mello, DJ 1º.04.2005. 3. Não há negativa de prestação jurisdicional quando a parte recorrente opta por não atacar o fundamento infraconstitucional, arrastando para si a preclusão temporal para viabilizar, em tese, a sua pretensão. 4. Agravo regimental improvido” (RE n° 353.514/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 1°/10/10).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
