@@ -1,0 +1,31 @@
+DECISÃO:
+Ementa: DIREITO ADMINISTRATIVO. AÇÃO RESCISÓRIA. AÇÃO DE ORIGEM QUE NÃO TEM O MÉRITO APRECIADO PELO STF. INCOMPETÊNCIA DO TRIBUNAL.
+1. A competência originária do STF para examinar ações rescisórias somente se materializa quando o julgado proferido pela Corte tiver conteúdo de mérito.
+2. No caso, a única manifestação proferida pelo STF na ação de origem limitou-se a negar seguimento ao recurso extraordinário interposto pelo ora autor, por ausência de preliminar formal e fundamentada de repercussão geral.
+3. Ação rescisória a que se nega seguimento.
+    1. Trata-se de ação rescisória que impugna decisão proferida no RE 617.046, pelo então presidente do Tribunal, Min. Cezar Peluso, negando seguimento ao recurso extraordinário interposto pelo ora autor. Transcrevo a decisão, proferida em 26.05.2011 e publicada em 07.06.2011:
+    “1. Trata-se de recurso extraordinário contra acórdão do Tribunal a quo.
+    2. Incognoscível o recurso.
+    Verifico na cópia da petição de recurso extraordinário a ausência de apresentação de preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC, de modo que o recurso não pode ser admitido, como já o reconheceu o Plenário desta Corte, no julgamento da Questão de Ordem no AI nº 664.567 (Rel. Min. SEPÚLVEDA PERTENCE, DJ de 6.9.2007):
+    ‘(...)
+    49. Esse o quadro, resolvo a questão de ordem para concluir:
+    a) que é de exigir-se a demonstração da repercussão geral das questões constitucionais discutidas em qualquer recurso extraordinário, incluído o criminal;
+    b) que a verificação da existência na petição do RE de ‘preliminar formal e fundamentada de repercussão geral’ (C.Pr.Civil, art. 543-A, § 2º; RISTF, art. 327) das questões constitucionais discutidas pode fazer-se tanto na origem quanto no Supremo Tribunal Federal, cabendo exclusivamente a este Tribunal, somente, a decisão sobre a efetiva existência da repercussão geral;
+    c) que só se aplica a exigência da repercussão geral a partir do dia 3 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007.
+    (...)’.
+    3. Ante o exposto, nego seguimento ao recurso (arts. 13, V, c e 327, do RISTF)”.
+    2. O autor alega que, após o trânsito em julgado, teve acesso a documentos novos (cf. art. 485, VII, do CPC), que comprovariam o direito pleiteado na ação de origem, à “promoção com proventos ao posto de Capitão-de-Fragata com proventos de Capitão-de-Mar-e-Guerra do Quadro de Oficiais Auxiliares da Armada, com base no que dispõe o art. 8º do ADCT c/c o art. 6º da Lei 10.559/2002” (fls. 01). São indicados, nesse sentido, documentos internos da Marinha, que disciplinariam a concessão de anistia em termos supostamente favoráveis ao autor. Além disso, sustenta que, também após o trânsito em julgado, o Supremo Tribunal Federal teria modificado sua jurisprudência quanto ao art. 8º do ADCT, passando a adotar orientação diversa da seguida no caso de origem desta rescisória. A hipótese se amoldaria, portanto, também ao inciso V do art. 485 do CPC, que possibilita a rescisão de decisões judiciais em caso de ofensa a literal disposição de lei. Ressalta que, por se cuidar de preceito constitucional, a violação ocorreria independentemente de sua interpretação ser controvertida à época em que proferido o julgado rescindendo, em exceção, assim, ao previsto na Súmula 343/STF.
+    3. A União defende a improcedência do pedido rescisório, por considerar que os documentos indicados pelo autor não são novos e que tampouco pode se ter como violado o art. 8º do ADCT.  Na eventualidade de se ultrapassar a etapa de anulação do julgado, pugna fosse mantida a orientação adotada na ação de origem, negando-se, assim, a pretensão final visada pelo autor.
+    4. As partes apresentaram alegações finais, reiterando suas manifestações anteriores.
+    5. A PGR opinou pela inadmissibilidade da ação rescisória, uma vez que a decisão proferida por esta Corte não adentrou no mérito da causa.
+    6. É o relatório. Decido.
+    7. Conforme apontado pela PGR, a ação rescisória não é de competência desta Corte, uma vez que a única decisão proferida pelo Tribunal nos autos da ação originária limitou-se a apreciar questões formais, atinentes ao cabimento de recurso extraordinário. Não houve, portanto, exame do mérito da controvérsia pelo STF, afastando-se, em consequência, a incidência do art. 102, I, j, da CF/1988, ao caso.
+    8. Corroborando esse entendimento, confiram-se os seguintes julgados:
+    “AÇÃO RESCISÓRIA – DECISÃO RESCINDENDA QUE NÃO APRECIA O MÉRITO DA CONTROVÉRSIA – EXAME DE QUESTÕES EMINENTEMENTE FORMAIS – MATÉRIA DE FUNDO QUE SEQUER CONSTITUIU OBJETO DE APRECIAÇÃO PELO JULGADO RESCINDENDO – AUSÊNCIA DE COMPETÊNCIA DESTA SUPREMA CORTE – AGRAVO REGIMENTAL IMPROVIDO. - O Supremo Tribunal Federal apenas dispõe de competência originária para processar e julgar a  ações rescisórias, quando estas forem promovidas contra decisões que, emanadas desta Corte, hajam efetivamente examinado a questão constitucional controvertida, situação inocorrente na espécie.” (AR 2073 AgR, Rel. Min. Celso de Mello, j. 28.05.2014)
+    “Agravo regimental em ação rescisória. Não conhecimento da ação Ausência de análise de mérito na decisão rescindenda. Incompetência do Supremo Tribunal Federal. Agravo parcialmente provido para determinar a remessa dos autos ao juízo competente. 1. Para o conhecimento de ação rescisória no Supremo Tribunal, é imprescindível que a decisão que se pretende rescindir tenha versado sobre o mérito da divergência, nos termos do art. 485 do Código de Processo Civil. Inteligência da Súmula STF nº 249. No acórdão, não se enfrentou a questão de fundo, não se sujeitando ele, portanto, à rescisão. Incompetência da Corte para processar e julgar a ação rescisória. 2. Agravo parcialmente provido tão somente para determinar a remessa dos autos ao juízo competente. Precedentes: AR nº 2.299/DF e nº 2.334/SP.” (AR 2320 AgR, Rel. Min. Dias Toffoli, j. 12.02.2015
+    9. Diante do exposto, não conheço da ação rescisória, extinguindo-a nos termos do art. 267 do CPC. Condeno o autor ao pagamento da verba honorária, arbitrada em 10% do valor da causa.
+    Arquivem-se os autos.
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
