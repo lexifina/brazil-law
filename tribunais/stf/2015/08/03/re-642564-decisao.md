@@ -1,0 +1,18 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO EM MANDADO DE SEGURANÇA. TRIBUTÁRIO. SUSPENSÃO DA EXIGIBILIDADE DE CRÉDITO FAZENDÁRIO. ICMS INCIDENTE SOBRE A COMPRA DE ÓLEO BÁSICO ADQUIRIDO DA REDUC, PARA FABRICAÇÃO DE LUBRIFICANTES. PLEITO DE APLICAÇÃO DA RESOLUÇÃO 2900/98. OPERAÇÕES ANTERIORES À VIGÊNCIA DAQUELA RESOLUÇÃO. DENEGAÇÃO DA SEGURANÇA. IRRESIGNAÇÃO DA IMPRETRANTE SUSTENTADA EM RAZÕES JÁ AMPLAMENTE DEBATIDAS NA DECISÃO DE 1º GRAU, COM ACERTO, E DENTRO DO MELHOR DIREITO. PARECERES CATEGÓRICOS DO MP. DESPROVIMENTO DO RECURSO”
+    O recurso extraordinário não pode ser provido, uma vez que não reúne as condições processuais para a sua admissibilidade, porquanto para dissentir das conclusões adotadas pelo Tribunal de origem será necessário o reexame de fatos e provas, bem como o exame de legislação infraconstitucional, a saber, a Resolução nº 2900. Confira-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. LUBRIFICANTES E COMBUSTÍVEIS LÍQUIDOS E GASOSOS, DERIVADOS DO PETRÓLEO. OPERAÇÕES INTERESTADUAIS. IMUNIDADE DO ARTIGO 155, § 2º, X, B, DA CONSTITUIÇÃO DO BRASIL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O acórdão recorrido está em consonância com a jurisprudência do Supremo Tribunal Federal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”. (AI nº 749.431-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 9.10.2009)
+    Ainda que se pudesse superar a ausência dos pressupostos processuais de cabimento do recurso, as razões aduzidas pelo recorrente conflitam com a jurisprudência do Supremo Tribunal Federal. Nesse sentido:
+    “TRIBUTÁRIO. ICMS. LUBRIFICANTES E COMBUSTÍVEIS LÍQUIDOS E GASOSOS, DERIVADOS DO PETRÓLEO. OPERAÇÕES INTERESTADUAIS. IMUNIDADE DO ART. 155, § 2º, X, B, DA CONSTITUIÇÃO FEDERAL.
+    Benefício fiscal que não foi instituído em prol do consumidor, mas do Estado de destino dos produtos em causa, ao qual caberá, em sua totalidade, o ICMS sobre eles incidente, desde a remessa até o consumo. Conseqüente descabimento das teses da imunidade e da inconstitucionalidade dos textos legais, com que a empresa consumidora dos produtos em causa pretendeu obviar, no caso, a exigência tributária do Estado de São Paulo.
+    Recurso conhecido, mas desprovido. (RE 198.088, Rel. Min. Ilmar Galvão)
+    “SUBSTITUIÇÃO TRIBUTÁRIA. COMBUSTÍVEL E OUTROS DERIVADOS DE PETRÓLEO. LEGITIMIDADE. PRECEDENTES.
+    A legitimidade do regime de recolhimento do ICMS por substituição tributária foi afirmada pelo Supremo Tribunal Federal, no RE 213.396, de minha relatoria. Entendimento reiterado nos REs 220.308, Relator Ministro Marco Aurélio, e 216.867, Relator Ministro Moreira Alves, entre outros.
+    A imunidade ou hipótese de não-incidência contemplada na alínea "b" do inc. X do § 2.º do art. 155 restringe-se ao Estado de origem, não abrangendo o Estado de destino da mercadoria, onde são tributadas todas as operações que compõem o ciclo econômico por que passam os produtos, independentemente de se tratar de consumidor final ou intermediário. Entendimento adotado no julgamento do RE 198.088, de que fui relator. No mesmo sentido, o RE 227.466-AgR, Relator Ministro Sepúlveda Pertence, o RE 272.127-AgR, Relatora Ministra Ellen Gracie, e o RE 201.703, Relator Ministro Moreira Alves.
+    Agravo regimental desprovido.” (RE 190.992-AgR, Rel. Min. Ilmar Galvão, Primeira Turma)
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
