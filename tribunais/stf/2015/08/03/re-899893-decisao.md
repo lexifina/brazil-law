@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Roberto Pereira interpõe recurso extraordinário contra acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CÍVEL. RECURSO ADESIVO. SERVIDOR PÚBLICO. ABONO FAMILIAR. DMAE. LEI COMPLEMENTAR Nº 133/85. TETO PARA A CONCESSÃO DO BENEFÍCIO. DECRETO Nº 13.394/2001 E LEI COMPLEMENTAR Nº 478/2002.
+    1. Inconformidade adesiva não conhecida por falta de interesse recursal.
+    2. A Emenda Constitucional nº 20/98 não revogou o direito ao abono familiar conferido pela Lei Complementar Municipal nº 133/85 anteriormente à sua vigência, devidamente amparado pela Constituição da República. Somente com a entrada em vigor do Decreto nº 13.394/2001 e, posteriormente, da LCM nº 478/2002 é que restou estabelecido, no Município de Porto Alegre, o teto para a concessão do benefício.
+    3. No caso dos autos, considerando que todas as parcelas anteriores a 13/07/2002 estão prescritas, face à prescrição qüinqüenal e que os contracheques do servidor indicam a percepção de vantagens em montante superior ao definido no Decreto nº 13.394/2001 e, posteriormente, na LCM nº 478/2002, revela-se inviável a manutenção do benefício, sob pena de afronta ao princípio da legalidade (art. 37, caput, da CF/88).
+    4. Sentença de improcedência na origem.
+    RECURSO ADESIVO NÃO CONHECIDO.
+    APELAÇÃO DESPROVIDA.”
+    No recurso extraordinário sustenta-se violação dos artigos 1°, inciso III, 5º, inciso XXXVI, 7°, inciso XII, 39, parágrafo 3°, e 60, parágrafo 4°, inciso IV, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    Com exceção do artigo 7º, inciso XII, da Constituição Federal, os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas na legislação local pertinente (Leis Complementares Municipais n°s 133/1985 e 478/2002). Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Sobre o tema:
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SALÁRIO-FAMÍLIA. PREENCHIMENTO DE REQUISITOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n° 840.720/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 16/5/11).
+     “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: MUNICÍPIO DE PORTO ALEGRE. ABONO FAMILIAR: SUPRESSÃO. LEI MUNICIPAL 133/85: Súmula 280-STF I. - Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. No caso, o acórdão assenta-se em interpretação de lei local. Incidência da Súmula 280-STF. II. - Agravo não provido” (RE n° 385.946/RS-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 14/10/05).
+    Seguindo essa orientação, anotem-se as seguintes decisões monocráticas: RE nº 635.205/RS, Relator o Ministro Luiz Fux, DJe de 16/8/11; RE nº 675.133/RS, Relatora a Ministra Cármen Lúcia, DJe de 26/3/12; e AI nº 841.353/RS, Relator o Ministro Cezar Peluso, DJe de 13/8/12.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
