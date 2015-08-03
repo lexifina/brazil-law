@@ -1,0 +1,16 @@
+Decisão:
+ementa: Processual Penal. Habeas Corpus. Súmula 691/STF. Prisão preventiva. contrariedade à jurisprudência do Supremo Tribunal Federal. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão do Ministro Francisco Falcão, que indeferiu a cautelar requerida nos autos do HC 329.011, em trâmite no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante em 23.04.15, acusado de guardar, para posterior comercialização a terceiros, 27 (vinte e sete) gramas de maconha. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de Goiás. Denegada a ordem, sobreveio nova impetração no Superior Tribunal de Justiça. O Ministro Francisco Falcão, no exercício da Presidência daquela Corte, indeferiu a medida cautelar.
+    4. Neste habeas corpus, sustenta-se a ausência dos requisitos necessários à decretação da custódia e requer-se a revogação da prisão.
+    Decido.
+    5. Inicialmente ressalto que o Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    6. Na hipótese de que se trata, a ordem deve ser concedida de ofício. O decreto de prisão preventiva não apontou elementos individualizados que evidenciem a necessidade da custódia processual e o risco efetivo de reiteração delitiva pelo ora paciente. Trata-se de decisão genérica, fundada na gravidade abstrata do delito de tráfico de drogas supostamente cometido. De modo que prender preventivamente pelo tráfico de pequena quantidade de droga é contraproducente do ponto de vista da política criminal, notadamente porque a maconha não é dotada da mesma potencialidade lesiva de outras substâncias entorpecentes, na medida em que - a despeito de razoável grau de controvérsia sobre o tipo de dano que ela causa ao usuário - não é uma droga que torne o indivíduo que a consome socialmente perigoso.
+    7. Nessas condições, incide a jurisprudência do Supremo Tribunal Federal no sentido de que a prisão cautelar exige a demonstração, empiricamente motivada, dos requisitos previstos no art. 312 do Código de Processo Penal (Cf. HC 109.449, Rel. Min. Marco Aurélio; e HC 115.623, Rel. Min. Rosa Weber).
+    8. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, não conheço do habeas corpus. Contudo, concedo a ordem de ofício para assegurar ao paciente o direito de responder aos termos do processo-crime em liberdade, ressalvada a necessidade de expedição de nova ordem de prisão por fundamentação idônea. Faculta-se ao Juízo de origem a imposição de medidas cautelares diversas da prisão (art. 319 do CPP), caso entenda necessário.”
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
