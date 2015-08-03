@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5°, XXXV, 18, caput, 29, caput, e 156, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    A jurisprudência da Corte é pacífica no sentido de ser inconstitucional lei municipal que tenha estabelecido, antes da Emenda Constitucional nº 29/2000, alíquotas progressivas, salvo se destinadas a assegurar o cumprimento da função social da propriedade urbana (Súmula nº 668/STF), o que não se verifica no caso por expressa previsão de progressividade na própria Lei Municipal nº 1.206/91.
+    Esse entendimento foi reafirmado pelo Plenário desta Corte quando da apreciação da Questão de Ordem suscitada no Agravo de Instrumento nº 712.743/SP, em 12/3/09, Relatora a Ministra Ellen Gracie, ocasião em que ficou assentada a existência de repercussão geral do tema e foi reafirmada a orientação jurisprudencial já firmada neste Tribunal. O referido julgado restou assim ementado:
+     “QUESTÃO DE ORDEM. AGRAVO DE INSTRUMENTO. CONVERSÃO EM RECURSO EXTRAORDINÁRIO (CPC, ART. 544, PARÁGRAFOS 3º E 4º). IPTU. INCIDÊNCIA DE ALÍQUOTAS PROGRESSIVAS ATÉ A EC 29/2000. RELEVÂNCIA ECONÔMICA, SOCIAL E JURÍDICA DA CONTROVÉRSIA. RECONHECIMENTO DA EXISTÊNCIA DE REPERCUSSÃO GERAL DA QUESTÃO DEDUZIDA NO APELO EXTREMO INTERPOSTO. PRECEDENTES DESTA CORTE A RESPEITO DA INCONSTITUCIONALIDADE DA COBRANÇA PROGRESSIVA DO IPTU ANTES DA CITADA EMENDA. SÚMULA 668 DESTE TRIBUNAL. RATIFICAÇÃO DO ENTENDIMENTO. POSSIBILIDADE DE APLICAÇÃO DOS PROCEDIMENTOS DA REPERCUSSÃO GERAL (CPC, ART. 543-B). 1. Mostram-se atendidos todos os pressupostos de admissibilidade, inclusive quanto à formal e expressa defesa pela repercussão geral da matéria submetida a esta Corte Suprema. Da mesma forma, o instrumento formado traz consigo todos os subsídios necessários ao perfeito exame do mérito da controvérsia. Conveniência da conversão dos autos em recurso extraordinário. 2. A cobrança progressiva de IPTU antes da EC 29/2000 – assunto de indiscutível relevância econômica, social e jurídica – já teve a sua inconstitucionalidade reconhecida por esta Corte, tendo sido, inclusive, editada a Súmula 668 deste Tribunal. 3. Ratificado o entendimento firmado por este Supremo Tribunal Federal, aplicam-se aos recursos extraordinários os mecanismos previstos no parágrafo 1º do art. 543-B, do CPC. 4. Questão de ordem resolvida, com a conversão do agravo de instrumento em recurso extraordinário, o reconhecimento da existência da repercussão geral da questão constitucional nele discutida, bem como ratificada a jurisprudência desta Corte a respeito da matéria, a fim de possibilitar a aplicação do art. 543-B, do CPC” (Grifo nosso).
+    No mesmo sentido, as seguintes decisões: RE n° 484.278/SE – AgR, Relatora a Ministra Cármen Lúcia, DJe de 19/18/11; RE n° 471.223/SE – AgR, Relatora a Ministra Cármen Lúcia, DJe de 09/02/10.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
