@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo nos próprios autos, interposto por Cláudio Roberto Nunes Golgo, em face de decisão de inadmissibilidade de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que recebeu a denúncia dos autos da Ação Penal n. 70032984528, nos termos da ementa a seguir (eDOC 17, p. 49):
+    “PROCESSO-CRIME. PREFEITO MUNICIPAL. Art. 1º, inciso I, do Decreto-lei nº 201/67. Narrativa clara de crime, em tese, com sinalização probatória inicial. Indispensável a instrução processual para exame mais fundo da prova e verificação exaustiva das teses defensivas. Denúncia recebida. Unânime”
+    Opostos embargos de declaração, estes foram rejeitados (eDOC 17, p. 73).
+    Novos embargos de declaração foram opostos, e também rejeitados (eDOC 18, p. 18).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido viola o art. 5º, incisos XXXV e LV, da Constituição Federal de 1988 (eDOC 18, p. 67-86/eDOC 19, p. 1-3).
+    O Tribunal a quo não admitiu o extraordinário por ausência de fundamentação na preliminar de repercussão geral, por trazer alegação de ofensa reflexa à Constituição Federal e pela incidência do enunciado 284 da Súmula do STF. (eDOC 19, p. 25-35).
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa as teses expostas no recurso extraordinário, refutando os fundamentos da decisão recorrida.
+    É o relatório.
+    Decido.
+    Inicialmente, vale dizer que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013). Nesse sentido, tal orientação deve ser aplicada no caso em comento, de modo a não conhecê-lo.
+    Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, como é cediço, o artigo 41 do Código de Processo Penal afirma serem necessários apenas indícios mínimos de autoria e de materialidade do delito para que se proceda à denúncia do acusado, sendo prescindível acervo probatório capaz de subsidiar um juízo de certeza, reservado para um eventual decreto condenatório.
+    Assim, não comprovada, de plano, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência absoluta de indícios de autoria e materialidade, torna-se indispensável a continuidade da persecução criminal. Precedentes: HC 93.224/SP, rel. Min. Eros Grau, 2ª Turma, DJ 5.9.2008; HC 91.603/DF, rel. Min. Ellen Gracie, 2ª Turma, DJ 26.9.2008; HC 98.631/BA, rel. Min. Carlos Britto, 1ª Turma, DJ 1º.7.2009; e HC 95.761/PE, rel. Min. Joaquim Barbosa, 2ª Turma, DJ 18.9.2009.
+    Dessa forma, e conforme se extrai dos autos, não há que se falar em irregularidade procedimental, tampouco em ofensa ao art. 5º, incisos XXXV e LV, do texto constitucional, porquanto materializada a conduta e devidamente motivada a sua harmonização ao tipo penal.
+    Nesse passo, para se entender de forma diversa do consubstanciado nos autos, seria necessária a reanálise da instrução probatória, providência vedada no âmbito do recurso extraordinário, tendo em vista o disposto no enunciado 279 da Súmula do STF.
+    Por último, conclui-se que o Tribunal de Justiça estadual, ao receber a denúncia contra o recorrente, ateve-se ao exame da legislação penal (material e processual) infraconstitucional. Portanto, a ofensa à Constituição, se existente, dar-se-ia de forma indireta ou reflexa. Inviável, portanto, o prosseguimento do presente recurso extraordinário, que não se presta a analisar legislação infraconstitucional, nos termos da uníssona jurisprudência desta Corte.
+    Ressalto que, na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação ou violação à inafastabilidade jurisdicional.
+    Ante o exposto, conheço do presente agravo e nego-lhe provimento (art. 544, § 4º, inc. II, alínea a, do CPC).
+    Publique-se. Int..
+    Brasília, 3 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
