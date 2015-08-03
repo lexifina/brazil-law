@@ -1,0 +1,63 @@
+DECISÃO
+    Vistos.
+    Na data de 1º/2/13, proferi despacho determinando o sobrestamento do feito até a conclusão do julgamento da ADI nº 1.542/MS, na qual se discutia a constitucionalidade do artigo 117, §§ 1º e 2º, da Lei Complementar Estadual nº 53/90.
+    Posteriormente, em 15/3/13, o relator, Ministro Luiz Fux, julgou prejudicada a referida ação direta de inconstitucionalidade, uma vez que o artigo 117 da Lei Complementar nº 53/90 foi revogado pelo artigo 4º da Lei Complementar nº 123/07. Essa decisão foi publicada em 20/3/13.
+    Destarte, passo ao exame do agravo de instrumento.
+    Trata-se de agravo interposto contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXV, XLV, LIV e LV, 42, § 1º, 93, inciso IX, e 142, § 3º, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quinta Turma Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+    “AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - BENEFÍCIO PREVIDENCIÁRIO - POLICIAL MILITAR EXCLUÍDO DA CORPORAÇÃO - IMPROVIMENTO.
+    O ordenamento não admite a concessão de aposentadoria antecipada ao policial militar punido com a severa demissão a bem do serviço público, sendo ilegal a disposição contida no art. 117, § 1°, da Lei Complementar nº 53/90, por implicar privilégio não concedido ao pessoal das forças armadas (arts. 24 do Decreto-Lei 667/69 e 62 da Lei 6.880/80), consoante precedente do STF.”
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Compulsando os autos, verifica-se que o policial militar foi excluído da Corporação em 5/10/07, data anterior à revogação do artigo 117 da Lei Complementar Estadual nº 53/93, que ocorreu em 20/12/07, razão pela qual não há falar na prejudicialidade do apelo extremo por perda de objeto, uma vez que norma revogada estava em pleno vigor à data da exclusão.
+    A irresignação merece prosperar, haja vista que o acórdão recorrido se afastou da orientação jurisprudencial deste Supremo Tribunal Federal sobre o tema em questão.
+    Com efeito, a Segunda Turma desta Corte, no julgamento do RE nº 610.290/MS, Relator o Ministro Ricardo Lewandowski (DJe de 15/8/13), reconheceu a constitucionalidade do artigo 117 da Lei Complementar Estadual nº 53/90. O acórdão desse julgado restou assim ementado:
+    “RECURSO EXTRAORDINÁRIO. ART. 117 DA LEI COMPLEMENTAR ESTADUAL 53/1990. BENEFÍCIO PREVIDENCIÁRIO INSTITUÍDO AOS DEPENDENTES DE POLICIAL MILITAR EXCLUÍDO DA CORPORAÇÃO. CONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO IMPROVIDO.
+    I – Compete aos Estados-membros dispor sobre os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, inclusive quanto aos direitos previdenciários.
+    II – O benefício previdenciário instituído em favor dos dependentes de policial militar excluído da corporação representa uma contraprestação às contribuições previdenciárias pagas durante o período efetivamente trabalhado.
+    III – Recurso extraordinário ao qual se nega provimento, assentando-se a constitucionalidade do art. 117 da Lei Complementar Estadual 53/1990”.
+    Seguindo essa orientação, transcrevo o teor da decisão proferida pela Ministra Cármen Lúcia, em caso similar ao presente, nos autos do ARE nº 629.172/MS-AgR (DJe de 29/4/14), que bem aborda a questão:
+“AGRAVO DE INSTRUMENTO. ART. 117 DA LEI COMPLEMENTAR N. ESTADUAL 53/1990. BENEFÍCIO PREVIDENCIÁRIO INSTITUÍDO AOS DEPENDENTES DE POLICIAL MILITAR EXCLUÍDO DA CORPORAÇÃO. CONSTITUCIONALIDADE. PRECEDENTES. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+    1. Em 26.5.2009, neguei seguimento ao agravo de instrumento interposto por Cristiane da Silva Campos Arruda, contra julgado do Tribunal de Justiça de Mato Grosso do Sul, pelo qual se indeferiu pedido de recebimento de pensão por morte, na qualidade de dependente de policial militar excluído da Corporação. É a seguinte a decisão agravada:
+    ‘(...) 5. Razão jurídica não assiste aos Agravantes.
+    6. O Tribunal a quo decidiu a controvérsia com base na interpretação e na aplicação da legislação estadual – Lei Complementar n. 53/90. Para se concluir de forma diversa, seria necessária a análise dessa norma, o que não viabiliza o processamento válido do recurso extraordinário. Incide, na espécie, a Súmula 280 do Supremo Tribunal.
+    Nesse sentido:
+    EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PROMOÇÃO. LEI COMPLEMENTAR ESTADUAL N. 53/90. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (RE 473.602-AgR, de minha relatoria, DJ 13.3.2009).
+    EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento (AI 562,165-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 9.6.2006).
+    7. A decisão agravada, embasada nos dados constantes do acórdão recorrido, não divergiu da jurisprudência do Supremo Tribunal, pelo que nada há a prover quanto às alegações dos Agravantes.
+    8 . Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).’
+    2. Publicada essa decisão no DJe de 4.6.2009, interpõe Cristiane da Silva Campos Arruda, tempestivamente, em 8.6.2009, Agravo Regimental.
+    3. Alega a Agravante que ‘(...) o Estado detém competência legiferante para dispor em lei sobre o tema combatido, qual seja, estabelecer os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, consideraras as peculiaridades de suas atividades’.
+    Requer a reconsideração da decisão agravada ou o provimento do recurso.
+    4. Em 2.2.2010, determinei o sobrestamento do feito até o julgamento da ADI n. 1.542/MS.
+    5. Em 12.11.2011, a Procuradoria Geral da República opinou pela constitucionalidade do artigo 117 da Lei Complementar estadual n. 53/1990, assentando que, com a Emenda Constitucional n. 20/1998, passou a ser competência dos Estados-membros legislar sobre os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos policiais e bombeiros militares.
+    6. Em 15.3.2013, sobreveio decisão do Relator, Ministro Luiz Fux, julgando a ADI n. 1.542/MS prejudicada, pela expressa revogação do art. 117 da Lei Complementar n. 53/1990 pela Lei Complementar 123/2007.
+    Examinados os elementos havidos no processo, DECIDO.
+    7. De se registrar, inicialmente, que com o julgamento da ADI n. 1.542/MS não mais subsiste razão para o sobrestamento determinado em 2.2.2010.
+    Chamo, pois, o feito à ordem e passo à análise do regimental.
+    8. A revogação do art. 117 da Lei Complementar estadual n. 53/1990, causa da perda de objeto da ADI 1.542/MS, não prejudica, de forma automática, este recurso, porque o dispositivo pode ter surtido efeitos sobre o que se pleiteia antes de sua revogação.
+    9. No caso, tem-se na inicial da ação de indenização, cumulada com cobrança de pensão, que o policial foi excluído da Corporação em 30.7.2003, data anterior à revogação do arr. 117 da lei Complementar n. 53/1990, ocorrida quatro anos depois, em 20.12.2007.
+    10. Com razão, portanto, a Agravante, pois o seu pleito de recebimento de pensão, formulado em 2003, fundamenta-se na lei vigente no tempo (a Lei 53/1990), em especial em seu art. 117, antes de sua revogação, o qual dispõe:
+    ‘Art. 117. O falecimento do policial militar da ativa acarretará interrupção do serviço policial militar, com o consequente desligamento ou exclusão de serviço ativo, a partir da data da ocorrência do óbito.
+    § 1º. O policial militar que contar no mínimo, com 10 anos de serviço e for demitido ou excluído da Corporação, em consequência de sentença transitada em julgado, será reputado na condição prevista no ‘caput’ deste artigo.
+    § 2º. No caso do parágrafo anterior os dependentes farão jus a tantas cotas de vencimentos quantos forem os anos de serviço trabalhados pelo policial militar condenado, até o máximo de tempo exigido para integralização do tempo de serviço, sendo de no mínimo 70% (setenta por cento) dos vencimentos que vinha recebendo.
+    § 3º. Os vencimentos a que se refere o parágrafo anterior serão reajustados sempre que houver alteração nos vencimentos do pessoal da ativa e nos mesmos índices’.
+    Antes da suspensão do julgamento da ADI n. 1.542/MS e da posterior decisão de seu prejuízo, votei pela constitucionalidade do art. 117, ao lado dos Ministros Eros Grau (Relator original), Menezes Direito e Ricardo Lewandowski. Confira-se excerto do voto do Ministro Eros Grau:
+    ‘A Constituição do Brasil, em seu artigo 142, § 3º, inciso X, ao dispor sobre as Forças Armadas, estatui que a lei disporá sobre o ingresso, os limites de idade, a estabilidade e outras condições de transferência do militar para a inatividade; os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, consideradas as peculiaridades de suas atividades, inclusive aquelas cumpridas por força de compromissos internacionais e de guerra. Já o § 1º do artigo 42 da CB/88 remete à lei estadual a regulamentação dessas matérias, no que diz respeito aos policiais e bombeiros militares.
+    2. Reforça esse entendimento a redação do § 2º do mesmo artigo 42, alterada pela Emenda Constitucional n. 41/03, segundo a qual aplica-se aos pensionistas dos militares dos Estados, do Distrito Federal e dos Territórios o que for fixado em lei específica do respectivo ente estatal. Daí porque cabe ao Estado-membro dispor sobre os direitos dos militares, entre os quais os previdenciários, bem assim sobre o regime jurídico dos pensionistas.
+    3. A lei estadual atacada não extrapolou os limites de sua competência, inexistindo, destarte, incompatibilidade formal sua com o texto constitucional.
+    (…)
+    Inexiste a alegada afronta aos princípios da igualdade, impessoalidade e moralidade, eis que o preceito impugnado garante o direito a benefício para cuja percepção o militar efetivamente contribuiu. A condenação que redunda na exclusão do militar da corporação não pode repercutir negativamente em seus benefícios previdenciários.
+    Em especial, na medida – repito – em que o militar tenha contribuído efetivamente para essa percepção.
+    Há um outro ponto, ainda ferido na manifestação da Advocacia- Geral da União, que diz respeito à questão da razoabilidade da proporcionalidade. Insisto que a esta Corte cumpre operar o controle da constitucionalidade. Se a lei não é razoável; se qualquer Membro deste Tribunal, se legislador fosse, estivesse disposto a legislar em outro sentido; se esta Corte ou algum de seus Membros entende que, eventualmente, seria melhor e mais proporcional que a lei dissesse outra coisa, a eles caberia a candidatura ao exercício do Poder Legislativo. Aqui, não legislamos, mas sim operamos o controle da constitucionalidade. Não o controle da temperança ou intemperança do legislador, porque mesmo aquele que eu considere não coerente com o meu modo de pensar, se proceder ele dentro dos parâmetros da Constituição, não nos cumpre questionar a validade do texto normativo’.
+    No mesmo sentido, pela constitucionalidade do artigo 117, da LC n. 53/1990, durante sua vigência, assentou-se a jurisprudência deste Supremo. Assim por exemplo: RE 610.290, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 15.8.2013, AI 704. 611, Relator o Ministro Dias Toffoli, decisão monocrática, DJe 13.9.2013, com trânsito em julgado em 17.9.2013, e RE 595.178, Ministro Roberto Barroso, decisão monocrática, DJe 18.2.2014, com trânsito em julgado em 6.3.2014.
+    A pretensão da Agravante harmoniza-se, portanto, com a jurisprudência da Casa.
+    11. Pelo exposto, reconsidero a decisão agravada, para prover o agravo, e, desde logo, ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil), prejudicado o agravo regimental interposto.”
+    O acórdão recorrido divergiu desse entendimento, razão pela merece ser reformado.
+    Ante o exposto, conheço do agravo e dou provimento ao recurso extraordinário para declarar a constitucionalidade do artigo 117 da Lei Complementar Estadual nº 53/90.
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
