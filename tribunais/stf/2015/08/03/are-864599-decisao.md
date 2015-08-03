@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 2º, 30, incisos I e III, 60, § 4º, inciso III, 37, caput, e 150, incisos I e II, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que a instância de origem decidiu a controvérsia consignando que:
+    “Conforme bem salientado na sentença, não se controverte acerca do preenchimento dos requisitos para a concessão da isenção. De fato, restou demonstrado que a parte autora é aposentada e aufere renda de um salário mínimo (relatório social – fl. 33), fazendo jus à isenção, conforme interpretação literal da legislação tributária no que se refere à matéria, nos termos do art. 111, II, do CTN.
+    O pedido administrativo de isenção foi indeferido tão somente em decorrência da existência de débitos anteriores, referentes ao IPTU dos exercícios de 2007, 2008 e 2009 (parecer jurídico – fls. 34-35).
+    Ocorre que já em 1992 o embargante requereu a isenção, conforme comprovado à fl. 17. Conquanto o Município não tenha juntado aos autos cópia do procedimento administrativo, não controverte acerca da concessão do benefício na oportunidade.
+    Ainda, o relatório de situação dos contribuintes, de fls. 30-31, indica que os débitos tributários de IPTU inscritos em dívida ativa do embargante no período de 1992 a 2007 referem-se exclusivamente aos exercícios de 1996, 2001 e 2002. Ou seja, após a concessão do benefício, nos intervalos de 5 em 5 anos o embargante renovou a comprovação do preenchimento dos requisitos para a concessão do benefício, conforme determinado no art. 135 da Lei 1.213/1989, em sua redação original. Com a edição da Lei 3.212/2001, o art. 135 teve sua redação alterada, passando a ser indeterminado o prazo do benefício, razão pela qual inexiste débito de IPTU referente ao exercício de 2005 ou de 2006. Assim, não há falar em existência de débitos referentes aos exercícios de 2007, 2008 e 2009 porque não há nos autos qualquer prova de que a concessão da isenção tenha sido revogada.” (fls. 102/103).
+    Como visto, para acolher a pretensão do recorrente e ultrapassar o entendimento firmado pelo Tribunal de origem acerca da incidência da isenção no caso em tela, seria necessário o reexame da legislação infraconstitucional pertinente e do conjunto fático-probatório dos autos, o que é inviável em sede de apelo extremo, a teor dos enunciados das Súmulas n°s 279 e 280 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPTU. RESTRIÇÕES RELATIVAS À OCUPAÇÃO DE ÁREA DE PROTEÇÃO AMBIENTAL. ISENÇÃO PARCIAL. MOMENTO EM QUE SE DEVE CONSIDERAR CONCEDIDO O BENEFÍCIO. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. PRECEDENTES. Após detida análise do conjunto probatório e de normas infraconstitucionais, a instância ordinária afirmou, para o caso concreto, o momento do preenchimento dos requisitos necessários à concessão de isenção relativa à ocupação de área sujeita à preservação ambiental. O acolhimento da pretensão demandaria o reexame das evidências que deram amparo ao acórdão, o que se mostra inviável nesta via. Aplica-se, portanto, a Súmula 279/STF. Agravo regimental a que se nega provimento” (ARE n° 804.172/RJ-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 20/3/15).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO PREDIAL E TERRITORIAL URBANO – IPTU. ISENÇÃO. SOCIEDADE DE ECONOMIA MISTA. ANÁLISE DE LEI LOCAL: INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n° 841.942/MG-AgR,Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/2/15).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
