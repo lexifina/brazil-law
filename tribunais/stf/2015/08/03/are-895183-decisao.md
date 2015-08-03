@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso que negou provimento ao recurso da defesa, mantendo sentença que condenara o ora recorrente à pena de 20 anos e 6 meses de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 157, § 3º, do Código Penal.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV, da Constituição. Aduz que “quando finalmente o recorrente pode requerer provas, e requereu a oitiva dessas testemunhas como testemunhas de defesa, foi-lhe negado o direito de produzir prova”.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “seria necessário o exame de dispositivos da legislação infraconstitucional”.
+    O recurso é inadmissível, tendo em vista que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa à obrigatoriedade de observância das garantias constitucionais do processo ante o indeferimento, pelo juiz, de determinada diligência probatória. Nessa linha, veja-se a ementa do ARE 639.228-RG, julgado sob a relatoria do Ministro Cezar Peluso:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.”
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+    Por fim, cabe registrar que o acórdão recorrido está alinhado com a jurisprudência desta Corte no sentido de que não se aplica a suspensão do processo prevista no art. 366 do Código de Processo Penal a fatos ocorridos anteriores à vigência da Lei nº 9.271/1996 (HC 74.695, Rel. Min. Carlos Velloso).
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
