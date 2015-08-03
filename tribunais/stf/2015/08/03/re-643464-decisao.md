@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Turma Recursal da Comarca de Curvelo/MG que negou provimento ao recurso do ora recorrente e manteve sentença que, ante a falta de interesse de agir, julgou extinto o processo, sem julgamento do mérito, nos termos dos arts. 3º do CPP e 267, VI, do CPC, pela prática do crime previsto no art. 46, parágrafo único, da Lei nº 9.605/1998.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 93, IX, da Constituição. Aduz que “é impossível declarar-se a ilegalidade da carga neste processo, posto que não pode haver sentença condenatória que importaria no reconhecimento da ilegalidade da carga apreendida”. Alega que “pretende simplesmente a reforma da respeitável decisão no tocante à parte que decretou a doação da carga apreendida”. Por fim, afirma que se percebe “claramente a existência de cerceamento de defesa ao denunciado, não lhe permitindo fazer a prova que julgar necessária para provar sua inocência”.
+    O recurso é inadmissível, tendo em vista que a alegada violação ao dispositivo constitucional não foi objeto de apreciação pelo acórdão do Tribunal de origem, de modo que o recurso extraordinário carece do necessário prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, imprescindível seria a análise da legislação infraconstitucional pertinente, procedimento inviável em recurso extraordinário. Nessa linha, veja-se trecho da ementa do RE 643.392, Rel. Min. Luiz Fux:
+    “RECURSO EXTRAORDINÁRIO. DIREITO PENAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CONDUTAS E ATIVIDADES LESIVAS AO MEIO AMBIENTE. LEI N. 9.605/98. REPERCUSSÃO GERAL NÃO EXAMINADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. PREQUESTIONAMENTO. INOCORRÊNCIA. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE FUNDAMENTAÇÃO. OFENSA AO ARTIGO 93, IX DA CONSTITUIÇÃO. OFENSA REFLEXA. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO.
+    [...]”
+    Quanto à alegada ofensa ao art. 93, IX, da Constituição, o Plenário do Supremo Tribunal Federal já firmou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se o AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
