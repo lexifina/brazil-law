@@ -1,0 +1,27 @@
+Decisão:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO E CONSTITUCIONAL - PRELIMINAR DE SENTENÇA ULTRA-PETITA REJEITADA - IMUNIDADE TRIBUTÁRIA – INSTITUIÇÃO DEDICADA À ASSISTÊNCIA SOCIAL - ARTIGO 150, VI, “C” DA CONSTITUIÇÃO FEDERAL - CUMPRIMENTO DOS REQUISITOS DO ARTIGO 14 DO CTN – LEI Nº 9532/1997 - EXCLUSÃO DA IMUNIDADE DOS RENDIMENTOS E GANHOS DE CAPITAL AUFERIDOS EM APLICAÇÕES FINANCEIRAS - VIGÊNCIA SUSPENSA – RESTITUIÇÃO INDEVIDA - HONORÁRIOS ADVOCATÍCIOS.
+    1. A sentença decidiu a lide dentro dos contornos delineados no pedido. A Constituição Federal assegura imunidade tributária às instituições de educação e de assistência social, sem fins lucrativos, no que se refere à instituição de impostos incidentes sobre o patrimônio, a renda ou serviços relacionados às suas finalidades essenciais, desde que sejam cumpridos os requisitos contidos no art. 14 do CTN.
+    2. O parágrafo 4º do artigo 150 da Constituição, ao determinar que a imunidade concerne apenas ao patrimônio, à renda e aos serviços relacionados com suas finalidades essenciais, não exclui os rendimentos decorrentes das aplicações financeiras que são vertidos aos objetivos da própria entidade, como ocorre com a renda auferida a partir das suas atividades assistenciais, ou mesmo da comercialização de seus bens.
+    3. A imunidade não é restrita apenas à renda decorrente do objeto social da entidade, mas sim toda aquela auferida de forma regular visando resguardar o seu patrimônio dos efeitos corrosivos da inflação, como ocorre com as aplicações financeiras.
+    4. O art. 12, § 1º da Lei nº L. 9.532/97, lei ordinária, excluiu da imunidade os rendimentos e ganhos de capital auferidos em aplicações financeiras de renda fixa ou de renda variável.
+    5. Ofensa ao art. 146, II, da Constituição Federal, que determina competir à lei complementar regular as limitações constitucionais ao poder de tributar.
+    6. A imposição tributária também estaria tributando o patrimônio da entidade, o que é vedado pela Constituição Federal, porquanto as aplicações financeiras não têm a finalidade de auferir lucros, mas sim de resguardar o patrimônio dos efeitos corrosivos da inflação.
+    7. O dispositivo teve sua vigência suspensa por força de decisão proferida em Medida Cautelar na ADIN nº 1802.
+    8. Desprovimento da pretensão restituitória por ausência de comprovação do efetivo recolhimento e do montante descontado dos rendimentos e ganhos de capital auferidos em aplicações financeiras, tal como determinado pela Lei nº 9.532/97.
+    9. Honorários advocatícios em sucumbência recíproca.”
+    A pretensão recursal não merece prosperar, tendo em vista que a decisão agravada está correta e alinhada aos precedentes firmados por esta Corte. Confira-se:
+    “Recurso extraordinário. Agravo regimental. 2. Imunidade tributária. Art. 150, VI, "c", da CF. 3. IPTU. Imóvel de propriedade de entidade de assistência social objeto de contrato de locação. 4. Destinação da renda aos fins essenciais da instituição. Reexame de provas. Súmula 279. 5. Agravo regimental a que se nega provimento.” (RE 227.078-AgR/MG, Min. Gilmar Mendes)
+    “DIREITO CONSTITUCIONAL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. IPTU. ENTIDADE SEM FINS LUCRATIVOS. IMUNIDADE TRIBUTÁRIA. REQUISITOS. ART. 14 DO CÓDIGO TRIBUTÁRIO NACIONAL. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. SÚMULA 279/STF. REELABORAÇÃO DA MOLDURA FÁTICA DELINEADA NA ORIGEM. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 19.10.2012.
+    Inexistência de violação do artigo 93, IX, da Constituição Federal. Na compreensão desta Suprema Corte, o texto constitucional exige que o órgão jurisdicional explicite as razões de seu convencimento, sem necessidade, contudo, do exame detalhado de cada argumento esgrimido pelas partes. Precedentes.
+    A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido de que o art. 150, VI, c, da Constituição Federal assegura a imunidade tributária quanto ao patrimônio e renda de entidades de assistência social que não tenham fins lucrativos.
+    Divergir do entendimento adotado pela Corte a quo, acerca do preenchimento dos requisitos para a concessão da imunidade tributária, exigiria o reexame da legislação infraconstitucional aplicada e a reelaboração da moldura fática delineada no acórdão recorrido, o que é vedado em sede extraordinária.
+    Aplicação da Súmula 279/STF: Para simples reexame de prova não cabe recurso extraordinário.
+    O exame da alegada ofensa ao art. 5º, LV, da Constituição Federal dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal.
+    Agravo regimental conhecido e não provido”. (ARE 798.312-AgR, Rel.ª Min.ª Rosa Weber)
+    Destaco, inclusive, já está reconhecida a ausência de repercussão geral sobre a aferição do cumprimento dos requisitos legais para enquadramento de pessoa jurídica como entidade beneficente de assistência social para fins de imunidade tributária, consoante decisão no RE 642.442, inserido na sistemática da repercussão geral sob o Tema 459.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
