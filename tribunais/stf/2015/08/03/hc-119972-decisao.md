@@ -1,0 +1,24 @@
+Decisão: 1. Trata-se de habeas corpus impetrado por Johannes Heinrich Mathias, em causa própria, contra acórdão da Quinta Turma do Superior Tribunal de Justiça nos autos do HC 83.013/RJ, Rel. Min. Janes Silva. Eis a ementa do julgado:
+    “(...) 1 . Caso o réu possua defensor regularmente constituído à época do julgamento da apelação criminal, com amplos poderes para representá-lo, não há que se falar em nulidade do Acórdão por cerceamento de defesa.
+    2. A deficiência na defesa do réu somente acarreta nulidade no processo penal se houver prova cabal do prejuízo. Precedentes do STJ. Súmula 523 do STF.
+    3 . Ordem denegada”.
+    Na inicial, alega-se, em suma, o seguinte: (a) o paciente foi condenado pela prática do crime de tráfico transnacional de drogas; (b) não houve formação da coisa julgada, já que a pauta de julgamento da apelação criminal não foi divulgada; (c) a publicação do acórdão da apelação se deu em nome de advogada que não mais representava o paciente; e (d) a relatora no Superior Tribunal de Justiça julgou recurso de agravo no Tribunal de Justiça do Estado de Minas Gerais, o que a torna impedida para o julgamento do habeas corpus impetrado no STJ. Requer a anulação do julgamento do recurso de apelação e, consequentemente, a revogação do trânsito em julgado da sentença penal condenatória.
+    O Juízo Federal da 4ª Vara Criminal do Rio de Janeiro prestou informações.
+    Em parecer, a Procuradoria-Geral da República manifesta-se pelo não conhecimento da impetração.
+    2. É da jurisprudência do Supremo Tribunal Federal o entendimento de que o art. 252 do Código de Processo Penal possui rol taxativo de hipóteses de impedimento do julgador, o qual não comporta interpretação extensiva. Ilustrativo, a propósito, o seguinte julgado:
+    (…) 2. As causas de impedimento do julgador, listadas no art. 252 do CPP, são mesmo taxativas e jungidas a fatos diretamente relacionados à ação penal em que arguida a imparcialidade do julgador. Até porque o tratamento normativo-ordinário do impedimento e da suspeição do julgador não tem outro objetivo senão o de densificar as garantias do Juiz natural (inciso LIII do art. 5º da CF) e do devido processo legal (inciso LIV do art. 5º da CF).
+    3. Nesse sentido, as duas Turmas do Supremo Tribunal Federal já recusaram pedidos de uma mais larga interpretação das hipóteses de impedimento do magistrado, expressamente definidas no art. 252 do Diploma Processual Penal.
+     4. No caso, a decisão objeto da insurgência defensiva seguiu o entendimento pacificado no Supremo Tribunal Federal quanto à taxatividade das causas de impedimento do magistrado e, expressamente, reconheceu a distinção entre os fatos apurados na Ação Penal 470 e no Inquérito 2.280.
+    5. Agravo regimental a que se nega provimento” (AImp 4 AgR, Rel. Min. AYRES BRITTO, Plenário, DJe de 29/6/2012).
+    Em rigor, a norma em análise “encontra-se mais diretamente ligada à necessidade de se realizar efetivamente o duplo grau de jurisdição que propriamente com a eventual parcialidade do juiz” (OLIVEIRA, Eugênio Pacelli. Curso de processo penal. Lumen Juris. 10 ed., 2008. p. 376). Assim, não há como reconhecer o impedimento de magistrado que integrou julgamento de procedimentos diferentes (agravo em execução e habeas corpus) sobre questões diversas (concessão de livramento condicional e nulidade do acórdão em apelação em ação penal). Nessa linha de compreensão:
+    “(…) 2. O art. 252, inc. III, do Código de Processo Penal não preceitua qualquer ilegalidade em razão dos julgadores terem exercido a jurisdição na mesma instância, notadamente quando os recursos de apelação foram interpostos pela defesa contra sentenças penais proferidas em processos-crime distintos.
+    3. A jurisprudência deste Supremo Tribunal assentou a impossibilidade de criação pela via da interpretação de causas de impedimento. Precedentes.
+    (…)
+    6. Recurso parcialmente conhecido e, nessa parte, denegado” (RHC 105.791/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 01/02/2013).
+    3. Por fim, na confusa petição/STF 6.114/2014, o impetrante reconhece, diferente do alegado na inicial, que o acórdão foi publicado corretamente em nome de seu defensor. Ademais, em informações prestadas pelo Tribunal Regional Federal da 2ª Região, ficou demonstrado que: (a) a pauta de julgamento foi publicada com antecedência (fl. 7 da peça 7); e (b) a certidão de julgamento (fl. 13 da peça 7), o relatório e o voto do acórdão (fls. 8-12 da peça 7) foram publicados em nome do advogado Adalberto Brandão da Silva Paranhos, a quem o impetrante afirma ter outorgado procuração para representá-lo.
+    4. Ante o exposto, nego seguimento ao habeas corpus. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
