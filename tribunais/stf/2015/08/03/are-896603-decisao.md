@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal dos Juizados Especiais Cíveis e Criminais de Muriaé no Estado de Minas Gerais, que julgou extinto o processo sem julgamento do mérito.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A recorrente alega violação ao art. 5º, LIV e LV, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os fundamentos de que: (i) “as alegações feitas não dizem respeito a ofensa direta e frontal a preceito constitucional”; e (ii) “não há repercussão geral no presente caso” (fls.81/82).
+    O recurso não deve ser admitido. Isso porque o Plenário Virtual do Supremo Tribunal Federal, no julgamento do RE 576.847-RG/BA, sob a relatoria do Ministro Eros Grau, assentou a ausência de repercussão geral da controvérsia ora em debate (Tema 077). Confira-se a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. REPERCUSSÃO GERAL RECONHECIDA. MANDADO DE SEGURANÇA. CABIMENTO. DECISÃO LIMINAR NOS JUIZADOS ESPECIAIS. LEI N. 9.099/95. ART. 5º, LV DA CONSTITUIÇÃO DO BRASIL. PRINCÍPIO CONSTITUCIONAL DA AMPLA DEFESA. AUSÊNCIA DE VIOLAÇÃO. 1. Não cabe mandado de segurança das decisões interlocutórias exaradas em processos submetidos ao rito da Lei n. 9.099/95. 2. A Lei n. 9.099/95 está voltada à promoção de celeridade no processamento e julgamento de causas cíveis de complexidade menor. Daí ter consagrado a regra da irrecorribilidade das decisões interlocutórias, inarredável. 3. Não cabe, nos casos por ela abrangidos, aplicação subsidiária do Código de Processo Civil, sob a forma do agravo de instrumento, ou o uso do instituto do mandado de segurança. 4. Não há afronta ao princípio constitucional da ampla defesa (art. 5º, LV da CB), vez que decisões interlocutórias podem ser impugnadas quando da interposição de recurso inominado. Recurso extraordinário a que se nega provimento.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 03 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
