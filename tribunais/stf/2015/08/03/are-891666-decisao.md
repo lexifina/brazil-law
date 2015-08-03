@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Turma Recursal Cível da Comarca de Juiz de Fora do Estado de Minas Gerais.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, uma vez que a recorrente não indica nas razões do recurso extraordinário quais os dispositivos constitucionais teriam sido violados pelo acórdão recorrido. A jurisprudência desta Corte é assente no sentido de não conhecer de recurso extraordinário amparado na alínea “a” do permissivo constitucional em que não se aponta o dispositivo da Constituição tido por violado. Nesse sentido:
+    “AGRAVO REGIMENTAL. FALTA DE INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL TIDO POR VIOLADO. Não se conhece de recurso extraordinário no qual não se aponta o dispositivo constitucional tido por violado. Agravo regimental a que se nega provimento” (AI nº 603.864/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa , DJ de 16/2/07).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO. QUESTÃO CONSTITUCIONAL: NÃO-INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. I. - Inatacados os fundamentos da decisão agravada, torna-se inviável o recurso. Precedentes. II. - O recurso extraordinário é inviável se a questão constitucional não é posta com clareza, com a indicação expressa das normas constitucionais que se dizem ofendidas. III. - Agravo não provido” (AI nº 527.232/SP-AgR, Segunda Turma, Relator o Ministro Carlos Velloso , DJ de 23/8/05).
+    Ademais, as instâncias de origem decidiram a lide amparadas exclusivamente nas provas dos autos e na legislação infraconstitucional pertinente (Código de Defesa do Consumidor), de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Nesse sentido, destaco os seguintes precedentes:
+    “Agravo regimental em agravo de instrumento. 2. Consumidor. Incidência da Súmula 279 desta Corte. Matéria infraconstitucional. Precedentes. AI-AgR 715.690. 3. Agravo regimental a que se nega provimento” (AI nº 814.104/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 14/12/11).
+    “1. Recurso extraordinário: descabimento: controvérsia de natureza infraconstitucional (Código de Defesa do Consumidor), decidida com base em fatos e provas, de reexame vedado no recurso extraordinário: incidência, mutatis mutandis, das Súmula 636 e Súmula 279. 2. Alegações improcedentes de negativa de prestação jurisdicional ou de violação do art. 5º, XXXV e LV, da Constituição Federal” (AI nº 597.064/BA-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
