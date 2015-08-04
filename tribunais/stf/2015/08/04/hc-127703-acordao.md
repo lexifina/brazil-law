@@ -1,0 +1,460 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 12
+
+04/08/2015
+
+SEGUNDA TURMA
+
+HABEAS CORPUS 127.703 SÃO PAULO
+RELATOR
+PACTE.(S)
+IMPTE.(S)
+COATOR(A/S)(ES)
+
+: MIN. GILMAR MENDES
+: ALEXANDRE SANTOS ARAUJO
+: SAMUEL BENEDITO DA SILVA
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+Habeas corpus. 2. Roubo majorado pelo emprego de arma de fogo e
+concurso de pessoas (art. 157, § 2º, incisos I e II do CP). Condenação.
+Regime inicial fechado. 3. Pedido de fixação de regime mais brando.
+Possibilidade: primariedade do agente; circunstâncias judiciais favoráveis
+(pena-base fixada no mínimo legal); e fundamentação inadequada
+(gravidade do delito decorrente do uso de arma de fogo e do concurso de
+agentes). 4. A jurisprudência do STF consolidou entendimento segundo o
+qual a hediondez ou a gravidade abstrata do delito não obriga, por si só,
+o regime prisional mais gravoso, pois o juízo, em atenção aos princípios
+constitucionais da individualização da pena e da obrigatoriedade de
+fundamentação das decisões, deve motivar o regime imposto observando
+a singularidade do caso concreto. 5. Aplicação das súmulas 718 e 719. 6.
+Questão não examinada no STJ. Constrangimento ilegal configurado. 7.
+Ordem concedida de ofício para fixar o regime inicial semiaberto.
+Extensão a corréu.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os ministros do
+Supremo Tribunal Federal, em Segunda Turma, sob a presidência do
+ministro Celso de Mello, na conformidade da ata de julgamento e das
+notas taquigráficas, por unanimidade e de ofício, conceder a ordem e
+confirmar a liminar deferida; e, ainda estender a ordem a José Wilson da
+Silva, nos termos do voto do Relator.
+Brasília, 4 de agosto de 2015.
+
+Ministro GILMAR MENDES
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9070201.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 12
+
+HC 127703 / SP
+Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9070201.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 12
+
+04/08/2015
+
+SEGUNDA TURMA
+
+HABEAS CORPUS 127.703 SÃO PAULO
+RELATOR
+PACTE.(S)
+IMPTE.(S)
+COATOR(A/S)(ES)
+
+: MIN. GILMAR MENDES
+: ALEXANDRE SANTOS ARAUJO
+: SAMUEL BENEDITO DA SILVA
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RELATÓRIO
+
+O SENHOR MINISTRO GILMAR MENDES (RELATOR): Trata-se de
+habeas corpus, com pedido de medida liminar, impetrado por Samuel
+Benedito da Silva, em favor de Alexandre Santos Araújo, contra acórdão
+da Sexta Turma do Superior Tribunal de Justiça (STJ) que não conheceu
+do Agravo Regimental em Agravo em Recurso Especial n. 602.115/SP.
+Segundo os autos, no dia 19 de fevereiro de 2003, o paciente e outro
+subtraíram, mediante grave ameça, com uso de arma de fogo, 17.500
+cartões telefônicos de 40 créditos, avaliados em cerca de R$ 45.000,00, e
+um veículo Palio, os quais pertenciam à empresa AMV Distribuidora de
+Cartões Telefônicos Ltda.
+Sobreveio condenação pela prática do delito descrito no art. 157, § 2º,
+incisos I e II, do Código Penal (roubo majorado pelo emprego de arma e
+pelo concurso de agentes), à pena de 5 anos e 6 meses de reclusão, em
+regime inicial fechado, e o pagamento de 13 dias-multa.
+Naquela oportunidade, o Juízo de Direito da 1ª Vara de Cajamar/SP
+concedeu ao réu o direito de recorrer em liberdade, in verbis: “Os réus
+responderam ao feito em liberdade e nessa condição deverão permanecer, ausentes
+os motivos que ensejariam a sua custódia preventiva”.
+Irresignada, a defesa interpôs apelação no Tribunal de Justiça do
+Estado de São Paulo, que negou provimento ao recurso.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9070202.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 12
+
+HC 127703 / SP
+Por conseguinte, foi interposto recurso especial, o qual foi obstado
+na origem.
+Impugnou-se a decisão por meio de agravo no Superior Tribunal de
+Justiça, que não conheceu do recurso em razão da intempestividade.
+Ainda inconformada, a defesa interpôs agravo regimental, recurso
+também não conhecido pela Sexta Turma desse Tribunal superior, nos
+termos da ementa a seguir transcrita:
+“PENAL. AGRAVO REGIMENTAL NO AGRAVO EM
+RECURSO
+ESPECIAL.
+ROUBO
+QUALIFICADO.
+INTEMPESTIVIDADE. SÚMULA N. 699 DO SUPREMO
+TRIBUNAL FEDERAL - STF. AUSÊNCIA DE IMPUGNAÇÃO
+AOS FUNDAMENTOS DA DECISÃO AGRAVADA. VERBETE
+N. 182 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA –
+STJ.
+INCIDÊNCIA.
+AGRAVO
+REGIMENTAL
+NÃO
+CONHECIDO.
+– Conforme o verbete n. 182 da Súmula do STJ, aplicável à
+espécie, a ausência de impugnação específica aos fundamentos
+da decisão agravada torna inviável o agravo regimental.
+Agravo regimental não conhecido”.
+
+No presente habeas corpus, a defesa, em síntese, questiona o regime
+de início de cumprimento de pena, destacando que, em razão da
+valoração positiva das circunstâncias judiciais e do quantum de pena (5
+anos e 6 meses) aplicado, o magistrado de origem não observou a
+legislação penal, especificamente o art. 33, § 2º, do CP.
+Afirma também que a sentença, confirmada pela Corte estadual,
+violou as súmulas 718 e 719.
+Assevera ainda: “o paciente é um rapaz trabalhador com prova nos autos,
+estudante de direito, que possui o ‘direito’ de ver o início de cumprimento de
+pena ‘justo’ de acordo com a Lei em face da quantidade de pena que lhe foi
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9070202.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 12
+
+HC 127703 / SP
+aplicada”.
+Em 5.5.2015, deferi parcialmente o pedido de medida liminar para
+que fosse fixado o regime semiaberto para início do cumprimento da
+pena.
+A Procuradoria-Geral da República opinou pelo não conhecimento
+do writ, mas pela concessão da ordem de ofício. Eis a ementa:
+“Habeas Corpus. Roubo. Regime inicial de cumprimento de
+pena. Supressão de instância. Gravidade abstrata do delito.
+Súmulas STF 718 e 719. Circunstâncias judiciais favoráveis.
+Pena-base no mínimo legal. Incongruência. Parecer pelo não
+conhecimento do writ, mas pela concessão da ordem de ofício”.
+
+É o relatório.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9070202.
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 6 de 12
+
+04/08/2015
+
+SEGUNDA TURMA
+
+HABEAS CORPUS 127.703 SÃO PAULO
+VOTO
+O SENHOR MINISTRO GILMAR MENDES (RELATOR): Conforme já
+relatado, no presente habeas corpus, discute-se a possibilidade de fixação
+de regime mais brando para cumprimento da pena.
+No caso, a magistrada, ao proferir a sentença condenatória, fixou o
+regime fechado para início do cumprimento de pena sob os seguintes
+fundamentos:
+“Fixo como regime de cumprimento o fechado, nos termos
+do artigo 33 do Código Penal, pois grave o delito praticado, não
+se justificando a adoção de regime mais brando”.
+
+Por conseguinte, o TJ/SP entendeu por bem manter o que decidido
+em primeira instância por considerar acertada a aplicação do regime mais
+gravoso.
+Na sequência, verifico que o STJ não conheceu do agravo em recurso
+especial em razão do não preenchimento dos pressupostos de
+admissibilidade
+necessários
+à
+análise
+do
+mérito
+recursal
+(tempestividade).
+Acerca do tema, ressalto não caber ao Supremo Tribunal Federal
+substituir-se ao Superior Tribunal de Justiça na análise dos requisitos de
+admissibilidade do recurso especial, salvo em casos de abuso de poder ou
+flagrante ilegalidade (cf. HC n. 94.362/RS, rel. min. Eros Grau, DJ
+31.3.2006 e HC 112.130/MG, rel. min. Ayres Britto, DJe 8.6.2012). E, no
+caso em apreço, entendo que, embora a questão (fixação de regime inicial
+diverso do fechado) não tenha sido examinada pelo STJ, vislumbro
+patente constrangimento ilegal que precisa de ser reparado.
+Destaco que o § 3º do art. 33 do Código Penal estabelece que “a
+determinação do regime inicial de cumprimento da pena far-se-á com observância
+dos critérios previstos no art. 59 deste Código”.
+Acrescento que a fixação do regime fechado para início do
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9070203.
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 7 de 12
+
+HC 127703 / SP
+cumprimento da pena deu-se, exclusivamente, em virtude da gravidade
+do fato delituoso decorrente do emprego de arma de fogo e do concurso
+de agentes.
+Cumpre ainda consignar que a jurisprudência do STF consolidou
+entendimento segundo o qual a hediondez ou a gravidade abstrata do
+delito não obriga, por si só, o regime prisional mais gravoso, pois o juízo,
+em atenção aos princípios constitucionais da individualização da pena e
+da obrigatoriedade de fundamentação das decisões judiciais, deve
+motivar o regime imposto observando a singularidade do caso concreto.
+Ao tema, aplicam-se as súmulas 718 e 719:
+“Súmula 718: A opinião do julgador sobre a gravidade em
+abstrato do crime não constitui motivação idônea para a
+imposição de regime mais severo do que o permitido segundo a
+pena aplicada.
+Súmula 719: A imposição do regime de cumprimento mais
+severo do que a pena aplicada permitir exige motivação
+idônea”.
+
+Nesse sentido, cito os seguintes julgados:
+“HABEAS CORPUS. PENAL. ROUBO DUPLAMENTE
+CIRCUNSTANCIADO. PACIENTE CONDENADO À PENA
+INFERIOR
+A
+OITO
+ANOS
+DE
+RECLUSÃO.
+CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA-BASE
+ESTABELECIDA NO MÍNIMO LEGAL. FIXAÇÃO DO
+REGIME INICIAL FECHADO COM BASE NA INVOCAÇÃO
+ABSTRATA DAS CAUSAS DE AUMENTO DE PENA DOS
+INCISOS I E II DO § 2º DO ART. 157 DO CP. INVIABILIDADE.
+SÚMULA 718/STF. ORDEM CONCEDIDA. 1. A fixação da
+pena-base (art. 59) no mínimo legal, porque favoráveis todas as
+circunstâncias judicias, e a imposição do regime mais gravoso
+do que aquele abstratamente imposto no art. 33 do Código
+Penal revela inequívoca situação de descompasso com a
+legislação penal. A invocação abstrata das causas de aumento
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9070203.
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 8 de 12
+
+HC 127703 / SP
+de pena não podem ser consideradas, por si sós, como
+fundamento apto e suficiente para agravar o regime prisional,
+por não se qualificarem como circunstâncias judiciais do art. 59.
+Inteligência do enunciado 718 da Súmula do STF. Precedentes.2.
+Ordem concedida para que o juízo competente aplique aos
+pacientes o regime semiaberto de cumprimento de pena. (HC
+122.887/SP, rel. min. TEORI ZAVASCKI, Segunda Turma, DJe
+11.9.2014);
+“Habeas corpus. 2. Roubo majorado pelo emprego de arma
+de fogo e pelo transporte de valores (art. 157, § 2º, incisos I e III
+do CP). Condenação. Regime inicial fechado. 3. Pedido de
+fixação de regime mais brando. Possibilidade: primariedade do
+agente; circunstâncias judiciais favoráveis (pena-base fixada no
+mínimo legal); e fundamentação inadequada (gravidade do
+delito decorrente do uso de arma de fogo). 4. A invocação
+abstrata da causa de aumento de pena não pode ser
+considerada, por si só, como fundamento apto e suficiente para
+agravar o regime prisional, por não se qualificar como
+circunstância judicial do art. 59. 5. A jurisprudência do STF
+consolidou o entendimento segundo o qual a hediondez ou a
+gravidade abstrata do delito não obriga, por si só, o regime
+prisional mais gravoso, pois o juízo, em atenção aos princípios
+constitucionais da individualização da pena e da
+obrigatoriedade de fundamentação das decisões judiciais, deve
+motivar o regime imposto observando a singularidade do caso
+concreto. 6. Aplicação das Súmulas 440, 718 e 719. 7. Ordem
+concedida para fixar o regime semiaberto para início do
+cumprimento da pena. (HC 123.432/SP, de minha relatoria,
+Segunda Turma, DJe 15.10.2014);
+“PENAL E PROCESSUAL PENAL. HABEAS CORPUS.
+DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO
+WRIT MAS CONCEDEU A ORDEM DE OFÍCIO. SUPRESSÃO
+DE INSTÂNCIA. IMPETRAÇÃO NÃO CONHECIDA.
+SITUAÇÃO
+EXCEPCIONAL.
+FLAGRANTE
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9070203.
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 9 de 12
+
+HC 127703 / SP
+CONSTRANGIMENTO ILEGAL. PENA INFERIOR A OITO
+ANOS. FIXAÇÃO DE REGIME INICIAL FECHADO DE
+CUMPRIMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO
+IDÔNEA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS AO
+PACIENTE. SÚMULAS 718 E 719 DO STF. INCIDÊNCIA.
+ORDEM CONCEDIDA DE OFÍCIO. I - No caso sob exame,
+verifica-se que a decisão impugnada foi proferida
+monocraticamente. Desse modo, o pleito não pode ser
+conhecido, sob pena de indevida supressão de instância e de
+extravasamento dos limites de competência do STF descritos no
+art. 102 da Constituição Federal, o qual pressupõe seja a coação
+praticada por Tribunal Superior. II – A jurisprudência pacífica
+dessa Corte é no sentido da impossibilidade da fixação de
+regime prisional mais gravoso quando desprovida de
+fundamentação. Incidência das Súmulas 718 e 719 do STF. III –
+É ilegal a fixação de regime fechado quando a pena é fixada em
+patamar inferior a oito anos e inexistirem circunstâncias
+judiciais desfavoráveis contra o paciente ou fatos concretos a
+justificar a decisão. IV – Habeas Corpus não conhecido. V –
+Ordem concedida de ofício para fixar o regime semiaberto para
+o início do cumprimento da pena imposta ao paciente e aos
+corréus”. (HC 118.560/SP, rel. min. Ricardo Lewandowski,
+Segunda Turma, DJe 3.12.2013).
+
+Ainda, no mesmo sentido, cito os julgados: HC 119.287/SP, DJe
+14.5.2014; HC 114.817/SP, ambos de minha relatoria, Segunda Turma, DJe
+13.9.2013 e HC 118.930/SP, rel. min. Rosa Weber, Primeira Turma, DJe
+21.11.2013.
+Corrobora esse entendimento o Parquet, conforme excerto da
+manifestação, a seguir transcrito:
+“Como se vê, a fundamentação é obviamente inidônea,
+pois, ao fim e ao cabo, levou em conta a gravidade abstrata do
+delito em sua forma qualificada. Tal compreensão está em
+dissonância com os enunciados das Súmulas 718 e 719 do STF.
+(…)
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9070203.
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 10 de 12
+
+HC 127703 / SP
+Dessa forma, considerando que a pena base foi fixada no
+mínimo legal, ante a ausência de circunstâncias judiciais
+desfavoráveis, o regime inicial de cumprimento da pena deve
+ser o semiaberto, tendo por base o art. 33, §§ 2º e 3º, do Código
+Penal.
+(…)
+Assim, o parecer é pelo não conhecimento do writ, mas
+pela concessão da ordem de ofício, com sua extensão ao corréu
+José Wilson da Silva”.
+
+Nesses termos, por todo o exposto e acolhendo a manifestação da
+PGR, voto pela concessão da ordem, de ofício, confirmando a liminar
+deferida, para que seja fixado o regime semiaberto para início do
+cumprimento da pena.
+Ainda, por se tratar de concurso de agentes e nos termos do artigo
+580 do Código de Processo Penal, estendo a concessão da ordem a José
+Wilson da Silva, nos mesmos moldes preconizados ao paciente.
+É como voto.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9070203.
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 11 de 12
+
+04/08/2015
+
+SEGUNDA TURMA
+
+HABEAS CORPUS 127.703 SÃO PAULO
+VOTO
+A SENHORA MINISTRA CÁRMEN LÚCIA - Acompanho o
+Relator para conceder de ofício, basicamente tendo em vista e como
+fundamento, Presidente, as súmulas do Supremo Tribunal Federal que,
+neste caso, teriam sido desatendidas pelo próprio juízo.
+O SENHOR MINISTRO CELSO DE MELLO – (Presidente): Vossa
+Excelência supera a restrição sumular?
+A SENHORA MINISTRA CÁRMEN LÚCIA - Não, pelo contrário.
+O SENHOR MINISTRO CELSO DE MELLO – (Presidente): Vossa
+Excelência, embora não conhecendo do pedido, concede de ofício a
+ordem de “habeas corpus”.
+A SENHORA MINISTRA CÁRMEN LÚCIA - Para não conhecer,
+mas acompanho o Relator na concessão de ofício, tendo em vista,
+basicamente, o desatendimento das Súmulas 718 e 719 pela decisão do
+juiz.
+*****
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10149946.
+
+Supremo Tribunal Federal
+Extrato de Ata - 04/08/2015
+
+Inteiro Teor do Acórdão - Página 12 de 12
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+HABEAS CORPUS 127.703
+PROCED. : SÃO PAULO
+RELATOR : MIN. GILMAR MENDES
+PACTE.(S) : ALEXANDRE SANTOS ARAUJO
+IMPTE.(S) : SAMUEL BENEDITO DA SILVA
+COATOR(A/S)(ES) : SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por votação unânime, concedeu a ordem, de
+ofício, confirmando a liminar deferida, para que seja fixado o
+regime semiaberto para o início do cumprimento da pena. Ainda, por
+tratar-se de concurso de agentes e nos termos do artigo 580 do
+Código de Processo Penal, estendeu a concessão da ordem a José
+Wilson da Silva, nos mesmos moldes preconizados ao paciente, nos
+termos do voto do Relator. Não participou, justificadamente, deste
+julgamento, o Senhor Ministro Dias Toffoli. Presidiu, este
+julgamento, o Senhor Ministro Celso de Mello.
+2ª Turma,
+04.08.2015.
+Presidência do Senhor Ministro Dias Toffoli. Presentes à
+sessão os Senhores Ministros Celso de Mello, Gilmar Mendes, Cármen
+Lúcia e Teori Zavascki.
+Subprocuradora-Geral da República, Dra. Deborah Duprat.
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 9194575
