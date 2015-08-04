@@ -1,0 +1,15 @@
+DECISÃO
+JUÍZO DE RETRATAÇÃO – AGRAVO REGIMENTAL.
+JUROS DA MORA – FAZENDA PÚBLICA – MEDIDA PROVISÓRIA Nº 2.180-35/2001 – OBSERVÂNCIA IMEDIATA.
+REPERCUSSÃO GERAL ADMITIDA – MATÉRIA IDÊNTICA – APLICAÇÃO DA LEI NO TEMPO – EXECUÇÃO INICIADA – PARÂMETRO DE DEFINIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR – ADMISSIBILIDADE DA INCIDÊNCIA DA LEI NOVA – BAIXA À ORIGEM.
+    1. Afasto o sobrestamento anteriormente determinado.
+    2. Reexaminando o processo, verifico versar o extraordinário somente dois temas: a) a aplicação da Lei distrital nº 3.624/05 à execução de valores gerados por condenação com trânsito em julgado anterior à vigência do mencionado ato normativo; e b) a observância imediata do artigo 1º-F da Lei nº 9.494/97, na redação conferida pela Medida Provisória nº 2.180-35/2001, ainda que em relação às ações ajuizadas antes da entrada em vigor do aludido ato do Chefe do Poder Executivo.
+    A possibilidade de fracionamento do valor da execução proposta contra a Fazenda Pública, considerando-se diversos credores, em ação plúrima, ao contrário do que constou no ato agravado, não foi objeto do extraordinário, tampouco veio a ser enfrentado pelo Tribunal local.
+    No mais, quanto ao tema da incidência da Lei distrital nº 3.624/05 sobre a execução de valores resultantes de condenação com trânsito em julgado anterior à vigência do referido diploma, o Supremo, recentemente, no Recurso Extraordinário nº 729.107, da minha relatoria, reconheceu a repercussão geral da matéria.
+    Relativamente à alegação de prejuízo do extraordinário, descabe assentá-lo, porquanto subsiste o interesse do Distrito Federal na definição da natureza da lei prevista no artigo 87 das Disposições Transitórias e no artigo 100, § 5º, do corpo permanente da Carta Federal e do regime aplicável à execução – requisição de pequeno valor ou precatório.
+    No tocante aos juros, o Plenário, no julgamento do Agravo de Instrumento nº 842.063, da relatoria do ministro Cezar Peluso, submetido à sistemática da repercussão geral, proclamou constitucional a aplicação imediata do artigo 1º-F da Lei nº 9.494/97, na redação conferida pela Medida Provisória nº 2.180-35/2001, mesmo em relação às ações ajuizadas antes da edição do ato do Chefe do Poder Executivo.
+    3. Considerado o fato de o recurso veicular as mesmas matérias dos paradigmas, havendo a intimação do acórdão impugnado ocorrido posteriormente à data em que iniciada a vigência do sistema da repercussão geral, bem como presente o objetivo maior do instituto – evitar que o Supremo, em prejuízo dos trabalhos, tenha o tempo tomado com questões repetidas –, determino a devolução do processo à origem. Faço-o com fundamento no artigo 328, parágrafo único, do Regimento Interno, para os efeitos do artigo 543-B do Código de Processo Civil. Para não haver cisão do julgamento do extraordinário, o Tribunal local só deve aplicar o preceito do § 3º do artigo 543-B após a conclusão do exame de todos os paradigmas pelo Plenário.
+    4. Publiquem.
+Brasília, 4 de agosto de 2015.
+Ministro MARCO AURÉLIO
+Relator
