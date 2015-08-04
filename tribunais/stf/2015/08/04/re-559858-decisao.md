@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Segunda Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ARROLAMENTO ADMINISTRATIVO DE BENS. ART. 64 DA LEI N.° 9.532, DE 1997.
+    O arrolamento de bens disciplinado no artigo 64 da Lei n.° 9.532, de 1997 é um procedimento administrativo por meio do qual a autoridade fiscal realiza um levantamento dos bens dos contribuintes, arrolando-os, sempre que o valor dos créditos tributários de sua responsabilidade for superior a trinta por cento do seu patrimônio conhecido. Apurada a existência de bens imóveis, é providenciado o competente registro, que tem a finalidade de dar publicidade, a terceiros, da existência de dívidas tributárias.
+    O arrolamento em questão visa assegurar a realização do crédito fiscal, bem como a proteção de terceiros, não violando o direito de propriedade, o princípio da ampla defesa e o devido processo legal, pois é medida meramente acautelatória e de interesse público, a fim de evitar que contribuintes que possuem dívidas fiscais consideráveis em relação a seu patrimônio, desfaçam-se de seus bens sem o conhecimento do F,ressados.
+    Diante da natureza da determinação, também não há de falar em violação aos princípios da ampla defesa e do devido processo legal.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, X, XXII, LIV e LV; 60, § 4°, IV; 93, IX; 170, II. Sustenta, em síntese, que deve ser reconhecida a inconstitucionalidade do arrolamento dos bens de propriedade da recorrente.
+    A pretensão não merece acolhida. A matéria relativa à legitimidade do arrolamento de bens do sujeito passivo de obrigação tributária, nos termos no artigo 64 da Lei nº 9.532/1997, é de índole infraconstitucional, circunstância que inviabiliza a admissão do recurso extraordinário. Nesse sentido, confira-se o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ARROLAMENTO DE BENS. REQUISITOS. LEI N. 9.532/97. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (AI 733.419-AgR, Relª. Minª. Carmén Lúcia)
+    Ademais, cumpre registrar que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia referente à violação aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Por fim, quanto à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+           Brasília, 04 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
