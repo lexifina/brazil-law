@@ -1,0 +1,31 @@
+Trata-se de reclamação formulada pelo Instituto dos Auditores Fiscais do Estado da Bahia – IAF SINDICAL contra decisão do 2º Vice-Presidente do Tribunal de Justiça baiano, que teria violado decisão desta Suprema Corte proferida na SS 3.772-AgR-ED/BA.
+    O reclamante informa que impetrou mandado de segurança perseguindo a equiparação do teto remuneratório dos Auditores Fiscais do Estado da Bahia ao subsídio mensal dos Desembargadores do Tribunal de Justiça baiano.
+    A segurança foi concedida, sendo, posteriormente, confirmada pelo Superior Tribunal de Justiça.
+    Aponta, então, que a questão de fundo já foi apreciada pelo Supremo Tribunal Federal, que, no julgamento do RE 576.336/RO, declarou a inexistência de repercussão geral da matéria (tema 81).
+    Alega, também, que
+    “[n]ão bastasse tal precedente, dotado, ressalte-se, de força vinculante, posto que espraia seus efeitos erga omnes, houve decisão especifica do Plenário deste Eg. STF, tomada a unanimidade, envolvendo as mesmas partes e em relação processual incidente, que firmou a ausência de competência para apreciação da matéria por parte deste C. Sodalício, ante a constatação de ausência de repercussão geral da matéria tratada, cf. se verifica do acórdão colacionado dos Emb. Decl. no Ag. Reg. na Suspensão de Segurança n. 3772/Bahia” (pág. 4 do documento eletrônico 1).
+    Destaca que o Estado da Bahia
+    “vem desafiando a autoridade da decisão tomada nos autos da Emb. Decl. no Ag. Reg. na Suspensão de Segurança n. 3772/Bahia, mediante interposição de sucessivos Recursos Extraordinários, que visam a rediscussão da negativa de repercussão geral e o encaminhamento dos autos a este Tribunal” (pág. 5 do documento eletrônico 1).
+    Aduz, ainda, tratar-se de ardil processual utilizado para evitar o trânsito em julgado do writ e
+    “busca não só desafiar o quanto decidido quando da apreciação do Tema 81, que teve como precedente o RE 576336, da Relatoria do Min. RICARDO LEWANDOWSKI, como a decisão dos Emb. Decl. no Ag. Reg. na Suspensão de Segurança n. 3772/Bahia, este com vinculação total, por se tratar de decisão incidente a mesma demanda” (pág. 6 do documento eletrônico 1).
+    Ante esse quadro fático, requer a procedência da presente reclamação para determinar o indeferimento de plano do recurso extraordinário e a declaração do trânsito em julgado da ação originária.
+    O parecer do Ministério Público Federal, da lavra do Procurador-Geral da República, Rodrigo Janot Monteiro de Barros, opina pela improcedência da reclamação (documento eletrônico 20).
+    É breve o relatório.
+    Decido.
+    Bem examinados os autos, vê-se que a pretensão não merece acolhida, pois o pedido formulado nesta reclamação não se enquadra em nenhuma das duas hipóteses permissivas inscritas no art. 102, I, l, da Constituição Federal, ou seja, não se presta a preservar a competência da Suprema Corte ou a garantir a autoridade de suas decisões.
+    Com efeito, o alegado desrespeito à autoridade das decisões proferidas no RE 576.336/RO e na SS 3.772/BA não autoriza a abertura da via processual da reclamação. Isso porque a pretensão do reclamante é o indeferimento de plano do recurso interposto pelo Estado da Bahia e a certificação do trânsito em julgado da ação originária. Por oportuno, transcrevo os pedidos do reclamante:
+    “A) seja concedida liminar, inaudita altera pars, para que o Recurso Extraordinário manejado pelo Estado da Bahia seja indeferido de plano (art. 543-A, §5º, do CPC), ante a inexistência de repercussão geral da matéria concernente ao teto salarial dos Auditores Fiscais da Bahia, declarada nos autos dos Emb. Decl. no Ag. Reg. na Suspensão de Segurança n. 3772/Bahia;
+    B) seja julgada PROCEDENTE a presente reclamação, confirmando-se a liminar outrora deferida, indeferindo de plano o Recurso Extraordinário do Estado da Bahia e, por conseguinte, declarando-se o trânsito em julgado do processo de origem (AGRAVO DE INSTRUMENTO EM RECURSO EXTRAORDINÁRIO Nº 0012017-10.2010.8.05.0000), fazendo prevalecer o quanto decidido por este Eg. STF nos autos dos Emb. Decl. no Ag. Reg. na Suspensão de Segurança n. 3772/Bahia, nos termos do art. 161, III, do RISTF;” (pág. 11 do documento eletrônico 1).
+    Muito bem pontuou a questão o parecer da lavra do Procurador-Geral da República, ao ressaltar que
+    “[i]nsurge-se o reclamante, em realidade, contra o fato de o TJBA ter julgado recurso supostamente protelatório interposto pelo Estado da Bahia.
+    Como se vê, não houve a indicação objetiva do descumprimento frontal ao teor do que decidido no acórdão em embargos declaratórios em agravo regimental na suspensão de segurança 3.772/BA.
+    Além disso, não é admissível o pedido de declaração de trânsito em julgado em processo de conhecimento que sequer tramitou perante o Supremo Tribunal Federal, haja vista o reconhecimento da inexistência de repercussão geral da temática em debate e a manutenção dos autos no TJBA, de acordo com a lei processual civil” (pág. 4 do documento eletrônico 20).
+    Desse modo, tendo em vista a manifesta ausência de identidade material entre o conteúdo do ato reclamado e os fundamentos emanados do paradigma ora invocado, não merece seguimento a pretensão do reclamante.
+    Destaco, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui na esfera de atribuições do Relator a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal.
+    Nesse sentido, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, poderá o Relator:
+    “negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil”.
+    Isso posto, nego seguimento a esta reclamação (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 4 de agosto de 2015.
+Ministro Ricardo Lewandowski
+Presidente
