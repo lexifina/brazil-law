@@ -1,0 +1,26 @@
+Decisão
+    Vistos.
+    Paulo Roberto Rocha Krohn interpõe tempestivo agravo regimental contra decisão em que conheci de agravo para negar seguimento ao recurso extraordinário, com o fundamento de que a solução da lide demandaria a análise da legislação infraconstitucional, das cláusulas do edital do certame e dos fatos e provas da causa, o que faria incidir, no caso, os óbices das Súmulas nºs 636, 454 e 279/STF.
+    Insiste o agravante na alegação de ofensa ao art. 5º, XXXV, da Constituição da República, apontado no recurso extraordinário. Alega que as referidas súmulas não seriam aplicáveis à hipótese dos autos e que teria havido violação direta do texto constitucional.
+    Aduz, in verbis, que:
+    “[P]ara se verificar se houve ou não negativa de prestação jurisdicional como pretendido pelo [agravante] basta verificar, que (...) trouxe a tese de que os critérios [concernentes ao exame psicotécnico] eram subjetivos e que o Edital não os trazia, já nas razões de apelação, e que, mesmo após ter sido adequadamente provocado via aclaratórios, o Tribunal de Justiça de origem manteve-se silente sobre tal fundamento, ignorando-o”.
+    Decido.
+    Tem razão o agravante.
+    Com efeito não há falar em aplicação, ao caso, dos óbices das referidas súmulas, haja vista que esta Corte já se pronunciou sobre o tema ora em debate, razão pela qual, reconsidero a decisão agravada e passo ao exame do recurso extraordinário.
+    O referido recurso extraordinário foi interposto contra acórdão da Sexta Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, contra acórdão assim ementado, na parte que interessa:
+    “ADMINISTRATIVO. CONCURSO PMDF. EXAME PSICOTÉCNICO. (...).
+    1. (...)
+    2. A L. 11.134/05, alterando a L. 7.289/84, exige, para matrícula nos cursos de formação dos estabelecimentos de ensino policial-militar, dentre outros requisitos, avaliação psicológica. Se é a lei que impõe, não se pode dispensar o exame.
+    3. Apelação provida para cassar a sentença e julgar improcedente o pedido.”
+    Alega-se no recurso extraordinário violação dos arts. 5º, inciso XXXV, e 37, caput e incisos I e II, da Constituição Federal, haja vista que a Corte de origem teria negado provimento ao pleito do autor sob o fundamento de que para a exigência de realização de exame psicotécnico, bastaria sua previsão em lei e no edital do certame, não havendo aquela Corte, refutado “qualquer das alegações do [recorrente] em relação à flagrante subjetividade dos critérios que pautaram o aludido exame, bem como o evidente cerceamento de defesa no âmbito administrativo, mediante a recusa do [recorrido] em disponibilizar o material usado no teste” .
+    Decido.
+    Entendo que merece prosperar a irresignação do recorrente.
+    Com efeito a Corte de origem ao concluir que para ser legítima a aplicação do teste psicotécnico seria suficiente sua previsão em lei e no edital, e que não caberia ao judiciário pronunciar-se sobre as questões relativas à necessidade de objetividade e publicidade dos critérios utilizados na sua realização, dissentiu do entendimento firmado pelo Plenário desta Tribunal, que no julgamento do AI nº 758.533/MG-RG, Relator o Ministro Gilmar Mendes, cuja repercussão geral havia sido reconhecida, reafirmou a orientação desta Corte no sentido de que a exigência de avaliação psicológica ou de teste psicotécnico, como requisito ou condição necessária em concursos públicos, somente é possível se houver lei em sentido material e formal que expressamente o autorize, além da previsão no edital do certame e que essa exigência também depende de um grau mínimo de objetividade e de publicidade dos atos em que se desdobra, sendo ilegítima a avaliação realizada com base em critérios não revelados. O acórdão do referido julgado foi assim ementado:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°).2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (DJe de 13/8/10) .
+    Desse modo, havendo o Tribunal de origem decidido com base na premissa equivocada de que para ser legítima a aplicação do teste psicotécnico, bastaria sua previsão em lei e no edital e que não caberia ao judiciário examinar e pronunciar-se acerca das questões relativas aos critérios utilizados para a aplicação do teste, incorreu, de fato, em negativa de prestação jurisdicional, pois em razão desse entendimento deixou de examinar os argumentos suscitados pelo recorrente no tocante à ausência de critérios objetivos e de publicidade que deveriam ter pautado o referido teste.
+    Ante o exposto, dou provimento ao recurso extraordinário, tão somente, para que a Corte de origem, afastada a premissa equivocada de que para ser legítima aplicação do teste psicotécnico basta sua previsão em lei e no edital, prossiga no exame do recurso de apelação no tocante às demais questões suscitadas pelo recorrente.
+    Publique-se.
+    Brasília, 5 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
