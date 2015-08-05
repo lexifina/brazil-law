@@ -1,0 +1,9 @@
+Decisão:
+    O recurso extraordinário não pode ser provido. As razões aduzidas pelo recorrente conflitam com a jurisprudência do Supremo Tribunal Federal. Confira-se:
+    “AGRAVO REGIMENTAL. AÇÃO RESCISÓRIA. ART. 485, V, DO CPC. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. NÃO OCORRÊNCIA. MÉRITO. ISS. ENTIDADES AUTORIZADAS A FUNCIONAR PELO BANCO CENTRAL. LEI COMPLEMENTAR QUE AFASTA A TRIBUTAÇÃO. AGRAVO IMPROVIDO. I – A obediência à cláusula de reserva de plenário não se faz necessária quando houver orientação consolidada do STF sobre a questão constitucional discutida. II – A Lei Complementar federal 56/1987, que institui hipótese de não incidência do ISS sobre atividades desempenhadas por instituições autorizadas a funcionar pelo Banco Central do Brasil foi recepcionada pela Constituição de 1988. III – Agravo regimental improvido”. (AR nº 2105 AgR-segundo / RJ, Rel. Min. Ricardo Lewandowski)
+    “CONSTITUCIONAL. TRIBUTÁRIO. ISS. LEI COMPLEMENTAR: LISTA DE SERVIÇOS: CARÁTER TAXATIVO. LEI COMPLEMENTAR 56, DE 1987: SERVIÇOS EXECUTADOS POR INSTITUIÇÕES AUTORIZADAS A FUNCIONAR PELO BANCO CENTRAL: EXCLUSÃO. I. - É taxativa, ou limitativa, e não simplesmente exemplificativa, a lista de serviços anexa à lei complementar, embora comportem interpretação ampla os seus tópicos. Cuida-se, no caso, da lista anexa à Lei Complementar 56/87. II. - Precedentes do Supremo Tribunal Federal. III. - Ilegitimidade da exigência do ISS sobre serviços expressamente excluídos da lista anexa à Lei Complementar 56/87. IV. - RE conhecido e provido” ( RE nº 361829 / RJ, Rel. Min. Carlos Velloso)
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 05 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
