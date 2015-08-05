@@ -1,0 +1,41 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Matheus Lopes Santos e outro, em favor de Diogo de Oliveira Pinto, contra decisão proferida pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao RHC 60.215/MG.
+    Extrai-se dos autos que, em 13.3.2015, o paciente, juntamente com outros agentes, foi preso por suposta prática do crime descrito no art. 33, caput, c/c art. 40, inciso VI, todos da Lei 11.343/06, por ter sido apreendido com 42 (quarenta e dois) invólucros e um tablete contendo aproximadamente 278g (duzentos e setenta e oito gramas) de maconha, para fins de comercialização, além de uma balança de precisão, R$ 70,00 (setenta reais), uma bolsa e 2 (dois) celulares.
+    Por vislumbrar presentes os requisitos autorizadores, o Juízo de primeiro grau converteu o flagrante em prisão preventiva. (eDOC 2, p.116-117)
+    O pedido de revogação da preventiva foi indeferido. (eDOC 2, p. 153-154; p.196-198)
+    Irresignada, a defesa manejou habeas corpus perante o Tribunal de Justiça de Minas Gerais, ao argumento de ausência dos requisitos do art. 312 do CPP, pois não se apresentou nenhum elemento concreto que justificasse a grave medida. A ordem foi denegada, nos termos do acórdão assim ementado:
+    “HABEAS CORPUS – TRÁFICO DE DROGAS – PRISÃO PREVENTIVA – REVOGAÇÃO – DECISÃO FUNDAMENTADA – PRESENÇA DOS REQUISITOS DOS ARTIGOS 312 E 313 DO CPP – GARANTIA DA ORDEM PÚBLICA – CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO – ORDEM DENEGADA.
+    Presente uma das hipóteses autorizadoras da prisão preventiva, previstas do art. 313, do CPP, bem como os requisitos do art. 312 do mesmo diploma legal, mostra-se acertada a manutenção da medida constritiva de liberdade, caso não seja recomendada a sua substituição por nenhuma outra de natureza cautelar presente no art. 319 do CPP que irá surtir o efeito desejado.
+    Inexiste constrangimento ilegal se a decisão que manteve a prisão cautelar visa salvaguardar a ordem pública, tendo em vista a gravidade concreta dos atos praticados, a periculosidade do paciente e a quantidade de drogas apreendidas.
+    Condições pessoais favoráveis, como primariedade, bons antecedentes e residência fixa, por si só, não são garantidoras do eventual direito a responder ao processo em liberdade, sobretudo se a prisão se faz necessária para a garantia da ordem pública.” (eDOC 2, p.283-286)
+    Ainda inconformada, a defesa interpôs recurso em habeas corpus perante o Superior Tribunal de Justiça, o qual negou provimento ao recurso. Confira-se:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. RECURSO NÃO PROVIDO.
+    1. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar o réu, antes de transitada em julgado a condenação, deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+    2. No caso, o Juiz de primeira instância apontou concretamente a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para justificar a necessidade de manter o paciente cautelarmente privado de sua liberdade, para respaldo da ordem pública, em razão da quantidade de entorpecente apreendido (278 g de maconha), somada às demais circunstâncias do caso concreto – além da droga, foram encontrados uma balança de precisão e um revólver e, ao que consta, o recorrente estaria ‘fabricando drogas em um sofá na residência’ (fl. 147) no momento em que a polícia chegou ao local.
+    3. Recurso não provido.”
+    Daí a impetração do presente writ.
+    Nesta Corte, os impetrantes aduzem, em síntese, a ocorrência de constrangimento ilegal, tendo em vista a ausência de fundamentação da segregação cautelar, bem como a ausência dos requisitos do art. 312 do CPP. Ressaltam que as provas foram colhidas de forma unilateral, sem a participação do paciente, tratando-se a prisão de medida mais gravosa.
+    Pleiteiam liminarmente a concessão da liberdade provisória do paciente ou, subsidiariamente, o deferimento das medidas previstas no art. 319 do CPP.
+    É o breve relatório.
+    Decido.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora.
+    Da análise dos autos, em sede de cognição sumária, não vislumbro constrangimento ilegal manifesto a justificar o deferimento da medida de urgência, uma vez que este não se revela de plano, impondo uma análise mais detalhada dos elementos de convicção trazidos aos autos, o que ocorrerá por ocasião do julgamento do mérito.
+    Nesse passo, numa delibação preliminar, entendo que a prisão do acusado está justificada, sobretudo, na necessidade de se garantir a ordem pública, considerando os fortíssimos indícios de que o paciente encontra-se a serviço do tráfico de drogas.
+    Cumpre ressaltar que a decretação da prisão preventiva se deu com substrato em fundamentação idônea, alicerçada nas peculiaridades do caso concreto, notadamente quando se destaca a gravidade real da conduta do paciente, que foi surpreendido pela polícia “fabricando drogas em um sofá na residência”.
+    Por oportuno, transcrevo trechos da decisão do magistrado a quo, que decretou a preventiva:
+    “Os elementos dos autos revelam indícios de autoria e materialidade, eis que os indiciados traziam consigo e transportavam substância entorpecente com fins de mercância, demonstrando que sua liberdade é uma ameaça a ordem pública. (…)
+    A segregação dos acusados Karla e Diogo é necessária para garantir a ordem pública e evitar que pratiquem novamente o crime de tráfico, sendo de se notar ter sido apreendido a quantia de 278,0 gramas de maconha, além de uma balança de precisão e um revólver calibre 38.”
+    Pertinente se faz, outrossim, trazer à baila os fundamentos invocados pelo Superior Tribunal de Justiça, in verbis:
+    “A jurisprudência desta Corte Superior é firme em assinalar que ‘toda custódia imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no art. 312 do Código de Processo Penal’ (RHC n. 47.588/PB, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/8/2014).
+    Isso significa dizer que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP, o que afasta a invocação da mera gravidade abstrata do delito ou o recurso a afirmações vagas e descontextualizadas de que a prisão é necessária para garantir a ordem pública ou econômica, a instrução criminal ou a aplicação da lei penal (fundamentação ope legis).
+    Dito de outro modo, para a decretação da prisão preventiva, são necessários prova da existência do crime e indícios suficientes de autoria (fumus comissi delicti ), bem como ao menos uma das exigências cautelares previstas no art. 312 do Código de Processo Penal (periculum libertatis).
+    Sob essas premissas, são suficientes as razões invocadas para embasar a ordem de prisão do ora recorrente, porquanto contextualizado, em dados concretos dos autos, o periculum libertatis.
+    Com efeito, o Juiz de primeira instância apontou concretamente a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para justificar a necessidade de manter o paciente cautelarmente privado de sua liberdade, para respaldo da ordem pública, em razão da quantidade de entorpecente apreendido (278 g de maconha), somada às demais circunstâncias do caso concreto – além da droga, foram encontrados uma balança de precisão e um revólver e, ao que consta, o recorrente estaria ‘fabricando drogas em um sofá na residência’ (fl. 147) no momento em que a polícia chegou ao local. (…)
+    À vista do exposto, nego provimento ao recurso.”
+    Dessa forma, salvo melhor juízo quanto ao mérito, os fundamentos adotados pela decisão proferida pelo STJ, assim como os demais elementos constantes dos autos, não autorizam a concessão da liminar.
+    Ante o exposto, indefiro a liminar.
+    Abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 5 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
