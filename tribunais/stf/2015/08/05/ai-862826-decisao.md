@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região.
+    No recurso extraordinário, sustenta-se violação dos artigos 2º, 5º, caput e inciso II, 97 e 150, inciso II, da Constituição Federal. Aduz que o órgão julgador, ao afastar a incidência dos arts. 30 da Lei nº 7.730/89 e 30 da Lei nº 7.799/89, que fixaram as Obrigações do Tesouro Nacional – OTN como índice de correção monetária das empresas, afrontou o princípio da reserva do plenário.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os artigos apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Mesmo que assim não fosse, o Plenário desta Corte, no julgamento do Recurso Extraordinário nº 208.526/RS, Relator o Ministro Marco Aurélio, no dia 20/11/13, por maioria, deu provimento ao recurso extraordinário para declarar a inconstitucionalidade do artigo 30, § 1º, da Lei nº 7.730/89, e do artigo 30, caput, da Lei nº 7.799/89, bem como determinou a aplicação do resultado do julgamento ao regime da repercussão geral reconhecida no RE nº 242.689/PR, Relator o Ministro Gilmar Mendes.
+    Na ocasião, a Corte decidiu no sentido de reconhecer o direito à parte recorrente à correção monetária nos termos da legislação revogada, sob o fundamento de que o distanciamento entre o índice fixado em lei e aquele que efetivamente refletiu a inflação do período causou uma disparidade muito grande quando da atualização das demonstrações financeiras com reflexos na apuração do lucro e consequentemente no valor do tributo a pagar, ocasionando a tributação de um lucro fictício. Consequentemente, declarou a inconstitucionalidade das referidas normas legais, sob o fundamento de que elas não resistiriam a um juízo de razoabilidade e de proporcionalidade, considerando o distanciamento muito grande entre o BTN e o IPC, do período discutido.
+    Assim, o acórdão recorrido não divergiu da orientação da corte ao concluir pela impossibilidade de utilização de índice que não reflete a inflação do ano base de 1989.
+    Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário. Índice de correção decorrente da declaração de inconstitucionalidade do art. 30 da Lei nº 7.799/89. Acórdão recorrido não divergente da orientação do STF. 1. Não cabe ao Supremo Tribunal Federal, em face da declaração de inconstitucionalidade do art. 30, § 1º, da Lei nº 7.730/89 e do art. 30 da Lei nº 7.799/89, definir o percentual de correção monetária a ser aplicado. Nesse sentido: RE nº 208.526/RS, Tribunal Pleno, Relator o Ministro Marco Aurélio. 2. O Tribunal de origem entendeu como razoável o índice do IPC no percentual de 42,72% para o mês de janeiro/89 e no de 10,14% para fevereiro/89. Incabível a pretensão de que o Supremo Tribunal Federal determine ao Juízo da execução a reabertura da discussão. 3. Agravo regimental não provido” (RE n° 344.049/DF-AgR, Primeira Turma, de minha relatoria, DJe de 23/6/14).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 5 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
