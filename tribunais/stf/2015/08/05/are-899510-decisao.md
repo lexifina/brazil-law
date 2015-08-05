@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte que assentara a impossibilidade de servidor estadual inativo aposentado em uma carga horária de 40 horas sofrer redução de seus proventos ao ser enquadrado em carga horária de 30 horas.
+    O recurso não deve admitido. Isso porque o Plenário Virtual do Supremo Tribunal Federal, no ARE 881.383-RG, julgado sob a relatoria do Ministro Teori Zavascki, assentou a ausência de repercussão geral da controvérsia ora em debate, por estar restrita ao âmbito infraconstitucional e demandar a reapreciação do conjunto fático-probatório dos autos. Confira-se a ementa do referido julgado:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORA PÚBLICA INATIVA. APOSENTADORIA NO CARGO DE PROFESSORA, COM CARGA HORÁRIA DE 40 HORAS. ALTERAÇÃO DO REGIME DO MAGISTÉRIO ESTADUAL E POSTERIOR REENQUADRAMENTO NO CARGO DE PROFESSOR, COM CARGA HORÁRIA DE 30 HORAS. OCORRÊNCIA DE DECESSO REMUNERATÓRIO. REEXAME DE FATOS E PROVAS (SÚMULA 279/STF). MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia diz respeito à diminuição de proventos de servidora inativa, aposentada no cargo de professora com carga horária de 40 horas, em decorrência da alteração do regime do magistério estadual do Rio Grande do Norte e posterior enquadramento da parte no cargo de professor com carga horária de 30 horas.
+    2. O Tribunal de origem decidiu que a alteração de regime não preservou o montante global do estipêndio até então percebido pela parte, tendo ocorrido redução de caráter pecuniário. O acolhimento da tese recursal, nesse ponto, demandaria a reapreciação do conjunto fático-probatório dos autos (Súmula 279/STF) e a análise da legislação infraconstitucional aplicável (Lei Complementar Estadual 322/06), de modo que eventual ofensa à Constituição Federal seria meramente indireta.
+    3. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/3/2009).
+    4. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, c/c o art. 543-A, § 5º, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e indefiro liminarmente o recurso extraordinário.
+    Publique-se.
+          Brasília, 05 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
