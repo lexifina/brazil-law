@@ -1,0 +1,36 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CONCESSÃO DE HORÁRIO ESPECIAL. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE CLÁUSULAS DE EDITAL. SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Primeira Seção Cível do Tribunal de Justiça de Mato Grosso do Sul decidiu:
+    “EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA - CONTRADIÇÃO - PRESENÇA - PREENCHIMENTO DOS REQUISITOS DO ARTIGO 535, DO CÓDIGO DE PROCESSO CIVIL - EFEITOS INFRINGENTES - RECURSO PROVIDO.
+    - Verificada a existência de contradição no julgado, o recurso merece ser acolhido.
+    - Se o suprimento do vício implicar alteração do resultado do julgamento retratado pelo acórdão embargado, a atribuição de efeitos infringentes é corolário lógico”.
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, foram adotados como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 280 deste Supremo Tribunal e a ausência de ofensa constitucional direta.
+    4. O Agravante argumenta que
+    “a lei estadual não é necessária para resolver a questão constitucional, sequer é necessário conhecer a lei estadual.
+    Realmente, no que tange ao artigo 37, II, da Constituição Federal foi levada a tese de que a parte autora foi aprovada para um cargo, mas o Tribunal de Justiça de Mato Grosso do Sul determinou que fosse dado posse para outro cargo.
+    O artigo 37, II, da CF foi violado diretamente porque houve o provimento derivado de cargo público, em claríssima ofensa ao art. 37, II, da CF”.
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 37, inc. II, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos postos no agravo, de cuja decisão se terá, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    O Desembargador Relator do caso assentou:
+    “No acórdão embargado, partiu-se da premissa de que a recorrente não conseguiria cumprir a jornada mínima exigida pelo artigo 23, I, b, da LC 87/2000 (Estatuto de Profissional da Educação), de 20 horas/aulas semanais, caso lhe fosse concedido o jornada especial prevista no artigo 172, da Lei Estadual n. 1.102/90 (Estatuto do Servidor Público), sendo esta uma das contradições apontadas.
+    A esse respeito, em que pese o horário noturno contar com apenas 12 horas/aulas semanais, não se pode olvidar que a recorrente ainda terá disponibilidade de trabalho no período vespertino, de modo que, sem maiores esforços, possui condições de atingir a carga horária mínima exigida em lei.
+    Ao consultar o edital, de fato, se constata na cláusula 1.6 que o candidato aprovado estaria habilitado para atuar tanto no Ensino Fundamental, nas disciplinas do 1° ao 9° ano, como no Ensino Médio, nas disciplinas do 1° ao 3° ano.
+    A divisão seria, portanto, na área de atuação disciplina, a teor do rol inserto na cláusula 1.9, bem como do respectivo Município de escolha dos candidatos, conforme se pode concluir, pela redação da cláusula 13.1, ambas do edital, dando ensejo a mais uma contradição no julgado.
+    Como se verifica, assiste razão à embargante, seja porque ela conseguirá atingir a carga horária mínima exigida, seja pelo fato de estar habilitada, segundo as regras do concurso em que foi aprovada, para lecionar no ensino fundamental e no ensino médio.
+    Pelo exposto, dou provimento aos embargos, em razão da contradição quanto à carga horária e à habilitação do concurso, para o fim de, atribuindo efeitos infringentes, sanar o vício destacado e conceder a segurança, determinando que a autoridade coatora altere parte do cumprimento da carga horária da embargante (Disciplina de História), para o período noturno, devendo o restante, ser comprido, no período vespertino, permitindo que se atinja, no mínimo, mas não limitados, 20 horas/aula semanais”.
+    A apreciação do pleito recursal dependeria do reexame de cláusulas de edital e da legislação infraconstitucional aplicável à espécie (Lei n. 1.102/1990). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 454 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 829.036-AgR, de minha relatoria, Primeira Turma, DJe 24.3.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. INTERPRETAÇÃO DE NORMAS EDITALÍCIAS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS STF 279 E 454. 1. As cláusulas do edital do certame e seu aditivo de convocação para curso de formação de soldados, quando aferidas pelas instâncias ordinárias, não pode ser revista pela E. Suprema Corte, em face da incidência das Súmulas nºs 279 e 454 do STF. 2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 3. A interpretação de cláusulas editalícias não viabiliza o recurso extraordinário, a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal. 4. In casu, o acórdão recorrido assentou: (). 5. Agravo regimental DESPROVIDO” (ARE 776.806-AgR/PB, Relator o Ministro Luiz Fux, Primeira Turma, DJe 30.4.2014).
+    “Agravo regimental no agravo de instrumento. Servidor público. Militar. Curso de formação de sargentos. Inscrição. Critérios. Edital. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise de cláusulas editalícias e de legislação infraconstitucional, bem como o reexame do conjunto fático-probatório da causa . Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (AI 851.779-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 3.10.2013).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal Federal, nada havendo a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de agosto de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
