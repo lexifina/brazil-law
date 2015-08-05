@@ -1,3 +1,3 @@
 Art. 14. O Comitê Olímpico Brasileiro - COB, o Comitê Paraolímpico Brasileiro - CPB e as entidades nacionais de administração do desporto, que lhes são filiadas ou vinculadas, constituem subsistema específico do Sistema Nacional do Desporto.
-§ 1º Aplica-se aos comitês e às entidades referidas no caput o disposto no inciso II do art. 217 da Constituição Federal, desde que seus estatutos estejam plenamente de acordo com as disposições constitucionais e legais aplicáveis.
+§ 1º Aplica-se aos comitês e às entidades referidas no caput o disposto no inciso II do art. 217 da Constituição Federal, desde que seus estatutos ou contratos sociais estejam plenamente de acordo com as disposições constitucionais e legais aplicáveis.
 § 2º Compete ao Comitê Olímpico Brasileiro - COB e ao Comitê Paraolímpico Brasileiro - CPB o planejamento das atividades do esporte de seus subsistemas específicos.

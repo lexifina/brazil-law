@@ -1,6 +1,7 @@
 Art. 42. Pertence às entidades de prática desportiva o direito de arena, consistente na prerrogativa exclusiva de negociar, autorizar ou proibir a captação, a fixação, a emissão, a transmissão, a retransmissão ou a reprodução de imagens, por qualquer meio ou processo, de espetáculo desportivo de que participem.
 § 1º Salvo convenção coletiva de trabalho em contrário, 5% (cinco por cento) da receita proveniente da exploração de direitos desportivos audiovisuais serão repassados aos sindicatos de atletas profissionais, e estes distribuirão, em partes iguais, aos atletas profissionais participantes do espetáculo, como parcela de natureza civil.
-§ 2º O disposto neste artigo não se aplica à exibição de flagrantes de espetáculo ou evento desportivo para fins exclusivamente jornalísticos, desportivos ou educativos, respeitadas as seguintes condições:
+§ 1º-A. (VETADO).
+§ 2º O disposto neste artigo não se aplica à exibição de flagrantes de espetáculo ou evento desportivo para fins exclusivamente jornalísticos, desportivos ou educativos ou para a captação de apostas legalmente autorizadas, respeitadas as seguintes condições:
 I - a captação das imagens para a exibição de flagrante de espetáculo ou evento desportivo dar-se-á em locais reservados, nos estádios e ginásios, para não detentores de direitos ou, caso não disponíveis, mediante o fornecimento das imagens pelo detentor de direitos locais para a respectiva mídia;
 II - a duração de todas as imagens do flagrante do espetáculo ou evento desportivo exibidas não poderá exceder 3% (três por cento) do total do tempo de espetáculo ou evento;
 III - é proibida a associação das imagens exibidas com base neste artigo a qualquer forma de patrocínio, propaganda ou promoção comercial.

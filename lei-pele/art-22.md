@@ -4,4 +4,5 @@ II - defesa prévia, em caso de impugnação, do direito de participar da eleiç
 III - eleição convocada mediante edital publicado em órgão da imprensa de grande circulação, por três vezes;
 IV - sistema de recolhimento dos votos imune a fraude;
 V - acompanhamento da apuração pelos candidatos e meios de comunicação.
-Parágrafo único Na hipótese da adoção de critério diferenciado de valoração dos votos, este não poderá exceder à proporção de um para seis entre o de menor e o de maior valor.
+§ 1º Na hipótese da adoção de critério diferenciado de valoração dos votos, este não poderá exceder à proporção de um para seis entre o de menor e o de maior valor.
+§ 2º Nas entidades nacionais de administração do desporto, o colégio eleitoral será integrado, no mínimo, pelos representantes das agremiações participantes da primeira e segunda divisões do campeonato de âmbito nacional.
