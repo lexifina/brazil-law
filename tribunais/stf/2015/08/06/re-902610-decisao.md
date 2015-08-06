@@ -1,0 +1,11 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da matéria constitucional igualmente versada na presente causa, julgou o RE 564.354/SE, Rel. Min. CÁRMEN LÚCIA, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “DIREITOS CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO NO TETO DOS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA. REFLEXOS NOS BENEFÍCIOS CONCEDIDOS ANTES DA ALTERAÇÃO. EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. DIREITO INTERTEMPORAL: ATO JURÍDICO PERFEITO. NECESSIDADE DE INTERPRETAÇÃO DA LEI INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA IRRETROATIVIDADE DAS LEIS. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    1. Há pelo menos duas situações jurídicas em que a atuação do Supremo Tribunal Federal como guardião da Constituição da República demanda interpretação da legislação infraconstitucional: a primeira respeita ao exercício do controle de constitucionalidade das normas, pois não se declara a constitucionalidade ou inconstitucionalidade de uma lei sem antes entendê-la; a segunda, que se dá na espécie, decorre da garantia constitucional da proteção ao ato jurídico perfeito contra lei superveniente, pois a solução de controvérsia sob essa perspectiva pressupõe sejam interpretadas as leis postas em conflito e determinados os seus alcances para se dizer da existência ou ausência da retroatividade constitucionalmente vedada.
+    2. Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+    3. Negado provimento ao recurso extraordinário.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+    Publique-se.
+    Brasília, 06 de agosto de 2015.
+Ministro CELSO DE MELLO
+Relator
