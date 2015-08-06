@@ -1,0 +1,19 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário.
+    A decisão agravada está correta e alinhada aos precedentes firmados pelo Supremo Tribunal Federal. Esta Corte, por meio de suas Turmas, pacificou o entendimento no sentido de não se reconhecer ao contribuinte o direito de creditar-se dos valores pagos a título de ICMS quando tal pagamento ocorreu devido a aquisição de bens destinados ao uso ou à integração no ativo fixo do estabelecimento. Confira-se:
+    “EMENTA: TRIBUTÁRIO. PRETENDIDO CRÉDITO RELATIVO AO ICMS INCIDENTE SOBRE A ENERGIA ELÉTRICA CONSUMIDA EM ESTABELECIMENTO COMERCIAL.
+    Descabimento.
+    ‘Não implicará crédito para compensação com o montante do imposto devido nas operações ou prestações seguintes, a entrada de bens destinados a consumo ou à integração no ativo fixo do estabelecimento’ (art. 31, II, do Convênio ICMS 66/88).
+    Se não há saída do bem, ainda que na qualidade de componente do produto industrializado, não há falar-se em cumulatividade tributária.
+    Recurso não conhecido.”(RE nº 200.168, rel. min. Ilmar Galvão, Primeira Turma, DJ 22.11.1996)
+    “IMPOSTO DE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – PRINCÍPIO DA NÃO-CUMULATIVIDADE – OBJETO. O princípio da não-cumulatividade visa a afastar o recolhimento duplo do tributo, alcançando hipótese de aquisição de matéria-prima e outros elementos relativos ao fenômeno produtivo. A evocação é imprópria em se tratando de obtenção de peças de máquinas, aparelhos, equipamentos industriais e material para a manutenção.” (RE nº 195.894, rel. min. Marco Aurélio, Segunda Turma, DJ 14.11.2000)
+    “IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – BASE DE CÁLCULO – INSUMOS – DIREITO AO CRÉDITO – OFENSA AO PRINCÍPIO DA NÃO-CUMULATIVIDADE – AGRAVO DE INSTRUMENTO DESPROVIDO.
+     1. O tema em discussão no recurso extraordinário diz respeito ao direito do contribuinte de utilizar-se de crédito de Imposto sobre Circulação de Mercadorias e Serviços com relação a bens adquiridos para uso e consumo e bens para o ativo permanente, em período anterior à vigência da Lei Complementar nº 87/96, bem como no período posterior, regido pela Lei Complementar nº 92, de 1997.
+     2. Na espécie, no que tange ao direito ao crédito em relação a bens integrados ao ativo fixo e insumos, cumpre perquirir o elo entre a mercadoria adquirida e a atividade, em si, na produção da própria empresa. Assim, a aquisição de equipamentos que irão integrar o ativo fixo da empresa não gera o direito ao crédito, tendo em conta que a adquirente mostra-se, na realidade, como consumidora final. Esse enquadramento harmoniza-se com a premissa segundo a qual, vindo a vender tais bens, sobre o negócio jurídico não se dará a incidência do ICMS. Hipótese diversa se verifica quando se trata de aquisição de energia elétrica, gastos com comunicação, ou gastos com matéria-prima adquirida e que venha a ser consumida ou integrada ao produto final, na condição de elemento indispensável à respectiva composição que, em última análise, afiguram-se como verdadeiros insumos.
+     3. Acresça–se que, em 23 de setembro de 2004, o Plenário, julgando as limitações ao aproveitamento do crédito do Imposto sobre Circulação de Mercadorias e Serviços, consubstanciadas em restrições temporais, concluiu que não houve ofensa ao princípio da não-cumulatividade, por entender que leis complementares poderiam fixar a regulamentação dos créditos, haja vista a previsão constitucional – artigo 155, § 2º, inciso XII, alínea “c”.
+     4. Diante do exposto, conheço do agravo e o desprovejo”. (AI nº 761828 / RS, Rel. Min. Marco Aurélio)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+    Brasília, 06 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
