@@ -1,0 +1,16 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 3ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+     “EXECUÇÃO FISCAL DE ALÇADA. MUNICÍPIO DE GUAPIMIRIM. RECURSO EXTRAORDINÁRIO IN-TERPOSTO NO JUÍZO DE ORIGEM. NÃO CONHE-CIMENTO. AGRAVO DE INSTRUMENTO. NÃO CABIMENTO.
+    In casu, O juiz de origem negou seguimento ao recurso extraordinário interposto em face da decisão proferida em sede de embargos infringentes de alçada, decisão esta que foi atacada via agravo de instrumento pelo Município. O recurso cabível seria o agravo para destrancar recurso excepcional, previsto no art. 544, do CPC. Outrossim, não se mostra viável a aplicação do princípio da fungibilidade, porquanto o agravo do art. 544 deve ser oferecido nos próprios autos e remetido para a presidência, nos termos do art. 544, §2º, do CPC, e o agravo de instrumento interposto diretamente no juízo ad quem. Precedentes desta Corte de Justiça
+    Recurso não conhecido. ”
+    A pretensão não merece acolhida. Incabível o recurso extraordinário com fundamento na alínea d do inciso III do art. 102 da Constituição. Isso porque o recurso, com base nesse dispositivo, depende da demonstração de conflito de competência legislativa entre entes da Federação, sendo inviável seu uso com a simples pretensão de rever interpretação dada pelo Tribunal de origem à norma infraconstitucional. Nesse sentido, veja-se trecho da ementa do ARE 697.583-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. IMPOSSIBILIDADE. OFENSA INDIRETA À CONSTITUIÇÃO. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA DE CONFLITO DE COMPETÊNCIA LEGISLATIVA AGRAVO IMPROVIDO.
+    (…)
+    V A admissão do recurso extraordinário pela alínea d do inciso III do art. 102 da Constituição Federal pressupõe a ocorrência de conflito de competência legislativa entre os entes da Federação. Dessa forma, é incabível o apelo extremo, fundado no aludido dispositivo, cuja pretensão seja provocar o reexame da interpretação de norma infraconstitucional conferida pelo Juízo de origem.
+    VI Agravo regimental improvido.”
+    Por fim, cumpre registrar que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia referente à violação aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 06 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
