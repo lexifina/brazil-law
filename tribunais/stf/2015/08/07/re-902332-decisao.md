@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão da Turma Recursal dos Juizados Especiais Federais do Estado de São Paulo. O decisum manteve a sentença que julgou improcedente o pedido de anulação de ato administrativo de revisão de aposentadoria, ao fundamento de que, sendo ato complexo, sujeito à homologação do Tribunal de Contas da União, poderia ser revisto a qualquer tempo (eDOC. 42, p. 1).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XXXVI, LIV e LV; 37, caput; 93, IX do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em suma, que o acórdão recorrido adotou fundamentação insuficiente. Aduz, ainda, que o ato de redução da aposentadoria se deu sem oportunizar ao recorrente o direito de manifestar-se, estando em desarmonia com os princípios constitucionais do devido processo legal, do contraditório e da ampla defesa.
+    É o relatório. Decido.
+    Quando do julgamento do recurso inominado, a Turma Recursal assentou que (eDOC. 42, p. 1):
+    “O autor foi devidamente notificado da revisão administrativa objeto da presente ação por meio de ofício expedido em 06.10.2005, não tendo, porém, procedido à impugnação respectiva na via administrativa”.
+    Sendo assim, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Além disso, nos termos da Súmula Vinculante 3 do STF, a garantia do contraditório e da ampla defesa é excepcionada nos casos em que o Tribunal de Contas da União aprecia a legalidade do ato de concessão inicial de aposentadoria, reforma e pensão.
+    Ressalte-se, ademais, que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário (RE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013).
+    Por fim, no que se refere à alegada negativa de prestação jurisdicional, há que anotar ser legítima, conquanto sucinta, a fundamentação acolhida pelo juízo de origem. Com efeito, a objetividade da fundamentação não configura ofensa ao art. 93, IX, da Constituição Federal, conforme precedente firmado por esta Corte em sede de repercussão geral. Confira-se:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    (AI 791292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, p. 113-118 )
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos arts. 557, caput, CPC e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 07 de agosto de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
