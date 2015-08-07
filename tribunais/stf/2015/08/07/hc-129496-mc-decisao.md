@@ -1,0 +1,44 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Rodrigo Rocha Batista, apontando como autoridade coatora o Ministro Gurgel de Faria, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 327.668/SP.
+    Inicialmente, assevera o impetrante que as circunstâncias do caso em apreço justificam a mitigação do enunciado da Súmula nº 691/STF.
+    Sustenta, ademais, a presença de constrangimento ilegal, pois a custódia preventiva do paciente padece de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos autorizadores da prisão previstos no art. 312 do Código de Processo Penal.
+    Requer, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva do paciente.
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão ora questionada:
+    “Trata-se de pedido de reconsideração formulado em favor de RODRIGO ROCHA BATISTA por meio do qual persegue a reforma da decisão de fls. 67/68, que indeferiu liminarmente o habeas corpus impetrado, por ausência da cópia do decreto preventivo.
+    O requerente pugna pela reconsideração da referida decisão, instruindo o pedido com documento necessário para o exame do alegado constrangimento ilegal (fl. 74/77).
+    Passo a decidir.
+    Compulsando os autos, verifica-se que o requerente/impetrante instruiu seu pedido com a cópia da medida constritiva, suprindo, portanto, a deficiência na instrução que motivou o indeferimento liminar do writ.
+    Analiso, então, o pleito liminar.
+    Extrai-se dos autos que o acusado teve sua prisão preventiva decretada em razão da suposta prática do delito tipificado no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006.
+    Irresignada, a defesa impetrou prévio habeas corpus perante o Tribunal a quo. A 6ª Câmara de Direito Criminal indeferiu liminarmente a ordem, ao fundamento de que as circunstâncias do crime e demais elementos justificam a decretação da medida (fls. 54/64).
+    Na presente insurgência, alega o impetrante, em suma, ausência de fundamentação idônea na medida constritiva, visto que não demonstrou, concretamente, a presença dos requisitos previstos no art. 312 do Código de Processo Penal.
+    Pugna, liminarmente, pela revogação do decreto constritivo, com a expedição de alvará de soltura, ou sua substituição por medidas cautelares previstas no art. 319 do Código de Processo Penal, e, no mérito, que seja confirmada a decisão de liminar.
+    Como é cediço, o pleito formulado em sede liminar exige, para o seu acolhimento, a presença de dois requisitos básicos: a fumaça do bom direito e o perigo na demora da prestação jurisdicional.
+    Na quadra presente, em um exame perfunctório da questão, próprio das tutelas de urgência, não vislumbro a existência de ilegalidade flagrante no acórdão atacado.
+    Ante o exposto, RECONSIDERO a decisão de fls. 67/68, e INDEFIRO a liminar” (grifos do autor).
+    Como visto, trata-se de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 deste Supremo Tribunal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+    Porém a jurisprudência deste Supremo Tribunal tem admitido a mitigação do enunciado em questão para aceitar o habeas corpos se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que se evidencia neste exame preambular.
+    No caso, o Juízo de Direito da 1ª Vara Criminal da Comarca de Santo André/SP, assim fundamentou a prisão preventiva do paciente:
+    “Diante da representação da autoridade policial e da manifestação do representante do Ministério Público a 54, tendo em vista a natureza gravo dos delitos tratados nesses autos e a necessidade de se garantir a ordem pública e assegurar a aplicação da lei penal, DECRETO A PRISÃO PREVENTIVA DE RODRIGO ROCHA BATISTA. Expeça-se mandado de prisão” (fl. 2 do anexo 7).
+    Por sua vez, o pedido de revogação formulado pela defesa do paciente, restou assim indeferido:
+    “A prisão Preventiva do acusado foi decretada a fls. 56, dos autos principais, oportunidade em que foi analisada a necessidade de sua custódia cautelar.
+    O delito ora tratado equipara-se a hediondo, nos termos da Constituição Federal e da Lei 8072/90, o que comprova a extrema gravidade da conduta.
+    Não se olvida que a prisão processual é medida excepcional, em vista do princípio constitucional da presunção de inocência. Ocorre que, na hipótese em tela, o acusado, em tese praticou crime de tráfico de drogas, fomentador de inúmeras outras praticas ilícitas graves, o que demonstra, ao menos neste fase de cognição, personalidade e conduta social não consoante ao convívio em sociedade.
+    Até o momento não foi apresentado nos autos motivo capaz de alterar a decisão anterior, e sendo assim, o pedido de fls. 02/06 fica indeferido.
+    (...)“ (fl. 1 do anexo 9).
+    Segundo a jurisprudência consolidada do Supremo Tribunal Federal, para que o decreto de prisão preventiva (assim como a sua manutenção) seja idôneo, é necessário que o ato judicial constritivo da liberdade traga, fundamentadamente, elementos concretos para justificá-lo. Nesse sentido: HC nº 98.673/SP, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 29/10/09; HC nº 99.043/PE, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 9/9/10; e HC nº 100.184/MG, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 1º/10/10, entre outros.
+    Na minha concepção, a justificativa da custódia preventiva, amparou-se, tão somente, na mera opinião do julgador sobre a gravidade em abstrato do crime, o que se mostra insuficiente para tanto, mormente se levado em conta a não indicação de elementos concretos e individualizados.
+    É firme o entendimento da Corte no sentido de que a gravidade em abstrato do delito não dá lastro à decretação ou à manutenção da prisão processual. Nesse sentido:
+    “Habeas corpus. Constitucional. Processual Penal. Tráfico de entorpecentes. Liberdade provisória. Vedação ex lege (art. 44 da Lei nº 11.343/06). Inadmissibilidade. Necessidade de comprovação da presença dos requisitos previstos no art. 312 do CPP. Condenação. Pena de 3 (três) anos e dez (10) meses de reclusão em regime inicial fechado. Fundamentação inexistente no caso concreto. Ordem parcialmente concedida. 1. A inafiançabilidade do delito de tráfico de entorpecentes, estabelecida constitucionalmente, não significa óbice à liberdade provisória, considerado o conflito do inciso XLIII com o LXVI (ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança), ambos do art. 5º da CF. 2. Para manter a prisão em flagrante, deve o magistrado fazê-lo com base em elementos concretos e individualizados, aptos a demonstrar a necessidade da prisão do indivíduo, nos termos do art. 312 do Código de Processo Penal. 3. Na hipótese em análise, contudo, ao manter a prisão cautelar do paciente, o Juízo não indicou elementos concretos e individualizados aptos a demonstrar a necessidade da prisão cautelar do ora paciente pelo crime de tráfico, nos termos do art. 312 do Código de Processo Penal. 4. Está sedimentado na Corte o entendimento de que a gravidade em abstrato do delito não basta para justificar, por si só, a privação cautelar da liberdade individual do agente. Precedentes. 5. Não mais subsistente a situação fática que ensejou a manutenção da prisão cautelar, é o caso de concessão parcial da ordem de habeas corpus, para que o Juiz de piso substitua a segregação cautelar por medidas cautelares diversas da prisão. 6. Ordem concedida em parte (HC nº 108.345/SP, Primeira Turma, de minha relatoria , DJe de 26/10/12 grifei).
+    Perfilhando esse entendimento: HC nº 103.536/MG, Primeira Turma, de minha relatoria, DJe de 22/3/11; HC nº 93.296/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 18/6/10; e HC nº 98.217/MS, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 16/4/10, entre outros.
+    Logo, essas circunstâncias, neste juízo de cognição sumária, configuram constrangimento ilegal flagrante, perfeitamente sanável pela via do habeas corpus.
+    Diante desse quadro, sem prejuízo de reexame posterior da matéria, defiro a liminar para, se por al não estiver preso, suspender a prisão preventiva do paciente nos autos do processo nº 0009469-38.2015.8.26.0554.
+    Comunique-se, com urgência, solicitando informações à autoridade coatora e ao Juízo de Direito da 1ª Vara Criminal da Comarca de Santo André/SP a respeito da situação processual do paciente.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 7 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
