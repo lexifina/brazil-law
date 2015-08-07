@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal (eDOC 5, pp. 309-311).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, LIV e LV; 7º, XXXIII; e 195 do Texto Constitucional.
+    É o relatório.
+    Inicialmente, verifica-se que o Supremo Tribunal Federal já assentou no ARE-RG 639.228, de relatoria do Ministro Cezar Peluso, DJe 31.08.2011, a ausência de repercussão geral quanto ao indeferimento de produção de provas.
+    Ademais, constato que eventual divergência ao entendimento adotado pelo juízo a quo, em relação à natureza jurídica do terço de férias, demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes: RE-AgR 369.181, Rel. Min. Roberto Barroso, Primeira Turma, DJe 25.03.2015; e RE-AgR 763.648, Rel. Min. Rosa Weber, Primeira Turma, DJe 1º.10.2014, este último assim ementado:
+    “DIREITO TRIBUTÁRIO. REPARAÇÃO DE DANOS DECORRENTES DE ACIDENTE DO TRABALHO. INSS. AÇÃO REGRESSIVA. RESPONSABILIDADE DO EMPREGADOR. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 13.3.2013. A controvérsia referente à ação regressiva do INSS em face do empregador, por reparação de danos decorrentes de acidente do trabalho, não alcança status constitucional, nos termos da jurisprudência pacífica desta Corte. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir de análise restrita à legislação infraconstitucional que fundamentou o acórdão de origem (Lei nº 8.213/1991), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Restou desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.”
+    Ante o exposto, nego seguimento ao agravo, nos termos dos arts. 544, §4º, II, “b”, do CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 7 de agosto de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
