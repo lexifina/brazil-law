@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça Militar do Estado de São Paulo ementado nos seguintes termos:
+    “POLICIAL MILITAR – AÇÃO ORDINÁRIA requerendo a anulação da decisão que expulso o autor das fileiras da Polícia Militar – Decisão de primeiro grau que julgou improcedente a demanda – Interposição de agravo retido contra o indeferimento da oitiva de testemunhas – Apelo buscando a reforma da Sentença reiterando os argumentos da inicial – Pedido de produção de prova oral indeferido de forma fundamentada – Inexistência dos vícios apontados no Conselho de Disciplina – Competência do Comandante Geral para baixar instruções complementares à interpretação, orientação e aplicação dos termos do regulamento disciplinar – Higidez das 1-16-PM – Observância dos princípios do devido processo legal, do contraditório e da ampla defesa – Decisão lastreada em elementos colhidos na instrução que atendeu a teoria dos motivos determinantes – Ato de expulsão praticado de maneira regular por autoridade competente – Ausência de ilegalidade ou abuso de poder – Sanção que não se mostrou desarrazoada ou desproporcional – Agravo retido e recurso de apelação que não comportam provimento.” (eDOC 3, p. 99)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 5º, II, LIV, LV; 37, caput; 93, IX; e 133, do texto constitucional.
+    Na espécie, o recorrente pretende a anulação do ato administrativo que culminou com sua expulsão da corporação militar, ao argumento de que a sanção a ele aplicada destoaria dos primados da razoabilidade e da proporcionalidade.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem consignou o seguinte:
+    “Conforme bem concluiu a Sentença recorrida, a decisão final do Comandante Geral, cuja cópia consta das fls. 136/138 dos autos, não discrepou do apurado no Conselho de Disciplina n. CPC – 008/64/11, estando em consonância com aquilo que, para o senso comum, seria aceitável perante a lei, havendo elementos de prova capazes de dar supedâneo à medida adotada.
+    A exclusão do militar exige que a Administração pondere além da prova dos fatos, a conveniência de manter em seus quadros ou fileiras, servidor que já não é mais digno da sua confiança.” (eDOC 3, p. 103)
+    Assim, para se concluir de forma diversa, imprescindível o reexame dos fatos e provas constantes dos autos, bem como da legislação aplicável à espécie Lei Complementar Estadual n. 893/2001 (que institui o Regulamento Disciplinar da Polícia militar do Estado de São Paulo), providências vedadas no âmbito do recurso extraordinário, a teor dos Enunciados n. 279 e 280/STF, respectivamente.
+    Nesse sentido, a jurisprudência desta Corte: AI-AgR 596.982, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.6.2010; AI-AgR 682.458, Rel. Min. Ellen Gracie, Segunda Turma, DJe 21.5.2010; AI-AgR 564.106, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 30.4.2010; RE-AgR 518.452, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 17.4.2009.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 7 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
