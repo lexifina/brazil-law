@@ -1,0 +1,9 @@
+ESTADO DE ALAGOAS
+
+GABINETE DO GOVERNADOR
+
+LEI Nº 7.714, DE 29 DE JULHO DE 2015.
+
+INSTITUI A CAMPANHA DE CONSCIENTIZAÇÃO À DOAÇÃO DE SANGUE.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
