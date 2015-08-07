@@ -1,0 +1,26 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Renan Gonçalves Antunes em favor de Cleyton Araújo Faria, João Lucas Rodrigues da Silva Siqueira, Luis Henrique Rodrigues da Silva e Matheus Ferreira Barbosa contra decisão monocrática da lavra da Ministra Laurita Vaz, no exercício da Presidência do Superior Tribunal de Justiça, que indeferiu a liminar no HC 329.235/SP.
+    Os pacientes foram presos em flagrante delito, e, posteriormente, denunciados pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico, tipificados no art. 33 e 35 da Lei 11.343/2006. O magistrado de primeiro grau converteu o flagrante em prisão preventiva forte na garantia da ordem pública, na conveniência da instrução criminal e para assegurar a aplicação da lei penal.
+    Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que indeferiu a medida cautelar.
+    Submetida a questão à apreciação do Superior Tribunal de Justiça no HC 329.235/SP, a Ministra Laurita Vaz indeferiu a liminar.
+    No presente writ, o Impetrante pugna, preliminarmente, pelo afastamento da Súmula 691/STF. Para tanto, assevera a ilegalidade das prisões em flagrante diante do uso indevido de algemas e da violência perpetrada pelas autoridades policiais aos pacientes, apontando, como elementos comprobatórios dos fatos alegados, as declarações prestadas pelos moradores do local do flagrante. Alega, ainda, a inexistência dos pressupostos autorizadores das prisões preventivas e a falta de fundamentação idônea. Afirma que os pacientes possuem residência fixa, não são reincidentes, nem possuem maus antecedentes, “salvo JOÃO LUCAS RODRIGUES DA SILVA SIQUEIRA, que ostenta, já que tem uma condenação para porte de uso de entorpecentes”. Requer, em medida liminar e no mérito, a revogação das custódias preventivas ou, sucessivamente, a aplicação de medidas cautelares diversas da prisão (art. 319 do CPP).
+    É o relatório.
+    Decido.
+    O ato apontado como coator, que indeferiu a liminar no HC 329.235/SP, foi exarado aos seguintes fundamentos:
+    “(...).
+          Cumpre anotar, de início, que o entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+    É o que está sedimentado no verbete sumular nº 691 STF ‘não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar’, aplicável, mutatis mutandis a este Superior Tribunal de Justiça (…).
+    A despeito de tal óbice processual, tem-se entendido que, casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência, para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessada, tarefa a ser desempenhada caso a caso.
+    Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior
+    Na hipótese em apreço, não é viável, em um juízo de conhecimento sumário, acolher-se a pretensão do Impetrante, já que a custódia cautelar encontra-se justificada pela garantia da ordem pública, por conveniência da instrução criminal e para assegurar a aplicação da lei penal (fl. 47).
+    Assim, a espécie em testilha não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável no presente juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito.
+    Ante o exposto, INDEFIRO o pedido de liminar”.
+    Registro que à falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    A compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 125.783/BA, de minha relatoria, 1ª Turma, DJe 27.3.2015; HC 124.052/PR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 24.11.2014; e HC 120.274/ES, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 20.6.2014.
+    De todo modo, em juízo de cognição sumária não detecto a ocorrência de situação autorizadora do afastamento do mencionado verbete.
+    Ademais, a liminar pleiteada tem caráter nitidamente satisfativo, confundindo-se com o próprio mérito da impetração, a merecer exame mais acurado pela composição colegiada competente para o seu julgamento.
+    Ante o exposto, indefiro o pedido de liminar .
+    Colha-se parecer do Ministério Público Federal.
+    Publique-se.
+    Brasília, 07 de agosto de 2015.
+Ministra Rosa Weber
+Relatora
