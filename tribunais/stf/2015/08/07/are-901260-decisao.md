@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, XXI, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao dispositivo da Constituição da República acima citado.
+    Consta do acórdão recorrido:
+    “Improbidade administrativa - Aquisição direta de materiais elétricos de empresa da qual o Diretor de Finanças havia sido sócio - Aquisições, isoladas, que não exigiam licitação – Algumas notas fiscais eram de serviços e outras de locação de equipamentos e caminhão guincho. Servidor que havia se afastado da empresa, antes das compras - Preços das mercadorias, que estavam adequados aos de mercado, sem prejuízo ao erário - A improbidade do art. 10 exige prejuízo aos cofres públicos, para sua configuração, fato não verificado. Também não houve enriquecimento ilícito. Ação improcedente - Recursos providos.” (folha 191)
+    Como se vê, o Tribunal de origem lastreou-se na prova produzida para firmar seu convencimento no sentido de que, na espécie, os valores mensais praticados estavam adequados ao mercado e não sobejaram o patamar que dispensa licitação, não havendo prejuízo ao erário. Considerou-se que o segundo recorrido, enquanto funcionário da empresa fornecedora, não integrou comissão de licitação e não realizou compra em nome do município.
+    Nesse contexto, somente mediante o revolvimento do quadro fático delineado seria possível aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo. Inadmissível, pois, o recurso extraordinário, em face do óbice da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Improbidade administrativa. Procedimento licitatório. Dispensa indevida. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário à análise da legislação infraconstitucional e ao reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido.” (ARE 757844 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 12/11/2013, PROCESSO ELETRÔNICO DJe-243 DIVULG 10-12-2013 PUBLIC 11-12-2013)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Dispensa de licitação. Promoção pessoal de agente público. 3. Improbidade administrativa não caracterizada. Necessidade de revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável à espécie. Súmula 279. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento.” (ARE 840108 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 09/12/2014, PROCESSO ELETRÔNICO DJe-249 DIVULG 17-12-2014 PUBLIC 18-12-2014)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de agosto de 2015.
+Ministra Rosa Weber
+Relatora
