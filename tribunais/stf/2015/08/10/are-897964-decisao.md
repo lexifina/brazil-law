@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. REVISÃO DE CONTRATO BANCÁRIO. INCOMPETÊNCIA DOS JUIZADOS ESPECIAIS PARA CAUSAS DE ALTA COMPLEXIDADE. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO VIRTUAL DO STF NO ARE 640.671-RG, TEMA Nº 433.  LIMITAÇÃO DE JUROS. CONTRATOS POSTERIORES À EC Nº 40/2003. MATÉRIA JÁ EXAMINADA SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA Nº 310. AI 804.209. COMISSÃO DE PERMANÊNCIA. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu seu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado, verbis:
+    “PRELIMINARES REJEITADAS. REVISÃO CONTRATUAL. INTELIGÊNCIA DO ART. 6º, INCISO V, DA LEI 8078/90. CLÁUSULAS ABUSIVAS VEDADAS PELO CDC. COMISSÃO DE PERMANÊNCIA. COBRANÇA DE JUROS EM PERCENTUAL SUPERIOR A 12% AO ANO. VANTAGEM EXCESSIVAMENTE ONEROSA AO CONSUMIDOR. RELATIVIZAÇÃIO DO PRINCÍPIO DO PACTA SUNT SERVANDA. INTERFERÊNCIA DO PODER JUDICIÁRIO NAS RELAÇÕES CONTRATUAIS DE CONSUMO. REPETIÇÃO DO INDÉBITO. RECURSO IMPROVIDO.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 192, § 3º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que não houve violação frontal e direta à Constituição.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Destaco, inicialmente, que o Supremo Tribunal Federal, nos autos do ARE 640.671, Rel. Min. Cezar Peluso, rejeitou a repercussão geral da controvérsia sobre a competência de juizados especiais face à alegação de complexidade da prova, por se tratar de matéria infraconstitucional. Eis a ementa do citado julgamento:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.”
+    Além disso, a limitação de juros a 12% (doze por cento) ao ano, quando sub judice sua cobrança, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do AI 804.209-RG, Tema nº 310, Rel. Min. Gilmar Mendes, DJe de 14/10/2010, que possui a seguinte ementa:
+    “Juros. Limitação em 12% ao ano. Contratos celebrados após o advento da Emenda Constitucional n. 40/2003. Legislação Infraconstitucional. Inexistência de repercussão geral.”
+    Por fim, verifica-se que a controvérsia acerca da legalidade da cobrança da comissão de permanência foi decidida com fundamento em normas infraconstitucionais e com apoio no conjunto fático-probatório dos autos. Ora, a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra ofensa reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido: RE 879.973, Rel. Min. Cármen Lúcia, DJe de 27/4/2015, e ARE 867.731, Rel. Min. Gilmar Mendes, DJe de 16/3/2015.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 10 de agosto de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
