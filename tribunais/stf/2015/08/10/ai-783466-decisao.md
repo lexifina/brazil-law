@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, 37, caput e XV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. LEGITIMIDADE DE ALTERAÇÃO DA FÓRMULA DE CÁLCULO DA REMUNERAÇÃO, DESDE QUE RESPEITADA A IRREDUTIBILIDADE DE VENCIMENTOS. OCORRÊNCIA DE DECESSO REMUNERATÓRIO. SÚMULA 279. INCIDÊNCIA. AGRAVO IMPROVIDO. I - A jurisprudência desta Corte firmou entendimento no sentido de que não há direito adquirido a regime jurídico, sendo legítima a alteração da fórmula de cálculo da remuneração, desde que não provoque decesso remuneratório. Precedentes. II – Para divergir do acórdão impugnado quanto à existência de redução nos vencimentos da recorrida, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 desta Corte. III - Agravo regimental improvido.” (AI 828.365-AgR/SP, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 22.5.2013).
+    De mais a mais, não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Servidor público municipal. Remuneração. Redução 3. Princípio da Legalidade. Ofensa indireta ou reflexa. Inadmissibilidade do recurso extraordinário. 4. Alegação de violação à garantia da irredutibilidade de vencimentos. Necessidade de exame prévio da legislação local. Súmula 280. 5. Agravo regimental a que se nega provimento.” (ARE 700.322-AgR/SP, Rel Min. Gilmar Mendes, 2ª Turma, DJe 16.10.2012).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de agosto de 2015.
+Ministra Rosa Weber
+Relatora
