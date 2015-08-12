@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PROGRESSÃO FUNCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO: INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL: INCIDÊNCIA DA SÚMULA N. 280 DESTE SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Turma Recursal Única dos Juizados Especiais Cíveis de Rondônia:
+    “AGRAVO REGIMENTAL. PRETENSÃO DE DISCUSSÃO ACERCA DOS TERMOS DA SENTENÇA. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. RECURSO MANIFESTAMENTE IMPROCEDENTE” (fl. 167).
+    2. No recurso extraordinário, o Agravante alega contrariedade ao art. 37, caput, da Constituição da República.
+    Assevera “inexistir decreto regulamentar com o objetivo de preencher as lacunas existentes na retro citada lei [Lei estadual n. 1.993/2008], com referência ao direito do pagamento da progressão funcional” (fl. 173).
+    3. A Turma Recursal de origem inadmitiu o recurso extraordinário ao fundamento de insuficiência da preliminar de repercussão geral.
+    No agravo, reitera-se o argumento formulado no recurso extraordinário quanto “às questões constitucionais citadas nos autos transcenderem os interesses subjetivos do Recorrente e Recorrido” (fl. 192).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Cumpre afastar o fundamento da decisão agravada, por ter o Agravante apresentado razões do que teve como demonstração de repercussão geral.
+    A superação desse fundamento, todavia, não é suficiente para atender-se a pretensão do Agravante, não lhe assistindo razão jurídica.
+    6. O recurso extraordinário é deficiente, não tendo o Agravante demonstrado, especificamente, eventual contrariedade ao art. 37, caput, da Constituição da República tisnaria o acórdão recorrido. Incide, na espécie vertente, a Súmula n. 284 do Supremo Tribunal Federal (RE 631.523-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 1º.7.2013; RE 667.051-AgR, de minha relatoria, Primeira Turma, DJe 16.5.2012; e RE 477.752-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 31.10.2007).
+    7. Ainda que se pudesse superar esse óbice, situação inexistente na espécie, a pretensão do Agravante não poderia prosperar.
+    8. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional estadual aplicável à espécie (Lei estadual n. 1.993/2008). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORA PÚBLICA MUNICIPAL. PROGRESSÃO FUNCIONAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 879.274-AgR, de minha relatoria, Segunda Turma, DJe 3.6.2015).
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 1º.7.2013. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Agravo regimental conhecido e não provido” (ARE 781.930-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 19.11.2014).
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROGRESSÃO FUNCIONAL. PROFESSORES. LEIS COMPLEMENTARES 67/1999, 144/2005 e 228/2011 DO ESTADO DO ACRE. ANÁLISE DE DIREITO LOCAL. SÚMULA 280/STF. REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE 835.809-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 7.11.2014).
+    Nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 12 de agosto de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
