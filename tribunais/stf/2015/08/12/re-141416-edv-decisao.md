@@ -1,0 +1,19 @@
+O Ministro Edson Fachin, integrante da Primeira Turma, encaminhou estes embargos de divergência à Presidência, a fim de que seja examinada eventual prevenção de um dos Ministros que compõe a Segunda Turma, tendo em vista o disposto no art. 76 do RISTF. Este é o teor da manifestação de Sua Excelência (fl. 290-291):
+    “Trata-se de embargos de divergência opostos a acórdão proferido pela Primeira Turma do STF, os quais foram distribuídos, originariamente, ao Ministro Ricardo Lewandowski que, à época, integrava a Segunda Turma.
+    Nos termos do art. 38 do RISTF, os autos vieram a mim distribuídos por substituição do Relator. No entanto, verifico que o artigo 76 do RISTF assim dispõe:
+    'Art. 76. Se a decisão embargada for de uma Turma, far-se-á a distribuição dos embargos dentre os Ministros da outra; se do Plenário, serão excluídos da distribuição o Relator e o Revisor.'
+    Por fim, ressalte-se que o atual Relator, infrafirmado, integra como membro a Primeira Turma desta Corte. Nessas situações, há jurisprudência do STF no sentido de que se deve processar a redistribuição do feito.
+    Cito, a propósito, os seguintes precedentes: RE-AgR-EDv 422.916, DJe 24.3.2015 e RE-AgR-EDv 433.477, DJe 24.32015, AR-AgR 2.109 e AR-AgR 2.209.
+    Ante o exposto, determino a remessa dos autos à Presidência do Supremo Tribunal Federal, com a finalidade de verificar possível prevenção a um dos Ministros da Segunda Turma”.
+    É o relatório. Decido.
+    Embora já tenha me manifestado diversamente em algumas oportunidades anteriores, como bem apontou o Relator do feito, o reexame dessa específica questão, à luz de manifestações já exaradas por esta Presidência, leva-me à conclusão de que não é caso de redistribuição dos embargos de divergência.
+    Com efeito, há diversas e consistentes decisões desta Presidência em que esclarecido que o objetivo da norma insculpida no art. 76 do Regimento Interno é impedir que os embargos de divergência tenham como Relator membro desta Corte que tenha participado do acórdão recorrido. Essa é a única razão para que os embargos de divergência sejam originariamente distribuído a um dos Ministros da outra Turma, visto que, ao final, o referido recurso será necessariamente julgado no Plenário por todos os componentes desta Casa, tenham ou não participado do acórdão embargado.
+    Desse modo, a regra regimental acima aludida já foi plenamente atendida quando os embargos foram distribuídos, de forma inaugural, com a exclusão dos Ministros da Primeira Turma, órgão fracionário prolator do acórdão recorrido.
+    Portanto, a circunstância de o atual Relator do feito, recém-ingresso nesta Corte, ser integrante da Primeira Turma em nada interfere nas regras de prevenção para o julgamento dos embargos de divergência pelo Plenário, uma vez que a mera substituição superveniente de relatoria, prevista no art. 38, IV, do RISTF, não tem o condão, por óbvio, de fazer surgir a situação não desejada pelo art. 76 do mesmo Regimento.
+    Em outras palavras, não tendo o Ministro Edson Fachin participado do julgamento em que prolatado o acórdão embargado na condição de membro da Primeira Turma, não há impedimento para que permaneça como Relator do feito, o qual será oportunamente julgado pelo Plenário.
+    Aponto, nessa direção, as seguintes decisões da Presidência do Supremo Tribunal Federal: RE 595.565-AgR-ED-EDv/RS, de minha lavra; AI 540.412-EDv-ED/SP, proferida pelo Min. Joaquim Barbosa; RE 494.628-AgR-ED-EDv/AM e RE 422.846-AgR-ED-EDv/SC, proferidas pelo Min. Cezar Peluso; RE 174.191-ED-EDv/SP, proferida pelo Min. Gilmar Mendes; e AI 388.823-AgR-ED-EDv/MG, proferida pela Min. Ellen Gracie.
+    Isso posto, determino a devolução dos autos ao Gabinete do Ministro Relator.
+    Publique-se.
+    Brasília, 12 de agosto de 2015.
+Ministro Ricardo Lewandowski
+Presidente
