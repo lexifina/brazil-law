@@ -1,0 +1,20 @@
+O Ministro Edson Fachin, integrante da Primeira Turma, encaminhou esta ação rescisória à Presidência, a fim de que seja examinada eventual prevenção de um dos Ministros que compõe a Segunda Turma, tendo em vista o disposto nos arts. 76 e 77 do RISTF. Este é o teor da manifestação de Sua Excelência (fl. 240-241):
+    “Trata-se de agravo regimental em ação rescisória que visa desconstituir acórdãos proferidos pela Primeira Turma do STF (AI-AgR 610.363 e AI-AgR-segundo-AgR 610.363), a qual foi distribuída, originariamente, ao Ministro Joaquim Barbosa que, àquela época, integrava a Segunda Turma.
+    Nos termos do art. 38 do RISTF, os autos vieram a mim distribuídos por substituição do Relator. No entanto, verifico que os artigos 76 e 77 do RISTF assim dispõem:
+    ‘Art. 76. Se a decisão embargada for de uma Turma, far-se-á a distribuição dos embargos dentre os Ministros da outra; se do Plenário, serão excluídos da distribuição o Relator e o Revisor.
+    Art. 77. Na distribuição de ação rescisória e de revisão criminal, será observado o critério estabelecido no artigo anterior.’
+    Por fim, ressalte-se que o atual Relator, infra firmado, integra como membro a Primeira Turma desta Corte. Nessas situações, há jurisprudência do STF no sentido de que se deve processar a redistribuição do feito.
+    Cito, a propósito, os seguintes precedentes: AR-AgR 2.109 e AR-AgR 2.209.
+    Ante o exposto, determino a remessa dos autos à Presidência do Supremo Tribunal Federal, com a finalidade de verificar possível prevenção a um dos Ministros da Segunda Turma.”
+    Em despacho de 5/8/2015, acolhi a proposta do Ministro Edson Fachin e determinei a redistribuição dos autos a um dos ministros da segunda turma desta Corte, nos termos regimentais.
+    Contudo, e embora já tenha me manifestado diversamente em algumas oportunidades anteriores, como bem apontou o Relator do feito, um estudo mais aprofundado da questão leva-me à conclusão de que não é caso de redistribuição da rescisória.
+    Com efeito, há diversas e consistentes decisões desta Presidência em que esclarecido que o objetivo da norma insculpida nos arts. 76 e 77 do Regimento Interno é impedir que a ação rescisória tenha como Relator membro desta Corte que haja proferido ou participado da decisão rescindenda. Essa é a única razão para que a rescisória ajuizada contra decisão ou acórdão proferido por uma Turma seja originariamente distribuído a um dos Ministros da outra, visto que, ao final, a referida ação originária deverá ser julgada no Plenário por todos os componentes desta Casa, tenham ou não participado da decisão rescindenda.
+    Desse modo, a regra regimental acima aludida já foi plenamente atendida quando o feito foi distribuído de forma inaugural, com a exclusão dos Ministros da Primeira Turma que a integravam naquele específico momento.
+    Portanto, a circunstância de o atual Relator do feito, recém-ingresso nesta Corte, ser integrante da Primeira Turma em nada interfere nas regras de prevenção para o julgamento da ação rescisória pelo Plenário, uma vez que a mera substituição superveniente de relatoria, prevista no art. 38, IV, do RISTF, não tem o condão, por óbvio, de fazer surgir a situação não desejada pelos arts. 76 e 77 do mesmo Regimento.
+    Em outras palavras, não tendo o Ministro Edson Fachin julgado ou participado do julgamento na condição de membro da Primeira Turma, não há impedimento para que permaneça como Relator do feito, o qual será oportunamente julgado pelo Plenário.
+    Aponto, nessa direção, as seguintes decisões da Presidência do Supremo Tribunal Federal: RE 595.565-AgR-ED-EDv/RS, de minha lavra; AR 1.531/SP e AI 540.412-EDv-ED/SP, proferidas pelo Min. Joaquim Barbosa; RE 494.628-AgR-ED-EDv/AM e RE 422.846-AgR-ED-EDv/SC, proferidas pelo Min. Cezar Peluso; RE 174.191-ED-EDv/SP, proferida pelo Min. Gilmar Mendes; e AI 388.823-AgR-ED-EDv/MG, proferida pela Min. Ellen Gracie.
+    Isso posto, tornando sem efeito a decisão por mim prolatada em 5/8/2015, determino a devolução dos autos ao Gabinete do Ministro Relator.
+    Publique-se.
+    Brasília, 12 de agosto de 2015.
+Ministro Ricardo Lewandowski
+Presidente
