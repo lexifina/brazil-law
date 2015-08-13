@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. AÇÃO REVISIONAL DE CONTRATO. PLANO DE SAÚDE. APLICAÇÃO DA LEI Nº 9.656/1998 AOS CONTRATOS COLETIVOS DE PLANO DE SAÚDE. ALEGADA VIOLAÇÃO AO ATO JURÍDICO PERFEITO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA.  AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que manteve os fundamentos da sentença, a qual assentou (fls. 120-125), verbis:
+    “julgo procedente os pedidos para condenar a requerida ap cumprimento de obrigação de fazer, consistente em autorizar a cobertura de exames PET SCAN, ressonância magnética, eco endoscopia e biópsia, em hospital e por médicos integrantes da rede credenciada.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXVI, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por não vislumbrar ofensa direta à Constituição.
+    É o relatório. DECIDO.
+    Não merece prosperar o agravo.
+    Esta Corte se orienta no sentido de que a alegada violação ao direito adquirido e ao ato jurídico perfeito, quando objeto de verificação de cada caso concreto acerca da ocorrência ou não de violação, não desafia a instância extraordinária, por implicar análise de matéria infraconstitucional. Nesse sentido:
+    “DIREITO CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. DEVOLUÇÃO DE VALORES PAGOS. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DA PRESTAÇÃO JURISDICIONAL, AO ATO JURÍDICO PERFEITO, AO DEVIDO PROCESSO LEGAL, AO CONTRADITÓRIO E À AMPLA DEFESA. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 28.01.2013. As razões do agravo não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate. O exame da alegada ofensa ao art. 5º, XXXV, XXXVI, LIV e LV, da Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Agravo regimental conhecido e não provido”. (ARE 745.842-AgR/RS, Rel. Min. Rosa Weber, Primeira Turma, DJe de 15/8/2013)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. VIOLAÇÃO AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO, À COISA JULGADA OU AOS PRINCÍPIOS DA LEGALIDADE, DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. EXAME DE NORMAS INFRACONSTITUCIONAIS. VIOLAÇÃO REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 733.465- AgR/RS, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 19/3/2013)
+    Ademais, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido, AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 13 de agosto de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
