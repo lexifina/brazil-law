@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+    “AGRAVO INTERNO EM APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO DE APELAÇÃO, COM FUNDAMENTO NO ARTIGO 557, CAPUT, DO CÓDIGO PROCESSUAL CIVIL. ANATOCISMO. MATÉRIA AFEITA ÀS AÇÕES DE REVISÃO DE CONTRATOS BANCÁRIOS. TENTATIVA DE ENFRENTAR POSIÇÃO SEDIMENTADA NESTA CORTE. AUSÊNCIA DE QUALQUER ARGUMENTO, FÁTICO OU JURÍDICO, CAPAZ DE ALTERAR O POSICIONAMENTO ADOTADO NA DECISÃO RECORRIDA. MANUTENÇÃO DO DECISIUM POR SEUS PRÓPRIOS FUNDAMENTOS. CONHECIMENTO E DESPROVIMENTO DO RECURSO.”
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso XXXVI, da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação, uma vez que as petições do recurso extraordinário e do respectivo agravo estão subscritas por advogados que não possuíam, no momento da interposição dos recursos, procuração nos autos para representar a recorrente. A jurisprudência desta Corte é firme no sentido de ser inexistente o recurso interposto por advogado sem procuração nos autos, não havendo falar, nessa fase processual, em aplicação do artigo 13 do Código de Processo Civil. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL. AUSÊNCIA DE PROCURAÇÃO DO SUBSCRITOR DA PETIÇÃO DO AGRAVO INTERPOSTO COM BASE NO ARTIGO 544 DO CPC E DA PETIÇÃO DO RECURSO EXTRAORDINÁRIO. RECURSO INEXISTENTE. É pacífico nesta Corte o entendimento de que é inexistente o recurso subscrito por advogado sem procuração nos autos. Agravo regimental a que se nega provimento” (ARE nº 721.763/RS-AgR, Tribunal Pleno, Relator o Ministro Presidente, DJe de 24/3/14).
+    “RECURSO - REPRESENTAÇÃO PROCESSUAL - REGULARIDADE - OPORTUNIDADE. Na hipótese de interposição de recurso, o pressuposto objetivo de recorribilidade, que é a regular representação processual, há de estar atendido no prazo assinado em lei para a própria interposição. Descabe aplicar, em tal fase, o disposto no artigo 13 do Código de Processo Civil, cuja incidência sempre pressupõe a fase de conhecimento. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (AI 546.997/SP-AgR, Primeira Turma, Relator o Ministro Marco Aurélio , DJ de 31/3/06).
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. I - A jurisprudência da Corte firmou-se no sentido de considerar inexistente o recurso interposto por advogado sem procuração nos autos e de que não se aplica a regra do art. 13 do CPC em sede extraordinária. II - Agravo regimental improvido” (AI 577.802/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski , DJ de 31/10/07).
+    “RECURSO - REPRESENTAÇÃO PROCESSUAL. A representação processual há de estar regular no prazo assinado para a prática do ato, ou seja, o recursal, descabendo o implemento de diligência” (RE nº 375.787/BA-AgR, Primeira Turma, Relator o Ministro Marco Aurélio , DJ de 27/10/06).
+    Ante o exposto, não conheço do agravo.
+    Publique-se.
+    Brasília, 13 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
