@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 142-143):
+    “JUIZADOS ESPECIAIS DA FAZENDA. SERVIDORA PÚBLICA DA SECRETARIA DE EDUCAÇÃO DO DISTRITO FEDERAL. LICENÇA POR MOTIVO DE DOENÇA EM PESSOA DA FAMÍLIA. RESTRIÇÃO DE CONCESSÃO DO BENEFÍCIO APENAS AO CÔNJUGE OU COMPANHEIRO, FILHOS E OUTRAS PESSOAS QUE TENHAM DEPENDÊNCIA ECONÔMICA DO SERVIDOR. ART. 283 DA LEI COMPLEMENTAR 840/2011. AUSÊNCIA DE COMPROVAÇÃO DA DEPENDÊNCIA ECONÔMICA DA GENITORA DA AUTORA/RECORRENTE. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+    1. Nos termos do art. 37, da Constituição Federal, a Administração deve agir estritamente dentro da legalidade, sobrepujando-se o interesse público sobre o privado, salvo manifesta inconstitucionalidade do ato normativo combatido, o que não se verifica no caso em espécie.
+    2. O Estatuto do Servidor Público do DF, nos artigos 134 e 135, estabelece que pode ser concedida licença ao servidor, por motivo de doença em pessoa da família, mediante comprovação por junta médica oficial, além de outras restrições e limitações. Por outro lado, o artigo 283, do mesmo Estatuto, define que, para efeitos desta Lei Complementar, consideram-se da família do servidor o cônjuge ou o companheiro, os filhos e, na forma da legislação federal do imposto de renda da pessoa física, os que forem seus dependentes, hipótese na qual se enquadram os genitores. Destarte, o genitor doente necessitado de acompanhamento há que ser dependente econômico do servidor público, não existindo autorização legal para o deferimento da licença pelo simples fato do parentesco.
+    3. Na hipótese, a parte autora/recorrente não comprova a condição de dependência econômica de sua genitora (art. 333, I, do CPC), o que seria possível por meio da sua declaração do imposto de renda.
+    4. Não se verifica, no caso, ofensa à dignidade da pessoa humana, ou presença de risco de dano irreparável, ou de difícil reparação, isto porque a parte demandante tem outros meios para se dedicar à assistência de seu genitor enfermo, como usufruir da licença para tratar de interesses particulares, ou mesmo férias.
+    5. Recurso conhecido e improvido. Sentença mantida por seus próprios fundamentos. A súmula de julgamento servirá de acórdão, conforme regra dos arts. 27 da Lei n. 12.153/2009 e 46 da Lei n. 9.099/1995. Condenada a autora/recorrente ao pagamento das custas processuais e dos honorários advocatícios fixados em R$ 100,00 (cem reais), cuja exigibilidade resta suspensa em face da gratuidade de justiça já deferida.”
+    Os embargos de declaração foram rejeitados (fls. 151-153).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, alega-se ofensa aos arts. 3º, I e III, da Constituição Federal.
+    Sustenta-se, em síntese, que o Estado deve promover a solidariedade e buscar o bem de todos (fls. 161). Alega-se, ainda, ofensa aos princípios da razoabilidade, proporcionalidade e da legalidade.
+    Além disso, argui-se que “é incontroverso nos autos que a Autora cumpriu todos os requisitos objetivos previstos em lei, ou seja, tratava-se de sua genitora, operada e internada e era indispensável o acompanhamento de um familiar.” (fls. 159)
+    O Tribunal a quo não admitiu o recurso com fulcro no óbice das Súmulas 282, 356 e 280 do STF e na ausência de fundamentação referente à preliminar de repercussão geral.
+    É o relatório. Decido.
+    Não merece prosperar o presente recurso.
+    Com efeito, da leitura das razões acolhidas pelo acórdão recorrido, conforme se depreende do item 3 da ementa colacionada, constata-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação aplicável à espécie (Leis Complementar Distrital 840/2011), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 14 de agosto de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
