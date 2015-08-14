@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279/STF. QUANTUM INDENIZATÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO AI 839.695-RG. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado com arrimo na alínea “a” do permissivo constitucional, contra acórdão assim ementado (vol. 4, fl. 28):
+    “AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÃNSITO. ATROPELAMENTO. MORTE. REPARAÇÃO DE DANOS. EMPRESA CONCESSIONÁRIA DE TRANSPORTE COLETIVO. RESPONSABILIDADE OBJETIVA. CULPA EXCLUSIVA DA VÍTIMA NÃO DEMONSTRADA. DANOS MORAIS. CRITÉRIOS PARA O ARBITRAMENTO DA VERBA INDENIZATÓRIA – RAZOABILIDADE E PROPORCIONALIDADE. DESCONTO SEGURO DPVAT”.
+    Nas razões de apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37, § 6º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário sob o óbice da Súmula nº 279 do STF.
+    É o relatório. DECIDO.
+    Não merece prosperar o presente agravo.
+    O nexo de causalidade apto a gerar indenização por dano moral em face da responsabilidade do Estado, quando controversa sua existência, demanda a análise do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula nº 279/STF que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário.”
+    Não se revela cognoscível, em sede de Recurso Extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se à fundamentação vinculada de discussão eminentemente de direito, face ao óbice erigido pela Súmula nº 279/STF. Nesse sentido, RE 678.144-AgR/PB, Rel. Min. Rosa Weber, Primeira Turma, DJe 19/2/2013, RE 600.866-AgR/RJ, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 13/12/2012, e RE 587.311-AgR/RJ, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 30/11/2010, assim ementado:
+    “Agravo regimental em recurso extraordinário. 2. Responsabilidade objetiva do Estado. Art. 37, § 6º, da CF. Acidente de trânsito. Comprovação do fato e do nexo causal. Indenização por dano material 3. Incidência das Súmulas 279 e 283 do STF. 4. Agravo regimental a que se nega provimento.”
+    Ademais, os danos morais e materiais decorrentes de relação entre concessionária de serviço público e consumidor, quando o quantum indenizatório for aferido pelas instâncias ordinárias, não revelam repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do AI 839.695-RG, da Relatoria da Min. Cezar Peluso, DJe 1º/9/2011, o qual possui a seguinte ementa:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Quantum indenizatório. danos morais e materiais. concessionária de serviço público. Consumidor. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o quantum indenizatório de condenação por danos morais e materiais decorrentes da relação entre concessionária de serviço público e consumidor, versa sobre tema infraconstitucional.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 14 de agosto de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
