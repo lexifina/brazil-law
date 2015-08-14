@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da Sexta Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 1, p. 92) :
+    “APELAÇÃO CÍVEL. REPROVAÇÃO EM PROVA DE APTIDÃO FÍSICA EM CONCURSO PARA O CARGO DE INSPETOR DE SEGURANÇA E ADMINISTRAÇÃO PENITENCIÁRIA. SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO AUTORAL, PARA DECLARAR A AUTORA APTA NA PROVA FÍSICA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA AD CAUSAM DA CEPERJ QUE NÃO SE ACOLHE, NA MEDIDA EM QUE É A ENTIDADE CONTRATADA PARA REALIZAR O CONCURSO E A QUEM COMPETE EXECUTAR AS ETAPAS DO CERTAME. CRITÉRIO DEFINIDO DE CORRIDA DE 100 METROS EM 18’. CANDIDATA QUE CONCLUIU O PERCURSO EM 18’60. AUSÊNCIA NO EDITAL DE PREVISÃO QUANTO AOS CENTÉSIMOS DE SEGUNDOS. OS ATOS ADMINISTRATIVOS TAMBÉM DEVEM OBSERVAR O PRINCÍPIO DA RAZOABILIDADE. PRECEDENTES JURISPRUDENCIAIS. SENTENÇA MANTIDA. NEGADO PROVIMENTO AO RECURSO.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 6).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 5º; e 37, caput e inciso II, da Constituição Federal.
+    Sustenta-se que, “ao contrário do que pretende fazer crer a parte autora, a limitação prevista no edital do certame ora questionado – tempo mínimo – não configura, no caso vertente, qualquer violação ao princípio da isonomia (ou mesmo razoabilidade, como adiante há de se demonstrar), conforme corrobora a jurisprudência sedimentada no âmbito deste E. Tribunal.”Ademais, alega-se que, “ao desconsiderar a previsão editalícia de tempo mínimo exigido para concluir a prova física, haveria prejuízo aos demais candidatos, em evidente violação aos princípios constitucionais da impessoalidade e da igualdade entre os candidatos.”(eDOC 2, pp. 28/29).
+    A Vice-Presidência do TJRJ inadmitiu o recurso extraordinário, com fundamento na inexistência de ofensa direta à Constituição Federal.
+    É o relatório. Decido.
+    O Tribunal de origem concluiu que a candidata cumpriu o percurso referente à prova de aptidão física no tempo estipulado no edital do certame, 18’, porquanto nele não houve previsão dos centésimos de segundos. Para se chegar a conclusão diversa daquela a que chegou o Juízo a quo, seria necessário o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido, bem assim das regras do edital pertinente e da legislação infraconstitucional aplicável à espécie. Isso inviabiliza o processamento do apelo extremo, nos termos da vedação contida nas Súmulas 279, 280 e 454 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes: ARE 871.346-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 20.05.2015 e ARE 814.834-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 21.08.2014.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 14 de agosto de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
