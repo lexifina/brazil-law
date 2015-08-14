@@ -1,0 +1,15 @@
+Decisão: Cuida-se de habeas corpus, com pedido de liminar, impetrado de acórdão do STJ cuja ementa transcrevo:
+    AGRAVO REGIMENTAL. HABEAS CORPUS. CRIME CONTRA AS TELECOMUNICAÇÕES (ARTIGO 70 DA LEI 4.117/1962). CUMPRIMENTO DAS CONDIÇÕES IMPOSTAS EM SUSPENSÃO CONDICIONAL DO PROCESSO. EXTINÇÃO DA PUNIBILIDADE. MANDAMUS JULGADO PREJUDICADO ANTE A PERDA DO OBJETO. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. AUSÊNCIA DE AMEAÇA OU LESÃO À LIBERDADE DE LOCOMOÇÃO DO PACIENTE. ENUNCIADO 695 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. DESPROVIMENTO DO RECURSO. 1. Não se vislumbra qualquer ofensa ao princípio da colegialidade ante o julgamento monocrático do habeas corpus, uma vez que o Regimento Interno desta Corte Superior de Justiça, no artigo 34, incisos XI e XVIII, permite que o Relator julgue prejudicado pedido ou recurso que haja perdido objeto, bem como negue seguimento a pedido ou recurso manifestamente intempestivo, improcedente, contrário à Súmula do Tribunal, ou quando for evidente a incompetência deste, exatamente como na espécie. 2. Tal como consignado no pronunciamento judicial objurgado, a extinção da punibilidade do acusado pelo cumprimento das condições impostas em sede de suspensão condicional do processo acarreta a perda do objeto do mandamus impetrado em seu favor, uma vez que não subsiste qualquer ofensa ou ameaça à liberdade de locomoção. Precedentes. Súmula 695 do Supremo Tribunal. 3. Agravo regimental improvido. (AgRg no HC 201.533/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/05/2014, DJe 14/05/2014)
+    Neste habeas corpus, o impetrante insiste na tese de absolvição do paciente.
+    É o relatório, passo a decidir.
+    Preliminarmente, esta Corte não mais admite a impetração de habeas corpus originário, substitutivo do recurso cabível, tendo em vista a taxatividade da competência definida no art. 102, I, d e i, e inciso III, a, todos da Constituição Federal.
+    Neste sentido: HC 110.055/MG, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 9/11/12; HC 106.158/MG, Rel. Min. Dias Toffoli, Primeira Turma, DJe 9/8/2013; HC 113.805/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 15/4/2013; HC 118.981/MT, Rel. Min. Rosa Weber, Primeira Turma, DJe 19/11/2013, dentre outros.
+    Assim, o writ é manifestamente incabível, considerada a jurisprudência desta Corte.
+    Ademais, verifico não haver excepcionalidade que autorize a concessão da ordem de ofício.
+    In casu, o acórdão impugnado está em consonância com a súmula n. 695 do Supremo Tribunal Federal – não cabe habeas corpus quando já extinta a pena privativa de liberdade –, tendo em vista a extinção da punibilidade do crime pelo qual o paciente foi condenado. Portanto, não há qualquer ameaça ou lesão ao direito ambulatorial do paciente.
+    Ex positis, nego seguimento ao habeas corpus, por ser manifestamente incabível, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Arquivem-se.
+    Brasília, 14 de agosto de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
