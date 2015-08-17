@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 255):
+    “RECURSO EM SENTIDO ESTRITO. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRONÚNCIA. EXCLUSÃO DAS QUALIFICADORAS. INVIABILIDADE. NULIDADE DA DECISÃO QUANTO À MANUTENÇÃO DA PRISÃO. IMPROCEDÊNCIA. REVOGAÇÃO DA CONSTRIÇÃO CAUTELAR. IMPOSSIBILIDADE. SUBSISTÊNCIA DOS MOTIVOS DETERMINANTES DA CUSTÓDIA. 1 – O Corpo de Jurados é o julgador constitucionalmente estabelecido para julgar os crimes dolosos contra a vida, por isso o entendimento firmado é de que só pode ser excluída da decisão intermediária a circunstância qualificadora manifestamente improcedente, sem amparo nos elementos dos autos, o que não ocorre na espécie. 2 – Na hipótese, o magistrado, ao manter a custódia na pronúncia, reportou-se aos fundamentos que ensejaram a decretação da prisão preventiva, o que, por si só, não configura ilegalidade. 3 – Deve ser mantida a segregação do acusado, se persistem os motivos que deram ensejo à sua decretação, inexistindo fatos novos a ensejar a revogação da medida constritiva.
+    Recurso desprovido.”
+    Foram opostos embargos de declaração, que restaram desprovidos.
+    No recurso extraordinário, interposto com base no art. 102, III, “a” e “c”, do permissivo constitucional, aponta-se ofensa ao art. 93, IX, da Constituição Federal. Busca-se, em suma, o reconhecimento da nulidade do acórdão confirmatório da decisão de pronúncia, que manteve a prisão cautelar do recorrente sob os mesmos fundamentos da decisão que determinou a prisão preventiva.
+    A Presidência do TJGO inadmitiu o recurso extraordinário por ausência de prequestionamento e de fundamentação quanto à alínea “c” do art. 102, III, da Constituição Federal.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Em que pesem as razões expendidas no recurso extraordinário, verifico que o acórdão recorrido afastou as alegações de nulidade da manutenção da prisão preventiva, ao destacar que a decisão de pronúncia reportou-se aos fundamentos que ensejaram a decretação da cautelar. Passo a transcrever o trecho do voto, no que interessa:
+    “[...]
+    Ao se referir, expressamente, às razões que alicerçaram a ordem de prisão, está o juiz a promover a incorporação, ao ato decisório, da motivação declinada anteriormente, justamente ante a ausência de alteração da situação fática desde a determinação da custódia, o que atende a um só tempo ao comando constitucional previsto no art. 93, IX, da Constituição Federal, e ao disposto no art. 413, § 3º, do Código de Processo Penal.
+    [...]” (Fls. 263).
+    Observo que esse entendimento está em consonância com a jurisprudência desta Corte, no sentido de ser compatível com o art. 93, IX, da Constituição Federal a técnica de motivação por referência ou por remissão, como bem ressaltado pelo Ministro Celso de Mello, no julgamento do RE 790.913-AgR:
+    “Reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação ‘per relationem’, que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado – referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir. Precedentes.”
+    No mesmo sentido: AI 814.640-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 01.02.2011; AI 825.520-AgR-ED, Rel. Min. Celso de Mello, Segunda Turma, DJe 12.09.2011; ARE 781.848-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 27.06.2014.
+    Destaco, por outro lado, que a prisão cautelar foi mantida com fundamento na gravidade concreta do delito e na garantia da aplicação da lei penal, levando-se em conta que o acusado evadiu-se do local do crime e não possui endereço fixo.
+    Dessa forma, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se. Intime-se.
+    Brasília, 17 de agosto de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
