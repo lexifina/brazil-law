@@ -1,0 +1,11 @@
+Ref. Petição/STF: 16.720/2012
+    Decisão: 1. O Estado de São Paulo requer habilitação no processo na condição de amicus curiae. Afirma que a decisão a ser proferida nos presentes autos o afetará, pois a controvérsia diz respeito a incentivo fiscal envolvendo tributo de competência dos Estados-membros.
+    No tocante ao mérito, adere às teses da Confederação proponente no sentido da inconstitucionalidade da Lei 14.186/2002 e do Decreto 5.686/2002, ambos do Estado de Goiás, arguindo que “(...) para a concessão de isenções, benefícios ou incentivos fiscais há necessidade de lei complementar regulamentando a forma como essas deliberações serão tomadas pelos Estados e pelo Distrito Federal” e apontando, ainda, a invalidade da vinculação da receita de imposto estadual ao denominado FUNPRODUZIR.
+    2. O pedido de colaboração processual como amicus curiae em processos objetivos há de ter sua viabilidade aferida, pelo Ministro Relator, de maneira concreta e em consonância com os fatos e argumentos apresentados pelo órgão ou entidade, a partir de 2 (duas) pré-condições cumulativas, a saber: (a) a relevância da matéria e (b) a representatividade do postulante (§ 2º do art. 7º da Lei 9.868/1999).
+    No caso, os requisitos estão satisfeitos. Segundo a jurisprudência da Corte (ver, nesse sentido, a ADI 2021 MC, Rel. Min. Celso de Mello, DJ de 18/5/01), os Governadores de Estado possuem legitimidade ativa para propor ações diretas de inconstitucionalidade em face de legislações de outros Estados quando estas abonem a concessão de benefícios fiscais que possam repercutir nas receitas tributárias de outras unidades federativas, tendo em vista as possíveis repercussões negativas para a estabilidade do pacto da Federação brasileira. Se isto é suficiente para investir Governadores de Estados no direito de propor ações diretas, o mesmo motivo bastará para caracterizar a representatividade do Estado de São Paulo para atuar na presente causa.
+    3. Ante o exposto, defiro o ingresso do Estado de São Paulo, na qualidade de amicus curiae, devendo a Secretaria proceder às anotações pertinentes.
+    Publique-se. Intime-se.
+    Brasília, 17 de agosto de 2015
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
