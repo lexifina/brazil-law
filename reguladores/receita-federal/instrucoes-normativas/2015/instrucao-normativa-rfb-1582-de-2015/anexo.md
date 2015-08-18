@@ -1,0 +1,6 @@
+ANEXO I - COMPROVANTE DE INSCRIÇÃO E SITUAÇÃO CADASTRAL
+[arquivo anexo: Anexo I.pdf]
+ANEXO II - COMPROVANTE DE INSCRIÇÃO E SITUAÇÃO CADASTRAL - SIMPLIFICADO
+[arquivo anexo: Anexo II.pdf]
+ANEXO III - RELAÇÃO DE DOCUMENTOS
+[arquivo anexo: Anexo III.pdf]
