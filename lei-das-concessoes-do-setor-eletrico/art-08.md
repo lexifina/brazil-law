@@ -4,3 +4,14 @@ Art. 8º As concessões de geração, transmissão e distribuição de energia e
 § 3º Aplica-se o disposto nos §§ 1º ao 6º do art. 1º às outorgas decorrentes de licitações de empreendimentos de geração de que trata o caput, o disposto no parágrafo único do art. 6º, às concessões de transmissão, e o disposto no art. 7º, às concessões de distribuição.
 § 4º Ficam reduzidas a zero as alíquotas da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - COFINS incidentes sobre as indenizações a que se referem o § 2º.
 § 5º (VETADO).
+§ 6º A licitação de que trata o caput poderá utilizar os critérios estabelecidos nos incisos I e II do caput do art. 15 da Lei nº 8.987, de 13 de fevereiro de 1995, ou a combinação dos dois critérios.
+§ 7º O pagamento pela outorga da concessão, a que se refere o inciso II do caput art. 15 da Lei nº 8.987, de 13 de fevereiro de 1995, será denominado, para fins da licitação de que trata o caput, bonificação pela outorga.
+§ 8º A partir de data a ser estabelecida pelo Conselho Nacional de Política Energética - CNPE, a parcela da garantia física que não for destinada ao Ambiente de Contratação Regulada - ACR será de livre disposição do vencedor da licitação, não se aplicando a essa parcela o disposto no § 1º ao § 3º do art. 1º.
+§ 9º Exclusivamente na parcela da garantia física destinada ao ACR, os riscos hidrológicos, considerado o Mecanismo de Realocação de Energia - MRE, serão assumidos pelas concessionárias e permissionárias de distribuição do SIN, com direito de repasse à tarifa do consumidor final.
+§ 10. Caberá ao Ministério de Minas e Energia, entre outras competências, propor ao CNPE os seguintes parâmetros técnicos e econômicos:
+I - valores de bonificação pela outorga das concessões a serem licitadas;
+II - prazo e forma de pagamento; e
+III - nas licitações de geração:
+a) a parcela da garantia física destinada ao ACR dos empreendimentos de geração licitados nos termos deste artigo, observado o limite mínimo de setenta por cento destinado ao ACR, observado o disposto no § 3º; e
+b) a data de que trata o § 8º.
+§ 11. Nos casos previstos nos incisos I e II do § 10, será ouvido o Ministério da Fazenda.
