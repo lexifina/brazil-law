@@ -8,3 +8,4 @@ Art. 15. A tarifa ou receita de que trata esta Lei deverá considerar, quando ho
 § 7º As informações de que trata o § 6º, quando apresentadas, serão avaliadas e consideradas na tarifa do concessionário a partir da revisão periódica, não havendo recomposição tarifária quanto ao período em que não foram consideradas.
 § 8º O regulamento do poder concedente disporá sobre os prazos para envio das informações de que tratam os §§ 6º e 7º.
 § 9º Ficam reduzidas a 0 (zero) as alíquotas da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - COFINS incidentes sobre as indenizações a que se referem os §§ 1º e 2º.
+§ 10. A tarifa ou receita de que trata o caput deverá considerar, quando couber, a parcela de retorno da bonificação pela outorga de que tratam os § 7º e § 10 do art. 8º, observada, para concessões de geração, a proporcionalidade da garantia física destinada ao ACR.
