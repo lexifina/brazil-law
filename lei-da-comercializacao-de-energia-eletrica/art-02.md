@@ -5,9 +5,9 @@ III - prazos de antecedência de contratação e de sua vigência;
 IV - mecanismos para cumprimento do disposto no inciso VI do art. 2º da Lei nº 9.478, de 6 de agosto de 1997, acrescido por esta Lei;
 V - condições e limites para repasse do custo de aquisição de energia elétrica para os consumidores finais;
 VI - mecanismos para a aplicação do disposto no art. 3º, inciso X, da Lei nº 9.427, de 26 de dezembro de 1996, por descumprimento do previsto neste artigo.
-§ 1º Na contratação regulada, os riscos hidrológicos serão assumidos conforme as seguintes modalidades contratuais:
-I - pelos geradores, nos Contratos de Quantidade de Energia;
-II - pelos compradores, com direito de repasse às tarifas dos consumidores finais, nos Contratos de Disponibilidade de Energia.
+§ 1º Na contratação regulada, a critério do Ministério de Minas e Energia, os riscos hidrológicos serão assumidos, total ou parcialmente, pelos geradores ou pelos compradores, com direito de repasse às tarifas dos consumidores finais, conforme as seguintes modalidades contratuais:
+I - Contratos de Quantidade de Energia; e
+II - Contratos de Disponibilidade de Energia.
 § 2º A contratação regulada de que trata o caput deste artigo deverá ser formalizada por meio de contratos bilaterais denominados Contrato de Comercialização de Energia no Ambiente Regulado - CCEAR, celebrados entre cada concessionária ou autorizada de geração e todas as concessionárias, permissionárias e autorizadas do serviço público de distribuição, devendo ser observado o seguinte:
 I - as distribuidoras serão obrigadas a oferecer garantias;
 II - para a energia elétrica proveniente de empreendimentos de geração existentes, início de entrega no mesmo ano ou até no segundo ano subsequente ao da licitação e prazo de suprimento de no mínimo 1 (um) e no máximo 15 (quinze) anos;
@@ -35,6 +35,7 @@ b) usinas que produzam energia elétrica a partir de fontes eólicas, pequenas c
 c) Itaipu Binacional; ou
 d) Angra 1 e 2, a partir de 1º de janeiro de 2013.
 e) empreendimentos de geração cuja concessão foi prorrogada ou licitada nos termos da Medida Provisória nº 579, de 11 de setembro de 2012.
+f) energia contratada nos termos do art. 1º, § 3º, inciso I, e § 5º, inciso II, da Medida Provisória nº 688, de 18 de agosto de 2015.
 § 9º No processo de licitação pública de geração, as instalações de transmissão de uso exclusivo das usinas a serem licitadas devem ser consideradas como parte dos projetos de geração, não podendo os seus custos ser cobertos pela tarifa de transmissão.
 § 10. A energia elétrica proveniente dos empreendimentos referidos no inciso II do § 8º deste artigo não estará sujeita aos procedimentos licitatórios para contratação regulada previstos neste artigo.
 § 11. As licitações para contratação de energia elétrica de que trata este artigo serão reguladas e realizadas pela Agência Nacional de Energia Elétrica - ANEEL, observado o disposto no art. 3º-A da Lei nº 9.427, de 26 de dezembro de 1996, com a redação dada por esta Lei, que poderá promovê-las diretamente ou por intermédio da Câmara de Comercialização de Energia Elétrica - CCEE.
