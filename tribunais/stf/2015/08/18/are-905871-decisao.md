@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia. Veja-se o seguinte trecho de ementa:
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. PRELIMINAR DE CARÊNCIA DE AÇÃO REJEITADA. DECADÊNCIA NÃO CONFIGURADA. ELIMINAÇÃO DE CONCURSO PÚBLICO. POLÍCIA MILITAR. LIMITE DE IDADE. CANDIDATO QUE CONTAVA COM IDADE COMPATÍVEL QUANDO DA INSCRIÇÃO. VIOLAÇÃO AO PRINCÍPIO DA RAZOABILIDADE. APELO A QUE SE NEGA PROVIMENTO.”
+      O recurso não merece acolhida. De início, nota-se que é firme o entendimento do Supremo Tribunal Federal no sentido de que é possível a imposição de limite de idade para inscrição em concurso público, desde que haja anterior previsão legal e que a exigência seja razoável diante das atribuições do cargo público. Nessa linha, no julgamento do RE 678.112-RG, julgado sob a relatoria do Ministro Luiz Fux, foi reconhecida a repercussão geral da matéria e reafirmada a jurisprudência no sentido de que “o estabelecimento de limite de idade para inscrição em concurso público apenas é legítimo quando justificado pela natureza das atribuições do cargo a ser preenchido”. Veja-se a ementa do ARE 696.304-AgR, julgado sob relatoria da Ministra Rosa Weber:
+    “DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL CIVIL. LIMITE DE IDADE. PREVISÃO EM LEI ESPECÍFICA. LEGITIMIDADE. APLICAÇÃO DA SÚMULA 683/STF. INCIDÊNCIA DA LEI COMPLEMENTAR ESTADUAL 113/2010. SUPRESSÃO DA EXIGÊNCIA. EFEITOS RETROATIVOS: IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO PUBLICADO EM 16.3.2012.
+    A jurisprudência desta Corte firmou-se no sentido da legitimidade da imposição de limite de idade para inscrição em concurso público, quando previsto em lei, tendo em vista a natureza das atribuições do cargo a ser preenchido. Aplicação da Súmula 683/STF.
+    A Lei Complementar Estadual 113/2010 não pode retroagir para ser aplicada a concurso público realizado antes de sua vigência.
+    Agravo regimental conhecido e não provido.”
+    Do mesmo modo, prevalece nesta Corte a orientação de que o limite de idade, quando regularmente fixado em lei e no edital de determinado concurso público, há de ser comprovado no momento da inscrição do certame, tendo em conta a impossibilidade de se antever a data em que será realizada a fase fixada como parâmetro para aferição do requisito da idade. Nessa linha, veja-se a ementa do ARE 721.339-AgR, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. Limite etário para participação de curso de formação da Polícia Militar do Estado do Ceará. Impossibilidade de dimensionar o período transcorrido entre a abertura das inscrições do concurso e a efetiva homologação. A comprovação da idade deve dar-se no momento da inscrição. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento”.
+    A decisão proferida pelo Tribunal de origem não diverge desse entendimento.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
