@@ -1,0 +1,21 @@
+Decisão: Trata-se de de recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição, contra acórdão proferido pela Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Distrito Federal, assim ementado:
+    “CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. POLICIAIS MILIARES E BOMBEIROS DO DISTRITO FEDERAL. REAUSTE DE 28,86%. LEIS Nº 8.622/93 E 8.627/93. ILEGITIMIDADE PASSIVA DA UNIÃO. INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. ART. 267, VI, DO CÓDIGO DE PROCESSO CIVIL. SENTENÇA MANTIDA.
+    Embora seja reservada à União a incumbência de organizar e manter a Polícia Militar e o Corpo de Bombeiros Militar do Distrito Federal, consoante o art. 21, XIV, da Constituição Federal, o vínculo jurídico-funcional dos membros dessas corporações é firmado diretamente com o Distrito Federal – unidade federativa que, como tal, detém personalidade jurídica, patrimônio próprio, além de autonomia administrativa e legislativa.
+    Ademais, o caput do art. 42 da Constituição Federal afasta, de modo peremptório, qualquer forma de interpretação tendente a inserir os membros da Polícia Militar e do Corpo de Bombeiros Militar do Distrito Federal no quadro de servidores da União Federal.
+    Considerando que a União Federal é parte ilegítima para figurar no pólo passivo da demanda, faz-se mister o reconhecimento da incompetência absoluta da Justiça Federal para processar e julgar o feito.
+    Sentença mantida. Processo extinto sem julgamento de mérito, nos termos do art. 267, IV, do Código de Processo Civil.
+    Recurso improvido. Honorários advocatícios fixados em R$ 2550,00 (duzentos e cinquenta reais), de acordo com o art. 55 da Lei nº 9.099/95.
+    Julgamento em consonância com o art. 46 da Lei 9.099/95” (eDOC 6).
+    Os embargos de declaração opostos foram rejeitados (eDOC 10).
+    Nas razões do recurso extraordinário, aponta-se violação aos arts. 21, XIV; e 109, I, da Constituição Federal. Sustenta-se que é a União, e não o Distrito Federal, o responsável pela elaboração e processamento das folhas de pagamento da União, inclusive da Polícia Militar e do Corpo de Bombeiro Militar do Distrito Federal, o que torna a Justiça Federal competente para julgar os feitos relativos ao reajuste da remuneração desses profissionais. Pugna-se pela reforma do acórdão recorrido para que seja determinar o regular processamento do feito perante a Justiça Especial Federal Cível do Distrito Federal.
+    A Procuradoria-Geral da República manifestou-se pelo conhecimento e provimento do recurso.
+    Decido.
+    No julgamento do ARE 665.632-RG, tema 806 da sistemática da repercussão geral, Rel. Min. Teori Zavascki, DJe 28.4.2015, restou consignado o seguinte:
+    “Esse dispositivo, conforme bem apontado pela sentença, reproduzia vedação constante do art. 13, § 4º, da Constituição de 1967, na redação da EC 1/69, que proibia o pagamento, ao pessoas das Polícias Militares e Corpo de Bombeiros Militares dos Estados, do Distrito Federal e dos Territórios, de remuneração superior à fixada para os postos e graduações correspondentes no Exército. Tal impedimento, entretanto, não foi reproduzido na Carta Magna de 1988. Na verdade, os arts. 42, § 1º, e 142, § 3º, X, da CF/88 limitam-se a conferir aos Estados a competência para fixar, mediante lei estadual específica, a remuneração dos militares integrantes dos quadros das suas Polícias Militares e Corpo de Bombeiros Militares,
+    É certo, todavia, que essas normas não se aplicam ao Distrito Federal, cujas Polícias Civil e Militar e Corpo de Bombeiro Militar, por disposição do art. 21, XIV, da CF/88, são organizadas e mantidas pela União, a quem compete privativamente legislar sobre o vencimento dos integrantes de seus respectivos quadros. A propósito, há entendimento sumulado: compete à União legislar sobre vencimentos dos membros das Polícias Civil e Militar do Distrito Federal (Súmula 647/STF).”
+    Ante o exposto, devolvam-se os autos ao tribunal de origem, para que observe o disposto no art. 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 19 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
