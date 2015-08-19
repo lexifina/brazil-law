@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão prolatado pela instância de origem que firmou entendimento no sentido da existência de amparo legal para a incidência de contribuição previdenciária sobre Adicional de Local de Exercício (ALE), verba esta que se incorpora aos proventos de aposentadoria e pensão.
+    No recurso extraordinário, sustenta-se violação do artigo 150, I e II, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, uma vez que para acolher a pretensão da parte agravante acerca da análise da sucessão de leis e consequente revogação de normas, seria necessário o exame da legislação infraconstitucional pertinente. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PARA O FUNRURAL PREVISTA NA LEI COMPLEMENTAR 11/1971. DEFINIÇÃO DA LEI REVOGADORA: LEI 7.787/1989 OU LEI 8.213/1991. QUESTÃO INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I – A questão atinente à definição da lei que revogou a contribuição para o FUNRURAL prevista na Lei Complementar 11/1971 possui natureza infraconstitucional. II - Agravo regimental improvido” (RE n° 555.118/PR-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 6/9/11).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. REVOGAÇÃO E REPRISTINAÇÃO DE NORMA ESTADUAL. CONTROVÉRSIA DE NATUREZA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n° 838.293/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/5/11).
+    Ressalte-se, ainda, que não cabe ao Poder Judiciário, em razão do princípio da isonomia, estender tratamento tributário concedido aos policiais militares para os policiais civis, sob pena de afronta ao princípio fundamental da separação dos poderes; caso contrário faria o Judiciário papel de legislador positivo, função estranha à competência que a Constituição lhe conferiu. Nesse sentido: RE nº 405.579/PR, Tribunal Pleno, Relator o Ministro Joaquim Barbosa, DJe de 4/8/11; RE nº 631.641/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 13/2/13; ARE nº 742.618/RJ-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 22/10/13, este último assim ementado:
+    “DIREITO TRIBUTÁRIO. PEDIDO DE EXTENSÃO DE BENEFÍCIO FISCAL A CONTRIBUINTE NÃO ALCANÇADO PELA NORMA DE REGÊNCIA. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA ISONOMIA. ATUAÇÃO DO PODER JUDICIÁRIO COMO LEGISLADOR POSITIVO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO PUBLICADO EM 15.6.2012. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à conformidade do entendimento do acórdão recorrido com a jurisprudência do STF, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido” (ARE nº 742.618/RJ-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 22/10/13) (Grifei).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
