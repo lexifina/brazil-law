@@ -1,0 +1,23 @@
+DECISÃO:
+ementa: Penal e Processo Penal. Inquérito. Peculato. Ausência de Prova da Materialidade e Responsabilidade Penal dos Investigados. Arquivamento Requerido pelo Procurador-Geral da República.
+1. As provas até então colhidas não indicam que o servidor tenha recebido vencimentos do erário para prestação de serviços particulares aos investigados.
+2. Não há, também, indício de nomeação concomitante de assessor parlamentar para atender a ambos os investigados em órgãos distintos.
+3. O pedido de arquivamento de inquérito formulado pelo Procurador-Geral da República, via de regra, deve ser acolhido sem outras digressões, ressalvadas as hipóteses de reconhecimento de atipicidade da conduta e prescrição, que ensejam a formação de coisa julgada material. Precedentes.
+4. Inquérito arquivado, ressalvada a hipótese do art. 18, do CPP.
+    1. Trata-se de inquérito instaurado para apurar a prática, em tese, do delito tipificado no art. 312, caput e § 1º, do Código Penal, com a participação do Deputado Federal Sílvio Serafim Costa, à época dos fatos Deputado Estadual de Pernambuco e de Sílvio Serafim Costa Filho, eleito vereador do município de Recife.
+    2. O inquérito foi instaurado a partir de notícia-crime oriunda de reclamação trabalhista proposta por José Fernandes Gonçalves contra os investigados, na qual alegava ter prestado serviços privados de segurança pessoal aos parlamentares e suas famílias, a despeito de estar nomeado para cargo em comissão na Câmara Municipal de Recife/PE.
+    3. Após diversas diligências, detalhadas na promoção de fls. 83/88, a Procuradoria-Geral da República concluiu que a prova até então produzida não ratificava a hipótese de que o servidor tivesse recebido vencimentos do erário para prestação de serviços particulares aos investigados. Considerou, no entanto, que ainda pendia de esclarecimento se José Fernandes havia exercido cargo comissionado de forma concomitante na Câmara Municipal de Recife/PE e na Assembleia Legislativa de Pernambuco e, por isso, requereu outras diligências.
+    4. Antes de o pedido ser analisado, o Procurador-Geral da República requereu nova vista dos autos, em razão do aporte de novos documentos sobre os fatos no Ministério Público Federal, o que foi deferido. No retorno, foi apresentada a promoção de arquivamento de fls. 94/101, sob o fundamento da ausência de materialidade da conduta praticada, com a juntada de documentos.
+    Decido.
+    5. A promoção de arquivamento do Procurador-Geral da República encerra a formulação de juízo negativo sobre a viabilidade da persecução penal por quem detém a titularidade da ação penal e, via de regra, deve ser acolhida sem outras digressões, ressalvadas as hipóteses de prescrição e atipicidade, que ensejam a formação de coisa julgada material. Nesses casos, poderá o Tribunal analisar o mérito da promoção. Precedentes: Inq 2.004-QO e 1.538-QO, Rel. Min. Sepúlveda Pertence; Inq 2.591, Rel. Min. Menezes Direito; Inq 2.341-QO, Rel. Min. Gilmar Mendes e; Inq 3061, Rel. Min. Dias Toffoli.
+    6. No caso dos autos o Ministério Público Federal afirma que os elementos colhidos na investigação não comprovam a materialidade do delito ou a existência de responsabilidade penal dos acusados.
+    7. Conforme assentado pelo Procurador-Geral da República:
+    “As investigações realizadas nos autos do presente inquérito não lograram comprovar que José Fernandes Gonçalves, nomeado para cargo público, prestou serviços particulares para a família dos parlamentares. Muito embora esse fato tenha sido afirmado na inicial da reclamação trabalhista ajuizada em face dos investigados, o próprio José Fernandes, em depoimento prestado nestes autos, negou haver prestado serviços particulares durante o período em que trabalhou como assessor parlamentar.
+    (…)
+    Com efeito, todas as diligências possíveis para a elucidação dos fatos foram realizadas neste inquérito, sem que se lograsse comprovar o ilícito e a responsabilidade penal dos investigados. Em verdade, nem na seara da improbidade administrativa foi possível comprovar a materialidade do ilícito civil em relação aos mesmos fatos investigados, o que, como visto, levou ao arquivamento do inquérito civil correspondente.”
+    8. Diante do exposto, acolhendo a manifestação do Procurador-Geral da República, determino o arquivamento do inquérito relativamente ao Deputado Federal Sílvio Serafim Costa e Sílvio Serafim Costa Filho, com fundamento no art. 3º, I, da Lei nº 8.038/1990, c/c o art. 21, XV, e, do RI/STF, ressalvada a hipótese do art. 18 do CPP.
+    Publique-se. Intimem-se.
+          Brasília, 19 de agosto de 2015.
+Ministro LUÍS ROBERTO BARROSO
+Relator
+Documento assinado digitalmente
