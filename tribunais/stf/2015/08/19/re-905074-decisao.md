@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado do Rio de Janeiro. Aparelhado o recurso na afronta aos arts. 2º, 5º, XXXVI e LIV, e 167, II e V, da Lei Maior e art. 7º da Emenda Constitucional 41/2003.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido, o ARE 830.328-AgR/RJ, Rel. Min. Teori Zavascki, decisão monocrática, DJe 26.11.2014; o AI 825.787-AgR/RJ, Rel. Min. Roberto Barroso, decisão monocrática, DJe 12.3.2015; e o AI 796.527-AgR-ED/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 30.5.2014, cuja ementa transcrevo:
+    “Embargos de declaração no agravo regimental no agravo de instrumento. Servidor. Novo plano de carreira. Reposicionamento no último padrão. Extensão aos servidores inativos. Paridade. Aplicação do art. 40, § 8º, da Constituição Federal (redação anterior à EC nº 41/03). Peculiaridades do caso concreto, diante da reestruturação imposta pela Lei nº 3.893/2002 do Estado do Rio de Janeiro. Evidente violação ao regime jurídico vigente na época. Acolhidos os embargos com efeitos infringentes. Recurso extraordinário não provido. 1. É pacífica a jurisprudência da Corte de que não há direito adquirido a regime jurídico, desde que mantida a irredutibilidade dos vencimentos. Dessa forma, o servidor aposentado na última classe não tem o direito subjetivo de ser reenquadrado na última classe da nova carreira reestruturada por lei superveniente. 2. No entanto, assegurava-se ao servidor inativo, com base no art. 40, § 8º, da Constituição Federal, com a redação anterior à Emenda Constitucional nº 41/03, o direito de ter seus proventos ajustados em condições semelhantes às dos servidores da ativa. Precedentes da Corte Suprema. 3. Situação peculiar do servidor a autorizar a manutenção da decisão do tribunal de origem. Fundamentos jurídicos do RE nº 606.199/PR. 4. Embargos de declaração acolhidos para dar provimento ao agravo regimental e negar, por consequência, provimento ao recurso extraordinário.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 19 de agosto de 2015.
+Ministra Rosa Weber
+Relatora
