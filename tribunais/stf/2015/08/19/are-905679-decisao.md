@@ -1,0 +1,53 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO NO QUAL NÃO SE INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. APOSENTADORIA ESPECIAL. ATIVIDADE DE RISCO. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra julgado da Segunda Turma Recursal da Seção Judiciária do Rio Grande do Sul.
+    No voto condutor desse julgado, o Juiz Federal Relator assentou:
+    “O entendimento desta Turma Recursal, com relação ao reconhecimento da atividade exercida como especial, é de que o tempo de serviço é disciplinado pela lei em vigor à época em que efetivamente exercido, passando a integrar, como direito adquirido, o patrimônio jurídico do trabalhador.
+    (…)
+    Para fins de enquadramento das categorias profissionais, devem ser considerados os Decretos nºs 53.831/64 (Quadro Anexo - 2ª parte) e 83.080/79 (Anexo II) até 28/04/95, data da extinção do reconhecimento da atividade especial por presunção legal. Já para o enquadramento dos agentes nocivos, devem ser considerados os Decretos nºs 53.831/64 (Quadro Anexo - 1ª parte) e 83.080/79 (Anexo I), o Decreto nº 2.172/97 (Anexo IV), o Decreto nº 3.048/99 (Anexo IV) e a Portaria 3.218/78 do Ministério do Trabalho e seus anexos, como a Norma Regulamentadora nº 15 (NR-15), que trata das atividades e operações insalubres.
+    (…)
+    Assim, correta a sentença que reconheceu a especialidade dos períodos de 07/05/2001 a 31/01/2003 e de 15/03/2004 à 04/05/2006. Isso porque se admite o reconhecimento do tempo de serviço especial aos segurados expostos ao agente nocivo perigoso eletricidade em patamar acima de 250 volts, inclusive no período posterior a 05/03/1997 (5002537-16.2012.404.7112, Turma Regional de Uniformização da 4ª Região, Relator p/ Acórdão Ana Cristina Monteiro de Andrade Silva, D.E. 26/04/2012).
+    (…)
+    Acerca da possibilidade de conversão de tempo especial em comum, a Turma Regional de Uniformização já decidiu no sentido de que se revela 'possível a conversão em comum do tempo de serviço laborado em atividades consideradas especiais pela Lei n.º 3.807/60 mesmo antes de sua vigência, face à aplicação retroativa desse diploma legal no particular' (IUJEF 2007.72.95.009884-0, Turma Regional de Uniformização da 4ª Região, Relator Loraci Flores de Lima, D.E. 21/01/2009).
+    (…)
+    No caso dos autos, a sentença menciona apenas a conversão de tempo especial em comum, o que é perfeitamente possível, nos termos da orientação da TRU que admite ser possível a conversão em comum do tempo de serviço laborado em atividades consideradas especiais pela Lei n.º 3.807/60 mesmo antes de sua vigência, face à aplicação retroativa desse diploma legal no particular”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, o Agravante alega contrariados os arts. 1º, inc. IV, 2º, 5º, caput e incs. XXXVI, LIV e LV, 37, caput, 84, inc. IV, 93, inc. IX, 195, § 5º, e 201, caput e § 1º, da Constituição da República.
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos:
+    “O Supremo Tribunal Federal reconheceu a repercussão geral a questão relativamente ao EPI, no julgamento do ARE nº. 664.335 (Tema 555):
+    (…)
+    Daí decorrem duas situações:
+    a) há formulário (PPP) nos autos informando fornecimento de EPI eficaz e a matéria foi debatida no julgado da Turma Recursal. É caso de sobrestamento.
+    b) não há indicação no formulário (PPP) de fornecimento de EPI eficaz ou há apenas a recomendação de uso do EPI. É caso da não admissão do incidente ou RE.
+    Verifico que, no caso dos autos, ocorre a situação 'b'.
+    Desta forma, sequer há verdadeiro enquadramento do caso no tema 555.
+    Quanto à sujeição da parte autora à eletricidade, é inviável o seguimento do recurso, pois a controvérsia cinge-se ao âmbito infraconstitucional, sendo a violação alegada, caso existente, reflexa ou indireta”.
+    O Agravante sustenta que
+    “a questão relativa ao EPI, de fato ventilada no recurso extraordinário, não tem relevo para o deslinde do feito, dado que se trata de reconhecimento de labor em atividade especial por exposição ao agente eletricidade, agente excluído do rol de agentes nocivos para fins previdenciários desde a edição do Decreto 2.172/97. Quanto a esse ponto, como acima exposto, o recurso foi inadmitido por alegada ofensa reflexa ou indireta às normas constitucionais.
+    A r. decisão que inadmitiu o recurso extraordinário, portanto, merece reforma, como se passa a demonstrar.
+    Diferentemente do afirmado pelo órgão prolator da decisão recorrida, resta caracterizado o contencioso constitucional, pois a ampliação judicial do rol de agentes nocivos, previstos no Regulamento de Benefícios para fins de reconhecimento da especialidade do labor, ofende a competência constitucional privativa da Presidência da República para regulamentar as leis, além do custeio prévio dos benefícios e demais princípios da seguridade social.
+    (…)
+    A norma do art. 58 da Lei 8.213/91 atribui expressamente ao Poder Executivo a definição da relação de agentes nocivos para fins de reconhecimento de atividades especiais. Assim sendo, a inclusão da ‘periculosidade’ no rol de agentes nocivos operada pelo v. acórdão recorrido constitui usurpação da competência do Presidente da República para regulamentar as leis, portanto a r. decisão viola diretamente o artigo 84, IV, da Constituição Federal.
+    (…)
+    O v. acórdão recorrido, ao ampliar o rol de agentes nocivos, criou um fator de majoração do tempo de serviço baseado apenas na periculosidade, sem fonte de custeio prévio, contrariando assim as normas constitucionais supracitadas”.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Agravante não infirma, no agravo interposto, todos os fundamentos da decisão agravada, não se manifestando sobre a ausência de “enquadramento do caso no tema 555” da repercussão geral do Supremo Tribunal Federal.
+    A jurisprudência deste Supremo Tribunal consolidou-se no sentido de dever ser negado seguimento ao agravo no qual não se impugnam todos os fundamentos da decisão agravada:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A Agravante tem o dever de impugnar, de forma específica, todos os fundamentos da decisão agravada, sob pena de não provimento do agravo regimental” (AI 681.329-AgR, de minha relatoria, Primeira Turma, DJe 2.10.2009).
+    7. Ainda que se pudesse superar esse óbice para permitir-se o regular andamento do recurso, o que não ocorre na espécie, a pretensão do Agravante não prosperaria.
+    A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    8. A apreciação do pleito recursal demandaria o reexame do conjunto fático-probatório constante do processo e a análise prévia da legislação infraconstitucional aplicável à espécie (Decreto n. 2.172/1997 e Lei n. 8.213/1991). A alegada contrariedade à Constituição da República, se ocorrida, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONFIGURAÇÃO DA ESPECIALIDADE DA ATIVIDADE LABORAL. INVIABILIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 666.962-AgR, de minha relatoria, Primeira Turma, DJe 29.3.2012).
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Aposentadoria. Tempo de serviço. Condições especiais. Cômputo. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o cômputo, para efeito de aposentadoria, do tempo de serviço exercido em condições especiais, versa sobre tema infraconstitucional” (AI 841.047, Relator o Ministro Presidente, Plenário Virtual, DJe 1º.9.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. 1. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 2. Necessidade de reexame de fatos e provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 3. Interposição simultânea de recursos extraordinário e especial. Aplicabilidade do art. 543, § 1º, do Código de Processo Civil somente se admitidos os recursos. Precedentes. 4. Sucumbência recíproca. Matéria infraconstitucional. Questão a ser verificada pelo juízo da execução. Precedentes. 5. Agravo regimental ao qual se nega provimento” (AI 792.204-AgR, de minha relatoria, Primeira Turma, DJe 15.8.2012).
+    Nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II. al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de agosto de 2015.
+                       Ministra CÁRMEN LÚCIA
+Relatora
