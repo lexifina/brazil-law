@@ -1,0 +1,22 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 3º, II, e 5º, II e XXXII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O exame de eventual ofensa aos preceitos constitucionais indicados nas razões recursais, consagradores dos princípios da legalidade, da proteção ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, bem como ao devido processo legal, ao contraditório e à ampla defesa (art. 5º da Lei Maior), demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, além do exame de cláusulas contratuais, bem como o revolvimento do quadro fático delineado, procedimentos vedados em sede extraordinária conforme disposto nas Súmulas 279 e 454/STF. Colho Precedentes:
+    “RECURSO EXTRAORDINÁRIO. DIREITO CIVIL E DO CONSUMIDOR. COMPRA E VENDA DE IMÓVEL. COMISSÃO DE CORRETAGEM. ABUSIVIDADE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. ÓBICE DA SÚMULA 454 DO STF. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (RE 823.319, Rel. Min. Luiz Fux, Pleno, DJe 21.10.2014)
+    “Direito do Consumidor. Responsabilidade do Fornecedor. Indenização por danos morais e materiais. Prestação de serviço. Ineficiência. Matéria infraconstitucional. Repercussão geral rejeitada.” (AI 765.567, Rel. Min. Gilmar Mendes, Pleno, DJe 01.10.2010)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. AQUISIÇÃO DE IMÓVEL NA PLANTA. COMISSÃO DE CORRETAGEM. SERVIÇOS DE ASSESSORIA TÉCNICA E DOCUMENTAL. AUSÊNCIA DE REGULAR PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS TIDOS POR VIOLADOS. SÚMULAS 282 E 356/STF. ALEGAÇÃO DE VIOLAÇÃO AO ART. 5º, XXXVI, DA CONSTITUIÇÃO. NECESSIDADE DE REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS E DA ANÁLISE DE CLÁUSULA CONTRATUAL. SÚMULAS 279 E 454/STF.
+    Temas constitucionais do apelo extremo não foram objeto de análise prévia e conclusiva pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF.
+    A jurisprudência do Supremo Tribunal Federal já assentou que a alegada violação ao art. 5º, XXXVI, da Constituição só entra no plano constitucional quando se discute questão de direito intertemporal.
+    Para dissentir da conclusão do acórdão recorrido, seria necessário nova apreciação dos fatos e do material probatório constantes dos autos, bem como das cláusulas do contrato firmado entre as partes demandantes. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 454/STF.
+    Agravo regimental a que se nega provimento.” (ARE 829.975-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 31.10.2014)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ÔNUS DO RECORRENTE. VIOLAÇÃO AO ART. 93, IX, DA CF/88. OMISSÃO NÃO CONFIGURADA. FUNDAMENTAÇÃO DO JULGADO RECORRIDO NOS TERMOS DAS DIRETRIZES FIXADAS NO AI 791.292 RG (REL. MIN. GILMAR MENDES - TEMA 339). VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DA INAFASTABILIDADE DE JURISDIÇÃO. OFENSA CONSTITUCIONAL REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL. ARE 748.371 (REL. MIN. GILMAR MENDES - TEMA 660). RESPONSABILIDADE CIVIL. DANO E NEXO CAUSAL AFIRMADOS PELA CORTE DE ORIGEM. REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. SÚMULA 279/STF.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 865.115-AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 23.4.2015)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de agosto de 2015.
+Ministra Rosa Weber
+Relatora
