@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça assim ementado:
+    "PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO. MINISTRO PRESIDENTE. JUIZ NATURAL. VIOLAÇÃO. INEXISTÊNCIA. JUSTIÇA GRATUITA. BENEFICIÁRIO. FORMAÇÃO DO INSTRUMENTO.
+    1. A decisão proferida pelo em. Ministro Presidente, com fundamento no disposto pela Resolução/STJ n. 17/2013, não viola o princípio do juiz natural, ainda mais, porquanto, interposto agravo regimental, o feito será distribuído em conformidade com o disposto pelo art. 9º do RISTJ.
+    2. Em conformidade com o entendimento desta Corte, o beneficiário da justiça gratuita não está isento da responsabilidade de acompanhar a correta formação do instrumento. Precedentes.
+    3. Agravo regimental a que se nega provimento". (eDOC 7, p. 57)
+    Opostos embargos declaratórios, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação ao artigo 5º, II, XXXV, LV e LXXIV, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, o seguinte:
+    “A norma constitucional inserta no inciso LXXIV do artigo 5º, da Carta Magna, ao dizer que a assistência jurídica será gratuita arremata, por inteiro, ser a garantia constitucional a pedra angular a regular a matéria, por isso que, ao estabelecer essa gratuidade não permite que a lei ordinária venha estabelecer outro critério a respeito, encerrando qualquer questionamento”. (eDOC 7, p. 147)
+    Por fim, a parte recorrente assevera que diante da condição de beneficiário da assistência jurídica integral e gratuita não teria responsabilidade alguma em promover a reprodução das peças obrigatórias e necessárias a formação do instrumento de agravo.
+    É o relatório.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Na espécie, verifico que entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que é ônus da parte recorrente acompanhar e fiscalizar a correta formação do instrumento, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido cito os seguintes precedentes desta Corte:
+    “Agravo regimental no agravo de instrumento. Justiça gratuita. Ausência de peça essencial. Precedentes. 1. O benefício da assistência judiciária gratuita implica a isenção de despesas, não de ônus processuais de outra natureza, como o de indicar as peças a serem trasladadas e o de fiscalizar a correta formação do instrumento. 2. A cópia do julgado dos embargos declaratórios e da certidão de publicação da decisão agravada é de traslado obrigatório, nos termos do artigo 544, § 1º, do Código de Processo Civil. Incidência da Súmula nº 288/STF. 3. É da jurisprudência do Supremo Tribunal Federal que a oportunidade para instruir o agravo é a de sua interposição. 4. Agravo regimental desprovido”. (AI-AgR 580.880, Rel. Min. Menezes Direito, Primeira Turma, DJe 08.5.2009).”
+    “AGRAVO DE INSTRUMENTO - EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO - TRASLADO INCOMPLETO - DESCUMPRIMENTO DE OBRIGAÇÃO PROCESSUAL - SÚMULA 288/STF - RECURSO DE AGRAVO IMPROVIDO. AGRAVO DE INSTRUMENTO E SÚMULA 288/STF. - Sem que a parte agravante promova a integral formação do instrumento, com a apresentação de todas as peças que dele devem constar obrigatoriamente, torna-se inviável conhecer do recurso de agravo, cabendo enfatizar que a composição do traslado deve processar-se, necessariamente, perante o Tribunal de jurisdição inferior, e não, tardiamente, perante o Supremo Tribunal Federal. COMPOSIÇÃO DO TRASLADO E DEVER DE VIGILÂNCIA DA PARTE AGRAVANTE. - Incumbe, exclusivamente, à parte agravante, o dever de fiscalizar a formação e a integral composição do traslado, não se podendo imputar esse ônus processual à Secretaria do Tribunal. Precedentes. - A deficiente formação do traslado do agravo de instrumento - que constitui insuperável obstáculo formal ao seu conhecimento - não pode ser complementada nem tardiamente suprida, quando o recurso de agravo já se achar no Supremo Tribunal Federal. Precedentes” (AI-ED 605.158, Rel. Min. Celso de Mello, Segunda Turma, DJ 19.12.2006).
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 20 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
