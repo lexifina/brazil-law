@@ -1,0 +1,27 @@
+Decisão: Verifico que determinei a devolução dos autos para os fins do art. 543-B do CPC, por entender que a controvérsia estaria representada na sistemática da repercussão geral pelo Tema 76 no RE-RG 564.354, Rel. Min. Menezes Direito, DJe 6.6.2008 (eDOC 7).
+    Encaminhados os autos ao Tribunal de origem, este devolveu o processo ao STF por considerar que a questão dos autos não se amolda ao paradigma indicado (eDOC 12).
+    Assiste razão ao Tribunal de origem. Desse modo, reconsidero a decisão constante do eDOC 7, e passo a julgar o recurso.
+    Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO. OMISSÃO. OCORRÊNCIA. O voto condutor do acórdão encerra omissão ao não apreciar a alegação da Autarquia Previdenciária no sentido de que o pedido formulado pela parte exequente em sede de apelação já fora objeto de outra ação judicial, na qual fora julgado improcedente, impondo-se a manutenção de tal decisão como forma de respeito à coisa julgada”. (eDOC 1, p. 169)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 5º, caput; 194, IV; e 201, § 1º, do texto constitucional.
+    Aponta-se que “o recorrente contribuiu ao sistema para obter determinada renda mensal que, após calculada, foi reduzida por força do teto previdenciário. Uma vez que referido limite máximo não mais restringe a renda do recorrente, não é lícito ao INSS manter tal limitação”. (eDOC 1, p. 198)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão recorrido, a dar ensejo à aplicação Enunciado 284 da Súmula do STF. Nesse sentido, a jurisprudência desta Corte. Confira-se o RE-AgR 601.686, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1º.2.2011, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. 1. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2. PODER JUDICIÁRIO. PRINCÍPIO DA ISONOMIA: IMPOSSIBILIDADE DE CONCESSÃO DE BENEFÍCIO TRIBUTÁRIO NÃO PREVISTO EM LEI. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Ademais, observo que o Tribunal de origem, ao acolher os embargos de declaração opostos pelo INSS, registrou o seguinte:
+    “Efetivamente, nos autos da ação previdenciária autuada sob o nº 2005.70.08.000834-3/PR a parte exequente postulou, entre outros pedidos, a desconsideração no cálculo de seu benefício dos limites estabelecidos pelos tetos das Emendas Constitucionais 20/98 e 41/03, tendo tal pleito sido assim apreciado no âmbito deste Regional:
+    (…)
+    Resta evidente, portanto, que, ainda que o entendimento a respeito da questão tenha sofrido alteração por conta de decisão proferida no âmbito do e. Supremo Tribunal Federal, esta não possui alcance suficiente para modificar decisões judiciais anteriores, já transitadas em julgado.
+    Assim, é de ser acolhida a pretensão do INSS para o fim de que seja observada a coisa julgada material constituída nos autos da ação nº 2005.70.08.000834-3, devendo, assim, ser negado provimento ao apelo da parte exequente, restando integralmente mantida a sentença monocrática”. (eDOC 1, p. 167-168)
+    Assim, verifico que divergir do entendimento adotado pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, providência vedada na via extraordinária, em face do óbice previsto no Enunciado 279 da Súmula do STF.
+    Ainda, registro que o Supremo Tribunal Federal já apreciou a matéria referente aos limites da coisa julgada no ARE-RG 748.371 (Tema 660), oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução da controvérsia depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Sobre e o tema, confira-se o seguinte julgado:
+    “Agravo regimental no recurso extraordinário com agravo. Ofensa ao art. 5º, incisos XXXV, LIV e LV, da Constituição Federal. Prequestionamento. Ausência. Alegação de omissões no acórdão recorrido. Não ocorrência. Coisa julgada material. Formação. Discussão. Legislação infraconstitucional. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. A jurisdição foi prestada pela Corte de origem mediante decisão suficientemente motivada. 3. Inadmissível, em recurso extraordinário, a análise da legislação processual e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido”. (grifei) (ARE 789.498-AgR/MG, Rel. Min. Dias Toffoli, Primeira Turma, DJe 08.4.2015)
+    Ante o exposto, reconsidero a decisão constante do eDOC 7 e conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 20 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
