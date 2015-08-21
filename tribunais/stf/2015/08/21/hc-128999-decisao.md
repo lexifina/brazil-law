@@ -1,0 +1,23 @@
+Vistos, etc.
+    Referente à Petição STF 37.650/2015.
+    Em 30.6.2015, neguei seguimento ao presente writ, em decisão monocrática assim exarada:
+    “Trata-se de habeas corpus, com pedido de liminar, impetrado por Waldir Vilela em favor de Miguel Marcelino dos Santos, contra ato da 1ª Turma deste Supremo Tribunal Federal, que rejeitou os embargos de declaração no agravo regimental no ARE 849.277/SP.
+    (...)
+    Manifesto o descabimento deste habeas corpus, enquanto se volta contra ato da 1ª Turma desta Corte, à luz da jurisprudência firmada pelo Plenário deste Supremo Tribunal no sentido de que “não cabe pedido de habeas corpus originário para o Tribunal Pleno, contra ato de Ministro ou órgão fracionário da Corte” (HC 86.548/SP, Rel. Min. Cezar Peluso, maioria, DJe 19.12.2008). Assentada, tal diretriz, na aplicação analógica do enunciado da súmula 606/STF: “Não cabe habeas corpus originário para o Tribunal Pleno de decisão de Turma, ou do Plenário, proferida em habeas corpus ou no respectivo recurso”.
+    Reafirmada, ainda, tal jurisprudência pelo Plenário desta Corte, no sentido do não cabimento do habeas corpus contra ato de Ministro, de Turma ou de Plenário deste Supremo Tribunal Federal. Confira-se:
+    (…).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF). ”
+    Contra esta decisão monocrática, a Defesa, por intermédio da mencionada Petição STF 37.650/2015, interpôs recurso ordinário em habeas corpus, nos termos do art. 102, II, “a”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Na dicção do art. 102, II, a, da Constituição Federal, compete ao Supremo Tribunal Federal julgar, em recurso ordinário, o habeas corpus decidido em única instância pelos Tribunais Superiores, se denegatória a decisão.
+    Manifesto o descabimento deste recurso ordinário em habeas corpus, enquanto se volta contra decisão monocrática de minha lavra. Verifico que o Impetrante, ao adotar medida processual flagrantemente inadmissível, incidiu em erro grosseiro, visto que, na hipótese, carece de amparo jurídico o manejo do presente recurso ordinário em habeas corpus.
+    À luz da jurisprudência firmada por esta Corte Suprema, o princípio da fungibilidade recursal, vigente no sistema processual, somente é aplicado aos casos em que há fundada dúvida, sendo vedada a sua incidência quando configurado erro grosseiro. Nesse sentido, colaciono os seguintes precedentes:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECEBIMENTO DO AGRAVO DE INSTRUMENTO COMO HABEAS CORPUS. IMPOSSIBILIDADE. QUESTÕES DIVERSAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. “É inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada” (Súmula nº 281/STF). O agravo de instrumento contra a não admissão de extraordinário tem objeto específico, a saber, assegurar-lhe o trânsito. Não pode ser transformado em habeas corpus com vista ao exame da legalidade da condenação criminal. O princípio da fungibilidade dos recursos não vai a tanto, sendo de destacar que o habeas corpus é ação constitucional, não ostentando, pois, a natureza jurídica de recurso. As teses levantadas pelo recorrente, de atipicidade de conduta, demandam demonstração e argumentação aprofundada, de todo inviável convertê-las em objeto de habeas corpus de ofício, cuja concessão exige manifesta ilegalidade. Agravo regimental a que se nega provimento” (AI 760.088 ED/PR, de minha relatoria, 1ª Turma, DJe 27.4.2012).
+    “RECURSO - PRINCÍPIO DA FUNGIBILIDADE. O princípio da fungibilidade consta implicitamente do Código de Processo Civil - artigo 250 - e expressamente do Código de Processo Penal - artigo 579. Descabe empolgá-lo quando o caso é de erro grosseiro, e isso ocorre em se tratando de decisão do Tribunal Superior Eleitoral prolatada em agravo interposto contra pronunciamento do relator que implicou negativa de seqüência a recurso especial. Na hipótese, em vez de ser protocolado o extraordinário, foi apresentado o recurso ordinário previsto no artigo 102, inciso II, da Constituição Federal e na parte final do artigo 281 do Código Eleitoral em relação às decisões denegatórias de ordem em habeas corpus ou mandado de segurança. PRESCRIÇÃO - PRETENSÃO PUNITIVA - EXAME. O exame da prescrição da pretensão punitiva há de se fazer a partir de elementos próprios revelados no processo a que responde o acusado, e não em autos formados, objetivando o processamento de extraordinário” (AI 504.598 AgR/SP, Rel. Min. Marco Aurélio, 1ª Turma, DJ 17.12.2004).
+    Ante o exposto, não conheço do presente recurso ordinário em
+habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de agosto de 2015.
+Ministra Rosa Weber
+Relatora
