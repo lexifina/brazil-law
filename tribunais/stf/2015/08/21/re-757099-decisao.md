@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão da Terceira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “USUCAPIÃO. TERRENO DE MARINHA. SENTENÇA CONDICIONAL.
+    1. Diante do laudo inconclusivo resultante da perícia realizada, bem como da existência de registro dos imóveis confinantes em nome de particulares, sem qualquer oposição da União, carece de fundamentação legal a alegação no sentido de que se caracteriza como terreno de marinha a área usucapienda.
+    2. A sentença ora recorrida, efetivamente, vincula a produção de seus efeitos a um acontecimento futuro e incerto, com o que não se coaduna ao disposto no parágrafo único do art. 460 do CPC.”
+    Opostos embargos de declaração, foram rejeitados.
+    Sustenta a recorrente contrariedade ao artigo 20, incisos I e VII, da Constituição Federal.
+    Opina o Ministério Público Federal, em parecer da lavra do ilustrado Subprocurador-Geral da República Dr. Paulo Gustavo Gonet Branco, pelo desprovimento do agravo, ante a inviabilidade do extraordinário.
+    Decido.
+    Colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    “Como demonstrado, tal constatação depende de processo demarcatório de competência do Delegado de Patrimônio da União, que irá atualizar as áreas dos terrenos de 33 metros da linha do preamar médio de 1833. Contudo, tal procedimento ainda não foi realizado.
+    A perícia afirma a impossibilidade de se determinar com certeza se a área usucapienda estará ou não em terreno de marinha após esse eventual processo de demarcação. Relevante notar que o imóvel é integrante de um antigo loteamento, e seus confinantes já possuem registro imobiliário em nome de particulares, sendo que algumas dessas áreas encontram-se mais próximas à orla marítima, não havendo nos autos notícia de que a União tenha tomado alguma atitude com o fim de anular tais registros.
+    Tendo os autores provado de maneira eficaz o atendimento aos requisitos dos arts. 550 e seguintes do Código Civil de 1916, deve-se reconhecer seu direito à propriedade do imóvel, por força da usucapião extraordinária.
+    (…)
+    Portanto, diante do laudo inconclusivo resultante da perícia realizada, bem como da existência de registro dos imóveis confinantes em nome de particulares, sem qualquer oposição da União, entendo que carece de fundamentação legal a alegação no sentido de que se caracteriza como terreno de marinha a área usucapienda.”
+    Diante disso, é certo que para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessária a interpretação da legislação ordinária e o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Sobre o tema, anote-se:
+    “CONSTITUCIONAL. ADMINISTRATIVO. USUCAPIÃO DE DOMÍNIO ÚTIL. TERRENO DE MARINHA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. OFENSA INDIRETA À CONSTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. I - O julgamento do RE demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. II - O acórdão recorrido dirimiu a controvérsia com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. III - Ausência de prequestionamento da questão constitucional suscitada. Incidência das Súmulas 282 e 356 do STF. IV - Agravo regimental improvido (RE nº 534.546/PE-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski , DJe de 19/9/08).
+    “CONSTITUCIONAL. PROCESSO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AÇÃO DE USUCAPIÃO. TERRENO DE MARINHA. ART. 20, IV, DA CF. REEXAME DE FATOS E PROVAS. VALORAÇÃO DA PROVA. MATÉRIA INFRACONSTITUCIONAL. 1. Para reformar o acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, o que impede o trânsito do apelo extremo. Incidência da Súmula STF 279. 2. Inviável o processamento do extraordinário para debater controvérsia infraconstitucional relativa à valoração de prova. Precedentes. 3. Agravo regimental improvido” (AI nº 522.895/RJ-AgR, Segunda Turma, relatora a Ministra Ellen Gracie, DJe de 19/3/10).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TERRENOS DE MARINHA. TITULARIDADE. DEMARCAÇÃO. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. IMPRESCINDIBILIDADE DE EXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, acerca da titularidade do imóvel, seria necessária a análise das normas infraconstitucionais aplicáveis à especie, bem como o reexame do conjunto fático probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – Agravo regimental improvido” (ARE nº 757.502/SC-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/9/13).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário
+    Publique-se.
+    Brasília, 21 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
