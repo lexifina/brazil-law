@@ -1,0 +1,40 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. PRESTAÇÃO DE SERVIÇOS DE TELEFONIA. DANOS MORAIS. VALOR DA INDENIZAÇÃO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. TERMO INICIAL DOS JUROS MORATÓRIOS E VALOR DOS HONORÁRIOS ADVOCATÍCIOS: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Colégio Recursal de Araraquara:
+    “Trata-se de recurso contra a r. sentença de fls. 162/163, que julgou procedente o pedido do autor de indenização por danos morais fundado na interrupção indevida pela ré de sua linha telefônica e do serviço de internet denominado ‘Speedy’, pelo período de 20 dias.
+    Não merece provimento o recurso.
+    A r. sentença abordou com propriedade as questões de fato e de direito pertinentes à lide, conferindo-lhes acertada conclusão.
+    De fato, a recorrente não apresentou qualquer justificativa plausível para a suspensão do serviço pelo tempo considerável acima mencionado. Não trouxe aos autos nenhuma prova de que o recorrido tenha solicitado a suspensão do serviço, senão uma ‘tela’ de seu sistema interno, exibida na contestação, o que evidentemente não tem o condão de provar a efetiva ocorrência de solicitação neste sentido.
+    Neste passo, era mesmo de rigor o reconhecimento do inadimplemento contratual por parte da recorrente e do dano moral indenizável, uma vez que, além do tempo relevante de inatividade do serviço contratado, o recorrido tentou várias vezes solucionar o problema junto à recorrente sem êxito. Inclusive, especificou os números dos protocolos de tais contatos (fl. 3), sobre os quais a recorrente não trouxe qualquer registro.
+    No mais, o arbitramento da verba indenizatória se deu com absoluta razoabilidade, em R$ 5.000,00, portanto, dentro dos parâmetros ordinariamente observados por este Colegiado.
+    Ante o exposto, por meu voto, nego provimento ao recurso, mantendo a r. sentença de primeiro grau por seus próprios fundamentos, observado o disposto no art. 46, segunda parte, da Lei n. 9.099/95.
+    Pela sucumbência, a recorrente arcará com as custas processuais e honorários advocatícios da parte adversa, estes arbitrados em 20% sobre o valor final da condenação” (fls. 199-201).
+    2. A Agravante alega contrariados os arts. 5º, incs. II e LIV, e 37 da Constituição da República, asseverando que
+    “a manutenção do valor indenizatório de R$ 5.000,00 (cinco mil reais) fere os princípios constitucionais da razoabilidade e proporcionalidade, que têm função de buscar uma harmonia e bem estar sociais, evitando dessa forma atos arbitrários. O razoável traduz-se na conformidade com razão, moderação, equilíbrio e harmonia. Este princípio visa auferir a justiça como valor máximo conferido pelo ordenamento jurídico.
+    (…)
+    Ex positis, requer-se que o valor da indenização seja desconsiderado por completo, ou, ao menos, seja reduzido para valor considerado razoável, devendo-se anular ou ser revista a r. decisão.
+    (…)
+    O início da fluência de juros deve ocorrer da data da fixação do valor da indenização, razão pela qual de rigor a reforma da condenação.
+    (…)
+    Noutro giro, o fundamento para fixação do patamar da verba advocatícia é munido de obscuridade, inexistindo fundamento para ser fixado em 20% sobre o valor da condenação” (fls. 204-220).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Quanto ao valor fixado a título de indenização por danos morais, no julgamento do Recurso Extraordinário com Agravo n. 743.771, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou a ausência de repercussão geral da matéria:
+    “DIREITO CIVIL. RESPONSABILIDADE CIVIL. VALOR FIXADO A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 279 DA SÚMULA DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL” (DJe 31.5.2013).
+    7. A apreciação do pleito recursal, quanto ao termo inicial para a incidência dos juros de mora e o valor do honorários advocatícios, demandaria análise da legislação infraconstitucional aplicável à espécie (Código de Processo Civil). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “Embargos de declaração recebidos como agravo regimental. Inviável o processamento do extraordinário para discutir matéria nitidamente infraconstitucional, relativa ao termo inicial de incidência dos juros de mora decorrentes de sentença condenatória (CPC, art. 219). Agravo regimental improvido” (AI 402.497 - ED, Relatora a Ministra Ellen Gracie, Segunda Turma, DJ 25.6.2004).
+    “Agravo regimental no recurso extraordinário com agravo. Juros de mora. Termo inicial. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. O recurso extraordinário não se presta para a análise de legislação infraconstitucional. Incidência da Súmula nº 636/STF. 3. Agravo regimental não provido” (ARE 778.968 - AgR, Relator o Ministro Dias Toffoli , Primeira Turma, DJe 19.2.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA ORIGEM: DISCUSSÃO SOBRE O PERCENTUAL E A FORMA DE INCIDÊNCIA. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 740.552-AgR, de minha relatoria, Segunda Turma, DJe 13.6.2013).
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. RAZÕES DO AGRAVO REGIMENTAL DISSOCIADAS DO QUE DELIBERADO NA DECISÃO MONOCRÁTICA. INCIDÊNCIA DA SÚMULA 284 DESTA CORTE. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO IMPROVIDO” (AI 831.849-ED, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 22.5.2013).
+    8. Este Supremo Tribunal Federal assentou que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, poderiam configurar, se fosse o caso, ofensa constitucional indireta:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    Nada há a prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de agosto de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
