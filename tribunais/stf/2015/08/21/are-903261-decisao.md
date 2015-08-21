@@ -1,0 +1,38 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. EMPRESA OPERADORA DE PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE TRATAMENTO. RESSARCIMENTO DE VALORES: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra julgado da Turma Recursal de Barbacena, pelo qual se manteve a seguinte sentença:
+    “Prima facie, insta salientar que no presente caso, aplicam-se as normas ditadas pela Lei 8.078/90.
+    Assim, por se tratar de relação consumerista, aplicável no caso vertente a inversão do ônus probatório, como autoriza o Código de Defesa do Consumidor.
+    Segundo o que dispõe o art. 47 do Código de Defesa do Consumidor, as cláusulas restritivas de direitos devem ser interpretadas da maneira mais favorável ao consumidor. Assim, não seria crível admitir a recursa da parte ré em cobrir a utilização de stents em procedimentos cirúrgicos, sob a alegação de que o contrato não cobre a colocação de próteses e órteses de qualquer natureza. Como se vislumbra do contrato celebrado entre as partes, a cobertura de cirurgia cardíaca é admissível e foi inclusive autorizada pela requerida (f. 31), não se justificando a negativa em apreço, até porque, como cediço, a implantação dos stents é parte integrante do procedimento.
+    Nada obstante, é bom que se diga, ainda, que os documentos acostados às fls. 27/31, bem como o relatório médico de fl. 39, são claros quanto à necessidade de utilização dos referidos stents no procedimento pelo qual o autor fora submetido, principalmente em razão da sua saúde fragilizada. Ora, não se pode aceitar que a requerida se recuse a cobrir a utilização de próteses inerentes a procedimento que ela própria autoriza, visto que, assim, as cláusulas restritivas estariam minando a abrangência das cláusulas permissivas, prejudicando o consumidor, que muitas das vezes, não tem o conhecimento técnico necessário para discernir os termos contratuais e compreender as restrições que lhe estão sendo impostas.
+    Em suma, para que a recusa da requerida fosse justificada, deveria constar no contrato, em cláusula específica, a exclusão dos stents no procedimento pelo qual o autor foi submetido, o que não se vislumbra.
+    Destarte, cumpre ressaltar que o plano de saúde não pode intervir na escolha da técnica eleita pelo médico que atende ao paciente, impondo-lhe qual a orientação terapêutica a ser seguida, principalmente em casos como o explanado na presente lide em que, evidentemente, o procedimento é determinante para a manutenção da vida do requerente.
+    (…)
+    Assim, a procedência do pedido autoral de indenização por danos materiais se impõe, uma vez que o requerente comprovou à fl. 26 dos autos que arcou com o custo dos stents que foram utilizados no procedimento cirúrgico ao qual fora submetido, quando tal ônus era responsabilidade da demandada.
+    No que tange ao pedido de indenização por dano moral, não é de se considerar um simples aborrecimento cotidiano a odisseia que alguns consumidores vêm enfrentando na busca de fazer valer seus direitos, não obstante a proteção do Código de Defesa do Consumidor, não sendo diferente, no caso vertente, pois, como cediço, com a contratação de um plano de saúde, busca o consumidor a necessária segurança em um momento de tamanha fragilidade, razão pela qual a recusa injustificada da empresa ré foi capaz, sim, de gerar dor de natureza íntima. Portanto, é certo que, no caso em apreço, a conduta da requerida foi bastante para ensejar dano extrapatrimonial ao autor.
+    (...)
+    Feitas tais ponderações, atento aos princípios da proporcionalidade e da razoabilidade, considerando as circunstâncias do caso concreto, hei por bem fixar o dano moral no valor de R$ 8.000,00.
+    Ante o exposto, conheço diretamente dos pedidos, nos termos do art. 330, I, do Código de Processo Civil, julgando-os parcialmente procedentes” (fls. 48-51).
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante alega contrariados os arts. 5º, incs. X e XXXVI, 196 e 199 da Constituição da República, asseverando que,
+    “não havendo qualquer vício no contrato havido entre as partes, há de ser respeitado o ato jurídico perfeito, não apenas como forma de dar garantia aos negócios jurídicos, mas como forma de garantir a execução do mandamento constitucional.
+    (…)
+    Nesse rumo, o artigo 196 da Constituição Federal é claro ao mencionar que ‘a saúde é direito de todos e dever do Estado’, logo, é absurdo transferir este ônus para uma operadora de plano de saúde (UNIMED-BH), fugindo do contrato estabelecido entre as partes e obrigando-o a custear procedimento pelo qual não recebe a devida contraprestação.
+    (…)
+    Portanto, é notório que a existência do dano é pressuposto básico a ensejar a obrigação de indenizar. Sem a comprovação do dano, ou seja, o efetivo prejuízo, improcede o pedido de indenização” (fls. 136-146).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de prequestionamento e de inexistência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Cumpre afastar o fundamento da decisão agravada quanto à ausência de prequestionamento, por ter sido a matéria constitucional suscitada em momento processual adequado.
+    A superação desse fundamento não é suficiente para o provimento da pretensão da Agravante.
+    6. No julgamento do Recurso Extraordinário com Agravo n. 697.312 (Tema n. 611), Relator o Ministro Ayres Britto, este Supremo Tribunal assentou inexistir repercussão geral da questão discutida nestes autos:
+    “DIREITO DO CONSUMIDOR. EMPRESA OPERADORA DE PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA TRATAMENTO DE BENEFICIÁRIO. DANOS MORAIS E MATERIAIS. MATÉRIA DE QUE NÃO ENSEJA A ABERTURA DA VIA EXTRAORDINÁRIA. AUSÊNCIA DE REPERCUSSÃO GERAL. Nos termos da jurisprudência do Supremo Tribunal Federal, o tema alusivo à responsabilidade por danos morais e materiais decorrentes de negativa de cobertura para tratamento de beneficiário, por parte de operadora de plano de saúde, não enseja a abertura da via extraordinária, dado que não prescinde do reexame da legislação infraconstitucional, de cláusulas contratuais e do conjunto fático-probatório dos autos (Súmulas 636, 454 e 279 do STF). Não havendo, em rigor, questão constitucional a ser apreciada por esta Suprema Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.” (DJe 23.11.2012).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de agosto de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
