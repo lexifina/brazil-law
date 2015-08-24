@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região. Veja-se o seguinte trecho de ementa:
+    “PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. DECRETO 94.664/87. REGIME DE DEDICAÇÃO EXCLUSIVA. COMPROVAÇÃO. EXCLUSÃO DA GRATIFICAÇÃO DE 100% ACRESCIDA DA GRATIFICAÇÃO DE 25% SOBRE O SALÁRIO BÁSICO. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. ART. 475-G DO CPC. CONTRIBUIÇÃO DE PLANO DE SEGURIDADE SOCIAL. IMPOSTO DE RENDA. APELAÇÃO DESPROVIDA.”
+    O recurso não merece ser provido. Quanto à alegada ofensa aos arts. 5°, XXXV, e 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos xxxv e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, para dissentir da conclusão do Tribunal de origem, seriam imprescindíveis a análise da legislação infraconstitucional aplicada ao caso e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
