@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo de instrumento em que se discute a constitucionalidade da Lei estadual de Pernambuco nº 11.404/1996, que instituiu depósito recursal para a interposição de recursos no âmbito do Juizado Especial.
+    O recurso extraordinário deve ser provido. É que a controvérsia foi objeto da ADI 2.699, julgada sob a relatoria do Ministro Celso de Mello, e o Plenário do Supremo Tribunal Federal assentou entendimento pela inconstitucionalidade da referida lei por violação ao art. 22 da Constituição Federal. Veja-se, a propósito, a ementa do referido julgado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE LEGISLAÇÃO ESTADUAL QUE INSTITUI EXIGÊNCIA DE DEPÓSITO RECURSAL NO VALOR DE 100% DA CONDENAÇÃO COMO PRESSUPOSTO DE INTERPOSIÇÃO DE QUALQUER RECURSO NO ÂMBITO DOS JUIZADOS ESPECIAIS CÍVEIS DO ESTADO DE PERNAMBUCO REQUISITOS DE ADMISSIBILIDADE RECURSAL: TÍPICA MATÉRIA DE DIREITO PROCESSUAL TEMA SUBMETIDO AO REGIME DE COMPETÊNCIA PRIVATIVA DA UNIÃO ( CF , ART. 22, INCISO I) USURPAÇÃO , PELO ESTADO-MEMBRO , DA COMPETÊNCIA PRIVATIVA DA UNIÃO FEDERAL PARA LEGISLAR SOBRE DIREITO PROCESSUAL OFENSA AO ART. 22, I, DA CONSTITUIÇÃO DA REPÚBLICA INCONSTITUCIONALIDADE FORMAL DECLARADA AÇÃO DIRETA JULGADA PROCEDENTE .
+    Os Estados-membros e o Distrito Federal não dispõem de competência para legislar sobre direito processual , eis que , nesse tema , que compreende a disciplina dos recursos em geral, somente a União Federal considerado o sistema de poderes enumerados e de repartição constitucional de competências legislativas possui atribuição para legitimamente estabelecer, em caráter de absoluta privatividade ( CF , art. 22, n. I), a regulação normativa a propósito de referida matéria , inclusive no que concerne à definição dos pressupostos de admissibilidade pertinentes aos recursos interponíveis no âmbito dos Juizados Especiais. Precedentes .
+    Consequente inconstitucionalidade formal ( ou orgânica) de legislação estadual que haja instituído depósito prévio como requisito de admissibilidade de recurso voluntário no âmbito dos Juizados Especiais Cíveis. Precedente: ADI 4.161/AL , Rel. Min. CÁRMEN LÚCIA.”
+    Diante do exposto, com base no art. 544, §4º, II, c, do CPC, conheço do agravo e dou provimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
