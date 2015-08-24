@@ -1,0 +1,6 @@
+Solução de Consulta Coana nº 264, de 13 de julho de 2015
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 7323.93.00 Mercadoria: Conjunto para servir molhos e patês, composto de três potes de aço inox, acomodados num descanso de madeira com alças de ferro cromado, de 34 cm x 14 cm. DISPOSITIVOS LEGAIS: RGI/SH 1, 2b e 3b (texto da posição 73.23) e 6 (texto da Nota 1, letra (e) do Capítulo 72 e textos das subposições 7323.9 e 7323.93) da TEC, aprovada pela Resolução Camex nº 94, de 2011 e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, e subsídios extraídos das NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 7323.93.00 Mercadoria: Conjunto para servir molhos e patês, composto de três potes de aço inox, acomodados num descanso de madeira com alças de ferro cromado, de 34 cm x 14 cm.
+DISPOSITIVOS LEGAIS: RGI/SH 1, 2b e 3b (texto da posição 73.23) e 6 (texto da Nota 1, letra (e) do Capítulo 72 e textos das subposições 7323.9 e 7323.93) da TEC, aprovada pela Resolução Camex nº 94, de 2011 e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, e subsídios extraídos das NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+LUIZ HENRIQUE DOMINGUES Presidente da 4ª Turma
