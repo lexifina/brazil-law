@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-EXECUTIVA E DE SUPORTE DO MEIO AMBIENTE – GTEMA E GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA DO MEIO AMBIENTE – GDAMB. NATUREZA JURÍDICA DA GRATIFICAÇÃO E CICLO AVALIATIVO: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. IBAMA. GDAMB. GTEMA. PARIDADE COM SERVIDORES DA ATIVA. DESCABIMENTO.
+    Considerando que a totalidade dos servidores ativos do IBAMA recebe a gratificação GDAEM, a qual já é paga em função de avaliações de desempenho desde o ano de 2006, não pode prosperar a pretensão autoral de receber a GDAMB e GTEMA em paridade com os servidores da ativa”.
+    2. O Agravante alega contrariado o art. 40, § 8º, da Constituição da República.
+    Argumenta que “a gratificação Gtema não possui aferição de desempenho em relação ao servidor ativo, portanto, a diferenciação no pagamento entre ativos e inativos é inconstitucional, devendo tal pagamento se dar nos mesmos moldes e valores pagos aos ativos, incidindo aí o princípio constitucional da paridade e igualdade perante a lei”.
+    3. O recurso foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal de origem decidiu que as gratificações em debate têm caráter pro labore faciendo, por isso não devem ser estendidas aos inativos, sob pena de contrariedade ao art. 40, § 8º, da Constituição da República.
+    A apreciação do pleito recursal demandaria a análise da legislação infraconstitucional aplicável à espécie (Leis ns. 11.156/2005 e 11.357/2006) e o reexame do conjunto fático-probatório constante do processo. Incide a Súmula n. 279 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-EXECUTIVA E DE SUPORTE DO MEIO AMBIENTE - GTEMA E GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA DO MEIO AMBIENTE - GDAMB. EXTENSÃO AOS INATIVOS. CRITÉRIOS DE AVALIAÇÃO. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DE PARIDADE REMUNERATÓRIA . AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (ARE 748.751-ED, de minha relatoria, Segunda Turma, DJe 20.9.2013).
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. PENSIONISTA. EXTENSÃO DOS CRITÉRIOS DE CÁLCULO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA DO MEIO AMBIENTE (GDAMB) E DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-EXECUTIVA E DE SUPORTE DO MEIO AMBIENTE (GTEMA). REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. INFRINGÊNCIA AO ART. 5º, XXXVI, DA CF/88. OFENSA CONSTITUCIONAL REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO (ARE 765614-AgR/SC, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 7.10.2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE REGÊNCIA DE CLASSE. EXTENSÃO AOS APOSENTADOS NO MESMO PERCENTUAL PAGO AOS SERVIDORES ATIVOS . CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. 1. Não é possível, em recurso extraordinário, reexaminar a legislação infraconstitucional aplicada ao caso, bem como analisar o acervo fático-probatório dos autos. 2. Agravo regimental desprovido (RE 440.340-AgR, Relator o Ministro Ayres Britto, Segunda Turma, DJe 25.4.2012).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de agosto de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
