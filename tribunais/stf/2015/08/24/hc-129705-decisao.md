@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Antônio Orlando de Almeida Prado, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 319.609/SP, Relator o Ministro Gurgel de Faria.
+    Sustentam os impetrantes, em síntese, a consumação da prescrição da pretensão punitiva estatal. Aduzem, para tanto, que
+    “o PACIENTE – que completou 70 anos de idade em 06.02.13 (documento anexo nº 08), quase um ano antes do julgamento de sua apelação, aos 18.03.14 (documento anexo nº 10) – faz jus, portanto, à aplicação do benefício do artigo 115 do Código Penal.
+    Por essa razão, o prazo prescricional de 20 anos previsto no artigo 109, inciso I, do Código Penal – tendo em vista que a pena fixada foi superior a 12 anos (documento anexo nº 06) – deve ser reduzido pela metade, ou seja, a prescrição ocorre em 10 anos” (fl. 8 da inicial – grifos dos autores).
+    Nesse contexto, afirmam que
+    “a decisão confirmatória de pronúncia, proferida em 26.05.99 (documento anexo nº 05), e o julgamento da apelação, aos 18.03.14 (documento anexo nº 10), transcorreu lapso temporal muito superior àquele necessário para o reconhecimento da prescrição da pretensão punitiva estatal, sendo imperiosa a declaração de extinção da punibilidade (...)” (fl. 8 da inicial – grifos dos autores).
+    Defendem, ainda, a necessidade de julgamento do feito pelo Tribunal Pleno da Corte para unificar o entendimento divergente nas Turmas a respeito do tema.
+    Requerem o deferimento da liminar para suspender a prisão preventiva do paciente e, no mérito, pedem a concessão da ordem para se declarar a extinção da punibilidade do paciente, em virtude da consumação da prescrição da pretensão punitiva.
+    Examinandos os autos, decido.
+    Eis o teor do julgado ora questionado:
+    “PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS . EXTINÇÃO DA PUNIBILIDADE. RÉU QUE COMPLETOU 70 ANOS APÓS A SENTENÇA CONDENATÓRIA. REDUÇÃO DO PRAZO PRESCRICIONAL. ART. 115 DO CP. IMPOSSIBILIDADE.
+    1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Recurso Especial n. 749.912/PR, pacificou o entendimento de que o benefício previsto no art. 115 do Código Penal não se aplica ao réu que completou 70 anos de idade após a data da primeira decisão condenatória.
+    2. Hipótese em que o agravante completou a referida idade após a condenação proferida pelo Tribunal do Júri, circunstância que obsta a redução pela metade do prazo prescricional previsto no art. 109 do CP.
+    3. Não tendo transcorrido o lapso prescricional entre os marcos interruptivos previstos no art. 117 do CP, inviável o reconhecimento da extinção da punibilidade.
+    4. Agravo regimental desprovido” (fl. 21 do anexo 7).
+    Essa é a razão pela qual se insurgem os impetrantes neste writ.
+    O habeas corpus não merece seguimento, uma vez que no julgamento do HC nº 127.692/SP, impetrado em favor do paciente, a Segunda Turma ao analisar o pretendido reconhecimento da prescrição da pretensão punitiva, em razão da incidência do art. 115 do Código Penal assim concluiu:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO STJ. INVIABILIDADE. CABIMENTO DE AGRAVO INTERNO. INTERPOSIÇÃO INDISPENSÁVEL PARA ATENDER AO PRINCÍPIO DO JUIZ NATURAL E PARA EXAURIR A INSTÂNCIA RECORRIDA, PRESSUPOSTO PARA INAUGURAR A COMPETÊNCIA DO STF.
+    1. O habeas corpus ataca diretamente decisão monocrática de Ministro do STJ. Essa decisão tem o respaldo formal do art. 38 da Lei 8.038/1990 e contra ela é cabível o agravo previsto no art. 39 da mesma Lei. Ambos os dispositivos estão reproduzidos, tanto no Regimento Interno do STF (arts. 192 e 317), quanto no Regimento do STJ (arts. 34, XVIII, e 258). Em casos tais, o exaurimento da jurisdição e o atendimento ao princípio da colegialidade, pelo tribunal prolator, se dá justamente mediante o recurso de agravo interno, previsto em lei, que não pode simplesmente ser substituído por outra ação de habeas corpus, de competência de outro tribunal.
+    2. A se admitir essa possibilidade estar-se-á atribuindo ao impetrante a faculdade de eleger, segundo conveniências próprias, qual tribunal irá exercer o juízo de revisão da decisão monocrática: se o STJ, juízo natural indicado pelo art. 39 da Lei 8.038/1990, ou o STF, por via de habeas corpus substitutivo. O recurso interno para o órgão colegiado é medida indispensável não só para dar adequada atenção ao princípio do juiz natural, como para exaurir a instância recorrida, pressuposto para inaugurar a competência do STF (cf. HC 118.189, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 19/11/2013; HC 97009, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 25/04/2013; HC 108718-AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 10/09/2013, DJe de 24-09-2013, entre outros).
+    3. Ainda que superado esse óbice, inúmeros precedentes, firmados por ambas as Turmas do STF e apoiados em abalizado entendimento doutrinário, são no sentido de que a redução do prazo prescricional prevista no art. 115 do Código Penal é aplicável ao agente maior de 70 anos na data da sentença, e não na data em que o título executivo penal condenatório se tornou imutável.
+    4. Agravo regimental a que se nega provimento” (Relator o Ministro Teori Zavascki, DJe de 3/8/15).
+    Logo, pode-se dizer que este writ, em razão dessas circunstâncias, tem feições de mera reiteração da impetração anterior e, como se sabe, a jurisprudência deste Supremo Tribunal já assentou a inadmissibilidade de “habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada e denegada” (HC nº 126.835/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 18/8/15).
+    Perfilhando esse entendimento: RHC nº 88.403/PA, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 27/10/06; HC nº 112.645/TO, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 8/6/12; HC nº 127.177/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 10/6/15, entre outros.
+    Ante o exposto, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 24 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
