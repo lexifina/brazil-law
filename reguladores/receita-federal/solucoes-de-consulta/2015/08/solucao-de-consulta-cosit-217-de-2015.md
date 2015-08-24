@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 217, de 18 de agosto de 2015
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: Contribuição Patronal. Base de cálculo. Residência médica. A bolsa de estudos paga ou creditada ao médico-residente, participante do programa de que trata a Lei nº 6.932, de 1981, integra a base de cálculo da Contribuição Social Previdenciária da empresa. DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 12, inciso V, alíneas “g” e “h”, e art. 22, inciso III; Decreto nº 3.048, de 1999, art. 9º, inciso V, alíneas “j” e “l”, § 15, inciso X, e art. 201, incisos II e III, § 2º; Instrução Normativa RFB nº 971, de 2009, arts. 6º, inciso XXV; 9º, inciso XVIII, e 57, incisos I e II, e § 2º.
+[arquivo anexo: SC Cosit nº 217-2015.pdf]
