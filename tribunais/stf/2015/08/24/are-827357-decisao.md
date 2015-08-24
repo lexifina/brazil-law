@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo ao qual dei provimento para admitir parcialmente o recurso extraordinário e determinei o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC, tendo em conta que se discute nos autos a matéria debatida no RE 638.115-RG, sob a relatoria do Ministro Gilmar Mendes (Tema 395).
+    O Tribunal Regional Federal da 5ª Região encaminhou os autos novamente ao Supremo Tribunal Federal, por verificar que o objeto da presente demanda não se assemelha à matéria discutida no paradigma da repercussão geral. A distinção se deu sob o fundamento de que “não se discute, aqui, se a parte autora tem ou não direito à incorporação de tais quintos à sua remuneração, uma vez que esse direito já foi reconhecido administrativamente”.
+    No julgamento do embargos declaratórios opostos contra o acórdão do Plenário que julgou o mérito do paradigma da repercussão geral (RE 638.115-RG) foram apontadas as seguintes omissões: (i) abrangência do pronunciamento quanto aos beneficiados por decisão judicial transitada em julgado; (ii) abrangência do pronunciamento quanto aos beneficiados por decisão administrativa prolatada há mais de cinco anos e não impugnada judicialmente; (iii) modulação de efeitos em observância à irredutibilidade de vencimentos e à segurança jurídica. Portanto, a controvérsia ora discutida será solucionada na ocasião do julgamento dos referidos embargos declaratórios.
+    Reitero a decisão de fls. 303-306.
+    Diante do exposto, dou provimento ao agravo para admitir o recurso extraordinário apenas quanto à questão relativa à constitucionalidade da incorporação dos quintos no período mencionado e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC. Quanto ao restante, nego seguimento ao recurso extraordinário, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF.
+    Publique-se.
+          Brasília, 24 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
