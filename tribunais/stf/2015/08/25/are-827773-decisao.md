@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 34ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 217):
+    “Intimação. Irregularidade reconhecida. Providência do artigo 100, § 10º, da Constituição Federal de 1988 não observada. Agravo improvido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 100, § 10, da Carta. Sustenta, em síntese, que “a recorrida foi devidamente intimado a se manifestar nos termos do §10 do art. 100 CF; (ii) recorrida foi inerte, sendo homologado o calculo apresentado pela recorrente; (iii) inexiste efetivamente qualquer valor a ser compensado; (iv) o crédito da recorrente esta devidamente consolidado, devendo ser mantido o precatório expedido”.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de inexistir violação ao dispositivo constitucional indicado “que as exigências constitucionais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão ao declinar as premissas nas quais assentada a decisão”.
+    A pretensão não merece prosperar. Colho as seguintes informações do voto condutor do acórdão recorrido:
+    “Analisando-se as informações existentes nos autos deste processo há que se reconhecer que o precatório foi expedido sem que se observasse integralmente a disciplina legal a respeito.
+    Não se deu cumprimento ao disposto pelo § 10º do artigo 100 da Constituição Federal que preconiza antecedente intimação da Fazenda Pública de forma a possibilitar-lhe eventuais abatimentos decorrentes de débitos do credor do precatório e, a respeito, existe expressa determinação do Conselho Nacional de Justiça em sua Resolução CNJ nº 115 de 29 de junho de 2010, fixando o prazo de 30 (trinta) dias para tal manifestação.
+    Resta, pois, reconhecer-se a irregularidade na expedição do precatório […].
+    Com efeito, a decisão contém os fundamentos pertinentes que levaram o magistrado a reconhecer a irregularidade da intimação da Municipalidade, especialmente ao invocar o desatendimento da providência aludida no artigo 100, § 10º, da Constituição Federal de 1988, não infirmando tal cenário a alegação de que a inércia da agravada foi certificada pela serventia, o que se tornou ineficaz em virtude do reconhecimento do vício em questão.”
+    Nessas circunstâncias, pode-se concluir que a pretensão da parte recorrente no sentido de discutir a existência ou não de intimação, de inércia da parte recorrida, bem como da existência de valor a ser compensado, dependeria do exame de legislação infraconstitucional pertinente e do acervo fático-probatório constante dos autos, providência o que é vedado nesta via processual (Súmula 279 STF).
+    Ademais, não se apresenta a aduzida violação ao art. 100, § 10, da Carta. Isto porque, in casu, a Corte de origem aplicou-o à luz do contexto fático-probatório submetido à sua jurisdição. Não há violação quando o órgão jurisdicional aplica os dispositivos da Constituição, uma vez que é esta a função precípua do Poder Judiciário.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 25 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
