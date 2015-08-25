@@ -1,0 +1,1 @@
+Artigo 4º - A gratificação prevista no artigo 99 desta lei complementar estender-se-á ao inativo, na base de 1/60 (um sessenta avos) para cada mês em que, no período dos 60 (sessenta) meses imediatamente anteriores à aposentadoria, tiver ele prestado serviço na forma do disposto no artigo anterior.

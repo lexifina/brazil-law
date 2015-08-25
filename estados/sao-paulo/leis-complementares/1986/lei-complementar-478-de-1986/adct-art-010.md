@@ -1,0 +1,2 @@
+Artigo 10 - Aos atuais titulares efetivos dos cargos de Procurador do Estado Subchefe Nível I e Procurador do Estado Subchefe Nível II fica assegurada preferência para função de chefia, desde que manifestem opção no prazo de 60 (sessenta) dias contados da data da publicação desta lei complementar, sem direito, no entanto, ao "pro labore" de que tratam o inciso VI do artigo 98 e o artigo 46.
+Parágrafo único - O disposto neste artigo aplica aos que estiverem no efetivo exercício de chefia na data da publicação desta lei complementar.

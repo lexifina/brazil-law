@@ -1,0 +1,1 @@
+Artigo 2º - Os atuais ocupantes de cargos da carreira de Procurador do Estado ou a ela vinculados poderão, (vetado), optar pela sujeição à "Jornada Integral de Trabalho" prevista no artigo 74 desta lei complementar, mediante requerimento dirigido ao Procurador Geral do Estado.

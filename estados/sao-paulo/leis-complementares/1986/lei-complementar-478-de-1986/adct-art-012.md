@@ -1,0 +1,1 @@
+Artigo 12 - Dentro de 1 (um) ano, contado da data da publicação desta lei complementar, as designações para as chefias a que aludem os incisos I e II do artigo 44 desta lei complementar poderão recair em Procuradores de Estado de níveis imediatamente inferiores aos ali previstos.
