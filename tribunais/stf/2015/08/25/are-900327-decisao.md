@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 5ª Turma Recursal dos Juizados Especiais Cíveis e Criminais do Estado da Bahia, cuja ementa dispõe:
+    “RECURSO INOMINADO. AÇÃO INDENIZATÓRIA. DÍVIDA INEXISTENTE. FATURA PAGA OPORTUNAMENTE. SUSPENSÃO IMOTIVADA DO SERVIÇO DE ENERGIA POR TRÊS DIAS. DANOS MORAIS CONFIGURADOS. DEVER DE INDENIZAR RECONHECIDO, ARBITRADO DE ACORDO COM A RAZOABILIDADE. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E IMPROVIDO”. (eDOC 19)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se ofensa aos artigos 5º; 37; e 175, IV, do texto constitucional.
+    Nas razões recursais, argumenta-se que não existe amparo legal para que a COELBA proceda com o fornecimento de um serviço absolutamente ininterrupto. Alega-se que a violação às resoluções do setor elétrico representaria afronta expressa ao conjunto normativo referendado pela Constituição Federal de 1988, no que toca à concessão do serviço público.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, observo que o acórdão recorrido, ao examinar o Código de Defesa do Consumidor e o Código Civil, entendeu ser a concessionária responsável pelos danos causados. Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Nesse sentido, cito o seguinte precedente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. RESTITUIÇÃO DE VALORES DESPENDIDOS POR CONSUMIDOR PARA A IMPLANTAÇÃO DE REDE ELÉTRICA EM PROPRIEDADE RURAL. REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO VIRTUAL NO ARE Nº 683.017-RG. TEMA Nº 604 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL. 1. A possibilidade, ou não, de restituição integral dos valores despendidos pelo consumidor para financiar obras de implantação de rede elétrica em propriedade rural, à luz dos incisos II e XXXVI e do § 1º do art. 5º da Constituição Federal de 1988, já restou analisado no ARE n. 683.017-RG, em que o Plenário desta Corte decidiu rejeitar sua repercussão geral, uma vez que a matéria está restrita à análise de norma infraconstitucional. 2. In casu, o acórdão originariamente recorrido deu provimento ao recurso inominado e julgou procedente o pedido inicial para declarar nulo o contrato e condenar a parte recorrida a restituir à parte recorrente as quantias indevidamente pagas a título de custeio de fornecimento de energia elétrica. 3. Agravo regimental desprovido”. (ARE-AgR 736.100, Re. Min. Luiz Fux, Primeira Turma, DJe 13.8.2013)
+    Além disso, ressalto que o Tribunal de origem decidiu a controvérsia dos autos, com fundamento em fatos e provas. Desse modo, para se entender de forma diversa, faz-se imprescindível a análise desse acervo fático-probatório, providência vedada na via do apelo extremo, nos termos do Enunciado 279 da Súmula do STF.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 25 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
