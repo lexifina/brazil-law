@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+    “PROPRIEDADE INDUSTRIAL. Marca. Propaganda comparativa feita pela ré. Esclarecimento das diferenças entre os produtos. Inexistência de sugestão ou insinuação de ofensa à marca ou ao produto da concorrente. Concorrência desleal não caracterizada. Ação de obrigação de não fazer c.c reparatória improcedente. Recurso provido”. (fl. 134)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, XXIX, do texto constitucional.
+    O recorrente aduz que o Tribunal a quo contrariou o referido dispositivo, pois “deixou de assegurar a proteção constitucional referente à propriedade das marcas e dos nomes empresariais” e permitiu “utilização desautorizada, injustificada e ostensiva” de suas marcas.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o Tribunal de origem decidiu a lide com base na legislação infraconstitucional pertinente e no conjunto fático-probatório dos autos. Desse modo, a alegada violação do dispositivo constitucional apontado no recurso extraordinário, se ocorresse, seria indireta ou reflexa, o que não é suficiente para amparar o apelo extremo. Ademais, incide na espécie a Súmula nº 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. PEDIDO DE INDENIZAÇÃO POR USO INDEVIDO DE MARCA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI n° 711.638/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 7.11.08).
+    “Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Falta de prequestionamento de dispositivos constitucionais. Matéria que não foi abordada nas razões de apelação ou mesmo em embargos declaratórios. Agravo regimental a que se nega provimento.” (AI n° 491.543/SP–AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 29.6.07).
+    “O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental improvido.” (RE n° 544.373/ES-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ-e de 7.8.09).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (Art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 25 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
