@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 2ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “TRIBUTÁRIO. ICMS. REMETENTE DE MERCADORIAS CUJA INSCRIÇÃO ESTADUAL ESTAVA SUSPENSA. ESTORNO DE CRÉDITOS. OBRIGAÇÃO TRIBUTÁRIA TRANSFERIDA AO ADQUIRENTE. EXIGÊNCIA TRIBUTÁRIA VÁLIDA. IMPROCEDÊNCIA DO PEDIDO”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, XXXVI, LIV e LV; 37, caput; 93, IX; e 155, § 2º, I, todos da Carta.
+    A pretensão não merece acolhida. Quanto à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nessa linha, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, no caso dos autos, verifica-se que o acórdão recorrido consignou que:
+    “O que importa para a solução da lide é salientar que o valor do imposto sobre circulação de mercadorias, destacado nas notas fiscais de entradas de mercadorias no estabelecimento da apelante, e que foi apropriado pela apelante, não foi efetivamente recolhido”
+    Tal como constatou a decisão agravada, dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, providência vedada nesta fase processual (Súmulas 279 e 280/STF).
+    Por fim, cumpre registrar que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia relativa à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 25 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
