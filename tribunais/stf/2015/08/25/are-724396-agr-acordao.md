@@ -1,0 +1,543 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 12
+
+25/08/2015
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 724.396 RIO
+GRANDE DO SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+
+: MIN. DIAS TOFFOLI
+: ESTACAO RODOVIARIA SANTO ANGELO LTDA
+: DARCI NORTE REBELO E OUTRO(A/S)
+: MINISTÉRIO PÚBLICO DO ESTADO DO RIO
+GRANDE DO SUL
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+RIO GRANDE DO SUL
+: DEPARTAMENTO AUTONOMO DE ESTRADAS DE
+RODAGEM - DAER
+EMENTA
+
+Agravo regimental no recurso extraordinário com agravo.
+Administrativo. Concessão de transporte público. Prorrogação do
+contrato sem licitação. Impossibilidade. Precedentes.
+1. É pacífica a orientação da Corte de que, nos termos do art. 175,
+caput, da Constituição Federal, é imprescindível a realização de licitação
+para a prorrogação dos contratos de concessão de serviço público.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, sob a Presidência do
+Senhor Ministro Dias Toffoli, na conformidade da ata do julgamento e das
+notas taquigráficas, por unanimidade de votos, em negar provimento ao
+agravo regimental, nos termos do voto do Relator.
+Brasília, 25 de agosto de 2015.
+MINISTRO DIAS TOFFOLI
+Relator
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438708.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 12
+
+25/08/2015
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 724.396 RIO
+GRANDE DO SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+
+: MIN. DIAS TOFFOLI
+: ESTACAO RODOVIARIA SANTO ANGELO LTDA
+: DARCI NORTE REBELO E OUTRO(A/S)
+: MINISTÉRIO PÚBLICO DO ESTADO DO RIO
+GRANDE DO SUL
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+RIO GRANDE DO SUL
+: DEPARTAMENTO AUTONOMO DE ESTRADAS DE
+RODAGEM - DAER
+RELATÓRIO
+
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Estação Rodoviária Santo Ângelo Ltda. interpõe tempestivo agravo
+regimental contra decisão em que conheci do agravo para negar
+seguimento ao recurso extraordinário, com a seguinte fundamentação:
+“Estação Rodoviária de Santo Angelo Ltda. interpõe
+agravo contra a decisão que não admitiu recurso extraordinário
+contra acórdão da Segunda Câmara Cível do Tribunal de Justiça
+do Estado do Rio Grande do Sul, assim ementado:
+‘LICITAÇÃO E CONTRATO ADMINISTRATIVO.
+AÇÃO CIVIL PÚBLICA.
+Prescrição e decadência. Inocorrência. Prorrogação
+da concessão de serviço público sem licitação.
+Inviabilidade.
+Declaração
+Incidental
+de
+Inconstitucionalidade. Descabimento.
+Apelações parcialmente providas.’
+Opostos embargos de declaração, foram rejeitados.
+Alega a recorrente contrariedade aos artigos 37, inciso
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 12
+
+ARE 724396 AGR / RS
+XXI, e 175, § 1º, da Constituição Federal.
+O Superior Tribunal de Justiça, em decisão transitada em
+julgado, não conheceu do agravo em recurso especial interposto
+simultaneamente ao extraordinário.
+O parecer do Ministério Púbico Federal é pelo
+‘desprovimento do agravo’.
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi
+interposto contra acórdão publicado após 3/5/07, quando já era
+plenamente exigível a demonstração da repercussão geral da
+matéria constitucional objeto do recurso, conforme decidido na
+Questão de Ordem no Agravo de Instrumento nº 664.567/RS,
+Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de
+6/9/07. Todavia, apesar da petição recursal haver trazido a
+preliminar sobre o tema, não é de se proceder ao exame de sua
+existência, uma vez que, nos termos do artigo 323 do Regimento
+Interno do Supremo Tribunal Federal, com a redação
+introduzida pela Emenda Regimental nº 21/07, primeira parte, o
+procedimento acerca da existência da repercussão geral
+somente ocorrerá ‘quando não for o caso de inadmissibilidade
+do recurso por outra razão’.
+A irresignação não merece prosperar.
+A jurisprudência da Corte firmou-se no sentido de que,
+nos termos do artigo 175, caput, da Constituição Federal, é
+imprescindível prévia licitação para a concessão ou permissão
+da exploração de serviços públicos. Com efeito, mostram-se
+inegavelmente inconstitucionais as prorrogações de concessão
+e de permissão de serviços públicos que vão de encontro à
+referida premissa, inclusive as de contratos formalizados antes
+de 5 de outubro de 1988. Nesse sentido:
+‘CONCESSÃO – TRANSPORTE INTERMUNICIPAL
+–PRORROGAÇÃO – IMPOSSIBILIDADE – LICITAÇÃO.
+O artigo 175 da Carta de República, ao preconizar o
+procedimento licitatório como requisito à concessão de
+serviços públicos, possui normatividade suficiente para
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 12
+
+ARE 724396 AGR / RS
+invalidar a prorrogação de contratos dessa natureza,
+formalizados antes de 5 de outubro de 1988’ (RE nº
+603.350/MT-AgR, Primeira Turma, Relator o Ministro
+Marco Aurélio, DJe de 14/10/13).
+‘AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO.
+REPRESENTAÇÃO
+DE
+INCONSTITUCIONALIDADE DE LEIS OU ATOS
+NORMATIVOS
+ESTADUAIS
+OU
+MUNICIPAIS.
+VEDAÇÃO CONSTITUCIONAL DE ATRIBUIR A
+LEGITIMAÇÃO PARA AGIR A UM ÚNICO ÓRGÃO.
+PARTIDO POLÍTICO SEM REPRESENTAÇÃO NO
+PODER LEGISLATIVO LOCAL. POSSIBILIDADE.
+CONTROLE ABSTRATO DE CONSTITUCIONALIDADE.
+LEIS DE EFEITOS CONCRETOS. VIABILIDADE.
+CONTRATO DE CONCESSÃO DE SERVIÇO PÚBLICO.
+PRORROGAÇÃO POR PERÍODO ALÉM DO PRAZO
+RAZOÁVEL PARA A REALIZAÇÃO DE NOVO
+PROCEDIMENTO
+LICITATÓRIO.
+VIOLAÇÃO
+À
+EXIGÊNCIA
+CONSTITUCIONAL
+DE
+PRÉVIA
+LICITAÇÃO PÚBLICA. AGRAVO IMPROVIDO. I – A
+exigência do art. 125, § 2º, da Constituição Federal,
+pertinente aos legitimados para a representação de
+inconstitucionalidade de leis ou atos normativos estaduais
+ou municipais em face da Constituição Estadual, é que a
+Carta Estadual não os restrinja a um único órgão
+legitimado. Precedente. II – No julgamento da ADI 4.048MC/DF, Rel. Min. Gilmar Mendes, esta Corte admitiu o
+exercício de controle abstrato de leis de efeitos concretos.
+III – A prorrogação não razoável de concessão de serviço
+público ofende a exigência constitucional de que ela deve
+ser precedida de licitação pública. Precedentes. IV –
+Agravo regimental improvido’ (RE nº 412.921/MG-AgR,
+Primeira
+Turma,
+Relator
+o
+Ministro
+Ricardo
+Lewandowski, DJ de 15/3/11).
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 12
+
+ARE 724396 AGR / RS
+‘AGRAVO REGIMENTAL EM AÇÃO CAUTELAR.
+RECURSO EXTRAORDINÁRIO A QUE SE DEU EFEITO
+SUSPENSIVO
+NA
+ORIGEM.
+PEDIDO
+DE
+CONTRACAUTELA PARA QUE SE PERMITA A
+OPERAÇÃO DE PROLONGAMENTO DE LINHA DE
+TRANSPORTE INTERESTADUAL DE PASSAGEIROS.
+ART. 175 DA CONSTITUIÇÃO FEDERAL. Decisão
+agravada que negou seguimento à ação cautelar, ao
+entendimento de que o Tribunal de origem não usurpou a
+competência do Supremo Tribunal Federal, ante as
+Súmulas 634 e 635. De toda forma, ainda que se considere
+inaugurada a jurisdição cautelar desta egrégia Corte, a
+decisão recorrida extraordinariamente está em sintonia
+com a jurisprudência da Casa, no sentido de que a
+exploração de transporte coletivo de passageiros há de ser
+precedida de processo licitatório. Precedentes: Recursos
+Extraordinários ns. 140.989, 214.383, 264.621 e 412.978.
+Agravo regimental a que se nega provimento’ (AC nº
+1.066/RJ-AgR, Primeira Turma, Relator o Ministro Ayres
+Britto, DJe de 28/9/07).
+‘SERVIÇO PÚBLICO CONCEDIDO. TRANSPORTE
+INTERESTADUAL
+DE
+PASSAGEIROS.
+AÇÃO
+DECLARATÓRIA. PEDIDO DE RECONHECIMENTO DE
+DIREITO DE EMPRESA TRANSPORTADORA DE
+OPERAR
+PROLONGAMENTO
+DE
+TRECHO
+CONCEDIDO. AUSÊNCIA DE LICITAÇÃO. Afastada a
+alegação do recorrido de ausência de prequestionamento
+dos preceitos constitucionais invocados no recurso. Os
+princípios constitucionais que regem a administração
+pública exigem que a concessão de serviços públicos seja
+precedida de licitação pública. Contraria os arts. 37 e 175
+da Constituição federal decisão judicial que, fundada em
+conceito genérico de interesse público, sequer
+fundamentada em fatos e a pretexto de suprir omissão do
+órgão administrativo competente, reconhece ao particular
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 12
+
+ARE 724396 AGR / RS
+o direito de exploração de serviço público sem a
+observância do procedimento de licitação. Precedentes.
+Recurso extraordinário conhecido e a que se dá
+provimento’ (RE nº 264.621/CE, Segunda Turma, Relator o
+Ministro Joaquim Barbosa, DJ de 8/4/05).Colhe-se do voto
+condutor do acórdão:
+O acórdão recorrido está em consonância com essa
+orientação.
+Ressalte-se que, no mais, para divergir do entendimento
+firmado pelo Tribunal de origem e analisar a pretensão da
+recorrente, seria necessário o reexame das normas
+infraconstitucionais invocadas pelo acórdão recorrido e das
+cláusulas do contrato firmado entre as partes, o que é
+inadmissível em sede de recurso extraordinário. Incidência das
+Súmulas nºs 280 e 454 desta Corte. Nesse sentido, anote-se:
+‘AGRAVO REGIMENTAL EM AGRAVO DE
+INSTRUMENTO. LEGISLAÇÃO LOCAL. SUMULA 280
+DO STF. EXAME DE FATO E INTERPRETAÇÃO DE
+CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO
+SFT. RECURSO PROTELATÓRIO. MULTA. AGRAVO
+IMPROVIDO. I - A apreciação do recurso extraordinário
+demanda a análise de normas locais, o exame de matéria
+de fato e a interpretação de cláusulas contratuais.
+Incidência das Súmulas 279, 280 e 454 do STF. II - Recurso
+protelatório. Aplicação de multa. III - Agravo regimental
+improvido’ (AI nº 744.230/CE-AgR, Relator o Ministro
+Ricardo Lewandowski , DJe de 26/6/09).
+‘AGRAVO DE INSTRUMENTO - ALEGADA
+VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS DIREITO
+LOCAL
+SÚMULA
+280/STF
+INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL SÚMULA 454/STF - RECURSO IMPROVIDO. - Revela-se
+inadmissível o recurso extraordinário, quando a alegação
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 12
+
+ARE 724396 AGR / RS
+de ofensa resumir-se ao plano do direito meramente local
+(ordenamento positivo do Estado-membro ou do
+Município), sem qualquer repercussão direta sobre o
+âmbito normativo da Constituição da República. - Não
+cabe recurso extraordinário, quando interposto com o
+objetivo de interpretar cláusula contratual’ (AI nº
+735.156/SP-AgR, Relator o Ministro Celso de Mello , DJe
+de 17/4/09).
+‘AGRAVO DE INSTRUMENTO - ALEGADA
+VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS DIREITO
+LOCAL
+SÚMULA
+280/STF
+INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL SÚMULA 454/STF - RECURSO IMPROVIDO. - Revela-se
+inadmissível o recurso extraordinário, quando a alegação
+de ofensa resumir-se ao plano do direito meramente local
+(ordenamento positivo do Estado-membro ou do
+Município), sem qualquer repercussão direta sobre o
+âmbito normativo da Constituição da República. - Não
+cabe recurso extraordinário, quando interposto com o
+objetivo de interpretar cláusula contratual’ (AI nº
+735.156/SP-AgR, Relator o Ministro Celso de Mello , DJe
+de 17/4/09).
+E, especificamente sobre o tema dos autos:
+‘AGRAVO REGIMENTAL NO AGRAVO DE
+INSTRUMENTO.
+ADMINISTRATIVO.
+1.
+PRORROGAÇÃO DE CONTRATO DE CONCESSÃO DE
+SERVIÇO PÚBLICO: NECESSIDADE DE LICITAÇÃO. 2.
+ALEGAÇÃO DE CONTRARIEDADE AO ART. 5°, INC.
+LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA.
+IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO
+INFRACONSTITUCIONAL.
+OFENSA
+CONSTITUCIONAL INDIRETA. 3. AUSÊNCIA DE
+IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 12
+
+ARE 724396 AGR / RS
+RECORRIDO. INCIDÊNCIA DAS SÚMULAS N. 283 E 284
+DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES.
+AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO’ (AI nº 811.212/RS-AgR, Relatora a
+Ministra Cármen Lúcia, DJ de 1º/2/11).
+Ante o exposto, conheço do agravo para negar seguimento
+ao recurso extraordinário.”
+
+Sustenta a parte agravante, em síntese, que (a) os arts. 37, XXI, e 175,
+caput, da Constituição Federal foram interpretados erroneamente, tendo
+em vista que a prorrogação de contrato já existente não ofenderia a regra
+da licitação, que diz respeito apenas às obrigações que envolvem
+pagamento por parte do Estado; (b) a prorrogação do contrato de
+concessão é um direito previsto inciso I do art. 175 da Carta Magna, o
+qual restou violado no acórdão recorrido.
+É o relatório.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438705.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 9 de 12
+
+25/08/2015
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 724.396 RIO
+GRANDE DO SUL
+VOTO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Não merece prosperar a irresignação.
+Conforme expresso na decisão agravada, a jurisprudência desta
+Corte é firme no sentido de que, nos termos do art. 175, caput, da
+Constituição Federal, é imprescindível prévia licitação para a concessão
+ou permissão da exploração de serviços públicos. Com efeito, mostram-se
+inegavelmente inconstitucionais as prorrogações de concessão e de
+permissão de serviços públicos que vão de encontro à referida premissa,
+inclusive aquelas cujo contratos foram formalizados antes de 5 de
+outubro de 1988.
+Desse modo, não há como sustentar o argumento de que a
+obrigatoriedade de licitação se daria apenas nos casos de obrigações que
+envolvessem pagamento por parte do ente público, como quer levar a
+crer o agravante. Nesse sentido, anote-se:
+“Agravo regimental em recurso extraordinário. 2.
+Transporte interestadual de passageiros. Concessão e
+permissão. Prorrogação. 3. Controle de legalidade dos atos
+administrativos pelo Poder Judiciário. Possibilidade. Não
+configuração de ofensa ao Princípio da Separação de Poderes. 4.
+Necessidade de licitação prévia. Norma cogente. Artigo 175 da
+Constituição. Precedentes. 5. Agravo regimental a que se nega
+provimento” (ARE nº 807.715/PE-AgR, Segunda Turma, Relator
+o Ministro Gilmar Mendes, DJe de 27/3/15).
+“CONCESSÃO – TRANSPORTE INTERMUNICIPAL –
+PRORROGAÇÃO – IMPOSSIBILIDADE – LICITAÇÃO. O
+artigo 175 da Carta de República, ao preconizar o procedimento
+licitatório como requisito à concessão de serviços públicos,
+possui normatividade suficiente para invalidar a prorrogação
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438706.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 10 de 12
+
+ARE 724396 AGR / RS
+de contratos dessa natureza, formalizados antes de 5 de
+outubro de 1988” (RE nº 603.350/MT-AgR, Primeira Turma,
+Relator o Ministro Marco Aurélio, DJe de 14/10/13).
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO.
+REPRESENTAÇÃO
+DE
+INCONSTITUCIONALIDADE
+DE
+LEIS
+OU
+ATOS
+NORMATIVOS ESTADUAIS OU MUNICIPAIS. VEDAÇÃO
+CONSTITUCIONAL DE ATRIBUIR A LEGITIMAÇÃO PARA
+AGIR A UM ÚNICO ÓRGÃO. PARTIDO POLÍTICO SEM
+REPRESENTAÇÃO NO PODER LEGISLATIVO LOCAL.
+POSSIBILIDADE.
+CONTROLE
+ABSTRATO
+DE
+CONSTITUCIONALIDADE. LEIS DE EFEITOS CONCRETOS.
+VIABILIDADE. CONTRATO DE CONCESSÃO DE SERVIÇO
+PÚBLICO. PRORROGAÇÃO POR PERÍODO ALÉM DO
+PRAZO RAZOÁVEL PARA A REALIZAÇÃO DE NOVO
+PROCEDIMENTO LICITATÓRIO. VIOLAÇÃO À EXIGÊNCIA
+CONSTITUCIONAL DE PRÉVIA LICITAÇÃO PÚBLICA.
+AGRAVO IMPROVIDO. I – A exigência do art. 125, § 2º, da
+Constituição Federal, pertinente aos legitimados para a
+representação de inconstitucionalidade de leis ou atos
+normativos estaduais ou municipais em face da Constituição
+Estadual, é que a Carta Estadual não os restrinja a um único
+órgão legitimado. Precedente. II – No julgamento da ADI 4.048MC/DF, Rel. Min. Gilmar Mendes, esta Corte admitiu o
+exercício de controle abstrato de leis de efeitos concretos. III – A
+prorrogação não razoável de concessão de serviço público
+ofende a exigência constitucional de que ela deve ser precedida
+de licitação pública. Precedentes. IV – Agravo regimental
+improvido” (RE nº 412.921/MG-AgR, Primeira Turma, Relator o
+Ministro Ricardo Lewandowski, DJ de 15/3/11).
+“AGRAVO
+REGIMENTAL
+NO
+AGRAVO
+DE
+INSTRUMENTO. ADMINISTRATIVO. 1. PRORROGAÇÃO DE
+CONTRATO DE CONCESSÃO DE SERVIÇO PÚBLICO:
+NECESSIDADE DE LICITAÇÃO. 2. ALEGAÇÃO DE
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438706.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 11 de 12
+
+ARE 724396 AGR / RS
+CONTRARIEDADE AO ART. 5°, INC. LIV E LV, DA
+CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE
+ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL.
+OFENSA CONSTITUCIONAL INDIRETA. 3. AUSÊNCIA DE
+IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO
+RECORRIDO. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO
+SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO
+REGIMENTAL AO QUAL SE NEGA PROVIMENTO (AI nº
+811.212/RS-AgR, Primeira Turma, Relatora a Ministra Cármen
+Lúcia, DJ de 1º/2/10).
+
+Nego provimento ao agravo regimental.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 9438706.
+
+Supremo Tribunal Federal
+Extrato de Ata - 25/08/2015
+
+Inteiro Teor do Acórdão - Página 12 de 12
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 724.396
+PROCED. : RIO GRANDE DO SUL
+RELATOR : MIN. DIAS TOFFOLI
+AGTE.(S) : ESTACAO RODOVIARIA SANTO ANGELO LTDA
+ADV.(A/S) : DARCI NORTE REBELO E OUTRO(A/S)
+AGDO.(A/S) : MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO RIO
+GRANDE DO SUL
+INTDO.(A/S) : DEPARTAMENTO AUTONOMO DE ESTRADAS DE RODAGEM - DAER
+Decisão: A Turma, por votação unânime, negou provimento ao
+agravo regimental, nos termos do voto do Relator. Ausente,
+justificadamente, o Senhor Ministro Celso de Mello. Presidência do
+Senhor Ministro Dias Toffoli. 2ª Turma, 25.08.2015.
+Presidência do Senhor Ministro Dias Toffoli. Presentes à
+sessão os Senhores Ministros Gilmar Mendes, Cármen Lúcia e Teori
+Zavascki. Ausente, justificadamente, o Senhor Ministro Celso de
+Mello.
+Subprocuradora-Geral da República, Dra. Deborah Duprat.
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 9319926
