@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Sergipe, cuja ementa reproduzo a seguir:
+    “Constitucional e Administrativo – Gratificação por cursos aos ocupantes das Carreiras Policiais Civis – Lei Estadual nº 6.445/2008 – Vigência temporária – Possibilidade – Inexistência de direito adquirido a regime jurídico.
+    I – A Lei Estadual nº 6.445, que instituiu a gratificação por curso aos ocupantes dos cargos das Carreiras Policiais Civis do Estado de Sergipe, é do tipo temporária, já que traz em seu bojo a data da vigência, previamente fixada pelo legislador. Enfim, a sua aplicação fica condicionada aos fatos ocorridos durante a sua vigência, podendo, em tais casos, ocorrer o fenômeno da ultra-atividade da lei, consistente na possibilidade de uma lei se aplicar a um fato cometido durante a sua vigência, mesmo após a sua revogação;
+    II – In casu, o autor ingressou nos quadros da Policia Civil de Sergipe no ano de 2010, ou seja, após a vigência da referida legislação que previa a concessão da gratificação ora pleiteada. Ainda, os cursos de aperfeiçoamento só foram concluídos no ano de 2011, quase dois anos após a perda da vigência da lei em comento. Desta feita, não há que se falar em ultra-atividade da referida lei estadual, seja porque o autor sequer era integrante dos quadros da Polícia Civil, seja porque os cursos sequer foram concluídos durante a vigência da lei;
+    III – Sucede que, malgrado esta situação e o esforço argumentativo do recorrente, certo é que não há o que se falar em direito adquirido em regime jurídico dos servidores. Por esta razão, é permitida a alteração do sistema remuneratório, desde que observado o princípio da irredutibilidade dos proventos. Precedentes dos Tribunais Superiores;
+    IV – Recurso conhecido e desprovido.” (eDoc 7, p. 1-2)
+    Opostos embargos de declaração, estes restaram não providos.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, c, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida. No mérito, alega-se que houve ofensa ao princípio da isonomia, assentado no art. 5º, caput, do texto constitucional.
+    Defende-se, em síntese, que a limitação temporal imposta pela Lei Estadual nº 6.445/2008 (que estabeleceu uma gratificação por capacitação profissional aos policiais civis) viola o princípio da isonomia, por estabelecer um óbice casuístico que impede que outros policiais percebam a referida gratificação no caso de se qualificarem em momento posterior ao estabelecido na referida legislação estadual.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Na espécie, o acórdão recorrido, ao examinar o conjunto probatório dos autos e a Lei nº 6.445/2008 do Estado de Sergipe, interpretou que se trata de lei temporária, cujo teor não dá margem para emprestar traços de ultratividade de modo a beneficiar os policiais que ingressaram na carreira após o limite temporal estabelecido.
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso por óbice da Súmula 280 do Supremo Tribunal Federal.
+    Ademais, ressalte-se que, nos termos do Enunciado 636 da Súmula do STF, não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Nesse sentido: AI-AgR 822.961, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8.11.2012; e o ARE-AgR 706.650, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.11.2012, cuja ementa assim dispõe:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. ALEGADA AFRONTA AO PRINCÍPIO DA LEGALIDADE (ART. 5º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA). OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Vale ainda mencionar que, nos termos do Enunciado 339 da Súmula do STF, recentemente incorporada nos Enunciados da Súmula Vinculante (nº 37), “não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia” - entendimento que, mutatis mutandis, se enquadra no caso debatido nestes autos.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 26 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
