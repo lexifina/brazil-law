@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INCOMPETÊNCIA DOS JUIZADOS ESPECIAIS PELA COMPLEXIDADE DA PROVA. AUSÊNCIA DE REPERCUSSÃO GERAL: RECURSO EXTRAORDINÁRIO COM AGRAVO N. 640.671-RG. INOBSERVÂNCIA DO ART. 5º, INCS. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios :
+    “CONFLITO NEGATIVO DE COMPETÊNCIA. JUIZADO ESPECIAL DA FAZENDA PÚBLICA DO DF. NECESSIDADE DE PRODUÇÃO DE COMPLEXA PROVA PERICIAL. INCOMPATIBILIDADE COM AS REGRAS DE FUNCIONAMENTO DOS JUIZADOS ESPECIAIS. INCISO I DO ART. 98 DA CONSTITUIÇÃO FEDERAL DA REPÚBLICA. PROCESSAMENTO DE CAUSAS DE MENOR COMPLEXIDADE. PREVALÊNCIA DE PROCEDIMENTOS ORAIS E SUMARÍSSIMOS. SOCIEDADE DE ECONOMIA MISTA COMO PARTE RÉ NOS JUIZADOS ESPECIAIS DE FAZENDA PÚBLICA. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA.
+    1 - A necessidade de produção de complexa prova pericial não se compatibiliza com os princípios da simplicidade, informalidade e celeridade orientadores do funcionamento dos Juizados Especiais, evidenciando que descabe o processamento de demandas desse jaez nos aludidos Juízos.
+    2 - A lei instituidora dos Juizados Especiais da Fazenda Pública apresenta rol taxativo das pessoas jurídicas que podem figurar no polo passivo das demandas lhe submetidas (art. 5°, inciso II, da Lei n° 12.513/09), sobressaindo, assim, a incompetência destes Juízos para o julgamento de ações em que figurem como parte Ré pessoas diversas daquelas elencadas no normativo referido, entendimento que se aplica também às sociedades de economia mista, uma vez que não se admite interpretação extensiva quanto às regras atinentes à competência.
+    Conflito de Competência acolhido. Firmada a Competência do Juízo de Direito Suscitado”.
+    Os embargos de declaração foram rejeitados.
+    2. O Recorrente alega contrariados os arts. 5º, incs. XXXV, LIII, LIV e LV, e 98, I, da Constituição da República, pedindo seja “o recurso extraordinário conhecido e provido para remeter o feito ao Juizado Especial da Fazenda Pública, competente para julgar as causas de menor complexidade contra as sociedades de economia mista do Distrito Federal”.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou não haver repercussão geral nas alegações de contrariedade aos princípios do do devido processo legal, do contraditório e da ampla defesa, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais (Código de Processo Civil e Lei n. 12.53/2009):
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    5. No julgamento do Agravo em Recurso Extraordinário n. 640.671-RG, Relator o Ministro Cezar Peluso, este Supremo Tribunal assentou não haver repercussão geral na alegação de incompetência dos juizados especiais pela complexidade da prova, pois o exame da questão dependeria de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional” (DJe 6.9.2011).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Não há, pois, o que prover quanto às alegações do Recorrente.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de agosto de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
