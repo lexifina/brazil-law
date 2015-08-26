@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IPTU. MUNICÍPIO DE GUARULHOS. LEI MUNICIPAL Nº 5.753/2001. PROGRESSIVIDADE FISCAL. POSSIBILIDADE APÓS O ADVENTO DA EMENDA CONSTITUCIONAL Nº 29/2000. RE 586.693. TEMA Nº 94 DA REPERCUSSÃO GERAL. ALEGADA AUSÊNCIA DE PUBLICAÇÃO INTEGRAL DA LEI. MATÉRIA TIDA POR PREJUDICADA NA ORIGEM. RECURSO PROVIDO PARA ANULAR O ACÓRDÃO RECORRIDO. DETERMINADO O RETORNO DOS AUTOS AO TRIBUNAL A QUO PARA O JULGAMENTO DA MATÉRIA NÃO EXAMINADA.
+    DECISÃO: Trata-se de recurso extraordinário interposto com fundamento na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “IPTU progressivo – Julgamento do Incidente de inconstitucionalidade n° 185.741 -0/2-00 declarando inconstitucional o art. 7° da Lei Municipal n° 5.753/01 – Precedentes deste E. Tribunal de Justiça. Recurso provido.”
+    Nas razões do apelo extremo, o Município sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 145, § 1º; e 156, § 1º, I e II, da Constituição Federal. Alega, em síntese, que após o advento da Emenda Constitucional nº 29/2000 restou permitida a adoção de progressividade fiscal no cálculo do IPTU.
+    Em contrarrazões, os contribuintes questionam a progressividade do IPTU e sustentam a ausência de publicação integral do texto da lei municipal, o que inviabilizaria a exação.
+    É o Relatório. DECIDO.
+    Esta Corte, no julgamento do RE 586.693, Rel. Min. Marco Aurélio, Plenário, DJe de 22/6/2011, leading case de repercussão geral, Tema nº 94, firmou orientação no sentido da validade da adoção da técnica da progressividade fiscal no cálculo do IPTU após o advento da Emenda Constitucional nº 29/2000. Confira-se a ementa do referido julgado:
+    “NULIDADE – JULGAMENTO DE FUNDO – ARTIGO 249, § 2º, DO CÓDIGO DE PROCESSO CIVIL. Quando for possível decidir a causa em favor da parte a quem beneficiaria a declaração de nulidade, cumpre fazê-lo, em atenção ao disposto no artigo 249, § 2º, do Código de Processo Civil, homenageando-se a economia e a celeridade processuais, ou seja, alcançar-se o máximo de eficácia da lei com o mínimo de atividade judicante, sobrepondo-se à forma a realidade.
+    IMPOSTO PREDIAL E TERRITORIAL URBANO – PROGRESSIVIDADE – FUNÇÃO SOCIAL DA PROPRIEDADE – EMENDA CONSTITUCIONAL Nº 29/2000 – LEI POSTERIOR. Surge legítima, sob o ângulo constitucional, lei a prever alíquotas diversas, presentes imóveis residenciais e comerciais, uma vez editada após a Emenda Constitucional nº 29/2000.”
+    Dessa orientação divergiu o acórdão recorrido, de forma que o presente recurso merece provimento.
+    Verifico, no entanto, que a parte ora recorrida suscitou matéria que foi tida por prejudicada pelo Tribunal a quo, qual seja, a alegada inviabilidade de cobrança do IPTU, na forma progressiva, em razão da ausência de publicação integral do texto da lei municipal. Transcrevo o trecho pertinente do acórdão recorrido:
+    “Trata-se de apelação em ação de procedimento ordinário, em que o contribuinte pretende declaração de inconstitucionalidade da Emenda constitucional 29/00 e nulidade da Lei Municipal n° 5.753/01 que instituiu a progressividade para cobrança do IPTU, relativo ao exercício de 2002, em vista das ilegalidades na sua concepção, ante a não publicação do anexo 1, da Planta Genérica de Valores.
+    É provida a apelação do contribuinte.
+    A ausência de publicação integral da lei, que deu origem a diversos recursos questionando a legalidade da tributação do IPTU progressivo de Guarulhos, agora perde o sentido ante o julgamento de inconstitucionalidade, pelo Órgão Especial deste Egrégio Tribunal, do dispositivo legal que instituiu a questionada progressividade.
+    Com efeito, o Órgão Especial desta Corte, ao julgar o Incidente de Inconstitucionalidade nº 185.741-0/2-00 (Relator Desembargador Marco César, v.u, em 16/12/2009), declarou inconstitucional o art. 7º da Lei Municipal de Guarulhos nº 5.753/2001, justamente o dispositivo que a instituiu, de tal sorte que a ação é procedente.”
+    Ex positis, PROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF, para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal a quo, a fim de que seja examinada a matéria tida por prejudicada.
+    Publique-se.
+    Brasília, 26 de agosto de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
