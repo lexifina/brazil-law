@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, que assentara a possibilidade de remarcação de teste de aptidão física em razão da gravidez de candidata.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, caput, da Constituição.
+    O Supremo Tribunal Federal, após reconhecer a repercussão geral da matéria no RE 630.733-RG, Rel. Min. Gilmar Mendes, assentou o entendimento de que não há direito subjetivo à remarcação de provas em razões de circunstâncias pessoais do candidato, salvo se houver expressa autorização do edital do certame resguardando essa possibilidade. Confira-se a ementa do mencionado julgado:
+    “Recurso extraordinário. 2. Remarcação de teste de aptidão física em concurso público em razão de problema temporário de saúde. 3. Vedação expressa em edital. Constitucionalidade. 4. Violação ao princípio da isonomia. Não ocorrência. Postulado do qual não decorre, de plano, a possibilidade de realização de segunda chamada em etapa de concurso público em virtude de situações pessoais do candidato. Cláusula editalícia que confere eficácia ao princípio da isonomia à luz dos postulados da impessoalidade e da supremacia do interesse público. 5. Inexistência de direito constitucional à remarcação de provas em razão de circunstâncias pessoais dos candidatos. 6. Segurança jurídica. Validade das provas de segunda chamada realizadas até a data da conclusão do julgamento. 7. Recurso extraordinário a que se nega provimento.”
+    No caso, o acórdão recorrido não traz informações sobre o edital do concurso público e a possibilidade de remarcação do teste de aptidão física em face de condições pessoais dos candidatos.
+    Diante do exposto, dou provimento ao agravo para admitir o recurso extraordinário e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, em observância ao disposto no art. 543-B do Código de Processo Civil, a fim de que seja aplicado o entendimento assentado pelo RE 630.733-RG.
+    Publique-se.
+          Brasília, 26 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
