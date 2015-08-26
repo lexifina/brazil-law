@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo nos próprios autos, interposto por Emanoel Jeronimo, contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, nos autos da Apelação Criminal n. 1.0720.13.002186-1/001 (eDOC 1, p. 364-386).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido viola o art. 5º, inciso XLVI ,da Constituição Federal de 1988 (eDOC 1, p. 400-411).
+    O Tribunal a quo não admitiu o recurso por ausência de prequestionamento, ofensa reflexa à Constituição Federal e óbice da Súmula n. 279/STF (eDOC 1, p. 429-430).
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário e refuta os fundamentos da decisão recorrida.
+    É o relatório.
+    Decido.
+    Com efeito, a tese ventilada no extraordinário não foi discutida no acórdão contestado. Incide, neste caso, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI-ED 631.961/ES, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 15.5.2009) (grifei)
+    Ademais, a jurisprudência desta Suprema Corte entende que a dosimetria da pena submete-se a certa discricionariedade judicial. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Aos Tribunais Superiores, no exame da dosimetria das penas em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional, o que não vislumbro no caso em deslinde.
+    É que esta Corte já sedimentou o entendimento no sentido de ser possível a utilização da natureza e quantidade da droga na terceira fase de aplicação da pena (redutora), sendo vedada à aplicação na primeira e na terceira fase, conjuntamente, sob pena de bis in idem (Tema n. 712). Eis a ementa:
+    “Recurso extraordinário com agravo. Repercussão Geral. 2. Tráfico de Drogas. 3. Valoração da natureza e da quantidade da droga apreendida em apenas uma das fases do cálculo da pena. Vedação ao bis in idem. Precedentes. 4. Agravo conhecido e recurso extraordinário provido para determinar ao Juízo da 3ª VECUTE da Comarca de Manaus/AM que proceda a nova dosimetria da pena. 5. Reafirmação de jurisprudência.” (ARE 666.334/AM RG, de minha relatoria, DJe 6.5.2014 )
+    Por fim, ressalto que, na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação ou violação à inafastabilidade jurisdicional.
+    Ante o exposto, conheço do recurso para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, b, do CPC).
+    Publique-se. Int..
+    Brasília, 26 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
