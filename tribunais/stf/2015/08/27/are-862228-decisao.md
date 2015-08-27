@@ -1,0 +1,14 @@
+Decisão:
+    1. Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto com base no art. 102, III, da Constituição Federal contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    EMBARGOS INFRIGENTES. CRIME CONTRA O PATRIMÔNIO. REPARAÇÃO CIVIL DOS DANOS. POSSIBILIDADE.
+    A condenação à reparação civil é efeito da condenação, nos termos do artigo 387, IV, do Código de Processo Penal, não afronta aos princípios do contraditório e ampla defesa, tampouco se exige pedido condenatório expresso.
+    Na peça recursal, sustenta-se, preliminarmente, a existência de repercussão geral da matéria e aponta-se ofensa, pelo juízo recorrido, ao artigo 5º, LIV e LV, da CF/88, ao fundamento de que é “evidente o cerceamento de defesa decorrente da ausência de defesa acerca da fixação da indenização, inclusive porque sequer mencionada na denúncia, nunca tendo sido objeto de discussão pretendida pelo autor da ação penal” (fl.166).
+    2. Tem razão o recorrente. A orientação do Plenário do Supremo Tribunal Federal é no sentido de que, independentemente de ter o art. 387, IV, do CPP natureza material ou não, afasta-se a estipulação de valor mínimo, sem prejuízo da persecução correspondente em procedimento autônomo, quando fora de dúvida a ausência de contraditório a respeito. Nesse sentido:
+    REVISÃO CRIMINAL. ALEGAÇÕES DE OFENSA À LEI PENAL, ILEGITIMIDADE E INSUFICIÊNCIA DE PROVA PARA O DECRETO CONDENATÓRIO, INCONFORMISMO COM APLICAÇÃO DA PENA. FIXAÇÃO DE VALOR MÍNIMO DA REPARAÇÃO DE DANOS DECORRENTES DO DELITO (ART. 387, IV, CÓDIGO DE PROCESSO PENAL). PEDIDO ACOLHIDO APENAS EM PARTE. 1. A ação revisional não é instrumento viável para mera reiteração de teses jurídicas já vencidas na jurisdição ordinária, nem para simples revisão da matéria probatória. A procedência da ação, nas hipóteses indicadas, tem por pressuposto necessário e indispensável, quanto à matéria de direito, a constatação de ofensa “ao texto expresso da lei penal”, ou, quanto à matéria de fato, o desprezo “à evidência dos autos”. 2. A individualização da pena afasta violação ao princípio da isonomia na hipótese de divergência entre a pena aplicada na instância atraída por prerrogativa do foro e a pena aplicada a corréu em instância diversa. 3. Afasta-se a estipulação de valor mínimo prevista no art. 387, IV, do Código de Processo Penal, sem prejuízo da persecução correspondente em procedimento autônomo, quando fora de dúvida a ausência de contraditório a respeito. 4. Revisão criminal parcialmente procedente. (RvC 5437, de minha relatoria, DJe de 18/3/2015).
+    Por estar em desacordo com a jurisprudência do STF, o acórdão recorrido merece reparos.
+    3. Diante do exposto, conheço do agravo para, desde logo, dar provimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 27 de agosto de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
