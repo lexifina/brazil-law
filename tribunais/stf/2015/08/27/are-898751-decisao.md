@@ -1,0 +1,16 @@
+Decisão: Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição Federal, no qual se alega violação dos artigos 5º, XXIV e LXXVIII, e 184 da Constituição da República pelo acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE DESAPROPRIAÇÃO. LEVANTAMENTO DO DEPÓSITO. SUSPENSÃO. FUNDADA DÚVIDA SOBRE O DOMÍNIO. 1. A suspensão da execução de sentença na ação de desapropriação originária está alicerçada em fundamentação segura a evidenciar a prudência e o zelo por parte do magistrado na condução do processo, de forma a evitar eventual prejuízo às partes. 2. Agravo de instrumento desprovido. ( eDOC 2, p. 11)
+    Nas razões recursais, sustenta-se ofensa aos arts. 5º XXIV e LXXVIII; e 184, da Constituição Federal. Em suas razões aduz que, ofende a coisa julgada a suspensão do pagamento da indenização, uma vez que não há disputa real, concreta e plausível acerca do domínio do imóvel.
+    Decido.
+    Inicialmente, convém colacionar o assentado pelo Tribunal de origem:
+    “(...)Sob esse prisma e especialmente considerando a ausência do documento de partilha do imóvel desapropriado - que teria justificado a propriedade de Maria das Neves Garrido e a sua venda a Raimundo Antão de Souza Junior, que, por sua vez, o vendera aos expropriados -, entendi pela permanência da dúvida sobre a titularidade do imóvel, motivo pelo qual indeferi o pedido de levantamento dos títulos da dívida agrária depositados e determinei a suspensão da respectiva execução até que os interessados resolvam a questão prejudicial (titularidade do bem) no juízo competente (CPC, art. 265, IV, a)”. (…) Como se vê, a suspensão da execução está alicerçada em fundamentação segura a evidenciar a prudência e o zelo por parte do magistrado na condução do processo, de forma a evitar eventual prejuízo às partes. Não há necessidade de estipulação de prazo, o processo seguirá seus trâmites normais, depois de resolvida a questão prejudicial relativa à titularidade do bem.” ( eDOC 2, p. 10)
+    Nesse sentido, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria a análise de fatos e provas aplicável à espécie. Logo, contrariedade à Constituição, caso houvesse, seria indireta, o que não enseja a abertura da via do recurso extraordinário.
+    Confiram-se, a propósito, precedentes de ambas as Turmas desta Corte:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DESAPROPRIAÇÃO. INTERESSE SOCIAL. REFORMA AGRÁRIA. JUSTA INDENIZAÇÃO. ALEGADA OFENSA AO ART. 5º, XXIV, DA CONSTITUIÇÃO FEDERAL. INFRACONSTITUCIONAL. REEXAME DE CONJUNTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 279 DO STF. (ARE 683104 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 25.9.2012)
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. INDENIZAÇÃO. COBERTURA VEGETAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.(AI 655070 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 2.6.2014)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (Art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 27 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
