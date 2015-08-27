@@ -1,0 +1,15 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça proferido nos autos do AREsp 491.744/SP, Rel. Min. Rogério Schietti Cruz. Consta dos autos, em síntese, que (a) o paciente foi condenado à pena de 4 anos e 8 meses de reclusão, em regime inicial semiaberto, pela prática do crime de incêndio (art. 250, § 1º, II, “a”, do CP); (b) alegando insuficiência de provas para a condenação, apelou para o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso; (c) inconformada, a defesa interpôs recurso especial, não admitido na origem, e agravo para o Superior Tribunal de Justiça, ocasião em que o Ministro Relator não conheceu do recurso; (d) contra essa decisão, a defesa interpôs agravo regimental, que foi improvido, em acórdão assim ementado:
+    “(...)
+    1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+    2. Na espécie, as razões do agravo apenas rebatem o óbice da Súmula n. 284 do STF e a ausência de cotejo analítico exigido nos moldes regimental e legal, sem nada alegar quanto à aventada necessidade da análise fático-probatória dos autos para o provimento do pedido.
+    3. Agravo regimental não provido”.
+    Neste habeas corpus, o impetrante alega, em suma, que “o nobre magistrado a quo fundamentou o decreto condenatório sem qualquer prova concreta, utilizando-se inclusive de uma suposta testemunha que sequer foi ouvida”. Requer, liminarmente, a concessão da ordem, a fim de que se reconheça a ilegalidade ora questionada.
+    2. O caso é de não conhecimento do pedido. O Superior Tribunal de Justiça não examinou a matéria suscitada nesta impetração, limitando-se a apreciar questões ligadas ao juízo de admissibilidade do recurso. Desse modo, qualquer juízo desta Corte sobre o tema implicaria indevida supressão de instância e contrariedade à repartição constitucional de competências. Nesse sentido: RHC 119455, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 06/11/2013, DJe de 21-11-2013; HC 118323, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 05/11/2013, DJe de 21-11-2013; HC 113136, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 13/08/2013, DJe de 27-08-2013; HC 116233 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 25/06/2013, DJe de 26-08-2013.
+    3. Ademais, qualquer conclusão desta Corte sobre à ausência, ou não, de suporte probatório apto a embasar a sentença condenatória demandaria o revolvimento de fatos e provas, o que é inviável em sede de habeas corpus. Nesse sentido: HC 118265, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, DJe de 18-11-2013; HC 121355, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 26-05-2014.
+    4. Pelo exposto, nego seguimento ao habeas corpus. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 27 de agosto de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
