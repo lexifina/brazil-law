@@ -1,0 +1,41 @@
+DECISÃO
+RECLAMAÇÃO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTE. ALEGAÇÃO DE DESCUMPRIMENTO DA DECISÃO PROFERIDA NO HABEAS CORPUS N. 111.840. ILEGITIMIDADE DE QUEM NAO FOI PARTE NA AÇÃO. RECLAMAÇÃO NÃO CONHECIDA. FIXAÇÃO DO REGIME INICIAL FECHADO COM BASE APENAS NA VEDAÇÃO DO ART. 2º, § 1º, LEI N. 8.072/1990, DECLARADO INCONSTITUCIONAL. CONTRARIEDADE AO DISPOSTO NA SÚMULA VINCULANTE N. 26 DESTE SUPREMO TRIBUNAL. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+Relatório
+    1. Reclamação, com requerimento de medida liminar, ajuizada por Edilson Cunha Gama, Ednaldo Cunha Gama e Tiago Lourenço Correa contra o juízo da Vara Única do Foro Distrital de Bastos da Comarca de Tupã/SP.
+    2. Os Reclamantes alegam que, ao condená-los pela prática dos delitos dos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006, a autoridade reclamada teria fixado o regime inicial fechado com base na gravidade abstrata dos delitos que lhes foram imputados.
+    Ressaltam que
+    “a decretação de regime inicial fechado se deu pela gravidade abstrata do crime de tráfico e associação para o tráfico de drogas; se deu com espeque no § 1º do art. 2º da Lei 8.072/1990; se deu sem análise do art. 59 do CP. Vale ressaltar que mesmo analisando as circunstâncias judicias, estas são inteiramente favoráveis aos reclamantes, afinal, a própria sentença fixou no mínimo legal, sendo certo que são portadores de bons antecedentes, primários e que trabalhavam, conforme documentos a esta petição”.
+    Afirmam que:
+    “A presente reclamação tem cabimento para preservar a autoridade das decisões dessa E. Corte, em relação à fixação inicial em regime fechado, que ao sentenciar, não observou a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/1990 nos autos de Habeas Corpus 111.840 do STF, cabendo, pois, ressaltar que ofendeu princípios implícitos à Constituição Federal, os da proporcionalidade e da razoabilidade, bem como os explícitos, da individualização da pena e da dignidade da pessoa humana”.
+    Este o teor dos pedidos:
+    “A) A Concessão da Liminar pleiteada, para colocação imediata no regime inicial adequado, ou seja, o semiaberto, pois já estão em execução provisória de pena, por ser inconstitucional o disposto no §1º, do art. 2º da Lei 8.072/1990, por ser, ainda, favorável as circunstâncias judiciais (art. 59 do CP) no processo nº 0000885-50.2013.8.26.0069, de competência do Foro Distrital de Bastos, Comarca de Tupã, Estado de São Paulo;
+    B) A confirmação da liminar, a intento de preservar a autoridade desse STF a fim de que se dê a colocação imediata no regime inicial adequado, ou seja, o semiaberto, pois já estão em execução provisória de pena, por ser inconstitucional o disposto no §1º, do art. 2º da Lei 8.072/1990, por ser, ainda, favorável as circunstâncias judiciais (art. 59 do CP) no processo nº 0000885-50.2013.8.26.0069, de competência do Foro Distrital de Bastos, Comarca de Tupã, Estado de São Paulo;
+    C) A concessão de ordem de Habeas Corpus de ofício, caso não admissível, esta reclamação, a fim de que os direitos constitucionais dos peticionários sejam preservados;
+    D) A juntada de todos os documentos, como prova pré-constituída, às alegações;
+    E) A intimação de todos os atos processuais aos advogados LEANDRO TEIXEIRA DA SILVA, OAB/SP: 316.608 e ALEXANDRE MARTINEZ IGNATIUS, OAB/SP: 155.628;
+    F) Seja a autoridade, intimada a prestar informações e o prosseguimento do feito, bem como, a intimação do Ilustre Representante do Ministério Público.
+    G) Prazo de 15 dias para juntada de procuração, nos termos do art. 37 do CPC;
+    H) A isenção de custas processuais visto que os reclamantes são hipossuficientes na acepção econômica do termo, conforme nos termos da lei 1.060/50, por não poder arcar com as despesas processuais, ademais por estarem presos”.
+    3. Em 28.7.2015, o Presidente deste Supremo Tribunal, Ministro Ricardo Lewandowski, proferiu o seguinte despacho:
+    “Analisados os autos, verifico que o caso sob exame não se amolda à hipótese prevista no art. 13, VIII, do Regimento Interno do Supremo Tribunal Federal.
+    Isso posto, requisitem-se informações.
+    Após, encaminhem-se os autos ao Gabinete da Ministra Relatora”.
+    4. As informações requisitadas não foram prestadas e os autos vieram-me conclusos.
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. Os Reclamantes alegam descumprimento, pela autoridade reclamada, do decidido no julgamento do Habeas Corpus n. 111.840, Relator o Ministro Dias Toffoli, pelo Plenário do Supremo Tribunal Federal, em 27.6.2012 (DJe 17.12.2013), no qual não foram partes.
+    Este Supremo Tribunal assentou ser incabível reclamação ajuizada por quem não tenha sido parte no processo, cuja decisão se alegue esteja sendo descumprida. O fundamento desta jurisprudência está em que essas decisões são desprovidas de eficácia vinculante e efeitos erga omnes, pelo que os seus efeitos restringem-se às partes:
+    “A reclamação constitucional não é o instrumento adequado para salvaguarda genérica ou uniformização da jurisprudência da Corte. Portanto, precedentes desprovidos de eficácia vinculante e erga omnes e de cuja relação processual o reclamante e os interessados não fizeram parte, uma vez que os respectivos fundamentos somente se projetam para a relação jurídica circunscrita àquela prestação jurisdicional e não legitimam o ajuizamento de reclamação” (Rcl. 3.138, Relator o Ministro Joaquim Barbosa, Plenário, DJ 23.10.2009).
+    Na mesma linha, são precedentes: Rcl 8.446/RN, de minha relatoria, decisão monocrática, DJ 18.6.2009; Rcl 6.555/SE, de minha relatoria, decisão monocrática, DJ 18.9.2008; Rcl 6.478/SP, de minha relatoria, decisão monocrática, DJ 15.9.2008; Rcl 5.450-AgR/AM, Relator o Ministro Marco Aurélio, Primeira Turma, DJ 1º.2.2008; Rcl 3.847-AgR/RN, Relator o Ministro Ayres Britto, Plenário, DJ 20.10.2006; Rcl 2.398/TO, Relator o Ministro Marco Aurélio, Plenário, DJ 24.2.2006; Rcl 2.693-AgR/RS, Relator o Ministro Marco Aurélio, Plenário, DJ 1º.4.2005; Rcl 2.720-AgR/PR, Relator o Ministro Marco Aurélio, Plenário, DJ 12.11.2004.
+    6. Entretanto, o caso é de concessão de habeas corpus de ofício.
+    7. Ao apreciar o Habeas Corpus n. 111.840, Relator o Ministro Dias Toffoli, em 27.6.2012, este Supremo Tribunal Federal decidiu ser inconstitucional o § 1º do art. 2º da Lei n. 8.072/1990, alterado pela Lei n. 11.464/2007, pela qual se trazia a imposição do regime fechado para o início do cumprimento da pena pela prática de crimes hediondos e equiparados (DJe 17.12.2013).
+    Nesse mesmo sentido, a Súmula Vinculante n. 26 do Supremo Tribunal Federal:
+    “Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico”.
+    8. Na espécie vertente, contrariando esse entendimento, a autoridade reclamada, ao condenar os Reclamantes pela prática dos delitos dos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006, fixou o regime inicial fechado com base apenas em ser o tráfico de entorpecente equiparado a crime hediondo, fazendo incidir o art. 2º, § 1º, da Lei n. 8.072/1990:
+    “O regime inicial de cumprimento será o fechado, dadas as condições em que o delito foi cometido, tratando-se de tráfico de substâncias entorpecentes, o qual é equiparado a crime hediondo, nos moldes do artigo 2º, § 1º, da Lei n. 8.072/90”.
+    9. Pelo exposto, nego seguimento à presente reclamação, mas concedo a ordem de ofício para o exclusivo fim de determinar ao juízo da Vara Única do Foro Distrital de Bastos da Comarca de Tupã/SP que reexamine os requisitos para a fixação do regime prisional, afastado o óbice do art. 2º, § 1º, da Lei n. 8.072/1990.
+    Oficie-se, com urgência, ao juízo da Vara Única do Foro Distrital de Bastos da Comarca de Tupã/SP, para tomar ciência desta decisão.
+    Remeta-se, com o ofício, a ser enviado, com urgência e por fac-símile, cópia da presente decisão.
+    Publique-se.
+    Brasília, 27 de agosto de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
