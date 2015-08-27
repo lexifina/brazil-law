@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AGRAVO LEGAL. (ART. 557, § 1º- A, DO CPC). AGRAVO DE INSTRUMENTO A QUE SE DEU PARCIAL PROVIMENTO. DEPÓSITOS JUDICIAIS. PAGAMENTO À VISTA. DESCONTOS PREVISTOS NO ART. 1º, § 3º, DA LEI Nº 11.941/09. APROVEITAMENTO. TAXA SELIC. IMPOSSIBILIDADE.
+    1. Os depósitos judiciais realizados com a incidência de multa e juros de mora são beneficiados com as reduções previstas no art. 1°, §3°, da Lei n° 11.941/09.
+    2. Por outro lado, os benefícios de redução dos juros moratórios previstos na Lei nº 11.941/2009 não alcançam a taxa SELIC utilizada para remunerar o depósito judicial a partir da data de sua realização até o levantamento/conversão em renda.
+    3. Manutenção da deliberação monocrática do Relator que negou seguimento ao agravo de instrumento interposto, pois proferida nos exatos termos do artigo 557, caput, do CPC.
+    4. Agravos legais desprovidos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, e XXXIV, XXXV, LIV e LV; 93, IX; e 150, II, todos da Carta.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Ministro Gilmar Mendes).
+    Quanto às demais violações, para dissentir das conclusões adotadas, seria necessário tão somente o exame da legislação infraconstitucional pertinente à hipótese, providência vedada nesta via processual. No mesmo sentido, confira-se:
+    “DIREITO TRIBUTÁRIO. DEPÓSITO JUDICIAL. REMUNERAÇÃO PELA TAXA SELIC. RESGATE. LEI 11.941/2009. DEBATE DE ÂMBITO INFRACONSTITUCIONAL . CABIMENTO DE RECURSOS DE COMPETÊNCIA DE OUTROS TRIBUNAIS. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RE 598.365-RG. MATÉRIA DECIDIDA PELA CORTE DE ORIGEM COM FUNDAMENTO EM PRECEDENTE NÃO TRANSITADO EM JULGADO. AUSÊNCIA DE AFRONTA DIRETA AOS PRINCÍPIOS DA PROTEÇÃO À COISA JULGADA E À SEGURANÇA JURÍDICA. ACÓRDÃO RECORRIDO PUBLICADO EM 22.6.2012. A discussão travada nos autos não alcança status constitucional, porquanto solvida à luz da interpretação da legislação infraconstitucional aplicável à espécie (Lei 11.941/09 e Código Tributário Nacional) . O Plenário Virtual desta Corte manifestou-se pela inexistência de repercussão geral da questão atinente ao cabimento de recursos de competência de outros tribunais no RE 598.365-RG. O exame de eventual afronta aos princípios da proteção à coisa julgada e à segurança jurídica demandaria o exame da legislação processual aplicável à espécie, o que torna oblíqua e reflexa eventual ofensa, a inviabilizar o conhecimento do recurso extraordinário. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento” (ARE 723.687-ED/RS, Rel.ª Min.ª Rosa Weber)
+    Por fim, o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia relativa à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE nº 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 27 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
