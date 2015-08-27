@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Câmara Cível I – Mutirão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+    “APELAÇÃO CÍVEL – EXTINÇÃO DE CONDOMÍNIO - ACORDO DOS CONDÔMINOS EM AUDIÊNCIA DE CONCILIAÇÃO - RECORRENTE QUE NÃO REALIZA O DEPÓSITO NO PRAZO ESTIPULADO APÓS SER DEVIDAMENTE INTIMADA - ADOÇÃO DE POSTURA INERTE - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+    1. Em se tratando de alienação de parte ideal de bem em condomínio, necessária a intimação os demais condôminos para o exercício do direito de preferência, nos termos do art.1118 e 1119, do CPC. 2. Resta evidente nos autos que após ser devidamente intimada, através de seu advogado constituído nos autos, a apelante deixou transcorrer in albis o prazo para exercer seu direito de preferência, adotando postura inerte no caso. Portanto, totalmente descabida a pretensão recursal, uma vez que restou demonstrado nos autos que a recorrente foi devidamente intimada tanto da avaliação dos bens, como também da homologação do juízo, deixando, no entanto, de exercer seu direito de preferência”.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, incisos XXII e XXIII, e 170, incisos II e III, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 5º, inciso XXIII, e 170, inciso III, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o acórdão recorrido reconheceu a regularidade das intimações da recorrente amparado nos seguintes fundamentos:
+    “Nas razões de recurso, a recorrente alega, em suma, que a sentença deve ser reformada, haja vista que que não foi intimada pessoalmente para exercer seu direito de preferência.
+    Sem razão a súplica recursal.
+    Como sabido, em se tratando de alienação de parte ideal de bem em condomínio, necessária a intimação os demais condôminos para o exercício do direito de preferência, nos termos do art. 1118 e 1119, do CPC.
+    (…)
+    Pois bem. Após realizada a avaliação dos bens (f. 133-135), e intimadas as partes sobre os valores encontrados, o M.M Juiz de primeiro grau homologou dita avaliação, sendo as partes novamente intimadas (f.144-145).
+    Resta evidente nos autos que após ser devidamente intimada, através de seu advogado constituído nos autos, a apelante deixou transcorrer in albis o prazo para exercer seu direito de preferência, adotando postura inerte no caso.
+    Portanto, totalmente descabida a pretensão recursal, uma vez que restou demonstrado nos autos que a recorrente foi devidamente intimada tanto da avaliação dos bens, como também da homologação do juízo, deixando, no entanto, de exercer seu direito de preferência”.
+    Nesse caso, para acolher a pretensão recursal e ultrapassar o entendimento firmado pelo Tribunal de origem seria necessário reexaminar as provas dos autos e a legislação infraconstitucional pertinente (Código de Processo Civil), o que se mostra incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTIMAÇÃO. VALIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – Para dissentir da conclusão a que chegou o acórdão recorrido quanto à validade da intimação, necessário seria o reexame de normas infraconstitucionais, bem como a análise do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF . Precedentes. II – Agravo regimental improvido” (AI nº 844.440/DF-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 27/9/11).
+    “AGRAVO REGIMENTAL. PROCESSUAL CIVIL. VALIDADE DE INTIMAÇÃO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade à Constituição. Ofensa reflexa ou indireta. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido seria necessário reexaminar as provas dos autos, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do STF. Agravo regimental a que se nega provimento” (AI nº 712.349/CE-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 30/3/11).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PRESCRIÇÃO INTERCORRENTE. VALIDADE DE INTIMAÇÃO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 695.982/SP-AgR, Primeira Turma, Relator a Ministra Cármen Lúcia, DJe de 4/6/10).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 27 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
