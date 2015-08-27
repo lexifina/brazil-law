@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Deijair de Souza Silva apontando como autoridade coatora o Ministro Ericson Maranho, do Superior Tribunal de Justiça, que negou seguimento ao RHC nº 60.587/CE e a Sexta Turma daquela Corte, que não conheceu do HC nº 318.368/CE.
+    Os impetrantes sustentam a presença de constrangimento ilegal, pois a preventiva do paciente padece de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos autorizadores da prisão, previstos no art. 312 do Código de Processo Penal.
+    Defendem, ainda, a aplicabilidade das medidas cautelares diversas da prisão (CPP, art. 319).
+    Requerem, liminarmente, a concessão da ordem para que a prisão preventiva do paciente seja revogada ou substituída por medidas cautelares diversas.
+    Examinados os autos, decido.
+    No que concerne o RHC nº 60.587/CE, anoto que o Relator, Ministro Ericson Maranho, negou seguimento ao recurso por se tratar reiteração de feito anteriormente decidido naquela Corte de Justiça.
+    Esse entendimento, além de não demonstrar ilegalidade flagrante, abuso de poder ou teratologia, não afrontou a jurisprudência do Supremo Tribunal Federal, que, em casos semelhantes, assentou que “[n]ão se conhece de habeas corpus em que se reitera a pretensão veiculada em habeas corpus anteriormente impetrado” (HC nº 112.645/TO, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 8/6/12).
+    Perfilhando esse entendimento: RHC nº 88.403/PA, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 27/10/06; HC nº 127.177/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 10/6/15; HC nº 126.835/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 18/8/15, entre outros.
+    Ademais, vale registrar que a impetração volta-se contra decisão singular proferida pelo Ministro Relator no RHC nº 60.587/CE.
+    Logo, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Em relação ao HC nº 318.368/CE, ressalto que a Sexta Turma dele não conheceu em julgado assim ementado:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA MANTIDA PELA SENTENÇA CONDENATÓRIA. MOTIVAÇÃO PER RELATIONEM. CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE CONCRETA DA PACIENTE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+    – O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+    – Esta Corte Superior tem entendimento pacífico de que a custódia cautelar possui natureza excepcional, somente sendo possível sua imposição ou manutenção quando demonstrado, em decisão devidamente motivada, o preenchimento dos pressupostos previstos no art. 312 do Código de Processo Penal - CPP.
+    – Na hipótese dos autos estão presentes elementos concretos a justificar a imposição da segregação antecipada, uma vez que as instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a periculosidade concreta do paciente, tendo o Magistrado de primeiro grau destacado a qualidade e a considerável quantidade de droga apreendida - 101,7 quilogramas de cocaína -, bem como a apreensão de armas, grande soma de dinheiro, máquinas de contagem” (fl. 1 do anexo 10).
+    Esse julgado não evidencia ilegalidade flagrante, abuso de poder ou teratologia que justifique a concessão da ordem. Com efeito, a decisão emanada daquela aquela Corte encontra-se suficientemente motivada, restando justificado o convencimento formado.
+    Ademais, destaco não haver ato configurador de flagrante constrangimento ilegal praticado contra o paciente, advindo do decreto prisional em questão, que se encontra devidamente motivado em elementos concretos, aptos a justificar a necessidade da medida constritiva.
+    Conforme destacado pelo Ministro Ericson Maranho em seu voto,
+    “[estão] presentes elementos concretos a justificar a imposição da segregação antecipada, uma vez que as instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a periculosidade concreta do paciente, tendo o Magistrado de primeiro grau destacado a qualidade e a considerável quantidade de droga apreendida - 101,7 quilogramas de cocaína -, bem como a apreensão de armas, grande soma de dinheiro, máquinas de contagem” (fls. 7/8 do anexo 10).
+    Está Suprema Corte pacificou entendimento no sentido de “ser idônea a custódia cautelar quando das circunstâncias concretas do delito, notadamente do modus operandi e da quantidade de droga apreendida, conclui-se pela periculosidade do acusado” HC nº 120.791/PR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 29/9/14.
+    Perfilhando esse entendimento: HC nº 126.837/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 10/4/15; HC nº 127.413/RJ, Segunda Turma, de minha relatoria, DJe de 1º/7/15; e HC nº 118.228/MT, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 19/11/13.
+    Ante o exposto, nos termos dos arts. 38 da Lei nº 8.038/90 e 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 27 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
