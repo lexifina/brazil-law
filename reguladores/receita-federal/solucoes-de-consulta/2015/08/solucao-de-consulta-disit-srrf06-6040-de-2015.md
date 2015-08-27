@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF06 nº 6040, de 25 de agosto de 2015
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: BASE DE CÁLCULO. HORAS EXTRAS. INCIDÊNCIA. A remuneração de horas extras integra a base de cálculo da contribuição social previdenciária. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 103, DE 7/4/2014. DISPOSITIVOS LEGAIS: Constituição Federal/1988, art. 7º, inciso XVI; Lei nº 8.212/1991, arts. 20, 22, inciso I e § 2º, e 28, inciso I e § 9º; Decreto nº 3.408/1999 - Regulamento da Previdência Social (RPS), art. 214, § 9º; IN RFB nº 971/2009, art. 58; IN RFB nº 1.396/2013, art. 22.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: BASE DE CÁLCULO. HORAS EXTRAS. INCIDÊNCIA. A remuneração de horas extras integra a base de cálculo da contribuição social previdenciária. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 103, DE 7/4/2014.
+DISPOSITIVOS LEGAIS: Constituição Federal/1988, art. 7º, inciso XVI; Lei nº 8.212/1991, arts. 20, 22, inciso I e § 2º, e 28, inciso I e § 9º; Decreto nº 3.408/1999 - Regulamento da Previdência Social (RPS), art. 214, § 9º; IN RFB nº 971/2009, art. 58; IN RFB nº 1.396/2013, art. 22.
+MÁRIO HERMES SOARES CAMPOS Chefe
