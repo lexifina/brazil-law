@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “REVISÃO CRIMINAL. TRÁFICO DE DROGAS. ANULAÇÃO DO PROCESSO. AUSÊNCIA DO MINISTÉRIO PÚBLICO EM AUDIÊNCIA. INEXISTÊNCIA DE PREJUÍZO À DEFESA. NULIDADE RELATIVA. PRECLUSÃO. AFRONTA AO SISTEMA ACUSATÓRIO. PERGUNTAS FORMULADAS PELO MAGISTRADO. POSSIBILIDADE. ART. 212, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO PENAL. PEDIDO INDEFERIDO.
+    O Superior Tribunal de Justiça pacificou o entendimento de que "a simples ausência do órgão acusatório na audiência de oitiva de testemunhas não enseja a nulidade do ato, impondo-se à defesa a alegação oportuna do defeito processual, bem como a comprovação do prejuízo suportado pelo réu" (STJ, Ministro Jorge Mussi, j. em 20/5/2014).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, LIV, e 129, I, da Constituição. Aduz que, “diante da ausência do promotor de justiça, o Magistrado assumiu o papel de acusação e foi o único a produzir provas pela acusação”.
+    O recurso é inadmissível, tendo em vista que a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Nessa linha, vejam-se o ARE 718.463, Relª. Minª. Cármen Lúcia e o AI 839.837-AgR, Rel. Min. Ricardo Lewandowski.
+    Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que a demonstração de prejuízo, nos termos “do art. 563 do CPP, é essencial à alegação de nulidade, seja ela relativa ou absoluta, eis que […] o âmbito normativo do dogma fundamental da disciplina das nulidades - pas de nullité sans grief - compreende as nulidades absolutas” (HC 85.155/SP, Rel.ª Min.ª Ellen Gracie).
+    No caso, o voto condutor do acórdão recorrido afirmou que, “ao analisar os termos de audiência e assentada, constata-se que o Juiz, tendo em vista a ausência do órgão do Ministério Público, passou a palavra à defesa, para a formulação direta de perguntas aos testigos, e, na sequência, formulou os questionamentos que julgou necessários (fls. 46/50). Nota-se, portanto, ter sido observada a forma trazida pela Lei n. 11.690/08. De mais a mais, eventual mácula também ensejaria nulidade relativa, sujeita à preclusão e comprovação de prejuízo, não demonstrado na espécie.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de agosto de 2015.
+Ministro Luís Roberto Barroso
+Relator
