@@ -1,0 +1,15 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 – RTJ 131/1391 – RTJ 144/300 – RTJ 153/989), incidem as Súmulas 282 e 356 desta Corte (RTJ 159/977).
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    Cumpre ressaltar, ainda, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Impõe-se registrar, finalmente, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 787.229/SP, Rel. Min. GILMAR MENDES – ARE 879.241/SP, Rel. Min. CÁRMEN LÚCIA – RE 829.607-AgR/SE, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “DIREITO ADMINISTRATIVO. SERVIDOR MILITAR. AÇÃO DE RESSARCIMENTO. PRESCRIÇÃO RECONHECIDA NA SENTENÇA COM ESPEQUE NO DECRETO 20.910/32. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO TARDIA DE AFRONTA AO ART. 37, § 5º, DA LEI MAIOR. APELAÇÃO NÃO CONHECIDA. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE E AUTÔNOMO. APLICAÇÃO DA SÚMULA 283/STF. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 10.5.2010.
+    Tendo a Corte Regional reconhecido a prescrição com fundamento no Decreto 20.910/32, o exame da alegada ofensa constitucional dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal.
+    A jurisprudência desta Corte não admite recurso extraordinário contra acórdão que contém fundamento infraconstitucional suficiente para manutenção do julgado. Aplicação da Súmula 283/STF: ‘é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles’.
+    Agravo regimental conhecido e não provido.”
+    (AI 850.212-AgR/RS, Rel. Min. ROSA WEBER)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 28 de agosto de 2015.
+Ministro CELSO DE MELLO
+Relator
