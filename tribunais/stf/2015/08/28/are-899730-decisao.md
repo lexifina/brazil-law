@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. ESTABELECIMENTO DE ENSINO. GRADUAÇÃO. CURSO DE EDUCAÇÃO FÍSICA. INDENIZAÇÃO POR DANOS MORAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279/STF. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com o objetivo de reformar decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que manteve a sentença por seus próprios fundamentos, a qual assentou (fl. 236), verbis:
+    “No mérito, verifica-se haver claro descumprimento do dever de informar com consequente infringência às normas impositivas de ordem pública e interesse social existentes no Código de Proteção e Defesa do Consumidor, na exata medida em que o Réu não comprovou ter prestado informação clara e precisa sobre os limites de abrangência do curso de licenciatura em Educação Física, acarretando a impossibilidade do Autor atuar na área fitness, e, portanto, frustrando-se legítima expectativa.
+    Dano moral moderadamente arbitrado, em atenção aos critérios da lógica razoável e da proporcionalidade. O dano moral, neste caso, decorre da conduta ilícita praticada pela parte Ré em lesão ao patrimônio imaterial da parte autora.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, II, X, XIII, XXXII, 22, XVI, XXIV, 93, IX, 206, VII, 207 e 209, I, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por, entender que não houve qualquer violação direta e frontal à Constituição, bem como que incide o óbice da Súmula nº 279/STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, § 3º, da CF).
+    O dano moral, quando aferido pelas instâncias ordinárias, não pode ser revisto pela E. Suprema Corte, em face da incidência da Súmula nº 279/STF, que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe a discussão eminentemente de direito, face ao óbice erigido pela Súmula nº 279/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR E PROCESSUAL CIVIL. CONCLUSÃO EM CURSO DE GRADUAÇÃO. OBRIGAÇÃO DE FAZER E INDENIZAÇÃO. 1. Inexistência de contrariedade ao art. 93, inc. XI, da Constituição da República. 2. Análise de norma infraconstitucional. Ofensa constitucional direta. 3 Reexame de provas: Súmula n. 279 do Supremo Tribunal Federal. 4. Agravo regimental ao qual se nega provimento.” (ARE 715.508–AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 20/11/2012).
+    Por fim, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido, AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de agosto de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
