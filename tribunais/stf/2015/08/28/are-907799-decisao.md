@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E PROCESSUAL CIVIL. POSSIBILIDADE DE EXECUÇÃO INDIVIDUAL EM SENTENÇA COLETIVA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Terceira Câmara Cível do Tribunal de Justiça do Paraná decidiu:
+    “Apelações Cíveis e Reexame Necessário. Servidor Público Estadual. Apelo n. 1. Genésia Capeta de Souza. Cálculo realizado de forma prospetiva. Impossibilidade. Sentença escorreita. Redistribuição da sucumbência em seu favor. Não acolhimento. Apelo n. 2. Estado do Paraná. Fracionamento da Execução Coletiva. Possibilidade. Inexistência de repartição ou quebra do valor da execução para fins de enquadramento de parcela do valor total em RPV. Art. 100, § 8°, da CR. Ilegitimidade ativa. Não acolhimento. Exceção de execução. Adicional de insalubridade que foi absorvido pela Gratificação de Atividade de Saúde — GAS. Acolhimento. Possibilidade de discussão na via restrita. Art. 741, inciso V, do CPC. Pagamento em duplicidade. Julho a novembro/2013. Exclusão. Redistribuição da sucumbência.
+    Recurso de apelação n. 1 não provido.
+    Recurso de apelação n. 2 parcialmente provido.
+    1. Compulsando os autos, vislumbra-se a ocorrência de realização de cálculos de forma prospectiva, com aplicação de juros e correção monetária incluindo os índices do mês de realização do cálculo, pelo que, escorreita a r. sentença ao determinar a exclusão dos valores calculados em excesso.
+    2. O Supremo Tribunal Federal, ao enfrentar o tema, destacou a impossibilidade de fracionamento de ações coletivas que visem fracionar o precatório de cada crédito, não sendo o objeto da presente demanda, a qual apenas busca a execução de crédito individual, decorrente de decisão judicial emanada em ação coletiva.
+    3. Art. 742, Na execução contra a Fazenda Pública, os embargos só poderão versar sobre; (...) V - excesso de execução;
+    4. O excesso de execução é evidente, tendo em vista a ocorrência da absorção da gratificação de insalubridade/periculosidade pela Gratificação da Atividade de Saúde - GAS, quando da restruturação dos cardos públicos de provimento efetivo, realizado com a edição da Lei Estadual n. 13.1566/2002.
+    5. Verificado o equívoco na elaboração dos cálculos, apresentados em duplicidade relativamente aos meses de julho a novembro/2003, devem os mesmos ser afastados da cobrança.
+    6. Com o parcial acolhimento do recurso do Estado do Paraná, é de se redistribuir o ônus de sucumbência, devendo a parte embargado arcar cem 60% (sessenta por cento) do referido ônus, e a parte embargante com os 40% (quarenta por cento) restante” (fls. 301-302).
+    3. Na decisão agravada se adotou como fundamento para a inadmissibilidade do recurso extraordinário a harmonia do julgado recorrido com a jurisprudência deste Supremo Tribunal.
+    4. O Agravante argumenta que
+     “toda a questão aqui consiste em determinar se o art. 100, § 8º, da Constituição Federal veda ou não fracionamento da execução decorrente de ação coletiva.
+    Assim, diferentemente do que afirma a decisão recorrida, a jurisprudência do STF não é no mesmo sentido do acórdão impugnado por extraordinário” (fls. 356-358).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 100, § 8º, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    Este Supremo Tribunal assentou a possibilidade de execução individual de sentença proferida em ação coletiva:
+    “RECURSO EXTRAORDINÁRIO – RECURSO DE AGRAVO INTERPOSTO PELO DISTRITO FEDERAL – TÍTULO JUDICIAL CONSUBSTANCIADOR DE SENTENÇA COLETIVA – EFETIVAÇÃO EXECUTÓRIA INDIVIDUAL – POSSIBILIDADE JURÍDICA – RECURSO DE AGRAVO INTERPOSTO PELO SINDIRETA – APLICABILIDADE IMEDIATA DO ARTIGO 1º-F, DA LEI Nº 9.494/97, NA REDAÇÃO DADA PELA MP Nº 2.180/35 – MATÉRIA QUE FOI OBJETO DE TRANSAÇÃO ENTRE AS PARTES – CONCORDÂNCIA DO ENTE PÚBLICO – RECURSO DE AGRAVO DO DISTRITO FEDERAL IMPROVIDO E RECURSO DE AGRAVO DO SINDICATO PROVIDO” (RE 884.145-AgR-segundo, Relator o Ministro Celso de Mello, Segunda Turma, DJe 15.6.2015).
+    “REPERCUSSÃO GERAL. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. VEDAÇÃO CONSTITUCIONAL DE FRACIONAMENTO DE EXECUÇÃO PARA FRAUDAR O PAGAMENTO POR PRECATÓRIO. ART. 100, § 8º (ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA REPÚBLICA. LITISCONSÓRCIO FACULTATIVO SIMPLES. CONSIDERAÇÃO INDIVIDUAL DOS LITISCONSORTES: CONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO. 1. Ausência de prequestionamento quanto à alegação de inconstitucionalidade da Resolução n. 199/2005 do Tribunal de Justiça de São Paulo e quanto ao fracionamento dos honorários advocatícios. Incidência das Súmulas 282 e 356. 2. A execução ou o pagamento singularizado dos valores devidos a partes integrantes de litisconsórcio facultativo simples não contrariam o § 8º (originariamente § 4º) do art. 100 da Constituição da República. A forma de pagamento, por requisição de pequeno valor ou precatório, dependerá dos valores isoladamente considerados. 3. Recurso extraordinário ao qual se nega provimento” (RE 568.645/SP, de minha relatoria, Plenário, DJe 13.11.2014).
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVOS REGIMENTAIS NO RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97, NA REDAÇÃO DA MP 2.180-35/01. POSTERIOR ACORDO FIRMADO ENTRE AS PARTES NO MESMO SENTIDO DO QUE DETERMINOU O TRIBUNAL DE ORIGEM. RECURSO EXTRAORDINÁRIO PREJUDICADO. FRACIONAMENTO DE EXECUÇÃO. AÇÃO COLETIVA. LEGITIMIDADE. AUSÊNCIA DE OFENSA AO ART. 100, § 4º, DA CF/88 (REDAÇÃO ANTERIOR À EC 62/09). PRECEDENTES DA SEGUNDA TURMA EM CASOS IDÊNTICOS. ENTENDIMENTO ASSENTADO NO RE 568.645, REL. MIN. CÁRMEN LÚCIA, TRIBUNAL PLENO, TEMA 148. AGRAVO REGIMENTAL DO SINDIRETA/DF PROVIDO. AGRAVO REGIMENTAL DO DISTRITO FEDERAL DESPROVIDO” (RE 860965-AgR-segundo, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 1.6.2015).
+    O julgado recorrido harmoniza-se com essa orientação jurisprudencial.
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de agosto de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
