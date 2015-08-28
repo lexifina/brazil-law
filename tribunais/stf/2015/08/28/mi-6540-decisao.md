@@ -1,0 +1,26 @@
+Decisão: Trata-se de mandado de injunção impetrado por MANUEL JOSÉ DO NASCIMENTO, no qual se alega omissão legislativa referente à lei complementar prevista no art. 40, §1º, inciso II, da Constituição Federal.
+    Em síntese, argumenta-se que, com o advento da Emenda Constitucional nº 88, de 2015, o impetrante, servidor público efetivo do Estado do Rio de Janeiro, tem direito a aposentar-se aos 75 (setenta e cinco) anos por tempo de contribuição.
+    Documento juntados aos autos (eDOC 4-9).
+    É o breve relatório.
+    Decido.
+    O mandado de injunção deve ter por objeto o não cumprimento de dever constitucional de legislar que, de alguma forma, afeta direitos constitucionalmente assegurados (falta de norma regulamentadora que torne inviável o exercício de direitos e liberdades constitucionais e das prerrogativas inerentes à soberania e à cidadania).
+    Assim, são requisitos do mandado de injunção a existência de dever constitucional de legislar e o reconhecimento de direito subjetivo à legislação.
+    Com a edição da Emenda Constitucional nº 88, de 7 de maio de 2015, o art. 40, §1º, inciso II, da Constituição Federal passou a ter a seguinte redação:
+    “II - compulsoriamente, com proventos proporcionais ao tempo de contribuição, aos 70 (setenta) anos de idade, ou aos 75 (setenta e cinco) anos de idade, na forma de lei complementar”.
+    Logo, a nova redação do dispositivo constitucional não confere o direito subjetivo pleiteado, mas, tão somente, mantém a regra de aposentadoria aos 70 anos, com a possibilidade de ocorrer aos 75 anos, conforme faculdade do legislador.
+    Ressalte-se ainda que esta Corte, quando do julgamento da ADI 5316 MC, Rel. Min. LUIZ FUX, Tribunal Pleno, DJe 6.8.2015, expressamente assentou que o direito à aposentadoria compulsória aos 75 anos depende da edição de lei complementar. Leia-se trecho do voto do julgado:
+    “Tal papel é exatamente o de fixar as condições para aposentadoria aos 75 anos. Isso porque, pela redação atual do artigo 40, §1º, II, da CRFB, a aposentadoria do servidor público ocorrerá, em regra, aos 70 anos, embora seja possível a extensão deste limite para os 75 anos segundo critérios a serem fixados em lei complementar.”
+    Por conseguinte, uma vez que a edição da lei complementar, no caso de servidor público, constitui faculdade do legislador, não há direito constitucional subjetivo, cujo exercício esteja sendo obstando por mora legislativa.
+    Ainda que assim não fosse, não haveria configuração de mora legislativa, uma vez que a publicação da EC nº 88 deu-se em 8 de maio de 2015, não havendo transcorrido prazo desarrazoado para edição da norma. Nesse sentido:
+    “(...) II. Mora legislativa: exigência e caracterização: critério de razoabilidade. A mora - que é pressuposto da declaração de inconstitucionalidade da omissão legislativa -, é de ser reconhecida, em cada caso, quando, dado o tempo corrido da promulgação da norma constitucional invocada e o relevo da matéria, se deva considerar superado o prazo razoável para a edição do ato legislativo necessário à efetividade da Lei Fundamental; vencido o tempo razoável, nem a inexistência de prazo constitucional para o adimplemento do dever de legislar, nem a pendência de projetos de lei tendentes a cumpri-lo podem descaracterizar a evidência da inconstitucionalidade da persistente omissão de legislar. (...)” (MI 361/RJ, Red. p/ acórdão Min. SEPÚLVEDA PERTENCE, RTJ 158/375)
+    Em caso semelhante ao dos autos, referente à edição da lei complementar prevista no art. 40, §1º, inciso II, da Constituição Federal, na redação dada pela EC nº 88/2015, o Min. Celso de Mello proferiu a seguinte decisão:
+    “(...) A evidente ausência de mora legislativa decorre, na espécie, do fato de que a norma inscrita no referido art. 40, § 1º, inciso II, da Carta Política tornou-se vinculante para o Estado (e para esta Suprema Corte) somente a partir de 08 de maio de 2015, data em que publicada a EC nº 88/2015, decorridos, portanto, tão somente 53 dias até o presente momento (01/07/2015).
+     O mero cotejo entre as datas mencionadas basta para evidenciar que não se tem como imputar ao Supremo Tribunal Federal, em sua condição de titular exclusivo do poder de instauração, na matéria, do respectivo processo legislativo, a situação anômala (de todo inocorrente no caso) de ‘inertia agendi’.
+     Vê-se, por isso mesmo, que não se apresenta configurada qualquer situação de omissão abusiva ou de superação excessiva de tempo razoável, por parte do Supremo Tribunal Federal, no que concerne à adoção de medidas destinadas a viabilizar, instrumentalmente, a plena incidência do que prescreve o art. 40, § 1º, n. II, da Constituição da República.
+     Sendo assim, e tendo em consideração as razões expostas, não conheço da presente ação de mandado de injunção, por não se achar (ainda) caracterizado o estado de mora legislativa do Supremo Tribunal Federal, restando prejudicado, em consequência, o exame do pedido de medida liminar” (MI 6531 MC, Rel. Min. CELSO DE MELLO, DJe 3.8.2015) .
+    Ante o exposto, nego seguimento ao presente mandado de injunção (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de agosto de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
