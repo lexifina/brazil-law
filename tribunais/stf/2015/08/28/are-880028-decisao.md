@@ -1,0 +1,24 @@
+Decisão:
+    Trata-se de dois agravos que têm por objeto decisões que negaram seguimento aos recursos extraordinários interpostos contra acórdão da 4ª Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “TRIBUTÁRIO. CORREÇÃO MONETÁRIA SOBRE O EMPRÉSTIMO COMPULSÓRIO. LEI Nº 4.156/62. RESPONSABILIDADE SOLIDÁRIA ENTRE A ELETROBRÁS E UNIÃO FEDERAL (ART. 3º, §4º). PRESCRIÇÃO PARCIAL. EXPURGOS INFLACIONÁRIOS. PRECEDENTE DO STJ NO RESP Nº 1.028.592-RS, JULGADO SOB O REGIME DE RECURSOS REPETITIVOS (ART. 543-C, CAPUT, § 1º E § 7º, II, DO CPC).
+    - Reexame do acórdão proferido por esta Quarta Turma nos autos, a fim de que seja ajustado ao julgamento proferido pelo STJ no Resp nº 1.028.592-RS, Rel. Eliana Calmon, j. em 12/8/2009, nos termos do art. 543-C e segs. do CPC.
+    - Postulando a autora condenação das rés ao pagamento de diferenças de correção monetária e juros quanto a parcelas já resgatadas, referentes ao empréstimo compulsório para a ELETROBRÁS, é de notar o lapso prescricional somente atinge as restituições efetuadas nos cinco anos anteriores ao ingresso do pedido.
+    - Nos termos do art. 3º, §4º da lei nº 4.156/62, a UNIÃO FEDERAL é responsável solidariamente com ELETROBRÁS pela devolução dos valores devidos a titulo de correção monetária do empréstimo compulsório, ressaindo manifesta a legitimidade ad causam de ambas para figurar na lide.
+    - Por força da vedação ao enriquecimento sem causa, a correção monetária incidente quando do resgate do mútuo forçado é de ser contada de cada pagamento, devendo sobre o montante devidamente atualizado incidir os juros anuais de 6%. Precedentes do STJ.
+    - Não cabe a incidência de correção monetária em relação ao período compreendido entre 31/12 do ano anterior à conversão e a data da assembléia de homologação" (item 3.3, ementa RESP 1.028.592-RS), reformando-se, no ponto, o acórdão proferido por esta egrégia Quarta Turma.
+    - Cumpre seja exercido o juízo de retratação por esta Quarta Turma com relação a esta matéria, de molde a ajustar-se à jurisprudência do Superior Tribunal de Justiça no Resp nº 1.028.592-RS, nos termos do art. 543-C, §7º, II, do Código de Processo Civil, relativamente às questões apreciadas neste julgamento.
+    - Apelações e remessa oficial parcialmente providas.”
+    O recurso extraordinário interposto pela Eletrobrás tem fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II e 97 da Carta, bem como à Súmula Vinculante nº 10.
+    O segundo recurso extraordinário é da União, que busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 93, IX, e 97 da Carta.
+    As pretensões recursais não merecem prosperar.
+    Quanto à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nessa linha, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes.
+    Quanto à suposta violação à cláusula de reserva de plenário, a jurisprudência deste Tribunal é firme no sentido de que não se aplica a restrição do art. 97 da Carta à interpretação de leis editadas sob a égide de constituições anteriores. Trata-se, na hipótese, de um juízo de recepção do texto normativo, circunstância que não se confunde com efetivo controle de constitucionalidade. Confira-se a ementa do AI 669.872-AgR, julgado sob a relatoria do Ministro Luiz Fux:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. EMPRÉSTIMO COMPULSÓRIO. LEI 4.156/62. MATÉRIA INFRACONSTITUCIONAL. ALEGAÇÃO DE VIOLAÇÃO DA CLÁUSULA DE RESERVA DE PLENÁRIO (ARTIGO 97 DA CONSTITUIÇÃO FEDERAL). INOCORRÊNCIA. NORMA ERIGIDA SOB A ÉGIDE DA CONSTITUIÇÃO ANTERIOR. RECEPÇÃO DA LEI POR ÓRGÃO FRACIONÁRIO. POSSIBILIDADE.
+    1. A cláusula de reserva de plenário ( full bench ) é aplicável somente aos textos normativos erigidos sob a égide da atual Constituição.
+    2. As normas editadas quando da vigência das Constituições anteriores se submetem somente ao juízo de recepção ou não pela atual ordem constitucional, o que pode ser realizado por órgão fracionário dos Tribunais sem que se tenha por violado o art.97 da CF . Precedentes: AI-AgR 582.280, Segunda Turma, Rel. Min. Celso de Mello, DJ 6.11.2006 e AI 831.166-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, Dje de 29.4.2011.
+    3. Agravo regimental desprovido”. (Negrito acrescentado)
+    Diante do exposto, com base no art. 544, § 4º, II, b , do CPC e no art. 21, § 1º, do RI/STF, conheço dos agravos para negar seguimento aos recursos extraordinários.
+    Publique-se.
+          Brasília, 28 de agosto 2015.
+Ministro Luís Roberto Barroso
+Relator
