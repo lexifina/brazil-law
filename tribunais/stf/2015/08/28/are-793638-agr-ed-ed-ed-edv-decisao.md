@@ -1,0 +1,17 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA – IMPROPRIEDADE – PRECEDENTES – AUSÊNCIA DE IDENTIDADE – NEGATIVA DE SEGUIMENTO.
+    1. Os embargos de divergência foram interpostos contra acórdão da Primeira Turma do Supremo assim formalizado:
+    [...]
+    Em jogo o cabimento de recurso, a via excepcional do extraordinário somente é aberta quando o acórdão impugnado esteja em conflito com a Constituição Federal, valendo notar que os pressupostos dos recursos trabalhistas estão previstos na legislação comum, na Consolidação das Leis do Trabalho. Mostra-se estratégia, nesses casos, articular-se com a transgressão a preceitos da Lei Maior para, assim, contornar-se o óbice à subida do extraordinário. Está-se diante de situação concreta reveladora do exaurimento da jurisdição especializada, não procedendo o insurgimento da agravante.
+    A par desse aspecto, não obstante tenha o Pleno aprovado o Verbete Vinculante nº 22 da Súmula, a espécie distancia-se da situação retratada no citado Verbete, por não se tratar de ação de indenização decorrente de acidente de trabalho ajuizada por empregado contra o empregador.
+    Ante o quadro, desprovejo o regimental.
+    Aponta o descompasso considerada a tese jurídica revelada no acórdão impugnado e a orientação adotada pela Segunda Turma no julgamento do Agravo Regimental no Recurso Extraordinário nº 504.194, da relatoria da ministra Cármen Lúcia, cuja ementa tem o seguinte teor:
+    EMENTA: AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. AÇÃO AJUIZADA EM FACE DO EMPREGADOR. ACIDENTE DE TRABALHO. COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL. EXISTÊNCIA DE SENTENÇA DE MÉRITO ANTERIOR À EMENDA CONSTITUCIONAL 45.
+    A jurisprudência desta Corte se firmou no sentido de que, a partir da vigência da Emenda Constitucional 45, a competência para julgar ações de indenização por danos materiais e morais fundadas em acidente de trabalho é da Justiça do Trabalho, desde que não haja sentença de mérito proferida pela Justiça Comum estadual em data anterior à EC 45. Existência, no caso, de sentença de mérito prolatada pela Justiça estadual em momento anterior ao marco temporal fixado no julgamento do CC 7.204, rel. min. Carlos Britto. Agravo regimental a que se nega provimento.
+    2. Percebam a organicidade do Direito instrumental. O cabimento de embargos de divergência pressupõe a demonstração de os órgãos fracionários do Supremo ou estes e o Plenário haverem acolhido ópticas conflitantes entre si. Isso não ocorre na espécie.
+    No ato impugnado, a Primeira Turma concluiu não haver o acórdão atacado implicado ofensa à Constituição, bem como ser inadequado observar o Verbete Vinculante nº 22 da Súmula, por “não se tratar de ação de indenização decorrente de acidente de trabalho ajuizada por empregado contra o empregador.” Esse acórdão não guarda relação de pertinência com o citado como paradigma, no qual fixada a competência da Justiça do Trabalho para julgar “ações de indenização por danos materiais e morais fundadas em acidente de trabalho, desde que não haja sentença de mérito proferida pela Justiça Comum estadual em data anterior à EC 45.” Nos demais precedentes evocados, também não houve a adoção de óptica diversa da revelada no acórdão embargado.
+    3. Ante o quadro, nego seguimento aos embargos de divergência, nos termos do artigo 335 do Regimento Interno do Supremo.
+    4. Publiquem.
+Brasília, 28 de agosto de 2015.
+Ministro MARCO AURÉLIO
+Relator
