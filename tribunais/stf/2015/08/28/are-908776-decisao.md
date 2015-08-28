@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 37, § 2º, e 114, I e IX, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “EMENTA DIREITO ADMINISTRATIVO. CONTRATO NULO. FGTS DEVIDO. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 11.10.2007. O entendimento adotado pela Corte de origem, nos moldes do que assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Entender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido”. (RE 721756 AgR, de minha lavra, Primeira Turma, julgado em 25/11/2014, PROCESSO ELETRÔNICO DJe-246 DIVULG 15-12-2014 PUBLIC 16-12-2014).
+    “Agravo regimental em reclamação. 2. ADI-MC 3.395, Rel. Min. Cezar Peluso. Competência da Justiça Comum para apreciar e julgar as relações entre o Poder Público e seus servidores, regidos por regime jurídico administrativo. 3. Contratação temporária. Competência da Justiça Comum. Precedentes. 4. Decisão monocrática denegatória de seguimento. Reconsideração. 5. Agravo regimental a que se dá provimento para julgar procedente a reclamação”. (Rcl 10567 AgR, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. GILMAR MENDES, Tribunal Pleno, julgado em 08/06/2011, PROCESSO ELETRÔNICO DJe-192 DIVULG 05-10-2011 PUBLIC 06-10-2011).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de agosto de 2015.
+Ministra Rosa Weber
+Relatora
