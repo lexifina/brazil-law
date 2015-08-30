@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Sétima Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. IMPOSTO DE RENDA. IMUNIDADE. PROVENTOS. APOSENTADO COM IDADE SUPERIOR A 65 ANOS. ARTIGO 153, § 2º, INCISO II, DA CF/88. NORMA NÃO AUTO-APLICÁVEL. EC 20/98. REVOGAÇÃO.” (fl. 276)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a , da Constituição Federal sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, aponta-se violação do art. 5°, XXXV e XXXVI, além dos arts. 146, II, e 153, § 2º, II, do texto constitucional.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    A agravante não trouxe argumentos suficientes para infirmar a decisão do Tribunal a quo. Visam apenas à rediscussão da matéria já decidida em conformidade com a jurisprudência pacífica desta Corte, segundo a qual não é autoaplicável o artigo 153, § 2º, II, da Constituição Federal (com redação anterior à Emenda Constitucional n. 20, de 16 de dezembro de 1998), sendo válidos os limites e restrições fixados na Lei n. 7.713/88, com suas posteriores alterações.
+     Nesse sentido: RE 296.234, rel. Moreira Alves, Primeira Turma, DJ 22.6.2001; RE 351.755, rel. Min. Moreira Alves, Primeira Turma, DJ 31.10.2002; RE-AgR 363.790, rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 20.10.2006; RE-AgR 367.952, de minha relatoria, Segunda Turma, DJ 5.5.2006; AI-AgR 499.269, rel. Min. Joaquim Barbosa, Segunda Turma, DJ 28.4.2006; AI-AgR 515.912, rel. Min. Eros Grau, Primeira Turma, DJ 17.12.2004; e RE 200.485, rel. Min. Ilmar Galvão, Primeira Turma, DJ 20.3.1998, com acórdão assim ementado:
+    “IMPOSTO DE RENDA NA FONTE. PROVENTOS. BENEFICIÁRIOS COM IDADE SUPERIOR A SESSENTA E CINCO ANOS. ART. 153, § 2º, INC. II, DA CONSTITUIÇÃO FEDERAL. LEI Nº 7.713/88. O Supremo Tribunal Federal, no julgamento do Mandado de Segurança 22.584 (Sessão do dia 17.04.97), proclamou entendimento no sentido de que o art. 153, § 2º, II, da Constituição Federal, ao estabelecer que o imposto de renda "não incidirá, nos termos e limites fixados em lei, sobre rendimentos provenientes de aposentadoria e pensão, pagos pela previdência social da União, dos Estados, do Distrito Federal e dos Municípios a pessoa com idade superior a sessenta e cinco anos, cuja renda total seja constituída, exclusivamente, de rendimentos do trabalho", não é autoaplicável, estando a depender de lei que fixará os termos e os limites dessa não-incidência. E, até que advenha a lei regulamentando o exercício desse direito, continuam válidos os limites e restrições fixados na Lei nº 7.713/88 com suas posteriores alterações. Recurso extraordinário conhecido, mas improvido.”
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 30 de agosto de 2015
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
