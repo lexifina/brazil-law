@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. NOMEAÇÃO PARA OUTRO CARGO. DISPENSA DE SUBMISSÃO À NOVA INSPEÇÃO MÉDICA. ARTIGO 20, § 2º, DA LEI Nº 1.102/1990, DO ESTADO DE MATO GROSSO DO SUL. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. SÚMULA 28O DO STF. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “MANDADO DE SEGURANÇA – ARTIGO 20, § 2° DA LEI ESTADUAL N° 1.102/90 – NECESSIDADE DE INSPEÇÃO MÉDICA AFASTADA, QUANDO O SERVIDOR PÚBLICO QUE ESTIVER EM EXERCÍCIO, FOR NOMEADO PARA OUTRO CARGO – AUSÊNCIA DE RESSALVA NO TEXTO DA LEI – IMPOSSIBILIDADE DO INTÉRPRETE FAZER DISTINÇÃO – SEGURANÇA CONCEDIDA.
+          Não tendo o legislador inserido qualquer ressalva ou mesmo hipótese em concreto, para afastamento da regra de procedimento por ele estabelecida, no texto do artigo 20, § 2° da Lei Estadual n° 1.102/90, vedado está ao intérprete fazê-la, sob pena de manifesta ilegalidade.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5°, caput e I, e 37, caput, I e II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula nº 282 do STF.
+    É relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (artigo 102, § 3º, da CF).
+    A matéria relativa à dispensa dos servidores em exercício de submissão à nova inspeção médica, em caso de nomeação para outro cargo, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie (Lei nº 1.102/1990 do Estado de Mato Grosso do Sul), o que encontra óbice na Súmula nº 280 do STF, de seguinte teor: “Por ofensa a direito local não cabe recurso extraordinário".
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula nº 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
