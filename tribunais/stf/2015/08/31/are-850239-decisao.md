@@ -1,0 +1,17 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelos extremos interpostos pela parte ora agravante, nos quais esta sustenta que o Tribunal “a quo” teria transgredido preceito inscrito na Constituição da República.
+    Preliminarmente, revela-se insuscetível de conhecimento o recurso extraordinário interposto pelo ora recorrente em 21/07/2014 (fls. 232/242), porque já deduzido, em momento anterior, por ele mesmo, e contra a mesma decisão, idêntico recurso em 10/07/2014 (fls. 225/230).
+    Desse modo, revelar-se-ia passível de conhecimento, unicamente, o primeiro apelo extremo interposto pelo Município de Belo Horizonte, eis que a interposição de dois (2) recursos, contra o mesmo ato decisório, importa em evidente transgressão ao postulado da unirrecorribilidade ou da singularidade dos recursos, segundo o qual, “para cada ato judicial recorrível há um único recurso previsto pelo ordenamento, sendo vedada a interposição simultânea ou cumulativa de mais outro visando a impugnação do mesmo ato judicial” (NELSON NERY JUNIOR, “Princípios Fundamentais – Teoria Geral dos Recursos”, p. 93, item n. 2.4, 5ª ed., 2000, RT – grifei).
+    Impende assinalar, por necessário, que esse entendimento nada mais traduz senão a orientação que a jurisprudência do Supremo Tribunal Federal consagrou no tema (RE 345.544-AgR/MG, Rel. Min. CELSO DE MELLO, v.g.):
+    “O PRINCÍPIO DA UNIRRECORRIBILIDADE OU DA SINGULARIDADE DOS RECURSOS.
+    – O princípio da unirrecorribilidade, ressalvadas as hipóteses legais, impede a cumulativa interposição, contra o mesmo ato decisório, de mais de um recurso. O desrespeito ao postulado da singularidade dos recursos torna insuscetível de conhecimento o segundo recurso, quando interposto contra a mesma decisão. Doutrina.”
+    (RE 366.133-AgR/RS, Rel. Min. CELSO DE MELLO)
+    Passo, em consequência, a examinar o primeiro recurso extraordinário deduzido pelo Município de Belo Horizonte em 10/07/2014 (fls. 225/230).
+    E, ao fazê-lo, cumpre ressaltar que a questão nele suscitada foi decidida com base no direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora em exame, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 775.484/MG, Rel. Min. GILMAR MENDES – ARE 790.781-AgR/MG, Rel. Min. DIAS TOFFOLI – ARE 796.410/MG, Rel. Min. CÁRMEN LÚCIA – ARE 871.861/MG, Rel. Min. LUIZ FUX, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. TEMPO DE SERVIÇO SOB O REGIME CELETISTA. CONCESSÃO DE FÉRIAS-PRÊMIO. LEIS MUNICIPAIS Nº 5.809/1990 E Nº 7.169/1996. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA Nº 280/STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.”
+    (ARE 868.137-AgR/MG, Rel. Min. LUIZ FUX)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar-lhe provimento, eis que correta a decisão que não admitiu os recursos extraordinários a que ele se refere (CPC, art. 544, § 4º, II, “a”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 31 de agosto de 2015.
+Ministro CELSO DE MELLO
+Relator
