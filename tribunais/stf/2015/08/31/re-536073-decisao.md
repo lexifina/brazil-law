@@ -1,0 +1,17 @@
+DECISÃO
+ACUMULAÇÃO – MÉDICO – EMENDA CONSTITUCIONAL Nº 20/98 – RESSALVA DE SITUAÇÕES CONSTITUÍDAS – RECURSO EXTRAORDINÁRIO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado de Minas Gerais confirmou o entendimento do Juízo, ante fundamentos assim sintetizados (folha 74):
+    EMENTA: ACÚMULO DE CARGOS – PROFISSÃO REGULAMENTADA – MÉDICO MILITAR – COMPATIBILIDADE DE HORÁRIOS – RESPEITO AO TETO REMUNERATÓRIO – POSSIBILIDADE.
+    Não havendo incompatibilidade de horários e sendo observado o teto remuneratório, não poderá haver impedimento para a ocupação de dois cargos privativos de médico, que é um profissional da saúde com profissão regulamentada.
+    Mesmo sendo servidor público militar, a cumulação de cargos na área da saúde é possível, pois Constituição Federal é aplicável tanto ao servidor público civil como ao militar, não podendo uma lei infraconstitucional dispor contrariamente à Carta Magna.
+    REEXAME NECESSÁRIO N° 1.0024.04.197959-2/004 EM CONEXÃO COM A APELAÇÃO CIVEL/REEXAME NECESSÁRIO N° 1.0024.04.263.225-7/001 -COMARCA DE BELO HORIZONTE - AUTOR(A)(S)(ES): CARLOS AMILCAR SALGADO - RÉ(U)(S): ESTADO MINAS GERAIS - RELATORA: EXMa. SRa. DESa. VANESSA VERDOLIM HUDSON ANDRADE
+    2. A Emenda Constitucional nº 20, publicada no Diário Oficial de 16 de dezembro de 1998, deu ao § 10 do artigo 37 da Carta a seguinte redação:
+    § 10. É vedada a percepção simultânea de proventos de aposentaria decorrentes do art. 40 ou dos arts. 42 e 142 com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração.
+    Ao dispor sobre a proibição de acumular-se vencimentos, o legislador constituinte derivado ressalvou as situações até então constituídas fazendo inserir, na citada Emenda, dispositivo com o seguinte teor:
+    Art. 11. A vedação prevista no art. 37, § 10, da Constituição Federal não se aplica aos membros de poder e aos inativos, servidores e militares, que, até a publicação desta Emenda, tenham ingressado novamente no serviço público por concurso público de provas ou de provas e títulos, e pelas demais formas previstas na Constituição Federal, sendo-lhes proibida a percepção de mais de uma aposentadoria pelo regime de previdência a que se refere o art. 40 da Constituição Federal, aplicando-se-lhes, em qualquer hipótese o limite de que trata o § 11 deste mesmo artigo.
+    A situação jurídica regular do recorrido veio a ser explicitada, sob o ângulo constitucional, mediante o preceito acima, não se podendo cogitar, de enquadramento deste extraordinário no permissivo que lhe é próprio.
+    3. Nego seguimento a este extraordinário.
+    4. Publiquem.
+Brasília, 31 de agosto de 2015.
+Ministro MARCO AURÉLIO
+Relator
