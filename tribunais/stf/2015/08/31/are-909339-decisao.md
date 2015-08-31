@@ -1,0 +1,17 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+    “AGRAVO DE INSTRUMENTO. ACIDENTE DE TRABALHO. PRODUÇÃO DE PROVAS. LIVRE CONVENCIMENTO MOTIVADO. REQUERIEMNTO DE PROVA ORAL. INDEFERIDO. PRODUÇÃO DE PROVAS. FATOS QUE PODEM SER PROVADOS POR DOCUMENTOS E PROVA PERICIAL. DECISÃO MANTIDA. RECURSO DESPROVIDO. 1 – É firme o entendimento do Superior Tribunal de Justiça de que o Magistrado é soberano na análise de provas, podendo, portanto, concluir pela desnecessidade da produção de provas periciais, documentais e testemunhais. Isso porque, o art. 130 do Código de Processo Civil consagra o princípio do livre convencimento motivado, segundo o qual o Juiz é livre para apreciar as provas produzidas, bem como a necessidade de produção das que forem requeridas pelas partes. 2- A questão tratada nos autos, relativa aos requisitos para concessão do benefício previdenciário pleiteado, não é passível de ser comprovada por prova oral, mas somente técnica e documental. 3 – Recurso conhecido e desprovido”.
+    Opostos embargos declaratórios, foram desprovidos.
+    Sustenta o recorrente, nas razões do recurso extraordinário, violação dos artigos 5º, incisos II, XXXV, LIV, LV e LXXVIII, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Por fim, o Plenário desta Corte, em sessão realizada por meio eletrônico, concluída em 16/6/11, no exame do ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, entendeu pela ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório e da ampla defesa nos casos de indeferimento de produção de provas no âmbito de processo judicial, dado o caráter infraconstitucional da matéria:
+    Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional (DJe de 31/8/11).
+    Essa decisão, nos termos do artigo 543-A, § 5º, do Código de Processo Civil, com a redação da Lei nº 11.418/06, “valerá para todos os recursos sobre matéria idêntica, que serão indeferidos liminarmente”.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 31 de agosto de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
