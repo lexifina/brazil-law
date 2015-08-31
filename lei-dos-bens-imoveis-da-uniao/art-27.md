@@ -1,6 +1,5 @@
 Art. 27. As vendas a prazo serão formalizadas mediante contrato de compra e venda ou promessa de compra e venda em que estarão previstas, dentre outras, as seguintes condições:
 I - garantia, mediante hipoteca do domínio pleno ou útil, em primeiro grau e sem concorrência, quando for o caso;
-II - valor da prestação de amortização e juros calculados pela Tabela Price, com taxa nominal de juros de 10% (dez por cento) ao ano, exceto para as alienações de que trata o artigo anterior, cuja taxa de juros será de 7% (sete por cento) ao ano;
 III - atualização mensal do saldo devedor e das prestações de amortização e juros e dos prêmios de seguros, no dia do mês correspondente ao da assinatura do contrato, com base no coeficiente de atualização aplicável ao depósito em caderneta de poupança com aniversário na mesma data;
 IV - pagamento de prêmio mensal de seguro contra morte e invalidez permanente e, quando for o caso, contra danos físicos ao imóvel;
 V - na amortização ou quitação antecipada da dívida, o saldo devedor será atualizado, pro rata die, com base no último índice de atualização mensal aplicado ao contrato, no período compreendido entre a data do último reajuste do saldo devedor e o dia do evento;
