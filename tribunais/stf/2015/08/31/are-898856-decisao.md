@@ -1,0 +1,30 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. SFH. UTILIZAÇÃO DA TABELA PRICE. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS Nº 282 E Nº 356 DO STF. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. SÚMULA Nº 636/STF. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no artigo 544 do CPC, com o objetivo de ver reformada decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “REVISIONAL. CONTRATO. SFH.REVISÃO DAS CLÁUSULAS CONTRATUAIS. ADMISSIBILIDADE. CLÁUSULAS ILEGAIS OU ABUSIVAS NÃO PODEM SER MANTIDAS. FLEXIBILIZAÇÃO DO PRINCÍPIO DO PACTA SUNT SERVANDA. TABELA PRICE.
+    1 – TAXA REFERENCIAL. Aplicabilidade. Contrato firmado posteriormente à Lei que a instituiu. Admissibilidade. Aplicabilidade da Súmula 295, do STJ.
+    2 – CONTRATO. Aplicação da Tabela Price. Admissibilidade. A Tabela Price é sistema de amortização e não de capitalização de juros, onde se pode decompor a prestação em dois valores: a) o principal; b) os juros contratados.
+    3 – CONTRATO. Financiamento bancário. Amortização. Legalidade da cláusula contratual que determina o prévio reajuste. Comutatividade das obrigações e inaplicabilidade do disposto na alínea “c” do art. 6º da Lei nº 4380/64.
+    4 – EXECUÇÃO EXTRAJUDICIAL. Decreto-lei n. 70/66. Constitucional. Súmula 20 deste E. Tribunal de Justiça.
+    5 – Apelação dos autores não provida.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, II, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que não há violação direta e frontal à Constituição, bem como que incide o óbice da Súmula nº 279/STF,
+    É o relatório. DECIDO.
+    Primeiramente, verifica-se que o artigo 5º, II, da Constituição Federal, que os agravantes consideram violado, não foi debatido no acórdão recorrido. Além disso, não foram opostos embargos de declaração para que tal omissão fosse sanada, faltando, ao caso, o necessário prequestionamento da matéria constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incidem, portanto, os óbices das Súmulas nº 282 e nº 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+    A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: 'quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela'.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+    [...]
+    Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 139-140 e 175-176).
+    Nesse sentido, ARE 738.029-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 25/6/2013, e ARE 737.360-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 24/6/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Agravo regimental improvido.”
+    Além disso, no que diz respeito à violação ao princípio constitucional da legalidade, aplica-se o teor da Súmula nº 636 desta Corte: “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+     Por fim, relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
