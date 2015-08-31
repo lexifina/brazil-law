@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO CIVIL. EXECUÇÃO. PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371-RG. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA Nº 284/STF. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF. INEXISTÊNCIA.  AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado, verbis:
+    “1. RECURSO INOMINADO. 2. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. 3. LEGITIMDADE. 4. REDISCUSSÃO. 5. MATÉRIA SOB O PÁLIO DA COISA JULGADA. 5. DECISÃO MANTIDA. 6. RECURSO IMPROVIDO. 7. CUSTAS NA FORMA RECOLHIDA. HONORÁRIOS ADVOCATÍCIOS EM 20% DA CONDENAÇÃO. 1. As matérias, objeto de impugnação ao cumprimento de sentença, são as da fase executória, não mais aquelas discutidas na fase de conhecimento, a exemplo da legitimidade de partes (Inteligência do art. 475-L, do código de processo civil). 2. Não é cabível a rediscussão de matéria já transitada em julgado, sob pena de ofensa a direito fundamental. [...]”.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, X, LIV e LV, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que eventual violação aos princípios do devido processo legal, do contraditório e da ampla defesa seria reflexa.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Primeiramente, os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371-RG, da Relatoria do Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Quanto à alegação de ilegitimidade passiva, verifica-se que o agravante não apontou qual dispositivo constitucional teria sido violado. Ora, a ausência de indicação dos dispositivos constitucionais supostamente violados pelo acórdão recorrido conduz à inadmissão do recurso extraordinário, em face do óbice da Súmula nº 284/STF. Nesse sentido, o AI 786.680-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 29/6/2011, e o AI 819.362-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 21/2/2011, que possui a seguinte ementa:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. AUSÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL VIOLADO. SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+    I – Nos termos do art. 327, e § 1º, do RISTF, com a redação dada pela Emenda Regimental 21/2007, os recursos que não apresentem preliminar formal e fundamentada de repercussão geral serão recusados. Precedentes.
+    II – O agravante não indicou o dispositivo constitucional supostamente violado, o que caracteriza deficiência na fundamentação do recurso, a teor da Súmula 284 do STF.
+    III – O agravante não atacou os fundamentos da decisão agravada, o que torna inviável o recurso extraordinário, nos termos da Súmula 287 do STF.
+    IV - Agravo regimental improvido.”
+    Por fim, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido, AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
