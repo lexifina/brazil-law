@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO ADMINISTRATIVO. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. EXIGÊNCIA DE CONCURSO PÚBLICO. ARTIGO 37, II, DA CONSTITUIÇÃO DA REPÚBLICA. NATUREZA JURÍDICA. AUTARQUIA. FISCALIZAÇÃO. ATIVIDADE TÍPICA DE ESTADO. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “AÇÃO CIVIL PÚBLICA. NULIDADE DA SENTENÇA. INOCORRÊNCIA. CREA. AUTARQUIA FEDERAL. PRECEDENTES. SERVIDORES CONTRATADOS SEM CONCURSO NA VIGÊNCIA DA CF/88. ANULAÇÃO DAS CONTRATAÇÕES. DESNECESSIDADE. ADVENTO DA LEI 9.649/98. APURAÇÃO DE RESPONSABILIDADE. QUESTÃO PREJUDICADA. APELAÇÕES PROVIDAS.
+    - Em não havendo o interessado alegado a nulidade de ato judicial, por ausência de intimação, na primeira oportunidade em que lhe cabia falar nos autos, encontra-se preclusa a oportunidade para tanto, a teor do artigo 245 do Código de Processo Civil.
+    - ‘A jurisprudência assentada nesta Corte consolidou o entendimento de que as entidades de fiscalização do exercício profissional, como o Conselho Federal e os Regionais de Engenharia, Arquitetura e Agronomia, tem natureza jurídica de autarquias especiais, cujos servidores estão submetidos ao Regime Jurídico Único estatutário.’ (STJ. REsp nº 96/0023238-5, Rel. Ministro VICENTE LEAL, julgo 23.09.97, publ. DJU 20.10.97).
+    - Com o advento da Lei nº 9.649/98, no entanto, os empregados do conselhos de fiscalização de exercício profissional passaram expressamente a serem regidos pela lei trabalhista, razão por que seria inócua a anulação dos atos de contratação de quadros sem a necessária submissão dos candidatos a concurso público (CF/88, art. 37, II e Lei nº 8.112/90).
+    - Prejudicada a questão relativa à apuração das responsabilidades pelas contratações, porquanto os contratos de trabalho celebrados entre o CREA e os empregados-réus continuam em vigência, novel disciplinamento da matéria. respaldados no novel disciplinamento da matéria.
+    - Apelações providas.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 37, II, da Constituição Federal.
+    O Tribunal a quo admitiu o recurso extraordinário.
+    O Ministério Público Federal, em parecer da lavra do então Subprocurador-Geral da República Rodrigo Janot Monteiro de Barros, opina pelo provimento do recurso.
+    É o relatório. DECIDO.
+    Esta Corte, por ocasião do julgamento do Mandado de Segurança 22.643, decidiu que os conselhos de fiscalização profissional têm natureza jurídica de autarquias. Naquela ocasião, ficou consignado que: (i) estas entidades foram criadas por lei, tendo personalidade jurídica de direito público, com autonomia administrativa e financeira; (ii) exercem a atividade de fiscalização de exercício profissional, que é tipicamente pública; (iii) têm o dever de prestar contas ao Tribunal de Contas da União.
+    A Lei nº 9.649/1998 atribuiu personalidade jurídica de direito privado aos conselhos profissionais, ficando vedado o vínculo funcional ou hierárquico com a Administração Pública.
+    Contudo, o Supremo Tribunal Federal, ao julgar o mérito da ADI 1.717, declarou a inconstitucionalidade do caput e dos parágrafos 1º, 2º, 4º, 5º, 6º, 7º e 8º do artigo 58 da Lei nº 9.649/1998, restando consignado que a fiscalização das profissões, por se tratar de uma atividade típica de Estado, que abrange o poder de polícia, de tributar e de punir, não pode ser delegada. Dessa maneira, infere-se a natureza autárquica dos conselhos profissionais pelo caráter público da atividade desenvolvida por eles.
+    Considerando o caráter jurídico de autarquia dos conselhos de fiscalização profissional, que são criados por lei e possuem personalidade jurídica de direito público, exercendo uma atividade tipicamente pública, qual seja a fiscalização do exercício profissional, há de se concluir pela obrigatoriedade da aplicação a eles da regra prevista no artigo 37, II, da Constituição da República, quando da contratação de seus servidores.
+    No mesmo sentido, destaco as seguintes decisões monocráticas: AI 791.759, Rel. Ministro Gilmar Mendes, DJe de 2/8/2011; RE 611.947, Rel. Ministro Ricardo Lewandowski, DJe de 6/9/2011; RE 893.154, Rel. Min. Celso de Mello, DJe de 23/6/2015; RE 893.209, Rel. Min. Marco Aurélio, DJe de 14/8/2015.
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 557, § 1º-A, do Código de Processo Civil. Invertidos os ônus da sucumbência.
+    Publique-se.
+    Brasília, 31 de agosto de 2015.
+Ministro LUIZ FUX
+Relator
+documento assinado digitalmente
