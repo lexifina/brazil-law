@@ -1,0 +1,38 @@
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. TARIFA DE ENERGIA ELÉTRICA. AÇÃO PROPOSTA CONTRA A CONCESSIONÁRIA. AUSÊNCIA DE LEGITIMIDADE DA ANEEL PARA FIGURAR NO POLO PASSIVO DA DEMANDA. PRECEDENTES. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371-RG. VIOLAÇÃO AO ARTIGO 93, IX, DA CF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “PROCESSUAL. ADMINISTRATIVO. TARIFA DE ENERGIA ELÉTRICA. LEGITIMIDADE DA CONCESSIONÁRIA PARA FIGURAR NO PÓLO PASSIVO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA 83/STJ.
+    Agravo desprovido.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, XXXV, LIV e LV, 93, IX, 109, I, e 175 da Constituição Federal.
+    É o relatório. DECIDO.
+    Não merece prosperar o presente apelo.
+    Os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Quanto à alegação de ofensa ao artigo 5°, XXXV, melhor sorte não assiste à agravante, tendo em vista que da análise dos autos é possível observar que a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, embora contrárias aos seus interesses. Assim, não resta caracterizada a negativa de prestação jurisdicional. Nesse sentido, ARE 740.877-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013, o qual possui a seguinte ementa:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Alegação de ausência de prestação jurisdicional. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Precedente: AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 4. Afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, configura ofensa reflexa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. 5. Alegação de ofensa ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento.”
+    Relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Assevere-se, por fim, que o acórdão recorrido está em conformidade com a jurisprudência desta Corte.
+    Em caso análogo, relativamente à ANATEL, decidiu o Plenário desta Suprema Corte:
+    “Por não figurar na relação jurídica de consumo, a Agência Nacional de Telecomunicações – ANATEL carece de legitimidade para compor o polo passivo de ação movida pelo particular, usuário do serviço de telefonia móvel, contra a concessionária.” (RE 571.572, Gilmar Mendes, Tribunal Pleno, DJe de 13/2/2009).
+    No mesmo sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. ENERGIA ELÉTRICA. AÇÃO MOVIDA POR USUÁRIO DO SERVIÇO CONTRA CONCESSIONÁRIA. REPETIÇÃO DE VALORES PAGOS INDEVIDAMENTE. AUSÊNCIA DE LEGITIMIDADE DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA ANEEL PARA FIGURAR NO POLO PASSIVO. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 724.740-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 10/5/2013).
+    “RECURSO EXTRAORDINÁRIO. CONSUMIDOR. ENERGIA ELÉTRICA. AÇÃO MOVIDA POR USUÁRIO DO SERVIÇO CONTRA CONCESSIONÁRIA. AUSÊNCIA DE LEGITIMIDADE DA ANEEL PARA FIGURAR NO POLO PASSIVO: PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.” (RE 778.747, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 8/11/2013).
+    Ademais, a ANEEL é agência reguladora dos serviços de energia elétrica destinada a exercer função de fiscalização e normatização dos serviços do setor para a qual foi criada, não havendo necessidade de sua participação na presente demanda, como bem observado na decisão recorrida, verbis:
+    “Não vislumbro a possibilidade de alterar a decisão agravada que reconheceu a ausência de interesse jurídico da ANEEL na lide, na qual se discute a metodologia dos reajustes das tarifas de energia elétrica praticada pela concessionária, eis que em conformidade com a posição já firmada no Superior Tribunal de Justiça, verbis:
+    ‘PROCESSUAL. ADMINISTRATIVO. TARIFA DE ENERGIA ELÉTRICA. LEGITIMIDADE DA CONCESSIONÁRIA PARA FIGURAR NO POLO PASSIVO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA 83/STJ.
+    1. A jurisprudência do Superior Tribunal de Justiça orienta-se no mesmo sentido do aresto impugnado, sobre a legitimidade da empresa concessionária, nas ações em que se discutem valores cobrados pelo fornecimento de energia elétrica, e sobre a falta de interesse jurídico, em regra, da União e da ANEEL, o que gera a competência para o processamento e julgamento dessas causas na Justiça estadual (grifei).
+    2. Como o aresto recorrido está em sintonia com o decidido nesta Corte, deve-se aplicar à espécie o contido na Súmula 83/STJ: ‘Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida’.
+    3. Agravo regimental não provido.’ (AgRg no Ag 1382890/MS, Rel Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 05/05/2011, DJe 12/05/2011).
+    Ademais, o objeto sobre o qual controvertem as partes decorre do contrato entre a concessionária e a parte agravada, usuária do serviço de energia elétrica.
+    A ANEEL não faz parte do contrato e, portanto, da relação jurídica que dele decorre.
+    (...)”.
+    Estabelece o artigo 2º da Lei nº 9.427/1996, que instituiu a Agência Nacional de Energia Elétrica – ANEEL e disciplina o regime das concessões de serviços públicos de energia elétrica:
+    “Art. 2º - A Agência Nacional de Energia Elétrica – ANEEL tem por finalidade regular e fiscalizar a produção, transmissão, distribuição e comercialização de energia elétrica, em conformidade com as políticas e diretrizes do governo federal.”
+    Dessa forma, somente seria o caso de integração da relação processual pela ANEEL se a causa de pedir estivesse relacionada à eventual ilegalidade de resoluções ou atos administrativos expedidos pela agência reguladora.
+    Na hipótese dos autos, entretanto, a discussão se limita ao contrato firmado entre a concessionária e o usuário.
+    Ex positis, DESPROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
