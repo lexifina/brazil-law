@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo nos próprios autos, interposto por Edno Alves de Souza, em face de decisão de inadmissibilidade de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que negou provimento à Apelação Criminal n. 1.0090.10.002788-8/001, nos seguintes termos (p. 310):
+    “APELAÇÃO CRIMINAL – LESÃO CORPORAL E FURTO QUALIFICADO POR ARROMBAMENTO – AUTORIA E MATERIALIDADE COMPROVADAS – RECURSO CONHECIDO E NÃO PROVIDO. I – Rejeita-se a preliminar de nulidade do processo, por cerceamento de defesa, sob a alegação de que não fora oportunizada à defesa manifestar-se acerca das testemunhas arroladas e não localizadas, já que teve inúmeras oportunidades para protestar em tal sentido, deixando para assim proceder apenas em grau de recurso. Ausência de prejuízo. Preclusão operada. II – Indubitável a autoria e a materialidade delituosa, não há possibilidade de absolvição em ambos os delitos.”
+    Opostos embargos de declaração, estes foram rejeitados (p. 334).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido viola o art. 5º, inciso LV, da Constituição Federal de 1988, porquanto estaria configurado o cerceamento de defesa (p. 341-346).
+    O Tribunal a quo não admitiu o recurso extraordinário por versar acerca de ofensa reflexa à Constituição Federal e pela incidência do óbice previsto no enunciado 279 da súmula do STF (p. 355).
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário, refutando os fundamentos da decisão recorrida.
+    É o relatório.
+    Decido.
+    Com efeito, vale dizer que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), não haver repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, conforme o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013. Nesse sentido, tal orientação deve ser aplicada no caso em comento, de modo a não conhecê-lo. Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ainda, esta Corte já decidiu não existir repercussão geral no recurso extraordinário com fundamento nos princípios do contraditório e da ampla defesa, quando a pretensão visa rever o indeferimento da postulação de provas em processo judicial (Tema n. 424). Cito a ementa:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.” (ARE 639.228/RJ RG, Rel. Min. Ministro Presidente, DJe 31.8.2011)
+    Diante do exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, inciso II, alínea a, do CPC).
+    Publique-se. Int..
+    Brasília, 1º de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
