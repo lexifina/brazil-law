@@ -1,0 +1,13 @@
+DECISÃO: A controvérsia jurídica objeto deste processo já foi dirimida pela colenda Segunda Turma do Supremo Tribunal Federal:
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. SERVIDOR PÚBLICO QUE INGRESSOU NOS QUADROS DO ESTADO DO PIAUÍ, SEM CONCURSO, ANTES DO ADVENTO DA CONSTITUIÇÃO DE 1988. RELAÇÃO CELETISTA. COMPETÊNCIA PARA PROCESSAR E JULGAR A CAUSA. JUSTIÇA DO TRABALHO. ART. 114, I, DA CF/88, NA REDAÇÃO DA EC 45/04. PRECEDENTES. INAPLICABILIDADE DO DECIDIDO NA ADI 3.395-MC (REL. MIN. CEZAR PELUSO, PLENÁRIO, DJ DE 10/11/2006) E NO RE 573.202 (REL. MIN. RICARDO LEWANDOWSKI, DJE DE 5/12/2008). RECOLHIMENTO DO FGTS. CONSTITUCIONALIDADE DO ART. 19-A DA LEI 8.036/90. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF.
+    1. O Plenário do Supremo Tribunal Federal, na ADI 3.395-MC (Rel. Min. CEZAR PELUSO, DJ de 10/11/2006) referendou decisão que concedera medida liminar para, conferindo interpretação conforme a Constituição, suspender qualquer interpretação dada ao art. 114, I, da CF/88, na redação da EC 45/04, que incluísse na competência da Justiça Trabalhista demandas instauradas entre o Poder Público e os servidores a ele vinculados por relação jurídica de natureza estatutária.
+    2. Posteriormente, com base nesse precedente e em diversos julgados do Tribunal, o Pleno, ao apreciar o RE 573.202 (Rel. Min. RICARDO LEWANDOWSKI, DJe de 5/12/2008, Tema 43), submetido ao regime do art. 543-B do CPC, explicitou estarem excluídas da Justiça do Trabalho as ‘causas instauradas entre o Poder Público e seus servidores submetidos a regime especial disciplinado por lei local’.
+    3. O caso dos autos não se subsume a nenhuma das hipóteses enfrentadas nesses precedentes. Não se trata de vínculo subordinado a relação estatutária e nem de trabalho temporário submetido a lei especial. Trata-se, sim, de contrato de trabalho celebrado em 1972, em época em que se admitia a vinculação, à Administração Pública, de servidores sob regime da CLT. A competência, portanto, é da Justiça do Trabalho.
+    4. Agravo regimental a que se nega provimento.”
+    (ARE 834.964-AgR/PI, Rel. Min. TEORI ZAVASCKI)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 1º de setembro de 2015.
+Ministro CELSO DE MELLO
+Relator
