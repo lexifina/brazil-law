@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de recurso extraordinário de acórdão do Tribunal de Justiça do Estado de Sergipe que, em mandado de injunção, concedeu a ordem para reconhecer a aposentadoria especial a servidor público estadual nos termos do art. 57, da Lei 8.213/1991, ao entendimento de que (a) a lei complementar que dispõe sobre a aposentadoria especial de servidores públicos estaduais prevista no art. 40, § 4º, II e III, da CF/88 é de iniciativa exclusiva do Governador do Estado e (b) há omissão legislativa diante da ausência de lei estadual regulamentando a aposentadoria especial dos servidores públicos do Estado, devendo ser aplicado, no que couber, o art. 57, da Lei 8.213/91. (fls. 75/83, vol. 5)
+    No recurso extraordinário, interposto com base no art. 102, III, a, da Constituição Federal, aponta-se violação pelo acórdão recorrido aos seguintes dispositivos constitucionais (a) art. 24, XII, porque o acórdão registra que a regulamentação da aposentadoria especial está inserida na competência concorrente dos entes federados e da União e (b) art. 40, § 4º, visto que o dispositivo determina que haja lei complementar federal regulando a matéria. (fls. 85/94, vol. 4)
+    Sem contrarrazões. (fl. 96, vol. 7)
+    2. O Plenário do Supremo Tribunal Federal, ao analisar o RE 797.905-RG/SE (Rel. Min. GILMAR MENDES, DJe de 29/05/2014, Tema 727), reconheceu a repercussão geral de tema análogo ao dos autos.
+    No julgamento do mérito da questão, o Tribunal assentou o entendimento de que (a) a matéria deve ser regulamentada por lei de iniciativa do Presidente da República e (b) a competência para julgar mandado de injunção referente a ausência de lei complementar prevista no art. 40, § 4º da CF/88 é do Supremo Tribunal Federal. A ementa do julgado é a seguinte:
+    Recurso extraordinário. Repercussão Geral da questão constitucional reconhecida. Reafirmação de jurisprudência. A omissão referente à edição da Lei Complementar a que se refere o art. 40, §4º, da CF/88, deve ser imputada ao Presidente da República e ao Congresso Nacional. 2. Competência para julgar mandado de injunção sobre a referida questão é do Supremo Tribunal Federal. 3. Recurso extraordinário provido para extinguir o mandado de injunção impetrado no Tribunal de Justiça.
+    Assim, o acórdão recorrido está em dissonância com o entendimento jurisprudencial acima demonstrado.
+    3. Diante do exposto, com base no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário, julgando extinto o mandado de injunção por ilegitimidade passiva da autoridade impetrada.
+    Publique-se. Intime-se.
+    Brasília, 1º de setembro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
