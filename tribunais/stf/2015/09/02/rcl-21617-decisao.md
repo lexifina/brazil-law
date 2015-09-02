@@ -1,0 +1,20 @@
+Decisão:
+    1. Trata-se de reclamação, com pedido de liminar, contra decisão proferida pelo Juízo de Direito da Vara das Execuções Criminais da Comarca de Dracena/SP. O reclamante alega, em síntese, que a decisão reclamada desrespeitou o comando da Súmula Vinculante 26, pois teria determinado a elaboração de exame criminológico como requisito para concessão de progressão de regime, sem apresentar fundamentação idônea para tanto. Requer, liminarmente, seja determinado à autoridade reclamada que “defira os direitos da execução com base apenas nos requisitos efetivamente previstos em lei, afastando-se a necessidade de exame criminológico”.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    Portanto, a função precípua da reclamação constitucional reside na proteção da autoridade das decisões de efeito vinculante proferidas pela Corte Constitucional e no impedimento de usurpação da competência que lhe foi atribuída constitucionalmente. A reclamação não se destina, destarte, a funcionar como sucedâneo recursal ou incidente dirigido à observância de entendimento jurisprudencial sem força vinculante.
+    3. Fixadas tais premissas, consigno que a Súmula Vinculante n°. 26 desta Corte enuncia que:
+    “Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei nº 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.”
+    No caso concreto, noto que a medida foi determinada com base em fundamentos individuais. Com efeito, o requerimento ministerial (e.doc. 03, p. 27) deixa evidente a excepcionalidade da realização de exame, sob os seguintes fundamentos (sem grifo no original):
+    “O sentenciado é contumaz na prática de delitos, possuindo 9 execuções e ainda um histórico de faltas graves no cumprimento de sua pena. No regime aberto, praticou novo delito e foi fixado o regime fechado para o cumprimento da pena.
+    Diante do quadro apresentado, excepcionalmente, requeiro a realização de exame criminológico para aferição do requisito subjetivo para a pretendida progressão.”
+    Na mesma linha, consignou a decisão judicial (e.doc. 03, p. 43 – sem grifo no original):
+    “Compulsando os autos, verifico ser necessária a realização de exame criminológico, haja vista tratar-se de sentenciado condenado por 07 (sete) crimes cometidos com violência ou grave ameaça à pessoa (roubo), além de possuir longa pena a cumprir, estando o término de cumprimento previsto para o dia 18/09/2020.”
+    Como se vê, a realização de exame criminológico foi determinada de forma fundamentada, visto que lastreada em circunstâncias individuais e nitidamente voltadas ao caso concreto, especialmente pela existência de diversas execuções penais e a notícia de descumprimento de regras impostas anteriormente em regime mais benéfico. Dito isso, noto que a decisão vergastada não ostenta aparente arbitrariedade decorrente da exigência mecânica e irreflexiva da aludido prova.
+    Sendo assim, o eventual desacerto do convencimento jurisdicional não se submete, por meio de reclamação, ao crivo do STF. Isso porque, presente fundamentação concreta, ausente está a violação ao verbete sumular.
+    Ademais, como dito, o instrumento de impugnação não se presta a figurar como sucedâneo recursal, de modo que a convicção do Juiz singular não pode ser alcançado pela via eleita.
+    3. Pelo exposto, nos termos do artigo 21, §1°, do RI/STF, nego seguimento à presente reclamação.
+    Publique-se. Intime-se.
+    Brasília, 02 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
