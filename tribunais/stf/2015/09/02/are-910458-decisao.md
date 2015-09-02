@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Quarta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, incisos II, XXII, LIV e LV, e 170, inciso II, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, esta Corte tem entendimento sedimentado no sentido de que discussões estritamente processuais, como no presente caso, estão afetas ao ordenamento infraconstitucional, não ensejando a interposição de recurso extraordinário. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Prequestionamento. Ausência. Processual Civil. Embargos à execução. Cabimento. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Os dispositivos constitucionais tidos como violados não foram examinados pelo Tribunal de origem. Incidência das Súmulas nºs 282 e 356 desta Corte. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o exame de ofensa reflexa à Constituição. 3. Agravo regimental não provido” (AI nº 840.002/MG-AgR, Primeira Turma, de minha relatoria, DJe de 5/6/14).
+    “PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NORMAS PROCESSUAIS. OFENSA REFLEXA. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. AGRAVO IMPROVIDO. I - Ausência de prequestionamento das questões constitucionais suscitadas. Incidência das Súmulas 282 e 356 do STF. II - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. III - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. IV - Agravo regimental improvido” (AI 631.775/AL-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 13/3/09).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 2 de setembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
