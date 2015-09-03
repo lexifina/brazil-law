@@ -1,0 +1,35 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Paulo Ferreira da Silva, apontando como autoridade coatora a Terceira Seção, do Superior Tribunal de Justiça, que deu provimento ao REsp nº 1.458.830/MG, Relator para Acórdão o Ministro Rogério Schietti Cruz.
+    Sustenta a impetrante, síntese, que a conduta tipificada no art. 310 do Código de Trânsito Brasileiro, imputada ao paciente, seria atípica, pois, no seu entender, “não basta a simples entrega do veículo a pessoa não habilitada, fazendo-se necessária a demonstração de perigo concreto de dano decorrente de tal conduta” (fl. 9 da inicial).
+    Defende a impetrante que o entendimento deste Supremo Tribunal Federal acerca do tipo penal descrito no art. 309 do Código de Trânsito, consolidado no enunciado da Súmula nº 720/STF dever ser aplicado à conduta tipificada no art. 310 do mesmo diploma legal.
+    Requer o deferimento da liminar para suspender os efeitos do acórdão proferido pelo Superior Tribunal de Justiça no REsp nº 1.458.830/MG e, no mérito, pede a concessão da ordem para que trancamento da ação penal à qual responde o paciente.
+    Examinados os autos, decido.
+    Narra a impetrante, na inicial, que
+    “foi impetrado habeas corpus contra ato da 2ªTurma Recursal Criminal, em favor do acusado Paulo Ferreira Silva, denunciado por violação ao art. 310 do Código de Trânsito Brasileiro, objetivando, com writ, o trancamento do procedimento criminal.
+    A liminar foi deferida, conforme decisão de fls. 80/81. (e-STJ Fl.247)
+    A Sexta Câmara Criminal concedeu ordem para trancar a ação penal, por entender que o fato previsto no artigo 310 do CTB é atípico, pela ausência de perigo concreto de dano.
+    Inconformado da referida decisão, foi interposto recurso Especial por parte do Ministério Público do Estado de Minas Gerais, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal.
+    O Superior Tribunal de Justiça deu provimento ao recurso da acusação, por maioria (...)”
+    Transcrevo a ementa daquele julgado:
+    “RECURSO ESPECIAL. PROCESSAMENTO DE ACORDO COM O ART. 543-C. REPRESENTATIVO DA CONTROVÉRSIA. CRIME DE TRÂNSITO. ART. 310 DO CTB. BEM JURÍDICO. SEGURANÇA DO TRÂNSITO. CRIME DE PERIGO ABSTRATO. DESNECESSIDADE DE LESÃO OU EXPOSIÇÃO A PERIGO DE DANO. RECURSO ESPECIAL PROVIDO.
+    1. Recurso especial processado de acordo com o regime previsto no art. 543-C, § 2º, do CPC, c/c o art. 3º do CPP, e na Resolução n. 8/2008 do STJ. TESE: É de perigo abstrato o crime previsto no art. 310 do Código de Trânsito Brasileiro. Assim, não é exigível, para o aperfeiçoamento do crime, a ocorrência de lesão ou de perigo de dano concreto na conduta de quem permite, confia ou entrega a direção de veículo automotor a pessoa não habilitada, com habilitação cassada ou com o direito de dirigir suspenso, ou ainda a quem, por seu estado de saúde, física ou mental, ou por embriaguez, não esteja em condições de conduzi-lo com segurança.
+    2. Embora seja legítimo aspirar a um Direito Penal de mínima intervenção, não pode a dogmática penal descurar de seu objetivo de proteger bens jurídicos de reconhecido relevo, assim entendidos, na dicção de Claus Roxin, como ‘interesses humanos necessitados de proteção penal’, qual a segurança do tráfego viário.
+    3. Não se pode, assim, esperar a concretização de danos, ou exigir a demonstração de riscos concretos, a terceiros, para a punição de condutas que, a priori, representam potencial produção de danos a pessoas indeterminadas, que trafeguem ou caminhem no espaço público.
+    4. Na dicção de autorizada doutrina, o art. 310 do CTB, mais do que tipificar uma conduta idônea a lesionar, estabelece um dever de garante ao possuidor do veículo automotor. Neste caso estabelece-se um dever de não permitir, confiar ou entregar a direção de um automóvel a determinadas pessoas, indicadas no tipo penal, com ou sem habilitação, com problemas psíquicos ou físicos, ou embriagadas, ante o perigo geral que encerra a condução de um veículo nessas condições.
+    5. Recurso especial provido” (fls. 433/434 – anexo 3 – grifos do autor).
+    Essa é a razão pela qual se insurge a impetrante.
+    O deferimento de liminar em habeas corpus, como se sabe, constitui medida excepcional por sua própria natureza, justificada apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação demonstrada nos autos representar manifesto constrangimento ilegal.
+    Pelo que se tem no julgado proferido pela Terceira Seção Superior Tribunal de Justiça não se vislumbra, à primeira vista, nenhum dos elementos que justifiquem o implemento da liminar. Com efeito, a decisão proferida por aquela Corte de Justiça encontra-se suficientemente motivada, restando justificado o convencimento formado.
+    Ademais, é firme a jurisprudência deste Supremo Tribunal no sentido de que a concessão de habeas corpus com a finalidade de trancamento de ação penal em curso só é possível em situações excepcionais, desde que constatada, sem necessidade de dilação probatória, inequívoca improcedência do pedido, seja pela patente inocência do acusado, seja pela atipicidade ou extinção da punibilidade (RHC nº 125.787/RJ-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 3/8/15), o que não vislumbro nesta fase de estrita delibação.
+    De outra parte, não obstante a divergência doutrinária a respeito da tipificação da conduta descrita no art. 310 do Código de Trânsito Brasileiro, filio-me, salvo melhor juízo, ao entendimento de que o legislador, no referido dispositivo legal,
+    "elevou à categoria de crime a conduta de entregar veículo a pessoa não habilitada, pouco importando se o condutor, posteriormente, venha ou não a gerar perigo de dano. Ao agir dessa forma, a intenção do legislador foi evidente: para o condutor, só haverá crime se ele dirigir o automóvel de forma irregular; para quem entrega o veículo, todavia, a punição é automática, não podendo ficar na dependência da conduta posterior do motorista, já que isso está fora de seu controle (e de seu dolo). Quis o legislador evidenciar que o simples fato de entregar veículo a pessoa não habilitada‚ conduta perigosa e merece punição” (CAPEZ, Fernando e GONÇALES, Victor Eduardo Rios: Aspectos Criminais do Código de Trânsito Brasileiro, 2ª Ed., São Paulo: Saraiva, 1999, p. 59).
+    Nesse sentido ensina Guilherme de Souza Nucci ao classificar a conduta como de perigo abstrato, não se exigindo prova da probabilidade de ocorrência do dano (Leis Penais e Processuais Penais Comentadas, 6ª Ed., São Paulo: Revista dos Tribunais, 2012, p. 722).
+    Com essas considerações, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro a liminar requerida.
+    Estando a impetração devidamente instruída, dispenso o pedido de informações.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 3 de setembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
