@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “APELAÇÃO. PENAL. POSSE DE ENTORPECENTE PARA USO PRÓPRIO. FATO TÍPICO. PRINCÍPIO DA INSIGNIFICÂNCIA. PROTEÇÃO AO DIREITO À INTIMIDADE E À VIDA PRIVADA. INAPLICABILIDADE. RELEVÂNCIA DA CONDUTA NA ESFERA PENAL. REJEIÇÃO DA DENÚNCIA CASSADA. APELO PROVIDO. O porte de substância estupefaciente, para uso próprio, independente da quantidade portada, constitui fato típico do artigo 28 da Lei n° 11.343/06, sujeitando o infrator à sanção correspondente. Tipicidade vinculada às propriedades da droga, ao risco social e de saúde pública, e não à lesividade em concreto. Em se tratando de crime de perigo presumido ou abstrato, em que a pequena quantidade de substância entorpecente é própria do tipo de posse de drogas para uso próprio, não há se falar no princípio da insignificância. Ora, se o acusado portava a droga (l,7g de maconha), é porque era suficiente ao consumo, o que a norma visa evitar. O direito constitucional à privacidade do indivíduo (artigo 5º, X, CF) não pode ser oponível ao interesse coletivo de proteger a saúde pública, bem jurídico tutelado pelo referido diploma. Inconstitucionalidade inocorrente. Rejeição da denúncia cassada para o prosseguimento do feito. Apelo que se dá provimento”.
+    2. No julgamento eletrônico do Recurso Extraordinário n. 635.659, Relator o Ministro Gilmar Mendes, este Supremo Tribunal reconheceu a repercussão geral da questão constitucional suscitada nestes autos:
+    “Constitucional. 2. Direito Penal. 3. Constitucionalidade do art. 28 da Lei 11.343/2006. 3. Violação do artigo 5º, inciso X, da Constituição Federal. 6. Repercussão geral reconhecida” (RE 635.659-RG, Relator o Ministro Gilmar Mendes, DJe 9.3.2012).
+    3. Reconhecida a repercussão geral do tema, os autos deverão retornar à origem, para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 543-B do Código de Processo Civil.
+    4. Pelo exposto, determino a devolução destes autos ao Tribunal de origem para observância do art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+     Publique-se.
+     Brasília, 8 de setembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
