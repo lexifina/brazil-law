@@ -1,0 +1,27 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado pela DEFENSORIA PÚBLICA DA UNIÃO em benefício de CRISTIANE DA SILVA MENDES contra acórdão do Superior Tribunal de Justiça sintetizado na seguinte ementa:
+    “HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRÉVIO WRIT JULGADO. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ORDINÁRIO. IMPROPRIEDADE DA VIA ELEITA. MANIFESTA ILEGALIDADE. NÃO OCORRÊNCIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N.º 11.343/06. INCIDÊNCIA. CIRCUNSTÂNCIA QUE NÃO AFASTA O CARÁTER HEDIONDO DO DELITO. PROGRESSÃO E LIVRAMENTO CONDICIONAL. LAPSOS TEMPORAIS. APLICAÇÃO DOS PRAZOS RELATIVOS AOS CRIMES HEDIONDOS. NÃO CONHECIMENTO.
+    1. É imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional, e, em louvor à lógica do sistema recursal. In casu, foi impetrada indevidamente a ordem como substitutiva de recurso ordinário.
+    2. Na espécie, não se vislumbra ilegalidade manifesta a ser reconhecida. Por ser o tráfico ilícito de entorpecentes delito equiparado aos crimes hediondos, a incidência da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei n.º 11.343/06 não retira a hediondez do tráfico, ressalva, inclusive, que não foi, sequer, aventada pelo legislador.
+    3. Persiste a traficância, a conduta delitiva ainda é o tráfico, somente ocorre uma redução da reprimenda, inexistindo, portanto, delito autônomo, visto que não há cominação de pena exclusiva, apenas se estipula frações a incidir no quantum previsto para o caput do artigo 33 do referido diploma legal.
+    4. Para o delito de tráfico ilícito de entorpecentes, com a incidência da causa especial de diminuição, mantem-se o caráter hediondo por equiparação, ensejando, pois, os lapsos temporais previstos na Lei dos Crimes Hediondos, com os acréscimos feitos pela Lei n.º 11.464/07, para a obtenção dos benefícios em sede de execução penal.
+    5. Habeas corpus não conhecido.”
+    Colhe-se dos autos que a paciente foi condenada a 5 (cinco) anos e 4 (quatro) meses de reclusão, pela prática do crime previsto no artigo 33, caput (tráfico de entorpecentes), c/c o artigo 33, § 4º, da Lei 11.343/06.
+    A defesa impetrou, sucessivamente, habeas corpus no Tribunal de Justiça do Estado do Mato Grosso do Sul e no Superior Tribunal de Justiça. Ambos os writs foram indeferidos.
+    Nesta impetração, a Defensoria Pública sustenta, em síntese, que “deve-se fazer uma analogia in bonam partem, a fim de se afirmar que o tráfico privilegiado possui a mesma justificativa do homicídio qualificado-privilegiado, qual seja, a necessidade de tratamento menos rigoroso para o agente delituoso que, por requisitos atenuantes, cometeu o crime. Conclui-se, portanto, que o tráfico privilegiado não pode ser equiparado ao crime hediondo e, consequentemente, deve ser concedida a possibilidade de início de cumprimento de pena nos regimes diversos do fechado, bem como que seja autorizada a progressão de regime prisional após o cumprimento do requisito objetivo previsto no art. 112 da LEP, qual seja, 1/6 da pena imposta, tempo este já cumprido pelo recorrente”.
+    Requer, ao final, “seja concedida LIMINARMENTE a presente ORDEM DE HABEAS CORPUS em favor do paciente, determinando a suspensão dos efeitos do acórdão do Superior Tribunal de Justiça, para que a paciente possa fazer jus aos benefícios do livramento condicional e a progressão de regime nos prazos dos crimes comuns e, no mérito, seja concedida a ordem para que seja reconhecida a inexistência da hediondez no crime de tráfico privilegiado, e, por conseqüência, o direito da paciente em ver lhe ver concedido o livramento condicional e a progressão de regime nos prazos dos crimes comuns, fazendo, finalmente, cessar o constrangimento ilegal”.
+    A liminar foi indeferida.
+    O Ministério Público Federal manifestou-se no sentido da concessão da ordem.
+    É o relatório.
+    DECIDO.
+    O tema concernente ao afastamento do caráter hediondo do crime de tráfico privilegiado de drogas, previsto no artigo 33, § 4º, da Lei n. 11.343/2006, foi enfrentado e repelido por ambas as Turmas desta Corte (HC 114.452- -AgR/RS, Rel. Min. LUIZ FUX e HC 118.577/MS, Rel. Min. RICARDO LEWANDOWSKI) valendo transcrever, por todos, o seguinte julgado:
+    “Recurso ordinário em ‘habeas corpus’. Penal. Tráfico ilícito de entorpecentes. Causa especial de redução de pena. Artigo 33, § 4º, da Lei nº 11.343/06. Pretendida descaracterização do caráter hediondo do delito nessa modalidade. Impossibilidade. Precedentes. Recurso não provido.
+    1. A questão já foi objeto de deliberação pela Primeira Turma, a qual preconizou que ‘a minorante do art. 33, § 4º, da Lei nº 11.343/2006, não retirou o caráter hediondo do crime de tráfico de entorpecentes, limitando-se, por critérios de razoabilidade e proporcionalidade, a abrandar a pena do pequeno e eventual traficante, em contrapartida com o grande e contumaz traficante, ao qual a Lei de Drogas conferiu punição mais rigorosa que a prevista na lei anterior’ (HC nº 114.452/RS- -AgR, Relator o Ministro Luiz Fux, DJe de 8/11/12).
+    2. Recurso não provido.”
+    (RHC 118.195/DF, Rel. Min. DIAS TOFFOLI)
+    Conforme se vê, a tese desenvolvida nas razões da impetração não encontra ressonância na jurisprudência desta Corte.
+    Ex positis, NEGO SEGUIMENTO ao writ, com fundamento no artigo 38 da Lei n. 11.343/2006.
+    Publique-se. Int..
+    Brasília, 8 de setembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
