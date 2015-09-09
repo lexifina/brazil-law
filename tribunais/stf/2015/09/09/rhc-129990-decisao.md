@@ -1,0 +1,32 @@
+Decisão:
+Ementa: Processual penal. Recurso ordinário em habeas corpus. Inadequação da via eleita para questionar afastamento cautelar do cargo de Prefeito. Precedentes.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Felix Fischer, assim ementado:
+    “PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO ATIVA. CORRUPÇÃO PASSIVA. DISPENSA INDEVIDA DE LICITAÇÃO. FRAUDE À LICITAÇÃO. ADVOCACIA ADMINISTRATIVA. PREFEITO. AFASTAMENTO DO EXERCÍCIO DO CARGO. MEDIDA CAUTELAR DIVERSA DA PRISÃO. APRECIAÇÃO EM SEDE DE HABEAS CORPUS. POSSIBILIDADE. RISCO DE REITERAÇÃO. DECISÃO DEVIDAMENTE FUNDAMENTADA. ORDEM NÃO CONCEDIDA.
+    I - ‘A jurisprudência do Superior Tribunal de Justiça tem admitido a impetração de habeas corpus para que seja apreciada a legalidade de decisão que determina o afastamento de cargo de prefeito, quando imposto conjuntamente com a prisão do ocupante do cargo (nessa linha, merece destaque o HC 245.466/CE, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 18/12/2012)’ (AgRg no HC 316.286/SP, Primeira Turma, Rel. Min. Sérigo Kukina, DJe de 14/4/2015).
+    II - O afastamento do cargo público, no caso de prefeito municipal, impõe fundamentação concreta apta a evidenciar a necessidade de utilização da medida extrema.
+    III - In casu, a r. decisão que determinou o afastamento encontra-se devidamente fundamentada no risco de reiteração da conduta delitiva verbis: o ‘alegado envolvimento dos denunciados em tratativas e fraudes licitatórias que beneficiariam a empresa Viaplan Engenhria Ltda, em troca de vantagens indevidas, revela a impossibilidade de permanência nos cargos, de forma a acautelar a ordem pública. Verificada a necessidade de apuração de delitos supostamente cometidos pelos denunciados, sua permanência nos cargos possibilitaria a reiteração das condutas e a indevida interferência na instrução criminal, devendo-se resguardar nesse momento o interesse público’.
+    Ordem denegada.”
+    2. Extrai-se dos autos que foi instaurado inquérito policial contra o recorrente, Prefeito do Município de Lages/SC à época dos fatos, para apurar a suposta prática dos crimes de organização criminosa, corrupção passiva, dispensa indevida de licitação, fraude a procedimento licitatório e advocacia administrativa.
+    3. No curso das investigações, que deflagraram a Operação Águas Limpas, o Tribunal Estadual, atendendo a requerimento do Ministério Público, determinou a prisão cautelar do paciente e o respectivo afastamento do cargo público pelo prazo de 180 (cento e oitenta) dias.
+    4. Na Sessão de recebimento da denúncia, a prisão cautelar foi substituída pelas medidas cautelares do art. 319 do CPP, mantido, no entanto, o afastamento cautelar do cargo de Prefeito.
+    5. Dessa decisão, foi impetrado habeas corpus no Superior Tribunal de Justiça, com o objetivo de questionar o decreto de prisão preventiva e o afastamento cautelar do recorrente do cargo de Prefeito. A ordem, contudo, foi denegada.
+    6. No presente recurso ordinário, a defesa reitera os seguintes argumentos: i) a decisão que decretou o afastamento cautelar da função de Prefeito é nula de pleno direito, tendo em vista que não foi observado o contraditório prévio do art. 282, § 3º, do CPP; ii) inexistência de prova contundente quanto à necessidade do afastamento cautelar do acusado de suas funções. Daí o pedido de provimento a este recurso ordinário para anular a decisão que “determinou o afastamento do Prefeito Elizeu Mattos, devendo ser dada ordem de habeas corpus para sua pronta recondução ao mandato de prefeito para o qual foi eleito”.
+    7. O Ministério Público Federal opinou pela “extinção do feito sem julgamento do mérito, em razão da impropriedade da via eleita. Caso assim não se entenda, no mérito, o parecer é pelo desprovimento do recurso”.
+    Decido.
+    8. O recurso não deve ser provido.
+    9. A jurisprudência do Supremo Tribunal Federal consolidou o entendimento de que “o afastamento do cargo não pode ser questionado na via do habeas corpus por não afetar nem acarretar restrição ou privação da liberdade de locomoção” (HC 107.423-AgR, de minha relatoria). Vejam-se, nessa linha, as seguintes decisões:
+    “CONSTITUCIONAL. PROCESSUAL PENAL. PENAL. HABEAS CORPUS: AFASTAMENTO DO CARGO: NÃO-CABIMENTO.
+    I – O afastamento do paciente do cargo de Prefeito Municipal não autoriza a impetração de habeas corpus, porquanto não põe em risco a sua liberdade de locomoção. É que o habeas corpus visa a proteger a liberdade de locomoção, por ilegalidade ou abuso de poder, não podendo ser utilizado para proteção de direitos outros.
+    II – H.C. não conhecido.” (HC 84.816, Rel. Min. Carlos Velloso, Segunda Turma)
+    “AÇÃO PENAL. MAGISTRADO. DENÚNCIA RECEBIDA. AFASTAMENTO DO CARGO. LOMAN ( art. 29 ).
+    1. O afastamento do cargo, decretado por unanimidade pelo Órgão Especial do Superior Tribunal de Justiça, quando do recebimento da denúncia, por não afetar e nem acarretar restrição ou privação da liberdade de locomoção, não pode ser questionado na via do habeas corpus. Precedentes.
+    2. Agravo regimental improvido.” (HC 84.326-AgR, Rel. Min. Ellen Gracie)
+    10. Para além de observar que o paciente se encontra em liberdade, não posso deixar de anotar que a tese veiculada neste RHC já foi examinada por órgão colegiado desta Corte. Refiro-me ao HC 125.958-AgR, da relatoria do Ministro Celso de Mello, julgado na Sessão de 24.03.2015. Oportunidade em que a Segunda Turma do STF, embora confirmando decisão monocrática que aplicou o óbice da Súmula 691/STF, não enxergou teratologia, ilegalidade flagrante ou abuso de poder na medida cautelar adotada pelo Tribunal de Justiça do Estado de Santa Catarina, com apoio nos seguintes fundamentos:
+    “[...]
+    Finalmente, a pretendida recondução do ora paciente ao mandato de Prefeito Municipal de Lajes/SC não se mostra viável em sede de ‘habeas corpus’, considerados, no tema, precedentes firmados por esta própria Suprema Corte (HC 76.605/SP, Rel. Min. SEPÚLVEDA PERTENCE – HC 99.829/RJ, Rel. Min. GILMAR MENDES – HC 107.423-AgR/TO, Rel. Min. ROBERTO BARROSO – HC 110.537-AgR/DF, Rel. Min. ROBERTO BARROSO, v.g.)...”
+    11. Diante do exposto, com base no art. 192, c/c o art. 312 do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 09 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
