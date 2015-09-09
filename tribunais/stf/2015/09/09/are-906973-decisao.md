@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra julgado do Tribunal de Justiça de São Paulo:
+    “Apelações Cíveis. Ação de Improbidade Administrativa. Imputação aos réus da formação de esquema destinado ao direcionamento de certames licitatórios realizados pelo Município de Balbinos para a contratação de serviços de publicações em periódico. Ausência de notificação prévia prevista no § 7º, do art. 17, da Lei n. 8.429/92. Nulidade relativa que não prescinde da demonstração do prejuízo pela parte interessada (pas de nullité sans grief). Precedentes de ambas as Turmas que compõem a 1ª Seção do STJ. Entendimento que, se traçado um paralelo com o processo penal e levados em consideração os postulados da celeridade e economia processual, mostra-se mais consentâneo com a ordem processual vigente. Prejuízo não demonstrado pela defesa. Contratação de espaço para publicações da Municipalidade em periódico da região. Adoção da modalidade licitatória carta-convite. Competição que ficou restrita a apenas três empresas pertencentes, cada uma delas, a membros da mesma família. Existência de outros concorrentes em potencial que não foram convidados ao certame. Conluio entre os réus que permitiu o direcionamento do certame e a contratação dos serviços por preços superiores aos praticados no mercado, conforme apurado pelo Tribunal de Contas do Estado. Conduta dos réus subsumida de forma adequada ao art. 10, incs. V e VIII, da Lei n. 8.429/92. Ação julgada procedente na origem. Sentença mantida. Recursos não providos” (doc. 10).
+    Os embargos de declaração opostos foram rejeitados.
+    2. Os Agravantes alegam contrariado o art. 5º, incs. LIV e LV, da Constituição da República, requerendo
+     “que o presente Recurso Extraordinário (…) seja conhecido e provido, na forma postulada, pelo cerceamento de defesa operado face à afronta aos princípios constitucionais invocados, e assim, determinar a oitiva dos representantes legais das microempresas recorrentes, omitidas e impedidas por ocasião da instauração do Inquérito Civil e no transcorrer da Ação Civil Pública, considerando, acima de tudo, a importância dos depoimentos, pois que participantes diretos dos fatos que ocorreram durante o processo licitatório aberto pela Prefeitura Municipal de Balbinos, na modalidade carta convite, cassando-se a r. sentença monocrática e o v. acórdão” (doc. 10).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 279 deste Supremo Tribunal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste aos Agravantes.
+    6. O Tribunal de origem decidiu:
+    “No caso em apreço, o Ministério Público apresentou provas suficientes da ocorrência do dano ao erário e das irregularidades havidas nas contratações em referência.
+    Aos réus, então, impunha ilidir tais elementos de convicção, ônus do qual não se desincumbiram. Limitaram-se a afirmar a regularidade e ausência de prejuízos, sem, entretanto, apresentarem qualquer elemento idôneo, na ocasião em que exortados a tanto.
+    Pretendem agora, fazer crer que não produziram provas por ausência de oportunidade.
+    De qualquer forma, o afastamento da preliminar resolve-se na seguinte afirmação: os fatos que ensejaram a condenação encontram-se suficientemente demonstrados pelos elementos já coligidos nos autos” (doc. 10).
+    Novo exame do julgado impugnado demandaria o reexame do conjunto fático-probatório constante do processo, procedimento inviável em recurso extraordinário. Incide a Súmula n. 279 deste Supremo Tribunal.
+    No julgamento do Recurso Extraordinário com Agravo n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal Federal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do contraditório, da ampla defesa e do devido processo legal, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de setembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
