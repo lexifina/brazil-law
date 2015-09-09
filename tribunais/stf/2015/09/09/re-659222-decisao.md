@@ -1,0 +1,30 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa reproduzo a seguir:
+    “INCONSTITUCIONALIDADE. Lei Municipal que, ao criar Programa de Bolsas de Estudo, atribui ao Conselho Municipal de Educação a constituição da Comissão incumbida de executá-lo e a tarefa de regulamentar a lei. Ofensa ao Princípio da Separação dos Poderes. Ação Direta julgada procedente. À Câmara Municipal compete estabelecer as normas gerais sobre a prestação de serviço público, não lhe cabendo praticar ato concreto de sua execução, que é da atribuição exclusiva do Prefeito” (fl. 206).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida.
+    Defende-se, em síntese, que, ao contrário do que assentou o Tribunal a quo, atribuir competência a um órgão para executar serviço público não invade a esfera de competência reservada ao Chefe do Poder Executivo.
+    O recurso extraordinário foi retido no Tribunal de origem, motivo pelo qual a parte interpôs agravo, ao qual dei provimento (fl. 95 do apenso), ocasião em que determinei a remessa dos autos à Procuradoria-Geral da República para parecer.
+    A Procuradoria-Geral da República se manifestou no seguinte sentido:
+    “RECURSO EXTRAORDINÁRIO. I – DEFICIÊNCIA DE FORMULAÇÃO QUE COMPROMETE A EXATA COMPREENSÃO DA CONTROVÉRSIA: SÚMULA Nº 284 DO STF. II – EMENDA PARLAMENTAR. LIMITES: IMPERTINÊNCIA TEMÁTICA E AUMENTO DE DESPESA. ALTERAÇÃO SUBSTANCIAL DA PROPOSIÇÃO ORIGINAL. VÍCIO DE INICIATIVA.
+    1. Não demonstrada, com clareza, a maneira pela qual o acórdão recorrido contrariou o dispositivo constitucional suscitado, não se pode dizer que o recurso esteja corretamente formulado. Incide a Súmula nº 284 do Supremo Tribunal Federal.
+    2. Emendas parlamentares em projetos de lei de iniciativa reservada. Limites: (i) delimitação temática às matérias versadas na propositura original e (ii) inocorrência de aumento de despesa. Precedentes.
+    3. As emendas parlamentares que alterem substancialmente os projeto (sic) de lei em matéria de iniciativa reservada geram inconstitucionalidade formal das normas jurídicas delas derivadas. Precedentes.
+    4. Parecer pelo não conhecimento do recurso ou, caso conhecido, pelo seu desprovimento.” (fl. 264)
+    É o relatório.
+    Decido.
+    O Tribunal de Justiça do Estado de São Paulo assentou pela inconstitucionalidade dos arts. 4º e 5º da Lei nº 5.538/2000, do Município de Guarulhos/SP, alterados pelo Legislativo Municipal, por invasão da competência reservada ao Chefe do Poder Executivo.
+    Assim era a redação do projeto original:
+    “Artigo 4º – Aos alunos bolsistas caberá a prestação de serviço, não remunerado, na Administração Pública Municipal ou nos órgãos públicos estaduais e federais instalados no Município, como forma compensatória à sociedade pelo benefício auferido.
+    Artigo 5º – Para a execução desta Lei, anualmente, será constituída Comissão de Bolsa de Estudo, por ato do Prefeito Municipal, composta por representantes da comunidade, dos estabelecimentos de ensino convenentes e da Secretaria de Educação, que terá o Secretário de Educação como presidente nato.”
+    Por outro lado, assim ficou a redação aprovada e promulgada pela Câmara Municipal:
+    “Artigo 4º – Para a execução desta lei, anualmente, será constituída Comissão de Bolsa de Estudo, pro ato do Conselho Municipal de Educação.
+    Artigo 5º – Para a execução desta Lei, anualmente, será constituída Comissão de Bolsas de Estudo, por ato do Prefeito Município (sic), composta por representante da comunidade, dos Estabelecimentos de ensino convenentes e da Secretaria de Educação, que terá o Secretário de Educação como presidente nato.”
+    Conforme assentou a Procuradoria-Geral da República, “as emendas eliminaram a necessidade de prestação de serviço pelo bolsista e atribuiu amplos poderes ao Conselho Municipal de Educação”, de modo que “implicou substancial alteração da proposição” (fl. 267).
+    A jurisprudência do Supremo Tribunal Federal é consolidada no sentido de ser possível a alteração dos projetos de lei de iniciativa privativa do Chefe do Poder Executivo, por parte do Poder Legislativo, desde que (a) guarde pertinência temática com a matéria do projeto original e (b) não implique aumento de despesa. Nesse sentido:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTS. 6º, PARÁGRAFO ÚNICO, 10, CAPUT, E §§ 1º, 3º E 4º, E 21, PARÁGRAFO ÚNICO, DA LEI GAÚCHA N. 11.770/2002. ALTERAÇÕES NOS QUADROS DE CARGOS DE PROVIMENTO EFETIVO, DE CARGOS EM COMISSÃO E DE FUNÇÕES GRATIFICADAS DO INSTITUTO-GERAL DE PERÍCIAS DO ESTADO DO RIO GRANDE DO SUL. INOCORRÊNCIA DE INVASÃO DA COMPETÊNCIA DO CHEFE DO PODER EXECUTIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA IMPROCEDENTE. 1. As emendas parlamentares aos projetos de lei de iniciativa privativa do Poder Executivo e Judiciário são admitidas, desde que guardem pertinência temática com o projeto e não importem em aumento de despesas. 2. Ação não conhecida quanto à alegação de contrariedade ao art. 40, § 8º, da Constituição da República, na redação dada pela Emenda n. 20/1998 posteriormente alterada pela Emenda Constitucional n. 41/2003. O Supremo Tribunal Federal assentou que a alteração dos dispositivos que fundamentam o ajuizamento da ação direta de inconstitucionalidade, com substancial modificação, impede sua apreciação nessa via. 3. Ação direta de inconstitucionalidade julgada improcedente”. (ADI 2813, Relatora Min. CÁRMEN LÚCIA DJe 25.08.2011)
+    Sendo assim, entendo por correta a decisão do Tribunal de Justiça do Estado de São Paulo, por haver vício formal nos dispositivos vergastados da Lei nº 5.538/2000, do Município de Guarulhos/SP, em face da inexistência de pertinência temática da alteração promovida pelo Legislativo Municipal.
+    Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, e 557, caput, do CPC)
+    Publique-se.
+    Brasília, 9 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
