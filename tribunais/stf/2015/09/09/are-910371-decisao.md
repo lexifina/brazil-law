@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Oitava Turma do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO – HONORÁRIOS ADVOCATÍCIOS – PERDAS E DANOS
+    A decisão agravada foi proferida em estrita observância aos artigos 896, § 5º, da CLT e 557, caput, do CPC, razão pela qual é insuscetível de reforma ou reconsideração.
+    Agravo a que se nega provimento”.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, caput e incisos XXII, XXXV e LXXIV, e 133 da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, verifica-se dos autos que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. A propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Honorários advocatícios. Incidência sobre as parcelas vencidas até a prolação da sentença. Legislação infraconstitucional. Análise. Impossibilidade. Ofensa reflexa. 1. A questão relativa à fixação dos honorários de sucumbência pelo juízo de origem, por situar-se no âmbito da legislação infraconstitucional, não enseja a abertura da via extraordinária, haja vista que a ofensa à Constituição Federal, se existente, se daria de forma indireta ou reflexa. 2.Agravo regimental não provido”(ARE nº 732.125/MG-AgR, Primeira Turma, de minha relatoria, DJe de 27/11/13).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Previdenciário e Processo Civil. Fixação dos honorários advocatícios. Matéria infraconstitucional. Ofensa reflexa. Incidência do Enunciado 279 da Súmula do STF. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE nº 706.879/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 6/6/14).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INDENIZAÇÃO. HONORÁRIOS ADVOCATÍCIOS. 1. Ausência de prequestionamento da matéria constitucional suscitada. 2. Análise de matéria infraconstitucional. Ofensa constitucional indireta. 3. Reexame de fatos e provas: Súmula n. 279 do Supremo Tribunal Federal. 4. Agravo regimental ao qual se nega provimento.” (ARE nº 742.462/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 1/7/13).
+    “PROCESSO CIVIL. REDUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIA INFRACONSTITUCIONAL. 1. A DISCUSSÃO A RESPEITO DA REDUÇÃO DE HONORÁRIOS ADVOCATÍCIOS É DE NATUREZA INFRACONSTITUCIONAL. INCABÍVEL, NO CASO, A INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO PARA TRATAR DE TAL HIPÓTESE. 2. INEXISTÊNCIA DE ARGUMENTO CAPAZ DE INFIRMAR A DECISÃO AGRAVADA, QUE DEVE SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. 3. AGRAVO REGIMENTAL IMPROVIDO” (RE nº 577.398/RJ-AGR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 24/4/09).
+    Nesse mesmo sentido, anote-se a seguinte decisão monocrática: ARE nº 859.496/DF, Relator o Ministro Gilmar Mendes, DJe de 6/2/15.
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de setembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
