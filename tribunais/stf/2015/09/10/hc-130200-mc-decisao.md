@@ -1,0 +1,17 @@
+DECISÃO
+PASSAPORTE – AUSÊNCIA DO PAÍS – APELAÇÃO – PENDÊNCIA – HABEAS CORPUS – LIMINAR DEFERIDA.
+IMPETRAÇÃO – SUPERIOR TRIBUNAL DE JUSTIÇA – INEXISTÊNCIA DE PREJUÍZO.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    Jaime Garcia Dias, diretor presidente da empresa Cabral Garcia Participações Ltda., buscou, no âmbito do Tribunal Regional Federal da 2ª Região - Processo nº 2013.02.01.010271-3 -, autorização para empreender viagens aos Estados Unidos, no período de 2 de setembro de 2015 a 2 de setembro de 2016. Sustentou a necessidade dos deslocamentos periódicos, em virtude da formalização de contrato comercial com empresa norte-americana. Em síntese, objetivou a dispensa de pedidos sequenciais para as pretendidas saídas do Brasil. O relator, ao indeferir o pleito, salientou inexistir situação de urgência apta a autorizar o acolhimento da pretensão. Referiu-se a outros pedidos já acolhidos anteriormente, mas para a realização de intervenção cirúrgica, a revelar quadro diverso do ora apresentado. Ressaltou haver apelação na iminência de ser incluída em pauta de julgamento, aludindo, ainda, à severidade da pena imposta. Assentou tratar-se de situação a recomendar a permanência do requerente no território nacional.
+    Em habeas corpus formalizado no Superior Tribunal de Justiça – de nº 335.130/RJ –, reiterou-se o pleito. Em apreciação sumária, o relator entendeu não existir flagrante ilegalidade a justificar o implemento da medida acauteladora.
+    Neste habeas, o impetrante aduz constrangimento ilegal apto a mitigar o óbice descrito no Verbete nº 691 da Súmula do Supremo. Reporta-se ao indeferimento das mencionadas autorizações e à retenção do passaporte do paciente. Alega violação ao artigo 5º, inciso XIII, da Constituição Federal, segundo o qual “é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer”. Diz que o bloqueio do aludido documento carece de previsão legal e implica restrição à liberdade de locomoção. Afirma não haver, no ordenamento jurídico pátrio, as penas de confinamento territorial ou exílio local de nacional. Sustenta a necessidade de observância do princípio da presunção da não culpabilidade.
+    Busca, em âmbito liminar, seja assegurado ao paciente o direito de ausentar-se do território nacional, no período de 4 de setembro de 2015 a 18 de setembro de 2015, a fim de que possa cumprir os compromissos decorrentes da atividade empresarial na cidade de Nova York, nos Estados Unidos, determinando-se ao Tribunal Regional Federal da 2ª Região a devolução do passaporte retido. No mérito, pleiteia a restituição definitiva do passaporte, garantindo-lhe o direito de trabalhar.
+    A fase é de apreciação da medida acauteladora.
+    2. Observem não estar, até aqui, selada a culpa do paciente. Então, de início, há de manter-se o direito à liberdade de ir e vir, inclusive mediante a feitura de viagem ao exterior, a lazer ou, como no caso, em atendimento a compromisso profissional.
+    3. Defiro a liminar pleiteada, determinando a entrega do passaporte ao paciente e autorizando a viagem pretendida, no período de 4 a 18 de setembro corrente.
+    4. O curso deste habeas corpus não prejudica o formalizado no Superior Tribunal de Justiça – de nº 335.130. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Felix Fischer.
+    5. Colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília – residência –, 10 de setembro de 2015.
+Ministro MARCO AURÉLIO
+Relator
