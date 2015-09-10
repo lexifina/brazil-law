@@ -1,0 +1,32 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CONVERSÃO DE TEMPO DE SERVIÇO ESPECIAL EM COMUM. PERÍODO DE AUXÍLIO-DOENÇA. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279/STF. PRINCÍPIO DA RESERVA DE PLENÁRIO. JUIZADOS ESPECIAIS. INAPLICABILIDADE. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão que assim dispôs (documento eletrônico 44):
+    “Trata-se de recurso interposto pelo INSS contra sentença que reconheceu como especial período em gozo de auxílio-doença.
+    Perfeitamente acertada a decisão de primeiro grau, não merece reforma, devendo seus fundamentos serem destacados e subscritos:
+      Período de 19.12.2004 a 01.04.2005
+    Nesse interregno o autor esteve em gozo de auxílio-doença previdenciário (NB 506.497.112-1 - ev. 3, INFBEN2, fl. 2), razão pela qual o INSS descontou este intervalo de tempo do período de 25.10.1999 a 11.09.2009, reconhecido como tempo de serviço especial, válido para aposentadoria aos 15 anos, conforme se infere da planilha de contagem de tempo de serviço (PROCADM3, fl. 40).
+    Todavia, o período em que o autor esteve afastado do trabalho em face de benefício previdenciário por incapacidade também deve ser enquadrado como tempo especial.
+    Isso porque, sendo reconhecida a especialidade do labor desde 25.10.1999, obviamente não poderia ter sido excluído daí o interregno em foco, só porque esteve o autor em gozo de benefício por incapacidade. Até porque se pressupõe que a incapacidade seja decorrente do exercício da atividade, uma vez que, no caso, iniciada no período do contrato de trabalho.
+    Sobre o tema, trago a lume a seguinte decisão proferida recentemente pela Turma Regional de Uniformização:
+    CONVERSÃO DE ESPECIAL PARA COMUM DE PERÍODO EM GOZO DE AUXÍLIO-DOENÇA. POSSIBILIDADE. O segurado que exerce atividades em condições especiais, quando em gozo de auxílio-doença, seja acidentário ou previdenciário, faz jus ao cômputo desse período como especial. (IUJEF 5002451-60.2012.404.7107/RS. Relatora p/ acórdão Juíza Federal Ana Cristina Monteiro de Andrade Silva. Sessão do dia 21.06.2012).
+    Portanto, o período de 19.12.2004 a 01.04.2005 deve ser enquadrado para aposentadoria especial aos 15 anos, a teor do item 4.0.2 do anexo IV do Decreto n. 3.048/99.
+    Portanto, deve ser mantida a decisão, por seus próprios fundamentos.
+    Condeno o INSS ao pagamento de honorários advocatícios fixados em 10% sobre o valor das parcelas vencidas até a data da prolação da sentença (Súmula 111 do STJ). Ressalvo que a condenação em honorários não pode ser inferior ao salário mínimo, salvo se o conteúdo econômico da causa o for, hipótese em que os honorários devem corresponder ao valor da demanda.
+      Ante o exposto, voto por NEGAR PROVIMENTO AO RECURSO.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, II, XXXVI, 97, 195, § 5º, e 201, caput e § 1º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece provimento o agravo.
+    Verifica-se que o Tribunal de origem decidiu a presente controvérsia com fundamento na legislação infraconstitucional aplicável à espécie (Lei nº 8.213/1991 e Decretos nºs. 3.048/1999 e 4.882/2003), bem como em fatos e provas, o que atrai o óbice da Súmula nº 279 do STF. Assim, eventual ofensa à Constituição Federal, seria, quando muito, indireta, circunstância que inviabiliza o cabimento do recurso extraordinário. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Previdenciário. Requisitos para a concessão de aposentadoria especial rural. Preenchimento de requisitos. 3. Necessidade de prévia análise e interpretação da legislação infraconstitucional. Ofensa reflexa. 4. Necessidade de revolvimento de fatos e provas. Óbice do Enunciado 279 da Súmula do STF. 5. Agravo regimental a que se nega provimento.” (ARE 788.456-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 28/4/2014).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 806.029-AgR, de minha relatoria, Primeira Turma, DJe 26/11/2010).
+    Ademais, o princípio constitucional da reserva de plenário não se aplica aos Juizados Especiais, tendo em vista que, pela configuração atribuída pelo legislador, não funcionam em regime de plenário ou órgão especial, nos termos da jurisprudência firmada por esta Corte. Nesse sentido, o ARE 792.562-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 2/4/2014, que possui a seguinte ementa:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. PRINCÍPIO DA RESERVA DE PLENÁRIO. ART. 97 DA CF/88. SÚMULA VINCULANTE 10. JUIZADOS DE PEQUENAS CAUSAS E ESPECIAIS. INAPLICABILIDADE.
+    1. O art. 97 da Constituição, ao subordinar o reconhecimento da inconstitucionalidade de preceito normativo a decisão nesse sentido da “maioria absoluta de seus membros ou dos membros dos respectivos órgãos especiais”, está se dirigindo aos Tribunais indicados no art. 92 e aos respectivos órgãos especiais de que trata o art. 93, XI. A referência, portanto, não atinge juizados de pequenas causas (art. 24, X) e juizados especiais (art. 98, I), os quais, pela configuração atribuída pelo legislador, não funcionam, na esfera recursal, sob regime de plenário ou de órgão especial.
+    2. Agravo a que se nega provimento.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 10 de setembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
