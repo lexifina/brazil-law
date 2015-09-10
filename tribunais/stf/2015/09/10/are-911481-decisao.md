@@ -1,0 +1,14 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe referir, desde logo, que – com a exceção do tema concernente à alegada transgressão ao preceito inscrito no art. 201, § 1º, da Constituição – os demais temas não se acham devidamente prequestionados.
+    E, como se sabe, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 – RTJ 131/1391 – RTJ 144/300 – RTJ 153/989), incide a Súmula 282 desta Corte (RTJ 159/977).
+    A configuração jurídica do prequestionamento decorre de sua oportuna formulação em momento procedimentalmente adequado. Não basta, no entanto, só arguir, previamente, o tema de direito federal para legitimar o uso da via do recurso extraordinário. Mais do que a satisfação dessa exigência, impõe-se que a matéria constitucional questionada tenha sido efetivamente apreciada na decisão recorrida (RTJ 98/754 – RTJ 116/451).
+    Impõe-se destacar, de outro lado, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cumpre assinalar, ainda, que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Devo registrar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria assemelhada à veiculada no caso em exame (ARE 901.050/SC, Rel. Min. LUIZ FUX – ARE 905.330/SC, Rel. Min. CÁRMEN LÚCIA – RE 906.196/SP, Rel. Min. ROSA WEBER, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONFIGURAÇÃO DA ESPECIALIDADE DA ATIVIDADE LABORAL. INVIABILIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 666.962-AgR/SC, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 10 de setembro de 2015.
+Ministro CELSO DE MELLO
+Relator
