@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. MEDIDA LIMINAR INDEFERIDA. VISTA AO PROCURADOR-GERAL DA REPÚBLICA.
+Relatório
+    1. Recurso ordinário em mandado de segurança, com requerimento de medida liminar, interposto por Geraldo Gurgel Junior, em 21.5.2015, com base no art. 102, inc. II, al. a, da Constituição da República, contra acórdão do Superior Tribunal de Justiça no Mandado de Segurança n. 15.031/DF.
+O caso
+    2. Em 12.2.2010, Geraldo Gurgel Junior impetrou mandado de segurança preventivo no Superior Tribunal de Justiça, suscitando o justo receio de ter sua aposentadoria cassada pelo Ministro da Integração Nacional em processo administrativo disciplinar (n. 59400.003108/2007-79), instaurado para apurar possível omissão do Impetrante no dever de fiscalizar e impedir a atuação irregular de subordinado seu no Departamento Nacional de Obras contra a Seca – DNOCS.
+    Em 16.3.2010, o Relator no Superior Tribunal de Justiça, Ministro Arnaldo Esteves Lima, deferiu a liminar, determinando que a autoridade apontada coatora se abstivesse de impor qualquer sanção disciplinar ao Impetrante, até ulterior deliberação (fl. 12 do Evento n. 8).
+    Em 22.4.2015, a Terceira Seção do Superior Tribunal de Justiça denegou o mandado de segurança em acórdão com a seguinte ementa:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA PREVENTIVO. SERVIDOR PÚBLICO. PROCESSO DISCIPLINAR EM TRÂMITE. EVENTUAL APLICAÇÃO DE PENALIDADE. IMPOSSIBILIDADE DE O JUDICIÁRIO SUBSTITUIR A ADMINISTRAÇÃO NO JULGAMENTO. MÉRITO ADMINISTRATIVO.
+    1. O mandado de segurança preventivo visa proteger o patrimônio jurídico do indivíduo de ato ameaçador ou prejudicial a ser praticado que configure o justo receio de lesão ao direito líquido e certo invocado, consubstanciado em grave ameaça, objetiva e atual.
+    2. Em sede de processo administrativo — onde há um procedimento consistente em série de atos que levam a uma decisão final —, todos os atos que possam atingir diretamente o administrado podem ser objeto de mandado de segurança, não sendo necessário que se aguarde o proferimento da decisão final para o manejo do remédio constitucional.
+    3. Hipótese em que o mandado de segurança preventivo foi impetrado com o intuito de obstar a decisão final a ser proferida pela autoridade competente, o que se mostra inviável. Não houve questionamento acerca de qualquer irregularidade no procedimento, sendo todos os fundamentos da impetração — com exceção da alegada prescrição — dirigidos à demonstração de que não teria ocorrido qualquer conduta punível, bem como de que seria injusta e desproporcional a eventual aplicação da pena de demissão.
+    4. A Lei n. 8.112/1990 estabelece o procedimento a ser adotado no julgamento do processo disciplinar, bem como as competências para a aplicação das penalidades disciplinares. O procedimento regular de processo administrativo exige que a autoridade competente profira a decisão final, não cabendo ao Poder Judiciário substituir o administrador no julgamento.
+    5. Diante da inexistência de decisão administrativa, não há justo receio – iminente e atual – de que a autoridade impetrada proceda à aplicação de penalidade disciplinar, motivo pelo qual não se justifica a impetração do writ de caráter preventivo.
+    6. Compete ao Ministro de Estado, após analisar o compêndio administrativo, aplicar ou não a penalidade de demissão, podendo, inclusive, isentar de responsabilidade o servidor, caso entenda que a prova dos autos está contrária às conclusões exaradas, sempre com motivação suficiente e adequada à hipótese, nos moldes estabelecidos no art. 168 da Lei n. 8.112/1990.
+    7. É inviável a verificação da ocorrência de prescrição intercorrente da pretensão punitiva da administração, tendo em vista que somente após a definição do enquadramento legal das condutas praticadas poderá ser analisada a questão, ante os diversos prazos previstos na Lei n. 8.112/1990, de acordo com cada penalidade.
+    8. O controle jurisdicional do processo administrativo disciplinar é exercido para apreciar a legalidade e a regularidade do procedimento — à luz dos princípios do devido processo legal, do contraditório e da ampla defesa —, não sendo possível, na via eleita, a apreciação de todo o compêndio processual para inocentar o servidor e tampouco para decidir se é justa ou não a pena sugerida na conclusão do processo, sendo essas questões de mérito administrativo, ainda pendentes de apreciação pela autoridade julgadora.
+    9. Ordem denegada, com a cassação de liminar anteriormente deferida” (fls. 83-84).
+    3. Daí o presente recurso ordinário, com requerimento de medida liminar, no qual o Recorrente afirma ter impetrado mandado de segurança “para prevenir, POR JUSTO RECEIO, que a Autoridade [impetrada] prati[casse] ato – punição administrativa máxima – a configurar ilegalidade ou abuso de poder que claramente resvala do núcleo operativo dos princípios da razoabilidade e proporcionalidade administrativa” (fl. 107).
+    Requer
+    “provimento ao recurso, para reformar a decisão recorrida, concedendo-se a segurança e para a anulação do processo administrativo disciplinar que lhe deu origem e que seja determinada a revitalização da decisão liminar” (fl. 109).
+    4. Em 25.6.2015, a Advocacia-Geral da União apresentou contrarrazões ao recurso (fls. 117-125).
+    5. Em 3.8.2015, a Vice-Presidente do Superior Tribunal de Justiça admitiu o recurso ordinário em mandado de segurança (fl. 130).
+    6. Distribuído, o processo veio-me em conclusão em 26.8.2015.
+    Examinados os elementos havidos nos autos, DECIDO.
+    7. Para conclusão quanto ao requerimento de medida liminar em mandado de segurança procede-se a um exame precário e provisório baseado na relevância do argumento e na ineficácia da medida se vier a ser concedida ao final.
+    Não se tem no caso em análise patenteada a relevância dos fundamentos apresentados pelo Recorrente e apreciados pelo órgão jurisdicional competente, que denegou a ordem pleiteada, sendo certo, ainda, que
+    “[c]arece de razoabilidade a tese segundo a qual, ajuizado mandado de segurança em qualquer fase do inquérito administrativo disciplinar, contra ato da comissão processante, o Chefe Superior da Administração Pública estaria compelido a aguardar o trânsito em julgado da ulterior decisão denegatória – impugnada mediante recurso sem efeito suspensivo – para que pudesse penalizar o servidor, o que, na prática, equivaleria a impedi-lo de desempenhar suas atribuições legais e constitucionais” (Mandado de Segurança n. 20.987/DF, Relator o Ministro Célio Borja, Plenário, DJe 16.2.1990).
+    8. Pelo exposto, indefiro a liminar.
+    9. Vista ao Procurador-Geral da República (art. 35 da Lei n. 8.038/1990 c/c art. 52, inc. XIV, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de setembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
