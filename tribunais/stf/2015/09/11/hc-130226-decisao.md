@@ -1,0 +1,27 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União (DPU), em favor de Jaime Alves, contra acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao Agravo Regimental no Recurso Especial n. 1.367.286/RS.
+    Segundo os autos, o paciente, na condição de cacique do grupo indígena Morro do Osso, teria se apropriado indevidamente de valor recebido por ele em nome da comunidade, decorrente de premiação em concurso público realizado pelo Ministério da Cultura, do qual a comunidade indígena restou vencedora.
+    Sobreveio condenação à pena de 1 ano e 4 meses de reclusão, em regime inicial aberto, e mais o pagamento de 10 dias-multa, pela prática do delito tipificado no art. 168, § 1º, inciso III, do Código Penal (apropriação indébita). A pena privativa de liberdade foi substituída por 2 penas restritivas de direito (prestação de serviços à comunidade ou a entidades públicas e prestação pecuniária).
+    Contra essa decisão, a defesa interpôs apelação junto ao Tribunal Regional Federal da 4ª Região, que negou provimento ao recurso.
+    Ainda inconformada, a defesa interpôs recurso especial, ao qual foi negado seguimento, no Superior Tribunal de Justiça, pelo relator Ministro Jorge Mussi.
+    Foi interposto, também, agravo regimental, tendo a Quinta Turma mantido o entendimento proferido monocraticamente. Eis a ementa desse julgado:
+    “AGRAVO REGIMENTAL. RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. CONDUTA PRATICADA POR INDÍGENA. NÃO REALIZAÇÃO DE EXAME ANTROPOLÓGICO. NULIDADE DO FEITO. FALTA DE PREQUESTIONAMENTO. ILEGALIDADE DA MAJORANTE DO INCISO III DO § 1º DO ARTIGO 168 DO CP. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. NECESSIDADE. ÓBICE DA SÚMULA 7/STJ. RECURSO IMPROVIDO.
+    1. Cingindo-se as razões do recurso especial na inocorrência de dano ao grupo indígena (Súmula 140/STJ), olvidando-se de impugnar a origem federal das verbas indevidamente apropriadas, fundamento que, por si só, seria apto à manutenção das conclusões exaradas no acórdão recorrido, incide, na espécie, a Súmula n. 283/STF.
+    2. A nulidade do feito por não se ter realizado exame antropológico no acusado, indígena, para aferição da sua imputabilidade, não foi objeto de debate ou deliberação pelo Tribunal de origem, impedindo a sua análise nesta sede ante a falta de prequestionamento.
+    3. Pretender-se que a qualificação do acusado seja modificada, objetivando a exclusão da majorante do inciso III §1º do artigo 168 do CP, em confronto com a delimitação fixada pelo acórdão recorrido, enseja o reexame do conjunto fático-probatório, inviável na via eleita ante o óbice da Súmula 7/STJ.
+    4. Agravo regimental a que se nega provimento.”
+    Daí o presente habeas corpus, impetrado perante esta Corte.
+    Neste writ, a defesa alega, em síntese, a viabilidade da impetração de habeas corpus para a discussão de questões relativas ao cabimento de recurso especial.
+    Para tanto, sustenta suposta violação, por meio do competente recurso especial, ao art. 168, § 1º, inciso III, do CP, visto que a suposta condição de cacique não se confundiria com emprego, ofício, no caso artesão, ou profissão, para justificar a incidência da causa de aumento de pena prevista no citado dispositivo legal, sendo ainda certo que o reconhecimento do ofício de artesão independeria de qualquer reexame de prova, porque se trata de situação já reconhecida pelo TRF da 4ª Região (eDOC 2, p. 6-7 e 10).
+    Assevera, ainda, a viabilidade do recurso especial, porquanto restou caracterizada violação ao art. 105, inciso III, “a”, da Constituição e ao art. 544, § 4º, inciso II, alíneas “a” e “b”, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal.
+    Requer, liminarmente, seja mantida a suspensão da execução da pena do paciente até o julgamento da presente impetração.
+    No mérito, postula a concessão da ordem para determinar ao Superior Tribunal de Justiça que dê seguimento e julgue o mérito do recurso especial ou exclua da pena a causa de aumento prevista no § 1º, inciso III, do art. 168 do Código Penal (eDOC 2, p. 12).
+    Breve relatório.
+    Decido.
+    De pronto, verifico não caber ao Supremo Tribunal Federal substituir-se ao Superior Tribunal de Justiça na análise dos requisitos de admissibilidade do recurso especial, salvo em caso de abuso de poder ou flagrante ilegalidade (HC 112.130/MG, Rel. Min. Ayres Britto, DJe 8.6.2012; HC 125.024/DF, Rel. Min. Rosa Weber, DJe 3.12.2014; HC 126.750/SP, Rel. Min. Teori Zavascki, DJe 4.3.2015, e HC 110.186/SP, Primeira Turma, Relator originário Ministro Marco Aurélio, Red. p/ o acórdão Ministro Roberto Barroso, DJe 2.12.2014), o que não ocorreu no caso em epígrafe.
+    Dessarte, o Superior Tribunal de Justiça, ao reputar não preenchidos os pressupostos de admissibilidade do recurso excepcional lá interposto e, por conseguinte, não adentrando na matéria de fundo versada no especial, não adquiriu a condição de autoridade coatora, inviabilizando a impetração de habeas corpus perante esta Suprema Corte.
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento ao presente writ.
+    Publique-se.
+    Brasília, 11 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
