@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 209, de 5 de agosto de 2015
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS EMENTA: SERVIÇOS. CLASSIFICAÇÃO FISCAL. REGISTRO. SISCOSERV. O serviço de transporte internacional aéreo de carga que não seja de natureza especial, nem seja de carga postal, nem de remessa expressa, e desde que a carga não seja acondicionada por meio de contêiner e suas espécies, deve ser classificado na NBS sob o código 1.0503.90.00, para fins de registro no Siscoserv. DISPOSITIVOS LEGAIS: Portaria Conjunta RFB/SCS nº 1.908, de 19 de julho de 2012; arts.24 e 25 da Lei nº 12.546, de 14 de dezembro de 2011; art.1º da Instrução Normativa RFB nº1.277, de 28 de junho de 2012; Decreto nº 7.708, de 2 de abril de 2012.
+[arquivo anexo: SC Cosit nº 209-2015.pdf]
