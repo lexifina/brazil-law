@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PREVIDENCIÁRIO. AGRAVO LEGAL. ART. 557 DO CÓDIGO DE PROCESSO CIVIL. REVISÃO DE BENEFÍCIO. DECADÊNCIA. OCORRÊNCIA. REDISCUSSÃO DA MATÉRIA. AGRAVO DESPROVIDO.
+    - Adotadas as razões declinadas na decisão agravada.
+    - A instituição do prazo decadencial para o ato de revisão de concessão de benefício apareceu com a 9ª reedição da Medida Provisória n° 1.523 de 27 de junho de 1997, a seguir convertida na Lei n° 9.528, de 10 de dezembro de 1997. Posteriormente, na Lei n° 9.711, de 20 de novembro de 1998, o caput do artigo 103 da Lei nº 8.213, de 24 de julho de 1991, recebeu nova redação reduzindo o prazo decadencial inaugural de 10 (dez) para 05 (cinco) anos (resultante da conversão da Medida Provisória n° 1.663-14, de 24 de setembro de 1998). Com a edição da Medida Provisória nº 138/2003, esse prazo acabou sendo majorado mais uma vez para 10 anos. A referida MP foi convertida na Lei nº 10.839/04.
+    - O Superior Tribunal de Justiça adotou entendimento, segundo o qual o prazo decenal estipulado pela Lei 9.528/1997 aplica-se aos benefícios concedidos a partir de sua edição, bem como aos anteriores a ela, cujo termo inicial deve ser a data em que entrou em vigor a norma fixando o referido prazo decenal.
+    - Tendo em vista que a presente ação refere-se à revisão da renda mensal inicial (ato de concessão), que o benefício é anterior à edição da Lei n. 9.528/1997 e que a presente ação foi ajuizada somente em 19.02.2013, deve ser reconhecido o transcurso do prazo decenal.
+    - Agravo legal a que se nega provimento.” (fls. 115-116)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XXXVI; 194, 201, § 4º, do Texto Constitucional.
+    Nas razões recursais, sustenta-se ter sido a renda mensal inicial calculada em desacordo com a legislação vigente, uma vez que na base de cálculo dos salários de contribuição, deveriam estar integrado o valor do décimo terceiro salário.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, observa-se que os argumentos trazidos pela parte Recorrente carecem do necessário prequestionamento. Esta Corte tem consignado ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo ato recorrido. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Mesmo que assim não fosse, constata-se que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido, o que torna aplicável ao caso a Súmula 284 desta Corte.
+    Isso porque o Tribunal de origem se baseou no prazo decadencial para decidir a demanda, ao passo que o presente apelo extremo limita-se a alegar a necessidade da integração do 13º salário à base de cálculo dos salários de contribuição para o cálculo da RMI.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. 1. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 652247 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 10.10.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da Súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento.” (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 9.12.2013).
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 14 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
