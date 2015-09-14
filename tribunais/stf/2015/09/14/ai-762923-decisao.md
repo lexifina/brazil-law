@@ -1,0 +1,15 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo de instrumento foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Superior do Trabalho, está assim ementado (fls. 222):
+    “RECURSO DE REVISTA. ORGANISMO INTERNACIONAL. IMUNIDADE DE JURISDIÇÃO. É pacífico o entendimento nesta C. Corte no sentido de que, em virtude do princípio da efetividade da jurisdição, os entes de direito público externo não gozam de imunidade de jurisdição quando atuam no âmbito das relações privadas. No caso dos autos, verifica-se que o Eg. Tribunal Regional manteve a r. sentença originária, que extinguiu o processo sem julgamento do mérito, nos termos do que dispõe o art. 267 do CPC, por entender que o Organismo Internacional possui imunidade de jurisdição absoluta. Recurso de revista conhecido e provido.”
+    O exame da presente causa evidencia que o recurso extraordinário em questão revela-se processualmente viável, eis que se insurge contra acórdão que decidiu a causa em desconformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria ora em exame.
+    Com efeito, a controvérsia jurídica objeto do apelo extremo já foi dirimida pelo Plenário do Supremo Tribunal Federal, que, ao julgar o RE 578.543/MT, Red. p/ o acórdão TEORI ZAVASCKI, fixou entendimento consubstanciado em acórdão assim ementado:
+    “DIREITO INTERNACIONAL PÚBLICO. DIREITO CONSTITUCIONAL. IMUNIDADE DE JURISDIÇÃO. ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). PROGRAMA DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO (ONU/PNUD). RECLAMAÇÃO TRABALHISTA. CONVENÇÃO SOBRE PRIVILÉGIOS E IMUNIDADES DAS NAÇÕES UNIDAS (DECRETO 27.784/1950). APLICAÇÃO.
+    1. Segundo estabelece a ‘Convenção sobre Privilégios e Imunidades das Nações Unidas’, promulgada no Brasil pelo Decreto 27.784, de 16 de fevereiro de 1950, ‘A Organização das Nações Unidas, seus bens e haveres, qualquer que seja seu detentor, gozarão de imunidade de jurisdição, salvo na medida em que a Organização a ela tiver renunciado em determinado caso. Fica, todavia, entendido que a renúncia não pode compreender medidas executivas’.
+    2. Esse preceito normativo, que no direito interno tem natureza equivalente a das leis ordinárias, aplica-se também às demandas de natureza trabalhista.
+    3. Recurso extraordinário provido.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em julgamentos proferidos no âmbito do Supremo Tribunal Federal (RE 599.076-AgR/MT, Rel. Min. RICARDO LEWANDOWSKI – RE 607.211/DF, Rel. Min. LUIZ FUX – RE 607.225/DF, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    O exame da presente causa evidencia que o acórdão questionado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo de instrumento, para, desde logo, conhecer e dar provimento ao recurso extraordinário (CPC, art. 544, § 4º, na redação anterior à Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 14 de setembro de 2015.
+Ministro CELSO DE MELLO
+Relator
