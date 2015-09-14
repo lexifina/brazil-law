@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “EMBARGOS INFRINGENTES – AÇÃO DE COBRANÇA – 1/3 DE FÉRIAS – SERVIDOR AFASTADO COMPULSORIAMENTE DO CARGO, ENQUANTO AGUARDA JULGAMENTO DE AÇÃO CRIMINAL – AQUISIÇÃO DO DIREITO DE FÉRIAS – IMPOSSIBILIDADE – FINALIDADE DO DESCANSO REMUNERADO – 1/3 DE FÉRIAS INDEVIDO. As férias representam um direito do servidor em atividade, de modo que aquele que se encontra afastado compulsoriamente fica naturalmente impedido de auferir este direito. Não havendo período aquisitivo, em razão do afastamento do servidor. Indevido é o pagamento do terço constitucional. ” (fl. 251)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, alega-se violação aos artigos 5º, LVII, e 37, XV, do texto constitucional.
+    Sustenta-se, em síntese, violação ao princípio da presunção de inocência e da irredutibilidade de vencimentos.
+    Ademais, esclarece-se que, após detida análise, verifico que a vinculação ao precedente indicado, tema 635, ARE-RG 721.001, está equivocada, tendo em vista que a matéria debatida nestes autos é diversa da controvérsia do paradigma citado, motivo pelo qual reconsidero a decisão de devolução (fls. 535) e, consequentemente, passo ao julgamento do recurso extraordinário com agravo.
+    Decido.
+    O recurso não merece prosperar.
+    Na espécie, o Tribunal de origem consignou que:
+    “(...) só se pode conceder o direito de férias àquele servidor em atividade. Do contrário, ou seja, afastado do desempenho de suas funções, não nasce para ele direito ao descanso remunerado e, por consequência, não lhe é devido o adicional de terço constitucional de férias.
+    O afastamento do serviço tem como consequência natural o impedimento do gozo de férias, inexistindo motivo razoável que justifique a um servidor afastado de suas atividades computar este mesmo período para aquisição de direito a descanso remunerado.” (fl. 254)
+    O acórdão recorrido, aduz, ainda, que o recorrente está vinculado ao Estatuto da Polícia Civil do Estado de Minas Gerais (Lei 5.406/69). Tal legislação tem como finalidade, entre outras, tratar sobre o direito de férias de seus servidores.
+    Assim, verifico que o Tribunal de origem decidiu a controvérsia dos autos em conformidade com a legislação infraconstitucional local aplicável ao caso, qual seja, o Estatuto da Polícia Civil do Estado de Minas Gerais – Lei 5.406/69.
+    Dessa forma, a pretensa ofensa constitucional, se tivesse ocorrido, seria reflexa ou indireta, o que inviabilizaria o processamento do recurso extraordinário, conforme disposto na súmula 280 desta Corte.
+    Nesse sentido, cito os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Gratificação de Incentivo à Eficientização do Serviço (GIEFS). Base de cálculo. Décimo terceiro salário e terço constitucional de férias. 4. Ofensa reflexa. Lei estadual n. 11.406/94. Súmula 280. 5. Agravo regimental a que se nega provimento.” (ARE 882.247 AgR/MG, de minha relatoria, Segunda Turma, Dje 24.8.2015)
+    “CONSTITUCIONAL. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. II - Agravo regimental improvido” (AI-AgR 710.491, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 17.4.2009).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 594.028-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 27.2.2009).
+    Ainda que assim não fosse, melhor sorte não assiste ao recorrente, pois o acórdão recorrido está em consonância com a jurisprudência pacificada desta Corte no sentido de que, após a Carta Magna de 1988, o pagamento do terço constitucional somente é devido após o período de doze meses trabalhados, período este que implementa o direito individual às férias. Nesse sentido:
+    "O direito individual às férias é adquirido após o período de doze meses trabalhados, sendo devido o pagamento do terço constitucional independente do exercício desse direito. [...]." (RE 570.908, Rel. Min. Cármen Lúcia, Plenário, DJE 12.3.2010)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 14 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
