@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo regimental cujo objeto é decisão monocrática, proferida pelo Ministro Joaquim Barbosa, Relator originário do feito, que negou seguimento ao recurso, por entender que incidem, no caso, as Súmulas 279 e 735/STF.
+    A parte agravante sustenta que “O Tribunal a quo adotou fundamento (o único constante da ementa do acórdão de fls. 534) e que consiste na afirmação de que ‘o direito de regresso previsto no art. 37, § 6º, da Constituição Federal não constitui obstáculo ao ajuizamento de ação indenizatória diretamente em face de pessoa jurídica de direito público e do seu agente causador do dano (como litisconsortes passivos facultativos), quando se imputa a este a prática de conduta dolosa ou culposa’. Ocorre que tal entendimento, cujo exame de constitucionalidade prescinde do reexame fático-probatório, está em confronto com a jurisprudência desse Pretório Excelso, conforme demonstrado no Recurso Extraordinário e reconhecido pelo Ministério Público Federal no parecer de fls. 563-565”.
+    Assiste razão à parte agravante.
+    Reconsidero a decisão de fls. 568/569 e passo à análise do recurso extraordinário.
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. RESPONSABILIDADE CIVIL. RESPONSABILIDADE OBJETIVA DO ESTADO E SUBJETIVA DO AGENTE CAUSADOR DE DANO. LITISCONSORCIO PASSIVO FACULTATIVO. POSSIBILIDADE. PEDIDO DE RECONSIDERAÇÃO. PERDA DE OBJETO.
+    1. O direito de regresso previsto no art. 37, § 6º, da Constituição Federal não constitui obstáculo ao ajuizamento da ação indenizatória diretamente em face de pessoas jurídica de direito público e do seu agente causador do dano (como litisconsortes passivos facultativos), quando se imputa a este a prática de conduta dolosa ou culposa. Precedentes.
+    2. Provido o agravo de instrumento, resta prejudicado o pedido de reconsideração do ato decisório lhe atribuiu efeito suspensivo.
+    3. Agravo provido. Pedido de reconsideração não conhecido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, § 6º da Constituição. Sustenta que “a Corte Suprema não admite o ajuizamento de ação indenizatória contra o agente público, porque este só responde, se for o caso, a pessoa jurídica a cujos quadros pertença, em ação regressiva”.
+    O Ministério Público Federal, em parecer de fls. 563/565, opina pelo conhecimento e provimento do recurso.
+    O recurso deve ser provido. Esta Corte, no julgamento do RE 327.904, Rel. Min. Ayres Britto, assentou que o art. 37, § 6º, da Constituição Federal consagra uma dupla garantia: uma, em favor do particular, que pode processar diretamente o Poder Público por danos decorrentes de atos ou omissões que seus agentes públicos causarem; e, outra, em favor do próprio agente público, que responderá somente perante a pessoa jurídica estatal a qual esteja vinculado. Veja-se a ementa do mencionado julgado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA DO ESTADO: § 6O DO ART. 37 DA MAGNA CARTA. ILEGITIMIDADE PASSIVA AD CAUSAM. AGENTE PÚBLICO (EX-PREFEITO). PRÁTICA DE ATO PRÓPRIO DA FUNÇÃO. DECRETO DE INTERVENÇÃO.
+    O § 6º do artigo 37 da Magna Carta autoriza a proposição de que somente as pessoas jurídicas de direito público, ou as pessoas jurídicas de direito privado que prestem serviços públicos, é que poderão responder, objetivamente, pela reparação de danos a terceiros. Isto por ato ou omissão dos respectivos agentes, agindo estes na qualidade de agentes públicos, e não como pessoas comuns.
+    Esse mesmo dispositivo constitucional consagra, ainda, dupla garantia: uma, em favor do particular, possibilitando-lhe ação indenizatória contra a pessoa jurídica de direito público, ou de direito privado que preste serviço público, dado que bem maior, praticamente certa, a possibilidade de pagamento do dano objetivamente sofrido. Outra garantia, no entanto, em prol do servidor estatal, que somente responde administrativa e civilmente perante a pessoa jurídica a cujo quadro funcional se vincular.
+    Recurso extraordinário a que se nega provimento’.
+    Dessa orientação divergiu o acórdão recorrido.
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 557, § 1º-A, do CPC e no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário para excluir a parte ora recorrente do polo passivo da presente lide. Invertido os ônus de sucumbência. Julgo prejudicado o agravo regimental.
+    Publique-se.
+          Brasília, 14 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
