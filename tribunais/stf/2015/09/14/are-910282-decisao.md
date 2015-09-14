@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR. DEMISSÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE LEI LOCAL: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça Militar de Minas Gerais:
+    “APELAÇÃO CÍVEL – REINTEGRAÇÃO ÀS FILEIRAS DA PMMG – ATIPICIDADE DA CONDUTA E OFENSA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE – INOCORRÊNCIA – MILITAR EM ESTÁGIO PROBATÓRIO – APRESENTAÇÃO DE ATESTADO MÉDICO FALSO À SAS – PRÁTICA REITERADA – DIVULGAÇÃO PELA IMPRESSA LOCAL – TRANSGRESSÃO DISCIPLINAR DE NATUREZA GRAVE (ART. 13, INCISO III, DO CEDM) PARA O QUAL O CÓDIGO DE ÉTICA E DISCIPLINA DOS MILITARES DO ESTADO DE MINAS GERAIS PREVÊ A POSSIBILIDADE DA APLICAÇÃO DA PENA DE DEMISSÃO – INTELIGÊNCIA DO ART. 24, INCISO VI – NEGADO PROVIMENTO AO RECURSO” (fl. 33, doc. 5).
+    2. No recurso extraordinário, o Agravante afirma ter o Tribunal de origem contrariado os arts. 3º, inc. III, 5º, caput e incs. XXXV e LV, e 37, caput, da Constituição da República.
+    Sustenta que sua conduta “não se enquadra em nenhum inciso dos art. 13, 14 e 15 do CEDM. O que demonstra a ilegalidade cometida em sede administrativa e que foi mantida na primeira e segunda instância” (fl. 24, doc. 6), asseverando que “um processo administrativo que segue normas de uma lei estadual e traz bem definido o rol de condutas puníveis não pode excluir militar em razão de conduta atípica, que não encontra amparo algum no Código de Ética e Disciplina Militar” (fl. 24, doc. 6).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência das Súmulas ns. 279, 280 e 636 do Supremo Tribunal Federal (fls. 51-52, doc. 6).
+    No agravo, salienta-se que “houve ofensa direta a dispositivo da Constituição” (fl. 79, doc. 6).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal de origem assentou:
+    “O detido exame dos elementos de prova constantes dos autos leva-nos à conclusão de que a impugnação não deve ser acolhida, conforme restará demonstrado.
+    Os patronos do apelante defendem a atipicidade da conduta imputada a ele sob a alegação de que não foi apresentado nos autos qualquer documento que comprove que houve conhecimento de terceiros a respeito do fato.
+    Entretanto, tal afirmativa não encontra elementos para sustentá-la, uma vez que os fatos que deram ensejo à instauração do PADS foram notificados nos jornais ‘JM Online’, do dia 26/07/2009, e ‘Jornal da Manhã’, do dia 27/07/2009, conforme se verifica nos documentos colacionados às fls. 75 e 76.
+    (...)
+    Ademais, mesmo se não tivesse havido a publicação de tais notícias, a transgressão disciplinar imputada ao ex-militar restaria caracterizada, uma vez que houve repercussão na Corporação, fato que, por si só, já autorizaria o enquadramento na transgressão disciplinar prevista no inciso III do artigo 13 do CEDM. Assim, diante da divulgação quanto ao público externo, pela veiculação da notícia por jornais locais, não há que se falar em atipicidade.
+    Melhor sorte não assiste ao apelante em relação de que houve inobservância dos princípios da proporcionalidade e da razoabilidade, quando da imposição da pena de demissão.
+    O ato praticado pelo apelante é tipificado como transgressão disciplinar de natureza grave (art. 13, inciso III, do CEDM) para o qual o Código de Ética e Disciplina dos Militares do Estado de Minas Gerais (Lei n. 14.310/2002) prevê a possibilidade da aplicação da pena de demissão – inteligência do art. 24, inciso VI“ (fls. 36-37, doc. 5).
+    A pretensão recursal do Agravante demandaria a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, como se tem na Súmula n. 279 do Supremo Tribunal Federal.
+    A apreciação do pleito recursal imporia, ainda, a interpretação da legislação local aplicável à espécie (Lei estadual n. 14.310/2002). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidência da Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR. DEMISSÃO. REEXAME DE PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULAS NS. 280 E 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA AFRONTA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DO CONTRADITÓRIO: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 815.126-AgR, de minha relatoria, Segunda Turma, DJe 7.8.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR. DEMISSÃO. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA AFRONTA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DO CONTRADITÓRIO: NECESSIDADE DO REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 731.030-AgR, de minha relatória, Segunda Turma, DJe 13.5.2013).
+    7. Ressalte-se que a alegada contrariedade ao princípio da legalidade, quando depende de análise prévia de legislação infraconstitucional, esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, pela qual se dispõe não caber “recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de setembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
