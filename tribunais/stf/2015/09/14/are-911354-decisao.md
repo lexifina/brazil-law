@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 2ª Turma Recursal do Rio Grande do Sul, a qual reformou a sentença para determinar o pagamento dos valores devidos entre a data de início da aposentadoria por tempo de contribuição concedida judicialmente e a data de início do benefício por incapacidade deferido administrativamente, reputado mais vantajoso.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º; caput, e XXXVI, 40, 97, 194, 195 e 201, § 1º, do Texto Constitucional.
+    Alega-se, em suma, que se trata de controvérsia referente à desaposentação, ainda pendente de julgamento no RE-RG 661.256.
+    A Presidência da 2ª Turma Recursal do Rio Grande do Sul inadmitiu o recurso com base na Súmula 284.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, observa-se que a petição de agravo deixou de impugnar o fundamento da decisão de inadmissibilidade do extraordinário, limitando-se a tratar da inconstitucionalidade do instituto da desaposentação. Sendo assim, torna-se inviável a cognição do agravo, nos termos da Súmula 287 do STF.
+    Confiram-se, a propósito, os seguintes julgados:
+    “PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. REAJUSTE PREVIDENCIÁRIO. MATÉRIA INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA STF 287. FUNDAMENTO NÃO ATACADO: SÚMULA STF 283. 1. O Supremo Tribunal Federal consolidou o entendimento no sentido de que é infraconstitucional a questão relativa aos índices de reajuste dos benefícios previdenciários. 2. A decisão recorrida fundamentou-se, também, na Súmula STF 287, argumento não atacado pelo ora agravante. Incide, na espécie, a Súmula STF 283. 3. Agravo regimental a que se nega provimento.”
+(AI 780087 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 08.02.2011)
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO CONVERTIDOS EM AGRAVO REGIMENTAL. PREVIDENCIÁRIO. NÃO IMPUGNAÇÃO DA DECISÃO AGRAVADA. SUMULA 287 DO STF. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL 1. O agravo regimental é inadmissível quando não impugna a decisão agravada, limitando-se a reprisar os argumentos do recurso originário indeferido. 2. A ausência de impugnação da decisão agravada, conduz à inadmissão do recurso extraordinário, Súmula 287 do STF. Precedentes: AI n. 835.505AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16.08.2011 e RE n. 572.676-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 17.05.2011. 3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimentos de dispositivos infraconstitucionais torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 4. O direito adquirido, o ato jurídico perfeito e a coisa julgada, quando objeto de verificação de cada caso concreto acerca da ocorrência ou não de violação, não desafiam a instância extraordinária, posto implicar análise de matéria infraconstitucional. Precedentes: AI 700.685-AgR, Segunda Turma, Relator Ministro Eros Grau, DJe 23.02.2008 e AI 635.789-AgR, Primeira Turma, Relator Ministro Dias Toffoli, DJe de 27.04.2011. 5. Agravo regimental a que se nega provimento.”
+(AI 842064 ED, Rel. Min. LUIZ FUX, Primeira Turma, DJe 20.10.2011)
+    Ante o exposto, não conheço do presente agravo, nos termos dos arts. 544, § 4º, I, do CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 14 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
