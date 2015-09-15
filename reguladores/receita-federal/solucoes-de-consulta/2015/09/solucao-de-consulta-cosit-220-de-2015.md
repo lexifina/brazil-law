@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 220, de 27 de agosto de 2015
+ASSUNTO: SIMPLES NACIONAL EMENTA: SIMPLES NACIONAL. RECEITA BRUTA. LICITAÇÃO. CONCURSO. CONTRATO ADMINISTRATIVO. PRESTAÇÃO DE SERVIÇOS. As receitas auferidas por pessoa jurídica optante pelo Simples Nacional, em decorrência da contratação para a prestação de serviços, relativa à premiação em concurso (procedimento licitatório), enquadram-se no conceito de produto da venda de bens e serviços, razão pela qual estão sujeitas à incidência de tributos no âmbito da sistemática do Simples Nacional. DISPOSITIVOS LEGAIS: Arts. 3º e 18 da Lei Complementar nº 123, de 2006; e arts. 16 e 25-A da Resolução CGSN nº 94, de 2011.
+[arquivo anexo: SC Cosit nº 220-2015.pdf]
