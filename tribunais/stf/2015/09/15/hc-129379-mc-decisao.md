@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão monocrática que, proferida por eminente Ministra de Tribunal Superior da União em sede de idêntica ação ainda em curso no Superior Tribunal de Justiça (HC 329.033/RS), denegou medida liminar que lhe havia sido requerida em favor do paciente Rafael Lucas da Silva Marques.
+    Busca-se, em sede cautelar, “(...) a revogação da prisão preventiva imposta ao paciente até o julgamento final deste 'writ', ou, subsidiariamente, a aplicação de medida cautelar diversa”.
+    Sendo esse o contexto, passo a apreciar a admissibilidade, na espécie, da presente ação. E, ao fazê-lo, devo observar que este “writ” não veio instruído com a cópia da decisão proferida pelo E. Superior Tribunal de Justiça, ora questionada nesta sede processual.
+    Como se sabe, incumbe ao impetrante o ônus processual de produzir elementos documentais consistentes e pré-constituídos destinados a comprovar as alegações veiculadas no “writ” constitucional.
+    A própria jurisprudência do Supremo Tribunal Federal entende que o “habeas corpus”, cujo rito é sumaríssimo, não comporta, em função de sua natureza processual, maior dilação probatória, eis que se impõe ao impetrante, como indeclinável obrigação de caráter jurídico, subsidiar, com elementos documentais pré-constituídos, o conhecimento da causa pelo Poder Judiciário.
+    A utilização adequada do remédio constitucional do “habeas corpus” exige, em consequência, seja ele instruído, ordinariamente, com documentos suficientes e necessários à análise da pretensão de direito deduzida em tal sede processual, consoante acentua o magistério doutrinário (JOÃO ROBERTO PARIZATTO, “Do Habeas Corpus”, p. 168, 1991, Aide, v.g.).
+    Registro, bem por isso, que, não obstante regularmente intimada, a parte impetrante não atendeu à determinação constante do despacho por mim exarado (DJe nº 156/2015), pois não produziu, nos autos, desde logo, cópia da decisão proferida pelo E. Superior Tribunal de Justiça, cuja imprescindibilidade evidencia-se pelo fato de possibilitar o exame do alegado constrangimento ilegal suportado pelo ora paciente.
+    Sendo assim, e pelas razões expostas, não conheço da presente ação de “habeas corpus”, restando prejudicado, em consequência, o exame do pedido de medida liminar.
+    Publique-se.
+    Brasília, 15 de setembro de 2015.
+Ministro CELSO DE MELLO
+Relator
