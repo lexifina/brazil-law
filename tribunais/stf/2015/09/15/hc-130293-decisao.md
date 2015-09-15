@@ -1,0 +1,24 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra despacho do Superior Tribunal de Justiça, in verbis:
+    “O Ministério Público Federal requer à fl. 400/404 que: a) se junte o Expediente Avulso n. 01/2015 (Petição 122990/2015); b) desmembre-se a presente investigação, com o envio de cópia dos autos ao Tribunal de Justiça do Estado do Tocantins, para que sejam investigados os sindicados que não detém prerrogativa de foro perante este Superior Tribunal de Justiça; c) o compartilhamento das provas atinentes a Amado Cilton Rosa, constantes do Apenso 4 da Ação Penal n. 690/TO, que corre também neste STJ; e d) expedição de ofício à Receita Federal para que informe a existência de procedimentos administrativos fiscais em face de Amado Cilton Rosa, relativos aos anos de 2002 e 2003.
+    Em relação ao item ‘a’, o EA já está juntado à fl. 379.
+    Já em relação ao item ‘b’, reiterando o que foi dito no despacho de fl. 339, seria conveniente que o MPF, antes de apreciar tal requerimento, apontasse concretamente qual o objeto a ser apurado nesta sindicância.
+    Em relação ao item ‘c’, o Apenso 4, que espelha alguns dados bancários de LIBERATO PÓVOA e CARLOS DE SOUZA – e nada a respeito de AMADO CILTON ROSA – do ano de 2007, não vejo problema no compartilhamento requerido, não fosse a total inutilidade de tais dados para fatos apurados nesta Sindicância que, se existiram, deram-se no ano de 2002/2003, sendo que as partes do processo sob suspeita se compuseram em 13.4.2006.
+    Quanto ao item ‘d’, o Ministério Público pode, ele próprio, conforme o art. 129, VI da CF, art. 8º, II, da LC n. 75/1993, oficiar à Receita Federal para se informar sobre a existência de procedimentos fiscais contra AMADO CILTON ROSA relativos aos anos de 2002 e 2003, embora, data venia não se perceba qual o propósito específico em se obter tal informação.
+    Assim, dê-se vista ao Ministério Público para que oficie de modo conclusivo, em 30 dias.
+    Depreende-se da inicial que o paciente figura nos autos da Sindicância n. 121/TO, em trâmite no Superior Tribunal de Justiça, como supostamente investigado pelo crime de corrupção passiva consumado entre os anos de 2002 e 2003.
+    O impetrante afirma que o paciente, ex-Desembargador do Tribunal de Justiça do Estado do Tocantins, perdeu a prerrogativa de foro no Superior Tribunal de Justiça em razão da aposentadoria compulsória, conforme ato publicado no Diário da Justiça.
+    Alega ter requerido ao relator a análise da ocorrência da prescrição, “pronunciando-se acerca da sua declaração e, consequentemente, determinando o arquivamento dos autos; subsidiariamente, seja determinada a remessa dos autos para o primeiro grau de jurisdição, mediante o desmembramento do processo, se for o caso; ou, vista/cópia digitalizada dos autos, para as providências que o caso reclama”.
+    Sustenta que, não obstante ter obtido manifestação favorável do Ministério Público, no sentido de que os autos fossem devolvidos ao Tribunal de Justiça do Estado do Tocantins, em razão da superveniente perda da prerrogativa de foro, a providência não foi efetivada.
+    Argumenta com a prescrição da pretensão punitiva do crime de corrupção passiva, que teria ocorrido em 3 de setembro de 2014, em relação ao paciente e a todos os envolvidos, ex vi do art. 580 do CPP.
+    Requer a concessão de liminar, inaudita altera parte, para determinar o sobrestamento da Sindicância n. 121/TO, em relação a todos os investigados ou, subsidiariamente, em relação ao paciente, até o julgamento definitivo do writ, e, no mérito, a concessão definitiva da ordem para determinar o trancamento do mencionado feito, em razão da prescrição, devendo a decisão ser estendida aos demais sindicados por força do disposto no art. 580 do CPP. Requer, ainda, alternativamente, o desmembramento do processo em relação ao paciente e a consequente remessa de cópia para o juízo de primeiro grau da Comarca de Palmas/TO.
+    É o relatório, em síntese.
+    DECIDO.
+    O Relator sequer examinou os pedidos do Ministério Público, entre os quais se insere a manifestação pelo desmembramento da Sindicância em relação ao paciente, e tampouco a alegada prescrição.
+    O ato impugnado não veicula decisão passível de sindicância nesta Corte, porquanto se trata de mero despacho a implicar que eventual constrangimento ilegal decorrerá, se for o caso, de superveniente decisão a ser proferida após a manifestação conclusiva do Ministério Público Federal, que, se encampada pelo colegiado, vier a indeferir o desmembramento do feito ou a alegada prescrição.
+    Ex positis, NEGO SEGUIMENTO ao writ, com fundamento no artigo 38 da Lei n. 8.038/90, restando prejudicada a análise do pedido de liminar.
+    Dê-se ciência ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 15 de setembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
