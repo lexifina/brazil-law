@@ -1,0 +1,16 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão da 1ª Turma Recursal da Seção Judiciária do Estado de Santa Catarina, a qual entendeu que os períodos em que a parte autora usufruiu do benefício por incapacidade intercalados com atividade laborativa devem ser computados para fins de carência (eDOC 109).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação do artigo 5º, caput e XXXVI, 97; 195, § 5º; 201, caput e § 1º, do texto constitucional (eDOC 132).
+    Alega-se que o acórdão recorrido concedeu benefício previdenciário sem a prévia fonte de custeio total, bem como considerou como carência o período em gozo de auxílio-doença, sem que tenha ocorrido o recolhimento da contribuição pelo segurado.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Observo que o entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito desta Corte no sentido de que a contagem de tempo ficto previsto no art. 29, § 5º, da Lei 8.213/1991 para fins de concessão de aposentadoria aplica-se nos estritos casos em que se comprove ter sido precedida de auxílio-doença intercalado com atividade laborativa, tal como se tem no caso em exame.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Revisão. Renda mensal inicial. Prequestionamento. Ausência. Auxílio-doença transformado em aposentadoria por invalidez. Aplicação do art. 29, § 5º, da Lei nº 8.213/91 somente nos casos em que o auxílio-doença tenha sido intercalado por períodos de trabalho. Repercussão Geral reconhecida. Mérito julgado. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. O Plenário desta Corte, no exame do RE nº 583.834/SC, Relator o Ministro Ayres Britto, reconheceu a repercussão geral da matéria e, no mérito, consignou i) que o art. 29, § 5º, da Lei nº 8.213/91 somente se aplica se, no período anterior à concessão da aposentadoria por invalidez, o beneficiário houver intercalado o gozo de auxílio-doença com períodos trabalhados, e ii) que o art. 36, § 7º, do Decreto nº 3.048/99 não teria extrapolado os limites da competência regulamentar. 3. Agravo regimental não provido”. (ARE 776148 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 31.3.2014)
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PREVIDENCIÁRIO. REVISÃO DE RENDA MENSAL INICIAL. ART. 29, § 5º, DA LEI N. 8.213/1991: APLICAÇÃO RESTRITA À APOSENTADORIA PRECEDIDA DE AUXÍLIO-DOENÇA INTERCALADO COM ATIVIDADE LABORATIVA. PRECEDENTE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 757439 ED, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 10.12.2013)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 16 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
