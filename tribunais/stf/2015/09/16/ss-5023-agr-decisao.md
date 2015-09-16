@@ -1,0 +1,24 @@
+Trata-se de agravo regimental interposto da decisão que deferiu o pedido de contracautela para suspender a execução da decisão proferida nos autos do Mandado de Segurança Coletivo 0008152-24.2013.8.26.0053.
+    A agravante sustenta, em síntese, tratar-se de matéria de direito local, aplicando-se ao caso o julgamento do RE 610.290/MS, requerendo, ao final, a reconsideração da decisão monocrática e, caso não seja este o entendimento, seja o recurso submetido à apreciação do Plenário.
+    O Ministério Público Federal, em parecer da lavra do Procurador-Geral da República, Roberto Monteiro Gurgel Santos, opinou pelo provimento do agravo regimental, cuja ementa transcrevo:
+    “SUSPENSÃO DE SEGURANÇA. AGRAVO REGIMENTAL. PENSÕES CONCEDIDAS SOB O REGIME PRÓPRIO ESTADUAL EM HIPÓTESES DISTINTAS DAS PREVISTAS NO REGIME GERAL. MATÉRIA INFRACONSTITUCIONAL. INCOMPETÊNCIA. NÃO CONHECIMENTO. VEDAÇÃO. EXECUÇÃO PROVISÓRIA. RESTABELECIMENTO DE SITUAÇÃO ANTERIOR POR DECISÃO JUDICIAL. INAPLICABILIDADE. PROVIMENTO DO RECURSO.
+    1 - Não sendo as alegações em que se funda a pretensão recursal da requerente cognoscíveis em sede de recurso extraordinário na ação mandamental originária, essa Suprema Corte é incompetente para apreciar o pedido de suspensão.
+    2 – A vedação à execução provisória em sede de mandado de segurança que decorre da interpretação conjugada dos arts. 7º, § 2º, e 14, § 3º, ambos da Lei 12.016/2009, não se aplica aos casos em que, nos autos do writ, for proferida decisão que determina apenas o restabelecimento de situação remuneratória anterior alterada pelo Estado em âmbito administrativo.
+    3 – Parecer pelo provimento do recurso” (pág. 1 do documento eletrônico 33).
+    É o relatório.
+    Bem examinados os autos, entendo que a pretensão da agravante merece acolhida.
+    Da análise dos autos verifico que o acórdão proferido pelo Tribunal de Justiça paulista restou assim ementado:
+    “Apelações Cíveis Reexame Necessário - Mandado de Segurança
+    – Pensão por morte concedida às filhas solteiras de ex-policiais militares Cancelamento do benefício com base na Lei Federal nº 9.717/98 – Decisão que concedeu parcialmente o pedido apenas e tão somente as associadas da impetrante que tiveram o beneficio deferido há mais de dez anos a contar do ato administrativo que os revogou Pensão que foi concedida na forma da lei vigente à data do óbito do servidor Inteligência da Súmula nº 340 do STJ – Lei Estadual nº 1.013/07 que revogou este benefício somente aos 06.07.2007 – Precedentes desta Colenda Corte de Justiça – Sentença parcialmente reformada. Julgamento anterior anulado conforme v. acórdão de fls. 636/639.
+    Recurso das impetrantes e reexame necessário providos, e improvido o recurso do impetrado” (pág. 8 do documento eletrônico 12).
+    O pedido contracautela, por seu turno, está embasado na possibilidade do poder-dever de autotutela do Estado diante da constatação de vício de legalidade de um ato de sua autoria, na vedação à execução provisória da decisão proferida e na proibição de concessão de benefícios, pelos regimes previdenciários próprios estaduais, em desacordo com o Regime Geral de Previdência Social.
+    Como bem apontou o Procurador-Geral da República, a possibilidade de invalidação dos atos administrativos ilegais pela Administração Pública, no presente caso, decorre diretamente do disposto no art. 10 da Lei Estadual 10.177/1998, existindo questão constitucional indireta (art. 37, caput, da Constituição Federal).
+    Em relação ao segundo argumento que norteia o pedido de suspensão, este não mantém relação direta com o tema abarcado no RE 594.296/MG, sob a sistemática de repercussão geral, pois sustenta o requerente o exercício do poder-dever de autotutela em si.
+    Finalmente, destaco que, no presente caso, não está em discussão a expedição de precatórios, não se aplicando a tese da repercussão geral apontada pelo agravado.
+    Ademais, a jurisprudência do Supremo Tribunal Federal sobre lei previdenciária estadual, que institui à filha solteira o benefício de pensão, é vasta pelo não conhecimento de recursos extraordinários interpostos. Nesse sentido, confiram-se: ARE 720.465-AgR/RJ, de minha relatoria; ARE 758.379-AgR/BA, Rel. Min. Cármen Lúcia; e AI 703.855-AgR/RS, Rel. Min. Roberto Barroso.
+    Ademais, conforme determina o art. 15 da Lei 12.016/2009, no âmbito de contracautela, somente é possível o pronunciamento do Supremo Tribunal Federal quando a ele couber o conhecimento do respectivo recurso, razão pela qual há de ser revisto o posicionamento firmado na decisão anteriormente proferida, para que se negue seguimento à contracautela.
+    Isso posto, no exercício do juízo de retratação, ínsito a todo agravo regimental, reconsidero a decisão ora recorrida, negando seguimento ao pedido de suspensão.
+    Publique-se.
+    Brasília, 16 de setembro de 2015.
+Ministro Ricardo Lewandowski
+Presidente
