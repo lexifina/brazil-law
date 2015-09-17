@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 114):
+    “Mandado de segurança - anulação de ato administrativo - autoridade coatora - legitimidade passiva -aposentadoria - concessão - mais de cinco anos - decadência - ocorrência - TCEMG - Enunciado 105 - aplicabilidade - impossibilidade de anulação do ato - segurança concedida.
+    1 - Rejeita-se a preliminar de ilegitimidade passiva quando o mandado de segurança é dirigido contra autoridade com atribuição para praticar o ato (instauração de processo administrativo) que ameaça lesão ao direito da impetrante, bem como que viola direito (supressão de aposentadoria).
+    2 - O prazo decadencial para anular ato administrativo, que concedeu aposentadoria, no ano de 2004, é de cinco anos,nos termos do art. 65, da Lei Estadual 14.184, de 2002. Ocorrida a anulação do ato somente em 2013, inafastável a decadência.
+    3 - Nos termos do Enunciado 105 da Súmula do Tribunal de Contas do Estado, "Nas aposentadorias, reformas e pensões concedidas há mais de cinco anos, bem como nas admissões ocorridas em igual prazo, contado a partir da entrada do servidor em exercício, o Tribunal de Contas determinará o registro dos atos que a Administração já não puder anular, salvo comprovada má-fé".”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao arts. 5º, XXXVI; e 71, III, da Constituição.
+    O recurso deve ser provido. Isso porque o acórdão recorrido não está alinhado à jurisprudência do Supremo Tribunal Federal, firmada no sentido de que a aposentadoria é ato administrativo complexo, que somente se aperfeiçoa ao passar pelo crivo do Tribunal de Contas competente para tal. Deste modo, o prazo decadencial previsto na Lei nº 9.784/1999 somente passa a correr com a publicação do ato de aposentadoria, aperfeiçoado pela atuação da corte de contas. Em situação análoga a dos autos, confira-se a ementa do RE 847.854-AgR, julgado sob a relatoria do Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. ATO COMPLEXO. CONTROLE EXTERNO PELO TRIBUNAL DE CONTAS. INAPLICABILIDADE DA DECADÊNCIA PREVISTA NO ART. 54 DA LEI N. 9.784/1999. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Essa foi, precisamente, a conclusão a que chegou o voto vencido no Tribunal de origem, de lavra da Desembargadora Hilda Maria Pôrto de Paula Teixeira da Costa, assim ementado (fls. 114):
+    “mandado de segurança - aposentadoria - revisão pela Administração Pública - aposentadoria - ato complexo - registro Tribunal de Contas - condição resolutiva - decadência - não configurada.
+    O ato de aposentadoria configura ato administrativo complexo, aperfeiçoando-se somente com o registro perante o Tribunal de Contas. Submetido à condição resolutiva, não se operam os efeitos da decadência antes da vontade final da Administração Pública, manifestada através do registro do ato no Tribunal de Contas.”
+    Diante do exposto, com base no art. 557, § 1º-A, do CPC e no art. 21, § 2º do RI/STF, dou provimento ao recurso extraordinário, a fim de denegar a segurança. Invertidos os ônus da sucumbência e sem condenação em honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+          Brasília, 17 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
