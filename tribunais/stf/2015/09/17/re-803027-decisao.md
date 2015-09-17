@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. REAJUSTE DE 28,86%. FALECIMENTO DO SUBSTITUÍDO. SUCESSORES. ILEGITIMIDADE DO SINDICATO.
+    Não sendo os sucessores do instituidor da pensão filiados ao sindicato, este não tem legitimidade processual para substituir aqueles em juízo. Precedente: AC 374001/RN, Rel. Desembargador Federal Francisco Wildo, decisão unânime, DJ de 15/02/2006 – p. 788 – n 33 – ano 2006.
+    Apelação a que se nega provimento”. (fls. 68)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 8º, inciso III, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que a legitimidade processual dada ao sindicatos “seria a mais abrangente possível e que não haveria limitação alguma, muito menos a do tipo, que quis impor o julgado vergastado”, que concluiu não poder o sindicato representar os sucessores do instituidor da pensão.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O Supremo Tribunal Federal no julgamento do RE 193.503/SP, redator para o acórdão, o Min. Joaquim Barbosa, concluiu pela legitimidade dos sindicatos para defesa dos interesses e direitos coletivos ou individuais dos integrantes da categoria representada. Veja-se a ementa do referido acórdão:
+    “EMENTA: PROCESSO CIVIL. SINDICATO. ART. 8º, III DA CONSTITUIÇÃO FEDERAL. LEGITIMIDADE. SUBSTITUIÇÃO PROCESSUAL. DEFESA DE DIREITOS E INTERESSES COLETIVOS OU INDIVIDUAIS. RECURSO CONHECIDO E PROVIDO. O artigo 8º, III da Constituição Federal estabelece a legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam. Essa legitimidade extraordinária é ampla, abrangendo a liquidação e a execução d os créditos reconhecidos aos trabalhadores. Por se tratar de típica hipótese de substituição processual, é desnecessária qualquer autorização dos substituídos. Recurso conhecido e provido”. (DJe 23.8.2007; grifou-se)
+    Colaciono, ainda, acerca da questão, trecho noticiado no Informativo 431 do STF:
+          “Concluído julgamento de uma série de recursos extraordinários nos quais se discutia sobre o âmbito de incidência do inciso III do art. 8º da CF/88 ("ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais e administrativas;") - v. Informativos 84, 88, 330 e 409. O Tribunal, por maioria, na linha da orientação fixada no MI 347/SC (DJU de 8.4.94), no RE 202063/PR (DJU de 10.10.97) e no AI 153148 AgR/PR (DJU de 17.11.95), conheceu dos recursos e lhes deu provimento para reconhecer que o referido dispositivo assegura ampla legitimidade ativa ad causam dos sindicatos como substitutos processuais das categorias que representam na defesa de direitos e interesses coletivos ou individuais de seus integrantes. Vencidos, em parte, os Ministros Nelson Jobim, Cezar Peluso, Eros Grau, Gilmar Mendes e Ellen Gracie, que conheciam dos recursos e lhes davam parcial provimento, para restringir a legitimação do sindicato como substituto processual às hipóteses em que atuasse na defesa de direitos e interesses coletivos e individuais homogêneos de origem comum da categoria, mas apenas nos processos de conhecimento, asseverando que, para a liquidação e a execução da sentença prolatada nesses processos, a legitimação só seria possível mediante representação processual, com expressa autorização do trabalhador”. (Grifou-se)
+    Ante o exposto, em razão da sintonia do acórdão recorrido com a jurisprudência desta Corte, nego seguimento ao recurso (art. 557, caput, do CPC).
+    Publique-se.
+    Brasília, 17 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
