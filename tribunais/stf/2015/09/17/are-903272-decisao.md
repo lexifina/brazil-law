@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão de Tribunal de Justiça Estadual, assim ementado:
+    “DECLARATORIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA TRIBUTÁRIA - ICMS - VENDAS COM CARTÃO DE CRÉDITO - INCIDÊNCIA SOBRE O VALOR DA MERCADORIA INCLUINDO TAXA DE ADMINISTRAÇÃO COBRADA PELA ADMINISTRADORA DO CARTÃO - ILEGITIMIDADE DA AUTORA, CONTRIBUINTE DE DIREITO DO IMPOSTO, PARA PLEITEAR A DECLARAÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA OU RESTITUIÇÃO DO INDÉBITO - ÔNUS ECONÔMICO SUPORTADO PELO CONTRIBUINTE DE FATO - EXEGESE DO ARTIGO 166, DO CTN E DA SÚMULA 546, DO STF l PROCESSO EXTINTO SEM JULGAMENTO DO MÉRITO, NOS TERMOS DO ARTIGO 267, VI, DO CÓDIGO ÀE PROCESSO CIVIL.” (eDOC. 2, p. 70-78)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao artigo 153, V; 155, II; e, 156, III, do Texto Constitucional.
+    Nas razões recursais, sustenta-se que a incidência do ICMS sobre a venda de mercadorias mediante o adicionamento do valor da parcela referente à taxa de administração de cartão de crédito e débito é inconstitucional.
+    A Presidência do TJSP inadmitiu o recurso extraordinário, sob os argumentos seguintes: (i) ausência de maltrato à norma constitucional ; e, (ii) ofensa reflexa à Constituição.
+    Decido.
+    As razões recursais não merecem prosperar.
+    De plano, verifica-se que o Tribunal de origem assim assentou a questão:
+    “No caso em tela, a autora não demonstrou ter sofrido qualquer prejuízo com a operação de modo que eventual procedência da ação acarretaria apenas maior lucro à empresa e não ressarcimento de prejuízo, como seria o esperado.” (eDOC. 2, p. 78)
+    Assim, constata-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. MERCADORIAS DADAS A TÍTULO DE BONIFICAÇÃO. NÃO-INCIDÊNCIA DE ICMS. INTERPRETAÇÃO CTN, ART. 166. DEBATE INFRACONSTITUCIONAL. INVIABILIDADE DA VIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 10.9.2013. O Superior Tribunal de Justiça assentou, com apoio na interpretação de preceitos infraconstitucionais (notadamente o art. 166 do CTN), a desnecessidade de comprovação da não repercussão do tributo indireto ao contribuinte de fato, nas mercadorias concedidas em bonificação, para não ocorrência de tributação na saída destes produtos. Abarcou esse entendimento alegando que é a própria empresa que arca com o valor da mercadoria dada em bonificação e seus respectivos impostos. Fixadas tais balizas, observa-se que a suposta afronta aos postulados constitucionais invocados só poderia ser constatada a partir do exame da legislação infraconstitucional examinada pela Corte de origem. Eventual ofensa oblíqua ou reflexa de dispositivos constitucionais não viabiliza o trânsito de recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido.”
+(ARE 798207 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 30.09.2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Legitimidade. Contribuinte 3. ICMS. 4. Matéria infraconstitucional 5. Incidem na espécie os enunciados 279 e 636 da Súmula do Supremo Tribunal Federal. 5. Agravo regimental não provido.”
+(ARE 815184 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 15.09.2014)
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de entendimento. O instituto visa o cotejo indispensável a que se diga enquadrado o recurso extraordinário no permissivo constitucional. MULTA – AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL. Surgindo do exame do agravo o caráter manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil.”
+(RE 601161 AgR, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe 11.09.2014)
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 17 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
