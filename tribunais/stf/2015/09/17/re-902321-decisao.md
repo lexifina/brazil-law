@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão da Quinta Turma Recursal dos Juizados Especiais Federais da Terceira Região, que confirmou a sentença, aos seguintes fundamentos (eDOC 35, pp. 3 e 4):
+    “O disposto no artigo 14 da Emenda Constitucional nº 20/1998 e no artigo 5º da Emenda Constitucional nº 41/2003 alcançam também os benefícios concedidos anteriormente à elevação do teto, mas desde que na data de início tenham ficado limitados ao teto que vigorava à época, uma vez que havia previsão legal para sua reposição, conforme dispõe o artigo 26 da Lei nº 8.870/1994 (aplicável aos benefícios concedidos entre 05/04/1991 e 31/12/1993) e o artigo 21 da Lei nº 8.880/1994 c/c o artigo 35, § 2º, do Decreto nº 3.048/1999 (aplicável aos benefícios concedidos a partir de 1994).
+    Como a reposição o percentual que excedeu ao teto vigente na data da concessão do benefícios somente passou a ser revista a partir da edição da Lei nº 8.870/1944 (artigo 26), entendo que a aplicação dos novos tetos estabelecidos pelas Emendas Constitucionais nº 20/98 e 41/2003, na forma decidida pelo Supremo Tribunal Federal (RE 564.354/SE), é devida apenas aos benefícios concedidos a partir de 05/04/1991.
+    No presente caso, considerando-se que a data do benefício é anterior a 05/04/1991, não haverá direito a qualquer recomposição dos resíduos extirpados por ocasião da apuração do salário-de-benefício.”
+    No recurso extraordinário, com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se ofensa ao artigo 201, do Texto Constitucional, bem como o artigo 14 da Emenda Constitucional 20/98 e artigo 5º da Emenda Constitucional 41/03.
+    Nas razões recursais, alega a necessidade de ser levada em consideração, para a revisão do benefício, a Constituição Federal e o regime contributivo por ela adotado, observando-se “os equilíbrios financeiro e atuarial” e não uma legislação existente a partir de 1991.
+    É o relatório. Decido.
+    Inicialmente, verifico que a controvérsia dos autos diverge do que decidido no RE-RG 564.354, Rel. Min. Cármen Lúcia, DJe 15.02.2011.
+    No julgamento do citado paradigma, o Plenário reconheceu a repercussão do tema e, no mérito, concluiu que não viola a Constituição Federal a aplicação imediata aos benefícios, em manutenção dos novos tetos dos benefícios do Regime Geral de Previdência Social, alterados pelas Emendas Constitucionais 20/98 e 41/03.
+    No caso dos autos, o recorrente pleiteia um novo cálculo de sua renda mensal inicial com fundamento na Lei 8.870/94 e, em seguida, a incidência dos tetos das EC 20/98 e 41/03.
+    Logo, constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação infraconstitucional, aplicável à espécie (Lei 8.870/91), o que inviabiliza o processamento do apelo extremo.
+    Nesse sentido, entendeu a Primeira Turma, no julgamento do ARE 754.151-AgR, Rel. Min. Dias Toffoli, cujo voto transcrevo:
+    “Conclui-se, de tudo quanto exposto, que, no processo paradigma citado, se estabeleceu apenas o afastamento do limitador pretérito em benefício dos novos tetos, sem modificação das regras utilizadas à época da concessão do benefício.
+    No caso dos autos, pretende o agravante, com fundamento na Lei nº 8.870/94, o recálculo da renda mensal inicial e, sucessivamente, a incidência dos tetos das EC nº 20/98 e nº 41/03. Consiste, portanto, o direito à revisão de verdadeira prejudicial em relação à aplicação ou não do quanto decidido no RE nº 564.354/SE, sendo que o pleito revisional foi negado pelo Tribunal Regional da 4ª Região no julgamento da apelação. Anote-se, ainda, que no processo paradigma da repercussão geral não se discutiu qualquer direito à revisão de benefício.
+    É certo, também, que, consoante expresso na decisão agravada, o reconhecimento ou não do direito do agravante à revisão da renda mensal inicial de seu benefício não prescinde da análise da Lei nº 8.870/94, a qual é inadmissível em recurso extraordinário, uma vez que a ofensa à Constituição Federal, caso ocorresse, seria indireta. Incide, mutatis mutandis, a orientação da Súmula nº 636/STF.”
+    Cito, ainda, as seguintes decisões: AI 856.795, Rel. Min. Rosa Weber, DJe 19.08.2014; RE 749.691, Rel. Min. Cármen Lúcia, DJe 31.05.2013.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF, e 557 do CPC.
+    Publique-se.
+    Brasília, 17 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
