@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PRESCRIÇÃO. RÉU QUE COMPLETOU 70 ANOS APÓS A SENTENÇA CONDENATÓRIA. ART. 115 DO CÓDIGO PENAL. REDUÇÃO DO PRAZO PRESCRICIONAL PELA METADE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+    I. Acórdão proferido pelo Tribunal a quo em consonância com o firme entendimento desta Corte, no sentido de que só se aplica a redução do prazo prescricional, prevista no art. 115 do Código Penal, nos casos em que o réu era maior de 70 anos na data da primeira condenação, não se levando em conta, para esse fim, a idade do acusado no momento do acórdão que a confirma.
+    II. Agravo Regimental improvido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos princípios constitucionais do devido processo legal e da ampla defesa. Afirma que, “durante o tramitar do presente recurso, o apelante em 10 de junho de 2014, antes de julgado o recurso de apelação pelo TJSP, completou setenta anos de idade, sendo alcançado pelos efeitos do artigo 115 do Código Penal”. Alega que “o recorrente completou setenta anos de idade, depois da sentença de primeira instância e antes do julgamento do recurso de apelação, transcorrido entre aquela decisão e a realização deste lapso temporal suficiente para a decretação da prescrição”.
+    A decisão agravada não admitiu o recurso sob o fundamento de que “a arguida afronta ao art. 115 do Código Penal não pode ser apreciada na via excepcional do recurso extraordinário, destinada exclusivamente à análise de ofensa direta à Constituição da República”.
+    O recurso é inadmissível, tendo em vista que a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski.
+    De qualquer forma, a jurisprudência do Supremo Tribunal Federal em sede de habeas corpus é no sentido da “inviabilidade de redução do prazo prescricional quando a idade limite é completada na época do acórdão ratificador da condenação fixada pelo juízo de origem” (HC 117.386, Relª. Minª. Rosa Weber). Nessa mesma linha, vejam-se o HC 86.320, Rel. Min. Ricardo Lewandowski; e o HC 107.498, Rel. Min. Ayres Britto, assim ementado:
+    “HABEAS CORPUS. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO. AGENTE COM SESSENTA E NOVE ANOS NA DATA DA SENTENÇA PENAL CONDENATÓRIA. INTERPRETAÇÃO DO ART. 115 DO CÓDIGO PENAL. ORDEM DENEGADA.
+    1. Se o agente, na data da sentença penal condenatória, não havia completado setenta anos, não há como se aplicar a causa de redução do prazo prescricional a que se refere o art. 115 do Código Penal. Até porque a jurisprudência do Supremo Tribunal Federal é no sentido de que tal redução não opera quando, no julgamento de apelação, o Tribunal confirma a condenação.
+    2. Ordem denegada.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 17 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
