@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Processo 9206414-62.2009.8.26.0000) que reconheceu a servidor público do Município de São Paulo o direito ao recálculo do reajuste de vencimentos a partir de fevereiro de 1995, tendo em vista que a Lei Municipal 11.722/1995 (que alterou a forma de reajuste), foi considerada inconstitucional na parte em que determina a sua retroatividade a partir do primeiro dia do mês em questão. Alega o reclamante descumprimento do teor da Súmula Vinculante 42, segundo o qual “É inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária”. Requer o deferimento da medida liminar por entender presentes os requisitos necessários para o seu deferimento.
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, de modo a garantir a efetividade do resultado do futuro e provável juízo de procedência. No caso, o primeiro desses requisitos não se encontra presente, tendo em vista que o ato reclamado limitou-se a afirmar que a Lei 11.722/1995 não pode retroagir a ponto de alterar o reajuste de fevereiro de 1995 (nos termos da jurisprudência deste Supremo Tribunal Federal), não fazendo juízo sobre a constitucionalidade das leis anteriores cuja aplicação ficou mantida para essa competência, daí a ausência de estrita aderência com a Súmula Vinculante 42. Ademais, a mera possibilidade de os interessados iniciarem execução provisória do julgado reclamado por si só é insuficiente para a configuração do periculum in mora.
+    3. Ante o exposto, indefiro a liminar. Solicitem-se informações à autoridade reclamada.
+    Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 17 de setembro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
