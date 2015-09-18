@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO. PREÇO PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “PRESTAÇÃO DE SERVIÇOS - FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO - TERRENOS NÃO EDIFICADOS - CONTRAPRESTAÇÃO QUE TEM NATUREZA JURÍDICA DE TARIFA - AUSÊNCIA DE LIGAÇÃO DOS IMÓVEIS À REDE MESTRA - INADMISSIBILIDADE DAS COBRANÇAS JURISPRUDÊNCIA - DEMANDA PROCEDENTE - RECURSO IMPROVIDO.
+    I. Não há que se falar em nulidade de citação, quando é certo que a apelante compareceu aos autos dando-se por citada e deduziu sua defesa em juízo. Se o ato atingiu sua finalidade e não houve demonstração de efetivo prejuízo, fica afastada essa preliminar. Também não se pode acolher a preliminar de inépcia da petição inicial, quando é certo que os imóveis foram bem descritos às fls. 03/04 e os demonstrativos de débitos emitidos pela própria apelante e juntados pela apelada às fls. 25/50 trazem cada qual o seu número de ligação. Igualmente, a apelada é parte legítima e, independentemente de ser a efetiva proprietária dos terrenos, seu interesse resta suficientemente demonstrado pelo fato de os demonstrativos de débitos e cobranças terem sido emitidos pela apelante no nome da apelada (fls. 25/58).
+    2. Tratando-se de prestação de serviços de fornecimento de água e esgoto por parte de concessionária, a remuneração é efetuada por meio de tarifa, que leva em conta necessariamente o serviço medido e pressupõe a existência de um contrato.
+    3. Recurso improvido”.
+    2. A Agravante alega contrariados os arts. 97 e 145, inc. II, da Constituição da República, sustentando que o Tribunal de origem afastou a aplicabilidade da Lei municipal n. 937/1971 e que
+    “a prestação de serviços de água e esgoto possui natureza de taxa, podendo obviamente ser cobrada simplesmente pela utilização potencial dos serviços.
+    Basta, portanto, que o serviço seja colocado à disposição do usuário para que ele seja obrigado a pagar por eles”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de inexistência de prequestionamento da matéria constitucional.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Não assiste razão jurídica à Agravante.
+    6. A alegação de contrariedade ao art. 97 da Constituição da República não foi objeto de debate e decisão prévios pelo Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal Federal de que a cobrança pelo serviço de fornecimento de água e de coleta de esgoto tem natureza jurídica de preço público:
+    “Agravo regimental no agravo regimental no recurso extraordinário. Inovação recursal. Impossibilidade. Serviços de esgoto. Natureza jurídica. Tarifa. Precedentes. 1. Não se admite, no agravo regimental, a inovação de fundamentos. 2. A jurisprudência da Corte firmou-se no sentido de que o valor cobrado dos usuários pelos serviços de esgoto tem natureza jurídica de preço público, não de taxa. 3. Agravo regimental não provido” (RE n. 600.237-AgR-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 9.4.2015).
+    “ÁGUA E ESGOTO – TARIFA VERSUS TAXA. A jurisprudência do Supremo é no sentido de haver, relativamente ao fornecimento de água e tratamento de esgoto, o envolvimento de tarifa e não de taxa. AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Surgindo do exame do agravo o caráter manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil” (AI n. 753.964-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 30.10.2013).
+    Nada há a prover quanto à alegação da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de setembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
