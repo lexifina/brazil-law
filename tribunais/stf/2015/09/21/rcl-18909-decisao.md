@@ -1,0 +1,27 @@
+RECLAMAÇÃO. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL REQUERIDA COM BASE NO ART. 40, § 4ª, III, DA CONSTITUIÇÃO FEEDERAL. INDEFERIMENTO EM VIRTUDE DE AUSÊNCIA DE REGULAMENTAÇÃO. INOBSERVÂNCIA DA SÚMULA VINCULANTE Nº 33.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional, com pedido de liminar, fundada no art. 102, I, “l”, da Constituição Federal, ajuizada por José Joaquim de Souza contra o despacho nº 7465/2014 proferido no Processo Administrativo nº 49322721/2012 pela Procuradoria-Geral do Município de Goiânia, mediante o qual acatado o Parecer nº 4.804, emitido pela Procuradoria dos Assuntos Administrativo, à alegação de afronta à Súmula Vinculante nº 33.
+    2. O reclamante narra que, com base no que decidido no mandado de Injunção 1.910, requereu, no ano de 2012, perante a Secretaria Municipal de Administração e Recursos Humanos, a concessão de aposentadoria especial com espeque no art. 40, § 4º, III, da Constituição Federal.
+    3. Segundo aponta, determinado o envio dos autos ao Instituto de Previdência dos Servidores Municipais, a autarquia municipal, por meio do despacho nº 663/2014, indeferiu o pedido com fundamento no Parecer nº 1.474/2014 da Procuradoria Geral do Município, no qual ressaltada a necessidade de lei específica para a concessão da aposentadoria especial.
+    4. Relata que, manejado recurso administrativo no qual solicitado o cumprimento da Súmula Vinculante nº 33, os autos foram remetidos à Procuradoria-Geral do Município, a qual, por meio do Parecer 4.804/2014, opinou pelo indeferimento do pleito, ao registro de que a concessão da aposentadoria especial aos servidores públicos municipais depende de aprovação de lei específica que estabeleça as condições para a sua concessão.
+    5. Noticia que o referido parecer foi acatado em 06.8.2014 pelo Procurador-Geral do Município por meio do despacho nº 7465/2014, ora combatido.
+    6. Solicitadas informações, decorreu o prazo sem que fossem recebidas, consoante certidão de fl. (e-STF, doc. 14).
+    É o relatório.
+    Decido.
+    1. Na presente reclamação aponta-se a inobservância da Súmula Vinculante nº 33, publicada em 24.4.2014, segundo a qual: “Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica”.
+    2. Verifico que o requerimento do reclamante foi inferido com base no Parecer 4.804/2014 da Procuradoria-Geral do Município, de seguinte teor:
+    “Tratam os autos do pedido de aposentadoria especial do servidor JOSÉ JOAQUIM DE SOUZA, admitido em 10/04/1985, ocupante do cargo de Médico, Grau IV, Nível SA4, Referência "M", lotado na Secretária Municipal de Saúde.
+    Os autos retornaram, por meio do Despacho de nº   1844/2014 do Gabinete da Presidência do Instituto de Previdência dos Servidores Municipais de Goiânia após pedido de revisão de fls.70/72, por o servidor não se conformar com a decisão exarada por esta Especializada.
+    Reafirmamos a decisão informando que o servidor público não tem no momento direito a aposentadoria especial. A Constituição Federal prevê este direito, mas dependente de lei complementar que até hoje não foi votada pelo Congresso. Logo, na ausência de lei, embora previsto constitucionalmente, é direito inexistente.
+    Pois bem, o servidor está requerendo sua aposentadoria especial em virtude do Mandado de Injunção e Súmula Vinculante de nº 33. Contudo, RATIFICAMOS o posicionamento feito pelo nobre Procurador Jurídico Dr. Luiz Antônio Aires da Silva (Parecer nº 1474/2014 - PAA, fls.67/69),   entendendo esta Especializada que as aposentadorias especiais (exceto a de professor), somente poderão ser concedidas após aprovação de lei específica que estabeleça as condições para a concessão da aposentadoria especial aos servidores públicos municipais.
+    Diante: do exposto, opino pelo INDEFERIMENTO do pedido, com sugestão de envio dos autos à SEMGEP, para cientificar o interessado.” (destaquei)
+    3. O referido parecer foi acatado pelo Procurador-Geral do Município, nos seguintes termos:
+    “Acato o Parecer n° 4804/2014, retro, emitido pela Procuradoria dos Assuntos Administrativos, determinando o envio dos autos à Secretaria Municipal de Gestão de Pessoas - SEMGEP, para cientificar o interessado do indeferimento do pedido.
+    GABINETE DO PROCURADOR-GERAL DO MUNICÍPIO, aos 06 dias do mês de agosto de 2014.”
+    4. A partir da publicação da Súmula Vinculante nº 33, a administração direta e indireta, nas esferas federal, estadual e municipal, deve aplicar a seus servidores, no que couber, as regras do regime geral da previdência social sobre a aposentadoria especial de que trata o art. 40, § 4º, III, da Magna Carta.
+    5. Consoante emerge dos excertos transcrito, o requerimento de aposentadoria especial, deduzido com base no art. 40, § 4º, III, da Constituição Federal, foi indeferido exclusivamente em virtude da ausência de norma regulamentadora, o que contraria o entendimento consolidado na Súmula Vinculante nº 33.
+    6. Ante o exposto , forte no art. 161, parágrafo único, do RISTF, julgo procedente a presente reclamação para cassar o ato reclamado e determinar a apreciação do pedido de jubilação especial do reclamante à luz, no que couber, das regras do regime geral da previdência social.
+    Publique-se.
+    Brasília, 21 de setembro de 2015.
+Ministra Rosa Weber
+Relatora
