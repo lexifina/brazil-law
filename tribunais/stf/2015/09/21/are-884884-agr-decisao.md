@@ -1,0 +1,21 @@
+DECISÃO
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RENÚNCIA HOMOLOGADA. AUSÊNCIA DE INTERESSE RECURSAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. AGRAVO PREJUDICADO.
+Relatório
+    1. Em 23.6.2015, dei provimento, em parte, ao agravo nos autos do recurso extraordinário interposto pelo Instituto Nacional do Seguro Social – INSS, para determinar a devolução dos autos à origem para observância do art. 543-B do Código de Processo Civil quanto à questão da aplicação dos critérios de correção monetária previstos na Lei n. 11.960/2009 e neguei seguimento na parte relativa à devolução de valores recebidos de boa-fé (doc. n. 32).
+    2. Maria Luzinete do Nascimento Santana, pela Defensoria Pública da União, interpõe, em 12.8.2015, tempestivamente, agravo regimental (docs. ns. 34 e 35).
+    3. A Agravante sustenta que “a decisão agravada não merece prosperar quanto à aplicação dos critérios previstos pela Lei n. 11.960/2009 à correção monetária”.
+    Afirma que, para receber de forma mais célere seu benefício previdenciário, “renunciou expressamente ao excedente de juros e correção monetária, concordando em percebê-los segundo os critérios da Lei 11.960/09, nos autos do Processo 0501387-26.2012.4.05.8300. Assim, revela-se a perda do interesse recursal do agravado, quanto à aplicação dos critérios previstos pela Lei n. 11.960/2009 à correção monetária”.
+    4. Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica assiste à Agravante.
+    6. A Segunda Turma Recursal dos Juizados Especiais Federais de Pernambuco assentou quanto à correção monetária e juros de mora que,
+    “no que se refere à correção dos atrasados, especialmente em razão da existência de divergência nas instâncias superiores a respeito da melhor interpretação de recente decisão do STF, por medida de economia processual, e visando a uniformizar o posicionamento desta Turma Recursal, passo a adotar a orientação do STJ, aplicando os juros e correção da seguinte forma: Os juros moratórios devem ser calculados com base no índice oficial de juros aplicados à caderneta de poupança, nos termos da regra do art. 1º-F da Lei 9.494/97, com redação da Lei 11.960/09. Já a correção monetária, por força da declaração de inconstitucionalidade parcial do art. 5º da Lei 11.960/09, deverá ser calculada com base no INPC (quando se tratar de matéria beneficiária/assistencial) ou no IPCA-E (caso se trate de matéria administrativa)” (doc. n. 12).
+    7. No recurso extraordinário o Agravado fez constar:
+    “Quanto aos juros e correção monetária, demonstrada a ausência de violação ao art. 5º, XXXVI da CF/1988 na aplicação imediata do art. 5º da Lei 11.960/2009, que alterou o art. 1º-F da Lei 9.494/1997, aos processos em curso, bem como a ofensa direta ao art. 102, §2º, da CF/88, o INSS requer seja o recurso conhecido e provido, a fim de que seja modificado o acórdão recorrido, determinando-se a aplicação do art. 5º da Lei 11.960/2009 aos processos em curso, a partir de sua vigência” (doc. n. 19)
+    8.  A Agravante peticionou nos termos seguintes: “vem, perante Vossa Excelência, renunciar aos juros de mora e correção monetária, concordando em percebê-los nos critérios da Lei 11.960/09 (declaração anexa), requerendo, portanto, a sua consequente homologação e certificação de trânsito em julgado, bem como sua imediata remessa à Vara de Origem para que se inicie a execução” (doc. n. 23).
+    O Juiz Federal Presidente da Segunda Turma Recursal de Pernambuco homologou a renúncia (doc. n. 28).
+    9. Tem-se, portanto, erro material na decisão agravada quanto à determinação de devolução dos autos à origem para aguardar o julgamento do Tema n. 810 da repercussão geral (RE n. 870.947, Relator o Ministro Luiz Fux), pois a Agravante anuiu expressamente com a aplicação do disposto no art. 5º da Lei n. 11.960/2009, coincidindo, com a pretensão exposta pelo Agravado no recurso extraordinário. Assim, não subsiste o interesse recursal.
+    10. Pelo exposto, reconsidero a decisão agravada na parte em que provido o agravo para devolução dos autos à origem e julgo prejudicado, no ponto, o recurso interposto pelo Instituto Nacional do Serviço Social – INSS pela ausência de interesse recursal.
+    Publique-se.
+    Brasília, 21 de setembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
