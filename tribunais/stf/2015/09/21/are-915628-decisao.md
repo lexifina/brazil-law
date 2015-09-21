@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXII e LIV, 7º, III, e 97 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em ofensa ao art. 97 da Carta Maior ou em contrariedade à Súmula Vinculante 10, porquanto não declarada, na hipótese, a inconstitucionalidade de lei ou ato normativo do Poder Público. Com efeito, a Corte de origem solveu a questão à luz da aplicação das regras de hermenêutica no âmbito infraconstitucional, sem, portanto, declarar a incompatibilidade entre a Constituição Federal e a norma legal que se pretende ver incidir à espécie. Nesse sentido: RE 639.866-AgR/RS, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 16.9.2011, e AI 848.332-AgR/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 24.4.2012, este assim ementado:
+    “Agravo regimental no agravo de instrumento. Constitucional. Artigo 97 da Constituição Federal. Súmula Vinculante nº 10. Violação. Inexistência. Artigo 5º, inciso XXXII. Ofensa reflexa. Precedentes. 1. Pacífica a jurisprudência desta Corte de que não há violação do art. 97 da Constituição Federal e da Súmula Vinculante nº 10 do STF quando o Tribunal de origem, sem declarar a inconstitucionalidade da norma e sem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar e aplicar a legislação infraconstitucional ao caso concreto. 2. Inadmissível, em recurso extraordinário, a análise de ofensa indireta ou reflexa à Constituição. 3. Agravo regimental não provido.”
+    Outrossim, verifico que as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. A aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada ofensa à Constituição da República. Nesse sentido, cito os seguintes julgados monocráticos nos quais o mesmo tema foi enfrentado: ARE 902.789/SP, Rel. Min. Gilmar Mendes, DJe 27.8.2015; ARE 894.482/SP, Rel. Min. Dias Toffoli, DJe 24.8.2015; ARE 896.962/SP, Rel. Min Edson Fachin, DJe 06.8.2015; e o ARE 640.362/DF, Rel. Min. Cármen Lúcia, DJe 02.8.2011, cuja ementa transcrevo:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PARA O FUNDO DE GARANTIA POR TEMPO DE SERVIÇO – FGTS. NÃO APLICAÇÃO DA LEI N. 6.830/1980. ALEGAÇÃO DE CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de setembro de 2015.
+Ministra Rosa Weber
+Relatora
