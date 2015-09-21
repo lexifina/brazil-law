@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “PROCESSUAL CIVIL. APELAÇÃO DISSOCIADA DOS FUNDAMENTOS DA SENTENÇA RECORRIDA. AUSÊNCIA DE PRESSUPOSTO DE ADMISSIBILIDADE. NÃO CONHECIMENTO.
+    1. No caso, o juízo a quo extinguiu a execução fiscal por entender ausente o interesse processual em razão de valor irrisório, com base na Lei nº 10.522/2002 c/c art. 1º, II, da Portaria nº 75/2012 do Ministério da Fazenda.
+    2. Em suas razões recursais, o apelante requer a reforma da sentença em face da inconstitucionalidade do artigo 8º da Lei nº 12.514/2011 por ofensa ao art. 5º, XXXV, da CF.
+    3. Carece de pressuposto de admissibilidade recursal a apelação que traz razões completamente dissociadas da fundamentação da sentença recorrida (art. 514, II, do CPC).
+    4. Apelação não conhecida”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, da Constituição.
+    A pretensão recursal não merece prosperar, haja vista que quanto às contrariedades ao art. 5º, XXXV, a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se a ementa do ARE 735.862-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO. I A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - Agravo regimental improvido”.
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. PRÉVIO REQUERIMENTO ADMINISTRATIVO E INTERESSE EM AGIR. 1. A instituição de condições para o regular exercício do direito de ação é compatível com o art. 5º, XXXV, da Constituição. Para se caracterizar a presença de interesse em agir, é preciso haver necessidade de ir a juízo. (...)” (RE nº 631.240, de minha relatoria)
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. TÍTULO EXECUTIVO JUDICIAL. AÇÃO COMINATÓRIA. EXECUÇÃO. FALTA DE INTERESSE PROCESSUAL. ALEGAÇÃO DE VIOLAÇÃO AO ART. 5º, XXXV, LIV E LV, DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Precedentes. II - Agravo regimental improvido. (ARE nº 646242 ED / SP, Rel. Min. Ricardo Lewandowski)
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 21 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
