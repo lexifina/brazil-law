@@ -1,0 +1,17 @@
+DECISÃO
+TELECOMUNICAÇÕES – TIPO PENAL – PRINCÍPIO DA INSIGNIFICÂNCIA – HABEAS CORPUS – RELEVÂNCIA INEXISTENTE.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O 1º O Juízo da 7ª Vara Federal de Cuiabá/MT, no Processo nº 21465-18.2010.4.01.3600, condenou a paciente a dois anos de detenção, em regime aberto, e à multa de dez mil reais, ante o cometimento do crime previsto no artigo 183, cabeça (desenvolver clandestinamente atividades de telecomunicação), da Lei nº 9.472/1997. Substituiu a pena privativa de liberdade por duas restritivas de direito, salientando caber ao Juízo da execução implementá-las.
+    Interpôs-se apelação no Tribunal Regional Federal da 1ª Região, buscando-se fosse observado o princípio da insignificância, tendo em conta a mínima ofensividade da conduta. Alegou-se não ser suficiente à caracterização do delito a mera subsunção do fato à norma penal abstrata. Afirmou-se que o Direito Penal não deve ocupar-se com lesões consideradas de menor importância. A Terceira Turma, ao desprover o recurso, apontou tratar-se de crime formal, de perigo abstrato, voltado a tutelar a segurança dos meios de comunicação. Frisou a relevância da infração cometida, consubstanciada na utilização de aparelhagem clandestina. Sublinhou os prejuízos decorrentes dessa prática aos serviços de rádio, televisão, navegação aérea e marítima.
+    A defesa protocolou recurso especial, que foi inadmitido na origem. O Presidente do Tribunal consignou estar o acórdão atacado em harmonia com a jurisprudência do Superior Tribunal de Justiça, a teor do Verbete nº 83 da respectiva Súmula. Interposto agravo, o Relator a ele negou provimento. Julgando regimental, a Quinta Turma assentou a desnecessidade de comprovação da lesividade da conduta, concluindo pela inadequação do princípio da bagatela.
+    Neste habeas, a Defensoria Pública da União aduz constrangimento ilegal. Reitera a argumentação expendida nas instâncias ordinárias, relativamente à ausência de lesão a bem jurídico. Diz tratar-se de situação a autorizar a observância do princípio da insignificância. Enfatiza não haver prova de que o aparelho apreendido era utilizado em rádio comunitária ou possuía a capacidade de causar interferências nos demais meios de comunicação. Anota terem sido esses elementos colhidos mediante a confissão da paciente, revelando-se, portanto, inidôneos para lastrear a condenação. Alega que deve haver habitualidade na instalação ou utilização clandestina de telecomunicações, conforme a jurisprudência do Supremo.
+    Requer, em âmbito liminar, sejam afastados os efeitos da condenação.
+    No mérito, pretende a confirmação da providência. Sucessivamente, pleiteia: a declaração de nulidade da sentença condenatória formalizada e a desclassificação da conduta, do que previsto no artigo 183 da Lei nº 9.472/1997, para a descrita no artigo 70 (instalação ou utilização de telecomunicações em desconformidade legal e regulamentar) da Lei nº 4.117/1962.
+    A fase é de exame da medida acauteladora.
+    2. Observem o bem protegido – o sistema de telecomunicações. Descabe versar a insignificância. O crime surge formal, configurando-se sem a necessidade de haver a demonstração do prejuízo. Este é ínsito à disciplina da matéria e à prática à margem do que estabelecido.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 21 de setembro de 2015, às 11h40.
+Ministro MARCO AURÉLIO
+Relator
