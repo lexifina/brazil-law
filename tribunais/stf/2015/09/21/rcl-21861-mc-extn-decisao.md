@@ -1,0 +1,14 @@
+DECISÃO
+LIMINAR IMPLEMENTADA – EXTENSÃO – IDENTIDADE DE RAZÕES – DEFERIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Por meio da Petição nº 47.392/2015, José Roberto Arruda postula a extensão dos efeitos da medida acauteladora deferida nesta reclamação em 10 de setembro de 2015. No citado pronunciamento, Vossa Excelência determinou ao Juízo da 7ª Vara Criminal da Circunscrição Judiciária de Brasília/DF que assegure ao reclamante, Leonardo Moreira Prudente, o acesso ao conteúdo integral dos procedimentos de delação premiada noticiados no Processo nº 2014.01.1.051901-7.
+    Destaca a identidade da própria situação jurídica e a do reclamante porquanto ambos figuram como réus em processos criminais iniciados a partir de procedimentos de delação premiada firmados entre Durval Barbosa Rodrigues e os Ministérios Público Federal e do Distrito Federal. Diz da abertura de onze demandas penais contra si. Conforme aponta, em uma delas, de nº 2013.01.1.122065-5, há audiência de instrução e julgamento designada para o dia 21 de setembro de 2015, às 14h. Assevera ter postulado, sem êxito, o acesso aos elementos de convicção produzidos no âmbito dos citados acordos de delação premiada. Ressalta a necessidade de tratamento isonômico entre os envolvidos. Reporta-se ao que preconizado no artigo 580 do Código de Processo Penal.
+    Requer, além da extensão dos efeitos da liminar implementada, a suspensão de todos os processos oriundos da operação “Caixa de Pandora” até que permitido à defesa o acesso irrestrito à integralidade dos elementos de informação reunidos nos procedimentos de delação premiada.
+    2. A leitura dos documentos trazidos revela a formalização de denúncia contra diversos réus, entre eles Leonardo Moreira Prudente e José Roberto Arruda, perante o Superior Tribunal de Justiça, com base em procedimentos de delação premiada firmados por Durval Barbosa Rodrigues. Sobreveio o desmembramento do caso, estando em curso no Judiciário do Distrito Federal os processos penais referentes à denominada operação “Caixa de Pandora”.
+    3. Ante a identidade jurídica, uma vez envolvidos os mesmos acordos de delação premiada, defiro o pedido de extensão para assegurar à defesa de José Roberto Arruda, presente a condição de réu no Processo nº 2013.01.1.122065-5, o acesso ao conteúdo integral dos referidos procedimentos, que tramitaram no Ministério Público Federal e no do Distrito Federal, relativos aos fatos narrados na denúncia contra si formulada, inclusive com obtenção de cópia. Implemento a suspensão, até o atendimento da providência, da eficácia do ato que implicou a designação da audiência de instrução.
+    4. Cientifiquem o Juízo da 7ª Vara Criminal da Circunscrição Judiciária de Brasília/DF.
+    5. Colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília, 21 de setembro de 2015.
+Ministro MARCO AURÉLIO
+Relator
