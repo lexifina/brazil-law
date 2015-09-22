@@ -1,0 +1,35 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “CIVIL – AÇÃO DE INDENIZAÇÃO – EXECUÇÃO INDEVIDA – TÍTULO OBJETO DE NOVAÇÃO – DANOS MORAIS DEVIDOS.
+    1- A execução de dívida, com base em títulos que foram objeto de novação, não é indevida, o que gera a obrigação de indenizar.
+    2- Se, ao fixar valor indenizatório, observou-se o princípio da razoabilidade, considerando-se a capacidade econômica das partes, a extensão do dano e a intensidade da culpa, mantém-se o quantum estabelecido na sentença.
+    3- Recurso não provido.”
+    Opostos embargos de declaração, foram parcialmente providos para corrigir erro material na ementa, sem atribuir efeitos modificativos ao mérito do julgado.
+    No recurso extraordinário sustenta-se violação do artigo 5º, incisos V e X, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, colhe-se do voto condutor do acórdão recorrido a seguinte fundamentação:
+    “A magistrada julgou procedente o pedido para condenar a ré no pagamento da quantia de R$ 2.000,00 (dois mil reais) ao autor, a título de danos morais, valor que deverá ser acrescido de correção monetária e juros moratórios de 12% ao ano, a partir desta data. Declarou, também, a perda do objeto quanto à renovação da matrícula porque o autor já terminou o curso de graduação e julgo extinta a ação cautelar 100870-9/09.
+    As provas carreadas aos autos foram devidamente sopesadas pela d. Juíza, razão porque mantenho a sentença, abaixo transcrita, no que importa:
+    ‘Em que pesem as alegações da requerida de que não houve a prática de ato ilícito, o autor alegou que a ré ajuizou a ação de execução de n. 160843-2/08, tendo como lastro as notas promissórias ns. 010 e 209, as quais teriam sido objeto de renegociação da dívida não paga e que não foram devolvidas ao autor.
+    Restou evidenciado que o requerente foi executado indevidamente pela requerida, que apesar de credora do mesmo, deixou de devolver a ele os títulos que foram objeto de novação e, por isso, tem o dever de indenizar o autor.
+    (…)
+    Portanto, todos os requisitos exigidos para a reparação do dano moral estão presentes
+Apesar do alto grau de subjetivismo que circunda a fixação dos danos morais, três fatores contribuem decisivamente para que ela se dê de forma ponderada, adequada e, sobretudo, justa: capacidade econômica das partes, gravidade e repercussão do dano e nível de reprovação do ato culposo.”
+    Nesse caso, para acolher a pretensão da recorrente e ultrapassar o entendimento firmado pelas instâncias de origem seria necessário o reexame do conjunto fático-probatório constante dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. DANOS MORAIS E INDENIZAÇÃO COMPENSATÓRIA. 1. Turma recursal. Possibilidade de remissão, no acórdão, aos fundamentos da sentença. 2. Controvérsia decidida à luz do Código de Defesa do Consumidor, das provas dos autos e do contrato firmado pelas partes. Incidência das Súmulas n. 279 e 454 do Supremo Tribunal Federal. 3. Alegada contrariedade ao art. 5º, inc. XXXV, LIV e LV, da Constituição: ofensa constitucional indireta. 4. Agravo regimental ao qual se nega provimento” (ARE nº 682.317/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º/8/2012).
+          “Agravo regimental em recurso extraordinário com agravo. 2. Consumidor. Falha na prestação do serviço. Indenização por danos morais. Incidência do Enunciado 279 da Súmula do STF. 3. Agravo regimental a que se nega provimento” (ARE nº 685.480/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 1º/8/2012).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. DANOS MORAIS. REDUÇÃO DO VALOR DA CONDENAÇÃO. ART. 5º V e X CF/88. 1. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se a análise de legislação infraconstitucional. Hipótese de contrariedade indireta ou reflexa ao art. 5º, V e X da Constituição Federal. 2. Agravo regimental não provido” (RE nº 563.802/DF-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 3/4/2009).
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279 DO STF. I - A apreciação do recurso extraordinário demanda o exame de matéria de fato, o que atrai a incidência da Súmulas 279 do STF. II - Agravo regimental improvido” (AI nº 634.072/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 22/6/07).
+    Ressalte-se, por fim, que o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do ARE nº 743.771/SP, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da questão relativa à fixação do valor da indenização por danos morais. Essa decisão do Pleno está assim ementada:
+    “DIREITO CIVIL. RESPONSABILIDADE CIVIL. VALOR FIXADO A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 279 DA SÚMULA DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL”.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 22 de setembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
