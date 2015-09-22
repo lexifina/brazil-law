@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de agravo regimental cujo objeto é decisão monocrática do Ministro Joaquim Barbosa, relator originário do feito, que converteu o agravo de instrumento em recurso extraordinário e lhe deu provimento, pelos seguintes fundamentos (fls. 220/221):
+    “Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário contra acórdão que assegurou gratificação de assiduidade referente a período trabalhado em cartório não-oficializado.
+    O Estado de Espírito Santo alega violação aos arts. 93, IX; e 236, caput e §§ 1º, 2º e 3º, da Constituição.
+    A matéria já foi apreciada por esta Corte, que decidiu pela impossibilidade de se reconhecer tempo de serviço em cartório não-oficializado para fins de concessão de vantagens previstas para servidores públicos do Espírito Santo. Veja-se, por exemplo, RE 253.672-AgR, min. rel. Ellen Gracie, Segunda Turma, DJ de 22.10.2004:
+    ‘RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. ADICIONAL DE ASSIDUIDADE DEVIDO AOS SERVIDORES DO ESTADO DO ESPÍRITO SANTO. EXTENSÃO AOS SERVENTUÁRIOS DOS CARTÓRIOS EXTRAJUDICIAIS. IMPOSSIBILIDADE.
+    1. O Supremo Tribunal Federal, pelas suas Turmas, firmou entendimento no sentido de que o adicional de assiduidade é devido tão-somente aos servidores da Administração estadual, sendo impossível a sua extensão aos serventuários de cartórios extrajudiciais, ante o óbice da Súmula STF nº 339.
+    Agravo regimental improvido.’
+    Nesse sentido: RE 197.227, rel. min. Ilmar Galvão, Primeira Turma, DJ de 07.02.1997; RE 224.943, rel. min. Moreira Alves, Primeira Turma, DJ de 23.04.1999; RE 213.461, rel. min. Octavio Gallotti, Primeira Turma, DJ de 26.05.2000; RE 221.457, rel. min. Carlos Velloso, monocrática, DJ de 08.05.2003; RE 212.765, rel. min. Nelson Jobim, monocrática, DJ de 07.05.2004; RE 221.641, min. rel. Ricardo Lewandowski, monocrática, DJ de 04.08.2006; RE 213.453, rel. min. Cezar Peluso, monocrática, DJ de 05.04.2006.
+    Do exposto, e com base no art. 544, § 3º e § 4º, do Código de Processo Civil, dou provimento ao agravo e o converto em recurso extraordinário, para, nos termos do art. 557, § 1º-A, do referido diploma legal, dar-lhe provimento para denegar a segurança.”
+    A parte agravante alega que “não se está a discutir se o adicional de assiduidade concedido aos servidores públicos estaduais (do Espírito Santo) é extensível aos serventuários inativos de cartórios extrajudiciais”. No mérito, defende que “a segurança foi impetrada em função de ato abusivo e unilateral da autoridade impetrada, que subitamente suspendeu o pagamento do adicional de assiduidade da Agravada, SEM O DEVIDO PROCESSO LEGAL” (fls. 237).
+    Assiste razão a parte ora agravante, motivo pelo qual reconsidero a decisão de fls. 220/221.
+    Discute-se no presente processo a abusividade da supressão do pagamento do adicional de assiduidade a servidor inativo, por ato unilateral da Administração Pública.
+    O Tribunal de Justiça do Espírito Santo concedeu a segurança em decisão assim ementada (fls. 124):
+    “Mandado de Segurança – Direito Administrativo – Gratificação Assiduidade – Cartório não oficializado – Preliminar – Ilegitimidade do Diretor-Presidente do IPAJM – acolhimento – extinção do processo quanto a este – mérito – servidor público inativo – ex-oficiala titular de cartório não oficializado – adicional de assiduidade – supressão da vantagem por ato unilateral da administração pública – ausência do devido processo legal, contraditório e ampla defesa – inteligência da súmula 473 do STF e art. 46 da Constituição Estadual – comprovação da ilegalidade do ato impugnado – segurança concedida.”
+     Em face de tal decisão, o Estado interpôs o presente recurso com fundamento no art. 102, III, a, alegando violação aos arts. 93, IX; e 236, caput e § 1º, da Constituição Federal.
+    O recurso extraordinário não merece provimento, uma vez que o acórdão impugnado está alinhado com a jurisprudência do Supremo Tribunal Federal, que, ao apreciar o mérito do RE 594.296, com repercussão geral reconhecida (Tema 138), decidiu que a Administração pode anular atos que considere ilegalmente praticados, desde que, havendo efeitos concretos, seja precedido de processo administrativo:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento.”(RE 594.296/MG, Rel. Min. Dias Tóffoli. Tribunal Pleno. DJE 13.02.2012)
+    Dessa orientação não divergiu o acórdão recorrido.
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 544, § 4º, II, a, do CPC, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 22 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
