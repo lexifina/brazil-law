@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Laudigenia Guedes Santos. Aparelhado o recurso na afronta ao art. 5º, caput, XXXV e LV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+     O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO QUE NÃO ATACA O FUNDAMENTO DA DECISÃO AGRAVADA. DECISÃO INTERLOCUTÓRIA. JUIZADOS ESPECIAIS. RECURSO. DESCABIMENTO. 1. A petição de agravo regimental não impugnou o fundamento da decisão ora agravada. Nesse caso é inadmissível o agravo, conforme orientação do Supremo Tribunal Federal. Precedente. 2. Ademais, o Supremo Tribunal Federal, após reconhecer a repercussão geral da matéria, decidiu pelo não cabimento de recurso das decisões interlocutórias exaradas em processos dos juizados especiais (RE 576.847, Rel. Min. Eros Grau). 3. Agravo regimental a que se nega provimento.” (ARE 708.238-ED/RJ, Rel. Min. Roberto Barroso, 1ª Turma, DJe 25.6.2015)
+    “RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. REPERCUSSÃO GERAL RECONHECIDA. MANDADO DE SEGURANÇA. CABIMENTO. DECISÃO LIMINAR NOS JUIZADOS ESPECIAIS. LEI N. 9.099/95. ART. 5º, LV DA CONSTITUIÇÃO DO BRASIL. PRINCÍPIO CONSTITUCIONAL DA AMPLA DEFESA. AUSÊNCIA DE VIOLAÇÃO. 1. Não cabe mandado de segurança das decisões interlocutórias exaradas em processos submetidos ao rito da Lei n. 9.099/95. 2. A Lei n. 9.099/95 está voltada à promoção de celeridade no processamento e julgamento de causas cíveis de complexidade menor. Daí ter consagrado a regra da irrecorribilidade das decisões interlocutórias, inarredável. 3. Não cabe, nos casos por ela abrangidos, aplicação subsidiária do Código de Processo Civil, sob a forma do agravo de instrumento, ou o uso do instituto do mandado de segurança. 4. Não há afronta ao princípio constitucional da ampla defesa (art. 5º, LV da CB), vez que decisões interlocutórias podem ser impugnadas quando da interposição de recurso inominado. Recurso extraordinário a que se nega provimento.” (RE 576.847/BA, Rel. Min. Eros Grau, Tribunal Pleno, DJe 07.8.2009)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de setembro de 2015.
+Ministra Rosa Weber
+Relatora
