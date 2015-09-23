@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Agravo Interno. Apelação Civel - Embargos de Declaração. Valor da causa - Emenda à petição inicial não observada - Competência da 82 Vara da Fazenda Pública da Comarca de São Paulo - Embargos, acolhidos. Agente Fiscal de Rendas - Licença-prêmio convertida em pecúnia - Subteto - Incidência – Retidão do cálculo efetivado pela Administração. Embargos acolhidos, tendo como consectário o provimento do recurso do Estado e da remessa oficial. Agravo interno contra decisão monocrática que acolheu os embargos - Decisão mantida. Nega-se Provimento ao recurso”.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, alega-se violação ao artigo 37, XI, do texto constitucional.
+    Sustenta-se, em síntese, que a decisão recorrida é equivocada, pois, da mesma forma que o autor está sujeito à limitação do teto constitucional em relação aos valores que recebia mensalmente, também é certo que este teto também incidirá na indenização decorrente da licença-prêmio.
+    Decido.
+    A irresignação não merece prosperar.
+    Isso porque a decisão recorrida tem como base a análise do conjunto fático-probatório dos autos, que entendeu que o autor preencheu os requisitos para gozo da licença-prêmio, o que impede a análise do presente recurso extraordinário diante da incidência da Súmula 279 do STF.
+    Esta Corte já firmou entendimento no sentido de que a natureza indenizatória da verba salarial para fins de incidência do teto remuneratório, quando aferida pelas instâncias ordinárias, demanda a análise da legislação infraconstitucional, o que acarreta uma violação reflexa e oblíqua da Constituição Federal e torna inadmissível o recurso extraordinário. Nesse sentido, destaco os seguintes precedentes:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LIMITAÇÃO DO TETO SALARIAL. INTERPRETAÇÃO DA LEI ESTADUAL 11.071/95. SÚMULA STF 280. 1. Para se concluir, como pretende a parte agravante, pelo caráter específico da gratificação em análise, necessário seria o reexame de legislação local, o que é defeso nesta via extraordinária (Súmula STF 280). Precedentes. 2. Agravo regimental improvido.” (AI 746.754-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 18.12.2009)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. VERBAS EXCLUÍDAS DO TETO REMUNERATÓRIO PREVISTO NO INCISO XI DO ART. 37 DA MAGNA CARTA. NATUREZA JURÍDICA. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 1. A discussão acerca da natureza jurídica de parcelas remuneratórias devidas a servidores públicos é de índole eminentemente infraconstitucional. Pelo que é de incidir a Súmula n. 280/STF. 2. Agravo regimental desprovido.” (RE 606.257-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe de 15.12.2011)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 23 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
