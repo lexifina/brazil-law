@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Manoel Silva de Oliveira, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp nº 657.010/BA, Relator o Ministro Félix Fischer.
+    Sustenta a impetrante que
+    “[a] denegação do pleito de aplicação da causa de diminuição de pena prevista no § 4º, do art. 33, da Lei nº 11.343/2006, pelas instâncias ordinárias, à míngua de fundamentação idônea, a par do ora paciente preencher todos os requisitos legais à concessão da benesse em questão, constitui autêntico constrangimento ilegal (...)” (fl. 3 da inicial).
+    Assevera, de outra parte, que o reconhecimento da causa especial de redução da pena, prevista no § 4º do art. 33 da Lei de Drogas, em seu patamar máximo, acarretará uma pena privativa de liberdade
+    “inferior a 4 (quatro) anos, razão pela qual o paciente fará jus ao regime inicial aberto, razão pela qual, de acordo com o art. 33, § 2º, ‘c’ do Código Penal, impõe-se a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44, do Código Penal” (fl. 10 da inicial).
+    Requer, liminarmente, a concessão da ordem para
+    “que seja aplicada a causa de diminuição de pena prevista no § 4°, do art. 33, da Lei n° 11.343/06, em seu patamar máximo e, em consequência, que seja determinado em seu favor o cumprimento da pena em regime aberto, com a substituição da pena privativa de liberdade por restritiva de direitos” (fl. 12 da inicial – grifos da autora).
+    Examinados os autos, decido.
+    Narra a impetrante, na inicial, que:
+    “O ora paciente foi condenado em 1º grau à pena de 08 (oito) anos de reclusão, em regime inicial fechado e ao pagamento de 600 (seiscentos) dias-multa, por ter sido considerado como incurso na prática delitiva descrita no art. 33, § 1º, II da Lei 11.343/2006.
+    Irresignada, a defesa interpôs recurso de apelação,pleiteando a ‘absolvição por ausência de provas, bem como a incidência dos artigos 65, I, e 33, § 2º ‘b’, todos do CPB, minorando a pena-base para o mínimo legal, reconhecimento da atenuante concernente à menoridade penal, além de aplicação da causa de diminuição prevista no art. 33 § 4º da Lei 11.343/2006 e, com consequente, fixação do regimento semiaberto de cumprimento de pena e, destarte, substituindo-se a privativa de liberdade por restritiva de direitos’.
+    Por seu turno, o E. Tribunal de Justiça do Estado da Bahia deu parcial provimento ao recurso de apelação para fins de se reconhecer a atenuante da menoridade, redimensionando a pena para o montante de 05 (cinco) anos de reclusão e, por via de consequência alterou o regime inicial de cumprimento da reprimenda para o semiaberto, mantendo no mais a sentença em seus demais termos.
+    Irresignada, a defesa interpôs recurso especial, alegando negativa de vigência ao § 4º, do art. 33 da Lei de Drogas que, não obstante, teve seu seguimento negado. Dessa forma, foi interposto recurso de agravo.
+    Assim, o E. Ministro Relator da C. Quinta Turma do Superior Tribunal de Justiça negou provimento ao agravo, sob o argumento de incidência da Súmula 07/STJ, tendo sido interposto agravo regimental pleiteando a aplicação da minorante do § 4º do art. 33, da Lei 11.343/06 que, todavia, restou desprovido (...)” (fl. 2 – grifos da autora).
+    Transcrevo a ementa do julgado proferido:
+    “PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE ENTORPECENTES. DOSIMETRIA. PLEITO DE APLICAÇÃO DA MINORANTE DO § 4º DO ART. 33 DA LEI 11.343/06. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. VEDAÇÃO. SÚMULAS 7/STJ E 279/STJ.
+    O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários. (Súmula 07/STJ e Súmula 279/STF).
+    Agravo regimental desprovido” (fl. 443 do anexo 5).
+    Esse é a razão pelo qual se insurge a impetrante neste writ.
+    No caso, ao assentar que a análise da incidência do § 4º do art. 33 da Lei nº 11.343/06 demandaria o revolvimento de fatos e provas, vedado pelo enunciado da Súmula nº 7/STJ, aquela Corte de Justiça acabou por não apreciar o mérito da questão.
+    Por essa razão, sua análise, de forma originária, neste ensejo, configuraria verdadeira supressão de instância não admitida. Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Ainda que assim não fosse, anoto que há informação nos autos demonstrando que o paciente integrava organização criminosa, o que afasta o pretendido reconhecimento da incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas.
+    Conforme consignando pelo Tribunal de Justiça do Estado da Bahia
+    “[a]ssistiu razão ao Magistrado de Piso quando não reconheceu a supracitada minorante, porquanto, não obstante ser o Apelante primário e possuidor de bons antecedentes, a quantidade da substância entorpecente apreendida e de sujeitos que exerciam funções na plantação da droga, bem assim os elementos de convicção colhidos sob o crivo do contraditório apontam que o ora Apelante exercia papel importante no bojo da organização criminosa voltada para o tráfico de drogas” (fl. 348 – anexo 5).
+    O Supremo Tribunal Federal já se manifestou pela impossibilidade de utilização do habeas corpus para reexaminar fatos e provas com vistas a aplicar a minorante prevista no § 4º do art. 33 da Lei 11.343/2006, quando as instâncias ordinárias concluem que o agente se dedicava a atividades ilícitas, aderindo à organização criminosa voltada à fabricação e à comercialização de droga (HC nº 109.708/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe 3/8/15).
+    Ante o exposto, nos termos dos arts. 38 da Lei nº 8.038/90 e 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 23 de setembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
