@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO e REEXAME NECESSÁRIO – Mandado de segurança – Aposentadoria Especial – Professora – Cômputo do tempo trabalhado em função atividade (Lei Estadual n° 500/74) – Concessão da segurança – Pretensão de inversão do julgamento – Impossibilidade – Impetrante que possui os requisitos para concessão da aposentadoria – Impossibilidade de distinção do tempo no cargo, com base na Lei Estadual n° 500/74 – Isonomia entre os regimes já reconhecida por este Tribunal – Não provimento da apelação, com solução extensiva ao reexame necessário.”
+    Alega o recorrente violação do artigo 40, § 1º, inciso III, da Constituição Federal, uma vez que não foram preenchidos os requisitos necessários para o deferimento da aposentadoria especial.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o acolhimento da pretensão recursal, naquilo que se refere à impossibilidade do cômputo do tempo laborado sob o regime da Lei estadual nº 500/74, demandaria o reexame da referida legislação local e do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280 desta Corte. A propósito:
+    “Servidor público. Lei nº 500/74. Controvérsia infraconstitucional. Direito local (Súmula 280). Precedentes. Regimental não provido” (AI n° 431.779/SP-AgR, Relator o Ministro Nelson Jobim, DJ de 19/12/03)”
+    “Agravo regimental no agravo de instrumento. Administrativo. Servidora designada para o exercício de função pública. Aposentadoria. Regime previdenciário. Preenchimento dos requisitos. Legislação local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido.” (AI nº 799.335/MG-AgR, Primeira Turma, de minha relatoria, DJe de 27/6/13).
+    Nesse mesmo sentido: ARE nº 686.828/SP, de minha relatoria, DJe de 7/5/14; AI nº 680.539/SP, Relatora a Ministra Cármen Lúcia, DJe de 1º/6/09; AI nº 707.034/SP, Relator o Ministro Joaquim Barbosa, DJe de 17/2/12; e AI nº 773.702/SP, Relator o Ministro Roberto Barroso, DJe de 6/2/14.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 23 de setembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
