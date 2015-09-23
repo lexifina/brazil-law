@@ -1,0 +1,20 @@
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRABALHISTA. IMUNIDADE DE JURISDIÇÃO. IMUNIDADE DE EXECUÇÃO. RECLAMAÇÃO TRABALHISTA PROPOSTA POR EMPREGADO BRASILEIRO CONTRA ESTADO ESTRANGEIRO. SUPERVENIÊNCIA DE ACORDO FIRMADO ENTRE AS PARTES. HOMOLOGAÇÃO PELO JUÍZO TRABALHISTA. EXTINÇÃO DA EXECUÇÃO. PREJUDICIALIDADE DO AGRAVO REGIMENTAL INTERPOSTO.
+    Decisão: Trata-se de agravo regimental interposto pelo REINO DA ARÁBIA SAUDITA contra decisão que proferi, assim ementada:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. IMUNIDADE DE JURISDIÇÃO. RECLAMAÇÃO TRABALHISTA. LITÍGIO ENTRE ESTADO ESTRANGEIRO E EMPREGADO BRASILEIRO. IMUNIDADE DE EXECUÇÃO. BEM PENHORADO NÃO AFETO À REPRESENTAÇÃO DIPLOMÁTICA. POSSIBILIDADE. CONVENÇÕES DE VIENA DE 1961 E 1963. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371 ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 5º, XXXV, CF/88. INEXISTÊNCIA.
+    1. A imunidade à execução do Estado Estrangeiro não abrange bens estranhos à representação diplomática conforme afirmado pelo Plenário desta Corte no julgamento do RE 597.368, Relator para o acórdão Min. Teori Zavaski, DJe de 27/5/2014.
+    2. O bem penhorado para fins de execução, quando sub judice a controvérsia sobre sua vinculação às finalidades inerentes às legações diplomáticas, demanda a análise do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 279/STF.
+    3. Os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE 748.371, da Relatoria do Min. Gilmar Mendes.
+    4. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Precedente: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    5. A prestação jurisdicional resta configurada com a prolação de decisão devidamente fundamentada, embora contrária aos interesses da parte. Nesse sentido, ARE 740.877-AgR/DF, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 4/6/2013.
+    6. In casu, o acórdão recorrido assentou: ‘AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. PROCESSO EM FASE DE EXECUÇÃO DE SENTENÇA. 1. NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. 2. ESTADO ESTRANGEIRO. BEM NÃO AFETO À MISSÃO DIPLOMÁTICA. POSSIBILIDADE DE CONSTRIÇÃO JUDICIAL. Não demonstrada a hipótese de cabimento do recurso de revista prevista no art. 896, § 2º, da CLT. Agravo de instrumento de que se conhece e a que se nega provimento.’
+    7. Recurso extraordinário DESPROVIDO.”
+    Em 6/4/2015, o Juízo da 18ª Vara do Trabalho de Brasília/DF, por intermédio do Ofício nº 221/2015 (Petição STF nº 15.369/2015), informou que homologara acordo formalizado entre o REINO DA ARÁBIA SAUDITA e VALDECI PAULO BEZERRA neste feito (Processo nº 0018600-41.2005.5.10.0018), em que as referidas partes requereram, com fundamento no artigo 269, III, do Código de Processo Civil, a extinção da execução.
+    Posteriormente, por intermédio da Petição STF nº 15.755/2015, o REINO DA ARÁBIA SAUDITA requereu que as futuras publicações sejam realizadas em nome de seu novo patrono, Dr. Eduardo Lycurgo Leite, OAB/DF nº 12.307.
+    Releva anotar que a homologação do referido acordo provocou a perda do objeto do recurso interposto pelo REINO DA ARÁBIA SAUDITA.
+    Ex positis, JULGO PREJUDICADO o presente Agravo Regimental, com fundamento no artigo 21, IX, do RISTF.
+    DETERMINO, ainda, que a Secretaria desta Suprema Corte providencie a retificação da autuação do presente feito, para que conste em futuras publicações o Dr. Eduardo Lycurgo Leite, OAB/DF nº 12.307, como advogado do REINO DA ARÁBIA SAUDITA.
+    Publique-se.
+    Brasília, 23 de setembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
