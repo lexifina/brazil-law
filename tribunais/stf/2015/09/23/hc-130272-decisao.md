@@ -1,0 +1,17 @@
+Decisão:
+ementa: Penal. Habeas corpus. Receptação. Condenações transitadas em julgado. Regime inicial e sursis. Ausência de teratologia que supere a Súmula 691 do STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão da Ministra Maria Thereza de Assis Moura, que indeferiu a cautelar requerida nos autos do HC 332.303, em trâmite no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que a paciente foi condenada à pena de 1 (um) ano e 4 (quatro) meses de reclusão, em regime inicial fechado, pelo crime de receptação (art. 180, caput, do Código Penal).
+    3. Após o trânsito em julgado da condenação, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo, requerendo a fixação de regime inicial menos severo que o fechado e a suspensão condicional da pena. O writ, contudo, não foi conhecido.
+    4. Em seguida, sobreveio a impetração de HC no Superior Tribunal de Justiça. A Relatora do HC 332.303, Ministra Maria Thereza de Assis Moura, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a defesa sustenta a possibilidade da fixação de regime menos gravoso e da concessão do sursis (suspensão condicional da pena). Ressalta que o Juízo de origem indeferiu a pretensão defensiva com fundamento em condenação anterior transitada em julgado, na qual teria sido imposta “apenas e tão somente a pena de multa”. Requer a concessão de medida liminar a fim de revogar a prisão da paciente. No mérito, pleiteia a suspensão condicional da pena ou, subsidiariamente, a fixação do regime inicial semiaberto.
+    Decido.
+    6. O habeas corpus não deve ser conhecido. O Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF. Em primeiro lugar, porque a decisão proferida pela autoridade impetrada não se me afigura teratológica ou patentemente desfundamentada. Em segundo lugar, porque o Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (v.g, RHC119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski).
+    8. Por outro lado, a jurisprudência do Supremo Tribunal Federal entende que a reincidência autoriza a fixação de regime inicial mais gravoso e o indeferimento do sursis (vg. ARE 825.677-AgR, Rel. Min. Gilmar Mendes; RHC 118.658, Rel. Min. Luiz Fux; HC 116.574, Rel. Min. Teori Zavascki; HC 74.115, Rel. Ilmar Galvão). E o fato é que, segundo consta da sentença objeto destes autos, a paciente já suportou outras duas condenações penais definitivas por delitos anteriores.
+    9. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 23 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
