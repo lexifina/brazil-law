@@ -1,0 +1,32 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. CAIXA ECONÔMICA FEDERAL - CEF. PROGRAMA DE ARRENDAMENTO RESIDENCIAL - PAR (LEI N.º 10.188/01). IMPOSTO PREDIAL E TERRITORIAL URBANO (IPTU). SUJEIÇÃO PASSIVA DA CEF. IMUNIDADE TRIBUTÁRIA NÃO CONFIGURADA. TAXAS. HONORÁRIOS ADVOCATÍCIOS.
+    1. O Programa de Arrendamento Residencial - PAR visa o atendimento da necessidade de moradia da população de baixa renda, permitindo o arrendamento residencial com opção de compra (Lei n.º 10.188/01, art. 1º).
+    2. A gestão do Programa foi atribuída ao Ministério das Cidades, e sua operacionalização coube à Caixa Econômica Federal - CEF, havendo previsão da criação de um Fundo destinado à segregação patrimonial e contábil dos haveres financeiros e imobiliários destinados ao PAR.
+    3. Muito embora os bens e direitos que integram o patrimônio do Fundo de Arrendamento Residencial - FAR não integrem o ativo da CEF, e com ele não se comuniquem, há que se considerar que os mesmos são por ela mantidos sob propriedade fiduciária enquanto não alienados, no que resulta em sua sujeição passiva relativamente ao IPTU e à Taxa de Bombeiro.
+    4. De outro lado, muito embora a Caixa Econômica Federal detenha natureza jurídica de empresa pública, certo é que tem por objetivo a exploração de atividade econômica, não se podendo pretender atribuir-lhe a imunidade recíproca a impostos prevista no art. 150, VI, letra a, § 2º da Constituição Federal, mormente considerando-se o disposto § 2º do art. 173 da Carta Magna, segundo o qual As empresas públicas e as sociedades de economia mista não poderão gozar dos privilégios fiscais não extensivos às do setor privado.
+    5. Em inúmeros julgados, foi reconhecida pelo Excelso Pretório a inconstitucionalidade da cobrança das Taxas de Conservação de Pavimentação, pois não tem como fato gerador a prestação de serviços públicos específicos e divisíveis, o que viola o disposto no art. 145, II da Constituição Federal, devendo, portanto, ser custeados pelo produto dos impostos gerais.
+    6. Em razão da sucumbência mínima da embargada, mantidos os honorários advocatícios fixados na r. sentença.
+    7. Apelação parcialmente provida.” (fls. 112-113)
+    Os embargos de declaração foram rejeitados (fls. 135-140).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 150, VI, “a”, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que os imóveis do Fundo de Arrendamento Residencial fazem jus à imunidade tributária prevista no art. 150, VI, “a”, da Constituição Federal, uma vez que aqueles constituiriam “patrimônio único e exclusivo da União Federal, sendo somente administrado e operacionalizado pela Caixa, para fins de consecução do Programa de Arrendamento Residencial – PAR.” (fl. 174).
+    Ressalta-se, ainda, que o caráter social do programa e a ausência de desenvolvimento de atividade econômica com fins lucrativos, porquanto seria a Caixa Econômica Federal mero instrumento de concretização da política do Governo Federal.
+    Decido.
+    Inicialmente, verifico que o Tribunal a quo assim entendeu:
+    “De acordo com os dispositivos supracitados, o Programa de Arrendamento Residencial – PAR visa o atendimento da necessidade de moradia da população de baixa renda, permitindo o arrendamento residencial com opção de compra.
+    Para tanto, a gestão do Programa foi atribuída ao Ministério das Cidades, e sua operacionalização coube à Caixa Econômica Federal – CEF, havendo previsão da criação de um Fundo destinado à segregação patrimonial e contábil dos haveres financeiros e imobiliários destinados ao PAR.
+    Muito embora os bens e direitos que integrem o patrimônio do Fundo de Arrendamento Residencial – FAR não integrem o ativo da CEF, e com ele não se comuniquem, há que se considerar que os mesmos são por ela mantidos sob propriedade fiduciária enquanto não alienados, o que resulta em sua sujeição passiva relativamente ao IPTU.
+    De outro lado, muito embora a Caixa Econômica Federal detenha natureza jurídica de empresa pública, certo é que tem por objetivo a exploração de atividade econômica, não se podendo pretender atribuir-lhe a imunidade recíproca a impostos prevista no art. 150, VI, letra a, § 2º da Constituição Federal, mormente considerando-se que o disposto § 2º do art. 173 da Carta Magna, segundo o qual As empresas públicas e as sociedades de economia mista não poderão gozar dos privilégios fiscais não extensivos às do setor privado.” (fls. 110-111)
+    Desta forma, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame dos fatos e provas e o da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Destaca-se que esta Corte, no julgamento do RE-RG 855.026, Rel. Min. Teori Zavascki, Dje 02.03.2015, analisando questão análoga, assentou a inexistência de repercussão geral quanto à cobrança da Taxa de Coleta de Lixo de imóveis do Programa de Arrendamento Residencial, tendo em vista a sua natureza infraconstitucional.
+    Veja-se a ementa do referido julgado:
+    “TRIBUTÁRIO. RECURSO EXTRAORDINÁRIO. EMBARGOS À EXECUÇÃO. CAIXA ECONÔMICA FEDERAL. IMÓVEIS DO PROGRAMA DE ARRENDAMENTO RESIDENCIAL (PAR). ISENÇÃO DO PAGAMENTO DA TAXA DE COLETA DE LIXO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia relativa à isenção do pagamento de Taxa de Coleta de Lixo de imóveis do Programa de Arrendamento Residencial, fundada na interpretação da Lei Municipal 11.988/04, é de natureza infraconstitucional.
+    2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria infraconstitucional a ser apreciada ou quando eventual ofensa à Carta Magna se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Dje de 13/3/2009).
+    3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos arts. 21, § 1º, do RISTF e 557 do CPC.
+    Publique-se.
+    Brasília, 23 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
