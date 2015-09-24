@@ -1,0 +1,33 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 150, § 5º, e 155, § 2º, XII, “g”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de Justiça do Estado do Rio Grande do Sul decidiu a controvérsia nos seguintes termos:
+    “(...)
+    No tocante, cumpre observar, ainda, que, segundo o art. 155, § 2º, inc. XII, alínea c, da CF/88, cabe a lei complementar disciplinar o regime de compensação do imposto, não sendo esta matéria de norma constitucional. Logo, pode a lei complementar dispor sobre as operações que geram ou não crédito fiscal, permitindo a compensação com o imposto a pagar, como o fez validamente a Lei Complementar n. 87/96.
+    Esta reafirma o caráter não-cumulativo do imposto, assegurando a compensação do “que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços de transporte interestadual e intermunicipal e de comunicação com o montante cobrado nas anteriores pelo mesmo ou por outro Estado” (art. 19), e prevê, no seu art. 20, § 6º, exceção à regra de estorno de créditos fiscais quando de saídas isentas ou não tributadas, nos seguintes termos:
+    § 6.º - Operações tributadas, posteriores a saídas de que trata o § 3.º, dão ao estabelecimento que as praticar direito a creditar-se do imposto cobrado nas operações anteriores às isentas ou não tributadas sempre que a saída isenta ou não tributada seja relativa a:
+    I - produtos agropecuários;
+    II - quando autorizado em lei estadual, outras mercadorias. (grifei)
+    No plano estadual, semelhante disposição consta na Lei Estadual n. 8.820/89, que versa sobre a manutenção do crédito fiscal referente às entradas de produtos agropecuários, mesmo que as saídas sejam isentas de tributação ou não tributadas:
+    Art. 16 - Para efeito de apuração do montante devido a que se refere o art. 21, não é admitido crédito fiscal:
+    (...)
+    § 2.º - Operações tributadas, posteriores às saídas de que trata o inciso IV, dão ao estabelecimento que as praticar direito a creditar-se do imposto cobrado nas operações anteriores às isentas ou não tributadas sempre que a saída isenta ou não tributada seja relativa a produtos agropecuários.
+    Por conseguinte, e revendo posição anteriormente por mim adotada, tenho que não há como afastar o direito da agravante de se creditar do ICMS resultante da aquisição de produtos agropecuários, ainda que as saídas posteriores sejam isentas. Trata-se de verdadeiro favor fiscal de não-estorno, o qual foi graduado pelo legislador infraconstitucional – tanto complementar, como ordinário –, sopesando os interesses sócio-econômicos dele advindos, no caso, sem qualquer restrição ou condição.
+    Como referido na inicial, a única restrição quanto a tal benefício está posta em norma de natureza regulamentar (infralegal, portanto), precisamente no Decreto Estadual n. 37.699/97, que aprovou o Regulamento do ICMS, art. 37, §8º, verbis:
+    Art. 37 – (...)
+    § 8.º - Os créditos fiscais relativos ao benefício do não-estorno somente poderão ser utilizados para a compensação com débitos fiscais decorrentes de operação de saída ou de importação de mercadoria da mesma espécie da que originou o respectivo não-estorno.
+    De feito, limitando o aproveitamento dos créditos fiscais às operações de saída de “mercadoria da mesma espécie da que originou o respectivo não-estorno”, o referido dispositivo regulamentar acabou por restringir o conteúdo e alcance da lei estadual em função da qual foi expedido (conforme visto antes), o que implica sua ilegalidade, porque contrário a norma de superior hierarquia (art. 99 do Código Tributário Nacional). (destaquei)
+    O acórdão foi assim ementado:
+    “APELAÇÃO E REEXAME NECESSÁRIO. DIREITO TRIBUTÁRIO. ICMS. PRODUTOS AGROPECUÁRIOS, BENEFÍCIO DO NÃO-ESTORNO. COMPENSAÇÃO. Tem direito a parte de se creditar do ICMS resultante da aquisição de produtos agropecuários, ainda que as saídas posteriores sejam isentas ou não tributadas, conforme previsto no art. 26, § 6º da Lei Complementar n. 87/96 e art. 16, § 2º, da Lei Estadual n. 8.820/89 não prevalecendo, no tocante, a restrição do § 8º do art. 37 do RICMS/RS, aprovado polo Decreto n. 37.699, de 16.08.1997. Inteligência do art. 99 do CTN. Precedentes jurisprudenciais. APELAÇÃO DESPROVIDA. SENTENÇA CONFIRMADA EM REEXAME NECESSÁRIO CONHECIDO DE OFICIO.” (destaquei)
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada que fundamentou o acórdão da origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: AI 795.051 AgR/RS, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 03.10.2011; e AI 759.662-AgR/RS, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 26.9.2012; e ARE 871.173-AgR/RS, Rel. Min. Roberto Barroso, 1ª Turma, DJe 11.9.2015, cuja ementa transcrevo:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. APROVEITAMENTO DE CRÉDITOS. LEI ESTADUAL PERMISSIVA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA Nº 280/STF. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia quando, para dissentir das conclusões adotadas pelo Tribunal de origem, é necessário o reexame da legislação infraconstitucional pertinente. 2. Agravo regimental a que se nega provimento.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de setembro de 2015.
+Ministra Rosa Weber
+Relatora
