@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. SANÇÃO POLÍTICA: NEGATIVA DE EMISSÃO DE NOTA FISCAL ELETRÔNICA. IMPOSSIBILIDADE DA UTILIZAÇÃO DE MEIOS DE COERÇÃO PARA COMPELIR O CONTRIBUINTE INADIMPLENTE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “MANDADO DE SEGURANÇA – Pretensão de suspensão do bloqueio de emissão de nota fiscal eletrônica, em razão da existência de débito fiscal de ISS – Possibilidade – Instrução Normativa SF SUREM nº 19/2011 que traz medida coercitiva, restringindo a atividade econômica – Súmulas nº 70, 323 e 547, do Supremo Tribunal Federal – Presença do direito líquido e certo – Sentença mantida – Reexame necessário e recurso desprovido” (fl. 156).
+    2. No recurso extraordinário, o Agravante alega contrariedade ao art. 170, parágrafo único, da Constituição da República.
+    Assevera ter
+    “esclarec[ido] que o ato atacado [pelo Recorrido] não se enquadra nas hipóteses consagradas em referidas súmulas, nem viola qualquer direito do contribuinte, já que, sendo a expedição de notas fiscais uma obrigação tributária acessória decorrente de lei, inexiste qualquer óbice constitucional a que o Ente Fazendário dispense o sujeito passivo do cumprimento de referida obrigação nas hipóteses previstas também em lei, caso do inadimplemento reiterado da obrigação tributária principal” (fl. 166).
+    3. O Tribunal de origem inadmitiu o recurso extraordinário ao fundamento de ausência de ofensa direta à Constituição da República.
+    Na petição de agravo, sustenta-se “desrespeito à Constituição Federal” e “nulidade do despacho denegatório [pela] usurpação da competência deste Supremo Tribunal [para] apreciação do mérito do recurso extraordinário” (fls. 207-208).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois a questão posta à apreciação foi julgada pelo Supremo Tribunal Federal, demonstrando-se cuidar de matéria constitucional, única a autorizar a análise em recurso extraordinário.
+    A superação desse fundamento, todavia, não é suficiente para o acolhimento da pretensão do Agravante, não lhe assistindo razão jurídica
+    6. O Desembargador Relator no Tribunal de Justiça paulista afirmou:
+    Com efeito, aduz a empresa apelada ter o direito líquido e certo de emitir as Notas Fiscais Eletrônicas (NFS-e) para o regular desempenho de suas atividades, a despeito de se encontrar devedora de tributo municipal – ISS.
+    (...)
+    Depreende-se, assim, não ser possível à autoridade municipal condicionar a emissão de notas fiscais eletrônicas ao pagamento de débitos fazendários, nos termos da Instrução Normativa nº 19 SF/SUREM/2011. Isso porque, tal negativa levaria ao impedimento do exercício regular das atividades empresariais, em afronta à garantia constitucional da livre iniciativa, prevista no art. 1º, inciso IV e 170, “caput”, ambos da Constituição Federal” (fls.157-158).
+    7. Este Supremo Tribunal assentou ser inaplicável sanção política, em matéria tributária, como meio coercitivo para pagamento de débito fiscal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. IMPOSSIBILIDADE DE IMPOR AO CONTRIBUINTE INADIMPLENTE A OBRIGAÇÃO DO RECOLHIMENTO ANTECIPADO DO TRIBUTO. FORMA OBLÍQUA DE COBRANÇA. VIOLAÇÃO AOS PRÍNCIPIOS DA LIVRE CONCORRÊNCIA E DA LIBERDADE DE TRABALHO E COMÉRCIO. AGRAVO IMPROVIDO. I – Impor ao contribuinte inadimplente a obrigação de recolhimento antecipado do ICMS, como meio coercitivo para pagamento do débito fiscal, importa em forma oblíqua de cobrança de tributo e em contrariedade aos princípios da livre concorrência e da liberdade de trabalho e comércio. Precedentes. II – Agravo regimental improvido” (RE 525.802-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 22.5.2013).
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SANÇÃO POLÍTICA COMO MEIO COERCITIVO PARA PAGAMENTO DE TRIBUTOS. INCONSTITUCIONALIDADE. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, é inconstitucional a sanção política visando ao recolhimento de tributo, tal como ocorre com o ato de condicionar a expedição de notas fiscais à prestação de fiança, garantia real ou fidejussória por parte do contribuinte. Matéria decidida no RE 565.048, Rel. Min. Marco Aurélio. 2. Agravo regimental a que se nega provimento“ (AI 623739-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 26.8.2015).
+    “DÉBITO FISCAL - IMPRESSÃO DE NOTAS FISCAIS - PROIBIÇÃO - INSUBSISTÊNCIA. Surge conflitante com a Carta da República legislação estadual que proíbe a impressão de notas fiscais em bloco, subordinando o contribuinte, quando este se encontra em débito para com o fisco, ao requerimento de expedição, negócio a negócio, de nota fiscal avulsa” (RE 413.782, Relator o Ministro Marco Aurélio, Plenário, DJ 17.3.2005).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal. Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de setembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relator
