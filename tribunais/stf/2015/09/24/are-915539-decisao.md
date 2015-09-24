@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. FÉRIAS. GOZO NA ÉPOCA PRÓPRIA. PAGAMENTO FORA DO PRAZO. DOBRA DEVIDA. ARTS. 137 E 145 DA CLT (OJ 386 DA SBDI-1 DO TST). DECISÃO DENEGATÓRIA. MANUTENÇÃO. Não há como assegurar o processamento do recurso de revista quando o agravo de instrumento interposto não desconstitui a decisão denegatória, que subsiste por seus próprios fundamentos. Agravo de instrumento desprovido”. (eDOC 17)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 5º, II e V; e 37 do texto constitucional.
+    Aponta-se que aplicar a penalidade prevista no artigo 137 da CLT (pagamento das férias em dobro), no caso em apreço, ofende especialmente o princípio da legalidade.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O acórdão recorrido, ao examinar a CLT, entendeu pelo pagamento da dobra das férias não remuneradas em época própria. Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Sobre o tema, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. PAGAMENTO DE FÉRIAS EM DOBRO. CONTROVÉRSIA QUE DEMANDA ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL E REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE NOS AUTOS. SÚMULA 279/STF. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. NÃO OCORRÊNCIA. Os temas constitucionais do apelo extremo não foi objeto de análise prévia e conclusiva pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. Para chegar a conclusão diversa do acórdão recorrido, necessária seria a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. Em se tratando especificamente de suposta ofensa ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. Agravo regimental a que se nega provimento.”. (ARE 834.662-AgR/DF, Rel. Min. Roberto Barroso, Primeira Turma, DJe 19.12.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. FÉRIAS. DOBRA NO PAGAMENTO REALIZADO FORA DO PRAZO LEGAL. ACÓRDÃO RECORRIDO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NA JURISPRUDÊNCIA TRABALHISTA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 788.188-AgR/DF, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 14.2.2014)
+    Por fim, ressalto que o Supremo Tribunal Federal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Enunciado 636 da Súmula do STF).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 24 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
