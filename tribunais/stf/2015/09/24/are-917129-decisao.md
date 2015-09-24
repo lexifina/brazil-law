@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa reproduzo a seguir:
+    “Licença-prêmio não gozada por servidor público enquanto esteve na atividade de suas funções – Cessação do vínculo com a Administração Pública – Direito de perceber indenização, em pecúnia, do valor correspondente ao período não usufruído – Verba de caráter indenizatório, não submetida ao teto remuneratório do funcionalismo público – Recurso não provido.” (eDOC 1, p. 59).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida. No mérito, aponta-se ofensa ao art. 37, XI, do texto constitucional.
+    Defende-se, em síntese, que, ao contrário do que decidiu o Tribunal de origem, a conversão em pecúnia da licença-prêmio deve se submeter ao teto constitucional.
+    É o relatório.
+    Decido.
+    As razões recursais não merecem prosperar.
+    A apreciação do pleito recursal sobre a natureza jurídica da verba indenizatória, recebida por licença-prêmio não usufruída, para incidência do teto constitucional, exigiria análise da legislação estadual aplicável à espécie (Leis Complementares estaduais ns. 1.080/2008 e 1.113/2010 e Lei estadual n. 10.261/1968).
+    A alegada contrariedade à Constituição da República, se ocorrida, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 280 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO CONVERTIDA EM PECÚNIA. NATUREZA INDENIZATÓRIA. INCIDÊNCIA DO TETO ESTADUAL. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. A licença-prêmio não usufruída e convertida em pecúnia, quando sub judice sua natureza jurídica, posto controvérsia infraconstitucional não enseja o cabimento de recurso extraordinário. Precedentes: ARE 784.580-AgR/PE, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 25/3/2014, e ARE n. 789.527-AgR/SP, Relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 20/3/2014. 2. In casu, o acórdão originariamente recorrido assentou: ‘MANDADO DE SEGURANÇA - Aplicabilidade do limite do art. 115, XII, da Constituição Estadual à licença-prêmio convertida em pecúnia –Servidor que não usufruiu da licença prêmio – Natureza indenizatória – Não incidência do redutor – Reexame necessário considerado interposto – Recursos não provido.’ 3. Agravo regimental DESPROVIDO” (ARE 799.983-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 13.6.2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTE FISCAL DE RENDAS APOSENTADO. TETO REMUNERATÓRIO. NÃO INCIDÊNCIA. LICENÇA PRÊMIO NÃO USUFRUÍDA. NATUREZA INDENIZATÓRIA. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. A discussão acerca da natureza jurídica de verbas percebidas por servidores públicos civis ou militares se insere no âmbito infraconstitucional. Precedentes. Agravo regimental a que se nega provimento” (ARE 788.008-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 26.8.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. TETO REMUNERATÓRIO. VERBA INDENIZARÓRIA: NATUREZA JURÍDICA. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 788.879-AgR, Relatora a Ministra Carmen Lúcia, Segunda Turma, DJe 14.3.2014).
+    No mesmo sentido, o ARE 881.018/SP, Rel. Min. Carmen Lúcia, DJe 27.4.2015; e o ARE 767.205/SP, Rel. Min. Ricardo Lewandowski, DJe 2.6.2014.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 24 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
