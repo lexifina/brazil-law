@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Servobras Comércio e Representação de Materiais Para Construção em face do Juiz de Direito da 3ª Vara Cível da Comarca de São Caetano do Sul, cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia da Súmula STF nº 216.
+    A reclamante narra que:
+    a) na origem, trata-se de ação monitória ajuizada em face de Denkar Comércio de Materiais Para Construção, Gantus & Quilis Materiais Para Construção Ltda e Karine Mundini Gantus, pela qual objetiva o “recebimento de cártulas sem força executiva que totalizavam na propositura da ação o importe de R$ 39.616,46 (trinta e nove mil seiscentos e dezesseis reais e quarenta e seis centavos)”;
+    b) apesar dos esforços dispendidos, a citação dos réus restou infrutífera, tendo em vista certidão do oficial de justiça, a qual certificou estarem os requeridos em lugar incerto e não sabido;
+    c) determinada a manifestação da reclamante acerca da certidão do oficial de justiça, por meio de ato de ofício ordinatório disponibilizado em 13/5/15, em 19/8/15, foi certificada a ausência de manifestação nos autos por mais de 30 (trinta) dias, o que levou à extinção do processo em razão do art. 267, inciso III, § 1º do Código de Processo Civil.
+    Alega que, antes da decisão que extinguiu o processo sem resolução do mérito, não houve qualquer determinação judicial no sentido da intimação da parte sob pena de extinção da ação. Nesse tocante, defende que:
+    “(...) a extinção do processo por abandono da causa, decorre da necessidade de explicitar diretamente esta comunicação (rectius, sob pena de extinção).
+    Dessa forma, conclui que
+    “(...) não ocorreu intimação pessoal da parte para determinar a extinção do processo por abandono, bem como não foi intimado o advogado para dar andamento com a expressa comunicação da ocorrência de extinção do processo, contrariando assim matéria sumula do art. 216 desta Corte, e inclusive, o próprio art. 267, III, Par. 1º do CPC. ”
+    Requer que seja deferida ordem cautelar para suspender o curso do processo principal.
+    No mérito, postula que seja julgada procedente a ação para determinar “a prolação de outra decisão que garanta a preservação e observância dos requisitos da sumula 216 desta corte”.
+    Compulsados os autos, entendo que os documentos juntados pela parte reclamante a fim de comprovar suas alegações e instruir o processo são suficientes para a compreensão da controvérsia, motivo pelo qual deixo de requisitar informações à autoridade impetrada.
+    Dispenso, ainda, a oitiva da Procuradoria-Geral da República ante o caráter iterativo da controvérsia (art. 52, parágrafo único, RISTF).
+    É o relatório. Decido.
+    Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade das decisões deste Tribunal (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+    A reclamante alega que a autoridade reclamada desrespeitou o enunciado da Súmula nº 216 do STF, editada nos termos:
+    “Para decretação da absolvição de instância pela paralisação do processo por mais de trinta dias, é necessário que o autor, previamente intimado, não promova o andamento da causa”
+    No caso, a súmula cujo entendimento a reclamante sustenta estar comprometido com a manutenção da decisão impugnada é destituída de efeitos vinculantes, sendo também uniforme a jurisprudência do Supremo Tribunal Federal no sentido de que o possível descumprimento de súmula sem efeito vinculante não justifica o uso da reclamação como meio de correção do ato impugnado. Precedentes: Rcl nº 3.043/RJ, Relatora a Ministra Ellen Gracie, DJ de 1°/2/05; Rcl nº 3.839/RS, Relator o Ministro Gilmar Mendes, DJ de 17/10/05; Rcl nº 2.603/SP, Relator o Ministro Marco Aurélio, DJ de 3/5/04; e Rcl nº 4.586/SP, Relator o Ministro Cezar Peluso, DJ de 23/10/06.
+    Não há, em relação às súmulas não vinculantes, a obrigatoriedade de acatamento vertical pelos tribunais e juízos. Vide precedente:
+    “EMENTA: AGRAVO REGIMENTAL. DECISÃO QUE NEGOU SEGUIMENTO A RECLAMAÇÃO EM QUE SE ALEGAVA DESCUMPRIMENTO A SÚMULA DO SUPREMO TRIBUNAL FEDERAL, DESPIDA DE EFEITO VINCULANTE. 1. Eventual descumprimento de súmula do Supremo Tribunal Federal, mas desprovida de efeito vinculante, não autoriza o manejo da reclamação. 2. Agravo a que se nega provimento” (Rcl nº 5.063/PR-AgR, Relator Ministro Ayres Britto, Tribunal Pleno, Dje de 25/9/09).
+    As razões exaradas na inicial não são aptas, portanto, a instaurar a competência originária desta Suprema Corte, não tendo a reclamante indicado paradigma hábil a dar ensejo ao conhecimento de reclamação.
+    A via da reclamação não é meio adequado para revisar o posicionamento firmado pela autoridade reclamada pela possibilidade de extinção do processo ante a ausência de manifestação da parte autora. Eventual inconformismo contra esta decisão deve ser veiculado pelos meios processuais colocados à disposição do jurisdicionado, em respeito ao devido processo legal.
+    Nesse sentido, a jurisprudência do STF é firme no sentido de não poder a reclamação ser usada com sucedâneo de recurso. Vide:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. EX-PREFEITO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE. ALEGADO DESCUMPRIMENTO À DECISÃO PROFERIDA NA RECLAMAÇÃO 2.138. AUSÊNCIA DE ARGUMENTOS NOVOS. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O instituto da Reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo a quo. 2. Inaplicabilidade da teoria da transcendência dos motivos determinantes. 3. A decisão proferida pelo Plenário do Supremo Tribunal Federal na Reclamação 2.138/DF tem efeitos apenas inter partes, não beneficiando, assim, o ora Agravante. 4. Agravo regimental ao qual se nega provimento.” (Rcl nº 5.703/SP-AgR, Relatora a Ministra Cármen Lúcia, Tribunal Pleno, DJe de 16/10/09)
+    “O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes” (Rcl nº 5.926/SC-AgR, Tribunal Pleno, Relator o Ministro Celso de Mello, DJe-213 de 13/11/09)
+    O meio utilizado tem o demérito de provocar o exame per saltum de questão a ser desenvolvida pelos meios recursais colocados à disposição do jurisdicionado para fazer prevalecer sua tese.
+    Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF. Prejudicada a apreciação do pedido liminar.
+    Publique-se. Int..
+    Brasília, 24 de setembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
