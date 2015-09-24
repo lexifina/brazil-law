@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de decisão monocrática que negou provimento ao recurso de apelação (eDOC 3, p. 77-89).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 1º, III; 3º, I, II e III; 5º, XXXVI e § 2º, 37, caput; 60, § 4º, IV; 62; 194, parágrafo único e IV; 195, parágrafo único; e 201, caput e § 4º, do texto constitucional.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que, conforme entendimento do Supremo Tribunal Federal, a decisão que viabiliza a interposição do recurso extraordinário é aquela proferida em única ou última instância, consoante o disposto no inciso III do art. 102 da Constituição Federal.
+    No presente caso, o recorrente não esgotou as vias ordinárias cabíveis, visto que o recurso extraordinário foi interposto contra decisão monocrática, quando ainda era cabível agravo interno, conforme prevê o art. 557, § 1º, do Código de Processo Civil. Incide, portanto, o Enunciado 281 da Súmula do STF.
+    Nesse sentido, confiram-se os seguintes julgados: ARE-AgR 656.132, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJ 16.11.2011; e AI-AgR 686.751, Rel. Min. Ayres Britto, Primeira Turma, DJe 14.8.2009, cujas ementas transcrevo respectivamente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DECISÃO IMPUGNADA. MONOCRÁTICA. AUSÊNCIA DE ESGOTAMENTO DA VIA RECURSAL ORDINÁRIA. SÚMULA 281 DO STF. AGRAVO IMPROVIDO. I – Recurso extraordinário interposto contra decisão monocrática em embargos de declaração. Não esgotamento da via recursal ordinária (Súmula 281 do STF). II – Agravo regimental improvido”.
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. 1. CASO EM QUE O ARESTO IMPUGNADO DIRIMIU CONTROVÉRSIA DE ÍNDOLE EMINENTEMENTE INFRACONSTITUCIONAL. 2. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 3. AUSÊNCIA DE EXAURIMENTO DAS VIAS RECURSAIS NA INSTÂNCIA ORDINÁRIA. AINDA CABÍVEL O AGRAVO PREVISTO NO § 1º DO ART. 557 DO CPC. INCIDÊNCIA DA SÚMULA 281 DO STF. 1. Entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada na instância extraordinária. 2. Os temas constitucionais suscitados no apelo extremo não foram objeto de análise prévia e conclusiva pelo Tribunal de origem. Pelo que incidem as Súmulas 282 e 356 desta Corte. 3. Por outro lado, não foram exauridas as vias recursais na instância ordinária, dado que ainda cabível o agravo previsto no § 1º do art. 557 do CPC. Incidência da Súmula 281 do STF. 4. Agravo regimental desprovido”.
+    Ademais, verifico que a parte agravante não atacou o fundamento da decisão agravada, qual seja, a inviabilidade do processamento do recurso extraordinário interposto em face de decisão de monocrática. Incide na espécie, portanto, o Enunciado 287 da Súmula do STF. Confira-se, a propósito, o seguinte julgado:
+     “Agravo regimental no recurso extraordinário. Razões do agravo regimental dissociadas dos fundamentos da decisão agravada. Orientação da Súmula nº 287 desta Corte. Precedentes. 1. Inviável o recurso que não ataca os fundamentos da decisão agravada. Incidência da Súmula nº 287 desta Corte 2. Agravo regimental não provido”. (RE 593.721-AgR/PE, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.3.2013)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 24 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
