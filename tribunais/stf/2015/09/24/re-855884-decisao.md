@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Terceira Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul, cuja fundamentação é a seguinte:
+    “Trata-se de recurso interposto pela parte autora contra sentença que julgou improcedente pedido de reconhecimento e cômputo de tempo de serviço exercido concomitantemente.
+    No presente caso, conforme deflui principalmente da análise das fls. 45 e 72 do processo administrativo, a discussão se limita à verificação da possibilidade ou impossibilidade do cômputo pelo INSS do tempo de contribuição de 18.06.1982 a 11.12.1990 em que o autor trabalhou e recolheu concomitantemente:
+    1) como médico junto ao Hospital de Clínicas de Porto Alegre sob o regime celetista e vinculado ao Regime Geral da Previdência Social - RGPS (médico privado); e
+    2) como médico junto ao Ministério da Saúde admitido como celetista e inicialmente vinculado ao Regime Geral da Previdência Social - RGPS que passou para o Regime Jurídico Único somente a contar de 12.12.1990 - RPPS (médico público).
+    Pois bem, com a convolação do emprego público junto ao Ministério da Saúde para cargo público e a previsão para compensação financeira pela Lei nº 8.112/90 (art. 247), verifica-se a ocorrência de concomitância de atividades sujeitas a regimes distintos com recolhimentos distintos, cujo tempo e respectivas contribuições podem ser computados junto ao Regime Geral da Previdência Social - RGPS.
+    Isto porque não se está considerando duplamente a mesma atividade e as mesmas contribuições, o que seria vedado pelo disposto no art. 96, inciso II, da Lei nº 8.213/91, mas, sim, se tratando da concomitância de atividades como médico privado e médico público, com recolhimentos que passaram a ser distintos com a transformação do emprego público em cargo público, mesmo em relação às contribuições anteriores à transformação.
+    Nesse sentido, é a jurisprudência da 3ª Seção do TRF da 4ª Região:
+    [...]
+    Com efeito, o recurso merece ser provido para que, nos limites do pedido formulado na inicial, o INSS seja condenado a reconhecer e computar o período de 18.06.1982 a 11.12.1990 como tempo de contribuição.
+    [...]”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI; 195, § 5º; e 201, § 9º, da Constituição.
+    O recurso é inadmissível, tendo em vista que o Supremo Tribunal Federal, após reconhecer a repercussão geral da matéria, reafirmou a jurisprudência no sentido da possibilidade, para fim de concessão de benefício, da “contagem recíproca do tempo de contribuição na administração pública e na atividade privada.” (RE 650.851-QO, Rel. Min. Gilmar Mendes). Veja-se, à propósito, a ementa do julgado (Tema 522):
+    “Recurso extraordinário. Questão de ordem. 2. A imposição de restrições, por legislação local, à contagem recíproca do tempo de contribuição na administração pública e na atividade privada para fins de concessão de aposentadoria viola o art. 202, § 2º, da Constituição Federal, com redação anterior à EC 20/98. Precedentes. A Lei n. 1.109/81 do Município de Franco da Rocha/SP não foi recepcionada pela Constituição Federal de 1988. 3. Jurisprudência pacificada pela Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal e dar parcial provimento ao recurso extraordinário para determinar à Administração Municipal que examine o pedido de aposentadoria do recorrente considerando a contagem recíproca do tempo de contribuição na administração pública e na atividade privada para o fim de sua concessão. 5. Aplicação dos procedimentos previstos no art. 543-B, § 3º, do Código de Processo Civil.”
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
