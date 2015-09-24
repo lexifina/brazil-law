@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “RECURSO – APELAÇÃO – PRESTAÇÃO DE SERVIÇOS – SANEAMENTO BÁSICO – FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO – AÇÃO REVISIONAL DE CRITÉRIO TARIFÁRIO CUMULADA COM REPETIÇÃO DE INDÉBITO. Serviço de saneamento básico prestado por autarquia municipal. Alegação incidental de inconstitucionalidade da lei municipal que instituiu a forma de apuração dos débitos de consumo para efeitos de cobrança. Asserção de que a cobrança deixa de considerar desvios fraudulentos de consumo e impõe rateios somente às unidades condominiais ativas, desconsideração o consumo de água pertinente as áreas comuns do condomínio, em afronta ao princípio da isonomia. Reconhecimento incidental da fornecedora acerca do critério de cálculo, com readequação administrativa aos termos da lei. Legislação de base que não se configura inconstitucional, por observar a igualdade dos consumidores no tocante ao rateio das tarifas comuns a todos os condôminos, nos termos da legislação civil. Improcedência. Decisão mantida. Recurso de apelação não provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, III; 5º, caput, XXXII e LV; 6º; 37, caput, e 196, todos da Constituição.
+    O recurso extraordinário é inadmissível, tendo em vista que a solução da controvérsia demanda a análise da legislação infraconstitucional aplicada ao caso e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em sede de recurso extraordinário. Veja-se, à propósito, a ementa do RE 823.934-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. FORNECIMENTO DE ÁGUA E ESGOTO. CRITÉRIO DE FIXAÇÃO DA TARIFA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
