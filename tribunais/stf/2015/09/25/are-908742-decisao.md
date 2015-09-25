@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DO ACÓRDÃO RECORRIDO: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, als. a e d, da Constituição da República contra o seguinte julgado da Turma Recursal da Fazenda Pública dos Juizados Especiais do Rio Grande do Sul:
+    “RECURSO CONTRA SENTENÇA. INTEMPESTIVIDADE. INOBSERVÂNCIA DO DISPOSTO NO ARTIGO 42 DA LEI 9.099/95, QUE ESTABELECE O PRAZO DE DEZ DIAS PARA RECORRER. Reconhecida a intempestividade, não pode ser conhecido o recurso. RECURSO INOMINADO NÃO CONHECIDO POR INTEMPESTIVO” (fl. 71).
+    Os embargos de declaração opostos foram rejeitados (fls. 98-99).
+    2. No recurso extraordinário, a Agravante afirma ter a Turma Recursal contrariado o art. 5º, inc. XX, da Constituição da República.
+    Salienta que, “ao instituir cobrança de contribuição social à saúde de forma compulsória, sem que a lei lhe tenha dado permissão para tanto, o IPAG incorreu numa ilegalidade e inconstitucionalidade, visto que tais princípios administrativos estão constitucionalizados” (fl. 113).
+    Assevera “que o abuso ocorre no momento em que há o desconto imediato e anterior à manifestação de vontade do contribuinte (que não houve em momento algum). Portanto, o desconto é ilegal e abusivo e não pode ser convalidado, mesmo que o serviço estivesse à disposição da Recorrente” (fl. 113).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal (fls. 125-126).
+    No agravo, salienta-se que “as decisões singulares e colegiadas estão contrariando o texto constitucional” (fl. 133).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. A Turma Recursal limitou-se ao exame de pressupostos de cabimento de recurso de sua competência, não conhecendo o recurso inominado por ser intempestivo. Não foi apreciado o mérito da matéria veiculada nas razões recursais.
+    No recurso extraordinário, a Recorrente requer o provimento do recurso extraordinário “para que, confirmando a inconstitucionalidade dos dispositivos da Lei Municipal n. 1.053/1996 que determinam a compulsoriedade dos descontos em folha de pagamento dos servidores públicos municipais para fins de custeio à saúde, confirme o cancelamento dos descontos e determine a restituição de todos os descontos havidos, observado o limite prescricional” (fl. 117).
+    Este Supremo Tribunal assentou ser deficiente a argumentação veiculada em recurso sem a necessária impugnação dos fundamentos do acórdão recorrido. Incide na espécie à Súmula n. 284 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 769.985-AgR, de minha relatoria, Segunda Turma, DJe 20.11.2013).
+    “RECURSO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCOGNOSCIBILIDADE. SÚMULA STF 284. Deficiência de fundamentação por ausência de ataque, nas razões do recurso extraordinário, aos fundamentos do acórdão recorrido. Aplicação da Súmula STF 284. Agravo regimental conhecido e não provido” (AI n. 776.488-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 12.3.2013).
+    7. No julgamento do Recurso Extraordinário n. 598.365, Relator o Ministro Ayres Britto, este Supremo Tribunal assentou a inexistência de repercussão geral da questão relativa ao cabimento de recursos da competência de outros Tribunais:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso elemento de configuração da própria repercussão geral, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608” (DJe 23.6.2010).
+    Assim, por exemplo:
+    “Juizados especiais. Recurso inominado. Intempestividade. Pressupostos de admissibilidade. Repercussão geral. Ausência. Intimação. Validade. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O dispositivo constitucional tido como violado não foi examinado pelo Tribunal de origem. Incidência das Súmulas nºs 282 e 356 da Corte. 2. O Plenário da Corte, no exame do RE nº 598.365/MG, Relator o Ministro Ayres Britto, concluiu pela ausência de repercussão geral do tema relativo a pressupostos de admissibilidade de recursos da competência de outros tribunais, dado o caráter infraconstitucional da matéria. 3. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 4. Agravo regimental não provido” (ARE 828.447-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 1.7.2015).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. b, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de setembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
