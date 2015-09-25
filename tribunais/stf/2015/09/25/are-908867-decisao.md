@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, LXXIV, e 134 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos dispositivos da Constituição da República acima citados. Nesse sentido:
+    “EMENTA DIREITO PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS POR EXERCÍCIO DE DEFENSORIA DATIVA. ÔNUS DO DISTRITO FEDERAL. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. LEI 8.906/94. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 14.02.2012. A discussão travada nos autos não alcança status constitucional, porquanto solvida à luz da interpretação da legislação infraconstitucional aplicável à espécie. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.” (ARE 736368 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 14/10/2014, PROCESSO ELETRÔNICO DJe-213 DIVULG 29-10-2014 PUBLIC 30-10-2014)
+    “RECURSO EXTRAORDINÁRIO. OFENSA REFLEXA À CF/88. INADMISSIBILIDADE. 1. O acórdão de origem, a partir da interpretação da Lei 8.906/94, manteve sentença de procedência, determinando ao agravante o pagamento de honorários advocatícios ao agravado pelo exercício como defensor dativo. 2. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa a dispositivos constitucionais, pretende-se a exegese de legislação ordinária. Ofensa à Constituição meramente reflexa ou indireta, de exame inviável nesta sede recursal. 3. Agravo regimental improvido.” (RE 425277 AgR, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em 31/05/2005, DJ 24-06-2005 PP-00062 EMENT VOL-02197-06 PP-01189)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de setembro de 2015.
+Ministra Rosa Weber
+Relatora
