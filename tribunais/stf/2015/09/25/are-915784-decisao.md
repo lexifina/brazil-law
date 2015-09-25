@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da Turma Recursal Única da Comarca de Porto Velho-RO.
+    O acórdão manteve decisão monocrática proferida em recurso inominado pelo Juiz-Relator, no sentido de que é de competência privativa do Chefe do Executivo Estadual a iniciativa de lei que tenha por objetivo alterar a remuneração dos servidores públicos, razão por que julgou-se improcedente o pedido inicial.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, LV; 61, § 1º, II, “a”; 93, IX; e 37, X, da Constituição Federal.
+    Sustenta-se que “o aumento da remuneração não pode ser confundido com a extensão de concessão do auxílio alimentação ao servidor, pois tais verbas possuem natureza jurídica diferentes” (fls. 94).
+    A Presidência da Turma Recursal de origem inadmitiu o recurso com base na ausência de prequestionamento das questões constitucionais invocadas, bem como no óbice da Súmula 636 do STF.
+    É o relatório. Decido.
+    Quanto à alegada ofensa ao inciso LV do art. 5º da Constituição Federal, ressalta-se que o Supremo Tribunal Federal já assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário. (RE-RG 748.371, Rel. Ministro Gilmar Mendes, DJ de 1º.08.2013)
+    No que se refere ao art. 93, IX, do Texto Constitucional, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses da Recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Por fim, a questão referente à natureza jurídica do auxílio- alimentação é de índole infraconstitucional. Assim, eventual ofensa à Constituição seria indireta ou reflexa, visto que demandaria o exame da legislação infraconstitucional pertinente (Lei Estadual 794/1998). Incide, portanto, ao caso, a Súmula 280 do STF. Nesse sentido, confiram-se os seguintes precedentes: ARE 901.129, Rel. Ministro Dias Toffoli, DJe de 03.09.2015; ARE 676.598-AgR, Rel. Ministro Teori Zavascki, Segunda Turma, DJe de 1º.10.2013; ARE 665.726-AgR, Rel. Ministro Ayres Britto, Segunda Turma, DJe de 12.04.2012, e ARE 796.799-AgR, Rel. Ministra Rosa Weber, Primeira Turma, DJe de 13.08.2014.
+    Ante o exposto, conheço do presente agravo, para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 25 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
