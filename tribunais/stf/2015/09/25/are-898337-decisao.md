@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, e 37, XIV e XV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. QUINQUÊNIO. INCIDÊNCIA SOBRE OS VENCIMENTOS INTEGRAIS, INCLUINDO OS ADICIONAIS E AS GRATIFICAÇÕES REPUTADOS COMO DE NATUREZA PERMANENTE. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ATRIBUIÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.” (RE 764332 RG, Relator(a): Min. MINISTRO PRESIDENTE, julgado em 27/02/2014, ACÓRDÃO ELETRÔNICO DJe-056 DIVULG 20-03-2014 PUBLIC 21-03-2014 )
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Servidor militar estadual. Quinquênios. Sexta parte. Incidência sobre os vencimentos integrais. Legislação local. Ofensa reflexa. Ausência de repercussão geral. Precedentes. 1. A Corte, ao analisar o RE nº 764.332/SP, Relator o Ministro Joaquim Barbosa, concluiu pela ausência de repercussão geral da matéria “em que se discute, à luz do art. 37, XIV, da Constituição Federal, se o adicional por tempo de serviço (quinquênio) recebido por servidores públicos deve incidir sobre os vencimentos integrais, incluídos nesse conceito o salário base mais as gratificações e os adicionais reputados como de natureza permanente, nos termos da legislação que os instituiu”, dado seu caráter infraconstitucional. 2. Agravo regimental não provido.” (ARE 702042 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 07/10/2014, ACÓRDÃO ELETRÔNICO DJe-228 DIVULG 19-11-2014 PUBLIC 20-11-2014)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de setembro de 2015.
+Ministra Rosa Weber
+Relatora
