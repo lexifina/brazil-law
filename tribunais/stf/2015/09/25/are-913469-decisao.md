@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado (eDOC3, 19):
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO DE AGRAVO NA APELAÇÃO CÍVEL. PREJUDICIAL DE MÉRITO: PRESCRIÇÃO DO FUNDO DE DIREITO DO MILITAR. REJEITADA. MÉRITO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. CARÁTER GERAL. PRECEDENTES DESTA CORTE DE JUSTIÇA. OFENSA A CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. RECURSO DE AGRAVO INTERPOSTO COM OS MESMOS FUNDAMENTOS DO RECURSO DE APELAÇÃO. RECURSO NÃO PROVIDO COM BASE NA MESMA MOTIVAÇÃO. DECISÃO UNÂNIME.
+    1. Prejudicial de mérito: Prescrição do Fundo de Direito do Militar. Rejeitada. Tratando-se de ato omissivo continuado da agravante, a relação é de trato sucessivo, renovando-se mês a mês o prazo para o ajuizamento da ação, caso em que a prescrição quinquenal atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação. Decisão Unânime.
+    2. Mérito. Gratificação de Risco de Policiamento Ostensivo. Caráter Geral. Devida a todos os militares da ativa, bem como aos aposentados e pensionistas. Ofensa a Cláusula de Reserva de plenário. Inocorrência. Nas decisões proferidas por este Tribunal houve apenas uma interpretação da Lei invocada, não havendo, portanto, ofensa a Súmula Vinculante, nem ao art. 97 da Constituição Federal.
+    3. Recurso sem inovação nos argumentos trazidos. Não alteração da compreensão explicitada na decisão vergastada. Recurso não provido. À unanimidade.”
+    Os embargos de declaração foram rejeitados. (eDOC3, 55-57).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 40, §§ 7º e 8º; 37, X; e 97 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a Gratificação de Risco de Policiamento Ostensivo tem caráter propter loborem, não podendo, assim, ser incorporada aos proventos dos recorridos. Aduz, ainda, que o acórdão viola a cláusula da reserva de plenário, insculpida no art. 97, da Constituição Federal, ao conceder a referida gratificação, declarando, ainda que não expressamente, a inconstitucionalidade da Lei Complementar 59/2004.
+    A 2ª Vice-Presidência do TJ/PE inadmitiu o recurso com base na ausência de fundamentação da preliminar de repercussão geral e no óbice das Súmulas 279 e 280 do STF. (eDOC3, p. 92/93)
+    É o relatório. Decido.
+    Inicialmente, verifica-se que o Tribunal de origem manteve a sentença, por seus próprios fundamentos, onde se consignou que a gratificação instituída pela Lei Complementar 59/2004 tem natureza geral, porquanto se trata de vantagem inerente a todo efetivo da Polícia Militar, em virtude da atividade que desempenha. (eDOC2, p. 10)
+    Sendo essas as razões acolhidas para solucionar a lide, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo quanto à natureza jurídica da Gratificação de Risco de Policiamento Ostensivo, se genérica ou pro labore faciendo, demandaria o exame da legislação local e o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 280 e 279 do STF.
+    A esse respeito, confiram-se os seguintes precedentes: ARE 840.478-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 13.04.2015, e ARE 879.906-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 22.09.2015.
+    Ademais, quanto à alegação de ofensa à cláusula da reserva de plenário, observa-se que o Tribunal de origem, ao analisar o caso concreto, não declarou inconstitucional a legislação aplicada, nem afastou sua aplicação por julgá-la inconstitucional, mas apenas interpretou a norma legal.
+    A jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula da reserva de plenário, o que não se verificou no caso concreto.
+    Confiram-se, a propósito, os seguintes julgados: AI-AgR 848.332, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 24.04.2012, e ARE-AgR-ED 736.780, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 22.05.2015.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 25 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
