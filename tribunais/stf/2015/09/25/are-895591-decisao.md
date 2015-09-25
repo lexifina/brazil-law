@@ -1,0 +1,33 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA MILITAR. LIMITE DE IDADE. MOMENTO DE COMPROVAÇÃO DO REQUISITO. OFENSA À CLÁUSULA DE RESERVA DE PLENÁRIO. ARTIGO 97 DA CONSTITUIÇÃO. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. DECADÊNCIA NÃO CONFIGURADA. LIMITE DE IDADE PARA INSCRIÇÃO NO CURSO DE FORMAÇÃO ULTRAPASSADO NO CURSO DO CERTAME. MORA DA ADMINISTRAÇÃO PÚBLICA QUE NÃO PODE PENALIZAR O IMPETRANTE. EMBARGOS DE DECLARAÇÃO CONVERTIDOS EM AGRAVO REGIMENTAL. RECURSO CONHECIDO E PROVIDO PARA, MODIFICANDO A DECISÃO AGRAVADA, CONCEDER A SEGURANÇA. 1. É legítima a previsão legal e editalícia para estabelecer limite etário para ingresso no curso de formação profissional militar. 2. A fluência do prazo decadencial em caso de impugnar norma do edital começa da sua publicação. 3. Ao verberar contra lesão a direito de continuar no concurso, o prazo da decadência começa a partir da exclusão do impetrante. 4. A mora da administração pública não pode servir para penalizar quem não deu causa ao fato superveniente. 5. Os embargos de declaração com nítidos propósitos infringentes devem ser convertidos em agravo regimental. 6. Comprovado o direito líquido e certo, concede-se a segurança pleiteada.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 37, I e II, 42, § 1º, 97 e 142, § 3º da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que encontra óbice na Súmula nº 279 do STF.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    O entendimento desta Suprema Corte é no sentido de que o limite de idade como requisito para ingresso no curso de formação profissional militar é legítimo, desde que previsto em lei e quando possa ser justificado pela natureza das atribuições do cargo a ser preenchido.
+    Ademais, releva assinalar que esta Corte também já firmou jurisprudência no sentido de que a comprovação do requisito etário deve ser realizada no momento da inscrição no certame e não na inscrição do curso de formação.
+     Nesse sentido, anotem-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL CIVIL. LIMITE DE IDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    1. A comprovação do requisito etário estabelecido na lei deve ocorrer no momento da inscrição no certame, e não no momento da inscrição do curso de formação.” (ARE 685.870-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 12/2/2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DO CEARÁ. LIMITE DE IDADE. COMPROVAÇÃO. DATA DA INSCRIÇÃO NO CONCURSO. INOVAÇÃO DE MATÉRIA EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL
+    A QUE SE NEGA PROVIMENTO.
+    I – A comprovação do requisito de idade deve ser realizada no momento da inscrição no concurso público. Precedentes.
+    II – A alegada ofensa ao art. 97 da Constituição, suscitada no agravo regimental, não foi arguida no recurso extraordinário. É incabível a inovação de fundamento nesta via recursal. Precedentes.
+    III – Agravo regimental a que se nega provimento.” (ARE 741.815-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 13/2/2014).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. Limite etário para participação de curso de formação da Polícia Militar do Estado do Ceará. Impossibilidade de dimensionar o período transcorrido entre a abertura das inscrições do concurso e a efetiva homologação. A comprovação da idade deve dar-se no momento da inscrição. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 721.339-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 1º/2/2013).
+    Ressalte-se, por fim, que não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal a quo não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do artigo 97 da Constituição, mas apenas interpretou a norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+    II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+    III - Agravo regimental a que se nega provimento.” (ARE 784.179-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 17/2/2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+    Ausência de argumentos capazes de infirmar a decisão agravada.
+    Agravo regimental a que se nega provimento.” (ARE 767.313-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 26/3/2015).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 25 de setembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
