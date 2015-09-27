@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado (eDOC 1, p. 45-46):
+    PROCESSUAL CIVIL. ADMINISTRATIVO. REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. AGENTE PENITENCIÁRIO. DEMISSÃO. ABANDONO DE CARGO. PRELIMINAR. PRESCRIÇÃO. REJEITADA. PRESSUPOSTO SUBJETIVO - ANIMUS ABANDONANDI. NÃO CONFIGURADO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. REINTEGRAÇÃO DEVIDA. REEXAME E APELO CONHECIDOS E DESPROVIDOS. SENTENÇA CONFIRMADA.
+    1. A teor da Súmula 106/STJ, ‘proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência’. Preliminar rejeitada.
+    2. A demissão de servidor público, por abandono de cargo, apurado em processo administrativo disciplinar, depende de comprovação de dois pressupostos, a saber: a) objetivo — 30 faltas consecutivas ou 60 faltas interpoladas durante 12 meses e b) subjetivo — deliberada ausência ao serviço, sem justa causa.
+    3. Rechaçando-se o animus abandonandi (pressuposto subjetivo), indispensável para configurar o abandono do cargo, reveste-se o ato de demissão de ilegalidade, razão pela qual deve ser desconstituída, com a determinação da reintegração do servidor.
+    4. Consonante jurisprudência do Superior Tribunal de Justiça, a decisão que reintegra o servidor no cargo opera efeitos ex tunc, para restabelecer o status quo ante, e os efeitos patrimoniais deverão ser concedidos a partir do ato lesivo.
+    5. ‘Não há confundir a análise do mérito administrativo, que é de exclusividade da Administração por exigir juízo de valor acerca da conveniência e oportunidade do ato, com o exame de eventual ofensa ao princípio da proporcionalidade, que acarreta na ilegalidade e nulidade do ato e, portanto, é passível de ser examinada pelo Poder Judiciário.’ (STJ - REsp 876514/MS - Relª. Minª. MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 19/10/2010, DJe 8/11/2010).
+    6. Reexame e apelo conhecidos e desprovidos. Sentença confirmada, em consonância com o parecer ministerial.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; e 5º, LIV e LV, da Constituição Federal.
+     Nas razões recursais, sustenta-se, em suma, que não houve ofensa a qualquer das garantias processuais que norteiam o processo disciplinar, tampouco a instauração do PAD se deu por perseguição ao servidor, mas em decorrência de falta disciplinar. Aduz-se, ainda, que não cabe ao Poder Judiciário substituir a valoração do administrador público no que se refere à conduta do servidor.
+    A Vice-Presidência do TJ/CE inadmitiu o recurso, em virtude de inexistir ofensa direta à Constituição Federal e de incidir à hipótese as Súmulas 279 e 280 do STF.
+    É o relatório. Decido.
+    A Lei 12.322/2010 inaugurou nova sistemática no processamento do agravo interposto em face de recurso extraordinário. Assim, inadmitido o recurso na origem, o agravo é interposto nos autos, dispensando-se a formação de instrumento (art. 544, caput, do CPC).
+    Consabido, a admissibilidade dos recursos às instâncias especiais é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    Com efeito, a petição de agravo deixou de impugnar a negativa de seguimento em razão da incidência da Súmula 280 do STF. O recurso, portanto, não ataca, especificamente, todos os fundamentos da decisão que inadmitiu o recurso extraordinário. Sendo assim, torna-se inviável seu conhecimento, nos termos da Súmula 287 do STF e do art. 544, § 4º, I, do CPC.
+    A esse respeito, confiram-se os seguintes precedentes: ARE 813.138-ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.12.2014; ARE 832.532-AgR, Segunda Turma, DJe 11.11.2014.
+    Além disso, ainda que se analise o mérito do agravo, a irresignação não prosperaria.
+    Inicialmente, ressalto que o Supremo Tribunal Federal consolidou entendimento no sentido de que não ofende o princípio da separação de Poderes o exame da legalidade dos atos administrativos pelo Poder Judiciário. Nesse sentido: RE 894.160-AgR, Rel. Min. Rosa Weber, Primeira Turma, Dje 1º.9.2015; ARE 882.043-AgR, Rel. Min. Dias Toffoli, Segunda Turma, Dje 18.8.2015.
+    Ademais, verifica-se que o tribunal de origem, concluindo que não restou comprovado o animus abandonandi do servidor, asseverou que (eDOC 7, p. 2):
+     “Pelo contexto fático, depreende-se que a autora não deixou de comparecer ao trabalho desmotivadamente, sem um motivo justificável, mas em razão do ato ilegal e arbitrário praticado pelo Coronel Marcondes que sustou seu pagamento logo após a instauração do primeiro PAD.”
+    (...)
+    “ Não há no Estatuto dos Funcionários Públicos Civis do Estado do Ceará – Lei nº 9.826/74, qualquer previsão que autorize o bloqueio/corte dos vencimentos de servidor que esteja submetido a processo administrativo.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o exame da legislação local e o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 280 e 279 do STF.
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional. (RE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, Tema 660 da sistemática da RG).
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 27 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
