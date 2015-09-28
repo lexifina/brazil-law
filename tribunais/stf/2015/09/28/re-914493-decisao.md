@@ -1,0 +1,54 @@
+Decisão:
+    Vistos.
+    O Ministério Público do Estado do Rio Grande do Sul interpõe recurso extraordinário assentado em contrariedade aos arts. 22, inciso I, e art. 24, inciso I e §§ 1º e 2º, da Constituição Federal.
+    Decido.
+    Compulsando os autos, verifica-se que, simultaneamente ao apelo extremo, foi interposto recurso especial, admitido na origem e autuado no Superior Tribunal de Justiça como REsp nº 1.508.747/RS, que restou provido pelo Relator, Ministro Jorge Mussi.
+    Eis o teor da referida decisão:
+    “Trata-se de recurso especial interposto pelo Ministério Público do Estado do Rio de Janeiro, com fundamento na alínea ‘a’ do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pela 3ª Câmara Criminal do Tribunal de Justiça daquela unidade da federação por ocasião do julgamento do Agravo em Execução n. 70059477364.
+    De acordo com os autos, o Juízo da Execução reconheceu a prática de falta grave pelo recorrido, razão pela qual alterou a data-base para concessão de benefícios, à exceção do livramento condicional e comutação de pena, e determinou a perda de 1/3 (um terço) dos dias remidos.
+    Contra a mencionada decisão, a defesa interpôs agravo em execução, tendo o Tribunal de origem acolhido a preliminar de nulidade para decretar a prescrição da pretensão punitiva disciplinar, o que deu azo à oposição de embargos de declaração pelo órgão ministerial, os quais não foram acolhidos.
+    Sustenta o recorrente que o acórdão impugnado teria negado vigência ao art. 109, inciso VI, do Código Penal, ao declarar extinta a punibilidade do apenado em razão de o procedimento administrativo disciplinar necessário para apurar a prática de falta grave não ter observado o prazo previsto no art. 37 do Regimento Disciplinar Penitenciário Estadual.
+    Alega que a prescrição da pretensão de aplicação de falta disciplinar cometida no curso da execução penal, diante da ausência de legislação específica federal, deveria ser regulada, por analogia, pelo prazo constante do art. 109 do Código Penal, com a aplicação de seu menor lapso previsto, qual seja de 3 (três) anos.
+    Afirma que não poderia ser aplicado ao caso o prazo previsto no Regimento Disciplinar do Estado do Rio Grande do Sul, uma vez que a matéria seria de competência exclusiva da União, nos termos do art. 22, inciso I, da Constituição Federal.
+    Defende, portanto, que não tendo transcorrido o lapso temporal de 3 (três) anos entre a data da prática da falta grave - 19-11-2012-, não haveria que se falar no implemento do prazo prescricional.
+    Requer o provimento do recurso para que seja reformado o acórdão recorrido, afastando-se o reconhecimento da prescrição para a instauração do PAD, com vista à verificação da ocorrência de falta grave, restabelecendo-se a decisão de primeiro grau.
+    Contra-arrazoada a insurgência (fls. 141-143), após o juízo positivo de admissibilidade (fls. 150-157) os autos ascenderam a esta Corte Superior de Justiça, tendo o Ministério Público Federal, na condição de custos legis, se manifestado pelo provimento do recurso (fls. 173-176).
+    É o relatório.
+    Constatada a tempestividade do recurso, bem como o preenchimento dos seus requisitos de admissibilidade, passa-se à análise do mérito da insurgência.
+    Na espécie, verifica-se que a Corte Estadual, ao julgar o recurso defensivo lá aforado, acolheu a preliminar de nulidade para reconhecer a prescrição da pretensão punitiva disciplinar, fundamentando o acórdão nos seguintes termos:
+    Em preliminar, o agravante aludiu ter ocorrido à prescrição da pretensão punitiva disciplinar, por inobservância ao artigo 37 do RDP, devendo ser declarada a nulidade do Procedimento Administrativo Disciplinar.
+    Após análise dos autos, verifico ter sido o PAD instaurado em 18 de dezembro de 2012, tendo sua conclusão se dado em 17 de julho de 2013, extrapolando, assim, o prazo máximo permitido.
+    De modo a corroborar esta circunstância, o magistrado a quo, ao decidir pelo reconhecimento da falta grave e suas conseqüências legais, referiu que o prazo a ser considerado para apuração de prescrição do procedimento administrativo disciplinar é o menor vigente no Código Penal (03 anos), uma vez que a prescrição é matéria de competência legislativa da União, e não do Estado, conforme precedentes do STJ.
+    Em que pesem as argumentações trazidas pelo magistrado, discordo deste entendimento.
+    Conforme artigo 37, caput e parágrafo único do Regimento Disciplinar Penitenciário o prazo de conclusão do PAD é de 30 dias, a contar de sua instauração, podendo ser concedida a prorrogação por mais 30 dias, pela autoridade administrativa, em caso de justificada necessidade. Caso não seja concluído no prazo previsto, será considerado prescrito.
+    Ademais, conforme disposto no artigo 1o do Decreto n° 46.534, o qual aprovou o Regimento Disciplinar Penitenciário do Estado Rio Grande do Sul, o RDP foi estipulado para atender às disposições da Lei de Execuções Penais, a qual não regula a matéria da prescrição no âmbito dos procedimentos administrativos. Aplicar-se-ia, pois, o disposto no artigo 109 do Código Penal se não houvesse outro dispositivo que regulamentasse a matéria no que concerne à apuração das faltas disciplinares. Não é o caso em tela.
+    Dessa maneira, está, portanto, extinta a punibilidade diante da ocorrência da prescrição. (fls. 90-91).
+    Quanto ao tema, a jurisprudência deste Sodalício Superior pacificou-se no sentido de que, em face da lacuna legal, o prazo de prescrição para apuração de falta disciplinar grave praticada no curso da execução é o regulado no art. 109, VI do Código Penal, qual seja, 3 anos, tratando-se de infração cometida na vigência da Lei n. 12.234/2010.
+    Nesse norte, os seguintes precedentes:
+    HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO DA PENA. PROCESSO ADMINISTRATIVO DISCIPLINAR. NULIDADE. FALTA GRAVE. NOVA DATA-BASE PARA A PROGRESSÃO. POSSIBILIDADE. [...]
+    2. Sobre a prescrição da falta disciplinar, entendem as Turmas Criminais desta Corte que diante da ausência de normatização específica aplica-se o disposto no art. 109, VI, do Código Penal, por ser este o menor lapso prescricional previsto na legislação.
+    3. É assente nesta Corte Superior de Justiça que a homologação da falta grave produz a alteração da data-base para fins de progressão de regime prisional.
+    4. O cometimento de falta grave durante a execução da pena não prejudica o lapso temporal necessário à obtenção do livramento condicional, o indulto e a comutação, exceto, nessas duas últimas hipóteses, se o decreto concessivo fizer expressa menção a esta consequência.
+    5. Habeas corpus não conhecido. Ordem concedida, parcialmente, de ofício, para o afastamento da interrupção do lapso temporal, visando a obtenção dos benefícios de livramento condicional, indulto e comutação.
+    (HC 188.186/RS, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 24/9/2013, DJe 30/9/2013)
+    PENAL. EXECUÇÃO. HABEAS CORPUS SUBSTITUTIVO. FALTA GRAVE. PRÁTICA DE CRIME DOLOSO DURANTE EXERCÍCIO DE SERVIÇO EXTERNO. PRISÃO EM FLAGRANTE. INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. PRESCRIÇÃO REGULADA PELO INCISO VI DO ART. 109 DO CÓDIGO PENAL. NÃO OCORRÊNCIA. INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO DO WRIT. [...]
+    3. Ante a lacuna da lei, o Superior Tribunal de Justiça firmou entendimento no sentido de que o prazo de prescrição para apuração de falta disciplinar grave, durante a execução, é regulado pelo disposto no inciso VI do art. 109 do Código Penal. Precedentes.
+    4. In casu, tendo sido a falta cometida em outubro de 2009 e a instauração de processo administrativo disciplinar se dado em junho de 2010, não se verifica o decurso de lapso temporal suficiente para a ocorrência da prescrição, que, ao tempo da prática da falta grave, era de 2 (dois) anos.
+    5. Não cabe ao Executivo Estadual, por meio de decreto, disciplinar hipótese de prescrição em matéria penal.
+    6. Não se vislumbra ilegalidade a ser reparada.
+    7. Habeas corpus não conhecido. (HC 207.004/RS, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), SEXTA TURMA, julgado em 23/10/2012, DJe 29/10/2012)
+    Assim, e em que pese o entendimento do Tribunal recorrido, não tendo se constatado o decurso do prazo de 3 (três) anos entre a data de instauração da sindicância - 18-12-2012 - e a de sua conclusão - 17-7-2013 -, afigura-se inviável o reconhecimento da prescrição.
+    Ante o exposto, com fundamento no artigo 557, § 1º-A, do Código de Processo Civil, combinado com o artigo 3º do Código de Processo Penal, dá-se provimento ao recurso especial para afastar o reconhecimento da prescrição da pretensão disciplinar na espécie, restabelecendo-se a decisão de primeira instância no tocante ao reconhecimento da falta grave oriunda do PAD n. 208/2012” (fls. 278-181 – grifos conforme o original).
+    Interposto agravo regimental, o relator, o Sr. Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), assim concluiu:
+    “(...)
+    Com efeito, de fato, afastado o reconhecimento da prescrição da indisciplina anteriormente acolhida pela Corte Estadual, restam pendentes de exame outras teses aventadas pela defesa quando da interposição do agravo em execução, dentre as quais a nulidade do procedimento administrativo disciplinar e a modificação da falta grave para média, razão pela qual deve ser determinada a remessa do feito ao Tribunal a quo para que aprecie as aludidas questões.
+    Ante o exposto, reconsidero a decisão agravada tão somente com relação à parte dispositiva para, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, combinado com o art. 3º do Código de Processo Penal, dar provimento ao recurso especial ministerial para afastar o reconhecimento da prescrição da pretensão disciplinar na espécie, determinando-se o retorno dos autos à Corte de origem a fim de que prossiga no exame dos demais fundamentos do agravo em execução defensivo”.
+    Essa decisão transitou em julgado em 18/8/2015, conforme a certidão de fl. 211 (eSTJ).
+    Com efeito, a apreciação da pretensão formulada no recurso extraordinário encontra-se prejudicada, dada a perda superveniente de objeto.
+    Anote-se que a jurisprudência deste Supremo Tribunal é assente no sentido de que, nos casos como o presente, há o prejuízo do recurso extraordinário ou do respectivo agravo interposto. Nesse sentido as seguintes decisões monocráticas: AI nº 570.205/RS, Relator o Ministro Joaquim Barbosa, DJ de 16/508; AI nº 667.998/RJ, Relator o Ministro Gilmar Mendes, DJ de 25/4/08; e AI nº 627.834/SP, Relatora a Ministra Cármen Lúcia, DJ de 28/11/07, entre outras.
+    Ante o exposto, nos termos dos arts. 21, inciso IX, do RISTF, e 38 da Lei nº 8.038/90, julgo prejudicado o recurso.
+    Publique-se.
+    Brasília, 28 de setembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
