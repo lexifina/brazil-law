@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão de Tribunal de Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO ARTIGO 557, §1º CPC. EMBARGOS À EXECUÇÃO FISCAL. MULTA POR INFRAÇÃO. DISPENSÁRIO DE MEDICAMENTOS: NÃO OBRIGATORIEDADE DA PRESENÇA DE PROFISSIONAL REGISTRADO NO CRF. I. Nos termos do artigo 557, "caput", do CPC, o relator negará seguimento a recurso em confronto com súmula ou jurisprudência dominante do tribunal respectivo ou de tribunal superior, manifestamente improcedente, inadmissível ou prejudicado. II. Ilegalidade da exigência de profissional farmacêutico em posto/dispensário de medicamentos (artigo 15, da Lei Federal nº 5.991/73). III. Agravo desprovido.”(eDOC. 2, p. 89-92)
+    Os embargos de declaração foram rejeitados (eDOC. 3, p. 5-8).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 1º, III; 3º, III e IV; 5º, I; 6º; e 196, do Texto Constitucional.
+    Nas razões recursais, sustenta-se a necessária presença do técnico farmacêutico em dispensário de medicamento mesmo nas unidades hospitalares com menos de 50 leitos.
+    A Presidência do TRF da 3ª Região inadmitiu o recurso ao fundamento de que se trata de ofensa reflexa à Constituição Federal.
+    É o relatório.
+    A irresignação não merece prosperar.
+    De plano, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. NECESSIDADE DE TÉCNICO FARMACÊUTICO EM DISPENSÁRIOS DE UNIDADES HOSPITALARES. CONTROVÉRSIA RESTRITA AO ÂMBITO INFRACONSTITUCONAL. PRECEDENTES. A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento” (ARE nº 772.512/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 21/10/14).
+    “DIREITO ADMINISTRATIVO EXIGÊNCIA DE FARMACÊUTICO COMO RESPONSÁVEL TÉCNICO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 15.11.2012. A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar, nesse compasso, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto compreender de modo diverso exigiria análise da legislação infraconstitucional encampada na decisão prolatada pela Corte de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido” (ARE nº 824.521/SP-AgR, Primeira Turma, relatora a Ministra Rosa Weber, DJe de 7/11/14).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 28 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
