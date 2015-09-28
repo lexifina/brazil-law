@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+    “AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. LITISCONSÓRCIO FACULTATIVO. EXECUÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. FRACIONAMENTO.
+    Os artigos 23 e 24 da Lei Federal 8.906/94, por se tratar de direito autônomo do advogado, permitem a execução da verba honorária de forma autônoma, com a expedição do RPV específico, desde que respeitado o limite de 40 (quarenta) salários mínimos, ainda que o crédito principal seja objeto de precatório. Vedada a cobrança de parcela de honorários calculada sobre o crédito de cada litisconsorte/filiado substituído pela entidade de classe, pois configura indevido fracionamento, vedado pelo art. 100, § 8º da CF, na medida em que a verba honorária fixada na ação é única. RECURSO DESPROVIDO.”
+    No recurso extraordinário, com fundamento no art. 102, III, da Constituição Federal, aponta-se ofensa aos arts. 100, §8º, e 87, I, ADCT, ambos do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em suma, a possibilidade de se executar autonomamente os “honorários advocatícios de sucumbência sobre o crédito de cada autor integrante da ação de conhecimento.” (fl. 165).
+    Alega-se, ainda, que “o litisconsórcio ativo facultativo da ação de conhecimento o é para cada autor executar o seu crédito de forma autônoma, porém torna-se litisconsórcio obrigatório quanto a cobrança dos honorários de sucumbência, o que caracteriza afronta a lei, pois há total incoerência jurídica.” (fl. 165).
+    A Primeira Vice-Presidência do TJRS admitiu o recurso por reputar preenchidos todos os requisitos de admissibilidade.
+    Decido.
+    Inicialmente, é necessário frisar que o sistema processual atual se voltou em direção à eficiência da jurisdição possibilitando concentração das demandas por meio das ações coletivas. Logo, seria totalmente contraproducente tornar a execução destas demandas vinculadas ao todo e impossibilitar a execução facultativa e individualizada das partes substituídas no processo original.
+    Acrescento, ainda, que o STF julgou, por meio do instituto da repercussão geral, tema análogo (Tema 148, RE-RG 568.645, Min. Rel. Cármen Lúcia, Dje 24.11.2014), no qual, em que pese tratar de litisconsórcio facultativo, as razões de decidir do paradigma persistem, senão vejamos:
+    “Todavia, não é possível ignorar, como pretende o Município, que as execuções promovidas por litisconsortes facultativos nascem fracionadas. Considere-se que o próprio executado pode opor a um ou alguns dos litisconsortes obstáculos à execução da sentença, como prescrição, realização de pagamento, dentre outros, conforme o art. 741, inc. VI, do Código de Processo Civil. O raciocínio desenvolvido pelo Recorrente levaria a inviabilizar o tratamento singularizado de cada litisconsorte facultativo, podendo trazer prejuízos à própria Fazenda Pública.”
+    (…)
+    “Não condiz com as medidas recentemente inseridas na Constituição da República (como a razoável duração do processo, a súmula vinculante, a repercussão geral, além de outras medidas inseridas na legislação processual) interpretar um de seus dispositivos de modo a desestimular a salutar formação de litisconsórcios facultativos simples para a discussão judicial de pedidos idênticos.”
+    Veja-se, a propósito, o seguinte julgado:
+    “RECURSO EXTRAORDINÁRIO – TÍTULO JUDICIAL CONSUBSTANCIADOR DE SENTENÇA COLETIVA – EFETIVAÇÃO EXECUTÓRIA INDIVIDUAL – POSSIBILIDADE JURÍDICA – RECURSO DE AGRAVO IMPROVIDO. POSSIBILIDADE DE EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM PROCESSO COLETIVO. - O fato de tratar-se de mandado de segurança coletivo não representa obstáculo para que o interessado, favorecido pela sentença mandamental coletiva, promova, ele próprio, desde que integrante do grupo ou categoria processualmente substituídos pela parte impetrante, a execução individual desse mesmo julgado. Doutrina. Precedentes.” (RE 648.621 AgR, Relator(a): Min. CELSO DE MELLO, Segunda Turma, julgado em 19/02/2013, ACÓRDÃO ELETRÔNICO DJe-051 DIVULG 15-03-2013 PUBLIC 18-03-2013)
+    Ante o exposto, conheço do recurso extraordinário ao qual dou provimento, nos termos do art. 557 do CPC, e 21, § 2º, do RISTF, para determinar o pagamento dos honorários advocatícios sucumbenciais sobre o crédito individual de cada um dos litisconsortes facultativos na forma de requisição de pequeno valor.
+    Custas ex lege.
+    Ônus sucumbenciais invertidos, conforme a legislação processual.
+    Publique-se.
+    Brasília, 28 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
