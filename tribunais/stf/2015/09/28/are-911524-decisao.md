@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. RESCISÃO CONTRATUAL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APELAÇÃO CÍVEL Interposição contra sentença que extinguiu ação monitória com fundamento no artigo 267, inciso VI, do Código de Processo Civil. Petição inicial que preenche os requisitos do artigo 1.102a do Código de Processo Civil. Documentos hábeis a instruir o pedido inicial e a viabilizar o contraditório. Causa madura a viabilizar o julgamento pelo Tribunal nos termos do artigo 515, § 3º do Código de Processo Civil. Multa contratual por rescisão unilateral afastada por se apresentar abusiva ao caso. Aluno que previamente notificou a prestadora de ensino quanto ao motivado cancelamento do curso. Fato incontroverso quanto à frequência do aluno a 84 horas/aula. Sentença reformada”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. As Agravantes alegam ter o Tribunal de origem contrariado o art. 207 da Constituição da República.
+    Afirmam disposto no art. 207 da Constituição da República que se “concede às universidades a autonomia para elaboração das normas de regência, estatutos e regimentos internos, conferindo, portanto, legitimidade aos atos praticados. Desse modo, uma vez seguindo corretamente o regimento interno do qual o aluno se dispôs a obedecer no momento da contratação da prestação e serviço educacional, não figura a cobrança dos valores devidos ilegal”.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de demonstração de afronta ao art. 207 da Constituição da República e de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste às Agravantes.
+    6. A apreciação do pleito recursal demandaria o reexame da legislação infraconstitucional (Código de Processo Civil), das cláusulas contratuais e do conjunto fático-probatório do processo, procedimento inviável em recurso extraordinário, atraindo-se a incidência das Súmulas ns. 279 e 454 deste Supremo Tribunal:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Civil e do Consumidor. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Contrato de compra e venda de imóvel. Encargos financeiros. Abusividade. Fatos e provas. Cláusulas contratuais. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Inadmissível, em recurso extraordinário, o reexame do conjunto fático-probatório da causa e de cláusulas contratuais. Incidência da Súmula nº 279 e 454/STF. 3. Agravo regimental não provido” (ARE 869.706-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 8.6.2015).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. RESCISÃO CONTRATUAL. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULA CONTRATUAL: IMPOSSIBILIDADE. SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 738.451-AgR, de minha relatoria, Segunda Turma, DJe 1º.9.2014).
+    Não há a prover quanto às alegações das Agravantes.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de setembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
