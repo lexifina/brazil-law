@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão de Turma Recursal do TJ-RS, assim ementado:
+    “RECURSO INOMINADO. SERVIDOR DE ESCOLA. GRATIFICAÇÃO DE DIFÍCIL ACESSO. BASE DE CÁLCULO. LEI 9.121/90. SENTENÇA MANTIDA.
+    A Lei 9.121/90 estendeu aos servidores de escola a Gratificação de Difícil Acesso estabelecida pelo Estatuto e Plano de Carreira do Magistério Público do Rio Grande do Sul e estabeleceu que a base de cálculo corresponderá ao vencimento atribuído ao padrão inicial do Quadro Geral de Funcionários Públicos Civil do Estado e observará a carga horária respectiva.
+    Assim, a gratificação de Difícil Acesso, deverá ser calculada sobre o padrão inicial do Quadro Geral de Funcionários do Estado, incidindo sobre o regime de trabalho normal, no caso, 40 horas semanais, e não sobre dois vencimentos básicos como pretendido pela parte recorrente” (fl. 40).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 5º, caput e inc. XXXV, do texto constitucional.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal a quo decidiu a controvérsia com fundamento na interpretação da legislação infraconstitucional pertinente (Leis estaduais 6.672/74 e 9.121/90) e consignou que a Gratificação de Difícil Acesso deverá ser calculada sobre o padrão inicial do Quadro Geral de Funcionários do Estado, incidindo sobre o regime de trabalho de 40 horas semanais.
+    Verifica-se, assim, que a matéria debatida pelo Tribunal de origem se restringe ao âmbito da legislação infraconstitucional, de modo que a ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso (cf. Súmula 280 desta Corte). Em sentido semelhante:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor Público Estadual. Magistério. Adicional noturno. Aplicação conforme legislação infraconstitucional (Leis Estaduais 6.672/74 e 10.098/94). 3. Inadmissibilidade do recurso extraordinário. 4. Necessidade do reexame prévio da legislação local. Óbice da Súmula 280 do STF. Precedentes. 5. Agravo regimental a que se nega provimento” (ARE 780.376 AgR, de minha relatoria, Segunda Turma, DJe de 17-2-2014); e
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. REEXAME DE NORMA INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AUMENTO DE VENCIMENTOS. ISONOMIA. SÚMULA 339 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Leis 6.672/74 e 10.395/95 do Estado do Rio Grande do Sul), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedente. II - Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia (Súmula 339 do STF). Precedentes. III - Agravo regimental improvido” (AI 782.803 AgR, rel. Min. Ricardo Lewandowski, Primeira Turma, Dje de 10-11-2010).
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, b , do CPC).
+    Publique-se.
+    Brasília, 28 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
