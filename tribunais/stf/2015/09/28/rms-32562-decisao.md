@@ -1,0 +1,14 @@
+Vistos etc.
+    Trata-se de recurso em mandado de segurança interposto por Cesar Gomes Leal contra acórdão proferido pelo Superior Tribunal de Justiça no MS nº 9290/DF.
+    Na origem, o recorrente impugnou ato do Comandante da Aeronáutica que indeferiu a inclusão do militar da relação de concorrentes ao Quadro de Acesso para promoção ao posto de Tenente-Coronel Aviador. Sustentou a ilegalidade dessa decisão, por desarrazoada, conquanto detentor dos requisitos morais e técnicos necessários. Após o deferimento de liminar, o STJ denegou a ordem diante da ausência de direito líquido e certo, pois as informações prestadas pela autoridade coatora se referiram a uma série de fatos desabonadores da conduta do militar, de modo que, no entender daquela Corte, “(...) tem-se, de uma parte, a petição inicial que não comprova a veracidade das suas afirmações, e, de outra parte, as informações que instauraram verdadeira controvérsia sobre os fatos alegados” (e-STJ, fl. 249).
+    Nesta oportunidade, alega o impetrante que “(...) as informações apresentadas pela autoridade coatora não apresentam as conclusões dos fatos, bem como omitem outros importantes que abrilhantam o recorrente” (e-STJ, fl. 309), passando a seguir a contraditá-la em detalhes. Sustenta ser justo que, em caso de dúvida, prevaleça versão dos fatos mais benéfica ao interessado.
+    É o relatório.
+    Decido.
+    As razões de recurso ordinário confirmam o acerto do acórdão recorrido, ao invés de infirmá-lo. O amplo dissenso a respeito do substrato fático torna imprestável o uso do mandado de segurança para a resolução da controvérsia. Trata-se de conclusão tradicional em nosso sistema, que remete à configuração essencial do mandamus; apenas para fins ilustrativos, transcrevo a seguinte ementa, de julgado de minha relatoria:
+    “DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. ANTERIOR AGRAVO REGIMENTAL DECIDIDO MONOCRATICAMENTE. PERDA DE OBJETO. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO OMISSIVO JÁ REALIZADO. IMPOSSIBILIDADE DE AMPLA REVISÃO DE FATOS E PROVAS NA SEDE MANDAMENTAL. Diante da prática do ato cuja omissão era apontada como violadora de direito líquido e certo, perde objeto o mandado de segurança. É inviável, em mandado de segurança, o amplo e irrestrito reexame de fatos e provas colhidos em processo administrativo disciplinar, mormente quando desrespeitada a regra de decadência para a impetração a partir da data dos fatos questionados. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento” (MS 30563 ED/DF, Pleno, Ministra Rosa Weber, DJe de 10.10.2014).
+    A pretensão não se conforma à via processual eleita, em resumo.
+    Diante do exposto, com fundamento nos artigos 540 do CPC e 21, § 1º, do RISTF, nego seguimento ao pedido.
+     Publique-se.
+    Brasília, 28 de setembro de 2015.
+Ministra Rosa Weber
+Relatora
