@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO LEGAL CONTRA ATO DO RELATOR QUE, COM BASE NO ART. 557, CAPUT, DO CPC, E 31, INCISO VIII DO REGIMENTO INTERNO DO TRIBUNAL NEGOU SEGUIMENTO AO AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO A QUO QUE REJEITOU A IMPUGNAÇÃO À PRÉVIA DO PRECATÓRIO. Em verificando o Colegiado inexistir qualquer ilegalidade, ou mesmo irregularidade, no ato monocrático impugnado, e sendo certo que a parte recorrente não trouxe qualquer elemento cognoscível capaz de contrastar as premissas adotadas no decisum, é de consequência que o Tribunal confirme, pelos próprios termos, a decisão do Relator”.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 100 do Texto Constitucional.
+     Nas razões recursais, sustenta-se a impossibilidade do pagamento do precatório sem a devida citação da fazenda pública.
+    A 3ª Vice-Presidência do TJRJ inadmitiu o recurso em virtude da ausência de prequestionamento.
+    É o relatório. Decido.
+    Inicialmente, observa-se que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. A jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Incide, portanto, a Súmula 282 do Supremo Tribunal Federal.
+    Verifica-se que o tribunal de origem, assim asseverou:
+    “Não há, por certo, o alegado equívoco na elaboração de cálculos que supostamente incluíram período estranho à execução, mas sim a total e reiterada inércia do agravante durante o longo tramite do processo em cumprir inicialmente a obrigação de fazer (rever o benefício), que se transformou em obrigação de pagar, para o qual foi citado regularmente e não se opôs através dos meios de impugnação cabíveis.
+    Ao contrário, e como bem se vê, o agravante concordou com os cálculos informando que nada tinha a opor ao valor, alegando que ''o valor exequendo ”exatamente aquele definido pela Assessoria de Perícias, Cálculos e Avaliações (APCA), órgão técnico dessa Procuradoria, no parecer exarado no processo administrativo E-14/10655/2002, fls. 315) (fls.50 item 357).
+    Nesse caminhar, o juízo determinou então, em 05/02/2013, que fosse expedido o precatório, determinando a seguir, em 08/11/2013, que fosse encaminhada a requisição do precatório ao Tribunal de Justiça (fls. 74 item 357), se insurgindo o agravante extemporaneamente, ou seja, somente em 27/02/2014.
+    Ora, o valor abarca período posterior ao fixado na sentença simplesmente em decorrência da inércia da autarquia previdenciária, não tendo o crédito sido satisfeito, como deveria, pelo agravante, caso em que seria obrigatória a sua citação para execução de valor correspondente ao período posterior.”
+    Constata-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo, notadamente acerca da validade da citação em relação ao INSS, demandaria o reexame de fatos e provas e da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. MATÉRIA PROCESSUAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissível o recurso extraordinário, porquanto a ofensa à Constituição, se ocorrente, seria reflexa. II – É pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância de normas processuais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. III - Agravo regimental improvido.”
+(RE 708883 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 05.12.2012)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CITAÇÃO DO DEVEDOR. MATÉRIA INFRACONSTITUCIONAL. ALEGADA CONTRARIEDADE AO ART. 5º, INC. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(AI 725002 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 17.03.2011)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 28 de setembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
