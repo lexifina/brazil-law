@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. NOMEAÇÃO TARDIA. INVESTIDURA EM CARGO PÚBLICO POR FORÇA DE DECISÃO JUDICIAL. DIREITO À INDENIZAÇÃO. MATÉRIA JÁ EXAMINADA SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA Nº 671. RE 724.347. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. PROCURADOR FEDERAL. PROVA DE TÍTULOS. VALIDADE DE DOCUMENTO. RECLASSIFICAÇÃO EM MELHOR POSIÇÃO. NOMEAÇÃO TARDIA. INDENIZAÇÃO. NÃO CABIMENTO.
+    1. É sabido que esta Corte Superior de Justiça amparava a tese da indenização, tal como firmado pela Corte Especial no EREsp 825.037/DF, Relatora Ministra Eliana Calmo, julgado em 1º.2.2011, no sentido de que, com fundamento no art. 37, § 6º, da Constituição da República vigente, a Administração deveria indenizar os concursandos com nomeação tardia em razão de discussões judiciais referentes ao concurso público, tendo a indenização por base a soma dos vencimentos integrais a que fariam jus se tivessem tomado posse em bom tempo.
+    2. Ocorre que tal jurisprudência foi alterada pela Corte Especial no EREsp 1117974/RS, Rel. Ministra ELIANA CALMON, Rel. p/ Acórdão Ministro TEORI ALBINO ZAVASCKI, CORTE ESPECIAL, julgado em 21/09/2011, DJe 19/12/2011, no sentido de que o candidato, cuja nomeação tardia decorreu de decisão judicial, não tem direito à indenização pelo tempo que aguardou a solução definitiva pelo Judiciário. Com essa decisão, o STJ muda seu entendimento sobre o tema para seguir orientação firmada pelo Supremo Tribunal Federal.
+    3. Ao contrário do afirmado pelo ora recorrente, sua nomeação, apesar de não ter sido determinada judicialmente, ocorreu em data posterior a época própria, em razão de não ter sido dada pontuação devida na prova de títulos, o que foi concedido pelo Poder Judiciário, que determinou que o ora recorrente fosse reclassificado da posição 586ª para a 487ª. Dessa forma, como a reclassificação em posição mais vantajosa foi decorrente de sentença judicial, o retardamento não configura preterição ou ato ilegítimo da Administração Pública a justificar uma contrapartida indenizatória.
+    4. Agravo regimental não provido.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 37, 6º, da Constituição Federal.
+    O Tribunal de origem negou seguimento ao recurso extraordinário por entender que o acórdão recorrido está de acordo com a jurisprudência do Supremo Tribunal Federal.
+    Os autos foram distribuídos em 21/3/2013 e, em decisão publicada em 13/9/2013, determinei o sobrestamento do feito na origem até o julgamento do RE 724.347-RG, Rel. Min. Marco Aurélio, nos termos do artigo 543-B, do Código de Processo Civil.
+    A União, ora recorrida, peticionou informando sobre a impossibilidade de devolução dos autos à origem, tendo em vista a pendência de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, admitido por decisão de fl. 219 do Doc. Eletrônio nº 3.
+    É o Relatório. DECIDO.
+    Tendo em vista o julgamento de mérito da repercussão geral reconhecida no RE 724.347 pelo Plenário desta Corte, torno sem efeito a decisão de devolução dos autos e passo a novo exame da controvérsia.
+    Não merece provimento o recurso.
+    O Plenário desta Corte ao apreciar a matéria sub examine, firmou entendimento no sentido de que é incabível indenização nas hipóteses de posse em cargo público em virtude de decisão judicial, conforme se infere da ementa do julgamento de mérito da repercussão geral reconhecida nos autos do RE 724.347, Rel. Min. Marco Aurélio, DJe de 13/5/2015, verbis:
+    “ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. INVESTIDURA EM CARGO PÚBLICO POR FORÇA DE DECISÃO JUDICIAL. 1. Tese afirmada em repercussão geral: na hipótese de posse em cargo público determinada por decisão judicial, o servidor não faz jus a indenização, sob fundamento de que deveria ter sido investido em momento anterior, salvo situação de arbitrariedade flagrante. 2. Recurso extraordinário provido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Após o trânsito em julgado desta decisão, retifique-se a autuação dos autos e retornem conclusos para julgamento do recurso extraordinário da UNIÃO que foi admitido pelo Tribunal Regional Federal da 1ª Região. (fl. 219 do Doc. Eletrônio nº 3).
+    Publique-se.
+    Brasília, 29 de setembro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
