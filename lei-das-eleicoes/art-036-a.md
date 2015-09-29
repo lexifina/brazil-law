@@ -1,7 +1,10 @@
-Art. 36-A. Não serão consideradas propaganda antecipada e poderão ter cobertura dos meios de comunicação social, inclusive via internet:
+Art. 36-A. Não configuram propaganda eleitoral antecipada, desde que não envolvam pedido explícito de voto, a menção à pretensa candidatura, a exaltação das qualidades pessoais dos pré-candidatos e os seguintes atos, que poderão ter cobertura dos meios de comunicação social, inclusive via internet:
 I - a participação de filiados a partidos políticos ou de pré-candidatos em entrevistas, programas, encontros ou debates no rádio, na televisão e na internet, inclusive com a exposição de plataformas e projetos políticos, observado pelas emissoras de rádio e de televisão o dever de conferir tratamento isonômico;
 II - a realização de encontros, seminários ou congressos, em ambiente fechado e a expensas dos partidos políticos, para tratar da organização dos processos eleitorais, discussão de políticas públicas, planos de governo ou alianças partidárias visando às eleições, podendo tais atividades ser divulgadas pelos instrumentos de comunicação intrapartidária;
-III - a realização de prévias partidárias e sua divulgação pelos instrumentos de comunicação intrapartidária e pelas redes sociais;
+III - a realização de prévias partidárias e a respectiva distribuição de material informativo, a divulgação dos nomes dos filiados que participarão da disputa e a realização de debates entre os pré-candidatos;
 IV - a divulgação de atos de parlamentares e debates legislativos, desde que não se faça pedido de votos;
-V - a manifestação e o posicionamento pessoal sobre questões políticas nas redes sociais.
-Parágrafo único. É vedada a transmissão ao vivo por emissoras de rádio e de televisão das prévias partidárias.
+V - a divulgação de posicionamento pessoal sobre questões políticas, inclusive nas redes sociais;
+VI - a realização, a expensas de partido político, de reuniões de iniciativa da sociedade civil, de veículo ou meio de comunicação ou do próprio partido, em qualquer localidade, para divulgar ideias, objetivos e propostas partidárias.
+§ 1º É vedada a transmissão ao vivo por emissoras de rádio e de televisão das prévias partidárias, sem prejuízo da cobertura dos meios de comunicação social.
+§ 2º Nas hipóteses dos incisos I a VI do caput, são permitidos o pedido de apoio político e a divulgação da pré-candidatura, das ações políticas desenvolvidas e das que se pretende desenvolver.
+§ 3º O disposto no § 2º não se aplica aos profissionais de comunicação social no exercício da profissão.

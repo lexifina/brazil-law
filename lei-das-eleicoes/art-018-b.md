@@ -1,0 +1,1 @@
+Art. 18-B. O descumprimento dos limites de gastos fixados para cada campanha acarretará o pagamento de multa em valor equivalente a 100% (cem por cento) da quantia que ultrapassar o limite estabelecido, sem prejuízo da apuração da ocorrência de abuso do poder econômico.
