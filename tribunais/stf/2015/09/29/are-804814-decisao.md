@@ -1,0 +1,13 @@
+Referente à Petição/STF 18.305/2014:
+    Despacho: 1. Em decisão publicada em 11/4/2014, negou-se provimento ao presente agravo em recurso extraordinário sob os seguintes fundamentos: (a) insuficiência dos fundamentos apresentados em sede de preliminar de repercussão geral, diante do que exige a jurisprudência do Supremo Tribunal Federal; (b) incidência da Súmula 284 do STF; (c) eventual ofensa à Constituição Federal seria indireta ou reflexa, a teor do Tema 660 da Repercussão Geral; (d) ilegitimidade de reexame de matéria fático-probatória, nos moldes da Súmula 279/STF; e (e) inviabilidade de apreciação de tema infraconstitucional em sede de recurso extraordinário (vol. 5 dos autos eletrônicos).
+    Na petição, pede-se o sobrestamento do processo até o pronunciamento do STF nos autos do RE 656.558 RG, nos moldes do art. 543-B do CPC.
+    2. O pleito de sobrestamento não merece subsistir, pois o julgamento do precedente invocado não terá o condão de influir na solução desta causa. De um lado, o Tema 339 da Repercussão Geral cuida do alcance das sanções impostas pelo art. 37, § 4º, da Constituição Federal aos condenados por improbidade administrativa, na hipótese de contratação de determinados serviços com dispensa de licitação. De outro, o recurso apreciado busca discutir a (a) validade do conteúdo probatório utilizado para a condenação, na medida em que não ficou comprovada a atuação dolosa do recorrente; (b) eventual ofensa à ampla defesa; e (c) proporcionalidade na aplicação das medidas punitivas. Nesse sentido, é importante destacar os seguintes trechos da peça recursal:
+    “A controvérsia nos Autos é exclusivamente de direito, já que os fatos são incontroversos, e residem apenas afastar a dúvida se a condenação em pena capital pode se pautar em prova ilegal, bom como sobre a aplicação do contraditório e ampla defesa, e a aplicação da proporcionalidade e razoabilidade nos casos de improbidade administrativa.” (e-STJ, fl. 534).
+    Como já se decidiu, o recurso não supera o juízo de admissibilidade, uma vez que discute, basicamente, a configuração do ato de improbidade à luz do conteúdo fático-probatório considerado pelas instâncias inferiores. Dessa forma, torna-se irrelevante para a presente causa a solução de mérito a ser adotada no julgamento do paradigma suscitado pelo peticionário.
+    3. Diante do exposto, indefiro o pedido de sobrestamento.
+    À Secretaria, para certificar o trânsito em julgado e proceder à baixa dos autos ao Tribunal de origem.
+    Publique-se. Intime-se.
+    Brasília, 29 de setembro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
