@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “RESPONSABILIDADE CIVIL – TRANSPORTE COLETIVO – LESÃO EM PASSAGEIRO – DANO MORAL CONFIGURADO – REDUÇÃO DO MONTANTE – VERBA HONORÁRIA – LIDE PRINCIPAL – ELEVAÇÃO DO PERCENTUAL – LIDE SECUNDÁRIA – CANCELAMENTO DOS HONORÁRIOS – RECURSOS PARCIALMENTE PROVIDOS”. (eDOC 2, p. 212)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 1º, III; e 5º, V, do texto constitucional.
+    Insurge-se contra o valor arbitrado a título de indenização, bem como quanto à fixação dos honorários advocatícios.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que o Supremo Tribunal Federal já apreciou a matéria relativa ao quantum estabelecido em razão de danos morais, no julgamento do ARE-RG 743.771, de minha relatoria, DJe 31.5.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta. Eis a ementa do julgado:
+    “DIREITO CIVIL. RESPONSABILIDADE CIVIL. VALOR FIXADO A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 279 DA SÚMULA DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL”.
+    No que tange ao critério de fixação de honorários advocatícios, observo que a parte recorrente não demonstrou de que forma o acórdão recorrido teria afrontado a Constituição Federal.
+    Registre-se que é necessária, para a admissão do recurso extraordinário, a demonstração efetiva de ofensa ao texto constitucional, o que não ocorreu no caso dos autos, motivo pelo qual incide, na hipótese, o Enunciado 284 da Súmula do STF. Nesse sentido, confiram-se os seguintes precedentes:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULAS STF 284 E 287. 1. Razões do agravo regimental que não atacam o fundamento da decisão impugnada. 2. É imprescindível para a admissão do apelo extremo previsto no art. 102, III, da Constituição Federal que a demonstração de ofensa à norma constitucional seja posta com clareza, o que não foi suficientemente feito pela parte recorrente. Súmulas STF 284 e 287. Precedentes. 3. Recurso Extraordinário interposto com base no art. 102, III, a e c, da Constituição Federal, sem indicação de dispositivos constitucionais na petição do recurso. 4. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos. 5. Agravo regimental a que se nega provimento”. (grifei) (AI-AgR 786.680, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 30.6.2011)
+    Ainda que superado este óbice, esta Corte possui o entendimento no sentido de que a discussão acerca da fixação dos honorários advocatícios restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesse sentido, cito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito processual civil. Princípio do devido processo legal. Motivação das decisões judiciais. Ofensa reflexa. Litispendência. Fixação de honorários advocatícios. Legislação infraconstitucional. Reexame. Fatos e provas. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República (...)”. (ARE 822.725-AgR/MG, Rel. Min. Dias Toffoli, Primeira Turma, DJe 23.02.2015
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
