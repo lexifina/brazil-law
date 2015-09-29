@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+    “Administrativo – Servidor público – aplicação de pena de suspensão precedida de processo administrativo regular – conclusão, entretanto, que se fastou da prova produzida – nulidade da pena aplicada.
+    Observado o devido processo no procedimento administrativo, com oportunidade na produção de defesa e prova e demais garantias inerentes, mas estando a sua conclusão – pena aplicada – em desconformidade com os fatos alegados e a prova produzida, nua a sanção”. (eDCO 1, p. 237)
+    Opostos embargos de declaração, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se, violação ao artigo 2º, do texto constitucional.
+    Nas razões recursais, defende-se, em síntese, que não é permitido ao poder Judiciário adentrar no mérito de atos administrativos discricionários.
+    Decido.
+    Não assiste razão ao agravante.
+    Inicialmente, ressalta-se que é pacífica a jurisprudência desta Corte no sentido de que o exame de legalidade e abusividade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de poderes, porquanto sua análise não trata de circunstâncias que integram o mérito administrativo. Confira-se, a propósito, o RE 579.249-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 26.4.2012, este último assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. ELIMINAÇÃO DE CANDIDATO. NULIDADE DO ATO RECONHECIDA PELA INSTÂNCIA JUDICANTE DE ORIGEM. AFRONTA AO ART. 2º DA MAGNA CARTA DE 1988. INEXISTÊNCIA. CONTROVÉRSIA DECIDIDA À LUZ DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. 1. É firme no Supremo Tribunal Federal o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação de poderes” (MS 23.452, da relatoria do ministro Celso de Mello). 2. Caso em que entendimento diverso do adotado pelo Tribunal de Justiça do Estado do Rio de Janeiro demandaria o reexame de fatos e provas constantes dos autos. Providência vedada pela Súmula 279/STF. 3. Agravo regimental desprovido.”
+    Ademais, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o revolvimento do acervo fático-probatório e da legislação local aplicável à espécie, o que não enseja a abertura do recurso extraordinário, uma vez que se aplica os Enunciados 279 e 280 da Súmula desta Corte.
+    Confiram-se, a propósito, os seguintes precedentes desta Corte:
+    “Agravo regimental no recurso extraordinário. Auditor da Receita Federal. Penalidade de demissão aplicada. Ato administrativo. Controle judicial. Possibilidade. Princípio da proporcionalidade. Reexame de fatos e provas em sede de apelo extremo. Impossibilidade. Precedentes. 1. Não viola o princípio da separação dos poderes o controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos. 2. A Corte de origem, ao analisar o conjunto fático-probatório da causa, concluiu que a punição aplicada foi excessiva, restando violado o princípio da proporcionalidade. 3. Não se presta o recurso extraordinário para o reexame de fatos e provas da causa. Incidência da Súmula nº 279/STF. 4. Agravo regimental não provido.”
+(RE 739187 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 7.10.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROCESSO DISCIPLINAR. DEMISSÃO. 1. Cabimento de mandado de segurança em tribunal diverso. Matéria infraconstitucional. Ausência de repercussão geral. 2. Análise da razoabilidade e proporcionalidade do ato demissório. Reexame de fatos e provas. Súmula n. 279 do Supremo Tribunal Federal. 3. Controle judicial de ato administrativo: inexistência de contrariedade ao princípio da separação dos poderes. 4. Agravo regimental ao qual se nega provimento.”
+(ARE 744080 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 14.10.2013)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
