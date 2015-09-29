@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IPI NA VENDA INTERNA DE MERCADORIA IMPORTADA. NÃO INCIDÊNCIA. ORIENTAÇÃO JURISPRUDENCIAL CONSOLIDADA PELA 1A. SEÇÃO NO ERESP. 1.411.749/PR E NO ERESP. 1.398.721/SC. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Esta egrégia Corte Superior firmou entendimento de que, em se tratando de empresa importadora, o fato gerador ocorre no desembaraço aduaneiro, não sendo viável nova cobrança do IPI na saída do produto quando de sua comercialização, ante a vedação ao fenômeno da bitributação.
+    2. Agravo Regimental desprovido”. (eDOC 2, p. 72)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 150, I; 153, I, e § 3º, II; e 97 do texto constitucional, bem como ofensa à Súmula Vinculante 10.
+    Sustenta-se, em síntese, que o recorrido é pessoa equiparada a contribuinte industrial e que, nesta condição, deve pagar o IPI nas saídas das mercadorias de seu estabelecimento.
+    Afirma-se ter ocorrido declaração de inconstitucionalidade do regramento do tributo ora discutido por órgão fracionário, ofendendo o disposto no art. 97 do texto constitucional.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o Tribunal de origem decidiu a controvérsia com base no Código Tributário Nacional e no Decreto 7.212/2010. Assim, a matéria debatida na origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Quanto ao tema, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IPI. FATO GERADOR. DESEMBARAÇO ADUANEIRO. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Súmula 282 do STF. A tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - Questão decidida com base na legislação infraconstitucional. Eventual ofensa à Constituição, se ocorrente, seria indireta. III - Agravo regimental improvido”. (AI 684.059-AgR/BA, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 06.6.2008)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EQUIPARAÇÃO DE ESTABELECIMENTO COMERCIAL A INDUSTRIAL PARA FINS DE INCIDÊNCIA DO IMPOSTO SOBRE PRODUTOS IMPORTADOS – IPI. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 586.496-AgR/RJ, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 02.3.2011)
+    Cito ainda as seguintes decisões monocráticas: ARE 883.073-DF, Rel. Min. Roberto Barroso, DJe 12.5.2015; RE 883.710/RS, Rel. Min. Rosa Weber, DJe 4.5.2015; e RE 804.243/RS, Rel. Min. Marco Aurélio, DJe 10.6.2014, este último assim decidido:
+    “1. O recurso volta-se contra exigência sucessiva do Imposto sobre Produtos Industrializados – IPI: quando do desembaraço aduaneiro de bens e da venda desses no mercado interno. O recorrente alega não ocorrer processo industrial em ambas as situações. Aduz afronta aos artigos 35 do Decreto-Lei nº 7.212, de 2010, 46 e 51 do Código Tributário Nacional, 145, § 1º, e 150, inciso I, da Carta da República.
+    O Tribunal de origem assentou não haver bitributação por estarem envolvidos fatos geradores e contribuintes diversos. Apontou ser o recorrente contribuinte importador por realizar a nacionalização das mercadorias produzidas, nos termos do disposto no Decreto-Lei nº 7.212, de 2010, e no Código Tributário Nacional. Consignou ocorrer novo fato gerador do imposto quando da operação que promove a circulação interna dos bens importados – artigo 4º, inciso I, da Lei nº 4.502, de 1964 –, promovida por ‘estabelecimento equiparado a industrial’. Concluiu pela irrelevância de serem ambas as operações praticadas pela mesma pessoa jurídica, haja vista esta atuar tanto como importadora – nacionalização do produto – quanto como ‘estabelecimento equiparado a industrial’ – circulação interna.
+    Conclusão diversa só seria possível se reapreciados fatos vinculados às atividades comerciais do contribuinte, o que se mostra incompatível com a cognição própria desta sede.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes ocorrida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente na origem, levando-se em conta as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Nego seguimento ao extraordinário”.
+    Por fim, não há que se falar em violação ao artigo 97 da Constituição Federal, tendo em vista que o Tribunal de origem não declarou a inconstitucionalidade de norma nem afastou a sua aplicabilidade com apoio em fundamentos extraídos do texto constitucional, mas limitou-se a interpretar as normas infraconstitucionais aplicáveis.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
