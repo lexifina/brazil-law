@@ -1,0 +1,6 @@
+Art. 24-C. O limite de doação previsto no § 1º do art. 23 será apurado anualmente pelo Tribunal Superior Eleitoral e pela Secretaria da Receita Federal do Brasil.
+§ 1º O Tribunal Superior Eleitoral deverá consolidar as informações sobre as doações registradas até 31 de dezembro do exercício financeiro a ser apurado, considerando:
+I - as prestações de contas anuais dos partidos políticos, entregues à Justiça Eleitoral até 30 de abril do ano subsequente ao da apuração, nos termos do art. 32 da Lei nº 9.096, de 19 de setembro de 1995;
+II - as prestações de contas dos candidatos às eleições ordinárias ou suplementares que tenham ocorrido no exercício financeiro a ser apurado.
+§ 2º O Tribunal Superior Eleitoral, após a consolidação das informações sobre os valores doados e apurados, encaminhá-las-á à Secretaria da Receita Federal do Brasil até 30 de maio do ano seguinte ao da apuração.
+§ 3º A Secretaria da Receita Federal do Brasil fará o cruzamento dos valores doados com os rendimentos da pessoa física e, apurando indício de excesso, comunicará o fato, até 30 de julho do ano seguinte ao da apuração, ao Ministério Público Eleitoral, que poderá, até o final do exercício financeiro, apresentar representação com vistas à aplicação da penalidade prevista no art. 23 e de outras sanções que julgar cabíveis.
