@@ -1,1 +1,0 @@
-Art. 17-A. A cada eleição caberá à lei, observadas as peculiaridades locais, fixar até o dia 10 de junho de cada ano eleitoral o limite dos gastos de campanha para os cargos em disputa; não sendo editada lei até a data estabelecida, caberá a cada partido político fixar o limite de gastos, comunicando à Justiça Eleitoral, que dará a essas informações ampla publicidade.
