@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “APELAÇÃO CÍVEL. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR ATO ILÍCITO. MANOBRA IMPRUDENTE QUE RESULTA EM COLISÃO FATAL. VELOCIDADE SUPERIOR A PERMITIDA. CULPA EXCLUSIVA DO DE CUJUS. AUSÊNCIA DE RESPONSABILIDADE DOS REQUERIDOS. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, XXXVI, LIV, LV; e 37, § 6º, da Constituição.
+    O recurso extraordinário é inadmissível. O acórdão recorrido entendeu que os danos oriundos do acidente ocorreram, exclusivamente, pela conduta imprudente do próprio recorrente, de modo que não são devidas as indenizações pleiteadas. Em casos tais, em que se discute a existência, ou não, de culpa exclusiva da vítima, a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário por se tratar, necessariamente, de reexame dos fatos e do material probatório constantes dos autos. Nesse sentido, confiram-se os seguintes julgados:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Lesão corporal. Menores sob custódia do Estado. FEBEM. Incêndio 3. Responsabilidade objetiva do Estado. Art. 37, § 6º, da Constituição Federal. Dever do Estado, na condição de garante, de zelar pela integridade física dos custodiados. Precedentes do STF. 3. Discussão acerca da existência ou não de culpa exclusiva das vítimas. Necessidade do reexame do conjunto fático-probatório. Súmula 279. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 669.001-AgR, Rel. Min. Gilmar Mendes)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE DO ESTADO. ART. 37, § 6º, DA CONSTITUIÇÃO. MOVIMENTO GREVISTA. DISPERSÃO EFETIVADA PELA POLÍCIA MILITAR. ALEGADOS EXCESSOS E ABUSOS. ACÓRDÃO QUE APONTA A CULPA EXCLUSIVA DAS SUPOSTAS VÍTIMAS. ÓBICE DO ENUNCIADO 279 DA SÚMULA/STF.
+    Agravo regimental a que se nega provimento.” (AI 344.588-AgR, Rel. Min. Joaquim Barbosa)
+    “DIREITO ADMINISTRATIVO. INDENIZAÇÃO POR DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA STF 279. MATÉRIA INFRACONSTITUCIONAL. ART. 2º DA CF/88. VOTO-VENCIDO. PREQUESTIONAMENTO NÃO CARACTERIZADO. INCIDÊNCIA DA SÚMULA STF 282.
+     1.  O Tribunal de origem afastou a responsabilidade civil da ora agravada com fundamento nos fatos e provas da causa, tendo concluído pela existência de culpa exclusiva da vítima. Incide, na espécie, o óbice da Súmula STF 279.
+     2.  Em casos semelhantes ao dos presentes autos, esta Corte tem se posicionado no sentido de que não se configura o prequestionamento se, no acórdão recorrido, apenas o voto vencido cuidou do tema suscitado no recurso extraordinário, adotando fundamento independente, sequer considerado pela maiori. Incidência da Súmula STF 282.
+    3.  Agravo regimental a que se nega provimento.” (AI 740.527-AgR, Rel.ª Min.ª Ellen Gracie)
+    O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
