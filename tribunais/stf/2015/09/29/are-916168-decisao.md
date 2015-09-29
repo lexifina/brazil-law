@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo ementado nos seguintes termos:
+    “SERVIDOR PÚBLICO MUNICIPAL – Pretensão de inclusão do tempo de serviço prestado em outros entes da Federação e no próprio município, para fins de adicional por tempo de serviço, licença-prêmio e sexta-parte – Admissibilidade apenas aos que exerciam a titularidade de cargo efetivo, excluindo-se os contratados sob o regime celetista – Aplicação da Lei Municipal nº 1.399/55 (Estatuto dos Funcionários Públicos Municipais de Campinas) – atualização de sentença nos termos da Lei nº 11.960/09 – condenação em honorários alterada.
+    RECURSOS PARCIALMENTE PROVIDOS.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, as recorrentes sustentam a repercussão geral da matéria. Quanto ao mérito, apontam ofensa aos arts. 5º, II, e 37 do texto constitucional.
+    Nas razões recursais, alegam que o acórdão recorrido fere o princípio da legalidade por não aplicar o disposto na legislação municipal vigente para a contagem do tempo de serviço público anterior para todos os efeitos legais.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Isso porque o tribunal de origem dirimiu a controvérsia com base na legislação local aplicável ao caso (Lei nº 1399/55 e Lei nº 5392/83).
+    Assim, concluir de forma diversa do assentado demandaria o reexame da legislação local aplicável à espécie, procedimento inviável de ser validamente adotado nessa via processual, por óbice de Súmula 280 do STF.
+    Nesse sentido, confiram-se julgados de ambas as turmas:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REENQUADRAMENTO SEGUNDO PLANO DE CARGOS E SALÁRIOS. LEI COMPLEMENTAR 162/95 DO MUNICÍPIO DE SANTOS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL LOCAL.INCIDÊNCIA DA SÚMULA 280 DESTA CORTE. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A ofensa a direito local não viabiliza o apelo extremo (Súmula 280 do STF). 2. A Súmula 279 do STF dispõe: Para simples reexame de prova não cabe recurso extraordinário. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam o revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. O Plenário desta Corte, ao apreciar o RE 611.162, Rel. Min. Ellen Gracie, recusou o recurso extraordinário em que se discutia o pagamento de diferenças em razão de reenquadramento de servidor público municipal segundo PCS previsto na LC 162/95, ante a ausência de repercussão geral da questão, por não se tratar de matéria constitucional e demandar o reexame de fatos e provas.”
+    (AI 797.711-AgR, Rel. Ministro Luiz Fux, Primeira Turma, Dje 17.4.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDORES PÚBLICOS DO ESTADO DO AMAZONAS. GRATIFICAÇÃO DE ATIVIDADE INDUSTRIAL. LEI ESTADUAL 2.120/1992. DECRETO ESTADUAL 14.645/1992. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I Inviável o recurso extraordinário quando sua apreciação demanda reexame, por esta Corte, da legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 do STF. II Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III Agravo regimental improvido.”
+    (RE 642.621-AgR, Rel. Ministro Ricardo Lewandowski, Segunda Turma, DJe 17.4.2013).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento(art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
