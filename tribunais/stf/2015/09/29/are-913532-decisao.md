@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal de Justiça da 5ª Região, assim ementado (eDOC 1, p. 117):
+    “PREVIDENCIÁRIO. REGIME PRÓPRIO. APOSENTADORIA. PROVENTOS. PROFESSORA. MINISTÉRIO DOS TRANSPORTES. CARGO NÃO INTEGRANTE DE CARREIRA ESPECÍFICA. PLANO GERAL DE CARGOS DO PODER EXECUTIVO – PGPE. ENQUADRAMENTO. DIREITO.
+    1. A Lei n. 11.357/06 estruturou o Plano Geral de Cargos do Poder Executivo - PGPE, em cuja composição passaram a figurar os cargos efetivos de nível superior, intermediário e auxiliar não integrantes de carreiras específicas, planos especiais de cargos ou planos de carreiras instituídos por leis específicas e voltados ao exercício de atividades técnicas, técnico- administrativas e de suporte no âmbito dos órgãos e entidades da administração federal direta, autárquica e fundacional.
+    2. O cargo ocupado pela autora, quando na ativa, está entre aqueles integrantes do Plano de Classificação instituído pela Lei n. 5.645/70, e que passaram a integrar o PGPE a partir da vigência do diploma legal supramencionado, conforme dispõe o inciso I do parágrafo único de seu art. 1º, circunstância expressamente reconhecida pela Administração.
+    3. Hipótese em que é devido o enquadramento ora pleiteado (no PGPE), porquanto a própria lei instituidora consignara, em seu art. 3º, § 7º, que a inclusão no referido plano deveria ocorrer de modo automático, salvo manifestação irretratável do servidor, inclusive quanto aos aposentados e pensionistas.
+    4. Apelação e remessa oficial desprovidas.”
+    Os embargos de declaração foram rejeitados (eDOC 1, pp. 149-152).
+    No recurso extraordinário, com fulcro no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 61, § 1º, II, “a” e “c”; 64 a 69, e 169 da Constituição Federal; e 38 do ADCT. Sustenta-se, em suma, que “não pode haver, em todo caso, o reenquadramento do cargo da Apelada em qualquer outro cargo, diferente daquele em que efetivamente trabalhou e se aposentou, tendo em vista que isto representaria uma afronta ao dispositivo constitucional que exige a prestação de concurso público” (eDOC 4, p. 11).
+    A Vice-Presidência do TRF/5ª inadmitiu o recurso extraordinário com fundamento na inexistência de ofensa direta à Constituição Federal.
+    É o relatório. Decido.
+    Inicialmente, observa-se que as premissas sobre a quais se firmou o acórdão recorrido não fazem expressa referência aos artigos da Constituição tidos por violados. Inexiste, portanto, no recurso interposto pela recorrente, o necessário prequestionamento, o que inviabiliza a admissão do extraordinário, nos termos da Súmula 282 do STF.
+    Ademais, quando do julgamento da apelação, o Tribunal a quo assentou que (eDOC 1, pp. 114-115):
+    “O cargo ocupado pela autora, quando na ativa, está entre aqueles integrantes do Plano de Classificação instituído pela Lei nº 5.645/70, e que passaram a integrar o PGPE a partir da vigência do diploma legal supramencionado, conforme dispõe o inciso I, do parágrafo único de seu art. 1º, circunstância expressamente reconhecida pela Administração no Ofício nº 2482/2012 – CGRH/SAAD/SE-MT, como já explicitado, à fl. 46V-item 4, verbis:
+      (…) de acordo com a orientação do MP ficou determinado que os professores pertencentes ao quadro de pessoal deste Ministério deverão ser enquadrados no Plano Geral de Cargos do Poder Executivo – PGPE.
+    Assim, ante a situação delineada nos autos, conclui-se que apenas em razão da inércia da Administração é que vem sendo impedido o acesso da autora à melhoria de seus proventos assegurada por lei, o que não pode persistir.”
+    Sendo esses os fundamentos acolhidos pelo acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas e da legislação infraconstitucional aplicável à espécie (Leis Federais 5.645/70 e 11.357/06), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 29 de setembro de 2015.
+Ministro EDSON FACHIN
+Relator
