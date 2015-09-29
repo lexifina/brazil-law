@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APLICAÇÃO DE PRECEDENTE DESTA CORTE NA SISTEMÁTICA DA REPERCUSSÃO GERAL. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma do acórdão proferido pela 10ª Turma do Tribunal Regional Federal da Terceira Região, que manteve decisão da Vice-Presidente daquela Corte, que assim dispôs (fl. 105-v):
+    “No caso em exame, verifica-se que o v. acórdão não diverge do entendimento sufragado pelas instâncias superiores.
+    Por outro lado, não cabe o extraordinário interposto pelo segurado naquilo em que apontados como violados os artigos referentes à matéria de fundo, haja vista que não houve pronunciamento das instâncias ordinárias relativo a tais preceitos, incidindo, no ponto, o óbice da Súmula nº 282/STF.
+    Ante o exposto, com fundamento no artigo 543-B, § 3º, do Código de Processo Civil, nego seguimento ao recurso extraordinário interposto pelo segurado quanto à alegação de decadência; e, no que sobeja, não admito o recurso extraordinário.”
+    É o Relatório. DECIDO.
+    O recurso de agravo, previsto no artigo 544 do CPC, é inadmissível contra decisão que aplica a sistemática da repercussão geral ao analisar a admissibilidade do recurso extraordinário. Nesse sentido, o AI 760.358-QO/SE, Rel. Min. Gilmar Mendes, que porta a seguinte ementa:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”.
+    Destaco, por fim, que a competência para a aplicação da sistemática da repercussão geral é dos tribunais de origem e que o cabimento de agravo dirigido a esta Corte resume-se aos casos elencados nos arts. 544 do CPC e 313 do Regimento Interno do STF.
+    Ex positis, NÃO CONHEÇO do agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de setembro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
