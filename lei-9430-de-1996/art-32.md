@@ -11,5 +11,4 @@ II - a fiscalização de tributos federais lavrará auto de infração, se for o
 § 8º A impugnação e o recurso apresentados pela entidade não terão efeito suspensivo em relação ao ato declaratório contestado.
 § 9º Caso seja lavrado auto de infração, as impugnações contra o ato declaratório e contra a exigência de crédito tributário serão reunidas em um único processo, para serem decididas simultaneamente.
 § 10. Os procedimentos estabelecidos neste artigo aplicam-se, também, às hipóteses de suspensão de isenções condicionadas, quando a entidade beneficiária estiver descumprindo as condições ou requisitos impostos pela legislação de regência.
-§ 11. Somente se inicia o procedimento que visa à suspensão da imunidade tributária dos partidos políticos após trânsito em julgado de decisão do Tribunal Superior Eleitoral que julgar irregulares ou não prestadas, nos termos da Lei, as devidas contas à Justiça Eleitoral.
 § 12. A entidade interessada disporá de todos os meios legais para impugnar os fatos que determinam a suspensão do benefício.
