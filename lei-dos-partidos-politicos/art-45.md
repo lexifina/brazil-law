@@ -2,7 +2,7 @@ Art. 45. A propaganda partidária gratuita, gravada ou ao vivo, efetuada mediant
 I - difundir os programas partidários;
 II - transmitir mensagens aos filiados sobre a execução do programa partidário, dos eventos com este relacionados e das atividades congressuais do partido;
 III - divulgar a posição do partido em relação a temas político-comunitários.
-IV - promover e difundir a participação política feminina, dedicando às mulheres o tempo que será fixado pelo órgão nacional de direção partidária, observado o mínimo de 10% (dez por cento).
+IV - promover e difundir a participação política feminina, dedicando às mulheres o tempo que será fixado pelo órgão nacional de direção partidária, observado o mínimo de 10% (dez por cento) do programa e das inserções a que se refere o art. 49.
 § 1º Fica vedada, nos programas de que trata este Título:
 I - a participação de pessoa filiada a partido que não o responsável pelo programa;
 II - a divulgação de propaganda de candidatos a cargos eletivos e a defesa de interesses pessoais ou de outros partidos;
