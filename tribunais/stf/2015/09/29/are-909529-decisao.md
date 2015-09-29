@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Mato Grosso, assim ementado (eDOC 2, p. 108):
+    “RECURSO DE APELAÇÃO – AÇÃO INDENIZATÓRIA COM PEDIDO DE RESSARCIMENTO POR DANOS PATRIMONIAIS E MORAIS – LICITAÇÃO – TOMADA DE PREÇOS REVOGADA – APLICAÇÃO DA SÚMULA 473/STF – INEXISTÊNCIA DO DANO SOFRIDO PELO PARTICULAR – RESPONSABILIDADE OBJETIVA DO ESTADO NÃO CONFIGURADA – RECURSO IMPROVIDO.
+    A administração pública pode anular seus próprios atos, quando eivados de vícios que os tornem ilegais, porque deles não se originam direitos; ou revogá-los por motivo de conveniência ou oportunidade. (Súmula 473/STF)
+    A responsabilidade objetiva do Estado não se reveste de caráter absoluto, ou seja, não é em todo e qualquer caso que se impõe ao Estado o dever de indenizar, pelo só fato da existência do dano sofrido pelo particular. A indenização não se mostra devida, mormente, se a parte interessada não demonstrou ocorrência do dano passível de reparação.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI e LV, e 37, §6º, da Constituição. Sustenta-se, em suma, “a inexistência de justificativa plausível para o desfazimento do ato administrativo fustigado e a ausência de motivo legal para a revogação do certame licitatório em testilha, restando incontroverso o dever de indenizar.” (eDOC 3, p. 23).
+    A Vice-Presidência do TJMT inadmitiu o recurso pelas seguintes razões: (i) insuficiência da fundamentação da preliminar de repercussão geral, (ii) inexistência de ofensa direta à Constituição Federal, (iii) óbice da Súmula 279 do STF.
+    É o breve relatório. Decido.
+    Inicialmente, verifico que o tribunal de origem assim asseverou (eDOC 3, p. 2):
+    “Tendo em vista que o cancelamento do Certame Licitatório não apresentou as irregularidades suscitadas pela Apelante, correta a decisão do juiz monocrático que não concedeu o pedido indenizatório, mormente, ausente de requisitos autorizadores da medida pleiteada, haja vista, que não há que se falar em indenização quando não se demonstrada ocorrência de dano passível de reparação.”
+    Assim, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ademais, ressalto que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário (RE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013).
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 29 de setembro de 2015.
+Ministro Edson Fachin
+Relator
