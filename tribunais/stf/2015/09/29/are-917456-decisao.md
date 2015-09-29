@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, que discute a possibilidade de o Poder Público fornecer medicamentos e insumos à parte recorrida.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte sustenta a ocorrência de violação ao art. 2º da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que o recurso não estaria apto a desafiar a fundamentação exposta no acórdão recorrido.
+    O recurso extraordinário não deve ser provido, tendo em vista que o acórdão recorrido está alinhado ao entendimento do Supremo Tribunal Federal.
+    Esta Corte assentou que, apesar do caráter meramente programático atribuído ao art. 196 da Constituição Federal, o Estado não pode se eximir do dever de propiciar os meios necessários ao gozo do direito à saúde dos cidadãos. Nessa linha, veja-se trecho da ementa da decisão monocrática proferida pelo Ministro Celso de Mello, no RE 271.286:
+    “O direito à saúde - além de qualificar-se como direito fundamental que assiste a todas as pessoas representa consequência constitucional indissociável do direito à vida. O Poder Público, qualquer que seja a esfera institucional de sua atuação no plano da organização federativa brasileira, não pode mostrar-se indiferente ao problema da saúde da população, sob pena de incidir, ainda que por omissão, em censurável comportamento inconstitucional.
+    O direito público subjetivo à saúde traduz bem jurídico constitucionalmente tutelado, por cuja integridade deve velar, de maneira responsável, o Poder Público (federal, estadual ou municipal), a quem incumbe formular e implementar - políticas sociais e econômicas que visem a garantir a plena consecução dos objetivos proclamados no art. 196 da Constituição da República.”
+    No mesmo sentido: ARE 744.170-AgR, Rel. Min. Marco Aurélio; e AI 824.946-ED, Rel. Min. Dias Toffoli.
+    Ademais, é pacífico o entendimento deste Tribunal que o Poder Judiciário pode, sem que fique configurada violação ao princípio da separação dos Poderes, determinar a implementação de políticas públicas nas questões relativas ao direito constitucional à saúde. Nesse sentido, veja-se:
+    “Suspensão de Liminar. Agravo Regimental. Saúde pública. Direitos fundamentais sociais. Art. 196 da Constituição. Audiência Pública. Sistema Único de Saúde - SUS. Políticas públicas. Judicialização do direito à saúde. Separação de poderes. Parâmetros para solução judicial dos casos concretos que envolvem direito à saúde. Responsabilidade solidária dos entes da Federação em matéria de saúde. Ordem de regularização dos serviços prestados em hospital público. Não comprovação de grave lesão à ordem, à economia, à saúde e à segurança pública. Possibilidade de ocorrência de dano inverso. Agravo regimental a que se nega provimento” (SL 47-AgR, Rel. Min. Gilmar Mendes, Plenário, DJe 30.4.2010).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 29 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
