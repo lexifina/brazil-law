@@ -1,0 +1,28 @@
+Decisão: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Leandro Ornellas Pinheiro, contra acórdão proferido pela 14ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, (TJ/RJ) que, ao julgar Apelação Cível n. 4-65.2011.8.19.0019, teria declarado a inconstitucionalidade da Lei 804/1998, do Município de Cordeiro/RJ, violando o disposto na Súmula Vinculante n. 10 do STF.
+    Inicialmente, o reclamante requer o benefício de gratuidade da justiça concedido na instância a quo, nos termos do art. 63, parágrafo único do RISTF.
+    Alega, em síntese, que o tribunal de origem violou o Enunciado da Súmula Vinculante nº 10 ao afastar a aplicação da Lei 804/1998, uma vez que, no julgamento da apelação, não foi observado o princípio da reserva de plenário.
+    Por entender que o processo já possui condições de julgamento, dispenso a vista à Procuradoria-Geral República, nos termos do art. 52, parágrafo único, do RISTF.
+    Decido.
+    Inicialmente, defiro o pedido de gratuidade de justiça postulado na peça inicial, com esteio na Resolução nº 462/STF c/c a Lei nº 1.060/50 e art. 62 do RISTF.
+    No mérito, não assiste razão ao reclamante.
+    Na espécie, a 14ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro afastou a aplicação da Lei 804/1998 por entender que ela conflita com a Lei 408/2002, do Município de Cordeiro.
+    Registro que o acórdão recorrido decidiu o feito com base na interpretação da legislação aplicável à espécie, razão por que não se aplica o princípio da reserva de plenário, uma vez que não se efetuou controle de constitucionalidade da referida lei municipal, mas apenas verificou-se a compatibilidade ente elas.
+    Nesse sentido, confiram-se trechos do voto condutor do acórdão reclamado:
+    “10. A sobredita alteração no cargo do apelante ensejou na respectiva elevação na carreira, em três níveis de referência, contrapondo-se ao disposto no Plano de Classificação de Cargos e Salários do Município de Cordeiro, que através da Lei n° 408/92, em seus arts. 13 e 14 prevêem os interstícios mínimos de 1095 ( mil e noventa e cinco dias) para fazer jus a cada progressão.
+    (…)
+    11. Isto posto, claramente se depreende que a alteração perpetrada pela Lei nº 804/98 não é juridicamente possível, pois enseja em conflito com a própria Lei nº 408/92, sob pena, inclusive, de ofensa ao princípio da legalidade, o qual norteia a Administração Pública (art. 37, caput, da Constituição da República). Resta claro, que a progressão horizontal de alguns servidores sem observância ao preenchimento dos requisitos autorizadores da Lei que a rege, é nada mais que um ato eivado de nulidade.
+    12. Ressalte-se que, decorridos cerca de 03 (três) meses após a edição da Lei nº 804/98, percebendo o erro ocorrido, a própria administração municipal corretamente revogou os efeitos daquela norma, editando a Lei nº 814 de 03 de dezembro de 1998.
+    13. Desta forma, como bem salientado na sentença de piso, ao revogar a Lei nº 804/98, agiu a administração pública municipal de acordo com os princípios que regem seu atuar, ou seja, observando seu poder de autotutela e legalidade.
+    14. E obviamente, que diante da ilicitude da alteração realizada pelo Município através da Lei nº 804/98, não há que se falar em violação ao direito adquirido ou ao princípio da irredutibilidade de vencimentos.
+    Resta claro que o acórdão reclamado apenas interpretou a compatibilidade da alterações introduzidas pela Lei municipal 804/1998 com o Plano de Classificação de Cargos e Salários do Município de Cordeiro, estabelecido na Lei 408/1992.
+    Ao cotejar as duas legislações, consignou que a progressão horizontal prevista na Lei 804/1998, sem observância dos requisitos autorizadores, importava em ato nulo, atividade tipicamente da jurisdição ordinária.
+    É, evidentemente, permitido aos magistrados, no exercício de atividade hermenêutica, analisar os fatos e a eles aplicar as normas legais, revelando-lhes o sentido. Se o Juízo reclamado não declarou a inconstitucionalidade de norma nem afastou sua aplicabilidade com apoio em fundamentos extraídos da Constituição, não é pertinente a alegação de violação à Súmula Vinculante 10 e ao art. 97 da Constituição.
+    Como precedentes da Corte que ratificam essa orientação, registro o RE-AgR 572.497, Rel. Min. Eros Grau, Segunda Turma, DJe 28.11.2008; e o RE-AgR 585.401, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1.2.2011, este com a seguinte ementa:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. TRIBUTO DECLARADO INCONSTITUCIONAL PELO STF. LEIS 9.032/1995 E 9.129/1995. COMPENSAÇÃO. LIMITES. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. RESERVA DE PLENÁRIO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão relativa aos limites da compensação de tributos declarados inconstitucionais pelo Supremo Tribunal Federal com base na interpretação da legislação infraconstitucional aplicável à espécie. Assim, a afronta à Constituição, se ocorrente, seria apenas indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Não há que falar em violação ao art. 97 da CF, uma vez que o Tribunal a quo não declarou a inconstitucionalidade de norma nem afastou sua aplicabilidade com apoio em fundamentos extraídos da Constituição. Precedentes. III – Agravo regimental improvido” (grifei).
+    Ante o exposto, com fundamento no § 1º do art. 21 do RISTF, nego seguimento à reclamação. Prejudicado o pedido liminar.
+    Arquive-se.
+    Publique-se.
+    Brasília, 29 de setembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
