@@ -1,0 +1,11 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo, no qual a parte ora agravante sustenta que o Tribunal "a quo" teria transgredido preceito inscrito na Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    É que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Impõe-se registrar, de outro lado, no que concerne à própria controvérsia suscitada nestes autos, que a colenda Segunda Turma desta Suprema Corte, ao julgar o AI 529.694/RS, Rel. Min. GILMAR MENDES, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora agravante:
+    “Agravo de instrumento. 2. Trabalhador rural ou rurícola menor de quatorze anos. Contagem de tempo de serviço. Art. 11, VII, da Lei nº 8213. Possibilidade. Precedentes. 3. Alegação de violação aos arts. 5º, XXXVI; e 97, da CF/88. Improcedente. Impossibilidade de declaração de efeitos retroativos para o caso de declaração de nulidade de contratos trabalhistas. Tratamento similar na doutrina do direito comparado: México, Alemanha, França e Itália. Norma de garantia do trabalhador que não se interpreta em seu detrimento. Acórdão do STJ em conformidade com a jurisprudência desta Corte.  4. Precedentes citados: AgRAI 105.794, 2ª T., Rel. Aldir Passarinho, DJ 02.05.86; e RE 104.654, 2ª T., Rel. Francisco Rezek, DJ 25.04.86 5. Agravo de instrumento a que se nega provimento.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte (AI 531.353/RS, Rel. Min. MARCO AURÉLIO – RE 597.930/RS, Rel. Min. RICARDO LEWANDOWSKI – RE 633.797/SP, Rel. Min. LUIZ FUX, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 30 de setembro de 2015.
+Ministro CELSO DE MELLO
+Relator
