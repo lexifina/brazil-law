@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Apelação cível – Embargos à execução fiscal – Município de Niterói – IPTU e TCL do exercício de 2005 – Imunidade de imóvel de associação educacional – Ato administrativo expedido pela autoridade fazendária, por meio do qual o Município reconheceu a imunidade tributária da executada no exercício de 2010 – O ato de reconhecimento de imunidade tributária tem natureza declaratória e opera efeitos ex tunc, consoante jurisprudência do Superior Tribunal de Justiça e desta Corte envolvendo as mesmas partes – Indevida, com efeitos ex tunc, a cobrança de taxa de coleta de lixo e limpeza pública antes da vigência dos diplomas legais que se adequaram ao sistema constitucional em vigor – Provimento do primeiro recurso e desprovimento do segundo.”
+    A pretensão não merece acolhida. De início, cumpre registrar que a Corte vem optando por conferir tratamento privilegiado às diversas espécies de imunidades, de modo a atribuir-lhes a máxima efetividade possível. Um reflexo desta forma de compreender o instituto é que a imunidade só deve ser afastada mediante prova em sentido contrário produzida pela Fazenda. Nesse sentido, veja-se o ARE 758.289-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPTU. Imunidade recíproca. Destinação dos bens. Revolvimento de fatos e provas. Súmula nº 279/STF. Ônus da prova.
+    1. Para ultrapassar o entendimento do Tribunal de origem e acolher a pretensão da recorrente, especialmente para verificar a destinação dos bens, seria necessário o reexame de fatos e provas, o que é inviável em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    2. A presunção sobre o enquadramento originalmente conferido deve militar a favor do contribuinte e, caso já tenha sido deferido o status de imune, o afastamento dessa imunidade só pode ocorrer mediante a constituição de prova em contrário produzida pela administração tributária.
+    3. Agravo regimental não provido.”
+    No caso dos autos, o Tribunal de origem consignou o seguinte:
+    “In casu, os embargos visam o cancelamento das cobranças do IPTU e TCL do exercício de 2005 e vieram instruídos com cópia do Despacho Administrativo de Reconhecimento de Imunidade Tributária, assinado pelo Secretário Municipal de Fazenda de Niterói, em 26/04/201 (fls. 82), e do Atestado de Inscrição e Registro no Conselho Municipal de Assistência Social da Secretaria Municipal de Integração, Cidadania e Promoção Social de Niterói, datado de 10/02/2003 (fls. 118), além de outros documento expedidos pelo Conselho Nacional de Assistência Social.”
+    Com efeito, dissentir das conclusões adotadas demandaria apenas o reexame do acervo probatório constante dos autos, providência vedada nesta fase processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 30 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
