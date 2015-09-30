@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “AGRAVO REGIMENTAL EM EMBARGOS À EXECUÇÃO DE ACÓRDÃO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. APOSENTADORIA. REAJUSTE DE GRATIFICAÇÃO INCORPORADA AO VENCIMENTO. COISA JULGADA NÃO VIOLADA. CORREÇÃO DA CATEGORIA EM QUE SE ENQUADRA A GRATIFICAÇÃO DO RECORRIDO. 1. A Lei Delegada n. 04/2003 apenas modificou a nomenclatura da gratificação de representação para a expressão ‘subsídio’, não representando efetiva mudança no regime remuneratório dos servidores públicos estaduais. Logo, detectada a equivalência entre o cargo desempenhado pelo agravado (NDS-1) e aquele constante na Lei Delegada n. 04/2003 (GPS-2), não há dúvida de que ele faz jus ao reajuste, porque a mera mudança de nomenclatura do cargo não obsta a aplicação da paridade prevista no artigo 40, § 8º, da CF, com redação anterior à EC n. 41/2003, aplicável ao caso por força do princípio tempus regit actum (o agravado se aposentou-se em 1986). 2. Como o agravado não optou pelo regime de pagamento por ‘subsídio’, deve ser observado o disposto no art. 2º da Lei Delegada n. 04/2003, ou seja, a gratificação a que ele tem direito deve ser reduzida em um quarto. Agravo regimental parcialmente provido.”
+    O recurso não merece ser acolhido, tendo em vista que a discussão quanto à natureza jurídica das modificações introduzidas pela Lei Delegada nº 04/2003, do Estado de Goiás, e a incorporação de nova gratificação ao servidores inativos está restrita à interpretação da legislação infraconstitucional. Nessa linha, veja-se ementa do RE 571.027-AgR, julgado sob a relatoria do Ministro Ayres Britto:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. 1. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE REPRESENTAÇÃO. INTERPRETAÇÃO DA LEI DELEGADA 04/2003 DO ESTADO DE GOIÁS. INCIDÊNCIA DA SÚMULA 280/STF. 2. INTERPOSIÇÃO DO APELO EXTREMO COM BASE NA ALÍNEA C DO INCISO III DO ART. 102 DA CONSTITUIÇÃO REPUBLICANA. INSUBSISTÊNCIA.
+    1. No caso, a controvérsia foi decidida à luz da interpretação do Direito estadual pertinente. Pelo que entendimento diverso encontra óbice na Súmula 280 desta nossa Casa de Justiça. Precedentes.
+    2. O Tribunal de Justiça do Estado de Goiás não julgou válida lei ou ato de governo local contestados ante a Constituição, o que inviabiliza o recurso extraordinário fundamentado na alínea c do inciso III do art. 102 da Carta Magna.
+    Agravo regimental desprovido.”
+    No mesmo sentido: AI 593.581-AgR, Rel. Min. Dias Toffoli; AI 687.055-AgR, Rel. Min. Ricardo Lewandowski; e ARE 642.216, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 30 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
