@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. COMPLEMENTAÇÃO SALARIAL. DECRETO-LEI Nº 2.438/1988. EXTENSÃO AOS SERVIDORES INATIVOS. NATUREZA DA VANTAGEM. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO. GRATIFICAÇÃO. DIFERENÇA DE REMUNERAÇÃO. COMPLEMENTAÇÃO SALARIAL. DNOCS. DECRETO-LEI Nº 2438/88. EXTENSÃO DA VANTAGEM AOS INATIVOS. ART. 40, § 8º, DA CF.
+    - Hipótese em que não se trata de restabelecimento da vantagem ‘Complementação Salarial’ como parcela autônoma nos proventos de servidor público aposentado, uma vez que ela foi incorporada à remuneração dos ativos por conta dos Decretos-leis n.ºs 2.280/85 e 2.438/88.
+    - A questão sub judice se limita a saber se, ao tempo em que ela ainda não havia sido incorporada à remuneração dos servidores ativos, poderia a Administração Pública não beneficiar os aposentados com essa vantagem pecuniária, daí resultando uma diferença de tratamento entre aqueles em atividade e os da inatividade.
+    - A gratificação denominada ‘Diferença de Remuneração’, instituída pela Portaria nº 1124/79-DEP, fora dirigida aos servidores do DNOCS engajados em programas especiais. Não tinha, então, o condão de atingir a totalidade dos servidores daquela autarquia, mas apenas uma fração que atendia ao requisito legal, estando na ativa.
+    - Quando da edição do Decreto-lei nº 2438, de 26 de maio de 1988, tal gratificação passou a ser denominada ‘Complementação Salarial’ e perdeu o seu caráter emergencial. A partir daí, foi autorizado o seu pagamento a todos os servidores do DNOCS que já vinham percebendo-a em 31 de dezembro de 1987.
+    - Com a promulgação da Constituição Federal de 1988, tal vantagem foi estendida a todos os servidores inativos, mesmo que tenham passado a esta condição posteriormente a 31 de dezembro de 1987, por força da antiga redação do § 4º do art. 40, posteriormente previsto no § 8º, pela Emenda Constitucional nº 20/98, antes da alteração imposta pela Emenda Constitucional nº 41/2003, e do art. 20 do ADCT. Remessa obrigatória parcialmente provida.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação do artigo 40, § 4º (redação anterior à EC nº 20/1998), da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Esta Corte já firmou entendimento no sentido de que os benefícios ou vantagens de caráter geral, concedidos aos servidores da ativa, são extensíveis aos inativos e pensionistas. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO. INATIVOS. EXTENSÃO. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL.
+    1. Este Tribunal firmou entendimento no sentido de que apenas as vantagens de natureza de caráter geral podem ser estendidas aos inativos, com fundamento no artigo 40, §8º, da Constituição do Brasil.
+    (...)” (RE 504.488-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ de 14/3/2008).
+    No entanto, entendimento diverso do adotado pelo Tribunal a quo quanto à natureza da vantagem postulada e à existência ou não de direito do recorrido à sua percepção, demandaria o reexame da legislação infraconstitucional aplicável à espécie (Decreto-Lei nº 2.438/1988), circunstância que impede a admissão do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTADUAIS APOSENTADOS. EXTENSÃO DE VANTAGENS CONCEDIDAS AOS ATIVOS. NATUREZA DAS VANTAGENS. CONTROVÉRSIA INFRACONSTITUCIONAL. As vantagens de caráter genérico, concedidas aos servidores da ativa, são extensíveis aos inativos, por força do § 4º do art. 40 da Magna Carta (redação originária). Discussões acerca da natureza das parcelas que integram a remuneração ou os proventos do servidor não têm lugar em sede de recurso extraordinário, dada a necessidade de se interpretar a legislação infraconstitucional pertinente. Precedentes: RE 410.288-AgR, Relator Ministro Sepúlveda Pertence; RE 141.189-AgR, Relator Ministro Marco Aurélio; e RE 281.260-AgR, Relator Ministro Maurício Corrêa. Agravo regimental desprovido.” (RE 408.186-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ de 10/3/2006).
+    “Agravo regimental no recurso extraordinário. Servidor público. Direito adquirido. Complementação salarial. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional. Incidência da Súmula nº 279 desta Corte. 2. Agravo regimental não provido.” (AI 732.244-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJ de 7/12/2012).
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de setembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
