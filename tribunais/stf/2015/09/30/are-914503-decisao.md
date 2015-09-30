@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CONDENAÇÃO DE ENTE PÚBLICO AO PAGAMENTO DE CUSTAS JUDICIAIS. LEI Nº 15.942/2008 DO ESTADO DO PARANÁ. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL APLICÁVEL À ESPÉCIE. INCIDÊNCIA DA SÚMULA Nº 280 DO STF. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com o objetivo de reformar decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “AGRAVO INTERNO (ART. 557, § 1º, CPC). DECISÃO MONOCRÁTICA DO RELATOR QUE NEGOU SEGUIMETNO A AGRAVO DE INSTRUMENTO EM CONFRONTO A JURISPRUDÊNCIA DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA. VARA ESTATIZADA. OBRIGAÇÃO DO ESTADO DE PAGAR AS CUSTAS DO PROCESSO, QUANDO VENCIDO. ENUNCIADO Nº 37 DA 4ª E 5ª CÂMARAS CÍVEIS DESTE TRIBUNAL DE JUSTIÇA. LEI ESTADUAL Nº 15.942/08 NÃO PREVIU A ISENÇÃO DO PAGAMENTO DO FUNJUS AO ESTADO, SOMENTE DO FUNREJUS. TAXAS QUE NÃO SE CONFUNDEM. INTERPRETAÇÃO RESTRITIVA DOS DISPOSITIVOS LEGAIS EM SE TRATANDO DE ISENÇÃO DE TRIBUTO. DECISÃO AGRAVADA ESCORREITA. AUSÊNCIA DE OFENSA AO ART. 557 DO CPC. MANUTENÇÃO PELO COLEGIADO. RECURSO DESPROVIDO.”
+    Nas razões de apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 24, IV, 98, § 2º, 99 e 145, II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula nº 280 do STF.
+    É o relatório. DECIDO.
+    Não merece provimento o recurso.
+    A matéria relativa à condenação de ente público ao pagamento das custas judiciais, quando sub judice a controvérsia, implica análise da legislação infraconstitucional aplicável à espécie (Lei nº 15.942/2008 do Estado do Paraná), o que inviabiliza o conhecimento do apelo extremo, nos termos da Súmula nº 280 do STF, de seguinte teor: “Por ofensa a direito local não cabe recurso extraordinário".
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula nº 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138).
+    Nesse sentido, ARE 831.160, Rel. Min. Cármen Lúcia, DJe de 3/4/2014, que possui a seguinte ementa:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CUSTAS PROCESSUAIS DEVIDAS PELO ESTADO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de setembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
