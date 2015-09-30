@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo regimental cujo objeto é decisão monocrática do Ministro Joaquim Barbosa, que deu provimento ao presente recurso extraordinário, considerando constitucional a cobrança de ICMS pela sistemática da substituição tributária, nos seguintes termos (fls. 701):
+    “Trata-se de recurso extraordinário interposto de acórdão proferido pelo Tribunal de Justiça de São Paulo que considerou não ser possível a cobrança do ICMS pela sistemática da substituição tributária.
+    No recurso extraordinário, sustenta-se, em síntese, a violação dos arts. 1º, 24, 25 e 155, I, b, § 2º, XII, a e b, da Constituição, assim como do art. 34, § 8º, do ADCT.
+    O Plenário desta Corte, no julgamento do RE 213.396 (rel. min. Ilmar Galvão, DJ 1º.12.2000), firmou jurisprudência no sentido de que o regime de substituição tributária já se achava previsto no art. 128 do Código Tributário Nacional e no art. 6º, § 3º e § 4º, do Decreto-Lei 406/1968, dispositivos recepcionados pela Constituição de 1988.
+    Dessa orientação divergiu o acórdão recorrido.
+    Ante o exposto, com base no art. 557, § 1o-A, do Código de Processo Civil, conheço do recurso extraordinário e dou-lhe provimento, denegando a segurança pleiteada.
+    Sem honorários advocatícios (Súmula 512 do STF).
+    Custas ex lege.”
+    O agravante sustenta que “uma vez que o Eg. Superior Tribunal de Justiça, por ocasião do julgamento do RESP 955532, reformou o acórdão recorrido do TJSP, o presente recurso extraordinário não tem como prosperar, em razão da sua manifesta prejudicialidade”.
+    De início, reconsidero a decisão de fl. 701. Em prosseguimento, levanto o sobrestamento determinado à fl. 737. Passo a decidir.
+    Com efeito, há que se reconhecer a perda do objeto do presente recurso extraordinário, uma vez que o Superior Tribunal de Justiça, em decisão transitada em julgado naquela Corte, deu provimento ao recurso especial do estado de São Paulo, simultaneamente interposto ao recurso extraordinário (REsp 95.532, Rel. Min. Humberto Gomes de Barros), ocasião em que ficou reconhecida a legalidade da exigência de antecipação de ICMS sobre vendas futuras.
+    O recurso extraordinário interposto pelo estado de São Paulo perdeu seu parâmetro, na medida em que pretende a reforma de um acórdão que deixou de existir por força do efeito substitutivo do acórdão lançado no julgamento do recurso especial. Esclareça-se que tal efeito não fica obstado por força da interposição de recurso para outra Corte. Ele existe a partir do momento em que acórdão torna-se definitivo no âmbito da Corte que profere o provimento.
+    Destaco que o acórdão proferido pelo Superior Tribunal de Justiça é objeto de controvérsia pendente de julgamento por esta Suprema Corte, nos autos do RE nº 220.037, que será julgado sob minha relatoria. Ocorre, contudo, que a definição da questão constitucional controvertida só será possível após o julgamento do RE 593.849, que será julgado sob a sistemática da repercussão geral. O precedente que será firmado no recurso representativo da controvérsia é o que determinará a diretriz a ser adotada no caso.
+    O que se tem na hipótese é o desmembramento da mesma pretensão. Não faz sentido o argumento fazendário de que eventual êxito da contribuinte faria ressurgir o interesse recursal em questão. A premissa deste raciocínio seria a possibilidade, em tese, desta Corte proferir, sucessivamente, provimentos antagônicos sobre o mesmo pedido. Preliminarmente, a Turma proveria o recurso da contribuinte, para só então avançar sobre o recurso do estado e, logo em seguida, reformar o próprio acórdão para acolher a pretensão estatal. Não há dúvidas de que a questão deve ser decidida uma única vez. O extraordinário em questão perdeu seu parâmetro de reforma e o RE 220037 será apreciado à luz do quanto decidido pelo Plenário na ocasião do julgamento do RE 593849, Rel. Min. Ricardo Lewandowski.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, IX do RI/STF, julgo prejudicado o recurso extraordinário.
+    Publique-se.
+          Brasília, 30 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
