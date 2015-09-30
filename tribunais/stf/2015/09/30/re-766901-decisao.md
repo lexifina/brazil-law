@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DA SÚMULA 106/STJ. REsp 1102431/RJ. JULGAMENTO SUBMETIDO AO RITO DO ART. 543-C, DO CPC. INCONSTITUCIONALIDADE. INOCORRÊNCIA. DEMORA IMPUTADA AO PODER JUDICIÁRIO. PRESCRIÇÃO AFASTADA. APELAÇÃO DESPROVIDA.
+    1. A prescrição intercorrente é a extinção da pretensão em face da inércia do titular em promover o seu andamento, após a propositura da ação.
+    2. No caso em análise, a demora na concretização da citação do devedor deveu-se mais ao atraso na tomada de providências a cargo do próprio órgão judicial que a qualquer desídia do exequente, não se podendo computar o prazo em que o processo estava aguardando a expedição da carta citatória (quase quatro anos,) como demora causada pela parte, e sim como falha do próprio organismo judiciário.
+    3. Aplicável à espécie a súmula 106 do STJ: "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência". (REsp 1102431/RJ - Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008)
+    4. A edição da Súmula 106/STJ não transformou o Judiciário em legislador positivo, pois apenas sintetizou a inteligência de reiteradas decisões proferidas por aquela Corte na resolução de casos análogos, mantendo-se, pois, incólume a independência entre os Poderes da União, descabendo falar-se em sua inconstitucionalidade.
+    5. Apelação desprovida. ”
+    A pretensão deduzida pela parte não encontra amparo na jurisprudência do Supremo Tribunal Federal. Com efeito, esta Corte possui firme entendimento no sentido de que a matéria relativa à aplicação da prescrição no caso concreto não enseja a abertura da via extraordinária. No mesmo sentido, confiram-se os seguintes precedentes:
+    “RECURSO EXTRAORDINÁRIO MATÉRIA LEGAL E REPERCUSSÃO GERAL INADMITIDA EXECUÇÃO FISCAL PRESCRIÇÃO ARTIGO 174, PARÁGRAFO ÚNICO, INCISO I, DO CÓDIGO TRIBUTÁRIO NACIONAL. O Supremo, consignando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema referente à ocorrência de prescrição em execução fiscal, nos termos do artigo 174, parágrafo único, inciso I, do Código Tributário Nacional, anteriormente à Lei Complementar nº 118/2005.” (ARE 735.257 ED-AgR, Rel. Min. Marco Aurélio)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ANÁLISE DA PRESCRIÇÃO NO CASO CONCRETO. RETROATIVIDADE DO MARCO INTERRUPTIVO. DISCIPLINA PREVISTA PELO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE RESSONÂNCIA CONSTITUCIONAL.
+    A possibilidade de fazer retroagir o marco interruptivo da prescrição ao momento da propositura da ação, tal como prevê o Código de Processo Civil, demanda o reexame prévio da legislação infraconstitucional (ARE 810.802, Rel. Min. Dias Toffoli).
+    Agravo regimental a que nega provimento.”(RE 808.399-AgR, da minha relatoria)
+    Ainda, anoto que a esta Corte já assentou que possui natureza infraconstitucional a discussão a respeito do prazo prescricional em sede de execução fiscal na qual se envolve o contexto da demora na citação em razão de circunstâncias ínsitas ao aparelhamento do Poder Judiciário. No mesmo sentido, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Exceção de pré-executividade. Prescrição. Dilação probatória. Execução Fiscal. Demora na citação. Matéria infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    1. Possui natureza infraconstitucional a discussão a respeito do prazo prescricional em sede de execução fiscal na qual se envolve o contexto da demora na citação em razão de circunstâncias ínsitas ao aparelhamento do Poder Judiciário. A afronta ao texto constitucional seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Precedentes.
+    2. Agravo regimental não provido.” (ARE 858.514-AgR, Rel. Min. Dias Toffoli)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. DEMORA NA CITAÇÃO IMPUTÁVEL AO PODER JUDICIÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 751.864-AgR, Rel. Min. Teori Zavaski)
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 30 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
