@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, 195, § 5º, e 201, caput, § 1º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento no sentido do preenchimento dos requisitos para o reconhecimento da especialidade pretendida, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Ademais, as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. Com efeito, a aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação da Constituição da República.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Aposentadoria. Tempo de serviço. Condições especiais. Cômputo. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o cômputo, para efeito de aposentadoria, do tempo de serviço exercido em condições especiais, versa sobre tema infraconstitucional.” (AI 841047 RG, Relator(a): Min. Cezar Peluso, Plenário Virtual, DJe 01-09-2011).
+    “DIREITO PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. PEDIDO DE CONCESSÃO DE APOSENTADORIA ESPECIAL. CÔMPUTO DO PERÍODO DE TEMPO TRABALHADO EM ATIVIDADE INSALUBRE. MATÉRIA INFRACONSTITUCIONAL. REAPRECIÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. A resolução da presente questão demanda a análise de legislação infraconstitucional. 2. A solução da controvérsia requer uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em sede de recurso extraordinário. 3. Embargos de declaração recebidos como agravo regimental a que se nega provimento.” (ARE 868715 ED, Relator(a): Min. Roberto Barroso, 1ª Turma, DJe 02-06-2015)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de setembro de 2015.
+Ministra Rosa Weber
+Relatora
