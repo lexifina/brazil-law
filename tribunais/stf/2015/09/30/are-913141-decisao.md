@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Primeira Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO IMPROVIDO.
+    1. A decisão agravada deve ser mantida, por seus próprios e jurídicos fundamentos, a teor do art. 557, §1º, do CPC, inexistindo qualquer ilegalidade ou abuso de poder.
+    2. A denominada "exceção de pré-executividade" admite a defesa do executado sem a garantia do juízo somente nas hipóteses excepcionais de ilegitimidade de parte ou pagamento documentalmente comprovados, cancelamento de débito, anistia, remissão e outras situações reconhecíveis de plano, ou seja, a sua admissibilidade deve basear-se em prova inequívoca não sendo cabível nos casos em que há necessidade de produção de provas ou mesmo quando o magistrado entender ser pertinente ouvir a parte contrária para o seu convencimento.
+    3. Agravo improvido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega ofensa ao art. 5°, XXXIV e LV, todos da Carta. Sustenta, em síntese, que (i) foi iniciado um processo de execução fiscal sem a certeza, liquidez e exigibilidade, características inerentes e imprescindíveis para a fase executória; (ii) a ausência de remessa dos autos administrativos para o CARF pela RFB limita o direito de acesso ao processo administrativo, sendo inconstitucional tal prática.
+    A decisão agravada negou seguimento ao recurso extraordinário, sob o seguinte fundamento: “a alegada violação dos dispositivos constitucionais, caso esteja presente, ocorre de forma indireta ou reflexa. Quando é sabido que a ofensa à Constituição Federal deve ser direta e frontal, e não por via reflexa”.
+    Em sede de agravo, a parte reitera os fundamentos do recurso extraordinário.
+    A pretensão não merece acolhida. No caso dos autos, dissentir das conclusões adotadas demandaria apenas o reexame do acervo probatório constante dos autos, providência vedada nesta fase processual, nos termos da Súmula 279/STF. Na mesma linha, confiram-se os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo 2. Processo administrativo tributário. Ausência de intimação. Reexame de fatos e provas. Incidência do Enunciado 279 da Súmula do STF. 3. Afronta ao princípio do devido processo legal, se dependente do reexame prévio de normas infraconstitucionais, traduz ofensa reflexa à Constituição Federal. ARE-RG 748.371, Tema 660. 4. Agravo regimental a que se nega provimento.” (ARE 869.545-AgR, Rel. Min. Gilmar Mendes)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO ADMINISTRATIVO TRIBUTÁRIO. MULTA. CANCELAMENTO OU REDUÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO STF. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. OFENSA INDIRETA. SÚMULA 280 DO STF. REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA 279 DO STF. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. AGRAVO IMPROVIDO.
+    I – As razões do agravo regimental não atacaram, de forma convincente, os fundamentos da decisão agravada em relação à incidência, no caso, das Súmulas 279 e 280 do Supremo Tribunal Federal. Incidência da Súmula 284 do STF. Precedentes.
+    II – Inviável o recurso extraordinário quando sua apreciação demanda reexame, por esta Corte, da legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 do STF. Precedentes.
+    III – A apreciação do apelo extremo demandaria o revolvimento de matéria fática, o que é vedado pela Súmula 279 do STF.
+     IV – Não há contrariedade ao art. 93, IX, da Lei Maior, quando o acórdão recorrido encontra-se suficientemente fundamentado. Precedentes.
+    V – Agravo regimental improvido.” (ARE 695.894-AgR, Rel. Min. Ricardo Lewandowski)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. INFRAÇÃO DE TRÂNSITO. REGULARIDADE DO PROCESSO ADMINISTRATIVO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX E X, DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA.
+    1. A regularidade do procedimento administrativo, quando aferida pelas instâncias ordinárias, não pode ser revista por esta Corte em razão do óbice da Súmula nº 279do STF que dispõe: “Para simples reexame de prova não cabe recurso extraordinário”.
+    2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    3. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte. Precedente: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    4. In casu, o acórdão recorrido assentou: “RECURSO INOMINADO. MUNICÍPIO DE SÃO LEOPOLDO. CÓDIGO DE TRÂNSITO BRASILEIRO. ANULAÇÃO DE PENALIDADE POR AUSÊNCIA DE DECISÃO FUNDAMENTADA. INEXISTÊNCIA DE RECURSO ADMINISTRATIVO. IMPOSSIBILIDADE. MANUTENÇÃO DA SENTENÇA.”
+    5. Agravo regimental DESPROVIDO.” (ARE 858.688-AgR, Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 30 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
