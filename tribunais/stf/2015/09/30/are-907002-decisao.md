@@ -1,0 +1,23 @@
+Vistos etc.
+    Maneja agravo o Instituto Nacional do Seguro Social (INSS) contra o juízo negativo de admissibilidade do recurso extraordinário interposto com base no art. 102, III, da Lei Maior, tendo em vista decisão exarada pela Presidência do Tribunal de Justiça do Estado do Espírito Santo. A controvérsia diz com a competência para o julgamento de recurso contra sentença proferida pela Justiça estadual no exercício da competência federal da área de sua jurisdição.
+    Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Alega-se, em síntese, a nulidade do acórdão recorrido ante a incompetência do Tribunal de Justiça estadual para o julgamento da apelação. Aparelhado o recurso na alegação de afronta ao art. 108, II, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Com razão o recorrente.
+    Dispõem os arts. 108, II, e 109, I, § 3º, da Constituição da República:
+    “Art. 108. Compete aos Tribunais Regionais Federais:
+    (…)
+      II - julgar, em grau de recurso, as causas decididas pelos juízes federais e pelos juízes estaduais no exercício da competência federal da área de sua jurisdição.”
+    “Art. 109, I, § 3º - Serão processadas e julgadas na justiça estadual, no foro do domicílio dos segurados ou beneficiários, as causas em que forem parte instituição de previdência social e segurado, sempre que a comarca não seja sede de vara do juízo federal, e, se verificada essa condição, a lei poderá permitir que outras causas sejam também processadas e julgadas pela justiça estadual.”
+    Na hipótese, o recorrente propôs, no juízo de direito da comarca de Rio Bananal/ES, ação ordinária em face do Instituto Nacional do Seguro Social, visando à concessão do benefício previdenciário de aposentadoria rural por idade. Julgada parcialmente procedente a ação para conceder o benefício pretendido, o ora recorrente manejou recurso de apelação mediante petição endereçada ao Tribunal Regional Federal da 2ª Região (fl. 02, doc. 11). Encaminhados os autos ao Tribunal de Justiça do Estado do Espírito Santo, este proferiu acórdão no qual negado provimento à apelação.
+    Na esteira da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, o art. 109, I, § 3º, da Lei Maior faculta ao segurado propor ação previdenciária na vara estadual da comarca do seu domicílio. Nesse sentido, cito: RE 418561, Rel. Min. Joaquim Barbosa, DJe 02.02.2012, RE 644947, Rel. Min. Cármen lúcia, DJe 06.6.2012; RE 632979 AgR, Rel. Min. Celso De Mello, DJe 10.11.2011; RE 615386, Rel. Min. Ricardo Lewandowski, DJe 01.02.2011; RE 528644, Rel. Min. Cezar Peluso, DJe 23.02.2012; ARE 786.211-AgR/PI, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 24.02.2014, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. BENEFÍCIO PREVIDENCIÁRIO. COMPETÊNCIA. FORO. ART. 109, § 3º, DA CONSTITUIÇÃO. PROPOSITURA DA AÇÃO: DOMICÍLIO DO SEGURADO. VARA ESTADUAL: POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Proposta a presente demanda na Justiça Estadual pretendendo a concessão de benefício previdenciário em face da Autarquia federal recorrente, é competente a Justiça Federal da segunda instância para o julgamento do recurso da decisão proferida pelo juiz estadual no exercício da competência federal da área de sua jurisdição. Nesse sentido: RE 409.200-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJ 11.10.2007; RE 545.199-AgR, Rel. Min. Ellen Gracie, 2ª Turma, DJe 18.12.2009; e AI 151.641-AgR, Rel. Min. Moreira Alves, 1ª Turma, DJ 12.9.1997, este assim ementado:
+    “Com efeito, o art. 108, II, da CF encerra somente uma norma de competência segundo a qual, quando houver recurso para a segunda instância (e nada impede que a legislação ordinária não o admita), por não ter o texto constitucional criado, no caso, recurso específico, caberá ao TRF julgá-lo. Por isso, entendeu-se constitucional a Lei 6.825/1980 em face da EC 1/1969 à vista de seu art. 122, III, que continha a mesma regra contida no referido art. 108, II, da atual Carta Magna, que, assim, não revogou a mencionada Lei."
+    Nesse contexto, verifico que o entendimento adotado no acórdão recorrido diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal.
+    Ante o exposto, forte no art. 544, § 4º, II, “c”, do CPC e art. 21, § 2º, do RISTF, conheço do agravo e dou provimento ao recurso extraordinário para anular o acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo. Determino a remessa dos autos ao Tribunal Regional Federal da 2ª Região para o exame do recurso de apelação (doc. 11).
+    Publique-se.
+    Brasília, 30 de setembro de 2015.
+Ministra Rosa Weber
+Relatora
