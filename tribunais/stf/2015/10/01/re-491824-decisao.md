@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. CONTRIBUIÇÃO SOCIAL INTRODUZIDA PELOS ARTS. 1º E 2º DA LEI COMPLEMENTAR Nº 110/2001. NATUREZA JURÍDICA DE CONTRIBUIÇÃO SOCIAL GERAL. LIMINAR CONCEDIDA PELO E. STF NOS AUTOS DA ADIN Nº 2.556/DF. EFICÁCIA ERGA OMNES. EFEITOS EX TUNC. RESSALVA DO ENTENDIMENTO DO RELATOR.
+    I - O Tribunal Pleno do E. Supremo Tribunal Federal concedeu liminar nos autos da ADIN nº 2.556/DF, relatada pelo Ministro Moreira Alves, adotando a posição de que as exações previstas nos arts. 1º e 2º da Lei Complementar nº 110/2001 ostentam a natureza jurídica de “contribuições sociais gerais” e, sob tal qualidade, submetidas à regência do art. 149 da Constituição Federal, forçando a cobrança à observância do princípio da anterioridade, traduzido pela sua inexigibilidade no mesmo ano de sua instituição, ou seja, 2001, produzindo efeitos apenas a partir do exercício financeiro seguinte, janeiro de 2002.
+    II - Releva indicar que tal julgamento é dotado de eficácia erga omnes, nos moldes do art. 11, § 1º da Lei nº 9.868/99, atribuindo-se lhe, especificamente, efeitos ex tunc, impondo-se sua aplicação.
+    III – Recursos da União Federal, de ofício e do impetrante improvidos.”
+    O recurso interposto pela União busca fundamento no art. 102, III, b, da Constituição Federal. A parte recorrente alega que os arts. 1º e 2º da Lei Complementar nº 110/2001 cuidam de contribuições destinadas à seguridade social, e que é perfeitamente aplicável o princípio da anterioridade nonagesimal.
+    O recurso interposto por SHOP TOUR TV LTDA busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega a inconstitucionalidade das contribuições instituídas pela LC nº 110/2001 por violação ao art. 149 da Constituição.
+    O Plenário do Supremo Tribunal Federal, nos autos do RE nº 878.313-RG, de relatoria do Ministro Marco Aurélio, reconheceu a repercussão geral de matéria semelhante ao caso em exame (Tema 846).
+    “CONTRIBUIÇÃO SOCIAL – ARTIGO 1º DA LEI COMPLEMENTAR Nº 110/2001 – FINALIDADE EXAURIDA – ARTIGOS 149 E 154, INCISO I, DA CARTA DE 1988 – ARGUIÇÃO DE INCONSTITUCIONALIDADE SUPERVENIENTE – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia relativa a saber se, constatado o exaurimento do objetivo – custeio dos expurgos inflacionários das contas vinculadas do Fundo de Garantia do Tempo de Serviço – em razão do qual foi instituída a contribuição social versada no artigo 1º da Lei Complementar nº 110, de 29 de junho de 2001, deve ser assentada a extinção do tributo ou admitida a perpetuação da cobrança ainda que o produto da arrecadação seja destinado a fim diverso do original”. (RE nº 878.313 RG / RS, Rel. Min. Marco Aurélio)
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+    Brasília, 01 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
