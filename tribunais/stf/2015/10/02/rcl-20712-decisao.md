@@ -1,0 +1,22 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    O Município de Bento Gonçalves afirma haver o Tribunal Superior do Trabalho, no julgamento do Agravo de Instrumento em Recurso de Revista nº 0000732-15.2010.5.04.0512, olvidado o que decidido na Questão de Ordem nas Ações Diretas de Inconstitucionalidade nº 4.357/DF e 4.425/DF, atinente à modulação da eficácia do acórdão do mencionado processo objetivo.
+    Segundo narra, o Órgão reclamado assentou a incidência de juros da mora no percentual de 12% ao ano, a contar da formalização da demanda trabalhista pelo interessado, e da Tabela de Fatores de Atualização e Conversão de Débitos Trabalhistas – FACDT, para fins de atualização monetária, a partir do primeiro dia útil do mês subsequente ao da prestação do trabalho, surgindo daí o alegado desrespeito.
+    Aponta a própria legitimidade para a reclamação, além da tempestividade e do cabimento da medida. Conforme argumenta, o Órgão reclamado afastou a incidência do artigo 1º-F da Lei nº 9.494/97, na redação conferida pela de nº 11.960/2009, por entender inobservável o preceito quando envolvida a condenação subsidiária da Fazenda Pública ao pagamento de créditos trabalhistas resultantes de terceirização, considerado o entendimento contido na Orientação Jurisprudencial nº 382 da Seção de Dissídios Individuais I do Tribunal Superior do Trabalho. Este é o teor do enunciado:
+    382. JUROS DE MORA. ART. 1º-F DA LEI Nº 9.494, DE 10.09.1997. INAPLICABILIDADE À FAZENDA PÚBLICA QUANDO CONDENADA SUBSIDIARIAMENTE. (DEJT divulgado em 19, 20 e 22.04.2010). A Fazenda Pública, quando condenada subsidiariamente pelas obrigações trabalhistas devidas pela empregadora principal, não se beneficia da limitação dos juros, prevista no art. 1º-F da Lei nº 9.494, de 10.09.1997.
+    Sustenta a ofensa ao paradigma, porquanto o Supremo teria consignado a eficácia prospectiva, a partir de 25 de março de 2015, da declaração de inconstitucionalidade do § 12 do artigo 100 da Carta da República e, por arrastamento, do citado artigo 1º-F. Ressalta não haver o Tribunal excepcionado os casos de responsabilização subsidiária da Administração em decorrência de terceirização. Evoca jurisprudência.
+    Sob o ângulo do risco, alude ao pagamento de requisitórios em valores superiores aos devidos.
+    Requer, em sede liminar, a suspensão do ato impugnado e, alfim, a cassação do pronunciamento.
+    O interessado, Jadir Ribeiro Guimarães, em impugnação, postula a declaração de improcedência do pedido ante a inexistência do arguido desrespeito.
+    2. É imprópria a irresignação uma vez evidenciada a ausência de identidade material entre o paradigma evocado e o ato atacado. A leitura deste último revela não ter o Órgão reclamado adotado óptica sobre o tema veiculado no acórdão da Questão de Ordem nas Ações Diretas de Inconstitucionalidade nº 4.357/DF e 4.425/DF. Limitou-se a não conhecer do agravo de instrumento em recurso de revista em razão de óbice processual. Confiram o seguinte trecho do pronunciamento reclamado:
+    Persegue o executado, mediante o presente recurso, a reforma da decisão agravada. Ocorre que, em vez de alinhar argumentos que se oponham à decisão e demonstrem o seu desacerto, limita-se a reafirmar, na minuta do agravo de instrumento, as alegações trazidas em seu recurso de revista. Não ataca, portanto, o conteúdo da decisão denegatória, objeto do agravo de instrumento, relacionado com a impossibilidade de interposição de recurso de revista à decisão proferida por juiz de Tribunal Regional.
+    Impende registrar que, para o processamento do agravo de instrumento, necessário se faz que a parte recorrente apresente fundamentação objetiva direcionada a desconstituir os fundamentos da decisão atacada.
+    Nesse contexto, como o recorrente não forneceu elementos destinados a infirmar os fundamentos da decisão monocrática, resulta inviável o exame do agravo de instrumento, diante da ausência de dialeticidade.
+    Ante o exposto, não conheço do agravo de instrumento.
+    Atentem para a excepcionalidade da reclamação. Pressupõe sempre a usurpação da competência do Supremo ou o desrespeito a decisões que haja proferido. Descabe utilizar a medida como sucedâneo recursal.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 2 de outubro de 2015.
+Ministro MARCO AURÉLIO
+Relator
