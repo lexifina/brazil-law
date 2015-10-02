@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Superior Tribunal de Justiça, cuja ementa reproduzo a seguir:
+    “PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INOCORRÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. ANISTIA. DANOS DECORRENTES DE PERSEGUIÇÃO POLÍTICA NA ÉPOCA DA DITADURA MILITAR. IMPRESCRITIBILIDADE. PRECEDENTES. DANO MORAL. VALOR ARBITRADO COM RAZOABILIDADE E PROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.” (eDOC 7, p. 169)
+    Opostos embargos de declaração, foram estes rejeitados.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida. No mérito, aponta-se ofensa aos arts. 1º, III; 5º, caput e incisos III, XLIII e XLIV; e 97, todos do texto constitucional.
+    Defende-se, em síntese, a ocorrência de violação ao art. 97 da Constituição Federal, uma vez que o Superior Tribunal de Justiça teria declarado a inconstitucionalidade do art. 1º do Decreto nº 20.910/1932 em órgão fracionário, violando o Enunciado nº 10 da Súmula Vinculante. Sustenta-se a prescritibilidade da pretensão indenizatória dos atos praticados durante o regime de exceção.
+    É o relatório.
+    Decido.
+    Isso porque, quanto à alegada violação ao art. 97 da Constituição Federal, o acórdão recorrido em nenhum momento declarou a inconstitucionalidade de lei ou ato normativo de poder público, ou mesmo afastou sua incidência.
+    O Superior Tribunal de Justiça limitou-se a interpretar as normas infraconstitucionais para alcançar a conclusão a que chegou, aplicando sua pacífica jurisprudência, de modo que não ocorreu violação ao artigo 97 do texto constitucional.
+    Com efeito, o acórdão do Tribunal Regional Federal da 5ª Região afastou a prescrição do direito e reconheceu a ocorrência dos fatos ensejadores dos danos morais, bem como a responsabilidade da recorrente em indenizá-los. Por sua vez, o Superior Tribunal de justiça aplicou o entendimento pacífico daquela Corte no sentido de ser inaplicável a prescrição quinquenal, disposta no art. 1º do Decreto 20.910/1932, sobre danos decorrentes de violação de direitos fundamentais ocorridos durante o estado de exceção.
+    Desse modo, sendo a controvérsia de natureza eminentemente infraconstitucional, não há como dar seguimento ao apelo extraordinário.
+    A corroborar esse entendimento, confiram-se os seguintes precedentes:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. CRIME DE TORTURA NO REGIME MILITAR. AFASTAMENTO DO ART. 1º DO DECRETO 20.910/32. PRESCRIÇÃO. VIOLAÇÃO À SÚMULA VINCULANTE 10: INOCORRÊNCIA. DESCUMPRIMENTO AO PRINCÍPIO DA RESERVA DE PLENÁRIO: NÃO CONFIGURAÇÃO. 1. Inexistência de ofensa ao princípio da reserva de plenário, pois o acórdão recorrido analisou normas legais sem julgar inconstitucional lei ou ato normativo federal ou afastar a sua incidência, restringindo-se o Superior Tribunal de Justiça a considerar inaplicável ao caso o art. 1º do Decreto 20.910/32. 2. Agravo regimental a que se nega provimento” (AI-AgR n° 781.787/GO, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 3/12/10).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. EXECUÇÃO FISCAL. DECRETO 20.910/32. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - A discussão sobre o prazo prescricional demanda a análise de legislação infraconstitucional, Decreto-Lei 20.910/32. A afronta à Constituição, se ocorrente, seria indireta. II – Agravo regimental improvido” (AI n° 764.126/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11).
+    Nesse sentido, em casos idênticos ao dos autos, cito as seguintes decisões monocráticas: AI 858.091, de minha relatoria, DJe 1º.3.2013; RE 715.268/DF, Rel. Ministro Luiz Fux, DJe 22.4.2013; AI 789.622/PR, Rel. Ministro Celso de Mello, DJe 5.9.2012; ARE 885.088/DF, Rel. Min. Teori Zavascki, DJe 28.05.2015; ARE 887.122/DF, Rel. Min. Rosa Weber, DJe 14.05.2015; e o ARE 651.655/DF, de minha relatoria, DJe 14.05.2013.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 2 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
