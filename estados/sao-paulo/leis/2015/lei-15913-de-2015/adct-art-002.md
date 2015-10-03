@@ -1,0 +1,1 @@
+Artigo 2º - Aplicam-se, no que couber, as disposições das Leis nº 898, de 18 de dezembro de 1975, e nº 1.172, de 17 de novembro de 1976, e suas alterações, até que seja publicado o regulamento previsto nesta lei.
