@@ -1,0 +1,21 @@
+DECISÃO
+FLAGRANTE – SUPERAÇÃO.
+INIMPUTABILIDADE – PROCESSO-CRIME – APRECIAÇÃO.
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O Juízo da Vara de Plantão Criminal da Comarca da Capital/SP, no Processo de nº 0001177-15.2015.8.26.0635, converteu a prisão em flagrante do paciente, ocorrida no dia 15 de fevereiro de 2015, em preventiva, ante a suposta prática do delito descrito no artigo 157, cabeça, do Código Penal (roubo simples). Consignou a existência de indícios de materialidade e de autoria. Observou ser a segregação necessária para garantia da ordem pública, em face da gravidade do roubo – cometido com grave ameaça – e conveniência da instrução criminal, já que se deve garantir o comparecimento do paciente aos atos processuais.
+    A defesa impetrou habeas corpus no Tribunal de Justiça. Apontou a ilegalidade do flagrante, pois não teria sido encontrado com o paciente qualquer objeto capaz de relacioná-lo ao roubo, bem como a inimputabilidade, uma vez que possuiria transtorno bipolar, necessitando de internação em clínica psiquiátrica. O relator indeferiu o pedido liminar, ante a ausência de ilegalidade na determinação da custódia.
+    No Superior Tribunal de Justiça, formalizou-se o Habeas Corpus nº 317.348/SP, sustentando-se novamente a ilegalidade do flagrante e a inimputabilidade. Além disso, ressaltou-se a inexistência dos requisitos necessários para implementação da prisão cautelar. O relator não conheceu da impetração. Consignou, com base no Verbete nº 691 da Súmula do Supremo, não caber habeas contra indeferimento de liminar, porquanto resultaria em indevida supressão de instância.
+    Neste habeas, os impetrantes reiteram os argumentos expendidos anteriormente. Ponderam que o caso em questão permite a mitigação do Verbete nº 691 da Súmula do Supremo. Destacam as condições subjetivas favoráveis do paciente – primariedade, residência fixa e atividade laboral lícita –, assim como a inimputabilidade, a justificar a revogação da custódia. Apontam a violação ao princípio da presunção da não culpabilidade.
+    Requerem, em âmbito liminar, a liberdade provisória para que o paciente aguarde solto o julgamento final desta impetração. No mérito, pleiteiam a declaração de nulidade do processo, em razão da suposta inimputabilidade do paciente.
+    A fase é de exame da medida acauteladora.
+    2. Observem a organicidade e a dinâmica do Direito. O flagrante foi superado pelo ato que implicou a prisão preventiva. De qualquer forma, consta do auto respectivo que foram apreendidas, com o paciente, as coisas roubadas.
+    Quanto à inimputabilidade, é matéria a merecer análise no curso do processo-crime.
+    Sob o ângulo da custódia preventiva, considerou-se, tão somente, a imputação. O arcabouço normativo não contempla a prisão automática, decorrente da simples acusação. O Juízo lançou premissas que servem a todo e qualquer processo. Entendeu mostrar-se imprescindível garantir a ordem pública ante o crime que poderia vir a ser imputado, na denúncia, ao paciente.
+    Aludiu, mais, à instrução criminal, tendo em conta a necessidade da presença física do acusado em audiência. Nem mesmo o julgamento pelo Tribunal do Júri requer o comparecimento do réu. O que decidido revela a origem de a população carcerária provisória haver chegado, praticamente, a número igual ao da definitiva. Olvida-se o princípio da não culpabilidade, invertendo-se a sequência natural, que direciona a apurar-se para, selada a culpa, em execução da pena imposta, prender-se.
+    3. Defiro a liminar pleiteada. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre preso por motivo diverso do retratado no ato do Juízo da Vara de Plantão Criminal da Comarca da Capital/SP, no Processo nº 0001177-15.2015.8.26.0635, que implicou a prisão preventiva. Advirtam-no de que deve permanecer na residência cujo endereço indicar ao Juízo, atendendo aos chamamentos judiciais e informando eventual transferência, bem como de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 4 de outubro de 2015, às 18h45.
+Ministro MARCO AURÉLIO
+Relator
