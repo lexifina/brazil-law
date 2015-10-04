@@ -1,0 +1,17 @@
+DECISÃO
+FURTO – INSIGNIFICÂNCIA AFASTADA – RECURSO ESPECIAL – NEGATIVA DE SEGUIMENTO – HABEAS CORPUS – LIMINAR – DECISÃO – EFEITOS – SUSPENSÃO – INDEFERIMENTO.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O paciente foi denunciado pela suposta prática do delito previsto no artigo 155, cabeça, cumulado com o 14, inciso II (furto simples tentado), ambos do Código Penal. O Juízo da 9ª Vara Criminal da Comarca de Belo Horizonte, no Processo nº 0024.11.272.374-7, “absolveu o paciente”. Apontou a atipicidade material da conduta, com base no princípio da insignificância, considerando ter sido o objeto subtraído avaliado em R$188,00 (cento e oitenta e oito reais).
+    O Ministério Público Estadual interpôs recurso em sentido estrito. Alegou possuir o objeto subtraído valor significativo, bem como ostentar o investigado diversas passagens na polícia. A 2ª Câmara Criminal do Tribunal de Justiça proveu o recurso, assentando não ser inexpressivo o valor do bem subtraído, conforme precedentes jurisprudenciais do Superior Tribunal de Justiça. Os embargos infringentes a seguir protocolados foram desprovidos.
+    Contra essa decisão, a defesa interpôs recurso especial, aduzindo a atipicidade material da conduta. A relatora, no Superior Tribunal de Justiça, a ele negou seguimento. Sublinhou a inadequação do princípio da bagatela, pois os objetos subtraídos representavam mais de 30% do valor do salário mínimo vigente à época dos fatos. Ressaltou haver diferença entre o conceito de bens de pequeno valor e o de valor insignificante. Consignou estar o acórdão recorrido em consonância com o entendimento consolidado do Superior Tribunal de Justiça, reportando-se ao Verbete nº 83 da Súmula.
+    Em agravo regimental – de nº 1.471.899 –, aduziu-se competir ao magistrado de primeira instância verificar se houve ou não lesão expressiva ao bem jurídico tutelado. A Quinta Turma desproveu o recurso, nos termos da decisão recorrida.
+    Neste habeas, a Defensoria Pública da União sustenta, com base no princípio da intervenção mínima, que o Direito Penal deve ter um caráter subsidiário na proteção dos bens jurídicos essenciais à tranquilidade social. Destaca a inexpressividade da lesão, devido ao ínfimo valor do objeto do crime e ao fato de ter havido apenas tentativa. Assinala estarem preenchidos os requisitos necessários para a observância do mencionado princípio.
+    Requer, em âmbito liminar, a suspensão dos efeitos da decisão formalizada pelo Superior Tribunal de Justiça no Recurso Especial nº 1.471.899/MG. No mérito, busca seja observado o princípio da insignificância, reconhecendo-se a atipicidade da conduta, a fim de absolver o paciente.
+    A fase é de exame da medida acauteladora.
+    2. Observem a organicidade do Direito, evitando-se a sobrecarga da máquina judiciária. A ordem jurídica contempla a solução para o furto em que a coisa subtraída é de pequeno valor – § 2º do artigo 155 do Código Penal. Mais do que isso, reiterados são os pronunciamentos do Supremo sobre o afastamento da insignificância quando se trata de agente envolvido em situações idênticas. O Superior Tribunal de Justiça tem, até mesmo, verbete de súmula sobre a matéria. Como, então, pedir a suspensão da decisão judicial formalizada?
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 4 de outubro de 2015, às 18h30.
+Ministro MARCO AURÉLIO
+Relator
