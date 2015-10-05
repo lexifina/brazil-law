@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, contra acórdão proferido pela 1ª Turma Recursal dos Juizados Especiais do Estado do Acre, na Apelação 0603259-46.2014.8.01.0070, cujo voto do juiz-relator tem o seguinte teor (eDOC 3, p. 97):
+    “Confirmo a r. Sentença pelos próprios fundamentos e, a respeito, sob os princípios fundantes e estruturantes da República, em especial, o da dignidade da pessoa humana e o da isonomia (CRFB, arts. 1º, III, e 5º, caput) e, ainda, movido pelo que reputo mais justo e equânime (Lei Federal nº 9.099/95 – LJE, art. 6º), ressalto que de há muito não há mais ambiente para distinção entre trabalhador efetivo e temporário e, nesse sentido, o ato sentencial está em harmonia com a jurisprudência pesquisada, notadamente, das Turmas Recursais do Acre e do e. TRIBUNAL de topo do país (STF), portanto, não configurada a unicidade dos contratos temporários firmados e celebrados, tenho como judicioso o reconhecimento e declaração de extensão de direitos sociais (na forma do dispositivo sentencial), previsto no art. 7º, da Carta da Nação (CRFB) e, assim, nego provimento ao recurso interposto. Sem custas. Honorários de advogado de 20% do valor de condenação.”
+    Os embargos de declaração foram rejeitados (eDOC 4, p. 7).
+    Na reclamação, aponta-se afronta à Súmula Vinculante 37.
+    Sustenta-se, em síntese, que a Turma Recursal ora reclamada, no julgamento que se impugna, desrespeitou a Súmula Vinculante 37, ao estender a professores temporários, com fulcro no princípio da isonomia, o direito a férias especiais de 45 dias a que teriam direito apenas os professores efetivos, nos termos da Lei Complementar Estadual 67/1999.
+    É o relatório. Decido.
+    Verifica-se, de plano, que inexiste a alegada violação, porquanto os fundamentos do acórdão impugnado são diversos daqueles em que se embasou a Súmula Vinculante 37.
+    Com efeito, o acórdão que deu origem à presente reclamação deferiu a professor temporário, com base no princípio constitucional da isonomia, férias de 45 dias. Não se trata, pois, de aumento de vencimentos de servidor público. Constata-se, portanto, que não há ofensa à Súmula Vinculante 37 (Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.). Nesse sentido, confiram-se as seguintes decisões: Rcl 21746, rel. Ministro Teori Zavascki, DJe de 19.08.2015; Rcl 21623, rel. Ministro Celso de Mello, DJe de 18.08.2015 e Rcl 21609, rel. Ministro Marco Aurélio, DJe de 10.08.2015.
+    Ante o exposto, com fulcro nos precedentes indicados, julgo improcedente a presente reclamação, com prejuízo da liminar, nos termos dos artigos 21, § 1º, e 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 5 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
