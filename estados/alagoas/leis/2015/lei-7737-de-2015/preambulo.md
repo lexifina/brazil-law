@@ -1,0 +1,9 @@
+ESTADO DE ALAGOAS
+
+GABINETE DO GOVERNADOR
+
+LEI Nº 7.737, DE 02 DE OUTUBRO DE 2015.
+
+ALTERA A LEI ESTADUAL Nº 7.679, DE 13 DE JANEIRO DE 2015.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
