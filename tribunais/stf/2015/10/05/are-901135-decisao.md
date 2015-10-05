@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário em face do acórdão da Turma Recursal do Tribunal de Justiça do Estado de Rondônia, assim ementado (fls. 68):
+    “AGRAVO REGIMENTAL. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA JÁ DISCUTIDA E DECIDIDA POR ESTA TURMA. NÃO CABIMENTO. RECURSO RECEBIDO E IMPROVIDO.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LV; 37, X; 61, § 1º, II, “a”; e 93, IX; da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que ao reconhecer a inconstitucionalidade da Lei Estadual 794/98, que concedeu auxílio alimentação aos funcionários do Tribunal de Justiça do Estado de Rondônia, a Turma a quo violou expressamente os dispositivos constitucionais invocados no apelo extremo, visto que a referida lei não trata de aumento da remuneração de servidores, tendo o auxílio alimentação natureza indenizatória e não retributiva. Aduz, ainda, a ausência de fundamentação do acórdão recorrido.
+    A Presidência da Turma Recursal do TJ/RO inadmitiu o recurso, em virtude de ausência de prequestionamento das questões constitucionais invocadas e de inexistir ofensa direta à Constituição Federal.
+    É o relatório. Decido.
+    Inicialmente, observo que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. A jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Além disso, não foram opostos embargos declaratórios com a finalidade de sanar a omissão. Incidem, portanto, as súmulas n. 282 e 356 do Supremo Tribunal Federal.
+    Ademais, ressalto que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário (RE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013).
+    Por fim, o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o ora Agravante.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão .
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 5 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
