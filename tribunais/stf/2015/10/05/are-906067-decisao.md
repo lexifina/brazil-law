@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário em face do acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (eDOC 1, p. 186):
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. DNOCS. VANTAGEM PESSOAL DENOMINADA COMPLEMENTAÇÃO SALARIAL. SERVIDORES DO DNOCS. DECRETO-LEI Nº 2438/88. EXTENSÃO DA VANTAGEM AOS INATIVOS. ART. 40, § 8o, DA CF/88.
+    Hipótese em que não se trata de restabelecimento da vantagem denominada Complementação Salarial como parcela autônoma nos proventos de servidor público aposentado, uma vez que ela foi incorporada à remuneração dos ativos por conta dos Decretos-leis nos. 2.280/85 e 2.438/88.
+    - A questão sub judice limita-se a saber se, ao tempo em que ela ainda não havia sido acrescida à remuneração dos servidores ativos, poderia a Administração Pública não beneficiar os aposentados com a referida vantagem pecuniária, daí resultando uma diferença de tratamento entre aqueles em atividade e os da inatividade.
+    - A gratificação denominada Diferença de Remuneração, instituída pela Portaria n° 1124/79-DEP, fora dirigida aos servidores do DNOCS engajados em programas especiais. Não tinha, então, o condão de atingir a totalidade dos servidores daquela autarquia, mas apenas uma fração que atendia ao requisito legal, estando na ativa.
+    - Quando da edição do Decreto-lei n° 2438, de 26 de maio de 1988, tal gratificação passou a ser denominada Complementação Salarial e perdeu o seu caráter emergencial. A partir daí, foi autorizado o seu pagamento a todos os servidores do DNOCS que já vinham percebendo-a em 31 de dezembro de 1987.
+    - Com a promulgação da Constituição Federal de 1988, tal vantagem foi estendida a todos os servidores inativos, mesmo que tenham passado a esta condição posteriormente a 31 de dezembro de 1987, por força da antiga redação do § 4o do art. 40, posteriormente previsto no § 8o, pela Emenda Constitucional n° 20/98, antes da alteração imposta pela Emenda Constitucional n° 41/2003, e do art. 20 do ADCT. Apelação e remessa obrigatória improvidas.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, § 8º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, ser indevida a pretensão dos recorridos “pela total falta de amparo fático ou legal para conceder a requestada extensão aos servidores inativos, ora apelados, de vantagem pessoal, nominalmente identificada, instituída pelo Decreto-lei nº 2.438/88. de 26/05/1988, vez que sem respaldo em qualquer preceptivo contido na CF/68, bem como na novel Carta Constitucional de 88, que pelo seu Art. 40, § 4º, claramente não estende aos servidores inativos vantagens de caráter pessoal, como é o caso da Complementação Salarial.” (eDOC 1, p. 217)
+    A Vice-Presidência do TRF/5ª Região inadmitiu o recurso, em virtude de inexistir ofensa direta à Constituição Federal.
+    É o relatório. Decido.
+    Inicialmente, quando do julgamento do acórdão recorrido, o tribunal de origem assim asseverou (eDOC 1, p. 180):
+    “Com a edição do Decreto-lei nº 2438, de 26 de maio de 1988, a referida gratificação se submeteu a algumas mudanças, passando a ser denominada Complementação Salarial e a perder o seu caráter emergencial. A partir daí, foi autorizado o seu pagamento a todos os servidores do DNOCS que já vinham recebendo em 31 de dezembro de 1987, incorporando-se, inclusive, aos proventos de aposentadoria.”
+    Sendo assim, o exame das razões recursais exige análise da legislação infraconstitucional, pois eventual contrariedade com a Constituição Federal é apenas reflexa, o que não autoriza o acesso à via extraordinária. Nesse sentido: RE 519.845-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 27.5.2014; AI 732.244-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 06.12.2012.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 5 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
