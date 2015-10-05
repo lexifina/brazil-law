@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que negou seguimento ao recurso extraordinário interposto em face do acórdão da Turma Recursal da Fazenda Publica dos Juizados Especiais do Rio Grande do Sul, assim ementado (fl. 87):
+“RECURSO INOMINADO. SERVIDOR PÚBLICO ESTADUAL. POLICIAL CIVIL. APOSENTADORIA ESPECIAL. LEI COMPLEMENTAR FEDERAL Nº 51/85. ABONO DE PERMANÊNCIA DEVIDO. TERMO INICIAL DOS JUROS. CITAÇÃO. SENTENÇA PARCIALMENTE REFORMADA.
+    DERAM PARCIAL PROVIMENTO AO RECURSO DO ESTADO E NEGARAM PROVIMENTO AO RECURSO DA PARTE AUTORA.”
+    No recurso extraordinário, com fulcro no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, §§ 4º e 19, do Texto Constitucional.
+    Sustenta-se, em suma, que “a parte autora, para concessão do abono previsto no artigo 40, § 19, da CF, pretende substituir os requisitos previstos no § 1º, III, a, do artigo 40 da CF” (fl. 98).
+    A Primeira Vice-Presidência da Turma Recursal do TJRS inadmitiu o recurso, porquanto o acórdão recorrido se filia à jurisprudência do Supremo.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quando do julgado do RE-RG 567.110, da relatoria da Ministra Cármen Lúcia, DJe 11.04.2011, com repercussão geral reconhecida, esta Corte reafirmou o entendimento no sentido de que a Lei Complementar nº 51/85 foi recepcionada pela Constituição. O acórdão foi assim ementado:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. RECEPÇÃO CONSTITUCIONAL DO ART. 1º, INC. I, DA LEI COMPLEMENTAR N. 51/1985. ADOÇÃO DE REQUISITOS E CRITÉRIOS DIFERENCIADOS PARA A CONCESSÃO DE APOSENTADORIA A SERVIDORES CUJAS ATIVIDADES NÃO SÃO EXERCIDAS EXCLUSIVAMENTE SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA. 1. Reiteração do posicionamento assentado no julgamento da Ação Direta de Inconstitucionalidade n. 3.817, Relatora a Ministra Cármen Lúcia, da recepção do inc. I do art. 1O da Lei Complementar n. 51/1985 pela Constituição. 2. O Tribunal a quo reconheceu, corretamente, o direito do Recorrido de se aposentar na forma especial prevista na Lei Complementar 51/1985, por terem sido cumpridos todos os requisitos exigidos pela lei. 3. Recurso extraordinário ao qual se nega provimento.”
+    Como se observa da leitura da ementa do acórdão recorrido, a decisão a quo não contrariou a jurisprudência desta Corte, quanto à aplicação aos servidores policiais das regras previstas na Lei Complementar 51/85.
+    No que tange à extensão dos efeitos da aplicação da Lei à situação concreta dos autos, também inexiste, nas argumentação acolhida pelo Tribunal de origem, contrariedade à jurisprudência do Supremo, que reconhece ser possível estender o abono de permanência aos servidores aposentados sob regime especial. Confiram-se:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Previdenciário. 3. Lei Complementar 51/85. Recepção pela Constituição Federal. 4. Abono de permanência. Servidores públicos beneficiados por aposentadoria especial. Possibilidade. 5. Agravo regimental a que se nega provimento”.
+    (ARE 905116 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 15/09/2015, ACÓRDÃO ELETRÔNICO DJe-193 DIVULG 25-09-2015 PUBLIC 28-09-2015)
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. POLICIAL CIVIL. ABONO DE PERMANÊNCIA AOS ABRANGIDOS PELA APOSENTADORIA ESPECIAL. POSSIBILIDADE. LEI COMPLEMENTAR Nº 51/1985. RECEPÇÃO PELA CONSTITUIÇÃO. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o art. 1º, I, da Lei Complementar nº 51/1985 foi recepcionado pela Constituição, especialmente em face do disposto no art. 40, § 4º, alterado pela Emenda Constitucional nº 20/1998 (RE 567.110-RG, Rel.ª Min.ª Cármen Lúcia). A Constituição Federal não restringe a concessão da vantagem apenas aos servidores que cumprirem os requisitos necessários para a aposentadoria voluntária comum, tampouco veda tal benefício aos que se aposentam com fundamento no art. 40, § 4º, da CF. Agravo regimental a que se nega provimento.”
+    (ARE 782834 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 29/04/2014, ACÓRDÃO ELETRÔNICO DJe-099 DIVULG 23-05-2014 PUBLIC 26-05-2014)
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, a, CPC e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 5 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
