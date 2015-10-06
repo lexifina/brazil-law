@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Município de São Paulo. Aparelhado o recurso na afronta aos arts. 37, caput, 39, § 1º, e 169 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO ESPECIAL DE REGIME DE PLANTÃO. GRATIFICAÇÃO ESPECIAL POR PRESTAÇÃO DE SERVIÇO ASSISTENCIAL EM SAÚDE. INCLUSÃO NA BASE DE CÁLCULO DO DÉCIMO TERCEIRO SALÁRIO E NO TERÇO DE FÉRIAS. IMPOSSIBILIDADE. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. ALEGAÇÃO DE INAPLICABILIDADE DA LEI 11.960/2009. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Leis municipais 11.716/1995 e 13.493/2003), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes. II - A questão que não foi debatida em momento processual anterior constitui inovação recursal, insuscetível de ser levantada nas razões do agravo regimental. Precedentes. III - Agravo regimental improvido.” (ARE 758962 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 01/10/2013, ACÓRDÃO ELETRÔNICO DJe-205 DIVULG 15-10-2013 PUBLIC 16-10-2013)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 557 DO CÓDIGO DE PROCESSO CIVIL. 1. A EXISTÊNCIA DE DECISÕES DAS TURMAS SOBRE A MATÉRIA EM DEBATE AUTORIZA A DECISÃO MONOCRÁTICA DO RELATOR. PRECEDENTES. 2. GRATIFICAÇÃO ESPECIAL PELA PRESTAÇÃO DE SERVIÇOS ASSISTENCIAIS EM SAÚDE. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 825350 AgR, Relator(a): Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 26/04/2011, DJe-088 DIVULG 11-05-2011 PUBLIC 12-05-2011)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 06 de outubro de 2015.
+Ministra Rosa Weber
+Relatora
