@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENSÃO POR MORTE. FILHA MAIOR DE 21 ANOS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base nas als. a, c e d do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal de Justiça de Mato Grosso do Sul decidiu:
+    “Mandado de segurança – Corte abrupto de pensionamento de filha decorrente de morte de pai servidor público – Supressão baseada apenas no atingimento da idade de 21 anos – Particularidades fáticas atestando direito adquirido à benesse até 24 anos – aprovação em vestibular e necessidade dos valores para a manutenção digna da beneficiária – Ordem concedida.
+    O sistema de benefício é regido pela lei vigente à época do óbito do segurado, de forma que, falecido o pai da impetrante no ano de 2.000, a ela se aplica o atualmente revogado art. 6°, II, da Lei n. 2.207/00, prevendo a extensão da pensão até 24 anos de idade, para filhos de dependentes de frequentadores de curso superior (...)”.
+    3. Na decisão agravada, adotaram-se como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento da matéria constitucional, de incidência da Súmula n. 280 do Supremo Tribunal Federal e de inexistência de julgamento de validade de lei local em face da Constituição da República.
+    4. O Agravante argumenta que, “ao contrário do sustentado pelo Vice-Presidente, diante da oposição de embargos declaratórios e da negativa do Tribunal em esclarecer o julgado e de tratar expressamente dos dispositivos constitucionais aventados, a única conclusão possível de se chegar é a de que resta suprido o requisito do prequestionamento da tese constitucional”.
+    Assevera que “a Súmula n. 280 do STF não é compatível com a alegação com [base] no permissivo da al. c e d do incido III do art. 102 da CF”.
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 24, inc. XII, § 1° e 2°, 25, § 1°, 40, caput e § 12, e 195, § 5°, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos postos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    No julgamento do Recurso Extraordinário n. 610.220, Relatora a Ministra Ellen Gracie, este Supremo Tribunal concluiu inexistir repercussão geral na questão discutida neste processo:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO À PENSÃO PARA FILHA SOLTEIRA MAIOR DE 21 ANOS. LEI ESTADUAL 7.672/82 DO RIO GRANDE DO SUL. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO ESTADUAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL” (DJe 4.6.2010).
+    Confiram-se também os seguintes julgados:
+     “PREVIDENCIÁRIO. PENSÃO POR MORTE. PAGAMENTO ATÉ OS 24 ANOS DE IDADE. LEI ESTADUAL 2.207/2000 E LEI FEDERAL 9.250/95. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA 279 DO STF. 1. O acórdão recorrido dirimiu a controvérsia com base na legislação infraconstitucional aplicável à espécie. A ofensa à Constituição, se ocorresse, seria indireta. 2. O julgamento do recurso extraordinário demandaria o reexame do conjunto fático-probatório dos autos. Incide, na espécie, o óbice da Súmula STF 279. 3. Agravo regimental a que se nega provimento” (RE n. 569.673AgR, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 3.12.2010).
+    “Embargos declaratórios em recurso extraordinário. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Direito Administrativo e Previdenciário. Pensão de servidor público. 4. Dependente. Maioridade e estudante de ensino superior. Benefício previdenciário assegurado com base em legislação local. Súmula 280. 5. Erro material. Ocorrência no relatório e na parte dispositiva. 6. Agravo regimental a que se dá parcial provimento para fins de correção de erro material” (RE n. 647.727-ED, Relatora a Ministro Gilmar Mendes, Segunda Turma, DJe 18.11.2014).
+    7. O recurso extraordinário é incabível por ausência da circunstância legitimadora da interposição com base na al. c do inc. III do art. 102 da Constituição da República.
+    O Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição da República. Incide na espécie a Súmula n. 284 do Supremo Tribunal Federal. Confira-se, por exemplo, o julgado a seguir:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRÊMIO DE PRODUTIVIDADE. 1. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL (SÚMULA 280). OFENSA CONSTITUCIONAL INDIRETA. 2. O TRIBUNAL A QUO NÃO JULGOU VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADO EM FACE DA CONSTITUIÇÃO. INADMISSIBILIDADE DO RECURSO PELA ALÍNEA C DO ART. 102, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA (SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 763.681-AgR, de minha relatoria, Primeira Turma, DJe 13.11.2009).
+    8. Incabível o extraordinário pela al. d do inc. III do art. 102 da Constituição da República. A análise do recurso extraordinário interposto com base nessa norma dependeria de demonstração de conflito de competência legislativa entre entes da Federação, incabível quando há pretensão de revisão da interpretação conferida à norma infraconstitucional.
+    Nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de outubro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
