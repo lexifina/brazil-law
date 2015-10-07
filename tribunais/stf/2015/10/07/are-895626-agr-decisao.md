@@ -1,0 +1,12 @@
+Trata-se de agravo regimental interposto de decisão que negou seguimento a agravo (art. 544 do CPC) diante de óbice intransponível indicado em certidão expedida pela Secretaria Judiciária desta Corte (recurso extraordinário interposto de decisão monocrática).
+    Nas razões do agravo, a União aponta erro material na decisão agravada, porque seu recurso extraordinário foi interposto contra acórdão prolatado pelo TRF/4ª Região.
+    Compulsando os autos, verifico assistir razão à parte agravante.
+    Na verdade, o óbice apontado na certidão expedida pela Secretaria Judiciária desta Corte referia-se ao recurso extraordinário interposto por Irlei Frederico Betim Heneberg em face de decisão proferida pelo Superior Tribunal de Justiça, e não ao interposto pela União contra acórdão do TRF/4ª Região. Entretanto, como na autuação do processo, por erro material, a União foi apontada como recorrente, a decisão foi-lhe aplicada indevidamente.
+    Ademais, ao fazer uma análise mais aprofundada dos autos, verifico que além do óbice processual ao conhecimento do recurso extraordinário de Irlei Heneberg, há também um óbice ao conhecimento de seu agravo (art. 544 do CPC), pois ele foi interposto intempestivamente, tendo em vista a não interrupção do prazo recursal, em face da oposição de embargos de declaração manifestamente incabíveis à decisão que inadmitiu seu recurso extraordinário. Nesse sentido: AI 733.719-AgR/AM, Rel. Min. Ellen Gracie; AI 779.295-AgR-ED-ED-EDv/RS, Rel. Min. Rosa Weber; AI 839.995/RJ, Rel. Min. Dias Toffoli; ARE 663.031-AgR/RJ, de minha relatoria; ARE 686.112-ED/RS, Rel. Min. Cármen Lúcia; ARE 688.273/RJ, Rel. min. Luiz Fux; e ARE 704.027/RS, Rel. Min. Celso de Mello.
+    O recurso extraordinário da União, por sua vez, encontra-se sobrestado na origem, por aplicação da sistemática da repercussão geral (e-DOC 2, e-STJ fl. 241).
+    Isso posto, com base no art. 317, § 2º, do Regimento Interno do Supremo Tribunal Federal, reconsidero a decisão agravada (e-DOC 4), tornando-a sem efeito, e nego seguimento ao agravo de Irlei Frederico Betim Heneberg.
+    Após o trânsito em julgado da presente decisão, determino a devolução dos autos ao Tribunal Regional Federal da 4ª Região, por haver recurso extraordinário da União pendente e submetido à sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 7 de outubro de 2015.
+Ministro RICARDO LEWANDOWSKI
+Presidente
