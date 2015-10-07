@@ -1,0 +1,39 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS. CUMPRIMENTO DE REGRAS DE TRANSIÇÃO DA EMENDA CONSTITUCIONAL N. 47/2005. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “AGRAVO LEGAL. REEXAME NECESSÁRIO. AÇÃO PREVIDENCIÁRIA. APOSENTADORIA INTEGRAL. PARIDADE. ARTIGO 3º, PARÁGRAFO ÚNICO, DA EC Nº 47/2005, CUMULADO COM O ARTIGO 7º DA EC Nº 41/2003.
+    A preliminar de nulidade não merece acolhimento, diante da total ausência de prejuízo à Fazenda, incidindo na hipótese o artigo 250 e seu §1º, do CPC.
+    Conforme documento anexado aos autos, a autora se aposentou com trinta e um anos e quatro meses de serviço, tendo a própria Administração destacado que tem ela direito à aposentadoria com proventos integrais, eis que se aposentou em 12/11/2007, em conformidade com a regra do artigo 6º da EC nº 41/2003, expressamente ressalvada pela EC nº 47/2005.
+    A Lei Municipal nº 388/2011 apenas alterou/padronizou as nomenclaturas do cargo em que se deu a aposentadoria, que passou de ajudante de serviços gerais para auxiliar de serviços gerais, devido ao fato de não haver diferença prática entre as funções.
+    Os honorários advocatícios arbitrados em 5% sobre o valor da condenação mostram-se razoáveis e compatíveis com a complexidade da lide.
+    Nega-se provimento” (doc. 4).
+    2. O Agravante alega contrariados os arts. 2º e 40 da Constituição da República, asseverando que
+    “a autora, no momento de sua aposentadoria, OPTOU pelo novo regime trazido pela EC 41/03, enquadrando-se, portanto, nos critérios gerais de aposentação, sendo certo, porém, que de acordo com estes critérios, não faz jus ao recebimento de proventos integrais.
+    (…)
+    Logo de início, é de se verificar que a aposentadoria da autora se deu em 2007. À época, portanto, já estava vigente a Emenda Constitucional nº 41/03.
+    (…)
+    É dizer: A partir da EC 41/03, proventos integrais não mais significa, como anteriormente, que os proventos corresponderão ao que o servidor percebia na ativa.
+    (…)
+    Conforme já exposto, a autora se aposentou pelas regras trazidas pela EC 41/03. Embora o ato de sua aposentadoria tenha previsto proventos integrais, uma vez que se enquadrava nas regras previstas no art. 40, § 1º, III da CRFB, de se ver que invariavelmente os proventos de aposentadoria da autora não corresponderiam à integralidade do que ela recebia quando na ativa” (doc. 4).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de incidência da Súmula n. 279 deste Supremo Tribunal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal de origem decidiu:
+    “No mérito, a decisão proferida no reexame necessário não merece reforma. Conforme documento anexado aos autos, peça eletrônica 117, fls. 123, a autora se aposentou com trinta e um anos e quatro meses de serviço, tendo a própria Administração, no aludido documento, destacado que a autora tem direito à aposentadoria com proventos integrais, eis que se aposentou em 12/11/2007, em conformidade com a regra do artigo 6º da EC nº 41/2003, expressamente ressalvada pela EC nº 47/2005.
+    (…)
+    Como visto, a autora faz jus a proventos integrais e à paridade, com base no artigo 3º, parágrafo único, da EC nº 47/2005, cumulada com o artigo 7º da EC nº 41/2003. Ademais, a Lei Municipal nº 388/2011 apenas alterou/padronizou as nomenclaturas do cargo em que se deu a aposentadoria, que passou de ajudante de serviços gerais para auxiliar de serviços gerais, devido ao fato de não haver diferença prática entre as funções” (doc. 4).
+    Este Supremo Tribunal assentou que o servidor ingresso no serviço público antes da Emenda Constitucional n. 41/2003, mas aposentado após aquela emenda, tem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição dos arts. 2º e 3º da Emenda Constitucional n. 47/2005:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR ATIVIDADE DE MAGISTÉRIO, INSTITUÍDA PELA LEI COMPLEMENTAR 977/2005, DO ESTADO DE SÃO PAULO. DIREITO INTERTEMPORAL. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS QUE INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/2003 E SE APOSENTARAM APÓS A REFERIDA EMENDA. POSSIBILIDADE. ARTS. 6º E 7º DA EC 41/2003, E ARTS. 2º E 3º DA EC 47/2005. REGRAS DE TRANSIÇÃO. REPERCUSSÃO GERAL RECONHECIDA. RECURSO PARCIALMENTE PROVIDO. I - Estende-se aos servidores inativos a gratificação extensiva, em caráter genérico, a todos os servidores em atividade, independentemente da natureza da função exercida ou do local onde o serviço é prestado (art. 40, § 8º, da Constituição). II - Os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005. III - Recurso extraordinário parcialmente provido” (RE n. 590.260, Relator o Ministro Ricardo Lewandowski, Plenário, DJe 23.10.2009).
+    O acórdão recorrido harmoniza-se com essa orientação jurisprudencial.
+    7. A apreciação do pleito recursal, quanto à observância dos critérios previstos nas Emendas Constitucionais ns. 41/2003 e 47/2005 para a paridade remuneratória entre ativos e inativos, demandaria o reexame do conjunto fático-probatório constante do processo, procedimento inviável em recurso extraordinário. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E ADMINISTRATIVO. CARGO COM DENOMINAÇÃO ALTERADA POR NORMA POSTERIOR À APOSENTADORIA DE SERVIDOR. PARIDADE DE REMUNERAÇÃO ENTRE SERVIDORES ATIVOS E INATIVOS. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE E NECESSIDADE DE REEXAME DE PROVAS: SÚMULAS N. 279 E 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 668.568-AgR, de minha relatoria, Segunda Turma, DJe 3.4.2013).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PENSIONISTA DE SERVIDOR PÚBLICO BENEFICIADO PELA REGRA DE PARIDADE. NATUREZA JURÍDICA DE GRATIFICAÇÃO PAGA AOS ATIVOS. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULAS 279 E 280/STF. PRECEDENTES. Hipótese em que, para dissentir da conclusão do Tribunal de origem quanto à natureza jurídica das vantagens, se genéricas ou pro labore faciendo, seria necessário analisar a legislação infraconstitucional pertinente e rever os fatos e provas constates dos autos. Incidência das Súmulas 279 e 280/STF. Agravo regimental a que se nega provimento” (RE n. 467.529-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 2.2.2015).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de outubro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
