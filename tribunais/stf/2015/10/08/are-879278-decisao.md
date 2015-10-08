@@ -1,0 +1,39 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Turma Recursal dos Juizados Especiais Federais do Estado do Espírito Santo, assim ementado:
+    “ADMINISTRATIVO. JUIZ DO TRABALHO. FÉRIAS. PERÍODOS SUSPENSOS POR NECESSIDADE DE SERVIÇO. SALDO REMANESCENTE. CONVERSÃO EM PECÚNIA. MAGISTRADO EM ATIVIDADE. POSSIBILIDADE. ARTS. 66 E 67, § 1º, DA LEI COMPLEMENTAR Nº 35/1979. RESOLUÇÃO Nº 133/2011 DO CNJ. FLEXIBILIZAÇÃO NO CASO CONCRETO. COMPETÊNCIA DOS JUIZADOS ESPECIAIS FEDERAIS (ART. 3º, § 1º, III, DA LEI nº 10.259/2001). RECURSO IMPROVIDO. SENTENÇA MANTIDA” (fl. 270).
+    Alega a recorrente violação dos artigos 7º, incisos XVII, 37 e 169, § 1º, I e II, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos invocados como violados carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+    Por outro lado, colhe-se do voto condutor do acórdão recorrido o seguinte:
+    “(...)
+    Preceituam os arts. 66 e 67 da Lei Complementar n.º 35/1979, Lei Orgânica da Magistratura Nacional – LOMAN, que os magistrados terão direito a férias anuais de 60 (sessenta) dias, os quais poderão ser fracionados em períodos nunca inferiores 30 (trinta) dias consecutivos, sendo acumuláveis por imperiosa necessidade do serviço pelo máximo de 02 (dois) meses, in verbis:
+    (…)
+    (…) o Conselho Nacional de Justiça – CNJ tratou de disciplinar a matéria em mais de 3 oportunidades.
+    Em um primeiro momento editou a Resolução n.º 23, de 10 de outubro de 2006, que em seus arts. 1º e 3º assim dispunha:
+    (…)
+    Pouco mais de um mês depois, em 14 de novembro de 2006, referida resolução foi substituída pela Resolução n.º 25 do CNJ, no qual foi preservado o direito à conversão em pecúnia de férias vencidas e não gozadas pelos magistrados, não o restringindo, de seu turno, aos casos de aposentadoria ou de extinção do vínculo por qualquer forma. Confira-se:
+    (…)
+    Passo seguinte, em 18 de dezembro de 2006, foi editada a Resolução n.º 27 do CNJ, revogando as disposições contidas na Resolução n.º 25/2006.
+    (…)
+    Dessume-se, pois, que restou assentado pelo CNJ naquela oportunidade ser devida a indenização pecuniária das férias de magistrado em caráter excepcionalíssimo, quando não puderem ser fruídas até o momento em que, por qualquer razão, deixe de pertencer ao quadro de magistrados ativos do tribunal.
+    (…)
+    Não se pode descurar, entretanto, que em 21 de junho de 2011 foi editada pelo CNJ a Resolução n.º 133, suplantando o entendimento por ele outrora firmado, na medida em que o art. 1º da nova resolução tem a seguinte redação:
+    (…)
+    Portanto, o regramento atualmente em vigor reconhece o direito à indenização do magistrado que teve seu período de férias suspenso por imperiosa necessidade de serviço, independentemente de vir a permanecer ou não em atividade, desde que o período pendente de fruição não seja inferior a 60 (sessenta) dias. Essa opção busca priorizar o descanso físico e psicológico do magistrado, oportunizando-lhe o afastamento necessário de seus afazeres laborais, a fim de renovar-se para enfrentar situações que diariamente demandem peculiar desgaste mental e físico no ofício judicante.
+    No caso em apreço, o magistrado postulante sofreu a suspensão de suas férias relativas aos exercícios de 2003/2004 – 29 dias, 2005/2006 – 21 dias e 2006/2007 – 03 dias, perfazendo um saldo remanescente de 53 dias não gozados por imperiosa necessidade de serviço (fl. 05).
+    (…)
+    Por essas razões, merece ser mantida a bem lançada sentença recorrida, visto que respaldada na Resolução n. 133 do CNJ” (fls. 271/275).
+    Com efeito, vê-se que o acolhimento da pretensão recursal não prescinde da análise da legislação infraconstitucional invocada e das provas dos autos, o que não de mostra possível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Suprema Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AUXÍLIO MORADIA PARA MAGISTRADO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE REPERCUSSÃO GERAL. CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 849.521/SE-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 17/3/15).
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais” (RE nº 697.244/RS-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 9/10/14).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AUXÍLIO PRÉ-ESCOLAR. CUSTEIO PELA MAGISTRATURA. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 819.043/PE-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 28/8/14).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ALEGADA OMISSÃO DO ACÓRDÃO. MANIFESTAÇÃO SOBRE A INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO À CONVERSÃO DE FÉRIAS EM PECÚNIA. ARTIGO 67, § 1º, DA LOMAN. INOCORRÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Embora o recorrente alegue a omissão do acórdão recorrido ao não apreciar o argumento de inexistência de direito líquido e certo à indenização ante a impossibilidade, pelo magistrado, de acumulação e mais e um período de férias por vedação do artigo 67, § 1º, da Lei Orgânica da Magistratura Nacional – LOMAN, o fundamento foi afastado desde a Corte de origem. 2. Ademais, se o recorrente entende pela desobediência a norma infraconstitucional, deveria ter insistido no recurso especial perante o Superior Tribunal de Justiça, inclusive com a formalização de extraordinário. Não tendo esgotado a instância especial, não pode agora reivindicar que a Suprema Corte aprecie questão à margem de sua competência constitucional. 3. A pretensão deduzida nos embargos prescinde da análise do conjunto fático-probatório assentado nas instâncias ordinárias e a transgressão a artigo da LOMAN, norma infraconstitucional, razão pela qual incidem, no caso, os óbices das Súmulas 279 e 283/STF, que dispõem verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.” 4. Embargos de declaração REJEITADOS” (RE nº 636.661/DF-AgR-ED, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 19/11/12).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 8 de outubro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
