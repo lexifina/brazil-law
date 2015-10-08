@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo contra decisão que (a) sobrestou o recurso extraordinário quanto à matéria cuja repercussão geral foi reconhecida no RE 631.389-RG; e (b) inadmitiu o apelo no que toca às demais questões suscitadas
+    Em 13 de fevereiro de 2014, determinei a devolução dos autos ao Juízo de origem, tendo em vista o reconhecimento da repercussão geral das matérias abordadas no exame do RE 662.406-RG (de minha relatoria, Tema 664) e do RE 631.389-RG (Rel. Min. MARCO AURÉLIO, Tema 351).
+    Baixados os autos à origem, o Juiz Federal Presidente da 2ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária de Pernambuco sustentou que (a) a matéria levada ao Supremo Tribunal Federal dizia respeito apenas aos efeitos da proporcionalidade da aposentadoria no pagamento de gratificação de desempenho; e (b) no que toca ao tema cuja repercussão geral foi reconhecida no RE 631.389-RG, o recurso extraordinário já havia sido sobrestado pelo Juízo. Assim, determinou-se o retorno dos autos ao STF.
+    2. Com razão o Juízo a quo. De fato, embora as matérias cuja repercussão geral foi reconhecida no RE 662.406-RG e no RE 631.389-RG sejam abordadas nas razões do extraordinário, esse apelo, quanto a essas questões, foi sobrestado na origem, que inadmitiu o recurso tão somente quanto à questão do pagamento proporcional da gratificação. Assim, torno sem efeito o despacho por mim proferido em 13 de fevereiro de 2014.
+    3. Como visto, o presente agravo em recurso extraordinário impugna apenas o capítulo da decisão que inadmitiu o recurso extraordinário. Quanto a essa questão, o apelo diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do ARE 808.997-RG (Rel. Min. LUIZ FUX), Tema 751, por se tratar de questão infraconstitucional. Considerando que a decisão de inexistência de repercussão geral tem eficácia em relação a todos os recursos sobre matéria idêntica (art. 543-A, § 5º, do CPC c/c art. 327, § 1º, do RISTF), indefiro liminarmente o agravo.
+    Publique-se. Intime-se.
+    Brasília, 8 de outubro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
