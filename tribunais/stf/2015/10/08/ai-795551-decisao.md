@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão do Tribunal de origem que negou seguimento ao recurso extraordinário, em que se discute a manutenção do pagamento da Gratificação de Desempenho de Atividade do Seguro Social (GDASS) aos servidores inativos, independente de futura avaliação de desempenho daqueles em atividade, sob pena de violação da garantia constitucional de irredutibilidade de vencimentos.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV e LIV; e 37, XV, da Constituição.
+    O recurso extraordinário não deve ser admitido, tendo em vista que o Plenário do Supremo Tribunal Federal, no julgamento do RE 662.406-RG, Rel. Min. Teori Zavascki, após reconhecer a repercussão geral da matéria, assentou a tese de que o termo final da extensão aos inativos das gratificações de desempenho, tal como a GDASS e a GDATA, nos mesmos percentuais em que concedida aos servidores ativos, é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo de avaliação. Assim, não há que se falar em violação ao princípio da irredutibilidade de vencimentos, uma vez que a partir da homologação, a gratificação perde sua natureza genérica e adquire o caráter pro labore faciendo. Nessa linha, veja-se trecho da ementa do ARE 881.402-AgR, julgado sob a relatoria do Ministro Teori Zavascki:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ART. 5º, XXXV E LV, DA CF/88. OFENSA CONSTITUCIONAL REFLEXA. SERVIDOR PÚBLICO. PENSIONISTAS. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE MÉDICO-PERICIAL (GDAMP). PARIDADE ENTRE ATIVOS E INATIVOS. TERMO FINAL. HOMOLOGAÇÃO DO RESULTADO DAS AVALIAÇÕES DE DESEMPENHO. REDUÇÃO DO PERCENTUAL PAGO. INFRINGÊNCIA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. INOCORRÊNCIA. PRECEDENTES.”
+    Vejam-se outros precedentes: RE 664.292-AgR, Rel. Min. Luiz Fux; e ARE 907.742, Rel. Min. Celso de Mello.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 08 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
