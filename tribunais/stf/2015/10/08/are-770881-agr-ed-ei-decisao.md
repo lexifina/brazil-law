@@ -1,0 +1,16 @@
+Decisão: 1. Trata-se de embargos infringentes opostos contra acórdão da Segunda Turma assim ementado:
+    PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 93, IX, DA CF. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DO AI 791.292 QO-RG (REL. MIN. GILMAR MENDES, DJE DE 13/8/2010). ALEGAÇÃO DE VIOLAÇÃO AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO, À COISA JULGADA OU AOS PRINCÍPIOS DA LEGALIDADE, DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. OFENSA REFLEXA. ARE 748.371-RG (REL. MIN. GILMAR MENDES, TEMA 660). REEXAME DE FATOS E PROVAS (SÚMULA 279/STF). IMPOSSIBILIDADE.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    Os embargos de declaração opostos foram rejeitados.
+    Nos embargos infringentes, a parte embargante sustenta a ocorrência da prescrição da pretensão punitiva.
+    2. No caso dos autos, os embargos infringentes não encontram amparo em nenhuma das hipóteses previstas no art. 333 do Regimento Interno do Supremo Tribunal Federal, pois impugnam decisão proferida em agravo de instrumento contra julgado que inadmitiu recurso extraordinário.
+    Assim, diante da ausência de previsão de cabimento, não podem ser admitidos os infringentes. Nesse sentido:
+    PENAL. EMBARGOS INFRINGENTES NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO QUESTIONADA QUE NÃO SE INSERE NAS HIPÓTESES DO ART. 333 DO RISTF. REITERADA JURISPRUDÊNCIA DESTA CORTE. EMBARGOS NÃO CONHECIDOS. I Entre as hipóteses de cabimento deste recurso, elencadas no art. 333 do Regimento Interno do STF, não se inserem as decisões não unânimes proferidas pelo Plenário ou pela Turma, que negam provimento a agravos regimentais interpostos em agravos de instrumento criminais. II Embargos infringentes não conhecidos. (AI 828.792-AgR-EI/SP, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 15/8/2011).
+    1. Incabíveis embargos infringentes de acórdão não unânime em embargos de declaração em agravo regimental em agravo de instrumento (art. 333, do RISTF), que tão-somente dá provimento ao recurso extraordinário para julgar procedente a ação rescisória. Precedente. 2. Agravo regimental improvido (AI 382.298-AgR-ED-AgR/RS, Rel Min. ELLEN GRACIE, Segunda Turma, DJe de 3/4/2009).
+    3. Considerando que o presente recurso é manifestamente incabível e que em momento algum foi alegado o transcurso do prazo prescricional nestes autos, não cabe, neste momento processual, analisar eventual causa de extinção da punibilidade. Desse modo, a alegação de prescrição da pretensão punitiva deverá ser analisada pela instância de origem (art. 66, II, da Lei 7.210/84).
+    4. Diante do exposto, não admito os embargos infringentes. Determino à Secretaria que proceda à baixa imediata deste autos, independentemente da publicação desta decisão, nos termos do que autorizado pela jurisprudência desta Corte (RE 179.502–ED-ED-ED, Rel. Min. MOREIRA ALVES, Plenário, unânime, DJ de 8/9/2000; AI 818.606 AgR-ED-ED/SP, Rel. Min. RICARDO LEWANDOWSKI, DJe de 14/5/2013; AI 852.123 AgR-ED-ED, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 15/5/2013 e AI 458.072 ED-AgR-EDv-ED, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe de 27/2/2013).
+    Publique-se. Intime-se.
+    Brasília, 8 de outubro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
