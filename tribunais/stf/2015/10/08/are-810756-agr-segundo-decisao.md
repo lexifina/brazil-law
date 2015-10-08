@@ -1,0 +1,12 @@
+DECISÃO: A decisão questionada, com fundamento em orientação jurisprudencial firmada por esta Suprema Corte, conheceu do agravo (previsto e disciplinado na Lei nº 12.322/2010), para negar seguimento ao recurso extraordinário deduzido pelo Estado do Rio Grande do Sul.
+    No presente recurso de agravo, a União Federal requer “(...) seja reconsiderada a decisão recorrida, determinando-se a devolução dos autos ao Tribunal de origem (…), observando-se o disposto no art. 543-B do CPC, e, ao final, seja provido o recurso extraordinário interposto”.
+    O recurso em questão é insuscetível de conhecimento.
+    Com efeito, a decisão ora questionada não examinou a pretensão de direito material deduzida pela parte União Federal, eis que o Tribunal de origem determinou o sobrestamento do apelo extremo por ela deduzido, para que fosse observado o disposto no art. 543-B e respectivos parágrafos do CPC (Lei nº 11.418/2006).
+    Vê-se, desse modo, que, embora a União não houvesse sucumbido, mesmo assim recorreu, indevidamente, da decisão por mim proferida, transgredindo, com tal comportamento, diretriz processual básica, segundo a qual somente se legitima o interesse de recorrer, quando efetivamente concretizada hipótese configuradora de sucumbência.
+    Como se sabe, a sucumbência qualifica-se como pressuposto recursal genérico, comum a qualquer recurso, caracterizada pela ocorrência, em maior ou em menor grau, de lesividade à situação jurídica da parte a quem foi desfavorável a resolução judicial do litígio.
+    Isso significa, portanto, que é do estado de sucumbência que resulta o interesse jurídico legitimador do exercício do direito de recorrer, de tal modo que, inexistente a situação de sucumbência, nada justifica – precisamente em face da ausência desse pressuposto geral de recorribilidade – o próprio cabimento do recurso eventualmente interposto (VICENTE GRECO FILHO, “Direito Processual Civil Brasileiro”, vol. 2/260 e 266-267, item n. 61, 4ª ed., 1989, Saraiva; JOSÉ FREDERICO MARQUES, “Manual de Direito Processual Civil”, vol. III/171-172, item n. 599, 2ª ed., 1998, Millennium; HUMBERTO THEODORO JÚNIOR, “Curso de Direito Processual Civil”, vol. I/554, item n. 528, 25ª ed., 1998, Forense; NELSON NERY JÚNIOR/ROSA MARIA ANDRADE NERY, “Código de Processo Civil Comentado”, p. 963, item n. 17, 4ª ed., 1999, RT, v.g.).
+    Sendo assim, pelas razões expostas, não conheço do recurso de agravo deduzido pela União.
+    Publique-se.
+    Brasília, 08 de outubro de 2015.
+Ministro CELSO DE MELLO
+Relator
