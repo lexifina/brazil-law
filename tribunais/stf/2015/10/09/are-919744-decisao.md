@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 7º, XXI, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, segundo a qual o direito ao aviso prévio proporcional ao tempo de serviço é garantido apenas às rescisões contratuais ocorridas após o advento da Lei 12.506/2011. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Aviso prévio proporcional. Período anterior à Lei 12.506/2011. Irretroatividade da lei. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 837.848-AgR/DF, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 09.9.2015)
+    “DIREITO DO TRABALHO. AVISO PRÉVIO PROPORCIONAL. RESCISÃO CONTRATUAL OCORRIDA ANTES DA LEI 12.506/2011. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 22.8.2014. 1. O entendimento adotado pela Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Entender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.” (ARE 902.271-AgR/DF, de minha lavra, 1ª Turma, DJe 01.9.2015)
+    Ademais, ressalto que as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. A aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada ofensa à Constituição da República. Nesse sentido, cito o ARE 823.841-AgR-ED/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 28.5.2015; e o ARE 841.843-AgR/DF, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 20.11.2014.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 09 de outubro de 2015.
+Ministra Rosa Weber
+Relatora
