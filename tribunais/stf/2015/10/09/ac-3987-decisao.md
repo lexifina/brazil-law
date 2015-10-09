@@ -1,0 +1,17 @@
+Vistos, etc.
+    Trata-se de ação cautelar ajuizada por Helton Antonio da Silva Clemente contra decisão do Superior Tribunal de Justiça exarada nos autos do agravo regimental no AREsp 732.335/MG.
+    Narra a inicial que a presente ação cautelar foi proposta “com a finalidade de mudar a decisão que inadmitiu o seguimento ao devido e constitucional recurso especial” e de “dar prosseguimento ao julgamento do REsp pelo STJ, para este no final, legitimando ou não, confirmando ou não, a decisão ora atacada … do Tribunal de Justiça de Minas Gerais”. Requer, em síntese, “a concessão de efeito suspensivo ao último agravo de instrumento interposto nesta data (doc. 19) e consequentemente ao recursos especial, que certamente terá o mérito apreciado”.
+    É o relatório.
+    Decido.
+    Conforme definido pelo Plenário do Supremo Tribunal Federal no julgamento da AC 33-MC, redator para o acórdão Ministro Joaquim Barbosa, DJe 10.02.2011, em regra, a concessão de tutela de urgência ao recurso extraordinário pressupõe a verossimilhança da alegação e o risco do transcurso do tempo normalmente necessário ao processamento do recurso e ao julgamento dos pedidos.
+    Além disso, tem-se igualmente por necessário que a jurisdição cautelar do Supremo Tribunal Federal esteja instaurada, o que se dá, nos termos da jurisprudência desta Corte, com o juízo positivo de admissibilidade do recurso extraordinário, consubstanciado em decisão proferida pelo Presidente do Tribunal de origem ou resultante do provimento do recurso de agravo (AC 2.440 MC-QO, 2ª Turma, rel. Min. Celso de Mello, DJe 23.10.2009), e desde que ausentes óbices ao conhecimento do recurso (Pet-AgR 1.859, 2ª Turma, rel. Min. Celso de Mello, DJ 28.4.2000).
+    É necessário, portanto, analisar cada um desses quatro elementos básicos, quais sejam: (i) a abertura da jurisdição cautelar do Supremo Tribunal Federal ; (ii) a viabilidade processual do recurso, conjugada com (iii) a plausibilidade jurídica das alegações; e (iv) o periculum in mora, sempre, reitere-se, nos limites do juízo perfunctório tradicionalmente associado às decisões de natureza cautelar.
+    Verifico, desde logo, que não inaugurada a jurisdição cautelar desta Suprema Corte, porquanto sequer manejado recurso extraordinário perante o Tribunal de origem.
+    Quanto à matéria de fundo, compete constitucionalmente ao Superior Tribunal de Justiça o julgamento do recurso especial, cabendo-lhe, enquanto órgão ad quem, o segundo, e definitivo, juízo de admissibilidade positivo ou negativo deste recurso de fundamentação vinculada.
+    Nessa linha, o Supremo Tribunal Federal tem rejeitado submeter, a seu escrutínio, a decisão do Superior Tribunal de Justiça relativa à inadmissibilidade do recurso especial (vg.: “Não cabe recurso extraordinário para rever os requisitos de admissibilidade de recurso especial, cujo seguimento foi negado pelo Superior Tribunal de Justiça, por se tratar de matéria infraconstitucional.” - AI 724.135-AgR/MS, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 03.12.2010).
+    Por derradeiro, registro que o STJ, “enquanto pendente de apreciação o recurso especial, é competente para o exame de medidas cautelares que visem à suspensão dos efeitos do acórdão recorrido” (AC 2.206-AgR/RJ, Rel. Min. Eros Grau, 2ª Turma, DJe 25.9.2009).
+    Ante o exposto, nego seguimento à ação cautelar (art. 21, § 1º, do RISTF).
+    Publique-se. Arquivem-se.
+    Brasília, 09 de outubro de 2015.
+Ministra Rosa Weber
+Relatora
