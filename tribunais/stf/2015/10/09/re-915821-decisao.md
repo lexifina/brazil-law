@@ -1,0 +1,29 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 03, p.1008):
+    “PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 50, I, DA LEI N. 6.766/79. PARCELAMENTO IRREGULAR DE SOLO URBANO. PRESCRIÇÃO. IMPRECISÃO ACERCA DA DATA DO FATO DELITUOSO. IMPOSSIBILIDADE DE AFERIÇÃO DO LAPSO PRESCRICIONAL. DOSIMETRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+    1. A imprecisão dos autos acerca da data efetiva de cometimento, pelos agravantes, do fato delituoso previsto no art. 50, I, da Lei n. 6.766/79, impossibilita a aferição do prazo decorrido entre a data da conduta e o recebimento da exordial e, por conseguinte da ocorrência de lapso prescricional entre tais marcos.
+    2. A ausência de debate pelo acórdão recorrido da questão federal suscitada - reclassificação do delito de furto qualificado para estelionato - a respeito da qual não foram opostos embargos de declaração, obsta o conhecimento do recurso especial, por incidência das Súmulas 282 e 356/STF, aplicáveis por analogia.
+    3. Agravo regimental improvido”
+    Os embargos de declaração opostos foram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XLII e XLIV, da Constituição.
+    Busca-se, em suma, a extinção da punibilidade quanto ao delito do art. 50, I, da Lei 6.766/1979 em decorrência do transcurso do prazo prescricional entre a data do fato delituoso e o recebimento da denúncia.
+    A Vice-Presidência do STJ admitiu o recurso por estarem presentes os pressupostos de admissibilidade.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observo que a matéria está preclusa, tendo em vista que a discussão acerca da prescrição do delito do art. 50, I, da Lei 6.766/1979 iniciou-se na decisão de segundo grau e dessa decisão não foi interposto recurso extraordinário.
+    Os recorrentes interpuseram somente recurso especial, alegando-se, dentre outras matérias, violação ao art. 110, § 2º, do CP (redação anterior à Lei. 12.234/2010), no tocante ao delito em análise, em razão da prescrição de oito anos ocorrida entre a data do delito e o recebimento da denúncia.
+    Como é cediço, o sistema recursal vigente prevê o cabimento simultâneo do recurso extraordinário e do recurso especial contra o mesmo acórdão dos tribunais de segundo grau. Dessa forma, suposta violação constitucional deveria ter sido suscitada no momento processual oportuno.
+    Somente se admite recurso extraordinário em face de acórdão proferido em recurso especial se a questão constitucional objeto do último recurso for diversa da resolvida pela instância ordinária, o que não ocorre nesses autos.
+    Nesse sentido, confiram-se os julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Processual civil. Questão decidida no Segundo Grau. Ausência de interposição de recurso extraordinário concomitantemente ao recurso especial. Preclusão. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. Não se admite recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça no qual se suscita questão constitucional resolvida na decisão de segundo grau. 3. Agravo regimental não provido.” (ARE 665016, Rel. Dias Toffoli, Primeira Turma, DJe 07.05.2012)
+    DIREITO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECLUSÃO DA QUESTÃO CONSTITUCIONAL. PRECEDENTE. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o acórdão proferido pelo STJ, em sede de recurso especial, somente legitima o uso do apelo extremo se versar questão constitucional diversa daquela debatida na anterior instância. Precedente. 2. O acórdão recorrido está devidamente fundamentado, embora em sentido contrário aos interesses da parte agravante, circunstância que não configura violação ao art. 93, IX, da CF/88. 3. Agravo regimental a que se nega provimento. (ARE 885314, Rel. Roberto Barroso, Primeira Turma, DJe 11.09.2015.)
+    Não obstante os argumentos suso mencionados, em observância ao princípio da proteção judicial efetiva, assento ainda que não é caso de habeas corpus de ofício, eis que a decisão impugnada não apresenta manifesta ilegalidade, abuso de poder ou teratologia.
+    O STJ não reformou o acórdão de segundo grau. Limitou-se a declarar que a imprecisão dos autos acerca da data efetiva de cometimento do fato delituoso impossibilitaria a aferição da prescrição entre os marcos sugeridos.
+    Compulsando os autos, constato que não restou consignada na sentença, tampouco no acórdão do Tribunal local, a data do fato delituoso. Assim, como bem declarou o STJ, a imprecisão dos autos quanto ao marco inicial impede a análise da prescrição arguida.
+    Não obstante, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que seria inviável nesta instância, seja pela incidência da súmula 279 do STF, seja pelo entendimento pacífico desta Corte acerca da finalidade do habeas corpus:
+    “(...) O habeas corpus constitui remédio processual inadequado para a análise da prova, para o reexame do material probatório produzido, para a reapreciação da matéria de fato e, também, para a revalorização dos elementos instrutórios coligidos no processo penal de conhecimento” (RHC nº 121.850/SC, Relatora a Ministra Cármen Lúcia, Segunda Turma, DJe de 06.10.14).
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos arts. 557 do CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 09 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
