@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Banco do Brasil S/A. Aparelhado o recurso na violação do art. 2º da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Inexistente a alegada violação do art. 2º da Lei Fundamental, entendendo o Supremo Tribunal Federal que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação de poderes.” Nesse sentido: AI 732.188-AgR/SP, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 1º.8.2012; e RE 576.249-AgR/RJ, Rel. Min. Ayres Britto, 2ª Turma, DJe 26.4.2012, este assim ementado:
+    "AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. ELIMINAÇÃO DE CANDIDATO. NULIDADE DO ATO RECONHECIDA PELA INSTÂNCIA JUDICANTE DE ORIGEM. AFRONTA AO ART. 2º DA MAGNA CARTA DE 1988. INEXISTÊNCIA. CONTROVÉRSIA DECIDIDA À LUZ DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. 1. É firme no Supremo Tribunal Federal o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação de poderes” (MS 23.452, da relatoria do ministro Celso de Mello). 2. Caso em que entendimento diverso do adotado pelo Tribunal de Justiça do Estado do Rio de Janeiro demandaria o reexame de fatos e provas constantes dos autos. Providência vedada pela Súmula 279/STF. 3. Agravo regimental desprovido."
+    De outra parte, a Corte de origem declarou a inconstitucionalidade do ato normativo por entender violados os princípios constitucionais da isonomia e da livre concorrência. Nesse contexto, verifico ausente impugnação específica, no recurso extraordinário, às razões de decidir adotadas pela Corte de origem.
+    Aplicação, na hipótese, do entendimento jurisprudencial vertido na Súmula 284/STF: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.” Nesse sentido: ARE 656.357-AgR, 2ª Turma, Rel. Min. Joaquim Barbosa, DJe 23.02.2012; AI 762.808-AgR, 2ª Turma, Rel. Min. Ayres Britto, DJe 30.3.2012; RE 356.310-AgR-segundo, 1ª Turma, Rel. Min. Dias Toffoli, DJe 11.10.2011; e RE 656.256-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 05.3.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REVISÃO DE ATO ADMINISTRATIVO. DECADÊNCIA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 09 de outubro de 2015.
+Ministra Rosa Weber
+Relatora
