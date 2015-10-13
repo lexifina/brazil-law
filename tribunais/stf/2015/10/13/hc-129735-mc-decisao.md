@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO – RAZÕES – PRAZO – HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    A Auditoria da 7ª Circunscrição Judiciária Militar, no Processo nº 0000002-73.2014.7.07.007, julgou parcialmente procedente a denúncia, em que se imputava a prática do crime previsto no artigo 240, § 6º, inciso I (furto qualificado pelo rompimento de obstáculo), por quatro vezes, do Código Penal Militar. O paciente Josué de Lima da Silva José foi condenado a dois anos e seis meses de reclusão, em regime aberto, e o paciente Edson José de Lima, absolvido com base no artigo 439, alínea “e”, do Código de Processo Penal Militar, ante a insuficiência de provas.
+    Desproveu-se a apelação interposta pelo Ministério Público Militar, consignando-se mostrar-se o pedido recursal genérico, porquanto não teria sido especificada a parte da sentença que se buscava impugnar.
+    O Órgão Acusador Militar protocolou recurso em sentido estrito, sustentando a ausência de qualquer irregularidade na falta de delimitação, na peça de interposição, da abrangência do apelo. Asseverou competir a auditoria judiciária militar apenas verificar a regularidade procedimental, a legitimidade, o interesse, a tempestividade e o cabimento do recurso. O Superior Tribunal Militar o proveu, determinando a baixa do processo a fim de viabilizar ao Ministério Público e à defesa a apresentação das razões e das contrarrazões. Assentou a possibilidade de formalizar-se apelação de maneira genérica, consoante doutrina e jurisprudência predominantes. Frisou não ser da competência do juízo de origem interpretar a pretensão deduzida no mencionado recurso.
+    Neste habeas, a Defensoria Pública da União assinala que a apresentação de apelação genérica implica cerceamento de defesa. Destaca a violação dos princípios constitucionais da ampla defesa e do contraditório. Consoante afirma, quando o citado recurso foi desprovido, o prazo para oferecimento das razões recursais já estava precluso. Aduz ser a apelação genérica tão prejudicial à defesa quanto a denúncia genérica.
+    Requer, liminarmente, a anulação do acórdão do Superior Tribunal Militar. Sucessivamente, pretende a suspensão dos efeitos do acórdão proferido no recurso em sentido estrito. No mérito, busca a anulação do acórdão, para manter a decisão em que se inadmitiu a apelação.
+    A fase é de exame da medida acauteladora.
+    2. Se, de um lado, é certo que o artigo 531 do Código de Processo Penal Militar preceitua que, recebida a apelação, será aberta vista dos autos, sucessivamente, ao apelante e ao apelado pelo prazo de 10 dias, a cada um, para oferecimento de razões, de outro, mostra-se indispensável que a peça primeira do recurso explicite o inconformismo. Segundo consignado pela Auditoria da 7ª Circunscrição Judiciária Militar isso não ocorreu. O pedido recursal revelou-se genérico.
+    3. Defiro a liminar pleiteada para suspender, até a decisão final deste habeas corpus, a eficácia do que decidido pelo Superior Tribunal Militar no Recurso em Sentido Estrito nº 5-91.2015.7.07.0007/PE.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 13 de outubro de 2015, às 18h50.
+Ministro MARCO AURÉLIO
+Relator
