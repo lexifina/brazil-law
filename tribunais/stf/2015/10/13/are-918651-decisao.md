@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo de instrumento interposto em face de decisão do Tribunal Regional Federal da 3ª Região, cuja ementa reproduzo a seguir:
+    “TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INCLUSÃO DE SÓCIO NO POLO PASSIVO. SOLIDARIEDADE. ARTIGO 124 DO CTN E ARTIGO 8º DO DECRETO-LEI Nº 1739/79. CUMPRIMENTO DOS REQUISITOS DO ARTIGO 135, INCISO III, DO CTN. NECESSIDADE. RECURSO IMPROVIDO.
+    - Não mais se sustenta a alegação da agravante no que concerne à suficiência do artigo 8º da Lei. 1.739/79 para o redirecionamento da execução, quando o crédito tributário exequendo referir-se ao IPI ou ao IRRF.
+    - A matéria vertente sobre responsabilidade tributária, qualquer que seja a espécie tributária em debate, exige sua veiculação por Lei Complementar, ex vi do artigo 146, inciso III, "b", da Constituição Federal, de modo que a leitura do artigo 8º referido deve ser sempre feita em harmonia com o disposto no artigo 135, inciso III, do CTN.
+    Agravo de Instrumento improvido”. (fl. 191)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 97 do Texto Constitucional.
+    Nas razões recursais, argumenta-se, em síntese, que o Tribunal de origem violou a cláusula de reserva de plenário, em decorrência da declaração de inconstitucionalidade de ato normativo por órgão fracionário.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem não declarou a inconstitucionalidade de dispositivo normativo, mas apenas interpretou norma de natureza infraconstitucional.
+    Assim, a jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula de reserva de plenário, o que não se verificou no caso concreto.
+    Confiram-se, a propósito, os seguintes julgados: AI-AgR 848.332, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 24.4.2012, e ARE-AgR-ED 736.780, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 22.5.2015.
+    Visto isso, constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REFORMA DA SENTENÇA DE MÉRITO. REDIRECIONAMENTO DA EXECUÇÃO PARA OS SÓCIOS. NOME DOS SÓCIOS NA CERTIDÃO DE DÍVIDA ATIVA - CDA. PRESUNÇÃO DE CERTEZA E LIQUIDEZ. ART. 135 DO CTN. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 24.02.2010. O exame da alegada ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Divergir do entendimento do Tribunal a quo acerca do redirecionamento da execução para o sócios da empresa executada promovida pelo Estado demandaria a análise de normas infraconstitucionais e da moldura fática dos autos. Na hipótese, consta a indicação do nome dos sócios na Certidão de Dívida Ativa - CDA que nos termos do art. 135 do Código Tributário Nacional – CTN preencheu os requisitos indispensáveis e essenciais de validade, razão pela qual não há falar em exclusão de responsabilidade dos sócios da empresa executada. Precedentes. Agravo regimental conhecido e não provido.”
+(AI 837053 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 11.11.2014)
+    “  AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO FISCAL. PRESCRIÇÃO. INTERRUPÇÃO. CITAÇÃO. RETROAÇÃO DO MARCO INTERRUPTIVO À DATA DO AJUIZAMENTO DA AÇÃO. ARTIGOS 174 DO CTN E 219, § 1º, DO CPC. SÚMULA Nº 106 DO STJ. DISSOLUÇÃO IRREGULAR DA SOCIEDADE. RESPONSABILIDADE SOLIDÁRIA DOS SÓCIOS. INTERPRETAÇÃO DE NORMAS LEGAIS E REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. INCIDÊNCIA DAS SÚMULAS 279 E 636 DO STF. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. INEXISTÊNCIA. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO STF NO ARE 748.371-RG, TEMA Nº 660. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.”
+(ARE 900769 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 29.09.2015)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 13 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
