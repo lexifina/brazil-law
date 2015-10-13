@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fls 188-189):
+    “ADMINISTRATIVO. PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. SERVIDORES DO MUNICÍPIO DE MOSSORÓ. ART. 85, III, § 6º, DA LEI MUNICIPAL N. 311/1991. DEVER DO MUNICÍPIO, ATÉ A EDIÇÃO DO REGIME PRÓPRIO DA PREVIDÊNCIA MUNICIPAL, REALIZAR A COMPLEMENTAÇÃO DE APOSENTADORIA (EQUIPRAÇÃO ENTRE ATIVOS E INATIVOS). LEGITIMIDADE DO MUNICÍPIO DE MOSSORÓ PARA A DEMANDA. CONHECIMENTO E PROVIMENTO DO RECURSO. PRECEDENTES.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 40, 195 e 201, da Carta da República. Sustenta-se, em suma, que “o art. 201 da CF, desde sua redação originária, já estabelecia a necessidade de contribuição para gozo dos benefícios previdenciários. A ausência de regime próprio no âmbito municipal não invalida esta regra, nem tem este fato o condão de impor ao Município de Mossoró o peso de um custo para o qual não tinha e nem tem receita”(fl. 206).
+    A Vice Presidência do Tribunal de Justiça do Estado do Rio Grande do Norte inadmitiu o recurso pelos seguintes fundamentos: (i) ausência de prequestionamento dos dispositivos supostamente violados; (ii) incidência das Súmulas 279 e 280/STF.
+    É o relatório. Decido.
+    De plano, constato que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido. O Tribunal de Justiça, no julgamento da apelação, concluiu pela legitimidade passiva do Município de Mossoró e determinou a remessa dos autos à origem. No extraordinário, o agravante aduz aplicar-se à hipótese a paridade entre servidores ativos e inativos. A incompatibilidade entre as razões expendidas no recurso e as que fundamentaram o acórdão recorrido atrai a incidência das Súmulas 282 e 284 do STF, a obstar o seguimento do extraordinário.
+    Ademais, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação aplicável a espécie (Lei Municipal 311/91), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido: (ARE 895.373, Rel. Min. Gilmar Mendes, DJe 30.06.2015; e ARE 800.406-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 12.12.2014).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 13 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
