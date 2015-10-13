@@ -1,0 +1,9 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “RECURSO ESPECIAL. REAJUSTE DE 28,86%. COMPENSAÇÃO DOS REAJUSTES DAS LEIS 8.622/97 E 8.627/92. JUÍZO DE ADEQUAÇÃO (ART. 543-C, § 7º, II, DO CPC) NÃO ADOÇÃO DA ORIENTAÇÃO DO RESP 1.235.513 – AL – QUE RECONHECEU A IMPOSSIBILIDADE DE ALEGAÇÃO DE COMPENSAÇÃO DURANTE O PROCESSO DE EXECUÇÃO, À MÍNGUA DE SUA ALEGAÇÃO RECONHECIMENTO DA IMPOSSIBILIDADE DE ALEGAÇÃO DE COMPENSAÇÃO DURANTE O PROCESSO DE EXECUÇÃO NO PROCESSO DE CONHECIMENTO – POR ENTENDER ESTA CORTE DE APLICAR TÉCNICA DISTINTIVA (DISTINGUISHING), TENDO EM VISTA QUE A DETERMINAÇÃO DA COMPENSAÇÃO SE DEU POR FUNDAMENTO DE NATUREZA MATERIAL, TENDENTE A ASSEGURAR A UTILIDADE JUDICIAL DEFERIDA NOS SEUS EXATOS CONTORNOS, EVITANDO O ENRIQUECIMENTO SEM CAUSA. JUROS MORATÓRIOS. MP 2.180-35. INCIDÊNCIA IMEDIATA. INCONSTITUCIONALIDADE DO ART. 5º DA LEI Nº 11.960/2009 (ADI 4.357/DF E 4425/DF). EXERCER EM PARTE O JUÍZO DE CONFORMIDADE. MANUTENÇÃO DA DECISÃO ANTERIOR, SALVO QUANTO AO ÍNDICE DOS JUROS MORATÓRIOS.”
+    O recurso está prejudicado. Isso porque o Superior Tribunal de Justiça, em acórdão transitado em julgado, deu provimento ao recurso especial simultaneamente interposto pela parte recorrente (Resp nº 1.492.637/AL), para “afastar a compensação determinada no aresto recorrido”. Desse modo, o recurso extraordinário e, consequentemente, o agravo manejado contra a decisão que negou trânsito ao recurso extraordinário perderam os respectivos objetos.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, IX, do RI/STF, julgo prejudicado o recurso.
+    Publique-se.
+          Brasília, 13 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
