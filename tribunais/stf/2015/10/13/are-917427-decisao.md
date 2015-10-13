@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E PROCESSUAL CIVIL. VALE-REFEIÇÃO. REAJUSTE. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL: IMPOSSIBILIDADE. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base nas als. a e c do inc. III do art. 102 da Constituição da República.
+    2. A Quarta Câmara Cível do Tribunal de Justiça do Rio Grande do Sul decidiu:
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO. SERVIDOR PÚBLICO. VALE-REFEIÇÃO. REAJUSTE. IMPOSSIBILIDADE. LEI 10.002/93, REGULAMENTADA PELO DECRETO N. 35.139/94. JURISPRUDÊNCIA PACÍFICA DESTA CÂMARA. NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO. UNÂNIME” (fl. 111).
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 282 do Supremo Tribunal Federal.
+    4. Os Agravantes argumentam que
+     “ingressaram com ação ordinária de cobrança objetivando a condenação do agravado a efetuar os reajustes dos valores do ‘vale-refeição’ em conformidade com o disposto na Lei Estadual n. 10.002/93 e no Decreto Estadual n. 35.139/94.
+    (…) a venerada decisão proferida pelo egrégio Tribunal de Justiça do Estado do Rio Grande do Sul merece ser reformado, uma vez que os eminentes desembargadores gaúchos contrariaram dispositivos presentes na Constituição Federal, e, ainda, julgaram válido ato de governo local contestado em face da Magna Carta, motivo pelo qual os recorrentes novamente recorrem ao Judiciário nacional, desta vez através do presente Recurso Extraordinário, o qual merece ser totalmente provido, haja vista os argumentos que passaremos a expor” (fls. 208-210).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 5º, caput, incs. XXXV, XXXVI, LIV e LV, 37, caput, 93, inc. IX, e 169 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste aos Agravantes.
+    A apreciação do pleito recursal exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Lei n. 10.002/1993 e Decreto n. 35.139/1994). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “RECURSO EXTRAORDINÁRIO. SERVIDORES PÚBLICOS DO ESTADO DO RIO GRANDE DO SUL. VALE-REFEIÇÃO. REAJUSTE. LEIS ESTADUAIS NºS 10.002/93-RS, 11.468/00 E 11.802/02-RS E DECRETO REGULAMENTAR. REPERCUSSÃO GERAL. INTERPRETAÇÃO DA LEGISLAÇÃO LOCAL. NÃO CONHECIMENTO DO RECURSO EXTRAORDINÁRIO. 1. A controvérsia relacionada com o percentual de reajuste no valor do vale-refeição concedido a servidores públicos estaduais e sua adequação para a manutenção do valor efetivo do benefício é matéria afeta à interpretação da legislação infraconstitucional e do direito local, cuja discussão revela-se incabível na instância extraordinária (Súmula 280/STF: ‘Por ofensa a direito local não cabe recurso extraordinário’). Precedentes: ARE 680.280-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 29/05/2012; AI 844.653-AgR, Rel. Ministro Luiz Fux, Primeira Turma, DJe 15/09/2011; e AI 450.849-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ de 01/07/2005. 2 In casu, o Tribunal de Justiça do Estado do Rio Grande do Sul entendeu que ‘a Lei n. 10.002/93 estabeleceu que os reajustes do valor do vale-refeição devem ser realizados mediante decreto do Executivo Estadual, não podendo o Poder Judiciário instituí-los. Ainda que tal benefício não seja propriamente vencimento, mas sim verba indenizatória, traduz, em última análise, aumento de despesa, que só pode ser realizada se houver prévia dotação orçamentária (art. 169, CF)’. 3. Recurso extraordinário não conhecido” (RE n. 607.607/RS, Relator o Ministro Luiz Fux, Plenário, DJe 3.5.2013).
+    7. Os argumentos expostos neste agravo não infirmam todos os óbices postos na decisão agravada. Os Agravantes não se manifestaram quanto à incidência da Súmula n. 282 deste Supremo Tribunal, fundamento autônomo e suficiente, apresentado na decisão agravada, a sustentar a inviabilidade do recurso extraordinário:
+    “PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. PRESCRIÇÃO QUINQUENAL. OFENSA AOS ARTS. 5º, XXXII, XXXV E XXXVI, E 7º DA CONSTITUIÇÃO FEDERAL. OFENSA INDIRETA À CARTA DA REPÚBLICA. REPERCUSSÃO GERAL. INEXISTÊNCIA” (DJe 5.9.2013).
+    Nada há a prover quanto às alegações dos Agravantes, mantendo-se a decisão agravada por subsistirem os fundamentos não infirmados.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de outubro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
