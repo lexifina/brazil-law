@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “DIREITO CONSTITUCIONAL – DIREITO ADMINISTRATIVO – REEXAME NECESSÁRIO – APELAÇÃO – MUNICÍPIO DE CALDAS – LANÇAMENTO DE ESGOTO NO RIO VERDE – DANO AO MEIO AMBIENTE – OMISSÃO DO PODER PÚBLICO – CONFIGURAÇÃO – OBRIGAÇÃO DE TRATAR O ESGOTO – CABIMENTO – AUMENTO DO PRAZO PARA CUMPRIMENTO DA DECISÃO E REDUÇÃO DO VALOR DA MULTA DIÁRIA – POSSIBILIDADE – CUSTAS – FAZENDA PÚBLICA – ISENÇÃO – SENTENÇA PARCIALMENTE REFORMADA – RECURSO PREJUDICADO. Comprovado que o esgoto originado do Bairro Pocinhos do Rio Verde, localizado no Município de Caldas, está sendo lançado no Rio Verde, sem receber tratamento, e demonstrada a inércia do Poder Público, que durante os anos de tramitação do inquérito civil público e do processo judicial não adotou medida concreta para solucionar o problema, justifica-se a imposição de obrigação de fazer à Municipalidade, a fim de fazer cessar os danos ambientais. Constatado que o prazo para cumprimento da decisão se mostra exíguo, e o valor da multa diária desarrazoado, o aumento daquele e a redução deste são medidas que se impõe. Os entes públicos da administração direta e indireta dispõem de privilégio legal de isenção de custas (artigo 10, lei estadual 14.939/03).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º, 30, IV e IX; e 167, I, da Constituição.
+    O recurso extraordinário é inadmissível, tendo em vista que a solução da controvérsia demanda a análise da legislação infraconstitucional aplicada ao caso e a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em sede de recurso extraordinário.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 14 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
