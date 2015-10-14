@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de petição e de agravo regimental contra decisão que negou seguimento recurso extraordinário sob os seguintes fundamentos: (a) deficiência na fundamentação preliminar formal de repercussão geral; (b) eventual ofensa à Constituição Federal seria indireta ou reflexa, a teor do Tema 660 da Repercussão Geral; (c) incidência da Súmula 284/STF; e (d) inviabilidade de análise de matéria infraconstitucional no âmbito do recurso extraordinário.
+    Sustentam as partes agravantes, em suma, que (a) deve ser declarada a extinção da punibilidade dos recorrentes, diante da ocorrência da prescrição da pretensão punitiva estatal; (b) a preliminar formal de repercussão foi devidamente fundamentada; (c) há ofensa direta e frontal aos dispositivos constitucionais apontados; (d) não se aplica a Súmula 284/STF; e (e) é desnecessária apreciação de matéria infraconstitucional para a resolução da lide.
+    2. Os recorrentes foram condenados às penas de 3 anos de detenção e 10 dias-multa pela prática do delito previsto no art. 89 da Lei 8.666/1993, cuja sentença foi publicada em 19/7/2007 (e-STJ, fl. 417, Vol. 5). Contra essa decisão, defesa e acusação apresentaram recursos de apelação, ambos desprovidos. Dessa forma, sem nenhuma causa interruptiva ou suspensiva superveniente, operou-se a prescrição da pretensão punitiva estatal, uma vez que, entre a publicação da sentença condenatória e a presente data, transcorreu período superior a 8 anos, a teor do art. 109, IV, do Código Penal.
+    3. Diante do exposto, declaro extinta a punibilidade dos recorrentes, em razão da ocorrência da prescrição da pretensão punitiva (art. 107, IV, do Código Penal). Consequentemente, julgo prejudicado o agravo regimental.
+    Publique-se. Intime-se.
+    Brasília, 14 de outubro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
