@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido liminar, ajuizada pelo Estado de Minas Gerais em face do Tribunal Regional do Trabalho da 3ª Região, cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido na ADC nº 16/DF.
+    A autora argumenta que o juízo de origem, ao afastar o dispositivo legal contido no §1º do art. 71 da Lei nº 8.666/93 e condenar o Poder Público ao pagamento de verbas inadimplidas pela empresa prestadora de serviço a seu empregado, com fundamento em culpa in vigilando e in eligendo, desrespeitou os efeitos vinculantes do que decidido pelo STF no julgamento da ADC nº 16/DF.
+    Requer que seja concedida medida liminar de suspensão do curso do processo de origem e, no mérito, que seja julgada procedente a presente reclamação para cassar a decisão reclamada.
+    É o relatório.
+    Aponta-se como desrespeitada a eficácia da decisão proferida na ADC nº 16/DF, proferida no sentido de declarar a constitucionalidade do §1º do artigo 71 da Lei nº 8.666/93, que assim dispõe:
+          “A inadimplência do contratado, com referência aos encargos trabalhistas, fiscais e comerciais não transfere à Administração Pública a responsabilidade por seu pagamento, nem poderá onerar o objeto do contrato ou restringir a regularização e o uso das obras e edificações, inclusive perante o Registro de Imóveis.” (grifei)
+    A questão em debate nos presentes autos consiste em saber se, ao imputar ao Poder Público a responsabilidade subsidiária pelo pagamento das verbas trabalhistas referidas, ao fundamento de que “ao contratar através de terceirização, o Município assume para si o dever de fiscalizar permanentemente o adimplemento de todas as obrigações trabalhistas por parte da empresa contratada”, a decisão reclamada vai de encontro ao entendimento vinculante do STF firmado na ADC nº 16/DF .
+    É verdade que, ao decidir a ADC nº 16/DF, ponderou-se sobre a possibilidade de o Poder Público ser condenado ao pagamento ao trabalhador de verbas decorrentes da prestação do serviço. Essa responsabilização, entretanto, poderá ocorrer quando demonstrado, no caso concreto, o descumprimento de obrigações do contrato administrativo pela Administração Pública aptas a interferir no resultado danoso experimentado pelo trabalhador, tal como no caso de desvio entre o trabalho desempenhado pelo empregado e aquele licitado junto à empresa prestadora de serviço.
+    Não se descuidou, entretanto, das seguintes premissas:
+    a) a Administração Pública remunera a empresa contratada, sendo responsável por fiscalizar a regularidade do contrato administrativo (o qual inclui a manutenção das certidões de habilitação com prazo de validade em dia) e o cumprimento do objeto licitado; e
+    b) o vínculo empregatício estabelece-se com a empresa prestadora de serviço a que adjudicado o objeto, junto a quem são apurados os elementos que caracterizam a relação de emprego, tais como a pessoalidade, a não-eventualidade, a subordinação e a onerosidade, bem como, também quanto aos encargos fiscais e comerciais, a responsabilidade da sociedade empresária quanto à regularidade da escrituração nos livros comerciais.
+    Dessa perspectiva, ficou assente a necessidade de se analisar, com fundamento nas provas do caso concreto, condutas da Administração Pública, positivas ou negativas, e o nexo de causalidade entre essa conduta, o direito pleiteado e o resultado apurado a fim de se concluir se e em que medida o ato do Poder Público deu causa ao resultado desfavorável ao trabalhador, o que, ao menos nesse juízo preliminar, não se verifica no caso concreto.
+    Entendo que a conclusão pela responsabilidade do Poder Público em razão de culpa in vigilando ou in eligendo, na decisão reclamada, deriva do inadimplemento de obrigações imputadas à empresa prestadora de serviço, entendimento esse adotado pela Justiça do Trabalho quando do julgamento da ADC nº 16/DF e que motivou esta Suprema Corte a concluir pelo atendimento do requisito do inciso III do art. 14 da Lei nº 9.868/99 e conhecer da ação paradigma para afirmar a constitucionalidade do §1º do art. 71 da Lei nº 8.666/93.
+    Ante o exposto, defiro a liminar para suspender o curso da Reclamação Trabalhista nº 287-29.2015.5.03.0098.
+    Vista à douta Procuradoria-Geral da República para manifestação como custos legis.
+    Publique-se. Int..
+    Brasília, 14 de outubro de 2015.
+                      Ministro Dias Toffoli
+                            Relator
+                Documento assinado digitalmente
