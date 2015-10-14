@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de processo em que se discute o direito adquirido de servidor público à revisão da gratificação de função incorporada ao seu vencimento na mesma proporção do aumento concedido à gratificação prevista na Lei Complementar estadual nº 92/2002.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, XXXVI; e 40, §§ 4º e 8º, da Constituição. Sustenta, em suma, que “a gratificação de função, prevista na lei complementar anterior (lei n. 7.051/78), a que os aposentados tiveram incorporadas ao seu provento, não lhes foi suprimida com a nova lei (princípio da irredutibilidade de vencimentos), e não é a mesma gratificação disposta na nova lei complementar estadual (LC 92/02).”Afirma, ainda, que a nova gratificação, por não possuir caráter geral, não pode ser acrescida à remuneração de inativos.
+    O recurso extraordinário não deve ser provido. Isso porque dissentir da conclusão acerca da natureza da gratificação de função exigiria o reexame dos fatos e do material probatório constante dos autos, bem como a análise da legislação local pertinente (Lei Complementar estadual nº 92/2002). Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. Nesse sentido, veja-se o AI 534.544-AgR, julgado sob a relatoria do Ministro Cezar Peluso:
+    “RECURSO. Extraordinário. Inadmissibilidade. Servidor Público. Militar. Gratificação de Atividade de Polícia - GAP. Lei Complementar estadual nº 873/2000. Reexame de legislação local. Controvérsia infraconstitucional. Aplicação da súmula 280. Precedentes. Agravo regimental improvido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de direito local, seria apenas indireta à Constituição da República.”
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
