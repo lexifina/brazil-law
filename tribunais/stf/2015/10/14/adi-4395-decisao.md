@@ -1,0 +1,14 @@
+Decisão: Por meio da Petição 52.108/2015, a Sociedade Rural Brasileira requer seu ingresso no feito na qualidade de amicus curiae.
+    A Lei 9.868/99, em seu art. 7º, § 2º, permite ao relator, considerando a relevância da matéria e a representatividade dos postulantes, admitir, no prazo deferido para as informações das autoridades das quais emanou a lei ou o ato normativo impugnado, a manifestação de outros órgãos ou entidades.
+    Em princípio, a manifestação dos amicus curiae há de se fazer no prazo das informações. No entanto, esta Corte tem evoluído para admitir exceções a essa regra, especialmente diante da relevância do caso ou, ainda, em face da notória contribuição que a manifestação possa trazer para o julgamento da causa. Nesse sentido, é possível cogitar de hipóteses de admissão do ingresso, ainda que fora desse prazo.
+    Essa construção jurisprudencial sugere a adoção de um modelo procedimental que ofereça alternativas e condições para permitir, de modo cada vez mais intenso, a interferência de uma pluralidade de sujeitos, argumentos e visões no processo constitucional. Essa nova realidade pressupõe, além de amplo acesso e participação de sujeitos interessados no sistema de controle de constitucionalidade de normas, a possibilidade efetiva de o Tribunal contemplar as diversas perspectivas na apreciação da legitimidade de um determinado ato questionado.
+    Exatamente pelo reconhecimento da alta relevância do papel em exame é que o Supremo Tribunal Federal tem proferido decisões admitindo o ingresso desses atores na causa após o término do prazo das informações (ADI 3.474, Rel. Min. Cezar Peluso, DJ 19.10.05), posteriormente a inclusão do feito na pauta de julgamento (ADI 2.548, de minha relatoria, DJ 24.10.05) e, até mesmo, quando já iniciado o julgamento, para a realização de sustentação oral, logo depois da leitura do relatório, na forma prevista no art. 131, § 3º, do RISTF (ADI 2.777-QO, Rel. Min. Cezar Peluso).
+    No caso em exame, a Sociedade Rural Brasileira, entidade sem fins lucrativos, justifica a sua habilitação em razão de atuar como fomentadora da agricultura, pecuária e demais atividades rurais. Nesse sentido, argumenta que o desfecho do tema afetará milhares de produtores rurais que atualmente estão compelidos ao recolhimento da exação, objeto desta ADI.
+    Nesses termos, verifico a presença de circunstâncias que justificam a mitigação da norma do artigo 7º, § 2º, da Lei n. 9.868/99, em face da notória contribuição que a manifestação da associação poderá trazer para o julgamento da causa.
+    Ante o exposto, defiro o pedido de ingresso da Sociedade Rural Brasileira, para que possa intervir no feito, na condição de amicus curiae, podendo apresentar memorial e proferir sustentação oral.
+    À Secretaria, para a inclusão do nome do interessado e de seus patronos.
+    Publique-se.
+    Brasília, 14 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
