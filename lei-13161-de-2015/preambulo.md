@@ -1,0 +1,2 @@
+Altera as Leis nº 12.546, de 14 de dezembro de 2011, quanto à contribuição previdenciária sobre a receita bruta, 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, 11.977, de 7 de julho de 2009, e 12.035, de 1º de outubro de 2009; e revoga dispositivos da Lei nº 11.196, de 21 de novembro de 2005, quanto à tributação de bebidas frias.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
