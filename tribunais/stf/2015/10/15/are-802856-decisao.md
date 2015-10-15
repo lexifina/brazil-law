@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da 1ª Turma do Superior Tribunal de Justiça, assim ementado:
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPENSAÇÃO. PRECATÓRIO DEVIDO POR PESSOA JURÍDICA DISTINTA. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+    1. A jurisprudência pacífica do Superior Tribunal de Justiça já se posicionou pela impossibilidade da compensação de créditos tributários com precatórios devidos por ente jurídico de natureza distinta, em razão da ausência de legislação estadual autorizativa.
+    2. Não há falar em correspondência entre credor e devedor uma vez que os titulares dos créditos em análise são pessoas jurídicas distintas. A titularidade dos créditos tributários é da União, e os créditos oriundos de precatório, de titularidade do Estado do Rio Grande do Sul.
+    3. Agravo regimental não provido.”
+    A pretensão não merece acolhida. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que é infraconstitucional o litígio relativo à compensação de crédito tributário com precatórios devidos por ente jurídico de natureza distinta. Nesse sentido, confiram-se as seguintes ementas:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. PRECATÓRIO. COMPENSAÇÃO COM CRÉDITOS TRIBUTÁRIOS DE ICMS.PRECATÓRIO EXPEDIDO POR ENTE PÚBLICO DIVERSO DO CREDOR DO TRIBUTO. ANÁLISE DE NORMAS LOCAIS. INVIABILIDADE. SÚMULA 280/STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 736.781-AgR, Rel. Min. Teori Zavascki)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO.PRECATÓRIO. COMPENSAÇÃO. CRÉDITOS E DÉBITOS TITULARIZADOS POR ENTES DE NATUREZA DISTINTA. ESTADO E AUTARQUIA. AUSÊNCIA DE LEGISLAÇÃO AUTORIZATIVA. QUESTÃO DECIDIDA PELO TRIBUNAL A QUO À LUZ DA INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. NÃO CABIMENTO DO EXTRAORDINÁRIO.
+    1. A conclusão pela impossibilidade de compensação de créditos tributários de ICMS com precatórios devidos por ente jurídico de natureza distinta, ante a inexistência de lei autorizativa, constitui fundamento suficiente para a manutenção do acórdão e foi decidida à luz de interpretação de normas infraconstitucionais. A violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário.
+    2. Precedentes específicos sobre a matéria, envolvendo precatórios emitidos contra o IPERGS. ARE 680.937, Rel. Min. Dias Toffoli, DJe de 04/06/2014 e ARE 715697-AgR, Rel. Min. Luiz Fux, DJe de 26/04/2013.
+    3. In casu, o acórdão recorrido extraordinariamente assentou: “PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. ANÁLISE. VEDAÇÃO. ICMS. COMPENSAÇÃO. PRECATÓRIO DEVIDO PELO IPERGS. CRÉDITO TRIBUTÁRIO DO ESTADO DO RIO GRANDE DO SUL. IMPOSSIBILIDADE DE COMPENSAÇÃO.PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”.
+    4. Agravo regimental DESPROVIDO.” (ARE 789.021-AgR, Rel. Min. Luiz Fux)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO.COMPENSAÇÃO DE TRIBUTO ESTADUAL COM CRÉDITO DE PRECATÓRIO EMITIDO PELO INSTITUTO DE PREVIDÊNCIA DO RIO GRANDE DO SUL. ACÓRDÃO RECORRIDO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 752.366-AgR, Rel.ª Min,ª Cármen Lúcia)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 15 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
