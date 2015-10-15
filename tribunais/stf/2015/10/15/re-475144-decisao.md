@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. AÇÃO DECLARATÓRIA. IPI. BASE DE CÁLCULO. VALOR DO FRETE. ARTIGO 15 DA LEI Nº 7.798/1989. INCONSTITUCIONALIDADE FORMAL. RESERVA DE LEI COMPLEMENTAR. CONTROVÉRSIA ABARCADA PELO TEMA Nº 84. RE 567.935. PRECEDENTES. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário (fl. 383), manejado com arrimo na alínea b do permissivo constitucional, contra acórdão (fl. 373) que assentou, verbis:
+    “TRIBUTÁRIO. IPI. FRETE. INCLUSÃO NA BASE DE CÁLCULO. IMPOSSIBILIDADE. EMBALAGENS PLÁSTICAS DESTINADAS AO ACONDICIONAMENTO DE PRODUTOS ALIMENTÍCIOS. CLASSIFICAÇÃO. TIPI.
+    1. A Lei nº 7.798/89, sendo ordinária, não poderia ter disciplinado matéria afeta à lei complementar, com a agravante de que o fez contrariamente à previsão já contida no Código Tributário Nacional (artigo 47), este sim, recepcionado como lei complementar, meio adequado a regular a matéria. Desse modo, a inclusão do valor referente ao frete - por lei ordinária (Lei nº 7.798/89) - como parte integrante do valor da operação, que é a base de cálculo do IPI, quando a operação ocorrente se der no mercado interno, contraria a própria previsão constitucional (artigo 146, III, a), por isso não podendo subsistir. Precedentes desta Corte e do C. STJ.
+    2. De acordo com as Regras Gerais para Interpretação do Sistema Harmonizado, havendo classificação mais específica, esta deve prevalecer em detrimento da mais genérica. Desse modo, as embalagens destinadas a embalar produtos alimentícios não merecem classificação genérica, pois há posição específica a beneficiar tais embalagens com alíquota zero, sob pena de ser ferido o princípio da seletividade, segundo o qual a alíquota do IPI deve obedecer uma proporcionalidade em função da essencialidade do produto.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, aponta violação ao artigo 146, III, a, da Constituição Federal. Alega que o artigo 15 da Lei nº 7.798/1989 é constitucional porque apenas integrou o conceito de “valor da operação”, definido como base de cálculo em lei complementar (art. 47, II, a, do CTN).
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Francisco Adalberto Nóbrega, opinou pelo desprovimento do recurso (fl. 438).
+    Em decisão publicada em 4/6/2009 meu antecessor determinou o sobrestamento do feito na origem até o julgamento do RE 567.935-RG, Rel. Min. Marco Aurélio, nos termos do artigo 543-B, do Código de Processo Civil (fl. 444).
+    Após o retorno dos autos à origem, os autos foram devolvidos a esta Corte, tendo em vista a divergência entre o paradigma apontado e a matéria objeto da demanda (fl. 449).
+    É o relatório. DECIDO.
+    Tendo em vista a apontada divergência entre o objeto da demanda e o precedente apontado pela decisão de devolução, passo a nova análise do apelo extremo.
+    Não merece provimento o recurso.
+    O Supremo Tribunal Federal, no julgamento do RE 567.935, declarou a inconstitucionalidade formal do artigo 15 da Lei nº 7.798/1989, porque o legislador incluiu os descontos incondicionados na base de cálculo do IPI, a pretexto de disciplinar o tema, usurpando competência normativa reservada à lei complementar. Transcrevo a ementa do referido julgado:
+    “IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - VALORES DE DESCONTOS INCONDICIONAIS - BASE DE CÁLCULO - INCLUSÃO - ARTIGO 15 DA LEI Nº 7.798/89 - INCONSTITUCIONALIDADE FORMAL - LEI COMPLEMENTAR - EXIGIBILIDADE. Viola o artigo 146, inciso III, alínea “a”, da Carta Federal norma ordinária segundo a qual hão de ser incluídos, na base de cálculo do Imposto sobre Produtos Industrializados – IPI, os valores relativos a descontos incondicionais concedidos quando das operações de saída de produtos, prevalecendo o disposto na alínea “a” do inciso II do artigo 47 do Código Tributário Nacional.” (RE 567.935, Rel. Min. Marco Aurélio, Plenário, DJe de 4/11/2014, Tema nº 84)
+    Ambas as Turmas tem aplicado o entendimento supra em casos análogos ao presente feito. Nesse sentido, confiram:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS. ART. 15 DA LEI Nº 7.798/1989. INCONSTITUCIONALIDADE FORMAL. LEI COMPLEMENTAR. EXIGIBILIDADE. MATÉRIA EM REPERCUSSÃO GERAL. TEMA 84. PRECEDENTES.
+    1. Nos termos da jurisprudência da Corte, há inconstitucionalidade formal do art. 15 da Lei nº 7.798/1989, consoante decisão desta Corte no RE 567.935-RG.
+    2. Viola o art. 146, III, a, da Constituição Federal norma ordinária, segundo a qual hão de ser incluídos, na base de cálculo do Imposto sobre Produtos Industrializados - IPI, os valores relativos a descontos incondicionais concedidos nas operações de saída de produtos, prevalecendo o disposto na alínea a do inciso II do art. 47 do Código Tributário Nacional.
+    3. Agravo regimental a que se nega provimento.” (RE 847.657-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 18/9/2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. BASE DE CÁLCULO. INCLUSÃO DO VALOR DO FRETE: IMPOSSIBILIDADE. NECESSIDADE DE LEI COMPLEMENTAR. JULGADO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL FEDERAL ASSENTADA NO PROCEDIMENTO DA REPERCUSSÃO GERAL: RE 567.935. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 636.714-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 7/8/2015).
+    Irreparável, portanto, o acórdão recorrido.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 15 de outubro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
