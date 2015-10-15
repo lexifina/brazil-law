@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITO À SAÚDE. TRATAMENTO CIRÚRGICO.  PAGAMENTO DE HONORÁRIOS MÉDICOS. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. VIOLAÇÃO AO ARTIGO 93, IX, DA CF. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “Como bem pontuou o juízo sentenciante, analisando os autos, verifica-se que, no caso, realmente, ‘diante da urgência, não restou alternativa ao autor senão contratar os honorários médicos de médico não credenciado, já que a ré, embora tivesse profissionais cadastrados, não disponibilizou na ocasião médico especialista, o que era imprescindível naquele momento’, sendo certo que ‘o pagamento de honorários médicos do neurocirurgião no valor de R$ 658,75 (seiscentos e cinquenta e oito reais e setenta e cinco centavos), certamente, implicaria em enriquecimento ilícito para a ré, já que o valor é ínfimo para a realização de uma cirurgia cerebral’, de tal maneira que, não tendo as razões recursais o condão de infirmar a idônea fundamentação contida na sentença, deve esta ser mantida pelos seus próprios e bem postos fundamentos.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, LV, e 93, IX, da Constituição Federal.
+    É o relatório. DECIDO.
+    Não merece prosperar o presente recurso.
+    Os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 15 de outubro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
