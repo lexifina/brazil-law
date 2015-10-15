@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+    “AGRAVO REGIMENTAL. APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE CONTRATO. CAPITALIZAÇÃO MENSAL DE JUROS. IMPOSSIBILIDADE. SÚMULA 121 DO STF. INCONSTITUCIONALIDADE DO ART. 5° DA MEDIDA PROVISÓRIA N° 2.170/2001. INEXISTÊNCIA DE ELEMENTOS APTOS A MODIFICAR A DECISÃO RECORRIDA. AGRAVO CONHECIDO E DESPROVIDO.
+    - Esta Corte de Justiça firmou entendimento pela inconstitucionalidade do art. 5° da MP n° 2.170/2001, que permitia a capitalização mensal de juros.”
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso XXXVI, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que a jurisprudência desta Suprema Corte firmou entendimento no sentido de que a garantia constitucional do ato jurídico perfeito não elide a possibilidade da revisão judicial do contrato para coibir o enriquecimento sem causa. Anote-se:
+    “1. Recurso extraordinário: descabimento: dispositivos constitucionais dados por violados não analisados pelo acórdão recorrido nem objeto de embargos de declaração: incidência das Súmulas 282 e 356.
+    2. Recurso extraordinário: inadmissibilidade: controvérsia decidida à luz de legislação infraconstitucional: alegada violação dos dispositivos constitucionais invocados que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636.
+    3. A garantia constitucional do ato jurídico perfeito não exclui a possibilidade de revisão judicial do contrato para coibir o enriquecimento sem causa” (AI 587.727-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. REEXAME DE PROVA. SÚMULA 279-STF.
+    I. - O acórdão assenta-se na prova, que não se examina em recurso extraordinário (Súmula 279-STF).
+    II. - A verificação, no caso concreto, da ocorrência, ou não, de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada situa-se no campo infraconstitucional.
+    III. - Agravo não provido” (AI 496.468-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 22/10/04).
+    Ademais, ressalte-se que o acórdão recorrido dirimiu a controvérsia amparado em legislação infraconstitucional (Código de Defesa do Consumidor) e nas provas dos autos. Nesse caso, a alegada ofensa ao dispositivo constitucional apontado como violado, se houvesse, seria indireta ou reflexa, o que não enseja reexame na via do recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. Nesse sentido, anote-se:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OFENSA AOS ARTIGOS 5º, XXXVI, LIV E LV, 195, §5º E 202, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. PROVA E INTERPRETAÇÃO DE REGRA CONTRATUAL. SÚMULAS STF 279 E 454. 1. A discussão atinente à ocorrência ou não de capitalização anual de juros é matéria que demanda revolvimento de material fático-probatório e interpretação de norma contratual, ao que se aplicam as Súmulas STF 279 e 454. 2. A possível violação aos postulados do ato jurídico perfeito, do devido processo legal, do contraditório, da ampla defesa configura ofensa reflexa à CF. 3. Agravo regimental improvido” (AI nº 733.225/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 24/9/10).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. JUROS: APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E DO DECRETO N. 22.626/33. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 617.814/GO-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/12/2008).
+    “1. Recurso extraordinário: descabimento: controvérsia de natureza infraconstitucional (Código de Defesa do Consumidor), decidida com base em fatos e provas, de reexame vedado no recurso extraordinário: incidência, mutatis mutandis, das Súmula 636 e Súmula 279. 2. Alegações improcedentes de negativa de prestação jurisdicional ou de violação do art. 5º, XXXV e LV, da Constituição Federal” (AI nº 597.064/BA-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de outubro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
