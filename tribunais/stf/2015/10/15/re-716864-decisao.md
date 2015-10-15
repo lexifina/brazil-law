@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “CONSTITUCIONAL – PREVIDENCIÁRIO – AÇÃO ORDINÁRIA – APOSENTADORIA POR INVALIDEZ – PROVENTOS INTEGRAIS – EC N°. 41/2003 – INTELIGÊNCIA DO ART. 40, § 3°, C/C ART. 1° DA LEI N° 10.887/2004 – IMPROCEDÊNCIA. 1- A aposentadoria por invalidez em razão de doença grave concedida após a edição da Emenda Constitucional n.° 41/2003 submete-se a forma de cálculo descrita no art. 1° da Lei Federal n.° 10.887/2004, que regulamentou o art. 40, § 3°, da Constituição da República. 2 – Sentença reformada, em reexame necessário, prejudicado o recurso voluntário.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, § 1º, I, da Constituição. Sustenta que, em razão do reconhecimento de sua aposentadoria por invalidez decorrente de doença grave, faz jus “à aposentadoria de forma integral, ou seja, os mesmos vencimentos que recebia quando estava na ativa” (fls. 220).
+    O recurso deve ser provido.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de afastar a forma de cálculo estabelecida pelo art. 1º da Lei nº 10.887/2004, uma vez que a norma trata da regra geral de cálculo dos proventos da aposentadoria, nada registrando acerca da exceção, constitucionalmente prevista, de aposentadoria por invalidez permanente decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, a qual deve ser paga com proventos integrais. Nesse sentido, confira-se a ementa do ARE 787.514-AgR, julgado sob a relatoria do Ministro Teori Zavascki:
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ DECORRENTE DE ACIDENTE EM SERVIÇO, MOLÉSTIA PROFISSIONAL OU DOENÇA GRAVE. INTEGRALIDADE. INAPLICABILIDADE, NA ESPÉCIE, DO ARE 791.475 RG (REL. MIN. DIAS TOFFOLI, TEMA 754). FORMA DE CÁLCULO DOS PROVENTOS. NÃO INCIDÊNCIA DA LEI 10.887/2004. PRECEDENTES. ART. 97 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ALEGAÇÃO DE VIOLAÇÃO AO ART. 93, IX, DA CF. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DO AI 791.292 QO - RG (REL. MIN. GILMAR MENDES, DJE DE 13/8/2010). VIOLAÇÃO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ARE 748.371-RG (REL. MIN. GILMAR MENDES, TEMA 660). ANÁLISE DE DIREITO LOCAL E DE FATOS DA CAUSA. IMPOSSIBILIDADE. SÚMULAS 280 E 279 DO STF.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+    Outros precedentes: AI 845.577-AgR, Rel. Min. Dias Toffoli; ARE 729.761-AgR, Rel. Min. Gilmar Mendes; e RE 731.203-AgR, Rel. Min. Marco Aurélio.
+    Verifica-se, portanto, que o acórdão recorrido diverge da jurisprudência firmada por esta Corte.
+    Diante do exposto, com base no art. 557, § 1º, do CPC e no art. 21, § 1º, do RI/STF, dou provimento ao recurso extraordinário para restabelecer os termos da sentença.
+    Publique-se.
+          Brasília, 15 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
