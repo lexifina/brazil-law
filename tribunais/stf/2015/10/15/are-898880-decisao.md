@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto em face do acórdão da Terceira Turma Cível do Colégio Recursal do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “RESPONSABILIDADE CIVIL - Relação de consumo - Danos materiais - Falha na prestação do serviço – A parte requerida suspendeu os serviços da linha telefônica da parte requerente por sete dias sem justo motivo – Parte demandante demonstra que suas contas encontram-se quitadas – Parte demandada não apresenta qualquer justificativa para a falha nos serviços – Prejuízos evidentes tendo em vista que a parte autora utiliza o serviço da parte demandada para sua atividade econômica – Danos comprovados devendo ser ressarcidos – RECURSO NÃO PROVIDO. ” (fl. 190)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II e LIV, 37 da Constituição. Sustenta-se, em suma, ofensa aos princípios da proporcionalidade e razoabilidade ao ter o acordo impugnado fixado valor excessivo da indenização por danos morais, bem como ausência de dano moral indenizável. Aduz, ainda, que o termo inicial para a fluência dos juros moratórios nos danos morais deve ocorrer da data da fixação do valor da indenização, bem como violação ao princípio do devido processo legal.
+    A Vice Presidência do Tribunal de Justiça do Estado de São Paulo inadmitiu o recurso por incidir na hipótese a Súmula 284/STF.
+    Decido.
+    De plano, constato que as razões recursais não ataca os fundamentos do acórdão recorrido. O Tribunal de Justiça, no julgamento da apelação, confirmou a sentença pelos seus próprios fundamentos e, assim, manteve a condenação do agravante ao pagamento de indenização apenas a título de danos materiais. No extraordinário, o agravante aduz argumentação referente a condenação a título de danos morais, hipótese não tratada no acórdão impugnado. A incompatibilidade entre as razões expendidas no recurso e as que fundamentaram o acórdão recorrido atrai a incidência das Súmulas 282 e 284 do STF, a obstar o seguimento do extraordinário.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 15 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
