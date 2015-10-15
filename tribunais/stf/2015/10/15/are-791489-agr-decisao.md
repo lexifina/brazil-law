@@ -1,0 +1,18 @@
+AGRAVO REGIMENTAL. PREJUÍZO EM FACE DA RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. GRATIFICAÇÃO DE CARÁTER TRANSITÓRIO. MATÉRIA QUE AGUARDA O EXAME SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA Nº 163. RE 593.068. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    DECISÃO: Trata-se de agravo regimental interposto contra decisão de minha relatoria, cuja ementa transcrevo:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. GRATIFICAÇÃO DE CARÁTER TRANSITÓRIO. NÃO INCIDÊNCIA. REPETIÇÃO DO INDÉBITO. ANÁLISE DA NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+    1. As contribuições previdenciárias não devem incidir sobre verbas de caráter transitório, na medida em que não serão auferidas pelo servidor quando da aposentadoria. Precedentes: RE 463.348/PR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 7/4/2006, e AI 603.537-AgR/DF, Rel. Eros Grau, Segunda Turma, DJe de 3/3/2007.
+    2. A restituição de valores descontados indevidamente, já que incidentes sobre gratificação de caráter transitório, quando sub judice a controvérsia, encerra análise de normas infraconstitucionais. Precedentes: RE nº 613.433-ED, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8/10/2010 e RE nº 352.862-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe de 13/11/2012.
+    3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário.
+    4. In casu, o acórdão recorrido assentou: ‘Desconto previdenciário incidente sobre a gratificação denominada Delegacia Legal. Natureza propter laborem. Sentença de procedência, com determinação para devolução dos valores descontados. Recurso do Rioprevidência. Competência dos Juizados Fazendários confirmada. Cobrança de natureza parafiscal. Ausente o caráter tributário. Devida a devolução dos valores descontados a título de previdência uma vez que não há correspondência entre prestação e contraprestação, após a aposentadoria do servidor, ferindo o sistema contributivo-retributivo. Observância da prescrição quinquenal. Desconto que incide automaticamente no contracheque do servidor. Documentos juntados aos autos que comprovam que o recorrentes recebia a gratificação em questão. Manutenção da sentença. Condenação do recorrente ao pagamento da taxa judiciária em favor do FETJ, nos termos do Enunciado n. 42 contido no Avido TJ n. 57/2010 que se referencia a Súmula n. 145 do TJRJ e em honorários advocatícios de 10% sobre o valor da condenação.’
+    5. Agravo DESPROVIDO.”
+    O agravante sustenta, em síntese que “o que se debate é tema de natureza eminentemente constitucional consistente em saber se, após a Emenda Constitucional nº 41, contribuição previdenciária é devida ou não sobre a gratificação não incorporável." (Fl. 139).
+    À luz dos argumentos expostos, RECONSIDERO a decisão agravada, tornando-a sem efeito, e, por conseguinte, JULGO PREJUDICADO o agravo regimental.
+    Passo ao reexame do recurso.
+    A matéria versada no recurso extraordinário é objeto de exame por esta Corte na sistemática da repercussão geral (Tema nº 163, RE 593.068, Rel. Min. Roberto Barroso).
+    Ex positis, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental nº 21/2007), determino a DEVOLUÇÃO do feito à origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 15 de outubro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
