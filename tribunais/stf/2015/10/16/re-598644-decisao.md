@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão que decidiu pela possibilidade de tributação de ISSQN sobre a base de cálculo das empreiteiras o valor pago as subempreiteiras quando estas já houvessem pago o referido imposto pelo respectivo serviço, ao fundamento de que inexiste previsão legal no Decreto Lei nº 406/68 e na LC nº 116/2003, que autorize a dedução.
+    A pretensão merece acolhida, porquanto o acórdão recorrido está em desconformidade com a jurisprudência da Corte, no sentido da possibilidade de abatimento dos valores das subempreitadas. Confiram-se, a propósito, os precedentes a seguir:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ISS. CONSTRUÇÃO CIVIL. BASE DE CÁLCULO. ABATIMENTO DOS MATERIAIS E SUBEMPREITADAS. POSSIBILIDADE. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o art. 9º do Decreto-Lei 406/1968 foi recepcionado pela Constituição Federal de 1988. Pelo que é possível a dedução da base de cálculo do ISS dos valores dos materiais utilizados em construção civil e das subempreitadas. 2. Agravo regimental desprovido.” (RE 599.582/RJ-AgR, Rel. Min. Ayres Britto)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. MATERIAIS ADQUIRIDOS DE TERCEIROS E DE SUBEMPREITADAS. RECEPÇÃO DO ART. 9º DO DECRETO-LEI N. 406/68 PELA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. IMPOSSIBILIDADE DE INOVAÇÃO DE FUNDAMENTO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 431.891-AgR/ MG, Rel.ª Min.ª Cármen Lúcia).
+    “TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. EMPRESAS DE CONSTRUÇÃO CIVIL. DEDUÇÃO DO VALOR DE SUBEMPREITADAS TRIBUTADAS. ART. 9º, § 2º, ALÍNEA B, DO DECRETO-LEI N. 406/68. 1. O Decreto-Lei n. 406/68 foi recepcionado como lei complementar pela Constituição da República. Precedentes: Recursos Extraordinários ns. 236.604 e 220.323. 2. O disposto no art. 9º, § 2º, alínea b, do Decreto-Lei n. 406/68 não contraria a Constituição da República. 3. Recurso extraordinário não conhecido.” (RE 262.598/PR, Rel. Min. Ilmar Galvão)
+     Diante do exposto, com base no art. 557, § 1º-A, do CPC e no art. 21, § 1º, do RI/STF, dou provimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 16 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
