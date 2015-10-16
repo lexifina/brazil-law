@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado de São Paulo de inadmissibilidade de recurso extraordinário em face de acórdão ementado nos seguintes termos.
+    “APELAÇÃO CÍVEL – Mandado de Segurança – Imunidade – IPTU e taxas referentes ao exercício de 2005 – Instituição de assistência social, educacional e de saúde, sem fins lucrativos – Alegação de imunidade tributária – Pretendido reconhecimento da imunidade sobre imóveis de sua propriedade – Documentos nos autos que demonstram tal condição – Expedição de declaração de utilidade pública municipal, com validade até setembro de 2005 – A imunidade é uma garantia constitucional, prevista no art. 150, incio VI, “c”, da Constituição Federal – Alegada isenção das taxas – Não se vislumbra a cobrança de taxas no exercício de 2005 – Sentença reformada – Recurso Parcialmente Provido.” (fl. 352)
+    Opostos embargos declaratórios, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 150, VI, “c”; e 5º, LV, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que a Constituição Federal não estabeleceu uma imunidade tributária incondicionada, pois tal benefício constitucional está sujeito ao preenchimento de requisitos instituídos por lei (Código Tributário Nacional). Afirma-se, que o acórdão recorrido em nenhum momento analisou o efetivo preenchimento dos ditos requisitos. (fl. 399)
+    É o relatório.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Isso porque a jurisprudência desta Corte Suprema firmou-se no sentido de que a verificação do preenchimento dos requisitos legais e constitucionais ensejadores da concessão da imunidade tributária demanda a reapreciação dos fatos e provas constantes dos autos, o que inviabiliza o processamento do recurso extraordinário, nos termos do Enunciado 279 da Súmula do STF.
+     Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IPTU. LIMITAÇÕES AO PODER DE TRIBUTAR. IMUNIDADE. CF/88, ARTIGO 150, VI, “C” e § 4º. UTILIZAÇÃO DO IMÓVEL NAS FINALIDADES ESSENCIAIS DA ASSOCIAÇÃO. VERIFICAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. A imunidade tributária e o preenchimento dos seus requisitos constitucionais (CF, art. 150, VI, “c”) e legais não são aferíveis no e. STF posto encerrar a matéria o reexame de conteúdo relativo a fatos e provas inseridos nos autos, o que é inviável nesta instância mercê do teor da Súmula 279/STF, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. Agravo regimental provido para não conhecer do recurso extraordinário” (RE-AgR 625.529, Rel. Min. Luiz Fux, Primeira Turma, DJe 15.8.2011).
+    “Agravo regimental em agravo de instrumento 2. Imunidade Tributária. Entidade sem fins lucrativos. Comprovação de existência dos requisitos para concessão do benefício. Art. 14 do Código Tributário Nacional. Interpretação de legislação infraconstitucional. Ofensa reflexa. Súmula 279/STF. Precedentes. 3. Agravo regimental a que se nega provimento” (AI-AgR 512.985, de minha relatoria, Segunda Turma, DJe 9.11.2007).
+    Ademais, observa-se que o acórdão recorrido reconheceu a imunidade tributária nos termos do que estabelece a Súmula 724 do STF, segundo a qual, “Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel pertencente a qualquer das entidades referidas pelo art. 150, VI, “C”, da Constituição, desde que o valor dos aluguéis seja aplicado nas atividades essenciais de tais entidades”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 16 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
