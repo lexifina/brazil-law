@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXCEÇÃO DE INCOMPETÊNCIA. ANULATÓRIA DE INFRAÇÃO E PENALIDADE APLICADA PELA ANTT. INAPLICABILIDADE DA CLÁUSULA DE ELEIÇÃO DE FORO DO CONTRATO DE CONCESSÃO. COMPETÊNCIA DO JUÍZO ORIGINÁRIO.
+    Versando a ação sobre anulação de multa aplicada pela ANTT à ALL, é inviável a incidência da cláusula de eleição de foro, eis que a demanda não foi proposta contra o ente concedente nem objetiva dirimir controvérsias quanto à execução do contrato de concessão.
+    Mantida a decisão que rejeitou a exceção de incompetência.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, incisos XXXV e LV, 93, inciso IX, e 109, § 2º, da Constituição Federal, bem como da Súmula nº 335 desta Corte.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No que se refere aos artigos 5º, incisos XXXV e LV, e 93, inciso IX, da Constituição, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o acolhimento da pretensão recursal não prescinde da análise do conjunto fático-probatório dos autos e das cláusulas do referido contrato de concessão, o que se mostra incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 454 desta Corte.
+    Pacífica se mostra a jurisprudência do Supremo Tribunal Federal sobre o tema, citando-se para exemplificar, os seguintes precedentes:
+    “EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. CONTRATOS. FORO DE ELEIÇÃO. VALIDADE. SÚMULA 454. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. AGRAVO IMPROVIDO. I - A apreciação do recurso extraordinário demanda a interpretação de cláusulas contratuais. Incidência da Súmula 454 do STF. II – Esta Corte firmou jurisprudência no sentido de que é indireta ou reflexa a ofensa a Constituição, quando essa demandar a análise de normas infraconstitucionais. III – Embargos de declaração recebidos como agravo regimental a que se nega provimento (AI nº 784.718/RS-ED, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 22/2/11).
+    “AGRAVO REGIMENTAL. REVISÃO DE CLÁUSULA CONTRATUAL DE FORO DE ELEIÇÃO. SÚMULA 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL DESPROVIDO” (AI nº 577.475-AgR/SP, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJ de 16/2/07).
+    “1. Recurso extraordinário: descabimento: controvérsia de natureza infraconstitucional (Código de Defesa do Consumidor), decidida com base em fatos e provas, de reexame vedado no recurso extraordinário: incidência, mutatis mutandis, das Súmula 636 e Súmula 279. 2. Alegações improcedentes de negativa de prestação jurisdicional ou de violação do art. 5º, XXXV e LV, da Constituição Federal” (AI nº 597.064-AgR/BA, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ de 20/10/06).
+    No mesmo sentido, as seguintes decisões monocráticas: ARE 913.090/RS, Relator o Ministro Roberto Barroso, DJe de 24/9/15; RE 749.355/DF, Relatora a Ministra Cármen Lúcia, DJe de 9/10/13; e AI 684.713/RJ, de minha relatoria, DJe de 18/3/13.
+    Ressalte-se, por fim, que o verbete nº 335 da Súmula deste Supremo Tribunal Federal, que ampara as alegações recursais, foi editada quando esta Corte detinha competência para análise de matéria infraconstitucional, o que cessou com o advento da Constituição de 1988. Assim, a matéria objeto daquele enunciado, acerca da validade de cláusula de eleição de foro, descabe ser examinada em sede de recurso extraordinário, em virtude dessa discussão estar limitada ao campo das normas legais.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 16 de outubro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
