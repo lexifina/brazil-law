@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de arguição de descumprimento de preceito fundamental, com pedido de medida liminar, apresentada pelo Partido Progressista (PP). A arguição tem por objeto impugnar o artigo 3º da Lei 1.554/1990, do Município de Cabo de Santo Agostinho – PE, por suposta violação aos preceitos da acessibilidade aos cargos públicos, do concurso público e da estabilidade funcional dos servidores públicos, constantes nos artigos 37, I e II, e 41 da Constituição Federal; 18 e 19 do ADCT.
+    O referido artigo da Lei 1.554/1990 transformou empregos públicos em cargos, por meio do enquadramento automático dos servidores celetistas, a saber:
+    “LEI MUNICIPAL N. 1.554/90
+    (...)
+    Art. 3º - Os empregos ocupados pelos servidores incluídos no regime jurídico único, ora instituído, ficam transformados em cargos na data da vigência desta Lei.
+    § 1º - A transformação de que trata o “caput” deste artigo dar-se-á pelo enquadramento automático dos servidores celetistas, observada a equivalência de nomenclatura e atribuições dos cargos integrantes dos Quadros de Pessoal da Prefeitura.
+    § 2º - Os contratos individuais de trabalho se extinguem automaticamente pela transformação dos empregos ou funções, ficando assegurado aos respectivos ocupantes a continuidade da contagem do tempo de serviço para fins de férias”. (fls. 15-16)
+    O autor alega que a norma ora impugnada afronta os artigos 37, I e II, e 41 da Carta Magna, que preveem o provimento de cargos públicos mediante aprovação em concurso público e a estabilidade após 2 (dois) anos de efetivo exercício do cargo; e os artigos 18 e 19 do ADCT, que extinguem os efeitos jurídicos das concessões de estabilidade a servidores admitidos sem concurso público.
+    Requer a concessão de medida liminar para determinar a suspensão da vigência do artigo 3º da Lei 1.554/1990, do Município de Cabo de Santo Agostinho – PE, e de todos os processos, judiciais e/ou administrativos, que versem sobre seu teor.
+    Passo a decidir.
+    Nos termos da Lei 9.882/1999, cabe a arguição de descumprimento de preceito fundamental para evitar ou reparar lesão a preceito fundamental, resultante de ato do Poder Público (art. 1º, caput).
+    O parágrafo único do art. 1º explicita que caberá também a arguição de descumprimento quando for relevante o fundamento da controvérsia constitucional sobre lei ou ato normativo federal, estadual ou municipal, inclusive anteriores à Constituição.
+    Assim, poderá qualquer dos legitimados para a proposição de ação direta de inconstitucionalidade propor arguição de descumprimento toda vez que se configurar controvérsia relevante sobre a legitimidade do direito municipal (anterior ou não à Constituição), como no caso em análise, em que se questiona o art. 3º da Lei 1.554/1990, do Município de Cabo de Santo Agostinho – PE.
+    É fácil ver que a fórmula da relevância do interesse público, para justificar a admissão da arguição de descumprimento (explícita no modelo alemão), está implícita no sistema criado pelo legislador brasileiro, tendo em vista especialmente o caráter marcadamente objetivo que se conferiu ao instituto.
+    Para a comprovação de violação a preceito fundamental, não será suficiente a simples indicação de uma possível afronta à Constituição, sendo imprescindível caracterizar-se, fundamentadamente, a violação a um princípio ou elemento básico.
+    Registre-se que não se pode perder a dimensão de que a ADPF é destinada a resguardar a integridade da ordem jurídico-constitucional. Ou seja, essa ação não pode ser utilizada como mero sucedâneo para quaisquer demandas ou interesses subjetivos que estejam alegadamente afetados, sob pena de esvaziar o escopo desse instrumento constitucional. Há que se considerar a relevância do objeto da arguição para o ordenamento jurídico.
+    Cabe aqui questionar se o enquadramento automático de servidores celetistas no regime jurídico único municipal, instituído pelo art. 3º da Lei 1.554/90, representou, de fato, efetiva burla às normas contidas nos arts. 37, I e II, e 41 da Constituição Federal, ou seja, cabe verificar se houve desrespeito à previsão de concurso público para provimento de cargos na Administração Pública.
+    A rigor, as transformações dos empregos em cargos públicos no âmbito de prefeitura municipal por meio da Lei 1.554/90 não têm o condão de elidir objetivamente o preceito fundamental relativo ao provimento de cargos públicos mediante aprovação em concurso público, bem como aquele relativo à estabilidade no serviço público (CF, arts. 37, I e II, e 41).
+    A referida lei municipal apenas tratou da transformação de empregos públicos em cargos públicos, não dispondo, de maneira expressa, sobre a efetivação de servidores públicos municipais sem prévia aprovação em concurso público — circunstância que poderia caracterizar violação concreta ao disposto nos artigos 37, I e II, e 41 da CF de 1988.
+    Assim, não verifico ofensa direta ao princípio do concurso público.
+    Ademais, não há nos autos indícios que demonstrem a ocorrência de situações concretas no sentido do desrespeito aos preceitos da acessibilidade aos cargos públicos, do concurso público e da estabilidade funcional dos servidores públicos, constantes nos artigos 37, I e II, e 41 da Constituição Federal; 18 e 19 do ADCT.
+    Concluo, dessa forma, que não existem elementos que ensejem o reconhecimento da relevância jurídica dessa questão, no âmbito do controle objetivo, para a instauração da ADPF.
+    Nesses termos, nego seguimento à presente arguição de descumprimento de preceito fundamental por entender que o pedido é manifestamente incabível, nos termos do art. 21, § 1º, do RI/STF.
+    À Secretaria das Sessões, para que providencie a retirada da pauta.
+    Após o trânsito em julgado, arquivem-se os autos.
+    Publique-se.
+    Brasília, 19 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
