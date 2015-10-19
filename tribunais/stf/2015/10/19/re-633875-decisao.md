@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 779):
+    “SERVIDOR PÚBLICO. AÇÃO ORDINÁRIA. PRESCRIÇÃO. GDASS. PARIDADE ENTRE ATIVOS E INATIVOS.
+    A prescrição bienal, prevista no § 2º do art. 206, do Código Civil (regra geral de direito civil que se refere à prestação alimentar), não prepondera sobre regra especial de direito público (Decreto nº 20.910/32) de natureza estatutária (remuneratória).
+    A GDASS é devida aos servidores ativos, aos aposentados e aos pensionistas, no valor equivalente a 60% entre a edição da MP 146/2003 e a MP 359/2007, convertida na Lei 11.501/2007, e em 80 pontos, independentemente da efetiva aplicação dos critérios de avaliação de desempenho que venham a ser definidos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, § 8º, da Constituição.
+    O recurso extraordinário deve ser parcialmente provido, tendo em vista que o Plenário do Supremo Tribunal Federal, no julgamento do RE 662.406-RG, Rel. Min. Teori Zavascki, após reconhecer a repercussão geral da matéria, assentou a tese de que o termo final da extensão aos inativos das gratificações de desempenho, tal como a GDASS e a GDATA, nos mesmos percentuais em que concedida aos servidores ativos, é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo de avaliação. Assim, não há que se falar em violação ao princípio da irredutibilidade de vencimentos, uma vez que a partir da homologação, a gratificação perde sua natureza genérica e adquire o caráter pro labore faciendo. Nessa linha, veja-se trecho da ementa do ARE 881.402-AgR, julgado sob a relatoria do Ministro Teori Zavascki:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ART. 5º, XXXV E LV, DA CF/88. OFENSA CONSTITUCIONAL REFLEXA. SERVIDOR PÚBLICO. PENSIONISTAS. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE MÉDICO-PERICIAL (GDAMP). PARIDADE ENTRE ATIVOS E INATIVOS. TERMO FINAL. HOMOLOGAÇÃO DO RESULTADO DAS AVALIAÇÕES DE DESEMPENHO. REDUÇÃO DO PERCENTUAL PAGO. INFRINGÊNCIA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. INOCORRÊNCIA. PRECEDENTES.”
+    Vejam-se outros precedentes: RE 664.292-AgR, Rel. Min. Luiz Fux, Primeira Turma; e ARE 907.742, Rel. Min. Celso de Mello.
+    Diante do exposto, com base no art. 557, § 1º, do CPC e no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso extraordinário, para fixar a data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo de avaliação, como termo final do direito dos recorridos.
+    Publique-se.
+          Brasília, 19 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
