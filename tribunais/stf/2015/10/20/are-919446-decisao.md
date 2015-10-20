@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. CONTRARIEDADE AOS ARTS. 5º, INCS. XXXV E LV, E 7º, CAPUT E INCS. I A XXXIV, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+    “PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PEDIDO DE INGRESSO NA CAUSA NA CONDIÇÃO DE ASSISTENTE. CONSELHO FEDERAL DA OAB. AUSÊNCIA DE INTERESSE JURÍDICO. CRÉDITOS DECORRENTES DE HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. FALÊNCIA. HABILITAÇÃO. EQUIPARAÇÃO A CRÉDITO TRABALHISTA. MATÉRIA JULGADA SOB REGIME DOS RECURSOS REPETITIVOS (RESP N. 1.152.218/RS).
+    1. ‘A lei processual exige, para o ingresso de terceiro nos autos como assistente simples, a presença de interesse jurídico, ou seja, a demonstração da existência de relação jurídica integrada pelo assistente que será diretamente atingida pelo provimento jurisdicional, não bastando o mero interesse econômico, moral ou corporativo’ (AgRg na PET nos EREsp 910.993/MG, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 17/12/2012, REPDJe 19/02/2013, DJe 01/02/2013). No presente caso, não ficou demonstrado pelo Conselho Federal da Ordem dos Advogados do Brasil - CFOAB - o necessário interesse jurídico no resultado da demanda, o que inviabiliza o seu ingresso no feito como assistente simples.
+    2. No julgamento do REsp 1.152.218/RS, Rel. Ministro Luis Felipe Salomão, julgado em 7/5/2014, DJe 9/10/2014, a Corte Especial pacificou seu entendimento, submetendo-o à sistemática dos recursos repetitivos, no sentido de que os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam-se aos trabalhistas para efeito de habilitação em falência.
+    3. Embargos de divergência providos”.
+    Os embargos de declaração opostos foram “parcialmente acolhidos, sem efeitos modificativos, apenas para esclarecer o ponto questionado. Primeiros embargos de declaração de Valéria Maciel de Campos Lavorenti rejeitados e segundos não conhecidos”.
+    2. Os Agravantes alegam ter o Tribunal de origem contrariado os arts. 5º, incs. XXXV e LV, e 7º, caput e incs. I a XXXIV, da Constituição da República.
+    Argumentam sobre
+    “a necessidade de diferenciação entre os créditos trabalhistas strictu sensu, ou seja, decorrentes das relações de emprego, e os honorários advocatícios, cuja dessemelhança se justifica porque o trabalhador empregado, de acordo com o conceito previsto na Consolidação das Leis do Trabalho – CLT (Decreto-lei nº 5.452/1943), está sujeito às vicissitudes dessa condição vulnerável em relação ao empregador, este como detentor do capital, razão porque a legislação lhe atribui especial proteção, como corolário da natureza social das regras trabalhistas, sempre voltadas à melhoria da condição social dos obreiros, em complemento ou conformação das expressas garantias constitucionais, notadamente a proteção do salário e contra despedida arbitrária ou sem justa causa, com indenização compensatória e outros direitos, consoante disposto no art. 7º da Constituição Federal”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste aos Agravantes.
+    6. A alegada contrariedade aos arts. 5º, incs. XXXV e LV, e 7º, caput e incs. I a XXXIV, da Constituição da República não foi objeto de debate e decisão prévios pelo Tribunal de origem, tampouco os embargos de declaração opostos o foram com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI n. 580.465-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2008).
+    Nada há a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de outubro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
