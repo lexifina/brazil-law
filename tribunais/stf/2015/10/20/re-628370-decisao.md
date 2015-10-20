@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa reproduzo a seguir:
+    “Ação direta de inconstitucionalidade – Anexo da Lei nº 1.690, de 5 de julho de 2002 e artigo 1º, da Lei nº 1.722, de 13 de agosto de 2003, do Município de Barrinha – Criação de cargos de provimento em comissão, destinados, muitos deles, a funções burocráticas ou técnicas de caráter permanente (Procurador Jurídico, Vice-Diretor, Coordenador Pedagógico e Orientador Educacional) – Inadmissibilidade – Dispositivo, ademais, que deixou de descrever as atribuições e responsabilidades de cada um dos cargos, impossibilitando a verificação de que foram criados exclusivamente para os casos constitucionalmente permitidos (direção, chefia e assessoramento) – Violação dos artigos 111, 115, I e II e 144 da Constituição do Estado de São Paulo – Ação procedente.” (fl. 77)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida.
+    No mérito, defende-se, em síntese, que as Leis Municipais nºs 1.690/2002 (anexo de cargos em comissão) e 1.722/2003 (art. 1º), que criaram os cargos de Procurador Jurídico, Supervisor de Ensino, Vice-Diretor, Coordenador Pedagógico e Orientador Educacional, não ofenderam a ordem jurídica. Alega-se que os cargos se destinam a funções de assessoria, direção e chefia, sendo que tais contratações devem ser embasadas apenas na relação de confiança. Sustenta-se, que “a mera denominação dos cargos não é elemento suficiente para aferir o rol de atribuições do mesmo” (fl. 103)
+    Pleiteia-se, subsidiariamente, a modulação dos efeitos da decisão, uma vez que “os dispositivos declarados inconstitucionais já estão em vigor à vários anos, tendo os servidores públicos investidos nos respectivos cargos já prestados os serviços, aliás, servindo o público de maneira satisfatória” (sic) (fl. 97).
+    É o relatório.
+    Decido.
+    As razões recursais não merecem prosperar.
+    É que o Supremo Tribunal Federal já se posicionou no sentido da ausência de legitimidade recursal da pessoa jurídica de direito público para atuar no processo de controle normativo abstrato.
+    Verifico que o presente recurso extraordinário foi interposto pela Municipalidade de Barrinha (pessoa jurídica de direito público interno) e, ademais, subscrita por advogado constituído.
+    Portanto, o apelo extremo não poderia ser interposto sem necessariamente estar subscrito pelo Chefe do Poder Executivo municipal.
+    Assim, confira-se a ementa do RE-AgR 831.936, Rel. Min. Celso de Mello, 2ª Turma, DJe 7.10.2014:
+     “AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZADA PERANTE TRIBUNAL DE JUSTIÇA ESTADUAL (CF, art. 125, § 2º) – RECURSO EXTRAORDINÁRIO INTERPOSTO, EM REFERIDO PROCESSO DE CONTROLE ABSTRATO, PELO PROCURADOR-GERAL DO MUNICÍPIO – DECISÃO DO RELATOR QUE NÃO CONHECEU DO MENCIONADO APELO EXTREMO – A QUESTÃO DA LEGITIMIDADE ATIVA (E RECURSAL) DO PRÓPRIO MUNICÍPIO E DE SEU PROCURADOR-GERAL, EM SEDE DE FISCALIZAÇÃO CONCENTRADA DE CONSTITUCIONALIDADE – RECURSO DE AGRAVO IMPROVIDO. AUSÊNCIA DE LEGITIMIDADE RECURSAL DO PROCURADOR-GERAL DO MUNICÍPIO EM SEDE DE CONTROLE NORMATIVO ABSTRATO. - É do Prefeito do Município, e não do próprio Município ou de seu Procurador-Geral, a legitimidade para fazer instaurar, mesmo em âmbito local (CF, art. 125, § 2º), o processo de fiscalização abstrata de constitucionalidade e, neste, interpor os recursos pertinentes, inclusive o próprio recurso extraordinário. Precedentes”.
+    No mesmo sentido, o ARE 751.958/MG, de minha relatoria, DJe 1.6.2015; e o RE-AgR 680.423/SP, Rel. Min. Celso de Mello, DJe 1.8.2013.
+    Ainda que assim não fosse, nos termos do parecer do Ministério Público Federal (fl. 137), “aquilatar a natureza das atribuições dos cargos em comissão criados pela municipalidade, para o fim de reverter a decisão do Tribunal a quo, envolveria o reexame do contexto fático-probatório e a incursão na legislação infraconstitucional”.
+    Ante o exposto, conheço do presente agravo para negar provimento ao recurso extraordinário (art. 544, §4º, II, b, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 20 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
