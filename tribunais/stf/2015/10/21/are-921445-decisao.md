@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão da 3ª Turma Recursal dos Juizados Especiais Federais de Pernambuco, assim ementado (eDOC 18, p. 1):
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REEXAME DA MATÉRIA. NÃO CABIMENTO. INEXISTÊNCIA DE OMISSÃO. MATÉRIA DEVIDAMENTE ANALISADA. EMBARGOS DE DECLARAÇÃO IMPROVIDOS.”
+    Os embargos de declaração opostos restaram prejudicados.
+    No recurso extraordinário, com fundamento no artigo 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 5º, LXXIV, da Constituição Federal.
+    Nas razões recursais, assevera estar a parte representada pela Defensoria Pública, situação indicativa da necessidade do benefício da assistência judiciária gratuita, indeferida pela Turma Recursal.
+    A Presidência da 3ª Turma Recursal inadmitiu o recurso por entender que não houve impugnação de todos os fundamentos do acórdão recorrido.
+    É o relatório. Decido.
+    O recurso extraordinário merece provimento.
+    A agravante afirma ter feito o pedido de benefício de gratuidade, o qual não foi apreciado, tanto pelo juiz singular quanto pela Turma Recursal.
+    A jurisprudência desta Corte é firme no sentido de que basta a simples manifestação sobre a incapacidade financeira para outorga do direito ao benefício da gratuidade da justiça.
+    Nesse sentido, afirmou o Ministro Celso de Mello ao julgar o RE 245.646-AgR, Rel. Min. Celso de Mello, DJe 13.02.2009:
+    “AGRAVO REGIMENTAL - AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS EM QUE SE ASSENTOU O ATO DECISÓRIO QUESTIONADO - CONSEQÜENTE DESCUMPRIMENTO DE DEVER PROCESSUAL QUE INCUMBE À PARTE AGRAVANTE - PEDIDO DE CONCESSÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA, FORMULADO POR SERVIDORES PÚBLICOS, QUE NÃO FOI APRECIADO PELO ÓRGÃO JUDICIÁRIO COMPETENTE - HIPÓTESE DE DEFERIMENTO TÁCITO - INOCORRÊNCIA DE DESERÇÃO RECURSAL - RECURSO DE AGRAVO IMPROVIDO. O RECURSO DE AGRAVO DEVE IMPUGNAR, ESPECIFICADAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. - O recurso de agravo a que se referem os arts. 545 e 557, § 1º, ambos do CPC, deve infirmar todos os fundamentos jurídicos em que se assenta a decisão agravada. O descumprimento dessa obrigação processual, por parte do recorrente, torna inviável o recurso de agravo por ele interposto. Precedentes. ALEGAÇÃO DE INCAPACIDADE FINANCEIRA E CONCESSÃO DO BENEFÍCIO DA GRATUIDADE. - O acesso ao benefício da gratuidade, com todas as consqüências jurídicas dele decorrentes, resulta da simples afirmação, pela parte (pessoa física ou natural), de que não dispõe de capacidade para suportar os encargos financeiros inerentes ao processo judicial, mostrando-se desnecessária a comprovação, pela parte necessitada, da alegada insuficiência de recursos para prover, sem prejuízo próprio ou de sua família, as despesas processuais. Precedentes. - Se o órgão judiciário competente deixar de apreciar o pedido de concessão do benefício da gratuidade, reputar-se-á tacitamente deferida tal postulação, eis que incumbe, à parte contrária, o ônus de provar, mediante impugnação fundamentada, que não se configura, concretamente, o estado de incapacidade financeira afirmado pela pessoa que invoca situação de necessidade. Precedentes.”
+    Ante o exposto, com fundamento no arts. 544, § 4º, “c” do CPC e 21, § 1º do RISTF, conheço do agravo e dou provimento ao recurso extraordinário para anular o acórdão e determinar que a Turma Recursal aprecie o pedido de gratuidade de justiça e, após, prossiga no julgametno de mérito.
+    Publique-se.
+    Brasília, 21 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
