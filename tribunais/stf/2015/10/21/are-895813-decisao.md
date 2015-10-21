@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “AGRAVO REGIMENTAL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE ANÁLISE FÁTICO-PROBATÓRIA. SÚMULA 393 DO C. STJ. INADEQUAÇÃO DA VIA ELEITA. RECURSO A QUE SE NEGA PROVIMENTO”. (fl. 219)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a” e “c”, da Constituição Federal, aponta-se violação ao artigo 5º, XXXV, LIV e LV, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, cabível a exceção de pré-executividade na execução fiscal quanto faltar algum requisito específico no título executivo.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    No caso, o Tribunal de origem decidiu o seguinte:
+    “Inicialmente cumpre ressaltar que é assente na jurisprudência o cabimento da exceção de pré-executividade, independentemente da interposição de embargos à execução e, portanto, sem a garantia do Juízo, quando as questões apresentadas nesta via de defesa possam ser conhecidas de ofício pelo julgador e não dependam de dilação probatória.
+    (…)
+    Assim, conforme ressaltado pelo d. magistrado a quo, a questão posta demanda análise fático-probatória, com apreciação do procedimento administrativo de constituição do crédito exigido pelo Fisco, independentemente da alegação de inconstitucionalidade da exação cuja incidência se pretenda afastar, restando portanto, inadequada a via eleita, cabendo à ora agravante insurgir-se por meio de embargos.”. (fl. 219-verso)
+    Para ultrapassar as premissas firmadas nas instâncias originárias, faz-se imprescindível o reexame do acervo fático-probatório dos autos e da legislação infraconstitucional aplicável (Lei 6.830/1980 e Código de Processo Civil) , providência vedada na via do apelo extremo, nos termos das Súmulas 279 e 636 do STF.
+    Cito, a propósito, o AI-AgR 738.998, Primeira Turma, Rel. Min. Luiz Fux, DJe 17.10.2011; e o ARE-RG 664.466, Segunda Turma, de minha relatoria, DJe 29.5.2012, cujas ementas dispõem respectivamente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. NOMEAÇÃO DE BENS À PENHORA. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE OFENSA AO ARTIGO 93, IX, DA CONSTITUIÇÃO FEDERAL. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. A súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, mas, sendo prescindível que a mesma se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13,08.2010. 5. Agravo regimental a que se nega provimento”.
+    “Agravo regimental em recurso extraordinário com agravo. 2. Tributário. Execução fiscal. Penhora de precatório. Matéria infraconstitucional. Precedentes. 3. Agravo regimental a que se enga provimento”.
+    Ressalto, ainda, em relação à suposta ofensa aos princípios da prestação jurisdicional, da ampla defesa e do contraditório, que os assuntos versados no recurso extraordinário correspondem aos temas 339 e 660 da sistemática da repercussão geral, cujos paradigmas são os AI-QO-RG 791.292, DJe 13.8.2010 e o ARE-RG 748.371, DJe 1º.8.2013, ambos de minha relatoria. Logo, também não assiste razão à recorrente nesse ponto.
+    Quanto ao mérito trazido pelo recorrente, vislumbra-se a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão recorrido, de modo a dar ensejo à aplicação da Súmula 284 do STF.
+    Nesse sentido, é pacífica a jurisprudência desta Corte. Confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. 1. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. (…) AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (grifei) (RE-AgR 601.686, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1º.2.2011)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 21 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
