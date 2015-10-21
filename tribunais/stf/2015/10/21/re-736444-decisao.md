@@ -1,0 +1,44 @@
+Decisão:
+    Vistos.
+    Conforme decisão de fl. 619, determinei a devolução destes autos ao Tribunal de origem para que fosse aplicado o disposto no artigo 543-b do Código de Processo Civil. Mencionei na decisão que a questão controvertida nos autos corresponde ao Tema nº 514 da Gestão por Temas da Repercussão Geral do portal do STF na internet que trata do “aumento da carga horária de servidores públicos, sem a devida contraprestação remuneratória”.
+    Às fls. 624/625 dos autos, o Vice-Presidente do Tribunal de origem entendeu que o acórdão recorrido “não diverge da orientação jurisprudencial emanada da Suprema Corte, nos termos da tese jurídica firmado no precedente de repercussão geral trazido à colação” e, consequentemente, negou seguimento ao recurso extraordinário.
+    Insurgem-se os autores contra essa decisão, asseverando que “a competência para tanto é da Turma Julgadora que pode manter a decisão objeto do recurso ou retratar-se” (fl. 633).
+    Decido.
+    Saliento, inicialmente, que esta Corte, na sessão plenária do dia 19/11/09, por unanimidade, resolveu questão de ordem no AI nº 760.358/SE, Relator o Ministro Gilmar Mendes, enunciando, de forma clara, o procedimento a ser adotado em casos como o presente, importando anotar os seguintes trechos do eminente voto do Relator:
+    “A Lei 11.418/2006, ao regulamentar a repercussão geral e promover alterações substanciais no Código de Processo Civil, em seis dispositivos diferentes, atribuiu ao STF, mediante alterações em seu Regimento Interno, a tarefa de definir os procedimentos no caso de recursos múltiplos, bem como as atribuições dos Ministros, das Turmas e de outros órgãos na análise da repercussão geral:
+    ‘CPC, art. 543-A, § 5º Negada a existência da repercussão geral, a decisão valerá para todos os recursos sobre matéria idêntica, que serão indeferidos liminarmente, salvo revisão da tese, tudo nos termos do Regimento Interno do Supremo Tribunal Federal.
+    CPC, art. 543-A, § 6º O Relator poderá admitir, na análise da repercussão geral, a manifestação de terceiros, subscrita por procurador habilitado, nos termos do Regimento Interno do Supremo Tribunal Federal.
+    CPC, art. 543-B. Quando houver multiplicidade de recursos com fundamento em idêntica controvérsia, a análise da repercussão geral será processada nos termos do Regimento Interno do Supremo Tribunal Federal, observado o disposto neste artigo.
+    CPC, art. 543-B, § 4º Mantida a decisão e admitido o recurso, poderá o Supremo Tribunal Federal, nos termos do Regimento Interno, cassar ou reformar, liminarmente, o acórdão contrário à orientação firmada.
+    CPC, art. 543-B, § 5º O Regimento Interno do Supremo Tribunal Federal disporá sobre as atribuições dos Ministros, das Turmas e de outros órgãos, na análise da repercussão geral.’
+    ‘Lei 11.418/2006, art. 3º Caberá ao Supremo Tribunal Federal, em seu Regimento Interno, estabelecer as normas necessárias à execução desta Lei.’
+    Assim o fez a Corte, editando emendas ao regimento interno e regulando os procedimentos relacionados à tramitação dos recursos de sua competência (extraordinários e agravos), no seu próprio âmbito e no âmbito dos tribunais de origem.
+    E, pela primeira vez, os Tribunais de origem tiveram a atribuição de sobrestar e de pôr termo aos agravos de instrumento.
+    Bem sabemos que nossa jurisprudência, no regime anterior, não admitia semelhante competência. Mas tal atribuição é inevitável, principalmente considerando-se que toda a reforma constitucional foi concebida com o objetivo evitar julgamentos repetidos e sucessivos de uma mesma questão constitucional.
+    Agora, uma vez submetida a questão constitucional à análise da repercussão geral, cabe aos tribunais dar cumprimento ao que foi estabelecido, sem a necessidade da remessa dos recursos individuais.
+    Caso contrário, se o STF continuar a ter que decidir caso a caso, em sede de agravo de instrumento, mesmo que os Ministros da Corte apliquem monocraticamente o entendimento firmado no julgamento do caso-paradigma, a racionalização objetivada pelo instituto da repercussão geral, de maneira alguma, será alcançada.
+    Assim, a competência para a aplicação do entendimento firmado pelo STF é dos tribunais e das turmas recursais de origem. Não se trata de delegação para que examinem o recurso extraordinário nem de inadmissibilidade ou de julgamento de recursos extraordinários ou agravos pelos tribunais e turmas recursais de origem. Trata-se, sim, de competência para os órgãos de origem adequarem os casos individuais ao decidido no leading case, mediante:
+    a) registro da automática inadmissibilidade (§ 5º do art. 543-A) ou do indeferimento liminar dos recursos sobrestados (§ 2º do art. 543-B), cujas matérias se identifiquem como aquelas em que se tenha negado repercussão geral;
+    b) registro do prejuízo dos recursos contra decisões conformes à jurisprudência da Corte em matéria cuja repercussão geral já foi assentada e que já teve o mérito julgado; e
+    c) juízo de retratação, nos casos em que a repercussão geral fora assentada e cujo julgamento posterior de mérito, pelo STF, resulte contrário ao entendimento a que chegou a Corte de origem, na decisão objeto de recurso extraordinário.
+    Os instrumentos para essa adequação de entendimentos aos casos que envolvam a mesma matéria constitucional serão a retratação, o registro de prejuízo ou a automática inadmissibilidade, conforme prevê o supracitado art. 543-B, §3º, do CPC.
+    (...)
+    A única hipótese, admitida pela lei, de remessa do recurso múltiplo ao STF é a da recusa de retratação da tese de mérito pelo tribunal de origem. A lei criou a exceção (art. 543-B, §4º, do CPC) e como exceção se interpreta restritivamente, não seria o caso de alargá-la.
+    (...)
+    Apenas os casos de negativa de retratação podem subir, se os recursos extraordinários cumprirem os pressupostos para o seu recebimento e, aí, sim, falaremos em juízo de admissibilidade tradicional (art. 543-B, § 4º. Mantida a decisão e admitido o recurso, poderá o Supremo Tribunal Federal, nos termos do Regimento Interno, cassar ou reformar, liminarmente, o acórdão contrário à orientação firmada). (negrito nosso)”
+    Nessa linha, a esta Corte caberá decidir, por esta sistemática, apenas a questão jurídica que não foi objeto de reconsideração pelo Tribunal de origem, desde que mantida a decisão anterior e que seja possível conhecer-se do recurso extraordinário.
+    Ocorre que essa sistemática não foi devidamente adotada pelo Tribunal de origem, uma vez que foi negado seguimento ao recurso extraordinário pela Vice-Presidência daquela Corte sem submetê-lo ao órgão prolator do acórdão impugnado, conforme sistemática imposta pela norma do § 3 do art. 543-B do Código de Processo Civil, in verbis:
+    “§ 3º Julgado o mérito do recurso extraordinário, os recursos sobrestados serão apreciados pelos Tribunais, Turmas de Uniformização ou Turmas Recursais, que poderão declará-los prejudicados ou retratar-se” (grifei).
+    Nesse sentido, anote-se recente decisão proferida no ARE nº 695.131/SP, Relator o Ministro Marco Aurélio, DJe de 15/10/15:
+    “REPERCUSSÃO GERAL ADMITIDA – COMPETÊNCIA – EXAME DE EXTRAORDINÁRIO SOBRESTADO NA ORIGEM – ÓRGÃO PROLATOR DO ACÓRDÃO ATACADO – ARTIGO 543-B, § 3º e § 4º, DO CÓDIGO DE PROCESSO CIVIL.
+    1. No ato de folha 188, examinou-se o mérito do recurso sobrestado e concluiu-se que a situação concreta não se assemelha à veiculada no Recurso Extraordinário nº 563.708/MS, determinando-se a remessa do processo ao Supremo.
+    2. Percebam a organicidade do Direito instrumental. O pronunciamento não se harmoniza com a sistemática instituída pelo artigo 543-B, § 3º e § 4º, do Código de Processo Civil. De acordo com o regime da repercussão geral, a competência para julgar extraordinários sobrestados na origem é do órgão prolator do acórdão impugnado. Não pode a Presidência do Colégio Recursal substituir-se à Terceira Turma de Fazenda Pública do Colégio Recursal de São Paulo e analisar se a tese assentada no paradigma indicado pelo Supremo deve ser observada no caso.
+    No mais, a decisão de folha 167 já transitou em julgado, sendo inviável a revisão do ato, de ofício, pelo Poder Judiciário.
+    3. Ante o quadro, determino a devolução do processo à origem, para que se cumpra o disposto no artigo 543-B, § 3º e § 4º, do Código de Processo Civil.
+    4. Publiquem.”
+    Dessa forma, determino o retorno dos autos ao Tribunal de origem para que seja aplicado o disposto no artigo 543-B, § 3º e 4º, do Código de Processo Civil, observando-se a competência do órgão prolator do acórdão impugnado para apreciação do feito, com a recomendação para que o Tribunal de origem assim também proceda no futuro.
+    Publique-se.
+    Brasília, 21 de outubro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
