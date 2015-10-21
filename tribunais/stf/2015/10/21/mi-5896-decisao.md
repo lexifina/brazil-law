@@ -1,0 +1,26 @@
+DECISÃO:
+Ementa: DIREITO ADMINISTRATIVO. MANDADO DE INJUNÇÃO COLETIVO. REVISÃO ANUAL DA REMUNERAÇÃO DOS SERVIDORES PÚBLICOS.
+1. A jurisprudência do Supremo Tribunal Federal se firmou no sentido de que, com a edição das Leis nº 10.331/2001 e 10.697/2003, restou regulamentado o art. 37, X, da Constituição.
+2. Ainda que assim não fosse, a categoria substituída pelo impetrante foi contemplada por reestruturação de carreira e reajustes. Dessa forma, mesmo que houvesse uma omissão quanto à regulamentação, em tese, do art. 37, X, da Carta, a categoria em tela não teria interesse jurídico em reclamá-la no período a que se refere a presente ordem.
+3. Writ a que se nega seguimento.
+    1. Trata-se de mandado de injunção coletivo impetrado em favor dos Policiais Rodoviários Federais no Rio de Janeiro. Em síntese, alega-se existência de uma omissão legislativa quanto à revisão anual da remuneração dos servidores, prevista no art. 37, X, da Constituição, no período compreendido entre os anos de 1999 e 2013.
+    2. É o relatório. Decido.
+    3. Dispenso as informações, por considerar o feito suficientemente instruído, bem como o parecer ministerial, por se tratar de matéria conhecida do Plenário desta Corte (RI/STF, art. 52, p. único).
+    4. A jurisprudência do STF se firmou no sentido de que, com a edição das Leis nºs 10.331/2001 e 10.697/2003, restou regulamentado o art. 37, X, da Constituição. Dessa forma, como a “falta de norma regulamentadora” (CF/88, art. 5º, LXXI) é pressuposto de admissibilidade do mandado de injunção, presente a regulamentação ordinária, não se pode conhecer do writ. É igualmente pacífico que a eventual inefetividade ou limitação da norma legal é insuscetível de debate nesta sede. Veja-se:
+    “MANDADO DE INJUNÇÃO. REVISÃO GERAL ANUAL. ART. 37, X, DA CONSTITUIÇÃO FEDERAL, EXISTÊNCIA DE LEI REGULAMENTADORA. DESCABIMENTO DO MANDADO DE INJUNÇÃO. AGRAVO DESPROVIDO.
+    1. Segundo a jurisprudência do STF, a existência, ainda que superveniente, de norma regulamentadora do direito constitucional pretendido leva à perda do objeto do mandado de injunção. A Lei 10.331/2001 regulamentou o art. 37, X, da Constituição, conferindo-lhe eficácia plena, e está em vigor desde 19 de dezembro de 2001. Posteriormente, a Lei 10.697/2003 também cumpriu o dispositivo constitucional. Ainda, o mandado de injunção não é o meio processual adequado para questionar a efetividade e a abrangência da lei regulamentadora. Fundamentos observados pela decisão agravada. Apresentação de novos argumentos e pedido de efeitos infringentes.
+    2. Agravo regimental desprovido.” (MI 4409 AgR-ED-AgR/DF, Rel. Min. Teori Zavascki)
+    5. Na mesma linha: MI 1.903, Rel. Min. Luiz Fux; MI 2.411, Rel. Min. Rosa Weber; MI 1.872, Rel. Min Cármen Lúcia; MI 2.513, Rel. Min. Joaquim Barbosa; MI 693, Rel. Min. Gilmar Mendes.
+    6. A propósito, consigno meu entendimento pessoal, expresso no RE 565.089, Rel. Min. Marco Aurélio, com julgamento em repercussão geral ainda não concluído, no sentido de que o art. 37, X, da Constituição não deve ser utilizado para indexar a economia, não sendo violado quando o Poder Executivo justifica ao Congresso a impossibilidade de conceder uma revisão geral anual.
+    7. Ainda que assim não fosse, a categoria substituída pelo impetrante (Policiais Rodoviários Federais no Rio de Janeiro) foi contemplada por reestruturações de carreira e reajustes salariais. É o que se extrai dos seguintes instrumentos normativos:
+    Lei nº 10.698/2003 - “Dispõe sobre a instituição de vantagem pecuniária individual devida aos servidores públicos civis da Administração Federal direta, autárquica e fundacional”;
+    Lei nº 11.358/2006 - ”Dispõe sobre a remuneração dos cargos […] da Carreira Policial Federal, de que trata a Lei nº 9.266, de 15 de março de 1996, e a reestruturação dos cargos da Carreira de Policial Rodoviário Federal, de que trata a Lei nº 9.654, de 2 de junho de 1998 [...]”;
+    Lei nº 11.784/2008 - “Dispõe sobre a reestruturação […] da Carreira de Policial Rodoviário Federal, de que trata a Lei nº 9.654, de 2 de junho de 1998, do Plano Especial de Cargos do Departamento de Polícia Rodoviária Federal, de que trata a Lei nº 11.095, de 13 de janeiro de 2005 [...]”;
+    Lei nº 12.775/2012 - “Dispõe sobre a remuneração […] dos cargos de Delegado de Polícia Federal e de Perito Criminal Federal da Carreira Policial Federal, da Carreira de Policial Rodoviário Federal [...]”.
+    8. A última lei acima citada tem efeitos financeiros até 2015. Dessa forma, mesmo que houvesse uma omissão quanto à regulamentação, em tese, do art. 37, X, da Constituição, a categoria em tela não teria interesse jurídico em reclamá-la nos anos apontados, porque alcançada por aumentos periódicos.
+    9. Se a eventual mora pretérita da União tiver gerado algum prejuízo aos substituídos do impetrante, tratar-se-ia de uma demanda condenatória comum, cabendo-lhe postular o que entender devido nas vias próprias. Não é a esse fim que se presta o mandado de injunção.
+    10. Diante do exposto, com base no art. 10 da Lei nº 12.016/2009 c/c o art. 24, parágrafo único, da Lei nº 8.038/1990, e no art. 21, § 1º, do RI/STF, nego seguimento ao mandado de injunção.
+    Publique-se. Intimem-se.
+          Brasília, 21 de outubro de 2015
+Ministro LUÍS ROBERTO BARROSO
+Relator
