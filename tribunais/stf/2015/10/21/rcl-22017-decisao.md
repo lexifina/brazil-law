@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido liminar, ajuizada em face de decisão do Juizado Especial Cível da Comarca de Jaú/SP, que deferiu medida liminar para suspender a cobrança das taxas de Conservação de Via e Logradouros Públicos e Serviços de Bombeiros, instituídas pelo Município de Jahu/SP. Considerou-se que os fatos geradores daquelas taxas não constituíam exercício regular do poder de polícia ou utilização potencial ou efetiva de serviços públicos específicos e divisíveis.
+    Insurge-se o Município de Jahu/SP, sob a alegação de afronta autoridade da Súmula Vinculante 19 (“A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o artigo 145, II, da Constituição Federal”). Afirma que a decisão reclamada “apreciando a validade da taxa de limpeza pública instituída pelo Município de Jahu (art. 97 da Lei n° 2.288/1985), acabou por declará-la inconstitucional”, em despeito à jurisprudência do STF.
+    É o relatório. Decido.
+    De início, supero o erro material na indicação do processo de origem. O Município apontou, na inicial, os autos nº 1002097-98.2015.8.26.0302 como de origem, mas juntou peças do processo nº 1004029-24.2015.8.26.0302. Observo que, conforme acompanhamento processual eletrônico do TJ/SP, o primeiro processo versa sobre dano moral, e o segundo sobre inexigibilidade de crédito tributário, o que permite concluir que o erro ocorreu na petição, não na juntada das peças.
+    Estando o feito suficientemente instruído, dispenso as informações, bem como o parecer ministerial, em razão do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único).
+    O pedido não prospera. O juízo reclamado deferiu parcialmente liminar “para suspender a exigibilidade das taxas de conservação de vias públicas e bombeiros, frise apenas e exclusivamente neste aspecto, suspendendo parcialmente a exibilidade das CDAs no que pertine às taxas (não obstante da cobrança do IPTU)”  (destaques originais).
+    No entanto, o Município de Jahu/SP alega que foi suspensa a exigibilidade da taxa de limpeza pública, tributo que, embora objeto da ação de origem, não foi englobado pela decisão reclamada. Ademais, a taxa de conservação de vias e logradouros públicos e a taxa de bombeiros, as quais foram objeto da decisão reclamada, não encontram amparo na Súmula Vinculante 19. Nessa circunstâncias, o pedido não pode ser conhecido.
+    Diante do exposto, com fundamento no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, ficando prejudicado o pedido liminar.
+    Publique-se. Intime-se. Comunique-se.
+          Brasília, 21 de outubro de 2015
+Ministro LUÍS ROBERTO BARROSO
+Relator
