@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 25, p. 6):
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS Nº 20/1998 E 41/2003. ADEQUAÇÃO AO NOVO TETO.
+    - O aposentado que teve seu benefício limitado ao teto vigente à época de sua concessão, com o advento das Emendas Constitucionais nº 20/98 e 41/03, que elevou o teto dos benefícios previdenciários para R$ 1.200,00 (hum mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), respectivamente, teria direito à aplicação do novo teto e reajuste do valor percebido.
+    - O valor do novo teto fixado pela Emenda Constitucional nº 20/98 tem aplicação imediata aos benefícios já concedidos, inclusive aqueles deferidos antes da sua edição: Precedentes do STF, RE Nº 564.354/SE, Relatora a Ministra CÁRMEN LÚCIA.
+    - No caso, o benefício foi concedido em maio de 1989, tratando-se de benefício que não foi atingindo pelas Emendas Constitucionais 20/98 e 41/03, como já decidido pelo Supremo Tribunal Federal, -STF, razão por que não tem direito o Autor à revisão.
+    - Incabível a revisão requerida, eis que o benefício concedido não era limitado ao teto da Previdência Social.
+    - Apelação e Remessa providos.
+    Os embargos de declaração opostos restaram prejudicados.
+    No recurso extraordinário, com fundamento no artigo 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 5º, XXXVI, da Constituição Federal.
+    Nas razões recursais, alega-se a não aplicação do entendimento do Supremo na oportunidade em que julgou o RE 564.354, Rel. Min. Cármen Lúcia.
+    A Vice-Presidência do TRF da 2ª Região inadmitiu o recurso por aplicação das Súmulas 279 do STF.
+    É o relatório. Decido.
+    Inicialmente, verifico que a controvérsia dos autos não diverge do que decidido no RE-RG 564.354, Rel. Min. Cármen Lúcia, DJe 15.02.2011.
+    Em detida análise das razões de decidir do citado paradigma, constata-se que o Plenário reconheceu a repercussão do tema e, no mérito, concluiu pela não violação à Constituição Federal a aplicação imediata, aos benefícios em manutenção, dos novos tetos dos benefícios do Regime Geral de Previdência Social, alterados pelas Emendas Constitucionais 20/98 e 41/03. Confira-se a ementa:
+    “DIREITOS CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO NO TETO DOS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA. REFLEXOS NOS BENEFÍCIOS CONCEDIDOS ANTES DA ALTERAÇÃO. EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. DIREITO INTERTEMPORAL: ATO JURÍDICO PERFEITO. NECESSIDADE DE INTERPRETAÇÃO DA LEI INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA IRRETROATIVIDADE DAS LEIS. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO. 1. Há pelo menos duas situações jurídicas em que a atuação do Supremo Tribunal Federal como guardião da Constituição da República demanda interpretação da legislação infraconstitucional: a primeira respeita ao exercício do controle de constitucionalidade das normas, pois não se declara a constitucionalidade ou inconstitucionalidade de uma lei sem antes entendê-la; a segunda, que se dá na espécie, decorre da garantia constitucional da proteção ao ato jurídico perfeito contra lei superveniente, pois a solução de controvérsia sob essa perspectiva pressupõe sejam interpretadas as leis postas em conflito e determinados os seus alcances para se dizer da existência ou ausência da retroatividade constitucionalmente vedada. 2. Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional. 3. Negado provimento ao recurso extraordinário.”
+    Observa-se que o Supremo não colocou limites temporais relacionados à data de início do benefício, impondo-se a aplicação do julgado aos benefícios concedidos sob a égide da Constituição Federal de 1988.
+    Neste sentido: ARE 758.317 e ARE 885.608, ambos da relatoria do Min. Roberto Barroso.
+    Ante o exposto, com fundamento nos arts. 544, § 4º, “c” do CPC e 21, § 1º, do RISTF, conheço do agravo e dou provimento ao recurso extraordinário, para reformar o acórdão recorrido e reconhecer o direito do recorrente à aplicação, ao seu benefício, do entendimento fixado no julgamento do RE 564.354, da relatoria da Min. Cármen Lúcia. Caso apurados atrasados decorrentes dessa revisão, devem ser corrigidos monetariamente desde o respectivo vencimento e acrescidos de juros legais e moratórios, incidentes até a data do efetivo pagamento, observada a prescrição quinquenal.
+    Ficam invertidos os ônus sucumbenciais, nos termos da legislação processual vigente.
+    Custas ex lege.
+    Publique-se.
+    Brasília, 21 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
