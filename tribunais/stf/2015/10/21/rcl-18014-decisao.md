@@ -1,0 +1,16 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra decisão proferida pelo Juízo da 2ª Vara de Execuções Criminais da Comarca de Ribeirão Preto/SP. O reclamante alega, em síntese, que a decisão reclamada desrespeitou o comando da Súmula Vinculante 26, já que determinou, sem apresentar fundamentação idônea, a elaboração de exame criminológico como requisito para progressão de regime. Requer, liminarmente, que seja determinado à autoridade reclamada que transfira o reeducando ao regime aberto, afastando-se a necessidade do exame criminológico, ante a ausência de fundamentação idônea.
+    2. Com vistas dos autos, o Ministério Público se manifestou nos termos seguintes:
+    “A submissão dos condenados ao exame criminológico visa estabelecer prognósticos que lhes serão favoráveis, porquanto os exames darão, desde logo, de forma célere e objetiva, condições de análise do seu processo evolutivo e, consequentemente, a possibilidade de verificar se há projeção de estabilidade no seu comportamento.
+    10. Entretanto, o enunciado sumular e os precedentes que o embasaram alertam para a necessária cautela que se há de observar quando da determinação do exame criminológico: a motivação individualizada e concreta para ordenar a realização da perícia.
+    11. Daí a conclusão de que a decisão objeto desta reclamação aplicou corretamente o comando da Súmula Vinculante nº 26, pois a decisão em destaque apontou elementos que justificam a imposição do exame criminológico. Confira-se:
+    ‘Ainda que, em tese, exista expectativa de direito à progressão, as peculiaridades próprias do caso colocam-na na excepcionalidade para a realização de exames psicológico e social.
+    Com efeito. O sentenciado foi condenado por crime sexual contra vulnerável – e o crime foi cometido aproveitando-se o sentenciado dessa condição. Por óbvio, para a retomada do convívio social premente a realização do exame criminológico.’
+    12. Ao contrário do que alega o reclamante, a decisão reclamada não contém menção genérica à gravidade do crime, mas refere-se especificamente ao caso concreto, ao considerar que o sentenciado aproveitou-se da vulnerabilidade da vítima para a prática de crime sexual.
+    13. Nesse contexto, é evidente a falta de pertinência da reclamação, uma vez que o exame criminológico, muito embora não seja mais exigido de maneira automática em todos os casos – dada a nova redação do art. 112 da LEP pela Lei no 10.7928/2003 –, pode e deve ser realizado se o juiz da execução, diante das peculiaridades do caso, entender pela sua necessidade, tal como pronunciado pela Súmula Vinculante nº 26 do Supremo Tribunal Federal.
+    14. Ressalte-se, a propósito, a informação do juízo reclamado no sentido de que o reclamante obteve em 2012, após a realização do exame criminológico, a progressão para o regime semiaberto, e que atualmente aguarda a confecção do laudo para análise da progressão para o regime aberto.
+    3. Diante do exposto, acolho a manifestação da Procuradoria-Geral da República e julgo improcedente a presente reclamação. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 21 de outubro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
