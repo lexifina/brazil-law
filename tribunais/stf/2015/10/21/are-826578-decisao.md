@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, cujo trecho da ementa transcrevo:
+    “PREVIDENCIÁRIO. REVISÃO DE PENSÃO. VIÚVA DE SERVIDOR. PARIDADE COM VENCIMENTOS DO CARGO PARADIGMA. PECÚLIO PÓS-MORTE. AUXÍLIO-FUNERAL. HONORÁRIOS DE ADVOGADO. TAXA JUDICIÁRIA (…)” (eDOC 10, p. 2)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 2º; 5º, XXXVI; 24, inciso XII e § 4º; 40, § 12; 167 e 169 do texto constitucional.
+    Nas razões recursais, sustenta-se que não existe previsão para o pagamento do auxílio funeral na Lei 8.213/1991. Nesses termos, afirma-se que, de acordo com o artigo 40, § 12, da Constituição Federal, o pagamento do auxílio é ilegal.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, o Tribunal de origem consignou o seguinte:
+    “O 2º Apelante sustenta indevido o pecúlio com fundamento na Lei nº 9.717/98 e no artigo 40, § 12, da Constituição Federal, que vedam a concessão de benefício distinto do previsto no Regime Geral de Previdência Social.
+    A concessão do benefício previdenciário se regula pela lei vigente à data do óbito do servidor, que faleceu em agosto de 2002 (fls. 17, pasta 17) ainda na vigência da Lei Estadual nº 285/79, que previa o referido benefício do pecúlio.
+    A Lei Estadual nº 5.109/07 que revogou o artigo 45 da Lei Estadual nº 285/79 somente passou a vigorar a partir da publicação em 16.10.07, de modo que as inovações nela contidas não atingem o direito da 2ª Apelada.
+    A alegação de que o pecúlio post mortem teria sido afastado pelo artigo 5º da Lei 9.717/98 não vinga por se tratar de regime previdenciário especial, que detém normas próprias editadas pelo Estado dentro de sua competência constitucional. Supletivamente se aplicaria a Lei nº 9.717/98, regendo inteiramente a matéria a Lei Estadual nº 285/79, que à época do óbito do previa expressamente o pecúlio post mortem”. (eDOC 13, p. 6-7)
+    Desse modo, verifico que entender de modo diverso do que assentado pelo Tribunal de origem demandaria a interpretação dada à legislação local, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas nos termos dos Enunciados 279 e 280 da Súmula desta Corte. No caso, a ofensa constitucional, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confira-se, a propósito, o seguinte precedente:
+    “DIREITO ADMINISTRATIVO E DIREITO PROCESSUAL CIVIL. POLICIAL MILITAR. ESTADO DO RIO DE JANEIRO. LEI ESTADUAL Nº 285/79. AUXÍLIO-FUNERAL. APLICAÇÃO DA SÚMULA 280/STF. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 05.4.2013. A suposta ofensa aos postulados constitucionais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação do óbice da Súmula 280/STF: ‘Por ofensa a direito local não cabe recurso extraordinário’. Divergir do entendimento do acórdão recorrido quanto ao preenchimento dos requisitos legais e sobre o direito da ora agravada ao recebimento do benefício denominado pecúlio post mortem, previsto nos arts. 26 e 45, da Lei Estadual nº 285/79, demandaria a análise da legislação infraconstitucional aplicável à espécie e o reexame da moldura fática constante no acórdão regional, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido”. (ARE-AgR 776.511, Rel. Min. Rosa Weber, Primeira Turma, DJe 6.3.2014)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 21 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
