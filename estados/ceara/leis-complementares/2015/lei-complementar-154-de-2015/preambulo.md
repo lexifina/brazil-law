@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 154, DE 20.10.15 (D.O. 22.10.15)
+DEFINE AS REGIÕES DO ESTADO DO CEARÁ E SUAS COMPOSIÇÕES DE MUNICÍPIOS PARA FINS DE PLANEJAMENTO.
+O GOVERNADOR DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei Complementar:
