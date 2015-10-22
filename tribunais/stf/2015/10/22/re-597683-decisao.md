@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO COLETIVA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. AUSÊNCIA DE EMBARGOS. HONORÁRIOS ADVOCATÍCIOS. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RE 599.903. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO DE INSTRUMENTO. ENTENDIMENTO SEDIMENTADO NA TURMA. NEGATIVA DE SEGUIMENTO. ART. 557 DO CPC E ART. 37, § 1º, II, DO REGIMENTO INTERNO DESTE TRIBUNAL. INTERPRETAÇÃO. POSSIBILIDADE.
+    . Nos termos do art. 557, § 1°, do CPC, cabe o recurso do agravo contra a decisão do relator que negar seguimento a recurso.
+    . Considerando os princípios da economia e da celeridade processuais, bem como o excessivo número de agravos que tramitam nesta Corte, hipótese submetida ao art. 557 do CPC, porque a instrução do agravo levaria à inclusão em pauta para que a Turma decidisse o que nela já está pacificado.
+    . Hipótese que não representa afronta ao dispositivo processual invocado, nem negativa da prestação jurisdicional, mas a utilização de permissivo de igual natureza para fazer frente ao insuperável volume de trabalho e à falta de condições materiais, pelo uso de procedimento já pacificado na Turma para a presteza e a efetividade da mesma.
+    . Observada a divisão e a especialização por matéria previstas no Regimento Interno, e se nos agravos as decisões não podem ser submetidas à Seção correspondente - também órgão fracionário - por incabíveis embargos infringentes, não havendo Súmula a respeito, as decisões das Turmas constituem "jurisprudência dominante do respectivo Tribunal", para fins de interpretação do art. 557 da Lei Adjetiva.
+    . Possível divergência por mudança de entendimento de algum de seus integrantes pode ser manifestada no âmbito do agravo interno, o que não prejudica a quem recorre, pois terá acesso imediato à via recursal cabível.
+    . Aspectos processuais vencidos para permitir o reexame do mérito do instrumento, cujo julgamento fica confirmado, pelos mesmos fundamentos, ausentes razões que possam alterá-lo.
+    . Agravo regimental recebido como agravo legal e improvido.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 37, X, e 100, § 3º, da Constituição Federal.
+    Após a devolução dos autos ao Tribunal de origem, para que fosse sobrestado até pronunciamento definitivo do Supremo Tribunal Federal nos autos do RE 564.132, a Terceira Turma do Tribunal Regional Federal da 4ª Região determinou a remessa do feito a esta Corte, por entender que o tema discutido nos autos não se coaduna ao paradigma da Repercussão Geral.
+    É o relatório. DECIDO.
+    A fixação de honorários advocatícios em execução de sentença proferida em ação coletiva não embargada pela Fazenda Pública não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF na análise do RE 599.903-RG, Rel. Min. Cármen Lúcia, DJe de 11/9/2009, assim ementado:
+    “HONORÁRIOS ADVOCATÍCIOS. EXECUÇÃO CONTRA A FAZENDA PÚBLICA NÃO EMBARGADA. EXECUÇÃO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE VIOLAÇÃO AO RECURSO EXTRAORDINÁRIO N. 420.816. RECURSO EXTRAORDINÁRIO RECUSADO. 1. O tema constitucional examinado no Recurso Extraordinário n. 420.816, Redator para o acórdão o Ministro Sepúlveda Pertence, estava restrito à redução interpretativa do art. 1º-D da Lei n. 9.494/1997 (Medida Provisória n. 2.180-35/2001) para torná-lo aplicável apenas às execuções por quantia certa contra a Fazenda Pública (art. 730 do Código de Processo Civil). 2. É infraconstitucional a questão do enquadramento jurídico da execução de sentença proferida em ação coletiva contra à Fazenda Pública ao disposto no art. 730 do Código de Processo Civil. 3. Precedentes do Superior Tribunal de Justiça e deste Supremo Tribunal Federal. 4. Recurso extraordinário recusado.”
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de outubro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
