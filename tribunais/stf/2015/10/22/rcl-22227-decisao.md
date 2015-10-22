@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de reclamação contra ato do Órgão Especial do Tribunal Superior do Trabalho que recebeu como agravo interno o recurso previsto no art. 544 do Código de Processo Civil – interposto contra decisão que negara seguimento ao recurso extraordinário pela ausência da preliminar formal e fundamentada da repercussão geral – e negou-lhe provimento, além de aplicar a multa prevista no § 2º do art. 557 do CPC. Alegam os reclamantes, em síntese, que foi usurpada a competência do Supremo Tribunal Federal para apreciar o agravo em questão. Requerem a antecipação parcial da tutela pretendida para a suspensão da multa processual. Pedem, ao final, a cassação do ato reclamado para que o agravo seja remetido a esta Corte.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l , CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88).
+    No caso, têm razão os reclamantes. É que o recurso extraordinário teve sua admissão negada pela ausência da preliminar formal e fundamentada da repercussão geral exigida pelo § 2º do art. 543-A do CPC, e não pela aplicação da sistemática prevista no § 5º do art. 543-A e no §§ 2º e 3º do art. 543-B do CPC, circunstâncias que não admitem agravo de instrumento após 19/11/2009, conforme decidido pelo Plenário no julgamento do AI 760358 QO, Rel. Min. Gilmar Mendes (Presidente), DJe de 12/2/2010.
+    3. Ante o exposto, julgo procedente a reclamação para cassar o ato reclamado e determinar o regular processamento do agravo de instrumento interposto no Processo 1482-22.2011.5.12.0039.
+    Publique-se. Intime-se.
+    Brasília, 22 de outubro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
