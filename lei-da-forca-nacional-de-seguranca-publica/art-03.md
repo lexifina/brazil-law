@@ -6,4 +6,4 @@ IV - a guarda, a vigilância e a custódia de presos;
 V - os serviços técnico-periciais, qualquer que seja sua modalidade;
 VI - o registro de ocorrências policiais.
 VII - as atividades relacionadas à segurança dos grandes eventos.
-Parágrafo único. A cooperação federativa no âmbito da Secretaria Extraordinária de Grandes Eventos apenas ocorrerá para fins do cumprimento ao disposto no inciso VII.
+Parágrafo único. A cooperação federativa no âmbito da Secretaria Extraordinária de Segurança para Grandes Eventos apenas ocorrerá para fins do cumprimento ao disposto no inciso VII deste artigo.
