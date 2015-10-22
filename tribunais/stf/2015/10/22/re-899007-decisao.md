@@ -1,0 +1,27 @@
+Decisão.
+    Vistos.
+    Marcos Andrei Morais da Silva interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO. SISTEMA DE COTAS. ENTIDADE FILANTRÓPICA. NÃO VINCULAÇÃO AO ENSINO PÚBLICO DE ENSINO. INAPLICABILIDADE DO SISTEMA DE COTAS.
+    1. Hipótese em que se discute se o autor faria jus à matrícula no curso de Gastronomia da UFC (Universidade Federal do Ceará), nas vagas destinadas a alunos egressos da rede pública de ensino;
+    2. No caso ventilado, o estudante não preencheu todos os requisitos constantes em lei, que lhe beneficiaria com uma vaga na Universidade, pois não restou preenchido o requisito da natureza pública do estabelecimento de ensino em que cursou o ensino médio;
+    3. Ainda que não possua fins lucrativos e não cobre mensalidades dos alunos, a instituição de ensino a qual apelante era vinculado não pertence ao sistema público de ensino, visto que é entidade filantrópica, de natureza privada;
+    4. Não tendo o autor cumprido com o requisito de ter cursado o Ensino Fundamental em escola da rede pública de ensino, a pretensão de dilargar o sistema de cotas para apanhá-lo resultaria na concessão de um benefício inexistente no ordenamento jurídico pátrio, o que, obviamente, não se pode permitir;
+    5. Apelação improvida.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação dos artigos 1º, inciso III, 3º, incisos I, II e III, 5º, caput e inciso LIV, 6º, 205 e 208, inciso V, da Constituição Federal
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No que se refere aos artigos 1º, inciso III, 3º, incisos I, II e III, 6º e 205 da Constituição, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Colhe-se da fundamentação voto condutor do acórdão recorrido:
+    “No caso ventilado, o estudante não preencheu todos os requisitos constantes em lei que lhe beneficiaria com uma vaga na Universidade, pois não restou comprovado o requisito da natureza pública do estabelecimento de ensino em que cursou.
+    Tal Instituto não é vinculado ao sistema público de ensino, sendo uma entidade filantrópica, como afirmado pelo próprio autor, ora apelante. Destarte, vislumbro ser uma instituição privada de ensino, mesmo não cobrando mensalidades de seus alunos ou do próprio demandante. Ainda que não possua fins lucrativos, tal característica não a torna uma escola pública e nem autoriza ao Judiciário conferir interpretação extensiva ou analógica à resolução da instituição de ensino que disciplina as cotas raciais/sociais.”
+    Desse modo, concluir de modo diverso do acórdão recorrido acerca da natureza da instituição de ensino frequentada pelo autor, ora recorrente, demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em sede extraordinária. Incidência, na espécie, da Súmula 279 do STF. A propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Universidade pública. Cotas sociais. Análise de cláusulas do edital de vestibular. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise das cláusulas de edital de processo seletivo de vestibular e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 454 e 279/STF. 2. Agravo regimental não provido.” (ARE nº 773.009/PE-AgR, Primeira Turma, de minha relatoria, DJe de 9/10/14).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ENSINO SUPERIOR. SISTEMA DE COTAS. PREENCHIMENTO DE REQUISITOS. AUSÊNCIA DE COMPROVAÇÃO DE QUE A ALUNA OPTOU POR CONCORRER COMO COTISTA. IMPOSSIBILIDADE DE INTERPRETAÇÃO DO EDITAL DO VESTIBULAR E DO REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (RE nº 591.956/BA-AgR, Primeira Turma, relatora a Ministra Cármen Lúcia, DJe de 8/5/09).
+    Nesse sentido, as recentes decisões monocráticas: ARE nº 886.290/PI, Relatora a Ministra Cármen Lúcia, DJe de 3/6/15; e ARE nº 876.634/GO, de minha relatoria, DJe de 30/4/15.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 22 de outubro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
