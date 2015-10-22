@@ -1,0 +1,2 @@
+Art. 2º-A Na venda a varejo de produtos fracionados em pequenas quantidades, o comerciante deverá informar, na etiqueta contendo o preço ou junto aos itens expostos, além do preço do produto à vista, o preço correspondente a uma das seguintes unidades fundamentais de medida: capacidade, massa, volume, comprimento ou área, de acordo com a forma habitual de comercialização de cada tipo de produto.
+Parágrafo único. O disposto neste artigo não se aplica à comercialização de medicamentos.
