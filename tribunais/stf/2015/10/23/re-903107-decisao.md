@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de recurso extraordinário fundado na alínea “a” do permissivo constitucional no qual se alega a constitucionalidade da taxa devida em razão de anotação de responsabilidade técnica - ART.
+    Destaca o recorrente:
+    “i. Afronta ao devido processo legal, ao dever de fundamentar adequadamente decisões judiciais, ao contraditório, à ampla defesa, ao acesso adequado e inafastável ao Poder Judiciário (lesão ou ameaça de lesão a direito) – arts. 5º, XXXV, LIV,LV e 93, IX da Constituição de1988;
+    ii. constitucionalidade da fixação dos valores de ART’s – existência de precedentes específicos – reserva legal relativa: artigo 150, inciso I da CF/88;
+    iii. constitucionalidade da utilização de regulamentos pelo CONFEA: diferença entre delegação pura e lei que atribui ao executivo a aferição de dados in concreto (regulamento intra legem): RE 343.446/SC, RE 76.629/RS e RE 290.079/SC;“Quanto ao mérito, a discussão exsurge acerca da constitucionalidade da fixação do valor e respectiva cobrança da Anotação de Responsabilidade Técnica, com base no artigo 2º e §§ da Lei nº 6.496 de 1977, em face do artigo 97 do Código Tributário Nacional e artigo 150, §1º, da Constituição Federal, havendo a decisão então hostilizada acolhido a pretensão do recorrido, supondo ser inconstitucional a cobrança de ARTs”.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o Plenário da Corte, no exame do ARE nº 748.445/SC-RG, Relator o Ministro Ricardo Lewandowski, DJe de 12/2/14, submetido à sistemática da repercussão geral, reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o tributo cobrado a título de Anotação de Responsabilidade Técnica, na forma da Lei nº 6.496/77, tem natureza jurídica de taxa, razão pela qual se submete ao princípio da legalidade tributária. Colhe-se a ementa do mencionado julgado:
+    “Ementa: RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. LEI 6.496/1977. MANIFESTAÇÃO DO EXERCÍCIO DO PODER DE POLÍCIA. NATUREZA DE TAXA. SUBMISSÃO AO PRINCÍPIO DA ESTRITA LEGALIDADE. EXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    O Tribunal reconheceu a existência de repercussão geral da matéria debatida nos presentes autos, para reafirmar a jurisprudência desta Corte, no sentido de que a Anotação de Responsabilidade Técnica, instituída pela Lei Lei 6.496/1977, cobrada pelos Conselhos Regionais de Engenharia, Arquitetura e Agronomia, tem natureza jurídica de taxa, sendo, portanto, necessária a observância do princípio da legalidade tributária previsto no art. 150, I, da Constituição. Em consequência, conheceu do recurso extraordinário, desde já, mas lhe negou provimento”.
+    No mais, observo que o acórdão recorrido manteve a sentença “por seus próprios fundamentos”, com base no permissivo do art. 46, da Lei nº 9.099/95, admitindo, assim, a cobrança da ART dentro dos limites “estabelecidos pelas Leis 6.994/1982 e 12.514/2011.” Portanto, no que se refere as taxas fixadas dentro dos limites das referidas leis, falece ao Conselho interesse em recorrer. Quanto à determinação de restituição de valores que extrapolem os limites legais, o entendimento está conforme a jurisprudência da Corte já sedimentada no ARE nº 748.445/SC-RG, Relator o Ministro Ricardo Lewandowski, DJe de 12/2/14.
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 23 de outubro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
