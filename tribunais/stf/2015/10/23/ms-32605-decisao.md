@@ -1,0 +1,25 @@
+Vistos etc.
+    Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Loterias Nossa Sorte Ltda. e Outras contra decisão do Tribunal de Contas da União, consubstanciada no Acórdão nº 2909/2013-TCU-Plenário, que indeferiu pedido de habilitação dos impetrantes, como interessados, na representação nº 17.293/2011-1 e, por consectário, não conheceu de pedidos de reexame por eles manejados em face do Acórdão nº 925/2013-TCU-Plenário.
+    Os impetrantes sustentam possuir legitimidade para intervir na representação nº 17.293/2011-1, pois permissões lotéricas de seu interesse estariam sujeitas a impacto direto da decisão da autoridade impetrada. Argumentam que, ao indeferir seu pedido de habilitação e deixar de oportunizar oitiva de outros lotéricos em situação similar, a Corte de Contas da União teria incidido em ofensa aos arts. 146, 250, 282 e 286 do Regimento Interno do TCU, bem como às garantias constitucionais do devido processo legal, do contraditório e da ampla defesa.
+    Agregam que a Federação Nacional dos Agentes Lotéricos (FENAL) e a Federação Brasileira das Empresas Lotéricas (FEBRALOT), ouvidas no bojo da mencionada representação, não poderiam ser consideradas entidades representativas, para os fins do art. 250, § 5º, do Regimento Interno do TCU, seja porque, como federações, entes sindicais de segundo grau, manifestam-se de forma subsidiária, na ausência de entes de primeiro grau, o que não seria o caso, pois haveria sindicatos da categoria na Bahia, no Paraná e no Rio de Janeiro – base territorial dos impetrantes -, seja porque não teriam sido observadas as formalidades necessárias (realização de assembleia com finalidade específica, precedida de edital de convocação, e instrumentalizada em ata, com lista dos presentes).
+    Ao lado dessas questões, de ordem procedimental, registram, ainda, considerações sobre o mérito da decisão da Corte de Contas, aludindo à necessidade de observar os princípios da segurança jurídica e da proteção da confiança.
+     Pugnam pela concessão da ordem mandamental, a fim de que seja “declarada a nulidade do Acórdão n. 2909/2013, conferindo aos impetrantes o direito de serem habilitados na qualidade de terceiros interessados no processo nº 17293/2011-1”.
+    Indeferido o pedido de medida liminar (evento 43, e-STF), foram deduzidos pedidos de reconsideração pelas impetrantes (eventos 55, 58 e 62, e-STF).
+    A autoridade impetrada prestou informações (evento 46, e-STF).
+    A União formulou pedido de ingresso no feito (evento 52, e-STF) .
+    O Ministério Público Federal, em parecer da lavra do Dr. Paulo Gustavo Gonet Branco, opinou pela denegação da segurança (evento 56, e-STF).
+    É o relatório.
+    Decido.
+    Foi publicada no Diário Oficial da União de hoje – 23.10.215 – a Lei nº 13.177/2015, cujo teor é o seguinte:
+    Art. 1o A Lei nº 12.869, de 15 de outubro de 2013, passa a vigorar acrescida dos seguintes arts. 5o-A e 5o-B:
+    "Art. 5º-A São válidas as outorgas de permissão lotérica e seus aditivos contratuais celebrados até 15 de outubro de 2013 perante a Caixa Econômica Federal, por meio de termos de responsabilidade e compromisso, que concederam prazo de permissão adicional de duzentos e quarenta meses, aos quais serão aplicadas as renovações automáticas previstas no inciso VI e parágrafo único do art. 3o.
+    Parágrafo único. Não se aplica o disposto no caput quando tiver havido rescisão contratual por comprovado descumprimento das cláusulas contratuais pelo permissionário lotérico.”
+    “Art. 5º-B Aplica-se a renovação automática prevista no art. 5o-A às demais permissões lotéricas celebradas até a data de publicação desta Lei após a data final de vigência, inclusive quando decorrente de renovação automática prevista no respectivo contrato.”
+    Art. 2o Ficam cancelados os efeitos do aviso publicado em 5 de agosto de 2015 na Seção 3 do Diário Oficial da União pela Gerência Nacional Gestão de Canais Parceiros da Caixa Econômica Federal e as licitações decorrentes do mencionado aviso.
+    Art. 3o Esta Lei entra em vigor na data de sua publicação.”
+    O diploma legal mencionado, ao enunciar a validade das outorgas de permissão lotérica e seus aditivos contratuais celebrados até 15 de outubro de 2013 perante a Caixa Econômica Federal, por meio de termos de responsabilidade e compromisso, que concederam prazo de permissão adicional de duzentos e quarenta meses, e assegurar as renovações automáticas previstas no inciso VI e parágrafo único do art. 3º da Lei 12.869/2013, revela perda superveniente do interesse de agir, pois, ante o cenário descortinado pela inovação legislativa, inviável cogitar de aptidão do ato impugnado para causar prejuízo às esferas jurídicas dos impetrantes.
+    Ante o exposto, forte nos arts. 267, VI, do CPC, 38 da Lei nº 8.038/90 e 21, IX, do RISTF, julgo extinto, sem resolução do mérito, o mandado de segurança, por perda superveniente do interesse de agir.
+    Publique-se.
+    Brasília, 23 de outubro de 2015.
+Ministra Rosa Weber
+Relatora
