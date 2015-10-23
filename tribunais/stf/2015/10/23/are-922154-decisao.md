@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado da Bahia, cuja ementa reproduzo a seguir:
+    “MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO. DELEGADO. QUESTÃO DISCURSIVA. CONTEÚDO NÃO PREVISTO NO EDITAL DE ABERTURA DO CERTAME. ANULAÇÃO PELO PODER JUDICIÁRIO. POSSIBILIDADE. PRINCÍPIOS DA LEGALIDADE E DA VINCULAÇÃO AO EDITAL. SEGURANÇA CONCEDIDA.
+    1 – A jurisprudência do Superior Tribunal de Justiça tem entendido ser possível a intervenção do Poder Judiciário nos atos que regem os concursos públicos, principalmente em relação à observância dos princípios da legalidade e da vinculação ao edital.
+    2 – In casu, não se trata de revisão dos critérios estabelecidos pela Banca Examinadora, mas, sim, de conferir ao edital interpretação que assegure o cumprimento das regras nele estabelecidas, e em relação as quais encontram-se vinculados tanto a Administração quanto os candidatos.” (fl. 333)
+    Opostos embargos de declaração, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida. No mérito, aponta-se ofensa aos arts. 37, caput e inciso II, do texto constitucional.
+    Defende-se, em síntese, que o recorrente não alcançou a pontuação mínima necessária para a classificação para a próxima etapa.
+    É o relatório.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, cabe observar que o Tribunal de origem entendeu o seguinte:
+    “(...) Neste sentido, constatando-se a ocorrência de violação à lei ou ao edital regulador do concurso público, o Poder Judiciário está autorizado a declarar a nulidade do ato administrativo. O controle será realizado nos parâmetros de previsão constante na lei (lato sensu) ou no Edital. Sendo assim, o Poder Judiciário não estará substituindo a Banca Examinadora, ou impondo critérios diferenciados daqueles por ela adotados. Muito pelo contrário, nesta situação a intervenção judicial colima tão somente assegurar sejam efetivamente cumpridas as regras definidas pela própria Administração, as quais ela se encontra vinculada.” (fl. 336)
+    O entendimento adotado não diverge da jurisprudência do Supremo Tribunal Federal, que entende ser possível a anulação de questões de concursos públicos que extrapolem os limites previstos no edital do certame. Nesse sentido:
+    "Agravo regimental no recurso extraordinário com agravo. Direito administrativo. Concurso público. Prova objetiva. Questões em desconformidade com o conteúdo programático constante no instrumento convocatório do certame. Anulação. Possibilidade. Fatos e provas. Reexame. Cláusulas editalícias. Análise. Impossibilidade. Precedentes. 1. A jurisprudência do Supremo Tribunal Federal é no sentido da possibilidade do controle jurisdicional da legalidade do concurso público quando verificado o descompasso entre as questões cobradas em prova e o conteúdo programático descrito no edital. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a interpretação das cláusulas do edital do certame. Incidência das Súmulas nºs 279 e 454/STF. 3. Agravo regimental não provido." (ARE 839653 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 12/05/2015, ACÓRDÃO ELETRÔNICO DJe-118 DIVULG 18-06-2015 PUBLIC 19-06-2015)
+    E, quanto ao mérito, o Tribunal de Justiça do Estado da Bahia assim enfrentou a matéria:
+    “(...) a Banca Examinadora considerou como correta apenas o endereçamento da peça processual ao Juízo do Tribunal de Juri, atendendo ao comando previsto na Lei de Organização Judiciária do Estado da Bahia (Lei nº 10.845/2007).
+    Ocorre, todavia, que a LOJ-BA não se encontra elencada no rol da legislação complementar exigida pelo Edital do Concurso.
+    Destarte, parece-me lógico, se o edital optou por especificar um grupo de leis especiais no programa de Direito Penal, afastou a incidência no concurso das leis que lá não constaram, mormente em se tratando de legislação estadual que contraria regra geral estabelecida em lei federal. (…)
+    Colocada a discussão nestes termos, tem-se ser manifestamente contrário às regras editalícias o ato da Banca Examinadora consubstanciado em elaborar questões exigindo dos candidatos conhecimento de instituto jurídico especial não elencado no conteúdo programático da lei do certame.” (fls. 336-337)
+    Para divergir do entendimento adotado pelo Tribunal de origem, far-se-ia imprescindível o revolvimento do acervo fático-probatório dos autos. Tal providência, contudo, é vedada nesta instância extraordinária, a teor do Enunciado 279 da Súmula do STF, nos termos do precedente acima citado.
+    Ademais, o provimento do recurso pela violação ao princípio da legalidade demandaria a reinterpretação de cláusulas do edital, o que é inviável nesta instância extraordinária, nos termos do Enunciado 454 da Súmula do STF.
+    Finalmente, é certo que o Estado da Bahia, no recurso extraordinário, não impugnou especificamente a questão relativa à extrapolação dos limites do edital pela questão impugnada, o que atrai o entendimento consubstanciado no Enunciado 283 da Súmula do Supremo Tribunal Federal, segundo o qual “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 23 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
