@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário em face do acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (eDOC 15, p. 121):
+    “APELAÇÃO CÍVEL. SERVIDORES PÚBLICOS ESTADUAIS. CONVERSÃO DOS VENCIMENTOS EM URV, NOS TERMOS DA LEI FEDERAL N. 8880/94. LEI COMPLEMENTAR ESTADUAL N. 118/94. PROCEDIMENTO DIVERSO. CORREÇÃO REALIZADA PELO DECRETO ESTADUAL N. 4.558/94. PERÍCIA CONTÁBIL QUE CONCLUI PELA INEXISTÊNCIA DE DIFERENÇAS A SEREM PAGAS. PROVA EMPRESTADA. AUSÊNCIA DE IMPUGNAÇÃO. PRECLUSÃO.
+    PRESCRIÇÃO QUINQUENAL. RECONHECIMENTO DE OFÍCIO. PRECEDENTES NO SUPERIOR TRIBUNAL DE JUSTIÇA E NESTA CORTE. RECURSO PREJUDICADO.
+    ‘A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que as diferenças remuneratórias decorrentes da conversão dos proventos dos servidores em URV, embora não possam ser compensadas com reajustes posteriores, ficam limitadas no tempo quando houver ocorrido a reestruturação da carreira, com a instituição de um novo regime jurídico remuneratório. Nesse sentido: AgRg no AREsp 40.081/RS, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe 16/11/11’ (STJ, Agravo Regimental no Recurso Especial n. 1.253.715/MG, rel. Min. Arnaldo Esteves Lima, j. 03.05.2012)
+    ‘A conversão dos valores dos vencimentos dos servidores públicos do Estado de Santa Catarina de cruzeiros reais para Unidade Real de Valor (URV) ocorreu com a Lei Complementar n. 118, de 30 de maio de 1994. Os anexos do Decreto n. 4.558, de 13.06.1994, contêm tabelas dos cargos e a respectiva remuneração. Dessa data passou a fluir o prazo de prescrição da pretensão de os servidores reclamarem perdas decorrentes da conversão da moeda.’ (TJSC, Apelação Cível n. 2012. 019461-0, da Capital, rel. Des. Newton Trisotto, j. 10.07.2012). (TJSC, Segunda Câmara de Direito Público, Apelação Cível n. 2012.057303-6, da Capital, Rel. Des. Cid Goulat, j. 07.05.2013).”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; 37, XIV; e 169, § 1º, I e II, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “O Estado de Santa Catarina ignorou a Lei Federal 8.880/94 e o Decreto 1.066/77, limitando-se a efetuar a conversão dos vencimentos nos moldes da Lei Complementar Estadual nº 118/94” (eDOC. 16, p. 12).
+    A 2ª Vice-Presidência do TJ/SC inadmitiu o recurso em virtude de inexistir ofensa direta à Constituição Federal; e de incidir à hipótese as Súmulas 279, 282, 284 e 356 do STF.
+    É o relatório. Decido.
+    De plano, constata-se que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido, não se permitindo compreender o exato teor da controvérsia, o que torna aplicável ao caso a súmula 284 desta Corte. Isso porque o Tribunal de Justiça reconheceu a ocorrência da prescrição (eDOC 15, p. 125), ao passo que o recurso limita-se a alegar que o Estado de Santa Catarina não efetuou corretamente a conversão dos vencimentos em URV de acordo com a Lei 8.880/1994.
+    Ademais, há fundamento infraconstitucional autônomo e suficiente para manter o acórdão recorrido, relativamente à incidência da prescrição quinquenal, razão pela qual eventual divergência em relação ao entendimento adotado pelo juízo a quo não se permite a abertura da via extraordinária..
+    A esse respeito, confiram-se as seguintes decisões monocráticas: ARE 860.686-, Rel. Min. Gilmar Mendes, DJe 12.02.2015; ARE 902.655, Rel. Min. Dias Toffoli, DJe 20.08.2015.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 23 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
