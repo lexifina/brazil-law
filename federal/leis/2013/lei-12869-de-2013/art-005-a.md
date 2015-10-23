@@ -1,0 +1,2 @@
+Art. 5º-A São válidas as outorgas de permissão lotérica e seus aditivos contratuais celebrados até 15 de outubro de 2013 perante a Caixa Econômica Federal, por meio de termos de responsabilidade e compromisso, que concederam prazo de permissão adicional de duzentos e quarenta meses, aos quais serão aplicadas as renovações automáticas previstas no inciso VI e parágrafo único do art. 3º.
+Parágrafo único. Não se aplica o disposto no caput quando tiver havido rescisão contratual por comprovado descumprimento das cláusulas contratuais pelo permissionário lotérico.

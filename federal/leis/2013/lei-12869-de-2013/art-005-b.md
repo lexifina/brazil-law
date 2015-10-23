@@ -1,0 +1,1 @@
+Art. 5º-B Aplica-se a renovação automática prevista no art. 5º-A às demais permissões lotéricas celebradas até a data de publicação desta Lei após a data final de vigência, inclusive quando decorrente de renovação automática prevista no respectivo contrato.
