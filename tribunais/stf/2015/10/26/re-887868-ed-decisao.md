@@ -1,0 +1,40 @@
+Decisão: Trata-se de petição de embargos de declaração opostos contra ato que determinou a devolução dos autos à origem para os fins do art. 543-B do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral, pelo tema 4, cujo paradigma é o RE-RG 566.621 Rel. Min. Ellen Gracie.
+    O embargante alega que os autos já haviam sido sobrestados na origem em virtude do RE-RG 566.621 e, após o julgamento do mérito, o Tribunal a quo procedeu ao rejulgamento da lide, decidindo por não exercer o juízo de retratação.
+    Para melhor compreensão do caso, faz-se necessária uma breve digressão acerca dos atos processuais.
+    No caso, trata-se de recurso extraordinário interposto pela União contra acórdão do TRF da 2ª Região ementado nos seguintes termos:
+    “CONSTITUCIONAL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. COFINS. ALTERAÇÃO DA BASE DE CÁLCULO. ARTIGO 3º, § 1º DA LEI 9.718/98. INCONSTITUCIONALIDADE DECLARADA PELO SUPREMO TRIBUNAL FEDERAL. RECONSIDERAÇÃO. ART. 543-B, § 3º. PRESCRIÇÃO. LC 118/2005 ARTS. 3º E 4º. APLICAÇÃO RETROATIVA. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO PLENÁRIO DO TRF-2ª REGIÃO. ART. 97 DA CF. CLÁUSULA DA RESERVA DE PLENÁRIO. OMISSÃO. INEXISTÊNCIA.
+    1. Reconsiderando o recurso de embargos de declaração opostos pela União Federal/ Fazenda Nacional, nos termos do art. 543-B, § 3º, do CPC, tendo em vista o pronunciamento definitivo pelo Colendo Supremo Tribunal Federal, no RE n. 580.108/SP, que reconheceu a existência de repercussão feral do tema relativo à cláusula de reserva de Plenário (CF, Art. 97).
+    2. Realizado novo julgamento, sem remessa ao plenário, tendo em vista o fato superveniente (CPC, art. 462), qual seja, o julgamento pelo plenário, em 12 de março de 2009, da arguição de inconstitucionalidade do processo n. 2002.51.01.019373-1, a dispensar a remessa por força do art. 97 da CF em virtude do efeito expansivo daquela decisão plenária atribuído pelo parágrafo único do art. 481 do CPC.
+    3. No que se refere à prescrição, o Plenário deste Tribunal, na sessão de 12 de março de 2009, na Arguição de Inconstitucionalidade no processo n. 2001.51.01.019373-1, da relatoria do eminente Desembargador Cruz Netto, decidiu ‘por unanimidade, declarar a inconstitucionalidade da expressão “observado, quanto ao art. 3º, o disposto no art. 106, I, da Lei n. 5.172, de 25 de outubro de 1966 – Código Tributário Nacional”, constante do art. 4º, segunda parte, da Lei Complementar n. 118, de 9 de fevereiro de 2005, nos termos do voto do Relator, tendo sido aprovada, ainda, por unanimidade, a expedição de súmula’.
+    4. O parágrafo único do art. 481 do CPC dispõe que os ‘órgãos fracionários dos tribunais não submeterão ao plenário, ou ao órgão especial, a arguição de inconstitucionalidade, quando já houver pronunciamento destes ou do plenário do Supremo Tribunal Federal sobre a questão’, em sintonia coma interpretação dada pela Suprema Corte quanto à racionalização da aplicabilidade do art. 97 da Constituição Federal (…).
+    5. Dessa forma, como os fatos são anteriores à LC 118/05, aplicável a jurisprudência do STJ (1ª Seção) no sentido de que, em se tratando de tributo sujeito a lançamento por homologação, o prazo de cinco anos, previsto no art. 168 do CTN, tem início, não na data de recolhimento do tributo indevido, e sim na data da homologação – expressa ou tácita - do lançamento. Segundo entendo o citado Tribunal, ‘para que o crédito se considere extinto, não basta o pagamento: é indispensável a homologação do lançamento, hipótese de extinção albergada pelo art. 156, II, do CTJN. Assim, somente a partir dessa homologação é que teria início o prazo previsto no art. 168, I. E, não havendo homologação expressa, o prazo para a repetição do indébito acaba sendo, na verdade, de dez anos a contar do fato gerador’.
+    6. Mantido o posicionamento do acórdão embargado.
+    7. Recurso de Embargos de Declaração conhecido e desprovido”. (fls. 432-433)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “b”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI, e 195, I, do texto constitucional.
+    A recorrente sustenta, em síntese, a constitucionalidade do art. 4º da Lei Complementar 118/2005.
+    Considerando que a matéria versada no recurso extraordinário teve a repercussão geral reconhecida pelo STF, a Vice-Presidência do TRF da 2ª Região determinou o sobrestamento do feito até o julgamento final do leading case (RE-RG 561.908) (fl. 509).
+    Após pronunciamento definitivo do STF, os autos retornaram à Turma julgadora para exercer eventual juízo de retratação (fl. 549-551), a qual entendeu que o recurso-paradigma indicado não teria qualquer aplicabilidade ao caso em questão, conforme se extrai do seguinte trecho da decisão:
+    “O precedente representado pelo RE n. 566.621/RS não tem qualquer aplicabilidade no caso ora sob exame.
+    De fato, como a parte autora alegou, e por mais de uma vez:
+    ‘Ocorre que em momento algum a Lei Complementar 118/2005 fora objeto do presente feito, razão pela qual o citado sobrestamento, tal qual a decisão de remessa à origem pra juízo de retratação (...)’. (fls. 404, quinto parágrafo) (grifei)
+    ‘... a presente ação mandamental foi impetrada em março de 2006, objetivando a declaração da ilegitimidade da cobrança do PIS e da COFINS, nos moldes da Lei n. 9.718/98, bem como o reconhecimento do direito à compensação dos valores recolhidos a tal título desde de setembro de 2001’ (grifei)
+    Enquanto que a ação foi distribuída em 14.3.2006.
+    Logo, é completamente irrelevante a discussão sobre se o prazo prescricional seria de cinco ou de dez anos, já que, neste caso em concreto, nem o primeiro prazo teria sido esgotado.
+    Não obstante, o fato é que o acórdão de fls. 416/430 acabou por decidir que deveria ser aplicado o prazo prescricional de cinco anos, após o término de outros cinco anos para a homologação tácita do lançamento, com o que o total seria de ‘dez anos, a contar do fato gerador’ (fl. 430), decerto em resposta à alegação feita pela Fazenda Nacional em seus embargos de declaração (fls. 316/320).
+    (...)
+    O recurso extraordinário foi então admitido (fls. 578-579).
+    Ao chegarem a esta Corte, determinei a devolução dos autos à origem para os fins do art. 543-B do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral, pelo tema 4, cujo paradigma é o RE-RG 566.621 Rel. Min. Ellen Gracie.
+    Daí os presentes embargos de declaração.
+    Decido.
+    Em detida análise dos autos, verifico que o Tribunal de origem tem razão ao alegar que a discussão acerca da prescrição não influenciará no julgamento da lide.
+    De fato, a ação mandamental foi impetrada no dia 14.3.2006 (fl. 2) buscando o reconhecimento da ilegitimidade da cobrança do PIS e da COFINS, bem como a compensação dos valores recolhidos a tal título desde de setembro de 2001 (fl. 5).
+    Dessa forma, observo que a discussão sobre se o prazo prescricional (se de 5 ou de 10 anos) é irrelevante, já que, neste caso, nem o primeiro prazo teria sido esgotado.
+    Assim, o acolhimento da pretensão recursal não traria qualquer vantagem à recorrente, restando caracterizada a ausência de interesse recursal, uma vez que inexiste utilidade no provimento.
+    Nesse sentido, confira-se o seguinte precedente:
+    “Agravo regimental no recurso extraordinário. Inexistência de interesse recursal. 1. A ausência de comprovação de utilidade no provimento do recurso denota a carência de interesse recursal. 2. Agravo regimental não provido”. (RE-AgR 469.947, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 28.3.2012)
+    Ante o exposto, torno sem efeito a decisão (fls. 582) que determinou a devolução dos autos à origem, julgo prejudicado os embargos de declaração e nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 26 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
