@@ -1,0 +1,18 @@
+Despacho:
+    Trata-se de correição parcial interposta contra acórdão proferido pela 2ª Turma do Supremo Tribunal Federal, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO PENAL. SEGUNDOS EMBARGOS DE DECLARAÇÃO COM A PRETENSÃO DE REEXAME DA MATÉRIA: NÃO CONHECIMENTO. ENTENDIMENTO FIRMADO PELA SEGUNDA TURMA DO SUPREMO TRIBUNAL FEDERAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. IMEDIATA BAIXA DOS AUTOS À ORIGEM. (ARE 823545 AgR-ED-ED, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 04/11/2014)”
+    Narra o recorrente que a Turma incorreu em erro de julgamento, pois, ao chancelar o indeferimento de produção probatória, subtraiu do acusado o direito ao exaurimento dos meios de prova inerentes à ampla defesa.
+    É o relatório.
+    O recurso é manifestamente incabível.
+    Primeiro, os recursos submetem-se ao postulado da taxatividade, de modo que a recorribilidade da decisão judicial imprescinde de previsão legal específica:
+    “Os recursos dependem de previsão legal, de modo que o rol dos recursos e as hipóteses de cabimento configuram um elenco taxativo. Isso porque, na tentativa de equilibrar as garantias do valor justiça e do valor certeza, não se pode admitir que a via recursal permaneça infinitamente aberta, o que sacrificaria o princípio da segurança jurídica: a possibilidade de revisão das decisões judiciais há de ser prevista em lei.” (GRINOVER, Ada Pellegrini e outros. Recursos no processo penal: teoria geral dos recursos, recursos em espécie, ações de impugnação, reclamação aos tribunais. 5ª ed. São Paulo: Revista dos Tribunais. 2008. p. 35, grifei)
+    O recorrente aponta, como sustentação do cabimento do recurso, as Leis 1.533/51 e 5.010/66. Todavia, calha mencionar que a Lei 1.533/51 foi revogada pelo advento da Lei 12.016/09, que tratou de forma exaustiva da matéria ali disciplinada (mandado de segurança), bem como que a Lei 5.010/66 restringe-se às correições parciais no âmbito da Justiça Federal de Primeiro Grau. Desta forma, o recorrente não demonstrou a previsão legal de cabimento da hostilização.
+    Acrescento que a correição parcial constitui meio de impugnação vocacionado à tutela da condução do processo, de modo que o âmbito de insurgência circunscreve-se a temas de ordem procedimental. A correição parcial não se presta, portanto, à revisão do mérito da decisão atacada, como, no caso, a admissão de recurso excepcional:
+    “Desde o seu surgimento e agora nas diversa legislações, a correição presta-se ao ataque às decisões ou despachos dos juízes não impugnáveis por outro recurso e que representem “erro ou abuso” de que resulte a “inversão tumultuária dos atos e fórmulas da ordem legal do processo”. Destina-se, portanto, a corrigir o error in procedendo, não o error in judicando. (GRINOVER, Ada Pellegrini e outros. Recursos no processo penal: teoria geral dos recursos, recursos em espécie, ações de impugnação, reclamação aos tribunais. 5ª ed. São Paulo: Revista dos Tribunais. 2008. p. 252, grifei)”
+    Não bastasse, as raízes da correição parcial, calcadas no poder hierárquico administrativo, espelham que é de sua essência que o órgão ad quem exerça função subordinante em relação ao órgão a quo, o que não se verifica na espécie, na medida em que se trata de decisão proferida por órgão fracionário da própria Corte Constitucional.
+    Sendo assim, com fulcro no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 26 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
