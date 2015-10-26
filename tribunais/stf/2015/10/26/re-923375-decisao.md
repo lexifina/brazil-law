@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Fundação de Estudos Sociais do Parana (FESP). Aparelhado o recurso na afronta ao art. 195, I, “a”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Observo que o Tribunal de origem decidiu pela incidência da contribuição previdenciária em razão do não enquadramento nas hipóteses previstas no art. 28, § 9º, da Lei 8.212/1991.
+    Nesse contexto, não prospera a insurgência pelo prisma dos dispositivos constitucionais suscitados, uma vez que, no caso, a alegada infringência somente poderia ser constatada a partir da análise de legislação infraconstitucional apontada no apelo extremo (art. 28, § 9º, da Lei 8.212/1991), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Nesse sentido, o RE 827.447-AgR/PR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 29.9.2014 e o RE 776.933-AgR/SC, da minha lavra, 1ª Turma, DJe 29.8.2014, cuja ementa transcrevo:
+    “DIREITO PROCESSUAL CIVIL, PREVIDENCIÁRIO E ADMINISTRATIVO. RESERVA DE PLENÁRIO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 97 DA LEI MAIOR. INOCORRÊNCIA. MERA INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL APLICÁVEL. SERVIDOR PÚBLICO CIVIL. EXECUÇÃO DE SENTENÇA. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. DISCUSSÃO ACERCA DA NATUREZA DA PARCELA. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 17.11.2010. Não há falar em ofensa ao art. 97 da Carta Maior ou em contrariedade à Sumula Vinculante 10, porquanto não declarada, na hipótese, a inconstitucionalidade de lei ou ato normativo do Poder Público. Com efeito, a Corte de origem solveu a questão à luz da aplicação das regras de hermenêutica no âmbito infraconstitucional, sem, portanto, declarar a incompatibilidade entre a Constituição Federal e a norma legal discutida na espécie. Precedentes. Emerge do acórdão que ensejou o manejo do recurso extraordinário que o Tribunal a quo se limitou ao exame da matéria à luz de normas infraconstitucionais. A jurisprudência desta Corte é firme no sentido de que eventual ofensa reflexa a norma constitucional não viabiliza o trânsito do recurso extraordinário. Agravo conhecido e não provido.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de outubro de 2015.
+Ministra Rosa Weber
+Relatora
