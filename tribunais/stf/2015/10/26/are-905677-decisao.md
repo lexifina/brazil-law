@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Superior Tribunal de Justiça, maneja agravo o Ministério Público Federal. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 109, IV, V, VI, IX e X, da Constituição Federal.
+    A matéria debatida, em síntese, diz com a definição da competência para julgar as demandas formuladas em execução penal, se da Justiça Estadual ou Federal, quando o condenado pela Justiça Federal cumpre pena em estabelecimento penal estadual.
+    É o relatório.
+    Decido.
+    Consta que o Juízo Federal da 4ª Vara de Foz de Iguaçu suscitou Conflito de Competência em razão do reconhecimento da incompetência ratione loci manifestado pelo juízo de direito da Vara de Execução Penais daquela comarca. O Superior Tribunal de Justiça julgou a controvérsia em acórdão cuja ementa reproduzo:
+    "AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. CONDENAÇÃO EM ÂMBITO DA JUSTIÇA FEDERAL. PROGRESSÃO DE REGIME. FEDERAL FISCALIZAÇÃO DA PENA EM REGIME ABERTO. MANUTENÇÃO DO JUÍZO ESTADUAL. INCIDÊNCIA DA SÚMULA 192 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Se o condenado tiver de cumprir a sanção penal em estabelecimento prisional sob a jurisdição de Juízo das execuções estadual, este é o competente para o respectivo processo de execução penal, decidindo os incidentes de tal etapa processual. O fato de não mais se encontrar custodiado, em virtude de haver obtido a progressão para o regime aberto, não torna incompetente o Juízo estadual para continuar a presidir sua execução. Incidência da Súmula n. 192 do STJ. 2. Agravo regimental não provido.”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que a Justiça Estadual é competente para apreciar as demandas da execução penal de condenados pela Justiça Federal, quando o réu cumpre pena em presídio estadual, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Competência: execução penal: condenados pela Justiça Federal que cumprem pena em estabelecimento estadual: competência da Justiça Estadual: inteligencia do art. 109, par. 3., da Constituição, que, atenta as peculiaridades da questão, adequadamente deslocou, da noção puramente geografica de comarca para o caráter estadual ou federal do estabelecimento penitenciario do cumprimento da pena, o critério de determinação da competência para a execução.” (RE 145.318, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 14.10.1994)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de outubro de 2015.
+Ministra Rosa Weber
+Relatora
