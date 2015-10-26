@@ -1,0 +1,51 @@
+Decisão: Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública da União, em favor de Aparecido Roberto de Souza, contra acórdão da Sexta Turma do Superior Tribunal de Justiça (STJ), nos autos do Agravo Regimental no Recurso Especial n. 1.464.640/PR.
+    Extrai-se dos autos que o paciente foi denunciado pela prática do crime previsto no art. 183, caput, da Lei 9.472/97 (desenvolver clandestinamente atividades de telecomunicação).
+    O Juízo de Direito da 3ª Vara Federal Criminal de Foz do Iguaçu condenou o paciente, em regime inicial aberto, à pena de 2 anos e 1 mês de detenção, além do pagamento de 60 dias-multa. A sanção penal foi substituída por duas penas restritivas de direito (prestação de serviço à comunidade e prestação pecuniária no valor de 10 salários mínimos).
+    A Defensoria Pública da União interpôs apelação para requerer a absolvição do assistido, alegando a atipicidade da conduta e, subsidiariamente, a alteração da capitulação jurídica para o delito previsto no artigo 70 da Lei 4.117/62, bem como o ajustamento da prestação pecuniária.
+    A Sétima Turma do Tribunal Regional Federal da 4ª Região, por unanimidade, decidiu, de ofício, efetuar a desclassificação do crime para o tipo penal do artigo 70 da Lei 4.117/62, e determinar a remessa dos autos para o Juizado Especial Federal Criminal, anulando os atos decisórios posteriores à denúncia e julgando prejudicadas as demais razões de apelação.
+    Irresignado, o Parquet interpôs recurso especial perante o Superior Tribunal de Justiça. O Ministro Ericson Maranho deu provimento ao recurso especial, para cassar o acórdão recorrido, restabelecendo a sentença condenatória. Posteriormente, em sede de agravo regimental, a Sexta Turma do STJ manteve a decisão monocrática.
+    No presente writ, a impetrante pleiteia, liminarmente e no mérito, a concessão da ordem para “restabelecer o acórdão da Sétima Turma do Tribunal Regional Federal da 4ª Região, desclassificando a conduta do artigo 183 da Lei nº 9472/97 para o tipo penal do artigo 70 da Lei 4117/62” (eDOC 2, p. 7).
+    Indeferi o pedido liminar.
+    A Procuradoria-Geral da República manifestou-se pela denegação da ordem.
+    É o relatório.
+    Decido.
+    A questão controversa dos autos cinge-se à possibilidade de desclassificação da conduta imputada ao paciente prevista no art. 183 da Lei 9.472/1997 para o tipo penal previsto no art. 70 da Lei 4.117/1962.
+    Estabelece o art. 183 da Lei 9.472/1997 o seguinte:
+    “Art. 183. Desenvolver clandestinamente atividades de telecomunicação:
+    Pena - detenção de dois a quatro anos, aumentada da metade se houver dano a terceiro, e multa de R$ 10.000,00 (dez mil reais).”
+    Já o art. 70 da Lei 4.117/1962 dispõe:
+    “Art. 70. Constitui crime punível com a pena de detenção de 1 (um) a 2 (dois) anos, aumentada da metade se houver dano a terceiro, a instalação ou utilização de telecomunicações, sem observância do disposto nesta Lei e nos regulamentos.”
+    Destaco inicialmente que a instalação de estação clandestina de radiofrequência, sem autorização do órgão e do ente com atribuições para tanto – o Ministério das Comunicações e a Anatel – já é suficiente a comprometer a regularidade do sistema de telecomunicações.
+    Também compartilho do entendimento no sentido de que, mesmo se tratando de uma rádio de baixa frequência, é imprescindível a autorização governamental para o seu funcionamento.
+    Com o tipo do art. 183 da Lei 9.472/1997, o legislador buscou tutelar a segurança dos meios de comunicação, pois se sabe que o funcionamento dessas rádios pode causar interferência em vários sistemas, principalmente o aéreo. Daí a prescindibilidade de comprovação de prejuízo efetivo para sua consumação.
+    O aludido tipo penal se diferencia daquele previsto no art. 70 da Lei 4.117/1962 pela constatação da habitualidade na conduta. Esse é o entendimento sedimentado por ambas as Turmas desta Corte.
+    Nesse sentido, destaco os seguintes julgados:
+    “HABEAS CORPUS. PENAL. DESENVOLVIMENTO CLANDESTINO DE ATIVIDADE DE TELECOMUNICAÇÃO. ART. 183 DA LEI 9.472/1997. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. DESCLASSIFICAÇÃO PARA CRIME DO ART. 70 DA LEI 4.117/1962. INVIABILIDADE. CONDUTA HABITUAL.
+    (...)
+    5. Ambas as Turmas desta Corte já decidiram que ‘a conduta tipificada no art. 70 do antigo Código Brasileiro de Telecomunicações diferencia-se daquela prevista no art. 183 da nova Lei de Telecomunicações por força do requisito da habitualidade’ (HC 120602, Primeira Turma, DJe de 18/3/2014). Assim, ante a patente habitualidade descrita na denúncia, improcede o pleito desclassificatório.
+    6. Ordem denegada.” (HC 128.567/MG, Rel. Min. Teori Zavascki, Segunda Turma, DJe 23.9.2015)
+    “PENAL E PROCESSUAL PENAL. HABEAS CORPUS. DESENVOLVIMENTO CLANDESTINO DE ATIVIDADE DE TELECOMUNICAÇÕES. RÁDIO COMUNITÁRIA. TIPIFICAÇÃO DA CONDUTA. PRETENSÃO DE DESCLASSIFICAÇÃO PARA O TIPO DO ART. 70 DA LEI N° 4.117/1962. IMPOSSIBILIDADE. HABITUALIDADE E CLANDESTINIDADE DA CONDUTA. INCIDÊNCIA DO ART. 183 DA LEI N° 9.472/1997. ORDEM DENEGADA.
+    1. A conduta tipificada no art. 70 do antigo Código Brasileiro de Telecomunicações diferencia-se daquela prevista no art. 183 da nova Lei de Telecomunicações por força do requisito da habitualidade. Precedente: (HC 93.870/SP, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe de 10/09/2010).
+    2. A atividade de telecomunicações desenvolvida de forma habitual e clandestina tipifica delito previsto no art. 183 da Lei 9.472/1997 e não aquele previsto no art. 70 da Lei 4.117/1962.
+    3. In casu, a) o paciente foi denunciado com incurso no art. 183 da Lei 9.472/97, pela suposta prática de utilização e desenvolvimento ilícito de sistema de telecomunicações, por meio da Rádio Evangélica FM, cujo seria o proprietário. b) Consoante destacou a Procuradoria Geral da República, ‘os aspectos da habitualidade e da clandestinidade não demandam qualquer discussão, uma vez que o próprio paciente confessou que desenvolveu a atividade de radiodifusão no Município de Piracuruca/PI, sem registro nos órgãos competentes, pelo período de nove meses no ano de 2006, encerrando tal prática apenas quando da fiscalização realizada pelos agentes da ANATEL’.
+    4. Ordem denegada.” (HC 115.137/PI, Rel. Min. Luiz Fux, Primeira Turma, DJe 13.2.2014)
+    “HABEAS CORPUS. ATIVIDADE DE TELECOMUNICAÇÕES CONTRA O DISPOSTO EM LEI. TIPIFICAÇÃO DA CONDUTA. ART. 70 DA LEI N° 4.117/62. IMPOSSIBILIDADE. HABITUALIDADE DA CONDUTA. INCIDÊNCIA DO ART. 183 DA LEI N° 9.472/97. ORDEM DENEGADA.
+    1. A diferença entre a conduta tipificada no art. 70 do antigo Código Brasileiro de Telecomunicações e a do art. 183 da nova lei de Telecomunicações está na habitualidade da conduta.
+    2. Quando a atividade clandestina de telecomunicações é desenvolvida de modo habitual, a conduta tipifica o disposto no art. 183 da Lei n° 9.472/97, e não o art. 70 da Lei n° 4.117/62, que se restringe àquele que instala ou utiliza sem habitualidade a atividade ilícita em questão.
+    3. A denúncia narrou o uso ilegal das telecomunicações de modo habitual pelo réu, sendo correta a tipificação que lhe foi dada.
+    4. Ordem denegada.” (HC 93.870/SP, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 10.9.2010)
+    Na espécie, o paciente, em fase investigatória, declarou:
+    “(…) Que durante um ano e meio, aproximadamente, fez em média duas a três viagens mensais a Foz do Iguaçu para comprar jaquetas. (…) Que confirma que estava com a S-10 no dia 28/08/2010, quando da abordagem por policiais civis; Que as jaquetas que estava dentro da caminhonete eram todas do declarante, e seriam revendidas a vendedores ambulantes; Que comprou tais jaquetas por aproximadamente R$ 30,00 em Ciudad Del Este e as revenderia por cerca de R$ 48,00; Que o rádio amador instalado no veículo servia para realizar comunicação entre vários veículos, os quais viajavam em comboio; Que nesse comboios costumeiramente deslocava-se um carro adiante do grupo e outro carro na retaguarda, visando alertar os demais carros sobre fiscalização ou suspeita de possíveis assaltos na estrada; Que o declarante não dispunha de autorização dos órgãos competentes para o manuseio de tal rádio.” (eDOC 3, p. 124-125)
+    Evidente, assim, que a conduta do paciente era habitual, posto que realizava diversas viagens, nas quais se utilizava de equipamento transmissor instalado em seu veículo, de forma irregular, sem comprovação de autorização do poder concedente ou autorização judicial, consoante diligência realizada pela Agência Nacional de Telecomunicações – ANATEL.
+    Irreparável a decisão do e. STJ:
+    “(...) o acórdão recorrido está em dissonância com a jurisprudência desta Corte Superior e do Supremo Tribunal Federal firme no sentido de que a exploração de atividades de telecomunicações, de forma clandestina, constitui conduta tipificada no art. 183 da Lei 9.412/1997. No caso, além da inexistência de autorização prévia do órgão competente, havia habitualidade na conduta perpetrada pelo recorrido, conforme ressaltou o Juiz sentenciante, in verbis:
+    A assumida habitualidade das viagens empreendidas pelo autuado são compatíveis com a instalação e uso do equipamento. Outrossim, a experiência revela que a associação de aparelhos radiocomunicadores ao transporte ilícito de mercadorias é circunstância corriqueiramente observada.
+    Ademais, a instalação de aparelho de tal jaez demanda o emprego de razoáveis recursos econômicos e, pela própria natureza do equipamento, conduz à inferência de que é periodicamente utilizado pelo agente que conduz o veículo. Nesse contexto, a tese ministerial ganha força ao considerar-se que o autuado reconheceu que já teria feito diversas viagens anteriores com o mesmo veículo (fl. 146).
+    Nesse contexto, inviável a desclassificação do delito previsto no art. 183 da Lei n. 9.412/1997 para o tipo previsto no art. 70 da Lei n. 4.117/1962 (...).”
+    Desse modo, não há que se falar em desclassificação para o tipo do art. 70 da Lei 4.117/1962, considerando que a atividade de telecomunicações era desenvolvida habitualmente pelo paciente.
+    Ante o exposto, com base no art. 192, caput, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 26 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
