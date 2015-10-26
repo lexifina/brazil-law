@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Quinta Turma Recursal dos Juizados Cíveis e Criminais do Estado do Rio de Janeiro. No caso, o acórdão manteve a sentença condenatória por danos morais por negativa de procedimento de saúde pelo plano de saúde.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 3º, I; 5º, LIV; 93, IX e 114, I, todos da Constituição.
+    O recurso não deve ser provido. Isso porque, para chegar a conclusão sobre a competência diversa daquela estabelecida pelo Tribunal de origem, seriam necessários o reexame de fatos e provas e a análise das cláusulas contratuais. Nessa condições, a hipótese atrai a incidência das Súmulas 279 e 454/STF. Veja-se a ementa do ARE 761.671-AgR, julgado sob minha relatoria:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PLANO DE SÁUDE. PETROBRÁS. ALEGAÇÃO DE AFRONTA AOS ARTS. 5º, LIII, E 114, I E IX, DA CONSTITUIÇÃO. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454/STF. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL.
+    Em casos análogos, esta Corte entendeu que, para chegar a conclusão sobre a competência diversa daquela estabelecida pelo tribunal de origem, seriam necessários o reexame de fatos e provas, bem como a análise das cláusulas contratuais. Precedentes.
+    Agravo regimental a que se nega provimento.”
+    Outros precedentes: AI 817.304, Rel. Min. Dias Toffoli; ARE 712.869-AgR, Rel. Min. Marco Aurélio; ARE 675.920-AgR, Rel. Min. Luiz Fux; RE 723.210-AgR, Rel. Min. Ricardo Lewandowski; ARE 664.537-AgR, Rel. Min. Teori Zavascki.
+    Quanto aos arts. 5º, LV, e 93, IX, da Constituição, incide a jurisprudência deste Tribunal firmada no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 26 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
