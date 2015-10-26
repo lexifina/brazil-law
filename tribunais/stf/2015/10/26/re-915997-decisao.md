@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. LEGITIMIDADE PASSIVA. CONTRIBUIÇÃO DESTINADA AO SALÁRIO-EDUCAÇÃO. PRAZO PRESCRICIONAL. PRODUTOR RURAL. PESSOA FÍSICA. INEXIGIBILIDADE.
+    1. Segundo consolidada jurisprudência, em se discutindo a legalidade da contribuição social para o salário educação, a ação deve ser movida contra a a União e contra o Fundo Nacional de Desenvolvimento da Educação
+    2. Consoante já decidiu o egrégio STF, por ocasião do julgamento do RE nº 566.621/RS, para as ações ajuizadas após o término da vacatio legis da Lei Complementar nº 118/05, ou seja, após 08-06-2005, o prazo para repetição do indébito é quinquenal.
+    3. De acordo com exegese da legislação de regência, a contribuição ao salário-educação é devida somente pela empresa, assim entendida a firma individual ou sociedade que assume o risco de atividade econômica urbana ou rural, com fins lucrativos ou não. O produtor rural, pessoa física, não se enquadra no conceito de empresa.
+    4. Cabe ao FNDE devolver o montante da arrecadação a título de salário-educação que lhe foi destinado, ou seja, 99% do valor arrecadado e, à União, o valor restante”.
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 97; 195; e 212, § 5º, do texto constitucional.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, quanto à alegação de ofensa ao princípio da reserva de plenário, verifico que o Tribunal de origem, ao analisar o caso concreto, não declarou inconstitucional a Lei 9.424/96, nem afastou sua aplicação, por julgá-la inconstitucional, mas apenas interpretou a norma legal.
+    Cumpre registrar que é permitido aos magistrados, no exercício de atividade hermenêutica, revelar o sentido das normas legais, limitando a sua aplicação a determinadas hipóteses, sem que estejam declarando a sua inconstitucionalidade.
+    Nessa esteira, a jurisprudência desta Corte firmou-se no sentido de que, para caracterizar violação à cláusula de reserva de plenário, é necessário que a decisão fundamente-se na incompatibilidade entre a norma legal e o texto constitucional, o que não se verificou no caso concreto.
+    A esse propósito, cito o julgado a seguir:
+    “Agravo regimental no agravo de instrumento. Constitucional. Artigo 97 da Constituição Federal. Súmula Vinculante nº 10. Violação. Inexistência. Artigo 5º, inciso XXXII. Ofensa reflexa. Precedentes.
+    1. Pacífica a jurisprudência desta Corte de que não há violação do art. 97 da Constituição Federal e da Súmula Vinculante nº 10 do STF quando o Tribunal de origem, sem declarar a inconstitucionalidade da norma e sem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar e aplicar a legislação infraconstitucional ao caso concreto .
+    2. Inadmissível, em recurso extraordinário, a análise de ofensa indireta ou reflexa à Constituição.
+    3. Agravo regimental não provido.” (AI-AgR 848.332, rel. Min. Dias Toffoli, Primeira Turma, DJe 24.4.2012; grifei).
+    Mesmo que assim não fosse, melhor sorte não assiste à parte recorrente, pois o Tribunal de origem, analisando a legislação de regência aplicável ao caso, entendeu que o sujeito passivo da obrigação são as empresas, entendidas como sociedades ou firmas individuais que assumam o risco da atividade econômica, urbana ou rural, com fins lucrativos ou não. Assim, o autor, ora recorrido, produtor rural e pessoa física, não estaria compreendido no conceito de empresa, não lhe sendo exigível a exação.
+    Logo, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesse sentido, confira-se o seguinte precedente:
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. SALÁRIO-EDUCAÇÃO. INCIDÊNCIA SOBRE VALORES PAGOS A TRABALHADORES PORTUÁRIOS AVULSOS. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 21.8.2012. A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar, nesse compasso, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto compreender de modo diverso exigiria análise da legislação infraconstitucional encampada na decisão prolatada pela Corte de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido. (ARE-AgR 85.784, Rel. Min. Rosa Weber, Primeira Turma, DJe 19.2.2015)”.
+    Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 26 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
