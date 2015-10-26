@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CÍVEL. TRIBUTÁRIO E FISCAL. AÇÃO DECLARATÓRIA DE NULIDADE DE DÉBITO FISCAL. DIREITO DE AGIR DO CONTRIBUINTE INDEPENDENTEMENTE DO AJUIZAMENTO DO EXECUTIVO FISCAL. CONTRIBUIÇÃO DE MELHORIA. AUSÊNCIA DE LEI INSTITUIDORA ESPECÍFICA. INADMISSIBILDADE.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 150, I, da Carta. Sustenta, em síntese, que (i) não há na Constituição Federal qualquer dispositivo prevendo a necessidade de edição de uma lei específica para cada obra ensejadora da cobrança de contribuição de melhoria; (ii) a lei respeitou o princípio da anterioridade e (iii) o edital a que se refere o art. 5º do Decreto-Lei nº 195/1967 refere-se à necessidade de publicação de edital prévio ao lançamento, não à realização da obra.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o seguinte fundamento: “se ofensa houvesse a dispositivo constitucional, não seria de forma frontal e direta, como exige o apelo extremo, mas de forma reflexa, intermediada pela legislação infraconstitucional”.
+    Em sede de agravo, a parte reitera os argumentos já articulados no recurso extraordinário, ao tempo em que insiste na alegação de ofensa direta aos dispositivos constitucionais destacados na impugnação.
+    A pretensão não merece acolhida. A controvérsia relativa à necessidade de lei específica para a cobrança de contribuição de melhoria demandaria o reexame da legislação ordinária pertinente (Código Tributário Nacional e o Decreto-Lei nº 195/1967), providência vedada nesta fase processual. Nesse sentido, confiram-se o AI 852.084, Rel. Min. Dias Toffoli, e o ARE 698.234, Rel. Min. Luiz Fux.
+    Ademais, note-se que o acórdão recorrido deixou consignado o seguinte:
+    “De efeito, conforme se observa dos documentos dos autos, o que o artigo 82 do Código Tributário Nacional exige como requisito a ser observado, qual seja, a lei instituidora do tributo, na espécie, não houve. Foi ele veiculado através de simples editais, o que não pode ser. A tese de que, em havendo previsão legal do tributo do Código Tributário Municipal, não haveria necessidade de edição de lei específica para a sua cobrança, tem sido rechaçada por este colendo Tribunal de longa data.”
+    Por fim, observo que, para reputar adequada a tributação, seria necessário revisitar o acervo probatório constante dos autos. Somente um reexame das evidências autorizaria o dissenso com relação ao decidido pela instância ordinária. Incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, §1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 26 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
