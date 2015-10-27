@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. PENALIDADE APLICADA. REVISÃO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 279 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com o objetivo de reformar decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “Apelação Cível – Servidor Público Estadual – Pena de demissão aplicada pela Administração Pública a servidor público. Instaurado processo administrativo em que foram respeitados o direito de defesa e o devido processo legal tem-se como válido o ato administrativo demissionário porque em consonância com a previsão contida no artigo 5º, inciso LV da Constituição Federal. Supremacia do interesse público. Sentença mantida e ratificada nos termos do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça. Recurso improvido.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 37, caput, e 93, IX e X, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que encontra óbice nas Súmulas 279 e 282 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da CF).
+    Esta Corte firmou entendimento no sentido de que o processo administrativo disciplinar, quando sub judice a controvérsia cuja solução depende do confronto entre as condutas imputadas ao servidor e as tipificações da lei que regem esse processo, demanda a análise da legislação infraconstitucional que disciplina a espécie e do conjunto fático-probatório dos autos, o que inviabiliza o extraordinário, a teor da Súmula nº 279 de STF, que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. PENA DE DEMISSÃO. CONFRONTO ENTRE AS CONDUTAS IMPUTADAS E AS TIPIFICAÇÕES PREVISTAS NA LEI Nº 8.112/90. AUSÊNCIA DE PREVISÃO LEGAL PARA A APLICAÇÃO DA PENALIDADE MÁXIMA, DETECTADA PELO TRIBUNAL A QUO. NECESSIDADE DE REVOLVER MATÉRIA FÁTICA E INTERPRETAR DIREITO INFRACONSTITUCIONAL. EXAME DE LEGALIDADE DO ATO ADMINISTRATIVO.
+    A controvérsia cuja solução depende do confronto entre as condutas imputadas ao servidor e as tipificações da lei que rege o processo administrativo disciplinar se situa no mundo dos fatos e no campo infraconstitucional, o que impede a abertura da via extraordinária.
+    No exercício do controle de legalidade do ato administrativo, incumbe ao Judiciário observar, além da competência de quem o praticou e do cumprimento das formalidades legais que lhe são intrínsecas, também os respectivos pressupostos de fato e de direito. O exame desses aspectos implica a verificação da existência de previsão legal da causa apontada como motivadora da demissão do servidor público; isto é, a verificação da previsibilidade legal da sanção que lhe foi aplicada.
+    Precedentes: RE 75.421-EDv, Relator Ministro Xavier de Albuquerque. RE 88.121, Relator Ministro Rafael Mayer; AR 976, Relator Ministro Moreira Alves; e MS 20.999, Relator Ministro Celso de Mello.
+    Agravo Regimental desprovido.” (RE 395.831-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ de 18/11/2005).
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de outubro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
