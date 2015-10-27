@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “DIREITO TRIBUTÁRIO – IMPORTAÇÃO INDIRETA DE MERCADORIAS – ICMS – ARTIGO 155, § 2º, IX, DA CR/88 – LEI 6.763/75 E LC 87/96 – SUJEITO ATIVO – IMPORTADORA INTERMEDIÁRIA EM ESTADO FEDERADO DIVERSO DO DESTINATÁRIO FINAL – IMPORTAÇÃO INDIRETA – CARACTERIZADA - SENTENÇA MANTIDA. - Nos termos do art. 155, § 2º, IX, a, da Constituição Federal, o sujeito ativo da relação jurídico-tributária do ICMS é o Estado estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria importada.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “c”, da Constituição Federal, aponta-se violação aos arts. 5º, I; 150, IV; e 155, § 2º, IX, do Texto Constitucional, assim como a inconstitucionalidade da Lei Estadual 6.763/75.
+    Alega a parte Recorrente não ser a contribuinte do ICMS nesta operação de importação, por não tratar de estabelecimento destinatário dos bens.
+    Alude-se, ainda, ser da competência do Estado do Espírito Santo a exigência do tributo.
+    Sustenta-se também a inconstitucionalidade da Lei Estadual 6.763/75 por ofensa ao princípio da legalidade e à hierarquia das normas.
+    Por fim, assevera a inaplicabilidade da multa e seu caráter confiscatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Na hipótese em exame, o acórdão recorrido acolheu a interpretação, com base nos elementos de prova dos autos, de que teria ocorrido importação indireta de mercadorias, por meio de operação triangular, a fim de aproveitar as vantagens oferecidas pelo Estado do Espírito Santo, sede da empresa importadora.
+    Nesses termos, vê-se que, para discordar do entendimento do Tribunal de origem quanto à caracterização da “importação indireta”, seria necessário o reexame fático-probatório, procedimento inviável em sede de recurso extraordinário, nos termos da Súmula 279 do Supremo Tribunal Federal.
+    No mesmo sentido, cito os seguintes precedentes:
+    “CONSTITUCIONAL E TRIBUTÁRIO. ART. 155, §2º, IX, DA CONSTITUIÇÃO FEDERAL. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIA E SERVIÇOS – ICMS. OPERAÇÕES DE IMPORTAÇÃO. ESTADO APTO AO RECOLHIMENTO. LOCALIZAÇÃO DO ESTABELECIMENTO DESTINATÁRIO, INDEPENDENTEMENTE DO LOCAL DO DESEMBARAÇO ADUANEIRO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 279 DO STF. 1. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o sujeito ativo do ICMS é o Estado-membro para o qual, efetivamente, destinou-se a mercadoria importada, independentemente do local do desembaraço aduaneiro. 2. Agravo regimental a que se nega provimento.” (RE 460118 AgR, rel. Ministro Teori Zavaski, Segunda Turma, DJ 10.3.2014).
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ICMS. FATO GERADOR. ESTADO CREDOR. AGRAVO IMPROVIDO. I - O fato gerador do imposto ocorre no momento do desembaraço aduaneiro, no entanto, o Estado credor é aquele onde se localiza o estabelecimento importador. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Agravo regimental improvido.” (AI-AgR 663.936, Rel. Min. Ricardo Lewandowski, DJe 28.8.2009)
+    No que concerne à alegada inconstitucionalidade da Lei Estadual 6.763/75, verifica-se que a questão não foi ventilada no acórdão de origem, faltando, na hipótese, o necessário prequestionamento da matéria. Aplica-se, portanto, a Súmula 282 do STF. Ainda que assim não fosse, o fundamento infraconstitucional acolhido na origem seria suficiente para a manutenção da decisão recorrida, aplicando-se à hipótese a orientação assentada na Súmula 283 do STF.
+    Quanto à alegação do caráter confiscatório da multa imposta, incide a Súmula 284 desta Corte, uma vez o recorrente traz apenas argumentos genéricos sobre o caráter confiscatório da multa imposta, sem indicar as razões pelas quais haveria inconstitucionalidade ou mesmo o percentual da multa imposta.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “a”, do CPC, e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
