@@ -1,0 +1,40 @@
+Decisão:
+    Vistos.
+    Cuida-se de mandado de segurança, impetrado por Flávio Bussab Della Libera, em face de deliberação do Conselho Nacional do Ministério Público – CNMP, nos autos do Pedido de Avocação nº 0.00.000.000337/2015-10, assim ementado:
+    “PEDIDO DE AVOCAÇÃO. PROCESSOS ADMINISTRATIVOS DISCIPLINARA INSTAURADOS BM FACE DE MEMBRO DO MINISTÉRIO PÚBLICO DO ESTADO DO ACRE. ALEGAÇÃO DE NULIDADES. ATUAÇÃO REGULAR DA COMISSÃO PROCESSANTE. AUSÊNCIA DE RAZÕES DE INTERESSE PÚBLICO PARA JUSTIFICAR A AVOCAÇÃO DA COMPETÊNCIA PARA CONDUÇÃO DOS PAD;S. NECESSIDADE DA MEDIDA EXCEPCIONAI. NÃO DEMONSTRADA. PEDIDO DE AVOCAÇÃO IMPROCEDENTE.
+    1. Alegação de nulidades ocorridas no bojo de diversos Procedimentos Administrativos Disciplinares instaurados pelo Ministério Publico do Estado do Acre contra o membro Requerido.
+    2. A Procuradoria-Geral o a Corregedoria-Geral do Ministério Público do Acre, ao prestarem as informações necessárias à elucidação dos questionamentos trazidos a este Conselho pelo Requerente, diligenciaram de forma a justificar todas as supostas nulidades que acometeriam os PADs questionados.
+    3. Não se vislumbrou no caso, fato que ensejasse a nulidade das sindicâncias ou dos PADs ou irregularidades na condução destes no âmbito do Parquet acreano.
+    4. A avocação de procedimentos disciplinares por este Conselho é medida excepcional, não podendo ser utilizada como meio de se afastar o juízo administrativo natural competente para a apreciação do pleito disciplinar, com fundamento em mero temor intimo e portanto, subjetivo de um julgamento injusto ou parcial.
+    5. Entendimento consolidado no sentido de que a Avocação somente se justifica nos casos em que comprovada razões de relevância publica, considerando-se, para tal decisão, o fato de que se trata de medida de extremo desprestigio para o órgão avocado.
+    6. Existência de outros instrumentos jurídicos para a defesa de interesses individuais que por ventura venham a ser violados no curso de processo administrativo disciplinar.
+    7.Pedido de Avocação julgado improcedente.”
+    Em sua exordial narra o impetrante que, a par do pedido de avocação nº 337/2015-10 (autuado em 10/4/15), apresentou perante o CNMP, o PCA nº 296.2015-99 (autuado em 9/10/15), no bojo do qual suscitou a suspeição da Subcorregedora-Geral da Corte ministerial de origem (MP/AC), para atuar como Presidenta da comissão processante dos processos administrativos disciplinares contra ele instaurado.
+    O PCA nº 296/2015-99 – prossegue aduzindo – teria sido arquivado pelo relator do PCA nº 337/2015-10, e essa autoridade teria, ainda, juntado a prefacial daquele procedimento a esse último feito, como peça informativa. A decisão foi prolatada sob o seguinte fundamento:
+    “... Pelo exposto, reconheço a litispendência no presente PCA, razão pela qual determino o arquivamento desse, nos termos do art. 43, IX, “b”, do RICNMP, remetendo-se cópia da prefacial do requerente para ser juntada a título de novas informações nos autos do pedido de avocação nº 337/2015-10”.
+    Finaliza a narrativa apontando que, no julgamento do PCA nº 337/2015-10, a questão da suspeição não foi apreciada pelo CNMP, o que estaria por causar enorme prejuízo ao impetrante, pois, defende: “continuará a ser processado por Comissão Processante sem isenção, permanecendo a situação fático-jurídica, no status quo ante, como se não [es]tivesse eivado de nulificação absoluta e parcialidade”.
+    Sustenta que a “arguição de suspeição é um incidente que deve ser apreciado antes do julgamento do feito principal, restando clara a sua tempestividade em caso de sua propositura em momento anterior ao mencionado [julgamento]”. E prossegue:
+    “Desta forma, a suspeição trata-se de matéria de ordem pública, em que há violação direta ou reflexa, a um preceito constitucional como o Princípio do Juízo Natural, não comportando prazo e preclusão lógica”.
+    Requer a concessão de liminar, para:
+    “que seja sustada, até final decisão do presente mandado de segurança, a não aplicação do instituto da suspeição pelo órgão impetrado, aplicando-se aos Pads em tramitação na corte ministerial de origem, os efeitos legais decorrentes, provocando a nulidade absoluta de todos os atos instrutórios e decisórios exarados pela Presidente da Comissão Processante”.
+    Por fim, requer “a concessão definitiva da ordem, para que seja determinada a aplicação do instituto da suspeição de membro-presidente da comissão processante, de vez que inexistente o obstáculo alegado pela autoridade coatora à sua não inclusão e julgamento pelo Plenário da corte de controle máximo ministerial ocorrida em 13 de outubro de 2015.”.
+    É o relato do necessário. Decido.
+    Observo, em juízo de estrita delibação, próprio do provimento liminar, a presença dos elementos que justificam a concessão parcial da medida pleiteada.
+    De início, ressalto que a impetração se volta contra alegada omissão do CNMP em apreciar, quando do julgamento do Pedido de Avocação nº 337/2015-10 (item 7 dos autos eletrônicos), a suspeição alegada nos autos do PCA nº 296/2015-99 (item 8 dos autos eletrônicos).
+    Observo dos autos, que o aludido PCA nº 296/2015-10 foi objeto de arquivamento, por ter entendido o relator do feito se tratar de litispendência com a matéria objeto do pedido de avocação nº 337/2015-10, no bojo do qual o ora impetrante arguiu uma série de nulidades nos processos administrativos disciplinares contra ele instaurados pelo MP/AC.
+    O relator, então, promoveu a juntada de cópia da prefacial do PCA nº 296/2015-99 ao pedido de avocação nº 337/2015-10, e o fez “a título de novas informações”, mas destacando – reafirmo – que assim agia por se tratar de “litispendência” com a matéria já debatida nos autos do PCA nº 337/2015.
+    Da decisão monocrática referida (item 10 dos autos eletrônicos), depreende-se que o relator compreendeu (e aqui não é o caso de se fazer qualquer juízo de valor quanto à correção desse entendimento), que a questão da suspeição já era objeto do PCA nº 337/2015-10, e que, portanto, seria apreciada no momento do julgamento do Pedido de Avocação nº 337/2015-10.
+    Não obstante, ao julgar o Pedido de Avocação nº 337/2015-10, o CNMP não fez a apreciação da matéria constante da petição extraída dos autos do PCA nº 296/2015-99 – relativa à suspeição da Presidente da comissão processante –, razão pela qual é de se reconhecer omissão relevante no julgamento, o que caracteriza a fumaça do bom direito.
+    Lado outro, também é de se reconhecer a presença do perigo da demora, uma vez que eventual apreciação tardia da alegação de suspeição pode conduzir ao andamento inaproveitável dos processos administrativos disciplinares apontados pelo impetrante como viciados.
+    O deferimento da pretensão, contudo, há de ser parcial, pois a omissão em questão não autoriza, como pretende o impetrante, que adentre esta Corte na análise da alegada suspeição, para com isso provocar “a nulidade absoluta de todos os atos instrutórios e decisórios exarados pela Presidente da Comissão Processante”.
+    O que nesta medida cautelar se reconhece é a existência de omissão no julgamento do Pedido de Avocação nº 337/2015-10, reconhecimento desacompanhado de qualquer juízo de valor acerca da alegada suspeição; estando portanto preservada a competência do CNMP para dispor sobre a questão sob seu livre convencimento.
+    Pelo exposto, concedo parcialmente a medida cautelar, para reconhecendo a omissão apontada na exordial, determinar ao CNMP que aprecie o objeto constante da petição extraída dos autos do PCA nº 296/2015-99.
+    Notifique-se a autoridade coatora para que preste as informações no prazo de lei.
+    Comunique-se aos órgãos responsáveis pelo cumprimento desta decisão.
+    Com ou sem informações, vista à douta Procuradoria-Geral da República para manifestação como custos legis .
+    Ciência à Advocacia-Geral da União, na forma da lei.
+    Publique-se. Intime-se.
+    Brasília, 27 de outubro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
