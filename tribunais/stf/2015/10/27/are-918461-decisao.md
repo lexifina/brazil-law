@@ -1,0 +1,29 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. POLÍTICA SALARIAL. LEIS 10.395/1995, 12.443/2006 E 13.733/2011 DO RIO GRANDE DO SUL. INCIDÊNCIA DOS REAJUSTES SOBRE A PARCELA AUTÔNOMA DO MAGISTÉRIO. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA Nº 280 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VENCIMENTO. LEI ESTADUAL Nº 10.395/95. CORREÇÃO MONETÁRIA E JUROS DE MORA.
+    A correção monetária das parcelas far-se-á pelo IGP-M desde a data do inadimplemento de cada parcela, até a publicação da Lei nº 11.960/2009, a partir de quando atualização monetária, remuneração do capital e compensação por mora ocorre exclusivamente pelos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+    A compensação pela mora incide a partir da citação, na forma da Lei nº 11.960/09.
+    HONORÁRIOS ADVOCATÍCIOS.
+    A ação versa sobre incidência dos reajustes da Lei nº 10.395/95 sobre a Parcela Autônoma, sendo os honorários advocatícios de 5% sobre as parcelas vencidas até o ajuizamento da demanda e o mesmo percentual sobre as parcelas vincendas até a implantação administrativa do reajuste, via Lei nº 13.733/11, respeitado o limite máximo de uma anualidade.
+    APOSENTADORIA PELA MÉDIA SALARIAL – EC Nº 41/2003:
+    A circunstância de a parte autora ter se aposentado por invalidez, com base no artigo 40, § 1º, I, da Constituição Federal, não afasta o seu direito aos reajustes previstos na Lei Estadual nº 10.395/95, que, após a aposentadoria, naturalmente incidirão sobre os proventos proporcionais que a parte autora passou a perceber em razão do disposto no artigo supracitado.
+    NECESSIDADE DO REEXAME.
+    O Egrégio Superior Tribunal de Justiça afirma a necessidade de reexame necessário nas sentenças ilíquidas, caso dos autos, independentemente do valor atribuído à causa, explicitando que os pressupostos normativos para a dispensa do reexame são aferidos, não pelos elementos da demanda (petição inicial ou valor da causa) e sim pelos que decorrem da sentença que a julga.
+    APELAÇÃO PARCIALMENTE PROVIDA.
+    SENTENÇA CONFIRMADA QUANTO AO MAIS EM REEXAME NECESSÁRIO.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 40, § 3º e § 17, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da CF).
+    Da análise dos autos, verifico que o Tribunal de origem decidiu a controvérsia à luz da interpretação de normas locais, no caso sub exame, as Leis 10.395/1995 e 13.733/2011 do Rio Grande do Sul. Por conseguinte, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Tribunal a quo, o que inviabiliza o recurso extraordinário. Incide, in casu, o óbice da Súmula nº 280 do Supremo Tribunal Federal, de seguinte teor, verbis: ”Por ofensa a direito local não cabe recurso extraordinário”.
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula nº 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138).
+    Nesse mesmo sentido, cito os seguintes precedentes: AI 707.140-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, Turma, DJe de 12/3/2009, e RE 406.736-AgR, Rel. Min Marco Aurélio, Primeira Turma, DJe de 19/4/2013, que possui a seguinte ementa, verbis:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. EQUIPARAÇÃO SALARIAL. LEI ESTADUAL Nº 10.395/95. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL DO ACÓRDÃO RECORRIDO POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. ANÁLISE DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DO ENUNCIADO DA SÚMULA Nº 280 DO STF.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de outubro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
