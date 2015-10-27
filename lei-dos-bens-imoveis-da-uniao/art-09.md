@@ -1,3 +1,3 @@
 Art. 9º É vedada a inscrição de ocupações que:
-I - ocorreram após 27 de abril de 2006;
+I - ocorreram após 10 de junho de 2014;
 II - estejam concorrendo ou tenham concorrido para comprometer a integridade das áreas de uso comum do povo, de segurança nacional, de preservação ambiental ou necessárias à preservação dos ecossistemas naturais e de implantação de programas ou ações de regularização fundiária de interesse social ou habitacionais das reservas indígenas, das áreas ocupadas por comunidades remanescentes de quilombos, das vias federais de comunicação e das áreas reservadas para construção de hidrelétricas ou congêneres, ressalvados os casos especiais autorizados na forma da lei.
