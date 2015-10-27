@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. CSLL. COOPERATIVA. ISENÇÃO. ATOS COOPERATIVOS PRÓPRIOS.
+    1. A CSLL não deverá incidir apenas sobre os atos cooperativos próprios, conforme definição expressa do art. art. 79 da Lei 5.764/71 que não resultem em operação de mercado, contrato de compra e venda de produto ou mercadoria.
+    2. As Instruções Normativas ns. 198/88 e 390/04 da Secretaria da Receita Federal, ao estabelecerem que “as sociedades cooperativas calcularão a CSLL sobre o resultado do período de apuração, decorrente de operações com cooperados ou com não cooperados”, não extrapolam a regra de não incidência aos atos cooperativos típicos, conforme art. 79 da Lei 5.764/71, porque de tais atos não decorre lucro algum para a cooperativa.
+    3. Apelação da impetrante parcialmente provida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV e LV; 93, IX; 97; 146, III, c; 150, § 6º; 174, § 2º, da Carta.
+     O Plenário do Supremo Tribunal Federal, nos autos do RE 672.215-RG, atualmente sob minha relatoria, reconheceu a repercussão geral da matéria em exame. Confira-se a ementa:
+    “TRIBUTÁRIO. INCIDÊNCIA DA COFINS, DA CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL E DA CONTRIBUIÇÃO SOBRE O LUCRO LÍQUIDO SOBRE O PRODUTO DE ATO COOPERADO OU COOPERATIVO. DISTINÇÃO ENTRE “ATO COOPERADO TÍPICO” E “ATO COOPERADO ATÍPICO”. CONCEITOS CONSTITUCIONAIS DE “ATO COOPERATIVO”, “RECEITA DE ATIVIDADE COOPERATIVA” E “COOPERADO”. COOPERATIVA DE SERVIÇOS MÉDICOS. VALORES PAGOS POR TERCEIROS À COOPERATIVA POR SERVIÇOS PRESTADOS PELOS COOPERADOS. LEIS 5.764/1971, 7.689/1988, 9.718/1998 E 10.833/2003. ARTS. 146, III, c, 194, par. único, V, 195, caput, e I, a, b e c e § 7º e 239 DA CONSTITUIÇÃO.
+    Tem repercussão geral a discussão sobre a incidência da Cofins, do PIS e da CSLL sobre o produto de ato cooperativo, por violação dos conceitos constitucionais de “ato cooperado”, “receita da atividade cooperativa” e “cooperado”. Discussão que se dá sem prejuízo do exame da constitucionalidade da revogação, por lei ordinária ou medida provisória, de isenção, concedida por lei complementar (RE 598.085-RG), bem como da “possibilidade da incidência da contribuição para o PIS sobre os atos cooperativos, tendo em vista o disposto na Medida Provisória nº 2.158-33, originariamente editada sob o nº 1.858-6, e nas Leis nºs 9.715 e 9.718, ambas de 1998” (RE 599.362-RG, rel. min. Dias Toffoli)”.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, dou provimento ao agravo para conhecer do recurso extraordinário e determinar o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B, do CPC.
+    Publique-se.
+          Brasília, 27 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
