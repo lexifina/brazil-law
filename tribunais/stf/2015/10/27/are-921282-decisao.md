@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Santa Catarina, ementado nos seguintes termos:
+    “ADMINISTRATIVO - AÇÃO POPULAR - DESISTÊNCIA DA AÇÃO PELA PARTE AUTORA - PROSSEGUIMENTO DA LIDE - LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO - ART. 9º, DA LEI FEDERAL N. 4.717/65 - CABIMENTO - ILEGITIMIDADE PASSIVA - AFASTAMENTO - DIVULGAÇÃO JORNALÍSTICA DE PUBLICIDADE OFICIAL - PROMOÇÃO PESSOAL DO ADMINISTRADOR PÚBLICO - ART. 37, § 1º DA CONSTITUIÇÃO FEDERAL - DESRESPEITO AOS PRINCÍPIOS DA IMPESSOALIDADE E DA MORALIDADE - INVALIDADE DO ATO ADMINISTRATIVO - DEVER DE RESSARCIR AOS COFRES PÚBLICOS O VALOR DA DESPESA - RECURSO DESPROVIDO.
+    A parte autora, ao requerer a desistência da ação popular, assegura ao representante do Ministério Público, nos termos do art. 9º da Lei Federal n. 4.717/65, o direito de dar prosseguimento à lide.
+    A ação popular não ampara direitos individuais próprios do autor, mas interesse da coletividade, constituindo forma de exercício da soberania popular, com função fiscalizadora, corretiva ou supletiva da atividade administrativa, fundada nos princípios da legalidade e da moralidade dos atos administrativos e da preservação da coisa pública, com vistas ao estancamento de ato ilegal lesivo à moralidade administrativa ou ao patrimônio público.
+    O beneficiário do ato lesivo à Fazenda Pública é parte legítima para responder a ação popular em que se busca a restituição da quantia despendida com publicação jornalística que serviu à promoção pessoal dele, como administrador público.
+    Comprovada a promoção pessoal da autoridade por meio de divulgação jornalística de obras públicas, considera-se inválido o ato administrativo que determinou a veiculação e o pagamento, condenando-se o administrador público beneficiado a restituir aos cofres públicos os valores despendidos com a publicação, nos termos do artigo 37, caput e § 1.º da Constituição Federal”. (fl. 716).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se, violação ao artigo 37, § 1º, do texto constitucional.
+    Nas razões recursais, defende-se, em síntese, que não há qualquer excesso na propaganda que possa considerá-la uma publicidade pessoal.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “Como restou amplamente demonstrado nos autos, foi o apelante quem se promoveu com a publicidade estampada no Jornal "A Notícia", uma vez que a mesma foi veiculada de maneira que levasse a crer que foi o Sr. Secretário de Estado de Transporte e Obras quem realizou as obras na rodovia e não o Estado de Santa Catarina.
+    O art. 6º, caput, da Lei n. 4.717, de 29.06.1965, estabelece que a ação popular deverá ser proposta contra as autoridades, os funcionários ou administradores que tenham autorizado, aprovado, ratificado ou praticado o ato impugnado, "e contra os beneficiários diretos do mesmo".
+    Portanto, é irrecusável a legitimidade do recorrente para estar no pólo passivo da presente ação popular em que a autoria lhe imputa a promoção pessoal por meio de divulgação jornalística de obras públicas coordenadas pela Secretaria do Estado de Transportes e Obras de que aquele era titular, ao tempo do fato, porque teria sido ele o grande beneficiário do ato administrativo afrontoso à norma constitucional proibitiva, ainda que a ordem para a publicação e a autorização para o pagamento do custo tenham partido do Secretário de Estado de Governo da época” (fl. 716).
+    Na espécie, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável à espécie, o que não enseja a abertura do recurso extraordinário, uma vez que se aplica o Enunciado da Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “Agravo regimental no recurso extraordinário. Ação civil pública. Improbidade administrativa. Promoção pessoal. Caracterização. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A discussão sobre a caracterização de promoção pessoal em publicidade veiculada pela administração local não prescinde da análise dos fatos e das provas dos autos, a qual é incabível na via extraordinária, a teor do disposto na Súmula nº 279 da Corte. 2. Agravo regimental não provido.”
+(RE 607437 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 8.10.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE CARÁTER INFORMATIVO DA PUBLICIDADE. IMPROBIDADE ADMINISTRATIVA. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(ARE 741379 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 30.8.2013)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, §4º, II, a, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 27 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
