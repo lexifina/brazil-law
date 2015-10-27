@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de agravo regimental cujo objeto é decisão que negou provimento ao agravo, tendo em vista estar correta a decisão do Tribunal de origem que inadmitiu o recurso extraordinário (art. 544, § 4º, II, a , do CPC), sob o fundamento de que a matéria controvertida está restrita ao âmbito infraconstitucional.
+    A parte agravante sustenta que “o aresto recorrido (objeto do RE interposto), na verdade, diverge cabalmente da jurisprudência dessa Corte Suprema acerca do tema sob exame”.
+    Merece prosperar o inconformismo.
+    Em casos análogos, o Supremo Tribunal assentou ser “legítima a restrição à importação de bens de consumo usados, estabelecida pela Portaria DECEX 08/91, tendo em vista que, além de guardar perfeita correlação lógica com a disparidade de tratamento jurídico conferida, revela-se consentâneo com o art. 237 da Constituição, que confere à autoridade fazendária competência para a fiscalização e o controle do comércio exterior” (RE 224.861, sob a relatoria do Ministro Octavio Gallotti). Nesse mesmo sentido, vejam-se os seguintes precedentes:
+    “IMPORTAÇÃO DE AUTOMÓVEIS USADOS. PROIBIÇÃO DITADA PELA PORTARIA Nº 08, DE 13.05.91, DO MINISTÉRIO DA FAZENDA. ALEGADA AFRONTA AO PRINCÍPIO CONSTITUCIONAL DA ISONOMIA, EM PRETENSO PREJUÍZO DAS PESSOAS DE MENOR CAPACIDADE ECONÔMICA.
+    Entendimento inaceitável, porque não demonstrado que a abertura do comércio de importação aos automóveis tenha o fito de propiciar o acesso da população, como um todo, ao produto de origem estrangeira, única hipótese em que a vedação da importação aos automóveis usados poderia soar como discriminatória, não fosse certo que, ainda assim, considerável parcela dos indivíduos continuaria sem acesso aos referidos bens.
+    Discriminação que, ao revés, guarda perfeita correlação lógica com a disparidade de tratamento jurídico estabelecida pela norma impugnada, a qual, ademais, se revela consentânea com os interesses fazendários nacionais que o art. 237 da CF teve em mira proteger, ao investir as autoridades do Ministério da Fazenda no poder de fiscalizar e controlar o comércio exterior. Orientação firmada pelo Plenário do Supremo Tribunal Federal, no julgamento do RE 203.954-3.
+    Recurso extraordinário conhecido e provido.” (RE 221.061, Rel. Min. Ilmar Galvão)
+    “IMPORTAÇÃO - VEÍCULOS USADOS. Na dicção da ilustrada maioria do Supremo Tribunal Federal, mostra-se constitucional, sob o ângulo isonômico, a proibição relativa à importação de veículos usados - Precedentes: Recurso Extraordinário nº 202.313-2/CE, relatado pelo Ministro Carlos Velloso e Recurso Extraordinário nº 203.954-3/CE, do qual foi Relator o Ministro Ilmar Galvão.” (RE 215.228, Rel. Min. Marco Aurélio)’
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 557, § 1º-A, do CPC e no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário. Invertidos os ônus de sucumbência, ressalvada eventual concessão de justiça gratuita. Julgo prejudicado o agravo regimental.
+    Publique-se.
+          Brasília, 27 de outubro de 2015.
+Ministro Roberto Barroso
+Relator
