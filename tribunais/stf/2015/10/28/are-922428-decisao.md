@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região.
+    A pretensão não merece acolhida. A jurisprudência do Supremo Tribunal Federal tem orientação no sentido de que as alegações de nulidade da Certidão de Dívida Ativa não possuem ressonância constitucional. Neste sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CERTIDÃO DE DÍVIDA ATIVA. PRESCRIÇÃO. NULIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF. A pretensão recursal ampara-se em pretenso equívoco na contagem do prazo prescricional, o que decorreria da adoção de termo inadequado. A matéria não encontra repercussão imediata na Constituição Federal. Ademais, as razões de decidir assentadas pela instância ordinária só poderiam ser revistas mediante o revolvimento das provas constantes dos autos. Agravo regimental a que se nega provimento.” (AI 811.250-AgR, da minha relatoria)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DE CDA. LANÇAMENTO DE DÉBITO TRIBUTÁRIO COM BASE EM LEI POSTERIOR À OCORRÊNCIA DO FATO GERADOR DO TRIBUTO. LEI QUE REPETE O CONTEÚDO DE LEI ANTERIOR, VIGENTE A ÉPOCA DOS FATOS. IMPOSSIBILIDADE DA APLICAÇÃO DE LEI A FATOS GERADORES ANTERIORES À SUA VIGÊNCIA. VERIFICAÇÃO DO ATENDIMENTO DOS REQUISITOS DE VALIDADE DA CDA E DA EXISTÊNCIA DE PREJUÍZO PARA O EXECUTADO. NECESSIDADE DO EXAME DE PROVAS E LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279 E OFENSA INDIRETA À CF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – É inconstitucional permitir que lei que institua tributo seja aplicada a fatos geradores anteriores à sua vigência, em razão do princípio da irretroatividade (art. 150, III, a, da CF).
+    II – Lei nova que repete o conteúdo de lei anterior, quanto à previsão de tributo, dispensa a obediência às regras da anterioridade tributária, mas os fatos geradores são regidos dentro do período de vigência da cada norma.
+    III – A verificação do atendimento aos requisitos de validade da CDA e da existência de prejuízo para o executado no caso concreto depende da reanálise dada ao conjunto fático-probatório dos autos e do exame de normas infraconstitucionais. Inviabilidade do extraordinário. Súmula 279 do STF e ofensa indireta.
+    IV - Agravo regimental a que se nega provimento.(RE 776.156-AgR, Rel. Min. Ricardo Lewandowski)
+    Agravo regimental em agravo de instrumento. 2. Tributário. Nulidade de CDA. 3. Incidência do Enunciado 27 da Súmula do STF. 4. Necessidade de exame prévio de normas infraconstitucionais. Ofensa reflexa. 5. Agravo regimental a que se nega provimento.” (AI 778.746-AgR, Rel. Min. Gilmar Mendes)
+    Dissentir das conclusões adotadas pelo Tribunal de origem, demandaria o reexame do acervo probatório constante dos autos, providência vedada nesta fase processual, nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 28 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
