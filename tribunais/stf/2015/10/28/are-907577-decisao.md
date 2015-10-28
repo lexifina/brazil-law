@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 2°, 5°, II, e 146, III, b, da Constituição Federal. O recorrente alega que a violação aos citados dispositivos constitucionais decorreria do não reconhecimento da prescrição quinquenal.
+    Anote-se a ementa da decisão recorrida:
+    “APELAÇÃO – Ação de repetição de indébito – Não ocorrência da prescrição e da decadência – Ação direta de inconstitucionalidade julgada procedente pelo Órgão Especial do Tribunal de Justiça que considerou inconstitucionais artigos da Lei Complementar n° 263, de 11 de dezembro de 2000, do Município de Praia Grande, que instituíram as taxas de conservação e limpeza de vias e logradouros públicos (“TSU-B”) - Apelante que questiona a restituição ex tunc – inviabilidade – Os juros de 1% ao mês deverão incindir a partir do trânsito e julgado a teor do parágrafo único do C.T.N. e Súmula 168 do STJ – Deram parcial provimento aos recursos, nos termos do v. Acórdão”.
+    Decido.
+    A irresignação não merece prosperar.
+    Colhe-se do acórdão recorrido:
+    “Não colhem os argumentos expedidos pela apelante quanto à ocorrência da prescrição e nem quanto à decadência conforme sustentou o MM. Juiz na r. Sentença, cujos fundamentos são adotados.
+    (…)
+    Os autores comprovaram, por cópia reprográfica, que a ação direta de inconstitucionalidade n° 104.018.0/0, foi julgada procedente pelo Órgão Especial do Egrégio Tribunal de Justiça, que declarou inconstitucional o inciso II, do art. 310, dos parágrafos 2° e 3° do art. 313 e do art. 314 (parcial) da Lei Complementar n° 236, de 23 de novembro de 1999 e arts. 28 e 29 da Lei Complementar n° 263, de 11 de dezembro de 2000, do Município de Praia Grande”.
+    Como se vê, o Tribunal de origem decidiu a causa com base na legislação infraconstitucional. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. PRAZO PRESCRICIONAL. REPETIÇÃO DE INDÉBITO. TRIBUTO DECLARADO INCONSTITUCIONAL PELO SUPREMO TRIBUNAL FEDERAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – A Corte tem se orientado no sentido de que a controvérsia acerca do termo inicial para contagem do prazo prescricional para a repetição de indébito referente a tributo declarado inconstitucional pelo Supremo Tribunal Federal demanda análise de legislação infraconstitucional, A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Agravo regimental improvido” (AI n° 808.332/RS-AgR-segundo, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 11/4/11).
+    “TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. PRAZO PRESCRICIONAL. REPETIÇÃO DE INDÉBITO. TRIBUTO DECLARADO INCONSTITUCIONAL PELO SUPREMO TRIBUNAL FEDERAL. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL: MATÉRIA DIVERSA. ALEGAÇÃO DE OMISSÃO. PRETENSÃO DE REFORMA DO JULGADO. IMPOSSIBILIDADE. 1. Os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais. 2. Não há vício a sanar quando o acórdão do agravo regimental afasta, com apoio na jurisprudência desta Corte, todos os argumentos deduzidos pelos embargantes. 3. Inexistência de omissão, contradição ou obscuridade a sanar. 4. Embargos de declaração rejeitados” (AI n° 520.491/PR-AgR-ED, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 8/2/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRAZO PRESCRICIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A discussão relativa ao prazo prescricional para propositura da ação situa-se no campo infraconstitucional. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE nº 485.013–AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 13/4/07).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 28 de outubro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
