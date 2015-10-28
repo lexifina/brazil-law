@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 2ª Turma Recursal e Cível do Colégio Recursal de São Paulo – Penha da França, que confirmou a sentença por seus próprios fundamentos, com a seguinte ementa (fl. 85):
+    “Consumidor. Telefonia. Vícios na prestação dos serviços. Indisponibilidade de sinal/Problemas de cobertura que prejudicam a incidência da contraprestação devida à operadora. Bem prolatada ordem de rescisão contratual e consequente estorno das quantias adimplidas pelo recorrido no período reclamado. Danos morais existentes. Procedência parcial do pedido. Sentença confirmada por seus próprios fundamentos 9art. 46 da Lei 9.099/95). Negado provimento ao recurso da recorrente. Condenação ao pagamento de custas e despesas processuais. Sem imposição de honorários sucumbenciais (recorrido sem patrono constituído).”
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, aponta-se violação ao artigo 5°, II, X, LIV, LV, do texto constitucional.
+    Nas razões recursais, aponta-se que o recorrido não demonstrou a presença de nexo de causalidade, nem de prejuízo, nem de ato ilícito, nem de culpa do recorrente para que houvesse devolução dos valores pagos.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    A sentença, confirmada pelo acórdão do Tribunal a quo, reconheceu ser devida a restituição do valor pago pelo autor nos seguintes termos (fl. 54):
+    “Assim, alegado o vício na prestação dos serviços, caracterizada a hipossuficiência da parte autora, invertido o ônus da prova, e não acostado aos autos qualquer documento que demonstre vistoria realizada pela ré na unidade consumidora do autor, não há outra consequência senão dar como procedente o pedido do autor, a fim de considerar como efetivamente ocorridos os equívocos apontados na exordial. Prosperam, assim, os pedidos concernentes à resolução do contrato sem ônus e ressarcimento de contas pagas.”
+    Destarte, para se entender de forma diversa do que confirmado no acórdão recorrido, seria necessário o revolvimento do conjunto fático-probatório dos autos e a análise da legislação infraconstitucional (no caso, do CPC), o que é vedado pelos Enunciados 279 e 636 da Súmula desta Corte. Nesse sentido, o seguinte precedente:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. INDENIZAÇÃO POR DANOS MORAIS. RESTITUIÇÃO DE VALOR PAGO INDEVIDAMENTE. 1. Conversão em agravo regimental. 2. Matéria infraconstitucional. Ofensa constitucional indireta. 3. Inviabilidade de reexame de fatos e provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 4. Agravo regimental ao qual se nega provimento.” (ARE 680645 ED / MG, Rel. Min. Carmen Lúcia, Primeira Turma, DJe 14.6.2012 )
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO DO CONSUMIDOR. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE VEÍCULO. RESTITUIÇÃO DOS VALORES PAGOS. ALEGADA ILEGITIMIDADE PASSIVA AD CAUSAM. CONTROVÉRSIA DECIDIDA À LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR E DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 625148 AgR / ES, Rel. Min. Carmen Lúcia, Primeira Turma, DJe 7.4.2011)
+    Ante ao exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 28 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
