@@ -1,0 +1,39 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU. SUJEITO PASSIVO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ÁREA PORTUÁRIA. POSSE SEM ANIMUS DOMINI. ARTIGO 34 DO CTN. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE MANTIDO. ÓBICE DA SÚMULA Nº 283 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos (fl. 147 do Doc. 02), interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário (fl. 61 do Doc. 02), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (fl. 46 do Doc. 02) que assentou, verbis:
+    “APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. IPTU . ÁREA DE DOMÍNIO DA UNIÃO. COMPANHIA DAS DOCAS DA BAHIA. OPERADORA PORTUÁRIA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. POSSE SEM ANIMUS DOMINI NÃO CONFIGURA CASO DE TRIBUTAÇÃO DE IPTU. INSUBSISTÊNCIA DE EVENTUAL LANÇAMENTO TRIBUTÁRIO POR FALTA DE ELEMENTOS NECESSÁRIOS À CONSTITUIÇÃO DO CRÉDITO. IMUNIDADE TRIBUTÁRIA EVIDENTE. ARTIGO 150, VI, A, DA CF/88. PRECEDENTES STJ. REsp 1096229/SP. Resp 1.190.177/BA. REsp 811.538/RS. APELO NÃO PROVIDO, DECISUM MANTIDO.
+    1. O Superior Tribunal de Justiça já decidiu, em julgado do Ministro José Delgado, ser o possuidor com animus domini sujeito passivo do IPTU. Assim, de acordo com o julgado, não é qualquer posse que configure a tributação por IPTU, “in verbis”:
+    ‘TRIBUTÁRIO. CONTRATO DE CONCESSÃO DE USO. IPTU. INEXIGÊNCIA.
+    1. O contrato de concessão de uso é negócio jurídico bilateral de natureza pessoal.
+    2. Não há elementos jurídicos determinando que, para fins tributários, o contrato de concessão de uso seja equiparado ao domínio útil de bem.
+    3. O contribuinte do Imposto sobre a Propriedade Predial e Territorial Urbana é o proprietário do imóvel, titular do imóvel, o titular do seu domínio útil, ou seu possuidor a qualquer título (art. 32 do CTN).
+    4. Só é contribuinte do IPTU quem tenha o animus dominis, que pode ser expresso pelo exercício da posse ou do próprio domínio.
+    5. A concessão de uso é um contrato bilateral típico que não caracteriza expressão de animus dominis.
+    6. A posse exercida pelo cessionário, no contrato de concessão de uso, é expressiva, apenas, no negócio jurídico pessoal celebrado. Não exterioriza propriedade, nem abre espaço para se considerar o cessionário como possuidor.
+    7. Recurso improvido.”
+    (Superior Tribunal de Justiça: REsp 681.406/RJ, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 07.12.2004, DJ 28.02.2005 p. 252).
+    2. O pólo passivo da obrigação tributária do IPTU é o proprietário ou possuidor por direito real que exerça a posse com “animus domini” (art. 34 do CTN). Assim, a posse prevista no CTN como tributável é a de pessoa que já é ou pode vir a ser proprietária da coisa, o que não é o caso da CODEBA.
+    3. É entendimento pacífico no Superior Tribunal de Justiça que as concessionárias de serviços públicos - como acontece no caso (serviço público portuário) -, quando possuidoras diretas de determinado bem sem animus domini, não são responsáveis pelo pagamento de IPTU. Isto porque, nos termos do art. 34 do CTN, o sujeito passivo de tal exação é, em princípio, o proprietário do imóvel, salvo nos casos em que a identificação do mesmo é impossível - quanto, só então, é possível chamar os possuidores a arcar com o ônus tributário.
+    4. APELO NÃO PROVIDO. DECISUM MANTIDO.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 150, VI, a, e § 3º da Constituição Federal. Alega que sociedade de economia mista não é beneficiária da imunidade tributária.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a acórdão recorrido estaria em harmonia com a jurisprudência do STF. (fl. 142 do Doc. 02).
+    O Superior Tribunal de Justiça negou provimento ao agravo em recurso especial (fl. 197 do Doc. 02)
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (artigo 102, § 3º, da CF).
+    Sem razão.
+    Verifico que o Superior Tribunal de Justiça, ao negar provimento ao agravo em recurso especial, manteve incólume fundamento de caráter legal, autônomo e suficiente, qual seja, a interpretação do artigo 34 do CTN, que dispõe sobre o sujeito passivo do tributo.
+    Incide, na espécie, o enunciado da Súmula nº 283 do STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas acerca da Súmula nº 283 do STF:
+    “Pontes de Miranda sustentava opinião favorável à admissão do recurso extraordinário com fulcro num dos fundamentos quando a decisão assenta em vários (Comentários ao Código de Processo Civil, 2ª ed., t. XII/278). Opiniões contrárias são sustentadas por Lopes da Costa (Direito Processual Civil Brasileiro, 2ª ed., v. III/418) e José Afonso da Silva (Do Recurso Extraordinário, p. 201), que inadmitem o recurso nessas condições.
+    A Súmula 283 expressa que é inadmissível o recurso extraordinário quando a decisão recorrida tem mais de um fundamento suficiente e o recurso não abrange todos eles (RE 65.072, Rel. Min. Amaral Santos, RTJ 53/371; RE 66.768, Rel. Min. Djaci Falcão, RTJ 52/606; RE 60.854, Rel. Min. Barros Monteiro, RTJ 45/855; RE 63.174, Rel. Min. Evandro Lins, RTJ 45/419; RE 79.083, Rel. Min. Rodrigues de Alckmin, RTJ 75/844; RE 79.623, RTJ 75/849; RE 84.077, RTJ 80/906).
+    Aplicável o disposto nesta Súmula (decisão assentada em mais de um fundamento) às decisões do STJ (REsp 16.076; REsp 21.064; REsp 23.026; REsp 29.682).
+    V. Luiz Guilherme Marinoni, Manual do Processo de Conhecimento, Ed. RT, 2001, p. 561.” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 140).
+    Destaca-se, nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL OBJETIVA. NEXO CAUSAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. FUNDAMENTO INFRACONSTITUCIONAL MANTIDO COM O JULGAMENTO DO RESP. APLICABILIDADE DA SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base no conjunto fático-probatório constante dos autos. Assim, a apreciação do RE demandaria o reexame de provas, o que atrai a incidência da Súmula 279 do STF. II - Os fundamentos infraconstitucionais, suficientes para a manutenção do acórdão recorrido, permaneceram incólumes com o julgamento do recurso especial pelo STJ. Incidência da Súmula 283 do STF. III - Agravo regimental improvido.” (RE 529.241-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 14/03/2011).
+    “TRIBUTÁRIO. BTNs CAMBIAIS. IPC. MATÉRIA INFRACONSTITUCIONAL. SÚMULA STF 454 E 283. 1. A matéria referente ao índice cabível por ocasião do resgate dos títulos situa-se no âmbito infraconstitucional e demanda o reexame de cláusulas contratuais (Súmula STF 454). Precedentes. 2. O fundamento infraconstitucional manteve-se inalterado em virtude do não-conhecimento do recurso especial transitado em julgado (Súmula STF 283). 3. Agravo regimental a que se nega provimento.” (RE 331.393-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 23/03/2011)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de outubro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
