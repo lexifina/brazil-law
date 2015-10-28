@@ -1,0 +1,18 @@
+DECISÃO
+INTERROGATÓRIO – CORRÉUS – PRESENÇA – PROCESSO-CRIME – SUSPENSÃO – HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O paciente e outras três pessoas foram denunciados pela suposta prática dos delitos previstos no artigo 171 (estelionato), combinado com o 288 (associação criminosa), em concurso material, ambos do Código Penal. Na sequência, o Juízo da 23ª Vara Criminal da Comarca da Capital do Rio de Janeiro, no Processo nº 0093054-08.2006.8.19.001, teria indeferido o pedido mediante o qual a defesa visou a permanência do acusado na sala de audiência de interrogatório, para assistir ao depoimento dos demais corréus. Consoante alegado, o indeferimento respaldou-se na inexistência de amparo legal. Em 15 de fevereiro de 2013, sobreveio a condenação à pena de cinco anos de reclusão, em regime semiaberto, e 50 dias-multa, reconhecendo-se ao réu o direito de recorrer solto.
+    Em habeas corpus, objetivou-se a declaração de nulidade de todos os atos do processo a partir do interrogatório. A Relatora negou seguimento à impetração, pois entendeu serem a apelação ou a ação revisional os meios adequados à impugnação da sentença. A Sexta Câmara Criminal do Tribunal de Justiça, ao desprover agravo regimental, consignou a impossibilidade de reconhecer o vício processual arguido, ante a necessidade de demonstração do prejuízo.
+    No Recurso Ordinário em Habeas Corpus – nº 47.078/RJ, alegou-se violação à ampla defesa. O Relator não admitiu a impetração. Assentou estar inviabilizada a análise da questão, porquanto não enfrentada pelo Tribunal de origem. Destacou não haver ameaça ou coação ilegal ao direito de locomoção passível da concessão da ordem de ofício. A Quinta Turma do Superior Tribunal de Justiça negou provimento a agravo regimental. Aludiu à existência de apelação em curso, a obstaculizar a análise do tema atinente à nulidade, sob pena de indevida supressão de instância.
+    Neste habeas, os impetrantes repetem a argumentação expendida nas instâncias anteriores. Reafirmam a nulidade absoluta do processo, em decorrência da afronta aos princípios da ampla defesa e do contraditório. Destacam a necessidade de observância às disposições do artigo 188 do Código de Processo Penal, que, segundo sustentam, assegura a presença do acusado no interrogatório dos corréus. Asseveram que a oitiva dos acusados, separadamente, não traduz impedimento de participação nos atos do processo. Reportam-se aos precedentes da Primeira e Segunda Turmas, bem como às disposições do Pacto de São José da Costa Rica e do Pacto Internacional sobre Direitos Civis e Políticos. Dizem estar o paciente na iminência de ser preso em virtude de condenação formalizada em processo nulo.
+    Requerem, liminarmente, o sobrestamento do Processo nº 0093054-08.2006.8.19.001, em trâmite na Sexta Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro.
+    No mérito, pleiteiam seja declarada a nulidade de todos os atos processuais a partir do interrogatório e, sucessivamente, determinado ao Superior Tribunal de Justiça a apreciação do Recurso Ordinário em Habeas Corpus nº 47.078/RJ.
+    A fase é de exame da liminar.
+    2. Observem a organicidade do Direito, mais especificamente o disposto no artigo 191 do Código de Processo Penal: “Havendo mais de um acusado, serão interrogados separadamente”.
+    Vale dizer que o interrogatório de corréus não deve ser feito com a presença do outro.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 28 de outubro de 2015, às 10h45.
+Ministro MARCO AURÉLIO
+Relator
