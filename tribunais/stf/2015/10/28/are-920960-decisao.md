@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E PROCESSUAL CIVIL. POSSIBILIDADE DE EXECUÇÃO INDIVIDUAL EM SENTENÇA COLETIVA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Segunda Câmara Cível do Tribunal de Justiça do Paraná decidiu:
+    “APELAÇÃO 1 - ADMINISTRATIVO E PROCESSUAL CIVIL.
+    - EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA - SERVIDOR PÚBLICO - REMUNERAÇÃO - ILEGALIDADE DA COBRANÇA DE JUROS PROSPECTIVOS - INOCORRÊNCIA - EXCESSO DE EXECUÇÃO VERIFICADO POR OUTRO FUNDAMENTO - PERCENTUAL DOS JUROS DO MÊS DE ABRIL QUE DEVEM SER CALCULADOS PRO RATA D/E, CONTADOS A PARTIR DA CITAÇÃO - EXEGESE DO ART. 405 DO CC.
+    - MÊS FINAL DE REFERÊNCIA - SUCUMBÊNCIA RECÍPROCA - PROVEITO ECONÔMICO ÍNFIMO, QUE NÃO JUSTIFICA A ALTERAÇÃO DO ÔNUS - MANUTENÇÃO DA PROPORÇÃO DEFINIDA NA SENTENÇA.
+    APELAÇÃO 2 - TÍTULO EXECUTIVO JUDICIAL - AUSÊNCIA DE INTERESSE RECURSAL, NO TOCANTE AO PERÍODO EM QUE A GAS É DEVIDA - AÇÃO COLETIVA - PRELIMINAR DE ILEGITIMIDADE DE PARTE - SINDSAÚDE - SUBSTITUTO PROCESSUAL - LEGITIMIDADE EXTRAORDINÁRIA - EXECUÇÃO INDIVIDUAL DO TÍTULO CONDENATÓRIO COLETIVO - POSSIBILIDADE - EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR (RPV) PARA PAGAMENTO - CABIMENTO - LEI ESTADUAL N. 13.666/02 - IMPLANTAÇÃO DA GRATIFICAÇÃO DE ATIVIDADE DE SAÚDE (GAS), COM A SUPRESSÃO DA GRATIFICAÇÃO POR INSALUBRIDADE - DEDUÇÃO DOS VALORES PAGOS A TÍTULO DE INSALUBRIDADE NO PERÍODO DE JULHO DE 2003 A SETEMBRO DE 2004 POSSIBILIDADE - PRECLUSÃO INOCORRENTE - ANÁLISE DA MATÉRIA EM SEDE DE EMBARGOS À EXECUÇÃO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA - EXCEÇÃO À REGRA PREVISTA NO INCISO VI DO ARTIGO 741 DO CPC - EXCESSO DE EXECUÇÃO RECONHECIDO NESTE PONTO.
+    APELAÇÃO 01 PARCIALMENTE PROVIDA. APELAÇÃO 02 PARCIALMENTE CONHECIDA E, NESSA PARTE, PARCIALMENTE PROVIDA” (fl. 277).
+    3. Na decisão agravada, foram adotadas como fundamentos para a inadmissibilidade do recurso extraordinário a harmonia do julgado recorrido com a jurisprudência do Supremo Tribunal Federal e a incidência da Súmula n. 280 deste Supremo Tribunal.
+    4. O Agravante argumenta que
+     “a questão aqui consiste em determinar se o art. 100, § 8º, da Constituição Federal veda (ou não) fracionamento da execução decorrente de ação coletiva.
+    (…) resta claro que não pode incidir, na espécie, o enunciado de súmula 280 do Supremo Tribunal Federal.
+    Assim, diferentemente do que afirma a decisão recorrida, a jurisprudência do STF não é no mesmo sentido do acórdão impugnado por extraordinário” (fls. 295-298).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 100, § 8º, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    Este Supremo Tribunal assentou a possibilidade de execução individual de sentença proferida em ação coletiva:
+    “RECURSO EXTRAORDINÁRIO – RECURSO DE AGRAVO INTERPOSTO PELO DISTRITO FEDERAL – TÍTULO JUDICIAL CONSUBSTANCIADOR DE SENTENÇA COLETIVA – EFETIVAÇÃO EXECUTÓRIA INDIVIDUAL – POSSIBILIDADE JURÍDICA – RECURSO DE AGRAVO INTERPOSTO PELO SINDIRETA – APLICABILIDADE IMEDIATA DO ARTIGO 1º-F, DA LEI Nº 9.494/97, NA REDAÇÃO DADA PELA MP Nº 2.180/35 – MATÉRIA QUE FOI OBJETO DE TRANSAÇÃO ENTRE AS PARTES – CONCORDÂNCIA DO ENTE PÚBLICO – RECURSO DE AGRAVO DO DISTRITO FEDERAL IMPROVIDO E RECURSO DE AGRAVO DO SINDICATO PROVIDO” (RE n. 884.145-AgR-segundo, Relator o Ministro Celso de Mello, Segunda Turma, DJe 15.6.2015).
+    “REPERCUSSÃO GERAL. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. VEDAÇÃO CONSTITUCIONAL DE FRACIONAMENTO DE EXECUÇÃO PARA FRAUDAR O PAGAMENTO POR PRECATÓRIO. ART. 100, § 8º (ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA REPÚBLICA. LITISCONSÓRCIO FACULTATIVO SIMPLES. CONSIDERAÇÃO INDIVIDUAL DOS LITISCONSORTES: CONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO. 1. Ausência de prequestionamento quanto à alegação de inconstitucionalidade da Resolução n. 199/2005 do Tribunal de Justiça de São Paulo e quanto ao fracionamento dos honorários advocatícios. Incidência das Súmulas 282 e 356. 2. A execução ou o pagamento singularizado dos valores devidos a partes integrantes de litisconsórcio facultativo simples não contrariam o § 8º (originariamente § 4º) do art. 100 da Constituição da República. A forma de pagamento, por requisição de pequeno valor ou precatório, dependerá dos valores isoladamente considerados. 3. Recurso extraordinário ao qual se nega provimento” (RE n. 568.645/SP, de minha relatoria, Plenário, DJe 13.11.2014).
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVOS REGIMENTAIS NO RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97, NA REDAÇÃO DA MP 2.180-35/01. POSTERIOR ACORDO FIRMADO ENTRE AS PARTES NO MESMO SENTIDO DO QUE DETERMINOU O TRIBUNAL DE ORIGEM. RECURSO EXTRAORDINÁRIO PREJUDICADO. FRACIONAMENTO DE EXECUÇÃO. AÇÃO COLETIVA. LEGITIMIDADE. AUSÊNCIA DE OFENSA AO ART. 100, § 4º, DA CF/88 (REDAÇÃO ANTERIOR À EC 62/09). PRECEDENTES DA SEGUNDA TURMA EM CASOS IDÊNTICOS. ENTENDIMENTO ASSENTADO NO RE 568.645, REL. MIN. CÁRMEN LÚCIA, TRIBUNAL PLENO, TEMA 148. AGRAVO REGIMENTAL DO SINDIRETA/DF PROVIDO. AGRAVO REGIMENTAL DO DISTRITO FEDERAL DESPROVIDO” (RE n. 860.965-AgR-segundo, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 1º.6.2015).
+    O julgado recorrido harmoniza-se com essa orientação jurisprudencial.
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de outubro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
