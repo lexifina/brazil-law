@@ -1,0 +1,14 @@
+Decisão: Trata-se de ação direta de inconstitucionalidade ajuizada pela Associação dos Magistrados Brasileiros – AMB, em face do artigo 29, caput e parágrafo único, da Lei estadual 4.964/85 (Código de Organização Judiciária de Mato Grosso); artigos 35, LX, e 43, II, do Regimento Interno do Tribunal de Justiça de Mato Grosso (TJ-MT) e Provimento 36/2009, da Corregedoria-Geral do TJ-MT.
+    No dia 2.10.2015, proferi decisão monocrática (DJe de 7.10.15) na qual não conheci da presente ação direta de inconstitucionalidade com relação ao artigo 29, caput e parágrafo único, da Lei estadual 4.964/85, por se tratar de norma anterior à CF/1988, bem como reconheci a perda de objeto desta ação no que toca aos artigos 35, LX, e 43, II, do RI/TJMT e do Provimento 36/2009 da Corregedoria-Geral do TJ-MT, ante a ocorrência de revogação superveniente.
+    Contra a referida decisão monocrática, a AMB interpôs agravo regimental (fls. 459/464), com objetivo de afastar o não conhecimento da ação no que se refere à inconstitucionalidade do artigo 29, caput e parágrafo único, da Lei estadual 4.964/85. Para tanto, alega a agravante, em suma, o seguinte:
+    “Inquestionável, assim, o acerto da decisão de V. Exa de considerar prejudicado o pedido de inconstitucionalidade dos atos normativos que foram revogados. Porém, na parte que toca ao art. 29 e seu § único da Lei n. 4.964/85, ainda que a ação cabível contra ele não fosse, e não seja, efetivamente a ADI, por se tratar de norma precedente à CF de 1988, o exame da jurisprudência dessa Corte revela a possibilidade de conversão da ADI em ADPF, quando preenchidos os requisitos desta última” (fl. 460).
+    Aduz, ainda, que a Corte, no julgamento da ADI 4.163 (Rel. Min. Cezar Peluso, DJe de 1.3.2013), teria admitido a conversão de ADI em ADPF, visto que satisfeitos todos os requisitos exigidos para sua propositura.
+    Requer, dessa forma, seja a presente ação direta de inconstitucionalidade convertida em ADPF, de modo que seja examinada a constitucionalidade do art. 29, caput e parágrafo único, da Lei estadual 4.964/85, que instituiu o Código de Organização Judiciária do Estado de Mato Grosso.
+    Recebo o agravo regimental como pedido de reconsideração e decido.
+    Verifico, agora, que o art. 29, parágrafo único, da Lei estadual 4.964/85 foi revogado pela Lei Complementar estadual 281/2007, bem como que o caput do mesmo artigo teve sua redação substancialmente alterada por meio da LCE 419/2011.
+    Diante do exposto, reconsidero parcialmente a decisão recorrida (fls. 453/454) — na parte em que não conheceu do pedido — e julgo prejudicada a ação direta de inconstitucionalidade também nesse ponto, em razão da perda superveniente de objeto.
+    Publique-se.
+    Brasília, 28 de outubro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
