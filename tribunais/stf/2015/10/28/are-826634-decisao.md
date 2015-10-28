@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONTRIBUIÇÃO PARA O DESENVOLVIMENTO DA INDÚSTRIA CINEMATOGRÁFICA – CONSTITUCIONALIDADE – PRECEDENTES – AGRAVO DESPROVIDO.
+    1. O Tribunal de origem assentou a validade da Contribuição de Intervenção no Domínio Econômico – CIDE relativo à indústria cinematográfico nacional.
+    O entendimento encontra apoio na jurisprudência do Supremo:
+    DIREITO TRIBUTÁRIO. ANCINE. CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO. DESNECESSIDADE DE VINCULAÇÃO DIRETA ENTRE O CONTRIBUINTE E A DESTINAÇÃO DAS RECEITAS TRIBUTÁRIAS ARRECADADAS. MEDIDA PROVISÓRIA. PRESSUPOSTOS DE URGÊNCIA E RELEVÂNCIA. DISCRICIONARIEDADE DO CHEFE DO PODER EXECUTIVO. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO 04.6.2010. A jurisprudência deste Supremo Tribunal Federal consolidou-se no sentido de que é constitucional a instituição de contribuição social de intervenção no domínio econômico destinada ao setor cinematográfico, pois entende pela desnecessidade de vinculação direta entre o contribuinte e a destinação das receitas arrecadas por meio do aludido tributo. A análise dos pressupostos de relevância e urgência, para edição de medidas provisórias, está jungida à discricionariedade do Chefe do Poder Executivo. As excepcionais situações de excesso de poder, suscetíveis de atrair censura jurisdicional, não estão configuradas no caso em apreço. Agravo regimental conhecido e não provido. (Agravo Regimental no Recurso Extraordinário nº 700.160/RJ, relatora ministra Rosa Weber, 1ª Turma, Diário da Justiça de 30 de abril de 2014).
+    RECURSO EXTRAORDINÁRIO – AGÊNCIA NACIONAL DE CINEMA – ANCINE – VALIDADE CONSTITUCIONAL DA LEGISLAÇÃO PERTINENTE À INSTITUIÇÃO DA CONTRIBUIÇÃO SOCIAL DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO DESTINADA AO SETOR CINEMATOGRÁFICO – EXIGIBILIDADE DESSA ESPÉCIE TRIBUTÁRIA – DESNECESSIDADE DE VINCULAÇÃO DIRETA ENTRE O CONTRIBUINTE E A DESTINAÇÃO DAS RECEITAS TRIBUTÁRIAS ARRECADADAS – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO. (Agravo Regimental no Recurso Extraordinário nº 581.375/RJ, relator ministro Celso de Mello, 2ª Turma, Diário da Justiça de 1º de fevereiro de 2013).
+    2. Ante o quadro, conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 28 de outubro de 2015.
+Ministro MARCO AURÉLIO
+Relator
