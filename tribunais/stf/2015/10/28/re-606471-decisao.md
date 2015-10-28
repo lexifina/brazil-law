@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fls. 3115):
+    “ APELAÇÃO – AÇÃO DECLARATÓRIA C/C COBRANÇA – TÉCNICO PENITENCIÁRIO – PISO SALARIAL DA CATEGORIA – LEI ESTADUAL N. 2.518/2002 – ABSORÇÃO DE GRATIFICAÇÕES E ADICIONAIS – INEXISTÊNCIA DE ILEGALIDADE E REDUÇÃO DE VENCIMENTOS – PAGAMENTO EFETUADO CONFORME A LEGISLAÇÃO VIGENTE – RECURSO IMPROVIDO.
+    O piso salarial não corresponde, necessariamente, ao vencimento total recebido pelo servidor, mas sim a um valor fixado como remuneração mínima a ser percebida pela categoria.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação ao art. 37, caput e XV, da Constituição.
+     O recurso extraordinário não pode ser admitido, tendo em vista que a decisão recorrida está alinhada com a jurisprudência do Supremo Tribunal Federal, que, após reconhecida a repercussão geral da matéria no RE 563.965, Rel.ª Min.ª Cármen Lúcia, fixou o entendimento de que não há direito adquirido à forma de composição dos vencimentos, tendo em vista a inexistência de direito adquirido a regime jurídico. Assegurou-se, por outro lado, a irredutibilidade de vencimentos e proventos. Veja-se a ementa do julgado:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE. 1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico. 2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, conseqüentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração. 3. Recurso extraordinário ao qual se nega provimento.”
+    Dessa orientação não divergiu o acórdão recorrido. Isso porque, na hipótese, restou decidido: “Nota-se, pelos documentos juntados aos autos, que não houve redução de vencimentos após a entrada em vigor da Lei Estadual n. 2.518/2002”.
+    Dissentir da conclusão do Tribunal de origem, quanto à inexistência de decesso remuneratório, demandaria nova análise dos fatos e do material probatório constantes dos autos, providência inviável neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
