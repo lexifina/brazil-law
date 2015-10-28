@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IRPF. ISENÇÃO. MAIOR DE 65 ANOS. CONTRIBUINTE QUE PERCEBE RENDIMENTOS DE MAIS DE UMA FONTE. INCIDÊNCIA DO LIMITE DO BENEFÍCIO SOBRE A TOTALIDADE DOS RENDIMENTOS. ARTIGO 39, § 7º, DO DECRETO Nº 3.000/1999 – RIR E ARTIGO 8º, § 1º, DA LEI Nº 9.250/1995. CONTROVÉRSIA A RESPEITO DA HARMONIA DE DECRETO EXECUTIVO EM FACE DA LEI QUE LHE DÁ FUNDAMENTO DE VALIDADE. CRISE DE LEGALIDADE. QUESTÃO INFRACONSTITUCIONAL. RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário interposto com fundamento na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “EMBARGOS À EXECUÇÃO DE SENTENÇA. IRPF. ISENÇÃO. ART. 39, § 7º, XXXIV, DO DECRETO Nº 3.000/99. INCIDÊNCIA SOBRE A TOTALIDADE DOS RENDIMENTOS.
+    O contribuinte que percebe rendimentos de mais de uma fonte, o limite de isenção em relação ao imposto de renda deve observar a soma desses valores, consoante estabelece o § 7º do art. 39 do Decreto nº 3.000/99.”
+    Nas razões do apelo extremo, a parte sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 84, IV; 146, III, a; e 150, I e § 6º, da Constituição Federal. Alega, em síntese, que o artigo 39, § 7º, do Decreto nº 3.000/1999 - RIR, ao regulamentar o artigo 8, § 1º, da Lei nº 9.250/1995, teria contrariado a norma isentiva por ele regulamentada, o que teria implicado em majoração da base de cálculo do IRPF por ato infralegal.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    Esta Corte firmou orientação no sentido de que a controvérsia a respeito da harmonia de um decreto executivo em face da lei que lhe dá fundamento de validade não caracteriza um problema de constitucionalidade, mas sim de legalidade, sendo incabível sua análise em recurso extraordinário, o qual só admite o exame de ofensa direta à Constituição Federal. Confira-se:
+    “ADIN - SISTEMA NACIONAL DE DEFESA DO CONSUMIDOR (SNDC) - DECRETO FEDERAL N. 861/93 - CONFLITO DE LEGALIDADE - LIMITES DO PODER REGULAMENTAR - AÇÃO DIRETA NÃO CONHECIDA.
+    - Se a interpretação administrativa da lei, que vier a consubstanciar-se em decreto executivo, divergir do sentido e do conteúdo da norma legal que o ato secundário pretendeu regulamentar, quer porque tenha este se projetado ultra legem, quer porque tenha permanecido citra legem, quer, ainda, porque tenha investido contra legem, a questão caracterizará, sempre, típica crise de legalidade, e não de inconstitucionalidade, a inviabilizar, em conseqüência, a utilização do mecanismo processual da fiscalização normativa abstrata.
+    - O eventual extravasamento, pelo ato regulamentar, dos limites a que materialmente deve estar adstrito poderá configurar insubordinação executiva aos comandos da lei. Mesmo que, a partir desse vício jurídico, se possa vislumbrar, num desdobramento ulterior, uma potencial violação da Carta Magna, ainda assim estar-se-á em face de uma situação de inconstitucionalidade reflexa ou oblíqua, cuja apreciação não se revela possível em sede jurisdicional concentrada.” (ADI 996-MC, Rel. Min. Celso de Mello, Plenário, DJ de 6.5.1994)
+    No mesmo sentido, tratando de controvérsia idêntica à versada no presente feito, colaciono o seguinte precedente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. ISENÇÃO. LEI N. 9.250/1995 E DECRETO N. 3.000/1999. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. LIMITES OBJETIVOS DA COISA JULGADA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 884.781, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 3/8/2015)
+    Ex positis, DESPROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de outubro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
