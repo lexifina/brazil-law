@@ -1,0 +1,34 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL. POSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. OFENSA REFLEXA. ANÁLISE DE NORMA INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. DIFERENÇA VENCIMENTAL. SERVIDORA PÚBLICA ESTADUAL. PROGRESSÃO VERTICAL. PREVISÃO LEGAL. PRESCRIÇÃO QUINQUENAL. DOTAÇÃO ORÇAMENTÁRIA PRECEDENTE. DESNECESSIDADE. HONORÁRIOS ADVOCATÍCIOS. PREQUESTIONAMENTO.
+    I – Em se tratando de débitos provenientes de ações de servidores provenientes de ações contra a Fazenda Pública, o prazo prescricional é de 5 (cinco) anos, a contar do ato, inaplicável na espécie o prazo prescricional de 3 (três) anos previsto no art. 206 do Código Civil, por tratar de disposição especial, a qual sbrepõe a legislação ordinária, isto é, o Código Civil.
+    II – In casu, denota-se que a administração pública foi omissa ao deixar de promover a progressão vertical da autora, Professora do Nível P-III, contudo sem perceber pela remuneração devida, situação que deve ser repelida pelo Judiciário, guardião da Constituição Federal, sob pena do Estado locupletar-se às custas do trabalho da servidora.
+    III – É incabível a tese de ausência de dotação orçamentária susscitada pelo poder público estadual para o pagamento de diferenças oriundas da progressão vertical, haj avista que o Chefe do Poder Executivo Estadual tem a prerrogativa de abrir créditos adicionais, caso seja necessário, a esse fim.
+    IV – Os honorários advocatícios foram fixados entr eu mínimo de 10 % e o máximo de 20% sobre o valor da condenação, conforme as disposições do art. 20, §§ 3º e 4º do CPC.
+    V – No que pertine ao pedido de prequestionamento, estando a matéria exaustivamente analisada nos autos, mostra-se infundado o pleito.
+    APELAÇÃO CONHECIDA E IMPROVIDA”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 169, § 1º, da Constituição Federal. Aduz que “impende observar que a diferença vencimental deferida equivocadamente equivale a aumento de despesa, o que não pode ocorrer sem o ato normativo competente, conforme determina o artigo 169, § 1º, inciso I e II da Constituição...”
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender tratar-se de ofensa reflexa ao texto constitucional.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (artigo 102, § 3º, da CF).
+    Para melhor elucidação da lide, cito trecho das razões de decidir utilizadas no acórdão recorrido:
+    “Portanto, conclui-se, então, que a administração pública deixou de promover corretamente a progressão vertical da autora, mormente porque vem lecionando como professora de nível III, mas sem a devida remuneração de acordo com as novas tarefas que desempenha, cujo direito inclusive já foi reconhecido em processo administrativo, razão pela qual deve ser corrigida com o bem ponderou o douto magistrado da instância a quo na sentença hostilizada.
+    (…)
+    No que tange à alegação do município sobre a necessidade de previsão orçamentária para o pagamento de diferenças oriundas da progressão horizontal, vejo que tal argumentação não merece prosperar.
+    Registre-se que tal matéria já foi objeto de apreciação em inúmeros julgamentos proferidos neste Sodalício, haja que referida alegação não é motivo para o indeferimento da progressão, sob pena de infringir expressa previsão legal
+    Por outro lado, é mister consignar que o Chefe do Poder Executivo Estadual tem a prerrogativa de abrir créditos adcionais, caso seja necessário, a esse fim.”
+    Para dissentir do que decidido pelo Tribunal a quo, necessária serio o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas nº 279, a qual dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Neste sentido: ARE 715.689, Rel. Min. Roberto Barroso, DJe de 6/2/2014, e AI 768.630, Rel. Min. Gilmar Mendes, DJe de 25/6/2011.
+    A respeito da aplicação da Súmula nº 279 do STF, assim discorre Roberto Rosas:
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+    A Súmula 279 é peremptória: Para simples reexame de prova não cabe recurso extraordinário. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.
+    (…)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de outubro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
