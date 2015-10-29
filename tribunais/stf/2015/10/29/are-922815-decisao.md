@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 2ª Turma Cível do Colégio Recursal da Comarca de São José do Rio Preto – Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 169):
+    “Recorrida portadora de Demência Senil (mal de Alzheimer), prescrição médica de fisioterapia e fonoaudiologia. Pretensão de realizar o tratamento em casa: ‘home care’. Serviço fornecido pelo Estado em clínica pública. Embora a pretensão fosse confortável para a requerente, não é razoável tal ônus para a Recorrida.
+    -Sentença de improcedência mantida. Recurso conhecido e não provido. Recorrente vencida isenta de sucumbência.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput; 93, IX; e 196 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a falta de fundamentação do acórdão recorrido. Aduz, ainda, que é “dever da recorrida fornecer gratuitamente a RECORRENTE o serviço de ‘home care’ que foi prescrito, sob pena e causar consequências nefastas ao seu organismo, haja vista que é direito de todos e dever do Estado o acesso a saúde, descrito no artigo 196, da Constituição Federal.” (fls. 183)
+    A Vice-Presidência do Colégio Recursal do Tribunal de origem inadmitiu o recurso, em virtude de inexistir ofensa direta à Constituição Federal; e de incidir na hipótese as Súmulas 282 e 356 do STF.
+    É o relatório. Decido.
+    Quando do julgamento do recurso inominado, o Tribunal de origem assim asseverou (fl. 116):
+    “O pedido formulado pela parte autora é improcedente, porquanto mesmo instada a especificar provas, deixou de requerê-las e apesar de no relatório (fls.30/31) apresentado constar sobre a necessidade dos serviços de ‘HOME CARE’ ele está incompleto, pois somente menciona serviços de fisioterapia e fonoaudiologia, sem descrever os procedimentos a serem realizados e que exigem a intervenção de tais profissionais, porque existe atendimento médico domiciliar na rede pública municipal, além de fisioterapia e fonoaudiologia nos locais próprios em que tais serviços são prestados por profissionais do SUS, constando no relatório médico que tais serviços são “insuficientes e ineficientes”, sem descrever as diferenças entre eles e os que se pretende nesta ação, o que deveria ser justificado e, repita-se, a parte não requereu novas provas (fls. 111/112).”
+    Sendo esses os fundamentos acolhidos, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ademais, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora Agravante.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 29 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
