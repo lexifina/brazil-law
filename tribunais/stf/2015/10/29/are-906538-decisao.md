@@ -1,0 +1,31 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. IMUNIDADE. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL. IMÓVEL VAGO. NÃO UTILIZAÇÃO TEMPORÁRIA DO BEM. SITUAÇÃO DE NEUTRALIDADE QUE NÃO ATENTA CONTRA A FINALIDADE DA REGRA IMUNIZANTE. PATRIMÔMIO DAS ENTIDADES IMUNES. PRESUNÇÃO DE DESTINAÇÃO ÀS SUAS FINALIDADES ESSENCIAIS. CABE AO FISCO PROVAR EVENTUAL DESVIO DE FINALIDADE. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “IPTU – ASSOCIAÇÃO FILANTRÓPICA SEM FINS LUCRATIVOS – IMUNIDADE CARACTERIZADA.
+    Tratando-se de garantia constitucional, a aplicação da imunidade é imediata, o que implica presunção relativa quanto à ocorrência das exigências constitucionais.
+    RECURSO IMPROVIDO.”
+    Nas razões do apelo extremo, o Município sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 150, VI, c, e § 4º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a análise da matéria demandaria o reexame do conjunto fático-probatório.
+    É o relatório. DECIDO.
+    O agravo não merece provimento.
+    A circunstância de um bem imóvel pertencente a entidade imune estar vago ou sem edificação não é suficiente, por si só, para afastar a garantia constitucional da imunidade. A não utilização temporária do bem caracteriza uma situação de neutralidade que não atenta contra a finalidade da regra imunizante.
+    Ademais, deve se consignar que as entidades imunes gozam da presunção de que seu patrimônio, renda e serviços são destinados às suas finalidades essenciais, de modo que o afastamento da imunidade só pode ocorrer mediante a constituição de prova em contrário produzida pela administração tributária.
+    Nesse sentido, trago à colação os seguintes precedentes:
+    “Imunidade. Entidade de assistência social. Artigo 150, VI, c, CF. Imóvel vago. Finalidades essenciais. Presunção. Ônus da prova.
+    1. A regra de imunidade compreende o reverso da atribuição de competência tributária. Isso porque a norma imunitória se traduz em um decote na regra de competência, determinando a não incidência da regra matriz nas áreas protegidas pelo beneplácito concedido pelo constituinte.
+    2. Se, por um lado, a imunidade é uma regra de supressão da norma de competência, a isenção traduz uma supressão tão somente de um dos critérios da regra matriz.
+    3. No caso da imunidade das entidades beneficentes de assistência social, a Corte tem conferido interpretação extensiva à respectiva norma, ao passo que tem interpretado restritivamente as normas de isenção.
+    4. Adquirido o status de imune, as presunções sobre o enquadramento originalmente conferido devem militar a favor do contribuinte, de modo que o afastamento da imunidade só pode ocorrer mediante a constituição de prova em contrário produzida pela administração tributária. O oposto ocorre com a isenção que constitui mero benefício fiscal por opção do legislador ordinário, o que faz com que a presunção milite em favor da Fazenda Pública.
+    5. A constatação de que um imóvel está vago ou sem edificação não é suficiente, por si só, para destituir a garantia constitucional da imunidade. A sua não utilização temporária deflagra uma neutralidade que não atenta contra os requisitos que autorizam o gozo e a fruição da imunidade.
+    6. Recurso extraordinário a que se nega provimento.” (RE 385.091, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 18/10/2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. IPTU. ENTIDADE ASSISTENCIAL. IMÓVEL VAGO. IRRELEVÂNCIA. JURISPRUDÊNCIA DO STF. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO DESPROVIDO.
+    1. A imunidade tributária prevista no art. 150, VI, “c”, da CF alcança todos os bens das entidades assistenciais de que cuida o referido dispositivo constitucional.
+    2. Deveras, o acórdão recorrido decidiu em conformidade com o entendimento firmado por esta Suprema Corte, no sentido de se conferir a máxima efetividade ao art. 150, VI, b e c, da CF, revogando a concessão da imunidade tributária ali prevista somente quando há provas de que a utilização dos bens imóveis abrangidos pela imunidade tributária são estranhas àquelas consideradas essenciais para as suas finalidades. Precedentes: RE 325.822, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJ 14.05.2004 e AI 447.855, da relatoria do Ministro Gilmar Mendes, DJ de 6.10.06.
+    3. In casu, o acórdão recorrido assentou: “Ação declaratória de inexistência de relação jurídica. Sentença de improcedência. Alegada nulidade por falta de intimação/intervenção do Ministério Público. Ausência de interesse público. Art. 82, III, CPC. IPTU. Imunidade. Decisão administrativa. Entidade de caráter religioso. Reconhecimento da imunidade, com desoneração do IPTU/2009. O imposto predial do exercício anterior (2008), no entanto, continuou a ser cobrado pela Municipalidade, por considerar estarem vagos os lotes na época do fato gerador (janeiro/2008). Comprovação da destinação dos imóveis para os fins essenciais da igreja construção de seu primeiro templo. Inteligência do art. 150, VI e § 4º, da CF. Dá-se provimento ao recurso.”
+    4. Agravo regimental a que se nega provimento.” (ARE 658.080-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 15/2/2012)
+    “Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Decisão em consonância com a jurisprudência desta Corte. Imunidade tributária. Vedação de instituição de impostos sobre o patrimônio, renda e serviços relacionados com as finalidades essenciais das entidades. Artigo 150, VI, 'c' e § 4o, da Constituição. Entidade de assistência social. IPTU. Lote vago. Precedente. 4. Agravo regimental a que se nega provimento.” (RE 357.175-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 14/11/2007)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de outubro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
