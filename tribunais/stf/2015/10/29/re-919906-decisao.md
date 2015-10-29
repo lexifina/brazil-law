@@ -1,0 +1,8 @@
+RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. DIREITO ADQUIRIDO AO MELHOR BENEFÍCIO. MATÉRIA JÁ EXAMINADA SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA Nº 334. RE 630.501. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    DECISÃO: A matéria versada no recurso extraordinário já foi objeto de exame por esta Corte na sistemática da repercussão geral (Tema nº 334, RE 630.501, Rel. Min. Ellen Gracie).
+    Ex positis , com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental nº 21/2007), determino a DEVOLUÇÃO do feito à origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 29 de outubro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
