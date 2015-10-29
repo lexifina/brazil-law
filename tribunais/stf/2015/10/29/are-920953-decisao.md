@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “ADMINISTRATIVO. EMBARGOS À EXECUÇÃO.EXCESSO DE EXECUÇÃO. FRACIONAMENTO DA EXECUÇÃO DECORRENTE DE AÇÃO COLETIVA DO SINDSAÚDE. POSSIBILIDADE.DESNECESSIDADE DE EXECUÇÃO COLETIVA. ALEGAÇÃO DE ILEGITIMIDADE ATIVA AFASTADA. COMPENSAÇÃO DOS VALORES PAGOS A TÍTULO DE ADICIONAL DE INSALUBRIDADE. POSSIBILIDADE.CÁLCULOS QUE DEVEM EXCLUIR OS JUROS E CORREÇÃO MONETÁRIA REFERENTES AO PRÓPRIO MÊS.Recurso 1 não provido. Recurso 2 parcialmente provido.” (fls. 281-295)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 100, §§ 3º e 8º, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em suma, que a execução contra a Fazenda Pública, oriunda de ação coletiva, implica em fracionamento ou quebra do valor para fins de enquadramento como de pequeno valor, quando ajuizada individualmente por parte substituída na ação original (fls. 299-302).
+    A Primeira Vice-Presidência do TJPR inadmitiu o recurso diante da adequação do julgado à jurisprudência do STF (fls. 326-327).
+    É o relatório. Decido.
+    Inicialmente, necessário frisar que o sistema processual atual se voltou em direção à eficiência da jurisdição possibilitando concentração das demandas por meio das ações coletivas. Logo, seria totalmente contraproducente tornar a execução destas demandas vinculadas ao todo e impossibilitar a execução facultativa e individualizada das partes substituídas no processo original.
+    Acrescento, ainda, que o STF julgou, por meio do instituto da repercussão geral, tema análogo (Tema 148, RE-RG 568.645, Min. Rel. Cármen Lúcia, Dje 24.11.2014), no qual, em que pese tratar de litisconsórcio facultativo, as razões de decidir do paradigma persistem, senão vejamos:
+    “Todavia, não é possível ignorar, como pretende o Município, que as execuções promovidas por litisconsortes facultativos nascem fracionadas. Considere-se que o próprio executado pode opor a um ou alguns dos litisconsortes obstáculos à execução da sentença, como prescrição, realização de pagamento, dentre outros, conforme o art. 741, inc. VI, do Código de Processo Civil. O raciocínio desenvolvido pelo Recorrente levaria a inviabilizar o tratamento singularizado de cada litisconsorte facultativo, podendo trazer prejuízos à própria Fazenda Pública.”
+    (…)
+    “Não condiz com as medidas recentemente inseridas na Constituição da República (como a razoável duração do processo, a súmula vinculante, a repercussão geral, além de outras medidas inseridas na legislação processual) interpretar um de seus dispositivos de modo a desestimular a salutar formação de litisconsórcios facultativos simples para a discussão judicial de pedidos idênticos.”
+    Também nesse sentido:
+    “RECURSO EXTRAORDINÁRIO – TÍTULO JUDICIAL CONSUBSTANCIADOR DE SENTENÇA COLETIVA – EFETIVAÇÃO EXECUTÓRIA INDIVIDUAL – POSSIBILIDADE JURÍDICA – RECURSO DE AGRAVO IMPROVIDO. POSSIBILIDADE DE EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM PROCESSO COLETIVO. - O fato de tratar-se de mandado de segurança coletivo não representa obstáculo para que o interessado, favorecido pela sentença mandamental coletiva, promova, ele próprio, desde que integrante do grupo ou categoria processualmente substituídos pela parte impetrante, a execução individual desse mesmo julgado. Doutrina. Precedentes.” (RE 648.621 AgR, Relator(a): Min. CELSO DE MELLO, Segunda Turma, julgado em 19/02/2013, ACÓRDÃO ELETRÔNICO DJe-051 DIVULG 15-03-2013 PUBLIC 18-03-2013)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 29 de outubro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
