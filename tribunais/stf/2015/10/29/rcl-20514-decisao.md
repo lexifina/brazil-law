@@ -1,0 +1,15 @@
+Vistos etc.
+    1. Trata-se de reclamação constitucional, com pedido de medida liminar, proposta pelo Estado de São Paulo, contra decisão do Tribunal Superior do Trabalho, nos autos do Processo nº 0075800-12.2009.5.15.0152, que, ao converter em agravo regimental o agravo interposto na forma do art. 544 do CPC com vista ao destrancamento de recurso extraordinário, teria usurpado a competência desta Suprema Corte.
+    2. Alega que a decisão de inadmissibilidade do recurso extraordinário não decorreu da aplicação da sistemática da repercussão geral, de modo que o recurso cabível seria o agravo do artigo 544 do Código de Processo Civil.
+    É o relatório.
+    Decido.
+    1. Ao exame dos autos, verifico que a Vice-Presidência do TST negou seguimento ao recurso extraordinário do reclamante e determinou a baixa dos autos à origem, ao registro de que o recurso “(…) não se enquadra no Tema 246 da Tabela de Repercussão Geral do Supremo Tribunal Federal” e de que a decisão recorrida “(…) compatibiliza-se com a autoridade do julgado na ADC 16 e com a iterativa e atual jurisprudência do STF”.
+    2. Assim, não se tratando de insurgência contra a aplicação do instituto da repercussão geral, o agravo interposto na forma do art. 544 do CPC deve ser encaminhado ao Supremo Tribunal Federal, sob pena de usurpação de sua competência.
+    Na esteira da Súmula 727/STF: “Não pode o magistrado deixar de encaminhar ao Supremo Tribunal Federal o agravo de instrumento interposto da decisão que não admite recurso extraordinário, ainda que referente a causa instaurada no âmbito dos juizados especiais”.
+    3. In casu, manejado agravo na forma do art. 544 do CPC pelo ora reclamante, foi determinada sua conversão em agravo regimental, ao qual foi negado provimento, ao entendimento de que o Tema nº 246, no que tange à responsabilidade subsidiária da Administração Pública na hipótese de culpa comprovada, teria sido solucionado, por coerência lógica, ao julgamento da ADC 16.
+    4. O Recurso Extraordinário nº 760.931, que substituiu o RE 603.397, representativo do Tema de Repercussão Geral nº 246, não foi julgado por esta Suprema Corte, de modo que o não sobrestamento do apelo extremo pela Corte reclamada importa em não observância da sistemática da repercussão geral e em usurpação da competência este Pretório Excelso. Nesse sentido: Rcl 20.182/ES, Rel. Min. Roberto Barroso, DJe 29.4.2015; Rcl 20.292/RS, Rel. Min. Teori Zavascki, DJe 22.4.2015; Rcl 21.816/DF, Rel. Min. Luiz Fux, DJe 09.9.2015; Rcl 20.437/RS, Rel. Min. Cármen Lúcia, DJe 30.9.2015; Rcl 20.626/DF, Rel. Min. Marco Aurélio, DJe 08.10.2015; Rcl 20.238/SP, Rel. Min. Gilmar Mendes, DJe 03.8.2015.
+    5. Ante o exposto, forte no art. 161, parágrafo único, do RISTF, julgo procedente a presente reclamação para cassar a decisão reclamada e assegurar o sobrestamento do recurso extraordinário manejado pelo reclamante nos autos do Processo nº 0075800-12.2009.5.15.0152 na origem até o julgamento do RE 760.931.
+    Publique-se.
+    Brasília, 29 de outubro de 2015.
+     Ministra Rosa Weber
+     Relatora
