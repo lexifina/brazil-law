@@ -1,0 +1,32 @@
+Decisão:
+ementa: Processual penal militar. Habeas corpus. Embargos Infringentes. Art. 119, § 1º, RI/STM. Precedente do Plenário do STF. Ordem concedida.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão majoritário do Superior Tribunal Militar, da Relatoria da Ministra Maria Elizabeth Guimarães Teixeira Rocha, assim ementado:
+    “AGRAVO REGIMENTAL. ART. 119 DO REGIMENTO INTERNO DO STM. INCONSTITUCIONALIDADE. ALTERAÇÃO QUE AFRONTA A AMPLA DEFESA. DESSEMELHANÇA ENTRE AS REDAÇÕES DO CÓDIGO DE PROCESSO PENAL MILITAR E DO CÓDIGO DE PROCESSO PENAL COMUM. HIPÓTESES DE CABIMENTO PREVISTAS NO RISTM. CÓDIGO PROCESSUAL PENAL MILITAR. PREVISÃO APENAS DA HIPÓTESE DE NÃO CABIMENTO. OBSERVÂNCIA DOS PRINCÍPIOS DA CELERIDADE, DA EFICIÊNCIA E DA RAZOÁVEL DURAÇÃO DO PROCESSO. GARANTIA DA AMPLA DEFESA DEVIDAMENTE RESGUARDADA.
+    Agravo Regimental contra decisão que negou seguimento a Embargos infringentes.
+    O Código de Processo Penal Militar não elencou as hipóteses de cabimento dos embargos, tratou apenas dos limites à propositura. Deixou, portanto, intencionalmente, lacuna acerca dos pressupostos objetivos dos infringentes, suprida pelo RISTM.
+    Alteração regimental do art. 119, § 1º, do Regimento Interno do Superior Tribunal militar (RISTM), na redação dada pela Emenda Regimental nº 24/2014 que preza pelos princípios da celeridade, da eficiência e da duração razoável do processo, e que se encontra constitucional e legalmente amparada.
+    Agravo Regimental rejeitado. Decisão majoritária.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 3 (três) anos de reclusão, em regime inicial aberto, pelo crime previsto no artigo 303, § 2º, c/c o artigo 72, inciso I, ambos do Código Penal Militar.
+    3. Da sentença, a defesa interpôs recurso de apelação. O Superior Tribunal Militar, em acórdão majoritário, deu parcial provimento ao recurso “para considerar o cometimento do crime de peculato-furto na forma tentada, tendo em vista que o iter criminis percorrido pelo Réu não ultrapassou os atos de execução, fixando-se o quantum de diminuição decorrente da tentativa em seu patamar máximo de 2/3”. De modo que a pena foi reduzida para 1 (um) ano de reclusão, em regime inicial aberto.
+    4. Na sequência, considerando a existência de voto divergente favorável ao paciente, a defesa opôs embargos infringentes. Os embargos, contudo, não foram admitidos, no tocante à preliminar de nulidade formal do processo, tendo em vista o não preenchimento de requisito instituído no art. 119, § 1º, do RI/STM (exigência de 4 votos vencidos).
+    5. Nesta impetração, a Defensoria Pública da União sustenta o cabimento dos embargos infringentes. Alega que, “ao restringir as possibilidades de conhecimento e admissibilidade dos Embargos, passando a exigir como requisito para sua oposição a existência de pelo menos 4 votos vencidos, o Tribunal Castrense, por meio de seu Regimento Interno, reduziu o alcance da ampla defesa e do próprio acesso à Corte”. Daí o pedido de concessão da ordem para determinar ao Superior Tribunal Militar que analise o mérito dos embargos infringentes, bem como para “declarar a inconstitucionalidade da alteração regimental promovida pela Emenda Regimental nº 24 do RISTM, uma vez que afetou diretamente o acesso ao Judiciário e a ampla defesa”.
+    Decido.
+    6. O habeas corpus deve ser concedido, tendo em vista que o acórdão impugnado diverge da jurisprudência desta Corte.
+    7. Com efeito, o Plenário do Supremo Tribunal Federal, no julgamento do HC 125.768, Rel. Min. Dias Toffoli, declarou a inconstitucionalidade do “art. 119, § 1º, do Regimento Interno do Superior Tribunal Militar, na redação dada pela Emenda Regimental nº 24, publicada no DJe de 10/6/14, ao exigir no mínimo 4 (quatro) votos divergentes minoritários para o cabimento dos embargos infringentes e de nulidade”. Veja-se a ementa do referido julgado:
+    “[...]
+    1. Assim como o legislador não pode se imiscuir em matéria reservada ao regimento interno dos tribunais, a esses é vedado desbordar de seus poderes normativos e dispor sobre matéria de competência privativa da União (art. 22, I, CF), sob pena de inconstitucionalidade formal. Precedentes.
+    2. A atribuição de poderes aos tribunais para instituir recursos internos e disciplinar o procedimento dos recursos que devam julgar não lhes outorga competência para criar requisito de admissibilidade recursal não previsto em lei. Inteligência do art. 96, I, a, da Constituição Federal.
+    3. Os arts. 538 e 539 do Código de Processo Penal Militar não exigem, para o cabimento dos embargos infringentes e de nulidade, número mínimo de votos vencidos.
+    4. O art. 119, § 1º, do Regimento Interno do Superior Tribunal Militar, ao exigir, no mínimo, 4 (quatro) votos divergentes minoritários para o cabimento dos embargos infringentes e de nulidade, além de dispor sobre matéria de competência privativa da União, viola o devido processo legal (art. 5º. LIV, CF), por impor requisito de admissibilidade recursal não previsto em lei.
+    5. Descabe invocar-se analogia com o art. 333, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, que exige no mínimo 4 (quatro) votos vencidos para o cabimento dos embargos infringentes, uma vez que essa regra foi editada à época em que a Constituição de 1969, no art. 119, § 3º, c, outorgava poderes normativos ao Supremo Tribunal Federal para dispor sobre o processo e o julgamento dos feitos de sua competência originária ou recursal.
+    6. A garantia constitucional da duração razoável do processo não pode ser hipertrofiada em prejuízo da ampla defesa, com os meios e recursos a ela inerentes (art. 5º, LV, CF), salvo quando nítido o abuso do direito de recorrer.
+    7. É inconstitucional o art. 119, § 1º, do Regimento Interno do Superior Tribunal Militar, na redação dada pela Emenda Regimental nº 24, publicada no DJe de 10/6/14, ao exigir no mínimo 4 (quatro) votos divergentes minoritários para o cabimento dos embargos infringentes e de nulidade.
+    8. Ordem de habeas corpus concedida.” (Sem destaques no original)
+    7. Diante do exposto, com apoio no art. 192 do RI/STF, concedo a ordem para determinar ao Superior Tribunal Militar que, superado o óbice do art. 119, § 1º, do RI/STM, examine, como entender de direito, os embargos infringentes opostos pela defesa.
+    Publique-se.
+    Intime-se.
+    Comunique-se.
+    Brasília, 29 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
