@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa se transcreve a seguir:
+    “EMBARGOS À EXECUÇÃO FISCAL. ICMS. IMPORTAÇÃO INDIRETA. ESTABELECIMENTO DESTINATÁRIO SEDIADO EM MINAS GERAIS, OBRIGAÇÃO DE RECOLHER O ICMS AO ESTADO DESTINATÁRIO. Irrelevante que a mercadoria tenha sido desembaraçada no Estado de São Paulo, se o conjunto fático-probatório constante dos autos demonstra que essa foi imediatamente destinada à filiar, Apelante, situada em Minas Gerais, para compor o seu ativo fixo, hipótese que prevê a incidência do ICMS a favor desse Estado destinatário (art. 155, §2º, IX, “a” da CF/88, art. 11, I, “d”, da LC 87/96, art. 33 da Lei 6.763/75 – CTMG). MULTA MORATÓRIA. JUROS DE MORA E CORREÇÃO0 AO ÍNDICE DA TAXA SELIC LEGALIDADE” (fl. 302)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se o art. 155, II, §2º, IX, “a”, do Texto Constitucional.
+    Sustenta-se, em síntese, que “Seguindo o entendimento do STF, o ‘destinatário jurídico da mercadoria’ foi o estabelecimento matriz, conforme prova robusta nos autos”. (fl. 374)
+    Alega-se, ainda, o caráter confiscatório da multa aplicada.
+    A 1ª Vice-Presidência inadmitiu o recurso com base na jurisprudência do STF.
+    É o relatório.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “No caso, de nada importa se a mercadoria foi desembaraçada no Estado de São Paulo, no Porto de Santos, pois que o conjunto fático-probatório constante dos autos demonstra que a importação se deu com o prévio objetivo de destiná-la, como o foi, à apelante, embargante, filial em Arceburgo, Minas Gerais, que, como empresa destinatária, está sujeita ao pagamento do ICMS a favor do Estado de Minas Gerais”. (fl. 308)
+    Sendo assim, constata-se que o acórdão recorrido não diverge da jurisprudência pacífica desta Corte, segundo a qual o sujeito passivo da relação tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário da mercadoria.
+    Ademais, constato que eventual divergência ao entendimento adotado pelo juízo a quo, em relação à natureza jurídica do terço de férias, demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTABELECIMENTO DESTINATÁRIO. IMPORTAÇÃO INDIRETA. SÚMULA 279/STF. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria. Dissentir das conclusões adotadas pelo Tribunal de origem e concluir acerca da ocorrência, ou não, de importação indireta demandaria o reexame do acervo probatório constante dos autos, providência vedada nesta fase processual (Súmula 279/STF). Agravo regimental a que se nega provimento.”
+(AI 850508 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 18.12.2014)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTABELECIMENTO JURÍDICO DO IMPORTADOR. PRECEDENTES. “IMPORTAÇÃO INDIRETA”. SÚMULA 279/STF. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria (alínea “a” do inciso IX do § 2º do art. 155 da Magna Carta de 1988), pouco importando se o desembaraço aduaneiro ocorreu por meio de ente federativo diverso. 2. Incidência da Súmula 279/STF. 3. Agravo regimental desprovido.”
+(RE 555654 AgR, Rel.Min. AYRES BRITTO, Segunda Turma, DJe 16.12.2011)
+    Em relação ao caráter confiscatório da multa aplicada, a jurisprudência do STF é firme no sentido da inconstitucionalidade da imposição de penalidade pecuniária que se traduza em valor superior ao do tributo devido. Por conseguinte, não há situação fático-probatória a ser revolvida, o que atrairia a incidência da Súmula 279 do STF.
+    A esse respeito, vejam-se as seguintes decisões: ADI 551, de relatoria do Ministro Ilmar Galvão, DJ 14.2.2003; e RE-RG 582.461, de relatoria do Ministro Gilmar Mendes, DJe 18.08.2011.
+    Confira-se, ainda, o seguinte julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MULTA FISCAL. CARÁTER CONFISCATÓRIO. VIOLAÇÃO AO ART. 150, IV, DA CONSTITUIÇÃO FEDERAL. AGRAVO IMPROVIDO. I Esta Corte firmou entendimento no sentido de que são confiscatórias as multas fixadas em 100% ou mais do valor do tributo devido. Precedentes. II Agravo regimental improvido.” (RE 657372 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 10.06.2013)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 03 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
