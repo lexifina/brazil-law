@@ -1,0 +1,10 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 667.152-AgR/DF, Rel. Min. ROSA WEBER – ARE 763.194-AgR/SP, Rel. Min. ROBERTO BARROSO – ARE 835.035- -AgR/RO, Rel. Min. DIAS TOFFOLI, v.g.):
+    “Agravo regimental em agravo de instrumento. 2. Recusa de bem indicado à penhora. Debêntures da Eletrobrás. Execução fiscal. 3. Solução da controvérsia demanda rever a interpretação conferida pela origem à legislação infraconstitucional (Lei 6.830/80). Ofensa reflexa à Constituição Federal. Precedentes do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+    (AI 805.819-AgR/RS, Rel. Min. GILMAR MENDES)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar-lhe provimento, eis que correta a decisão que não admitiu o recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “a”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 03 de novembro de 2015.
+Ministro CELSO DE MELLO
+Relator
