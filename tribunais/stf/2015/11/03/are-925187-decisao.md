@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça de São Paulo que negou provimento à apelação do Município por entender que restou comprovada a desproporção entre o volume de resíduos sépticos produzidos e os valores lançados (eDoc 1, p. 172).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, LV; 30, I e III; e 145, II, do texto constitucional.
+    O recorrente alega, em síntese, que a recorrida não produziu qualquer prova que elidisse a presunção de liquidez da certidão de dívida ativa, bem como que a taxa é devida, por ser compulsória aos estabelecimentos potencialmente geradores de lixo séptico.
+    É o relatório.
+    Decido.
+    As razões recursais não merecem acolhida.
+    Para adoção de entendimento diverso daquele proferido pelo Tribunal de origem, seria necessário proceder ao reexame dos fatos e provas que permeiam a lide, medida inviável em sede de recurso extraordinário, a teor de pacífica jurisprudência do STF e do Enunciado 279 do STF.
+    Conclui-se, portanto, que a ofensa à Constituição Federal, se existente, seria reflexa ou indireta, o que não enseja a abertura desta via extraordinária.
+    “Agravo regimental no agravo de instrumento. Execução fiscal. Taxa de lixo séptico. Prova documental no sentido da não produção do chamado lixo séptico. Discussão acerca do conjunto fático- probatório. Súmula nº 279 desta Corte. 1. Prevaleceu, na decisão proferida pelo tribunal a quo, o entendimento de que a agravada não produz lixo séptico, nem se utiliza do respectivo serviço de coleta especial, não tendo o agravante produzido qualquer tipo de prova em contrário. 2. Para superar esse entendimento, seria necessário reexaminar o conjunto fático-probatório, pelo que incide, na espécie, o verbete da Súmula nº 279 deste STF. 3. Agravo regimental não provido” (AI n° 711.517/SP-AgR, Primeira Turma, Rel. Min. Dias Tofolli, DJe de 9.3.12).
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. TRÂNSITO EM JULGADO DE RECURSO ESPECIAL. SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I- O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. II - Para dissentir da conclusão a que chegou o acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Com a negativa de provimento ao recurso especial pelo Superior Tribunal de Justiça tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF) IV - Agravo regimental improvido” (AI nº 678.639/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 6.3.2009).
+    No mesmo sentido, as seguintes decisões monocráticas: AI 728.818/SP, Rel. Min. Ellen Gracie, DJe de 2.8.2011 e AI 685.085/SP, Rel. Min. Joaquim Barbosa, DJe de 15.3.12.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 3 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
