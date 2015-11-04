@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal da Seção Judiciária do Estado do Rio Grande do Sul, assim ementado:
+    “TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO. REMESSA POSTAL INTERNACIONAL. DECRETO Nº. 1.804/80. PORTARIA MF Nº. 156/99. ISENÇÃO. NULIDADE DA SENTENÇA. AUSÊNCIA. PRESCRIÇÃO QUINQUENAL. INOCORRÊNCIA. RECURSO INOMINADO DA FAZENDA NACIONAL IMPROVIDO.
+    1. Hipótese em que a parte autora, ora recorrida, requereu o reconhecimento de isenção de Imposto de Importação sobre bem adquirido através de comércio eletrônico, na forma regulamentada pelo Decreto nº. 1.804/80, bem como a respectiva liberação do bem retido.
+    2. Não há que se falar em nulidade, em razão da sentença não ter abordado todos os argumentos apresentados pelas partes. Encontrando-se a sentença suficientemente fundamentada à luz do entendimento do sentenciante e da legislação em vigor, não há qualquer vício a ser reconhecido.
+    3. O diploma legal em referência dispõe, em seu art. 2º, inciso II, que cabe ao Ministério da Fazenda dispor sobre a isenção do imposto de importação dos bens contidos em remessas de valor até cem dólares norte-americanos, ou o equivalente em outras moedas, quando destinados a pessoas físicas.
+    4. Em atenção ao dispositivo legal, adveio a Portaria nº. 156/99, do Ministério da Fazenda, estabelecendo, em seu art. 1º, § 2º, que “os bens que integrem remessa postal internacional no valor de até US$ 50.00 (cinqüenta dólares dos Estados Unidos da América) ou o equivalente em outra moeda, serão desembaraçados com isenção do Imposto de Importação, desde que o remetente e o destinatário sejam pessoas físicas.”
+    5. Este Colegiado já teve oportunidade de se manifestar a respeito da controvérsia ora em debate por ocasião do julgamento do processo nº. 0502671-89.2014.4.05.8400 (Sessão de julgamento: 06/08/2014), em que mantida a sentença de procedência por considerar que o ato regulamentar, quando impôs como requisito para gozo do benefício legal tratar-se de remetente pessoa jurídica, transbordou a autorização legal, que não teria delegado a criação de novos requisitos não previstos na lei, mas apenas o poder de regulamentar aqueles já existentes.
+    6. Considerando que, no caso em tela, a remessa postal internacional teve por objeto bem de valor inferior ao estabelecido na norma, destinado a pessoa física, indevida a incidência tributária.
+    7. Não que se falar em prescrição quinquenal, uma vez que e a remessa postal e a tributação não se deram em data anterior ao quinquênio que antecede o ajuizamento da ação.
+    8. Recurso inominado improvido.
+    9. Condenação do recorrente em honorários advocatícios fixados em R$ 724,00 (setecentos e vinte e quatro reais).”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta, em síntese, que o acórdão recorrido, ao estender norma de isenção a hipótese não contemplada pela norma, violou o princípio da separação dos Poderes e o princípio da reserva legal para a instituição de isenções.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que ausente o requisito da ofensa à Constituição.
+    A pretensão não merece acolhida. No caso dos autos, a apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Portaria MF 156/1999 e Decreto-Lei nº 1.804/1980), providência vedada nesta fase processual. De fato, a emissão de qualquer juízo acerca da Portaria em questão demandaria essencialmente seu confronto com a legislação que lhe é anterior. Não se trata, portanto, de um exame de constitucionalidade da norma, mas, na realidade, de uma avaliação que paira no âmbito estrito da legalidade, circunstância que não enseja a abertura da via extraordinária.
+    Ora, tendo o Tribunal de origem consignado que a Portaria exorbitou a competência que lhe fora conferida pelo Decreto, não cabe a esta Corte estabelecer conclusão diversa. Nesse sentido, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Tributário. Contribuição previdenciária. Transportador autônomo. Base de cálculo. Suficiência de sua definição na Lei nº 8.212/91. Contencioso que envolve interpretação da legislação infraconstitucional. Ofensa constitucional indireta.
+    1. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional e a análise de ofensa reflexa à Constituição Federal.
+    2. Agravo regimental não provido.” (RE 634.315-AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 282, 356 E 636/STF.
+    O Tribunal de origem não decidiu a questão nos termos propostos na via extraordinária. Tampouco foi instado a fazê-lo por meio de embargos de declaração. Nessas condições, aplicam-se as Súmulas 282 e 356/STF.
+    Em linha de princípio, o que se pode discutir em recurso extraordinário, quanto a ofensa ao princípio da legalidade, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário, matéria que não se discute neste processo.
+    Agravo regimental a que se nega provimento” (RE 708.639-AgR, da minha relatoria)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 04 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
