@@ -1,0 +1,10 @@
+Decisão: Trata-se de agavo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão que manteve a sentença para determinar a incidência da contribuição previdenciária sobre o montante que exceder o teto das aposentadorias do INSS de servidores públicos estaduais. No recurso, a recorrente sustenta que ao contrário da Lei Complementar 954/03 que se baseou a recorrida para realizar o desconto previdenciário no benefício do recorrente, a Lei Complementar 1012/07 nada dispôs com relação à situação jurídica do recorrente, ex-servidor celetista, beneficiário de complementação de aposentadoria, a configurar a notória ilegalidade da exação realizada sem previsão legal.
+    O Supremo Tribunal Federal, no julgamento do RE-RG 633.843, de relatoria do Ministro Cezar Peluso, DJe 15.09.2011 (Tema 397), já se manifestou sobre o tema invocado pela parte Recorrente, em sede de repercussão geral, tendo concluído pela ausência da repercussão geral de matéria referente à interpretação e aplicação de lei complementar estadual reguladora de contribuição previdenciária de servidores públicos estaduais, por versar sobre tema infraconstitucional.
+    Confira-se, a propósito, a ementa do julgado:
+    “Extraordinário. Inadmissibilidade. Contribuição previdenciária. Lei complementar estadual. Servidores públicos estaduais ativos. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto interpretação e aplicação de Lei Complementar estadual reguladora de contribuição previdenciária de servidores públicos estaduais ativos, versa sobre tema infraconstitucional.”
+    Ante o exposto, em vista da manifestação do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 04 de novembro de 2015.
+Edson Fachin
+Relator
+Documento assinado digitalmente
