@@ -1,0 +1,33 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO FEDERAL. CONTRIBUIÇÃO PARA O PLANO DA SEGURIDADE SOCIAL SOBRE A GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS – GACEN. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL: INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Turma Recursal dos Juizados Especias Federais do Rio Grande do Sul:
+    “A União interpôs recurso inominado contra a sentença que julgou parcialmente procedente o pedido, reconhecendo o direito da parte autora em não sofrer incidência da Contribuição para o Plano da Seguridade Social do Servidor Público (PSS) sobre as parcelas recebidas a título de Gratificação de Atividade de Combate e Controle de Endemias – GACEN enquanto pertencer ao quadro ativo de servidores da instituição e condenando a ré a restituir os valores indevidamente descontados, respeitando-se a prescrição.
+    (…)
+    A gratificação, portanto, é devida aos servidores da FUNASA que realizem, em caráter permanente, atividades de combate e controle de endemias.
+    Evidente a sua natureza remuneratória, visto que: i) é devida também nos afastamentos, sempre que considerados de efetivo exercício, quando percebida por período igual ou superior a 12 (doze) meses (art. 55, § 2º); ii) incorpora-se aos proventos de aposentadoria e às pensões (art. 55, § 3º); iii) é reajustada na mesma época e na mesma proporção da revisão geral da remuneração (art. 55, § 5º); iv) não é devida aos ocupantes de cargo em comissão ou função de confiança (art. 55, § 6º), mesmo que realizem, em caráter permanente, atividades de combate e controle de endemias; e v) não obsta o pagamento de diárias, desde que ocorra pernoite (art. 55, § 8º).
+    Ademais, não se afigura aplicável o artigo 4º, § 1º, inciso VII, da Lei 10.887/2004, que excepciona da incidência da contribuição as 'parcelas remuneratórias pagas em decorrência de local de trabalho', na medida em que a GACEN é devida pelo desempenho da atividade de combate e controle de endemias, sendo irrelevante o local em que realizada, consoante se depreende do artigo 55 da Lei 11.784/2008, que alude ao desempenho da aludida atividade 'em área urbana ou rural', ou seja, em qualquer localidade.
+    Entendo que essas características da GACEN, em especial a possibilidade de incorporação aos proventos de aposentadoria (art. 55, § 3º), tornam possível a incidência da contribuição previdenciária.
+    Pelo exposto, a sentença deve ser reformada.
+    Decisão
+    O voto é por dar provimento ao recurso da parte ré, nos termos da fundamentação.
+    Sem condenação em custas e honorários” (Documento n. 18).
+    2. No recurso extraordinário, o Agravante alega contrariedade aos arts. 5º, inc. XXXV, e 37 da Constituição da República.
+    Assevera que “referida indenização presta-se a compensar servidores que, sem direito à percepção de diárias, têm que executar trabalhos de campo, entre os quais se insere a participação em campanhas de combate e controle de endemias, em área afastada do local de sua lotação regular, conforme regulamentação infralegal” (Documento n. 23).
+    3. O Tribunal de origem inadmitiu o recurso extraordinário ao fundamento de ausência de ofensa direta à Constituição da República.
+    No agravo, reiteram-se os argumentos formulados no recurso extraordinário e sustenta-se que “não se está a adentrar o campo do reexame de legislação infraconstitucional” (Documento n. 31).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A apreciação do pleito recursal demandaria a análise da legislação infraconstitucional aplicável à espécie (Leis ns. 10.887/2004 e 11.784/2008). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO E ADMINISTRATIVO. SERVIDOR PÚBLICO. INCIDÊNCIA DE CONTRIBUIÇÃO SOCIAL SOBRE PARCELA REMUNERATÓRIA. NATUREZA JURÍDICA DA VERBA PECUNIÁRIA: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 853.936-AgR, de minha relatoria, Segunda Turma, DJe 30.3.2015).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. 1. A controvérsia relativa à natureza jurídica das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente, circunstância que impede a abertura da via extraordinária. 2. Agravo regimental a que se nega provimento” (RE n. 869.484-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 7.5.2015).
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. CONTRIBUIÇÃO PREVIDENCIÁRIA. GRATIFICAÇÃO DE LOCOMOÇÃO. NATUREZA JURÍDICA. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 12.9.2014” (ARE n. 874.633-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 16.6.2015).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO MILITAR. AUXÍLIO MORADIA. EXTENSÃO AOS INATIVOS. NATUREZA JURÍDICA DA VANTAGEM. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE n. 676.598-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 1º.10.2013).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de novembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
