@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de embargos de divergência opostos contra acórdão da Primeira Turma desta Corte que, ao negar provimento a agravo regimental, manteve decisão que provera o recurso extraordinário. Eis o teor da ementa:
+    PROVENTOS – ALTERAÇÃO – PESSOAL DA ATIVA – SUPRESSÃO DE PARCELA – EXTENSÃO – IMPROPRIEDADE. Surge inadequada supressão de parcela integrante dos cálculos de proventos, a pretexto de imprimir tratamento igualitário considerado pessoal da ativa.
+    A parte embargante sustenta a divergência a partir do entendimento proferido no RE 468.076-ED (Rel. Min. CELSO DE MELLO, Segunda Turma), no sentido de que a supressão do adicional de inatividade pela MP 2.131/00 não ofendeu o direito adquirido ou o princípio da irredutibilidade de vencimentos.
+    Instada a se manifestar, a parte embargada quedou-se silente (doc. 9).
+    2. É firme nesta Corte o entendimento de que “a supressão do adicional de inatividade, percebido pelos militares, pela Medida Provisória 2.131/2000 não afrontou o princípio do direito adquirido e da irredutibilidade de vencimentos” (AI 665.622-AgR-EDv-ED, Rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, DJe de 9/11/2011). No mesmo sentido, em casos idênticos ao presente:
+    DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MILITAR. ADICIONAL DE INATIVIDADE. MP Nº 2.131/2000. DIREITO ADQUIRIDO. INEXISTÊNCIA.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há direito adquirido do servidor público à inalterabilidade do regime jurídico pertinente à composição dos vencimentos, desde que seja preservado o montante global dos vencimentos e que não haja decesso remuneratório. Precedentes.
+    2. Agravo regimental a que se nega provimento. (AI 595.137-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 26/8/2015)
+    Agravo regimental em embargos de divergência em agravo regimental em recurso extraordinário. 2. Inexistência de direito adquirido a regime jurídico, consubstanciado nas parcelas que compõem a estrutura remuneratória de servidores inativos, desde que observada a irredutibilidade salarial. Precedentes. 3. A Lei 8.237/1991 reduziu os percentuais e modificou os critérios de cálculo das gratificações incorporadas na inatividade e do adicional de inatividade, porquanto as alterações nela veiculadas não resultaram na diminuição do valor global da remuneração dos servidores afetados. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento. (RE 372.527-AgR-ED-EDv-AgR, Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de 25/6/2015)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR. SUPRESSÃO DO ADICIONAL DE INATIVIDADE. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 841.830-AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 15/12/2014)
+    E ainda: ARE 880.535-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 11/6/2015; ARE 885.282-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 15/6/2015; ARE 751.714-AgR, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe de 22/4/2014; ARE 672.401-AgR, de minha relatoria, Segunda Turma, DJe de 18/9/2013.
+    O acórdão embargado encontra-se em dissonância com esse entendimento, razão pela qual merece reforma.
+    3. Diante do exposto, dou provimento aos embargos de divergência para desprover o recurso extraordinário, restabelecendo o acórdão de fls. 105/109.
+    Publique-se. Intime-se.
+    Brasília, 5 de novembro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
