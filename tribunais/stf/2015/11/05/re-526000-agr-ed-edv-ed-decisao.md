@@ -1,0 +1,38 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO – EFEITO MODIFICATIVO.
+EMBARGOS DE DIVERGÊNCIA – PRESSUPOSTOS ESPECÍFICOS DE RECORRIBILIDADE – ATENDIMENTO – EMBARGOS ADMITIDOS.
+    1. Eis as informações prestadas pelo assessor Dr. Marcelo Novelino Camargo:
+    Ao inadmitir os embargos de divergência, Vossa Excelência consignou:
+    EMBARGOS DE DIVERGÊNCIA – PRECEDENTE DO PLENÁRIO – JUÍZO DE RETRATAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. Às folhas 310 e 311, assim me pronunciei:
+    DISSENSO JURISPRUDENCIAL – VENCIMENTOS - REAJUSTE – LEI DISTRITAL Nº 38/89 – EMBARGOS ADMITIDOS.
+    1. Servidores do Distrito Federal interpõem embargos de divergência ao acórdão de folha 212 a 219, que implicou o desprovimento de agravo regimental ante os seguintes fundamentos (folhas 214 e 215):
+    [...]
+    Em março de 1990, este Tribunal reconheceu direito a reajuste de 84,32% aos servidores públicos do Distrito Federal, em respeito ao princípio do direito adquirido, porque havia transcorrido o período aquisitivo, qual seja, o trintídio compreendido entre fevereiro e março de 1990. Assim, os elementos tidos pela Lei distrital nº 38/89 como necessários à apuração do percentual correspondente à inflação já se achavam consumados à sua revogação, em 23.7.90, pela Lei nº 117/90, a qual promoveu mudança nos vencimentos do funcionalismo local.
+    Assim, correta a limitação temporal, porque, uma vez implementada mudança na política salarial, não há falar em novos reajustes, nos termos da legislação revogada. Mas o reajuste de 84,32%, previsto para março de 1990, “já se integrara ao patrimônio jurídico dos agentes públicos locais” à data da alteração legislativa.
+    Ademais, a pretensão de continuidade de pagamento na forma da legislação revogada esbarra na jurisprudência desta Corte, que não reconhece direito adquirido do servidor público a regime jurídico-funcional, nem à permanência do regime legal de reajuste de vantagem (RE nº 294.009-AgR, da minha lavra, DJ de 2.3.2004).
+    [...]
+    Os embargos de declaração que se seguiram foram desprovidos e tidos por protelatórios, o que ensejou a aplicação da multa prevista no artigo 538, parágrafo único, do Código de Processo Civil (folha 264 a 269).
+    Na peça de folha 279 a 285, os servidores buscam demonstrar divergência com relação ao assentado no Recurso Extraordinário nº 394.494-1/DF, da lavra do Ministro Sepúlveda Pertence, julgado pela Primeira Turma, cujo acórdão, na íntegra, foi anexado às razões. Sustentam que, para a mesma situação fática, envolvendo a pretensão ao reajuste de 84,32% e outros assegurados na Lei Distrital nº 38/89, foram dadas soluções distintas. No acórdão embargado, concluiu-se pela limitação do reajuste à data da vigência da Lei local nº 117/90 e, no paradigma, entendeu-se que o princípio da irredutibilidade de vencimentos impede a limitação, mas apontou-se a inviabilidade de conceder-se majoração posterior pelo Índice de Preços ao Consumidor.
+    2. Na interposição destes embargos de divergência, observaram-se os pressupostos de recorribilidade. A peça está subscrita por profissional da advocacia regularmente constituído e foi protocolada no prazo assinado em lei. Os documentos de folhas 273 a 276, 286 e 287 comprovam o recolhimento da multa e do preparo.
+    3. Tenho como configurado o dissenso. Enquanto o acórdão impugnado implicou o provimento do extraordinário, impondo limitação ao reajuste de 84,32%, o aresto paradigma, juntado na íntegra, revela tese diametralmente oposta.
+    4. Admito estes embargos, devendo, assim, merecer o processamento regular.
+    5. Publiquem.
+    2. O dissenso existente à época em que proferida a decisão foi afastado pelo Pleno em 2 de dezembro de 2010, quando pacificado o entendimento quanto ao tema versado neste processo, para assentar a necessidade de limitação temporal a inviabilizar novos reajustes nos termos da legislação revogada. Eis como ficou elucidada a matéria:
+    RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Vencimentos. Reajuste trimestral. Leis distritais nos 38/89 e 117/90. Autonomia constitucional do Distrito Federal. Inaplicabilidade da Lei Federal nº 8.030/90. Limitação temporal. Direito adquirido ao percentual de 84,32% até a revogação da norma. Embargos de divergência acolhidos. Recurso extraordinário a que se nega seguimento. O direito dos servidores do Distrito Federal ao reajuste dos vencimentos previsto na Lei local nº 38/89 somente foi afastado em 23 de julho de 1990, pela edição da Lei nº 117, não se lhes aplicando a Lei Federal nº 8.030/90.
+    (Embargos de Divergência nos Embargos Declaratórios nos Embargos Declaratórios no Recurso Extraordinário nº 230.557/DF, relator ministro Cezar Peluso)
+    Vê-se que o acórdão impugnado, formalizado pela Segunda Turma, está em consonância com a óptica do Tribunal. Os embargos, então, encontram óbice no artigo 332 do Regimento Interno do Supremo:
+    Art. 332. Não cabem embargos, se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada, salvo o disposto no art. 103.
+    A unanimidade alcançada no julgamento pelo Pleno inibe qualquer iniciativa a partir da ressalva inserta no preceito, ou seja, da revisão da jurisprudência, especialmente em face de haver, sobre o tema, casos residuais.
+    3. Ante o novo quadro, reconsidero o pronunciamento anterior para negar seguimento a estes embargos.
+    4. Publiquem.
+    Edson Correia Santos Junior e outros apontam, à folha 345 à 347, erro de fato na decisão embargada, por ser o entendimento do Pleno, formalizado nos Embargos de Divergência nos Embargos Declaratórios nos Embargos Declaratórios no Recurso Extraordinário nº 230.557/DF, favorável a si. Ressaltam que, no acórdão utilizado como paradigma, concluiu-se pelo afastamento da limitação temporal imposta à sistemática de reajuste dos vencimentos.
+    O embargado, na impugnação de folha 354 a 358, sustenta o descabimento dos embargos, por veicularem pretensão de reexame da controvérsia. Argumenta ter sido assentada, no acórdão paradigma, expressamente a limitação do reajuste à entrada em vigor da Lei distrital nº 117/1990. Alega a similitude entre o consignado na decisão da Segunda Turma e a óptica adotada pelo Plenário.
+    2. Na interposição destes embargos, atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por advogado regularmente credenciado, foi protocolada no prazo legal.
+    Assiste razão aos embargantes. De fato, o acórdão da Segunda Turma revelou óptica diversa da adotada pelo Plenário no julgamento apontado como paradigma, no qual se assegurou aos servidores o direito adquirido ao percentual de 84,32% até a revogação da Lei nº 38/89 pela de nº 117/1990, ambas do Distrito Federal.
+    Observem que o artigo 330 do Regimento Interno do Supremo prevê o cabimento de embargos de divergência contra ato de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal, devendo a parte comprovar a discrepância jurisprudencial na forma do disposto no artigo 331 nele contido, ou seja, via certidão, cópia autenticada ou mediante citação do repositório de jurisprudência, oficial ou credenciado, com a transcrição dos trechos que configurem o dissídio, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+    3. Ante o quadro, provejo os declaratórios e empresto efeito modificativo à decisão impugnada, para ter como adequados os embargos de divergência, ante o atendimento aos pressupostos de admissibilidade intrínsecos e extrínsecos.
+    4. Publiquem.
+Brasília, 5 de novembro de 2015.
+Ministro MARCO AURÉLIO
+Relator
