@@ -1,0 +1,1 @@
+Art. 6º-A Equiparam-se, para os fins do disposto nos arts. 1º e 6º, às operações neles referidas as que são realizadas com entidades abertas ou fechadas de previdência complementar pelos respectivos participantes ou assistidos.
