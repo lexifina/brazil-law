@@ -1,0 +1,12 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 590.809-RG/RS, Rel. Min. MARCO AURÉLIO, e concluiu que superveniente mudança jurisprudencial não autoriza reconhecer a ocorrência de hipótese de rescindibilidade do julgado, pois a ação rescisória não se qualifica como instrumento de uniformização de jurisprudência. Esse entendimento restou consubstanciado em acórdão assim ementado:
+    “AÇÃO RESCISÓRIA ‘VERSUS’ UNIFORMIZAÇÃO DA JURISPRUDÊNCIA. O Direito possui princípios, institutos, expressões e vocábulos com sentido próprio, não cabendo colar a sinonímia às expressões ‘ação rescisória’ e ‘uniformização da jurisprudência’.
+    AÇÃO RESCISÓRIA – VERBETE Nº 343 DA SÚMULA DO SUPREMO. O Verbete nº 343 da Súmula do Supremo deve de ser observado em situação jurídica na qual, inexistente controle concentrado de constitucionalidade, haja entendimentos diversos sobre o alcance da norma, mormente quando o Supremo tenha sinalizado, num primeiro passo, óptica coincidente com a revelada na decisão rescindenda.” (grifei)
+    Impende assinalar, por oportuno, ante a inquestionável procedência de suas observações, a ementa da decisão proferida pelo eminente Ministro LUIZ FUX na AR 1.415/RS, de que foi relator:
+    “AÇÃO RESCISÓRIA. FINSOCIAL. EMPRESA EXCLUSIVAMENTE PRESTADORA DE SERVIÇOS.  INEXISTÊNCIA DE VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. SÚMULA Nº 343/STF. INCIDÊNCIA TAMBÉM NOS CASOS EM QUE A CONTROVÉRSIA DE ENTENDIMENTOS DIZ RESPEITO À APLICAÇÃO DE NORMA CONSTITUCIONAL. PRECEDENTES. AÇÃO À QUAL SE NEGA SEGUIMENTO.” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para dar provimento ao recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “c”, na redação dada pela Lei nº 12.322/2010), em ordem a julgar improcedentes os pedidos deduzidos na ação rescisória ajuizada pela parte ora recorrida.
+    As custas processuais e a verba honorária, que fixo em 10% (dez por cento) sobre o valor atualizado da causa, serão pagas pela parte que sucumbiu integralmente.
+    Publique-se.
+    Brasília, 05 de novembro de 2015.
+Ministro CELSO DE MELLO
+Relator
