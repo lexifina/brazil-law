@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CABIMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, als. a e c, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “PROCESSUAL CIVIL. AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. APLICAÇÃO DO ARTIGO 557, CAPUT e § 1º-A, DO CPC. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO CABIMENTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. REITERAÇÃO DE ALEGAÇÕES. 1. Hipótese em que a decisão impugnada foi proferida em consonância com o disposto no artigo 557, caput, do Código de Processo Civil. 2. A mera reiteração das alegações trazidas no agravo de instrumento impõe a manutenção da decisão agravada. Precedente do e. STJ. 3. Agravo legal desprovido” (fl. 203).
+    2. No recurso extraordinário, a Agravante alega ter o Tribunal de origem contrariado os arts. 5º, inc. II, 149, 150, incs. I e III, e 195, inc. I, al. a, e § 6º, da Constituição da República.
+    Salienta ser “plenamente cabível a exceção de pré-executividade no presente caso, tendo em vista as alegações conclusivas trazidas na mesma, como a inconstitucionalidade das cobranças sendo matéria que poderia ter sido reconhecida pelo Juiz, a nulidade do título, pois incompletos os requisitos para a formação deste título (liquidez, certeza e exigibilidade), o que consequentemente gera a extinção da execução” (fl. 210).
+    Assevera que, “ante as flagrantes inconstitucionalidades dos tributos ora estampados nos títulos que acompanham a presente ação executiva, não resta outra alternativa senão declarar sua nulidade, com a consequente extinção da execução fiscal” (fl. 235).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta (fl. 256 v.).
+    No agravo, argumenta-se que ”os tributos ora executados restam inconstitucionais, o título que ora se discute resta nulo conforme a previsão contida no art. 618 do Código de Processo Civil, bem como a do parágrafo único do artigo 3º da Lei 6.830/80” (fl. 294).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Tribunal Regional limitou-se a verificar os pressupostos de cabimento da exceção de pré-executividade, a qual foi inadmitida ao fundamento de que:
+    “’A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.’
+    (…)
+    No presente caso, a matéria debatida se refere à nulidade da cobrança em virtude das espécies de tributo em que se funda o título executivo, afirmação esta refutada pela parte agravada nos autos originais.
+    Assim, considerando a complexidade das questões levantadas, cuja apreciação é cabível somente em sede de embargos à execução por depender de ampla dilação probatória, impõe-se a manutenção da r. decisão agravada” (fls. 201-202).
+    A apreciação do pleito recursal exigiria a interpretação da legislação infraconstitucional aplicável à espécie (Código de Processo Civil). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CABIMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 666.361-AgR, de minha relatoria, Primeira Turma, DJe 16.5.2012).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CABIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 1. Violação à Carta Magna de 1988, se existente, ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. 2. Incidem, de mais a mais, as Súmulas 282 e 356 do STF. 3. Agravo regimental desprovido” (RE n. 597.951-AgR, Relator o Ministro Ayres Britto, Segunda Turma, DJe 8.10.2010).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REQUISITOS DE ADMISSIBILIDADE. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. II – A discussão acerca do cabimento da exceção de pré-executividade demanda a análise de normas infraconstitucionais. A ofensa à Constituição, se ocorrente, seria indireta. Precedentes. III – Agravo regimental improvido” (AI n. 816.428-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 30.6.2011).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de novembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
