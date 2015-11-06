@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1590, de 5 de novembro de 2015
+Dispõe sobre a aplicação do art. 9º-A da Lei nº 10.925, de 23 de julho de 2004, que dispõe sobre o crédito presumido da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins relativo à aquisição de leite in natura.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 9º-A da Lei nº 10.925, de 23 de julho de 2004, e no Decreto nº 8.533, de 30 de setembro de 2015, resolve:
