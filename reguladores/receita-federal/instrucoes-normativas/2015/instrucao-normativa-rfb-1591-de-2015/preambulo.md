@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1591, de 5 de novembro de 2015
+Dispõe sobre a forma de apuração e a alíquota da Contribuição Social sobre o Lucro Líquido aplicável aos fatos geradores ocorridos a partir de 1º de setembro de 2015 ou 1º de outubro de 2015, nos casos em que especifica e nos termos do art. 70 da Lei nº 12.715, de 2012.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 1º da Lei nº 13.169, de 6 de outubro de 2015, resolve:
