@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL. RESSARCIMENTO DE DESPESAS COM HONORÁRIOS ADVOCATÍCIOS. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Terceira Turma do Tribunal Superior do Trabalho decidiu:
+    “AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. RESSARCIMENTO DAS DESPESAS COM HONORÁRIOS ADVOCATÍCIOS. ARTIGOS 389 E 404 DO CÓDIGO CIVIL. INAPLICABILIDADE AO PROCESSO DO TRABALHO. Constata-se da leitura que a decisão recorrida encontra-se, na verdade, em consonância com o entendimento sedimentado nesta Corte, a teor da Súmula 219 do TST. Dessa forma, tem incidência a diretriz expressa no § 7º do art. 896 da CLT. Agravo conhecido e não provido”.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta.
+    4. A Agravante argumenta que
+    “demonstrou a afronta direta ao artigo 5º, caput, e inciso XXII, da CF/88, posto que a parte, além de ser obrigada a acionar a máquina do judiciário para o fim de obter a satisfação de um direito seu, ainda precisa arcar com inúmeras despesas que são debitadas de seu crédito, o que acaba por violar frontalmente o seu direito de propriedade.
+    A questio juris do processo ventilada pelo autor nas razões de recurso extraordinário, encerra debate constitucional, já que o que se discute é exatamente a reparação integral do custo dependido para ver seu direito reconhecido, inclusive o pedido de honorários advocatícios, formulado com base no artigo 133 da CF/88”.
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 5º, inc. XXII, e 133 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    A apreciação do pleito recursal exigiria a análise prévia de legislação infraconstitucional aplicada à espécie (Lei n. 5.584/1970, Código Civil e Consolidação das Leis do Trabalho). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “DIREITO PROCESSUAL DO TRABALHO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SINDICATO. SUBSTITUTO PROCESSUAL. HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DE ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DE FATOS E PROVAS. SÚMULAS 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – Para se deferir honorários advocatícios ao sindicato representante da classe obreira, que atua como substituto processual, necessário seria o exame da legislação infraconstitucional aplicável à espécie (Consolidação das Leis do Trabalho e Lei 5.584/70), bem como o reexame de fatos e provas constantes dos autos, o que atrai o óbice da Súmula 279 do STF, os quais inviabilizam o extraordinário. Precedente. II - Agravo regimental improvido” (AI n. 800.039-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 16.11.2010).
+    “PROCESSO CIVIL. REDUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIA INFRACONSTITUCIONAL. 1. A discussão a respeito da redução de honorários advocatícios é de natureza infraconstitucional. Incabível, no caso, a interposição de recurso extraordinário para tratar de tal hipótese. 2. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos. 3. Agravo regimental improvido” (RE n. 577.398-AgR, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 24.4.2009).
+          “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA ORIGEM: DISCUSSÃO SOBRE O PERCENTUAL E A FORMA DE INCIDÊNCIA. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 740.552-AgR, de minha relatoria, Segunda Turma, DJe 13.6.2013).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de novembro de 2015.
+ Ministra CÁRMEN LÚCIA
+Relatora
