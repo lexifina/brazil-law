@@ -1,0 +1,18 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA – HABEAS CORPUS – LIMINAR DEFERIDA.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O Juízo da Vara Criminal da Comarca de São Sebastião/SP, no Processo nº 0000087-87.2013.8.26.0587, determinou a prisão preventiva do paciente e de mais três pessoas, ante a suposta prática dos delitos previstos nos artigos 155, § 4º, incisos I e IV (furto qualificado pelo rompimento de obstáculo em concurso de pessoas), e 288 (associação criminosa) do Código Penal. Apontou a presença da materialidade e dos indícios de autoria, consubstanciadas nas provas produzidas durante as investigações e no reconhecimento fotográfico e pessoal dos indiciados. Consignou a necessidade de assegurar a ordem pública, em virtude da gravidade das condutas.
+    Na sentença, condenou o paciente a sete anos e seis meses de reclusão, em regime fechado, e ao pagamento de trinta dias-multa, negando-lhe o direito de recorrer em liberdade. Assentou persistirem os motivos ensejadores da prisão provisória.
+    Em habeas corpus, arguiu-se a carência de fundamentação do ato que implicou a manutenção da custódia. A 16ª Câmara de Direito Criminal, ao indeferir a ordem, frisou a subsistência dos requisitos autorizadores. Ressaltou tratar-se de réu preso durante a instrução criminal, entendendo estar a decisão impugnada em consonância com a jurisprudência do Tribunal.
+    No Superior Tribunal de Justiça, reiterou-se a questão atinente à motivação genérica, acrescentando-se o direito do paciente ao implemento do regime semiaberto, considerado o período da prisão provisória, um ano e três meses. O relator não acolheu o pedido de implemento de liminar, ante a ausência de ilegalidade a ser sanada.
+    Neste habeas, as impetrantes sustentam a possibilidade de mitigação do Verbete nº 691 da Súmula do Supremo. Asseveram ter sido a custódia provisória alicerçada em premissas abstratas. Refutam os fundamentos lastreados na gravidade do delito. Reportam-se aos precedentes do Supremo nesse sentido. Dizem da necessidade de observância ao princípio da presunção da não culpabilidade. Sublinham o transcurso de mais de um ano e oito meses de custódia provisória.
+    Requerem, em âmbito liminar, seja o paciente posto em liberdade para aguardar o trânsito em julgado da sentença condenatória. No mérito, pleiteiam a confirmação da providência.
+    Anoto que o paciente, preso, preventivamente, em 2 de maio de 2013, posteriormente foi beneficiado pela liminar implementada por Vossa Excelência, em 18 de maio de 2013, no Habeas Corpus nº 117.568. No entanto, retornou à prisão, devido ao pronunciamento mediante o qual a Primeira Turma, em 17 de dezembro de 2013, inadmitiu a impetração.
+    A fase é de apreciação da medida acauteladora.
+    2. Repita-se à exaustão: o arcabouço jurídico não contempla a custódia automática, considerada a gravidade do crime. Há de observar-se o princípio constitucional da não culpabilidade. A ordem de prisão mostrou-se baseada, tão somente, no delito imputado.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso do ato acima examinado, formalizado no Processo nº 0000087-87.2013.8.26.0587, do Juízo da Vara Criminal da Comarca de São Sebastião/SP. Advirtam-no da necessidade de permanecer na residência cujo endereço indicar ao Juízo, informando possível transferência e atendendo aos chamamentos judiciais, bem como de adotar a postura que se aguarda do homem médio, do homem integrado à sociedade.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 9 de novembro de 2015, às 14h20.
+Ministro MARCO AURÉLIO
+Relator
