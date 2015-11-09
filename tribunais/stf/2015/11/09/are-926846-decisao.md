@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “SERVIDOR PUBLICO ESTADUAL - Sujeição ao Regime Especial de Trabalho Policial – Pretensão de recebimento do adicional de periculosidade - Impossibilidade - Vedação expressa contida na Lei Complementar nº 315/83 - Obediência ao princípio da legalidade - Adicionais que tem por fundamento situações parelhas, relacionadas à gravidade da atuação dos agentes públicos – Ausência de ofensa ao disposto no . Artigo 7º, inciso XXIII, da Constitução Federal – Exegese do artigo 39, § 3º, da Carta Federal- Interpretação teleológica e sistemática – Apelação não provida”. (eDOC 2, p. 107)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a” e “c”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito alega ofensa ao artigos 7º, XXIII e 39, § 3º, do texto constitucional.
+    Nas razões recursais, defende-se, em síntese, que os Agentes de Segurança Penitenciária possuem direito ao adicional de Periculosidade.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal a quo decidiu a controvérsia com fundamento na legislação local (Lei Complementar 315/1983 do Estado de São Paulo) e consignou que os recorrentes agravantes não fazem jus ao adicional de periculosidade, em virtude destes já receberem gratificação específica para a natureza da atividade que exercem.
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso por óbice da Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF. 1. O adicional de insalubridade, quando sub judice a controvérsia sobre qual norma deve ser aplicável à espécie, implica análise da legislação infraconstitucional. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: ARE 742.535-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 30/8/2013, e ARE 726.144, Rel. Min. Teori Zavascki, DJe de 17/10/2013. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 3. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. [...] 5. Agravo regimental DESPROVIDO.”
+(ARE 815477 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 13.10.2014)
+    “Recurso extraordinário: descabimento: questão relativa à concessão de adicional de insalubridade decidida com base em análise de fatos e provas e em legislação local, de reexame vedado no RE: incidência das Súmulas 279 e 280”
+(AI 547179 AgR, Rel. Min. SEPÚLVEDA PERTENCE, Primeira Turma, DJ 12.5.2006)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADICIONAL DE PERICULOSIDADE. SERVIDOR PÚBLICO. PAGAMENTO DE VALORES EM ATRASO. 1. Insuficiência da preliminar formal de repercussão geral: inviabilidade da análise do recurso extraordinário. 2. Reexame de fatos e provas. Súmula n. 279 do Supremo Tribunal Federal. 3. Análise de matéria infraconstitucional. Ofensa constitucional indireta. 4. Agravo regimental ao qual se nega provimento.”
+(ARE 715601 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 4.12.2012)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a , do CPC).
+    Publique-se.
+    Brasília, 9 de novembro de 2015.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
