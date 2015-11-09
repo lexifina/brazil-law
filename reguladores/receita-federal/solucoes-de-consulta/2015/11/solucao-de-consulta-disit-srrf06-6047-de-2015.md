@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF06 nº 6047, de 29 de outubro de 2015
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: CESSÃO DE CRÉDITOS. INSTITUIÇÃO FINANCEIRA. INCIDÊNCIA. Não incide o IOF nas operações de cessão, sem coobrigação, de direitos creditórios decorrentes de vendas a prazo, quando o cessionário for instituição financeira. Todavia, quando do estabelecimento de cláusula de coobrigação do cedente (ou seja, em operações de cessão de direitos creditórios a instituição financeira com coobrigação), incide o IOF/Crédito sempre que restar a operação caracterizada como desconto de títulos, na forma estabelecida pela Solução de Divergência Cosit no 16, de 2011. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 25, DE 23 DE JANEIRO DE 2014 .
+DISPOSITIVOS LEGAIS: Decreto nº 6.306, de 2007, art. 2º, I, “a” e “b” e art. 3º, § 3º. Lei nº 9.532, de 1997, art. 58. Lei nº 9.249, de 1995, art.15, § 1º, III, d.
+ASSUNTO: Imposto sobre Operações de Crédito, Câmbio e Seguros ou Relativas a Títulos ou Valores Mobiliários - IOF
+EMENTA: CESSÃO DE CRÉDITOS. INSTITUIÇÃO FINANCEIRA. INCIDÊNCIA. Não incide o IOF nas operações de cessão, sem coobrigação, de direitos creditórios decorrentes de vendas a prazo, quando o cessionário for instituição financeira. Todavia, quando do estabelecimento de cláusula de coobrigação do cedente (ou seja, em operações de cessão de direitos creditórios a instituição financeira com coobrigação), incide o IOF/Crédito sempre que restar a operação caracterizada como desconto de títulos, na forma estabelecida pela Solução de Divergência Cosit no 16, de 2011. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 25, DE 23 DE JANEIRO DE 2014.
+DISPOSITIVOS LEGAIS: Decreto nº 6.306, de 2007, art. 2º, I, “a” e “b” e art. 3º, § 3º. Lei nº 9.532, de 1997, art. 58. Lei nº 9.249, de 1995, art.15, § 1º, III, d.
+Novo segmento
+[arquivo anexo: SC SRRF06-Disit nº 6047-2015.pdf]
