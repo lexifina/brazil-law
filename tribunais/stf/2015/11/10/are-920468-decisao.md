@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, nos seguintes termos (fl. 261):
+    “O v. Acórdão recorrido não afasta a incidência da correção monetária do valor devido a partir da conta de liquidação. Bem ao contrário, afirma que há incidência de atualização na espécie, esclarecendo que ‘enquanto não se tenha a modulação de efeitos das ADI’s referidas, penso que, no caso, aplicável a regra de atualização monetária pelo índice oficial de remuneração das cadernetas de poupança, divulgado pelo Banco Central do Brasil, aos precatórios’ (fl. 235).
+    O recorrente, por sua vez, não impugna o fundamento central do v. Acórdão, não esclarecendo qual índice pretende ver aplicado, limitando-se a exigir pretensão que já foi satisfeita pelo devedor, consistente na incidência de correção monetária na espécie.
+    Além disso, não se apontou, de forma clara e fundamentada, qual dispositivo constitucional teria sido violado pelo v. acórdão recorrido.
+    Tudo somado, incide na espécie o óbice da Súmula nº 284/STF.
+    Ante o exposto, não admito o recurso extraordinário.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal.
+    Nas razões recursais, sustenta que esta Corte firmou entendimento, no julgamento do ARE 638.195, com repercussão geral, no sentido de ser devida a correção monetária de dívidas da Fazenda Pública entre a data da elaboração da conta e a data do pagamento do precatório.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, observa-se a inexistência de questão constitucional que tenha sido suscitada pela Agravante. Apesar de interpor recurso com fundamento da alínea ‘a’ do inciso III do art. 102, não indica em suas razões qual dispositivo constitucional teria sido violado pela decisão proferida pelo Tribunal de origem.
+    Ademais, constata-se que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido, o que torna aplicáveis ao caso as Súmulas 284 e 287 desta Corte. Isso porque, ao julgar o recurso de apelação, o Tribunal a quo concluiu que os valores pagos pela Executada à Recorrente foram corrigidos monetariamente até data do efetivo pagamento e, portanto, que foi aplicado integralmente o entendimento consolidado pelo Supremo no ARE 638.195 (Tema 450), ao passo que a Agravante limita-se a alegar a não aplicação da correção monetária, deixando de argumentar a razão das diferenças entre os seus cálculos e aqueles apresentados pelo Tribunal ou qual seria o índice de correção a incidir sobre a conta.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. 1. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 652.247 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 10.10.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da Súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento.” (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 09.12.2013).
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 10 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
