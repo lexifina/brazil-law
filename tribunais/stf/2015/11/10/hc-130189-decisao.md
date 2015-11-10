@@ -1,0 +1,35 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão do Superior Tribunal de Justiça cuja ementa possui o seguinte teor:
+    HABEAS CORPUS. EXECUÇÃO PENAL. RÉU CONDENADO HÁ MAIS DE TRINTA ANOS. UNIFICAÇÃO DAS PENAS. LIMITE TRINTENÁRIO. NOVO DELITO APÓS O INÍCIO DO CUMPRIMENTO DA PENA. TERMO A QUO. DATA DO TRÂNSITO EM JULGADO DA CONDENAÇÃO SUPERVENIENTE. HABEAS CORPUS PARCIALMENTE CONCEDIDO.
+    1. Havendo nova condenação por crime cometido após o início do cumprimento da reprimenda, para fins de observância do limite trintenário, realizar-se-á outra unificação das penas, desprezando-se, neste cálculo, o período já cumprido.
+    2. Consoante o disposto no art. 75, § 2º, do Código Penal, c.c o art. 111, parágrafo único, da Lei de Execuções Penais, o termo a quo para contagem do período aquisitivo dos benefícios da execução é o trânsito em julgado da última sentença condenatória.
+    3. Habeas Corpus parcialmente concedido para fixar a data do trânsito em julgado da última sentença condenatória como marco temporal para a concessão de benefícios da execução ao Paciente.
+    O impetrante sustenta, em síntese, constrangimento ilegal em razão do agravamento da situação do paciente em sede de habeas corpus julgado pelo Superior Tribunal de Justiça.
+    O Ministério Público Federal opina pela concessão da ordem.
+    Preliminarmente, esta Corte não mais admite a impetração de habeas corpus originário, substitutivo do recurso cabível, tendo em vista a taxatividade da competência definida no art. 102, I, d e i , e inciso III, a, todos da Constituição Federal.
+    Nesse sentido: HC 110.055/MG , Rel. Min. Marco Aurélio, Primeira Turma, DJe de 9/11/12; HC 106.158/MG , Rel. Min. Dias Toffoli, Primeira Turma, DJe 9/8/2013; HC 113.805/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 15/4/2013; HC 118.981/MT , Rel. Min. Rosa Weber, Primeira Turma, DJe 19/11/2013, dentre outros.
+    Assim, o writ é manifestamente incabível, considerada a jurisprudência desta Corte.
+    Nada obstante, verifica-se a ocorrência de reformatio in pejus em sede de habeas corpus. De fato, do julgamento da impetração pelo Superior Tribunal de Justiça houve piora na situação do réu, pois postergou o termo inicial do prazo para a progressão de regime.
+    Em que pese a decisão do STJ estar de acordo com a jurisprudência do STF, a impetração de habeas corpus não pode agravar a situação do paciente.
+    Com efeito, esclarece o Ministério Público Federal:
+    O Paciente foi condenado pela prática de diversos crimes, sendo determinada pelo Juízo das Execuções a elaboração de cálculo para unificação das penas (totalizadas em 95 anos, 04 meses e 10 dias de reclusão), utilizando-se como marco inicial para a concessão dos benefícios a data do último delito cometido pelo apenado após o início do cumprimento da pena.
+    Inconformada, a defesa impetrou pedido de habeas corpus perante a Corte Estadual, sustentando que a prática de novo delito não deve ser marco interruptivo para a concessão de benefícios, por inexistência de previsão legal. Denegado o pleito, a mesma tese foi submetida ao Superior Tribunal de Justiça, que, como visto, concedeu parcialmente a ordem “para fixar a data do trânsito em julgado da última sentença condenatória como marco temporal para concessão de eventuais benefícios”.
+    Segundo a impetrante, “o acórdão fala em concessão parcial da ordem, todavia o prazo de progressão de regime, que com a decisão atacada anteriormente seria em 13 de maio de 2017, passou para 15 de novembro de 2018 (atualmente 18/04/2018 por conta da remição pelo trabalho), criando autêntica REFORMATIO IN PEJUS em sede de Habeas Corpus”.
+    Requer, no presente writ, a desconsideração da prática do novo delito para fins de interrupção do prazo para a progressão de regime, ou, caso assim não se entenda, que seja mantida a decisão do Juízo das Execuções, “cassando-se a decisão proferida nos autos do HC nº 163.322/RJ que determinou seu cálculo a contar do trânsito em julgado da nova condenação”.
+    Não obstante a impropriedade da via eleita, que visa substituir o Recurso Ordinário em Habeas Corpus, o parecer é pela concessão da ordem de ofício.
+    De fato, o acórdão proferido pela Corte dita coatora, não obstante em consonância com o entendimento firmado pelo Pretório Excelso quanto ao mérito da questão,1 reformou decisão proferida pelo Juízo das Execuções para impor ao paciente condição mais gravosa, que implicou na postergação do termo inicial de contagem do prazo necessário à progressão de regime.
+    Eis os fundamentos apresentados pelo Juízo da Vara de Execuções Penais do Rio de Janeiro, ao determinar o marco temporal para início do prazo necessário à obtenção de benefícios, objeto de impugnação perante o Superior Tribunal de Justiça:
+    "(…) a questão controvertida reside em definir qual o marco temporal que inicia este novo computo da pena unificada.
+    É certo que o tema é bastante conflitante dentro da doutrina e da jurisprudência, havendo forte entendimento no sentido de que tal marco temporal se iniciaria com o trânsito em julgado da nova condenação.
+    Por outro lado, é inconteste que a lie penal não estabelece o marco temporal, e, da própria dicção do art. 75, § 2º, do Código Penal, se depreende que este seria a prática delituosa, já que estabelece que 'sobrevindo nova condenação por fato posterior ao início do cumprimento da pena, far-se-á nova unificação, desprezando-se para este fim, o período de pena já cumprido'.
+    Pois bem, na presente hipótese, o novo delito praticado pelo apenado deverá ser o marco interruptivo, pois é este crime que dá ensejo à nova unificação.
+    Ademais, entendimento diverso seria prejudicial ao apenado e não se pode construir entendimento contrário ao texto expresso de lei, pela limitação imposta pelo princípio do 'nulla poena sine praevia lege'.
+    Destarte, ao cálculo para que calcule as frações do total da pena utilizando-se como marco temporal inicial a data estipulada para reunificação" (e-STJ fls. 27/28).
+    Ainda que se trate de entendimento contrário à jurisprudência do STJ e desse Supremo Tribunal Federal, a decisão impugnada em sede de habeas corpus não pode ser reformada fora dos contornos do pedido para agravar a situação do paciente, estando configurada, no caso, a reformatio in pejus.
+    Ante o exposto, o Ministério Público Federal opina pela concessão da ordem de ofício, para que, anulado o acórdão proferido pelo Superior Tribunal de Justiça no HC nº 163.322/RJ, seja restabelecida a decisão do Juízo das Execuções Penais de fls. 27/28 (e-STJ).
+    Ex positis, nego seguimento ao habeas corpus, mas implemento a ordem ex officio para restabelecer a decisão do Juízo de Direito de Execuções Penais da Comarca da Capital do Estado do Rio de Janeiro (fls. 29/30 do documento eletrônico n. 3 – Ato Coator 1).
+    Dê-se ciência ao MPF.
+    Publique-se. Int..
+    Brasília, 10 de novembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
