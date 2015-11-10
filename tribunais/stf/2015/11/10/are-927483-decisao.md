@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado (eDOC 6, p. 7):
+    "ADMINISTRATIVO. APELAÇÕES. AÇÃO ORDINÁRIA. AÇÃO CAUTELAR. CONCURSO PÚBLICO. LITISCONSÓRCIO PASSIVO NECESSÁRIO. ART. 47 DO CPC. DESNECESSIDADE. EXAME PSICOTÉCNICO. CRITÉRIOS OBJETIVOS. NÃO DEMONSTRADOS. PLENA POSSIBILIDADE DE RECURSO. INEXISTENTE. AFRONTA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. NULIDADE DA AVALIAÇÃO PSICOLÓGICA DOS CANDIDATOS, QUE DEVERÃO SE SUBMETER A NOVOS EXAMES, OPORTUNAMENTE. PRECEDENTES DO STJ. RECURSOS DE APELAÇÃO CONHECIDOS E IMPROVIDOS.
+    1. Revela-se desnecessária a citação dos demais concursandos como litisconsortes passivos necessários nos casos em que a sentença não atinge a esfera jurídica de todos eles. Precedentes do STJ.
+    2. É legítima a realização de exame psicotécnico em concurso público, desde que haja previsão legal e editalícia de sua exigência, emprego de critérios objetivos e decisão fundamentada, com expressa disposição de cabimento de recurso. Todavia, no caso, os apelados foram excluídos do certame, após a realização da Avaliação Psicológica, sem a observância do dever de fundamentação dos atos administrativos, dificultando, desse modo, a interposição de recurso contra as supostas inaptidões, o pleno exercício das garantias constitucionais do devido processo legal, do contraditório e da ampla defesa. Precedentes do STJ.
+    3. Sentença mantida no sentido de tornar nulos os exames psicotécnicos dos recorridos. Declarada a nulidade dos testes psicológicos, em razão da ausência de fundamentação dos atos administrativos que eliminaram os candidatos do certame, devem ser submetidos a novos exames, oportunamente. Precedentes do STJ.
+    4. Recursos de Apelação conhecidos e improvidos.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 5º, caput, XIII, LIV e LV; e 37, I e II, da Constituição Federal.
+     Nas razões recursais, sustenta-se, em suma, a inocorrência de desrespeito aos princípios da ampla defesa e do contraditório, porquanto os recorridos poderiam ter acesso aos laudos psicológicos que os eliminaram do certame, bastando para isso, que se dirigissem ao órgão competente.
+    A Vice-Presidência do TJ/CE inadmitiu o recurso, em virtude de inexistir ofensa direta à Constituição Federal.
+    É o relatório. Decido.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC 6, p. 15):
+    “Muito embora afirme o ente estatal acerca da existência de critérios objetivos, plasmados no edital, para aferição das condições de adaptabilidade dos candidatos, o certo é que a realidade dos fatos não demonstra tal assertiva. Malgrado aponte a ocorrência de recurso administrativo por parte dos apelados, a satisfazer o seu direito de recorrer, verifico, em verdade, debilidade no aparato recursal ofertado pela Administração, a desfavorecer a sua tese recursal.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ademais, o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional. (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, Tema 660 da sistemática da RG).
+    Outrossim, destaca-se que a jurisprudência da Corte já se firmou no sentido de que o exame da legalidade e abusividade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação dos poderes. Nesse sentido, os seguintes julgados: ARE 791.625-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 10.06.2015; AI 410.544-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 17.03.2015.
+    Por fim, ressalta-se que a violação do princípio da legalidade demanda necessariamente a análise de atos normativos infraconstitucionais. Aplicável à espécie, portanto, a súmula 636 do STF:
+    Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 10 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
