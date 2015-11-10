@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Carlota Rodrigues de Araújo. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, 7º, VI, 37, XV, e 39, § 3º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão em acórdão assim ementado:
+    “Administrativo e Processual Civil. Servidor Público. Restabelecimento do percentual de 26,05%. Impossibilidade. Inexistência de redutibilidade vencimental. Pagamento cessado por decisão do TCU. Inocorrência de ofensa à coisa julgada. Devolução ao Erário de quantia recebida em decorrência de pagamento indevido. Inexigibilidade. Boa fé. Precedentes do STJ e deste Tribunal. Apelação improvida.”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    "CONSTITUCIONAL. PROCESSUAL CIVIL. SENTENÇA AFIRMANDO DIREITO À DIFERENÇA DE PERCENTUAL REMUNERATÓRIO, INCLUSIVE PARA O FUTURO. RELAÇÃO JURÍDICA DE TRATO CONTINUADO. EFICÁCIA TEMPORAL. CLÁUSULA REBUS SIC STANTIBUS. SUPERVENIENTE INCORPORAÇÃO DEFINITIVA NOS VENCIMENTOS POR FORÇA DE DISSÍDIO COLETIVO. EXAURIMENTO DA EFICÁCIA DA SENTENÇA. 1. A força vinculativa das sentenças sobre relações jurídicas de trato continuado atua rebus sic stantibus: sua eficácia permanece enquanto se mantiverem inalterados os pressupostos fáticos e jurídicos adotados para o juízo de certeza estabelecido pelo provimento sentencial. A superveniente alteração de qualquer desses pressupostos (a) determina a imediata cessação da eficácia executiva do julgado, independentemente de ação rescisória ou, salvo em estritas hipóteses previstas em lei, de ação revisional, razão pela qual (b) a matéria pode ser alegada como matéria de defesa em impugnação ou em embargos do executado. 2. Afirma-se, nessa linha de entendimento, que a sentença que reconhece ao trabalhador ou servidor o direito a determinado percentual de acréscimo remuneratório deixa de ter eficácia a partir da superveniente incorporação definitiva do referido percentual nos seus ganhos. 3. Recurso extraordinário improvido.” (RE 596663, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 24/09/2014, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-232 DIVULG 25-11-2014 PUBLIC 26-11-2014)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de novembro de 2015.
+Ministra Rosa Weber
+Relatora
