@@ -1,0 +1,23 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região que, nos autos de ação visando à concessão de pensão por morte, manteve a sentença de improcedência, ao fundamento de que não foi comprovada a condição de inválido do demandante para fins de percepção de pensão relativa à morte de sua esposa.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 201, V, da CF/88.
+    Sem contrarrazões.
+    2. A irresignação merece acolhimento. Esta Corte possui o entendimento de que a exigência de comprovação da condição de invalidez do cônjuge varão, para concessão de pensão por morte, fere o princípio da isonomia. Nesse sentido, citem-se os seguintes precedentes, todos proferidos em casos análogos ao presente, relativos ao Regime Geral de Previdência Social:
+    PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENSÃO POR MORTE AO CÔNJUGE VARÃO. ÓBITO DA SEGURADA ANTERIOR AO ADVENTO DA LEI 8.213/91. PRINCÍPIO DA ISONOMIA. AUTOAPLICABILIDADE DO ART. 201, V, DA CONSTITUIÇÃO FEDERAL.
+    1. Segundo a jurisprudência do Supremo Tribunal Federal, o óbito da segurada em data anterior ao advento da Lei 8.213/91 não afasta o direito à pensão por morte ao seu cônjuge varão, tendo o art. 201, V, da Constituição Federal, que equiparou homens e mulheres para efeito de pensão por morte, aplicabilidade imediata.
+    2. Agravo regimental a que se nega provimento. (RE 603.223-AgR, de minha relatoria, Segunda Turma, DJe de 24/3/2015)
+    Agravo regimental no recurso extraordinário. Previdenciário. Pensão por morte. Cônjuge varão. Demonstração de invalidez. Princípio da isonomia. Aplicabilidade imediata do Regime Geral de Previdência Social. Precedentes.
+    1. A regra isonômica aplicada ao Regime Próprio de Previdência Social também se estende ao Regime Geral de Previdência Social.
+    2. O art. 201, inciso V, da Constituição Federal, que equiparou homens e mulheres para efeito de pensão por morte, tem aplicabilidade imediata e independe de fonte de custeio.
+    3. A Lei nº 8.213/91 apenas fixou o termo inicial para a aferição do benefício de pensão por morte.
+    4. Agravo regimental não provido. (RE 415.861-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 1/8/2012)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO POR MORTE. CONCESSÃO AO CÔNJUGE VARÃO. ÓBITO DA SEGURADA ANTERIOR AO ADVENTO DA LEI N. 8.213/91. EXIGÊNCIA DE DEMONSTRAÇÃO DE INVALIDEZ. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA. ARTIGO 201, INCISO V, DA CONSTITUIÇÃO FEDERAL. AUTOAPLICABILIDADE.
+    1. O Princípio da Isonomia resta violado por lei que exige do marido, para fins de recebimento de pensão por morte da segurada, a comprovação de estado de invalidez (Plenário desta Corte no julgamento do RE n. 385.397-AgR, Relator o Ministro Sepúlveda Pertence, DJe 6.9.2007). A regra isonômica aplicada ao Regime Próprio de Previdência Social tem aplicabilidade ao Regime Geral (RE n. 352.744-AgR, Relator o Ministro JOAQUIM BARBOSA, 2ª Turma, DJe de 18.4.11; RE n. 585.620-AgR, Relator o Ministro RICARDO LEWANDOWSKI, 1ª Turma, Dje de 11.5.11; RE n. 573.813-AgR, Relatora a Ministra CÁRMEN LÚCIA, 1ª Turma, DJe de 17.3.11; AI n. 561.788-AgR, Relatora a Ministra CÁRMEN LÚCIA, 1ª Turma, DJe de 22.3.11; RE 207.282, Relator o Ministro CEZAR PELUSO, 2ª Turma, DJ 19.03.2010; entre outros).
+    2. Os óbitos de segurados ocorridos entre o advento da Constituição de 1988 e a Lei 8.213/91 regem-se, direta e imediatamente, pelo disposto no artigo 201, inciso V, da Constituição Federal, que, sem recepcionar a parte discriminatória da legislação anterior, equiparou homens e mulheres para efeito de pensão por morte.
+    3. Agravo regimental não provido. (RE 607.907-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 1/8/2011)
+    3. Registre-se que o requisito da repercussão geral está atendido em face do que prescreve o art. 543-A, § 3º, do CPC: “Haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante do Tribunal”.
+    4. Diante do exposto, com base no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário para julgar procedente o pedido, observada a prescrição quinquenal. Juros de mora e correção monetária na forma do art. 1º-F da Lei 9.494/97, na redação dada pela Lei 11.960/09. Condeno o recorrido ao pagamento de honorários advocatícios, os quais fixo no montante de 10% sobre o valor da causa.
+    Publique-se. Intime-se.
+    Brasília, 10 de novembro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
