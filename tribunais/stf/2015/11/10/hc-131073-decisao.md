@@ -1,0 +1,16 @@
+Decisão:
+ementa: Processual Penal. Habeas Corpus. Súmula 691/STF. Posse irregular de arma de fogo. Prisão preventiva. Ausência de ilegalidade flagrante.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão do Ministro Felix Fischer, que indeferiu a cautelar requerida nos autos do HC 338.878, em trâmite no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante, em 30.07.2015, pela suposta prática do crime previsto no artigo 12, caput, da Lei nº 10.826/03. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 338.878, Ministro Felix Fischer, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a decretação da custódia preventiva, nos termos do art. 312 do CPP. Daí o pedido de concessão da ordem para revogar a prisão.
+    Decido.
+    5. O habeas corpus não deve ser conhecido. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    6. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF. A decisão proferida pela autoridade impetrada não se me afigura teratológica ou patentemente desfundamentada. Além disso, o Tribunal Estadual, ao julgar o writ lá impetrado, assentou “a necessidade de garantir a ordem pública e assegurar a aplicação da lei penal, considerado que as circunstâncias do caso concreto pressupõem periculosidade do agente, sendo inadequadas e insuficientes as medidas cautelares previstas no art. 319, do Código de Processo Penal. Foram encontrados não só apenas as munições, mas indícios de envolvimento do paciente com a prática de tráfico de entorpecentes e com o crime organizado. Ademais, o paciente já apresenta condenação por este delito”.
+    7. Nessas condições, as decisões das instâncias precedentes se alinham, em princípio, à orientação do Supremo Tribunal Federal, no sentido de que a periculosidade do agente e a necessidade de interromper a atuação de organização criminosa constituem fundamentos idôneos para a custódia cautelar (v.g HC 126.051, Rel. Min. Dias Toffoli; HC 125.557, Relª. Minª. Rosa Weber; HC 121.991, Rel. Min. Luiz Fux; RHC 122.462, Rel. Min. Teori Zavascki; RHC 121.399, Rel. Min. Dias Toffoli; RHC 120.070, Rel. Min. Teori Zavascki).
+    8. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, não conheço do presente habeas corpus.
+    Publique-se.
+    Brasília, 10 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
