@@ -1,0 +1,29 @@
+Decisão: Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL – DIREITO TRIBUTÁRIO – IPTU – MUNICÍPIO DE SÃO JOÃO DEL REI – LEI N. 4.492/10 – PLANTA DE VALORES – PUBICAÇÃO NO SAGUÃO DA PREFEITURA DE SÃO JOÃO DEL REI – ATENDIMENTO AO PRINCÍPIO DA PUBLICIDADE – INCONSTITUCIONALIDADE AFASTADA PELO ÓRGÃO ESPECIAL – VALIDADE DA MAJORAÇÃO.
+    1. “Nos municípios que não possuem órgão de imprensa oficial, é válida a publicação das leis e dos atos administrativos da municipalidade através da afixação em quadro de avisos na sede de prefeitura ou da Câmara Municipal. Inteligência do art. 1º da Lei de Introdução às Normas do Direito Brasileiro (Arg Inconstitucionalidade n. 1.0625.11.007986-4/004).
+    2. Atestada, pelo Órgão Especial, a validade da Lei Municipal n. 4.492/2010, de São João Del Rei, deve ser aplicada a majoração do IPTU instituída pelo referido diploma. Caráter vinculante do incidente.
+    3. Recurso provido.”(eDOC 2, p. 360)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, I, XXII, XXXV e LIV; 150, II e IV; e 170, II, do Texto Constitucional.
+    Nas razões recursais, sustenta-se que o Tribunal a quo não se manifestou acerca da inconstitucionalidade material da Lei Municipal nº 4.492/2010.
+    Alega-se, ainda, a violação ao princípio da publicidade, uma vez que “a publicação apenas do texto principal da Lei, sem anexos, inclusive sem a planta genérica de valores, foi apenas afixado no quadro de avisos da Prefeitura.” (eDOC 2, p. 399-400).
+    Aponta-se, por fim, o caráter confiscatório do tributo em discussão.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observo que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. Assim, a jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Ademais, convém ressaltar o assentado pelo Tribunal de origem:
+    “O Órgão Especial entendeu, por maioria, que a certidão de f. 129 demonstrou a publicação do diploma legislativo impugnado na sede da Prefeitura, o que seria suficiente para conferir publicidade à Planta de Valores do IPTU.
+    Da mesma forma, entendeu que seria ônus do contribuinte comprovar, de forma insofismável e robusta, que o valor venal atribuído as imóveis é superior ao valor de mercado, o que não se verificou.” (eDOC 2, p. 363).
+    Logo, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável, notadamente a Lei Municipal 4.492/2010, de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EMBARGOS À EXECUÇÃO FISCAL. COBRANÇA DE IPTU MEDIANTE A PRETENSA AUSÊNCIA DE PUBLICAÇÃO DAS PLANTAS GENÉRICAS DE VALORES. SÚMULA 279/STF. PRECEDENTES. Nos termos da jurisprudência da Corte, a controvérsia relativa à cobrança de IPTU com base na ausência de publicação da planta de valores demanda o reexame de provas. Mostra-se aplicável, no caso, o óbice da Súmula 279/STF. Agravo regimental a que se nega provimento.”
+    (ARE 709312 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJE-250 DIVULG 18-12-2014 PUBLIC 19-12-2014)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPTU. Base de cálculo. Majoração do tributo. Instrução Normativa nº 001/2011 da Secretaria de Finanças do Município do Recife e lei Municipal. Reexame de legislação infraconstitucional. Ofensa constitucional indireta. 1. Para superar o entendimento do Tribunal de origem e acolher a pretensão recursal, especialmente para saber se existiu ou não alteração da base de cálculo do IPTU e aumento do tributo, seria necessário o reexame da legislação local aplicável à espécie (lei municipal e Instrução Normativa nº 001/2011 da Secretaria de Finanças do Município do Recife), o que é inviável em sede de recurso extraordinário. Eventual afronta ao texto constitucional seria indireta ou reflexa. 2. Agravo regimental não provido.”
+    (ARE 803062 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJE-180 DIVULG 16-09-2014 PUBLIC 17-09-2014)
+    “DIREITO TRIBUTÁRIO. IPTU. LEI COMPLEMENTAR MUNICIPAL 49/2002. REGULARIDADE DO PROCESSO LEGISLATIVO MUNICIPAL. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. SÚMULA 280/STF. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 05.5.2010. A suposta ofensa aos preceitos constitucionais indicados nas razões recursais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. As razões do agravo não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar viabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido.”
+    (ARE 720941 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJE-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 11 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
