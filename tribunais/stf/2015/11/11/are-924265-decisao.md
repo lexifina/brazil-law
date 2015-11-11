@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3º Região, cuja ementa se transcreve a seguir:
+    “TRIBUTÁRIO. ILL. SOCIEDADE POR COTAS DE RESPONSABILIDADE LIMITADA. CONTRATO SOCIAL. LUCRO. DISPONIBILIDADE. ART. 35 DA LEI Nº 7.713/88. PREVALÊNCIA.
+    1. Prevista, no contrato social da empresa, a disponibilidade do lucro apurado no período, prevalece a incidência do ILL disposto no art. 35 da Lei nº 7.713/88. Precedentes do STF.
+    2. Remessa oficial provida e apelações prejudicadas.” (eDOC 1, p. 260)
+    Embargos de declaração rejeitados. (eDOC 1, p. 277-279)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 145, II, §1º; 146, III, “a”, da Constituição Federal.
+    Sustenta-se o seguinte: “É que, segundo o entendimento firmado pelo STF, o art. 35 da Lei nº 7.713/88, ao incidir sobre o lucro líquido apurado pela pessoa jurídica no final de cada período-base, pretendendo tributar a renda do sócio, sem que tivesse qualquer das disponibilidades de renda previstas no art. 43 do CTN, seja jurídica, seja econômica, excedeu os limites constitucionalmente fixados à legislação ordinária (art. 146, inciso III, alínea “a”, da CF/88)”. (eDOC 1, p. 291)
+    A Vice-Presidência do TRF-3 inadmitiu com base nas Súmulas 279 e 284 do STF.
+    É o relatório.
+    A irresignação do recorrente não merece prosperar.
+    De fato, é firme o entendimento do Supremo Tribunal Federal no sentido de que o art. 35, da Lei 7.713/88, em relação ao sócio-cotista, não é inconstitucional, desde que haja previsão no contrato social antecipando a distribuição dos lucros, levando em consideração que, nesse caso, haverá disponibilidade imediata do resultado auferido na data do encerramento do período-base.
+    Nesse sentido, cito a ementa do seguinte julgado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA. LUCRO LÍQUIDO. SÓCIO QUOTISTA. TITULAR DE EMPRESA INDIVIDUAL. ACIONISTA DE SOCIEDADE ANÔNIMA. Lei nº 7.713, de 1988, artigo 35. I. - No tocante ao acionista de sociedade anônima, é inconstitucional o art. 35 da Lei 7.713, de 1988, dado que, em tais sociedades, a distribuição dos lucros depende principalmente, da manifestação da assembléia geral. Não há falar, portanto, em aquisição de disponibilidade jurídica do acionista mediante a simples apuração do lucro líquido. Todavia, no concernente ao sócio- quotista e ao titular de empresa individual, o citado art. 35 da Lei 7.713, de 1988, não é, em abstrato, inconstitucional (constitucionalidade formal). Poderá sê-lo, em concreto, dependendo do que estiver disposto no contrato (inconstitucionalidade material). II. - Precedente do STF: RE 172.058-SC, Plenário, 30.06.1995. III. - R.E. conhecido e provido, em parte.” (RE 204.886, de Relatoria do Min. Carlos Velloso, Segunda Turma, Dje 28.02.1997.)
+    Ademais, convém reproduzir o assentado pelo Tribunal de origem:
+    “No caso em tela, se o contrato social da autora, colacionado à fls. 99/102 e 103/106, prevê a divisão dos lucros apurados no encerramento do exercício, à evidência, já está configurada a disponibilidade jurídica da renda para os sócios. De outra sorte, ainda que o contrato social da apelante possibilite a utilização dos lucros para o aumento do capital social, tal deliberação estaria a depender do consentimento de todos os sócios, tendo em vista a inexistência de cláusula específica em sentido diverso, donde também resta configurada a disponibilidade dos sócios sobre os aludidos lucros. Legítimas, portanto, as disposições do artigo 35 da Lei nº 7.713/88.
+    Demais disso, se a controvérsia envolve-se tão somente a possibilidade de retenção do ILL por conta dos resultados apurados no encerramento do exercício, a postergação do acerto financeiro não é fator determinante para impedir a incidência em comento, pois a tributação sobre a renda reclama unicamente a presença do acréscimo patrimonial experimentado pelo contribuinte, quer pela disponibilidade jurídica (virtual) quer pela econômica (efetiva), sendo suficiente que o aludido acréscimo passe a integrar o seu patrimônio jurídico, ainda que efetivamente não tenha percebido os referidos recursos financeiros.” (eDOC 1, p. 258-259)
+    Assim, constato que eventual divergência ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Veja-se a ementa do referido julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CORREÇÃO MONETÁRIA DOS DIVIDENDOS DISTRIBUÍDOS ANTECIPADAMENTE AOS SÓCIOS. INCIDÊNCIA DO IMPOSTO DE RENDA, DO IMPOSTO SOBRE O LUCRO LÍQUIDO E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(RE 603936 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 17.03.2011)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 11 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
