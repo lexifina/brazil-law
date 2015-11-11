@@ -1,0 +1,15 @@
+Decisão: A Primeira Turma deferiu, em 2 de junho de 2015, o pedido de extradição formulado pelo Governo da Espanha a fim de que o requerido cumpra as penas de 8 e 2 anos, respectivamente pelos crimes de agressão sexual e maus tratos.
+    A Defensoria Pública da União alega que o Estado requerente não providenciou a retirada do extraditando no prazo de 60 (sessenta) dias previsto no artigo XIII, 2, do Tratado específico, por isso requer o imediato relaxamento da prisão para fins de extradição (fls. 195/198).
+    O Ministério da Justiça prestou as seguintes informações (fls. 207/208):
+    “[...] informo a Vossa Excelência que, somente no dia 07 de outubro de 2015, a Embaixada da Espanha tomou ciência do teor do Ofício 1342/2015/STPC/DIMEC/DEEST/SNJ-MJ, de 05/10/2015 […], o qual encaminhou ao Ministério das Relações Exteriores cópia do Acórdão, proferido por essa Corte, que deferiu parcialmente o pedido de extradição em desfavor de ALVARO COSTA RODRIGUEZ, apenas no que tange aos crimes de agressão sexual (8 anos) e de maus tratos (2 anos), uma vez que os crimes de lesão corporal (10 meses), um dos crimes de maus tratos (6 meses) e de constrangimento ilegal (10 meses) encontram-se prescritos segundo a lei brasileira, devendo o Estado Requerente assumir os compromissos previstos no Artigo 91 da Lei 6.815/80, especialmente descontando o tempo de prisão preventiva para extradição cumprido no Brasil [...[.
+    Ainda sobre o processo de extradição, foi solicitado ao MRE que o Estado requerente fosse informado do teor da mencionada decisão, devendo o Governo do Reino da Espanha apresentar o plano de voo e as qualificações dos agentes responsáveis pela escolta do nominado.
+    Através do e-mail nº 21065/2015, datado de 28/10/2015, a INTERPOL encaminhou a esta Divisão o plano de viagem do extraditando, pendente de aprovação pela Autoridade Central brasileira […].
+    Ante o exposto, informo que foi reiterado Ofício ao Ministério das Relações Exteriores, o qual solicita contatar a Autoridade Central espanhola, devendo o Estado Requerente assumir os compromissos previstos no Artigo 91 da Lei 6.815/80, especialmente descontando o tempo de prisão preventiva para extradição cumprido no Brasil, para que o referido plano de viagem do extraditando seja aprovado por este Ministério.
+    Por fim, informo que o prazo para que o Estado requerente promova a retirada do estrangeiro do território brasileiro é de 60 (sessenta) dias a contar da data em que for cientificado pelo MRE, conforme disposto no art. XII, item 2, do referido Tratado.”
+    Vê-se, portanto, que o Estado requerente tomou ciência somente no dia 7 de outubro de 2015, quando ainda não transcorrido o prazo de 60 (sessenta) dias previsto no art. XIII do Tratado de Extradição firmado entre o Brasil e a Espanha, além de que há plano de voo e a indicação dos agentes estrangeiros que farão a escolta, revelando a retirada do extraditando no dia 26 de novembro de 2015 (fl. 213).
+    Ex positis, INDEFIRO o pedido de relaxamento da prisão.
+    Publique-se. Int..
+    Brasília, 11 de novembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
