@@ -1,0 +1,1 @@
+Art. 320-A. Os órgãos e entidades do Sistema Nacional de Trânsito poderão integrar-se para a ampliação e aprimoramento da fiscalização de trânsito, inclusive por meio do compartilhamento da receita arrecadada com a cobrança das multas de trânsito.
