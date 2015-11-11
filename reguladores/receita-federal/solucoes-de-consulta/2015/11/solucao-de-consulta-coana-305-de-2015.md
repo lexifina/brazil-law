@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 305, de 28 de outubro de 2015
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 8716.39.00 Mercadoria: Reboques, não autocarregáveis nem autodescarregáveis, próprios para serem tracionados por caminhão trator, para transporte de cana-de-açúcar do local da colheita até a usina de açúcar e álcool, equipados com caixa de carga articulada que, por meio de guindaste instalado na usina, pode ser erguida e rotacionada, de modo a descarregar os produtos transportados, sem necessidade de manuseio da carga.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.16), RGI 6 (textos da subposição de primeiro nível 8716.3 e da subposição de segundo nível 8716.39.00) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 8716.39.00 Mercadoria: Reboques, não autocarregáveis nem autodescarregáveis, próprios para serem tracionados por caminhão trator, para transporte de cana-de-açúcar do local da colheita até a usina de açúcar e álcool, equipados com caixa de carga articulada que, por meio de guindaste instalado na usina, pode ser erguida e rotacionada, de modo a descarregar os produtos transportados, sem necessidade de manuseio da carga.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.16), RGI 6 (textos da subposição de primeiro nível 8716.3 e da subposição de segundo nível 8716.39.00) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+MARCO ANTÔNIO RODRIGUES CASADO
+Presidente da 5ª Turma
