@@ -1,0 +1,18 @@
+DESPACHO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ESTIPULAÇÃO DO REGIME DE RETENÇÃO DA CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL – PIS, DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL E DA CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS POR MEDIDA PROVISÓRIA. VISTA AO PROCURADOR-GERAL DA REPÚBLICA.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “TRIBUTÁRIO - PIS, COFINS, CSLL - SOCIEDADE CIVIL PRESTADORA DE SERVIÇOS PROFISSIONAIS - ISENÇÃO REVOGADA - LEI Nº 9.430/96 - CONSTITUCIONALIDADE-ART. 30 DA LEI N. 10.833/03 - PRINCÍPIO DA ISONOMIA - ART. 246 DA CONSTITUIÇÃO. 1-Incidindo PIS, COFINS, CSLL sobre o faturamento (receita bruta), os dispositivos da Lei Complementar n. 70/91, que a instituiu, podem ser alterados por lei ordinária. Consequentemente, o art. 56 da Lei nº 9.430/96, que revogou a isenção prevista no art. 6º, II, da Lei Complementar n. 70/91, não afrontou a Constituição Federal. TRIBUTÁRIO - 2 - O regime de retenção na fonte, agora estendido às contribuições sociais, é mera técnica de arrecadação, não importando, por si só, em discriminação do sujeito passivo a ela submetido. 3 - O objetivo do art. 246 da Constituição, acrescentado pela Emenda nº 6/95, é evidentemente o de impedir que as alterações introduzidas na Carta Constitucional pelo constituinte derivado fiquem submetidas à regulamentação pelo Presidente da República, por via de medidas provisórias. O regime de recolhimento das contribuições sociais não foi objeto de qualquer emenda constitucional, escapando, portanto, a tal restrição” (fl. 201).
+    2. A Recorrente alega ter o Tribunal de origem contrariado os arts. 150, 195, inc. I, al. b, e 246 da Constituição da República.
+    Sustenta que, “ao declarar a constitucionalidade do art. 30 da Lei n. 10.833/03, o venerado acórdão guerreado, acabou por ferir o art. 246 da Constituição” (fl. 226).
+    Salienta que “a retenção das contribuições ao PIS, COFINS, IRPJ e a CSLL não poderia ser objeto de regulamentação por meio de Medida Provisória, comprovando-se, desta forma, a inconstitucionalidade do regime estatuído pelo art. 30, da Lei n. 10.833/03 (conversão da MP 135/03)” (fl. 229).
+    Assevera que, “com a edição da Lei Ordinária n. 10.833/2003, alguns contribuintes foram diferenciados de outros, ou seja, a isonomia tributária foi afrontada diretamente, na medida em que um parte dos prestadores de serviço foi diferenciada de outros prestadores de serviço e do resto dos contribuintes” (fl. 231).
+    3. Em 1º.7.2008, determinei o sobrestamento deste recurso extraordinário até o julgamento do Recurso Extraordinário n. 570.122, com repercussão geral reconhecida (fl. 250).
+    Contra essa decisão a União interpôs agravo regimental, alegando que “o presente recurso extraordinário (222-233) trata de matéria diversa, relacionada à retenção das contribuições, que é uma técnica de arrecadação” (fl. 253).
+    Analisados os elementos havidos no processo, DECIDO.
+    4. Na espécie, a Recorrente sustenta que a retenção da contribuição ao Programa de Integração Social – PIS, da Contribuição Social sobre o Lucro Líquido – CSLL e da Contribuição para o Financiamento da Seguridade Social – COFINS não poderia ser regulamentada por medida provisória, e que seria inconstitucional o regime do art. 30 da Lei n. 10.833/2003 decorrente da conversão da Medida Provisória n. 135/2003.
+    5. Vista ao Procurador-Geral da República (art. 52, inc. XV, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de novembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
