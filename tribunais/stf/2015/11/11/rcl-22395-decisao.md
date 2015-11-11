@@ -1,0 +1,61 @@
+DECISÃO
+RECLAMAÇÃO. CONSTITUCIONAL. AGENTE DE SEGURANÇA PENITENCIÁRIA. INDEFERIMENTO PELA AUTORIDADE ADMINISTRATIVA DE APOSENTADORIA. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 33 DO SUPREMO TRIBUNAL FEDERAL: INOCORRÊNCIA. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Reclamação, com requerimento de medida liminar, ajuizada por Aguinaldo Paula de Assis, em 5.11.2015, contra a seguinte decisão administrativa proferida pela Coordenadoria do Núcleo de Aposentaria e pela Diretora de Pagamentos, Benefícios e Vantagens de Minas Gerais, pela qual se teria desrespeitado a Súmula Vinculante n. 33 do Supremo Tribunal Federal:
+    “Senhor Servidor,
+    Em atenção ao Requerimento; datado de 01/06/2015, no qual requer a aposentadoria especial, no cargo de Agente de Segurança Penitenciário, Nível II, Grau H; do Quadro Especial de Lotação desta Secretaria, foi contratado pela extinta Credireal - Serviços Gerais e Construções S.A., para exercer as funções de Monitor, no período de 15/09/1987 a 28/02/1991, com inclusão na função pública a partir de 01/03/1991, no cargo de Guarda de Penitenciário, em decorrência da Lei nº 10.254 de 20/07/90, regulamentada pelo Decreto nº 31.930 de 15 de agosto de 1990, posicionado nos termos do Decreto nº 36.033, de 14 de setembro de 1994, no cargo da classe de Guarda Penitenciário, Nível 1, Grau A, publicação no ‘MG’ de 03/12/1994, posse e exercício em 01/12/1994, efetivado em 14/06/2001, publicação no ‘MG’ de 20/10/2001, nos termos Emenda Constitucional 49/2001.
+    Informamos do indeferimento do pleito, tendo em vista o disposto no artigo 36, § 4º, inciso II da Constituição Estadual bem como artigo 40, § 4º, Inciso II da Constituição Federal, que colacionamos, in verbis:
+    ‘Art. 36. Aos servidores titulares de cargos de provimento efetivo do Estado, incluídas suas autarquias e fundações, é assegurado regime próprio de previdência de caráter contributivo e solidário, mediante contribuição do Estado, dos servidores ativos e inativos e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.
+    § 4º É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos peto regime de que trata este artigo, ressalvados, nos termos definidos em lei complementar, os casos de servidores:
+    I - portadores de deficiência;
+    II - que exerçam atividades de risco;
+    III - cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física.
+    CF
+    Art. 40, Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo e solidário, mediante contribuição do respectivo ente público, dos servidores ativos e inativos e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.
+    § 1º Os servidores abrangidos pelo regime de previdência de que trata este artigo serão aposentados, calculados os seus proventos a partir dos valores fixados na forma dos §§ 3º e 17:
+    I - por invalidez permanente, sendo os proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei;
+    II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de contribuição;
+    III - voluntariamente, desde que cumprido tempo mínimo de dez anos de efetivo exercício no serviço público e cinco anos no cargo efetivo em que se dará a aposentadoria, observadas as seguintes condições:
+    a) sessenta anos de idade e trinta e cinco de contribuição, se homem, e cinquenta e cinco anos de idade e trinta de contribuição, se mulher;
+    b) sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, com proventos proporcionais ao tempo de contribuição.
+    § 2º Os proventos de aposentadoria e as pensões, por ocasião de sua concessão, não poderão exceder a remuneração do respectivo servidor, no cargo efetivo em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão.
+    § 3º Para o cálculo dos proventos de aposentadoria, por ocasião da sua concessão, serão consideradas as remunerações utilizadas como base para as contribuições do servidor aos regimes de previdência de que tratam este artigo e o art. 201, na forma da lei.
+    § 4º É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados, nos termos definidos em leis complementares os casos de servidores:
+    I - portadores de deficiência;
+    II - que exerçam atividades de risco:
+    III - cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física,
+    Desta feita ressaltamos que a ‘Aposentadoria Especial para o cargo de Agente de Segurança Penitenciário’ depende de regulamentação por Lei Complementar especifica, federal ou Estadual.
+    Nesse sentido sua solicitação foi indeferida, tendo em vista que não foram preenchidos todos os requisitos para o deferimento.
+    Sem mais para o momento e à disposição de V. Sa. para quaisquer esclarecimentos que se façam necessários subscrevemo-nos.
+    Respeitosamente,
+    (...)
+    Coordenadora do Núcleo de Aposentadoria
+    (...)
+    Diretora de Pagamentos, Benefícios e Vantagens” (doc. 24).
+    2. O Reclamante afirma-se “funcionário público do Estado de Minas Gerais, ocupante do cargo efetivo de Agente de Segurança Penitenciário lotado na SEDS (Secretaria de Estado de Defesa Social de Minas Gerais órgão da administração direta do Estado de MG) e em 09 de junho de 2015 o autor solicitou requerimento de sua contagem de tempo de contribuição bem como o pedido de aposentadoria com base na súmula vinculante nº 33 desta egrégia corte” (fl. 2, doc. 2).
+    Sustenta que,
+    “em Minas Gerais, não existe leis especificando a aposentadoria dos agentes penitenciários, que o Estado de Minas Gerais contrariou a súmula vinculante n. 33 dessa egrégia corte, contrariou o parecer da Advocacia Geral do próprio Estado e ainda contrariou a resolução SEPLAG (secretaria de Estado de Planejamento e gestão de MG), colocando o servidor em ajustamento funcional para ocupar outro cargo, que a junta de médicos psiquiátricos, proibiu que o servidor tivesse contato com presos e em serviços administrativos sem contato com armas de fogo, isso foi totalmente negligenciado pelo Estado de Minas Gerais” (fl. 7, doc. 2).
+    Requer seja determinado, “ao estado de Minas Gerais e ao IPSEMG (Instituto de Previdência do Estado de Minas Gerais) que conceda ao autor a sua aposentadoria especial, pois o ato administrativo que indeferiu a sua aposentadoria é afrontoso à autoridade deste STF” (fl. 9, doc. 2).
+    No mérito, pede:
+    “I. Determin[e-se] ao Estado de Minas Gerais e ao IPSEMG que aposente o autor a partir de 15 de setembro de 2012 data que efetivamente completou 25 anos de trabalho efetivo no cargo de Agente de Segurança penitenciário no último nível da carreira ASP nível ‘V’ Grau ‘J’;
+    II. Que [se] pague ao autor o abono permanência a partir de 15 de setembro de 2012 até a data da efetiva aposentação” (fl. 9, doc. 2).
+    Examinados os elementos havidos nos autos, DECIDO.
+    3. No parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal se dispõe que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se dá na espécie.
+    4. O que se põe em foco na reclamação é se, ao indeferir requerimento de aposentadoria especial de Agente de Segurança Penitenciário, a Coordenadoria do Núcleo de Aposentaria e a Diretora de Pagamentos, Benefícios e Vantagens de Minas Gerais teriam desrespeitado a Súmula Vinculante n. 33 do Supremo Tribunal Federal.
+    5. O instituto da súmula vinculante inaugurou hipótese de cabimento de reclamação para o Supremo Tribunal Federal, conforme disposto no art. 103-A, § 3º, da Constituição da República.
+    Assim, a contrariedade à determinada súmula ou a sua aplicação indevida por ato administrativo ou decisão judicial possibilita a atuação do Supremo Tribunal Federal, que, ao julgar a reclamação procedente, pode anular o ato ou cassar a decisão e determinar que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Tem-se na Súmula Vinculante n. 33 do Supremo Tribunal Federal:
+    “Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica”.
+    6. No art. 40, § 4º, incs. I, II e III, da Constituição da República se dispõe sobre três formas distintas de aposentadoria especial do servidor público: a) portador de deficiências; b) que exerça atividades de risco; c) cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física.
+    A Súmula Vinculante n. 33 do Supremo Tribunal Federal foi editada em decorrência da consolidada jurisprudência deste Supremo Tribunal sobre a possibilidade de aplicar a regra do art. 57 da Lei n. 8.213/1991, de modo a viabilizar à Administração Pública poder analisar requerimento de aposentadoria especial formulado por servidor público que exerce atividades em condições insalubres (art. 40, § 4º, inc. III da Constituição), até o advento de legislação específica sobre a matéria.
+    7. Na espécie, o Reclamante é Agente de Segurança Penitenciário e pretende a aplicação da Súmula Vinculante n. 33 à sua situação funcional. Contudo, não se tem situação de insalubridade a justificar o alegado direito do Reclamante à aposentadoria, pelo art. 40, § 4º, inc. III da Constituição.
+    Não se demonstra identidade material entre a decisão reclamada e a Súmula Vinculante apontada como paradigma. Por exercer atividade de risco, o Agente de Segurança Penitenciário tem direito à aposentadoria nos termos do inc. II do § 4º do art. 40 da Constituição. A ele não se aplica a Súmula Vinculante n. 33 do Supremo Tribunal Federal, que versa sobre o art. 40, § 4º, inc. III, da Constituição da República. Assim, por exemplo:
+    “Agravo regimental em reclamação. 2. Alegação de descumprimento da Súmula Vinculante nº 33. Pedido de contagem diferenciada em aposentadoria especial. Ausência de correspondência entre ato reclamado e entendimento sumulado por esta Corte. 3. Não cabimento da reclamação. 4. Agravo regimental a que se nega provimento” (Rcl. n. 18.868-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 22.5.2015).
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. POLICIAL MILITAR. INDEFERIMENTO PELA AUTORIDADE ADMINISTRATIVA DE APOSENTADORIA ESPECIAL: ART. 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 33 DO SUPREMO TRIBUNAL FEDERAL: NÃO OCORRÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl n. 18.758-AgR, de minha relatoria, Segunda Turma, DJe 1311.2014).
+    “Os atos questionados em qualquer reclamação - nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal - hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal” (Rcl n. 6.534-AgR, Relator o Ministro Celso de Mello, Plenário, DJ 16.10.2008).
+    Ausente a identidade material entre a decisão reclamada e o alegado descumprimento da Súmula Vinculante n. 33 do Supremo Tribunal Federal, evidencia-se o desatendimento aos requisitos constitucionais da reclamação (arts. 102, inc. I, al. l, e 103-A, § 3º, da Constituição da República), que não pode ser regularmente processada.
+    8. Pelo exposto, nego seguimento a esta reclamação (arts. 21, § 1º, e 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal), prejudicada, por óbvio, a medida liminar requerida.
+    Publique-se.
+    Brasília, 11 de novembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
