@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 183-184):
+    “EMENTA. AÇÃO ORDINÁRIA. CONCURSO PÚBLICO PARA PROVIMENTO DE CARGOS DE AGENTE DA POLÍCIA CIVIL DO ESTADO DA BAHIA. EDITAL SAEB/001-97. CANDIDATA APROVADA FORA DO NÚMERO DE VAGAS INICIALMENTE PREVISTAS NO EDITAL. CONVOCAÇÃO PARA CURSO DE FORMAÇÃO 12 (DOZE) ANOS APÓS A REALIZAÇÃO DO CONCURSO. DESRESPEITO DO ESTADO ÀS REGRAS DO EDITAL. IMPOSSIBILIDADE DE VERIFICAÇÃO DA POSIÇÃO FINAL DA APELANTE. ERRO QUE NÃO PODE SER IMPUTADO AOS CANDIDATOS. DIREITO À NOMEAÇÃO E POSSE RECONHECIDO, TENDO EM VISTA A CONVOCAÇÃO E REGULAR APROVAÇÃO DA CANDIDATA NO CURSO DE FORMAÇÃO. PRECEDENTES DESTE TRIBUNAL. RECURSO PROVIDO. SENTENÇA REFORMADA.
+    I – O Edital do Concurso Público para Provimento de Cargos de Agente e Escrivão da Polícia Civil do Estado da Bahia – SAEB/001-97, previa a realização de 4 (quatro) etapas, sendo a última delas o Curso de Formação Profissional, de caráter eliminatório e classificatório, para o qual a apelante foi convocada no ano de 2009.
+    II – Conforme as regras editalícias, o resultado final do concurso, com sua consequente homologação, somente poderia ser obtido após a realização da quarta etapa, em igualdade de condições entre todos os aprovados.
+    II – O Estado da Bahia, em flagrante violação às normas do certame, fracionou o Curso de Formação ao longo de mais de uma década, estabelecendo ordens de classificação parciais e convocando os candidatos aprovados antes do resultado final do concurso público.
+    III – É impossível, neste contexto, verificar qual a posição final da apelante, uma vez que o Curso de Formação do qual participou, obtendo aprovação, foi realizado, apenas, no ano de 2009, donde emerge o direito à nomeação e posse com que esgrime na exordial. Precedentes deste Tribunal de Justiça.
+    IV – Apelo provido. Sentença reformada.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 25; 37, I e II; 84, XXV; 93, IX; e 168, II, da Constituição Federal.
+     Nas razões recursais, sustenta-se, em suma, que a aprovação em concurso público gera mera expectativa de direito, condicionada à avaliação da conveniência e oportunidade, sendo a nomeação dos aprovados ato discricionário da Administração, não podendo o Poder Judiciário exercer controle sobre a nomeação ou não, sob pena de ofensa ao princípio da separação dos Poderes.
+    A 2ª Vice-Presidência do TJ/BA inadmitiu o recurso, em virtude de incidir na hipótese as Súmulas 279, 282 e 356 do STF.
+    É o relatório. Decido.
+    Inicialmente, observa-se que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. A jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Além disso, não foram opostos embargos declaratórios com a finalidade de sanar a omissão. Incidem, portanto, as súmulas 282 e 356 do Supremo Tribunal Federal.
+    Ademais, verifica-se que o Tribunal de origem assim asseverou (fls. 186-187):
+    “(...) não há alternativa senão reconhecer o direito à nomeação e posse da apelante no cargo de Agente da Polícia Civil do Estado da Bahia, pois logrou comprovar sua aprovação em todas as fases do certame, sendo, ademais, impossível atestar sua real colocação final, diante do indevido fracionamento da última etapa do concurso, promovido pelo Ente Público Estadual.”
+    “Ademais, o simples fato de ter sido convocada para o Curso de Formação, demonstra, segundo as regras do Edital, que existiam vagas suficientes para a nomeação da apelante ao cargo pretendido, sendo certo que, sua posterior aprovação na derradeira etapa do certame, ratifica a existência do direito vindicado na presente demanda.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas e a interpretação de cláusulas editalícias, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 12 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
