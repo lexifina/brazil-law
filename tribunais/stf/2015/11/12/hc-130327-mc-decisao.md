@@ -1,0 +1,24 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão, proferido no âmbito do do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSO PENAL E PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU REVISÃO CRIMINAL. NÃO CABIMENTO. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA. DENÚNCIA BASEADA EM PROVA ILÍCITA.INOCORRÊNCIA. DIVERSOS OUTROS MEIOS DE PROVA. SUSPENSÃO CONDICIONAL DO PROCESSO APÓS O RECEBIMENTO DA DENÚNCIA. POSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+    1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+    2. O trancamento da ação penal por meio do habeas corpus só é cabível quando houver comprovação, de plano, da ausência de justa causa, seja em razão da atipicidade da conduta supostamente praticada pelo acusado, seja da ausência de indícios de autoria e materialidade delitivas, ou ainda da incidência de causa de extinção da punibilidade.
+    3. Havendo a denúncia expressado suporte probatório prévio também em provas diversas das interceptações telefônicas, declaradas nulas, não se evidencia possibilidade do trancamento da ação penal.
+    4. Permite-se que a proposta de suspensão condicional do processo seja realizada após o recebimento da denúncia, em um cenário de reconhecida legalidade, evitando-se que o acusado venha a aceitar o benefício em casos de inépcia ou de ausência de justa causa para processamento do feito.
+    5. Habeas corpus não conhecido, mas conhecido de ofício, a fim de que os autos sejam remetidos ao representante do Ministério Público para que se manifeste acerca da possibilidade de suspensão condicional do processo, cassando-se, assim, a liminar anteriormente deferida.”
+    Narra o impetrante que: a) os pacientes foram denunciados com base em investigação desencadeada pelo GAECO e que tinha como objetivo a desarticulação de um suposto grupo criminoso associado com o fim de praticar atos de concentração ilícita de mercado (cartel na comercialização de combustíveis); b) a denúncia foi oferecida com lastro principal nos diálogos colhidos a partir de interceptações telefônicas autorizadas judicialmente; c) após o oferecimento da denúncia, o Tribunal de Justiça local reconheceu a nulidade das aludidas provas, em razão da desfundamentação das decisões que a autorizaram sua produção; d) subtraída a interceptação telefônica, não remanesce justa causa à ação penal e a denúncia torna-se ininteligível, configurando inépcia superveniente.
+    Por tais razões, postula, liminarmente, a suspensão da ação penal e, no mérito, seu trancamento.
+    É o relatório. Decido.
+    De início, consigno que “a jurisprudência desta Corte firmou entendimento no sentido de que a extinção da ação penal, de forma prematura, pela via do habeas corpus, somente se dá em hipóteses excepcionais, nas quais seja patente (a) a atipicidade da conduta; (b) a ausência de indícios mínimos de autoria e materialidade delitivas; ou (c) a presença de alguma causa extintiva da punibilidade.” (HC 114223, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 27/10/2015, grifei).
+    Nessa linha, e num juízo de cognição sumária, próprio desta fase processual, não vislumbro ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Com efeito, a matéria, que sinaliza certa complexidade fática, demanda análise acurada, razão pela qual se recomenda que seu enfrentamento seja implementado em grau colegiado.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual, sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente habeas corpus, indefiro a liminar.
+    Colham-se as informações do Juiz singular.
+    Após, vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 12 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
