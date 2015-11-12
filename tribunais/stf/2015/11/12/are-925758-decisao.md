@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado (fls. 143):
+    “APELAÇÃO CÍVEL E REMESSA NECESSÁRIA EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. AGENTE DE SEGURANÇA PENITENCIÁRIA. CANDIDATO CLASSIFICADO INICIALMENTE FORA DO NÚMERO DE VAGAS. CONVOCAÇÃO PARA CURSO DE FORMAÇÃO MEDIANTE PUBLICAÇÃO NO DIÁRIO OFICIAL DO ESTADO. DECURSO DE QUASE QUATRO ANOS. LAPSO TEMPORAL. EDITAL QUE EXIGE A ATUALIZAÇÃO DO ENDEREÇO DOS CANDIDATOS. PREVISÃO IMPLÍCITA DE COMUNICAÇÃO PESSOAL. OFENSA AOS PRINCÍPIOS DA RAZOABILIDADE E PUBLICIDADE. INVALIDADE DO ATO CONVOCATÓRIO. DIREITO LÍQUIDO E CERTO EVIDENCIADO. DESPROVIMENTO DA APELAÇÃO E DA REMESSA.
+    - O edital é a lei do concurso, e por isso, não cabe à Administração Pública descumprir suas prescrições, sob pena de arbítrio e de ofensa ao princípio da legalidade.
+    - Não obstante seja incabível o Poder Judiciário interferir no mérito administrativo, deve, outrossim, analisar se o ato foi realizado sob o amparo dos princípios da legalidade, da razoabilidade, da impessoalidade, da proporcionalidade e da publicidade.
+    - Além do decurso de longo lapso temporal – quase quatro anos, tendo sido o impetrante aprovado fora do número de vagas, não é razoável exigir deste o acompanhamento do certame, através do Diário Oficial, mormente quando já não tinha esperanças de ser convocado.
+    - Havendo exigência no edital para que o candidato mantenha seu endereço atualizado configura previsão implícita de comunicação pessoal.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput, 37, caput e incisos I e II, do Texto Constitucional.
+    Sustenta-se, em suma, que no ato convocatório do candidato, por meio de publicação no Diário Oficial do Estado da Paraíba e na internet, observou-se o princípio da publicidade. Desse modo, alega-se a legitimidade da exclusão do recorrido do certame, não obstante a inexistência de convocação pessoal. Alega-se, ainda, que a concessão ao recorrido de nova oportunidade de realização de exames, sem previsão no edital, implica ofensa ao princípio da isonomia, visto que os demais candidatos do concurso não terão igual oportunidade.
+    O TJPB inadmitiu o recurso por considerar que eventual ofensa à Constituição seria indireta ou reflexa.
+    É o relatório. Decido.
+    Conforme se depreende da leitura da ementa do acórdão recorrido, o Tribunal de origem decidiu a questão com base nos fatos e provas constantes dos autos e na interpretação das cláusulas do edital do certame. Desse modo, eventual divergência em relação ao entendimento por ele adotado demandaria o reexame de matéria fática e das cláusulas editalícias, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF. Nesse sentido, confiram-se os seguintes precedentes: ARE 868.546-AgR, Rel. Ministro Marco Aurélio, Primeira Turma, DJe de 09.06.2015, e RE 603.512-AgR, Rel. Ministra Rosa Weber, Primeira Turma, DJe de 11.03.2015.
+    Por fim, ressalta-se que a violação do princípio da legalidade, no caso, demanda necessariamente a análise de ato normativo infraconstitucional. Aplicável à espécie, portanto, a Súmula 636 do STF:
+    Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida .
+    Ante o exposto, conheço do agravo, para negar-lhe provimento, nos termos dos arts. 544, § 4º, II, “a”, CPC e 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 12 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
