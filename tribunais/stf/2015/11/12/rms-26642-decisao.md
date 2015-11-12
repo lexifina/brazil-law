@@ -1,0 +1,35 @@
+Decisão: Trata-se de recurso ordinário em mandado de segurança interposto por Francisco de Andrade Barroso e outros contra acórdão do Superior Tribunal de Justiça, ementado nos seguintes termos:
+    “ADMINISTRATRIVO. MANDADO DE SEGURANÇA. SERVIDORES PÚBLICOS DO EXTINTO IAPI. GRATIFICAÇÃO BIENAL. SUPRESSÃO DA VANTAGEM POR ATO DE EFEITOS CONCRETOS. DECADÊNCIA CONFIGURADA. PRECEDENTS. INCORPORAÇÃO. IMPOSSIBILIDADE. PRECEDENTES. PROCESSO EXTINTO COM JULGAMENTO DE MÉRITO.
+    1. O dies a quo do prazo decadencial para a impetração do mandado de segurança dá-se na data da efetiva supressão da vantagem, sendo certo que nesse momento se origina a pretensão do Autor, segundo o princípio da Actio Nata.
+    2. A supressão do ‘acréscimo bienal’ originou-se de ato de efeito concreto, razão pela qual é de ser reconhecida a decadência do mandamus impetrado em 05/03/2004, já que ultrapassado o prazo decadencial de 120 dias previsto no art. 18 da Lei n. 1.533/51 (MS 9.545/DF, MS 10.021/DF).
+    3. O ‘acréscimo bienal’ pago aos servidores do extinto IAPI foi extinta pelo Decreto-Lei n. 1.341/74, a fim de impedir a percepção de vantagens de mesma natureza. Precedentes.
+    4. Processo extinto, com julgamento do mérito. Prejudicados os embargos de declaração opostos em face da decisão que indeferiu a liminar”. (fls. 907-908)
+    Nas razões recursais, sustenta-se a não ocorrência da decadência, por se referir a prestação de trato sucessivo.
+    Os recorrentes alegam que a supressão do referido acréscimo foi arbitrária, haja vista que a portaria “foi editada sem base em critério meritório algum, como o da oportunidade, conveniência, justiça, igualdade, e mesmo do interesse público” (fl. 930).
+    Salientam ainda que não há cumulação do adicional bienal com o adicional por tempo de serviço. Por fim, invocam o art. 54 da Lei 9.784/99.
+    A Procuradoria-Geral da República manifestou-se pelo não provimento do recurso (fls. 978-982).
+    Decido.
+    Não assiste razão aos recorrentes.
+    Inicialmente, destaco que a decadência da impetração revela-se inquestionável.
+    Extrai-se dos autos que a impetração se voltou contra ato concreto da Administração Pública, consubstanciado na Portaria n. 978, de 29.3.1996, por meio da qual foi determinada a supressão do denominado “acréscimo bienal” dos proventos/pensões dos impetrantes, o que ocorreu a partir de janeiro de 1997.
+    Registre-se que a jurisprudência desta Corte firmou-se no sentido de que a decadência, nas obrigações de trato sucessivo, exige a presença de ato inequívoco da administração que indefira a pretensão.
+    Nesse sentido, cito os seguintes julgados:
+    “Agravo regimental em mandado de segurança. Tribunal de Contas da União. Artigo 3º da Lei nº 11.950/09. Resolução nº 227/09. Termo inicial de contagem do prazo de 120 (cento e vinte) dias para a impetração da segurança. Agravo regimental ao qual se nega provimento. 1. A jurisprudência do Supremo Tribunal Federal é firme na direção de que a decadência, nas obrigações de trato sucessivo, é configurada quando presente ato inequívoco da administração que indefira a pretensão, deixando de ser atestada a caducidade somente quando ausente essa premissa. Precedentes: RMS nº 24.250/DF, Segunda Turma, Relator o Ministro Cezar Peluzo , DJe de 5/03/10 e MS nº 25.136/PB, Tribunal Pleno, Relator o Ministro Marco Aurélio, DJ de 6/05/05. 2. No caso, foi editada a Resolução nº 227, de 24 de junho de 2009, configurando ato específico e inequívoco do Tribunal de Contas da União. Além disso, os efeitos financeiros decorrentes da Resolução nº 227/09 - TCU ocorreram desde 1º de junho de 2009, momento em que se tornou evidente a ciência do ato impugnado neste mandamus. 3. Agravo regimental ao qual se nega provimento”.(MS-AgR 28.944, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 21.3.2013)
+    “MANDADO DE SEGURANÇA. Prazo para ajuizamento. Decadência. Não consumação. Impetração contra ato concernente a vencimentos de servidor público. Prestações de trato sucessivo. Inexistência de indeferimento expresso da pretensão pela autoridade administrativa. Renovação mensal da pretensão. Preclusão afastada. Provimento ao recurso para esse fim. Precedentes. O prazo decadencial para ajuizamento de mandado de segurança renova-se mês a mês, quando o ato impugnado respeite a pagamento de prestações de trato sucessivo, sem que tenha havido indeferimento expresso da pretensão pela autoridade”. (RMS 24.250, Rel. Min. CEZAR PELUSO, Segunda Turma, DJe 5.3.2010)
+    No caso, a edição da Portaria n. 978, de 29.3.1996, configura ato específico e inequívoco da Administração que se concretizou com o desconto dos valores dos proventos/pensões dos impetrantes, a partir de janeiro de 1997.
+    Assim, a fruição do prazo decadencial ocorreu, entre a data da supressão dos pagamentos decorrente da edição da mencionada portaria (janeiro de 1997) e a data da impetração (5.3.2004).
+    Portanto, clara a ocorrência da decadência, porquanto ultrapassado o prazo de 120 (cento e vinte) dias, previsto no artigo 18 da Lei nº 1.533/51, vigente ao tempo da impetração.
+    Ainda que ultrapassada essa questão, as razões recursais não merecem acolhimento.
+    Como já mencionado, os recorrentes pretendem o restabelecimento do adicional bienal, que vinha sendo pago nos moldes do art. 160 da Lei 3.780/60 e que, a partir de janeiro de 1997, deixou de integrar os respectivos proventos e pensões, em virtude da edição da Portaria n. 978, de 29.3.1996.
+    No caso, o STJ consignou que é indevida a cumulação do acréscimo bienal pago aos servidores do extinto IAPI com a gratificação por tempo de serviço, já que o Decreto-Lei 1.341/74 vetou tal possibilidade visando impedir o recebimento de vantagens da mesma natureza.
+    Ressalto que essa orientação está de acordo com o entendimento desta Corte, que se firmou no sentido de que os acréscimos pecuniários percebidos pelos servidores públicos não podem ser computados ou acumulados, para fins de concessão de acréscimos ulteriores, sob o mesmo título ou idêntico fundamento.
+    A esse propósito, cito os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. IMPOSSIBILIDADE DE CUMULAÇÃO DO ADICIONAL BIENAL E ADICIONAL POR TEMPO DE SERVIÇO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE-AgR 603.304, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 23.9.2010)
+    “Agravo regimental em recurso extraordinário 2. Servidor Público. Decreto-Lei nº 1.341/74 e Decreto nº 1.918/37. Adicional bienal e adicional por tempo de serviço. Impossibilidade de acumulação. Precedentes. 3. Agravo regimental a que se nega provimento”. (RE-AgR 553.852, de minha relatoria, Segunda Turma, DJe 27.2.2009)
+    Por essas razões, não vislumbro direito líquido e certo dos recorrentes, a dar ensejo ao provimento do presente recurso.
+    Ante o exposto, nego seguimento ao recurso ao recurso ordinário.
+    Publique-se.
+    Brasília, 12 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
