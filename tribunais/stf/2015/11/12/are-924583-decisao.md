@@ -1,0 +1,9 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituídas de repercussão geral as questões suscitadas no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, e no AI 843.753- -RG/AL, Rel. Min. CEZAR PELUSO (Presidente), por tratar-se de litígios referentes a matérias infraconstitucionais, fazendo-o em decisões assim ementadas:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    “Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Reajuste de 28,86% sobre a RAV. Compensação. Reposições salariais posteriores. Leis 8.622/1993 e 8.627/1993. Reajustamento. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a compensação do reajuste de 28,86% sobre a RAV com as reposições salariais posteriores ao reajustamento concedido pelas Leis 8.622/1993 e 8.267/1993, versa sobre tema infraconstitucional.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 12 de novembro de 2015.
+Ministro CELSO DE MELLO
+Relator
