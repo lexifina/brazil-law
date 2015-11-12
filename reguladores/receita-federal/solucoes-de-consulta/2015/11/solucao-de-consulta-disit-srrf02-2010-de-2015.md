@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF02 nº 2010, de 29 de outubro de 2015
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ PARTICIPAÇÃO EM LUCROS E RESULTADOS. DIRETOR EMPREGADO. DESPESAS INDEDUTÍVEIS. Devem ser adicionados ao lucro líquido do período de apuração, para fins de apuração do lucro real, os valores relativos às participações nos lucros e resultados, atribuídos a seus administradores, inclusive àqueles que tenham vínculo de emprego com a pessoa jurídica pagadora SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 89, DE 24 DE MARÇO DE 2015. Dispositivos Legais: Decreto nº 3.000, de 1999, art. 463.
+[arquivo anexo: SC SRRF02-Disit nº 2010-2015.pdf]
