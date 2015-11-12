@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS - DENÚNCIA - EXCESSO DE EXAÇÃO - TITULAR DE CARTÓRIO - TRANCAMENTO DA AÇÃO PENAL - IMPOSSIBILIDADE - MEDIDA EXCEPCIONAL - REQUISITOS LEGAIS DO ART. 41, DO CPP, ATENDIDOS - AUSÊNCIA DE DOLO NA CONDUTA – NECESSIDADE DE EXAME APROFUNDADO - RECURSO NÃO PROVIDO.
+    1.- Sendo o recorrente titular de cartório e uma vez atendidos os requisitos legais do art. 41, do CPP, o trancamento da ação penal se mostra prematuro na medida em que o dolo do agente na conduta afirmada deve ser demonstrado no curso da ação.
+    2.- Recurso ordinário em habeas corpus não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, XXXVII, LIII, LIV e 93, IX, da Constituição. Aduz que: (i) “o Recorrente demonstrou inequivocamente quão absurdo é arrimar-se nos frágeis dados apresentados pela acusação, a qual sequer apontou a prova indiciária da existência de dolo em sua conduta, bem como olvidou-se de analisar corretamente a Lei Complementar Estadual nº 219/2001, a qual permite a conduta praticada pelo ora Recorrente”. Afirma que “não foi respeitada a competência para relatoria dos recursos após substituição dos Ministros quando do julgamento dos embargos de declaração opostos junto ao Superior Tribunal de Justiça”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, confira-se o AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes.
+    O Supremo Tribunal Federal já decidiu tratar-se de matéria infraconstitucional a questão relativa à afronta ao princípio do juiz natural. Nessa linha, vejam-se o AI 839.398, Rel. Min. Joaquim Barbosa; o AI 735.009, Rel. Min. Cezar Peluso; o AI 681.668-AgR, Rel.ª Min.ª Ellen Gracie; o AI 845.223 AgR-ED, Rel. Min. Luiz Fux; e o RE 255.639, julgado sob a relatoria do Ministro Ilmar Galvão.
+    Por fim, para chegar a conclusão diversa do acórdão recorrido seria necessária uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
