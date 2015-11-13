@@ -1,0 +1,18 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra decisão do STJ que julgou prejudicado o HC 179.779/SP.
+    O impetrante argumenta que: a) o paciente foi condenado pela prática de crimes associados ao tráfico de drogas; b) durante a instrução processual, diversas ilegalidades foram praticadas, com prejuízo à defesa, razão pela qual a ação penal deve ser anulada.
+    O STJ julgou o habeas corpus prejudicado em razão do cumprimento da pena. Contudo, o impetrante assevera que “o fato do processo ter terminado não é razão para não julgar e conceder o pedido de H.C, pois estamos falando de Leis e de Injustiças e nulidades processuais”.
+    É o relatório. DECIDO.
+    O habeas corpus constitui relevantíssima garantia direcionada à tutela do direito de ir e vir do cidadão que se vê ameaçado ou submetido a eventuais ações ilegais ou abusivas do poder público ou de quem lhe faça as vezes, cabível “sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder” (art. 5º, LXVIII, da CF/88),
+    Sendo assim, o remédio constitucional não tem vocação para produzir provimentos de cunho declaratórios, tampouco para reparar, do ponto de vista moral, eventuais ilegalidades suportadas pelo paciente. Nessa mesma linha:
+    “O afastamento do cargo, decretado por unanimidade pelo Órgão Especial do Superior Tribunal de Justiça, quando do recebimento da denúncia, por não afetar e nem acarretar restrição ou privação da liberdade de locomoção, não pode ser questionado na via do habeas corpus. Precedentes. (HC 84326 AgR, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em 10/08/2004, grifei)“
+    “Com a cessação, em 1926, da doutrina brasileira do "habeas corpus", a destinação constitucional do remédio heróico restringiu-se, no campo de sua específica projeção, ao plano da estreita tutela da imediata liberdade física de ir, vir e permanecer dos indivíduos, pertencendo, residualmente, ao âmbito do mandado de segurança, a tutela jurisdicional contra ofensas que desrespeitem os demais direitos líquidos e certos, mesmo quando tais situações de ilicitude ou de abuso de poder venham a afetar, ainda que obliquamente, a liberdade de locomoção física das pessoas. (…) A jurisprudência do Supremo Tribunal Federal tem salientado que, não havendo risco efetivo de constrição à liberdade de locomoção física, não se revela pertinente o remédio do "habeas corpus", cuja utilização supõe, necessariamente, a concreta configuração de ofensa, atual ou iminente, ao direito de ir, vir e permanecer das pessoas. (HC 83966 AgR, Relator(a): Min. CELSO DE MELLO, Tribunal Pleno, julgado em 23/06/2004, grifei)“
+    “O afastamento cautelar do cargo não pode ser questionado na via do habeas corpus, por não acarretar restrição ou privação da liberdade de locomoção do paciente. Precedentes. (RHC 125477 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 09/06/2015, grifei)”
+    A esse respeito, o Verbete Sumular 695/STF enuncia que “não cabe habeas corpus quando já extinta a pena privativa de liberdade”.
+    Não bastasse a ausência de interesse processual, a extinção da pena torna o pedido de reinício da ação penal juridicamente impossível. Isso porque a ação penal condenatória não se compatibiliza com a total impossibilidade de imposição de sanção penal, na medida em que tal horizonte é da essência de ações dessa natureza.
+    Posto isso, com fulcro no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 13 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
