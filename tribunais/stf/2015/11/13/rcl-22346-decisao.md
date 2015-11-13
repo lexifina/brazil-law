@@ -1,0 +1,23 @@
+Vistos, etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal; 13 a 18 da Lei 8.038/90; e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Lucas da Silva Ferreira, Welton Souza da Silva, Lucas Ramos de Oliveira e Eugênio de Oliveira contra ato do Juiz de Direito da Vara Única da Comarca de São Francisco de Itabapoana/RJ, que supostamente teria contrariado o enunciado da Súmula Vinculante nº 14.
+    Narra a inicial que, em 17.8.2015, no Município de Campos dos Goytacazes/RJ foi deflagrada pela Polícia Civil do Estado do Rio de Janeiro a denominada “operação detonação”, oriunda das medidas cautelares decretadas pela autoridade reclamada em desfavor dos Reclamantes.
+    Inobstante o cumprimento dos mandados de busca e apreensão e de prisão cautelar dos investigados, a Defesa não teve acesso às “gravações da interceptação telefônica” ante decisão indeferitória do respectivo pedido de vista (Processo 0020811-38.2015.8.19.0070).
+    Alega-se, em síntese, que a negativa de acesso da Defesa aos autos pela autoridade reclamada contraria o enunciado da Súmula Vinculante nº 14.
+    Requer a Defesa, em medida liminar, a suspensão dos efeitos da decisão atacada. No mérito, pugna pela procedência desta reclamação, para que seja franqueado aos Reclamantes, o acesso integral às provas produzidas na ação penal de origem.
+    É o relatório.
+    Decido.
+    A via estreita da reclamação constitucional (arts. 102, I, l, e 103-A, § 3º, da Constituição da República) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a súmula vinculante ou o descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que pertinente, nesta última hipótese, à mesma relação jurídica e às mesmas partes.
+    Há que verificar, portanto, a presença de uma dessas hipóteses, e com rigor, sob pena de desvirtuamento do instituto.
+    Extraio do enunciado da Súmula Vinculante nº 14:
+    “É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.”
+    Por outro lado, colho do ato reclamado:
+    “1. Em primeiro lugar, com a finalidade de não atrasar a marcha processual e garantir a razoável duração do processo, determino o desmembramento do feito em relação aos réus Uelton Alves Areas e Evaldo Pereira da Silva, que se encontram foragidos e não citados. Formem-se autos suplementares. 2. Indefiro pedido de fls. 845/846, formulado pela defesa técnica de Welton Souza da Silva, Lucas da Silva Oliveira, Lucas Ramos de Oliveira e Eugênio de Oliveira. Isto porque, como bem pontuado pelo Ministério Público, todos os elementos utilizados para formação da opinio delicti já se encontram nos autos, especialmente na farta investigação contida no Inquérito Policial que embasou a denúncia, merecendo destaque as diversas transcrições da interceptação telefônica. Os réus se defendem dos fatos que lhe são imputados e a denúncia é clara e específica, motivo pelo qual não há qualquer óbice ao pleno e amplo exercício do direito de defesa por parte dos réus. Deve-se destacar que a fase de produção probatória sequer começou, motivo pelo qual é descabido o requerimento de apresentação de defesa preliminar após o conhecimento de todas as provas produzidas contra os acusado. De tal forma, intime-se o patrono constituído para que apresente defesa preliminar, sob pena de serem os réus reputados indefesos, haja vista que estão presos e o processo não está se desenvolvendo com a velocidade que poderia por conta da defesa. Transcorrido o prazo legal, voltem conclusos para apreciação das demais respostas preliminares.”
+    O ato reclamado retrata, neste juízo de cognição sumária, situação fática diversa, valendo destacar a decisão do magistrado de primeiro grau, que, de acordo com o verbete da Súmula Vinculante nº 14, franqueou o acesso aos advogados constituídos à integralidade do acervo probatório dos autos, em especial às interceptações telefônicas, a afastar, dessa maneira, qualquer prejuízo aos Reclamantes.
+    De todo modo, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colham-se informações junto ao Juízo de Direito da Vara Única da Comarca de São Francisco de Itabapoana/RJ (Processo 0020811-38.2015.8.19.0070).
+    Após, ao Ministério Público para manifestação.
+    Publique-se.
+    Brasília, 13 de novembro de 2014.
+Ministra Rosa Weber
+Relatora
