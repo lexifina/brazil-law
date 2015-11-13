@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 202 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A verificação da ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo demanda prévio reexame da interpretação conferida pelo Tribunal de origem à legislação infraconstitucional e às cláusulas contratuais, o que é vedado a esta instância extraordinária, a teor da Súmula 454/STF, segundo a qual “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+    “Agravos regimentais no recurso extraordinário com agravo. Previdência Privada. Suplementação de aposentadoria. Preenchimento dos requisitos. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas e de cláusulas de regulamento de benefícios. Impossibilidade. Precedentes. 1. A afronta aos princípios do ato jurídico perfeito, do direito adquirido, da ampla defesa, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Inadmissível, em recurso extraordinário, a análise de cláusulas de regulamento de benefícios, de legislação infraconstitucional, e o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 454, 636 e 279/STF. 3. Agravos regimentais não providos.” (ARE 679.143-AgR/GO, Rel. Min. Dias Toffoli, 1ª Turma, DJe 10.4.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. REQUISITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE DE CLÁUSULAS DE REGULAMENTO. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos e de cláusulas de regulamento de entidade de previdência privada. Incidência das Súmulas 279 e 454 do STF. Precedentes. II - Agravo regimental improvido.” (ARE 724.951-AgR/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 27.8.2013).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de novembro de 2015.
+Ministra Rosa Weber
+Relatora
