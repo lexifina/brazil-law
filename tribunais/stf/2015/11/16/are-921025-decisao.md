@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DEMONSTRAÇÃO INSUFICIENTE DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Segunda Câmara de Direito Público do Tribunal de Justiça de São Paulo decidiu:
+    “Mandado de segurança – Concurso Público – Polícia Militar- Inaptidão do candidato declarada na fase de Investigação Social- Omissão de informações pelo candidato – Esfera discricionária da Administração - Impossibilidade do Judiciário analisar o mérito da decisão administrativa Reforma da sentença- Recursos providos” (doc. 2, fl. 98).
+    3. Na decisão agravada se adotou como fundamento para a inadmissibilidade do recurso extraordinário a insuficiência da preliminar de repercussão geral.
+O Agravante argumenta que,
+     “sobre a suscitada repercussão geral, esta se concentra no fato que, se mantido o v. acórdão e decisão denegatória do Recurso Extraordinário, estará empurrando violando drasticamente princípios basilares do nosso ordenamento jurídico, ao tempo que estará premiando a arbitrariedade, o preconceito etc, como já foi exaustivamente demonstrado, embora os nobres e impolutos julgadores não tenham atentado-se para tal” (doc. 2, fl. 177).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 5º, caput, incs. XLV, LIV, LVII, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra decisão pela qual não se admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    O acórdão recorrido foi disponibilizado no Diário da Justiça Eletrônico em 13.3.2013 (doc. 2, fl. 104) e, nos termos do que decidido pelo Supremo Tribunal Federal no Agravo de Instrumento n. 664.567-QO, Relator o Ministro Sepúlveda Pertence, Plenário, a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 3.5.2007.
+    Entretanto, o Agravante limitou-se a afirmar, nos argumentos do recurso extraordinário, que, “conforme prescreve o parágrafo 3º do artigo 102 da Constituição da República, o caso em tela envolve questões afetas a uma universalidade de lides, sendo que a decisão daqui prolatada emanará seus efeitos para além do âmbito jurídico das partes envolvidas” (doc. 2, fl. 109).
+    7. No § 1º do art. 543-A do Código de Processo Civil se dispõe que, para efeito da repercussão geral, será considerada a existência, ou não, de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa. Não basta, portanto, afirmar-se ter o tema repercussão geral, sendo ônus exclusivo da parte recorrente demonstrar, com argumentos substanciais, haver na espécie relevância econômica, política, social ou jurídica.
+    A insuficiência de fundamentação expressa, formal e objetivamente articulada pelo Agravante para demonstrar, nas razões do recurso extraordinário, a repercussão geral da matéria constitucionalmente arguida inviabiliza o exame do recurso.
+    Assim, embora tenha mencionado a existência de repercussão geral, o Agravante não desenvolveu argumentos suficientes para cumprir o objetivo da exigência constitucional:
+    “RECEBO OS PRESENTES EMBARGOS DE DECLARAÇÃO COMO AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RELATIVA À PRELIMINAR DE EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL INVOCADA NO RECURSO. INTIMAÇÃO DO ACÓRDÃO RECORRIDO POSTERIOR A 03.05.2007. Nos termos da orientação firmada nesta Corte, cabe à parte agravante impugnar todos os fundamentos da decisão agravada, o que não ocorreu no caso. De acordo com a orientação firmada neste Tribunal, é insuficiente a simples alegação de que a matéria em debate no recurso extraordinário tem repercussão geral. Cabe à parte recorrente demonstrar de forma expressa e clara as circunstâncias que poderiam configurar a relevância do ponto de vista econômico, político, social ou jurídico das questões constitucionais invocadas no recurso extraordinário. A deficiência na fundamentação inviabiliza o recurso interposto. Agravo regimental a que se nega provimento” (ARE n. 669.900-ED, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe 8.5.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DEMONSTRAÇÃO INSUFICIENTE DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 697.988-AgR, de minha relatoria, Segunda Turma, DJe 1º.2.2013).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 16 de novembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
