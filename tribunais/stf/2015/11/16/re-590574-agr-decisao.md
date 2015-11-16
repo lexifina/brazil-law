@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo regimental contra decisão do Min. Ayres Britto que negou seguimento a recurso extraordinário, ao argumento de que o Supremo Tribunal Federal firmou entendimento jurisprudencial contrário às pretensões da parte agravante, no sentido de que não pode o Poder Judiciário atuar como legislador positivo para estender ou majorar benefícios fiscais.
+    Sustenta a parte agravante, em síntese, que (a) “quando a carga tributária a ser suportada pelo exportador se eleva em virtude do aumento da COFINS, não há aumento do crédito presumido do IPI, entretanto, quando a carga tributária diminui em razão da não cumulatividade do PIS, o ente fazendário logo providencia a diminuição do crédito presumido, acarretando evidente violação aos arts. 5º e 150, II, da CRFB/88”(fl. 129); e (b) o art. 3º da CF deve ser levado em conta, “fazendo-se mister, portanto, o aumento do crédito fiscal para atender à justiça necessária ao caso, qual seja, a desoneração das exportações e, por conseguinte, garantir o desenvolvimento nacional” (fl. 135).
+    2. O Supremo Tribunal Federal, ao analisar o RE 593.544-RG (Rel. Min. JOAQUIM BARBOSA, Tema 504), reconheceu a repercussão geral da matéria objeto do presente recurso extraordinário. Considerada a especial eficácia vinculativa desse julgado (CPC, art. 543-B, § 3º), impõe-se sua aplicação, nos mesmos termos, aos casos análogos, como o dos autos.
+    No que toca aos agravos regimentais que impugnam decisões monocráticas proferidas em processos que tratem de tema cuja repercussão geral foi reconhecida, a Segunda Turma desta Corte, ao apreciar o RE 565.153-AgR-QO (Rel. Min. ELLEN GRACIE, DJE de 21/11/2008), decidiu reconsiderar as decisões agravadas para determinar a devolução dos autos ao Tribunal de origem (art. 543-B, CPC), ficando prejudicados os recursos interpostos.
+    3. Diante do exposto, reconsidero a decisão agravada para determinar a devolução dos autos à instância de origem, para os fins do art. 543-B do CPC.
+    Publique-se. Intime-se.
+    Brasília, 16 de novembro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
