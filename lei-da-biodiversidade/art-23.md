@@ -1,0 +1,1 @@
+Art. 23. Quando o produto acabado ou o material reprodutivo for oriundo de acesso ao conhecimento tradicional associado de origem não identificável, a repartição decorrente do uso desse conhecimento deverá ser feita na modalidade prevista no inciso I do caput do art. 19 e em montante correspondente ao estabelecido nos arts. 20 e 21 desta Lei.

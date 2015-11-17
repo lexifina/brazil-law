@@ -1,0 +1,2 @@
+Art. 22. Nas modalidades de repartição de benefícios não monetárias correspondentes às alíneas a, e e f do inciso II do caput do art. 19, a repartição de benefícios deverá ser equivalente a 75% (setenta e cinco por cento) do previsto para a modalidade monetária, conforme os critérios definidos pelo CGen.
+Parágrafo único. O CGen poderá delimitar critérios ou parâmetros de resultado ou efetividade que os usuários deverão atender, em substituição ao parâmetro de custo previsto no caput para a repartição de benefícios não monetária.

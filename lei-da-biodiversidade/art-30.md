@@ -1,0 +1,1 @@
+Art. 30. Fica instituído o Fundo Nacional para a Repartição de Benefícios - FNRB, de natureza financeira, vinculado ao Ministério do Meio Ambiente, com o objetivo de valorizar o patrimônio genético e os conhecimentos tradicionais associados e promover o seu uso de forma sustentável.

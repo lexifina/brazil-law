@@ -1,0 +1,1 @@
+Art. 47. A concessão de direito de propriedade intelectual pelo órgão competente sobre produto acabado ou sobre material reprodutivo obtido a partir de acesso a patrimônio genético ou a conhecimento tradicional associado fica condicionada ao cadastramento ou autorização, nos termos desta Lei.

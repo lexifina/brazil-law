@@ -1,0 +1,9 @@
+Art. 38. Deverá regularizar-se nos termos desta Lei, no prazo de 1 (um) ano, contado da data da disponibilização do Cadastro pelo CGen, o usuário que, entre 30 de junho de 2000 e a data de entrada em vigor desta Lei, realizou as seguintes atividades em desacordo com a legislação em vigor à época:
+I - acesso a patrimônio genético ou a conhecimento tradicional associado;
+II - acesso e exploração econômica de produto ou processo oriundo do acesso a patrimônio genético ou a conhecimento tradicional associado, de que trata a Medida Provisória nº 2.186-16, de 23 de agosto de 2001;
+III - remessa ao exterior de amostra de patrimônio genético; ou
+IV - divulgação, transmissão ou retransmissão de dados ou informações que integram ou constituem conhecimento tradicional associado.
+§ 1º A regularização de que trata o caput está condicionada a assinatura de Termo de Compromisso.
+§ 2º Na hipótese de acesso ao patrimônio genético ou ao conhecimento tradicional associado unicamente para fins de pesquisa científica, o usuário estará dispensado de firmar o Termo de Compromisso, regularizando-se por meio de cadastro ou autorização da atividade, conforme o caso.
+§ 3º O cadastro e a autorização de que trata o § 2º extinguem a exigibilidade das sanções administrativas previstas na Medida Provisória nº 2.186-16, de 23 de agosto de 2001, e especificadas nos arts. 15 e 20 do Decreto nº 5.459, de 7 de junho de 2005, desde que a infração tenha sido cometida até o dia anterior à data de entrada em vigor desta Lei.
+§ 4º Para fins de regularização no Instituto Nacional de Propriedade Industrial - INPI dos pedidos de patentes depositados durante a vigência da Medida Provisória nº 2.186-16, de 23 de agosto de 2001, o requerente deverá apresentar o comprovante de cadastro ou de autorização de que trata este artigo.

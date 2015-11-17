@@ -1,0 +1,6 @@
+Art. 24. Quando o produto acabado ou o material reprodutivo for oriundo de acesso ao conhecimento tradicional associado que seja de origem identificável, o provedor de conhecimento tradicional associado terá direito de receber benefícios mediante acordo de repartição de benefícios.
+§ 1º A repartição entre usuário e provedor será negociada de forma justa e equitativa entre as partes, atendendo a parâmetros de clareza, lealdade e transparência nas cláusulas pactuadas, que deverão indicar condições, obrigações, tipos e duração dos benefícios de curto, médio e longo prazo.
+§ 2º A repartição com os demais detentores do mesmo conhecimento tradicional associado dar-se-á na modalidade monetária, realizada por meio do Fundo Nacional para a Repartição de Benefícios - FNRB.
+§ 3º A parcela devida pelo usuário para a repartição de benefícios prevista no § 2º, a ser depositada no Fundo Nacional para a Repartição de Benefícios - FNRB, corresponderá à metade daquela prevista no art. 20 desta Lei ou definida em acordo setorial.
+§ 4º A repartição de benefícios de que trata o § 3º independe da quantidade de demais detentores do conhecimento tradicional associado acessado.
+§ 5º Em qualquer caso, presume-se, de modo absoluto, a existência de demais detentores do mesmo conhecimento tradicional associado.
