@@ -1,0 +1,21 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra assim ementado:
+    “TRIBUTÁRIO. IRPF. PARCELAS EM ATRASO DECORRENTES DE CONCESSÃO JUDICIAL DE BENEFÍCIO PREVIDENCIÁRIO. REPETIÇÃO DO VALOR DO TRIBUTO. SENTENÇA DE PROCEDÊNCIA. RECURSO DA PARTE RÉ. NEGADO PROVIMENTO AO RECURSO.
+    1. Pedido de declaração de inexistência da relação jurídico-tributária em relação à incidência do Imposto sobre a Renda sobre os valores pagos em atraso, acumuladamente, em decorrência de concessão judicial de benefício previdenciário, com a repetição dos valores descontados indevidamente
+    2. Sentença procedente.
+    3. A jurisprudência do Superior Tribunal de Justiça pacificou o entendimento no sentido de que o imposto de renda não deve incidir sobre o valor dos benefícios recebidos acumuladamente, mas apenas sobre cada uma das parcelas devidas e não pagas oportunamente, aplicando-se a legislação vigente à época quanto à alíquota e à isenção. A Lei n.º 12.350/2010 somente explicitou na legislação a interpretação que já vinha sendo dada pela jurisprudência.
+    4. Irrelevante tratar-se de retenção de imposto de renda decorrente de pagamento das parcelas de benefício previdenciário em virtude de decisão judicial, tendo em vista, ainda, o disposto nos parágrafos do artigo 27 da Lei nº 10.833/03.
+    5. Não obstante a relevância das razões apresentadas pelo(a) recorrente, o fato é que todas as questões suscitadas pelas partes foram corretamente apreciadas pelo Juízo de Primeiro Grau, razão pela qual a r. sentença deve ser mantida por seus próprios e jurídicos fundamentos, nos termos do art. 46 da Lei nº 9.099/95. RECURSO A QUE SE NEGA PROVIMENTO.
+    6. Recorrente condenado ao pagamento de honorários advocatícios, fixados em 10% sobre o valor da condenação, limitados a 06 (seis) salários mínimos.
+    7. É o voto”.
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega a constitucionalidade do art. 12 da Lei nº 7.713/88 e a inexistência de ofensa aos artigos 150, II, 153, § 2°, I E 145, § 1°, da Constituição, porque a situação da parte autora não e igual a situação dos demais contribuintes que recebem seus rendimentos mensalmente. Aduz que é característica própria do imposto de renda das pessoas físicas incidir sob o regime de caixa. Informa, ainda, que a presente ação foi ajuizada em 16/11/2010, ou seja, em data posterior a 09/06/2005, sendo de rigor a aplicação do prazo quinquenal.
+    A decisão de admissibilidade do recurso extraordinário julgou prejudicada a questão relativa à aplicação do regime de competência para fins de incidência do imposto de renda. Desta decisão não houve impugnação por parte da recorrente, pelo que a questão restou preclusa. Passo ao exame da matéria remanescente.
+    A pretensão recursal merece prosperar no que diz respeito ao prazo prescricional quinquenal. Com efeito, o Plenário desta Corte, nos autos do RE nº 566.621, de relatoria da Ministra Ellen Gracie, declarou a inconstitucionalidade do artigo 4º, segunda parte, da Lei Complementar nº 118/2005. Na ocasião, ficou consignado que somente seria considerada válida a aplicação do novo prazo de 5 anos às ações ajuizadas após o decurso da vacatio legis de 120 dias, ou seja, a partir de 9 de junho de 2005.
+    Dessa orientação divergiu o acórdão recorrido, uma vez ter reconhecido o direito a repetição dos valores desde 19.05.1999. Ocorre que, nos termos do entendimento consolidado nesta Corte, deve ser aplicado o prazo quinquenal para todas as ações ajuizadas após o transcurso da vacatio legis da Lei Complementar nº 118/2005, independentemente da data do recolhimento indevido. No caso dos autos, considerando que a ação foi ajuizada em 2010, há que se reconhecer a aplicação do prescricional de cinco anos, ainda que o recolhimento tenha ocorrido em momento anterior à vigência da lei.
+    Diante do exposto, com base no art. 557, § 1º-A, do CPC, e no art. 21, § 1º, do RI/STF, dou parcial provimento ao recurso extraordinário para reconhecer a prescrição dos créditos referentes ao período que exceder os cinco anos anteriores à data do ajuizamento da ação.
+    Publique-se.
+    Brasília, 17 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
+          CUPOMAFL
