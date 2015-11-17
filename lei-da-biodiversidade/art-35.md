@@ -1,0 +1,1 @@
+Art. 35. O pedido de autorização ou regularização de acesso e de remessa de patrimônio genético ou de conhecimento tradicional associado ainda em tramitação na data de entrada em vigor desta Lei deverá ser reformulado pelo usuário como pedido de cadastro ou de autorização de acesso ou remessa, conforme o caso.
