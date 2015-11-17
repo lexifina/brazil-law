@@ -1,0 +1,19 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “ADMINISTRATIVO E CONSTITUCIONAL - MANDADO DE SEGURANÇA - POLÍCIA CIVIL - ESCOLTA DE PRESOS - LEI ESTADUAL Nº 13.054/1998 - ATRIBUIÇÃO DA POLÍCIA MILITAR - - PRINCÍPIO DA LEGALIDADE - TEMPERAMENTO - EXCEPCIONALIDADE - SEGURANÇA PÚBLICA - DEVER DO ESTADO E RESPONSABILIDADE DE TODOS - ORDEM CONCEDIDA PARCIALMENTE. Embora haja previsão legal atribuindo à Polícia Militar o dever de realizar a escolta de presos, a observância da Lei Estadual nº 13.054/1998 deve ser interpretada de acordo com as peculiaridades do caso concreto no sentido de admitir, excepcionalmente, que aludido ato seja realizado pela Polícia Civil, cuja instituição também e responsável pela segurança pública.”
+    No recurso extraordinário, sustenta-se violação dos artigos 1º, inciso III, e 37, caput, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração pelo ora recorrente para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, verifica-se dos autos que as instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Incidência da Súmula nº 280/STF. Sobre o tema:
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 15/4/05).
+          “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. ESCOLTA DE PRESO. ATRIBUIÇÃO DA POLÍCIA MILITAR DO ESTADO DE MINAS GERAIS. LEI ESTADUAL N. 13.054/98. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL (SÚMULA 280). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI nº 624.457/MG-AgR, Primeira Turma, Relator a Ministra Cármen Lúcia, DJe de 2/4/09).
+    Nesse sentido, as seguintes decisões monocráticas: ARE nº 704.446/MG, Relator o Ministro Gilmar Mendes, Dje de 30/8/12; ARE nº 765.284/MG, Relatora a Ministra Rosa Weber, DJe de 26/9/13; e ARE nº 847.818/MG, Relator o Ministro Teori Zavascki, DJe de 17/11/14.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de novembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
