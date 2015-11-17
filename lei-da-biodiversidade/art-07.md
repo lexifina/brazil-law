@@ -1,0 +1,1 @@
+Art. 7º A administração pública federal disponibilizará ao CGen, na forma do regulamento, as informações necessárias para a rastreabilidade das atividades decorrentes de acesso ao patrimônio genético ou ao conhecimento tradicional associado, inclusive as relativas à exploração econômica oriunda desse acesso.

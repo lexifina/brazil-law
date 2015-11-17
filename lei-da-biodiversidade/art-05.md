@@ -1,0 +1,1 @@
+Art. 5º É vedado o acesso ao patrimônio genético e ao conhecimento tradicional associado para práticas nocivas ao meio ambiente, à reprodução cultural e à saúde humana e para o desenvolvimento de armas biológicas e químicas.
