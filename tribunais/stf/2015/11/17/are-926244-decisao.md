@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL. INTERPOSIÇÃO IMOTIVADA CONTRA DECISÃO DENEGATÓRIA DE SEGUIMENTO A EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE INADMISSÍVEL. RECURSO IMPROVIDO.”
+    A pretensão não merece acolhida. De início, quanto à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, no que tange à necessidade de observância do art. 97 da Constituição Federal, registro que o art. 481, parágrafo único, do Código de Processo Civil prescreve que os órgãos fracionários dos tribunais não submeterão ao plenário, ou ao órgão especial, a arguição de inconstitucionalidade, quando já houver pronunciamento destes ou do plenário do Supremo Tribunal Federal sobre a questão.
+     No caso dos autos, o acórdão recorrido, amparado em declaração de inconstitucionalidade proferida pelo Plenário do Tribunal de origem, firmou entendimento no sentido da inconstitucionalidade da norma em debate. Nessas circunstâncias, não há que se falar em ofensa ao art. 97 da Carta.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 17 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
