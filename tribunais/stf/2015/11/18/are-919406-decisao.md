@@ -1,0 +1,13 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 705.140/RS, Rel. Min. TEORI ZAVASCKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL E TRABALHO. CONTRATAÇÃO DE PESSOAL PELA ADMINISTRAÇÃO PÚBLICA SEM CONCURSO. NULIDADE. EFEITOS JURÍDICOS ADMISSÍVEIS EM RELAÇÃO A EMPREGADOS: PAGAMENTO DE SALDO SALARIAL E LEVANTAMENTO DE FGTS (RE 596.478 – REPERCUSSÃO GERAL). INEXIGIBILIDADE DE OUTRAS VERBAS, MESMO A TÍTULO INDENIZATÓRIO.
+    1. Conforme reiteradamente afirmado pelo Supremo Tribunal Federal, a Constituição de 1988 reprova severamente as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público, cominando a sua nulidade e impondo sanções à autoridade responsável (CF, art. 37, § 2º).
+    2. No que se refere a empregados, essas contratações ilegítimas não geram quaisquer efeitos jurídicos válidos, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço – FGTS.
+    3. Recurso extraordinário desprovido.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se, no ponto, à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Cumpre salientar, de outro lado, que o acórdão impugnado em sede recursal extraordinária, ao apreciar a controvérsia concernente à competência material da Justiça do Trabalho para resolver o litígio ora em análise, decidiu a questão à luz dos fatos e das provas existentes nos autos, circunstância essa que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Com efeito, o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703). É que o pronunciamento do órgão judiciário de origem sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 18 de novembro de 2015.
+Ministro CELSO DE MELLO
+Relator
