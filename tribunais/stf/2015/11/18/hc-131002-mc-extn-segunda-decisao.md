@@ -1,0 +1,46 @@
+Decisão: Trata-se de pedido de extensão da liminar deferida neste autos, em 10/11/2015, formulado por João Rafael de Oliveira, em favor de Sarquis José Samara e Marilucia Dal Ross Samara.
+    Segundo a defesa, o Juízo de Direito da 3ª Vara Criminal da Comarca de Londrina/PR, ao acolher representação do Ministério Público do Estado do Paraná (Processo n. 0062868-29.2015.8.16.0014), decretou a prisão cautelar dos requerentes.
+    Dai a impetração de habeas corpus no TJ/PR, cuja liminar foi indeferida (HC 1.452.161-0).
+    Em sequência, impetrou-se, perante o STJ, o HC 339.082/PR, cujo Relator, Min. Rogério Schietti Cruz, indeferiu liminarmente o writ.
+    A defesa, no presente pedido de extensão de liminar, sustenta que os requerentes estão na mesma situação fática e jurídica em que se encontravam os pacientes José Luiz Favoreto Pereira, Antonio Pereira Junior e Leila Raimundo Maria Pereira, porquanto a prisão preventiva tem origem na mesma decisão do Juiz de Direito da 3ª Vara Criminal de Londrina (Processo n. 0062868-29.2015.8.16.0014) e mencionada por este Relator na decisão concessiva da liminar no presente HC 131.002-MC/PR, bem como na citada decisão proferida no âmbito do STJ.
+    Assim, no caso, há de ser aplicado o disposto no art. 580 do CPP, de modo a estender os efeitos da liminar também aos ora peticionários, superando, assim, o óbice contido na Súmula 691/STF.
+    É o breve relatório.
+    Decido.
+    Trata-se de pedido de extensão de liminar em habeas corpus por meio do qual os requerentes afirmam que, após o indeferimento da liminar perante o TJ/PR, impetraram, no STJ, o HC 339.082/PR, cujo Relator, Ministro Rogério Schietti Cruz, indeferiu liminarmente a ordem.
+    Da simples leitura da referida decisão monocrática proferida no âmbito do STJ, observa-se que o relator do processo negou seguimento ao pedido formulado perante aquela Corte por configuração de hipótese de indevida supressão de instância, levando em conta a pendência do julgamento do mérito do habeas corpus impetrado perante o Tribunal de Justiça do Estado do Paraná.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido, consoante a reiterada jurisprudência desta Corte. Nesse sentido: HC 103.282/PA, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.8.2013; HC 114.867/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.8.2013 e HC 127.975-AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma, DJe 3.8.2015.
+    De outra banda, cumpre destacar que a decisão impugnada é monocrática e que o agravo regimental interposto encontra-se pendente de julgamento.
+    No que se refere ao tema, tenho-me posicionado na 2ª Turma juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014 e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, inciso II, alínea a, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011 e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No caso, ao contrário do que defendem os requerentes, não há falar em identidade fática e jurídica com a qual se encontravam os pacientes José Luiz Favoreto Pereira, Antonio Pereira Junior e Leila Raimundo Maria Pereira, que pudesse configurar constrangimento ilegal manifesto a justificar excepcional conhecimento deste pedido de extensão de liminar em habeas corpus.
+    Para tanto, é suficiente asseverar o contido na decisão que decretou a prisão preventiva dos acusados, na parte referente aos peticionários:
+    “Sucintamente relatado, DECIDO:
+    Fundamentação:
+    DA PRISÃO PREVENTIVA:
+    Como se sabe, a prisão preventiva é uma medida cautelar constituída da privação da liberdade do indigitado autor do crime e decretada pelo juiz, durante o inquérito ou instrução criminal, diante da existência de pressupostos legais, para resguardar os interesses sociais de segurança.
+    Dispõe o artigo 313 do Código de Processo Penal as hipóteses em que é admitida a decretação da prisão preventiva, sendo que entre elas estão os crimes dolosos punidos com reclusão, nos termos do inciso I, do precitado dispositivo legal.
+    (…)
+    Segundo o Ministério Público, as empresas participantes dos acordos de corrupção formulados com JOSÉ LUIZ depositavam ou transferiam o valor correspondente à propina à conta bancária da firma PF&PJ ou do representado ANTONIO. Na sequência, emitia-se uma nota fiscal em nome da empresa PF&PJ, simulando a prestação de um serviço de forma a justificar tal transação financeira.
+    O Ministério Público destacou, dentre as envolvidas acima listadas no esquema espúrio, a empresa IVONETE PEREIRA MEIRELES MARINHO – ME.
+    Relatou ter sido apurado que, conquanto registrada em nome de Ivonete Pereira Meireles Marinho, tal firma pertence, de fato, ao ora representado SARQUIS JOSÉ SAMARA, sendo Ivonete apenas uma funcionária deste.
+    O representado SARQUIS seria proprietário, ainda, de outras 5 (cinco) empresas, que compõem o Grupo DUORUM. Algumas de tais empresas estão em seu nome, outras de sua mulher, MARILUCIA DAL ROSS SAMARA, e ainda uma delas em nome de João Candido Pereira Neto, também utilizado como ‘laranja’, e de MARILUCIA, além de duas em nome de Ivonete Pereira Meireles Marinho. Segundo o Ministério Público, tais empresas teriam por único objetivo a ‘lavagem’ ou ocultação de valores.
+    No respeitante à empresa IVONETE PEREIRA MEIRELES MARINHO – ME, o Ministério Público juntou aos autos declarações do contador do grupo econômico em questão, Hederson Flávio Bueno, nas quais este assevera ser ela utilizada para a sonegação fiscal.
+    O declarante esclareceu que, conquanto seu proprietário de fato seja SARQUIS JOSÉ SAMARA, a empresa está registrada em nome de uma funcionária com a finalidade de reduzir a incidência tributária.
+    (...)
+    Ressaltou, ainda, que a mulher de SARQUIS, a também representada MARILUCIA, era quem ficava à frente da compra de mercadorias sem a emissão de notas fiscais, em ato de sonegação fiscal.
+    O Ministério Público revelou, ainda, que, segundo as declarações de um ex-funcionário da empresa DUORUM, após a prisão de Luiz Antônio de Souza em março deste ano, SARQUIS determinou a seus funcionários a ocultação e queima de diversos documentos.
+    Salientou, também, ter SARQUIS tentado ocultar parte do patrimônio adquirido fruto de lavagem de valores que, em tese, efetuava juntamente com JOSÉ LUIZ. Relatou ter sido identificado, nos extratos bancários da empresa PF&PJ, do representado ANTONIO PEREIRA JÚNIOR, ter este transferido da conta da empresa para uma pessoal o montante de R$ 160.000,00 (cento e sessenta mil reais), utilizado na compra de um carro.
+    Alguns meses depois, o veículo foi vendido ao representado SARQUIS, que o registrou em nome da empresa IVONETE PEREIRA MEIRELES MARINHO M.E. No entanto, com o trâmite de medidas cautelares junto à 2ª Vara da Fazenda Pública desta comarca, que alcançariam suas empresas, o requerido em questão transferiu o carro a João Cândido Pereira Neto.
+    Este, por sua vez, como já visto, é coproprietário de algumas das empresas do grupo DUORUM, sendo verdadeiro ‘sócio-laranja’, segundo o Ministério Público.
+    (...)
+    A prisão também é o único meio seguro para a apuração dos fatos de forma eficiente, inclusive a colheita de provas em juízo, sem a interferência dos supostos autores dos fatos que, soltos, inevitavelmente, organizados que são, disporão de meios para obnubilar as formas de obtenção das provas e a oitiva de testemunhas (conveniência da instrução criminal).
+    Exemplos concretos disso foram as declarações acostadas de um ex funcionário do grupo empresarial do requerido SARQUIS informando a mobilização de outros funcionários de suas empresas, a mando do referido investigado, para DESTRUIR e OCULTAR DOCUMENTOS, iniciativa tomada após a prisão preventiva de Luiz Antonio de Souza.
+    Da mesma forma em relação à tentativa de ocultar um bem havido em seu nome, também por parte do referido representado, após dar-se conta do iminente cumprimento de medidas cautelares em diversas empresas desta Comarca envolvendo a organização criminosa em questão.” (eDOC. 17)
+    Ante o exposto, indefiro o presente pedido de extensão de medida liminar.
+    Publique-se.
+    Brasília, 18 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
