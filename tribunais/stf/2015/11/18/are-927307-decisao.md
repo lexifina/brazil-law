@@ -1,0 +1,27 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Turma da Fazenda do Colégio Recursal de Araçatuba/Estado de São Paulo, assim ementado:
+    “APOSENTADORIA – PRAZO QUINQUENAL DE CARÊNCIA NO CARGO – ART. 40, PARÁGRAFO 1°, INCISO III, CR/88 – CLASSE QUE NÃO SE CONFUNDE COM CARGO – PROCEDÊNCIA DO PEDIDO – DESPROVIMENTO DO RECURSO.”
+    Opostos embargos de declaração, foram providos para sanar a omissão quanto aos índices de correção monetária e juros de mora.
+    No recurso extraordinário, sustenta-se violação dos artigo 40, §1º, inciso III, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    Colhe-se do voto condutor do acórdão recorrido:
+    “(...)
+    Como se observa da leitura dos dispositivos, exige-se que o servidor tenha cinco anos de exercício no cargo efetivo que se dará a aposentadoria. Desta forma, não há que se confundir cargo com classe.
+    (…)
+    Nessas circunstâncias, não se sustenta a tese defensiva baseada na exigência de a parte autora completar cinco anos de efetivo exercício na classe em que se encontrava no momento de sua aposentadoria.
+    Assim, tendo cumprido todos os requisitos para a aposentadoria com proventos integrais, não se mostra correto o pagamento do benefício de acordo com classe inferior àquela em que se encontrava no momento da aposentação.”
+    Verifica-se que o entendimento firmado está em sintonia com jurisprudência do Supremo Tribunal Federal no sentido de que é inaplicável a exigência do prazo de cinco anos previsto no artigo 40, § 1º, inciso II, da Constituição da República para fins de aposentadoria nos casos em que não ocorre ascensão a cargo diverso do efetivo, mas tão somente promoção no mesmo cargo para classe distinta. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROMOÇÃO NO MESMO CARGO PARA CLASSE DISTINTA. INEXISTÊNCIA DE CONTRADIÇÃO AO ART. 40, § 1º, III, DA CONSTITUIÇÃO. PRECEDENTES. A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que ‘a promoção por acesso de servidor constitui forma de provimento derivado e não representa ascensão a cargo diferente daquele em que já estava efetivado’ (AI 768.895, Rel.ª Min.ª Cármen Lúcia). Desse modo, a aposentadoria de servidor público promovido no mesmo cargo, mas em classe distinta, não está condicionada ao prazo de 5 anos estabelecido no art. 40, § 1º, III, da Constituição. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento.” (RE 590.762/RS-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 2/2/2015).
+    “Agravo regimental em agravo de instrumento. 2. Promoção retroativa. 3. Jurisprudência pacífica do Supremo Tribunal Federal. 4. Promoção por acesso do servidor constitui forma de provimento derivado e não implica ascensão a cargo diferente daquele em que o servidor já estava efetivado. 5. Inaplicável o prazo de cinco anos de efetivo exercício no cargo para o cálculo dos proventos de aposentadoria (art. 40, § 1º, III, da Constituição Federal). 6. Agravo regimental a que se nega provimento.” (AI 813.763/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 17/2/2011)
+    No mesmo sentido, as seguintes decisões monocráticas: ARE 893.226/SP, Relator o Ministro Luiz Fux, DJe 3/8/2015; ARE 890.214/SP, Relatora a Ministra Rosa Weber, DJe 29/5/2015.
+    Por outro lado, esta Corte, ao examinar o outro tema devolvido no recurso extraordinário, concluiu pela existência da repercussão geral da matéria constitucional versada nestes autos ao examinar RE nº 870.947/SE. O assunto corresponde ao tema 810 da Gestão por Temas da Repercussão Geral do portal do STF na internet e trata da “validade, ou não, da correção monetária e dos juros moratórios incidentes sobre condenações impostas à Fazenda Pública segundo os índices oficiais de remuneração básica da caderneta de poupança (Taxa Referencial – TR), conforme determina o art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009”.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário no que tange à alegada aplicabilidade do art. 40, § 1º, inciso III, da Constituição Federal ao caso dos autos, e no tocante à aplicação dos juros moratórios e correção monetária previstos no artigo 1º-F da Lei nº 9.494/97, com a redação da Lei nº 11.960/09, determino a devolução dos autos ao Tribunal de origem para que seja aplicado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 18 de novembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
