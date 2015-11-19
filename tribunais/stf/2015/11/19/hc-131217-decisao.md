@@ -1,0 +1,25 @@
+Decisão:
+ementa: Processual penal. Habeas corpus substitutivo. Contrabando. Suspensão condicional do processo. Ausência de ilegalidade ou abuso de poder.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Leopoldo de Arruda Raposo, Desembargador Convocado do TJ/PE, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. FALSO TESTEMUNHO. SUSPENSÃO CONDICIONAL DO PROCESSO. CONDIÇÕES. PRESTAÇÃO PECUNIÁRIA. ADEQUAÇÃO E PROPORCIONALIDADE. ILEGALIDADE NÃO EVIDENCIADA. DESPROVIMENTO DO RECLAMO.
+    1. Além daquelas obrigatórias previstas nos incisos do § 1º do artigo 89 da Lei 9.099/1995, é facultada a proposta, pelo Ministério Público, bem como a imposição, pelo juiz, de outras condições para a concessão da suspensão do processo, desde que adequadas ao fato e à situação pessoal do acusado, em estrita observância aos princípios da adequação e da proporcionalidade.
+    2. A prestação pecuniária ou de serviços à comunidade constituem legítimas condições da suspensão condicional do processo, que podem ser estabelecidas pelo órgão acusatório e fixadas pelo magistrado nos termos do artigo 89, § 2º, da Lei 9.099/1995.
+    3. Recurso desprovido.”
+    2. Extrai-se dos autos que o paciente foi denunciado pelo crime previsto no artigo 334, § 1º, alíneas “b” e “d”, do Código Penal c/c os artigos 2º e 3º do Decreto-Lei nº 399/1968.
+    3. Ao oferecer a denúncia, o Ministério Público propôs a suspensão do processo, mediante o cumprimento de algumas condições, dentre as quais a doação de 1/3 (um terço) da quantia da fiança recolhida para a liberdade provisória em favor de uma instituição beneficente.
+    4. A defesa, contudo, não aceitou a proposta feita pelo órgão acusatório, por entender que a prestação pecuniária não pode ser utilizada como condição para a obtenção do sursis. Motivo pelo qual foi impetrado habeas corpus no Tribunal Regional Federal da 4ª Região.
+    5. Denegada a ordem, foi interposto recurso ordinário no Superior Tribunal de justiça, não provido.
+    6. Neste habeas corpus, a parte impetrante sustenta “ser incabível a prestação pecuniária como condição para a obtenção do sursis, uma vez que tal medida teria caráter de pena e não de condição, o que é inviável na esteira da suspensão condicional do processo”. Daí o pedido de concessão da ordem “para excluir a prestação de serviços à comunidade como condição facultativa do sursis processual”.
+    Decido.
+    7. O habeas corpus não deve ser conhecido.
+    8. A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso extraordinário, previsto no art. 102, III, da Constituição Federal (HC 110.055, Rel. Min. Marco Aurélio, HC 106.158, Rel. Min. Dias Toffoli, e HC 118.568, Rel.ª Min.ª Rosa Weber). A hipótese, portanto, é de extinção do processo sem resolução do mérito por inadequação da via processual.
+    9. Não é caso de concessão da ordem de ofício.
+    10. O Supremo Tribunal Federal já decidiu que “Não é inválida a imposição, como condição para a suspensão condicional do processo, de prestação de serviços ou prestação pecuniária, desde que ‘adequadas ao fato e à situação pessoal do acusado’ e fixadas em patamares distantes das penas decorrentes de eventual condenação. Precedentes. A imposição das condições previstas no § 2º do art. 89 da Lei 9.099/95 fica sujeita ao prudente arbítrio do juiz, não cabendo revisão em habeas corpus, salvo se manifestamente ilegais ou abusivas” (HC 123.324, Relª. Minª. Rosa Weber).
+    11. No caso de que se trata, não vejo teratologia, ilegalidade flagrante ou abuso de poder na imposição de prestação pecuniária como condição para a suspensão condicional do processo. As peças que instruem estes autos revelam que “as condições guardam estrita correspondência com a conduta delitiva atribuída ao recorrente, preso em flagrante sob suspeita de transportar ilegalmente grande quantidade de mercadoria estrangeira, a saber 120.000 maços de cigarros da marca “GUDANG GARAM”, 200 videogames, 2.780 óculos de grau, 16.628 óculos de sol e 180 memory card, avaliados em R$ 154.251,16, sendo que, segundo o Demonstrativo Presumido de Tributos, o total de tributos federais incidentes (II + IPI) é de R$ 79.610,82 (denúncia)....”
+    12. Ademais, conforme destacou o Superior Tribunal de Justiça, “a prestação pecuniária proposta pelo órgão acusatório não possui caráter de pena, pois não envolve nenhuma medida penal, tratando-se de mera condição, com natureza jurídica diversa, de cunho pedagógico, ainda que utilizados alguns institutos afetos às sanções penais alternativas à prisão, representando, outrossim, restrições de suma relevância para o sucesso da suspensão condicional do processo”.
+    13. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 19 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
