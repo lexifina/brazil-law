@@ -1,0 +1,32 @@
+DECISÃO
+DENÚNCIA. DEPUTADA FEDERAL. CRIME DO ART. 168, § 1º, INC. III, DO CÓDIGO PENAL. PARECER DA PROCURADORIA-GERAL DA REPÚBLICA PELO RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. ARQUIVAMENTO DETERMINADO.
+Relatório
+    1. Ação penal proposta pelo Ministério Público do Amapá contra Josevaldo Araújo Nascimento, João Mariano do Nascimento e Joziane Araújo Nascimento Rocha, esta última empossada no cargo de deputada federal em 1º.2.2015, imputando-lhes a prática do crime previsto no art. 168, § 1º, inc. III, na forma dos arts. 29 e 71, todos do Código Penal.
+    2. Em 7.11.2014, foi publicada a sentença do Juízo da Terceira Vara Criminal e de Auditoria Militar da Comarca de Macapá pela qual os Réus foram condenados à pena de 1 (um) ano, 9 (nove) meses e 10 (dez) dias de reclusão e 17 (dezessete) dias-multa, sobre a qual incidiu a fração de aumento de pena em um terço,
+     “tendo em vista a configuração da continuidade delitiva (artigo 71 do Código Penal) e a quantidade de apropriações indevidas (…) considerando a pluralidade das condutas – transferências indevidas – e vítimas – vários cooperados, tornando[-se] definitiva [a pena] em 02 (dois) anos, 04 (quatro) meses e 13 (treze) dias dias de reclusão e 20 (vinte) dias multa” (fls. 447-460).
+    3. Contra a sentença condenatória os denunciados interpuseram recursos de apelação (fls. 474 e 475-476), valendo-se do direito de apresentarem as razões perante o Tribunal de Justiça, nos termos do art. 600, § 4º, do CPP.
+     4. Em 26.2.2015, o Tribunal de Justiça do Amapá reconheceu ter sido a Ré Joziane Araújo Nascimento Rocha “diplomada Deputada Federal, no dia 18 de dezembro de 2014”, pelo que determinou “a remessa dos autos ao Supremo Tribunal Federal” (fls. 489-490).
+    5. Em 5.11.2015, determinei,
+    (a) “com fundamento no art. 80 do CPP, o desmembramento do processo, devendo permanecer no Supremo Tribunal os autos originais para o julgamento da apelação interposta pela Deputada Federal Joziane Araújo Nascimento Rocha”, e (b) “o encaminhamento dos autos ao Procurador-Geral da República para se manifestar, em contrarrazões [de apelação], no prazo de oito dias” tendo em vista que “a Deputada Federal Joziane Araújo Nascimento Rocha [já havia] apresentado as razões de apelo às fls. 529-538, postulando, exclusivamente, o reconhecimento da prescrição”.
+    6. Em 12.11.2015, o Ministério Público Federal se manifestou nos seguintes termos:
+    “De fato, o feito encontra-se fulminado pela prescrição.
+    Finda a instrução criminal, Joziane Araújo Nascimento Rocha fora sentenciada a pena de 2 (dois) anos, 4 (quatro) meses e 13 (treze) dias de reclusão, sendo a pena-base fixada em 1 (um) ano e 4 (quatro) meses de reclusão. Ante a incidência da hipótese prevista no art. 168, §1º, III, do Código Penal, a pena-base foi aumentada em um terço. Em função da continuidade delitiva (art. 71 do CP), a pena-base foi novamente aumentada em um terço (fls. 456/457).
+    A Súmula/STF n. 497 preconiza que o acréscimo decorrente da continuidade delitiva não é computado para fins de cálculo da prescrição. Assim, na hipótese, deve-se considerar a pena de 1 (um) ano, 9 (nove) meses e 10 (dez) dias de reclusão, conforme art. 110, §1º, do Código Penal. Desse modo, o prazo prescricional, a teor do art. 109, V, do Código Penal, é de 4 (quatro) anos.
+    Ocorre que entre a data do recebimento da denúncia e a data da publicação da sentença condenatória, únicos marcos interruptivos da prescrição, transcorreu lapso temporal superior a 6 (seis) anos. Com efeito, a prescrição da pretensão punitiva operou-se antes mesmo do deslocamento superveniente da competência jurisdicional ao Supremo Tribunal Federal.
+    Ante o exposto, forte no art. 61 do Código de Processo Penal, a Procuradora-Geral da República em exercício manifesta-se pela extinção da punibilidade da ré Joziane Araújo Nascimento Rocha” (fls. 551-554 – grifos nossos).
+    Analisados os elementos havidos nos autos, DECIDO.
+    7. A denúncia oferecida contra a Deputada Federal Joziane Araújo Nascimento Rocha foi recebida pelo Juízo da Terceira Vara Criminal e de Auditoria Militar da Comarca de Macapá em 27.2.2008 (fl. 209).
+    8. A sentença condenatória foi publicada, conforme andamento processual retratado à fl. 482, em 7.11.2014, isto é, mais de seis anos após o recebimento da denúncia.
+    9. A pena aplicada foi de 1 (um) ano, 9 (nove) meses e 10 (dez) dias de reclusão, o que baliza o lapso prescricional em 4 (quatro) anos, como se dispõe no art. 109, inc. V, do Código Penal:
+    “Art. 109 – A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no §1º do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se:
+    (…)
+    V – Em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois”.
+    10. A causa de aumento de pena referente à continuidade delitiva (art. 71 do Código Penal) pela qual se determinou o aumento da sanção em um terço não serve para alterar o lapso prescricional acima referido, como ressaltado pelo Ministério Público, porque, “quando se trata de crime continuado, a prescrição regula-se pela pena imposta na sentença, não se computando o acréscimo decorrente da continuação” (Súmula n. 497 do STF).
+    11. Na espécie em exame, entre a data de recebimento da denúncia e a publicação da sentença transcorreu prazo superior a 4 quatro anos, impondo-se, como sustenta o Ministério Público Federal, o reconhecimento da prescrição da pretensão punitiva estatal.
+    12. Destaque-se que a prescrição, segundo entendimento deste Supremo, é “matéria de ordem pública (CPP, art. 61), que poderá ser arguida a tempo e reconhecida em qualquer instância ou Tribunal, de ofício, inclusive (CPP, art. 654, §2º)” (AI n. 600500 AgR-ED/MG, Relator o Ministro Ricardo Lewandowski, DJe 09/12/2013).
+    13. Pelo exposto, atendendo a requerimento do Ministério Público, reconheço a prescrição da pretensão punitiva e declaro extinta a punibilidade da denunciada Joziane Araújo Nascimento Rocha, pelo fato narrado na denúncia, com fundamento nos arts. 107, inc. IV, e 109, inc. V, do Código Penal, além do art. 3º, inc. II, da Lei n. 8.038/1990 c/c art. 21, inc. XV, e art. 231, § 4º, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Transitada em julgado esta decisão, arquive-se.
+    Brasília, 19 de novembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
