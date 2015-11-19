@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado:
+    “TRIBUTÁRIO. EXECUÇÃO FISCAL. TAXA DE LOCALIZAÇÃO E FUNCIONAMENTO. COBRANÇA ANUAL. CONSTANTE EXERCÍCIO DO PODER DE POLÍCIA. POSSIBILIDADE. PRECEDENTES DO STF E DO STJ.
+    1. A Taxa de Localização e Funcionamento é anualmente cobrada em razão do constante exercício do poder de polícia pela municipalidade, devendo ser rechaçada a argumentação da Embargante de que a cobrança só deveria ocorrer uma única vez, pois verificada a continuidade da ocorrência do fato gerador da exação.
+    2. Desa modo, não pode o poder de polícia se exaurir coma concessão da licença para a localização de estabelecimento, pois sempre que necessário deve o Embargado fiscalizar os estabelecimentos comerciais.”
+    O recurso busca fundamento no artigo 102, III, a, c, e d, da Constituição Federal. A parte recorrente alega violação ao art. 145, § 2°, da Carta. Sustenta, em síntese, que a taxa municipal adotou como critério quantitativo base de cálculo estranha ao custo do serviço, qual seja, o número de empregados do estabelecimento.
+    A pretensão merece acolhida. É firme o entendimento desta Corte no sentido de que não se pode admitir a utilização do número de empregados como critério válido para fixação da base de cálculo das taxas de funcionamento e fiscalização instituídas pelos municípios. Na mesma linha, confiram-se os seguintes precedentes:
+    “Recurso Extraordinário. Taxa de Licença para Localização, Funcionamento e Instalação (TLIF). Base de cálculo. Número de empregados. Dado insuficiente para aferir o efetivo Poder de Polícia. Artigo 6º da Lei nº 9.670/83. Inconstitucionalidade. Jurisprudência pacífica da Corte.
+          1. A taxa é um tributo contraprestacional (vinculado) usado na remuneração de uma atividade específica, seja serviço ou exercício do poder de polícia e, por isso, não se atém a signos presuntivos de riqueza. As taxas comprometem-se tão somente com o custo do serviço específico e divisível que as motiva, ou com a atividade de polícia desenvolvida.
+          2. A base de cálculo proposta no art. 6º da Lei nº 9.670/83 atinente à taxa de polícia se desvincula do maior ou menor trabalho ou atividade que o Poder Público se vê obrigado a desempenhar em decorrência da força econômica do contribuinte. O que se leva em conta, pois, não é a efetiva atividade do Poder Público, mas, simplesmente, um dado objetivo, meramente estimativo ou presuntivo de um ônus à Administração Pública.
+          3. No tocante à base de cálculo questionada nos autos, é de se notar que, no RE 88.327/SP, Rel. Min. Décio Miranda (DJ 28/9/79), o Tribunal Pleno já havia assentado a ilegitimidade de taxas cobradas em razão do número de empregados. Essa jurisprudência vem sendo mantida de forma mansa e pacífica.
+    4. Recurso extraordinário não provido.” (RE 554.951, Rel. Min. Dias Toffoli)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. Taxa de fiscalização de localização, instalação e funcionamento. Lei municipal 9.670/83. Base de cálculo. Número de empregados. Impossibilidade. Precedentes. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 803.725-AgR, Rel. Min. Gilmar Mendes)
+    Diante do exposto, com base no art. 557, § 1º-A, do CPC, e no art. 21, § 1º, do RI/STF, dou provimento ao recurso extraordinário para reconhecer a impossibilidade de cobrança da taxa de funcionamento e fiscalização com base no número de empregados do estabelecimento. Invertidos os ônus de sucumbência fixados na origem.
+    Publique-se.
+          Brasília, 19 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
