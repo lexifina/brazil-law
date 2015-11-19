@@ -1,0 +1,23 @@
+Decisão:
+ementa: Processual penal. Habeas corpus contra ato de Ministro do STJ. Prisão preventiva. Deficiência na instrução do writ. Ausência de flagrante ilegalidade.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão do Ministro Rogerio Schietti Cruz, que indeferiu liminarmente o HC 340.215, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que a paciente, presa temporariamente em 02.07.2015, foi denunciada pelo crime de tráfico de entorpecentes. O Juízo de origem converteu a prisão temporária em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a liminar, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 340.215, Ministro Rogerio Schietti Cris, indeferiu liminarmente o writ por entender inviável a supressão de instância pretendida pela defesa.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência dos requisitos necessários à decretação da custódia preventiva. Alega que “a paciente está grávida, em estágio avançado de gravidez (ou mesmo, já teve o bebê, o que ainda não foi noticiado à Defensoria Pública), sendo certo que a manutenção da GESTANTE em estado avançado de gestação no ambiente prisional afronta a razoabilidade e a dignidade da pessoa humana”. Daí o pedido de concessão da ordem para que seja revogada a prisão preventiva ou substituída a custódia cautelar pela prisão domiciliar.
+    Decido.
+    5. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via processual (HC 115.659, Rel. Min. Luiz Fux).
+    6. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    7. É certo que o artigo 318, incisos III e IV, do Código de Processo Penal prevê a possibilidade da substituição da prisão preventiva pela domiciliar, nas seguintes hipóteses:
+    “Art. 318. Poderá o juiz substituir a prisão preventiva pela domiciliar quando o agente for: (Redação dada pela Lei nº 12.403, de 2011).
+    (...)
+    III - imprescindível aos cuidados especiais de pessoa menor de 6 (seis) anos de idade ou com deficiência;
+    IV - gestante a partir do 7º (sétimo) mês de gravidez ou sendo esta de alto risco.”
+    8. Contudo, o parágrafo único do mesmo dispositivo estabelece que, “para a substituição, o juiz exigirá prova idônea dos requisitos estabelecidos neste artigo”.
+    9. No caso, a petição inicial do habeas corpus não foi instruída com cópia de peças que permitam a comprovação dos requisitos necessários à substituição da prisão preventiva pela domiciliar. De modo que sequer seria possível avançar na análise sobre a eventual concessão da ordem de ofício, até mesmo porque as teses defensivas ainda não foram examinadas nas instâncias judicantes competentes (TJ/SP e STJ).
+    10.  Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 19 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
