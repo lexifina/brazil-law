@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 4ª Região que concluiu que a recorrente deve efetuar a matrícula da recorrida em curso superior da Universidade Federal de Santa Maria, em vaga destinada a candidatos oriundos de escolas públicas, pelo “Sistema Cidadão Presente C”. O acórdão recorrido foi assim ementado (fl. 109):
+    “ADMINISTRATIVO. CONCURSO VESTIBULAR. COTAS SOCIAIS.
+    A política pública por resolução universitária não poderia afrontar relevante e fundamental postulado expressamente consagrado pela Constituição, qual seja o mérito acadêmico, que aqui, inobservado, atingiu o direito subjetivo da estudante.”
+    Os embargos de declaração foram acolhidos parcialmente para fins de prequestionamento (fls. 121-122).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 2º; 5º, caput e LIV; 37; 206, I; e 207 do Texto Constitucional.
+    Sustenta-se, inicialmente, negativa de prestação jurisdicional e falta de fundamentação do acórdão recorrido, que teria mantido os vícios apontados nos embargos de declaração. Ademais, alega-se que o Tribunal desconsiderou a previsão contida no Edital do processo de seleção, que estabelece que o candidato somente poderia concorrer às vagas destinadas aos estudantes de escolas públicas se tivesse cursado todo o ensino fundamental e ensino médio em estabelecimentos dessa natureza. Aduz-se, também, ofensa ao princípio da isonomia, visto que estaria dando à recorrida tratamento diverso do que dispensado aos demais candidatos do certame.
+    Decisão de admissibilidade do recurso extraordinário às fls. 208/209.
+    É o relatório. Decido.
+    O Tribunal de origem, analisando as peculiaridades do caso e as provas constantes dos autos, assentou no acórdão recorrido (fls. 108v):
+    “No caso em tela, a estudante Eitchele Fernandes César cursou apenas 1 (um) ano do ensino fundamental em estabelecimento privado (a segunda série). Assim, dos onze anos letivos (Fundamental e Médio) cursou apenas um em rede particular. Não teve direito ao privilégio da cota social, pois não se enquadrou na regra segundo a qual o estudante deve cursar exclusivamente em escolas públicas o ensino fundamental e médio para concorrer às vagas relativas à cota social.
+    No que tange à razoabilidade, não é possível admitir que a autora não possa matricular na faculdade, mesmo sendo aprovada no vestibular, inclusive no 3º lugar da classificação geral, pelo fato de ter cursado uma única série de sua infância no ensino privado.
+    Aceitando, para argumentar, possa ser implantada a política pública por mera resolução universitária, não poderia afrontar relevante e fundamental postulado expressamente consagrado pela Constituição, qual seja o mérito acadêmico, que aqui, inobservado, atingiu o direito subjetivo da estudante.
+    Portanto,, tem a autora, ora apelada, mérito suficiente para o ingresso no ensino superior.”
+    Sendo esses os fundamentos acolhidos, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ademais, inexiste a alegada violação do art. 5º, XXXV, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente prestou jurisdição.
+    Ressalta-se que o Supremo Tribunal Federal já assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário (RE-RG 748.371, da relatoria do Min. Gilmar Mendes, DJ e 1º.08.2013).
+    Além disso, não prospera a alegada ofensa ao art. 93, IX da Constituição Federal. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do Recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos arts. 557, caput, do CPC e 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 19 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
