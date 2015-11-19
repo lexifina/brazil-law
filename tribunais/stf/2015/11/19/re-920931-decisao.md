@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão 14ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO – Ação declaratória cumulada com repetição de indébito – Contribuição para custeio do serviço de iluminação pública. Sentença procedente. Exação indevida. Serviço que deve ser custeado pela receita proveniente da arrecadação de impostos, não obstante a inclusão do art. 149-A, da CF, pela EC n° 39/02. Recurso não provido.
+    Matéria de ordem pública – Aplicação da Lei n° 11.960/09. Descabimento. Decisão do STF reconhecendo a inconstitucionalidade da expressão “índice oficial de remuneração básica da caderneta de poupança”, contida no § 12, do artigo 100 da Constituição da República. Incidência de juros moratórios à razão de 1% ao mês e correção monetária segundo a Tabela Prática do TJSP (INPC).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 145, § 2°; 149-A; e 150, II, todos da Carta. Sustenta, em síntese, que é inequívoca a constitucionalidade da Lei Complementar nº 134/2003, bem como da Lei Complementar nº 170/2006, mantendo-se a decisão com relação à Lei Complementar nº 198/2008, por conseguinte, autorizando a cobrança do referido tributo em tais exercícios.
+    O Plenário do Supremo Tribunal Federal, no julgamento do RE 573.675-RG, de Ministro Ricardo Lewandowski, reconheceu a repercussão geral do tema em exame e assentou que a contribuição para custeio do serviço de iluminação pública constitui, dentro do gênero tributo, um novo tipo de contribuição que não se confunde com taxa ou imposto. Nessas condições, concluiu pela constitucionalidade de sua cobrança. Confira-se a ementa da decisão:
+    “CONSTITUCIONAL. TRIBUTÁRIO. RE INTERPOSTO CONTRA DECISÃO PROFERIDA EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE ESTADUAL. CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA - COSIP. ART. 149-A DA CONSTITUIÇÃO FEDERAL. LEI COMPLEMENTAR 7/2002, DO MUNICÍPIO DE SÃO JOSÉ, SANTA CATARINA. COBRANÇA REALIZADA NA FATURA DE ENERGIA ELÉTRICA. UNIVERSO DE CONTRIBUINTES QUE NÃO COINCIDE COM O DE BENEFICIÁRIOS DO SERVIÇO. BASE DE CÁLCULO QUE LEVA EM CONSIDERAÇÃO O CUSTO DA ILUMINAÇÃO PÚBLICA E O CONSUMO DE ENERGIA. PROGRESSIVIDADE DA ALÍQUOTA QUE EXPRESSA O RATEIO DAS DESPESAS INCORRIDAS PELO MUNICÍPIO. OFENSA AOS PRINCÍPIOS DA ISONOMIA E DA CAPACIDADE CONTRIBUTIVA. INOCORRÊNCIA. EXAÇÃO QUE RESPEITA OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO EXTRAORDINÁRIO IMPROVIDO.
+    I - Lei que restringe os contribuintes da COSIP aos consumidores de energia elétrica do município não ofende o princípio da isonomia, ante a impossibilidade de se identificar e tributar todos os beneficiários do serviço de iluminação pública.
+    II - A progressividade da alíquota, que resulta do rateio do custo da iluminação pública entre os consumidores de energia elétrica, não afronta o princípio da capacidade contributiva.
+    III - Tributo de caráter sui generis, que não se confunde com um imposto, porque sua receita se destina a finalidade específica, nem com uma taxa, por não exigir a contraprestação individualizada de um serviço ao contribuinte.
+    IV - Exação que, ademais, se amolda aos princípios da razoabilidade e da proporcionalidade.
+    V - Recurso extraordinário conhecido e improvido.”
+    Dessa orientação divergiu o acórdão recorrido.
+    Nesse sentido, confiram-se os precedentes a seguir: RE 917.870/SP, Rel. Min. Luiz Fux; RE 879.190/SP, Rel.ª Min.ª Cármen Lúcia; e RE 809.080/SP, Rel. Min. Teori Zavaski.
+    Diante do exposto, com base no art. 557, § 1º-A, do CPC e no art. 21, § 1º, do RI/STF, dou provimento ao recurso extraordinário. Ficam invertidos os ônus sucumbenciais fixados na origem.
+    Publique-se.
+          Brasília, 19 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
