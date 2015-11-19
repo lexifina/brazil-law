@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. MUNICÍPIO DE MOGI DAS CRUZES - SP. IMUNIDADE TRIBUTÁRIA RECÍPROCA. BENS IMÓVEIS ADQUIRIDOS NO ÂMBITO DO PROGRAMA DE ARRENDAMENTO RESIDENCIAL - PAR. FUNDO DE ARRENDAMENTO RESIDENCIAL - FAR. LEI Nº 10.188/2001. CONTROVÉRSIA A RESPEITO DA TITULARIDADE DOS BENS. UNIÃO OU CAIXA ECONÔMICA FEDERAL. INTERPRETAÇÃO DAS NORMAS INFRACONSTITUCIONAIS DE REGÊNCIA. IMPOSSIBILIDADE. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário interposto com fundamento na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. IMÓVEL AFETO AO PROGRAMA DE ARRENDAMENTO RESIDENCIAL. CEF. IPTU. IMUNIDADE.
+    I. Da análise da Lei n. 10.188/01, infere-se que o Ministério das Cidades, Órgão desconcentrado do Poder Executivo Federal, é o gestor do Programa de Arrendamento Residencial. Além disso, os bens imóveis afetos ao Programa integram o patrimônio da União.
+    II. Os bens e direitos da União são insuscetíveis de tributação, sendo esse o regramento aplicável quanto a tais recursos, ainda que revertidos na aquisição dos bens imóveis pela Gestora, a CEF, uma vez em nenhum momento haver seu destacamento do patrimônio da União, como expressamente disposto pela legislação reguladora do tema.
+    III. Portanto, os imóveis destinados ao PAR constituem patrimônio da União, apenas destacado para afetação à finalidade pública preconizada pela citada Lei nº 10.188/01, sendo ilegítima a cobrança posta quanto ao IPTU, face à imunidade prevista no artigo 150, VI, "a", da CF/88.
+    V. Apelação desprovida.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 150, VI, a, e 173 da Constituição Federal. Alega que a verdadeira proprietária dos bens imóveis em questão seria a Caixa Econômica Federal, que não faz jus à imunidade tributária recíproca, por ser empresa pública.
+    O Superior Tribunal de Justiça negou seguimento ao recurso especial.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (artigo 102, § 3º, da CF).
+    O recurso não merece provimento.
+    A argumentação do recorrente sobre a inaplicabilidade da imunidade tributária recíproca ao caso dos autos parte de premissa que envolve a definição da propriedade dos bens imóveis para se estabelecer a legitimidade passiva do IPTU que recairia sobre eles. Ocorre que essa questão foi decidida à luz da interpretação de normas infraconstitucionais (especialmente a Lei nº 10.188/2001), de forma que eventual ofensa à Constituição Federal seria meramente indireta e reflexa, o que inviabiliza o exame da matéria na via estreita do recurso extraordinário. Incide, mutatis mutandis, o óbice da Súmula nº 636 do STF, verbis: “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nesse sentido, menciono os seguintes julgados: ARE 758.337-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 25/11/2013; RE 589.463-ED, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 2/4/2012; AI 710.615-ED, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 27/11/2009; AI 279.070-AgR, Rel. Min. Ellen Gracie, Primeira Turma, DJ de 21/6/2002.
+    Adotando esse entendimento em situações análogas à dos autos, destaco os seguintes precedentes: RE 899.545, Rel. Min. Edson Fachin, DJe de 28/9/2015; RE 899.391, Rel. Min. Roberto Barroso, DJe de 12/8/2015; RE 893.907, Rel. Min. Dias Toffoli, DJe de 20/8/2015; RE 888.977, Rel. Min. Rosa Weber, DJe de 3/8/2015; RE 892.181, Rel. Min. Cármen Lúcia, DJe de 1º/7/2015; e RE 872.105, Rel. Min. Gilmar Mendes, DJe de 25/3/2015.
+    Ex positis, DESPROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de novembro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
