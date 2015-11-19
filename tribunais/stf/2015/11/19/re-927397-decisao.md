@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (eDOC7, p. 1):
+    “SERVIDORA PÚBLICA.
+    1)”CONCURSO PARA O INGRESSO NO MAGISTÉRIO ESTADUAL – EDITAL SED N. 003/2005 – CARGO DE ASSISTENTE TÉCNICO PEDAGÓGICO – LOTAÇÃO NOS ÓRGÃOS DE ADMINISTRAÇÃO DA SECRETARIA DE ESTADO DA EDUCAÇÃO E DO DESPORTO – POSTERIOR MODIFICAÇÃO – EXPEDIÇÃO DA LEI COMPLEMENTAR N. 288/2005 – POSSIBILIDADE DE EXERCÍCIO DO CARGO NAS ESCOLAS DA REDE PÚBLICA ESTADUAL – RETIFICAÇÃO DO EDITAL – ILEGALIDADE DO ATO NÃO COMPROVADO (…).
+    ‘A alteração da lotação para o exercício de cargo objeto de concurso público, por meio de Lei Complementar, retificando o respectivo edital, não dá ensejo à impetrante alegar preterição ao seu direito, uma vez que tal modificação foi efetivada dentro dos contornos da lei. Não havendo prova documental que dê supedâneo aos motivos aventados, incabível reconhecer direito tido como líquido e certo’ (MS n. 2005.023477-8, da Capital, rel. Des. Francisco Oliveira Filho, Grupo de Câmaras de Direito Público, j. 10-5-2006).
+    2 ) DANO MORAL DECORRENTE DO DESVIO DE FUNÇÃO. NÃO COMPROVAÇÃO DO NEXO DE CAUSALIDADE ENTRE AS PATOLOGIAS QUE ACOMETERAM A SERVIDORA E O EXERCÍCIO DAS ATIVIDADES. RECURSO DESPROVIDO.
+    ‘O dano moral caracteriza-se sempre que houver ofensas à honra, ao decoro, à paz interior de cada um, às crenças íntimas, aos sentimentos efetivos de qualquer espécie, à liberdade, à vida e à integridade corporal’ (Wilson de Melo Silva). Porém, ‘propugnar pela mais ampla ressarcibilidade do dano moral não implica no reconhecimento que todo e qualquer melindre, toda suscetibilidade exacerbada, toda exaltação do amor-próprio pretensamente ferido, a mais suave sombra, o mais ligeiro roçar das asas de uma borboleta, mimos, escrúpulos, delicadezas excessivas, ilusões insignificantes desfeitas, possibilitem sejam extraídas da caixa de Pandora do direito, centenas de milhares de cruzeiros’ ...”
+    Os embargos de declaração foram rejeitados (eDOC13 pp. 1-10).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI, e 37, II, da Constituição Federal.
+    Sustenta-se, em síntese, que lei posterior à homologação de concurso público não pode alterar norma editalícia referente à lotação de candidato aprovado.
+    O recurso extraordinário foi admitido (eDOC18).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, verifica-se que a preliminar de repercussão geral na petição do recurso extraordinário não está devidamente fundamentada, o que é pressuposto de admissibilidade do recurso (art. 543-A, § 2º, do CPC).
+    A simples menção à preliminar de repercussão geral não é capaz de sanar a exigência de sua demonstração, devendo a parte desenvolver argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância do ponto de vista econômico, político, social ou jurídico das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza.
+    Nesse sentido: ARE 858.726-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 16.03.2015; RE 762.114-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 10.08.2015.
+    Apreciando Questão de Ordem no ARE 663.637, o Plenário desta Corte decidiu que não basta a indicação do caso paradigma como demonstrativo da repercussão geral. Mesmo nesses caso a preliminar de repercussão geral deve estar devidamente fundamentada.
+    Ainda que superado o referido óbice, não mereceria prosperar o presente recurso, visto que, conforme se depreende da leitura da ementa do acórdão recorrido, o TJSC com base nos fatos e provas, nas normas do edital do certame e na LCE 288/2005, concluiu que não restou comprovada a ilegalidade referente à modificação operada no edital do certame. Extrai-se da ementa o seguinte trecho:
+    “A alteração da lotação para o exercício de cargo objeto de concurso público, por meio de Lei Complementar, retificando o respectivo edital, não dá ensejo à impetrante alegar preterição ao seu direito, uma vez que tal modificação foi efetivada dentro dos contornos da lei. Não havendo prova documental que dê supedâneo aos motivos aventados, incabível reconhecer direito tido como líquido e certo...”
+    Verifica-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas e das normas editalícias, bem como da LCE 288, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279, 280 e 454 do STF.
+    Ante o exposto, com fulcro nos arts. 557 do Código de Processo Civil e 21, § 1º, do RISTF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de novembro de 2015.
+Ministro Edson Fachin
+Relator
