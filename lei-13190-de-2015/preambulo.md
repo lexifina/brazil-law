@@ -1,0 +1,2 @@
+Altera as Leis nº 12.462, de 4 de agosto de 2011, que institui o Regime Diferenciado de Contratações Públicas - RDC, 7.210, de 11 de julho de 1984, 6.015, de 31 de dezembro de 1973, 8.935, de 18 de novembro de 1994, 11.196, de 21 de novembro de 2005, e 12.305, de 2 de agosto de 2010; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
