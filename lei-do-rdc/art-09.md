@@ -15,3 +15,4 @@ III - (Revogado).
 § 4º Nas hipóteses em que for adotada a contratação integrada, é vedada a celebração de termos aditivos aos contratos firmados, exceto nos seguintes casos:
 I - para recomposição do equilíbrio econômico-financeiro decorrente de caso fortuito ou força maior; e
 II - por necessidade de alteração do projeto ou das especificações para melhor adequação técnica aos objetivos da contratação, a pedido da administração pública, desde que não decorrentes de erros ou omissões por parte do contratado, observados os limites previstos no § 1º do art. 65 da Lei nº 8.666, de 21 de junho de 1993.
+§ 5º Se o anteprojeto contemplar matriz de alocação de riscos entre a administração pública e o contratado, o valor estimado da contratação poderá considerar taxa de risco compatível com o objeto da licitação e as contingências atribuídas ao contratado, de acordo com metodologia predefinida pela entidade contratante.
