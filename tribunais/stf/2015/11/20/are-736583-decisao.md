@@ -1,0 +1,28 @@
+Decisão: À fl. 426, vinculei a questão debatida nos autos ao tema 485 da sistemática da repercussão geral, cujo paradigma é o RE-RG nº 632.853, de minha relatoria, DJe 2.3.2012.
+    O Tribunal de Justiça do Estado de Minas Gerais devolveu os autos ao Supremo Tribunal Federal, apontando que o mencionado paradigma diverge do caso concreto.
+    Compulsando os autos, verifico que, de fato, o presente recurso extraordinário guarda distinções em relação ao paradigma mencionado, motivo pelo qual torno sem efeito a decisão de fl. 426 e passo à análise do recurso extraordinário.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa reproduzo a seguir:
+    “AÇÃO ORDINÁRIA – POLÍCIA MILITAR DE MINAS GERAIS – CONCURSO PÚBLICO – APROVAÇÃO – DIREITO À REMUNERAÇÃO – NECESSIDADE DE INVESTIDURA NO CARGO PÚBLICO. Apesar de aprovados em concurso público, somente com a posse adquire-se a titularidade do cargo, não fazendo ‘jus’ a qualquer remuneração de período anterior ao ato de investidura” (fl. 328)
+    Opostos embargos de declaração, estes foram rejeitados (fl. 344).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida. No mérito, aponta-se ofensa ao princípio da legalidade e da isonomia.
+    Narra-se que o recorrente prestou concurso público para ingresso como soldado da polícia militar de Minas Gerais no ano de 1997, com ingresso no CFSD/97, que exigia nível de ensino fundamental. Todavia, em virtude da greve dos servidores da polícia militar, o concurso foi cancelado. Afirma-se que, em 2001, foi editada a Lei Complementar Estadual nº 62/2001, autorizando que os candidatos aprovados no concurso de 1997 fossem matriculados no CFSD/2002. Todavia, aponta-se que este Curso de Formação exigiu matéria de nível superior, extrapolando os conhecimentos do recorrente, que havia se matriculado num curso de formação (em 1997) que exigia, apenas, o nível fundamental.
+    Defende-se que houve ofensa ao princípio da razoabilidade, uma vez que “não é razoável exigir que um candidato com formação em ensino fundamental tenha bons resultados em um curso em que se cobra conhecimentos de nível médio” (fl. 362).
+    É o relatório.
+    Decido.
+    As razões recursais não merecem prosperar.
+    O Tribunal de Justiça do Estado de Minas Gerais assim decidiu a questão:
+    “Como bem salientado na instância primeira, embora reconhecido o direito do apelante de participar de um novo curso de formação, suprindo a deficiência do ato convocatório daquele realizado em 2002, nenhuma ressalva foi consignada quanto à adequação a sua graduação para o primeiro grau, escolaridade de que aquele é titular.
+    Como se não bastasse, restou incontroverso nos autos que o apelante foi reprovado em matérias que integravam a grade do concurso anterior, relativa à escolaridade primeiro grau.
+    Válido ressalvar, ainda, que o apelante sequer foi nomeado no cargo público, razão por que é indevida a retroação à época por ele pretendida, o que configuraria, inclusive, enriquecimento ilícito.” (fls. 330-331)
+    Nota-se que a questão cinge-se à interpretação dos preenchimento, ou não, dos requisitos do edital, o que atrai a Súmula 454 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXIGÊNCIAS DO EDITAL. PREENCHIMENTO DOS REQUISITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. ÓBICE DA SÚMULA Nº 454 DO STF. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 904621 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 29/09/2015, PROCESSO ELETRÔNICO DJe-205 DIVULG 13-10-2015 PUBLIC 14-10-2015) ”
+    Além do mais, divergir do entendimento adotado quanto ao fato de o recorrente não ter preenchido os requisitos exigidos no curso de formação, inclusive no que concerne aos requisitos de nível fundamental (do qual o recorrente é titular), demandaria o revolvimento do acervo fático-probatório, providência vedada nesta instância extraordinária, a teor da Súmula 279 do STF.
+    Finalmente, quanto ao pagamento das parcelas retroativas, destaco que o Supremo Tribunal Federal, no julgamento do RE-RG nº 724.347, Rel. Min. Marco Aurélio, DJe 13.5.2015, paradigma do tema 671 da sistemática da repercussão geral, assentou o seguinte:
+    “ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. INVESTIDURA EM CARGO PÚBLICO POR FORÇA DE DECISÃO JUDICIAL. 1. Tese afirmada em repercussão geral: na hipótese de posse em cargo público determinada por decisão judicial, o servidor não faz jus a indenização, sob fundamento de que deveria ter sido investido em momento anterior, salvo situação de arbitrariedade flagrante. 2. Recurso extraordinário provido.” (RE 724347, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 26/02/2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-088 DIVULG 12-05-2015 PUBLIC 13-05-2015) ”
+    No caso, todavia, verifica-se que o recorrente sequer foi nomeado no cargo público (fl. 331). Desse modo, seja pelo entendimento adotado pelo Supremo Tribunal Federal no julgamento do referido paradigma, seja pelo fato de o recorrente não ter sido investido no cargo, não procede o pedido de pagamento das parcelas retroativas.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 20 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
