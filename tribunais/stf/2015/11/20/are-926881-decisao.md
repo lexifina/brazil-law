@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. DIREITO DE FILHA SOLTEIRA E COM MAIS DE 21 ANOS DE IDADE PERCEBER PENSÃO POR MORTE COM BASE NA LEGISLAÇÃO LOCAL: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, als. a e d, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - Revisão de ato administrativo de ofício - Prazo decadencial - 10 anos - Inteligência da Lei Estadual n. 10.177/98 – Pensão por morte filha de policial militar - Cancelamento do benefício, com base no artigo 5º da Lei Federal nº 9.717/1998 c.c. art. 16 da Lei Federal nº 8.213/91 - Impossibilidade - Pensão por morte concedida à Impetrante na forma da Lei Estadual vigente à data do óbito do servidor – Direitos previdenciários dos pensionistas assegurados pelo artigo 3º da Lei Complementar nº 1.013/2007 - SENTENÇA MANTIDA - RECURSO DESPROVIDO” (fl. 155, doc. 1).
+    Os embargos de declaração opostos foram rejeitados (fls. 183-188, doc. 1).
+    2. No recurso extraordinário, a Agravante afirma ter o Tribunal de origem contrariado os arts. 24, inc. XII e § 4º, e 42, § 2º, da Constituição da República.
+    Sustenta não ser “possível conceder pensão por morte a filha solteira, ainda diante de antiga previsão estadual, por ausência de correspondente em legislação federal, aplicando-se o artigo 5º da Lei federal n. 9.717/98” (fl. 202-203, doc. 1).
+    Assevera que “não há previsão legal de concessão da pensão por morte além de 21 (vinte e um) anos de idade para filhas solteiras” (fl. 18, doc. 2).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de incidência da Súmula n. 282 do Supremo Tribunal Federal e de ausência de ter o Tribunal Justiça “privilegiado lei local em face da lei federal” (fl. 62, doc. 1).
+    No agravo, salienta-se que a matéria constitucional “vem sendo suscitada ao longo de todo o feito, sendo debatida desde a primeira manifesta da Agravante. Não é admissível falar-se que não houve prequestionamento” (fl. 66, doc. 2).
+    Assevera-se que “durante todo o processo demonstrou-se que a aplicação da Lei estadual 452/74 em detrimento do art. 5º da Lei federal 9.717/98 viola a distribuição de competências fixadas pela Constituição, viso que desde a edição deste último diploma houve a suspensão dos efeitos daquele diploma estadual” (fl. 67, doc. 2).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Tribunal de Justiça assentou:
+    “Verifica-se dos autos que o instituidor da pensão faleceu no dia 04 de março de 2002 (fls. 18), durante a vigência da Lei nº 452/74, com a redação conferida pela suprarreferida Lei Estadual nº 1.069/1976, e, portanto, antes das alterações promovidas pela Lei Complementar nº 1.013/2007, e que, por seu turno, restringiu a concessão do benefício às mesmas hipóteses previstas na legislação do Regime Geral de Previdência Social.
+    Portanto, observado a legislação vigente à época do óbito do servidor público militar, bem como levando-se em consideração o princípio do ‘tempus regict actum’, a Impetrante adquiriu o direito à pensão pela morte de seu pai, não podendo ser atingida pela regra estabelecida em legislação posterior, razão pela qual de rigor o restabelecimento do pagamento” (fls. 158-159, doc. 1).
+    No julgamento do Recurso Extraordinário n. 610.220 (Tema n. 271), Relatora a Ministra Ellen Gracie, este Supremo Tribunal assentou inexistir repercussão geral na questão discutida nestes autos:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO À PENSÃO PARA FILHA SOLTEIRA MAIOR DE 21 ANOS. LEI ESTADUAL 7.672/82 DO RIO GRANDE DO SUL. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO ESTADUAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL” (DJe 4.6.2010).
+    Em caso idêntico aos autos em que a Agravante foi parte:
+    “DIREITO ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. MILITAR. PENSÃO POR MORTE À FILHA SOLTEIRA, MAIOR DE 21 ANOS. LEIS NS. 9.717/1998 E 8.213/1991. PRESCRIÇÃO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 279/STF. PRECEDENTES. 1. Hipótese em que para dissentir do acórdão recorrido com relação ao prazo prescricional seriam necessários o reexame dos fatos e do material probatório constantes dos autos, bem como a análise da legislação infraconstitucional pertinente, procedimentos inviáveis em sede de recurso extraordinário. Precedentes. 2. Ademais, o Supremo Tribunal Federal reconheceu a ausência de repercussão geral quanto ao mérito da controvérsia (RE 610.220-RG, Rel. Min. Ellen Gracie). 3. Embargos de declaração recebidos como agravo regimental a que se nega provimento” (ARE n. 872.431-ED, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 21.5.2015).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos de instrumento que suscitarem a mesma questão constitucional devem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de novembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
