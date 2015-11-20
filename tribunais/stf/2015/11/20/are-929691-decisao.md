@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Superior Tribunal de Justiça, ementado nos seguintes termos:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENSÃO ESTATUTÁRIA POR MORTE. REVERSÃO. FILHO MAIOR. INVALIDEZ SUPERVENIENTE AO ÓBITO DO INSTITUIDOR. NÃO OCORRÊNCIA VERIFICADA NA ORIGEM. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+    1. Conforme dispõe o art. 5º, II, da Lei n. 3.373/58, não faz jus ao benefício de pensão por morte o dependente que tenha apresentado invalidez em período posterior ao óbito do genitor, uma vez que em se tratando de benefício de cunho previdenciário, sua concessão rege-se pelas normas vigentes ao tempo do fato gerador.
+    2. Rever as conclusões do Tribunal de origem, no tocante ao momento em que eclodiu a invalidez, demanda incursão nos aspectos fático-probatórios dos autos, o que é impossível pela via eleita. Incidência da Súmula 7/STJ.
+    3. Agravo regimental a que se nega provimento”. (eDOC 8, p. 77)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 105, III, “a”, do texto constitucional, ao argumento de que “não se trata de reexame de provas, pois, o recurso especial é pautado apenas em matéria de direito e na violação de dispositivos de lei, portanto, o C. Superior Tribunal de Justiça violou o art. 105, III, “a”, da Constituição Federal, impedindo o conhecimento do recurso especial e seu regular julgamento”.
+    O recorrente sustenta que a invalidez permanente é preexistente ao falecimento do instituidor da pensão, motivo pelo qual faz jus ao restabelecimento do benefício.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que esta Corte rejeitou a repercussão geral da discussão acerca dos pressupostos de admissibilidade de recursos de competência de outros Tribunais, por se tratar de matéria de índole infraconstitucional (tema 181) . Confira-se:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608”. (RE-RG 598.365, Rel. Min. AYRES BRITTO, DJe 26.3.2010)
+    Ainda que assim não fosse não assistiria razão ao recorrente.
+    Conforme relatado, o recorrente alega que os problemas mentais permanentes e irreversíveis são preexistentes ao falecimento do instituidor da pensão.
+    Por sua vez, o Tribunal de origem assentou que “os problemas mentais permanentes e irreversíveis iniciaram-se, comprovadamente, a partir de 1997. Portanto, ainda que hoje considerado inválido o autor (para exercer qualquer atividade), não faz jus à pensão deixada por seu pai, pois à época do falecimento, 14/5/1962, ou mesmo próximo da maioridade em 1979, quando completou 21 anos, os problemas mentais poderiam até existir, mas não tinham se manifestado de maneira total e irreversível (...)”. (eDOC 7, p. 89)
+    Nesses termos, verifico que a solução da controvérsia demanda dilação probatória, providência vedada no âmbito do recurso extraordinário, conforme disposto pela Súmulas 279 do STF.
+    Nesse sentido, cito os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Previdenciário. Pensão por morte. Invalidez do viúvo. 3. Reexame de matéria fático-probatória e legislação infraconstitucional, inclusive de índole local. Incidência dos Enunciados 279 e 280 da Súmula do STF. Precedentes. 4. Inovação dos argumentos no agravo regimental. Impossibilidade. Precedentes. 5. Agravo regimental a que se nega provimento”. (ARE-AgR 805.169, de minha relatoria,, Segunda Turma, DJe 25.8.2014)
+    “Segundo agravo regimental no agravo de instrumento. Inadmissibilidade de apreciação de ofensa meramente reflexa, bem como de reexame de fatos e provas dos autos ou de legislação infraconstitucional. 1. Inadmissível, em recurso extraordinário, a análise de ofensa reflexa à Constituição Federal e o reexame do conjunto fático-probatório dos autos e da legislação infraconstitucional (Leis nºs 4.863/65 e 5.787/72). Incidência da Súmula nº 279 da Corte. 2. Agravo regimental não provido”. (AI-AgR-segundo 656.509, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 27.9.2013)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 20 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
