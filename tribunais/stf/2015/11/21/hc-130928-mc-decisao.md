@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA – HABEAS CORPUS – LIMINAR DEFERIDA.
+    1. O assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O Juízo da Primeira Vara da Comarca de Descalvado/SP, no Processo nº 0001883-65.2015.8.26.0160, converteu a prisão em flagrante do paciente, ocorrida no dia 19 de agosto de 2015, em preventiva, em virtude da suposta prática do crime descrito no artigo 180, § 1º (receptação qualificada), do Código Penal. Consignou estar demonstrada a materialidade do delito e os indícios de autoria, assim como ser necessário o cárcere preventivo para garantir a ordem pública e assegurar a aplicação da lei penal. Salientou que o considerável número de itens furtados encontrados e os indícios de integração em quadrilha especializada em roubo de cargas indicam o alto risco de reiteração delitiva. Ressaltou a possibilidade de a execução penal ser frustrada, ante o provável patamar da pena a ser aplicado.
+    Impetrou-se habeas corpus no Tribunal de Justiça, visando-se a revogação da custódia. Sustentou-se não ter sido cometido o delito com grave ameaça ou violência contra a pessoa. Destacou-se ostentar o paciente atributos pessoais favoráveis. O relator, ao deixar de acolher o pleito liminar, apontou a necessidade de análise mais aprofundada dos fatos.
+    No Superior Tribunal de Justiça, formalizou-se o Habeas Corpus nº 337.087/SP. Reafirmou-se a presença de condições subjetivas favoráveis. Ressaltou-se que não foi demonstrada a ameaça a ordem pública. O relator inadmitiu a impetração, assentando não ser um caso excepcional que possibilite a superação do Verbete nº 691 da Súmula do Supremo.
+    Neste habeas, o impetrante reitera os argumentos expendidos anteriormente. Sublinha a fundamentação inidônea da decisão constritiva, por estarem ausentes os pressupostos autorizadores. Destaca não representar o paciente qualquer risco à sociedade. Evoca o princípio da presunção de não culpabilidade.
+    Requer, em âmbito liminar, a revogação da preventiva. No mérito, busca a confirmação da providência.
+    A fase é de exame da medida cautelar.
+    2. O arcabouço normativo não contempla a prisão automática considerada a prática deste ou daquele crime. A inversão da ordem natural, no que direciona a apurar-se para, selada a culpa, prender-se, há de ser reservada a situações excepcionalíssimas. No caso concreto, o Juízo levou em conta, para chegar-se à prisão provisória, a imputação, ou seja, o número de itens, objeto de furto, apreendidos e a possibilidade de o paciente integrar quadrilha especializada em roubo de cargas.
+    3. Defiro a liminar pleiteada. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso do retratado no ato do Juízo da 1ª Vara da Comarca de Descalvado/SP, no Processo nº 001883-65.2015.8.26.0160, que implicou a conversão da prisão em flagrante em preventiva. Advirtam-no da necessidade de permanecer na residência indicada ao Juízo, atendendo aos chamamentos judiciais e informando possível transferência, bem como de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. O curso deste habeas não prejudica, se ainda pendente, o formalizado no Tribunal de Justiça do Estado de São Paulo. Remetam cópia desta decisão ao relator, desembargador Reinaldo Cintra, com as homenagens merecidas.
+    5. Colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília – residência –, 21 de novembro de 2015, às 19h15.
+Ministro MARCO AURÉLIO
+Relator
