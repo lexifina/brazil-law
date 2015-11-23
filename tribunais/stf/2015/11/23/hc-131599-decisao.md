@@ -1,0 +1,25 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Maria Claudia de Seixas e outro em favor de Cilas Emilio Cremma, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no RHC 60.975/SP.
+    O Ministério Público do Estado de São Paulo ofereceu denúncia em desfavor do paciente pela suposta prática de crime contra a ordem tributária, tipificado no art 1º, II e IV, da Lei 8.137/1990, c/c art. 29 do Código Penal.
+    Em 09.9.2014, o Juízo de Direito da 2ª Vara Criminal da Comarca de Taquaritinga/SP, inobstante a tese defensiva de inépcia da denúncia, determinou o prosseguimento da ação penal.
+    Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que via decisão monocrática da lavra do Ministro Felix Fischer, negou provimento ao recurso ordinário. Ato contínuo, a Corte Superior negou provimento ao agravo regimental lá interposto.
+    No presente habeas, alegam os Impetrantes a inépcia da denúncia por ausência de vinculação da conduta individual do denunciado ao evento delituoso. Sustentam que a exordial acusatória 'deixou de indicar, ainda que minimamente, se o paciente detinha o poder concreto de determinar ou não a ocorrência da suposta sonegação tributária'. Requer, em medida liminar, o sobrestamento da ação penal até o julgamento final da presente impetração. No mérito, pugna pelo a nulidade da ação penal de origem.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA DE IMPROCEDÊNCIA DO WRIT. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. CRIME SOCIETÁRIO. LEI 8.137/90, ART. 1º, II E V. PEÇA INAUGURAL QUE ATENDE AOS REQUISITOS DO ART. 41 DO CPP. AMPLA DEFESA GARANTIDA. INÉPCIA NÃO EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+    I - Consoante preceitua o art. 557, caput, do Código de Processo Civil, e art. 3º do Código de Processo Penal, a jurisprudência desta Corte Superior é assente no sentido de que, ao relator compete, monocraticamente, negar seguimento a recurso improcedente, não havendo falar, por conseguinte, em ofensa ao princípio da colegialidade (Precedente).
+    II - A exordial acusatória cumpriu todos os requisitos previstos no art. 41 do Código de Processo Penal, sem que a peça incorresse em qualquer violação do que disposto no art. 395 do mesmo diploma legal. Cuida-se, in casu, de denúncia geral, aceita pela jurisprudência pátria (Precedentes).
+    III - Nos delitos societários, a peça acusatória (ainda que não possa ser de toda genérica) é válida quando demonstra um liame entre a atuação dos denunciados e a conduta delituosa (mesmo que não individualize as condutas de cada um), a revelar a plausibilidade da imputação deduzida e permitindo o exercício da ampla defesa com todos os recursos a ela inerentes.
+    IV - Na hipótese em análise, a peça inaugural da acusação revela que o ora recorrente e o corréu, por meio da empresa CR Alimentos, teriam suprimido valores relativos ao ICMS, através da inserção de elementos inexatos em livros de saídas de mercadorias, haja vista que os valores consignados nos livros eram menores que os valores das notas fiscais. Também emitiram documentos fiscais referentes às operações de importações irregulares. Realizaram uma operação de venda de óleo de mamona, todavia, declararam, no documento fiscal, que seria operação não tributada, mas não era o caso. Nas notas fiscais referentes à venda de amendoim torrado, teriam utilizado base cálculo inferior da que deveria constar. Ademais, utilizaram, por duas vezes, a mesma nota fiscal, realizando registro no livro de entrada de mercadorias.
+    V - Quanto à autoria, o liame entre o agir do denunciado e o crime imputado está estabelecido em face da condição de responsável que ostenta perante a sociedade. Por isso, no caso, ao contrário do que se alega na peça recursal, verifica-se a possibilidade de plena defesa do acusado a partir da imputação do Ministério Público.
+    Agravo regimental desprovido”.
+    Ao exame dos autos, verifico que o acórdão proferido pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para negar provimento ao recurso.
+    Além disso, a jurisprudência desta Suprema Corte é no sentido de que “A denúncia, na hipótese de crime societário, não precisa conter descrição minuciosa e pormenorizada da conduta de cada acusado, sendo que, demonstrando o vínculo dos indiciados com a sociedade comercial, narre as condutas delituosas de forma a possibilitar o exercício da ampla defesa” (HC 122.450/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 20.11.2014).
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com o imediato sobrestamento da ação penal.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se o parecer do Ministério Público Federal.
+    Publique-se.
+    Brasília, 23 de novembro de 2015.
+Ministra Rosa Weber
+Relatora
