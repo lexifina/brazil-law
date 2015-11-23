@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “REEXAME NECESSÁRIO - APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - APROVAÇÃO EM CONCURSO PÚBLICO - AVERBAÇÃO DE TEMPO DE SERVIÇO PRESTADO EM REGIME DE CONTRATO ADMINISTRATIVO ANTERIOR - QUINQUÊNIO E FÉRIAS PRÊMIO - PREVISÃO LEGAL - REQUISITOS DEMONSTRADOS – POSSIBILIDADE.
+    O servidor público estadual que se encontrava em exercício na data da publicação da EC57/03, quando aprovado em concurso público posterior, faz jus à averbação para fins de quinquênio e férias-prêmio, do tempo de serviço prestado junto ao ente estatal mediante contrato administrativo temporário.”
+    No recurso extraordinário, sustenta-se violação dos artigos 37, inciso IX e § 2º, e 39, § 3º, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que o Tribunal de origem decidiu a lide amparado na interpretação da legislação local pertinente (Constituição do Estado de Minas Gerais, Ato das Disposições Constitucionais Transitórias e Emenda à Constituição Estadual nº 57/2003). Assim, o acolhimento da pretensão recursal demandaria o reexame da referida legislação, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 280/STF. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REGIME CELETISTA. CONTAGEM DO TEMPO DE SERVIÇO PARA FINS DE RECEBIMENTO DE FÉRIAS-PRÊMIO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I – Inviável o recurso extraordinário quando sua apreciação demanda reexame, por esta Corte, da legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 do STF. Precedentes. II – Agravo regimental improvido”. (ARE nº 684.517/MG-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe de 24/09/2012).
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO: INCORPORAÇÃO DE QUINTOS E DÉCIMOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 725.112/DF-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe de 8/05/2009).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 15/4/05).
+    Nesse mesmo sentido, as seguintes decisões monocráticas: ARE 824.782/MG, de minha relatoria, DJe de 20/11/14; RE nº 591.419/MG, Relator o Ministro Gilmar Mendes, DJe de 9/6/14; AI nº 830.625/MG, Relatora a Ministra Cármen Lúcia, DJe de 4/2/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 23 de novembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
