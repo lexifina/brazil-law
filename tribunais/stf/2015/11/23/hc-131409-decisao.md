@@ -1,0 +1,25 @@
+Decisão:
+ementa: Processual penal. Habeas corpus substitutivo. Roubo majorado. Prisão preventiva. Ausência de ilegalidade ou abuso de poder.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Felix Fischer, assim ementado:
+    “PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE PESSOAS. EXCESSO DE PRAZO DA INSTRUÇÃO. INOCORRÊNCIA. PRINCÍPIO DA RAZOABILIDADE. MEDIDAS CAUTELARES. INAPLICABILIDADE. RECURSO ORDINÁRIO DESPROVIDO.
+    I - O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade, não se ponderando a mera soma aritmética dos prazos para a realização dos atos processuais (precedentes do STF e do STJ).
+    II - No caso em tela, malgrado o recorrente esteja preso desde o dia 25 de junho de 2014, o atraso para a conclusão da instrução criminal se justifica, pois ele também se deu pela necessidade de expedição de carta precatória para citação dos outros dois corréus, além de providências para que a Defensoria Pública assumisse a defesa do recorrente, não havendo se falar, na hipótese e por ora, em excesso de prazo.
+    III - In casu, não é cabível a aplicação das medidas cautelares alternativas à prisão, haja vista estarem presentes os requisitos para a decretação da prisão preventiva (art. 282, § 6º, do CPP).
+    IV - Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+    Recurso ordinário desprovido.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante, em 25.06.2014, pela suposta prática do crime previsto no artigo 157, § 2º, incisos I e II, do Código Penal. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Denegada a ordem, a defesa interpôs recurso ordinário no Superior Tribunal de Justiça, não provido.
+    4. Neste habeas corpus, a parte impetrante sustenta a inexistência de fundamentação idônea para a decretação da custódia preventiva, nos termos do art. 312 do CPP. Alega, ainda, o excesso de prazo para a conclusão da instrução criminal. Daí o pedido de concessão da ordem para revogar a prisão cautelar do paciente.
+    Decido.
+    5. A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso extraordinário, previsto no art. 102, III, da Constituição Federal (HC 110.055, Rel. Min. Marco Aurélio, HC 106.158, Rel. Min. Dias Toffoli, e HC 118.568, Rel.ª Min.ª Rosa Weber). A hipótese, portanto, é de extinção do processo sem resolução do mérito por inadequação da via processual.
+    6. Não é caso de concessão da ordem de ofício. O Supremo Tribunal Federal já decidiu que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo). E o fato é que o prolongamento da marcha processual está justificado na complexidade da causa, conforme revelam as seguintes passagens do acórdão do TJ/MG:
+    “[...] No caso dos autos, verifico que o andamento processual está regular e que, até o presente momento, a duração do processo é razoável.
+    Consta dos autos que o paciente foi preso em flagrante delito, no dia 24/06/2014, pela suposta prática do crime de roubo majorado pelo emprego de arma e pelo concurso de pessoas (art. 157, §2°, I e Il, do CP). A denúncia foi recebida em 28/08/2014. Pessoalmente citado, o paciente informou dispor de condições financeiras para constituir advogado particular. Entretanto, por não ter sido juntada nenhuma petição aos autos, a Defensoria Pública assumiu sua defesa em 04/11/2014.
+    A demora no oferecimento da denúncia justifica-se pela complexidade do caso, vez que, além do paciente, há envolvimento de outros dois indivíduos, dos quais um mora em outra comarca...”
+    7. Por outro lado, a questão atinente à ausência dos pressupostos da prisão preventiva não foi submetida ao exame do Tribunal de Justiça de Minas Gerais e do Superior Tribunal de Justiça, o que impede a imediata apreciação da matéria por esta Corte, sob pena de indevida supressão de instâncias (HC 116.350-AgR, Rel. Min. Rosa Weber; HC 114.166, Rel. Min. Ricardo Lewandowski).
+    8. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 23 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
