@@ -1,0 +1,23 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, III, 5º, XXII e XXXV, e 183 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo, por oportuno, a ementa do acórdão recorrido (fl. 267, vol. 4):
+    “APELAÇÃO CÍVEL – AÇÃO REIVINDICATÓRIA – IMÓVEL URBANO PERTENCENTE À EXTINTA COHAB – CARTEIRA FUNDIÁRIA ASSUMIDA PELO INTERMAT – BEM PUBLICO – USUCAPIÃO – IMPOSSIBILIDADE – JUSTIÇA GRATUITA – RECURSO IMPROVIDO.
+    1 - O recorrido adquiriu o imóvel objeto dos autos através de financiamento junto a COHAB-MT, tendo recebido o termo de quitação e a escritura definitiva através do INTERMAT.
+    2 - A COHAB – COMPANHIA DE HABITAÇÃO DE MATO GROSSO foi extinta, tendo a sua carteira fundiária assumida pelo INTERMAT – INSTITUTO DE TERRAS DE MATO GROSSO nos termos da Lei 7.199/99 de 08.12.1999, alterada pela Lei 7.647/02 de 18.02.2002.
+    3 - A pós publicação da Lei em comento, o imóvel tornou-se público e passou a pertencer ao INTERMAT.
+    4 - A recorrida passou a morar no imóvel a partir do ano de 2003, quando o mesmo já pertencia ao Estado de Mato Grosso, não sendo mais possível ser objeto de usucapião.
+    5 - Com relação às custas processuais e honorários advocatícios em que pese os argumentos da recorrente, nos termos da jurisprudência do Superior Tribunal de Justiça, mesmo o beneficiário da gratuidade de justiça, uma vez sucumbente, deve ser condenado ao pagamento dos ônus sucumbenciais, ficando, todavia, suspensa a exigibilidade, até a comprovação da mudança na condição de necessitado, com a possibilidade de o beneficiário satisfazer o pagamento sem prejuízo do sustento próprio ou de sua família, com prescrição da alulida obrigação após o período de cinco anos”.
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE DESAPROPRIAÇÃO. CONTROVÉRSIA SOBRE A TITULARIDADE DO DOMÍNIO DO BEM. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 576.930-AgR/PR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 04.6.2010).
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. USUCAPIÃO DE DOMÍNIO ÚTIL DE IMÓVEL PÚBLICO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. OFENSA REFLEXA. 1. Nos termos da jurisprudência do Supremo Tribunal Federal, a controvérsia acerca da possibilidade de usucapião de domínio útil de imóvel público dado em enfiteuse a particular demanda a análise da legislação infraconstitucional pertinente. Caso em que ofensa à Magna Carta de 1988, se existente, ocorreria de forma reflexa ou indireta. 2. Agravo regimental desprovido” (RE 370.415-AgR/RS, Relator o Ministro Ayres Britto, Segunda Turma, DJ 28.3.2012).
+    “EMENTA Agravo regimental no agravo de instrumento. Falência. Caução. Administrador judicial. Ofensa reflexa. Impossibilidade. Precedentes. 1. A afronta ao princípio da legalidade, se dependente de reexame de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República, cujo exame é inviável no recurso extraordinário. Incidência da Súmula nº 636/STF. 2. Agravo regimental não provido” (AI 837.328-AgR-segundo/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJ 02.5.2013).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de novembro de 2015.
+Ministra Rosa Weber
+Relatora
