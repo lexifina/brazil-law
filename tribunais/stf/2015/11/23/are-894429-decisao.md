@@ -1,0 +1,18 @@
+Decisão:
+    Trata-se de dois agravos cujo objeto são decisões que negaram seguimento a seus respectivos recursos extraordinários interpostos contra acórdão assim ementado:
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONTRIBUINTE AUTÔNOMO OU EMPRESÁRIO. TEMPO DE SERVIÇO. ART. 45 §4º DA LEI Nº 8.212/91. IRRETROATIVIDADE. PAGAMENTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS EM ATRASO. INCIDÊNCIA DE JUROS E MULTA SOMENTE A PARTIR DA EDIÇÃO DA MP Nº 1.523/96.
+    1. O cálculo de contribuições previdenciárias em atraso deve ser feito consoante disciplina normativa vigente à época dos fatos geradores das obrigações.
+    2. Segundo entendimento dominante, os juros de mora e multa não são devidos nos casos em que o recolhimento em atraso se refira a períodos anteriores à edição de Medida Provisória nº 1.523/96, uma vez que somente a partir desse diploma legal referidos consectários passaram a ter previsão para a hipótese. Aplicabilidade do princípio da irretroatividade da lei previdenciária que prejudique o segurado. Precedentes do STJ.
+    3. Agravo legal desprovido”
+    O primeiro recurso, interposto pelo Ministério Público Federal, busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos art. 97, da Carta. O recorrente alega que ao declarar a inconstitucionais o art. 45, § 4º, da Lei 8.213/1991 e o art. 82 da Lei nº 3.807/1960, o Tribunal a quo violou o art. 97 da Constituição.
+    O segundo recurso, interposto pelo INSS, busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LV e 93, IX, todos da Carta. O recorrente alega que seu direito a uma ampla defesa e um contraditório efetivo foi violado. Sustenta, ainda, que houve violação ao art. 97 da Constituição, porquanto já havia a previsão de incidência de juros e multa desde a Lei nº 3.807/60, e ainda assim o acórdão atacado afastou a aplicação das normas vigentes que a previam.
+    A decisão agravada negou seguimento aos recursos sob o fundamento de que não houve declaração de inconstitucionalidade, mas apenas a interpretação da norma de forma a conferir-lhe eficácia prospectiva, abarcando apenas os fatos geradores de contribuições previdenciárias posteriores à sua vigência.
+    A pretensão recursal não merece prosperar, tendo em vista que para dissentir das conclusões adotadas demandaria tão somente o exame da legislação infraconstitucional pertinente à hipótese, a saber, MP nº 1.523/96, Lei nº 8.213/91 e alterações, providência vedada nesta via processual. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional.
+    No mesmo sentido: RE nº 846.203/RS, Rel. Min. Dias Toffoli; AI n° 857.050/PR, Rel. Min. Cármen Lúcia; ARE nº 812.115/RS, Rel. Min. Dias Toffoli, e ARE nº 799.939/RS, Rel. Min. Ricardo Lewandowski.
+    Por fim, cumpre registrar que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia referente à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE nº 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço dos agravos para negar provimento a ambos.
+    Publique-se.
+    Brasília, 23 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
