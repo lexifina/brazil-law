@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. FORNECIMENTO DE ÁGUA. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. COMPETÊNCIA DE JUIZADO ESPECIAL. REPERCUSSÃO GERAL REJEITADA. ARE 640.671. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado, verbis:
+    “AÇÃO INDENIZATÓRIA. CONCESSIONÁRIA DE SERVIÇOS PÚIBLICOS DE ÁGUA E ESGOTO. PRELIMINAR DE INCOMPETÊNCIA AFASTADA. FATURAS ACIMA DA MÉDIA DE CONSUMO. FATURAS CONTESTADAS. SUSPENSÃO DO FORNECIMENTO. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE DEMONSTRAÇÃO DA REGULARIDADE DA COBRANÇA READEQUAÇÃO DAS FATURAS. DANOS MORAIS OCORRENTES. QUANTUM INDENIZATÓRIO MANTIDO. SENTENÇA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. RECURSO IMPROVIDO.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5°, II, V, X, LIV e LV, e 98, I, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que não houve violação frontal e direta à Constituição.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Destaco, inicialmente, que o Supremo Tribunal Federal, nos autos do ARE 640.671, Rel. Min. Cezar Peluso, rejeitou a repercussão geral da controvérsia sobre a competência dos juizados especiais face à alegação de complexidade da prova, por se tratar de matéria infraconstitucional. Eis a ementa do citado julgamento:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.”
+    Ademais, os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+     Por fim, o dano moral, quando aferido pelas instâncias ordinárias, não pode ser revisto pela Suprema Corte, em face da incidência da Súmula nº 279/STF, que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário“.
+    Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula nº 279/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DA MATÉRIA FÁTICO-PROBATÓRIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 684.576-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 1º/8/2012).
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 23 de novembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
