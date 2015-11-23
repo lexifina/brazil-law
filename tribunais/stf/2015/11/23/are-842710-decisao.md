@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça, cuja ementa transcrevo:
+    “ADMINISTRATIVO. AGRAVO REGIMENTAL. VIOLAÇÃO. SÚMULA 85/STJ. IMPOSSIBILIDADE. APRECIAÇÃO. SÚMULA 211/STJ. INEXISTÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA. OMISSÃO.
+    1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+    2. É importante considerar que a pensão especial foi concedida à viúva do ex-combatente na vigência da Lei 8.059/90, portanto esta norma deve ser aplicada ao caso concreto, nos termos do art. do art. 14, I, e parágrafo único, do referido diploma.
+    3. O TRF solucionou com acerto a lide, em conformidade com a pacífica jurisprudência do STJ, no sentido de que o art. 14, parágrafo único, da Lei 8.059/90 veda expressamente a transferência de cota-parte aos demais dependentes.
+    4. Agravo Regimental não provido”. (eDOC 6, p. 121)
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, não se aponta nenhum dispositivo constitucional supostamente violado. Nas razões recursais, sustenta-se que a decisão impugnada contrariou a jurisprudência do Supremo Tribunal Federal ao aplicar a norma vigente à época do falecimento da viúva e não a da data do falecimento do instituidor do benefício.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque a orientação sumulada desta Corte é no sentido de que é inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    No caso, verifica-se que o recorrente não demonstrou de que forma o acórdão recorrido teria afrontado a Constituição Federal. No caso, não indicou sequer um dispositivo constitucional que teria sido violado.
+    Registre-se que é necessária, para a admissão do recurso extraordinário, a demonstração efetiva de ofensa à Constituição Federal, o que não ocorreu no caso dos autos, motivo pelo qual incide, na hipótese, a Súmula 284 do STF. Nesse sentido, confiram-se os seguintes precedentes:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULAS STF 284 E 287. 1. Razões do agravo regimental que não atacam o fundamento da decisão impugnada. 2. É imprescindível para a admissão do apelo extremo previsto no art. 102, III, da Constituição Federal que a demonstração de ofensa à norma constitucional seja posta com clareza, o que não foi suficientemente feito pela parte recorrente. Súmulas STF 284 e 287. Precedentes. 3. Recurso Extraordinário interposto com base no art. 102, III, a e c, da Constituição Federal, sem indicação de dispositivos constitucionais na petição do recurso. 4. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos. 5. Agravo regimental a que se nega provimento”. (grifei) (AI-AgR 786.680, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 30.6.2011)
+    “Agravo regimental no recurso extraordinário com agravo. Direito eleitoral. Recurso especial eleitoral. Cabimento. Recurso extraordinário deficiente. Ausência de indicação dos dispositivos constitucionais tidos por violados. Incidência da súmula 284 do STF. Ausência da preliminar formal de repercussão geral. Agravo regimental desprovido. 1. O recurso extraordinário é inadmissível quando ausente a indicação dos dispositivos constitucionais tidos por violados. Incide no caso o disposto na Súmula 284 do STF, verbis: ‘É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia’. (…)”. (grifei) (ARE-AgR 664.727, Rel. Min. LUIZ FUX, Primeira Turma, DJe 25.4.2012)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 23 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
