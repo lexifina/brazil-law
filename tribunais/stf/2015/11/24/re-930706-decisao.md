@@ -1,0 +1,23 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta aos arts. 226 e 227 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Consta na ementa do acórdão recorrido (fl. 437, vol. 3):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. REMOÇÃO. ACOMPANHAMENTO DE CÔNJUGE. LEI Nº 8.112/90.
+    . A norma prevista no artigo 36, III, 'a', da Lei nº 8.112/90, não se enquadra no poder discricionário da administração, mas nos direitos do servidor, que deve ser interpretado á luz da proteção à família consagrada no art. 226 da Constituição Federal.
+    . O fato da autora não residir com o marido antes da transferência, não afasta a possibilidade de remoção com base na norma do artigo 36, III, a, da Lei n.° 8.112/90, uma vez que não pode a Administração impor a exigência de coabitação anterior, se a lei assim não estabelece.
+    . Prequestionamento estabelecido pelas razões de decidir.
+    . Agravo de instrumento improvido”.
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna obliqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental em recurso extraordinário. 2. Não impugnação da decisão agravada. Incidência da Súmula 287 do STF. 3. Discussão sobre preenchimento de requisitos para remoção de servidora pública. Matéria decidida à luz de legislação infraconstitucional. 4. Agravo regimental não conhecido”.
+(RE 774811 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 11/03/2014, PROCESSO ELETRÔNICO DJe-062 DIVULG 27-03-2014 PUBLIC 28-03-2014)
+    “EMENTA Agravo regimental no recurso extraordinário. Administrativo. Servidor público. Remoção. Doença do cônjuge. Legislação infraconstitucional. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. O Tribunal de origem, interpretando a Lei estadual nº 6.107/94 c/c a Lei federal nº 8.112/90 e analisando os fatos e as provas dos autos, concluiu que a agravada preenchia os requisitos legais para a remoção para cargo lotado em órgão situado na cidade em que reside seu cônjuge, em virtude desse ter sido acometido por doença grave, comprovada através de perícia médica. 2. Inadmissível, em recurso extraordinário, a análise de ofensa reflexa à Constituição Federal e o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 280, 636 e 279/STF. 3. Agravo regimental não provido”. (RE 668594 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 07/08/2012, ACÓRDÃO ELETRÔNICO DJe-165 DIVULG 21-08-2012 PUBLIC 22-08-2012).
+    “EMENTA: CONSTITUCIONAL. ANÁLISE DE NORMA INFRACONSTITUCIONAL. LEI 8.112/90. OFENSA INDIRETA À CONSTITUIÇÃO. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. ALEGADA OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Não há contrariedade ao art. 93, IX, da Constituição, quando o acórdão recorrido encontra-se suficientemente fundamentado. IV - Agravo regimental improvido”. (AI 685872 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Primeira Turma, julgado em 10/02/2009, DJe-048 DIVULG 12-03-2009 PUBLIC 13-03-2009 EMENT VOL-02352-16 PP-03149).
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 24 de novembro de 2015.
+Ministra Rosa Weber
+Relatora
