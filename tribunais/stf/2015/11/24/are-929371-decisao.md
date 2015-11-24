@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Cesário Batista Ribeiro interpõe agravo visando impugnar decisão que não admitiu recurso extraordinário, assentado em contrariedade ao art. 5º, incisos LV, LVI e LVII, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “PENAL E PROCESSUAL. EMBRIAGUEZ AO VOLANTE. RÉU PRESO EM FLAGRANTE CONDUZINDO EMBRIAGADO UM CAMINHÃO NA VIA PÚBLICA. ALEGAÇÃO DE NULIDADE POR IMPRECISÃO DO TESTE DE ETILÔMETRO. IMPROCEDÊNCIA. PROVA SATISFATÓRIA DA MATERIALIDADE E AUTORIA. CRÍTICA OCA DA DOSIMETRIA. SENTENÇA CONFIRMADA.
+1 Réu condenado por infringir o artigo 306 do Código de Trânsito Brasileiro, depois de ter sido preso em flagrante conduzia caminhão pesado ziguezagueando na rodovia e assim chamando a atenção dos componentes de uma guarnição da Polícia Militar que o abordaram e constataram o estado de completa embriaguez, comprovado pelo teste do etilômetro.
+2 Rejeita-se a alegação de falha na medição do nível de álcool no sangue quando a embriaguez tenha sido constatada também pela prova testemunhal.
+3 A materialidade e a autoria da embriaguez ao volante são provadas quando há confissão do réu em Juízo, corroborado por testemunho do Policial condutor do flagrante e pelo resultado do etilômetro.
+4 Tendo sido o réu condenado duas vezes anteriormente por fatos semelhantes, justifica-se a imposição do regime semiaberto para o início do cumprimento da pena.
+5 Apelação desprovida” (fl. 212).
+    Nas razões do extraordinário, sustenta o agravante que não obstante
+    “(...) os fatos e indícios de irregularidade na prova constituída nos autos (resultado do exame com aparelho etilômetro), o v. Acórdão esbarra em clara inconstitucionalidade ao inverter o ônus da prova ao Réu, como se este tivesse a obrigação de provar sua inocência já garantida pela Carta Magna de 1988 (…).
+    Ora, como dito, não é a defesa que tem o dever de provas que houve erro no resultado do exame, mas sim a acusação quem deve provar que o erro não ocorreu. Trata-se de evidente inconstitucionalidade que almeja inverter a presunção de inocência em presunção de culpabilidade” (fls. 243-244).
+    Examinados os autos decido.
+    Anote-se, inicialmente, que o acórdão proferido em sede de apelação foi publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07). Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, para averiguar-se a suposta violação à Carta Constitucional, seria imprescindível analisar a legislação infraconstitucional. Portanto, a violação aos preceitos constitucionais apontados, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Ressalte-se que a jurisprudência desta Suprema Corte é assente no sentido de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta e frontal à Constituição da República.
+    Nesse sentido, confira-se: AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08; AI nº 651.927/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 30/5/08; AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/6/07; AI nº 622.527/AP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 18/5/07; AI nº 562.809/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 18/5/07; e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07, entre outros.
+    Registre-se, por fim, que para se chegar a entendimento diverso do acórdão recorrido necessário seria o reexame aprofundando de fatos e provas, intimamente ligados ao mérito da ação penal, o que é vedado nesta via extraordinária, consoante o enunciado da Súmula nº 279/STF.
+    Nesse compasso, cite-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. INVERSÃO DO ÔNUS DA PROVA. 1. Alegada contrariedade aos princípios da presunção de inocência, do contraditório e da ampla defesa. Ausência de prequestionamento. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal. 2. Impossibilidade de reexame de provas. Súmula n. 279 do Supremo Tribunal. 3. Agravo regimental ao qual se nega provimento” (ARE nº 675.702/ES – AgR, Primeira Turma, relatora a Ministra Cármen Lúcia, DJe de 17/5/12);
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 24 de novembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
