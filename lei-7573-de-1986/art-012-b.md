@@ -1,0 +1,1 @@
+Art. 12-B. Os requisitos para ingresso em curso do Ensino Profissional Marítimo durante o qual o aluno não detenha a condição de militar serão estabelecidos pela Diretoria de Portos e Costas do Comando da Marinha.
