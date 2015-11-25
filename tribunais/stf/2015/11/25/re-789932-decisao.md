@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa reproduzo a seguir:
+    “AÇÃO CIVIL PÚBLICA. CONSERVAÇÃO DE RODOVIA FEDERAL. BR 282. DEVER DO ESTADO DE GARANTIR AOS CIDADÃOS, USUÁRIOS DAS RODOVIAS, EM TEMPO HÁBIL, CONDIÇÕES MÍNIMAS DE SEGURANÇA. POSSIBILIDADE DE INTERVENÇÃO JUDICIAL, A FIM DE RESGUARDAR OS DIREITOS FUNDAMENTAIS DOS USUÁRIOS DA RODOVIA. FIXAÇÃO DE MULTA PECUNIÁRIA. LEGALIDADE.
+    Apelação parcialmente provida.” (eDOC 3, p. 322)
+    Opostos embargos de declaração, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida. No mérito, aponta-se ofensa aos arts. 2º; 85, VI; 165; e 167, todos do texto constitucional.
+    Defende-se, em síntese, que a decisão recorrida violou o princípio da separação dos poderes (CF, art. 2º). Alega-se, ainda, violação à necessidade de inclusão da despesa na lei orçamentária, e que o desrespeito a tal preceito consubstancia crime de responsabilidade. Sustenta-se, outrossim, que o tempo para realização das obras determinadas é exíguo, violando a exigência de licitação para a contratação de obras públicas.
+    Parecer da Procuradoria-Geral da República (eDOC 6) ementado nos seguintes termos:
+    “RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. EFETIVIDADE DO DIREITO SOCIAL À SEGURANÇA. VIOLAÇÃO DO PRINCÍPIO DA SEPARAÇÃO DOS PODERES E DA LEGALIDADE ORÇAMENTÁRIA: NÃO OCORRÊNCIA. PRECEDENTES DO STF. PARECER PELO NÃO CONHECIMENTO DO EXTRAORDINÁRIO.”
+    É o relatório.
+    Decido.
+    As razões recursais não merecem prosperar.
+    O Tribunal de origem entendeu o seguinte:
+    “Os documentos acostados aos autos pelo Ministério Público Federal, nos autos da Ação Civil Pública, demonstram que a rodovia em questão, nos trechos ali apontados, possui precárias condições de trafegabilidade, expondo os usuários que dela dependem a constantes riscos à integridade física e à vida.
+    Por esta razão é que se justifica a intervenção do Poder Judiciário. A exposição da saúde e da segurança daqueles que transitam pela estrada in quaestio atingiu níveis que reclamam a intervenção judicial, a fim de resguardar os direitos fundamentais dos usuários. (...)” (eDOC 3, p. 306-308)
+    Nesses termos, destaco que, para se entender de forma diversa do consignado pela origem, seria necessário rever o conjunto fático-probatório constante dos autos, providência vedada no âmbito do recurso extraordinário, a teor do disposto na Súmula 279 do STF.
+    No mais, esta Corte já firmou entendimento no sentido de que o Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de poderes, o que se aplica ao caso dos autos em que se busca a tutela do direito à segurança pública.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Constitucional. Ação civil pública. Defesa do meio ambiente. Implementação de políticas públicas. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Precedentes. 1. Esta Corte já firmou a orientação de que é dever do Poder Público e da sociedade a defesa de um meio ambiente ecologicamente equilibrado para a presente e as futuras gerações, sendo esse um direito transindividual garantido pela Constituição Federal, a qual comete ao Ministério Público a sua proteção. 2. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais sem que isso configure violação do princípio da separação de poderes. 3. Agravo regimental não provido”. (RE-AgR 417408, Rel. Min. Dias Toffoli, Primeira Turma, DJe 26.4.2012)
+    “RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. ABRIGOS PARA MORADORES DE RUA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. Incabível o recurso extraordinário quando as alegações de violação a dispositivos constitucionais exigem o reexame de fatos e provas (Súmula 279/STF). Esta Corte já firmou entendimento no sentido de que não ofende o princípio da separação de poderes a determinação, pelo Poder Judiciário, em situações excepcionais, de realização de políticas públicas indispensáveis para a garantia de relevantes direitos constitucionais. Precedentes. Agravo regimental desprovido”. (RE-AgR 634.643, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 13.8.2012)
+    Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 25 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
