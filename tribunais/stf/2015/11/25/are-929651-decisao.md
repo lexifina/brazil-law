@@ -1,0 +1,22 @@
+DESPACHO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 5ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SUSPENSÃO DE TRANSFERÊNCIA VOLUNTÁRIA DE RECURSOS FEDERAIS PARA O MUNICÍPIO. IRREGULARIDADES NA PRESTAÇÃO DE CONTAS DO EX-GESTOR. ADOÇÃO DE MEDIDAS PARA RESPONSABILIZAR O ADMINISTRADOR ANTERIOR. DEVIDO PROCESSO LEGAL. EXIGÊNCIA. JURISPRUDÊNCIA DO STF. SUSPENSÃO DA INSCRIÇÃO DO NOME DO MUNICÍPIO NO SIAFI/CAUC. POSSIBILIDADE. SENTENÇA MANTIDA.
+    1. A jurisprudência firmou entendimento de que a municipalidade não pode sofrer as consequências negativas da suspensão de transferências de recursos federais e da vedação de celebração de novos convênios em razão do registro da inadimplência nos cadastros mantidos pelo Governo Federal, em decorrência de irregularidades perpetradas pelo ex-gestor, se a administração atual comprova haver tomado as providências ao seu alcance para regularizar a situação. Tal posicionamento decorre das disposições da Instrução Normativa STN 01/1997.
+    2. No caso dos autos, a restrição se originou da ausência de informações para Transferências Voluntárias, concernentes ao item “4.3 – Aplicação Mínima de Recursos em Saúde” (SIOPS), do exercício financeiro de 2012, pelo ex-gestor da municipalidade.
+    3. Tendo a gestão atual do Município comprovado que adotou medidas judiciais para responsabilização do ex-prefeito (ação de improbidade administrativa e ação de obrigação de fazer, ajuizadas na comarca de Bom Jardim/MA, e representação criminal junto ao Ministério Público), com vistas a regularizar a situação, não há falar em inércia na tomada de providências relacionadas à situação de inadimplência que culminou na inscrição do Município no CAUC – Regularidade SIAFI.
+    4. Se não há resistência do atual gestor na prestação de contas a que está obrigado por lei, não pode a administração municipal – e, por consequência, a comunidade local – ser afetada com a suspensão das transferências financeiras federais e com o impedimento à celebração de novos convênios.
+    5. O STF decidiu que a inscrição de entidades políticas nos cadastros de inadimplentes sujeita-se ao devido processo legal (Questão de Ordem em Ação Civil Originária 1.048-6/RS; AC 2156 REF-MC).
+    6. Apelação e remessa oficial a que se nega provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 160, parágrafo único, I, da Constituição. Sustenta, em síntese, a constitucionalidade da inscrição do Município no SIAFI.
+    A decisão agravada negou seguimento ao recurso extraordinário, sob o seguinte fundamento:
+    “Não se admite o recurso extraordinário, por falta do necessário prequestionamento, quando a matéria de constitucional, submetida à apreciação judicial no momento processual oportuno, não foi decidida no julgado impugnado e não foram opostos embargos de declaração para sanar eventual omissão, ainda que a ofensa tenha surgido no acórdão recorrido. Incidência das Súmulas 282 e 356 do STF.”
+    Em sede de agravo, a parte reitera os fundamentos aduzidos em sede de recurso extraordinário.
+    O Plenário do Supremo Tribunal Federal, nos autos do RE 607.420-RG, de relatoria da Ministra Rosa Weber, reconheceu a existência de repercussão geral de matéria semelhante à dos presentes autos. Confira-se a ementa da decisão:
+    “LEGITIMIDADE DA INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DE INADIMPLENTES DO SISTEMA INTEGRADO DE ADMINISTRAÇÃO FINANCEIRA DO GOVERNO FEDERAL - SIAFI. NECESSIDADE DO PRÉVIO JULGAMENTO DE TOMADA DE CONTAS ESPECIAL. EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Na oportunidade, a Ministra relatora aduziu o seguinte:
+    “Verifico que a necessidade de prévio julgamento de Tomada de Contas Especial como requisito para possibilitar a inclusão do Município no SICAF, questão versada no presente apelo extremo, possui relevância do ponto de vista econômico, político, social e jurídico, nos termos do § 1° do art. 543-A do Código de Processo Civil. É que o assunto alcança, certamente, grande número de Estados e Municípios, que podem ter a suspensão da transferência de recursos federais.”
+    Diante do exposto, com base no art. 21, I, do RI/STF, determino o sobrestamento até o julgamento do feito mencionado, devendo os autos aguardar na Secretaria Judiciária.
+    Publique-se.
+          Brasília, 25 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
