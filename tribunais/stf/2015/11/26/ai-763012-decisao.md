@@ -1,0 +1,28 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 100, caput, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “AÇÃO CIVIL PÚBLICA – DESVIO DE VERBA PÚBLICA – EMBARGOS INFRINGENTES – ABSOLVIÇÃO PENAL – NEGATIVA CATEGÓRICA DA EXISTÊNCIA DO FATO NÃO CONSTANTE DO DISPOSITIVO DO JULGADO – MERA CONCLUSÃO DE QUE NÃO CONSTITUI CRIME – VIABILIDADE DA DEMANDA CÍVEL – ATOS DE IMPROBIDADE ADMINISTRATIVA, A DESPEITO DISSO, NÃO CONFIGURADOS TAMBÉM NESSA ESFERA – PAGAMENTO A MAIOR NÃO DEMONSTRADO – ACERTO DO ENTENDIMENTO MAJORITÁRIO – RECURSO DESPROVIDO.”
+    Opostos embargos declaratórios, foram rejeitados.
+    Opina o Ministério Público Federal, em parecer da lavra do subprocurador Geral da República Dr. Paulo Gustavo Gonet Branco , pelo desprovimento do agravo.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Colho do voto condutor do acórdão a seguinte fundamentação:
+    “A veracidade do teor das notas de empenho apresentadas não foi contestada e muito menos produzida qualquer prova que as desconstituísse, razão pela qual, em se tratando de documentos públicos, devem ser consideradas autênticas e válidas.
+    Não restou configurado, portanto, nenhum ato de improbidade administrativa a justificar a procedência da ação, eis que o valor pago a maior, conforme consta dos autos, referia-se ao pagamento de outra dívida.
+    Tampouco se deve cogitar da regularidade formal do pagamento, sob o aspecto contábil ou comercial, porque se investiga o elemento volitivo, o aspecto subjetivo do ato e suas eventuais consequências nefastas para o erário, de que não há notícia nos autos.
+    A dita inobservância do art. 100 da CF igualmente não deve ser imputada aos embargados como ato de improbidade administrativa.
+    Em primeiro lugar porque não trouxe prejuízo ao erário, nem propiciou enriquecimento ilícito às partes, e tampouco se relaciona a qualquer fato punível via ação civil pública.
+    Em segundo lugar, porque o Município de Ortigueira foi citado para efetuar o pagamento em 24 horas do valor de R$ 191.567,18, o que poderia induzir a administradora pública em erro e, obedecendo a determinação judicial, efetuar o pronto pagamento em desrespeito a determinação de expedição de precatório.
+    É certo que tal fato, aí então, pode configurar irregularidade, porém não justifica a aplicação das penalidades previstas na lei de improbidade administrativa, ainda mais quando não comprovado pagamento a maior ou irregular, mas sim apenas sem a normal expedição de precatório.”
+    Assim, é certo que o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279 desta Corte. Sobre o tema:
+    “DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ALEGAÇÃO DE PROMOÇÃO PESSOAL. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AO PRECEITO CONSTITUCIONAL INVOCADO NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. REEXAME INCABÍVEL NO ÂMBITO DO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 20.8.2008. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 279 do STF, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido” (AI nº 799.546/MG-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 2/10/13).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. FRAUDES LICITATÓRIAS. 1. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 722.673/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/8/13).
+    “Agravo regimental em agravo de instrumento. 2. Direito Administrativo. 3. Improbidade administrativa. Ação civil pública. Contratação de advogado sem procedimento licitatório. 4. Leis n. 8.429/92 e 8.666/93. Prévia análise da legislação infraconstitucional. Impossibilidade em sede de recurso extraordinário. 5. Revolvimento do acervo fático-probatório. Incidência do Enunciado 279 da Súmula desta Corte. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento” (AI nº 737.547/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 19/6/13).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 26 de novembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
