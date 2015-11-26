@@ -1,0 +1,24 @@
+Decisão: Trata-se de reclamação constitucional, com pedido de medida liminar, proposta por Golden Cross Assistência Internacional de Saúde Ltda. contra ato do Colégio Recursal da 6ª Circunscrição Judiciária de Bragança Paulista, que determinou a certificação do trânsito em julgado do RE 867.762/SP, bem como a baixa dos autos desse processo à origem (eDOC 38, p. 159/161).
+    Na petição inicial, sustenta-se que essa determinação contraria a decisão monocrática de minha relatoria no citado recurso extraordinário (eDOC 2, p. 6-7). Argumenta-se que esta Corte reconheceu a existência de repercussão geral da questão nele tratada, determinando a aplicação do art. 543-B do Código de Processo Civil. Nesse sentido, afirma-se que o Tribunal de origem, em vez de admitir o apelo extremo, com a aplicação dos acórdãos paradigmas, determinou o retorno dos autos à origem para prosseguimento da execução.
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    Inicialmente, registre-se que, conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação apenas nas seguintes hipóteses:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    (...)
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (…)”.
+    No presente feito, verifica-se que não há indicação de afronta à decisão dotada de efeito vinculante nem alegação de usurpação de competência desta Corte. Não se verifica, portanto, nenhuma das hipóteses constitucionalmente previstas para o ajuizamento da reclamação (art. 102, I, “l”, da CF/88).
+    Além disso, observa-se que o Colégio Recursal da 6ª Circunscrição Judiciária de Bragança Paulista, ao obstar a subida do recurso extraordinário a esta Corte, julgou-o prejudicado (eDOC 38, p. 159).
+    Constata-se assim que o Tribunal de origem aplicou ao caso o disposto no art. 543-B, § 3º, do CPC. Nesse sentido, ressalto que esta Corte, na Sessão Plenária do dia 19.11.2009, por unanimidade, resolveu questão de ordem no AI 760.358, de minha relatoria, DJe 19.2.2010, e nas Reclamações 7.569 e 7.547, Rel. Min. Ellen Gracie, DJe 11.12.2009, no sentido de não conhecer de agravo de instrumento nem de reclamação contra decisões que aplicam a sistemática da repercussão geral na origem.
+    Cito vários precedentes desta Corte em que se tem negado seguimento a reclamações análogas: Rcl-ED 11.076, Rel. Min. Cármen Lúcia, DJe 15.3.2011; Rcl 11.282, Rel. Min. Celso de Mello, DJe 9.3.2011; Rcl 11.271, Rel. Min. Ayres Britto, DJe 23.2.2011; e Rcl 10.151, Rel. Min. Eros Grau, DJe 11.6.2010.
+    Com efeito, o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal. É essa a orientação consolidada na jurisprudência desta Corte.
+    Nesse sentido, confiram-se os seguintes precedentes: Rcl 9.545, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 13.5.2010; e Rcl 5.494, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 11.12.2009, esta com a seguinte ementa:
+    “RECLAMAÇÃO - ALEGADO DESRESPEITO A DISPOSITIVOS DA CONSTITUIÇÃO FEDERAL - INADMISSIBILIDADE - INADEQUAÇÃO DO EMPREGO DA RECLAMAÇÃO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL - EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO - PRECEDENTES - RECURSO IMPROVIDO. - Para que se legitime o acesso à via reclamatória, impõe-se a demonstração da efetiva ocorrência de desrespeito a julgamento emanado do Supremo Tribunal Federal ou, ainda, de usurpação de competência desta Suprema Corte. - O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. - A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, 'l', da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do mero reexame do conteúdo de atos jurisdicionais ou administrativos, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedentes”.
+    Desse modo, não se verifica nenhuma das hipóteses constitucionalmente previstas para o ajuizamento da presente reclamação.
+    Ante o exposto, nego seguimento à reclamação. Prejudicada a análise do pedido liminar (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 26 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
