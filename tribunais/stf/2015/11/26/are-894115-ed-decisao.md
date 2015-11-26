@@ -1,0 +1,26 @@
+DECISÃO:
+    Trata-se de embargos de declaração cujo objeto é decisão monocrática que negou seguimento ao agravo, pelos seguintes fundamentos:
+    “Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 253):
+    ‘REEXAME NECESSÁRIO/APELAÇÃO CÍVEL - ADMINISTRATIVO - CONTRATO TEMPORÁRIO - RENOVAÇÕES SUCESSIVAS - NULIDADE - VERBAS COMPROVADAMENTE INADIMPLIDAS DEVIDAS - REFORMA PARCIAL DA SENTENÇA.
+    - A nulidade do contrato temporário não impede o reconhecimento do direito à percepção dos direitos sociais garantidos pela Constituição da República de forma indistinta a todos os trabalhadores urbanos e rurais (art. 7º, VIII, IX e XVII c/c art. 39), e expressamente estendidos ao servidor público (art. 39, § 3º), sob pena de enriquecimento sem causa da Administração Pública.
+    - Demonstrada a relação contratual entre as partes e a existência do débito, é ônus do devedor provar que realizou o pagamento da verba pleiteada, mediante quitação regular.’
+    O recurso busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 7º e 37, IX, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que o acórdão recorrido estaria de acordo com a jurisprudência do Supremo Tribunal Federal.
+    A decisão deve ser mantida. Isso porque, de fato, o acórdão recorrido está alinhado à jurisprudência desta Corte, firmada no julgamento do RE 573.202-RG, Rel. Min. Ricardo Lewandowski. Subsidiariamente à questão principal, o Ministro relator assentou em seu voto que as sucessivas renovações do contrato temporário não têm a capacidade de alterar a ‘natureza jurídica do vínculo de cunho administrativo que se estabeleceu originalmente’. Veja-se, por oportuno, trecho do referido voto:
+    ‘A prorrogação do contrato nessas circunstâncias, seja ela expressa ou tácita, em que se opera a mudança do prazo de vigência deste, de temporário para indeterminado, pode até ensejar nulidade ou caracterizar ato de improbidade, com todas as consequência que isso acarreta, por ofensa aos princípios e regras que disciplinam a contratação desse tipo de servidores, mas não altera, peço vênia para insistir, a natureza jurídica do vínculo de cunho administrativo que se estabeleceu originalmente.’
+    Dessa orientação não divergiu o Tribunal de origem, ao assentar que (fls. 254-v):
+    ‘Evidente que as sucessivas renovações do contrato temporário extrapolaram os pressupostos constitucionais, pois não visavam ao desempenho de função pública para atender à ‘situação emergencial’.
+    Violadas as disposições contidas nos incisos II e IX do art. 37 da Carta da República, impõe-se a declaração de nulidade da contratação, conforme estabelecido no § 2º do mesmo artigo, in verbis:
+    […]
+    Contudo, a nulidade do contrato temporário não impede o reconhecimento do direito à percepção dos direitos sociais garantidos pela Magna Carta de forma indistinta a todos os trabalhadores urbanos e rurais (art. 7º, VIII, IX e XVII c/c art. 39), e expressamente estendidos ao servidor público, inclusive o temporário. (art. 39, § 3º).
+    Isso significa não prestigiar o enriquecimento ilícito da Administração Pública, responsável pela ilegalidade.’
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.”
+    A parte embargante alega que “o fato de ter sido reconhecida a repercussão geral quanto a matéria dos autos, como se sabe, traz significativa alteração no andamento do feito, não podendo a demanda ser solucionada enquanto não se resolver a questão que envolve uma coletividade”.
+    Em preliminar, recebo os presentes embargos de declaração como agravo regimental, tendo em vista a pretensão da parte recorrente em ver reformada a decisão ora impugnada (MI 823-ED-segundos, Rel. Min. Celso de Mello; Rcl 11.022-ED, Rel.ª Min.ª Cármen Lúcia; ARE 680.718-ED, Rel. Min. Luiz Fux).
+    O Plenário virtual do Supremo Tribunal Federal, ao apreciar o ARE 646.000-RG, Rel. Min. Marco Aurélio, reconheceu a existência de repercussão geral de questão constitucional análoga a ora discutida. Veja-se a ementa do referido julgado:
+    “SERVIDOR PÚBLICO – FUNÇÃO TEMPORÁRIA – EXTENSÃO DE DIREITOS DECORRENTES DA OCUPAÇÃO DE CARGO PÚBLICO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia acerca da extensão dos direitos sociais previstos no § 3º do artigo 39 da Constituição Federal aos servidores e empregados públicos contratados na forma do artigo 37, inciso IX, do Diploma Maior, sob vínculo trabalhista, para atender a necessidade temporária de excepcional interesse público.”
+    Diante do exposto, reconsidero a decisão agravada e dou provimento ao agravo para admitir o recurso extraordinário. Com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil. Julgo prejudicado o agravo regimental.
+    Publique-se.
+          Brasília, 26 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
