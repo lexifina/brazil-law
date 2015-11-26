@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, na qual se sustenta que o ato judicial ora questionado teria desrespeitado a autoridade da Súmula Vinculante nº 11/STF, que possui o seguinte teor:
+    “Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.” (grifei)
+    Cabe observar, considerados os elementos contidos nestes autos, que o ato objeto da presente reclamação não desrespeitou a autoridade da Súmula Vinculante nº 11/STF.
+    É que as razões invocadas pela MMª Juíza de Direito da 1ª Vara Criminal da comarca de Várzea Paulista/SP (Processo-crime nº 0003513- -29.2015.8.26.0655) revelam-se em conformidade com aquelas que deram suporte à Súmula Vinculante nº 11/STF (que permite, excepcionalmente, o uso de algemas, desde que justificada sua necessidade), o que basta para afastar, por inocorrente, a alegação de desrespeito à autoridade daquele pronunciamento sumular do Supremo Tribunal Federal, inviabilizando-se, em consequência, o acesso à via reclamatória.
+    Com efeito, a autoridade judiciária reclamada indicou, de maneira clara e objetiva, as razões justificadoras da necessidade, no caso, da utilização de algemas, inexistindo, desse modo, desrespeito ao referido enunciado vinculante.
+    Eis, no ponto, o teor da fundamentação da ilustre magistrada local, de que destaco, por relevante, o seguinte fragmento:
+    “(...) Declarada aberta a audiência, oportunidade em que o réu foi citado da acusação. Inicialmente, pela Defesa do corréu CARLOS AUGUSTO MULLER GOMIEIRO foi dito: ‘Requeiro que o réu seja mantido em audiência sem algemas. Requeiro que seu interrogatório seja feito como último ato da instrução, bem como requeiro que a audiência seja redesignada até a localização do outro corréu’. Pela MMª. Juíza foi dito: ‘Considerando-se a vulnerabilidade deste espaço onde é realizada a audiência e com o fim de se preservar a ordem pública, a segurança das pessoas aqui presentes e o andamento da audiência, indefiro o pedido da defesa, devendo o réu ser mantido com algemas.” (grifei)
+    Cumpre acentuar, por oportuno, que a diretriz consagrada no enunciado sumular vinculante em referência tem sido reafirmada por esta Suprema Corte em casos nos quais se instaurou controvérsia virtualmente idêntica à que ora se examina (Rcl 8.409-AgR/MG, Rel. Min. GILMAR MENDES – Rcl 8.628-AgR/SP, Rel. Min. CELSO DE MELLO – Rcl 10.479-AgR/RJ, Rel. Min. DIAS TOFFOLI – Rcl 18.805-AgR/MG, Rel. Min. GILMAR MENDES – Rcl 19.213-AgR/PR, Rel. Min. CELSO DE MELLO, v.g.):
+    “RECLAMAÇÃO. PROCESSO PENAL. USO DE ALGEMA. ALEGAÇÃO DE CONTRARIEDADE À SÚMULA VINCULANTE N. 11 DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DA MEDIDA FUNDAMENTADA.
+    …...................................................................................................
+    2. A leitura do ato ora reclamado evidencia que a excepcionalidade da medida foi determinada em razão do perigo que o Reclamante representaria à integridade física daqueles que participaram da audiência se estivesse sem as algemas. Pautou-se a autoridade Reclamada na evidente periculosidade do agente. Fundamento consistente. Inexistência de contrariedade à Súmula Vinculante n. 11 do Supremo Tribunal. Precedentes.
+    3. Reclamação julgada improcedente.”
+    (Rcl 8.712/RJ, Rel. Min. CÁRMEN LÚCIA – grifei)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. PENAL. USO DE ALGEMAS DURANTE AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. SUPOSTA AFRONTA À SÚMULA VINCULANTE 11 DESTA SUPREMA CORTE. INEXISTÊNCIA. DECISÃO RECLAMADA DEVIDAMENTE FUNDAMENTADA. DEMONSTRAÇÃO DE NECESSIDADE PARA GARANTIA DA SEGURANÇA DO ATO. AGRAVO IMPROVIDO.
+    I – O uso de algemas durante audiência de instrução e julgamento pode ser determinado pelo magistrado quando presentes, de maneira concreta, riscos a segurança do acusado ou das pessoas ao ato presentes. Precedentes.
+    II – No caso em análise, a decisão reclamada apresentou fundamentação idônea justificando a necessidade do uso de algemas, o que não afronta a Súmula Vinculante 11.
+    …...................................................................................................
+    IV – Agravo improvido.
+    (Rcl 9.468-AgR/RJ, Rel. Min. RICARDO LEWANDOWSKI – grifei)
+    Impende registrar, por necessário, que Juízes de ambas as Turmas desta Suprema Corte, defrontando-se com idêntica pretensão deduzida em sede de reclamação, vieram a julgá-la incabível (Rcl 6.576/SP, Rel. Min. AYRES BRITTO – Rcl 6.797/DF, Rel. Min. CELSO DE MELLO – Rcl 6.919/DF, Rel. Min. ROBERTO BARROSO – Rcl 7.097/DF, Rel. Min. TEORI ZAVASCKI – Rcl 10.025/SP, Rel. Min. CÁRMEN LÚCIA – Rcl 10.913/RJ, Rel. Min. GILMAR MENDES – Rcl 13.952/ES, Rel. Min. RICARDO LEWANDOWSKI – Rcl 14.702/PA, Rel. Min. JOAQUIM BARBOSA, v.g.).
+    Em suma: resulta claro inexistir, na espécie, ofensa à Súmula Vinculante nº 11/STF, o que inviabiliza a utilização do instrumento constitucional da reclamação no caso ora em exame.
+    Sendo assim, e em face das razões expostas, nego seguimento à presente reclamação, restando prejudicado, em consequência, o exame do pedido de medida liminar.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 26 de novembro de 2015.
+Ministro CELSO DE MELLO
+Relator
