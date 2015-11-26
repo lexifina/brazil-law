@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de mandado de injunção fundado em omissão legislativa, atribuída aos Presidentes da República, do Senado Federal e da Câmara dos Deputados, no sentido de assegurar a cada deficiente visual cão guia devidamente treinado.
+    2. A legitimidade ativa no mandado de injunção, de acordo com a jurisprudência desta Corte, deve ter relação com o impedimento do exercício de direito ou prerrogativa constitucional em decorrência da mora legislativa. Nesse sentido:
+    (…) III. - Somente tem legitimidade ativa para a ação o titular do direito ou liberdade constitucional, ou de prerrogativa inerente à nacionalidade, à soberania e à cidadania, cujo exercício esteja inviabilizado pela ausência da norma infraconstitucional regulamentadora. IV. - Negativa de seguimento do pedido. Agravo não provido. (MI 595 AgR, Relator(a): Min. CARLOS VELLOSO, Tribunal Pleno, DJ 23-04-1999)
+    No caso, o impetrante não é o titular do direito que estaria sendo obstaculizado por conta de mora legislativa, tanto é assim que atua “pela coletividade e pelos deficientes”, daí a sua ilegitimidade ativa para propor o presente mandado de injunção.
+    3. Não obstante, as normas constitucionais invocadas pelo impetrante (arts. 37, 23, VI, 24, VIII, 170, VI, 186, II, 200, VIII, 220, VIII, 220, II, 225) sequer tratam da questão ora trazida, daí a falta de pressuposto de cabimento do presente mandado de injunção. Nessa linha de consideração:
+    (...) O mandado de injunção não é remédio destinado a fazer suprir lacuna ou ausência de regulamentação de direito previsto em norma infraconstitucional, e muito menos de legislação que se refere a eventuais prerrogativas a serem estabelecidas discricionariamente pela União. No presente caso, não existe norma constitucional que confira o direito que, segundo os impetrantes, estaria à espera de regulamentação. Como ressaltou o Procurador-Geral da República, a União não está obrigada a legislar sobre a matéria, porque não existe, na Constituição Federal, qualquer preceito consubstanciador de determinação constitucional para se que legisle, especificamente, sobre exploração de jogos de bingo. Agravo regimental desprovido. (MI 766 AgR, Relator(a): Min. JOAQUIM BARBOSA, Tribunal Pleno, DJe 13-11-2009)
+    4. Diante do exposto, nego seguimento ao pedido.
+    Publique-se. Intimem-se.
+    Brasília, 26 de novembro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
