@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Superior Tribunal de Justiça. Veja-se o seguinte trecho de ementa:
+    “PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. CARGO DE ENFERMEIRO.ACUMULAÇÃO. JORNADA SUPERIOR A 60 HORAS SEMANAIS. IMPOSSIBILIDADE.”
+    O recurso não deve ser admitido, tendo em visa que, para se chegar à conclusão pretendida pela parte agravante, seria imprescindível uma nova apreciação dos fatos e provas constantes dos autos, o que torna inviável o processamento do recurso extraordinário. Nesse sentido, confiram-se os seguintes julgados das duas Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS NA ÁREA DE SAÚDE. COMPATIBILIDADE DE HORÁRIO. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA.
+    1. A acumulação remunerada de cargos públicos, quando sub judice a controvérsia sobre a compatibilidade de horários, demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 desta Corte, a qual dispõe, verbis: Para simples reexame de prova não cabe recurso extraordinário. Precedentes: AI 730.343-AgR, Rel. Min. Dias Toffoli, Primeira Turma, Dje 14/12/2012, RE 633.298-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje 14/2/2012, e ARE 773.327-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, Dje 20/11/2013.
+    2. A decisão devidamente fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Nesse sentido, ARE 740.877-AgR/DF, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 4/6/2013.
+    3. In casu, o acórdão extraordinariamente recorrido assentou: ADMINISTRATIVO - SERVIDOR PÚBLICO FEDERAL - ACUMULAÇÃO DE cargos PÚBLICOS - ENFERMEIRO - MANDADO DE SEGURANÇA - JORNADA DE TRABALHO SUPERIOR A 60 HORAS - NÃO COMPROVAÇÃO - ART. 3º DO DECRETO 4.836/03 - REDUÇÃO DA JORNADA - PARECER AGU 145/98.
+    4. Agravo regimental DESPROVIDO.” (ARE 751.721-AgR, Rel. Min. Luiz Fux, Primeira Turma).
+    “Agravo regimental no recurso extraordinário com agravo. 2. Administrativo. Servidor Público. Professor. acumulação de cargos. 3. Carga horária excessiva. 4. Reexame fático-probatório. Verbete 279 da Súmula do STF. Precedente. 5. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, traduz ofensa reflexa à Constituição Federal. ARE-RG 748.371, Tema 660. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE 797.445-AgR, Rel. Min. Gilmar Mendes, Segunda Turma)
+     Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
