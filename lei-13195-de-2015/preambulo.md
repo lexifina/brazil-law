@@ -1,0 +1,2 @@
+Altera a Lei nº 12.712, de 30 de agosto de 2012, para estabelecer que a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF ficará encarregada da gestão do Fundo de Estabilidade do Seguro Rural - FESR até a completa liquidação das obrigações deste Fundo, as Leis nº s 4.829, de 5 de novembro de 1965, e 10.823, de 19 de dezembro de 2003, e o Decreto-Lei nº 73, de 21 de novembro de 1966.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
