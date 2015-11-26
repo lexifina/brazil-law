@@ -1,0 +1,8 @@
+Bem examinados os autos, verifica-se que este processo foi remetido à origem (fl. 317v) pela Secretaria Judiciária desta Corte, em 18/1/2012, para que aguardasse o julgamento do Tema 315 da repercussão geral, nos termos da Portaria GP 138/2009-STF. Ocorre que a hipótese em exame versa sobre questão distinta daquela examinada no aludido tema, motivo porque torno sem efeito a certidão de fl. 317v e passo a examinar o recurso.
+    O recurso extraordinário em questão trata de matéria cuja repercussão geral foi rejeitada por este Tribunal no julgamento do ARE 871.499-RG/MA (Tema 804), assim ementado:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORES PÚBLICOS. ESTADO DO MARANHÃO. REAJUSTE CONCEDIDO PELO ART. 4º DA LEI ESTADUAL 8.369/06. NATUREZA DE REVISÃO GERAL ANUAL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à natureza do reajuste concedido pelo art. 4º da Lei Estadual 8.369/06, se de revisão geral anual ou não, é de caráter infraconstitucional. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC”.
+    Isso posto, tendo em vista que esta Corte julgou inexistente a repercussão geral da questão em exame, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 26 de novembro de 2015.
+Ministro Ricardo Lewandowski
+Presidente
