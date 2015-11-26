@@ -1,0 +1,19 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, contra decisão do Núcleo de Pessoal da Penitenciária de Presidente Prudente que negara ao autores pedido de aposentadoria.
+    Narram os reclamante terem sido admitidos em concurso público no cargo de agente de segurança penitenciária, percebendo, em virtude da natureza da atividade laboral, o adicional de insalubridade. Os reclamantes aduzem que, não obstante a realização do trabalho em condições insalubres, foi-lhes negado o direito à aposentadoria especial, em violação da Súmula Vinculante 33. Requerem, liminarmente, o reconhecimento da aposentadoria de forma integral e paritária e, no mérito, a anulação da decisão.
+    É, em síntese, o relatório.
+    Verifica-se, de plano, que inexiste a alegada violação, porquanto os fundamentos da decisão impugnada são diversos daqueles em que se embasou a Súmula Vinculante 33.
+    Com efeito, a decisão reclamada fundamentou-se na existência de norma complementar a reger a disciplina inscrita no art. 40, § 4º, III, da Constituição da República. A hipótese, portanto, distingue-se daquela que foi sumulada. Em casos tais, em que há ausência de identidade estrita entre a decisão do Supremo e a decisão reclamada, a reclamação não tem cabimento.
+    “A ausência de identidade de temas entre o ato reclamado e o paradigma desta Corte conduz à inadmissão da Reclamação.”
+    (Rcl 20564 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 23/06/2015, PROCESSO ELETRÔNICO DJe-156 DIVULG 07-08-2015 PUBLIC 10-08-2015)
+    Registre-se que, in casu, inexiste a lacuna legal que deu origem à Súmula. Isso porque, no Estado de São Paulo, o direito à aposentadoria especial é regido pela Lei Complementar 1.109/2010, a afastar a aplicação da Súmula Vinculante. Nesse sentido, confira-se:
+    “EMENTA: AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL. INTEGRANTE DA CARREIRA DE AGENTE DE SEGURANÇA PENITENCIÁRIA E DA CLASSE DE AGENTE DE ESCOLTA E VIGILÂNCIA PENITENCIÁRIA DO ESTADO DE SÃO PAULO. ATIVIDADE DE RISCO. ART. 40, § 4º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. LEI COMPLEMENTAR N. 1.109/2010. INEXISTÊNCIA DE OMISSÃO LEGISLATIVA. 1. O reconhecimento da existência e da aplicabilidade de norma infraconstitucional regulamentadora do direito constitucional pleiteado evidencia o não cabimento do mandado de injunção, por inexistir omissão legislativa inviabilizadora do exercício de direito constitucionalmente assegurado. 2. Impossibilidade de conjugação do sistema da Lei Complementar n. 1.109/2010 do Estado de São Paulo com o da Lei n. 8.213/1991, para com isso, cogitar-se de idade mínima para aposentação. Precedentes. 3. Agravo regimental ao qual se nega provimento.”
+    (MI 5390 AgR, Relator(a):  Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 06/03/2013, PROCESSO ELETRÔNICO DJe-058 DIVULG 26-03-2013 PUBLIC 01-04-2013)
+    Ademais, conforme recente julgado deste Tribunal, descabe, em sede de reclamação, reconhecer eventual direito à aposentadoria. Confira-se:
+    “Não cabe a este Tribunal, em sede de reclamação, definir se o reclamante tem ou não efetivo direito à aposentadoria e em que condições: a Súmula Vinculante 33 destina-se apenas a suprir a lacuna normativa, cabendo à autoridade competente analisar o cumprimento dos requisitos legais”.
+    (Rcl 21652 ED, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 29/09/2015, PROCESSO ELETRÔNICO DJe-206 DIVULG 14-10-2015 PUBLIC 15-10-2015)
+    Ante o exposto, com fulcro nos precedentes indicados, julgo improcedente a presente reclamação, com prejuízo da liminar, nos termos dos artigos 21, § 1º, e 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal
+    Publique-se. Intime-se.
+    Brasília, 26 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
