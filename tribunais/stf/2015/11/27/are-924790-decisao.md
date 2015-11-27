@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 1ª Turma Recursal de Fazenda Pública do Tribunal de Justiça do Estado do Rio de Janeiro, a seguir ementado:
+    “Servidor público. Férias não gozadas a critério da administração. Fichas funcionais apontam o computo em dobro dos períodos de férias. Impossibilidade de dupla utilização do período em proveito próprio. VOTO PELO CONHECIMENTO E PROVIMENTO DO RECURSO”. (eDOC 7, p. 1)
+    No recurso extraordinário, aponta-se violação ao art. 7º, XVII, da Constituição Federal. O recorrente aduz, em síntese, que tem direito à conversão das férias não gozadas em pecúnia.
+    Decido.
+    As razões recursais não merecem acolhida.
+    Na espécie, o Tribunal de origem assentou que o recorrente não faria jus à conversão das férias não gozadas em pecúnia, ao fundamento de que o referido período já havia sido computado em dobro para concessão de sua aposentadoria.
+    Em detida análise dos autos, observa-se que o recorrente não impugnou o mencionado fundamento, cingindo-se a afirmar que tem direito à conversão das férias não usufruída em pecúnia.
+    Nesses termos, tendo em vista a ausência de impugnação específica do acórdão recorrido, verifica-se a deficiência da fundamentação do recurso extraordinário, a atrair a incidência da Súmula 284 do STF.
+    Nesse sentido, cito os seguintes precedentes:
+    “CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULAS 287 DO STF. FALTA DE IMPUGNAÇÃO DAS RAZÕES DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. ALEGADA VIOLAÇÃO AO ART. 5º, II, LIV E LV DA CONSTITUIÇÃO. OFENSA INDIRETA. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - As razões do recurso não infirmam os fundamentos da decisão agravada, o que atrai a incidência da Súmula 287 do STF. II - A recorrente não atacou as razões expostas no acórdão recorrido. Incide, no caso, a Súmula 284 do STF, haja vista a deficiente fundamentação do recurso extraordinário. III - É pacífico o entendimento nesta Corte de que não cabe rever, em recurso extraordinário, decisão do Superior Tribunal de Justiça que inadmitiu recurso IV - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). V - A orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. VI - Recurso protelatório. Aplicação de multa. VII - Agravo regimental improvido”. (AI-AgR 742.177, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 9.10.2009)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INSUFICIÊNCIA DO APELO QUANTO AOS FUNDAMENTOS DO JULGADO. SÚMULAS 283 E 284 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (RE-AgR 748.922, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 17.11.2014)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 27 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
