@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PENSÃO POR MORTE DE EX-COMBATENTE. VIÚVA. ART. 53, II, DO ADCT. CUMULAÇÃO COM PENSÃO POR MORTE DE EX-COMBATENTE IMPOSSIBILIDADE. MESMO FATO GERADOR.
+    1. Pretensão da Autora-Apelante de receber o benefício de pensão especial de ex-combatente, nos termos do art. 53, II, do ADCT, cumulado com o benefício de pensão por morte de ex-combatente que já percebe.
+    2. A jurisprudência do Col. STJ e deste Tribunal é no sentido da impossibilidade de cumulação da pensão por morte de ex-combatente com a pensão especial de ex-combatente do art. 53, do ADCT, se o benefício previdenciário já se concedeu com as benesses pertinentes à condição de ex-combatente do seu instituidor, ou seja, por apresentarem o mesmo fato gerador -a condição de ex-combatente, sob pena de incidir-se em um indiscutível “bis in idem”. (AARESP 201201659740, HERMAN BENJAMIN, STJ - SEGUNDA TURMA, DJE DATA:18/06/2014 .DTPB:08033236720134058400, APELREEX/RN, RELATOR: DES. FED. MANOEL ERHARDT, Primeira Turma, JULGAMENTO: 26/06/2014; PJE: 08003551020144050000, RELATOR: DES. FED. IVAN LIRA DE CARVALHO (CONVOCADO), Quarta Turma, JULGAMENTO: 01/04/2014; APELREEX21439/01/SE, RELATOR: DES. FED. MARCELO NAVARRO, Terceira Turma, JULGAMENTO: 16/05/2013, PUBLICAÇÃO: DJe 27/05/2013 - Página 190).
+    3. Apelação improvida.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação ao art. 53, II e III, do ADCT. Sustenta que “a tese de que as pensões apresentam o mesmo fato gerador, condição de ex-combatente, em hipótese alguma pode prosperar, uma vez que só tem em comum a condição de ex-combatente, contudo uma é fruto de contribuição (previdenciária) e a outra a título gratuito (prêmio) sem obrigação de contribuição.”
+    O recurso extraordinário não deve ser provido. O Tribunal de origem assentou que “não se afigura possível a cumulação da pensão por morte de ex-combatente que a Autora já percebe com a pensão especial do art. 53, do ADCT da CF/88, se o benefício previdenciário já se concedeu com as benesses pertinentes à condição de ex-combatente do seu instituidor, ou seja, por apresentarem o mesmo fato gerador, sob pena de incidir-se em um indiscutível ‘bis in idem’.” Nesse contexto, dissentir da conclusão do acórdão recorrido exigiria o reexame dos fatos e do material probatório constante dos autos, bem como uma nova análise da legislação infraconstitucional aplicável ao caso. Incidência da Súmula 279/STF.
+    Nesse sentido, confiram-se: RE 929.292, Rel. Min. Edson Fachin; e RE 898.513, Rel. Min. Dias Toffoli.
+     Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+     Publique-se.
+ Brasília, 27 de novembro de 2015.
+      Ministro LUÍS ROBERTO BARROSO
+Relator
