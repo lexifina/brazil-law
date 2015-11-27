@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Militar do Estado do Rio Grande do Sul, assim ementado (eDOC 05, p. 331-332):
+    “REPRESENTAÇÃO DO MINISTÉRIO PÚBLICO PARA PERDA DE GRADUAÇÃO. SARGENTO CONDENADO DEFINITIVAMENTE À PENA DE QUATRO ANOS E SEIS MESES DE RECLUSÃO, PELA PRÁTICA DOS DELITOS INSCULPIDOS NOS ART. 321 E 312 (TRÊS VEZES), AMBOS C/C ART. 70, NA FORMA DO ART. 80 E DO ART. 81, § 1º, TODOS DO CP MILITAR. EXTRAVIO DE DOCUMENTAÇÃO E FALSIDADE IDEOLÓGICA. PRELIMINAR DE NULIDADE ABSOLUTA DO PROCESSO QUE RESULTOU NA PRESENTE REPRESENTAÇÃO. INDEFERIMENTO. REINCIDÊNCIA EM CONDUTA GRAVE. SOBRESTAMENTO ATÉ O JULGAMENTO EM SUPERIOR INSTÂNCIA. RESERVA APÓS A DATA DO CRIME. MANUTENÇÃO DOS PROVENTOS. REPRESENTAÇÃO ACOLHIDA PARA A PERDA DA GRADUAÇÃO E CONSEQUENTE EXCLUSÃO DA BRIGADA MILITAR. (...)”
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se violação aos arts. 7º, XXIV, e 125, §4º, da CF. Busca-se, em suma, a reforma da decisão que declarou a perda de sua aposentadoria como consequência da perda da graduação.
+    O Supremo Tribunal Federal se manifestou sobre a matéria invocada no julgamento do RE 601.146, de relatoria do Ministro Marco Aurélio, DJe 21.02.2011, Tema 358. O Plenário desta Corte assentou que o tema “competência dos Tribunais de Justiça dos Estados e do Distrito Federal para decidir sobre questão previdenciária, no bojo de processo autônomo de perda de posto e patente de militar,” possui repercussão geral.
+    Ante o exposto, em vista da manifestação do Supremo Tribunal Federal acerca da matéria suscitada neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 27 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
