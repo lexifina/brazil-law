@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 1º, IV, 170, parágrafo único, e 237 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Supremo Tribunal Federal já decidiu que é inconstitucional restrição imposta pelo Estado ao livre exercício de atividade econômica ou profissional, quando aquelas forem utilizadas como meio de cobrança indireta de tributos, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO TRIBUTÁRIO E DIREITO PROCESSUAL CIVIL. CLÁUSULA DA RESERVA DE PLENÁRIO. ART. 97 DA CONSTITUIÇÃO FEDERAL. JURISPRUDÊNCIA DO TRIBUNAL PLENO DO STF. RESTRIÇÕES IMPOSTAS PELO ESTADO. LIVRE EXERCÍCIO DA ATIVIDADE ECONÔMICA OU PROFISSIONAL. MEIO DE COBRANÇA INDIRETA DE TRIBUTOS. 1. A jurisprudência pacífica desta Corte, agora reafirmada em sede de repercussão geral, entende que é desnecessária a submissão de demanda judicial à regra da reserva de plenário na hipótese em que a decisão judicial estiver fundada em jurisprudência do Plenário do Supremo Tribunal Federal ou em Súmula deste Tribunal, nos termos dos arts. 97 da Constituição Federal, e 481, parágrafo único, do CPC. 2. O Supremo Tribunal Federal tem reiteradamente entendido que é inconstitucional restrição imposta pelo Estado ao livre exercício de atividade econômica ou profissional, quanto aquelas forem utilizadas como meio de cobrança indireta de tributos. 3. Agravo nos próprios autos conhecido para negar seguimento ao recurso extraordinário, reconhecida a inconstitucionalidade, incidental e com os efeitos da repercussão geral, do inciso III do §1º do artigo 219 da Lei 6.763/75 do Estado de Minas Gerais.” (ARE 914045 RG, Relator(a): Min. EDSON FACHIN, julgado em 15/10/2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-232 DIVULG 18-11-2015 PUBLIC 19-11-2015)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2015.
+Ministra Rosa Weber
+Relatora
