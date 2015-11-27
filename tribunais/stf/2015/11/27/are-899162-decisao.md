@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 03, p. 403):
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACÓRDÃO A QUO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. APRECIAÇÃO DO RECURSO ESPECIAL DE FORMA MONOCRÁTICA, COM FULCRO NO ART. 557 DO CÓDIGO PROCESSO CIVIL – CPC, C.C O ART. 3º DO CÓDIGO DE PROCESSO PENAL – CPP. PLEITO DE SUSTENTAÇÃO ORAL NO JULGAMENTO DE AGRAVO REGIMENTAL. DESCABIMENTO (ART. 159 DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA – RISTJ). DESCAMINHO. CRIME FORMAL. INABILITAÇÃO PARA DIRIGIR. MANUTENÇÃO DA PENALIDADE. AGRAVO REGIMENTAL DESPROVIDO. (...)”
+    Os embargos de declaração foram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se violação aos arts. 2º, 5º, LIII, 52, III, “a”, 84, XIV e 104, parágrafo único e incisos, da CF.
+    Busca-se, em suma, a nulidade do acórdão proferido pelo STJ em razão da participação de Desembargador convocado na sessão de julgamento. Suscita a inconstitucionalidade do art. 41 da Lei nº 8.038/1990 e do art. 56 do Regimento Interno do STJ.
+    A Vice-Presidência do STJ inadmitiu o recurso por ofensa reflexa à Constituição.
+    É o relatório. Decido.
+    Verifico que o recurso está em consonância com jurisprudência dominante desta Corte, que entende que a convocação de desembargadores para atuar em tribunais superiores, quando prevista em lei, não viola o postulado constitucional do juiz natural.
+    Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Pretendida nulidade de decisão monocrática proferida por desembargador convocado para atuar no Superior Tribunal de Justiça. Alegação de ofensa ao princípio do juiz natural (CF, art. 5º, inciso LIII). Não ocorrência. Precedentes. Regimental não provido. 1. O Supremo Tribunal já firmou entendimento acerca da constitucionalidade da convocação de desembargadores para atuar nos tribunais superiores, ao passo que o regimento interno do Superior Tribunal de Justiça traz essa autorização em seu art. 56, não configurando isso, portanto, afronta ao princípio constitucional do juiz natural (CF, art. 5º, inciso LIII). 2. Agravo regimental a que se nega provimento.” (ARE 639.758 Ag.Reg., Relator Dias Toffoli, Primeira Turma, DJe 08.10.2014).
+    Corrobora tal entendimento, a tese fixada sob a sistemática da repercussão geral no julgamento do RE 597.133 (Relator Ricardo Lewandowski, Pleno, DJe 66.04.2011):
+    “RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. JULGAMENTO DE APELAÇÃO POR TURMA JULGADORA COMPOSTA MAJORITARIAMENTE POR JUÍZES FEDERAIS CONVOCADOS. NULIDADE. INEXISTÊNCIA. OFENSA AO PRINCÍPIO DO JUIZ NATURAL. INOCORRÊNCIA. PRECEDENTES. RECURSO DESPROVIDO. I – Não viola o postulado constitucional do juiz natural o julgamento de apelação por órgão composto majoritariamente por juízes convocados, autorizado no âmbito da Justiça Federal pela Lei 9.788/1999. II – Colegiado constituídos por magistrados togados, integrantes da Justiça Federal, e a quem a distribuição de processos é feita aleatoriamente. III – Julgamentos realizados com estrita observância do princípio da publicidade, bem como do direito ao devido processo legal, à ampla defesa e ao contraditório. IV – Recurso extraordinário desprovido.”
+    Diante do entendimento consolidado desta Corte, possível vício no ato convocatório do Desembargador somente seria impugnável sob o prisma da legislação infraconstitucional aplicável à espécie (Lei 8.038/1990 e RISTJ), o que inviabiliza o processamento do apelo extremo.
+    Ante o exposto, nego seguimento ao recurso, nos termos dos arts. 544, § 4º, II, “b”, do CPC e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
