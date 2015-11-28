@@ -1,0 +1,20 @@
+DECISÃO
+TÍTULO CONDENATÓRIO PRECLUSO – EFICÁCIA – SUSPENSÃO – RELEVÂNCIA NÃO DEMONSTRADA –
+HABEAS CORPUS – LIMINAR INDEFERIDA.
+    1. O assessor Dr. Marcos Paulo Dutra Santos prestou as seguintes informações:
+    O paciente – 2º sargento do Exército –, enquanto estava preso em decorrência da prática do crime de deserção, alegou ter sido vítima de tortura. O Ministério Público Militar instaurou procedimento para apurar a notícia, mas, como não foi provada, ofereceu denúncia pelos delitos previstos nos artigos 214, cabeça, por três vezes (calúnia), e 298, cabeça (desacato a superior), do Código Penal Militar.
+    A Auditoria da 11ª Circunscrição Judiciária Militar, no Processo nº 0000063-18.2008.7.11.0011, julgando procedente o pedido, condenou-o à pena de um ano, três meses e quinze dias de reclusão.
+    A defesa interpôs apelação, sustentando ofensa ao princípio do promotor natural. Apontou a ausência de suporte probatório para a condenação. Aduziu que o recorrente não possuía capacidade de entender o caráter ilícito da própria conduta, devendo ser afastada a culpabilidade no tocante ao crime de desacato. O Superior Tribunal Militar desproveu o recurso. Destacou que os fatos descritos na denúncia teriam sido comprovados, inexistindo acusação de exceção. Por maioria, deixou de acolher a excludente da culpabilidade alegada.
+    Interpostos embargos infringentes, de nº 63-18.2008.7.11.0011, articulou-se com a semi-imputabilidade do paciente, porque reconhecida em processo anterior, por deserção. O Superior Tribunal Militar desproveu-os, por maioria, declarando extinta a pretensão punitiva estatal quanto ao delito de calúnia, em razão da prescrição intercorrente, restando a pena de um ano de reclusão, relativa ao crime de desacato a superior, implementado o benefício da suspensão condicional por dois anos.
+    Neste habeas, o impetrante argui violação ao princípio do promotor natural, porquanto não teria ocorrido a distribuição aleatória do caso, mas a escolha direcionada a promotora suspeita, porque alvo de anterior representação formalizada pelo paciente no Ministério Público Federal. Assinala que o procedimento instaurado para apuração do crime de tortura contra o paciente, reputado, ao final, fantasioso – daí ter sido denunciado por injúria e desacato – seria absolutamente nulo, já que examinado pela Justiça Militar, e não pela Federal Comum. Ressalta que o interrogatório foi mantido como primeiro ato do processo, não obstante a vigência da Lei nº 11.719/2008, importando nulidade absoluta do processo.
+    Requer, liminarmente, a suspensão da execução da pena até o julgamento definitivo desta impetração. No mérito, busca a anulação do processo-crime originário.
+    Anoto que a promotora militar aludida pelo impetrante declarou-se suspeita, voluntariamente, em virtude de exceção de suspeição formulada pela defesa do paciente, conforme consta no relatório da sentença penal condenatória. O acusado teria formalizado, contra a integrante do Ministério Público Militar, representação na Procuradoria Geral da República – de nº 1.00000002901/2008-46, em 27 de março de 2008 – e no Conselho Nacional do Ministério Público – de nº 381/2008-92, em 2 de maio de 2008. A denúncia, subscrita por ela própria, é de 5 de setembro imediato.
+    O interrogatório do paciente foi o primeiro ato instrutório, realizado em 15 de dezembro de 2008.
+    A fase é de exame da medida acauteladora.
+    2. Observem a organicidade e a dinâmica do Direito. A questão alusiva ao momento do interrogatório não foi versada na origem, descabendo questioná-la na via estreita do habeas corpus, mormente considerada a natureza de possível nulidade – relativa. Quanto à participação de promotora, objeto de exceção de suspeição formalizada, ocorreu apenas na apresentação da denúncia, seguindo-se o afastamento. Sob o ângulo do crime de tortura, articula-se com aspecto não de natureza física, mas psicológica.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 28 de novembro de 2015, às 17h50.
+Ministro MARCO AURÉLIO
+Relator
