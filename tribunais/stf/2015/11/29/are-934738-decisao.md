@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 03, p. 991):
+    “APELAÇÃO CRIMINAL – CONCUSSÃO – DEFESA – NULIDADES – INOBSERVÂNCIA DO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ – ART. 399, §2º, DO CPP – INOCORRÊNCIA – USO DE ANALOGIA AO ART. 132 DO CPC – INÉPCIA DA DENÚNCIA – AUSÊNCIA DE INDIVIDUALIZAÇÃO DA CONDUTA – AMPLA DEFESA GARANTIDA – ATENDIMENTO AOS REQUISITOS LEGAIS – ANÁLISE DAS TESES DEFENSIVAS – OMISSÃO – INOCORRÊNCIA – TESES DEVIDAMENTE DEBATIDAS E AFASTADAS – INDIVIDUALIZAÇÃO DA PENA – BIS IN IDEM – INOCORRÊNCIA – PRELIMINARES RECHAÇADAS – MÉRITO – ABSOLVIÇÃO – IMPOSSIBILIDADE – MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS – REDUÇÃO DA PENA-BASE – INVIABILIDADE – CONSEQUÊNCIAS DO CRIME E PERSONALIDADE DO ACUSADO FAVORÁVEIS – DECOTE DA PERDA DO CARGO – EFEITO DA CONDENAÇÃO NÃO AUTOMÁTICO – DECISÃO FUNDAMENTADA – MANUTENÇÃO DA APLICAÇÃO – RECURSO PARCIALMENTE PROVIDO SEM REDUÇÃO DA PENA – MINISTÉRIO PÚBLICO – RECRUDESCIMENTO DA PENA – MAIOR INFLUÊNCIA DAS CIRCUNSTÂNCIAS JUDICIAIS NA PENA-BASE – VIABILIDADE – SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS – INADEQUAÇÃO AO CASO CONCRETO – RECURSO PARCIALMENTE PROVIDO.”
+    Os embargos de declaração opostos foram rejeitados.
+    Os embargos infringentes foram parcialmente providos para conceder a substituição da pena privativa de liberdade por restritiva de direitos.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos art. 5º, XLVI e LIV e 93, IX, da CF. Argumenta-se que a decisão que condenou os recorrentes à perda do cargo público deve ser reformada por violação os princípios da individualização da pena, do devido processo legal e da motivação das decisões judiciais.
+    A Terceira Vice-Presidência inadmitiu o recurso extraordinário por se tratar de ofensa meramente reflexa à CF.
+     É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Supremo Tribunal Federal já se manifestou, sob a sistemática da repercussão geral, sobre as teses de violação ao devido processo legal e ao dever de motivação das decisões judiciais.
+    No julgamento do ARE 748.371 (Relatoria do Ministro Gilmar Mendes, Pleno, DJe 01.08.2013, Tema 660), esta Corte assentou que o tema sobre violação dos princípios do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, não possui repercussão geral.
+    No tocante à violação do dever constitucional de motivação das decisões, o Supremo Tribunal Federal se manifestou sobre o tema invocado no julgamento do AI-QO-RG 791.292 (Relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, Tema 339). O Plenário reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    No caso, verifico que o acórdão está devidamente fundamentado, ainda que suas razões sejam contrárias ao interesse do recorrente.
+    Por fim, quanto à ofensa ao princípio da individualização da pena, entendo que a matéria possui índole infraconstitucional. Suposta violação constitucional seria meramente reflexa porque sua caracterização dependeria de reexame prévio do caso à luz de norma infraconstitucional, na qual se apoiou o acórdão recorrido.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 544, §4º, II, “a”, do CPC.
+    Publique-se.
+    Brasília, 29 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
