@@ -1,0 +1,25 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e Territórios, maneja recurso extraordinário o Ministério Público do Distrito Federal e Territórios. Aparelhado o recurso na afronta ao art. 5º, caput, XLIII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Em sede de agravo em execução, a 3ª Turma Criminal do Tribunal de Justiça do Distrito Federal e Territórios negou provimento ao recurso ministerial, em acórdão assim ementado:
+    “RECURSO DE AGRAVO. EXECUÇÃO PENAL. INDULTO. CONCURSO DE PENAS POR CRIME IMPEDITIVO E NÃO IMPEDITIVO. CONSTITUCIONALIDADE DO ARTIGO 7º, PARÁGRAFO ÚNICO, DO DECRETO 7.873/2012. COMPATIBILIDADE COM ARTIGO 76 DO CÓDIGO PENAL. REQUISITOS PREENCHIDOS. CONCESSÃO DO BENEFÍCIO. RECURSO CONHECIDO E NÃO PROVIDO.
+    1. A obrigatoriedade do cumprimento de tão somente 2/3 (dois terços), e não da integralidade, da pena do crime impeditivo, não afronta o artigo 76 do Código Penal, tampouco o artigo 5º, XLIII, da Constituição Federal.
+    2. Demonstrado o preenchimento dos requisitos objetivo e subjetivo, imperioso se faz o deferimento do indulto em relação ao crime comum, permanecendo incólume a pena do delito impeditivo.
+    3. Recurso conhecido e não provido.”
+    O exame de eventual ofensa ao art. 5º, caput, XLIII, demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal (v.g.: “Inviável em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional” RE 660.186 AgR/RS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 14.02.2012; “Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária” RE 642.408 AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 14.02.2012).
+    Nesse contexto, não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, o Tribunal de origem ao decidir a questão relativa à comutação da pena, partiu da análise da legislação infraconstitucional apontada no apelo extremo (Decreto 7.873/12), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Nesse sentido, em casos análogos, cito as decisões monocráticas: ARE 859.429/DF, Rel. Min. Cármen Lúcia, DJe 04.02.2015; RE 865.178/DF, Rel. Min. Roberto Barroso, DJe 25.5.2015; RE 874.895/DF, Rel. Min. Roberto Barroso, DJe 04.5.2015, RE 882.103/DF, Rel. Min. Cármen Lúcia, DJe 27.4.2015; RE 888.192/DF, Rel. Min. Cármen Lúcia, DJe 25.5.2015; RE 899.036/DF, Rel. Min. Cármen Lúcia, DJe 05.8.2015; RE 891.416/DF, Rel. Min. Roberto Barroso, DJe 19.6.2015, cuja decisão reproduzo:
+    “DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, do qual se extrai da ementa o seguinte trecho:
+    “RECURSO DE AGRAVO. RÉU APENADO POR CRIMES COMUNS E POR CRIME EQUIPARADO A HEDIONDO. REQUISITOS OBJETIVOS E SUBJETIVOS SATISFEITOS. COMUTAÇÃO DAS PENAS. DECRETO 7.873/2012. RECURSO NÃO PROVIDO.
+    [...]”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XLIII, da Constituição. Aduz que “o deferimento do indulto ou da comutação antes do integral resgate da sanção referente ao crime hediondo representa tentativa de flexibilizar a regra constitucional do art. 5º, inciso XLIII, uma vez que os condenados por crimes hediondos ou equiparados estão sendo favorecidos com benefícios redutórios, por via indireta, hipótese que não encontra respaldo em nosso ordenamento jurídico”.
+    O recurso é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, necessária seria a análise da legislação infraconstitucional pertinente, procedimento inviável em recurso extraordinário. Nessa linha, vejam-se o RE 645.559, Rel. Min. Ricardo Lewandowski; e o RE 882.103, julgado sob a relatoria da Ministra Cármen Lúcia, assim ementado:
+    “RECURSO EXTRAORDINÁRIO. PENAL. COMUTAÇÃO DE PENA. ART. 5º, INC. XLIII, DA CONSTITUIÇÃO DA REPÚBLICA: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. “
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 30 de novembro de 2015.
+Ministra Rosa Weber
+Relatora
