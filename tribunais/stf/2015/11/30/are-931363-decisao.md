@@ -1,0 +1,11 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão do Tribunal de origem que negou seguimento ao recurso extraordinário.
+    O recurso extraordinário não pode ser provido, uma vez que não reúne as condições processuais para a sua admissibilidade, incidindo as Súmulas 279 e 280/STF. No mesmo sentido:
+    “TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CREDITAMENTO DO ICMS. SACOLAS PLÁSTICAS PERSONALIZADAS. NECESSÁRIA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA STF 279. 1. O Tribunal de origem decidiu a causa fundamentando-se na análise do conjunto fático-probatório dos autos. Assim, a revisão do entendimento firmado pelo acórdão recorrido esbarra no óbice da Súmula STF 279. 2. Agravo regimental a que se nega provimento.” (AI 779.314-AgR/RS, Rel.ª Min.ª Ellen Gracie)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. INADIMPLÊNCIA DO CONSUMIDOR FINAL. ALEGADO DIREITO AO CREDITAMENTO DO ICMS PAGO. MANDADO DE SEGURANÇA. HIPÓTESES DE CABIMENTO. MATÉRIA INFRACONSTITUCIONAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. 1. O prequestionamento explícito da questão constitucional é requisito indispensável à admissão do recurso extraordinário, além disso, os embargos de declaração não se prestam para ventilar matéria não arguida oportunamente. 2. A Súmula 282 do STF dispõe, verbis: ’É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada’. 3. A questão referente ao cabimento do mandado de segurança e das regras de creditamento do ICMS são matérias cuja solução depende do exame das normas infraconstitucionais de regência (in casu, a já revogada lei 1.533/51 e a LC 87/96), eventual ofensa à Constituição é indireta ou reflexa, o que não dá ensejo ao processamento do apelo extremo. Precedentes: AI 800.074-RG, Pleno, Rel. Min. Gilmar Mendes, Dje de 06.12.10 e AI 817.801-ED, 1ª Turma, Rel. Min. Cármen Lúcia, Dje de 26.04.11. 4. Agravo regimental a que se nega provimento”. (AI 750.994-AgR/SP, Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 30 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
