@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REAJUSTE SALARIAL DE 28,86%. CORREÇÃO MONETÁRIA. PROVA PERICIAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. INDEFERIMENTO DE PRODUÇÃO DE PROVA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 639.228. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “SERVIDOR PÚBLICO FEDERAL. REAJUSTE SALARIAL. 28,86%. PRESCRIÇÃO. MP Nº 2.169-43/2001. CORREÇÃO MONETÁRIA. PAGAMENTO NA ESFERA ADMINISTRATIVA. UFIR. EXTINÇÃO. IPCA-E. ÍNDICE ADEQUADO. SENTENÇA IMPROCEDENTE. RECURSO IMPROVIDO.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XXXV, LIV e LV, da Constituição Federal. Alega a ausência de pagamento da correção monetária nos termos do artigo 6º da Medida Provisória nº 2.169-43/2001 e que teve o pedido de produção de provas ignorado.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    Os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Ressalte-se, ainda, que os princípios da ampla defesa e do contraditório, nos casos de indeferimento de diligência probatória, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF na análise do ARE 639.228-RG, da Relatoria do Ministro Cezar Peluso, o qual possui a seguinte ementa:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.“
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de novembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
