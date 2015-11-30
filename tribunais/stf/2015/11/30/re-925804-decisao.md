@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de decisão que rejeitou os embargos infringentes, confirmando a sentença de primeiro grau, a qual julgou procedentes os embargos à execução fiscal e reconheceu a prescrição do crédito tributário (fl. 197/201):
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 30, III, e 145, I, II, do Texto Constitucional.
+    Nas razões recursais, alega-se, em suma, que não decorreu o prazo de cinco anos entre a data do ajuizamento da ação e a do despacho que ordenou a citação, ressaltando que não corre o prazo prescricional durante o período de suspensão da execução.
+    É o relatório. Decido.
+    A irresignação do recorrente não merece prosperar.
+    Inicialmente, verifico que os dispositivos apontados como supostamente violados carecem do necessário prequestionamento. Esta Corte tem consignado ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo ato recorrido. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Ademais, convém reproduzir o assentado pela decisão:
+    “In casu, a execução fiscal foi proposta em 15 de setembro de 2009, tendo a Fazenda Pública Municipal, exequente, por intermédio de seus nobres Procuradores, requerido sucessivas suspensões da execução, o que foi objeto de, igualmente, sucessivos deferimentos, observando-se que a própria embargante admitiu a paralisação do feito.
+    Cabe ressaltar ainda que foi alterado o polo passivo da execução com a inclusão do executado CARLOS ROBERTO DIAS somente em março de 2013 (fls. 25), cuja citação foi ordenada em 07 de maio de 2013 (fls. 28).
+    Nessa esteira, é indiscutível que o processo de execução fiscal ficou paralisado por mais de cinco anos, superando assim, o lustro extintivo do direito, atingindo de forma fulminante a execução fiscal, que deve ser extinta peremptoriamente, por força da prescrição, em consonância com o entendimento tranquilo do Colendo Superior Tribunal de Justiça. (Agravo de Instrumento nº 551 895-5/5-00 – Voto nº 03 195 – Porto feliz).
+    (…) No ponto específico da suspensão do curso do processo e do prazo prescricional então, tem-se que de conformidade com a súmula nº 314 do STJ e § 4º do art. 40 da LEF, ultrapassado um ano do início da suspensão o prazo prescricional intercorrente se inicia, não havendo que se falar em suspensão por prazo superior como pretende a municipalidade embargante. ” (fls. 199/201)
+    Assim, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo, em relação à contagem do prazo prescricional, demandaria o reexame de fatos e provas e o da legislação infraconstitucional, no caso, o CTN e a Lei nº 6.830/80, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida no verbete da Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre a contagem e interrupção do prazo prescricional na execução fiscal. 2. Agravo regimental a que se nega provimento.”(ARE 827984 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 10.09.2015)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Tributário e Processual Civil. 3. Execução fiscal. Prescrição intercorrente. Matéria infraconstitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 858630 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 07.04.2015)
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos artigos 21, §1º, do RISTF, e 557, caput, do CPC.
+    Publique-se.
+    Brasília, 30 de novembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
