@@ -1,0 +1,27 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre observar que o apelo extremo, ao discutir a matéria pertinente ao fundo da controvérsia, não se revela viável, eis que o acórdão recorrido examinou a questão jurídica sob uma perspectiva estritamente infraconstitucional.
+    Com efeito, o exame da causa evidencia que o acórdão emanado do Tribunal de origem resolveu a questão em referência, fazendo-o em contexto meramente legal, invocando, para fundamentar esse julgamento, regras inscritas em diploma infraconstitucional.
+    Isso significa, portanto, que o fundamento jurídico que sustenta a decisão em referência reveste-se, unicamente, de índole ordinária, apoiando-se, por isso mesmo, em prescrições e formulações que se situam em domínio regido pelo direito comum, circunstância esta que poderá caracterizar, quando muito, situação de ofensa reflexa ao texto da Carta Política, apta, por si só, a tornar incabível o acesso à via recursal extraordinária (RTJ 94/462 – RTJ 132/455 – RTJ 150/587 – RTJ 161/685, v.g.).
+    Vê-se, desse modo, que o debate veiculado no julgamento em questão fez instaurar, na espécie, contencioso de mera legalidade, o que basta para inviabilizar a admissibilidade do recurso extraordinário.
+    Cabe ressaltar, ainda, por relevante, que a douta Procuradoria-Geral da República, ao opinar nesta causa, manifestou-se contrariamente à parte ora recorrente, apoiando-se, para tanto, em fundamentos evidenciadores da inviabilidade processual do recurso extraordinário em questão, em parecer com a seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. SUCESSÃO POR INCORPORAÇÃO. COMPENSAÇÃO DE PREJUÍZOS FISCAIS. ART. 33 DO DECRETO-LEI 2.341/87. ALEGADA VIOLAÇÃO AOS ARTS. 145, § 1º, 150, IV, E 153, III, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA REFLEXA.
+    …...................................................................................................
+    2. Não é possível conhecer do recurso extraordinário interposto com o objetivo de verificar a possibilidade de compensação de prejuízos fiscais pois, sendo necessária a análise de legislação infraconstitucional (Decreto-lei nº 2.341/87), eventual ofensa à Constituição, se ocorrente, seria meramente reflexa. Precedente.
+    …...................................................................................................
+    4. Parecer pelo não provimento do agravo.”
+    Acolho, no ponto, por seus próprios fundamentos, essa manifestação da douta Procuradoria-Geral da República.
+    Registro, por oportuno, que se reveste de plena legitimidade  jurídico-constitucional a adoção, no caso, da técnica da motivação “per relationem” (HC 69.438/SP, Rel. Min. CELSO DE MELLO – HC 69.987/SP, Rel. Min. CELSO DE MELLO, v.g.).
+    Com efeito, o Supremo Tribunal Federal, pronunciando-se a propósito da técnica da motivação por referência ou por remissão, reconheceu-a compatível com o que dispõe o art. 93, inciso IX, da Constituição da República, como resulta de diversos precedentes firmados por esta Suprema Corte (HC 54.513/DF, Rel. Min. MOREIRA ALVES – RE 37.879/MG, Rel. Min. LUIZ GALLOTTI – RE 49.074/MA, Rel. Min. LUIZ GALLOTTI):
+    “Reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação ‘per relationem’, que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado – referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir. Precedentes.”
+    (AI 825.520-AgR-ED/SP, Rel. Min. CELSO DE MELLO)
+    Impõe-se enfatizar, finalmente, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão acha-se consagrado em acórdão proferido pela colenda Primeira Turma desta Suprema Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPENSAÇÃO DE PREJUÍZOS FISCAIS. IRPJ. FUSÃO, CISÃO, INCORPORAÇÃO. MATÉRIA DECIDIDA À LUZ DA LEGISLAÇÃO ORDINÁRIA E DO CÓDIGO TRIBUTÁRIO NACIONAL. AFRONTA REFLEXA.
+    1. Pretensão de afastar a vedação contida no art. 33 do Decreto-lei nº 2.341/87 e no Regulamento do Imposto de Renda (art. 514), relativamente à compensação dos prejuízos fiscais da sucedida pela sucessora por incorporação, fusão ou cisão.
+    2. No caso concreto, a contenda foi decidida à luz da legislação infraconstitucional pertinente (Leis nºs 6.404/76, 8.541/92, 9.430/96, Código Tributário Nacional, Decreto-Lei nº 2.341/87 e Decreto nº 3.000/99), sendo certo que eventual afronta ao texto constitucional, caso ocorresse, se daria de forma meramente reflexa ou indireta.
+    3. Agravo regimental não provido.”
+    (ARE 604.314-AgR/SC, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 30 de novembro de 2015.
+Ministro CELSO DE MELLO
+Relator
