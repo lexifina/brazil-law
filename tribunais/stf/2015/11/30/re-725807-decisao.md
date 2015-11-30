@@ -1,0 +1,20 @@
+Vistos etc.
+    Pretende a parte recorrente a revisão do acórdão do Tribunal de Justiça de Santa Catarina, cuja ementa segue transcrita:
+    “MANDADO DE SEGURANÇA - ESCREVENTE JURAMENTADO DE SERVENTIA EXTRAJUDICIAL -AUXILIAR DA JUSTIÇA - CONTRIBUIÇÕES RECOLHIDAS AO IPREV - LEI FEDERAL N. 8.935/94 - CONTINUIDADE DA VINCULAÇÃO À PREVIDÊNCIA ESTADUAL - DIREITO À APOSENTADORIA PELO REGIME DE PREVIDÊNCIA ESTADUAL - TEMPO DE CONTRIBUIÇÃO AO REGIME GERAL DE PREVIDÊNCIA - CONTAGEM RECÍPROCA -TRIÊNIOS - PRETENSÕES NÃO EXAMINADAS PELOS IMPETRADOS - AUSÊNCIA DE INTERESSE JURÍDICO-PROCESSUAL DE AGIR - ORDEM PARCIALMENTE CONCEDIDA.
+    O art. 3o, da Lei Estadual n. 6.036/1982 previa que os Serventuários e Auxiliares da Justiça deveriam recolher, compulsoriamente, a contribuição previdenciária para o Instituto de Previdência do Estado de Santa Catarina -IPESC (atual IPREV). Todavia, com a Constituição de 1988 e o advento da Lei 8.935/1994, os notários, oficiais de registro, escreventes e demais auxiliares passaram a estar vinculados à previdência social de âmbito federal - INSS (art. 40, ‘caput’), ressalvando-se, entretanto, os direitos e vantagens previdenciários adquiridos até a data da publicação da citada lei (parágrafo único do art. 40, da Lei Federal n. 8.935/1994, e art. 95, da LCE n. 412/2008). Em consequência, salvo opção pelo regime geral, aqueles que já se encontravam vinculados ao regime especial de previdência social do IPESC (atual IPREV) nele hão de permanecer.”
+    Alega a “(...) total inconstitucionalidade da manutenção dos particulares auxiliares da justiça no regime próprio dos servidores públicos estatutários, nos termos dos arts. 40 e 236 da Constituição Federal.”
+    Argui a inconstitucionalidade do art. 95 da Lei Complementar estadual nº 412/2008.
+    É o relatório.
+    Decido.
+    Esta Suprema Corte tratou da matéria no julgamento da ADI 4.641, cuja ementa restou assim redigida:
+    “PREVIDENCIÁRIO E CONSTITUCIONAL. LEI ESTADUAL QUE INCLUIU NO REGIME PRÓPRIO DE PREVIDÊNCIA SEGURADOS QUE NÃO SÃO SERVIDORES DE CARGOS EFETIVOS NA ADMINISTRAÇÃO PÚBLICA. ART. 40 DA CONSTITUIÇÃO FEDERAL. NECESSÁRIA VINCULAÇÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL.
+    1. O art. 40 da Constituição de 1988, na redação hoje vigente após as Emendas Constitucionais 20/98 e 41/03, enquadra como segurados dos Regimes Próprios de Previdência Social apenas os servidores titulares de cargo efetivo na União, Estado, Distrito Federal ou Municípios, ou em suas respectivas autarquias e fundações públicas, qualidade que não aproveita aos titulares de serventias extrajudiciais.
+    2. O art. 95 da Lei Complementar 412/2008, do Estado de Santa Catarina, é materialmente inconstitucional, por incluir como segurados obrigatórios de seu RPPS os cartorários extrajudiciais (notários, registradores, oficiais maiores e escreventes juramentados) admitidos antes da vigência da Lei federal 8.935/94 que, até 15/12/98 (data da promulgação da EC 20/98), não satisfaziam os pressupostos para obter benefícios previdenciários.
+    3. Ação direta de inconstitucionalidade julgada procedente, com modulação de efeitos, para assegurar o direito adquirido dos segurados e dependentes que, até a data da publicação da ata do presente julgamento, já estivessem recebendo benefícios previdenciários juntos ao regime próprio paranaense ou já houvessem cumprido os requisitos necessários para obtê-los.” (ADI 4.641/SC, Rel. Min. Teori Zavascki, Pleno, DJe 10.4.2015)
+    Observo que, opostos embargos de declaração, foram acolhidos tão somente para substituir a expressão “regime próprio paranaense” por “regime próprio catarinense” (item 3).
+    O Tribunal de origem não divergiu do entendimento acima quanto à preservação do direito adquirido dos segurados e dependentes, observada a data de publicação da ata de julgamento da ADI 4.641.
+    Ante o exposto, nego seguimento ao recurso extraordinário (art. 21, § 1º, do RISTF), mantidas as disposições do acórdão recorrido.
+    Publique-se.
+    Brasília, 30 de novembro de 2015.
+Ministra Rosa Weber
+Relatora
