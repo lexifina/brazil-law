@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro que negou seguimento ao recurso extraordinário em face de acórdão ementado nos seguintes termos:
+    “AGRAVOS INTERNOS. AÇÃO ANULATÓRIA JULGADA PROCEDENTE, COM CONDENAÇÃO EM RESSARCIMENTO EM DANOS MATERIAIS E MORAIS E VERBA HONORÁRIA DECISÃO MONOCRÁTICA DO RELATOR, NEGANDO SEGUIMENTO AOS APELOS DOS ORA AGRAVANTES. EM PRIMEIRO LUGAR, DIVERSAMENTE DO QUE POSTULOU O SEGUNDO RECORRENTE, É CABÍVEL NA HIPÓTESE, O JULGAMENTO MONOCRÁTICO. A CONSTITUIÇÃO FEDERAL NÃO ASSEGURA ÀS PARTES JULGAMENTO POR COLEGIADO EM SEGUNDO GRAU. ELA GARANTE O ACESSO À JUSTIÇA, SENDO A FORMA DE JULGAR MATÉRIA DE COMPETÊNCIA DA LEI ORDINÁRIA. RESPONSABILIDADE OBJETIVA DOS ENTES ESTATAIS. DANOS MORAIS CONFIGURADOS, DADA A CONDIÇÃO DO CASO. VERBA REPARATÓRIA QUE NÃO MERECE QUALQUER REPARO. DANOS MATERIAIS QUE DEVEM SER RESSARCIDOS PORQUANTO O AGRAVADO FICOU IMPEDIDO DE UTILIZAR O BEM ADQUIRIDO EM LEILÃO, APÓS DESPENDER DINHEIRO PARA ADEQUA-LO AO USO. BASE DE CÁLCULO DA VERBA HONORÁRIA QUE DEVE SER MODIFICADA, INCIDINDO O PERCENTUAL, APENAS SOBRE O VALOR DA CONDENAÇÃO, NA FORMA DO ARTIGO 20, § 40 , DO CÓDIGO DE PROCESSO CIVIL. PROVIMENTO PARCIAL DO PRIMEIRO RECURSO E DESPROVIMENTO DO SEGUNDO. “ (e-STJ fl. 466)
+    Opostos embargos declaratórios, estes foram rejeitados. (e-STJ fl. 457).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do texto constitucional, sustenta-se, em preliminar, a repercussão geral da matéria.
+    Quanto ao mérito, aponta-se ofensa ao art. 37, § 6º, da Constituição Federal.
+    Nas razões recursais, alega-se, em síntese, que a responsabilidade civil por omissão do Estado seria subjetiva, e não objetiva, conforme entendimento firmado pelo Tribunal a quo.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Isso porque o Tribunal de origem consignou que se trata “de responsabilidade objetiva do Estado, de acordo com a teoria do risco administrativo, na forma do §6º, do artigo 37 da Constituição Federal, uma vez que restou comprovado que houve conduta comissiva desidiosa, do dano e do nexo de causalidade, que ensejou os alegados danos, pois, repita-se, foram negligentes e não agiram com boa-fé” (e-STJ fl. 449).
+    Dessa forma, para divergir do assentado pelo Tribunal de Justiça do Estado do Rio de Janeiro, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso extraordinário, conforme o disposto na Súmula 279 do STF.
+    Nesse sentido, confiram-se os precedentes de ambas as turmas:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO. PRISÃO ILEGAL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279/STF. 1. Hipótese em que para dissentir da solução conferida pelo Tribunal de origem à controvérsia – ocorrência, ou não, de erro judiciário – faz-se necessária uma nova apreciação dos fatos e do material probatório constantes dos autos (incidência da Súmula 279/STF). 2. Agravo regimental a que se nega provimento.”
+(AI 673872 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 22.9.2015)
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Omissão do Poder Público. Responsabilidade objetiva. Elementos da responsabilidade civil estatal demonstrados na origem. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisprudência da Corte firmou-se no sentido de que as pessoas jurídicas de direito público respondem objetivamente pelos danos que causarem a terceiros, com fundamento no art. 37, § 6º, da Constituição Federal, tanto por atos comissivos quanto por atos omissivos, desde que demonstrado o nexo causal entre o dano e a omissão do Poder Público. 2. Inadmissível, em recurso extraordinário, o reexame de fatos e provas dos autos. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido.”
+(ARE 868610 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 1.7.2015)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 30 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
