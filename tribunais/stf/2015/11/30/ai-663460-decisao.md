@@ -1,0 +1,8 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário.
+    A decisão agravada está correta e alinhada aos precedentes firmados por esta Corte.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 30 de novembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
