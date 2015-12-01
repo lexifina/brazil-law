@@ -1,6 +1,4 @@
-Art. 8º Contribuirão sobre o valor da receita bruta, excluídas as vendas canceladas e os descontos incondicionais concedidos, à alíquota de 1% (um por cento), em substituição às contribuições previstas nos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991, as empresas que fabricam os produtos classificados na Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, nos códigos referidos no Anexo I.
-II - de transporte aéreo de carga;
-III - de transporte aéreo de passageiros regular;
+Art. 8º Poderão contribuir sobre o valor da receita bruta, excluídas as vendas canceladas e os descontos incondicionais concedidos, em substituição às contribuições previstas nos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991, as empresas que fabricam os produtos classificados na Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, nos códigos referidos no Anexo I.
 I - (revogado);
 II - (revogado);
 III - (revogado);
@@ -15,6 +13,8 @@ c) às empresas aéreas internacionais de bandeira estrangeira de países que es
 § 2º Para efeito do inciso I do § 1º, devem ser considerados os conceitos de industrialização e de industrialização por encomenda previstos na legislação do Imposto sobre Produtos Industrializados - IPI.
 § 3º O disposto no caput também se aplica às empresas:
 I - de manutenção e reparação de aeronaves, motores, componentes e equipamentos correlatos;
+II - de transporte aéreo de carga e de serviços auxiliares ao transporte aéreo de carga;
+III - de transporte aéreo de passageiros regular e de serviços auxiliares ao transporte aéreo de passageiros regular;
 IV - de transporte marítimo de carga na navegação de cabotagem;
 V - de transporte marítimo de passageiros na navegação de cabotagem;
 VI - de transporte marítimo de carga na navegação de longo curso;
