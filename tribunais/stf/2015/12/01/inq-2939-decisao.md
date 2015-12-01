@@ -1,0 +1,20 @@
+DECISÃO: O Ministério Público Federal, em promoção da lavra do eminente Procurador-Geral da República, Dr. RODRIGO JANOT MONTEIRO DE BARROS, manifestou-se pelo arquivamento destes autos, que se referem a procedimento penal instaurado contra o Senador da República Fernando de Souza Flexa Ribeiro, em pronunciamento assim ementado (fls. 1.996):
+    “PENAL. INQUÉRITO. CRIMES DE FRAUDE À LICITAÇÃO. CORRUPÇÃO ATIVA E PECULATO. DESVIO  DE RECURSOS PÚBLICOS EM CONTRATOS FIRMADOS ENTRE O GOVERNO DO ESTADO E EMPRESA DE ENGENHARIA, COM VISTAS AO FINANCIAMENTO DE CAMPANHAS ELEITORAIS NO PLEITO 2002. INCIDÊNCIA DA CAUSA DE REDUÇÃO DO PRAZO PREVISTA NO ART. 115 DO CP. PRESCRIÇÃO DA PENA EM ABSTRATO. PARECER PELA DECLARAÇÃO DE EXTINÇÃO DA PUNIBILIDADE DO CONGRESSISTA. ENVOLVIMENTO DE GOVERNADOR. REMESSA DOS AUTOS AO COL. STJ.” (grifei)
+    O exame dos autos autoriza-me a acolher essa promoção da douta Procuradoria-Geral da República, eis que já se consumou, quanto ao Senador Flexa Ribeiro (que completou 70 anos de idade), a prescrição da pretensão punitiva do Estado em virtude de redução, pela metade (CP, art. 115), do lapso prescricional concernente aos delitos pelos quais esse congressista está sendo investigado.
+    Esse aspecto que venho de mencionar foi corretamente explicitado pelo eminente Procurador-Geral da República em sua douta promoção a fls. 1.998/1.999.
+    Impende registrar, no ponto, que se aplica, inteiramente, ao Senador Flexa Ribeiro, único detentor da prerrogativa de foro perante o Supremo Tribunal Federal, a norma inscrita no art. 115 do Código Penal, que contempla, em razão do fator etário, o benefício legal da redução, pela metade, do prazo prescricional, o que constitui causa geradora da extinção da punibilidade (CP, art. 107, IV).
+    Cabe assinalar, por oportuno, que, por tratar-se de matéria de ordem pública, o tema pertinente à prescrição penal revela-se suscetível, até mesmo, de apreciação “ex officio”, tal como o autoriza, de modo expresso, o art. 61, “caput”, do Código de Processo Penal, que assim dispõe: “Em qualquer fase do processo, o juiz, se reconhecer extinta a punibilidade, deverá declará-lo de ofício” (grifei).
+    Vale observar, por relevante, que essa compreensão da matéria tem o beneplácito da jurisprudência desta Suprema Corte:
+    “A prescrição é matéria de ordem pública e, por isso mesmo, pode ser declarada por qualquer juiz ou tribunal, independentemente de argüição do interessado. (…).”
+    (HC 87.898/BA, Rel. Min. EROS GRAU – grifei)
+    “‘Habeas corpus’. (…). 5. Ocorrência de prescrição da pretensão punitiva do Estado. 6. A prescrição é matéria de ordem pública, podendo ser argüida de ofício em qualquer fase processual. (…).”
+    (HC 85.847/SP, Rel. Min. GILMAR MENDES – grifei)
+    “(…) 2. A prescrição é matéria de ordem pública,  por essa razão deve ser examinada de ofício, a requerimento do Ministério Público ou do interessado, e, caso reconhecida em qualquer fase do processo, torna prejudicada a questão de fundo. Precedentes: AgRg no RE nº 345.577/SC, Rel. Min. Carlos Velloso, Dj de 19/12/2002;  HC 73.120/DF, Rel. Min. Néri da Silveira, DJ de 03/12/99;  HC nº 63.765/SP, Rel. Min. Francisco Rezek, DJ de 18/4/86. (…).”
+    (HC 115.098/RJ, Rel. Min. LUIZ FUX – grifei)
+    Sendo assim, e em face das razões expostas, declaro extinta a punibilidade de Fernando de Souza Flexa Ribeiro, qualificado a fls. 1.989, quanto aos delitos tipificados no art. 90 da Lei nº 8.666/93 e nos arts. 312, § 1º, e 333, ambos do Código Penal, objeto de apuração nestes autos, fazendo-o com apoio no art. 107, inciso IV, c/c os arts. 109, inciso I, e 115, todos do Código Penal.
+    Determino, ainda, nos termos da manifestação do Ministério Público Federal, a remessa destes autos ao E. Superior Tribunal de Justiça, eis que se encontra, “(...) entre os demais investigados, o Governador do Estado do Pará” (grifei), cujo “agravo regimental”, deduzido a fls. 1.967/1.970v., julgo prejudicado.
+    Comunique-se a presente decisão ao eminente Chefe do Ministério Público da União.
+    Publique-se.
+    Brasília, 1º de dezembro de 2015.
+Ministro CELSO DE MELLO
+Relator
