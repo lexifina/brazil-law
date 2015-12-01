@@ -1,0 +1,22 @@
+Vistos etc.
+    1. Trata-se de ação direta de inconstitucionalidade proposta pelo Governador do Estado do Amapá em face da Lei Complementar nº 82/2014, do Estado do Amapá, que “institui a Lei Orgânica da Procuradoria-Geral do Estado do Amapá, o Estatuto dos Procuradores do Estado e dá outas providências”.
+    Requer o autor seja declarada a inconstitucionalidade formal do diploma impugnado, por vício de iniciativa e inobservância do devido processo legislativo, em face dos arts. 2º, 5º, II, 25, 59, 61, § 1º, II, “a”, “b”, “c”, e “e”, 63, 69 e 84, III e VI, a e b , da Constituição da República.
+    2. Submetido o feito ao rito previsto no art. 12 da Lei nº 9.868/1999, foram prestadas informações pela Assembleia Legislativa do Estado do Amapá.
+    3. Manifestação do Advogado-Geral da União pela improcedência do pedido deduzido na ação direta e parecer do Procurador-Geral da República no sentido da procedência.
+    4. Pela petição nº 41941/2015, o Estado do Amapá noticiou a publicação no Diário Oficial do Estado do Amapá, em 17.07.2015, da Lei Complementar estadual nº 89, de 01 de julho de 2015, contemplando a expressa revogação da norma impugnada.
+    Intimadas as partes para se manifestarem a respeito do fato superveniente noticiado, o Governador do Estado do Amapá, mediante a petição nº 53518/2015, confirmou ter sancionado a Lei Complementar nº 89/2015 do Estado do Amapá, que, dispondo sobre a Lei Orgânica da Procuradoria-Geral do Estado do Amapá, revogou in totum o ato normativo impugnado – Lei Complementar nº 82/2014 do Estado do Amapá.
+    É o relatório.
+    Decido.
+    5. A presente ação direta de inconstitucionalidade tem como objeto, nos termos do pedido deduzido, a declaração da inconstitucionalidade formal da Lei Complementar nº 82/2014, do Estado do Amapá.
+    6. A teor da documentação trazida aos autos, o diploma impugnado na presente ação direta – Lei Complementar nº 82/2014 do Estado do Amapá – foi expressamente revogado pela Lei Complementar nº 89/2015 do Estado do Amapá, publicada na imprensa oficial estadual em 17.07.2015, e cujo art. 233 assim dispõe:
+    “Art. 233. Esta Lei entra em vigor na data de sua publicação, revogadas as Leis Complementares nºs 081, de 23 de dezembro de 2013 e 082, de 27 de fevereiro de 2014, e as disposições em contrário ao texto desta Lei Complementar.” (destaquei)
+    7. A jurisprudência desta Suprema Corte é firme no sentido de que a revogação da norma impugnada, após o ajuizamento da ação direta de inconstitucionalidade, acarreta a perda superveniente do seu objeto, independentemente da existência de efeitos residuais concretos dela decorrentes. Isso porque, vocacionada essa espécie de ação constitucional a assegurar a higidez da ordem jurídica vigente, o interesse na tutela judicial pressupõe, em consequência, ato normativo em vigor. Confira-se:
+    “Ação direta de inconstitucionalidade. 2. Lei 15.227/2006 do Estado do Paraná objeto de fiscalização abstrata. 3. Superveniência da Lei estadual 15.744/2007 que, expressamente, revogou a norma questionada. 4. Remansosa jurisprudência deste Tribunal tem assente que sobrevindo diploma legal revogador ocorre a perda de objeto. Precedentes. 5. Ação direta de inconstitucionalidade prejudicada.” (ADI 3885/PR, Relator Ministro Gilmar Mendes, Tribunal Pleno, DJe 28.6.2013)
+    No mesmo sentido: ADI 4240/MS (Relator Ministro Edson Fachin, decisão monocrática, DJe 05.11.2015); ADI 4379-AgR/MT (Relator Ministro Gilmar Mendes, decisão monocrática, DJe 04.11.2015); ADI 5116/DF (Relatora Ministra Cármen Lúcia, decisão monocrática, DJe 01.10.2015); ADI 4665/DF (Relator Ministro Teori Zavascki, decisão monocrática, DJe 03.08.2015); ADI 4035/DF (Relatora Ministra Rosa Weber, decisão monocrática, DJe 27.6.2013).
+    8. Destaco, por fim, que não se cogita, in casu, de revogação estratégica de ato normativo com o intuito deliberado de impedir o exercício da jurisdição constitucional abstrata, hipótese em que a revogação do ato normativo impugnado não prejudica o processamento e julgamento da ação, por caracterizar fraude processual, consoante já assentou este Supremo Tribunal Federal na ADI 3306/DF (Relator Ministro Gilmar Mendes, Tribunal Pleno, DJe 07.6.2011).
+    9. Ante o exposto, julgo prejudicada a presente ação direta de inconstitucionalidade (art. 21, IX, do RISTF), por perda superveniente do seu objeto, extinguindo o processo sem resolução do mérito.
+    À Secretaria Judiciária.
+    Publique-se.
+    Brasília, 01 de dezembro de 2015.
+Ministra Rosa Weber
+Relatora
