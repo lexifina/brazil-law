@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, que deu parcial provimento ao recurso especial e cuja ementa transcrevo a seguir (eDOC 3, p. 36):
+    “PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONVERSÃO DE TEMPO DE SERVIÇO COMUM EM ESPECIAL. INCIDÊNCIA DA LEGISLAÇÃO VIGENTE QUANDO PREENCHIDOS OS REQUISITOS DO BENEFÍCIO PRETENDIDO.
+    1. No julgamento do REsp 1.310.034/PR, Rel. Ministro HERMAN BENJAMIN, processado nos termos do arts. 543-C do CPC, ficaram estabelecidos os seguintes parâmetros "a) a configuração do tempo especial é de acordo com a lei vigente no momento do labor, e b) a lei em vigor quando preenchidas as exigências da aposentadoria é a que define o fator de conversão entre as espécies de tempo de serviço".
+    2. Segundo as premissas estabelecidas, para que o segurado faça jus à conversão de tempo de serviço comum em especial, é necessário que ele tenha reunido os requisitos para o benefício pretendido antes da Lei n. 9.032/95, de 28/4/95, independentemente do momento em que foi prestado o serviço.
+    3. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta violação a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+    4. Agravo regimental a que se nega provimento.”
+    Os embargos declaratórios opostos foram rejeitados (eDOC 3, p. 49).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXVI, 6º, 93, IX, 201, § 1º, da Constituição Federal.
+    Nas razões recursais, sustenta-se que “o tempo de serviço do segurado é regido pela Lei em vigor na época de sua prestação, conforme bem preceitua o princípio do tempus regit actum, sob o qual a aplicação da lei vigente à época da formação do ato jurídico somente deixa de ser aplicada se a lei posterior expressamente prevê tal possibilidade, o que não ocorre no presente caso.” (eDOC 3, p. 65).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que as questões referentes à violação dos dispositivos constitucionais apontados não foram objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento, consoante previsto nas Súmulas 282 do STF.
+    Ademais, ressalta-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria a análise da legislação infraconstitucional aplicável à espécie (Lei 9.032/1995) e do conjunto fático-probatório, o que não autoriza o acesso à via extraordinária, incidindo no caso, a Súmula 279 do STF.
+    Ressalta-se, ainda, que o Supremo Tribunal Federal já se manifestou, sob a sistemática da repercussão geral, sobre as teses de violação ao devido processo legal e ao dever de motivação das decisões judiciais. No julgamento do ARE 748.371 (Relatoria do Ministro Gilmar Mendes, Pleno, DJe 01.08.2013, Tema 660), esta Corte assentou que o tema sobre violação dos princípios do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, não possui repercussão geral.
+    No tocante à violação do dever constitucional de motivação das decisões, o Supremo Tribunal Federal se manifestou sobre o tema invocado no julgamento do AI-QO-RG 791.292 (Relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, Tema 339). O Plenário reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    De todo modo, o acórdão do Superior Tribunal de Justiça está em harmonia com o entendimento desta Corte, pois o Supremo Tribunal Federal, no julgamento da ADI 3.104 decidiu que “em questões previdenciárias, aplicam-se as normas vigentes ao tempo da reunião dos requisitos de passagem para a inatividade”, não havendo falar-se, portanto, em violação ao princípio tempus regit actum.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos arts. 557, caput, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 2 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
