@@ -1,0 +1,9 @@
+AÇÃO CÍVEL ORIGINÁRIA. REDUÇÃO DA VAZÃO MÍNIMA AFLUENTE À BARRAGEM DE SANTA CECÍLIA, NO RIO PARAÍBA DO SUL. RESOLUÇÃO Nº 1.309/2014. DESIGNAÇÃO DE AUDIÊNCIA DE CONCILIAÇÃO.
+    Despacho: Cuidam os autos de Ação Civil Pública movida pelo Ministério Público Federal em face da União, da Agência Nacional de Águas - ANA, do Ministério do Meio Ambiente, da Companhia de Saneamento Básico do Estado de São Paulo - SABESP, do Departamento de Águas e Energia Elétrica - DAEE e da Companhia Ambiental do Estado de São Paulo - CETESB, com pedido de que, dentre outras providências destinadas aos outros réus, a Agência Nacional de Águas se abstenha de determinar a redução da vazão mínima afluente à barragem de Santa Cecília, no Rio Paraíba do Sul, redução esta estabelecida pela Resolução nº 1.309, de 29 de agosto de 2014.
+    Sendo assim, designo audiência de conciliação a ser realizada com a presença das partes e do Parquet, a ocorrer às 11:00 horas do dia 10 de dezembro de 2015, no 3º andar do Anexo II do Supremo Tribunal Federal - Gabinete do Ministro Luiz Fux.
+    Intimem-se o Estado do Rio de Janeiro, o Estado de São Paulo, o Estado de Minas Gerais, o Procurador-Geral da República, a União, por meio da Advocacia-Geral da União, o Ministério do Meio Ambiente - MMA, a Diretora-Geral do Instituto Mineiro de Gestão de Águas – IGAM, o Presidente do Instituto Estadual do Ambiente – INEA, o Diretor-Presidente da Agência Nacional de Águas – ANA, a Diretora-Presidente da Companhia de Saneamento Básico do Estado de São Paulo - SABESP, o Superintendente do Departamento de Águas e Energia Elétrica - DAEE, o Diretor-Presidente da Companhia Ambiental do Estado de São Paulo - CETESB, para que possam comparecer à referida audiência, acompanhadas por representantes com plenos poderes para transigir nos autos.
+    Publique-se.
+    Brasília, 2 de dezembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
