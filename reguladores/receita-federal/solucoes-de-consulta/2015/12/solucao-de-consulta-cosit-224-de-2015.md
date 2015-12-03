@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 224, de 29 de outubro de 2015
+ASSUNTO: SIMPLES NACIONAL EMENTA: OPÇÃO PELO SIMPLES NACIONAL. PARTICIPAÇÃO EM CONSÓRCIO. POSSIBILIDADE. A microempresa (ME) ou empresa de pequeno porte (EPP) que participe de consórcio constituído nos termos dos arts. 278 e 279 da Lei nº 6.404, de 1976, poderá optar pelo Simples Nacional, desde que não incorra em nenhuma outra vedação constante da legislação de regência do regime. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 3º, § 4º, incisos IV e VII; Lei nº 6.404, de 1976, arts. 278 e 279.
+[arquivo anexo: SC Cosit nº 224-2015.pdf]
