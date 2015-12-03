@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 221, de 11 de setembro de 2015
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: SERVIDOR PÚBLICO. PLANO DE SEGURIDADE SOCIAL. PSS. BASE DE CÁLCULO. PARCELAS REMUNERATÓRIAS. EXERCÍCIO DE CARGO EM COMISSÃO OU DE FUNÇÃO COMISSIONADA OU GRATIFICADA. INCLUSÃO. OPÇÃO. A opção pela inclusão, na base de cálculo da contribuição do servidor, das parcelas remuneratórias percebidas em decorrência do exercício de cargo em comissão ou de função comissionada ou gratificada, somente pode ser exercida enquanto for possível a retenção, por seu empregador, da respectiva contribuição previdenciária. DISPOSITIVOS LEGAIS: Lei nº 10.887, de 2004, art. 4º, §2º; IN RFB nº 1.332, de 2013, arts. 3º, 7º, e 16.
+[arquivo anexo: SC Cosit nº 221-2015.pdf]
