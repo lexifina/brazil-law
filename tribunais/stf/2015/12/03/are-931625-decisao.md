@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – FALTA DE PREQUESTIONAMENTO– AGRAVO DESPROVIDO.
+    1. O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter à análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Acresce que o recurso extraordinário direciona ao atendimento cumulativo dos pressupostos gerais de recorribilidade – adequação, oportunidade, interesse de agir, representação processual e preparo – e a um dos específicos previstos no inciso III do artigo 102 da Carta da República. O acesso ao Supremo faz-se, por isso mesmo, em via de excepcionalidade maior, tudo objetivando a atuação precípua do Tribunal, qual seja, a guarda da supremacia da Constituição Federal.
+    Quanto ao pressuposto específico, quase sempre retratado na alínea “a” do inciso III do artigo 102 da Lei Fundamental – violência a dispositivo nela inserto –, mostra-se necessário, ante a ordem natural das coisas, proceder-se a cotejo. Somente é possível definir se houve transgressão a texto do Diploma Maior mediante o confronto do que decidido com as razões do extraordinário, mais precisamente com o que evocado no tocante à adoção de entendimento contrário ao ditame constitucional. Daí o instituto do prequestionamento, que significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o acórdão impugnado nada contém sobre o que versado no extraordinário, descabe assentar o enquadramento deste no permissivo constitucional.
+    3. No caso, o que sustentado não foi enfrentado pelo Órgão julgador. Apesar da interposição de embargos declaratórios, não houve debate e decisão prévios sobre a alegada violação ao artigo 5º, inciso LXXI e 37, inciso X, ambos da Constituição Federal. Frise-se, por oportuno, que a parte recorrente não arguiu o vício de procedimento. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+    4. Conheço deste agravo e o desprovejo.
+    5. Publiquem.
+Brasília, 3 de dezembro de 2015.
+Ministro MARCO AURÉLIO
+Relator
