@@ -1,0 +1,15 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no RE 599.903-RG/RS, Rel. Min. CÁRMEN LÚCIA, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “HONORÁRIOS ADVOCATÍCIOS. EXECUÇÃO CONTRA A FAZENDA PÚBLICA NÃO EMBARGADA. EXECUÇÃO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE VIOLAÇÃO AO RECURSO EXTRAORDINÁRIO N. 420.816. RECURSO EXTRAORDINÁRIO RECUSADO.
+    1. O tema constitucional examinado no Recurso Extraordinário n. 420.816, Redator para o acórdão o Ministro Sepúlveda Pertence, estava restrito à redução interpretativa do art. 1º-D da Lei n. 9.494/1997 (Medida Provisória n. 2.180-35/2001) para torná-lo aplicável apenas às execuções por quantia certa contra a Fazenda Pública (art. 730 do Código de Processo Civil).
+    2. É infraconstitucional a questão do enquadramento jurídico da execução de sentença proferida em ação coletiva contra a Fazenda Pública ao disposto no art. 730 do Código de Processo Civil.
+    3. Precedentes do Superior Tribunal de Justiça e deste Supremo Tribunal Federal.
+    4. Recurso extraordinário recusado.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Com efeito, o Supremo Tribunal Federal recusará o apelo extremo sempre que se registrar hipótese, como sucede na espécie, na qual a controvérsia jurídica não se qualifique como tema revestido de repercussão geral.
+    A rejeição, em causa anterior (RE 599.903-RG/RS), do pretendido reconhecimento da existência de repercussão geral referente ao mesmo litígio ora renovado nesta sede recursal impede que se conheça do recurso extraordinário em questão, mesmo porque a repercussão geral supõe, necessariamente, apelo extremo cognoscível, situação de todo inocorrente no caso, eis que o julgamento da causa em análise depende de prévio exame concernente à aplicação de diplomas infraconstitucionais, a evidenciar, quando muito, a ocorrência de ofensa meramente reflexa ao texto da Constituição.
+    Cumpre destacar, ainda, o que dispõe o art. 326 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, que veicula regra no sentido de que a decisão que proclama inexistente a repercussão geral, como aquela proferida no RE 599.903-RG/RS, a que anteriormente aludi (em tudo aplicável ao presente caso), vale “para todos os recursos sobre questão idêntica”, tal como tem advertido o Plenário desta Corte Suprema (RE 659.109-RGED/BA, Rel. Min. LUIZ FUX), motivo pelo qual se mostra evidente a inadmissibilidade, na espécie, do recurso extraordinário em causa.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao presente agravo de instrumento.
+    Publique-se.
+    Brasília, 03 de dezembro de 2015.
+Ministro CELSO DE MELLO
+Relator
