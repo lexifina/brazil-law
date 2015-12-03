@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da Segunda Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 02, p. 671):
+    APELAÇÃO CRIMINAL – EMISSÃO DE DUPLICATAS SIMULADAS – PRELIMINAR – PRESCRIÇÃO EM PERSPECTIVA – AUSÊNCIA DE PREVISÃO LEGAL – INADMISSIBILIDADE – PRECEDENTES NOS TRIBUNAIS SUPERIORES – PRESCRIÇÃO RETROATIVA QUANTO AO PRIMEIRO APELANTE – RECONHECIMENTO – PRELIMINAR PARCIALMENTE ACOLHIDA – MÉRITO – ABSOLVIÇÃO – ALEGAÇÃO DE AUSÊNCIA DE DOLO – INOCORRÊNCIA – PROVA TESTEMUNHAL ROBUSTA – AUTORIA E MATERIALIDADE DELITIVAS COMPROVADAS – DOLO EVIDENCIADO – CONDENAÇÃO MANTIDA – REDUÇÃO, DE OFÍCIO, DA PENA DE MULTA DA SEGUNDA APELANTE – ACOLHER PARCIALMENTE A PRELIMINAR E NEGAR PROVIMENTO AO RECURSO. DE OFÍCIO, REDUZIR A PENA DE MULTA DA SEGUNDA APELANTE.
+    - A prescrição reconhecida pela reprimenda hipotética não tem previsão no ordenamento jurídico pátrio.
+    - É inadmissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética, independentemente da existência ou sorte do processo penal. (Súmula 438 do STJ)
+    - Concretizada a pena do primeiro apelante em 02 (dois) anos de detenção, a prescrição da pretensão punitiva intercorrente opera-se em 04 (quatro) anos. Assim, ultrapassado o prazo de 4 (quatro) anos entre a data dos fatos e do recebimento da denúncia, há que ser declarada a prescrição da pretensão punitiva estatal quanto a ele.
+    - Impossível acolher a pretensão absolutória quando materialidade e autoria delitivas estão fartamente comprovadas nos autos, bem como o necessário dolo para configuração do elemento subjetivo do tipo, levando-se em conta que a segunda apelante era responsável pelo setor financeiro da empresa e também praticava atos de gestão.
+    - Necessária se mostra a redução da pena de multa da segunda apelante, vez que essa foi fixada de forma desproporcional à pena corporal aplicada.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XLII e XLIV, da Constituição. Requer seja decretada a extinção da punibilidade pela prescrição em perspectiva.
+    Observo que o Supremo Tribunal Federal já se manifestou sobre o tema invocado, por ocasião do julgamento do RE 602.527, de relatoria do Ministro Cezar Peluso, DJe 18.12.2009. O Plenário desta Corte assentou a repercussão geral do Tema 239, referente a inadmissibilidade da extinção da punibilidade em virtude da decretação da assim chamada prescrição em perspectiva.
+    Ante o exposto, em vista da manifestação do Supremo Tribunal Federal acerca da matéria suscitada neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 03 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
