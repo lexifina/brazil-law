@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Rodrigo Cordeiro dos Santos, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp nº 384.004/RJ, Relator o Ministro Reynaldo Soares da Fonseca.
+    Sustenta a impetrante, em linhas gerais, que o constrangimento a que está submetido o paciente, decorre da decisão emanada do Superior Tribunal de Justiça, “que deixou de conhecer o recurso especial da defesa, por entender que do mesmo não constava assinatura do signatário na petição, considerando-o como inexistente”.
+    Assevera, que
+    “o agravo em recurso especial interposto pela defesa foi assinado eletronicamente mediante cadastro de usuário no Poder Judiciário, conforme disciplinado pelos órgãos respectivos. Isso porque a Defensora Pública signatária da referida peça processual realizou o cadastro presencial junto ao Tribunal de Justiça do Rio de Janeiro, possuindo usuário e senha cadastrados pelos sistemas do Poder Judiciário do Estado do Rio de Janeiro, o que lhe possibilita operar o processo eletrônico através do portal de serviços deste.
+    Vale dizer, o simples fato de a Defensora Pública ter conseguido realizar o protocolo eletrônico da petição através do portal de serviços do Poder Judiciário do Estado do Rio de Janeiro já evidencia que possuía acesso ao processo eletrônico ‘mediante cadastro de usuário no Poder Judiciário’ (alínea ‘b’, do inciso III, do §2º, do artigo 1º da Lei nº 11.419/2006)” (fls. 3/4 da inicial – grifos da autora).
+    No mais, afirma que
+    “a pena aplicada ao Paciente contrariou a Jurisprudência do STF no que diz respeito à diminuição prevista no artigo 33 parágrafo 4º da Lei 11346/06 bem como a fixação de Regime diverso do fechado, havendo portanto Coação ao Direito de ir e vir (...)” (fl. 7 da inicial – grifos da autora).
+    Requer, liminarmente, a concessão da ordem para que seja “conhecido e provido o Agravo interposto pela Defesa” (fl. 7 da inicial – grifos da autora).
+    Alternativamente pede “seja concedida a ordem para que seja fixada a pena no Redutor Máximo previsto no art. 33 parágrafo 4 da Lei 11346 com a fixação da pena em Regime diverso do fechado” (fl. 7 da inicial – grifos da autora).
+    Examinados os autos, decido.
+    Transcrevo o teor do acórdão questionado:
+    “PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INCOMPATIBILIDADE DO SISTEMA DE COMUNICAÇÃO DO TJRJ E DO STJ. ASSINATURA EM RESP E ARESP. INEXISTÊNCIA. SÚMULA N. 115 DO STJ.
+    1. O fato de a Defensoria Pública do Estado do Rio de Janeiro, na condição de usuário cadastrado, ter enviado as petições do recurso especial e do agravo eletronicamente não supera a exigência da assinatura eletrônica, na forma exigida pelo art. 1º, § 2º, inciso III, alíneas "a" e "b", da Lei 11.419/2006.
+    2. É que, ‘embora usuário regularmente cadastrado, que tenha acesso ao sistema de peticionamento eletrônico do TJRJ, possa enviar peças, apenas o peticionário que fizer autenticação no site, assinando a petição digitalmente com certificado ICP-Brasil, cumprirá o requisito previsto na Lei n. 11.419/2006" (AgRg no AREsp 378.560/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 1/10/2015, DJe 27/10/2015).
+    3. O recurso dirigido à instância especial sem assinatura do signatário da petição é considerado inexistente, não sendo possível, nesta instância, a abertura de prazo para a regularização. Precedentes.
+    4. Nesses casos, tem sido aplicado, por analogia, o entendimento consignado no Enunciado n. 115/STJ, no sentido de que, na instância especial, é inexistente o recurso interposto por advogado sem procuração nos autos.
+    5. Agravo regimental não provido” (fl. 490 - anexo 3).
+    Há óbice jurídico-processual ao conhecimento da impetração.
+    A jurisprudência do Supremo Tribunal Federal já assentou que
+    “[o] habeas corpus não constitui meio hábil para rever as decisões do Superior Tribunal de Justiça quanto à admissibilidade ou não do recurso especial ou dos recursos internos a ele inerentes, questão que não está relacionada, senão reflexamente, com a liberdade de locomoção, e que deve ser resolvida no âmbito daquela Corte” (HC nº 125.024/DF-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe 13/8/15).
+    Perfilhando esse entendimento: HC nº 127.684/RS-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe 18/5/15; HC nº 124.033/DF-AgR-ED, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 6/3/15; HC nº 122.867/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe 3/9/14; HC nº 126.750/SP-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe 13/4/12.
+    Em relação ao regime inicial de cumprimento de pena e ao reconhecimento em favor do paciente da causa especial de redução de pena prevista no § 4º da Lei nº 1.343/06 em seu grau máximo, anoto que os temas, por razões obvias, não foram apreciados pelo Superior Tribunal de Justiça, de modo que sua análise, de forma originária, por esta Corte, configurara supressão de instância não admitida.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS . ALEGAÇÕES DE NULIDADE DA CONDENAÇÃO E DE INEXISTÊNCIA DE PROVAS DA MATERIALIDADE DELITIVA. QUESTÕES NÃO APRECIADAS PELAS INSTÂNCIAS PRECEDENTES. IMPOSSIBILIDADE DE DELIBERAÇÃO ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO A QUE SE NEGA PROVIMENTO. 1. Não compete ao Supremo Tribunal Federal o exame de questões de direito não analisadas pelas instâncias anteriores, sob pena de indevida supressão de instância. Precedentes. 2. Agravo regimental a que se nega provimento (RHC nº 119.693/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 28/10/14 grifei).
+    Destaco ainda: HC nº 122.324/SP-AgR, Primeira Turma, de minha relatoria, DJe 27/8/14; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ 25/5/07, entre outros.
+    Ante o exposto, nos termos dos arts. 38 da Lei nº 8.038/90 e 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 3 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
