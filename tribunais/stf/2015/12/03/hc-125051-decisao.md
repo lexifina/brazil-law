@@ -1,0 +1,21 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão do Superior Tribunal Militar proferido nos autos da Apelação 98-73.2012.7.03.0103/RS. Consta dos autos, em síntese, que (a) o paciente foi denunciado pela suposta prática do crime de falsificação de documento (art. 311 do CPM), mas, ao final da instrução, condenado à pena de 8 meses de prisão, em regime aberto, pela tentativa de estelionato (art. 251 c/c art. 30, II, do CPM), com o benefício de sursis pelo prazo de 2 anos; (b) dessa decisão, as partes apelaram para o Superior Tribunal Militar, que deu provimento apenas ao recurso da acusação, a fim de majorar a reprimenda a 1 ano e 4 meses de prisão, em acórdão assim ementado:
+    “(…) Não se tratando da hipótese de crime de fraude processual (art. 347 do CP) não há falar em nulidade por incompetência da Justiça Militar.
+    A Autoria e a materialidade estão comprovadas por meio do depoimento das testemunhas e dos documentos acostados aos autos.
+    O Apelante percorreu todo o iter criminis, e a tentativa foi frustrada por circunstância alheias à sua vontade, merecendo a pena base ser reduzida no patamar mínimo de 1/3 (um terço).
+    Preliminar da Defesa rejeitada. Decisão unânime.
+    Apelo Defensivo desprovido por unanimidade.
+    Apelo do Ministério Público provido por maioria”.
+    Neste habeas corpus, a impetrante sustenta, em suma, que a Justiça Militar da União é incompetente para processar e julgar o paciente, uma vez que a conduta a ele atribuída, consistente na suposta falsificação de documento militar com o propósito de utilizá-lo na instrução de processo em trâmite na Justiça Federal, amolda-se com mais precisão ao tipo penal descrito no art. 347 do Código Penal (fraude processual), por incidência do princípio da consunção. Requer, ao final, a concessão da ordem, para declarar a incompetência da Justiça Militar, com a remessa dos autos à Justiça comum.
+    O pedido de liminar foi indeferido.
+    Em parecer, a Procuradoria-Geral da República manifestou-se pela denegação da ordem.
+    2. Cabe registrar, por primeiro, que é inviável ao Supremo Tribunal Federal, em sede de habeas corpus, decidir que o crime praticado seria o de fraude processual (art. 347 do CP), e não o de estelionato tentado (art. 251 c/c art. 30, II, do CPM). Como se sabe, cabe ao juízo natural da causa proceder ao exame das provas colhidas e conferir a definição jurídica adequada para os fatos comprovados (v.g, entre outros, HC 94730, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, DJe de 17/10/2013; RHC 112583, Relator(a): Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; HC 112254, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 17/12/2012). Com efeito, o Tribunal Castrense, ao chancelar o entendimento do juízo de primeiro grau, expôs o seguinte:
+    “Não merece acolhida a tese Defensiva. Os autos demonstraram que a conduta do Réu não se amolda ao tipo penal previsto no art. 347 do CP.
+    (…) a conduta do apelante, ao falsificar documento militar teve a finalidade de enganar a Administração Castrense com nítido objetivo de obter vantagem indevida, atentando, dessa forma, contra a ordem administrativa e os valores da caserna, estando em perfeita sintonia com o previsto no artigo 9º, inciso II, letra “e”, do CPM.
+    Nessas circunstâncias, não há como avançar nas alegações fáticas postas na impetração de modo a justificar a desclassificação do crime e, por consequência, reconhecer a competência da Justiça Federal para julgar e processar a causa.
+     3. Registre-se, de qualquer forma, que a doutrina penal atesta, com certa uniformidade, o caráter subsidiário do crime de fraude processual, sendo necessariamente absorvido por crime mais grave quando da prática dos atos delitivos sobrevier conduta tipificada por dispositivo penal específico (cf. Nelson Hungria, Comentários ao Código Penal, 4ª edição; Rogério Greco, Código Penal comentado, 5ª edição; Guilherme de Souza Nucci, Código Penal comentado, 14ª edição).
+    4. Pelo exposto, nego seguimento ao habeas corpus. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 3 de dezembro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
