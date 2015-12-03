@@ -1,0 +1,21 @@
+Decisão:
+    Trata-se de embargos de declaração opostos contra decisão mediante a qual determinei o retorno dos autos ao Tribunal de origem para aplicação do disposto no art. 543-B do Código de Processo Civil, tendo em vista a repercussão geral da matéria relativa a incidência de contribuição previdenciária patronal sobre o terço constitucional de férias, reconhecida nos autos do RE nº 593.068/SC (Tema 163).
+    O embargante alerta, em primeiro lugar, para a existência de erro material na autuação do processo, uma vez que ele constou como recorrente, quando, na realidade, o recurso analisado foi interposto pela União.
+    Sustenta a existência de obscuridade na decisão embargada, pois o recurso da União já teve seu seguimento negado na origem, quanto à matéria do auxílio-doença, remanescendo apenas a matéria alusiva ao terço constitucional de férias.
+    Decido.
+    Os embargos de declaração merecem ser acolhidos.
+    Com efeito, há evidente equívoco na autuação do processo, uma vez que a recorrente é a União. Deve a Secretaria Judiciária, portanto, corrigir a autuação do processo.
+    No mais, observo que o Tribunal de origem exercendo o juízo de admissibilidade entendeu pela impossibilidade de segregação parcial da matéria discutida no recurso extraordinário, concluindo pela admissibilidade do recurso extraordinário, por estarem preenchidos os requisitos de admissibilidade.
+    De rigor, portanto, o exame da questão posta no tema 482, o qual diz respeito à incidência de contribuição previdenciária sobre os valores pagos pelo empregador ao empregado nos primeiros quinze dias de auxílio-doença. Começo por reiterar a ausência de afronta ao art. 97 da Constituição, uma vez que o Tribunal de origem não declarou a inconstitucionalidade de lei ou ato normativo. Ademais, a Corte sedimentou o entendimento sobre a ausência de repercussão geral deste tema, nos autos do RE nº 611.505, Rel. Min. Ayres Britto, de forma que em relação a tal matéria a insurgência não merece prosperar. O julgado restou assim ementado:
+    “REPERCUSSÃO GERAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE VALORES PAGOS PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+    I A discussão sobre a incidência, ou não, de contribuição previdenciária sobre valores pagos pelo empregador nos primeiros quinze dias de auxílio-doença situa-se em âmbito infraconstitucional, não havendo questão constitucional a ser apreciada.
+    II Repercussão geral inexistente.
+    Sobre a contribuição previdenciária incidente no terço constitucional de férias, ambas as Turmas da Corte têm aplicado a sistemática do art. 543-B do Código de Processo Civil, sem se ater ao fato de a espécie versar sobre direito de servidor público ou de trabalhador vinculado ao Regime Geral da Previdência Social, tendo em vista o reconhecimento da repercussão geral de matéria análoga, nos autos do RE nº 593.068/SC (Tema 163).
+    Nesse sentido: ARE nº 814.640/RS–AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 7/8/15; RE nº 858.593/SC–AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 28/4/15.
+    Ainda no mesmo sentido: RE nº 914.608/RS, Rel. Min. Rosa Weber, DJe de 8/10/15; RE nº 913.849/RS, Rel. Min. Celso de Mello, DJe de 13/10/15; ARE nº 915.998/DF, Rel. Min. Roberto Barroso, DJe de 5/10/15; RE nº 911.737/RS, Rel. Min. Luiz Fux, DJe de 29/9/15; ARE nº 914.272/CE, Rel. Min. Cármen Lúcia, DJe de 29/9/15.
+    Ante o exposto, acolho os embargos de declaração para sanando as omissões apontadas, (i) tornar sem efeito a decisão embargada: (ii) determinar que a Secretaria Judiciária retifique a autuação; (iii) negar seguimento ao recurso da União quanto a questão da incidência de contribuição previdenciária nos primeiros quinze dias do auxílio-doença, inclusive no concernente à alegada violação do art. 97 da CF/88; (iv) determinar a devolução dos autos ao Tribunal de origem para que seja aplicado o disposto no artigo 543-B do Código de Processo Civil, quanto a incidência da contribuição previdenciária sobre o terço constitucional de férias (Tema 163).
+    Publique-se.
+    Brasília, 3 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
