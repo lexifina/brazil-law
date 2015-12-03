@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 213, de 5 de agosto de 2015
+ASSUNTO: NORMAS DE ADMINISTRAÇÃO TRIBUTÁRIA EMENTA: PARCELAMENTO. PORTARIA CONJUNTA PGFN/RFB Nº 13, DE 2014. OPÇÃO. ANTECIPAÇÃO. MODALIDADE. VALOR DA DÍVIDA. A antecipação de parcelamento disciplinada no art. 3º da Portaria Conjunta PGFN/RFB nº 13, de 2014, deve ser quantificada de forma separada, por modalidade de parcelamento, de modo que tanto o valor total da dívida, quanto o valor da dívida objeto do parcelamento, consolidados na data do pedido, correspondem aos montantes considerados, separadamente, por modalidade de parcelamento escolhido. DISPOSITIVOS LEGAIS: Lei nº 12.996, de 2014, art. 2º; e Portaria Conjunta PGFN/RFB nº 13, de 2014, arts. 1º, 3º e 23.
+[arquivo anexo: SC Cosit nº 213-2015.pdf]
