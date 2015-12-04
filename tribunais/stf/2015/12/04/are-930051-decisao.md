@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INCS. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Porte ilegal de arma de fogo de uso permitido e resistência – Autoria e materialidade delitiva perfeitamente demonstradas – Prova robusta a admitir a condenação do réu – Penas e regime de cumprimento fixados adequadamente – Recurso não provido”.
+    2. Inadmitiu-se o recurso extraordinário sob os seguintes fundamentos: a) ausência de prequestionamento (Súmula n. 282 do Supremo Tribunal Federal); b) a ofensa constitucional, se tivesse ocorrido, seria indireta e dependeria de análise de legislação infraconstitucional; c) necessidade de análise das provas (Súmula n. 279 do Supremo Tribunal Federal); d) deficiência na fundamentação (Súmula n. 284 deste Supremo Tribunal); e) prejudicialidade do recurso extraordinário quanto à alegada contrariedade ao art. 93, inc. IX, da Constituição da República, com fundamento na decisão proferida no AI n. 791.292-QO, com repercussão geral reconhecida.
+    3. O Agravante sustenta que: a) o recurso extraordinário estaria fundamentado; b) a matéria constitucional teria sido prequestionada; c) pelo acórdão recorrido, ter-se-ia afrontado diretamente a Constituição da República.
+    Assevera que “o recurso extraordinário se restringiu a apontamentos do v. Acórdão, o que revela, por si só, a ausência de pretensão de análise de provas”.
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 5º, incs. LIV e LV, e 93, inc. IX, da Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, RTJ 150/269).
+    Esse entendimento foi reafirmado no julgamento da Questão de Ordem no Agravo de Instrumento n. 791.292, Relator o Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (DJ 13.8.2010)
+    7. Este Supremo Tribunal assentou inexistir repercussão geral na alegação de contrariedade ao princípio do cerceamento do direito de defesa quando necessária prévia análise de legislação infraconstitucional (Código Penal):
+      “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE n. 748.371, Relator o Ministro Gilmar Mendes, DJe 1º.8.2013).
+    8. Pelo exposto, nego seguimento a este agravo (art. 38 da Lei n. 8.038/1990 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 4 de dezembro de 2015.
+ Ministra CÁRMEN LÚCIA
+Relatora
