@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de reclamação ajuizada em face de sentença de Juizado Especial da Fazenda Pública e acórdão de Turma Recursal.
+    O reclamante narra que foi julgada improcedente ação por ele proposta em face de Delegado de Polícia, na qual pleiteava a reparação por danos morais causados pelo uso supostamente indevido de algemas em diligência policial. Transcrevo trecho pertinente da sentença reclamada:
+    “In casu, verifico que toda a conduta supostamente violadora de direito personalíssimo do autor foi tomada pelo réu no exercício de suas funções estatais. Sendo assim, deveria a parte autora demandar em face do Estado, já que o réu atuava em nome do Estado, ou seja, incide o princípio da impessoalidade onde o real causador de alegado dano é o Estado.
+    Segundo o art. 37, §6ª da CF/88, ‘as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa. Infere-se diante do dispositivo que o Estado responde objetivamente pelos seus danos e, somente quando condenado regressará contra o servidor demonstrando sua culpa’.
+    Neste sentido 1ª Turma do STF (RE 327904, Rel. Min. Carlos Britto, julgado em 15/08/2006) e RE 344133, Rel. Min. Marco Aurélio, julgado em 09/09/2008; RE 720275/SC , Rel. Min. Dias Toffoli, julgado em 10/12/2012.
+    Desta forma, sendo ilegítimas as pessoas jurídicas de direito público para figurarem como partes nos Juizados Especiais Cíveis (art. 8º da Lei 9.099/95), o processo deve ser extinto sem resolução do mérito.
+    Ante exposto, com fulcro no artigo 8º e 51, inciso IV, da Lei 9.099/95 c/c o art. 267, VI do CPC, julgo extinto o processo sem resolução do mérito” (destaques originais).
+    Contra esta decisão, o reclamante impetrou Mandado de Segurança, denegado pela respectiva Turma Recursal, em acórdão assim ementado:
+     “MANDADO DE SEGURANÇA. INÉPCIA DA INICIAL. SUCEDÂNEO RECURSAL. IMPETRANTE QUE INTERPÕE AÇÃO MANDAMENTAL CONTRA DECISÃO QUE EXTINGUIU A AÇÃO PRINCIPAL SEM APRECIAÇÃO DE MÉRITO, SOB O FUNDAMENTO DE ILEGITIMIDADE PASSIVA AD CAUSAM, UTILIZANDO O WRIT COMO SUBSTITUTO PROCESSUAL. INTELIGÊNCIA DO ART. 295, I C/C ARTS. 5º, 6º, § 5º, E 10, DA LEI 12.016/2009. DENEGAÇÃO DO MANDADO DE SEGURANÇA POR INDEFERIMENTO DA PETIÇÃO INICIAL”.
+    Na presente reclamação, alega-se afronta à Súmula Vinculante 11 (“Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado”). Defende que na hipótese de uso indevido de algemas, é viável o ajuizamento de ação civil em face do agente público responsável pela prática do ato. Sustenta a inaplicabilidade da jurisprudência do STF citada na sentença reclamada, porquanto anterior à edição da referida Súmula Vinculante.
+    É o relatório. Decido.
+    Constato, de início, a ausência de juntada de documento comprobatório da capacidade postulatória do reclamante. Em respeito à economia processual, no entanto, dispenso sua juntada, em razão da clara inviabilidade do feito.
+    Dispenso, ainda, as informações e o parecer ministerial (RI/STF, art. 52, parágrafo único).
+    Consta dos autos que, contra a sentença reclamada, proferida nos autos 0093323-90.2013.8.05.0001, em 25.01.2015, não foi interposto qualquer recurso. A consulta processual eletrônica aponta encontrar-se o feito arquivado. Não obstante, a presente reclamação somente foi ajuizada 25.11.2015.
+    Em situações como essa é inadmissível a reclamação, nos termos da Súmula 734/STF, que enuncia: “Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”.
+    Observe-se que o ajuizamento de mandado de segurança contra sentença, conforme realizado na origem pela parte ora reclamante, não tem o condão de afastar o trânsito em julgado. Isto porque o expediente é manifestamente inviável à impugnação de decisões contra as quais é cabível recurso, como é o caso de sentenças proferidas nos Juizados Especiais (Art. 41 da Lei nº 9.099/95).
+    Nessas circunstâncias, a reclamação é inviável.
+    Diante do exposto, com fundamento no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Publique-se.
+          Brasília, 07 de dezembro de 2015.
+Ministro LUÍS ROBERTO BARROSO
+Relator
