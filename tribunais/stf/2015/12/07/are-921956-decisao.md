@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Recurso ex officio e Apelação Cível. Mandado de Segurança coletivo. Pretensão da impetrante – entidade representativa de exploradoras de serviço de telecomunicações – de afastar a cobrança de preço público instituído pelo Decreto Municipal nº 40.532/2001, que tem por fundamento a utilização de vias públicas, inclusive o espaço aéreo e subsolo. Segurança parcialmente concedida na origem. Exação combatida que não ostenta característica de preço público – como, aliás, é intitulada – nem de taxa. Natureza administrativa afastada, em razão de inexistir atividade de natureza comercial ou industrial a ensejar a pretendida remuneração. Natureza tributária, por seu turno, que não subsiste, eis que ausente a prestação de um serviço de fiscalização decorrente do exercício do poder de polícia municipal. Exação que, por conseguinte, se aproxima de um simples aluguel pela utilização de bem público de uso coletivo, o que não se admite da relevância do serviço prestado (telecomunicações). Ilegitimidade da exação. Entendimento pacífico perante o Superior Tribunal de Justiça. Precedentes deste Tribunal. Efeitos da segurança que obstam toda e qualquer cobrança de ‘preço’ combatido. Recurso da impetrante provido e recursos oficial e voluntário da Municipalidade não providos.”
+    O recurso não merece acolhida, tendo em vista que, para dissentir da conclusão firmada pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, procedimento vedado neste momento processual.
+    Nesse sentido,veja-se o seguinte precedente: AI 787.049-AgR, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço o agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 07 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
