@@ -1,0 +1,18 @@
+AGRAVO REGIMENTAL EM MANDADO DE INJUNÇÃO. DECISÃO AGRAVADA QUE SE CIRCUNSCREVEU À COLMATAR LACUNA REGULAMENTADORA DO INCISO III DO § 4º DO ART. 40 DA MAGNA CARTA. CONSONÂNCIA COM O ENTENDIMENTO ATUALMENTE CONSAGRADO NO ENUNCIADO DE SÚMULA VINCULANTE Nº 33. FALTA DE INTERESSE RECURSAL.
+Agravo regimental em mandado de segurança a que se nega seguimento.
+    Vistos etc.
+    A União interpõe agravo regimental contra a decisão por meio da qual concedi, em parte, a ordem injuncional coletiva, “para determinar, no tocante ao rol de substituídos que ainda não tenham se aposentado, seja aplicado supletivamente o art. 57 da Lei 8.213/1991 pela autoridade administrativa a quem compete apreciar concretamente o preenchimento dos requisitos legais a jubilação especial, até a superveniência da lei complementar a que se refere o § 4º do art. 40 da Constituição da República, que se toma por condição resolutiva desta decisão” (evento 14, fl. 14, e-STF).
+    A agravante requer a “aplicação imediata da Lei Complementar nº 142, como construção de solução para o presente caso concreto, em relação aos portadores de deficiência física (artigo 40, § 4º, I, da CF/88), bem como afastada a ordem em relação às atividades de risco (artigo 40, § 4º, II, da CF/88)” (evento 20, fls. 2-3, e-STF).
+    Aludindo às discussões travadas nos MIs nºs 833 e 844 – aspecto suscetível, na sua ótica, de ensejar o sobrestamento deste feito -, pugna pela reconsideração da decisão agravada ou, se mantida, a submissão do agravo regimental ao Plenário desta Casa.
+    É o relatório.
+    Decido.
+    1. A decisão agravada cingiu-se a colmatar lacuna que impedia o exercício do direito assegurado no art. 40, § 4º, III, da Constituição da República. A propósito, por importantes para elucidar o alcance da parte dispositiva da decisão agravada, nos termos do art. 469, I, do CPC, transcrevo trechos da respectiva fundamentação:
+    “Funda-se, a pretensão ora deduzida pela parte impetrante, na inexistência de norma regulamentadora do art. 40, § 4º, da Carta da República, a impedir o exercício de direito constitucionalmente assegurado, qual seja, a aposentadoria especial do servidor público que exerce atividades sob condições especiais que prejudiquem a saúde ou a integridade física. Aponta, nessa medida, frustrado, em face de omissão legislativa, o exercício de direito assegurado por norma constitucional de eficácia limitada.
+    (…)
+    Na espécie, serve-se a parte impetrante da via injuncional para demandar ordem integrativa, de modo a viabilizar o exercício de direito dos substituídos que assinala abrigado no art. 40, § 4º, III, da Magna Carta, obstaculizado pela mora legislativa em regulamentá-lo. Trata-se da adoção de requisitos e critérios diferenciados para a concessão de aposentadoria, em caráter especial, ao servidor público cujas atividades sejam exercidas sob condições que prejudiquem a saúde ou a integridade física.” (evento 14, fls. 2, 3 e 5, e-STF)
+    2. Nessa perspectiva, não há falar, quanto aos incisos I e II do § 4º do art. 40 da Magna Carta, em sucumbência e/ou em interesse recursal da União, pois a decisão agravada circunscreveu-se à colmatação de lacuna regulamentadora do direito assegurado no inciso III do § 4º do art. 40 da Constituição da República, em consonância, aliás, com o entendimento atualmente consagrado no enunciado de Súmula Vinculante nº 33 deste Supremo Tribunal Federal.
+    Ante o exposto, evidenciada a falta de interesse recursal da União e forte nos arts. 38 da Lei 8.038/1990 e 21, § 1º, do Regimento Interno do STF, nego seguimento ao presente agravo regimental em mandado de segurança.
+    Publique-se.
+    Brasília, 07 de dezembro de 2015.
+Ministra Rosa Weber
+Relatora
