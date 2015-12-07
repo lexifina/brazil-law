@@ -1,0 +1,13 @@
+DECISÃO:
+    1. Trata-se de execução contra a Fazenda Pública cujo objeto é acórdão da Segunda Turma desta Corte, proferido dos autos do MS nº 26.740, que concedeu a segurança para garantir aos impetrantes o seguinte (fls. 338-348):
+    a) o desempenho das atribuições do cargo de técnico de apoio especializado, conforme a Lei nº 9.953/2000 e a Portaria nº 53/2000, do Procurador-Geral da República (atribuições que, atualmente, correspondem ao cargo de técnico de apoio especializado/segurança TC 204.03); b) a percepção de Gratificação de Atividade de Segurança (GAS), instituída pelo art. 15 da Lei 11.415/2006.
+    2. Em sede de embargos de declaração, reconheceu-se, ainda, que o pagamento da gratificação deve ser “efetuado relativamente às prestações que se vencerem a contar da data do ajuizamento da inicial” (fls. 376).
+    3. Sob o fundamento de que a União não cumpriu espontaneamente com a obrigação fixada na sentença transitada em julgado, os exequentes promovem a execução no valor de R$ 218.289,94 (duzentos e dezoito mil, duzentos e oitenta e nove reais e noventa e quatro centavos), sendo R$ 109.144,97 (cento e nove mil, cento e quarenta e quatro reais e noventa e sete centavos) para cada um, conforme planilha de débito acostada às fls. 406-411.
+    4. Por meio de embargos à execução, a União impugna (i) o valor referente ao mês de junho/2007; (ii) a adoção do INPC como índice de correção monetária; e (iii) os cálculos dos juros de mora. Alegou ainda que não teria sido abatido valores recebidos administrativamente, a título de GAS, nos meses de dezembro de 2011 e julho de 2012. Afirma, assim, excesso de execução no valor de R$ 72.518,73 (setenta e dois mil, quinhentos e dezoito reais e setenta e três centavos), nos termos do parecer e da planilha de fls. 427-465.
+    5. Intimados, o exequentes manifestaram-se pela improcedência das alegações da União e requerem o pagamento da parcela incontroversa (fls. 470-479).
+    6. Diante do exposto, considerando o enunciado nº 31, da Súmula da Advocacia-Geral da União, e a jurisprudência desta Corte (AI 798.495 AgR, Rel. Min. Gilmar Mendes; RE 504.128, Rel. Min. Cármen Lúcia), determino o pagamento da parcela incontroversa mediante precatório. Quanto ao pedido de gratuidade de justiça, reitero a decisão de fls. 416.
+    7. À Secretaria, para que encaminhe os autos à Presidência do Tribunal, solicitando a requisição, por precatório alimentar preferencial (CRFB/1988, art. 100, § 1º), do valor de R$ 72.885,61 (setenta e dois mil, oitocentos e oitenta e cinco reais e sessenta e um centavos), para cada exequente.
+    Publique-se. Intimem-se.
+          Brasília, 07 de dezembro de 2015
+Ministro LUÍS ROBERTO BARROSO
+Relator
