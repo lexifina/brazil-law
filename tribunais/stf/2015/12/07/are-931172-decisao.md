@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Turma Recursal que deu provimento a recurso inominado, revertendo a sentença de primeiro grau, para deferir pedido de ressarcimento integral de material oftalmológico pelo plano de saúde.
+    No recurso, aduz-se ofensa ao princípio da obrigatoriedade de prestação jurisdicional e ao dever de fundamentação das decisões judiciais.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No exame do ARE-RG 837.318, de relatoria do Ministro Teori Zavascki, DJe 25.03.2015 (Tema 798), decidiu-se que, em regra, não possuem repercussão geral as controvérsias decididas no âmbito dos Juizados Especiais Cíveis da Lei 9.099/1995, que versem sobre matéria de revisão contratual, revestida de simplicidade fática e jurídica, por inexistir questão constitucional a ser apreciada, como no caso dos autos.
+    Ressalte-se que, no julgamento do ARE-RG 697.312, de relatoria do Ministro Ayres Britto, DJe 23.11.2012 (Tema 611), o Plenário desta Corte decidiu que não possuem repercussão geral as controvérsias que versam sobre a responsabilidade civil decorrente da negativa de cobertura por operadora de plano de saúde, não ensejando a abertura da via extraordinária por não prescindir do exame de legislação infraconstitucional, de cláusulas contratuais e do conjunto fático-probatório dos autos, como o caso em exame.
+    Por fim, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, esta Corte assentou a repercussão geral do Tema 339, referente à negativa de prestação jurisdicional por ausência de fundamentação, e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 07 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
