@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. LEI MUNICIPAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. ALEGAÇÃO DE CERCEAMENTO DE DIREITO DE DEFESA: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Sexta Câmara Cível do Tribunal de Justiça de Minas Gerais decidiu:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL – PREJUDICIAL EXTERNA - SUSPENSÃO DO PROCESSO - INADMISSIBILIDADE - CERCEAMENTO DE DEFESA - INOCORRÊNCIA – SERVIDORA MUNICIPAL - MAGISTÉRIO - DIPLOMA EMITIDO POR INSTITUIÇÃO DE ENSINO CREDENCIADA, REGISTRADA E AUTORIZADA A OFERTAR CURSOS À DISTÂNCIA - PROGRESSÃO FUNCIONAL INVALIDADA PELA ADMINISTRAÇÃO PÚBLICA - NULIDADE - SENTENÇA CONFIRMADA. A existência de inquérito civil, instaurado a fim de apurar ilegalidade em certificado de conclusão de curso, emitido por instituição de ensino superior autorizada pelo Ministério da Educação, não autoriza a suspensão do processo, na forma prevista pelo art. 265, IV, 'a', do CPC. Inexiste cerceamento de defesa diante do julgamento antecipado da lide se a questão versada nos autos é eminentemente de direito e os fatos relevantes à solução do conflito se encontram, suficientemente, comprovados por meio dos documentos anexados aos autos. É nulo o ato que invalida a elevação de um nível na carreira de servidora pública ocupante do cargo de Professor quando se constata que o diploma apresentado preenche os requisitos da Lei Municipal n. 7.969/2000, regulamentada pelo Decreto n. 10.239/2000, além de ser emitido por instituição de ensino credenciada, registrada e autorizada para ofertar cursos e programas à distância, cuja regularidade é constantemente fiscalizada pelo Ministério da Educação” (doc. 1, fl. 238).
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas ns. 279, 280, 282 e 356 do Supremo Tribunal Federal.
+    4. O Agravante argumenta que
+     “não pretende análise de direito local. Impugna a decisão proferida pela instância ordinária com base no art. 5º, LV, da CRFB.
+    (…) não pretende o reexame de provas. Impugna a decisão proferida pela instância ordinária com base no art. 5º, LV, da CRFB, vale dizer, pretende apenas que se lhe defira o direito de produzir a prova apta à comprovação de suas alegações” (doc. 1, fls. 327-328).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 5º, inc. LV, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Cumpre afastar o óbice da decisão agravada quanto ao prequestionamento, por ter sido a matéria objeto de oportuna impugnação.
+    A superação desse fundamento, todavia, não é suficiente para acolher-se a pretensão do Agravante.
+    7. A apreciação do pleito recursal exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Lei municipal n. 7.969/2000). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 759.593-AgR/MG, de minha relatoria, Segunda Turma, DJe 24.10.2013).
+    8. Não se pode afirmar cerceamento de defesa pelo indeferimento da produção de prova, cabendo ao juiz da causa o exame da suficiência e eventual necessidade de dilação probatória.
+    No julgamento do Recurso Extraordinário com Agravo n. 639.228, Relator o Ministro Presidente, este Supremo Tribunal assentou inexistir repercussão geral dessa questão, nos seguintes termos:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional” (DJe 31.8.2011).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de dezembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
