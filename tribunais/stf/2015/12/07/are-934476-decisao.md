@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “REVISÃO CRIMINAL. SENTENÇA CONTRÁRIA AO TEXTO DE LEI (CPP, ART. 621, I). DOSIMETRIA. SÚMULA. CABIMENTO EXCEPCIONAL. PERSONALIDADE DO AGENTE. AÇÕES PENAIS E INQUÉRITOS POLICIAIS EM CURSO. AFASTAMENTO. REGIME MENOS GRAVOSO. SUBSTITUIÇÃO DA PENA. OUTRAS CIRCUNSTÂNCIAS DESFAVORÁVEIS. REJEIÇÃO.
+    1. "Havendo a jurisprudência firmado entendimento de que a lei deve ser interpretada num determinado prisma [...] cabe revisão criminal, com base em afronta à lei, quando o magistrado adotar posicionamento oposto ao majoritário" (NUCCI, Guilherme de Souza. Código de processo penal comentado. 11. ed rev e atual. São Paulo: Revista dos Tribunais, 2012. p. 1.070).
+    "As hipóteses que admitem a propositura da revisão criminal estão expressamente previstas nos incisos do artigo 621 do Código de Processo Penal, entre as quais não se prevê a possibilidade de reavaliação da dosimetria da pena, porém a jurisprudência passou a admitir excepcionalmente o seu cabimento também quando ocorrer erro técnico ou explícita injustiça da decisão" (Revisão Criminal n. 2012.014844-8, de Xanxerê, rel. Des. Jorge Schaefer Martins, j. em 27.6.2012).
+    2. É flagrantemente contrária ao texto expresso da Súmula n. 444 do Superior Tribunal de Justiça a sentença que, para valorar negativamente a personalidade do agente, vale-se exclusivamente do registro de ações penais e inquéritos policiais em curso.
+    O afastamento de apenas uma entre as três circunstâncias judiciais consideradas desfavoráveis ao acusado não tem o condão de, por si só, autorizar a fixação de regime menos gravoso ou a substituição da pena.
+    PEDIDO CONHECIDO E PARCIALMENTE PROCEDENTE.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, XLVIII, LIV, LXI e LXVI, da Constituição. Aduz que “é imperiosa a substituição da pena provativa de liberdade por restritivas de direito nos termos do artigo 44 do Código Penal”. Afirma que “é flagrante, pois, a violação do direito do Recorrente ao não ser fixado o regime aberto como inicial para o resgate da reprime”.
+    O recurso é inadmissível, tendo em vista que os dispositivos constitucionais tidos por violados não foram objeto de apreciação pelo acórdão do Tribunal de origem, de modo que o recurso extraordinário carece do necessário prequestionamento, nos termos da Súmula 282/STF.
+    De qualquer forma, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, imprescindível seria a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 07 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
