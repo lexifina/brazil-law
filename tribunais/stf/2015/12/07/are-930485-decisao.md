@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Turma Recursal que negou provimento a recurso inominado, mantendo sentença que, por reconhecer fraude em empréstimo bancário, determinou o cancelamento dos descontos em folha de pagamento, bem como condenou a instituição financeira a restituir em dobro os valores indevidamente descontados e indenizar por danos morais.
+    No recurso, aduz-se ofensa ao artigo 5º, XXXVI, da Constituição Federal, insurgindo-se contra a condenação por danos morais e ao pagamento de restituição em dobro.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Em primeiro lugar, ressalte-se que o Supremo Tribunal Federal, no exame do ARE-RG 835.833, de relatoria do Ministro Teori Zavascki, DJe 26.03.2015 (Tema 800), decidiu que, em regra, não possuem repercussão geral as controvérsias decididas no âmbito dos juizados Especiais Cíveis da Lei 9.099/1995, que decorrem de uma relação de direito privado (contrato de empréstimo bancário), revestida de simplicidade fática e jurídica, como a do caso em exame.
+    Verifica-se que, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Por fim, no que tange à discussão sobre a modificação do valor de indenização fixado a título de danos morais, por desproporcionalidade, esta Corte, no julgamento do ARE-RG 743.771, de relatoria do Ministro Gilmar Mendes, DJe 31.05.2013 (Tema 655), decidiu pela inexistência de repercussão geral da questão suscitada, por se tratar de matéria infraconstitucional.
+    Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 07de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
