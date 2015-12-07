@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Colégio Recursal de Casa Branca/SP, assim ementado:
+    “Ação ordinária em razão das perdas salariais em função da não aplicação correta da Lei nº 8.880/94, visando à conversão dos vencimentos ao plano URV, com o consequente pedido de recebimento de diferenças gerada pela correção. Sentença de procedência reformada apenas em parte. A condenação fica mantida, pelos próprios fundamentos, inclusive condenando-se a parte requerida no pagamento dos valores em atraso, respeitada a prescrição quinquenal. Mas o acréscimo dos juros moratórios deverá seguir os termos da Súmula nº 03, do Conselho Supervisor do Sistema de Juizados Especiais. Para fins de prequestionamento, fica expressamente consignado que o julgamento, em concreto, não violou o art. 37, XIV, da Constituição Federal.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que ocorreu violação aos arts. 5º, caput; 25; 37, X e XIII; 39, § 1º; e 169, § 1º, I e II, todos da Constituição.
+    O recurso extraordinário é inadmissível. Quanto à questão da conversão de valores em URV devidos a servidores públicos, a decisão proferida pelo Tribunal de origem está alinhada à jurisprudência desta Corte. Com efeito, a questão constitucional debatida nos autos teve sua repercussão geral reconhecida no RE 561.836-RG, julgado sob a relatoria do Ministro Luiz Fux. Colhem-se do voto do relator as seguintes premissas:
+    a) compete à União legislar sobre direito monetário, de modo que a legislação estadual não pode dispor sobre a matéria de maneira diversa da prevista na Lei federal nº 8.880/1994 (AI 587.741-AgR, Rel. Min Gilmar Mendes; RE 529.559, Rel. Min. Ricardo Lewandowski);
+    b) “a incorporação do índice de 11,98%, ou de um índice obtido em processo de liquidação, sem qualquer abatimento ou compensação em decorrência de aumentos salariais supervenientes a título de reajuste ou revisão, é medida legítima e necessária, sob pena de a supressão originar uma autêntica ofensa ao princípio da irredutibilidade da remuneração dos servidores públicos”;
+    c) “O índice de 11,98% é devido em decorrência de um equívoco na conversão da moeda, o que não impede o seu acúmulo com índices de aumento posteriormente concedidos aos servidores para assegurar o poder de compra da moeda.” (Negritos acrescentados)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 07 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
