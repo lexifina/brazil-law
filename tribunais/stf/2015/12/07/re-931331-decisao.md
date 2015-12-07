@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Banco Santander Brasil interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Câmara de Direito Comercial do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “REEXAME DE JULGADO. APELAÇÃO CÍVEL. ART. 543-C, §7º, INC. II, E 543-B, §3º DO CPC.
+    RECURSO EXTRAORDINÁRIO. DIVERGÊNCIA COM RE. 592.377/RS QUANTO À CONSTITUCIONALIDADE FORMAL DA MEDIDA PROVISÓRIA 2.170/36. CÂMARA QUE REFLUI DE SUA POSIÇÃO E ACOMPANHA A CORTE CONSTITUCIONAL. INCOMPATIBILIDADE MATERIAL QUE SUBSISTE. RATIFICAÇÃO/COMPLEMENTAÇÃO NO PONTO.
+    RECURSO ESPECIAL DIVERGÊNCIA RESP. 973.827/RS ACERCA DA POSSIBILIDADE DE COBRANÇA DE JUROS MENSAIS DE FORMA CAPITALIZADA.NECESSIDADE DE PREVISÃO EXPRESSA. INTELIGÊNCIA DO ART. 6º, III, DO CÓDIGO DE DEFESA DO CONSUMIDOR. MANUTENÇÃO DA POSIÇÃO ANTERIORMENTE ADOTADA.
+    RATIFICAÇÃO PARCIAL DA DECISÃO”.
+    Alega o recorrente violação do artigo 62 da Constituição Federal, pugnando pelo reconhecimento da constitucionalidade e da aplicabilidade da Medida Provisória nº 2.170/01 quanto à capitalização mensal dos juros.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    O voto condutor do acórdão atacado vedou a capitalização dos juros amparado, também, da seguinte fundamentação:
+    “Ademais, quanto à divergência com a posição assentada pelo Superior Tribunal de Justiça, esta Câmara mantém-se entendendo que ‘em atenção ao inc. III do art. 6º do CDC, necessita-se da determinação expressa de que a cobrança de juros será efetuada de forma capitalizada. Assim, ‘não basta a simples referência à cobrança mensal dos juros ou à aplicação do método hamburguês’ (AgRg no Ag n. 286.504/RS, rel. Min. Barros Monteiro, j. 17-5-2001). Para a caracterização do pacto de capitalização de juros, é imprescindível a indicação da cobrança de ‘juros capitalizado’, ‘capitalização anual’ ou expressões equivalentes’, sobretudo diante da hipossuficiência do consumidor do crédito bancário que, como regra, não é gande conhecedor das indicações matemáticas presentes no contrato e suas implicações, mas apenas do valor da dívida e das parcelas havidas”.
+    Desse modo, para acolher a pretensão do recorrente e ultrapassar o entendimento da Corte de origem, acerca da ausência de expressa pactuação da capitalização dos juros, seria necessário o reexame do conjunto fático-probatório dos autos e das cláusulas do contrato celebrado entre as partes, o que não se mostra possível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 454 desta Corte. A propósito:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL, DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 454/STF. DIREITO À AMPLA DEFESA E AO CONTRADITÓRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE nº 764.316/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 30/9/13).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 7 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
