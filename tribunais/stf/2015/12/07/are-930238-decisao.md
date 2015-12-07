@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal do da 30ª Circunscrição Judiciária do Estado de São Paulo.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput; 25; 26; 37, X, XIII; 39, § 1º; 97; 100, §§ 2º, 9º, 10 e 12; 169, § 1º, I e II, da Constituição, bem como ao art. 97 do ADCT.
+    O recurso extraordinário discute dois temas constitucionais que tiveram a repercussão geral reconhecida pelo Plenário Virtual desta Corte.
+    Quanto à questão discutida no RE 561.836-RG, julgado sob a relatoria do Ministro Luiz Fux, nota-se que o acórdão recorrido está alinhado ao entendimento do Supremo Tribunal Federal. Extraem-se do voto do relator as seguintes premissas:
+    A) compete à União legislar sobre direito monetário, de modo que a legislação estadual não pode dispor sobre a matéria de maneira diversa da prevista na Lei federal nº 8.880/1994 (AI 587.741-AgR, Rel. Min Gilmar Mendes; RE 529.559, Rel. Min. Ricardo Lewandowski);
+    B) o direito ao percentual de 11,98%, ou do índice decorrente do processo de liquidação, na remuneração do servidor, resultante da equivocada conversão do Cruzeiro Real em URV, não se trata de reajuste, mas de mera recomposição cujo reconhecimento não depende de lei (AI 638.226-AgR, Rel. Min. Ricardo Lewandowski);
+    C) “a incorporação do índice de 11,98%, ou de um índice obtido em processo de liquidação, sem qualquer abatimento ou compensação em decorrência de aumentos salariais supervenientes a título de reajuste ou revisão, é medida legítima e necessária, sob pena de a supressão originar uma autêntica ofensa ao princípio da irredutibilidade da remuneração dos servidores públicos”;
+    D) “O índice de 11,98% é devido em decorrência de um equívoco na conversão da moeda, o que não impede o seu acúmulo com índices de aumento posteriormente concedidos aos servidores para assegurar o poder de compra da moeda.” (Negritos acrescentados)
+    E) “Por sua vez, a incorporação do índice de 11,98%, ou do eventual índice obtido por processo de liquidação, não poderá subsistir quando a remuneração do servidor tiver sofrido uma reestruturação financeira que inviabilize a sua perpetuação.” (Negrito acrescentado)
+    Dessa orientação não divergiu o acórdão recorrido, razão pela qual é inadmissível o recurso nessa parte.
+    Nota-se, ainda, que a questão relativa à reestruturação da carreira como limite temporal para o índice de 11,98% não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração, a fim de sanar eventual omissão. O recurso extraordinário carece, neste ponto, de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto à discussão acerca da constitucionalidade da aplicação dos critérios de correção monetária relativos à caderneta de poupança (Taxa Referencial TR) sobre os débitos da Fazenda Pública, o Supremo Tribunal Federal, nos autos do RE 870.947-RG, julgado sob a relatoria do Ministro Luiz Fux, reconheceu a existência de repercussão geral da controvérsia (Tema 810), estando a questão pendente de julgamento de mérito.
+    Diante do exposto, dou provimento ao agravo para: (i) quanto à questão de que trata o RE 870.947-RG, admitir o recurso extraordinário e, com base no art. 328, parágrafo único, do RI/STF, determinar o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC; e (ii) quanto aos demais pontos, com base no art. 544, § 4º, II, b , do CPC e no art. 21, § 1º, do RI/STF, negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 07 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
