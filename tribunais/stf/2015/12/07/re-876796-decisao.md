@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. IBAMA. FATMA. AUTO DE INFRAÇÃO. MULTA. INSCRIÇÃO NO CADIN E NA DÍVIDA ATIVA. PLANO DE RECUPERAÇÃO DE ÁREA DEGRADADA. ILEGALIDADE.
+    1. A Lei de Política Nacional do Meio Ambiental, n.º 6.938/81, estabeleceu a responsabilidade objetiva ao conceituar como 'poluidor a pessoa física ou jurídica, de direito público ou privado, responsável direta ou indiretamente, por atividade causadora de degradação ambiental, estando obrigado, independentemente da existência de culpa, a indenizar ou recuperar os danos causados ao meio ambiente e a terceiros afetados por sua atividade.
+    2. Com a recomposição do ambiente atingido a multa será reduzida, conforme a disposição do §3º do art. 60 do Decreto n.º 3.179/99, uma vez que "cumpridas integralmente as obrigações assumidas pelo infrator, a multa será reduzida em noventa por cento do valor atualizado monetariamente.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. XXXV e LV; 93, IX, e 225, § 3º, da Constituição. Sustenta que a “implementação do Plano de Reparação de Área Degradada – PRAD é obrigação do autuado e não guarda qualquer relação com a redução ou extinção das multas, muito menos com sua suspensão.”
+    O recurso extraordinário não deve ser provido. De início, nota-se que a discussão acerca do art. 225, § 3º, da Constituição carece de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto à alegação de ofensa aos arts. 5°, XXXV, e LV; e 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, Rel. Min. Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, a solução da controvérsia demanda a análise da legislação infraconstitucional aplicada ao caso e a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em sede de recurso extraordinário.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 07 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
