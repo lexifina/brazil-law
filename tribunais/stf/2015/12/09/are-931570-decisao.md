@@ -1,0 +1,36 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE DE TRABALHO: NECESSIDADE DE COMPROVAÇÃO. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Apelação Cível. Acidentária. Conversão de auxílio-acidente em aposentadoria por invalidez acidentária. Inadmissibilidade. Ausência de incapacidade total ou definitiva a ensejar a conversão pretendida. Ação julgada improcedente. Sentença mantida. Recurso não provido” (fl. 195, doc. 2).
+    Os embargos de declaratórios opostos foram rejeitados.
+    2. O Agravante alega contrariedade aos arts. 5º, inc. XXXV, 6º, 93, inc. IX, 195 e 201, incs. I e III, da Constituição da República.
+    Sustenta não ter “condições de competir no mercado de trabalho por um emprego remunerado que lhe garanta a subsistência, ainda mais considerando todas as limitações pela idade, grau de instrução e nível sociocultural” (fl. 31, doc. 3).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 282 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Cumpre afastar o fundamento da decisão agravada quanto à incidência da Súmula n. 282 deste Supremo Tribunal, pois a questão posta à apreciação foi suscitada em momento processual adequado.
+    A superação desse fundamento, todavia, não é suficiente para o acolhimento da pretensão do Agravante, não lhe assistindo razão jurídica.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    7. O Tribunal de origem asseverou
+    “Trata-se a espécie de demanda em que o segurado busca a conversão do beneficio de auxílio-acidente para aposentadoria por invalidez acidentária, sob o argumento de que está total e definitivamente incapacitado para o trabalho, devido ao acidente de trabalho sofrido.
+    O não provimento do recurso é medida que se impõe.
+    Com efeito, o exame da perícia médica (fls.96/98),realizado por perito nomeado pelo juízo, concluiu em seu laudo:
+    "Capacidade laborativa parcial e permanentemente prejudicada, devendo evitar atividades delicadas com a mão esquerda bem como que exijam de todos os dedos da mão esquerda". (Destaquei)
+    Assim, ausente a incapacidade total e definitiva, outro não poderia ser o desfecho da demanda senão a não conversão pretendida, ficando, desse modo, mantida a r. sentença por seus próprios e jurídicos fundamentos.
+    Ante o exposto, nego provimento ao recurso” (fl. 196, doc. 2).
+    A apreciação do pleito recursal demandaria o reexame do conjunto fático-probatório constante do processo. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA. PREENCHIMENTO DE REQUISITOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DAS PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 744.208-AgR, de minha relatoria, Segunda Turma, DJe 4.11.2013).
+    “Agravo regimental no recurso extraordinário. Previdenciário. Aposentadoria. Art. 9º da EC 20/98. Regra de transição. Reexame de provas. Contagem do tempo de serviço em condições especiais. Análise de normas infraconstitucionais. Ofensa reflexa. Precedentes. Agravo improvido.
+    I – A verificação do atendimento à regra de transição relativa à aposentadoria (art. 9º da EC 20/98) depende do revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 279 do STF.
+    II – O acórdão recorrido reconheceu o direito à contagem de tempo de serviço em condições especiais com base na legislação infraconstitucional aplicável à espécie. A ofensa à Constituição, se ocorrente, seria indireta ou reflexa, o que torna inviável o recurso extraordinário.
+          III - Agravo regimental improvido” (RE n. 570.009-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. AUSÊNCIA DE REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF. 1. O benefício previdenciário, nas hipóteses em que sub judice o preenchimento dos requisitos para sua concessão, demanda a análise da legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos. Precedentes: ARE 662.120-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8/2/2012 e ARE 732.730-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 4/6/2013. 2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 4. In casu, o acórdão originariamente recorrido manteve a sentença por seus próprios fundamentos, a qual assentou: “Malgrado a autora tenha cumprido o requisito etário, não perfazia a carência mínima de 150 meses de contribuição para efeito de carência, exigido para o ano de 2006, razão pela qual deixo de acolher o pedido formulado na petição inicial. Ante o exposto, julgo IMPROCEDENTE o pedido da autora, MARIA SARAH PAULO IRALAH.” 5. Agravo regimental DESPROVIDO” (ARE n. 757.838-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 29.5.2014).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de dezembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
