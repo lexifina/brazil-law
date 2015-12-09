@@ -9,7 +9,8 @@ VII - estabelecer diretrizes para o uso de gás natural como matéria-prima em p
 VIII - definir os blocos a serem objeto de concessão ou partilha de produção;
 IX - definir a estratégia e a política de desenvolvimento econômico e tecnológico da indústria de petróleo, de gás natural, de outros hidrocarbonetos fluidos e de biocombustíveis, bem como da sua cadeia de suprimento;
 X - induzir o incremento dos índices mínimos de conteúdo local de bens e serviços, a serem observados em licitações e contratos de concessão e de partilha de produção, observado o disposto no inciso IX.
-XI - definir diretrizes para comercialização e uso de biodiesel e estabelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica; e.
-XII - estabelecer os parâmetros técnicos e econômicos das licitações de concessões de geração, transmissão e distribuição de energia elétrica, de que trata o art. 8º da Lei nº 12.783, de 11 de janeiro de 2013.
+XI - definir diretrizes para comercialização e uso de biodiesel e estabelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica.
+XII - estabelecer os parâmetros técnicos e econômicos das licitações de concessões de geração, transmissão e distribuição de energia elétrica, de que trata o art. 8º da Lei nº 12.783, de 11 de janeiro de 2013; e
+XIII - definir a estratégia e a política de desenvolvimento tecnológico do setor de energia elétrica.
 § 1º Para o exercício de suas atribuições, o CNPE contará com o apoio técnico dos órgãos reguladores do setor energético.
 § 2º O CNPE será regulamentado por decreto do Presidente da República, que determinará sua composição e a forma de seu funcionamento.
