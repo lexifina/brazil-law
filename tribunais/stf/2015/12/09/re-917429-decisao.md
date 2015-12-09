@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM AÇÃO COLETIVA: IMPOSSIBILIDADE DE FRACIONAMENTO DA EXECUÇÃO PARA FRUSTRAR O REGIME DE PRECATÓRIOS. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. DIREITO PÚBLICO. EXECUÇÃO DA VERBA HONORÁRIA. FRACIONAMENTO EM DIVERSAS EXECUÇÕES. VEDAÇÃO CONSTITUCIONAL. ARTIGO 100, §§3º E 4º DA CF. - Crédito individualmente considerado é compreendido como o montante que cabe a cada um no feito e se não ultrapassar o limite estabelecido pelo art. 87, I e II, do Ato das Disposições Constitucionais Transitórias, viável o pagamento por meio de Requisição de Pequeno Valor. Entendimento aplicável à verba honorária. - Não é possível fracionar o crédito de honorários em diversas execuções, para lograr o recebimento sem se submeter ao precatório. - Recurso não provido” (fl. 168).
+    Os embargos de declaração opostos foram rejeitados (fls. 184-187).
+    2. Os Recorrentes alegam ter o Tribunal de origem contrariado os arts. 5º, inc. LXXVIII, e 100, § 3º, § 4º e § 8º, da Constituição da República.
+    Sustentam que “não fracionaram seus créditos, tão somente individualizaram o montante a receber, eis que a sentença que lhe originou a execução era genérica. Tal fato, por consequência, originou a individualização da verba honorária sucumbencial relativa ao crédito de cada um dos exequentes. Ou seja, a verba honorária executada só teve seus valor apurado graças a esta individualização dos créditos dos substituídos na ação de origem” (fl. 201).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste aos Recorrentes.
+    4. O Tribunal de origem decidiu:
+    “’Se o crédito, individualmente considerado, for inferior ao limite previsto constitucionalmente para o procedimento, é possível o pagamento por meio de RPV. Isto se aplica, igualmente, para a verba honorária.
+    No caso concreto, não demonstrou o agravado que o valor da verba honorária fixado na ação de conhecimento não ultrapassa o patamar estabelecido pelo art. 87, incisos I e II, do Ato das Disposições Constitucionais Transitórias, qual seja, quarenta salários mínimos. E não é o que se constata, uma vez que apenas nessa execução, que corresponde ao percentual sobre o crédito de dois autores, o montante é de R$ 9.615,67.
+    O que pretende o procurador é fracionar seu crédito em execuções distintas, logrando, com isso, receber o valor sem se submeter ao precatório’” (fls. 171-172).
+    Esse entendimento harmoniza-se com a jurisprudência deste Supremo Tribunal, que assentou o dever de se considerar a titularidade de cada qual dos créditos exequendos para enquadramento no limite da requisição de pequeno valor, em caso de execução contra a Fazenda Pública. Decidiu-se também não ser possível fracionar o crédito de honorários em diversas execuções para frustar o regime do precatório:
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. ALEGADO FRACIONAMENTO DE EXECUÇÃO CONTRA A FAZENDA PÚBLICA DE ESTADO-MEMBRO. HONORÁRIOS ADVOCATÍCIOS. VERBA DE NATUREZA ALIMENTAR, A QUAL NÃO SE CONFUNDE COM O DÉBITO PRINCIPAL. AUSÊNCIA DE CARÁTER ACESSÓRIO. TITULARES DIVERSOS. POSSIBILIDADE DE PAGAMENTO AUTÔNOMO. REQUERIMENTO DESVINCULADO DA EXPEDIÇÃO DO OFÍCIO REQUISITÓRIO PRINCIPAL. VEDAÇÃO CONSTITUCIONAL DE REPARTIÇÃO DE EXECUÇÃO PARA FRAUDAR O PAGAMENTO POR PRECATÓRIO. INTERPRETAÇÃO DO ART. 100, § 8º (ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO AO QUAL SE NEGA SEGUIMENTO” (RE n. 564.132, Relator o Ministro Eros Grau, do qual fui Redatora para o acórdão, Plenário, DJe 10.2.2015).
+    “HONORÁRIOS ADVOCATÍCIOS – EXECUÇÃO – PRECATÓRIO. Mostra-se autônoma a obrigação da Fazenda de pagar honorários advocatícios a que condenada em sentença, cabendo o implemento mediante precatório, cujo credor é o advogado, ou, se for o caso, requisição de pequeno valor. Precedente: Recurso Extraordinário nº 564.132/RS, Repercussão Geral, Pleno, relator ministro Luiz Fux, redatora do acórdão ministra Cármen Lúcia” (RE n. 502.656-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 18.12.2014).
+    O acórdão recorrido harmoniza-se com essa jurisprudência do Supremo Tribunal Federal.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de dezembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
