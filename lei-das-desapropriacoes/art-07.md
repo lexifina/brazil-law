@@ -1,2 +1,2 @@
-Art. 7º Declarada a utilidade pública, ficam as autoridades administrativas autorizadas a penetrar nos prédios compreendidos na declaração, podendo recorrer, em caso de oposição, ao auxílio de força policial.
-Àquele que for molestado por excesso ou abuso de poder, cabe indenização por perdas e danos, sem prejuizo da ação penal.
+Art. 7º Declarada a utilidade pública, ficam as autoridades administrativas do expropriante ou seus representantes autorizados a ingressar nas áreas compreendidas na declaração, inclusive para realizar inspeções e levantamentos de campo, podendo recorrer, em caso de resistência, ao auxílio de força policial.
+Parágrafo único. Em caso de dano por excesso ou abuso de poder ou originário das inspeções e levantamentos de campo realizados, cabe indenização por perdas e danos, sem prejuízo da ação penal.
