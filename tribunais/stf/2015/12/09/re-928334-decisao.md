@@ -1,0 +1,12 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão de Turma Recursal que, em sede de embargos de declaração, confirmou a condenação do banco por má prestação de serviço de cartão de crédito, além de condenar o Recorrente a multa por litigância de má-fé.
+    No recurso, aduz-se violação dos art. 5º, XXXV e LV, e art. 93, IX, da Constituição Federal, por ofensa aos princípios da ampla defesa, contraditório e obrigatoriedade de fundamentação de decisões judiciais.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No exame do ARE-RG 835.833, de relatoria do Ministro Teori Zavascki, DJe 26.03.2015 (Tema 800), a Corte decidiu que, em regra, não possuem repercussão geral as controvérsias decididas no âmbito dos Juizados Especiais Cíveis da Lei 9.099/1995, que decorrem de uma relação de direito privado (contrato de cartão de crédito), revestida de simplicidade fática e jurídica, como o caso em exame.
+    Ademais, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.08.2013 (Tema 660), esta Corte decidiu que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Por fim, no que se refere à obrigatoriedade de fundamentação das decisões judiciais, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses da Recorrente. Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 09 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
