@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. CONCURSO PÚBLICO. EXAME PSICOLÓGICO. INAPTIDÃO DO CANDIDATO. IMPOSSIBILIDADE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Sexta Câmara Cível do Tribunal de Justiça de Minas Gerais decidiu:
+    “EMBARGOS INFRINGENTES – AÇÃO ANULATÓRIA - ATO ADMINISTRATIVO – CONCURSO PÚBLICO PARA A FORMAÇÃO EM TÉCNICO DE SEGURANÇA PÚBLICA – INAPTIDÃO DO CANDIDATO EM EXAME PSICOLÓGICO – LAUDO PERICIAL – RESULTADO FAVORÁVEL OBTIDO EM SITUAÇÕES DISTINTAS – AUSÊNCIA DE COMPROVAÇÃO DA INVALIDADE FORMAL E/OU TÉNCNICA DO TESTE OFICIAL – IMPROCEDÊNCIA DO PEDIDO – RECURSO NÃO PROVIDO.
+    1. A perquirição da aptidão psicológica do candidato para o desempenho das atividades relacionadas ao cargo de Técnico em Segurança Pública da Polícia Militar há de ser atestada por comissão composta por oficiais psicólogos, mediante a análise da avaliação efetuada por empresas especializadas credenciadas pela PMMG, observados os critérios objetivos traçados pela legislação de regência.
+    2. Desde que constatado terem sido os exames psicológicos efetivados no âmbito do Concurso Público para o Curso Técnico em Segurança Pública em conformidade aos preceitos técnicos e formais atinentes ao tema, não se há de invalidar o resultado negativo obtido pelo candidato perante a Banca Examinadora, sob pena de ofensa ao primado da igualdade, eis que a nulificação da conclusão oficial frente à conclusão de aptidão externada em laudo pericial produzido em juízo equivaleria conferir-lhe oportunidade de repetição do teste em questão, em condições favoráveis não destinadas aos demais candidatos.
+    3. Recurso não provido” (fl. 286).
+    3. Na decisão agravada, foram adotados como fundamentos para a inadmissibilidade do recurso extraordinário a incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal e a harmonia do julgado recorrido com a jurisprudência deste Supremo Tribunal.
+    4. A Agravante argumenta que
+    “o objeto da lide é a nulidade do ato administrativo que exclui a ora agravante do concurso público para o preenchimento de vagas para o Curso Técnico em Segurança Pública por ter sido eliminado na fase do exame psicológico.
+    Conforme já explicitado, restou comprovado que a agravante tem plena capacidade psicológica para ingressar na polícia militar de Minas Gerais, tendo em vista que não possui nenhuma limitação psicológica pra atuar na carreira militar.
+    O ato administrativo - no caso a contraindicação da agravante – elegeu motivação equivocada para lançar seu desfecho, pois a causa propulsora não restou demonstrada após o contraditório e a ampla defesa. Portanto, ausente um dos elementos do ato administrativo – motivo -, ele deve ser anulado” (fls. 326-327).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 5º, incs. II e LV, e 37, caput, incs. I e II, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    No agravo, não foram infirmados todos os fundamentos da decisão agravada, não tendo a Agravante se manifestado quanto à incidência das Súmulas ns. 282 e 356 deste Supremo Tribunal, fundamento autônomo e suficiente para inviabilizar o recurso extraordinário:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1. RECURSO INADMISSÍVEL. POSSIBILIDADE DE JULGAMENTO PELO RELATOR. ART. 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO INTERPOSTO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 837.124-AgR, de minha relatoria, Segunda Turma, DJe 18.9.2012).
+    7. Nova apreciação do pleito recursal exigiria necessário reexame de provas, procedimento inviável em recurso extraordinário, nos termos da Súmula n. 279 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E CONSTITUCIONAL. 1. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. ACÓRDÃO FUNDAMENTADO NO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2. (...). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Renn. 694.931-AgR, de minha relatoria, Segunda Turma, DJe 26.9.2012).
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA CONSTITUCIONAL REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL. ARE 748.371 (REL. MIN. GILMAR MENDES - TEMA 660). VIOLAÇÃO AO ART. 93, IX, DA CF/88. OMISSÃO NÃO CONFIGURADA. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. LEI ESTADUAL 5.301/1969. ANÁLISE DE DIREITO LOCAL. SÚMULA 280/STF. AI 758.533 QO-RG, REL. MIN. GILMAR MENDES, DJE DE 13/08/2010. OBSERVÂNCIA DO PRECEDENTE. REEXAME DE CLÁUSULAS EDITALÍCIAS E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 454/STF. PRODUÇÃO DE PROVAS. INDEFERIMENTO. ARE 639.228 (REL. MIN. PRESIDENTE - TEMA 424). INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE n. 731.553-AgR/MG, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 13.2.2014).
+    Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de dezembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
