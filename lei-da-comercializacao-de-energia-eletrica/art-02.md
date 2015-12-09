@@ -24,9 +24,10 @@ III - fontes alternativas.
 I - não sejam detentores de outorga de concessão, permissão ou autorização; ou
 II - sejam parte de empreendimento existente que venha a ser objeto de ampliação, restrito ao acréscimo de capacidade.
 § 7º A licitação para a expansão da oferta de energia prevista no inciso II do § 5º deste artigo deverá ser específica para novos empreendimentos ou ampliações, sendo vedada a participação de empreendimentos de geração existentes, ressalvado o disposto no § 7º-A.
-§ 7º-A. Poderão participar das licitações, para expansão da oferta de energia, os empreendimentos de geração que tenham obtido outorga de autorização da Aneel ou de concessão oriunda de sistema isolado, desde que atendam aos seguintes requisitos:
-I - não tenham entrado em operação comercial; ou
+§ 7º-A. Poderão participar das licitações, para expansão da oferta de energia, os empreendimentos de geração que tenham obtido outorga de concessão licitada nos termos desta Lei ou de autorização, desde que atendam aos seguintes requisitos:
+I - não tenham entrado em operação comercial em até um ano antes da data de realização da licitação; ou
 II - (VETADO)
+§ 7º-B. O preço máximo de contratação da energia proveniente dos empreendimentos de geração de que trata o § 7º-A, licitados nos termos desta Lei, não poderá superar o preço médio por fonte resultante dos leilões de que tratam os incisos II e III do § 5º deste artigo e o § 1º do art. 3º-A, excetuando-se, no cálculo do preço médio, os leilões para contratação de energia proveniente de projetos de geração de que trata o inciso VI do art. 2º da Lei nº 9.478, de 6 de agosto de 1997.
 § 8º No atendimento à obrigação referida no caput deste artigo de contratação da totalidade do mercado dos agentes, deverá ser considerada a energia elétrica:
 I - contratada pelas concessionárias, pelas permissionárias e pelas autorizadas de distribuição de energia elétrica até a data de publicação desta Lei; e
 II - proveniente de:
@@ -35,7 +36,7 @@ b) usinas que produzam energia elétrica a partir de fontes eólicas, pequenas c
 c) Itaipu Binacional; ou
 d) Angra 1 e 2, a partir de 1º de janeiro de 2013.
 e) empreendimentos de geração cuja concessão foi prorrogada ou licitada nos termos da Medida Provisória nº 579, de 11 de setembro de 2012.
-f) energia contratada nos termos do art. 1º, § 3º, inciso I, e § 5º, inciso II, da Medida Provisória nº 688, de 18 de agosto de 2015.
+f) energia contratada nos termos do art. 1º da Medida Provisória nº 688, de 18 de agosto de 2015.
 § 9º No processo de licitação pública de geração, as instalações de transmissão de uso exclusivo das usinas a serem licitadas devem ser consideradas como parte dos projetos de geração, não podendo os seus custos ser cobertos pela tarifa de transmissão.
 § 10. A energia elétrica proveniente dos empreendimentos referidos no inciso II do § 8º deste artigo não estará sujeita aos procedimentos licitatórios para contratação regulada previstos neste artigo.
 § 11. As licitações para contratação de energia elétrica de que trata este artigo serão reguladas e realizadas pela Agência Nacional de Energia Elétrica - ANEEL, observado o disposto no art. 3º-A da Lei nº 9.427, de 26 de dezembro de 1996, com a redação dada por esta Lei, que poderá promovê-las diretamente ou por intermédio da Câmara de Comercialização de Energia Elétrica - CCEE.
