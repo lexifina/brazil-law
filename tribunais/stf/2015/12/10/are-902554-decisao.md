@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão de Tribunal Regional Federal que reformou a sentença de 1º grau, determinando o retorno dos autos à origem para dar seguimento à ação, a qual discute o dever de fornecer medicamento para paciente em tratamento de câncer.
+    No recurso extraordinário, com fundamento nos artigos 127 e 129, da Constituição Federal, objurga-se a legitimidade ativa do Ministério Público Federal em Ação Civil Pública para defesa de direitos individuais. Sustenta-se ofensa aos artigos 196, 198, caput, §1º, 165, §5º, 167, I e VII e 195, §5º, todos da Constituição Federal, por inobservância aos princípios da descentralização político-administrativa do sistema SUS e da obrigatoriedade de previsão de custeio na lei orçamentária anual.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Ressalte-se que, em manifestação no RE-RG 605.533, de relatoria do Ministro Marco Aurélio, DJe 30.04.2010, esta Corte reconheceu a repercussão geral da questão da legitimidade do Ministério Público para ajuizar ação civil pública que tem por objetivo compelir entes federados a entregar medicamentos a portadores de certas doenças (Tema 262), como no caso dos autos.
+    Outrossim, no exame do RE-RG 855.178, de relatoria do Ministro Luiz Fux, DJe 16.03.2015 (Tema 793), o Plenário da Corte também reconheceu a existência de repercussão geral da questão constitucional sobre responsabilidade solidária dos entes federados no direito à saúde, reafirmando a jurisprudência dominante do Supremo Tribunal Federal, segundo a qual constitui obrigação solidária dos entes da Federação o dever de tornar efetivo o direito à saúde em favor de qualquer pessoa, notadamente de pessoas carentes.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 10 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
