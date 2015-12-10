@@ -1,0 +1,18 @@
+DECISÃO
+IMPOSTO SOBRE A CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – BENEFÍCIO FISCAL – MINISTÉRIO PÚBLICO – LEGITIMIDADE – “GUERRA FISCAL” – INCONSTITUCIONALIDADE – PRECEDENTE.
+    1. O Ministério Público do Distrito Federal e Territórios – MPDFT formalizou ação civil pública contra o Distrito Federal e a contribuinte, ora recorrente, pretendendo a declaração de nulidade de atos administrativos que têm por objeto a concessão de benefícios fiscais relativos ao Imposto sobre a Circulação de Mercadorias e Serviços – ICMS, fundados no Decreto distrital nº 20.957, de 2000.
+    O Tribunal de Justiça, confirmando sentença na qual proclamada a nulidade dos atos, consignou a legitimidade do Ministério Público e a adequação da ação civil pública, por versar ato administrativo lesivo ao patrimônio público. Asseverou estar envolvido benefício fiscal, resultando em afronta à Carta da República e à jurisprudência do Supremo, ante a falta de celebração de prévio convênio interestadual autorizativo.
+    Nos extraordinários, os recorrentes alegam contrariedade aos artigos 5º, incisos XXXV e LIV, 97, 102, inciso I, alíneas “a” e “f”, 129, inciso III, 150, § 6º, 155, § 2º, inciso XII, alínea “g”, do Diploma Maior.
+    2. O Supremo, no julgamento do Recurso Extraordinário nº 576.155/DF, relator ministro Ricardo Lewandowski, ocorrido em 12 de agosto de 2010, sob o ângulo da repercussão geral, assentou o cabimento, na espécie, de ação civil pública e a legitimidade do Ministério Público para buscar anulação de Termo de Acordo de Regime Especial – TARE formalizado pelo ente federativo e o contribuinte, presente violação ao patrimônio público e envolvida concessão de benefício fiscal. O acórdão ficou assim ementado:
+    AÇÃO CIVIL PÚBLICA. LEGITIMIDADE ATIVA. MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS. TERMO DE ACORDO DE REGIME ESPECIAL - TARE. POSSÍVEL LESÃO AO PATRIMÔNIO PÚBLICO. LIMITAÇÃO À ATUAÇÃO DO PARQUET. INADMISSIBILIDADE. AFRONTA AO ART. 129, III, DA CF. REPERCUSSÃO GERAL RECONHECIDA. RECURSO EXTRAORDINÁRIO PROVIDO.
+    I - O TARE não diz respeito apenas a interesses individuais, mas alcança interesses metaindividuais, pois o ajuste pode, em tese, ser lesivo ao patrimônio público.
+    II – A Constituição Federal estabeleceu, no art. 129, III, que é função institucional do Ministério Público, dentre outras, “promover o inquérito e a ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos”. Precedentes.
+    III - O Parquet tem legitimidade para propor ação civil pública com o objetivo de anular Termo de Acordo de Regime Especial - TARE, em face da legitimação ad causam que o texto constitucional lhe confere para defender o erário.
+    IV - Não se aplica à hipótese o parágrafo único do artigo 1º da Lei 7.347/1985.
+    V - Recurso extraordinário provido para que o TJ/DF decida a questão de fundo proposta na ação civil pública conforme entender.
+    A decisão atacada está em conformidade com a jurisprudência do Supremo no sentido de a concessão unilateral de benefícios fiscais, ausente convênio interestadual prévio, violar o disposto no artigo 155, § 2º, inciso XII, alínea “g”, da Carta da República – Ações Diretas de Inconstitucionalidade nº 2.548, relator ministro Gilmar Mendes, Diário da Justiça de 15 de junho de 2007, nº 2.352, relator ministro Sepúlveda Pertence, Diário da Justiça de 9 de março de 2001, nº 2.357, relator ministro Ilmar Galvão, Diário da Justiça de 7 de novembro de 2003, e nº 2.906, de minha relatoria, Diário da Justiça de 29 de junho de 2011.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 10 de dezembro de 2015.
+Ministro MARCO AURÉLIO
+Relator
