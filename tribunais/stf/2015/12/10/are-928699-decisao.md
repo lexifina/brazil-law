@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ALEGAÇÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra julgado da Primeira Turma Recursal dos Juizados Especiais do Acre, pelo qual se manteve a seguinte sentença:
+    “Elieuda Maria Rodrigues de Souza ajuizou ação contra o Estado do Acre, pleiteando a concessão de gratificação pelo exercício de docência com alunos portadores de necessidades especiais e indenização por dano moral. Alega, em síntese, que está lotada na Escola Barão do Rio Branco e que, desde 2009, leciona para alunos com necessidades especiais.
+    (…)
+    Com efeito, a gratificação instituída pela Lei Complementar Estadual 67/1999 teve por intuito estimular professores a assumirem suas atividades em situação peculiar, qual seja, o atendimento a alunos portadores de necessidades especiais, o que exige do profissional da educação maior empenho e dedicação. Assim, é legítimo reconhecer a duplicidade de tarefas dos docentes que atuam em ensino regular para auxiliar na educação e inclusão de alunos portadores de necessidades especiais.
+    Por outro lado, a restrição pretendida pelo Estado reforçaria a vetusta segmentação entre ensino comum e especial, contrariando as diretrizes constitucionais para a educação, que primam pela inserção dos portadores de deficiência na rede regular de ensino, conforme art. 208, III, da Constituição.
+    Acrescente-se que os professores do ensino regular atuantes no processo inclusivo também são abrangidos pelo conceito legal de educação especial, nos termos do art. 58, caput, da Lei 9.394/1996.
+    (…)
+    Embora devida a gratificação, descabe a indenização por dano moral, porquanto ressai dos autos que o pagamento não vem ocorrendo em face de interpretação equivocada do reclamado sobre a legislação aplicável, sendo certo, ademais, que a parte reclamante permaneceu largo período sem vindicar administrativa ou judicialmente o direito em questão, a denotar que não houve prejuízo de ordem moral.
+    (…)
+    Ante o exposto, julgo parcialmente procedente o pedido, condenando o reclamado a pagar à parte reclamante gratificação pelo exercício de docência com alunos portadores de necessidades especiais no período de janeiro de 2009 a dezembro de 2012, nos termos delineados na fundamentação” (doc. 8 – grifos nossos).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega contrariados os arts. 7º, inc. XVII, e 39, § 3º, da Constituição da República, asseverando que “o acórdão combatido, ao julgar o caso, entendeu serem os servidores temporários amparados pela Constituição Federal ao direito a 13º salário, férias e terço constitucional, previstos no art. 39, § 3º, c/c art. 7º, inciso XVII, da Constituição Federal” (doc. 21).
+    Requer “seja dado provimento ao recurso a fim de que, reformando-se o acórdão recorrido, seja fixado o entendimento de que o art. 39, § 3º, c/c art. 7º, inciso XVII, da Constituição Federal, não abrange os professores contratados temporariamente, ou, ao menos, que o cálculo das férias e o respectivo adicional apenas recaia sobre 30 (trinta) dias, e não 45 (quarenta e cinco), sob pena de flagrante violação ao artigo 2º, caput, do texto constitucional” (doc. 21).
+    3. O recurso extraordinário foi inadmitido ao seguinte fundamento:
+    “O presente tema – verbas constitucionais a servidores públicos contratados temporariamente – já fora apreciado quando do Recurso Extraordinário interposto no Processo n. 0015512-23.2011.8.01.0070. A Presidência deste colegiado determinou a remessa dos autos ao STF.
+    O processo fora distribuído na Egrégia Corte Superior citada com o Re n. 691.336/AC, tendo como Relatora a Exma. Ministra Cármen Lúcia, que negou seguimento ao recurso no sentido de que esta Turma Recursal proferiu decisão que está em harmonia com a jurisprudência do E. STF, consignando que os servidores públicos contratados temporariamente têm direito ao recebimento de férias e décimo terceiro salário (STF. DJE n. 119, divulgado em 18/06/2012).
+    Ante o exposto, considerando o precedente do STF sobre o tema, inadmito o presente recurso extraordinário” (doc. 22).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A Turma Recursal não decidiu sobre verbas devidas a professores contratados temporariamente, estando deficiente a argumentação do recurso extraordinário. Incide, na espécie, a Súmula n. 284 do Supremo Tribunal Federal:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Processual Civil. 3. Exceção de pré-executividade. Matéria infraconstitucional. 4. Razões recursais dissociadas dos fundamentos do acórdão recorrido. Súmula 284 do STF. 5. Não impugnação de todos os fundamentos da decisão agravada. Aplicação da Súmula 287 do STF. 6. Agravo regimental a que se nega provimento” (ARE n. 895.813-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 9.12.2015).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. AÇÃO DE INDENIZAÇÃO. PROCESSUAL CIVIL. RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DOS FUNDAMENTOS DO JULGADO RECORRIDO: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 772.266-AgR, de minha relatoria, Segunda Turma, DJe 11.11.2013).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPETÊNCIA JURISDICIONAL. SERVIDOR PÚBLICO. DEFINIÇÃO DO REGIME JURÍDICO DA RELAÇÃO DE TRABALHO (CELETISTA OU ESTATUTÁRIO). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO RECORRIDO. SÚMULA 284 DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 279. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE n. 575.933-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 13.2.2014).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de dezembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
