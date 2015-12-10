@@ -1,0 +1,9 @@
+DECISÃO
+PARTICIPAÇÃO NOS LUCROS – CONTRIBUIÇÃO PREVIDENCIÁRIA – PERÍODO ANTERIOR À VIGÊNCIA DA MEDIDA PROVISÓRIA Nº 794/1994 – INCIDÊNCIA – PRECEDENTE – RECURSO EXTRAORDINÁRIO – PROVIMENTO.
+    1. O Tribunal, no Recurso Extraordinário nº 569.441/RS, relator ministro Dias Toffoli, acórdão redigido pelo ministro Teori Zavascki, assentou a incidência da contribuição previdenciária sobre a verba paga pelas empresas aos trabalhadores, a título de participação nos lucros ou resultados, em período anterior à entrada em vigor da Medida Provisória nº 794, de 1994. O acórdão foi assim resumido:
+    CONSTITUCIONAL E PREVIDENCIÁRIO. PARTICIPAÇÃO NOS LUCROS. NATUREZA JURÍDICA PARA FINS TRIBUTÁRIOS. EFICÁCIA LIMITADA DO ART. 7º, XI, DA CONSTITUIÇÃO FEDERAL. INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE ESSA ESPÉCIE DE GANHO ATÉ A REGULAMENTAÇÃO DA NORMA CONSTITUCIONAL. 1. Segundo afirmado por precedentes de ambas as Turmas desse Supremo Tribunal Federal, a eficácia do preceito veiculado pelo art. 7º, XI, da CF – inclusive no que se refere à natureza jurídica dos valores pagos a trabalhadores sob a forma de participação nos lucros para fins tributários – depende de regulamentação. 2. Na medida em que a disciplina do direito à participação nos lucros somente se operou com a edição da Medida Provisória 794/94 e que o fato gerador em causa concretizou-se antes da vigência desse ato normativo, deve incidir, sobre os valores em questão, a respectiva contribuição previdenciária. 3. Recurso extraordinário a que se dá provimento.
+    2. Ante o precedente, dou provimento ao extraordinário da União para julgar improcedente o pedido inicial formulado pela empresa recorrida. Ficam invertidos os ônus da sucumbência.
+    3. Publiquem.
+Brasília, 10 de dezembro de 2015.
+Ministro MARCO AURÉLIO
+Relator
