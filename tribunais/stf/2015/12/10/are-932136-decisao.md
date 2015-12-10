@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado (e-DOC6, p.28):
+    “PROCESSO CIVIL E DIREITO ADMINISTRATIVO. POLICIAL MILITAR INATIVO. PRELIMINARES DE ILEGITIMIDADE PASSIVA DO ESTADO DE PERNAMBUCO E DE PRESCRIÇÃO DO FUNDO DE DIREITO REJEITADAS. RESPONSABILIDADE SOLIDÁRIA DO ESTADO E DA FUNAPE PELO PAGAMENTO DE BENEFÍCIO PREVIDENCIÁRIO, NOS TERMOS DA LC 28/2000. PRESCRIÇÃO DAS PARCELAS ANTERIORES AO QUINQUÊNIO QUE ANTECEDE AO AJUIZAMENTO DA AÇÃO. DECRETO N° 20.910/32. MÉRITO INCORPORAÇÃO DA GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO CRIADA PELA LCE N° 59/04. CARÁTER DE GENERALIDADE. VANTAGEM EXTENSIVA AOS MILITARES INATIVOS E PENSIONISTAS. OFENSA A CLÁUSULA DE RESEVA DE PLENÁRIO. INOCORRÊNCIA. ENTENDIMENTO PACÍFICO DESTE TJPE. RECURSO IMPROVIDO À UNANIMIDADE.”
+    Os embargos de declaração foram rejeitados (eDOC6. pp. 65-72).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 40, §§ 7º e 8º; 37, X; e 97 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a Gratificação de Risco de Policiamento Ostensivo tem caráter propter loborem, não podendo, assim, ser incorporada aos proventos dos recorridos. Aduz, ainda, que o acórdão viola a cláusula da reserva de plenário, insculpida no art. 97 da Constituição Federal, ao conceder a referida gratificação, declarando, ainda que não expressamente, a inconstitucionalidade da Lei Complementar 59/2004.
+    A 2ª Vice-Presidência do TJPE inadmitiu o recurso com base na ausência de fundamentação da preliminar de repercussão geral e no óbice da Súmula 280 do STF (eDOC6, pp. 105/106).
+    É o relatório. Decido.
+    Como se observa da leitura da ementa do acórdão recorrido, o Tribunal de origem concluiu que a gratificação instituída pela Lei Complementar Estadual 59/2004 tem natureza geral, porquanto se trata de vantagem inerente a todo efetivo da Polícia Militar, em virtude da atividade que desempenha, bem como do local de sua lotação (art. 2º da referida lei).
+    Sendo essas as razões acolhidas para solucionar a lide, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo quanto à natureza jurídica da Gratificação de Risco de Policiamento Ostensivo, se genérica ou pro labore faciendo, demandaria o exame da legislação local e o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 280 e 279 do STF.
+    A esse respeito, confiram-se os seguintes precedentes: ARE 840.478-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 13.04.2015, e ARE 879.906-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 22.09.2015.
+    Ademais, quanto à alegação de ofensa à cláusula da reserva de plenário, observa-se que o Tribunal de origem, ao analisar o caso concreto, não declarou inconstitucional a legislação aplicada, nem afastou sua aplicação por julgá-la inconstitucional, mas apenas interpretou a norma legal.
+    A jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula da reserva de plenário, o que não se verificou no caso concreto.
+    Confiram-se, a propósito, os seguintes julgados: AI-AgR 848.332, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 24.04.2012, e ARE-AgR-ED 736.780, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 22.05.2015.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 10 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
