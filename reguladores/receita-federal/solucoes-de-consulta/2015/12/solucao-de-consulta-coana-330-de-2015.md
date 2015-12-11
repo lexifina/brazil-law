@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 330, de 26 de novembro de 2015
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma a Solução de Consulta Coana nº 50, de 13 de fevereiro de 2015. Código NCM: 8708.70.10 Mercadoria: Roda de aço em 5 peças (4 anéis), com largura de 19,50”, diâmetro de 25”, peso de 200 kg, com doze furos de fixação ao veículo, para eixos propulsores de dumpers concebidos para serem utilizados fora de rodovias da subposição 8704.10, podendo também ser empregada em veículos das posições 84.25 a 84.30.
+DISPOSITIVOS LEGAIS: RGI/SH 1 e 3 c) (Nota 3 da Seção XVII e texto da posição 87.08), RGI/SH 6 (texto da subposição 8708.70) e RGC/NCM 1 (texto do item 8708.70.10), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma a Solução de Consulta Coana nº 50, de 13 de fevereiro de 2015. Código NCM: 8708.70.10 Mercadoria: Roda de aço em 5 peças (4 anéis), com largura de 19,50”, diâmetro de 25”, peso de 200 kg, com doze furos de fixação ao veículo, para eixos propulsores de dumpers concebidos para serem utilizados fora de rodovias da subposição 8704.10, podendo também ser empregada em veículos das posições 84.25 a 84.30.
+DISPOSITIVOS LEGAIS: RGI/SH 1 e 3 c) (Nota 3 da Seção XVII e texto da posição 87.08), RGI/SH 6 (texto da subposição 8708.70) e RGC/NCM 1 (texto do item 8708.70.10), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011.
+LUIZ HENRIQUE DOMINGUES
+Presidente da 4ª Turma
