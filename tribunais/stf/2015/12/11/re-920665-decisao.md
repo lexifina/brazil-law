@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO TERRITORIAL RURAL. MEDIDA PROVISÓRIA N. 399/1993 CONVERTIDA NA LEI N. 8.847/1994. EXIGIBILIDADE DO TRIBUTO QUANTO AO EXERCÍCIO DE 1994. NECESSÁRIA OBSERVÂNCIA DO PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA. JULGADO RECORRIDO HARMÔNICO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “TRIBUTÁRIO. AGRAVO LEGAL. ITR. PRESCRIÇÃO. PRINCÍPIO DA ANTERIORIDADE.
+    1. Não se aplica a suspensão da prescrição pelo prazo de 180 dias perpetrada pela inscrição em dívida ativa, com base no art. 2º, § 3º, da LEF.
+    2. Inaplicável à espécie a Lei n. 8.847/94, que entrou em vigor na data de 28.01.1994. Em respeito ao princípio da anterioridade e da irretroatividade, não poderia ser aplicada a fatos geradores ocorridos no mesmo ano da sua publicação, tampouco àqueles ocorridos em data anterior a sua vigência, seja por força do art. 150, III, b, da Carta Magna, ou em virtude dos arts. 104 e 105 do CTN” (fl. 504).
+    Os embargos de declaração opostos foram acolhidos:
+    “EMBARGOS DE DECLARAÇÃO. TRIBUTÁRIO.
+    1. Embargos de Declaração da União acolhidos para limitar o reconhecimento da prescrição.
+    2. A questão arguida pelo autor nos Embargos de Declaração foi devidamente enfrentada no voto condutor do acórdão. Inocorrência de omissão, contradição ou obscuridade no julgamento” (fl. 614).
+    2. A Recorrente alega ter o Tribunal de origem contrariado o art. 150, inc. III, al. b, da Constituição da República, asseverando que “o prazo de início a ser levado em conta na aplicação do princípio da anterioridade não é a data da conversão, mas sim a da própria medida provisória” (fl. 629).
+    Sustenta que “a invocada republicação da mencionada MP 399, ocorrida em janeiro de 1994, prestou-se não para introduzir modificações de fundo no texto anterior, mas sim para publicar anexo que deixou de acompanhar o texto da MP original, embora nele previsto” (fl. 629).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. No voto condutor do julgado recorrido, o Juiz Relator, ao reiterar os fundamentos postos em decisão monocrática, afirmou:
+    “Inaplicável à espécie a Lei nº 8.847/94, que entrou em vigor na data de 28.01.1994. Em respeito ao princípio da anterioridade e da irretroatividade não poderia ser aplicada a fatos geradores ocorridos no mesmo ano da sua publicação, tampouco àqueles ocorridos em data anterior a sua vigência, seja por força do art. 150, III, b, da Carta Magna, ou em virtude dos arts. 104 e 105 do CTN.
+    (…)
+    Afasto a argumentação de que a Lei 8.874/94 é apenas conversão em lei da MP 399/93, não havendo ofensa à anterioridade. Isso porque, embora publicada em 26.12.1993, foi republicada em 07.01.1994, em virtude de erros da edição anterior e, conforme o art. 1º, § 4º, da LICC, é considerada norma nova.
+    Assim, ainda que a Lei 8.874/94 seja a conversão em lei da referida MP, não tem aplicação ao ITR/94, uma vez que a MP somente foi publicada após a ocorrência do fato gerador do tributo em questão” (fl. 484).
+    Este Supremo Tribunal assentou contrariar o princípio da anterioridade tributária a exigência do Imposto Territorial Rural, nos termos da Medida Provisória n. 399/1993, convertida na Lei n. 8.847/1994, em período anterior a 1º de janeiro de 1995:
+    “Recurso extraordinário. 2. Tributário. ITR. 3. A nova configuração do ITR disciplinada pela MP 399 somente se aperfeiçoou com sua reedição de 07.01.94, a qual por meio de seu Anexo alterou as alíquotas do referido imposto. 4. A exigência do ITR sob esta nova disciplina, antes de 01 de janeiro de 1995, viola o princípio constitucional da anterioridade tributária (Art. 150, III, "b"). 5. Recurso extraordinário a que se nega provimento” (RE n. 448.558, Relator o Ministro Gilmar Mendes, Segunda Turma, DJ 16.12.2005).
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. MATÉRIA QUE CONTA COM PRECEDENTE DA SEGUNDA TURMA DO SUPREMO TRIBUNAL FEDERAL. DECISÃO MONOCRÁTICA AMPARADA PELO PRECEDENTE. ALEGAÇÃO DE INEXISTÊNCIA DE OUTRAS DECISÕES COLEGIADAS SOBRE A MESMA MATÉRIA. DESCARACTERIZAÇÃO DE JURISPRUDÊNCIA CONSOLIDADA. SINGELO PEDIDO PARA QUE A QUESTÃO SEJA REAPRECIADA. AUTORIDADE DOS PRONUNCIAMENTOS DA TURMA. PRESERVAÇÃO. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO TERRITORIAL RURAL. ITR. ANTERIORIDADE. 1. É necessário prestigiar a orientação fixada pelas Turmas desta Corte, considerada sua atuação isolada. A autoridade dos pronunciamentos do Colegiado, ainda que fracionário, não pode ser mitigada senão pelos instrumentos adequados, dentre os quais não se encontra a mera irresignação, desprovida de fundamentos relevantes. 2. A decisão agravada alude expressamente ao RE 448.558 (rel. min. Gilmar Mendes, Segunda Turma, DJ de 16.12.2005), segundo o qual "a nova configuração do ITR disciplinada pela MP 399 somente se aperfeiçoou com sua reedição de 07.01.94, a qual por meio de seu Anexo alterou as alíquotas do referido imposto". Agravo regimental ao qual se nega provimento” (RE n. 470.823-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 8.10.2010).
+    Nesse mesmo sentido, as seguintes decisões monocráticas: RE n. 863.099, Relator o Ministro Teori Zavascki, DJe 10.2.2015, trânsito em julgado em 5.3.2015; ARE n. 839.758, Relator o Ministro Celso de Mello, DJe 11.11.2014, trânsito em julgado em 26.11.2014; RE n. 627.510, Relator o Ministro Marco Aurélio, DJe 23.10.2013, trânsito em julgado em 4.11.2013; AI n. 744.793, de minha relatoria, DJe 22.10.2009, trânsito em julgado em 16.11.2009.
+    Nada há a prover quanto às alegações da Recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de dezembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
