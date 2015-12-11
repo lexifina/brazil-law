@@ -1,0 +1,48 @@
+Decisão: Trata-se de novo pedido de expedição de salvo conduto (Pet. STF n. 63.640/2015, eDOC. 38), formulada por Mário Francisco Barbosa, em favor de Marcelo Muller Melle, ora paciente.
+    Inicialmente, narra o impetrante que, nos autos 0072658-37.2015.8.16.0014, em trâmite na 3ª Vara Criminal de Londrina/PR, em decorrência do desdobramento de investigações referentes à “Operação Publicano”, novo mandado de prisão foi decretado contra o paciente, além da expedição de outras providências cautelares (eDOC. 48, p. 8-66 e 226).
+    Ademais, sustenta, em síntese, o seguinte:
+    a) o Ministério Público do Estado do Paraná não traz qualquer fato novo e relevante que pudesse unir o paciente às novas investigações, “apenas são feitas afirmações que já surgiram em processos anteriores e já estão sendo objeto de Recursos e Habeas Corpus”;
+    b) ausência de provas documentais contra o paciente, sendo certo que as decretações de sua prisão, tanto na terceira, como na quarta fase da referida operação, são baseadas em declarações proferidas por um delator, Luiz Antônio de Souza, contra o qual o paciente ofereceu queixa-crime por ter imputado falsamente a prática de infração penal;
+    c) até o presente momento, o paciente não ofereceu nenhum risco para o regular trâmite das investigações ou da ação penal, inclusive por ter sido preso (nas duas vezes), em casa, onde sempre esteve; assim, “tudo isso afasta, definitivamente, qualquer, imaginado pressuposto cautelar a ensejar uma nova decretação de sua prisão BASEADA NOS MESMOS FATOS ou em alegações rasas, sem provas concretas!”
+    d) quando em liberdade, o paciente estava cumprindo integralmente todas as medidas cautelares diversas da prisão impostas no HC 337.693/PR, do STJ; todavia, atualmente, até por força da decisão do Juiz da Vara de Execuções Penais de Londrina, o qual interditou, em parte, todos os estabelecimentos penais da mesma comarca, citado município não possui local adequado para o recolhimento daqueles que possuem direito à prisão especial, como é o caso do paciente, o qual é Bacharel em Ciências Econômicas, Contábeis e Direito; ademais, quando do seu interrogatório, o paciente informou que “faz uso de medicamento contínuo e controlado e requereu a autoridade competente que garanta a continuidade de seu tratamento médico”.
+    Ao final, o impetrante pede a imediata análise e expedição de salvo conduto em favor do paciente, com fundamento no art. 660, § 4º, do CPP.
+    É o breve relatório.
+    Decido.
+    Em 30 de novembro de 2015, o Juízo de Direito da 3ª Vara Criminal da Comarca de Londrina/PR, acolhendo pedido formulado pelo Ministério Público, decretou a prisão preventiva do paciente e de mais 46 corréus (eDOC. 48, p. 8-66 e 226).
+    A prisão preventiva deve indicar, de forma expressa, os seguintes fundamentos para a sua decretação, nos termos do art. 312 do CPP: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+    Na linha da jurisprudência deste Tribunal, porém, não basta a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições realizam-se na espécie.
+    Dessarte, a tarefa de interpretação constitucional para a análise de uma excepcional situação jurídica de constrição da liberdade dos cidadãos exige que a alusão a esses aspectos esteja lastreada em elementos concretos, devidamente explicitados.
+    Ainda, não se pode olvidar que o advento da Lei 12.403/2011, que reformou o Código de Processo Penal, tornando-o mais harmônico com a Constituição Federal, trouxe a possibilidade de aplicação de medidas cautelares eficientes, diversas da prisão. Eis o teor da norma:
+    “Art. 282. As medidas cautelares previstas neste Título deverão ser aplicadas observando-se a:
+    I - necessidade para aplicação da lei penal, para a investigação ou a instrução criminal e, nos casos expressamente previstos, para evitar a prática de infrações penais;
+    II - adequação da medida à gravidade do crime, circunstâncias do fato e condições pessoais do indiciado ou acusado.
+    § 1º. As medidas cautelares poderão ser aplicadas isolada ou cumulativamente.
+    § 2º. As medidas cautelares serão decretadas pelo juiz, de ofício ou a requerimento das partes ou, quando no curso da investigação criminal, por representação da autoridade policial ou mediante requerimento do Ministério Público.
+    § 3º. Ressalvados os casos de urgência ou de perigo de ineficácia da medida, o juiz, ao receber o pedido de medida cautelar, determinará a intimação da parte contrária, acompanhada de cópia do requerimento e das peças necessárias, permanecendo os autos em juízo.
+    § 4º. No caso de descumprimento de qualquer das obrigações impostas, o juiz, de ofício ou mediante requerimento do Ministério Público, de seu assistente ou do querelante, poderá substituir a medida, impor outra em cumulação, ou, em último caso, decretar a prisão preventiva (art. 312, parágrafo único).
+    § 5º. O juiz poderá revogar a medida cautelar ou substituí-la quando verificar a falta de motivo para que subsista, bem como voltar a decretá-la, se sobrevierem razões que a justifiquem.
+    § 6º. A prisão preventiva será determinada quando não for cabível a sua substituição por outra medida cautelar (art. 319)”.
+    Com o advento da Lei 12.403/2011, portanto, a prisão preventiva é a última cautelar a ser aplicada. A prisão preventiva ocupa o último patamar da cautelaridade, na perspectiva de sua excepcionalidade, cabível quando não incidirem outras medidas cautelares (art. 319 do CPP).
+    Desse modo, não se decreta a prisão preventiva para depois buscar alternativas. Somente quando nenhuma dessas medidas for viável ao caso concreto é que resta a possibilidade de decretação da prisão processual, o que entendo não ter sido buscado no caso em apreço.
+    O magistrado de origem, invocando fundamentação muito semelhante àquela invocada nas anteriores fases da Operação Publicano, decreta a prisão do ora paciente pela segunda vez.
+    Marcelo Muller Melle fora beneficiado com a concessão de liminar, proferida em 2.10.2010, no HC 337.693/PR , pelo STJ (DJe 7.10.2015).
+    O STJ, ao deferir o pedido liminar, substituiu a prisão preventiva do paciente por medidas alternativas à prisão consistentes em: a) comparecimento quinzenal em juízo para informar e justificar suas atividades (art. 319, inciso I, do CPP); b) proibição de manter contato como os demais corréus e qualquer pessoa relacionada aos fatos objeto da investigação e ação penal (art. 319, inciso III, do CPP); c) proibição de ausentar-se da comarca e do país, mediante a entrega do passaporte (art. 319, inciso IV, do CPP); e d) suspensão do exercício de função pública (art. 319, inciso VI, do CPP).
+    Posteriormente, em decisão de 4.12.2015, nos presentes autos (eDOC. 60), concedi liminarmente salvo-conduto ao paciente, para, independentemente do resultado do julgamento do HC 337.693/PR pelo Superior Tribunal de Justiça, suspender a eficácia da ordem de prisão decretada em seu desfavor pela 3ª Vara Criminal da Comarca de Londrina/PR, “no bojo dos autos 0057679-70.2015.8.16.0014, desdobramento do processo-crime nº 0038210-38-37.2015.8.16.0014, 0031659-42.2015.8.16.0014, denominada ‘Operação Publicano’”, até ulterior deliberação.
+    Realmente, não há notícia do descumprimento das medidas alternativas à prisão impostas ao acusado.
+    Observo também que, mesmo sendo outros fatos (ocorridos entre os anos de 2008 e 2014), a mesma fundamentação exposta nas fases anteriores afastaria a nova prisão.
+    Ademais, tenho que o novo decreto é uma afronta à decisão do STF.
+    Sem desmerecer a gravidade das condutas imputadas, é notório que o paciente retirou-se da vida pública. Atualmente, não ocupa qualquer cargo na administração.
+    A alegada necessidade da prisão por conveniência da instrução criminal também fica diluída pelo afastamento do paciente de cargos públicos.
+    Não há notícia de tentativa de fuga ou de postura ativa para influenciar as investigações.
+    Sendo assim, entendo que a decisão impugnada não cuidou de apontar qualquer conduta do paciente que pudesse colocar em risco a ordem pública, a instrução processual ou a aplicação da lei penal.
+    Assim, não vislumbro fatos novos, aptos a superar o entendimento firmado pelo STF.
+    A jurisprudência do Supremo Tribunal Federal é no sentido de que, uma vez concedida a ordem de habeas corpus, eventuais decisões ulteriores que, por via oblíqua, buscam burlar seu cumprimento, são direta e prontamente controláveis pela Corte. Foi o decidido no HC 95.009, Relator Min. Eros Grau, Tribunal Pleno, julgado em 6.11.2008, e no HC 94016, Relator Min. Celso de Mello, Segunda Turma, julgado em 16.9.2008.
+    Mesmo que assim não fosse, a ordem de habeas corpus pode ser concedida de ofício art. 654, § 2º, CPP. O contexto narrado, em especial o afastamento do paciente das funções de auditor fiscal, parece ser suficiente para afastar a necessidade da prisão.
+    Ante o exposto, defiro o pedido de medida liminar para suspender os efeitos da ordem de prisão preventiva decretada em desfavor do paciente MARCELO MULLER MELLE, pelo Juízo de Direito da 3ª Vara Criminal da Comarca de Londrina/PR (Processo n. 72658-37.2015.8.16.0014), se por algum outro motivo não estiver preso.
+    Comunique-se com urgência.
+    Abra-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 11 de dezembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
