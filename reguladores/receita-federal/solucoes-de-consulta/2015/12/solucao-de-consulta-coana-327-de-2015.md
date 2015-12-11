@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 327, de 25 de novembro de 2015
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 0801.11.00 “Ex” 01 da TIPI Mercadoria: Coco ralado desidratado, contendo 3% de maltodextrina e 1% de açúcar, para ser usado no preparo de doces, bolos e tortas, apresentado em embalagens plásticas de 100 g e 1 kg.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 08.01) e 6 (textos da subposição de primeiro nível 0801.1 e da subposição de segundo nível 0801.11.00) e RGC/TIPI (texto do “Ex” 01 do código 0801.11.00) da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela Instrução Normativa (IN) RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 0801.11.00 “Ex” 01 da TIPI Mercadoria: Coco ralado desidratado, contendo 3% de maltodextrina e 1% de açúcar, para ser usado no preparo de doces, bolos e tortas, apresentado em embalagens plásticas de 100 g e 1 kg.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 08.01) e 6 (textos da subposição de primeiro nível 0801.1 e da subposição de segundo nível 0801.11.00) e RGC/TIPI (texto do “Ex” 01 do código 0801.11.00) da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela Instrução Normativa (IN) RFB nº 807, de 2008, e alterações posteriores.
+LUIZ HENRIQUE DOMINGUES
+Presidente da 4ª Turma
