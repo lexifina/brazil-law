@@ -1,0 +1,12 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Anderson Ferreira Pinto em favor de José Ricardo Pereira da Costa, contra ato do Ministro Francisco Falcão, Presidente do Superior Tribunal de Justiça.
+    Narra a inicial que a presente impetração impugna o não processamento do recurso ordinário em habeas corpus, interposto nos autos do HC 0047152-20.2015.8.19.0000 do Tribunal de Justiça do Estado do Rio de Janeiro, por indisponibilidade do sistema eletrônico do Superior Tribunal de Justiça, “o que motivou a instrução normativa nº 15, de 15 de novembro de 2015”.
+    Neste habeas, a Defesa pugna, “de forma atípica”, pelo afastamento da Súmula 691/STF à falta de “conhecimento da durabilidade da indisponibilidade do problema técnico”. Em relação ao mérito do writ, aduz excesso de prazo para encerramento da instrução criminal do paciente, preso cautelarmente, em 12.11.2014, pela prática, em tese, dos crimes definidos nos arts. 2º, § 2º, § 3º e § 4º, II, da Lei 12.850/13, 4º, ”a”, da Lei 1.521/51, 158 e 333 do Código Penal. Sustenta a inexistência de fundamentação idônea da constrição cautelar e dos pressupostos autorizadores da prisão preventiva. Assevera, ainda, a violação do postulado constitucional da presunção de inocência e a ilicitude das provas obtidas. Requer a concessão da ordem de habeas corpus, para determinar a revogação da prisão preventiva.
+    É o relatório.
+    Decido.
+    Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, verifico que, em 10.10.2015, após ter sido certificado que “os presentes autos foram formados por arquivos recebidos nesta Coordenadoria em mídia CD-R, encaminhada pelo Tribunal de Justiça do Estado do Rio de Janeiro”, o recurso ordinário interposto no HC 0047152-20.2015.8.19.0000 da Corte Estadual foi devidamente autuado como RHC 66.356/RJ.
+    Nesse contexto, observo que o Superior Tribunal de Justiça ainda não apreciou as teses defensivas quanto à prisão do paciente. Inviabilizada, pois, a análise do pedido, neste momento, por este Supremo Tribunal Federal, sob pena de indevida supressão de instância (v.g. HC 108.778/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 9.8.2011; HC 104.167/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.8.2011; HC 105.501, rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.4.2011; e HC 90.902/RS, Rel. Min. Marco Aurélio, 1ª Turma, DJe 22.6.2007).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de dezembro de 2015.
+Ministra Rosa Weber
+Relatora
