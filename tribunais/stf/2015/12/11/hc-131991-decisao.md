@@ -1,0 +1,25 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Cícera Alves dos Santos contra acórdão do Superior Tribunal Militar que deu provimento ao Recurso em Sentido Estrito 41-70.2014.7.07.0007/PE.
+     A paciente foi denunciada pela suposta prática do crime de estelionato, tipificado no art. 251 do Código Penal Militar, por ter, supostamente, efetuado saques de quantias alusivas a benefício de pensionista falecida (sua genitora), induzindo em erro a Administração Militar. O Juízo-Auditor da 7ª Circunscrição Judiciária Militar rejeitou a exordial acusatória, por ausência de justa causa (art. 395, III, do Código de Processo Penal, aplicado subsidiariamente ao CPPM).
+     Inconformado, o Parquet interpôs recurso em sentido estrito perante o Superior Tribunal Militar, que deu provimento ao recurso para receber a denúncia e determinar o prosseguimento da ação penal de origem.
+    No presente writ, alega a Defesa nulidade do acórdão impugnado ante a ausência de intimação da Defensa Pública da União da data do julgamento do recurso em sentido estrito, a impossibilitar a realização de sustentação oral em favor da paciente. Sustenta, ainda, falta de justa causa para processamento da ação penal. Requer, em medida liminar, a suspensão dos efeitos do acórdão impugnado até o julgamento final da presente impetração. No mérito, pugna pela nulidade do ato dito coator, e, sucessivamente, pela manutenção da decisão do Juízo-Auditor que rejeitou a denúncia.
+    É o relatório.
+    Decido.
+    Extraio do ato coator:
+    “RECURSO EM SENTIDO ESTRITO. REJEIÇÃO DE DENÚNCIA. ESTELIONATO. SAQUE EM CONTA CORRENTE DE PENSIONISTA FALECIDA. LEI Nº 9.469/97.
+    É de ser recebida a exordial que se encontra formalmente perfeita, descreve fatos, em tese, típicos, aponta a autoria e atende aos requisitos do art. 77 do CPPM.
+    Na hipótese, narra a denúncia, com base no IPM instaurado na 20ª Circunscrição de Serviço Militar, que a Denunciada efetuou saques indevidos da conta de sua genitora, pensionista de ex-combatente após o seu falecimento, mantendo a Administração Militar em erro quanto a esse fato e causando prejuízo ao erário.
+    Encontram-se nos autos elementos suficientes que dão suporte à acusação: a Administração Militar comprovou os depósitos na conta da pensionista, conforme ficha financeira, o Banco declarou que a conta corrente da pensionista falecida encontrava-se sem saldo e que houve saque após a data do falecimento; a Denunciada admitiu a prática em tese delituosa e ficou comprovada a sua condição de procuradora, conforme por ela admitido e constatado pela procuração acostada aos autos.
+    A Denúncia está, portanto, em termos de ser recebida.
+    As condutas narradas na peça acusatória são aparentemente delituosas e não se nota, à primeira vista, que sejam atípicas ou acobertadas por excludente de ilicitude, sendo prudente aguardar-se a dilação probatória, principalmente porque vigora nessa fase processual o princípio in dubio pro societate, permitindo-se ao Ministério Público Militar a possibilidade de provar as imputações contidas na exordial.
+    A Lei nº 9.469/97, em seu art. 1º-B, incluído pela Lei nº 11.941/09, estabelece a possibilidade de isenção de cobrança judicial de créditos de empresas púbicas federais que sejam iguais ou inferiores a dez mil reais. Trata-se de valor de referência para uma faculdade atribuída aos dirigentes máximos dessas entidades públicas, o que, evidentemente, não pode servir como parâmetro para avaliar a significância de crime praticado contra o patrimônio sob a administração militar, como é, em tese, o caso dos autos. Precedente.
+    Recurso ministerial provido para, cassando a decisão recorrida, receber a denúncia oferecida contra a Civil, como incursa no art. 251 do CPM, e determinar a baixa dos autos à Auditoria de origem para o regular prosseguimento do feito. Unânime”.
+    Ao exame dos autos, conforme relata o Superior Tribunal Militar, “A Defensoria Pública da União foi intimada de que o feito está em mesa para julgamento”.
+    Quanto a matéria de fundo, a Corte Castrense ressaltou que os fatos descritos na denúncia recomendam o processamento da ação penal e não o seu trancamento, este admitido somente diante de situações excepcionalíssimas, quando “pressupõe a percepção, de plano, da atipicidade da conduta, da incidência da causa de extinção punibilidade ou a ausência de indícios de autoria e materialidade” (RHC 115.044/BA, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 10.4.2014).
+    Não detecto, portanto, a presença dos pressupostos autorizadores da concessão da medida liminar com a imediata suspensão dos efeitos do acórdão hostilizado.
+    Ante o exposto, indefiro a liminar.
+    Colham-se, em caráter de urgência, informações junto ao Superior Tribunal Militar quanto à intimação da Defensoria Pública da União para o julgamento do Recurso em Sentido Estrito 41-70.2014.7.07.0007/PE, devendo encaminhar cópia das peças que reputar relevantes.
+    Após, ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 11 de dezembro de 2015.
+Ministra Rosa Weber
+Relatora
