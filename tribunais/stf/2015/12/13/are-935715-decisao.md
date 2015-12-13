@@ -1,0 +1,11 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. O recorrente não indicou, nas razões do recurso extraordinário, o dispositivo constitucional violado. Aplicável, na hipótese, do entendimento jurisprudencial vertido na Súmula nº 284/STF: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”. Nesse sentido: ARE 738.104-AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 24.6.2013; e ARE 772.453-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 17.12.2013, com a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DISPOSITIVO AUTORIZADOR DO RECURSO EXTRAORDINÁRIO. DISPOSITIVO CONSTITUCIONAL VIOLADO. INDICAÇÃO. AUSÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I A indicação correta do dispositivo constitucional autorizador do recurso extraordinário - artigo, inciso e alínea é requisito indispensável ao seu conhecimento, a teor do art. 321 do RISTF e da pacífica jurisprudência do Tribunal. II – A ausência da indicação dos dispositivos constitucionais supostamente violados nas razões do recurso extraordinário caracteriza deficiência na fundamentação do recurso, a teor da Súmula 284 do STF. Precedentes. III - Agravo regimental a que se nega provimento.”
+     E mais, o recorrente não juntou o comprovante de pagamento das custas processuais ao STF, conforme certidão à fl. 74.
+    Ainda que superados esses óbices, a verificação da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demanda prévio reexame da interpretação conferida pelo Tribunal de origem a cláusulas contratuais, o que é vedado a esta instância extraordinária, a teor da Súmula 454/STF: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de dezembro de 2015.
+Ministra Rosa Weber
+Relatora
