@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. ARROLAMENTO DE BENS. LEI N.º 9.532, DE 1997. CANCELAMENTO. DECRETO 7.573, DE 2011. VALOR MÍNIMO DO DÉBITO.
+    O Decreto nº 7.573, de 2011, que alterou o valor mínimo do débito tributário para fins de arrolamento fiscal, de R$ 500.000,00 para R$ 2.000.000,00, não autoriza o cancelamento de arrolamento efetuado antes de sua entrada em vigor, realizado em virtude de dívida inferior ao novo limite”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, XXXV e LIV, 93, IX e 150, II, da Carta. O recorrente sustenta a inconstitucionalidade do arrolamento de bens pela receita federal em valor inferior ao mínimo legal editado pelo Decreto nº 7.573/2011, nos termos da IN nº 1.171/2011. Defende haver violação à igualdade e à legalidade.
+    A pretensão recursal não merece prosperar, tendo em vista que para dissentir das conclusões do Tribunal de origem seria necessário o exame de legislação infraconstitucional. No mesmo sentido, confiram-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSELHOS FEDERAIS. EXECUÇÃO FISCAL. VALOR MÍNIMO PARA AJUIZAMENTO. LEI 12.514/2011. MATÉRIA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I – O Juízo de origem extinguiu a execução fiscal proposta pelo recorrente em razão de o valor cobrado ser inferior ao mínimo estipulado para a proposição da ação executiva pela Lei 12.514/2011, diploma legal que versa, entre outros temas, sobre contribuições devidas aos conselhos profissionais em geral. Nessas circunstâncias, o tema decidido é exclusivamente infraconstitucional. II – Agravo regimental improvido”. (ARE nº 753008 AgR / RS, Rel. Min. Ricardo Lewandowski)
+    “EXECUÇÃO FISCAL - VALOR MÍNIMO - EXTINÇÃO DO PROCESSO - MATÉRIA LEGAL. Na dicção da ilustrada maioria, entendimento em relação ao qual guardo reservas, o tema referente ao valor mínimo para efeito de execução é disciplinado por normas estritamente legais. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé”. (RE n 539500 AgR / RN, Rel. Min. Marco Aurélio)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+    Brasília, 14 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
