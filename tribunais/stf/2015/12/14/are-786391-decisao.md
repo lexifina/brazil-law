@@ -1,0 +1,9 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, ao julgar o  ARE 691.306-RG/MS, Rel. Min. CEZAR PELUSO, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa e reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “SERVIDOR PÚBLICO. Policial Militar. Processo administrativo. Falta disciplinar. Exclusão da corporação. Ação penal em curso, para apurar a mesma conduta. Possibilidade. Independência relativa das instâncias jurisdicional e administrativa. Precedentes do Pleno do STF. Repercussão geral reconhecida. Jurisprudência reafirmada. Recurso extraordinário a que se nega provimento. Apresenta repercussão geral o recurso que versa sobre a possibilidade de exclusão, em processo administrativo, de policial militar que comete faltas disciplinares, independentemente do curso de ação penal instaurada em razão da mesma conduta.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Sendo assim, pelas razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    2. Defiro, de outro lado, à parte agravante, o benefício da gratuidade, eis que a simples afirmação de incapacidade financeira, feita pelo próprio interessado, como no caso, basta para viabilizar-lhe o acesso ao benefício da assistência judiciária (Lei nº 1.060/50, art. 4º, § 1º, na redação dada pela Lei nº 7.510/86), segundo a jurisprudência firmada por esta Suprema Corte (RTJ 158/963 – RT 755/182).
+    Publique-se.
+    Brasília, 14 de dezembro de 2015.
+Ministro CELSO DE MELLO
+Relator
