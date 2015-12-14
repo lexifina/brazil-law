@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. REAJUSTE SALARIAL. URP DE ABRIL E MAIO/88. PRESCRIÇÃO. TERMO FINAL.
+    1. A jurisprudência, em relação a URP/88, assentou que a prescrição, na hipótese, não alcança o próprio fundo de direito, aplicável a Súmula 85/STJ, bem como que os funcionários públicos têm direito apenas ao pagamento das diferenças decorrentes da aplicação do índice correspondente a 7/30 (sete trinta avos) de 16,19% (dezesseis vírgula dezenove por cento) em maio e abril, não cumulativamente, corrigido monetariamente desde a data em que se tornaram devidas as diferenças até o efetivo pagamento, observada a prescrição apenas quanto as prestações vencidas antes do quinquênio anterior à propositura da ação.
+    2. Termo final do reajuste fixado em 31/12/2000, no advento da MP 2.131/00, que reestruturou os vencimentos dos militares, com efeitos a partir de 1º de janeiro de 2001.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXV, XXXVI e LV, da Constituição.
+    A decisão deve ser mantida. Quanto à alegação de ofensa ao art. 5°, XXXV e LV, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, Rel. Min. Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Quanto à controvérsia acerca da ocorrência de prescrição das verbas pleiteadas, é firme a jurisprudência desta Corte de que tal discussão se restringe ao âmbito infraconstitucional. Nesse sentido, vejam-se os seguintes precedentes: ARE 798.346-AgR, Rel. Min. Gilmar Mendes; ARE 776.908-AgR, Rel.ª Min.ª Cármen Lúcia; e ARE 772.157-AgR, Rel. Min. Teori Zavascki.
+    Quanto ao mérito, o acórdão recorrido está alinhado com o teor da Súmula 671/STF:
+    “Os servidores públicos e os trabalhadores em geral têm direito, no que concerne à URP de abril/maio de 1988, apenas ao valor correspondente a 7/30 de 16,19% sobre os vencimentos e salários pertinentes aos meses de abril e maio de 1988, não cumulativamente, devidamente corrigido até o efetivo pagamento”.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 14 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
