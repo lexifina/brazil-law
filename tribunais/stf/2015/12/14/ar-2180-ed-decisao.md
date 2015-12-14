@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra a decisão monocrática pela qual negado seguimento à presente ação rescisória, a União opõe embargos de declaração, alegando, com amparo no art. 535 do CPC, omissão no julgado relativamente à condenação dos autores ao pagamento dos honorários advocatícios. Assevera a embargante que o não suprimento da indigitada omissão impedirá a cobrança dessa verba de sucumbência, ante o óbice da coisa julgada que se formará. Requer a União, por fim, com base no princípio da fungibilidade recursal, seja o presente recurso recebido como agravo regimental caso tidos como incabíveis os embargos de declaração.
+    É o relatório.
+    Decido .
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos embargos de declaração.
+    Na decisão objeto do presente recurso, negou-se seguimento à presente ação rescisória, após a contestação da União, forte nos arts. 267, caput e VI, e 485, caput e V, do CPC, 38 da Lei 8.038/1990 e 21, § 1º, do RISTF, ao entendimento de que incabível enquanto buscar a desconstituição de decisão fundada na jurisprudência do Supremo Tribunal Federal.
+    Nas razões recursais, assevera a União, em síntese, a necessidade da explícita condenação da parte sucumbente aos honorários advocatícios, ao argumento de que a não fixação dessa verba de sucumbência em seu favor impedirá cobrança futura, ante o óbice da coisa julgada que se formará.
+    Assiste razão à embargante.
+    Na hipótese, a negativa de seguimento à ação rescisória ocorreu após a apresentação de contestação pela União, pelo que impositiva, uma vez sucumbentes na íntegra os autores, a condenação em honorários advocatícios. Nessa linha o seguinte precedente:
+    AÇÃO RESCISÓRIA. ART. 485, V, DO CÓDIGO DE PROCESSO CIVIL. MATÉRIA CONSTITUCIONAL. RESCISÃO DE ACÓRDÃO QUE APLICOU JURISPRUDÊNCIA DO STF POSTERIORMENTE MODIFICADA. NÃO CABIMENTO DA AÇÃO RESCISÓRIA COMO INSTRUMENTO DE UNIFORMIZAÇÃO DA JURISPRUDÊNCIA DO TRIBUNAL. PRECEDENTE. HONORÁRIOS ADVOCATÍCIOS EM RESCISÓRIA. FIXAÇÃO. 1. (….) 2. Mais especificamente, o Tribunal afirmou que a superveniente modificação da sua jurisprudência (que antes reconhecia e depois veio a negar o direito a creditamento de IPI em operações com mercadorias isentas ou com alíquota zero) não autoriza, sob esse fundamento, o ajuizamento de ação rescisória para desfazer acórdão que aplicara a firme jurisprudência até então vigente no próprio STF. 3. Devidos honorários advocatícios à parte vencedora segundo os parâmetros do art. 20, § 4º, do CPC. 4. Agravo regimental da União desprovido. Agravo regimental da demandada parcialmente provido. (AR 2370 AgR, Relator: Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 22/10/2015, DJe-de 12-11-2015, destaquei)
+    Em face do exposto, acolho os embargos de declaração para condenar os autores sucumbentes ao pagamento dos honorários advocatícios, observados os artigos 20, §§ 3º e 4º, e 23 do CPC, em R$ 1.000,00 (um mil reais) .
+    Publique-se.
+    Brasília, 14 de dezembro de 2015.
+Ministra Rosa Weber
+Relatora
