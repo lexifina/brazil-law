@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    O Ministério Público Federal interpõe agravo visando impugnar decisão que não admitiu recurso extraordinário, assentado em contrariedade ao art. 109, incisos IV, V, VI, IX e X, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL EM CONFLITO NEGATIVO DE COMPETÊNCIA. PENA APLICADA PELA JUSTIÇA FEDERAL. CUMPRIMENTO EM ESTABELECIMENTO ESTADUAL. PROGRESSÃO DE REGIME PARA O ABERTO. MANUTENÇÃO DA COMPETÊNCIA DO JUÍZO ESTADUAL. INCIDÊNCIA DA SÚMULA 192 DO STJ.
+    1. A execução penal compete ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença. Sem ferir o art. 109 da CF/88, o verbete n. 192 da Súmula do Superior Tribunal de Justiça excepciona referida disciplina, nos casos em que o apenado, condenado pela Justiça Federal, encontrar-se em estabelecimento penitenciário estadual.
+    2. Transferida, de início, para a Justiça Estadual a competência para o processo de execução penal, em virtude da permanência do condenado em estabelecimento penitenciário estadual, tem-se que a competência não se transfere de volta, automaticamente, pela simples progressão a regime no qual não seja mais necessário o encarceramento.
+    3. Admitir que a progressão remeta os autos à Justiça Federal e a regressão os devolva à Justiça estadual geraria desnecessário tumulto à execução penal.
+    4. Mantida, assim, a competência do Juízo de Direito da Vara de Execução de penas e medidas alternativas de Foz do Iguaçu/PR, ora suscitado, para dar continuidade à execução de pena imposta pela Justiça Federal, mesmo após a progressão de regime para o meio aberto.
+    5. Agravo regimental a que se nega provimento” (fl. 580).
+    Aduz o Parquet federal, nas razões do extraordinário, que
+    “(…) o caso dos autos mostra-se de inconstitucionalidade ainda mais patente, uma vez que, após ser promovido ao regime mais brando e, portanto, não estar mais submetido à administração penitenciária estadual, o apenado permaneceu sob o encargo da Vara de Execuções Penais estaduais.
+    Dessa forma, os fundamentos que ensejaram a edição da Súmula nº 192/STJ - ainda que fossem considerados válidos- não se aplicam ao caso. Assim, tratando-se de competência estabelecida pela Constituição Federal, é incabível sua modificação por norma de hierarquia inferior, de modo que somente se cogita de delegação da competência federal a outros ramos nas hipóteses constitucionalmente descritas, como ocorre no caso do art. 109, § 3º, da Constituição Federal.
+    Diante de tais considerações, conclui-se que o acórdão do Superior Tribunal de Justiça, ao manter a competência do Juízo da Vara de Execuções de Penas e Medidas Alternativas de Foz do Iguaçu (PR) para fiscalizar a execução da pena pelo condenado beneficiado com o regime aberto, ofende o art. 109, IV, V, VI, IX e X, da Constituição da República” (fls. 603-604 – grifos conforme a peça original).
+    Examinados os autos decido.
+    Anote-se, inicialmente, que o Parquet foi intimado do acórdão após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07). Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o Tribunal a quo ao decidir a questão relativa à competência, se ateve ao exame de legislação eminentemente infraconstitucional, em especial à Lei nº 7.210/84 (Lei de Execução Penal). Portanto, a violação aos preceitos constitucionais apontados, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Nesse sentido, confira-se: RE nº 811.365/RS – AgR, Segunda Turma, minha relatoria, DJe de 13/4/15); ARE nº 828.009/SP – AgR, Primeira Turma, relatora a Ministra Rosa Weber, DJe de 5/2/15; RE nº 845.326/RS – AgR, Primeira Turma, relatora a Ministra Rosa Weber, DJe de 2/12/14); ARE nº 814.039/RJ – AgR, Segunda Turma, relator o Ministro Gilmar Mendes, DJe de 20/6/14); RE nº 591.599/RJ – AgR, Primeira Turma, minha relatoria, DJe de 13/4/11); AI nº 645.872/SP – AgR, Segunda Turma, relator o Ministro Joaquim Barbosa, DJe de 14/12/07).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 14 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
