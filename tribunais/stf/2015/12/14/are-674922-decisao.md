@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, 2º, 8º, 37, caput, 169, § 1º, e 195, § 5º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta ao preceito constitucional indicado nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: o ARE 842.023/RJ, Rel. Min. Cármen Lúcia, decisão monocrática, DJe 24.02.2015; e o ARE 784.305/RJ, Rel. Min. Luiz Fux, decisão monocrática, DJe 23.3.2015, cuja ementa transcrevo:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. ADICIONAL POR TEMPO DE SERVIÇO. BASE DE CÁLCULO. LEI MUNICIPAL Nº 67/1998 E LEI COMPLEMENTAR MUNICIPAL Nº 72/1998. MUNICÍPIO DE MARICÁ. REEXAME DE LEGISLAÇÃO LOCAL. SÚMULA Nº 280 DO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.”
+    Quanto à alegada violação do art. 2º da Lei Fundamental, o Supremo Tribunal Federal entende que o exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Nesse sentido, cito o RE 417.408-AgR/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 26.4.2012; e o ARE 655.080-AgR/DF, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 09.9.2012, assim ementado:
+    "Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. 4. Controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de poder. Possibilidade. Ausência de violação ao Princípio da separação de Poderes. Precedentes do STF. 5. Discussão acerca da existência de ilegalidade e quanto à apreciação do preenchimento dos requisitos legais, pela agravada, para investidura no cargo público de magistério estadual. Necessário reexame do conjunto fático-probatório da legislação infraconstitucional e do edital que rege o certame. Providências vedadas pelas súmulas 279, 280 e 454. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento."
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de dezembro de 2015.
+Ministra Rosa Weber
+Relatora
