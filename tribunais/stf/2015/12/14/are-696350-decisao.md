@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO – INTERMEDIAÇÃO DE MÃO DE OBRA – ENTE PÚBLICO – NULIDADE DO CONTRATO DE TRABALHO – INAPLICABILIDADE DA SÚMULA Nº 363 DESTA CORTE.
+    O empregado contratado pelo Instituto Candango de Solidariedade, pessoa jurídica de direito privado, e que prestou serviços no Distrito Federal, não é abrangido pela Súmula nº 363 desta Corte. Com efeito, inexiste vínculo empregatício com a Administração Pública, mas, sim, com a prestadora de serviços, de forma que, irregular a intermediação de mão de obra. A hipótese atrai a responsabilidade subsidiária do beneficiário dos serviços, ou seja, o Distrito Federal. Agravo de instrumento e recurso de revista providos.”
+    Sustenta o recorrente, no recurso extraordinário, violação do artigo 37, inciso II e § 2º, da Constituição Federal.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Paulo Gustavo Gonet Branco, opina pelo desprovimento do agravo.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    Colha-se, por oportuno, a seguinte fundamentação do voto condutor do acordão atacado:
+    “O quadro fático descrito pelo Regional revela que a contratação do reclamante, para prestar serviços ao Distrito Federal, ocorreu por interposta pessoa, no caso, o Instituto Candango de Solidariedade – ICS e, em razão desse fato, declarou-se a nulidade do contrato de trabalho, negando-lhe o direito ao recebimento das verbas rescisórias e eventual dano moral pleiteado (Súmula nº 363 desta Corte).
+    Nessa circunstância, em que está demonstrada a intermediação de mão de obra, não se justifica a aplicação da Súmula 363 desta Corte, para limitar a condenação das verbas pleiteadas, na medida em que, não se reconheceu o vínculo diretamente com o Distrito Federal, mas apenas sua responsabilidade subsidiária.
+    Referida Súmula trata dos efeitos do contrato de trabalho celebrado diretamente entre o ente público e o servidor contratado sem prévia aprovação em concurso público, circunstância diversa dos autos”.
+    Nesse caso, o acolhimento da pretensão recursal, inclusive no tocante à aferição da nulidade do contrato de trabalho, demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279 desta Corte. Sobre o tema:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ORGANIZAÇÃO SOCIAL. CONTRATO DE GESTÃO FRAUDULENTO. RESPONSABILIDADE SUBSIDIÁRIA DO ESTADO POR VERBAS TRABALHISTAS. ALEGADA OFENSA À REGRA DO CONCURSO PÚBLICO. INOCORRÊNCIA. TERCEIRIZAÇÃO ILÍCITA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 279 DO STF.
+    Agravo regimental a que se nega provimento” (ARE nº 657.373/DF-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, Dje de 1/2/12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. SERVIDOR CELETISTA. CONTRATO DE TRABALHO ANTERIOR À ATUAL CONSTITUIÇÃO DA REPÚBLICA. DIREITO AO RECEBIMENTO DE VERBAS TRABALHISTAS. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES. ALEGAÇÃO DE NULIDADE DO CONTRATO DE TRABALHO. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. NATUREZA DO CONTRATO. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 902.197/DF-AgR, Segunda Turma, Relatora a Ministra Cámen Lúcia, Dje de 30/9/15).
+    Ressalte-se, por fim, que também com relação à alínea “b”, do permissivo constitucional, o recurso não merece êxito, pois o acórdão regional não declarou a inconstitucionalidade de nenhuma lei, mas apenas cuidou de interpretar as normas legais e constitucionais que entendeu aplicáveis ao caso. Nesse sentido, o seguinte precedente:
+    “CONSTITUCIONAL. PROCESSUAL. MANDADO DE SEGURANÇA. ADMISSIBILIDADE. REALIZAÇÃO DE EXAME SUPLETIVO. OFENSA REFLEXA. AGRAVO IMPROVIDO. I A apreciação dos temas constitucionais, no caso, depende do prévio exame de matéria infraconstitucional. II O Tribunal a quo não declarou inconstitucional lei federal ou tratado, incabível a interposição de recurso extraordinário com base na alínea b do art. 102, III, da Constituição. III - Agravo regimental improvido” (AI nº 627.609/BA-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 6/6/08).
+    Ante o exposto, conheço dos agravos para negar seguimento aos recursos extraordinários.
+    Publique-se.
+    Brasília, 14 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
