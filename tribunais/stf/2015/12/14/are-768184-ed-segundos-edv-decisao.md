@@ -1,0 +1,18 @@
+Decisão:
+    JB Nichele Auto Posto Ltda. opôs embargos de divergência contra acórdão proferido pela Primeira Turma desta Corte, de minha relatoria, que negou provimento ao agravo regimental no recurso extraordinário, sob a seguinte ementa:
+    “Dois embargos de declaração no recurso extraordinário com agravo. Conversão em agravos regimentais. Dispositivos constitucionais devidamente prequestionados. Inovação recursal. Impossibilidade. Fixação de ônus sucumbenciais. Sucumbência mínima.
+    1. Os embargos de declaração opostos contra decisão monocrática, embora não admissíveis, conforme a uníssona jurisprudência da Suprema Corte, podem ser convertidos em agravo regimental, tendo em vista o princípio da fungibilidade recursal.
+    2. É certo que, no caso do recurso extraordinário, para se considerar que houve prequestionamento, não é necessário que o acórdão recorrido tenha tratado de forma numérica dos dispositivos constitucionais invocados pela parte recorrente. É necessário, porém, que o referido acórdão tenha versado inequivocamente sobre a matéria neles abordada.
+    3. Não se admite em agravo regimental a inovação de fundamentos.
+    4. Configurada a hipótese de sucumbência mínima, aplica-se o art. 21, parágrafo único, do Código de Processo Civil.
+    5. Agravos regimentais não providos.
+    O embargante alega que há divergência entre o acórdão impugnado e o proferido pela Segunda Turma desta Corte no julgamento do RE 538.621/PR – AgR, Rel. Min. Joaquim Barbosa. Sustenta que, diversamente do acórdão embargado, o aresto paradigma concluiu pela possibilidade de atualização monetária de créditos de ICMS, na hipótese de injusto óbice posto pela autoridade fiscal. Aduz que o acórdão recorrido expressamente consignou que no período compreendido em discussão, embora a legislação do Estado do Paraná permitisse o creditamento pretendido, existiam óbices opostos ao contribuinte, os quais, na prática, inviabilizavam a operação. Sustenta a existência de lei prevendo a correção monetária.
+    Em contrarrazões, a parte embargada pugnou pelo desprovimento dos presentes embargos de divergência, sustentando que o “Estado do Paraná, desde 24.01.1994, passou a admitir a possibilidade de creditamento do ICMS nos termos requeridos na inicial, podendo, assim, a pretensão da ora agravada ter sido satisfeita na esfera administrativa.” Reitera a impossibilidade de atualização monetária de créditos escriturais excedentes, na ausência de lei autorizativa.
+    O recurso há de ser admitido, posto que, consoante estabelece o art. 330 do Regimento Interno do Supremo Tribunal Federal, são cabíveis embargos de divergência de decisão de Turma desta Corte que divirja de julgado da outra Turma ou do Plenário.
+    Com efeito, há aparente divergência entre os acórdãos confrontados acerca do tema em exame. A hipótese fática versada no acórdão da Segunda Turma é a mesma verificada nos presentes autos em que o Tribunal de Justiça do Estado do Paraná entendeu que a legislação daquele Estado, mesmo prevendo a possibilidade de creditamento de ICMS, impunha óbices tais que inviabilizavam, na prática, o creditamento. No acórdão divergente, a Segunda Turma entendeu pelo cabimento da correção monetária, tendo em vista o óbice injustificado ao registro e utilização dos créditos, independentemente de lei específica prevendo a correção monetária.
+    Portanto, admito os embargos de divergência (RISTF, art. 335, § 1º, redação da Emenda Regimental 47/2012). À distribuição.
+    Publique-se.
+    Brasília, 14 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
