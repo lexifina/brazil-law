@@ -1,0 +1,23 @@
+Decisão: Trata-se de ação rescisória proposta pelo Banco do Brasil contra Sindicato dos Empregados em Estabelecimentos Bancários de São José do Rio Preto, com vistas a rescindir dois acórdãos: (i) o proferido nos autos do RO 6.361/91-5, julgado pelo TRT da 15ª Região; (ii) o prolatado nos autos do RE 207.390-3/SP, Rel. Min. Carlos Velloso, com trânsito em julgado em 16/6/1997.
+    Na origem, cuidou-se de reclamação trabalhista proposta pelo réu, com o fim de condenar o autor a pagar as diferenças salariais pela aplicação da URP do período de abril e maio de 1988. Em juízo de primeiro grau, o pedido foi julgado procedente, tendo em vista a inconstitucionalidade do DL 2.425/88. Interposta apelação, foi improvida. Opostos embargos declaratórios, foram sumariamente rejeitados. Contra essa decisão, foi interposto recurso extraordinário, que teve seu seguimento negado. Manejado agravo, os autos subiram e o relator conheceu e proveu em parte o recurso, em acórdão assim ementado:
+    CONSTITUCIONAL. ADMINISTRATIVO. TRABALHO. SERVIDOR PÚBLICO. VENCIMENTOS. URP/ABRIL E MAIO/1988 (16,19%).
+     I. – O Supremo Tribunal Federal, julgando o RE 146.749-DF, entendeu, afastada a declaração de inconstitucionalidade do art. 1º, caput, do D.L. 2.425/88, que os servidores fazem jus, apenas, pela aplicação da URP, ao valor correspondente a 7/30 de 16,19% sobre os vencimentos de abril e maio de 1988, não cumulativamente, mas corrigidos monetariamente desde a data em que eram devidos até o seu efetivo pagamento.
+    II. – Entendimento do relator deste RE no sentido da inconstitucionalidade do art. 1º do D.L. 2.425/88, dado que a suspensão do pagamento da URP ocorreu quando já adquirido o direito a sua percepção.
+    III. – R.E. conhecido e provido, em parte.
+    Inconformado, o autor propôs esta ação rescisória com arrimo no art. 485, IV e V, do Código de Processo Civil, sustentando, em síntese, (i) ofensa à coisa julgada, em relação ao acórdão do TRT, porquanto haveria sentença normativa em dissídio coletivo indeferindo o pagamento das diferenças das URPs de abril e maio de 1988; (ii) violação à literal dispositivo de lei, no tocante ao acórdão do STF, porque o DL 2.425/88 proibia o reajuste. Diante de tais colocações, requereu a rescisão dos acórdãos prolatados em sede de recurso ordinário e recurso extraordinário, para que, no lugar desses, outra decisão fosse proferida.
+    Citado, o réu ofereceu contestação (fls. 260-267), alegando, em síntese, carência do direito de ação, no que se referia ao reconhecimento da coisa julgada em relação ao tratado em dissídio coletivo, porquanto o STF não teria competência para julgar ação rescisória contra decisão do Tribunal Regional do Trabalho.
+    No tocante à aplicação dos reajustes, o Sindicato afirmou que o acórdão rescindendo pautou-se por jurisprudência pacífica na Corte, não se podendo falar em ofensa à literal disposição de lei, sobretudo porque o DL 2425/88 foi julgado parcialmente inconstitucional.
+    Instados a se manifestar (fl. 330), tanto o autor (fls. 333) quanto o réu (fls. 335) repisaram o que fora aduzido na inicial e na contestação, respectivamente.
+    A Procuradoria-Geral da República opinou pela improcedência desta ação rescisória (fls. 354-361).
+    É o relatório. Decido.
+    O artigo 259 do RISTF prevê: “Caberá ação rescisória de decisão proferida pelo Plenário ou por Turma do Tribunal, bem assim pelo Presidente, nos casos previstos na lei processual”.
+    Desta maneira, o acórdão do Tribunal Regional do Trabalho da 15ª Região não pode ser objeto de ação rescisória a ser analisada pelo Supremo Tribunal Federal.
+    No tocante à decisão desta Suprema Corte, a alegação de violação à literal disposição de lei, qual seja, ao artigo 1º, VIII, do DL 2.425/88, não prospera, tendo em vista que à data do julgamento do acórdão impugnado já existia jurisprudência dominante, a qual, posteriormente, foi consolidada na Súmula 671 do STF, assim redigida:
+    “Os servidores públicos e os trabalhadores em geral têm o direito, no que concerne à URP de abril/maio de 1988, apenas ao valor correspondente a 7/30 de 16,19% sobre os vencimentos e salários pertinentes aos meses de abril e maio de 1988, não cumulativamente, devidamente corrigido até o efetivo pagamento”.
+    Assim, não se pode considerar violada a disposição de lei quando o acórdão decidiu conforme jurisprudência consolidada do STF, sobretudo porque, no caso, houve o reconhecimento parcial de inconstitucionalidade.
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento ao presente pedido por manifestamente inadmissível.
+    Publique-se. Intime-se.
+    Brasília, 14 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
