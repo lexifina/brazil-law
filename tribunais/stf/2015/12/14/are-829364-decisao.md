@@ -1,0 +1,24 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Ação civil pública – Alegado controle difuso da constitucionalidade de Lei Municipal – Inexistência – Verdadeiro controle concreto de constitucionalidade da Lei Municipal o pretendido na ação – Extinção do processo sem conhecimento do mérito – Recurso provido.”
+    A parte agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceito inscrito na Constituição da República.
+    O Ministério Público Federal, em parecer da lavra do ilustre Procurador-Geral da República Dr. RODRIGO JANOT MONTEIRO DE BARROS, ao opinar pela inviabilidade do recurso extraordinário em referência, formulou parecer do qual destaco o seguinte trecho:
+    “O Supremo Tribunal Federal reconhece ‘a legitimidade da utilização da ação civil pública como instrumento idôneo de fiscalização incidental de constitucionalidade, pela via difusa, de quaisquer leis ou atos do Poder Público, mesmo quando contestados em face da Constituição da República, desde que, nesse processo coletivo, a controvérsia constitucional, longe de identificar-se como objeto único da demanda, qualifique-se como simples questão prejudicial, indispensável à resolução do litígio principal’, não sendo esse o caso dos autos.
+    A declaração de inconstitucionalidade da Lei Municipal constitui o próprio pedido da Ação Civil Pública ajuizada pelo ‘Parquet’ estadual, denotando a sua utilização como sucedâneo da ação direta de inconstitucionalidade de atos normativos municipais em face da Constituição Federal, hipótese não admitida pelo ordenamento jurídico pátrio.
+    Acerca do tema, confira-se o seguinte julgado do Supremo Tribunal Federal:
+    Agravo regimental. – Não se admite ação que se intitula ação civil pública, mas, como decorre do pedido, é, em realidade, verdadeira ação direta de inconstitucionalidade de atos normativos municipais em face da Constituição Federal, ação essa não admitida pela Carta Magna. Agravo a que se nega provimento.
+    (AI 189601 AgR, Rel. Min. Moreira Alves, Primeira Turma, DJ de 3/10/1997)
+    No mesmo sentido, decisão monocrática ementada nos seguintes termos:
+    Reclamação. Ação civil pública. Lei municipal. Declaração de inconstitucionalidade. Inviabilidade. Usurpação de competência do supremo tribunal federal.
+    Ausência. Controle concentrado. atos normativos federais e estaduais. Reclamação a que se nega seguimento.
+    1. A ação civil pública não é servil à obtenção da declaração de inconstitucionalidade com efeitos ‘erga omnes’. Precedente: Rcl 1503, Redator para o acórdão Min. Dias Toffoli, Tribunal Pleno, DJe de 10/02/2012.
+    2. O sistema constitucional brasileiro não admite o controle concentrado de constitucionalidade de lei ou ato normativo municipal em face da Constituição Federal; nem mesmo perante o Supremo Tribunal Federal que tem, como competência precípua, a sua guarda. Precedente: Rcl 337, Rel. Min. Paulo Brossard, Tribunal Pleno, DJ de 19/12/1994.
+    3. Reclamação a que se nega seguimento.
+    (Rcl 9973, Rel. Min. Luiz Fux, DJe-044 de 7/3/2013).”
+    Entendo assistir razão ao parecer da douta Procuradoria-Geral da República, cujos termos adoto como fundamento da presente decisão, valendo-me, para tanto, da técnica da motivação “per relationem”, reconhecida como plenamente compatível com o texto da Constituição (AI 738.982/PR, Rel. Min. JOAQUIM BARBOSA – AI 809.147/ES, Rel. Min. CÁRMEN LÚCIA – AI 814.640/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 662.029/SE, Rel. Min. CELSO DE MELLO – HC 54.513/DF, Rel. Min. MOREIRA ALVES – MS 28.989-MC/PR, Rel. Min. CELSO DE MELLO – RE 37.879/MG, Rel. Min. LUIZ GALLOTTI – RE 49.074/MA, Rel. Min. LUIZ GALLOTTI, v.g.):
+    “Reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação ‘per relationem’, que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado – referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir. Precedentes.”
+    (AI 825.520-AgR-ED/SP, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 14 de dezembro de 2015.
+Ministro CELSO DE MELLO
+Relator
