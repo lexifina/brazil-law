@@ -1,0 +1,1 @@
+Artigo 31-A - O procedimento administrativo de consulta sobre interpretação e aplicação da legislação tributária do imposto instituído por esta lei observará, no que couber, as normas pertinentes ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS. (NR)
