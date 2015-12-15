@@ -1,0 +1,20 @@
+Decisão:
+    União interpõe tempestivo agravo regimental contra decisão em que o Ministro Sepúlveda Pertence deferiu a antecipação de tutela para suspender a exigibilidade do crédito tributário objeto do pedido.
+    Alegou a agravante a ausência dos requisitos para antecipação da tutela. Defende que o entendimento do Supremo Tribunal Federal, no tocante à possibilidade de lei ordinária revogar lei complementar, é contrário ao sustentado pela recorrente.
+    Determinei o sobrestamento do feito, até o julgamento do RE nº 598.065/RJ, com repercussão geral reconhecida.
+    Decido.
+    À vista do julgamento de mérito do RE nº 598.065/RJ, afasto o sobrestamento determinado à fl. 348 e passo à análise do recurso extraordinário.
+    No julgamento do RE nº 527.602/SP, Redator para o acórdão o Ministro Marco Aurélio, o Plenário deste Supremo Tribunal Federal reafirmou a jurisprudência assentada no julgamento dos Recursos Extraordinários nº 346.084/PR, Relator o Ministro Ilmar Galvão, DJ de 1º/9/06, e 357.950/RS, 358.273/RS e 390.840/SC, Relator o Ministro Marco Aurélio, DJ de 15/8/06, no sentido da inconstitucionalidade do art. 3º, § 1º, da Lei nº 9.718/98, por entender que a ampliação da base de cálculo da contribuição ao PIS e da COFINS, na forma prevista no referido dispositivo legal, violou a redação original do artigo 195, inciso I, da Constituição Federal.
+    Dessa forma, ao julgar constitucional a ampliação da base de cálculo da COFINS e do PIS, promovidas pelo artigo 3º, § 1º, da Lei nº 9.718/98, o Tribunal de origem divergiu da orientação fixada pelo Plenário da Corte.
+    Ademais, verifico que o Supremo Tribunal Federal, ao julgar o RE nº 527.602/SP, Redator para o acórdão o Ministro Marco Aurélio , DJe de 20/8/09, reafirmou a jurisprudência desta Corte, mantendo o entendimento no sentido da constitucionalidade do caput do art. 8º da Lei nº 9.718/98 que majorou a alíquota da COFINS de 2% para 3%. Nesse sentido, anote-se:
+    Constitucional e tributário. Agravo regimental em recurso extraordinário. COFINS. Majoração de alíquota. Constitucionalidade do art. 8º da Lei 9.718/98. Decisão plenária. 1. Matéria pacificada no sentido da constitucionalidade da majoração da alíquota da COFINS instituída pelo artigo 8º da Lei nº 9.718/98, conforme decisão proferida pelo Plenário ao julgar o RE nº 527.602/SP, Redator para acórdão o Ministro Marco Aurélio, DJe de 20/8/09. 2. Agravo regimental a que se nega provimento (RE n° 475.882/PR-AgR, Primeira Turma, de minha relatoria, DJe de 2/12/10).
+    Por fim, o Plenário da Corte, no exame do RE n° 598.085/RJ, Relator o Ministro Luiz Fux, com repercussão geral reconhecida, aplicou a jurisprudência pacífica na Corte desde a ADI nº 1/DF, Rel. Min. Moreira Alves, no sentido da possibilidade de revogação da isenção prevista na LC nº 70/91, pela Medida Provisória nº 1.858 e reedições.
+    Transcrevo trecho do voto do Ministro relator, na parte que interessa:
+    O tema atinente à isenção é matéria reservada à lei ordinária, consoante prevê o art. 178, do Código Tributário Nacional, razão pela qual a Lei Complementar nº 70/91 deve ser tida como complementar apenas formalmente, o que implica a possibilidade de ser alterada por medida provisória, a teor da interpretação albergada pelo Egrégio Supremo Tribunal Federal (ADI 1/DF, Min. Relator Moreira Alves, DJ 16/06/1995).
+    Efetivamente, este benefício fiscal previsto no inciso I do art. 6º da Lei Complementar nº 70/91 foi revogado pela Medida Provisória nº 1.858 e reedições seguintes, consolidada na atual Medida Provisória nº 2.158, tornando-se tributáveis pela COFINS as receitas auferidas pelas cooperativas quando prestarem serviços a terceiros não associados (não cooperados).”
+    Ante o exposto, dou parcial provimento ao recurso extraordinário, reformando o acórdão recorrido na parte em que declarou constitucional a ampliação da base de cálculo do PIS e da COFINS, promovida pelo artigo 3º, § 1º, da Lei nº 9.718/98. Fica prejudicado o agravo regimental de fls. 337/345.
+    Publique-se.
+    Brasília, 15 de dezembro de 2015.
+Ministro DIAS TOFFOLI.
+Relator
+Documento assinado digitalmente
