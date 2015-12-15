@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 155, § 2°, I e II, da Constituição Federal.
+    O acórdão do Tribunal de Justiça do Estado de São Paulo restou assim ementado:
+    “ICMS – DECLARATÓRIA. Crédito do imposto incidente nas entradas de mercadoria destinados a uso e consumo, anteriormente à vigência da Lei Complementar nº 87/96. Inadmissibilidade. Recurso parcialmente provido para desconstituir a r. Sentença de extinção (art. 515, § 3º, CPC) e, no mérito, julgar improcedente a ação.
+    O recorrente insurge-se contra
+    “a negativa de aplicação da não-cumulatividade do ICMS, mormente em razão do não afastamento pelo v. Acórdão das restrições ao direito a crédito do imposto em relação às mercadorias destinadas ao uso ou consumo do estabelecimento contidas no art. 33 da Lei 87/96 e no art. 31, inciso II do Convênio 66/88;”
+    Decido.
+    A jurisprudência da Corte é pacífica no sentido de não reconhecer o direito de creditamento do valor do ICMS, incidente na aquisição de bens de uso e consumo ou para o ativo fixo do contribuinte, no período anterior à vigência da Lei Complementar nº 87/96. Nesse sentido, anote-se:
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. OPERAÇÕES DE CONSUMO DE ENERGIA ELÉTRICA, UTILIZAÇÃO DE SERVIÇOS DE COMUNICAÇÃO OU DE AQUISIÇÃO DE BENS DESTINADOS AO USO OU À INTEGRAÇÃO NO ATIVO FIXO DO PRÓPRIO ESTABELECIMENTO. INEXISTÊNCIA DE DIREITO A CRÉDITO DURANTE A VIGÊNCIA DO CONVÊNIO N. 66/1988 (PERÍODO ANTERIOR À LEI COMPLEMENTAR N. 87/1996). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (AI nº 781.344/RJ – AgR, Segunda Turma, Rel. Min. Cármen Lúcia, Dje de 4/11/13)
+    Agravo regimental no recurso extraordinário. Creditamento. Não ocorrência. Aquisição de produtos intermediários. Consumidor final. Direito ao crédito. Impossibilidade. Aquisição de bens destinados ao ativo fixo ou de materiais de uso e consumo. Ausência de ofensa ao princípio da não cumulatividade. Agravo não provido. 1. É pacífica a jurisprudência desta Corte no sentido de não reconhecer o direito de creditamento do valor do ICMS, no período anterior à vigência da Lei Complementar nº 87/96, quando pago em razão da aquisição de bens para o ativo fixo do contribuinte. 2. A aquisição de produtos intermediários aplicados no processo produtivo que não integram fisicamente o produto final não gera direito ao crédito de ICMS, uma vez que a adquirente, nesse caso, mostra-se como consumidora final. Precedentes. 3. Agravo regimental não provido. (RE nº 540.588/MG – AgR, Primeira Turma, de minha relatoria, Dje de 21/3/13)
+    No que se refere ao período posterior à Lei Complementar nº 87/96, observo que encontra-se pendente de julgamento pelo Plenário da Corte o RE nº 601.967/RS, sob relatoria do Ministro Marco Aurélio, o qual trata da possibilidade de lei complementar, apesar de deferir o direito de crédito de ICMS, restringir a forma de exercício desse direito, à luz da sistemática da não cumulatividade.
+    Ante o exposto, conheço do agravo e, quanto à possibilidade de creditamento do ICMS na aquisição de bens de uso e consumo no período anterior a LC nº 87/96, nego seguimento ao recurso extraordinário. No tocante à possibilidade da LC nº 87/96 impor restrições ao creditamento do ICMS, em face da norma constitucional que prevê a não cumulatividade, admito o recurso extraordinário e determino o retorno dos autos ao Tribunal de origem, para aplicação do disposto no art. 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 15 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
