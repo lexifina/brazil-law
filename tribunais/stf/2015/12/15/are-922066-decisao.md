@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL POR TEMPO DE SERVIÇO. BASE DE CÁLCULO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “Agravo interno em apelação cível. Decisão do relator que negou seguimento ao recurso, fundada em jurisprudência dominante do STJ e desta Corte. Inexistência de nulidade. Inteligência do caput do art. 557 do CPC. Previdenciário. Ação revisional de proventos c/c cobrança. Pretensão autoral para inclusão de verba incorporada na base de cálculo do adicional por tempo de serviço. Impossibilidade. Adicional que é calculado a partir do vencimento-base do servidor. Verba incorporada que constitui rubrica autônoma. Inteligência dos arts. 142 do Decreto Estadual/RJ nº 2.479/79 (Regulamento do Estatuto dos Funcionários Públicos Civis do Poder Executivo do Estado do Rio de Janeiro); 11 da Lei Estadual/RJ nº 530/82; e 1º da Lei Estadual/RJ nº 1258/87. Sentença de improcedência. Manutenção da decisão monocrática. Desprovimento do agravo interno” (doc. 17).
+    Os embargos de declaração opostos foram rejeitados.
+    2. Os Agravantes alegam contrariados os arts. 5º, inc. XXXVI, e 37, incs. XIV e XV, da Constituição da República, asseverando que
+    “o thema decidendum dos presentes autos envolve a aplicação de lei estadual que garantia a incorporação do direito pessoal aos recorrentes e, consequentemente, a incidência do adicional de tempo de serviço sobre eles. Em outras palavras, à época dos fatos, os recorrentes tiveram uma majoração dos valores de seus vencimentos, que evidentemente geram efeitos na aposentadoria.
+    (…)
+    Como se verifica, à época dos fatos, a ordem jurídica vigente garantiu aos recorrentes a percepção dos cargos em comissão, que passaram a incorporar seus vencimentos. Dessa forma, é patente que a lei autorizou o pagamento do triênio sobre os novos valores” (doc. 23).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de incidência da Súmula n. 279 deste Supremo Tribunal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste aos Agravantes.
+    6. Consta da decisão mantida pelo Tribunal de origem:
+    “Cinge-se a controvérsia à definição da base de cálculo do adicional por tempo de serviço devido aos apelantes, assentando-se quanto à inclusão ou não do valor devido sob a rubrica ‘direito pessoal’, decorrente da incorporação de verbas.
+    De acordo com o caput do art. 1º da Lei Estadual/RJ nº 1258/87, ‘o regime de adicional por tempo de serviço, para todo o funcionalismo público civil ativo do Estado do Rio de Janeiro, será o de triênios, sendo o primeiro de 10% (dez por cento) e os demais de 5% (cinco por cento), calculados sobre o vencimento-base, limitada a vantagem em 9 (nove) triênios’ (g. n.).
+    Vencimento-base, por sua vez, ‘é a retribuição pelo efetivo exercício do cargo, correspondente à referência ou símbolo fixado em lei’ (art. 142, Decreto Estadual/RJ nº 2479/79 – Regulamento do Estatuto dos Funcionários Públicos Civis do Poder Executivo do Estado do Rio de Janeiro).
+    Já o art. 11 da Lei Estadual/RJ nº 530/82, que cuida da incorporação da verba recebida pelo exercício de cargo em comissão ou função gratificada, refere a autonomia da rubrica, denominando-a ‘direito pessoal’.
+    (…)
+    Destarte, as verbas incorporadas não integram o vencimento-base, sob pena de indevida majoração vencimental, e, portanto, não podem ser incluídas na base de cálculo do adicional por tempo de serviço.
+    (…)
+    Isso posto, NEGO SEGUIMENTO ao recurso e mantenho a sentença tal como lançada” (doc. 13).
+    A apreciação do pleito recursal exigiria a interpretação da legislação infraconstitucional aplicável à espécie (Decreto estadual n. 2.479/1979 e Leis estaduais ns. 530/1982 e 1.258/1987). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide a Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL POR TEMPO DE SERVIÇO. BASE DE CÁLCULO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 833.377-AgR, de minha relatoria, Segunda Turma, DJe 5.11.2014).
+    “Agravo regimental no recurso extraordinário com agravo. Servidor estadual. Adicional por tempo de serviço. Base de cálculo. Natureza das parcelas que a integram. Discussão. Ofensa a direito local. Precedentes. 1. O recurso extraordinário não se presta para o exame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido” (ARE n. 802.575-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 9.10.2014).
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. MILITAR. ADICIONAL POR TEMPO DE SERVIÇO. BASE DE CÁLCULO. INTERPRETAÇÃO DA LEI COMPLEMENTAR ESTADUAL 731/1993 E DA CONSTITUIÇÃO DO ESTADO DE SÃO PAULO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL TRAVADO NO TRIBUNAL DE ORIGEM. APLICAÇÃO DA SÚMULA 280/STF. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 10.3.2012. A suposta ofensa aos postulados constitucionais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Incide, na espécie, o óbice da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Agravo regimental conhecido e não provido” (ARE n. 702.077-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 25.6.2013).
+    Nada há a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de dezembro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
