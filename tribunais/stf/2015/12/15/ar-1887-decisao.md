@@ -1,0 +1,28 @@
+Decisão: Trata-se de ação rescisória ajuizada por Palmasola S/A – Madeiras e Agricultura contra a União, com vistas a rescindir acórdão da Primeira Turma do STF no RE 203.411, assim ementado:
+    “1. Imposto de renda: correção monetária: demonstrações financeiras: L. 8.200/91 (art. 3º I): falta de prequestionamento dos dispositivos constitucionais suscitados no RE: acórdão recorrido fundado em decisão plenária do Tribunal "a quo", em argüição de inconstitucionalidade, da qual não se juntou cópia, nem foram opostos embargos declaratórios buscando explicitar os fundamentos da jurisprudência aplicada: incidência das Súmulas 282 e 356. 2. Agravo regimental: necessidade de impugnação da motivação da decisão agravada: pedido de desistência da ação, com renúncia ao direito em que se funda , prejudicado pelo trânsito em julgada da decisão anterior que negara seguimento ao RE, à falta de impugnação de seus fundamentos no agravo regimental.”
+(RE 203411 AgR, Rel. Min. SEPÚLVEDA PERTENCE, Primeira Turma, DJ 27.06.2003)
+    Na ação rescisória, com fundamento no art. 102, I, “j”, da Constituição Federal, aponta-se violação literal a disposição de lei, nos termos do art. 485, V, do CPC.
+    Sustenta-se, em síntese, que “nada mais havia para ser impugnado ou contestado, conforme pretende o acórdão reproduzido, já que a desistência e a respectiva renúncia do mandado de segurança haviam sido realizadas sob a proteção do artigo 269, V, do Código de Processo Civil, o qual autoriza a extinção do processo, com julgamento de mérito, quando o autor renunciar ao direito sobre o qual se fundamenta a ação”.
+    Requer-se, ao final, seja proferido novo julgamento para homologar a desistência, com vistas a obter os benefícios da anistia fiscal prevista na MP 38/2002.
+    O Ministro Carlos Velloso indeferiu o pedido de tutela antecipada, o que foi confirmado em sede de agravo interno.
+    A Ré apresentou contestação às fls. 130-132.
+    A Autora apresentou réplica ao alegado pela Ré.
+    Em momento de especificação de provas, ambas as partes solicitaram o julgamento antecipado da lide.
+    Razões finais apresentadas por ambas as partes às fls. 188-194 e 199-201.
+    A Procuradoria-Geral da República opinou pela falta de interesse processual da parte Autora.
+    Instada a se manifestar sobre seu interesse no prosseguimento do feito, a parte Autora afirmou persistir seu interesse, uma vez que resultado favorável lhe permitira obter a anistia fiscal prevista na MP 38/02 e formação de indébito tributário em seu favor.
+    É o relatório.
+    Inicialmente, extrai-se a possibilidade de homologação de pedido de desistência referente a mandado de segurança, a qualquer momento, mesmo após prolação de sentença de mérito, sem anuência da parte contrária.
+    Confiram-se, a propósito, os seguintes julgados:
+          “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL ADMITIDA. PROCESSO CIVIL. MANDADO DE SEGURANÇA. PEDIDO DE DESISTÊNCIA DEDUZIDO APÓS A PROLAÇÃO DE SENTENÇA. ADMISSIBILIDADE. “É lícito ao impetrante desistir da ação de mandado de segurança, independentemente de aquiescência da autoridade apontada como coatora ou da entidade estatal interessada ou, ainda, quando for o caso, dos litisconsortes passivos necessários” (MS 26.890-AgR/DF, Pleno, Ministro Celso de Mello, DJe de 23.10.2009), “a qualquer momento antes do término do julgamento” (MS 24.584-AgR/DF, Pleno, Ministro Ricardo Lewandowski, DJe de 20.6.2008), “mesmo após eventual sentença concessiva do ‘writ’ constitucional, (…) não se aplicando, em tal hipótese, a norma inscrita no art. 267, § 4º, do CPC” (RE 255.837-AgR/PR, 2ª Turma, Ministro Celso de Mello, DJe de 27.11.2009). Jurisprudência desta Suprema Corte reiterada em repercussão geral (Tema 530 - Desistência em mandado de segurança, sem aquiescência da parte contrária, após prolação de sentença de mérito, ainda que favorável ao impetrante). Recurso extraordinário provido.”
+(RE 669367, Rel. Min. LUIZ FUX, Rel. p/ Ac. Min. ROSA WEBER, Tribunal Pleno, DJe 30.10.2014)
+    “Agravo regimental. Processual civil. Mandado de Segurança. Possibilidade de homologação de pedido de desistência. Agravo regimental ao qual se nega provimento. 1. A jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido da possibilidade de homologação, a qualquer tempo, de pedido de desistência de mandado de segurança, ainda que tenha sido proferida decisão de mérito e independentemente da aquiescência da parte contrária. 2. Agravo regimental a que se nega provimento.
+(AI 609415 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 05.08.2011)
+    No entanto, eventual novo julgamento para homologação do pedido de desistência em nada alteraria o patrimônio jurídico da parte Autora, uma vez que a anistia fiscal pretendida não poderia ser alcançada, à luz da perda de eficácia da Medida Provisória 38/2002, tal como consta em Ato Declaratório do Presidente da Mesa do Congresso Nacional, de 10 de outubro de 2002 e publicação no DOU de 11.10.2002.
+    Em relação à conversão dos depósitos em renda, convém reproduzir o assentado pelo Parquet: “não haveria mais utilidade da prestação jurisdicional na medida em que os depósitos judiciais foram convertidos em renda. Por outro lado, a suficiência, ou não, dos depósitos para o fim de extinguir o crédito tributário (CT, art. 156, VI), não comportaria discussão no procedimento especial do mandado de segurança”. (fl. 210)
+    Ante o exposto, julgo extinta a presente ação rescisória, sem resolução do mérito, em decorrência do não preenchimento das condições da ação, nos termos dos arts. 21, §1º, RISTF, e 267, VI, do CPC.
+    Publique-se.
+    Brasília, 15 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
