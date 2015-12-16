@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL - DIREITO CONSTITUCIONAL E ADMINISTRATIVO - SERVIDORA PÚBLICA ESTADUAL APOSENTADA - LEI 19.973/2011 - REAJUSTE DE 5% - AUMENTO DE VENCIMENTO - NATUREZA SETORIAL - REVISÃO GERAL - NÃO CARACTERIZAÇÃO - EXTENSÃO À SERVIDORA CUJA CARREIRA NÃO FORA CONTEMPLADA PELO ACRÉSCIMO - DESCABIMENTO - RECURSO NÃO PROVIDO
+    1. O reajuste previsto nos arts. 8º e 9º da Lei 19.973/2011 foi concedido a apenas algumas carreiras do Poder Executivo estadual, com datas específicas, constituindo aumento vencimental de natureza setorial.
+    2. Não caracterização do reajuste como a revisão geral anual prevista no art. 37, X, da CR/88, a justificar sua extensão a outros servidores.
+    3. Recurso não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, caput; 37, X; e 93, IX, da Constituição.
+    A decisão agravada julgou prejudicado o recurso quanto à alegada violação ao art. 93, IX. Quanto aos demais dispositivos apontados, a decisão negou seguimento ao recurso sob o fundamento de que a apreciação do caso por esta instância demandaria a análise da legislação infraconstitucional posta nos autos, hipótese vedada pela Súmula 280/STF.
+    A decisão deve ser mantida. Quanto à alegada ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já firmou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, confira-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Quanto à questão de fundo, verifico que o acórdão recorrido está alinhado à jurisprudência desta Corte no sentido da constitucionalidade da concessão de reajustes setoriais para corrigir eventuais distorções remuneratórias, sem que isso implique violação ao princípio constitucional da isonomia ou ao princípio da revisão geral. Nesse sentido, veja-se a ementa do RE 307.302-ED, julgado sob a relatoria do Ministro Carlos Velloso:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: REAJUSTE DE VENCIMENTOS: REAJUSTES SETORIAIS.
+    I. - Reajustes setoriais de vencimentos de servidores públicos com a finalidade de corrigir distorções: legitimidade. Inocorrência de ofensa ao princípio da isonomia e ao princípio da revisão geral inscrita no art. 37, X, da C.F.
+     II. - Embargos de declaração conhecidos como agravo. Não provimento deste.”
+    Ademais, concluir de modo diverso demandaria o reexame da legislação local aplicável à espécie, o que atrai a incidência da Súmula 280/STF. Nessa linha, vejam-se os seguintes precedentes: ARE 765.335-AgR, Rel.ª Min.ª Cármen Lúcia; AI 612.460-AgR, Rel. Min. Gilmar Mendes; ARE 672.416-AgR, Rel. Min. Luiz Fux; ARE 672.424-AgR, Rel. Min. Ricardo Lewandowski.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 16 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
