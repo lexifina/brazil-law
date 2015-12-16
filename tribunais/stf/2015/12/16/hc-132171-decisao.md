@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Sebastião de Castro Filho e outro em favor de Antonia de Souza Araujo, contra decisão monocrática da lavra do Ministro Newton Trisotto (Desembargador convocado do TJ/SC), do Superior Tribunal de Justiça, que indeferiu a liminar no HC 329.249/RO.
+    A paciente, juntamente com outros 47 (quarenta e sete) coacusados, foi denunciada pela prática dos crimes tipificados nos arts. 171, caput, e 288, do Código Penal, c/c o art. 2º da Lei 12.694/2012 e a Lei 9.034/1995.
+    Inconformada com a alegada inépcia de denúncia, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de Rondônia, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Ministro Newton Trisotto (Desembargador convocado do TJ/SC), indeferiu a liminar no HC 329.249/RO.
+    No presente writ, os Impetrantes alegam, em síntese, inépcia da denúncia. Sustentam a falta de fundamentação da decisão de recebimento da denúncia e a atipicidade da conduta quanto aos crimes previstos “no art. 2º da Lei 12.694/2012 e com a Lei 9.034/1995, bem como do delito do artigo 171 do CP”. Requerem, em medida liminar, o sobrestamento da Ação Penal 0011353-49.2013.8.22.0501 até o julgamento final da presente impetração. No mérito, pugnam pelo trancamento da ação penal de origem.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    A Primeira Turma do Supremo Tribunal Federal e ambas as Turmas desta Corte que compõem a Terceira Seção, após evolução jurisprudencial, passaram a não mais admitir a impetração de habeas corpus em substituição ao recurso ordinário, uma vez que a competência do Pretório Excelso e a deste Superior Tribunal constituem-se em matéria de direito estrito, prevista taxativamente na Constituição da República.
+    Esse entendimento tem sido adotado sem prejuízo de, eventualmente, deferir-se a ordem de ofício, em caso de flagrante ilegalidade. Todavia, essa não é a hipótese dos autos.
+    A suspensão do trâmite de uma ação penal somente pode ser determinada quando patente o constrangimento ilegal, o que não se verifica no caso, no qual se apura crimes de autoria coletiva. Segundo a jurisprudência consolidada do Superior Tribunal de Justiça, "Nos crimes de autoria coletiva, é prescindível a descrição minuciosa e individualizada da ação de cada acusado, bastando a narrativa das condutas delituosas e da suposta autoria, com elementos suficientes para garantir o direito à ampla defesa e ao contraditório". (AgRg no AREsp 257.232/SP, Rel. Min. LAURITA VAZ, QUINTA TURMA, DJe 02/09/2014)
+    Ademais, o Pretório Excelso e esta Corte Superior entendem que "[o] trancamento da ação penal em sede de habeas corpus é medida excepcional, somente se justificando quando demonstrada, inequivocamente, a absoluta ausência de provas da materialidade do crime e de indícios de autoria, a atipicidade da conduta ou a existência de causa extintiva da punibilidade [...]" (RHC 43.677/SC, 6.ª Turma, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe 05/06/2014).
+    O deslinde da controvérsia, como se vê, demanda o aprofundamento do exame de circunstâncias fático-processuais complexas, tarefa insuscetível de ser realizada em juízo singular e prelibatório. Reserva-se, portanto, ao Colegiado, órgão competente para o julgamento do mandamus, a apreciação definitiva da matéria, depois de devidamente instruídos os autos.
+    Ante o exposto, INDEFIRO o pedido liminar.
+    Solicitem-se informações pormenorizadas do Tribunal a quo.
+    Após, remetam-se os autos ao Ministério Público Federal para o parecer”.
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    A compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 125.783/BA, de minha relatoria, 1ª Turma, DJe 27.3.2015; HC 124.052/PR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 24.11.2014; e HC 120.274/ES, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 20.6.2014.
+    Ao exame dos autos, não detecto a ocorrência de situação autorizadora do afastamento do mencionado verbete.
+    À míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 108.778/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 09.8.2011; HC 104.167/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 3.5.2011; HC 105.501, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.4.2011; e HC 90.902/RS, Rel. Min. Marco Aurélio, 1ª Turma, DJe 22.6.2007.
+    Desnecessário precipitar a resolução da questão por este Supremo Tribunal Federal via o presente habeas corpus, sobretudo porque dar trânsito ao writ significaria duplicar a instrução, que já está sendo realizada, e apreciá-lo no mérito significaria suprimir instância.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de dezembro de 2015.
+Ministra Rosa Weber
+Relatora
