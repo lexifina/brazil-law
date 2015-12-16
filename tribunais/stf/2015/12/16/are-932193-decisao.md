@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5º, caput e incisos II, XXXVI, LIV e LV, 93, IX, 146, inciso III, 154, inciso I e 195, inciso I, § 4º, da Constituição Federal.
+    A decisão recorrida se encontra como a seguir ementada:
+    “CONTRIBUIÇÃO SOCIAL. EMPREGADOR RURAL PESSOA FÍSICA. LEI Nº 8.212, DE 1992, ART. 25. CONDIÇÃO DE CONTRIBUINTE. MEIOS DE COMPROVAÇÃO.
+    É infundada a demanda proposta por autoqualificado empregador rural pessoa física, pela qual impugna a contribuição sobre a comercialização da produção rural, prevista no art. 25 da Lei nº 8.212, de 1992, com as alterações das leis nº 8.540, de 1992, e 10.256, de 2001, quando não prova a condição de contribuinte, o que poderia ser feito facilmente mediante cópia do registro de empregados em Carteira de Trabalho, cópia das folhas pertinentes do livro de registro de empregados, cópia da Relação Anual de Informações Sociais (RAIS), cópia das guias de recolhimento da contribuição previdenciária sobre o salário dos empregados etc.”
+    Decido.
+    A irresignação não merece prosperar.
+    Os dispositivos tidos por violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Além do mais, o Tribunal de origem assim se manifestou:
+    Ora, no caso dos autos, o autor deveria (e poderia) ter comprovado a condição de empregador com a petição inicial (Código de Processo Civil, art. 396) ou mesmo após a intimação do despacho feito especificamente para essa finalidade. Para tanto, bastava apresentar cópia do registro de empregados em Carteira de Trabalho, cópia das folhas pertinentes do livro de registro de empregados, cópia da Relação Anual de Informações Sociais (RAIS), cópia das guias de recolhimento da contribuição previdenciária sobre o salário dos empregados etc. O que trouxe foram apenas notas fiscais de comercialização da produção e quatro guias da previdência social, demonstrando apenas que foram feitos recolhimentos ao INSS pela adquirente Usina de Açúcar Santa Terezinha Ltda. e que comercializou produção rural - tal como, aliás, fazem os segurados especiais -, mas não que era e é empregador rural pessoa física.
+    Como se vê, para dissentir do acórdão recorrido, necessário seria o revolvimento do conjunto fático probatório, o que é vedado a teor da Súmula 279/STF.
+    No mesmo sentido:
+    Agravo regimental no recurso extraordinário. Tributário. FUNrural. Discussão acerca do enquadramento do agravante como contribuinte empregador rural pessoa física. Necessidade de reexame dos fatos e provas e da legislação ordinária. Súmula nº 279/STF. 1. O Tribunal de origem concluiu que o agravante não demonstrou ser contribuinte empregador rural pessoa física, extinguindo o processo sem resolução de mérito. Para superar tal entendimento, seria necessário reexaminar os fatos e as provas dos autos e analisar a legislação infraconstitucional, o que é inadmissível em recurso extraordinário. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido. (RE nº 813.124/PR AgR, Primeira Turma, de minha relatoria, Dje de 16/12/14)
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. (...). FUNrural. CONDIÇÃO DE EMPREGADOR RURAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO (RE nº 789.620/PR AgR, Segunda Turma, Relator o Ministro Teori Zavascki , DJe 6/3/14).
+    DIREITO PROCESSUAL. REQUISITOS DO MANDADO DE SEGURANÇA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. NECESSIDADE DE PRÉVIA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL. ACÓRDÃO RECORRIDO PUBLICADO EM 09.9.2013.(...). Necessário seria o reexame do conjunto probatório, para divergir do Tribunal de origem e, assim, assentar a condição de empregador rural do agravante, operação vedada nesta sede recursal. Incide, no caso, o óbice do enunciado 279 da Súmula desta Corte. Agravo regimental conhecido e não provido (RE 786.362-AgR/PR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe 10/4/14).
+    Diante do exposto, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 16 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
