@@ -1,0 +1,20 @@
+Decisão:
+ementa: Processual penal. Habeas corpus substitutivo. Organização criminosa. Tráfico e Associação para o tráfico. Prisão preventiva. Ausência de ilegalidade flagrante.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Ribeiro Dantas, assim ementado:
+    “PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+    1. A prisão cautelar encontra-se devidamente fundamentada na garantia da ordem pública, porquanto o recorrente é acusado de envolvimento em organização criminosa de grande porte voltada ao tráfico de entorpecentes, sendo considerado o principal fornecedor de drogas do grupo criminoso. Além disso, consta dos autos que, em 13/5/2014, a corré Roberta foi flagrada com 4,5 quilos de cocaína, supostamente fornecidos por Edigar (e-STJ, fl. 24).
+    2. Recurso em habeas corpus desprovido.”
+    2. Extrai-se dos autos que o paciente foi denunciado pelos crimes previstos no artigo 2º, § 2º, da Lei nº 12.850/13 e nos artigos 33 e 35 da Lei nº 11.343/06. O Juízo de origem decretou a prisão preventiva do paciente em 17.10.14.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Denegada a ordem, a defesa interpôs recurso ordinário perante o Superior Tribunal de Justiça, ao final desprovido.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a ausência dos requisitos necessários à decretação da prisão preventiva, nos termos do art. 312 do CPP. Daí o pedido de concessão da ordem para que seja revogada a prisão preventiva do paciente. Em caso de não deferimento da ordem, postula a defesa o deferimento das medidas previstas no art. 319 do CPP.
+    Decido.
+    5. A Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso extraordinário, previsto no art. 102, III, da Constituição Federal (HC 110.055, Rel. Min. Marco Aurélio, HC 106.158, Rel. Min. Dias Toffoli, e HC 118.568, Rel.ª Min.ª Rosa Weber). A hipótese, portanto, é de extinção do processo sem resolução do mérito por inadequação da via processual.
+    6. Não é caso de concessão da ordem de ofício.
+    7. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “a prisão cautelar com fundamento na garantia da ordem pública ressai legítima quando evidenciada a necessidade de cessar a atuação de organização criminosa constituída para a disseminação reiterada de drogas” (HC 122.911-AgR, Rel. Min. Luiz Fux). No mesmo sentido: HC 125.557, Rel.ª Min.ª Rosa Weber, HC 114.147, Rel. Min. Marco Aurélio,.
+    8. No caso de que se trata, o Juízo de origem assentou que o paciente e os demais corréus “integram organização criminosa no Bairro Laranjeiras, nesta cidade de Betim/MG, sendo responsáveis pelo tráfico de drogas no local e, por consequência, estariam envolvidos em diversos outros delitos”. Nesse contexto, decretou a custódia cautelar para a garantia da ordem pública, ressaltando que “as condutas imputadas aos investigados são de notória gravidade, havendo notícias nos autos de que os investigados seriam responsáveis pela distribuição de entorpecentes pela região do Bairro Laranjeiras nesta cidade de Betim/MG, havendo notícias nos autos de que os referidos investigados estariam planejando, inclusive, a prática de homicídios em face de integrantes de grupos de tráfico rivais”. De modo que não vejo teratologia, ilegalidade flagrante ou abuso de poder que autorize a pronta expedição do alvará de soltura do paciente.
+    9. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 16 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
