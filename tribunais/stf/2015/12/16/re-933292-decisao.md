@@ -1,0 +1,33 @@
+RECURSO EXTRAORDINÁRIO. CIVIL. CONSUMIDOR. REVISÃO CONTRATUAL DE FINANCIAMENTO. CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR A UM ANO. MEDIDA PROVISÓRIA Nº 2.170-36/2001. RECURSO PROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado, verbis:
+    “APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO GARANTIDO COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA.
+    INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. Sendo o crédito fornecido ao consumidor pessoa física para a sua utilização na aquisição de bens no mercado como destinatário final, o dinheiro funciona como produto, implicando o reconhecimento da instituição bancária/financeira como fornecedora para fins de aplicação do CDC, nos termos do art. 3º, parágrafo 2º, da Lei nº 8.078/90. Entendimento referendado pela Súmula 297 do STJ, de 12 de maio de 2004.
+    DIREITO DO CONSUMIDOR À REVISÃO CONTRATUAL. O art. 6º, inciso V, da Lei nº 8.078/90 consagrou de forma pioneira o princípio da função social dos contratos, relativizando o rigor do ‘Pacta Sunt Servanda’ e permitindo ao consumidor a revisão do contrato em duas hipóteses: por abuso contemporâneo à contratação ou por onerosidade excessiva derivada de fato superveniente (Teoria da Imprevisão). Hipótese dos autos em que o desequilíbrio contratual já existia à época da contratação uma vez que o fornecedor inseriu unilateralmente nas cláusulas gerais do contrato de adesão obrigações claramente excessivas, a serem suportadas exclusivamente pelo consumidor.
+    DECLARAÇÃO DE OFÍCIO DA NULIDADE DAS CLÁUSULAS ABUSIVAS. O art. 169, parágrafo único, do novo Código Civil (mera repetição do art. 145, parágrafo único da codificação revogada), permite ao Juiz declarar de ofício a nulidade de negócio jurídico que lhe tenha sido submetido a exame.
+    TAXA DE JUROS REMUNERATÓRIOS. Ausente qualquer justificativa por parte do fornecedor para a imposição ao consumidor de taxa de juros excessiva como obrigação acessória em contrato de consumo, o restabelecimento do equilíbrio das obrigações exige a redução da taxa de juros remuneratórios fixada em contrato de adesão. Juros reduzidos para 12% (doze por cento) ao ano, com fundamento exclusivamente no disposto no art. 52, inciso II c/c os arts. 39, inciso V e 51, inciso IV, todos da Lei nº 8.078/90. Desnecessário examinar argumentos constitucionais sobre o tema. Disposição de ofício.
+    CAPITALIZAÇÃO DE JUROS. IMPOSSIBILIDADE DE APLICAÇÃO DA MP 2.170. No caso concreto trata-se de contrato de financiamento, firmado quando ainda não vigente o novo Código Civil. Assim, não havendo autorização expressa em lei, vai vedada a incidência de capitalização dos juros remuneratórios contratados.
+    COMISSÃO DE PERMANÊNCIA. Obrigação acessória que vai afastada, na esteira de jurisprudência consolidada. A correção monetária é suficiente, e mais confiável, para servir como fator de recomposição da perda do valor real da moeda, corroída pela inflação.
+    AUTALIZAÇÃO MONETÁRIA. Fixado o IGP-M/FGV como índice de correção monetária, eis que a jurisprudência indica ser o que melhor reflete a real perda inflacionária.
+    MULTA MORATÓRIA. Mantida em 2% (dois por cento), porém, sobre o valor da parcela em atraso, nos termos do art. 52, parágrafo 1º, da Lei nº 8.078/90. Disposição de ofício.
+    COBRANÇA DE TARIFA E/OU TAXA NA CONCESSÃO DO FINANCIAMENTO. ABUSIVIDADE. Encargo contratual abusivo, porque evidencia vantagem exagerada da instituição financeira, visando acobertar as despesas de financiamento inerentes à operação de outorga de crédito. Inteligência do art. 51, IV do CDC. Disposição de ofício.
+    IOF. ABUSIVIDADE QUANTO À FORMA DE COBRANÇA. A cobrança do tributo diluído nas prestações do financiamento se afigura como condição iníqua e desvantajosa ao consumidor (CDC, art. 51, IV). Disposição de ofício.
+    DIREITO À COMPENSAÇÃO DE CRÉDITOS E À REPETIÇÃO DE INDÉBITO. Sendo apurado a existência de saldo devedor, devem ser compensados os pagamentos a maior feitos no curso da contratualidade. Caso, porém, se verifique que o débito já está quitado, devem ser devolvidos os valores eventualmente pagos a maior, na forma simples, corrigidos pelo IGP-M desde o desembolso e com juros legais desde a citação. Disposição de ofício.
+    APELAÇÃO DESPROVIDA.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, aponta violação às Emendas à Constituição nº 32/2001 e nº 40/2003.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade.
+    É o relatório. DECIDO.
+    Merece provimento o recurso.
+    Esta Suprema Corte, no julgamento do RE 592.377, Rel. Min. Marco Aurélio, DJe de 20/3/2015, reconheceu a existência de repercussão geral e pacificou o entendimento segundo o qual estão presentes os pressupostos de relevância e urgência para a edição da Medida Provisória nº 2.170-36/2001, assim como declarou válida a aplicabilidade do artigo 5º da MP em comento. Da ementa do acórdão do paradigma se destaca:
+    “CONSTITUCIONAL. ART. 5º DA MP 2.170/01. CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR A UM ANO. REQUISITOS NECESSÁRIOS PARA EDIÇÃO DE MEDIDA PROVISÓRIA. SINDICABILIDADE PELO PODER JUDICIÁRIO. ESCRUTÍNIO ESTRITO. AUSÊNCIA, NO CASO, DE ELEMENTOS SUFICIENTES PARA NEGÁ-LOS. RECURSO PROVIDO.
+    1. A jurisprudência da Suprema Corte está consolidada no sentido de que, conquanto os pressupostos para a edição de medidas provisórias se exponham ao controle judicial, o escrutínio a ser feito neste particular tem domínio estrito, justificando-se a invalidação da iniciativa presidencial apenas quando atestada a inexistência cabal de relevância e de urgência.
+    2. Não se pode negar que o tema tratado pelo art. 5º da MP 2.170/01 é relevante, porquanto o tratamento normativo dos juros é matéria extremamente sensível para a estruturação do sistema bancário, e, consequentemente, para assegurar estabilidade à dinâmica da vida econômica do país.
+    3. Por outro lado, a urgência para a edição do ato também não pode ser rechaçada, ainda mais em se considerando que, para tal, seria indispensável fazer juízo sobre a realidade econômica existente à época, ou seja, há quinze anos passados.
+    4. Recurso extraordinário provido.”
+    Logo, verifica-se que o acórdão recorrido divergiu do entendimento desta Corte, no que considerou inaplicável a Medida Provisória nº 2.170-36/2001.
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 557, § 1º-A, do Código de Processo Civil. Invertidos os ônus da sucumbência, nesse ponto.
+    Publique-se.
+    Brasília, 16 de dezembro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
