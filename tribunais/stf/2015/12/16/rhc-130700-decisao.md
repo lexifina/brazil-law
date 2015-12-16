@@ -1,0 +1,19 @@
+Decisão:
+ementa: Penal. Recurso ordinário em habeas corpus. Nulidade do processo. Supressão de instâncias. Dosimetria da pena. Ausência de ilegalidade flagrante ou abuso de poder.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de concessão de liminar, interposto contra acórdãos unânimes da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Gurgel de Faria.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 17 (dezessete) anos de reclusão, em regime inicialmente fechado, pelos crimes previstos no artigo 273, § 1º, do Código Penal e no arrigo 33, caput, c/c o artigo 66, ambos da Lei nº 11.343/2006.
+    3. O Tribunal de Justiça do Estado de Minas Gerais negou provimento à apelação da defesa.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. O writ não foi conhecido, mas a ordem foi concedida de ofício, reduzindo-se a pena aplicada ao recorrente para 8 anos de reclusão.
+    5. Na sequência, foram opostos embargos de declaração, “acolhidos, apenas para suprir a omissão verificada quanto ao regime inicial (fechado) para cumprimento da pena, SEM ATRIBUIR-LHES EFEITOS INFRINGENTES”.
+    6. Neste recurso ordinário, a parte recorrente aponta a inobservância do rito estabelecido no artigo 394, § 1º, inciso, I, do Código de Processo Penal, tendo em vista que as testemunhas de defesa teriam sido ouvidas antes das testemunhas de acusação e que o interrogatório do paciente teria sido realizado no início da instrução criminal. Sustenta a defesa a possibilidade, no caso, do reconhecimento do concurso formal de crimes, da incidência da atenuante genérica da confissão, da fixação de regime inicial mais brando e da redução da pena privativa de liberdade imposta pelas instâncias precedentes. Destaca-se, ainda, a aplicabilidade da minorante do artigo 33, § 4º, da Lei 11.343/06 na hipótese do crime previsto no artigo 273, § 1º, do Código Penal.
+    7. Com essa argumentação, o recorrente requer o provimento do recurso para “anular a ação penal ou, quando menos, minorar a pena aplicada, alterando o regimento de cumprimento de pena”.
+    Decido.
+    8. Inicialmente, verifico que as questões referentes à inobservância do rito estabelecido no artigo 394, § 1º, inciso I, do Código de Processo Penal, à possibilidade do reconhecimento do concurso formal de crimes e à aplicação da atenuante da confissão espontânea não foram apreciadas pelo Tribunal Estadual e pelo Superior Tribunal de Justiça. De modo que o recurso não pode ser conhecido nesses aspectos, sob pena de indevida supressão de instâncias (v.g HC 116.350-AgR, Relª Minª Rosa Weber, e HC 114.166, Rel. Min. Ricardo Lewandowski).
+    9. Ademais, a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence).
+    10. Por outro lado, não vejo teratologia, ilegalidade flagrante ou abuso de poder na definição do regime prisional, até mesmo por observar que “embora o quantum da pena tenha sido fixado em patamar não superior a 8 anos, as diversas circunstâncias judiciais desfavoráveis ao sentenciado, inclusive a quantidade e a natureza da droga no crime de tráfico, justificam a sua manutenção no regime fechado”.
+    11. Diante do exposto, com base no art. 38 da Lei nº 8.038/90 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 16 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
