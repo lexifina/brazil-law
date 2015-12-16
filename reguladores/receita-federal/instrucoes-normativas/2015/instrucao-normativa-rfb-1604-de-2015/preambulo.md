@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1604, de 15 de dezembro de 2015
+Altera a Instrução Normativa RFB nº 1.300, de 20 de novembro de 2012, que estabelece normas sobre restituição, compensação, ressarcimento e reembolso, no âmbito da Secretaria da Receita Federal do Brasil, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF Nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 165, 168, 169 e 170 da Lei nº 5.172, de 25 de outubro de 1966, e no § 14 do art. 74 da Lei nº 9.430, de 27 de dezembro de 1996, resolve:
