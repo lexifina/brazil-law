@@ -1,0 +1,21 @@
+DECISÃO
+JUÍZO DE RETRATAÇÃO – AGRAVO.
+COMPETÊNCIA – JUSTIÇA DO TRABALHO – SERVIDOR PÚBLICO – CONTRATAÇÃO SEM CONCURSO PÚBLICO – DATA ANTERIOR À CARTA DE 1988 – REGIME CELETISTA – FGTS – ARTIGO 19-A DA LEI Nº 8.036/90 – CONSTITUCIONALIDADE – RESSALVA – ENTENDIMENTO PESSOAL – AGRAVO DESPROVIDO.
+    1. Ao desprover o agravo, consignei:
+RECURSO EXTRAORDINÁRIO – CONTROVÉRSIA SOBRE CABIMENTO DE RECURSO DA COMPETÊNCIA DO TRIBUNAL SUPERIOR DO TRABALHO – IMPROPRIEDADE.
+    1. Nota-se que o não processamento do recurso extraordinário pelo Tribunal Superior do Trabalho tem desaguado, com verdadeira automaticidade, na interposição de agravo. Para tanto, articula-se com ofensa à Carta da República, quando, na realidade, o acórdão impugnado faz-se alicerçado em interpretação de normas estritamente legais. Na espécie, deu-se essa prática.
+    Em momento algum, o Tribunal de origem adotou entendimento conflitante com a Constituição Federal. O que se observa é a tentativa de transformar o Supremo em órgão meramente revisor das decisões prolatadas na última instância do Judiciário Trabalhista.
+    No mais, no Recurso Extraordinário nº 598.365/MG, da relatoria do ministro Ayres Britto, o denominado Plenário Virtual, assentando a natureza infraconstitucional da matéria, concluiu pela inexistência de repercussão geral do tema relativo ao cabimento de recursos da competência dos demais tribunais.
+    Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    2. Ante o quadro, conheço do agravo e o desprovejo.
+    3. Publiquem.
+    2. O reexame do processo revelou a existência de matéria constitucional que, de fato, não se limita ao cabimento de recurso da competência dos demais tribunais.
+    No mérito, contudo, o extraordinário inadmitido na origem não merece prosperar. Nas razões respectivas, são veiculadas duas questões: uma, alusiva à incompetência da Justiça do Trabalho para processar e julgar a presente ação, e outra, concernente à inconstitucionalidade do artigo 19-A da Lei nº 8.036/90, consoante o qual é devido o depósito do FGTS na conta vinculada do trabalhador cujo contrato de trabalho seja declarado nulo.
+    Quanto ao primeiro tema, o Tribunal Superior do Trabalho, ao apreciar os declaratórios interpostos pelo Estado do Piauí, assentou que “a contratação se operou antes do advento da Constituição Federal de 1988, sem prévia submissão a concurso público, o que anima a competência da Justiça do Trabalho, ante a subsistência do regime celetista”. Concluiu não estar configurada “relação jurídica administrativa e nada havendo que indique tratar-se de servidor público ocupante de cargo em comissão ou de contratação temporária regida por lei municipal, mas, sim, de contratação pelo regime da CLT, sobressai a competência desta Justiça Especializada”. Não pode o Supremo, nesta via afunilada, reexaminar elementos probatórios para afastar a natureza trabalhista da relação jurídica objeto do conflito.
+    A par desse aspecto, no Recurso Extraordinário com Agravo nº 906.491, da relatoria do ministro Teori Zavascki, submetido à sistemática da repercussão geral, o Tribunal, por meio do denominado Plenário Virtual, firmou a orientação de que compete à Justiça do Trabalho processar e julgar demandas visando obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública, por servidores que ingressaram no serviço público, antes da Constituição de 1988, sem concurso público, sob o regime celetista. Na ocasião, fiquei vencido, por entender que o tema deveria passar pelo crivo do Plenário reunido em sessão.
+    No tocante à segunda questão, na Ação Direta de Inconstitucionalidade nº 3.127, da relatoria do ministro Teori Zavascki, o Pleno assentou a compatibilidade do preceito do artigo 19-A da Lei nº 8.036/90 com a Carta da República. Na oportunidade, votei contra a sempre ilustrada maioria, consignando que a contratação de pessoal, sem concurso público, é nula e não produz efeitos.
+    3. Ante os precedentes e as balizas fixadas no acórdão recorrido, ressalvando o entendimento pessoal, reconsidero, em parte, a decisão atacada para conhecer do agravo e desprovê-lo.
+    4. Publiquem.
+Brasília, 17 de dezembro de 2015.
+Ministro MARCO AURÉLIO
+Relator
