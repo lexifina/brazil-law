@@ -1,0 +1,39 @@
+Decisão:
+    Vistos.
+    Lucas dos Santos Rodrigues interpõe agravo contra decisão que não admitiu recurso extraordinário, assentado em contrariedade ao art. 1º, inciso III, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra julgado do Superior Tribunal Militar que deu parcial provimento à apelação para retirar das condições do sursis a alínea ‘a’ do art. 626 do Código de Processo Penal Militar, mantendo-se, no mais, inalterada a sentença condenatória.
+    Os embargos de declaração opostos foram rejeitados (fls. 227-230).
+    Aduz o agravante, nas razões do extraordinário, violação
+    “ao princípio da dignidade da pessoa humana (art. 1º, inciso III, CF/88), posto que a condenação imposta ao recorrente é muito severa e absolutamente desproporcional em relação a sua conduta” (fl. 238v).
+    Busca, ainda, a aplicação dos princípios do direito penal mínimo e da subsidiariedade.
+    Examinados os autos decido.
+    Anote-se, inicialmente, que o recorrente foi intimado do acórdão proferido em sede de embargos de declaração após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07). Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá quando “não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece acolhida.
+    É certo que o Tribunal a quo ao decidir a questão, se ateve ao exame de legislação eminentemente infraconstitucional. Portanto, a violação aos preceitos constitucionais apontados, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Nesse sentido, confira-se: AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ 27/6/08; AI nº 651.927/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 30/5/08; AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ 1º/6/07; AI nº 622.527/AP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ 18/5/07; AI nº 562.809/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ 18/5/07; e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ 11/5/07, entre outros.
+    Ademais, percorrer caminho diverso da Corte Castrense, como pretendido, demandaria um reexame aprofundado do contexto fático-probatório dos autos, além de outros elementos intimamente ligados ao mérito da própria ação penal, o que é inviável na via eleita. Incidência, portanto, da Súmula nº 279/STF.
+    Perfilhando esse entendimento, destaco o seguinte julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. CRIME DE LESÃO CORPORAL. PROVA ILÍCITA. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 626.438/SP – AgR, Primeira Turma, relatora a Ministra Cármen Lúcia, DJe de 30/9/10);
+    No que tange o pedido de reconhecimento da prescrição formulado na petição de agravo, saliento, como premissa inicial, que a questão em direito penal é matéria de ordem pública e, por isso, pode ser arguida e reconhecida a qualquer tempo (CPP, art. 61), independentemente, inclusive, de prequestionamento.
+    Diante desse panorama não é possível repelir o exame da questão.
+    Na hipótese vertente, a prescrição regular-se-á pela expressão em concreto da pena privativa de liberdade, dado que o presente feito transitou em julgado para o Ministério Público Militar. A pena de detenção foi fixada em 2 (dois) meses, portanto, o lapso temporal da prescrição seria de 2 (dois) anos (CPM, art. 125, inciso VII).
+    Entretanto, o réu, à época dos fatos, era menor de 21 (vinte e um) anos, o que acarreta a redução pela metade do lapso temporal da prescrição (CPM, art. 129), resultando em 1 (um) ano.
+    Nesses termos, o último marco interruptivo fora a data da ciência da da sentença penal condenatória, ocorrida em 28/7/2014 (fl. 165v).
+    Conclui-se, portanto, que, não havendo a incidência de marco interruptivo desde aquela sentença condenatória, a consumação da prescrição da pretensão punitiva teria sido alcançada em 27/7/15 (prescrição intercorrente).
+    Porém, relevante questão merece ser analisada.
+    É que contra o acórdão proferido pelo Superior Tribunal Militar o ora agravante interpôs recurso extraordinário, o qual não foi admitido na origem.
+    Diante do insucesso do recurso manejado, o feito não escapa à jurisprudência desta Suprema Corte, preconizada no sentido de que recursos especial e extraordinário indeferidos na origem, porque inadmissíveis, em decisões mantidas pelo STF e pelo STJ, não têm o condão de empecer a formação da coisa julgada (HC nº 86.125/SP, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 2/9/05).
+    Perfilhando esse raciocínio, destaco, de minha relatoria, o seguinte julgado:
+    “Agravo regimental no agravo de instrumento. Matéria criminal. Ausência de peças de traslado obrigatório. Precedentes. Crime de apropriação indébita previdenciária. Artigo 168-A do Código Penal. Débito previdenciário incluído no programa de parcelamento ordinário de débitos tributários. Lei nº 11.941/09. Suspensão da pretensão punitiva estatal e do prazo prescricional. Artigo 68 da lei de regência. Impossibilidade. Ocorrência anterior do trânsito em julgado. Precedentes. Regimental não provido.
+    1. As cópias do acórdão recorrido e do acórdão do embargos de declaração são peças de traslado obrigatório, nos termos do art. 544, § 1º, do Código de Processo Civil. Incidência da Súmula nº 288/STF.
+    2. É da jurisprudência do Supremo Tribunal Federal que incumbe exclusivamente ao agravante a responsabilidade pela correta formação do instrumento com o completo traslado das peças, não se admitindo o suprimento de eventuais falhas ou a realização de diligências junto a esta Corte.
+    3. Na espécie, diante da jurisprudência desta Corte, preconizada no sentido de que recursos especial e extraordinário indeferidos na origem, porque inadmissíveis, em decisões mantidas pelo STF e pelo STJ, não têm o condão de empecer a formação da coisa julgada. 3. HC indeferido (HC nº 86.125/SP, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 2/9/05), o feito definitivamente transitou em julgado em 15/10/09, antes, portanto, de 19/11/09, data do pagamento da primeira parcela, momento que o parcelamento começou a produzir seus efeitos. Assim, não há falar em suspensão da pretensão punitiva.
+    4. Agravo regimental ao qual se nega provimento” (AI nº 788.612/SP-AgR, Primeira Turma, DJe de 16/11/12 - grifei).
+    Assim, extraem-se dos autos que o último recurso de que devidamente se conheceu foram os embargos declaratórios acostados às fls. 224 a 225v, cujo o defensor foi intimado de 18/5/15 (fl. 235). Por consequência, atesta-se que o presente feito transitou em julgado com o exaurimento do prazo para a interposição do apelo extraordinário em 17/6/15, antes, portanto, de 22/7/15, caso fosse considerado tão somente aquele último marco interruptivo da prescrição (sentença condenatória).
+    Nesse contexto, não há falar em consumação da prescrição da pretensão punitiva no caso em apreço.
+    Com essas considerações, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
