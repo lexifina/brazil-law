@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 145, § 1°, 150, caput e IV, e 155, § 2°, I e II, da Constituição Federal.
+    Anote-se a ementa da decisão proferida pelo Tribunal de origem:
+    “Ementa: "Tributário - ICMS - Crédito tributário glosado – Ação anulatória - Improcedência singular. Nulidade sentenciai não ocorrente - Oportunidade para a produção de prova desprezada pela acionante - Édito recorrido que se acha fundamentado, não havendo confundir concisão com omissão - Preliminar recursal afastada. Autuação fiscal - Ausência de documentos comprobatórios de creditamento e omissão quanto a estorno referente à saída de mercadorias com alíquota reduzida - Presunção de legalidade e veracidade do crédito tributário - ônus da prova a cargo do contribuinte - Dilação probatória preterida a pedido da própria - Subsistência do trabalho fiscal Legalidade da correção peta Taxa Selic -Precedentes. Inexistência de distinção, no sistema legal tributário, entre multa punitiva e moratória - Escarmento dosado em 100% do valor sonegado - Descabimento - Abusividade e caráter confiscatório - Relator que reduzia a multa para 30% do débito, por equidade e a partir da Lei Estadual 6.374/89, ficando vencido nesse ponto, porém. Recurso desprovido."
+    Decido.
+    A irresignação não merece prosperar.
+    Note-se que os artigos 145, § 1°, 150, caput, e IV, e 155, § 2°, I, da CF/88, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte.
+    No que tange à alegação de necessidade de valoração das provas dos autos, ressalte-se que é incabível recurso extraordinário para o reexame do conjunto fático probatório. Incidência do enunciado da Súmula 279 desta Corte.
+    Compulsando os autos, verifico a ausência de interesse recursal quanto ao ponto referente à multa tributária, haja vista que o próprio agravado, na peça referente ao agravo interposto contra a decisão que não admitiu o recurso extraordinário, desistiu do apelo extremo no tocante a essa matéria.
+    Ademais, verifico que o Tribunal de origem não divergiu da Jurisprudência desta corte. O Pleno no julgamento do RE nº 635.688/RS, Relator o Ministro Gilmar Mendes, em sede de repercussão geral, decidiu que há necessidade de previsão em convênio e em lei estadual para se possibilitar o aproveitamento integral dos créditos relativos ao Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago na operação antecedente, nas hipóteses em que a operação subsequente é beneficiada pela redução da base de cálculo. Confira-se ementa:
+    “Recurso Extraordinário. 2. Direito Tributário. ICMS. 3. Não cumulatividade. Interpretação do disposto art. 155, §2º, II, da Constituição Federal. Redução de base de cálculo. Isenção parcial. Anulação proporcional dos créditos relativos às operações anteriores, salvo determinação legal em contrário na legislação estadual. 4. Previsão em convênio (CONFAZ). Natureza autorizativa. Ausência de determinação legal estadual para manutenção integral dos créditos. Anulação proporcional do crédito relativo às operações anteriores. 5. Repercussão geral. 6.Recurso extraordinário não provido” (DJe de 13/2/15).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
