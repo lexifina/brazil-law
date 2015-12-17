@@ -1,0 +1,31 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR. GRATIFICAÇÃO COMPLEMENTAR – GC. EXTENSÃO AOS INATIVOS. LEI Nº 20.518/2012 DO ESTADO DE MINAS GERAIS. NATUREZA JURÍDICA. CONTROVÉRSIA DECIDIDA COM BASE EM LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA Nº 280 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. GRATIFICAÇÃO COMPLEMENTAR. LEI Nº 20.518/12. EXTENSÃO AUTOMÁTICA AOS INATIVOS. APOSENTADORIA ANTES DA EC 41/03. POSSIBILIDADE. ART. 40, § 8º DA CF/88.
+    Os servidores públicos aposentados antes da Emenda Constitucional n.º 41/03 têm direito à equiparação dos seus proventos com a remuneração estabelecida para os servidores em atividade.
+    Nos termos do § 8.º do artigo 40 da CF/88, é assegurado aos inativos o reajustamento dos proventos, visando à preservação do valor real.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 37, X, e 40, § 8º, da Constituição Federal, bem como à Súmula Vinculante nº 37 do STF.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice nas Súmulas nº 279 e nº 280 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se inexiste matéria constitucional, não há como se pretender seja reconhecida a repercussão geral das questões discutidas no caso (artigo 102, § 3º, da CF).
+    O Tribunal de origem decidiu a controvérsia nesses termos (fl. 153 e 153-v):
+    “A controvérsia cinge-se à verificação da natureza da referida vantagem. Enquanto os apelantes afirmam que a gratificação está sendo paga de forma linear e genérica, sem qualquer vinculação a critérios de produtividade, os apelados defenderam que a verba questionada só é devida aos servidores da ativa, seja por ausência de previsão legal ou em razão do seu caráter propter laborem.
+    Para o exame da questão, faz-se necessária a análise da legislação pertinente.
+    O Estado de Minas Gerais editou a Lei Estadual nº 20.518/12, que instituiu a gratificação nos seguintes termos:
+    (…)
+    Note-se que a lei em apreço não restringiu a gratificação aos servidores em atividade, limitando-se a conferir o benefício àqueles efetivos, ativos ou inativos. Trata-se, pois, de um benefício concedido de forma geral e linear aos servidores.
+    Compulsando os autos, verifica-se que a aposentadoria dos autores foi concedida entre 1994 e 1998 (fls. 18, 23, 29, 35, 39-v, 47, 53, 58 e 65), ou seja, antes da Emenda Constitucional n.º 41/2003, que alterou o artigo 40 da Constituição da República.
+    O deslinde da questão começa, portanto, na data de concessão das aposentadorias dos autores, em observância ao disposto no § 8º, do artigo 40, da CF/88, com a redação anterior à EC 41/2003, que assim estabelecia:
+    (…)
+    Considerando que a referida Gratificação Complementar não foi concedida em caráter propter laborem, haja vista que independe da produtividade ou do desempenho do servidor, sua percepção deve ser estendida aos servidores inativos.”
+    Dessa forma, a discussão sobre a natureza da Gratificação Complementar – GC implica a análise de legislação infraconstitucional local aplicável à espécie, o que encontra óbice na Súmula nº 280 do STF. Nesse sentido são os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Policial militar. Gratificação de Risco de Policiamento Ostensivo. Extensão aos inativos. 3. Natureza da gratificação. Necessidade de revolvimento da interpretação dada à legislação local. Súmula 280. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento.” (ARE 844.056-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 17/3/2015).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. NATUREZA DA VANTAGEM. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO ESTADUAL. 1. A discussão acerca da natureza jurídica de parcelas remuneratórias devidas a servidores públicos é de índole eminentemente infraconstitucional. Pelo que é de incidir a Súmula 280/STF. 2. Agravo regimental desprovido.” (AI 649.653-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe de 12/9/2011).
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula nº 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 17 de dezembro de 2015.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
