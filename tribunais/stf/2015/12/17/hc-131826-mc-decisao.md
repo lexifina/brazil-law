@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, no qual se alega demora do Superior Tribunal de Justiça para julgar o AREsp 409.902/TO, Rel. Min. Ribeiro Dantas. Consta dos autos, em síntese, que (a) o paciente foi pronunciado pela suposta prática de homicídio qualificado (art. 121, § 2º, I, III e IV); (b) buscando a desclassificação da conduta para o crime de homicídio privilegiado (art. 121, § 1º, do CP), a defesa interpôs recurso em sentido estrito para o Tribunal de Justiça do Estado de Tocantins, que, no entanto, lhe negou provimento; (c) contra essa decisão, interpôs recurso especial, não admitido na origem, e agravo nos próprios autos, o qual, embora distribuído em 27/9/2013, ainda não foi julgado.
+    Nesta ação, os impetrantes alegam, em síntese, que “o paciente encontra-se privado de sua liberdade há quase 45 meses ou aproximadamente 3 anos e 9 meses, sem que haja seu julgamento do processo criminal, (…) ferindo o princípio constitucional da inafastabilidade do poder judiciário em conformidade com art. 5º, inciso LIV, da Constituição Federal”. Requerem, liminarmente, a revogação da prião cautelar, “até que seja transitada e julgado a sentença penal condenatória (…)”. No mérito, pede a confirmação da liminar pleiteada.
+    2. As questões suscitadas não evidenciam hipóteses que autorizem, liminarmente, a revogação da prisão cautelar do paciente, sobretudo se considerado que não há notícia de que a defesa tenha diligenciado diretamente ao Superior Tribunal de Justiça com a finalidade de obter a pretensão aqui formulada. Consideradas as circunstâncias da causa, o exame da pretensão será feito no momento próprio, em caráter definitivo.
+    3. Ante o exposto, indefiro o pedido de liminar. Solicitem-se informações ao Superior Tribunal de Justiça. Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 17 de dezembro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
