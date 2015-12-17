@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Segunda Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, cujos fundamentos reproduzo (eDOC 65):
+    “Dessa forma, admitindo-se o cômputo do tempo de serviço posterior à data da entrada do requerimento para fins de concessão do benefício de Aposentadoria por Tempo de Contribuição, dou parcial provimento ao recurso interposto pela parte autora para conceder o benefício de Aposentadoria por Tempo de Contribuição (14/01/2008), nos termos do art. 201, § 7º, inciso I, da Constituição Federal, com renda mensal inicial (RMI) fixada em 100% do salário-de-benefício, cujo cálculo deverá obedecer à sistemática posterior à Lei nº 9.876/99.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput, 97, 195, caput, 195, § 5º, 201, § 11, da Constituição Federal.
+    Nas razões recursais, aduz com a impossibilidade de o beneficiário “cindir título executivo judicial de forma a executar a parte que lhe é favorável, renunciando a que lhe é desfavorável” (eDOC 75, p. 6).
+    Decido.
+    Inicialmente, observo que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de Origem não cuidaram das referidas normas. Incidem na espécie as Súmulas 282 e 356 desta Corte.
+    Nesse contexto, constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo, notadamente sobre a possibilidade de concessão de benefício de Aposentadoria por Tempo de Contribuição, ainda que computadas as contribuições previdenciárias vertidas após a data de entrada do requerimento (DER), mas antes do início do benefício, demandaria a análise de legislação infraconstitucional aplicável a espécie.
+    Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula 279/STF.
+    No mesmo sentido deste julgado colaciono os seguintes precedentes: RE 906.499, Rel. Min. Dias Toffoli, DJe de 23.09.2015; RE 891.891, rel. Min. Roberto Barroso, DJe de 10.06.2015; ARE 905.014, Rel. Min. Luiz Fux, DJe de 31.08.2015, este último assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PERCEPÇÃO DO BENEFÍCIO CONCEDIDO ADMINISTRATIVAMENTE NO CURSO DA AÇÃO, MAIS VANTAJOSO, E EXECUÇÃO DAS PARCELAS ATRASADAS DO BENEFÍCIO POSTULADO EM JUÍZO. RECURSO EXTRAORDINÁRIO QUE NÃO ATACA TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283/STF. INCIDÊNCIA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.”
+    Por fim, afasta-se a nulidade alegada com base no artigo 97 da Carta da República, visto que o Tribunal de origem não declarou a inconstitucionalidade de dispositivo normativo, mas apenas interpretou norma legal.
+    Assim, a jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula de reserva de plenário, o que não se verificou no caso concreto.
+    Precedentes: AI-AgR 848.332, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 24.4.2012, e ARE-AgR-ED 736.780, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 22.5.2015.
+    Ante o exposto, nego seguimento ao recurso extraordinário com fundamento nos artigos 21, § 1º, do RISTF, e 557, caput , do CPC.
+    Publique-se.
+    Brasília, 17 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
