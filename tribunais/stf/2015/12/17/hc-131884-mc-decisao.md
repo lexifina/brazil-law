@@ -1,0 +1,17 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão do Superior Tribunal de Justiça proferido no REsp 1.401.083/SC, Rel. Min. Moura Ribeiro. Consta dos autos, em síntese, que (a) o paciente foi pronunciado pela suposta prática de um homicídio consumado (art. 121 do CP) e outro tentado (art. 121 c/c art. 14, II, do CP), em razão de acidente automobilístico ocorrido em via pública; (b) buscando a desclassificação da conduta para os crimes de homicídio culposo (art. 302 do CTB) e lesão corporal culposa (art. 303 do CTB), a defesa interpôs recurso em sentido estrito para o Tribunal de Justiça do Estado de Santa Catarina, que, no entanto, lhe negou provimento; (c) houve, ainda, embargos de declaração, rejeitados; (d) contra essa decisão, interpôs recurso especial para o STJ, o qual, admitido na origem, foi parcialmente conhecido e, nessa extensão, provido, em acórdão assim ementado:
+    “(…)
+    1. O defeito de fundamentação na pronúncia implica nulidade, por afrontar o princípio da soberania dos veredictos.
+    2. A pronúncia deve se limitar à indicação da materialidade do fato e à existência de indícios suficientes de autoria, uma vez que se trata de mero judicium accusationis (art. 413, § 1º, do Código de Processo Penal).
+    3. A decisão de pronúncia e o acórdão que analisou o recurso em sentido estrito, ao proferirem verdadeiro juízo condenatório, incorreram no excesso de linguagem que poderá influir na convicção dos jurados, em prejuízo à defesa.
+    4. Não há que se falar em violação ao art. 619, do Código de Processo Penal, pois a matéria do excesso de linguagem não foi arguida no momento oportuno pelo recorrente e o Tribunal de origem entendeu pela nulidade relativa do vício apontado. Dessa forma, não se confunde a ausência de manifestação sobre o tema com o vício da omissão que autoriza a oposição dos aclaratórios.
+    5. O deslinde da controvérsia sobre o elemento subjetivo do crime, se o acusado atuou com dolo eventual ou culpa consciente, é de competência do Tribunal do Júri.
+    6. Ausência de afronta ao art. 384, do Código de Processo Penal, pois o réu se defende dos fatos narrados na denúncia e não da capitulação jurídica realizada pelo órgão acusador.
+    7. Recurso especial conhecido em parte e provido para reconhecer o excesso de linguagem, determinando-se que o Juízo de primeiro grau providencie o desentranhamento da pronúncia e do acórdão que julgou o recurso em sentido estrito, arquivando-os em pasta própria, mandando certificar nos autos a condição de pronunciado do recorrente, com a menção dos dispositivos legais nos quais ele foi julgado incurso, bem como o acórdão que manteve aquela decisão, prosseguindo-se o processo”.
+    Nesta ação, os impetrantes alegam, em síntese, que não estão presentes as circunstâncias configuradoras de dolo (eventual), devendo as condutas atribuídas ao paciente serem desclassificadas para os delitos de homicídio culposo e lesão corporal culposa previstos no Código de Trânsito Brasileiro (arts. 302 e 303). Requerem, liminarmente, a suspensão da ação penal e, no mérito, a desclassificação das condutas.
+    2. Consideradas as especiais circunstâncias da causa, o exame da pretensão será feita no momento próprio, em caráter definitivo.
+    3. Ante o exposto, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 17 de dezembro de 2015.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
