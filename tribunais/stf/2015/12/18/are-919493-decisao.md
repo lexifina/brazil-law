@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 4ª Turma do Tribunal Regional Federal da 5ª Região, assim ementado (fls. 129) :
+    “Constitucional e Administrativo. Servidor Público Federal. Impossibilidade do Poder Executivo rever ato do Poder Judiciário, sem o devido processo legal. Incorporação de quintos. Lei nº 9.527/97. Extinção dos quintos e transformação em VPNI. Lei nº 9.624/98. Conversão para décimos. MP nº 2225-45/2001. Referência aos arts. 3º e 10 da Lei nº 8911/94. Possibilidade de incorporação de décimos relativos ao exercício de função comissionada no período de 09 de abril de 1998 a 04 de setembro de 2001 e transformação em VPNI. Direito à percepção das parcelas pretéritas. Advogado Geral da União. Remuneração através de subsídio. Vantagens pessoais – VPNI. Cumulação. Impossibilidade. Respeito ao princípio da irredutibilidade salarial. Inocorrência de afronta à Constituição Federal. Precedentes desta Corte. Apelação e remessa oficial parcialmente providas.”
+    Os embargos de declaração foram rejeitados. (Fls. 139-143)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI, e 37, XIII e XIV, da Constituição Federal.
+    Nas razões recursais, a sustenta-se, em suma, que “a parte recorrida não tem direito à incorporação integral dos quintos postulados, eis que tal gratificação só existiu durante determinado período, sendo posteriormente transformada em décimos, através de ato normativo válido, ou seja, através da MP Nº 1480/96 e suas reedições, convertidas e convalidadas pela Lei nº 9.624/98.” (Fls. 177)
+    Alega, ainda, que “de acordo com a documentação colacionada aos autos, a servidora prestou os serviços no período entre 12/11/1993 e 29/10/2001” e “para efeito de incorporação, conta-se apenas o período até 08/04/98, concluindo-se a contagem de apenas 4 (quatro) anos completos, daí porque a autora está recebendo, acertadamente, apenas o correspondente a 4/5 (quatro quintos) da função outrora exercida.” (Fls. 177)
+    O Tribunal a quo não admitiu o recurso extraordinário, com fundamento na existência de ofensa indireta ou reflexa à Constituição Federal. (Fls. 202)
+    É o relatório. Decido.
+    Conforme se depreende da leitura da ementa do acórdão recorrido, o Tribunal de origem decidiu a questão com fulcro na legislação local. Sendo assim, eventual divergência em relação ao entendimento por ele adotado demandaria a análise da legislação infraconstitucional aplicável à espécie (Lei nº 9.624/98 e outras citadas no recurso), o que inviabiliza o processamento do apelo extremo, nos termos da vedação contida na Súmula 280 do STF.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento, nos termos do arts. 544, §4º, II, “a”, do CPC e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
