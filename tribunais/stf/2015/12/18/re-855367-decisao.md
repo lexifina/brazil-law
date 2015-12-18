@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “AÇÃO CIVIL PÚBLICA. IMPOSSIBILIDADE DE INTERVENÇÃO DO PODER JUDICIÁRIO NA ADMINISTRAÇÃO. - É vedado ao Poder Judiciário intervir na Administração, sob pena de quebra do princípio da independência dos poderes.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 2° e 225 da Constituição.
+    A Procuradoria-Geral da República, em parecer de lavra do Subprocurador-Geral Paulo Gustavo Gonet Branco, opina pelo provimento do recurso extraordinário, sustentando que “a inércia governamental no adimplemento de prestações positivas impostas ao Poder público pela Constituição Federal é uma forma de violação negativa não somente ao texto constitucional, mas principalmente, aos direitos e garantias fundamentais nele estabelecidos […] Não se tolera que a implementação de direitos consagrados no texto constitucional fique à mercê da conveniência administrativa e, em último caso, do descaso governamental com direitos básicos do cidadão” .
+    O recurso deve ser provido. Isso porque o acórdão recorrido não está alinhado à jurisprudência do Supremo Tribunal Federal, que afirma a possibilidade, em casos emergenciais, de implementação de políticas públicas pelo Judiciário, ante a inércia ou morosidade da Administração, como medida assecuratória de direitos fundamentais. Não se trata, aqui, de interferir na competência do Poder Executivo quanto à conveniência e oportunidade para a realização de políticas públicas – e a consequente disposição de recursos para tal fim – mas, sim, de assegurar a proteção do direito ao meio ambiente equilibrado. Direito este que não está protegido por norma constitucional meramente programática. Nessa linha, vejam-se os seguintes julgados:
+    “AGRAVOS REGIMENTAIS. RECURSOS EXTRAORDINÁRIOS. POLÍTICAS PÚBLICAS. DETERMINAÇÃO PELO PODER JUDICIÁRIO. LIMITES ORÇAMENTÁRIOS. VIOLAÇÃO À SEPARAÇÃO DOS PODERES. INOCORRÊNCIA. AGRAVOS A QUE SE NEGA PROVIMENTO.
+    I – A jurisprudência desta Corte entende ser possível ao Poder Judiciário determinar ao Estado a implementação, ainda que em situações excepcionais, de políticas públicas previstas na Constituição, sem que isso acarrete contrariedade ao princípio da separação dos poderes.
+    II – Importa, ainda, acentuar, quanto aos alegados limites orçamentários aos quais estão vinculados os recorrentes, que o Estado, ressalvada a ocorrência de motivo objetivamente mensurável, não pode se furtar à observância de seus encargos constitucionais.
+    III – Agravos regimentais a que se nega provimento.” (Segunda Turma, RE 595.129-AgR, Rel. Min. Ricardo Lewandowski)
+    “Agravo regimental no recurso extraordinário. Constitucional. Ação civil pública. Defesa do meio ambiente. Implementação de políticas públicas. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Insuficiência orçamentária. Invocação. Impossibilidade. Precedentes.
+    1. A Corte Suprema já firmou a orientação de que é dever do Poder Público e da sociedade a defesa de um meio ambiente ecologicamente equilibrado para as presentes e futuras gerações.
+    2. Assim, pode o Poder Judiciário, em situações excepcionais, determinar que a Administração pública adote medidas assecuratórias desse direito, reputado essencial pela Constituição Federal, sem que isso configure violação do princípio da separação de poderes.
+    3. A Administração não pode justificar a frustração de direitos previstos na Constituição da República sob o fundamento da insuficiência orçamentária.
+    4. Agravo regimental não provido.” (Primeira Turma, RE 658.171-AgR, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 557, § 1º-A, do CPC e no art. 21, § 2º do RI/STF, dou provimento ao recurso extraordinário, a fim de restabelecer a condenação constante da sentença. Invertidos os ônus sucumbenciais.
+    Publique-se.
+          Brasília, 18 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
