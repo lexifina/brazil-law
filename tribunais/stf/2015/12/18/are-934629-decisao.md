@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO - REVISÃO DE APOSENTADORIA - DEFENSOR PÚBLICO INTEGRADO NA CARREIRA PELA LC65/03 - INCONSTITUCIONALIDADE - APLICAÇÃO DA REGRA TRANSITÓRIA DA EC41/2003 - EXIGÊNCIA DE DEZ ANOS NA CARREIRA – NÃO CUMPRIMENTO.
+    1 - O Supremo Tribunal Federal reconheceu a inconstitucionalidade, com modulação de efeitos, do art. 140 da LC 65/03, que considerava integrante da carreira da Defensoria Pública do Estado de Minas Gerais os servidores estaduais investidos na função na data de sua publicação. Logo, a partir da eficácia da decisão, não mais se pode considerá-los como integrantes da carreira, para fins de cálculo do decênio exigido pelo art. 6º da EC41/03.
+    2 - Recurso desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 6º; 7º, XXIV; 40, e 93, IX, da Constituição e ao art. 6º, IV, da EC 41/2003. Sustenta que “exerceu todas as funções inerentes ao cargo de Defensora Pública Estadual no período de 1994 a 2008 ininterruptamente, razão pela qual cumpriu o requisito mínimo de 10 anos na carreira para concessão da aposentadoria integral e com paridade.”
+    O recurso extraordinário não deve ser provido.
+    Quanto à alegada violação ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, confira-se:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes).”
+    Quanto ao mérito, o Tribunal de origem assentou que a recorrente não cumpriu o tempo mínimo na carreira para poder gozar do benefício requerido. Desse modo, dissentir dessa conclusão demandaria uma nova análise da legislação infraconstitucional aplicada ao caso e uma reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em sede de recurso extraordinário.
+    Diante do exposto, com base no art. 544, § 4º, II, b , do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 18 de dezembro de 2015.
+      Ministro LUÍS ROBERTO BARROSO
+Relator
