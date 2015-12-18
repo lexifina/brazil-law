@@ -1,0 +1,24 @@
+Decisão: Trata-se agravo interposto contra decisão que inadmitiu o recurso extraordinário em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PARA FINANCIAMENTO DE BENEFÍCIOS PREVIDENCIÁRIOS CONCEDIDOS POR INCAPACIDADE LABORATIVA DECORRENTE DE RISCOS AMBIENTAIS DO TRABALHO (RAT). MUNICÍPIO. MAJORAÇÃO DA ALÍQUOTA. DECRETO Nº 6.042/07.
+    Sentença que considera válido o aumento promovido pelo Decreto nº 6.042/07 na alíquota da contribuição cobrada dos municípios para financiamento de benefícios previdenciários concedidos por incapacidade laborativa decorrente de riscos ambientais do trabalho (RAT).
+    Apelação reafirmando a ausência de razoabilidade e de fundamentação técnica para o aumento e defendendo o direito de compensar os indébitos correlatos configurados nos cinco anos que precederam ao ajuizamento da ação.
+    Os empregadores estão obrigados a concorrer para o financiamento de benefícios previdenciários concedidos por incapacidade laborativa decorrente de riscos ambientais do trabalho conforme o grau de risco definido para sua atividade preponderante.
+    A definição das atividades econômicas e a avaliação dos riscos de acidentes a elas correlatas são tarefas confiadas exclusivamente ao Executivo, segundo critérios próprios de conveniência, oportunidade e justiça, mas mesmo esses critérios discricionários encontram limites na razoabilidade e, sob esse aspecto, são sindicáveis pelo Judiciário.
+    Não é razoável exigir que municípios cuja principal atribuição é o ensino fundamental concorram para o financiamento de benefícios decorrentes de riscos ambientais de trabalho sob alíquota maior que a prevista para empresas com atividade preponderante idêntica. Precedentes de todas as turmas deste Regional (APELREEX nº 17.021/PB, Primeira Turma, Des. Federal Francisco Cavalcanti, DJe 09/06/11; APELREEX nº 16.732/PE, Segunda Turma, Des. Federal Francisco Barros Dias, DJe: 12/05/11; APELREEX nº 5.787/PE, Terceira Turma, Des. Federal Geraldo Apoliano, Dje: 10/03/11; AC nº 518.029/RN, Quarta Turma, Des. Federal Margarida Cantarelli, DJe: 12/05/11).
+    Tratando-se de mecanismo destinado a ajustar a tributação "em razão do desempenho da empresa em relação à respectiva atividade econômica" o Fator Acidentário Previdenciário não se presta à correção de incoerências do quadro que estabelece os riscos ambientais das atividades econômicas. Pelo contrário, sua eficácia pressupõe o enquadramento correto do contribuinte.
+    A compensação de crédito declarado judicialmente há de seguir a legislação vigente ao tempo da propositura da ação (EREsp nº 488.992/MG, STJ, 1ª Seção, Min. Teori Albino Zavascki, DJ 07/06/04, p. 156). Quando, porém, o provimento jurisdicional limita-se a garantir preventivamente o direito à compensação, sem maiores especificações, a legislação a ser observada é a vigente ao tempo do encontro de contas.
+    Apelação provida para declarar o direito do autor de não se submeter à majoração promovida pelo Decreto nº 6.042/07, e mantida pelo Decreto nº 6.957/09, na alíquota da contribuição prevista no art. 22, II, da Lei nº 8.212/91 e, também, o direito de compensar eventuais indébitos tributários, após a composição definitiva da lide, observada a legislação vigente ao tempo do encontro decontas e ressalvada a fiscalização da Fazenda.” (eDOC. 2, p. 29)
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 97 da Constituição Federal. (eDOC 2, p. 46-54)
+    Nas razões recursais, sustenta-se afronta à reserva de plenário.
+    A Vice-Presidência do TRF-5 inadmitiu o recurso por entender que não houve violação a cláusula de reserva de plenário, mas sim interpretação de normas legais, de modo que a controvérsia ofenderia apenas indiretamente à Constituição Federal. (eDOC 2, p. 72)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, afasta-se a nulidade alegada quanto à alegação de suposta violação à reserva de plenário. Isso porque o Tribunal de origem não declarou a inconstitucionalidade de dispositivo normativo, mas apenas interpretou norma legal.
+    Assim, a jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula de reserva de plenário, o que não se verificou no caso concreto.
+    Confiram-se, a propósito, os seguintes julgados: AI-AgR 848.332, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 24.4.2012, e ARE-AgR-ED 736.780, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 22.5.2015.
+     Ante o exposto, conheço do agravo para negar-lhe provimento, nos termos dos arts. 544, § 4º, II, a, CPC.
+    Publique-se.
+    Brasília, 18 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
