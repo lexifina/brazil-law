@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido de medida liminar, proposta por ex-prefeito do Município de Rosário do Sul/RS, cassado por ato da respectiva Câmara Municipal.
+    Alega, nestes autos, que decisão liminar da 1ª Vara Cível da Comarca de Rosário do Sul/RS e acórdão da 1ª Câmara Cível do TJ/RS (autos nº 0004168-72.2018.8.21.0062 e 0380099-49.2015.8.21.7000, respectivamente) teriam afrontado a Súmula Vinculante 46. Sustenta que os órgãos reclamados deveriam ter reconhecido vício no Decreto Legislativo nº 08/2015 daquela Câmara Municipal, derradeiro ato do processo por infração político-administrativa a que foi submetido o reclamante, em razão do uso do termo “extinção do mandato” no lugar de “cassação”.
+    É o relatório. Decido.
+    Estando o feito suficientemente instruído, dispenso as informações, bem como o parecer ministerial (RI/STF, art. 52, parágrafo único).
+    A Súmula Vinculante 46 (resultante da conversão da Súmula 722) foi editada por esta Corte após reiterados precedentes que, com base no art. 22, I, da CRFB/1988, afirmaram a inconstitucionalidade de normas estaduais e municipais que previam crimes de responsabilidade ou dispunham sobre seu processo e julgamento. Concluiu-se que, independentemente da esfera a qual vinculado o agente político, estará ele submetido ao regramento federal: Lei nº 1.079/50 ou Decreto-Lei nº 201/67.
+    Assim, haverá afronta à competência privativa da União, quando Assembleia Legislativa ou Câmara de Vereadores aplicar lei estadual ou municipal, relativamente à definição das infrações ou ao processo e julgamento de crimes de responsabilidade.
+    No caso, o reclamante alega que teria havido vício em sua cassação, em virtude do fato de o ato de cassação ter mencionado a “extinção” do mandato, e não a sua “cassação”, o que seria uma demonstração de não aplicação do regramento do Decreto-Lei nº 201/1967 ao processo de cassação.
+    A mera imprecisão na terminologia jurídica empregada para cassar o mandato da parte reclamante não configura vício à Súmula Vinculante nº 46, pois não tem qualquer relação com a questão da competência para definir as hipóteses de crimes de responsabilidade ou para estabelecer as respectivas normas de processo e julgamento, que são da União.
+    Saliento, por fim, que a inadmissão da reclamação não implica, necessariamente, a afirmação do acerto da decisão reclamada, que deve ser impugnada pela via recursal própria. É que a reclamação não presta à mera análise de suposta desconformidade de ato com o direito objetivo, sob pena de desnaturar-se a via em substitutiva de recurso. Nesse sentido: Rcl 5.063 AgR, Rel. Min. Ayres Britto; Rcl 4.381 AgR, Rel. Min. Celso de Mello; Rcl 4.119 AgR, Rel. Min. Cármen Lúcia; Rcl 5.391 AgR, Rel. Min. Dias Toffoli, entre outros.
+    Diante do exposto, com fundamento no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, prejudicada a análise do pedido liminar.
+    Publique-se.
+    Brasília, 18 de dezembro de 2015.
+Ministro LUÍS ROBERTO BARROSO
+Relator
