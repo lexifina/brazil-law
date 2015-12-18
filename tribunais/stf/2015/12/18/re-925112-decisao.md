@@ -1,0 +1,18 @@
+DECISÃO : Trata-se de recurso extraordinário interposto em face do acórdão da Turma Recursal da Seção Judiciária do Distrito Federal Tribunal de Justiça do Distrito Federal, assim ementado. (fls. 108)
+    “CONSTITUCIONAL. ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDO PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE INDIGENISTA (GDAIN). PERCENTUAL DIFERENCIADO. SERVIDORES ATIVOS E INATIVOS/PENSIONISTAS. MEDIDA PROVISÓRIA Nº 441/2008. LEI Nº 11.907/2009. RECURSO IMPROVIDO. SENTENÇA MANTIDA.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 40, § 8º; 61, § 1º, II, “a” e 169, parágrafo único, da Constituição Federal, bem como a Súmula 339, do Supremo Tribunal Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a pretensão em obter o pagamento da GDAIN em percentual superior ao estabelecido na lei, viola expressamente os comandos da Lei nº. 11.907/2009, merecendo, portanto, ser prontamente rechaçada.”(fls. 119)
+    Aduz, ainda, que “Como gratificação de desempenho, não há como ser estendida aos servidores inativos em seu valor máximo, pois estes não estão mais no desempenho de suas funções e não podem ser objeto de avaliação para fixação do valor da gratificação.”(fls. 120)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Conforme se depreende da leitura do acórdão recorrido, o Tribunal de origem entendeu que a gratificação em questão tem caráter genérico, uma vez que no momento da concessão não houve distinção entre servidores ativos e inativos.
+    Em situações semelhantes, esta Corte tem estendido o entendimento firmado no julgamento da citada GDATA a outros casos em que se discutem gratificações similares no sentido de que a falta de regulamentação do processo de avaliação de desempenho confere às gratificações uma natureza de generalidade.
+     “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. APOSENTADORIA. PARIDADE REMUNERATÓRIA. § 8º DO ART. 40 DO MAGNO TEXTO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE PERITO FEDERAL AGRÁRIO (GDAPA). EXTENSÃO NOS MESMOS VALORES PAGOS A SERVIDORES ATIVOS. CRITÉRIOS DE AVALIAÇÃO JÁ REGULAMENTADOS. 1. A ausência de regulamentação do processo de avaliação de desempenho, tal como previsto na Lei federal 10.550/2002, confere à GDAPA um caráter de generalidade. Pelo que a vantagem é de ser estendida aos servidores aposentados em paridade de condições com os ativos apenas no período que antecedeu a citada regulamentação. 2. Agravo regimental desprovido” (AI n° 845.833/PR-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 13/4/12).
+     Confiram-se as seguintes decisões monocráticas: RE n. 794.586, Relator o Ministro Luiz Fux, DJe 2.4.2014, trânsito em julgado em 22.4.2014; RE n. 794.506, Relatora a Ministra Rosa Weber, DJe 24.2.2014, trânsito em julgado em 17.3.2014; RE n. 794.575, Relator o Ministro Ricardo Lewandowski, DJe 13.2.2014, trânsito em julgado em 27.2.2014; RE n. 746.406, Relator o Ministro Dias Toffoli, DJe 27.8.2013, trânsito em julgado em 23.9.2013; e RE n. 758.594, Relator o Ministro Roberto Barroso, Dje 4.9.2013, trânsito em julgado em 23.9.2013.
+    Além disso, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o exame das provas dos autos e da legislação infraconstitucional aplicável à espécie (Lei 11.907/2009), o que inviabiliza o processamento do apelo extremo, nos termos das Súmulas 279 e 280 do STF.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos arts. 557, caput, do CPC e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
