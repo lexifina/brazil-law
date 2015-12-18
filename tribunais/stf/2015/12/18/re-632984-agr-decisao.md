@@ -1,0 +1,24 @@
+DECISÃO: Reconsidero a decisão ora agravada, restando prejudicado, em consequência, o exame do recurso contra ela interposto.
+    Passo, desse modo, a apreciar o presente apelo extremo.
+    O recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “APELAÇÃO – MANDADO DE SEGURANÇA – ICMS DEVIDO COM A IMPORTAÇÃO DE MERCADORIAS – DIVERGÊNCIA REFERENTE À LEGITIMIDADE ENTRE ENTIDADES FEDERATIVAS – DESTINAÇÃO FÍSICA DA MERCADORIA – SE DA EMPRESA IMPORTADORA – IRRELEVÂNCIA – TRIBUTO DEVIDO AO ESTADO DE SÃO PAULO – RECURSO IMPROVIDO.”
+    (APELAÇÃO CÍVEL nº 356.812.5/6-00)
+    A parte recorrente sustentou que o Tribunal “a quo” teria transgredido preceito inscrito na Constituição da República.
+    O exame da presente causa evidencia que o apelo extremo em questão mostra-se processualmente viável.
+    Com efeito, a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (RTJ 200/1356, Rel. Min. AYRES BRITTO – AI 620.448-AgR/RS, Rel. Min. RICARDO LEWANDOWSKI – AI 635.746-AgR-AgR/MG, Rel. Min. EROS GRAU – RE 430.372-AgR/MG, Rel. Min. JOAQUIM BARBOSA – RE 601.055-AgR-Segundo/MG, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “O ICMS incidente na importação de mercadoria é devido ao Estado onde estiver localizado o destinatário jurídico do bem, isto é, o estabelecimento importador: precedente (RE 299.079, Carlos Britto, Inf/STF 354).”
+    (RE 396.859-AgR/RJ, Rel. Min. SEPÚVEDA PERTENCE)
+    Impõe-se destacar, por oportuno, a manifestação favorável da douta Procuradoria-Geral da República, que, ao opinar, nestes autos, pelo acolhimento do pleito recursal em referência, formulou corretíssimo parecer assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL E TRIBUTÁRIO. IMPORTAÇÃO. ICMS. ART. 155, § 2º, IX, A, DA CF. DESTINATÁRIO JURÍDICO DA MERCADORIA. PRECEDENTES.
+    1. O Excelso Pretório firmou o entendimento no sentido de ser devido o ICMS ao Estado em que localizado o destinatário jurídico da mercadoria, ou seja, o importador, nos termos do art. 155, § 2º, IX, a, da Constituição Federal. Precedentes.
+    2. O desembaraço aduaneiro e a ausência de circulação de mercadoria no território do estado onde está localizado o importador são irrelevantes para o conceito de destinatário jurídico. O que se indaga é quem foi o importador, pessoa efetivamente responsável pelo negócio jurídico que subsidiou a operação que trouxe os produtos ao território nacional. Assim, a entrada física dos bens em estabelecimento da pessoa jurídica ou física não é critério decisivo na identificação do sujeito ativo. Precedente.
+    3. Parecer pelo provimento do agravo regimental no recurso extraordinário.”
+    Entendo assistir razão ao parecer da douta Procuradoria-Geral da República, no ponto em que opina pelo provimento do recurso extraordinário, cujos termos adoto como fundamento da presente decisão, valendo-me, para tanto, da técnica da motivação “per relationem”, reconhecida como plenamente compatível com o texto da Constituição (AI 738.982/PR, Rel. Min. JOAQUIM BARBOSA – AI 809.147/ES, Rel. Min. CÁRMEN LÚCIA – AI 814.640/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 662.029/SE, Rel. Min. CELSO DE MELLO – HC 54.513/DF, Rel. Min. MOREIRA ALVES – MS 28.989- -MC/PR, Rel. Min. CELSO DE MELLO – RE 37.879/MG, Rel. Min. LUIZ GALLOTTI – RE 49.074/MA, Rel. Min. LUIZ GALLOTTI, v.g.):
+    “Reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação ‘per relationem’, que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado – referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir. Precedentes.”
+    (AI 825.520-AgR-ED/SP, Rel. Min. CELSO DE MELLO)
+    O exame da presente causa evidencia – como anteriormente enfatizado – que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e considerando as razões expostas, conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º-A), em ordem a conceder o mandado de segurança impetrado pela recorrente. No que concerne à verba honorária, revela-se aplicável a Súmula 512/STF, reafirmada, agora, pelo art. 25 da Lei nº 12.016/2009.
+    Publique-se.
+    Brasília, 18 de dezembro de 2015.
+Ministro CELSO DE MELLO
+Relator
