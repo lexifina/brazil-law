@@ -1,0 +1,22 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. PRINCÍPIOS DA LEGALIDADE, ANTERIORIDADE E ANUALIDADE.
+    A simples alteração dos valores do metro quadrado, para fins de IPTU, faz-se por lei ordinária, dispensado quorum especial, tal como dimana dos artigos 47, CF/88, e 51, CE/89, tendo ocorrido, tal qual evidencia a melhor prova, as devidas votação, sanção e publicação da lei ainda no ano de 2010, possibilitando a cobrança do IPTU, com os novos valores, quanto ao exercício de 2011”.
+    A pretensão recursal não merece prosperar, tendo em vista que dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, providência vedada nesta fase processual (Súmulas 279 e 280/STF). Nesse sentido, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPTU. Base de cálculo. Majoração do tributo. Instrução Normativa nº 001/2011 da Secretaria de Finanças do Município do Recife e lei Municipal. Reexame de legislação infraconstitucional. Ofensa constitucional indireta. 1. Para superar o entendimento do Tribunal de origem e acolher a pretensão recursal, especialmente para saber se existiu ou não alteração da base de cálculo do IPTU e aumento do tributo, seria necessário o reexame da legislação local aplicável à espécie (lei municipal e Instrução Normativa nº 001/2011 da Secretaria de Finanças do Município do Recife), o que é inviável em sede de recurso extraordinário. Eventual afronta ao texto constitucional seria indireta ou reflexa. 2. Agravo regimental não provido”. (ARE 803.062-AgR, Relator o Ministro Dias Toffoli, Primeira Turma)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO PREDIAL E TERRITORIAL URBANO – IPTU. LEI MUNICIPAL N. 5.447/1993. DISCUSSÃO DO VALOR VENAL. PROVA PERICIAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS (SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL). PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 752.533-AgR, de minha relatoria, Primeira Turma)
+    No caso dos autos, o Tribunal de origem consignou o seguinte:
+    “[...]
+    No caso dos autos, nada indica tenha a Lei Municipal nº 8.522/2010, primeiro, deixado de ter ganho existência legal, em especial quanto à parte não vetada, assim como devidamente publicada, com a antecedência e anterioridade constitucionais
+    […]
+    Não há qualquer motivo para afastar a presunção de veracidade quanto ao que foi certificado relativamente à afixação da Lei Municipal nº 8.522, no quadro mural, fl. 349. Informação que confere com o carimbo lançado ao texto original da Lei, atestando que referido documento esteve afixado no quadro mural no período de 31.12.2010 a 03.02.2011 (fl. 111).
+    Depois, a circunstância de ser sexta-feira o dia 31.12.2010 e que não teria havido expediente, não leva a que, presente interesse municipal, tenha sido o prédio aberto com a afixação da lei e planta anexa no quadro mural”.
+    Dissentir das conclusões adotadas pelo Tribunal de origem quanto ao preenchimento dos requisitos legais e constitucionais, quanto a data da publicação da Lei Municipal nº 8.522/10, e quanto ao meio de veiculação utilizado para sua publicação, dentre outros fatores necessários à análise das supostas violações constitucionais, demandaria tão somente o reexame do acervo probatório constante dos autos, providência vedada nesta fase processual.
+    Ademais, o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do inciso III do art. 102 da Carta. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI local EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento
+    Publique-se.
+          Brasília, 18 de dezembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
