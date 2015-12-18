@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “REEXAME NECESSÁRIO E APELAÇÃO – AÇÃO DE OBRIGAÇÃO DE FAZER – EXIBIÇÃO DE DOCUMENTOS – DEMONSTRAÇÃO DO FATO GERADOR DO TRIBUTO – PODER DEVER FISCALIZATÓRIO DO FISCO – POSSIBILIDADE. SENTENÇA MANTIDA EM REEXAME E RECURSO PROVIDO.
+    Comprovado que a empresa não apresentou e não justificou entrega dos documentos requeridos pelo Fisco para a demonstração da ocorrência do fato gerador do ISS, deve ser compelida judicialmente apresentá-los na esteira do poder dever fiscalizatório do Poder Público.” (eDOC 1, p. 312)
+    Os embargos de declaração foram rejeitados. (eDOC 1, p. 334-337)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, LIV e LV, e 37 do Texto Constitucional.
+    Nas razões recursais, sustenta-se a existência de irregularidades no processo fiscalizatório que originou a presente ação.
+    Alega-se ainda violação ao devido processo legal, tendo em vista o indeferimento da produção de provas requerida pela Recorrente.
+    A Primeira Vice-Presidência do TJMG inadmitiu o recurso extraordinário com base na vedação contida nas Súmulas 282 e 356 e na jurisprudência do STF (eDOC 2, p. 479-481).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalta-se que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que a matéria referente à ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral.
+    Confira-se, a propósito, a ementa do RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.08.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, convém reproduzir o assentado pelo Tribunal de origem:
+    “De fato, trata-se de ação ordinário de obrigação de fazer, na qual o município pretende que a empresa requerida apresente os documentos listados na inicial, diante da constatação da ausência de emissão de notas fiscais de serviços relativas aos carnês de IPTU de imóveis registrados na empresa.
+    Portanto, o pleito de produção de prova pericial contábil em seus livros e demais documentos da empresa diverso totalmente do objeto da demanda, que não é a cobrança do débito fiscal, nem a discussão acerca da validade ou não do auto de infração.
+    Sendo assim, não há que se falar em cerceamento de defesa, sendo indeferida a prova inútil e desnecessária a solução da lide, nos termos do art. 130, do CPC.
+    (…)
+    Diante disso, o município aplicou a multa no valor de R$250,00 (duzentos e cinquenta reais), em face da ausência de emissão das notas fiscais e intimou a empresa (intimação 3074/2011) a apresentar, no prazo de cinco dias, as declarações de gratuidade da prestação dos serviços e os comprovantes de vínculo de parentesco com os sócios de cada proprietário descrito na “Relação dos Imóveis Administrados por Imobiliárias – Ano exercício 2010”.
+    Diante da apresentação, na fase administrativa, somente da certidão de nascimento do sócio João Paulo Naves Camargo, o município ingressou com a presente demanda visando a apresentação dos demais documentos, a fim de que possa realizar sua função fiscalizatória, na constatação de possível sonegação de recolhimento do ISSQN.” (eDOC 1, p. 313-313v).
+    Assim, constata-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista vedação contida na Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. CONCLUSÃO DE CURSO DE GRADUAÇÃO. OBRIGAÇÃO DE FAZER. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 23.9.2013. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.
+    (ARE 889736 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJE-158 DIVULG 12-08-2015 PUBLIC 13-08-2015)
+    Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Responsabilidade civil. Dano material. Retirada de árvore. Necessidade. Omissão da municipalidade. Dever de indenizar. Pressupostos. Demonstração. Obrigação de fazer. Astreintes. Excesso. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636, 280 e 279/STF. 2. Agravo regimental não provido.
+    (ARE 867607 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJE-128 DIVULG 30-06-2015 PUBLIC 01-07-2015)
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. INTIMAÇÃO PESSOAL. OBRIGAÇÃO DE FAZER. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. REEXAME DE PROVAS. SÚMULA 279/STF. Hipótese em que para dissentir do entendimento do Tribunal de origem seria necessário nova apreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF), bem como o reexame da legislação infraconstitucional aplicada ao caso. Precedentes. Agravo regimental a que se nega provimento.
+    (ARE 682634 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJE-231 DIVULG 22-11-2013 PUBLIC 25-11-2013)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 18 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
