@@ -1,0 +1,11 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão de Tribunal Regional Federal da 5ª Região - TRF5, que deu provimento ao recurso, para declarar a inconstitucionalidade da cobrança da Taxa relativa à Anotação de Responsabilidade Técnica – ART.
+    Acerca da controvérsia posta em juízo, o Supremo Tribunal Federal, no julgamento do RE 838284, relator Min. Dias Toffoli, Dje 08.10.2015 (tema 829); ARE 748445, relator Min. Ricardo Lewandowscki, Dje 12.02.2014 (tema 692), reconheceu a repercussão geral de questão relativa à constitucionalidade da fixação dos valores de ART.
+    Reproduz-se o teor das ementas dos referidos recursos, respectivamente:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TRIBUTÁRIO. TAXA PARA EMISSÃO DE ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. LEI Nº 6.994/82. PRINCÍPIO DA RESERVA LEGAL. FIXAÇÃO DE VALOR MÁXIMO. Possui repercussão geral a matéria alusiva à validade da exigência da taxa para expedição da Anotação de Responsabilidade Técnica (ART), baseada na Lei nº 6.994/82 a qual estabeleceu limites máximos para a ART, até o valor de 5 MVR, considerada a exigência do art. 150, I, da Constituição.”
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. LEI 6.496/1977. MANIFESTAÇÃO DO EXERCÍCIO DO PODER DE POLÍCIA. NATUREZA DE TAXA. SUBMISSÃO AO PRINCÍPIO DA ESTRITA LEGALIDADE. EXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO. - O Tribunal reconheceu a existência de repercussão geral da matéria debatida nos presentes autos, para reafirmar a jurisprudência desta Corte, no sentido de que a Anotação de Responsabilidade Técnica, instituída pela Lei Lei 6.496/1977, cobrada pelos Conselhos Regionais de Engenharia, Arquitetura e Agronomia, tem natureza jurídica de taxa, sendo, portanto, necessária a observância do princípio da legalidade tributária previsto no art. 150, I, da Constituição. Em consequência, conheceu do recurso extraordinário, desde já, mas lhe negou provimento.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 18 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
