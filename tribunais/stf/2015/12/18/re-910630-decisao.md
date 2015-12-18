@@ -1,0 +1,13 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA. MODO DE CÁLCULO. RENDIMENTOS PAGOS EM ATRASO E ACUMULADAMENTE RELATIVOS A ANOS CALENDÁRIO ANTERIORES A 2010. PRETENSÃO DE APLICAÇÃO DA SISTEMÁTICA DO ARTIGO 12-A DA LEI Nº 7.713/1988, INCLUÍDO PELA LEI Nº 12.350/2010. PRINCÍPIO DA ISONOMIA. INTEPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário interposto com fundamento na alínea a do permissivo constitucional, contra acórdão que assentou a impossibilidade de aplicação da sistemática do artigo 12-A da Lei nº 7.713/1988, incluído pela Lei nº 12.350/2010, para fins de cálculo do imposto de renda pessoa física incidente sobre rendimentos recebidos em atraso e de forma acumulada relativos a anos calendário anteriores a 2010, devendo ser aplicado o regime de competência, com a observância das tabelas e alíquotas vigentes nos meses em que as parcelas deveriam ter sido pagas.
+    Nas razões do apelo extremo, a parte sustenta preliminar de repercussão geral e, no mérito, aponta violação ao princípio da isonomia. Alega que, embora a Lei nº 12.350/2010 tenha efeito retroativo expresso apenas até janeiro de 2010, nada impede que o novo regramento seja adotado como parâmetro para rendimentos relativos a anos calendário anteriores a 2010.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    A controvérsia a respeito da possibilidade de adoção da sistemática prevista no artigo 12-A da Lei nº 7.713/1988, incluído pela Lei nº 12.350/2010, para fins de cálculo do imposto de renda pessoa física incidente sobre rendimentos recebidos em atraso e de forma acumulada relativos a anos calendário anteriores a 2010, demanda a interpretação da legislação infraconstitucional de regência. Portanto, eventual ofensa à Constituição Federal seria meramente indireta e reflexa, o que inviabiliza o manejo do recurso extraordinário. In casu, incide, mutatis mutandis, o óbice da Súmula nº 636 do STF, que dispõe, verbis: “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nesse sentido: RE 907.978-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 16/11/2015; RE 928.998, Rel. Min. Roberto Barroso, DJe de 11/12/2015; RE 910.900, Rel. Min. Rosa Weber, DJe de 1/10/2015; e ARE 910.785, Rel. Min. Roberto Barroso, DJe de 24/9/2015.
+    Ex positis, DESPROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de dezembro de 2015.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
