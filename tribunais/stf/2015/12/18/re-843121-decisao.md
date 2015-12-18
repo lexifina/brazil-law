@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Ministério Público Federal interpõe recurso extraordinário contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ARTIGO 334 DO CÓDIGO PENAL. ATIPICIDADE DA CONDUTA. TRANCAMENTO DA AÇÃO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA JURÍDICA. PORTARIA MF 75/2012. DÉBITO TRIBUTÁRIO INFERIOR AO TETO DE RELEVÂNCIA ADMINISTRATIVA. DIFERENCIAÇÃO ENTRE CONTRABANDO E DESCAMINHO. DESCABIMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+    1. Na linha da orientação jurisprudencial, aplica-se o princípio da insignificância jurídica, como excludente de tipicidade, aos crimes em que há elisão tributária não excedente ao patamar considerado irrelevante pela Administração Pública para efeito de processamento de execuções fiscais de débitos inscritos como Dívida Ativa da União, atualmente no valor de R$ 20.000,00 (vinte mil reais), conforme Portaria 75/2012 do Ministério da Fazenda.
+    2. No caso de suposta prática de delito capitulado no artigo 334 do Código Penal, o cálculo do montante do crédito tributário relativo às mercadorias estrangeiras importadas sem regularidade fiscal, de acordo com o inciso III do artigo 2º da Lei 10.865/2004, deve levar em consideração apenas o Imposto de Importação (II) e o Imposto sobre Produtos Industrializados (IPI), sem computar as quantias devidas a título de COFINS e PIS.
+    3. Afeiçoando-se a hipótese dos autos a esses parâmetros, uma vez que o montante dos tributos federais iludidos é inferior ao limite mínimo de relevância administrativa, está-se diante de conduta atípica.
+    4. Eventual reiteração criminal não importa o afastamento da tese despenalizante, porquanto o reconhecimento da bagatela não pressupõe a análise de circunstâncias subjetivas, sendo aferida apenas em função de aspectos objetivos referentes ao delito perpetrado.
+    5. Agravo regimental a que se nega provimento, mantendo-se a decisão monocrática negativa de seguimento do agravo em execução penal” (fl. 524).
+     Nas razões do recurso extraordinário, sustenta, em suma, que
+    “ao entender aplicável o novo parâmetro jurisprudencial, para o fim de se aquilatar a significância penal do fato típico, na fase da execução penal, após o trânsito em julgado da sentença condenatória, o acórdão provocou malferimento direto – e não meramente reflexo – ao art. 5º, XXXVI, da Constituição Federal, segundo o qual a lei não prejudicará o direto adquirido, o ato jurídico perfeito e a coisa julgada” (fl. 290).
+    Examinados os atos, decido.
+    Anote-se, inicialmente, que a intimação ocorreu após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso (AI nº 664.567/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07). Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o art. 5º, inciso XXXVI, da Constituição Federal, apontado como vilipendiado no extraordinário, carece do necessário prequestionamento, uma vez que o acórdão recorrido não tratou da norma suscitada e o agravante não opôs embargos de declaração para sanar eventual omissão. Incidem, na espécie, as Súmulas nºs 282 e 356 desta Corte.
+    Por fim, é oportuno registrar que o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do AI nº 747.522/RS, Relator o Ministro Cezar Peluso, concluiu pela ausência de repercussão geral de recursos que versem sobre a questão do reconhecimento de aplicação do princípio da insignificância, por tratar-se de matéria de índole infraconstitucional.
+    O julgado está assim ementado:
+    “RECURSO. Extraordinário. Inadmissibilidade. Princípio da insignificância. Atipicidade da conduta. Ofensa ao art. 5°, incs. XXXV, LV e LIV, da Constituição Federal. Inocorrência. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão do reconhecimento de aplicação do princípio da insignificância, porque se trata de matéria infraconstitucional” (DJe 25/9/09 - grifei).
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 18 de dezembro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
