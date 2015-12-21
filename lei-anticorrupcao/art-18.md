@@ -1,1 +1,1 @@
-Art. 18. Na esfera administrativa, a responsabilidade da pessoa jurídica não afasta a possibilidade de sua responsabilização na esfera judicial.
+Art. 18. Na esfera administrativa, a responsabilidade da pessoa jurídica não afasta a possibilidade de sua responsabilização na esfera judicial, exceto quando expressamente previsto na celebração de acordo de leniência, observado o disposto no § 11, no § 12 e no § 13 do art. 16.
