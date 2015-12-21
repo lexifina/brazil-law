@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça (RHC 64.879/SP), que indeferiu o pleito liminar.
+    Narra o impetrante que: a) o paciente é acusado da suposta prática dos crimes previstos no artigo 2°, §4°, II, da Lei 12.850/13 (organização criminosa) e no artigo 90 c/c artigo 84, ambos da Lei 8.666/93 (fraude em licitação); b) ao todo, a denúncia contempla 28 (vinte e oito) acusados; c) o Juiz da causa manteve custodiadas alguns acusados, e outros não, com base na distinção da relevância participativa no contexto da suposta organização criminosa; d) embora tenha reconhecido a menor participação do paciente, o Juiz manteve a prisão processual, forte na condição de foragido do acusado.
+    Em aditamento, aduz que a prática do delito de fraude licitatória não admite, por si só, a decretação da prisão preventiva. Não bastasse, o intuito da prática dessa conduta não configuraria o crime de organização criminosa.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não vislumbro ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Cumpre assinalar, de início, que o fato do paciente ter sido acusado tão somente pelo crime de fraude licitatória configura elemento neutro. Isso porque, o delito de formação de organização criminosa é de natureza formal e consuma-se independentemente da realização do intento que nutre a associação subjetiva. No caso concreto, nos termos da denúncia, o grupo criminoso destinar-se-ia, entre outros delitos, à consecução de corrupção passiva, cuja pena máxima extrapola quatro anos reclusão. Sendo assim, haveria uma associação estruturada de pessoas voltada a esse e outros propósitos e, em tese, o paciente dela faria parte, contribuindo para o risco da ocorrência do resultado jurídico. De tal modo, num primeiro olhar, afigura-se presente a tipicidade objetiva.
+    Os requisitos da prisão preventiva, especialmente a real motivação da fuga empreendida e sua influência no risco atinente à aplicação da lei penal configuram matéria intrincada, inclusive em razão da complexidade fática da causa. De tal forma, tal enfrentamento recomenda apreciação colegiada.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual, sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente habeas corpus, indefiro a liminar.
+    Vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 21 de dezembro de 2015.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
