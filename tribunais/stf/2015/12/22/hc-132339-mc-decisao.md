@@ -1,0 +1,24 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União em favor de BERNABÉ CERRO JAIME, contra suposto ato omissivo do Relator da Extradição 1.375/DF, consubstanciado no fato de o paciente não ter sido posto em liberdade a partir de 7 de dezembro de 2015, consoante decisão da Primeira Turma desta Corte.
+    O impetrante narra que o Governo da Espanha formalizou pedido de extradição executória do paciente, tendo o mandado de prisão sido cumprido em 3/4/2015.
+    Afirma que em 25/8/2015 a Primeira Turma do Supremo Tribunal Federal deferiu o pedido de extradição sem a exclusão dos 5 meses de prisão, razão pela qual a defesa opôs embargos declaratórios para suprir tal omissão e, subsidiariamente, ter reconhecida a possibilidade de se executar a extradição apenas até 6/12/2015, quando o saldo da pena imposta ao paciente atingiria exatamente um ano, o que impediria a extradição, nos termos do Artigo II, item 2, do Tratado de Extradição entre a República Federativa do Brasil e o Reino da Espanha.
+    Informa, ademais, que em 24/11/2015, a Primeira Turma deste Tribunal, por maioria de votos, acolheu os embargos de declaração, sem efeitos infringentes, para esclarecer que o paciente apenas poderia ser entregue ao Estado requerente até 6/12/2015. O respectivo acórdão está pendente de publicação.
+    O impetrante alega que houve expedição de comunicação da referida decisão aos Ministros de Estado da Justiça e das Relações Exteriores, bem como ao Diretor-Geral da Polícia Federal, não tendo, no entanto, sido providenciada sua entrega ao Reino da Espanha, razão pela qual o paciente requereu sua soltura, considerado o transcurso do prazo para a concretização da extradição.
+    Aduz, ainda, que o Procurador-Geral da República manifestou-se pelo acolhimento do pedido de soltura formulado pela Defensoria Pública, com a imediata liberação do paciente.
+    O impetrante diz mais que os autos foram conclusos ao relator em 15/12/2015, sem que até o momento tenha sido exarada ordem de soltura do paciente que se encontra custodiado na carceragem da Polícia Federal em São Paulo. Entende, assim, haver constrangimento ilegal passível de correção pela via do habeas corpus.
+    Pede, para tanto, o afastamento da Súmula 606, em virtude de tratar-se de flagrante ilegalidade ou abuso de poder, conforme sustenta. Defende em suas razões a presença de fumus boni iuris e do periculum in mora.
+    Requer, assim, a concessão de medida liminar para que “seja o paciente posto em liberdade, expedindo-se alvará de soltura em seu favor, a ser dirigido à carceragem da Polícia Federal em São Paulo/SP, onde se encontra detido” (pág. 7 da inicial).
+    É o breve e suficiente relatório. Decido.
+    A concessão de medida liminar em habeas corpus se dá tão somente em casos excepcionais, nos quais se verificam, de plano, a presença da plausibilidade jurídica do pedido e do perigo da demora. No presente caso, tenho que tais requisitos se fazem presentes.
+    É certo, ainda, que a jurisprudência do Supremo Tribunal Federal admite em hipóteses excepcionais o afastamento do óbice imposto pela Súmula 606 desta Corte, tal como também o faz frente à Súmula 691 (HC 93.883/SP, Rel. Min. Celso de Mello).
+    Colho do parecer da PGR o seguinte trecho:
+    “3. É certo que a decisão tomada nos embargos de declaração ainda não foi publicada, o que poderia ensejar eventual discussão sobre sua eficácia.
+    4. No entanto, considerando que foi fixada uma data peremptória para a retirada do extraditando, após a qual o ato não poderia se efetivar em razão da pena a ser cumprida ser inferior a um ano, não há que se cogitar de publicação do acórdão para efeito de cumprimento do que decidido, ainda mais tendo em vista que essa Corte providenciou a comunicação da decisão ao Estado requerente por intermédio do Ministério da Justiça.
+    5. Ante o exposto, manifesta-se o Ministério Público Federal pelo acolhimento do pedido formulado pela Defensoria Pública, com a imediata libertação do extraditando” (doc. eletrônico 7).
+    Pois bem, posta a situação nestes termos resta caracterizado o constrangimento ilegal suportado pelo paciente. Não cabe a esta Corte aferir as razões pelas quais o Estado requerente não providenciou a retirada do extraditando do País, o que, tal como afirmado no parecer ministerial, inviabilizou, em princípio, a execução da extradição, consoante decisão da Primeira Turma.
+    Isso posto, defiro a medida liminar, para que o paciente seja posto em liberdade, expedindo-se alvará de soltura em seu favor.
+    Comunique-se, com urgência, ao Excelentíssimo Senhor Ministro de Estado da Justiça e ao Diretor-Geral da Polícia Federal.
+    Abra-se vista ao Ministério Público Federal.
+    Publique-se.
+    Brasília, 22 de dezembro de 2015.
+Ministro RICARDO LEWANDOWSKI
+Presidente – Art. 13, VIII, do RISTF
