@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 10034, de 15 de dezembro de 2015
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS SISCOSERV. SERVIÇO DE TRANSPORTE INTERNACIONAL. INFORMAÇÕES. RESPONSABILIDADE. O exportador de mercadorias domiciliado no Brasil não se sujeita a registrar no Siscoserv o serviço de transporte internacional de carga contratado pelo importador estrangeiro, tendo em vista que não integra a relação jurídica estabelecida entre o importador estrangeiro e o prestador desse serviço. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 222, DE 27 DE OUTUBRO DE 2015. Dispositivos Legais: Instrução Normativa RFB nº 1.277, de 2012, art. 1º, § 1º, II, § 4º; Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+[arquivo anexo: SC SRRF10-Disit nº 10.034-2015.pdf]
