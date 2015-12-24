@@ -1,0 +1,3 @@
+Solução de Divergência Cosit nº 1, de 10 de fevereiro de 2015
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP EMENTA: INSTITUIÇÕES DE ENSINO SUPERIOR. PROUNI. CONTRIBUIÇÃO PARA O PIS/PASEP INCIDENTE SOBRE A FOLHA DE SALÁRIOS. A isenção de que trata o art. 8º da Lei nº 11.096, de 2005, não se aplica à Contribuição para o PIS/Pasep incidente sobre a folha de pagamentos da pessoa jurídica que adere ao Prouni. DISPOSITIVOS LEGAIS: Lei nº 9.532, de 1997, art. 12; Decreto nº 4.524, de 2002, arts. 9º e 46; Lei nº 11.096, de 2005, art. 8º; Decreto-Lei nº 5.172 (CTN), de 1966, art. 111,II; Instrução Normativa RFB nº 1.394, de 2013 e Medida Provisória (MP) nº 2.158-35, de 2001.
+[arquivo anexo: SD Cosit nÂº  1 2015.pdf]
