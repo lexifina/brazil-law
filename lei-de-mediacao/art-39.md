@@ -1,0 +1,1 @@
+Art. 39. A propositura de ação judicial em que figurem concomitantemente nos polos ativo e passivo órgãos ou entidades de direito público que integrem a administração pública federal deverá ser previamente autorizada pelo Advogado-Geral da União.

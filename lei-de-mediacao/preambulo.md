@@ -1,0 +1,2 @@
+Dispõe sobre a mediação entre particulares como meio de solução de controvérsias e sobre a autocomposição de conflitos no âmbito da administração pública; altera a Lei nº 9.469, de 10 de julho de 1997, e o Decreto nº 70.235, de 6 de março de 1972; e revoga o § 2º do art. 6º da Lei nº 9.469, de 10 de julho de 1997.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

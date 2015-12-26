@@ -1,0 +1,2 @@
+Art. 33. Enquanto não forem criadas as câmaras de mediação, os conflitos poderão ser dirimidos nos termos do procedimento de mediação previsto na Subseção I da Seção III do Capítulo I desta Lei.
+Parágrafo único. A Advocacia Pública da União, dos Estados, do Distrito Federal e dos Municípios, onde houver, poderá instaurar, de ofício ou mediante provocação, procedimento de mediação coletiva de conflitos relacionados à prestação de serviços públicos.
