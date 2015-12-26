@@ -1,0 +1,3 @@
+"Art. 14-A. No caso de determinação e exigência de créditos tributários da União cujo sujeito passivo seja órgão ou entidade de direito público da administração pública federal, a submissão do litígio à composição extrajudicial pela Advocacia-Geral da União é considerada reclamação, para fins do disposto no inciso III do art. 151 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional."
+Art. 46. A mediação poderá ser feita pela internet ou por outro meio de comunicação que permita a transação à distância, desde que as partes estejam de acordo.
+Parágrafo único. É facultado à parte domiciliada no exterior submeter-se à mediação segundo as regras estabelecidas nesta Lei.
