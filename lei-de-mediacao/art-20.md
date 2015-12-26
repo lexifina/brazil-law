@@ -1,0 +1,2 @@
+Art. 20. O procedimento de mediação será encerrado com a lavratura do seu termo final, quando for celebrado acordo ou quando não se justificarem novos esforços para a obtenção de consenso, seja por declaração do mediador nesse sentido ou por manifestação de qualquer das partes.
+Parágrafo único. O termo final de mediação, na hipótese de celebração de acordo, constitui título executivo extrajudicial e, quando homologado judicialmente, título executivo judicial.

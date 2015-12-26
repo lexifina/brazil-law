@@ -1,0 +1,2 @@
+Art. 1º Esta Lei dispõe sobre a mediação como meio de solução de controvérsias entre particulares e sobre a autocomposição de conflitos no âmbito da administração pública.
+Parágrafo único. Considera-se mediação a atividade técnica exercida por terceiro imparcial sem poder decisório, que, escolhido ou aceito pelas partes, as auxilia e estimula a identificar ou desenvolver soluções consensuais para a controvérsia.

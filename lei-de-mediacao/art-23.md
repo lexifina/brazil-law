@@ -1,0 +1,2 @@
+Art. 23. Se, em previsão contratual de cláusula de mediação, as partes se comprometerem a não iniciar procedimento arbitral ou processo judicial durante certo prazo ou até o implemento de determinada condição, o árbitro ou o juiz suspenderá o curso da arbitragem ou da ação pelo prazo previamente acordado ou até o implemento dessa condição.
+Parágrafo único. O disposto no caput não se aplica às medidas de urgência em que o acesso ao Poder Judiciário seja necessário para evitar o perecimento de direito.

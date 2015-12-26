@@ -1,0 +1,1 @@
+Art. 37. É facultado aos Estados, ao Distrito Federal e aos Municípios, suas autarquias e fundações públicas, bem como às empresas públicas e sociedades de economia mista federais, submeter seus litígios com órgãos ou entidades da administração pública federal à Advocacia-Geral da União, para fins de composição extrajudicial do conflito.
