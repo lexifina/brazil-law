@@ -1,0 +1,1 @@
+Art. 15. A requerimento das partes ou do mediador, e com anuência daquelas, poderão ser admitidos outros mediadores para funcionarem no mesmo procedimento, quando isso for recomendável em razão da natureza e da complexidade do conflito.

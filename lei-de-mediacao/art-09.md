@@ -1,0 +1,1 @@
+Art. 9º Poderá funcionar como mediador extrajudicial qualquer pessoa capaz que tenha a confiança das partes e seja capacitada para fazer mediação, independentemente de integrar qualquer tipo de conselho, entidade de classe ou associação, ou nele inscrever-se.

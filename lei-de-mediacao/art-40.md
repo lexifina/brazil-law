@@ -1,0 +1,1 @@
+Art. 40. Os servidores e empregados públicos que participarem do processo de composição extrajudicial do conflito, somente poderão ser responsabilizados civil, administrativa ou criminalmente quando, mediante dolo ou fraude, receberem qualquer vantagem patrimonial indevida, permitirem ou facilitarem sua recepção por terceiro, ou para tal concorrerem.

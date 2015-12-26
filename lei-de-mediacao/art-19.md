@@ -1,0 +1,1 @@
+Art. 19. No desempenho de sua função, o mediador poderá reunir-se com as partes, em conjunto ou separadamente, bem como solicitar das partes as informações que entender necessárias para facilitar o entendimento entre aquelas.
