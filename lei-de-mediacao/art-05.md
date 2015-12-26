@@ -1,0 +1,2 @@
+Art. 5º Aplicam-se ao mediador as mesmas hipóteses legais de impedimento e suspeição do juiz.
+Parágrafo único. A pessoa designada para atuar como mediador tem o dever de revelar às partes, antes da aceitação da função, qualquer fato ou circunstância que possa suscitar dúvida justificada em relação à sua imparcialidade para mediar o conflito, oportunidade em que poderá ser recusado por qualquer delas.

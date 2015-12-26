@@ -1,0 +1,2 @@
+Art. 28. O procedimento de mediação judicial deverá ser concluído em até sessenta dias, contados da primeira sessão, salvo quando as partes, de comum acordo, requererem sua prorrogação.
+Parágrafo único. Se houver acordo, os autos serão encaminhados ao juiz, que determinará o arquivamento do processo e, desde que requerido pelas partes, homologará o acordo, por sentença, e o termo final da mediação e determinará o arquivamento do processo.
