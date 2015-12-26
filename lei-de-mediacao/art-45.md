@@ -1,0 +1,2 @@
+Art. 45. O Decreto nº 70.235, de 6 de março de 1972, passa a vigorar acrescido do seguinte art. 14-A:
+"Art. 14-A. No caso de determinação e exigência de créditos tributários da União cujo sujeito passivo seja órgão ou entidade de direito público da administração pública federal, a submissão do litígio à composição extrajudicial pela Advocacia-Geral da União é considerada reclamação, para fins do disposto no inciso III do art. 151 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional."

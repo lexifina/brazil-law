@@ -1,0 +1,1 @@
+Art. 8º O mediador e todos aqueles que o assessoram no procedimento de mediação, quando no exercício de suas funções ou em razão delas, são equiparados a servidor público, para os efeitos da legislação penal.
