@@ -1,0 +1,1 @@
+Art. 41. A Escola Nacional de Mediação e Conciliação, no âmbito do Ministério da Justiça, poderá criar banco de dados sobre boas práticas em mediação, bem como manter relação de mediadores e de instituições de mediação.

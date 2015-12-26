@@ -1,0 +1,2 @@
+Art. 24. Os tribunais criarão centros judiciários de solução consensual de conflitos, responsáveis pela realização de sessões e audiências de conciliação e mediação, pré-processuais e processuais, e pelo desenvolvimento de programas destinados a auxiliar, orientar e estimular a autocomposição.
+Parágrafo único. A composição e a organização do centro serão definidas pelo respectivo tribunal, observadas as normas do Conselho Nacional de Justiça.
