@@ -1,0 +1,21 @@
+Trata-se de suspensão de tutela antecipada ajuizada pelo Município de Jaú contra decisão proferida na Ação Ordinária 1008706-97.2015.8.26.0302, que tramita perante a Vara do Juizado Especial Cível e Criminal de Jaú/SP.
+    Neste pedido, requer-se a extensão da decisão que proferi nestes autos, por meio da qual suspendi os efeitos da decisão que afastou a exigibilidade das taxas de conservação de vias e logradouros públicos e de serviços de bombeiro.
+     É o relatório.
+    Decido.
+    No tocante ao pleito de extensão propriamente dito, entendo que não é caso de deferimento.
+    Em 6/11/2015, deferi o pedido de suspensão formulado pelo Município de Jaú nestes autos.
+    O art. 15, § 5º, da Lei 12.016/2009 prevê a possibilidade de extensão dos efeitos da suspensão a liminares supervenientes, nos seguintes termos:
+    § 5º As liminares cujo objeto seja idêntico poderão ser suspensas em uma única decisão, podendo o presidente do tribunal estender os efeitos da suspensão a liminares supervenientes , mediante simples aditamento do pedido original (grifei).
+    Nessa perspectiva, cabível a extensão dos efeitos da suspensão de liminar deferida em sede de suspensão a outras liminares, desde que verificada na espécie a identidade de objeto entre a liminar já suspensa e as novas, submetidas à apreciação desta Presidência.
+    No caso, verifica-se que as decisões objeto do segundo pedido de extensão foram proferidas anteriormente ao deferimento do pedido de suspensão por esta Presidência. Confira-se: 4005039-23.2013.8.26.0302 (decisão proferida em 12/12/2013), 4006099-31.2013.8.26.0302 (decisão proferida em 9/1/2014), 4005282-64.2013.8.26.0302 (decisão proferida em 27/1/2015), 1001433-04.2014.8.26.0302 (decisão proferida em 26/1/2015), 1006472-79.2014.8.26.0302 (decisão proferida em 23/1/2015), 1000560-67.2015.8.26.0302 (decisão proferida em 5/2/2015), 1000482-73.2015.8.26.0302 (decisão proferida em 3/2/2015), 1005634-39.2014.8.26.0302 (decisão proferida em 19/11/2014), 1000796-53.2014.8.26.0302 (decisão proferida em 12/2/2014), 4006045-65.2013.8.26.0302 (decisão proferida em 27/7/2014), 1002816-17.2014.8.26.0302 (decisão proferida em 11/8/2014), 1000934-83.2015.8.26.0302 (decisão proferida em 26/2/2015), 1000838-05.2014.8.26.0302 (decisão proferida em 13/2/2014), 1000303-76.2014.8.26.0302 (decisão proferida em 18/2/2014), 1000993-08.2014.8.26.0302 (decisão proferida em 14/3/2014), 1000934-83.2015.8.26.0302 (decisão proferida em 26/2/2015), 1007292-98.2014.8.26.0302 (decisão proferida em 18/12/2014), 1001414-95.2014.8.26.0302 (decisão proferida em 13/3/2014), 1001744-58.2015.8.26.0302 (decisão proferida em 6/1/2015) e 1005645-68.2014.8.26.0302 (decisão proferida em 1/10/2014).
+    Ademais, chama atenção que no presente pedido de extensão se sustenta que
+    “o Município de Jahu quedou novamente surpreendido quando, acolhendo os pedidos formulados nos processos (…) os Juízes das 1ª, 2ª, 3ª e 4ª Varas Civeís da Comarca de Jaú/SP, apreciando as pretensões ali vertidas, acabaram por sobrestar a exigibilidade das taxas de limpeza pública, de concervação (sic) de vias e logradouros públicos e de serviços de bombeiro” (pág. 2-3 do documento eletrônico 30).
+    Destaco, por oportuno, que deve ser observada que essa faculdade concedida ao Presidente do Tribunal, de estender os efeitos da liminar deferida em suspensão de liminar mediante simples aditamento ao pedido inicial, deve ser interpretada estritamente, sem se conferir qualquer elastecimento ao que diz expressamente o dispositivo acima transcrito.
+    O legislador deixou claro que poderão ser estendidos os efeitos da suspensão de uma liminar pretérita a liminares supervenientes. Isso está previsto no art. 15, § 5º, da Lei 12.016/2009 e no art. 4º, § 8º, da Lei 8.437/1992.
+    Entendo, por isso, que o presente pedido encontra óbice de natureza processual, porquanto as decisões atacadas foram proferidas antes da decisão suspensiva da liminar, em 6/11/2015.
+    Por conseguinte, não se encontra caracterizada a hipótese prevista no art. 15, § 5º, da Lei 12.016/2009, afigurando-se indevida a via eleita pelo requerente para suspender decisões pretéritas ao deferimento da contracautela.
+    Isso posto, indefiro os pedidos de extensão.
+    Publique-se.
+    Brasília, 29 de dezembro de 2015.
+Ministro Ricardo Lewandowski
+Presidente
