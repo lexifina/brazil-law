@@ -3,6 +3,7 @@ I - elaborar o Plano Nacional de Educação, em colaboração com os Estados, o 
 II - organizar, manter e desenvolver os órgãos e instituições oficiais do sistema federal de ensino e o dos Territórios;
 III - prestar assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios para o desenvolvimento de seus sistemas de ensino e o atendimento prioritário à escolaridade obrigatória, exercendo sua função redistributiva e supletiva;
 IV - estabelecer, em colaboração com os Estados, o Distrito Federal e os Municípios, competências e diretrizes para a educação infantil, o ensino fundamental e o ensino médio, que nortearão os currículos e seus conteúdos mínimos, de modo a assegurar formação básica comum;
+IV-A - estabelecer, em colaboração com os Estados, o Distrito Federal e os Municípios, diretrizes e procedimentos para identificação, cadastramento e atendimento, na educação básica e na educação superior, de alunos com altas habilidades ou superdotação;
 V - coletar, analisar e disseminar informações sobre a educação;
 VI - assegurar processo nacional de avaliação do rendimento escolar no ensino fundamental, médio e superior, em colaboração com os sistemas de ensino, objetivando a definição de prioridades e a melhoria da qualidade do ensino;
 VII - baixar normas gerais sobre cursos de graduação e pós-graduação;
