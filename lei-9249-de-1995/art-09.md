@@ -1,6 +1,6 @@
-Art. 9º A pessoa jurídica poderá deduzir, para efeitos da apuração do lucro real, os juros pagos ou creditados individualizadamente a titular, sócios ou acionistas, a título de remuneração do capital próprio, calculados sobre as contas do patrimônio líquido e limitados à variação, pro rata dia, da Taxa de Juros de Longo Prazo - TJLP.
+Art. 9º A pessoa jurídica poderá deduzir, para efeitos da apuração do lucro real, os juros pagos ou creditados individualizadamente a titular, sócios ou acionistas, a título de remuneração do capital próprio, calculados sobre as contas do patrimônio líquido e limitados, pro rata die, à Taxa de Juros de Longo Prazo - TJLP ou a cinco por cento ao ano, o que for menor.
 § 1º O efetivo pagamento ou crédito dos juros fica condicionado à existência de lucros, computados antes da dedução dos juros, ou de lucros acumulados e reservas de lucros, em montante igual ou superior ao valor de duas vezes os juros a serem pagos ou creditados.
-§ 2º Os juros ficarão sujeitos à incidência do imposto de renda na fonte à alíquota de quinze por cento, na data do pagamento ou crédito ao beneficiário.
+§ 2º Os juros ficarão sujeitos à incidência do imposto de renda na fonte à alíquota de dezoito por cento, na data do pagamento ou crédito ao beneficiário.
 § 3º O imposto retido na fonte será considerado:
 I - antecipação do devido na declaração de rendimentos, no caso de beneficiário pessoa jurídica tributada com base no lucro real;
 II - tributação definitiva, no caso de beneficiário pessoa física ou pessoa jurídica não tributada com base no lucro real, inclusive isenta, ressalvado o disposto no § 4º;
