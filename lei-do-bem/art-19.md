@@ -5,3 +5,6 @@ Art. 19. Sem prejuízo do disposto no art. 17 desta Lei, a partir do ano-calend�
 § 4º Para fins do disposto no § 3º deste artigo, os dispêndios e pagamentos serão registrados em livro fiscal de apuração do lucro real e excluídos no período de apuração da concessão da patente ou do registro do cultivar.
 § 5º A exclusão de que trata este artigo fica limitada ao valor do lucro real e da base de cálculo da CSLL antes da própria exclusão, vedado o aproveitamento de eventual excesso em período de apuração posterior.
 § 6º O disposto no § 5º deste artigo não se aplica à pessoa jurídica referida no § 2º deste artigo.
+§ 7º Ficam suspensos no ano-calendário de 2016:
+I - o gozo do benefício fiscal de que trata este artigo; e
+II - a apuração dos dispêndios de que trata este artigo realizados no ano-calendário de 2016.

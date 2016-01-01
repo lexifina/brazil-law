@@ -14,3 +14,6 @@ III - fica limitada ao valor do lucro real e da base de cálculo da CSLL antes d
 § 10. Aplica-se ao disposto neste artigo, no que couber, a Lei nº 10.973, de 2 de dezembro de 2004, especialmente os seus arts. 6º a 18.
 § 11. O incentivo fiscal de que trata este artigo não pode ser cumulado com o regime de incentivos fiscais à pesquisa tecnológica e à inovação tecnológica, previsto nos arts. 17 e 19 desta Lei, nem com a dedução a que se refere o inciso II do § 2º do art. 13 da Lei nº 9.249, de 26 de dezembro de 1995, relativamente a projetos desenvolvidos pela ICT com recursos despendidos na forma do caput deste artigo.
 § 12. O Poder Executivo regulamentará este artigo.
+§ 13. Ficam suspensos no ano-calendário de 2016:
+I - o gozo do benefício fiscal de que trata este artigo; e
+II - a apuração dos dispêndios de que trata este artigo realizados no ano-calendário de 2016.
