@@ -24,6 +24,7 @@ a) o trabalhador deverá ser residente em áreas comprovadamente atingidas de Mu
 b) a solicitação de movimentação da conta vinculada será admitida até 90 (noventa) dias após a publicação do ato de reconhecimento, pelo Governo Federal, da situação de emergência ou de estado de calamidade pública; e
 c) o valor máximo do saque da conta vinculada será definido na forma do regulamento.
 XVII - integralização de cotas do FI-FGTS, respeitado o disposto na alínea i do inciso XIII do art. 5º desta Lei, permitida a utilização máxima de 30% (trinta por cento) do saldo existente e disponível na data em que exercer a opção.
+XVIII - quando o trabalhador com deficiência, por prescrição, necessite adquirir órtese ou prótese para promoção de acessibilidade e de inclusão social.
 § 1º A regulamentação das situações previstas nos incisos I e II assegurar que a retirada a que faz jus o trabalhador corresponda aos depósitos efetuados na conta vinculada durante o período de vigência do último contrato de trabalho, acrescida de juros e atualização monetária, deduzidos os saques.
 § 2º O Conselho Curador disciplinará o disposto no inciso V, visando beneficiar os trabalhadores de baixa renda e preservar o equilíbrio financeiro do FGTS.
 § 3º O direito de adquirir moradia com recursos do FGTS, pelo trabalhador, só poderá ser exercido para um único imóvel.

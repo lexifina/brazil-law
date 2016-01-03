@@ -1,0 +1,1 @@
+Art. 110-A. No ato de requerimento de benefícios operacionalizados pelo INSS, não será exigida apresentação de termo de curatela de titular ou de beneficiário com deficiência, observados os procedimentos a serem estabelecidos em regulamento.
