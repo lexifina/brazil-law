@@ -1,0 +1,1 @@
+Art. 86-A. As vagas de estacionamento regulamentado de que trata o inciso XVII do art. 181 desta Lei deverão ser sinalizadas com as respectivas placas indicativas de destinação e com placas informando os dados sobre a infração por estacionamento indevido.

@@ -669,7 +669,7 @@ Do Bem de Família
 TÍTULO III
 DA UNIÃO ESTÁVEL
 TÍTULO IV
-Da Tutela e da Curatela
+Da Tutela, da Curatela e da Tomada de Decisão Apoiada
 CAPÍTULO I
 Da Tutela
 Seção I
@@ -694,6 +694,8 @@ Seção II
 Da Curatela do Nascituro e do Enfermo ou Portador de Deficiência Física
 Seção III
 Do Exercício da Curatela
+CAPÍTULO III
+Da Tomada de Decisão Apoiada
 LIVRO V
 Do Direito das Sucessões
 TÍTULO I
