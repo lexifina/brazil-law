@@ -10,3 +10,4 @@ VII - o absolutamente incapaz, do qual o contribuinte seja tutor ou curador.
 § 2º Os dependentes comuns poderão, opcionalmente, ser considerados por qualquer um dos cônjuges.
 § 3º No caso de filhos de pais separados, poderão ser considerados dependentes os que ficarem sob a guarda do contribuinte, em cumprimento de decisão judicial ou acordo homologado judicialmente.
 § 4º É vedada a dedução concomitante do montante referente a um mesmo dependente, na determinação da base de cálculo do imposto, por mais de um contribuinte.
+§ 5º Sem prejuízo do disposto no inciso IX do parágrafo único do art. 3º da Lei nº 10.741, de 1º de outubro de 2003, a pessoa com deficiência, ou o contribuinte que tenha dependente nessa condição, tem preferência na restituição referida no inciso III do art. 4º e na alínea "c" do inciso II do art. 8º.

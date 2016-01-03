@@ -1,0 +1,3 @@
+Art. 147-A. Ao candidato com deficiência auditiva é assegurada acessibilidade de comunicação, mediante emprego de tecnologias assistivas ou de ajudas técnicas em todas as etapas do processo de habilitação.
+§ 1º O material didático audiovisual utilizado em aulas teóricas dos cursos que precedem os exames previstos no art. 147 desta Lei deve ser acessível, por meio de subtitulação com legenda oculta associada à tradução simultânea em Libras.
+§ 2º É assegurado também ao candidato com deficiência auditiva requerer, no ato de sua inscrição, os serviços de intérprete da Libras, para acompanhamento em aulas práticas e teóricas.

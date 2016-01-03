@@ -1,0 +1,2 @@
+Art. 66-A. As empresas enquadradas no inciso V do § 2º e no inciso II do § 5º do art. 3º desta Lei deverão cumprir, durante todo o período de execução do contrato, a reserva de cargos prevista em lei para pessoa com deficiência ou para reabilitado da Previdência Social, bem como as regras de acessibilidade previstas na legislação.
+Parágrafo único. Cabe à administração fiscalizar o cumprimento dos requisitos de acessibilidade nos serviços e nos ambientes de trabalho.
