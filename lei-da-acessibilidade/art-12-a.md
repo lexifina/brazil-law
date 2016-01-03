@@ -1,0 +1,1 @@
+Art. 12-A. Os centros comerciais e os estabelecimentos congêneres devem fornecer carros e cadeiras de rodas, motorizados ou não, para o atendimento da pessoa com deficiência ou com mobilidade reduzida.
