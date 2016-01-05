@@ -1,0 +1,24 @@
+DECISÃO
+                Trata-se de agravo regimental interposto pelo Procurador-Geral da República contra decisão proferida nas fls. 666-672, pelo eminente Ministro Ricardo Lewandowski, meu antecessor na relatoria do presente feito, por meio da qual rejeitou pedido do agravante de sequestro dos bens de Aline Lemos Corrêa de Oliveira Andrade, ré nos autos de Ação Penal nº 621, os quais tramitavam perante este Supremo Tribunal Federal, em razão da regra do foro por prerrogativa de função.
+        Em 1º de julho de 2015, determinei a remessa dos autos de Ação Penal nº 621 à Seção Judiciária do Rio de Janeiro, a pedido do Procurador-Geral da República, em razão do término do mandato de Deputada Federal da acusada Aline Lemos Corrêa de Oliveira Andrade.
+                Os presentes autos de Ação Cautelar, onde se discutia a decisão agravada, foram igualmente remetidos ao Juízo de primeiro grau.
+                A MM. Juíza Federal responsável pela condução do processo no primeiro grau de jurisdição determinou, às fls. 789-790, o retorno dos presentes autos para que este Supremo Tribunal Federal julgue o recurso de agravo, forte no entendimento jurisprudencial segundo o qual não lhe caberia reformar ou manter a decisão agravada, ou ainda julgar prejudicado o recurso, a despeito de ter cessado a competência desta Suprema Corte para apreciar o mérito da causa.
+                É o relatório.
+                Decido.
+                O sequestro criminal de bens, tal como previsto nos arts. 125 e seguintes do Código de Processo Penal, é medida cautelar assecuratória que visa à retenção dos proventos da infração penal para eventual futura restituição ou indenização à vítima, ou para garantir a eficácia de eventual perdimento, a ser decretado em sentença condenatória, nos termos do art. 91, II, do Código Penal.
+                Trata-se, portanto, de medida cautelar e, como tal, acessória ao processo penal condenatório.
+                A decisão agravada indeferiu o pedido de sequestro sob o principal fundamento de que “a legislação processual penal reclama que, para a determinação do sequestro de bens, mister que haja indícios veementes de sua origem delitiva (art. 126 do Código de Processo Penal).” (fls. 671).
+                Ao final, consignou o eminente Ministro Ricardo Lewandowski, ao indeferir o bloqueio pleiteado, que o fazia “sem prejuízo de novo pleito, satisfeitos os requisitos requisitos legais” (fls. 671).
+                Em suma, entendeu o eminente prolator da decisão agravada que, naquele momento, não estavam presentes veementes indícios da origem ilícita dos bens que o agravante pretendia ver sequestrados.
+                Nada obstante, ressalvou a possibilidade de nova apreciação do tema caso novos indícios surgissem.
+                A decisão agravada data de 12 de dezembro de 2007 e foi proferida à vista de um contexto probatório que em nada se assemelha ao atual. Perceba-se que a MM. Juíza Federal, ora competente para processar e julgar o feito principal, ao remeter os autos a esta Suprema Corte, esclarece que o processo penal encontra-se maduro para sentença, o que denota instrução processual concluída.
+                Sendo assim, é de se considerar o caráter acessório das medidas cautelares e, ainda, os termos em que a decisão agravada foi proferida. Consignou-se, expressamente, que caso o panorama probatório se alterasse, outro juízo sobre o pedido de sequestro poderia ser levado a efeito. Ademais, o panorama probatório atual é evidentemente diverso.
+                Diante dessas peculiaridades, entendo que não haveria qualquer risco de sobreposição do entendimento do Juízo de primeiro grau ao entendimento consignado na decisão agravada, proferida por integrante desta Suprema Corte - a ensejar uma inversão na lógica constitucional que elege este Supremo Tribunal Federal como órgão de cúpula do Poder Judiciário - caso a MM. Juíza de primeiro grau, com base no panorama probatório atual, no exercício de sua competência, decida a respeito do cabimento do sequestro dos bens pleiteado pelo Ministério Público Federal.
+                Não se tratará, evidentemente, de juízo de reforma da decisão proferida pelo eminente prolator da decisão agravada. Mas de juízo originário, ou seja, de outra decisão, proferida à luz de contexto probatório diverso, a qual ensejará eventual revisão pelas vias recursais próprias.
+                O presente agravo regimental, portanto, resta sem objeto, uma vez que o panorama probatório é outro e a competência para o feito principal já não é mais desta Suprema Corte.
+                Ante o exposto, julgo prejudicado o presente recurso, por ausência superveniente de interesse recursal.
+                Publique-se.
+                Após o trânsito em julgado da presente decisão, restituam-se os autos à origem.
+                Brasília, 8 de janeiro de 2016.
+                Ministro Edson Fachin
+                        Relator
