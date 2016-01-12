@@ -1,0 +1,1 @@
+Art. 3º-C. A União, os Estados, o Distrito Federal e os Municípios estimularão a atração de centros de pesquisa e desenvolvimento de empresas estrangeiras, promovendo sua interação com ICTs e empresas brasileiras e oferecendo-lhes o acesso aos instrumentos de fomento, visando ao adensamento do processo de inovação no País.

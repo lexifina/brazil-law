@@ -1,6 +1,6 @@
-Art. 17. A ICT, por intermédio do Ministério ou órgão ao qual seja subordinada ou vinculada, manterá o Ministério da Ciência e Tecnologia informado quanto:
-I - à política de propriedade intelectual da instituição;
-II - às criações desenvolvidas no âmbito da instituição;
-III - às proteções requeridas e concedidas; e
-IV - aos contratos de licenciamento ou de transferência de tecnologia firmados.
-Parágrafo único. As informações de que trata este artigo devem ser fornecidas de forma consolidada, em periodicidade anual, com vistas à sua divulgação, ressalvadas as informações sigilosas.
+Art. 17. A ICT pública deverá, na forma de regulamento, prestar informações ao Ministério da Ciência, Tecnologia e Inovação.
+I - (Revogado);
+II - (Revogado);
+III - (Revogado);
+IV - (Revogado).
+Parágrafo único. Aplica-se o disposto no caput à ICT privada beneficiada pelo poder público, na forma desta Lei.

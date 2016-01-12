@@ -1,0 +1,1 @@
+Art. 27-A. Os procedimentos de prestação de contas dos recursos repassados com base nesta Lei deverão seguir formas simplificadas e uniformizadas e, de forma a garantir a governança e a transparência das informações, ser realizados anualmente, preferencialmente, mediante envio eletrônico de informações, nos termos de regulamento.

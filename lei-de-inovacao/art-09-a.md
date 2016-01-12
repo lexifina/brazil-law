@@ -1,0 +1,6 @@
+Art. 9º-A. Os órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios são autorizados a conceder recursos para a execução de projetos de pesquisa, desenvolvimento e inovação às ICTs ou diretamente aos pesquisadores a elas vinculados, por termo de outorga, convênio, contrato ou instrumento jurídico assemelhado.
+§ 1º A concessão de apoio financeiro depende de aprovação de plano de trabalho.
+§ 2º A celebração e a prestação de contas dos instrumentos aos quais se refere o caput serão feitas de forma simplificada e compatível com as características das atividades de ciência, tecnologia e inovação, nos termos de regulamento.
+§ 3º A vigência dos instrumentos jurídicos aos quais se refere o caput deverá ser suficiente à plena realização do objeto, admitida a prorrogação, desde que justificada tecnicamente e refletida em ajuste do plano de trabalho.
+§ 4º Do valor total aprovado e liberado para os projetos referidos no caput, poderá ocorrer transposição, remanejamento ou transferência de recursos de categoria de programação para outra, de acordo com regulamento.
+§ 5º A transferência de recursos da União para ICT estadual, distrital ou municipal em projetos de ciência, tecnologia e inovação não poderá sofrer restrições por conta de inadimplência de quaisquer outros órgãos ou instâncias que não a própria ICT.
