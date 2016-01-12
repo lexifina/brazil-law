@@ -1,0 +1,10 @@
+Art. 15-A. A ICT de direito público deverá instituir sua política de inovação, dispondo sobre a organização e a gestão dos processos que orientam a transferência de tecnologia e a geração de inovação no ambiente produtivo, em consonância com as prioridades da política nacional de ciência, tecnologia e inovação e com a política industrial e tecnológica nacional.
+Parágrafo único. A política a que se refere o caput deverá estabelecer diretrizes e objetivos:
+I - estratégicos de atuação institucional no ambiente produtivo local, regional ou nacional;
+II - de empreendedorismo, de gestão de incubadoras e de participação no capital social de empresas;
+III - para extensão tecnológica e prestação de serviços técnicos;
+IV - para compartilhamento e permissão de uso por terceiros de seus laboratórios, equipamentos, recursos humanos e capital intelectual;
+V - de gestão da propriedade intelectual e de transferência de tecnologia;
+VI - para institucionalização e gestão do Núcleo de Inovação Tecnológica;
+VII - para orientação das ações institucionais de capacitação de recursos humanos em empreendedorismo, gestão da inovação, transferência de tecnologia e propriedade intelectual;
+VIII - para estabelecimento de parcerias para desenvolvimento de tecnologias com inventores independentes, empresas e outras entidades.
