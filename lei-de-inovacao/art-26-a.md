@@ -1,0 +1,1 @@
+Art. 26-A. As medidas de incentivo previstas nesta Lei, no que for cabível, aplicam-se às ICTs públicas que também exerçam atividades de produção e oferta de bens e serviços.

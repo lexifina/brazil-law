@@ -1,0 +1,1 @@
+Art. 3º-D. A União, os Estados, o Distrito Federal, os Municípios e as respectivas agências de fomento manterão programas específicos para as microempresas e para as empresas de pequeno porte, observando-se o disposto na Lei Complementar nº 123, de 14 de dezembro de 2006.
