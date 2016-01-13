@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1607, de 11 de janeiro de 2016
+Altera a Instrução Normativa RFB nº 1.436, de 30 de dezembro de 2013, que dispõe sobre a Contribuição Previdenciária sobre a Receita Bruta (CPRB), destinada ao Regime Geral de Previdência Social (RGPS), devida pelas empresas referidas nos arts. 7º e 8º da Lei nº 12.546, de 14 de dezembro de 2011.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 7º a 9º da Lei nº 12.546, de 14 de dezembro de 2011 e no art. 15 da Lei nº 13.202, de 8 de dezembro de 2015, resolve:
