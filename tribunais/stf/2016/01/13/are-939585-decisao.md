@@ -1,0 +1,33 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa reproduzo a seguir:
+    “MANDADO DE SEGURANÇA. Servidor Público Estadual. Delegado da Polícia Civil. Inclusão de período relativo a estágio no Ministério Público para contagem de tempo para todos os efeitos. Admissibilidade. Art. 90 da Lei Complementar Estadual nº 734/93. Sentença que denegou a segurança reformada.
+    Recurso provido.” (fl. 221)
+    Opostos embargos de declaração, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida. No mérito, aponta-se ofensa ao art. 40, §§ 3º e 10, do texto constitucional.
+    Defende-se, em síntese, que o período em que o Recorrido trabalhou como estagiário do Ministério Público não pode ser enquadrado no que dispõe o art. 40, § 3º, da Constituição Federal.
+    Alega-se que “o período trabalhado pelo autor não pode ser considerado como de função pública” (fl. 248).
+    Sustenta-se, ademais, que o acórdão recorrido está “computando, como serviço público, atividade desempenhada independentemente de aprovação em concurso público regular” (fl. 250).
+    Aponta-se, ainda, ofensa ao art. 40, § 1º, da Constituição Federal, que proibiu “qualquer contagem de tempo que não corresponda ao tempo de efetiva contribuição previdenciária” (fl. 250) uma vez que, na função de estagiário, não se efetuam tais recolhimentos.
+    É o relatório.
+    Decido.
+    Colhe-se do acórdão do Tribunal de origem:
+    “A Lei Complementar nº 734, de 26 de novembro de 1993, que institui a Lei Orgânica do Ministério Público e dá outras providências, em seu art. 90 estabelece o seguinte:
+    Artigo 90 – O período de exercício na função de estagiário será considerado tempo de serviço público para todos os fins.
+    Conquanto o dispositivo legal esteja a disciplinar a Instituição Ministério Público, nada impede sua aplicabilidade perante toda a Administração, porque incompatibilidade alguma se observa e, portanto, onde a lei não faz distinção, não cabe ao intérprete fazê-lo.
+    O art. 79 da referida lei complementar, ao dispor que “o estágio não confere vínculo empregatício com o Estado, sendo vedado estender ao estagiário direitos ou vantagens assegurados aos servidores públicos”, não constitui óbice à pretensão do impetrante.
+    O dispositivo em questão visa tão somente impedir que o estágio gere algum tipo de estabilidade, impedindo que o estagiário, durante seu exercício, passe a gozar de algumas vantagens próprias do servidor efetivo. Assim, não interfere nas disposições do art. 90.
+    Ainda que assim não fosse, é fato que a Emenda Constitucional nº 20 de 16.12.98 alterou o artigo 40 da Constituição Federal e adotou o regime previdenciário de caráter contributivo, dispondo no § 1º que a lei não poderá estabelecer contagem de tempo de contribuição fictícia. Entretanto, resguardou o direito adquirido, ao determinar, no artigo 4º, que o tempo de serviço cumprido até que lei posterior viesse a disciplinar a matéria seria contado como tempo de contribuição. Esta é, exatamente, a hipótese dos autos, de modo a comprovar a procedência da pretensão inicial.”
+    Nesses termos, constato a existência de fundamento infraconstitucional autônomo suficiente a manter o acórdão recorrido. Aplicável à espécie, portanto, a Súmula 283 do STF.
+    A propósito, vejam-se os seguintes julgados: RE 588010, Rel. Min. Ayres Britto, DJe 9.11.2011; RE 630.015, Rel. Min. Dias Toffoli, DJe 1º.8.2013; ARE 768.228, de minha relatoria, DJe 1º.10.2013.
+    No mesmo sentido, em hipótese semelhante, o ARE nº 897.984/SP, de minha relatoria, DJe 17.6.2015.
+    Mesmo que assim não fosse, verifico que o acórdão recorrido não diverge da jurisprudência iterativa desta Corte, segundo a qual a regra de transição do art. 4º da EC 20/98 abre possibilidade para a admissão de que o tempo de serviço considerado pela legislação vigente para efeito de aposentadoria, cumprido até que a lei discipline a matéria, seja contado como tempo de contribuição para fins de aposentadoria.
+    Nesse sentido, cito a ementa do seguinte precedente:
+    “Agravo regimental em agravo de instrumento. 2. Direito Administrativo. 3. Servidor público civil. 4. Contagem do tempo de serviço como advogado e estagiário para fins de aposentadoria e disponibilidade no cargo de Procurador Municipal (Lei 10.182/86). 5. Regra de transição do art. 4º da EC 20/98. Possibilidade. Admissão de que o tempo de serviço considerado pela legislação vigente para efeito de aposentadoria, cumprido até que a lei discipline a matéria, seja contado como tempo de contribuição. 6. Discussão acerca da necessidade de prévia averbação do período, por se tratar de suposta condição suspensiva para aquisição do direito. Inviabilidade. Necessidade de análise de legislação infraconstitucional, providência vedada no âmbito do recurso extraordinário. 7. Agravo regimental a que se nega seguimento.” (AI 727410 AgR, de minha relatoria, Segunda Turma, DJe 2.4.2012)
+    Destaco, ainda, que a jurisprudência desta Corte admite a possibilidade da contagem do período de estágio como tempo de serviço para fins de aposentadoria. Nesse sentido anote-se:
+    “Agravo regimental em agravo de instrumento. 2. Direito Administrativo. 3. Servidor público civil. 4. Contagem do tempo de serviço como advogado e estagiário para fins de aposentadoria e disponibilidade no cargo de Procurador Municipal (Lei 10.182/86). 5. Regra de transição do art. 4º da EC 20/98. Possibilidade. Admissão de que o tempo de serviço considerado pela legislação vigente para efeito de aposentadoria, cumprido até que a lei discipline a matéria, seja contado como tempo de contribuição. 6. Discussão acerca da necessidade de prévia averbação do período, por se tratar de suposta condição suspensiva para aquisição do direito. Inviabilidade. Necessidade de análise de legislação infraconstitucional, providência vedada no âmbito do recurso extraordinário. 7. Agravo regimental a que se nega seguimento” (AI n° 727.410/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 2/4/12).
+    Cito, ainda, o RE 630.015/SP, Rel. Min. Dias Toffoli, DJe 12.6.2013; e o RE 588.010/SP, Rel. Min. Ayres Britto, DJe 9.11.2011.
+    Ante o exposto, conheço do presente agravo para negar provimento ao recurso extraordinário (Art. 544, §4º, II, b, CPC e art. 21, §1º, RISTF).
+    Publique-se.
+    Brasília, 13 de janeiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
