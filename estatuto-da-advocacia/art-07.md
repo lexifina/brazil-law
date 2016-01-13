@@ -16,13 +16,16 @@ X - usar da palavra, pela ordem, em qualquer juízo ou tribunal, mediante interv
 XI - reclamar, verbalmente ou por escrito, perante qualquer juízo, tribunal ou autoridade, contra a inobservância de preceito de lei, regulamento ou regimento;
 XII - falar, sentado ou em pé, em juízo, tribunal ou órgão de deliberação coletiva da Administração Pública ou do Poder Legislativo;
 XIII - examinar, em qualquer órgão dos Poderes Judiciário e Legislativo, ou da Administração Pública em geral, autos de processos findos ou em andamento, mesmo sem procuração, quando não estejam sujeitos a sigilo, assegurada a obtenção de cópias, podendo tomar apontamentos;
-XIV - examinar em qualquer repartição policial, mesmo sem procuração, autos de flagrante e de inquérito, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos;
+XIV - examinar, em qualquer instituição responsável por conduzir investigação, mesmo sem procuração, autos de flagrante e de investigações de qualquer natureza, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos, em meio físico ou digital;
 XV - ter vista dos processos judiciais ou administrativos de qualquer natureza, em cartório ou na repartição competente, ou retirá-los pelos prazos legais;
 XVI - retirar autos de processos findos, mesmo sem procuração, pelo prazo de dez dias;
 XVII - ser publicamente desagravado, quando ofendido no exercício da profissão ou em razão dela;
 XVIII - usar os símbolos privativos da profissão de advogado;
 XIX - recusar-se a depor como testemunha em processo no qual funcionou ou deva funcionar, ou sobre fato relacionado com pessoa de quem seja ou foi advogado, mesmo quando autorizado ou solicitado pelo constituinte, bem como sobre fato que constitua sigilo profissional;
 XX - retirar-se do recinto onde se encontre aguardando pregão para ato judicial, após trinta minutos do horário designado e ao qual ainda não tenha comparecido a autoridade que deva presidir a ele, mediante comunicação protocolizada em juízo.
+XXI - assistir a seus clientes investigados durante a apuração de infrações, sob pena de nulidade absoluta do respectivo interrogatório ou depoimento e, subsequentemente, de todos os elementos investigatórios e probatórios dele decorrentes ou derivados, direta ou indiretamente, podendo, inclusive, no curso da respectiva apuração:
+a) apresentar razões e quesitos;
+b) (VETADO).
 § 1º Não se aplica o disposto nos incisos XV e XVI:
 1) aos processos sob regime de segredo de justiça;
 2) quando existirem nos autos documentos originais de difícil restauração ou ocorrer circunstância relevante que justifique a permanência dos autos no cartório, secretaria ou repartição, reconhecida pela autoridade em despacho motivado, proferido de ofício, mediante representação ou a requerimento da parte interessada;
@@ -35,3 +38,6 @@ XX - retirar-se do recinto onde se encontre aguardando pregão para ato judicial
 § 7º A ressalva constante do § 6º deste artigo não se estende a clientes do advogado averiguado que estejam sendo formalmente investigados como seus partícipes ou co-autores pela prática do mesmo crime que deu causa à quebra da inviolabilidade.
 § 8º (VETADO)
 § 9º (VETADO)
+§ 10. Nos autos sujeitos a sigilo, deve o advogado apresentar procuração para o exercício dos direitos de que trata o inciso XIV.
+§ 11. No caso previsto no inciso XIV, a autoridade competente poderá delimitar o acesso do advogado aos elementos de prova relacionados a diligências em andamento e ainda não documentados nos autos, quando houver risco de comprometimento da eficiência, da eficácia ou da finalidade das diligências.
+§ 12. A inobservância aos direitos estabelecidos no inciso XIV, o fornecimento incompleto de autos ou o fornecimento de autos em que houve a retirada de peças já incluídas no caderno investigativo implicará responsabilização criminal e funcional por abuso de autoridade do responsável que impedir o acesso do advogado com o intuito de prejudicar o exercício da defesa, sem prejuízo do direito subjetivo do advogado de requerer acesso aos autos ao juiz competente.
