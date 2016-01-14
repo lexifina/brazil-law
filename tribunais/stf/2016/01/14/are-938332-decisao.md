@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5°, V, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem lastreou-se na prova produzida para firmar seu convencimento acerca da ocorrência do dano material. Nesse contexto, somente mediante o revolvimento do quadro fático delineado seria possível aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo. Inadmissível, pois, o recurso extraordinário, em face do óbice da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “Ementa: EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEXO DE CAUSALIDADE. AUSÊNCIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. ALEGADA VIOLAÇÃO AO ART. 5º, LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido quanto à existência de nexo de causalidade a ensejar o dever de indenizar, bem como quanto ao montante indenizatório, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II - A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Precedentes. III – Agravo regimental a que se nega provimento”. (ARE 806728 ED, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 27/05/2014, PROCESSO ELETRÔNICO DJe-112 DIVULG 10-06-2014 PUBLIC 11-06-2014).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de janeiro de 2016.
+Ministra Rosa Weber
+Relatora
