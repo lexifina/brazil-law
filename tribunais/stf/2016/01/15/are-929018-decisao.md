@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento ao recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC5, p. 1):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. CHEFE DE CARTÓRIO ELEITORAL. FUNÇÃO COMISSIONADA. INTERIOR E CAPITAL.
+    . A diferenciação de remuneração entre os chefes de cartório do interior e da capital estabelecida pela Lei nº 10.842/2004 não caracteriza ofensa ao princípio da isonomia ou da moralidade.
+    . A circunstância de o artigo 39, § 1º, da Constituição Federal, não prever um critério de territorialidade, não impede a adoção da sistemática remuneratória estabelecida pela Lei nº 10.842/2004, em face do que dispõe o inciso III do próprio § 1º do artigo do texto constitucional, ao estabelecer que a fixação dos padrões de vencimento e dos demais componentes do sistema remuneratório observará as peculiaridades dos cargos.
+    . A parte autora não tem direito a receber a mesma função comissionada (FC4) recebida pelo Chefe de Cartório da Capital pelo simples fato de também ser Chefe de Cartório, mas do interior do estado, pois a Lei nº 10.842/04 elegeu o parâmetro local de trabalho como fundamental para distinguir a função comissionada recebida pelo servidor.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput; 19, III; 37, caput e 39, §1º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “inexiste fator que legitime a gratificação pela função de chefia de cartório eleitoral ter valor diferenciado conforme o servidor esteja lotado no interior ou na capital. Afinal, a referida gratificação destina-se a remunerar uma função de chefia, a mesma função de chefia, nada tendo a ver o critério localidade para sua fixação.”(eDOC9, p. 8)
+    Aduz-se, também, que “a diferença remuneratória é normal no Direito Administrativo. Mas a discriminação de componente específico é teratológico, ‘data venia’. Uma vez que a gratificação existe para remunerar uma função de chefia específica, no caso, a Chefia de Cartório Eleitoral, é lógico que o único critério válido para a estipulação do valor é a função exercida, sendo a diferenciação por localidade uma mera manobra legislativa para reduzir despesas da União Federal, ora Recorrida.”(eDOC9, p. 20)
+    A Vice-Presidência do TRF/4ª Região inadmitiu o recurso, em virtude de que a ofensa é somente indireta ou reflexa, bem como do óbice da Súmula 283 do STF. (eDOC17, p. 1-2)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC4, p. 3):
+    “Os servidores não têm direito a receber a mesma função comissionada (FC4) recebida pelo Chefe de Cartório Eleitoral da Capital pelo simples fato de também serem Chefes de Cartório, mas do interior do estado. Isso porque a Lei nº 10.842/04 elegeu o parâmetro local de trabalho (e não atribuição exercida) como fundamental para distinguir a função comissionada recebida pelo servidor, não se constatando qualquer inconstitucionalidade nesse parâmetro adotado.”
+    Como se observa da leitura dos fundamentos acolhidos pelo voto condutor do acórdão, conforme consta na transcrição acima, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o exame da legislação infraconstitucional aplicável à espécie (Lei nº 10.842/04), o que inviabiliza o processamento do apelo extremo, nos termos das Súmulas 280.
+    Ressalte-se, ainda, que a hipótese tratada nos autos guarda pertinência com o seguinte precedente, assim ementado:
+    “Agravo interno em agravo contra inadmissibilidade de recurso extraordinário. 2. Administrativo. Servidor público. 3. Critérios para ocupação de funções comissionadas no âmbito da Justiça Eleitoral. Chefes de cartório eleitoral de capital e chefes de cartório eleitoral de comarca de interior. 4. Regramento definido em normas infraconstitucionais. Impossibilidade de o Judiciário, em circunstâncias tais, substituir o legislador. Enunciados 636 e 339 da Súmula da Jurisprudência predominante do STF. 5. Agravo interno a que se nega provimento.”
+(ARE 662570 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, julgado em 24.04.2012, DJe 14.05.2012)
+     Nesse sentido, confiram-se as seguintes decisões monocráticas: RE 909.627, Relatora a Ministra Rosa Weber, DJe 25.9.2015, trânsito em julgado em 20.10.2015; RE 677.748, Relatora a Ministra Cármen Lúcia, DJe 28.4.2014, trânsito em julgado em 05.6.2014; RE 627.431, Relator o Ministro Ricardo Lewandowski, DJe 21.3.2013, trânsito em julgado em 11.4.2013.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento, nos termos dos arts. 544, § 4º, II, “a”, do CPC e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 15 de janeiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
