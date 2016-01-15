@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC7, p. 1)
+    “APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. POLICIAL MILITAR REFORMADO SUBMETIDO A PROCEDIMENTO DISCIPLINAR E EXCLUÍDO DAS FILEIRAS DA CORPORAÇÃO. POSTERIOR SUSPENSÃO DA REMUNERAÇÃO. PEDIDO DE RESTABELECIMENTO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR. MANUTENÇÃO DO JULGADO. Atos administrativos que gozam do atributo da presunção de legalidade e legitimidade. Controle judicial que só poderá ocorrer nos casos em que houver ilegalidade ou abuso de poder, sob pena de afronta ao princípio da separação dos poderes. Suspensão da remuneração do policial reformado que se mostrou legítima em decorrência do ato que o excluiu da Corporação. Inteligência do Decreto Estadual nº 6.579/83 e do artigo 122, § único, do Estatuto dos Policiais Militares. Precedente do C. STJ.
+    RECURSO CONHECIDO E DESPROVIDO.”
+    Os embargos de declaração foram rejeitados. (eDOC10, p. 1-4)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; 7º, XXIV; 37, caput; 71, III; 142, §3º e inciso X; 194; e 201, §9º, da Constituição Federal, bem como à Súmula Vinculante 3 e à Súmula 56 do STF.
+    Nas razões recursais, sustenta-se, em suma, que “Tendo em vista o fato de a exclusão das fileiras da PMERJ ter se dado em momento posterior ao ato de reforma e também em razão de fatos posteriores àquele, pode-se asseverar que o ato de cassação dos proventos do servidor público militar apelante advindos da inatividade, como consequência da expulsão das fileiras da Polícia Militar, sem sombra de dúvida fere, a um só tempo, o ato jurídico perfeito, consubstanciado na Portaria que o reformou como também o direito adquirido à fruição do status de servidor reformado devidamente incorporado ao seu patrimônio funcional.”
+    A 3º Vice-Presidência do TJ/RJ inadmitiu o recurso com fundamento no óbice da Súmula 279 do STF. (eDOC14, p. 1)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC7, p. 3):
+    “o Apelante é Cabo da Polícia Militar Reformado, portanto, pertencente aos Quadros da Corporação e sujeita-se às sanções disciplinares previstas na legislação aplicável – Estatuto dos Policiais Militares e Decreto Estadual nº 6.579/83. Apesar de não haver nos autos a cópia do Procedimento Disciplinar ao qual se submeteu o Recorrente, verifica-se que não foi discutida a legalidade da penalidade de exclusão a ele aplicada.” E continua “Diante de tal fato, e, considerando a previsão do artigo 122, § único, do Estatuto Castrense, que veda a percepção de qualquer remuneração ou indenização para o caso de exclusão do Policial a bem da disciplina, não há que se falar em ilegalidade do ato praticado pela Administração Pública.”
+    Com efeito, constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação local aplicável à espécie (Decreto Estadual 6.579/83 - Estatuto dos Policiais Militares), o que inviabiliza o processamento do apelo extremo, nos termos da vedação contida nas Súmulas 279 e 280 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. MILITAR. REFORMA. REVISÃO DE PROVENTOS. ADICIONAL DE INATIVIDADE. ANÁLISE DE NORMA LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 831.211-AgR-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ 21.8.2012).
+     “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EXCLUSÃO DE POLICIAL MILITAR REFORMADO. MANUTENÇÃO DOS PROVENTOS. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO” (RE 647.353, Rel. Min. Cármen Lúcia, Primeira Turma, DJ 01.08.2011).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento, nos termos do arts. 544, §4º, II, “a”, do CPC e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 15 de janeiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
