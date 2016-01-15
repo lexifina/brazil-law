@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado (eDOC 12, p. 809):
+    “APELAÇÃO CRIMINAL. PENAL E PROCESSUAL PENAL. ARTIGOS 299 E 304 DO CÓDIGO PENAL. AÇÃO PENAL PÚBLICA INCONDICIONADA. DESNECESSIDADE DE REPRESENTAÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS. PROVA PERICIAL. LAUDO DE EXAME GRAFOTÉCNICO. COMPROVAÇÃO DA PRÁTICA DO DELITO DE FALSIDADE IDEOLÓGICA. REGISTRO DA PROCURAÇÃO NO CARTÓRIO. ABERTURA DE CONTA BANCÁRIA E AQUISIÇÃO DE VEÍCULOS. COMPROVAÇÃO DA PRÁTICA DO CRIME DE USO DE DOCUMENTO FALSO. SENTENÇA MANTIDA. APELO DESPROVIDO. (...)”
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, LIV, XLIV, e 93, IX, da CF.
+     O Supremo Tribunal Federal já se manifestou sobre as matérias suscitadas sob a sistemática da repercussão geral.
+    No julgamento do ARE 748.371 (Relatoria do Ministro Gilmar Mendes, Pleno, DJe 01.08.2013, Tema 660), esta Corte assentou que o tema sobre violação dos princípios do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, não possui repercussão geral.
+    No tocante à violação do dever constitucional de motivação das decisões, o Supremo Tribunal Federal se manifestou sobre o tema invocado no julgamento do AI-QO-RG 791.292 (Relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, Tema 339). O Plenário reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    No caso, verifico que o acórdão está devidamente fundamentado, ainda que suas razões sejam contrárias ao interesse do recorrente.
+    Por fim, quanto à violação do princípio da individualização da pena em razão da fixação da pena-base acima do mínimo legal, esta Corte decidiu que não possui repercussão geral o tema acerca da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal na fundamentação da fixação da pena-base pelo juízo sentenciante (AI 742.460, Relator Cezar Peluso, DJe 25.09.2009, Tema 182).
+    Ante o exposto, em vista da manifestação do Supremo Tribunal Federal acerca das matérias deste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 15 de janeiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
