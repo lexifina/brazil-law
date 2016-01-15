@@ -1,0 +1,20 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de KAMIL VADOVIC contra suposta ilegalidade atribuída à Ministra Relatora da PPE 756.
+    Os impetrantes informam que o paciente está preso desde 19/9/2015, em virtude de cumprimento de mandado de prisão expedido para fins de extradição requerida pelo Governo da República Eslovaca, que atribui a KAMIL VADOVIC a prática de crime de fraude financeira.
+    Sustentam não haver necessidade da custódia preventiva do paciente, pois, em síntese, ele possui residência e trabalhos fixos no Brasil, não teria fugido de seu país, bem como necessita de tratamento de saúde adequado em razão de transtornos de ansiedade, de humor e síndromes psicóticas.
+    Ao final, pedem a concessão de liminar para que o paciente seja posto em liberdade.
+    É o relatório. Decido.
+    Bem analisados os autos, tenho que a situação descrita nos autos não consubstancia motivo para o conhecimento deste writ.
+    Isso porque a jurisprudência desta Corte está consolidada no sentido de não ser cabível a impetração de habeas corpus contra ato jurisdicional do próprio Supremo Tribunal Federal.
+    Os reiterados julgados nessa mesma esteira resultaram na edição da Súmula 606, nestes termos: “Não cabe habeas corpus originário para o Tribunal Pleno de decisão de Turma, ou do Plenário, proferida em habeas corpus ou no respectivo recurso”.
+    A ilustrar, menciono os seguintes julgados do Tribunal Pleno:
+    “Agravo regimental em habeas corpus. 2. Impetração contra decisão de ministro do Supremo Tribunal Federal. Negativa de seguimento ao writ. 3. Decisão recorrida em sintonia com a jurisprudência da Corte. Súmula 606. 4. Agravo a que se nega provimento” (HC 102.745 AgR/SP, Rel. Min. Gilmar Mendes).
+    “HABEAS CORPUS. SUPOSTA COAÇÃO QUE PASSOU A SER DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL EM RAZÃO DA DIPLOMAÇÃO DO PACIENTE COMO DEPUTADO FEDERAL. APLICAÇÃO DA SÚMULA N. 606 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DA IMPETRAÇÃO. PRECEDENTES DO STF. 1. Não cabe habeas corpus para o Plenário contra ato de Ministro do Supremo Tribunal Federal. 2. Habeas corpus não conhecido” (HC 107.325/PR, Rel. Min. Marco Aurélio).
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO SINGULAR DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO ANALÓGICA DA SÚMULA 606. NEGATIVA DE SEGUIMENTO DO WRIT. DECISÃO RECORRIDA EM SINTONIA COM A JURISPRUDÊNCIA DESTE NOSSO TRIBUNAL. AGRAVO DESPROVIDO. 1. A recente orientação jurisprudencial desta nossa Casa de Justiça é no sentido do descabimento da impetração de habeas corpus contra ato de Ministro Relator do próprio Tribunal, por aplicação analógica da Súmula 606/STF. (Cf. HC 100.738/RJ, Tribunal Pleno, redatora para o acórdão a ministra Cármen Lúcia, DJ 01/07/2010; HC 101.432/MG, Tribunal Pleno, redator para o acórdão o ministro Dias Toffoli, DJ 16/04/2010; HC 91.207/RJ, Tribunal Pleno, redator para o acórdão o ministro Eros Grau, DJ 05/03/2010; HC 99.510-AgR/MG, Tribunal Pleno, da relatoria do ministro Cezar Peluso, DJ 16/10/2009; HC 97.250-AgR/SP, Segunda Turma, da relatoria da ministra Ellen Gracie, DJ 07/08/2009; HC 86.548/SP, Tribunal Pleno, da relatoria do ministro Cezar Peluso, DJ 19/12/2008.) 2. Agravo regimental desprovido” (HC 103.193-AgR/RJ, Rel. Min. Ayres Britto)”.
+    No mesmo sentido: HC 101.318 AgR/RS, Rel. Min. Gilmar Mendes; HC 96.954-AgR/SP e HC 100.598/SP, Rel. Min. Ayres Britto; HC 96.851/ BA, Rel. Min. Marco Aurélio; HC 95.079-AgR/MG, Rel. Min. Cármen Lúcia, entre outros.
+    No que toca ao estado de saúde do paciente, verifico que a Ministra Relatora, em 26/10/2015, já determinou a adoção de providências para garantir o bem estar do extraditando.
+    Isso posto, com base no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus, por considerá-lo manifestamente incabível. Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 15 de janeiro de 2016.
+Ministro Ricardo Lewandowski
+Presidente
+Documento assinado digitalmente
