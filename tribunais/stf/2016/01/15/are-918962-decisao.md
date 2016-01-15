@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Paraná, assim fundamentada (eDOC 43, p. 1-2):
+    “O pagamento das gratificações aos inativos/pensionistas, considerada a paridade, só é devido enquanto não ocorrer efetiva avaliação de desempenho. Não se há de dizer que parcela vencimental prevista sob condição (que no caso se confunde com a existência provisória de inconstitucional discriminação entre inativos e ativos provocada pela ausência de efetiva avaliação de desempenho destes últimos) se incorpore de forma definitiva ao patrimônio jurídico da parte. Parcela que nasce sob condição não está ao abrigo da regra proibitiva da irredutibilidade de vencimentos.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 37, XV, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em suma, que “ainda que haja a regulamentação dos critérios de avaliação de desempenho individual e institucional dos servidores ativos, tem-se que será indevida a redução da parcela da gratificação de 80 para 50 pontos aos inativos, sob pena de ofensa direta ao princípio da irredutibilidade, uma vez que a gratificação de desempenho ora discutida, por sua natureza geral, e a partir do seu pagamento, foi incorporada às parcelas dos proventos do Recorrente.” (eDOC 49, p. 10)
+    Os embargos de declaração foram rejeitados. (eDOC 72, p. 2)
+    A Presidência das Turmas Recursais dos Juizados Especiais Federais da Seção Judiciária do Paraná inadmitiu o recurso sob o fundamento de que o Supremo tem entendido que a análise da questão atinente ao termo final do pagamento das gratificações é matéria infraconstitucional, não dando ensejo a interposição de recurso extraordinário. (eDOC 66, p. 1)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    A hipótese tratada nos autos guarda pertinência com o seguinte precedente, assim ementado:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Gratificação de desempenho de atividade da seguridade social (GDASS). Termo final do direito à paridade entre servidores ativos e inativos. Homologação dos resultados das avaliações. Precedentes. 1. O STF fixou o entendimento de que o termo inicial para o pagamento diferenciado das gratificações de desempenho entre os servidores ativos e inativos é a data da homologação do resultados das avaliações (RE nº 662.406/AL-RG). 2. Agravo regimental a que se nega provimento.” (ARE 812.653 AgR, Rel. Min. Dias Toffoli, Segunda Turma, julgado em 10.11.2015, DJe 15.12.2015)
+    Além disso, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame da legislação aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na súmula 280 do STF. Nesse sentido: AI 794.828, Rel. Min. Marco Aurélio, Primeira Turma, DJe 18.12.2012; RE 717.878 – AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.11.2014; AI 794.363 – AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 20.08.2014.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 15 de janeiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
