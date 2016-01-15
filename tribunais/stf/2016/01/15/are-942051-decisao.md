@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa reproduzo a seguir:
+    “AGRAVO DE INSTRUMENTO. LICITAÇÃO E CONRATO ADMINISTRATIVO. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. INDEFERIMENTO. REALIZAÇÃO DO LEILÃO APRAZADO PARA O DIA 30/09/2014. PERDA DE OBJETO.
+    1. Neste grau de jurisdição, em regime de plantão, foi indeferida a antecipação de tutela recursal, restando prejudicado o recurso, ante a realização do leilão.
+    2. Os argumentos trazidos no recurso não se mostram razoáveis para reformar a decisão monocrática.
+    RECURSO PREJUDICADO.” (eDOC 2, p. 94)
+    Opostos embargos de declaração, estes foram rejeitados (eDOC 3, p. 5).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida.
+    Defende-se, em síntese, que o Recorrente faz jus à obtenção de provimento judicial no sentido de autorizar a sua participação em leilão de venda de imóveis públicos mediante pagamento por precatórios vencidos, conforme o art. 100, § 1º, do texto constitucional e o art. 97 do ADCT, o que seria admitido pela Lei Estadual nº 13.751/2011.
+    Alega-se que o entendimento adotado pelo Tribunal de origem, no sentido de que houve a perda do objeto em razão da realização do leilão, viola o disposto no art. 5º, XXXV, da Constituição Federal.
+    É o relatório.
+    O recurso não merece prosperar.
+    Verifica-se que o recurso foi ajuizado em face de decisão proferida em agravo de instrumento o qual, por sua vez, foi interposto contra decisão interlocutória que negou a suspensão do leilão aprazado para o dia 30.9.2014.
+    Desse modo, incide a Súmula 735 do STF, que obsta a concessão de recurso extraordinário contra decisão que concede ou indefere provimento liminar. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Acórdão com que o Tribunal de origem cassou a antecipação da tutela concedida pelo juiz de primeiro grau. Recurso extraordinário. Inadmissibilidade. Súmula nº 735/STF. Servidor. Militar. Reserva remunerada. Promoção. Ausência de repercussão geral. Precedentes. 1. É pacífico o entendimento da Corte no sentido de que não cabe recurso extraordinário contra acórdão que concede ou indefere medida liminar. Incidência da Súmula nº 735/STF. 2. O Plenário da Corte, no exame do ARE nº 717.898/SC, Relator o Ministro Gilmar Mendes, concluiu pela ausência de repercussão geral do tema relativo à “promoção de policiais militares ao grau hierarquicamente superior quando transferidos para a reserva remunerada”. 3. Agravo regimental não provido.” (ARE 713684 AgR-segundo, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 30/06/2015, PROCESSO ELETRÔNICO DJe-163 DIVULG 19-08-2015 PUBLIC 20-08-2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E CONSUMIDOR. INSCRIÇÃO DO NOME DE DEVEDOR NOS CADASTROS RESTRITIVOS DE CRÉDITO. INDENIZAÇÃO POR DANOS MORAIS. ANTECIPAÇÃO DE TUTELA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 735 DO STF. 1. O recurso extraordinário é inadmissível contra decisão que defere ou indefere provimento liminar, por vedação expressa da Súmula 735 do Supremo Tribunal Federal, verbis: “Não cabe recurso extraordinário contra acórdão que defere medida liminar”. Precedentes: ARE 711.968-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 27/5/2014, e ARE 803.989-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 5/6/2014. 2. In casu, o acórdão recorrido não conheceu do agravo de instrumento interposto contra decisão que, em ação de obrigação de fazer cumulada com indenização por danos morais, antecipou os efeitos da tutela e recebeu a apelação tão somente em seu efeito devolutivo. 3. Agravo regimental DESPROVIDO.” (ARE 796036 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 07/10/2014, ACÓRDÃO ELETRÔNICO DJe-207 DIVULG 20-10-2014 PUBLIC 21-10-2014)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 15 de janeiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
