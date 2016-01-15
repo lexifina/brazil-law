@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 5º, INCS. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Quinta Turma Recursal dos Juizados Especiais da Bahia:
+    “RECURSO INOMINADO. IMPUGNAÇÃO À EXECUÇÃO. INEXISTÊNCIA DE CONCRETIZAÇÃO DA HIPÓTESE CONTIDA NO INCISO IX, DO ART. 52, DA LEI 9099/95 (OU SEJA, NULIDADE DE CITAÇÃO). O ENDEREÇO FORNECIDO PELO AUTOR PARA O QUAL FORA ENCAMINHADA A CITAÇÃO, INCLUSIVE, POSTERIORMENTE A INTIMAÇÃO DA PENHORA, É AQUELE FORNECIDO PELA EMBARGANTE – ALPHAVILLE, NO INSTRUMENTO DE PRÉ-CONTRATO APRESENTADO PELO AUTOR NO EVENTO PROCESSUAL 01. NA AUDIÊNCIA ANTERIOR, FOI CONSULTADA A PÁGINA DE COMERCIALIZAÇÃO EXIBIDA PELA RÉ NA INTERNET, E A LOCALIZAÇÃO DO EMPREENDIMENTO TEM O MESMO ENDEREÇO FORNECIDO PELO AUTOR. NESTE CONTEXTO, NÃO HÁ NULIDADE DE CITAÇÃO A SER PRONUNCIADA, AFIGURANDO-SE HÍGIDA A SENTENÇA DE EVENTO PROCESSUAL 18. MANUTENÇÃO SENTENCIAL. RECURSO CONHECIDO E IMPROVIDO” (fl. 1, doc. 10).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega contrariados os arts. 5º, incs. LIV e LV, e 93, inc. IX, da Constituição da República, argumentando que
+    “o próprio Recorrido demonstrou que sabia o endereço correto da Recorrente, contudo, deixou de informar ao Juízo, isto, pois ingressou com duas ações em Sergipe, onde conseguiu realizar a citação da Recorrente no endereço correto, da Avenida das Nações Unidas, nº 8.501, 9º andar, São Paulo - SP. Iniciais e prints dos processos constam nos autos.
+    34. Ainda, é incontestável (i) que a sede da Recorrente é na Avenida das Nações Unidas, nº 8.501, 9º andar, São Paulo - SP e (ii) que a carta proposta firmada pelas partes não possui endereços.
+    35. Portanto, não há que se reanalisar fatos ou provas, os fatos são incontestáveis ou incontroversos, todavia, mesmo diante de todas essas clarezas, os Juízos, de 1º e 2º graus, resolveram não decretar a nulidade dos atos por ausência de citação válida, suprimindo da Recorrente os constitucionais direitos ao devido processo legal (artigo 5º, inciso LIV da Constituição Federal), e ao contraditório e à ampla defesa (artigo 5º, inciso LV da Constituição Federal)” (fl. 7, doc. 14).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, RTJ 150/269).
+    7. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do devido processo legal, do contraditório e da ampla defesa quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e arts. 21, § 1º, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de janeiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
