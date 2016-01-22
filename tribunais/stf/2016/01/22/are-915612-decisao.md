@@ -1,0 +1,29 @@
+dissdidisDECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXERCÍCIO DA PROFISSÃO DE OPTOMETRISTA EM CONSULTÓRIO. DECRETO N. 20.931/1932. LEI DISTRITAL N. 3.334/2004. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “EMBARGOS INFRINGENTES. ADMINISTRATIVO E CONSTITUCIONAL. EXERCÍCIO DA PROFISSÃO DE OPTOMETRISTA EM CONSULTÓRIO. POSSIBILIDADE. INTERPRETAÇÃO DO ART. 38 DO DECRETO N. 20.931/32 SOB O ORDENAMENTO JURÍDICO VIGENTE. VALORES SOCIAIS DO TRABALHO E DA LIVRE INICIATIVA. COMPETÊNCIA DA VIGILÂNCIA SANITÁRIA. PRECEDENTE DO STJ.
+    1. O Decreto n. 20.931/32 deve ser interpretado pelo paradigma político-jurídico atual, do Estado Democrático de Direito e da Administração Pública gerencial, com atenção aos objetivos e fundamentos da Constituição Federal, que consagra os valores sociais do trabalho e da livre iniciativa.
+    2. A vedação do art. 38 do Decreto n. 20.931/32, a fim de garantir o direito de saúde dos cidadãos, tem como objetivo impedir que os optometristas instalem consultório para o exercício das atividades privativas de médico, e não para o exercício da optometria em si, profissão existente há mais de cem anos em vários países do mundo, reconhecida por relevantes organizações internacionais e de importante contribuição para a efetivação do direito universal à saúde da população brasileira.
+    3. O Superior Tribunal de Justiça assentou em sua jurisprudência a legitimidade do exercício da optometria, bem como o entendimento de que a regulamentação em lei não é necessária para o exercício da profissão.
+    4. A competência da vigilância sanitária limita-se apenas à análise acerca da existência de habilitação e/ou capacidade legal do profissional da saúde e do respeito à legislação sanitária.
+    5. Tendo em vista a formação acadêmica superior e profissional do Embargado, reconhecida pelo Ministério da Educação e da Cultura e pelo Ministério do Trabalho, inexiste óbice para a expedição de alvará sanitário reclamado.
+    6. Negou-se provimento aos embargos infringentes”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega contrariados os arts. 5º, incs. XIII, e 37 da Constituição da República, argumentando que
+    “o acórdão recorrido, ao permitir o funcionamento de atividade que ainda não está regulamentada (Optometrista), incorreu em nítida ofensa ao transcrito inciso XIII do artigo 5° da Carta Maior, pois só a lei (que deverá ser de origem federal, porque a regulamentação de profissão ou ofício é da competência exclusiva da União Federal, conforme artigo 22, incisos I e XVI, da Constituição Federal de 1988) poderá dispor sobre a qualificação do profissional Optometrista e delimitar os âmbitos da sua atuação (e com isto evitar invasão à seara privativa do médico Oftalmologista), justamente para afastar uma possível "zona de interferência" entre as atribuições de um e de outro profissional (médicos Oftalmologistas x Optometristas).
+    Ademais, conforme se verá adiante, não se pode perder de vista que o Decreto Federal n° 20.931/32 (ainda em plena vigência, como decidiu o Superior Tribunal de Justiça no Recurso Especial n. 1.169.991 - RO) impede a atuação da maneira pretendida pelo Autor/Recorrido (artigo 38)”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A apreciação do pleito recursal demandaria a análise da legislação infraconstitucional aplicável à espécie (Decreto n. 20.931/1932 e Lei Distrital n. 3.334/2004). A alegada ofensa constitucional, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. OPTOMETRISTA. LIMITAÇÕES AO EXERCÍCIO DA PROFISSÃO. DECRETOS 20.931/1932, 24.492/1934 e 99.678/1990 e PORTARIA 397/2002 DO MINISTÉRIO DO TRABALHO E EMPREGO. NECESSIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. II – Agravo regimental a que se nega provimento” (RE n. 94.562-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 5.9.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. OPTOMETRISTA. EXERCÍCIO PROFISSIONAL. LIMITAÇÕES IMPOSTAS PELOS DECRETOS NS. 20.931/1932 E 24.492/1934. NECESSIDADE DA ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 787.040-AgR, de minha relatoria, Segunda Turma, DJe 13.3.2014).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de janeiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
