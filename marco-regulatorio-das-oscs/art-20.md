@@ -1,0 +1,2 @@
+Art. 20. Preenchidos os requisitos do art. 19, a administração pública deverá tornar pública a proposta em seu sítio eletrônico e, verificada a conveniência e oportunidade para realização do Procedimento de Manifestação de Interesse Social, o instaurará para oitiva da sociedade sobre o tema.
+Parágrafo único. Os prazos e regras do procedimento de que trata esta Seção observarão regulamento próprio de cada ente federado, a ser aprovado após a publicação desta Lei.
