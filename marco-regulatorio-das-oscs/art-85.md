@@ -1,0 +1,2 @@
+Art. 85. O art. 1º da Lei nº 9.790, de 23 de março de 1999, passa a vigorar com a seguinte redação:
+" Art. 1º Podem qualificar-se como Organizações da Sociedade Civil de Interesse Público as pessoas jurídicas de direito privado sem fins lucrativos que tenham sido constituídas e se encontrem em funcionamento regular há, no mínimo, 3 (três) anos, desde que os respectivos objetivos sociais e normas estatutárias atendam aos requisitos instituídos por esta Lei." (NR)

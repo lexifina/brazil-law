@@ -1,0 +1,2 @@
+Art. 36. Será obrigatória a estipulação do destino a ser dado aos bens remanescentes da parceria.
+Parágrafo único. Os bens remanescentes adquiridos com recursos transferidos poderão, a critério do administrador público, ser doados quando, após a consecução do objeto, não forem necessários para assegurar a continuidade do objeto pactuado, observado o disposto no respectivo termo e na legislação vigente.

@@ -1,0 +1,2 @@
+Art. 68. Os documentos incluídos pela entidade na plataforma eletrônica prevista no art. 65, desde que possuam garantia da origem e de seu signatário por certificação digital, serão considerados originais para os efeitos de prestação de contas.
+Parágrafo único. Durante o prazo de 10 (dez) anos, contado do dia útil subsequente ao da prestação de contas, a entidade deve manter em seu arquivo os documentos originais que compõem a prestação de contas.
