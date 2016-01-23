@@ -1,1 +1,0 @@
-Art. 4º Aplicam-se as disposições desta Lei, no que couber, às relações da administração pública com entidades qualificadas como organizações da sociedade civil de interesse público, de que trata a Lei nº 9.790, de 23 de março de 1999, regidas por termos de parceria.

@@ -1,2 +1,2 @@
-Art. 41. É vedada a criação de outras modalidades de parceria ou a combinação das previstas nesta Lei.
-Parágrafo único. A hipótese do caput não traz prejuízos aos contratos de gestão e termos de parceria regidos, respectivamente, pelas Leis nº s 9.637, de 15 de maio de 1998, e 9.790, de 23 de março de 1999.
+Art. 41. Ressalvado o disposto no art. 3º e no parágrafo único do art. 84, serão celebradas nos termos desta Lei as parcerias entre a administração pública e as entidades referidas no inciso I do art. 2º.
+Parágrafo único. (Revogado).

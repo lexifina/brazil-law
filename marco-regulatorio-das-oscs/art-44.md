@@ -1,3 +1,0 @@
-Art. 44. O gerenciamento administrativo e financeiro dos recursos recebidos é de responsabilidade exclusiva da organização da sociedade civil, inclusive no que diz respeito às despesas de custeio, investimento e pessoal.
-§ 1º (VETADO).
-§ 2º Os encargos trabalhistas, previdenciários, fiscais e comerciais relativos ao funcionamento da instituição e ao adimplemento do termo de colaboração ou de fomento são de responsabilidade exclusiva das organizações da sociedade civil, não se caracterizando responsabilidade solidária ou subsidiária da administração pública pelos respectivos pagamentos, qualquer oneração do objeto da parceria ou restrição à sua execução.
