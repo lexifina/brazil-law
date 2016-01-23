@@ -1,0 +1,2 @@
+Institui o Programa de Redução de Litígios Tributários - PRORELIT; autoriza o Poder Executivo federal a atualizar monetariamente o valor das taxas que indica; altera as Leis nº 12.873, de 24 de outubro de 2013, 8.212, de 24 de julho de 1991, 8.213, de 24 de julho de 1991, 9.250, de 26 de dezembro de 1995, e 12.546, de 14 de dezembro de 2011; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
