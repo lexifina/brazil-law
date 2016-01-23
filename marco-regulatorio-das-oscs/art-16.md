@@ -1,0 +1,2 @@
+Art. 16. O termo de colaboração deve ser adotado pela administração pública em caso de transferências voluntárias de recursos para consecução de planos de trabalho propostos pela administração pública, em regime de mútua cooperação com organizações da sociedade civil, selecionadas por meio de chamamento público, ressalvadas as exceções previstas nesta Lei.
+Parágrafo único. Os conselhos de políticas públicas poderão apresentar propostas à administração pública para celebração de termo de colaboração com organizações da sociedade civil.

@@ -1,0 +1,1 @@
+Art. 17. O termo de fomento deve ser adotado pela administração pública em caso de transferências voluntárias de recursos para consecução de planos de trabalho propostos pelas organizações da sociedade civil, em regime de mútua cooperação com a administração pública, selecionadas por meio de chamamento público, ressalvadas as exceções previstas nesta Lei.

@@ -1,0 +1,2 @@
+Art. 55. A vigência da parceria poderá ser alterada mediante solicitação da organização da sociedade civil, devidamente formalizada e justificada, a ser apresentada na administração pública em, no mínimo, 30 (trinta) dias antes do término de sua vigência.
+Parágrafo único. A prorrogação de ofício da vigência do instrumento deve ser feita pela administração pública, antes do seu término, quando ela der causa a atraso na liberação dos recursos, limitada ao exato período do atraso verificado.

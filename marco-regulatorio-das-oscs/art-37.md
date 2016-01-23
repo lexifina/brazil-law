@@ -1,0 +1,1 @@
+Art. 37. A organização da sociedade civil indicará ao menos 1 (um) dirigente que se responsabilizará, de forma solidária, pela execução das atividades e cumprimento das metas pactuadas na parceria, devendo essa indicação constar do instrumento da parceria.

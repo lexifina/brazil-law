@@ -1,0 +1,2 @@
+Art. 84. Salvo nos casos expressamente previstos, não se aplica às relações de fomento e de colaboração regidas por esta Lei o disposto na Lei nº 8.666, de 21 de junho de 1993, e na legislação referente a convênios, que ficarão restritos a parcerias firmadas entre os entes federados.
+Parágrafo único. Os convênios e acordos congêneres vigentes entre as organizações da sociedade civil e a administração pública na data de entrada em vigor desta Lei serão executados até o término de seu prazo de vigência, observado o disposto no art. 83.

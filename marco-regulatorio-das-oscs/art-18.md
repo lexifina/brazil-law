@@ -1,0 +1,1 @@
+Art. 18. É instituído o Procedimento de Manifestação de Interesse Social como instrumento por meio do qual as organizações da sociedade civil, movimentos sociais e cidadãos poderão apresentar propostas ao poder público para que este avalie a possibilidade de realização de um chamamento público objetivando a celebração de parceria.
