@@ -6,7 +6,7 @@ IV - permitir ou facilitar a alienação, permuta ou locação de bem integrante
 V - permitir ou facilitar a aquisição, permuta ou locação de bem ou serviço por preço superior ao de mercado;
 VI - realizar operação financeira sem observância das normas legais e regulamentares ou aceitar garantia insuficiente ou inidônea;
 VII - conceder benefício administrativo ou fiscal sem a observância das formalidades legais ou regulamentares aplicáveis à espécie;
-VIII - frustrar a licitude de processo licitatório ou dispensá-lo indevidamente
+VIII - frustrar a licitude de processo licitatório ou de processo seletivo para celebração de parcerias com entidades sem fins lucrativos, ou dispensá-los indevidamente;
 IX - ordenar ou permitir a realização de despesas não autorizadas em lei ou regulamento;
 X - agir negligentemente na arrecadação de tributo ou renda, bem como no que diz respeito à conservação do patrimônio público;
 XI - liberar verba pública sem a estrita observância das normas pertinentes ou influir de qualquer forma para a sua aplicação irregular;
@@ -14,3 +14,8 @@ XII - permitir, facilitar ou concorrer para que terceiro se enriqueça ilicitame
 XIII - permitir que se utilize, em obra ou serviço particular, veículos, máquinas, equipamentos ou material de qualquer natureza, de propriedade ou à disposição de qualquer das entidades mencionadas no art. 1° desta lei, bem como o trabalho de servidor público, empregados ou terceiros contratados por essas entidades.
 XIV - celebrar contrato ou outro instrumento que tenha por objeto a prestação de serviços públicos por meio da gestão associada sem observar as formalidades previstas na lei;
 XV - celebrar contrato de rateio de consórcio público sem suficiente e prévia dotação orçamentária, ou sem observar as formalidades previstas na lei.
+XVI - facilitar ou concorrer, por qualquer forma, para a incorporação, ao patrimônio particular de pessoa física ou jurídica, de bens, rendas, verbas ou valores públicos transferidos pela administração pública a entidades privadas mediante celebração de parcerias, sem a observância das formalidades legais ou regulamentares aplicáveis à espécie;
+XVII - permitir ou concorrer para que pessoa física ou jurídica privada utilize bens, rendas, verbas ou valores públicos transferidos pela administração pública a entidade privada mediante celebração de parcerias, sem a observância das formalidades legais ou regulamentares aplicáveis à espécie;
+XVIII - celebrar parcerias da administração pública com entidades privadas sem a observância das formalidades legais ou regulamentares aplicáveis à espécie;
+XIX - agir negligentemente na celebração, fiscalização e análise das prestações de contas de parcerias firmadas pela administração pública com entidades privadas;
+XX - liberar recursos de parcerias firmadas pela administração pública com entidades privadas sem a estrita observância das normas pertinentes ou influir de qualquer forma para a sua aplicação irregular.
