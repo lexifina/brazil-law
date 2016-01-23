@@ -1,3 +1,4 @@
 Art. 15. Poderá ser criado, no âmbito do Poder Executivo federal, o Conselho Nacional de Fomento e Colaboração, de composição paritária entre representantes governamentais e organizações da sociedade civil, com a finalidade de divulgar boas práticas e de propor e apoiar políticas e ações voltadas ao fortalecimento das relações de fomento e de colaboração previstas nesta Lei.
 § 1º A composição e o funcionamento do Conselho Nacional de Fomento e Colaboração serão disciplinados em regulamento.
 § 2º Os demais entes federados também poderão criar instância participativa, nos termos deste artigo.
+§ 3º Os conselhos setoriais de políticas públicas e a administração pública serão consultados quanto às políticas e ações voltadas ao fortalecimento das relações de fomento e de colaboração propostas pelo Conselho de que trata o caput deste artigo.

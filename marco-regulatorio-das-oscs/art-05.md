@@ -1,4 +1,4 @@
-Art. 5º O regime jurídico de que trata esta Lei tem como fundamentos a gestão pública democrática, a participação social, o fortalecimento da sociedade civil e a transparência na aplicação dos recursos públicos, devendo obedecer aos princípios da legalidade, da legitimidade, da impessoalidade, da moralidade, da publicidade, da economicidade, da eficiência e da eficácia, além dos demais princípios constitucionais aplicáveis e dos relacionados a seguir:
+Art. 5º O regime jurídico de que trata esta Lei tem como fundamentos a gestão pública democrática, a participação social, o fortalecimento da sociedade civil, a transparência na aplicação dos recursos públicos, os princípios da legalidade, da legitimidade, da impessoalidade, da moralidade, da publicidade, da economicidade, da eficiência e da eficácia, destinando-se a assegurar:
 I - o reconhecimento da participação social como direito do cidadão;
 II - a solidariedade, a cooperação e o respeito à diversidade para a construção de valores de cidadania e de inclusão social e produtiva;
 III - a promoção do desenvolvimento local, regional e nacional, inclusivo e sustentável;

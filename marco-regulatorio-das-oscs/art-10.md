@@ -1,1 +1,1 @@
-Art. 10. A administração pública deverá manter, em seu sítio oficial na internet, a relação das parcerias celebradas, em ordem alfabética, pelo nome da organização da sociedade civil, por prazo não inferior a 5 (cinco) anos, contado da apreciação da prestação de contas final da parceria.
+Art. 10. A administração pública deverá manter, em seu sítio oficial na internet, a relação das parcerias celebradas e dos respectivos planos de trabalho, até cento e oitenta dias após o respectivo encerramento.

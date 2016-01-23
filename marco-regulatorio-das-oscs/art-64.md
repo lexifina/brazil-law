@@ -1,5 +1,5 @@
 Art. 64. A prestação de contas apresentada pela organização da sociedade civil deverá conter elementos que permitam ao gestor da parceria avaliar o andamento ou concluir que o seu objeto foi executado conforme pactuado, com a descrição pormenorizada das atividades realizadas e a comprovação do alcance das metas e dos resultados esperados, até o período de que trata a prestação de contas.
-§ 1º Serão glosados nas prestações de contas os valores que não atenderem ao disposto no caput deste artigo e nos arts. 53 e 54.
+§ 1º Serão glosados valores relacionados a metas e resultados descumpridos sem justificativa suficiente.
 § 2º Os dados financeiros serão analisados com o intuito de estabelecer o nexo de causalidade entre a receita e a despesa realizada, a sua conformidade e o cumprimento das normas pertinentes.
 § 3º A análise da prestação de contas deverá considerar a verdade real e os resultados alcançados.
 § 4º A prestação de contas da parceria observará regras específicas de acordo com o montante de recursos públicos envolvidos, nos termos das disposições e procedimentos estabelecidos conforme previsto no plano de trabalho e no termo de colaboração ou de fomento.

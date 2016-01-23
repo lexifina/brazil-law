@@ -1,0 +1,1 @@
+Art. 2º-A. As parcerias disciplinadas nesta Lei respeitarão, em todos os seus aspectos, as normas específicas das políticas públicas setoriais relativas ao objeto da parceria e as respectivas instâncias de pactuação e deliberação.
