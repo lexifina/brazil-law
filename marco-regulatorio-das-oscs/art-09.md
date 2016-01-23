@@ -1,1 +1,0 @@
-Art. 9º No início de cada ano civil, a administração pública fará publicar, nos meios oficiais de divulgação, os valores aprovados na lei orçamentária anual vigente para execução de programas e ações do plano plurianual em vigor, que poderão ser executados por meio de parcerias previstas nesta Lei.
