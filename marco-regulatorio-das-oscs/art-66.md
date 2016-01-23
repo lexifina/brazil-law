@@ -1,6 +1,6 @@
 Art. 66. A prestação de contas relativa à execução do termo de colaboração ou de fomento dar-se-á mediante a análise dos documentos previstos no plano de trabalho, nos termos do inciso IX do art. 22, além dos seguintes relatórios:
-I - Relatório de Execução do Objeto, elaborado pela organização da sociedade civil, assinado pelo seu representante legal, contendo as atividades desenvolvidas para o cumprimento do objeto e o comparativo de metas propostas com os resultados alcançados, a partir do cronograma acordado, anexando-se documentos de comprovação da realização das ações, tais como listas de presença, fotos e vídeos, se for o caso;
-II - Relatório de Execução Financeira, assinado pelo seu representante legal e o contador responsável, com a descrição das despesas e receitas efetivamente realizadas.
-Parágrafo único. O órgão público signatário do termo de colaboração ou do termo de fomento deverá considerar ainda em sua análise os seguintes relatórios elaborados internamente:
-I - relatório da visita técnica in loco realizada durante a execução da parceria, nos termos do art. 58;
+I - relatório de execução do objeto, elaborado pela organização da sociedade civil, contendo as atividades ou projetos desenvolvidos para o cumprimento do objeto e o comparativo de metas propostas com os resultados alcançados;
+II - relatório de execução financeira do termo de colaboração ou do termo de fomento, com a descrição das despesas e receitas efetivamente realizadas e sua vinculação com a execução do objeto, na hipótese de descumprimento de metas e resultados estabelecidos no plano de trabalho.
+Parágrafo único. A administração pública deverá considerar ainda em sua análise os seguintes relatórios elaborados internamente, quando houver:
+I - relatório de visita técnica in loco eventualmente realizada durante a execução da parceria;
 II - relatório técnico de monitoramento e avaliação, homologado pela comissão de monitoramento e avaliação designada, sobre a conformidade do cumprimento do objeto e os resultados alcançados durante a execução do termo de colaboração ou de fomento.
