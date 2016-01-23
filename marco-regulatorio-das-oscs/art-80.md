@@ -1,0 +1,1 @@
+Art. 80. O Sistema de Cadastramento Unificado de Fornecedores - SICAF, mantido pela União, fica disponibilizado aos demais entes federados, para fins do disposto no § 2º do art. 43 desta Lei, sem prejuízo do uso de seus próprios sistemas.

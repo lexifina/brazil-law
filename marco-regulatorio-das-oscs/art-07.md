@@ -1,0 +1,1 @@
+Art. 7º A União, em coordenação com os Estados, Distrito Federal, Municípios e organizações da sociedade civil, instituirá programas de capacitação para gestores, representantes de organizações da sociedade civil e conselheiros dos conselhos de políticas públicas, não constituindo a participação nos referidos programas condição para o exercício da função.

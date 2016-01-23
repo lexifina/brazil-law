@@ -1,0 +1,2 @@
+Art. 83. As parcerias existentes no momento da entrada em vigor desta Lei permanecerão regidas pela legislação vigente ao tempo de sua celebração, sem prejuízo da aplicação subsidiária desta Lei, naquilo em que for cabível, desde que em benefício do alcance do objeto da parceria.
+§ 1º A exceção do que trata o caput, não se aplica às prorrogações de parcerias firmadas após a promulgação desta Lei, exceto no caso de prorrogação de ofício prevista em lei ou regulamento, exclusivamente para a hipótese de atraso na liberação de recursos por parte da administração pública.

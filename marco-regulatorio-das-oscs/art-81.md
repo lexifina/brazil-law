@@ -1,0 +1,1 @@
+Art. 81. Mediante autorização da União, os Estados, os Municípios e o Distrito Federal poderão aderir ao Sistema de Gestão de Convênios e Contratos de Repasse - SICONV para utilizar suas funcionalidades no cumprimento desta Lei.

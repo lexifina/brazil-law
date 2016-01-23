@@ -1,0 +1,4 @@
+Art. 28. Somente depois de encerrada a etapa competitiva e ordenadas as propostas, a administração pública procederá à verificação dos documentos que comprovem o atendimento pela organização da sociedade civil selecionada dos requisitos previstos no inciso VII do § 1º do art. 24.
+§ 1º Na hipótese de a organização da sociedade civil selecionada não atender aos requisitos exigidos no inciso VII do § 1º do art. 24, aquela imediatamente mais bem classificada será convidada a aceitar a celebração de parceria nos mesmos termos ofertados pela concorrente desqualificada.
+§ 2º Caso a organização da sociedade civil convidada nos termos do § 1º deste artigo aceite celebrar a parceria, proceder-se-á à verificação dos documentos que comprovem o atendimento aos requisitos previstos no inciso VII do § 1º do art. 24.
+§ 3º O procedimento dos §§ 1º e 2º será seguido sucessivamente até que se conclua a seleção prevista no edital.

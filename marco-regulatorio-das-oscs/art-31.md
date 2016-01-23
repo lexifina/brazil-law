@@ -1,0 +1,1 @@
+Art. 31. Será considerado inexigível o chamamento público na hipótese de inviabilidade de competição entre as organizações da sociedade civil, em razão da natureza singular do objeto do plano de trabalho ou quando as metas somente puderem ser atingidas por uma entidade específica.
