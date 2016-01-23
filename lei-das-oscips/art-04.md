@@ -10,4 +10,4 @@ a) a observância dos princípios fundamentais de contabilidade e das Normas Bra
 b) que se dê publicidade por qualquer meio eficaz, no encerramento do exercício fiscal, ao relatório de atividades e das demonstrações financeiras da entidade, incluindo-se as certidões negativas de débitos junto ao INSS e ao FGTS, colocando-os à disposição para exame de qualquer cidadão;
 c) a realização de auditoria, inclusive por auditores externos independentes se for o caso, da aplicação dos eventuais recursos objeto do termo de parceria conforme previsto em regulamento;
 d) a prestação de contas de todos os recursos e bens de origem pública recebidos pelas Organizações da Sociedade Civil de Interesse Público será feita conforme determina o parágrafo único do art. 70 da Constituição Federal.
-Parágrafo único. É permitida a participação de servidores públicos na composição de conselho de Organização da Sociedade Civil de Interesse Público, vedada a percepção de remuneração ou subsídio, a qualquer título.
+Parágrafo único. É permitida a participação de servidores públicos na composição de conselho ou diretoria de Organização da Sociedade Civil de Interesse Público.
