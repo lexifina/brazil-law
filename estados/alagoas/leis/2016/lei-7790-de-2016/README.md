@@ -1,0 +1,5 @@
+# Lei nº 7.790, de 22 de janeiro de 2016, do Estado de Alagoas
+
+TORNA OBRIGATÓRIO AS ESCOLAS DAS REDES ESTADUAIS E MUNICIPAIS DE ENSINO BEM COMO AS ESCOLAS PARTICULARES A AFIXAR CARTAZ INFORMANDO O RESULTADO POR ELAS OBTIDO NA ULTIMA APURAÇÃO DO ÍNDICE DE DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA - IDEB - DO INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA - INEP.
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/1177>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2016/1177/1177_texto_integral.pdf>
