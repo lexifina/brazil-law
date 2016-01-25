@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado no que interessa (fls. 203):
+    “MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR. EDITAL SAEB 01/2008. PRELIMINARES DE ILEGITIMIDADE PASSIVA DO SECRETÁRIO E IMPOSSIBILIDADE JURÍDICA DO PEDIDO REJEITADAS. CONVOCAÇÃO DE CANDIDATO PARA DEMAIS ETAPAS APÓS LONGO PERÍODO. CONVOCAÇÃO REALIZADA EXCLUSIVAMENTE POR MEIO DE DIÁRIO OFICIAL. NÃO OCORRÊNCIA DE EFETIVA PUBLICIZAÇÃO DO ATO. VIOLAÇÃO AOS PRINCÍPIOS DA PUBLICIDADE, RAZOABILIDADE E PROPORCIONALIDADE. DIREITO DO IMPETRANTE DE TER SUA DOCUMENTAÇÃO RECEBIDA E DE PARTICIPAR DA DEMAIS ETAPAS DO CONCURSO. CONCESSÃO DA SEGURANÇA.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV; 37, I; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “é razoável a observância das publicações no Diário Oficial do Estado para convocação dos candidatos aprovados no Certame, não ocorrendo qualquer ilegalidade ou inconstitucionalidade nesta exigência, que só vem a obedecer a ordem constitucional.” (fls. 242)
+    A 2ª Vice-Presidência do TJ/BA inadmitiu o recurso, em virtude de inexistir ofensa direta à Constituição Federal; e de incidir na hipótese as Súmulas 284 e 636 do STF.
+    É o relatório. Decido.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (fls. 208-209):
+    “(…) ainda que se considerasse satisfatória a regulamentação editalícia quanto à publicação dos atos do certame, também se configura violado o direito líquido e certo do Impetrante no caso concreto. Isso porque, para uma situação habitual, se aplicam as normas habituais, entretanto, quanto a um fato inusitado, deve o regime jurídico a ele se moldar. As devidas proporções deste caso precisam ser ajustadas a fim de que se garanta a justiça.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Há, ainda, a necessidade, para se acolher a pretensão do recorrente, de proceder à análise das cláusulas editalícias que fundamentaram a conclusão do Tribunal. No entanto, tal providência é inadmissível em sede de recurso extraordinário, como expressamente reconhece a jurisprudência deste Tribunal (Súmula 454/STF).
+    Ademais, na espécie, ressalto que a violação do princípio da legalidade demanda necessariamente a análise de atos normativos infraconstitucionais. Aplicável à espécie, portanto, a súmula 636 do STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Por fim, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde os ora Agravantes.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 25 de janeiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
