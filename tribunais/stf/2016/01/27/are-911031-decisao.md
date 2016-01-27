@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Minas, assim ementado (fls. 540):
+    “APELAÇÃO CÍVEL/REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. MEDIDA LIMINAR CONCEDIDA. NATUREZA SATISFATIVA. PERDA SUPERVENIENTE DO OBJETO. INOCORRÊNCIA. PRELIMINAR REJEITADA. INTERDIÇÃO CAUTELAR. REQUISITOS. INEXISTÊNCIA. ATO ILEGAL. SEGURANÇA CONCEDIDA. SENTENÇA CONFIRMADA.
+    1. A medida liminar, no mandado de segurança, contém, por sua própria natureza, elementos de coincidência entre o que se antecipa e o que se pretende obter ao final do processo, porque, em essência, está vocacionada a garantir que a ordem imposta com a concessão da segurança seja eficaz no plano fático. Os pressupostos para a concessão da liminar estão previstos no art. 7º, III, da Lei 12.016/09, quais sejam: a relevância dos fundamentos em que se assenta o pedido formulado na inicial e o risco da ocorrência de lesão irreparável ao direito do impetrante, caso seja reconhecido somente no julgamento final de mérito.
+    2. Tendo em vista que a medida liminar destina-se a antecipar ao impetrante a fruição do direito ameaçado pela possibilidade de dano, a sua concessão não implica perda superveniente do interesse processual, mesmo que tenha natureza eminentemente satisfativa. Isso porque, uma vez concedida, sua eficácia somente se estende até a decisão de mérito, ocasião em que a atividade cognitiva exauriente do julgador substituirá a cognição realizada em juízo perfunctório que permitiu o deferimento do pedido liminar.
+    3. Aliás, tamanha se mostra a precariedade da medida liminar, que o julgador que a conceder, nos termos do art. 7º, § 3º, da Lei nº 12.016/09, poderá revogá-la a qualquer tempo, desde que verifique a desnecessidade dessa medida, como poderá restabelecê-la, se fatos supervenientes indicarem sua conveniência.
+    4. Dessa forma, ainda que a medida liminar concedida tenha caráter satisfativo, deve-se proceder ao regular julgamento do mérito a fim de que, após o contraditório e a ampla defesa, seja ratificada ou não a eficácia da medida anteriormente deferida, sob pena de ofensa ao devido processo legal.
+    5. O art. 102 e seus parágrafos da Lei Estadual nº 13.317/99 prevêem a possibilidade de adoção da medida de interdição cautelar de estabelecimento ou do produto, de forma parcial ou total, face à constatação de infração sanitária que possa ensejar risco à saúde da população.
+    6. Ausentes os requisitos da interdição cautelar, é de ser mantida a sentença concessiva da segurança.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LXIX; e 22, I e II, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (fls. 557):
+    “o v. Acórdão mostra-se totalmente incorreto, ao censurar a atividade da fiscalização sanitária estadual, já que não se pode concluir pela existência de direito líquido e certo, diante de normas que visam preservar a saúde pública, especialmente diante de evidências de irregularidades que desencadearam uma ação cautelar, plenamente autorizada pela legislação de regência.”
+    A Primeira Vice-Presidência do TJ/MG, inadmitiu o recurso, em virtude de incidir na hipótese as Súmulas 279, 280, 282 e 356 do STF.
+    É o relatório. Decido.
+    Verifica-se que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    Com efeito, a petição de agravo deixou de impugnar a negativa de seguimento em razão da incidência das Súmulas 279 e 280 do STF. O recurso, portanto, não ataca, especificamente, todos os fundamentos da decisão que inadmitiu o recurso extraordinário. Sendo assim, torna-se inviável seu conhecimento, nos termos da Súmula 287 do STF e do art. 544, § 4º, I, do CPC.
+    A esse respeito, confiram-se os seguintes precedentes: ARE 813.138-ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.12.2014; ARE 832.532-AgR, Segunda Turma, DJe 11.11.2014.
+    Além disso, ainda que se analise o mérito do agravo, a irresignação não prosperaria. Constata-se que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. A jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Além disso, não foram opostos embargos declaratórios com a finalidade de sanar a omissão. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Por fim, observa-se que o Tribunal de origem assim asseverou (fls 545v):
+    “(...)
+    Não obstante, como bem obtemperou o i. Magistrado a quo e a i. Promotora de Justiça no parecer de f. 396/403, a interdição foi realizada sem que fossem constatados flagrantes indícios de alteração ou adulteração do produto ou da substância que seriam as circunstâncias que, em tese, tipificariam infração sanitária em que haja risco para a saúde da população.
+    Não se trata de ilegitimidade da autuação, mas apenas de ausência justificativa para a interdição cautelar como foi feito.
+    Não se pode olvidar que o “Relatório de Inspeção” realizado pela Coordenadoria de Vigilância Sanitária menos de um mês da data da autuação concluiu pela situação ‘satisfatória’ da empresa e ‘risco’ baixo, nos termos do documento de f. 28/31.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o exame da legislação local (Lei Estadual 13.317/1999) e o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 280 e 279 do STF.
+    Ante o exposto, não conheço do agravo, nos termos dos arts. 544, § 4º, I, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 27 de janeiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
