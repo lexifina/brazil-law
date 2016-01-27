@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal do Estado do Rio de Janeiro, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. SERVIDOR PÚBLICO. NOMEAÇÃO DE ASSESSORES PARLAMENTARES QUE ATUAVAM COMO "LARANJAS". ATO DE IMPROBIDADE. Do exame aprofundado dos elementos probatórios coligidos nos autos, se verifica que o apelante se aproveitou da fragilidade dos demais réus para nomeá-los como assessores, retendo os vencimentos destes em quase sua totalidade. Sentença que merece ser mantida. NEGADO PROVIMENTO AO RECURSO”.(eDOC 7, p. 4)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se, violação ao artigo 5º, LV e LVII, do texto constitucional.
+    Nas razões recursais, defende-se, em síntese, violação ao princípios do contraditório e da ampla defesa. Ademais, aduz que não existem provas nos autos que comprovem pratica de ato de improbidade.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, ressalta-se é firme a jurisprudência do Supremo Tribunal Federal no sentido de que a afronta aos princípios constitucionais do contraditório, da ampla defesa, do devido processo legal, e dos limites da coisa julgada, se dependente de reexame prévio de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional, o que inviabiliza o prosseguimento do recurso extraordinário. A repercussão geral da matéria foi rejeitada no julgamento do ARE 748.371 – RG, de minha relatoria, tema 660 da sistemática da repercussão geral, assim ementado:
+    Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+    Ademais, o Tribunal de origem, mediante análise do conjunto fático-probatório dos autos consignou o seguinte: “o vereador NELSON VÂNIO PINTO DE JESUS, se utilizava de pessoas humildes para nomeá-las como assessoras, obrigando que elas repassassem quase a totalidade dos vencimentos para ele”. (eDOC 7, p. 8)
+    Dessa forma, para divergir do consignado pelo Tribunal de origem, seria necessário o reexame do acervo fático-probatório dos autos, o que é inviável em sede de apelo extremo, por óbice do disposto na Súmula 279 do STF.
+    Nesse sentido, confiram-se os precedentes de ambas as turmas:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. IRREGULARIDADE EM CONTRATAÇÕES. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS Nº 279 E Nº 280 DO STF. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.” (AI 858248 AgR, Rel.  Min. LUIZ FUX, Primeira Turma, DJe 6.11.2015)
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO E PROCESSUAL CIVIL. ATO DE IMPROBIDADE ADMINISTRATIVA: ALTERAÇÃO UNILATERAL DE CONVÊNIO. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. INDEFERIMENTO DE PROVA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 847121 ED, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 13.2.2015)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 27 de janeiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
