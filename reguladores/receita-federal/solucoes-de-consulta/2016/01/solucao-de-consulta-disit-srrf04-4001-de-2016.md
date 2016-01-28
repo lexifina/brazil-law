@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF04 nº 4001, de 25 de janeiro de 2016
+Assunto: Imposto sobre a Renda de Pessoa Jurídica – IRPJ
+Relativamente aos fatos geradores ocorridos a partir de 26 de novembro de 2014, a sociedade empresária, prestadora de serviços de representação comercial autônoma, nos termos da Lei nº 4.886, de 1965, deve utilizar o percentual de 32% (trinta e dois por cento), a ser aplicado sobre a receita bruta, para fins de determinação da parcela da base de cálculo presumida do IRPJ, ainda que aufira receita bruta anual até R$ 120.000,00 (cento e vinte mil reais).
+Por outro lado, a prestadora de serviços de representação comercial autônoma, na forma da referida Lei nº 4.886, de 1965, revestida daquele mesmo tipo societário, cuja receita bruta anual não tenha excedido R$ 120.000,00 (cento e vinte mil reais), podia empregar o coeficiente de 16% (dezesseis por cento) sobre a receita bruta, para efeito de apuração da parcela da base de cálculo presumida do IRPJ, relativamente aos fatos geradores ocorridos até o dia 25 de novembro de 2014.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 200, DE 5 DE AGOSTO DE 2015.
+Dispositivos Legais: Lei nº 4.886, de 1965; Lei nº 9.250, de 1995, art. 15; Lei nº 9.250, de 1995, art. 40; Instrução Normativa SRF nº 93, de 1997, art. 3º, § 2º, inciso IV, alínea “a”, e § 3º, e art. 36, §3º; Instrução Normativa RFB nº 1.515, de 2014, art. 4º, § 2º, alínea “a”, e § 5º, e art. 122, § 7º.
+[arquivo anexo: SC SRRF04-Disit nº 4001-2016.pdf]
