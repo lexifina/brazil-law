@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+    “EMBARGOS À EXECUÇÃO. TÍTULO JUDICIAL. ESTADO DE MINAS GERAIS. EXCESSO. LIMITAÇÃO TEMPORAL. REESTRUTURAÇÃO DOS VENCIMENTOS CONFERIDA PELA LEI DELEGADA N.º 43/2000. REDISCUSSÃO DE MATÉRIA AFETA AO PROCESSO DE CONHECIMENTO. IMPOSSIBILIDADE. COISA JULGADA. RECURSO PARCIALMENTE PROVIDO. PROCEDÊNCIA PARCIAL DOS EMBARGOS. Os embargos à execução de sentença não se prestam à rediscussão de questões que, por sua natureza, deveriam ter sido debatidas na fase conhecimento. A omissão do embargante, em momento oportuno, exaure a possibilidade de rediscussão da matéria na fase de execução. Dar parcial provimento ao recurso.” (fl. 158)
+    Opostos embargos declaratórios, estes foram rejeitados. (fl. 171).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do texto constitucional, sustenta-se, em preliminar, a repercussão geral da matéria.
+    Quanto ao mérito, aponta-se violação ao art. 37, XIV, da Constituição Federal.
+    Nas razões recursais, alega-se, em síntese, que o assunto versado nos autos é análogo ao disposto no RE-RG 561.836, Rel. Min. Luiz Fux, correspondente ao tema 5 da sistemática da repercussão geral.
+    Decido.
+    Não assiste razão ao recorrente.
+    Inicialmente, destaco que o Tribunal de origem não entrou no mérito da questão referente à limitação temporal dos efeitos da Lei Delegada 43/2000, do Estado de Minas Gerais, cingindo-se a consignar que seria incabível, em sede de embargos à execução, a rediscussão de matéria própria da fase de conhecimento. A esse propósito, confira-se trecho do acórdão recorrido:
+    “Volvendo à demanda ora em apreço, verifica-se que o início da vigência da Lei Delegada n.º 43 ocorreu em 01/06/2000. Sendo assim, não há falar que a incidência da mencionada lei ocorreu em momento superveniente à prolação da decisão terminativa (acórdão – f. 328/340 – apenso), tendo em vista que o seu trânsito em julgado se deu em 07/04/2010 (f. 410 – apenso). Nesse contexto, o inciso VI do art. 741 do CPC não aplica ao caso sub examine.
+    Importa registrar, portanto, que a limitação temporal suscitada nos embargos à execução de sentença reabriria a discussão de matéria própria da fase de conhecimento. Como o acórdão que definiu a lide transitou em julgado aos 07/04/2010, o exame da limitação temporal, determinada pela Lei Delegada nº 43/2000, consistiria em afronta a coisa julgada.” (fl. 160)
+    Por sua vez, o recorrente alega que o caso dos autos se enquadraria ao disposto no tema 5 da sistemática da repercussão geral (Compensação da diferença de 11,98%, resultante da conversão em URV dos valores em cruzeiros reais, com o reajuste ocorrido na data-base subsequente), não se insurgindo contra o fundamento do acórdão recorrido referente aos limites da matéria que pode ser suscitada pelo devedor na fase de execução.
+    Assim, é notória a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão recorrido, o que dá ensejo à aplicação da Súmula 284 do STF.
+    Ademais, ainda que assim não o fosse, verifico que a controvérsia em questão limita-se à análise da legislação infraconstitucional, o que igualmente constitui óbice para o provimento do recurso extraordinário.
+    Nesse sentido, confira-se:
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Preclusão. Ocorrência. Discussão. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. A Corte de origem assentou que “não se pode pretender, em sede de embargos à execução fundado em sentença judicial transitada em julgado, a rediscussão de matérias que deveriam ter sido suscitadas na ação de conhecimento”. 2. A discussão acerca da ocorrência ou não da preclusão não prescinde do exame do conjunto fático probatório da causa (Súmula nº 279/STF), nem da análise da legislação infraconstitucional, o que é inviável em recurso extraordinário. 3. Agravo regimental não provido.
+(ARE-AgR 832.157, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 24.92015)
+    Ademais, vale dizer que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 28 de janeiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
