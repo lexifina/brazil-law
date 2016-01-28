@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 496):
+    “SERVIDORA PÚBLICA MUNICIPAL - Professora I que pretende receber gratificação universitária prevista no art. 185, da Lei Municipal nº 2.024/91, concedida aos portadores de curso de nível superior, bem como a progressão funcional, admitida no art. 18, da Lei Municipal nº 2.445/96 – Cabimento - Direitos expressos em legislação municipal e que não poderão ser suprimidos pela Administração Municipal, mormente quando comprovados os requisitos exigidos para sua concessão - Omissão da Administração na implementação de avaliação de desempenho que não poderá se voltar em seu benefício - Preliminares arguidas pela Municipalidade ré afastadas - Procedência total da ação - Sentença reformada em parte - Recurso da autora provido e não provido o da Municipalidade ré.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LV; 93, IX; e 167, I, II, III e V, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a nulidade do acórdão recorrido porquanto está despido de fundamentação. Aduz, ainda, a ilegalidade da despesa imposta ao ente público sem a devida previsão orçamentária.
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso em virtude de incidir na hipótese a Súmula 282/STF.
+    É o relatório. Decido.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou:
+    “(...) quanto a este pedido de progressão funcional, expressamente admitido pelo art. 18, da Lei Municipal nº 2.445/96, com pontuação e graduação própria a cada atividade de qualificação profissional, a ação também será de procedência com a reforma da r. sentença neste aspecto. (fls. 506)
+    (…)
+    É de se convir que a concessão desta gratificação decorre da expressa previsão legal (art. 185, da Lei Municipal nº 2.024/91), e além disso, nenhuma inconstitucionalidade há deste dispositivo, senão apenas dos artigos 23, 24 e 26, do Estatuto dos Servidores Públicos Municipais, conforme ADIn Estadual nº 145.319-0/4-00, julgado pelo Órgão Especial deste E. Tribunal de Justiça em 11/07/07, relatado pelo Desembargador Canellas de Godoy.”
+    Sendo assim, verifica-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria a análise da legislação local infraconstitucional aplicável à espécie (Leis Municipais 2.024/1991 e 2.445/1996), o que inviabiliza o processamento do apelo extremo, nos termos da vedação contida na Súmula 280 do STF.
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional. (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, Tema 660 da sistemática da RG).
+    Por fim, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde os ora Agravantes.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 28 de janeiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
