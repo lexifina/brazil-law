@@ -1,0 +1,52 @@
+DECISÃO
+AÇÃO PENAL. DEPUTADO FEDERAL. CRIME DE PREVARICAÇÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. PEDIDO DE ARQUIVAMENTO DOS AUTOS PELA PROCURADORIA-GERAL DA REPÚBLICA. ARQUIVAMENTO DETERMINADO. REMESSA DOS AUTOS AO JUÍZO DE PRIMEIRO GRAU PARA PROSSEGUIMENTO DO FEITO QUANTO AOS DEMAIS RÉUS.
+Relatório
+    1. Ação Penal proposta pelo Ministério Público do Maranhão para apurar crime de prevaricação (art. 319 do Código Penal), que teria sido praticado por Domingos José Sores de Brito, Maria do Amparo Araújo Melo e João Castelo Ribeiro Gonçalves, este último eleito Deputado Federal.
+    2. Em 1º.4.2013, a denúncia foi oferecida (fls. 321-334), tendo sido recebida em 7.5.2013 pelo Juízo da Sexta Vara Criminal da Comarca de São Luís/MA (fl. 307).
+    3. Em 16.1.2015, o Juízo da 6ª Vara Criminal da Comarca de São Luís/MA desmembrou o processo e declinou a competência para este Supremo Tribunal Federal, por ser o investigado João Castelo Ribeiro Gonçalves detentor de prerrogativa de foro, no exercício do cargo público de Deputado Federal (fl. 384).
+    4. Em 12.6.2015, os autos do inquérito foram recebidos neste Supremo Tribunal (fl. 394), vindo-me conclusos em 15.6.2015 (fl. 395).
+    5. Em 18.6.2015, determinei vista ao Procurador-Geral da República, que se manifestou nos termos seguintes:
+    “PENAL. PROCESSO PENAL. INQUÉRITO. OFERECIMENTO DE DENÚNCIA. PREVARICAÇÃO. DESMEMBRAMENTO PELO JUÍZO A QUO E REMESSA DE CÓPIA DO FEITO AO STF. AFRONTA À COMPETÊNCIA DA SUPREMA CORTE. PRECEDENTES. REQUISIÇÃO DOS AUTOS ORIGINAIS PARA DECISÃO SOBRE O DESMEMBRAMENTO” (fl. 399).
+    6. Em 19.8.2015, anulei a decisão do juízo de primeiro grau, que desmembrou o processo, e requisitei o envio dos autos originais, os quais chegaram a este Supremo Tribunal em 23.10.2015 (fl. 419):
+    “INQUÉRITO. DEPUTADO FEDERAL. CRIME DE PREVARICAÇÃO. DESMEMBRAMENTO EM RELAÇÃO AOS CORRÉUS: COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. DEFERIMENTO DA DILIGÊNCIA REQUERIDA PELO PROCURADOR-GERAL DA REPÚBLICA” (fl. 404).
+    7. Em 27.11.2015, o Procurador-Geral da República manifestou nos termos seguintes:
+    “PENAL. PROCESSO PENAL. AÇÃO PENAL. PREVARICAÇÃO. REMESSA DE AUTOS ORIGINAIS AO STF. PRESCRIÇÃO EM RELAÇÃO AO CONGRESSISTA, QUE NA DATA DE RECEBIMENTO DA DENÚNCIA TINHA 75 ANOS. REMESSA À PRIMEIRA INSTÂNCIA PARA CONTINUAÇÃO DO FEITO EM RELAÇÃO AOS DEMAIS RÉUS.
+    O Procurador-Geral da República vem expor e requerer o que segue.
+    Como afirmado na manifestação de fls. 399/402, "o juízo da 6ª Vara Criminal do Termo de São Luís/MA, ao desmembrar o feito e remeter cópia dos autos ao STF para prosseguimento apenas em relação ao Deputado Federal João Castelo Ribeiro Gonçalves, usurpou a competência da Suprema Corte".
+    Em razão disso, Vossa Excelência anulou a decisão de primeira instância que desmembrou o feito, e determinou a remessa dos autos originais ao STF (fls. 404/408), que foram apensados ao presente feito e remetidos à PGR para manifestação.
+    Contudo, em análise do feito, verifica-se que o crime de prevaricação já estava prescrito em relação ao Deputado Federal João Castelo Ribeiro Gonçalves antes mesmo do recebimento da denúncia.
+    Segundo infere-se da exordial acusatória, o delito de prevaricação consumou-se entre 10.11.2010 e 24.11.2010, período em que foi constituída, de forma ilegal, a comissão para avaliação da majoração das taxas de IPTU e também ocorreu o atropelo da legislação municipal, resultando na ilegal aprovação do estudo para majoração deste tributo.
+    Contudo, o ex-Prefeito de São Luís, na data do recebimento denúncia, tinha 75 anos de idade e já fazia jus à redução do prazo prescricional previsto no art. 115 do Código Penal.
+    O crime previsto no art. 319 do Código Penal tem pena máxima de 1 ano e, portanto, prazo prescricional de 4 anos (art. 109, inciso V, do Código Penal). Como o delito mencionado na denúncia foi praticado entre 10.11.2010 e 24.11.2010, aplicando-se o prazo prescricional reduzido à metade, a prescrição foi alcançada entre 9.11.2012 e 23.11.2012, sendo que a denúncia foi recebida apenas em 7.5.2013.
+    Assim, com a declaração de extinção da punibilidade em razão da prescrição em favor do Deputado Federal João Castelo Ribeiro Gonçalves, cessa a competência do STF para julgar a ação penal em relação aos demais réus, que não têm prerrogativa de foro perante a Suprema Corte.
+    Nesse sentido, devem os autos ser devolvidos ao juízo a quo para prosseguimento da ação penal.
+    Ante o exposto, o Procurador-Geral da República requer a declaração de extinção da punibilidade em favor do Deputado Federal João Castelo Ribeiro Gonçalves, em razão do advento da prescrição (art. 107, inciso IV, do Código Penal), com a devolução dos autos da ação penal n° 12019-31.2013.8.10.0001 (apensos 1 e 2) ao juízo a quo, para prosseguimento do processo em relação aos denunciados Maria do Amparo Araújo Melo e Domingos José Soares de Brito, e posterior arquivamento do presente feito” (fl. 425-427).
+    Examinada a matéria posta à apreciação, DECIDO.
+    8. O requerimento formulado pelo Procurador-Geral da República fundamenta-se na prescrição da pretensão punitiva, que, na linha da jurisprudência sedimentada deste Supremo Tribunal, “há de o juiz proferir ... para declará-la ou para denegá-la, caso em que o julgado vinculará a acusação: há, então, julgamento definitivo” (Inquérito n. 1.604-QO, Relator o Ministro Sepúlveda Pertence, DJ 13.12.2002).
+    Nesse sentido, por exemplo, as decisões monocráticas proferidas na Ação Penal n. 443, Relator o Ministro Joaquim Barbosa, DJ 24.10.2007; nas Petições ns. 3.641, de minha relatoria, DJ 1º.8.2006; 4.548, Relator o Ministro Menezes Direito, DJ 18.8.2009; 3.590, Relator o Ministro Gilmar Mendes; e nos Inquéritos ns. 2.806, Relator o Ministro Carlos Britto, DJ 30.6.2009; 2.654, Relator o Ministro Joaquim Barbosa, DJ 7.4.2008; 2.093, Relator o Ministro Nelson Jobim, DJ 24.3.2004; e 1.950, Relator o Ministro Sepúlveda Pertence, DJ 30.3.2006, este último salientando:
+    “(...) DECISÃO: Extrato da denúncia (f. 134/138):
+    ‘O MINISTÉRIO PÚBLICO FEDERAL (...) vem, perante esse Colendo Supremo Tribunal Federal, oferecer DENÚNCIA em desfavor...
+    1. Consta do referido procedimento investigatório que no dia 03 de março de 2002, por volta das 18 horas, na sala 1 do Aeroporto de Congonhas, São Paulo-SP, foi detectada pela fiscalização de raio x a existência de grande quantidade de dinheiro, em espécie, na bagagem de mão do ora denunciado, que embarcava no vôo 3230 da TAM com destino a Belo Horizonte-MG.
+    ...
+    5. As provas coligidas demonstram a total improcedência das manifestações do ora denunciado juntadas aos autos.
+    6. Ao utilizar expressões desprestigiadoras e humilhantes dirigidas a funcionários públicos no exercício de suas funções, com o propósito de menosprezá-los, é de se concluir que o denunciado incorreu no crime de desacato, previsto no art. 331 do CP.
+    ...
+    8. Dessume-se, portanto, que o denunciado, agindo com vontade livre e consciente de menosprezar e humilhar, dirigida à produção do resultado criminoso, desacatou policiais federais no exercício regular de suas funções. Está, pois, incurso nas penas do art. 331 do Código Penal.
+    ...
+    Considerando-se os efeitos de coisa julgada material, o arquivamento com fundamento na extinção da punibilidade pela prescrição há de ser objeto de decisão do órgão judicial competente (Inq 1.538 - QO, Pleno, Pertence, DJ 14.9.01).
+    Os fatos, segundo a denúncia, ocorreram em ‘03 de março de 2002’, sem que houvesse, desde então, qualquer causa interruptiva da prescrição que, hoje - transcorridos mais 4 anos -, já se operou (C. Penal, arts. 10; 107, IV; 109, V; 114, II; e 331 ).
+    Assim - no uso do poder que confere ao relator o art. 3º, II, da L. 8.038/90 -, julgo extinta a punibilidade do fato pela prescrição da pretensão punitiva (L. 8.038/90, art. 3º, II).
+    Arquive-se (...)”.
+    9.  O crime de prevaricação (art. 319 do Código Penal) imputado ao réu João Castelo Ribeiro Gonçalves, Deputado Federal, teria sido praticado “entre 10.11.2010 e 24.11.2010, período em que foi constituída, de forma ilegal, a comissão para avaliação da majoração das taxas de IPTU” (fl. 426).
+    10. A pena máxima em abstrato estabelecida para o crime de prevaricação é de um ano (Art. 319 - Retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal: Pena - detenção, de três meses a um ano, e multa”), operando-se a prescrição da pretensão punitiva do Estado em quatro anos, a teor do disposto no 109, inc. V, do código Penal.
+    11. Consta do sítio da Câmara dos Deputados (www.camara.gov.br) ter nascido o réu em 19.10.1937, contando, atualmente, com mais de setenta anos de idade. Incide, portanto, a regra do art. 115 do Código Penal, reduzindo-se pela metade o prazo da prescrição, que passou a ser de dois anos.
+    12. Assim, entre as datas da suposta prática dos fatos (10.11.2010 a 24.11.2010) até a data do recebimento da denúncia, primeiro marco interruptivo, (7.5.2013 – fl. 307) e entre esta data e o presente momento, transcorreu prazo superior a dois anos, impondo-se o reconhecimento da prescrição da pretensão punitiva.
+    É de se realçar terem os autos chegado a este Supremo Tribunal apenas em 12 de junho de 2015 (fl. 394), quando já implementado o prazo prescricional.
+    Assim, a prescrição afirmada pela Procuradoria-Geral da República e a ser reconhecida ocorreu antes da chegada dos autos neste Supremo Tribunal Federal.
+    13. Pelo exposto, acolhendo o parecer do Ministério Público, reconheço a prescrição da pretensão punitiva e declaro extinta a punibilidade quanto aos fatos imputados ao réu João Castelo Ribeiro Gonçalves, com fundamento nos arts. 107, inc. IV, 109, inc. V, e 115 do Código Penal, além do art. 3º, inc. II, da Lei n. 8.038/90, c/c art. 21, inc. XV, e art. 231, § 4º, do Regimento Interno do Supremo Tribunal Federal.
+    Defiro a providência requerida e devidamente fundamentada pela Procuradoria-Geral da República e determino “a devolução dos autos da ação penal n° 12019-31.2013.8.10.0001 (apensos 1 e 2) ao juízo a quo, para prosseguimento do processo em relação aos denunciados Maria do Amparo Araújo Melo e Domingos José Soares de Brito” (fl. 427).
+    Publique-se.
+    Arquive-se.
+    Brasília, 28 de janeiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
