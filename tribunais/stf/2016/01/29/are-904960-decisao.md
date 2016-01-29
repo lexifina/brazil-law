@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo que reformou sentença para a majorar a condenação referente à indenização por danos morais, decorrente da inscrição indevida em cadastro de inadimplentes.
+    No recurso, insurge-se contra a condenação ao pagamento da indenização por danos morais, apontando-se ofensa aos princípios do devido processo legal, do contraditório, da ampla defesa, da isonomia, do juiz natural, bem como aos princípios da inafastabilidade da jurisdição, publicidade, duplo grau de jurisdição e ao dever constitucional de fundamentação das decisões.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    O Plenário deste Tribunal, no exame do RE-RG 602.136, de relatoria da Ministra Ellen Gracie, DJe 03.12.2009 (Tema 232), reconheceu a inexistência de repercussão geral, nos casos em que se discute a indenização por danos morais decorrentes de inscrição indevida em cadastro de inadimplentes.
+    No que se refere à obrigatoriedade de fundamentação das decisões judiciais, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses da Recorrente. Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 29 de janeiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
