@@ -1,0 +1,9 @@
+DESPACHO:
+Trata-se de duas petições (n. 53585/2015 e 54125/2015), protocoladas em 19.10.2015 e 21.10.2015 respectivamente, sob a denominação de agravo regimental, contra decisão monocrática que proferi em sede de uma terceira manifestação da parte, na qual se buscou rediscutir acórdão do Plenário desta Corte, já transitado em julgado. As petições ora analisadas, tal como a anterior, não são admissíveis, uma vez que expõem pretensão recursal contra pronunciamento do qual já não cabe qualquer recurso.
+Fazendo um breve resumo do caso, o peticionário interpôs agravo perante o Supremo Tribunal Federal, visando ao conhecimento e subsequente provimento de recurso extraordinário inadmitido na origem. Seu agravo foi rejeitado pela Primeira Turma da Corte, em acórdão mantido pelo Plenário do STF em sede de embargos de declaração, recebidos como agravo regimental, em embargos de divergência. Inconformado, o peticionário apresentou, já após o prazo para oferecimento de novos embargos de declaração, manifestação requerendo a reforma do acórdão. Em 05.10.2015, esclareci que nada mais havia a se prover e ressaltei que o Plenário da Corte já havia determinado, inclusive, a baixa dos autos à origem.
+Em 19.10.2015 e 21.10.2015, foram protocoladas as petições em apreço, reiterando a argumentação em favor da reforma de acórdão proferido pelo Plenário. Não há, todavia, conforme já assinalado, jurisdição a ser ainda exercida. A parte já obteve a prestação jurisdicional devida. O fato de não ter logrado decisão no sentido que buscava não lhe autoriza a postergar a duração do processo infinitamente.
+Nego, portanto, seguimento às referidas petições (n. 53585/2015 e 54125/2015). Tendo em vista que os autos sequer se encontram neste Tribunal, determino à Secretaria a adoção das providências cabíveis para arquivamento das peças e do presente despacho.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2015.
+    Ministro Luís Roberto Barroso
+    Relator
