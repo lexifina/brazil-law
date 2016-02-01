@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, nos seguintes termos:
+    “TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. ELETROBRÁS. UNIÃO. LEGITIMIDADE PASSIVA. COMPROVANTES DE RECOLHIMENTO DA EXAÇÃO. CORREÇÃO MONETÁRIA. JUROS. PRESCRIÇÃO. CONVERSÃO EM AÇÕES. POSSIBILIDADE. 1. A União e a ELETROBRÁS possuem legitimidade para figurar no pólo passivo da demanda. 2. Os documentos necessários para apuração do valor da condenação podem ser apresentados na fase de liquidação de sentença. 3. A ação que visa obter a correção monetária e os respectivos juros sobre os valores recolhidos a título do empréstimo compulsório de energia elétrica sujeita-se à prescrição quinquenal prevista no art. 1º do Dec. n. 20.910/1932, que deve ser contada a partir da lesão. 4. Em se tratando das diferenças de correção monetária incidente sobre o principal, e dos juros remuneratórios dela decorrentes, a lesão ao direito do consumidor ocorreu no momento da restituição do empréstimo em valor 'a menor', ou seja, na data das Assembléias que homologaram a conversão dos créditos em ações. 5. Reconhecido o direito às diferenças da correção monetária e juros, de acordo com o que decidiu o STJ no REsp 1.003.955-RS, Rel. Min. Eliana Calmon.”
+    De plano, verifica-se que a matéria controversa nos autos já se encontra afetada à sistemática da repercussão geral no bojo dos Temas 319 e 489, cujos recursos-paradigma são, respectivamente, o AI-RG 735.933, De 06.12.2010; e o AI-RG 810.097, DJe 18.11.2011, ambos de relatoria do Ministro Gilmar Mendes, assim ementados:
+    “EMPRÉSTIMOS COMPULSÓRIOS SOBRE O CONSUMO DE ENERGIA ELÉTRICA. Lei 4.156/62. RESTITUIÇÃO. CRITÉRIOS DE CORREÇÃO MONETÁRIA. METÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA.
+          “EMPRÉSTIMOS COMPULSÓRIOS SOBRE O CONSUMO DE ENERGIA ELÉTRICA. LEI N. 4.156/62. RESTITUIÇÃO. RESPONSABILIDADE SOLIDÁRIA DA UNIÃO. MATÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL”.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
