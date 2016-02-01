@@ -1,0 +1,12 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Impõe-se observar, ainda, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos por ambas as Turmas desta Suprema Corte (ARE 801.252/PE, Rel. Min. DIAS TOFFOLI – ARE 836.725/CE, Rel. Min. ROBERTO BARROSO – ARE 909.734/RS, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. NATUREZA JURÍDICA DA GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS – GACEN. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. ”
+    (ARE 799.926-AgR/PE, Rel. Min. CÁRMEN LÚCIA)
+    “DIREITO ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS – GACEN CRIADA EM SUBSTITUIÇÃO À INDENIZAÇÃO DE CAMPO. LEI 11.784/2008, ART. 55. ACÓRDÃO REGIONAL DECIDIU QUE A VANTAGEM PECUNIÁRIA TEM NATUREZA INDENIZATÓRIA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 17.12.2010.”
+    (RE 716.405-ED/GO, Rel. Min. ROSA WEBER)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 01 de fevereiro de 2016.
+Ministro CELSO DE MELLO
+Relator
