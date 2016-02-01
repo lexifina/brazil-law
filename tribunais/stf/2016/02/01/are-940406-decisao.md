@@ -1,0 +1,18 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 6ª Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. MULTA EX OFFICIO. REDUÇÃO PARA 2%. § 1°, DO ART. 52, DO CDC, COM A REDAÇÃO DADA PELA LEI N. 9.298/96. INAPLICABILIDADE. REDUÇÃO PARA 50%. APLICABILIDADE DO ART. 44, II, DA LEI N. 9.430/96.
+    I – Multa ex officio, em face da falta de recolhimento do tributo, fixada em 75%. Efeito confiscatório verificado na cobrança. Redução para 50%, em consonância com o art. 44, inciso II, da Lei n. 9.430/96. Precedentes desta Turma.
+    II – Remessa oficial parcialmente provida.”
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 97; 150, IV, da Carta. Sustenta, em síntese, que foi aplicado de forma subvertida a vedação de confisco às multas tributárias, bem como houve violação a cláusula de reserva de plenário.
+    A decisão agravada negou seguimento sob os seguintes fundamentos:
+    (i) não foi declarada a inconstitucionalidade da lei, apenas se analisou o caso concreto com fundamento em interpretação sistemática;
+    (ii) quanto ao art. 150, IV, da CF, não foi obedecido o requisito do prequestionamento, a atrair ao caso a incidência do óbice consubstanciado na Súmula 282 do STF.
+    A pretensão recursal não merece prosperar. Tal como assentado na decisão agravada, quanto à alegada violação ao art. 97 da Constituição, ressalta-se que a jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Nessa linha, veja-se o ARE 723.052, julgado sob a relatoria do Ministro Marco Aurélio, assim ementado:
+    “RECURSO EXTRAORDINÁRIO reserva DE PLENÁRIO. Descabe confundir reserva de Plenário artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé”.
+    No caso, o Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse qualquer declaração de sua incompatibilidade com a Constituição Federal. Assim, não há que falar em ofensa ao art. 97 da Constituição.
+    Quanto à alegada violação ao artigo 150, IV, da Carta, cumpre ressaltar que a matéria está prequestionada. No que tange ao quantum da multa e à discussão relativa a seu caráter confiscatório, o plenário do Supremo Tribunal Federal, nos autos do RE 640.452-RG, de minha relatoria, reconheceu a repercussão geral da matéria em exame (Tema 487). Trata-se de recurso extraordinário em que se discute, à luz do art. 150, IV, da Constituição Federal, parâmetros quantitativos para aferir as hipóteses em que a multa por descumprimento de obrigação acessória possui, ou não, caráter confiscatório.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC no que concerne à desproporcionalidade da multa.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
