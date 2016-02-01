@@ -1,0 +1,29 @@
+Decisão: Trata-se recurso extraordinário com agravo interposto em face do acórdão do Tribunal de Justiça do Estado do Estado do Mato Grosso do Sul, cuja ementa reproduz-se a seguir:
+    “EMBARGOS INFRINGENTES EM APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESPONSABILIDADE OBJETIVA DO ESTADO. DANO MORAL EM DECORRÊNCIA DO AJUIZAMENTO DE DEMANDA EMBASADA EM CDA NULA. INDISPONIBILIDADE INDEVIDA DE BENS. QUANTUM ARBITRADO MAJORADO. LUCROS CESSANTES. POSSIBILIDADE DE AFERIÇÃO EM LIQUIDAÇÃO DE SENTENÇA. CORREÇÃO MONETÁRIA A SER CALCULADA OBSERVANDO-SE, APÓS 29.6.2009, OS ÍNDICES DE REMUNERAÇÃO DA POUPANÇA. JUROS DE MORA. CONTAGEM À TAXA DE 0,5% AO MÊS ATÉ 29.6.2009, A PARTIR DE QUANDO SERÃO CALCULADOS PELOS JUROS DA POUPANÇA. DECISÃO MANTIDA. NEGADO PROVIMENTO AO RECURSO.
+    Levando-se em conta que desde a distribuição da ação cautelar até a confirmação da nulidade da CDA por este Tribunal, decorreram quase dez anos, o que causou aos autores anos de frustração, agonia, incertezas e impossibilidade de usufruir do patrimônio existente ou de constituir um novo, bem como que, com a declaração de nulidade, até a presente data não há notícia de que tenha a Administração se empenhado, como o fez à época, em receber crédito que originariamente alegava corresponder a mais de R$ 1.000.000,00, certamente, tais circunstâncias causam maior dor e revolta aos apelantes, deixando claro que toda a movimentação da máquina administrativa visou tão somente prejudicá-los, visando auferir valores indevidos, impõe-se o provimento do pedido de majoração dos danos morais.
+    Os lucros cessantes, a serem apurados com base na documentação acostada aos autos, devem ser levantados por meio de liquidação de sentença.
+    Por se tratar de condenação imposta à Fazenda Pública, o índice de correção monetária aplicado deverá ser o INPC, mais juros de mora de 0,5% ao mês até 29.6.09, quando então, em razão das inovações introduzidas pela Lei n. 11.960/09, a sua incidência obedecerá os índices da caderneta de poupança.” (eDOC 17, p. 1).
+    Embargos de declaração rejeitados (eDOC 23).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao artigo 37, § 6º, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “houve quebra do nexo de causalidade, não havendo se falar, portanto, em responsabilidade do Estado/recorrente, pelos alegados danos”.
+    A Vice-Presidência do TJMS inadmitiu o recurso extraordinário com base na Súmula nº 279 do STF. (eDOC 30).
+    É o relatório. Decido.
+    Inicialmente, convém ressaltar o assentado pelo Tribunal de origem:
+    “Como se vê, com a propositura da cautelar fiscal e consequente bloqueio de bens, os ora embargados caíram no descrédito, tanto daqueles que compram, como daqueles que vendem gado por meio de leilões, o que inviabilizou-lhes a continuidade de suas atividade, em razão da impossibilidade de emissão de documento fiscal.
+    Assim, resta inequívoco o direito dos ora embargados serem ressarcidos quanto aos lucros cessantes durante o período em que tramitou a cautelar fisal e a execução propriamente dita.
+    Assim, resta inequívoco o direito dos ora embargados serem ressarcidos quanto aos lucros cessantes durante o período em que tramitou a cautelar fiscal e a execução propriamente dita.
+    No que se refere à necessidade de comprovação dos referidos valores, observo que o próprio Estado dispõe das notas fiscais de entrada de animais no período de 1992 a 1996, tanto que sobre as mesmas foi capaz de calcular o ICMS supostamente devido.
+    Por outro lado, verifico que os embargados juntaram aos autos as notas fiscais de saídas referentes ao mesmo período. Daí ser possível calcular qual a média anual de gado que era leiloado pelos apelantes e, por consequência, qual a média de renda que deixaram de auferir durante todos esses anos.
+    Com relação aos danos morais, também deve ser mantida a responsabilização estatal, pois inequivocadamente demonstrado que o ilícito praticado causou prejuízos aos embargados.” (eDOC 17, p. 13-14)
+    Assim, constata-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo, em relação à comprovação dos danos materiais e morais, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL. RESPONSABILIDADE OBJETIVA DO ESTADO. DANOS MORAIS EVIDENCIADOS. NEXO DE CAUSALIDADE: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(ARE 919016 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 1º.12.2015)
+    “Agravo regimental nos embargos de divergência do agravo regimental no recurso extraordinário. 2. Direito Administrativo. 3. Responsabilidade civil do Estado por omissão. Teoria do Risco Administrativo. Art. 37, § 6º, da Constituição. Pressupostos necessários à sua configuração. Demonstração da conduta, do dano e do nexo causal entre eles. 4. Omissão específica não demonstrada. Ausência de nexo de causalidade entre a suposta falta do serviço e o dano sofrido. Necessidade do revolvimento do conjunto fático probatório dos autos. Incidência da Súmula 279/STF. 5. Agravo regimental a que se nega provimento.”
+(RE 677139 AgR-EDv-AgR, Rel.Min. GILMAR MENDES, Tribunal Pleno, DJe 09.12.2015)
+    Ante o exposto, conheço do agravo para negar-lhe provimento, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 31, §1º, do RISTF.
+    Publique-se.
+    Brasília, 01 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
