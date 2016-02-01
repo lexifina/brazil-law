@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de recurso extraordinário que, por decisão da Presidência desta Corte, foi devolvido ao Tribunal de Justiça do Estado do Amazonas, nos termos do art. 543-B do Código de Processo Civil, para que se aguardasse o julgamento do mérito do RE 563.965-RG, Rel.ª Min.ª Cármen Lúcia.
+    Julgado o mérito do recurso extraordinário paradigma por esta Corte, o Tribunal de origem, nos termos do art. 543-B, § 4º, do CPC, manteve o acórdão recorrido e remeteu os autos ao Supremo Tribunal Federal, pelos seguintes fundamentos:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ADICIONAL POR TEMPO DE SERVIÇO. HIPÓTESE DE REPERCUSSÃO GERAL. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. DECISÃO DO SUPREMO TRIBUNAL FEDERAL QUE NÃO COLIDE COM O ENTENDIMENTO SEDIMENTADO POR ESTA CORTE.
+    1. Ressai evidente não ser o caso de externar, na hipótese vertente, juízo de retratação, na medida em que o acórdão proferido por esta Corte de Justiça não conflita com o entendimento sedimentado no Recurso Extraordinário nº 563.708/MS, a considerar termos asseverados, peremptoriamente, a inexistência de direito adquirido a regime jurídico de remuneração dos servidores públicos.
+    2. No particular, a pretensão do Impetrante não se traduz na majoração do valor do adicional por tempo de serviço, nem tampouco atualização permanente da vantagem, o que certamente colidiria com o entendimento do Pretório Excelso, mas apenas, no respeito do direito aos quinquênios nos termos da lei de regência.
+    3. Remessa dos autos ao Supremo Tribunal Federal, na forma do art. 543-B, §4º do Código de Processo Civil.”
+    O recurso em exame tem por objeto acórdão assim ementado:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. ADICIONAL POR TEMPO DE SERVIÇO. BASE DE CÁLCULO DA INCIDÊNCIA. REMUNERAÇÃO TOTAL.
+    O cálculo do adicional por tempo de serviço incide sobre a totalidade dos ganhos do servidor, ou seja, sobre os vencimentos, mais as demais incorporações da composição remuneratória.
+    Precedentes do Supremo Tribunal Federal.
+    Mandado de Segurança concedido.”
+    O recurso deve ser provido. O Tribunal de Justiça do Estado do Amazonas, ao reconhecer que o adicional por tempo de serviço deve ser calculado sobre a remuneração total do servidor policial e não apenas sobre os vencimentos, afrontou a jurisprudência do Supremo Tribunal Federal, que, ao julgar o RE 563.708, Rel.ª Min.ª Cármen Lúcia, submetido à sistemática da repercussão geral, assentou que a Emenda Constitucional nº 19/1998, na parte que alterou o art. 37, XIV, da CF/88, tem aplicação imediata e, consequentemente, as leis que previam como base de cálculo do Adicional por Tempo de Serviço o total da remuneração não foram recepcionadas pela Constituição Federal. Ressaltou-se, por outro lado, a necessidade de se observar, sempre, o princípio da irredutibilidade dos vencimentos. Veja-se a ementa do mencionado paradigma:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À REGIME JURÍDICO. BASE DE CÁLCULO DE VANTAGENS PESSOAIS. EFEITO CASCATA: PROIBIÇÃO CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DOS VENCIMENTOS. PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.”
+    Nesse contexto, afrontam o disposto no art. 37, XIV, na redação dada pela EC 19/1998, as leis que preveem o total da remuneração como base de cálculo do adicional de tempo de serviço.
+    Outros precedentes: RE 839.883-AgR. Rel. Min. Marco Aurélio; RE 630.576, Rel. Min. Celso de Mello; RE 602.344-AgR, Rel. Min. Dias Toffoli; e RE 793.755, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 557, § 1º-A, do CPC e no art. 21, § 1º, do RI/STF, dou parcial provimento ao recurso extraordinário para denegar a segurança pleiteada quanto ao pedido do recorrido de reconhecimento de direito adquirido à forma de cálculo do adicional de tempo de serviço, sendo-lhe assegurada tão-somente a irredutibilidade de vencimentos. Sem condenação em honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+          Brasília, 1º de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
