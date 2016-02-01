@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Fabiano Machado Nunes, apontando como autoridade coatora o Ministro Newton Trisotto, do Superior Tribunal de Justiça, que negou seguimento ao HC nº 319.591/RJ.
+    Os impetrantes sustentam, em síntese, a presença de constrangimento ilegal, pois a custódia preventiva do paciente padece de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos autorizadores da prisão, previstos no art. 312 do Código de Processo Penal.
+    Requerem, liminarmente, a concessão da ordem para que a prisão preventiva do paciente seja revogada.
+    Examinados os autos, decido.
+    Há óbice jurídico-processual para o conhecimento do habeas corpus.
+    No caso, o Ministro Newton Trisotto negou seguimento àquele habeas corpus, em razão da deficiência na sua instrução. Confira-se:
+    “I - RELATÓRIO:
+    FABIANO MACHADO NUNES foi condenado à pena total de 10 anos de reclusão, em regime fechado, por infração ao art. 33, caput, e art. 35, da Lei n. 11.343/2006, não lhe sendo permitido recorrer em liberdade.
+    Pelas razões sintetizadas na ementa do acórdão a seguir reproduzida, o Tribunal de Justiça do Estado do Rio de Janeiro denegou o habeas corpus impetrado em favor do paciente:
+    ‘HABEAS CORPUS. O PACIENTE FOI CONDENADO PELA PRÁTICA DOS CRIMES TIPIFICADOS NOS ARTIGOS 33 E 35 DA LEI 11343-06, NA FORMA DO ARTIGO 69 CP, FIXADA A PENA FINAL EM 10 ANOS DE RECLUSÃO, FIXADO O REGIME FECHADO, NÃO TENDO SIDO CONCEDIDO O DIREITO DE APELAR EM LIBERDADE. SEGUNDO AS INFORMAÇÕES DA AUTORIDADE COATORA NÃO FOI CONCEDIDO AO PACIENTE O DIREITO DE AGUARDAR EM LIBERDADE. A TESE CENTRAL QUE FUNDAMENTA A PRESENTE AÇÃO MANDAMENTAL É A NEGATIVA DO DIREITO DE APELAR EM LIBERDADE. O PACIENTE TEVE A CUSTÓDIA CAUTELAR DECRETADA PARA RESPONDER AO PROCESSO PRESO, COM O FITO DE SE RESGUARDAR A ORDEM PÚBLICA E ASSEGURAR A APLICAÇÃO DA LEI PENAL. CUMPRE ESCLARECER QUE FOI DETERMINADO O DESMEMBRAMENTO DO FEITO ORIGINÁRIO EM RELAÇÃO AO ORA PACIENTE, CONSIDERANDO QUE ESTE NÃO FOI NOTIFICADO PESSOALMENTE OU POR EDITAL. SUSPENSO O CURSO DO PROCESSO ASSIM COMO O PRAZO PRESCRICIONAL, TAL DECISÃO FOI POSTERIORMENTE REVOGADA. INCLUSIVE, A NOTIFICAÇÃO DO ACUSADO SE DEU POR EDITAL. DEPREENDE-SE A NECESSIDADE DA PRISÃO COMO FORMA DE GARANTIR A FUTURA APLICAÇÃO DA LEI PENAL, DADO QUE PERMANECEU FORAGIDO DURANTE O CURSO DO PROCESSO. RESSALTE-SE QUE APÓS COGNIÇÃO EXAURIENTE, OS MOTIVOS PARA A MANUTENÇÃO DA CUSTÓDIA SE INTENSIFICAM. DENEGAÇÃO DA ORDEM.’ (fls. 32).
+    Inconformado com o decisum, Norley Thomaz Lauand e outros impetraram o habeas corpus em análise, sustentando, em síntese, que: a) não estão presentes os requisitos autorizadores da prisão preventiva (CPP, art. 312); b) o acórdão carece de fundamentação para manter a prisão cautelar; c) há possibilidade de substituir a segregação preventiva por outra medida cautelar prevista no art. 319 do Código de Processo Penal.
+    Ao final, requereram a concessão da ordem para que seja: I) liminarmente, determinado o relaxamento da prisão do paciente, II) quando do julgamento do mérito da causa, revogada a custódia cautelar e, caso necessário, aplicada medida diversa da prisão (CPP, art. 319).
+    II – DECISÃO:
+    01. Conforme precedentes desta Corte, ‘o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal suportado pelo paciente, ônus do qual não se desincumbiu a defesa’ (HC 239.465/RJ, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 19/08/2014, DJe 27/08/2014; HC 297.267/SP, Rel. Ministra Marilza Maynard [Desembargadora convocada do TJ/SE]; AgRg no HC 295.835/RS, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 18/06/2014, DJe 04/08/2014).
+    Aplicam-se eles ao caso em exame.
+    O habeas corpus não está instruído com documento necessário – cópia da sentença condenatória - à comprovação da existência de constrangimento ou ameaça de constrangimento à liberdade de locomoção do paciente em decorrência de ato judicial revestido de ‘ilegalidade ou abuso de poder’ (CR, art. 5º, inc. LXVIII).
+    02. À vista do exposto, e valendo-me do permissivo contido nos arts. 38 da Lei 8.038/90 e 34, inc. XVIII, do Regimento Interno desta Corte, nego seguimento ao habeas corpus” (grifos do autor).
+    Essa decisão permite concluir, por razões óbvias, que o tema suscitado nesta impetração não foi analisado pelo Superior Tribunal de Justiça. Portanto, sua apreciação, de forma originária, configuraria verdadeira supressão de instância não admitida.
+    Perfilhando esse entendimento, destaco os precedentes seguintes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ 25/5/07, entre outros.
+    Ademais, vale registrar que a impetração volta-se contra decisão singular proferida pelo Ministro relator no HC nº 319.591/RJ.
+    Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe 30/9/13, entre outros.
+    Ante o exposto, nos termos dos arts. 38 da Lei nº 8.038/90 e 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
