@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra decisão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação Cível – Ação Declaratória de Nulidade de Lançamento Fiscal – IPTU – Exercício de 2004 – Progressividade fundada na Lei Municipal nº 5.753/2001, cuja inconstitucionalidade foi declarada pelo Colendo Órgão Especial deste Egrégio Tribunal – Não condenação da requerida no pagamento das custas e despesas processuais – Inadmissibilidade – Inteligência do art. 20, caput, do CPC – Honorários advocatícios – Fixação que se mostra irrisória – Majoração, contudo, inferior à pretendida – Recurso da Municipalidade não provido e providos parcialmente o recurso do autor e o recurso oficial.” (eDOC 1, p. 182)
+    De plano, verifica-se que a presente questão foi afetada à sistemática da repercussão geral no Tema 94, cujo recurso-paradigma é o RE-RG 586.693, de relatoria do Ministro Marco Aurélio, Tribunal Pleno, DJe 22.6.2011, assim ementado:
+    “NULIDADE – JULGAMENTO DE FUNDO – ARTIGO 249, § 2º, DO CÓDIGO DE PROCESSO CIVIL. Quando for possível decidir a causa em favor da parte a quem beneficiaria a declaração de nulidade, cumpre fazê-lo, em atenção ao disposto no artigo 249, § 2º, do Código de Processo Civil, homenageando-se a economia e a celeridade processuais, ou seja, alcançar-se o máximo de eficácia da lei com o mínimo de atividade judicante, sobrepondo-se à forma a realidade. IMPOSTO PREDIAL E TERRITORIAL URBANO – PROGRESSIVIDADE – FUNÇÃO SOCIAL DA PROPRIEDADE – EMENDA CONSTITUCIONAL Nº 29/2000 – LEI POSTERIOR. Surge legítima, sob o ângulo constitucional, lei a prever alíquotas diversas, presentes imóveis residenciais e comerciais, uma vez editada após a Emenda Constitucional nº 29/2000.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 1 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
