@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR PLANO DE SAÚDE. COBERTURA. NEGATIVA DE TRATAMENTO: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “PLANO DE SAÚDE. Obrigação de fazer c.c. Indenização por dano moral. Paciente acometida de neoplaslia maligna de mama. Negativa de tratamento de radioterapia  conformacional 3D - Irrelevância do tratamento não constar do rol de procedimentos da ANS - Recusa de cobertura indevida. Abusividade. Aplicação das Súmulas n°s. 96 c 102 do TJSP - Dano moral "in re ipsa". presente o dever de indenizar - Redução da indenização arbitrada para RS 12.000,00, em consonância com os critérios legais e com os princípios da proporcionalidade e da razoabilidade - Finalidade  atendida em seis dias, ainda que em cumprimento à antecipação da tutela. Sentença omissa quanto à correção monetária e os juros de mora incidentes sobre a indenização. Correção monetária a partir do arbitramento (Súmula n° 362 do STJ). Juros de mora incidentes a partir da citação, por se tratar de responsabilidade civil contratual - RECURSO PARCIALMENTE PROVIDO, COM OBSERVAÇÃO”.
+    Os embargos de declaração opostos pela Agravante foram rejeitados.
+    2. A Agravante alega contrariado o art. 5º, inc. X, da Constituição da República, argumentando que
+    “obrigar as Operadoras a arcar com os custos de tratamento não previsto no rol de procedimentos, não protege o consumidor daquela determinada ação, mas sim coloca em risco todos os consumidores daquela determinada Operadora, pois se a mesma quebra, quem se prejudica é o beneficiário.
+    Desta forma, evidente que este Supremo Tribunal Federal se manifeste quanto a obrigatoriedade ou não de cobertura de procedimentos não elencados no rol de procedimentos obrigatórios da Agência Nacional de Saúde Suplementar, pois taxativo, inclusive com manifestação quanto a ocorrência de danos morais nesses casos”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão de direito não assiste à Agravante.
+    6. No julgamento do Agravo em Recurso Extraordinário n. 697.312-RG, Relator o Ministro Ayres Britto, este Supremo Tribunal reconheceu a inexistência de repercussão geral da questão referente à negativa de cobertura para tratamento por plano de saúde e assentou a natureza infraconstitucional dessa matéria e a incidência das Súmulas ns. 279, 454 e 636 do Supremo Tribunal:
+    “DIREITO DO CONSUMIDOR. EMPRESA OPERADORA DE PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA TRATAMENTO DE BENEFICIÁRIO. DANOS MORAIS E MATERIAIS. MATÉRIA DE QUE NÃO ENSEJA A ABERTURA DA VIA EXTRAORDINÁRIA. AUSÊNCIA DE REPERCUSSÃO GERAL. Nos termos da jurisprudência do Supremo Tribunal Federal, o tema alusivo à responsabilidade por danos morais e materiais decorrentes de negativa de cobertura para tratamento de beneficiário, por parte de operadora de plano de saúde, não enseja a abertura da via extraordinária, dado que não prescinde do reexame da legislação infraconstitucional, de cláusulas contratuais e do conjunto fático-probatório dos autos (Súmulas 636, 454 e 279 do STF). Não havendo, em rigor, questão constitucional a ser apreciada por esta Suprema Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608” (DJe 23.11.2012).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos, que suscitarem a mesma questão constitucional, devem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e arts. 21, § 1º, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
