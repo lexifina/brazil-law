@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. AÇÃO ORDINÁRIA. PEDIDO ADMINISTRATIVO DE RESSARCIMENTO DE CRÉDITOS. CORREÇÃO MONETÁRIA. INEXISTÊNCIA AO DIREITO. MORA NÃO CONFIGURADA.
+    Não resta configurada a mora da administração se os pedidos de ressarcimento foram decididos e creditados os respectivos valores antes decorridos trezentos e sessenta dias da data dos protocolos. A aplicação da correção monetária só retroage à data dos protocolos dos pedidos administrativos nos casos em que transcorridos mais de 360 dias sem que seja proferida decisão definitiva nos processos administrativos.” (eDOC 1, p. 129)
+    Embargos de declaração rejeitados. (eDOC 1, p. 142-143)
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II, 37, e 150, IV, da Constituição Federal.
+    Nas razões recursais, sustenta-se que negar a atualização monetária sobre os valores relativos ao pedido de ressarcimento de crédito presumido de IPI viola os princípios da legalidade e da vedação ao não-confisco.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que é firme a jurisprudência do STF no sentido não admitir a incidência de correção monetária dos créditos escriturais, salvo se houver legislação tratando da matéria ou se seu aproveitamento se dê tardiamente em razão de óbice criado pela Administração Fazendária.
+    Nesse sentido, destaco os seguintes precedentes:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. ICMS. CRÉDITOS escriturais. CORREÇÃO MONETÁRIA INDEVIDA. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DE AMBAS AS TURMAS. RECUSA ILEGÍTIMA DA FAZENDA PÚBLICA AO APROVEITAMENTO DE CRÉDITOS TRIBUTÁRIOS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VEDAÇÃO. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 882439 AgR, Relator Min. Teori Zavascki, Segunda Turma, Dje 03.08.2015.)
+    “DIREITO TRIBUTÁRIO. ICMS. CRÉDITOS EXCRITURAIS. APROVEITAMENTO EXTEMPORÂNEO. ÓBICE CRIADO PELA FAZENDA PÚBLICA. INCIDÊNCIA DE CORREÇÃO MONETÁRIA. PRECEDENTES. VIOLAÇÃO DO PRINCÍPIO DA SEPARAÇÃO DE PODERES NÃO CONFIGURADA. ACÓRDÃO RECORRIDO PUBLICADO EM 04.9.2000. É devida a correção monetária dos créditos escriturais quando seu aproveitamento se dá tardiamente em razão de óbice criado pelo Fisco. Precedentes. O exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Precedentes. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido.” (RE 335.490 AgR, Relator Min. Rosa Weber, Primeira Turma, Dje. 19.08.2014)
+    No caso, o Tribunal de origem assim asseverou:
+    “Entretanto, no caso dos autos, não restou configurada a mora da administração tendo em vista que os dois pedidos de ressarcimento foram transmitidos em 03.06.09 (out4 e out5 do evento 1) e creditados os respectivos valores em dezembro de 2009 (out 7 – evento 1). A aplicação da correção monetária só retroage à data dos protocolos dos pedidos administrativos nos casos em que transcorridos mais de 360 dias sem que seja proferida decisão administrativa. Não é o caso dos autos.” (eDOC 1, p. 127-128)
+    Sendo assim, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, notadamente a Lei 11.457/07, de modo que o processamento do apelo extremo se encontra inviabilizado.
+    Nesse sentido, cito o seguinte precedente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CRÉDITOS DE IPI, PIS E COFINS. PEDIDO DE RESSARCIMENTO. DEMORA DA ADMINISTRAÇÃO. CORREÇÃO MONETÁRIA. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA AUSÊNCIA DE ÓBICE ILEGÍTIMO DO FISCO AO APROVEITAMENTO DOS CRÉDITOS. OFENSA AO PRINCÍPIO DA INAFASTABILIADE DA JURISDIÇÃO. INEXISTÊNCIA. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS E REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. SÚMULA Nº 279 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.” (RE-AgR 757.080, Relatoria do Min. Luiz Fux, Primeira Turma, Dje 10.08.2015).
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos arts. 557, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 01 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
