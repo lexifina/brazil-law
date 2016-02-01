@@ -1,0 +1,15 @@
+DECISÃO: A parte ora recorrente, ao deduzir o apelo extremo a que se refere o presente agravo, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    A análise destes autos evidencia que o recurso extraordinário – no ponto em que discute a extensão, aos inativos e pensionistas, da Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo (GDPGPE) – não se mostra processualmente viável.
+    Com efeito, o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 631.389/CE, Rel. Min. MARCO AURÉLIO, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “GRATIFICAÇÃO DE DESEMPENHO DO PLANO GERAL DE CARGOS DO PODER EXECUTIVO – GDPGPE – LEI Nº 11.357/06. Homenageia o tratamento igualitário decisão que, até a avaliação dos servidores em atividade, implica a observância da mesma pontuação – 80 – no tocante a inativos e pensionistas.”
+    De outro lado, quanto ao debate em torno da forma de cálculo de referida gratificação para as aposentadorias ou pensões concedidas proporcionalmente ao tempo de serviço, o apelo extremo em questão também não se revela acolhível, eis que a controvérsia nele suscitada traduz situação configuradora de ofensa meramente reflexa ao texto da Constituição.
+    É que a suposta ofensa ao texto constitucional, acaso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Impõe-se registrar, no que concerne à própria controvérsia que venho de referir, que o entendimento ora exposto tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 761.834/PE, Rel. Min. LUIZ FUX, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO – GDPST. 1) CRITÉRIOS APLICÁVEIS AOS SERVIDORES ATIVOS. PRECEDENTES. 2) APOSENTADORIA PROPORCIONAL. OBSERVÂNCIA DA PROPORCIONALIDADE NO VALOR DA GRATIFICAÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 676.935-AgR/RS, Rel. Min. CÁRMEN LÚCIA)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou nas matérias em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 01 de fevereiro de 2016.
+Ministro CELSO DE MELLO
+Relator
