@@ -1,0 +1,13 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto do presente recurso, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o E. Tribunal de Justiça do Estado do Distrito Federal e dos Territórios, para negar provimento à apelação cível da parte ora recorrente, apoiou-se em dispositivos de ordem meramente legal:
+    “Quanto à questão dos honorários contratuais, entendo que se trata de relação particular entre a Autora e seu patrono, sendo certo que o valor para atuação pode ser estabelecido sob diversos critérios: número de peças, sucesso na causa, tempo de atuação, número de audiências e deslocamentos, entre outros.
+    Outrossim, a parte contratante pode escolher entre diversos advogados que atuam no mercado, sendo o preço e o perfil do causídico escolhido de acordo com as suas possibilidades econômicas e pretensões.
+    Vale ressaltar, também, que se poderia criar um precedente perigoso, pois simulações poderiam advir em que clientes e patronos poderiam simular contratos com altos valores de honorários na esperança de se locupletarem as custas do ‘ex adverso’.
+    Assim, entendo que os honorários contratuais são de responsabilidade de quem contratou o profissional, não havendo que se falar em ressarcimento pela parte contrária. Impende destacar, nesse contexto, que os honorários contratuais não se confundem com honorários de sucumbência, descritos no art.20 do CPC.”
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 01 de fevereiro de 2016.
+Ministro CELSO DE MELLO
+Relator
