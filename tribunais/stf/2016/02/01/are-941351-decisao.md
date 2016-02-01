@@ -1,0 +1,9 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o órgão judiciário de origem teria transgredido preceito inscrito na Constituição da República.
+    Sob tal perspectiva, revela-se absolutamente inviável o recurso extraordinário em questão.
+    É que o Supremo Tribunal Federal tem enfatizado, a propósito da questão pertinente à transgressão constitucional indireta, que, em regra, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, hipóteses em que não se revelará admissível o recurso extraordinário (AI 165.054/SP, Rel. Min. CELSO DE MELLO – AI 174.473/MG, Rel. Min. CELSO DE MELLO – AI 182.811/SP, Rel. Min. CELSO DE MELLO – AI 188.762-AgR/PR, Rel. Min. SYDNEY SANCHES – RE 236.333/DF, Rel. Min. MARCO AURÉLIO, v.g.).
+    Cumpre salientar, ainda, com relação à alegada ofensa à norma inscrita no art. 5º, inciso XXXVI, da Constituição, que a espécie ora em exame não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede – como precedentemente já enfatizado – o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO).
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar-lhe provimento, eis que correta a decisão que não admitiu o recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “a”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 01 de fevereiro de 2016.
+Ministro CELSO DE MELLO
+Relator
