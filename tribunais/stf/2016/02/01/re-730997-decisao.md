@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal, em que a parte recorrente sustenta a repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. O recurso não merece prosperar. A decisão plenária do Tribunal de Justiça do Estado do Tocantins, que julgou improcedente o incidente de inconstitucionalidade, não pode ser objeto do apelo extraordinário. É o teor da Súmula 513 do STF: “A decisão que enseja a interposição de recurso ordinário ou extraordinário não é a do plenário, que resolve o incidente de inconstitucionalidade, mas a do órgão (Câmaras, Grupos ou Turmas) que completa o julgamento do feito.”.
+    No mesmo sentido, os seguintes precedentes:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ARGUIÇÃO DE INCONSTITUCIONALIDADE. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO PREMATURAMENTE. IMPOSSIBILIDADE. SÚMULA 513/STF. O acórdão proferido pelo colegiado maior dos tribunais em sede de arguição de inconstitucionalidade é irrecorrível. O recurso extraordinário deve ser interposto contra o acórdão proferido pelo órgão fracionário, o qual completa o julgamento do feito, nos termos da Súmula 513/STF. Agravo regimental a que se nega provimento (RE 528.869-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 24/2/2015).
+    EMENTA: RECURSO EXTRAORDINÁRIO. PREMATURO. JULGAMENTO. ÓRGÃO ESPECIAL. ARGUIÇÃO DE INCONSTITUCIONALIDADE. DECISÃO PROFERIDA PELO ÓRGÃO COMPETENTE QUE COMPLETA O JULGAMENTO DO FEITO. NÃO OCORRÊNCIA. SÚMULA 513 DO STF. AGRAVO IMPROVIDO. I – O recurso extraordinário foi interposto prematuramente, uma vez que a decisão que enseja a interposição do extraordinário não é a do Órgão Especial que julgou o incidente de inconstitucionalidade, mas aquela proferida, posteriormente, pelo órgão competente, que completa o julgamento do feito. Incidência da Súmula 513 do STF. Precedentes. II - Agravo regimental improvido. (RE 535.523-AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, Dje de 29/3/2011).
+    3. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de fevereiro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
