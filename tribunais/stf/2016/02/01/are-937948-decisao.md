@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Ação de Obrigação de Fazer. Candidato eliminado do certame da Petrobrás, ora ré, para ingresso nos seus quadros funcionais, no cargo de Engenheiro Júnior – Área Naval, sob o argumento de não apresentação de certidão ou diploma de conclusão do curso de graduação de nível superior. Sentença julgando procedente o pedido. Recurso de Apelação Cível. M A N U T E N Ç Ã O, pois o autor obteve a tutela antecipada e concluiu o Curso de Formação, apresentou o certificado de conclusão do curso de Engenharia Naval e há quatro anos exerce as suas funções nos quadros da ré. Aplicação da teoria do fato consumado. Jurisprudência a respeito. D E S P R O V I M E N T O  D O R E C U R S O.”
+    Opostos embargos de declaração, foram acolhidos para retificar erro material constante da ementa do acórdão para que, onde se lê Petrobrás, leia-se Petrobrás Transporte – TRANSPETRO.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, caput, 37, caput e incisos II e IV, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No que se refere ao artigo 93, inciso IX, da Constituição, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do ARE nº 690.113/RS, Relator o Ministro Cezar Peluso, DJe de 11/9/12, concluiu pela ausência de repercussão geral da matéria consistente na verificação do preenchimento de requisitos exigidos em edital de concurso para provimento de cargo público, por cuidar-se de matéria circunscrita ao âmbito infraconstitucional. Esse julgado ficou assim ementado:
+    “CONCURSO PÚBLICO. Cargo de professor. Habilitação específica para o cargo. Não atendimento. Qualificação superior à exigida por Edital. Questão infraconstitucional. Ausência de repercussão geral. Recurso extraordinário recusado. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a análise de habilitação superior à prevista por Edital, mas inespecífica em relação ao exigido neste, versa sobre matéria infraconstitucional.”
+    Essa decisão, nos termos do artigo 543-A, § 5º, do Código de Processo Civil, com a redação da Lei nº 11.418/06, “valerá para todos os recursos sobre matéria idêntica, que serão indeferidos liminarmente”.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
