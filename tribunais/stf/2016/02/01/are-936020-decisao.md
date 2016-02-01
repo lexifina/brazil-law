@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão de Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO LEGAL. CPC, 557, §1 1º. EXECUÇÃO FISCAL. EMBARGOS. EFEITO SUSPENSIVO. CPC, ART. 739-A. APLICABILIDADE.
+    1. A utilização do agravo previsto no art. 557, § 1º, do CPC, deve enfrentar a fundamentação da decisão agravada, ou seja, deve demonstrar que não é caso do recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior. Por isso que é inviável, quando o agravante deixa de atacar especificamente os fundamentos da decisão agravada (STJ, AGREsp n. 545.307, Rel. Min. Eliana Calmon, j. 06.05.04; Resp n. 548.732, Rel. Min. Teori Zavascki, j. 02.03.04).
+    2. O art. 739-A do Código de Processo Civil, acrescido pela Lei n. 11.382, de 06.12.06, dispõe que o juiz poderá, a requerimento do embargante, atribuir efeito suspensivo aos embargos quando, sendo relevantes seus fundamentos, o prosseguimento da execução manifestamente puder causar ao executado grave dano de difícil ou incerta reparação, e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes.
+    3. Essa disposição não é incompatível com a Lei n. 6.830/80 e vai ao encontro das regras que condicionam a suspensão do crédito tributário ao respectivo depósito integral e em dinheiro (CTN, art. 151, II; STJ, Súmula n. 112) além da faculdade que a Fazenda pública desfruta de, em qualquer fase do processo, requerer o reforço da penhora (STJ, AGREsp n. 1.035.672, Rel. Min. Mauro Campbell Marques, j. 20.08.09; AGA n. 1.133.990, Rel. Min. Luiz Fuz, j. 18.08.09; Resp n. 1.024.128, Rel. Herman Benjamim, j. 13.05.08).
+    4. Não há elementos nos autos que permitam infirmar a decisão recorrida, que consideraou aplicável o art. 739-A do Código de Processo Civil às execuções fiscais. Note-se que como observo o MM. Juízo a quo, a execução não está garantida por penhora, depósito ou caução suficientes, razão pela qual os embargos devem ser recebidos sem suspensão da execução fiscal (CPC, art. 739-A, § 1º).
+    5. Agravo legal não provido. (eDOC. 2 p. 166-167)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, LIV e LV; e 150, II, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, a concessão do efeito suspensivo dos embargos à execução fiscal, nos termos da Lei 6.830/80. (eDOC. 2, p. 218-234).
+    De plano, verifica-se a presente controvérsia já foi afetada à sistemática da repercussão geral no Tema 307, cujo recurso-paradigma é o RE-RG 626.468, de relatoria da Ministra Ellen Gracie, DJe 23.11.2010, assim ementado:
+    “EXECUÇÃO FISCAL. CONCESSÃO DE EFEITO SUSPENSIVO AOS EMBARGOS DO DEVEDOR. APLICAÇÃO DO ART. 739-A DO CPC. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 01 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
