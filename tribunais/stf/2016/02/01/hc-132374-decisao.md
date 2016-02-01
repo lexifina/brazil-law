@@ -1,0 +1,17 @@
+Decisão:
+ementa: Processual penal. Habeas corpus contra ato de Ministro do STJ. Súmula 691/STF. Tráfico de entorpecentes. Condenação transitada em julgado. Regime inicial. Substituição da pena privativa de liberdade.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão do Ministro Felix Fischer, que indeferiu a cautelar requerida nos autos do HC 340.935, em trâmite no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 2 (dois) anos e 11 (onze) meses de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, caput, da Lei 11.343/06. Narra a sentença condenatória que o paciente “trazia consigo e transportava, para fim de tráfico, 16 cápsulas, tipo eppendorf, contendo cocaína, com o peso de 4,281g, bem como uma porção de cocaína, com peso de 141,677g”.
+    3. O Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso da defesa a fim de reduzir a pena para 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, fixando o regime inicial semiaberto.
+    4. Em seguida, foi interposto recurso especial, inadmitido na origem.
+    5. Após o trânsito em julgado da condenação, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 340.935, Ministro Felix Fischer, indeferiu a medida cautelar.
+    6. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a fixação de regime inicial mais gravoso. Alega, ainda, a possibilidade, no caso, da substituição da pena privativa de liberdade por outra restritiva de direitos. Daí o pedido de concessão da ordem a fim de determinar a imediata expedição de contramandado de prisão, fixar o regime inicial aberto e substituir a pena privativa de liberdade.
+    Decido.
+    7. Inicialmente ressalto que o Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). Da mesma forma, o Tribunal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (v.g, RHC119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski).
+    8. A hipótese de que se trata não autoriza a superação dessa orientação restritiva. As decisões das instâncias precedentes não são teratológicas ou patentemente desfundamentadas. Ademais, dou especial relevância ao fundamento adotado pelo Tribunal Estadual no sentido de que “uma das exigências do artigo 44, inciso III, do Código Penal, para viabilizar sua incidência, é a de que as circunstâncias do delito indiquem que a substituição seja suficiente para a sua repressão requisito esse que não se harmoniza com as consequências perniciosas intrinsecamente relacionadas ao mercadejo de entorpecente aqui constatado. A substituição atenta contra a efetividade do processo penal na aplicação do justo concreto, atingindo frontalmente o caráter retributivo da reprimenda; mostra-se insuficiente como resposta à culpabilidade do agente, que perpetra o delito por cobiça, que patrocina interesses de organizações criminosas”.
+    9. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
