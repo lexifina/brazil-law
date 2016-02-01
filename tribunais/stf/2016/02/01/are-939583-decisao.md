@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “SERVIDORAS PÚBLICAS MUNICIPAIS. MEMBROS DO MAGISTÉRIO PÚBLICO. PAGAMENTO DO TERÇO CONSTITUCIONAL SOBRE 45 (QUARENTA E CINCO) DIAS DE FÉRIAS. IMPOSSIBILIDADE. BENESSE CONCEDIDA ATÉ OS 30 (TRINTA) DIAS, SENDO QUE O RESTANTE DO TEMPO DE AFASTAMENTO DO SERVIÇO SOMENTE SE DÁ EM RAZÃO DO RECESSO ESCOLAR. RECEDENTES DESTA CORTE DE JUSTIÇA. APELO DA PARTE AUTORA DESPROVIDO. RECURSO DO ENTE PÚBLICO E REEXAME NECESSÁRIO PROVIDOS.
+    "É cediço que o direito constitucional ao abono de férias tem como fim precípuo proporcionar ao trabalhador o justo descanso e lazer, de modo a não prejudicar as despesas já comprometidas com as atividades habituais. Nesse sentido, estender automaticamente, sem imperatividade legal expressa, a benesse por mais 15 dias, quando se sabe que o período de disponibilidade adicional é concedido somente em função das particularidades inerentes à atividade escolar, desborda os objetivos da garantia constitucional" (Apelação Cível n. 2013.057888-8, da Capital, relator Des. Pedro Manoel Abreu, j. 24-6-2014).
+"O pagamento do terço constitucional incide apenas sobre o período de férias efetivamente usufruído pelo professor, nele não incluindo o denominado recesso escolar, no qual o docente fica à disposição para possíveis convocações de reuniões, reposição de dias letivos, cursos de aperfeiçoamento, planejamento do período letivo subsequente ou qualquer outra atividade pertinente" (Apelação Cível n. 2013.019503-1, de Araranguá, rel. Des. Luiz Cézar Medeiros, j. 30-7-2013).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, XVII, e 39, § 3º, da Constituição.
+    O recurso não merece acolhida, tendo em vista que a resolução da controvérsia demandaria a análise da legislação infraconstitucional aplicável ao caso, o que inviabiliza o processamento do presente recurso extraordinário. Nessa linha, vejam-se: ARE 722.300, Rel.ª Min.ª Cármen Lúcia; ARE 784.968, Rel. Min. Gilmar Mendes, e ARE 904.226, Rel. Min. Teori Zavascki.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
