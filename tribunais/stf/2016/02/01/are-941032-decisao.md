@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Piauí. Veja-se o seguinte trecho de ementa:
+    “MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. DESISTÊNCIA DOS PRIMEIROS CONVOCADOS. NECESSIDADE E INTERESSE DA ADMINISTRAÇÃO. DIREITO SUBJETIVO À NOMEAÇÃO.
+    1. O caso dos autos não abarca as hipóteses vedadas, posto que a nomeação aqui combatida já se encontrava devidamente incluída no orçamento do Estado, uma vez que as vagas foram previstas no Edital do certame. A imposição de pagamento à Fazenda Pública é apenas consequência indireta da concessão da antecipação da tutela, não havendo ofensa aos artigos 1º ou 2º-B da Lei nº 9.494/97, pois não há determinação de pagamentos pretéritos, mas apenas o pagamento pelo efetivo serviço prestado em decorrência da nomeação.
+    2. A convocação dos primeiros aprovados (que não tomaram posse) pelo ente público já denota o interesse e necessidade do serviço, devendo, por via de consequência, preencher as vagas legalmente previstas convocando os aprovados pela ordem de classificação, visto que a nomeação subsequente não mais depende da discricionariedade administrativa, restando, pois, configurado o direito subjetivo da primeira impetrante, conforme precedentes jurisprudenciais.
+    […]
+    4. Recurso improvido. ”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, caput; 37, caput, I, II, IV e IX; 61, § 1º; 84; e 167, I, II, III e IV, todos da Constituição.
+    O recurso extraordinário não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem se alinha à jurisprudência do Supremo Tribunal Federa, que, após reconhecer a existência de repercussão geral da matéria no RE 598.099-RG, julgado sob a relatoria do Ministro Gilmar Mendes, entendeu que o candidato aprovado entre as vagas previstas no edital de concurso público tem direito líquido e certo à nomeação ao cargo público.
+    Na hipótese, verifica-se que a candidata, ora recorrida, fora aprovada em 3º lugar em concurso público para o preenchimento de 2 vagas constantes do edital para o cargo de Professor Letras/Português. Entretanto, as duas vagas não foram preenchidas por motivo de desistência dos candidatos convocados. Desse modo, a posição ocupada pela recorrida alcançou o número de vagas previstas no edital e, em consequência, passou a ter direito subjetivo à nomeação ao cargo para o qual fora aprovada. Tratando de situação análoga à dos autos, veja-se a ementa do RE 643.674-AgR, julgado sob relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO QUE PASSA A FIGURAR DENTRO DO NÚMERO DE VAGAS PREVISTAS NO EDITAL. DESISTÊNCIA DE CANDIDATO CLASSIFICADO EM COLOCAÇÃO SUPERIOR. DIREITO SUBJETIVO À NOMEAÇÃO. AGRAVO IMPROVIDO.
+    I - O Plenário desta Corte, no julgamento do RE 598.099/MS, Rel. Min. Gilmar Mendes, firmou entendimento no sentido de que possui direito subjetivo à nomeação o candidato aprovado dentro do número de vagas previstas no edital de concurso público.
+    II - O direito à nomeação também se estende ao candidato aprovado fora do número de vagas previstas no edital, mas que passe a figurar entre as vagas em decorrência da desistência de candidatos classificados em colocação superior. Precedentes.
+    III - Agravo regimental improvido”.
+    Ademais, não afronta o princípio da separação dos Poderes o controle exercido pelo Poder Judiciário sobre atos administrativos tidos por abusivos ou ilegais. Nesse sentido, veja-se a ementa do RE 733.110-AgR, julgado sob relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Administrativo. Concurso público. Ato administrativo ilegal. Controle judicial. Possibilidade. Candidata aprovada dentro do número de vagas previstas no edital. Direito à nomeação. Análise de cláusulas de edital. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Não viola o princípio da separação dos poderes o controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos.
+    2. O Plenário da Corte, ao apreciar o mérito do RE nº 598.099/MS-RG, Relator o Ministro Gilmar Mendes, concluiu que o candidato aprovado em concurso público dentro do número de vagas previstas no edital tem direito subjetivo à nomeação.
+    3. Inadmissível, em recurso extraordinário, a análise das cláusulas de edital de concurso público e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 454 e 279. 4. Agravo regimental não provido.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
