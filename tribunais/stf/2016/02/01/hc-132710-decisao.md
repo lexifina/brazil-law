@@ -1,0 +1,39 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Joyce Bueno do Carmo, Maria de Fátima Silva e Rosana Rodrigues da Silva Nascimento, apontando como autoridade coatora o Ministro Leopolo de Arruda Raposo, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 335.185/MG.
+    O impetrante sustenta, inicialmente, que o caso concreto autoriza a mitigação do enunciado da Súmula nº 691/STF.
+    Assevera, ademais, a presença de constrangimento ilegal, pois a custódia preventiva das pacientes padece de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos autorizadores previstos no art. 312 do Código de Processo Penal.
+    Alega, de outra parte, o excesso de prazo, uma vez que as pacientes encontram-se presas há mais de um (1) ano sem culpa formada.
+    Requer, liminarmente, a concessão da ordem para revogar a prisão preventiva das pacientes.
+    Examinados os autos, decido.
+    O caso é de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 deste Supremo Tribunal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    É certo que a jurisprudência da Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia.
+    Transcrevo o teor da decisão ora questionada:
+    “Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOYCE BUENO DO CARMO, MARIA DE FATIMA SILVA e ROSANA RODRIGUES DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais que denegou a ordem visada no Writ de n. 1.0000.15.035582-4/000, mantendo as segregações cautelares das pacientes, nos autos da ação penal em que respondem pela prática do crime previsto no artigo 35 da Lei 11.343/2006.
+    Sustenta o impetrante a ocorrência de constrangimento ilegal, argumentando haver excesso de prazo na formação da culpa das pacientes, visto estarem custodiados provisoriamente há mais de 385 (trezentos e oitenta e cinco) dias, sem que haja previsão para a conclusão da instrução criminal.
+    Requer, liminarmente e no mérito, a concessão da ordem, a fim de que sejam relaxadas as prisões das pacientes, expendindo-se, em consequência, alvará de soltura.
+    É o relatório.
+    A princípio, insurgindo-se a impetração contra acórdão do Tribunal de origem que denegou a ordem pleiteada no prévio writ, mostra-se incabível o manejo do habeas corpus originário, já que não configurada nenhuma das hipóteses elencadas no artigo 105, inciso I, alínea ‘c’, da Constituição Federal.
+    Contudo, compulsando-se os autos, ao menos em um juízo perfunctório, verifica-se que a tese levantada na inicial merece melhor exame, a fim de, no momento processual devido, verificar-se a possibilidade de atuação de ofício deste Superior Tribunal.
+    Não obstante, mostra-se inviável acolher a pretensão sumária, porquanto, ao menos nessa etapa, verifica-se a presença de fundamentos concretos para a denegação da ordem, pois, no tocante ao alegado excesso de prazo, destacou o Colegiado de origem que a complexidade do feito, com pluralidade de réus (26), desmembramento do feito e necessidade de expedição de cartas precatórias (fls. e-STJ 47) justificariam o curso do andamento da ação penal.
+    Tais argumentos são aptos a rechaçar, ao menos por ora, o alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+    De mais a mais, a motivação que dá suporte à pretensão liminar confunde-se com o mérito do writ, devendo o caso ser analisado mais detalhadamente quando da apreciação e do seu julgamento definitivo.
+    Diante do exposto, indefere-se a liminar.
+    Solicitem-se informações ao Tribunal impetrado e ao Juízo de primeiro grau, especialmente acerca do andamento da ação penal a que respondem as pacientes, encarecendo o envio de cópias das decisões que decretaram suas prisões preventivas, da certidão de antecedentes criminais das agentes, de eventual sentença proferida, noticiando, ainda, acerca da situação prisional das pacientes.
+    Após, dê-se vista ao Ministério Público Federal para manifestação” (fls. 1 a 3 do anexo 7 – grifos do autor).
+    Não há como ter-se por desprovida de fundamentação ou teratológica a decisão que entende não haver elementos suficientes, demonstrados de plano, para o deferimento da liminar. Pode e deve o magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que tanto caracterize constrangimento ilegal, abuso de poder ou teratologia.
+    A pretensão do impetrante é trazer ao conhecimento desta Suprema Corte, de forma precária, questões não analisadas, definitivamente, no Superior Tribunal de Justiça, em flagrante intenção de suprimir a instância antecedente.
+    Destaca-se, ainda, que o Tribunal de Justiça de Minas Gerais deixou de analisar no habeas corpus revelador desta impetração a tese relativa à falta de fundamentação da custódia preventiva das pacientes ao fundamento de que a questão “foi apreciada em impetração anterior (...). Apresentando-se portanto a alegação acima mera reiteração de pedido anteriormente julgado” (fl. 11 do anexo 6).
+    Logo, sua análise, de forma originária por esta Corte configuraria verdadeira dupla supressão de instância, não admitida (HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ 14/12/07; HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ 25/5/07).
+    Ainda que assim não fosse, o impetrante não instrui o writ com cópia do decreto prisional ora questionado.
+    É firme a jurisprudência da Corte no sentido de que “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC nº 95.434/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe 2/10/09).
+    Quanto ao alegado excesso de prazo, registro que os documentos que instruem a impetração indicam que o processo criminal tem regular processamento na origem, não havendo que se falar em inércia por parte do Poder Judiciário.
+    Deve se levar em conta a complexidade daquele feito, que apura a suposta prática dos crimes de tráfico de drogas e associação para o tráfico na cidade de Ouro Fino/MG por organização criminosa com aproximadamente vinte e três (23) envolvidos, ligados, em tese, à facção criminosa, denominada Primeiro Comando da Capital (PCC).
+    Nessas circunstâncias, a jurisprudência da Corte já decidiu que
+    “[a] aferição de eventual excesso de prazo depende das condições objetivas da causa e deve ser orientada por uma análise circunstanciada do grau de complexidade da ação penal, da quantidade de acusados e da atuação das partes e do Estado-Juiz” (HC nº 123.822/PB-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 29/10/14).
+    Com essas considerações, entendendo não demonstrada, satisfatoriamente, nenhuma ilegalidade flagrante que justifique a superação do enunciado da Súmula nº 691 desta Suprema Corte, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
