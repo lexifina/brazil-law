@@ -1,0 +1,12 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceito inscrito na Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o E. Tribunal de Justiça do Estado de São Paulo, para dar parcial provimento ao agravo de instrumento da parte ora recorrente, apoiou-se em dispositivos de ordem meramente legal:
+    “Primeiramente, respeitado o entendimento do douto magistrado ‘a quo’, entende-se que se aplicam ao ‘Instrumento Particular de Confissão de Dívida’ (fls. 58/60) firmado entre as partes as regras previstas nos artigos 412 e 413, ambos do Código Civil, e não as disposições das legislações especiais mencionadas na r. decisão ora recorrida, ‘data maxima venia’.
+    Em que pese isso deve ser mantido o entendimento do douto magistrado ‘a quo’ no que diz respeito à redução da multa fixada na cláusula ‘5’ da aludida avença. Porém, não poderá ultrapassar o valor da obrigação principal, nos termos do artigo 412 do Código Civil, sem olvidar que ele se refere à cláusula penal que, aqui, se aplica por analogia.
+    De mais a mais, a multa em questão pode ser modificada pelo Magistrado a qualquer tempo, por se tratar de matéria de ordem pública, de modo que não há que se falar em preclusão.”
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 01 de fevereiro de 2016.
+Ministro CELSO DE MELLO
+Relator
