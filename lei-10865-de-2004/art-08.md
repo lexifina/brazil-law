@@ -69,7 +69,7 @@ XXXVI - aparelhos contendo programas - softwares - de leitores de tela que conve
 XXXVII - (VETADO); e
 XXXVIII - neuroestimuladores para tremor essencial/Parkinson, classificados no código 9021.90.19, e seus acessórios, classificados nos códigos 9018.90.99, 9021.90.91 e 9021.90.99, todos da Tipi; e
 XXXIX - (revogado);
-XL - produtos classificados no Ex 01 do código 8503.00.90 da Tipi.
+XL - produtos classificados no Ex 01 do código 8503.00.90 da Tipi, exceto pás eólicas.
 § 13. O Poder Executivo poderá regulamentar:
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota zero de que tratam os incisos I a VII, XVIII a XXI e XXIV a XXXVIII do § 12.
