@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES DA MEDIDA PROVISÓRIA N. 1.523/1997: DECADÊNCIA. ACÓRDÃO RECORRIDO CONFORME À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL FIXADA EM CASO COM REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Segunda Turma Recursal dos Juizados Especiais Federais do Espírito Santo:
+    “Previdenciário. Revisão do ato de concessão de benefício. Decadência. Aplicação do Art. 103 da Lei nº 8.213/1991 com a redação dada pela MP 1.523-9/1997 aos benefícios anteriores à publicação desta. Possibilidade. Termo inicial do prazo decenal. Data da entrada em vigor da norma que fixou referido prazo (28.6.1997). Matéria decidida em repercussão geral (STF) e em sede de recurso repetitivo (STJ). Recurso improvido. Sentença mantida” (fl. 99).
+    2. O Agravante alega contrariedade ao art. 5º, inc. XXXVI, da Constituição da República.
+    Assevera ter ”erroneamente entend[ido] o Magistrado que sendo o benefício concedido antes da vigência da Medida Provisória nº 1.523, deveria (...) declarar a decadência do direito de revisão” (fl. 178).
+    3. O recurso extraordinário foi inadmitido ao fundamento de harmonizar-se o julgado recorrido com a jurisprudência do Supremo Tribunal Federal (Recurso Extraordinário n. 626.489, Relator o Ministro Roberto Barroso, pelo qual se trata da aplicação do prazo decadencial da Medida Provisória n. 1.523/1997 a benefícios concedidos antes de sua edição).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. No julgamento do Recurso Extraordinário n. 626.489, Relator o Ministro Roberto Barroso, este Supremo Tribunal assentou a repercussão geral da questão discutida nestes autos e decidiu pela aplicação do prazo decadencial da Medida Provisória n. 1.523/1997 a benefícios concedidos antes de sua edição:
+    “RECURSO EXTRAODINÁRIO. DIREITO PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO. DECADÊNCIA. 1. O direito à previdência social constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário. 2. É legítima, todavia, a instituição de prazo decadencial de dez anos para a revisão de benefício já concedido, com fundamento no princípio da segurança jurídica, no interesse em evitar a eternização dos litígios e na busca de equilíbrio financeiro e atuarial para o sistema previdenciário. 3. O prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição. 4. Inexiste direito adquirido a regime jurídico não sujeito a decadência. 5. Recurso extraordinário conhecido e provido” (DJe 23.9.2014).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal. Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
