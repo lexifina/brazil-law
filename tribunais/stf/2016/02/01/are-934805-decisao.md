@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Distrito Federal e dos Territórios, está assim ementado:
+    “APELAÇÃO CÍVEL. CONCURSO PÚBLICO PARA PRAÇA DO CORPO DE BOMBEIROS MILITAR DO DF. EXCLUSÃO DO CANDIDATO EM RAZÃO DO LIMITE ETÁRIO. PREVISÃO CONSTITUCIONAL E PELA LEI FEDERAL 7.479/1986, ALTERADA PELA LEI FEDERAL 12.086/2009. MANUTENÇÃO DA SENTENÇA.
+    1. O limite de idade para concorrer ao cargo público de Praça Bombeiro Militar Combatente encontra-se respaldado pela Constituição Federal e pela Lei 7.479/1986, alterada pela lei federal 12.086/2009.
+    2. O referido limite etário é consubstanciado nas atribuições peculiares do cargo pretendido.
+    3. Recurso desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, “caput”, 7º, inciso XXX e 37, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o presente recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido nesta sede processual, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Distrito Federal e dos Territórios, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos  fático-probatórios, a seguir destacados:
+    “Com efeito, não há como se admitir a matrícula no curso de formação de candidato aprovado em concurso público para o Corpo de Bombeiros Militar se demonstrado que, já na ocasião da publicação do edital no certame, a sua idade superava em cinco anos o limite estabelecido na legislação de regência. Ora, o edital do certame foi publicado em 24.05.2011, data na qual o autor já contava com 33 anos, conforme comprovada a data de seu nascimento, em 03.01.1978, à fl. 36.
+    Ressalte-se, ainda, que, desse modo, mesmo que a verificação da idade ocorresse na data de inscrição do concurso (31.05.2011- -10.06.2011), o autor não preencheria o requisito etário de 18 a 28 anos.”
+    Vê-se, portanto, que a pretensão ora deduzida pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 847.826-AgR/BA, Rel. Min. LUIZ FUX – ARE 722.467-AgR/MS, Rel. Min. CÁRMEN LÚCIA – RE 654.175-AgR/MG, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 01 de fevereiro de 2016.
+Ministro CELSO DE MELLO
+Relator
