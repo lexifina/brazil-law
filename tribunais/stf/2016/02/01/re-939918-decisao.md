@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “IPI. SAÍDA DE PRODUTO IMPORTADO APÓS DESEMBARAÇO ADUANEIRO. INCIDÊNCIA.
+    I - Apelação de sentença que denegou a segurança, ante o pleito de desobrigação do pagamento do Imposto sobre Produtos Industrializados - IPI, nas operações saída do estabelecimento da empresa impetrante de produtos importados, quando estes produtos não tenham passado por qualquer processo de industrialização após o respectivo desembaraço aduaneiro.
+    II - O IPI - Imposto sobre Produtos Industrializados, previsto no artigo 153, IV da CF/88 e regulamentado pelo artigo 46 do CTN, incide sobre produtos industrializados, tendo como fato gerador o desembaraço aduaneiro, quando de procedência estrangeira, a saída dos estabelecimentos (de importador, industrial, comerciante ou arrematante) e a arrematação, quando apreendido ou abandonado e levado a leilão.
+    III - Precedente desta Quarta turma: TRF5. AC558751/PB. Rel. Des. Fed. Rogério Fialho. Julg. 20/08/2013. DJe 22/08/2013.
+    IV - Apelação improvida”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, 150, II, e 153, IV, § 3º, II, da Constituição. A recorrente afirma que não se sujeita à incidência do IPI, em relação aos produtos importados adquiridos para revenda, no momento da saída do seu estabelecimento, em revenda, mas tão-somente no momento do desembaraço aduaneiro. Aduz ser inconstitucional o entendimento do Tribunal a quo entendeu que não há qualquer ilegalidade na incidência do IPI na saída dos produtos de procedência estrangeira do estabelecimento do importador. Defende que por lei, o IPI incide alternativamente ou no ato da importação, ou quando da saída das mercadorias de produção nacional, conforme se infere do art. 46 do CTN c/c art. 2° da Lei nº 4.502/1964.
+    A pretensão recursal não merece prosperar haja vista que para dissentir das conclusões do Tribunal de origem seria necessário o exame da legislação infraconstitucional, providência vedada em sede de recurso excepcional. No mesmo sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Imposto sobre Produtos Industrializados (IPI). Importação. Desembaraço aduaneiro. Saída do estabelecimento. Questão infraconstitucional. Afronta reflexa. 1. O Tribunal de origem, decidiu a controvérsia acerca da dupla incidência do IPI no desembaraço aduaneiro de produto industrializado e na saída do estabelecimento do importador com base na legislação infraconstitucional (CTN, Lei nº 4.502/64 e Decreto nº 7.212/10). A afronta ao texto constitucional, caso ocorresse, seria meramente reflexa ou indireta. 2. Agravo regimental não provido.” (ARE 882.027-AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPI. PRODUTO INDUSTRIALIZADO IMPORTADO. SAÍDA DO ESTABELECIMENTO DO IMPORTADOR. EQUIPARAÇÃO À INDUSTRIAL. DISTINÇÃO DA INCIDÊNCIA NO DESEMBARAÇO ADUANEIRO E NA REVENDA NO MERCADO INTERNO. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS (CTN, LEI Nº 4.502/1964, DECRETO nº 7.212/2010). NÃO CABIMENTO DO RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 891.727-AgR , Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
