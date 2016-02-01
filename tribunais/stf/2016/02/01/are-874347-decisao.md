@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - REQUISIÇÃO DE PEQUENO VALOR - ATUALIZAÇÃO DO VALOR EXECUTADO - DEVIDA - LIMITE PARA ATUALIZAÇÃO - CORREÇÃO MONETÁRIA - INCIDÊNCIA ATÉ A DATA DO EFETIVO PAGAMETO DA RPV - JUROS DE MORA - INCIDÊNCIA ATÉ A DATA DA HOMOLOGAÇÃO DO CÁLCULO DE LIQUIDAÇÃO - PAGAMENTO NÃO EFETUADO NA ÍNTEGRA PELO INSS - EXPEDIÇÃO DE RPV COMPLEMENTAR - POSSIBILIDADE. - Em se tratando de execução mediante expedição de requisição de pequeno valor, por força de entendimento pacificado no Superior Tribunal de Justiça, se o pagamento se realizou dentro do prazo legal previsto, é devida a incidência de juros de mora até a data da homologação do cálculo de liquidação e da correção monetária até a data do efetivo pagamento da Requisição de Pequeno Valor. - Constatada a existência de débito remanescente, é lícito ao exeqüente requerer expedição de RPV Complementar, para complementação de valor relativo à execução, concernente à correção monetária e juros de mora. ”
+     O recurso é inadmissível. A decisão proferida pelo Tribunal de origem assentou que são devidos os juros mora até a data da homologação do cálculo de liquidação e a correção monetária até a data do efetivo pagamento da Requisição de Pequeno Valor (RPV). Por sua vez, o recorrente dedicou a petição de recurso extraordinário, em síntese, a sustentar a exclusão da conta de atualização do precatório os juros de mora computados entre a homologação da conta de liquidação e a expedição do requisitório.
+    As razões apresentadas no recurso extraordinário, portanto, estão dissociadas dos fundamentos do acórdão que impugnou. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
