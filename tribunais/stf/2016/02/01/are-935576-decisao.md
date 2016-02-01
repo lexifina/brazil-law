@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça Estado do Paraná, assim ementado:
+    “JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE NULIDADE DE DÉBITO FISCAL E ANULATÓRIA C/C REPETIÇÃO DE INDÉBITO, COM PEDIDO DE TUTELA ANTECIPADA. PRELIMINARES DE INÉPCIA DA INICIAL AFASTADAS. IPTU LEI MUNICIPAL Nº 7.303/97. ART. 175 E TABELA III, QUE PREVÊEM A PROGRESSIVIDADE EXTRAFISCAL NO TEMPO AUSÊNCIA DOS REQUISITOS DO ART. 156, § 1º (ENTÃO VIGENTE), E DO ART. 182, §§ 2º E 4º, INCISO II, AMBOS DA CARTA MAGNA, BEM COMO DA LEI FEDERAL Nº 10257/2001 (ESTATUTO DA CIDADE). INCONSTITUCIONALIDADE DA ALÍQUOTA PROGRESSIVA - INTELIGÊNCIA DO ARTIGO 182, § 4º, II, DA CONSTITUIÇÃO FEDERAL. PAGAMENTO INDEVIDO. REPETIÇÃO DO INDÉBITO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.” (eDOC 21).
+    No recurso extraordinário (eDOC 23), com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 2º; 30; 37, caput; 102; e 156, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, o seguinte:
+    “A declaração incidental de inconstitucionalidade somente pode repousar sobre uma situação concretamente apreciada, e nunca em tese, porque em tal situação equiparar-se-ia ao controle direto de constitucionalidade das normas legais, o qual se dá, unicamente, na forma das ações objetiva e constitucionalmente previstas para tanto (ADI, ADC, ADPF), as quais não se pode equiparar a presente lide, de evidente caráter subjetivo, e não objetivo.” (eDOC 23, p. 4-5).
+    A Presidência das Turmas Recursais inadmitiu o recurso extraordinário com base nas Súmulas 282 e 356 e na jurisprudência do STF (eDOC 26).
+    Decido.
+    Inicialmente, observa-se a ausência da preliminar formal e fundamentada de repercussão geral na petição do recurso extraordinário, pressuposto de admissibilidade do recurso, conforme o art. 543-A, § 2º, do CPC.
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF, o que ocorre no presente caso.
+    Igualmente, importa destacar que alegações vagas e genéricas acerca da transcendência subjetiva da demanda não cumprem o preconizado no art. 543-A do CPC, à luz da função de Corte Constitucional desempenhada pelo Supremo Tribunal Federal.
+    Ademais, convém reproduzir o assentado pelo Tribunal de origem:
+    “Melhor sorte não assiste ao recorrente com relação a discussão acerca da possibilidade ou não de concessão de ‘efeitos futuros’ da pretensão de anulação de lançamentos tributários. Vislumbra-se que a sentença singular efetivamente afastou a pretensão autoral, senão vejamos: ‘(...) quanto aos efeitos prospectivos desta decisão, não há como declarar-se a inconstitucionalidade de lançamentos de tributos que sequer ainda ocorreram, inclusive em face do que estabelece o artigo 471, inciso I, do Código de Processo Civil, do que dispõe a Súmula 239, do excelso Supremo Tribunal Federal (‘Decisão que declara indevida a cobrança do imposto em determinado exercício não faz coisa julgada em relação aos posteriores’).’”
+    Sendo assim, verifica-se que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido e da realidade processual dos autos, o que torna aplicável ao caso o Enunciado da Súmula 284 do STF.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 21, §1º, RISTF, e 544, §4º, II, “b”, do CPC.
+    Publique-se.
+    Brasília, 01 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
