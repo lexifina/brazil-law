@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido liminar, contra decisão proferida pela Desembargadora Presidente do Tribunal de Justiça do Rio de Janeiro, nos autos do processo administrativo nº 2013-0039132, relativo a precatório devido pelo Município de Iguaba Grande.
+    O Município narrou, em síntese, que após a autuação de precatório, no ano de 2011, foi deferido pela Juíza Auxiliar da Presidência do TJ/RJ pedido de retorno dos autos à Vara Única da Comarca de Iguaba Grande, a fim de que fosse oportunizada ao ente público a compensação de débitos a que se referem os §§ 9º e 10 do art. 100 da Constituição (incluídos pela EC nº 62/2009). Na origem, o Município teria apresentado a relação de débitos inscritos na dívida ativa em nome do espólio credor, bem como comprovado os créditos sujeitos a execução fiscal - o que totalizava R$ 210.351,41 (duzentos e dez mil, trezentos e cinquenta e um reais e quarenta e um centavos). Ocorre que o pedido de compensação, após contraditório, suspensão do feito a pedido da parte credora e outros atos de ofício, não chegou a ser decidido. Não obstante, a Presidência do TJRJ, em 29.10.2014, assim determinou o imediato pagamento da totalidade do precatório:
+    “Considerando que até a presente data não se ultimou a compensação que o Município alega lhe aproveitar, sendo certo que esta não se deu antes de expedir o precatório, conforme ofício de fls. 30, intime-se o Excelentíssimo Senhor Prefeito do referido Município, pessoalmente, para efetuar o pagamento do crédito representado neste precatório no prazo de 05 (cinco) dais, sob pena de sequestro”.
+    A parte reclamante alegou afronta à autoridade de decisões cautelares proferidas pelo Min. Luiz Fux nas ADIs 4.357 e 4.425, em que S. Exa. determinou a continuidade dos pagamentos de precatórios, conforme a sistemática vigente antes das declarações de inconstitucionalidade realizadas pelo Plenário naqueles autos, até a modulação de efeitos do julgamento.
+    Em 03.12.2014, deferi medida liminar, para suspender a ordem de pagamento do precatório.
+    As informações foram prestadas pelo TJ/RJ e Juízo da Comarca de Iguaba Grande. Noticiou-se o cumprimento da medida liminar e, ainda, a efetiva compensação requerida pelo Município, com consequente extinção parcial do débito exequente.
+    A Procuradoria-Geral da República opinou pela perda do objeto da reclamação.
+    É o relatório. Decido.
+    Conforme informações prestadas, o Juízo da Comarca de Iguaba Grande, nos autos nº 500-88.1999.8.19.069, acolheu o pedido de compensação realizado pelo requerente, nos termos do art. 100, § § 9º e 10 da CF/88, na redação dada pela EC 62/2009. Transcrevo da pertinente decisão (doc. 17):
+    “Dessa forma rejeito impugnação ofertada pelo Espólio beneficiário do precatório, declarando que o valor ser compensado pelo Município de Iguaba Grande e o montante de R$ 210.351,41 (duzentos dez mil, trezentos cinquenta um reais quarenta um centavos) que ora se converte em dívida de valor, fim de evitar necessidade de cálculos de correção monetária, levando a que respectivo valor corresponda 87.406,0541 UFIR's-RJ (oitenta sete mil quatrocentos seis, virgula zero quinhentos e quarenta uma unidades fiscais de referenda do Estado do Rio de Janeiro), tendo em conta que calculo foi efetuado em 12/05/2014 valor da UFIR-RJ, para ano de 2014, ter sido fixado R$2,4066 (dois virgula, quatro mil sessenta seis reais) (índice econômico anual), que corresponde aos exercícios 2002 2010, relativamente aos 11 (onze) imóveis de propriedade do Espólio de Alcebíades Antunes de Oliveira.
+    (…)
+    Iguaba Grande, 09 de dezembro de 2014” (destaquei).
+    Nessas circunstâncias, a reclamação perdeu o seu objeto.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, IX, do RI/STF, julgo prejudicada a presente reclamação.
+    Publique-se.
+    Brasília, 02 de fevereiro de 2016
+Ministro LUÍS ROBERTO BARROSO
+Relator
