@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 150, § 6º, e 155, § 2º, XII, “g”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A matéria veiculada no extraordinário, recurso que busca a agravante destrancar, já foi objeto de exame por esta Suprema Corte, a denotar a desnecessidade de reparos na decisão prolatada pelo Tribunal de origem. Anoto precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. IPVA. Isenção. Portador de necessidades especiais. Norma de direito local. Súmula 280/STF. Artigo 111, CTN. Afronta reflexa. 1. A matéria atinente à isenção do IPVA na aquisição de veículo pelo portador de necessidades especiais depende da reinterpretação da legislação infraconstitucional local e do art. 111 do CTN. Caso de ofensa reflexa à Constituição. Precedentes de ambas as Turmas. 2. Não cabe recurso extraordinário contra acórdão em que o órgão julgador se limite a interpretar normas de direito local. Súmula 280/STF. 3. Agravo regimental não provido” (ARE 7122.22 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 17.2.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS IPI. AQUISIÇÃO DE VEÍCULO. ISENÇÃO POR DEFICIÊNCIA FÍSICA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS: INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 676.309/RS-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 17.5.12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ISENÇÃO DO IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. AQUISIÇÃO DE VEÍCULO. DEFICIENTE FÍSICO. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 710.070-AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 21.11.2012).
+     Acresço que esta Suprema Corte, no julgamento do RE 790.799, declarou a inexistência da repercussão geral da matéria relativa à isenção do Imposto sobre a Circulação de Mercadorias e Serviços (ICMS) na aquisição de veículos automotores por portadores de deficiência física não elencada na legislação estadual correlata, verbis:
+    "RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. AQUISIÇÃO DE VEÍCULOS AUTOMOTORES POR PORTADOR DE DEFICIÊNCIA FÍSICA. ISENÇÃO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (RE 790799 RG, Relator(a): Min. LUIZ FUX, julgado em 03/04/2014, ACÓRDÃO ELETRÔNICO DJe-080 DIVULG 28-04-2014 PUBLIC 29-04-2014 )
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 02 de fevereiro de 2016.
+Ministra Rosa Weber
+Relatora
