@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. INSUFICIÊNCIA DE PENHORA. AUSÊNCIA DE ÓBICE AO RECEBIMENTO DA DEMANDA. CONTRIBUIÇÕES PARA O EXTINTO INSTITUTO DO AÇÚCAR E DO ÁLCOOL. PARCELAMENTO. PRESCRIÇÃO NÃO IDENTIFICADA. ANÁLISE DE MÉRITO (ARTS. 515, §3º, E 516, CPC). LEGITIMIDADE CONSTITUCIONAL DA EXAÇÃO. COMPETÊNCIA DA PROCURADORIA DA FAZENDA NACIONAL.
+    1. O bem constrito judicialmente, consoante as razões da apelante, vale aproximadamente cinqüenta por cento da dívida (fl. 165). Logo, é de se aplicar o entendimento consolidado pelo Superior Tribunal de Justiça, pelo qual a insuficiência da penhora não impede o recebimento dos embargos.
+    2. Os créditos sub judice foram constituídos mediante notificação pessoal em 14 de janeiro de 1983, ou seja, antes do advento da Constituição da República (fl. 171), quando não possuíam natureza tributária e, portanto, não se sujeitavam ao prazo qüinqüenal.
+    3. O parcelamento deferido em 1990 encontrou em curso o prazo prescricional, interrompendo-o até a rescisão da avença, nos termos do Código Tributário Nacional.
+    4. Em face do Decreto-Lei n. 352/68, a Fazenda Nacional apenas poderia rescindir o parcelamento e cobrar o valor remanescente após o inadimplemento de duas parcelas. Logo, impossível fixar o termo inicial da prescrição antes dessa data, em homenagem ao princípio da actio nata.
+    5. Em homenagem aos arts. 515, §3º, e 516 do Código de Processo Civil, abordam-se as demais questões suscitadas nos embargos.
+    6. O Supremo Tribunal Federal já rechaçou todos os argumentos opostos pela contribuinte à constitucionalidade das contribuições para o Instituto do Açúcar e do Álcool, concluindo por sua legitimidade, quer no regime da Constituição de 1967/1969, quer na ordem constitucional inaugurada em 1988.
+    7. Há precedentes judiciais reconhecendo a perda de eficácia do Decreto-Lei n. 2.471/88, que repassou à Secretaria da Receita Federal a competência para fiscalização e lançamento das contribuições em tela. Entretanto, esta discussão perdeu o sentido com a extinção do Instituto do Açúcar e do Álcool - IAA pela Lei n. 8.029/90 e pelo Decreto n. 99.240/90, pois a União lhe sucedeu em todos os direitos e obrigações.
+    8. A legitimidade da União e, a fortiori, a competência da Procuradoria da Fazenda Nacional, ainda que não decorresse do Decreto-Lei n. 2.741/88, seria conseqüência inarredável da extinção da autarquia especial, não existindo nulidade a ser proclamada nesta sede.
+    9. Apelação e remessa providas, para afastar a ocorrência de prescrição. Embargos julgados improcedentes. Honorários absorvidos pelo encargo de 20%, de que cuida o Decreto-Lei n. 1.025/69.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente sustenta a inconstitucionalidade dos Decretos-Lei 2.445/88 e 2.449/88. Aduz que o prazo prescricional é de cinco anos, e não de dez anos.
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente não apresentou preliminar de repercussão geral das questões constitucionais discutidas, o que não atende ao disposto no art. 543-A, § 2º, do CPC. Como já registrado por este Tribunal, a parte recorrente tem o ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa (RE nº 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+    Brasília, 02 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
