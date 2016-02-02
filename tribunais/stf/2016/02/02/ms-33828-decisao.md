@@ -1,0 +1,24 @@
+MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. ANÁLISE DE CONTAS DO GOVERNO FEDERAL REFERENTES AO EXERCÍCIO DE 2014. PEDIDO DE SUSPENSÃO DO PROCESSO ATÉ A APRECIAÇÃO DA EXCEÇÃO DE SUSPEIÇÃO DO RELATOR. POSTERIOR APRECIAÇÃO DA EXCEÇÃO PELA CORTE DE CONTAS. PERDA SUPERVENIENTE DO OBJETO. WRIT PREJUDICADO.
+    Decisão: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado pela Presidente da República, contra ato do Presidente do Tribunal de Contas da União (TCU), que não determinou a suspensão do processo nº 005.335/2015-9 até o julgamento da exceção de suspeição, oferecida contra o Ministro Relator.
+    Em 07/10/2015, indeferi a medida liminar.
+    Na mesma data foi protocolada a Petição nº 51.564/2015, por Mário Barbosa Villas Boas, na qual pleiteou o seu ingresso no feito, na qualidade de amicus curiae.
+    O Tribunal de Contas da União prestou as seguintes informações:
+    “4. Ocorre, todavia, que a Corte de Contas já procedeu ao regular processamento e julgamento da exceção de suspeição (TC-027.170/2015-2) e do processo principal, qual seja, o parecer prévio sobre as contas do governo referentes ao exercício de 2014 (TC-005.335/2015-9). Tal procedimento inclusive se deu amparado por decisão do Exmo. Ministro Luiz Fux, ao indeferir a medida liminar requerida no writ.”
+    (…)
+    Na sessão extraordinária de 07/10/2015, o Plenário do TCU apreciou o TC-026.641/2015-1, que tratou de "Representação oferecida pela Presidente da República Dilma Vana Rousseff, representada neste ato pelo Advogado-Geral da União Luís Inácio Lucena Adams, na qual alega que o Ministro Augusto Nardes, relator do processo JC-005.335/2015-9, que cuida das contas da Presidente da República relativas ao exercício de 2014, teria ofendido o princípio da imparcialidade do juiz e o disposto no art. 36, inciso 111, da Lei Complementar n° 35/79 (Lei Orgânica da Magistratura Nacional), assim como o art. 39, inciso VIl, do Regimento Interno do TCU, que estabelecem ser vedado ao magistrado manifestar, por qualquer meio de comunicação, opinião sobre processo pendente de julgamento, seu ou de outrem, ou juízo depreciativo sobre despachos, votos ou sentenças, de órgãos judiciais, ressalvada a crítica nos autos e em obras técnicas ou no exercício do magistério.
+    6. Essa representação foi considerada manifestamente improcedente por meio do Acórdão n. 2459/2015-TCU-Plenário."
+     O Ministério Público Federal opinou pela perda superveniente do objeto deste mandado de segurança, em parecer assim ementado, verbis :
+    “Mandado de segurança. Tribunal de Contas da União. Análise das contas de governo do exercício de 2014. Exceção de suspeição oposta contra o Ministro relator. Pretensão de suspensão do julgamento do processo principal até a análise do incidente. Informações da autoridade coatora que noticiam a instrução da exceção em autos apartados e julgamento prévio à causa principal. Perda de objeto.”
+    É o relatório. Decido.
+    Este Supremo Tribunal Federal tem entendido que o pedido de ingresso no feito como amicus curiae não se aplica aos processos de caráter meramente subjetivo, como o processo mandamental. Neste sentido: MS 28.375, Rel. Min. Rosa Weber, Pleno, DJe 9/5/2014; e MS 26.552-AgR, Rel. Min. Celso de Mello, Pleno, DJe 16/10/2009, assim ementado:
+    “MANDADO DE SEGURANÇA PETIÇÃO INICIAL DESACOMPANHADA DOS DOCUMENTOS NECESSÁRIOS À COMPROVAÇÃO LIMINAR DOS FATOS ALEGADOS INDISPENSABILIDADE DE PROVA PRÉ-CONSTITUÍDA INCONTESTÁVEIS PRETENDIDA INTERVENÇÃO DE TERCEIRO, NA CONDIÇÃO DE amicus curiae, NO PROCESSO MANDAMENTAL INADMISSIBILIDADE RECURSO DE AGRAVO IMPROVIDOS.
+    […]
+    - Não se revela juridicamente possível a invocação da Lei nº 9.868/99 (art. 7º, § 2º) para justificar o ingresso de terceiro interessado, em mandado de segurança, na condição de amicus curiae. É que a Lei nº 9.868/99 por referir-se a processos de índole eminentemente objetiva, com o são os processos de controle normativo abstrato (RTJ 113/22 - RTJ 131/1001 - RTJ 136/467 - RTJ 164/506-507, v.g.) - não se aplica aos processos de caráter meramente subjetivo, como o processo mandamental.
+    - Não se revela admissível a intervenção voluntária de terceiro, ad coadjuvandum, na condição de assistente, no processo de mandado de segurança. Doutrina. Precedentes.”
+    Superada essa questão, de acordo com as informações prestadas pelo TCU, a exceção de suspeição e o processo principal já foram julgados pela Corte de Contas, o que acarreta a perda de objeto do presente mandamus.
+    Ex positis, indefiro o pedido de ingresso no feito, na qualidade de amicus curiae, externado na Petição nº 51.564/2015, e JULGO PREJUDICADO o presente mandado de segurança, diante da perda superveniente de seu objeto (art. 21, IX, do RI/STF).
+    Publique-se.
+    Brasília, 2 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
