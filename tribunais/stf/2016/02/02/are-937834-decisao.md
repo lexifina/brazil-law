@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “Mandado de Segurança Pretensão de obter liminar visando impedir inscrição no CADIN - Inviabilidade - A exclusão do nome do devedor do CADIN depende do depósito do montante integral do débito. Eventual apontamento no CADIN não configura meio abusivo de cobrança e tampouco inviabiliza o livre exercício da atividade empresarial.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, IV; 5º; XII, XXXV, LXIX, e 170, parágrafo único, da Carta. Sustenta, ainda, inobservância das Súmulas 70 e 323/STF. Aduz que nenhuma exigência fiscal pode impedir o livre exercício de qualquer atividade, nem mesmo a inscrição no CADIN.
+    A pretensão recursal não merece prosperar, tendo em vista que para dissentir das conclusões adotadas demandaria tão somente o exame da legislação infraconstitucional pertinente à hipótese, bem como o reexame do conjunto fático e probatório, providência vedada nesta via processual. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. No mesmo sentido:
+    “TRIBUTÁRIO. CADIN. MANUTENÇÃO DA INSCRIÇÃO. DESCUMPRIMENTO DOS REQUISITOS PREVISTOS NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. SÚMULA 279. I – o acórdão recorrido decidiu acerca da manutenção do registro do contribuinte no CADIN à luz da legislação infraconstitucional aplicável à espécie, o que inviabiliza o recurso extraordinário. II – O RE demanda a análise do conjunto fático-probatório dos autos, o que atrai a Súmula n. 279 do STF. III – A alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. IV – Agravo regimental improvido” (AI 662.796-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CADASTRO INFORMATIVO DE CRÉDITOS NÃO QUITADOS DO SETOR PÚBLICO NACIONAL – CADIN. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO”. (ARE 832.608, Rel.ª Min.ª Cármen Lúcia)
+    Outras decisões: ARE 805.103-AgR, de minha relatoria; ARE 751.773-AgR, Rel.ª Min.ª Cármen Lúcia; AI 742.286-AgR, Rel. Min. Marco Aurélio; e ARE 917563, Min. Luiz Fux.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 02 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
