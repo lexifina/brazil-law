@@ -1,0 +1,25 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Dallas Rent a Car Ltda. - Em Recuperação Judicial . Aparelhado o recurso na afronta ao art. 5º, V, X, XXXV, LIV e LV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise de matéria infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Noutro giro, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE VIOLAÇÃO DOS PRINCÍPIOS DA LEGALIDADE E DO DEVIDO PROCESSO LEGAL. MATÉRIA INFRACONSTITUCIONAL. REEXAME INCABÍVEL NO ÂMBITO DO RECURSO EXTRAORDINÁRIO. DIREITO CIVIL. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE. INDENIZAÇÃO. REEXAME DE FATOS E PROVAS. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 279/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 12.10.2013.
+    Impossibilidade de exame em recurso extraordinário de alegada violação, acaso existente, situada no âmbito infraconstitucional.
+    Necessidade do reexame de fatos e provas para divergir da conclusão a que chegou o Tribunal de origem. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.”
+    Agravo regimental conhecido e não provido.” (ARE 823919-AgR, de minha lavra, 1ª Turma, DJe 14.10.2014)
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEXO DE CAUSALIDADE. AUSÊNCIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. ALEGADA VIOLAÇÃO AO ART. 5º, LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido quanto à existência de nexo de causalidade a ensejar o dever de indenizar, bem como quanto ao montante indenizatório, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes.
+    II - A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Precedentes.
+    III – Agravo regimental a que se nega provimento.” (ARE 806.728-ED, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 11.6.2014)
+    ““Agravo regimental em recurso extraordinário com agravo. 2. Dano moral. Discussão de índole infraconstitucional. ARE-RG 739.382, Tema 657. 3. Valor fixado a título de danos morais. Matéria infraconstitucional. ARE-RG 743.771, Tema 655. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 743.473-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 13.9.2013)
+    “Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Quantum indenizatório. Danos morais e materiais. Concessionária de serviço público. Consumidor. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o quantum indenizatório de condenação por danos morais e materiais decorrentes da relação entre concessionária de serviço público e consumidor, versa sobre tema infraconstitucional.” (AI 839.695-RG, Rel. Min. Presidente, Pleno, DJe 01.9.2011)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 02 de fevereiro de 2016.
+Ministra Rosa Weber
+Relatora
