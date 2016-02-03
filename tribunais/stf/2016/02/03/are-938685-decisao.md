@@ -1,0 +1,46 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. JULGAMENTO DE APELAÇÃO PELO ART. 557 DO CPC. POSSIBILIDADE. REAJUSTE DOS BENEFÍCIOS PREVIDENCIÁRIOS NA MESMA PROPORÇÃO DO AUMENTO DO TETO DOS SALÁRIOS DE CONTRIBUIÇÃO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+    1- O ordenamento jurídico pátrio prevê expressamente a possibilidade de julgamento da apelação pelo permissivo do Art. 557, caput e § 1º-A do CPC, nas hipóteses previstas pelo legislador. O recurso pode ser manifestamente improcedente ou inadmissível mesmo sem estar em confronto com súmula ou jurisprudência dominante, a teor do disposto no caput, do Art. 557 do CPC, sendo pacífica a jurisprudência do STJ a esse respeito.
+    2- A lei não prevê o reajuste dos benefícios previdenciários na mesma proporção do aumento do teto dos salários de contribuição, razão pela qual devem ser aplicados os índices de reajuste previstos na legislação infraconstitucional. Precedentes do STJ.
+    3- Agravo desprovido”.
+    Os embargos de declaração opostos pela parte recorrente foram rejeitados.
+    Sustenta o recorrente, no recurso extraordinário, violação dos artigos 1º, inciso III, 3º, incisos I e III, 194, parágrafo único e incisos III, IV e V, 195, caput e §§ 4º e 5º, e 201, § 4º, da Constituição Federal, assim como da Emenda Constitucional nº 20/1998 e da Emenda Constitucional nº 41/2003.
+    O Superior Tribunal de Justiça, em decisão transitada em julgado, não conheceu do agravo da decisão que não admitiu o recurso especial interposto simultaneamente ao extraordinário.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07. Assim, conforme decidido pelo Plenário desta Corte na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, aplica-se ao presente recurso o instituto da repercussão geral.
+    A irresignação não merece prosperar.
+    A controvérsia instaurada nos presentes autos guarda perfeita identidade com o tema discutido no RE nº 686.143/PR, cujo o Plenário desta Corte, em sessão realizada por meio eletrônico, concluiu pela ausência da repercussão geral, em virtude de sua natureza infraconstitucional.
+    Reproduzo a manifestação lançada no Plenário Virtual da Repercussão Geral pelo Ministro Cezar Peluso, Relator:
+    “1. Trata-se de recurso extraordinário contra acórdão de Tribunal Regional Federal da 4ª Região, assim ementado:
+    PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. REAJUSTE DOS BENEFÍCIOS PREVIDENCIÁRIOS NA MESMA PROPORÇÃO DO AUMENTO DO TETO DO SALÁRIO DE CONTRIBUIÇÃO. REAJUSTES PELO INPC. IMPOSSIBILIDADE.
+    1. Não há base constitucional ou legal para o pedido de reajuste dos benefícios previdenciários na mesma proporção do aumento do teto dos salários-de-contribuição. Na esteira desse entendimento, são indevidos os reajustamentos dos benefícios nos percentuais de 10,96% (dezembro/98), 0,91% (dezembro/2003) e 27,23% (janeiro/2004). Precedentes da Corte.
+    2. O Supremo Tribunal Federal já firmou posição sobre a constitucionalidade dos reajustes dos benefícios previdenciários que se sucederam a partir de 1997, inclusive, entendendo inexistir qualquer afronta ao princípio da preservação do valor real (RE nº 376.846/SC, Rel. Min. Carlos Velloso, DJ 02-04-2004).
+    3. Segundo precedentes do STF, a preservação do valor real do benefício há que ser feita nos termos da lei, ou seja, de acordo com o critério por esta eleito para tal fim, consoante expressa autorização do legislador contribuinte (art.201,§4º, CF/88).
+    Opostos embargos de declaração, foram rejeitados (fl. 139).
+    Sustenta o recorrente, com base no art. 102, III, a, violação aos artigos 195, §5º e 201, §4º, da Constituição Federal. Aduz, em síntese, que:
+    (...) 8. Conforme mencionado anteriormente, determinam expressamente o §1º do artigo 20, o §5º do artigo 28 e o artigo 102, todos da Lei n. 8.212/91, que os valores do salário de contribuição serão reajustados nas mesmas épocas e com os mesmos índices que os do reajustamento dos benefícios de prestação continuada da previdência social.
+    9. E tais dispositivos sempre foram aplicados pela Autarquia Federal, que respeitou esta equivalência em praticamente todas as alterações do salário de contribuição, com exceção tão somente nas competências dezembro/98, dezembro/2003 e janeiro/2004 ocasião das Emendas Constitucionais 20/98 e 41/2003.
+    10. As Emendas, no entanto, não autorizavam o aumento da arrecadação previdenciárias por meio do reajuste das tabelas de contribuição, o que foi feito por Portarias do Ministério da Previdência Social, mas sim a SIMPLES ELEVAÇÃO DO TETO. E quando se diz- ELEVAR O TETO- significaria AUMENTAR O LIMITE OBSERVÁVEL PARA REFERÊNCIA (salário-de-contribuição) NO MOMENTO DA ARRECADAÇÃO, O REPERCUTIRIA NO AUMENTO DA SAÍDA (salário-de-benefício) JÁ COM A CORRESPONDENTE FONTE DE CUSTEIO. Porém, não foi isso o que de fato ocorreu. (fl. 149)
+    Requer, por fim, o provimento do recurso extraordinário, para reformar o acórdão, com determinação de que o benefício previdenciário titularizado pela parte recorrente seja revisto nos exatos termos da peça inicial, isto é, com a aplicação ao seu benefício dos mesmos índices de reajuste aplicados aos tetos dos salários-de-contribuição por ocasião das Emendas Constitucionais nºs 20/1998 e 41/2003.
+    Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+    2. Não há questão constitucional por conhecer.
+    A questão suscitada no recurso extraordinário é saber se é possível, à luz dos arts. 195, § 5º, e 201, § 4º, da Constituição da República, ser determinada em juízo a equivalência entre o limite máximo do salário-de-contribuição e a renda mensal dos benefícios previdenciários.
+    Verifica-se, no entanto, que o acórdão impugnado decidiu a causa com base em interpretação e aplicação de legislação infraconstitucional, especificamente as Leis nºs 8.212/1991 e 8.213/1991, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta.
+    É o que já o advertiu a Corte em casos semelhantes. Confiram-se: ARE nº 648.042-AgR/RJ (Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 24.4.2012); ARE nº 648.037-AgR/RJ (Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19.6.2012); RE nº 537.616-AgR/PR (Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 6.2.2012); RE nº 593.286-AgR/MG (Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 26.9.2011); AI nº 543.804-AgR/RS, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 16.4.2010).
+    Ora, é pacífica a jurisprudência desta Corte no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+    É, ao propósito, velhíssima a postura desta Corte no sentido de que, se, para provar contrariedade à Constituição, se deva, antes, demonstrar ofensa à lei ordinária, então é esta que conta para efeito de juízo de admissibilidade do recurso extraordinário (cf., por todos, RE nº 92.264-SP, Rel. Min. DECIO MIRANDA, in RTJ 94/462-464).
+    O Plenário já assentou que é de reputar-se ausente repercussão geral, quando eventual ofensa à Constituição se dê apenas de forma indireta ou reflexa (RE 583.747-RG, Rel. Min. MENEZES DIREITO, DJe de 29.4.2009). Colho trecho da manifestação do Relator:
+    (...)
+    Com efeito, se não há controvérsia constitucional a ser dirimida no recurso extraordinário ou se o exame da questão constitucional não prescinde da prévia análise de normas infraconstitucionais, é patente a ausência de repercussão geral, uma vez que essa, induvidosamente, pressupõe a existência de matéria constitucional passível de análise por esta Corte. (No mesmo sentido: RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 12.3.2009, RE 593.388-RG, Rel. Min. MENEZES DIREITO, DJe de 12.2.2009, RE 592.211-RG, Rel. Min. MENEZES DIREITO, DJe de 20.11.2008).
+    3. Isto posto, não havendo questão constitucional por examinar, não se pode reconhecer a existência da repercussão geral (art. 324, §2º, do RISTF)”.
+    O acórdão desse julgado está assim ementado:
+    “PREVIDÊNCIA SOCIAL. BENEFÍCIO. Índice de reajuste. Equiparação ao limite do salário de contribuição. Questão infraconstitucional. Precedentes da Corte. Ausência de repercussão geral. Recurso extraordinário recusado. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto o índice para reajuste de benefício pago pelo regime geral de previdência, versa sobre matéria infraconstitucional.”
+    Essa decisão, nos termos do artigo 543-A, § 5º, do Código de Processo Civil, com a redação da Lei nº 11.418/06, “valerá para todos os recursos sobre matéria idêntica, que serão indeferidos liminarmente”.
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
