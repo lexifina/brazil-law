@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado, no que interessa:
+    “AGRAVO RETIDO – REITERAÇÃO EM AGRAVO DE INSTRUMENTO – PARTE DAS QUESTÕES AGORA LEVANTADAS, MAIS ABRANGENTES, QUE SE INDENTIFICA COM AQUELAS VENTILADAS NO INCONFORMISMO ANTERIOR – RETIDO NÃO CONHECIDO.
+    Liquidação – modalidades – modificação da forma de liquidação que, por si só, não ofende a coisa julgada – súmula nº 344 do STJ – nulidade não reconhecida – recurso conhecido e improvido”. (eDOC 44, p. 46)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa aos artigos 5º, incisos XXII, XXXVI e LV; e 93, IX, do texto constitucional.
+    Nas razões recursais, sustenta-se que o acórdão recorrido parte de premissa equivocada ao entender que não caberia a apreciação de agravo retido interposto.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, verifico que, em questão de ordem acolhida no julgamento do AI 791.292, DJe 13.8.2010, de minha relatoria, firmou-se o entendimento de que a decisão de tribunal de origem que nega provimento a apelo, desde que fundamentada, não configura violação à garantia constitucional da prestação jurisdicional:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    O acórdão recorrido consignou o seguinte:
+    “Observo, inicialmente, que a questão relativa ao cabimento da apreciação do agravo retido nestes autos de instrumento revela-se absolutamente estéril, tendo em vista que parte das questões agora levantadas na prolixa minuta, mais abrangentes, identifica-se com aquelas ventiladas no inconformismo anterior.
+    Aquele agravo foi tirado contra decisão que relegou para apreciação posterior, por se referirem ao mérito, as impugnações opostas ao laudo pericial, homologando-o e dando por encerrada a instrução processual”. (eDOC 44, p. 51)
+    Verifico que o acórdão recorrido decidiu a controvérsia com fundamento nos elementos fático-probatórios constantes dos autos e na interpretação da legislação aplicável ao caso. Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Incidem, portanto, as Súmulas 279 e 636 do STF. Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no agravo de instrumento. Civil. Inventário e partilha. Regime de bens. Legislação infraconstitucional. Ofensa reflexa. Precedentes. Fundamentos não impugnados. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional. 2. A jurisprudência do Supremo Tribunal é firme no sentido de que a parte deve impugnar, na petição de agravo regimental, todos os fundamentos da decisão agravada. 3. Agravo regimental não provido.(AI-AgR 682.011, Rel. Min. DIAS TOFFOLI, DJe 11.3.2014)
+    Observo ainda que esta Corte já apreciou a matéria relativa à violação aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise de normas infraconstitucionais no ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta, nos seguintes termos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b” ,do CPC).
+    Publique-se.
+    Brasília, 3 de fevereiro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
