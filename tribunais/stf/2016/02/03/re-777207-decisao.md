@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal, em que a parte recorrente sustenta a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    Sem contrarrazões.
+    2. Quanto à suposta violação ao artigo 93, IX, da CF/88, no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), cuja repercussão geral foi reconhecida, e já julgado no mérito, o Supremo Tribunal Federal entendeu que a Constituição da República exige acórdão ou decisão fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas. A fundamentação do aresto impugnado se ajusta às diretrizes desse precedente.
+    3. No mais, a irresignação merece acolhimento. Esta Corte, no julgamento da ADI 1.717, declarou a inconstitucionalidade do caput e dos parágrafos 1º, 2º, 4º, 5º, 6º, 7º e 8º do artigo 58 da Lei 9.649/1998 e reconheceu a natureza autárquica dos conselhos de fiscalização profissional. Portanto, essas entidades estão sujeitas aos ditames do art. 41 da Constituição Federal e do art. 19 do ADCT. Nesse sentido:
+    EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. AUTARQUIA FEDERAL. SERVIDOR PÚBLICO CONCURSADO: IMPOSSIBILIDADE DE DISPENSA IMOTIVADA. ESTABILIDADE. ACÓRDÃO RECORRIDO DISSONANTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO. (RE 735.703-ED, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 16/10/2013)
+    Agravo regimental no recurso extraordinário. Conselhos de fiscalização profissional. Natureza de autarquia reconhecida por esta Suprema Corte. Precedentes. 1. O servidor de órgão de fiscalização profissional, cuja natureza jurídica é inegavelmente de autarquia federal, não pode ser demitido sem a prévia instauração de processo administrativo. 2. Inaplicabilidade, no caso, da Súmula Vinculante nº 10 desta Corte, porque não se declarou inconstitucionalidade de lei, tampouco se afastou sua incidência. 3. Agravo regimental não provido. (RE 563.820-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 10/5/2012)
+    4. Registre-se que o requisito da repercussão geral está atendido em face do que prescreve o art. 543-A, § 3º, do CPC: “Haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante do Tribunal”.
+    5. Diante do exposto, com base no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário para restabelecer a sentença.
+    Publique-se. Intime-se.
+    Brasília, 3 de fevereiro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
