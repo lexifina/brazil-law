@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 6, p. 23):
+    “ADMINISTRATIVO. LEI 8.878/94. ANISTIA. EX-EMPREGADOS DO EXTINTO CENEA. REINTEGRAÇÃO DEFERIDA ADMINISTRATIVAMENTE. DIREITO AO PAGAMENTO DE PRESTAÇÕES VENCIDAS. CORREÇÃO E JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. APELAÇÃO PARCIALMENTE PROVIDA.
+    1. Insurge-se a parte autora contra a decisão prolatada pelo juízo primevo que não reconheceu aos autores o direito de readmissão ao serviço público, nos termos da Lei 8.874/94, Lei de Anistia.
+    2. Após a interposição do recurso os autores atravessaram petição comprovando que sua readmissão fora deferida administrativamente, não havendo mais interesse processual quanto a este pleito. Não obstante, remanesce o interesse em relação aos demais pedidos veiculados na inicial.
+    3. O caso em comento não configura hipótese de dano moral capaz de ensejar indenização fundada na responsabilidade civil objetiva do Estado (CF/88, art. 37) a qual é devida a anistiado político, que foi vítima de comprovada ofensa à sua integridade física e/ou psíquica, com flagrante violação a direitos constitucionalmente garantidos e protegidos. Nesse diapasão, fica evidente que a contenção de gastos resultante de política governamental implantada no país pelo Governo Collor, não caracteriza dano moral. Precedentes.
+    4. Por outro lado, reconhecido pela União o direito dos apelantes à readmissão aos cargos anteriormente ocupados, fazem eles jus ao pagamento das diferenças remuneratórias e demais vantagens devidas desde o efetivo retorno à atividade, nos termos do art. 6º da Lei n. 8878/94.
+    5. A atualização monetária do débito deverá ser feita de acordo com a Lei n. 6.899/1981, com observância dos índices previstos no manual de cálculos da Justiça Federal, incidindo desde o momento em que cada parcela se tornou devida. Os juros deverão ser calculados à taxa de 0,5% (meio por cento) ao mês, nos termos da MP n. 2.180-35/2001, sendo devidos a partir da citação.
+    6. A União deverá reembolsar custas e pagar honorários advocatícios, os quais fixo em 5% (cinco por cento) sobre o valor da condenação, por se tratar de condenação contra a Fazenda Pública, nos termos do art. 20, § 4º, do CPC.
+    7. Apelação parcialmente provida.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 1º, IV; 5º, caput e inciso XXXVI; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que, instado a se manifestar sobre o pedido de declaração de inconstitucionalidade do art. 6º da Lei 8.878/1994, o Tribunal a quo não fundamentou o indeferimento desse pedido, afrontando, assim, o art. 93, IX, da C.F./1988 . Aduz-se, ainda, que a anistia da citada lei não se consumou totalmente, porquanto a lei não fixou prazo para reintegração do anistiado, e, ainda, restringiu o alcance da parte econômico-financeira da anistia somente após a reintegração do anistiado.
+    A Vice-Presidência do TRF/1ª Região inadmitiu o recurso, em virtude de inexistir ofensa direta à Constituição Federal; de se ter observado a jurisprudência da Corte Suprema.
+    É o relatório. Decido.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC 5, p. 21):
+    “Por outro lado, reconhecido pela União o direito dos apelantes à readmissão aos cargos anteriormente ocupados, fazem eles jus ao pagamento das diferenças remuneratórias e demais vantagens devidas, nos termos do art. 6º da Lei nº 8878/94 (...)”
+    Sendo assim, como se observa da leitura do acórdão recorrido, o exame das razões recursais exige análise da legislação infraconstitucional, pois eventual contrariedade com a Constituição Federal é apenas reflexa, o que não autoriza o acesso à via extraordinária.
+    Ademais, no tocante à alegada afronta ao art. 93, IX, da C.F., constata-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde os ora Agravantes.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 03 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
