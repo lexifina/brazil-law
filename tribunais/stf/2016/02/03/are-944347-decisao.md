@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Turma do Conselho Recursal Cível do Estado do Rio de Janeiro, assim fundamentado:
+    “(...) Passo a decidir. De acordo como o efeito translativo dos Recursos, é possível ao julgador reconhecer de ofício matérias de ordem pública, dentre as quais o vício insanável de procedimento. Com efeito, a partir da exclusão das rés Google e Fenix da lide, a demanda deveria prosseguir somente contra a ré MPTUDO, que sequer foi citada. Acontece, porém, que a despeito deste fato processual, o Julgador de piso prolatou sentença em desfavor de litisconsórcio que não mais figurava na lide. Sendo assim, todos os atos posteriores àquela decisão de fls. 198 são nulos de pleno direito. Anote-se, por oportuno e importante, que a decisão que afastou a revelia da 3ª ré, GOOGLE, é irrecorrível na sistemática processual da lei 9099/96, por se tratar de decisão interlocutória, sobre a qual não há incide preclusão. À conta do exposto, conheço do recurso e voto no sentido de anular todos os atos do processo a partir de fls.198, para que a ré MPTUDO seja regularmente citada e, posteriormente, designada audiência de conciliação instrução e julgamento. Sem ônus, ante a norma do art. 55 da lei 9099/95. PRI.”
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso XXXII, e 170, inciso V, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração pelo ora recorrente para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
