@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “AGRAVO DE INSTRUMENTO. Locação. Ação de despejo por falta de pagamento. Impugnação contra decisão que recebeu recurso de apelação apenas em seu efeito devolutivo. Incidência do disposto no artigo 58, inciso V, da Lei nº 8.245/91. Não evidenciada excepcionalidade para a concessão de efeito suspensivo”. (eDOC, p. 106)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação ao artigo 5º, II e LVII, do texto constitucional.
+    Nas razões recursais, alega-se que o recorrente tem o direito de ser mantido no imóvel até que transite em julgado a ação de despejo, pois não se aplicam ao caso as disposições da Lei do Inquilinato, visto que a ação de despejo foi proposta por arrematante de imóvel, não por locador. (eDOC, p. 116)
+    É o relatório.
+    Decido.
+    Verifico que o Tribunal de origem não concedeu o efeito suspensivo pleiteado com base no conjunto fático-probatório dos autos e na legislação aplicável à espécie (Lei do Inquilinato), consignando não haver circunstâncias excepcionais idôneas a mitigar a regra legal do recebimento da apelação unicamente no efeito devolutivo.
+    Assim, a matéria debatida na origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Igualmente, para avaliar a existência de alguma excepcionalidade, far-se-ia imprescindível o revolvimento do acervo fático-probatório carreado aos autos, providência vedada nesta instância extraordinária, a teor da Súmula 279 do STF.
+    Quanto ao tema, confiram-se os seguintes julgados:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. EMBARGOS À EXECUÇÃO. RECURSO DE APELAÇÃO. ATRIBUIÇÃO DE EFEITO SUSPENSIVO. CONTROVÉRSIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. NECESSIDADE DE REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. NÃO CARACTERIZAÇÃO. 1. O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes). 2. A solução da controvérsia demanda análise da legislação infraconstitucional pertinente e a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. 3. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante. 4. Agravo regimental a que se nega provimento” (ARE 871.287-AgR/GO, Rel. Min. Roberto Barroso, Primeira Turma, DJe 27.5.2015).
+    “AGRAVO REGIMENTAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DESTE TRIBUNAL. QUESTÃO RELATIVA À CONCESSÃO DE EFEITOS DA APELAÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO. Agravo regimental a que se nega provimento” (AI 719171 AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 10.8.2012).
+    Ademais, no tocante à suposta ofensa ao princípio da legalidade, nos termos da Súmula 636 do STF, “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 3 de fevereiro 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
