@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, caput, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Oportuna a transcrição do seguinte trecho do acórdão recorrido:
+    “No caso em análise, os servidores requerentes buscam apenas o seu correto enquadramento inicial, de acordo com a nova legislação (art. 19, LC 153/2007 e art. 16, LC 154/2007), não se lhes aplicando as exigências e requisitos necessários para a movimentação horizontal ou vertical (promoção/progressão – arts. 13 e 14, LC 153/2007 e arts. 10 e 11, LC 154/2007), uma vez que por meio desta ação não pretendem propriamente progredir na carreira.” (fl. 461)
+    Não há falar em afronta ao preceito constitucional indicado nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no acórdão recorrido, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ENQUADRAMENTO DE SERVIDOR PÚBLICO. DIFERENÇAS REMUNERATÓRIAS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 696.957-AgR/RS, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 19.9.2012).
+    “AGRAVO REGIMENTAL. SERVIDOR PÚBLICO ESTADUAL. REENQUADRAMENTO. INTERPRETAÇÃO DE DIREITO LOCAL. O Tribunal a quo decidiu a questão em debate com base na interpretação dada à Lei estadual 12.582/1996. Assim, para se chegar a conclusão diversa, seria necessária a análise de norma local, o que não é permitido em recurso extraordinário, à luz da Súmula 280 desta Corte. Agravo regimental a que se nega provimento.” (RE 321.785-AgR/CE, Rel. Min. Joaquim Barbosa, 2ª Turma, DJ 01.7.2005).
+    “DIREITO ADMINISTRATIVO. REAJUSTE E ENQUADRAMENTO DE SERVIDORES PÚBLICOS. INTERPRETAÇÃO DAS LEIS MUNICIPAIS 5.077/97 E 5.218/00. APLICAÇÃO DA SÚMULA 280/STF. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO PRINCÍPIO DA SEPARAÇÃO DE PODERES NÃO CONFIGURADA. ACÓRDÃO RECORRIDO PUBLICADO EM 23.01.2012. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280/STF, a inviabilizar o trânsito do recurso extraordinário. O exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Precedentes. Agravo regimental conhecido e não provido.” (ARE 765.806-AgR/PE, de minha lavra, 1ª Turma, DJe 27.6.2014).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de fevereiro de 2016.
+Ministra Rosa Weber
+Relatora
