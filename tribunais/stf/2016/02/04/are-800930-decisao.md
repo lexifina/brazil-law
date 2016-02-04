@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DO PLANO GERAL DE CARGOS DO PODER EXECUTIVO – GDPGPE. EXTENSÃO AOS INATIVOS. JULGADO RECORRIDO HARMÔNICO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Segunda Turma Recursal dos Juizados Especiais Federais de Pernambuco:
+    “CONSTITUCIONAL — ADMINISTRATIVO — GRATIFICAÇÃO PAGA A SERVIDORES DA ATIVA — EXTENSÃO A SERVIDORES INATIVOS/PENSIONISTAS — POSSIBILIDADE — PRECEDENTES DO C. STF — GRATIFICAÇÃO DE CARÁTER GERAL — RECURSO INOMINADO IMPROVIDO.
+    (...)
+    — No que se refere à Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo – GDPGPE (objeto da presente Ação), cumpre salientar que a Lei nº 11.357/06 prevê formas distintas de aferição da GDPGE entre servidores da ativa e os inativos/pensionistas, dispondo em seu art. 7º-A, § 3º, que, em relação aos primeiros, “os valores a serem pagos a título de GDPGPE serão calculados multiplicando-se o somatório dos pontos auferidos nas avaliações de desempenho individual e institucional pelo valor do ponto constante do Anexo V-A desta Lei de acordo com o respectivo nível, classe e padrão”, acrescentando, outrossim, que (§ 7º), “até que seja regulamentada a Gratificação de Desempenho referida no ‘caput’ deste artigo e processados os resultados da primeira avaliação individual e institucional, os servidores que integrarem o PGPE perceberão a GDPGPE em valor correspondente a 80% (oitenta por cento) de seu valor máximo “.
+    — Deveras, quanto aos aposentados e pensionistas, ficou determinado, em seu § 4º, que, “a gratificação será correspondente a 50 (cinqüenta) pontos do valor máximo do respectivo nível, classe e padrão e que, para as aposentadorias concedidas e pensões instituídas após 19 de fevereiro de 2004....”
+    — Da leitura atenta dos dispositivos legais, é possível concluir que, embora criada, aparentemente, como uma gratificação de desempenho, a GDPGPE somente apresentará, efetivamente, essa característica, a partir do momento em que implementada a avaliação individual e institucional (e processados os seus primeiros resultados).
+    — É importante lembrar que as diversas alterações constitucionais advindas após promulgação inicial da CF/88 não retiraram do universo jurídico o instituto da paridade entre o valor dos proventos de aposentadoria e de pensão por morte e a remuneração dos servidores em atividade. De fato, resta ela mantida para diversas situações funcionais, de forma que, após a Emenda Constitucional nº 41/2003, a paridade entre os servidores ativos e inativos somente ocorrerá em relação aos funcionários públicos que, à época da referida emenda, já ostentavam a condição de aposentados/pensionistas ou tinham preenchido os requisitos para a aposentação, ou, ainda, aqueles submetidos à regra de transição nos moldes dos arts. 3º e 6º da EC nº 41/2003 e do art. 3º da EC nº 47/2005” (Documento n. 24).
+    2. A Agravante afirma contrariados os arts. 2º, 5º, incs. XXXV, LIV e LV, 61, § 1º, inc. II, al. a, 40, § 1º, incs. I, e III, al. b, § 3º, § 7º e § 8º, e 97, da Constituição da República.
+    Assevera
+    “que o STF, quando do julgamento do RE 631.389/CE, em momento algum afastou a aplicabilidade do art. 7-A, § 6º, da Lei nº 11.357/2006, com a redação dada pela Lei nº 11.784/2008.
+    (…)
+    Dessa forma, restou evidenciado que no acórdão proferido no RE n. 631.389/CE o STF não se pronunciou sobre a retroatividade dos efeitos da primeira avaliação, objeto do Recurso Extraordinário que fora inadmitido” (Documento n. 48).
+    3. O recurso extraordinário foi inadmitido ao fundamento de harmonizar-se o julgado recorrido com a jurisprudência deste Supremo Tribunal, fixada com repercussão geral, no julgamento do Recurso Extraordinário n. 631.389 (Documento n 46).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Este Supremo Tribunal reconheceu a repercussão geral do tema aqui em questão e, no julgamento de mérito do Recurso Extraordinário n. 631.389, Relator o Ministro Marco Aurélio, assentou ser devida a Gratificação de Desempenho do Plano Geral do Poder Executivo – GDPGPE na pontuação oitenta aos inativos e pensionistas até a avaliação dos servidores em atividade:
+    “GRATIFICAÇÃO DE DESEMPENHO DO PLANO GERAL DE CARGOS DO PODER EXECUTIVO – GDPGPE – LEI Nº 11.357/06. Homenageia o tratamento igualitário decisão que, até a avaliação dos servidores em atividade, implica a observância da mesma pontuação – 80 – no tocante a inativos e pensionistas” (DJe 3.6.2014).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal. Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
