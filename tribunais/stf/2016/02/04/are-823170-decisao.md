@@ -1,0 +1,11 @@
+Bem examinados os autos, verifica-se que este processo foi remetido à origem (Documento Eletrônico nº 47) pela Secretaria Judiciária desta Corte, em 15/7/2014, para que aguardasse o julgamento do Tema 555 da repercussão geral, nos termos da Portaria GP 138/2009-STF. Ocorre que a hipótese em exame versa sobre questão distinta daquela examinada no aludido tema, motivo porque torno sem efeito o termo de remessa e passo a examinar o recurso.
+    O recurso extraordinário em questão trata de matéria cuja repercussão geral foi rejeitada por este Tribunal no julgamento do ARE 906.569-RG (Tema 852), assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONVERSÃO DO TEMPO DE SERVIÇO. CARACTERIZAÇÃO DA ESPECIALIDADE DO LABOR. ARTIGOS 57 E 58 DA LEI 8.213/91.
+    1. A avaliação judicial de critérios para a caracterização da especialidade do labor, para fins de reconhecimento de aposentadoria especial ou de conversão de tempo de serviço, conforme previsão dos artigos 57 e 58 da Lei 8.213/91, é controvérsia que não apresenta repercussão geral, o que inviabiliza o processamento do recurso extraordinário, nos termos do art. 543-A, §5º, do Código de Processo Civil.
+    2. O juízo acerca da especialidade do labor depende necessariamente da análise fático-probatória, em concreto, de diversos fatores, tais como o reconhecimento de atividades e agentes nocivos à saúde ou à integridade física do segurado; a comprovação de efetiva exposição aos referidos agentes e atividades; apreciação jurisdicional de laudos periciais e demais elementos probatórios; e a permanência, não ocasional nem intermitente, do exercício de trabalho em condições especiais. Logo, eventual divergência ao entendimento adotado pelo Tribunal de origem, em relação à caracterização da especialidade do trabalho, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie.
+    INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Isso posto, tendo em vista que esta Corte julgou inexistente a repercussão geral da questão em exame, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2016.
+Ministro Ricardo Lewandowski
+Presidente
