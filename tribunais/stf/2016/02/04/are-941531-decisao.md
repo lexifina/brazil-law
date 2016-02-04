@@ -1,0 +1,34 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ARTIGO 22, IV, DA LEI Nº 8.212/1991, COM A REDAÇÃO DADA PELA LEI Nº 9.876/1999. REPERCUSSÃO GERAL. DECLARAÇÃO DE INCONSTITUCIONALIDADE. JUÍZO DE RETRATAÇÃO EXERCIDO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “TRIBUTÁRIO. APELAÇÃO EM MANDADO DE SEGURANÇA E REMESSA OFICIAL. RETENÇÃO DE 15% SOBRE O VALOR BRUTO DA NOTA FISCAL OU FATURA DE SERVIÇOS PRESTADOS POR COOPERADOS. LEI Nº 9.876/99.
+    1- Legitimidade da contribuição prevista na Lei 8.212/91, artigo 22, inciso IV, eis que são os cooperados, pessoas físicas que prestam serviço às empresas. Inteligência dos artigos 3º e 4º da Lei nº 5.764/91.
+    2- Conclusão que não se infirma também no enfoque da previsão constitucional de tratamento tributário adequado ao ato cooperativo, que tem o significado de alçar o ato cooperativo à condição de igualdade com os demais agentes que oferecem seus serviços no mercado e não investi-lo de condições privilegiadas, a exoneração das empresas da obrigação de pagamento da contribuição social incidente sobre a remuneração dos serviços prestados equivalendo à atribuição aos trabalhadores cooperados de posição vantajosa no mercado, ficando eles em situação de superioridade, quando devem concorrer em igualdade de condições, com os mesmos meios econômicos da qualidade e preço dos serviços de que dispõem os trabalhadores em geral.
+    3- Exigibilidade da exação reconhecida.
+    4- Apelação e remessa oficial providas.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões do apelo extremo, aponta violação aos artigos 154, I, e 195, I, a, da Constituição Federal e requer seja declarada a inconstitucionalidade do artigo 22, IV, da Lei nº 9.786/1999.
+    O Tribunal de origem proferiu juízo positivo de admissibilidade do recurso extraordinário (fl. 209).
+    Os autos foram distribuídos em 7/8/2006 e, em decisão publicada em 18/8/2006, o então relator, Ministro Eros Grau, determinou o sobrestamento do feito até o julgamento da ADI 2.594, Rel. Min. Cezar Peluso (fl. 214).
+    Em 30/9/2009, determinou-se o retorno dos autos ao Tribunal de origem, para adequação do julgado impugnado ao entendimento firmado pela Suprema Corte no julgamento do RE 595.838-RG (fl. 226).
+    Em juízo de retratação, a Segunda Turma do Tribunal Regional Federal da 3ª Região modificou o acórdão anteriormente exarado e negou provimento ao recurso do INSS, bem como à remessa oficial (fls. 234-236).
+    O Tribunal de origem, em novo juízo de admissibilidade, negou seguimento ao recurso extraordinário por entender que, diante do juízo de retratação, o recorrente necessitava ratificar o recurso à luz das Súmulas nº 281 e nº 418 do STF.
+    O recorrente interpôs agravo contra essa decisão e os autos foram novamente remetidos a esta Corte.
+    É o relatório. DECIDO.
+    Ab initio, verifico que a intimação do acórdão recorrido ocorreu em data anterior a maio de 2007. Assim, o recorrente está desobrigado de apresentar a preliminar formal e fundamentada da repercussão geral do caso, nos termos do decidido pelo Plenário desta Corte quando do julgamento do AI 664.567-QO, Rel. Min. Sepúlveda Pertence, DJ de 6/9/2007, verbis:
+    “A exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007.”
+    Não merece provimento o agravo.
+    Esta Suprema Corte, no julgamento do RE 595.838, Rel. Min. Dias Toffoli, DJe de 8/10/2014, reconheceu a existência de repercussão geral e declarou a inconstitucionalidade do artigo 22, IV, da Lei nº 9.876/1999. Da ementa do acórdão do paradigma se destaca:
+    “Recurso extraordinário. Tributário. Contribuição Previdenciária. Artigo 22, inciso IV, da Lei nº 8.212/91, com a redação dada pela Lei nº 9.876/99. Sujeição passiva. Empresas tomadoras de serviços. Prestação de serviços de cooperados por meio de cooperativas de Trabalho. Base de cálculo. Valor Bruto da nota fiscal ou fatura. Tributação do faturamento. Bis in idem. Nova fonte de custeio. Artigo 195, § 4º, CF.
+    1. O fato gerador que origina a obrigação de recolher a contribuição previdenciária, na forma do art. 22, inciso IV da Lei nº 8.212/91, na redação da Lei 9.876/99, não se origina nas remunerações pagas ou creditadas ao cooperado, mas na relação contratual estabelecida entre a pessoa jurídica da cooperativa e a do contratante de seus serviços. 2. A empresa tomadora dos serviços não opera como fonte somente para fins de retenção. A empresa ou entidade a ela equiparada é o próprio sujeito passivo da relação tributária, logo, típico ‘contribuinte’ da contribuição. 3. Os pagamentos efetuados por terceiros às cooperativas de trabalho, em face de serviços prestados por seus cooperados, não se confundem com os valores efetivamente pagos ou creditados aos cooperados. 4. O art. 22, IV da Lei nº 8.212/91, com a redação da Lei nº 9.876/99, ao instituir contribuição previdenciária incidente sobre o valor bruto da nota fiscal ou fatura, extrapolou a norma do art. 195, inciso I, a, da Constituição, descaracterizando a contribuição hipoteticamente incidente sobre os rendimentos do trabalho dos cooperados, tributando o faturamento da cooperativa, com evidente bis in idem. Representa, assim, nova fonte de custeio, a qual somente poderia ser instituída por lei complementar, com base no art. 195, § 4º - com a remissão feita ao art. 154, I, da Constituição. 5. Recurso extraordinário provido para declarar a inconstitucionalidade do inciso IV do art. 22 da Lei nº 8.212/91, com a redação dada pela Lei nº 9.876/99.”
+    Verifica-se que, em juízo de retratação, o acórdão reconheceu a inconstitucionalidade do artigo 22, IV, da Lei nº 9.876/1999, como se verifica a seguir:
+    “(...)
+    Em recente decisão proferida no RE nº 598.838/SP, julgado em 23.04.2014, o Tribunal Pleno do C. STF, leading case de repercussão geral declarou a inconstitucionalidade do inciso IV do art. 22 da Lei nº 8.212/91, com redação dada pela Lei nº 9.876/1999.
+    (…)
+    Por estes fundamentos, nego provimento ao recurso do INSS e à remessa oficial, nos termos supra.” (Fl. 234v).
+    O recorrente carece, portanto, de interesse recursal quanto ao ponto.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
