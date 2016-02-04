@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário contra acórdão do Tribunal Regional Federal da 3ª Região, que em juízo de retratação, deu provimento ao apelo extremo, assim ementado:
+    “JUÍZO DE RETRATAÇÃO - ARTIGO 543-B, § 3º, DO CÓDIGO DE PROCESSO CIVIL - EMBARGOS À EXECUÇÃO FISCAL - DÉBITO DE IPTU DEVIDO PELA EXTINTA REDE FERROVIÁRIA FEDERAL S/A - IMUNIDADE RECÍPROCA AFASTADA - FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO REFORMADO PARA SE AMOLDAR AO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL NO RE 599176.
+    1. Os autos foram encaminhados à Turma Julgadora, nos termos do artigo 543-B, § 3º, do Código de Processo Civil, à vista do entendimento do E. Supremo Tribunal Federal firmado no julgamento do RE nº 599.176/PR, pela sistemática da repercussão geral, onde se decidiu que não se aplica o princípio da imunidade tributária recíproca a débito de Imposto Predial e Territorial Urbano (IPTU) devido pela extinta Rede Ferroviária Federal S/A (RFFSA).
+    2. Cabe à União, sucessora da empresa nos termos da Lei nº 11.483/2007, quitar o débito.
+    3. Condenação da União Federal no pagamento da verba honorária no percentual de 10% sobre o valor da causa, limitados a R$ 10.000,00 (dez mil reais), consoante o entendimento desta Sexta Turma (v.g. AC n. 2008.61.03.000753-7, Rel. Des. Fed. Consuelo Yoshida, j. em 03.02.2011, DJF3 CJ1 de 09.02.2011, p. 224), levando-se em consideração o trabalho realizado pelo patrono, o tempo exigido para seu serviço e a complexidade da causa, e à luz dos critérios apontados no § 4º do artigo 20 do Código de Processo Civil, a ser atualizado a partir do ajuizamento dos embargos, conforme os critérios da Resolução nº 267/2013 do Conselho da Justiça Federal.” (fls. 322)
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 21, XII, “d”; 150, VI, “a” e §§ 2º e 3º; 175; e 177 da Constituição Federal.
+    Nas razões recursais, sustenta-se que “a questão de mérito apresentada pela União em suas peças recursais, qual seja, a imunidade tributária originária da extinta RFFSA, em decorrência dos relevantes serviços públicos pela mesma prestados, não se confunde com a questão de ordem constitucional decidida por esse egrégia Corte Superior no RE 599.176-Paraná.” (fls. 338)
+    A Vice-Presidência do TRF-3 inadmitiu o recurso, ao seguinte fundamento de que “a insurgência da União quanto à existência de imunidade tributária originária da RFSSA não foi analisada pelo órgão colegiado e sequer ventilada nos autos em momento anterior.” (fls. 370/370v)
+    É o relatório. Decido.
+    A irresignação do recorrente não merece prosperar.
+    De fato, as alegações esposadas pela parte Recorrente encontram-se dissociadas da realidade processual dos autos, uma vez que somente agora, diante do apelo extremo, a União agitou a tese de imunidade tributária originária da RFSSA, em decorrência da natureza dos serviços públicos pela mesma prestados. Nesses termos, incide, quanto ao ponto, a súmula 284 do STF.
+    Confira-se, a propósito, os seguintes julgados:
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE IMUNIDADE FRENTE AO IPVA E AO ITCD. EXTINÇÃO POR FALTA DE INTERESSE DE AGIR. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCOGNOSCIBILIDADE. SÚMULA STF 284. Deficiência de fundamentação por ausência de ataque, nas razões do recurso extraordinário, aos fundamentos do acórdão recorrido. Aplicação da Súmula STF 284. Agravo regimental conhecido e não provido.”
+(AI 776488 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 12.03.2013)
+    Ademais, verifica-se que os dispositivos apontados como supostamente violados carecem do necessário prequestionamento. Esta Corte tem consignado ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo ato recorrido. Incidem, portanto, a Súmula 282 e 356 do STF
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos artigos 544, §4º, II, “b”, do CPC, e 21, do RISTF.
+    Publique-se.
+    Brasília, 04 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
