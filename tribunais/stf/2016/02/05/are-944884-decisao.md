@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA – POLICIAL MILITAR PRESO PREVENTIVAMENTE – SUSPENSÃO DO PAGAMENTO DE VANTAGENS DEVIDAS ENQUANTO O SERVIDOR EXECUTA AS TAREFAS QUE AS ENSEJAM – ADMISSIBILIDADE – ORDEM DENEGADA – SENTENÇA CONFIRMADA.” (eDOC 1,. p. 92)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria.
+    Quanto ao mérito, aponta ofensa ao art. 5º, LVII, sob a alegação de que o acórdão recorrido violou o princípio da presunção de inocência.
+    Decido.
+    Não assiste razão ao recorrente.
+    O Tribunal a quo consignou o seguinte:
+    “Preso preventivamente o policial militar, tratou a Administração de suprimir sua remuneração vantagens que só devem ser pagas enquanto o servidor estiver desempenhando a atividade que justifica a concessão, dada a natureza ‘pro labore faciendo’, e ao assim proceder nenhuma ilegalidade praticou.
+    Também não há invocar ofensa à garantia da presunção de inocência, pois como registrou com propriedade o Desembargador Carlos Eduardo Pachi no julgamento da Apelação Cível nº 745.348-5/9-00, ‘não se trata de punição administrativa aplicada pelo Estado, em razão de processo criminal ainda em andamento, mas sim desconto pelo não preenchimento dos requisitos necessários ao percebimento de certas vantagens, uma vez que se encontra impossibilitado de exercer a função do cargo que ocupa”. (eDOC 1, p. 93)
+    Assim, não há que se falar em violação ao princípio da presunção da inocência, uma vez que, em verdade, houve o simples desconto pelo não preenchimento dos requisitos necessários ao percebimento de determinadas vantagens de natureza pro labore faciendo.
+    Estando o recorrente impossibilitado de trabalhar, o desconto referente a determinadas gratificações é lícito, sem violação ao princípio da presunção da inocência ou, ainda, ao princípio da irredutibilidade de vencimentos.
+    Nesse sentido:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. SERVIDORA PÚBLICA FEDERAL APOSENTADA. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO (GDPST). REDUÇÃO DO PERCENTUAL PAGO EM RAZÃO DO ADVENTO DAS AVALIAÇÕES DE DESEMPENHO. OFENSA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. INOCORRÊNCIA. 1. Apreciando a Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo (GDPGPE), cujo regramento é similar ao da Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho (GDPST), o Plenário do STF, no julgamento do RE 631.389, Rel. Min. MARCO AURÉLIO, DJe de 3/6/2014, Tema 351, submetido ao regime do art. 543-B do CPC, decidiu pela sua concessão aos inativos, no mesmo percentual pago aos ativos, apenas até que fossem processados os resultados da primeira avaliação de desempenho. A partir desse termo, a gratificação perde sua natureza geral e adquire o caráter pro labore faciendo. 2. Assim, avaliados os servidores em atividade, o pagamento da GDPST aos pensionistas e inativos deverá observar o art. 5º-B, § 6º, da Lei 11.355/06, com o que não há ofensa ao princípio da irredutibilidade de vencimentos decorrente da redução da gratificação de desempenho paga à servidora pública aposentada. 3. Agravo regimental a que se nega provimento.” (ARE-AgR 786.848, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 14.10.2014)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento, nos termos do art. 544, § 4º, II, “a”, do CPC.
+    Publique-se.
+    Brasília, 5 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
