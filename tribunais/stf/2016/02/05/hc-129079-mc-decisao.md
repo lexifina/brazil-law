@@ -1,0 +1,17 @@
+DECISÃO
+DIREITO – ORGANICIDADE E DINÂMICA – HABEAS CORPUS – LIMINAR INDEFERIDA.
+    1. O Assessor Dr. Roberto Lisandro Leão prestou as seguintes informações:
+    O paciente teve a carteira nacional de habilitação suspensa pelo prazo de oito meses e foi condenado a dois anos de detenção, em virtude da prática dos crimes previstos nos artigos 302 (homicídio culposo na direção de veículo automotor) e 305 (fuga do local do acidente) do Código de Trânsito Nacional. O Juízo da 3ª Vara Criminal da Comarca de Porto Velho/RO, no Processo nº 0009818-56.2011.8.22.0501, substituiu a pena privativa de liberdade por duas restritivas de direitos, consistentes na prestação de serviços à comunidade e na proibição de frequentar certos lugares, a serem especificados pelo Juízo da execução.
+    Interpôs-se apelação objetivando-se a absolvição por falta de provas. Sucessivamente, buscou-se o perdão judicial. A Primeira Câmara Criminal proveu parcialmente o recurso, reduzindo a pena de suspensão da habilitação para dois meses. Apontou a suficiência de elementos a autorizar a condenação. Consignou que o recorrente agiu culposamente para o resultado danoso, pois teria ingerido bebida alcoólica logo antes do acidente fatal. Destacou a inobservância das regras de trânsito revelada pela imprudência do condutor do veículo, que também teria exposto outras pessoas a risco de morte. Ressaltou não haver sido demonstrada a existência de vínculo afetivo entre o recorrente e a vítima, a ensejar a aplicação do perdão judicial.
+    Em habeas corpus no Superior Tribunal de Justiça, a defesa alegou que o paciente não foi submetido ao teste do bafômetro nem a exame clínico capaz de demonstrar embriaguez, referindo-se, ainda, à falta de perícia técnica a comprovar que o automóvel era conduzido em alta velocidade. Sustentou a presença de laços afetivos entre o paciente e a vítima. O relator indeferiu a liminar, ante a ausência de manifesta ilegalidade.
+    Neste habeas, o impetrante reitera as questões alusivas à falta de provas para a condenação. Argui cerceamento de defesa, pois a defesa preliminar e o pedido de perícia que visava aferir a velocidade do veículo não teriam sido analisados pelo Juízo processante. Enfatiza a ausência de lastro probatório, porque não demonstrados a ingestão de bebida alcoólica pelo paciente, o tráfego em alta velocidade, a inexistência de vínculo de amizade entre os envolvidos no acidente e a conduta imprudente do paciente. Diz tratar-se de nulidade absoluta do processo-crime. Evoca o princípio da presunção da não culpabilidade.
+    Requer, liminarmente, seja determinada a suspensão do curso do Processo-Crime nº 0009818-56.2011.8.22.0501 até o julgamento definitivo desta impetração. No mérito, pleiteia a absolvição e, sucessivamente, a nulidade da sentença condenatória.
+    A fase é de apreciação da medida acauteladora.
+    2. A queima de etapas não se coaduna com a organicidade do Direito. As questões suscitadas nesta impetração, sem que se faça em jogo na via direta, a liberdade de ir e vir do paciente, estão submetidas ao Superior Tribunal de Justiça, considerado o Habeas Corpus nº 327.561, sob a relatoria do ministro Gurgel de Faria.
+    3. Ante o quadro, indefiro a liminar.
+    4. O curso deste habeas não prejudica o de nº 327.561, formalizado no Superior Tribunal de Justiça. Com a homenagem merecida, remetam cópia desta decisão ao relator.
+    5. Colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília – residência –, 5 de fevereiro de 2016, às 12h.
+Ministro MARCO AURÉLIO
+Relator
