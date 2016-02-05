@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma Recursal dos Juizados Especiais Federais da Comarca de Uberlândia-MG que julgou improcedente o pedido do autor para renovação da carteira nacional de habilitação (CNH) e arquivamento dos pontos nela computados, bem como do processo administrativo de suspensão desta.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do texto constitucional, o recorrente sustenta a repercussão geral da matéria.
+    Quanto ao mérito, aponta ofensa aos arts. 5º, LV; e 93, IX, da Constituição Federal.
+    Nas razões recursais, alega, em síntese, a violação ao princípio da motivação decisão judicial, bem como aos princípios da ampla defesa, do contraditório, do direito adquirido e da legalidade.
+    Afirma, ainda, que “a punição de suspensão da CNH do condutor deveria ter ocorrido após 2006 e 2007 até 2010, quando se renovou a CNH regularmente”, de tal forma que o direito à pretensão punitiva por parte Estado de Minas Gerais teria decaído. (fl. 114)
+    Decido.
+    Não assiste razão ao recorrente.
+    Inicialmente, destaco que o Tribunal a quo fundamentou adequadamente o acórdão recorrido, de forma que a prestação jurisdicional foi devidamente concedida, apesar de ter sido a conclusão contrária aos interesses do recorrente.
+    Nesse sentido, destaco o entendimento firmado no paradigma AI-RG 791.292 (tema 339 da sistemática da repercussão geral), de minha relatoria:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, o acórdão recorrido, mediante análise do conjunto fático-probatório dos autos e da legislação infraconstitucional aplicável aos autos (Resolução 182/2005 do CONTRAN e o Código de Trânsito Brasileiro – CTB), consignou o seguinte:
+    “Portanto, tendo sido interrompido o prazo prescricional com a notificação do autor/recorrido do processo administrativo e não tendo transcorrido o prazo prescricional entre os marcos interruptivos, regular a aplicação das penalidades impostas ao recorrido.
+    Lado outro, não tendo comprovado o cumprimento das penalidades e o preenchimento dos requisitos para a obtenção da CNH, a improcedência do pedido inicial é medida que impõe, devendo ser provido o recurso.” (fl.100-v.)
+    Assim, para divergir do entendimento assentado pelo acórdão recorrido, concluindo pela inaplicabilidade das penalidades impostas ao ora recorrente, seria necessário o reexame do acervo fático-probatório dos autos, além da análise da legislação infraconstitucional aplicável à espécie.
+    Tal medida, no entanto, é inviável em sede de recurso extraordinário, por óbice do disposto nas Súmulas 279 e 280 do Supremo Tribunal Federal.
+    Nesse sentido, confiram-se os precedentes de ambas as turmas:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. POLICIAL MILITAR. EXCLUSÃO DA CORPORAÇÃO MEDIANTE PROCESSO ADMINISTRATIVO MILITAR. PRESCRIÇÃO. DECRETO Nº 20.910/1932. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. PRECEDENTES. Caso em que a resolução da controvérsia demandaria o reexame dos fatos e provas constantes dos autos, bem como a análise da legislação infraconstitucional pertinente, o que é vedado em recurso extraordinário (Súmula 279/STF). Agravo regimental a que se nega provimento.” (ARE- AgR 766.387, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 26.3.2015.)
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. PRESCRIÇÃO ADMINISTRATIVA. VIOLAÇÃO AO ATO JURÍDICO PERFEITO. OFENSA CONSTITUCIONAL REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL. ARE 748.371 (REL. MIN. GILMAR MENDES - TEMA 660). LEIS ESTADUAIS 1.386/51, 4.819/58 E 200/74. ANÁLISE DA LEGISLAÇÃO LOCAL. REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. SÚMULAS 279 E 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE- AgR 857.050 , Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 10.3.2015)
+    No mesmo sentido, o RE 598.565, de relatoria do Ministro Dias Toffoli, DJe de 20.6.2012; e o RE 628.207, de relatoria da Ministra Cármen Lúcia, DJe de 16.3.2011.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos arts. 21, § 1º, do RISTF, e 557, caput, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 5 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
