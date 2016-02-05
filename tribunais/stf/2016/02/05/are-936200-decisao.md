@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Indenização – Tributos – Sequestro – Tratando-se de indenização, não incidem tributos sobre a verba dela resultante. Inviável o sequestro de rendas públicas. Recurso parcialmente provido” (fl. 68).
+    2. No recurso extraordinário, o Agravante alega ter o Tribunal de origem contrariado o inc. II do art. 5º da Constituição da República, asseverando haver “lei expressa que determina a retenção do Imposto de Renda quando do pagamento de valores por ocasião de cumprimento de decisão judicial” (fl. 77).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de contrariedade ao inc. II do art. 5º da Constituição da República, suscitada no recurso extraordinário, não foi objeto de debate e decisão prévios pelo Tribunal de origem, tampouco tendo sido opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual adequado, o prequestionamento. Incidem, na espécie, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI n. 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. A assertiva de inobservância do inc. II do art. 5º da Constituição da República esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, pela qual se dispõe não caber “recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”, como ocorre na espécie (Lei n. 8.541/1992 e Lei Complementar municipal n. 592/2006). Assim, por exemplo:
+    “Recurso extraordinário: descabimento: questão relativa ao pagamento de horas in itinere decidida pelo acórdão recorrido à luz da legislação infraconstitucional: incidência, mutatis mutandis, da Súmula 636; inocorrência de negativa de prestação jurisdicional ou violação dos princípios constitucionais apontados no recurso extraordinário” (AI n. 233.548-AgR, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 18.3.2005).
+    “Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI n. 745.965-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 26.6.2011).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE E DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE EXAME PRÉVIO DE NORMAS INFRACONSTITUCIONAIS. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ” (RE n. 631.736-ED, de minha relatoria, Primeira Turma, DJe 8.4.2011).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
