@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 126):
+     “RECURSO DE AGRAVO. EXECUÇÃO PENAL. DECISÃO QUE INDEFERIU A INSTAURAÇÃO DE INCIDENTE DE REGRESSÃO DE REGIME PRISIONAL. RECURSO DO ÓRGÃO MINISTERIAL.
+    ALEGADA DESNECESSIDADE DE SENTENÇA TRANSITADA EM JULGADO PARA O NOVO DELITO PRATICADO, EM TESE, PELO AGRAVADO PARA A INSTAURAÇÃO DE INCIDENTE DE REGRESSÃO DE REGIME PRISIONAL. SUPOSTA PRÁTICA DA CONDUTA DESCRITA NO ART. 28 DA LEI DE DROGAS (POSSE DE DROGAS PARA O CONSUMO PRÓPRIO). FATO TÍPICO. CONDUTA QUE NÃO SOFREU DESCRIMINALIZAÇÃO. TIPO PENAL QUE CONTINUA IMPONDO PENAS, EM QUE PESE NÃO SE REPORTE MAIS À SANÇÃO CORPORAL. COMETIMENTO DE NOVO DELITO. REFORMA DA DECISÃO AGRAVADA QUE SE FAZ NECESSÁRIA. INTELIGÊNCIA DO ART. 118, I, DA LEI DE EXECUÇÃO PENAL. RECURSO CONHECIDO E PROVIDO.
+    O legislador, ao editar a Lei 11.343/2006, não descriminalizou propriamente a conduta do usuário de drogas. Optou, outrossim, por abrandar as sanções cominadas àquele que as guarda para uso próprio, aplicando-lhe medidas de cunho educativo. Isto porque, além dos malefícios que a substância entorpecente acarreta ao próprio usuário, seu uso coloca em risco toda a coletividade, por efeitos diretos e indiretos.
+    […] Nos termos do artigo 118, I, da Lei de Execução Penal, o cometimento de novo fato definido como crime doloso, enseja, por si só, a regressão do regime de cumprimento de pena do reeducando, sendo prescindível, para tal, que haja sentença condenatória transitada em julgado.” (Recurso de Agravo n. 2012.020931-3, de Balneário Camboriú, rel. Des. Paulo Roberto Sartorato, Primeira Câmara Criminal, j. 23-10-2012).
+     No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 5º, LVII, da CF. Busca-se, em suma, a reforma do acórdão recorrido para que seja mantida decisão que indeferiu o pedido de instauração de incidente de regressão do regime prisional.
+    É o relatório. Decido.
+    No RE 776.823, atualmente de minha relatoria, o Supremo Tribunal Federal reconheceu a existência de repercussão geral do tema sobre “necessidade de condenação com o trânsito em julgado para se considerar como falta grave, no âmbito administrativo carcerário, a prática de fato definido como crime doloso” (Pleno, DJe 18.09.2014, Tema 758).
+    Ante o exposto, em vista da manifestação do Supremo Tribunal Federal acerca da matéria suscitada neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 05 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
