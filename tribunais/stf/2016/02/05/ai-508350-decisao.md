@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL. RECONSIDERAÇÃO DO DECISUM AGRAVADO. IMPOSTO DE RENDA. DEMONSTRAÇÕES FINANCEIRAS. ANO-BASE 90. CORREÇÃO MONETÁRIA. ÍNDICE. PRECEDENTES.
+    "Perfeitamente válida e legal a aplicação do IPC, ao invés do IRVF e dos demais índices utilizados na atualização do BTN Fiscal, para correção monetária das demonstrações financeiras do ano-base de 1990, exercício de 1991, por ter sido o índice que refletiu a inflação do período, e por não atentar contra os princípios constitucionais tributários" (REsp. 133069/SC).
+    Em reconsiderando a decisão de fls. 156/158, conheço do agravo de instrumento para dar provimento ao próprio recurso especial, com a ressalva do ponto de vista do Relator.”
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 97, 150, IV, da Carta. O recorrente sustenta violação à cláusula de reserva de plenário ao deixar de aplicar a Lei nº 8.088/90. Aduz que aplicação do IPC como índice inflacionário violou a anterioridade. Sustenta que o contribuinte não pode escolher o índice que melhor lhe convenha.
+    A pretensão não merece acolhida, tendo em vista que as disposições do acórdão recorrido estão alinhadas à jurisprudência do Supremo Tribunal Federal. O Plenário da Corte, ao examinar o RE nº 208.526/RS, Rel. Min. Marco Aurélio, reconheceu inconstitucionalidade do artigo 30, § 1º, da Lei nº 7.730/89, e do artigo 30, caput, da Lei nº 7.799/89. Confira-se a ementa da decisão:
+    “IMPOSTO DE RENDA BALANÇO PATRIMONIAL ATUALIZAÇÃO OTN ARTIGOS 30 DA LEI Nº 7.730/89 E 30 DA LEI Nº 7.799/89. Surge inconstitucional a atualização prevista no artigo 30 da Lei nº 7.799/89 no que, desconsiderada a inflação, resulta na incidência do Imposto de Renda sobre lucro fictício”.
+    Ocorre que, não obstante a declaração de inconstitucionalidade do dispositivo, o Plenário, ainda no julgamento do RE nº 208.526/RS, entendeu que não caberia a esta Corte estabelecer conclusão quanto à definição do índice a ser aplicado para a inflação do período em discussão, providência que cumpriria, na realidade, ao Juízo da execução.
+    No que concerne à suposta violação do art. 97 da Constituição, melhor sorte não assiste ao recorrente. A jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. No mesmo sentido, confira-se:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. AÇÃO ORDINÁRIA. IMPOSTO DE RENDA. CORREÇÃO MONETÁRIA DAS DEMONSTRAÇÕES FINANCEIRAS. LEI Nº 8.088/1990. INCONSTITUCIONALIDADE DO BTN-F AJUSTADO PELO IRFV EM VIRTUDE DO DESCOMPASSO COM A INFLAÇÃO REAL MEDIDA PELO IPC. AUSÊNCIA DE DECLARAÇÃO DE INCONSTI-TUCIONALIDADE NOS TERMOS DO ARTIGO 97. DESCABIMENTO PELA ALÍNEA B. PRECEDENTES. RECURSO DESPROVIDO”. (RE nº 255845 / DF, Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 557 do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 05 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
