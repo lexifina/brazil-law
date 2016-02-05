@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de requerimento formulado pelo Procurador-Geral da República, materializado nesta Corte como petição 2847/2016 (fls. 2080-2081), que possui, em essência, o seguinte teor:
+    “O Ministério Público do Distrito Federal e Territórios requer, por intermédio do Oficio no 002/2016 - GAECO/ PGJ (anexo à presente manifestação), ‘o compartilhamento de provas produzidas na audiência designada para o dia 2 de dezembro de 2015 no bojo da citada ação penal’.
+    Não há empeço legal para o deferimento da medida. O presente feito, em decisão de Vossa Excelência de 3.8.2015, foi desmembrado para processamento dos réus Júlio Luís Urnau, José Geraldo Oliveira de Melo e Irones Lopes Bispo perante o Juízo da Vara Criminal e do Tribunal do Júri do Núcleo Bandeirante/DF, com encaminhamento de cópia integral dos autos.
+    Após, foi efetivada a audiência de 2.12.2015, para inquirição das testemunhas de acusação, que são rigorosamente as mesmas arroladas na ação penal em curso perante o juízo a quo em relação aos réus não detentores de prerrogativa de foro.
+    Nesse sentido, o compartilhamento de provas requerido pelo MPDFT também deve ser visto como medida de celeridade e economia processual.
+    Ante o exposto, o Procurador-Geral da República requer o compartilhamento de provas produzidas na audiência efetivada em 2.12.2015, para instrução do feito em curso na primeira instância”.
+    2. Sobre a temática, o Supremo Tribunal Federal, não sem alguma ressalva (Inq 3014 AgR, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 13/12/2012, ACÓRDÃO ELETRÔNICO DJe-186 DIVULG 20-09-2013 PUBLIC 23-09-2013), já se manifestou no sentido de que não há óbice absoluto ao compartilhamento de elementos informativos colhidos no âmbito de inquérito penal para fins de instruir outro procedimento criminal contra o investigado (HC 102293, Relator(a): Min. AYRES BRITTO, Segunda Turma, julgado em 24/05/2011, ACÓRDÃO ELETRÔNICO DJe-239 DIVULG 16-12-2011 PUBLIC 19-12-2011), observadas a garantia constitucional do contraditório e a impossibilidade de utilização da prova emprestada como único elemento de convicção do julgador.
+    No caso, há indicação precisa da Procuradoria-Geral da República da documentação a ser compartilhada: “provas produzidas na audiência efetivada em 2.12.2015”. Além disso, é nítida a identidade dos fatos investigados, tendo em vista que a ação penal em primeira instância é decorrente de desmembramento realizado nos presentes autos com a finalidade de processamento de réus que não possuem prerrogativa de foro nesta Corte.
+    3. Ante o exposto, autorizo o compartilhamento pretendido, cabendo ao Procurador-Geral da República o envio da documentação solicitada.
+    Publique-se. Intime-se.
+    Brasília, 5 de fevereiro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
