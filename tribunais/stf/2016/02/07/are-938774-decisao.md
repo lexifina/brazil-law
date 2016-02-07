@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PREENCHIMENTO DOS REQUISITOS PARA PROGRESSÃO FUNCIONAL: IMPOSSIBILIDADE DE REEXAME DE PROVAS E DA LEGISLAÇÃO LOCAL: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Sergipe:
+    “APELAÇÃO CIVEL - SERVIDOR PÚBLICO DO MUNICÍPIO DE RIACHUELO - PRESCRIÇÃO DE TRATO SUCESSIVO - SÚMULA 85 DO STJ - PRESCRIÇÃO APENAS DAS PARCELAS VENCIDAS NO QUINQUÍDIO ANTERIOR AO AJUIZAMENTO DA AÇÃO - MÉRITO - PROMOÇÃO POR ANTIGUIDADE - APLICAÇÃO DO ART. 6º, § 1º DA LEI 300/97 ALTERADA PELA LEI 350/99 - PREENCHIMENTO DOS REQUISITOS - CONSTITUCIONALIDADE - ÔNUS DO ENTE PÚBLICO DE COMPROVAR QUE O AUTOR NÃO FAZIA JUS À INDIGITADA PROGRESSÃO - ART.333, INCISO II DO CPC - PRECEDENTES DESTE E. TRIBUNAL – SUCUMBÊNCIA DO MUNICÍPIO MANTIDA - RECURSO ADESIVO – HONORÁRIOS ADVOCATÍCIOS MAJORADOS – RECURSOS CONHECIDOS E PROVIDO APENAS O RECURSO APELATÓRIO AUTORAL ADESIVO - DECISÃO UNANIME” (fls. 7-8, doc. 11).
+    2. No recurso extraordinário, o Agravante alega ter o Tribunal de origem contrariado os arts. 37, incs. XI e XIV, e 39, § 2º, da Constituição da República.
+    Sustenta que a
+    “progressão funcional (…) não deve ser concedida, ante a flagrante identidade de fundamentos fáticos-jurídicos, com a promoção por antiguidade, o que fere de morte o art. 37, XIV, da Constituição Federal, além do não atendimento aos requisitos necessários para ter direito à referida promoção, qual seja, participação em curso de formação e aperfeiçoamento, exigência contida no art. 39, § 2º, onde são estabelecidos requisitos indispensáveis para a promoção na carreira automática, apenas como o decurso do tempo” (fls. 7-8, doc. 13).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 280 do Supremo Tribunal Federal (doc. 16).
+    No agravo, salienta-se estar “claramente comprovado a possibilidade do recurso extraordinário para reexame da decisão que feri as normas legais” (sic, fls. 3-4, doc. 18).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+     Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal de Justiça assentou:
+    “O cerne da controvérsia cinge-se à análise acerca do direito do autor ao recebimento da referida progressão funcional na modalidade de promoção por antiguidade.
+    Conforme se depreende da exordial, a Lei Municipal nº 300/97 dispõe sobre o Sistema de Cargos e Salários da Administração Pública do Município de Riachuelo, disciplinando a progressão funcional em seus artigos 5º e 6º, os quais foram alterados pela Lei Municipal nº350/1999, in verbis:
+    (…)
+    Assim sendo, tendo o servidor preenchido todos os requisitos exigidos pela lei municipal, devido é o pagamento do adicional da promoção por antiguidade como determinado pelo nobre sentenciante” (fls. 12-15, doc. 11).
+    A apreciação do pleito recursal exigiria análise do conjunto probatório constante dos autos, procedimento incabível em recurso extraordinário, conforme contido na Súmula n. 279 do Supremo Tribunal Federal.
+    Novo exame do julgado recorrido demandaria também a interpretação da legislação local aplicável à espécie (Leis Municipais ns. 300/1997 e 350/1999). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário, atraindo-se a incidência da Súmula n. 280 do Supremo Tribunal Federal. Assim, por exemplo:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Servidora pública municipal. Progressão funcional. Dilação probatória. Alegação de cerceamento de defesa em razão de indeferimento do pedido de produção de provas. 4. Análise da legislação local. Lei 7.969/2000. Incidência da Súmula 280. 5. Reexame do conteúdo fático-probatório. Impossibilidade. Enunciado 279 da Súmula do STF. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento” (ARE n. 715.440-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 28.5.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR. PROMOÇÃO POR ANTIGUIDADE: PREENCHIMENTO DOS REQUISITOS LEGAIS. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DA LEGISLAÇÃO LOCAL. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 917.204-AgR, de minha relatoria, Segunda Turma, DJe 2.12.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. MAGISTÉRIO. PROGRESSÃO FUNCIONAL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS Nº 279 E Nº 280 DO STF. OFENSA AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. INOCORRÊNCIA. VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO STF NO ARE 748.371. TEMA Nº 660. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 836.799-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 19.11.2015).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
