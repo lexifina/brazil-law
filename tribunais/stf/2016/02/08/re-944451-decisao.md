@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. SEGURO OBRIGATÓRIO DE DANOS PESSOAIS CAUSADOS POR VEÍCULOS AUTOMOTORES DE VIA TERRESTRE – DPVAT. INDENIZAÇÃO. TERMO INICIAL DA CORREÇÃO MONETÁRIA: MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+    “AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SEGURO DPVAT. CORREÇÃO MONETÁRIA DA INDENIZAÇÃO SECURITÁRIA. TERMO INICIAL. DATA DO EVENTO DANOSO. AGRAVO DESPROVIDO.
+    1. É inviável o conhecimento de alegada violação a dispositivos constitucionais por se tratar de matéria reservada à análise do Supremo Tribunal Federal.
+    2. A correção monetária da indenização decorrente do seguro DPVAT (artigos 3º e 5º da Lei 6.194/74 com a redação dada pela Lei 11.482/2007, na qual convertida a Medida Provisória 340/2006), consoante orientação jurisprudencial desta Corte, deve incidir a partir da data do evento danoso até o dia do pagamento, à luz da Súmula 43/STJ. Entendimento sedimentado pelo rito do art. 543-C do CPC.
+    3. Agravo regimental parcialmente conhecido, e, nessa parte, desprovido” (Volume n. 2, fl. 184, e-STF).
+    2. O Recorrente alega contrariados os arts. 1º, inc. III, 5º, caput, incs. II, XXII, LIV, da Constituição da República.
+    Assevera “que manter congelada a quantia de R$ 13.500,00 (treze mil e quinhentos reais), desde a data da edição da Medida Provisória 340/06 até a data do sinistro, maltrata o princípio constitucional da isonomia” (Volume n. 2, fl. 192, e-STF).
+    Afirma não atingir “a função social do seguro obrigatório DPVAT (…) fixar como termo inicial da correção monetária a data do evento danoso, e não a da edição da Medida Provisória n. 340/06, [além de] viol[ar] o direito fundamental de propriedade do segurado (…) e da proporcionalidade” (Volume n. 2, fls. 194-197).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. A apreciação do pleito recursal demandaria reexame da legislação infraconstitucional aplicável à espécie (Lei n. 6.194/1974, com alteração da Medida Provisória n. 340/2006, convertida na Lei n. 11.482/2007). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. DPVAT. Indenização. Regulamento do CNSP. Lei 6.194/1974. 3. Violação ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. Necessidade do reexame do conjunto fático-probatório. Óbice previsto no Enunciado 279 da Súmula desta Corte. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE n. 665.014-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 25.2.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. 1 SEGURO DPVAT. INDENIZAÇÃO. VALORES CONSTANTES DE TABELA. GRADUAÇÃO DA INVALIDEZ. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRUBUNAL FEDERAL. 2. ALEGADA CONTRARIEDADE AO ART. 5º, INC. XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 741.516-AgR, de minha relatoria, Segunda Turma, DJe 20.6.2013).
+    “Agravo regimental no recurso extraordinário com agravo. DPVAT Indenização. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A verificação da alegada afronta ao art. 5º, inciso XXXVI, da Constituição Federal, demandaria a análise da legislação infraconstitucional e o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (ARE n. 635.492-AgR, de minha relatoria, Primeira Turma, DJe 26.8.2013).
+    “Agravo regimental no recurso extraordinário com agravo. Juros de mora. Termo inicial. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. O recurso extraordinário não se presta para a análise de legislação infraconstitucional. Incidência da Súmula nº 636/STF. 3. Agravo regimental não provido” (ARE n. 778.968-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 19.2.2014).
+    Nada há a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento a este recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
