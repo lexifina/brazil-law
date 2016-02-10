@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL. APELAÇÃO. INOVAÇÃO RECURSAL. NULIDADE DE PROCEDIMENTOS ADMINISTRATIVOS. NÃO CONFIGURAÇÃO. LANÇAMENTO POR HOMOLOGAÇÃO. PRESCRIÇÃO. ART. 174 DO CTN. PARCELAMENTO. CAUSA DE INTERRUPÇÃO DO LAPSO PRESCRICIONAL. COMPENSAÇÃO POR DCTF REJEITADA. INSCRIÇÃO EM DÍVIDA ATIVA. NOTIFICAÇÃO DO CONTRIBUINTE. NECESSIDADE.
+    1. Não cabe conhecer do apelo que inova as questões da lide, conforme o art. 264, parágrafo único, do CPC.
+    2. Tratando-se de débito confessado pelo contribuinte, dispensa-se a figura do lançamento, tornando-se exigíveis, a partir da formalização da confissão, os respectivos créditos, podendo ser os mesmos, inclusive, inscritos em dívida ativa independentemente de procedimento administrativo, desde que a cobrança se dê pelo valor declarado.
+    3. Sendo assim, não há mais falar em decadência (art. 173, I, do CTN), mas apenas em prescrição, e o prazo prescricional de cinco anos para a ação de cobrança do crédito tributário (art. 174, do CTN) inicia-se a contar da data de entrega da declaração, na qual o contribuinte aponta a matéria tributável e o montante do tributo devido, ou do vencimento, quando posterior.
+    4. O pedido de parcelamento acompanhado do pagamento de parcelas, ainda que o pedido seja posteriormente indeferido, é causa de interrupção do prazo prescricional.
+    5. Não se pode equiparar a hipótese em que o contribuinte noticia, mediante a documentação apropriada - DCTF ou GFIP -, o montante do tributo devido, sem efetuar, no entanto, o pagamento respectivo, com aquela na qual o sujeito passivo, a par de informá-lo, procede à sua compensação com créditos que guarda frente ao Fisco. No primeiro caso, dispensável a notificação do contribuinte, sendo legítima a imediata inscrição em Dívida Ativa. Na segunda hipótese, a ausência de notificação do contribuinte da não homologação da compensação levada a efeito na declaração de rendimentos caracteriza ofensa ao princípio do contraditório e da ampla defesa, eivando de nulidade a Certidão de Dívida Ativa”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, “a”, LIV, LV, 146. III, “b”, da Carta. O recorrente sustenta a possibilidade de discutir a exigência fiscal em sede de processo administrativo regular. Defende a necessidade de lei complementar para regulamentação da prescrição tributária e que, no caso, deveria ter sido proclamada a prescrição. Aduz a impossibilidade de exigência do PIS e da COFINS segundo a base de cálculo da Lei nº 9.718/98 e, em consequência, requer a extinção da execução fiscal.
+    A pretensão recursal não merece prosperar. A decisão agravada está correta e alinhada aos precedentes firmados por esta Corte.
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
