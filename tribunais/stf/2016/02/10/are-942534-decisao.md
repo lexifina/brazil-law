@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 5º, I, 37, I, e 93, IX, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Nada colhe o agravo, ausente impugnação específica, no recurso extraordinário, a um dos fundamentos adotados pela Corte de origem, relativo à “(...) Impossibilidade de intervenção do Poder Judiciário, sob pena de violação ao princípio da separação dos poderes.”
+    Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas 283 e 284/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.” e “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.” Nesse sentido:
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. AÇÃO POPULAR. CABIMENTO. DESNECESSIDADE DE DEMONSTRAÇÃO DE PREJUÍZO MATERIAL AOS COFRES PÚBLICOS. ENTENDIMENTO REAFIRMADO NO JULGAMENTO DO ARE 824.781-RG (REL. MIN. DIAS TOFFOLI, TEMA 836). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 722483 AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 23.9.2015)
+    “Agravo regimental no recurso extraordinário. Súmula nº 283 do STF. Aplicação. Ausência de impugnação específica a todos os fundamentos do acórdão objurgado. Artigo 33 do ADCT. Não incidência de juros. Controvérsia referente aos limites objetivos da coisa julgada. Ofensa reflexa à Constituição Federal. Precedentes. 1. Incidência da Súmula nº 283 do Supremo Tribunal Federal, que dispõe, in verbis: “[é] inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". 2. É pacífica a orientação da Corte de que não se presta o recurso extraordinário para a verificação dos limites objetivos da coisa julgada, haja vista tratar-se de discussão de índole infraconstitucional. 3. Agravo regimental não provido.” (RE 598164 AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 02.02.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REVISÃO DE ATO ADMINISTRATIVO. DECADÊNCIA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 656.256-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 05.3.2012)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2016.
+Ministra Rosa Weber
+Relatora
