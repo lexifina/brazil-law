@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM. BAIXA IMEDIATA.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “Agravo interno contra decisão que negou seguimento à apelação. Recurso decidido monocraticamente em razão de sua manifesta improcedência. Incidência do artigo 557, caput, do CPC. Razões do agravante que não convencem da necessidade da apresentação do caso originário ao Colegiado. Manutenção da decisão monocrática agravada. Recurso desprovido.” (fl. 127).
+    2. No recurso extraordinário, a Agravante alega ter o Tribunal de origem contrariado o art. 37, inc. X e § 6º, da Constituição da República, asseverando que “os esporádicos reajustes municipais revelaram-se apenas alegóricos, uma fantasia, um faz-de-conta incapaz de servir ao fim que se destinaria: uma efetiva revisão, e não mero reajuste” (fl. 133).
+    Argumenta que,
+    “embora não se possa obrigar o Ilustre Senhor Prefeito a cumprir uma obrigação constitucional tal como a de encaminhar projeto de lei, a Constituição certamente lhe trará o peso da indenização civil por não arcar com suas responsabilidades. Como já dito anteriormente, tal omissão não só pode, como deve, ensejar a ação de regresso contra os agentes políticos omissos” (fl. 135).
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, quanto à incidência da Súmula n. 279 do Supremo Tribunal Federal, pois a matéria debatida no recurso não demanda reexame de fatos e provas.
+    A superação do óbice exposto não é suficiente, contudo, para se acolher o pleito da Agravante.
+    6. No julgamento eletrônico do Recurso Extraordinário n. 565.089-RG, Relator o Ministro Marco Aurélio, este Supremo Tribunal reconheceu a repercussão geral da questão constitucional suscitada na espécie:
+    “VENCIMENTOS - REPOSIÇÃO DO PODER AQUISITIVO - ATO OMISSIVO - INDENIZAÇÃO - INCISO X DO ARTIGO 37 DA CONSTITUIÇÃO FEDERAL - RECURSO EXTRAORDINÁRIO - REPERCUSSÃO DO TEMA. Ante a vala comum da inobservância da cláusula constitucional da reposição do poder aquisitivo dos vencimentos, surge com repercussão maior definir o direito dos servidores a indenização” (DJe 1º.2.2008).
+    No mesmo sentido:
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E CONSTITUCIONAL. REVISÃO GERAL ANUAL. MORA LEGISLATIVA. INDENIZAÇÃO. 1. Repercussão geral do tema reconhecida no Recurso Extraordinário n. 565.089. 2. Embargos de declaração acolhidos para, atribuindo-lhes efeitos infringentes, anular o acórdão embargado e determinar a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do Código de Processo Civil” (RE n. 450.655-AgR-ED-ED, de minha relatoria, Segunda Turma, DJe 6.5.2014).
+    Reconhecida a repercussão geral do tema, os autos deverão retornar à origem, para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 543-B do Código de Processo Civil.
+    7. Pela irrecorribilidade da decisão de devolução de recurso à instância de origem, seguindo a sistemática da repercussão geral (MS n. 31.445-AgR/RJ, de minha relatoria, Plenário, DJ 25.2.2013; MS n. 32.060-ED/SP, Relator o Ministro Dias Toffoli, Plenário, DJ 6.11.2013; MS n. 28.982- AgR/PE, Relator o Ministro Gilmar Mendes, Plenário, DJ 15.10.2010; RE n. 629.675-AgR/SP, Relator o Ministro Luiz Fux, Primeira Turma, DJ 21.3.2013; RE n. 595.251-AgR/RS, Relator o Ministro Dias Toffoli, Primeira Turma, DJ 9.3.2012; AI n. 503.064-AgR-AgR/MG, Relator o Ministro Celso de Mello, Segunda Turma, DJ 26.3.2010; AI n. 811.626-AgR-AgR/SP, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJ 3.3.2011; RE n. 513.473-ED/SP, Relator o Ministro Cezar Peluso, Segunda Turma, DJe de 18.12.2009; e AI n. 790.033-AgR/DF, Relator o Ministro Cezar Peluso, Plenário, DJ 2.5.2012), determino a baixa imediata dos autos.
+    8. Pelo exposto, dou provimento ao agravo para admitir o recurso extraordinário, observando-se quanto a este o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    À Secretaria Judiciária para as providências cabíveis.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
