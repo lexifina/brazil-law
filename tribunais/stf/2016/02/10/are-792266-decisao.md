@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PROCESSO CIVIL. PREVIDENCIÁRIO. CONVERSÃO DE BENEFÍCIO ACIDENTÁRIO EM PREVIDENCIÁRIO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. DELEGAÇÃO. INOCORRÊNCIA. SÚMULA 15 DO STJ. MANTIDA A SENTENÇA FEDERAL QUE EXTINGUIU O FEITO SEM RESOLVER O MÉRITO, DECLINANDO DA COMPETÊNCIA.
+    1. O inciso I do artigo 109 da Constituição Federal estabelece a competência da Justiça Federal para processar e julgar 'as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho'.
+    2. Por força da exceção constitucional, e nos termos da Súmula 15 do STJ, a competência para processar e julgar os litígios decorrentes de acidente do trabalho é da Justiça Estadual.
+    3. Na esteira do entendimento firmado pelo STF e STJ, a competência da Justiça Estadual, prevista no § 3º do art. 109 da CF/88, é mantida até mesmo nos casos de reajuste ou revisão de benefício acidentário. O fato de se tratar de ação que persegue o reajuste de benefício oriundo de acidente do trabalho não tem o condão de elidir a competência constitucional da Justiça Estadual.
+    4. Como a matéria colocada para julgamento não está inserida na competência delegada do § 3º do art. 109 da CF/88, já que expressamente excepcionada pelo inciso I -, não incide a regra de competência recursal prevista no § 4º do mesmo dispositivo constitucional.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 109, I, da Constituição. Defende a competência da Justiça Federal para processar e julgar o presente processo, uma vez que “a ação proposta não trata exclusivamente de acidente de trabalho, inclusive, o objeto da ação é a anulação do ato administrativo de concessão de benefício acidentário, logo, de incompetência da Justiça comum, uma vez que se enquadra na competência da Justiça Federal”.
+    O Subprocurador-Geral da República Paulo Gustavo Gonet Branco opina pelo desprovimento do agravo.
+    O recurso extraordinário é inadmissível. O Plenário do Supremo Tribunal Federal, ao apreciar o RE 638.483-RG, Rel. Min. Cezar Peluso, com repercussão geral reconhecida, reafirmou a jurisprudência da Corte que estabelece a competência da Justiça Comum Estadual para processar e julgar causas relativas ao restabelecimento de benefícios previdenciários decorrentes de acidentes de trabalho. Veja-se, nesse sentido, a ementado julgado:
+    “Extraordinário. Competência para processar e julgar. Benefícios previdenciários. Acidentes de trabalho. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso provido. Compete à Justiça Comum Estadual processar e julgar as causas relativas ao restabelecimento de benefícios previdenciários decorrentes de acidentes de trabalho.”
+    Outros precedentes, no mesmo sentido: ARE 792.279-AgR, Rel. Min. Celso de Mello; e ARE 793.520, de minha relatoria.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
