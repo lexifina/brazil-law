@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DIREITO ADQUIRIDO À CONTRIBUIÇÃO COM BASE NO EQUIVALENTE A 20 SALÁRIOS MÍNIMOS. LEI 6.950/81. POSSIBILIDADE. ART. 144 DA LEI 8.213/91.
+    1. Se no momento da alteração legislativa (Lei 7.787/89), o requerente já possuía todos os requisitos para o gozo de benefício de aposentadoria, ou seja, mais de trinta anos, se homem, e vinte e cinco, se mulher, de filiação/contribuição e carência, tem direito adquirido ao benefício calculado de acordo com a base contributiva anterior, sendo-lhe inaplicável o novo ordenamento.
+    2. O reconhecimento do direito ao benefício com base nas regras anteriores à Lei nº 7.787/89 não pode implicar adoção de regime híbrido, mesclando-se as disposições da legislação anterior e da legislação posterior (Lei 8.213/91) no relativo aos critérios de atualização de salário-de-contribuição, limites de salário-de-contribuição e de salário-debenefício e coeficientes de cálculo. A ressalva, entretanto, não se aplica à revisão determinada pelo art. 144 da Lei de Benefícios, uma vez que a própria norma estabelece a sua aplicação retroativa ao período denominado 'buraco negro'.
+    3. O direito adquirido ao cálculo da renda mensal inicial deve considerar, para apuração do salário-de-benefício, somente as contribuições vertidas até a competência de maio de 1989, quando era possível contribuir com base no teto de vinte salário mínimos de referência, observando-se, contudo, no cálculo do salário-de-benefício, o menor e o maior valor-teto vigentes na ocasião, nos termos dos artigos 23 e 33 da CLPS.
+    4. Revisada a RMI pelas normas anteriores, mister a aplicação da regra disposta no art. 144 da Lei 8.213/91” (fl. 170, e-STF).
+    Os embargos de declaração opostos foram acolhidos para fins de prequestionamento.
+    2. O Recorrente alega contrariados os arts. 5º, inc. XXXVI, 201, caput, § 1º, da Constituição da República.
+    Assevera a ocorrência da “decadência do direito de revisar o ato de concessão do benefício de pensão por morte da parte autora, revendo-se para tanto a renda do benefício originário (aposentadoria), [pois] passado[s] mais de 10 (dez) anos entre o primeiro pagamento deste e o ajuizamento da ação” (fl. 206).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. Nos embargos de declaração, a Juíza Federal Relatora no Tribunal de origem assentou:
+    “A autora, titular de benefício de pensão por morte com DIB em 25/11/2009, ajuizou a presente ação objetivando a revisão da renda mensal inicial do benefício originário (DIB 25/11/1988), considerando a retroação do período básico de cálculo para data anterior em que já implementados os requisitos para a aposentadoria (direito adquirido ao melhor benefício).
+    (…)
+    Observo, também, que o curso do prazo decadencial teve início somente após a concessão da pensão por morte, em razão do princípio da actio nata, uma vez que parte autora estava impedida de postular a revisão do benefício anteriormente ao óbito do instituidor, ante a sua ilegitimidade.
+    Na espécie, ocorreu a DIP da pensão por morte em 25/11/2009 (evento 1), sendo que quando do ajuizamento desta ação em 03/08/2010 não havia se consumado a decadência ao direito de revisão do ato administrativo.
+    Assim, com esses esclarecimentos, resta mantido o acórdão que afastou a decadência, ainda que por diversos fundamentos” (fls. 185-187).
+    5. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Lei n. 8.213/1991 e Medida Provisória n. 1.523-9/1997, convertida na Lei n. 9.528/1997). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. BENEFÍCIO CONCEDIDO APÓS A MEDIDA PROVISÓRIA N. 1.523/1997. DECADÊNCIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 727.936-AgR, de minha relatoria, Segunda Turma, DJe 10.4.2013).
+    “DIREITO PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL. ATO JURÍDICO PERFEITO, COISA JULGADA E DIREITO ADQUIRIDO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 09.9.2014.
+    1. O exame da alegada ofensa ao art. 5º, XXXVI, da Lei Maior, nos moldes com que solvida a controvérsia pelas instâncias de origem, bem como observados os limites com que devolvida a matéria à apreciação deste Supremo Tribunal Federal demandaria vedada incursão na legislação infraconstitucional aplicada ao caso (art. 102 da Constituição da República).
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    3. Agravo regimental conhecido e não provido” (ARE n. 879.239-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 8.9.2015).
+    “DIREITO PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRAZO DECADENCIAL. ART. 103 DA LEI Nº 8.213/1991. BENEFÍCIO CONCEDIDO POSTERIORMENTE AO ADENTO DA MEDIDA PROVISÓRIA Nº 1.523-9/1997. MATÉRIA INFRACONSTITUCIONAL. 1. O Supremo Tribunal Federal já assentou o entendimento de que tem natureza infraconstitucional a controvérsia sobre a decadência do pedido de revisão relativo aos benefícios concedidos após a edição da MP nº 1.523-9, de 27.06.1997. 2. Agravo regimental a que se nega provimento” (ARE n. 827.948-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 22.05.2015).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Previdenciário. 3. Revisão de benefício previdenciário concedido após a edição da MP 1.523, de 27.6.1997. Decadência. Matéria infraconstitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE n. 782.559-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 5.8.2014).
+    Nada há a prover quanto às alegações do Recorrente.
+    6. Pelo exposto, nego seguimento ao recurso (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
