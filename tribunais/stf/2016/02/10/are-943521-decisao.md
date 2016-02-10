@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “AÇÃO DE REINTEGRAÇÃO DE POSSE – MOVIMENTO SOCIAL – PROPRIEDADE RURAL PRODUTIVA – ESBULHO COMPROVADO – PEDIDO PROCEDENTE. Comprovada a posse dos autores sobre o imóvel rural objeto da ação, e que foi esta esbulhada pelos requeridos, integrantes do movimento de sem terras, deve ser mantida a decisão que julgou procedente o pedido de reintegração de posse, até mesmo por que, mesmo que se tratasse de terras improdutivas ou que estivessem sendo usadas inadequadamente e ao arrepio da legislação ambiental, não estaria autorizada a invasão por terceiros”. (eDOC 2, p. 438)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 1º, III, 3º; III; 5º, XXII e XXIII; 6º; 93, IX; 170, III; e 186 do texto constitucional.
+    Aponta-se que o Poder Judiciário agiu contra o objetivo fundamental da República, “ao reconhecer o direito de posse em favor de grandes proprietários rurais que em nítido abuso de direito buscam a mera especulação imobiliária, sem dar a terra a nobre missão de produzir e distribuir riquezas e alimento”. (eDOC 2, p. 502)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, com relação à alegada ofensa aos artigos 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Verifico que divergir do entendimento adotado pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, providência vedada na via extraordinária, em face do óbice previsto na Súmula 279 do STF.
+    Ademais, ao negar provimento ao recurso, o Tribunal a quo observou o Código de Processo Civil e a Lei 8.629/1993. Assim, a matéria debatida na origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Quanto ao tema, confira-se o seguinte julgado:
+    “Agravo regimental no recurso extraordinário com agravo. Direito civil. Reintegração de posse. Princípio do contraditório. Ofensa reflexa. Reexame. Fatos e provas. Legislação infraconstitucional. Análise. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 3. Agravo regimental não provido”. (ARE 849.896-AgR/RJ, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.3.2015)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
