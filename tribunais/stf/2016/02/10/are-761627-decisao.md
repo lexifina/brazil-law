@@ -1,0 +1,23 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 2ª Turma Recursal dos Juizados Especiais Federais de Pernambuco, assim ementado:
+    “JUIZADOS ESPECIAIS FEDERAIS. QUESTIONAMENTO DE DECISÃO JUDICIAL. FASE DE CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE DECISÃO TERATOLÓGICA. LEI 10.259/01. IMPOSSIBILIDADE DE IMPUGNAÇÃO. PROCEDIMENTO SUMARIÍSSIMO (ART. 98, I DA CF). RAZOÁVEL DURAÇÃO DO PROCESSO (ART. 5º, LXXVIII DA CF). COMPATIBILIZAÇÃO. EXTINÇÃO DO MANDAMUS SEM RESOLUÇAO DE MÉRITO”.
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação ao art. 5º, II, XXXVI, LIV, LV, LXIX, da Constituição Federal. Afirma não haver previsão legal de espécie recursal cabível contra decisões proferidas no incidente de liquidação no rito dos juizados especiais, razão pela qual seria possível impetrar o mandado de segurança. Ressalta não haver momento processualmente oportuno para manifestar sua inconformidade.
+    A pretensão recursal não merece prosperar, tendo em vista que o Supremo Tribunal Federal, no julgamento do RE 576.847, Relator o Ministro Eros Grau, Plenário, reconheceu a repercussão geral de questão semelhante, decidindo pelo não cabimento de mandado de segurança em face das decisões interlocutórias proferidas em processos em trâmite nos Juizados Especiais.
+    Em que pese o leading case tenha como paradigma a Lei nº 9.099/95, a rigor a conclusão mostra-se plenamente aplicável à Lei nº 10.259/01. O acórdão foi ementado nos seguintes termos:
+    “RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. REPERCUSSÃO GERAL RECONHECIDA. MANDADO DE SEGURANÇA. CABIMENTO. DECISÃO LIMINAR NOS JUIZADOS ESPECIAIS. LEI N. 9.099/95. art. 5º, LV da constituição do Brasil. PRINCÍPIO CONSTITUCIONAL DA AMPLA DEFESA. AUSÊNCIA DE VIOLAÇÃO.
+    1. Não cabe mandado de segurança das decisões interlocutórias exaradas em processos submetidos ao rito da Lei n. 9.099/95.
+    2. A Lei n. 9.099/95 está voltada à promoção de celeridade no processamento e julgamento de causas cíveis de complexidade menor. Daí ter consagrado a regra da irrecorribilidade das decisões interlocutórias, inarredável.
+    3. Não cabe, nos casos por ela abrangidos, aplicação subsidiária do Código de Processo Civil, sob a forma do agravo de instrumento, ou o uso do instituto do mandado de segurança.
+    4. Não há afronta ao princípio constitucional da ampla defesa (art. 5º, LV da CB), vez que decisões interlocutórias podem ser impugnadas quando da interposição de recurso inominado. Recurso extraordinário a que se nega provimento”. (RE 576.847, Relator(a): Min. Eros Grau)
+    O posicionamento firmado apontou ser incabível o writ em face da possibilidade da parte dispor de outro momento processualmente adequado para manifestar sua oposição.
+    Ademais, cumpre registrar que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia referente à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Por fim, não se viabiliza o processamento do presente recurso pela alínea b do art. 102, III, da Constituição Federal, uma vez que a recorrente nada argumenta nas razões do recurso sobre a questão e que o Tribunal de origem não declarou a inconstitucionalidade de tratado ou lei federal. Nessa linha, veja-se a ementa do AI 687.167-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    "PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DISPOSITIVO AUTORIZADOR DO RECURSO EXTRAORDINÁRIO. INDICAÇÃO. AUSÊNCIA. CONSTITUCIONAL. RECURSO INTERPOSTO COM BASE NO ART. 102, III, B. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+    I - A indicação correta do dispositivo constitucional autorizador do recurso extraordinário - artigo, inciso e alínea - é requisito indispensável ao seu conhecimento, a teor do art. 321 do RISTF e da pacífica jurisprudência do Tribunal.
+    II - O Tribunal a quo não declarou inconstitucional lei federal ou tratado, incabível a interposição de recurso extraordinário com base na alínea b do art. 102, III, da Constituição.
+    III - Agravo regimental improvido."
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
