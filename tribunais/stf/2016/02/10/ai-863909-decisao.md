@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do TRF da 1ª Região, assim ementado:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. DECADÊNCIA AFASTADA EM RECURSO ESPECIAL. APLICAÇÃO DO § 3º DO ART. 515 DO CPC. CORREÇÃO MONETÁRIA DO BALANÇO ANO-BASE 1989. INCIDÊNCIA DA VARIAÇÃO DO IPC.
+    1. O § 3º do art. 515 do Código de Processo Civil disciplina que, nas causas extintas sem a resolução efetiva do mérito, o tribunal pode julgar desde logo a lide, se a causa versar sobre questão exclusivamente de direito e estiver em condições de imediato julgamento. 2. A questão referente ao índice de correção monetária a ser aplicado sobre o balanço do ano-base de 1989 está pacificada neste Tribunal, no sentido de que deve ser adotado o índice de 42,72% correspondente à variação do IPC de janeiro daquele ano. 3. Precedentes: EIAC 1997.01.00.043353-0/DF e AMS 199801000641710/AM. Aplicação do § 3º do art. 515 do Código de Processo Civil para examinar o mérito da causa e dar parcial provimento à apelação”. (fl. 414)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação aos artigos 5°, caput; 150, II; 153, III; e 195, I, a, do texto constitucional.
+    Nas razões recursais, alega-se que o índice correto da inflação do período é de 70,28%, o IPC integral, e não de 42,72%, que seria o IPC expurgado. (fl. 459)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o acórdão recorrido decidiu a controvérsia com fundamento na legislação infraconstitucional e nos instrumentos técnicos que estimaram a inflação no período, donde se conclui que eventual ofensa à Constituição Federal, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “Agravo regimental no recurso extraordinário. Índice de correção decorrente da declaração de inconstitucionalidade do art. 30 da Lei nº 7.799/89. Acórdão recorrido não divergente da orientação do STF. 1. Não cabe ao Supremo Tribunal Federal, em face da declaração de inconstitucionalidade do art. 30, § 1º, da Lei nº 7.730/89 e do art. 30 da Lei nº 7.799/89, definir o percentual de correção monetária a ser aplicado. Nesse sentido: RE nº 208.526/RS, Tribunal Pleno, Relator o Ministro Marco Aurélio. 2. O Tribunal de origem entendeu como razoável o índice do IPC no percentual de 42,72% para o mês de janeiro/89 e no de 10,14% para fevereiro/89. Incabível a pretensão de que o Supremo Tribunal Federal determine ao Juízo da execução a reabertura da discussão. 3. Agravo regimental não provido”. (RE 344049 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 20.6.2014)
+    “PROCESSO CIVIL. ÍNDICES DE CORREÇÃO MONETÁRIA. LIQUIDAÇÃO DE SENTENÇA. MATÉRIA INFRACONSTITUCIONAL. 1. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa ou indireta. 2. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos. 3. Agravo regimental improvido”. (RE 494.555/CE, Rel. Min. Ellen Gracie, Segunda Turma, DJe 5.6.2009)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
