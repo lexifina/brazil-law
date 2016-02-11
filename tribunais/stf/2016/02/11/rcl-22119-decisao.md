@@ -1,0 +1,27 @@
+RECLAMAÇÃO. PROCESSO PENAL. DECRETO-LEI Nº 3.240/41 E REVOGAÇÃO PELO CPP. ALEGADA USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL POR ACÓRDÃO PROLATADO PELO SUPRIOR TRIBUNAL DE JUSTIÇA. INEXISTÊNCIA. QUESTÃO APRECIADA SOB O ENFOQUE DA LEGISLAÇÃO FEDERAL. TENTATIVA DE REDISCUSSÃO DA MATÉRIA. INVIABILIDADE DO MANEJO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. PRECEDENTES. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de reclamação ajuizada por Maurício Cardoso de Paula em face de acórdão do Superior Tribunal de Justiça assim ementado:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. CAUTELAR DE SEQUESTRO DE BENS. DECRETO-LEI Nº 3.240/41. NÃO REVOGAÇÃO PELO CPP. SISTEMÁTICA PRÓPRIA. CRIME DE QUE RESULTA PREJUÍZO PARA A FAZENDA PÚBLICA. CABIMENTO. OMISSÃO INEXISTENTE. INOVAÇÃO RECURSAL. RECURSO REJEITADO.
+    1. O cabimento dos embargos de declaração em matéria criminal está disciplinado no artigo 619 do Código de Processo Penal, sendo que a inexistência dos vícios ali consagrados importam no desacolhimento da pretensão aclaratória.
+    2. Não há falar em omissão no julgado com relação a tese não arguida no momento oportuno.
+    3. Embargos de declaração rejeitados.”
+    Para que melhor se entenda a controvérsia de fundo, transcrevo também a ementa do acórdão que julgou o agravo regimental impugnado pelos embargos de declaração, verbis:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. CAUTELAR DE SEQUESTRO DE BENS. DECRETO-LEI Nº 3.240/41. NÃO REVOGAÇÃO PELO CPP. SISTEMÁTICA PRÓPRIA. CRIME DE QUE RESULTA PREJUÍZO PARA A FAZENDA PÚBLICA. CABIMENTO. RECURSO A QUE SE NEGA PROVIMENTO.
+    1. De acordo com reiterados precedentes deste Superior Tribunal de Justiça, o Decreto-lei nº 3.240/41 não foi revogado pelo pelo Código de Processo Penal, tendo sistemática própria o sequestro de bens de pessoas indiciadas ou denunciadas por crime de que resulta prejuízo para a Fazenda Pública, sendo certo, outrossim, que o art. 4º do mencionado diploma dispõe que o sequestro pode recair sobre todo o patrimônio dos acusados e compreender os bens em poder de terceiros, contanto que estes os tenham adquirido com dolo ou culpa grave.
+    2. Agravo regimental a que se nega provimento.”
+    O autor sustenta, em síntese, haver usurpação da competência do STF para realizar o juízo de não recepção do Decreto-Lei nº 3.240/41, pelo que requer a cassação do acórdão prolatado pelo STJ.
+    Colhidas as informações, o órgão reclamado apresentou esclarecimentos.
+    Em parecer, o Ministério Público Federal opinou pela improcedência do pedido.
+    É o relatório. Decido.
+    Conforme destaquei em decisão anterior, ao julgar o recurso do Ministério Público Federal, o STJ reafirmou sua jurisprudência no sentido de que o regramento do Decreto-Lei n. 3240/41 não foi revogado pelo Código de Processo Penal, por tratar-se de lei especial.
+    Conforme consta no decisum reclamado, bem como nas informações prestadas pelo Superior Tribunal de Justiça, que a manutenção do indeferimento de pedido de sequestro de bens sob o fundamento de que o referido Decreto-Lei não mais teria vigência é contrário à jurisprudência daquele Tribunal, razão pela qual se concluiu que “o sequestro pode recair sobre todo o patrimônio dos acusados e compreender os bens em poder de terceiros, desde que estes os tenham adquirido com dolo ou culpa grave”.
+    Destarte, nota-se que a matéria foi enfrentada por aquela Corte Superior sob o fundamento da legislação infraconstitucional federal, não se verificando qualquer usurpação à competência do Supremo Tribunal Federal disposta taxativamente no art. 102 da CRFB/88.
+    Por fim, a insurgência do reclamante revela verdadeiro intuito de rediscussão do feito, manejando a reclamação constitucional como sucedâneo recursal, providência não admitida pela jurisprudência desta Corte. A propósito, colaciono os seguintes precedentes, verbis:
+    “Ausentes os pressupostos legitimadores da reclamação, este remédio constitucional não pode ser utilizado como um atalho processual destinado à submissão imediata do litígio ao exame direto desta Suprema Corte, nem tampouco como sucedâneo recursal viabilizador do reexame do conteúdo do ato reclamado.” (Rcl 10.036-AgR, Relator o Ministro Joaquim Barbosa, Plenário, DJe 1º.2.2012).
+    “O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. - A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, l, da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedentes.” (Rcl 4.381-AgR, Relator o Ministro Celso de Mello, Plenário, DJe 5.8.2011).
+    Nesse mesmo sentido é o parecer do Ministério Público Federal, que opinou pela “improcedência da reclamação”.
+    Ex positis, nego seguimento à reclamação, nos termos do art. 21 ,§ 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se. Int..
+    Brasília, 11 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
