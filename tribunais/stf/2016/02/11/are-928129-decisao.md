@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REMUNERAÇÃO DE JUÍZES. DEFICIÊNCIA DO RECURSO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “Direito Constitucional. Direito Administrativo. Demanda de cobrança. Correção monetária decorrente de abono variável instituído em favor de Magistrado do Poder Judiciário Estadual. Preliminar de incompetência absoluta do juízo que se refuta. Direito postulado pessoal, sem repercussão sobre a categoria dos magistrados. Ausência de ferimento à Constituição da República, ao se tomar como parâmetro de teto de subsídio os Ministros do Supremo Tribunal Federal. Correção monetária aplicável ao caso prevista pelo Índice Nacional de Preços ao Consumidor, que mais bem reflete a reposição do poder aquisitivo da moeda e em harmonia com entendimento deste Órgão Colegiado, incidente sobre verbas devidas a todos os servidores públicos, até o advento da Lei n.º 11.960/2009, que conferiu nova redação ao art. 1º-F da Lei n.º 9.494/1997, quando, a partir de então, incidirão os índices da caderneta de poupança para correção monetária e atualização da mora. Recurso a que se nega provimento e sentença que se ajusta em Reexame Necessário, apenas para determinar o afastamento do Índice Nacional de Preços ao Consumidor a partir de 30.06.2009, momento da entrada em vigor da Lei n. 11.960/2009”.
+    2. No recurso extraordinário, aponta-se afronta ao art. 102, inc. I, al. n, da Constituição, pois “compete privativamente ao Supremo Tribunal Federal processar e julgar a presente demanda. (...) evidente o interesse efetivo e direito de todos os magistrados do Tribunal de Justiça do Estado do Rio de Janeiro, inclusive daqueles incumbidos da análise da questão posta, que, aliás, já se reflete nos inúmeros feitos já ajuizados e distribuídos às Varas da Fazenda Pública” (fl. 136).
+    3. O recurso foi inadmitido com base na Súmula n. 286 do Supremo Tribunal Federal.
+    4. Contra essa decisão, o Agravante suscita afronta ao art. 37, incs. X, XI e XIII, da Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    7. O Agravante não infirmou os fundamentos da decisão agravada, não se manifestando sobre a incidência, na espécie, da Súmula n. 286 deste Supremo Federal, que dispõe: “não se conhece do recurso extraordinário fundado em divergência jurisprudencial, quando a orientação do plenário do Supremo Tribunal Federal já se firmou no mesmo sentido da decisão recorrida”.
+    O Agravante limitou-se a suscitar afronta ao art. 37, inc. X, XI e XIII, da Constituição, inovando na tese recursal.
+    A jurisprudência deste Supremo Tribunal é firme no sentido de dever ser negado seguimento ao agravo no qual não se impugnam todos os fundamentos da decisão agravada:
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A Agravante tem o dever de impugnar, de forma específica, todos os fundamentos da decisão agravada, sob pena de não provimento do agravo regimental” (AI n. 681.329-AgR, de minha relatoria, Primeira Turma, DJe 2.10.2009).
+    8. A decisão agravada harmoniza-se com os precedentes do Supremo Tribunal Federal, segundo os quais,
+    “A competência constitucional originária do Supremo Tribunal Federal para a ação prevista no art. 102, I, n, da Constituição Federal, demanda a existência de situação em que todos os membros da magistratura sejam direta ou indiretamente interessados e que o direito postulado seja exclusivo da categoria. 2. Nesse sentido: “Não fixa competência originária do STF a propositura de ação com peculiaridades que dizem respeito a número restrito de magistrados alegadamente interessados na solução da causa.” (Rcl 16.061-AgR, rel. Min. Teori Zavascki, Segunda Turma, DJe de 6/3/2014)” (AO 1951 AgR, Relator Ministro Luiz Fux, Primeira Turma, Dje 10.12.2015).
+    Também nesse sentido, de minha relatoria, o Agravo Regimental no Recurso Extraordinário n. 898.687, Segunda Turma, Dje 7.12.2015.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e arts. 21, § 1º, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
