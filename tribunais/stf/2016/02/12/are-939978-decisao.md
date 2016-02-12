@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+    “REPRESENTAÇÃO COMERCIAL. QUITAÇÃO PLENA. AUSENTE VÍCIO DE VONTADE, A RESCISÃO DO CONTRATO DE REPRESENTAÇÃO COMERCIAL, COM QUITAÇÃO PLENA E GERAL, OBSTA A POSTULAÇÃO DE DIFERENÇAS QUE ENTENDA O REPRESENTANTE LHE SEJAM DEVIDAS. PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA. NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO. UNÂNIME” (fl. 536)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV e XXXVI, do texto constitucional.
+    Nas razões recursais, a recorrente alega que foi constrangida a firmar o recibo de quitação plena, como condição para o recebimento de parte dos valores que lhe eram devidos. (fl. 554)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    No caso, o Tribunal de origem, com base na interpretação de cláusulas contidas em instrumento particular de transação (fls. 176/8), consignou que a recorrente não teria mais direito a quaisquer verbas decorrentes do vínculo contratual. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Dessa forma, é irrelevante a discussão trazida à balha pela representante comercial – atinente a verbas rescisórias e diferenças de comissões ditas devidas. Dada a quitação plena e irrestrita ' versando o feito acerca de direitos patrimoniais disponíveis ', encerrou-se a relação comercial e todos os alegados direitos dela decorrentes”. (fl. 538)
+    Dessa forma, divergir desse entendimento demandaria a análise das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 454 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO DO CONSUMIDOR. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRATO DE FINANCIAMENTO DE VEÍCULO. QUITAÇÃO. BAIXA DE GRAVAME. CONTROVÉRSIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. NECESSIDADE DE REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 454/STF. 1. O Plenário do Supremo Tribunal Federal, por ausência de questão constitucional, rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes). 2. A solução da controvérsia pressupõe, necessariamente, a análise de legislação infraconstitucional, o reexame dos fatos, do material probatório contantes dos autos (Súmula 279/STF), e a interpretação de cláusulas contratuais (Súmula 454/STF), o que torna inviável o processamento do recurso extraordinário. 3. Agravo regimental a que se nega provimento”. (ARE 878945 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 29.6.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. CONTRATO DE MÚTUO: QUITAÇÃO. 1) INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. 2) AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. 3) NECESSIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS: SÚMULAS NS. 279 E 454 DESTE SUPREMO TRIBUNAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 727243 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 29.8.2013)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, b, do CPC).
+    Publique-se.
+    Brasília, 12 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
