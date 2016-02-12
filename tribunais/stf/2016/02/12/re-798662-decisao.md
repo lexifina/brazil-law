@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “MANDADO DE SEGURANÇA. READEQUAÇÃO DE APOSENTADORIA. PREJUDICIAL DE MÉRITO DE DECADÊNCIA REJEITADA. INADEQUAÇÃO DA VIA ELEITA AFASTADA. REAJUSTES DE ACORDO COM O ARTIGO 15 DA LEI Nº 15.150/2005. CONSTITUCIONALIDADE DE LEI REPELIDA. DIREITO LÍQUIDO E CERTO DO IMPETRANTE EVIDENTE.
+    1. Tratando-se de ação mandamental que tem por objeto ato omissivo continuado, não se opera a decadência da impetração no prazo de 120 dias, uma vez que o prejuízo decorrente da omissão se renova mensalmente.
+    2. Não há que se falar em utilização do writ como substitutivo de Ação de Cobrança, porque manejado com objetivo de desconstituir omissão administrativa e não o recebimento de valores pretéritos.
+    3. Comprovado nos autos que os proventos de aposentadoria do impetrante não foram reajustados em conformidade com a disposição prevista no art. 15 da Lei Estadual nº 15.150/2005, isto é, aplicando-se a mesma periodicidade e índices conferidos ao Regime Geral de Previdência Social, inconteste o malferimento do direito líquido e certo do autor, uma vez que tal disposição decorre diretamente de lei editada pelo próprio Estado.
+    4. Incomportável a alegação de inconstitucionalidade do art. 15 da Lei nº 15.150/2005, pois a Corte Especial, em sede de controle difuso, reconheceu em sentido contrário.
+    5. O direito anterior ao ajuizamento da ação mandamental deve ser objeto de ação própria, uma vez que o mandado de segurança não é meio próprio para postular cobrança de dívida pretérita, segundo os enunciados das Súmulas 269 e 271, do STF.
+    SEGURANÇA PARCIALMENTE CONCEDIDA.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 18 e 40 da Constituição.
+    O recurso não deve ser provido. O Plenário do Supremo Tribunal Federal, ao julgar a ADI 4.639, sob a relatoria do Ministro Teori Zavascki, declarou a inconstitucionalidade integral da Lei nº 15.150/2005, do Estado de Goiás. No entanto, houve modulação dos efeitos da declaração de inconstitucionalidade da lei goiana para ressalvar os direitos dos agentes que, até a data da publicação da ata do julgamento da ADI 4.639 já tivessem reunidos os requisitos necessários para obter os correspondentes benefícios de aposentadoria ou pensão.
+    Na hipótese, verifica-se que o benefício previdenciário já havia sido concedido ao ora recorrido antes data da publicação da ata do julgamento da ADI 4.639 (22.05.2015).
+    A jurisprudência desta Corte tem entendimento no sentido de que é aplicável aos aposentados e pensionistas que se enquadram na situação excepcionada pela modulação de efeitos do julgamento da ADI 4.639, inclusive, o reajuste da pensão previsto no art. 15 da Lei estadual 15.150/05. Nesse sentido, vejam-se precedentes das duas Turmas deste Tribunal:
+    “DIREITO PREVIDENCIÁRIO. SISTEMA DE APOSENTADORIA DOS DOBRISTAS E CARTORÁRIOS. REAJUSTE DOS PROVENTOS. LEI Nº 15.150/2005 DO ESTADO DE GOIÁS. NORMA DECLARADA INCONSTITUCIONAL PELO PLENÁRIO DO STF NO JULGAMENTO DA ADI 4.639. MODULAÇÃO DOS EFEITOS DA DECISÃO. ACÓRDÃO RECORRIDO PUBLICADO EM 27.8.2014.
+    1. O Plenário desta Corte, no julgamento da ADI 4.639/GO, declarou a inconstitucionalidade da Lei estadual nº 15.150/2005 e modulou os efeitos da decisão para ressalvar (...) os direitos dos agentes que, até a data da publicação da ata deste julgamento, já houvessem reunido os requisitos necessários para obter os correspondentes benefícios de aposentadoria ou pensão (...) .
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.” (RE 862.857-AgR, Rel.ª Min.ª Rosa Weber, Primeira Turma)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Lei 15.150/2005 do Estado de Goiás. Criação de regime previdenciário alternativo. Reajuste de proventos de aposentadoria conforme Regime Geral da Previdência Social. 3. ADI 4.639. Declaração de inconstitucionalidade da lei. Modulação de efeitos para ressalvar direitos dos agentes que já houvessem reunido requisitos necessários a obter os correspondentes benefícios de aposentadoria ou pensão. 4. Recorrido que se enquadra na ressalva da modulação de efeitos. Precedentes. 5. Agravo regimental a que se nega provimento.” (ARE 744.852-AgR, Rel. Min. Gilmar Mendes, Segunda Turma)
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 2º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 12 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
