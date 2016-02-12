@@ -1,0 +1,24 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, ajuizada pelo Conselho Regional de Engenharia e Agronomia - CREA-RJ, contra acórdão proferido pela 6ª Turma do Tribunal Superior do Trabalho, nos autos do AIRR n. 0000898-98.2012.5.01.0079, por suposta ofensa à Súmula Vinculante n. 10, bem como ao decidido pelo STF na ADI 1.717 e no RE-RG 705.140.
+    O reclamante salienta que a decisão reclamada nega eficácia à Lei n. 5.194/66; aos arts. 98 e 100 do Código Civil; ao § 1º do art. 39 da Lei n. 8.177/91; ao art. 1º - F da Lei nº 9.494/97; ao art. 5º da Lei n.º 11.960/09, e aos art.s 648; 649, I e 730 do CPC, sem decisão plenária que lhes declare inconstitucionalidade, em flagrante ofensa à Súmula Vinculante n. 10, desta Corte.
+    Aduz ainda que a mencionada decisão desrespeitou a autoridade da decisão do STF no julgamento da ADI n. 1.717/DF, na medida em que imputou ao reclamante natureza jurídica de direito privado.
+    Por fim, sustenta que ao conceder ao reclamado verbas resilitórias e a anotação na CTPS, a decisão vergastada dissentiu da decisão proferida pelo Supremo Tribunal Federal nos autos do processo-paradigma da repercussão geral, o RE-RG 705.140.
+    Requer, liminarmente, a imediata suspensão da tramitação do processo n. 0000898-98.2012.5.01.0079, em curso no Tribunal Superior do Trabalho, até a decisão final da presente reclamação. No mérito, pugna-se pela procedência desta reclamação.
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Passo a decidir.
+     A reclamação prevista no artigo 102, I, “l”, da Constituição Federal é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, de desobediência à súmula vinculante ou de descumprimento de decisão desta Corte com efeito vinculante.
+    No presente caso, não verifico a ocorrência de qualquer dessas hipóteses.
+    Na hipótese, o acórdão reclamado assentou que “os conselhos de fiscalização de exercício profissional não se sujeitam às normas constitucionais relativas à admissão de pessoal mediante aprovação prévia em concurso público, o que viabiliza o reconhecimento de vínculo de emprego na presente ação”. (eDOC 10, p. 10). Confira-se a ementa:
+    “AGRAVO DE INSTRUMENTO. VÍNCULO DE EMPREGO. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. ADI 1717/STF. CONCURSO PÚBLICO. NÃO PROVIMENTO. Diante da ausência de violação do dispositivo invocado e de contrariedade a súmula desta Corte, não há como admitir o recurso de revista. Agravo de instrumento não provido”.
+    Inicialmente, ressalto que o Plenário do Supremo Tribunal Federal, no julgamento da ADI 1717/DF não se manifestou acerca da natureza da relação jurídica estabelecida entre os conselhos de fiscalização profissional e seus prestadores de serviço.
+    Assim, a ausência de identidade material entre os acórdãos tomados como paradigmas e a decisão reclamada não autoriza o ajuizamento da presente reclamação.
+    Nesse sentido, cito a Rcl 11022, Rel. Min. Cármen Lúcia, DJe 1º.2.2011, e o Rcl-AgR 15806, Rel. Min. Teori Zavascki, DJe 19.2.2014, cuja ementa transcrevo:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. RELAÇÃO JURÍDICA ENTRE CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL E SEUS PRESTADORES DE SERVIÇO. ALEGAÇÃO DE OFENSA À ADI 492 E À ADI 3.395-MC. AUSÊNCIA DE ESTRITA ADERÊNCIA. PRECEDENTE. RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. INADMISSIBILIDADE. 1. Em sede de controle abstrato de constitucionalidade, cujas decisões de mérito autorizam o ajuizamento de reclamações, o STF ainda não se pronunciou sobre a natureza da relação jurídica mantida entre os conselhos de fiscalização profissional e seus prestadores de serviço. 2. Agravo regimental a que se nega provimento. (Rcl-AgR 15806, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno,DJe 19.2.2014)
+    Também não prospera o argumento de que o TST teria violado o teor da Súmula Vinculante 10 do STF, uma vez que o acórdão reclamado não declarou a inconstitucionalidade, nem afastou a aplicação de qualquer dos dispositivos indicados pelo reclamante com fundamento na Constituição Federal. Ressalte-se que os referidos dispositivos sequer foram mencionados pelo acórdão ora impugnado.
+    Por fim, ressalto que no julgamento do Agravo Regimental na Reclamação 10.793, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 6.6.2011, esta Corte também decidiu que não cabe reclamação, ao fundamento de descumprimento da autoridade da decisão proferida em processo-paradigma da repercussão geral.
+    Ante o exposto, nego seguimento à reclamação. Prejudicada a análise do pedido liminar (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 12 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
