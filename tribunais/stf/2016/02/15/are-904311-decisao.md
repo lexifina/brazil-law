@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto em face do acórdão do Tribunal Superior do Trabalho, cuja ementa transcrevo:
+    AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. DECISÃO MONOCRÁTICA DENEGATÓRIA DE SEGUIMENTO. PRÊMIO PRODUTIVIDADE. SERPRO. O Tribunal Regional, ao consignar que “o artigo 12 da Lei n.º 5.615/70, em sua redação anterior, previa o pagamento da rubrica [prêmio produtividade], o que deixou de ocorrer a partir da nova redação conferida pela Lei nº 9.649/1998”, bem como que o “fato de a atual redação não se referir ao Prêmio não significa que ele tenha sido excluído do contrato de trabalho dos trabalhadores que já o recebiam”, pois a “norma foi integrada ao contrato e não pode ser excluída, uma vez que são vedadas as alterações contratuais lesivas ao trabalhador”, segue a jurisprudência reiterada desta Corte. Incidência do art. 896, § 4º, da CLT e aplicação da Súmula 333/TST. Agravo conhecido e não provido.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se violação aos arts. 5º, II, XXXV, LIV e LV, da Constituição Federal. Sustenta-se, em síntese, ofensa ao princípio da ampla defesa.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    No julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJ e 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso em exame.
+    Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
