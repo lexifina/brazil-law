@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento ao recurso extraordinário, interposto no bojo de representação eleitoral proposta pela Coligação “Paraná Olhando Pra Frente”, em face do ora recorrente, pela suposta prática de publicidade institucional vedada pela Lei das Eleições (especificamente no artigo 73, VI, “b”, Lei 9.504/97).
+    A sentença monocrática julgou parcialmente procedente a representação eleitoral, condenando o recorrente ao pagamento de multa no valor de 10.000 UFIR´s. Os embargos de declaração opostos foram rejeitados, mantendo-se íntegra a decisão.
+    Irresignado, Marcos Elis Traad da Silva interpôs o competente recurso eleitoral, o qual não teve êxito, mesmo após a oposição de embargos (fls. 431-446, 469-474).
+    Na sequência e já em sede de agravo em recurso especial, a multa foi reduzida para 5.000 UFIR (fls. 518-521, 585-591). Mesmo assim, foi interposto agravo regimental, cujo julgamento está nos seguintes termos ementados (fl. 618):
+    “AGRAVOS REGIMENTAIS. RECURSO ESPECIAL ELEITORAL. ELEIÇÕES 2014. GOVERNADOR. REPRESENTAÇÃO. CONDUTA VEDADA AOS AGENTES PÚBLICOS. PUBLICIDADE INSTITUCIONAL. ART. 73, VI, B, DA LEI 9.504/97. CONFIGURAÇÃO. MULTA. DESPROVIMENTO.
+    1. A conduta vedada no art. 73, VI, b, da Lei 9.504/97 – proibição de publicidade institucional nos três meses que antecedem a eleição -, possui natureza objetiva e configura-se independentemente do moimento em que autorizada a publicidade, bastando a sua manutenção no período vedado. Precedentes.
+    2. No caso dos autos, a partir da moldura fática contida no acórdão regional, é incontroverso que o governo do Paraná, que tinha o agravante Carlos Alberto Richa como candidato à reeleição, veiculou matérias durante o período eleitoral, no sítio eletrônico do DETRAN/PR, com caráter de publicidade institucional.
+    3.Agravos regimentais desprovidos.”
+    No recurso extraordinário (art. 102, III, “a’, CF), aponta-se ofensa aos arts. 5º, XXXV e 37, § 1º do texto constitucional. Sustenta-se, em suma, que a propaganda institucional do caso em questão é a permitida no art. 37, § 1º, CF, e que o acórdão recorrido afrontou o disposto no art. 5º, XXXV, da Carta Política, quando não distinguiu a hipótese vedada (prevista no art. 73, VI, “b”, da Lei 9.504/97) da constitucionalmente permitida (art. 37, §1º, CF).
+    A Presidência do Tribunal Superior Eleitoral inadmitiu o recurso por entender que a alegada afronta seria reflexa e porque o precedente invocado nas razões recursais não se relaciona com a discussão dos autos. Dessa inadmissão, foi interposto agravo, em que são repisadas as teses suscitadas no extraordinário.
+    Relatado no essencial. Decido .
+    A Lei 12.322/2010 inaugurou nova sistemática no processamento do agravo interposto em face de recurso extraordinário. Assim, inadmitido o recurso na origem, o agravo é interposto nos autos, dispensando-se a formação de instrumento (art. 544, caput , do CPC).
+    Consabido, a admissibilidade dos recursos às instâncias especiais é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo tem preenchidos os pressupostos processuais. Entretanto, suas razões não prosperam.
+    Isso porque o acórdão recorrido partiu da moldura fática delineada pela decisão a quo e ratificou suas conclusões, confirmando a subsunção dos fatos às regras de vedação da propaganda institucional mencionadas. Dessa forma, ainda que não tenha enfrentado todas as teses do recorrente, adotou fundamentos aptos a sustentar suas conclusões.
+    Quanto à alegada violação ao art. 5º, XXXV, da CF, por não ter sido objeto de debate no acórdão recorrido, falta-lhe o indispensável prequestionamento (Súmulas nº 282 e 356 do STF).
+    Além disso, eventual divergência em relação ao entendimento adotado pelo juízo a quo acerca do conteúdo publicado na página do DETRAN/PR, se meramente informativo ou publicitário, demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, conheço do agravo, mas o desprovejo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
