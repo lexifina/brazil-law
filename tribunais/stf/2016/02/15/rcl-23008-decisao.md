@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido liminar, contra decisão que negou trâmite a recurso extraordinário, nos termos do art. 543-A, § 5º, do CPC/73.
+    Consta dos autos que a 3ª Turma Recursal da Justiça Federal de Santa Catarina julgou procedente pedido de fornecimento de medicamentos em face do Estado de Santa Catarina e da União, sem, contudo, condenar o ente federal ao pagamento de honorários advocatícios, aplicando a Súmula 421/STJ. Contra esta decisão foi interposto recurso extraordinário, em que a DPU sustentou que a questão deveria ser analisada sob o enfoque da autonomia financeira e administrativa da Defensoria Pública (art. 4º, XXI, da LC nº 80/2014 e Emendas Constitucionais nº 74/2013 e 80/2014).
+    Em juízo primevo de admissibilidade, entendeu-se incidir ao caso os efeitos da ausência de repercussão geral, pela aplicação do precedente no RE 592.730 (Rel. Min. Menezes Direito – tema 134) ao caso concreto. Interposto agravo regimental, este não foi conhecido, sob o fundamento de que “Questão de Ordem no AI n. 760.358/SE é aplicável tão somente aos casos em que o agravo é interposto em face de decisão que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral”. Contra esta última decisão, a parte, representada pela DPU, interpôs agravo do art. 544 do CPC/73.
+    Neste contexto, foi ajuizada a presente reclamação. A DPU alega a viabilidade do agravo interno interposto na origem. Sustenta, ainda, a superação do tema 134 da repercussão geral. Invoca entendimento aplicado na medida cautelar na Rcl 20.628, em decisão de minha lavra.
+    É o relatório. Decido.
+    Consta dos autos que a Defensoria Pública foi intimada do não conhecimento do agravo interno em 18.11.2015. O prazo para oposição de embargos de declaração (único recurso cabível, na hipótese) esgotou-se em 23.11.2015 (art. 9º da Lei 10.259/01). Não obstante, a presente reclamação somente foi ajuizada em 10.02.2016. Em situações como essa é inadmissível a reclamação, nos termos da Súmula 734/STF: Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.
+    Observe-se que o agravo em recurso extraordinário (art. 544 do CPC/73) é recurso manifestamente incabível contra decisão que aplica a recurso extraordinário o rito da repercussão geral, de modo que sua interposição, na origem, não teve o efeito de afastar o trânsito em julgado.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, prejudicada a análise do pedido liminar.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2016
+Ministro LUÍS ROBERTO BARROSO
+Relator
