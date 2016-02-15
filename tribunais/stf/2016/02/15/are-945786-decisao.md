@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de dois agravos em recursos extraordinários, interpostos por Fábio Gomes Ferreira e Charles Cancio de Pontes. Ambos têm por objeto decisões que inadmitiram recursos extraordinários interpostos contra acórdão do Tribunal Regional Federal da 2ª Região, do qual se extrai da ementa o seguinte trecho:
+    “APELAÇÃO CRIMINAL. TRÁFICO E CORRUPÇÃO. ARTIGOS 33, 35 E 40 II E IV DA LEI N. 11343/06 EM CONCURSO MATERIAL COM O ART. 317, § 1º DO CP DE DROGAS E CORRUPÇÃO. COMPETÊNCIA. PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. INTERCEPTAÇÃO TELEFÔNICA. PERÍCIA. DESNECSSIDADE. DOSIMETRIA.
+    [...]”
+    - Recurso interposto por Fábio Gomes Ferreira.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVII, XXXIX, XLVI, LIII, LIV e LV, da Constituição. Alega: (i) violação aos princípios do juiz natural, da individualização da pena e da legalidade; (ii) falta de defensor do recorrente em audiência; (iii) indeferimento de provas por parte do Juízo sentenciante; e (iv) que “as provas demonstram cabalmente que o Recorrente não participou dos crimes a eles imputados”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Esta Corte já assentou a ausência de repercussão geral da questão relativa ao indeferimento, pelo juiz, de determinada diligência probatória. Nessa linha, veja-se o ARE 639.228-RG, Rel. Min. Cezar Peluso.
+    O Supremo Tribunal Federal já decidiu tratar-se de matéria infraconstitucional a questão relativa à afronta ao princípio do juiz natural. Nessa linha, vejam-se o AI 839.398, Rel. Min. Joaquim Barbosa; o AI 735.009, Rel. Min. Cezar Peluso; o AI 681.668-AgR, Rel.ª Min.ª Ellen Gracie; o AI 845.223 AgR-ED, Rel. Min. Luiz Fux; e o RE 255.639, Rel. Min. Ilmar Galvão.
+    A jurisprudência do Supremo Tribunal Federal é no sentido de que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, confiram-se o AI 797.666-AgR, Rel. Min Ayres Britto; o AI 796.208-AgR, Rel Min. Dias Toffoli; e o RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente. Nessa linha, vejam-se o AI 580.465 AgR, Rel.ª Min.ª Cármen Lúcia; e o RE 799.944 AgR, Rel. Min. Dias Toffoli.
+    Por fim, o recorrente busca uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário.
+    - Recurso interposto por Charles Cancio de Pontes.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIII, LVI, da Constituição. Aduz: (i) violação ao princípio do juiz natural; (ii) que “é inadmissível todo elemento de prova quando vulnera um direito ou garantia previsto na Constituição, tendo em vista tratar-se de uma prova ilícita”.
+    O recurso é inadmissível, tendo em vista que o Supremo Tribunal Federal já decidiu se tratar de matéria infraconstitucional a questão relativa à afronta ao princípio do juiz natural. Nessa linha, vejam-se o AI 839.398, Rel. Min. Joaquim Barbosa; o AI 735.009, Rel. Min. Cezar Peluso; o AI 681.668-AgR, Rel.ª Min.ª Ellen Gracie; o AI 845.223 AgR-ED, Rel. Min. Luiz Fux; e o RE 255.639, Rel. Min. Ilmar Galvão.
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+          Brasília, 15 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
