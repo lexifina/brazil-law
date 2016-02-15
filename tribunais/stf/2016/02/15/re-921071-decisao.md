@@ -1,0 +1,40 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PROCESSUAL CIVIL. INEXISTÊNCIA DE CONTRARIEDADE AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA, DO CONTRADITÓRIO E DA PRESTAÇÃO JURISDICIONAL: MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ALEGADA CONTRARIEDADE AO ART. 109, INC. I, DA CONSTITUIÇÃO DA REPÚBLICA. COMPETÊNCIA DA JUSTIÇA FEDERAL PARA DETERMINAR O INTERESSE DA CAIXA ECONÔMICA FEDERAL NA CAUSA. PRECEDENTES. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “PROCESSO CIVIL. AGRAVO EM AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. CAIXA ECONÔMICA FEDERAL. ILEGITIMIDADE PASSIVA. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+    Agravo improvido” (Volume n. 2, fl. 62, e-STF).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Recorrente argumenta não ter o Tribunal de origem se manifestado sobre questões suscitadas, em ofensa ao art. 5º, incs. XXXV e LV, da Constituição da República. No mérito, alega contrariado o art. 109, inc. I, da Constituição da República.
+    Assevera “permanece[r] a Caixa Econômica Federal na demanda executiva, porque não houve julgamento dos embargos à execução por ela opostos. Assim, a Justiça Federal que é competente para processar e julgar o feito” (Volume n. 2, fl. 117, e-STF).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. O Juiz Federal Relator no Tribunal de origem decidiu:
+    “O Banco Santander Meridional S.A. interpõe o presente agravo de instrumento insurgindo-se contra decisão que, em autos de embargos à execução, declinou da competência para a Justiça Estadual.
+    Aduz a agravante que a cessão de créditos comunicada pelo cedente, ratificada pela cessionária e tomada pública perante todos pelo registro público foi suficientemente comprovada, devendo gerar efeitos inclusive nos processos judiciais. Sustenta que a CEF pode permanecer no processo na condição de assistente litisconsorcial e, diante disso, a competência para processar o feito, ainda que não consentida a substituição, permanecerá da Justiça Federal.
+    (…)
+    No julgamento do AI n. o 2005.04.01.039055-6, proferi o seguinte voto, verbis:
+    ‘I-A Caixa Econômica Federal interpõe o presente agravo insurgindo-se contra a decisão que, em autos de embargos à execução, declinou da competência para a Justiça Estadual.
+    2. Aduz a agravante que, embora sustente sua ilegitimidade para figurar no polo passivo da execução de honorários advocatícios proposta pela parte agravada, os autos devem tramitar na Justiça Federal até sua exclusão definitiva do processo.
+    (...)
+    4. O exame perfunctório do recurso e das peças do traslado apontam não assistir razão à recorrente.
+    5. É que, por força da decisão agravada, a Caixa Econômica Federa/foi excluída da ação executiva, não havendo razão para que os autos permaneçam na Justiça Federal, consoante dispõe o art. 109, I, da Constituição Federal.
+    6. Conforme as bem lançadas razões do decisum, embora a empresa pública federal tenha adquirido os créditos referentes à ação de cobrança proposta pelo Banco Meridional S/A contra Zib's Indústria de Calçados Ltda. - cuja parcial procedência gerou a execução de honorários sub examine -, esta última instituição financeira permanece sendo a parte legitimada para figurar no polo passivo/ativo das ações em discussão (execução/embargos de devedor).
+    7. Não sendo caso de substituição processual, e ausente a intenção da CEF de ingressar no feito na condição de assistente litisconsorcial, correta a remessa dos autos à Justiça Estadual, ante a ilegitimidade passiva do ente federal.
+    8. Pelo exposto, o Ministério Público Federal opina pelo desprovimento do recurso.
+    Por esses motivos, acolhendo o parecer do MPF, nego provimento ao agravo de instrumento'” (Volume n. 2, fls. 56-57, e-STF).
+    5. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do contraditório e da ampla defesa quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    6. Este Supremo Tribunal assentou competir à Justiça Federal determinar se há ou não interesse da Caixa Econômica Federal na causa, “porquanto a simples alegação da existência de interesse da União feita pela ora recorrente não desloca, só por isso, a competência para a Justiça Federal” (RE n. 172.708, Relator o Ministro Moreira Alves, Primeira Turma, DJ 12.11.1999).
+    Confiram-se os seguintes julgados:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Hipótese de dispensa de licitação. Convocação, pelo administrador, de diversas empresas para apresentar propostas de preços. Negociação individual com apenas uma das participantes. Contratação por valor superior àquele apresentado pela impetrante. Ofensa ao art. 24 da Lei 8.666/93. Matéria infraconstitucional. Fatos e provas. Súmula 279. 3. Competência da Justiça Federal. Art. 109, I, CF. Não configuração. Mera alegação de interesse da União não desloca julgamento para Justiça Federal. 4. Não viola o princípio da separação de poderes o exame da legalidade dos atos administrativos pelo Poder Judiciário. 5. Agravo regimental a que se nega provimento” (ARE n. 791.625-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 10.6.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1) CONSTITUCIONAL. ART. 109, INC. I, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE REQUERIMENTO DA UNIÃO, DE AUTARQUIA OU DE EMPRESA PÚBLICA PARA INTEGRAR A LIDE. MERA ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE DE UM DESSES ENTES. IMPOSSIBILIDADE DE DESLOCAMENTO DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL. 2) ALEGAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO: QUESTÃO INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 588.134-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2011).
+    “COMPETÊNCIA DA JUSTIÇA FEDERAL. INTERESSE DA CAIXA ECONÔMICA FEDERAL (CEF). MATÉRIA INFRACONSTITUCIONAL (CLT E LC 108/01). REEXAME DE FATOS E PROVAS, BEM COMO DAS CLÁUSULAS CONTRATUAIS QUE REGEM A RELAÇÃO ENTRE A FUNCEF E SEUS BENEFICIÁRIOS. SÚMULAS 279 E 454 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE n. 835.181-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 1º.6.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DESLOCAMENTO DE COMPETÊNCIA PARA A JUSTIÇA FEDERAL. AUSÊNCIA DE REQUERIMENTO DA UNIÃO, DE AUTARQUIA OU DE EMPRESA PÚBLICA PARA INTEGRAR A LIDE. MERA ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE DE UM DESSES ENTES. INSUFICIÊNCIA. ACÓRDÃO RECORRIDO FUNDAMENTADO NOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 757.952-AgR, de minha relatoria, Segunda Turma, DJe 28.10.2013).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal. Nada há a prover quanto às alegações do Recorrente.
+    7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
