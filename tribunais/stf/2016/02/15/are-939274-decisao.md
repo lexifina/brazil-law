@@ -1,0 +1,10 @@
+DECISÃO: A controvérsia suscitada no recurso extraordinário a que se refere o presente agravo já foi dirimida pela colenda Segunda Turma do Supremo Tribunal Federal:
+    “Agravo interno em agravo de instrumento. Tributário. Contribuição para o PIS. 2. Efeitos do julgamento da ADI 1.417. Inconstitucionalidade do art. 18 da Lei 9.715/98, que contrastava a disposição do art. 195, § 6º, da Constituição Federal. O preceito invalidado remete-se a proposição tributária disposta inicialmente na MP 1.212/95 (e reedições). 3. Ausência de solução de continuidade normativa durante o processo legislativo que resultou na Lei 9.715/98 a partir da MP 1.212/95. 4. Anterioridade nonagesimal cumprida durante período no qual a novel norma tributária ainda era enunciada por medida provisória. O prazo de noventa dias conta-se da publicação primitiva do enunciado prescritivo que cria ou majora tributo. Precedentes de ambas as turmas e do Plenário do STF. 5. Propósito procrastinatório da agravante. Multa do art. 557, § 2º, do CPC. Agravo regimental a que se nega provimento.”
+    (AI 749.301-AgR/SP, Rel. Min. GILMAR MENDES)
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questões essencialmente idênticas à que ora se examina nesta sede recursal (AI 623.157-AgR/SP, Rel. Min. CEZAR PELUSO – ARE 880.511/SP, Rel. Min. GILMAR MENDES – ARE 926.578/BA, Rel. Min. ROBERTO BARROSO – ARE 927.343/SP, Rel. Min. EDSON FACHIN, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 15 de fevereiro de 2016.
+Ministro CELSO DE MELLO
+Relator
