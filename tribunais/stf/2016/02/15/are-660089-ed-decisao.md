@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de embargos de declaração opostos contra decisão em que foi dado provimento ao recurso extraordinário.
+    A parte ora embargante alega que “a Companhia de Água e Esgotos – CEDAE está excluída da exigência do teto remuneratório, vez que se trata de uma sociedade de economia mista que explora atividade econômica, em regime de monopólio nas localidades onde atua, com obtenção de lucros e dividendos por sua própria atividade mercantil, gozando de autonomia financeira”. Aduz ainda que “se as instâncias ordinárias fixaram premissa fática no sentido de que a reclamada possui autonomia financeira, entendimento diverso exigiria o reexame de fatos e provas, situação amplamente vedada pela Súmula nº 279 deste Egrégio STF.”
+    Tem razão a ora embargante. Reconsidero a decisão de fls. 370/371. Passo a análise do agravo no recurso extraordinário.
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “I. RECURSO DE REVISTA. RECURSOS DE REVISTA DO MINISTÉRIO PÚBLICO E DA CEDAE. DEVOLUÇÃO DE DESCONTOS – TETO REMUNERATÓRIO. A jurisprudência da Corte preconiza que, não obstante AS DISPOSIÇÕES DA OJ Nº 339 da SDBI-1, porque demasiadamente genérica, os empregados das empresas públicas e sociedades de economia mista que não recebam repasses orçamentários governamentais, não estão sujeitos ao teto remuneratório de que trata o art. 37, XI, da CF/88. Precedentes. Recurso de revista de que não se conhece. II. RECURSO DO CEDAE. TUTELA ANTECIPADA. Tem-se por inovação no recurso o debate de questões não suscitadas na decisão recorrida. Recurso de revista de que não se conhece.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, II, XXXIV, a, XXXV, LV e LIV, 37, inciso XI e no § 9º, todos da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “as instâncias ordinárias fixaram premissa fática no sentido de que a Reclamada possui autonomia financeira, não recebendo recurso do Estado para custeio de despesas de pessoal ou de custeio em geral”; e (ii) “o acórdão recorrido, portanto, encontra-se em harmonia com a literalidade do art. 37, § 9º, da Constituição”.
+    O recurso não deve ser provido, tal como constatou a decisão agravada, para dissentir do acórdão recorrido, seria necessária a análise do material fático-probatório dos autos, o que não é possível em sede de recurso extraordinário. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, reconsidero a decisão agravada, e com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo, mas lhe nego provimento.
+    Publique-se.
+          Brasília, 15 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
