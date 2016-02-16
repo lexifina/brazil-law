@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EX-SOLDADO TEMPORÁRIO DA POLÍCIA MILITAR: CONTRATAÇÃO COM BASE NA LEI FEDERAL N. 10.029/2000 E NA LEI ESTADUAL N. 11.064/2002. REPERCUSSÃO GERAL. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM. BAIXA IMEDIATA.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra julgado da Segunda Turma Cível e Criminal do Colégio Recursal de Taubaté/SP, mantendo-se sentença julgada parcialmente procedente, “condenando [a Fazenda Pública] a reconhecer e pagar as verbas de caráter indenizatório trabalhista referente a férias, 1/3, mais 13º salários, contribuição previdenciária, respeitada a prescrição quinquenal”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega ter o Tribunal de origem contrariado os arts. 2º, 5º, inc. II, 7º e 37, caput e incs. II e IX, 42, 61, § 1º, 63 e 102 da Constituição da República.
+    Argumenta que
+    “o Serviço Auxiliar Voluntário (SAV), previsto na Lei federal nº 10.029, de 20 de outubro de 2000 e na Lei estadual paulista nº 11.064, de 8 de março de 2002, foi instituído no exercício dessa competência constitucional, com o intuito de regulamentar função pública provisória, a título precário, de cunho eminentemente social, voltada à integração de jovens e consistente no desempenho de atividades simples, inerentes e adequadas ao seu nível de conhecimento e capacidade profissional, em caráter suplementar e de apoio à Administração da Organização Policial Militar”.
+    Sustenta que
+    “o v. acórdão recorrido ao reconhecer direitos tais como férias e 13º, violou frontalmente o artigo 37, IX, da Constituição Federal que prevê forma especial de admissão ao serviço público, que se caracteriza pela temporariedade, afastando a forma celetista de admissão, que só poderá se dar nos termos do inc. II do mesmo artigo”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de prequestionamento.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Cumpre afastar o fundamento da decisão agravada, por ter sido a matéria constitucional devidamente prequestionada, o que se demonstrou nos embargos de declaração opostos.
+    6. No julgamento eletrônico do Recurso Extraordinário com Agravo n. 646.000, Relator o Ministro Marco Aurélio, este Supremo Tribunal reconheceu a repercussão geral da questão constitucional discutida na espécie:
+    “SERVIDOR PÚBLICO – FUNÇÃO TEMPORÁRIA – EXTENSÃO DE DIREITOS DECORRENTES DA OCUPAÇÃO DE CARGO PÚBLICO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia acerca da extensão dos direitos sociais previstos no § 3º do artigo 39 da Constituição Federal aos servidores e empregados públicos contratados na forma do artigo 37, inciso IX, do Diploma Maior, sob vínculo trabalhista, para atender a necessidade temporária de excepcional interesse público” (DJe 29.6.2012).
+    Reconhecida a repercussão geral do tema, os autos deverão retornar à origem, para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 543-B do Código de Processo Civil.
+    7. Dada a irrecorribilidade da decisão de devolução de recurso à instância de origem, seguindo a sistemática da repercussão geral (MS n. 31.445-AgR/RJ, de minha relatoria, Plenário, DJ 25.2.2013; MS n. 32.060-ED/SP, Relator o Ministro Dias Toffoli, Plenário, DJ 6.11.2013; MS n. 28.982-AgR/PE, Relator o Ministro Gilmar Mendes, Plenário, DJ 15.10.2010; RE n. 629.675-AgR/SP, Relator o Ministro Luiz Fux, Primeira Turma, DJ 21.3.2013; RE n. 595.251-AgR/RS, Relator o Ministro Dias Toffoli, Primeira Turma, DJ 9.3.2012; AI n. 503.064-AgR-AgR/MG, Relator o Ministro Celso de Mello, Segunda Turma, DJ 26.3.2010; AI n. 811.626-AgR-AgR/SP, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJ 3.3.2011; RE n. 513.473-ED/SP, Relator o Ministro Cezar Peluso, Segunda Turma, DJe de 18.12.2009; e AI n. 790.033-AgR/DF, Relator o Ministro Cezar Peluso, Plenário, DJ 2.5.2012), determino a baixa imediata dos autos.
+    8. Pelo exposto, dou provimento ao agravo, para admitir o recurso extraordinário, observando-se quanto a este o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    À Secretaria Judiciária para as providências cabíveis.
+    Publique-se.
+    Brasília, 16 de fevereiro de 2015.
+Ministra CÁRMEN LÚCIA
+Relatora
