@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS. SIMPLES FEDERAL E SIMPLES NACIONAL. BASE DE CÁLCULO. INCLUSÃO DE VALORES QUE INTEGRAM O PREÇO DOS SERVIÇOS PRESTADOS, MAS QUE SÃO REPASSADOS A TERCEIROS. POSSIBILIDADE. EQUIVALÊNCIA DAS EXPRESSÕES “FATURAMENTO” E “RECEITA BRUTA”. TOTALIDADE DAS RECEITAS AUFERIDAS COM A VENDA DE MERCADORIAS E SERVIÇOS. RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário interposto com fundamento na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “TRIBUTÁRIO. PIS. COFINS. SIMPLES FEDERAL. SIMPLES NACIONAL. EMPRESA QUE EXECUTA SERVIÇOS DE RADIODIFUSÃO SONORA OU DE SONS E IMAGENS. BASE DE CÁLCULO. FATURAMENTO. EXCLUSÃO DOS VALORES REPASSADOS ÀS AGÊNCIAS DE PUBLICIDADE OU AGENCIADORES. IMPOSSIBILIDADE.
+    1. Segundo entendimento pacífico do egrégio STJ, relativamente às empresas prestadoras de serviços temporários, independentemente do regime adotado (cumulativo/não cumulativo), deve a base de cálculo das contribuições PIS e COFINS ser calculada sobre os valores que ingressam na contabilidade da empresa decorrentes do exercício do seu objeto social.
+    2. Tratando-se, na hipótese dos autos, de situação análoga à das empresas prestadoras de serviços temporários, aplicável o mesmo entendimento.
+    3. Sentença reformada para julgar improcedente a ação.”
+    Nas razões do apelo extremo, as recorrentes sustentam preliminar de repercussão geral e, no mérito, apontam violação aos artigos 145, § 1º; 150, IV; 170; 179; e 195, I, da Constituição Federal.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    O Tribunal a quo entendeu que os valores que as recorrentes alegam receber para posterior repasse a terceiros integram o preço cobrado pelo serviço, “devendo as contribuições PIS e COFINS, assim como os valores recolhidos por meio do Simples Federal e do Simples Nacional serem calculados com base no faturamento das demandantes, englobando todas as receitas decorrentes da sua atividade empresarial (objeto social)”.
+    Nesse contexto, o acórdão recorrido não divergiu da orientação firmada pelo Supremo Tribunal Federal, no sentido de que receita bruta e faturamento são termos considerados equivalentes para fins tributários e expressam a totalidade das receitas percebidas pelo contribuinte com a venda de mercadorias, de serviços ou de mercadorias e serviços.
+    Impende assinalar que essa temática foi objeto de análise desta Corte em hipótese análoga à dos autos, relativa às empresas prestadoras de serviço de locação de mão de obra temporária. Trago à colação os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283 DO STF. TRIBUTÁRIO. EMPRESA PRESTADORA DE SERVIÇO DE LOCAÇÃO DE MÃO DE OBRA TEMPORÁRIA. COFINS E PIS. BASE DE CÁLCULO. INCLUSÃO DOS VALORES DESTINADOS AO PAGAMENTO DE SALÁRIOS, ENCARGOS SOCIAIS E TRABALHISTAS DOS TRABALHADORES TEMPORÁRIOS. RECEITA BRUTA E FATURAMENTO: TOTALIDADE DOS VALORES AUFERIDOS COM A VENDA DE MERCADORIAS, DE SERVIÇOS OU DE MERCADORIAS E SERVIÇOS. AGRAVO IMPROVIDO.
+    I – Incumbe ao recorrente o dever de impugnar, de forma específica, cada um dos fundamentos suficientes da decisão atacada, sob pena de não conhecimento do recurso. Incidência da Súmula 283 do STF.
+    II – Para a definição da base de cálculo para a incidência do PIS e da COFINS, a receita bruta e o faturamento são termos sinônimos e consistem na totalidade das receitas auferidas com a venda de mercadorias, de serviços ou de mercadorias e serviços. Precedentes.
+    III – Agravo regimental improvido.” (RE 683.334-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 13/8/2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÕES SOCIAIS. PIS E COFINS. BASE DE CÁLCULO. INCLUSÃO DAS DESPESAS COM SALÁRIOS E ENCARGOS TRABALHISTAS E SOCIAIS. EMPRESAS PRESTADORAS DE SERVIÇOS TERCEIRIZADOS. RECEITA BRUTA E FATURAMENTO. SINÔNIMOS. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTE TRIBUNAL. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA.
+    1. A receita bruta e o faturamento são termos sinônimos e consistem na totalidade de receitas auferidas com a venda de mercadorias, de serviços ou de mercadorias e serviços, para fins de definição da base de cálculo de incidência do PIS e da COFINS, nos termos da jurisprudência fixada por esta Corte. Precedente: RE 683.334-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 13/8/2012.
+    2. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    3. In casu, o acórdão recorrido assentou, in verbis: “TRIBUTÁRIO. MANDADO DE SEGURANÇA. SENTENÇA CONCESSIVA. SUBMISSÃO OBRIGATÓRIA AO DUPLO GRAU DE JURISDIÇÃO. ART. 12 DA LEI N.º 1.533/51. PIS E COFINS. BASE DE CÁLCULO. EMPRESA PRESTADORA DE SERVIÇOS TERCEIRIZADOS”.
+    4. Agravo regimental DESPROVIDO.” (RE 738.757-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 17/9/2014).
+    No mesmo sentido: ARE 643.823, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 20/3/2013; ARE 645.618, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 5/10/2012; RE 371.258-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJ de 27/10/2006; AI 716.675-AgR-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 16/3/2011; e RE 390.840, Rel. Min. Marco Aurélio, Plenário, DJ de 15/8/2006.
+    Ex positis, DESPROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de fevereiro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
