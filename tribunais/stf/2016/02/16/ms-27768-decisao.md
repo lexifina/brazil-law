@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de mandado de segurança contra ato do Tribunal de Contas da União (Acórdão 724/2008 – Plenário) que resultou na determinação de restituição de valores indevidamente pagos aos impetrantes a título de vantagem pessoal nominalmente identificada (VPNI) prevista no art. 61 da Lei 10.486 (que dispõe sobre a remuneração dos militares do Distrito Federal e dá outras providências), no mês de agosto de 2003 e no período compreendido entre janeiro de 2004 a junho de 2005.
+    Na inicial, sustentam os impetrantes o seguinte: (a) a atuação do TCU que resultou no ato impetrado decorreu de representação da equipe de auditoria da Secretaria de Fiscalização de Pessoal (SEFIP), a qual teve por base fiscalização realizada pela Gerência Regional de Administração do Amapá, onde foi constatada interpretação considerada equivocada da lei que regula o pagamento da VPNI; (b) a aludida representação, que não tem a ver com exame de processo de aposentadoria para fins de registro, tramitou no TCU (TC – 015.017/2005-5) sem que houvessem sido intimados os interessados, “maculando os princípios do devido processo legal e ampla defesa e pondo em terra o estatuído pela Súmula Vinculante nº 3 desta Corte” (fl. 3); (c) o ato de implantação da VPNI teve origem na interpretação dada à lei pelo órgão responsável pelo pagamento, que foi considerada errônea pelo TCU, daí porque não há falar em má-fé dos interessados no recebimento dessa verba. Por essas razões, entendem incabível o ressarcimento do montante recebido a título de VPNI, como determinado no Acórdão 724/2008.
+    O então relator, Ministro Ayres Britto, deferiu liminar para suspender os efeitos do acórdão impetrado, em relação aos autores (fls. 169/171).
+    A autoridade impetrada prestou informações (fls. 175/188).
+    A Procuradoria-Geral da República opinou pela denegação da segurança (fls. 206/208).
+    2. Dispunha o art. 18 da Lei 1.533/1951, vigente quando do ajuizamento da presente ação mandamental, que “O direito de requerer mandado de segurança extinguir-se-á decorridos cento e vinte dias contados da ciência, pela interessado, do ato impugnado”. No caso, os impetrantes sustentam que foram notificados sobre o ato impugnado entre 6/8/2008 e 8/8/2008 (fl. 5), todavia, não há nos autos prova pré-constituída sobre a tempestividade do mandado de segurança.
+    3. Diante do exposto, casso a liminar anteriormente deferida e nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 16 de fevereiro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
