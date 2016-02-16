@@ -1,0 +1,17 @@
+Decisão: Em resposta ao despacho por mim proferido em 28.1.2016 (eDOC 51), o Tribunal de Justiça do Estado de Tocantins requereu que seja: (a) declarada a perda de objeto desta ação ordinária; e (b) condenado o Estado do Tocantins ao pagamento de custas e honorários sucumbenciais. (eDOC 54)
+    Prossigo.
+    Verifico que, ante o efetivo cumprimento do objeto desta ação originária, consistente no repasse ao TJ-TO, em 30.12.2014, do valor de R$ 20.221.007,19, bem ainda considerando o fim dos exercícios de 2014 e 2015, é clara a prejudicialidade de prosseguimento da presente ação originária, em razão da perda superveniente de seu objeto.
+    O Tribunal de Justiça de Tocantins afirmou que “os recursos repassados por força da decisão liminar, aliado a outras medidas de contenção de gastos, foram suficientes para o pagamento da folha de pessoal do Poder Judiciário [em 2014]”(sic), bem ainda que, no exercício passado (2015), não houve cortes pelo Poder Executivo Estadual daquele ente federativo.
+    Segundo o entendimento pacífico desta Corte, seria clara hipótese de extinção, sem julgamento de mérito, em decorrência da perda superveniente do interesse de agir.
+    Ocorre que há liminar por mim proferida (18.12.2014), determinando ao Governador do Estado de Tocantins que observasse o contingenciamento linear de recursos em relação a todos os Poderes, bem ainda, em adição à decisão (26.12.2014), foi determinado, pela Presidência do STF, que aquela autoridade estadual procedesse ao repasse das diferenças ainda não transferidas do valor integral da parcela duodecimal do mês de dezembro do ano de 2014. Não houve interposição de recurso pelo estado do Tocantins.
+    Para que essas determinações não percam sua eficácia jurídica, com possíveis consequências jurídico-contábeis em prestações de contas, o caso é de se extinguir a demanda, com julgamento de mérito, atraindo a perda do objeto como reconhecimento do direito do autor, hábil a reconhecer a procedência, em parte, do pedido pelo ente federativo demandado. Tanto é que o próprio estado assim se manifestou:
+    “(...) o Poder Executivo Estadual deu integral cumprimento à decisão da Presidência desta Suprema Corte que reconsiderou a decisão anteriormente prolatada pelo nobre Relator, efetuando o repasse em 30/12/2014 no valor de R$ 20.221.007,19 (vinte milhões e duzentos e vinte e um mil e sete reais e dezenove centavos), conforme ordens bancárias nº 57778 e 57779.
+    Desta forma, ante o esgotamento da presente Demanda, requer-se a sua imediata extinção.” (eDOC 43)
+    Não houve recurso da decisão proferida pela Presidência desta Corte, tampouco apresentação de contestação pelo estado requerido.
+    O pedido do Tribunal de Justiça de Tocantins contido no eDOC 54 equivale à perda de objeto do agravo regimental interposto.
+    Ante o exposto, considerando prejudicado o agravo regimental, julgo procedente, em parte, a presente demanda, com resolução de mérito (art. 269, II, do CPC), nos exatos termos das medidas anteriormente deferidas (eDOCs 32 e 39), com arrimo no art. 21, inciso IX, do RISTF, bem ainda condeno o Estado de Tocantins, em atenção ao princípio da causalidade, ao pagamento das custas e dos honorários advocatícios, os quais fixo em R$ 1.000,00 (mil reais), nos termos do art. 20, § 4º, do CPC.
+     Publique-se.
+    Brasília-DF, 16 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
