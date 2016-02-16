@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, o qual julgou improcedente demanda em que se pleiteava a incorporação da verba correspondente a honorários advocatícios aos proventos de aposentadoria.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, § 4º, da Constituição Federal, bem como dos arts. 6º e 7º, da EC 41/2003 e arts. 2º e 3º, da EC 47/2005.
+    Nas razões recursais, sustenta-se que os honorários advocatícios pagos à União, aos Estados e aos Municípios são verbas públicas e que, portanto, quando pagos aos procuradores em atividade, passam a integrar a remuneração destes, inclusive para efeito do teto dos vencimentos, razão pela qual incorporam-se aos proventos de aposentadoria.
+    A Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo inadmitiu o recurso com base no óbice da Súmula 282 do STF (fl. 630).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que as questões referentes à violação dos dispositivos constitucionais apontados não foram objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento, consoante previsto na Súmula 282 do STF.
+    Além disso, como se observa da leitura da sentença, integralmente mantida pelo acórdão recorrido, as instâncias ordinárias concluíram que a incorporação da verba honorária à aposentadoria era indevida diante das disposições contidas no Decreto 1.140/1990, do Município de Santos, bem como no disposto no art. 20 do CPC e art. 99 da Lei 4.215/63. Além disso, as decisões fundaram-se, também, na ausência de prévio recolhimento de contribuições previdenciárias e na compreensão de que os valores pagos a título de honorários em “crédito de seus procuradores”, tratados como verba indenizatória, não remuneratória.
+    Sendo essas as razões acolhidas para solucionar a lide, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo quanto à natureza jurídica da verba honorária paga aos Procuradores do Município de Santos, se genérica ou pro labore, demandaria o reexame de fatos e provas e o exame da legislação local, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Ademais, quanto à alegação de que o próprio Superior Tribunal de Justiça teria suscitado a competência do Supremo Tribunal Federal para a apreciação da causa, em vista de suposta controvérsia entre direito local contestado em face de lei federal, tal análise demandaria a interposição do extraordinário na forma do art. 102, III, d, da Constituição Federal. O presente recurso, contudo, foi interposto apenas com fundamento do art. 102, III, a, da Constituição, inviabilizando a análise da alegada ofensa a lei federal por direito local.
+    Ante o exposto, conheço do presente agravo para negar lhe provimento, nos termos dos arts. 544, § 4º, II, “a”, CPC e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 16 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
