@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. MATÉRIA SURGIDA ORIGINARIAMENTE NO TRIBUNAL REGIONAL FEDERAL. DESCABIMENTO DO RECURSO. PRECEDENTES. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos (fl. 159 do Doc. 04) interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário (fl. 119 do Doc. 04), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão do Superior Tribunal de Justiça (fl. 64 do Doc. 04) que assentou, verbis:
+    “TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. BEM IMÓVEL. RECUSA DA FAZENDA PÚBLICA. POSSIBILIDADE. ORDEM DE INDICAÇÃO NÃO OBSERVADA. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS. PENHORA DO FATURAMENTO. PRESENTES OS REQUISITOS PARA O DEFERIMENTO DA MEDIDA CONSTRITIVA. ENTENDIMENTO ORIGINÁRIO FIXADO COM BASE NO CONTEXTO FÁTICO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+    1. A jurisprudência do STJ firmou-se no sentido de que é legítima a recusa da Fazenda Pública de bem oferecido à penhora quando não observada a ordem prevista nos arts. 655 do CPC e 11 da Lei n. 6.830/80, inclusive em sede de recurso repetitivo (art. 543-C do CPC), no julgamento do REsp 1.090.898/SP, Rel. Min. Castro Meira.
+    2. O princípio da menor onerosidade do devedor, insculpido no art. 620 do CPC, tem de estar em equilíbrio com a satisfação do credor, sendo indevida sua aplicação de forma abstrata e presumida, cabendo ao executado fazer prova do efetivo prejuízo.
+    3. Quanto à alegada nulidade da penhora sobre o faturamento, que o acórdão recorrido considerou a possibilidade de constrição, por concluir que, no caso, foram atendidos todos os requisitos legais, a irresignação recursal não comporta conhecimento porquanto demandaria a incursão no contexto fático dos autos, impossível nesta Corte ante o óbice da Súmula 7/STJ.
+    Agravo regimental improvido.”
+    Os embargos de declaração opostos foram desprovidos (fl. 101 do Doc. 04).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 1º, caput e IV; 5º caput, II, XXIII, LIV e LXXVIII; 37; 93, IX; e 170, caput, III, IV e VIII, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que a ofensa à Constituição, acaso existente, seria indireta (fl. 153 do Doc. 04).
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, § 3º, da CF).
+    Impende registrar que a insatisfação da parte ora agravante surgiu originariamente no acórdão do agravo de instrumento julgado pelo Tribunal Regional Federal (fl. 88 do Doc. 02). Daquela decisão foram interpostos recursos especial (fl. 24 do Doc. 03) e extraordinário (fl. 01 do Doc. 03).
+    Aqui está sob exame o agravo no recurso extraordinário interposto do acórdão do Superior Tribunal de Justiça em recurso especial.
+    A irresignação não merece prosperar.
+    Esta Corte já firmou entendimento no sentido de que só cabe recurso extraordinário contra acórdão do Superior Tribunal de Justiça, proferido no julgamento do recurso especial, quando a questão constitucional objeto da controvérsia for diversa da decidida pela instância ordinária. Assim, o apelo extremo só será cabível quando a suposta violação constitucional tiver sido, originariamente, apreciada pela Corte Especial. Nesse sentido, menciono as seguintes decisões, entre outras: RE 750.300-ED, Rel. Min. Celso de Mello, DJe de 6/9/2013, ARE 644.906-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 12/4/2012, que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE ACÓRDÃO DO STJ. INVIABILIDADE. AUSÊNCIA DE QUESTÃO DIVERSA DA DECIDIDA PELA INSTÂNCIA ORDINÁRIA. AGRAVO IMPROVIDO. I - Somente se admite recurso extraordinário de decisão do Superior Tribunal de Justiça se a questão constitucional impugnada for nova. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial. II - Agravo regimental improvido.“
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Após o trânsito em julgado desta decisão, retornem os autos conclusos ao meu Gabinete para o julgamento do recurso extraordinário com agravo pendente (fl. 28 do Doc. 04).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
