@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CONSUMIDOR. AQUISIÇÃO DE IMÓVEL. RESPONSABILIDADE CIVIL. JUIZADOS ESPECIAIS. COMPETÊNCIA. VALOR DA CAUSA. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 748.371. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    ”Acordam os juízes que integram a Turma Recursal dos Juizados Especiais Cíveis, por unanimidade, em conhecer do recurso e dar-lhe parcial provimento para reformar a sentença e julgar procedente em parte o pedido indenizatório para condenar o réu ao pagamento de R$ 3.000,00 (três mil reais), a título de danos morais, diante da caracterização da ofensa a bem da personalidade do autor, atendendo ao caráter punitivo, pedagógico e compensatório, sendo a indenização fixada de acordo com o princípio da razoabilidade e proporcionalidade, evitando-se o injusto enriquecimento, tendo sido todas as questões apreciadas, não sendo transcritas as conclusões em homenagem aos princípios informativos previstos no art. 2 da Lei 9.099/95, frisando-se, outrossim, que a motivação concisa atende à exigência do art. 93 da Constituição Federal de 1988. Juros a partir da citação e correção a partir da presente data. Mantida, no mais, a r. sentença. Sem ônus sucumbenciais porque não verificada a hipótese prevista no art. 55, caput, da lei 9099/95.” (Fl. 200).
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 5º, LIII, LIV, LV e LVII, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que eventual ofensa à Constituição seria reflexa.
+     É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A competência dos juizados especiais, quando sub judice a controvérsia sobre a complexidade da demanda ou o valor da causa, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF na análise do AI 768.339, Rel. Min. Ricardo Lewandowski, DJe de 20/11/2009, o qual possui a seguinte ementa:
+    “PROCESSUAL CIVIL. COMPETÊNCIA. COMPLEXIDADE DA DEMANDA. VALOR DA CAUSA. JUIZADO ESPECIAL FEDERAL. LEI 10.259/01. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Por fim, destaco que os princípios da ampla defesa, do contraditório, do devido processo legal e os limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF na análise do ARE 748.371, da Relatoria do Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
