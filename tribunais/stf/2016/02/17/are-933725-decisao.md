@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Colégio Recursal de Presidente Venceslau do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Ação de obrigação de fazer. Rescisão de contrato c.c. indenização por danos materiais e morais. Cobrança Indevida por prestação de serviços educacionais. Publicidade enganosa. Sentença de procedência. Alegação de cerceamento de defesa não reconhecido. Decisão mantida. Recurso da requerida desprovido”. (fl. 291 verso)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, incisos II, V, XXXVI e LV; e 207, caput, do texto constitucional.
+    Nas razões recursais, a recorrente alega violação aos princípios constitucionais da legalidade e da autonomia financeira e administrativa.
+    Alega que pugnou em contestação pela produção de provas e a Juíza monocrática promoveu o julgamento antecipado do feito, sem realizar sua devida instrução. Sustenta, dessa forma, cerceamento de defesa e violação ao princípio do contraditório e da ampla defesa.
+    Sustenta a legalidade do Programa FIES UNIESP PAGA e a impossibilidade de anulação do contrato por inexistir qualquer vício.
+    Requer a não aplicação da inversão do ônus da prova e pugna pela não configuração de situação ensejadora de danos materiais e morais e, caso seja mantida a condenação, pede a redução do quantum indenizatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, registre-se que esta Corte, por ocasião do julgamento ARE-RG 639.228, DJe 31.8.2011, recurso-paradigma da sistemática da repercussão geral, tema nº 424, consignou que a questão relativa à alegação de cerceamento do direito de defesa em razão do indeferimento do pedido de produção de prova no âmbito judicial versa sobre tema de natureza infraconstitucional e rejeitou a repercussão geral. Confira-se a ementa do referido julgado:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional”.
+    No tocante à indenização por danos materiais, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+“Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 2. Indenização por danos morais e materiais. Matéria infraconstitucional. 3. Necessidade do revolvimento do conjunto fático-probatório. Incidência do Enunciado 279 da Súmula do STF. 4. Agravo regimental a que se nega provimento.” (ARE-AgR 894.511, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 25.8.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRATO DE FINANCIAMENTO ESTUDANTIL. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+     1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Reexame de matéria fático-probatória e análise de cláusulas contratuais. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”. (RE-AgR 598.513, Rel. Min. Eros Grau, Segunda Turma, DJe 17.4.2009)
+    Por fim, em relação à suposta ofensa aos princípios da ampla defesa e do contraditório e à insurgência ao quantum indenizatório, observo que o Supremo Tribunal Federal já apreciou as matérias, respectivamente, no ARE-RG 748.371 (Tema 660), DJe 1º.8.2013, e no ARE-RG 743.771/SP (Tema 655), DJe 31.5.2013, ambos de minha relatoria, oportunidade em que rejeitou a repercussão geral nos dois casos, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais e em razão da incidência do Enunciado 279 da Súmula do STF.
+    Destaco a ementa do último julgado:
+    “DIREITO CIVIL. RESPONSABILIDADE CIVIL. VALOR FIXADO A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 279 DA SÚMULA DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL.”
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a , CPC e art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
