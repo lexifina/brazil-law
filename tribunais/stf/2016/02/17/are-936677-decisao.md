@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “FEPASA – Pleito de pagamento dos proventos de acordo com a estrutura salarial, respeitando as classes e pisos salariais constantes da Estrutura de Cargos e Salários “Equidistância” aproximada de 13% (treze por cento) entre as diversas classes constantes na Estrutura de Cargos e Salários - Piso salarial da categoria, estabelecido no Contrato Coletivo de Trabalho 1995/1996 – Complementação de aposentadoria, cujo pagamento é atribuído por lei à Fazenda Estadual, incluindo a fixação do piso salarial no referido ‘quantum’, conforme disposto no artigo 4º e §§ da Lei Estadual Paulista nº 9.343/96 Inexistência de previsão legal para que o piso salarial estipulado 2,5 (dois e meio) salários mínimos seja implementado em todas as classes salariais constantes na Estrutura de Cargos e Salários da extinta Fepasa, de modo a ser mantida a equidistância média salarial de 13% (treze por cento) entre as diversas classes, constante de antigas tabelas Preliminares de impossibilidade jurídica do pedido e prescrição do fundo de direito afastadas - Sentença de improcedência confirmada. Recurso desprovido”. (fl. 312)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação do artigo 7º, V e VI, do texto constitucional.
+    Aponta-se que a convenção coletiva de trabalho, a qual definiu o piso salarial em 2,5 salários mínimos, deixou de observar a extensão e a complexidade do trabalho de determinados cargos.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem consignou o seguinte:
+    “Pelo Contrato Coletivo de Trabalho 1995/1996, celebrado entre a Federação Nacional dos Trabalhadores Ferroviários, os Sindicatos dos Trabalhadores em Empresas Ferroviárias das Zonas Araraquarense, Mogiana, Paulista e Sorocabana, e a Fepasa, ficou assegurado que o piso salarial da referida categoria deveria ser fixado em dois salários mínimos e meio, segundo o disposto na Cláusula nº 4.17, ‘in verbis’: (…)
+    Por seu turno, a Fazenda do Estado de São Paulo assumiu, por força de lei, a responsabilidade pelo pagamento da complementação dos proventos de aposentadoria e pensões devidos aos ferroviários. Nesse sentido o artigo 4º da Lei Estadual nº 9.343 de 22 de fevereiro de 1996, do seguinte teor: (…)”.
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria interpretar cláusulas contidas em convenção coletiva de trabalho. Nesses termos, incidem no caso as Súmulas 280 e 454 do STF.
+    Cito, a propósito, o seguinte julgado:
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Previdenciário. Complementação de aposentadoria. Revisão. Legislação infraconstitucional. Cláusulas de acordo coletivo. Reexame. Impossibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. A discussão acerca da manutenção da proporcionalidade entre os pisos salariais do quadro de empregados da FEPASA não prescinde da análise da legislação infraconstitucional ou do reexame das cláusulas de acordo coletivo de trabalho. Incidência das Súmulas nºs 280, 636 e 454/STF. 3. Agravo regimental não provido”. (grifei) (ARE 890.071-ED/SP, Rel. Min. Dias Toffoli, Segunda Turma, DJe 21.10.2015)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
