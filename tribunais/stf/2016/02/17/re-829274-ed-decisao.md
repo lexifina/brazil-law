@@ -1,0 +1,18 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. ALTERAÇÃO DO PRECEDENTE DA REPERCUSSÃO GERAL. EMBARGOS ACOLHIDOS.
+    1. Em 25.8.2014, neguei seguimento ao recurso extraordinário interposto pelo Conselho Regional de Engenharia e Agronomia do Estado do Rio Grande do Sul – CREA/RS contra julgado da Quinta Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, quanto à decisão sobre a inexigibilidade da cobrança da taxa denominada Anotação de Responsabilidade Técnica (ART) prevista na Lei n. 6.496/1977 e determinei a devolução dos autos à origem para observância do art. 543-B do Código de Processo Civil quanto ao tema da anuidade cobrada pelos Conselhos.
+    2. Publicada essa decisão no DJe de 29.8.2014, o Conselho Regional de Engenharia e Agronomia do Estado do Rio Grande do Sul – CREA/RS opõe, em 1º.9.2014, tempestivamente, embargos de declaração.
+    3. O Embargante afirma que “o acórdão embargado, especificamente a decisão, refere-se à anuidades, matéria estranha ao feito, já que a discussão nos presentes autos exsurge acerca da constitucionalidade da cobrança da Anotação de Responsabilidade Técnica, com base na Lei nº 6.496/77 (já reconhecida a repercussão geral e reafirmado o entendimento do STF), e, também, na Lei nº 6.994/82”.
+    Assevera que “nos presentes autos está em pauta a constitucionalidade e exigibilidade de Anotação de Responsabilidade Técnica, onde se discute o disposto no artigo 2º, parágrafo único, da Lei nº 6.994/82. Dessa forma, verifica-se que o julgamento mencionado no acórdão embargado, qual seja, RE 704.292, é estranho ao feito, haja vista tratar de anuidades e não de ARTs, tema da presente discussão”.
+    E requer, “tendo em vista as contradições da decisão prolatada”,  seja revista “determinando-se a remessa dos autos ao Supremo Tribunal Federal, oportunizando-lhe o julgamento para deliberar se a cobrança das taxas de anotação de responsabilidade técnica, a partir da Lei nº 6.994/82, foram cobradas de maneira exigível”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    4. Opostos os embargos de declaração contra decisão monocrática com alegação apenas dos vícios do art. 535 do Código de Processo Civil, fica dispensada a conversão em agravo regimental para julgamento da Turma, conforme as decisões proferidas nos Recursos Extraordinários ns. 476.109-ED, Relator o Ministro Sepúlveda Pertence, DJ 11.5.2004, e 277.612, Relator o Ministro Carlos Velloso, DJ 12.11.2001.
+    5. Razão jurídica assiste ao Embargante.
+    6. Apesar de a controvérsia em debate não guardar identidade material com o Recurso Extraordinário n. 704.291, identifica-se com a questão que deverá ser analisada, pelo procedimento da repercussão geral, no Recurso Extraordinário n. 838.284-RG:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TRIBUTÁRIO. TAXA PARA EMISSÃO DE ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. LEI Nº 6.994/82. PRINCÍPIO DA RESERVA LEGAL. FIXAÇÃO DE VALOR MÁXIMO. Possui repercussão geral a matéria alusiva à validade da exigência da taxa para expedição da Anotação de Responsabilidade Técnica (ART), baseada na Lei nº 6.994/82 a qual estabeleceu limites máximos para a ART, até o valor de 5 MVR, considerada a exigência do art. 150, I, da Constituição” (Relator o Ministro Dias Toffoli, DJe 8.10.2015).
+    7. Pelo exposto, acolho os embargos de declaração para alterar a indicação do precedente da repercussão geral, mantendo a devolução dos autos à origem para observância do art. 543-B do Código de Processo Civil.
+    À Secretaria para providenciar a imediata baixa dos autos à origem.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
