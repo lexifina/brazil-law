@@ -1,0 +1,15 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pela E. Turma Recursal da Seção Judiciária do Estado do Rio Grande do Norte, está assim ementado:
+    “CONSTITUCIONAL. TUTELA ESPECÍFICA DE OBRIGAÇÃO DE FAZER. DIREITO FUNDAMENTAL À SAÚDE. FORNECIMENTO DE MEDICAMENTO. EFICÁCIA NÃO COMPROVADA. ALTERNATIVA FORNECIDA PELO SUS. RECURSO PROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceito inscrito na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que a E. Turma Recursal da Seção Judiciária do Estado do Rio Grande do Norte, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios, a seguir destacados:
+    “7. Na hipótese em tela, a parte autora é portadora de Doença Pulmonar Obstrutiva Crônica (DPOC) e, nos termos dos documentos médicos apresentados pela parte autora (anexos 3 e 5) , o medicamento SPIRIVA é o recomendado para o seu tratamento. Ocorre que há alternativas eficazes no SUS, não utilizadas ou de eficácia não afastada satisfatoriamente. Nesse sentido, a Nota Técnica 08/2013 da UFMG é muito clara ao destacar que: ‘Não há indicação clínica para preferir o brometo de tiotrópio (SPIRIVA RESPIMAT®) em detrimento do salmoterol, fornecido pelo SUS’.
+    8. Tenho que, existindo tratamento eficaz na rede pública, ainda que não medicamentoso, o fornecimento de produto específico, como o caso, demandaria justificativa concreta, aqui não existente.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, pelas razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2016.
+Ministro CELSO DE MELLO
+Relator
