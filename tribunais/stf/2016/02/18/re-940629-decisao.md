@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR. GRATIFICAÇÃO DE INCENTIVO À EFICIENTIZAÇÃO DOS SERVIÇOS – GIEFS. INCLUSÃO NA BASE DE CÁLCULO DOS QUINQUÊNIOS. EMENDA CONSTITUCIONAL Nº 19/1998. FUNED. RECURSO PARCIALMENTE PROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “REEXAME NECESSÁRIO E APELAÇÃO CÍVEL – DIREITO ADMINISTRATIVO – SERVIDOR PÚBLICO – FUNDAÇÃO EZEQUIEL DIAS (FUNED) – GRATIFICAÇÃO DE INCENTIVO À EFICIENTIZAÇÃO DO SERVIÇO (GIEFS) E ABONO PERMANÊNCIA – INCLUSÃO NA BASE DE CÁLCULO DA GRATIFICAÇÃO NATALINA E DO TERÇO DE FÉRIAS – VERBAS CALCULADAS SOBRE A REMUNERAÇÃO DO SERVIDOR – INCIDENTES DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA – ADICIONAIS POR TEMPO DE SERVIÇO ADQUIRIDOS ANTES DA EC N. 19/98 – POSSIBILIDADE DE INCLUSÃO DA GIEFS – PRESCRIÇÃO BIENAL – INAPLICABILIDADE – PRAZO ESPECIAL QUINQUENAL – ÔNUS SUCUMBENCIAIS – COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS – POSSIBILIDADE – PARTE QUE LITIGA SOB O PÁLIO DA JUSTIÇA GRATUITA – SUSPENSÃO DO PAGAMENTO DAS CUSTAS PROCESSUAIS – ART. 12 DA LEI N. 1.060/50.
+    1. O décimo terceiro salário e o adicional de férias devem ser calculados com base na remuneração do servidor à época do pagamento.
+    2. A Gratificação de Incentivo à Eficientização do Serviço (GIEFS) paga aos servidores da Fundação Ezequiel Dias – FUNED, assim como o abono permanência, compõe a remuneração do servidor, conforme definição doutrinária e jurisprudencial dada ao termo, devendo, como tal, integrar a base de cálculo do décimo terceiro salário e do adicional de férias (terço constitucional). Incidentes de Uniformização de Jurisprudência n. 1.0024.10.115229-6/003 e 1.0024.10.090327-7/002 deste TJMG.
+    3. O art. 112 do ADCT da Carta Mineiro garantiu, aos servidores públicos estaduais, o direito ao cálculo dos quinquênios obtidos anteriormente à EC n. 19/98 sobre o somatório do vencimento básico e das gratificações.
+    4. A GIEFS, por ser considerada inerente ao exercício do cargo, enquadra-se na hipótese prevista na redação original do art. 31 da Constituição Estadual, cuja eficácia foi garantida pela norma constitucional transitória.
+    5. Inaplicabilidade do regramento geral disposto no Código Civil, tendo em vista a existência de disposição específica a reger a prescrição das pretensões em face da Fazenda Pública, qual seja, o Decreto n. 20.910/32.
+    6. Constatada a sucumbência recíproca, devem ser compensados os honorários advocatícios, nos termos do art. 21 do CPC e da Súmula n. 306 do STJ.
+    7. Tendo sido o art. 12 da Lei 1.060/50 recepcionado pela CR/88 (STF, RE 184.841), correta a determinação de suspensão, em relação à postulante, do pagamento das custas processuais.
+    8. Sentença confirmada, em reexame necessário. Primeiro recurso provido em parte. Prejudicado o segundo apoio.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37, XIV, da Constituição Federal. Requer, ao final, “a reforma parcial do v. acórdão recorrido, dando por improcedente o pedido autoral de incidência de GIEFS na base de cálculo de quinquênios”.
+    É o relatório. DECIDO.
+    O recurso merece prosperar em parte.
+    Verifica-se que o acórdão recorrido diverge do entendimento firmado pelo Supremo Tribunal Federal no que diz respeito à alegação de ofensa ao artigo 37, XIV, da Constituição da República.
+    Esta Suprema Corte, ao julgar o RE 563.708-RG, Rel. Min. Cármen Lúcia, DJe de 2/5/2013, consolidou o entendimento de que o adicional por tempo de serviço incide sobre a remuneração do servidor até o advento da Emenda Constitucional nº 19/1998. A partir de então, referida parcela recai sobre o vencimento, tendo em vista a inexistência de direito adquirido a regime jurídico, assegurando-se, contudo, a irredutibilidade de vencimentos. Cito a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À REGIME JURÍDICO. BASE DE CÁLCULO DE VANTAGENS PESSOAIS. EFEITO CASCATA: PROIBIÇÃO CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DOS VENCIMENTOS. PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO”
+    Desse entendimento divergiu o acórdão recorrido, uma vez que considerou que o advento da Emenda Constitucional nº 19/1998 não modificaria a forma de cálculo dos quinquênios da recorrida.
+    Assevere-se, ainda, que no julgamento do RE 563.965-RG, Rel. Min. Cármen Lúcia, esta Corte reconheceu que não há direito adquirido de servidores à forma de cálculo da sua remuneração, assegurada apenas a irredutibilidade dos vencimentos.
+    Nesse sentido: RE 791.444, Rel. Min. Ricardo Lewandowski, DJe de 25/4/2014; RE 796.412, Rel. Min. Teori Zavascki, DJe de 8/8/2014; e RE 775.531, Rel. Min. Marco Aurélio, DJe de 30/10/2013.
+    Ex positis, PROVEJO PARCIALMENTE o recurso extraordinário, com fundamento no disposto no artigo 557, § 1º-A, do Código de Processo Civil, para reformar o acórdão recorrido, reconhecendo que, a partir do advento da Emenda Constitucional nº 19/1998, não há que se falar em direito adquirido da recorrida à inclusão da GIEFS na base de cálculo dos quinquênios, assegurando-se apenas o seu direito à irredutibilidade de vencimentos.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
