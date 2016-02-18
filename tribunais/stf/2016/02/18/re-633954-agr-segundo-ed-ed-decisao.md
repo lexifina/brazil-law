@@ -1,0 +1,11 @@
+Decisão: Trata-se de Petição n. 50.762/2015 na qual o interessado Mario David Prado Sá demonstra inconformismo com o acórdão recorrido que rejeitou os embargos de declaração e aplicou a multa por litigância de má-fé.
+    Verifico que o recurso deve ser prontamente rejeitado, porque deserto.
+    A insurgência em tela deveria fazer-se acompanhar, quando de sua interposição, do necessário preparo, sendo pacífica a jurisprudência desta Corte quanto à necessidade desse pronto recolhimento, concomitantemente à interposição do recurso. Nesse sentido, citem-se os seguintes precedentes, todos do Plenário desta Suprema Corte e tomados por unanimidade de votos:
+    “AGRAVO REGIMENTAL NOS embargos DE DIVERGÊNCIA NOS embargos DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DESERÇÃO. NULIDADE ABSOLUTA. AUSÊNCIA DE PREQUESTIONAMENTO. DECLARAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. 1. O preceito do artigo 511 do Código de Processo Civil, com a redação da Lei n. 8.950/94, que revogou tacitamente o artigo 335, § 3º, do RISTF, impõe ao embargante a comprovação do recolhimento do preparo, no momento da interposição do recurso, sob pena de deserção. Precedentes. 2. A nulidade, ainda que absoluta, não pode ser declarada de ofício por este Tribunal, sendo indispensável o devido prequestionamento. 3. Recurso que possui nítido caráter protelatório. Multa de 1% sobre o valor corrigido da causa. Agravo regimental a que se nega provimento”. (AI nº 547.073 /RJ-AgR-ED-EDv-AgR, Relator o Ministro Eros Grau, DJe de 28/8/2009).
+    “EMBARGOS DE DECLARAÇÃO NOS embargos DE DIVERGÊNCIA NOS embargos DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. embargos DE DIVERGÊNCIA. DESERÇÃO: AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO DO preparo. embargos DE DECLARAÇÃO REJEITADOS. 1. É pacífica a jurisprudência do Supremo Tribunal Federal no sentido de que compete à parte recorrente comprovar o recolhimento do preparo no ato da interposição do recurso. Precedentes. 2. Determinação de baixa imediata dos autos à origem”. (AI nº 754.794/PA-AgR-ED-EDv-ED, Relatora a Ministra Cármen Lúcia, DJe de 20/8/2010).
+    Ante o exposto, não conheço do recurso por incabível.
+    Publique-se.
+    Brasília, 18 de novembro de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
