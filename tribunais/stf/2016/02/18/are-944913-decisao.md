@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPI. PRODUTO INDUSTRIALIZADO IMPORTADO. SAÍDA DO ESTABELECIMENTO DO IMPORTADOR. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS (CTN, LEI Nº 4.502/1964, DECRETO nº 7.212/2010). NÃO CABIMENTO DO RECURSO EXTRAORDINÁRIO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “TRIBUTÁRIO. IMPORTADOR COMERCIANTE. SAÍDA DO PRODUTO DO ESTABELECIMENTO COMERCIAL. AUSÊNCIA DE QUALQUER PROCESSO DE INDUSTRIALIZAÇÃO. IPI. NÃO INCIDÊNCIA.
+    1. A Primeira Seção desta Corte, com o objetivo de dirimir a divergência entre seus órgãos fracionários, na assentada de 11/6/14, ao julgar o ERESp 1.400.759/RS (de minha relatoria, relator para acórdão Ministro Ari Pargendler), firmou a compreensão no sentido de reconhecer a não incidência de IPI sobre a comercialização de produto importado, que não sofre qualquer processo de industrialização, ante a vedação do fenômeno da bitributação.
+    2. Agravo regimental a que se nega provimento.” (pág. 404 do documento eletrônico 1).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 150, II, 153, IV e § 3º, II, e 170, IV, da Constituição Federal, alegando, em síntese, que é constitucional a incidência do IPI sobre a saída de produto industrializado importado do estabelecimento importador, ainda que não tenha ocorrido qualquer processo de industrialização nesse intervalo.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    É que a controvérsia discutida nos autos foi decidida à luz da interpretação de normas infraconstitucionais (CTN, Lei nº 4.502/1964, Decreto nº 7.212/2010). Ocorre que a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário.
+    Adotando esse entendimento em situações semelhante, destaco os seguintes precedentes: RE 815.694-AgR, Rel. Min. Rosa Weber, 1ª Turma, DJe de 18/12/2014, RE 586.496-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 2/3/2011, ADI 2.932, Rel. Min. Eros Grau, DJe de 10/11/2008, RE 804.243, Rel. Min. Marco Aurélio, DJe de 10/6/2014, RE 799.688, Rel. Min. Ricardo Lewandowski, DJe de 29/4/2014, RE 810.531-AgR-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe de 8/4/2015, este último com a seguinte ementa:
+     “Agravo regimental no agravo regimental no recurso extraordinário. Tributário. IPI na importação. Princípio da isonomia. Operação de industrialização. Afronta reflexa. 1. O Tribunal de origem decidiu a controvérsia com base na legislação infraconstitucional (arts. 46, I, II e III; e 51 do Código Tributário Nacional; arts. 4º, I; e 25 da Lei 4.502; e art. 226 do Decreto 7.212/2010), sendo certo que para rever essa decisão, seria necessário analisar a controvérsia à luz da referida legislação. 2. Eventual afronta ao texto constitucional, caso ocorresse, seria meramente reflexa ou indireta. 3. Agravo regimental não provido”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Após o trânsito em julgado desta decisão, retifique-se a autuação dos autos e retornem conclusos para julgamento do recurso extraordinário da JPEX COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA (págs. 236-254 do documento eletrônico 1).
+    Publique-se.
+    Brasília, 18 de fevereiro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
