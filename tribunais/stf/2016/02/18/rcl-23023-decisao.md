@@ -1,0 +1,18 @@
+RECLAMAÇÃO. TRÂNSITO EM JULGADO. SÚMULA Nº 734/STF. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de reclamação ajuizada pela Confederação da Agricultura e Pecuária do Brasil – CNA contra decisão do Tribunal Superior do Trabalho que julgou o recurso de Agravo de Instrumento interposto de decisão que negou seguimento ao Recurso Extraordinário como sendo o do art. 557, § 1º, do Código de Processo Civil.
+    A Reclamante sustenta, de início, que o agravo previsto no artigo 557, § 1º, do CPC, somente tem cabimento em face da decisão do relator, “proferida no âmbito do mesmo Tribunal competente para o julgamento do Recurso interposto, ao qual foi negado seguimento, o que a toda evidência não se aplica a hipótese dos autos”.
+    Assevera, em seguida, que o órgão reclamado deveria ter dado processamento ao recurso de Agravo de Instrumento interposto da decisão que não admitiu o recurso extraordinário, sob pena de afronta aos princípios constitucionais da legalidade e ampla defesa.
+    Alega, também, que, ao contrário do que constou na decisão reclamada, a questão suscitada no Recurso Extraordinário não guarda qualquer relação com o Tema 195, versado no julgamento do AI 743833.
+    Requer, ao final, seja a reclamação julgada procedente para anular a decisão impugnada e determinar o processamento do agravo de instrumento ou, caso não seja esse o entendimento, seja reconhecida a existência de afronta à Constituição Federal e a diferença entre o Tema-195 da Tabela de Repercussão Geral e a matéria questionada no processo nº 0002852-94.2011.5.15.0025.
+    É o relatório. DECIDO.
+    Em consulta ao sítio eletrônico do Tribunal Superior do Trabalho verifica-se que a decisão reclamada transitou em julgado em 18/12/2015.
+    Esta Corte assentou que o cabimento de reclamação contra decisões judiciais pressupõe que o ato decisório, por meio dela impugnado, ainda não tenha transitado em julgado, consoante enunciado da Súmula nº 734 do STF: Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.
+    Nesse sentido:
+    “DECISÃO RECLAMADA QUE TRANSITOU EM JULGADO - OCORRÊNCIA DO FENÔMENO DA RES JUDICATA - INVIABILIDADE DA VIA RECLAMATÓRIA - RECLAMAÇÃO DE QUE NÃO SE CONHECE. A EXISTÊNCIA DE COISA JULGADA IMPEDE A UTILIZAÇÃO DA VIA RECLAMATÓRIA. - Não cabe reclamação, quando a decisão por ela impugnada já transitou em julgado, eis que esse meio de preservação da competência do Supremo Tribunal Federal e de reafirmação da autoridade decisória de seus pronunciamentos - embora revestido de natureza constitucional (CF, art. 102, I, 'e') - não se qualifica como sucedâneo processual da ação rescisória. - A inocorrência do trânsito em julgado da decisão impugnada em sede reclamatória constitui pressuposto negativo de admissibilidade da própria reclamação, que não pode ser utilizada contra ato judicial que se tornou irrecorrível. Precedentes” (Rcl 1.438-QO, Rel. Min. Celso de Mello, Plenário, DJ 22.11.2002).
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE DESCUMPRIMENTO DA DECISÃO DO RECURSO EXTRAORDINÁRIO N. 464.598/RS. EXECUÇÃO DE SENTENÇA. IMPOSSIBILIDADE DE UTILIZAÇÃO DE RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl 5.511-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 12.9.2011).
+    Ex positis, NEGO SEGUIMENTO à presente Reclamação, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
