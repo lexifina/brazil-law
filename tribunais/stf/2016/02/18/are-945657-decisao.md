@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. IPVA. LEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM QUANTIA EXCESSIVA. SENTENÇA REFORMADA EM PARTE. I - O credor fiduciário é parte legítima para figurar no polo passivo da execução fiscal relativa ao IPVA, tendo em vista que tem relação pessoal e direta com a situação que constitui fato gerador do imposto (o credor fiduciário é o proprietário do bem e só o deixa de ser quando do total adimplimento da obrigação de pagar pelo devedor fiduciante), sendo válida a CDA que elenca como devedor também o devedor fiduciante, em razão da solidariedade expressamente prevista no art. 5º da LE nº 14.937/03. II - Em caso de improcedência de embargos à execução, os honorários advocatícios devem ser fixados em valor condizente às peculiaridades do caso, mediante apreciação equitativa do magistrado, considerando-se o disposto nos art. 20, §§ 3º e 4º, do CPC, impondo-se a redução da quantia arbitrada quando o valor é excessivo.” (eDOC 1, p. 273).
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 299-306).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 146, III, “a” e “b”, e 155, III, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, o seguinte:
+    “Sem qualquer amparo na Constituição Federal de 1988, mais especificamente no art. 155, III, da Constituição Federal, o Fisco Mineiro vem, cobrando o IPVA dos credores de financiamento, atribuindo relevo ao fato de serem, eles, formalmente proprietários dos veículos alienados, como que estendendo a responsabilidade pelo pagamento desses tributos às instituições financeiras e equiparadas de modo objetivo” (eDOC 1, p. 333).
+    A Primeira Vice-Presidência do TJMG inadmitiu o recurso extraordinário com base na jurisprudência do STF. (eDOC 361-363)
+    É o relatório.
+    De plano, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional, notadamente a Lei Estadual nº 14.937/2003 e o Código Tributário Nacional, de modo a inviabilizar o processamento do apelo extremo, tendo em conta as Súmulas 279 e 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. RECURSO EXTRAORDINÁRIO – LEI LOCAL. O recurso extraordinário não é meio hábil a ter-se o rejulgamento da lide no que decidida pelas instâncias ordinárias a partir de interpretação emprestada a normas locais.”
+    (AI 745101 AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJE-247 DIVULG 07-12-2015 PUBLIC 09-12-2015)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPVA. Alienação fiduciária. Contribuinte. Necessidade de reexame da legislação ordinária e do contrato. Ofensa constitucional indireta ou reflexa. 1. Para ultrapassar o entendimento do Tribunal a quo, concernente ao enquadramento do credor fiduciário como proprietário do veículo automotor para fins de cobrança de IPVA, seria necessário o reexame da causa à luz da legislação ordinária (Código Civil, Decreto-lei nº 911/69, Lei Estadual nº 14.937/03) e do contrato de alienação fiduciária. 2. A afronta ao texto constitucional, se houvesse, seria reflexa ou indireta, o que não enseja a abertura da via extraordinária. Incidência das Súmulas 279 e 454 da Corte. 3. Agravo regimental não provido.”
+    (ARE 830373 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJE-083 DIVULG 05-05-2015 PUBLIC 06-05-2015)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
