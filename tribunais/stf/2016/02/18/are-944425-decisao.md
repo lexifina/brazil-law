@@ -1,0 +1,14 @@
+Decisão: Trata-se recurso extraordinário com agravo interposto em face do acórdão da 10ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, cuja ementa reproduz-se a seguir:
+    “ICMS. Pretensão ao creditamento integral do ICMS na saída de mercadorias beneficiadas pela redução da base de cálculo do imposto. Redução da base de cálculo que configura isenção parcial, nos termos do art. 155, § 2º, inc. II, “a”, da CF. Inadmissibilidade de creditamento integral e da repetição pleiteada. Inobservância do art. 63, V, do RICMS/91 e art. 40, V, da Lei 6374/89. Inexistência de afronta ao princípio da não cumulatividade. Entendimento pacificado pelo Pleno do Supremo Tribunal Federal. Prazo prescricional de cinco anos, que flui a partir de cada pagamento, sem o creditamento integral pretendido. Sentença que julgou procedente em parte a ação, reconhecida a prescrição quinquenal. Recurso da autora improvido. Recursos oficial e voluntária da Fazenda do Estado providos para julgar improcedente a ação no tocante ao período não prescrito.” (eDOC 19, p. 668).
+    No recurso extraordinário (eDOC 19, p. 677-689), com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao artigo 155, § 2º, I e II, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, o seguinte:
+    “Assim, mostra-se nítido que a pretensão de a recorrida vedar o integral aproveitamento de créditos do ICMS mediante simples Lei Estadual ofende acintosamente o Princípio da Não-Cumulatividade previsto no inciso II do § 2º do art. 155 da Constituição Federal.
+    Verifica-se, portanto, que o conteúdo decisório do v. acórdão recorrido violou de maneira explícita o Princípio da Não-Cumulatividade previsto no art. 155, § 2º, incisos I e II da Constituição Federal (…)” (eDOC 19, p. 688).
+    De plano, verifica-se que a presente matéria se encontra afetada à sistemática da repercussão geral no bojo do Tema 299, cujo recurso-paradigma é o RE-RG 635.688, de relatoria do Ministro Gilmar Mendes, Tribunal Pleno, DJe 13.02.2015, assim ementado:
+    “Recurso Extraordinário. 2. Direito Tributário. ICMS. 3. Não cumulatividade. Interpretação do disposto art. 155, §2º, II, da Constituição Federal. Redução de base de cálculo. Isenção parcial. Anulação proporcional dos créditos relativos às operações anteriores, salvo determinação legal em contrário na legislação estadual. 4. Previsão em convênio (CONFAZ). Natureza autorizativa. Ausência de determinação legal estadual para manutenção integral dos créditos. Anulação proporcional do crédito relativo às operações anteriores. 5. Repercussão geral. 6.Recurso extraordinário não provido.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
