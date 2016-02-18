@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSUAL CIVIL. COMPETÊNCIA. DEMORA NA EXPEDIÇÃO DO DIPLOMA. DANO MORAL. SISTEMA FEDERAL DE ENSINO. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTES. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário manejado com arrimo na alínea a do permissivo constitucional contra acórdão que assentou, verbis:
+    “AGRAVO DE INSTRUMENTO. DECISÃO QUE DECLINOU A COMPETÊNCIA PARA A JUSTIÇA FEDERAL. ALEGAÇÃO QUE INEXISTE INTERESSE DA UNIÃO NO PRESENTE FEITO. DEMANDA QUE CONTÉM PEDIDOS DE NATUREZA INDENIZATÓRIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTE DO STJ. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 109, I, da Constituição Federal.
+    O recurso extraordinário foi admitido pelo Tribunal de origem.
+    É o relatório. DECIDO.
+    Merece provimento o recurso.
+    O acórdão recorrido divergiu da jurisprudência do Supremo Tribunal Federal no sentido de que há interesse da União em causas de demora na expedição de diplomas universitários de entidades particulares integrantes do Sistema Federal de Educação. Nesse sentido:
+    “Agravo regimental no recurso extraordinário. Constitucional. Instituição privada de ensino superior. Demora na expedição do diploma. Sistema Federal de Ensino. Interesse da União. Competência. Justiça Federal. Precedentes. 1. As instituições privadas de ensino integram o Sistema Federal de Ensino e subordinam-se à supervisão pedagógica do Ministério da Educação e da Cultura (MEC), a quem compete a autorização, o reconhecimento e o credenciamento dos cursos superiores por elas ministrados. 2. Haja vista o interesse da União, compete à Justiça Federal o conhecimento e o julgamento de ação proposta em razão da demora na expedição de diploma de conclusão de curso superior em instituição privada de ensino. 3. Agravo regimental não provido.” (RE 687.361-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 11/6/2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. INSTITUIÇÃO DE ENSINO SUPERIOR. SISTEMA FEDERAL DE ENSINO. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO A QUE SE NEGA PROVIMENTO. I - O Plenário desta Corte, ao julgar a ADI 2.501/MG, Rel. Min. Joaquim Barbosa, concluiu que as instituições privadas de ensino superior se sujeitam ao Sistema Federal de Ensino, sendo reguladas pela Lei de Diretrizes e Bases da Educação (Lei 9.394/1996). Precedentes. II – No caso dos autos, a Faculdade Vizinhança Vale do Iguaçu – VIZIVALI integra o Sistema Federal de Educação, o que evidencia o interesse da União no feito – mormente pela sua competência para legislar sobre diretrizes e bases da educação – e a competência da justiça federal para o seu julgamento. Precedentes. III – Agravo regimental a que se nega provimento.” (RE 692456-AgR, Rel. Min. Ricardo Lewandoswski, Segunda Turma, DJe de 6/11/2014).
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 557, § 1º-A, do Código de Processo Civil, para determinar o encaminhamento do feito à Justiça Federal.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
