@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma do Tribunal Regional Federal da 5ª Região, assim fundamentado:
+    “Administrativo. Processual Civil. Art. 543-C, §7º do CPC. REsp 1361900. Modificação do julgado. Atenção ao entendimento do STJ, proferido em sede de recurso repetitivo.
+    1. Julgamento proferido em cumprimento ao disposto no art. 543-C, parágrafo 7º, inciso II, do CPC, para fins de adequação do Acórdão proferido por esta 4ª Turma ao entendimento sedimentado no STJ, no REsp 1361900, submetido ao rito dos ‘Recursos Repetitivos Representativos de Controvérsia - art. 543, do C P C .
+    2. O Superior Tribunal de Justiça, nos autos do REsp nº 1361900, julgado pelo sob a sistemática do recurso representativo de controvérsia, assentou que ‘ O profissional de educação física o qual pretende atuar de forma plena, nas áreas formais e não formais (sem nenhuma restrição, como pretende, o recorrente), deve concluir os cursos de graduação/bacharelado e de licenciatura, já que são distintos, com disciplinas e objetivos particulares. O curso concluído pelo recorrente é de licenciatura e, por isso mesmo, é permitido que ele tão somente atue na educação básica (escolas), sendo-lhe defeso o exercício da profissão na área não formal, porquanto essa hipótese está em desacordo com a formação por ele concluída’.
+    3. Modificação do Acórdão para, reconhecer que o autor não faz jus a atuação de forma plena.
+    4. Apelação provida.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso XIII, e 22, incisos XVI e XXIV, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que para acolher a pretensão recursal e divergir do entendimento firmado pelo Tribunal de origem seria imprescindível analisar a legislação infraconstitucional pertinente (Leis nºs 9.394/96 e 9.696/98), o que é incabível em sede de recurso extraordinário. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Limites de atuação de conselhos profissionais. Alegada existência de substrato constitucional a justificar o acolhimento do recurso. 1. A decisão atacada apreciou, adequada e exaustivamente, as questões em debate nestes autos. Eventuais ofensas se referem ao plano infraconstitucional. Precedentes. 2. Discussão acerca da obrigatoriedade do registro nos quadros do Conselho Regional de Educação Física e da submissão à sua fiscalização, porque dependente da análise de normas infraconstitucionais, pode resultar, no máximo, na conclusão de que houve ofensa reflexa à Constituição Federal. 3. Agravo regimental não provido.” (AI nº 745.424/CE-AgR, Primeira Turma, de minha relatoria, DJe de 24/6/11).
+    Anote-se, por fim, as seguintes decisões monocráticas em casos análogos: ARE nº 915.339/CE, Relator o Ministro Roberto Barroso, DJe de 17/2/16; ARE nº 919.700/PE, Relator o Ministro Gilmar Mendes, DJe de 20/10/15; e RE nº 749.692/SP, Relatora a Ministra Cármen Lúcia, DJe de 31/5/13.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
