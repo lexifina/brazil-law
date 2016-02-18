@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO.  REVISÃO DE BENEFÍCIO. EFEITOS FINANCEIROS. MARCO TEMPORAL. DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. APLICAÇÃO DE PRECEDENTE DESTA CORTE QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. INTERPOSIÇÃO DE AGRAVO. NÃO CABIMENTO. AGRAVO NÃO CONHECIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão proferida pela Presidência das Turmas Recursais de Santa Catarina, que assim dispôs (v. 51, fls. 1-2):
+    “[...] Observo que foram admitidos recursos representativos nos processos nº 50000672420124047205 (RE 777406), 50017839520124047202 (RE 780821) e 50014832720124047205 (RE 780891), nos termos do art. 543-B do CPC. Os recursos foram objeto de apreciação, em que o Supremo Tribunal Federal constatou que o tema objeto da discussão é infraconstitucional. A exemplo, a decisão proferida no RE 780.821:
+    ‘RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. MARCO TEMPORAL DE EFEITOS FINANCEIROS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL.’
+    ‘AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INVIABILIDADE DE RECURSO EXTRAORDINÁRIO COM BASE NA AL. B DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO AO QUAL SE NEGA SEGUIMENTO.’
+    Diante do exposto, julgo prejudicado o recurso extraordinário interposto.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões de apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 2º, 5º, caput, II, XXXV, LIV e LV, 37, 84, IV, 97, 105, III, 194, parágrafo único, III, 195, caput e § 5º, e 201, caput e § 1º, da Constituição Federal, bem como à Súmula Vinculante nº 10 do STF.
+    É o relatório. DECIDO.
+    O recurso de agravo, previsto no artigo 544 do CPC, é inadmissível contra decisão que aplica a sistemática da repercussão geral ao analisar a admissibilidade do recurso extraordinário. Nesse sentido, o AI 760.358-QO, Rel. Min. Gilmar Mendes, que porta a seguinte ementa:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.”
+    Destaco, por fim, que a competência para a aplicação da sistemática da repercussão geral é dos Tribunais de origem.
+    Ex positis, NÃO CONHEÇO o agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
