@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, caput, e 37, I e II, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXAME PSICOTÉCNICO. CONCURSO PÚBLICO. NECESSIDADE DE CRITÉRIOS OBJETIVOS. REEXAME DE PROVAS E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que o exame psicotécnico pode ser estabelecido para concurso público desde que por lei, tendo por base critérios objetivos de reconhecido caráter científico, devendo existir, inclusive, a possibilidade de reexame. Precedentes. 2. Reexame de fatos e provas e de clausulas editalícias. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 473.719-AgR/DF, Rel. Min. Eros Grau, 2ª Turma, DJe 01.8.2008).
+    “AGRAVO REGIMENTAL EM AGRAVO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. 1. A análise da legislação infraconstitucional bem como o reexame dos fatos e provas constantes dos autos são providências incompatíveis com a via recursal extraordinária. 2. Agravo regimental desprovido” (ARE 655.157-AgR, Rel. Min. Ayres Britto, 2ª Turma, DJe 20.3.2012).
+    Divergir da conclusão da Corte a quo exigiria a reelaboração da moldura fática delineada no acórdão recorrido, bem como o reexame da interpretação conferida pelo Tribunal de origem a cláusulas editalícias, procedimentos vedados em sede extraordinária, nos termos das Súmulas 279 e 454/STF: “Para simples reexame de prova não cabe recurso extraordinário.” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.”
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E CONSTITUCIONAL. 1. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. ACÓRDÃO FUNDAMENTADO NO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2. POSSIBILIDADE DO CONTROLE JUDICIAL DOS ATOS ADMINISTRATIVOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 694931-AgR/DF, Rel. Min. Cármne Lúcia, 2ª Turma, DJe 26.9.2012).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de fevereiro de 2016.
+Ministra Rosa Weber
+Relatora
