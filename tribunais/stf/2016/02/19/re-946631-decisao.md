@@ -1,0 +1,12 @@
+Decisão: Trata-se recurso extraordinário com agravo interposto em face do acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa reproduz-se a seguir:
+    “TRIBUTÁRIO. INGRESSO E MANUTENÇÃO NO SIMPLES NACIONAL. REGULARIDADE FISCAL. ART. 17, V, DA LEI COMPLEMENTAR Nº 123, DE 2006.
+    1. A Corte Especial deste Regional afirmou a constitucionalidade do art. 17, inciso V, da LC 123/2006.
+    2. A exclusão da empresa do Simples Nacional pelo fato de ter realizado pagamento de débito fora do prazo legal atenta ao princípio da razoabilidade, devendo ser garantida sua reintegração no programa, já que a contribuinte se encontra em situação fiscal regularizada.” (eDOC 5, p. 1).
+    De plano, verifica-se que a matéria controversa já se encontra submetida à sistemática da repercussão geral no bojo do Tema 856, cujo recurso-paradigma é o ARE-RG 914.045, de minha relatoria, DJe 19.11.2015, assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO TRIBUTÁRIO E DIREITO PROCESSUAL CIVIL. CLÁUSULA DA RESERVA DE PLENÁRIO. ART. 97 DA CONSTITUIÇÃO FEDERAL. JURISPRUDÊNCIA DO TRIBUNAL PLENO DO STF. RESTRIÇÕES IMPOSTAS PELO ESTADO. LIVRE EXERCÍCIO DA ATIVIDADE ECONÔMICA OU PROFISSIONAL. MEIO DE COBRANÇA INDIRETA DE TRIBUTOS. 1. A jurisprudência pacífica desta Corte, agora reafirmada em sede de repercussão geral, entende que é desnecessária a submissão de demanda judicial à regra da reserva de plenário na hipótese em que a decisão judicial estiver fundada em jurisprudência do Plenário do Supremo Tribunal Federal ou em Súmula deste Tribunal, nos termos dos arts. 97 da Constituição Federal, e 481, parágrafo único, do CPC. 2. O Supremo Tribunal Federal tem reiteradamente entendido que é inconstitucional restrição imposta pelo Estado ao livre exercício de atividade econômica ou profissional, quanto aquelas forem utilizadas como meio de cobrança indireta de tributos. 3. Agravo nos próprios autos conhecido para negar seguimento ao recurso extraordinário, reconhecida a inconstitucionalidade, incidental e com os efeitos da repercussão geral, do inciso III do §1º do artigo 219 da Lei 6.763/75 do Estado de Minas Gerais.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 19 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
