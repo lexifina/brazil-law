@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “AÇÃO CIVIL PÚBLICA - VALORES DEVIDOS - AUSÊNCIA DE PREJUÍZO AO ERÁRIO PÚBLICO - IMPROBIDADE – INOCORRÊNCIA. Consoante o disposto no art. 5º da Lei n° 8.429/92, para haver ato de improbidade administrativa, é necessário ocorrer lesão ao patrimônio público, por ação ou omissão, dolosa ou culposa de agente ou de terceiro. Assim, o pagamento de valores devidos e reconhecidos judicialmente, ainda que feitos antecipadamente, não configuram ato de improbidade, se não se demonstrar cabalmente o enriquecimento ilícito com prejuízo ao erário, e dolo ou culpa por parte do agente ou do terceiro no tocante a moralidade, que, no caso, é o bem jurídico tutelado pela Lei n° 8.429/92.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 5º, LIV; 37, II, IX e §4º; e 93, IX, da Constituição Federal.
+    O recurso é inadmissível. De início, note-se que o Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Quanto à alegada violação ao art. 93, IX, da Constituição, o Supremo Tribunal Federal já reconheceu a repercussão geral da matéria e assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG/PE, julgado sob a relatoria do ministro Gilmar Mendes).
+    Por fim, para dissentir da conclusão do Tribunal de origem acerca da não caracterização do ato de improbidade administrativa, seria necessário o reexame do conjunto fático-probatório dos autos, assim como a análise da legislação infraconstitucional aplicável à hipótese, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF. Nessa linha, os seguintes julgados:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPROBIDADE ADMINISTRATIVA. IRREGULARIDADE EM CONTRATAÇÕES. SÚMULAS 279 E 280/STF. PRECEDENTES.
+    A resolução da controvérsia demandaria a análise da legislação local e o reexame dos fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência das Súmulas 279 e 280/STF. Precedentes.
+    Agravo regimental a que se nega provimento.” (AI 612.576-AgR, julgado sob minha relatoria)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 806.641-AgR, Rel.ª Min.ª Cármen Lúcia)
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 19 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
