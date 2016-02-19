@@ -1,0 +1,25 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Maria Cláudia de Seixas e outro em favor de Antônio José Zamproni, contra decisão monocrática da lavra do Ministro Moura Ribeiro, do Superior Tribunal de Justiça, que indeferiu a liminar no RHC 50.981/SP.
+    O Juízo de Direito da 4ª Vara Federal da Subseção Judiciária de Ribeirão Preto/SP decretou a prisão preventiva do paciente, pela suposta prática dos crimes de formação de quadrilha, corrupção ativa e passiva, uso de documento público ideologicamente falso, descaminho, evasão de divisas e lavagem e ocultação de valores, no exercício da administração da sociedade empresária Smar Equipamentos Industriais LTDA.
+    Após o indeferimento do pedido de revogação da custódia cautelar, a Defesa impetrou habeas corpus perante o Tribunal Regional Federal da 3ª Região, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Moura Ribeiro, indeferiu a liminar.
+    Nesse writ, os Impetrantes pugnam pelo afastamento da Súmula 691/STF. Para tanto, sustentam a ilegalidade da prisão preventiva, porquanto ausentes seus pressupostos autorizadores. Alegam a existência de circunstâncias favoráveis ao paciente, como primariedade e residência fixa. Asseveram a impossibilidade de sobre o paciente haver registros de maus antecedentes e/ou reiteração criminosa, ante a falta de trânsito em julgado das duas ações penais a que responde. Argumentam a inexistência de risco à ordem social ou econômica, devido à desvinculação do paciente da empresa Smar Equipamentos Industriais desde 2005. Requer, em medida liminar e no mérito, a revogação da prisão preventiva do paciente, com expedição do competente alvará de soltura, e, sucessivamente, a aplicação de outra medida cautelar diversa da prisão (art. 319 do CPP).
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    Decido o pedido liminar.
+    Verifico do acórdão recorrido que a prisão preventiva foi conservada pela reiteração criminosa, "inclusive, por práticas criminosas recentes, as quais refletem de forma direta na ordem econômica, nas relações de consumo e na livre concorrência", e porque "conforme amplamente já destacado, a habitualidade delitiva asseverada pela acusação vem se perpetrando há muitos anos, consolidando-se em dívida tributária na casa de aproximadamente dois bilhões de reais, sendo, assim, concreto o perigo à ordem econômica caso os pacientes sejam mantidos soltos", o que justifica, por ora, a ordem de custódia.
+    Do exposto, indefiro a liminar.
+    Solicitem-se informações ao Juízo de primeiro grau”.
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    A compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 125.783/BA, de minha relatoria, 1ª Turma, DJe 27.3.2015; HC 124.052/PR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 24.11.2014; e HC 120.274/ES, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 20.6.2014.
+    Acresço que, na espécie, o indeferimento da liminar, no STJ, ocorreu no bojo de um recurso ordinário em habeas corpus, hipótese em que, se de decisão definitiva se tratasse, tem entendido a Primeira Turma que inadequada a via eleita por inadmissível o habeas corpus substitutivo de recurso extraordinário (HC 110.055/MG, Rel. Min. Marco Aurélio, DJe 09.11.2012 e do HC 114.519/DF, Rel. Min. Dias Toffoli, DJe 12.4.2013).
+    De todo modo, não detecto a ocorrência de situação autorizadora da concessão da ordem de habeas corpus de ofício.
+    À míngua de pronunciamento judicial pela instância anterior quanto a matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 108.778/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 09.8.2011; HC 104.167/SP, rel. Min. Dias Toffoli, 1ª Turma, DJe 3.5.2011; HC 105.501, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.4.2011; e HC 90.902/RS, Rel. Min. Marco Aurélio, 1ª Turma, DJe 22.6.2007.
+    Ao indeferir a liminar pleiteada, o Superior Tribunal de Justiça não vislumbrou presentes os requisitos ensejadores da imediata soltura do paciente, reservando a definição da matéria ao pronunciamento do colegiado, após a prestação das informações solicitadas.
+    Dessa forma, dar trânsito ao writ significaria duplicar a instrução, que já está sendo realizada pelo Superior Tribunal de Justiça, e apreciá-lo no mérito implicaria suprimir instância.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de fevereiro de 2016.
+Ministra Rosa Weber
+Relatora
