@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo interposto na origem contra decisão proferida pelo Tribunal de Justiça do Estado do Paraná que aplicou o entendimento fixado no julgamento do RE 592.377-RG, Redator para acórdão o Min. Teori Zavascki, Plenário, Dje 20.3.2015, em cumprimento à decisão de minha lavra que determinou a observância do disposto no art. 543-B do Código de Processo Civil.
+    Decido.
+    O recurso não merece prosperar.
+    O Plenário deste Tribunal decidiu não ser cabível recurso para o Supremo Tribunal Federal contra a aplicação do procedimento da repercussão geral nas instâncias de origem. Transcrevo a ementa do AIQO 760.358, de minha relatoria, DJe 18.2.2010:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ao exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado na Suprema Corte ao julgar o mérito das matérias com repercussão Geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”
+    Por fim, ressalto que esta Corte não tem “a missão de resolver todos os detalhes subsidiários ou sucessivos da lide, especialmente quando têm nítida estatura infraconstitucional. Ademais, o mecanismo da repercussão geral perderia toda a sua efetividade se fosse necessário examinar esses pontos para que a análise de matéria sujeita a tal procedimento tivesse alcance amplo e geral” (Informativo 599 STF).
+    Ante o exposto, não conheço do presente, por incabível.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
