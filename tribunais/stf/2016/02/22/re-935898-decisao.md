@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Fundação Nacional do Índio – FUNAI. Aparelhado o recurso na violação dos arts. 40, § 8º, da Lei Maior, 7º da Emenda Constitucional 41/2003 e 2º da Emenda Constitucional 47/2005.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que cabível a extensão, a inativos, de gratificação concedida de forma genérica a servidores em atividade, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE INDIGENISTA – GDAIN. EXTENSÃO AOS INATIVOS. POSSIBILIDADE. PRECEDENTES. NATUREZA DA GRATIFICAÇÃO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.” (RE 919059, Rel. Min. CÁRMEN LÚCIA, DJe 12.02.2016)
+    "GRATIFICAÇÃO DE DESEMPENHO DO PLANO GERAL DE CARGOS DO PODER EXECUTIVO – GDPGPE – LEI Nº 11.357/06. Homenageia o tratamento igualitário decisão que, até a avaliação dos servidores em atividade, implica a observância da mesma pontuação – 80 – no tocante a inativos e pensionistas.” (RE 631389, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, DJe-03-06-2014)
+    "Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA - instituída pela L. 10.404/2002: extensão a inativos: pontuação variável conforme a sucessão de leis regentes da vantagem. RE conhecido e provido, em parte, para que a GDATA seja deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e nos termos do art. 5º, parágrafo único, da L. 10.404/2002, para o período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o art. 1º da MPv. 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.” (RE 476.279, Relator(a): Min. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJe 15-06-2007) .
+    “Recurso extraordinário. 2. Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA. Pontuação de acordo com desempenho. 3. Servidores Inativos. Pontuação pela regra de transição. Artigo 6o da Lei no 10.404/02. 4. Recurso extraordinário a que se dá parcial provimento. (RE 476390, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, DJe 29-06-2007) .
+    Outrossim, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF “Para simples reexame de prova não cabe recurso extraordinário.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2016.
+Ministra Rosa Weber
+Relatora
