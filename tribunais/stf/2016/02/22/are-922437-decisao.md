@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado, no que interessa:
+    “AÇÃO DECLARATÓRIA - Revisão de prestações e saldo devedor -Sistema Financeiro da Habitação. (...) 6. Exclusão da cobrança mensal da comissão de concessão de crédito, face à abusividade de tal encargo utilizado com a mesma finalidade dos juros remuneratórios. Cobrança que só se justifica se ocorrer uma única vez e apenas no início da contratação. Mantém-se, porém o percentual pactuado, diante do princípio do pacta sunt servanda. Recurso parcialmente provido, para esse fim, por maioria”. (eDOC 7, p. 32).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 5º, XXXVI, do texto constitucional.
+    Nas razões recursais, sustenta-se afronta ao princípio do ato jurídico perfeito, pois a comissão de concessão de crédito seria parcela remuneratória do capital, complementando a taxa de juros, mas não taxa por serviços administrativos.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie – a Lei nº 4.864/65 e o Código de Defesa do Consumidor – e o conjunto probatório constante dos autos, e interpretar as cláusulas do contrato entre as partes, consignou que a comissão de concessão de crédito seria inacumulável com a taxa de juros. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Eis que se tratando de valor devido em virtude de um único financiamento, não se justificam as reiteradas cobranças mensais (Cláusula terceira - fl. 39).
+    Como próprio nome diz trata-se de uma comissão para compensar o crédito disponibilizado/concedido; logo ocorrendo o seu pagamento uma única vez no início da contratação a finalidade perquirida com aludida cobrança é alcançada.
+    Contudo, depreende-se que o banco-apelado não se utilizou desta comissão para compensar um crédito disponibilizado, mas sim para fazer parte integrante dos juros remuneratórios da contratação, sob outra denominação, como bem observou o Sr. Perito (...)
+    Assim, a cláusula em comento mostra-se abusiva, por não ser redigida de forma clara (art. 54, § 3o do CDC) e por ferir a boa-fé objetiva, já que ausente fundamento jurídico para a incidência de dois encargos com a mesma finalidade”. (eDOC 7, p. 38)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO CIVIL. CONTRATO DE MÚTUO. SISTEMA FINANCEIRO DE HABITAÇÃO. SALDO DEVEDOR. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. ÓBICE DA SÚMULA 454/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 20.6.2013. A análise da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demandaria a interpretação da legislação infraconstitucional aplicável à espécie e das cláusulas contratuais, o que é vedado a esta instância extraordinária. Aplicação do óbice da Súmula 454/STF. Precedentes. Agravo regimental conhecido e não provido”. (ARE 775339 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 20.11.2013)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 454 DO STF. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie e o revolvimento de cláusulas contratuais. Providências vedadas na instância extraordinária. 2. Agravo regimental desprovido”. (RE 575575 AgR, rel. Min. Ayres Britto, Segunda Turma, DJe 19.4.2011)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, b, do CPC).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
