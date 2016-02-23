@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO CIVIL E TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. DECLARAÇÃO DE IMPOSTO DE RENDA. ERRO DE LANÇAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra decisão da Turma Recursal que manteve a sentença que assentou, verbis:
+    “(...) Conforme documentação trazida aos autos, a autora sofreu notificação fiscal de lançamento (NFLD nº 2008/312653528106848), em decorrência de dedução indevida de despesas médicas, no valor de R$ 22.751,59, levando à glosa do referido valor (doc. NOT4 do ev. 1).
+    A autora diz em razão da notificação, em sua defesa, apresentou declaração retificadora, alegando que houve erro na declaração, uma vez que as despesas médicas deveriam ter sido declaradas como livro-caixa.
+    Ocorre que, conforme referido pela autoridade fiscal na decisão administrativa (p. 3 do doc. NOT4 do ev. 1), após iniciado o procedimento de fiscalização, não mais cabe a retificação da declaração.
+    Neste sentido são as Informações Gerais acerca da Retificação da Declaração do Imposto de Renda Pessoa Física (DIRPF), disponíveis no site da Receita Federal, esclarecendo ser possível a retificação da declaração (...), referindo ser possível a retificação da declaração após o período de entrega da declaração, no prazo máximo de cinco anos e desde que a declaração não esteja sob procedimento de fiscalização.
+    Após o processo administrativo, a autora não pode, portanto, alterar a forma de dedução das despesas por meio de livro-caixa, cujo uso pressupõe ter sido feito carnê-leão na época própria, o que não o foi.
+    Além disso, a autora não comprovou nestes autos as despesas médicas a afastar a glosa efetuada pelo Fisco, ônus que lhe incumbia (inc. I do art. 333 do CPC).”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XXXV, da Constituição Federal. Sustenta que a decisão recorrida excluiu “a chance da recorrente ter seu direito apreciado pelo Poder Judiciário”.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    A alegação de ofensa ao artigo 5°, XXXV, da Constituição, não merece prosperar, tendo em vista que da análise dos autos é possível observar que a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, embora contrárias aos seus interesses. Assim, não resta caracterizada a negativa de prestação jurisdicional. Nesse sentido, ARE 740.877-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013, o qual possui a seguinte ementa:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Alegação de ausência de prestação jurisdicional. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Precedente: AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 4. Afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, configura ofensa reflexa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. 5. Alegação de ofensa ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
