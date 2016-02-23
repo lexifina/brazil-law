@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido liminar, em que se impugna o trâmite na Justiça do Trabalho de ação proposta por ex-agente pública em face do Município de Canapi/AL. Alega-se violação da autoridade do julgado do STF na ADI 3.395-MC, uma vez que o processo de origem teria por objeto a análise de vinculo de natureza jurídico-administrativa firmado entre o Município e a requerente naqueles autos.
+    É o relatório. Decido o pedido liminar.
+    Ao julgar a ADI 3.395-MC, este Tribunal deferiu a medida cautelar para suspender toda e qualquer interpretação dada ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua, na competência da Justiça do Trabalho, a apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+    As circunstâncias do caso, no entanto, não permitem, ao menos em exame liminar, a aplicação desta orientação. Isso porque, conforme informado pelo Município de Canapi, a requerente nos autos de origem foi contratada, sem concurso público, sob o regime da CLT, tendo o seu vínculo sido transposto para o regime estatutário por força da Lei Municipal nº 21/2005. O Plenário desta Corte, apreciando casos análogos, entendeu que não haveria estrita identidade com a ADI 3.395-MC. Confira-se:
+    “Agravo regimental na reclamação. ADI nº 3.395/DF-MC. Inexistência de identidade de temas entre o ato reclamado e o paradigma da Corte. Agravo regimental ao qual se nega provimento. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88). 2. Há necessidade de aderência estrita do objeto do ato reclamado ao conteúdo da decisão do STF dotada de efeito vinculante e eficácia erga omnes para que seja admitida a reclamatória constitucional. 3. Agravo regimental não provido.” (Rcl 15.719 AgR, Rel. Min. Dias Toffoli; Rcl 10.919, Rel. Min. Dias Toffoli)
+    Diante do exposto, indefiro a medida liminar, sem prejuízo de melhor exame quando da decisão final.
+    Notifique-se a autoridade reclamada para que preste informações (Lei nº 8.038/1990, art. 14, I). Na sequência, abra-se vista à Procuradoria-Geral da República (Lei nº 8.038/1990, art. 16).
+    Publique-se. Intimem-se.
+          Brasília, 23 de fevereiro de 2016.
+Ministro LUÍS ROBERTO BARROSO
+Relator
