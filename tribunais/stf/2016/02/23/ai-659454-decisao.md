@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PREVIDENCIÁRIO – REVISÃO DE BENEFÍCIO – CÁLCULO PELA MÉDIA DOS 36 ÚLTIMOS SALÁRIOS DE CONTRIBUIÇÃO – APLICAÇÃO DO ARTIGO 202 DA C.F – ARTIGO 58 DO ADCT. HONORÁRIOS ADVOCATÍCIOS. DESPESAS PROCESSUAIS.
+    - O cálculo da renda mensal inicial das aposentadorias concedidas após o advento da Constituição Federal de 1988 deve ter por base os 36 últimos salários de contribuição, devidamente corrigidos mês a mês, sem o critério de menor e maior valor teto.
+    - A atualização monetária a incidir nesses casos far-se-á pelos critérios fixados pelas Leis ns. 6.423/77, 8.213/91, 8.542/92, 8.880/94, MP nº 1079/95, reedições posteriores e demais legislação pertinente, de acordo com o período em que foram considerados os respectivos salários de contribuição.
+    - A regra do artigo 58 do ADCT teve por fim restabelecer o valor dos benefícios previdenciários, de molde a mantê-los em correspondência ao número de salários mínimos da época de sua concessão, sendo que a sua incidência perdurou até a implantação do plano de custeio de benefícios, face o próprio comando constitucional assim o estabelecer.
+    - Os honorários advocatícios são fixados em 15% sobre o valor da condenação, dado o preceituado no artigo 20, §§ 3º e 4º, do Código de Processo Civil e conforme orientação uniforme das Turmas componentes da 1ª Seção deste Tribunal.
+    - Sendo o autor beneficiário da justiça gratuita, indevido é o reembolso das despesas processuais, face não ter ocorrido qualquer dispêndio neste particular.
+    - Recurso do INSS e remessa oficial a que se nega provimento.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte agravante alega que os arts. 201 e 202 da Constituição não são autoaplicáveis.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que a questão está restrita ao âmbito infraconstitucional.
+    O recurso extraordinário deve ser provido. É que o acórdão recorrido não se alinha com a orientação pacífica deste Tribunal no sentido de que os artigos 201, §§ 2º [§ 4º na redação dada pela EC 20/98] e 3º, e 202 da Constituição do Brasil não são autoaplicáveis, pois necessitam de integração legislativa que só foi implementada com a edição das Leis nºs 8.212/91 e 8.213/91. Nesse sentido, o RE 193.456, Redator para o acórdão o Ministro Maurício Corrêa, Plenário.
+    Vejam-se, ainda, as seguintes ementas:
+    “Agravo regimental em agravo de instrumento. 2. Benefício previdenciário. Cálculo da renda mensal inicial. Proventos de aposentadoria. Calculados com base na legislação vigente ao tempo da reunião dos requisitos. Art. 202 da CF. Não auto-aplicabilidade. Precedentes. 3. Agravo regimental a que se nega provimento”. (AI 608.590-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma)
+    “1. Embargos de declaração convertidos em agravo regimental. 2. Benefício previdenciário: recálculo da renda mensal inicial. CF, art. 202, caput: eficácia. Ao decidir pela constitucionalidade do par. único do art. 144 da L. 8.213/91 (RE 193.456, Pleno, red. Maurício Corrêa, DJ 7.11.97), o Supremo Tribunal partiu de que a norma do art. 202, caput, da Constituição, dependia de regulamentação. 3. Benefício previdenciário: limitação do valor dos salários de benefícios ao teto dos respectivos salários de contribuição, nos termos da L. 8.213/91: é da jurisprudência do Supremo Tribunal que cabe ao legislador ordinário definir os critérios necessários ao cumprimento do disposto na norma constitucional.” (RE 489.207-ED, Relator o Ministro Sepúlveda Pertence, Primeira Turma)
+    Diante do exposto, com base no art. 557, § 1º-A, do CPC e no art. 21, § 1º, do RI/STF, dou provimento ao recurso extraordinário. Ficam invertidos os ônus de sucumbência.
+    Publique-se.
+          Brasília, 23 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
