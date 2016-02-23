@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO. REMESSA POSTAL INTERNACIONAL. ISENÇÃO. REQUISITOS. DECRETO-LEI Nº 1.804/1980 E PORTARIA Nº 156/1999 DO MINISTÉRIO DA FAZENDA. CONTROVÉRSIA A RESPEITO DA HARMONIA DE ATO REGULAMENTAR INFRALEGAL EM FACE DA LEI QUE LHE DÁ FUNDAMENTO DE VALIDADE. CRISE DE LEGALIDADE. QUESTÃO INFRACONSTITUCIONAL. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO. REMESSA POSTAL INTERNACIONAL. DECRETO Nº. 1.804/80. PORTARIA MF Nº. 156/99. ISENÇÃO. REMETENTE PESSOA FÍSICA. REQUISITO ILEGAL.”
+    Nas razões do apelo extremo, a União sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 2º; 150, § 6º; 153, I e § 1º; e 237 da Constituição Federal.
+    O Juízo a quo negou seguimento ao recurso extraordinário, por entender que a análise da matéria demandaria a interpretação de normas infraconstitucionais.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    In casu, o Juízo a quo entendeu que a Portaria nº 156/1999 do Ministério da Fazenda, ao limitar a isenção do imposto de importação, no caso de remessas postais internacionais de bens no valor de até US$ 50,00 (cinquenta dólares dos Estados Unidos da América) ou o equivalente em outra moeda, às hipóteses em que o remetente e o destinatário sejam pessoas físicas, teria extrapolado o poder regulamentar, pois tal condicionante não consta do Decreto-Lei nº 1.804/1980, que somente exige que o destinatário seja pessoa física.
+    Esta Corte firmou orientação no sentido de que a controvérsia a respeito da harmonia de um ato regulamentar infraconstitucional em face da lei que lhe dá fundamento de validade não caracteriza um problema de constitucionalidade, mas sim de legalidade, sendo incabível sua análise em recurso extraordinário, o qual só admite o exame de ofensa direta à Constituição Federal. Confira-se:
+    “ADIN - SISTEMA NACIONAL DE DEFESA DO CONSUMIDOR (SNDC) - DECRETO FEDERAL N. 861/93 - CONFLITO DE LEGALIDADE - LIMITES DO PODER REGULAMENTAR - AÇÃO DIRETA NÃO CONHECIDA.
+    - Se a interpretação administrativa da lei, que vier a consubstanciar-se em decreto executivo, divergir do sentido e do conteúdo da norma legal que o ato secundário pretendeu regulamentar, quer porque tenha este se projetado ultra legem, quer porque tenha permanecido citra legem, quer, ainda, porque tenha investido contra legem, a questão caracterizará, sempre, típica crise de legalidade, e não de inconstitucionalidade, a inviabilizar, em conseqüência, a utilização do mecanismo processual da fiscalização normativa abstrata.
+    - O eventual extravasamento, pelo ato regulamentar, dos limites a que materialmente deve estar adstrito poderá configurar insubordinação executiva aos comandos da lei. Mesmo que, a partir desse vício jurídico, se possa vislumbrar, num desdobramento ulterior, uma potencial violação da Carta Magna, ainda assim estar-se-á em face de uma situação de inconstitucionalidade reflexa ou oblíqua, cuja apreciação não se revela possível em sede jurisdicional concentrada.” (ADI 996-MC, Rel. Min. Celso de Mello, Plenário, DJ de 6.5.1994)
+    No mesmo sentido, tratando de hipótese idêntica à dos autos, colaciono os seguintes julgados: ARE 926.380, Rel. Min. Dias Toffoli, julgado em 29/12/2015; ARE 929.788, Rel. Min. Edson Fachin, DJe de 04/12/2015; ARE 916.385, Rel. Min. Roberto Barroso, DJe de 20/11/2015; e ARE 909.102, Rel. Min. Cármen Lúcia, DJe de 22/9/2015.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
