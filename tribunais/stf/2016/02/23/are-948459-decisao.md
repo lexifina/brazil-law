@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. EXONERAÇÃO. PRESCRIÇÃO QUINQUENAL. SUBMISSÃO. ART. 1º DO DECRETO 20.910/1932. PREQUESTIONAMENTO.
+    A jurisprudência desta Corte é pacífica no sentido de que as ações de reintegração de servidor público exonerado obedecem à prescrição quinquenal (art. 1º do Decreto 20.910/1932), cujo termo inicial é a data do ato de exclusão.
+    A regra prescricional não se altera se o ato de exclusão for considerado nulo.
+    Não há necessidade de o julgador mencionar os dispositivos legais e constitucionais em que fundamenta sua decisão, tampouco os citados pelas partes, pois o enfrentamento da matéria através do julgamento feito pelo Tribunal justifica o conhecimento de eventual recurso pelos Tribunais Superiores (STJ, EREsp 155.621-SP, Corte Especial, Rel. Min. Sálvio de Figueiredo Teixeira, DJ de 13-09-99)”.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, I, II, III, XXXV, LIV e LV, 41, § 1º, do texto constitucional.
+    Nas razões recursais, alega-se cerceamento de defesa e nulidade do ato de exoneração.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie art. 1º do Decreto 20.910/1932 e o conjunto probatório constante dos autos, consignou que “a pretensão do autor acha-se fulminada pela prescrição quinquenal”. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “(…) em se tratando de desconstituição do ato administrativo que demitiu o autor dos quadros da ré de forma supostamente nula, não existe causa de interrupção da prescrição (ainda que eventualmente nulo o ato), que atinge o próprio fundo de direito. Assim, publicada a Portaria veiculando o ato de demissão em 18 de setembro de 2003 (evento6 – PROCADM2- fl. 81), a presente ação poderia ser posta até 18 de setembro de 2008, porém o ajuizamento ocorreu em data bem posterior, aos 26 de setembro de 2012, às 18hs43min, como se vê no Evento 1, quando já fulminada pela prescrição.”
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. EX-POLICIAL MILITAR. PENA DISCIPLINAR. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 279/STF. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que as violações aos preceitos constitucionais consagradores dos princípios da legalidade, do devido processo legal, do contraditório e da ampla defesa demandam, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie. Precedentes. 2. Hipótese em que, para dissentir do entendimento do Tribunal de origem, seriam imprescindíveis nova apreciação dos fatos e do material probatório constantes dos autos, bem como análise das normas infraconstitucionais pertinentes, providências que não têm lugar neste momento processual. A hipótese atrai a incidência da Súmula 279/STF. 3. Agravo regimental a que se nega provimento.”
+(ARE 664949 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 22/09/2015, PROCESSO ELETRÔNICO DJe-202 DIVULG 07-10-2015 PUBLIC 08-10-2015)
+          “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO DE INDENIZAÇÃO. PRESCRIÇÃO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 279/STF. 1. Hipótese em que, para dissentir da conclusão firmada pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso e reexaminar os fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes. 2. Agravo regimental a que se nega provimento.”
+(ARE 852134 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 22/09/2015, PROCESSO ELETRÔNICO DJe-202 DIVULG 07-10-2015 PUBLIC 08-10-2015)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 23 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
