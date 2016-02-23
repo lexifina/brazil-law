@@ -1,0 +1,21 @@
+Decisão: Trata-se agravo cujo objeto é decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Minas gerais, cuja ementa reproduz-se a seguir:
+    “CONSTITUCIONAL. TRIBUTÁRIO. PRODUTOS INTEGRANTES DA CESTA BÁSICA. EXECUÇÃO FISCAL. EMBARGOS. ICMS. NÃO-CUMULATIVIDADE. REDUÇÃO DE ALÍQUOTA. ISENÇÃO PARCIAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. CONVÊNIO ICMS 128/94.
+    O plenário do Supremo Tribunal Federal confirmou, no julgamento do RE 174478, precedentes da Corte que consideram que a redução de base de cálculo de ICMS equivale à isenção parcial.
+    O convênio ICMS nº 128/94 apenas autorizou os Estados e o Distrito Federal a não exigir a anulação proporcional dos créditos relativos às operações com produtos da cesta básica beneficiadas com redução da base de cálculo.
+    A concessão de benefícios fiscais relativos ao ICMS pressupõe não apenas autorização por meio de convênio celebrado entre os Estados e o Distrito Federal no âmbito da CONFAZ, como, também, a edição de lei em sentido formal por cada uma daqueles entes (art. 150, § 6º c/c art. 155, § 2º, XII, da CF/88. Precedentes: ADI 1.274-MC (RTJ 168/754); RE 414.249-AgR, DJe 18.11.10. RE 539.130(RTJ 179/185), o que afasta a pretensão de aplicação do art. 100 do CTN.
+    Os percentuais de exigência das multas isolada e de revalidação não conduzem a cobrança de caráter confiscatório, pois correspondem a penalidades que devem ser estabelecidas em montante hábil a alcançar o seu objetivo repressivo e punitivo,
+    Não há ilegalidade na aplicação da Taxa Selic no cálculo dos juros moratórios de créditos tributários, por força da permissão contida no artigo 161, I, do CTN, de que sejam fixados por lei, juros diversos de 1% ao mês.
+    Nos embargos à execução, o arbitramento dos honorários advocatícios deve ocorrer pela apreciação eqüitativa do Juiz (art. 20, §§ 3º e 4º do CPC).
+    Recurso parcialmente provido” (eDOC 1, p. 413).
+    No recurso extraordinário (eDOC 2, p. 91-123), com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao artigo 155, § 2º, I, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, o seguinte:
+    “Sendo assim, não pode a legislação infraconstitucional (seja a Lei ou Regulamento do ICMS de Minas Gerais), sob pretexto algum, tolher, amesquinhar o direito do contribuinte ao crédito do ICMS relativo à etapa anterior de circulação, por se tratar de um direito assegurado constitucionalmente. Ao Estado, somente cabe “renunciar” seu direito de arrecadar, mas nunca o direito da Recorrente de se creditar do imposto cobrado nas operações anteriores.
+    Diante disso, sob a óptica estritamente constitucional, se regularmente tributados na operação anterior, todos os produtos componentes da cesta básica adquiridos pela Recorrente conferem direito ao crédito do ICMS de forma irrestrita, independentemente da bse de cálculo do ICMS por ela adotada na subsequente saída, por força do princípio da não-cumulatividade, como ensina a melhor doutrina tributária” (eDOC 2, p. 104-105).
+    De plano, verifica-se que a presente matéria se encontra afetada à sistemática da repercussão geral no bojo do Tema 299, cujo recurso-paradigma é o RE-RG 635.688, de relatoria do Ministro Gilmar Mendes, Tribunal Pleno, DJe 13.02.2015, assim ementado:
+    “Recurso Extraordinário. 2. Direito Tributário. ICMS. 3. Não cumulatividade. Interpretação do disposto art. 155, §2º, II, da Constituição Federal. Redução de base de cálculo. Isenção parcial. Anulação proporcional dos créditos relativos às operações anteriores, salvo determinação legal em contrário na legislação estadual. 4. Previsão em convênio (CONFAZ). Natureza autorizativa. Ausência de determinação legal estadual para manutenção integral dos créditos. Anulação proporcional do crédito relativo às operações anteriores. 5. Repercussão geral. 6.Recurso extraordinário não provido.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
