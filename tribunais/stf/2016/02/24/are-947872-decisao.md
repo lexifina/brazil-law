@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 6°, 196 e 226, § 7°, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” No mesmo sentido:
+    “EMENTA DIREITO CIVIL E PROCESSUAL CIVIL. SAÚDE. TRATAMENTO MÉDICO. FERTILIZAÇÃO IN VITRO. RECURSO EXTRAORDINÁRIO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. PEDIDO DE APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. INADEQUAÇÃO. AUSÊNCIA DE IDENTIDADE DA CONTROVÉRSIA. ACÓRDÃO RECORRIDO PUBLICADO EM 14.12.2012. A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. A pretensão do agravante encontra óbice na Súmula 279 do Supremo Tribunal Federal, pois eventual ofensa aos preceitos constitucionais invocados somente se materializaria, no caso, de forma reflexa, a demandar, em primeiro plano, para sua constatação, a reelaboração do quadro fático delineado. Discussão de matéria divergente daquela em que reconhecida a repercussão geral pelo Plenário desta Casa – RE 566.471-RG/RN. Inadequada a aplicação da sistemática da repercussão geral (art. 543-B do CPC). As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República. Agravo regimental conhecido e não provido. (ARE 792869 AgR, de minha lavra, Primeira Turma, julgado em 09/12/2014, PROCESSO ELETRÔNICO DJe-250 DIVULG 18-12-2014 PUBLIC 19-12-2014).”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de fevereiro de 2016.
+Ministra Rosa Weber
+Relatora
