@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de agravo regimental contra decisão que negou seguimento ao agravo aos fundamentos de que (a) a matéria constitucional não foi devidamente prequestionada, o que atrai o óbice das Súmulas 282 e 356/STF; (b) quanto ao art. 5º, II, da Constituição Federal, a questão limita-se ao âmbito infraconstitucional; e (c) não é cabível o recurso pela alínea b do art. 102, III, da CF/88, pois não houve declaração de inconstitucionalidade de lei federal ou de tratado.
+    Sustenta a parte agravante, em suma, que há, no acórdão recorrido, questões constitucionais prequestionadas e suficientes para o provimento do apelo extraordinário. No mais, reitera as razões recursais.
+    2. Desnecessário o julgamento do recurso extraordinário pelo Plenário, uma vez que, como demonstram os precedentes citados à fl. 451, inclusive supervenientes à determinação de afetação ao Pleno, o apelo trata de matéria pacífica na jurisprudência deste Tribunal, o que autoriza o julgamento monocrático do recurso, nos termos do art. 557 do Código de Processo Civil.
+    3. O recurso extraordinário preenche todos os requisitos de admissibilidade, razão pela qual se passa ao exame de seu mérito.
+    O Supremo Tribunal Federal, no julgamento do RE 377.457, sob a sistemática da repercussão geral (Rel. Min. GILMAR MENDES, DJe de 19/12/2008, Tema 71), firmou entendimento de que é legítima a revogação, pelo art. 56 da Lei 9.430/96, da isenção concedida às sociedades civis de profissão, regulamentada pelo art. 6º, II, da Lei Complementar 70/91. Confira-se a ementa do referido julgado:
+    EMENTA: Contribuição social sobre o faturamento - COFINS (CF, art. 195, I). 2. Revogação pelo art. 56 da Lei 9.430/96 da isenção concedida às sociedades civis de profissão regulamentada pelo art. 6º, II, da Lei Complementar 70/91. Legitimidade. 3. Inexistência de relação hierárquica entre lei ordinária e lei complementar. Questão exclusivamente constitucional, relacionada à distribuição material entre as espécies legais. Precedentes. 4. A LC 70/91 é apenas formalmente complementar, mas materialmente ordinária, com relação aos dispositivos concernentes à contribuição social por ela instituída. ADC 1, Rel. Moreira Alves, RTJ 156/721. 5. Recurso extraordinário conhecido mas negado provimento.
+    Por estar em dissonância com esse entendimento, merece reparos o acórdão recorrido.
+    4. Diante do exposto, afasto o sobrestamento de fl. 451, reconsidero a decisão de fls. 391/392 e conheço do agravo de instrumento para, desde logo, dar provimento ao recurso extraordinário, restabelecendo o acórdão do Tribunal Regional Federal da 4ª Região.
+    Publique-se. Intime-se.
+    Brasília, 24 de fevereiro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
