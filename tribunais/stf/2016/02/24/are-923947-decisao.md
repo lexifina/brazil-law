@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC1, p. 77):
+    “EMBARGOS À EXECUÇÃO – PERDAS ORIUNDAS DA CONVERSÃO DE URV PARA REAL – LIMITAÇÃO TEMPORAL – LEGISLAÇÃO ESTADUAL QUE REESTRUTUROU A CARREIRA DOS SERVIDORES PÚBLICOS ESTADUAIS – INEXISTÊNCIA DE OFENSA À COISA JULGADA – EXTINÇÃO DA OBRIGAÇÃO – RECURSO NÃO PROVIDO.
+    -Com o advento da Lei Delegada nº 43/00 foram absorvidas as perdas apuradas com a implementação do Plano Real, de forma que somente em relação ao período anterior à vigência da referida norma é que se poderia falar em diferenças devidas a serem pagas aos embargados.
+    -Todavia, tendo a ação que deu origem ao título judicial exequendo sido ajuizada após transcorridos mais de 5 (cinco) anos da vigência da Lei Delegada nº 43/00, inexiste crédito a ser executado, haja vista a incidência da prescrição quinquenal.
+    -Não há que se falar em ofensa ao princípio da imutabilidade da coisa julgada, quando omisso o título judicial exequendo quanto à limitação temporal da condenação nele consubstanciada.”
+    Os embargos de declaração foram rejeitados (eDOC1, pp. 112-115).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; 7º, VI; 37, XV e XIV, e 169, § 1º, I e II, da Constituição Federal.
+    Sustenta-se, em síntese, que o presente recurso deve ser sobrestado, dada a semelhança com a matéria em debate no RE-RG 561.836, em que se discute sobre a possibilidade de compensação das diferenças salariais decorrentes da conversão da remuneração dos servidores estaduais de cruzeiro real para URV, com valores oriundos de reajuste salarial posteriormente concedido pelo Estado.
+    O Supremo Tribunal Federal, no julgamento do RE-RG 561.836, da relatoria do Ministro Luiz Fux, DJe 10.02.2014 (Tema 5), concluiu que o termo ad quem da incorporação dos 11,98%, ou do índice obtido em cada caso, na remuneração do agente público deve ocorrer no momento em que a sua carreira passar por uma reestruturação remuneratória. Reproduzo a ementa proferida nos embargos de declaração opostos no mencionado recurso.
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. DIREITO MONETÁRIO. CONVERSÃO DO PADRÃO MONETÁRIO: CRUZEIRO REAL EM URV. DIREITO AOS 11,98% OU AO ÍNDICE DECORRENTE DO PROCESSO DE LIQUIDAÇÃO, E A SUA INCORPORAÇÃO. POSSIBILIDADE. REPERCUSSÃO GERAL RECONHECIDA. MÉRITO JULGADO. LIMITAÇÃO TEMPORAL. O TERMO AD QUEM DA INCORPORAÇÃO DOS 11,98%, OU DO ÍNDICE OBTIDO EM CADA CASO, NA REMUNERAÇÃO DO AGENTE PÚBLICO DEVE OCORRER NO MOMENTO EM QUE A SUA CARREIRA PASSAR POR UMA RESTRUTURAÇÃO REMUNERATÓRIA, PORQUANTO NÃO HÁ DIREITO À PERCEPÇÃO AD AETERNUM DE PARCELA DE REMUNERAÇÃO POR SERVIDOR PÚBLICO. OBSCURIDADE. INOCORRÊNCIA. CONTRADIÇÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 24 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
