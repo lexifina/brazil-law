@@ -1,0 +1,9 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão que consignou a impossibilidade de incorporação, aos vencimentos do Recorrente, do aumento de 13,23%, em virtude de vantagem pecuniária individual instituída pela Lei nº 10.698/2003.
+    Verifica-se que o Supremo Tribunal Federal, ao analisar a Repercussão Geral no ARE 800.721, de relatoria do Ministro Teori Zavascki, DJe de 29.04.2014 (Tema 719), reconheceu a inexistência de repercussão geral da controvérsia acerca da possibilidade de se emprestar o caráter de revisão geral anual à vantagem pecuniária individual concedida a servidores públicos federais pela Lei nº 10.698/2003. Na oportunidade, a ementa restou assim redigida:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. LEI 10.698/03. CONCESSÃO DE “VANTAGEM PECUNIÁRIA INDIVIDUAL”. OFENSA AO ART. 37, X, DA CF. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à incorporação, a vencimento de servidor, do reajuste de 13,23% sobre sua remuneração é de natureza infraconstitucional, já que decidida pelo Tribunal de origem com base nas Leis 10.697/03 e 10.698/03, não havendo, portanto, matéria constitucional a ser analisada. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 24 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
