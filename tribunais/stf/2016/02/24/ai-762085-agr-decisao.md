@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo regimental contra decisão em que conheceu do agravo de instrumento, mas negou-lhe provimento (art. 557, caput, do CPC) sob o fundamento de que “para dissentir da conclusão do Tribunal de origem, seriam imprescindíveis a análise da legislação infraconstitucional aplicada ao caso e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário”.
+    A parte agravante afasta os fundamentos da decisão agravada, reafirmando as razões do recurso extraordinário.
+    Reconsidero a decisão agravada, tendo em vista que não é o caso de aplicação da Súmula 279/STF. Passo a análise do mérito.
+    Trata-se de agravo de instrumento cujo objeto é decisão que não admitiu recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que conheceu de conflito de competência para declarar competente para processar e julgar ação de reintegração de posse o Juízo de Direito de Guarantã do Norte/MT. Veja-se a ementa do julgado:
+    “CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE INTERESSE DO INCRA RECONHECIDA PELA JUSTIÇA FEDERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. APLICAÇÃO DA SÚMULA 150/STJ.
+    1. Hipótese em que o Juízo suscitado excluiu o INCRA do feito, por entender que lhe faltaria interesse jurídico capaz de legitimar a sua inclusão no pólo passivo da demanda, reconhecendo, em consequência, a incompetência da Justiça Federal. O INCRA, devidamente intimado da referida decisão, deixou transcorrer in albis o prazo para eventuais recursos.
+    2. Impõe-se, desse modo, a aplicação do princípio contido na Súmula 150/STJ, assim redigida: ‘Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas.’
+    3. ‘É absolutamente inviável que, a pretexto de julgar conflito de competência, o Tribunal faça, em caráter originário, sem o crivo das instâncias ordinárias, um julgamento a respeito da legitimidade das partes, determinando a inclusão ou a exclusão de figurantes da relação processual’ (CC 47.731/DF, 1ª Seção, Rel. p/ acórdão Min. Teori Albino Zavascki, DJ de 5.6.2006).
+    4. Conflito conhecido para declarar a competência do Juízo de Direito de Guarantã do Norte/MT, o suscitante.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 109, I, da Constituição.
+    O recurso extraordinário não deve ser provido. A jurisprudência do Supremo Tribunal Federal entende que compete à Justiça Federal determinar se há ou não interesse da União, entidade autárquica ou empresa pública federal na causa. Desse modo, a simples alegação de existência de interesse de um dos entes enumerados no art. 109, I, da Constituição Federal, não é suficiente para justificar o deslocamento da competência para a Justiça Federal. Precedentes: RE 172.708, Rel. Min. Moreira Alves; RE 588.134 AgR, Rel.ª Min.ª Ministra Cármen Lúcia; AI 857.924, Rel. Min. Luiz Fux; ARE 791.625-AgR, Rel. Min. Gilmar Mendes; e ARE 851.353-AgR, Rel. Min. Dias Toffoli.
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 24 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
