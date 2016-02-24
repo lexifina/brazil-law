@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de embargos de divergência opostos contra acórdão da Segunda Turma desta Corte que, ao negar provimento a agravo regimental, manteve decisão que negara seguimento a recurso extraordinário. Eis o teor da ementa:
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. OBRIGAÇÃO DEFINIDA EM LEI COMO DE PEQUENO VALOR. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. AUSÊNCIA DE EMPECILHO AO RECEBIMENTO DO CRÉDITO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE NO CASO CONCRETO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS (SÚMULA 279/STF).
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    Os embargos de declaração opostos foram rejeitados.
+    A parte embargante sustenta a divergência a partir do entendimento proferido no RE 420.816 (Rel. Min. SEPÚLVEDA PERTENCE, Tribunal Pleno), no sentido de que é cabível a condenação da Fazenda Pública ao pagamento de honorários advocatícios no âmbito de execução não embargada de créditos definidos como de pequeno valor.
+    Instada, a parte embargada manifestou-se pelo não conhecimento dos embargos de divergência.
+    2. O acórdão embargado sequer examinou o mérito da questão recursal, visto que o recurso não possui os necessários requisitos de admissibilidade.
+    Já o precedente paradigma do Tribunal Pleno, apontado pela parte embargante para demonstrar a divergência (RE 420.816), não se relaciona com a situação jurídica decidida pela Segunda Turma, porquanto passou à análise do mérito do caso então discutido.
+    O próprio acórdão embargado, aliás, foi expresso ao distinguir o presente caso daquele examinado no RE 420.816, consignando que, “conforme decidiu o Juízo de primeira instância, ‘o INSS não criou qualquer empecilho ao recebimento do crédito do exequente, cujo cálculo atualizado foi apresentado pelo próprio requerido nos autos principais’ (fl. 26)”. Concluiu-se que a revisão do caso “é inviável em recurso extraordinário, por dizer respeito à legislação processual ordinária e aos fatos da causa (Súmula 279/STF)” (fl. 77).
+    A ausência de similitude entre os casos confrontados é obstáculo suficiente para que os embargos de divergência não sejam admitidos. Nesse sentido: AI 654.148-AgR-EDv-AgR-ED; Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 6/12/2011; e RE 232.577-EDv, Rel. Min. CEZAR PELUSO, Tribunal Pleno, DJe de 9/4/2010.
+    Outrossim, assentou-se, nesta Corte, o entendimento de que são inadmissíveis embargos de divergência contra acórdão que, sem adentrar no mérito, nega seguimento a recurso por ausência de requisitos processuais. Precedentes: AI 681.109-AgR-ED-EDv-AgR, Tribunal Pleno, Rel. Min. DIAS TOFFOLI, DJe de 13/3/2013; AI 836.992-AgR-EDv-AgR, Tribunal Pleno, Rel. Min. RICARDO LEWANDOWSKI, DJe de 30/5/2012.
+    3. Saliente-se, ademais, que não foi demonstrada a divergência jurisprudencial na forma preconizada pelo art. 331 do RISTF, pois não se procedeu ao cotejo analítico com o acórdão apontado como divergente, com a necessária menção às "circunstâncias que identifiquem ou assemelhem os casos confrontados". Com efeito, a fundamentação do recurso limitou-se à consideração das razões pelas quais o acórdão embargado deveria ser reformado e à transcrição da ementa do julgado colacionado como paradigma. Nesse sentido: AI 830.836-AgR-segundo-ED-EDv-AgR, Rel. Min. LUIZ FUX, Tribunal Pleno, DJe de 29/6/2015; AI 609855-AgR-AgR-ED-EDv-AgR, Rel. Min. ELLEN GRACIE, Tribunal Pleno, DJe de 28/5/2010.
+    4. Diante do exposto, não admito os embargos de divergência.
+    Publique-se. Intime-se.
+    Brasília, 24 de fevereiro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
