@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Superior Tribunal de Justiça ementado nos seguintes termos:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TERRENO DE MARINHA. REGIME DE MERA OCUPAÇÃO. TRANSFERÊNCIA ONEROSA. COBRANÇA DE LAUDÊMIO. LEGALIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR.
+    1. A Primeira Turma desta Corte Superior, no julgamento do REsp n. 1.143.801/SC, firmou o entendimento de que é devido o laudêmio à União quando ocorrida a cessão da ocupação dos terrenos de marinha, pois o artigo 3°, caput e § 2°, do Decreto-lei n. 2.398/1987 permanece em vigor e por meio da transferência onerosa a parte obterá lucro com a transação.
+    2. Agravo regimental não provido”. (eDOC 3, p. 6)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, b e c, da Constituição Federal, aponta-se violação aos arts. 5, II; 145, § 1º; e 150, II, do texto constitucional.
+    Nas razões recursais, alega-se que o laudêmio incide somente na hipótese de transferência onerosa do domínio útil, o que não se refere ao caso dos autos, tendo em vista a existência de registro no SPU de ocupação.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Decreto-Lei 2.398/87), consignou que é devida a cobrança de laudêmio em caso de transferência onerosa de imóvel e de benfeitorias nele construídas, ainda que em regime de ocupação. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “De outro lado, conforme ressaltado na decisão agravada, a Primeira Turma desta Corte Superior, no julgamento do REsp n. 1.143.801/SC, firmou o entendimento de que é devido o laudêmio à União quando ocorrida a cessão da ocupação dos terrenos de marinha, pois o artigo 3°, caput e § 2°, do Decreto-lei n. 2.398/1987 permanece em vigor e por meio da transferência onerosa a parte obterá lucro com a transação”.
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confira-se, a propósito, o seguinte precedente:
+    “DIREITO ADMINISTRATIVO. TERRENO DE MARINHA. ALIENAÇÃO ONEROSA DE IMÓVEL. COBRANÇA DE LAUDÊMIO. REGIME DE OCUPAÇÃO. REGULARIDADE DA COBRANÇA. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 07.01.2013. 1. Cristalizada a jurisprudência desta Suprema Corte, a teor das Súmulas 282 e 356/STF: “Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”, bem como “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.” 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República. 3. Agravo regimental conhecido e não provido”. (RE-AgR 882.115, Rel. Min. ROSA WEBER, Primeira Turma, DJe 15.9.2015)
+    Finalmente, no que tange às alíneas c e d do art. 102, III, do texto constitucional, verifico que o acórdão recorrido não julgou válida lei local em face de lei federal ou da Constituição Federal, mas apenas cuidou de aplicar a legislação infraconstitucional ao caso, o que não viabiliza a abertura da instância extraordinária.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 24 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
