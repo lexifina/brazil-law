@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Carlos Alberto Pereira da Costa, contra ato da Comissão Parlamentar de Inquérito destinada a investigar “indícios de aplicação incorreta dos recursos e de manipulação na gestão de fundos de previdência complementar de funcionários de estatais e servidores públicos, ocorridas entre 2003 e 2015, e que causaram vultosos prejuízos aos seus participantes” (“CPI dos Fundos de Pensão”).
+    A impetrante sustenta, em síntese, que: (a) a referida Comissão pautou, para o dia 27 de outubro de 2015, às 14h, audiência pública para tomada de depoimento do paciente; (b) considerando que o paciente é réu colaborador em diversas ações penais, “que, em tese, versariam sobre fatos que constituem objeto da CPI dos Fundos de Pensão, tem-se que ele não pode ser obrigado a depor, sobre esses mesmos fatos, na qualidade de testemunha”; (c) “apesar de a convocação dirigida ao paciente afirmar que ele será ouvido na qualidade de ‘testemunha’, em verdade, do teor do ofício convocatório e documentos que o acompanham é possível perceber nitidamente que, mesmo no âmbito da CPI em questão, a sua situação é de investigado”.
+    Ao final, requer o deferimento de medida liminar, a fim de garantir ao paciente o direito de: (a) ser assistido por membro da Defensoria Pública da União e com este poder comunicar-se livremente, “durante todo o ato destinado à sua oitiva na CPI dos Fundos de Pensão”; (b) não ser obrigado a assinar termo de compromisso de dizer a verdade, bem como de permanecer silêncio e de não produzir prova contra si mesmo, de modo a evitar a autoincriminação. No mérito, pede a confirmação do provimento liminar.
+    O pedido de liminar foi deferido.
+    2. Em consulta ao sítio eletrônico da Câmara dos Deputados, é possível verificar que o paciente compareceu para prestar depoimento perante a referida Comissão Parlamentar em 27/10/2015, nos exatos termos garantidos pela medida cautelar. Desse modo, está prejudicado o pedido, em face do exaurimento de seu objeto.
+    3. Com essas considerações, julgo prejudicado o presente habeas corpus (RISTF, art. 21, IX). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 25 de fevereiro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
