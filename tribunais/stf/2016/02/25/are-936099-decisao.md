@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário — interposto por Augusto Cesar de Souza Neves Pereira — em face de acórdão do Tribunal de Justiça do Rio de Janeiro, ementado nos seguintes termos:
+    “AGRAVO INOMINADO CONTRA DECISÃO QUE DEU PROVIMENTO AO APELO INTERPOSTO. PRETENSÃO DE REAJUSTE DE 24%. SERVIDOR TJERJ, VERBETE 300 DA SÚMULA DESSE TRIBUNAL. MODIFICAÇÃO DE ENTENDIMENTO EM RAZÃO DO JULGAMENTO DA UNIFORMIZAÇÃO DE JURISPRUDÊNCIA JULGADO POR ESTE TRIBUNAL DE JUSTIÇA. DECISÃO MONOCRÁTICA CORRETA. DESPROVIMENTO DOS RECURSOS” (eDOC 2, p. 78).
+    Foram opostos embargos de declaração, rejeitados pelo Tribunal de origem (eDOC 2, p. 98-101).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, 37 e 40, do texto constitucional.
+    Nas razões recursais, alega-se, em suma: (a) ter havido violação dos princípios da isonomia e da segurança jurídica e (b) o prazo prescricional teria como termo inicial o ajuizamento da ação coletiva, pois a citação válida, determinada em ação coletiva proposta pelo SindJustiça, teria interrompido a fluência do prazo prescricional.
+    Decido.
+    De início, verifico que o recurso extraordinário interposto pelo Estado do Rio de Janeiro foi sobrestado pelo TJ-RJ, por força do art. 543-B do CPC (eDOC 4, p. 3/4).
+    O recurso extraordinário interposto por Augusto Cesar de Souza Neves Pereira, objeto desta decisão, não merece prosperar.
+    Com efeito, o Tribunal de origem, ao negar provimento ao agravo regimental interposto pelo ora recorrente, entendeu não ser devido o pagamento de diferenças relativas ao reajuste de 24% a partir de março de 1997, ante a inexistência de interrupção do prazo prescricional. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “(...)
+    Não assiste razão ao primeiro recorrente quando afirma que deve ser reconhecida a interrupção da prescrição em razão do ajuizamento da ação coletiva pelo SindJustiça em março de 2002, o que ensejaria o pagamento das diferenças do reajuste de 24% a partir de março de 1997.
+    Isso porque a propositura de ação coletiva com o mesmo objeto de ação individual por certo tem o condão de interromper a prescrição, no entanto a prescrição é interrompida apenas para os fins de ajuizamento de ação individual e não para pagamento de parcelas vencidas.
+    Dessa forma, a citação do Estado na ação mencionada pelos autores não teve o condão de impedir o reconhecimento da prescrição quinquenal para pagamento das parcelas pretéritas” (eDOC 2, p. 83).
+    Assim, verifica-se que dissentir dos fundamentos adotados pelo Tribunal de origem demandaria a interpretação prévia da legislação processual pertinente, bem como o revolvimento do acervo fático-probatório constante dos autos, providências inviáveis no âmbito do recurso extraordinário. Nesses termos, eventual ofensa à Constituição, se existente, seria meramente reflexa ou indireta, o que inviabiliza o processamento do presente recurso, incidindo, ainda, o óbice da Súmula 279 do STF. Em sentido semelhante:
+    “DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. ANISTIA POLÍTICA. PRESCRIÇÃO. DEBATE SOBRE O PRAZO PRESCRICIONAL. MATÉRIA DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 08.8.2014. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido”
+(ARE 925476 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 15/2/2016 - destaquei);
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
