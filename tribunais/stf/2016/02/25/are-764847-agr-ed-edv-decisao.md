@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de embargos de divergência opostos contra acórdão da Segunda Turma desta Corte que, ao negar provimento a agravo regimental, manteve decisão que negara provimento a agravo em recurso extraordinário. Eis o teor da ementa:
+    PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. VIOLAÇÃO AO ART. 93, IX, DA CF/88. OMISSÃO NÃO CONFIGURADA. FUNDAMENTAÇÃO DO JULGADO RECORRIDO NOS TERMOS DAS DIRETRIZES FIXADAS NO AI 791.292 RG (REL. MIN. GILMAR MENDES, TEMA 339). REEXAME FÁTICO-PROBATÓRIO. SÚMULA 279/STF. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    Os embargos de declaração opostos foram rejeitados.
+    A parte embargante sustenta a divergência a partir do entendimento proferido no HC 126.202 (de minha relatoria, Segunda Turma), no sentido de que é “inviável reputar negativo o vetor do art. 59 do Código Penal com fundamento exclusivo nos elementos constitutivos e descritivos do crime”.
+    Instada, a parte embargada manifestou-se pelo não conhecimento dos embargos de divergência.
+    2. São incabíveis embargos de divergência quando a jurisprudência desta Corte estiver consolidada no sentido do acórdão embargado (RISTF, art. 332). Precedentes: AI 747.984-AgR-ED-EDv-AgR, Tribunal Pleno, Rel. Min. DIAS TOFFOLI, DJe de 1º/8/2013; RE 164.714-ED-EDv, Tribunal Pleno, Rel. Min. CEZAR PELUSO, DJE de 1º/2/2011; RE 433.257-AgR-ED-EDv-AgR, Tribunal Pleno, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 16/2/2007. Nesse contexto, o presente recurso não merece prosperar, ante a inexistência de divergência a ser sanada, porquanto o julgado embargado fundou-se em precedente proferido por esta Corte na sistemática da repercussão geral em que reafirmada jurisprudência pacífica no sentido de que “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão” (AI 791.292-QO-RG, Rel. Min. GILMAR MENDES, DJe de 13/8/2010).
+    3. No mais, o acórdão embargado sequer examinou o mérito da questão recursal, visto que o recurso não possui os necessários requisitos de admissibilidade.
+    Já o precedente paradigma apontado pela parte embargante para demonstrar a divergência (HC 126.202) não se relaciona com a situação jurídica decidida neste caso, porquanto passou à análise do mérito do caso então discutido.
+    A ausência de similitude entre os casos confrontados é obstáculo suficiente para que os embargos de divergência não sejam admitidos. Nesse sentido: AI 654.148-AgR-EDv-AgR-ED; Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 6/12/2011; e RE 232.577-EDv, Rel. Min. CEZAR PELUSO, Tribunal Pleno, DJe de 9/4/2010.
+    Outrossim, assentou-se, nesta Corte, o entendimento de que são inadmissíveis embargos de divergência contra acórdão que, sem adentrar no mérito, nega seguimento a recurso por ausência de requisitos processuais. Precedentes: AI 681.109-AgR-ED-EDv-AgR, Tribunal Pleno, Rel. Min. DIAS TOFFOLI, DJe de 13/3/2013; AI 836.992-AgR-EDv-AgR, Tribunal Pleno, Rel. Min. RICARDO LEWANDOWSKI, DJe de 30/5/2012.
+    4. Por fim, os presentes embargos são manifestamente inadmissíveis, porquanto o aresto-paradigma foi proferido pela mesma Turma de que proveio o acórdão embargado. Nesse sentido: AI 707.478-AgR-EDv-AgR, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe 24/8/2011; AI 339.377-AgR-ED-EDv, Rel. Min. CEZAR PELUSO, Tribunal Pleno, DJe 18/9/2009.
+    5. Diante do exposto, não admito os embargos de divergência.
+    Publique-se. Intime-se.
+    Brasília, 25 de fevereiro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
