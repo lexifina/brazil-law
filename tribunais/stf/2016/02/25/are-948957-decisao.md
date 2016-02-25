@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “EMBARGOS DE DECLARAÇÃO. PREVIDENCIÁRIO. INOCORRÊNCIA DOS VÍCIOS PREVISTOS NO ART. 535 DO CPC. RECURSO REJEITADO. 1. O art. 535 do Código de Processo Civil admite embargos de declaração quando, na sentença ou no acórdão, (I) houver obscuridade ou contradição; ou (II) for omitido ponto sobre o qual deveria pronunciar-se o juiz ou tribunal. 2. No caso em exame, não há contradição alguma entre a fundamentação do acórdão e a sua conclusão, tampouco entre fundamentações. Outrossim, não há omissão a ser suprida ou obscuridade a ser aclarada. 3. Na ausência de vício a reclamar a integração do julgado, descabe o prequestionamento dos dispositivos aventados pelo embargante. 4. Embargos de declaração rejeitados.” (fl. 127)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 201, § 4º e 202, do texto constitucional.
+    Nas razões recursais, alega-se que “não foi incorporado a diferença salarial, por conta das contribuições durante o período de 1979 a 2004, ônus da Recorrida, que não apresentou documentos ou argumentos concretos acerca desta divergência, (…) no entanto o INSS deixou de considerar esse período contribuído, violando o direito da ora Recorrente, logo, o reajuste é devido, para que obtenha o valor correto da pensão desde a data da concessão do benefício” (fl. 137).
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 10.999/04) e o conjunto probatório constante dos autos, consignou que a interessada não fazia jus à revisão dos benefícios pleiteada (fl. 110-v.), não havendo que se falar em omissão do acórdão recorrido. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+     “No caso em exame, não há contradição alguma entre a fundamentação do acórdão e sua conclusão, tampouco entre fundamentações. Outrossim, não há omissão a ser suprida ou obscuridade a ser aclarada.
+    Ademais, o argumento do embargante ostenta nítido caráter infringentes, com vistas a modificar o julgado e adequá-lo ao acolhimento de sua pretensão, não sendo os embargos a via processual adequada.” (fl. 126, v.)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENSIONISTAS DA FEPASA. REVISÃO DE PENSÃO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DE CLÁUSULAS DE CONVENÇÃO COLETIVA DE TRABALHO: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.“ (ARE-AgR 917.936, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma,DJe de 23.2.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE PENSÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE-AgR 861.587, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 6.3.2015)
+    No mesmo sentido, o RE 921.999, de relatoria do Min. Edson Fachin, DJe de 4.11.2015; e o ARE 910.840, de relatoria da Min. Cármen Lúcia, DJe de 24.9.2015.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
