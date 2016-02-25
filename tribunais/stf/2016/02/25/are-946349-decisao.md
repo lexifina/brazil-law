@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 201, § 7º e § 8º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Nesse sentido: ARE 906.428, Rel. Min. Edson Fachin, DJe 1º.10.2015, ARE 898.607, Rel. Min. Cármen Lúcia, DJe 21.8.2015 e ARE 702.764-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 04.12.2012, com a seguinte ementa:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. FATOR PREVIDENCIÁRIO. LEI 9.876/1999. CONSTITUCIONALIDADE. ADI 2.111-MC/DF. APOSENTADORIA ESPECIAL DOS PROFESSORES. CÁLCULO DO MONTANTE DEVIDO. APLICAÇÃO DO FATOR PREVIDENCIÁRIO. MATÉRIA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I – O Plenário desta Corte, no julgamento da ADI 2.111-MC/DF, Rel. Min. Sydney Sanches, entendeu constitucional o fator previdenciário previsto no art. 29, caput, incisos e parágrafos, da Lei 8.213/1991, com redação dada pelo art. 2º da Lei 9.876/1999. II – Naquela oportunidade, o Tribunal afirmou, ainda, que a matéria atinente ao cálculo do montante do benefício previdenciário já não possui disciplina constitucional. Por essa razão, a utilização do fator previdenciário, previsto na Lei 9.876/1999, no cálculo do valor devido à recorrente a título de aposentadoria, não implica qualquer ofensa à Carta Magna. De fato, por ser matéria remetida à disciplina exclusivamente infraconstitucional, a suposta violação do Texto Maior se daria de forma meramente reflexa, circunstância que torna inviável o recurso extraordinário. III – Agravo regimental improvido.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2016.
+Ministra Rosa Weber
+Relatora
