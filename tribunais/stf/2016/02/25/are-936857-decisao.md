@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    A União e o Fundo Nacional de Desenvolvimento da Educação (FNDE) interpõem agravos contra decisões que não admitiram recursos extraordinários fundados na letra a do permissivo constitucional. Nos extraordinários, alega-se afronta aos artigos 97, 105, III, 195 e 212, § 5°, da Constituição Federal e à Súmula Vinculante n° 10 do STF.
+    Decido.
+    As irresignações não merecem prosperar.
+    Inicialmente, verifico que os artigos 97, 105, III e 195 da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    No mais, observo que o Tribunal de origem decidiu pela não incidência da contribuição do salário educação a incidir sobre a folha de salário do produtor rural pessoa física, sob o fundamento de que ele não se enquadra no conceito de empresa, com base na interpretação da legislação infraconstitucional de regência (Lei nº 9.424/96 e Decreto 6.003/2006), bem como na jurisprudência do Superior Tribunal de Justiça. Eventual afronta ao texto constitucional, caso ocorresse seria de forma reflexa ou indireta, não ensejando a abertura da via extraordinária. Nesse sentido:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO AO SALÁRIO-EDUCAÇÃO. LEI Nº 9.424/1996. TRABALHADORES AVULSOS PORTUÁRIOS. CONTROVÉRSIA QUE NÃO ENCONTRA RESSONÂNCIA CONSTITUCIONAL. PRECEDENTES. A constitucionalidade da contribuição vertida ao salário-educação foi reconhecida por ambas as Turmas desta Corte. Verifica-se, entretanto, que a possibilidade de a exação incidir sobre os valores pagos aos trabalhadores portuários avulsos demanda o reexame da legislação infraconstitucional correlata (Leis nºs 8.212/1991 e 9.424/1996). Agravo regimental a que se nega provimento. (ARE nº 817.564/SC – AgR, Primeira Turma, Rel. Min. Roberto Barroso, Dje de 18/1/14)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. SALÁRIO-EDUCAÇÃO. INCIDÊNCIA SOBRE VALORES PAGOS A TRABALHADORES PORTUÁRIOS AVULSOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO. I - O acórdão recorrido decidiu a questão referente à possibilidade de incidência do salário-educação sobre os valores pagos aos trabalhadores portuários avulsos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 8.212/1991 e 9.424/1996). A afronta à Constituição, se ocorrente, seria apenas indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Agravo regimental a que se nega provimento. (RE nº 793.032/SC – AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, Dje de 26/3/14)
+    Tratando da mesma questão posta nos autos cito as seguintes decisões monocráticas: ARE nº 936.856/PR, Rel. Min. Celso de Mello, Dje de 17/2/16; RE nº 908.579/SC, Rel. Min. Cármen Lúcia, Dje de 3/2/16; RE nº 908.578/SC, de minha relatoria, Dje de 9/11/15; ARE nº 919.524/PE, Rel. Min. Roberto Barroso, Dje de 12/11/15; RE nº 915.997/RS, Rel. Min. Gilmar Mendes, Dje de 29/10/15
+    Ante o exposto, conheço dos agravos para negar seguimento aos recursos extraordinários.
+    Publique-se.
+    Brasília, 25 de fevereiro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
