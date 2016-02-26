@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal, assim ementado:
+    “JUIZADOS ESPECIAIS CÍVEIS. CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. PRAZO DE TOLERÂNCIA DE 180 DIAS EXPIRADO. LUCROS CESSANTES. IMPOSSIBILIDADE DE CUMULAÇÃO COM MULTA COMPENSATÓRIA. MULTA MORATÓRIA DEVIDA. PREVISÃO CONTRATUAL EXPRESSA. RECURSO CONHECIDO E PROVIDO EM PARTE.
+    1. Caracterizando o atraso na entrega do imóvel, e a mora pela superação do período de 180 dias de tolerância, incorre o fornecedor na cláusula penal, conforme previsão contratual expressa.
+    2. Constatado equívoco na r. sentença ao considerar os percentuais inseridos no item 7.4.2, fl. 52, do instrumento particular de promessa de compra e venda moratória e juros moratórios, tendo em vista que documento prevê multa compensatória de 2% (dois por cento) e multa moratória de 0,5% (meio por cento) ao mês, respectivamente, para a hipótese de atraso na entrega do imóvel.
+    3. Resta demonstrada a impossibilidade de cumulação de multa contratual de natureza compensatória com indenização por lucros cessantes, sob pena de se caracterizar bis in idem, eis que ambas têm a função de definir o valor da reparação de danos pela mora no cumprimento da obrigação.
+    4. No caso, deve prevalecer a cláusula penal em detrimento dos lucros cessantes, por ser mais benéfica ao consumidor.
+    5. Precedente do C. Superior Tribunal de Justiça, em que são partes ENCCON ENGENHARIA COMERCIO E CONSTRUÇÕES LTDA. X LOURIVALDO LUIZ BARBOSA: AgRg no Ag 741776 / MS 2006/0018822-0, Quarta Turma, Relator Ministro RAUL ARAÚJO, Data de Julgamento: 07/11/2013, Publicado no DJE de 11/12/2013.
+    6. Precedente desta Turma Recursal: em que são partes MB ENGENHARIA SPE 040 S.A. X GABRIAL FLORES MENDES: Acórdão n° 868211, 20140710248096ACJ, Relator AISTON HENRIQUE DE SOUSA, julgamento em 19/05/2015, publicação no DJE de 22/05/2015. Pág.: 284.
+    7. Recurso CONHECIDO e PROVIDO EM PARTE. Sentença reformada em parte. Sem condenação em custas e honorários, ante a ausência de recorrente vencido”.
+    Opostos embargos declaratórios, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso X, 93, inciso IX, e 170 da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados nos recursos extraordinários carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, acolher a pretensão da recorrente e ultrapassar o entendimento da Corte de origem demandara, induvidosamente, o reexame das provas dos autos e da legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. A propósito, anote-se:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL E SÚMULA STF 279. PRECEDENTES. 1. A análise da indenização civil por danos morais e materiais reside no âmbito da legislação infraconstitucional (Súmula STF 280). 2. Incidência da Súmula STF 279, o que também elide a apreciação, no caso, da matéria objeto do art. 144 da Constituição Federal. 3. Agravo regimental improvido” (AI nº 755.238/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie , DJe de 13/11/09).
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279 DO STF. I - A apreciação do recurso extraordinário demanda o exame de matéria de fato, o que atrai a incidência da Súmulas 279 do STF. II - Agravo regimental improvido” (AI nº 634.072/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski , DJ de 22/6/07).
+    “Agravo regimental em agravo de instrumento. 2. Consumidor. Incidência da Súmula 279 desta Corte. Matéria infraconstitucional. Precedentes. AI-AgR 715.690. 3. Agravo regimental a que se nega provimento” (AI nº 814.104/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes , DJe de 14/12/11).
+    Ante o exposto, conheço dos agravos para negar seguimento aos recursos extraordinários.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
