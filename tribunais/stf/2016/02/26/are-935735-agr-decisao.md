@@ -1,0 +1,26 @@
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. DANO MORAL. FALHA NA PRESTAÇÃO DE SERVIÇO DE TELEFONIA. INADIMPLEMENTO DE CLÁUSULA CONTRATUAL. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM. ATO JUDICIAL PREVISTO NO ARTIGO 543-B DO CÓDIGO DE PROCESSO CIVIL. IRRECORRIBILIDADE. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo regimental interposto pela TELEFÔNICA BRASIL S/A contra decisão que prolatei, assim ementada:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. DANO MORAL. FALHA NA PRESTAÇÃO DE SERVIÇO DE TELEFONIA. INADIMPLEMENTO DE CLÁUSULA CONTRATUAL. MATÉRIA JÁ EXAMINADA SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA N° 869. ARE 927.467. MODIFICAÇÃO DO VALOR DEVIDO A TÍTULO DE DANO MORAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO VIRTUAL DO STF. TEMA N° 655. ARE 743.771. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF.)”
+    Inconformada com a decisão supra, a agravante interpõe o presente recurso, alegando, em síntese:
+    "A matéria discutida no Recurso Extraordinário transcende o interesse subjetivo das partes e possui grande densidade constitucional, na medida em que se discutia no recurso por negar vigência aos artigos 5º, II e LIV e 37 da Constituição Federal.
+    Assim sendo o prosseguimento do recurso é medida imperiosa para que se respeite o nosso Estado Democrático de Direito." (Fl. 305).
+    É o relatório. DECIDO.
+    O presente recurso não merece conhecimento.
+    Com efeito, o ato judicial previsto no artigo 543-B, parágrafo 3º, do Código de Processo Civil, constitui mero procedimento, sem cunho decisório, contra o qual não cabe recurso. Destarte, além da ausência de previsão legal nesse sentido, o referido ato não se enquadra nas hipóteses de ato decisório ou sentencial previstas no artigo 162, parágrafos 1º e 2º, do CPC, verbis:
+    “Art. 162 - Os atos do juiz consistirão em sentenças, decisões interlocutórias e despachos.
+    § 1º Sentença é o ato do juiz que implica alguma das situações previstas nos arts. 267 e 269 desta Lei.
+    § 2º - Decisão interlocutória é o ato pelo qual o juiz, no curso do processo, resolve questão incidente.”
+    É firme a jurisprudência desta Suprema Corte no sentido da irrecorribilidade das decisões que devolvem os autos à origem para observância da sistemática da repercussão geral. Confiram-se, a título de exemplo, alguns precedentes desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL RECONHECIDA. DESISTÊNCIA DO RECURSO PARADIGMA. FUTURA SUBSTITUIÇÃO. DECISÃO QUE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DO ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. IDENTIDADE MATERIAL: IRRECORRIBILIDADE. PRECEDENTE. AGRAVO REGIMENTAL NÃO CONHECIDO.” (RE 784.034-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 24/3/2014).
+    “ATO DO RELATOR QUE, ADMITINDO O RECURSO EXTRAORDINÁRIO, DETERMINA A DEVOLUÇÃO DOS AUTOS RESPECTIVOS AO TRIBUNAL DE ORIGEM PARA QUE, NESTE, SEJA OBSERVADO O QUE DISPÕE O ART. 543-B do CPC ATO JUDICIAL QUE NÃO POSSUI CONTEÚDO DECISÓRIO NEM SE REVESTE DE LESIVIDADE IRRECORRIBILIDADE CONSEQÜENTE NÃO-CONHECIMENTO DO PRIMEIRO RECURSO DE AGRAVO - INCONFORMISMO DA PARTE INTERESSADA QUE DEDUZIU NOVO RECURSO DE AGRAVO (AGRAVO INTERNO), DESTA VEZ CONTRA A DECISÃO QUE NÃO CON HECEU DO PRIMEIRO RECURSO DE AGRAVO IMPROVIMENTO DESSE NOVO RECURSO, COM DETERMINAÇÃO DE DEVOLUÇÃO IMEDIATA DOS AUTOS AO TRIBUNAL DE ORIGEM, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO REFERENTE AO PRESENTE JULGAMENTO.” (AI 503.064-AgR-AgR, Rel. Min. Celso de Mello, DJ de 26/3/2010).
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. OBSERVÂNCIA DO ART. 543-B DO CPC. ATO JUDICIAL SEM CUNHO DECISÓRIO. IRRECORRIBILIDADE. AGRAVO IMPROVIDO.
+    I - A jurisprudência desta Corte consolidou-se no sentido de que é incabível recurso contra decisão que determina a devolução dos autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, haja vista não possuir conteúdo decisório nem se revestir de lesividade. Precedentes.
+    II - Agravo regimental improvido.” (AI 811.626-AgR-AgR, Rel. Min. Ricardo Lewandowski, DJe de 3/3/2011).
+    “RECURSO. Embargos de declaração. Caráter infringente. Embargos recebidos como agravo. Agravo Regimental. Inadmissibilidade. Interposição contra decisão que determina devolução dos autos ao Tribunal de origem. Aplicação do art. 543-B do CPC. Inexistência de lesividade. Agravo não conhecido. Da decisão que determina a devolução dos autos ao Tribunal de origem para os fins do art. 543-B do CPC, não se admite recurso.
+    2. RECURSO. Agravo Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc art.s 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado.” (RE 513.473-ED, Rel. Min. Cezar Peluso, DJe de 18/12/2009).
+    Ex positis, NÃO CONHEÇO o agravo e determino a DEVOLUÇÃO dos autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
