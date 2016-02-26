@@ -1,0 +1,23 @@
+Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal; 13 a 18 da Lei 8.038/90; e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Jurandir Diogo de Oliveira contra ato do Juiz de Direito da 2ª Vara das Execuções Criminais da Comarca de Presidente Prudente/SP, que teria supostamente contrariado o enunciado da Súmula Vinculante nº 11.
+    Narra a inicial que, no curso da execução penal, o Reclamante permaneceu algemado durante a audiência realizada em 15.12.2015, designada para apurar a eventual prática de falta grave, “sem que, contudo, houvesse qualquer justificativa do d. Juízo da 2ª Vara de Execuções Criminais da Comarca de Presidente Prudente/SP”.
+    Argumenta o Reclamante, em síntese, que o ato da lavra do magistrado de primeiro grau afrontou o enunciado da Súmula Vinculante nº 11. Sustenta que a autoridade reclamada, “após arguição de nulidade por parte da Defensoria Pública, fundamentou a medida na suspeita genérica de fuga”.
+    Requer, em medida liminar, a suspensão dos efeitos da decisão exarada pelo Juízo da Execução Criminal. No mérito, pugna pela cassação do ato reclamado, “no capítulo que indeferiu o requerimento de anulação da oitiva judiciária, a fim de se anular o ato de audição e, por conseguinte, os subsequentes, determinando-se ao d. Juízo de piso renovar a audiência sem a contenção do sentenciado com algemas”.
+    É o relatório.
+    Decido.
+    A via estreita da reclamação constitucional (arts. 102, I, l, e 103-A, § 3º, da Constituição da República) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a súmula vinculante ou o descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que pertinente, nesta última hipótese, à mesma relação jurídica e às mesmas partes.
+    Quanto às hipóteses de cabimento da reclamação, ressalto que a “eficácia diferenciada, naturalmente expansiva, das decisões do Supremo Tribunal Federal, não autoriza, porém, que qualquer ato contrário a seus precedentes, imputável a qualquer juízo, obtenha reparação direta por meio de reclamação à Corte” (Rcl 9.592/DF, Rel. Min. Cezar Peluso, DJe 27.4.2010).
+    Há que examinar, portanto, a presença de uma dessas hipóteses, e com rigor, sob pena de desvirtuamento do instituto.
+    Colho do enunciado da Súmula Vinculante nº 11 desta Suprema Corte:
+    “Só é lícito o uso de algemas em caso de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado”.
+    Por outro lado, extraio excertos do ato reclamado:
+    “(...).
+    Das execuções ainda em curso número 03 e 04 (vale dizer já teve a número 01 e número 02). Verifica-se que se trata de crime com violência contra a pessoa (art. 157 do CP). O sentenciado está preso. Vale dizer contido. Quando em trânsito a contenção é feita mediante o uso de algemas. Evitam-se vários riscos que a obviedade dispensa discriminá-los. (…). No mais quanto ao mérito propriamente da questão tornou-se superada porque justamente em 05.02.2013 – após estar liberado para a saída do natal/2012 e mesmo com os ditos problemas de assimilação biológica da medicação ministrada – isto não foi empecilho para ser preso em flagrante e condenado nos termos do art. 157, § 2º, incisos I e II e art. 304 c.c. Art. 297, caput, todos do Código Penal (sentença de fls. 30/37 e v. acórdão de fls. 47/53 autos da 4ª execução). Motivo pelo qual foi posto em regime fechado nos termos do art. 111 da LEP (fls. 72 – roteiro de penas). Desde já os autos com vista aberto e à disposição da defensoria pública para eventuais recursos e impugnações.”
+    Em juízo de cognição sumária, verifico que a decisão exarada pela autoridade reclamada se encontra fundamentada, apontando as razões de seu convencimento para justificar, na hipótese, o uso de algemas.
+    Além disso, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colham-se informações junto ao Juízo de Direito da 2ª Vara das Execuções Criminais da Comarca de Presidente Prudente/SP (Execução 408.284).
+    Após, ao Ministério Público para manifestação.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2016.
+Ministra Rosa Weber
+Relatora
