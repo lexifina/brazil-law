@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS – FPM. APLICAÇÃO IMEDIATA DA DECISÃO NORMATIVA Nº 38/2001 DO TRIBUNAL DE CONTAS DA UNIÃO. VIOLAÇÃO AO PRINCÍPIO DA ANUALIDADE. PRECEDENTES. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    "CONSTITUCIONAL E TRIBUTÁRIO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS (FPM). DECISÃO NORMATIVA 38/2001 DO TCU. APLICAÇÃO IMEDIATA. VIOLAÇÃO AO PRINCÍPIO DA ANUALIDADE. 1. A retificação do coeficiente destinado ao cálculo da quota do FPM, por meio da DN TCU 38, de 20-6-2001, somente pode vigorar no exercício financeiro subsequente, por força do art. 92 do Código Tributário Nacional e do art. 244 do RI/TCU. Precedente do Plenário do Supremo Tribunal Federal (MS 24.151/DF, DJ 16-12-2005, Rel. Min. Joaquim Barbosa). 2. Apelação e remessa oficial a que se nega provimento." (fl. 165 do doc. 1).
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao disposto nos artigos 3º, III, e 161, II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o acórdão encontra-se em harmonia com a jurisprudência do Supremo Tribunal Federal.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (artigo 102, § 3º, da CF).
+    O Tribunal de origem não divergiu da jurisprudência deste Supremo Tribunal, que assentou, no julgamento do Mandado de Segurança 24.098, Rel. Min. Cezar Peluso, contrariar o princípio da anualidade a aplicação imediata da Decisão Normativa nº 38/2001 do Tribunal de Contas da União. Por oportuno, transcrevo a ementa do referido julgado:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. QUINTOS. INCORPORAÇÃO. PORTARIA MEC 474/87. PRECEDENTES. 1. O Supremo Tribunal Federal já pacificou sua jurisprudência no sentido de que os quintos incorporados, conforme Portaria MEC 474/1987, constituem direito adquirido, não alcançado pelas alterações promovidas pela Lei 8.168/1991. 2. A Portaria MEC 474/87 não configura usurpação de competência legislativa do Chefe do Poder Executivo. Precedentes. 3. Agravo regimental improvido” (AI 754.613-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 13/11/2009).
+    Seguindo essa mesma orientação, cito as seguintes decisões: AI 863.166, Rel. Min. Gilmar Mendes, DJe de 15/9/2015; ARE 867.446, Rel. Min. Dias Toffoli, DJe de 8/4/2015; RE 823.648, Rel. Min. Roberto Barroso, DJe de 9/3/2015; AI 861.260, Rel. Min. Cármen Lúcia, DJe de 8/10/2014; e RE 806.388, Rel. Min. Ricardo Lewandowski, DJe de 1/8/2014.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
