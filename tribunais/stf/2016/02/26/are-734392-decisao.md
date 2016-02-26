@@ -1,0 +1,29 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DA CDA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. VIOLAÇÃO AO ARTIGO 93, IX, DA CF. INEXISTÊNCIA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “PROCESSUAL CIVIL. APELAÇÃO EM SENTENÇA DE EXTINÇÃO DE EXECUÇÃO FISCAL. AUSÊNCIA DOS REQUISITOS LEGAIS (ART. 2º, § 5º DA LEI Nº 6.830/80 C/C ART. 202 DO CTN). CONHECIMENTO DE OFÍCIO. POSSIBILIDADE. PRECEDENTES. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+    1. A formação unilateral da Certidão da Dívida Ativa como título executivo, com as características de certeza e liquidez, constitui uma exceção ao princípio do contraditório nessa fase. Para isso, porém, é indispensável que se atendam os requisitos exigidos em lei: art. 2º, § 5º da Lei nº 6.830/80 c/c art. 202 do CTN, o que não ocorreu na espécie.
+    2. Os requisitos exigidos à validade da Certidão da Dívida Ativa (CDA) são indispensáveis à garantia da ampla defesa à eventual cobrança, em processo executivo, do crédito nela reapresentado e, por isso, se revela com a natureza de ordem pública, conhecível de ofício pelo juiz.
+    3. Hipótese em que, apesar de haver-se facultado a emenda da CDA para aproveitar a execução proposta, não se supriram as falhas corretamente identificadas na douta sentença.
+    4. Sentença mantida por seus próprios fundamentos.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 2º, 22, I, 24, I, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula nº 279 do STF.
+    O Superior Tribunal de Justiça conheceu do agravo para negar seguimento ao recurso especial.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da CF).
+    A interposição do recurso extraordinário impõe que o dispositivo constitucional tido por violado, como meio de se aferir a admissão da impugnação, tenha sido debatido no acórdão recorrido, sob pena de padecer o recurso da imposição jurisprudencial do prequestionamento.
+    In casu, dessume-se dos autos que o recorrente se furtou em prequestionar, em momento oportuno, os dispositivos constitucionais apontados como violados nas razões do apelo extremo, atraindo, inarredavelmente, o óbice da ausência de prequestionamento, requisito essencial à sua admissão.
+    Esta Corte já firmou entendimento no sentido de que a alegação tardia, só suscitada na oposição dos embargos de declaração no Tribunal de origem, acerca da matéria versada pelos dispositivos constitucionais, não supre a falta do requisito do prequestionamento, viabilizador da abertura da instância extraordinária. Incidência do óbice erigido pelo enunciado da Súmula nº 282 do STF, de seguinte teor: “É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada.” Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. INCORPORAÇÃO DE GRATIFICAÇÃO. LEI COMPLEMENTAR ESTADUAL N. 13/94. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL (SÚMULA 282). IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento. Precedentes.” (RE 598.123-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 30/4/2010).
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ART. 7º, LV, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE. SÚMULAS STF 282 E 356.
+    1. São inviáveis os embargos de declaração opostos para fins de prequestionamento quando o tema constitucional não tiver sido ventilado previamente no recurso interposto perante o Tribunal de origem.
+    2. E a circunstância de a matéria poder ser suscitada em qualquer momento processual ou grau de jurisdição, por se tratar de questão de ordem pública, como afirmado pela recorrente, não afasta o preenchimento de tal requisito, inerente ao cabimento do recurso de natureza extraordinária. Precedentes.
+    3. Agravo regimental improvido.” (AI 521.577-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 16/4/2010).
+    Demais disso, relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
