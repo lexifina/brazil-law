@@ -1,0 +1,10 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa se reproduz a seguir:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. LEI 12.546/2011. RECEITA BRUTA. ICMS. INCLUSÃO. LEGITIMIDADE. RE 240.785/MG. EFEITO 'INTER PARTES'. A Lei nº 12.546/11, com a finalidade de desonerar a folha de salários de alguns setores econômicos, promoveu a substituição da tributação sobre a folha de salários, adotando uma nova contribuição sobre a receita bruta das empresas. Os encargos tributários integram a receita bruta e o faturamento da empresa. Seus valores são incluídos no preço da mercadoria ou no valor final da prestação do serviço. Por isso, são receitas próprias da contribuinte, não podendo ser excluídos do cálculo do PIS/COFINS, que têm, justamente, a receita bruta/faturamento como sua base de cálculo. Daí derivaria a impossibilidade de exclusão do ICMS da base de cálculo do PIS e da COFINS e também da Contribuição Previdenciária sobre Receita Bruta. O art. 8º da Lei nº 12.546/2011 encontra amparo na Constituição Federal de 1988, art. 195, § 13. É constitucional e legal a inclusão do ICMS na base de cálculo da Contribuição Previdenciária sobre Receita Bruta, nos termos do art. 3º, §2º, I, da Lei 9.718/98. O RE 240.785/MG tem efeito 'inter partes' (sem repercussão geral).”
+    De plano, verifica-se que a matéria controversa está sujeita à sistemática da repercussão geral no bojo do Tema 69, cujo recurso-paradigma é o RE-RG 574.706, de relatoria da ministra Cármen Lúcia, DJe 16.05.2008, assim ementado:
+    “Reconhecida a repercussão geral da questão constitucional relativa à inclusão do ICMS na base de cálculo da COFINS e da contribuição ao PIS. Pendência de julgamento no Plenário do Supremo Tribunal Federal do Recurso Extraordinário n. 240.785.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
