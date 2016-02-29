@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. CRITÉRIOS DA AVALIAÇÃO PSICOLÓGICA. REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO NO AI 758.533-QO-RG. REAFIRMAÇÃO DA JURISPRUDÊNCIA. NOVO EXAME. PREJUDICIALIDADE. RECURSO PREJUDICADO EM PARTE E DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE DA POLÍCIA CIVIL DO DISTRITO FEDERAL. AVALIAÇÃO PSICOLÓGICA. PREVISÃO LEGAL. REQUISITOS PSICOLÓGICOS EXIGIDOS PARA O CARGO. AUSÊNCIA DE DIVULGAÇÃO PRÉVIA PELO EDITAL REGULADOR. SUBJETIVIDADE RECONHECIDA. REPETIÇÃO DO TESTE. INUTILIDADE.
+    1. Na esteira da jurisprudência firmada pelo excelso Supremo Tribunal Federal, foi editada por este egrégio Tribunal de Justiça a Súmula 20, que assim dispõe: "A validade do exame psicotécnico está condicionada à previsão legal, à exigência de critérios objetivos e à garantia de recurso administrativo.".
+    2. Considera-se ausente o requisito relacionado à necessidade de critérios objetivos quando o edital limita-se a consignar a necessária adequação aos requisitos psicológicos exigidos para o cargo, sem, entretanto, declarar quais seriam tais habilidades, submetendo a parte autora a exigências que não foram claramente divulgadas, constituindo flagrante ilegalidade face aos ditames previstos pelos § 3° e § 5° do art. 14 do Decreto n° 6.944/2009 e § 1° do art. 61 da Lei Distrital n° 4.949/2012, assim como representa violação os princípios da impessoalidade, publicidade e impessoalidade.
+    3. Após a anulação do exame psicotécnico realizado sem os requisitos exigidos, o candidato poderá prosseguir nas demais fases do concurso independentemente de submeter-se a novo exame psicotécnico, devendo a apuração dos requisitos previstos em lei ser efetuada durante o estágio probatório.
+    4. Apelação não provida.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, caput, e 37, incisos I e II, da Constituição Federal.
+    É o relatório. DECIDO.
+    O acórdão recorrido está de acordo com a jurisprudência do STF no sentido de que o exame psicotécnico em concurso público, quando exigível, demanda previsão em lei e observância de critérios objetivos, conforme reafirmação da jurisprudência desta Corte feita pelo Plenário nos autos do AI 758.533-QO-RG, Rel. Min. Gilmar Mendes, DJe de 13/8/2010, que possui a seguinte ementa:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.“
+    Quanto ao pedido de realização de novo exame psicotécnico, verifico que o Superior Tribunal de Justiça, julgando matéria de sua competência, conheceu e deu provimento ao REsp 1.553.566, Rel. Min. Sérgio Kukina, interposto pelo ora recorrente, verbis: “Ante o exposto, dou provimento ao apelo para determinar a submissão da autora/recorrida a novo exame psicotécnico.” Essa decisão transitou em julgado em 11 de fevereiro de 2016.
+    Releva anotar que o trânsito em julgado da aludida decisão, que foi favorável à parte ora recorrente, provocou a perda parcial de objeto do presente recurso.
+    Ex positis, JULGO PREJUDICADO o pedido de submissão a novo exame psicotécnico, com fundamento no art. 21, IX, do RISTF e nas demais questões, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
