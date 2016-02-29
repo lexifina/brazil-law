@@ -1,0 +1,9 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão que reconheceu a servidores públicos inativos e pensionistas o direito à extensão da Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho (GDPST). Assentou, ainda, que a vantagem é devida nos moldes pagos aos ativos até a data do encerramento do primeiro ciclo avaliativo.
+    O recurso extraordinário não deve ser provido, tendo em vista que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, que, no julgamento do RE 662.406-RG, Rel. Min. Teori Zavascki, após reconhecer a repercussão geral da matéria, assentou a tese de que o termo final da extensão aos inativos das gratificações de desempenho nos mesmos percentuais em que concedida aos servidores ativos é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo de avaliações, não podendo a Administração retroagir os efeitos financeiros.
+    Quanto aos juros, o Supremo Tribunal Federal, nos autos do RE 870.947-RG, julgado sob a relatoria do Ministro Luiz Fux, reconheceu a existência de repercussão geral da controvérsia relativa à validade da correção monetária e dos juros moratórios incidentes sobre condenações impostas à Fazenda Pública, tanto na fase de conhecimento quanto na fase de execução, conforme determina o art. 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº 11.960/2009 (Tema 810).
+     Diante do exposto, admito o recurso extraordinário tão somente quanto à questão relativa à correção monetária sobre débitos da Fazenda Pública e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC. Quanto às demais questões aduzidas, com fundamento no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
