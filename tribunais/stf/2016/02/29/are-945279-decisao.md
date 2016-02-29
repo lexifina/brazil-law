@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário em que se discute o preenchimento dos requisitos para o reconhecimento do direito à obtenção do auxílio-reclusão.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 1º, inciso III; 93, inciso IX; e 201, IV, do Texto Constitucional. Nas razões recursais, sustenta-se a dependência econômica em relação segurado, que se encontra segregado.
+    A Presidência da 1ª Turma Recursal da Seção Judiciária de São Paulo inadmitiu o recurso por incidir o óbice da Súmula 279 do STF.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal, no julgamento do RE 587.365, Rel. Min. Ricardo Lewandowski, entendeu pela existência de repercussão geral quanto à matéria versada nestes autos (Tema 89) e ao julgar o mérito concluiu:
+    “PREVIDENCIÁRIO. CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. AUXÍLIO-RECLUSÃO. ART. 201, IV, DA CONSTITUIÇÃO DA REPÚBLICA. LIMITAÇÃO DO UNIVERSO DOS CONTEMPLADOS PELO AUXÍLIO-RECLUSÃO. BENEFÍCIO RESTRITO AOS SEGURADOS PRESOS DE BAIXA RENDA. RESTRIÇÃO INTRODUZIDA PELA EC 20/1998. SELETIVIDADE FUNDADA NA RENDA DO SEGURADO PRESO. RECURSO EXTRAORDINÁRIO PROVIDO. I - Segundo decorre do art. 201, IV, da Constituição, a renda do segurado preso é que a deve ser utilizada como parâmetro para a concessão do benefício e não a de seus dependentes. II - Tal compreensão se extrai da redação dada ao referido dispositivo pela EC 20/1998, que restringiu o universo daqueles alcançados pelo auxílio-reclusão, a qual adotou o critério da seletividade para apurar a efetiva necessidade dos beneficiários. III - Diante disso, o art. 116 do Decreto 3.048/1999 não padece do vício da inconstitucionalidade. IV - Recurso extraordinário conhecido e provido.”
+    Ademais, inexiste a alegada ofensa ao art. 93, IX, da Constituição Federal, visto que o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses da Recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência, segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão .
+    Por fim, para dissentir do acórdão recorrido quanto ao valor da renda do segurado recluso e a alegada necessidade financeira das autoras, seria necessário o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos dos artigos 544, § 4º, II, a, do CPC, e 21, § 1º do RISTF.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
