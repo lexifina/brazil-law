@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA ICMS Imunidade Importação de equipamentos por Associação de caráter beneficente, social, científico e cultural, sem fins lucrativos Interpretação da regra do artigo 155, II, §2º, IX, a, da Constituição Federal que deve ser feita à luz da regra matriz, segundo a qual o ICMS incide sobre circulação de mercadorias, vale dizer, importação para utilização no estabelecimento comercial. Em se tratando, entretanto, de pessoa jurídica que não exerce o comércio, dedicando-se, de outra forma, à prestação de serviço, nem mesmo em tese poderia se cogitar da exigibilidade do ICMS Disposição contida na norma do artigo 8º do RICMS, à vista dos termos do artigo 176 do Código Tributário Nacional, no sentido de que estão isentas do ICMS as mercadorias importadas por fundação ou entidade beneficente, com certificado fornecido pelo CNAS, como é o caso da impetrante Recurso improvido”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, VI, c, 155, II, §2º, IX, a, da Carta. A parte recorrente sustenta que a entidade é pessoa jurídica sem fins lucrativos, mas que tal natureza não a torna imune a qualquer hipótese, mas exige-se que a não incidência tributária esteja relacionada com a vinculação às atividades essenciais. Aduz que, no caso, o recorrido atua como consumidor final, sendo devido o ICMS sobre as mercadorias hospitalares importadas.
+    A pretensão recursal não merece prosperar, tendo em vista que a decisão agravada está correta e alinhada aos precedentes firmados por esta Corte. Ademais, dissentir das conclusões do Tribunal de origem acerca do preenchimento dos requisitos legais para o reconhecimento da imunidade ao recorrido demandaria o reexame do acervo fático e probatório, providência vedada nos termos da Súmula 279/STF. Vejam-se, a propósito, as seguintes ementas:
+    “TRIBUTÁRIO. ICMS. IMUNIDADE. OPERAÇÕES DE IMPORTAÇÃO DE MERCADORIA REALIZADA POR ENTIDADE DE ASSISTÊNCIA SOCIAL. AGRAVO IMPROVIDO.
+    I - A jurisprudência da Corte é no sentido de que a imunidade prevista no art. 150, VI, c, da Constituição Federal abrange o ICMS incidente sobre a importação de mercadorias utilizadas na prestação de seus serviços específicos.
+    II - Agravo improvido”. (AI 669.257-AgR, Rel. Min. Ricardo Lewandowski)
+    “Agravo regimental no agravo de instrumento. ICMS. imunidade. importação. Precedentes. Repercussão geral presumida.
+    1. É pacífico o entendimento desta Corte no sentido de que a imunidade tributária consignada no art. 150, inciso VI, alínea c, da Constituição Federal abrange o Imposto sobre Circulação de Mercadorias e Serviços (ICMS) incidente na importação de bens utilizados na prestação de serviços específicos das entidades de assistência social sem fins lucrativos.
+    2. Caso de repercussão geral presumida, conforme disposto no art. 543-A, § 3º, do Código de Processo Civil.
+    3. Agravo regimental não provido. (AI 776.205-AgR, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
