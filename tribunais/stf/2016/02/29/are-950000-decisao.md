@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Tribunal de Justiça que negou provimento a agravo de instrumento, contra decisão de indeferimento de tutela antecipada em ação revisional de cláusulas de contrato bancário relativa a cobrança de juros capitalizados mensalmente.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, alega-se violação ao disposto nos artigos 1º, I, 3º, I, II e IV, 5º, caput, XXII, XXIII, XXXII, XXXV e XXXVI, 170, caput, III e V, todos da Constituição Federal. Sustenta-se, ainda, a inconstitucionalidade do art. 5º da medida provisória nº 2.170-36/2001.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Primeiramente, no julgamento do AI-RG 844.474, de relatoria do Ministro Cezar Peluso, Dje 01.09.2011 (Tema 421), esta Corte decidiu que não apresenta repercussão geral discussão sobre a limitação da taxa de juros a 12% ao ano nos contratos bancários, por não existir questão constitucional no debate.
+    Ademais, em exame do RE-RG 568.396, de relatoria do Ministro Marco Aurélio, substituído pelo RE 592.377, de relatoria do Ministro Marco Aurélio, com relator para o acórdão o Ministro Teori Zavascki, DJe de 20.03.2015, o Plenário desta Corte assentou a repercussão geral do Tema 33, que versa sobre a constitucionalidade, ou não, da MP 2.170-36/2001, a qual autorizou a capitalização de juros em periodicidade inferior a um ano, nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, como é o caso dos autos.
+    Por fim, verifica-se que no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como na hipótese dos autos.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
