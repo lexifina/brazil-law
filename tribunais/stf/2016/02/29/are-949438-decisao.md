@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região. Veja-se o seguinte trecho de ementa:
+    “CONSTITUCIONAL E ADMINISTRATIVO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. IMISSÃO NA POSSE. TERRA NUA E BENFEITORIAS. PASSIVO AMBIENTAL. CANA-DE-ACÚCAR. LAUDO PERICIAL. IMPARCIALIDADE E EQUIDISTÂNCIA. DIVERGÊNCIA ENTRE A ÁREA REGISTRADA E A EFETIVAMENTE MEDIDA. JUROS COMPENSATÓRIOS E MORATÓRIOS. HONORÁRIOS.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXIV; e 184 da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) “o acórdão decidiu a causa à luz da legislação infraconstitucional, sendo a ofensa à Constituição indireta ou reflexa, e por isso seu exame na via extraordinária mostra-se inadmissível”; e (ii) incide, no caso, a Súmula 279/STF.
+    O agravo não pode ser provido, uma vez que o recurso extraordinário não discute matéria constitucional. O recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante dos autos, assim como a questionar a avaliação pericial realizada no imóvel desapropriado e o valor da respectiva indenização. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Confira-se a ementa do RE 703.351-ED/CE, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Embargos de declaração em recurso extraordinário. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Direito Administrativo. 4. Desapropriação. Interesse Social. Reforma agrária. Valor real do imóvel expropriado. Laudo Pericial. 5. Revolvimento do acervo fático-probatório. Impossibilidade. Incidência do Enunciado 279 da Súmula do STF. 6. Discussão acerca dos juros compensatórios. Recurso especial provido no âmbito do STJ. Prejudicialidade do recurso extraordinário nessa parte. 7. Afronta aos primados do contraditório e do devido processo legal . Ofensa meramente reflexa ao texto constitucional. Precedentes. 8. Ausência de argumentos capazes de infirmar a decisão agravada. 9. Agravo regimental a que se nega provimento.” (negrito acrescentado).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 29 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
