@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. PLANO PARA SEGURIDADE SOCIAL (PSS). INCIDÊNCIA SOBRE ADICIONAL DE QUALIFICAÇÃO POR TREINAMENTO. VERBA DE NATUREZA TRANSITÓRIA E PRECÁRIA, COM VALIDADE DE ATÉ 4 ANOS, QUE NÃO SE INCORPORA AOS PROVENTOS DE APOSENTADORIA DO SERVIDOR PÚBLICO. ADICIONAL DE QUALIFICAÇÃO POR TREINAMENTO NÃO CORRESPONDE A FATO GERADOR OU BASE DE CÁLCULO PARA CONTRIBUIÇÃO PREVIDENCIÁRIA DO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL. TRIBUTO INDEVIDO. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 3º, I, 40, caput, 194, 195, caput, da Carta. A parte recorrente sustenta que a solidariedade do sistema previdenciário fundamenta que incida contribuição sobre parte da gratificação de desempenho que não integra a remuneração do cargo efeito, ainda que a referida parcela não seja incorporável à remuneração para fins de aposentadoria.
+    A pretensão recursal não merece prosperar, tendo em vista que demandaria o exame de matéria infraconstitucional, providência vedada em sede de recurso excepcional. No mesmo sentido:
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé”. (ARE nº 909408 AgR / RN, Rel. Min. Marco Aurélio)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE O ADICIONAL DE RISCO. DISCUSSÃO SOBRE A NATUREZA JURÍDICA DA VERBA. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 883273 AgR / SC, rel. Min. Cármen Lúcia)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
