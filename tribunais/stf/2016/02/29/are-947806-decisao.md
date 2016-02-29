@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. COOPERATIVA HABITACIONAL. RESTITUIÇÃO DE QUANTIA PAGA POR COOPERADO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS DO ESTATUTO DA COOPERATIVA. INCIDÊNCIA DA SÚMULA Nº 454 DO STF.  REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado, verbis:
+    “Cooperativa Habitacional – Ação de Rescisão de contrato cumulada com restituição de valores e indenização por danos morais – Rescisão decretada – Restituição dos valores pagos – Retenção de 30% a título de despesas administrativas – Afastamento da pretensão de restituição parcelada e ao final do empreendimento – Aplicação de correção monetária que representa mera reposição do capital – Juros devidos a partir da constituição em mora – Incidência do Código de Defesa do Consumidor – Sentença parcialmente procedente – Recurso não provido.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 174, § 2º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo, por não vislumbrar ofensa direta à Constituição.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões discutidas no caso” (artigo 102, § 3º, da CF).
+    A aplicação do Código de Defesa do Consumidor às cooperativas, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional e das cláusulas do estatuto da cooperativa, o que encontra óbice na Súmula nº 454 desta Corte. Nesse sentido, AI 601.046-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe de 28/11/2008, e RE 607.218-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 11/4/2012, que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. COMPETÊNCIA. PLANO DE ASSISTÊNCIA À SAÚDE. ENTIDADE EMPREGADORA. RECONHECIMENTO DE RELAÇÃO DE CONSUMO. CÓDIGO DE DEFESA DO CONSUMIDOR. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA.
+    REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos e de cláusulas contratuais. Incidência das Súmulas 279 e 454 do STF. Precedentes. III - Agravo regimental improvido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
