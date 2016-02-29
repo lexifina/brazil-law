@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. MUNICÍPIO DE RIO BRANCO/AC. ADICIONAL DE SEXTA-PARTE. BASE DE CÁLCULO. INTEGRALIDADE DOS VENCIMENTOS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA Nº 636 DO STF. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “FAZENDA PÚBLICA. GRATIFICAÇÃO. SEXTA PARTE. PEDIDO DE QUE A BASE DE CÁLCULO INCIDA SOBRE TODO O VENCIMENTO, NÃO AFASTANDO A PRODUTIVIDADE. PARCIAL PROVIMENTO DA RECLAMAÇÃO PELA SENTENÇA. RECURSO DO MUNICÍPIO. IMPOSSIBILIDADE DA INCIDÊNCIA SOBRE OUTRA GRATIFICAÇÃO. RECURSO PARCIALMENTE PROVIDO A FIM DE REFORMAR A SENTENÇA PARA QUE A GRATIFICAÇÃO DE PRODUTIVIDADE SEJA CALCULADA E PASSE A INCIDIR APENAS SOBRE O SALÁRIO BASE, NOS TERMOS DO VOTO.”
+    Os embargos de declaração opostos foram desprovidos.
+    No recurso extraordinário, aponta violação aos artigos 5º, II, e 97 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    Não merece provimento o recurso.
+    O tema atinente à incidência do adicional de “sexta-parte” sobre a integralidade dos vencimentos do servidor está circunscrito ao âmbito infraconstitucional. Nesse sentido foi o acórdão proferido pelo Plenário do Supremo Tribunal, em caso semelhante ao presente, RE 675.153-RG, da relatoria do Ministro Ayres Britto, em que se discutia o direito de servidor público estadual, o qual possui a seguinte ementa:
+    “ADMINISTRATIVO. ADICIONAL DE ‘SEXTA PARTE’. SERVIDOR PÚBLICO ESTADUAL ESTATUTÁRIO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. Nos termos da jurisprudência do Supremo Tribunal Federal, está circunscrito ao âmbito infraconstitucional o tema atinente à incidência do adicional de ‘sexta parte’ sobre a integralidade dos vencimentos dos servidores públicos estaduais estatutários. Não havendo, em rigor, questão constitucional a ser apreciada por esta Suprema Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    No que diz respeito à violação ao princípio da legalidade, aplica-se o teor da Súmula nº 636 desta Corte: “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Por fim, não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal a quo não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do artigo 97 da Constituição, mas apenas interpretou a norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+    II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+    III - Agravo regimental a que se nega provimento.” (ARE 784.179-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 17/2/2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+    Ausência de argumentos capazes de infirmar a decisão agravada.
+    Agravo regimental a que se nega provimento.” (ARE 767.313-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 26/3/2015).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
