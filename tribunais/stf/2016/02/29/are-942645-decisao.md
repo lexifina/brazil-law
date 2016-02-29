@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado
+    “APELAÇÃO CÍVEL - ADMINISTRATIVO - CASAN E MUNICÍPIO DE TRÊS BARRAS - CONTRATO DE CONCESSÃO PARA EXPLORAÇÃO DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA E ESGOTO - ADVENTO DO TERMO CONTRATUAL - INDENIZAÇÃO PRÉVIA PELOS INVESTIMENTOS REALIZADOS - DESNECESSIDADE - POSSIBILIDADE DA ASSUNÇÃO IMEDIATA DO SISTEMA DE ABASTECIMENTO PELA MUNICIPALIDADE - SENTENÇA REFORMADA - INVERSÃO DOS ÔNUS SUCUMBENCIAIS - RECURSO PROVIDO.
+    A concessão extingue-se pelo advento do termo contratual, implicando isso na reversão da concessão e na imediata assunção do serviço pelo poder concedente, com a ocupação das instalações e a utilização de todos os bens reversíveis (art. 35, inc. 1 e §§ 2o. e 3o., da Lei 8.987/95, providências que não estão condicionadas à previa indenização, pois o que a lei de regência determina é a realização antecipada dos "levantamentos e avaliações necessários à determinação dos montantes da indenização que será devida â concessionária" (Agravo de Instrumento 2006.044941-3/000000, de Guaramirim, rel. Des. Newton Janke, j. 28.07.2009).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, XXXVI, LIV e LV; 25, § 3º e 30, todos da Constituição.
+    O recurso não deve ser admitido. De início, nota-se que não houve apreciação pelo acórdão impugnado dos arts. 25, § 3º e 30, que foram alegados de forma inaugural no recurso extraordinário, carecendo, no ponto, do necessário prequestionamento, nos termos da Súmula 282/STF. Nessa linha, vejam-se, o AI 133.690-AgR, Rel. Min. Celso de Mello; e o AI 502.659-AgR, Rel. Min. Sepúlveda Pertence.
+    Quanto à questão de fundo, verifica-se que, para chegar a conclusão diversa do acórdão recorrido, necessários seriam a interpretação da legislação infraconstitucional pertinente, uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), assim como a análise das cláusulas contratuais, procedimentos inviáveis em recurso extraordinário, nos termos da Súmula 454/STF. Nessa linha, veja-se o RE 934.390, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se
+          Brasília, 29 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
