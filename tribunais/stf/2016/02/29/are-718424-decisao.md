@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ESCRIVÃES E INVESTIGADORES DE POLÍCIA. LEI COMPLEMENTAR Nº 929/2002 DO ESTADO DE SÃO PAULO. REGIME JURÍDICO DE SERVIDOR PÚBLICO. INICIATIVA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. PRECEDENTES. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “Apelação Cível. Servidor público estadual. Escrivães e Investigadores de Polícia (ativos, inativos e pensionistas). Requisito de nível superior trazido por lei complementar para o provimento dos cargos, que ampara o pleito de realinhamento remuneratório, consistente na elevação dos padrões de vencimentos (Lei Complementar nº 929/2002). Inadmissibilidade (artigo 37, incisos II e X, da Constituição Federal). Iniciativa de lei reservada ao Chefe do Executivo. Impossibilidade do Judiciário substituir o Executivo em sua competência reservada, sob pena de ofensa ao princípio constitucional da separação dos poderes. ADIN procedente (Órgão Especial – TJ). Precedente da 10ª Câmara de Direito Público. Improcedência da ação mantida. Recurso improvido.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, caput, e 39, § 1º, I e III, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    A jurisprudência desta Suprema Corte se firmou no sentido de que as leis que disponham sobre regime jurídico de servidor público são de iniciativa privativa do chefe do Poder Executivo. Nesse sentido:
+    “CARTA ESTADUAL – MATÉRIA RESERVADA À INICIATIVA DO GOVERNADOR – INCONSTITUCIONALIDADE. Surge inconstitucional disciplina, na Carta do Estado, de matéria cuja iniciativa de projeto é reservada ao Governador, como ocorre se, mediante preceito, dispõe-se sobre a revisão concomitante e automática de valores incorporados à remuneração de servidores públicos em razão do exercício de função ou mandato quando reajustada a remuneração atinente à função ou ao cargo paradigma – artigo 89, § 6º, da Constituição do Estado do Rio de Janeiro. AÇÃO DIRETA DE INCONSTITUCIONALIDADE – PRONUNCIAMENTO POSITIVO – MODULAÇÃO. A modulação de pronunciamento do Supremo, considerada a passagem do tempo, implica, a um só tempo, desconhecer írrito o ato contrário à Constituição Federal e estimular atuação normativa à margem desta última, apostando-se na morosidade da Justiça e em ter-se dito pelo não dito, como se, até então, a Lei Fundamental não houvesse vigorado.” (ADI 3.848, Rel. Min. Marco Aurélio, Tribunal Pleno, DJe de 6/3/2015).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
