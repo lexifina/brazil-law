@@ -1,0 +1,8 @@
+DECISÃO: Constato a existência, na decisão anteriormente proferida nestes autos, de erro material, passível de correção, nos termos do art. 463, I, do CPC.
+    A possibilidade de tal correção, além de encontrar suporte na legislação processual civil (art. 463, I), tem o beneplácito da própria jurisprudência desta Suprema Corte (RTJ 64/389 – RE 161.174-QO/SP, Rel. Min. ILMAR GALVÃO - RE 183.376-QO/DF, Rel. Min. MARCO AURÉLIO – RE 199.466-QO/PR, Rel. Min. MARCO AURÉLIO, v.g.).
+    Sendo assim, e corrigindo o erro material ora constatado, determino a substituição, na decisão em referência, das expressões “O presente recurso extraordinário, não se revela viável” e “não conheço do presente recurso extraordinário” por “os recursos extraordinários deduzidos nestes autos não se revelam viáveis” e “não conheço do recurso extraordinário deduzido por Oliveira Distribuidora de GLP e Derivados Ltda. e, de outro lado, conheço do agravo interposto por Liquigás Distribuidora S/A, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, ‘b’, na redação dada pela Lei nº 12.322/2010)”, respectivamente, em ordem a que a parte dispositiva da mencionada decisão passe a ter o seguinte conteúdo:
+    “Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário deduzido por Oliveira Distribuidora de GLP e Derivados Ltda. e, de outro lado, conheço do agravo interposto por Liquigás Distribuidora S/A, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, ‘b’, na redação dada pela Lei nº 12.322/2010).”
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministro CELSO DE MELLO
+Relator
