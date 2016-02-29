@@ -1,0 +1,13 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO REGIMENTAL – JULGAMENTO MONOCRÁTICO – ESTREITOS REQUISITOS
+    O julgamento monocrático do recurso destinado a colegiado, embora prestigie a economia processual, é medida excepcional, por respeito ao colegiado originalmente competente, a ser feito quando presentes os requisitos específicos o art. 557, caput, §1º-A do CPC, e não houver discussão e valoração fática a ser realizada, que possa causar posicionamentos divergentes pelos julgadores”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 155, II, §2º, IX, a, da Carta. Sustenta que nunca obteve autorização da ANP para importar solvente, razão pela qual encomendou a operação a outra pessoa jurídica, pelo que no caso não é sujeito ativo do ICMS importação. Não há, portanto, operação de importação indireta, de modo que é improcedente autuação fiscal.
+    A pretensão recursal não merece prosperar, tendo em vista que, para dissentir da conclusão adotada pelo Tribunal de origem, seria necessário o revolvimento do conjunto fático e probatório, providência vedada em sede de recurso excepcional. Nesse sentido, vejam-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. IMPORTAÇÃO INDIRETA. OPERAÇÃO TRIANGULAR. SEDE DA EMPRESA. 1. A caracterização de importação indireta, para fins de incidência de ICMS, cinge-se ao âmbito infraconstitucional. Súmula 279 do STF. 2. Agravo regimental a que se nega provimento. (ARE 897.427-AgR/SP, Rel. Min. Edson Fachin)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTABELECIMENTO JURÍDICO DO IMPORTADOR. PRECEDENTES. “IMPORTAÇÃO INDIRETA”. SÚMULA 279/STF. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria (alínea “a” do inciso IX do § 2º do art. 155 da Magna Carta de 1988), pouco importando se o desembaraço aduaneiro ocorreu por meio de ente federativo diverso. 2. Incidência da Súmula 279/STF. 3. Agravo regimental desprovido”. (RE 555.654-AgR/MG, Rel. Min. Ayres Britto)
+    Diante do exposto, com base no art. 544, § 4º, II, a, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+          Brasília, 29 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
