@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE RESULTADO FAZENDÁRIO E DE PROGRAMAÇÃO ORÇAMENTÁRIA – GRFPO. EXTENSÃO AOS SERVIDORES INATIVOS. IMPOSSIBILIDADE. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “EMBARGOS INFRINGENTES. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. PROCURADOR DO MUNICÍPIO DE PORTO ALEGRE APOSENTADO. INCORPORAÇÃO DA GRATIFICAÇÃO DE RESULTADO FAZENDÁRIO E DE PROGRAMAÇÃO ORÇAMENTÁRIA – GRFPO. INVIABILIDADE. NÃO PREENCHIMENTO DO REQUISITO TEMPORAL. ARTIGOS 9º DA LEI MUNICIPAL Nº 10.087/2006 E 8º, § 1º, DO DECRETO Nº 15.437/2006.
+    I – Conforme a disciplina dos arts. 1º e 9º da Lei municipal nº 10.087/2006 – redação alterada pela Lei nº 10.765/2009 -; e 8º, § 1º, do Decreto nº 15.437/2006, cabível a incorporação da Gratificação de Resultado Fazendário e de Programação Orçamentária – GRFPO – aos proventos de aposentadoria dos servidores jubilados antes da vigência da lei, e desde que no efetivo exercício das funções na Secretaria Municipal da Fazenda; no Gabinete de Programação Orçamentária ou Procuradoria Geral do Município, nos últimos 10 dez anos de atividade.
+    II - Na espécie, não preenchido o requisito temporal pelo embargado, tendo em vista a atividade no cargo de Procurador Municipal durante 06 anos e 05 meses. Neste sentido o acolhimento do voto vencido, com a reforma do acórdão atacado.
+    Embargos infringentes acolhidos.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 40, § 4º, da Constituição Federal (§ 8º na redação da EC nº 20/1998).
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula nº 280 do STF.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da CF).
+    A Gratificação de Resultado Fazendário e de Programação Orçamentária – GRFPO, quando sub judice a controvérsia sobre os requisitos para sua incorporação, implica a análise da legislação infraconstitucional aplicável à espécie, o que encontra óbice na Súmula nº 280 do STF. Nesse sentido, ARE 715.800-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 27/11/2013, com a seguinte ementa:
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público estadual. Gratificação. Preenchimento dos requisitos para sua percepção. Legislação local. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 280 e 279/STF.
+    2. Agravo regimental não provido.“
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula nº 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
