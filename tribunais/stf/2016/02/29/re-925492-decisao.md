@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PENAL. IMPOSSIBILIDADE DE ANÁLISE DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra julgado do Tribunal de Justiça do Rio Grande do Norte, que absolveu o Recorrido nos termos do art. 415, inc. III, do Código de Processo Penal.
+    Os embargos infringentes opostos foram rejeitados.
+    2. O Recorrente alega ter o Tribunal de origem contrariado o art. 5º, inc. XXXVIII, al. d, da Constituição da República.
+    Assevera que,
+    “Ao absolver o Recorrido em circunstâncias que despontam dúvida, em que não há certeza da existência de circunstância que exclua o crime ou isente o réu da pena, invadiu a Corte potiguar a competência do Tribunal do Júri, prevista no art. 5º, inciso XXXVIII, alínea d, da Constituição Federal, já que a este competia analisar a tese da defesa de existência de contradições entre os depoimentos das testemunhas, os motivos pelos quais o Recorrido teria arrancado do seu carro em alta velocidade na direção da vítima, se queria matar ou meramente assustar, entre outros”.
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão de direito não assiste ao Recorrente.
+    4. O Tribunal a quo asseverou que, “no caso, percebe-se, de plano, a ausência de demonstração mínima do elemento subjetivo do tipo penal (animus necandi). E, consequentemente, resta afastada a hipótese de crime doloso contra a vida, retirando-se o julgamento da esfera de competência do Tribunal do Júri” (doc. 2, fl. 63).
+      A apreciação do pleito recursal demandaria análise prévia do conjunto fático-probatório, incidindo, na espécie, a Súmula n. 279 deste Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. TRIBUNAL DO JÚRI. 1. NECESSIDADE DE ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2. NULIDADE DO JULGAMENTO PROFERIDO PELO TRIBUNAL DO JÚRI. REEXAME DE FATOS E PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 807.745-AgR, de minha relatoria, Segunda Turma, DJe 23.5.2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ALEGADA OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. LEGISLAÇÃO INFRACONSTITUCIONAL. ALEGADA OFENSA AO ART. 105, III, DA CF. IMPOSSIBILIDADE. AUSÊNCIA DE VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. A parte recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante dos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Quanto à alegada ofensa aos princípios constitucionais do devido processo legal, do contraditório e da ampla defesa, para chegar a conclusão diversa do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente. Precedente. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante. Também não foram ofendidas as garantias da inafastabilidade do controle jurisdicional, do devido processo legal, do contraditório e da ampla defesa, uma vez que a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e motivado suas conclusões de forma satisfatória. Agravo regimental a que se nega provimento” (ARE n. 812.306-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 11.2.2015).
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 38 da Lei n. 8.038/1990 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 29 de fevereiro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
