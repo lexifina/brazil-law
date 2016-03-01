@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “Apelação. Embargos à arrematação. Sentença de improcedência. Insurgência dos embargantes. Alegação de arrematação por preço vil. Executados que não se insurgiram quanto ao valor da avaliação do bem, aferido por laudo pericial em junho de 2007. Valor que foi atualizado monetariamente até a data da praça. Indeferimento do pedido de realização de nova avaliação do imóvel antes de sua arrematação em 22 de novembro de 2011. Decisão não recorrida. Ausência de preclusão. Dever de o juiz determinar, ainda que de ofício, a atualização do valor da avaliação do imóvel a fim de adequá-lo à realidade do mercado (arts. 683, II e 692, do CPC). Imóvel arrematado, porém, por aproximadamente 50% de seu suposto valor de mercado indicado pelos autores. Inexistência de preço vil. Realização, ademais, de cinco praças anteriores àquela em que o bem foi arrematado sem que tenha havido licitante. Incabível a anulação da arrematação. Recurso desprovido.” (eDOC 3, p. 54)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, LIV e LV, e 6° do texto constitucional.
+    Nas razões recursais, alega-se que o imóvel dos recorrentes foi arrematado por valor inferior a 50% de sua avaliação, caracterizando preço vil e violando seus direitos ao devido processo legal e à moradia.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o Código de Processo Civil e o conjunto probatório constante dos autos, consignou que não haveria vícios na arrematação. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Portanto, arrematado o imóvel por preço correspondente a aproximadamente 50% de seu valor de mercado indicado pelos apelantes, não pode ser ele considerado vil.
+    Ademais, não se pode olvidar que antes da praça em que arrematado, em 22 de novembro de 2011, foram realizadas outras cinco praças em 07 e 21 de fevereiro, 03 e 17 de junho de 2008 e 08 de novembro de 2011, sem que tenham havido licitantes”. (eDOC 4, p. 60)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. CONDOMÍNIO. AÇÃO ANULATÓRIA DE ARREMATAÇÃO JUDICIAL DE IMÓVEL. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 279 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO”. (ARE 893152 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 15.2.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ARREMATAÇÃO DE BEM. 1. Reexame de fatos e provas. Súmula n. 279 do Supremo Tribunal Federal. 2. Análise de normas infraconstitucionais. Alegada afronta ao princípio da legalidade. Súmula n. 636 do Supremo Tribunal. 3. Agravo regimental ao qual se nega provimento”. (ARE 711508 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 3.12.2012)
+    Por fim, registro que é firme a jurisprudência do Supremo Tribunal Federal no sentido de que a alegação de afronta aos princípios da ampla defesa e do devido processo legal configura ofensa meramente reflexa ou indireta ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário quanto às apontadas violações às normas do art. 5º, LIV e LV. Cito, a propósito, o ARE-AgR 657.316, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.3.2012, e o enunciado do tema 660 da sistemática da repercussão geral, cujo paradigma é o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, b, do CPC).
+    Publique-se.
+    Brasília, 1º de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
