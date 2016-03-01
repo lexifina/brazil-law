@@ -1,0 +1,383 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 9
+
+01/03/2016
+
+SEGUNDA TURMA
+
+AG.REG. NA RECLAMAÇÃO 22.612 RIO DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. GILMAR MENDES
+: ANDRÉ LUIZ BARRETO SERRALHO
+: ALEXANDRE LOPES DE OLIVEIRA (OAB 81570RJ)
+: TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE
+JANEIRO
+: MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE
+JANEIRO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+RIO DE JANEIRO
+
+Agravo regimental em reclamação. 2. Direito Penal e Processual
+Penal. 3. Reclamação contra acórdão que supostamente teria descumprido
+o entendimento adotado no RHC n. 120.334/RJ. Inexistente. 4. O Plenário
+do STF, em sessão realizada em 27.6.2012, ao analisar o HC 111.840/ES, de
+relatoria do Ministro Dias Toffoli, por maioria, declarou incidenter tantum,
+a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/90, com a redação
+dada pela Lei 11.464/2007. Desse modo, ficou superada a obrigatoriedade
+de início do cumprimento de pena no regime fechado aos condenados
+por crimes hediondos ou a eles equiparados. No entanto, este novo
+entendimento não obstou que, no momento da dosimetria, o órgão
+julgador, fundamentando-se no art. 33, § § 2º e 3º, do CP, decidisse por
+regime mais gravoso. TJ/RJ com base nas circunstâncias judiciais do art.
+59 do CP, decidiu pela fixação de regime mais gravoso. Precedentes. 5.
+Agravo regimental a que se nega provimento
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os ministros do
+Supremo Tribunal Federal, em Segunda Turma, sob a presidência do
+ministro Dias Toffoli, na conformidade da ata de julgamento e das notas
+taquigráficas, por unanimidade, negar provimento ao agravo regimental,
+nos termos do voto do Relator.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10513124.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 9
+
+RCL 22612 AGR / RJ
+Brasília, 1º de março de 2016.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10513124.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 9
+
+01/03/2016
+
+SEGUNDA TURMA
+
+AG.REG. NA RECLAMAÇÃO 22.612 RIO DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. GILMAR MENDES
+: ANDRÉ LUIZ BARRETO SERRALHO
+: ALEXANDRE LOPES DE OLIVEIRA (OAB 81570RJ)
+: TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE
+JANEIRO
+: MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE
+JANEIRO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+RIO DE JANEIRO
+RE LAT Ó RI O
+
+O SENHOR MINISTRO GILMAR MENDES (RELATOR): Trata-se de
+agravo regimental em reclamação contra ato da 8ª Câmara Criminal do
+TJ/RJ que, nos autos da Apelação Criminal n. 0034018-35.2011.8.19.0203,
+teria descumprido o entendimento adotado no RHC n. 120.334, de minha
+lavra.
+Na decisão agravada, neguei seguimento à reclamação por não
+vislumbrar afronta ao acórdão proferido por esta Corte.
+No agravo, a defesa reitera as alegações pretéritas e enfatiza, em
+síntese, que o Tribunal de Justiça carioca teria descumprido o que
+decidido no RHC 120.334/RJ, de minha relatoria, uma vez que acolheu a
+tese acusatória e alterou o regime inicial de cumprimento de pena para o
+fechado.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10513125.
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 4 de 9
+
+01/03/2016
+
+SEGUNDA TURMA
+
+AG.REG. NA RECLAMAÇÃO 22.612 RIO DE JANEIRO
+VOTO
+O SENHOR MINISTRO GILMAR MENDES (RELATOR): No agravo
+regimental, não ficou demonstrado o desacerto da decisão agravada.
+Verifico que as alegações da parte são impertinentes e decorrem de
+mero inconformismo com a decisão adotada por este Tribunal, uma vez
+que a parte agravante não trouxe argumentos suficientes a infirmá-la,
+visando apenas à rediscussão da matéria já decidida de acordo com a
+jurisprudência pacífica desta Corte.
+Como já ressaltado, o Plenário do Supremo Tribunal Federal, em
+sessão realizada em 27.6.2012 (DJe 17.12.2013), ao analisar o HC
+111.840/ES, de relatoria do Ministro Dias Toffoli, por maioria, declarou
+incidenter tantum, a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/90,
+com a redação dada pela Lei 11.464/2007. Desse modo, ficou superada a
+obrigatoriedade de início do cumprimento de pena no regime fechado
+aos condenados por crimes hediondos ou a eles equiparados.
+Naquela ocasião, consignou-se que as instâncias inferiores não
+poderiam mais fixar automaticamente o regime fechado para início do
+cumprimento de pena apenas com base no art. 2º, § 1º, da Lei 8.072/90.
+No entanto, este novo entendimento não obstou que, no momento
+da dosimetria, o órgão julgador, fundamentando-se no art. 33, § § 2º e 3º,
+do CP, decidisse por regime mais gravoso.
+Foi o que ocorreu no caso em apreço.
+O TJ/RJ ao apreciar a apelação, baseando-se nas circunstâncias
+judiciais do artigo 59 do Código Penal, decidiu pela fixação do regime
+fechado para início do cumprimento da reprimenda. Para tanto assentou:
+“Embora a reprimenda concretizada não alcance oito anos
+de reclusão, diante das peculiaridades do caso em análise, o
+regime inicial fechado deve ser aplicado para o início do
+cumprimento da pena privativa de liberdade.
+O apelado foi preso em flagrante de posse de 57 sacos de
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10513126.
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 5 de 9
+
+RCL 22612 AGR / RJ
+cocaína em pó, que somavam 51g, com a inscrição “PÓ 20
+CVRL”. Além dos entorpecentes, foram apreendidas três armas
+de fogo, inclusive de uso restrito, grande quantidade de
+munições, totalizando 383 cartuchos, e 11 carregadores,
+conforme registrou a sentença penal condenatória (doc. 00516):
+‘O laudo prévio de fls. 02 e o laudo definitivo de fls.
+370 e 378 esclarecem a apreensão de 51g (cinquenta e um
+gramas) de cocaína, distribuídos em 57 embalagens. O
+laudo de exame em munições nº 024660/2011, trazido a fls.
+217/219 e 345/347, refere-se ao seguinte: 210 munições,
+calibre 9mm; 117 munições, calibre 9mm; 6 munições,
+calibre 9mm; 2 munições, calibre 9mm.
+O laudo de exame em munições nº 024171/2011,
+trazido a fls. 220/222 e 330/332, refere-se ao seguinte: 4
+munições, calibre 357; 1 munição, calibre 357. O laudo de
+exame em arma de fogo nº 024314/2011, trazido a fls.
+333/335 e 350/352, refere-se ao seguinte: 1 pistola, marca
+Glock, número de série LPT019. O laudo de exame em
+arma de fogo nº 024319/2011, trazido a fls. 336/338 e
+364/66, refere-se ao seguinte: 1 pistola, marca Glock,
+número de série LVG721 (numeração eliminada
+intencionalmente por ação mecânica).
+O laudo de exame em arma de fogo nº 024529/2011,
+trazido a fls. 339/341 e 367/368, refere-se ao seguinte: 1
+revólver, marca Colt, número de série CK6071.
+O laudo de exame em munições nº 024502/2011,
+trazido a fls. 342/344 e 358/360, refere-se ao seguinte: 35
+munições, calibre 40; 8 munições, calibre 40.
+O laudo de exame de componentes de arma de fogo
+nº 024318/2011, trazido a fls. 348/349, refere-se ao seguinte:
+3 carregadores, calibre 40.
+O laudo de exame de componentes de arma de fogo
+nº 024315/2011, trazido a fls. 354/357, refere-se ao seguinte:
+3 carregadores, calibre 9mm; 1 carregador, calibre 9mm; 1
+carregador, calibre 9mm; 2 carregadores, calibre 40; 2
+carregadores, calibre 9mm e 40.’
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10513126.
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 6 de 9
+
+RCL 22612 AGR / RJ
+Dessa forma, o material ilícito apreendido, em quantidade
+expressiva, demonstra claramente a periculosidade do apelado,
+de modo a justificar a imposição do regime mais gravoso, sendo
+o único capaz de dar vazão aos objetivos punitivo e preventivo
+da pena e a teor do disposto no artigo 33, § 3º, do Código Penal.
+(…)
+Demais disso, o apelado praticou o crime na condição de
+policial militar, o que torna ainda mais reprovável a sua
+conduta.
+Em face do provimento do apelo ministerial, o recurso
+interposto pela defesa técnica restaria prejudicado por
+consequência lógica, já que os fundamentos acima expendidos
+são incompatíveis com o arrefecimento do regime prisional.
+De qualquer sorte, a irresignação da defensiva, tal como
+manifestada, não comporta sequer conhecimento. Com efeito,
+as razões do apelo reabrem discussão sobre o juízo de mérito,
+com pleito absolutório ou, em sede subsidiária, a redução da
+pena pela aplicação da causa de diminuição do § 4º, do art. 33,
+da Lei nº 11.343/06, na fração máxima, e da majorante do art.
+40, IV, do mesmo diploma legal, no mínimo legal.
+Contudo, as razões do recurso são completamente
+desconexas da matéria decidida no primeiro grau (regime de
+prisão), não se podendo deduzir, de forma lógica, os motivos da
+insurgência, isso porque não há impugnação clara e
+fundamentada às razões de julgar do juízo de primeiro grau.
+(…)
+Em razão do exposto, o voto é no sentido de DAR
+PROVIMENTO ao recurso ministerial para aplicar o regime
+prisional fechado e NÃO CONHECER do apelo defensivo”.
+
+A propósito, cito o seguinte precedente:
+
+“PENAL E PROCESSUAL PENAL. HABEAS CORPUS
+SUCEDÂNEO DE REVISÃO CRIMINAL. TRÁFICO DE
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10513126.
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 7 de 9
+
+RCL 22612 AGR / RJ
+ENTORPECENTES. CONDENAÇÃO A PENA INFERIOR A
+OITO
+ANOS.
+CIRCUNSTÂNCIAS
+JUDICIAIS
+DESFAVORÁVEIS.
+IMPOSIÇÃO
+DE
+REGIME
+MAIS
+GRAVOSO. POSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA.
+1. A aplicação da causa especial de diminuição de pena
+prevista no § 4º do artigo 33 da Lei 11.343/06 está condicionada
+ao preenchimento, cumulativo, dos requisitos legais:
+primariedade, bons antecedentes e agente que não se dedique a
+atividades criminosas nem integre organização criminosa.
+Precedentes: HC 108.135, Primeira Turma, Relator o Ministro
+Luiz Fux, DJ de 27.06.12; RHC 105.150, Primeira Turma, Relator
+o Ministro Dias Toffoli, DJ de 04.05.12; HC 101.265, Segunda
+Turma, Relator para o acórdão o Ministro Joaquim Barbosa, DJ
+de 06.08.12; RHC 107.860, Primeira Turma, Relatora a Ministra
+Rosa Weber, DJ de 25.09.12. 2. In casu, a paciente, na condição
+de “mula”, foi surpreendida transportando expressiva
+quantidade de droga ao exterior. Tal fato afasta o
+preenchimento dos requisitos do art. 33, § 4°, da Lei de Drogas,
+conforme parecer ministerial: “as instâncias ordinárias com
+base no acervo fático-probatório, evidenciaram que a paciente
+integrava organização criminosa ou, ao menos, dedicava-se a
+atividades criminosas, desautorizando a incidência da
+minorante prevista no art. 33, § 4° da Lei 11.343/06¹, uma vez
+que o redutor é incompatível com ambas as condições. A
+revisão de tal entendimento é inviável de ser realizada na via
+estreita do writ, por exigir dilação probatória. Contra a
+pretensão da paciente, é importante argumentar que o
+transportador da droga é elemento essencial na dinâmica do
+tráfico, pois sem a pessoa que conduza a droga ao seu local de
+destino fica inviabilizado o seu comércio.” 3. O regime inicial
+fechado revela-se possível em condenações por tráfico de
+entorpecentes, mesmo para o cumprimento de pena inferior a 8
+(oito) anos, desde que desfavoráveis as circunstâncias judiciais
+elencadas no artigo 59 do Código Penal. 4. In casu, considerada
+tão-somente a quantidade da pena aplicada, o paciente teria
+direito ao regime inicial semiaberto, nos termos do artigo 33, §
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10513126.
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 8 de 9
+
+RCL 22612 AGR / RJ
+2º, alínea b, do Código Penal. Todavia, a fixação de regime mais
+gravoso, deu-se à luz das circunstâncias judiciais do artigo 59
+do Código Penal e, no caso da regência específica do crime de
+tráfico de entorpecentes, do art. 42 da Lei n. 11.343/2006, verbis:
+“O juiz, na fixação das penas, considerará, com preponderância
+sobre o previsto no art. 59 do Código Penal, a natureza e a
+quantidade da substância ou do produto, a personalidade e a
+conduta social do agente”. 5. O habeas corpus não pode ser
+utilizado como sucedâneo de revisão criminal. Precedentes: HC
+111.412-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe
+de 14.08.13; RHC 116.038, Primeira Turma, Relator o Ministro
+Luiz Fux, DJe de 15.08.13; RHC 116.204, Segunda Turma,
+Relatora a Ministra Cármen Lúcia, DJe de 02.05.13; HC 115.609,
+Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe
+de 1º.04.13; RHC 111.547, Primeira Turma, Relator o Ministro
+Dias Toffoli, DJe de 15.06.12. E a condenação transitou em
+julgado em 13.06.2014. 6 A competência originária do Supremo
+Tribunal Federal para conhecer e julgar habeas corpus está
+definida, taxativamente, no artigo 102, inciso I, alíneas “d” e “i”,
+da Constituição Federal, sendo certo que os pacientes não estão
+arrolados em nenhuma das hipóteses sujeitas à jurisdição desta
+Corte. 7. Habeas Corpus extinto”. (HC 122.299/SP, Rel. Min. Luiz
+Fux, 1ª Turma, DJe 7.10.2014)
+
+Desse modo, entendo que não houve afronta ao acórdão proferido
+por esta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10513126.
+
+Supremo Tribunal Federal
+Extrato de Ata - 01/03/2016
+
+Inteiro Teor do Acórdão - Página 9 de 9
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NA RECLAMAÇÃO 22.612
+PROCED. : RIO DE JANEIRO
+RELATOR : MIN. GILMAR MENDES
+AGTE.(S) : ANDRÉ LUIZ BARRETO SERRALHO
+ADV.(A/S) : ALEXANDRE LOPES DE OLIVEIRA
+AGDO.(A/S) : TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO
+INTDO.(A/S) : MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO RIO DE
+JANEIRO
+Decisão: A Turma, por votação unânime, negou provimento ao
+agravo regimental, nos termos do voto do Relator. Presidência do
+Senhor Ministro Dias Toffoli. 2ª Turma, 1º.3.2016.
+Presidência do Senhor Ministro Dias Toffoli. Presentes à
+sessão os Senhores Ministros Celso de Mello, Gilmar Mendes, Cármen
+Lúcia e Teori Zavascki.
+Subprocurador-Geral
+Branco.
+
+da
+
+República,
+
+Dr.
+
+Paulo
+
+Gustavo
+
+Gonet
+
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 10470474
