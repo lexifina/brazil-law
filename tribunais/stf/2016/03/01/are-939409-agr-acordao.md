@@ -1,0 +1,595 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 14
+
+01/03/2016
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 939.409
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: TANYA MARTINS BARBOSA E OUTRO(A/S)
+: MARIA APARECIDA GUIMARAES SANTOS (OAB
+14192DF)
+: BANCO BRADESCO S/A
+: LINO ALBERTO DE CASTRO (OAB 06790DF)
+: EDUARDO MARANHAO FERREIRA (OAB 07265DF)
+: APARECIDA BORDIM MOREIRA SOARES (OAB
+02000/ADF)
+: GISALDO DO NASCIMENTO PEREIRA (OAB
+08971DF)
+: PAULA DE PAIVA SANTOS (OAB 27275DF)
+: IAN DOS SANTOS OLIVEIRA MILHOMEM (OAB
+00000 - OAB 45993DF)
+EMENTA
+
+Agravo regimental no recurso extraordinário com agravo. Direito
+Processual Civil. Prequestionamento. Ausência. Princípios do
+contraditório e da ampla defesa. Repercussão geral. Inexistência.
+Instituição financeira. Indenização por dano moral. Fatos e provas.
+Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa
+reflexa. Precedentes.
+1. Inadmissível o recurso extraordinário se os dispositivos
+constitucionais que nele se alega violados não estão devidamente
+prequestionados. Incidência das Súmulas nºs 282 e 356/STF.
+2. Ausência de repercussão geral do tema relativo à suposta violação
+dos princípios do contraditório, da ampla defesa, dos limites da coisa
+julgada e do devido processo legal (ARE nº 748.371/MT, Relator o
+Ministro Gilmar Mendes, DJe de 1º/8/13).
+3. Não se presta o recurso extraordinário para o reexame das provas
+constantes dos autos ou da legislação infraconstitucional de regência.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497899.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 14
+
+ARE 939409 AGR / DF
+Incidência das Súmulas nºs 279 e 636/STF.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, sob a Presidência do
+Senhor Ministro Dias Toffoli, na conformidade da ata do julgamento e das
+notas taquigráficas, por unanimidade de votos, em negar provimento ao
+agravo regimental, nos termos do voto do Relator.
+Brasília, 1º de março de 2016.
+MINISTRO DIAS TOFFOLI
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497899.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 14
+
+01/03/2016
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 939.409
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: TANYA MARTINS BARBOSA E OUTRO(A/S)
+: MARIA APARECIDA GUIMARAES SANTOS (OAB
+14192DF)
+: BANCO BRADESCO S/A
+: LINO ALBERTO DE CASTRO (OAB 06790DF)
+: EDUARDO MARANHAO FERREIRA (OAB 07265DF)
+: APARECIDA BORDIM MOREIRA SOARES (OAB
+02000/ADF)
+: GISALDO DO NASCIMENTO PEREIRA (OAB
+08971DF)
+: PAULA DE PAIVA SANTOS (OAB 27275DF)
+: IAN DOS SANTOS OLIVEIRA MILHOMEM (OAB
+00000 - OAB 45993DF)
+RELATÓRIO
+
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Tanya Martins Barbosa e outros interpõem tempestivo agravo
+regimental contra decisão em que conheci de agravo para negar
+seguimento ao recurso extraordinário, com a seguinte fundamentação:
+“Vistos.
+Trata-se de agravo contra a decisão que não admitiu
+recurso extraordinário interposto contra acórdão da Quarta
+Turma Cível do Tribunal de Justiça do Distrito Federal e dos
+Territórios, assim ementado:
+‘CIVIL. AÇÃO DE INDENIZAÇÃO. DANO
+MORAL. SUPOSTO ESTORNO EM CONTA-CORRENTE
+DOS
+AUTORES.
+TRANSAÇÃO
+BANCÁRIA
+CONCLUÍDA NO MESMO DIA. ALEGAÇÃO DE NÃO
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497851.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 14
+
+ARE 939409 AGR / DF
+TEREM SIDO BEM TRATADOS PELO GERENTE DO
+BANCO-RÉU.
+AUSÊNCIA
+DOS
+REQUISITOS
+ENSEJADORES DA INDENIZAÇÃO. SENTENÇA
+MANTIDA.
+1. Configurando o fato lesivo, demora na conclusão
+da transação bancária e inadequação do tratamento
+dispensado aos clientes, mero aborrecimento, e não
+gerando violação à intimidade, à imagem ou à vida
+privada daqueles, não há falar em indenização a título de
+danos morais.
+2. Apelação não provida.’
+Opostos embargos de declaração, não foram providos.
+No recurso extraordinário, sustenta-se violação dos incisos
+V, X, XXXII, XXXV, LIV e LV, da Constituição Federal.
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi
+interposto contra acórdão publicado após 3/5/07, quando já era
+plenamente exigível a demonstração da repercussão geral da
+matéria constitucional objeto do recurso, conforme decidido na
+Questão de Ordem no Agravo de Instrumento nº 664.567/RS,
+Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de
+6/9/07. Todavia, apesar da petição recursal haver trazido a
+preliminar sobre o tema, não é de se proceder ao exame de sua
+existência, uma vez que, nos termos do artigo 323 do Regimento
+Interno do Supremo Tribunal Federal, com a redação
+introduzida pela Emenda Regimental nº 21/07, primeira parte, o
+procedimento acerca da existência da repercussão geral
+somente ocorrerá ‘quando não for o caso de inadmissibilidade
+do recurso por outra razão’.
+A irresignação não merece prosperar.
+No que se refere aos incisos LIV e LV, do artigo 5º, da
+Constituição Federal, apontados como violados, carecem do
+necessário prequestionamento, sendo certo que os acórdãos
+proferidos pelo Tribunal de origem não cuidaram das referidas
+normas, as quais, também, não foram objeto dos embargos
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497851.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 14
+
+ARE 939409 AGR / DF
+declaratórios opostos pela parte recorrente. Incidem na espécie
+as Súmulas nºs 282 e 356 desta Suprema Corte.
+Ademais, a jurisprudência desta Corte está consolidada no
+sentido de que as alegações de afronta aos princípios da
+legalidade, do devido processo legal, da ampla defesa e do
+contraditório, dos limites da coisa julgada e da prestação
+jurisdicional, se dependentes de reexame de normas
+infraconstitucionais, podem configurar apenas ofensa indireta
+ou reflexa à Constituição Federal, o que não enseja reexame em
+recurso extraordinário. Nesse sentido:
+‘AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE
+OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS
+DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE
+OFENSA DIRETA À CONSTITUIÇÃO - RECURSO
+IMPROVIDO. O Supremo Tribunal Federal deixou
+assentado que, em regra, as alegações de desrespeito aos
+postulados da legalidade, do devido processo legal, da
+motivação dos atos decisórios, do contraditório, dos
+limites da coisa julgada e da prestação jurisdicional
+podem configurar, quando muito, situações de ofensa
+meramente reflexa ao texto da Constituição, circunstância
+essa que impede a utilização do recurso extraordinário.
+Precedentes’ (AI nº 360.265/RJ-AgR, Segunda Turma,
+Relator o Ministro Celso de Mello, DJ de 20/9/02).
+Ressalte-se, também, que o acórdão recorrido manteve a
+sentença de primeiro grau que julgou improcedente o pedido
+de indenização por danos morais em questão, amparado nos
+fatos e provas dos autos. Colhe-se de seu voto condutor a
+seguinte fundamentação:
+‘Alegam os autores que sofreram danos morais, ante
+o constrangimento por que passaram quando da venda de
+seu estabelecimento comercial, eis que o gerente da
+agência do banco réu, estornou o valor por eles recebido,
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497851.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 14
+
+ARE 939409 AGR / DF
+sem qualquer justificativa, destratando-os na presença de
+outros clientes e funcionários.
+Em relação ao dano moral, ainda que a conduta do
+réu não tenha sido a mais apropriada, eis que não
+promoveu
+adequadamente
+as
+informações
+aos
+requerentes, não vislumbro que tal situação tenha
+maculado a reputação dos apelantes, de modo que não
+merece censura o entendimento do preclaro magistrado
+que, seguindo as regras ordinárias de experiência,
+considerou insuficiente à violação dos direitos da
+personalidade a supracitada demora, não tendo os
+apelantes se desincumbido do ônus probatório que a lei
+processual civil lhe compete, conforme artigo 333, inciso I,
+do CPC.
+Para que surja a obrigação de reparação do dano
+moral mister se faz a demonstração do nexo de
+causalidade entre o dano suportado pelo ofendido e a
+conduta lesiva do ofensor. Em não restando provado o
+fato de que a conduta do preposto do réu tenha sido
+ilícita, não há falar em nexo de causalidade, excluindo por
+completo a possibilidade de indenização por danos
+morais.
+Ora, não se podem encarar meros aborrecimentos da
+vida cotidiana com sensibilidade exacerbada ao ponto de
+elevar qualquer descontentamento à qualidade de dano
+moral. Há de se ter em conta que nem todos os fatos que
+nós consideramos constrangedores dão causa ao dever de
+indenizar. (…).
+(…)
+Verifica-se assim que, embora os autores possam terse sentido ofendidos com as atitudes dos funcionários do
+banco, não há qualquer comprovação de que, em razão
+dos fatos alegados, tenham sido eles constrangidos ou
+humilhados, mormente por restar consignado que a
+importância fora devidamente creditada em sua contacorrente no mesmo dia.’
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497851.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 14
+
+ARE 939409 AGR / DF
+
+Nesse caso, é certo que para acolher a pretensão recursal e
+divergir do entendimento firmado pelas instâncias de origem
+no sentido da inexistência do nexo causal, seria imprescindível
+reexaminar o conjunto fático-probatório constante dos autos,
+providência vedada no âmbito do recurso extraordinário.
+Incidência da Súmula nº 279 desta Corte. Nesse sentido, anotese:
+‘AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+RESPONSABILIDADE CIVIL. INDENIZAÇÃO. DANOS
+MORAIS. AUSÊNCIA DE NEXO CAUSAL. REEXAME
+DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL
+FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO’ (ARE nº 828.807/RJ-AgR, Segunda Turma,
+Relatora a Ministra Cármen Lúcia, DJe de 26/9/14).
+‘AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. DIREITO DO
+CONSUMIDOR. RESPONSABILIDADE CIVIL. DANO
+MORAL. NEXO DE CAUSALIDADE. MONTANTE
+INDENIZATÓRIO. NECESSIDADE DE REEXAME DO
+CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.
+SÚMULA 279 DO STF. ALEGADA VIOLAÇÃO AO ART.
+5º, XXXVI, DA CONSTITUIÇÃO. AUSÊNCIA DE
+PREQUESTIONAMENTO. AGRAVO A QUE SE NEGA
+PROVIMENTO. I - Para se chegar à conclusão contrária à
+adotada pelo acórdão recorrido quanto à existência de
+nexo de causalidade a ensejar o dever de indenizar, bem
+como quanto ao montante indenizatório, necessário seria o
+reexame do conjunto fático-probatório constante dos
+autos, o que atrai a incidência da Súmula 279 do STF.
+Precedentes. II - Ausência de prequestionamento da
+questão constitucional suscitada. Incidência da Súmula
+282 do STF. Ademais, se os embargos declaratórios não
+foram opostos para suprir essa omissão, é inviável o
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497851.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 14
+
+ARE 939409 AGR / DF
+recurso, a teor da Súmula 356 desta Corte. III – Agravo
+regimental a que se nega provimento’ (ARE nº
+729.314/MG-AgR, Segunda Turma, Relator o Ministro
+Luiz Fux, DJe de 9/12/13).
+‘Agravo regimental no recurso extraordinário com
+agravo. Dano moral. Divulgação de matéria jornalística.
+Ato ilícito. Nexo causal. Demonstração. Não ocorrência.
+Reexame de fatos e provas. Impossibilidade. Precedentes.
+1. O Tribunal de origem concluiu, com base nos fatos e nas
+provas dos autos, que a conduta da ora agravada não foi
+abusiva e que o agravante não logrou demonstrar o nexo
+de causalidade entre a omissão de seu nome em matéria
+jornalística que citava candidatos à presidência da
+OAB/CE e o insucesso de sua candidatura ao referido
+posto. 2. Inadmissível, em recurso extraordinário, o
+reexame dos fatos e das provas dos autos. Incidência da
+Súmula nº 279/STF. 3. Agravo regimental não provido’
+(ARE nº 736.778/CE-AgR, Primeira Turma, de minha
+relatoria, DJe de 1º/8/13).
+‘AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL
+CIVIL. DIREITO DO CONSUMIDOR. DANOS MORAIS E
+INDENIZAÇÃO COMPENSATÓRIA. 1. Turma recursal.
+Possibilidade de remissão, no acórdão, aos fundamentos
+da sentença. 2. Controvérsia decidida à luz do Código de
+Defesa do Consumidor, das provas dos autos e do
+contrato firmado pelas partes. Incidência das Súmulas n.
+279 e 454 do Supremo Tribunal Federal. 3. Alegada
+contrariedade ao art. 5º, inc. XXXV, LIV e LV, da
+Constituição: ofensa constitucional indireta. 4. Agravo
+regimental ao qual se nega provimento’ (ARE nº
+682.317/SP-AgR, Primeira Turma, Relatora a Ministra
+Cármen Lúcia, DJe de 1º/8/2012).
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497851.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 14
+
+ARE 939409 AGR / DF
+‘Agravo regimental em recurso extraordinário com
+agravo. 2. Consumidor. Falha na prestação do serviço.
+Indenização por danos morais. Incidência do Enunciado
+279 da Súmula do STF. 3. Agravo regimental a que se nega
+provimento’ (ARE nº 685.480/SP-AgR, Segunda Turma,
+Relator o Ministro Gilmar Mendes, DJe de 1º/8/2012).
+‘CONSTITUCIONAL.
+PROCESSUAL
+CIVIL.
+INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279
+DO STF. I - A apreciação do recurso extraordinário
+demanda o exame de matéria de fato, o que atrai a
+incidência da Súmulas 279 do STF. II - Agravo regimental
+improvido’ (AI nº 634.072/RJ-AgR, Primeira Turma,
+Relator o Ministro Ricardo Lewandowski, DJ de 22/6/07).
+Ante o exposto, conheço do agravo para negar seguimento
+ao recurso extraordinário.”
+
+Insistem os agravantes na tese de que teria havido violação direta
+dos arts. 5º, incisos V, X, XXX, XXXII, LIV e LV; 170, inciso V; e 173, § 4º,
+da Constituição Federal.
+Alegam que os fatos são incontroversos, e, portanto, não seria
+necessário o reexame de provas.
+Afirmam que a matéria relativa ao estorno de transação bancária por
+instituição financeira, de má-fé e sem a ciência do cliente, possui
+repercussão geral.
+Asseveram que as questões teriam sido debatidas durante todo o
+processo, não podendo ser aplicado o óbice previsto nas Súmulas nºs 282
+e 356/STF.
+Aduzem, in verbis, que
+“(…) repercute em toda a sociedade a insegurança da
+Instituição Financeira ao adentrar na conta corrente do cliente,
+sem o consentimento deste, de forma fraudulenta
+retirando/estornando a importância transferida, ingressando na
+vida privada dos clientes/agravantes, causando-lhe insegurança
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497851.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 14
+
+ARE 939409 AGR / DF
+econômica, financeira e jurídica”.
+
+É o relatório.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497851.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 11 de 14
+
+01/03/2016
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 939.409
+DISTRITO FEDERAL
+
+VOTO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+O inconformismo não merece prosperar.
+Anote-se, inicialmente, que a suposta violação dos arts. 170, inciso V;
+e 173, § 4º, da Constituição Federal, não foi suscitada nas razões do apelo
+extremo, constituindo-se, assim, em inovação recursal manifesta em
+momento inoportuno.
+Conforme já consignado na decisão agravada, no que se refere aos
+incisos LIV e LV do art. 5º da Constituição Federal, apontados como
+violados, carecem eles do necessário prequestionamento, sendo certo que
+os acórdãos proferidos pelo Tribunal de origem não cuidaram das
+referidas normas, as quais, também, não foram objeto dos embargos
+declaratórios opostos pela parte recorrente. Incidem na espécie as
+Súmulas nºs 282 e 356 desta Corte.
+Ademais, a jurisprudência do Supremo Tribunal Federal está
+consolidada no sentido de que a afronta aos princípios da legalidade, do
+devido processo legal, da ampla defesa ou do contraditório, dos limites
+da coisa julgada ou da prestação jurisdicional, quando depende, para ser
+reconhecida como tal, da análise de normas infraconstitucionais, como
+ocorre no caso dos autos, configura apenas ofensa indireta ou reflexa à
+Constituição Federal, o que não enseja reexame da questão em recurso
+extraordinário.
+Ressalte-se que esta Corte, ao examinar o ARE nº 748.371/MT-RG, de
+relatoria do Ministro Gilmar Mendes, DJe de 1º/8/13, Tema 660,
+reafirmou esse entendimento. O referido julgado foi assim ementado:
+“Alegação de cerceamento do direito de defesa. Tema
+relativo à suposta violação aos princípios do contraditório, da
+ampla defesa, dos limites da coisa julgada e do devido processo
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497897.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 12 de 14
+
+ARE 939409 AGR / DF
+legal. Julgamento da causa dependente de prévia análise da
+adequada aplicação das normas infraconstitucionais. Rejeição
+da repercussão geral.”
+
+Por fim, registre-se que a questão relativa à configuração, ou não, do
+dano moral demandaria a análise da legislação infraconstitucional e o
+reexame do conjunto fático-probatório constante dos autos, providências
+vedadas no âmbito do recurso extraordinário. Incidência das Súmulas nºs
+636 e 279 desta Corte. Nesse sentido, anote-se:
+“Agravo regimental no recurso extraordinário com agravo.
+Direito Processual Civil. Contrato bancário. Indenização por
+danos morais. Prequestionamento. Ausência. Fatos e provas e
+cláusulas contratuais. Reexame. Impossibilidade. Legislação
+infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se
+admite o recurso extraordinário quando o dispositivo
+constitucional que nele se alega violado não está devidamente
+prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2.
+Não se presta o recurso extraordinário para o reexame das
+provas constantes dos autos, de cláusulas contratuais ou da
+legislação infraconstitucional de regência. Incidência das
+Súmulas nºs 279, 454 e 636/STF. 3. Agravo regimental não
+provido” (ARE nº 881.776/SP-AgR, Segunda Turma, de minha
+relatoria, DJe de 15/12/15).
+“AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO
+COM AGRAVO.
+CONSUMIDOR.
+MATÉRIA INFRACONSTITUCIONAL. PORTA DE BANCO.
+CARACTERIZAÇÃO DE DANO MORAL INDENIZÁVEL.
+NECESSIDADE DE REEXAME DO MATERIAL PROBATÓRIO.
+SÚMULA 279/STF. O Plenário do Supremo Tribunal Federal já
+assentou a inexistência de repercussão geral da controvérsia
+relativa à suposta violação aos princípios do contraditório, da
+ampla defesa, dos limites da coisa julgada e do devido processo
+legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+Para dissentir do acórdão recorrido e concluir pela existência
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497897.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 13 de 14
+
+ARE 939409 AGR / DF
+das inconstitucionalidades apontadas, seria necessária a análise
+do material fático probatório constante dos autos, procedimento
+inviável em sede de recurso extraordinário. Agravo regimental
+a que se nega provimento” (ARE nº 853.860/RJ-AgR, Primeira
+Turma, Relator o Ministro Roberto Barroso, DJe de 10/3/15).
+
+Nego provimento ao agravo regimental.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10497897.
+
+Supremo Tribunal Federal
+Extrato de Ata - 01/03/2016
+
+Inteiro Teor do Acórdão - Página 14 de 14
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 939.409
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. DIAS TOFFOLI
+AGTE.(S) : TANYA MARTINS BARBOSA E OUTRO(A/S)
+ADV.(A/S) : MARIA APARECIDA GUIMARAES SANTOS
+AGDO.(A/S) : BANCO BRADESCO S/A
+ADV.(A/S) : LINO ALBERTO DE CASTRO
+ADV.(A/S) : EDUARDO MARANHAO FERREIRA
+ADV.(A/S) : APARECIDA BORDIM MOREIRA SOARES
+ADV.(A/S) : GISALDO DO NASCIMENTO PEREIRA
+ADV.(A/S) : PAULA DE PAIVA SANTOS
+ADV.(A/S) : IAN DOS SANTOS OLIVEIRA MILHOMEM
+Decisão: A Turma, por votação unânime, negou provimento ao
+agravo regimental, nos termos do voto do Relator. Presidência do
+Senhor Ministro Dias Toffoli. 2ª Turma, 1º.3.2016.
+Presidência do Senhor Ministro Dias Toffoli. Presentes à
+sessão os Senhores Ministros Celso de Mello, Gilmar Mendes, Cármen
+Lúcia e Teori Zavascki.
+Subprocurador-Geral
+Branco.
+
+da
+
+República,
+
+Dr.
+
+Paulo
+
+Gustavo
+
+Gonet
+
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 10470596
