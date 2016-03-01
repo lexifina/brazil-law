@@ -1,0 +1,21 @@
+DECISÃO:
+Ementa: DIREITO ELEITORAL E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO DA MESA DIRETORA DA CÂMARA DOS DEPUTADOS. PRETENSÃO A POSSE COMO DEPUTADA FEDERAL. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Impetrante diplomada como suplente de Deputado Federal não tem direito líquido e certo a ser empossada como titular.
+2. O art. 10, § 3º, da Lei nº 9.504/1997 prevê percentual mínimo de candidaturas de cada sexo, mas não reserva de vagas, a serem escolhidas por voto popular.
+3. Writ a que se nega seguimento.
+    1. Trata-se de mandado de segurança, com pedido liminar, impetrado por Janine Andreiv Rodrigues, diplomada como suplente de Deputado Federal do Estado do Paraná, contra ato omissivo da Mesa Diretora da Câmara dos Deputados, que deixou de convocá-la para assumir o mandato como titular.
+    2. Narra a impetrante que, nas eleições de 2014, o Partido do Movimento Democrático Brasileiro – PMDB/PR, ao qual é filiada, obteve votos para eleger 04 (quatro) cadeiras na Câmara Federal, sendo que todas foram ocupadas por homens. Alega que, embora tenha sido a mais votada entre as candidatas do partido, não foi empossada na cadeira. Afirma, assim, que não há representação mínima do gênero feminino.
+     3. Requer, em caráter liminar, “seja determinado à Mesa Diretora da Câmara dos Deputados que a impetrante seja imediatamente convocada para assumir o mandato na condição de mulher mais votada do PMDB/PR” (doc. 2, p. 6). Em caráter final, pede a confirmação da liminar.
+    4. Por despacho, solicitei a comprovação da hipossuficiência ou o pagamento das custas (doc. 6). A parte impetrante pediu a aplicação do art. 3º, II, da Resolução nº 569/2016 do STF (doc. 8).
+    5.  É o relatório. Decido.
+    6. Em melhor exame, reconheço a isenção de custas (art. 3º, II, da Resolução nº 569/2016 do STF).
+    7. No mérito, o mandado de segurança pressupõe a alegação de lesão ou ameaça concreta a direito líquido e certo do impetrante. Significa dizer que o direito invocado deve vir expresso em norma legal, ser manifesto na sua existência e delimitado na sua extensão.
+    8. A impetrante foi diplomada como suplente de Deputado Federal pelo Tribunal Regional Eleitoral do Paraná (doc. 4), de modo que não há direito líquido e certo a ser empossada como titular da cadeira. À Mesa Diretora da Câmara dos Deputados compete apenas receber o diploma do candidato (art. 3º do RI/CD), e ao Presidente dar-lhe a posse (art. 17, inc. VI, d, do RI/CD). A diplomação no cargo compete à Justiça Eleitoral (art. 215 do Código Eleitoral).
+    9. Ocorre que, embora a diplomação tenha sido feita pelo TRE/PR, a referida Corte não foi apontada como autoridade impetrada neste writ, não cabendo ao “órgão julgador fazer a substituição da autoridade indicada como coatora pelo impetrante” (RMS 24.552, Rel. Min. Gilmar Mendes). E o STF não é competente para julgar mandado de segurança em que a autoridade impetrada não está prevista no art. 102, I, d , da CF.
+    10. De todo modo, ainda que assim não fosse, a impetrante não teria razão. O art. 10, § 3º, da Lei nº 9.504/1997, com redação dada pela Lei nº 12.034/2009, prevê que “Do número de vagas resultante das regras previstas neste artigo, cada partido ou coligação preencherá o mínimo de 30% (trinta por cento) e o máximo de 70% (setenta por cento) para candidaturas de cada sexo”. Trata-se, como se vê, de assegurar um percentual mínimo de candidaturas por gênero, e não de vagas no Parlamento.
+    11. Relevante como seja o objetivo de aumentar a participação das mulheres na política, o atendimento à pretensão da impetrante, além de não amparada em lei, contrariaria a soberania popular. Veja-se que, segundo a própria inicial, o candidato menos votado entre os que se sagraram eleitos pelo partido da requerente naquele Estado obteve 77.699 votos. Embora tenha sido a mais votada entre as mulheres, a impetrante obteve apenas 5.787 votos, de modo que conduzi-la judicialmente ao Parlamento frustraria a vontade dos eleitores do Estado do Paraná.
+    11. Diante do exposto, com base no art. 10 da Lei nº 12.016/2009 e no art. 21, § 1º, do RI/STF, nego seguimento ao writ.
+    Publique-se.
+          Brasília, 1º de março de 2016
+Ministro LUÍS ROBERTO BARROSO
+Relator
