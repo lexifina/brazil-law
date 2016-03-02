@@ -1,0 +1,11 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão da 4ª Turma do Tribunal Regional Federal da 4ª Região que extinguiu o processo sem resolução de mérito por ilegitimidade ativa da Defensoria Pública da União para propor ação civil pública na qual não se demonstrou a condição de hipossuficiência dos beneficiários da ação. O acórdão assim restou ementado (eDOC-16):
+    “AÇÃO CIVIL PÚBLICA. DEFESA DE MUTUÁRIOS DO SISTEMA FINANCEIRO DA HABITAÇÃO. PRETENSÃO DE SUSPENSÃO DAS CLÁUSULAS DE CONTRATOS DE FINANCIAMENTO FIRMADOS NO ÂMBITO DO SFH QUE IMPORTEM A EXONERAÇÃO DA CAIXA ECONÔMICA FEDERAL - CEF E DA CAIXA SEGURADORA S/A DA RESPONSABILIDADE POR DANOS DECORRENTES DE VÍCIOS CONSTRUTIVOS, SOB O ARGUMENTO DE QUE ABUSIVAS E, PORTANTO, NULAS DE PLENO DIREITO. ILEGITIMIDADE ATIVA AD CAUSAM DA DEFENSORIA PÚBLICA DA UNIÃO. Se na ação civil pública não há o necessário enquadramento dos beneficiários, mutuários do Sistema Financeiro da Habitação, na condição de necessitados, exsurge a ilegitimidade ativa ad causam da Defensoria Pública da União. Precedente da 4ª Turma deste TRF/4ª Região. Extinto o processo sem resolução de mérito. Prejudicado o recurso.”
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, alega-se ofensa aos arts. 5º, LXXIV, e 134, da Constituição Federal. Aponta-se violação dos princípio do acesso à justiça e da assistência jurídica integral.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    Em exame do ARE-RG 690.838, substituído pelo RE-RG 733433, ambos de relatoria do Ministro Dias Toffoli, o Plenário desta Corte, em julgamento de 04.11.2015 (Tema 607), fixou, por maioria, o entendimento de que a Defensoria Pública tem legitimidade para a propositura da ação civil pública em ordem a promover a tutela judicial de direitos difusos e coletivos de que sejam titulares, em tese, pessoas necessitadas.
+    Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 02 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
