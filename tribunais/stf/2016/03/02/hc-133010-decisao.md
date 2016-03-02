@@ -1,0 +1,23 @@
+Decisão:
+ementa: Processual penal. Habeas corpus. Tráfico de drogas. Prisão preventiva. Conversão em prisão domiciliar. Ausência de ilegalidade ou abuso de poder.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Reynaldo Soares da Fonseca, assim ementado:
+    “HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO. NÃO CONHECIMENTO. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. DECRETO DEVIDAMENTE FUNDAMENTADO. GRAVIDADE CONCRETA DOS FATOS; GRANDE QUANTIDADE DE SUBSTÂNCIA ENTORPECENTE APREENDIDA; BALANÇA DE PRECISÃO. PRISÃO DOMICILIAR. FILHA MENOR DE 6 (SEIS) ANOS. IMPRESCINDIBILIDADE AOS CUIDADOS NÃO DEMONSTRADA. CORRESPONDÊNCIAS COM PRESIDIÁRIOS SOBRE A MERCANCIA DE DROGAS. ESPECIAL RISCO À ORDEM PÚBLICA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+    1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício (Precedentes).
+    2. Caso em que a paciente foi surpreendida portando dois tijolos contendo aproximadamente 500 gramas de maconha, além de balança de precisão e R$393,00 em notas contadas.
+    3. O decreto constritivo encontra-se fundamentado na garantia da ordem pública, considerando a grande quantidade de substância entorpecente apreendida, circunstância essa que aponta a gravidade concreta dos fatos e a periculosidade da acusada.
+    4. Afora a apreensão de elevada quantidade de estupefaciente, há de se considerar sobretudo as correspondências sobre a mercancia de drogas mantidas pela paciente e sua comparsa com presidiários, para verificar se inviável a concessão da substituição da prisão preventiva por prisão domiciliar no caso em comento, pois devidamente indicado o especial risco à ordem pública e o fundado receio de que, se posta em liberdade, a acusada afrontará as regras de bom convívio social.
+    5. Ademais, o Tribunal afirmou que a paciente não demonstrou a imprescindibilidade de permanência em domicílio para cuidar de sua filha menor de 6 (seis) anos de idade, bem como a inexistência de qualquer parente capaz de cuidar da menor. Inocorrência de ilegalidade no indeferimento (Precedentes).
+    6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito e na periculosidade social da paciente, bem demonstradas no caso dos autos, e que levam à conclusão pela sua insuficiência para acautelar a ordem pública da reprodução de fatos criminosos.
+    7. Habeas corpus não conhecido.”
+    2. Extrai-se dos autos que a paciente foi presa em flagrante delito, em 1º.06.2015, surpreendida com 487,28g de maconha. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. O writ não foi conhecido.
+    4. Neste habeas corpus, a parte impetrante sustenta a necessidade da conversão da prisão preventiva em prisão domiciliar, ao argumento de que a paciente possui uma filha de 2 (dois) anos de idade que “não conta com a presença de outros familiares para seus cuidados”. Daí o pedido de concessão da ordem para que se converta a prisão preventiva em prisão domiciliar.
+    Decido.
+    5. A Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal (v.g. HC 109.956, Rel. Min. Marco Aurélio, e HC 104.045, Rel.ª Min.ª Rosa Weber). A hipótese, portanto, é de extinção do processo sem resolução do mérito por inadequação da via eleita.
+    6. Por outro lado, não é caso de concessão da ordem de ofício. Para além de observar que a inicial não foi instruída com cópia do inteiro teor do acórdão impugnado, verifico que, conforme assentou o Superior Tribunal de Justiça, “a paciente não demonstrou a imprescindibilidade de permanência em domicílio para cuidar de sua filha menor de 6 (seis) anos de idade, bem como a inexistência de qualquer parente capaz de cuidar da menor”.
+    7. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 02 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
