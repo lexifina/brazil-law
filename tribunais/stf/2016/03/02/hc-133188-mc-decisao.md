@@ -1,0 +1,26 @@
+Decisão:
+ementa: Processual Penal. Habeas corpus. Falsificação de documento público. Prescrição. Inexistência de risco à liberdade de locomoção. Liminar indeferida.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão majoritário da Quinta Turma do Superior Tribunal de Justiça, assim ementado:
+    “PENAL E PROCESSUAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. DECISÃO CONFIRMADA NO ÂMBITO DO STJ. FORMAÇÃO DA COISA JULGADA. PRESCRIÇÃO. MOMENTO. NÃO OCORRÊNCIA. PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO.
+    1. Consoante posicionamento do Supremo Tribunal Federal, especificamente no âmbito do processo penal, não é a interposição de recurso dentro do prazo legal que impede o trânsito em julgado da decisão judicial, mas sim a interposição de recurso cabível, pois o recurso só terá o poder de impedir a formação da coisa julgada se o mérito da decisão recorrida puder ser modificado.
+    2. A decisão que inadmite o recurso especial ou extraordinário possui natureza jurídica eminentemente declaratória, tendo em vista que apenas pronuncia algo que já ocorreu anteriormente — e não naquele momento — motivo pelo qual opera efeitos ex tunc. Assim, o trânsito em julgado retroagirá à data de escoamento do prazo para a interposição de recurso admissível.
+    3. Recursos flagrantemente incabíveis não podem ser computados no prazo da prescrição da pretensão punitiva, sob pena de se premiar o réu com a impunidade, pois a procrastinação indefinida de recursos contribui para a prescrição.
+    4. Conclusão que mais se coaduna com o princípio da duração razoável do processo, previsto no art. 5º, LXXVIII, da Carta Magna, erigido a direito fundamental, que tem por finalidade a efetiva prestação jurisdicional.
+    5. No caso em apreço, os agravos interpostos por WAGNER MEDEIROS MARTINS GARCIA e por ALYSSON ALEX SOUZA E SILVA, contra a decisão que negou seguimento ao recurso especial, não foram conhecidos no âmbito do Superior Tribunal de Justiça (fls. 3.318/3.320) - portanto, não tiveram o condão de obstar a formação da coisa julgada, que deve retroagir à data do escoamento do prazo para a interposição do recurso admissível.
+    6. Em razão disso, condenados à pena de 2 anos de reclusão, o prazo prescricional a ser utilizado é de 4 anos, a teor do art. 109, V, do Código Penal. Assim sendo, publicada a sentença em 28/10/2008 (fl. 2.192), o trânsito em julgado retroagirá à data do escoamento do prazo para a interposição do recurso admissível, contado a partir da publicação do acórdão proferido pelo tribunal a quo, que ocorreu em 13/01/2011 (fl. 2.475) - não ocorrendo a prescrição, portanto.
+    7. Agravo regimental desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de reclusão, em regime inicial aberto, pelo crime previsto no artigo 297, § 1º, do Código Penal, vedado o direito de recorrer em liberdade.
+    3. O Tribunal de Justiça do Estado de São Paulo deu parcial provimento à apelação da defesa para excluir a causa de aumento de pena prevista no § 1º do artigo 297 do Código Penal, reduzindo a pena para 2 (dois) anos e 4 (quatro) meses de reclusão.
+    4. Do acórdão estadual, a defesa impetrou habeas corpus no Superior Tribunal de Justiça e interpôs recurso especial. O recurso especial foi inadmitido na origem. Contra essa decisão, foi interposto agravo. O Relator do AResp 153.028, Ministro Jorge Mussi, não conheceu do agravo.
+    5. Na sequência, sobreveio o julgamento da impetração formalizada no STJ. O Relator do HC 213.364, Ministro Jorge Mussi, não conheceu do writ, contudo, concedeu a ordem de ofício, “para reduzir a pena privativa de liberdade do paciente para 2 anos de reclusão e substituí-la por duas restritivas de direitos, a serem estabelecidas pelo Juízo das Execuções, mantidos, no mais, a sentença e o aresto combatidos”.
+    6. Em seguida, foi interposto agravo regimental da decisão que não conheceu do agravo em recurso especial, não provido.
+    7. Neste habeas corpus, a parte impetrante sustenta a prescrição da pretensão punitiva do Estado, sob o argumento de que, “Fixada a pena em 02 anos, observa-se que a publicação da r. sentença ocorreu em 06.11.2008, conforme pode ser observado na publicação da sentença, fluiu prazo superior a quatro anos (06.11.2012)”. Alega, ainda, que “o acórdão proferido pela Corte Paulista foi exarado em 26.07.2010, ou seja, mesmo que se utilizando desta douta decisão como termo a quo, para contagem do lapso temporal, temos que em 26.07.2014 completou 04 anos daquela decisão”. Daí o pedido de concessão da ordem para que seja extinta a punibilidade do paciente.
+    Decido.
+    8. Não é caso de concessão da liminar, tendo em vista que não há risco iminente à liberdade de locomoção do paciente.
+    9. Com efeito, em análise preliminar, verifica-se que o paciente foi condenado à pena de 2 (dois) anos de reclusão, em regime inicial aberto, tendo o Superior Tribunal de Justiça determinado a substituição da pena privativa de liberdade por duas restritivas de direito.
+    10. Diante do exposto, indefiro a liminar. Dê-se vista dos autos à Procuradoria Geral da República.
+    Publique-se.
+    Brasília, 02 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
