@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. MANDATO SINDICAL. LIBERAÇÃO DE SERVIDORES: LIMITAÇÃO. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. MUNICÍPIO DE BELO HORIZONTE. SERVIDOR ELEITO PARA CARGO DE DIREÇÃO EM SINDICATO. LICENÇA PARA EXERCÍCIO DE MANDATO CLASSISTA. LIMITAÇÃO DO NÚMERO DE SERVIDORES LIBERADOS. AUSÊNCIA DE PREVISÃO LEGAL.
+    A Lei Orgânica do Município de Belo Horizonte prevê a liberação de servidores para exercício de mandato classista, sem definir um número específico, descabendo ao Administrador proceder a qualquer limitação.
+    Comprovado pelo servidor que foi eleito para cargo de direção sindical, cabível a concessão da segurança para garantir sua liberação do exercício das funções relativas ao cargo efetivo, nos termos do art. 58 da Lei Orgânica Municipal” (fl. 200).
+    2. O Agravante alega contrariado o art. 29 da Constituição da República, asseverando que
+    “o art. 34 da Constituição do Estado de Minas Gerais, aplicável por simetria constitucional ao Município de Belo Horizonte, prevê um número máximo de 04 (quatro) representantes para fins de liberação de servidor público eleito para exercício de mandato eletivo em diretoria de entidade sindical representativa.
+    Em outras palavras, a Constituição Estadual prevê expressamente, como forma de evitar abusos por parte de entidades sindicais, um limite proporcional a ser observado na liberação de servidores para exercício de direção sindical.
+    (…)
+    Já se explicou anteriormente, mas não custa reiterar, que a resistência do Município se relaciona não ao direito à liberação em si, mas ao seu deferimento em quantidade superior à permitida pela legislação” (fls. 207-211).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A apreciação do pleito recursal demandaria análise da legislação infraconstitucional aplicável à espécie (Constituição do Estado de Minas Gerais e Lei Orgânica do Município de Belo Horizonte). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide a Súmula n. 280 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. LICENÇA PARA EXERCÍCIO DE MANDATO CLASSISTA. REGULARIZAÇÃO DO SINDICATO. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 05.6.2014. 1. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento” (RE n. 854.723-ED, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 12.8.2015).
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (RE n. 523.664-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 16.5.2012).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. AGRAVO IMPROVIDO” (RE n. 602.293-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 29.9.2011).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. MANDATO SINDICAL. LIBERAÇÃO DE SERVIDORES: LIMITAÇÃO. SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA D DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (ARE n. 710.940, decisão monocrática transitada em julgado, de minha relatoria, DJe 21.9.2012).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de março de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
