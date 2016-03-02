@@ -1,0 +1,17 @@
+O ministro Dias Toffoli proferiu despacho de remessa destes autos à Presidência, nos seguintes termos:
+    “Cuida-se de agravo regimental, em face de decisão monocrática de minha lavra, mediante a qual julguei prejudicada ação cautelar incidental ao ARE nº 928.632/DF, diante do julgamento do mérito desse recurso por decisão monocrática do Min. Marco Aurélio.
+    Aduzindo o impedimento do eminente ministro, não apenas para julgamento desta cautelar, mas também para o julgamento do ARE nº 928.632/DF, os recorrentes sustentam a prevenção da Ministra Cármen Lúcia, a quem foi distribuído o ARE nº 928.635 (e sua cautelar, a AC nº 4045), que – segundo os recorrentes – combate acórdão de mesmo teor do combatido os autos do RE nº 928.632, ambos proferidos nos autos de ADI estaduais propostas contra mesma lei e prolatados em conjunto pelo Tribunal local. Considerando que a matéria versada no presente agravo regimental (prevenção entre feitos) se insere dentre as atribuições regimentais da Presidência desta Corte, reservo-me à apreciação do recurso somente após análise da questão pela Presidência” (documento eletrônico 20).
+    É o relatório necessário.
+    Decido.
+    Bem examinada a questão, verifico que o caso é de redistribuição do feito à Ministra Cármen Lúcia.
+    A presente ação cautelar tem como ação originária a ADI 20130020266542, proposta no Tribunal de Justiça do Distrito Federal e dos Territórios pelo Governo do Distrito Federal. O ARE 928.635/DF e a AC 4045/DF, se originaram da ADI 20140020029112, cuja proposição é da Ordem dos Advogados do Brasil – Seção Distrito Federal.
+    Na espécie, o TJDFT julgou concomitantemente e procedentes, por unanimidade, ambas as ações, declarando-se a inconstitucionalidade dos arts. 8º, 9º e 13 da Lei Distrital 5.141, de 31/07/2013 (sítio eletrônico do TJDFT).
+    Com efeito, dispõe o art. 69 do RISTF que a distribuição da ação ou do recurso gera prevenção para todos os processos a eles vinculados por conexão ou continência, o que se dá na espécie.
+    A conexão ocorre quando o objeto ou a causa de pedir for comum a duas ou mais ações (CPC, art. 103). A continência, por seu turno, ocorrerá sempre que houver identidade entre duas ou mais ações quanto às partes e à causa de pedir, mas o objeto de uma, por ser mais amplo, abranger o das outras (CPC, art. 104).
+    Esses fundamentos, que recomendam a reunião dos processos, se justificam pelo princípio da economia processual e para se evitar a possibilidade de julgamentos contraditórios sobre a mesma causa. Confira-se, nesse sentido, a decisão proferida pelo Ministro Carlos Velloso, Relator, no HC 83.501-AgR/DF:
+    “O procedimento interno de distribuição disciplinado por normas processuais e pelos respectivos dispositivos regimentais, determina o ministro relator do processo que em hipóteses específicas, por conveniência da instrução ou até mesmo para que se evitem decisões contraditórias, estará prevento para relatar, atraindo, em consequência, para si, os demais feitos que de alguma forma estejam entre si relacionados” (grifei).
+    Isso posto, determino à Secretaria que (i) proceda à redistribuição destes autos à Ministra Cármen Lúcia, Relatora do ARE 928.635/DF e da AC 4.045/DF, nos termos do art. 69, caput, do RISTF e, oportunamente, (ii) realize a compensação da distribuição à Relatora designada, observada a norma do § 4º do art. 67 do mesmo diploma interno.
+    Cumpra-se. Publique-se.
+    Brasília, 2 de março de 2016.
+Ministro RICARDO LEWANDOWSKI
+Presidente
