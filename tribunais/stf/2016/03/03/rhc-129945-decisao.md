@@ -1,0 +1,45 @@
+Decisão: Trata-se de recurso ordinário interposto de acórdão proferido pelo Superior Tribunal de Justiça cuja ementa possui o seguinte teor:
+    “PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. PROPORCIONALIDADE. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS EVIDENCIADA. REGIME FECHADO. POSSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. RECURSO NÃO PROVIDO.
+    1. Não há constrangimento ilegal no ponto em que o julgador, para fixar a pena-base acima do mínimo legal, em 7 anos, levou em consideração a grande quantidade de crack apreendida (mais de 600 pedras), em observância ao disposto no art. 42 da Lei n. 11.343/2006.
+    2. Para a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, é exigido do acusado seja primário, tenha bons antecedentes, não integre organização criminosa e não se dedique a atividades delituosas.
+    3. Não obstante o paciente seja primário, as circunstâncias do caso concreto levaram o Juiz sentenciante a concluir que ele não era um eventual ou pequeno traficante, ante evidências de que ele estaria ‘há vários dias comandando o tráfico na região da Serra Negra com Rua Popular’ e ‘está envolvido com a mercancia ilícita de entorpecentes desde os 15 (quinze) anos de idade, já tendo sido surpreendido 5 (cinco) vezes na prática ilícita – 3 (três) quando ainda era menor de idade e 2 (duas) após completar 18 (dezoito) anos, incluindo a que ora se apresenta a julgamento’.
+    4. As peculiaridades do caso concreto (em especial, a grande quantidade de crack apreendida) justificam a imposição do regime inicial de cumprimento de pena mais rigoroso, à luz do § 3º do art. 33 do Código Penal.
+    5. Agravo regimental não provido.”
+    O paciente foi condenado à pena de 6 anos e 6 meses de reclusão, em regime fechado, como incurso no art. 33, caput, da Lei n. 11.343/2006, porquanto fora flagrado com 624 pedras de crack e duas porções dessa substância, perfazendo o total de 287 g.
+    A defesa interpôs recurso de apelação, que restou desprovido, e embargos de declaração, os quais foram rejeitados, sobrevindo habeas corpus ao qual o Relator, no STJ, negou seguimento, ensejando agravo regimental cujo acórdão é ora impugnado.
+    O recorrente, representado pela Defensoria Pública da União, alega que a pena-base restou aumentada em 1 (um) ano e 6 (seis) meses, totalizando 6 (seis) anos e 6 (seis) meses, indevidamente com base apenas na circunstância atinente à natureza e quantidade da droga prevista no artigo 42 da Lei de Entorpecentes, evidenciando nítida desproporcionalidade com as demais circunstâncias judiciais elencadas no artigo 59 do Código Penal, sopesadas favoravelmente.
+    Sustenta ter direito à causa de diminuição da pena tal como previsto no § 4º do artigo 33 da mencionada Lei, vez que se trata de réu primário, portador de bons antecedentes, não integra organização criminosa nem é dedicado ao crime.
+    Afirma que a pena total restou fixada em quantidade que lhe garante o início da execução no regime semiaberto, ex vi do art. 33, § 2º, alínea b, do Código Penal, porquanto não é reincidente e a quantidade e natureza da droga são ínsitas ao tráfico de entorpecentes, por essa razão não servem de justificam regime mais gravoso.
+    Requer o conhecimento e provimento do presente recurso a fim de que seja fixada a pena-base no mínimo legal, bem como para que seja aplicada a minorante do § 4º do artigo 33 da Lei de Entorpecentes e fixado o regime semiaberto.
+    O MPF apresentou contrarrazões sustentando o desprovimento do recurso.
+    A Procuradoria Geral da República manifestou-se em parecer ementado nestes termos:
+    “Ementa. Recurso ordinário em habeas corpus. Tráfico de drogas. Dosimetria. Pena-base que ficou acima do mínimo legal com fundamentação parcialmente idônea. Aplicação de causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/06. Matéria de fato. Impossibilidade. Alteração do regime inicial de cumprimento da pena deve ser apreciado pelo juízo processante ou, se for o caso, pelo juízo da execução, após a nova dosimetria. Provimento parcial.”
+    É o relatório.
+    DECIDO.
+    O artigo 42 da Lei n. 11.343/2006 dispõe que “O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou produto, a personalidade e a conduta social do agente”.
+    É estreme de dúvida que o mencionado preceito legal autoriza a fixação da pena-base acima do mínimo legal quando ocorrentes as situações que menciona.
+    In casu, a natureza da droga (crack), cujo efeito é altamente deletério, e a expressiva quantidade (624 pedras) justificaram o aumento de 1 (um) ano e 6 (seis) meses acima da pena-base num intervalo de 5 (cinco) a 15 (quinze) anos previsto para o tipo, ou seja, em quantidade um pouco acima do mínimo legal, de forma devidamente fundamentada, por isso que descabe falar em desproporcionalidade, conforme se depreende do seguintes trechos do acórdão proferido pelo Tribunal local:
+    “As penas-base foram estabelecidas um pouco acima dos mínimos legais em atenção à qualidade da droga apreendida – crack (de alto poder lesivo e viciante) – e a sua razoável quantidade (mais de 600 pedras), tendo sido fielmente observados os arts. 59 do CP e 42 da Lei Antidrogas.
+    […]
+    De acordo com art. 42 da Lei Antidrogas, ‘o juiz, na fixação das penas, considerará, com preponderância sobre o art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente’.
+    No caso dos autos, como o réu foi surpreendido na posse de grande quantidade de crack – mais de seiscentas pedras – não se visualiza abuso algum no estabelecimento das sanções primárias em 7 (sete) anos de reclusão e 700 (setecentos) dias-multa.
+    Vale destacar que as reprimendas cominadas ao tráfico de drogas variam de 5 (cinco) a 15 (quinze) anos de reclusão e de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa, tendo sido estabelecidas em patamares bem mais próximos dos mínimos do que dos máximos previstos.
+    A pretendida aplicação da minorante do § 4º do art. 33 da Lei n. 11.343/2006 foi negada de modo fundamentado, qual se vê do seguinte trecho do acórdão:
+    “[...] não deve mesmo incidir a minorante do § 4º do art. 33 da Lei Antidrogas na específica situação dos autos.
+    Embora o réu seja tecnicamente primário e sem antecedentes, e não haja provas de seu envolvimento em organização criminosa, não pairam dúvidas de que ele se dedica ao narcotráfico com habilidade.
+    No relatório de investigação de vida pregressa de fls. 29/35 restou demonstrado que Ricardo Henrique Alves Pereira está envolvido com a mercancia ilícita de entorpecentes desde os 15 (quinze) anos de idade, já tendo sido surpreendido 5 (cinco) veze na prática ilícita – 3 (três) quando era menor de idade e 2 (duas) após completar 18 (dezoito) anos, incluindo a que ora se apresenta a julgamento.
+    Aliás, o próprio acusado confirmou, às fls. 5 que ‘já fora preso anteriormente ‘no 33’, conforme se expressa’. [grifei]
+    Portanto, ausente um dos requisitos para a aplicação da minorante […].”
+    O § 4º do art. 33 da Lei de Entorpecentes dispõe que “Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa” [grifei]
+    In casu, as cinco prisões por crimes de tráfico de entorpecentes autorizam a conclusão de que o paciente é dedicado ao crime, por isso que não satisfaz um dos requisitos do mencionado dispositivo legal.
+    A fixação do regime inicial de cumprimento da pena não resulta somente de seu quantum, mas, também, das circunstâncias previstas no art. 42, da Lei n. 11.343/2006, e 59 do Código Penal, a que faz remissão o art. 33, § 3º do mesmo Código, verbis:
+    “Art. 33. A pena de reclusão deve ser cumprida em regime fechado, semiaberto ou aberto. A de detenção, em regime semi-aberto ou aberto, salvo a necessidade de transferência a regime fechado.
+    ...
+    § 3º. A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código."
+    Segue-se daí que, não obstante a pena ter sido fixada em quantidade que permite o início de seu cumprimento no regime semiaberto, nada impede que o juiz, à luz do art. 59 do Código Penal, imponha regime mais gravoso, como no caso se deu, à consideração de circunstâncias judiciais desfavoráveis, as quais, de resto, não podem ser reexaminadas em sede de habeas corpus (HC 86.565/SP, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 10/02/2006; RHC 109.132/MG, Rel. Min. LUIZ FUX, DJe de 06/09/2011 e HC 120.576/MS, Rel. Min. GILMAR MENDES, DJe de 16/05/2014).
+    Ex positis, NEGO SEGUIMENTO ao recurso, com fundamento no artigo 38 da Lei n. 8.038/90.
+    Publique-se. Int..
+    Brasília, 3 de março de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
