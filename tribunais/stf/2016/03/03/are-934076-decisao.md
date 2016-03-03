@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que deixou de admitir recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de São Paulo que negou provimento a agravo de instrumento, cuja ementa transcrevo:
+    AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. REJEIÇÃO DAS MANIFESTAÇÕES DO EXECUTADO POR SE ENCONTRAREM OS TEMAS ARGUIDOS PRECLUSOS (LIQUIDEZ DO TÍTULO JUDICIAL, DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA, LIQUIDAÇÃO DA SOCIEDADE REQUERIDA, SUBSTITUIÇÃO DO BEM OBJETO DO ARRESTO, CONVERSÃO EM PENHORA JULGADA, E CÁLCULO). DECISÃO AGRAVADA IRRECORRÍVEL POR SE TRATAR DE MERO DESPACHO DE CUMPRIMENTO DE ORDEM PROFERIDA EM SENTENÇA E ACÓRDÃO DESTE TRIBUNAL – RECURSO NÃO CONHECIDO.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, alega-se violação aos artigos 5º, XXXV, e 93, X, da Constituição Federal, por ofensa aos princípios do acesso à justiça e ao dever de fundamentação das decisões judiciais.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Verifica-se que no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa ao princípio do devido processo legal é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe de 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 03 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
