@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Apelação Cível – Concurso Público para provimento de cargo de Soldado da Polícia Militar Estadual – Candidato excluído na fase da avaliação psicológica constante do certame – Ação julgada extinta sem exame do mérito – Recurso voluntário do autor – Desprovimento de rigor.
+    1. Reconduzido o autor ao concurso, em razão da tutela antecipada concedida – Posterior desclassificação na fase seguinte – Processo extinto, sem resolução do mérito, em razão da perda superveniente do interesse de agir – Recurso do autor visando a apreciação do mérito do recurso – Descabimento.
+    2. No mérito, ainda que assim não fosse, regras do concurso que observaram os ditames legais e constitucionais, tendo sido aplicadas a todos os candidatos indistintamente – Exame psicológico que se baseia em critérios objetivos, observando as especificações mencionadas no edital e seguindo os parâmetros do perfil psicológico adotado atualmente para o ingresso na carreira – Ausência de ilegalidade – Precedentes da Corte.
+    3. Ônus de sucumbência adequadamente arbitrados.
+    R. Sentença mantida nos termos do art. 252 do Regimento Interno da Corte.
+    Apelação desprovida.” (eDOC 1, p. 175)
+    Opostos embargos de declaração, estes foram rejeitados (eDOC 1, p. 194).
+    No recurso extraordinário (eDOC 1, p. 199-205), interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXIII, do texto constitucional.
+    Nas razões recursais, alega-se que o recorrente foi eliminado do concurso público na fase de exames psicológicos de maneira ilícita e que a realização do referido exame teria se dado de forma discriminatória.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que o recorrente deixou de ter interesse de agir pelo fato de ter sido desclassificado na fase subsequente à da avaliação psicológica. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Concedida a tutela antecipada (fl. 53), o autor prosseguiu no concurso em apreço, sendo, porém, desclassificado na fase seguinte, por ser considerado inapto na investigação social.
+    Diante disso, o MM. Juízo a quo entendeu por bem julgar extinto o feito, sem resolução do mérito, reconhecendo a perda superveniente do interesse de agir do autor, pois a tutela jurisdicional invocada não teria mais utilidade.
+    (...)
+    Diante da desclassificação do autor na fase seguinte do concurso, em razão de sua reprovação na avaliação psicológica, tem-se que o exame do mérito, no caso, tornou-se desnecessário, pois eventual provimento não mais seria útil ao recorrente, denotando sua superveniente ausência de interesse de agir.” (eDOC 1, p. 176)
+    Além do mais, o Tribunal a quo, com base na interpretação de cláusulas contidas no edital, entendeu que os critérios para exame psicológico eram objetivos, ao contrário do que defendeu o recorrente. Nesse sentido:
+    “De fato, o Edital do Concurso Público previu, expressamente, em um dos seus itens a realização de exames psicológicos os quais, ao contrário do asseverado, não se basearam em critérios subjetivos, mas sim em critérios objetivos, observando as especificações mencionadas no edital, a fim de avaliar o perfil psicológico do candidato, de acordo com os parâmetros do perfil psicológico adotado atualmente para o ingresso na carreira de Agente de Segurança Penitenciária.
+    Como previsto no edital, que é a lei do concurso, o exame psicológico realizado no autor é válido, porquanto executado mediante critérios objetivamente fixados e as conclusões do laudo encontram-se devidamente motivadas, segundo os princípios aplicáveis aos concursos públicos.
+    Desta forma, verifica-se a inocorrência de violação ao princípio constitucional da ampla defesa e do contraditório, pois o candidato tomou ciência do inteiro teor do resultado de sua reprovação no exame psicológico.” (eDOC 1, p. 178)
+     Assim, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas do edital, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. CONCURSO. REGRAS DO EDITAL. ALEGAÇÃO DE OFENSA AOS ARTS. 5º, LIV E LV, E 37, CAPUT, DA MAGNA CARTA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. SÚMULAS 280 E 454. ACÓRDÃO RECORRIDO PUBLICADO EM 28.01.2013. A pretensão do agravante encontra óbice nas Súmulas 280 e 454 do STF, pois eventual ofensa aos preceitos constitucionais invocados somente se materializaria, no caso, de forma reflexa, a demandar, em primeiro plano, para sua constatação, o exame de cláusulas do edital de concurso público e de normas de direito local. Agravo regimental conhecido e não provido.” (ARE-AgR 808.309/CE, Primeira Turma, Rel. Min. Rosa Weber, DJe de 14.10.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXAME PSICOTÉCNICO. CONCURSO PÚBLICO. NECESSIDADE DE CRITÉRIOS OBJETIVOS. REEXAME DE PROVAS E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que o exame psicotécnico pode ser estabelecido para concurso público desde que por lei, tendo por base critérios objetivos de reconhecido caráter científico, devendo existir, inclusive, a possibilidade de reexame. Precedentes. 2. Reexame de fatos e provas e de clausulas editalícias. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE-AgR 473.719/DF, Segunda Turma, Rel. Min. Eros Grau, DJe 1.8.2008).
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 3 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
