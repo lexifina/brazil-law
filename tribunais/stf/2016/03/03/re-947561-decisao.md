@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa reproduzo a seguir (eDOC 3, p. 2):
+    “Ação direta de inconstitucionalidade. Lei 4.973/2015, do Município de Taubaté. Isenção de taxa de inscrição em concurso público a quem comprove estar desempregado. Obrigatoriedade de constar no edital essa circunstância. Inconstitucionalidade, por se imiscuir em matéria de competência exclusiva do Poder Executivo. Descabimento. Vício de iniciativa. Desrespeito aos artigos 5º, caput, 144 e 159, parágrafo único da Constituição do Estado. Ação procedente.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 2º; 61, §1º, II; e 145, II, do Texto constitucional.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 7, p. 8-9):
+    “No ponto, o acórdão recorrido contraria o art. 145, II, da Constituição da República, ao predicar a natureza jurídica da contraprestação pecuniária para inscrição em concurso público como preço público, pois, ‘taxa e preço público diferem quanto à compulsoriedade de seu pagamento. A taxa é cobrada em razão de uma obrigação legal enquanto o preço público é de pagamento facultativo por quem pretende se beneficiar de um serviço prestado” (RT 914/430), e além disso este se caracteriza como receita não tributária decorrente da prestação de serviços públicos empresariais ou da exploração de atividade econômica pelo Estado ou de bem público pelo particular. A diferenciação encontra-se na Súmula 545 do Supremo Tribunal Federal.
+    (...)
+    E a isenção de taxas não se encarta dentre as matérias sujeitas à iniciativa exclusiva do Chefe do Poder Executivo, razão pela qual houve contrariedade aos arts. 2º e 61, § 1º, II, da Carta Magna”.
+    É o relatório. Decido.
+    Assiste razão ao recorrente.
+    O acórdão recorrido, ao acolher apenas a inconstitucionalidade formal para julgar a ação direta, divergiu da jurisprudência do Supremo Tribunal Federal que consolidou entendimento no sentido de que não é inconstitucional a lei de iniciativa parlamentar que estabelece a isenção do pagamento de taxa em concurso público. Eis a ementa do julgado:
+     “CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 6.663, DE 26 DE ABRIL DE 2001, DO ESTADO DO ESPÍRITO SANTO. O diploma normativo em causa, que estabelece isenção do pagamento de taxa de concurso público, não versa sobre matéria relativa a servidores públicos (§ 1º do art. 61 da CF/88). Dispõe, isto sim, sobre condição para se chegar à investidura em cargo público, que é um momento anterior ao da caracterização do candidato como servidor público. Inconstitucionalidade formal não configurada. Noutro giro, não ofende a Carta Magna a utilização do salário mínimo como critério de aferição do nível de pobreza dos aspirantes às carreiras púbicas, para fins de concessão do benefício de que trata a Lei capixaba nº 6.663/01. Ação direta de inconstitucionalidade julgada improcedente.” (ADI 2.672/ES, Relator para o acórdão o Ministro Ayres Britto, Plenário, DJ 10.11.2006)
+    No mesmo sentido: RE 396.468-AgR, da relatoria do Ministro Marco Aurélio, Primeira Turma, DJe 19.06.2012:
+    “CONCURSO PÚBLICO – ISENÇÃO DE TAXA DE INSCRIÇÃO – É constitucional a Lei local nº 2.778/89, no que implicou a concessão de isenção de taxa para a inscrição em concurso público. Precedente: Ação Direta de Inconstitucionalidade nº 2.672-1/ES – Pleno – Relatora Ministra Ellen Gracie cujo acórdão foi publicado no Diário da Justiça de 10 de novembro de 2006. “
+    Ante o exposto, conheço e dou provimento ao recurso extraordinário para reformar o acórdão recorrido e julgar improcedente a ação direta de inconstitucionalidade (arts. 557, § 1º-A, do CPC e 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 3 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
