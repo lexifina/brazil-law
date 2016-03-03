@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1624, de 1º de março de 2016
+Altera a Instrução Normativa RFB nº 1.598, de 9 de dezembro de 2015, que dispõe sobre o Programa Brasileiro de Operador Econômico Autorizado.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 578, 579 e 595 do Decreto nº 6.759, de 5 de fevereiro de 2009, no art. 22 do Anexo da Diretriz do Mercosul/CCM nº 32, de 2008, internalizada pelo Decreto nº 6.870, de 4 de junho de 2009, e em observância aos princípios da Estrutura Normativa SAFE da Organização Mundial de Aduanas (OMA), resolve:
