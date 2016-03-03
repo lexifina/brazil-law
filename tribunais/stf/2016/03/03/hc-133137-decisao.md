@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Segunda Turma deste Supremo Tribunal Federal nos autos do RE 801164 (Rel. Min. Luiz Fux), o qual, por unanimidade e nos termos do voto do relator, recebeu os embargos de declaração como agravo regimental e a este negou provimento, com a determinação de baixa imediata dos autos.
+    Em linhas gerais, o impetrante sustenta ilegalidades ocorridas no processo-crime que desafiou o recurso extraordinário julgado pelo órgão fracionário desta Corte.
+      2. O Supremo Tribunal Federal firmou a orientação do não cabimento de habeas corpus contra ato de Ministro Relator ou contra decisão colegiada de Turma ou do Plenário do próprio Tribunal, independentemente de tal decisão haver sido proferida em habeas corpus ou proferida em recursos em geral (Súmula 606/STF). Esse entendimento foi reafirmado nos seguintes precedentes do Plenário desta Corte, entre outros: HC 107325, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. CÁRMEN LÚCIA, DJe de 30-05-2012; HC 118459 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Tribunal Pleno, DJe de 27-02-2014; HC 118037 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Tribunal Pleno, DJe de 28-02-2014; HC 105.959/DF, Red. para acórdão Min. EDSON FACHIN, julgado em 17/2/2016. HC 97009, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 04-04-2014, este assim ementado:
+    “HABEAS CORPUS. DECISÃO DE MINISTRO RELATOR DO SUPREMO TRIBUNAL FEDERAL. NÃO CABIMENTO. SÚMULA 606. DECISÃO IMPUGNÁVEL POR MEIO DE AGRAVO INTERNO, E NÃO ATRAVÉS DE OUTRA IMPETRAÇÃO. HABEAS CORPUS NÃO CONHECIDO.
+    1. Esta Corte firmou a orientação do não cabimento de habeas corpus contra ato de Ministro Relator ou contra decisão colegiada de Turma ou do Plenário do próprio Tribunal, independentemente de tal decisão haver sido proferida em sede de habeas corpus ou proferida em sede de recursos em geral (Súmula 606).
+    2. É legítima a decisão monocrática de Relator que nega seguimento a habeas corpus manifestamente inadmissível, por expressa permissão do art. 38 da Lei 8.038/1990 e do art. 21, § 1º, do RISTF. O caminho natural e adequado para, nesses casos, provocar a manifestação do colegiado é o agravo interno (art. 39 da Lei 8.038/1990 e art. 317 do RISTF), e não outro habeas corpus.
+    3. Habeas corpus não conhecido”.
+    3. Pelo exposto, nego seguimento ao pedido (art. 21, § 1°, do RISTF). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 3 de março de 2016.
+Ministro Teori Zavascki
+Relator
+      Documento assinado digitalmente
