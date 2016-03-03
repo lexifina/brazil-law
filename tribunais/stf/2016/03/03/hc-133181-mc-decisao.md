@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC 63.522/ES. Consta dos autos, em síntese, que (a) os pacientes foram presos preventivamente, em 14/6/2012, e pronunciados, em 29/7/2015, pela suposta prática dos crimes de homicídio qualificado, por duas vezes (art. 121, § 2º, I e IV, e art. 121, § 4º, c/c art. 29, caput, todos do Código Penal); (b) questionando o excesso de prazo na conclusão da primeira fase do júri, a defesa impetrou habeas corpus ao Tribunal de Justiça do Estado do Espírito Santo, que denegou a ordem; (c) interposto, então, recurso ordinário ao Superior Tribunal de Justiça, que lhe negou provimento, em acórdão assim ementado, no que interessa:
+    “(...) 1. Pronunciado o réu, resta superada eventual delonga em sua prisão decorrente de excesso de prazo na finalização da primeira etapa do processo afeto ao Júri. Inteligência do verbete 21 da Súmula deste Sodalício.
+    2. Os prazos para a conclusão da instrução criminal não são peremptórios, podendo ser flexibilizados diante das peculiaridades do caso concreto, em atenção e dentro dos limites da razoabilidade.
+    3. Tratando-se de ação penal em que se apura a prática de dois homicídios qualificados motivados em busca controle do tráfico de drogas, com 4 (quatro) réus com procuradores distintos e com a participação da defensoria pública, com contribuição das defesas na morosidade, que deixaram de apresentar respostas de forma célere e por não comparecerem a audiências, revela-se plenamente justificado o prolongamento da instrução processual.
+    4. O andamento do processo encontra-se dentro dos limites da razoabilidade, não havendo notícias de que esteja ocorrendo morosidade ou retardo excessivo na implementação dos atos processuais, tampouco desídia ou inércia por parte do Juízo processante.
+    5. Inviável a aplicação de cautelares diversas quando a segregação encontra-se justificada na necessidade de se acautelar o meio social, em razão da gravidade maior do delito.
+    6. Recurso desprovido”.
+    Nesta ação, a Defensoria Pública do Estado do Espírito Santo sustenta, em síntese, a ilegalidade da segregação cautelar dado o excesso de prazo sem previsão de julgamento pelo tribunal do júri. Requer, liminarmente, o relaxamento da prisão dos pacientes, garantindo-lhes o direito de responder ao processo em liberdade.
+    2. As questões suscitadas não evidenciam hipóteses que autorizem, liminarmente, a determinação de imediata soltura do paciente. Consideradas as circunstâncias da causa, o exame da pretensão será feito no momento próprio, em caráter definitivo.
+    3. Pelo exposto, indefiro a liminar. Solicitem-se informações, com cópia da petição inicial, ao Juízo da 4ª Vara Criminal da Comarca de Cariacica/ES (Processo 001456432.2012.8.08.0012). Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 3 de março de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
