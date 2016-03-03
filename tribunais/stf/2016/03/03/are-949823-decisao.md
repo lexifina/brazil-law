@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Colégio Recursal da 19ª Circunscrição Judiciária da Comarca de Sorocaba – Estado de São Paulo, ementado nos seguintes termos:
+    ‘’Cobrança de tarifas em contrato de financiamento – Controvérsia decidida nos autos do Recurso Especial n° 1.251.331/RS, Relatora Ministra Maria Isabel Galloti – Contrato celebrado após 30/04/2008 – Legitimidade das tarifas limitada àquelas previstas em norma padronizada do Banco Central – Recurso parcialmente provido’’. (fl.70)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, ‘’a’’, da Constituição Federal, aponta-se violação aos art. 5°, caput, primeira parte, LV e XXXV, do texto constitucional.
+    Nas razões recursais, alega-se violação aos princípios do devido processo legal, da ampla defesa e do contraditório. Ademais, assevera-se ter havido violação constitucional, uma vez que os contratos firmados devem ser cumpridos, no que se refere ao ato jurídico perfeito.
+    Por fim, ressalta-se a violação ao direito constitucional de livre acesso ao Judiciário e ao duplo grau de jurisdição, uma vez que, segundo a recorrente, houve interpretação injusta por parte do poder judiciário.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie, Circular da BACEN 3.371/2007; Resolução CMN 3.919/2010; Resolução CMN 3.518/07, art. 1° e 3°, art. 6° da Lei 11.882/08; e Portaria do DETRAN 1.070/01 consignou que pode ser cobrada uma ou outra tarifa, mas não as duas, sob pena de incorrer em bis in idem. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    ‘’Sendo assim, conclui-se que também pode ser cobrada a referida tarifa de gravame, ou registro do contrato. O que não se pode admitir, entretanto, é a cobrança de duas tarifas, uma com cada denominação, sob pena de se configurar bis in idem’’.
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confira-se, a propósito, o seguinte precedente:
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Consumidor. Tarifas bancárias. Cobrança. Ausência de repercussão geral da matéria. Questão adstrita ao âmbito infraconstitucional. Precedentes. 1. O Plenário desta Corte, em sessão realizada por meio eletrônico, no julgamento do ARE nº 675.505/RJ, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral do tema relativo à possibilidade de cobrança de taxas e tarifas bancárias administrativas, acessórias aos contratos bancários, à luz do Código de Defesa do Consumidor, dado o caráter infraconstitucional da matéria. 2. Agravo regimental não provido. (ARE 708836 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 11/12/2012, ACÓRDÃO ELETRÔNICO DJe-025)
+    No tocante à suposta ofensa ao princípio da ampla defesa, do contraditório, do devido processo legal, do livre acesso ao Judiciário e, ainda, no que concerne às tarifas vinculadas a contrato bancário, observo que o Supremo Tribunal Federal já apreciou essas matérias, respectivamente, no ARE-RG 748.371 (tema 660), DJe 1º.8.2013; no AI-QO-RG 791.292, DJe 10.8.2010 (tema 339); e no ARE-RG 675.505, DJe 1º.8.2013 (tema 614), todos de minha relatoria, oportunidades em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 3 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
