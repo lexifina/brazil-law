@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 5, de 2 de fevereiro de 2016
+ASSUNTO: CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO – CIDE EMENTA: CIDE-REMESSAS. PAGAMENTOS PELA APRESENTAÇÃO DE PALESTRAS. INCIDÊNCIA. Incide a Contribuição de Intervenção no Domínio Econômico sobre pagamentos efetuados a pessoas físicas ou jurídicas residentes ou domiciliadas no exterior em contraprestação pela apresentação de palestras no Brasil por especialistas. DISPOSITIVOS LEGAIS: Lei nº 10.168, de 2000, art. 2º, caput e § 2º, com redação dada pela Lei nº 10.332, de 2001; Decreto nº 4.195, de 2002, art. 10; e IN RFB nº 1.455, de 2014, art. 17, § 1º, II, “a”.
+[arquivo anexo: SC Cosit nº 5-2016.pdf]
