@@ -1,0 +1,39 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, II, 207 e 209, I, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie e no conjunto probatório pertinente, a ensejar a aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.”
+    A aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a violação dos preceitos constitucionais apontados. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. INDENIZAÇÃO POR DANOS MORAIS. INSTITUIÇÃO DE ENSINO. IMPOSSIBILIDADE DE CONCESSÃO DO DIPLOMA DE GRADUAÇÃO. RESPONSABILIDADE CIVIL DA UNIÃO. VERIFICAÇÃO DA OCORRÊNCIA DO NEXO DE CAUSALIDADE. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279/STF.
+    1. O nexo de causalidade apto a gerar indenização por dano moral em face da responsabilidade do Estado, quando controversa sua existência, demanda a análise do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula nº 279/STF que dispõe: ‘Para simples reexame de prova não cabe recurso extraordinário’.
+    2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    3. In casu, o acórdão recorrido assentou: ‘ADMINISTRATIVO. APELAÇÕES. RECURSO ESPECIAL REPETITIVO. ORIENTAÇÃO CONSOLIDADA NO STJ. JUÍZO DE RETRATAÇÃO. 543-C, § 7º, DO CPC. COMPETÊNCIA DA JUSTIÇA FEDERAL. ALINHAMENTO À JURISPRUDÊNCIA DO STJ. AÇÃO ORDINÁRIA - ENTREGA DE DIPLOMA DE CURSO SUPERIOR SEMI-PRESENCIAL REALIZADO PELA FACULDADE VIZIVALI NO ÂMBITO DO PROGRAMA ESPECIAL DE CAPACITAÇÃO PARA A DOCÊNCIA DOS ANOS INICIAIS DO ENSINO FUNDAMENTAL E DA EDUCAÇÃO INFANTIL INSTITUÍDO PELO ESTADO DO PARANÁ. INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO - INOCORRÊNCIA. INVALIDADE DA AUTORIZAÇÃO DE FUNCIONAMENTO DO CURSO OUTORGADA PELO ESTADO DO PARANÁ - USURPAÇÃO DE COMPETÊNCIA DA UNIÃO. AUSÊNCIA DE RESPONSABILIDADE CIVIL DA UNIÃO. PROGRAMA RESTRITO AOS PROFESSORES COM VÍNCULO EMPREGATÍCIO - REALIZAÇÃO DO CURSO PELA PARTE AUTORA COM O PREENCHIMENTO DO REQUISITO SUBJETIVO - AUSÊNCIA DE RESPONSABILIDADE CIVIL DA VIZIVALLI. INDENIZAÇÃO POR DANOS MORAIS DEVIDA PELO ESTADO DO PARANÁ. SUCUMBÊNCIA - DISCIPLINA DA RELAÇÃO PROCESSUAL DA PARTE AUTORA COM AS RÉS UNIÃO E VIZIVALLI -DISCIPLINA DA RELAÇÃO PROCESSUAL DA PARTE AUTORA COM O ESTADO DO PARANÁ. PREQUESTIONAMENTO.’
+    4. Agravo regimental DESPROVIDO.” (RE 848.865-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 23.4.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. DANOS MORAIS. AUSÊNCIA DE NEXO CAUSAL. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 828.807-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 26.9.2014)
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Consumidor. Cancelamento de vôo. Cinzas vulcânicas no espaço aéreo. Danos morais e patrimoniais. Excludente. Dever de indenizar. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. A Corte de origem concluiu, com fundamento nos fatos e nas provas dos autos, que não restaram demonstrados os pressupostos legais da responsabilidade civil, haja vista a existência de excludente de nexo causal entre os supostos danos sofridos pelo agravante e o fato por ele tido como danoso.
+    2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF.
+    3. Agravo regimental não provido.” (ARE 755.563-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 17.10.2013)
+    “Agravo regimental no agravo de instrumento. Responsabilidade civil do Poder Público. Nexo de causalidade comprovado nas instâncias de origem. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. O Tribunal de origem, ao analisar os fatos e as provas constantes dos autos, concluiu pela existência do nexo de causalidade entre a conduta praticada pelo agente público e o dano causado ao ora agravado.
+    2. Rever esse entendimento demandaria o reexame dos fatos e das provas da causa, o que é inadmissível em recurso extraordinário. Incidência da Súmula nº 279/STF.
+    3. Agravo regimental não provido.” (AI 776.920-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 27.6.2013)
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Acidente de trânsito fatal. Responsabilidade do Estado. Dano moral e material. Dever de indenizar. Nexo de causalidade. Discussão. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. Inadmissível, em recurso extraordinário, o reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF.
+    2. Agravo regimental não provido.” (ARE 827.380-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 10.4.2015)
+    Quanto à alegação de ilegitimidade passiva ad causam o exame da controvérsia não extrapola o âmbito infraconstitucional, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, verbis:
+    “DIREITO CIVIL E PROCESSUAL CIVIL. LEGITIMIDADE PASSIVA AD CAUSAM. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 30.3.2010.
+    O exame da alegada ofensa ao art. 5º, II e XXXV, da Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal.
+    Na esteira da Súmula 636/STF, “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”
+    Agravo regimental conhecido e não provido.” (ARE 682.061-AgR, de minha lavra, 1ª Turma, DJe 02.5.2013)
+     AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. LEGITIMIDADE PASSIVA AD CAUSAM. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – A controvérsia relativa à legitimidade passiva ad causam, no caso concreto, situa-se no âmbito da legislação processual ordinária. A afronta à Constituição, se ocorrente, seria apenas indireta. Incabível, portanto, o recurso extraordinário. Precedentes.
+    II – Agravo regimental a que se nega provimento. (RE 576.694-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 22.8.2014)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de março de 2016.
+Ministra Rosa Weber
+Relatora
