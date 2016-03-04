@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto de acórdão do Colégio Recursal de Casa Branca/SP, assim ementado:
+    “Obrigação de restabelecer linha telefônica que começou a apresentar problemas, depois foi abruptamente desligada, mediante imposição de astreintes. Dano moral decorrente dos mesmos fatos. Contrato de serviços telefônicos. Aplicação do CDC. Fatos incontroversos no sentido de que, inobstante em dia as faturas, a prestação do serviço foi comprometida por a requerida, na melhor das hipóteses, atualizar a tecnologia empregada. Responsabilidade de reparar os danos verificados, inclusive moral, ante a Responsabilidade Objetiva, com incidência da Teoria do Risco Profissional ao caso concreto. Sentença de procedência mantida, até porque bem fixadas a indenização e as astreintes.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV; 37 e 93, IX, da Constituição.
+    O recurso extraordinário não deve ser provido.
+    Quanto à alegação de ofensa aos arts. 5°, XXXV, e 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, Rel. Min. Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, a solução da controvérsia demanda a análise da legislação infraconstitucional aplicada ao caso e a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em sede de recurso extraordinário.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 04 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
