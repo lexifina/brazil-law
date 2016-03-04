@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 7, de 2 de fevereiro de 2016
+ASSUNTO: CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO – CIDE EMENTA: CIDE-REMESSAS. PAGAMENTOS PELA IMPRESSÃO GRÁFICA SEM A INCLUSÃO DA ARTE GRÁFICA. NÃO INCIDÊNCIA. Não incide a Contribuição de Intervenção no Domínio Econômico sobre pagamentos efetuados a pessoa jurídica domiciliada no exterior relativos a contratos de impressão gráfica de material promocional que não incluam o trabalho de design do material. DISPOSITIVOS LEGAIS: Lei nº 10.168, de 2000, art. 2º, caput e § 2º, com redação dada pela Lei nº 10.332, de 2001; Decreto nº 4.195, de 2002, art. 10; e IN RFB nº 1.455, de 2014, art. 17, § 1º, II, “a”.
+[arquivo anexo: SC Cosit nº 7-2016.pdf]
