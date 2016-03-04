@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa se reproduz a seguir:
+    “APELAÇÃO - COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO DO PROMISSÁRIO COMPRADOR. RESCISÃO CONTRATUAL. DEVOLUÇÃO DAS PRESTAÇÕES PAGAS. PERCENTUAL DE RETENÇÃO. MULTA. FRUIÇÃO. RECURSO DESPROVIDO. Rescindido o contrato por inadimplemento do comprador, a retenção de parte do valor das parcelas pagas faz as vezes de indenização pelos prejuízos experimentados pelo promitente vendedor, parte inocente na resolução do pacto. No ponto, a jurisprudência deste TJMG consolidou-se no sentido de que o percentual de 10% sobre o total pago é razoável diante da sua finalidade indenizatória. A jurisprudência prevalente no âmbito do Superior Tribunal de Justiça é no sentido de permitir que, nas hipóteses de rescisão de compromisso de compra e venda de imóveis, seja retido, do preço pago, além da multa contratual, também um valor pela utilização do imóvel pelo comprador inadimplente, no período compreendido entre a posse e a devolução das chaves, o que se convencionou chamar de fruição ou taxa de fruição. Pertinente ao percentual da fruição, deve ser mantido em 0,5% do valor do contrato por mês, conforme iterativa jurisprudência deste TJMG.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, LV, e 93, IX, do Texto Constitucional.
+    Nas razões recursais, sustenta-se negativa de prestação jurisdicional e violação ao princípio da ampla defesa.
+    A 3ª Vice-Presidência do TJMG inadmitiu o recurso por ausência de preliminar formal de repercussão geral.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico a ausência de preliminar formal fundamentada de repercussão geral na petição do recurso extraordinário, pressuposto de admissibilidade do recurso (art. 543-A, § 2º, do CPC).
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF.
+    Todavia, alegações vagas e genéricas acerca da transcendência subjetiva da demanda, como é o caso, não cumprem o preconizado no art. 543-A do CPC, à luz da função de Corte Constitucional desempenhada pelo Supremo Tribunal Federal.
+    Ainda que assim não fosse, inexiste a alegada ofensa ao art. 93, IX, da Constituição Federal. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do Recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Igualmente, ressalto que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não ostenta repercussão geral.
+    Confira-se, a propósito, a ementa do RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos arts. 544, § 4º, II, “b”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 04 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
