@@ -1,0 +1,17 @@
+Decisão: 1. Trata-se de agravo em recurso extraordinário e de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal, em que a parte recorrente sustenta a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    O agravo foi devolvido ao Superior Tribunal de Justiça para enquadramento à sistemática da repercussão geral. Essa Corte aplicou precedente do Supremo Tribunal Federal, com o que indeferiu liminarmente o apelo extremo. A decisão transitou em julgado em 7/4/2015.
+    Cumpre agora analisar o recurso interposto perante o Tribunal de Justiça de Minas Gerais.
+    2. O Plenário do Supremo Tribunal Federal, no julgamento do RE 573.540, (Rel. Min. GILMAR MENDES, DJe de 11/6/2010, Tema 55), submetido à sistemática do art. 543-B do CPC, firmou o entendimento de que (a) as contribuições para assistência à saúde cobradas compulsoriamente pelos Estados de seus servidores possuem natureza nitidamente tributária; (b) os Estados só podem instituir contribuição previdenciária que objetive custear o regime de previdência de seus servidores, não havendo dispositivo constitucional que autorize tais entes federativos a instituir contribuições residuais; e (c) não há óbice constitucional ao oferecimento de serviços de assistência à saúde pelos Estados a seus servidores, desde que a adesão e a contribuição sejam voluntárias. Confira-se a ementa desse julgado:
+    CONTRIBUIÇÃO PARA O CUSTEIO DOS SERVIÇOS DE ASSISTÊNCIA MÉDICA, HOSPITALAR, ODONTOLÓGICA E FARMACEÚTICA. ART. 85 DA LEI COMPLEMENTAR Nº 62/2002, DO ESTADO DE MINAS GERAIS. NATUREZA TRIBUTÁRIA. COMPULSORIEDADE. DISTRIBUIÇÃO DE COMPETÊNCIAS TRIBUTÁRIAS. ROL TAXATIVO. INCOMPETÊNCIA DO ESTADO-MEMBRO. INCONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO NÃO PROVIDO.
+    I - É nítida a natureza tributária da contribuição instituída pelo art. 85 da Lei Complementar nº 64/2002, do Estado de Minas Gerais, haja vista a compulsoriedade de sua cobrança.
+    II - O art. 149, caput, da Constituição atribui à União a competência exclusiva para a instituição de contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais e econômicas. Essa regra contempla duas exceções, contidas no arts. 149, § 1º, e 149-A da Constituição. À exceção desses dois casos, aos Estados-membros não foi atribuída competência para a instituição de contribuição, seja qual for a sua finalidade.
+    III - A competência, privativa ou concorrente, para legislar sobre determinada matéria não implica automaticamente a competência para a instituição de tributos. Os entes federativos somente podem instituir os impostos e as contribuições que lhes foram expressamente outorgados pela Constituição.
+    IV - Os Estados-membros podem instituir apenas contribuição que tenha por finalidade o custeio do regime de previdência de seus servidores. A expressão "regime previdenciário" não abrange a prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos.
+    Considerada a especial eficácia vinculativa desse julgado (CPC, art. 543-B, § 3º), impõe-se sua aplicação, nos mesmos termos, aos casos análogos, como o dos autos.
+    Assim, por estar em consonância com o entendimento jurisprudencial demonstrado, o acórdão recorrido não merece reparos.
+    3. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 7 de março de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
