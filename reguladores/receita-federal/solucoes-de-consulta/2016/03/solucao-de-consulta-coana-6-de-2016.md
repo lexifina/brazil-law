@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 6, de 5 de fevereiro de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 1515.90.90 Mercadoria: Óleo de microalga, constituído de triglicerídeos de ácidos graxos, com concentração predominante de ácido cáprico (C10) (= 10% em peso), ácido láurico (C12) (= 40% em peso) e ácido mirístico (C14) (= 5% em peso), obtido por processo de fermentação aeróbica do açúcar, extraído por prensagem mecânica e clarificado em centrífuga de decantação, denominado triglicerídeo cáprico láurico de microalga.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 15.15) e RGI 6 (texto da subposição 1515.90) e na Regra Geral Complementar da Nomenclatura Comum do Mercosul RGC 1 (texto do item 1515.90.90) constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 1515.90.90 Mercadoria: Óleo de microalga, constituído de triglicerídeos de ácidos graxos, com concentração predominante de ácido cáprico (C10) (= 10% em peso), ácido láurico (C12) (= 40% em peso) e ácido mirístico (C14) (= 5% em peso), obtido por processo de fermentação aeróbica do açúcar, extraído por prensagem mecânica e clarificado em centrífuga de decantação, denominado triglicerídeo cáprico láurico de microalga.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 15.15) e RGI 6 (texto da subposição 1515.90) e na Regra Geral Complementar da Nomenclatura Comum do Mercosul RGC 1 (texto do item 1515.90.90) constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+FERNANDO KENJI MYAMOTO
+Vice-Presidente da 3ª Turma
