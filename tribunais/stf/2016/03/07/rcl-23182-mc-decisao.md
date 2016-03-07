@@ -1,0 +1,25 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada por Maria Aparecida Gomes Lima, ex-Prefeita do Município de Alexânia-GO, contra atos do Tribunal de Contas dos Municípios do Estado de Goiás (TCM/GO), consubstanciados nos Acórdãos AC-ID/IM n. 03182/13 e AC-IM-ID n. 04569/13.
+    A reclamante alega, em síntese, que o TCM/GO, ao apreciar as contas do período em que exerceu o mandato de prefeita municipal (2009-2012), desaprovando-as com relação aos anos de 2010 e 2011, teria violado a autoridade dos acórdãos proferidos por esta Corte nas Ações Diretas de Inconstitucionalidade 3.715/TO, 1.779/PE e 849/MT.
+    A tese é a de que, conforme as referidas decisões desta Suprema Corte, o Tribunal de Contas dos Municípios, o qual deve observar o modelo federal de organização do Tribunal de Contas da União conformado pelas normas constitucionais dos artigos 71 a 75 da Constituição da República, não tem atribuição de julgar as contas prestadas pelo Chefe do Poder Executivo local, mas apenas de emitir parecer prévio a ser enviado à Câmara Municipal, órgão competente para efetivamente exercer o julgamento das contas.
+     Aduz a existência de periculum in mora a justificar o deferimento do pleito liminar, pois estaria “impedida de utilizar-se de suas prerrogativas legais, porque está com as contas rejeitadas pelo TCM/GO, inclusive não pode tirar certidão negativa junto ao órgão de contas municipais, inclusive será lançada no rol de inadimplentes, suspendendo os seus direitos de cidadã, impedindo-a de ser candidata ou ocupar qualquer cargo público”. (eDOC 1, p. 16)
+    Por fim, requer a concessão da liminar para:
+    “SUSPENDER os efeitos dos Acórdãos n°s AC-ID/IM N° 03182/13 e AC-IM/ID N° 04569/13 proferidos nos autos da PRESTAÇÃO DE CONTAS DE GESTÃO do Tribunal de Contas dos Municípios - TCM/GO, até o final julgamento da presente demanda, e em consequência OFICIAR ao Tribunal Regional Eleitoral -TRE/GO e o Tribunal Superior Eleitoral -TSE, a fim de aqueles Tribunais não utilizem referidos Acórdãos como causa de inelegibilidade da Reclamante” (eDOC 1, p. 17)
+    Decido.
+    Estão presentes os pressupostos legais para a concessão do pedido de medida liminar. Conforme relatado na petição inicial, os atos impugnados dizem respeito ao julgamento, pelo Tribunal de Contas dos Municípios do Estado de Goiás, de processos de prestação de contas de gestão e tomadas de contas referentes ao Chefe do Poder Executivo do Município de Alexânia/GO.
+    A respeito desse tema, ressalto o entendimento que deixei consignado no julgamento do ADI-MC n° 3.715 (DJ 25.8.2006), no sentido de que a Constituição Federal é clara ao determinar, em seu art. 75, que as normas constitucionais que conformam o modelo federal de organização do Tribunal de Contas da União são de observância compulsória pelas Constituições dos Estados-membros.
+    Dessa forma, esta Corte também tem entendido que, no contexto do art. 75 da Constituição Federal, dentre as normas constitucionais de observância obrigatória pelos Estados-membros, incluem-se as atinentes às competências institucionais do Tribunal de Contas da União (ADI n. 849-8/MT, Rel. Min. Sepúlveda Pertence, DJ 23.4.1999).
+    No âmbito das competências institucionais do Tribunal de Contas, o Supremo Tribunal Federal tem reconhecido a clara distinção entre:
+    1) a competência para apreciar e emitir parecer prévio sobre as contas prestadas anualmente pelo Chefe do Poder Executivo, especificada no art. 71, inciso I, CF/88;
+    2) a competência para julgar as contas dos demais administradores e responsáveis, definida no art. 71, inciso II, CF/88 (ADI n° 1.779-1/PE, Rel. Min. Ilmar Galvão, DJ 14.9.2001; ADI n° 1.140-5/RR, Rel. Min. Sydney Sanches, DJ 26.9.2003; ADI n° 849-8/MT, Rel. Min. Sepúlveda Pertence, DJ 23.4.1999).
+    No primeiro caso, cabe ao Tribunal de Contas apenas apreciar, mediante parecer prévio, as contas prestadas pelo Chefe do Poder Executivo. A competência para julgar essas contas fica a cargo do Congresso Nacional, por força do art. 49, inciso IX, da Constituição.
+    Na segunda hipótese, a competência conferida constitucionalmente ao Tribunal de Contas é de julgamento das contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo poder público federal, e as contas daqueles que derem causa a perda, extravio, ou outra irregularidade de que resulte prejuízo ao erário (art. 71, II, CF/88).
+    Tais fundamentos são suficientes para a concessão da medida cautelar.
+    Ante o exposto, defiro o pedido de medida liminar, para suspender os efeitos das decisões proferida pelo Tribunal de Contas dos Municípios do Estado de Goiás nos Acórdãos AC-ID/IM n. 03182/13 e AC-IM/ID n. 04569/13.
+    Comunique-se, com urgência.
+    Requisitem-se informações ao Tribunal de Contas dos Municípios do Estado de Goiás.
+    Após, dê-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 7 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
