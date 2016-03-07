@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo regimental contra decisão que deu provimento ao recurso extraordinário ao fundamento de que o Supremo Tribunal Federal assentou a inconstitucionalidade da cobrança de contribuição previdenciária sobre os proventos da inatividade e sobre as pensões de servidores públicos em relação ao período posterior à EC 20/98.
+    Sustenta a parte agravante, em suma, que (a) não há como dizer que não estão em causa as implicações da Emenda Constitucional 41/03; e (b) “(...) havendo o necessário limite da incidência do disposto pela EC 41/03 à espécie, segue-se que o provimento do recurso não pode ser total, e sim parcial, como a própria jurisprudência do STF vem se posicionando (...)” (fl. 371).
+    2. Com razão a parte agravante. O Supremo Tribunal Federal, no julgamento do RE 580.871 QO-RG, sob a sistemática da repercussão geral (Rel. Min. GILMAR MENDES, DJe de 13/2/2010, Tema 343), reafirmou sua jurisprudência de que é devida a devolução aos pensionistas e inativos da contribuição previdenciária indevidamente recolhida no período entre a EC 20/98 e a EC 41/03. Confira-se a ementa do referido julgado:
+    Questão de ordem. 2. É devida a devolução aos pensionistas e inativos de contribuição previdenciária indevidamente recolhida no período entre a EC 20/98 e a EC 41/03, sob pena de enriquecimento ilícito do ente estatal. Precedentes. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso, autorizar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema, autorizando as instâncias de origem a adotar procedimentos do art. 543-B, § 3º, do Código de Processo Civil.
+    Como se vê, esta Corte limita a devolução das contribuições ao advento da EC 41/03.
+    3. Diante do exposto, reconsidero em parte a decisão agravada para limitar a devolução das contribuições previdenciárias ao advento da EC 41/03. Ante a sucumbência recíproca, ficam proporcionalmente compensados as custas e os honorários advocatícios.
+    Publique-se. Intime-se.
+    Brasília, 7 de março de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
