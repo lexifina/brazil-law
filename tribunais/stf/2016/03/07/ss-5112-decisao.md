@@ -1,0 +1,18 @@
+Trata-se de suspensão de execução de segurança concedida pelo Tribunal de Justiça do Estado de Santa Catarina, nos autos do Processo 0025533-73.2005.8.24.0023, em que foi determinado o pagamento imediato da quantia de R$ 6.240.487,04 (seis milhões, duzentos e quarenta mil, quatrocentos e oitenta e sete reais e quatro centavos), em alegada ofensa ao procedimento dos precatórios.
+    O requerente pede a “suspensão liminar da decisão proferida nos autos de n. 0025533-73.2005.8.24.0023 para que se determine que os valores demandados pelos impetrantes sejam objeto de execução nos moldes do art. 730 do CPC, ou, ao menos, no que tange aos valores que excedem a alçada legal de requisição de pequeno valor (RPV), sejam expedidos os respectivos precatórios, na forma do art. 100 da CF” (grifos no original; fl. 20 da petição inicial).
+    Determinada a oitiva da impetrante, esta requereu o não conhecimento do pedido de suspensão (documento eletrônico 5).
+    A Procuradoria-Geral da República opinou pelo não conhecimento do pedido de suspensão, em parecer assim sintetizado:
+    “SUSPENSÃO DE SEGURANÇA. DIREITO ADMINISTRATIVO E DIREITO CONSTITUCIONAL. DECISÃO QUE DETERMINOU O PAGAMENTO DE VALORES DECORRENTES DE EXECUÇÃO DE ORDEM MANDAMENTAL DEFINITIVA. TRÂNSITO EM JULGADO COMO ÓBICE À UTILIZAÇÃO DA VIA SUSPENSIVA. NÃO CABIMENTO.
+    1 – Mandado de Segurança transitado em julgado. Pretensão do requerente de sustar os efeitos de decisão proferida na execução do writ, por alegada violação à sistemática constitucional dos precatórios.
+    2 – O pedido de contracautela tem lugar quando, a requerimento da pessoa jurídica de direito público interessada e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, o presidente do tribunal ao qual couber o conhecimento do respectivo recurso decida suspender a execução da liminar ou da sentença. A previsão do instituto limita-se, portanto, por determinação legal e de forma ordinária, à fase de conhecimento do mandado de segurança.
+    3 – Parecer pelo não conhecimento do incidente” (pág. 1 do documento eletrônico 8).
+     É o relatório necessário.
+    Decido.
+    O pedido não reúne as condições de admissibilidade. Conforme dispõe a Lei 12.016/2009, somente liminares ou decisões sem trânsito em julgado podem ser objeto de medida de contracautela. A suspensão de decisão com trânsito em julgado é juridicamente impossível, por ofender o ato jurídico perfeito, a coisa julgada e o direito adquirido.
+    Consta dos autos que a Associação dos Funcionários Fiscais impetrou o mandado de segurança em que foi proferida a decisão ora impugnada em 22 de junho de 2005, e o pleito liminar respectivo foi provido em 4 de agosto do mesmo ano. No tocante ao adimplemento dos valores referentes ao período designado entre junho de 2005 e outubro de 2006 (data da implementação em folha de pagamento), a autarquia manteve-se inerte durante toda a instrução processual. Em 21/1/2008, foi concedida a segurança. Sem que tenha sido interposto recurso voluntário pelo ora requerente, em sede de reexame necessário, o Tribunal de Justiça do Estado de Santa Catarina manteve a sentença de primeiro grau e o feito transitou em julgado na data de 24/6/2009.
+    Conforme bem sintetizado pela Procuradoria-Geral da República, o instituto da suspensão limita-se, por determinação legal, à fase de conhecimento da ação mandamental, o que não é o caso dos autos.
+    Isso posto, ausentes as condições de admissibilidade, nego seguimento ao pedido de suspensão.
+    Publique-se.
+    Brasília, 7 de março de 2016.
+Ministro Ricardo Lewandowski
+Presidente
