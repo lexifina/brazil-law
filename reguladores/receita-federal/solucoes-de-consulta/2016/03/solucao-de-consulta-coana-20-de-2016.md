@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 20, de 29 de fevereiro de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM: 3921.13.90 Lâmina de plástico alveolar, não adesiva, composta de poliuretano (60%) de células abertas, base poliéster (40%), com reforço de falso tecido em uma das faces, apresentada em rolos de 1,37 m de largura e aproximadamente 25 m de comprimento, gramatura de 557,67 g/m2, para ser utilizada na fabricação de cabedais para calçados esportivos, comumente designada “laminado sintético”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.21), RGI 6 (texto da subposição 3921.13) e RGC 1 (texto do item 3921.13.90) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, com alterações posteriores, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM: 3921.13.90 Lâmina de plástico alveolar, não adesiva, composta de poliuretano (60%) de células abertas, base poliéster (40%), com reforço de falso tecido em uma das faces, apresentada em rolos de 1,37 m de largura e aproximadamente 25 m de comprimento, gramatura de 557,67 g/m2, para ser utilizada na fabricação de cabedais para calçados esportivos, comumente designada “laminado sintético”
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.21), RGI 6 (texto da subposição 3921.13) e RGC 1 (texto do item 3921.13.90) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, com alterações posteriores, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ÁLVARO AUGUSTO DE VASCONCELOS LEITE RIBEIRO
+Presidente da 1ª Turma
