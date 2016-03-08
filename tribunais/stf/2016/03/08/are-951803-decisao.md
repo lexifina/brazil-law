@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5°, II, 195, § 5° e 201, § 11, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo, por oportuno, a ementa do acórdão recorrido:
+    “PREVIDENCIÁRIO. PEDIDO DE CONCESSÃO/ RESTABELECIMENTO DE BENEFÍCIO DE AUXÍLIO-DOENÇA/APOSENTADORIA POR INVALIDEZ. AUTORA PORTADORA DE TRANSTORNO DO DISCO LOMBAR. LAUDO PERICIAL ATESTA INCAPACIDADE PARCIAL E TEMPORÁRIA. SENTENÇA DE PROCEDÊNCIA PARCIAL, BASEADA NA AUSÊNCIA DE QUALIDADE DE SEGURADO. RECURSO DA PARTE AUTORA ALEGANDO QUALIDADE DE SEGURADO, ALÉM DE ESTÁ ACOMETIDA DA MESMA DOENÇA. FALTA DE QUALIDADE DE SEGURADO. RECURSO DA PARTE AUTORA CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.”
+    Verifico que, para aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo, seria necessário o revolvimento do quadro fático delineado na instância ordinária, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “Ementa: PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VERIFICAÇÃO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO. 1. Hipótese em que o acórdão recorrido consigna a ausência dos requisitos necessários à concessão do auxílio-doença. 2. Discussão que envolve matéria infraconstitucional, além de exigir o revolvimento da matéria fática (Súmula 279/STF). 3. Inexistência de repercussão geral.” (ARE 821296 RG, Relator(a): Min. ROBERTO BARROSO, julgado em 25/09/2014, PROCESSO ELETRÔNICO DJe-203 DIVULG 16-10-2014 PUBLIC 17-10-2014 ).
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PERDA DE QUALIDADE DE SEGURADA PARA CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. Para chegar a conclusão diversa do acórdão recorrido acerca da perda da qualidade de segurada para concessão de benefício previdenciário, necessária seria a análise da legislação infraconstitucional pertinente, procedimento inviável em recurso extraordinário. Precedentes. Ademais, o recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante nos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Agravo regimental a que se nega provimento.” (RE 464706 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 27/05/2014, ACÓRDÃO ELETRÔNICO DJe-123 DIVULG 24-06-2014 PUBLIC 25-06-2014).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de março de 2016.
+Ministra Rosa Weber
+Relatora
