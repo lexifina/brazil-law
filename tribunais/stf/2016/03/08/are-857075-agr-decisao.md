@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo regimental contra decisão monocrática que conheceu do agravo, para negar-lhe provimento, com fundamento na aplicação da Súmula 284 do STF.
+    A parte agravante alega erro material na decisão monocrática que rejeitou o agravo, por inexistir, na peça do recurso extraordinário, menção à “ausência de recursos orçamentários para custear o benefício” de aposentadoria concedido pelo Tribunal a quo.
+    Após detida análise dos autos, verifico a ocorrência de erro material, motivo pelo qual reconsidero a decisão constante do eDOC 3, julgo prejudicado o agravo regimental (eDOC 4), e passo ao julgamento do recurso.
+     Cuida-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Piauí, cuja ementa transcrevo no que interessa:
+    “REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. REVISÃO DE PROVENTOS. NECESSIDADE DE PRÉVIO PROCESSO ADMINISTRATIVO. MANUTENÇÃO, IN TOTUM, DA SENTENÇA RECORRIDA.
+    I – É certo que a Administração Pública pode, com adarga no princípio da legalidade, corrigir seus atos com defeitos de legalidade, sem que isso implique violação ao direito adquirido e à irredutibilidade de vencimentos.
+    II – Ocorre que, decorridos 05 (cinco) anos da concessão inicial da aposentadoria, o controle do ato depreca a abertura de prazo para contraditório e ampla defesa, a teor da jurisprudência do Supremo Tribunal Federal.
+     (...)”. (eDOC 1, p. 153)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, inciso LXIX; e 40, §§ 7º e 12, do texto constitucional.
+    Nas razões recursais, sustenta-se que não há direito líquido e certo a ser amparado por mandado de segurança.
+    O recorrente aduz que, nos termos da Constituição Federal, os regimes próprios de previdência dos servidores deve estabelecer os mesmos requisitos fixados pelo RGPS. Dessa forma, salienta que o Tribunal de origem ao conceder ao recorrido direito não previsto para os segurados no RGPS, teria violado o princípio da isonomia.
+    Decido.
+    Inicialmente, ressalto que esta Corte rejeitou a repercussão geral da discussão acerca do cabimento do mandado de segurança, a saber:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral”.
+(AI-RG 800.074, Rel. Min. GILMAR MENDES, DJe 6.12.2010)
+    Na espécie, verifica-se que o Tribunal de origem assentou a necessidade de instauração de procedimento administrativo, com observância do contraditório e da ampla defesa, para alteração do benefício concedido ao recorrido. De outro modo, no recurso extraordinário, a parte recorrente limita-se a sustentar que seria inviável a concessão de benefício a servidor público que não seja previsto para os segurados do Regime Geral de Previdência Social.
+    Vislumbra-se, portanto, a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão impugnado. Desse modo, incide no caso a Súmula 284 do Supremo Tribunal Federal.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ANISTIA. MILITAR EXPULSO COM BASE NA LEGISLAÇÃO DISCIPLINAR ORDINÁRIA. SÚMULAS 284 E 674/STF. PRECEDENTES. As razões apresentadas no recurso extraordinário estão dissociadas dos fundamentos do acórdão que impugnou. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF. A decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência desta Corte consolidada na Súmula 674/STF: “A anistia prevista no art. 8º do Ato das Disposições Constitucionais Transitórias não alcançam os militares expulsos com base em legislação disciplinar ordinária, ainda que em razão de atos praticados por motivação política”. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento”. (ARE-AgR 833.932, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 18.11.2014)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPETÊNCIA JURISDICIONAL. SERVIDOR PÚBLICO. DEFINIÇÃO DO REGIME JURÍDICO DA RELAÇÃO DE TRABALHO (CELETISTA OU ESTATUTÁRIO). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO RECORRIDO. SÚMULA 284 DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 279. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (RE-AgR 575.933, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 13.2.2014)
+    Ainda que assim não fosse, verifico que o acórdão recorrido está em sintonia com a jurisprudência desta Corte, que se firmou no sentido de que a revisão de atos administrativos dos quais decorram efeitos concretos, fundada na autotutela estatal, deve observar o contraditório e a ampla defesa, conforme se verifica no seguinte julgado:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa. 3. Recurso extraordinário a que se nega provimento”. (RE-RG 594.296, Rel. Min. DIAS TOFFOLI, DJe 13.2.2012)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 8 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
