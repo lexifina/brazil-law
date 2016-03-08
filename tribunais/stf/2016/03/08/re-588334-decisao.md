@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que declarou a inconstitucionalidade do art. 8º da Lei Complementar nº 52/1992, do Município de Santos, por entender que tal dispositivo permite a investidura de servidores extranumerários, celetistas ou admitidos em caráter eventual, em cargos de provimento efetivo sem a realização de concurso público.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI; e 39 da Constituição, bem como ao art. 24 do ADCT.
+    O recurso extraordinário é inadmissível. De início, observa-se que, à exceção do art. 5º, XXXVI, as supostas ofensas ao texto constitucional não foram apreciadas pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. O recurso extraordinário carece, portanto, de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, nota-se que o voto condutor do acórdão recorrido entendeu que o caso era de aplicação de efeito ex tunc ao julgamento, ante os seguintes fundamentos:
+    “Dado concreto algum há, sobre o número de servidores que possam ter optado pela ocupação do cargo efetivo ou, ainda, que o retorno à situação precedente acarrete-lhes prejuízo, resultando que nenhuma ofensa ao ordenamento ou a direito individual, pode ocorrer em face da priorização da diretriz constitucional. Em, princípio, ademais, cumpre ressaltar que, a efetiva prestação de serviços nas funções a que optaram, obsta qualquer restituição pela remuneração recebida até o presente. Assiste-lhes a presunção da boa-fé ante a previsão legal à transposição decorrente da seletividade permitida. A partir do trânsito em julgado deste acórdão, com a volta às anteriores atividades, como extranumerários, celetistas ou eventuais, impõe-se, que passem a receber vencimentos, a elas, equivalentes, mas preservadas as remunerações já percebidas. Em tal perspectiva, inclusive, o efeito ‘ex nunc’ redunda supérfluo e mesmo inócuo”.
+    Para dissentir da conclusão assentada pelo Tribunal de origem, seria necessária a reapreciação de fatos e provas constantes dos autos, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai, no ponto, a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 08 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
