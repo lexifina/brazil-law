@@ -1,0 +1,13 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no ARE 743.771-RG/SP, Rel. Min. GILMAR MENDES, por tratar-se de litígio decidido à luz dos fatos e das provas existentes nos autos, fazendo-o em decisão assim ementada:
+    “DIREITO CIVIL. RESPONSABILIDADE CIVIL. VALOR FIXADO A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 279 DA SÚMULA DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Cumpre ressaltar, de outro lado, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o acesso à via recursal extraordinária.
+    Cabe assinalar, ainda, que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 759.963-AgR/RJ, ROBERTO BARROSO – ARE 806.728- -ED/RJ, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 2. Indenização por danos morais e materiais. Matéria infraconstitucional. 3. Necessidade do revolvimento do conjunto fático-probatório. Incidência do Enunciado 279 da Súmula do STF. 4. Agravo regimental a que se nega provimento.”
+    (ARE 894.511-AgRSP, Rel. Min. GILMAR MENDES)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 09 de março de 2016.
+Ministro CELSO DE MELLO
+Relator
