@@ -1,0 +1,1 @@
+Art. 9º-A A Coordenação-Geral de Tecnologia da Informação (Cotec) poderá alterar os anexos de que trata esta Instrução Normativa por meio de Ato Declaratório Executivo a ser publicado no sítio da Secretaria da Receita Federal do Brasil na Internet, no endereço www.receita.fazenda.gov.br.

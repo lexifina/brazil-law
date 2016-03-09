@@ -1,14 +1,15 @@
 ANEXO I - LEIAUTE DO COMPROVANTE DE RENDIMENTOS PAGOS
 Anexo I
-[arquivo anexo: Anexo I.docx]
+[arquivo anexo: Anexo I.pdf]
 ANEXO II - LEIAUTE DO COMPROVANTE DE PAGAMENTOS DE SAÚDE
 Anexo II
-[arquivo anexo: Anexo II.docx]
+[arquivo anexo: Anexo II.pdf]
 ANEXO III - DEFINIÇÕES DE TIPOS DE DADOS
-[arquivo anexo: Anexo III.docx]
+Anexo III
+[arquivo anexo: Anexo III.pdf]
 ANEXO IV - INSTRUÇÕES PARA PREENCHIMENTO DO COMPROVANTE DE RENDIMENTOS PAGOS
 Anexo IV
-[arquivo anexo: Anexo IV.docx]
+[arquivo anexo: Anexo IV.pdf]
 ANEXO V - INSTRUÇÕES PARA PREENCHIMENTO DO COMPROVANTE DE PAGAMENTOS DE SAÚDE
 Anexo V
-[arquivo anexo: Anexo V.docx]
+[arquivo anexo: Anexo V.pdf]
