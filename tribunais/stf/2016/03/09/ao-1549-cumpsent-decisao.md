@@ -1,0 +1,22 @@
+CUMPRIMENTO DE SENTENÇA NA AÇÃO ORIGINÁRIA. PEDIDO QUE SE JULGOU IMPROCEDENTE. EXECUÇÃO DE VERBA SUCUMBENCIAL A CUJO PAGAMENTO OS AUTORES FORAM CONDENADOS. REQUERIMENTO DA CREDORA. ART. 475-J DO CPC. INTIMAÇÃO DOS REQUERIDOS.
+    Decisão: Trata-se de ação originária ajuizada por Iara Ramires da Silva de Castro e outros contra a União, na qual se objetivava a incorporação de verbas relativas a adicional de tempo de serviço. O pedido foi julgado improcedente e os autores condenados ao pagamento dos honorários advocatícios no valor de 10% do valor da causa.
+    É o relatório. Decido.
+    Após a decisão que julgava improcedente o pedido formulado no processo, o recurso dos autores foi desprovido pela Primeira Turma desta Corte. O acórdão restou assim ementado (fls. 154):
+    “EMBARGOS DE DECLARAÇÃO NA AÇÃO ORIGINÁRIA. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL. MAGISTRADOS. ADICIONAL POR TEMPO DE SERVIÇO. INCORPORAÇÃO. ALEGAÇÃO DE DIREITO ADQUIRIDO AO RECEBIMENTO. INOCORRÊNCIA DE DECESSO REMUNERATÓRIO. ABSORÇÃO DA VANTAGEM PELO SUBSÍDIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. O Supremo Tribunal Federal possui o entendimento de que não há direito adquirido relativo a regime jurídico ou à forma de cálculo dos rendimentos de servidor, desde que preservado o montante global da sua remuneração.
+    2. Nesse sentido: ‘EMBARGOS DE DECLARAÇÃO CONVERSÃO EM AGRAVO REGIMENTAL - AÇÃO ORIGINÁRIA - INCORPORAÇÃO DO ADICIONAL POR TEMPO DE SERVIÇO (ART. 65, VIII, DA LOMAN) - SUBSÍDIO DE MAGISTRADOS QUE ABSORVEU O VALOR DA VANTAGEM EM APREÇO NÃO CARACTERIZAÇÃO DA REDUÇÃO DOS VENCIMENTOS INVIÁVEL A PRETENSÃO DE MANTER DETERMINADA FÓRMULA DE COMPOSIÇÃO DE SUA REMUNERAÇÃO - VANTAGENS PESSOAIS QUE NÃO INTEGRAM OS VENCIMENTOS DOS CARGOS - DIREITO ADQUIRIDO INEXISTENTE RECURSO NÃO PROVIDO. I O Supremo Tribunal Federal pacificou o entendimento de que não pode o agente público opor a pretensão de manter determinada fórmula de composição de sua remuneração total com fundamento em direito adquirido, sobretudo se, da alteração, não decorre redução do patamar remuneratório anteriormente percebido, como na hipótese dos autos. II As vantagens pessoais não integram os vencimentos dos cargos, pois são atributo e apanágio do servidor. Instituição de subsídio com absorção da vantagem objeto dos autos. Inexistência de direito adquirido. III Embargos declaratórios convertidos em agravo regimental. IV - Agravo regimental a que se nega provimento.’ (AO 1509-ED/SP, Rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, Dje de 26/03/2014).
+    3. In casu, assentou-se a inocorrência de decesso remuneratório, evidenciando a absoluta consonância do que decidido com o entendimento desta Corte.
+    4. Agravo Regimental a que se nega provimento.”
+    A ocorrência do trânsito em julgado da decisão se deu em 7/4/2015 (fls. 166).
+    Após, por meio da Petição STF nº 4.867/2016 (fls. 167), a União requer o cumprimento da decisão na forma do art. 475-J do CPC para o pagamento da verba sucumbencial.
+    Sobre o tema, colaciono as seguintes disposições do Código de Processo Civil:
+    “Art. 475-I. O cumprimento da sentença far-se-á conforme os arts. 461 e 461-A desta Lei ou, tratando-se de obrigação por quantia certa, por execução, nos termos dos demais artigos deste Capítulo. (Incluído pela Lei nº 11.232, de 2005)
+    § 1º É definitiva a execução da sentença transitada em julgado e provisória quando se tratar de sentença impugnada mediante recurso ao qual não foi atribuído efeito suspensivo. (Incluído pela Lei nº 11.232, de 2005)
+    § 2º Quando na sentença houver uma parte líquida e outra ilíquida, ao credor é lícito promover simultaneamente a execução daquela e, em autos apartados, a liquidação desta. (Incluído pela Lei nº 11.232, de 2005)
+    Art. 475-J. Caso o devedor, condenado ao pagamento de quantia certa ou já fixada em liquidação, não o efetue no prazo de quinze dias, o montante da condenação será acrescido de multa no percentual de dez por cento e, a requerimento do credor e observado o disposto no art. 614, inciso II, desta Lei, expedir-se-á mandado de penhora e avaliação. (Incluído pela Lei nº 11.232, de 2005)”
+    Ex positis, determino a intimação dos requeridos (autores da ação originária) para que, diante do que peticionado pela União às fls. 360, comprovem, no prazo de 15 (quinze dias), o pagamento da verba sucumbencial a cujo pagamento foram condenados, nos termos do art. 475-J do CPC.
+    Publique-se.
+    Brasília, 9 de março de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
