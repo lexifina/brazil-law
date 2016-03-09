@@ -3,6 +3,3 @@ Art. 26. O disposto neste Capítulo não se aplica às pessoas jurídicas que ut
 § 2º A dedução de que trata o § 1º deste artigo poderá chegar a até 180% (cento e oitenta por cento) dos dispêndios em função do número de empregados pesquisadores contratados pela pessoa jurídica, na forma a ser definida em regulamento.
 § 3º A partir do período de apuração em que ocorrer a dedução de que trata o § 1º deste artigo, o valor da depreciação ou amortização relativo aos dispêndios, conforme o caso, registrado na escrituração comercial deverá ser adicionado ao lucro líquido para efeito de determinação do lucro real.
 § 4º A pessoa jurídica de que trata o caput deste artigo que exercer outras atividades além daquelas que geraram os benefícios ali referidos poderá usufruir, em relação a essas atividades, os benefícios de que trata este Capítulo.
-§ 5º Ficam suspensos no ano-calendário de 2016:
-I - o gozo do benefício fiscal de que trata este artigo; e
-II - a apuração dos dispêndios de que trata este artigo realizados no ano-calendário de 2016.
