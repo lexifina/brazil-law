@@ -1,0 +1,21 @@
+Decisão:
+ementa: Processual penal. Habeas corpus. Súmula 691/STF. Ausência de teratologia, ilegalidade flagrante ou abuso de poder.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão da Ministra Maria Thereza de Assis Moura, que indeferiu a cautelar requerida nos autos do HC 341.948, em trâmite no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente, preso em flagrante em 04.11.2013, foi denunciado pela suposta prática do crime previsto no artigo 155, § 4º, inciso I, c/c o artigo 14, inciso II, ambos do Código Penal.
+    3. Em 06.11.2013, o Juízo de origem concedeu o benefício da liberdade provisória ao paciente, mediante o pagamento de fiança.
+    4. Embora o paciente não tenha recolhido o valor da fiança, o magistrado da causa manteve o deferimento da liberdade provisória, determinando a expedição de alvará de soltura, em 14.02.2014.
+    5. Ocorre que o acusado, apesar de regularmente intimado, não compareceu à audiência de instrução e julgamento, realizada em 24.02.2014. De modo que o magistrado da causa decretou a revelia do acusado e determinou a imediata expedição de mandado de prisão em seu desfavor. O mandado foi cumprido em 30.07.2014.
+    6. Em 13.05.2014, sobreveio a sentença condenatória do paciente à pena de 3 (três) anos de reclusão, em regime inicial fechado, vedado o direito de recorrer em liberdade.
+    7. Da sentença, a defesa interpôs apelação, pendente de julgamento, e, sucessivamente, impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. O writ foi indeferido.
+    8. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. A Relatora do HC 341.948, Ministra Maria Thereza de Assis Moura, indeferiu a medida cautelar e o respectivo pedido de reconsideração.
+    9. Neste habeas corpus, a parte impetrante alega demora no julgamento da apelação da defesa e que o paciente, “condenado à pena de três anos de reclusão, já permaneceu preso cautelarmente por quase dois anos sem que possa formular pedidos em sede de execução ou que tenha sido remetido à superior instância o recurso de apelação por sua defesa”. Sustenta a inexistência dos requisitos necessários à manutenção da custódia cautelar e a ausência de fundamentação da sentença na parte em que vedou o direito de recorrer em liberdade. Daí o pedido de concessão da ordem a fim de assegurar ao acionante o direito de aguardar em liberdade o julgamento da apelação ou, subsidiariamente, a fim de fixar o regime inicial aberto.
+    Decido.
+    10. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    11. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As decisões das instâncias precedentes não são teratológicas ou patentemente desfundamentadas. Para além de observar que se trata de acusado reincidente, dou especial relevância ao fundamento adotado pelo Tribunal Estadual no sentido de que, “embora tenha sido concedida a liberdade provisória ao paciente, durante a instrução criminal, deixou ele de comparecer em audiência designada para seu interrogatório, tornando-se revel, demonstrando, assim, não fazer jus ao benefício de recorrer em liberdade, uma vez que sequer demonstrou interesse em cumprir as condições impostas para manter a tão almejada soltura”.
+    12. Não bastasse isso, a questão referente à fixação de regime inicial de cumprimento de pena mais gravoso não foi apreciada pelo Tribunal Estadual nem pelo Superior Tribunal de Justiça. O que significa dizer que o imediato conhecimento deste habeas corpus acarretaria uma dupla, e indevida, supressão de instâncias (v.g HC 116.350-AgR, Rel.ª Min.ª Rosa Weber; e HC 114.166, Rel. Min. Ricardo Lewandowski).
+    13. Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 09 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
