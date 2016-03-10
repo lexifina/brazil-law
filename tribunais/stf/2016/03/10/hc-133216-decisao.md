@@ -1,0 +1,20 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Diego Americo Rivera Teran, em causa própria, contra ato do Ministro Celso de Mello, deste Supremo Tribunal Federal, nos autos da EXT 1.392.
+    No presente writ, alega o Impetrante, em síntese, a ocorrência de causa impeditiva da extradição dada a prescrição da pretensão punitiva estatal, nos termos da legislação brasileira. Sustenta, ainda, a possibilidade de concessão de liberdade provisória. Requer, em medida liminar e no mérito, a imediata colocação do paciente em liberdade.
+    É o relatório.
+    Decido.
+    Ao exame dos autos, verifico que o objeto do presente writ já foi apreciado por esta Suprema Corte nos autos do HC 132.249/DF, de minha relatoria, em que neguei seguimento, no dia 1º.02.2016, nos seguintes termos:
+    “(…).
+    Ao exercício do juízo de cognoscibilidade, reputo descabido o processamento deste habeas corpus, enquanto se volta contra ato de Ministro desta Corte, à luz da jurisprudência firmada pelo Plenário no sentido de que “não cabe pedido de habeas corpus originário para o Tribunal Pleno, contra ato de Ministro ou órgão fracionário da Corte” (HC 86.548/SP, Rel. Min. Cezar Peluso, maioria, DJe 19.12.2008). Assentada, tal diretriz, na aplicação analógica do enunciado da Súmula 606/STF: “Não cabe habeas corpus originário para o Tribunal Pleno de decisão de Turma, ou do Plenário, proferida em habeas corpus ou no respectivo recurso”.
+    Reafirmada tal compreensão em reiterados precedentes. Confira-se:
+    (…).
+    Ainda que assim não fosse, inexiste na espécie, conforme pontuado pela Defesa, “um posicionamento sobre a existência de prescrição ou não”. O Ministro Celso de Mello solicitou “à Missão Diplomática da República do Chile informações sobre a data em que a sentença condenatória subjacente a este pedido extradicional, proferida pela Justiça chilena, transitou em julgado para a Acusação, considerado o que prescreve o art. 112, inciso I, do Código Penal brasileiro”. Dada a ausência de manifestação do Estado Requerente, o eminente Relator, em 11.12.2015, determinou a reiteração do respectivo ofício.
+    Ora, inviável cogitar da existência de constrangimento ilegal na condução do processo de extradição quando ainda não apreciadas as teses defensivas pelo Relator respectivo (HC 98.416/MG, Rel. Min. Marco Aurélio, Rel. p/ Acórdão Min. Dias Toffoli, Plenário, DJe 25.6.2010; HC 100.397/MG, Rel. Min. Marco Aurélio, Rel. p/ Acórdão: Min. Cármen Lúcia, Plenário, DJe 01.7.2010).
+    Ademais, a comunicação oficial de atos processuais, nos autos de Extradição, ao Estado requerente é realizada pela via diplomática. Os arts. 80 a 86 da Lei 6.815/80 – Estatuto do Estrangeiro – e o art. 21 do Tratado de Extradição pertinente apontam que a via diplomática usual, em que comunicados os atos processuais, se desenvolve pela interface do Ministério das Relações Exteriores perante a missão diplomática oficial do Estado Requerente. Nesse contexto, irreprochável a reiteração de ofício determinada pelo Ministro Celso de Mello, uma vez imprescindível para o esclarecimento de eventual demora por parte do Governo do Chile quanto ao cumprimento da diligência requerida.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).“
+    Ambas impetrações são idênticas, com as mesmas partes, o mesmo pedido e a mesma causa de pedir. Não há, portanto, como dar prosseguimento ao presente feito, enquanto mera reiteração de impetração anterior.
+    Nesse contexto, a jurisprudência deste Supremo Tribunal Federal é no sentido de que “não se conhece de habeas corpus em que se reitera a pretensão veiculada em habeas corpus anteriormente impetrado” (HC 112.645/TO, Rel. Min. Ayres Britto, 2ª Turma, DJe 08.6.2012). No mesmo diapasão, “o habeas corpus é inadmissível quando se trata de mera reiteração das razões de medida anteriormente impetrada nesta Corte”(HC 110.192/RJ, Rel. Min. Luiz Fux, 1ª Turma, DJe 10.10.2014).
+    Ante o exposto, nego seguimento ao presente habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 10 de março de 2016.
+Ministra Rosa Weber
+Relatora
