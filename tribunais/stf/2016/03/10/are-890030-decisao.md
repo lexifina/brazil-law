@@ -1,0 +1,19 @@
+DECISÃO: A controvérsia suscitada no recurso extraordinário a que se refere o presente agravo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 5º, LIII, E 94 DA CF. SÚMULAS 282 E 356 DO STF. MILITAR. SANÇÃO ADMINISTRATIVA. APLICAÇÃO DA PENA DE EXCLUSÃO. ATO DO COMANDANTE GERAL. POSSIBILIDADE. PROCESSO ADMINISTRATIVO DISCIPLINAR. REGULARIDADE. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO.
+    I – Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. Precedentes.
+    II – O Plenário desta Corte, no RE 197.649/SP, Rel. Min. Carlos Velloso, concluiu que a competência da Justiça Militar estadual, nos termos do art. 125, § 4º, da Constituição, restringe-se à decisão sobre a perda da graduação de praças como pena acessória de crime, o que não obsta a competência do Comando Geral da Polícia Militar para decretar a perda da graduação como sanção administrativa disciplinar.
+    III – Concluir de forma diversa do acórdão recorrido, no caso, demandaria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    IV – Agravo regimental improvido.”
+    (AI 794.949-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI)
+    “Agravo regimental no recurso extraordinário com agravo. Criminal. Ausência de demonstração de divergência jurisprudencial. Precedente. Reapreciação de fatos e provas. Precedentes.
+    1. O acórdão recorrido não divergiu da jurisprudência desta Suprema Corte, preconizada no sentido de que ‘a competência da Justiça Militar estadual, nos termos do art. 125, § 4º, da Constituição, restringe-se à decisão sobre a perda da graduação de praças como pena acessória de crime, o que não obsta a competência do Comando Geral da Polícia Militar para decretar a perda da graduação como sanção administrativa disciplinar’ (AI nº 794-949/SP-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 8/10/12).
+    2. Não é possível, em sede de recurso extraordinário, reexaminar fatos e provas, a teor do que dispõe a Súmula nº 279/STF.
+    3. Agravo regimental ao qual se nega provimento.”
+    (ARE 750.106-AgR/SP, Rel. Min. DIAS TOFFOLI)
+    Cumpre destacar, por oportuno, no tema ora em exame, ante a inquestionável procedência de suas observações, fragmento do voto proferido pela eminente Ministra ELLEN GRACIE (AI 596.982-AgR- -ED/MG): “Com efeito, está clara a decisão recorrida, que se apoiou na jurisprudência desta Corte e concluiu que a competência conferida à Justiça Castrense pelo art. 125, § 4º, da CF refere-se à perda da graduação como pena acessória criminal, e não à sanção disciplinar administrativa. Dessa forma, foi afastada a aplicabilidade do art. 125, § 4º, da CF e das Emendas Constitucionais 18 e 20 de 1998, estas últimas por cuidarem exclusivamente da perda do posto e da patente de oficial (CF, art. 141, VII). Por isso mesmo, desnecessária qualquer análise a respeito dos temas”.
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em questão.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para dar provimento ao recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “c”, na redação dada pela Lei nº 12.322/2010), em ordem a reconhecer a competência da Justiça comum estadual para processar e julgar a presente causa.
+    Publique-se.
+    Brasília, 10 de março de 2016.
+Ministro CELSO DE MELLO
+Relator
