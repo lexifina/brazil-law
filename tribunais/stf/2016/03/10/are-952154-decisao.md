@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. PROVENTOS INTEGRAIS. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. DESCABIMENTO DO RECURSO PELA AL. C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base nas als. a e c do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APOSENTADORIA POR INVALIDEZ -Servidor Público Municipal de Santo André (Pedreiro)- Cerceamento de defesa inexistente - Autor acometido de moléstia em sua coluna cervical que não o impossibilita de exercer outra atividade, tal como já realiza, de forma readaptada - Perícia médica conclusiva quanto a possibilidade de readaptação - Improcedência da ação mantida - Recurso do autor não provido”.
+    2. O Agravante alega contrariados os arts. 1º, inc. III, 5º, inc. V, 7º, inc. XXVII, da Constituição da República.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A apreciação do pleito recursal exigiria a interpretação da legislação infraconstitucional aplicável à espécie (Lei municipal n. 8.703/2004) e o reexame do conjunto fático-probatório constante do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem as Súmulas ns. 279 e 280 do Supremo Tribunal Federal:
+    “Agravo regimental no recurso extraordinário. 2. Mandado de segurança. Aposentadoria. 3. Cardiopatia grave. Proventos integrais. Lei Estadual 10.460/88. 4. Redução dos vencimentos. Ilegalidade do ato. 5. Súmulas 279 e 280 do STF. 6. Ausência de argumentos suficientes à infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento” (RE n. 652.858-AgR/GO, Relator o Ministro Gilmar Mendes, Segunda Turma, DJ 9.12.2015).
+    “EMENTA: EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. APOSENTADORIA POR INVALIDEZ. PROVENTOS INTEGRAIS. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO LOCAL E NO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 853.826-ED/RS, de minha relatoria, Segunda Turma, DJ 13.2.2015).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. SERVIDOR PÚBLICO ESTADUAL. APOSENTADORIA INTEGRAL. PREENCHIMENTO DE REQUISITOS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO ESTADUAL: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 845.834-AgR/PI, de minha relatoria, Segunda Turma, DJ 1.12.2014).
+    7. Tampouco se viabiliza o extraordinário pela al. c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição da República. Incide, na espécie, a Súmula n. 284 do Supremo Tribunal Federal:
+    “Recurso extraordinário. - Inocorrência da hipótese prevista na alínea ‘c’ do inciso III do artigo 102 da Constituição Federal. Falta de fundamentação, por isso mesmo, a esse respeito. Aplicação da Súmula 284” (RE n. 148.355, Relator o Ministro Moreira Alves, Primeira Turma, DJ 5.3.1993).
+    8. Pelo exposto, nego seguimento ao agravo (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de março de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
