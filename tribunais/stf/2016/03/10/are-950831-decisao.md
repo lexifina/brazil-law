@@ -1,0 +1,10 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Impõe-se registrar, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veiculada no caso em exame (AI 669.805/SP, Rel. Min. JOAQUIM BARBOSA – AI 673.957/SP, Rel. Min. DIAS TOFFOLI – AI 755.820/SP, Rel. Min. LUIZ FUX – ARE 848.948/SP, Rel. Min. GILMAR MENDES – RE 478.248-ED/RS, Rel. Min. CEZAR PELUSO – RE 507.708- -AgR/RS, Rel. Min. ELLEN GRACIE, v.g.):
+    “Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Servidor Público do Poder Judiciário. Reajuste de 28,86%. Lei no 9.421, de 1996. Ofensa reflexa à Constituição Federal. Precedentes. 4. Agravo regimental a que se nega provimento.”
+    (RE 376.838-AgR/PB, Rel. Min. GILMAR MENDES)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 10 de março de 2016.
+Ministro CELSO DE MELLO
+Relator
