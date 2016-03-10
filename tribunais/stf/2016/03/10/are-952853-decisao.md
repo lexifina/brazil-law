@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA. PROVENTOS INTEGRAIS. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “PROCESSO CIVIL E ADMINISTRATIVO. CONCESSÃO DA APOSENTADORIA DURANTE O TRÂMITE DA AÇÃO JUDICIAL. PERDA SUPERVENIENTE DO INTERESSE DE AGIR. PROVENTOS INTEGRAIS. AUSÊNCIA DE REQUISITOS LEGAIS. 1. Se durante o trâmite processual a Administração Pública concede a aposentadoria reclamada, a medida que se impõe é a declaração da perda superveniente do interesse de agir, quanto a essa pretensão. 2. No caso de doença incapacitante para o serviço público, a aposentadoria somente poderá ser concedida com proventos integrais se o servidor for portador de doença decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, a teor do que dispõe o artigo 40, §1º, inciso I, da Constituição Federal. 3. Recurso desprovido”.
+    Os embargos de declaração foram rejeitados.
+    2. A Agravante alega contrariado o art. 40, inc. I, da Constituição da República.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de prequestionamento.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Inicialmente, cumpre afastar o fundamento da decisão agravada relativo à incidência da Súmula n. 282 do Supremo Tribunal Federal, por demonstrar a Agravante ter havido o necessário prequestionamento da matéria constitucional alegada no recurso.
+    5. A superação desse fundamento, todavia, não é suficiente para o acolhimento de sua pretensão.
+    6. A apreciação do pleito recursal exigiria a interpretação da legislação infraconstitucional aplicável à espécie (Leis distritais ns. 197/1991 e 2.834/2001, Lei Complementar distrital n. 840/2011 e Lei n. 8.112/1990) e o reexame do conjunto fático-probatório constante do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem as Súmulas ns. 279 e 280 do Supremo Tribunal Federal:
+    “Agravo regimental no recurso extraordinário. 2. Mandado de segurança. Aposentadoria. 3. Cardiopatia grave. Proventos integrais. Lei Estadual 10.460/88. 4. Redução dos vencimentos. Ilegalidade do ato. 5. Súmulas 279 e 280 do STF. 6. Ausência de argumentos suficientes à infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento” (RE n. 652.858-AgR/GO, Relator o Ministro Gilmar Mendes, Segunda Turma, DJ 9.12.2015).
+    “EMENTA: EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. APOSENTADORIA POR INVALIDEZ. PROVENTOS INTEGRAIS. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO LOCAL E NO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 853.826-ED/RS, de minha relatoria, Segunda Turma, DJ 13.2.2015).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. SERVIDOR PÚBLICO ESTADUAL. APOSENTADORIA INTEGRAL. PREENCHIMENTO DE REQUISITOS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO ESTADUAL: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 845.834-AgR/PI, de minha relatoria, Segunda Turma, DJ 1.12.2014).
+    7. Pelo exposto, nego seguimento ao agravo (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília,10 de março de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
