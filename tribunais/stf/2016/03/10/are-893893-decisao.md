@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IRPF. ISENÇÃO. AUXÍLIO-DOENÇA. ARTIGO 48 DA LEI Nº 8.541/1992. PRETENSÃO DE EXTENSÃO DO BENEFÍCIO FISCAL À LICENÇA SAÚDE (MG), COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA. ATUAÇÃO DO PODER JUDICIÁRIO COMO LEGISLADOR POSITIVO. IMPOSSIBILIDADE. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS EM SEDE EXTRAORDINÁRIA. INVIABILIDADE. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “TRIBUTÁRIO. LICENÇA PARA TRATAMENTO DE SAÚDE. ISENÇÃO DE IMPOSTO DE RENDA. LEIS 7.713/88 E 8.541/92. IMPOSSIBILIDADE. INTERPRETAÇÃO RESTRITIVA. ART. 111 DO CTN.
+    A inexistência de lei específica que assegure a isenção de imposto de renda sobre proventos de licença para tratamento de saúde impossibilita a concessão de tal benefício.
+    Agravo regimental improvido.”
+    Nas razões do apelo extremo, os recorrentes sustentam preliminar de repercussão geral e, no mérito, apontam violação aos artigos 145, § 1º, e 150, II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o acórdão recorrido estaria em harmonia com a jurisprudência do Supremo Tribunal Federal.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    O Tribunal a quo entendeu que “há dois impedimentos para o deferimento da referida isenção: a inexistência de lei específica que assegure a isenção de imposto de renda sobre licença para tratamento de saúde; assim como a impossibilidade de conferir interpretação extensiva ao art. 48 da Lei nº 8.541/92, que isentou estritamente os rendimentos percebidos pelas pessoas físicas decorrentes de seguro-desemprego, auxílio-natalidade, auxílio-doença, auxílio-funeral e auxílio-acidente”.
+    Nesse contexto, concluir diversamente do acórdão recorrido demandaria a interpretação da legislação infraconstitucional de regência, de forma que eventual ofensa à Constituição Federal seria meramente indireta e reflexa, o que inviabiliza o exame da matéria na via estreita do recurso extraordinário. Incide, mutatis mutandis, o óbice da Súmula nº 636 do STF, verbis: “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Outrossim, saliente-se que é vedado ao Poder Judiciário desconsiderar os limites objetivos e subjetivos estabelecidos na concessão de benesse fiscal ou previsão de situação mais vantajosa, de sorte a alcançar contribuinte não contemplado na legislação aplicável, ou criar situação mais favorável ao contribuinte, a partir da combinação legalmente não permitida de normas infraconstitucionais, sob pena de agir na condição anômala de legislador positivo.
+    No mesmo sentido: RE 632.241-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 3/9/2014; ARE 742.618-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 22/10/2013; RE 631.641-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 13/2/2013; RE 633.753-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 9/11/2012; e RE 402.748-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe de 16/5/2008, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS/PASEP E COFINS. EXTENSÃO DE TRATAMENTO DIFERENCIADO. ISONOMIA. IMPOSSIBILIDADE JURÍDICA DO PEDIDO.
+    1. O acolhimento da postulação da autora --- extensão do tratamento tributário diferenciado concedido às instituições financeiras, às cooperativas e às revendedoras de carros usados, a título do PIS/PASEP e da COFINS --- implicaria converter-se o STF em legislador positivo. Isso porque se pretende, dado ser ínsita a pretensão de ver reconhecida a inconstitucionalidade do preceito, não para eliminá-lo do mundo jurídico, mas com a intenção de, corrigindo eventual tratamento adverso à isonomia, estender os efeitos da norma contida no preceito legal a universo de destinatários nele não contemplados. Precedentes.
+    Agravo regimental não provido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 10 de março de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
