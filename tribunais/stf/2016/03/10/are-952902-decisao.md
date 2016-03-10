@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+    “APELAÇÃO CÍVEL – MILITAR QUE EXERCE A FUNÇÃO DE MOTORISTA DE VIATURA – PEDIDOS DE DANOS MORAIS E DE CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO DE 10% PREVISTA NO INCISO V, DO ARTIGO 23 DA LEI COMPLEMENTAR ESTADUAL 127/2008 – SENTENÇA QUE JULGA IMPROCEDENTE OS PEDIDOS COM FUNDAMENTO NO DECRETO ESTADUAL Nº 12.560/08, HAJA VISTA NÃO TER O APELANTE SIDO DESIGNADO POR ATO DO GOVERNADOR DO ESTADO – DECRETO QUE CARACTERIZA EXCESSO DO PODER REGULAMENTAR – PEDIDO DE INDENIZAÇÃO JULGADO PROCEDENTE – ATIVIDADE INDICADA PELO LEGISLADOR COMO SENDO EXCEPCIONAL – DANO MORAL INDEVIDO – RECURSO PARCIALMENTE PROVIDO.
+    A Lei Complementar nº 127/08 não limitou o direito à retribuição pelo exercício de funções inerentes aos cargos de comando, chefia, direção e coordenação somente aos casos de designações provenientes de ato do Governador do Estado, de modo que o Decreto Estadual nº 12.560/2008, ao fazê-lo, atuou de maneira ilegal, extrapolando o poder regulamentar do Executivo.
+    Satisfeitos os pressupostos previstos na Lei Complementar nº 127/2008, o servidor público faz jus ao recebimento de vantagem pecuniária, sendo que isso não importa em majoração da remuneração de maneira irregular, em afronta ao disposto no artigo 37, X da Constituição Federal, uma vez que o legislador decidiu que certas atividades, dentre todas as realizadas pelos policiais militares, não se enquadram como ordinárias, merecendo uma contraprestação especial em razão do seu desempenho.
+    O não pagamento do adicional de função não enseja o pagamento de indenização por danos morais, haja vista que tal expediente não passa de mero dissabor e teve por justificativa a inconstitucionalidade de lei, ainda que tal justificativa não foi aceita pelo Poder Judiciário.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, V; e 39, § 4º, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que incide, no caso, a Súmula 280/STF.
+    O recurso extraordinário é inadmissível. Isso porque, para chegar a conclusão pretendida pela parte recorrente, seria imprescindível o reexame dos fatos e do material probatório constantes dos autos, bem com da legislação local pertinente (Lei Complementar estadual nº 127/2008 e Decreto Estadual nº 12.560/2008), o que é vedado neste momento processual, nos termos das Súmulas 279 e 280/STF. Nesse sentido, confira-se o ARE 940.816, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
