@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 2ª Turma Recursal da Justiça Federal do Estado do Rio de Janeiro, ementado nos seguintes termos:
+    “ADMINISTRATIVO. PAGAMENTO DE VALORES ATRASADOS RECONHECIDOS ADMINISTRATIVAMENTE. LEGITIMIDADE DA RECORRENTE. PRESCRIÇÃO. INOCORRÊNCIA. ENTENDIMENTO FIRMADO PELA TNU. CORREÇÃO MONETÁRIA E JUROS DE MORA. ENUNCIADO 111 DAS TRs/SJRJ. RECURSO CONHECIDO E IMPROVIDO”.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º; 5º, caput e II; 48; 49; e 169, § 1º, I, do texto constitucional.
+    Nas razões recursais, alega-se violação à lei e ao princípio da isonomia, seja porque o Poder Judiciário não poderia determinar pagamento de verbas remuneratórias a servidores, sem a existência de prévia dotação orçamentária, seja porque está privilegiando apenas um servidor em detrimento dos demais que se encontram em idêntica situação à do ora recorrido.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 10.259/01) e o conjunto probatório constante dos autos, consignou que é devido o pagamento, ao recorrido, de valores atrasados reconhecidos administrativamente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A alegação de ausência de Lei e de previsão orçamentária não deve prosperar, uma vez que a Lei 10.259/01 estabelece, em seu artigo 17, que a execução nos JEFs dar-se-á independentemente de precatório, dispensando a prévia dotação orçamentária, conforme decisão proferida pela Turma Nacional de Uniformização – PEDILEF 200435007191871, Relator: Juiz Federal Abel Cardoso Morais”. (eDOC 28, p. 3)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PAGAMENTO DE VERBAS REMUNERATÓRIAS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 784.650, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 13.3.2014)
+    “ADMINISTRATIVO. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. ART.1º-F. LEI 9.494/97. CONSTITUCIONALIDADE. AGRAVO IMPROVIDO. I - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II - Matéria que demanda a análise de fatos e provas, o que atrai a incidência da Súmula 279 do STF. III - Em Sessão Plenária de 28/2/2007, o Supremo Tribunal Federal declarou a constitucionalidade do art. 1º-F da Lei 9.494/97, o qual limita a 6% ao ano os juros de mora nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos. IV - Agravo regimental improvido”. (AI-AgR 622.204, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 27.3.2009)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 10 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
